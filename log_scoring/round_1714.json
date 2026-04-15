@@ -1,0 +1,200 @@
+{
+  "round": 1714,
+  "timestamp": "2026-04-13T10:44:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 9.7971,
+      "prior_variance": 0.502521,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 1.6945,
+      "prior_variance": 0.417254,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": -0.7005,
+      "prior_variance": 0.41298,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Hotsprings",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": -0.4531,
+      "prior_variance": 0.373449,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": -0.7972,
+      "prior_variance": 0.406436,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 2.389,
+      "prior_variance": 0.396575,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 1.7239,
+      "prior_variance": 0.36068,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_score": -0.1452,
+      "prior_variance": 0.428948,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 2.9269,
+      "prior_variance": 0.300502,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": 1.4703,
+      "prior_variance": 0.310045,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": -0.2706,
+      "prior_variance": 0.34306,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_score": -4.5569,
+      "prior_variance": 0.363267,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gambia",
+      "path": "africa/gambia",
+      "prior_score": -0.6621,
+      "prior_variance": 0.241622,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Legazpi",
+      "path": "europe/spain/northernspain/legazpi",
+      "prior_score": -1.5309,
+      "prior_variance": 0.346913,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_score": -1.2947,
+      "prior_variance": 0.319776,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Azad Kashmir",
+      "path": "asia/pakistan/azad_kashmir",
+      "prior_score": -1.1007,
+      "prior_variance": 0.28841,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -1.2252,
+      "prior_variance": 0.32377,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_score": -0.3122,
+      "prior_variance": 0.303339,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_score": -2.261,
+      "prior_variance": 0.3823,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -5.2208,
+      "prior_variance": 0.303139,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Grand erg",
+      "path": "africa/algeria/granderg",
+      "prior_score": -2.8183,
+      "prior_variance": 0.412649,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Palagru\u017ea",
+      "path": "europe/croatia/korcula/palagruza_island",
+      "prior_score": -1.4072,
+      "prior_variance": 0.40397,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -2.8977,
+      "prior_variance": 0.483654,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tann",
+      "path": "europe/switzerland/tann",
+      "prior_score": -1.5874,
+      "prior_variance": 0.392317,
+      "prior_n": 4
+    }
+  ]
+}

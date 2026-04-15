@@ -1,0 +1,200 @@
+{
+  "round": 105,
+  "timestamp": "2026-04-12T08:04:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_mu": 32.88,
+      "prior_sigma": 3.24,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_mu": 28.45,
+      "prior_sigma": 3.13,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mongolia",
+      "path": "asia/mongolia",
+      "prior_mu": 21.86,
+      "prior_sigma": 3.31,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_mu": 22.95,
+      "prior_sigma": 3.46,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pamplona",
+      "path": "europe/spain/northernspain/pamplona",
+      "prior_mu": 24.37,
+      "prior_sigma": 4.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/richmond",
+      "prior_mu": 21.23,
+      "prior_sigma": 3.68,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_mu": 21.13,
+      "prior_sigma": 4.44,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_mu": 21.47,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_mu": 23.42,
+      "prior_sigma": 3.17,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_mu": 22.05,
+      "prior_sigma": 3.75,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Iraklion",
+      "path": "europe/greece/iraklion",
+      "prior_mu": 24.9,
+      "prior_sigma": 3.74,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_mu": 20.9,
+      "prior_sigma": 2.97,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_mu": 19.57,
+      "prior_sigma": 3.25,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Imperial Beach",
+      "path": "northamerica/unitedstates/california/sandiego/imperialbeach",
+      "prior_mu": 20.96,
+      "prior_sigma": 3.46,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_mu": 20.86,
+      "prior_sigma": 3.08,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_mu": 20.61,
+      "prior_sigma": 2.27,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_mu": 20.54,
+      "prior_sigma": 2.63,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_mu": 21.51,
+      "prior_sigma": 4.36,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_mu": 20.23,
+      "prior_sigma": 2.38,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_mu": 19.11,
+      "prior_sigma": 2.69,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Saskatchewan",
+      "path": "northamerica/canada/saskatchewan",
+      "prior_mu": 20.89,
+      "prior_sigma": 3.11,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_mu": 21.52,
+      "prior_sigma": 4.49,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_mu": 18.76,
+      "prior_sigma": 3.43,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Radford",
+      "path": "northamerica/unitedstates/virginia/radford",
+      "prior_mu": 20.17,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    }
+  ]
+}

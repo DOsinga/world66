@@ -1,0 +1,200 @@
+{
+  "round": 1711,
+  "timestamp": "2026-04-13T10:44:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Snowdonia",
+      "path": "europe/unitedkingdom/wales/snowdonia",
+      "prior_score": 6.7159,
+      "prior_variance": 0.441271,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_score": 7.5853,
+      "prior_variance": 0.377719,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Basilicata",
+      "path": "europe/italy/basilicata",
+      "prior_score": 0.6461,
+      "prior_variance": 0.368941,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": -0.6226,
+      "prior_variance": 0.32269,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_score": -0.7938,
+      "prior_variance": 0.348463,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 1.2773,
+      "prior_variance": 0.377096,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Leyte island",
+      "path": "asia/philippines/leyteisland",
+      "prior_score": 1.0616,
+      "prior_variance": 0.369488,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_score": 0.5848,
+      "prior_variance": 0.244624,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_score": -1.5715,
+      "prior_variance": 0.322947,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_score": 0.3397,
+      "prior_variance": 0.350707,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pforzheim",
+      "path": "europe/germany/badenwrttemberg/pforzheim",
+      "prior_score": -3.6869,
+      "prior_variance": 0.343613,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/losangeles/longbeach",
+      "prior_score": -0.1981,
+      "prior_variance": 0.391211,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/otley",
+      "prior_score": -1.8105,
+      "prior_variance": 0.308302,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Eswatini (Swaziland)",
+      "path": "africa/swaziland",
+      "prior_score": -0.4848,
+      "prior_variance": 0.239557,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Dar es salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": 0.1574,
+      "prior_variance": 0.331913,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/mountainvieuw",
+      "prior_score": -2.9527,
+      "prior_variance": 0.31627,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_score": -3.0065,
+      "prior_variance": 0.29588,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Udham Singh Naga",
+      "path": "asia/india/uttaranchal/udham_singh_naga",
+      "prior_score": -6.4341,
+      "prior_variance": 0.404807,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -4.3223,
+      "prior_variance": 0.369461,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -2.827,
+      "prior_variance": 0.304373,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -7.6944,
+      "prior_variance": 0.540823,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Gjilan",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjilan",
+      "prior_score": -5.3278,
+      "prior_variance": 0.398148,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -6.4928,
+      "prior_variance": 0.28867,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -7.8111,
+      "prior_variance": 0.668905,
+      "prior_n": 3
+    }
+  ]
+}

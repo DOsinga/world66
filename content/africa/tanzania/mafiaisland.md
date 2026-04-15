@@ -5,6 +5,7 @@ latitude: -7.843
 longitude: 39.7853
 title: Mafia Island
 type: location
+score: 0.58
 ---
 
 Mafia Island sits about 130 km south of Dar es Salaam in the Indian Ocean, and it is deliberately, pleasantly off the beaten track. There are no big resort hotels, no nightclubs, and very little tourist infrastructure — which is exactly the point. People come here for the water.

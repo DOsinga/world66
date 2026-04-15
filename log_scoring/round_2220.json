@@ -1,0 +1,200 @@
+{
+  "round": 2220,
+  "timestamp": "2026-04-13T16:21:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 12.5408,
+      "prior_variance": 0.523269,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 6.5507,
+      "prior_variance": 0.234966,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 2.6852,
+      "prior_variance": 0.226639,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_score": 9.0458,
+      "prior_variance": 0.399008,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 3.6689,
+      "prior_variance": 0.26151,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -4.5466,
+      "prior_variance": 0.391206,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kalinago Territory",
+      "path": "northamerica/dominica/caribterritory",
+      "prior_score": 0.1623,
+      "prior_variance": 0.229078,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Benguet",
+      "path": "asia/philippines/benguet",
+      "prior_score": -0.9224,
+      "prior_variance": 0.292236,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.4521,
+      "prior_variance": 0.160545,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to",
+      "prior_score": -2.5415,
+      "prior_variance": 0.226737,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_score": -0.2904,
+      "prior_variance": 0.182408,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -0.586,
+      "prior_variance": 0.244113,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -3.7508,
+      "prior_variance": 0.235408,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/waikato/hamilton",
+      "prior_score": -1.1066,
+      "prior_variance": 0.206143,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_score": -0.9349,
+      "prior_variance": 0.179304,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_score": 0.4771,
+      "prior_variance": 0.242031,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_score": -1.7222,
+      "prior_variance": 0.211026,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -1.8053,
+      "prior_variance": 0.272216,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Zapresic",
+      "path": "europe/croatia/zapresic",
+      "prior_score": -3.8954,
+      "prior_variance": 0.290955,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -3.6576,
+      "prior_variance": 0.326384,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_score": -3.4915,
+      "prior_variance": 0.273848,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -4.7654,
+      "prior_variance": 0.321686,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Barquisimeto",
+      "path": "southamerica/venezuela/barquisimeto",
+      "prior_score": -7.7516,
+      "prior_variance": 0.582158,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -5.2381,
+      "prior_variance": 0.284498,
+      "prior_n": 5
+    }
+  ]
+}

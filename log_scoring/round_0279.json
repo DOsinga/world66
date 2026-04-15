@@ -1,0 +1,200 @@
+{
+  "round": 279,
+  "timestamp": "2026-04-12T09:09:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_mu": 23.2638,
+      "prior_sigma": 5.7694,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/england/cornwall",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_mu": 22.818,
+      "prior_sigma": 5.9596,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Black Hills",
+      "path": "northamerica/unitedstates/southdakota/blackhills",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Overberg",
+      "path": "africa/southafrica/overberg",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Stockbridge",
+      "path": "europe/unitedkingdom/scotland/edinburgh/stockbridge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Bochum",
+      "path": "europe/germany/bochum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_mu": 22.2014,
+      "prior_sigma": 5.503,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/tuxtepec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_mu": 20.3833,
+      "prior_sigma": 3.002,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_mu": 21.4953,
+      "prior_sigma": 4.6982,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sangha region",
+      "path": "africa/congobrazzaville/sangharegion",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    }
+  ]
+}

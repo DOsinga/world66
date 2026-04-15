@@ -1,0 +1,200 @@
+{
+  "round": 1225,
+  "timestamp": "2026-04-12T22:16:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_rank": 977,
+      "prior_wins": 81,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/ponta_delgada",
+      "prior_rank": 1421,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "samana",
+      "path": "northamerica/dominicanrepublic/samana",
+      "prior_rank": 2384,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Le Carbet",
+      "path": "northamerica/martinique/le_carbet",
+      "prior_rank": 3529,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_rank": 2420,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/losangeles/manhattenbeach",
+      "prior_rank": 1497,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_rank": 1317,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_rank": 4069,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_rank": 3925,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_rank": 1774,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_rank": 2613,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_rank": 4204,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_rank": 4230,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_rank": 3484,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_rank": 2139,
+      "prior_wins": 77,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_rank": 3688,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Eureka Springs",
+      "path": "northamerica/unitedstates/arkansas/eurekasprings",
+      "prior_rank": 3073,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_rank": 4218,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Calabria",
+      "path": "europe/italy/calabria",
+      "prior_rank": 5249,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_rank": 1983,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_rank": 1444,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_rank": 3567,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_rank": 3460,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_rank": 3575,
+      "prior_wins": 25,
+      "prior_n": 2
+    }
+  ]
+}

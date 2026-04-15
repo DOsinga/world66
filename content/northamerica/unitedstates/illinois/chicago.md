@@ -1,8 +1,9 @@
 ---
-title: 'Chicago'
+title: Chicago
 type: location
 latitude: 41.8756
 longitude: -87.6244
+score: 0.7
 ---
 
 Chicago is one of the great American cities, and unlike New York or Los Angeles, it still feels like a surprise to many visitors. The skyline alone is worth the trip -- this is where the skyscraper was invented, and the downtown Loop remains an open-air museum of architectural ambition from the 1880s to the present day.

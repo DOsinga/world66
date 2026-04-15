@@ -5,6 +5,7 @@ latitude: 24.1721
 longitude: 56.1319
 title: Buraimi
 type: location
+score: 0.35
 ---
 
 Buraimi is the Omani half of the Al Ain oasis, which straddles the border between Oman and the UAE. Most of the major sights — the forts, the oasis gardens, the camel market — are on the UAE side in Al Ain proper, but since the border crossing here is straightforward, this is not much of a limitation.

@@ -5,6 +5,7 @@ latitude: 36.022873
 longitude: -95.968328
 title: Jenks
 type: location
+score: 0.32
 ---
 
 Jenks sits on the west bank of the Arkansas River in Tulsa County, just south of Tulsa itself. It is a small town of around 10,000 people that managed to reinvent itself: once dependent on oil, it now draws visitors for two very different reasons — a first-rate aquarium and a remarkable concentration of antique dealers.

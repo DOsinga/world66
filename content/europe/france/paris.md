@@ -5,6 +5,7 @@ latitude: 48.8566
 longitude: 2.3522
 title: Paris
 type: location
+score: 1.0
 ---
 
 *Europe > France > Paris*

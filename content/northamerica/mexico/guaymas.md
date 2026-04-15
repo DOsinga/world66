@@ -5,6 +5,7 @@ latitude: 27.9216
 longitude: -110.8994
 done:
   location_cleanup: 2026-04-06
+score: 0.44
 ---
 
 Guaymas is a working port city on the Sea of Cortez in the state of Sonora, northwestern Mexico. Most visitors pass through on the way to the ferry to Santa Rosalia on the Baja California peninsula, but those who linger find a city with genuine character — a natural harbour framed by dramatic volcanic mountains, a colonial streetscape along Serdan Street, and some of the richest diving waters in the world just offshore.

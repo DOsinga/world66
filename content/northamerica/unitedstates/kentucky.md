@@ -1,29 +1,15 @@
 ---
-title: "Kentucky"
+done:
+  location_cleanup: '2026-04-15'
+latitude: 37.5726
+longitude: -85.1551
+score: 0.43
+title: Kentucky
 type: location
-latitude: 37.572603
-longitude: -85.155141
 ---
 
-What can we say about a state that's famous for fried chicken more than anything else? In fact, quite a lot. 
+Kentucky is famous for bourbon, horse racing, and fried chicken, but the state has far more to offer than its stereotypes. The landscape ranges from the rolling Bluegrass region around [Lexington](/northamerica/unitedstates/kentucky/lexington) — home to thoroughbred horse farms and distilleries — to the rugged Appalachian foothills in the east, where the Red River Gorge offers some of the best rock climbing and hiking in the eastern United States.
 
+Mammoth Cave National Park, in the south-central part of the state, contains the longest recorded cave system in the world, with more than 400 miles explored and mapped. The Cumberland Gap, where Kentucky, Tennessee, and Virginia meet, was the gateway through the Appalachian Mountains for the settlers who opened up the American interior.
 
- The state has the longest recorded cave system in the world with more than 336 miles explored and mapped, in
-[Mammoth Lakes](/northamerica/unitedstates/california/highsierra/mammothlakes), the birthplace of Abraham Lincoln, near
-Hodgenville, a big chunk of the
-[South County Dublin](/europe/ireland/southcountykillineydalkeydunlaoghaire) - an excellent area for recreational activities and the
-[Cumberland](/northamerica/unitedstates/maryland/cumberland), located where the borders of
-[Tennessee](/northamerica/unitedstates/tennessee), Kentucky, and
-[Virginia City](/northamerica/unitedstates/montana/virginiacity). Carved by wind and water, Cumberland Gap forms a major break in the formidable Appalachian Mountain chain and it was the first and best avenue for the settlement of the interior of the United States. 
-
-
- The cities of
-[Frankfort](/northamerica/unitedstates/kentucky/frankfort) and
-[Louisville](/northamerica/unitedstates/kentucky/louisville) are good places to start exploring the variety of things to see and do in the state of Kentucky.
-
-## Destinations in Kentucky
-
-[Frankfort](/world/northamerica/unitedstates/kentucky/frankfort)
-[Lexington](/world/northamerica/unitedstates/kentucky/lexington)
-[Madisonville](/world/northamerica/unitedstates/kentucky/madisonville)
-[Louisville](/world/northamerica/unitedstates/kentucky/louisville)
+[Louisville](/northamerica/unitedstates/kentucky/louisville) is the largest city and home to the Kentucky Derby, the most famous horse race in America. [Frankfort](/northamerica/unitedstates/kentucky/frankfort), the small state capital, sits on the Kentucky River surrounded by bourbon distilleries. The Bourbon Trail takes you through the countryside to distilleries where you can see how the spirit is made and, of course, taste it.

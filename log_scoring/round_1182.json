@@ -1,0 +1,200 @@
+{
+  "round": 1182,
+  "timestamp": "2026-04-12T22:13:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_rank": 2046,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Nor\u00f0oyggjar",
+      "path": "europe/faroeislands/noroyggjar",
+      "prior_rank": 2374,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_rank": 2860,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_rank": 914,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/nationalparks/cur_national_par",
+      "prior_rank": 4216,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_rank": 1960,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Xishuangbanna",
+      "path": "asia/china/yunnanprovince/xishuangbanna",
+      "prior_rank": 2427,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_rank": 1540,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_rank": 4219,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_rank": 3643,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Marche",
+      "path": "europe/italy/marche",
+      "prior_rank": 2442,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Friuli Venezia Giulia",
+      "path": "europe/italy/friuliveneziagiulia",
+      "prior_rank": 953,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_rank": 2624,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_rank": 2173,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_rank": 1939,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_rank": 5644,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_rank": 2493,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_rank": 4974,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_rank": 4363,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_rank": 4589,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lloret de Mar",
+      "path": "europe/spain/lloret_de_mar",
+      "prior_rank": 2844,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_rank": 3669,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_rank": 2699,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Guam",
+      "path": "australiaandpacific/guam",
+      "prior_rank": 1367,
+      "prior_wins": 34,
+      "prior_n": 2
+    }
+  ]
+}

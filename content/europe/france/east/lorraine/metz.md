@@ -5,6 +5,7 @@ latitude: 49.1193
 longitude: 6.1757
 title: Metz
 type: location
+score: 0.56
 ---
 
 Metz is one of the most beautiful cities in eastern France, a place where three thousand years of history are written in honey-coloured limestone. The city sits at the confluence of the Moselle and Seille rivers, and its old centre is spread across several islands connected by bridges — a geography that gives the place a quiet, water-threaded elegance.

@@ -1,0 +1,200 @@
+{
+  "round": 1929,
+  "timestamp": "2026-04-13T15:55:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Okavango Delta",
+      "path": "africa/botswana/okavangodelta",
+      "prior_score": 7.2458,
+      "prior_variance": 0.459558,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Adirondacks",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks",
+      "prior_score": 5.3971,
+      "prior_variance": 0.274169,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 2.0159,
+      "prior_variance": 0.376487,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.0822,
+      "prior_variance": 0.304073,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -2.0339,
+      "prior_variance": 0.328911,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national",
+      "prior_score": 0.733,
+      "prior_variance": 0.258565,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": -2.3458,
+      "prior_variance": 0.427477,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Colombia",
+      "path": "southamerica/colombia",
+      "prior_score": -0.8525,
+      "prior_variance": 0.528737,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 1.2404,
+      "prior_variance": 0.264019,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -2.45,
+      "prior_variance": 0.3108,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 2.5863,
+      "prior_variance": 0.316854,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Central Spain",
+      "path": "europe/spain/centralspain",
+      "prior_score": 0.2745,
+      "prior_variance": 0.35639,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": -0.7582,
+      "prior_variance": 0.36338,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_score": -0.2841,
+      "prior_variance": 0.313134,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -2.9175,
+      "prior_variance": 0.311371,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_score": -3.3786,
+      "prior_variance": 0.203168,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_score": -2.1102,
+      "prior_variance": 0.234393,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -3.0011,
+      "prior_variance": 0.270951,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_score": -3.6573,
+      "prior_variance": 0.284668,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_score": -1.8884,
+      "prior_variance": 0.258664,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Amstetten",
+      "path": "europe/austria/amstetten",
+      "prior_score": -3.3279,
+      "prior_variance": 0.362924,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -5.459,
+      "prior_variance": 0.431225,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_score": -7.1393,
+      "prior_variance": 0.441057,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -6.0514,
+      "prior_variance": 0.365205,
+      "prior_n": 5
+    }
+  ]
+}

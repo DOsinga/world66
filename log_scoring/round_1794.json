@@ -1,0 +1,200 @@
+{
+  "round": 1794,
+  "timestamp": "2026-04-13T10:51:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 10.4297,
+      "prior_variance": 0.496867,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 6.765,
+      "prior_variance": 0.288533,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 5.5551,
+      "prior_variance": 0.408571,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_score": 2.0325,
+      "prior_variance": 0.303244,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_score": 5.9669,
+      "prior_variance": 0.356024,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
+      "prior_score": 1.5795,
+      "prior_variance": 0.267949,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 1.9237,
+      "prior_variance": 0.212008,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -0.3789,
+      "prior_variance": 0.395741,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.6521,
+      "prior_variance": 0.403552,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.6896,
+      "prior_variance": 0.327989,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 0.9045,
+      "prior_variance": 0.399488,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_score": 1.1295,
+      "prior_variance": 0.29863,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 1.335,
+      "prior_variance": 0.269989,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": 1.2083,
+      "prior_variance": 0.254467,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 0.6435,
+      "prior_variance": 0.409224,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": 0.0829,
+      "prior_variance": 0.346451,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -2.9065,
+      "prior_variance": 0.173276,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": -0.0159,
+      "prior_variance": 0.340513,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
+      "prior_score": 0.1796,
+      "prior_variance": 0.303884,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -1.9324,
+      "prior_variance": 0.313082,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": -0.8204,
+      "prior_variance": 0.275271,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Keratsini",
+      "path": "europe/greece/keratsini",
+      "prior_score": -3.6771,
+      "prior_variance": 0.362755,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -4.3889,
+      "prior_variance": 0.336989,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -4.9665,
+      "prior_variance": 0.345747,
+      "prior_n": 4
+    }
+  ]
+}

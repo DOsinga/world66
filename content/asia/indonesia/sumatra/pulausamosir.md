@@ -5,6 +5,7 @@ latitude: 2.593629
 longitude: 98.801082
 title: Pulau Samosir
 type: location
+score: 0.61
 ---
 
 Samosir is a large island sitting within the caldera of Lake Toba, itself a supervolcanic lake in the highlands of North Sumatra. The combination — an island within a lake within a volcanic caldera — is geologically remarkable, and the scenery is extraordinary: steep green cliffs dropping to dark water, with the island's plateau rising in the centre.

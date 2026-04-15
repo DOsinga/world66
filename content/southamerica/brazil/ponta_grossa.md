@@ -5,6 +5,7 @@ latitude: -25.0891
 longitude: -50.1602
 title: Ponta Grossa
 type: location
+score: 0.38
 ---
 
 Ponta Grossa is a mid-sized city in the highlands of Paraná, about 110 km west of Curitiba. It sits on the second plateau of the Serra Geral, and the surrounding landscape — sandstone canyons, caves, and araucária pine forests — is the main reason to come here.

@@ -5,6 +5,7 @@ latitude: 30.5
 longitude: 34.916667
 title: Negev
 type: location
+score: 0.52
 ---
 
 The Negev is the vast desert that covers more than half of Israel's land area, stretching from Be'er Sheva south to Eilat on the Red Sea. Most visitors pass through quickly on the way to Eilat, but the Negev rewards those who slow down.

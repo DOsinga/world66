@@ -1,0 +1,200 @@
+{
+  "round": 1444,
+  "timestamp": "2026-04-12T22:28:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_rank": 7831,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/loughborough",
+      "prior_rank": 5635,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_rank": 5858,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ohio",
+      "path": "northamerica/unitedstates/ohio",
+      "prior_rank": 7067,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_rank": 6263,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_rank": 6868,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_rank": 7226,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pawhuska",
+      "path": "northamerica/unitedstates/oklahoma/pawhuska",
+      "prior_rank": 6616,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Iowa",
+      "path": "northamerica/unitedstates/iowa",
+      "prior_rank": 6746,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Albert Lea",
+      "path": "northamerica/unitedstates/minnesota/albertlea",
+      "prior_rank": 7803,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_rank": 6882,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_rank": 7176,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_rank": 7725,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_rank": 7059,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_rank": 6934,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_rank": 7478,
+      "prior_wins": 30,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_rank": 5895,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_rank": 7388,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_rank": 7432,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_rank": 7218,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_rank": 7774,
+      "prior_wins": 17,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_rank": 7054,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_rank": 7088,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_rank": 7550,
+      "prior_wins": 14,
+      "prior_n": 3
+    }
+  ]
+}

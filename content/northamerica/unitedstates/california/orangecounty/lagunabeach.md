@@ -5,6 +5,7 @@ latitude: 33.5427
 longitude: -117.7854
 title: Laguna Beach
 type: location
+score: 0.6
 ---
 
 Laguna Beach is the most attractive coastal town in Orange County — a hilly, artsy enclave wedged between rocky coves and the dry chaparral of the Laguna Coast Wilderness Park. The town has drawn artists since the early 20th century, and that legacy is still visible in dozens of galleries, the Laguna Art Museum (strong on California Impressionists and plein air painting), and the annual Pageant of the Masters, where volunteers pose in elaborate re-creations of famous artworks.

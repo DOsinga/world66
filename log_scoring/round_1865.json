@@ -1,0 +1,200 @@
+{
+  "round": 1865,
+  "timestamp": "2026-04-13T10:58:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 8.9711,
+      "prior_variance": 0.563597,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 5.7732,
+      "prior_variance": 0.362942,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Lesbos",
+      "path": "europe/greece/lesbos",
+      "prior_score": 4.429,
+      "prior_variance": 0.263887,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.2507,
+      "prior_variance": 0.245904,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/yucatan/coppercanyon",
+      "prior_score": 4.3323,
+      "prior_variance": 0.462781,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Eureka Springs",
+      "path": "northamerica/unitedstates/arkansas/eurekasprings",
+      "prior_score": 1.0851,
+      "prior_variance": 0.329642,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 1.6356,
+      "prior_variance": 0.294776,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_score": 1.5883,
+      "prior_variance": 0.284539,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": 0.9767,
+      "prior_variance": 0.301266,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 2.1936,
+      "prior_variance": 0.289687,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Big pine key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 1.1148,
+      "prior_variance": 0.350488,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/cuba/pinardelrio",
+      "prior_score": 1.4518,
+      "prior_variance": 0.348401,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_score": -0.4335,
+      "prior_variance": 0.167933,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/dover",
+      "prior_score": 0.547,
+      "prior_variance": 0.306208,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Whanganui Region",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region",
+      "prior_score": 1.2467,
+      "prior_variance": 0.329322,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bakuriani",
+      "path": "europe/georgia/bakuriani",
+      "prior_score": 2.6333,
+      "prior_variance": 0.302483,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -3.7619,
+      "prior_variance": 0.294674,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 1.2591,
+      "prior_variance": 0.39774,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -7.9618,
+      "prior_variance": 0.884568,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_score": -6.5034,
+      "prior_variance": 0.322941,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -5.2642,
+      "prior_variance": 0.299098,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -4.3493,
+      "prior_variance": 0.355764,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -4.8533,
+      "prior_variance": 0.328677,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_score": -5.7983,
+      "prior_variance": 0.428936,
+      "prior_n": 4
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 37.566958
 longitude: -112.053855
 title: Cannonville
 type: location
+score: 0.45
 ---
 
 Cannonville is a tiny ranching settlement in Garfield County, Utah, sitting along the famous Scenic Byway 12 between Bryce Canyon and Escalante. The town itself is minimal, but its location makes it a practical stop — Kodachrome Basin State Park is just a few miles south, and the Paria River canyon system begins nearby, attracting hikers and photographers.

@@ -5,6 +5,7 @@ latitude: 44.927333
 longitude: 13.805077
 title: Fazana
 type: location
+score: 0.56
 ---
 
 Fazana is a small fishing town on the southwestern Istrian coast, 8 kilometres northwest of [Pula](/europe/croatia/pula). It sits on a low stretch of shoreline sheltered from the open sea by the Brijuni Islands, which are visible just offshore — and Fazana is the departure point for boats to the Brijuni National Park.

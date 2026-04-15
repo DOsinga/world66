@@ -1,0 +1,200 @@
+{
+  "round": 1608,
+  "timestamp": "2026-04-13T10:35:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 3.266,
+      "prior_variance": 0.306998,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.4289,
+      "prior_variance": 0.306663,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/queensland/longreach",
+      "prior_score": -1.6897,
+      "prior_variance": 0.471884,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ballangen",
+      "path": "europe/norway/ballangen",
+      "prior_score": -3.5054,
+      "prior_variance": 0.324207,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -3.3819,
+      "prior_variance": 0.299638,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -2.2209,
+      "prior_variance": 0.227096,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_score": -4.9726,
+      "prior_variance": 0.610521,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -2.4932,
+      "prior_variance": 0.308897,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Boblingen",
+      "path": "europe/germany/badenwrttemberg/boblingen",
+      "prior_score": -4.0708,
+      "prior_variance": 0.472389,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -3.4157,
+      "prior_variance": 0.345922,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -3.9814,
+      "prior_variance": 0.43695,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Blandford",
+      "path": "europe/unitedkingdom/england/blandford",
+      "prior_score": -2.8209,
+      "prior_variance": 0.340572,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -3.6363,
+      "prior_variance": 0.385199,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -2.1268,
+      "prior_variance": 0.24733,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -2.9619,
+      "prior_variance": 0.309406,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -4.1308,
+      "prior_variance": 0.35224,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -3.1247,
+      "prior_variance": 0.436758,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Moravia",
+      "path": "northamerica/costarica/moravia",
+      "prior_score": -3.0749,
+      "prior_variance": 0.320747,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Guadalupe",
+      "path": "northamerica/costarica/guadalupe",
+      "prior_score": -3.7186,
+      "prior_variance": 0.384054,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -2.1254,
+      "prior_variance": 0.410107,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -5.1076,
+      "prior_variance": 0.589362,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Netherton",
+      "path": "europe/unitedkingdom/england/netherton",
+      "prior_score": -7.7383,
+      "prior_variance": 0.611448,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -7.3591,
+      "prior_variance": 0.434037,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -7.2009,
+      "prior_variance": 0.650016,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1143,
+  "timestamp": "2026-04-12T22:11:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_rank": 8110,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Diadema",
+      "path": "southamerica/brazil/diadema",
+      "prior_rank": 8148,
+      "prior_wins": 4,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_ignacio/san_jos_de__lour",
+      "prior_rank": 8142,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_rank": 7945,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_rank": 7993,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/virginia/chester",
+      "prior_rank": 8212,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_rank": 8165,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Quality Inn New Haven",
+      "path": "northamerica/unitedstates/connecticut/quality_inn_new_ha",
+      "prior_rank": 8146,
+      "prior_wins": 4,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/eastern_england/grays",
+      "prior_rank": 8151,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_rank": 7902,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Blue Lamp",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluelamp",
+      "prior_rank": 8217,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "khed",
+      "path": "asia/india/maharashtra/konkan/khed_1",
+      "prior_rank": 7999,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Krasnovodsk",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_rank": 8007,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Pakpattan",
+      "path": "asia/pakistan/pakpattan",
+      "prior_rank": 8059,
+      "prior_wins": 10,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Birote",
+      "path": "asia/pakistan/azad_kashmir/mirpur/birote",
+      "prior_rank": 8086,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "NAMANPURA",
+      "path": "asia/pakistan/azad_kashmir/bagh/namanpura",
+      "prior_rank": 8069,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_rank": 8207,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_rank": 8065,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_rank": 7744,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_rank": 8166,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Dickenson Bay",
+      "path": "southamerica/argentina/dickensonbay",
+      "prior_rank": 8192,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Libya",
+      "path": "africa/libya",
+      "prior_rank": 8130,
+      "prior_wins": 5,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_rank": 8195,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Somalia",
+      "path": "africa/somalia",
+      "prior_rank": 8089,
+      "prior_wins": 6,
+      "prior_n": 4
+    }
+  ]
+}

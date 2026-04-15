@@ -5,6 +5,7 @@ latitude: 44.512638
 longitude: -88.012579
 title: Green Bay
 type: location
+score: 0.42
 ---
 
 Green Bay is known above all as the home of the Green Bay Packers, the NFL franchise that is uniquely owned by its community rather than a private owner. On game days the city transforms, and Lambeau Field is a pilgrimage site for football fans year-round — the Packers Hall of Fame attached to the stadium is worth visiting even for the casually curious.

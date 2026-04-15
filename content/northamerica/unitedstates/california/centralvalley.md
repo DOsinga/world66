@@ -1,8 +1,9 @@
 ---
-title: "Central Valley"
+title: Central Valley
 type: location
 latitude: 38.0
 longitude: -121.4
+score: 0.33
 ---
 
 California's agricultural bounty flows from the Central Valley, one of the most productive farming areas in the world. This rich region is fed by a network of lakes, reservoirs, and rivers. Come discover a harvest of culturally diverse communities, historic sites, abundant outdoor recreational opportunities, plentiful wildlife, and agricultural products galore. 

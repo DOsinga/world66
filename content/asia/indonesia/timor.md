@@ -5,6 +5,7 @@ latitude: -9.75
 longitude: 124.0
 title: Timor
 type: location
+score: 0.39
 ---
 
 West Timor is the Indonesian half of Timor island, part of East Nusa Tenggara province. Most travellers pass through on their way to or from [East Timor](/asia/easttimor) or Australia, but the region has its own rough appeal — dry savannahs, traditional villages, and a culture quite distinct from the rest of Indonesia.

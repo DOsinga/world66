@@ -5,6 +5,7 @@ latitude: 48.6208
 longitude: 22.2879
 done:
   location_cleanup: 2026-04-05
+score: 0.44
 ---
 
 Uzhhorod (sometimes Uzhgorod, in older English) is the western-most city in Ukraine — closer to Prague, Vienna, and Budapest than it is to Kyiv — and the smallest of the country's regional capitals. It sits on the Uzh river at the foot of the Carpathians, and its whole character comes from its position on what has been one of the most contested borderlands in central Europe for the last thousand years. At various points it has been Rusyn, Hungarian (as Ungvár), Czechoslovak, Hungarian again, Soviet, and since 1991 Ukrainian. You can still walk streets signed in several alphabets and hear half a dozen languages in the cafés.

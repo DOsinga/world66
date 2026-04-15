@@ -5,6 +5,7 @@ latitude: 6.8541
 longitude: 158.2624
 title: Pohnpei
 type: location
+score: 0.49
 ---
 
 Pohnpei is the largest and tallest island in the Federated States of Micronesia, and one of the wettest places on earth — its peaks collect enough rain to feed over 40 rivers and waterfalls that cascade through dense tropical forest. The island is the seat of the national capital, Palikir, but feels anything but urban. This is a place for hikers, divers and anyone drawn to the genuinely remote.

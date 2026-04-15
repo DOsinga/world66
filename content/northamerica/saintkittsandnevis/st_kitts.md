@@ -5,6 +5,7 @@ latitude: 17.3578
 longitude: -62.783
 title: St. Kitts
 type: location
+score: 0.61
 ---
 
 St. Kitts is the larger of the two islands that make up the Federation of Saint Kitts and Nevis, a volcanic peak rising steeply from the Caribbean Sea. The island was one of the first in the Caribbean to be colonised — by both the British and the French, who fought over it for centuries — and the massive Brimstone Hill Fortress, a UNESCO World Heritage Site perched on a volcanic outcrop, is the most dramatic reminder of that history.

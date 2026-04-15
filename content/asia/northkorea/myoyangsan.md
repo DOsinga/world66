@@ -5,6 +5,7 @@ latitude: 39.9576
 longitude: 126.188
 title: Myoyangsan
 type: location
+score: 0.2
 ---
 
 Myohyangsan (the Mysterious Fragrant Mountain) is about two hours north of Pyongyang and is one of the country's most scenic areas. The mountains rise steeply from forested valleys, and hiking trails lead past waterfalls and the ruins of old Buddhist temples. The air genuinely smells different from the city.

@@ -1,0 +1,200 @@
+{
+  "round": 1317,
+  "timestamp": "2026-04-12T22:21:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/moseley",
+      "prior_rank": 7371,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ashington",
+      "path": "europe/unitedkingdom/england/ashington",
+      "prior_rank": 8123,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kielwindeweer",
+      "path": "europe/netherlands/kielwindeweer",
+      "prior_rank": 8187,
+      "prior_wins": 8,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_rank": 7851,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_rank": 6980,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_rank": 6090,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Monon",
+      "path": "northamerica/unitedstates/indiana/monon",
+      "prior_rank": 5913,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Algeria",
+      "path": "africa/algeria",
+      "prior_rank": 8147,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_rank": 7000,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_rank": 7763,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_rank": 7858,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_rank": 7965,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_rank": 7521,
+      "prior_wins": 21,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_rank": 8005,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_rank": 7749,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Port loko",
+      "path": "africa/sierraleone/portloko",
+      "prior_rank": 8015,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/basconcobe",
+      "prior_rank": 8124,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bethel",
+      "path": "northamerica/unitedstates/alaska/bethel",
+      "prior_rank": 8079,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_rank": 6416,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Malla Banas",
+      "path": "asia/india/uttaranchal/malla_banas_8",
+      "prior_rank": 6808,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Udayagi",
+      "path": "asia/india/andhrapradesh/udayagi",
+      "prior_rank": 7963,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_rank": 8071,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_rank": 7284,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_rank": 7513,
+      "prior_wins": 17,
+      "prior_n": 4
+    }
+  ]
+}

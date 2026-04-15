@@ -1,0 +1,200 @@
+{
+  "round": 867,
+  "timestamp": "2026-04-12T14:46:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_score": 10.1365,
+      "prior_variance": 9.894908,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 13.3629,
+      "prior_variance": 3.326305,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington",
+      "prior_score": 7.0477,
+      "prior_variance": 2.062071,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_score": 4.9025,
+      "prior_variance": 1.427133,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_score": 3.0981,
+      "prior_variance": 1.479207,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 7.9965,
+      "prior_variance": 11.952989,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": 2.5894,
+      "prior_variance": 1.598606,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": -5.4321,
+      "prior_variance": 1.882395,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/kaitaia",
+      "prior_score": -0.3915,
+      "prior_variance": 1.966191,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.2805,
+      "prior_variance": 1.376798,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -3.1185,
+      "prior_variance": 1.814499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Carolina",
+      "path": "northamerica/puertorico/carolina",
+      "prior_score": -2.3035,
+      "prior_variance": 1.476918,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 3.151,
+      "prior_variance": 1.322751,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.161,
+      "prior_variance": 1.808512,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -0.3064,
+      "prior_variance": 1.671763,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Espanola",
+      "path": "northamerica/unitedstates/newmexico/espanola",
+      "prior_score": -7.7713,
+      "prior_variance": 1.350233,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Aragatsotn Marz",
+      "path": "europe/armenia/aragatsotn_marz",
+      "prior_score": -2.9959,
+      "prior_variance": 1.42542,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -6.9263,
+      "prior_variance": 1.732941,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -7.5584,
+      "prior_variance": 3.892452,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_score": -5.6728,
+      "prior_variance": 3.224821,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Solms",
+      "path": "europe/germany/hessen/solms",
+      "prior_score": -8.27,
+      "prior_variance": 1.5826,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Schoenaich",
+      "path": "europe/germany/badenwrttemberg/schoenaich",
+      "prior_score": -9.1039,
+      "prior_variance": 1.590458,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -9.328,
+      "prior_variance": 2.13093,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -11.5609,
+      "prior_variance": 2.172788,
+      "prior_n": 1
+    }
+  ]
+}

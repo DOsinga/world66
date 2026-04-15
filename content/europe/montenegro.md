@@ -10,6 +10,7 @@ latitude: 42.708678
 longitude: 19.37439
 title: Montenegro
 type: location
+score: 0.7
 ---
 
 Montenegro — meaning "Black Mountain" in Venetian Italian — packs an extraordinary amount of landscape into a country smaller than Connecticut. In a four-hour drive you can move from a medieval walled harbour town on the Adriatic, past a lake that straddles the Albanian border, and up into a high mountain plateau with glacial lakes and one of Europe's deepest river canyons.

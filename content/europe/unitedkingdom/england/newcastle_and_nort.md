@@ -1,8 +1,11 @@
 ---
-title: "Newcastle and North East"
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 54.973847
 longitude: -1.613157
+score: 0.52
+title: Newcastle and North East
+type: location
 ---
 
 The North East offers miles of beautiful and unspoiled scenery, a rich

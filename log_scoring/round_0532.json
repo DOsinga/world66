@@ -1,0 +1,200 @@
+{
+  "round": 532,
+  "timestamp": "2026-04-12T09:45:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_mu": 31.1792,
+      "prior_sigma": 2.8831,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_mu": 24.7673,
+      "prior_sigma": 2.404,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_mu": 22.7646,
+      "prior_sigma": 2.0346,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_mu": 22.2841,
+      "prior_sigma": 2.4561,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_mu": 21.7805,
+      "prior_sigma": 3.0073,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Alkmaar",
+      "path": "europe/netherlands/alkmaar",
+      "prior_mu": 21.7904,
+      "prior_sigma": 2.5645,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_mu": 21.147,
+      "prior_sigma": 2.349,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_mu": 24.7016,
+      "prior_sigma": 2.7308,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Wadden islands",
+      "path": "europe/netherlands/waddenislands",
+      "prior_mu": 21.5764,
+      "prior_sigma": 2.5134,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Terschelling",
+      "path": "europe/netherlands/waddenislands/terschelling",
+      "prior_mu": 21.5458,
+      "prior_sigma": 2.7792,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_mu": 21.4816,
+      "prior_sigma": 2.5615,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_mu": 21.4686,
+      "prior_sigma": 2.4546,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_mu": 20.9832,
+      "prior_sigma": 2.1748,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_mu": 20.8659,
+      "prior_sigma": 2.1985,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Friesland",
+      "path": "europe/netherlands/friesland",
+      "prior_mu": 20.8271,
+      "prior_sigma": 3.056,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_mu": 20.6498,
+      "prior_sigma": 2.1276,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_mu": 20.8527,
+      "prior_sigma": 2.6628,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_mu": 20.6934,
+      "prior_sigma": 2.5008,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_mu": 20.7435,
+      "prior_sigma": 2.686,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Netherlands",
+      "path": "europe/netherlands",
+      "prior_mu": 22.1867,
+      "prior_sigma": 2.8041,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_mu": 20.5102,
+      "prior_sigma": 2.5876,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_mu": 21.0312,
+      "prior_sigma": 3.353,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_mu": 18.4295,
+      "prior_sigma": 2.6713,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Brunsumm",
+      "path": "europe/netherlands/brunsumm",
+      "prior_mu": 16.4607,
+      "prior_sigma": 2.5599,
+      "prior_n": 7
+    }
+  ]
+}

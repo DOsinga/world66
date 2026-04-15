@@ -1,0 +1,200 @@
+{
+  "round": 1618,
+  "timestamp": "2026-04-13T10:36:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_score": 5.3388,
+      "prior_variance": 0.357314,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_score": 3.563,
+      "prior_variance": 0.344024,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington",
+      "prior_score": 3.5172,
+      "prior_variance": 0.394445,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_score": 0.752,
+      "prior_variance": 0.332904,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Castell\u00f3n",
+      "path": "europe/spain/castellon",
+      "prior_score": -0.7616,
+      "prior_variance": 0.381694,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/suffolk/ipswich",
+      "prior_score": -2.5645,
+      "prior_variance": 0.314714,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Armenia",
+      "path": "europe/armenia",
+      "prior_score": -4.9447,
+      "prior_variance": 1.221292,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cherating",
+      "path": "asia/malaysia/kuantan/cherating",
+      "prior_score": 0.5936,
+      "prior_variance": 0.339032,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Samar Island",
+      "path": "asia/philippines/samarisland",
+      "prior_score": -0.3806,
+      "prior_variance": 0.29823,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bedfordshire",
+      "path": "europe/unitedkingdom/england/bedfordshire",
+      "prior_score": -2.32,
+      "prior_variance": 0.350514,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_score": 0.5127,
+      "prior_variance": 0.310202,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_score": -1.9565,
+      "prior_variance": 0.461267,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.4759,
+      "prior_variance": 0.348265,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Garata",
+      "path": "europe/bulgaria/gornaoryahovica/garata",
+      "prior_score": -10.8708,
+      "prior_variance": 0.6115,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_score": -6.1726,
+      "prior_variance": 0.310546,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -7.278,
+      "prior_variance": 0.660856,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Dombivli",
+      "path": "asia/india/maharashtra/dombivli",
+      "prior_score": -7.2091,
+      "prior_variance": 0.382653,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_score": -6.9448,
+      "prior_variance": 0.466054,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "jhang",
+      "path": "asia/pakistan/abbottabad/jhang",
+      "prior_score": -8.3113,
+      "prior_variance": 0.399543,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_score": -7.2529,
+      "prior_variance": 0.49626,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "m sila",
+      "path": "africa/algeria/m_sila",
+      "prior_score": -7.9795,
+      "prior_variance": 0.395289,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Enugu",
+      "path": "africa/nigeria/victoria_island_n/enugu",
+      "prior_score": -7.0066,
+      "prior_variance": 0.404078,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Haiti",
+      "path": "northamerica/haiti",
+      "prior_score": -8.4636,
+      "prior_variance": 0.643982,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -6.5975,
+      "prior_variance": 0.397854,
+      "prior_n": 4
+    }
+  ]
+}

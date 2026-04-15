@@ -5,6 +5,7 @@ latitude: 34.075596
 longitude: -84.294596
 title: Alpharetta
 type: location
+score: 0.35
 ---
 
 Alpharetta is an affluent suburb of Atlanta in north Fulton County, about 26 miles north of downtown. It's a significant tech hub — dozens of major technology companies have offices here — and has developed a pleasant, walkable town center around Alpharetta City Center in recent years.

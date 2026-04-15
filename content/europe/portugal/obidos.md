@@ -5,6 +5,7 @@ latitude: 39.361951
 longitude: -9.157153
 title: Óbidos
 type: location
+score: 0.64
 ---
 
 Óbidos is a perfectly preserved walled town about an hour north of [Lisbon](/europe/portugal/lisbon), its whitewashed houses and narrow cobblestone streets enclosed by medieval battlements you can walk along end to end. In high season it gets terribly crowded — believably so, given how photogenic the place is — but visit on a quiet weekday or in winter and you will have its lanes largely to yourself.

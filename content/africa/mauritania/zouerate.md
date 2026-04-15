@@ -5,6 +5,7 @@ latitude: 22.740206
 longitude: -12.466492
 title: Zouerate
 type: location
+score: 0.23
 ---
 
 Zouerate is Mauritania's main mining town, built around the vast iron ore deposits of the Tiris Zemmour region in the far north. There is not much here for travellers beyond the mining operations themselves — but that is not why most people come. Zouerate is the eastern terminus of one of the great train journeys in the world.

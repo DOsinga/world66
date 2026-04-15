@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Didwi
   class="new" title="User:Didwin973 (page does not exist)">Didwin973</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.42
 ---
 
 French Guiana is an anomaly on the South American map: a French overseas department wedged between Brazil and Suriname, using the euro, governed from Paris, and launching rockets into space from its equatorial coastline. It is not a former colony struggling with its independence — it is France, constitutionally and practically, which means EU passports, French prices, and a functioning social safety net in the middle of the Amazon.

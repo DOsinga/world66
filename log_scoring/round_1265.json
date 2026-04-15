@@ -1,0 +1,200 @@
+{
+  "round": 1265,
+  "timestamp": "2026-04-12T22:18:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lazio",
+      "path": "europe/italy/lazio",
+      "prior_rank": 3747,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_rank": 1619,
+      "prior_wins": 82,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_rank": 4545,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Idaho",
+      "path": "northamerica/unitedstates/idaho",
+      "prior_rank": 3278,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_rank": 2682,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_rank": 4052,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_rank": 4286,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_rank": 1965,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Fujian Province",
+      "path": "asia/china/fujianprovince",
+      "prior_rank": 5290,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Broken Hill",
+      "path": "australiaandpacific/australia/newsouthwales/brokenhill",
+      "prior_rank": 5550,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Meredith",
+      "path": "northamerica/unitedstates/newhampshire/meredith",
+      "prior_rank": 3359,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_rank": 3311,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_rank": 5067,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_rank": 6891,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_rank": 5265,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Giulianova Lido",
+      "path": "europe/italy/abruzzo/giulianovalido",
+      "prior_rank": 3971,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_rank": 1869,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_rank": 4730,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_rank": 1915,
+      "prior_wins": 111,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_rank": 2509,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tuvalu",
+      "path": "australiaandpacific/tuvalu",
+      "prior_rank": 4524,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_rank": 5253,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_rank": 5363,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pentagon City",
+      "path": "northamerica/unitedstates/virginia/arlington/pentagoncity",
+      "prior_rank": 4429,
+      "prior_wins": 32,
+      "prior_n": 3
+    }
+  ]
+}

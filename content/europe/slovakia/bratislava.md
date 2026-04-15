@@ -5,6 +5,7 @@ latitude: 48.1559
 longitude: 17.1314
 done:
   location_cleanup: 2026-04-07
+score: 0.63
 ---
 
 Bratislava is one of Europe's smallest and most underrated capitals. Sitting on the Danube where [Slovakia](/europe/slovakia), [Austria](/europe/austria), and [Hungary](/europe/hungary) meet, it spent centuries in the shadow of nearby Vienna — and for much of that time, it was the coronation city of the Hungarian kings.

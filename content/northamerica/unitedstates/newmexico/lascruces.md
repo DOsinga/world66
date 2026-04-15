@@ -5,6 +5,7 @@ latitude: 32.314
 longitude: -106.7798
 done:
   location_cleanup: 2026-04-06
+score: 0.4
 ---
 
 Las Cruces is the second-largest city in New Mexico, sitting in the Mesilla Valley with the jagged Organ Mountains rising dramatically to the east. The city is a crossroads — geographically between El Paso and Albuquerque, culturally between the American Southwest and Mexico, and economically between its agricultural roots (pecans, chile, cotton) and the university town it has become as home to New Mexico State University.

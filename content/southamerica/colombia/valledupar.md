@@ -5,6 +5,7 @@ latitude: 10.465173
 longitude: -73.252951
 title: Valledupar
 type: location
+score: 0.41
 ---
 
 Valledupar is the birthplace and capital of vallenato, the accordion-driven folk music that is to Colombia's Caribbean coast what tango is to Buenos Aires. Every April the city hosts the Festival de la Leyenda Vallenata, a multi-day competition that draws musicians and crowds from across the country. Even outside the festival, vallenato is everywhere — in the plazas, in the bars, on the bus.

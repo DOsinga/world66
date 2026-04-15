@@ -1,8 +1,9 @@
 ---
-title: "Yuma"
+title: Yuma
 type: location
 latitude: 32.725422
 longitude: -114.619809
+score: 0.38
 ---
 
 Yuma is located in the Southwest of Arizona, close to the border with [California](/northamerica/unitedstates/california) in the West and [Mexico](/northamerica/mexico) in the South. It's a city with a lot of history. 

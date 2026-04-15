@@ -5,6 +5,7 @@ latitude: 33.74611
 longitude: 75.185447
 title: Anantnag
 type: location
+score: 0.4
 ---
 
 Anantnag is the main town of the southern Kashmir Valley, about 55 km south of Srinagar on the Jhelum River. Known also as Islamabad in older maps, it serves as the gateway district for some of Kashmir's most visited sights in the surrounding countryside.

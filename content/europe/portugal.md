@@ -9,6 +9,7 @@ image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/90999000@N05">wiltshirespotter</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.58
 ---
 
 For any traveler wanting to get off the beaten track in Europe, Portugal has infinite possibilities to experience small towns and diverse landscapes that remain very much like they were a hundred years ago. Portugal is a small, compact country, whose history and customs are deeply influenced by its proximity to the Atlantic Ocean. The Portuguese are proud of their seafaring past, as Vasco de Gama, Columbus and others were pioneers of exploration in Africa, the Americas and India. Portugal was a major colonial power until less than twenty years ago. Following the independence of several of Portugal’s African colonies (1974-1975) over a million refugees moved into the major urban areas of Portugal. The immigrants have integrated well into Portuguese society which has led to a fascinating multi-cultural atmosphere in the major urban areas, especially in 

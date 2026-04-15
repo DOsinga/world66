@@ -5,6 +5,7 @@ latitude: 45.914973
 longitude: 11.173015
 title: Folgaria
 type: location
+score: 0.51
 ---
 
 Folgaria sits on a sunny plateau at 1,168 metres above sea level, looking out over the Adige Valley toward the Lavarone mountain range in the southern Dolomites. With its onion-domed church, coffee houses and Austrian-flavoured architecture, it is a reminder that this part of Trentino was Habsburg territory until 1918.

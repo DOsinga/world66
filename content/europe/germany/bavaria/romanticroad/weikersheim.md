@@ -5,6 +5,7 @@ latitude: 49.480646
 longitude: 9.897678
 title: Weikersheim
 type: location
+score: 0.51
 ---
 
 Weikersheim is a small town on the Tauber river that punches well above its weight thanks to its castle. Schloss Weikersheim was the residence of the Hohenlohe princes, and it is one of the best-preserved aristocratic homes in southern Germany. The Rittersaal (knights' hall) has a remarkable painted ceiling depicting hunting scenes and exotic animals, and the baroque palace garden, lined with stone figures of dwarves and courtiers, is delightfully eccentric.

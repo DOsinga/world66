@@ -5,6 +5,7 @@ latitude: 43.799601
 longitude: 15.608578
 title: Murter
 type: location
+score: 0.61
 ---
 
 Murter is a small island off the Dalmatian coast, connected to the mainland by a bascule bridge at the village of Tisno. It gives its name to both the island and its main settlement, and it serves as the gateway to the Kornati National Park — an archipelago of 89 mostly uninhabited islands that draws sailors and divers from across the Adriatic.

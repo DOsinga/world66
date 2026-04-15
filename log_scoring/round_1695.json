@@ -1,0 +1,200 @@
+{
+  "round": 1695,
+  "timestamp": "2026-04-13T10:43:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_score": 7.0849,
+      "prior_variance": 0.407018,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_score": 6.4196,
+      "prior_variance": 0.488377,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/tellaro",
+      "prior_score": 3.7349,
+      "prior_variance": 0.334073,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_score": 3.8649,
+      "prior_variance": 0.328779,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 4.0544,
+      "prior_variance": 0.412609,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Zacatecas",
+      "path": "northamerica/mexico/zacatecas",
+      "prior_score": 3.7527,
+      "prior_variance": 0.334108,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 3.0525,
+      "prior_variance": 0.349994,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vermont",
+      "path": "northamerica/unitedstates/vermont",
+      "prior_score": 5.4019,
+      "prior_variance": 0.432312,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Shenandoah",
+      "path": "northamerica/unitedstates/virginia/shenandoah",
+      "prior_score": 0.1257,
+      "prior_variance": 0.438623,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mae Hong Son",
+      "path": "asia/thailand/maehongson",
+      "prior_score": 4.0719,
+      "prior_variance": 0.45089,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 2.1959,
+      "prior_variance": 0.643848,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/newcastle_upon_tyn",
+      "prior_score": 1.0906,
+      "prior_variance": 0.35922,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": 0.1938,
+      "prior_variance": 0.317731,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 1.5474,
+      "prior_variance": 0.251731,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Elie Fife",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_score": 0.2204,
+      "prior_variance": 0.339128,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Toowoomba",
+      "path": "australiaandpacific/australia/queensland/toowoomba",
+      "prior_score": -0.6334,
+      "prior_variance": 0.304165,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": 0.4206,
+      "prior_variance": 0.274953,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Napo",
+      "path": "southamerica/ecuador/napo",
+      "prior_score": -0.4692,
+      "prior_variance": 0.297154,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_score": -0.5131,
+      "prior_variance": 0.361124,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.5794,
+      "prior_variance": 0.467033,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_score": -2.3007,
+      "prior_variance": 0.376159,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -2.5952,
+      "prior_variance": 0.310526,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/oakland",
+      "prior_score": -3.5141,
+      "prior_variance": 0.356039,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ada",
+      "path": "northamerica/unitedstates/oklahoma/ada",
+      "prior_score": -5.7016,
+      "prior_variance": 0.339791,
+      "prior_n": 4
+    }
+  ]
+}

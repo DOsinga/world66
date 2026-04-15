@@ -5,6 +5,7 @@ latitude: 32.4607
 longitude: 35.3003
 title: Jenin
 type: location
+score: 0.2
 ---
 
 Jenin is a city in the northern West Bank, set in one of the most fertile parts of Palestine. The surrounding countryside — known as the "breadbasket of Palestine" — is green with olive groves, orchards, and vegetable fields. The city has a busy central market that draws shoppers from across the region.

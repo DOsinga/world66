@@ -1,0 +1,200 @@
+{
+  "round": 536,
+  "timestamp": "2026-04-12T10:36:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Central Coast",
+      "path": "northamerica/unitedstates/california/centralcoast",
+      "prior_mu": 23.5298,
+      "prior_sigma": 4.7328,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Lake Placid",
+      "path": "northamerica/unitedstates/newyorkstate/lakeplacid",
+      "prior_mu": 23.6771,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lancaster County",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty",
+      "prior_mu": 22.541,
+      "prior_sigma": 5.5397,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "The Panhandle",
+      "path": "northamerica/unitedstates/florida/thepanhandle",
+      "prior_mu": 22.4343,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_mu": 22.4046,
+      "prior_sigma": 5.8721,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Museum District",
+      "path": "northamerica/unitedstates/texas/houston/museumdistrict",
+      "prior_mu": 22.0252,
+      "prior_sigma": 4.4781,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_mu": 22.6645,
+      "prior_sigma": 5.725,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_mu": 22.326,
+      "prior_sigma": 5.7469,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_mu": 21.7336,
+      "prior_sigma": 4.8362,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_mu": 22.4364,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Oklahoma",
+      "path": "northamerica/unitedstates/oklahoma",
+      "prior_mu": 22.2467,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_mu": 21.7336,
+      "prior_sigma": 4.8111,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/houston/brazosportarea",
+      "prior_mu": 22.6612,
+      "prior_sigma": 5.6785,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_mu": 19.2202,
+      "prior_sigma": 4.141,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_mu": 22.4425,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_mu": 21.2916,
+      "prior_sigma": 5.7836,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Fort Benning, GA",
+      "path": "northamerica/unitedstates/georgia/fort_benning_ga",
+      "prior_mu": 14.8008,
+      "prior_sigma": 5.9177,
+      "prior_n": 2
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 33.3108
 longitude: 75.7694
 title: Kishtwar
 type: location
+score: 0.41
 ---
 
 Kishtwar sits on a high ridge above the Chenab River, roughly 232 km from Jammu and tucked into a deep valley where the mountains start to get serious. At around 1,600 m it is cool even in summer, and the peaks above — Nun Kun, Brahma, Barnaj — push past 6,000 m. For most travellers, this is genuine off-the-beaten-track territory: the road from Jammu is long, the infrastructure basic, and the rewards proportional.

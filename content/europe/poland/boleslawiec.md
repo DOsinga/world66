@@ -5,6 +5,7 @@ latitude: 51.262169
 longitude: 15.55502
 title: Boleslawiec
 type: location
+score: 0.42
 ---
 
 Boleslawiec is a small town in southwestern Poland, close to the German border, and the centre of the Polish pottery industry. The town's hand-painted ceramics — distinctive blue, white, and green patterns stamped onto stoneware — are famous well beyond Poland, and dozens of factories operate here, most with shop floors where you can buy directly at factory prices.

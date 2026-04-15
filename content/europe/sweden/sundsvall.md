@@ -5,6 +5,7 @@ latitude: 62.390755
 longitude: 17.307102
 title: Sundsvall
 type: location
+score: 0.42
 ---
 
 Sundsvall sits on the coast of northern Sweden, squeezed between two forested hills — the North and South Stadsberget — with the Gulf of Bothnia stretching east. The town burned to the ground in 1888 and was rebuilt entirely in stone, giving the centre an unusually grand look for a city of its size. Locals call it Stenstan, the Stone City.

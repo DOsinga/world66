@@ -5,6 +5,7 @@ latitude: 50.0244
 longitude: 11.3945
 title: Thurnau
 type: location
+score: 0.37
 ---
 
 Thurnau is a small town in Upper Franconia, midway between [Bayreuth](/europe/germany/bavaria/bayreuth) and [Bamberg](/europe/germany/bavaria/bamberg) along the A70. It is best known for its castle complex, one of the largest in Franconia, which has been gradually restored and now houses a branch of the University of Bayreuth.

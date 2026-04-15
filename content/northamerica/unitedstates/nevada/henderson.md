@@ -5,6 +5,7 @@ latitude: 36.0397
 longitude: -114.9819
 title: Henderson
 type: location
+score: 0.36
 ---
 
 Henderson is Nevada's second-largest city, sitting just southeast of Las Vegas with a very different personality. While the Strip glitters a few miles away, Henderson is quieter and more suburban — a city of parks, trails, and neighborhoods where people actually live.

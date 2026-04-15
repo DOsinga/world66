@@ -5,6 +5,7 @@ latitude: 58.085628
 longitude: 7.931858
 title: Kristiansand
 type: location
+score: 0.53
 ---
 
 Kristiansand is the largest city on Norway's South Coast (*Sørlandet*) and the country's southernmost city. It was founded in 1641 by King Christian IV and still bears his mark: the old town centre, known as Kvadraten, follows a rigid Renaissance grid that makes it unusually easy to navigate.

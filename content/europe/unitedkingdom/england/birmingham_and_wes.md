@@ -1,8 +1,9 @@
 ---
-title: "Birmingham and West Midlands"
+title: Birmingham and West Midlands
 type: location
 latitude: 52.454185
 longitude: -1.743866
+score: 0.43
 ---
 
 The West Midlands are located in central England. [Birmingham](/europe/unitedkingdom/england/birmingham_and_wes/birmingham) is the biggest city in the region and technically it is the biggest city of England - London is not one city. Birmingham offers lots of parks, museums and canals (more than Venice) and is a great destination. It is also a good starting point for exploring the West Midlands region. 

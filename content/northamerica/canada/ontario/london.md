@@ -5,6 +5,7 @@ latitude: 42.983675
 longitude: -81.249607
 title: London, Ontario
 type: location
+score: 0.37
 ---
 
 London is a city of about 400,000 in southwestern [Ontario](/northamerica/canada/ontario), known as the "Forest City" for its large parks and extensive tree cover. Settled in 1826 and named after its English namesake, it grew into the commercial heart of the region between Kitchener and Chatham that Ontarians call Western Ontario.

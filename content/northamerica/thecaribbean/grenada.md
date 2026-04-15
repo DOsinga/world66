@@ -1,19 +1,27 @@
 ---
-done:
-  location_cleanup: '2026-04-07'
-latitude: 12.1165
-longitude: -61.679
 title: Grenada
 type: location
+latitude: 12.1165
+longitude: -61.679
+image: grenada.jpg
+image_source: https://commons.wikimedia.org/wiki/File:St_George's,_Grenada_-_panoramio_(8).jpg
+image_license: CC BY 3.0
+image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161103064354/http://www.panoramio.com/user/558771?with_photo_id=131638654">Андрей
+  Бобровский</a>
+done:
+  country_cleanup: 2026-03-29
+score: 0.66
 ---
 
-Just south of [Saint Vincent and the Grenadines](/northamerica/thecaribbean/saintvincentandthegrenadines), Grenada's main claim to fame is the American intervention in the early 1980s. Those days of turmoil are far behind it now, and the island has settled into being one of the Caribbean's most appealing destinations — lush, unhurried, and genuinely friendly.
+Grenada is the southernmost of the Windward Islands, a three-island nation that includes Carriacou and Petit Martinique. It is small — the main island is about 34km long — fragrant with nutmeg and cinnamon, and genuinely beautiful in a way that doesn't require much effort to appreciate. The terrain is lush and mountainous at the centre, ringed by beaches and fishing villages, and the capital [St. George's](/northamerica/thecaribbean/grenada/stgeorges) sits around one of the prettiest harbours in the Caribbean.
 
-Grenada calls itself the Spice Island for good reason. Nutmeg, cinnamon, cloves, and cocoa grow across the mountainous interior, and the scent of spices hangs in the air around the plantation villages. A visit to a spice factory or the Belmont Estate cocoa plantation is worth the trip into the hills. The Grand Etang Forest Reserve, set around a crater lake in the cloud forest at the centre of the island, is the best place for hiking and wildlife.
+The island earned outsized attention when the United States intervened militarily in 1983, following a coup in which Prime Minister Maurice Bishop was killed. That episode is history now, though Grenadians will happily discuss it. What defines the island today is the spice trade, an unhurried pace of life, and a food culture that puts most Caribbean neighbours to shame.
 
-The capital, [St. George's](/northamerica/thecaribbean/grenada/stgeorges), is one of the prettiest harbour towns in the Caribbean, built on hills around a horseshoe-shaped bay. Beyond the capital, the coast offers good beaches (Grand Anse is the most famous), excellent diving and snorkelling, and the world's first underwater sculpture park.
+Grenada calls itself the Spice Isle with reason: it produces around 20 percent of the world's nutmeg supply, along with cloves, cinnamon, ginger, and mace. You will smell it everywhere. A visit to a working spice plantation — River Antoine Estate or Dougaldston — is one of the more interesting afternoon excursions on the island.
 
-Excursions to [Carriacou](/northamerica/thecaribbean/grenada/carriacou) and its smaller neighbour [Petite Martinique](/northamerica/thecaribbean/grenada/petitmartinique) are well worth the ferry ride. Carriacou is quieter still, with excellent sailing waters and the annual Big Drum Festival, a celebration rooted in West African tradition.
+Beyond the capital, the interior rewards exploration. Grand Etang Forest Reserve holds a crater lake and trails through cloud forest. Concord Falls and the Seven Sisters are worth the hike. Carib's Leap at Sauteurs, where the last Carib people jumped to their deaths rather than surrender to French colonisers in 1651, is sobering and worth the drive north.
+
+The underwater world around Grenada is exceptionally good. The Bianca C, a 183-metre Italian cruise ship that sank in 1961, is one of the great Caribbean dive wreck sites. The Underwater Sculpture Park off Moliniere Bay is unusual and photogenic — dozens of human figures arranged on the seafloor, now colonised by coral.
 
 ## Destinations
 

@@ -11,6 +11,7 @@ latitude: -17.679742
 longitude: -149.406843
 title: French Polynesia
 type: location
+score: 0.79
 ---
 
 French Polynesia is a scattering of 118 islands and atolls across a stretch of the South Pacific larger than Western Europe. Most of them are tiny, remote, and uninhabited. The ones that are inhabited are, in many cases, extraordinarily beautiful — mountains draped in jungle dropping into turquoise lagoons, encircled by coral reefs full of sharks and manta rays.

@@ -1,0 +1,200 @@
+{
+  "round": 2099,
+  "timestamp": "2026-04-13T16:10:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/yucatan/cozumel",
+      "prior_score": 6.4385,
+      "prior_variance": 0.31343,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_score": 5.2925,
+      "prior_variance": 0.27194,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Krk Island",
+      "path": "europe/croatia/krkisland",
+      "prior_score": 5.9247,
+      "prior_variance": 0.305,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 2.6172,
+      "prior_variance": 0.321014,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 6.0542,
+      "prior_variance": 0.317744,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Inside Passage",
+      "path": "northamerica/unitedstates/alaska/inside_passage",
+      "prior_score": 6.1007,
+      "prior_variance": 0.400236,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 3.5531,
+      "prior_variance": 0.286048,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Languedoc",
+      "path": "europe/france/midi/languedoc",
+      "prior_score": 4.5376,
+      "prior_variance": 0.321727,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 6.2062,
+      "prior_variance": 0.320233,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.5158,
+      "prior_variance": 0.22611,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 2.7848,
+      "prior_variance": 0.272879,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lombardia",
+      "path": "europe/italy/lombardia",
+      "prior_score": 2.352,
+      "prior_variance": 0.502658,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_score": 3.6459,
+      "prior_variance": 0.297027,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/sandiego/delmar",
+      "prior_score": 0.0637,
+      "prior_variance": 0.351216,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Nor\u00f0oyggjar",
+      "path": "europe/faroeislands/eysturoy/noroyggjar",
+      "prior_score": 2.1665,
+      "prior_variance": 0.231497,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_score": 0.6324,
+      "prior_variance": 0.340028,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Guadalajara",
+      "path": "europe/spain/centralspain/guadalajara",
+      "prior_score": 0.5426,
+      "prior_variance": 0.249873,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/kenilworth",
+      "prior_score": 0.6964,
+      "prior_variance": 0.299601,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 1.9421,
+      "prior_variance": 0.255035,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lancashire",
+      "path": "europe/unitedkingdom/england/lancashire",
+      "prior_score": 0.7876,
+      "prior_variance": 0.285555,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -2.3668,
+      "prior_variance": 0.144407,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Guadalupe",
+      "path": "northamerica/costarica/guadalupe",
+      "prior_score": -3.6227,
+      "prior_variance": 0.278027,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -5.2064,
+      "prior_variance": 0.251087,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -9.2436,
+      "prior_variance": 0.250256,
+      "prior_n": 7
+    }
+  ]
+}

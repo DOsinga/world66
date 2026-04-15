@@ -5,6 +5,7 @@ latitude: 9.9387
 longitude: 43.1841
 title: Borama
 type: location
+score: 0.28
 ---
 
 Borama is Somaliland's second city, sitting in the highlands near the Ethiopian border at an altitude that keeps the heat manageable. It has a reputation as one of the calmer, safer cities in the region — less frenetic than Hargeisa, more of a university town than a trading hub. Amoud University, one of the first higher education institutions to reopen in post-war Somaliland, gives the city a younger, more studious feel than you might expect this far off the beaten track.

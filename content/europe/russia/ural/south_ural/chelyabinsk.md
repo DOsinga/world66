@@ -5,6 +5,7 @@ latitude: 55.159841
 longitude: 61.402555
 title: Chelyabinsk
 type: location
+score: 0.28
 ---
 
 Chelyabinsk is the administrative capital of the South Ural and one of Russia's ten largest cities, with a population of over a million. Founded as a fortress in 1736, it grew into a major industrial centre during the Soviet era — a reputation that has left it with an image of grey factory smokestacks, not entirely deserved.

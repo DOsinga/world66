@@ -1,6 +1,7 @@
 ---
-title: "rudrapyag"
+title: rudrapyag
 type: location
+score: 0.42
 ---
 
 Travel Guide

@@ -12,6 +12,7 @@ latitude: -25.065772
 longitude: -130.101782
 title: Pitcairn Islands
 type: location
+score: 0.41
 ---
 
 Pitcairn is the most remote inhabited island on Earth. It sits in the South Pacific roughly halfway between New Zealand and Peru, 2,170 kilometres southeast of Tahiti. The nearest airport is in Mangareva, French Polynesia — a 32-hour voyage by sea. There are no flights. There is no harbour deep enough for large ships. You arrive by longboat through the surf at Bounty Bay.

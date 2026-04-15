@@ -1,8 +1,9 @@
 ---
-title: "Dakar"
+title: Dakar
 type: location
 latitude: 14.693425
 longitude: -17.447938
+score: 0.51
 ---
 
 Dakar the very French capital of Senegal is a pleasant city with beautiful tree-lined boulevards and the most European atmosphere of any city on the continent (outside of South Africa).

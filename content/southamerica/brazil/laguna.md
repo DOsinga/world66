@@ -5,6 +5,7 @@ latitude: -28.4837
 longitude: -48.7817
 title: Laguna
 type: location
+score: 0.44
 ---
 
 Laguna is one of the oldest and most historically significant towns on Brazil's southern coast — a place where colonial architecture, wild beaches, and a famous carnival combine in a way that sets it apart from the beach resorts further north. Founded in 1676, it sits on a narrow strip of land between the Atlantic Ocean and the vast Lagoa Santo Antônio, giving it the feel of a town enclosed by water on all sides.

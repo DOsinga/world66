@@ -5,6 +5,7 @@ latitude: 48.5734
 longitude: 7.7521
 title: Strasbourg
 type: location
+score: 0.74
 ---
 
 Strasbourg sits on the Rhine, on the border with [Germany](/europe/germany), and it shows: the language, the food, the architecture, and the beer all carry a German imprint, yet the city is unmistakably French. The Alsatian capital has changed hands between France and Germany several times over the centuries, and that dual identity is part of what makes it so interesting.

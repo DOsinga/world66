@@ -1,9 +1,10 @@
 ---
-title: "Aqsu"
+title: Aqsu
 type: location
-latitude: 40.5700
-longitude: 48.4200
+latitude: 40.57
+longitude: 48.42
 todo_location_cleanup: done
+score: 0.24
 ---
 
 Aqsu is a quiet provincial town in eastern Azerbaijan, on the road north-east from Kurdamir toward the Shemakha highway. It sits in an agricultural area known for grape processing, preserves, and cocoon drying — a glimpse of the rural economy that underpins this part of the country.

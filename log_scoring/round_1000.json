@@ -1,0 +1,200 @@
+{
+  "round": 1000,
+  "timestamp": "2026-04-12T22:04:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Utah",
+      "path": "northamerica/unitedstates/utah",
+      "prior_rank": 142,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_rank": 722,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_rank": 320,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_rank": 33,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cuba",
+      "path": "northamerica/thecaribbean/cuba",
+      "prior_rank": 371,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_rank": 844,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_rank": 691,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_rank": 1358,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_rank": 397,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Reunion",
+      "path": "africa/reunion",
+      "prior_rank": 433,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cantabria",
+      "path": "europe/spain/cantabria",
+      "prior_rank": 3415,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_rank": 775,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_rank": 66,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_rank": 928,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_rank": 763,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_rank": 943,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_rank": 92,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_rank": 778,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Roatan",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_rank": 1473,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_rank": 414,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_rank": 595,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_rank": 752,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_rank": 3396,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_rank": 1144,
+      "prior_wins": 19,
+      "prior_n": 1
+    }
+  ]
+}

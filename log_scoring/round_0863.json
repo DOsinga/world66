@@ -1,0 +1,200 @@
+{
+  "round": 863,
+  "timestamp": "2026-04-12T14:45:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "British Columbia",
+      "path": "northamerica/canada/britishcolumbia",
+      "prior_score": 9.9776,
+      "prior_variance": 2.275177,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 8.4714,
+      "prior_variance": 1.639529,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 5.9854,
+      "prior_variance": 1.394352,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Grand Turk",
+      "path": "northamerica/turksandcaicosislands/grandturk",
+      "prior_score": 7.6286,
+      "prior_variance": 1.797722,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 2.7752,
+      "prior_variance": 1.391789,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_lagun",
+      "prior_score": 4.0067,
+      "prior_variance": 1.448473,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 2.9314,
+      "prior_variance": 1.671783,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 1.9573,
+      "prior_variance": 1.384014,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Varatella Valley",
+      "path": "europe/italy/liguria/varatellavalley",
+      "prior_score": 4.5098,
+      "prior_variance": 1.617676,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tranekr",
+      "path": "europe/denmark/tranekr",
+      "prior_score": -0.936,
+      "prior_variance": 0.967471,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 1.2536,
+      "prior_variance": 1.387767,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": 2.1771,
+      "prior_variance": 1.701168,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": 0.6094,
+      "prior_variance": 1.386507,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_score": 0.8909,
+      "prior_variance": 1.615218,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": 1.3572,
+      "prior_variance": 1.370378,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -0.9174,
+      "prior_variance": 1.217763,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -11.6434,
+      "prior_variance": 3.214024,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -9.9688,
+      "prior_variance": 9.450039,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -3.5689,
+      "prior_variance": 1.538028,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -0.3582,
+      "prior_variance": 1.901509,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Starkville",
+      "path": "northamerica/unitedstates/mississippi/starkville",
+      "prior_score": -11.8751,
+      "prior_variance": 2.266578,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -5.9893,
+      "prior_variance": 1.60273,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Debsk",
+      "path": "europe/poland/debsk",
+      "prior_score": -5.9828,
+      "prior_variance": 1.582207,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2",
+      "prior_score": -13.7379,
+      "prior_variance": 7.397864,
+      "prior_n": 1
+    }
+  ]
+}

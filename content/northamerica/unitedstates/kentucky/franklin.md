@@ -5,6 +5,7 @@ latitude: 36.7223
 longitude: -86.5775
 title: Franklin
 type: location
+score: 0.29
 ---
 
 Franklin is a small agricultural town of around 8,000 people in Simpson County, just a few miles north of the Tennessee state line and about 45 miles north of Nashville. It's the kind of quietly proud Southern town that surprises visitors — home to a genuine oddity in Octagon Hall, a beloved golf course designed by a hometown pro, and the unlikely setting for one of country music's most famous weddings.

@@ -5,6 +5,7 @@ latitude: 33.8708
 longitude: -117.9294
 title: Fullerton
 type: location
+score: 0.34
 ---
 
 Fullerton sits at the northern edge of Orange County, about 22 miles southeast of downtown Los Angeles — close enough to the sprawl but with its own distinct character. It's a college town at heart, home to California State University Fullerton, and that gives the downtown area a livelier, younger feel than most of its Orange County neighbors.

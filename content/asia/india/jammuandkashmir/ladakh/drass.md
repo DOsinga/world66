@@ -5,6 +5,7 @@ latitude: 34.4293
 longitude: 75.7508
 title: Drass
 type: location
+score: 0.42
 ---
 
 Drass is a small village in Kargil district, sitting in the valley of the same name between the Suru and Zanskar valleys in the northern Himalayas. Often cited as the second coldest inhabited place on earth, winter temperatures here can drop below minus 40°C. The village gained fame during the Indo-Pakistani Kargil War of 1999, when fighting concentrated on the surrounding peaks including Tololing and Tiger Hill — a war memorial in Drass commemorates the Indian soldiers who died in the conflict.

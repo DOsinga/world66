@@ -5,6 +5,7 @@ latitude: -16.234392
 longitude: 167.499172
 title: Malakula
 type: location
+score: 0.45
 ---
 
 Malakula is the second largest island in Vanuatu and one of the most culturally rich places in the entire Pacific. Over thirty distinct languages are spoken here, a density of linguistic diversity that reflects centuries of isolated communities separated by the island's rugged interior of dense jungle and steep mountains. For travellers willing to make the effort to get here, Malakula offers an experience of traditional Melanesian culture that has largely disappeared elsewhere in the archipelago.

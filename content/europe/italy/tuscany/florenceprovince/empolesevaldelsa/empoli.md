@@ -5,6 +5,7 @@ latitude: 43.719488
 longitude: 10.945856
 title: Empoli
 type: location
+score: 0.4
 ---
 
 Empoli is a working town in the Arno valley about 30 km west of Florence. It is not a tourist destination in the usual sense, but it has a compact historic centre organised around Piazza Farinata degli Uberti that rewards a short visit.

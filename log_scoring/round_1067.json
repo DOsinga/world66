@@ -1,0 +1,200 @@
+{
+  "round": 1067,
+  "timestamp": "2026-04-12T22:07:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_rank": 6248,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_rank": 5774,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Prefecture of Serres",
+      "path": "europe/greece/prefecture_of_serr",
+      "prior_rank": 5969,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_rank": 7719,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Panipat",
+      "path": "asia/india/haryana/panipat",
+      "prior_rank": 7710,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_rank": 7010,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_rank": 6209,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/yucatan/chiautempan",
+      "prior_rank": 7474,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_rank": 7356,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Chuvashia",
+      "path": "europe/russia/chuvashia",
+      "prior_rank": 7690,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Gjilan",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjilan",
+      "prior_rank": 7949,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Aars",
+      "path": "europe/denmark/aars",
+      "prior_rank": 7375,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_rank": 8107,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_rank": 7854,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_rank": 7752,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley/museum",
+      "prior_rank": 7169,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/consett",
+      "prior_rank": 8129,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Arva",
+      "path": "europe/ireland/arva",
+      "prior_rank": 7826,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_rank": 6969,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Orem",
+      "path": "northamerica/unitedstates/utah/orem",
+      "prior_rank": 5999,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_rank": 7011,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Paramus",
+      "path": "northamerica/unitedstates/newjersey/paramus",
+      "prior_rank": 7508,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_rank": 6611,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_rank": 8034,
+      "prior_wins": 3,
+      "prior_n": 2
+    }
+  ]
+}

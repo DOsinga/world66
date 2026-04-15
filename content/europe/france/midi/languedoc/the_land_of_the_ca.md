@@ -5,6 +5,7 @@ latitude: 43.05
 longitude: 2.35
 done:
   location_cleanup: 2026-04-06
+score: 0.63
 ---
 
 The province of Aude in the Languedoc is beautiful, wild and rugged — soaring mountains, dense forests, rich red soil, extensive vineyards, picturesque villages, and Cathar castles perched like eagles' nests on the tops of high mountains.

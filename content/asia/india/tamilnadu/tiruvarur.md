@@ -5,6 +5,7 @@ latitude: 10.938061
 longitude: 79.413043
 title: Tiruvarur
 type: location
+score: 0.37
 ---
 
 Tiruvarur is a small town in the Cauvery Delta between Thanjavur and Nagapattinam, known primarily for the **Thyagaraja Temple** — one of the Pancha Bhuta Stalas, the five Shiva temples each representing one of the classical elements. Tiruvarur's temple represents earth (prithvi). The complex is large and ancient, with a 36-hectare temple tank that serves as one of the town's landmarks.

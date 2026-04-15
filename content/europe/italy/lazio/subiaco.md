@@ -5,6 +5,7 @@ latitude: 41.926715
 longitude: 13.094432
 title: Subiaco
 type: location
+score: 0.52
 ---
 
 Subiaco is a small town about 70 km east of [Rome](/europe/italy/lazio/rome), tucked into a valley of the Simbruini Mountains. It has been a favourite retreat for more than two millennia: Nero built himself a villa here after the fire of Rome, and Saint Benedict came here to live as a hermit in the sixth century, founding the monastic tradition that would shape medieval Europe.

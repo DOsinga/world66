@@ -5,6 +5,7 @@ latitude: 11.9904
 longitude: 105.4635
 title: Kampong Cham
 type: location
+score: 0.46
 ---
 
 Kampong Cham is a port city on the banks of the Mekong River, about 120 kilometres northeast of [Phnom Penh](/asia/cambodia/phnompenh). It is Cambodia's third-largest city and one of the more pleasant provincial towns to spend a day or two — relaxed, walkable, and less visited than the Angkor circuit.

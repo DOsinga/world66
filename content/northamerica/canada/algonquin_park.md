@@ -5,6 +5,7 @@ latitude: 45.657136
 longitude: -78.499539
 done:
   location_cleanup: 2026-04-07
+score: 0.61
 ---
 
 Algonquin Provincial Park is over 7,600 square kilometres of forest, lake and river in the highlands of [Ontario](/northamerica/canada/ontario) — one of the oldest provincial parks in Canada and one of the best places in the country to experience real wilderness without a bush plane. It sits about three hours north of [Toronto](/northamerica/canada/ontario/toronto) along Highway 60, which cuts across the park’s southern edge and provides access to most of the facilities. Beyond that corridor, the park is roadless.

@@ -5,6 +5,7 @@ latitude: 47.5049
 longitude: -111.2919
 title: Great Falls
 type: location
+score: 0.41
 ---
 
 Great Falls earns its name from the series of five waterfalls on the Missouri River that stopped Lewis and Clark in their tracks. In June 1805, the expedition spent 31 gruelling days portaging around them -- one of the hardest stretches of their entire journey. Two sections of that portage route survive as the Great Falls Portage National Historic Landmark, and the Lewis and Clark Interpretive Center on the river bluffs tells the story well.

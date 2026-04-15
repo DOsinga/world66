@@ -1,8 +1,9 @@
 ---
-title: "New Paltz"
+title: New Paltz
 type: location
 latitude: 41.746497
 longitude: -74.084489
+score: 0.52
 ---
 
 Travel Guide

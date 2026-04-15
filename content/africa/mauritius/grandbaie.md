@@ -5,6 +5,7 @@ latitude: -20.01302
 longitude: 57.584627
 title: Grand Baie
 type: location
+score: 0.66
 ---
 
 Grand Baie is the main tourist hub of the north coast — busy, convenient, and unashamedly commercial. The beach is pleasant but not the best on the island. What Grand Baie has is infrastructure: the highest concentration of restaurants, shops, dive operators, boat excursion companies, and nightlife outside Port Louis.

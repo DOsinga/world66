@@ -5,6 +5,7 @@ latitude: 6.4681
 longitude: 2.39
 title: Ganvié
 type: location
+score: 0.52
 ---
 
 **Ganvié** is a town built entirely on stilts over Lake Nokoué, about 15 km north of [Cotonou](/africa/benin/cotonou). It is sometimes called the Venice of Africa, which sets expectations that the reality cannot quite meet — tourism has taken its toll, and arriving from Cotonou you will be surrounded by touts offering to guide you around.

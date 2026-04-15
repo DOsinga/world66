@@ -5,6 +5,7 @@ latitude: 63.936809
 longitude: -21.003532
 done:
   location_cleanup: 2026-04-07
+score: 0.51
 ---
 
 Selfoss is the largest town in south Iceland, with around 7,000 inhabitants, sitting on the Ölfusá river about 60km south-east of Reykjavik. It is primarily a service town for the surrounding agricultural region — Iceland's most fertile farming area — rather than a tourist destination in itself. But its location makes it one of the most useful bases in Iceland: the Golden Circle (Þingvellir, Geysir, Gullfoss) is within easy reach to the north, the volcanic landscapes around Hekla lie to the east, and the south coast waterfalls of Seljalandsfoss and Skógafoss are not far beyond.

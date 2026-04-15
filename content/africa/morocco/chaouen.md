@@ -5,6 +5,7 @@ latitude: 35.1686
 longitude: -5.2636
 done:
   location_cleanup: 2026-04-05
+score: 0.75
 ---
 
 Chefchaouen — usually shortened to Chaouen — is a small, blue-washed town tucked into the Rif Mountains of northern Morocco. The name means "look at the peaks," and it lives up to it: the medina climbs a hillside beneath two rocky horns (the chaouen themselves), every wall and staircase painted in shades of cobalt, sky, and powder blue. The effect is dreamlike and, these days, heavily photographed, but the town has kept its scale and its rhythm — children still greet you in Spanish, old men play cards in shaded squares, and by ten at night the medina is quiet.

@@ -1,0 +1,200 @@
+{
+  "round": 1094,
+  "timestamp": "2026-04-12T22:09:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_rank": 7464,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ciechanow",
+      "path": "europe/poland/ciechanow",
+      "prior_rank": 7026,
+      "prior_wins": 23,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Schoenaich",
+      "path": "europe/germany/badenwrttemberg/schoenaich",
+      "prior_rank": 8044,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_rank": 7930,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Clovis",
+      "path": "northamerica/unitedstates/newmexico/clovis",
+      "prior_rank": 7794,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "McPherson",
+      "path": "northamerica/unitedstates/kansas/mcpherson",
+      "prior_rank": 5642,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Hayward",
+      "path": "northamerica/unitedstates/california/hayward",
+      "prior_rank": 7973,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "bedford",
+      "path": "northamerica/unitedstates/ohio/bedford",
+      "prior_rank": 7598,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_rank": 7738,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_rank": 7914,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_rank": 7222,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_rank": 7767,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_rank": 7634,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_rank": 7646,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_rank": 8025,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Pirules",
+      "path": "northamerica/mexico/pirules",
+      "prior_rank": 7920,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_rank": 7863,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Dombivli",
+      "path": "asia/india/maharashtra/dombivli",
+      "prior_rank": 8035,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_rank": 7961,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Banking",
+      "path": "northamerica/costarica/travelinformation/banking",
+      "prior_rank": 7929,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_rank": 5231,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "MAIRA",
+      "path": "asia/pakistan/abbottabad/maira",
+      "prior_rank": 7971,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "caston norfolk",
+      "path": "europe/unitedkingdom/england/castonnorfolk",
+      "prior_rank": 8130,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Yaziva",
+      "path": "northamerica/panama/dariengap/yaziva",
+      "prior_rank": 8102,
+      "prior_wins": 4,
+      "prior_n": 4
+    }
+  ]
+}

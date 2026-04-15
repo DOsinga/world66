@@ -5,6 +5,7 @@ latitude: 39.672741
 longitude: 44.913874
 title: Sadarak
 type: location
+score: 0.28
 ---
 
 Sadarak sits near the point where [Armenia](/europe/armenia), [Turkey](/asia/turkey) and [Nakhchivan](/europe/azerbaijan/naxcivan) converge, just a few kilometres from [Iran](/asia/iran) — a crossroads that has brought the town more trouble than benefit over the centuries.

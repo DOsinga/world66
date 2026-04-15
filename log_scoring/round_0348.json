@@ -1,0 +1,200 @@
+{
+  "round": 348,
+  "timestamp": "2026-04-12T09:12:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_mu": 24.8445,
+      "prior_sigma": 5.8305,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Malaga",
+      "path": "europe/spain/malaga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Isle of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cayo Coco",
+      "path": "northamerica/cuba/cayo_coco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_mu": 24.0536,
+      "prior_sigma": 6.0424,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_mu": 22.7527,
+      "prior_sigma": 5.9535,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "M'zab",
+      "path": "africa/algeria/mzab",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/bradford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_mu": 22.7573,
+      "prior_sigma": 5.7128,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Roxas City",
+      "path": "asia/philippines/manila/roxas_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_mu": 22.7066,
+      "prior_sigma": 5.9479,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/hartlepool",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/eastern_england/ipswich",
+      "prior_mu": 22.5283,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_mu": 22.7206,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

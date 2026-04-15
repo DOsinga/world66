@@ -3,6 +3,7 @@ latitude: 50.263335
 longitude: -5.051078
 title: Truro
 type: location
+score: 0.55
 ---
 
 Truro is the only city in Cornwall and its administrative, commercial, and cultural centre. It sits at the head of the Truro River, a tidal estuary that eventually opens into the Carrick Roads, one of the world's largest natural harbours.

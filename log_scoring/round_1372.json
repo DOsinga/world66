@@ -1,0 +1,200 @@
+{
+  "round": 1372,
+  "timestamp": "2026-04-12T22:24:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_rank": 8219,
+      "prior_wins": 2,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_rank": 7990,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ash Flat",
+      "path": "northamerica/unitedstates/arkansas/ashflat",
+      "prior_rank": 8207,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_rank": 7836,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mughan",
+      "path": "europe/azerbaijan/baku/mughan",
+      "prior_rank": 7991,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Khovd",
+      "path": "asia/mongolia/khovd",
+      "prior_rank": 7896,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_rank": 8051,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_rank": 7638,
+      "prior_wins": 24,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Madhegaon kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_rank": 8179,
+      "prior_wins": 5,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_rank": 8220,
+      "prior_wins": 3,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_rank": 8212,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_rank": 7962,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Port-au-Prince",
+      "path": "northamerica/haiti/portauprince",
+      "prior_rank": 8058,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_rank": 8213,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pakistan",
+      "path": "asia/pakistan",
+      "prior_rank": 7918,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tibbi Qaisrani (Miana)",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisranimia_1",
+      "prior_rank": 7848,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "ghazi chok",
+      "path": "asia/pakistan/dera_ghazi_khan/ghazi_chok",
+      "prior_rank": 8187,
+      "prior_wins": 6,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_rank": 7785,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_rank": 8048,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_rank": 8136,
+      "prior_wins": 7,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Nagorno-Karabakh",
+      "path": "europe/armenia/nagornokarabakh",
+      "prior_rank": 8192,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_rank": 8177,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_rank": 7789,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_rank": 8123,
+      "prior_wins": 6,
+      "prior_n": 3
+    }
+  ]
+}

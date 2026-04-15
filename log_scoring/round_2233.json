@@ -1,0 +1,200 @@
+{
+  "round": 2233,
+  "timestamp": "2026-04-13T16:22:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 8.4749,
+      "prior_variance": 0.39259,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_score": 4.2423,
+      "prior_variance": 0.217085,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Outlying Islands",
+      "path": "asia/china/hongkong/outlyingislands",
+      "prior_score": 2.9254,
+      "prior_variance": 0.242375,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "San Qurico D' Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 5.9939,
+      "prior_variance": 0.325114,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 6.705,
+      "prior_variance": 0.361452,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_score": 4.5859,
+      "prior_variance": 0.283615,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 4.8926,
+      "prior_variance": 0.297801,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": -1.6485,
+      "prior_variance": 0.352502,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": 0.223,
+      "prior_variance": 0.229576,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Cederberg Wilderness Area",
+      "path": "africa/southafrica/cederberg_wilderne",
+      "prior_score": 2.1817,
+      "prior_variance": 0.22821,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_score": 1.7481,
+      "prior_variance": 0.270547,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -3.4515,
+      "prior_variance": 0.257396,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -0.9818,
+      "prior_variance": 0.223843,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -1.8354,
+      "prior_variance": 0.216271,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/lydford",
+      "prior_score": 1.2461,
+      "prior_variance": 0.218994,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_score": -0.4339,
+      "prior_variance": 0.258723,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -2.3868,
+      "prior_variance": 0.249989,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_score": 0.6062,
+      "prior_variance": 0.215996,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
+      "prior_score": 0.4184,
+      "prior_variance": 0.182772,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -0.9981,
+      "prior_variance": 0.296852,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Sandusky",
+      "path": "northamerica/unitedstates/ohio/sandusky",
+      "prior_score": -2.2544,
+      "prior_variance": 0.239739,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/eastern_england/ipswich",
+      "prior_score": -3.138,
+      "prior_variance": 0.290874,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_score": -4.1183,
+      "prior_variance": 0.270216,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -5.487,
+      "prior_variance": 0.249222,
+      "prior_n": 6
+    }
+  ]
+}

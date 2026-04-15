@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   from -
 done:
   country_cleanup: 2026-03-29
+score: 0.48
 ---
 
 Chile has the honour of being the thinnest country in the world if you compare its length with its width. The country is so long that in the north you will find the dryest of deserts and in the south you are on the closest point to the South Pole.

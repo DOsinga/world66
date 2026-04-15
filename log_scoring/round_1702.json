@@ -1,0 +1,200 @@
+{
+  "round": 1702,
+  "timestamp": "2026-04-13T10:43:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_score": 9.2073,
+      "prior_variance": 0.612428,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Xi'an",
+      "path": "asia/china/xian",
+      "prior_score": 8.7005,
+      "prior_variance": 0.382179,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/york",
+      "prior_score": 7.3235,
+      "prior_variance": 0.846158,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 7.5913,
+      "prior_variance": 0.644325,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 7.9185,
+      "prior_variance": 0.465787,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bath",
+      "prior_score": 6.5143,
+      "prior_variance": 0.451172,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Gran Canaria",
+      "path": "europe/spain/grancanaria",
+      "prior_score": 8.3497,
+      "prior_variance": 0.444901,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 3.5929,
+      "prior_variance": 0.356701,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_score": 6.9991,
+      "prior_variance": 0.587371,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Canazei",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa/canazei",
+      "prior_score": 5.9301,
+      "prior_variance": 0.376977,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_score": 3.9526,
+      "prior_variance": 0.341075,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Gudauri",
+      "path": "europe/georgia/tbilisi/gudauri",
+      "prior_score": -0.6087,
+      "prior_variance": 0.559624,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_score": 1.9461,
+      "prior_variance": 0.336756,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_score": 3.3915,
+      "prior_variance": 0.379867,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Playa Brasilito",
+      "path": "northamerica/costarica/playabrasilito",
+      "prior_score": 3.5262,
+      "prior_variance": 0.337552,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Beverly Hills",
+      "path": "northamerica/unitedstates/california/losangeles/beverlyhills",
+      "prior_score": 2.4084,
+      "prior_variance": 0.35177,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Channel Islands (Crown Dependencies)",
+      "path": "europe/unitedkingdom/england/channel_islands_c",
+      "prior_score": 3.8563,
+      "prior_variance": 0.369478,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 0.0608,
+      "prior_variance": 0.474313,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 0.8241,
+      "prior_variance": 0.303178,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 1.0111,
+      "prior_variance": 0.569055,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -1.7878,
+      "prior_variance": 0.295896,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": -1.065,
+      "prior_variance": 0.288437,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -4.642,
+      "prior_variance": 0.412096,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dag nabbit good stuf",
+      "path": "europe/luxembourg/beaufort/dag_nabbit_good_st",
+      "prior_score": -7.3288,
+      "prior_variance": 0.801066,
+      "prior_n": 4
+    }
+  ]
+}

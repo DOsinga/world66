@@ -5,6 +5,7 @@ latitude: 16.0228
 longitude: -16.4897
 title: Saint-Louis
 type: location
+score: 0.47
 ---
 
 Saint-Louis was Senegal's capital before Dakar, and its former grandeur is written into every crumbling facade. Founded by the French in 1659 on a slender island in the Senegal River, it became the administrative heart of French West Africa for nearly two centuries. Today it is a UNESCO World Heritage Site, and one of the most atmospheric cities on the continent.

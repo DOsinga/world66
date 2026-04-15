@@ -5,6 +5,7 @@ latitude: 40.684448
 longitude: 24.651206
 title: Thassos
 type: location
+score: 0.7
 ---
 
 Thassos is the northernmost Greek island, a short ferry ride from Kavala or Keramoti on the Macedonian coast. It is one of the greenest islands in the Aegean — pine forests cover the mountainous interior, dropping to sandy beaches and coves around the coast.

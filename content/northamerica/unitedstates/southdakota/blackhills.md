@@ -5,6 +5,7 @@ latitude: 43.869281
 longitude: -103.526487
 title: Black Hills
 type: location
+score: 0.64
 ---
 
 The Black Hills are an isolated mountain range rising from the Great Plains of western South Dakota — dark with ponderosa pine from a distance, hence the name. Sacred to the Lakota Sioux, contested in treaty wars, and eventually carved with presidential faces, this is one of the most geologically and historically layered landscapes in America.

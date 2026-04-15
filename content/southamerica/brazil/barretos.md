@@ -5,6 +5,7 @@ latitude: -20.553144
 longitude: -48.569751
 title: Barretos
 type: location
+score: 0.34
 ---
 
 Barretos is a cattle town in the interior of São Paulo state, known throughout Brazil for the Festa do Peão de Boiadeiro — one of the largest rodeo festivals in the world. Every August, the town's population roughly doubles as hundreds of thousands of visitors arrive for ten days of bull riding, country music, and what amounts to a giant open-air party.

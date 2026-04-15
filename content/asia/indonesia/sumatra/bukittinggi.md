@@ -5,6 +5,7 @@ latitude: -0.305195
 longitude: 100.369492
 title: Bukittinggi
 type: location
+score: 0.52
 ---
 
 Bukittinggi is a laid-back mountain town in the Minangkabau highlands of West [Sumatra](/asia/indonesia/sumatra), sitting at about 930 metres above sea level. It has been popular with travellers since the 1970s and remains the most convenient base for exploring the surrounding highlands.

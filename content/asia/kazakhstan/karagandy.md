@@ -5,6 +5,7 @@ latitude: 49.176732
 longitude: 74.181127
 title: Karagandy
 type: location
+score: 0.29
 ---
 
 Karagandy (Karaganda) is Kazakhstan's fourth-largest city and the capital of the country's biggest region. The name comes from a word meaning "black" — fitting for a city built on coal. Founded as a mining settlement in the 1930s, it grew rapidly under Soviet industrialisation, drawing workers from across the USSR and beyond, including many who arrived involuntarily as Gulag prisoners or deported peoples.

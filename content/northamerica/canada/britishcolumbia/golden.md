@@ -5,6 +5,7 @@ latitude: 51.299222
 longitude: -116.964296
 title: Golden
 type: location
+score: 0.58
 ---
 
 Golden is a small mountain town in southeastern British Columbia, wedged between the Rocky and Purcell ranges at the confluence of the Kicking Horse and Columbia rivers. It is surrounded by six national parks — Yoho, Glacier, Banff, Kootenay, Jasper, and Mount Revelstoke — making it one of the best-positioned adventure bases in the Canadian Rockies.

@@ -5,6 +5,7 @@ latitude: 40.723475
 longitude: 8.561267
 title: Sassari
 type: location
+score: 0.56
 ---
 
 Sassari is Sardinia's second city and the main centre of the island's north. Its history is layered — Genoese, Pisan, Aragonese, and Spanish rulers each left their mark, and the old town still shows it. The architecture mixes Spanish Gothic townhouses with Italian Baroque churches, all crammed into a maze of narrow alleys that are worth wandering for hours.

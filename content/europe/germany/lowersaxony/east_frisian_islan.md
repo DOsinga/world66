@@ -5,6 +5,7 @@ latitude: 53.712386
 longitude: 7.23402
 done:
   location_cleanup: 2026-04-07
+score: 0.54
 ---
 
 The East Frisian Islands stretch along Germany's North Sea coast like a string of pearls — seven islands that together form part of the Lower Saxony Wadden Sea National Park, a UNESCO World Heritage Site. From west to east they are Borkum, Juist, Norderney, Baltrum, Langeoog, Spiekeroog, and Wangerooge.

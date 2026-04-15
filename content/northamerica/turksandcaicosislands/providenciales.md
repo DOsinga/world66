@@ -1,10 +1,11 @@
 ---
-title: "Providenciales"
+title: Providenciales
 type: location
 latitude: 21.7732
 longitude: -72.2651
 done:
   location_cleanup: 2026-04-07
+score: 0.74
 ---
 
 Providenciales — universally called "Provo" — is the main tourist hub of the Turks and Caicos Islands, a British Overseas Territory in the northern Caribbean southeast of the Bahamas. It's best known for Grace Bay Beach, a 3-km arc of white sand and luminously clear turquoise water that consistently ranks among the best beaches in the world. There's no argument: it's genuinely spectacular.

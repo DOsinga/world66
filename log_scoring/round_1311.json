@@ -1,0 +1,200 @@
+{
+  "round": 1311,
+  "timestamp": "2026-04-12T22:20:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Australia",
+      "path": "australiaandpacific/australia",
+      "prior_rank": 3558,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Senegal",
+      "path": "africa/senegal",
+      "prior_rank": 3980,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_rank": 3862,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Brunei",
+      "path": "asia/brunei",
+      "prior_rank": 5011,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mangaia",
+      "path": "australiaandpacific/cookislands/mangaia",
+      "prior_rank": 1859,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_rank": 2460,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_rank": 5536,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_rank": 4055,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_rank": 3977,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_rank": 4311,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kackar",
+      "path": "asia/turkey/kackar",
+      "prior_rank": 6769,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_rank": 3607,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_rank": 4047,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_rank": 3826,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_rank": 5066,
+      "prior_wins": 57,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tretten",
+      "path": "europe/norway/tretten",
+      "prior_rank": 4458,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_rank": 2710,
+      "prior_wins": 63,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_rank": 4209,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Forestville",
+      "path": "northamerica/unitedstates/california/northcoast/forestville",
+      "prior_rank": 3304,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Frankenmuth",
+      "path": "northamerica/unitedstates/michigan/frankenmuth",
+      "prior_rank": 3342,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Nieuwpoort",
+      "path": "europe/belgium/nieuwpoort",
+      "prior_rank": 3854,
+      "prior_wins": 59,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_rank": 2430,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Neckargem\u00fcnd",
+      "path": "europe/germany/badenwrttemberg/neckargemuend",
+      "prior_rank": 4912,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_rank": 6097,
+      "prior_wins": 15,
+      "prior_n": 2
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: -35.261792
 longitude: 174.121529
 title: Russell
 type: location
+score: 0.49
 ---
 
 Russell — Kororāreka in Māori — was New Zealand's first capital and, before that, one of the wildest ports in the Pacific. Whalers, traders, and deserters made it notorious enough that the capital was quickly moved up the harbour to Okiato. Today the wildness is long gone, replaced by a quiet waterfront village with some of the country's most significant historic buildings.

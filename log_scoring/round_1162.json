@@ -1,0 +1,200 @@
+{
+  "round": 1162,
+  "timestamp": "2026-04-12T22:12:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/vancouver/newwestminster",
+      "prior_rank": 4380,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_rank": 6927,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/chesterfield",
+      "prior_rank": 7366,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bretten",
+      "path": "europe/germany/badenwrttemberg/bretten",
+      "prior_rank": 7512,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Fermoy",
+      "path": "europe/ireland/fermoy",
+      "prior_rank": 7355,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_rank": 5911,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_rank": 4504,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_rank": 6328,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_rank": 7984,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_rank": 5274,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_rank": 6999,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Yantra",
+      "path": "europe/bulgaria/gornaoryahovica/yantra",
+      "prior_rank": 5921,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sokobanja",
+      "path": "europe/serbiaandmontenegro/sokobanja",
+      "prior_rank": 6989,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_rank": 7335,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_rank": 6451,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/yucatan/tehuacan",
+      "prior_rank": 6194,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_rank": 6668,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_rank": 7149,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Soon Valley Ugalisharif",
+      "path": "asia/pakistan/soon_valley/soon_valley_ugalis",
+      "prior_rank": 4574,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "mambucal",
+      "path": "asia/philippines/mambucal",
+      "prior_rank": 6625,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_rank": 4333,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_rank": 6807,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_rank": 6330,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_rank": 4878,
+      "prior_wins": 25,
+      "prior_n": 3
+    }
+  ]
+}

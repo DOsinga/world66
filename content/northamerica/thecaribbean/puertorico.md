@@ -1,16 +1,21 @@
 ---
-done:
-  location_cleanup: '2026-04-08'
-latitude: 18.2208
-longitude: -66.5901
 title: Puerto Rico
 type: location
+latitude: 18.2208
+longitude: -66.5901
+image: puertorico.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Man_with_green_hat_and_musical_instrument_in_Catedral,_Old_San_Juan,_Puerto_Rico.jpg
+image_license: CC BY 2.0
+image_attribution: David
+done:
+  country_cleanup: 2026-03-29
+score: 0.67
 ---
 
-Puerto Rico occupies a peculiar and fascinating position in the world: a Caribbean island with a strong Spanish colonial identity that has been a territory of the United States since 1898. It is neither a state nor an independent nation, and Puerto Ricans hold US citizenship — yet the island has its own distinct culture, its own flag, and a spirit that feels emphatically its own.
+Puerto Rico sits in a curious political category: a U.S. territory, not a state, with residents who are U.S. citizens by birth but cannot vote in federal elections. The question of statehood versus independence versus the status quo has defined Puerto Rican politics for generations, and most visitors will encounter it in conversation. The spirit of the place is distinctly its own — *boricua* culture, shaped by Taíno, Spanish, and African heritage, is not American in any simple sense, even if the currency and the airport signs are.
 
-The travel heart of the island is the capital, [San Juan](/northamerica/puertorico/sanjuan). Old San Juan, perched on a promontory surrounded by the Atlantic, is a living colonial city of cobblestone streets, pastel-painted houses, and imposing Spanish fortresses. Hundreds of years of history are layered into a few square kilometers. Many visitors arrive and never leave — which is understandable, but a mistake.
+The island is about 170km long and 60km wide, smaller than Connecticut, but extraordinarily varied. [San Juan](/northamerica/thecaribbean/puertorico/sanjuan), the capital, packs five centuries of colonial history into a walled old city perched above the Atlantic, alongside modern hotels, a serious restaurant scene, and the Caribbean's busiest cruise port. Most visitors stop here and go no further, which is understandable but a mistake.
 
-Beyond San Juan, the island opens up considerably. El Yunque rainforest in the northeast is the only tropical rainforest in the US National Forest system, a tangle of tree ferns, waterfalls, and parrots. The south coast city of [Ponce](/northamerica/puertorico/ponce) has its own strong identity, fine plazas, and a well-regarded art museum. And [El Yunque](/northamerica/puertorico/elyunque) aside, the island has bioluminescent bays — at Mosquito Bay on Vieques and Laguna Grande near Fajardo — where the water glows brilliant blue-green at night, one of the more extraordinary natural spectacles anywhere in the Caribbean.
+Head east and you reach El Yunque, the only tropical rainforest in the U.S. National Forest system, and the offshore islands of Vieques and Culebra, with beaches and a bioluminescent bay that rank among the Caribbean's finest. Head west and you find [Ponce](/northamerica/thecaribbean/puertorico/ponce), Puerto Rico's dignified second city, and Rincón, a surf town beloved for its sunsets and easy pace. The central mountain range — coffee country, with old plazas and cool air — sees almost no tourists at all.
 
-Puerto Rico is easy to travel: English is widely spoken alongside Spanish, the infrastructure is solid, and the food — from roadside lechoneras serving roast pork to fresh seafood along the coast — is genuinely good. The island rewards those who venture beyond the capital, rent a car, and take the time to explore its varied coastline, mountain interior, and outlying islands.
+Puerto Rico was badly hit by Hurricane Maria in September 2017, which caused catastrophic damage and a long, difficult recovery. The island has rebuilt substantially since then. A second major blow came with earthquakes in January 2020 that damaged parts of the southwest. Travelers will find the island functioning well, but infrastructure outside the main tourist zones can still be patchy in places.

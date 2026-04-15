@@ -5,6 +5,7 @@ latitude: 37.0
 longitude: 112.0
 done:
   location_cleanup: 2026-04-05
+score: 0.49
 ---
 
 Shanxi sits in the middle reaches of the Yellow River — its name literally means "west of the mountains", referring to the Taihang range that separates it from Hebei and, usefully, distinguishes it from neighbouring Shaanxi. It is an old, dry, yellow-loess land of some of the earliest centres of Chinese civilisation, and a place where much of traditional China has survived the 20th century better than almost anywhere else in the country.

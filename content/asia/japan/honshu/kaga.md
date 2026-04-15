@@ -5,6 +5,7 @@ latitude: 36.302762
 longitude: 136.315116
 title: Kaga
 type: location
+score: 0.54
 ---
 
 Kaga is a city of about 72,000 people in Ishikawa Prefecture, tucked between Komatsu and Fukui on the Sea of Japan coast. It's well off the usual tourist trail, which is part of its appeal — you'll experience everyday Japanese life here without the crowds.

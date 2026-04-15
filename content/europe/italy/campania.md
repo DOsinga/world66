@@ -5,6 +5,7 @@ latitude: 40.839565
 longitude: 14.252243
 title: Campania
 type: location
+score: 0.8
 ---
 
 *Europe > Italy > Campania*

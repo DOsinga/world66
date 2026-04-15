@@ -1,6 +1,7 @@
 ---
-title: "Joescom Int'l"
+title: Joescom Int'l
 type: location
+score: 0.28
 ---
 
 Travel Guide

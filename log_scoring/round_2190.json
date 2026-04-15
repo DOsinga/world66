@@ -1,0 +1,200 @@
+{
+  "round": 2190,
+  "timestamp": "2026-04-13T16:18:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 4.8029,
+      "prior_variance": 0.277485,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/sherborne",
+      "prior_score": 0.2281,
+      "prior_variance": 0.215596,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_score": 1.1357,
+      "prior_variance": 0.226732,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.3924,
+      "prior_variance": 0.248542,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "San Giorgio Lucano",
+      "path": "europe/italy/basilicata/san_giorgio_lucano",
+      "prior_score": -3.3338,
+      "prior_variance": 0.269731,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mali",
+      "path": "africa/mali",
+      "prior_score": -7.0746,
+      "prior_variance": 0.460928,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": -0.6965,
+      "prior_variance": 0.293319,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -3.4254,
+      "prior_variance": 0.22302,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_score": -2.5649,
+      "prior_variance": 0.257416,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_score": -3.4887,
+      "prior_variance": 0.236514,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -4.5007,
+      "prior_variance": 0.24009,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -4.2851,
+      "prior_variance": 0.267684,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Los Banos",
+      "path": "asia/philippines/losbanos",
+      "prior_score": -3.3946,
+      "prior_variance": 0.237092,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lismore",
+      "path": "australiaandpacific/australia/newsouthwales/lismore",
+      "prior_score": -3.5865,
+      "prior_variance": 0.274935,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Queven",
+      "path": "europe/france/normandybrittany/queven",
+      "prior_score": -4.4341,
+      "prior_variance": 0.286917,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Beckenham",
+      "path": "europe/unitedkingdom/england/beckenham",
+      "prior_score": -3.5049,
+      "prior_variance": 0.211837,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/peterborough",
+      "prior_score": -2.5081,
+      "prior_variance": 0.265456,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -5.4311,
+      "prior_variance": 0.242018,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -5.2918,
+      "prior_variance": 0.284457,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_score": -5.2323,
+      "prior_variance": 0.286596,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -5.8675,
+      "prior_variance": 0.269524,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.2253,
+      "prior_variance": 0.35726,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_score": -6.3475,
+      "prior_variance": 0.384691,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -6.218,
+      "prior_variance": 0.308281,
+      "prior_n": 6
+    }
+  ]
+}

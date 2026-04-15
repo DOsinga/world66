@@ -5,6 +5,7 @@ latitude: 40.6405
 longitude: -8.6538
 title: Aveiro
 type: location
+score: 0.65
 ---
 
 Aveiro sits on a shallow coastal lagoon about an hour south of [Porto](/europe/portugal/oporto), and its nickname — the Portuguese Venice — is well earned. The city is laced with narrow canals crossed by arched bridges, and colourful moliceiro boats drift between them carrying tourists where fishermen once harvested seaweed.

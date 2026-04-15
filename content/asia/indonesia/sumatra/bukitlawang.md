@@ -5,6 +5,7 @@ latitude: 3.548
 longitude: 98.1272
 title: Bukit Lawang
 type: location
+score: 0.57
 ---
 
 Bukit Lawang is a small riverside village on the edge of [Gunung Leuser National Park](/asia/indonesia/sumatra/gununglesuer), best known as the site of a long-running orangutan rehabilitation program. Semi-wild orangutans still roam the forest here and can be encountered on guided treks — it's one of the most accessible places in the world to see these animals.

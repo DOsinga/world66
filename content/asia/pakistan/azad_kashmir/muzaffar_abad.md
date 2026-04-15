@@ -5,6 +5,7 @@ latitude: 34.3706
 longitude: 73.4718
 title: Muzaffarabad
 type: location
+score: 0.39
 ---
 
 **Muzaffarabad** is the capital of Azad Kashmir, sitting at the confluence of the Jhelum and Neelum rivers in a valley surrounded by forested mountains. The setting is spectacular — green hills rising steeply on all sides, the rivers rushing through the centre of town.

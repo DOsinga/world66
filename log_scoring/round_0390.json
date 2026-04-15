@@ -1,0 +1,200 @@
+{
+  "round": 390,
+  "timestamp": "2026-04-12T09:14:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_mu": 31.6788,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Argolis",
+      "path": "europe/greece/argolis",
+      "prior_mu": 26.0648,
+      "prior_sigma": 4.6466,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lesbos",
+      "path": "europe/greece/lesbos",
+      "prior_mu": 23.7758,
+      "prior_sigma": 5.7589,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lefkara",
+      "path": "asia/cyprus/lefkara",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Isola di San Pietro",
+      "path": "europe/italy/sardinia/isoladisanpietro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Freiburg",
+      "path": "europe/germany/badenwrttemberg/freiburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/chichester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/teramo/pineto",
+      "prior_mu": 21.6702,
+      "prior_sigma": 4.7466,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Sandoy",
+      "path": "europe/faroeislands/sandoy",
+      "prior_mu": 22.9153,
+      "prior_sigma": 5.9726,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_mu": 22.2749,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Jacmel",
+      "path": "northamerica/haiti/jacmel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_mu": 22.7078,
+      "prior_sigma": 5.9481,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_mu": 22.2226,
+      "prior_sigma": 5.7765,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1335,
+  "timestamp": "2026-04-12T22:22:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Renfrew",
+      "path": "europe/unitedkingdom/scotland/glasgow/renfrew",
+      "prior_rank": 8040,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_rank": 7480,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_rank": 7882,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_rank": 7336,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_rank": 6957,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_rank": 7707,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_rank": 8109,
+      "prior_wins": 9,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_rank": 8073,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_rank": 7876,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "chakwal",
+      "path": "asia/pakistan/soon_valley/chakwal",
+      "prior_rank": 8151,
+      "prior_wins": 8,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "hafizabad",
+      "path": "asia/pakistan/islamabad/hafizabad",
+      "prior_rank": 5146,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Vialar",
+      "path": "africa/algeria/vialar",
+      "prior_rank": 8116,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ouesso",
+      "path": "africa/congobrazzaville/ouesso",
+      "prior_rank": 7329,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_rank": 7490,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_rank": 8164,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Bhadrachalam",
+      "path": "asia/india/andhrapradesh/bhadrachalam",
+      "prior_rank": 8089,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Santa Ana",
+      "path": "northamerica/mexico/santaana",
+      "prior_rank": 7872,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_rank": 6583,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Village-Khergaon",
+      "path": "asia/india/uttaranchal/srinagar_pauri_ga/pauri_garhwal/villagekhergaon",
+      "prior_rank": 6709,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_rank": 8078,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Russia",
+      "path": "europe/russia",
+      "prior_rank": 8189,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_rank": 7900,
+      "prior_wins": 12,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_rank": 8138,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "BuBRrsLK",
+      "path": "australiaandpacific/australia/tasmania/cooktown/bubrrslk",
+      "prior_rank": 8104,
+      "prior_wins": 8,
+      "prior_n": 4
+    }
+  ]
+}

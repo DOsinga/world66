@@ -1,0 +1,200 @@
+{
+  "round": 1184,
+  "timestamp": "2026-04-12T22:13:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/loughborough",
+      "prior_rank": 8050,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/grays",
+      "prior_rank": 8176,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Teaneck",
+      "path": "northamerica/unitedstates/newjersey/teaneck",
+      "prior_rank": 7896,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Clarence",
+      "path": "northamerica/unitedstates/newyorkstate/clarence",
+      "prior_rank": 8004,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Loch Sheldrake",
+      "path": "northamerica/unitedstates/newyorkstate/lochsheldrake",
+      "prior_rank": 8207,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Prior Lake",
+      "path": "northamerica/unitedstates/minnesota/priorlake",
+      "prior_rank": 8065,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_rank": 8019,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Brockton",
+      "path": "northamerica/unitedstates/massachusetts/brockton",
+      "prior_rank": 7855,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_rank": 7745,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Garca",
+      "path": "southamerica/brazil/garca",
+      "prior_rank": 8033,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_rank": 7835,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_rank": 7771,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_rank": 7406,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_rank": 5757,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_rank": 6097,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_rank": 7942,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_rank": 8168,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_rank": 8096,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_rank": 7932,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Burkina Faso",
+      "path": "africa/burkinafaso",
+      "prior_rank": 7988,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_rank": 7136,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Yaziva",
+      "path": "northamerica/panama/dariengap/yaziva",
+      "prior_rank": 8187,
+      "prior_wins": 4,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "North Korea",
+      "path": "asia/northkorea",
+      "prior_rank": 7784,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_rank": 8000,
+      "prior_wins": 7,
+      "prior_n": 4
+    }
+  ]
+}

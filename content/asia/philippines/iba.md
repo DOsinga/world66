@@ -5,6 +5,7 @@ latitude: 15.326461
 longitude: 119.980104
 done:
   location_cleanup: 2026-04-05
+score: 0.36
 ---
 
 Iba is the quiet capital of Zambales province, a small coastal town about 200 km northwest of Manila along the South China Sea. It is not a famous destination, but Filipinos know it for its 12 km of clean, undeveloped grey-sand beaches, its pollution-free waters (there is no industry here to speak of), and the prized **Dinamulag mangoes** that ripen in April and May and are some of the sweetest in the country.

@@ -1,0 +1,200 @@
+{
+  "round": 1973,
+  "timestamp": "2026-04-13T15:59:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Cape",
+      "path": "europe/norway/northcape",
+      "prior_score": 3.8582,
+      "prior_variance": 0.27953,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/waikato",
+      "prior_score": 2.5617,
+      "prior_variance": 0.25637,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": -0.1541,
+      "prior_variance": 0.255123,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.8522,
+      "prior_variance": 0.328964,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla",
+      "prior_score": 1.9039,
+      "prior_variance": 0.260392,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 1.2525,
+      "prior_variance": 0.276063,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/bangalore/mysore",
+      "prior_score": 3.0568,
+      "prior_variance": 0.250374,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_score": -2.0811,
+      "prior_variance": 0.287679,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -1.3639,
+      "prior_variance": 0.300755,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/ventura",
+      "prior_score": -0.195,
+      "prior_variance": 0.298174,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_score": -0.9319,
+      "prior_variance": 0.249209,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "mourin",
+      "path": "northamerica/trinidadandtobago/mourin",
+      "prior_score": -6.5475,
+      "prior_variance": 0.422773,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Hampton",
+      "path": "northamerica/unitedstates/virginia/hampton",
+      "prior_score": -2.4249,
+      "prior_variance": 0.26554,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_score": -3.0796,
+      "prior_variance": 0.266622,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Misamis Occidental",
+      "path": "asia/philippines/misamis_occidental",
+      "prior_score": -3.8628,
+      "prior_variance": 0.271041,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_score": -3.7589,
+      "prior_variance": 0.268301,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "ocotal,nueva segovia",
+      "path": "northamerica/nicaragua/ocotalnueva_segov",
+      "prior_score": -6.4695,
+      "prior_variance": 0.309563,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": -6.0887,
+      "prior_variance": 0.582614,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -4.6488,
+      "prior_variance": 0.395847,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -6.01,
+      "prior_variance": 0.300552,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_score": -4.4458,
+      "prior_variance": 0.284362,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_score": -7.1533,
+      "prior_variance": 0.483647,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -6.3388,
+      "prior_variance": 0.278674,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -6.4567,
+      "prior_variance": 0.285852,
+      "prior_n": 5
+    }
+  ]
+}

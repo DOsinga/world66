@@ -5,6 +5,7 @@ latitude: 6.9271
 longitude: 79.8612
 done:
   location_cleanup: 2026-04-05
+score: 0.57
 ---
 
 Colombo is Sri Lanka's commercial capital, largest city, and the place most visitors arrive but few stop for long — which is a shame, because in the last decade the city has become genuinely interesting. The war that dragged on until 2009 kept tourism away from the capital, and the scars are still visible in the guarded checkpoints near government buildings. But the post-war years have brought a wave of construction, a lively restaurant scene, and a new confidence that is worth a day or two of anyone's time on the way to the hill country or the beaches.

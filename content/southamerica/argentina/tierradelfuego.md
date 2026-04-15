@@ -5,6 +5,7 @@ latitude: -54.3815
 longitude: -67.5679
 title: Tierra del Fuego
 type: location
+score: 0.65
 ---
 
 Tierra del Fuego is the great island at the southern tip of South America, divided between Argentina and Chile along a north-south line. It is one of the most remote and dramatic landscapes on the continent — dense Nothofagus forests, glacial lakes, peat bogs, and mountains that plunge directly into the Beagle Channel. Wind and rain are constants; the light, when it comes, is extraordinary.

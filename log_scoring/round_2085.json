@@ -1,0 +1,200 @@
+{
+  "round": 2085,
+  "timestamp": "2026-04-13T16:09:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_score": 5.8775,
+      "prior_variance": 0.389601,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_score": 6.7756,
+      "prior_variance": 0.375782,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_score": 4.051,
+      "prior_variance": 0.527998,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Culebra",
+      "path": "northamerica/puertorico/culebra",
+      "prior_score": 6.1683,
+      "prior_variance": 0.317858,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 6.5423,
+      "prior_variance": 0.320056,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 4.5479,
+      "prior_variance": 0.36933,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 6.5144,
+      "prior_variance": 0.338391,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.7835,
+      "prior_variance": 0.301628,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "P\u00e9rigueux",
+      "path": "europe/france/midi/dordogne/perigueux",
+      "prior_score": 3.4738,
+      "prior_variance": 0.290705,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_score": 3.329,
+      "prior_variance": 0.27475,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_score": 4.9252,
+      "prior_variance": 0.257756,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": 0.2119,
+      "prior_variance": 0.310801,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 2.8663,
+      "prior_variance": 0.31288,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/grlitz",
+      "prior_score": 2.03,
+      "prior_variance": 0.338062,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Agder",
+      "path": "europe/norway/southernnorways/agder",
+      "prior_score": 1.6118,
+      "prior_variance": 0.286918,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lake yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": 1.0881,
+      "prior_variance": 0.247093,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 0.3794,
+      "prior_variance": 0.253284,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": 1.1901,
+      "prior_variance": 0.213392,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": 0.1269,
+      "prior_variance": 0.293188,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_score": -1.116,
+      "prior_variance": 0.277402,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_score": -1.6061,
+      "prior_variance": 0.261123,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -0.9599,
+      "prior_variance": 0.234356,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Mieres",
+      "path": "europe/spain/northernspain/mieres",
+      "prior_score": -3.0595,
+      "prior_variance": 0.241421,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_score": -3.9416,
+      "prior_variance": 0.245078,
+      "prior_n": 5
+    }
+  ]
+}

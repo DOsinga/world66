@@ -1,0 +1,200 @@
+{
+  "round": 878,
+  "timestamp": "2026-04-12T14:46:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Smeralda",
+      "path": "europe/italy/sardinia/costasmeralda",
+      "prior_score": 12.4189,
+      "prior_variance": 2.360552,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_score": 6.0745,
+      "prior_variance": 2.134284,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 8.5209,
+      "prior_variance": 1.540488,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 9.083,
+      "prior_variance": 10.803584,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 2.6185,
+      "prior_variance": 1.465045,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Sinai Peninsula",
+      "path": "africa/egypt/sinaidesert",
+      "prior_score": 9.455,
+      "prior_variance": 7.933021,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": -0.507,
+      "prior_variance": 1.49699,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 2.641,
+      "prior_variance": 1.298419,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 4.0007,
+      "prior_variance": 1.423462,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_score": 0.755,
+      "prior_variance": 2.03033,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -0.2097,
+      "prior_variance": 1.320678,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -3.0209,
+      "prior_variance": 1.202617,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": 1.0417,
+      "prior_variance": 1.504766,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_score": 1.0623,
+      "prior_variance": 1.241189,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -4.4383,
+      "prior_variance": 0.842292,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": -4.1024,
+      "prior_variance": 2.003814,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Epalinges",
+      "path": "europe/switzerland/epalinges",
+      "prior_score": -5.0879,
+      "prior_variance": 2.844289,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Salla",
+      "path": "europe/finland/kouvola_city/salla",
+      "prior_score": -8.5651,
+      "prior_variance": 5.463649,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -4.2728,
+      "prior_variance": 1.473251,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "bedford",
+      "path": "northamerica/unitedstates/ohio/bedford",
+      "prior_score": -9.6511,
+      "prior_variance": 3.73168,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -3.5617,
+      "prior_variance": 1.474614,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_score": -7.5946,
+      "prior_variance": 11.849809,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -14.0399,
+      "prior_variance": 7.450309,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -11.7197,
+      "prior_variance": 8.647456,
+      "prior_n": 1
+    }
+  ]
+}

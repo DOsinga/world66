@@ -1,0 +1,200 @@
+{
+  "round": 1575,
+  "timestamp": "2026-04-13T10:32:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 7.417,
+      "prior_variance": 0.365508,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ladakh",
+      "path": "asia/india/jammuandkashmir/ladakh",
+      "prior_score": 9.4518,
+      "prior_variance": 0.394162,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Zakinthos",
+      "path": "europe/greece/zakinthos",
+      "prior_score": 8.6643,
+      "prior_variance": 0.454556,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_score": 4.0031,
+      "prior_variance": 0.489672,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_score": 7.655,
+      "prior_variance": 0.440374,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 7.6995,
+      "prior_variance": 0.575098,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 4.8964,
+      "prior_variance": 0.455745,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 7.3872,
+      "prior_variance": 0.492983,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_score": 4.8724,
+      "prior_variance": 0.424922,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_score": 6.0648,
+      "prior_variance": 0.3402,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pembrokeshire Coast National Park",
+      "path": "europe/unitedkingdom/wales/pembrokeshire_coas",
+      "prior_score": 5.732,
+      "prior_variance": 0.82705,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
+      "prior_score": 3.9076,
+      "prior_variance": 0.3935,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 2.7034,
+      "prior_variance": 0.436577,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Beaches",
+      "path": "europe/ireland/dublin/beaches_1",
+      "prior_score": -2.1893,
+      "prior_variance": 0.54615,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 0.9244,
+      "prior_variance": 0.402868,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Gauteng",
+      "path": "africa/southafrica/gauteng",
+      "prior_score": -0.8394,
+      "prior_variance": 0.435214,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_score": -1.6202,
+      "prior_variance": 0.496749,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Around Town",
+      "path": "northamerica/canada/alberta/calgary/aroundtown",
+      "prior_score": -0.2656,
+      "prior_variance": 0.419739,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_score": -1.9804,
+      "prior_variance": 0.457041,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tehri Garhwal",
+      "path": "asia/india/uttaranchal/tehri_garhwal",
+      "prior_score": -1.2399,
+      "prior_variance": 0.350633,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -0.4354,
+      "prior_variance": 0.321275,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -1.1211,
+      "prior_variance": 0.362955,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Alcazar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_jua",
+      "prior_score": -2.1785,
+      "prior_variance": 0.305257,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -4.326,
+      "prior_variance": 0.575748,
+      "prior_n": 5
+    }
+  ]
+}

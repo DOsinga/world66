@@ -5,6 +5,7 @@ latitude: 42.5454
 longitude: -6.5939
 title: Ponferrada
 type: location
+score: 0.54
 ---
 
 Ponferrada sits in the Bierzo valley of northwestern Spain, the last major stop on the Camino de Santiago before pilgrims climb into the mountains of Galicia. The town takes its name from a medieval iron bridge — *pons ferrata* — built in the 11th century to help pilgrims cross the Sil river.

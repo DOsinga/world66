@@ -1,0 +1,200 @@
+{
+  "round": 877,
+  "timestamp": "2026-04-12T14:46:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_score": 11.2446,
+      "prior_variance": 9.122094,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Virgin Islands",
+      "path": "northamerica/virginislands",
+      "prior_score": 8.8612,
+      "prior_variance": 4.295852,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_score": 3.1707,
+      "prior_variance": 1.281373,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cannes",
+      "path": "europe/france/midi/cotedazur/cannes",
+      "prior_score": 10.1942,
+      "prior_variance": 3.855837,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 10.7098,
+      "prior_variance": 3.751243,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 7.2302,
+      "prior_variance": 0.983983,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_score": 4.4846,
+      "prior_variance": 2.162368,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 9.0773,
+      "prior_variance": 1.651306,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_score": 4.7536,
+      "prior_variance": 1.356746,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Les eyzies",
+      "path": "europe/france/midi/aquitaine/leseyzies",
+      "prior_score": 5.5915,
+      "prior_variance": 1.636085,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 4.6592,
+      "prior_variance": 1.832368,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 0.2133,
+      "prior_variance": 1.6923,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_score": -1.2622,
+      "prior_variance": 1.283946,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.9398,
+      "prior_variance": 1.172848,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_natio",
+      "prior_score": 5.5641,
+      "prior_variance": 1.368688,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_score": 2.4323,
+      "prior_variance": 1.765929,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -5.7039,
+      "prior_variance": 1.355859,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Moravia",
+      "path": "northamerica/costarica/moravia",
+      "prior_score": -4.018,
+      "prior_variance": 1.929096,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/tuxtepec",
+      "prior_score": -4.1936,
+      "prior_variance": 1.481981,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -2.3308,
+      "prior_variance": 1.698256,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -7.1361,
+      "prior_variance": 1.561367,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Panipat",
+      "path": "asia/india/haryana/panipat",
+      "prior_score": -6.3127,
+      "prior_variance": 1.464544,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -5.1331,
+      "prior_variance": 1.42672,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -4.4016,
+      "prior_variance": 1.285228,
+      "prior_n": 1
+    }
+  ]
+}

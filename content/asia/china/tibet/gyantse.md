@@ -5,6 +5,7 @@ latitude: 28.919814
 longitude: 89.601193
 title: Gyantse
 type: location
+score: 0.59
 ---
 
 Gyantse is a small agricultural town at nearly 4,000 metres in southern [Tibet](/asia/china/tibet), one of the least changed towns on the Friendship Highway between Lhasa and the Nepali border. It was once the third-largest town in Tibet, a major wool-trading centre on the route to India, and it still has a languid, end-of-the-road feel.

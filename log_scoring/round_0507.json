@@ -1,0 +1,200 @@
+{
+  "round": 507,
+  "timestamp": "2026-04-12T09:43:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Netherlands",
+      "path": "europe/netherlands",
+      "prior_mu": 25.4802,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_mu": 28.9292,
+      "prior_sigma": 6.9977,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland_island",
+      "prior_mu": 22.5282,
+      "prior_sigma": 5.5175,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_mu": 21.1806,
+      "prior_sigma": 3.926,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_mu": 22.7042,
+      "prior_sigma": 5.6861,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_mu": 22.7645,
+      "prior_sigma": 5.5492,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_mu": 22.5744,
+      "prior_sigma": 5.939,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_mu": 21.9502,
+      "prior_sigma": 4.6595,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_mu": 21.1838,
+      "prior_sigma": 4.5668,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_mu": 21.8771,
+      "prior_sigma": 4.4232,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_mu": 21.5942,
+      "prior_sigma": 4.708,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_mu": 21.68,
+      "prior_sigma": 3.9359,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_mu": 22.5362,
+      "prior_sigma": 5.5184,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_mu": 21.4549,
+      "prior_sigma": 4.725,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Woerden",
+      "path": "europe/netherlands/woerden",
+      "prior_mu": 22.012,
+      "prior_sigma": 5.7344,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_mu": 22.4616,
+      "prior_sigma": 5.7807,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ossendrecht",
+      "path": "europe/netherlands/ossendrecht",
+      "prior_mu": 21.9309,
+      "prior_sigma": 4.8355,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_mu": 22.7368,
+      "prior_sigma": 5.7148,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "weerp",
+      "path": "europe/netherlands/weerp",
+      "prior_mu": 17.8478,
+      "prior_sigma": 6.4842,
+      "prior_n": 1
+    }
+  ]
+}

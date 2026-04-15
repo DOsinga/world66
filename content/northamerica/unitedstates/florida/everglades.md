@@ -5,6 +5,7 @@ latitude: 25.2866
 longitude: -80.8987
 done:
   location_cleanup: 2026-04-05
+score: 0.64
 ---
 
 The Everglades is one of the last great wildernesses in the United States — a vast, flat, slow-moving "river of grass" that covers the entire southern tip of the Florida peninsula, about 1.5 million acres of sawgrass prairie, mangrove swamp, cypress dome, and coastal estuary. It was designated a national park in 1947, and has since been recognised as a UNESCO World Heritage Site, an International Biosphere Reserve, and a Wetland of International Importance. It is the only subtropical preserve in North America, and the only place in the world where alligators and American crocodiles exist side by side.

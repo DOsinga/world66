@@ -1,0 +1,200 @@
+{
+  "round": 2163,
+  "timestamp": "2026-04-13T16:16:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 8.7511,
+      "prior_variance": 0.32934,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict",
+      "prior_score": 6.286,
+      "prior_variance": 0.380032,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_score": 6.7708,
+      "prior_variance": 0.355663,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_score": 5.3813,
+      "prior_variance": 0.233584,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Cyprus",
+      "path": "asia/cyprus",
+      "prior_score": 5.8713,
+      "prior_variance": 0.27929,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 4.3682,
+      "prior_variance": 0.339904,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Frankfurt",
+      "path": "europe/germany/hesse/frankfurt",
+      "prior_score": 2.1147,
+      "prior_variance": 0.248723,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Friesland",
+      "path": "europe/netherlands/friesland",
+      "prior_score": 0.639,
+      "prior_variance": 0.178479,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "The Panhandle",
+      "path": "northamerica/unitedstates/florida/thepanhandle",
+      "prior_score": 0.1159,
+      "prior_variance": 0.2833,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_score": 3.1802,
+      "prior_variance": 0.260474,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": 0.9283,
+      "prior_variance": 0.21375,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": -0.8085,
+      "prior_variance": 0.24062,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -0.9139,
+      "prior_variance": 0.225449,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": 0.5692,
+      "prior_variance": 0.25043,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Batam",
+      "path": "asia/indonesia/batam",
+      "prior_score": -1.8653,
+      "prior_variance": 0.285455,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -1.043,
+      "prior_variance": 0.226747,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": -0.1434,
+      "prior_variance": 0.29791,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -0.9815,
+      "prior_variance": 0.222938,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -2.6054,
+      "prior_variance": 0.27668,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": -1.3253,
+      "prior_variance": 0.205126,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -0.762,
+      "prior_variance": 0.253223,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_score": -1.5966,
+      "prior_variance": 0.311255,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Gostivar",
+      "path": "europe/macedonia/gostivar",
+      "prior_score": -4.1997,
+      "prior_variance": 0.281257,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/minnesota/virginia",
+      "prior_score": -5.3067,
+      "prior_variance": 0.270035,
+      "prior_n": 5
+    }
+  ]
+}

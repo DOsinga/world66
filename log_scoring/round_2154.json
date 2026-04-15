@@ -1,0 +1,200 @@
+{
+  "round": 2154,
+  "timestamp": "2026-04-13T16:15:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Urgup",
+      "path": "asia/turkey/cappadocia/urgup",
+      "prior_score": 12.6247,
+      "prior_variance": 0.636953,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_score": -1.0646,
+      "prior_variance": 0.334608,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": 0.0854,
+      "prior_variance": 0.207656,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_score": 1.1981,
+      "prior_variance": 0.300829,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 0.2451,
+      "prior_variance": 0.256048,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "O Rosal Valley",
+      "path": "europe/spain/galicia/o_rosal_valley",
+      "prior_score": -1.8211,
+      "prior_variance": 0.239837,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -2.1668,
+      "prior_variance": 0.267408,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "San-Pedro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -5.9143,
+      "prior_variance": 0.428772,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_score": -3.7934,
+      "prior_variance": 0.309929,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_score": -6.737,
+      "prior_variance": 0.335441,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_score": -3.1715,
+      "prior_variance": 0.256137,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -4.7894,
+      "prior_variance": 0.293511,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -5.0917,
+      "prior_variance": 0.329356,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -4.8356,
+      "prior_variance": 0.276538,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -4.512,
+      "prior_variance": 0.245611,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_score": -4.6517,
+      "prior_variance": 0.293145,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/yucatan/monterrey",
+      "prior_score": -3.7565,
+      "prior_variance": 0.197857,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -4.8375,
+      "prior_variance": 0.292846,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -5.3958,
+      "prior_variance": 0.235201,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Balsall Common",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/balsall_common",
+      "prior_score": -6.2974,
+      "prior_variance": 0.298861,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -5.057,
+      "prior_variance": 0.24426,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -5.0387,
+      "prior_variance": 0.273874,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sirsa",
+      "path": "asia/india/haryana/sirsa",
+      "prior_score": -6.2701,
+      "prior_variance": 0.249927,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_score": -7.8736,
+      "prior_variance": 0.448875,
+      "prior_n": 5
+    }
+  ]
+}

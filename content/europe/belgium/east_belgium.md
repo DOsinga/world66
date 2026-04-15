@@ -5,6 +5,7 @@ latitude: 50.644634
 longitude: 6.00795
 title: East Belgium
 type: location
+score: 0.46
 ---
 
 East Belgium (Ostbelgien) is the German-speaking community of Belgium, a narrow strip of territory bordering Germany and Luxembourg that was ceded to Belgium after the First World War. About 78,000 people live here and German is the official language, though French and Dutch are widely understood.

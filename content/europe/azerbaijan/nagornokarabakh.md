@@ -5,11 +5,12 @@ latitude: 39.8
 longitude: 46.75
 done:
   location_cleanup: 2026-04-07
+score: 0.33
 ---
 
 Karabakh (known in Armenian as Artsakh, in Azerbaijani as Qarabağ) is a mountainous region of Azerbaijan that was the site of one of the post-Soviet era's most prolonged and destructive conflicts. The region was under the control of ethnic Armenian forces from the early 1990s until Azerbaijan reasserted full sovereignty in September 2023. The area — including the former separatist capital Khankendi (Stepanakert) and the historically and culturally significant city of [Shusha](/europe/azerbaijan/nagornokarabakh/shusha) — is now firmly under Azerbaijani administration.
 
-The conflict left deep scars on both sides. Hundreds of thousands of Azerbaijani internally displaced persons are returning or being resettled. The Armenian population that lived in the region for decades departed almost entirely in the weeks following the Azerbaijani offensive.
+The conflict left deep scars on both sides. Hundreds of thousands of Azerbaijani internally displaced persons are returning or being resettled. The Armenian population that had lived in the region for decades departed almost entirely following the September 2023 offensive — more than 100,000 people, virtually the entire community, fled to Armenia within days. The exodus included around 288 civilian deaths, among them 218 killed in an explosion at a fuel depot during the flight. Many of the refugees have settled in Yerevan and other Armenian cities, where the government and diaspora organisations are working to integrate a population that arrived with almost nothing.
 
 **Shusha** (also spelled Shushi) is perched dramatically on a ridge at 1,400m in the Lesser Caucasus. It was historically considered the cultural capital of Azerbaijan — a centre of Azerbaijani classical music, poetry, and craftsmanship — and is now the focus of an intensive government restoration programme. The old city, heavily damaged during the conflict, is being rebuilt. Jidyr Düzü, a natural plateau outside the city walls, hosts an annual horse-racing and cultural festival.
 

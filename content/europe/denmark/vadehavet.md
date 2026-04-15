@@ -5,6 +5,7 @@ latitude: 55.1074
 longitude: 8.5531
 title: Vadehavet
 type: location
+score: 0.47
 ---
 
 Vadehavet is the Danish Wadden Sea — the northernmost stretch of the vast tidal flat system that runs along the coasts of the Netherlands, Germany, and Denmark. The entire Wadden Sea is a UNESCO World Heritage Site, and the Danish section was added in 2014. It is one of the most important wetlands in Europe, a critical stopover for millions of migratory birds on the East Atlantic Flyway.

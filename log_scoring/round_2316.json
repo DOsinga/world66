@@ -1,0 +1,200 @@
+{
+  "round": 2316,
+  "timestamp": "2026-04-13T16:30:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 7.1185,
+      "prior_variance": 0.253908,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": -0.0907,
+      "prior_variance": 0.241073,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 3.1885,
+      "prior_variance": 0.225069,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors",
+      "prior_score": 2.7963,
+      "prior_variance": 0.208592,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_score": 1.397,
+      "prior_variance": 0.223745,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.9758,
+      "prior_variance": 0.262502,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Collaroy",
+      "path": "australiaandpacific/australia/newsouthwales/collaroy",
+      "prior_score": -0.5241,
+      "prior_variance": 0.249239,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Aguascalientes",
+      "path": "northamerica/mexico/aguascalientes",
+      "prior_score": -0.0976,
+      "prior_variance": 0.239409,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_score": -1.8216,
+      "prior_variance": 0.228605,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -3.55,
+      "prior_variance": 0.408334,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -0.5877,
+      "prior_variance": 0.275042,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": -0.0156,
+      "prior_variance": 0.206052,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -1.2484,
+      "prior_variance": 0.228276,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -0.5175,
+      "prior_variance": 0.210749,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -2.3019,
+      "prior_variance": 0.29902,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/invercargill",
+      "prior_score": -0.9354,
+      "prior_variance": 0.248366,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.5336,
+      "prior_variance": 0.218993,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/otley",
+      "prior_score": -1.4261,
+      "prior_variance": 0.209907,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -2.1224,
+      "prior_variance": 0.197652,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -1.7949,
+      "prior_variance": 0.202823,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/yucatan/bocadelrio",
+      "prior_score": -1.5311,
+      "prior_variance": 0.203399,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -3.3282,
+      "prior_variance": 0.230633,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "hopfingen",
+      "path": "europe/germany/badenwrttemberg/hopfingen",
+      "prior_score": -5.5946,
+      "prior_variance": 0.37593,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_score": -1.1706,
+      "prior_variance": 0.273039,
+      "prior_n": 6
+    }
+  ]
+}

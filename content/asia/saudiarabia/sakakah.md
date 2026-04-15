@@ -5,6 +5,7 @@ latitude: 29.978401
 longitude: 40.20477
 title: Sakakah
 type: location
+score: 0.21
 ---
 
 Sakakah is the capital of the Al-Jawf region in the far northwest of Saudi Arabia, close to the Jordanian border. The city itself is modern and unremarkable, but the surrounding landscape is worth knowing about: the Al-Jawf region has extensive olive groves (one of the most productive olive-growing areas in the Arab world), ancient rock inscriptions, and ruins of the Nabataean trading town of Dumat al-Jandal, about 50km to the southwest.

@@ -5,6 +5,7 @@ latitude: 31.323064
 longitude: 48.67932
 title: Ahvaz
 type: location
+score: 0.28
 ---
 
 Ahvaz is one of the least appealing cities in [Iran](/asia/iran). Located in the south near the Gulf, it is mainly a commercial and industrial centre. It was heavily bombed during the Iran–Iraq War and reconstruction has not made the place more attractive.

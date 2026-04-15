@@ -5,6 +5,7 @@ latitude: 49.9191
 longitude: 7.0208
 title: Lieser
 type: location
+score: 0.51
 ---
 
 Lieser is a small wine village in the Bernkastel-Wittlich district, near the town of Bernkastel-Kues. The village takes its name from the stream Lieser, which flows into the Mosel nearby.

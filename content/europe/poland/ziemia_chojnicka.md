@@ -5,6 +5,7 @@ latitude: 53.6947
 longitude: 17.5579
 title: Ziemia Chojnicka
 type: location
+score: 0.4
 ---
 
 Ziemia Chojnicka — the Chojnice Region — sits in the southern corner of Pomerania, a landscape of pine forests, clean rivers, and glacial lakes that most visitors to Poland never find. That obscurity is the point. There are no crowds here, and the water is quiet.

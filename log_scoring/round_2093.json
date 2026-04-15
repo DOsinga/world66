@@ -1,0 +1,200 @@
+{
+  "round": 2093,
+  "timestamp": "2026-04-13T16:10:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 8.4236,
+      "prior_variance": 0.457741,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tbilisi",
+      "path": "europe/georgia/tbilisi",
+      "prior_score": 6.7957,
+      "prior_variance": 0.385017,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 6.0073,
+      "prior_variance": 0.415481,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 5.2372,
+      "prior_variance": 0.278438,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 4.3765,
+      "prior_variance": 0.257756,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 4.849,
+      "prior_variance": 0.265102,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Vagar",
+      "path": "europe/faroeislands/vagar",
+      "prior_score": 4.9237,
+      "prior_variance": 0.432223,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": 1.63,
+      "prior_variance": 0.242905,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": 0.424,
+      "prior_variance": 0.238675,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Noia",
+      "path": "europe/spain/northernspain/noia",
+      "prior_score": 0.3468,
+      "prior_variance": 0.223434,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -1.331,
+      "prior_variance": 0.233926,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_score": -3.7092,
+      "prior_variance": 0.446645,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -3.72,
+      "prior_variance": 0.314034,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -2.3765,
+      "prior_variance": 0.297991,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -4.4282,
+      "prior_variance": 0.35816,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Jambi",
+      "path": "asia/indonesia/jambi",
+      "prior_score": -3.7397,
+      "prior_variance": 0.266872,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -4.768,
+      "prior_variance": 0.276161,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -3.8762,
+      "prior_variance": 0.249839,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -5.4602,
+      "prior_variance": 0.31681,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_score": -4.5312,
+      "prior_variance": 0.201722,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -4.5978,
+      "prior_variance": 0.24731,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -4.8518,
+      "prior_variance": 0.308739,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -4.8844,
+      "prior_variance": 0.242098,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Elanora",
+      "path": "australiaandpacific/australia/queensland/elanora",
+      "prior_score": -3.4847,
+      "prior_variance": 0.264227,
+      "prior_n": 6
+    }
+  ]
+}

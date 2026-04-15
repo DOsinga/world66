@@ -1,0 +1,200 @@
+{
+  "round": 819,
+  "timestamp": "2026-04-12T10:49:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_mu": 29.1948,
+      "prior_sigma": 5.6545,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_mu": 30.4937,
+      "prior_sigma": 4.5265,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_mu": 26.29,
+      "prior_sigma": 5.3854,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_mu": 23.8369,
+      "prior_sigma": 4.7498,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/italianriviera/tigullio",
+      "prior_mu": 22.0404,
+      "prior_sigma": 4.4736,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_mu": 20.7046,
+      "prior_sigma": 2.1232,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_mu": 22.4742,
+      "prior_sigma": 5.7253,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_mu": 21.8029,
+      "prior_sigma": 5.9048,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_mu": 21.5263,
+      "prior_sigma": 4.8285,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_mu": 22.2342,
+      "prior_sigma": 5.3414,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Stjordal",
+      "path": "europe/norway/stjordal",
+      "prior_mu": 21.6897,
+      "prior_sigma": 4.49,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_mu": 21.7358,
+      "prior_sigma": 4.6943,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/groveland",
+      "prior_mu": 21.5699,
+      "prior_sigma": 4.5258,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_mu": 21.3426,
+      "prior_sigma": 3.9225,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_mu": 22.0676,
+      "prior_sigma": 5.9374,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_mu": 22.4245,
+      "prior_sigma": 5.7809,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_mu": 22.4525,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_mu": 16.8258,
+      "prior_sigma": 6.2718,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_mu": 22.2536,
+      "prior_sigma": 5.7019,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kouilou region",
+      "path": "africa/congobrazzaville/kouilouregion",
+      "prior_mu": 21.0607,
+      "prior_sigma": 5.8285,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_mu": 14.6179,
+      "prior_sigma": 5.5531,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1993,
+  "timestamp": "2026-04-13T16:00:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Laterbrunnen",
+      "path": "europe/switzerland/laterbrunnen",
+      "prior_score": 6.501,
+      "prior_variance": 0.440143,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_score": 5.2715,
+      "prior_variance": 0.262259,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 3.6473,
+      "prior_variance": 0.275763,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Rudesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 1.766,
+      "prior_variance": 0.281085,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 1.1323,
+      "prior_variance": 0.476247,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Pontevedra City",
+      "path": "europe/spain/galicia/pontevedra_city",
+      "prior_score": 3.0,
+      "prior_variance": 0.29166,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.1599,
+      "prior_variance": 0.294058,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 2.056,
+      "prior_variance": 0.201261,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Friedrichshain",
+      "path": "europe/germany/berlin/friedrichshain",
+      "prior_score": 2.608,
+      "prior_variance": 0.277048,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": -0.5043,
+      "prior_variance": 0.372702,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territor/carcross",
+      "prior_score": 1.0454,
+      "prior_variance": 0.324746,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -1.4485,
+      "prior_variance": 0.262355,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": 0.1746,
+      "prior_variance": 0.244792,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/sheffield",
+      "prior_score": -0.7824,
+      "prior_variance": 0.249476,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hull",
+      "prior_score": -1.9131,
+      "prior_variance": 0.313079,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -0.5304,
+      "prior_variance": 0.273011,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -2.7867,
+      "prior_variance": 0.250919,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": -0.8839,
+      "prior_variance": 0.313931,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -4.8936,
+      "prior_variance": 0.260737,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Wisconsin",
+      "path": "northamerica/unitedstates/wisconsin",
+      "prior_score": -1.8801,
+      "prior_variance": 0.259358,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Tighina",
+      "path": "europe/moldova/tighina",
+      "prior_score": -5.1174,
+      "prior_variance": 0.262101,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -6.2653,
+      "prior_variance": 0.302567,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_score": -7.9751,
+      "prior_variance": 0.396732,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -11.3607,
+      "prior_variance": 0.55264,
+      "prior_n": 5
+    }
+  ]
+}

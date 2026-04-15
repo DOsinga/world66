@@ -5,6 +5,7 @@ latitude: 45.4893
 longitude: 15.5486
 title: Karlovac
 type: location
+score: 0.51
 ---
 
 Karlovac sits at the confluence of four rivers — the Kupa, Korana, Mrežnica and Dobra — and was built in 1579 as a Renaissance star fortress to defend the Habsburg frontier against the Ottomans. The original six-pointed star grid is still visible from the air, and walking the old town's streets you can feel the military precision of its layout.

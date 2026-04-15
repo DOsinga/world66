@@ -1,0 +1,200 @@
+{
+  "round": 1043,
+  "timestamp": "2026-04-12T22:06:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_rank": 519,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_pa",
+      "prior_rank": 693,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Tbilisi",
+      "path": "europe/georgia/tbilisi",
+      "prior_rank": 679,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Meghalaya",
+      "path": "asia/india/meghalaya",
+      "prior_rank": 4636,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_rank": 1037,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Chambord",
+      "path": "europe/france/centre/loirevalley/chambord",
+      "prior_rank": 2127,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_rank": 115,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_rank": 350,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_rank": 1236,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_rank": 1009,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_rank": 500,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_rank": 179,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cuba",
+      "path": "northamerica/thecaribbean/cuba",
+      "prior_rank": 688,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_rank": 522,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_rank": 4008,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_eus/bilbao",
+      "prior_rank": 234,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_rank": 2442,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_rank": 836,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_rank": 369,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_rank": 697,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_rank": 858,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_rank": 272,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_rank": 672,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_rank": 122,
+      "prior_wins": 88,
+      "prior_n": 4
+    }
+  ]
+}

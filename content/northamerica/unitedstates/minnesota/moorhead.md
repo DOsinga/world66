@@ -5,6 +5,7 @@ latitude: 46.873908
 longitude: -96.753867
 title: Moorhead
 type: location
+score: 0.32
 ---
 
 Moorhead sits on the Minnesota side of the Red River of the North, directly across from Fargo, North Dakota. Together the two cities form the Fargo-Moorhead metro area, home to about 140,000 people in the flat, open country of the northern Great Plains.

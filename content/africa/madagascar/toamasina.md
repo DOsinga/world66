@@ -5,6 +5,7 @@ latitude: -18.155399
 longitude: 49.409835
 title: Toamasina
 type: location
+score: 0.41
 ---
 
 Toamasina is Madagascar's largest port and its second city, though little about it feels urban in a conventional sense. The central market in the heart of town is the one sight deemed worth showing to the few tourists who visit, and driving around, the economic deprivation is palpable. The metalled roads both in and out of town are badly damaged and potholed; public buildings are black with tropical mildew. The town's 120,000 or so inhabitants do not appear to be starving, but clearly they live at a subsistence level. Very little sophisticated economic activity is visible — even small-scale businesses apparently depend on foreign capital.

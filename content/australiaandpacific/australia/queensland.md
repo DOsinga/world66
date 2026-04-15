@@ -1,8 +1,9 @@
 ---
-title: "Queensland"
+title: Queensland
 type: location
 latitude: -22.164678
 longitude: 144.58449
+score: 0.57
 ---
 
 Queensland is Australia's second-largest state by area and the one most visitors picture when they think of tropical Australia. The state runs from the Gold Coast and Sunshine Coast in the southeast — relatively built-up, beach-and-surf territory — through Brisbane up to the tropics, where the Great Barrier Reef and the Daintree rainforest are the main draws.

@@ -5,6 +5,7 @@ latitude: 58.9399
 longitude: 23.5415
 title: Haapsalu
 type: location
+score: 0.52
 ---
 
 Haapsalu is a small resort town on the west coast of Estonia, known for centuries for its warm sea water, curative mud baths, and peaceful atmosphere. The narrow streets lined with early twentieth-century wooden houses make the town centre a pleasant place to wander, and the pace of life here is noticeably slower than Tallinn, two hours to the east.

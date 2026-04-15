@@ -5,6 +5,7 @@ latitude: 26.5333
 longitude: -78.6996
 done:
   location_cleanup: 2026-04-06
+score: 0.54
 ---
 
 Freeport is the main city of Grand Bahama Island and the second largest urban area in the Bahamas after Nassau. It's a more relaxed and less crowded alternative to Nassau — the beaches are cleaner, the people genuinely friendly, and the prices generally better. The city was purpose-built as a free-trade zone in the 1950s and has a planned, modern feel that contrasts with Nassau's colonial character.

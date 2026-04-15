@@ -1,0 +1,200 @@
+{
+  "round": 1995,
+  "timestamp": "2026-04-13T16:01:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Baalbek",
+      "path": "asia/lebanon/baalbek",
+      "prior_score": 4.8959,
+      "prior_variance": 0.266374,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 4.6713,
+      "prior_variance": 0.354156,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 1.6173,
+      "prior_variance": 0.230913,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/torquay",
+      "prior_score": 1.9156,
+      "prior_variance": 0.280454,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 1.7514,
+      "prior_variance": 0.252266,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -1.0677,
+      "prior_variance": 0.258465,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bugac",
+      "path": "europe/hungary/bugac",
+      "prior_score": -1.7683,
+      "prior_variance": 0.259852,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_score": -0.5184,
+      "prior_variance": 0.206924,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare",
+      "prior_score": 0.0948,
+      "prior_variance": 0.206972,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/baltrum",
+      "prior_score": 0.4606,
+      "prior_variance": 0.270575,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": -0.8402,
+      "prior_variance": 0.234772,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -2.0457,
+      "prior_variance": 0.287018,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "oran",
+      "path": "africa/algeria/oran/oran_1",
+      "prior_score": -3.3596,
+      "prior_variance": 0.34518,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Sangha region",
+      "path": "africa/congobrazzaville/sangharegion",
+      "prior_score": -5.1414,
+      "prior_variance": 0.355674,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -1.4374,
+      "prior_variance": 0.337212,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": -1.2247,
+      "prior_variance": 0.295628,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_score": -4.4067,
+      "prior_variance": 0.264505,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -1.9497,
+      "prior_variance": 0.242313,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Calamba",
+      "path": "asia/philippines/calamba",
+      "prior_score": -2.3097,
+      "prior_variance": 0.34947,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -3.2231,
+      "prior_variance": 0.264463,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanmateo",
+      "prior_score": -3.7286,
+      "prior_variance": 0.424947,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -6.9295,
+      "prior_variance": 0.309468,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Qasr Libya",
+      "path": "africa/libya/jebelakhdar/qasr_libya",
+      "prior_score": -4.9087,
+      "prior_variance": 0.329479,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -1.3247,
+      "prior_variance": 0.652432,
+      "prior_n": 5
+    }
+  ]
+}

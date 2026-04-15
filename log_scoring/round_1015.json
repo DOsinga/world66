@@ -1,0 +1,200 @@
+{
+  "round": 1015,
+  "timestamp": "2026-04-12T22:04:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Uganda",
+      "path": "africa/uganda",
+      "prior_rank": 7571,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Occhiobello",
+      "path": "europe/italy/veneto/occhiobello",
+      "prior_rank": 5493,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_rank": 4807,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Morayfield",
+      "path": "australiaandpacific/australia/queensland/morayfield",
+      "prior_rank": 7008,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_rank": 6668,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_rank": 8047,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_rank": 6988,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_rank": 7611,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cabot",
+      "path": "northamerica/unitedstates/arkansas/cabot",
+      "prior_rank": 7627,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_rank": 7961,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Palatka",
+      "path": "northamerica/unitedstates/florida/palatka",
+      "prior_rank": 6839,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_rank": 7774,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/naulcapan",
+      "prior_rank": 8153,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Waynoka",
+      "path": "northamerica/unitedstates/oklahoma/waynoka",
+      "prior_rank": 6701,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/southdakota/madison",
+      "prior_rank": 8062,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_rank": 7664,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_rank": 6532,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_rank": 8055,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Jhunsi Allahabad, UP, India",
+      "path": "asia/india/uttarpradesh/jhunsi_allahabad",
+      "prior_rank": 7785,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_rank": 7842,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_rank": 7609,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_rank": 7985,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_rank": 7423,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Guinea-Bissau",
+      "path": "africa/guineabissau",
+      "prior_rank": 7467,
+      "prior_wins": 6,
+      "prior_n": 2
+    }
+  ]
+}

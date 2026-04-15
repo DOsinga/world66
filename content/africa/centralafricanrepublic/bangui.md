@@ -5,6 +5,7 @@ latitude: 4.3947
 longitude: 18.5582
 done:
   location_cleanup: 2026-04-06
+score: 0.15
 ---
 
 Bangui is the capital of the Central African Republic, set on the western bank of the Oubangui River with the Democratic Republic of the Congo visible on the opposite shore. The city developed around a French military post established in 1889 and served as the administrative centre of the territory of Ubangi-Chari before independence in 1960.

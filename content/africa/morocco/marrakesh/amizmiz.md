@@ -5,6 +5,7 @@ latitude: 31.217101
 longitude: -8.233275
 title: Amizmiz
 type: location
+score: 0.46
 ---
 
 Amizmiz is a small Berber town about 55 km south of [Marrakech](/africa/morocco/marrakesh), at the foot of the High Atlas mountains. Most of its inhabitants are Chleuh Berbers who speak Tashelhiyt.

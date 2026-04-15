@@ -1,12 +1,15 @@
 ---
-title: 'Bristol'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.453802
 longitude: -2.597298
+title: Bristol
+type: location
+score: 0.65
 ---
 
-Bristol is the largest city in the south-west of England, with a population of around half a million. Historically a county in its own right, it lies between Somerset and [Gloucestershire](/europe/unitedkingdom/england/bristol_plymouth/gloucestershire) and is properly entitled the City and County of Bristol.
+Bristol is the largest city in southwest England, with around half a million people, and it has more character than most British cities twice its size. Historically a county in its own right, it sits between Somerset and Gloucestershire and made its fortune as a major trading port — first in wine and spirits, then in shipping and engineering.
 
-The city has a rich maritime history. John Cabot sailed from here in 1497 aboard the Matthew to reach the coast of North America. In the 19th century Bristol was a major trading port for wine, spirits and shipping. Isambard Kingdom Brunel left his mark everywhere: the Clifton Suspension Bridge spans the Avon Gorge, and the SS Great Britain, his pioneering iron steamship, is now restored and on display in the docks after being reclaimed from the Falkland Islands in the 1970s.
+The city's most famous son is Isambard Kingdom Brunel, whose Clifton Suspension Bridge still spans the Avon Gorge in dramatic fashion. His SS Great Britain, the first iron-hulled, screw-propeller-driven ocean liner, sits in the same dry dock where she was built and is one of the best maritime museums in the country. John Cabot sailed from Bristol harbour in 1497 to reach North America, and the city has been looking outward ever since.
 
-Bristol has a fine mix of Victorian and Georgian architecture. Highlights include the Crescent in Clifton village and Queen Square near the waterfront, the second largest perfect square in Europe, which housed the first American Consulate. Famous Bristolians include Cary Grant and, more recently, Wallace and Gromit.
+Modern Bristol is known for its independent spirit. The harbourside area has been transformed into a lively mix of restaurants, galleries, and bars. Stokes Croft is the street art capital of Britain (this is Banksy's home town). Clifton, up on the hill, is elegant and village-like with good shops and restaurants. The music scene — from trip-hop to drum and bass — punches well above its weight.

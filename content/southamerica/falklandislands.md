@@ -11,6 +11,7 @@ latitude: -51.7963
 longitude: -59.5236
 title: Falkland Islands
 type: location
+score: 0.53
 ---
 
 Two large islands and nearly 700 smaller ones sitting in the South Atlantic, roughly 500 kilometres east of Patagonia. The Falkland Islands are a British Overseas Territory with full internal self-government, and the landscape, culture, and accent are unmistakably British — a fact that surprises many first-time visitors. Argentina calls them the Malvinas and still disputes sovereignty; the 1982 war settled the military question but not the political one.

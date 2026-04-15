@@ -1,8 +1,9 @@
 ---
-title: "Ho Chi Minh City"
+title: Ho Chi Minh City
 type: location
 latitude: 10.775525
 longitude: 106.702105
+score: 0.65
 ---
 
 More than 1000 kilometer to the South of [Hanoi](/asia/vietnam/hanoi), Ho Chi Minh City - the new name for Saigon- is still a very capitalistic city. People sell everything from fruit to DVDs on the sidewalk and street corners. The city remains the economic capital and it’s booming with new hotels and businesses opening daily. Chic bars and clubs are filled with ambitious young expatriates seeking their fortunes.

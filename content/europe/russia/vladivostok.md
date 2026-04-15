@@ -5,6 +5,7 @@ latitude: 43.1151
 longitude: 131.8856
 done:
   location_cleanup: 2026-04-06
+score: 0.49
 ---
 
 Vladivostok is the end of the line — 9,300 kilometres from Moscow by rail, the final stop on the Trans-Siberian Railway, and Russia's main Pacific port. The city sprawls across hills and peninsulas overlooking the Golden Horn Bay, and on a clear day you can see across to the mountains of China and North Korea.

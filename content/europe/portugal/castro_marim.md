@@ -5,6 +5,7 @@ latitude: 37.2179
 longitude: -7.4457
 title: Castro Marim
 type: location
+score: 0.47
 ---
 
 Castro Marim sits at the far eastern edge of the Algarve, just across the Guadiana River from Spain, and it wears its history plainly. Two medieval castles dominate the low hill above the town — a fortress within a fortress — and below them spreads one of the largest saltmarsh nature reserves in Portugal. It is a quiet, unhurried place, easy to overlook on the drive between Faro and Seville, and all the more rewarding for it.

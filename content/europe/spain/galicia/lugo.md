@@ -5,6 +5,7 @@ latitude: 43.0121
 longitude: -7.556
 done:
   location_cleanup: 2026-04-07
+score: 0.54
 ---
 
 Lugo is one of Spain's most undervisited Roman cities, anchored by the finest surviving

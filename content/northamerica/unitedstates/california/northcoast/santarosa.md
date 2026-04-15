@@ -5,6 +5,7 @@ latitude: 38.4405
 longitude: -122.7141
 done:
   location_cleanup: 2026-04-06
+score: 0.43
 ---
 
 Santa Rosa is the biggest city in Sonoma County and the de facto capital of California's North Coast wine country. It's not a destination most tourists plan around — they come for the vineyards — but the city itself has more going on than people expect. A revitalized downtown with good restaurants, the legacy of Charles M. Schulz (who lived and worked here for decades), and easy access to the Russian River Valley make it worth more than a drive-through.

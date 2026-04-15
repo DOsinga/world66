@@ -1,8 +1,9 @@
 ---
-title: "Batam"
+title: Batam
 type: location
 latitude: 1.103082
 longitude: 104.03837
+score: 0.44
 ---
 
 Batam is an industrial island in the Riau Archipelago, just 20 kilometres south of Singapore and reachable by ferry in about an hour. It was developed as a special economic zone in the 1990s and remains primarily a business and manufacturing hub.

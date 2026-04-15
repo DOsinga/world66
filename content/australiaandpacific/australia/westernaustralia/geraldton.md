@@ -5,6 +5,7 @@ latitude: -28.77035
 longitude: 114.614716
 title: Geraldton
 type: location
+score: 0.44
 ---
 
 Situated 400 kilometres north of [Perth](/australiaandpacific/australia/westernaustralia/perth) on the Batavia Coast, Geraldton is the major regional city of the Midwest and the only deep-water port for a vast stretch of Western Australia's mid-coast. It is a working city — fishing, farming, and mining keep it going — but it has earned a serious reputation among windsurfers and kite-boarders as one of the best spots in the world, thanks to the reliable onshore winds that barrel in off the Indian Ocean almost every afternoon.

@@ -5,6 +5,7 @@ latitude: 54.452902
 longitude: 13.388234
 title: Rügen
 type: location
+score: 0.52
 ---
 
 Rügen is [Germany's](/europe/germany) largest island, connected to the mainland by a bridge near Stralsund. Its dramatic white chalk cliffs — the Kreidefelsen — have been famous since Caspar David Friedrich painted them in the early nineteenth century, and they remain the island's most striking sight. The Jasmund National Park protects the cliffs and the ancient beech forest behind them, a UNESCO World Heritage Site.

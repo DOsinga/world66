@@ -1,0 +1,200 @@
+{
+  "round": 1315,
+  "timestamp": "2026-04-12T22:21:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Greenland",
+      "path": "northamerica/greenland",
+      "prior_rank": 1978,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/york",
+      "prior_rank": 1745,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "New Mexico",
+      "path": "northamerica/unitedstates/newmexico",
+      "prior_rank": 552,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_rank": 6315,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Nor\u00f0oyggjar",
+      "path": "europe/faroeislands/eysturoy/noroyggjar",
+      "prior_rank": 3789,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sauerland",
+      "path": "europe/germany/northrhinewestphalia/sauerland",
+      "prior_rank": 4981,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_rank": 5095,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_rank": 5049,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Naumburg",
+      "path": "europe/germany/thuringia/naumburg",
+      "prior_rank": 4682,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Schagen",
+      "path": "europe/netherlands/schagen",
+      "prior_rank": 6336,
+      "prior_wins": 42,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_rank": 5517,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_rank": 4253,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_rank": 2092,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_rank": 6318,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_rank": 6471,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_rank": 5819,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_rank": 7080,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Gambia",
+      "path": "africa/gambia",
+      "prior_rank": 3706,
+      "prior_wins": 60,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_rank": 5834,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_rank": 5324,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Deogad",
+      "path": "asia/india/maharashtra/konkan/deogad",
+      "prior_rank": 4758,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_rank": 4004,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_rank": 6603,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_rank": 5106,
+      "prior_wins": 19,
+      "prior_n": 2
+    }
+  ]
+}

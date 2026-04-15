@@ -5,6 +5,7 @@ latitude: 42.91308
 longitude: -78.918611
 done:
   location_cleanup: 2026-04-07
+score: 0.38
 ---
 
 Fort Erie sits at the southern tip of the Niagara Peninsula, directly across the Peace Bridge from Buffalo, New York. It is a small town in the shadow of its bigger neighbours — Niagara Falls to the north, Buffalo across the river — but has its own quiet identity as a lakeside community with good beaches and a border-town character that sets it apart from the rest of Ontario.

@@ -1,0 +1,200 @@
+{
+  "round": 959,
+  "timestamp": "2026-04-12T16:09:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_rank": 1605,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Elba",
+      "path": "europe/italy/tuscany/elba",
+      "prior_rank": 1183,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_rank": 2068,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Clare",
+      "path": "europe/ireland/clare",
+      "prior_rank": 1870,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_rank": 1927,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_rank": 2134,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_rank": 2368,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_rank": 3983,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Madang",
+      "path": "asia/papuanewguinea/madang",
+      "prior_rank": 4883,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Komarna",
+      "path": "europe/croatia/komarna",
+      "prior_rank": 6102,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Limburg",
+      "path": "europe/germany/hesse/limburg",
+      "prior_rank": 4736,
+      "prior_wins": 64,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_rank": 3612,
+      "prior_wins": 89,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/baltrum",
+      "prior_rank": 2750,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_rank": 6521,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_rank": 3159,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_rank": 3065,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_rank": 5324,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "KARNATAKA",
+      "path": "asia/india/maharashtra/konkan/karnataka",
+      "prior_rank": 6048,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_rank": 6123,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_rank": 5916,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_rank": 6591,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_rank": 7337,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_rank": 7852,
+      "prior_wins": 4,
+      "prior_n": 3
+    }
+  ]
+}

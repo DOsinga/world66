@@ -5,6 +5,7 @@ latitude: 54.328448
 longitude: -2.746468
 title: Kendal
 type: location
+score: 0.43
 ---
 
 Kendal used to be a major stopping point for traffic heading south to the [Lake District](/europe/unitedkingdom/england/manchester_liverp/lakedistrict). Now it is bypassed by a major dual carriageway and, being somewhat easier to navigate, can be enjoyed for its own sake.

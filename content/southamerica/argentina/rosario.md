@@ -5,6 +5,7 @@ latitude: -32.959361
 longitude: -60.661702
 title: Rosario
 type: location
+score: 0.48
 ---
 
 Rosario's main claim to fame is that it was the birthplace of Che Guevara — the apartment building at Entre Ríos 480 can be visited. But Argentina's third-largest city has more to offer than revolutionary history. Located 300 km upstream from [Buenos Aires](/southamerica/argentina/buenosaires) on the west bank of the Paraná, it is one of the economic powerhouses of the Pampas, with a lively university scene and a waterfront that has been transformed in recent years.

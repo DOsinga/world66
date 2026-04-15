@@ -1,0 +1,200 @@
+{
+  "round": 871,
+  "timestamp": "2026-04-12T14:46:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_score": 14.6719,
+      "prior_variance": 7.42502,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 11.5932,
+      "prior_variance": 8.891815,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 4.1187,
+      "prior_variance": 1.502882,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_score": 8.8974,
+      "prior_variance": 2.277123,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 5.4634,
+      "prior_variance": 4.095076,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Oman",
+      "path": "asia/oman",
+      "prior_score": 5.3372,
+      "prior_variance": 1.509662,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": 5.4318,
+      "prior_variance": 1.963473,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Martinique",
+      "path": "northamerica/martinique",
+      "prior_score": 3.104,
+      "prior_variance": 1.283796,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 10.0663,
+      "prior_variance": 3.295361,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 4.2623,
+      "prior_variance": 1.571632,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_score": 3.4113,
+      "prior_variance": 1.512575,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 3.1186,
+      "prior_variance": 1.967408,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/boulogne/le_touquet",
+      "prior_score": 0.8598,
+      "prior_variance": 1.370705,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Clifton",
+      "path": "northamerica/saintvincentandthegrenadines/clifton",
+      "prior_score": 2.1471,
+      "prior_variance": 1.259278,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "La Trinite",
+      "path": "northamerica/martinique/latrinite",
+      "prior_score": 0.4027,
+      "prior_variance": 0.748765,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.1086,
+      "prior_variance": 0.446751,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": 0.2296,
+      "prior_variance": 1.48101,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_score": -5.0885,
+      "prior_variance": 2.886249,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -2.1679,
+      "prior_variance": 1.678781,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": 2.0333,
+      "prior_variance": 1.294126,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_score": -7.6669,
+      "prior_variance": 1.733191,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -5.8449,
+      "prior_variance": 1.538487,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -6.1734,
+      "prior_variance": 1.475009,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -11.2375,
+      "prior_variance": 8.55663,
+      "prior_n": 1
+    }
+  ]
+}

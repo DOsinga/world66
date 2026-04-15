@@ -1,0 +1,200 @@
+{
+  "round": 62,
+  "timestamp": "2026-04-12T08:02:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bordeaux",
+      "path": "europe/france/midi/aquitaine/bordeaux",
+      "prior_mu": 24.7,
+      "prior_sigma": 5.66,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_mu": 27.85,
+      "prior_sigma": 4.33,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_mu": 23.25,
+      "prior_sigma": 4.76,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Jerusalem",
+      "path": "asia/palestinianauthority/jerusalem",
+      "prior_mu": 25.48,
+      "prior_sigma": 5.61,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Dogon Country",
+      "path": "africa/mali/dogoncountry",
+      "prior_mu": 21.24,
+      "prior_sigma": 3.23,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_mu": 21.59,
+      "prior_sigma": 3.69,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_mu": 22.62,
+      "prior_sigma": 5.43,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_mu": 22.1,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_mu": 22.24,
+      "prior_sigma": 3.74,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/spotorno",
+      "prior_mu": 22.35,
+      "prior_sigma": 5.49,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lo Pagan",
+      "path": "europe/spain/spanishcostas/lopagan",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.25,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_mu": 21.71,
+      "prior_sigma": 4.51,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gold Country",
+      "path": "northamerica/unitedstates/california/goldcountry",
+      "prior_mu": 21.55,
+      "prior_sigma": 3.79,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Paraguay",
+      "path": "southamerica/paraguay",
+      "prior_mu": 20.81,
+      "prior_sigma": 4.17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Mizoram",
+      "path": "asia/india/mizoram",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.29,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_mu": 22.78,
+      "prior_sigma": 5.96,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "A perfect day",
+      "path": "europe/czechrepublic/prague/aperfectday",
+      "prior_mu": 16.92,
+      "prior_sigma": 4.07,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Puerto Cortes",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_mu": 22.07,
+      "prior_sigma": 5.74,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "United States",
+      "path": "northamerica/unitedstates",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Quantico",
+      "path": "northamerica/unitedstates/virginia/quantico",
+      "prior_mu": 18.34,
+      "prior_sigma": 6.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_mu": 18.35,
+      "prior_sigma": 5.12,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hemet",
+      "path": "northamerica/unitedstates/california/orangecounty/hemet",
+      "prior_mu": 18.31,
+      "prior_sigma": 4.14,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_mu": 15.91,
+      "prior_sigma": 3.77,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_mu": 14.22,
+      "prior_sigma": 3.61,
+      "prior_n": 5
+    }
+  ]
+}

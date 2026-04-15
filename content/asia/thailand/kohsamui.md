@@ -1,6 +1,7 @@
 ---
-title: "Kohsamui"
+title: Kohsamui
 type: location
+score: 0.7
 ---
 
 Travel Guide

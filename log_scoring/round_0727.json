@@ -1,0 +1,200 @@
+{
+  "round": 727,
+  "timestamp": "2026-04-12T10:45:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shinjuku",
+      "path": "asia/japan/tokyo/shinjuku",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bilbao",
+      "path": "europe/spain/northernspain/bilbao",
+      "prior_mu": 23.0123,
+      "prior_sigma": 4.4731,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Comino",
+      "path": "europe/malta/gozo/comino",
+      "prior_mu": 22.1508,
+      "prior_sigma": 4.6826,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_mu": 29.4462,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_mu": 23.3696,
+      "prior_sigma": 5.9853,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_mu": 22.4834,
+      "prior_sigma": 5.7778,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Dades Valley",
+      "path": "africa/morocco/dadesvalley",
+      "prior_mu": 22.8302,
+      "prior_sigma": 5.6099,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Dominica",
+      "path": "northamerica/thecaribbean/dominica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_mu": 21.7485,
+      "prior_sigma": 3.8294,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_mu": 22.4963,
+      "prior_sigma": 5.8109,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_mu": 22.6967,
+      "prior_sigma": 5.6838,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_mu": 21.8536,
+      "prior_sigma": 4.5333,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_mu": 21.9086,
+      "prior_sigma": 4.8307,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Western Kenya",
+      "path": "africa/kenya/westernkenya",
+      "prior_mu": 22.2252,
+      "prior_sigma": 5.9111,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_mu": 22.516,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Kosovo",
+      "path": "europe/serbiaandmontenegro/kosovoprovince",
+      "prior_mu": 22.4122,
+      "prior_sigma": 5.7214,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_mu": 22.7575,
+      "prior_sigma": 5.6706,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_mu": 21.1431,
+      "prior_sigma": 3.3462,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Abbotsford",
+      "path": "northamerica/unitedstates/wisconsin/abbotsford",
+      "prior_mu": 18.026,
+      "prior_sigma": 6.5301,
+      "prior_n": 1
+    }
+  ]
+}

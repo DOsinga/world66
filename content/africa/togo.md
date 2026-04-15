@@ -17,6 +17,7 @@ image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Simisa" title="Us
   <a href="//commons.wikimedia.org/wiki/Commons:Commonist" title="Commons:Commonist">Commonist</a>.</div>'
 done:
   country_cleanup: 2026-03-31
+score: 0.32
 ---
 
 Togo is a little gem; it really is one of the nicest countries to visit in West-Africa. Roads are pretty good, distances small, beaches sandy and white, people friendly, hills and mountains waiting to be explored. What else do you need? 

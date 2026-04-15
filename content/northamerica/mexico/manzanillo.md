@@ -5,6 +5,7 @@ latitude: 19.0506
 longitude: -104.316
 done:
   location_cleanup: 2026-04-06
+score: 0.49
 ---
 
 Manzanillo sits on Mexico's Pacific coast in the state of Colima, about halfway between Puerto Vallarta and Acapulco. It has long been one of Mexico's most important port cities, but in recent decades it has grown into a resort destination — particularly after the 1979 film "10" was shot at the Las Hadas resort, putting Manzanillo on the international map.

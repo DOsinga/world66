@@ -5,6 +5,7 @@ latitude: 53.7205
 longitude: -1.9623
 title: Calderdale
 type: location
+score: 0.52
 ---
 
 **Calderdale** is the metropolitan borough centred on Halifax in West Yorkshire, stretching along the Calder Valley from the Pennine hills down to Brighouse. It is one of the more scenic parts of post-industrial Yorkshire, with steep-sided valleys, millstone grit towns, and surprisingly good walking.

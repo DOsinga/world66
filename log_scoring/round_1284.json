@@ -1,0 +1,200 @@
+{
+  "round": 1284,
+  "timestamp": "2026-04-12T22:19:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_rank": 5358,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_rank": 6025,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_rank": 6173,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "San Marcos",
+      "path": "northamerica/unitedstates/california/sandiego/sanmarcos",
+      "prior_rank": 4510,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cambridge",
+      "path": "northamerica/canada/ontario/cambridge",
+      "prior_rank": 6947,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Dnipro",
+      "path": "europe/ukraine/dnepropetrovsk",
+      "prior_rank": 7434,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Plantation",
+      "path": "northamerica/unitedstates/florida/plantation",
+      "prior_rank": 5842,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_rank": 7690,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_rank": 7174,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_rank": 6924,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_rank": 7203,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_rank": 4563,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_rank": 6935,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_rank": 4913,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_rank": 5836,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cauayan",
+      "path": "asia/philippines/cauayan",
+      "prior_rank": 6382,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_rank": 6680,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Colima",
+      "path": "northamerica/mexico/yucatan/colima",
+      "prior_rank": 6916,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Murialdo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
+      "prior_rank": 7732,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Athis-Mons",
+      "path": "europe/france/around_paris/athismons",
+      "prior_rank": 6831,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kellokoski",
+      "path": "europe/finland/helsinki/kellokoski",
+      "prior_rank": 6357,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Balsall Common",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/balsall_common",
+      "prior_rank": 8115,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_rank": 4346,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_rank": 6604,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 40.3353
 longitude: -75.9279
 title: Reading
 type: location
+score: 0.34
 ---
 
 Reading is a mid-sized city in the Schuylkill Valley of eastern Pennsylvania, roughly halfway between Philadelphia and Harrisburg. It's a working-class city with a large Latino population — one of the largest proportionally in the US — and an economy that has seen better days since its industrial manufacturing base declined. But it has a genuine character and a few things worth knowing about.

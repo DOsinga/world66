@@ -5,6 +5,7 @@ latitude: 41.269932
 longitude: -8.080456
 title: Amarante
 type: location
+score: 0.55
 ---
 
 Amarante is one of northern Portugal's most picturesque small towns, draped along both banks of the Tâmega River about 60 kilometres east of Porto. The town's centrepiece is the São Gonçalo Bridge, a 16th-century stone span anchored at one end by the monastery church of the same name. The balconied houses lining the riverbank make for a scene that is almost impossibly photogenic.

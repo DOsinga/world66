@@ -1,6 +1,7 @@
 ---
-title: "Cala Ratjada"
+title: Cala Ratjada
 type: location
 latitude: 39.710638
 longitude: 3.460213
+score: 0.6
 ---

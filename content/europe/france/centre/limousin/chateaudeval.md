@@ -5,6 +5,7 @@ latitude: 45.442681
 longitude: 2.505324
 title: Château de Val
 type: location
+score: 0.55
 ---
 
 Just north of [Tulle](/europe/france/centre/limousin/tulle), the Château de Val is a fifteenth-century fortress standing on a rocky promontory in the enormous Lac de Bort. With six battlemented towers reflected in the water, it looks like something straight out of a fairy tale — or a child's drawing of what a castle should be.

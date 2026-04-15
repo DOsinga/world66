@@ -5,6 +5,7 @@ latitude: 47.1615
 longitude: 1.5666
 title: Valençay
 type: location
+score: 0.54
 ---
 
 The Château de Valençay rivals [Chambord](/europe/france/centre/loirevalley/chambord) in scale but draws a fraction of the visitors — a real advantage if you prefer your Loire châteaux without the crowds. The building is a handsome blend of Renaissance and classical styles, set above beautifully designed English-style gardens with formal parterres, a deer park, and a children's playground.

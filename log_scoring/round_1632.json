@@ -1,0 +1,200 @@
+{
+  "round": 1632,
+  "timestamp": "2026-04-13T10:37:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_score": 12.6775,
+      "prior_variance": 0.521454,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 8.8161,
+      "prior_variance": 1.281581,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 6.9889,
+      "prior_variance": 0.319121,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 6.2248,
+      "prior_variance": 0.358967,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 7.2265,
+      "prior_variance": 0.394947,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_score": 3.7137,
+      "prior_variance": 0.272274,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Tierra del Fuego",
+      "path": "southamerica/argentina/tierradelfuego",
+      "prior_score": 7.2129,
+      "prior_variance": 0.405071,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bolivia",
+      "path": "southamerica/bolivia",
+      "prior_score": 8.6274,
+      "prior_variance": 0.545991,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Panama",
+      "path": "northamerica/panama",
+      "prior_score": -0.2396,
+      "prior_variance": 0.533593,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 3.3228,
+      "prior_variance": 0.257548,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 3.1408,
+      "prior_variance": 0.294701,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Aragon",
+      "path": "europe/spain/aragon",
+      "prior_score": 2.8984,
+      "prior_variance": 0.341356,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_score": 2.4243,
+      "prior_variance": 0.212148,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_score": 2.6685,
+      "prior_variance": 0.369577,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 2.3859,
+      "prior_variance": 0.334686,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": 0.2464,
+      "prior_variance": 0.329864,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 2.1524,
+      "prior_variance": 0.377259,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bournemouth",
+      "prior_score": 2.0153,
+      "prior_variance": 0.356205,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 2.337,
+      "prior_variance": 0.353362,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -2.8458,
+      "prior_variance": 0.318876,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_lla",
+      "prior_score": -1.6534,
+      "prior_variance": 0.34846,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "america",
+      "path": "europe/spain/northernspain/santiagodecompostela/america",
+      "prior_score": 0.8967,
+      "prior_variance": 0.570713,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Blacksburg",
+      "path": "northamerica/unitedstates/virginia/blacksburg",
+      "prior_score": -2.2359,
+      "prior_variance": 0.380761,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Solms",
+      "path": "europe/germany/hessen/solms",
+      "prior_score": -6.8287,
+      "prior_variance": 0.377537,
+      "prior_n": 4
+    }
+  ]
+}

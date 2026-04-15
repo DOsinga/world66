@@ -1,0 +1,200 @@
+{
+  "round": 1259,
+  "timestamp": "2026-04-12T22:18:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ontario",
+      "path": "northamerica/canada/ontario",
+      "prior_rank": 7493,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_rank": 5339,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/solihull",
+      "prior_rank": 7676,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Zapresic",
+      "path": "europe/croatia/zapresic",
+      "prior_rank": 5475,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_rank": 6929,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Balatonm\u00c3\u00a1riaf\u00fcrd\u00c5\u2018",
+      "path": "europe/hungary/balatonmriafrd",
+      "prior_rank": 7973,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_rank": 7179,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "tacloban city",
+      "path": "asia/philippines/taclobancity/tacloban_city",
+      "prior_rank": 5727,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang_1",
+      "prior_rank": 6734,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_rank": 3815,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Jharkhand",
+      "path": "asia/india/jharkhand",
+      "prior_rank": 7292,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_rank": 7212,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_rank": 6775,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_rank": 7336,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_rank": 7670,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southdakota/aberdeen",
+      "prior_rank": 7163,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_rank": 5283,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_rank": 7818,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Plantation",
+      "path": "northamerica/unitedstates/florida/plantation",
+      "prior_rank": 5058,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "El Reno",
+      "path": "northamerica/unitedstates/oklahoma/el_reno",
+      "prior_rank": 6873,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bahawalpur",
+      "path": "asia/pakistan/bahawalpur",
+      "prior_rank": 5683,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_rank": 6959,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_rank": 6534,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Enewetok",
+      "path": "australiaandpacific/marshallislands/enewetokatoll/enewetok",
+      "prior_rank": 7054,
+      "prior_wins": 12,
+      "prior_n": 3
+    }
+  ]
+}

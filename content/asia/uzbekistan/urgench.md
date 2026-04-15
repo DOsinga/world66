@@ -5,6 +5,7 @@ latitude: 41.55179
 longitude: 60.631281
 title: Urgench
 type: location
+score: 0.47
 ---
 
 Urgench is quite a drab town. It is an important agricultural centre and when you drive around you see big canals full of muddy water, used to irrigate the cotton fields all around.

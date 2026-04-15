@@ -5,6 +5,7 @@ latitude: -5.2183
 longitude: 145.7961
 title: Madang
 type: location
+score: 0.43
 ---
 
 Madang is often called the prettiest town in the Pacific, and the claim is not unreasonable. Set on a peninsula between lagoons and the open sea, the town is full of parks, ponds and waterways, with coconut plantations stretching along the coast in both directions. The diving and snorkelling are excellent — warm water, coral reefs, and several submerged wrecks from World War II.

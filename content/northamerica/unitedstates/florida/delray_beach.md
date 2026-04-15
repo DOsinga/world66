@@ -5,6 +5,7 @@ latitude: 26.461462
 longitude: -80.07282
 title: Delray Beach
 type: location
+score: 0.47
 ---
 
 Delray Beach is a small city on the Atlantic coast of Palm Beach County, between Boca Raton and Boynton Beach. It has a pleasant downtown centred on Atlantic Avenue, a wide pedestrian-friendly street lined with restaurants, galleries, and shops that runs straight down to the beach.

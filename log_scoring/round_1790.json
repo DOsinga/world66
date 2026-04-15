@@ -1,0 +1,200 @@
+{
+  "round": 1790,
+  "timestamp": "2026-04-13T10:51:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Norway",
+      "path": "europe/norway",
+      "prior_score": -1.6189,
+      "prior_variance": 0.447327,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kinderdijk",
+      "path": "europe/netherlands/kinderdijk",
+      "prior_score": 4.41,
+      "prior_variance": 0.186281,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 6.3457,
+      "prior_variance": 0.389555,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_score": 4.3847,
+      "prior_variance": 0.328133,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 4.8087,
+      "prior_variance": 0.343254,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 4.9277,
+      "prior_variance": 0.302725,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 4.1335,
+      "prior_variance": 0.423924,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_score": 3.9632,
+      "prior_variance": 0.362605,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 5.0078,
+      "prior_variance": 0.377973,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Zacatecas",
+      "path": "northamerica/mexico/zacatecas",
+      "prior_score": 3.8107,
+      "prior_variance": 0.261908,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 5.0291,
+      "prior_variance": 0.207725,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 3.4665,
+      "prior_variance": 0.318149,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "The Finger Lakes",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes",
+      "prior_score": 4.6752,
+      "prior_variance": 0.364155,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 2.4793,
+      "prior_variance": 0.280916,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Courchevel",
+      "path": "europe/switzerland/courchevel",
+      "prior_score": -5.2027,
+      "prior_variance": 0.662683,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 2.8872,
+      "prior_variance": 0.322817,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "San Felice Circeo",
+      "path": "europe/italy/lazio/san_felice_circeo",
+      "prior_score": 3.2087,
+      "prior_variance": 0.329536,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "San Andres",
+      "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+      "prior_score": 4.8921,
+      "prior_variance": 0.373117,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_score": 1.1478,
+      "prior_variance": 0.448227,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 2.1862,
+      "prior_variance": 0.408029,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -2.138,
+      "prior_variance": 0.376513,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -4.262,
+      "prior_variance": 0.293105,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zivinice",
+      "path": "europe/bosniaandherzegovina/zivinice",
+      "prior_score": -5.2124,
+      "prior_variance": 0.377308,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -6.9816,
+      "prior_variance": 0.408768,
+      "prior_n": 4
+    }
+  ]
+}

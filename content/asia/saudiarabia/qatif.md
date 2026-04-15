@@ -5,6 +5,7 @@ latitude: 26.5586
 longitude: 50.00874
 done:
   location_cleanup: 2026-04-06
+score: 0.27
 ---
 
 Qatif is one of the oldest continuously inhabited places in the Eastern Province, with a history of settlement going back several thousand years. It sits on the Arabian Gulf coast north of [Khobar](/asia/saudiarabia/khobar) and has historically been a centre of pearl diving and trade.

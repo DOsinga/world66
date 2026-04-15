@@ -5,6 +5,7 @@ latitude: 38.402201
 longitude: -122.359506
 title: Yountville
 type: location
+score: 0.57
 ---
 
 Yountville is a small town of roughly 3,000 people in the heart of the Napa Valley, and it punches far above its weight as a food destination. Thomas Keller's The French Laundry — consistently ranked among the world's best restaurants — is here, along with his more casual Bouchon Bistro and Ad Hoc. The concentration of serious kitchens in a place this size is extraordinary.

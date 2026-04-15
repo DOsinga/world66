@@ -1,0 +1,200 @@
+{
+  "round": 1293,
+  "timestamp": "2026-04-12T22:19:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zhengzhou",
+      "path": "asia/china/henan_province/zhengzhou",
+      "prior_rank": 4050,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_rank": 7539,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_rank": 5704,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/leamingtonspa",
+      "prior_rank": 5823,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_rank": 4239,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_rank": 3987,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_rank": 5527,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_rank": 7161,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Norfolk Island",
+      "path": "australiaandpacific/norfolkisland",
+      "prior_rank": 5581,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_rank": 5936,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_rank": 4640,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Weilburg",
+      "path": "europe/germany/hessen/weilburg",
+      "prior_rank": 5618,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Paterna",
+      "path": "europe/spain/spanishcostas/paterna",
+      "prior_rank": 4925,
+      "prior_wins": 49,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_rank": 6160,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_rank": 7709,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_rank": 6159,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_rank": 6509,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford/blandford_forum",
+      "prior_rank": 6153,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_rank": 6253,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hotels near Harne Beach",
+      "path": "asia/india/maharashtra/konkan/hotels_near_harne",
+      "prior_rank": 6209,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_rank": 7550,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge",
+      "prior_rank": 6327,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Knoll Lake",
+      "path": "northamerica/unitedstates/arizona/knoll_lake",
+      "prior_rank": 6181,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_rank": 7206,
+      "prior_wins": 10,
+      "prior_n": 2
+    }
+  ]
+}

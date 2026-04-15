@@ -1,0 +1,200 @@
+{
+  "round": 1927,
+  "timestamp": "2026-04-13T15:55:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_score": 11.6917,
+      "prior_variance": 0.558537,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Phuket",
+      "path": "asia/thailand/phuket",
+      "prior_score": 9.5041,
+      "prior_variance": 0.676809,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/otago/fiordland",
+      "prior_score": 12.0799,
+      "prior_variance": 0.714421,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Portugal",
+      "path": "europe/portugal",
+      "prior_score": 2.3641,
+      "prior_variance": 0.553274,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 9.3881,
+      "prior_variance": 0.648806,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Roppongi",
+      "path": "asia/japan/tokyo/roppongi",
+      "prior_score": 4.8748,
+      "prior_variance": 0.244195,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 6.0479,
+      "prior_variance": 0.318643,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_score": 6.5442,
+      "prior_variance": 0.352652,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 1.6213,
+      "prior_variance": 0.24918,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "costa dorada",
+      "path": "europe/spain/catalonia/costa_dorada",
+      "prior_score": 3.1566,
+      "prior_variance": 0.322169,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_score": 2.012,
+      "prior_variance": 0.457194,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bristol",
+      "prior_score": 3.2809,
+      "prior_variance": 0.261156,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 1.0239,
+      "prior_variance": 0.243852,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 2.1997,
+      "prior_variance": 0.262163,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "KARNATAKA",
+      "path": "asia/india/maharashtra/konkan/karnataka",
+      "prior_score": -3.7584,
+      "prior_variance": 0.393762,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_score": -0.7145,
+      "prior_variance": 0.263694,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_score": -3.1974,
+      "prior_variance": 0.257683,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": -0.5748,
+      "prior_variance": 0.336993,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_score": -1.4379,
+      "prior_variance": 0.25938,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -2.3472,
+      "prior_variance": 0.300581,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dari\u00e9n Gap",
+      "path": "northamerica/panama/dariengap",
+      "prior_score": -4.5108,
+      "prior_variance": 0.564882,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/huddersfield",
+      "prior_score": -3.6954,
+      "prior_variance": 0.640246,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bangladesh",
+      "path": "asia/bangladesh",
+      "prior_score": -5.6809,
+      "prior_variance": 0.439651,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "amalner",
+      "path": "asia/india/maharashtra/mumbai/amalner",
+      "prior_score": -6.8116,
+      "prior_variance": 0.423948,
+      "prior_n": 4
+    }
+  ]
+}

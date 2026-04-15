@@ -1,8 +1,11 @@
 ---
-title: "Taza"
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 34.230155
 longitude: -4.010104
+score: 0.45
+title: Taza
+type: location
 ---
 
 In earlier days controlling Taza meant controlling the road from Fez to Tlemcen; it was the key to controlling the whole east of Morocco.

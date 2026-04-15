@@ -5,6 +5,7 @@ latitude: 9.5277
 longitude: 45.538
 title: Burao
 type: location
+score: 0.22
 ---
 
 Burao is the second largest city in [Somaliland](/africa/somaliland) and the capital of the Togdheer region, sitting in the dry central plains roughly halfway between Hargeisa and the coast. It is a major livestock market — the trade in camels, goats, and sheep is the economic backbone of the city and the surrounding pastoral communities.

@@ -1,0 +1,200 @@
+{
+  "round": 75,
+  "timestamp": "2026-04-12T08:02:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/cambridge",
+      "prior_mu": 29.39,
+      "prior_sigma": 4.66,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/brighton",
+      "prior_mu": 21.52,
+      "prior_sigma": 3.75,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Honshu",
+      "path": "asia/japan/honshu",
+      "prior_mu": 25.99,
+      "prior_sigma": 3.45,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "El Yunque",
+      "path": "northamerica/puertorico/elyunque",
+      "prior_mu": 24.01,
+      "prior_sigma": 3.97,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_mu": 22.72,
+      "prior_sigma": 3.69,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_mu": 21.91,
+      "prior_sigma": 4.46,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_mu": 21.77,
+      "prior_sigma": 3.86,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_mu": 22.08,
+      "prior_sigma": 3.81,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Davao",
+      "path": "asia/philippines/davao",
+      "prior_mu": 21.36,
+      "prior_sigma": 4.36,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_mu": 20.99,
+      "prior_sigma": 3.59,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_mu": 21.13,
+      "prior_sigma": 3.9,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_mu": 21.39,
+      "prior_sigma": 4.43,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_mu": 21.39,
+      "prior_sigma": 3.68,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_mu": 21.15,
+      "prior_sigma": 3.35,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_mu": 20.02,
+      "prior_sigma": 4.22,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_mu": 19.92,
+      "prior_sigma": 3.23,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_mu": 20.4,
+      "prior_sigma": 3.95,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_mu": 20.82,
+      "prior_sigma": 3.26,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_mu": 18.99,
+      "prior_sigma": 3.47,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_mu": 20.55,
+      "prior_sigma": 2.93,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_mu": 12.67,
+      "prior_sigma": 5.18,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "anis yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
+      "prior_mu": 12.14,
+      "prior_sigma": 5.25,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "United States",
+      "path": "northamerica/unitedstates",
+      "prior_mu": 20.42,
+      "prior_sigma": 4.65,
+      "prior_n": 2
+    }
+  ]
+}

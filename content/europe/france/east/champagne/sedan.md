@@ -5,6 +5,7 @@ latitude: 49.7034
 longitude: 4.9433
 title: Sedan
 type: location
+score: 0.45
 ---
 
 Sedan sits on the Meuse river in the Ardennes, close to the Belgian border — best known for the Château Fort de Sedan, which claims to be the largest medieval fortified castle in Europe. The castle is genuinely impressive: 35,000 square metres spread across seven floors, from the dungeons up to the Princes' Palace, and the ramparts offer sweeping views over the town and river. It doubles as a hotel, if you want to sleep inside the walls.

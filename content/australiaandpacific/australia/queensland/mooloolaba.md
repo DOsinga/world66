@@ -5,6 +5,7 @@ latitude: -26.685257
 longitude: 153.113185
 title: Mooloolaba
 type: location
+score: 0.57
 ---
 
 Mooloolaba is one of the Sunshine Coast's most popular beach towns, sitting about 100 km north of Brisbane on Queensland's coast. The beach is a long, sheltered curve of golden sand that faces north, making it calmer than the more exposed surf breaks further up the coast. The Mooloolaba Esplanade runs behind the beach with a strip of restaurants, cafes, and shops.

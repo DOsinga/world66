@@ -1,0 +1,200 @@
+{
+  "round": 1340,
+  "timestamp": "2026-04-12T22:22:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florida",
+      "path": "northamerica/unitedstates/florida",
+      "prior_rank": 435,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_rank": 1624,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_rank": 2031,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_rank": 1739,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_rank": 2098,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_rank": 2986,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_rank": 2237,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_rank": 1486,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/centralspain/caceres",
+      "prior_rank": 966,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/grlitz",
+      "prior_rank": 1323,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_rank": 800,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_rank": 1931,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_rank": 1361,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_rank": 3299,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "San Felice Circeo",
+      "path": "europe/italy/lazio/san_felice_circeo",
+      "prior_rank": 2967,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_rank": 3610,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_rank": 2985,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Perpignan",
+      "path": "europe/france/midi/pyrenees/perpignan",
+      "prior_rank": 2822,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_rank": 3297,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Saint-Pierre",
+      "path": "northamerica/martinique/saintpierre",
+      "prior_rank": 2083,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_rank": 3632,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kalahari Desert",
+      "path": "africa/botswana/kalaharidesert",
+      "prior_rank": 1771,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_rank": 2013,
+      "prior_wins": 77,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Alpine County",
+      "path": "northamerica/unitedstates/california/highsierra/alpinecounty",
+      "prior_rank": 1053,
+      "prior_wins": 53,
+      "prior_n": 3
+    }
+  ]
+}

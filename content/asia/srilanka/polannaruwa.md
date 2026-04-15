@@ -5,6 +5,7 @@ latitude: 7.9403
 longitude: 81.0188
 title: Polonnaruwa
 type: location
+score: 0.65
 ---
 
 Polonnaruwa was the second capital of ancient Sinhalese Sri Lanka, thriving from about 1070 to 1300 AD. The ruins are more compact and better preserved than those at Anuradhapura, making them easier to explore in a day. The site is a UNESCO World Heritage Site and one of the highlights of the Cultural Triangle.

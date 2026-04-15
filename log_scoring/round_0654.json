@@ -1,0 +1,200 @@
+{
+  "round": 654,
+  "timestamp": "2026-04-12T10:41:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_mu": 27.4027,
+      "prior_sigma": 5.3336,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_da",
+      "prior_mu": 22.0622,
+      "prior_sigma": 4.6647,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_mu": 21.9193,
+      "prior_sigma": 4.373,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_mu": 22.7336,
+      "prior_sigma": 5.8367,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_mu": 22.8931,
+      "prior_sigma": 5.6782,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_mu": 21.7121,
+      "prior_sigma": 4.7353,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_mu": 22.712,
+      "prior_sigma": 5.9356,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_mu": 22.2803,
+      "prior_sigma": 5.5562,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_mu": 22.435,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Koszeg",
+      "path": "europe/hungary/koszeg",
+      "prior_mu": 21.9035,
+      "prior_sigma": 5.6594,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/srvr",
+      "prior_mu": 22.619,
+      "prior_sigma": 5.936,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_mu": 21.3265,
+      "prior_sigma": 4.6081,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_mu": 22.8661,
+      "prior_sigma": 5.7101,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_mu": 22.7062,
+      "prior_sigma": 5.9479,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_mu": 21.5794,
+      "prior_sigma": 4.814,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Hungary",
+      "path": "europe/hungary",
+      "prior_mu": 22.4621,
+      "prior_sigma": 4.7251,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_mu": 22.4959,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_mu": 19.1821,
+      "prior_sigma": 5.048,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_mu": 22.3744,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Tatabanya",
+      "path": "europe/hungary/tatabanya",
+      "prior_mu": 21.7822,
+      "prior_sigma": 4.8175,
+      "prior_n": 2
+    }
+  ]
+}

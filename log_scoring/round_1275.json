@@ -1,0 +1,200 @@
+{
+  "round": 1275,
+  "timestamp": "2026-04-12T22:18:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Philippines",
+      "path": "asia/philippines",
+      "prior_rank": 7367,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_rank": 7470,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_rank": 7585,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Prefecture of Serres",
+      "path": "europe/greece/prefecture_of_serr",
+      "prior_rank": 3961,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_rank": 7528,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_rank": 7639,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_rank": 5807,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_rank": 7675,
+      "prior_wins": 18,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Chiusi Scalo",
+      "path": "europe/italy/tuscany/chiusiscalo",
+      "prior_rank": 6051,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_rank": 6452,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/skegness",
+      "prior_rank": 6770,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Irvine",
+      "path": "northamerica/unitedstates/california/orangecounty/irvine",
+      "prior_rank": 7808,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_rank": 7219,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_rank": 5353,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Shawano",
+      "path": "northamerica/unitedstates/wisconsin/shawano",
+      "prior_rank": 7381,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_rank": 4556,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "North Dakota",
+      "path": "northamerica/unitedstates/northdakota",
+      "prior_rank": 6969,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_rank": 5854,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_rank": 5092,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_rank": 7586,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_rank": 7182,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_rank": 6711,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_rank": 7499,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vialar",
+      "path": "africa/algeria/vialar",
+      "prior_rank": 7999,
+      "prior_wins": 7,
+      "prior_n": 3
+    }
+  ]
+}

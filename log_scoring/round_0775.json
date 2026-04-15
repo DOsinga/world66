@@ -1,0 +1,200 @@
+{
+  "round": 775,
+  "timestamp": "2026-04-12T10:47:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_mu": 29.9008,
+      "prior_sigma": 6.9058,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_mu": 24.808,
+      "prior_sigma": 6.0346,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sichuan Province",
+      "path": "asia/china/sichuanprovince",
+      "prior_mu": 22.7418,
+      "prior_sigma": 5.4179,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Arran",
+      "path": "europe/unitedkingdom/scotland/arran",
+      "prior_mu": 21.9444,
+      "prior_sigma": 3.3999,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Borgo maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_mu": 19.8614,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "O Saln\u00e9s (Salnes Valley)",
+      "path": "europe/spain/northernspain/o_salns_salnes",
+      "prior_mu": 21.4783,
+      "prior_sigma": 4.4867,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_mu": 21.7955,
+      "prior_sigma": 4.553,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/newcastle_upon_tyn",
+      "prior_mu": 22.8186,
+      "prior_sigma": 5.5696,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Campo de Gibraltar",
+      "path": "europe/spain/andalucia/gibraltar_field",
+      "prior_mu": 22.4511,
+      "prior_sigma": 5.6718,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/ceriale",
+      "prior_mu": 22.3169,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang",
+      "prior_mu": 21.3889,
+      "prior_sigma": 3.9052,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Taunton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/taunton",
+      "prior_mu": 20.8263,
+      "prior_sigma": 3.472,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Muskoka",
+      "path": "northamerica/canada/ontario/muskoka",
+      "prior_mu": 23.0095,
+      "prior_sigma": 5.7303,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Calamba",
+      "path": "asia/philippines/calamba",
+      "prior_mu": 22.367,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Naumburg",
+      "path": "europe/germany/thuringia/naumburg",
+      "prior_mu": 22.3498,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_mu": 22.3772,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_mu": 21.6324,
+      "prior_sigma": 4.7591,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_mu": 26.8009,
+      "prior_sigma": 4.5314,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "city",
+      "path": "northamerica/unitedstates/wisconsin/city",
+      "prior_mu": 19.3653,
+      "prior_sigma": 4.0388,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mustafabad",
+      "path": "asia/pakistan/soon_valley/mustafabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_mu": 18.651,
+      "prior_sigma": 4.9822,
+      "prior_n": 2
+    }
+  ]
+}

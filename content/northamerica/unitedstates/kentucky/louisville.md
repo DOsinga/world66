@@ -5,6 +5,7 @@ latitude: 38.2542
 longitude: -85.7594
 done:
   location_cleanup: 2026-04-06
+score: 0.49
 ---
 
 Louisville sits at the crossroads of the urban north and the rural south, and it feels like both. The largest city in Kentucky, it has a vibrant music scene, a growing arts community, and a bourbon culture that runs deep — this is the gateway to the Kentucky Bourbon Trail, and distilleries line the downtown Whiskey Row.

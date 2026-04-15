@@ -1,0 +1,200 @@
+{
+  "round": 1906,
+  "timestamp": "2026-04-13T14:35:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hawaii",
+      "path": "northamerica/unitedstates/hawaii",
+      "prior_score": 14.886,
+      "prior_variance": 0.711028,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland",
+      "prior_score": 12.4837,
+      "prior_variance": 0.563352,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichenitza",
+      "prior_score": 9.0735,
+      "prior_variance": 0.451735,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 11.4789,
+      "prior_variance": 0.428035,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_score": 12.1792,
+      "prior_variance": 0.638829,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 2.435,
+      "prior_variance": 0.207427,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.3718,
+      "prior_variance": 0.249769,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_score": 3.4652,
+      "prior_variance": 0.270421,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -0.5283,
+      "prior_variance": 0.239001,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mozambique",
+      "path": "africa/mozambique",
+      "prior_score": -3.0739,
+      "prior_variance": 0.343371,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_score": 0.1017,
+      "prior_variance": 0.296303,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": 1.541,
+      "prior_variance": 0.189332,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_score": 0.1528,
+      "prior_variance": 0.335317,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_score": -1.2533,
+      "prior_variance": 0.289212,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -1.8873,
+      "prior_variance": 0.273856,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_score": -2.1861,
+      "prior_variance": 0.24827,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_score": -0.3398,
+      "prior_variance": 0.326492,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverp/clitheroe",
+      "prior_score": -1.7274,
+      "prior_variance": 0.249204,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.7143,
+      "prior_variance": 0.272873,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "O Ribeiro",
+      "path": "europe/spain/galicia/o_ribeiro",
+      "prior_score": 0.1854,
+      "prior_variance": 0.302872,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Aiea",
+      "path": "northamerica/unitedstates/hawaii/aiea",
+      "prior_score": -2.0231,
+      "prior_variance": 0.265024,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -3.1498,
+      "prior_variance": 0.310568,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zurzach",
+      "path": "europe/switzerland/zurzach",
+      "prior_score": -1.5177,
+      "prior_variance": 0.291769,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -4.4541,
+      "prior_variance": 0.315438,
+      "prior_n": 4
+    }
+  ]
+}

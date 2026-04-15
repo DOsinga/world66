@@ -1,0 +1,200 @@
+{
+  "round": 1814,
+  "timestamp": "2026-04-13T10:53:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 7.9286,
+      "prior_variance": 0.353743,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 5.1202,
+      "prior_variance": 0.285496,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cape Verde",
+      "path": "africa/capeverde",
+      "prior_score": 4.3397,
+      "prior_variance": 0.34372,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/amelia_island",
+      "prior_score": 0.8336,
+      "prior_variance": 0.271508,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_score": 2.1491,
+      "prior_variance": 0.316716,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": 0.1507,
+      "prior_variance": 0.352045,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/northland/cape_reinga",
+      "prior_score": 3.2643,
+      "prior_variance": 0.39466,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": 0.5283,
+      "prior_variance": 0.232412,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": 0.6629,
+      "prior_variance": 0.123543,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/eastbourne",
+      "prior_score": 0.1608,
+      "prior_variance": 0.32253,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_score": 0.8998,
+      "prior_variance": 0.445646,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": -1.6991,
+      "prior_variance": 0.506182,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Devonport Tasmania Australia",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -0.6166,
+      "prior_variance": 0.300906,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -0.3015,
+      "prior_variance": 0.279665,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.4857,
+      "prior_variance": 0.178683,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Dessau",
+      "path": "europe/germany/saxonyanhalt/dessau",
+      "prior_score": -2.3862,
+      "prior_variance": 0.370221,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -0.817,
+      "prior_variance": 0.330572,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.2645,
+      "prior_variance": 0.255989,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Quincy",
+      "path": "northamerica/unitedstates/california/shastacascade/quincy",
+      "prior_score": -3.4983,
+      "prior_variance": 0.338702,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_score": -5.5506,
+      "prior_variance": 0.32458,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_score": -2.8328,
+      "prior_variance": 0.410573,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sawantwadi",
+      "path": "asia/india/maharashtra/sawantwadi",
+      "prior_score": -1.8943,
+      "prior_variance": 0.28992,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_score": -3.9801,
+      "prior_variance": 0.419796,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Galdogob",
+      "path": "africa/somalia/galdogob",
+      "prior_score": -11.1882,
+      "prior_variance": 0.460989,
+      "prior_n": 4
+    }
+  ]
+}

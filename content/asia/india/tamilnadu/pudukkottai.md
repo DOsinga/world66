@@ -5,6 +5,7 @@ latitude: 10.290307
 longitude: 78.817362
 title: Pudukkottai
 type: location
+score: 0.35
 ---
 
 Pudukkottai is a small town in central Tamil Nadu that was the capital of the Pudukkottai princely state, one of the few in British India that was never directly annexed. The Tondaiman Rajas maintained their independence until 1948.

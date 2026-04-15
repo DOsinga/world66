@@ -5,6 +5,7 @@ latitude: 47.139286
 longitude: 9.522796
 title: Vaduz
 type: location
+score: 0.54
 ---
 
 Vaduz is the capital of Liechtenstein and the focus of most visits to the country. It is not a large place — the population is around 5,500 — but it has good museums, a pleasant pedestrian zone, and the royal castle looming above it all on a cliff.

@@ -5,6 +5,7 @@ latitude: 38.746656
 longitude: -105.178315
 title: Cripple Creek
 type: location
+score: 0.46
 ---
 
 Cripple Creek is a former gold mining town at 9,494 feet in the Colorado Rockies, about an hour's scenic drive west from [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings). The drive takes you around the back of Pikes Peak and up near the tree line — bring layers, because snow and sunshine can happen on the same summer day.

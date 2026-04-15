@@ -5,6 +5,7 @@ latitude: 65.682636
 longitude: -18.091299
 title: Akureyri
 type: location
+score: 0.62
 ---
 
 Akureyri is Iceland’s second-largest town, known to Icelanders as the Capital of the North. It sits at the head of Eyjafjörður, the longest fjord in Iceland, about 380 km by road from Reykjavík — though a short domestic flight makes it easily accessible. Despite having only around 20,000 people, Akureyri has a disproportionately active cultural life: galleries, an arts museum, a folklore museum, a botanical garden (at 65°N, one of the world’s most northerly), and a theatre company that runs through the winter.

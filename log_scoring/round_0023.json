@@ -1,0 +1,200 @@
+{
+  "round": 23,
+  "timestamp": "2026-04-11T19:25:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iraklion",
+      "path": "europe/greece/iraklion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_mu": 22.9,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/borkum",
+      "prior_mu": 22.27,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/la_mancha/talavera_de_la_rei",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "1",
+      "path": "europe/georgia/tbilisi/1",
+      "prior_mu": 19.26,
+      "prior_sigma": 5.31,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_mu": 22.64,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_mu": 22.7,
+      "prior_sigma": 5.69,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/chiautempan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Hemet",
+      "path": "northamerica/unitedstates/california/orangecounty/hemet",
+      "prior_mu": 22.52,
+      "prior_sigma": 5.67,
+      "prior_n": 1
+    }
+  ]
+}

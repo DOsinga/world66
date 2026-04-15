@@ -1,0 +1,200 @@
+{
+  "round": 774,
+  "timestamp": "2026-04-12T10:47:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Busan",
+      "path": "asia/southkorea/pusan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_mu": 23.0483,
+      "prior_sigma": 5.5611,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "La Gomera",
+      "path": "europe/spain/canaryislands/lagomera",
+      "prior_mu": 21.905,
+      "prior_sigma": 4.7349,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_mu": 21.5137,
+      "prior_sigma": 4.2935,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Trebbia Valley",
+      "path": "europe/italy/liguria/trebbiavalley",
+      "prior_mu": 22.3983,
+      "prior_sigma": 5.9445,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_mu": 21.4356,
+      "prior_sigma": 4.6513,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_mu": 24.4492,
+      "prior_sigma": 5.8193,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_mu": 22.3383,
+      "prior_sigma": 5.3043,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "L'Anse aux Meadows",
+      "path": "northamerica/canada/newfoundland/lanseauxmeadows",
+      "prior_mu": 21.7315,
+      "prior_sigma": 4.8441,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_mu": 21.4939,
+      "prior_sigma": 4.7688,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Big pine key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_mu": 22.4256,
+      "prior_sigma": 5.774,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_mu": 21.4019,
+      "prior_sigma": 4.6114,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_mu": 21.6022,
+      "prior_sigma": 4.7145,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Azad Kashmir",
+      "path": "asia/pakistan/azad_kashmir",
+      "prior_mu": 24.7212,
+      "prior_sigma": 5.1303,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Practical Information",
+      "path": "europe/spain/andalucia/granada/usefuladdresses",
+      "prior_mu": 18.8595,
+      "prior_sigma": 5.0043,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "United States",
+      "path": "northamerica/unitedstates",
+      "prior_mu": 18.8966,
+      "prior_sigma": 3.1766,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_mu": 21.2123,
+      "prior_sigma": 4.0613,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kamen",
+      "path": "europe/germany/northrhinewestphalia/kamen",
+      "prior_mu": 21.4513,
+      "prior_sigma": 4.3311,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_mu": 21.7575,
+      "prior_sigma": 5.3919,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Nocka Nocka Land",
+      "path": "europe/ireland/cork/nockanockaland",
+      "prior_mu": 19.5079,
+      "prior_sigma": 5.2907,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "TORDHER",
+      "path": "asia/pakistan/karachi/tordher",
+      "prior_mu": 20.9883,
+      "prior_sigma": 4.5882,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Somalia",
+      "path": "africa/somalia",
+      "prior_mu": 18.0475,
+      "prior_sigma": 6.5219,
+      "prior_n": 1
+    }
+  ]
+}

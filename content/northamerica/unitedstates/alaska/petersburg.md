@@ -5,6 +5,7 @@ latitude: 56.8125
 longitude: -132.9553
 title: Petersburg
 type: location
+score: 0.45
 ---
 
 Petersburg is the "Little Norway" of Alaska, a small fishing town on Mitkof Island in the Inside Passage. It was founded by a Norwegian immigrant and still celebrates its heritage with Norwegian Independence Day parades on May 17th and dances at the Sons of Norway Hall.

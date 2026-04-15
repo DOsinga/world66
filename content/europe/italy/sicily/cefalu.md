@@ -5,6 +5,7 @@ latitude: 38.0388
 longitude: 14.0217
 title: Cefalù
 type: location
+score: 0.76
 ---
 
 Cefalù is a small Norman town on Sicily's north coast, squeezed between a vast golden-sand beach and a sheer limestone rock that drops almost vertically into the sea. It sits roughly halfway between Palermo and Messina — compact, walkable, and largely free of the heavy industry that scars other Sicilian port towns.

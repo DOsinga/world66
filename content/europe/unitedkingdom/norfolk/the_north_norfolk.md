@@ -5,6 +5,7 @@ latitude: 52.95
 longitude: 0.9
 title: The North Norfolk Coast
 type: location
+score: 0.53
 ---
 
 The North Norfolk Coast is one of England's most rewarding stretches of coastline — an Area of Outstanding Natural Beauty that runs from Hunstanton in the west to Cromer in the east. Unlike the sandy resort beaches further south, this coast is defined by salt marshes, tidal creeks, dune systems, and shingle banks, with the sea often invisible from the land.

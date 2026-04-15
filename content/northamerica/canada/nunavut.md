@@ -1,8 +1,11 @@
 ---
-title: "Nunavut"
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 65.037773
 longitude: -92.554079
+score: 0.42
+title: Nunavut
+type: location
 ---
 
 Nunavut is Canada's newest and largest territory, established on April 1, 1999 through the largest Indigenous land claim agreement in Canadian history. It covers about 2 million square kilometres — roughly one-fifth of Canada's total landmass — and yet has a population of only about 40,000 people, predominantly Inuit.

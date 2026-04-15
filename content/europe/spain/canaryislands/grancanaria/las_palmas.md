@@ -5,6 +5,7 @@ latitude: 28.1008
 longitude: -15.4147
 title: Las Palmas de Gran Canaria
 type: location
+score: 0.65
 ---
 
 Las Palmas is the capital of Gran Canaria and one of Spain's largest cities, with around 400,000 people. Most visitors staying in the southern resorts never bother making the 50-kilometre trip north, which is their loss.

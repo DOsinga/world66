@@ -1,0 +1,200 @@
+{
+  "round": 681,
+  "timestamp": "2026-04-12T10:42:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mombasa",
+      "path": "africa/kenya/mombasa",
+      "prior_mu": 22.9909,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_mu": 22.4928,
+      "prior_sigma": 5.5602,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_mu": 22.7144,
+      "prior_sigma": 5.7048,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_mu": 23.5283,
+      "prior_sigma": 5.8877,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_mu": 22.5765,
+      "prior_sigma": 5.5045,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_mu": 22.2485,
+      "prior_sigma": 4.7333,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_mu": 21.6933,
+      "prior_sigma": 4.6905,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "North of Mombasa",
+      "path": "africa/kenya/thecoast/northofmombasa",
+      "prior_mu": 21.8793,
+      "prior_sigma": 4.8321,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "The Coast",
+      "path": "africa/kenya/thecoast",
+      "prior_mu": 22.5093,
+      "prior_sigma": 5.8751,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_mu": 22.0461,
+      "prior_sigma": 4.6981,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Maralal",
+      "path": "africa/kenya/northernkenya/maralal",
+      "prior_mu": 22.4017,
+      "prior_sigma": 5.3269,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_mu": 21.6393,
+      "prior_sigma": 4.7337,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "The Lakes",
+      "path": "africa/kenya/lakes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Northern Kenya",
+      "path": "africa/kenya/northernkenya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_mu": 21.8416,
+      "prior_sigma": 4.5964,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Webuye",
+      "path": "africa/kenya/westernkenya/webuye",
+      "prior_mu": 22.1649,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Western Kenya",
+      "path": "africa/kenya/westernkenya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kenya",
+      "path": "africa/kenya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

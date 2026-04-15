@@ -1,0 +1,200 @@
+{
+  "round": 2332,
+  "timestamp": "2026-04-13T16:32:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 5.7443,
+      "prior_variance": 0.258164,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Paradise Gulf",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf",
+      "prior_score": 3.0193,
+      "prior_variance": 0.25031,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Hainan island",
+      "path": "asia/china/hainanisland",
+      "prior_score": 2.475,
+      "prior_variance": 0.257972,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 6.1873,
+      "prior_variance": 0.309777,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_score": 1.7902,
+      "prior_variance": 0.210545,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_score": 4.2545,
+      "prior_variance": 0.244392,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 3.3402,
+      "prior_variance": 0.214927,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": 1.8263,
+      "prior_variance": 0.238571,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea",
+      "prior_score": 1.8986,
+      "prior_variance": 0.286414,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Shenandoah",
+      "path": "northamerica/unitedstates/virginia/shenandoah",
+      "prior_score": 1.0236,
+      "prior_variance": 0.248449,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.8592,
+      "prior_variance": 0.14682,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 2.3919,
+      "prior_variance": 0.228895,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Astorga",
+      "path": "europe/spain/astorga",
+      "prior_score": 1.5947,
+      "prior_variance": 0.151028,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 2.5142,
+      "prior_variance": 0.251636,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kitakyushu/kokura",
+      "prior_score": 0.4796,
+      "prior_variance": 0.221744,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.4942,
+      "prior_variance": 0.24084,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -0.2626,
+      "prior_variance": 0.222048,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": 0.2865,
+      "prior_variance": 0.217145,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Mangawhai heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 0.5246,
+      "prior_variance": 0.206811,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -1.4155,
+      "prior_variance": 0.213513,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_cit",
+      "prior_score": -0.6723,
+      "prior_variance": 0.233684,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.3577,
+      "prior_variance": 0.233554,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_score": -0.9439,
+      "prior_variance": 0.229747,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -2.1634,
+      "prior_variance": 0.224096,
+      "prior_n": 6
+    }
+  ]
+}

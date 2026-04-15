@@ -5,6 +5,7 @@ latitude: 67.692237
 longitude: 26.728139
 title: Lapland
 type: location
+score: 0.71
 ---
 
 Finnish Lapland is the northernmost province of Finland — and Europe's last true wilderness. Half a million reindeer outnumber the 200,000 human inhabitants. The landscape is all lakes, rivers, birch forests, and fell mountains, with tiny villages scattered across an enormous territory. It is the home of Santa Claus (officially, in Rovaniemi), and the Aurora Borealis on a clear winter night is among the most extraordinary sights on earth.

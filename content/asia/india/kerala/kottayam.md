@@ -5,6 +5,7 @@ latitude: 9.628738
 longitude: 76.645533
 title: Kottayam
 type: location
+score: 0.46
 ---
 
 Kottayam sits between the backwaters and the hills, surrounded by rubber plantations, rice paddies and lakes. Known as the "land of lakes, latex and letters," it has one of the highest literacy rates in India and is home to several prominent newspapers and publishing houses.

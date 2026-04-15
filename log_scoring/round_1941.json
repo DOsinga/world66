@@ -1,0 +1,200 @@
+{
+  "round": 1941,
+  "timestamp": "2026-04-13T15:56:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas",
+      "prior_score": 4.9365,
+      "prior_variance": 0.376871,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Helsingor",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 2.8336,
+      "prior_variance": 0.415607,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 1.8314,
+      "prior_variance": 0.302221,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 1.0035,
+      "prior_variance": 0.301149,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 1.5402,
+      "prior_variance": 0.27801,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": 0.6972,
+      "prior_variance": 0.230814,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 0.5137,
+      "prior_variance": 0.295657,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.0278,
+      "prior_variance": 0.300436,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_score": 1.061,
+      "prior_variance": 0.292341,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": 0.6502,
+      "prior_variance": 0.270554,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Jermuk",
+      "path": "europe/armenia/jermuk",
+      "prior_score": -1.2123,
+      "prior_variance": 0.246468,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_score": -0.3674,
+      "prior_variance": 0.307801,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_score": -4.1816,
+      "prior_variance": 0.368361,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/worcester",
+      "prior_score": -2.8156,
+      "prior_variance": 0.302793,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -2.7991,
+      "prior_variance": 0.325866,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "North Bend",
+      "path": "northamerica/unitedstates/oregon/north_bend",
+      "prior_score": -2.0404,
+      "prior_variance": 0.254185,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Red Bank",
+      "path": "northamerica/unitedstates/newjersey/redbank",
+      "prior_score": -2.368,
+      "prior_variance": 0.330664,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_score": -3.6485,
+      "prior_variance": 0.286843,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sawantwadi",
+      "path": "asia/india/maharashtra/sawantwadi",
+      "prior_score": -2.5421,
+      "prior_variance": 0.294249,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Iligan City",
+      "path": "asia/philippines/mindanaoisland/iligan_city",
+      "prior_score": -1.4095,
+      "prior_variance": 0.240501,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -6.7962,
+      "prior_variance": 0.491938,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -6.57,
+      "prior_variance": 0.338632,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.3877,
+      "prior_variance": 0.336856,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Lula",
+      "path": "northamerica/unitedstates/mississippi/lula",
+      "prior_score": -7.8097,
+      "prior_variance": 0.567705,
+      "prior_n": 5
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 25.1288
 longitude: 56.3264
 done:
   location_cleanup: 2026-04-02
+score: 0.4
 ---
 
 Fujairah is the UAE's quiet outlier. While Dubai and Abu Dhabi chase skylines and superlatives, this small emirate on the Gulf of Oman coast goes about its business against a backdrop of the rugged Hajar Mountains. It is the only emirate that sits entirely on the eastern seaboard, which means Indian Ocean waters instead of the shallow Persian Gulf — clearer, deeper, and better for diving.

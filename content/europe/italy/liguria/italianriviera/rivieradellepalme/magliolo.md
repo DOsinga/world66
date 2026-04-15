@@ -1,10 +1,11 @@
 ---
-title: "Magliolo"
+title: Magliolo
 type: location
 latitude: 44.1915
 longitude: 8.2504
 done:
   location_cleanup: 2026-04-10
+score: 0.37
 ---
 
 Magliolo is a quiet rural village inland from [Pietra Ligure](/europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure), sitting on the left bank of the stream that shares its name. The economy runs on agriculture and forestry, much as it has for centuries.

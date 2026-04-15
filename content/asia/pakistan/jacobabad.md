@@ -5,6 +5,7 @@ latitude: 28.281309
 longitude: 68.436436
 title: Jacobabad
 type: location
+score: 0.21
 ---
 
 Jacobabad is a district capital in northern Sindh, near the Balochistan border. Founded in the 19th century by General John Jacob, a British military engineer who built irrigation canals and established the town as an administrative center, it remains one of the hottest inhabited places on earth — summer temperatures regularly exceed 50°C.

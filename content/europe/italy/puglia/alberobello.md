@@ -5,6 +5,7 @@ latitude: 40.784124
 longitude: 17.237703
 title: Alberobello
 type: location
+score: 0.7
 ---
 
 At first sight, you might think that you ended up in a fairytale and that within ample seconds, several dwarfs and elfs will come out of the white washed little houses with their cone-shaped roofs. When you come to think about it, you know that you’ve arrived in Alberobella.

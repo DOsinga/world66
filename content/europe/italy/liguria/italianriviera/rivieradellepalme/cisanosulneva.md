@@ -5,6 +5,7 @@ latitude: 44.0864
 longitude: 8.1474
 title: Cisano sul Neva
 type: location
+score: 0.46
 ---
 
 A medieval village on the left bank of the Neva, upstream of its confluence with the Centa. Cisano still has its original quadrangular plan, with a tower set at each corner of the settlement. The parish church of Santa Maria Maddalena stands opposite the civic tower, which was converted from a late Romanesque campanile.

@@ -5,6 +5,7 @@ latitude: 53.6917
 longitude: -1.3106
 title: Pontefract
 type: location
+score: 0.42
 ---
 
 Pontefract is a compact market town in West Yorkshire, best known for two things: a ruined castle with a grim royal past and the liquorice sweets that have been made here for centuries. Neither claim to fame is especially glamorous, but both are genuinely distinctive — you won't find many other towns where medieval regicide and confectionery are the twin pillars of local identity.

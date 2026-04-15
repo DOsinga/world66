@@ -1,0 +1,200 @@
+{
+  "round": 923,
+  "timestamp": "2026-04-12T14:50:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 6.134,
+      "prior_variance": 0.88913,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 9.2167,
+      "prior_variance": 3.181019,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Cape Cod",
+      "path": "northamerica/unitedstates/massachusetts/capecod",
+      "prior_score": -12.1659,
+      "prior_variance": 8.276266,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 4.8099,
+      "prior_variance": 1.475189,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Lakes District",
+      "path": "southamerica/chile/lakesdistrict",
+      "prior_score": 6.2936,
+      "prior_variance": 1.006436,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Villarrica",
+      "path": "southamerica/chile/villarrica",
+      "prior_score": 3.2759,
+      "prior_variance": 0.80392,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.2736,
+      "prior_variance": 0.736992,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Anchorage",
+      "path": "northamerica/unitedstates/alaska/anchorage",
+      "prior_score": 3.0662,
+      "prior_variance": 1.25161,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Texas",
+      "path": "northamerica/unitedstates/texas",
+      "prior_score": 3.588,
+      "prior_variance": 1.445771,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_score": 2.6732,
+      "prior_variance": 1.445479,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 2.9683,
+      "prior_variance": 1.571514,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "The Palouse",
+      "path": "northamerica/unitedstates/washington/the_palouse",
+      "prior_score": -1.1145,
+      "prior_variance": 1.357027,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.2481,
+      "prior_variance": 0.695979,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": -0.5565,
+      "prior_variance": 1.375613,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": -4.073,
+      "prior_variance": 0.694742,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": 3.7581,
+      "prior_variance": 1.374651,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": 0.3157,
+      "prior_variance": 1.204245,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -2.2106,
+      "prior_variance": 1.244536,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -4.0354,
+      "prior_variance": 0.725995,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_score": -2.6471,
+      "prior_variance": 0.740399,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -11.3121,
+      "prior_variance": 2.254644,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -1.3015,
+      "prior_variance": 1.326212,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -6.2162,
+      "prior_variance": 1.075501,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -13.3231,
+      "prior_variance": 7.278199,
+      "prior_n": 2
+    }
+  ]
+}

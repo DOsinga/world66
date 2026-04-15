@@ -1,8 +1,9 @@
 ---
-title: "New Jersey"
+title: New Jersey
 type: location
 latitude: 40.075738
 longitude: -74.404162
+score: 0.36
 ---
 
 New Jersey is just south of [New York](/northamerica/unitedstates/newyorkstate/newyork), just 'cross the river to the Jersey side' as Jersey born Bruce Springsteen sings. The state has a lot of things to explore: A big part of the Apalachian trail, the [Delaware Water Gap](/northamerica/unitedstates/newjersey/delawarewatergap) an exiting coast with [Atlantic City](/northamerica/unitedstates/newjersey/atlanticcity) - the gambling capital of the East Coast - and [Great Egg Harbor](/northamerica/unitedstates/newjersey/greateggharbor) as two very diverse highlights.

@@ -5,6 +5,7 @@ latitude: 14.6044
 longitude: 121.0299
 title: San Juan
 type: location
+score: 0.36
 ---
 
 San Juan is Metro Manila's smallest city by area, wedged between Mandaluyong, Quezon City, and [Manila](/asia/philippines/manila) itself. Most visitors pass through without stopping, which is their loss — this compact city punches above its weight in historical significance and has a livelier street scene than its modest size suggests.

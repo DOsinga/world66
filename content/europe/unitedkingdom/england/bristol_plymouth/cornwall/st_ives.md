@@ -5,6 +5,7 @@ latitude: 50.214906
 longitude: -5.479508
 title: St Ives
 type: location
+score: 0.61
 ---
 
 St Ives is an artists' town that happens to be one of the most beautiful seaside places in England. The light here — clear, constantly changing as clouds race in off the Atlantic — has drawn painters since the late nineteenth century, and the tradition continues. Tate St Ives, opened in 1993 on the site of a former gasworks above Porthmeor beach, is one of the best galleries outside London, focusing on modern and contemporary art with a particular emphasis on the St Ives School. Nearby, the Barbara Hepworth Sculpture Garden preserves the studio where Hepworth worked until her death in 1975.

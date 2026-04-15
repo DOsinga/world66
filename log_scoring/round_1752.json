@@ -1,0 +1,200 @@
+{
+  "round": 1752,
+  "timestamp": "2026-04-13T10:48:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 7.6456,
+      "prior_variance": 0.457227,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 5.84,
+      "prior_variance": 0.350529,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 4.4398,
+      "prior_variance": 0.354798,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 3.7863,
+      "prior_variance": 0.319803,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_p",
+      "prior_score": 2.9251,
+      "prior_variance": 0.312454,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Side",
+      "path": "asia/turkey/side",
+      "prior_score": 4.504,
+      "prior_variance": 0.305489,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": -0.431,
+      "prior_variance": 0.302849,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -0.5081,
+      "prior_variance": 0.331438,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": -0.4291,
+      "prior_variance": 0.300995,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -2.34,
+      "prior_variance": 0.293793,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": -0.1051,
+      "prior_variance": 0.341075,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -1.695,
+      "prior_variance": 0.37086,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -2.8377,
+      "prior_variance": 0.326197,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -2.8582,
+      "prior_variance": 0.349249,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.3373,
+      "prior_variance": 0.313548,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/ware",
+      "prior_score": -5.4951,
+      "prior_variance": 0.43632,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Brenham",
+      "path": "northamerica/unitedstates/texas/brenham",
+      "prior_score": -2.4958,
+      "prior_variance": 0.31647,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/sandiego/chulavista",
+      "prior_score": -2.9839,
+      "prior_variance": 0.35406,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -2.9368,
+      "prior_variance": 0.299809,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_score": -2.4418,
+      "prior_variance": 0.324499,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Asir",
+      "path": "asia/saudiarabia/asir",
+      "prior_score": -2.7974,
+      "prior_variance": 0.340141,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Indianopolis",
+      "path": "northamerica/unitedstates/indiana/indianopolis",
+      "prior_score": -0.9893,
+      "prior_variance": 0.347323,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -2.9049,
+      "prior_variance": 0.54347,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "lahore",
+      "path": "asia/pakistan/abbottabad/lahore",
+      "prior_score": -6.2138,
+      "prior_variance": 0.460686,
+      "prior_n": 4
+    }
+  ]
+}

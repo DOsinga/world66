@@ -5,6 +5,7 @@ latitude: -21.184403
 longitude: -175.12275
 title: Mu'a
 type: location
+score: 0.39
 ---
 
 [Tonga's](/australiaandpacific/tonga) most important ancient monuments are found at Mu'a, on the eastern coast of [Tongatapu](/australiaandpacific/tonga/tongatapu). This was the seat of the ancient Tu'i Tonga dynasty, believed to have been of divine origin. Captain James Cook landed here after sailing HMS Endeavour into the sheltered waters of the inner lagoon — a plaque marks the spot.

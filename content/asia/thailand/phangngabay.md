@@ -5,6 +5,7 @@ latitude: 8.291667
 longitude: 98.552773
 title: Phang Nga Bay
 type: location
+score: 0.8
 ---
 
 Phang Nga Bay is one of the most dramatic seascapes in Southeast Asia: dozens of sheer limestone karst towers rise straight out of calm, shallow emerald water between [Phuket](/asia/thailand/phuket) and [Krabi](/asia/thailand/krabi). The bay is part of a national marine park, and most visitors explore it by longtail boat or sea kayak.

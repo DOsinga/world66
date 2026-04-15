@@ -5,6 +5,7 @@ latitude: 46.0547
 longitude: 6.7754
 title: Sixt Fer-à-Cheval
 type: location
+score: 0.67
 ---
 
 Sixt-Fer-à-Cheval sits at the dead end of a long valley road through [Samoëns](/europe/france/alpes/samoens), deep in the Haute-Savoie — close to [Chamonix](/europe/france/alpes/chamonix) as the crow flies but a world away in atmosphere. Mont Blanc is visible from a tent pitched here, yet the crowds are not. That contrast is precisely the point.

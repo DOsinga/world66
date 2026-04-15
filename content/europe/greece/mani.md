@@ -5,6 +5,7 @@ latitude: 36.599502
 longitude: 22.423934
 done:
   location_cleanup: 2026-04-07
+score: 0.66
 ---
 
 The Mani peninsula is Greece at its most untamed. Jutting south from the Peloponnese into the Mediterranean, this rugged finger of land spent centuries as a place apart — settled by descendants of Sparta, never fully conquered by the Ottomans, and connected to the rest of Greece by road only in the 1960s. Stone tower houses rise from bare hillsides, Byzantine chapels hide in olive groves, and the beaches are among the best in southern Greece.

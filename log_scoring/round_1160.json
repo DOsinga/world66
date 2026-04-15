@@ -1,0 +1,200 @@
+{
+  "round": 1160,
+  "timestamp": "2026-04-12T22:12:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_rank": 1398,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_rank": 5447,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_rank": 2207,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Maun",
+      "path": "africa/botswana/maun",
+      "prior_rank": 2347,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_rank": 3831,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_rank": 4012,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_rank": 4508,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_rank": 4881,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_rank": 4974,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_rank": 2867,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_rank": 4898,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_rank": 3332,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Laurel Highlands",
+      "path": "northamerica/unitedstates/pennsylvania/laurel_highlands",
+      "prior_rank": 2194,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/sandiego/solanabeach",
+      "prior_rank": 2689,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Millaa Millaa",
+      "path": "australiaandpacific/australia/queensland/millaamillaa",
+      "prior_rank": 4028,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_rank": 5899,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_rank": 6112,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_rank": 3802,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_rank": 4749,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_rank": 2687,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_rank": 3951,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kelantan",
+      "path": "asia/malaysia/kelantan",
+      "prior_rank": 5437,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Jammu",
+      "path": "asia/india/jammuandkashmir/jammu",
+      "prior_rank": 3123,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Jakarta",
+      "path": "asia/indonesia/jakarta",
+      "prior_rank": 3567,
+      "prior_wins": 25,
+      "prior_n": 2
+    }
+  ]
+}

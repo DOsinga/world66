@@ -5,6 +5,7 @@ latitude: 41.139981
 longitude: -104.820246
 title: Cheyenne
 type: location
+score: 0.41
 ---
 
 Cheyenne is the capital and largest city of Wyoming, sitting at the edge of the Great Plains where they bump up against the Laramie Range. At around 6,000 feet elevation, it's a windswept, working city that wears its western heritage without pretense. The Wyoming State Capitol anchors downtown, and the annual Frontier Days rodeo — one of the oldest and largest in the world — turns the city into a genuine celebration every July.

@@ -5,6 +5,7 @@ latitude: 44.2714
 longitude: 8.4382
 title: Vado Ligure
 type: location
+score: 0.39
 ---
 
 Vado Ligure is a small industrial port town on the Riviera delle Palme, just west of Savona. It is not a typical tourist stop, but its Roman origins and handful of historic fortifications give it more character than the commercial port suggests.

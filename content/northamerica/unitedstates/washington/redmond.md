@@ -5,6 +5,7 @@ latitude: 47.669414
 longitude: -122.123877
 title: Redmond
 type: location
+score: 0.36
 ---
 
 Redmond is a suburb of Seattle on the eastern shore of Lake Sammamish, best known as the global headquarters of Microsoft. Nintendo of America is also based here. Despite its corporate identity, Redmond has a pleasant core around the Redmond Town Center mall and Marymoor Park — a large county park on the lake that hosts outdoor concerts and events through the summer.

@@ -5,6 +5,7 @@ latitude: 57.6101
 longitude: -1.8163
 title: Rattray Head
 type: location
+score: 0.42
 ---
 
 Rattray Head is a remote and windswept headland on the east coast of Buchan in Aberdeenshire — one of those places that rewards anyone willing to drive a little further than most. A 17-mile stretch of largely empty beach runs south from St Combs to [Peterhead](/europe/unitedkingdom/scotland/peterhead), and Rattray sits roughly in the middle.

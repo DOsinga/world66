@@ -5,6 +5,7 @@ latitude: 34.9314
 longitude: 128.0683
 title: Samcheunpo
 type: location
+score: 0.39
 ---
 
 Samcheunpo (now part of Sacheon City) is a small port town on the southern coast of South Korea, tucked between high rocky cliffs. Its residents used to boast of living in "the smallest city in Korea" — the city with the bare minimum population to qualify as such.

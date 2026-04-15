@@ -5,6 +5,7 @@ latitude: 44.894272
 longitude: 37.316887
 title: Anapa
 type: location
+score: 0.36
 ---
 
 Anapa sits at the northern end of Russia's Black Sea coast, where the flat Kuban steppe meets the first foothills of the Caucasus. It has wide sandy beaches — some stretching 600 metres deep — that are considered the best on the northern coast, and the shallow, warm water makes it Russia's most popular family resort.

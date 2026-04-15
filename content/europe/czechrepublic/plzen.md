@@ -5,6 +5,7 @@ latitude: 49.747741
 longitude: 13.377525
 title: Plzeň
 type: location
+score: 0.54
 ---
 
 Plzeň (Pilsen) is a place of pilgrimage for anyone who likes beer — this is where lager was invented. In 1842 the Bavarian brewer Josef Groll produced the first batch of pale lager in the town's new brewery, and the word "Pilsner" has been synonymous with the style ever since. The Pilsner Urquell Brewery, still operating on the original site, offers tours that end in the unfiltered cellars.

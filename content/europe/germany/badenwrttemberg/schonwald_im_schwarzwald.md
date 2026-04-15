@@ -1,8 +1,9 @@
 ---
-title: "Schonwald im Schwarzwald"
+title: Schonwald im Schwarzwald
 type: location
 latitude: 48.105768
 longitude: 8.195194
+score: 0.47
 ---
 
 Enjoy the beauty of nature, the romantic villages, and top European

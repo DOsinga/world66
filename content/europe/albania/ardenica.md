@@ -5,6 +5,7 @@ latitude: 40.818653
 longitude: 19.592689
 title: Ardenica
 type: location
+score: 0.41
 ---
 
 The Monastery of Ardenica stands on a pine-covered hill above the plain south of [Berat](/europe/albania/berat), commanding views in every direction. The monastery's main church, dedicated to St Mary, dates to the 14th century, with extensive interior frescoes added in the 18th century by the Zografi brothers, two of the most accomplished Albanian-Greek painters of the period.

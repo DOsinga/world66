@@ -5,6 +5,7 @@ latitude: 6.0535
 longitude: 80.221
 done:
   location_cleanup: 2026-04-05
+score: 0.55
 ---
 
 The south coast of Sri Lanka is the tropical-beach half of the island that most visitors come for — a long string of palm-fringed bays, fishing villages, and small Buddhist temples running from Galle in the west to Yala National Park in the south-east. The coast here escapes most of the monsoon rain that batters the rest of the island from May to September, which makes the south the country's high-season destination: the beaches are dry and the water clear when the rest of Sri Lanka is grey and flooded.

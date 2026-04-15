@@ -5,6 +5,7 @@ latitude: -15.786254
 longitude: 35.003569
 title: Blantyre
 type: location
+score: 0.35
 ---
 
 Blantyre is the commercial capital of [Malawi](/africa/malawi) and its largest city, spread across a series of hills in the southern part of the country. While [Lilongwe](/africa/malawi/lilongwe) serves as the political capital, Blantyre is where business happens -- and where most travellers pass through on their way to or from the south.

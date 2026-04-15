@@ -5,6 +5,7 @@ latitude: 39.703014
 longitude: 21.62536
 title: Kalambaka
 type: location
+score: 0.64
 ---
 
 Kalambaka is the town at the foot of the Meteora, one of the most extraordinary landscapes in Greece. The Meteora are massive sandstone pinnacles that rise from the Thessaly plain, topped by medieval monasteries that seem to defy gravity. Six monasteries are still active today, open to visitors in the mornings and again in the late afternoon, and together they are a UNESCO World Heritage Site.

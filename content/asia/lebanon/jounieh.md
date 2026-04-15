@@ -5,6 +5,7 @@ latitude: 33.9742
 longitude: 35.6201
 title: Jounieh
 type: location
+score: 0.49
 ---
 
 Think of a Lebanese Monte Carlo and you are close. Jounieh is the resort town where Beirutis go to have fun — casinos, beach clubs, restaurants and nightlife, all set against one of the most beautiful bays on the Lebanese coast, just 20 minutes north of [Beirut](/asia/lebanon/beirut).

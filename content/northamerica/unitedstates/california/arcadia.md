@@ -5,6 +5,7 @@ latitude: 34.136207
 longitude: -118.04015
 title: Arcadia
 type: location
+score: 0.41
 ---
 
 Arcadia sits about 20 miles northeast of downtown Los Angeles in the San Gabriel Valley, backed by the San Gabriel Mountains. It's a quiet, well-kept suburb that most visitors pass through on the way to somewhere else — but it has two attractions that make a deliberate stop worthwhile.

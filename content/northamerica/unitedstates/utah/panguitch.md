@@ -5,6 +5,7 @@ latitude: 37.82282
 longitude: -112.435756
 title: Panguitch
 type: location
+score: 0.46
 ---
 
 Panguitch is a small ranching town along the Sevier River in south-central Utah, straddling US-89 about 25 miles from the entrance to Bryce Canyon National Park. Most visitors use it as a base for exploring Bryce and the surrounding red-rock country — it has classic roadside motels, a handful of diners, and none of the resort-town polish of nearby Springdale or Moab.

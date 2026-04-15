@@ -1,0 +1,200 @@
+{
+  "round": 1556,
+  "timestamp": "2026-04-13T10:31:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/chiswick",
+      "prior_score": -1.8334,
+      "prior_variance": 0.365115,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -1.97,
+      "prior_variance": 0.298091,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Jesenice",
+      "path": "europe/slovenia/jesenice",
+      "prior_score": -2.4669,
+      "prior_variance": 0.446817,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_score": -0.8705,
+      "prior_variance": 0.4022,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -2.7564,
+      "prior_variance": 0.639807,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezon_province",
+      "prior_score": -0.9233,
+      "prior_variance": 0.307059,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_score": -1.6703,
+      "prior_variance": 0.39741,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_score": -3.2027,
+      "prior_variance": 0.353825,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_score": -2.066,
+      "prior_variance": 0.396177,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -5.9299,
+      "prior_variance": 0.380929,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -5.6353,
+      "prior_variance": 0.500746,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -5.819,
+      "prior_variance": 0.2095,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_score": -6.9137,
+      "prior_variance": 0.558235,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_score": -5.291,
+      "prior_variance": 0.400038,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -8.1091,
+      "prior_variance": 0.397139,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_score": -7.0352,
+      "prior_variance": 0.406199,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -7.8546,
+      "prior_variance": 0.583964,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_score": -9.7355,
+      "prior_variance": 0.430832,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_score": -9.1741,
+      "prior_variance": 0.630835,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "dera ghazi khan",
+      "path": "asia/pakistan/dera_ghazi_khan/dera_ghazi_khan_1",
+      "prior_score": -9.2814,
+      "prior_variance": 0.407294,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Rajar (Khushab)",
+      "path": "asia/pakistan/islamabad/rajar_khushab",
+      "prior_score": -10.2474,
+      "prior_variance": 0.606345,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "South Sudan",
+      "path": "africa/southsudan",
+      "prior_score": -11.3951,
+      "prior_variance": 0.661584,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Hindunetion",
+      "path": "northamerica/guatemala/language/hindunetion",
+      "prior_score": -10.8883,
+      "prior_variance": 0.757587,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Quality Inn New Haven",
+      "path": "northamerica/unitedstates/connecticut/quality_inn_new_ha",
+      "prior_score": -8.3966,
+      "prior_variance": 0.599641,
+      "prior_n": 5
+    }
+  ]
+}

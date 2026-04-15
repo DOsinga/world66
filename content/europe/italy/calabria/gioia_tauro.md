@@ -5,6 +5,7 @@ latitude: 38.424
 longitude: 15.899
 done:
   location_cleanup: 2026-04-06
+score: 0.36
 ---
 
 Gioia Tauro sits on the Tyrrhenian coast in the province of Reggio Calabria, the site of ancient Metauros, a Greek city of Magna Graecia. Today it is best known for its port, the second-largest container terminal in the Mediterranean after Rotterdam.

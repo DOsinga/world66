@@ -1,0 +1,200 @@
+{
+  "round": 1452,
+  "timestamp": "2026-04-12T22:28:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Uganda",
+      "path": "africa/uganda",
+      "prior_rank": 5329,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Gyumri",
+      "path": "europe/armenia/gyumri",
+      "prior_rank": 5137,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_rank": 6252,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_rank": 6669,
+      "prior_wins": 48,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Nord",
+      "path": "europe/france/nord",
+      "prior_rank": 7650,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur/wadi_matkhandoush",
+      "prior_rank": 8095,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_rank": 7158,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_rank": 6729,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_rank": 6691,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_rank": 6903,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Haryana",
+      "path": "asia/india/haryana",
+      "prior_rank": 7649,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_rank": 7199,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_rank": 6123,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_rank": 7447,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_rank": 5335,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_rank": 7723,
+      "prior_wins": 20,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_rank": 5906,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Val d'Or",
+      "path": "northamerica/canada/quebec/val_dor",
+      "prior_rank": 7247,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Castro Valley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/castrovalley",
+      "prior_rank": 6236,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverp/rochdale",
+      "prior_rank": 7065,
+      "prior_wins": 30,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_rank": 5900,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_rank": 6167,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_rank": 7805,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_rank": 5914,
+      "prior_wins": 34,
+      "prior_n": 5
+    }
+  ]
+}

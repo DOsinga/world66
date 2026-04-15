@@ -1,0 +1,200 @@
+{
+  "round": 497,
+  "timestamp": "2026-04-12T09:41:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_mu": 31.2768,
+      "prior_sigma": 5.0558,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Dinant",
+      "path": "europe/belgium/dinant",
+      "prior_mu": 21.6628,
+      "prior_sigma": 4.5837,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_mu": 21.4382,
+      "prior_sigma": 3.8492,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_mu": 21.4557,
+      "prior_sigma": 3.7872,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_mu": 21.7316,
+      "prior_sigma": 4.4106,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_mu": 22.9174,
+      "prior_sigma": 5.5935,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_mu": 21.561,
+      "prior_sigma": 4.5362,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "East Belgium",
+      "path": "europe/belgium/east_belgium",
+      "prior_mu": 21.4147,
+      "prior_sigma": 4.3541,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_mu": 22.0575,
+      "prior_sigma": 5.4371,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_mu": 22.5975,
+      "prior_sigma": 5.6583,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Nieuwpoort",
+      "path": "europe/belgium/nieuwpoort",
+      "prior_mu": 21.1334,
+      "prior_sigma": 3.9069,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_mu": 21.3999,
+      "prior_sigma": 4.067,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_mu": 22.2786,
+      "prior_sigma": 5.4526,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_mu": 21.3539,
+      "prior_sigma": 4.6901,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Beauvoorde",
+      "path": "europe/belgium/veurne/beauvoorde",
+      "prior_mu": 21.8467,
+      "prior_sigma": 4.5783,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_mu": 21.6791,
+      "prior_sigma": 4.5669,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_mu": 21.4682,
+      "prior_sigma": 4.7202,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Maasmechelen",
+      "path": "europe/belgium/maasmechelen",
+      "prior_mu": 21.1075,
+      "prior_sigma": 4.7286,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_mu": 21.3777,
+      "prior_sigma": 4.2277,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Roeselare",
+      "path": "europe/belgium/roeselare",
+      "prior_mu": 20.9156,
+      "prior_sigma": 3.4489,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Beveren",
+      "path": "europe/belgium/beveren",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_mu": 21.7621,
+      "prior_sigma": 5.6579,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Belgium",
+      "path": "europe/belgium",
+      "prior_mu": 21.386,
+      "prior_sigma": 4.4559,
+      "prior_n": 2
+    }
+  ]
+}

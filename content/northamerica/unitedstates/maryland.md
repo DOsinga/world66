@@ -1,6 +1,7 @@
 ---
-title: "Maryland"
+title: Maryland
 type: location
 latitude: 39.51624
 longitude: -76.938207
+score: 0.43
 ---

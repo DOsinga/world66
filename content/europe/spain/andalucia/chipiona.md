@@ -5,6 +5,7 @@ latitude: 36.735545
 longitude: -6.434822
 title: Chipiona
 type: location
+score: 0.52
 ---
 
 Chipiona is a simple, unpretentious beach resort on the Atlantic coast of [Andalucia](/europe/spain/andalucia), near the mouth of the Guadalquivir River. It has two spectacular beaches and great seafood restaurants — this is a place where you can eat fried fish and local prawns for very little money. Outside August, you can largely escape the crowds and experience a typical Spanish seaside town.

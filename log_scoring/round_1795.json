@@ -1,0 +1,200 @@
+{
+  "round": 1795,
+  "timestamp": "2026-04-13T10:51:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_prov",
+      "prior_score": 6.0781,
+      "prior_variance": 0.342404,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 3.5682,
+      "prior_variance": 0.274002,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Koh Mak",
+      "path": "asia/thailand/koh_mak",
+      "prior_score": 5.4415,
+      "prior_variance": 0.327812,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 4.4504,
+      "prior_variance": 0.324674,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 3.5123,
+      "prior_variance": 0.321545,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_score": 2.9943,
+      "prior_variance": 0.365579,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_score": 1.897,
+      "prior_variance": 0.357229,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "British Columbia",
+      "path": "northamerica/canada/britishcolumbia",
+      "prior_score": 6.8391,
+      "prior_variance": 0.360467,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 2.9617,
+      "prior_variance": 0.312149,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.2608,
+      "prior_variance": 0.32168,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": 0.1227,
+      "prior_variance": 0.326289,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/sandiego/oceanside",
+      "prior_score": 1.5647,
+      "prior_variance": 0.285806,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 2.6899,
+      "prior_variance": 0.36864,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Brandenburg",
+      "path": "europe/germany/brandenburg",
+      "prior_score": -1.1397,
+      "prior_variance": 0.374238,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Suffolk",
+      "path": "europe/unitedkingdom/suffolk",
+      "prior_score": -0.0432,
+      "prior_variance": 0.293429,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -1.2239,
+      "prior_variance": 0.376469,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": 0.585,
+      "prior_variance": 0.343093,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/severn_bore",
+      "prior_score": -0.3735,
+      "prior_variance": 0.3065,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_franc",
+      "prior_score": -3.3145,
+      "prior_variance": 0.29904,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Radford",
+      "path": "northamerica/unitedstates/virginia/radford",
+      "prior_score": -5.1846,
+      "prior_variance": 0.248548,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_score": -5.8034,
+      "prior_variance": 0.452036,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_score": -7.0913,
+      "prior_variance": 0.606758,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zacapu",
+      "path": "northamerica/mexico/yucatan/zacapu",
+      "prior_score": -5.6914,
+      "prior_variance": 0.369821,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.3696,
+      "prior_variance": 0.399232,
+      "prior_n": 4
+    }
+  ]
+}

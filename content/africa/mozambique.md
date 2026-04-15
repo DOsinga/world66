@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jcornelius" title="User:Jcornelius">Jcornelius</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.4
 ---
 
 Mozambique is located in Southern Africa on the coast between South Africa and [Tanzania](/africa/tanzania). It also shares a border with the landlocked countries [Malawi](/africa/malawi), [Zimbabwe](/africa/zimbabwe), [Swaziland](/africa/swaziland) and [Zambia](/africa/zambia). 

@@ -5,6 +5,7 @@ latitude: 48.635954
 longitude: -1.51146
 title: Mont-Saint-Michel
 type: location
+score: 0.82
 ---
 
 Mont-Saint-Michel is one of the most recognisable sights in Europe — a granite island topped by a medieval abbey, rising from vast tidal flats on the border of [Normandy](/europe/france/normandybrittany) and Brittany. At high tide the mount becomes an island; at low tide, the sea retreats to reveal kilometres of sand.

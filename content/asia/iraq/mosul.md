@@ -5,6 +5,7 @@ latitude: 36.343694
 longitude: 43.099716
 title: Mosul
 type: location
+score: 0.15
 ---
 
 Mosul is Iraq's second-largest city, straddling the Tigris in the far north of the country and long known as the Pearl of the North. It sits on the site of ancient Nineveh, capital of the Assyrian Empire, and for centuries was one of the most cosmopolitan cities in the Middle East — a place where Arab, Kurdish, Assyrian Christian, Turkmen, and Yazidi communities lived side by side.

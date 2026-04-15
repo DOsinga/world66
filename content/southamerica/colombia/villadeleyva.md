@@ -5,6 +5,7 @@ latitude: 5.662
 longitude: -73.5284
 done:
   location_cleanup: 2026-04-06
+score: 0.62
 ---
 
 Villa de Leyva is one of the finest colonial towns in Colombia, and it earns that distinction without effort. Its Plaza Mayor — one of the largest cobblestoned squares in South America — is surrounded by whitewashed buildings with orange-tiled roofs, and the whole ensemble has been protected as a national monument since 1954. About 100 kilometres north of Bogotá, it draws Colombians who want to escape the city, and foreign visitors who want to understand what Andean colonial life looked like.

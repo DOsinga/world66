@@ -5,6 +5,7 @@ latitude: 39.2757
 longitude: -76.8317
 title: Ellicott City
 type: location
+score: 0.39
 ---
 
 Ellicott City is one of the best-preserved mill towns in the United States, built into a steep granite gorge where the Patapsco River bends through Howard County, Maryland. Its Main Street drops sharply downhill in a tumble of 18th- and 19th-century stone buildings — a mill owner's mansion here, a granite tavern there — giving it a character quite unlike the flat suburban sprawl that surrounds it.

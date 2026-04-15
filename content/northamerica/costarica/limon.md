@@ -5,6 +5,7 @@ latitude: 9.9907
 longitude: -83.036
 title: Limon
 type: location
+score: 0.43
 ---
 
 Limón province covers the entire Caribbean coast of Costa Rica, from the Nicaraguan border in the north to the Panamanian border in the south. It has a distinct character from the rest of the country — Afro-Caribbean culture, English Creole spoken alongside Spanish, reggae and calypso, coconut-based cooking, and a slower pace.

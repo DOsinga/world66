@@ -5,6 +5,7 @@ latitude: 52.399
 longitude: 0.262
 title: Ely
 type: location
+score: 0.51
 ---
 
 Ely is a small cathedral city in the Cambridgeshire fens, about fifteen miles north of Cambridge. The city essentially exists because of its cathedral, and so do most of its visitors -- Ely Cathedral is one of the great medieval buildings of England.

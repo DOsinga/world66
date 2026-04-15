@@ -5,6 +5,7 @@ latitude: 23.6889
 longitude: 80.9685
 title: Bandhavgarh
 type: location
+score: 0.56
 ---
 
 Bandhavgarh National Park has one of the highest densities of Bengal tigers of any park in India, and your chances of spotting one here are better than almost anywhere else. Set in the Vindhya Hills of eastern [Madhya Pradesh](/asia/india/madhyapradesh), the park covers about 450 square kilometres of sal forest, grassland, and rocky hills, centred on an ancient fort that gives the park its name.

@@ -5,6 +5,7 @@ latitude: 37.2942
 longitude: -109.5512
 title: Bluff
 type: location
+score: 0.49
 ---
 
 Bluff is a tiny town wedged in a red-rock canyon along the San Juan River in southeastern Utah. Founded in 1880 by one of the last Mormon wagon train expeditions — the famous Hole-in-the-Rock pioneers who hauled their wagons down a near-vertical sandstone crack — Bluff has since evolved into something unexpected: a funky artist's colony with a handful of good places to eat and sleep.

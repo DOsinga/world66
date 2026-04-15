@@ -1,0 +1,200 @@
+{
+  "round": 1154,
+  "timestamp": "2026-04-12T22:12:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Negev",
+      "path": "asia/israel/negev",
+      "prior_rank": 4321,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "La Mancha",
+      "path": "europe/spain/la_mancha",
+      "prior_rank": 4228,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_rank": 4507,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_rank": 3700,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_rank": 6377,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_rank": 6585,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_rank": 3611,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_rank": 5889,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/tavistock",
+      "prior_rank": 5915,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Tann",
+      "path": "europe/switzerland/tann",
+      "prior_rank": 6395,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Millesimo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/millesimo",
+      "prior_rank": 4544,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_rank": 6004,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_rank": 6081,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mindanao island",
+      "path": "asia/philippines/mindanaoisland",
+      "prior_rank": 4527,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_rank": 4742,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Maasin City",
+      "path": "asia/philippines/southern_leyte/maasin_city",
+      "prior_rank": 5642,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_rank": 2451,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_rank": 5907,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Fort Worth",
+      "path": "northamerica/unitedstates/texas/fort_worth",
+      "prior_rank": 3878,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester",
+      "prior_rank": 5647,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/northampton",
+      "prior_rank": 4992,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_rank": 4425,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Limburg",
+      "path": "europe/germany/hessen/limburg",
+      "prior_rank": 2977,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_rank": 6416,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

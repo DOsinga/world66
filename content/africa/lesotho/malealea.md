@@ -5,6 +5,7 @@ latitude: -29.8299
 longitude: 27.6069
 title: Malealea
 type: location
+score: 0.44
 ---
 
 Malealea is a remote village in the highlands of Lesotho, reached through the spectacular Gates of Paradise Pass — a high rock gateway that signals your arrival into a landscape of sandstone cliffs and deep valleys. It's one of the best places in Lesotho to arrange pony treks into the surrounding mountains, following trails that link remote Basotho villages inaccessible by vehicle.

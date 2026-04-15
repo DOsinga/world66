@@ -1,0 +1,200 @@
+{
+  "round": 1779,
+  "timestamp": "2026-04-13T10:50:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 10.9431,
+      "prior_variance": 0.709002,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_score": 8.4378,
+      "prior_variance": 0.378965,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Costa Brava",
+      "path": "europe/spain/costa_brava",
+      "prior_score": 7.4601,
+      "prior_variance": 0.365294,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Exumas",
+      "path": "northamerica/bahamas/exumas",
+      "prior_score": 10.4497,
+      "prior_variance": 0.546181,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_score": 1.1467,
+      "prior_variance": 0.499646,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 5.963,
+      "prior_variance": 0.359966,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_score": 8.5566,
+      "prior_variance": 0.698955,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ancash",
+      "path": "southamerica/peru/ancash",
+      "prior_score": 1.978,
+      "prior_variance": 0.579707,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 4.8422,
+      "prior_variance": 0.384283,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": 2.706,
+      "prior_variance": 0.453943,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_score": 1.7401,
+      "prior_variance": 0.291182,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/hawkes_bay/hastings",
+      "prior_score": 1.4153,
+      "prior_variance": 0.246621,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Apostle Islands",
+      "path": "northamerica/unitedstates/michigan/apostleislands",
+      "prior_score": -4.2313,
+      "prior_variance": 0.67795,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 0.6275,
+      "prior_variance": 0.302126,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_score": -0.4286,
+      "prior_variance": 0.302779,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -0.3634,
+      "prior_variance": 0.30816,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
+      "prior_score": 1.5397,
+      "prior_variance": 0.292645,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -3.3417,
+      "prior_variance": 0.384819,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -2.9794,
+      "prior_variance": 0.37253,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Montrose",
+      "path": "northamerica/unitedstates/texas/houston/montrose",
+      "prior_score": -1.9938,
+      "prior_variance": 0.310816,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Greenhithe",
+      "path": "europe/unitedkingdom/england/greenhithe",
+      "prior_score": -4.513,
+      "prior_variance": 0.334672,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Madhya Pradesh",
+      "path": "asia/india/madhyapradesh",
+      "prior_score": -0.5923,
+      "prior_variance": 0.383079,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_score": -5.032,
+      "prior_variance": 0.279399,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "sarainkhet sarson",
+      "path": "asia/india/uttaranchal/sarainkhet_sarson",
+      "prior_score": -7.6475,
+      "prior_variance": 0.426335,
+      "prior_n": 4
+    }
+  ]
+}

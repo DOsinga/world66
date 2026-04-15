@@ -5,6 +5,7 @@ latitude: 33.8348
 longitude: -117.9117
 done:
   location_cleanup: 2026-04-07
+score: 0.47
 ---
 
 Anaheim exists because of Disneyland. Walt Disney built his Magic Kingdom among the orange groves in 1955, and the city has been defined by it ever since. The Disneyland Resort now includes two parks — Disneyland Park and Disney's California Adventure — along with the Downtown Disney shopping and dining district.

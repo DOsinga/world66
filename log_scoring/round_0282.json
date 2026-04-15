@@ -1,0 +1,200 @@
+{
+  "round": 282,
+  "timestamp": "2026-04-12T09:09:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Grenada",
+      "path": "northamerica/thecaribbean/grenada",
+      "prior_mu": 22.9074,
+      "prior_sigma": 5.7261,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Israel",
+      "path": "asia/israel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_mu": 22.6258,
+      "prior_sigma": 5.9367,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_mu": 22.4386,
+      "prior_sigma": 5.9019,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Belarus",
+      "path": "europe/belarus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Warwick",
+      "path": "northamerica/unitedstates/rhodeisland/warwick",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_mu": 22.1328,
+      "prior_sigma": 5.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/fresno",
+      "prior_mu": 22.7149,
+      "prior_sigma": 5.9489,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_mu": 22.6232,
+      "prior_sigma": 5.9364,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "bedford",
+      "path": "northamerica/unitedstates/ohio/bedford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

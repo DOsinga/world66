@@ -5,6 +5,7 @@ latitude: 37.270973
 longitude: -79.941431
 done:
   location_cleanup: 2026-04-05
+score: 0.42
 ---
 
 Roanoke is the largest city in western Virginia — a former railroad town of about 100,000 people tucked into a wide valley of the **Blue Ridge Mountains**, roughly midway between Washington DC and Knoxville on the Interstate 81 corridor. It grew up in the 1880s as the headquarters of the Norfolk & Western Railway, and the city's restored downtown still revolves around the 1882 **Hotel Roanoke** and the **Virginia Museum of Transportation**, which displays steam locomotives in an old freight station by the tracks.

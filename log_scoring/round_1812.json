@@ -1,0 +1,200 @@
+{
+  "round": 1812,
+  "timestamp": "2026-04-13T10:53:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_score": 6.4099,
+      "prior_variance": 0.418603,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Skye",
+      "path": "europe/unitedkingdom/scotland/skye",
+      "prior_score": 7.9069,
+      "prior_variance": 0.548475,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Himeji",
+      "path": "asia/japan/honshu/himeji",
+      "prior_score": 8.3333,
+      "prior_variance": 0.345675,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 9.7071,
+      "prior_variance": 0.594319,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 3.7086,
+      "prior_variance": 0.277135,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_eus/laguardia",
+      "prior_score": 3.5445,
+      "prior_variance": 0.303978,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cape Cod",
+      "path": "northamerica/unitedstates/massachusetts/capecod",
+      "prior_score": -3.074,
+      "prior_variance": 1.265196,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": 1.0042,
+      "prior_variance": 0.242954,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -2.2294,
+      "prior_variance": 0.309076,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/yucatan/coppercanyon",
+      "prior_score": 6.2586,
+      "prior_variance": 0.344376,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -1.9521,
+      "prior_variance": 0.349317,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -3.0651,
+      "prior_variance": 0.307787,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -0.605,
+      "prior_variance": 0.330345,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 1.0221,
+      "prior_variance": 0.441326,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -2.1572,
+      "prior_variance": 0.289096,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Limache",
+      "path": "southamerica/chile/limache",
+      "prior_score": -3.7962,
+      "prior_variance": 0.20833,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.0282,
+      "prior_variance": 0.310664,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_score": -2.2677,
+      "prior_variance": 0.323928,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_score": -8.6201,
+      "prior_variance": 0.699486,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Pirules",
+      "path": "northamerica/mexico/pirules",
+      "prior_score": -6.923,
+      "prior_variance": 0.320284,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/wolverhampton",
+      "prior_score": -5.249,
+      "prior_variance": 0.620745,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Chowchilla",
+      "path": "northamerica/unitedstates/california/centralvalley/chowchilla",
+      "prior_score": -6.6764,
+      "prior_variance": 0.319931,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Sudan",
+      "path": "africa/sudan",
+      "prior_score": -9.2296,
+      "prior_variance": 0.745887,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_score": -11.31,
+      "prior_variance": 0.684129,
+      "prior_n": 4
+    }
+  ]
+}

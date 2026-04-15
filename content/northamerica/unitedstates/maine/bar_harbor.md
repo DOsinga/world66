@@ -5,6 +5,7 @@ latitude: 44.3876
 longitude: -68.2043
 title: Bar Harbor
 type: location
+score: 0.63
 ---
 
 Bar Harbor is the main gateway to [Acadia National Park](/northamerica/unitedstates/maine/acadia) and the social hub of Mount Desert Island. The town fills with visitors every summer, drawn by the park, the whale watching tours, and the fresh seafood restaurants along the waterfront.

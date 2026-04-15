@@ -1,6 +1,7 @@
 ---
-title: "Altena"
+title: Altena
 type: location
 latitude: 51.299026
 longitude: 7.673484
+score: 0.42
 ---

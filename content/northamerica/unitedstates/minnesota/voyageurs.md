@@ -5,6 +5,7 @@ latitude: 48.465549
 longitude: -92.885397
 title: Voyageurs National Park
 type: location
+score: 0.56
 ---
 
 Voyageurs National Park stretches along 55 miles of the Minnesota–Ontario border, a wilderness of lakes, islands, bogs, and boreal forest on some of the oldest exposed rock on the continent. Named for the French-Canadian canoe-men who paddled these waterways in birch-bark canoes during the fur trade era, the park is defined by water — four large lakes and dozens of smaller ones connected by portages and channels.

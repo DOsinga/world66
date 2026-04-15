@@ -1,0 +1,56 @@
+{
+  "round": 634,
+  "timestamp": "2026-04-12T10:40:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 6,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Martinique",
+      "path": "northamerica/martinique",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Saint-Pierre",
+      "path": "northamerica/martinique/saintpierre",
+      "prior_mu": 22.8324,
+      "prior_sigma": 5.6558,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Fort-de-France",
+      "path": "northamerica/martinique/fortdefrance",
+      "prior_mu": 21.8017,
+      "prior_sigma": 4.8129,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Le Carbet",
+      "path": "northamerica/martinique/le_carbet",
+      "prior_mu": 22.6552,
+      "prior_sigma": 5.9193,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "La Trinite",
+      "path": "northamerica/martinique/latrinite",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Schoelcher",
+      "path": "northamerica/martinique/schoelcher",
+      "prior_mu": 22.6046,
+      "prior_sigma": 5.9511,
+      "prior_n": 1
+    }
+  ]
+}

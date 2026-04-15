@@ -5,6 +5,7 @@ latitude: 44.312756
 longitude: -124.104999
 title: Yachats
 type: location
+score: 0.49
 ---
 
 Yachats (pronounced "YAH-hots") calls itself the Gem of the Oregon Coast, and it earns the title. This tiny community, nestled between surf and mountains about 25 miles south of Newport, has the rugged scenery of the coast at its most dramatic — wave-carved tidepools, forested headlands, and a small river meeting the sea at the edge of town.

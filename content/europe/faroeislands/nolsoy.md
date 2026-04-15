@@ -5,6 +5,7 @@ latitude: 61.985446
 longitude: -6.653137
 title: Nólsoy
 type: location
+score: 0.51
 ---
 
 Nólsoy is both an island and its principal settlement, easily reached by ferry from Tórshavn. The crossing takes about 20 minutes and drops you in a small village with a church, a shop, a cafe, and an arch made from the jawbones of a whale.

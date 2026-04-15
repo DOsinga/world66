@@ -5,6 +5,7 @@ latitude: 52.241
 longitude: 1.0466
 title: Suffolk
 type: location
+score: 0.48
 ---
 
 Suffolk is a quiet, rural county on England's east coast, bordered by Norfolk to the north and Essex to the south. It is flat, green, and often overlooked — which is part of its appeal. The landscape of big skies, medieval wool churches, and gentle river estuaries inspired Constable and Gainsborough, and has changed less than you might expect since they painted it.

@@ -1,0 +1,200 @@
+{
+  "round": 852,
+  "timestamp": "2026-04-12T14:44:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_score": 14.2827,
+      "prior_variance": 7.452044,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lazise",
+      "path": "europe/italy/lombardia/lagodigarda/lazise",
+      "prior_score": 5.1157,
+      "prior_variance": 1.958902,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_score": 9.4563,
+      "prior_variance": 5.50933,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 1.6854,
+      "prior_variance": 1.225417,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": 0.1976,
+      "prior_variance": 1.432895,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tessin",
+      "path": "europe/switzerland/tessin",
+      "prior_score": 2.4326,
+      "prior_variance": 1.334519,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dunster",
+      "prior_score": -1.2127,
+      "prior_variance": 1.314184,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 1.8816,
+      "prior_variance": 1.337155,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": -0.3322,
+      "prior_variance": 0.901355,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -2.8919,
+      "prior_variance": 1.207434,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": 0.7196,
+      "prior_variance": 1.660118,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 2.879,
+      "prior_variance": 1.695915,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": -0.95,
+      "prior_variance": 1.229021,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": 0.6768,
+      "prior_variance": 1.565176,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/invercargill",
+      "prior_score": -0.5791,
+      "prior_variance": 2.049292,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -1.6994,
+      "prior_variance": 1.419526,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Huanuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_score": -0.9176,
+      "prior_variance": 1.188709,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kolomyia",
+      "path": "europe/ukraine/kolomyia",
+      "prior_score": -1.7049,
+      "prior_variance": 2.022652,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "PODICHERRY",
+      "path": "asia/india/karnataka/bangalore/podicherry",
+      "prior_score": -5.7625,
+      "prior_variance": 1.22211,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": -3.7865,
+      "prior_variance": 1.4415,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_score": -0.4,
+      "prior_variance": 1.301342,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/losangeles/santaclarita",
+      "prior_score": -9.4381,
+      "prior_variance": 2.112844,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/yucatan/reynosa",
+      "prior_score": -5.5329,
+      "prior_variance": 1.239405,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Marion",
+      "path": "australiaandpacific/australia/southaustralia/marion",
+      "prior_score": -5.566,
+      "prior_variance": 3.962261,
+      "prior_n": 1
+    }
+  ]
+}

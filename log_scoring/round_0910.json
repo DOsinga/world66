@@ -1,0 +1,200 @@
+{
+  "round": 910,
+  "timestamp": "2026-04-12T14:49:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_score": 5.8197,
+      "prior_variance": 2.238613,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 11.1457,
+      "prior_variance": 5.489923,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 4.0368,
+      "prior_variance": 1.515046,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 6.6728,
+      "prior_variance": 1.546105,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 4.1891,
+      "prior_variance": 1.610745,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 2.6495,
+      "prior_variance": 1.365047,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": 1.9858,
+      "prior_variance": 0.711912,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Boa vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 3.7575,
+      "prior_variance": 1.375534,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -1.5194,
+      "prior_variance": 1.214462,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": -1.7222,
+      "prior_variance": 1.27127,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": 0.5366,
+      "prior_variance": 1.573037,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Mito",
+      "path": "asia/japan/mito",
+      "prior_score": 1.1578,
+      "prior_variance": 1.692001,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_score": -0.6009,
+      "prior_variance": 1.452103,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "El Salvador",
+      "path": "northamerica/elsalvador",
+      "prior_score": -2.5788,
+      "prior_variance": 1.392026,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": 0.3611,
+      "prior_variance": 0.806417,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -2.2511,
+      "prior_variance": 1.48482,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": -0.2744,
+      "prior_variance": 1.378226,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -2.7577,
+      "prior_variance": 1.343701,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_score": -5.718,
+      "prior_variance": 0.863233,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -1.4354,
+      "prior_variance": 1.870431,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -3.1719,
+      "prior_variance": 0.670047,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": 0.05,
+      "prior_variance": 1.492722,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mol",
+      "path": "europe/belgium/mol",
+      "prior_score": -5.9483,
+      "prior_variance": 0.279469,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -5.443,
+      "prior_variance": 2.570364,
+      "prior_n": 1
+    }
+  ]
+}

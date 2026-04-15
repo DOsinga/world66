@@ -5,6 +5,7 @@ latitude: 44.1118
 longitude: 8.0709
 title: Castelbianco
 type: location
+score: 0.47
 ---
 
 Castelbianco is a tiny commune in the lower Pennavaire valley, made up of the hamlets of Colletta, Oresine, Veravo (the municipal seat), and the ruins of Vesallo, which was destroyed by an earthquake in 1887 and never rebuilt. The area was once a possession of the Cepolla family of Albenga before passing to the marquisate of Zuccarello in 1383, then to the Savoy, and finally to the Republic of Genoa.

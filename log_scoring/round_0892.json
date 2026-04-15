@@ -1,0 +1,200 @@
+{
+  "round": 892,
+  "timestamp": "2026-04-12T14:47:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 4.0116,
+      "prior_variance": 1.481743,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 4.38,
+      "prior_variance": 2.821574,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 5.0856,
+      "prior_variance": 1.333417,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": 2.4046,
+      "prior_variance": 1.359077,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": -0.4053,
+      "prior_variance": 1.281081,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_score": 2.1767,
+      "prior_variance": 1.904707,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kalinago Territory",
+      "path": "northamerica/dominica/caribterritory",
+      "prior_score": -1.2251,
+      "prior_variance": 1.499014,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": 1.6664,
+      "prior_variance": 1.377156,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": -0.5449,
+      "prior_variance": 1.409874,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": -0.7902,
+      "prior_variance": 1.328528,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -1.441,
+      "prior_variance": 0.917384,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -1.0932,
+      "prior_variance": 0.674862,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_score": -3.1891,
+      "prior_variance": 2.25592,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": 1.9925,
+      "prior_variance": 1.300442,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Khentii",
+      "path": "asia/mongolia/khentii",
+      "prior_score": -1.6189,
+      "prior_variance": 0.546923,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Arkansas",
+      "path": "northamerica/unitedstates/arkansas",
+      "prior_score": -5.7982,
+      "prior_variance": 5.221751,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_score": -3.3907,
+      "prior_variance": 1.556197,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mardan",
+      "path": "asia/pakistan/peshawar/mardan",
+      "prior_score": -12.3964,
+      "prior_variance": 3.168747,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mulheim",
+      "path": "europe/germany/brandenburg/mulheim",
+      "prior_score": -7.4552,
+      "prior_variance": 1.486918,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Yengema",
+      "path": "africa/sierraleone/yengema",
+      "prior_score": -9.9049,
+      "prior_variance": 9.83025,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -7.2313,
+      "prior_variance": 0.857174,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Elyria",
+      "path": "northamerica/unitedstates/ohio/elyria",
+      "prior_score": -6.678,
+      "prior_variance": 1.371174,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -13.7172,
+      "prior_variance": 7.738759,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Blue Star Cafe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluestarcafe",
+      "prior_score": -8.9991,
+      "prior_variance": 10.501769,
+      "prior_n": 1
+    }
+  ]
+}

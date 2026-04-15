@@ -5,6 +5,7 @@ latitude: 33.8398
 longitude: -118.3846
 title: Redondo Beach
 type: location
+score: 0.47
 ---
 
 Redondo Beach is one of the three Beach Cities on the southern sweep of Santa Monica Bay, sandwiched between Hermosa Beach to the north and Torrance to the south. The town revolves around its pier and harbour — the horseshoe-shaped King Harbor is lined with seafood restaurants, shops and sport-fishing boats.

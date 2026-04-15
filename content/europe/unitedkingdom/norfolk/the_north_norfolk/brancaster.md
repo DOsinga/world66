@@ -5,6 +5,7 @@ latitude: 52.9634
 longitude: 0.6395
 title: Brancaster
 type: location
+score: 0.49
 ---
 
 Brancaster is a small village on the North Norfolk Coast, sitting between Titchwell to the west and Brancaster Staithe to the east. The coast here is classic north Norfolk — wide tidal flats, salt marshes, and a beach backed by dunes.

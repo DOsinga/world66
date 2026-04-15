@@ -5,6 +5,7 @@ lat: 43.6444
 lon: 21.8703
 title: Sokobanja
 type: location
+score: 0.38
 ---
 
 Sokobanja is a well-established spa town in eastern Serbia, set in a wooded valley at around 400 metres elevation. The town has been drawing visitors for its thermal mineral springs since the 19th century, and today it remains one of Serbia's most popular domestic resort destinations, particularly for Serbs seeking a cure or simply a break from the city.

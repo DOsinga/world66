@@ -5,6 +5,7 @@ latitude: 46.3821
 longitude: 6.2403
 done:
   location_cleanup: 2026-04-07
+score: 0.6
 ---
 
 Nyon is a small, handsome town on the northern shore of Lac Leman, halfway between [Geneva](/europe/switzerland/geneva) and Lausanne. It has the quiet confidence of a place that has been here since Roman times and does not need to prove anything.

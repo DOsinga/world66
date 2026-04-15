@@ -1,0 +1,200 @@
+{
+  "round": 1019,
+  "timestamp": "2026-04-12T22:05:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_rank": 236,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_rank": 1249,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_rank": 740,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkneys",
+      "prior_rank": 787,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_rank": 1408,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_rank": 879,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_rank": 685,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_rank": 769,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_rank": 1823,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_rank": 721,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_rank": 724,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_rank": 1114,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_rank": 346,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_rank": 586,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_rank": 2588,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_rank": 1332,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_rank": 2558,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_rank": 4206,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_rank": 297,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_rank": 1475,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_rank": 415,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_rank": 610,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_rank": 257,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_rank": 296,
+      "prior_wins": 37,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2156,
+  "timestamp": "2026-04-13T16:15:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 6.5477,
+      "prior_variance": 0.320577,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 6.6803,
+      "prior_variance": 0.351857,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 7.5702,
+      "prior_variance": 0.383386,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_score": 6.1107,
+      "prior_variance": 0.296607,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Les Saintes",
+      "path": "northamerica/guadeloupe/lessaintes",
+      "prior_score": 5.4848,
+      "prior_variance": 0.310514,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Qingdao",
+      "path": "asia/china/qingdao",
+      "prior_score": 2.1129,
+      "prior_variance": 0.220059,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_score": -1.2937,
+      "prior_variance": 0.206408,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -0.2449,
+      "prior_variance": 0.212695,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/sandiego/solanabeach",
+      "prior_score": 0.3111,
+      "prior_variance": 0.27207,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 2.7113,
+      "prior_variance": 0.261637,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -3.7504,
+      "prior_variance": 0.456245,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 0.7947,
+      "prior_variance": 0.258328,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -2.6054,
+      "prior_variance": 0.27668,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Practical Information",
+      "path": "europe/spain/andalucia/granada/usefuladdresses",
+      "prior_score": -1.5619,
+      "prior_variance": 0.414827,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -2.357,
+      "prior_variance": 0.142911,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_score": -3.3459,
+      "prior_variance": 0.24865,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/huddersfield",
+      "prior_score": -4.0122,
+      "prior_variance": 0.501227,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_score": -5.1166,
+      "prior_variance": 0.301734,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nunavut",
+      "path": "northamerica/canada/nunavut",
+      "prior_score": -0.9829,
+      "prior_variance": 0.276985,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_score": -5.017,
+      "prior_variance": 0.23018,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -5.0083,
+      "prior_variance": 0.246714,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ballyvolane",
+      "path": "europe/ireland/cork/ballyvolane",
+      "prior_score": -2.3958,
+      "prior_variance": 0.31546,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Nakhchivan",
+      "path": "europe/azerbaijan/naxcivan",
+      "prior_score": -3.1878,
+      "prior_variance": 0.207428,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_score": -11.9232,
+      "prior_variance": 0.583504,
+      "prior_n": 5
+    }
+  ]
+}

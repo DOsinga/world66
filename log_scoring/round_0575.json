@@ -1,0 +1,152 @@
+{
+  "round": 575,
+  "timestamp": "2026-04-12T10:38:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 18,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_mu": 24.4626,
+      "prior_sigma": 5.6135,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_mu": 23.5366,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Inle Lake",
+      "path": "asia/myanmar/inlelake",
+      "prior_mu": 24.8531,
+      "prior_sigma": 6.0806,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_mu": 22.239,
+      "prior_sigma": 5.4821,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_mu": 21.2306,
+      "prior_sigma": 3.171,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kalaw",
+      "path": "asia/myanmar/kalaw",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "\u201cAmarapura\u201d",
+      "path": "asia/myanmar/amarapura",
+      "prior_mu": 21.9164,
+      "prior_sigma": 4.8389,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_mu": 22.201,
+      "prior_sigma": 5.7203,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_mu": 22.7668,
+      "prior_sigma": 5.7256,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_mu": 20.7449,
+      "prior_sigma": 2.6511,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_mu": 22.6702,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_mu": 22.4139,
+      "prior_sigma": 5.9491,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_mu": 22.5741,
+      "prior_sigma": 5.7832,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Myanmar",
+      "path": "asia/myanmar",
+      "prior_mu": 20.1989,
+      "prior_sigma": 2.8756,
+      "prior_n": 5
+    }
+  ]
+}

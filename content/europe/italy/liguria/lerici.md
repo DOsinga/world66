@@ -5,6 +5,7 @@ latitude: 44.073607
 longitude: 9.909914
 title: Lerici
 type: location
+score: 0.61
 ---
 
 Lerici sits at the eastern end of the Gulf of La Spezia — the "Bay of Poets," so named because Byron, Shelley, and Keats all spent time along these shores. The town clusters around a medieval castle on a rocky promontory, with pastel houses tumbling down to a small harbour.

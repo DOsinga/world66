@@ -5,6 +5,7 @@ latitude: 16.26927
 longitude: 108.062178
 title: Lang Co Beach
 type: location
+score: 0.56
 ---
 
 Lang Co Beach stretches 10 kilometres along a sheltered bay at the foot of the Hai Van Pass, about 60 kilometres north of Hue. The beach sits on a narrow spit of land with calm, clear water on one side and a lagoon on the other, making it one of the most scenic spots on the central Vietnamese coast.

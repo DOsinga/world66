@@ -1,8 +1,9 @@
 ---
-title: 'Canterbury'
+title: Canterbury
 type: location
 latitude: 51.280028
 longitude: 1.080253
+score: 0.63
 ---
 
 Canterbury has been drawing visitors since the Middle Ages, when pilgrims flocked to the cathedral where Archbishop Thomas Becket was murdered in 1170. Chaucer immortalised those journeys in The Canterbury Tales, and the city still trades on that heritage today, though it has plenty more to offer.

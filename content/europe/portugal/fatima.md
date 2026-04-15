@@ -5,6 +5,7 @@ latitude: 39.62555
 longitude: -8.665908
 title: Fatima
 type: location
+score: 0.55
 ---
 
 Fátima is one of the most important Catholic pilgrimage sites in the world. Every year more than six million people make their way to this small town in central Portugal, drawn by the 1917 apparitions of the Virgin Mary to three shepherd children. Whether you come for religious reasons or simply out of curiosity, the scale and sincerity of the devotion here is genuinely affecting.

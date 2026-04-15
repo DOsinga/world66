@@ -5,6 +5,7 @@ latitude: 44.1833
 longitude: 18.9333
 title: Vlasenica
 type: location
+score: 0.3
 ---
 
 Vlasenica is a small town in northeastern Bosnia and Herzegovina, set in the hilly Birac region. The town takes its name from a type of grass that grows locally and was once the defining feature of this landscape. Before the 1992–1995 war, it was a quietly prosperous mixed community; today it is a place still coming to terms with a difficult recent history.

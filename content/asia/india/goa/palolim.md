@@ -5,6 +5,7 @@ latitude: 15.01
 longitude: 74.023
 title: Palolem
 type: location
+score: 0.6
 ---
 
 Palolem is a crescent-shaped beach in south [Goa](/asia/india/goa), about 40 km from Margao. It is widely considered one of Goa's best beaches — the sand is clean, the water is calm, and the crowd is a fraction of what you will find at the busier northern beaches.

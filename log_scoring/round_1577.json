@@ -1,0 +1,200 @@
+{
+  "round": 1577,
+  "timestamp": "2026-04-13T10:32:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mackinac Island",
+      "path": "northamerica/unitedstates/michigan/mackinac_island",
+      "prior_score": 3.2067,
+      "prior_variance": 0.390048,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 3.7651,
+      "prior_variance": 0.394579,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 4.1101,
+      "prior_variance": 0.417772,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_score": 3.7839,
+      "prior_variance": 0.402129,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Broadford",
+      "path": "europe/unitedkingdom/scotland/skye/broadford",
+      "prior_score": 3.1384,
+      "prior_variance": 0.334534,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 3.5558,
+      "prior_variance": 0.34739,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 3.0886,
+      "prior_variance": 0.324482,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": 0.9588,
+      "prior_variance": 0.199404,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_score": 3.1069,
+      "prior_variance": 0.379947,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 1.0974,
+      "prior_variance": 0.427788,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 4.3592,
+      "prior_variance": 0.328318,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -3.3446,
+      "prior_variance": 0.320353,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/otago/invercargill",
+      "prior_score": -0.4979,
+      "prior_variance": 0.313839,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Marche",
+      "path": "europe/italy/marche",
+      "prior_score": 2.8317,
+      "prior_variance": 0.447299,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": -0.1275,
+      "prior_variance": 0.458455,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Pennsylvania",
+      "path": "northamerica/unitedstates/pennsylvania",
+      "prior_score": 0.5168,
+      "prior_variance": 0.364071,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.3125,
+      "prior_variance": 0.396331,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_score": 1.6506,
+      "prior_variance": 0.323587,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_score": -2.5982,
+      "prior_variance": 0.557871,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -1.6005,
+      "prior_variance": 0.635417,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -2.4122,
+      "prior_variance": 0.400457,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -5.7748,
+      "prior_variance": 0.391138,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -3.5362,
+      "prior_variance": 0.357021,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_score": -3.7316,
+      "prior_variance": 0.314117,
+      "prior_n": 4
+    }
+  ]
+}

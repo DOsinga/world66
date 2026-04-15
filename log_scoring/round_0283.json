@@ -1,0 +1,200 @@
+{
+  "round": 283,
+  "timestamp": "2026-04-12T09:10:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_mu": 23.9566,
+      "prior_sigma": 5.8378,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_mu": 22.6935,
+      "prior_sigma": 5.9462,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_mu": 22.4239,
+      "prior_sigma": 5.4099,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_mu": 22.9023,
+      "prior_sigma": 5.7258,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_mu": 22.0955,
+      "prior_sigma": 4.7098,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_mu": 22.6868,
+      "prior_sigma": 5.9455,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_mu": 22.7207,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Wejherowo",
+      "path": "europe/poland/wejherowo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Wasilla",
+      "path": "northamerica/unitedstates/alaska/wasilla",
+      "prior_mu": 22.4793,
+      "prior_sigma": 5.9069,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "qureshi from yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/qureshi_from_yaroo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

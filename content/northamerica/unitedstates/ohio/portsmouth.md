@@ -5,6 +5,7 @@ latitude: 38.7318
 longitude: -82.9977
 title: Portsmouth
 type: location
+score: 0.29
 ---
 
 Portsmouth sits at the confluence of the Scioto and Ohio rivers in southern [Ohio](/northamerica/unitedstates/ohio), a former industrial town that wears its history on its floodwalls — literally. The Portsmouth Floodwall Murals, a series of more than 50 panels stretching along the riverfront, depict the city's history from the Shawnee era through the steel and shoe-making boom years.

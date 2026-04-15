@@ -5,6 +5,7 @@ latitude: 3.1073
 longitude: 101.6067
 title: Petaling Jaya
 type: location
+score: 0.44
 ---
 
 Petaling Jaya — PJ to everyone who lives there — is a sprawling satellite city immediately west of Kuala Lumpur, connected to the capital by the LRT and the federal highway. What began as a planned housing estate in the 1950s has grown into a city of over 600,000 people with its own distinct identity: younger and more relaxed than KL, home to a thriving food scene, and packed with the kind of neighbourhood life that the capital's gleaming towers often lack.

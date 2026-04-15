@@ -1,0 +1,200 @@
+{
+  "round": 108,
+  "timestamp": "2026-04-12T08:04:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_mu": 24.0,
+      "prior_sigma": 3.02,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_mu": 22.35,
+      "prior_sigma": 2.65,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "The Peninsula of O Morrazo",
+      "path": "europe/spain/galicia/the_peninsula_of_o",
+      "prior_mu": 21.42,
+      "prior_sigma": 3.85,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_mu": 22.12,
+      "prior_sigma": 2.68,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_mu": 21.8,
+      "prior_sigma": 3.15,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_mu": 22.75,
+      "prior_sigma": 3.19,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_mu": 21.61,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_mu": 21.82,
+      "prior_sigma": 3.14,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_mu": 21.18,
+      "prior_sigma": 3.24,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_mu": 20.88,
+      "prior_sigma": 2.95,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Arno Atoll",
+      "path": "australiaandpacific/marshallislands/arnoatoll",
+      "prior_mu": 21.08,
+      "prior_sigma": 2.74,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_mu": 20.48,
+      "prior_sigma": 2.92,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_mu": 20.67,
+      "prior_sigma": 2.6,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_mu": 20.39,
+      "prior_sigma": 2.18,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_mu": 21.49,
+      "prior_sigma": 3.42,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_mu": 20.95,
+      "prior_sigma": 3.5,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_mu": 21.14,
+      "prior_sigma": 3.24,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Copiapo",
+      "path": "southamerica/chile/copiapo",
+      "prior_mu": 20.42,
+      "prior_sigma": 2.91,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_mu": 19.28,
+      "prior_sigma": 2.62,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_mu": 21.43,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Quantico",
+      "path": "northamerica/unitedstates/virginia/quantico",
+      "prior_mu": 16.24,
+      "prior_sigma": 3.11,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Inland Empire",
+      "path": "northamerica/unitedstates/california/inlandempire",
+      "prior_mu": 20.35,
+      "prior_sigma": 3.65,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_mu": 20.0,
+      "prior_sigma": 3.63,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tibbi Qaisrani",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
+      "prior_mu": 12.63,
+      "prior_sigma": 3.37,
+      "prior_n": 7
+    }
+  ]
+}

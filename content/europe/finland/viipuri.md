@@ -5,6 +5,7 @@ latitude: 60.158476
 longitude: 23.080537
 title: Viipuri (Vyborg)
 type: location
+score: 0.45
 ---
 
 Vyborg — *Viipuri* in Finnish — was Finland's second-largest city until it was ceded to the Soviet Union in 1944 at the end of the Continuation War. Today it is part of Russia's Leningrad Oblast, about 70 km west of St Petersburg.

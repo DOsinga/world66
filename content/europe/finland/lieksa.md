@@ -5,6 +5,7 @@ latitude: 63.3178
 longitude: 30.0191
 title: Lieksa
 type: location
+score: 0.44
 ---
 
 Lieksa sits on the eastern shore of Lake Pielinen in North Karelia, pressed against the Russian border and surrounded by some of the wildest forest in Finland. It is a small city — fewer than 10,000 people — but its setting is genuinely spectacular: the lake is Finland's sixth largest, and across the water rise the wooded ridges of Koli, one of the most celebrated landscapes in the country.

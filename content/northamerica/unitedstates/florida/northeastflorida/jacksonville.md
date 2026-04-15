@@ -5,14 +5,15 @@ latitude: 30.326225
 longitude: -81.657918
 title: Jacksonville
 type: location
+score: 0.4
 ---
 
-Jacksonville is the largest city by area in the contiguous [United States](/northamerica/unitedstates), sprawling across both sides of the St. Johns River in northeast [Florida](/northamerica/unitedstates/florida). It is not a typical tourist stop, but it has more character than first impressions suggest.
+Jacksonville is the largest city by area in the contiguous United States, sprawling across both sides of the St. Johns River where it empties into the Atlantic. It is a city that rewards the curious — behind the downtown skyline and suburban sprawl, you will find distinct neighbourhoods with real character, a serious arts scene, and easy access to some of northeast Florida's best beaches.
 
-The **Riverside** neighbourhood near downtown is the architectural highlight — streets of homes designed by Henry Klutho, a student of Frank Lloyd Wright's Prairie Style. The **Cummer Museum of Art** here has a strong collection of American artists and a garden overlooking downtown across the river. The **Museum of Science and History** on the south bank has rotating exhibits and the Alexander Brest Planetarium.
+The Riverside district is the highlight for architecture fans. Many of its homes were designed by Henry Klutho, a Jacksonville architect deeply influenced by Frank Lloyd Wright's Prairie Style. The Cummer Museum of Art sits in this neighbourhood too, with a strong collection of American art and gardens that look out over the river toward downtown. Further along the waterfront, the Museum of Science and History offers rotating hands-on exhibits and the Alexander Brest Planetarium.
 
-The riverwalks on both sides of the St. Johns offer pleasant evening strolls with views of the downtown skyline. Jacksonville's three beach communities — Jacksonville Beach, Neptune Beach and Atlantic Beach — blend together along a stretch of fine sand on the Atlantic coast.
+Downtown's riverwalks on both sides of the St. Johns make for a pleasant stroll, with views of the skyline and access to the Times-Union Center for the Performing Arts, home to the Jacksonville Symphony Orchestra. The riverwalks are particularly nice in the evening, though you should stay alert after dark.
 
-Golf is a serious draw. **Ponte Vedra Beach**, just south, is home to the TPC at Sawgrass where the Players Championship is held each year. The **World Golf Village** off I-95, with several courses and the World Golf Hall of Fame, caters to less deep-pocketed fans.
+Jacksonville has three beach towns — Atlantic Beach, Neptune Beach, and Jacksonville Beach — which run together along the coast. They are pleasant and unpretentious, with good surfing and a laid-back boardwalk scene. Just south of the city, Ponte Vedra Beach draws golfers to the TPC at Sawgrass, home of The Players Championship. The World Golf Village, off I-95 between Jacksonville and [St. Augustine](/northamerica/unitedstates/florida/northeastflorida/staugustine), has its own courses and the World Golf Hall of Fame.
 
-[St. Augustine](/northamerica/unitedstates/florida/northeastflorida/staugustine), the oldest city in the United States, is only 30 minutes south and well worth a day trip.
+St. Augustine, the oldest city in the United States, is only 30 minutes to the south and makes an easy day trip.

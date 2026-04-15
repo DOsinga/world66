@@ -1,0 +1,200 @@
+{
+  "round": 693,
+  "timestamp": "2026-04-12T10:43:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_mu": 22.3624,
+      "prior_sigma": 4.8642,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_mu": 23.8905,
+      "prior_sigma": 6.0239,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_mu": 22.5041,
+      "prior_sigma": 5.7047,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_mu": 22.5412,
+      "prior_sigma": 5.5236,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_mu": 22.7323,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_mu": 22.5281,
+      "prior_sigma": 5.7119,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_mu": 22.5468,
+      "prior_sigma": 5.6135,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_mu": 22.6371,
+      "prior_sigma": 5.6789,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Bialystok",
+      "path": "europe/poland/bialystok",
+      "prior_mu": 22.4669,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_mu": 22.5344,
+      "prior_sigma": 5.5299,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_mu": 21.9412,
+      "prior_sigma": 4.4874,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_mu": 22.4778,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_mu": 22.9409,
+      "prior_sigma": 5.4969,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Zielonka",
+      "path": "europe/poland/zielonka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bialogard",
+      "path": "europe/poland/bialogard",
+      "prior_mu": 18.4123,
+      "prior_sigma": 2.7613,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Ciechanow",
+      "path": "europe/poland/ciechanow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

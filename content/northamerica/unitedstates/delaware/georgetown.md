@@ -5,6 +5,7 @@ latitude: 38.6901
 longitude: -75.3885
 title: Georgetown
 type: location
+score: 0.37
 ---
 
 Georgetown is the county seat of Sussex County in southern Delaware, a small working town rather than a tourist destination. It was laid out in 1791 from a central square — the Circle — which remains the heart of town and is listed on the National Register of Historic Places. The original design placed the courthouse on the southeastern side of the square, and the present 1837 courthouse still stands there.

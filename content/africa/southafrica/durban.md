@@ -1,8 +1,9 @@
 ---
-title: "Durban"
+title: Durban
 type: location
 latitude: -29.861825
 longitude: 31.009909
+score: 0.56
 ---
 
 Located in KwaZulu-Natal on the east coast of South Africa, on the warm shores of the Indian Ocean, Durban is the city where the sun never sets. It is a melting pot of African, European and Asian influences which heve led to a myriad of styles in the city. Architectural variety is expressed in the Victorian houses of the Berea, in the Hindu temples, the largest Mosque in the Southern Hemisphere in Grey Street, the skyscrapers in the CBD. It has many sides to it. Thanks to the beautiful, soft weather all year round, Durban is a real holiday paradise, with warm beaches lined by hotels and appartments with great views over the ocean. It's also a major buisness centre and a gateway to Africa, with its port (the busiest on the continent), airport, and many roads leading inland.

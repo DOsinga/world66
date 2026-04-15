@@ -1,0 +1,200 @@
+{
+  "round": 1229,
+  "timestamp": "2026-04-12T22:16:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_rank": 872,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_rank": 1736,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_rank": 3818,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cabanaconde",
+      "path": "southamerica/peru/colca_canyon/cabanaconde",
+      "prior_rank": 2829,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_rank": 2400,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_rank": 2355,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_rank": 2122,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Vava'u Group",
+      "path": "australiaandpacific/tonga/vavau_group",
+      "prior_rank": 3686,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_rank": 972,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_rank": 4053,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_rank": 1083,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_rank": 2114,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_rank": 3295,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Music Row",
+      "path": "northamerica/unitedstates/tennessee/nashville/musicrow",
+      "prior_rank": 1310,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_rank": 1986,
+      "prior_wins": 77,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_rank": 2590,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_rank": 1069,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sanya",
+      "path": "asia/china/hainanisland/sanya",
+      "prior_rank": 1428,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_rank": 2323,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/buxton",
+      "prior_rank": 2689,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_rank": 6375,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_rank": 797,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_rank": 3794,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_rank": 1501,
+      "prior_wins": 33,
+      "prior_n": 2
+    }
+  ]
+}

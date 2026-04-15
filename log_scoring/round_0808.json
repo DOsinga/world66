@@ -1,0 +1,200 @@
+{
+  "round": 808,
+  "timestamp": "2026-04-12T10:49:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marrakech",
+      "path": "africa/morocco/marrakech",
+      "prior_mu": 25.1104,
+      "prior_sigma": 6.1102,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cayman Islands",
+      "path": "northamerica/thecaribbean/caymanislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Fontainebleau",
+      "path": "europe/france/paris/fontainebleau",
+      "prior_mu": 21.9742,
+      "prior_sigma": 4.4658,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_mu": 24.0032,
+      "prior_sigma": 6.1073,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Queensland",
+      "path": "australiaandpacific/australia/queensland",
+      "prior_mu": 23.9677,
+      "prior_sigma": 4.1446,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Dominica",
+      "path": "northamerica/thecaribbean/dominica",
+      "prior_mu": 22.7391,
+      "prior_sigma": 5.3249,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_mu": 22.0835,
+      "prior_sigma": 4.3766,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Valle d'Aosta",
+      "path": "europe/italy/valledaosta",
+      "prior_mu": 22.0442,
+      "prior_sigma": 4.7077,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_mu": 21.6275,
+      "prior_sigma": 4.4647,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_mu": 22.8863,
+      "prior_sigma": 5.4926,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_mu": 21.6002,
+      "prior_sigma": 4.5277,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "West Virginia",
+      "path": "northamerica/unitedstates/westvirginia",
+      "prior_mu": 22.4306,
+      "prior_sigma": 5.948,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_mu": 22.5753,
+      "prior_sigma": 5.714,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezonprovince",
+      "prior_mu": 21.5388,
+      "prior_sigma": 3.9256,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Tajikistan",
+      "path": "asia/tajikistan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_mu": 21.3684,
+      "prior_sigma": 4.5756,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ferizaj",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/ferizaj",
+      "prior_mu": 22.799,
+      "prior_sigma": 5.7227,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Universities",
+      "path": "northamerica/canada/britishcolumbia/victoria/universities",
+      "prior_mu": 21.1374,
+      "prior_sigma": 3.992,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Duhok",
+      "path": "asia/iraq/arbil/duhok",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Arviat",
+      "path": "northamerica/canada/nunavut/arviat",
+      "prior_mu": 16.1638,
+      "prior_sigma": 4.4516,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "KURADHI",
+      "path": "asia/pakistan/soon_valley/kuradhi",
+      "prior_mu": 18.1183,
+      "prior_sigma": 3.8529,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ali khan gurag baloch cha je andh wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gurag_bal",
+      "prior_mu": 13.5839,
+      "prior_sigma": 5.7658,
+      "prior_n": 2
+    }
+  ]
+}

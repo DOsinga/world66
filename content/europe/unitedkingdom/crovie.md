@@ -5,6 +5,7 @@ latitude: 57.679
 longitude: -2.3241
 title: Crovie
 type: location
+score: 0.48
 ---
 
 Crovie (pronounced "Crivie") is a single row of cottages wedged between cliff and sea on the Moray Firth coast of Aberdeenshire. Once a busy fishing village, it is now almost entirely holiday homes — but the setting is extraordinary and the peace absolute.

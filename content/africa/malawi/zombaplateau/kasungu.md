@@ -5,6 +5,7 @@ latitude: -12.992179
 longitude: 33.472454
 title: Kasungu
 type: location
+score: 0.23
 ---
 
 Kasungu is a market town in central Malawi, 124km north of Lilongwe on the M1 highway. It sits on the fertile Kasungu-Lilongwe plain, surrounded by tobacco farms — tobacco has long been the economic engine here.

@@ -5,6 +5,7 @@ latitude: -4.6838
 longitude: 55.4926
 done:
   location_cleanup: 2026-04-07
+score: 0.85
 ---
 
 Mahe is the largest island in the [Seychelles](/africa/seychelles), just 27 kilometres long but packed with enough mountains, beaches, and tropical forest to fill a week. The granite peaks of the Morne Seychellois range form the island's spine, rising to 905 metres and draped in dense vegetation. Over 75 beaches ring the coast — many of them empty on any given day.

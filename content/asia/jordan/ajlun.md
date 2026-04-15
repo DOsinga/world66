@@ -5,6 +5,7 @@ title: Ajlun
 type: location
 done:
   location_cleanup: 2026-04-07
+score: 0.49
 ---
 
 Ajlun is a small town in the highlands of northern Jordan, set among forested hills that are unusually green for the region. It sits about 75 km north of Amman and makes an easy half-day or full-day excursion from [Jerash](/asia/jordan/jerash), which lies just to the east.

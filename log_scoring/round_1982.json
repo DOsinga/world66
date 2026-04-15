@@ -1,0 +1,200 @@
+{
+  "round": 1982,
+  "timestamp": "2026-04-13T15:59:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/saintbartholomy",
+      "prior_score": 7.8058,
+      "prior_variance": 0.329205,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Anguilla",
+      "path": "northamerica/thecaribbean/anguilla",
+      "prior_score": 6.8251,
+      "prior_variance": 0.312394,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 6.9599,
+      "prior_variance": 0.67841,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_score": 8.1435,
+      "prior_variance": 0.443895,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cancun",
+      "path": "northamerica/mexico/yucatan/cancun",
+      "prior_score": 7.0836,
+      "prior_variance": 0.336419,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Chianti Region",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion",
+      "prior_score": 7.899,
+      "prior_variance": 0.358531,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "White Villages",
+      "path": "europe/spain/andalucia/whitevillages",
+      "prior_score": 4.9773,
+      "prior_variance": 0.328844,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_score": 7.7302,
+      "prior_variance": 0.389054,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/taupo",
+      "prior_score": 5.8496,
+      "prior_variance": 0.295071,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/canterbury/christchurch",
+      "prior_score": 4.7286,
+      "prior_variance": 0.308962,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Winelands",
+      "path": "africa/southafrica/winelands",
+      "prior_score": 5.8163,
+      "prior_variance": 0.282401,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_score": 5.5004,
+      "prior_variance": 0.307532,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/brighton",
+      "prior_score": 5.1928,
+      "prior_variance": 0.279376,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Czech Republic",
+      "path": "europe/czechrepublic",
+      "prior_score": 0.0754,
+      "prior_variance": 0.748179,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 4.7783,
+      "prior_variance": 0.356184,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_score": 4.21,
+      "prior_variance": 0.265985,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 6.0848,
+      "prior_variance": 0.326626,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.0434,
+      "prior_variance": 0.305655,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_score": 4.6551,
+      "prior_variance": 0.409143,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_score": 3.839,
+      "prior_variance": 0.19159,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.3613,
+      "prior_variance": 0.279434,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Channel Islands",
+      "path": "europe/channelislands",
+      "prior_score": 3.8848,
+      "prior_variance": 0.30819,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 2.2065,
+      "prior_variance": 0.273524,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 1.61,
+      "prior_variance": 0.295223,
+      "prior_n": 6
+    }
+  ]
+}

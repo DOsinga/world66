@@ -1,0 +1,200 @@
+{
+  "round": 292,
+  "timestamp": "2026-04-12T09:10:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_mu": 24.2906,
+      "prior_sigma": 5.8318,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Chiang Rai",
+      "path": "asia/thailand/chiangrai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_mu": 21.951,
+      "prior_sigma": 4.8388,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/salisbury",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Belogradchik",
+      "path": "europe/bulgaria/belogradchik",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Cetinje",
+      "path": "europe/serbiaandmontenegro/cetinje",
+      "prior_mu": 22.2349,
+      "prior_sigma": 5.7723,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mieres",
+      "path": "europe/spain/northernspain/mieres",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Morayfield",
+      "path": "australiaandpacific/australia/queensland/morayfield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Douglaston",
+      "path": "northamerica/unitedstates/newyorkstate/douglaston",
+      "prior_mu": 22.711,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/yucatan/aguaprieta",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bangladesh",
+      "path": "asia/bangladesh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "LaGrange",
+      "path": "northamerica/unitedstates/indiana/lagrange",
+      "prior_mu": 22.5284,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

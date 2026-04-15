@@ -5,6 +5,7 @@ latitude: 36.6756
 longitude: 25.1162
 title: Sikinos
 type: location
+score: 0.62
 ---
 
 Sikinos is one of the quietest islands in the Cyclades — a place that most island-hoppers skip entirely, which is precisely its appeal. There are two places to stay: a pension near the port of Alopronia, or up in the Hora (Kastro), the old hilltop village that sits on a ridge above the sea with views in every direction.

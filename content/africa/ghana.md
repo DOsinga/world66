@@ -11,6 +11,7 @@ latitude: 7.9465
 longitude: -1.0232
 title: Ghana
 type: location
+score: 0.36
 ---
 
 Ghana is one of the most welcoming countries in Africa. English-speaking, politically stable, and genuinely friendly, it is the place most first-time visitors to West Africa start -- and for good reason. The country packs an extraordinary range of experiences into a manageable size: slave castles that will leave you shaken, rainforest canopy walks, savannah wildlife, vibrant cities, and some of the best food on the continent.

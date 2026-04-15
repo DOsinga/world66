@@ -1,8 +1,9 @@
 ---
-title: "Mirpur"
+title: Mirpur
 type: location
 latitude: 33.148635
 longitude: 73.74821
+score: 0.29
 ---
 
 Mirpur District is located at the extreme South of the State and is

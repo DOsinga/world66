@@ -1,0 +1,200 @@
+{
+  "round": 2311,
+  "timestamp": "2026-04-13T16:30:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vatican City",
+      "path": "europe/vaticancity",
+      "prior_score": 10.2817,
+      "prior_variance": 0.411738,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichenitza",
+      "prior_score": 9.1864,
+      "prior_variance": 0.368999,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/thecinqueterre/riomaggiore",
+      "prior_score": 11.8271,
+      "prior_variance": 0.416302,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 3.9789,
+      "prior_variance": 0.251831,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 10.5365,
+      "prior_variance": 0.473402,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Morocco",
+      "path": "africa/morocco",
+      "prior_score": 9.478,
+      "prior_variance": 0.377634,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Portugal",
+      "path": "europe/portugal",
+      "prior_score": 2.7585,
+      "prior_variance": 0.468017,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "The Azores",
+      "path": "europe/portugal/theazores",
+      "prior_score": 8.1409,
+      "prior_variance": 0.282974,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Catalonia",
+      "path": "europe/spain/catalonia",
+      "prior_score": 5.6601,
+      "prior_variance": 0.370318,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Balearic islands",
+      "path": "europe/spain/balearicislands",
+      "prior_score": 7.413,
+      "prior_variance": 0.337294,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 7.5569,
+      "prior_variance": 0.319998,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Chiapas",
+      "path": "northamerica/mexico/chiapas",
+      "prior_score": 3.984,
+      "prior_variance": 0.356725,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Pembrokeshire Coast National Park",
+      "path": "europe/unitedkingdom/wales/pembrokeshire_coas",
+      "prior_score": 5.0567,
+      "prior_variance": 0.320305,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_score": 4.6483,
+      "prior_variance": 0.207993,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Pelagian Islands",
+      "path": "europe/italy/sicily/pelagianislands",
+      "prior_score": 4.3919,
+      "prior_variance": 0.213029,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 5.6325,
+      "prior_variance": 0.248067,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 2.9018,
+      "prior_variance": 0.237371,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 4.0224,
+      "prior_variance": 0.241069,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Central Plateau",
+      "path": "australiaandpacific/newzealand/central_plateau",
+      "prior_score": 2.5198,
+      "prior_variance": 0.288885,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_score": 4.422,
+      "prior_variance": 0.25564,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "West Coast",
+      "path": "australiaandpacific/australia/tasmania/westcoast",
+      "prior_score": 1.5387,
+      "prior_variance": 0.21456,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": -0.0122,
+      "prior_variance": 0.212353,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 3.4719,
+      "prior_variance": 0.344099,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba",
+      "prior_score": -12.6686,
+      "prior_variance": 0.658761,
+      "prior_n": 5
+    }
+  ]
+}

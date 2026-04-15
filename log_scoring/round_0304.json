@@ -1,0 +1,200 @@
+{
+  "round": 304,
+  "timestamp": "2026-04-12T09:10:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huang Shan",
+      "path": "asia/china/huang_shan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "San Marino",
+      "path": "europe/sanmarino",
+      "prior_mu": 22.7466,
+      "prior_sigma": 5.9527,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Alghero",
+      "path": "europe/italy/sardinia/alghero",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_natio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Gower",
+      "path": "europe/unitedkingdom/wales/gower",
+      "prior_mu": 21.7701,
+      "prior_sigma": 2.9647,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_mu": 22.7633,
+      "prior_sigma": 5.8303,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_mu": 22.5906,
+      "prior_sigma": 5.9211,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_mu": 22.6826,
+      "prior_sigma": 5.9449,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_mu": 22.7055,
+      "prior_sigma": 5.9476,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Malanda",
+      "path": "australiaandpacific/australia/queensland/malanda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_mu": 22.7206,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Basecles",
+      "path": "europe/belgium/basecles",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_mu": 22.5948,
+      "prior_sigma": 5.9342,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/massachusetts/burlington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

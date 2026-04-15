@@ -1,0 +1,200 @@
+{
+  "round": 1083,
+  "timestamp": "2026-04-12T22:08:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_rank": 7891,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_rank": 7744,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverp/helmshore",
+      "prior_rank": 8130,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_rank": 5226,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "lakewood",
+      "path": "northamerica/unitedstates/ohio/lakewood",
+      "prior_rank": 5477,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_rank": 8031,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_rank": 7982,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_rank": 8022,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_rank": 6674,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Central Valley",
+      "path": "northamerica/unitedstates/california/centralvalley",
+      "prior_rank": 7271,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_rank": 6740,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sangha region",
+      "path": "africa/congobrazzaville/sangharegion",
+      "prior_rank": 7169,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/haiti/jeremie",
+      "prior_rank": 7532,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Yakouren",
+      "path": "africa/algeria/yakouren",
+      "prior_rank": 6906,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_rank": 7538,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_rank": 7373,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sahagun Hidalgo",
+      "path": "northamerica/mexico/yucatan/sahagunhidalgo",
+      "prior_rank": 7876,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Torreon",
+      "path": "northamerica/mexico/yucatan/torreon",
+      "prior_rank": 7410,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/yucatan/aguaprieta",
+      "prior_rank": 7755,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Mulheim",
+      "path": "europe/germany/brandenburg/mulheim",
+      "prior_rank": 7081,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_rank": 5623,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_rank": 6314,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_rank": 8041,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_rank": 6741,
+      "prior_wins": 7,
+      "prior_n": 2
+    }
+  ]
+}

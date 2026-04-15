@@ -5,6 +5,7 @@ latitude: 48.779959
 longitude: 18.582199
 title: Bojnice
 type: location
+score: 0.56
 ---
 
 Bojnice is a small town in central [Slovakia](/europe/slovakia), adjacent to Prievidza, and one of the country's most popular tourist destinations. The draw is Bojnice Castle, a fairy-tale pile of turrets and towers that looks like it belongs in a picture book — it is the most visited castle in Slovakia and regularly hosts a summer festival of ghosts and legends.

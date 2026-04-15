@@ -5,6 +5,7 @@ latitude: 3.969066
 longitude: 73.431127
 title: South Malé Atoll
 type: location
+score: 0.83
 ---
 
 South Malé Atoll (Kaafu South) sits directly south of [Malé](/asia/maldives) and the main airport atoll, separated by a navigational channel. It is quieter than the north, with fewer resorts and a more relaxed atmosphere, while still being within easy speedboat distance of the airport — most transfers run 45 minutes to an hour.

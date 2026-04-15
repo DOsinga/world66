@@ -5,6 +5,7 @@ latitude: 41.136833
 longitude: -100.761282
 title: North Platte
 type: location
+score: 0.33
 ---
 
 North Platte is a city in western Nebraska at the confluence of the North and South Platte rivers, serving as a regional centre for the surrounding ranch country. It sits on the old Oregon, California, and Mormon pioneer trails, and the landscape here — wide, flat, and open — gives a strong sense of what those travellers crossed.

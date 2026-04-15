@@ -1,0 +1,200 @@
+{
+  "round": 2134,
+  "timestamp": "2026-04-13T16:13:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_score": 7.9292,
+      "prior_variance": 0.64239,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/south_island/west_coast",
+      "prior_score": 3.8734,
+      "prior_variance": 0.415661,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cheverny",
+      "path": "europe/france/centre/loirevalley/cheverny",
+      "prior_score": 5.3845,
+      "prior_variance": 0.281022,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 1.7999,
+      "prior_variance": 0.292299,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 2.4092,
+      "prior_variance": 0.25511,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 2.2217,
+      "prior_variance": 0.260831,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 2.4115,
+      "prior_variance": 0.273781,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/boulogne/le_touquet",
+      "prior_score": 0.9355,
+      "prior_variance": 0.210908,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_score": 0.2611,
+      "prior_variance": 0.208931,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -1.0173,
+      "prior_variance": 0.149516,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -2.1304,
+      "prior_variance": 0.256445,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -0.3558,
+      "prior_variance": 0.224635,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 2.2001,
+      "prior_variance": 0.221544,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/vermont/greensboro",
+      "prior_score": -2.1522,
+      "prior_variance": 0.246108,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tongatapu",
+      "path": "australiaandpacific/tonga/tongatapu",
+      "prior_score": 2.0823,
+      "prior_variance": 0.260257,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_score": 0.3852,
+      "prior_variance": 0.229846,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Nauru",
+      "path": "australiaandpacific/nauru",
+      "prior_score": -4.1749,
+      "prior_variance": 0.348416,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_score": -1.5965,
+      "prior_variance": 0.228517,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Beit Sahur",
+      "path": "asia/palestinianauthority/beitsahur",
+      "prior_score": -6.0527,
+      "prior_variance": 0.360949,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -4.3216,
+      "prior_variance": 0.273513,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Morrungulo",
+      "path": "africa/mozambique/morrungulo",
+      "prior_score": -4.0401,
+      "prior_variance": 0.342312,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Fort Bend County",
+      "path": "northamerica/unitedstates/texas/houston/fortbendcounty",
+      "prior_score": -5.1956,
+      "prior_variance": 0.260279,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -6.4607,
+      "prior_variance": 0.265162,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Basti Rind",
+      "path": "asia/pakistan/dera_ghazi_khan/basti_rind",
+      "prior_score": -12.3699,
+      "prior_variance": 0.476562,
+      "prior_n": 5
+    }
+  ]
+}

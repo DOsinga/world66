@@ -5,6 +5,7 @@ latitude: 40.3468
 longitude: -75.1304
 title: Bucks County
 type: location
+score: 0.49
 ---
 
 Bucks County sits just north of Philadelphia, stretching from the Delaware River west through rolling farmland and small historic towns. William Penn received the land as part of his original grant, and the county retains a colonial character — covered bridges, fieldstone farmhouses, and village greens that haven't changed much since the 18th century.

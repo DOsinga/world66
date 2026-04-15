@@ -5,6 +5,7 @@ latitude: -8.160924
 longitude: 115.024532
 title: Lovina
 type: location
+score: 0.6
 ---
 
 Lovina is a string of small coastal villages along the north coast of [Bali](/asia/indonesia/bali), stretching several kilometres either side of the main settlement of Kalibukbuk. It is the north coast's main tourist area, but feels like a different world from the south — quieter, cheaper, and more laid-back.

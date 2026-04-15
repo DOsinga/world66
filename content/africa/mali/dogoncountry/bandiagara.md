@@ -5,6 +5,7 @@ latitude: 14.3505
 longitude: -3.6113
 title: Bandiagara
 type: location
+score: 0.46
 ---
 
 Bandiagara is the gateway to the Bandiagara Escarpment, a 200-kilometre sandstone cliff that shelters the Dogon villages. The town itself is dusty and functional, but it is where most travellers arrange guides and supplies before heading out on multi-day treks along the escarpment.

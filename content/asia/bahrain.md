@@ -11,6 +11,7 @@ latitude: 26.0667
 longitude: 50.5577
 title: Bahrain
 type: location
+score: 0.54
 ---
 
 Bahrain is a tiny island kingdom in the Persian Gulf, and it punches well above its weight. Just 780 square kilometers of mostly flat desert, connected to Saudi Arabia by the 25-kilometer King Fahad Causeway, this is one of the most cosmopolitan and historically rich corners of the Middle East. The ancient Dilmun civilization flourished here five thousand years ago, and Bahrain was the center of the Gulf pearl trade for centuries before oil changed everything.

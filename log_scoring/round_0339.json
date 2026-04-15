@@ -1,0 +1,200 @@
+{
+  "round": 339,
+  "timestamp": "2026-04-12T09:12:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Argolis",
+      "path": "europe/greece/argolis",
+      "prior_mu": 24.1468,
+      "prior_sigma": 5.0808,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_mu": 22.6875,
+      "prior_sigma": 5.9442,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_kha",
+      "prior_mu": 22.8415,
+      "prior_sigma": 5.7164,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/scarborough",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_mu": 21.4523,
+      "prior_sigma": 4.7123,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_mu": 22.7223,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Odder",
+      "path": "europe/denmark/odder",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/stourbridge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Gronau",
+      "path": "europe/germany/northrhinewestphalia/gronau",
+      "prior_mu": 22.5282,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_mu": 22.7456,
+      "prior_sigma": 5.7141,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Warrens",
+      "path": "northamerica/unitedstates/wisconsin/warrens",
+      "prior_mu": 22.8066,
+      "prior_sigma": 5.7154,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

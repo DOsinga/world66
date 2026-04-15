@@ -1,0 +1,200 @@
+{
+  "round": 28,
+  "timestamp": "2026-04-11T19:25:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_mu": 33.86,
+      "prior_sigma": 5.73,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Jamaica",
+      "path": "northamerica/jamaica",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_mu": 22.75,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_mu": 21.63,
+      "prior_sigma": 4.73,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Eswatini (Swaziland)",
+      "path": "africa/swaziland",
+      "prior_mu": 22.78,
+      "prior_sigma": 5.96,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mosjoen",
+      "path": "europe/norway/mosjoen",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/leicester_notting/chesterfield",
+      "prior_mu": 22.24,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_mu": 21.59,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_mu": 16.53,
+      "prior_sigma": 6.48,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_mu": 21.96,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_mu": 21.47,
+      "prior_sigma": 5.56,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lubero",
+      "path": "africa/congokinshasa/lubero",
+      "prior_mu": 18.33,
+      "prior_sigma": 6.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

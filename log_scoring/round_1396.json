@@ -1,0 +1,200 @@
+{
+  "round": 1396,
+  "timestamp": "2026-04-12T22:25:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Norfolk",
+      "path": "europe/unitedkingdom/norfolk",
+      "prior_rank": 5270,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "The Tweed",
+      "path": "australiaandpacific/australia/newsouthwales/the_tweed",
+      "prior_rank": 2729,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_rank": 6077,
+      "prior_wins": 35,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_rank": 5793,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Puncak",
+      "path": "asia/indonesia/puncak",
+      "prior_rank": 5909,
+      "prior_wins": 41,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_rank": 2946,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_rank": 4285,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Thuburbo majus",
+      "path": "africa/tunisia/thuburbomajus",
+      "prior_rank": 4121,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mozambique",
+      "path": "africa/mozambique",
+      "prior_rank": 6669,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Banana islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_rank": 5811,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Podgorica",
+      "path": "europe/serbiaandmontenegro/podgorica",
+      "prior_rank": 5506,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/whanganui_region/wanganui",
+      "prior_rank": 6450,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_rank": 2575,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Denman Island",
+      "path": "northamerica/canada/britishcolumbia/denman_island",
+      "prior_rank": 3943,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_rank": 6666,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_rank": 5069,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_rank": 4326,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_rank": 5454,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pambula",
+      "path": "australiaandpacific/australia/newsouthwales/pambula",
+      "prior_rank": 6239,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_rank": 6714,
+      "prior_wins": 33,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Chagauramas",
+      "path": "northamerica/trinidadandtobago/chagauramas",
+      "prior_rank": 4627,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Blandford",
+      "path": "europe/unitedkingdom/england/blandford",
+      "prior_rank": 5971,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Hedensted",
+      "path": "europe/denmark/hedensted",
+      "prior_rank": 6317,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_rank": 7051,
+      "prior_wins": 23,
+      "prior_n": 4
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 57.721
 longitude: 12.9401
 done:
   location_cleanup: 2026-04-05
+score: 0.43
 ---
 
 Borås is a modest-sized city of around 75,000 people in Västra Götaland, about an hour's drive east of Gothenburg and the same distance south-west of Jönköping. For most of its history it was the textile capital of Sweden — the mills along the Viskan river produced the fabric that clothed the country, and the city's identity is still bound up with that heritage, even though the last big mills closed decades ago. What the textile industry left behind is more interesting than the cliché suggests: Borås today is home to some of the strongest design and fashion schools in Scandinavia, a public sculpture collection that includes works by Jim Dine, Pierre Huyghe, and Tony Cragg scattered through the streets, and a downtown area that has reinvented itself around art, cafés, and good shopping.

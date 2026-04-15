@@ -1,0 +1,200 @@
+{
+  "round": 1266,
+  "timestamp": "2026-04-12T22:18:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_rank": 1006,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Rakitnica Canyon",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon",
+      "prior_rank": 6097,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_rank": 2359,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_rank": 6592,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea",
+      "prior_rank": 2333,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_rank": 7292,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_rank": 5190,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/yucatan/puertoescondido",
+      "prior_rank": 6501,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "New Bedford",
+      "path": "northamerica/unitedstates/massachusetts/newbedford",
+      "prior_rank": 6496,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tajpur",
+      "path": "asia/india/westbengal/mandarmani/tajpur",
+      "prior_rank": 7648,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Timaru",
+      "path": "australiaandpacific/newzealand/timaru",
+      "prior_rank": 6520,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_rank": 5296,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_rank": 6879,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_rank": 4064,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Manawatu",
+      "path": "australiaandpacific/newzealand/north_island/manawatu",
+      "prior_rank": 7311,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_rank": 6876,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Chigwell",
+      "path": "europe/unitedkingdom/england/chigwell",
+      "prior_rank": 5134,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Witney",
+      "path": "europe/unitedkingdom/england/witney",
+      "prior_rank": 7058,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/wakefield",
+      "prior_rank": 7035,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lismore",
+      "path": "australiaandpacific/australia/newsouthwales/lismore",
+      "prior_rank": 5589,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_rank": 6258,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Mol",
+      "path": "europe/belgium/mol",
+      "prior_rank": 7691,
+      "prior_wins": 21,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_rank": 6049,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_rank": 7353,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

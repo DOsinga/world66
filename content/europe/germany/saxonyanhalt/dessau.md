@@ -5,6 +5,7 @@ latitude: 51.8313
 longitude: 12.2442
 title: Dessau
 type: location
+score: 0.43
 ---
 
 Dessau is where modernism put down roots. The Bauhaus school moved here from Weimar in 1925, and the buildings Walter Gropius designed for it — the Bauhaus Building, the Meisterhäuser, the Kornhaus — still stand as a UNESCO World Heritage Site. If you care about architecture and design, this small city on the Elbe is a genuine pilgrimage.

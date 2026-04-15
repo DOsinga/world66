@@ -1,0 +1,200 @@
+{
+  "round": 2271,
+  "timestamp": "2026-04-13T16:26:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_score": 13.8554,
+      "prior_variance": 0.705364,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_score": 6.2343,
+      "prior_variance": 0.246452,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_score": 4.1635,
+      "prior_variance": 0.380001,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": 2.838,
+      "prior_variance": 0.217711,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_score": 5.8981,
+      "prior_variance": 0.161464,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_score": 4.8878,
+      "prior_variance": 0.21753,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 3.6659,
+      "prior_variance": 0.226083,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/grlitz",
+      "prior_score": 2.0703,
+      "prior_variance": 0.264663,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_score": 4.0748,
+      "prior_variance": 0.255197,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_score": 0.2189,
+      "prior_variance": 0.301792,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 3.4612,
+      "prior_variance": 0.237282,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.8277,
+      "prior_variance": 0.202603,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_score": 1.5722,
+      "prior_variance": 0.2036,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_score": 1.3349,
+      "prior_variance": 0.255381,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 1.0994,
+      "prior_variance": 0.305948,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": 0.8823,
+      "prior_variance": 0.225604,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 1.8671,
+      "prior_variance": 0.246092,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -1.3785,
+      "prior_variance": 0.230973,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -0.6537,
+      "prior_variance": 0.232375,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_score": -2.0767,
+      "prior_variance": 0.276821,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/yucatan/tehuacan",
+      "prior_score": -3.456,
+      "prior_variance": 0.221113,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Trabuco Canyon",
+      "path": "northamerica/unitedstates/california/orangecounty/trabucocanyon",
+      "prior_score": -2.3484,
+      "prior_variance": 0.225728,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -2.222,
+      "prior_variance": 0.284931,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Ravi",
+      "path": "europe/estonia/voru/ravi",
+      "prior_score": -4.8685,
+      "prior_variance": 0.296082,
+      "prior_n": 6
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 52.167533
 longitude: -2.33116
 title: Malvern Hills
 type: location
+score: 0.52
 ---
 
 The Malvern Hills rise sharply from the Worcestershire plain, a nine-mile ridge of ancient pre-Cambrian rock that feels far wilder than its gentle height (the highest point, Worcestershire Beacon, is just 425 metres) might suggest. The walking is excellent — the ridge path runs the full length with panoramic views in every direction, from the Cotswolds to the Black Mountains of Wales.

@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-09'
 title: Southern Highlands
 type: location
+score: 0.46
 ---
 
 The Southern Highlands are one of Tanzania's least-visited regions, and that's part of the appeal. The landscape south of the Great Ruaha is cooler, greener, and more densely forested than the northern plains — wattle and tea plantations around Njombe, dramatic escarpments along the Rift Valley edge, and the highland forests of Udzungwa to the east.

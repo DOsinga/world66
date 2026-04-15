@@ -1,8 +1,9 @@
 ---
-title: "South Australia"
+title: South Australia
 type: location
 latitude: -30.534367
 longitude: 135.630121
+score: 0.5
 ---
 
 South Australia is a state of sharp contrasts: Mediterranean wine country, arid outback, a long and largely empty coastline, and [Adelaide](/australiaandpacific/australia/southaustralia/adelaide) — a planned colonial city that has become Australia's festival and food capital.

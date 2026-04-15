@@ -5,6 +5,7 @@ latitude: 45.464981
 longitude: -98.487813
 title: Aberdeen
 type: location
+score: 0.32
 ---
 
 We currently have no information about Aberdeen.

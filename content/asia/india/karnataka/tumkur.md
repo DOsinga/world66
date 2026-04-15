@@ -5,6 +5,7 @@ latitude: 13.340077
 longitude: 77.100621
 title: Tumkur
 type: location
+score: 0.3
 ---
 
 Tumkur sits 70 km northwest of Bangalore on the Pune highway, at the edge of the Devarayanadurga Hills. It is a busy commercial town and the administrative seat of Tumkur District, known for its markets in coconut, tobacco, and vegetable oil.

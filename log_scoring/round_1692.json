@@ -1,0 +1,200 @@
+{
+  "round": 1692,
+  "timestamp": "2026-04-13T10:42:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorci",
+      "prior_score": 6.664,
+      "prior_variance": 0.337083,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Miljet Island",
+      "path": "europe/croatia/miljet_island",
+      "prior_score": 6.3707,
+      "prior_variance": 0.343801,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 5.1645,
+      "prior_variance": 0.331151,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Virgin Islands",
+      "path": "northamerica/virginislands",
+      "prior_score": 8.3468,
+      "prior_variance": 0.297395,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "La Jolla",
+      "path": "northamerica/unitedstates/california/sandiego/lajolla",
+      "prior_score": 3.8972,
+      "prior_variance": 0.384502,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Tessin",
+      "path": "europe/switzerland/tessin",
+      "prior_score": 0.6928,
+      "prior_variance": 0.387191,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Rosses Point",
+      "path": "europe/ireland/sligo/rossespoint",
+      "prior_score": 1.1523,
+      "prior_variance": 0.326804,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_score": 2.3201,
+      "prior_variance": 0.345195,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_score": 0.0284,
+      "prior_variance": 0.472946,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": -1.4311,
+      "prior_variance": 0.513432,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_score": 0.613,
+      "prior_variance": 0.212308,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": -0.3298,
+      "prior_variance": 0.298152,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_score": -2.1427,
+      "prior_variance": 0.417803,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_score": 0.9588,
+      "prior_variance": 0.31017,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kassel",
+      "path": "europe/germany/hesse/kassel",
+      "prior_score": 0.1315,
+      "prior_variance": 0.317199,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_score": 0.0197,
+      "prior_variance": 0.327481,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": 0.6781,
+      "prior_variance": 0.30929,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 0.9295,
+      "prior_variance": 0.30653,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_score": -1.2989,
+      "prior_variance": 0.386317,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/sandiego/escondido",
+      "prior_score": -2.8395,
+      "prior_variance": 0.37163,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Honduras",
+      "path": "northamerica/honduras",
+      "prior_score": -0.6231,
+      "prior_variance": 0.312664,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/southcarolina/newport",
+      "prior_score": -5.5195,
+      "prior_variance": 0.310444,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Faisalabad",
+      "path": "asia/pakistan/faisalabad",
+      "prior_score": -8.1872,
+      "prior_variance": 0.403418,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lekoumou region",
+      "path": "africa/congobrazzaville/lekoumouregion",
+      "prior_score": -9.326,
+      "prior_variance": 0.372314,
+      "prior_n": 4
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 62.089898
 longitude: -7.234584
 done:
   location_cleanup: 2026-04-07
+score: 0.62
 ---
 
 Vagar (pronounced roughly like Vau-er, with "au" as in "fraud") is the third largest of the Faroe Islands and the one that holds the archipelago's only airport — built on the site of a Royal Air Force station established during the British occupation of the islands in World War II.

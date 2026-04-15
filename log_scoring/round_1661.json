@@ -1,0 +1,200 @@
+{
+  "round": 1661,
+  "timestamp": "2026-04-13T10:39:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_score": 4.2517,
+      "prior_variance": 0.340714,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 3.3014,
+      "prior_variance": 0.336087,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Teton Valley",
+      "path": "northamerica/unitedstates/idaho/teton_valley",
+      "prior_score": 1.4316,
+      "prior_variance": 0.322914,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 3.8058,
+      "prior_variance": 0.326489,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 0.1482,
+      "prior_variance": 0.204682,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_score": 0.714,
+      "prior_variance": 0.398107,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kelowna",
+      "path": "northamerica/canada/britishcolumbia/kelowna",
+      "prior_score": 1.9328,
+      "prior_variance": 0.381346,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_score": 1.961,
+      "prior_variance": 0.353228,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/west_coast/hokitika",
+      "prior_score": 2.5405,
+      "prior_variance": 0.334413,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/lautoka",
+      "prior_score": 0.8755,
+      "prior_variance": 0.413159,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacoruna",
+      "prior_score": 2.7353,
+      "prior_variance": 0.309458,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_score": 2.961,
+      "prior_variance": 0.434907,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": -0.786,
+      "prior_variance": 0.406092,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -0.7981,
+      "prior_variance": 0.375473,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 1.5421,
+      "prior_variance": 0.309527,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_score": 1.1068,
+      "prior_variance": 0.188771,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Oropesa",
+      "path": "europe/spain/centralspain/oropesa",
+      "prior_score": -0.6199,
+      "prior_variance": 0.43578,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 0.7193,
+      "prior_variance": 0.396738,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": -0.0466,
+      "prior_variance": 0.401884,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.4618,
+      "prior_variance": 0.435786,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Shenzhen",
+      "path": "asia/china/shenzhen",
+      "prior_score": -0.5601,
+      "prior_variance": 0.451156,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -0.5204,
+      "prior_variance": 0.334115,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_score": 0.0535,
+      "prior_variance": 0.470828,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": -6.5045,
+      "prior_variance": 0.587154,
+      "prior_n": 4
+    }
+  ]
+}

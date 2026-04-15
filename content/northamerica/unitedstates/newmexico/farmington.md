@@ -5,6 +5,7 @@ latitude: 36.7281
 longitude: -108.2187
 title: Farmington
 type: location
+score: 0.35
 ---
 
 Farmington is the largest city in New Mexico's northwest corner, sitting at the confluence of three rivers — the San Juan, the La Plata, and the Animas. It started as an agricultural town supplying mining communities in the San Juan Mountains and has grown steadily with oil and gas development and an influx of retirees drawn to the high desert climate.

@@ -5,6 +5,7 @@ latitude: 56.243694
 longitude: -4.214803
 title: Callander
 type: location
+score: 0.55
 ---
 
 Callander is one of the two gateway towns to the Trossachs, the other being Aberfoyle. Sitting on the River Teith at the edge of the Highlands, it is a handsome stone-built town that fills with walkers, cyclists, and day-trippers in summer.

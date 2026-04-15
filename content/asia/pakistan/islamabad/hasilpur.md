@@ -5,6 +5,7 @@ latitude: 29.688981
 longitude: 72.552545
 title: Hasilpur
 type: location
+score: 0.24
 ---
 
 Travel Guide

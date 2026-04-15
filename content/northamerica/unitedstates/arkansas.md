@@ -1,8 +1,9 @@
 ---
-title: "Arkansas"
+title: Arkansas
 type: location
 latitude: 35.204888
 longitude: -92.447911
+score: 0.39
 ---
 
 Arkansas is the Natural State. It offers great outdoors vacation opportunities to any traveler who wants to go off the beaten track. There hardly is a beaten track in Arkansas! Check for example [Buffalo River](/northamerica/unitedstates/arkansas/buffaloriver), great for camping and kayaking!

@@ -5,6 +5,7 @@ latitude: 44.145
 longitude: 12.468
 title: Bellaria
 type: location
+score: 0.52
 ---
 
 Bellaria-Igea Marina is a seaside resort on the Adriatic coast between Rimini and Cesenatico. It began as a fishing village and still has some of that character, though today it is firmly a beach holiday town -- long stretches of sand, family-friendly facilities, and a summer calendar packed with events.

@@ -5,6 +5,7 @@ latitude: 34.9531
 longitude: -120.4359
 title: Santa Maria
 type: location
+score: 0.4
 ---
 
 Santa Maria sits in a broad agricultural valley on California's Central Coast, halfway between Los Angeles and San Francisco along Highway 101. The town is best known for its barbecue tradition — tri-tip and pinquito beans cooked over red oak coals, a style that dates back to the nineteenth-century rancho era and remains the centerpiece of local cooking.

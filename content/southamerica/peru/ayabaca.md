@@ -5,6 +5,7 @@ latitude: -4.755769
 longitude: -79.773997
 done:
   location_cleanup: 2026-04-05
+score: 0.42
 ---
 
 Travel Guide

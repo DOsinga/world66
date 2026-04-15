@@ -1,0 +1,200 @@
+{
+  "round": 1541,
+  "timestamp": "2026-04-13T10:29:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oranjestad",
+      "path": "northamerica/aruba/oranjestad",
+      "prior_score": 5.9578,
+      "prior_variance": 0.575247,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Rhode Island",
+      "path": "northamerica/unitedstates/rhodeisland",
+      "prior_score": -1.1324,
+      "prior_variance": 0.302601,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.689,
+      "prior_variance": 0.420559,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -1.1687,
+      "prior_variance": 0.329332,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -3.2751,
+      "prior_variance": 0.325108,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.5526,
+      "prior_variance": 0.351487,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -1.0871,
+      "prior_variance": 0.468056,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_score": -0.7939,
+      "prior_variance": 0.314876,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Vayots Dzor Marz",
+      "path": "europe/armenia/vayots_dzor_marz",
+      "prior_score": -1.4725,
+      "prior_variance": 0.421887,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": -0.6915,
+      "prior_variance": 0.342686,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/ashbourne",
+      "prior_score": -0.9132,
+      "prior_variance": 0.368229,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_score": -1.5892,
+      "prior_variance": 0.372823,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_score": -1.1178,
+      "prior_variance": 0.405202,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -2.4757,
+      "prior_variance": 0.520444,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -3.3872,
+      "prior_variance": 0.336947,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -1.5011,
+      "prior_variance": 0.174174,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -1.6728,
+      "prior_variance": 0.332263,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -2.3556,
+      "prior_variance": 0.469123,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -2.3248,
+      "prior_variance": 0.526806,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -2.0514,
+      "prior_variance": 0.525515,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_score": -2.9957,
+      "prior_variance": 0.368098,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Canyon",
+      "path": "northamerica/unitedstates/texas/amarillo/canyon",
+      "prior_score": -2.9157,
+      "prior_variance": 0.390452,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -0.4188,
+      "prior_variance": 0.395495,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -1.2516,
+      "prior_variance": 0.424655,
+      "prior_n": 3
+    }
+  ]
+}

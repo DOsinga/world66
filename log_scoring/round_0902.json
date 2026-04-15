@@ -1,0 +1,200 @@
+{
+  "round": 902,
+  "timestamp": "2026-04-12T14:48:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wadi Rum",
+      "path": "asia/jordan/wadirum",
+      "prior_score": 10.8618,
+      "prior_variance": 1.99813,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 5.764,
+      "prior_variance": 3.029667,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 5.4842,
+      "prior_variance": 1.446397,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 6.8723,
+      "prior_variance": 1.121844,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 7.0143,
+      "prior_variance": 1.844921,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Orebic",
+      "path": "europe/croatia/orebic",
+      "prior_score": 4.3017,
+      "prior_variance": 0.704607,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_score": 4.5377,
+      "prior_variance": 1.452793,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 2.2777,
+      "prior_variance": 0.720309,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Israel",
+      "path": "asia/israel",
+      "prior_score": 2.8586,
+      "prior_variance": 1.743948,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.494,
+      "prior_variance": 1.565243,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_score": 2.6397,
+      "prior_variance": 1.682773,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 5.0261,
+      "prior_variance": 1.949368,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_score": 1.6183,
+      "prior_variance": 1.826296,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": 2.3474,
+      "prior_variance": 1.271641,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "La Mancha",
+      "path": "europe/spain/la_mancha",
+      "prior_score": 3.5859,
+      "prior_variance": 1.598011,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Norfolk",
+      "path": "europe/unitedkingdom/norfolk",
+      "prior_score": 1.0904,
+      "prior_variance": 1.644983,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_score": 1.8565,
+      "prior_variance": 1.281258,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -1.312,
+      "prior_variance": 1.323335,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -3.5006,
+      "prior_variance": 0.852577,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -4.8079,
+      "prior_variance": 1.508235,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_score": -3.2999,
+      "prior_variance": 1.323238,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_score": -4.3977,
+      "prior_variance": 1.312508,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -5.3796,
+      "prior_variance": 1.270176,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Liberia",
+      "path": "africa/liberia",
+      "prior_score": -16.157,
+      "prior_variance": 6.46502,
+      "prior_n": 2
+    }
+  ]
+}

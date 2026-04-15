@@ -5,6 +5,7 @@ latitude: 15.4579
 longitude: 45.323
 done:
   location_cleanup: 2026-04-07
+score: 0.13
 ---
 
 Marib is the most important archaeological site in Yemen and one of the great ancient cities of the Arabian Peninsula. Capital of the Sabaean kingdom from roughly the 8th century BCE, it sat at the crossroads of the incense trade routes that linked the Arabian Sea coast to the Mediterranean world. The Great Dam of Marib, an engineering marvel that irrigated the surrounding desert for over a millennium, was famous enough to be mentioned in the Quran.

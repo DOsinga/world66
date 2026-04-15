@@ -5,6 +5,7 @@ latitude: 31.434992
 longitude: -4.232829
 title: Erfoud
 type: location
+score: 0.53
 ---
 
 Erfoud is a French-built administrative town from the 1930s, its dusty red buildings giving it a pleasantly sleepy, almost ghost-town atmosphere. The town itself is modest, but it sits at the gateway to some of Morocco's most extraordinary desert scenery. The road south from Er-Rachidia is spectacular — ancient Berber kasbahs rising from palm groves that stretch as far as the eye can see.

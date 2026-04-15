@@ -1,8 +1,9 @@
 ---
-title: "Thane"
+title: Thane
 type: location
 latitude: 19.2183
 longitude: 72.9781
+score: 0.33
 ---
 
 Thane sits at the northeastern edge of Mumbai's urban sprawl, separated from the city by Thane Creek and surrounded by a chain of shallow lakes. Once a quiet town and later a dormitory suburb, it has grown into one of Maharashtra's largest cities in its own right — dense, chaotic, and alive with the rhythms of everyday urban India.

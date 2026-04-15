@@ -1,0 +1,200 @@
+{
+  "round": 2224,
+  "timestamp": "2026-04-13T16:21:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marrakech",
+      "path": "africa/morocco/marrakech",
+      "prior_score": 7.8451,
+      "prior_variance": 0.367103,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": 8.0162,
+      "prior_variance": 0.537264,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_score": 9.9588,
+      "prior_variance": 0.360538,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Guilin",
+      "path": "asia/china/guilin",
+      "prior_score": 7.4602,
+      "prior_variance": 0.336283,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 7.301,
+      "prior_variance": 0.30699,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Arles",
+      "path": "europe/france/midi/provence/arles",
+      "prior_score": 6.9417,
+      "prior_variance": 0.248741,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Nuremberg",
+      "path": "europe/germany/bavaria/nuremberg",
+      "prior_score": 5.2273,
+      "prior_variance": 0.260843,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 5.9137,
+      "prior_variance": 0.343062,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Basque Country (Euskadi)",
+      "path": "europe/spain/basque_country_eus",
+      "prior_score": 6.9542,
+      "prior_variance": 0.348341,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Snowdonia",
+      "path": "europe/unitedkingdom/wales/snowdonia",
+      "prior_score": 6.439,
+      "prior_variance": 0.279462,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Botswana",
+      "path": "africa/botswana",
+      "prior_score": 3.0647,
+      "prior_variance": 0.395367,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_score": 4.9438,
+      "prior_variance": 0.31517,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/tennessee/smokymountains",
+      "prior_score": 6.351,
+      "prior_variance": 0.371951,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_score": 6.5226,
+      "prior_variance": 0.264835,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Aruba",
+      "path": "northamerica/aruba",
+      "prior_score": 10.2232,
+      "prior_variance": 0.692362,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 7.319,
+      "prior_variance": 0.273553,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Koh Mak",
+      "path": "asia/thailand/koh_mak",
+      "prior_score": 5.1232,
+      "prior_variance": 0.234521,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Arizona",
+      "path": "northamerica/unitedstates/arizona",
+      "prior_score": 4.752,
+      "prior_variance": 0.362988,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 5.8136,
+      "prior_variance": 0.284699,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Outer Banks",
+      "path": "northamerica/unitedstates/northcarolina/outerbanks",
+      "prior_score": 4.1845,
+      "prior_variance": 0.359162,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ginza",
+      "path": "asia/japan/tokyo/ginza",
+      "prior_score": 8.6899,
+      "prior_variance": 0.46225,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sweden",
+      "path": "europe/sweden",
+      "prior_score": 2.386,
+      "prior_variance": 0.355073,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_score": 4.2328,
+      "prior_variance": 0.294596,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": 1.0723,
+      "prior_variance": 0.266507,
+      "prior_n": 6
+    }
+  ]
+}

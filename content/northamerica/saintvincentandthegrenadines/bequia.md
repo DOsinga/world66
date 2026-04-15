@@ -5,6 +5,7 @@ latitude: 13.0087
 longitude: -61.2327
 title: Bequia
 type: location
+score: 0.54
 ---
 
 Bequia is the largest of the Grenadine islands belonging to St. Vincent, a small, hilly island of about 7 square miles set between the Caribbean Sea to the west and the Atlantic to the east. With a population of around 5,000, it has retained a quiet, unhurried pace that the bigger resort islands have long since lost.

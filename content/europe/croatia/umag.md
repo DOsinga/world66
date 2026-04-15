@@ -5,6 +5,7 @@ latitude: 45.432359
 longitude: 13.52241
 title: Umag
 type: location
+score: 0.58
 ---
 
 Umag is a small harbour town at the very northwestern tip of the Istrian peninsula in [Croatia](/europe/croatia), the first stop on the coast if you are coming from Italy or Slovenia. The old town sits on a small promontory, its narrow streets lined with Venetian houses, remnants of medieval walls, and churches — the most notable being the parish church of the Assumption and the church of St Peregrine.

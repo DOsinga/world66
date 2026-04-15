@@ -1,0 +1,200 @@
+{
+  "round": 1059,
+  "timestamp": "2026-04-12T22:07:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shasta Cascade",
+      "path": "northamerica/unitedstates/california/shastacascade",
+      "prior_rank": 2421,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_rank": 2431,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola/pensacola_beach",
+      "prior_rank": 2648,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_rank": 3201,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sahara desert",
+      "path": "africa/algeria/saharadesert",
+      "prior_rank": 2157,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_rank": 4280,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/west_coast/hokitika",
+      "prior_rank": 3171,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_rank": 3192,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Jaen",
+      "path": "europe/spain/jaen",
+      "prior_rank": 3806,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_rank": 2754,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_rank": 3819,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_rank": 2803,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_rank": 2764,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_rank": 3794,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_rank": 3809,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_rank": 4679,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Black Sea Coast",
+      "path": "europe/romania/blackseacoast",
+      "prior_rank": 4442,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_rank": 6924,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_rank": 3139,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/spiekeroog",
+      "prior_rank": 4248,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_rank": 5268,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/warwick",
+      "prior_rank": 1743,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_rank": 3301,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_rank": 3351,
+      "prior_wins": 13,
+      "prior_n": 1
+    }
+  ]
+}

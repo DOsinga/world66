@@ -1,8 +1,9 @@
 ---
-title: "Terschelling island"
+title: Terschelling island
 type: location
 latitude: 53.394717
 longitude: 5.28768
+score: 0.55
 ---
 
 Travel Guide
@@ -20,8 +21,8 @@ reserve' since 1970. Because Terschelling borders on the Wadden Sea,
 which uncovers twice every 24 hours, it makes the island a favourite
 feeding area for (migratory) birds.
 
-[West-Terschelling](/europe/netherlands/waddenislands/terschelling_islan/westterschelling), the largest of the island's villages, is the port of call for the ferry from the mainland. Here, as in
-[Midsland](/europe/netherlands/waddenislands/terschelling_islan/midsland),
+[West-Terschelling](/europe/netherlands/waddenislands/terschelling/westterschelling), the largest of the island's villages, is the port of call for the ferry from the mainland. Here, as in
+[Midsland](/europe/netherlands/waddenislands/terschelling/midsland),
 typical facades of former Commodores' dwellings recall the Golden Age
 of international commerce and whaling. Over 600 wild plants species do
 well on Terschelling: some orchid varieties you see here in May-June
@@ -33,4 +34,4 @@ sea aster and sea lavender.
 What cannot be found on any of the other Dutch
 [Wadden islands](/europe/netherlands/waddenislands), are the cranberry or American fen-berry bogs; the berries are incorporated in various typical Terschelling products.
 
-The tourist season spreads from june to september. Every year in mid june, there is the eccentric festival called [**Oerol**](/europe/netherlands/waddenislands/terschelling_islan/festivals/oerol) ('everywhere', in dialect). Check the [Festivals] section for details.
+The tourist season spreads from june to september. Every year in mid june, there is the eccentric festival called [**Oerol**](/europe/netherlands/waddenislands/terschelling/festivals/oerol) ('everywhere', in dialect). Check the [Festivals] section for details.

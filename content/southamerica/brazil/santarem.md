@@ -5,6 +5,7 @@ lat: -2.4385
 long: -54.6996
 title: Santarém
 type: location
+score: 0.43
 ---
 
 Santarém sits at the confluence of the Amazon and Tapajós rivers, roughly halfway between Belém and Manaus, and is one of the most appealing cities in the Brazilian Amazon. Around 250,000 people live here, and the surrounding area offers pristine rainforest, flooded forest, and a string of beautiful sandy beaches along the Tapajós.

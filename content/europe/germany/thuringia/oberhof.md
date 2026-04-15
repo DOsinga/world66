@@ -5,6 +5,7 @@ latitude: 50.706776
 longitude: 10.725744
 title: Oberhof
 type: location
+score: 0.46
 ---
 
 Oberhof is a small resort town in the heart of the Thuringian Forest, sitting at around 800 metres elevation between [Eisenach](/europe/germany/thuringia/eisenach) and [Jena](/europe/germany/thuringia/jena). It has been drawing visitors since the 19th century, first for the clean mountain air and now for its reputation as one of Germany's premier winter sports centres.

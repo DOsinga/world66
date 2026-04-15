@@ -5,6 +5,7 @@ latitude: 53.790726
 longitude: -2.24392
 title: Burnley
 type: location
+score: 0.32
 ---
 
 From a lively nightlife to dynamic theatrical productions, Burnley

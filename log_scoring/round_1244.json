@@ -1,0 +1,200 @@
+{
+  "round": 1244,
+  "timestamp": "2026-04-12T22:17:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lower saxony",
+      "path": "europe/germany/lowersaxony",
+      "prior_rank": 7757,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_rank": 7959,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/stokeontrent_st",
+      "prior_rank": 7435,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Orpington",
+      "path": "europe/unitedkingdom/england/orpington",
+      "prior_rank": 7769,
+      "prior_wins": 15,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_rank": 3536,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_rank": 7708,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_rank": 6947,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_rank": 6715,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Shirak Marz",
+      "path": "europe/armenia/shirak_marz",
+      "prior_rank": 7758,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_rank": 7140,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Zagouhan",
+      "path": "africa/tunisia/zagouhan",
+      "prior_rank": 7097,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/yucatan/anahuac",
+      "prior_rank": 8031,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_rank": 6974,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Neumuenster",
+      "path": "europe/germany/schleswigholstein/neumuenster",
+      "prior_rank": 7331,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Conway",
+      "path": "northamerica/unitedstates/arkansas/conway",
+      "prior_rank": 7313,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nightlife and Entertainment",
+      "path": "northamerica/canada/princeedwardisland/entertainment",
+      "prior_rank": 6453,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_rank": 6677,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/yucatan/naulcapan",
+      "prior_rank": 7762,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Galanta",
+      "path": "europe/slovakia/galanta",
+      "prior_rank": 6952,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_rank": 7812,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "dang ghorahi",
+      "path": "asia/nepal/dang_ghorahi",
+      "prior_rank": 7595,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Zaria",
+      "path": "africa/nigeria/zaria",
+      "prior_rank": 7324,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Wilburton",
+      "path": "northamerica/unitedstates/oklahoma/wilburton",
+      "prior_rank": 7650,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Dag nabbit good stuf",
+      "path": "europe/luxembourg/beaufort/dag_nabbit_good_st",
+      "prior_rank": 5179,
+      "prior_wins": 28,
+      "prior_n": 3
+    }
+  ]
+}

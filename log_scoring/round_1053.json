@@ -1,0 +1,200 @@
+{
+  "round": 1053,
+  "timestamp": "2026-04-12T22:06:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cook Islands",
+      "path": "australiaandpacific/cookislands",
+      "prior_rank": 521,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_rank": 583,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_rank": 528,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tibet",
+      "path": "asia/china/tibet",
+      "prior_rank": 279,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_rank": 2661,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/rotorua",
+      "prior_rank": 108,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_rank": 710,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_rank": 1174,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Slovenia",
+      "path": "europe/slovenia",
+      "prior_rank": 1133,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Rico",
+      "path": "northamerica/thecaribbean/puertorico",
+      "prior_rank": 32,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "British Columbia",
+      "path": "northamerica/canada/britishcolumbia",
+      "prior_rank": 90,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_rank": 304,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_rank": 527,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Otranto",
+      "path": "europe/italy/puglia/otranto",
+      "prior_rank": 1697,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_rank": 3783,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_rank": 358,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_rank": 111,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_rank": 788,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_rank": 636,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_rank": 1907,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Porto Colom",
+      "path": "europe/spain/balearicislands/mallorca/porto_colom",
+      "prior_rank": 1004,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_rank": 635,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_rank": 1420,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Liechtenstein",
+      "path": "europe/liechtenstein",
+      "prior_rank": 201,
+      "prior_wins": 43,
+      "prior_n": 2
+    }
+  ]
+}

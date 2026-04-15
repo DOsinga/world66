@@ -5,6 +5,7 @@ latitude: 40.8294
 longitude: 43.8276
 title: Shirak Marz
 type: location
+score: 0.35
 ---
 
 Shirak Marz is in the northwest corner of Armenia. The region is flatter and higher than much of the country, with long, cold winters — and a welcome relief from the heat of Yerevan in August. [Gyumri](/europe/armenia/shirak_marz/gyumri), Armenia's second largest city, is the main destination.

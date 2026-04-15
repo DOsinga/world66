@@ -1,0 +1,200 @@
+{
+  "round": 1939,
+  "timestamp": "2026-04-13T15:56:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 7.9916,
+      "prior_variance": 0.328458,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 5.4326,
+      "prior_variance": 0.317956,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Friuli Venezia Giulia",
+      "path": "europe/italy/friuliveneziagiulia",
+      "prior_score": 3.411,
+      "prior_variance": 0.336557,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 5.5777,
+      "prior_variance": 0.340375,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Casamicciola Terme",
+      "path": "europe/italy/campania/ischia/casamicciola",
+      "prior_score": 2.2721,
+      "prior_variance": 0.299281,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon",
+      "prior_score": 4.0258,
+      "prior_variance": 0.277566,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 1.4533,
+      "prior_variance": 0.196266,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 1.3378,
+      "prior_variance": 0.264405,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/warwick",
+      "prior_score": 1.2126,
+      "prior_variance": 0.332954,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_score": 1.9595,
+      "prior_variance": 0.180765,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": 0.518,
+      "prior_variance": 0.266528,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": 0.2269,
+      "prior_variance": 0.248273,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 1.0185,
+      "prior_variance": 0.242264,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": 2.654,
+      "prior_variance": 0.310203,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Overberg",
+      "path": "africa/southafrica/overberg",
+      "prior_score": 0.9499,
+      "prior_variance": 0.318624,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_score": -0.8743,
+      "prior_variance": 0.33236,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Idaho",
+      "path": "northamerica/unitedstates/idaho",
+      "prior_score": -0.1543,
+      "prior_variance": 0.379349,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/maidstone",
+      "prior_score": -2.4427,
+      "prior_variance": 0.22686,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_score": -0.4479,
+      "prior_variance": 0.314708,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -8.809,
+      "prior_variance": 0.499854,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/yucatan/ojinaga",
+      "prior_score": -5.3309,
+      "prior_variance": 0.27036,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southcarolina/aberdeen",
+      "prior_score": -6.3693,
+      "prior_variance": 0.348748,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -8.262,
+      "prior_variance": 0.346184,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -9.9002,
+      "prior_variance": 0.411768,
+      "prior_n": 5
+    }
+  ]
+}

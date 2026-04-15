@@ -1,10 +1,11 @@
 ---
-title: "Lesbos"
+title: Lesbos
 type: location
 latitude: 39.175842
 longitude: 25.998914
 done:
   location_cleanup: '2026-04-07'
+score: 0.62
 ---
 
 Lesbos lies at a very short distance from the Turkish coast and is the third largest island in Greece. Its people traditionally make a living from fishing, farming, cheese-making, and growing olives, fruit, and vegetables. Tourism is a comparative newcomer, accounting for only about 10% of the local economy, which helps keep the island feeling authentically Greek rather than resort-oriented.

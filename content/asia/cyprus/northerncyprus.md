@@ -1,8 +1,11 @@
 ---
-title: "Northern Cyprus"
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 35.224531
 longitude: 33.625238
+score: 0.56
+title: Northern Cyprus
+type: location
 ---
 
 The northern part of Cyprus, the "Republic of Northern Cyprus", how the Turks call the area, takes about 38% of the whole island. This part of Cyprus is only open to tourists and Turkish cypriots - Greek cypriots are not allowed to enter. The situation today is practically the same as it was in 1975 after the coup (to read more see cyprus/history ). Each side, the northern and the western part, has its own President, Parliament and Cabinet. There are no ties between the two areas. 

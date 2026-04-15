@@ -1,0 +1,200 @@
+{
+  "round": 1811,
+  "timestamp": "2026-04-13T10:53:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 11.5807,
+      "prior_variance": 0.635818,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Scotland",
+      "path": "europe/unitedkingdom/scotland",
+      "prior_score": 1.1598,
+      "prior_variance": 0.501935,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Patagonia",
+      "path": "southamerica/argentina/patagonia",
+      "prior_score": 6.238,
+      "prior_variance": 0.853303,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_score": 9.4129,
+      "prior_variance": 0.750067,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 10.3861,
+      "prior_variance": 0.535366,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 6.299,
+      "prior_variance": 0.364162,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 5.2205,
+      "prior_variance": 0.365855,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Gower",
+      "path": "europe/unitedkingdom/wales/gower",
+      "prior_score": 2.7298,
+      "prior_variance": 0.273332,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Torrevieja",
+      "path": "europe/spain/spanishcostas/torrevieja",
+      "prior_score": 0.5823,
+      "prior_variance": 0.306487,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_score": 4.8065,
+      "prior_variance": 0.348115,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 2.8366,
+      "prior_variance": 0.343932,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 1.6673,
+      "prior_variance": 0.337204,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_score": 2.0609,
+      "prior_variance": 0.285419,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 1.4394,
+      "prior_variance": 0.435219,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_score": -0.0887,
+      "prior_variance": 0.313132,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": -1.0997,
+      "prior_variance": 0.425783,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Srinagar (Pauri Garhwal)",
+      "path": "asia/india/uttaranchal/srinagar_pauri_ga",
+      "prior_score": -4.5172,
+      "prior_variance": 0.304835,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -2.4369,
+      "prior_variance": 0.452932,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": 0.7189,
+      "prior_variance": 0.333718,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "San Giorgio Lucano",
+      "path": "europe/italy/basilicata/san_giorgio_lucano",
+      "prior_score": -3.7629,
+      "prior_variance": 0.325098,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -5.626,
+      "prior_variance": 0.374175,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Brong Ahafo Region",
+      "path": "africa/ghana/brong_ahafo_region",
+      "prior_score": -4.5736,
+      "prior_variance": 0.290507,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -4.7645,
+      "prior_variance": 0.351373,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Williamstown",
+      "path": "northamerica/unitedstates/newjersey/williamstown",
+      "prior_score": -7.0725,
+      "prior_variance": 0.387552,
+      "prior_n": 4
+    }
+  ]
+}

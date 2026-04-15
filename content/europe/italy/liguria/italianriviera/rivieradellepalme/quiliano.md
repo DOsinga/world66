@@ -5,6 +5,7 @@ latitude: 44.292536
 longitude: 8.412652
 title: Quiliano
 type: location
+score: 0.39
 ---
 
 Situated in the hinterland between Savona and

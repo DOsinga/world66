@@ -1,6 +1,7 @@
 ---
-title: "Bazral Ugalisharif"
+title: Bazral Ugalisharif
 type: location
+score: 0.17
 ---
 
 Travel Guide

@@ -1,0 +1,200 @@
+{
+  "round": 1525,
+  "timestamp": "2026-04-13T10:28:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "France",
+      "path": "europe/france",
+      "prior_score": 17.0697,
+      "prior_variance": 0.926994,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 12.119,
+      "prior_variance": 1.212168,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_score": 14.4037,
+      "prior_variance": 0.676416,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bavaria",
+      "path": "europe/germany/bavaria",
+      "prior_score": 8.7067,
+      "prior_variance": 0.849272,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_score": 6.6187,
+      "prior_variance": 0.511207,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_score": 6.0696,
+      "prior_variance": 0.463146,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict",
+      "prior_score": 6.4656,
+      "prior_variance": 0.723702,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 5.734,
+      "prior_variance": 0.442122,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 3.145,
+      "prior_variance": 0.372768,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Liechtenstein",
+      "path": "europe/liechtenstein",
+      "prior_score": 3.4805,
+      "prior_variance": 0.475427,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 10.492,
+      "prior_variance": 0.939656,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 5.2466,
+      "prior_variance": 0.257982,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_score": 2.7235,
+      "prior_variance": 0.486206,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 3.4724,
+      "prior_variance": 0.534481,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 4.2935,
+      "prior_variance": 0.365795,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/chengdu/dujiangyan",
+      "prior_score": 3.9784,
+      "prior_variance": 0.374571,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 2.8019,
+      "prior_variance": 0.337251,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 4.3261,
+      "prior_variance": 0.409086,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": 1.7118,
+      "prior_variance": 0.334957,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_score": 1.0716,
+      "prior_variance": 0.369394,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 3.4505,
+      "prior_variance": 0.443894,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_score": 2.5397,
+      "prior_variance": 0.310342,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 2.1113,
+      "prior_variance": 0.434989,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 1.8249,
+      "prior_variance": 0.343463,
+      "prior_n": 4
+    }
+  ]
+}

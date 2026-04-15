@@ -5,6 +5,7 @@ latitude: 47.550753
 longitude: 9.692662
 title: Lindau
 type: location
+score: 0.59
 ---
 
 Lindau is a small Bavarian town on an island in Lake Constance (the Bodensee), connected to the mainland by a road causeway and a railway bridge. The setting is exceptional — the old town sits on the island while the Alpine peaks of Austria and Switzerland rise across the water.

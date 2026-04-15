@@ -5,6 +5,7 @@ latitude: 39.5243
 longitude: -122.1914
 title: Willows
 type: location
+score: 0.3
 ---
 
 Willows is a small agricultural town in California's Sacramento Valley, about halfway between Sacramento and Redding on Interstate 5. With a population around 6,000, it functions mostly as a rest stop and service point for travelers driving the length of the Central Valley. The surrounding land is some of California's most productive rice country, and you'll see flooded paddies stretching to the horizon in winter and spring.

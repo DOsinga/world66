@@ -1,0 +1,200 @@
+{
+  "round": 1908,
+  "timestamp": "2026-04-13T14:35:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 9.3666,
+      "prior_variance": 0.8166,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/sandiego/delmar",
+      "prior_score": -0.3872,
+      "prior_variance": 0.42105,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_score": 3.3686,
+      "prior_variance": 0.297321,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 4.7717,
+      "prior_variance": 0.330274,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 2.3117,
+      "prior_variance": 0.328022,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tamil Nadu",
+      "path": "asia/india/tamilnadu",
+      "prior_score": -0.6756,
+      "prior_variance": 0.392067,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_score": 1.5309,
+      "prior_variance": 0.510287,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -0.3423,
+      "prior_variance": 0.199883,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_score": 0.3439,
+      "prior_variance": 0.293178,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 1.7878,
+      "prior_variance": 0.256729,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Cetinje",
+      "path": "europe/serbiaandmontenegro/cetinje",
+      "prior_score": 0.5227,
+      "prior_variance": 0.33347,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_score": 1.9416,
+      "prior_variance": 0.247242,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Brava",
+      "path": "africa/capeverde/brava",
+      "prior_score": -0.7494,
+      "prior_variance": 0.326421,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -2.702,
+      "prior_variance": 0.348733,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.5606,
+      "prior_variance": 0.322777,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": -0.5091,
+      "prior_variance": 0.408197,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.1471,
+      "prior_variance": 0.26715,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -1.8932,
+      "prior_variance": 0.24485,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Georgia",
+      "path": "northamerica/unitedstates/georgia",
+      "prior_score": -0.6741,
+      "prior_variance": 0.353711,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Maasmechelen",
+      "path": "europe/belgium/maasmechelen",
+      "prior_score": -2.7358,
+      "prior_variance": 0.210749,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -2.9209,
+      "prior_variance": 0.397354,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": 0.2411,
+      "prior_variance": 0.43301,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -5.7586,
+      "prior_variance": 0.294327,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.4217,
+      "prior_variance": 0.354739,
+      "prior_n": 4
+    }
+  ]
+}

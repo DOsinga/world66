@@ -11,6 +11,7 @@ latitude: 25.3548
 longitude: 51.1839
 title: Qatar
 type: location
+score: 0.52
 ---
 
 *Asia > Qatar*

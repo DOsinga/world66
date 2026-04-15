@@ -1,0 +1,200 @@
+{
+  "round": 1799,
+  "timestamp": "2026-04-13T10:52:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_score": 3.218,
+      "prior_variance": 0.332111,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 3.6525,
+      "prior_variance": 0.331845,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube__nort",
+      "prior_score": 3.3218,
+      "prior_variance": 0.308387,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 1.5713,
+      "prior_variance": 0.300542,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 2.2629,
+      "prior_variance": 0.313062,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_score": 0.0417,
+      "prior_variance": 0.307827,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -0.7977,
+      "prior_variance": 0.354142,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 1.7014,
+      "prior_variance": 0.291557,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re",
+      "prior_score": 0.0721,
+      "prior_variance": 0.360752,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": 0.2329,
+      "prior_variance": 0.364371,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "The Coast",
+      "path": "africa/kenya/thecoast",
+      "prior_score": 0.5504,
+      "prior_variance": 0.361848,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -2.2499,
+      "prior_variance": 0.303195,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_score": -2.4615,
+      "prior_variance": 0.394089,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -2.7077,
+      "prior_variance": 0.304213,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -2.8424,
+      "prior_variance": 0.305961,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Maitland",
+      "path": "northamerica/unitedstates/florida/maitland",
+      "prior_score": -3.9223,
+      "prior_variance": 0.324382,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.1546,
+      "prior_variance": 0.310745,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -4.631,
+      "prior_variance": 0.30747,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 2.1102,
+      "prior_variance": 0.261701,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -4.2419,
+      "prior_variance": 0.478407,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_score": -6.2524,
+      "prior_variance": 0.436068,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_score": -4.092,
+      "prior_variance": 0.303048,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -5.7103,
+      "prior_variance": 0.370532,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_score": -5.1257,
+      "prior_variance": 0.24122,
+      "prior_n": 6
+    }
+  ]
+}

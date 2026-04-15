@@ -1,0 +1,200 @@
+{
+  "round": 1652,
+  "timestamp": "2026-04-13T10:39:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith",
+      "prior_score": 1.1718,
+      "prior_variance": 0.291042,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/norderney",
+      "prior_score": 0.06,
+      "prior_variance": 0.324755,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": -1.3985,
+      "prior_variance": 0.45269,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": -0.9971,
+      "prior_variance": 0.372084,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Masirah Island",
+      "path": "asia/oman/masirahisland",
+      "prior_score": -1.681,
+      "prior_variance": 0.334801,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -2.0981,
+      "prior_variance": 0.457708,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Almansa",
+      "path": "europe/spain/la_mancha/almansa",
+      "prior_score": -1.0139,
+      "prior_variance": 0.303095,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -1.1958,
+      "prior_variance": 0.39819,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -2.3858,
+      "prior_variance": 0.350018,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Meuse",
+      "path": "europe/france/east/lorraine/meuse",
+      "prior_score": -1.2127,
+      "prior_variance": 0.301947,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_score": -2.5214,
+      "prior_variance": 0.360183,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.4361,
+      "prior_variance": 0.312004,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_score": -1.8457,
+      "prior_variance": 0.373541,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_score": -4.7454,
+      "prior_variance": 0.5061,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_score": -2.6331,
+      "prior_variance": 0.246131,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -4.1431,
+      "prior_variance": 0.368869,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/coventry",
+      "prior_score": -2.4606,
+      "prior_variance": 0.398218,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -2.0738,
+      "prior_variance": 0.319855,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.5713,
+      "prior_variance": 0.338221,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Geel",
+      "path": "europe/belgium/geel",
+      "prior_score": -4.2983,
+      "prior_variance": 0.201646,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_score": -3.9239,
+      "prior_variance": 0.415399,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_score": -1.831,
+      "prior_variance": 0.330433,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Carolina",
+      "path": "northamerica/puertorico/carolina",
+      "prior_score": -1.2931,
+      "prior_variance": 0.344174,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Djibouti",
+      "path": "africa/djibouti",
+      "prior_score": -2.0952,
+      "prior_variance": 0.508736,
+      "prior_n": 4
+    }
+  ]
+}

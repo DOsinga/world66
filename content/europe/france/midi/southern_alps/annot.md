@@ -5,6 +5,7 @@ latitude: 43.966132
 longitude: 6.667486
 title: Annot
 type: location
+score: 0.55
 ---
 
 Annot is a small town in the Southern Alps with more accommodation than you would expect for its size, thanks to its position on the scenic [Train des Pignes](/europe/france/midi/southern_alps/train_des_pignes) line. The mountains on the far side of the railway are littered with massive sandstone boulders called Gres — some the size of houses — and the walk between them is short but thrilling.

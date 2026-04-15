@@ -5,6 +5,7 @@ latitude: 41.555433
 longitude: 2.400279
 title: Argentona
 type: location
+score: 0.44
 ---
 
 Argentona is a small town in the Maresme comarca, 33 km northeast of [Barcelona](/europe/spain/catalonia/barcelona) and just 4 km inland from the coastal town of Mataró. It is a quiet, leafy place that makes a good escape from the city — close enough for a day trip, but with the unhurried feel of a Catalan country town.

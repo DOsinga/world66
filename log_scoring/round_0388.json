@@ -1,0 +1,200 @@
+{
+  "round": 388,
+  "timestamp": "2026-04-12T09:14:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_mu": 23.4814,
+      "prior_sigma": 5.7591,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_mu": 22.7635,
+      "prior_sigma": 5.9548,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_mu": 22.9656,
+      "prior_sigma": 5.7281,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_mu": 22.7203,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "L'Anse aux Meadows",
+      "path": "northamerica/canada/newfoundland/lanseauxmeadows",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_mu": 22.4899,
+      "prior_sigma": 5.5718,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Nantes",
+      "path": "europe/france/normandy/nantes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_mu": 22.3023,
+      "prior_sigma": 5.7863,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/pontefract",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Carlow",
+      "path": "europe/ireland/carlow",
+      "prior_mu": 22.4743,
+      "prior_sigma": 5.9065,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_mu": 22.3714,
+      "prior_sigma": 5.7956,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Uzbekistan",
+      "path": "asia/uzbekistan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Shandong Province",
+      "path": "asia/china/shandong_province",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_mu": 22.902,
+      "prior_sigma": 5.7258,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_mu": 18.2567,
+      "prior_sigma": 6.7445,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    }
+  ]
+}

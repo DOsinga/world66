@@ -5,6 +5,7 @@ latitude: 21.903139
 longitude: 96.049483
 title: “Amarapura”
 type: location
+score: 0.51
 ---
 
 Amarapura -- the “City of Immortals” -- was the royal capital of Burma from 1783, home to 200,000 people at its peak. Today fewer than 10,000 remain, most of them cotton and silk weavers working at looms in workshops you can visit along the main road.

@@ -5,6 +5,7 @@ latitude: 40.9724
 longitude: -117.7348
 title: Winnemucca
 type: location
+score: 0.31
 ---
 
 Winnemucca is a small ranching and mining town on Interstate 80 in northern Nevada, roughly halfway between Reno and Elko. It is the kind of place most people pass through on a long desert drive, but it has more character than the average highway stop.

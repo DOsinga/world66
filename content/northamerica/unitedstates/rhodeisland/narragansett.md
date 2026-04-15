@@ -5,6 +5,7 @@ latitude: 41.432557
 longitude: -71.457984
 title: Narragansett
 type: location
+score: 0.48
 ---
 
 Narragansett is a coastal town on the south shore of [Rhode Island](/northamerica/unitedstates/rhodeisland), looking out across the Atlantic and Narragansett Bay. It has been a beach resort since the 19th century — the ornate stone Towers, the last remnant of a grand Victorian casino that burned down in 1900, still straddle the road leading to the beach.

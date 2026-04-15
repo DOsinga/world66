@@ -5,6 +5,7 @@ latitude: 38.3957
 longitude: 47.6761
 title: Meshkin-Shahr
 type: location
+score: 0.27
 ---
 
 Meshkin-Shahr sits to the west of Ardebil and north of Mount Sabalan in the Iranian province of Ardabil. The climate is temperate in summer and harsh in winter; the surrounding highlands are the territory of Shahsavan pastoral nomads who migrate seasonally with their flocks.

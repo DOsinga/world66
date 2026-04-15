@@ -1,6 +1,7 @@
 ---
-title: "Malla Banas"
+title: Malla Banas
 type: location
+score: 0.26
 ---
 
 Travel Guide

@@ -1,0 +1,200 @@
+{
+  "round": 1062,
+  "timestamp": "2026-04-12T22:07:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_rank": 7932,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/crawley",
+      "prior_rank": 8009,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_rank": 8080,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Harrison",
+      "path": "northamerica/unitedstates/ohio/harrison",
+      "prior_rank": 7687,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_rank": 6978,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Blanchard",
+      "path": "northamerica/unitedstates/oklahoma/blanchard",
+      "prior_rank": 8171,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_rank": 7825,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_rank": 7989,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_rank": 8214,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_rank": 7696,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Golmud",
+      "path": "asia/china/golmud",
+      "prior_rank": 8154,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_rank": 8111,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_rank": 7398,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_rank": 7869,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_rank": 8110,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_rank": 8197,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Santa Rita",
+      "path": "southamerica/brazil/santa_rita",
+      "prior_rank": 7606,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_rank": 7832,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Samundri",
+      "path": "asia/pakistan/faisalabad/samundri",
+      "prior_rank": 7339,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_rank": 8025,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_rank": 7420,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "ghamir dhariyan kot",
+      "path": "asia/pakistan/azad_kashmir/forward_kahuta/tanda_ghamir/ghamir_dhariyan_ko",
+      "prior_rank": 8023,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_rank": 8102,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "weerp",
+      "path": "europe/netherlands/weerp",
+      "prior_rank": 8227,
+      "prior_wins": 1,
+      "prior_n": 7
+    }
+  ]
+}

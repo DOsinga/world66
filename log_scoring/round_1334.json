@@ -1,0 +1,200 @@
+{
+  "round": 1334,
+  "timestamp": "2026-04-12T22:22:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_rank": 5305,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Marsa Matroh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_rank": 6368,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_rank": 7777,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_rank": 7065,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_rank": 6695,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Harihareshwer ( HAHAD/KONKAN)",
+      "path": "asia/india/maharashtra/harihareshwer__ha",
+      "prior_rank": 5346,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_rank": 6791,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Permet",
+      "path": "europe/albania/lezha_castle/permet",
+      "prior_rank": 3471,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_rank": 7264,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_rank": 5707,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Bochum",
+      "path": "europe/germany/bochum",
+      "prior_rank": 7104,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Higuey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_rank": 6582,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_rank": 5240,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/indiana/bloomington",
+      "prior_rank": 6633,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kansas",
+      "path": "northamerica/unitedstates/kansas",
+      "prior_rank": 6061,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Manahawkin",
+      "path": "northamerica/unitedstates/newjersey/manahawkin",
+      "prior_rank": 4340,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/losangeles/burbank",
+      "prior_rank": 6828,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_rank": 6550,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_rank": 6675,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sokobanja",
+      "path": "europe/serbiaandmontenegro/sokobanja",
+      "prior_rank": 6314,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_rank": 6068,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_rank": 6553,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_rank": 6325,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Iroquois Falls",
+      "path": "northamerica/canada/ontario/iroquoisfalls",
+      "prior_rank": 7398,
+      "prior_wins": 14,
+      "prior_n": 3
+    }
+  ]
+}

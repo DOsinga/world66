@@ -1,0 +1,200 @@
+{
+  "round": 632,
+  "timestamp": "2026-04-12T10:40:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_mu": 22.4464,
+      "prior_sigma": 5.7237,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_mu": 22.309,
+      "prior_sigma": 4.7839,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_mu": 22.6244,
+      "prior_sigma": 5.3257,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_mu": 22.8487,
+      "prior_sigma": 5.823,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_mu": 22.976,
+      "prior_sigma": 5.6172,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_mu": 22.7333,
+      "prior_sigma": 5.9142,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "1",
+      "path": "europe/france/val_disere/1_1",
+      "prior_mu": 21.9927,
+      "prior_sigma": 4.5755,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "P\u00e9rigueux",
+      "path": "europe/france/midi/dordogne/perigueux",
+      "prior_mu": 22.9853,
+      "prior_sigma": 5.4781,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_mu": 22.7784,
+      "prior_sigma": 5.6592,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_mu": 22.788,
+      "prior_sigma": 5.9504,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Perpignan",
+      "path": "europe/france/midi/pyrenees/perpignan",
+      "prior_mu": 21.567,
+      "prior_sigma": 4.6543,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_mu": 22.4981,
+      "prior_sigma": 5.8906,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_mu": 22.9227,
+      "prior_sigma": 5.4387,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_mu": 22.6801,
+      "prior_sigma": 5.9588,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Draginuan",
+      "path": "europe/france/midi/draginuan",
+      "prior_mu": 21.9077,
+      "prior_sigma": 4.6985,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_mu": 21.6494,
+      "prior_sigma": 4.5679,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Limousin",
+      "path": "europe/france/centre/limousin",
+      "prior_mu": 22.8015,
+      "prior_sigma": 5.6872,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_mu": 21.6681,
+      "prior_sigma": 4.6396,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Queven",
+      "path": "europe/france/normandybrittany/queven",
+      "prior_mu": 22.7985,
+      "prior_sigma": 5.7257,
+      "prior_n": 1
+    }
+  ]
+}

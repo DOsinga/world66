@@ -5,6 +5,7 @@ latitude: -13.332
 longitude: 48.2631
 title: Nosy Be
 type: location
+score: 0.59
 ---
 
 Madagascar's most popular island sits off the northwest coast, surrounded by warm turquoise water and dozens of smaller islands. Nosy Be draws visitors with its coral reefs, white sand beaches, and a relaxed pace that makes the mainland feel far away. The island is roughly three-quarters the size of Singapore, home to about 60,000 people, and serves as the center of what little tourism Madagascar has.

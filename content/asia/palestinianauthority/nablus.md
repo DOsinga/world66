@@ -1,10 +1,11 @@
 ---
-title: "Nablus"
+title: Nablus
 type: location
 latitude: 32.2211
 longitude: 35.2544
 done:
   location_cleanup: 2026-04-08
+score: 0.25
 ---
 
 Nablus is one of the most interesting cities in the northern West Bank, set in a valley between Mount Gerizim and Mount Ebal 63 kilometres north of [Jerusalem](/asia/israel/jerusalem). Founded in 72 AD by the Roman Emperor Titus as Flavia Neapolis, it remained under that name until the Arab conquest in 636 AD.

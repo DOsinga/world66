@@ -1,0 +1,104 @@
+{
+  "round": 476,
+  "timestamp": "2026-04-12T09:32:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 12,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_mu": 31.572,
+      "prior_sigma": 6.3246,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_mu": 22.4823,
+      "prior_sigma": 5.454,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cambodia",
+      "path": "asia/cambodia",
+      "prior_mu": 22.7007,
+      "prior_sigma": 5.8193,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_mu": 21.8064,
+      "prior_sigma": 4.8151,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_mu": 22.045,
+      "prior_sigma": 4.6979,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince/banlung",
+      "prior_mu": 21.6425,
+      "prior_sigma": 4.5795,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

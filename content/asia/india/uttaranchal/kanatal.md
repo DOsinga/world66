@@ -5,6 +5,7 @@ latitude: 30.415334
 longitude: 78.32119
 title: Kanatal
 type: location
+score: 0.47
 ---
 
 Kanatal is a small hill station in Uttarakhand, perched at about 2,600 metres on the Chamba–Mussoorie highway, roughly 300 km (six to seven hours by road) from Delhi. It is a quiet place — barely a village — with views of the snow-covered Garhwal Himalayas and dense forests of deodar and oak.

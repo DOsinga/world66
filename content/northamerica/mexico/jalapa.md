@@ -5,6 +5,7 @@ latitude: 19.5438
 longitude: -96.9102
 title: Xalapa
 type: location
+score: 0.54
 ---
 
 Xalapa (also spelled Jalapa) is the capital of Veracruz state and one of Mexico's most pleasant surprises. Set at 1,400 metres in the cloud forest zone of the Sierra Madre Oriental, with the snow-capped Pico de Orizaba visible on clear days, it has a cool, misty climate that feels nothing like the sweltering coast below.

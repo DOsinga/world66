@@ -5,6 +5,7 @@ latitude: 40.326741
 longitude: -78.92197
 title: Johnstown
 type: location
+score: 0.31
 ---
 
 Johnstown is a small city about 60 miles east of [Pittsburgh](/northamerica/unitedstates/pennsylvania/pittsburgh), set deep in the Conemaugh Valley. It is best known for its devastating floods -- three of them, in 1889, 1936, and 1977.

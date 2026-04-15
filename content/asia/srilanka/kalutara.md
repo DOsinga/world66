@@ -5,6 +5,7 @@ latitude: 6.57453
 longitude: 80.028631
 title: Kalutara
 type: location
+score: 0.54
 ---
 
 Situated approximately 42km south of Colombo,

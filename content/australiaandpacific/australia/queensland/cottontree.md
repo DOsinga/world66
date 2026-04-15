@@ -1,6 +1,7 @@
 ---
-title: "Cotton Tree"
+title: Cotton Tree
 type: location
 latitude: -26.651772
 longitude: 153.100103
+score: 0.38
 ---

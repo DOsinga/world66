@@ -5,6 +5,7 @@ latitude: 42.41
 longitude: -78.59
 title: Ashford
 type: location
+score: 0.31
 ---
 
 Travel Guide

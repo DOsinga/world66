@@ -5,6 +5,7 @@ latitude: 46.1597
 longitude: -1.1516
 title: La Rochelle
 type: location
+score: 0.64
 ---
 
 La Rochelle is one of the most attractive coastal towns in France — a handsome port city with a seventeenth-century waterfront, arcaded streets, and a rich maritime history. The old harbour, flanked by two medieval towers and the Grosse Horloge gateway, is the heart of the town and one of the most photographed waterfronts on the Atlantic coast.

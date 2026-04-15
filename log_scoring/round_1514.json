@@ -1,0 +1,200 @@
+{
+  "round": 1514,
+  "timestamp": "2026-04-13T10:27:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 11.5249,
+      "prior_variance": 0.648599,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Shinjuku",
+      "path": "asia/japan/tokyo/shinjuku",
+      "prior_score": 8.9203,
+      "prior_variance": 0.689199,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Egypt",
+      "path": "africa/egypt",
+      "prior_score": 9.0491,
+      "prior_variance": 0.919935,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_score": 9.7888,
+      "prior_variance": 0.536036,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Borobudur",
+      "path": "asia/indonesia/java/borobudur",
+      "prior_score": 10.3242,
+      "prior_variance": 0.669557,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "kilimanjaro",
+      "path": "africa/kenya/trekking/kilimanjaro",
+      "prior_score": 8.7748,
+      "prior_variance": 0.448675,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_score": 5.7106,
+      "prior_variance": 0.477619,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/bay_of_plenty/rotorua",
+      "prior_score": 6.6045,
+      "prior_variance": 0.398792,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 10.2615,
+      "prior_variance": 0.495307,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_score": 10.2795,
+      "prior_variance": 0.575711,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Matera",
+      "path": "europe/italy/basilicata/matera",
+      "prior_score": 11.4088,
+      "prior_variance": 0.730867,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_score": 9.1816,
+      "prior_variance": 0.70874,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 6.2128,
+      "prior_variance": 0.298304,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 8.7475,
+      "prior_variance": 0.574589,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Malaga",
+      "path": "europe/spain/malaga",
+      "prior_score": 7.3114,
+      "prior_variance": 0.363778,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Lapland",
+      "path": "europe/finland/lapland",
+      "prior_score": 7.9563,
+      "prior_variance": 0.581847,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_score": 9.127,
+      "prior_variance": 0.542548,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_score": 9.9077,
+      "prior_variance": 0.444277,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 9.0554,
+      "prior_variance": 0.516702,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "High Sierra",
+      "path": "northamerica/unitedstates/california/highsierra",
+      "prior_score": 8.7312,
+      "prior_variance": 0.551907,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "British Columbia",
+      "path": "northamerica/canada/britishcolumbia",
+      "prior_score": 7.6979,
+      "prior_variance": 0.464442,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_score": 4.562,
+      "prior_variance": 0.386386,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Florida",
+      "path": "northamerica/unitedstates/florida",
+      "prior_score": 1.7166,
+      "prior_variance": 0.722471,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas",
+      "prior_score": 5.9126,
+      "prior_variance": 0.369663,
+      "prior_n": 4
+    }
+  ]
+}

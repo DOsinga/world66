@@ -1,0 +1,200 @@
+{
+  "round": 2091,
+  "timestamp": "2026-04-13T16:09:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 6.4088,
+      "prior_variance": 0.266719,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_score": 7.0727,
+      "prior_variance": 0.310486,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_score": 6.2969,
+      "prior_variance": 0.333738,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkneys",
+      "prior_score": 6.3695,
+      "prior_variance": 0.296224,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.7835,
+      "prior_variance": 0.301628,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/cuba/vinales",
+      "prior_score": 6.6132,
+      "prior_variance": 0.350956,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 4.5535,
+      "prior_variance": 0.333117,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/otago/dunedin",
+      "prior_score": 4.4794,
+      "prior_variance": 0.322241,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 5.0067,
+      "prior_variance": 0.309157,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Trevi",
+      "path": "europe/italy/umbria/trevi",
+      "prior_score": 2.5584,
+      "prior_variance": 0.245262,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 5.7468,
+      "prior_variance": 0.309432,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 2.9164,
+      "prior_variance": 0.269152,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_score": 2.8235,
+      "prior_variance": 0.355833,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 2.4319,
+      "prior_variance": 0.292899,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_score": -0.3421,
+      "prior_variance": 0.260316,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -1.816,
+      "prior_variance": 0.23341,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Huayang Village",
+      "path": "asia/china/huayang_village",
+      "prior_score": -4.988,
+      "prior_variance": 0.325898,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Siddhpur",
+      "path": "asia/india/gujarat/siddhpur",
+      "prior_score": -3.199,
+      "prior_variance": 0.27054,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Indianopolis",
+      "path": "northamerica/unitedstates/indiana/indianopolis",
+      "prior_score": -2.2325,
+      "prior_variance": 0.241596,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Sandusky",
+      "path": "northamerica/unitedstates/ohio/sandusky",
+      "prior_score": -2.1559,
+      "prior_variance": 0.290957,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Portlaoise",
+      "path": "europe/ireland/carlow/portlaoise",
+      "prior_score": -4.1228,
+      "prior_variance": 0.339124,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/solihull",
+      "prior_score": -3.7281,
+      "prior_variance": 0.332296,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": -2.3426,
+      "prior_variance": 0.232165,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_score": -3.7198,
+      "prior_variance": 0.287867,
+      "prior_n": 5
+    }
+  ]
+}

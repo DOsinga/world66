@@ -5,6 +5,7 @@ latitude: 53.861171
 longitude: -2.565094
 title: Lancashire
 type: location
+score: 0.5
 ---
 
 Lancashire is a county in the north-west of England with an identity shaped by two very different histories: the industrial revolution that made it one of the world's great cotton-weaving heartlands, and the farming and fell country that predates it by centuries. The two sit side by side in a way that never quite resolves, which is part of what makes the county interesting.

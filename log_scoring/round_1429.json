@@ -1,0 +1,200 @@
+{
+  "round": 1429,
+  "timestamp": "2026-04-12T22:27:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/palestinianauthority/jerusalem",
+      "prior_rank": 330,
+      "prior_wins": 99,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cyprus",
+      "path": "asia/cyprus",
+      "prior_rank": 2209,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Gozo",
+      "path": "europe/malta/gozo",
+      "prior_rank": 2457,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_rank": 859,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_rank": 1723,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_rank": 858,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_rank": 1333,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_rank": 465,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tioman Island",
+      "path": "asia/malaysia/tiomanisland",
+      "prior_rank": 1202,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_rank": 539,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_rank": 762,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Galicia",
+      "path": "europe/spain/galicia",
+      "prior_rank": 1339,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "C\u00edes Islands",
+      "path": "europe/spain/galicia/cies_islands",
+      "prior_rank": 391,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_rank": 1513,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_rank": 3391,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Argostoli",
+      "path": "europe/greece/cephalonia/argostoli",
+      "prior_rank": 1323,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_rank": 1288,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dades Valley",
+      "path": "africa/morocco/dadesvalley",
+      "prior_rank": 662,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_rank": 1086,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_ives",
+      "prior_rank": 1092,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Brooklyn",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/brooklyn",
+      "prior_rank": 477,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_rank": 749,
+      "prior_wins": 91,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_rank": 1393,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_rank": 364,
+      "prior_wins": 79,
+      "prior_n": 4
+    }
+  ]
+}

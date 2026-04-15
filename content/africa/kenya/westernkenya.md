@@ -1,8 +1,9 @@
 ---
-title: "Western Kenya"
+title: Western Kenya
 type: location
 latitude: 0.2827
 longitude: 34.7519
+score: 0.41
 ---
 
 The area of western Kenya is composed of Nyanza

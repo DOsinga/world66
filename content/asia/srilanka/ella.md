@@ -5,6 +5,7 @@ latitude: 6.8736
 longitude: 81.049
 done:
   location_cleanup: 2026-04-07
+score: 0.67
 ---
 
 Ella is a small hill town in Sri Lanka's southern highlands that punches well above its weight. Perched at about 1,000 metres, it sits in a gap in the mountain wall where the land drops away dramatically to the southern plains — a view that on clear days stretches all the way to the coast. The town itself is little more than a single main street, but the setting is extraordinary.

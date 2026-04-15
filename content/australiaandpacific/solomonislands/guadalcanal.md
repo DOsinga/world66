@@ -5,6 +5,7 @@ latitude: -9.4328
 longitude: 160.0456
 title: Guadalcanal
 type: location
+score: 0.44
 ---
 
 The largest island in the [Solomon Islands](/australiaandpacific/solomonislands), Guadalcanal is best known for the brutal six-month campaign fought here during World War II. The name alone carries weight — it was the first major Allied offensive against Japan in the Pacific, and the island's jungles, ridges, and surrounding waters saw some of the war's fiercest fighting. Today, rusting tanks, crashed aircraft, and scattered memorials mark the landscape, and the waters offshore in Iron Bottom Sound hold the wrecks of dozens of warships.

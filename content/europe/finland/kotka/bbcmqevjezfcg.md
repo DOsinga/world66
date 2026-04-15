@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 title: BbCMQeVjeZFcG
 type: location
+score: 0.03
 ---
 
 Travel Guide

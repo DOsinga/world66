@@ -1,14 +1,17 @@
 ---
 done:
-  location_cleanup: '2026-04-09'
-latitude: 19.333333
-longitude: -96.666667
+  location_cleanup: '2026-04-10'
+latitude: 19.1901
+longitude: -96.1533
 title: Veracruz
 type: location
+score: 0.59
 ---
 
-Veracruz is Mexico's oldest port city, founded by Hernán Cortés in 1519, and it still feels more Caribbean than Mexican — the music is louder, the food is spicier, and the evening scene on the Zócalo is one of the liveliest in the country. Marimba bands and son jarocho groups play nightly while couples dance and vendors sell coffee and cigars.
+Veracruz is where Mexican history begins. This is the spot where Hernán Cortés landed in 1519 and founded the first Spanish settlement on the American mainland, and the city has never stopped being a crossroads. Today it is Mexico's oldest and busiest port, sprawling along the Gulf coast with a waterfront energy that feels more Caribbean than Central Highlands.
 
-The city's history is written in its fortifications. The San Juan de Ulúa fortress, sitting on an island in the harbour, served variously as a Spanish stronghold, a prison, and a presidential palace. The malecón along the waterfront is good for a stroll, and the Acuario de Veracruz is one of the better aquariums in Latin America.
+The heart of the city is the Plaza de Armas, where musicians play son jarocho under the portales and couples dance in the evening heat. From there you can walk the malecón along the harbor to the massive San Juan de Ulúa fortress, which spent centuries defending the port against pirates and foreign navies. The old quarter around the plaza has handsome colonial architecture, much of it crumbling just enough to feel real rather than restored for tourists.
 
-Veracruz is also a gateway to some of the state's best destinations: the ruins of El Tajín and Cempoala, the rafting rivers near Jalcomulco, and the mountain town of Xalapa with its outstanding anthropology museum are all within a few hours.
+Veracruz runs on seafood and music. The local cuisine leans heavily on the Gulf catch — order a huachinango a la veracruzana (red snapper in a tomato, olive, and caper sauce) at any of the restaurants along the waterfront and you will understand why people come here to eat. Son jarocho, the regional folk music built on harp, guitar, and zapateado footwork, fills the plazas most evenings, and during Carnival the whole city turns into one of the biggest street parties in Latin America.
+
+The Caribbean influence sets Veracruz apart from much of Mexico. The atmosphere is louder, looser, and more Afro-Caribbean than you might expect, shaped by centuries of trade and migration through the port. It is a city that rewards lingering — sit in the plaza with a coffee, watch the ships in the harbor, and let the rhythm of the place settle in.

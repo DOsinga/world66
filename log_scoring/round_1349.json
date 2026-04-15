@@ -1,0 +1,200 @@
+{
+  "round": 1349,
+  "timestamp": "2026-04-12T22:22:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_rank": 2031,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Chiapas",
+      "path": "northamerica/mexico/chiapas",
+      "prior_rank": 1159,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_rank": 2263,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_rank": 3207,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol/legazpi_city",
+      "prior_rank": 4527,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sipalay",
+      "path": "asia/philippines/negrosisland/sipalay",
+      "prior_rank": 3265,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_rank": 3271,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/spiekeroog",
+      "prior_rank": 5554,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_rank": 3108,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_rank": 2062,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/ceriale",
+      "prior_rank": 1311,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_rank": 3124,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_rank": 2339,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "The Coast",
+      "path": "northamerica/unitedstates/newhampshire/thecoast",
+      "prior_rank": 4046,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_rank": 2995,
+      "prior_wins": 54,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/ashburton",
+      "prior_rank": 3837,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lorca",
+      "path": "europe/spain/spanishcostas/lorca",
+      "prior_rank": 4077,
+      "prior_wins": 62,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_rank": 5273,
+      "prior_wins": 37,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_rank": 1464,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_rank": 2284,
+      "prior_wins": 67,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_rank": 4544,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_rank": 5099,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_rank": 5232,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Museum District",
+      "path": "northamerica/unitedstates/texas/houston/museumdistrict",
+      "prior_rank": 2267,
+      "prior_wins": 45,
+      "prior_n": 3
+    }
+  ]
+}

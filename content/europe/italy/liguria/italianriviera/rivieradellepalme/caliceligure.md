@@ -5,6 +5,7 @@ latitude: 44.204933
 longitude: 8.295351
 title: Calice Ligure
 type: location
+score: 0.45
 ---
 
 A commune in the hinterland of Finale, it is

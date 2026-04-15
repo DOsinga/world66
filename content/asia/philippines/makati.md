@@ -5,6 +5,7 @@ latitude: 14.5568
 longitude: 121.0211
 title: Makati
 type: location
+score: 0.45
 ---
 
 Makati is the financial heart of Metro Manila, a dense grid of glass towers, upscale shopping malls, and some of the best restaurants in the [Philippines](/asia/philippines). If Manila can feel chaotic and overwhelming, Makati is the part that works — the streets in the central business district are relatively clean, the pavements walkable, and the infrastructure noticeably better than in much of the capital.

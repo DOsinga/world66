@@ -1,4 +1,0 @@
----
-title: "Carolina"
-type: location
----

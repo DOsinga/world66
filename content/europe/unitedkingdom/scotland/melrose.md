@@ -5,6 +5,7 @@ latitude: 55.597594
 longitude: -2.719968
 title: Melrose
 type: location
+score: 0.55
 ---
 
 Of the abbey towns in the Scottish Borders, Melrose is possibly the prettiest, tucked at the foot of the Eildon Hills with the River Tweed nearby. It is a small, friendly place -- more village than town -- but it punches well above its weight for things to see.

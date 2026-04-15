@@ -1,0 +1,200 @@
+{
+  "round": 1304,
+  "timestamp": "2026-04-12T22:20:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_rank": 7677,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_rank": 8060,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_rank": 7996,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Garata",
+      "path": "europe/bulgaria/gornaoryahovica/garata",
+      "prior_rank": 6433,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_rank": 7894,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_rank": 8108,
+      "prior_wins": 11,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "San Pedro Sula",
+      "path": "northamerica/honduras/sanpedrosula",
+      "prior_rank": 7768,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_rank": 7935,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_rank": 8222,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_rank": 7962,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/dadyal",
+      "prior_rank": 8052,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "khatreel",
+      "path": "asia/pakistan/azad_kashmir/mirpur/khatreel",
+      "prior_rank": 8208,
+      "prior_wins": 4,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif",
+      "prior_rank": 8210,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "syed sagheer ul hassan douna",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/syed_sagheer_ul_ha",
+      "prior_rank": 8183,
+      "prior_wins": 5,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "SANJAR SAIDAN",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/sanjar_saidan",
+      "prior_rank": 7982,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_rank": 5918,
+      "prior_wins": 40,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_rank": 8200,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_rank": 8157,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_rank": 8226,
+      "prior_wins": 1,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mubi",
+      "path": "africa/nigeria/yola/mubi",
+      "prior_rank": 7878,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Eritrea",
+      "path": "africa/eritrea",
+      "prior_rank": 8169,
+      "prior_wins": 4,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_rank": 7468,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_rank": 8158,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "al khasra",
+      "path": "asia/oman/alkhuwair/al_khasra",
+      "prior_rank": 8085,
+      "prior_wins": 4,
+      "prior_n": 2
+    }
+  ]
+}

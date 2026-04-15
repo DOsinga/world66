@@ -1,6 +1,7 @@
 ---
-title: "Djemila"
+title: Djemila
 type: location
 latitude: 36.320899
 longitude: 5.73679
+score: 0.52
 ---

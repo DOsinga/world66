@@ -1,0 +1,200 @@
+{
+  "round": 1255,
+  "timestamp": "2026-04-12T22:17:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_rank": 1215,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Trevi",
+      "path": "europe/italy/umbria/trevi",
+      "prior_rank": 3826,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_rank": 3559,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Margaret River",
+      "path": "australiaandpacific/australia/westernaustralia/margaretriver",
+      "prior_rank": 1662,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_rank": 3765,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "North Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver/northvancouver",
+      "prior_rank": 3270,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_rank": 2703,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_rank": 4417,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/north_island/northland",
+      "prior_rank": 2357,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/halfmoonbay",
+      "prior_rank": 2744,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_rank": 2350,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_rank": 5245,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_rank": 4025,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/ravenglass",
+      "prior_rank": 2313,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_rank": 4269,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_rank": 2392,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_rank": 3956,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_rank": 2235,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_rank": 2260,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_rank": 1455,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_rank": 6723,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Predeal",
+      "path": "europe/romania/predeal",
+      "prior_rank": 3685,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.)",
+      "path": "europe/italy/calabria/hilltowns_of_the",
+      "prior_rank": 3250,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Daytoa Beach",
+      "path": "northamerica/unitedstates/florida/daytoabeach",
+      "prior_rank": 2876,
+      "prior_wins": 42,
+      "prior_n": 3
+    }
+  ]
+}

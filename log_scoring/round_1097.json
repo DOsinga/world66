@@ -1,0 +1,200 @@
+{
+  "round": 1097,
+  "timestamp": "2026-04-12T22:09:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Space Coast Area",
+      "path": "northamerica/unitedstates/florida/spacecoastarea",
+      "prior_rank": 3631,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_rank": 3609,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_rank": 3626,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Calderdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/calderdale",
+      "prior_rank": 2968,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Connecticut",
+      "path": "northamerica/unitedstates/connecticut",
+      "prior_rank": 3810,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Idaho",
+      "path": "northamerica/unitedstates/idaho",
+      "prior_rank": 4500,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_rank": 3842,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Shanxi Province",
+      "path": "asia/china/shanxiprovince",
+      "prior_rank": 5531,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_rank": 2864,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_rank": 4225,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bei Dai He",
+      "path": "asia/china/bei_dai_he",
+      "prior_rank": 3416,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_rank": 3194,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_rank": 5145,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_rank": 5788,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_rank": 5386,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_rank": 3632,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_rank": 3432,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_rank": 3397,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_rank": 5088,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_rank": 5552,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_rank": 4932,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Arroscia valley",
+      "path": "europe/italy/liguria/arrosciavalley",
+      "prior_rank": 3734,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_rank": 4841,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_rank": 6583,
+      "prior_wins": 8,
+      "prior_n": 2
+    }
+  ]
+}

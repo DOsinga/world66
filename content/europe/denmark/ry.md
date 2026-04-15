@@ -5,6 +5,7 @@ latitude: 56.088356
 longitude: 9.771875
 title: Ry
 type: location
+score: 0.45
 ---
 
 Located between Århus and Silkeborg, Ry (pronounced like the French 'rue') sits in the Danish Lake Highlands — the closest Denmark gets to hilly terrain. The river Gudenå runs right through town, and the surrounding area is all forests, lakes, and gentle hills.

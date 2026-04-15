@@ -1,0 +1,200 @@
+{
+  "round": 2009,
+  "timestamp": "2026-04-13T16:02:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 9.5908,
+      "prior_variance": 0.35409,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 9.8397,
+      "prior_variance": 0.472466,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_score": 7.8965,
+      "prior_variance": 0.412144,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_score": 2.8665,
+      "prior_variance": 0.396613,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "1",
+      "path": "europe/france/val_disere/1",
+      "prior_score": 1.1206,
+      "prior_variance": 0.389545,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 3.0343,
+      "prior_variance": 0.282998,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lloret de Mar",
+      "path": "europe/spain/lloret_de_mar",
+      "prior_score": 1.9279,
+      "prior_variance": 0.217445,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_score": 3.1573,
+      "prior_variance": 0.252187,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 0.6395,
+      "prior_variance": 0.25724,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 0.5693,
+      "prior_variance": 0.365667,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 1.3326,
+      "prior_variance": 0.302384,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_score": 2.5921,
+      "prior_variance": 0.23861,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_score": 1.0309,
+      "prior_variance": 0.236736,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 1.5059,
+      "prior_variance": 0.239369,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Naumburg",
+      "path": "europe/germany/thuringia/naumburg",
+      "prior_score": -0.55,
+      "prior_variance": 0.29247,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Koessen",
+      "path": "europe/austria/koessen",
+      "prior_score": -0.1503,
+      "prior_variance": 0.289466,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_score": 0.5159,
+      "prior_variance": 0.347172,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_score": -1.0439,
+      "prior_variance": 0.356389,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Idaho",
+      "path": "northamerica/unitedstates/idaho",
+      "prior_score": -0.3438,
+      "prior_variance": 0.302169,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Timor-Leste",
+      "path": "asia/easttimor",
+      "prior_score": -0.0172,
+      "prior_variance": 0.320194,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -1.6368,
+      "prior_variance": 0.25426,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Warrens",
+      "path": "northamerica/unitedstates/wisconsin/warrens",
+      "prior_score": -6.021,
+      "prior_variance": 0.288038,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -6.3916,
+      "prior_variance": 0.346819,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.1977,
+      "prior_variance": 0.382567,
+      "prior_n": 5
+    }
+  ]
+}

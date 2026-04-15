@@ -5,6 +5,7 @@ latitude: 43.255612
 longitude: -79.072326
 title: Niagara-on-the-Lake
 type: location
+score: 0.6
 ---
 
 Niagara-on-the-Lake is a small, immaculate town at the mouth of the Niagara River where it meets Lake Ontario, about 20km north of [Niagara Falls](/northamerica/canada/ontario/niagarafalls). With its tree-lined streets, heritage buildings, and manicured gardens, it has a distinctly British feel — a legacy of its role as the first capital of Upper Canada.

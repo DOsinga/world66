@@ -1,0 +1,200 @@
+{
+  "round": 2136,
+  "timestamp": "2026-04-13T16:13:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_score": 6.2195,
+      "prior_variance": 0.308092,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Mycenae",
+      "path": "europe/greece/mycenae",
+      "prior_score": 6.1109,
+      "prior_variance": 0.331444,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tioman Island",
+      "path": "asia/malaysia/tiomanisland",
+      "prior_score": 4.5875,
+      "prior_variance": 0.294139,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Brazil",
+      "path": "southamerica/brazil",
+      "prior_score": -4.7376,
+      "prior_variance": 0.773639,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 5.273,
+      "prior_variance": 0.179098,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/chengdu/dujiangyan",
+      "prior_score": 3.537,
+      "prior_variance": 0.231748,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 2.2524,
+      "prior_variance": 0.381812,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 4.6593,
+      "prior_variance": 0.32743,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 3.79,
+      "prior_variance": 0.243853,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 4.0645,
+      "prior_variance": 0.252055,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.5779,
+      "prior_variance": 0.25615,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Winchester Hants",
+      "path": "europe/unitedkingdom/england/winchesterhants",
+      "prior_score": 3.4729,
+      "prior_variance": 0.214871,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Berwick on Tweed",
+      "path": "europe/unitedkingdom/england/berwickontweed",
+      "prior_score": 0.2178,
+      "prior_variance": 0.423885,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 4.7057,
+      "prior_variance": 0.299849,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": -0.083,
+      "prior_variance": 0.237668,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": 0.5008,
+      "prior_variance": 0.24679,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -1.0529,
+      "prior_variance": 0.205808,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -1.404,
+      "prior_variance": 0.22384,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Detroit",
+      "path": "northamerica/unitedstates/michigan/detroit",
+      "prior_score": -3.0685,
+      "prior_variance": 0.260398,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -2.327,
+      "prior_variance": 0.244681,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Abeokuta",
+      "path": "africa/nigeria/abeokuta",
+      "prior_score": -2.8776,
+      "prior_variance": 0.255474,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Forest Hill",
+      "path": "europe/unitedkingdom/england/london/foresthill",
+      "prior_score": -4.8442,
+      "prior_variance": 0.316573,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_score": -6.5107,
+      "prior_variance": 0.383129,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Krasnovodsk",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_score": -7.1265,
+      "prior_variance": 0.268899,
+      "prior_n": 5
+    }
+  ]
+}

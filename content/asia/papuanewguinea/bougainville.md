@@ -5,6 +5,7 @@ latitude: -6.144128
 longitude: 155.205934
 title: Bougainville
 type: location
+score: 0.36
 ---
 
 **Bougainville** is the largest island in the Solomon Islands chain, though politically it belongs to [Papua New Guinea](/asia/papuanewguinea) as an autonomous region. It is a lush, mountainous island with dense tropical rainforest, active volcanoes, and a complex recent history.

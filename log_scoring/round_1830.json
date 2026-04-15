@@ -1,0 +1,200 @@
+{
+  "round": 1830,
+  "timestamp": "2026-04-13T10:55:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yucatan",
+      "path": "northamerica/mexico/yucatan",
+      "prior_score": 8.2899,
+      "prior_variance": 0.735283,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 5.3996,
+      "prior_variance": 0.35951,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_score": 4.8479,
+      "prior_variance": 0.281351,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 5.8527,
+      "prior_variance": 0.331364,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_score": 6.0153,
+      "prior_variance": 0.449442,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 2.2836,
+      "prior_variance": 0.375787,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Winchester Hants",
+      "path": "europe/unitedkingdom/england/winchesterhants",
+      "prior_score": 3.1723,
+      "prior_variance": 0.312916,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Marina di Campo",
+      "path": "europe/italy/tuscany/elba/marinadicampo",
+      "prior_score": 3.3079,
+      "prior_variance": 0.314061,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_score": 2.9734,
+      "prior_variance": 0.26133,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_score": 4.0908,
+      "prior_variance": 0.347358,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "San Andres",
+      "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+      "prior_score": 3.5081,
+      "prior_variance": 0.313499,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 1.8236,
+      "prior_variance": 0.262926,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Carolina",
+      "path": "northamerica/puertorico/carolina",
+      "prior_score": -2.4448,
+      "prior_variance": 0.267163,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -1.5921,
+      "prior_variance": 0.343152,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "rudrapyag",
+      "path": "asia/india/uttaranchal/rudrapyag",
+      "prior_score": -2.4917,
+      "prior_variance": 0.314245,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Germany",
+      "path": "europe/germany",
+      "prior_score": 0.832,
+      "prior_variance": 0.326252,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -3.0241,
+      "prior_variance": 0.374848,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -3.274,
+      "prior_variance": 0.288759,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Turkmenistan",
+      "path": "asia/turkmenistan",
+      "prior_score": -4.4796,
+      "prior_variance": 0.353126,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -4.2485,
+      "prior_variance": 0.281786,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_score": -4.7906,
+      "prior_variance": 0.308782,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -6.5335,
+      "prior_variance": 0.365797,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -7.6943,
+      "prior_variance": 0.361601,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -9.7839,
+      "prior_variance": 0.384215,
+      "prior_n": 4
+    }
+  ]
+}

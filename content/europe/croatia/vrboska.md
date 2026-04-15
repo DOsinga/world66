@@ -5,6 +5,7 @@ latitude: 43.181718
 longitude: 16.671232
 title: Vrboska
 type: location
+score: 0.55
 ---
 
 Vrboska is the smallest settlement on [Hvar](/europe/croatia/hvar) island, tucked into a narrow, winding inlet that has earned it the nickname "Little Venice." Stone bridges arch over the channel connecting the two halves of the village, and the houses climb the slopes on either side in a tangle of narrow lanes, stone steps, and flowering gardens. It is a quieter, more intimate alternative to the bustle of Hvar Town.

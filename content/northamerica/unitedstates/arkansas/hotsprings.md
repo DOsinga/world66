@@ -1,11 +1,11 @@
 ---
-title: "Hotsprings"
+title: Hot Springs
 type: location
-latitude: 40.820286
-longitude: -115.778693
+latitude: 34.5037
+longitude: -93.0552
+score: 0.48
 ---
 
-Hot Springs, Arkansas - the vacation spot filled with breathtaking mountain top views, historic hotels, thermal waters, quaint shopping and antiquing, Thoroughbred horseracing and a special southern charm. Take a tour through Hot Springs - there is so much to see & do.
+Hot Springs is built around the thermal waters that give it its name — 47 springs flowing from the western slope of Hot Springs Mountain at a constant 62°C. The city grew up as a resort town in the 19th century, and Bathhouse Row, a line of ornate spa buildings along Central Avenue, is now a National Historic Landmark within Hot Springs National Park.
 
-
- Check our section devoted to baths for more info on the different spa's.
+The town has a split personality. Central Avenue is touristy — wax museums, alligator farms, gift shops — but the surrounding Ouachita Mountains are genuinely beautiful, with pine-covered ridges and good hiking trails. Oaklawn Racing Casino Resort draws crowds for Thoroughbred racing season in the spring. The hot springs themselves remain the main event: you can still take a traditional thermal bath at Buckstaff or the Quapaw Baths.

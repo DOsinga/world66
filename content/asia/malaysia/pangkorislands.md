@@ -5,6 +5,7 @@ latitude: 4.227363
 longitude: 100.559078
 title: Pangkor islands
 type: location
+score: 0.58
 ---
 
 Pangkor is one of the little islands just off the west coast of Malaysia. It can be reached by ferry from Lumut or by plane from [Singapore](/asia/singapore) or Kuala Lumpur. Whereas it used to be a favourite stop-over for adventurers, pirates and European conquerors in the old days, these days the island is a guarantee for an excellent beach holiday.

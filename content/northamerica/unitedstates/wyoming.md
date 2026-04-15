@@ -1,10 +1,11 @@
 ---
 title: Wyoming
 type: location
-latitude: 43.1700
+latitude: 43.17
 longitude: -107.5685
 done:
   location_cleanup: 2026-04-06
+score: 0.64
 ---
 
 Wyoming is the least populous state in the US and one of the most dramatic in landscape. The Rocky Mountains run through the west; the Great Plains extend across the east; and the Continental Divide crosses the state. Two of America's great national parks — Yellowstone and Grand Teton — occupy the northwest corner, making that area the most visited part of Wyoming and one of the most popular outdoor destinations in the country.

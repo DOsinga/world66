@@ -5,6 +5,7 @@ latitude: 44.443038
 longitude: 8.305947
 title: Dego
 type: location
+score: 0.4
 ---
 
 An agricultural center on the slopes of the

@@ -5,6 +5,7 @@ latitude: 20.506668
 longitude: -87.230063
 title: Puerto Aventuras
 type: location
+score: 0.51
 ---
 
 Puerto Aventuras is a gated resort community on Mexico's Riviera Maya, about 20 km south of Playa del Carmen. Built around a sheltered marina, it is quieter and more manicured than the towns on either side — more condo resort than Mexican beach town.

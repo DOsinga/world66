@@ -1,0 +1,200 @@
+{
+  "round": 685,
+  "timestamp": "2026-04-12T10:42:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mallorca",
+      "path": "europe/spain/balearicislands/mallorca",
+      "prior_mu": 30.0307,
+      "prior_sigma": 6.7454,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Menorca",
+      "path": "europe/spain/balearicislands/menorca",
+      "prior_mu": 32.6183,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_mu": 23.3899,
+      "prior_sigma": 4.4872,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Malaga",
+      "path": "europe/spain/malaga",
+      "prior_mu": 24.3975,
+      "prior_sigma": 6.0069,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Playa del Ingl\u00e9s",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas/playa_del_ingles",
+      "prior_mu": 22.4176,
+      "prior_sigma": 4.6468,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Gipuzkoa",
+      "path": "europe/spain/gipuzkoa",
+      "prior_mu": 21.898,
+      "prior_sigma": 4.799,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_mu": 23.0033,
+      "prior_sigma": 5.6076,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ria of Pontevedra",
+      "path": "europe/spain/galicia/ria_of_pontevedra",
+      "prior_mu": 22.5368,
+      "prior_sigma": 5.6922,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_mu": 21.2372,
+      "prior_sigma": 4.5016,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Jaen",
+      "path": "europe/spain/jaen",
+      "prior_mu": 22.6103,
+      "prior_sigma": 5.456,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Torrevieja",
+      "path": "europe/spain/costa_blanca/torrevieja",
+      "prior_mu": 20.7476,
+      "prior_sigma": 3.5038,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "O Saln\u00e9s (Salnes Valley)",
+      "path": "europe/spain/northernspain/o_salns_salnes",
+      "prior_mu": 22.5131,
+      "prior_sigma": 5.9479,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "El Bierzo",
+      "path": "europe/spain/northernspain/bierzo",
+      "prior_mu": 22.6376,
+      "prior_sigma": 5.9491,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_mu": 21.5905,
+      "prior_sigma": 4.7916,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Castell\u00f3n",
+      "path": "europe/spain/castellon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_mu": 22.4339,
+      "prior_sigma": 5.7809,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_mu": 21.6933,
+      "prior_sigma": 4.8332,
+      "prior_n": 2
+    }
+  ]
+}

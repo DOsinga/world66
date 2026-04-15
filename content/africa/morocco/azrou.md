@@ -5,6 +5,7 @@ latitude: 33.4339
 longitude: -5.2226
 title: Azrou
 type: location
+score: 0.48
 ---
 
 Azrou is a Berber market town in the Middle Atlas, about 80 km south of [Fez](/africa/morocco/fez), sitting at 1,200 metres between steep wooded hills and a volcanic rock outcrop. The name comes from the Berber word for "rock." After the souk chaos of the imperial cities, it feels like somewhere people actually live.

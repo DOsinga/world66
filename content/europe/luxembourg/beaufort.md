@@ -1,10 +1,11 @@
 ---
-title: "Beaufort"
+title: Beaufort
 type: location
 latitude: 49.835042
 longitude: 6.289893
 done:
   location_cleanup: 2026-04-10
+score: 0.48
 ---
 
 Beaufort is a village in the Mullerthal region of eastern Luxembourg, an area nicknamed "Little Switzerland" for its landscape of wooded gorges, sandstone rock formations, and narrow valleys carved by small rivers. It's one of the most touristed corners of the country, and for good reason.

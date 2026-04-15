@@ -1,0 +1,200 @@
+{
+  "round": 999,
+  "timestamp": "2026-04-12T22:04:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_rank": 1078,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ryukyu islands",
+      "path": "asia/japan/ryukyuislands",
+      "prior_rank": 366,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_rank": 29,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_rank": 13,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_rank": 294,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_rank": 152,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "The Azores",
+      "path": "europe/portugal/theazores",
+      "prior_rank": 118,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_rank": 295,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_rank": 159,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_rank": 119,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_rank": 156,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_rank": 184,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_rank": 1623,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Garden Route",
+      "path": "africa/southafrica/gardenroute",
+      "prior_rank": 407,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_rank": 38,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kohsamui",
+      "path": "asia/thailand/kohsamui",
+      "prior_rank": 132,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Taiwan",
+      "path": "asia/taiwan",
+      "prior_rank": 291,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas",
+      "prior_rank": 4606,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria",
+      "prior_rank": 149,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Berlin Mitte",
+      "path": "europe/germany/berlin/berlinmitte",
+      "prior_rank": 380,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_rank": 150,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_rank": 3191,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/stonehenge",
+      "prior_rank": 61,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Oranjestad",
+      "path": "northamerica/aruba/oranjestad",
+      "prior_rank": 1500,
+      "prior_wins": 18,
+      "prior_n": 1
+    }
+  ]
+}

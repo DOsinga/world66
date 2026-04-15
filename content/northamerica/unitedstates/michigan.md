@@ -5,6 +5,7 @@ latitude: 44.3148
 longitude: -85.6024
 title: Michigan
 type: location
+score: 0.5
 ---
 
 Michigan is two peninsulas surrounded by four of the five Great Lakes, and that water defines everything about the place. The Lower Peninsula is where most people live, anchored by [Detroit](/northamerica/unitedstates/michigan/detroit) in the southeast and ringed with beach towns along the Lake Michigan coast. The Upper Peninsula is wilder, emptier, and dramatically beautiful, with rocky shorelines, dense forests, and some of the best outdoor recreation in the Midwest.

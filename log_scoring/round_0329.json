@@ -1,0 +1,200 @@
+{
+  "round": 329,
+  "timestamp": "2026-04-12T09:11:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Charlottenburg",
+      "path": "europe/germany/berlin/charlottenburg",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Otavalo Imbabura",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_mu": 22.5072,
+      "prior_sigma": 4.6365,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ardeche",
+      "path": "europe/france/midi/ardeche",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Western Samoa",
+      "path": "australiaandpacific/westernsamoa",
+      "prior_mu": 22.6151,
+      "prior_sigma": 5.9352,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Frisian Islands",
+      "path": "europe/germany/lowersaxony/frisianislands",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_mu": 22.7415,
+      "prior_sigma": 5.612,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Taunton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/taunton",
+      "prior_mu": 22.601,
+      "prior_sigma": 5.933,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_mu": 21.6168,
+      "prior_sigma": 5.5726,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur/wadi_matkhandoush",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/wakefield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

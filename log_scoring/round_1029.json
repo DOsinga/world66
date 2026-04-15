@@ -1,0 +1,200 @@
+{
+  "round": 1029,
+  "timestamp": "2026-04-12T22:05:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "samana",
+      "path": "northamerica/dominicanrepublic/samana",
+      "prior_rank": 5891,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/berkeley",
+      "prior_rank": 2834,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/warwick",
+      "prior_rank": 3433,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_rank": 3884,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_rank": 5256,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_rank": 6312,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bad Kreuznach",
+      "path": "europe/germany/rhinelandpalatinate/badkreuznach",
+      "prior_rank": 4674,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Greenville",
+      "path": "northamerica/unitedstates/southcarolina/greenville",
+      "prior_rank": 6174,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "San Clemente",
+      "path": "northamerica/unitedstates/california/orangecounty/sanclemente",
+      "prior_rank": 2848,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_rank": 3897,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_rank": 4874,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_rank": 3033,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_rank": 3488,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_rank": 4379,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_rank": 6127,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_rank": 5883,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Norfolk Island",
+      "path": "australiaandpacific/norfolkisland",
+      "prior_rank": 4655,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_rank": 3890,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_rank": 4682,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_rank": 5463,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Sawantwadi",
+      "path": "asia/india/maharashtra/sawantwadi",
+      "prior_rank": 3926,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_rank": 4621,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Inhambane",
+      "path": "africa/mozambique/inhambane",
+      "prior_rank": 3651,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_rank": 4661,
+      "prior_wins": 20,
+      "prior_n": 2
+    }
+  ]
+}

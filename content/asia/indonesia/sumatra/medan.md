@@ -5,6 +5,7 @@ latitude: 3.5894
 longitude: 98.6742
 title: Medan
 type: location
+score: 0.41
 ---
 
 Medan is the gateway to northern Sumatra. Indonesia's fourth-largest city (population around 2.5 million) is loud, sprawling and chaotic, but most travellers pass through on their way to [Lake Toba](/asia/indonesia/sumatra/laketoba), the immense volcanic lake a few hours south. Give Medan a day before you move on -- it has more character than it gets credit for.

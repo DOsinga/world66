@@ -5,6 +5,7 @@ latitude: 18.586176
 longitude: 79.06002
 title: Ramadugu
 type: location
+score: 0.25
 ---
 
 Ramadugu is a village located 19km from [Karimnagar City](/asia/india/andhrapradesh/karimnagar). It has a fort of ancient days, with 30mt height walls.

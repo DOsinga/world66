@@ -5,6 +5,7 @@ latitude: 40.360581
 longitude: 16.835227
 title: Lido di Metaponto
 type: location
+score: 0.45
 ---
 
 Lido di Metaponto is a low-key beach resort on the Ionian coast of Basilicata, where the flat sandy shoreline stretches for kilometres with clean, shallow water. In summer it fills with Italian families — it's that kind of place: uncrowded, affordable, and genuinely relaxed.

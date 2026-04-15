@@ -1,0 +1,200 @@
+{
+  "round": 481,
+  "timestamp": "2026-04-12T09:32:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bath",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/windermere",
+      "prior_mu": 23.2084,
+      "prior_sigma": 5.7633,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/truro",
+      "prior_mu": 22.1731,
+      "prior_sigma": 5.7702,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Arran",
+      "path": "europe/unitedkingdom/scotland/arran",
+      "prior_mu": 22.5081,
+      "prior_sigma": 4.9024,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_mu": 22.6878,
+      "prior_sigma": 5.9455,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/norwich",
+      "prior_mu": 21.9939,
+      "prior_sigma": 4.666,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/weymouth",
+      "prior_mu": 21.74,
+      "prior_sigma": 5.6101,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare",
+      "prior_mu": 20.9295,
+      "prior_sigma": 3.0955,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_mu": 22.1121,
+      "prior_sigma": 5.7556,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Suffolk",
+      "path": "europe/unitedkingdom/suffolk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/tewkesbury",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/worcester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverp/kendal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/doncaster",
+      "prior_mu": 22.5934,
+      "prior_sigma": 5.6744,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/mersea_island_esse",
+      "prior_mu": 21.6062,
+      "prior_sigma": 4.5569,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/crewkerne",
+      "prior_mu": 18.2603,
+      "prior_sigma": 6.745,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/newtonabbot",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Weybridge",
+      "path": "europe/unitedkingdom/england/weybridge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/solihull",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/moseley",
+      "prior_mu": 22.7206,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kirklees",
+      "path": "europe/unitedkingdom/kirklees",
+      "prior_mu": 22.2349,
+      "prior_sigma": 5.7632,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/england/crieff",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

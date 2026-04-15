@@ -5,6 +5,7 @@ latitude: 68.43838
 longitude: 17.427198
 title: Narvik
 type: location
+score: 0.58
 ---
 
 Narvik is a port city on the Ofotfjord in northern Nordland county, opposite the [Lofoten Islands](/europe/norway/lofoten). The city of around 18,000 people owes its existence to the iron ore mines of northern Sweden — it was founded in 1887 as the Atlantic shipping port for the Kiruna and Gällivare mines and is still one of the world's northernmost ice-free ports. Narvik sits at one of Norway's narrowest points, just a few kilometres between the ocean and the Swedish border.

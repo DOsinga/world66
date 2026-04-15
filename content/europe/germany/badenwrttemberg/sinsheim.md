@@ -1,6 +1,7 @@
 ---
-title: "Sinsheim"
+title: Sinsheim
 type: location
 latitude: 49.253122
 longitude: 8.876991
+score: 0.42
 ---

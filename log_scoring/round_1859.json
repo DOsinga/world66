@@ -1,0 +1,200 @@
+{
+  "round": 1859,
+  "timestamp": "2026-04-13T10:58:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 5.4583,
+      "prior_variance": 0.371523,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 9.4774,
+      "prior_variance": 0.410362,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 4.0122,
+      "prior_variance": 0.325886,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_score": 4.1652,
+      "prior_variance": 0.336421,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/north_island/taranaki",
+      "prior_score": 2.4985,
+      "prior_variance": 0.263027,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_score": 3.0728,
+      "prior_variance": 0.41347,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.7597,
+      "prior_variance": 0.378706,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 2.4079,
+      "prior_variance": 0.238059,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.5619,
+      "prior_variance": 0.334906,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/warwick",
+      "prior_score": -0.6818,
+      "prior_variance": 0.407312,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_score": 4.2032,
+      "prior_variance": 0.330665,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re",
+      "prior_score": 0.149,
+      "prior_variance": 0.280593,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": 0.244,
+      "prior_variance": 0.293021,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": 1.5063,
+      "prior_variance": 0.299062,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.1906,
+      "prior_variance": 0.300129,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Tuvalu",
+      "path": "australiaandpacific/tuvalu",
+      "prior_score": -1.4418,
+      "prior_variance": 0.312153,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -2.801,
+      "prior_variance": 0.133695,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -4.4618,
+      "prior_variance": 0.376609,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -0.9648,
+      "prior_variance": 0.289284,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.8134,
+      "prior_variance": 0.331708,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "S.Mamede Infesta",
+      "path": "europe/portugal/smamedeinfesta",
+      "prior_score": -4.8337,
+      "prior_variance": 0.279574,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -2.3706,
+      "prior_variance": 0.200362,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Jaranwala",
+      "path": "asia/pakistan/gujrat/jaranwala",
+      "prior_score": -8.8105,
+      "prior_variance": 0.400748,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Espresso Country",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/espressocountry",
+      "prior_score": -8.1403,
+      "prior_variance": 0.55134,
+      "prior_n": 4
+    }
+  ]
+}

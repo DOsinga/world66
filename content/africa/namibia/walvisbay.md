@@ -5,6 +5,7 @@ latitude: -22.9558
 longitude: 14.5071
 title: Walvis Bay
 type: location
+score: 0.49
 ---
 
 Walvis Bay is Namibia's main port and the only deep-water harbour on the country's coastline. The town sits on a sheltered lagoon that attracts enormous flocks of flamingos — sometimes tens of thousands at a time — along with pelicans, terns and other seabirds. The lagoon and the adjacent salt pans are a Ramsar wetland site and one of the most important coastal bird habitats in southern Africa.

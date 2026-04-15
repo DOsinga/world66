@@ -5,6 +5,7 @@ latitude: 51.225856
 longitude: 2.919496
 title: Oostende
 type: location
+score: 0.51
 ---
 
 Ostend is Belgium's main seaside resort — a proper working harbour town that also happens to have a grand seafront, a pier stretching out into the grey North Sea, and a casino that looks like it belongs on the Riviera. The combination of mussels, Belgian beer, and salt air is hard to beat.

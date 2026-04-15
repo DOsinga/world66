@@ -5,6 +5,7 @@ latitude: 35.6464
 longitude: 139.7102
 title: Ebisu
 type: location
+score: 0.6
 ---
 
 Ebisu is one of Tokyo's most likeable neighbourhoods — upscale but not flashy, with excellent restaurants and a relaxed atmosphere that sets it apart from the sensory overload of nearby [Shibuya](/asia/japan/tokyo/shibuya). The district takes its name from the Shinto god of fishermen, but the more relevant origin story is the Yebisu beer brewery that operated here until 1988.

@@ -5,6 +5,7 @@ latitude: 33.1581
 longitude: -117.3506
 title: Carlsbad
 type: location
+score: 0.51
 ---
 
 Carlsbad sits on the Southern California coast between Los Angeles and San Diego, and it punches well above its weight for a mid-size beach city. It is best known as the home of LEGOLAND California and the Carlsbad Flower Fields — 50-odd acres of giant ranunculus that bloom in a blaze of red, pink, orange, and white each spring — but there is more to the place than its two signature attractions.

@@ -5,6 +5,7 @@ latitude: -23.378214
 longitude: 150.513423
 title: Rockhampton
 type: location
+score: 0.41
 ---
 
 Rockhampton sits on the Fitzroy River in central Queensland, roughly halfway up the Queensland coast between Brisbane and Cairns. It lies almost exactly on the Tropic of Capricorn — a fact marked by several roadside signs on the highway — and the climate has the tropical warmth of the north without quite reaching its humidity.

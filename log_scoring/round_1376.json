@@ -1,0 +1,200 @@
+{
+  "round": 1376,
+  "timestamp": "2026-04-12T22:24:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Senegal",
+      "path": "africa/senegal",
+      "prior_rank": 2648,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Huanchaco",
+      "path": "southamerica/peru/huanchaco",
+      "prior_rank": 3738,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_rank": 3132,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/kitakyushu/moji",
+      "prior_rank": 3938,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_rank": 2305,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_rank": 3587,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_rank": 4793,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_rank": 1572,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_rank": 3602,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Podaca",
+      "path": "europe/croatia/makarskariviera/podaca",
+      "prior_rank": 5225,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_rank": 2431,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_rank": 2598,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Argentina valley",
+      "path": "europe/italy/liguria/argentinavalley",
+      "prior_rank": 4230,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_rank": 1745,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_rank": 3979,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_rank": 2555,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_rank": 4172,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_rank": 4217,
+      "prior_wins": 67,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_rank": 3966,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/osnabrck",
+      "prior_rank": 4018,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_rank": 3459,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_rank": 3774,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucu",
+      "prior_rank": 5210,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_rank": 4476,
+      "prior_wins": 32,
+      "prior_n": 3
+    }
+  ]
+}

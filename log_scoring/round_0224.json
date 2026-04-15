@@ -1,0 +1,200 @@
+{
+  "round": 224,
+  "timestamp": "2026-04-12T09:07:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Romantic Road",
+      "path": "europe/germany/bavaria/romanticroad",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "1",
+      "path": "europe/france/val_disere/1_2",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Himachal Pradesh",
+      "path": "asia/india/himachalpradesh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_mu": 22.1837,
+      "prior_sigma": 4.8639,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Auckland (city)",
+      "path": "australiaandpacific/newzealand/auckland_region/auckland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_mu": 22.7328,
+      "prior_sigma": 5.9511,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/whanganui_region/newplymouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Sandusky",
+      "path": "northamerica/unitedstates/ohio/sandusky",
+      "prior_mu": 22.8176,
+      "prior_sigma": 5.7146,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/solihull",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Fairfield",
+      "path": "northamerica/unitedstates/newjersey/fairfield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_mu": 18.3267,
+      "prior_sigma": 6.7564,
+      "prior_n": 1
+    }
+  ]
+}

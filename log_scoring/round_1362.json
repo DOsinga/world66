@@ -1,0 +1,200 @@
+{
+  "round": 1362,
+  "timestamp": "2026-04-12T22:23:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canada",
+      "path": "northamerica/canada",
+      "prior_rank": 3299,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_rank": 2307,
+      "prior_wins": 81,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Albuquerque",
+      "path": "northamerica/unitedstates/newmexico/albuquerque",
+      "prior_rank": 3256,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_rank": 2818,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Newcastle and North East",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort",
+      "prior_rank": 3433,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_rank": 4000,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "East Belgium",
+      "path": "europe/belgium/east_belgium",
+      "prior_rank": 3865,
+      "prior_wins": 71,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_rank": 6252,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_rank": 1916,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_rank": 3955,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_rank": 3119,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_rank": 4326,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_rank": 3743,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/borkum",
+      "prior_rank": 2890,
+      "prior_wins": 68,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_rank": 4029,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_rank": 5901,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_rank": 3268,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tsodilo hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_rank": 3431,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "El castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_rank": 4732,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_rank": 6061,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tashkorgan",
+      "path": "asia/china/tashkorgan",
+      "prior_rank": 3968,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_rank": 4023,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Guadalteba",
+      "path": "europe/spain/andalucia/guadalteba",
+      "prior_rank": 7201,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_rank": 6615,
+      "prior_wins": 20,
+      "prior_n": 3
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 35.4368
 longitude: -94.3483
 title: Van Buren
 type: location
+score: 0.33
 ---
 
 Van Buren sits just across the Arkansas River from [Fort Smith](/northamerica/unitedstates/arkansas/fortsmith), a small town of about 24,000 with a well-preserved historic downtown district. Main Street is lined with antique shops, collectibles stores, and specialty shops housed in handsome nineteenth-century brick buildings — it is one of the better antique-hunting strips in western Arkansas.

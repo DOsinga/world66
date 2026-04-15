@@ -1,0 +1,200 @@
+{
+  "round": 529,
+  "timestamp": "2026-04-12T09:45:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_mu": 38.0864,
+      "prior_sigma": 3.9271,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_mu": 22.458,
+      "prior_sigma": 2.3137,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_mu": 29.5635,
+      "prior_sigma": 3.1927,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Alkmaar",
+      "path": "europe/netherlands/alkmaar",
+      "prior_mu": 21.1478,
+      "prior_sigma": 3.1677,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 21.212,
+      "prior_sigma": 2.3762,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_mu": 20.7712,
+      "prior_sigma": 2.485,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Valkenburg",
+      "path": "europe/netherlands/valkenburg",
+      "prior_mu": 21.133,
+      "prior_sigma": 2.5879,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_mu": 20.7883,
+      "prior_sigma": 2.362,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_mu": 21.0048,
+      "prior_sigma": 2.7802,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling_islan/formerum",
+      "prior_mu": 21.2635,
+      "prior_sigma": 3.2237,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_mu": 21.0482,
+      "prior_sigma": 2.6323,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_mu": 20.5638,
+      "prior_sigma": 2.5833,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_mu": 20.5944,
+      "prior_sigma": 2.348,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_mu": 20.7181,
+      "prior_sigma": 2.6683,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Stavoren",
+      "path": "europe/netherlands/friesland/stavoren",
+      "prior_mu": 20.6422,
+      "prior_sigma": 2.5705,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_mu": 20.6787,
+      "prior_sigma": 2.9463,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_mu": 20.3494,
+      "prior_sigma": 2.6,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_mu": 20.3823,
+      "prior_sigma": 2.5215,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_mu": 20.5957,
+      "prior_sigma": 2.6035,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Voorburg",
+      "path": "europe/netherlands/voorburg",
+      "prior_mu": 21.068,
+      "prior_sigma": 3.3469,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Beek",
+      "path": "europe/netherlands/beek",
+      "prior_mu": 18.383,
+      "prior_sigma": 2.9037,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ossendrecht",
+      "path": "europe/netherlands/ossendrecht",
+      "prior_mu": 20.4977,
+      "prior_sigma": 2.9214,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Brunsumm",
+      "path": "europe/netherlands/brunsumm",
+      "prior_mu": 16.1112,
+      "prior_sigma": 2.8196,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nieuwerkerk aan den IJssel",
+      "path": "europe/netherlands/nieuwerkerk_aan_de",
+      "prior_mu": 16.7211,
+      "prior_sigma": 2.5059,
+      "prior_n": 8
+    }
+  ]
+}

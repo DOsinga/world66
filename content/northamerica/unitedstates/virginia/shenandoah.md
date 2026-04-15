@@ -5,6 +5,7 @@ latitude: 38.856559
 longitude: -78.589089
 title: Shenandoah
 type: location
+score: 0.52
 ---
 
 Shenandoah National Park stretches for 105 miles along the crest of the Blue Ridge Mountains in [Virginia](/northamerica/unitedstates/virginia). Skyline Drive follows the ridge the entire length of the park, with more than 70 overlooks offering views east to the rolling Piedmont and west to the Shenandoah Valley and Massanutten Mountain.

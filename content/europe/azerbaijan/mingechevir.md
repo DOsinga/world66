@@ -5,6 +5,7 @@ latitude: 40.920633
 longitude: 46.757101
 title: Mingechevir
 type: location
+score: 0.34
 ---
 
 Mingechevir sits on the Kura River about 275 km west of Baku, and its two claims to fame are separated by millennia: human settlement here dates back 5,000 years, and in the 1950s it became the site of the largest hydroelectric dam in Azerbaijan. Both facts shape the town you see today.

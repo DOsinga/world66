@@ -1,0 +1,200 @@
+{
+  "round": 1109,
+  "timestamp": "2026-04-12T22:10:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_rank": 7467,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Vard\u00f8",
+      "path": "europe/norway/vardo",
+      "prior_rank": 7106,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Zarzis",
+      "path": "africa/tunisia/zarzis",
+      "prior_rank": 6723,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_rank": 7108,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_rank": 6741,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_rank": 6264,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Huanuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_rank": 6746,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_rank": 6117,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Jambi",
+      "path": "asia/indonesia/jambi",
+      "prior_rank": 6320,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_rank": 6049,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_rank": 6911,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_rank": 5415,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_rank": 5873,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "kamploops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_rank": 5587,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Alton",
+      "path": "northamerica/unitedstates/illinois/alton",
+      "prior_rank": 7584,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Pleasant Grove",
+      "path": "northamerica/unitedstates/utah/pleasantgrove",
+      "prior_rank": 5250,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ohio",
+      "path": "northamerica/unitedstates/ohio",
+      "prior_rank": 6773,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/greater_wellington/upperhutt",
+      "prior_rank": 7592,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_rank": 6504,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_rank": 7410,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sherbro island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_rank": 6881,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ha\u2019il",
+      "path": "asia/saudiarabia/hail",
+      "prior_rank": 5268,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Forest Hill",
+      "path": "europe/unitedkingdom/england/london/foresthill",
+      "prior_rank": 6753,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "CqoEEEHbAlhJ",
+      "path": "europe/norway/kongsberg/cqoeeehbalhj",
+      "prior_rank": 8204,
+      "prior_wins": 1,
+      "prior_n": 2
+    }
+  ]
+}

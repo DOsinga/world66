@@ -5,6 +5,7 @@ latitude: 52.2913
 longitude: -1.5364
 title: Leamington Spa
 type: location
+score: 0.44
 ---
 
 Royal Leamington Spa is a handsome Regency town in Warwickshire, granted its royal prefix by Queen Victoria in 1838. The town grew around its saline springs in the early nineteenth century, and the legacy of that era is visible everywhere — elegant white-stuccoed terraces, the Pump Room gardens along the River Leam, and wide tree-lined avenues that give the centre an air of faded grandeur.

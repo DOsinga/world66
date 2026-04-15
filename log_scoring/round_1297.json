@@ -1,0 +1,200 @@
+{
+  "round": 1297,
+  "timestamp": "2026-04-12T22:20:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_rank": 3779,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_rank": 3936,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Nanjing",
+      "path": "asia/china/nanjing",
+      "prior_rank": 2937,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Georgia",
+      "path": "europe/georgia",
+      "prior_rank": 6432,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Wye Valley",
+      "path": "europe/unitedkingdom/wales/wye_valley",
+      "prior_rank": 1556,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_rank": 2407,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_rank": 2012,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_rank": 1252,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_rank": 4459,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_rank": 1967,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_rank": 1546,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_rank": 2199,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_rank": 2523,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_rank": 4486,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_rank": 1374,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "P\u00e9rigueux",
+      "path": "europe/france/midi/dordogne/perigueux",
+      "prior_rank": 2769,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_rank": 2436,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_rank": 2613,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou",
+      "prior_rank": 3280,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/bude",
+      "prior_rank": 2287,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sch\u00f6neberg",
+      "path": "europe/germany/berlin/schoneberg",
+      "prior_rank": 960,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_rank": 3256,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
+      "prior_rank": 2193,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/alcaladehenares",
+      "prior_rank": 4234,
+      "prior_wins": 22,
+      "prior_n": 2
+    }
+  ]
+}

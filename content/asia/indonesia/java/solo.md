@@ -5,6 +5,7 @@ latitude: -7.5692
 longitude: 110.8284
 title: Solo
 type: location
+score: 0.54
 ---
 
 An hour by train from [Yogyakarta](/asia/indonesia/java/yogyakarta), Solo (formally Surakarta) was the capital of the Mataram kings and remains one of Java's most important cultural centers. There are two royal palaces here, Solo is a major center for the batik industry, and it has schools for traditional dance, wayang, and gamelan music.

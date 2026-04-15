@@ -1,12 +1,15 @@
 ---
+done:
+  location_cleanup: '2026-04-08'
+latitude: 21.1528
+longitude: -86.8426
 title: Cancun
 type: location
-latitude: 21.152747
-longitude: -86.842576
-done:
-  location_cleanup: 2026-04-05
+score: 0.71
 ---
 
-Cancun delivers on the basics: white sand that stays cool underfoot, warm Caribbean water in shades of turquoise, and more Mayan ruins within two hours' drive than most people can visit in a week. The Hotel Zone (Zona Hotelera) is exactly what you'd expect — a 15-mile strip of international resorts, chain restaurants, and nightclubs — while Cancun City (Ciudad Cancun) to the west is a genuine Mexican town with a market, local restaurants, and lower prices.
+Cancun sits at the northeastern tip of the Yucatan Peninsula, where a long barrier island — the Zona Hotelera — curves between the Caribbean and a quiet lagoon. The beach is genuinely spectacular: powder-white sand and turquoise water that shifts from pale jade to deep blue. The snorkelling and diving offshore are among the best in the Americas, and the island of [Cozumel](/northamerica/mexico/cozumel), easily reached by ferry, has some of the clearest water on earth.
 
-The real draw beyond the beach is the Yucatán Peninsula itself. Chichen Itza, Tulum, and Cobá are all within easy day-trip distance, and the cenotes — freshwater sinkholes in the limestone — are some of the best snorkeling and diving in the world. The reef off Cozumel, accessible by ferry from nearby Playa del Carmen, is world-class.
+The rest of the package is less compelling. The Zona Hotelera is essentially a strip of international resort hotels, chain restaurants and nightclubs built for visitors who want to stay close to the beach and the pool. If that is what you are after, it delivers. If you want to see Mexico, you will need to venture elsewhere — Valladolid, two hours west, is a handsome colonial city with a completely different character.
+
+The real draw for many visitors is not Cancun itself but its surroundings. [Chichén Itzá](/northamerica/mexico/chichenitza), one of the most impressive Maya sites in Mexico, is about 200 km west. [Tulum](/northamerica/mexico/tulum), with its clifftop ruins above a Caribbean beach, is 130 km south. The cenotes — sinkholes filled with crystalline fresh water — are scattered all across the peninsula and make for excellent half-day excursions.

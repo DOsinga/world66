@@ -5,6 +5,7 @@ latitude: 39.8289
 longitude: -84.8902
 title: Richmond
 type: location
+score: 0.32
 ---
 
 Richmond is a small city in eastern Indiana, the county seat of Wayne County, founded by Quakers from North Carolina who settled along the Whitewater River Gorge in the early nineteenth century. It sits on the old National Road (US 40), the first federally funded highway, which brought a steady flow of pioneers heading west.

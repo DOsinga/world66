@@ -5,6 +5,7 @@ title: Cairo
 type: location
 done:
   location_cleanup: 2026-04-05
+score: 0.82
 ---
 
 Travel Guide

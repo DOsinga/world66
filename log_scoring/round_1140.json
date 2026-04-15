@@ -1,0 +1,200 @@
+{
+  "round": 1140,
+  "timestamp": "2026-04-12T22:11:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Czech Republic",
+      "path": "europe/czechrepublic",
+      "prior_rank": 2419,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_rank": 6874,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_rank": 5899,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Steccato",
+      "path": "europe/italy/calabria/crotone",
+      "prior_rank": 4317,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/thetfordnorfolk",
+      "prior_rank": 7872,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kragujevac",
+      "path": "europe/serbiaandmontenegro/kragujevac",
+      "prior_rank": 6549,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_rank": 7440,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_rank": 6128,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lilongwe",
+      "path": "africa/malawi/lilongwe",
+      "prior_rank": 7192,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_rank": 6556,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_rank": 4214,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_rank": 7848,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_rank": 4559,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_rank": 7919,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_rank": 7586,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Alabama",
+      "path": "northamerica/unitedstates/alabama",
+      "prior_rank": 5473,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Laurel",
+      "path": "northamerica/unitedstates/mississippi/laurel",
+      "prior_rank": 7548,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/konkan/nagpur",
+      "prior_rank": 5443,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_rank": 7040,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Polvij\u00e4rvi",
+      "path": "europe/finland/joensuu/polvijrvi",
+      "prior_rank": 6401,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_rank": 5044,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_rank": 7196,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/yucatan/viverosdelaloma",
+      "prior_rank": 7206,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_rank": 6181,
+      "prior_wins": 14,
+      "prior_n": 2
+    }
+  ]
+}

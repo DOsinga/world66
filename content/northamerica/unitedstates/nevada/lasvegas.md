@@ -5,6 +5,7 @@ latitude: 36.167426
 longitude: -115.148413
 title: Las Vegas
 type: location
+score: 0.69
 ---
 
 Viva Las Vegas! Rising like a mirage from the Mojave Desert, Las Vegas is a city built on spectacle. The neon-lit casinos along the Strip -- Roman palaces, Egyptian pyramids, Parisian landmarks -- contrast sharply with the dry, barren landscape surrounding them.

@@ -5,6 +5,7 @@ latitude: 7.161
 longitude: 3.348
 title: Abeokuta
 type: location
+score: 0.39
 ---
 
 Abeokuta, the capital of Ogun State, takes its name — "Under the Rock" — from Olumo Rock, a massive granite outcrop that rises 137 metres above the city. The rock is sacred to the Egba people, who found refuge in its caves during the inter-tribal wars of the 19th century. It stands as both a monument of faith in unity and the city's defining landmark.

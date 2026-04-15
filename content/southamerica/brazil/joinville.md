@@ -5,6 +5,7 @@ latitude: -26.30449
 longitude: -48.848673
 title: Joinville
 type: location
+score: 0.42
 ---
 
 Joinville is the largest city in Santa Catarina state and one of the biggest in southern Brazil, sitting at the head of the Babitonga Bay surrounded by Atlantic Forest–covered hills. The city was founded by German, Swiss, and Norwegian immigrants in the 1850s, and traces of that heritage survive in the architecture, the local cuisine, and the Festival de Dança de Joinville, one of the largest dance festivals in the world.

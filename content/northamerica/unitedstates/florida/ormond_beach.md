@@ -5,6 +5,7 @@ latitude: 29.285413
 longitude: -81.055792
 title: Ormond Beach
 type: location
+score: 0.44
 ---
 
 Ormond Beach sits at the north end of the Daytona Beach area on Florida's Atlantic coast, where the Halifax River runs behind the barrier island. It is quieter and more residential than Daytona Beach itself — beach driving is not permitted here, which keeps the northern strand in better shape — and has a legitimate claim to historical interest.

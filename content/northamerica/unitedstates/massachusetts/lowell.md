@@ -5,6 +5,7 @@ latitude: 42.6414
 longitude: -71.3085
 done:
   location_cleanup: 2026-04-07
+score: 0.38
 ---
 
 Lowell is where America's Industrial Revolution began. In the early 19th century, a network of canals was dug to power textile mills, and the city became the largest industrial centre in the United States. Today the Lowell National Historical Park preserves that story — the mills, the canals, the worker housing — and the Boott Cotton Mills Museum, with its deafening operating weave room of 88 power looms, makes the experience visceral rather than abstract.

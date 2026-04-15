@@ -5,4 +5,5 @@ latitude: -26.40014
 longitude: 153.091049
 title: Noosa Heads
 type: location
+score: 0.66
 ---

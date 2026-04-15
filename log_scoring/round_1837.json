@@ -1,0 +1,200 @@
+{
+  "round": 1837,
+  "timestamp": "2026-04-13T10:56:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Meghalaya",
+      "path": "asia/india/meghalaya",
+      "prior_score": 4.4144,
+      "prior_variance": 0.985214,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_score": 3.4586,
+      "prior_variance": 0.274513,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 5.9075,
+      "prior_variance": 0.351344,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 4.5818,
+      "prior_variance": 0.353982,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 2.5924,
+      "prior_variance": 0.262907,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 3.254,
+      "prior_variance": 0.284592,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.1829,
+      "prior_variance": 0.339373,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 2.5389,
+      "prior_variance": 0.30559,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.4013,
+      "prior_variance": 0.306174,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/torquay",
+      "prior_score": 2.1695,
+      "prior_variance": 0.323252,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistran",
+      "prior_score": 0.839,
+      "prior_variance": 0.325522,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Collaroy",
+      "path": "australiaandpacific/australia/newsouthwales/collaroy",
+      "prior_score": -0.5715,
+      "prior_variance": 0.373191,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": -1.5132,
+      "prior_variance": 0.507885,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.059,
+      "prior_variance": 0.345283,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Beauvoorde",
+      "path": "europe/belgium/veurne/beauvoorde",
+      "prior_score": -2.0898,
+      "prior_variance": 0.195668,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/lancaster",
+      "prior_score": 0.549,
+      "prior_variance": 0.290502,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_score": 0.0183,
+      "prior_variance": 0.294088,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_score": -1.1625,
+      "prior_variance": 0.301619,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_score": -3.3701,
+      "prior_variance": 0.30953,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -2.7374,
+      "prior_variance": 0.315339,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Panipat",
+      "path": "asia/india/haryana/panipat",
+      "prior_score": -4.7583,
+      "prior_variance": 0.409771,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -6.1766,
+      "prior_variance": 0.358836,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -7.6835,
+      "prior_variance": 0.355028,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -10.9272,
+      "prior_variance": 1.237848,
+      "prior_n": 4
+    }
+  ]
+}

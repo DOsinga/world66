@@ -5,6 +5,7 @@ latitude: 40.9289
 longitude: -8.2442
 title: Arouca
 type: location
+score: 0.54
 ---
 
 Arouca is a small town in the mountains east of Porto, best known for two things: one of the world's longest pedestrian suspension bridges, and a geopark full of giant trilobite fossils. Neither is especially well-known outside Portugal, which makes the place feel like a genuine discovery.

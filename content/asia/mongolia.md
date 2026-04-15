@@ -9,6 +9,7 @@ image_license: Public domain
 image_attribution: Corporal Brandon Rodriguez
 done:
   country_cleanup: 2026-03-29
+score: 0.58
 ---
 
 Mongolia is one of the last places on earth where the land still feels genuinely empty. Twice the size of France but with fewer people than Sydney, it is a country of vast grasslands, crumbling desert and bone-white mountains — and a culture shaped entirely by the demands of that landscape.

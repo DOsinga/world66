@@ -5,6 +5,7 @@ latitude: 42.3147
 longitude: 69.5883
 title: Shymkent
 type: location
+score: 0.35
 ---
 
 Shymkent is [Kazakhstan's](/asia/kazakhstan) third-largest city and its southernmost, sitting in the fertile Arys River valley not far from the Uzbek border. It is a sprawling, fast-growing place — more Central Asian bazaar town than the modernist showpiece of Astana — with a large Uzbek population, a thriving market culture, and summers that push well past 40 degrees.

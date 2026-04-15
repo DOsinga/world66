@@ -5,6 +5,7 @@ latitude: 40.9632
 longitude: -72.1846
 done:
   location_cleanup: 2026-04-06
+score: 0.6
 ---
 
 The Hamptons stretch along the south shore of eastern Long Island, a string of towns and villages — Westhampton, Southampton, Bridgehampton, East Hampton, Amagansett — that have been the summer retreat of wealthy New Yorkers for over a century. The beaches are long, wide, and backed by dunes; the villages have a manicured New England charm with white clapboard buildings, farm stands, and upscale shops.

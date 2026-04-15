@@ -1,0 +1,200 @@
+{
+  "round": 1975,
+  "timestamp": "2026-04-13T15:59:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kansai",
+      "path": "asia/japan/kansai",
+      "prior_score": 10.9927,
+      "prior_variance": 0.452124,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 5.8084,
+      "prior_variance": 0.331663,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "L'Anse aux Meadows",
+      "path": "northamerica/canada/newfoundland/lanseauxmeadows",
+      "prior_score": 2.0915,
+      "prior_variance": 0.250908,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 2.8893,
+      "prior_variance": 0.350448,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_score": -0.0833,
+      "prior_variance": 0.337882,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 2.7183,
+      "prior_variance": 0.262641,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.0567,
+      "prior_variance": 0.234259,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -2.3,
+      "prior_variance": 0.251105,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -0.2431,
+      "prior_variance": 0.198089,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_score": 0.8871,
+      "prior_variance": 0.252861,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/twickenham",
+      "prior_score": -2.1427,
+      "prior_variance": 0.293022,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -1.0389,
+      "prior_variance": 0.247382,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Eswatini (Swaziland)",
+      "path": "africa/swaziland",
+      "prior_score": -0.6559,
+      "prior_variance": 0.193072,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Bakkhali",
+      "path": "asia/india/westbengal/bakkhali",
+      "prior_score": -4.1731,
+      "prior_variance": 0.307273,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -1.8862,
+      "prior_variance": 0.224683,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.0091,
+      "prior_variance": 0.220956,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Sant Boi",
+      "path": "europe/spain/catalonia/santboi",
+      "prior_score": -2.5228,
+      "prior_variance": 0.242277,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_score": -2.5455,
+      "prior_variance": 0.239555,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -5.8653,
+      "prior_variance": 0.415435,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -4.8403,
+      "prior_variance": 0.29623,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sulaymaniyah",
+      "path": "asia/iraq/sulaymaniyah",
+      "prior_score": -3.3081,
+      "prior_variance": 0.326256,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -6.5704,
+      "prior_variance": 0.348097,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_score": -2.6766,
+      "prior_variance": 0.41959,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -9.9737,
+      "prior_variance": 0.364263,
+      "prior_n": 5
+    }
+  ]
+}

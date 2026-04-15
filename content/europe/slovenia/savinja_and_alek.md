@@ -5,6 +5,7 @@ latitude: 46.37
 longitude: 14.85
 title: Savinja and Šalek Valley
 type: location
+score: 0.5
 ---
 
 The Savinja Alps and the valleys beneath them are one of [Slovenia's](/europe/slovenia) finest mountain landscapes. The Logar Valley (Logarska Dolina) is considered one of the most beautiful alpine valleys in Europe, and in 2009 the wider Solčavsko area won the European Destination of Excellence Award.

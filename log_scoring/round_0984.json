@@ -1,0 +1,200 @@
+{
+  "round": 984,
+  "timestamp": "2026-04-12T22:03:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_rank": 6238,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_rank": 6523,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_rank": 7275,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_rank": 8057,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Portlaoise",
+      "path": "europe/ireland/carlow/portlaoise",
+      "prior_rank": 8082,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Salla",
+      "path": "europe/finland/kouvola_city/salla",
+      "prior_rank": 7134,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_rank": 6620,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "El Reno",
+      "path": "northamerica/unitedstates/oklahoma/el_reno",
+      "prior_rank": 8195,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_rank": 7748,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/indiana/auburn",
+      "prior_rank": 6880,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_rank": 6498,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_rank": 8046,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Nouakchott",
+      "path": "africa/mauritania/nouakchott",
+      "prior_rank": 8076,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_rank": 7695,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_rank": 8173,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_rank": 8019,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_rank": 7769,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_rank": 7817,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_rank": 6664,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_rank": 8041,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_rank": 7683,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "La Mira",
+      "path": "southamerica/argentina/lamira",
+      "prior_rank": 8210,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_rank": 7919,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "haroonabad",
+      "path": "asia/pakistan/khairpur_tamewali/haroonabad",
+      "prior_rank": 8069,
+      "prior_wins": 1,
+      "prior_n": 1
+    }
+  ]
+}

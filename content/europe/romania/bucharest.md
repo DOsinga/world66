@@ -1,42 +1,17 @@
 ---
-title: "Bucharest"
+done:
+  location_cleanup: '2026-04-15'
+latitude: 44.4361
+longitude: 26.1027
+score: 0.56
+title: Bucharest
 type: location
-latitude: 44.436141
-longitude: 26.102684
 ---
 
-The 500-year-old town of Bucharest, with a population of 2,100,000, was once touted as the "Small Paris". Bucharest today, like any big capital, is a bustling modern metropolis full of life and diversity. Touting a rich and full history, Bucharest offers attractive opportunities to enjoy and explore.
+Bucharest was once known as the "Little Paris" for its tree-lined boulevards, Belle Époque architecture, and a café culture that rivalled the French capital in the 1930s. The Communist era tried hard to erase that identity — Ceaușescu demolished a fifth of the historic centre to build his grotesque Parliament Palace — but the old city has proven stubbornly resilient.
 
+Today Bucharest is a messy, energetic capital where crumbling neoclassical mansions sit next to brutalist apartment blocks, and a 16th-century church hides behind a glass office tower. The Old Centre, rebuilt as a pedestrian zone around Lipscani and Covaci streets, is the social heart of the city — packed with bars, restaurants, and the ruins of the Wallachian princes' medieval court. Calea Victoriei, the oldest street in Bucharest, runs north from here past the Romanian Athenaeum, the Royal Palace (now the National Art Museum), and the George Enescu Museum.
 
- 
- 
- 
- Much of Bucharest’s past can be seen along Calea Victoriei and Piata Victoriei and the streets leading from them. Some of the points of interest on Calea Victoriei are The National Museum of History, The Romanian Athenaeum and The Royal Palace known also as The National Art Museum, George Enescu Palace and The Museum of Art Collections.
+The Parliament Palace is unavoidable, in every sense. The second-largest administrative building in the world after the Pentagon, it took 20,000 workers and five years to build, and its marble halls are simultaneously impressive and deeply unsettling. Take the tour — it is the best way to understand what happened to Romania in the twentieth century.
 
-
- 
- Among the attractions is Parliament Palace listed in the Guinness Book of World Records, under “Administrative Buildings” as the second largest building in the world after the Pentagon. In point of volume of the building, the Romanian Parliament Palace ranks third in the world. Ranking first is a Cape Canaveral rocket-assembly building and ranking second is Quetzacoatl’s pyramid in Cholula, Mexico.
-
-
- 
- At the demand of Ceausescu, the president and dictator of Romania between 1967-1989, work on Parliament Palace, initially named The House of The People, began on June 25 1984 on a land that had previously held one of the oldest and loveliest of the city’s neighborhood. Though the whole structure is the result of a tremendous national effort being designed and built entirely by Romanian specialists. After December 1989, the Palace became headquarters of several working commissions of the Romanian Parliament.
-
-
- 
- Of special interest for the Romanian ethnography is Village Museum. Located on the bank of the Lake Herastrau in Bucharest, the museum is a result of Profesor Dimitrie Gusti’s research on rural regions. The Village Museum was opened in 1936 the same year as the one from Skansen (Stockholm). Both museums are the first open-air ethnographic museums in the world.
-
-
- 
- Impressive by their simplicity of forms and colors many of the churches from Bucharest are an original expression of the Romanian architectural style. Some of the most valuable and old are Church of St.Gheorghe on Magheru, Cretulescu Church on Calea Victoriei, Antim Monastery (1715) close to The Arch of Triumph, Patriachat Chruch (1665) on the Mitropoliei Hill in Unirii Square and many others.
-
-
- 
- Another point of interest is The Old Princely Court Museum, the ruins of a palace built in the 1500s by Vlad Tepes a.k.a. Count Dracula. Nearby stands the oldest church in Bucharest, Church Saint Anton, which unfortunately rebuilt many times does not keep too much of its old look.
-
-
- 
- In case the noisy and crowded streets of the center get you down, be sure to visit the Cismigiu Gardens (1860), an old and historical park located downtown.
-
-
- 
- In Bucharest there is broad range of cultural events at fairly low prices. Seven Days magazine, a free magazine available on brochure stands, details Bucharest's restaurants and entertainment, including information about cultural events going on in the capital.
+For a gentler experience, spend an afternoon at the Village Museum in Herăstrău Park, one of Europe's finest open-air museums. Dozens of traditional houses, churches, and windmills from every region of Romania are reassembled here on the shore of a lake, and walking through them is the best introduction to the country you will find.

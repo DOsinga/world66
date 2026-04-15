@@ -5,6 +5,7 @@ latitude: 16.7403
 longitude: 107.1854
 title: Quang Tri
 type: location
+score: 0.42
 ---
 
 Quang Tri province sits astride the old Demilitarized Zone, the line that divided North and South Vietnam from 1954 to 1975. More than almost anywhere else in the country, the landscape here is still shaped by war. The former DMZ is now a kind of open-air history lesson: tunnels, cemeteries, bombed citadels, and a bridge where families were once separated for decades. If you want to understand the Vietnam War beyond the American narrative, this is the place to come.

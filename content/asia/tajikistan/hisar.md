@@ -5,6 +5,7 @@ latitude: 38.527
 longitude: 68.549
 title: Hisar
 type: location
+score: 0.28
 ---
 
 Hisar (also spelled Hissar or Gissar) is a small town about 30 km west of Dushanbe, best known for its 18th-century fortress. The site was once the residence of the Bukharan regional governor and served as the administrative center of this part of Tajikistan until the Soviet period.

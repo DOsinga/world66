@@ -1,0 +1,200 @@
+{
+  "round": 315,
+  "timestamp": "2026-04-12T09:11:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Leshan",
+      "path": "asia/china/sichuanprovince/leshan",
+      "prior_mu": 22.5618,
+      "prior_sigma": 5.9161,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Chartreuse",
+      "path": "europe/france/alpes/chartreuse",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_mu": 22.8757,
+      "prior_sigma": 5.7262,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Trescore",
+      "path": "europe/italy/lombardia/trescore",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_mu": 22.275,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tres Rios",
+      "path": "northamerica/costarica/tresrios",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Harihareshwer ( HAHAD/KONKAN)",
+      "path": "asia/india/maharashtra/harihareshwer__ha",
+      "prior_mu": 22.7237,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Lenkaran",
+      "path": "europe/azerbaijan/baku/lenkaran",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Beautiful Historic Indian Head Saskatchewan",
+      "path": "northamerica/canada/saskatchewan/beautiful_historic_2",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Beit Sahur",
+      "path": "asia/palestinianauthority/beitsahur",
+      "prior_mu": 21.9313,
+      "prior_sigma": 4.8368,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Pakistan",
+      "path": "asia/pakistan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_ignacio/san_jos_de__lour",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

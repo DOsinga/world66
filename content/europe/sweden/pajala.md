@@ -5,6 +5,7 @@ latitude: 67.25
 longitude: 23.0
 title: Pajala
 type: location
+score: 0.35
 ---
 
 Pajala is a small town in the far north of Sweden, close to the Finnish border on the Torne River. It sits well above the Arctic Circle, which means midnight sun in summer and deep cold and darkness in winter.

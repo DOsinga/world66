@@ -1,0 +1,200 @@
+{
+  "round": 2197,
+  "timestamp": "2026-04-13T16:19:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 1.6405,
+      "prior_variance": 0.27833,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_score": 3.9552,
+      "prior_variance": 0.187899,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 4.5175,
+      "prior_variance": 0.315853,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 2.8564,
+      "prior_variance": 0.249458,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": -0.6271,
+      "prior_variance": 0.212974,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Batam",
+      "path": "asia/indonesia/batam",
+      "prior_score": -1.65,
+      "prior_variance": 0.238433,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.6312,
+      "prior_variance": 0.217999,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Amizmiz",
+      "path": "africa/morocco/marrakesh/amizmiz",
+      "prior_score": -0.8001,
+      "prior_variance": 0.238922,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -0.874,
+      "prior_variance": 0.207616,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -2.3948,
+      "prior_variance": 0.22718,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_score": -3.0787,
+      "prior_variance": 0.27329,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_score": -3.7358,
+      "prior_variance": 0.48895,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/todmorden",
+      "prior_score": -2.3844,
+      "prior_variance": 0.259095,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_score": -3.5924,
+      "prior_variance": 0.233238,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -1.7642,
+      "prior_variance": 0.278232,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon",
+      "prior_score": -2.7717,
+      "prior_variance": 0.319633,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.4559,
+      "prior_variance": 0.28872,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_score": -3.5658,
+      "prior_variance": 0.246279,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Uchhali",
+      "path": "asia/pakistan/soon_valley/uchhali",
+      "prior_score": -1.836,
+      "prior_variance": 0.289162,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -2.5967,
+      "prior_variance": 0.23716,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "weerp",
+      "path": "europe/netherlands/weerp",
+      "prior_score": -8.8449,
+      "prior_variance": 0.5963,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -5.1911,
+      "prior_variance": 0.229267,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -5.8064,
+      "prior_variance": 0.314059,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ponca",
+      "path": "northamerica/unitedstates/nebraska/ponca",
+      "prior_score": -6.7021,
+      "prior_variance": 0.335038,
+      "prior_n": 5
+    }
+  ]
+}

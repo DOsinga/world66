@@ -1,6 +1,7 @@
 ---
-title: "Lubon"
+title: Lubon
 type: location
 latitude: 52.345817
 longitude: 16.878479
+score: 0.31
 ---

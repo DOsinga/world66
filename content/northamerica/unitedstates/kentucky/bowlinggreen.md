@@ -5,6 +5,7 @@ latitude: 36.99292
 longitude: -86.442868
 title: Bowling Green
 type: location
+score: 0.4
 ---
 
 Bowling Green is the third-largest city in Kentucky, sitting in the south-central part of the state about an hour north of Nashville, Tennessee. It is a university town (Western Kentucky University sits on a hill above downtown) with a younger population than much of the region and a reasonably active food and arts scene for its size.

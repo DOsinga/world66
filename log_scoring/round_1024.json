@@ -1,0 +1,200 @@
+{
+  "round": 1024,
+  "timestamp": "2026-04-12T22:05:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_rank": 3816,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_rank": 2197,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_rank": 2614,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_rank": 3418,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_rank": 3410,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_rank": 2264,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/virginia/jamestown",
+      "prior_rank": 1883,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "St. Johann",
+      "path": "europe/austria/stjohann",
+      "prior_rank": 4643,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_rank": 3813,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_rank": 4039,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_rank": 2255,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_rank": 4046,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_rank": 4698,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Luderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_rank": 4436,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_rank": 3681,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_rank": 4700,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_rank": 5074,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_rank": 5252,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Marsa Matroh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_rank": 2664,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Nyeri",
+      "path": "africa/kenya/centralhighlands/nyeri",
+      "prior_rank": 4659,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_rank": 3693,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_rank": 4670,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_rank": 1111,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_rank": 3875,
+      "prior_wins": 12,
+      "prior_n": 1
+    }
+  ]
+}

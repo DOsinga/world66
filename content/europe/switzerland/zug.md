@@ -5,6 +5,7 @@ latitude: 47.148614
 longitude: 8.553938
 title: Zug
 type: location
+score: 0.53
 ---
 
 Zug is one of Switzerland's smallest cantons and its most prosperous. The city sits on the northeastern shore of Lake Zug, with the Alps rising clearly to the south and the rolling hills of the Mittelland stretching north. It is wealthy in a quiet, understated way — low taxes have drawn banks, commodity traders, and pharmaceutical companies here for decades — but the old town along the lake still feels like the medieval market settlement it once was.

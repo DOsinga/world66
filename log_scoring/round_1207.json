@@ -1,0 +1,200 @@
+{
+  "round": 1207,
+  "timestamp": "2026-04-12T22:15:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Illinois",
+      "path": "northamerica/unitedstates/illinois",
+      "prior_rank": 7502,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_rank": 8026,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "orenhofen",
+      "path": "europe/germany/rhinelandpalatinate/orenhofen",
+      "prior_rank": 7768,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_rank": 7610,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Horley",
+      "path": "europe/unitedkingdom/england/horley",
+      "prior_rank": 7636,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_rank": 8018,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_rank": 7807,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/yucatan/tuxtepec",
+      "prior_rank": 7640,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/yucatan/nuevolaredo",
+      "prior_rank": 7472,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_rank": 7308,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_rank": 5034,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Balaghat",
+      "path": "asia/india/madhyapradesh/balaghat",
+      "prior_rank": 7561,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_rank": 7579,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Aska",
+      "path": "asia/india/orissa/berhampur/aska",
+      "prior_rank": 7487,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_rank": 7583,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Goba",
+      "path": "africa/ethiopia/goba",
+      "prior_rank": 7862,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_rank": 8027,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_rank": 7249,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bechar",
+      "path": "africa/algeria/bechar",
+      "prior_rank": 7508,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Nigeria",
+      "path": "africa/nigeria",
+      "prior_rank": 8110,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kissama",
+      "path": "africa/angola/kissama",
+      "prior_rank": 7956,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_rank": 7882,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_rank": 7404,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "syed sagheer ul hassan douna",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/syed_sagheer_ul_ha",
+      "prior_rank": 8161,
+      "prior_wins": 5,
+      "prior_n": 4
+    }
+  ]
+}

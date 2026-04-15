@@ -1,6 +1,7 @@
 ---
-title: "adagav"
+title: adagav
 type: location
+score: 0.21
 ---
 
 Travel Guide

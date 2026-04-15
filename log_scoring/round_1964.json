@@ -1,0 +1,200 @@
+{
+  "round": 1964,
+  "timestamp": "2026-04-13T15:58:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 7.4837,
+      "prior_variance": 0.33124,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tohoku",
+      "path": "asia/japan/tohoku",
+      "prior_score": 4.763,
+      "prior_variance": 0.365269,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 5.9313,
+      "prior_variance": 0.300874,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 4.5914,
+      "prior_variance": 0.415468,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Noosa Heads",
+      "path": "australiaandpacific/australia/queensland/noosaheads",
+      "prior_score": 5.782,
+      "prior_variance": 0.352973,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_score": 4.5793,
+      "prior_variance": 0.273758,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Roatan",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 4.9544,
+      "prior_variance": 0.319187,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 3.0344,
+      "prior_variance": 0.288067,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 3.9507,
+      "prior_variance": 0.266279,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Pistoia",
+      "path": "europe/italy/tuscany/pistoia",
+      "prior_score": 4.6023,
+      "prior_variance": 0.274223,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Finalese park",
+      "path": "europe/italy/liguria/finalesepark",
+      "prior_score": 1.8824,
+      "prior_variance": 0.355702,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_score": 3.3143,
+      "prior_variance": 0.27995,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Roseau",
+      "path": "northamerica/dominica/roseau",
+      "prior_score": 1.713,
+      "prior_variance": 0.424494,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_score": 0.9484,
+      "prior_variance": 0.292301,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_score": -0.5165,
+      "prior_variance": 0.273046,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -0.5628,
+      "prior_variance": 0.325459,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": 0.7482,
+      "prior_variance": 0.26037,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 2.1295,
+      "prior_variance": 0.191638,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -1.0477,
+      "prior_variance": 0.28587,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": -0.2574,
+      "prior_variance": 0.227364,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Hotsprings",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": -0.079,
+      "prior_variance": 0.312874,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": -1.4694,
+      "prior_variance": 0.284749,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_score": -2.4873,
+      "prior_variance": 0.272582,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_score": -3.5367,
+      "prior_variance": 0.466396,
+      "prior_n": 5
+    }
+  ]
+}

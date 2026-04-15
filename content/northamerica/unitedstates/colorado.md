@@ -1,8 +1,9 @@
 ---
-title: "Colorado"
+title: Colorado
 type: location
 latitude: 38.725178
 longitude: -105.607716
+score: 0.72
 ---
 
 Colorado is nestled in between Kansas, Utah, Wyoming, Nebraska, and New Mexico in the western half of the United States. Known mostly for its outdoor activities, such as skiing, river rafting, and mountain biking, Colorado also has much to offer in the way of culture, athletics, nightlife, and more.

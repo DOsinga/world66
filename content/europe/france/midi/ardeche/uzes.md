@@ -5,6 +5,7 @@ latitude: 44.0121
 longitude: 4.4197
 title: Uzès
 type: location
+score: 0.57
 ---
 
 Uzès is a small and exceptionally beautiful town in the Gard department, about 25 kilometres north of [Nîmes](/europe/france/midi/languedoc/nimes). It was designated a *Ville d'Art et d'Histoire* in 1962, and its medieval and Renaissance centre has been beautifully restored — a maze of narrow lanes, stone arcades, and small squares that feels like stepping into a Provençal painting.

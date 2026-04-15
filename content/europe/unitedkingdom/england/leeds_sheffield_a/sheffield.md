@@ -1,14 +1,15 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
+  location_cleanup: '2026-04-09'
 latitude: 53.3807
 longitude: -1.4702
 title: Sheffield
 type: location
+score: 0.46
 ---
 
-Sheffield is England's greenest city, built on seven hills at the edge of the [Peak District](/europe/unitedkingdom/england/peakdistrict). Once the steel capital of the world — the city still makes most of the country's cutlery — it has reinvented itself around two universities, a strong arts and music scene, and some of the best outdoor access of any English city. A third of Sheffield lies within the Peak District National Park.
+Sheffield is a city built on steel — and on hills. England's fourth-largest city sits where the River Don meets the Sheaf, at the edge of the Peak District, and the combination of industrial grit and wild moorland is part of what makes it distinctive. The steelworks that once filled the Don Valley are mostly gone, but their legacy runs through the city's museums, its architecture, and its character.
 
-The city centre has been heavily redeveloped since the 1990s, with the Winter Garden glasshouse and the Millennium Gallery forming a modern cultural quarter. The older industrial quarters along the River Don are being converted into studios, breweries, and street food halls. Kelham Island, the old steelworks district, is now one of the most interesting neighbourhoods for eating and drinking.
+The city centre has been substantially rebuilt since the 1990s, with the Winter Garden, the Millennium Gallery, and the redeveloped Sheaf Square around the station. Kelham Island, a former industrial quarter along the Don, has become one of the most interesting neighbourhoods — old workshops turned into craft breweries, independent restaurants, and the excellent Kelham Island Museum, where a massive River Don Engine still runs on demonstration days.
 
-Sheffield is well connected by train — about two hours from London St Pancras, an hour from [Manchester](/europe/unitedkingdom/england/manchester_liverp/manchester), and half an hour from [Leeds](/europe/unitedkingdom/england/leeds_sheffield_a/leeds). The real draw, though, is the countryside on the doorstep. The Peak District moors start at the western suburbs, and on a clear day you can see them from the city centre.
+Sheffield has two universities and a large student population, which keeps the nightlife lively and the food scene diverse. The real bonus, though, is the location: the Peak District National Park begins at the city's western edge, and you can walk from the suburbs onto open moorland in under an hour. Stanage Edge, one of the finest gritstone edges in England, is a short drive away.

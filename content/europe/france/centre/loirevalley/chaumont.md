@@ -5,6 +5,7 @@ latitude: 47.4791
 longitude: 1.1818
 title: Chaumont-sur-Loire
 type: location
+score: 0.6
 ---
 
 Chaumont-sur-Loire is a small village perched above the [Loire](/europe/france/centre/loirevalley), dominated by its striking château. The Château de Chaumont was rebuilt in the late 15th century by the Amboise family, and its history reads like a who's who of French power: Catherine de Médicis acquired it in 1560, then handed it to her rival Diane de Poitiers after the death of Henri II. In the 19th century, the princes of Broglie refurbished the interiors and commissioned Henri Duchêne to design the grounds.

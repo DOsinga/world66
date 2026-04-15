@@ -5,6 +5,7 @@ latitude: 27.9881
 longitude: 86.925
 title: Everest Region
 type: location
+score: 0.78
 ---
 
 The Everest Region -- known locally as the Khumbu -- is the roof of the world, home to Mount Everest (8,849m) and some of the most spectacular trekking on earth. The region lies in the Solukhumbu district of northeastern Nepal and is protected as the Sagarmatha National Park, a UNESCO World Heritage Site.

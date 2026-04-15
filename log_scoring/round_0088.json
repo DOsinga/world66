@@ -1,0 +1,200 @@
+{
+  "round": 88,
+  "timestamp": "2026-04-12T08:03:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_mu": 25.37,
+      "prior_sigma": 3.13,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_mu": 28.25,
+      "prior_sigma": 3.89,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_mu": 21.0,
+      "prior_sigma": 2.32,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_mu": 24.08,
+      "prior_sigma": 4.32,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_mu": 28.69,
+      "prior_sigma": 4.29,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_mu": 21.51,
+      "prior_sigma": 4.3,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Murcia",
+      "path": "europe/spain/murcia",
+      "prior_mu": 22.87,
+      "prior_sigma": 5.6,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_mu": 22.0,
+      "prior_sigma": 3.6,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_mu": 21.21,
+      "prior_sigma": 2.85,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_mu": 21.18,
+      "prior_sigma": 3.04,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Saxony-Anhalt",
+      "path": "europe/germany/saxonyanhalt",
+      "prior_mu": 20.73,
+      "prior_sigma": 3.2,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_mu": 21.16,
+      "prior_sigma": 3.42,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_mu": 21.01,
+      "prior_sigma": 3.41,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ratingen",
+      "path": "europe/germany/northrhinewestphalia/ratingen",
+      "prior_mu": 20.87,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_mu": 20.76,
+      "prior_sigma": 3.01,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bou saada",
+      "path": "africa/algeria/bousaada",
+      "prior_mu": 20.52,
+      "prior_sigma": 3.34,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_mu": 20.75,
+      "prior_sigma": 3.6,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_mu": 20.69,
+      "prior_sigma": 2.94,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_mu": 20.56,
+      "prior_sigma": 3.03,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_mu": 20.71,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_mu": 20.24,
+      "prior_sigma": 3.16,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_mu": 20.21,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_mu": 13.43,
+      "prior_sigma": 3.3,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Zuchwil",
+      "path": "europe/switzerland/zuchwil",
+      "prior_mu": 17.97,
+      "prior_sigma": 3.36,
+      "prior_n": 4
+    }
+  ]
+}

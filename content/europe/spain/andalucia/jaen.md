@@ -5,6 +5,7 @@ latitude: 37.767
 longitude: -3.7902
 title: Jaén
 type: location
+score: 0.51
 ---
 
 Jaén is one of Andalusia's least-visited provincial capitals, and that is precisely its appeal. While tourists crowd Seville and Granada, Jaén goes about its business — pressing olive oil (this province produces more of it than any other on earth), climbing its steep streets, and living in the shadow of a magnificent Arab fortress that towers over everything from the top of Santa Catalina hill.

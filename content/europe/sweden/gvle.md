@@ -5,6 +5,7 @@ latitude: 60.675013
 longitude: 17.146702
 title: Gävle
 type: location
+score: 0.45
 ---
 
 Gävle (pronounced roughly "Yev-leh") is a port city of about 100,000 people in the province of Gästrikland, two hours north of [Stockholm](/europe/sweden/stockholm) on the E4 and the main rail line heading north. It sits at the mouth of the Gavleån river where it meets the Gulf of Bothnia, and for centuries was one of the most important trading ports on the Swedish coast.

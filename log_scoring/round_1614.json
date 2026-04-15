@@ -1,0 +1,200 @@
+{
+  "round": 1614,
+  "timestamp": "2026-04-13T10:36:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gibraltar",
+      "path": "europe/gibraltar",
+      "prior_score": 4.5797,
+      "prior_variance": 0.310705,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 0.9808,
+      "prior_variance": 0.413234,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 3.623,
+      "prior_variance": 0.364298,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_score": 3.2081,
+      "prior_variance": 0.311749,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 3.9832,
+      "prior_variance": 0.251809,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 2.6503,
+      "prior_variance": 0.367163,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 5.2369,
+      "prior_variance": 0.381807,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 4.5814,
+      "prior_variance": 0.345139,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 3.082,
+      "prior_variance": 0.642046,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 2.9089,
+      "prior_variance": 0.441807,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 1.2326,
+      "prior_variance": 0.47024,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 2.3978,
+      "prior_variance": 0.378093,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_score": 0.78,
+      "prior_variance": 0.369607,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "The Palouse",
+      "path": "northamerica/unitedstates/washington/the_palouse",
+      "prior_score": 0.791,
+      "prior_variance": 0.380629,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_score": -0.0195,
+      "prior_variance": 0.382949,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_score": 0.8583,
+      "prior_variance": 0.3096,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/beverley",
+      "prior_score": 0.2147,
+      "prior_variance": 0.361833,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Golan Heights",
+      "path": "asia/israel/golanheights",
+      "prior_score": 0.9396,
+      "prior_variance": 0.43465,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.3494,
+      "prior_variance": 0.294289,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -1.6647,
+      "prior_variance": 0.352373,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Marabella",
+      "path": "northamerica/trinidadandtobago/marabella",
+      "prior_score": -2.9458,
+      "prior_variance": 0.308296,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -4.4882,
+      "prior_variance": 0.609426,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/fullerton",
+      "prior_score": -3.5898,
+      "prior_variance": 0.310389,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown_1",
+      "prior_score": -4.7582,
+      "prior_variance": 0.358427,
+      "prior_n": 4
+    }
+  ]
+}

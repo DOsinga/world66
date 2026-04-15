@@ -5,6 +5,7 @@ latitude: 36.6177
 longitude: -121.9166
 title: Pacific Grove
 type: location
+score: 0.6
 ---
 
 Wedged on the northern tip of the Monterey Peninsula between Pebble Beach, Carmel, and Monterey, Pacific Grove has managed to retain an unhurried, small-town feel that its neighbours long since abandoned. Locals call it P.G. Parking is free, black-tailed deer wander through pine-shaded yards, and monarch butterflies gather by the thousands in local parks each autumn.

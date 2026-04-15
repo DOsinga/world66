@@ -1,0 +1,200 @@
+{
+  "round": 1898,
+  "timestamp": "2026-04-13T14:34:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_score": 8.8575,
+      "prior_variance": 0.344685,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_score": 5.2245,
+      "prior_variance": 0.264291,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 2.9835,
+      "prior_variance": 0.270468,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.0483,
+      "prior_variance": 0.404006,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Friedrichshain",
+      "path": "europe/germany/berlin/friedrichshain",
+      "prior_score": 2.7793,
+      "prior_variance": 0.325031,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": 0.3852,
+      "prior_variance": 0.27543,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": 0.1186,
+      "prior_variance": 0.255379,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": 1.5161,
+      "prior_variance": 0.186161,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -3.6266,
+      "prior_variance": 0.220002,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_score": 0.1307,
+      "prior_variance": 0.313579,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_score": -0.5573,
+      "prior_variance": 0.249241,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": -0.5179,
+      "prior_variance": 0.254143,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.6782,
+      "prior_variance": 0.252291,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -1.96,
+      "prior_variance": 0.296155,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Banana islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -1.3671,
+      "prior_variance": 0.245607,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/peterborough",
+      "prior_score": -2.7222,
+      "prior_variance": 0.333987,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -2.7952,
+      "prior_variance": 0.327505,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -4.3085,
+      "prior_variance": 0.348069,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -5.0533,
+      "prior_variance": 0.302602,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -3.7894,
+      "prior_variance": 0.390937,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -6.5183,
+      "prior_variance": 0.357269,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Russia",
+      "path": "europe/russia",
+      "prior_score": -8.2884,
+      "prior_variance": 0.588272,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zabierzow",
+      "path": "europe/poland/zabierzw",
+      "prior_score": -4.6477,
+      "prior_variance": 0.309843,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_score": -6.7379,
+      "prior_variance": 0.406597,
+      "prior_n": 4
+    }
+  ]
+}

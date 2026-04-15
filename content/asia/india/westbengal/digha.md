@@ -5,6 +5,7 @@ latitude: 21.623077
 longitude: 87.508253
 title: Digha
 type: location
+score: 0.39
 ---
 
 *Asia > India > West Bengal > Digha*

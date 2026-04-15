@@ -5,6 +5,7 @@ latitude: 25.5428
 longitude: -103.4106
 title: Torreón
 type: location
+score: 0.4
 ---
 
 Torreón is the largest city in the Laguna region, straddling the border between Coahuila and Durango in northern Mexico. It grew rapidly in the late 19th century as a railway hub and cotton-processing centre, and today it's a busy industrial and commercial city with a population of around one million. It lacks the colonial architecture of older Mexican cities, but it's a useful stopping point on the route between Chihuahua and Zacatecas.

@@ -5,6 +5,7 @@ latitude: 45.759363
 longitude: 126.627618
 title: Harbin
 type: location
+score: 0.57
 ---
 
 Harbin is the provincial capital of Heilongjiang, China's northernmost province, sitting on the Songhua River just a few hundred kilometres from the Russian border. That proximity shaped the city: Russian engineers and traders flooded in during the early 20th century to build the Chinese Eastern Railway, leaving behind a district of Orthodox churches, art nouveau facades, and broad European-style boulevards unlike anything else in China. The neighbourhood of Daowai preserves the densest concentration of this architecture.

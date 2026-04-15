@@ -5,6 +5,7 @@ latitude: 29.0018
 longitude: 77.768
 done:
   location_cleanup: 2026-04-07
+score: 0.34
 ---
 
 Meerut is where modern Indian history began. On 10 May 1857, Indian soldiers in the British cantonment here refused to load their Enfield rifles — the cartridges were greased with animal fat, an affront to both Hindu and Muslim troops — and the mutiny that would shake the British Empire to its foundations started right here, on these parade grounds. The rebels marched to Delhi the same night, and nothing was ever the same again.

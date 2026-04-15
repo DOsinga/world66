@@ -5,6 +5,7 @@ latitude: -19.871403
 longitude: 47.034667
 done:
   location_cleanup: 2026-04-07
+score: 0.43
 ---
 
 Antsirabe is a highland town in Madagascar's central plateau, sitting at 1,500 metres elevation about 170 km south of Antananarivo. The altitude gives it a cooler climate than the coast, and Norwegian missionaries established it as a health resort in the 19th century. Today it is one of Madagascar's busiest market towns and an important centre for the gem trade: street vendors and stalls sell precious and semi-precious stones, and in some places you can watch them being cut and polished.

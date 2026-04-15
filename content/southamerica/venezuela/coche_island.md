@@ -5,6 +5,7 @@ latitude: 10.776366
 longitude: -63.94505
 title: Coche Island
 type: location
+score: 0.44
 ---
 
 Coche is a small, flat island in the Caribbean Sea, part of Venezuela's Nueva Esparta state along with Margarita and Cubagua. It is quieter and less developed than Margarita, with a handful of resort hotels along the southern coast and a fishing village at San Pedro de Coche, the island's capital and ferry port.

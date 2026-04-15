@@ -5,6 +5,7 @@ latitude: 37.804456
 longitude: -122.271356
 done:
   location_cleanup: 2026-04-06
+score: 0.37
 ---
 
 Oakland gets overshadowed by San Francisco across the bay, but that is part of its appeal. It is grittier, more affordable, and more diverse, with a cultural identity all its own. This is the city that gave the world the Black Panthers, the Hells Angels, and a fierce local pride that has only grown as the tech boom pushed artists, chefs, and musicians eastward across the bridge.

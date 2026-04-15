@@ -1,0 +1,200 @@
+{
+  "round": 1684,
+  "timestamp": "2026-04-13T10:42:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 5.324,
+      "prior_variance": 0.315797,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Madryn",
+      "path": "southamerica/argentina/puerto_madryn_1",
+      "prior_score": 2.8518,
+      "prior_variance": 0.345571,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "\u201cCoroico\u201d",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": -1.1311,
+      "prior_variance": 0.974311,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 2.7437,
+      "prior_variance": 0.393006,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Le\u00f3n",
+      "path": "northamerica/nicaragua/len",
+      "prior_score": 1.1968,
+      "prior_variance": 0.322135,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kazanlak",
+      "path": "europe/bulgaria/valleyoftheroses/kazanlak",
+      "prior_score": 0.0473,
+      "prior_variance": 0.356798,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 1.4862,
+      "prior_variance": 0.357314,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_score": 0.0408,
+      "prior_variance": 0.381154,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Punjab",
+      "path": "asia/india/punjab",
+      "prior_score": -1.4968,
+      "prior_variance": 0.674669,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Malawi",
+      "path": "africa/malawi",
+      "prior_score": -1.3137,
+      "prior_variance": 0.315767,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -0.5099,
+      "prior_variance": 0.374698,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Grand popo",
+      "path": "africa/benin/grandpopo",
+      "prior_score": -3.658,
+      "prior_variance": 0.430475,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Tranekr",
+      "path": "europe/denmark/tranekr",
+      "prior_score": -0.7393,
+      "prior_variance": 0.37277,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_score": 0.0548,
+      "prior_variance": 0.411312,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -4.0042,
+      "prior_variance": 0.324338,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Steinweiler",
+      "path": "europe/germany/bavaria/steinweiler",
+      "prior_score": -6.4374,
+      "prior_variance": 0.351875,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -3.16,
+      "prior_variance": 0.402649,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_score": -2.2901,
+      "prior_variance": 0.33842,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "McLean",
+      "path": "northamerica/unitedstates/virginia/mclean",
+      "prior_score": -4.2121,
+      "prior_variance": 0.373578,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaclara",
+      "prior_score": -3.6255,
+      "prior_variance": 0.27195,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -5.6354,
+      "prior_variance": 0.351903,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -5.2317,
+      "prior_variance": 0.365238,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -8.2949,
+      "prior_variance": 0.588158,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Romford",
+      "path": "europe/unitedkingdom/england/romford",
+      "prior_score": -5.235,
+      "prior_variance": 0.522338,
+      "prior_n": 4
+    }
+  ]
+}

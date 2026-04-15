@@ -5,6 +5,7 @@ latitude: 17.605
 longitude: 80.7137
 title: Paloncha
 type: location
+score: 0.26
 ---
 
 Paloncha is an industrial town in the Bhadradri Kothagudem district of Telangana, on the Godavari River. It grew up around heavy industry — the Kothagudem Thermal Power Station (KTPS), the Navabharat Ferro Alloys plant, and Sponge Iron India Limited (SIIL) are the main employers, and the town's residential colonies reflect that origins.

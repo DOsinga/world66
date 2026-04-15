@@ -5,6 +5,7 @@ latitude: 7.84652
 longitude: 98.334415
 title: Chalong
 type: location
+score: 0.65
 ---
 
 Chalong sits in the southeast of Phuket, well away from the tourist circus of Patong. It's a working waterfront district — functional, a little rough, and genuinely Thai in character. Plenty of expats have settled here precisely because it feels like real life rather than a resort.

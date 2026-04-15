@@ -5,6 +5,7 @@ latitude: -7.161444
 longitude: 35.776251
 title: Mtera
 type: location
+score: 0.32
 ---
 
 Mtera is not a destination in itself so much as a reason to detour off the Iringa–Dodoma highway. The Mtera reservoir, created when a dam was built across the Ruaha River in 1981, flooded a small village and created one of Tanzania's best and least-visited birdwatching sites.

@@ -1,0 +1,200 @@
+{
+  "round": 1757,
+  "timestamp": "2026-04-13T10:48:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 4.7905,
+      "prior_variance": 0.441834,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 7.272,
+      "prior_variance": 0.348885,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 9.6929,
+      "prior_variance": 1.072811,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 5.3881,
+      "prior_variance": 0.475814,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 3.865,
+      "prior_variance": 0.305783,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Southern Norway (Sorlandet)",
+      "path": "europe/norway/southernnorways",
+      "prior_score": 3.6136,
+      "prior_variance": 0.48771,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 3.4373,
+      "prior_variance": 0.300521,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_score": 6.4629,
+      "prior_variance": 0.579606,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 2.8456,
+      "prior_variance": 0.309797,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Taipa",
+      "path": "asia/china/macau/taipa",
+      "prior_score": 3.0222,
+      "prior_variance": 0.304626,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.0208,
+      "prior_variance": 0.331132,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": 0.3212,
+      "prior_variance": 0.392756,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.9074,
+      "prior_variance": 0.333183,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ormoc City",
+      "path": "asia/philippines/leyteisland/ormoc_city",
+      "prior_score": -2.3222,
+      "prior_variance": 0.288769,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "bacolod",
+      "path": "asia/philippines/bacolod",
+      "prior_score": -1.6295,
+      "prior_variance": 0.361328,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Colima",
+      "path": "northamerica/mexico/yucatan/colima",
+      "prior_score": -4.1003,
+      "prior_variance": 0.304067,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -2.9924,
+      "prior_variance": 0.291741,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -2.7868,
+      "prior_variance": 0.350777,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_score": -5.5539,
+      "prior_variance": 0.361535,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Eustis",
+      "path": "northamerica/unitedstates/florida/eustis",
+      "prior_score": -5.048,
+      "prior_variance": 0.366259,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Shawano",
+      "path": "northamerica/unitedstates/wisconsin/shawano",
+      "prior_score": -4.1009,
+      "prior_variance": 0.298517,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -5.1383,
+      "prior_variance": 0.479184,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_score": -10.3289,
+      "prior_variance": 0.518436,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "abdaal",
+      "path": "africa/somaliland/abdaal",
+      "prior_score": -12.2039,
+      "prior_variance": 0.26317,
+      "prior_n": 6
+    }
+  ]
+}

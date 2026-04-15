@@ -5,6 +5,7 @@ latitude: 26.18611
 longitude: 127.356983
 title: Tokashiki Island
 type: location
+score: 0.64
 ---
 
 Tokashiki is the largest of the Kerama Islands, a chain of small islands about 30 kilometres west of Naha in Okinawa. The island is known for its clear water, coral reefs, and white-sand beaches — Aharen Beach on the south coast and Tokashiku Beach on the west are the main draws.

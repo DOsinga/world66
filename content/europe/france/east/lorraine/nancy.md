@@ -5,6 +5,7 @@ latitude: 48.693722
 longitude: 6.18341
 title: Nancy
 type: location
+score: 0.57
 ---
 
 Nancy is one of the finest cities in eastern France, a former ducal capital whose centre is built around the magnificent Place Stanislas — a UNESCO World Heritage Site of gilded wrought-iron gates, fountains, and grand neoclassical facades. It is one of the most beautiful squares in Europe, and reason enough to visit.

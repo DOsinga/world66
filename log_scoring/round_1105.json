@@ -1,0 +1,200 @@
+{
+  "round": 1105,
+  "timestamp": "2026-04-12T22:09:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_rank": 7902,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/coventry",
+      "prior_rank": 3652,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire",
+      "prior_rank": 6113,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Waiblingen",
+      "path": "europe/germany/badenwrttemberg/waiblingen",
+      "prior_rank": 4341,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_rank": 7711,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_rank": 6074,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_rank": 6776,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "San Marcos",
+      "path": "northamerica/unitedstates/california/sandiego/sanmarcos",
+      "prior_rank": 5665,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_rank": 6016,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_rank": 7321,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_rank": 6295,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Salla",
+      "path": "europe/finland/kouvola_city/salla",
+      "prior_rank": 5525,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Beek",
+      "path": "europe/netherlands/beek",
+      "prior_rank": 7897,
+      "prior_wins": 15,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Portlaoise",
+      "path": "europe/ireland/carlow/portlaoise",
+      "prior_rank": 6143,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_rank": 8056,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_rank": 6745,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang",
+      "prior_rank": 7301,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/yucatan/apizaco",
+      "prior_rank": 7607,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Viipuri",
+      "path": "europe/russia/viipuri",
+      "prior_rank": 5758,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_rank": 7280,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_rank": 8124,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_rank": 7117,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_rank": 6905,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_rank": 7128,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

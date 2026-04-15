@@ -5,6 +5,7 @@ latitude: 12.4722
 longitude: -85.6586
 title: Boaco
 type: location
+score: 0.32
 ---
 
 **Boaco** sits about 90 km northeast of Managua, a hill town that has grown from a quiet mountaintop community into the bustling capital of the Department of Boaco. The city spreads down the flanks of its mountain and out into the surrounding cattle country.

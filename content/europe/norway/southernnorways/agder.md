@@ -5,6 +5,7 @@ latitude: 58.719442
 longitude: 8.034963
 title: Agder
 type: location
+score: 0.54
 ---
 
 Agder is the closest Norway comes to a riviera. Stretching along the southern coast, it comprises two former counties — Aust-Agder and Vest-Agder — and offers sheltered bays, rocky islands, small wooden towns and some of the warmest summer weather in the country.

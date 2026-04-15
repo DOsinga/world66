@@ -1,0 +1,200 @@
+{
+  "round": 2268,
+  "timestamp": "2026-04-13T16:26:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 6.53,
+      "prior_variance": 0.313192,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Hunan",
+      "path": "asia/china/hunan",
+      "prior_score": 0.3972,
+      "prior_variance": 0.366438,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kutch",
+      "path": "asia/india/gujarat/kutch",
+      "prior_score": 0.2816,
+      "prior_variance": 0.28996,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 1.4787,
+      "prior_variance": 0.263863,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": 0.118,
+      "prior_variance": 0.235522,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -1.0842,
+      "prior_variance": 0.286831,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_score": -0.0246,
+      "prior_variance": 0.270626,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.2105,
+      "prior_variance": 0.153176,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -0.8478,
+      "prior_variance": 0.222327,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": 0.1795,
+      "prior_variance": 0.202916,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_score": 1.8378,
+      "prior_variance": 0.218622,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_score": -0.4143,
+      "prior_variance": 0.224405,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -1.0359,
+      "prior_variance": 0.187175,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -1.8022,
+      "prior_variance": 0.24173,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "The Channon",
+      "path": "australiaandpacific/australia/newsouthwales/thechannon",
+      "prior_score": -1.9534,
+      "prior_variance": 0.212318,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Beautiful Historic Indian Head Saskatchewan",
+      "path": "northamerica/canada/saskatchewan/beautiful_historic_2",
+      "prior_score": -4.3167,
+      "prior_variance": 0.263966,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_score": -3.7666,
+      "prior_variance": 0.259631,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_score": -3.1462,
+      "prior_variance": 0.225173,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_score": -4.824,
+      "prior_variance": 0.358153,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -1.9381,
+      "prior_variance": 0.20937,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Gabon",
+      "path": "africa/gabon",
+      "prior_score": -3.5535,
+      "prior_variance": 0.294612,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_score": -4.4832,
+      "prior_variance": 0.261856,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Sierra Leone",
+      "path": "africa/sierraleone",
+      "prior_score": -7.3149,
+      "prior_variance": 0.399035,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -5.8013,
+      "prior_variance": 0.302047,
+      "prior_n": 5
+    }
+  ]
+}

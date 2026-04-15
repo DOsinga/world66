@@ -1,0 +1,200 @@
+{
+  "round": 2077,
+  "timestamp": "2026-04-13T16:08:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Zealand",
+      "path": "australiaandpacific/newzealand",
+      "prior_score": 9.9,
+      "prior_variance": 0.478154,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/otago/wanaka",
+      "prior_score": 6.8685,
+      "prior_variance": 0.299628,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_score": 11.7769,
+      "prior_variance": 0.812803,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 7.4386,
+      "prior_variance": 0.408723,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 9.3527,
+      "prior_variance": 0.295951,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 8.6933,
+      "prior_variance": 0.396538,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Okinawa Island",
+      "path": "asia/japan/ryukyuislands/okinawaisland",
+      "prior_score": 8.381,
+      "prior_variance": 0.325538,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Lombok",
+      "path": "asia/indonesia/lombok",
+      "prior_score": 6.4139,
+      "prior_variance": 0.300818,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_score": 2.7983,
+      "prior_variance": 0.387174,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 2.5278,
+      "prior_variance": 0.29808,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 5.2066,
+      "prior_variance": 0.327777,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Pontine Islands",
+      "path": "europe/italy/lazio/pontineislands",
+      "prior_score": 3.2808,
+      "prior_variance": 0.288952,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 4.961,
+      "prior_variance": 0.266372,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_score": 4.5786,
+      "prior_variance": 0.275897,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_score": 3.5337,
+      "prior_variance": 0.285988,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 2.944,
+      "prior_variance": 0.286832,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_score": 1.8715,
+      "prior_variance": 0.255051,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": 0.1623,
+      "prior_variance": 0.278123,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Laurel Highlands",
+      "path": "northamerica/unitedstates/pennsylvania/laurel_highlands",
+      "prior_score": 0.1505,
+      "prior_variance": 0.378429,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": 0.9251,
+      "prior_variance": 0.256458,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/oxnard",
+      "prior_score": -2.6344,
+      "prior_variance": 0.277075,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -2.3954,
+      "prior_variance": 0.340089,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Beek",
+      "path": "europe/netherlands/beek",
+      "prior_score": -4.3993,
+      "prior_variance": 0.197806,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_score": -3.0695,
+      "prior_variance": 0.243084,
+      "prior_n": 5
+    }
+  ]
+}

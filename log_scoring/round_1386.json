@@ -1,0 +1,200 @@
+{
+  "round": 1386,
+  "timestamp": "2026-04-12T22:24:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_rank": 3236,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_rank": 3635,
+      "prior_wins": 73,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_rank": 6181,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Folgaria",
+      "path": "europe/italy/trentinoaltoadige/folgaria",
+      "prior_rank": 2729,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_rank": 3068,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_rank": 5060,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_rank": 6441,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_rank": 7333,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_rank": 4799,
+      "prior_wins": 71,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_rank": 5924,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_rank": 5256,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/crovie",
+      "prior_rank": 5606,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_rank": 3465,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_rank": 4508,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_rank": 3253,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_rank": 4916,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Slagelse",
+      "path": "europe/denmark/slagelse",
+      "prior_rank": 5889,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bedfordshire",
+      "path": "europe/unitedkingdom/england/bedfordshire",
+      "prior_rank": 4682,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_rank": 5969,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_rank": 4968,
+      "prior_wins": 49,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_rank": 4502,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_rank": 5318,
+      "prior_wins": 37,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Morelia",
+      "path": "northamerica/mexico/yucatan/morelia",
+      "prior_rank": 4933,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Moanda",
+      "path": "africa/congokinshasa/moanda",
+      "prior_rank": 6815,
+      "prior_wins": 19,
+      "prior_n": 4
+    }
+  ]
+}

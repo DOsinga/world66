@@ -1,0 +1,200 @@
+{
+  "round": 1437,
+  "timestamp": "2026-04-12T22:27:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_rank": 6880,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Straume",
+      "path": "europe/norway/straume",
+      "prior_rank": 6378,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_rank": 6331,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/norfolk/wolferton",
+      "prior_rank": 6243,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_rank": 7527,
+      "prior_wins": 28,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_rank": 4563,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_rank": 7021,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_rank": 6160,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Armavir Marz",
+      "path": "europe/armenia/armavir_marz",
+      "prior_rank": 7174,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_rank": 7824,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Quantico",
+      "path": "northamerica/unitedstates/virginia/quantico",
+      "prior_rank": 7867,
+      "prior_wins": 19,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Teaneck",
+      "path": "northamerica/unitedstates/newjersey/teaneck",
+      "prior_rank": 5667,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_rank": 6438,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_rank": 7827,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_rank": 7375,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_rank": 7472,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_rank": 7888,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_rank": 7452,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_rank": 7283,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Upper Montclair",
+      "path": "northamerica/unitedstates/newjersey/uppermontclair",
+      "prior_rank": 7728,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_rank": 5676,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_rank": 6945,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_rank": 7386,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_rank": 6229,
+      "prior_wins": 23,
+      "prior_n": 3
+    }
+  ]
+}

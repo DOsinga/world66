@@ -1,8 +1,9 @@
 ---
-title: 'Melbourne'
+title: Melbourne
 type: location
 latitude: -37.8142
 longitude: 144.9632
+score: 0.75
 ---
 
 Melbourne is Australia's second-largest city and its strongest claim to a cultural capital. It is a city that lives in its laneways, where street art covers the walls, tiny bars hide behind unmarked doors, and some of the country's best restaurants operate from spaces you would walk past without noticing. The waves of immigration since World War II have given Melbourne an extraordinary diversity, from the Italian quarter in Carlton to the Greek precinct of Oakleigh and the Vietnamese restaurants lining Victoria Street in Richmond.

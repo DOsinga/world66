@@ -1,0 +1,200 @@
+{
+  "round": 253,
+  "timestamp": "2026-04-12T09:08:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mykonos",
+      "path": "europe/greece/mykonos",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_mu": 24.885,
+      "prior_sigma": 5.8506,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kornati National Park",
+      "path": "europe/croatia/kornati_national",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Puerto Rico",
+      "path": "northamerica/puertorico",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Around Hue",
+      "path": "asia/vietnam/hue/aroundhue",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Senglea (or L-lsla)",
+      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
+      "prior_mu": 21.9918,
+      "prior_sigma": 4.843,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "bacolod",
+      "path": "asia/philippines/bacolod",
+      "prior_mu": 22.6484,
+      "prior_sigma": 5.6906,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_mu": 22.2695,
+      "prior_sigma": 5.6077,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_mu": 22.7412,
+      "prior_sigma": 5.9508,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "ghazi chok",
+      "path": "asia/pakistan/dera_ghazi_khan/ghazi_chok",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    }
+  ]
+}

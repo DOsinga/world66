@@ -5,6 +5,7 @@ latitude: 49.1683
 longitude: -122.5774
 title: Museum
 type: location
+score: 0.35
 ---
 
 Come and explore Langley's colourful history.

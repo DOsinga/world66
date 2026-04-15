@@ -5,6 +5,7 @@ latitude: 10.1989
 longitude: -84.2325
 done:
   location_cleanup: 2026-04-05
+score: 0.65
 ---
 
 Poás is one of Costa Rica's most accessible active volcanoes and one of its most popular day trips from [San José](/northamerica/costarica/sanjose) — just 55 km north of the capital by a winding road through coffee plantations and cloud forest. The main crater, 1.3 km wide and 300 m deep, is one of the largest in the world and usually holds a pale green sulphuric lake that steams and occasionally throws geysers of acid water. A short paved trail from the visitor centre brings you to the rim in ten minutes. A second, quieter trail leads through stunted cloud-forest to **Laguna Botos**, a cold, extinct crater now filled with rainwater.

@@ -5,6 +5,7 @@ latitude: 54.4448
 longitude: 18.5685
 title: Sopot
 type: location
+score: 0.56
 ---
 
 Sopot is the smallest of the three cities that make up the [Trójmiasto](https://en.wikipedia.org/wiki/Tricity,_Poland) — the conurbation shared with [Gdańsk](/europe/poland/gdansk) and Gdynia — and it punches well above its weight as a resort town. In summer it fills with visitors from across Poland who come for the beach, the cafes, and the general good-time atmosphere that the other two cities, more serious in their ambitions, don't quite provide.

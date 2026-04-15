@@ -5,6 +5,7 @@ latitude: 49.591404
 longitude: 117.446432
 title: Manzhouli
 type: location
+score: 0.43
 ---
 
 Manzhouli sits in the far northeast of Inner Mongolia, a small modern city on the main border crossing from China into Russia. It is an unlikely place to visit, but that is exactly what makes it interesting — a Chinese town where Russian is widely spoken, Russian cafes line the streets, and the Mongolian grasslands start just outside the city limits.

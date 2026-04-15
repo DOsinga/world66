@@ -5,6 +5,7 @@ latitude: -18.666667
 longitude: -67.666667
 title: Oruro
 type: location
+score: 0.46
 ---
 
 Oruro is a high-altitude mining city on the Bolivian altiplano, sitting at over 3,700 metres. It is not, honestly, a place most travellers would visit outside of one extraordinary week each year — but that week makes it unmissable.

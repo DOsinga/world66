@@ -5,6 +5,7 @@ latitude: -5.4221
 longitude: -79.5174
 title: Huancabamba
 type: location
+score: 0.4
 ---
 
 When it comes to isolation, few towns beat Huancabamba. A small city in the northern Andes of Peru, it has a bus connection to one city — [Piura](/southamerica/peru/piura) — on one terrifying road. Best known for the shamans who live higher up the mountain and the sacred lakes (lagunas) used for ritual bathing, the town makes a good base for exploring a remote and beautiful region. Huancabamba sits in a lush green valley full of small plots and eucalyptus trees, livelier than its isolation would suggest thanks to domestic tourism and mototaxi traffic.

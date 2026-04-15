@@ -1,10 +1,11 @@
 ---
-title: "Gatineau (Hull)"
+title: Gatineau (Hull)
 type: location
 latitude: 45.440584
 longitude: -75.732682
 done:
   location_cleanup: 2026-04-10
+score: 0.46
 ---
 
 Hull is the historic name for what is now part of **Gatineau**, the Quebec city directly across the Ottawa River from Canada's capital. The merger of Hull and several surrounding municipalities into Gatineau in 2002 means the name Hull lives on mainly in local usage and older maps — but the neighbourhood retains a distinct identity.

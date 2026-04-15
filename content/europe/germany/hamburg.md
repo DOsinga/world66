@@ -1,8 +1,9 @@
 ---
-title: "Hamburg"
+title: Hamburg
 type: location
 latitude: 53.550172
 longitude: 10.001316
+score: 0.67
 ---
 
 Hamburg lies about 100 km from the open sea on the River Elbe. With 1,7 million inhabitants, it is the second largest city in the Federal Republic of Germany. In two respects, however, Hamburg takes first place. It is the biggest harbour city in Germany (and after Rotterdam the second biggest in Eurpope) and – not a contradiction - it is the greenest city in Germany. 13 % of the city are park and greenland, 23 % protected countryside and 6% nature reserves. However, two thirds of the city are occupied by parks, lakes or tree-lined canals, giving this huge harbour city a refreshal rural feel.

@@ -5,6 +5,7 @@ latitude: 11.9744
 longitude: -86.0942
 title: Masaya
 type: location
+score: 0.49
 ---
 
 Masaya sits just 30 kilometres south of [Managua](/northamerica/nicaragua/managua) and is known for two things: its volcano and its crafts. The city is the handicraft capital of [Nicaragua](/northamerica/nicaragua), and its old market — the Mercado de Artesanías — fills a gothic fortress-like building with hammocks, pottery, leather goods, wooden furniture, and embroidered clothing from across the country.

@@ -1,0 +1,200 @@
+{
+  "round": 2251,
+  "timestamp": "2026-04-13T16:24:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 7.8077,
+      "prior_variance": 0.48346,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Sahara desert",
+      "path": "africa/algeria/saharadesert",
+      "prior_score": 0.7842,
+      "prior_variance": 0.327927,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_score": -0.0681,
+      "prior_variance": 0.219918,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_score": -2.3704,
+      "prior_variance": 0.311395,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Vaitupu island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_score": -1.84,
+      "prior_variance": 0.185092,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -2.7012,
+      "prior_variance": 0.281213,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -1.0155,
+      "prior_variance": 0.226276,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -3.659,
+      "prior_variance": 0.302105,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -3.4005,
+      "prior_variance": 0.235419,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_score": -3.5598,
+      "prior_variance": 0.255634,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -4.8128,
+      "prior_variance": 0.272715,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -2.8713,
+      "prior_variance": 0.219295,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Kansas",
+      "path": "northamerica/unitedstates/kansas",
+      "prior_score": -3.3115,
+      "prior_variance": 0.291246,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_score": -2.3751,
+      "prior_variance": 0.20137,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -6.1021,
+      "prior_variance": 0.27619,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -2.7048,
+      "prior_variance": 0.280739,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "San Gabriel",
+      "path": "asia/philippines/sangabriel",
+      "prior_score": -4.487,
+      "prior_variance": 0.259667,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_score": -4.5561,
+      "prior_variance": 0.250609,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -5.8726,
+      "prior_variance": 0.494338,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ashington",
+      "path": "europe/unitedkingdom/england/ashington",
+      "prior_score": -5.1871,
+      "prior_variance": 0.215842,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -3.7855,
+      "prior_variance": 0.250299,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "m sila",
+      "path": "africa/algeria/m_sila",
+      "prior_score": -7.1319,
+      "prior_variance": 0.265616,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Hasilpur",
+      "path": "asia/pakistan/islamabad/hasilpur",
+      "prior_score": -7.3111,
+      "prior_variance": 0.42888,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Fog Lifter Caffe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/fogliftercaffe",
+      "prior_score": -10.9517,
+      "prior_variance": 0.875501,
+      "prior_n": 6
+    }
+  ]
+}

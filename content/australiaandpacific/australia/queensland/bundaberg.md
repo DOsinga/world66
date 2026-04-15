@@ -5,6 +5,7 @@ latitude: -24.8653
 longitude: 152.3517
 title: Bundaberg
 type: location
+score: 0.47
 ---
 
 Bundaberg sits on the Burnett River in southern Queensland, best known to the world for its dark rum — the Bundaberg Distillery has been producing it here since 1888, and the famous polar bear still graces every bottle. The city itself is a working agricultural hub, surrounded by sugarcane fields and macadamia orchards, with a relaxed pace that suits a day or two of exploration.

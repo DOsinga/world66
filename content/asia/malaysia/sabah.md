@@ -5,6 +5,7 @@ latitude: 5.425736
 longitude: 117.032639
 title: Sabah
 type: location
+score: 0.66
 ---
 
 Sabah is the northernmost state of Malaysian Borneo, a place of extraordinary natural variety: granite peaks, ancient rainforest, coral-fringed islands, and river systems that shelter some of the most biodiverse wildlife on earth. The capital, Kota Kinabalu, sits on the northwest coast and is the gateway for most visitors.

@@ -5,6 +5,7 @@ latitude: 47.3073
 longitude: -122.2285
 title: Auburn
 type: location
+score: 0.34
 ---
 
 Auburn is a city of around 80,000 in the Green River Valley, roughly halfway between Seattle and Tacoma. It sits at the edge of the Cascade foothills, which puts outdoor activities — hiking, skiing, and river sports — within easy reach. Crystal Mountain and The Summit at Snoqualmie are under an hour away, and Mount Rainier National Park is about 60 miles southeast.

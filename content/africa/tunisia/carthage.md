@@ -5,6 +5,7 @@ latitude: 36.854808
 longitude: 10.330992
 title: Carthage
 type: location
+score: 0.61
 ---
 
 Carthage needs to be destroyed — so declared the Roman senator Cato, who reportedly ended every speech with that demand. The Romans eventually obliged, flattening the city in 146 BC. Yet Carthage outlasted Rome: its history stretches across nearly twice as many centuries as the Roman Empire's.

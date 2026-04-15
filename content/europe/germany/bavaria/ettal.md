@@ -5,6 +5,7 @@ latitude: 47.5687
 longitude: 11.0936
 title: Ettal
 type: location
+score: 0.53
 ---
 
 Ettal is a small village in a narrow Alpine valley near Oberammergau, dominated by one thing: its monastery. Kloster Ettal was founded in 1330 by Emperor Ludwig IV of Bavaria and has grown over the centuries into a grand Benedictine complex, its centrepiece a baroque basilica with a massive dome that seems wildly oversized for the tiny village around it. The interior is lavishly decorated with frescoes and stucco work — a worthwhile stop even for those with limited patience for churches.

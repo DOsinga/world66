@@ -5,6 +5,7 @@ latitude: 7.9573
 longitude: -80.4159
 title: Los Santos
 type: location
+score: 0.39
 ---
 
 Los Santos is a province on the Azuero Peninsula in southern Panama, the heartland of Panamanian rural culture. This is where the country's traditions run deepest — the pollera dress, the sombrero pintao, and the folk dances that define the national identity all originate here. If you visit during Carnival, the celebrations in Las Tablas and other Azuero towns are among the wildest and most genuine in Central America.

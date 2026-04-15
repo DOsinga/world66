@@ -1,0 +1,200 @@
+{
+  "round": 74,
+  "timestamp": "2026-04-12T08:02:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. George's",
+      "path": "northamerica/grenada/stgeorges",
+      "prior_mu": 24.28,
+      "prior_sigma": 4.02,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_mu": 22.52,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_mu": 22.63,
+      "prior_sigma": 3.28,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_mu": 21.59,
+      "prior_sigma": 3.23,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_mu": 21.45,
+      "prior_sigma": 3.68,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_mu": 20.99,
+      "prior_sigma": 2.73,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_mu": 21.68,
+      "prior_sigma": 3.59,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_mu": 21.44,
+      "prior_sigma": 4.55,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Eswatini (Swaziland)",
+      "path": "africa/swaziland",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.54,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_mu": 21.21,
+      "prior_sigma": 3.69,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_mu": 21.0,
+      "prior_sigma": 3.35,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_mu": 21.72,
+      "prior_sigma": 3.69,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_mu": 21.59,
+      "prior_sigma": 4.19,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_mu": 20.78,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Aba",
+      "path": "asia/china/aba",
+      "prior_mu": 21.86,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/leicester_notting/chesterfield",
+      "prior_mu": 20.31,
+      "prior_sigma": 3.01,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tizi-ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_mu": 21.17,
+      "prior_sigma": 4.44,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_mu": 20.75,
+      "prior_sigma": 3.51,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_mu": 15.75,
+      "prior_sigma": 3.27,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bialogard",
+      "path": "europe/poland/bialogard",
+      "prior_mu": 19.22,
+      "prior_sigma": 3.57,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_mu": 21.34,
+      "prior_sigma": 3.84,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_mu": 20.07,
+      "prior_sigma": 4.44,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_mu": 20.94,
+      "prior_sigma": 3.0,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Jhook Masoo",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/jhook_masoo",
+      "prior_mu": 10.33,
+      "prior_sigma": 4.89,
+      "prior_n": 3
+    }
+  ]
+}

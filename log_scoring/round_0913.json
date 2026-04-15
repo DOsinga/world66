@@ -1,0 +1,200 @@
+{
+  "round": 913,
+  "timestamp": "2026-04-12T14:49:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 2.3429,
+      "prior_variance": 1.79701,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 7.1959,
+      "prior_variance": 1.744132,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 5.9164,
+      "prior_variance": 1.819919,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 7.5042,
+      "prior_variance": 2.578268,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_score": 3.3689,
+      "prior_variance": 1.752533,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Benidorm",
+      "path": "europe/spain/spanishcostas/benidorm",
+      "prior_score": 6.2767,
+      "prior_variance": 1.889556,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cha Am",
+      "path": "asia/thailand/cha_am",
+      "prior_score": -0.7095,
+      "prior_variance": 0.730411,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sahara desert",
+      "path": "africa/algeria/saharadesert",
+      "prior_score": 3.0228,
+      "prior_variance": 1.583385,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 2.7183,
+      "prior_variance": 1.532013,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Belogradchik",
+      "path": "europe/bulgaria/belogradchik",
+      "prior_score": 2.3373,
+      "prior_variance": 1.582634,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": -0.2316,
+      "prior_variance": 1.485191,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Haridwar",
+      "path": "asia/india/uttarpradesh/haridwar",
+      "prior_score": -1.397,
+      "prior_variance": 1.234138,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": 2.2693,
+      "prior_variance": 1.565122,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": 0.1616,
+      "prior_variance": 1.228966,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": 0.0872,
+      "prior_variance": 0.797858,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -4.4085,
+      "prior_variance": 0.897706,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Epalinges",
+      "path": "europe/switzerland/epalinges",
+      "prior_score": -4.6987,
+      "prior_variance": 1.160754,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -3.0847,
+      "prior_variance": 1.255215,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.3582,
+      "prior_variance": 0.775649,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -5.7372,
+      "prior_variance": 1.10164,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -4.8063,
+      "prior_variance": 1.410859,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -7.7081,
+      "prior_variance": 1.679745,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Niger",
+      "path": "africa/niger",
+      "prior_score": -7.9883,
+      "prior_variance": 4.58336,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -13.2613,
+      "prior_variance": 2.047901,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 898,
+  "timestamp": "2026-04-12T14:48:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/saintbartholomy",
+      "prior_score": 6.6938,
+      "prior_variance": 1.411352,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 13.0102,
+      "prior_variance": 7.981867,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Galicia",
+      "path": "europe/spain/galicia",
+      "prior_score": 7.8248,
+      "prior_variance": 1.264263,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 7.1359,
+      "prior_variance": 1.551442,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 4.6666,
+      "prior_variance": 0.765886,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 5.6434,
+      "prior_variance": 0.481753,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Beverly Hills",
+      "path": "northamerica/unitedstates/california/losangeles/beverlyhills",
+      "prior_score": 1.883,
+      "prior_variance": 1.418357,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 7.6906,
+      "prior_variance": 2.380015,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
+      "prior_score": 1.2179,
+      "prior_variance": 1.32087,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/coromandel",
+      "prior_score": 4.5075,
+      "prior_variance": 0.859899,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_score": 2.1893,
+      "prior_variance": 1.269221,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Golan Heights",
+      "path": "asia/israel/golanheights",
+      "prior_score": 3.3901,
+      "prior_variance": 1.379733,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_score": 1.3801,
+      "prior_variance": 1.749068,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Frankenmuth",
+      "path": "northamerica/unitedstates/michigan/frankenmuth",
+      "prior_score": -0.2767,
+      "prior_variance": 1.393485,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/birmingham",
+      "prior_score": -2.6339,
+      "prior_variance": 1.282838,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": -0.7778,
+      "prior_variance": 1.511237,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Tashkorgan",
+      "path": "asia/china/tashkorgan",
+      "prior_score": -1.4096,
+      "prior_variance": 1.356401,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -4.149,
+      "prior_variance": 1.415157,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Bihar",
+      "path": "asia/india/bihar",
+      "prior_score": -7.5557,
+      "prior_variance": 1.134931,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_score": -4.0682,
+      "prior_variance": 0.461927,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -8.2929,
+      "prior_variance": 11.241532,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -9.588,
+      "prior_variance": 2.411086,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_score": -10.5965,
+      "prior_variance": 9.270869,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Jamshaid awan",
+      "path": "asia/pakistan/abbottabad/jamshaid_awan",
+      "prior_score": -9.5735,
+      "prior_variance": 2.813427,
+      "prior_n": 1
+    }
+  ]
+}

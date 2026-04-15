@@ -11,6 +11,7 @@ latitude: 9.5595
 longitude: 44.0769
 title: Somaliland
 type: location
+score: 0.12
 ---
 
 Somaliland declared independence from Somalia in 1991, after the collapse of the Siad Barre regime and years of brutal military repression. No country officially recognises it, but that hasn't stopped it from functioning. It has its own elected government, currency, police force, and passport — and for travellers, it behaves like an independent country in every practical way.

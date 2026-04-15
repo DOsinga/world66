@@ -5,6 +5,7 @@ latitude: 41.1381
 longitude: 24.8864
 title: Xanthi
 type: location
+score: 0.5
 ---
 
 Xanthi sits in the northeast corner of Greece, in Thrace, about 220 km east of [Thessaloniki](/europe/greece/thessaloniki) and close to the [Bulgarian](/europe/bulgaria) border. It is a lively university town with an atmosphere quite unlike the rest of Greece — partly because of its significant Muslim minority, partly because of its well-preserved Ottoman-era old town climbing the hillside above the modern centre.

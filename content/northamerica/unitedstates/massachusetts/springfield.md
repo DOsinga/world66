@@ -5,6 +5,7 @@ latitude: 42.1015
 longitude: -72.5898
 title: Springfield
 type: location
+score: 0.37
 ---
 
 Springfield is the largest city in western Massachusetts, sitting along the Connecticut River about 90 miles west of Boston. It is an industrial city that has seen better days economically, but it punches above its weight for museums: the Naismith Memorial Basketball Hall of Fame draws fans from across the country, the Springfield Armory National Historic Site tells the story of American military manufacturing, and the Dr. Seuss National Memorial Sculpture Garden honours the author who grew up here.

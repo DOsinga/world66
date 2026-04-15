@@ -5,6 +5,7 @@ latitude: 58.595904
 longitude: 23.219646
 title: Muhu Island
 type: location
+score: 0.52
 ---
 
 Muhu is the third largest island in Estonia and the stepping stone between the mainland and [Saaremaa](/europe/estonia/kuressaare). The causeway to Saaremaa means most visitors pass straight through, which is a shame — the island rewards those who stop.

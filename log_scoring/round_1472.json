@@ -1,0 +1,200 @@
+{
+  "round": 1472,
+  "timestamp": "2026-04-13T10:23:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 4.128,
+      "prior_variance": 0.49425,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 8.3986,
+      "prior_variance": 0.432717,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Gold Coast",
+      "path": "australiaandpacific/australia/queensland/goldcoast",
+      "prior_score": 5.0155,
+      "prior_variance": 0.420355,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 4.7645,
+      "prior_variance": 0.594042,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_score": 7.2167,
+      "prior_variance": 0.493877,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/devon",
+      "prior_score": 4.7473,
+      "prior_variance": 0.479283,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Winchester",
+      "path": "europe/unitedkingdom/england/south_east/winchester",
+      "prior_score": 3.9818,
+      "prior_variance": 0.5137,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Trogirska Riviera",
+      "path": "europe/croatia/trogirska_riviera",
+      "prior_score": 4.781,
+      "prior_variance": 0.42715,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 7.2387,
+      "prior_variance": 0.561174,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 6.1543,
+      "prior_variance": 0.46783,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 3.6412,
+      "prior_variance": 0.4984,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ebisu",
+      "path": "asia/japan/tokyo/ebisu",
+      "prior_score": 2.7176,
+      "prior_variance": 0.692404,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_score": 5.4932,
+      "prior_variance": 0.39107,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_score": 2.4115,
+      "prior_variance": 0.355286,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 4.1483,
+      "prior_variance": 0.40768,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Santander",
+      "path": "europe/spain/northernspain/santander",
+      "prior_score": 3.7777,
+      "prior_variance": 0.405021,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_score": 4.9505,
+      "prior_variance": 0.417089,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 3.5647,
+      "prior_variance": 0.401229,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Greenland",
+      "path": "northamerica/greenland",
+      "prior_score": 0.7989,
+      "prior_variance": 0.506097,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_score": 5.5084,
+      "prior_variance": 0.455828,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 2.5114,
+      "prior_variance": 0.549711,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 2.8245,
+      "prior_variance": 0.574447,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Puerto Madryn",
+      "path": "southamerica/argentina/puerto_madryn_1",
+      "prior_score": 3.7062,
+      "prior_variance": 0.546386,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 4.7398,
+      "prior_variance": 0.53993,
+      "prior_n": 3
+    }
+  ]
+}

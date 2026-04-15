@@ -5,6 +5,7 @@ latitude: 32.7469
 longitude: -117.1631
 title: Hillcrest
 type: location
+score: 0.45
 ---
 
 Hillcrest is a vibrant, walkable neighbourhood just north of [Downtown San Diego](/northamerica/unitedstates/california/sandiego), bordering [Balboa Park](/northamerica/unitedstates/california/sandiego) to the east. It is the centre of San Diego's LGBTQ+ community, with gay bars, clubs, and social organisations along and around University Avenue, but the neighbourhood's appeal extends well beyond that identity. The commercial strips are packed with independent restaurants, vintage clothing shops, record stores, and bookshops that draw a diverse mix of residents and visitors.

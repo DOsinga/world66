@@ -5,6 +5,7 @@ latitude: 46.523027
 longitude: 18.982504
 title: Kalocsa
 type: location
+score: 0.45
 ---
 
 Kalocsa is one of Hungary's paprika capitals — the spice that colours and flavours so much of Hungarian cooking is grown in the fields around town and ground in local mills. The Paprika Museum on Szent István király út tells the whole story, from the Ottoman-era introduction of the plant to the modern harvest.

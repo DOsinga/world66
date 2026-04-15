@@ -5,6 +5,7 @@ latitude: 41.1127
 longitude: 20.0822
 title: Elbasan
 type: location
+score: 0.38
 ---
 
 Elbasan is a mid-sized city in central Albania, sitting in the broad Shkumbin river valley between Tirana and the mountains that climb toward North Macedonia. It is an industrial town — a massive Soviet-built steel plant dominates the outskirts and left a mark on the city's character — but at its heart is a remarkably intact Ottoman walled city that most visitors driving through never bother to stop for. They should.

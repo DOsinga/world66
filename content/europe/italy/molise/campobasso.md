@@ -5,6 +5,7 @@ latitude: 41.7173
 longitude: 14.8262
 title: Campobasso
 type: location
+score: 0.41
 ---
 
 Campobasso is the capital of Molise, Italy's least-visited region — and that obscurity is precisely what makes it worth the detour. Perched at 701 metres on a ridge between the Biferno and Fortore river valleys, it is a quiet, unhurried hill town with a medieval core, a Lombard castle, and an almost complete absence of other tourists.

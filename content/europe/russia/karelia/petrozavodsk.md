@@ -5,6 +5,7 @@ latitude: 61.789221
 longitude: 34.368804
 title: Petrozavodsk
 type: location
+score: 0.41
 ---
 
 Petrozavodsk is the capital of the Republic of Karelia, sitting on the western shore of Lake Onega — the second-largest lake in Europe. Peter the Great founded the city in 1703 as a cannon factory to supply his wars against Sweden, and the name literally means "Peter's factory."

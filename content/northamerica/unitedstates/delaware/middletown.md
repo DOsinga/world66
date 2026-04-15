@@ -5,6 +5,7 @@ latitude: 39.4496
 longitude: -75.7163
 done:
   location_cleanup: 2026-04-05
+score: 0.3
 ---
 
 Middletown is a small but rapidly growing town in New Castle County, southern Delaware — about 50 km south of Wilmington on US Route 301, and one of the fastest-growing municipalities in the state. Historically a 19th-century farming community (the restored Victorian homes along Main Street are the surviving reminder), it has boomed in recent decades into a commuter suburb for the Wilmington and Philadelphia job markets.

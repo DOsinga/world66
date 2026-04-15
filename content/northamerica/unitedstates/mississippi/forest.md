@@ -5,6 +5,7 @@ latitude: 32.3646
 longitude: -89.4742
 title: Forest
 type: location
+score: 0.29
 ---
 
 Forest is a small town in Scott County, [Mississippi](/northamerica/unitedstates/mississippi), sitting off I-20 about halfway between Jackson and Meridian. It is primarily an agricultural community and the county seat.

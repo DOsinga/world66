@@ -1,0 +1,200 @@
+{
+  "round": 1176,
+  "timestamp": "2026-04-12T22:13:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Haridwar",
+      "path": "asia/india/uttarpradesh/haridwar",
+      "prior_rank": 3831,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Zhejiang",
+      "path": "asia/china/zhejiang",
+      "prior_rank": 5383,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_rank": 5078,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_rank": 5718,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_rank": 5238,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_rank": 3292,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_rank": 5049,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_rank": 3129,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_rank": 4047,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_rank": 2082,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_rank": 5475,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/whanganui_region/wanganui",
+      "prior_rank": 7230,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_rank": 4296,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_rank": 5133,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_rank": 6650,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Banana islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_rank": 5472,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_rank": 6211,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_rank": 3080,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "O Rosal Valley",
+      "path": "europe/spain/galicia/o_rosal_valley",
+      "prior_rank": 5458,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_rank": 4766,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_rank": 6160,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/upperhutt",
+      "prior_rank": 4291,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tigzirt",
+      "path": "africa/algeria/tigzirt",
+      "prior_rank": 5708,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "San Pedro",
+      "path": "northamerica/unitedstates/california/san_pedro",
+      "prior_rank": 6437,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

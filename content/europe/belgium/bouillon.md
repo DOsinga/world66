@@ -5,6 +5,7 @@ latitude: 49.795
 longitude: 5.0673
 title: Bouillon
 type: location
+score: 0.52
 ---
 
 Bouillon is a small town in the Belgian Ardennes, tucked into a deep loop of the Semois River. The landscape does most of the work: dense forest, steep valley walls, and a river that doubles back on itself so tightly that the old town sits on a narrow peninsula, almost entirely surrounded by water.

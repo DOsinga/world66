@@ -1,0 +1,200 @@
+{
+  "round": 1595,
+  "timestamp": "2026-04-13T10:34:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_score": -0.4856,
+      "prior_variance": 0.394855,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/paloalto",
+      "prior_score": 0.0898,
+      "prior_variance": 0.283749,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -0.6341,
+      "prior_variance": 0.242859,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.8063,
+      "prior_variance": 0.30855,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_score": -1.3065,
+      "prior_variance": 0.348138,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Saarland",
+      "path": "europe/germany/saarland",
+      "prior_score": -1.774,
+      "prior_variance": 0.318949,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Centre",
+      "path": "europe/france/centre",
+      "prior_score": -0.6754,
+      "prior_variance": 0.410673,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": -0.0816,
+      "prior_variance": 0.319045,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -1.3647,
+      "prior_variance": 0.455424,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Chillan",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -1.284,
+      "prior_variance": 0.328706,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_score": -1.4052,
+      "prior_variance": 0.34384,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -0.0957,
+      "prior_variance": 0.362488,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_score": -1.1278,
+      "prior_variance": 0.386741,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -0.8093,
+      "prior_variance": 0.476499,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -1.4958,
+      "prior_variance": 0.573813,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/todmorden",
+      "prior_score": -2.2135,
+      "prior_variance": 0.36691,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_score": -1.9472,
+      "prior_variance": 0.280746,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "saskatchewan river crossing",
+      "path": "northamerica/canada/alberta/saskatchewan_river",
+      "prior_score": -1.2512,
+      "prior_variance": 0.445982,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": -0.3439,
+      "prior_variance": 0.254361,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -1.5511,
+      "prior_variance": 0.421141,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/eastland",
+      "prior_score": -1.156,
+      "prior_variance": 0.27245,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": -0.9442,
+      "prior_variance": 0.421115,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_score": -2.0372,
+      "prior_variance": 0.63922,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": -0.7311,
+      "prior_variance": 0.343928,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 ---
-title: "Glastonbury"
+title: Glastonbury
 type: location
 latitude: 51.14804
 longitude: -2.716577
 done:
   location_cleanup: 2026-04-10
+score: 0.58
 ---
 
 Glastonbury is a small Somerset town with an outsized mythological reputation. It draws pilgrims, pagans, and curious visitors in roughly equal measure, all drawn by the same cluster of legends: King Arthur's burial, the Holy Grail, and the mystical isle of Avalon.

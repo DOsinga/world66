@@ -5,6 +5,7 @@ latitude: -8.382074
 longitude: -74.538751
 title: Pucallpa
 type: location
+score: 0.43
 ---
 
 Pucallpa is a fast-growing jungle city on the Ucayali River, the main gateway to the central Amazon from Lima. You can reach it by a scenic but grueling overland route from the capital, or by a multi-day boat trip from [Iquitos](/southamerica/peru/iquitos) — one of Peru's great river journeys.

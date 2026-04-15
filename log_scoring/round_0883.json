@@ -1,0 +1,200 @@
+{
+  "round": 883,
+  "timestamp": "2026-04-12T14:47:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Andalucia",
+      "path": "europe/spain/andalucia",
+      "prior_score": 11.6953,
+      "prior_variance": 6.107375,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 9.4724,
+      "prior_variance": 2.619192,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 10.7972,
+      "prior_variance": 5.254866,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 1.5902,
+      "prior_variance": 1.7746,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/dunedin",
+      "prior_score": 7.6105,
+      "prior_variance": 1.992723,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Budva",
+      "path": "europe/serbiaandmontenegro/budva",
+      "prior_score": 4.3058,
+      "prior_variance": 0.909282,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Macedonia",
+      "path": "europe/macedonia",
+      "prior_score": 2.7126,
+      "prior_variance": 0.739894,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hallingdal",
+      "path": "europe/norway/hallingdal",
+      "prior_score": 2.8025,
+      "prior_variance": 0.740326,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_score": -0.6011,
+      "prior_variance": 1.469042,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Odisha",
+      "path": "asia/india/orissa",
+      "prior_score": -2.7756,
+      "prior_variance": 1.698928,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/ventura",
+      "prior_score": -0.2437,
+      "prior_variance": 1.373063,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/sandiego/solanabeach",
+      "prior_score": 0.0354,
+      "prior_variance": 1.502634,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Pennsylvania",
+      "path": "northamerica/unitedstates/pennsylvania",
+      "prior_score": 1.579,
+      "prior_variance": 1.794266,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -1.3411,
+      "prior_variance": 1.509294,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_score": -0.1301,
+      "prior_variance": 1.537352,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -2.1302,
+      "prior_variance": 1.671313,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -2.1208,
+      "prior_variance": 1.544829,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -1.9501,
+      "prior_variance": 1.501253,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -5.4558,
+      "prior_variance": 1.654215,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -7.8294,
+      "prior_variance": 3.548162,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Castro Valley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/castrovalley",
+      "prior_score": -7.0229,
+      "prior_variance": 1.329161,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": 1.5592,
+      "prior_variance": 1.734468,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -11.6694,
+      "prior_variance": 2.417671,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Baker Island",
+      "path": "australiaandpacific/bakerisland",
+      "prior_score": -8.7856,
+      "prior_variance": 1.641061,
+      "prior_n": 2
+    }
+  ]
+}

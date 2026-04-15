@@ -5,6 +5,7 @@ latitude: 43.9886
 longitude: 18.1781
 title: Visoko
 type: location
+score: 0.41
 ---
 
 Visoko sits in the green valley of the Bosna river, roughly halfway between Sarajevo and Zenica in central Bosnia and Herzegovina. It is a small, working town with deep roots -- this was the seat of medieval Bosnian kings, and the fortress of Visoki perched above the town once served as the royal court. Today the old town centre clusters along the river where the Fojnicka flows into the Bosna, overlooked by hills on every side.

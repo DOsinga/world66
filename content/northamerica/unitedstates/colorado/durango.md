@@ -5,6 +5,7 @@ latitude: 37.276948
 longitude: -107.8766
 title: Durango
 type: location
+score: 0.59
 ---
 
 Durango sits in the Animas River Valley in southwest Colorado, surrounded by the San Juan Mountains. It is one of the best outdoor towns in the state — the kind of place where you can raft the Animas in the morning, mountain bike in the afternoon, and eat well downtown in the evening.

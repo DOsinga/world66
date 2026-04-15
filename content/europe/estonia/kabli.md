@@ -5,6 +5,7 @@ latitude: 58.002466
 longitude: 24.446867
 title: Kabli
 type: location
+score: 0.33
 ---
 
 Kabli is a quiet coastal village on Pärnu Bay in southwest Estonia, known for its long sandy beach and as one of the best birdwatching spots in the Baltics. The beach stretches for several kilometres — shallow, sandy, and uncrowded even in summer.

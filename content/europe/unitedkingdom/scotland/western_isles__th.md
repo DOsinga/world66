@@ -5,6 +5,7 @@ latitude: 57.9
 longitude: -6.7
 done:
   location_cleanup: 2026-04-07
+score: 0.59
 ---
 
 The Outer Hebrides — also known as the Western Isles or the Long Island — are a chain of islands off the northwest coast of Scotland, stretching about 200 km from Lewis and Harris in the north to Barra in the south. Despite appearances on a map, Lewis and Harris are a single island divided by mountains, not a strait; the other main islands are North Uist, Benbecula, South Uist, and Barra, linked by bridges and causeways.

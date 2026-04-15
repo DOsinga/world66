@@ -5,6 +5,7 @@ latitude: 41.1258
 longitude: 16.862
 title: Bari
 type: location
+score: 0.64
 ---
 
 Bari is the capital of Puglia, a port city on the Adriatic coast that has been a trading hub between southern Europe and the eastern Mediterranean for centuries. It is not the prettiest city in the south, but it has genuine character — particularly in the old town, Bari Vecchia, a labyrinth of narrow streets on a headland between the old and new harbours.

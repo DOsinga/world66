@@ -1,0 +1,200 @@
+{
+  "round": 1606,
+  "timestamp": "2026-04-13T10:35:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -1.8909,
+      "prior_variance": 0.409463,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_score": 3.5176,
+      "prior_variance": 0.455698,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 2.9555,
+      "prior_variance": 0.468587,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_score": 1.9864,
+      "prior_variance": 0.297338,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_score": -3.9765,
+      "prior_variance": 0.225375,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/weymouth",
+      "prior_score": 0.6692,
+      "prior_variance": 0.407824,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_score": -3.4119,
+      "prior_variance": 0.237715,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.5209,
+      "prior_variance": 0.32781,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -1.5011,
+      "prior_variance": 0.363643,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -1.8444,
+      "prior_variance": 0.347568,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": -3.2527,
+      "prior_variance": 0.418918,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Pentagon City",
+      "path": "northamerica/unitedstates/virginia/arlington/pentagoncity",
+      "prior_score": -5.904,
+      "prior_variance": 1.643595,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_score": -5.3022,
+      "prior_variance": 0.458604,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -3.6004,
+      "prior_variance": 0.544207,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -3.1416,
+      "prior_variance": 0.503807,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_score": -1.8408,
+      "prior_variance": 0.380742,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Vengurle",
+      "path": "asia/india/maharashtra/konkan/vengurle",
+      "prior_score": -4.0203,
+      "prior_variance": 0.330794,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Santa rita",
+      "path": "australiaandpacific/guam/santarita",
+      "prior_score": -3.13,
+      "prior_variance": 0.362925,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/temuka",
+      "prior_score": -4.1376,
+      "prior_variance": 0.327762,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Andhra Pradesh",
+      "path": "asia/india/andhrapradesh",
+      "prior_score": -3.2667,
+      "prior_variance": 0.37177,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -5.7382,
+      "prior_variance": 0.651381,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -6.8536,
+      "prior_variance": 0.396775,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.3708,
+      "prior_variance": 0.327292,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -4.5262,
+      "prior_variance": 0.378361,
+      "prior_n": 4
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 2.806544
 longitude: 104.172156
 done:
   location_cleanup: 2026-04-07
+score: 0.64
 ---
 
 Pulau Tioman is one of the most beautiful islands off the east coast of Peninsular Malaysia. According to local legend, the island is a dragon princess who stopped here on her way from China to Singapore, fell in love with the spot, and transformed herself into land to shelter passing travellers. The shape of the island, with its twin granite peaks, does look vaguely like a sleeping dragon if you squint.

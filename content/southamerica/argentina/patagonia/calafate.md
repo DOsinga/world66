@@ -5,6 +5,7 @@ latitude: -50.34
 longitude: -72.2648
 title: El Calafate
 type: location
+score: 0.73
 ---
 
 El Calafate is the gateway town for Los Glaciares National Park, sitting on the shore of Lago Argentino about an hour's drive from the glaciers. The town itself is small and tourist-oriented, but you are not here for the town -- you are here for the ice.

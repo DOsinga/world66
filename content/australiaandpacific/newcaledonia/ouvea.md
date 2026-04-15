@@ -5,6 +5,7 @@ latitude: -20.549001
 longitude: 166.567395
 title: Ouvea
 type: location
+score: 0.64
 ---
 
 Ouvéa is the northernmost of the Loyalty Islands in New Caledonia, a narrow coral atoll about 130 kilometres north-east of Nouméa. The island's western shore has one of the most striking beaches in the Pacific — a 25-kilometre stretch of white sand and turquoise water that runs almost the full length of the island.

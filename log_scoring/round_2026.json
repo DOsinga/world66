@@ -1,0 +1,200 @@
+{
+  "round": 2026,
+  "timestamp": "2026-04-13T16:04:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_score": 9.4521,
+      "prior_variance": 0.402181,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_score": 5.4427,
+      "prior_variance": 0.404475,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 6.961,
+      "prior_variance": 0.278212,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_score": 3.7138,
+      "prior_variance": 0.290092,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 1.0826,
+      "prior_variance": 0.271213,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mae Hong Son",
+      "path": "asia/thailand/maehongson",
+      "prior_score": 3.3299,
+      "prior_variance": 0.315529,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_score": 6.231,
+      "prior_variance": 0.39972,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Su\u00f0uroy",
+      "path": "europe/faroeislands/suuroy",
+      "prior_score": 1.5237,
+      "prior_variance": 0.298842,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
+      "prior_score": 0.8174,
+      "prior_variance": 0.268399,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 1.2764,
+      "prior_variance": 0.270701,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": 1.0607,
+      "prior_variance": 0.321629,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.3956,
+      "prior_variance": 0.242588,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 2.6185,
+      "prior_variance": 0.299913,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.1992,
+      "prior_variance": 0.279328,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": 0.483,
+      "prior_variance": 0.261724,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 0.3305,
+      "prior_variance": 0.296062,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.6526,
+      "prior_variance": 0.25436,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_score": -4.1606,
+      "prior_variance": 0.306279,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Irian Jaya",
+      "path": "asia/indonesia/irianjaya",
+      "prior_score": -1.375,
+      "prior_variance": 0.27948,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_score": -0.3517,
+      "prior_variance": 0.300002,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -1.99,
+      "prior_variance": 0.326166,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_score": -4.1764,
+      "prior_variance": 0.313799,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -4.5684,
+      "prior_variance": 0.291168,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/yucatan/nuevolaredo",
+      "prior_score": -4.6123,
+      "prior_variance": 0.296961,
+      "prior_n": 5
+    }
+  ]
+}

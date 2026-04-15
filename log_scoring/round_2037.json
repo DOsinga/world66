@@ -1,0 +1,200 @@
+{
+  "round": 2037,
+  "timestamp": "2026-04-13T16:04:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 5.9864,
+      "prior_variance": 0.326774,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 3.7744,
+      "prior_variance": 0.290308,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Koh Mak",
+      "path": "asia/thailand/koh_mak",
+      "prior_score": 5.2703,
+      "prior_variance": 0.270135,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_score": 4.6147,
+      "prior_variance": 0.295946,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ria of Pontevedra",
+      "path": "europe/spain/galicia/ria_of_pontevedra",
+      "prior_score": 2.4838,
+      "prior_variance": 0.246288,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 1.9894,
+      "prior_variance": 0.285733,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bournemouth",
+      "prior_score": 1.8741,
+      "prior_variance": 0.331072,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 2.671,
+      "prior_variance": 0.226543,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Baracoa",
+      "path": "northamerica/cuba/baracoa",
+      "prior_score": 2.015,
+      "prior_variance": 0.310473,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": -2.5528,
+      "prior_variance": 0.429711,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Neckargem\u00fcnd",
+      "path": "europe/germany/badenwrttemberg/neckargemuend",
+      "prior_score": -0.9502,
+      "prior_variance": 0.246136,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_score": -0.0825,
+      "prior_variance": 0.247917,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_borml",
+      "prior_score": 0.2494,
+      "prior_variance": 0.318348,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -0.913,
+      "prior_variance": 0.156331,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.1997,
+      "prior_variance": 0.26477,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Hillsborough",
+      "path": "northamerica/saintvincentandthegrenadines/hillsborough",
+      "prior_score": -2.5275,
+      "prior_variance": 0.376814,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -1.6068,
+      "prior_variance": 0.25362,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -2.3343,
+      "prior_variance": 0.385024,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -3.1974,
+      "prior_variance": 0.332955,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -2.5358,
+      "prior_variance": 0.272493,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -2.2419,
+      "prior_variance": 0.211338,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Canyon",
+      "path": "northamerica/unitedstates/texas/amarillo/canyon",
+      "prior_score": -2.7594,
+      "prior_variance": 0.285333,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_score": -4.1511,
+      "prior_variance": 0.230346,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_score": -3.8857,
+      "prior_variance": 0.297829,
+      "prior_n": 5
+    }
+  ]
+}

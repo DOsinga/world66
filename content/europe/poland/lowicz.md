@@ -1,6 +1,7 @@
 ---
-title: "Lowicz"
+title: Lowicz
 type: location
 latitude: 52.101224
 longitude: 19.947461
+score: 0.42
 ---

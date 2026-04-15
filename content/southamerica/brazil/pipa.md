@@ -5,6 +5,7 @@ latitude: -6.237259
 longitude: -35.044165
 title: Pipa
 type: location
+score: 0.54
 ---
 
 Pipa is a small village near [Natal](/southamerica/brazil/natal) that has grown into one of northeast Brazil's most popular beach destinations. The dramatic coastline — tall red cliffs, sheltered coves, and warm water — draws surfers, backpackers, and a growing international crowd. There are four beaches around town, each with its own character: Praia do Centro is the liveliest, Praia do Amor is the most scenic, and Baía dos Golfinhos lives up to its name with regular dolphin sightings.

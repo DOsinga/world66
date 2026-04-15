@@ -5,6 +5,7 @@ latitude: 43.848041
 longitude: 25.954206
 title: Ruse
 type: location
+score: 0.48
 ---
 
 Ruse is Bulgaria's main Danube port and its most architecturally surprising city. Sitting on the southern bank of the river directly opposite the Romanian city of Giurgiu, it spent the second half of the 19th century rebuilding itself in the Western European styles then fashionable among the Bulgarian elite — Baroque facades, Art Nouveau ironwork, grand central squares. The result earned Ruse the nickname "Little Vienna," which oversells it, but the pedestrianised centre around Freedom Square does have an elegance you won't find anywhere else in Bulgaria.

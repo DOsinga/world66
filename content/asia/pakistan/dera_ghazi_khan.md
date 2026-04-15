@@ -5,6 +5,7 @@ latitude: 30.032137
 longitude: 70.640111
 title: Dera Ghazi Khan
 type: location
+score: 0.23
 ---
 
 Travel Guide

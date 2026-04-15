@@ -5,6 +5,7 @@ latitude: 47.132701
 longitude: 24.496395
 title: Bistrita
 type: location
+score: 0.45
 ---
 
 Bistrița is the town Bram Stoker put on the literary map: Jonathan Harker passes through here on his way to Dracula’s castle, stopping for dinner at what Stoker called the Golden Krone Hotel. That Dracula connection draws curious visitors, but the town stands on its own merits as one of the better-preserved medieval towns in Transylvania.

@@ -5,6 +5,7 @@ latitude: 9.2089
 longitude: 12.4802
 title: Yola
 type: location
+score: 0.25
 ---
 
 Yola is the capital of Adamawa State in northeastern Nigeria, sitting along the Benue River where the Mandara Mountains rise to the east toward the Cameroonian border. It's a quiet administrative city — unhurried by Nigerian standards — with a predominantly Muslim population and a character shaped by the Fulani and Kanuri cultures that dominate this corner of the country.

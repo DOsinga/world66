@@ -5,6 +5,7 @@ latitude: 48.0778
 longitude: 7.358
 title: Colmar
 type: location
+score: 0.74
 ---
 
 Colmar sits in the heart of the Alsatian vineyards and is one of the most photogenic small cities in France. Its historic centre is a vast pedestrian zone of medieval half-timbered houses with carved gables, painted shutters, and doors adorned with lavish woodwork — the kind of place that looks almost too perfect to be real.

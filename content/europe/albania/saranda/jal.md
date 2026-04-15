@@ -5,6 +5,7 @@ latitude: 40.0674
 longitude: 19.8163
 title: Jalë
 type: location
+score: 0.56
 ---
 
 Jalë is a small coastal village on the Albanian Riviera, roughly halfway between [Vlorë](/europe/albania/vlore) and [Sarandë](/europe/albania/saranda), about seven kilometres south of [Himarë](/europe/albania/saranda/himare). The beach here is one of the most beautiful on this stretch of coast — a crescent of white pebbles and clear turquoise water backed by olive groves and scrubby hills.

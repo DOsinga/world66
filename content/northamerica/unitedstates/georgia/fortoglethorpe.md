@@ -5,6 +5,7 @@ latitude: 34.949995
 longitude: -85.245661
 title: Fort Oglethorpe
 type: location
+score: 0.34
 ---
 
 Fort Oglethorpe is a small city in northwest Georgia, a few miles south of Chattanooga, Tennessee. Its main claim on a traveller's attention is its position as the gateway to Chickamauga and Chattanooga National Military Park — the largest Civil War battlefield in the United States, preserving the site of the 1863 Battle of Chickamauga, one of the bloodiest engagements of the war.

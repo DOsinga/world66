@@ -11,6 +11,7 @@ image_attribution: '<ul><li>Photo: chil, on Camptocamp.org</li> <li>Derivative w
   Grossen</a></li></ul>'
 done:
   country_cleanup: 2026-03-29
+score: 0.63
 ---
 
 Located in central Europe, Switzerland is bordered by [France](/europe/france) , [Germany](/europe/germany) , [Austria](/europe/austria) , [Liechtenstein](/europe/liechtenstein) , [Italy](/europe/italy) , and [France](/europe/france) . A small country, Switzerland's very name conjures up images of chocolates, cheese, watches, bankers, and snow-capped mountains. 

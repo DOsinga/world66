@@ -5,6 +5,7 @@ latitude: 20.644247
 longitude: 121.893946
 title: Batanes
 type: location
+score: 0.66
 ---
 
 Batanes is the Philippines' northernmost province — a cluster of ten small islands in the Luzon Strait, closer to Taiwan than to Manila. Only the three largest islands (Batan, Itbayat, and Sabtang) are inhabited, and the total population is among the smallest in the country. The provincial capital is Basco on Batan Island.

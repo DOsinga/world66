@@ -5,6 +5,7 @@ latitude: 44.367536
 longitude: 8.201746
 title: Millesimo
 type: location
+score: 0.41
 ---
 
 The main town in the upper Val Bormida, on the right branch of the Bormida river from which it takes its name. Millesimo partly retains its medieval aspect and is dominated by the ruins of a hilltop castle. Already inhabited in the Roman era, the town first appeared in tenth-century diplomas but later went into decline following frequent Saracen raids. In 1206 special privileges granted by the Del Carretto family led to an economic revival: the settlement was fortified and ringed with walls. It subsequently passed to Asti in 1260, the Visconti of Milan in the fifteenth century, and Spanish rule in 1659. The Savoy took possession on two occasions, in 1713 and 1736.

@@ -5,6 +5,7 @@ latitude: 54.2282
 longitude: -4.3938
 title: Laxey
 type: location
+score: 0.5
 ---
 
 Laxey is a small village on the northeast coast of the Isle of Man, set in a wooded valley where the Laxey River meets the sea. It is a stop on the Manx Electric Railway between Douglas and Ramsey, and the departure point for the Snaefell Mountain Railway to the island's summit.

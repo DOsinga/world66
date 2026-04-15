@@ -1,6 +1,7 @@
 ---
-title: "Almada"
+title: Almada
 type: location
 latitude: 38.68313
 longitude: -9.15763
+score: 0.46
 ---

@@ -5,6 +5,7 @@ latitude: 15.759086
 longitude: 121.562725
 title: Baler
 type: location
+score: 0.51
 ---
 
 Baler is the capital of Aurora province on the east coast of Luzon, facing the Pacific Ocean. It is best known as the birthplace of Philippine surfing — the waves at Sabang Beach drew the first surfers in the 1970s, and the town has since become the most popular surf destination in the country. The break works best from October to March, when the northeast monsoon pushes consistent swells onto the coast.

@@ -1,0 +1,200 @@
+{
+  "round": 671,
+  "timestamp": "2026-04-12T10:42:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/york",
+      "prior_mu": 23.3133,
+      "prior_sigma": 4.9196,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_mu": 23.3484,
+      "prior_sigma": 5.9942,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/stonehenge",
+      "prior_mu": 32.1003,
+      "prior_sigma": 5.94,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/torquay",
+      "prior_mu": 22.3577,
+      "prior_sigma": 5.4936,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Tenby",
+      "path": "europe/unitedkingdom/wales/tenby",
+      "prior_mu": 21.6726,
+      "prior_sigma": 4.8435,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_mu": 22.5877,
+      "prior_sigma": 5.5576,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/tewkesbury",
+      "prior_mu": 22.5115,
+      "prior_sigma": 5.8908,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/ashbourne",
+      "prior_mu": 22.2522,
+      "prior_sigma": 5.5562,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_mu": 21.0626,
+      "prior_sigma": 3.9473,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_mu": 21.7559,
+      "prior_sigma": 4.7027,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_mu": 22.576,
+      "prior_sigma": 5.7715,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/northumberland/berwickontweed",
+      "prior_mu": 20.7651,
+      "prior_sigma": 4.4621,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/otterystmary",
+      "prior_mu": 21.058,
+      "prior_sigma": 4.4701,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/crewkerne",
+      "prior_mu": 18.8975,
+      "prior_sigma": 5.1479,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hull",
+      "prior_mu": 21.3405,
+      "prior_sigma": 3.7891,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/keighley",
+      "prior_mu": 21.7142,
+      "prior_sigma": 4.4403,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/swindon",
+      "prior_mu": 19.224,
+      "prior_sigma": 4.1622,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_mu": 21.0923,
+      "prior_sigma": 3.9058,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/consett",
+      "prior_mu": 18.7747,
+      "prior_sigma": 5.1759,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/woldingham",
+      "prior_mu": 21.5918,
+      "prior_sigma": 4.537,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Pemberton",
+      "path": "europe/unitedkingdom/england/pemberton",
+      "prior_mu": 21.8477,
+      "prior_sigma": 5.7512,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Romford",
+      "path": "europe/unitedkingdom/england/romford",
+      "prior_mu": 22.2191,
+      "prior_sigma": 5.3338,
+      "prior_n": 1
+    }
+  ]
+}

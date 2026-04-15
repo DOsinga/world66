@@ -1,8 +1,9 @@
 ---
-title: "Mount Gambier"
+title: Mount Gambier
 type: location
 latitude: -37.830139
 longitude: 140.784263
+score: 0.45
 ---
 
 Travel Guide

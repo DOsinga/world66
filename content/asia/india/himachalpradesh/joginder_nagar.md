@@ -5,6 +5,7 @@ latitude: 31.988
 longitude: 76.783
 title: Joginder Nagar
 type: location
+score: 0.4
 ---
 
 Joginder Nagar is a small town in Mandi district, Himachal Pradesh, sitting in a side valley of the Uhl river at around 1,200 metres. The town was established in the 1920s when Raja Joginder Sen of Mandi commissioned a hydroelectric scheme using the waters of the Uhl — tunnelled and piped from the mountains to the Shanan power house, an ambitious feat of early 20th-century engineering. The power house still operates.

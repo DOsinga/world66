@@ -1,0 +1,200 @@
+{
+  "round": 1882,
+  "timestamp": "2026-04-13T14:32:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 10.9617,
+      "prior_variance": 0.483135,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_pa",
+      "prior_score": 8.2062,
+      "prior_variance": 0.468985,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Jasper",
+      "path": "northamerica/canada/alberta/jasper",
+      "prior_score": 8.755,
+      "prior_variance": 0.631634,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 12.1273,
+      "prior_variance": 0.641513,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_score": 9.5272,
+      "prior_variance": 0.432511,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 8.5905,
+      "prior_variance": 0.390699,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_score": 9.1684,
+      "prior_variance": 0.464084,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 7.9909,
+      "prior_variance": 0.690896,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Alaska",
+      "path": "northamerica/unitedstates/alaska",
+      "prior_score": 6.759,
+      "prior_variance": 0.886776,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 3.8381,
+      "prior_variance": 0.436031,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_score": 2.8361,
+      "prior_variance": 0.280826,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 1.3007,
+      "prior_variance": 0.183496,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 4.8013,
+      "prior_variance": 0.315746,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ha'apai Group",
+      "path": "australiaandpacific/tonga/haapaigroup",
+      "prior_score": 2.2727,
+      "prior_variance": 0.328623,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_score": 3.0584,
+      "prior_variance": 0.1925,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 3.2143,
+      "prior_variance": 0.324611,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 1.2709,
+      "prior_variance": 0.267226,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 3.1937,
+      "prior_variance": 0.274362,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_score": -0.098,
+      "prior_variance": 0.325417,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Muhu Island",
+      "path": "europe/estonia/muhu_island",
+      "prior_score": 1.328,
+      "prior_variance": 0.221532,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -2.1584,
+      "prior_variance": 0.288063,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": 0.9314,
+      "prior_variance": 0.309455,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.1461,
+      "prior_variance": 0.300823,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mississippi",
+      "path": "northamerica/unitedstates/mississippi",
+      "prior_score": -2.8833,
+      "prior_variance": 0.316586,
+      "prior_n": 4
+    }
+  ]
+}

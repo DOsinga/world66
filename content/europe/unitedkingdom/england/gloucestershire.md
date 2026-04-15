@@ -5,6 +5,7 @@ latitude: 51.764379
 longitude: -2.188066
 done:
   location_cleanup: 2026-04-07
+score: 0.56
 ---
 
 Gloucestershire sits in the west of England, straddling the River Severn, and contains some of the most recognisably English scenery in the country. The Cotswold hills in the east draw tourists in vast numbers — often too many — but get a few miles off the main roads and you find honey-stone villages where the main sound is birdsong.

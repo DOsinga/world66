@@ -1,0 +1,200 @@
+{
+  "round": 1497,
+  "timestamp": "2026-04-13T10:26:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -1.8911,
+      "prior_variance": 0.389271,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": -0.2187,
+      "prior_variance": 0.453444,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 3.4719,
+      "prior_variance": 0.426734,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Beckenham",
+      "path": "europe/unitedkingdom/england/beckenham",
+      "prior_score": -4.7738,
+      "prior_variance": 0.418742,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverp/warrington",
+      "prior_score": -4.1841,
+      "prior_variance": 0.409273,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Century City",
+      "path": "northamerica/unitedstates/california/losangeles/centurycity",
+      "prior_score": -4.2527,
+      "prior_variance": 0.523156,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Independence",
+      "path": "northamerica/unitedstates/missouri/independence",
+      "prior_score": -3.294,
+      "prior_variance": 0.400631,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_score": -6.0801,
+      "prior_variance": 0.31973,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_score": -4.3727,
+      "prior_variance": 0.433138,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -0.8895,
+      "prior_variance": 0.484297,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.9406,
+      "prior_variance": 0.537596,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -4.4068,
+      "prior_variance": 0.418381,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -4.0202,
+      "prior_variance": 0.324444,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_score": -6.0876,
+      "prior_variance": 0.672035,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -5.0108,
+      "prior_variance": 0.503992,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_score": -3.9362,
+      "prior_variance": 0.394453,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -4.7206,
+      "prior_variance": 0.313392,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bogalusa",
+      "path": "northamerica/unitedstates/louisiana/bogalusa",
+      "prior_score": -8.3371,
+      "prior_variance": 0.645186,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/houston/brazosportarea",
+      "prior_score": -4.4526,
+      "prior_variance": 0.593077,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Naraj",
+      "path": "asia/india/orissa/naraj",
+      "prior_score": -4.7883,
+      "prior_variance": 0.40401,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ukraine",
+      "path": "europe/ukraine",
+      "prior_score": -6.0342,
+      "prior_variance": 0.711456,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -7.0693,
+      "prior_variance": 1.149911,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_score": -12.3685,
+      "prior_variance": 1.18599,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "chah bangul wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/chah_bangul_wala",
+      "prior_score": -14.8817,
+      "prior_variance": 0.475209,
+      "prior_n": 3
+    }
+  ]
+}

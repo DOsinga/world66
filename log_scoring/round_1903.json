@@ -1,0 +1,200 @@
+{
+  "round": 1903,
+  "timestamp": "2026-04-13T14:34:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_score": 1.9347,
+      "prior_variance": 0.278419,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_score": 0.0419,
+      "prior_variance": 0.272285,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_score": -0.3978,
+      "prior_variance": 0.238622,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": -0.3387,
+      "prior_variance": 0.274979,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -2.042,
+      "prior_variance": 0.298439,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.3827,
+      "prior_variance": 0.428851,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_3",
+      "prior_score": 0.7595,
+      "prior_variance": 0.356113,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -2.017,
+      "prior_variance": 0.164233,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -2.8658,
+      "prior_variance": 0.133249,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -0.995,
+      "prior_variance": 0.350945,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_score": -2.2182,
+      "prior_variance": 0.253132,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -3.6802,
+      "prior_variance": 0.335986,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -4.1445,
+      "prior_variance": 0.306294,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -3.6903,
+      "prior_variance": 0.291273,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley",
+      "prior_score": -3.1883,
+      "prior_variance": 0.28228,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.5379,
+      "prior_variance": 0.271377,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -2.0746,
+      "prior_variance": 0.38736,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ashton",
+      "path": "northamerica/unitedstates/idaho/ashton",
+      "prior_score": -5.1317,
+      "prior_variance": 0.287066,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kingman",
+      "path": "northamerica/unitedstates/arizona/kingman",
+      "prior_score": -4.671,
+      "prior_variance": 0.277852,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Teaneck",
+      "path": "northamerica/unitedstates/newjersey/teaneck",
+      "prior_score": -4.944,
+      "prior_variance": 0.400055,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -3.0971,
+      "prior_variance": 0.329426,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_score": -6.7571,
+      "prior_variance": 0.338452,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_score": -6.9376,
+      "prior_variance": 0.288103,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_score": -9.8147,
+      "prior_variance": 0.629088,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1788,
+  "timestamp": "2026-04-13T10:51:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_score": -1.2577,
+      "prior_variance": 0.279289,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 2.4385,
+      "prior_variance": 0.314403,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 1.3471,
+      "prior_variance": 0.207666,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/langeoog",
+      "prior_score": 0.0501,
+      "prior_variance": 0.313905,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_score": -2.6176,
+      "prior_variance": 0.317787,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": 0.4649,
+      "prior_variance": 0.31283,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_score": -2.1436,
+      "prior_variance": 0.368693,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -3.1543,
+      "prior_variance": 0.309143,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -3.2631,
+      "prior_variance": 0.394934,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Misamis Occidental",
+      "path": "asia/philippines/misamis_occidental",
+      "prior_score": -4.2526,
+      "prior_variance": 0.355689,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -3.4498,
+      "prior_variance": 0.312561,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -4.631,
+      "prior_variance": 0.29058,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -4.7028,
+      "prior_variance": 0.317032,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Douglaston",
+      "path": "northamerica/unitedstates/newyorkstate/douglaston",
+      "prior_score": -4.3291,
+      "prior_variance": 0.287866,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -6.0796,
+      "prior_variance": 0.384378,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Albert Lea",
+      "path": "northamerica/unitedstates/minnesota/albertlea",
+      "prior_score": -5.3056,
+      "prior_variance": 0.291131,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -6.0075,
+      "prior_variance": 0.391227,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Wiehl",
+      "path": "europe/germany/northrhinewestphalia/wiehl",
+      "prior_score": -4.0307,
+      "prior_variance": 0.287344,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Zielonka",
+      "path": "europe/poland/zielonka",
+      "prior_score": -5.6582,
+      "prior_variance": 0.328022,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -5.8423,
+      "prior_variance": 0.410893,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -4.6421,
+      "prior_variance": 0.330286,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -5.4426,
+      "prior_variance": 0.33647,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_score": -6.1092,
+      "prior_variance": 0.311731,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Diadema",
+      "path": "southamerica/brazil/diadema",
+      "prior_score": -6.9979,
+      "prior_variance": 0.471785,
+      "prior_n": 5
+    }
+  ]
+}

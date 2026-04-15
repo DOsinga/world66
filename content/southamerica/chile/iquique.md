@@ -5,6 +5,7 @@ latitude: -20.214066
 longitude: -70.152465
 title: Iquique
 type: location
+score: 0.52
 ---
 
 Iquique is a port city in Chile's far north, sandwiched dramatically between the Atacama Desert and the Pacific Ocean. The city sits on a narrow coastal strip beneath an enormous sand dune — the Cerro Dragón — that looms over the southern end of town and is one of the largest urban dunes in the world.

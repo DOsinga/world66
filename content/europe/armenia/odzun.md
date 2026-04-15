@@ -5,6 +5,7 @@ latitude: 41.051653
 longitude: 44.615615
 title: Odzun
 type: location
+score: 0.43
 ---
 
 Odzun (Օձուն) is a village on a dissected plateau above the Debed gorge, just above [Alaverdi](/europe/armenia/alaverdi). Unlike [Sanahin](/europe/armenia/sanahin_1) and [Haghpat](/europe/armenia/haghpat_3), it sits on the left bank of the gorge.

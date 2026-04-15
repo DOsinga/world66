@@ -5,6 +5,7 @@ latitude: 2.95
 longitude: 16.38
 title: Dzanga-Sangha
 type: location
+score: 0.42
 ---
 
 **Dzanga-Sangha** is a protected area of dense tropical rainforest in the far southwest of the [Central African Republic](/africa/centralafricanrepublic), on the border with [Cameroon](/africa/cameroon) and the Republic of Congo. It is one of the best places in Central Africa to see western lowland gorillas — habituated groups can be tracked with local Ba'Aka pygmy guides, who have an extraordinary knowledge of the forest.

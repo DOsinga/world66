@@ -5,6 +5,7 @@ latitude: 53.229354
 longitude: -0.540482
 title: Lincoln
 type: location
+score: 0.49
 ---
 
 Lincoln is one of England's most striking medieval cities, built on a dramatic limestone ridge that rises sharply above the surrounding flatlands of Lincolnshire. The hilltop is crowned by two buildings that have defined the city for nearly a thousand years: the castle, begun by William the Conqueror in 1068, and the cathedral, whose central tower once made it the tallest structure in the world.

@@ -5,6 +5,7 @@ latitude: 38.840838
 longitude: 0.10611
 title: Dénia
 type: location
+score: 0.57
 ---
 
 Dénia is a relaxed port town at the northern end of the Costa Blanca, sitting below a medieval castle at the foot of the Montgó massif. Unlike the resort strips to the south, it has a functioning town centre with a year-round population and a fishing harbour that still operates.

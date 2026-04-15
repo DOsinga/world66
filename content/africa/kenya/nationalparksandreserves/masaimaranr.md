@@ -5,6 +5,7 @@ latitude: -1.4833
 longitude: 35.1667
 done:
   location_cleanup: 2026-04-05
+score: 0.84
 ---
 
 The Masai Mara is Kenya's most famous wildlife reserve, a 1,510 square-kilometre slice of savanna in the southwest of the country that forms the northern edge of the much larger Serengeti ecosystem across the border in Tanzania. This is the land of black-maned lions, great rolling grasslands dotted with acacia and the Mara river, and — between roughly July and October — the thunderous arrival of the **Great Migration**, when over a million wildebeest and hundreds of thousands of zebras cross the Mara from Tanzania in search of fresh grass. The river crossings, where crocodiles and big cats wait for the herds, are one of the genuine spectacles of the natural world.

@@ -5,6 +5,7 @@ latitude: 42.2458
 longitude: -84.4013
 title: Jackson
 type: location
+score: 0.35
 ---
 
 Jackson sits at the geographic centre of Michigan's Lower Peninsula, a mid-sized city with a handful of claims to fame. The Republican Party held its first major convention here in 1854, under the oaks on what is now a small park. The city later served as a Civil War training facility and became a railroad hub — the switching and repair headquarters for the Michigan Central Railroad.

@@ -5,6 +5,7 @@ latitude: 37.1891
 longitude: -112.9988
 title: Springdale
 type: location
+score: 0.67
 ---
 
 Springdale is a tiny town at the mouth of Zion Canyon, existing almost entirely as the gateway to Zion National Park. The park's sheer red-and-white sandstone cliffs rise straight up from the valley floor, and the main canyon is accessible by shuttle bus from Springdale's doorstep.

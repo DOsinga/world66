@@ -1,0 +1,200 @@
+{
+  "round": 1506,
+  "timestamp": "2026-04-13T10:26:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nuremberg",
+      "path": "europe/germany/bavaria/nuremberg",
+      "prior_score": 5.287,
+      "prior_variance": 0.391402,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lazio",
+      "path": "europe/italy/lazio",
+      "prior_score": 0.4226,
+      "prior_variance": 0.663831,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_score": 4.4179,
+      "prior_variance": 0.512825,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_score": 4.9279,
+      "prior_variance": 0.654839,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monterey",
+      "prior_score": 4.7226,
+      "prior_variance": 0.622603,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Alberta",
+      "path": "northamerica/canada/alberta",
+      "prior_score": -2.6374,
+      "prior_variance": 0.48471,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "The Finger Lakes",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes",
+      "prior_score": 4.8172,
+      "prior_variance": 0.534689,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Orange County",
+      "path": "northamerica/unitedstates/california/orangecounty",
+      "prior_score": 2.6502,
+      "prior_variance": 0.410856,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Navarre",
+      "path": "europe/spain/navarre",
+      "prior_score": 5.0888,
+      "prior_variance": 0.486376,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_score": 4.1687,
+      "prior_variance": 0.430819,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_score": 2.9867,
+      "prior_variance": 0.262845,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 4.913,
+      "prior_variance": 0.456346,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 3.2789,
+      "prior_variance": 0.419902,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/istanbul/asianpart",
+      "prior_score": 5.3688,
+      "prior_variance": 0.426914,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 1.7679,
+      "prior_variance": 0.50583,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 3.9014,
+      "prior_variance": 0.440031,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Herceg Novi",
+      "path": "europe/serbiaandmontenegro/hercegnovi",
+      "prior_score": 2.7607,
+      "prior_variance": 0.413294,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 3.0004,
+      "prior_variance": 0.374439,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 1.9497,
+      "prior_variance": 0.544985,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 5.2241,
+      "prior_variance": 0.424265,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 3.1817,
+      "prior_variance": 0.434301,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Marina di Campo",
+      "path": "europe/italy/tuscany/elba/marinadicampo",
+      "prior_score": 4.5496,
+      "prior_variance": 0.478632,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_score": 4.101,
+      "prior_variance": 0.59808,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_score": 3.2939,
+      "prior_variance": 0.424439,
+      "prior_n": 4
+    }
+  ]
+}

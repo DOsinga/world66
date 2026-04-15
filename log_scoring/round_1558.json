@@ -1,0 +1,200 @@
+{
+  "round": 1558,
+  "timestamp": "2026-04-13T10:31:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "1",
+      "path": "europe/france/val_disere/1_1",
+      "prior_score": -0.1593,
+      "prior_variance": 0.933582,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -4.7781,
+      "prior_variance": 0.605013,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.8573,
+      "prior_variance": 0.723867,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -3.0722,
+      "prior_variance": 0.347916,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -7.1989,
+      "prior_variance": 0.657523,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -5.6819,
+      "prior_variance": 0.393028,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_score": -1.6817,
+      "prior_variance": 0.40299,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_score": -4.6814,
+      "prior_variance": 0.391123,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_score": -4.1411,
+      "prior_variance": 0.164882,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -5.2069,
+      "prior_variance": 0.498342,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -5.4911,
+      "prior_variance": 0.450781,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -5.8949,
+      "prior_variance": 0.353057,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_score": -5.8667,
+      "prior_variance": 0.340585,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -3.6181,
+      "prior_variance": 0.252651,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -6.6408,
+      "prior_variance": 0.455674,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_score": -4.6301,
+      "prior_variance": 0.37978,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -5.8096,
+      "prior_variance": 0.429073,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Brunsumm",
+      "path": "europe/netherlands/brunsumm",
+      "prior_score": -6.7391,
+      "prior_variance": 0.269601,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/walsall",
+      "prior_score": -5.3437,
+      "prior_variance": 0.358118,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Morayfield",
+      "path": "australiaandpacific/australia/queensland/morayfield",
+      "prior_score": -5.279,
+      "prior_variance": 0.374474,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -4.9888,
+      "prior_variance": 0.248144,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -6.0851,
+      "prior_variance": 0.323355,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -6.1441,
+      "prior_variance": 0.403198,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Udham Singh Naga",
+      "path": "asia/india/uttaranchal/udham_singh_naga",
+      "prior_score": -5.6841,
+      "prior_variance": 0.445131,
+      "prior_n": 3
+    }
+  ]
+}

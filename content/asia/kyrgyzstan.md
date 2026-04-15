@@ -10,6 +10,7 @@ latitude: 41.2044
 longitude: 74.7661
 title: Kyrgyzstan
 type: location
+score: 0.6
 ---
 
 Kyrgyzstan is Central Asia's most accessible adventure. A small, mountainous country wedged between China, Kazakhstan, Uzbekistan and Tajikistan, it offers some of the most dramatic alpine scenery on earth, a living nomadic culture and a visa-free entry policy that makes it the easiest of the 'stans to visit.

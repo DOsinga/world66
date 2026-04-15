@@ -1,0 +1,200 @@
+{
+  "round": 813,
+  "timestamp": "2026-04-12T10:49:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_mu": 32.1826,
+      "prior_sigma": 3.4005,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Phong Nha - Ke Bang",
+      "path": "asia/vietnam/phong_nha__ke_ban",
+      "prior_mu": 26.7137,
+      "prior_sigma": 4.6164,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/auckland",
+      "prior_mu": 25.6959,
+      "prior_sigma": 5.8968,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "1",
+      "path": "europe/france/val_disere/1",
+      "prior_mu": 22.4662,
+      "prior_sigma": 4.5837,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/bowness",
+      "prior_mu": 22.8277,
+      "prior_sigma": 5.7072,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_mu": 21.1212,
+      "prior_sigma": 4.0661,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_mu": 21.8205,
+      "prior_sigma": 4.5162,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Salt Lake City",
+      "path": "northamerica/unitedstates/utah/saltlakecity",
+      "prior_mu": 22.1054,
+      "prior_sigma": 4.545,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Marie-Galante",
+      "path": "northamerica/guadeloupe/mariegalante",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/losangeles/longbeach",
+      "prior_mu": 22.0259,
+      "prior_sigma": 4.5795,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_mu": 22.3581,
+      "prior_sigma": 5.7527,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_mu": 21.88,
+      "prior_sigma": 4.5008,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_mu": 21.7422,
+      "prior_sigma": 4.5589,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pasay City",
+      "path": "asia/philippines/pasay_city",
+      "prior_mu": 22.4618,
+      "prior_sigma": 5.4771,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_mu": 21.3649,
+      "prior_sigma": 4.1382,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_mu": 21.5247,
+      "prior_sigma": 4.4395,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/watford",
+      "prior_mu": 22.0369,
+      "prior_sigma": 5.5536,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Soon Valley",
+      "path": "asia/pakistan/soon_valley/soon_valley_2",
+      "prior_mu": 20.4352,
+      "prior_sigma": 2.8202,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_mu": 21.3879,
+      "prior_sigma": 4.5841,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Rio Muni",
+      "path": "africa/equatorialguinea/riomuni",
+      "prior_mu": 17.4743,
+      "prior_sigma": 6.3559,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_mu": 17.0888,
+      "prior_sigma": 6.2805,
+      "prior_n": 1
+    }
+  ]
+}

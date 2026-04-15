@@ -5,6 +5,7 @@ latitude: 58.393349
 longitude: 24.364001
 title: Valgeranna
 type: location
+score: 0.41
 ---
 
 **Valgeranna** is a quiet beach area on Estonia's west coast, about 8km west of Pärnu. It offers 500 metres of fine white sand backed by a beautiful pine forest — a peaceful alternative to the busier Pärnu Beach in summer.

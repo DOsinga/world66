@@ -5,6 +5,7 @@ latitude: 59.117955
 longitude: 15.120621
 title: Kumla
 type: location
+score: 0.35
 ---
 
 Kumla is a small industrial town in the province of Närke, south of [Örebro](/europe/sweden/rebro) on the E20 between [Stockholm](/europe/sweden/stockholm) and [Gothenburg](/europe/sweden/gothenburg). It sits in a flat agricultural landscape and is primarily known for two things: it was once the centre of Sweden's shoe industry, with dozens of factories operating through the 20th century, and it is home to Kumla Prison, one of Sweden's highest-security facilities.

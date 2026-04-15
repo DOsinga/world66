@@ -1,10 +1,11 @@
 ---
-title: "Saskatoon"
+title: Saskatoon
 type: location
 latitude: 52.1318
 longitude: -106.6608
 done:
   location_cleanup: 2026-04-07
+score: 0.42
 ---
 
 Saskatoon sits on the banks of the South Saskatchewan River in the heart of the prairies, about 520 km southeast of Edmonton and 780 km northwest of Winnipeg. Seven bridges span the river within city limits, giving the city its unofficial nickname — the "City of Bridges." With a population of around 250,000, it is the largest city in Saskatchewan and an agricultural and university hub for the surrounding region.

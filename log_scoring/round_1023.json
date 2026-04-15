@@ -1,0 +1,200 @@
+{
+  "round": 1023,
+  "timestamp": "2026-04-12T22:05:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_rank": 7133,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fuerth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_rank": 5907,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_rank": 6550,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_rank": 6693,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_rank": 5829,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Keratsini",
+      "path": "europe/greece/keratsini",
+      "prior_rank": 7608,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_rank": 7450,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_rank": 7223,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Wejherowo",
+      "path": "europe/poland/wejherowo",
+      "prior_rank": 4902,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Mississippi",
+      "path": "northamerica/unitedstates/mississippi",
+      "prior_rank": 6309,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_rank": 6890,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Independence",
+      "path": "northamerica/unitedstates/missouri/independence",
+      "prior_rank": 6276,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_rank": 7255,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_rank": 3496,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_rank": 6874,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_rank": 5737,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hamden",
+      "path": "northamerica/unitedstates/connecticut/hamden",
+      "prior_rank": 7024,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_rank": 7970,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ashton",
+      "path": "northamerica/unitedstates/idaho/ashton",
+      "prior_rank": 7424,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_rank": 5754,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_rank": 5414,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_rank": 7050,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_rank": 6379,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_rank": 7047,
+      "prior_wins": 8,
+      "prior_n": 2
+    }
+  ]
+}

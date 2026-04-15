@@ -1,8 +1,9 @@
 ---
-title: "Nakhchivan"
+title: Nakhchivan
 type: location
 latitude: 39.217497
 longitude: 45.406967
+score: 0.37
 ---
 
 Nakhchivan Autonomous Republic is Azerbaijan's exclave — a detached fragment of the country separated from the main territory by Armenia. Getting here requires flying, crossing through Iran, or crossing through Turkey. Despite the geographic awkwardness, it is worth the effort: the landscape is dramatic, the history is deep, and the tourist infrastructure, while basic, exists.

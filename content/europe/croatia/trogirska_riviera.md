@@ -5,6 +5,7 @@ latitude: 43.5167
 longitude: 16.25
 title: Trogirska Riviera
 type: location
+score: 0.64
 ---
 
 The Trogir Riviera stretches along one of the most indented sections of the Dalmatian coast, centred on the UNESCO-listed town of [Trogir](/europe/croatia/trogir). The coastline alternates between rocky capes and sheltered inlets with pebble and sandy beaches, backed by pine forests.

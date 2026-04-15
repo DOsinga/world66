@@ -5,6 +5,7 @@ latitude: 31.903726
 longitude: 75.227559
 title: Gurdaspur
 type: location
+score: 0.32
 ---
 
 Gurdaspur is a border district in northern Punjab, sitting close to the Pakistani frontier and serving historically as a gateway to Kashmir. The district's history runs deep — from ancient habitation through Mughal rule to the Sikh kingdoms and the British Raj.

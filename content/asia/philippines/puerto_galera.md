@@ -1,8 +1,9 @@
 ---
-title: "Puerto Galera"
+title: Puerto Galera
 type: location
 latitude: 13.50171
 longitude: 120.954335
+score: 0.61
 ---
 
 Travel Guide

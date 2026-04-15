@@ -5,6 +5,7 @@ latitude: 52.630742
 longitude: 1.642913
 title: Broads
 type: location
+score: 0.55
 ---
 
 The Norfolk and Suffolk Broads form England’s largest protected wetland — over 300 km of navigable waterways winding through reed beds, grazing marshes, and ancient woodland. The area has status equivalent to a National Park, managed by the Broads Authority, though it feels nothing like one: this is flat, quiet, watery country where the horizon is always wide and the light is always changing.

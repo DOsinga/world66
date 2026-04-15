@@ -5,6 +5,7 @@ latitude: 50.2592
 longitude: 4.9131
 done:
   location_cleanup: 2026-04-06
+score: 0.57
 ---
 
 Dinant sits in a dramatic setting on the Meuse River, squeezed between limestone cliffs and the water. The town is dominated by its citadel, perched high above the distinctive onion-domed Collegiate Church of Notre-Dame, and makes a fine base for exploring the Belgian Ardennes.

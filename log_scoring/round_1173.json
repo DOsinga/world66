@@ -1,0 +1,200 @@
+{
+  "round": 1173,
+  "timestamp": "2026-04-12T22:13:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_rank": 49,
+      "prior_wins": 132,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_rank": 85,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "French Alps",
+      "path": "europe/france/alpes",
+      "prior_rank": 27,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_rank": 1351,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_rank": 56,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_rank": 429,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Himeji",
+      "path": "asia/japan/honshu/himeji",
+      "prior_rank": 169,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_rank": 359,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kyushu",
+      "path": "asia/japan/kyushu",
+      "prior_rank": 1653,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_rank": 98,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_rank": 540,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_rank": 303,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Okinawa Island",
+      "path": "asia/japan/ryukyuislands/okinawaisland",
+      "prior_rank": 680,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_rank": 855,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_rank": 385,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_rank": 62,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_rank": 532,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Nauplia",
+      "path": "europe/greece/nauplia",
+      "prior_rank": 1133,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_rank": 710,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_rank": 285,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Gozo",
+      "path": "europe/malta/gozo",
+      "prior_rank": 220,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_rank": 112,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_rank": 816,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ibiza Town",
+      "path": "europe/spain/balearicislands/ibiza/ibizatown",
+      "prior_rank": 260,
+      "prior_wins": 42,
+      "prior_n": 2
+    }
+  ]
+}

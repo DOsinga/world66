@@ -5,6 +5,7 @@ latitude: 35.9219
 longitude: 64.7831
 title: Maimana
 type: location
+score: 0.15
 ---
 
 Maimana (also spelled Maymana) is the capital of Faryab Province in northwestern Afghanistan, a predominantly Uzbek and Turkmen city set in a fertile valley between dry hills. It sits well off the main routes through the country and is rarely visited by outsiders, which gives it a character untouched by the tourism infrastructure found elsewhere in Afghanistan.

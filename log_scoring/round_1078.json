@@ -1,0 +1,200 @@
+{
+  "round": 1078,
+  "timestamp": "2026-04-12T22:08:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nepal",
+      "path": "asia/nepal",
+      "prior_rank": 353,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_rank": 274,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_rank": 676,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_rank": 437,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_rank": 2289,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_rank": 2223,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_rank": 327,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_rank": 530,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_rank": 1122,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_ta",
+      "prior_rank": 1567,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/yucatan/coppercanyon",
+      "prior_rank": 161,
+      "prior_wins": 107,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_rank": 952,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "La Rochelle",
+      "path": "europe/france/aquitaine/larochelle",
+      "prior_rank": 635,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Alsace",
+      "path": "europe/france/east/alsace",
+      "prior_rank": 448,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_rank": 753,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/chester",
+      "prior_rank": 970,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_rank": 2924,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_rank": 434,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_rank": 492,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_rank": 785,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_rank": 643,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_rank": 731,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Vaison-la-Romaine",
+      "path": "europe/france/midi/provence/vaisonlaromaine",
+      "prior_rank": 637,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_rank": 1502,
+      "prior_wins": 35,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 ---
-title: "Viti levu"
+title: Viti levu
 type: location
 latitude: -17.793383
 longitude: 177.978225
+score: 0.67
 ---

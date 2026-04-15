@@ -1,9 +1,10 @@
 ---
-title: "Francistown"
+title: Francistown
 type: location
 latitude: -21.16636
 longitude: 27.502515
 todo_location_cleanup: done
+score: 0.34
 ---
 
 Francistown is Botswana's second largest city and its oldest urban settlement, located over 400 km north of [Gaborone](/africa/botswana/gaborone). The city grew around a gold rush in the late 19th century — named after Daniel Francis, who held the first mining concession — and its history is reflected in a small museum near the centre.

@@ -5,6 +5,7 @@ latitude: 47.7667
 longitude: 18.9167
 title: Dunakanyar (The Danube Bend)
 type: location
+score: 0.58
 ---
 
 The Danube Bend (Dunakanyar in Hungarian) is a stretch of the Danube north of Budapest where the river makes a dramatic loop through forested hills — swinging sharply south just after Esztergom, then north again near Visegrád, then south once more toward Vác. It's one of the most scenic stretches of the Danube in Europe.

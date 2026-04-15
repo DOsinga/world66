@@ -5,6 +5,7 @@ latitude: 40.0652
 longitude: 4.0128
 title: Fornells
 type: location
+score: 0.62
 ---
 
 Fornells is a small fishing village on the Bay of Fornells on the north coast of Menorca. The bay is large, sheltered, and almost landlocked — perfect conditions for windsurfing and kayaking, and the reason Fornells has become a hub for water sports. The village itself is pretty, with whitewashed houses lining a waterfront that fills with yachts and pleasure craft in summer.

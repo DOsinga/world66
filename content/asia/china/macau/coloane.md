@@ -5,6 +5,7 @@ latitude: 22.126082
 longitude: 113.567644
 title: Coloane
 type: location
+score: 0.53
 ---
 
 Until 1910 Coloane was a pirates' nest. Now it is the green escape from [Macau](/asia/china/macau)'s casino towers, with parks, beaches, and hiking trails that feel a world away from the Cotai Strip.

@@ -5,6 +5,7 @@ latitude: 53.800064
 longitude: -9.520218
 title: Westport
 type: location
+score: 0.59
 ---
 
 Westport is one of the few planned towns in Ireland, laid out in the 18th century by architect James Wyatt. The result is a pleasing Georgian grid of streets centered on The Mall, a tree-lined boulevard running alongside the Carrowbeg River. It sits on the eastern shore of Clew Bay, in the shadow of Croagh Patrick, and it's a genuinely good base for exploring the west of Mayo.

@@ -1,0 +1,200 @@
+{
+  "round": 1971,
+  "timestamp": "2026-04-13T15:58:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 7.6368,
+      "prior_variance": 0.296287,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_score": 1.4845,
+      "prior_variance": 0.388129,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 1.3849,
+      "prior_variance": 0.260349,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -1.3324,
+      "prior_variance": 0.260145,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -2.1592,
+      "prior_variance": 0.426344,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/doncaster",
+      "prior_score": -5.2275,
+      "prior_variance": 0.297325,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cambridge",
+      "path": "northamerica/canada/ontario/cambridge",
+      "prior_score": -2.7906,
+      "prior_variance": 0.248246,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_score": -2.6089,
+      "prior_variance": 0.269448,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -3.5474,
+      "prior_variance": 0.28282,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_score": -2.9989,
+      "prior_variance": 0.302932,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Surnadal",
+      "path": "europe/norway/surnadal",
+      "prior_score": -3.3454,
+      "prior_variance": 0.296623,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_score": -2.5923,
+      "prior_variance": 0.244902,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_score": -3.72,
+      "prior_variance": 0.226969,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -2.3812,
+      "prior_variance": 0.248168,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_score": -5.33,
+      "prior_variance": 0.306539,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lesotho",
+      "path": "africa/lesotho",
+      "prior_score": -0.4042,
+      "prior_variance": 0.266884,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -4.9335,
+      "prior_variance": 0.446915,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Santa Rita",
+      "path": "southamerica/brazil/santa_rita",
+      "prior_score": -6.571,
+      "prior_variance": 0.325136,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_score": -7.321,
+      "prior_variance": 0.565641,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Port loko",
+      "path": "africa/sierraleone/portloko",
+      "prior_score": -6.6166,
+      "prior_variance": 0.415403,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -7.5372,
+      "prior_variance": 0.513459,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_score": -7.9027,
+      "prior_variance": 0.469078,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "chiniot",
+      "path": "asia/pakistan/sargodha/chiniot",
+      "prior_score": -8.2612,
+      "prior_variance": 0.341885,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Chad",
+      "path": "africa/chad",
+      "prior_score": -9.678,
+      "prior_variance": 0.577214,
+      "prior_n": 5
+    }
+  ]
+}

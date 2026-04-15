@@ -17,7 +17,7 @@ Spain rewards broad exploration — most visitors who think they're just going t
 
 **San Sebastián (Donostia)** — Consistently ranked among Europe's best food cities. The old town pintxos bars on Calle 31 de Agosto and Calle Fermín Calbetón are the place to spend an evening. The setting — a perfect curved bay, an old quarter on a headland — helps.
 
-**The Meseta and Castilian Cities** — [Toledo](/europe/spain/centralspain/toledo), [Segovia](/europe/spain/centralspain/segovia), [Salamanca](/europe/spain/centralspain/salamanca), and [Burgos](/europe/spain/northernspain/burgos) each have remarkable historic centres within a few hours of Madrid. Toledo sits on a rocky outcrop above the Tagus and has more medieval layers — Jewish, Moorish, Christian — than almost anywhere in Spain.
+**The Meseta and Castilian Cities** — [Toledo](/europe/spain/la_mancha/toledo), [Segovia](/europe/spain/centralspain/segovia), [Salamanca](/europe/spain/centralspain/salamanca), and [Burgos](/europe/spain/northernspain/burgos) each have remarkable historic centres within a few hours of Madrid. Toledo sits on a rocky outcrop above the Tagus and has more medieval layers — Jewish, Moorish, Christian — than almost anywhere in Spain.
 
 **The Costa Brava and Costa de la Luz** — Spain has too many overdeveloped coasts, but also beautiful ones. The Costa Brava north of Barcelona has rocky coves, clear water, and the Dalí museum in [Figueres](/europe/spain/catalonia/figueres). The Atlantic coast between Tarifa and Cádiz — the Costa de la Luz — has wild Atlantic beaches, old white towns, and kitesurfers at [Tarifa](/europe/spain/andalucia/tarifa).
 

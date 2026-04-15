@@ -1,6 +1,7 @@
 ---
-title: "Medjugorje"
+title: Medjugorje
 type: location
+score: 0.48
 ---
 
 Medjugorje is loacted in the mountains between [Mostar](/europe/bosniaandherzegovina/mostar) and [Croatia](/europe/croatia). The small town is incredibly popular with Catholic pilgrims - millions of pilgrims have visited the site since 1981, when a small group of young people in the village began reporting seeing visions of the Virgin Mary on a nearby hillside. 

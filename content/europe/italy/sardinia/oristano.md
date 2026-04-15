@@ -5,6 +5,7 @@ latitude: 40.026568
 longitude: 8.679642
 title: Oristano
 type: location
+score: 0.54
 ---
 
 Oristano sits on the flat Campidano plain facing the Gulf of Oristano on Sardinia's west coast. It's a provincial town with a relaxed pace and an impressive medieval centre — less touristy than [Cagliari](/europe/italy/sardinia/cagliari) or [Alghero](/europe/italy/sardinia/alghero) and none the worse for it.

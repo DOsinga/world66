@@ -1,0 +1,200 @@
+{
+  "round": 1422,
+  "timestamp": "2026-04-12T22:26:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Catalonia",
+      "path": "europe/spain/catalonia",
+      "prior_rank": 652,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_rank": 336,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bordeaux",
+      "path": "europe/france/wine/bordeaux",
+      "prior_rank": 187,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_rank": 146,
+      "prior_wins": 105,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lago di Garda",
+      "path": "europe/italy/lombardia/lagodigarda",
+      "prior_rank": 457,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_rank": 2860,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ghent",
+      "path": "europe/belgium/ghent",
+      "prior_rank": 134,
+      "prior_wins": 126,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compos",
+      "prior_rank": 156,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Barbados",
+      "path": "northamerica/thecaribbean/barbados",
+      "prior_rank": 91,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Korcula",
+      "path": "europe/croatia/korcula",
+      "prior_rank": 880,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_rank": 318,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_rank": 973,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_rank": 386,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Goa",
+      "path": "asia/india/goa",
+      "prior_rank": 3326,
+      "prior_wins": 51,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_rank": 1377,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_rank": 986,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_rank": 399,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Varadero",
+      "path": "northamerica/cuba/varadero",
+      "prior_rank": 680,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Grenada",
+      "path": "northamerica/grenada",
+      "prior_rank": 1926,
+      "prior_wins": 62,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_rank": 355,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_rank": 574,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Crater Lake",
+      "path": "northamerica/unitedstates/oregon/craterlake",
+      "prior_rank": 518,
+      "prior_wins": 96,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_rank": 539,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bristol, Plymouth and the South-West",
+      "path": "europe/unitedkingdom/england/bristol_plymouth",
+      "prior_rank": 753,
+      "prior_wins": 55,
+      "prior_n": 3
+    }
+  ]
+}

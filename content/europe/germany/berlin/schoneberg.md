@@ -5,6 +5,7 @@ latitude: 52.4821
 longitude: 13.3552
 done:
   location_cleanup: 2026-04-05
+score: 0.51
 ---
 
 Schöneberg is one of Berlin's quieter, more settled neighbourhoods — a leafy district of 19th-century apartment blocks, bookshops, and café-lined squares that sits south of the Tiergarten between Mitte and Wilmersdorf. It was a separate city until 1920 and still feels a touch bourgeois compared to Kreuzberg next door, but the area around Nollendorfplatz has been the beating heart of gay Berlin since the 1920s, when Christopher Isherwood lived here and wrote the stories that became *Cabaret*. There is a plaque on the building where he lodged, at Nollendorfstraße 17.

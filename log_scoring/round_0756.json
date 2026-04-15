@@ -1,0 +1,200 @@
+{
+  "round": 756,
+  "timestamp": "2026-04-12T10:46:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colca Canyon",
+      "path": "southamerica/peru/colca_canyon",
+      "prior_mu": 24.4356,
+      "prior_sigma": 4.664,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Zanzibar",
+      "path": "africa/tanzania/zanzibar",
+      "prior_mu": 26.7652,
+      "prior_sigma": 5.1982,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_eus/bilbao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_mu": 23.8628,
+      "prior_sigma": 5.5261,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/sandiego/coronado",
+      "prior_mu": 22.1822,
+      "prior_sigma": 3.7182,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_mu": 21.6254,
+      "prior_sigma": 4.7378,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_mu": 21.7228,
+      "prior_sigma": 4.5227,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_mu": 21.721,
+      "prior_sigma": 4.4159,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_mu": 21.4762,
+      "prior_sigma": 4.1632,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_mu": 21.7801,
+      "prior_sigma": 4.4772,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_mu": 22.0559,
+      "prior_sigma": 5.7465,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_mu": 22.6774,
+      "prior_sigma": 5.6838,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_mu": 21.4341,
+      "prior_sigma": 4.5231,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Carolina",
+      "path": "northamerica/puertorico/carolina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_mu": 22.156,
+      "prior_sigma": 4.296,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_mu": 19.1408,
+      "prior_sigma": 5.1103,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Grand erg",
+      "path": "africa/algeria/granderg",
+      "prior_mu": 22.2476,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Loubomo",
+      "path": "africa/congobrazzaville/loubomo",
+      "prior_mu": 18.8073,
+      "prior_sigma": 4.9114,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_mu": 22.4204,
+      "prior_sigma": 5.5599,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_mu": 22.4635,
+      "prior_sigma": 5.5043,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

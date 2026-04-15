@@ -5,6 +5,7 @@ latitude: -2.2675
 longitude: 40.9011
 done:
   location_cleanup: 2026-04-07
+score: 0.59
 ---
 
 Lamu is the oldest living town in [Kenya](/africa/kenya), a Swahili settlement on a small island off the northern coast that has barely changed in centuries. The narrow streets are too tight for cars — donkeys and foot traffic are the only transport — and the architecture is a mix of coral stone, carved wooden doors, and whitewashed walls. More than 95 percent of the population is Muslim, and you are as likely to hear Arabic as Kiswahili.

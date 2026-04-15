@@ -5,6 +5,7 @@ latitude: 43.928
 longitude: -71.886
 title: Warren
 type: location
+score: 0.35
 ---
 
 Warren is a small White Mountains town at the foot of Mt Moosilauke on the western edge of the range. The [Appalachian Trail](/northamerica/unitedstates/westvirginia/harpersferrytheeasternpanhandle/appalachian_trail) passes through, and snowmelt from Moosilauke feeds the Baker River, which winds through town and offers a string of good swimming holes in summer. In winter, Corridor 5 snowmobile trail brings riders through on their way north toward the Canadian border, and ATV traffic follows in the warmer months.

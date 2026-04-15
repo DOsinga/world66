@@ -5,6 +5,7 @@ latitude: 30.176591
 longitude: -85.805386
 title: Panama City Beach
 type: location
+score: 0.52
 ---
 
 Panama City Beach sits on Florida's northwest Panhandle, where the Gulf of Mexico meets St. Andrews Bay. The beaches here are genuinely beautiful -- wide stretches of white quartz sand and clear emerald water that look more like the Caribbean than the typical American South. It is a drive-to destination, drawing families from across the southeastern United States and snowbirds from the north.

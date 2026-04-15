@@ -1,8 +1,9 @@
 ---
-title: "Haarlem"
+title: Haarlem
 type: location
 latitude: 52.388532
 longitude: 4.638805
+score: 0.61
 ---
 
 Not only has this 900-year-old town an historic center full of beautiful medieval houses, a 13th-century city hall and the oldest museum of the Netherlands, the Teylers Museum (science technology and Dutch art), but it is also the home town of the author.

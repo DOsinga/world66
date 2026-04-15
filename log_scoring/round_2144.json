@@ -1,0 +1,200 @@
+{
+  "round": 2144,
+  "timestamp": "2026-04-13T16:14:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 5.7581,
+      "prior_variance": 0.273509,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Saint-Martin",
+      "path": "northamerica/saintmartin",
+      "prior_score": 3.9538,
+      "prior_variance": 0.304769,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_score": 1.7302,
+      "prior_variance": 0.305041,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_score": -1.8528,
+      "prior_variance": 0.277284,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": -0.0249,
+      "prior_variance": 0.253996,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/juist",
+      "prior_score": -0.0759,
+      "prior_variance": 0.215733,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.9967,
+      "prior_variance": 0.24594,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.043,
+      "prior_variance": 0.290736,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.3602,
+      "prior_variance": 0.319399,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -0.6305,
+      "prior_variance": 0.227835,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Chigwell",
+      "path": "europe/unitedkingdom/england/chigwell",
+      "prior_score": -2.9774,
+      "prior_variance": 0.307391,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_score": -0.7576,
+      "prior_variance": 0.251982,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_score": -3.745,
+      "prior_variance": 0.307279,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.3979,
+      "prior_variance": 0.218277,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Honduras",
+      "path": "northamerica/honduras",
+      "prior_score": -1.2688,
+      "prior_variance": 0.324089,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Maple Creek",
+      "path": "northamerica/canada/saskatchewan/maple_creek",
+      "prior_score": -4.2253,
+      "prior_variance": 0.259395,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_score": -6.6048,
+      "prior_variance": 0.356207,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -6.0664,
+      "prior_variance": 0.414634,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": -0.455,
+      "prior_variance": 0.348068,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_score": -7.1535,
+      "prior_variance": 0.394685,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_score": -4.2413,
+      "prior_variance": 0.276599,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -7.1235,
+      "prior_variance": 0.322731,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -4.3157,
+      "prior_variance": 0.433294,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -10.7073,
+      "prior_variance": 1.232533,
+      "prior_n": 5
+    }
+  ]
+}

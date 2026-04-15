@@ -5,6 +5,7 @@ latitude: 42.2139
 longitude: -8.904
 done:
   location_cleanup: 2026-04-05
+score: 0.65
 ---
 
 The Cíes Islands are three small granite islands off the mouth of the Ría de Vigo, in the south-western corner of Galicia — one of the most spectacular natural places in Spain, and the centrepiece of the Illas Atlánticas National Park. The British newspaper *The Guardian* once called the long curved beach connecting the two northern islands, **Praia de Rodas**, the most beautiful beach in the world. That is the kind of claim that normally deserves a raised eyebrow; here it is genuinely defensible. The sand is powder-fine, the water is a shocking turquoise, and behind the beach a shallow lagoon is filled by the incoming tide.

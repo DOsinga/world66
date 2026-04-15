@@ -1,8 +1,9 @@
 ---
-title: "Kampala"
+title: Kampala
 type: location
 latitude: 0.317714
 longitude: 32.581354
+score: 0.44
 ---
 
 Kampala is just a few miles from Lake Victoria. The town is pleasant enough, although it was damaged in recent times. It has gotten .

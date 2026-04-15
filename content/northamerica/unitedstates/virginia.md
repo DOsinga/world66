@@ -1,8 +1,9 @@
 ---
-title: "Virginia"
+title: Virginia
 type: location
 latitude: 37.123224
 longitude: -78.492772
+score: 0.5
 ---
 
 Virgina is one of the most historic of the United states. In 1607 colonists dispatched by the London Company established the first permanent settlement at Jamestown (May 13). The first college was established in Williamsburg, Virginia (William and Mary). Originally admitted as one of the original Thirteen Colonies in 1788. Virginia seceded in April 1861 and was the scene of many major battles during the Civil War, including the final campaigns that led to the surrender of Gen. Robert E. Lee.

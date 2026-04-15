@@ -1,8 +1,9 @@
 ---
-title: "Trieste"
+title: Trieste
 type: location
 latitude: 45.649648
 longitude: 13.777278
+score: 0.62
 ---
 
 Trieste is situated on the gulf of the same name near the first ramifications of the Carso Triestino or Karst. This plateau is famous for its many caves, both in the Italian parts as in the parts in neighboring Slovenia and Croatia. So is therefore that the speleology was born here in the late 19th century.

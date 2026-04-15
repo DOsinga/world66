@@ -5,6 +5,7 @@ latitude: 7.321154
 longitude: 13.587821
 title: Ngaoundéré
 type: location
+score: 0.36
 ---
 
 Ngaoundéré is the northern terminus of the railway from Yaoundé, some 800 kilometres northeast, and a natural stop on the way to [Bénoué National Park](/africa/cameroon/benouepark) or Maroua in the far north of [Cameroon](/africa/cameroon).

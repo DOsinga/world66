@@ -5,6 +5,7 @@ latitude: 64.837845
 longitude: -147.716675
 title: Fairbanks
 type: location
+score: 0.53
 ---
 
 Fairbanks is the second-largest city in [Alaska](/northamerica/unitedstates/alaska) and the gateway to the Interior and the Arctic. It sits on the Chena River in a broad valley surrounded by boreal forest, and everything about it is shaped by extremes: summer days that never get dark and winter nights that never get light, temperatures that swing from +35°C to -40°C across the year.

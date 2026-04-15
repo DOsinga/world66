@@ -5,6 +5,7 @@ latitude: 11.861324
 longitude: -15.583055
 title: Bissau
 type: location
+score: 0.32
 ---
 
 Bissau is a quiet capital by African standards. The streets are half-empty for much of the day, people sit on porches and chat, and the pace of life is unhurried to the point of stillness. It has a certain charm, though -- faded colonial buildings with wide verandas line the streets, and there is a rawness to the city that feels authentic rather than neglected.

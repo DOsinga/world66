@@ -1,0 +1,200 @@
+{
+  "round": 1596,
+  "timestamp": "2026-04-13T10:34:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 3.6568,
+      "prior_variance": 0.459571,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ulm",
+      "path": "europe/germany/bade/ulm",
+      "prior_score": 0.9487,
+      "prior_variance": 0.349528,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kitakyushu",
+      "path": "asia/japan/kyushu/kitakyushu",
+      "prior_score": 2.5869,
+      "prior_variance": 0.310627,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 2.7168,
+      "prior_variance": 0.348373,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Baracoa",
+      "path": "northamerica/cuba/baracoa",
+      "prior_score": 2.1333,
+      "prior_variance": 0.559783,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.8204,
+      "prior_variance": 0.330244,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": -0.509,
+      "prior_variance": 0.743345,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_score": 1.8403,
+      "prior_variance": 0.319151,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -1.9781,
+      "prior_variance": 0.332723,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Nui Atoll",
+      "path": "australiaandpacific/tuvalu/nuiatoll",
+      "prior_score": -3.5001,
+      "prior_variance": 0.407891,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Blandford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford",
+      "prior_score": -4.2759,
+      "prior_variance": 0.421108,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Troy",
+      "path": "northamerica/unitedstates/newyorkstate/troy",
+      "prior_score": -3.7842,
+      "prior_variance": 0.342362,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -3.8814,
+      "prior_variance": 0.295903,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Neumuenster",
+      "path": "europe/germany/schleswigholstein/neumuenster",
+      "prior_score": -5.7564,
+      "prior_variance": 0.55623,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/massachusetts/burlington",
+      "prior_score": -4.8439,
+      "prior_variance": 0.493563,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/goole",
+      "prior_score": -5.6562,
+      "prior_variance": 0.394956,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -5.4243,
+      "prior_variance": 0.306011,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -6.5954,
+      "prior_variance": 0.43776,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "chhindwara",
+      "path": "asia/india/madhyapradesh/chhindwara",
+      "prior_score": -5.3253,
+      "prior_variance": 0.323964,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Occhiobello",
+      "path": "europe/italy/veneto/occhiobello",
+      "prior_score": -5.3542,
+      "prior_variance": 0.318518,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Practical Information",
+      "path": "asia/cyprus/nicosia/practical_informat_1",
+      "prior_score": -4.9967,
+      "prior_variance": 0.587075,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -7.8759,
+      "prior_variance": 0.414261,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -10.4972,
+      "prior_variance": 0.483044,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -10.4934,
+      "prior_variance": 0.415869,
+      "prior_n": 4
+    }
+  ]
+}

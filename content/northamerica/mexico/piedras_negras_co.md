@@ -5,6 +5,7 @@ latitude: 28.7006
 longitude: -100.5237
 title: Piedras Negras
 type: location
+score: 0.33
 ---
 
 Piedras Negras is a border city of about 200,000 people in the state of Coahuila, facing Eagle Pass, Texas across the Rio Grande. It is less touristy than many Mexican border towns and feels more authentically Mexican as a result — less curio-shop strip, more working city.

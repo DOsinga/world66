@@ -5,6 +5,7 @@ latitude: 47.5615
 longitude: -52.7126
 title: St. John's
 type: location
+score: 0.51
 ---
 
 St. John's is the capital of [Newfoundland](/northamerica/canada/newfoundland) and the most easterly city in North America. It clings to the hills around a narrow harbour, with rows of brightly painted clapboard houses stacked above the waterfront — a look that has become one of Canada's most photographed streetscapes.

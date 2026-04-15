@@ -5,6 +5,7 @@ latitude: -8.683173
 longitude: 115.256463
 title: Sanur
 type: location
+score: 0.67
 ---
 
 Sanur is one of [Bali](/asia/indonesia/bali)'s oldest resort areas, stretching along the island's southeastern coast about 20 minutes south of [Denpasar](/asia/indonesia/bali/denpasar). Unlike the frenetic energy of [Kuta](/asia/indonesia/bali/kuta) to the south, Sanur moves at a gentler pace. The beach is calm and sheltered by a reef, making it good for swimming and safe for children. At low tide the reef sits exposed and the water recedes some distance — the beach is best at high tide.

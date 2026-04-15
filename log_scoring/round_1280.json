@@ -1,0 +1,200 @@
+{
+  "round": 1280,
+  "timestamp": "2026-04-12T22:19:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_rank": 6699,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_rank": 7931,
+      "prior_wins": 13,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_rank": 7339,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_rank": 7542,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_rank": 7754,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_rank": 7733,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/eastern_england/harlow",
+      "prior_rank": 8163,
+      "prior_wins": 5,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Rakesh",
+      "path": "asia/india/uttaranchal/hemkunt/rakesh",
+      "prior_rank": 8067,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Barcs",
+      "path": "europe/hungary/barcs",
+      "prior_rank": 6716,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Paracin",
+      "path": "europe/serbiaandmontenegro/paracin",
+      "prior_rank": 6583,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Zovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_rank": 7710,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "S.Mamede Infesta",
+      "path": "europe/portugal/smamedeinfesta",
+      "prior_rank": 7820,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Marion",
+      "path": "australiaandpacific/australia/southaustralia/marion",
+      "prior_rank": 6888,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_rank": 7366,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_rank": 7562,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/viverosdelaloma",
+      "prior_rank": 5734,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_rank": 3855,
+      "prior_wins": 48,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Parkersburg",
+      "path": "northamerica/unitedstates/westvirginia/parkersburg",
+      "prior_rank": 7537,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_rank": 6353,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_rank": 7692,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_rank": 5825,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_rank": 7814,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_rank": 7812,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "mourin",
+      "path": "northamerica/trinidadandtobago/mourin",
+      "prior_rank": 7970,
+      "prior_wins": 6,
+      "prior_n": 3
+    }
+  ]
+}

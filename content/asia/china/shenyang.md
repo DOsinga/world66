@@ -5,6 +5,7 @@ latitude: 41.8026
 longitude: 123.4279
 title: Shenyang
 type: location
+score: 0.39
 ---
 
 Shenyang is the largest city in northeast China — a sprawling industrial metropolis that most travelers skip on the way to Beijing or Harbin. That's a mistake. Beneath the Soviet-era blocks and factory districts lies a city with an unexpected historical weight: this was the capital of the Qing dynasty before Beijing, and it still carries two UNESCO World Heritage Sites to prove it.

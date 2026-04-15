@@ -1,0 +1,200 @@
+{
+  "round": 2198,
+  "timestamp": "2026-04-13T16:19:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shibuya",
+      "path": "asia/japan/tokyo/shibuya",
+      "prior_score": 12.6876,
+      "prior_variance": 0.894111,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_score": 10.8509,
+      "prior_variance": 0.489148,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_score": 11.6071,
+      "prior_variance": 0.550028,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 10.5897,
+      "prior_variance": 0.479408,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 11.4,
+      "prior_variance": 0.776587,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 7.2683,
+      "prior_variance": 0.336381,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 6.464,
+      "prior_variance": 0.28433,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_score": 3.9131,
+      "prior_variance": 0.223857,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 1.2937,
+      "prior_variance": 0.303623,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 4.7878,
+      "prior_variance": 0.328228,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 2.5797,
+      "prior_variance": 0.341939,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 2.2043,
+      "prior_variance": 0.258574,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 2.9822,
+      "prior_variance": 0.219883,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "costa dorada",
+      "path": "europe/spain/spanishcostas/costa_dorada",
+      "prior_score": 1.9708,
+      "prior_variance": 0.248915,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": 3.1308,
+      "prior_variance": 0.242962,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_score": 1.0195,
+      "prior_variance": 0.156937,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Newcastle and North East",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort",
+      "prior_score": 1.1989,
+      "prior_variance": 0.226097,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 0.8758,
+      "prior_variance": 0.245308,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.5668,
+      "prior_variance": 0.309183,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Connecticut",
+      "path": "northamerica/unitedstates/connecticut",
+      "prior_score": 0.2721,
+      "prior_variance": 0.338892,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_nat",
+      "prior_score": 1.6631,
+      "prior_variance": 0.266167,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kota batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -2.5379,
+      "prior_variance": 0.230258,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_score": -3.5894,
+      "prior_variance": 0.408972,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -1.8461,
+      "prior_variance": 0.274755,
+      "prior_n": 6
+    }
+  ]
+}

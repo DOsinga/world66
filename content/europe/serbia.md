@@ -12,6 +12,7 @@ image_attribution: I would appreciate <a href="//commons.wikimedia.org/wiki/Spec
   title="Category:Geocoded images of User:Aktron">personal gallery</a>.
 done:
   country_cleanup: 2026-03-29
+score: 0.48
 ---
 
 Serbia is a country where East meets West in the most literal sense. Shaped by Romans, Byzantines, Ottomans, and Austro-Hungarians, it has absorbed influences from all of them and turned them into something distinctly its own. The food blends Central European and Turkish traditions. The architecture ranges from Habsburg grandeur in the north to Ottoman mosques in the south. The people are famously hospitable, passionately opinionated, and always ready to pour you another glass of rakija.

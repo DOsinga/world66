@@ -5,6 +5,7 @@ latitude: -16.0167
 longitude: -69.15
 title: Lake Titicaca
 type: location
+score: 0.67
 ---
 
 Lake Titicaca straddles the border between Bolivia and Peru at 3,812 metres above sea level — the highest navigable lake in the world. It has been central to Andean belief for over two millennia. The Incas considered Isla del Sol (Sun Island) the birthplace of their civilisation, and it remains the most important archaeological site on the lake.

@@ -5,6 +5,7 @@ latitude: 39.206062
 longitude: 26.21065
 title: Skala Kalloni
 type: location
+score: 0.52
 ---
 
 Kalloni is a quiet market town about 40km west of [Mytilini](/europe/greece/lesbos/mytilini), sitting at the intersection of most of the island's bus routes and well supplied with banks and cash machines. The beach resort of Skala Kalloni lies about 3km south of the old town. The long, coarse-sand beach shelves gently into the sea, making it one of the better options on Lesbos for families with young children.

@@ -1,0 +1,200 @@
+{
+  "round": 1615,
+  "timestamp": "2026-04-13T10:36:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 11.6774,
+      "prior_variance": 0.519514,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_score": 5.5198,
+      "prior_variance": 0.5056,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 3.6507,
+      "prior_variance": 0.589618,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Black Hills",
+      "path": "northamerica/unitedstates/southdakota/blackhills",
+      "prior_score": 5.4233,
+      "prior_variance": 0.349591,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Georgia",
+      "path": "europe/georgia",
+      "prior_score": -4.234,
+      "prior_variance": 1.39419,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 3.0939,
+      "prior_variance": 0.350914,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 6.145,
+      "prior_variance": 0.362959,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 1.0925,
+      "prior_variance": 0.336773,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 2.6599,
+      "prior_variance": 0.376315,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": -0.0404,
+      "prior_variance": 0.231023,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Bintan",
+      "path": "asia/indonesia/bintan",
+      "prior_score": 1.9335,
+      "prior_variance": 0.303765,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bambolim",
+      "path": "asia/india/goa/bambolim",
+      "prior_score": -0.4309,
+      "prior_variance": 0.35588,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Benguet",
+      "path": "asia/philippines/benguet",
+      "prior_score": -1.4823,
+      "prior_variance": 0.483828,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -1.343,
+      "prior_variance": 0.329165,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -1.2931,
+      "prior_variance": 0.296148,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -0.9048,
+      "prior_variance": 0.386144,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Uttar Pradesh",
+      "path": "asia/india/uttarpradesh",
+      "prior_score": -3.9169,
+      "prior_variance": 0.415457,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_score": -4.5692,
+      "prior_variance": 0.38997,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_score": -3.2572,
+      "prior_variance": 0.35007,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -1.6936,
+      "prior_variance": 0.30501,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_score": -3.5467,
+      "prior_variance": 0.31786,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Timaru",
+      "path": "australiaandpacific/newzealand/timaru",
+      "prior_score": -2.0954,
+      "prior_variance": 0.299372,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -4.9187,
+      "prior_variance": 0.410169,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanmateo",
+      "prior_score": -3.2986,
+      "prior_variance": 0.406501,
+      "prior_n": 4
+    }
+  ]
+}

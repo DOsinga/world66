@@ -5,6 +5,7 @@ latitude: 52.171513
 longitude: 6.343658
 title: Lochem
 type: location
+score: 0.4
 ---
 
 Lochem is a quiet town in the Achterhoek region of the eastern [Netherlands](/europe/netherlands), surrounded by forests, heathland, and country estates. The Achterhoek is one of the greenest corners of the country, and Lochem sits right in the middle of it — a good base for cycling and walking through the wooded landscape.

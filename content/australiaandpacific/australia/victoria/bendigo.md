@@ -5,6 +5,7 @@ latitude: -36.757
 longitude: 144.2794
 title: Bendigo
 type: location
+score: 0.52
 ---
 
 Bendigo is one of Victoria's great gold rush towns, about two hours northwest of [Melbourne](/australiaandpacific/australia/victoria/melbourne) by car or a comfortable train ride on the V/Line. Like [Ballarat](/australiaandpacific/australia/victoria/ballarat), it boomed in the 1850s when gold was found at Bendigo Creek, and the wealth still shows in the elaborate Victorian architecture lining Pall Mall and View Street.

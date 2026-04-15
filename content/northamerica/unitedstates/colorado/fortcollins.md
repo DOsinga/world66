@@ -5,6 +5,7 @@ latitude: 40.587178
 longitude: -105.077011
 title: Fort Collins
 type: location
+score: 0.49
 ---
 
 Fort Collins sits where the plains meet the foothills of the Rocky Mountains, a college town with a disproportionate number of breweries. Colorado State University sets the pace, but it is the craft beer scene that put Fort Collins on the map — New Belgium, Odell, and Horse & Dragon are all here, and you can spend a full day hopping between taprooms along the river.

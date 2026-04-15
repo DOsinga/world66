@@ -5,6 +5,7 @@ latitude: 45.718616
 longitude: -123.935038
 title: Manzanita
 type: location
+score: 0.5
 ---
 
 Just south of [Cannon Beach](/northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach), Manzanita is the quiet, uncommercial alternative to its busier northern neighbour. The town is little more than a few blocks of beach houses, a handful of restaurants and pubs, and a long stretch of sand backed by Neahkahnie Mountain.

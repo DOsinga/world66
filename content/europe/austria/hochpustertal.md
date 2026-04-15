@@ -1,8 +1,9 @@
 ---
-title: "Hochpustertal"
+title: Hochpustertal
 type: location
 latitude: 46.74789
 longitude: 12.490669
+score: 0.55
 ---
 
 It is one of the most beautiful high valleys in East Tirol close to the

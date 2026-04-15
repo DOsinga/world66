@@ -5,6 +5,7 @@ latitude: 47.583663
 longitude: -3.079443
 title: Carnac
 type: location
+score: 0.58
 ---
 
 Carnac is home to the most extraordinary collection of standing stones in the world. Over 3,000 menhirs arranged in 13 parallel rows stretch for several kilometres across the Breton countryside — and nobody knows with certainty why they were put there 4,000 years ago. Theories range from astronomical observatories to religious procession routes, but the honest answer is that the purpose remains a mystery.

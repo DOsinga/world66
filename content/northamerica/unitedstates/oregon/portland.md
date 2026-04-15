@@ -5,6 +5,7 @@ latitude: 45.5202
 longitude: -122.6742
 done:
   location_cleanup: 2026-04-06
+score: 0.59
 ---
 
 Portland sits between the Willamette River and the wooded hills of Forest Park, in the northwest corner of Oregon. It is the largest city in the state and one of the most liveable in the American West — compact, walkable, and with an unusually strong independent culture in food, beer, coffee, and bookshops.

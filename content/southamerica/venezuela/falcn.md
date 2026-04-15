@@ -5,6 +5,7 @@ latitude: 11.273946
 longitude: -69.583421
 title: Falcón
 type: location
+score: 0.35
 ---
 
 Falcón state occupies the northwestern corner of Venezuela, a dry, wind-swept peninsula that feels completely different from the rest of the country. The coastline here is arguably Venezuela's finest, with long stretches of white sand backed by desert scrub and cactus rather than the tropical greenery found further east. The beaches around Adicora and Chichiriviche de la Costa draw kitesurfers and windsurfers who come for the reliable trade winds.

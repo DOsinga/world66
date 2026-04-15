@@ -1,0 +1,200 @@
+{
+  "round": 449,
+  "timestamp": "2026-04-12T09:31:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_mu": 22.684,
+      "prior_sigma": 5.945,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_mu": 22.7222,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_mu": 23.6208,
+      "prior_sigma": 5.9721,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_mu": 22.9406,
+      "prior_sigma": 5.6761,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_mu": 22.7222,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_mu": 20.8809,
+      "prior_sigma": 5.4848,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_mu": 22.1442,
+      "prior_sigma": 5.746,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_mu": 21.7716,
+      "prior_sigma": 4.8116,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_mu": 22.1415,
+      "prior_sigma": 5.507,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_mu": 21.5422,
+      "prior_sigma": 4.7242,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_mu": 22.5284,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_mu": 22.8714,
+      "prior_sigma": 5.7216,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Upper West",
+      "path": "africa/ghana/upper_west",
+      "prior_mu": 22.6819,
+      "prior_sigma": 5.9449,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Brong Ahafo Region",
+      "path": "africa/ghana/brong_ahafo_region",
+      "prior_mu": 22.9305,
+      "prior_sigma": 5.4292,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nkoranza - Brong Ahafo",
+      "path": "africa/ghana/nkoranza__brong_a",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Ghana",
+      "path": "africa/ghana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

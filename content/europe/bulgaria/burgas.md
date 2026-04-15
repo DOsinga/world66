@@ -5,6 +5,7 @@ latitude: 42.493662
 longitude: 27.472128
 title: Burgas
 type: location
+score: 0.53
 ---
 
 Burgas is Bulgaria's main Black Sea port — a working industrial and commercial city rather than a resort, which is what makes it worth a stop. The old town is compact and walkable, and the collection at the Regional Historical Museum gives a solid overview of the area's Thracian, Greek, and Byzantine past. The Burgas Art Gallery, housed in a former Jewish synagogue, is one of the oldest provincial art galleries in the country.

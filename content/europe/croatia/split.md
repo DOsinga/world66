@@ -5,6 +5,7 @@ latitude: 43.511638
 longitude: 16.439966
 done:
   location_cleanup: 2026-04-05
+score: 0.76
 ---
 
 Split is the second biggest town in Croatia. It is located on the coast in the South of the country. It is very old and beautiful town and is also an excellent base for watersports such as sailing or windsurfing.

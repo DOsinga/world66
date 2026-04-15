@@ -5,6 +5,7 @@ latitude: 24.5551
 longitude: -81.78
 done:
   location_cleanup: 2026-04-07
+score: 0.69
 ---
 
 Key West is the end of the road — literally. Mile Marker 0 of US Route 1 sits here, at the southernmost point of the continental United States, closer to Havana than to Miami. The island is just two miles by four miles, but it packs in more character per square foot than most American cities.

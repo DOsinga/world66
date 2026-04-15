@@ -5,6 +5,7 @@ latitude: -31.986439
 longitude: -64.93628
 title: Sierras de Córdoba
 type: location
+score: 0.56
 ---
 
 The mountains surrounding the city of [Córdoba](/southamerica/argentina/cordoba) are a popular escape for Argentines looking for fresh air, lakes, and outdoor adventure without travelling far. Many day trips are possible from the capital.

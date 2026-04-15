@@ -5,6 +5,7 @@ latitude: 43.243347
 longitude: 17.075071
 title: Podgora
 type: location
+score: 0.54
 ---
 
 Podgora is a small Dalmatian coastal town tucked between [Split](/europe/croatia/split) and [Dubrovnik](/europe/croatia/dubrovnik) at the foot of the Biokovo mountain range. Its pebble beaches slope into exceptionally clear water, and the waterfront is marked by the Seagull's Wings monument — a striking concrete sculpture that has become the town's symbol.

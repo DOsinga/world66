@@ -5,6 +5,7 @@ latitude: 19.693357
 longitude: -98.883126
 title: Teotihuacan
 type: location
+score: 0.74
 ---
 
 Teotihuacan is one of the most impressive ancient cities in the Americas, located about 50 km northeast of [Mexico City](/northamerica/mexico/mexicocity) — roughly an hour by road. At its peak between the first and seventh century AD, it was the largest city on the continent, home to perhaps 125,000 people, and its influence extended across Mesoamerica.

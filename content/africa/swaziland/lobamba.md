@@ -5,6 +5,7 @@ latitude: -26.4463
 longitude: 31.2084
 title: Lobamba
 type: location
+score: 0.42
 ---
 
 Lobamba is the traditional and legislative capital of Eswatini, sitting at the southern end of the [Ezulwini Valley](/africa/swaziland/ezulwinivalley) about 15 km from [Mbabane](/africa/swaziland/mbabane). While Mbabane handles day-to-day administration, Lobamba is where the kingdom's identity is kept: Parliament convenes here, the royal family holds court nearby, and the great ceremonies of the Swazi year take place on this ground.

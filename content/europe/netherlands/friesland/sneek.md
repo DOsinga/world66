@@ -5,6 +5,7 @@ latitude: 53.0335
 longitude: 5.6611
 title: Sneek
 type: location
+score: 0.43
 ---
 
 Sneek — or Snits in Frisian — is one of the larger towns in Friesland and the undisputed capital of Dutch watersports. The town sits at the heart of a vast network of lakes and canals, and in summer it fills with sailors, windsurfers, and boat-trippers making the most of the Frisian lakes.

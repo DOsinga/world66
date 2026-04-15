@@ -5,6 +5,7 @@ latitude: 45.516329
 longitude: 25.371567
 title: Bran
 type: location
+score: 0.56
 ---
 
 Bran Castle is one of the top attractions in Transylvania and easily reached from [Brasov](/europe/romania/brasov) by bus in about half an hour. Although there are no historic sources linking Vlad Tepes — the real-life inspiration for Bram Stoker's Dracula — to this particular castle, popular belief has firmly attached the legend to it. Whatever you make of the Dracula connection, this is a genuinely striking castle perched on a rocky outcrop, and well worth the visit.

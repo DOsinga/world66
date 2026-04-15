@@ -5,6 +5,7 @@ latitude: -23.658058
 longitude: 43.646858
 title: Anakao
 type: location
+score: 0.48
 ---
 
 Anakao is a small Vezo fishing village on Madagascar's southwest coast, about 45 kilometres south of [Toliara](/africa/madagascar/toliara). It sits on a long white sand beach facing a turquoise lagoon protected by a coral reef — one of the most beautiful stretches of coast on the island.

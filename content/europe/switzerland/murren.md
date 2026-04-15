@@ -1,6 +1,7 @@
 ---
-title: "Murren"
+title: Murren
 type: location
 latitude: 46.55914
 longitude: 7.892879
+score: 0.8
 ---

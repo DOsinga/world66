@@ -1,0 +1,200 @@
+{
+  "round": 1119,
+  "timestamp": "2026-04-12T22:10:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/fresno",
+      "prior_rank": 7144,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_rank": 8074,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_rank": 5293,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_rank": 7442,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_rank": 5802,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_rank": 8073,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_rank": 7774,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_rank": 7493,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "LaGrange",
+      "path": "northamerica/unitedstates/indiana/lagrange",
+      "prior_rank": 7958,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_rank": 7441,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_rank": 7328,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/england/crieff",
+      "prior_rank": 8021,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_rank": 7642,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_rank": 4195,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_rank": 7850,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Enugu",
+      "path": "africa/nigeria/victoria_island_n/enugu",
+      "prior_rank": 7166,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_rank": 8183,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_rank": 8133,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Moanda",
+      "path": "africa/congokinshasa/moanda",
+      "prior_rank": 6198,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_rank": 7897,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mustafabad",
+      "path": "asia/pakistan/soon_valley/mustafabad",
+      "prior_rank": 8144,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_rank": 7670,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ramah",
+      "path": "northamerica/unitedstates/newmexico/ramah",
+      "prior_rank": 7529,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_rank": 7174,
+      "prior_wins": 11,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 79,
+  "timestamp": "2026-04-12T08:03:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_mu": 25.13,
+      "prior_sigma": 4.54,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_mu": 28.8,
+      "prior_sigma": 3.62,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Finland",
+      "path": "europe/finland",
+      "prior_mu": 27.38,
+      "prior_sigma": 4.29,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region",
+      "prior_mu": 27.24,
+      "prior_sigma": 3.87,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_mu": 23.9,
+      "prior_sigma": 3.36,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_mu": 22.05,
+      "prior_sigma": 3.52,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_mu": 22.23,
+      "prior_sigma": 3.25,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Karakoram Highway",
+      "path": "asia/pakistan/karakoram_highway",
+      "prior_mu": 23.63,
+      "prior_sigma": 5.47,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_mu": 20.94,
+      "prior_sigma": 2.49,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_mu": 21.73,
+      "prior_sigma": 3.61,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Davao",
+      "path": "asia/philippines/davao",
+      "prior_mu": 21.11,
+      "prior_sigma": 3.58,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Saskatchewan",
+      "path": "northamerica/canada/saskatchewan",
+      "prior_mu": 20.82,
+      "prior_sigma": 3.65,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_mu": 22.12,
+      "prior_sigma": 2.84,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_mu": 21.08,
+      "prior_sigma": 3.63,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lo Pagan",
+      "path": "europe/spain/spanishcostas/lopagan",
+      "prior_mu": 21.16,
+      "prior_sigma": 3.14,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_mu": 21.54,
+      "prior_sigma": 3.79,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "La isabela",
+      "path": "northamerica/dominicanrepublic/laisabela",
+      "prior_mu": 21.56,
+      "prior_sigma": 4.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Soon Valley",
+      "path": "asia/pakistan/soon_valley/soon_valley_2",
+      "prior_mu": 20.61,
+      "prior_sigma": 4.52,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "James Island",
+      "path": "northamerica/unitedstates/southcarolina/james_island",
+      "prior_mu": 20.67,
+      "prior_sigma": 3.37,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/chiautempan",
+      "prior_mu": 20.5,
+      "prior_sigma": 3.68,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_mu": 19.68,
+      "prior_sigma": 3.17,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_mu": 19.65,
+      "prior_sigma": 2.69,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_mu": 11.98,
+      "prior_sigma": 3.74,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Quantico",
+      "path": "northamerica/unitedstates/virginia/quantico",
+      "prior_mu": 18.4,
+      "prior_sigma": 4.99,
+      "prior_n": 2
+    }
+  ]
+}

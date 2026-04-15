@@ -5,6 +5,7 @@ latitude: 10.896318
 longitude: 46.919332
 title: Xiis
 type: location
+score: 0.16
 ---
 
 Xiis (also spelled Heis) is a small coastal town in Somaliland's Sanaag region, perched on the Gulf of Aden shore where the dry mountains drop down to the sea. The town is ancient — archaeological sites in the area include cairns, ruins, and rock art that point to centuries of trade connections across the Gulf.

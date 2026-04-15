@@ -5,6 +5,7 @@ latitude: 40.8793
 longitude: 45.149
 title: Tavush Marz
 type: location
+score: 0.47
 ---
 
 Tavush is Armenia's greenest corner — a tangle of forested ridges, river valleys, and ancient monasteries tucked into the northeast of the country. Where much of Armenia is dry and stony, Tavush is lush, with a mild climate and landscapes that genuinely justify the well-worn comparison to Switzerland.

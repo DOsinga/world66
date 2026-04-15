@@ -1,0 +1,200 @@
+{
+  "round": 1886,
+  "timestamp": "2026-04-13T14:33:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 10.1477,
+      "prior_variance": 0.79976,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tanzania",
+      "path": "africa/tanzania",
+      "prior_score": -1.967,
+      "prior_variance": 0.737319,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 4.4444,
+      "prior_variance": 0.286407,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_score": 3.5237,
+      "prior_variance": 0.252859,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 1.0696,
+      "prior_variance": 0.239795,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 0.4848,
+      "prior_variance": 0.312692,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_score": -0.8538,
+      "prior_variance": 0.377698,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_score": 0.0787,
+      "prior_variance": 0.240717,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": -1.7457,
+      "prior_variance": 0.579108,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -1.4483,
+      "prior_variance": 0.268572,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/worcester",
+      "prior_score": -0.3468,
+      "prior_variance": 0.262049,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": 0.0523,
+      "prior_variance": 0.277105,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_score": -2.326,
+      "prior_variance": 0.250964,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/kapiti_coast",
+      "prior_score": 1.3854,
+      "prior_variance": 0.366083,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -2.5359,
+      "prior_variance": 0.261092,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -0.5844,
+      "prior_variance": 0.276273,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -2.5665,
+      "prior_variance": 0.242977,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_score": -5.675,
+      "prior_variance": 0.394588,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Jambi",
+      "path": "asia/indonesia/sumatra/jambi",
+      "prior_score": -3.6609,
+      "prior_variance": 0.248403,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Wierden",
+      "path": "europe/netherlands/wierden",
+      "prior_score": -5.4727,
+      "prior_variance": 0.258988,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "LittleNeck",
+      "path": "northamerica/unitedstates/newyorkstate/littleneck",
+      "prior_score": -6.2397,
+      "prior_variance": 0.283453,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Blair",
+      "path": "northamerica/unitedstates/nebraska/blair",
+      "prior_score": -7.7819,
+      "prior_variance": 0.628998,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_score": -5.8438,
+      "prior_variance": 0.375208,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -9.3754,
+      "prior_variance": 0.479189,
+      "prior_n": 4
+    }
+  ]
+}

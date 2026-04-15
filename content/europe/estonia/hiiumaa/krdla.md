@@ -5,6 +5,7 @@ latitude: 59.001242
 longitude: 22.741145
 title: Kärdla
 type: location
+score: 0.45
 ---
 
 Kärdla is the only real town on [Hiiumaa](/europe/estonia/hiiumaa), Estonia's second-largest island. It is small and quiet — more a large village than a city — with a handful of shops, a couple of cafes, and a pretty town park built around the ruins of an old cloth factory.

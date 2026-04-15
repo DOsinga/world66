@@ -5,6 +5,7 @@ latitude: 33.4152
 longitude: -111.8315
 title: Mesa
 type: location
+score: 0.37
 ---
 
 Mesa sits just east of [Phoenix](/northamerica/unitedstates/arizona/phoenix) in the heart of the Sonoran Desert, and while it may not have Phoenix's name recognition, it has carved out its own identity as a genuinely pleasant base for exploring central Arizona. With a population of over half a million, it is the third-largest city in the state.

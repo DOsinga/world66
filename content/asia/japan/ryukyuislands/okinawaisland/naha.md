@@ -5,6 +5,7 @@ latitude: 26.212235
 longitude: 127.679145
 title: Naha
 type: location
+score: 0.66
 ---
 
 Naha is Okinawa's capital and by far its largest city, home to about 320,000 people. It is where most visitors arrive and where the island's urban life is concentrated. Kokusai Street (International Street) is the main drag -- a 1.6-kilometre stretch of souvenir shops, restaurants, and izakayas that fills up every evening. Duck into the covered Makishi Public Market just off Kokusai for fresh seafood, tropical fruit, and Okinawan specialties like pig's face and sea grapes.

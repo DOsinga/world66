@@ -5,6 +5,7 @@ latitude: 40.525272
 longitude: -0.406213
 title: Cantavieja
 type: location
+score: 0.5
 ---
 
 Cantavieja is a fortified hilltop village in Teruel province, perched on a rocky spur above the wild Maestrazgo mountains. It sits at over 1,300 metres and the winds that tear across its streets are a constant reminder of just how exposed the position is — yet that same position gives it a drama that stays with you.

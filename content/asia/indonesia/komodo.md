@@ -5,6 +5,7 @@ latitude: -8.589191
 longitude: 119.462412
 title: Komodo
 type: location
+score: 0.74
 ---
 
 Komodo Island is the best-known part of Komodo National Park, a UNESCO World Heritage site in the eastern Lesser Sundas between Sumbawa and Flores. It gives its name to the Komodo dragon — the world's largest living lizard, which can reach three metres in length and take down a deer or a goat without much difficulty. The park protects around 5,700 of them across Komodo, Rinca, and a few smaller islands.

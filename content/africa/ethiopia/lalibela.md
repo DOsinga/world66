@@ -5,6 +5,7 @@ latitude: 12.03671
 longitude: 39.046112
 title: Lalibela
 type: location
+score: 0.71
 ---
 
 Missing Lalibela would be like going to Egypt and not seeing a pyramid. This small town in the Lasta mountains, 340 km north of Addis Ababa, holds 11 Orthodox churches carved out of solid red rock in the 12th century — some of the greatest architectural marvels on earth.

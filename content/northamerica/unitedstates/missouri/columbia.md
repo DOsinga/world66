@@ -5,6 +5,7 @@ latitude: 38.9517
 longitude: -92.3341
 done:
   location_cleanup: 2026-04-05
+score: 0.35
 ---
 
 Columbia sits in the middle of Missouri, halfway between St. Louis and Kansas City on Interstate 70, and it is very much a college town: the University of Missouri (Mizzou) has around 30,000 students, and two smaller liberal arts colleges — Stephens and Columbia College — add a few thousand more. In a state best known for its big cities and its rural counties, Columbia is the educated, politically quirky in-between, with a vocal independent bookstore scene, a respectable live music scene, and more coffee shops per capita than anywhere else in the state.

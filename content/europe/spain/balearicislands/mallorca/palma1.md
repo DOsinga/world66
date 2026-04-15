@@ -1,6 +1,7 @@
 ---
-title: "Palma"
+title: Palma
 type: location
 latitude: 39.569582
 longitude: 2.650075
+score: 0.73
 ---

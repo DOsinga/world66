@@ -5,6 +5,7 @@ latitude: 42.91202
 longitude: -70.81742
 title: Hampton Beach
 type: location
+score: 0.42
 ---
 
 Hampton Beach is New Hampshire's liveliest stretch of coastline — a compact, old-school beach resort about 15 miles south of [Portsmouth](/northamerica/unitedstates/newhampshire/portsmouth) on the Atlantic. It draws crowds all summer with a wide sandy beach, a boardwalk lined with fried dough stands and souvenir shops, and the kind of seaside carnival atmosphere that bigger resort towns have long since polished away.

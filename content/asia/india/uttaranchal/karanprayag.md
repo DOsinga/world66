@@ -5,6 +5,7 @@ latitude: 30.26239
 longitude: 79.216163
 title: Karanprayag
 type: location
+score: 0.37
 ---
 
 Karanprayag sits at 788 m in the Chamoli district of Uttarakhand, where the Pindar River descends from the Pindari Glacier to meet the Alaknanda. It is one of the Panch Prayag — the five sacred river confluences in the Garhwal Himalaya — and draws Hindu pilgrims as well as trekkers using the town as a base for routes into the high mountains.

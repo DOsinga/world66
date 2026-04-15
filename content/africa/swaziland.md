@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:
   Gagnon</a>
 done:
   country_cleanup: 2026-03-31
+score: 0.46
 ---
 
 Eswatini — renamed from Swaziland in 2018 by King Mswati III to reclaim its precolonial name — is one of Africa's smallest countries and one of its last absolute monarchies. Landlocked between South Africa and Mozambique, it covers roughly 17,000 square kilometres, about the size of Wales or New Jersey. In that compact space it manages to pack dramatic highland scenery, lowland bushveld, some of the continent's best rhino conservation, and a living royal culture that is impossible to fake.

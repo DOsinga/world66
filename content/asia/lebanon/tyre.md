@@ -5,6 +5,7 @@ latitude: 33.272121
 longitude: 35.196402
 title: Tyre
 type: location
+score: 0.53
 ---
 
 Tyre (Sour in Arabic) was one of the great cities of the ancient world -- a Phoenician powerhouse that defied Nebuchadnezzar for 13 years and held out against Alexander the Great for seven months before he built a causeway from the shore to the island fortress. That causeway silted up over the centuries, turning the island into a peninsula. In 1980, UNESCO designated Tyre a World Heritage site for its impressive Roman and Phoenician remains.

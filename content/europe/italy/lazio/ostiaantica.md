@@ -5,6 +5,7 @@ latitude: 41.7536
 longitude: 12.2857
 title: Ostia Antica
 type: location
+score: 0.63
 ---
 
 Ostia Antica is the old harbour of the Romans, and visiting it is like visiting Tivoli and Hadrian's Villa: a relaxing day trip that takes you away from the noise and sirens of [Rome](/europe/italy/lazio/rome). Reserve a whole day — not just to relax, but because Ostia deserves it.

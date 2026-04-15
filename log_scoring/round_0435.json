@@ -1,0 +1,200 @@
+{
+  "round": 435,
+  "timestamp": "2026-04-12T09:30:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_mu": 33.2882,
+      "prior_sigma": 5.798,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kansai",
+      "path": "asia/japan/kansai",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_mu": 25.9882,
+      "prior_sigma": 5.3912,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Asakusa",
+      "path": "asia/japan/tokyo/asakusa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_mu": 25.5249,
+      "prior_sigma": 4.7125,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Hokkaido",
+      "path": "asia/japan/hokkaido",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Okinawa Island",
+      "path": "asia/japan/ryukyuislands/okinawaisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Ueno",
+      "path": "asia/japan/tokyo/ueno",
+      "prior_mu": 22.9452,
+      "prior_sigma": 4.9408,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Akihabara",
+      "path": "asia/japan/tokyo/akihabara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Ginza",
+      "path": "asia/japan/tokyo/ginza",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_mu": 25.6575,
+      "prior_sigma": 6.316,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_mu": 22.1088,
+      "prior_sigma": 4.7933,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_mu": 23.5476,
+      "prior_sigma": 5.7686,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Roppongi",
+      "path": "asia/japan/tokyo/roppongi",
+      "prior_mu": 22.7546,
+      "prior_sigma": 2.9229,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Marunouchi",
+      "path": "asia/japan/tokyo/marunouchi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Tohoku",
+      "path": "asia/japan/tohoku",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_mu": 22.6931,
+      "prior_sigma": 5.9151,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kitakyushu",
+      "path": "asia/japan/kyushu/kitakyushu",
+      "prior_mu": 22.9239,
+      "prior_sigma": 5.7228,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Takunoshima",
+      "path": "asia/japan/ryukyuislands/takunoshima",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

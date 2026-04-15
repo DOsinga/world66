@@ -1,0 +1,200 @@
+{
+  "round": 1449,
+  "timestamp": "2026-04-12T22:28:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_rank": 5340,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_rank": 6471,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_rank": 6088,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_rank": 4549,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_rank": 6771,
+      "prior_wins": 33,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_rank": 6242,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_rank": 5884,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_rank": 6397,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_rank": 6223,
+      "prior_wins": 46,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_rank": 6731,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tatabanya",
+      "path": "europe/hungary/tatabanya",
+      "prior_rank": 6460,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_rank": 6664,
+      "prior_wins": 34,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_rank": 7486,
+      "prior_wins": 24,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Anglure",
+      "path": "europe/france/east/champagne/anglure",
+      "prior_rank": 6671,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_rank": 7718,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_rank": 6776,
+      "prior_wins": 36,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_rank": 5111,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_rank": 6061,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_rank": 5680,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_rank": 7430,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bonita",
+      "path": "northamerica/unitedstates/california/sandiego/bonita",
+      "prior_rank": 5140,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanes",
+      "prior_rank": 5095,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_rank": 7322,
+      "prior_wins": 24,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_rank": 7169,
+      "prior_wins": 23,
+      "prior_n": 5
+    }
+  ]
+}

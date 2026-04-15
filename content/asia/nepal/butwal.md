@@ -1,6 +1,7 @@
 ---
-title: "Butwal"
+title: Butwal
 type: location
 latitude: 27.700399
 longitude: 83.465767
+score: 0.37
 ---

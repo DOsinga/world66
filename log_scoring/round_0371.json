@@ -1,0 +1,200 @@
+{
+  "round": 371,
+  "timestamp": "2026-04-12T09:13:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Laterbrunnen",
+      "path": "europe/switzerland/laterbrunnen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_mu": 23.8686,
+      "prior_sigma": 6.0977,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_mu": 22.7369,
+      "prior_sigma": 4.8759,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Alto Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_nati",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_mu": 22.4357,
+      "prior_sigma": 5.9018,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Fujian Province",
+      "path": "asia/china/fujianprovince",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_mu": 22.2457,
+      "prior_sigma": 4.6154,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Rhode Island",
+      "path": "northamerica/unitedstates/rhodeisland",
+      "prior_mu": 20.6464,
+      "prior_sigma": 2.9499,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Providence",
+      "path": "northamerica/unitedstates/rhodeisland/providence",
+      "prior_mu": 22.7239,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_mu": 22.6222,
+      "prior_sigma": 5.9362,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Hamden",
+      "path": "northamerica/unitedstates/connecticut/hamden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Trabuco Canyon",
+      "path": "northamerica/unitedstates/california/orangecounty/trabucocanyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Guinea-Bissau",
+      "path": "africa/guineabissau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

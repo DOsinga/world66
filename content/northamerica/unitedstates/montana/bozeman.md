@@ -5,6 +5,7 @@ latitude: 45.679429
 longitude: -111.044047
 title: Bozeman
 type: location
+score: 0.56
 ---
 
 Bozeman sits in the Gallatin Valley at the foot of the Bridger Mountains, a college town that has become one of Montana's most visited cities. Home to Montana State University, it has a lively, outdoorsy character — the kind of place where hikers and skiers share coffee shops with researchers and ranchers.

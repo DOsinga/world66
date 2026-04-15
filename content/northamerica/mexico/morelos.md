@@ -5,6 +5,7 @@ latitude: 18.75
 longitude: -99.0
 done:
   location_cleanup: 2026-04-07
+score: 0.39
 ---
 
 Morelos is the smallest state in Mexico after the capital, a compact but varied region due south of Mexico City in the central highlands. Its capital is Cuernavaca, historically known as the "City of Eternal Spring" for its mild climate — a quality that made it the preferred weekend retreat of Mexico City residents since Aztec times and through the colonial period, when Hernán Cortés built his palace here.

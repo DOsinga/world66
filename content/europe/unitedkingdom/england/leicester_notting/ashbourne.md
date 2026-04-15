@@ -5,6 +5,7 @@ latitude: 53.01813
 longitude: -1.732789
 title: Ashbourne
 type: location
+score: 0.45
 ---
 
 We currently have no information about .

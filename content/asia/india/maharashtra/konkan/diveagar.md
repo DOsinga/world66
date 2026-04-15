@@ -5,6 +5,7 @@ latitude: 18.168994
 longitude: 72.990182
 title: Diveagar
 type: location
+score: 0.42
 ---
 
 Diveagar is a quiet beach village on the Konkan coast of Maharashtra, about 165 km south of Mumbai. It sits on a stretch of coast known for its clean, uncrowded beaches, coconut groves, and the easy pace of village life that has largely been pushed out of the more popular Goa resorts.

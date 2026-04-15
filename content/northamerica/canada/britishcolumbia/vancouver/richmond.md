@@ -5,6 +5,7 @@ latitude: 49.1632
 longitude: -123.1374
 done:
   location_cleanup: 2026-04-06
+score: 0.44
 ---
 
 Richmond sits on a flat island between the north and south arms of the Fraser River, about 14 kilometres south of downtown [Vancouver](/northamerica/canada/britishcolumbia/vancouver). It is home to Vancouver International Airport and, more interestingly for visitors, one of the best concentrations of Chinese and East Asian food in North America.

@@ -5,6 +5,7 @@ latitude: 39.2626
 longitude: -121.0187
 title: Nevada City
 type: location
+score: 0.5
 ---
 
 Nevada City is one of the best-preserved Gold Rush towns in California — a tight cluster of Victorian storefronts and brick buildings stacked up a hill above Deer Creek, 60 miles northeast of Sacramento. It doesn't feel like a museum piece. The downtown is genuinely alive with restaurants, galleries, and independent shops, and the surrounding hills draw hikers, cyclists, and wine tourists year-round.

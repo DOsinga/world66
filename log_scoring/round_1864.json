@@ -1,0 +1,200 @@
+{
+  "round": 1864,
+  "timestamp": "2026-04-13T10:58:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 8.3196,
+      "prior_variance": 0.402528,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Hungary",
+      "path": "europe/hungary",
+      "prior_score": -2.7326,
+      "prior_variance": 0.521269,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 3.478,
+      "prior_variance": 0.379619,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Dordogne",
+      "path": "europe/france/midi/dordogne",
+      "prior_score": 6.0231,
+      "prior_variance": 0.35614,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 1.1411,
+      "prior_variance": 0.293574,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 1.2555,
+      "prior_variance": 0.331141,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_score": 3.4368,
+      "prior_variance": 0.254392,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_score": 4.0604,
+      "prior_variance": 0.316114,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_score": 2.3323,
+      "prior_variance": 0.258265,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 3.1541,
+      "prior_variance": 0.279004,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 0.4275,
+      "prior_variance": 0.378454,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -2.2412,
+      "prior_variance": 0.387749,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_score": -1.0071,
+      "prior_variance": 0.274236,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -1.642,
+      "prior_variance": 0.284058,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.5398,
+      "prior_variance": 0.264884,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_score": -0.8373,
+      "prior_variance": 0.242253,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -1.0325,
+      "prior_variance": 0.273603,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -1.8502,
+      "prior_variance": 0.275799,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -2.8187,
+      "prior_variance": 0.378294,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kotayk Marz",
+      "path": "europe/armenia/kotayk_marz",
+      "prior_score": -2.2289,
+      "prior_variance": 0.301279,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Newbridge",
+      "path": "europe/ireland/newbridge",
+      "prior_score": -3.0125,
+      "prior_variance": 0.373569,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -5.4266,
+      "prior_variance": 0.335337,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Somerset",
+      "path": "northamerica/unitedstates/newjersey/somerset",
+      "prior_score": -5.4779,
+      "prior_variance": 0.307434,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -7.319,
+      "prior_variance": 0.400173,
+      "prior_n": 4
+    }
+  ]
+}

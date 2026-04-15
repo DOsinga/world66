@@ -5,6 +5,7 @@ latitude: 50.352412
 longitude: 5.456248
 title: Durbuy
 type: location
+score: 0.56
 ---
 
 Durbuy is the smallest city of Belgium. It is a very cute place, with lots of old houses, cobbelstone streets and a great setting on the banks of the Ourthe. 

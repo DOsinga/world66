@@ -5,6 +5,7 @@ latitude: -18.9281
 longitude: 29.8149
 title: Kwekwe
 type: location
+score: 0.27
 ---
 
 Kwekwe (formerly Que Que) is a mining and steel town almost exactly halfway between Harare and Bulawayo on Zimbabwe's main road and rail corridor. It exists because of the Globe and Phoenix gold mine, which at its peak in the early 1900s was the biggest gold mine in the world. The mining museum on its premises preserves the Paper House, a wood and reinforced cardboard dwelling on stilts that once served as home to the first mine manager and was slept in by Cecil John Rhodes.

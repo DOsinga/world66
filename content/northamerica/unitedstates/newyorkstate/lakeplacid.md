@@ -5,6 +5,7 @@ latitude: 44.2831
 longitude: -73.9828
 title: Lake Placid
 type: location
+score: 0.62
 ---
 
 Lake Placid is a small Adirondack village that twice hosted the Winter Olympics — in 1932 and 1980 — and it has never quite let go of that identity. The Olympic venues are still in use: you can ride the bobsled run at Mount Van Hoevenberg, watch ski jumpers train at the 90-metre towers, and skate on the same oval where Eric Heiden won five gold medals. The Olympic Center on Main Street houses the rink where the US hockey team beat the Soviets in the Miracle on Ice.

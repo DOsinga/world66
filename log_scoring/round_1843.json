@@ -1,0 +1,200 @@
+{
+  "round": 1843,
+  "timestamp": "2026-04-13T10:56:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Romantic Russell",
+      "path": "australiaandpacific/newzealand/romanticrussell",
+      "prior_score": 3.4987,
+      "prior_variance": 0.334917,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/lynton_and_lynmout",
+      "prior_score": 2.797,
+      "prior_variance": 0.336299,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_score": 1.7101,
+      "prior_variance": 0.340176,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Muhu Island",
+      "path": "europe/estonia/muhu_island",
+      "prior_score": 1.2434,
+      "prior_variance": 0.262965,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Romania",
+      "path": "europe/romania",
+      "prior_score": 2.5301,
+      "prior_variance": 0.40194,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": -0.6091,
+      "prior_variance": 0.291771,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_score": -0.5211,
+      "prior_variance": 0.331287,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/sheffield",
+      "prior_score": -1.8261,
+      "prior_variance": 0.310007,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "orenhofen",
+      "path": "europe/germany/rhinelandpalatinate/orenhofen",
+      "prior_score": -4.9415,
+      "prior_variance": 0.40492,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -3.0626,
+      "prior_variance": 0.310466,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -0.2682,
+      "prior_variance": 0.275221,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_score": -2.8199,
+      "prior_variance": 0.267456,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_score": -3.9276,
+      "prior_variance": 0.37313,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_score": -7.0479,
+      "prior_variance": 0.310662,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_score": -3.1832,
+      "prior_variance": 0.333725,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -4.9813,
+      "prior_variance": 0.295116,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Irvine",
+      "path": "northamerica/unitedstates/california/orangecounty/irvine",
+      "prior_score": -3.3928,
+      "prior_variance": 0.294707,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_score": -4.3453,
+      "prior_variance": 0.507764,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -6.2111,
+      "prior_variance": 0.321374,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -3.6964,
+      "prior_variance": 0.357213,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Daly City",
+      "path": "northamerica/unitedstates/california/daly_city",
+      "prior_score": -5.0467,
+      "prior_variance": 0.289778,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Taringa",
+      "path": "australiaandpacific/australia/newsouthwales/taringa",
+      "prior_score": -4.4443,
+      "prior_variance": 0.225915,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -4.5813,
+      "prior_variance": 0.273135,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "beit-jala",
+      "path": "asia/palestinianauthority/beitjala",
+      "prior_score": -6.5175,
+      "prior_variance": 0.35341,
+      "prior_n": 4
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 27.759481
 longitude: -15.574086
 title: Playa del Ingles
 type: location
+score: 0.62
 ---
 
 Playa del Inglés is a large resort built almost entirely of hotels, apartment blocks, and shopping centres. The beach stretches several kilometres from Faro de Maspalomas in the west to San Agustín in the east, running seamlessly into the Maspalomas dune system.

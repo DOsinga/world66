@@ -1,0 +1,200 @@
+{
+  "round": 2152,
+  "timestamp": "2026-04-13T16:15:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_score": 4.0076,
+      "prior_variance": 0.217918,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_score": 4.126,
+      "prior_variance": 0.284539,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Miljet Island",
+      "path": "europe/croatia/miljet_island",
+      "prior_score": 6.0825,
+      "prior_variance": 0.270374,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Torrevieja",
+      "path": "europe/spain/costa_blanca/torrevieja",
+      "prior_score": 1.7519,
+      "prior_variance": 0.212748,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Hainan island",
+      "path": "asia/china/hainanisland",
+      "prior_score": 2.5438,
+      "prior_variance": 0.299436,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_score": 1.4764,
+      "prior_variance": 0.266617,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_score": 1.5717,
+      "prior_variance": 0.183287,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 0.3868,
+      "prior_variance": 0.286679,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_score": 0.4507,
+      "prior_variance": 0.27661,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Serbia",
+      "path": "europe/serbia",
+      "prior_score": -0.0376,
+      "prior_variance": 0.266828,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Guyana",
+      "path": "southamerica/guyana",
+      "prior_score": -3.6697,
+      "prior_variance": 0.434309,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": 0.2341,
+      "prior_variance": 0.309137,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -2.4457,
+      "prior_variance": 0.253127,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_score": -2.3951,
+      "prior_variance": 0.24948,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.7488,
+      "prior_variance": 0.254146,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -1.0995,
+      "prior_variance": 0.285524,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/worcester",
+      "prior_score": -2.5744,
+      "prior_variance": 0.246958,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/sheffield",
+      "prior_score": -1.627,
+      "prior_variance": 0.214768,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.9343,
+      "prior_variance": 0.323999,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/newtonabbot",
+      "prior_score": -2.733,
+      "prior_variance": 0.242055,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Village-Khergaon",
+      "path": "asia/india/uttaranchal/srinagar_pauri_ga/pauri_garhwal/villagekhergaon",
+      "prior_score": -7.0941,
+      "prior_variance": 0.382856,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Hayward",
+      "path": "northamerica/unitedstates/california/hayward",
+      "prior_score": -5.3281,
+      "prior_variance": 0.377357,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_score": -5.1073,
+      "prior_variance": 0.261094,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": -0.3992,
+      "prior_variance": 0.273848,
+      "prior_n": 5
+    }
+  ]
+}

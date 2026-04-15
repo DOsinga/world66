@@ -5,6 +5,7 @@ latitude: -36.3832
 longitude: 145.3989
 title: Shepparton
 type: location
+score: 0.37
 ---
 
 Shepparton calls itself the Food Capital of Australia, and the claim is not entirely tongue-in-cheek. This Goulburn Valley city, about two and a half hours north of Melbourne, is the centre of a major food-processing region. SPC and other manufacturers have long been the backbone of the local economy.

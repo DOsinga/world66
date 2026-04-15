@@ -5,6 +5,7 @@ latitude: -16.4955
 longitude: -68.1336
 done:
   location_cleanup: 2026-04-07
+score: 0.61
 ---
 
 La Paz hits you before you even arrive. The airport sits at 4,061 metres in El Alto — a wind-blasted plateau city in its own right — and the descent by road into the canyon below is one of the great urban approaches on earth. The city spills down the slopes in a tangle of red-brick buildings, cable cars, and market stalls, with the white peak of Illimani hovering behind it all at 6,438 metres.

@@ -1,0 +1,200 @@
+{
+  "round": 1724,
+  "timestamp": "2026-04-13T10:45:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bridgetown",
+      "path": "northamerica/barbados/bridgetown",
+      "prior_score": 6.3672,
+      "prior_variance": 0.399302,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_score": 5.0426,
+      "prior_variance": 0.29439,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 3.9662,
+      "prior_variance": 0.380781,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_score": 4.8226,
+      "prior_variance": 0.32804,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.0185,
+      "prior_variance": 0.393655,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 1.6454,
+      "prior_variance": 0.416519,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/waikato/hamilton",
+      "prior_score": -1.6394,
+      "prior_variance": 0.301158,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": -0.8363,
+      "prior_variance": 0.428358,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 2.0785,
+      "prior_variance": 0.313748,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kelantan",
+      "path": "asia/malaysia/kelantan",
+      "prior_score": -0.8066,
+      "prior_variance": 0.329331,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_score": -3.2163,
+      "prior_variance": 0.467795,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Sahara desert",
+      "path": "africa/algeria/saharadesert",
+      "prior_score": 1.6567,
+      "prior_variance": 0.38554,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.8894,
+      "prior_variance": 0.351717,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.9121,
+      "prior_variance": 0.351278,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_score": -3.1237,
+      "prior_variance": 0.299565,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_score": -2.8242,
+      "prior_variance": 0.2663,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -3.6764,
+      "prior_variance": 0.348976,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -4.1912,
+      "prior_variance": 0.307738,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -3.4059,
+      "prior_variance": 0.300515,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -8.0535,
+      "prior_variance": 0.546482,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -9.5291,
+      "prior_variance": 0.450857,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -9.6672,
+      "prior_variance": 0.686507,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Siakh in Tehsil Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/siakh_in_tehsil_da",
+      "prior_score": -10.2391,
+      "prior_variance": 0.453332,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_score": -10.5918,
+      "prior_variance": 0.292692,
+      "prior_n": 6
+    }
+  ]
+}

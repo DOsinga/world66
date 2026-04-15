@@ -1,0 +1,200 @@
+{
+  "round": 1133,
+  "timestamp": "2026-04-12T22:11:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_rank": 1661,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_rank": 999,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_notting/peak_district",
+      "prior_rank": 1281,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_rank": 2094,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_rank": 2132,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
+      "prior_rank": 1479,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Music Row",
+      "path": "northamerica/unitedstates/tennessee/nashville/musicrow",
+      "prior_rank": 1460,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_rank": 1443,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_rank": 2099,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Prizren",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/prizren",
+      "prior_rank": 2176,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/cuba/santiagodecuba",
+      "prior_rank": 3321,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_rank": 4246,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_rank": 3235,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_rank": 1701,
+      "prior_wins": 85,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_rank": 4589,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_rank": 1296,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Calistoga",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/calistoga",
+      "prior_rank": 1308,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Cat island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_rank": 2946,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_rank": 3529,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_rank": 4511,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_rank": 1938,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tavush Marz",
+      "path": "europe/armenia/tavush_marz",
+      "prior_rank": 3465,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_rank": 3149,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_rank": 2525,
+      "prior_wins": 30,
+      "prior_n": 2
+    }
+  ]
+}

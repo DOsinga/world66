@@ -1,8 +1,9 @@
 ---
-title: "Puerto Plata"
+title: Puerto Plata
 type: location
 latitude: 19.7957
-longitude: -70.6880
+longitude: -70.688
+score: 0.56
 ---
 
 Puerto Plata is the main tourist hub on the Dominican Republic's north coast, known as the Amber Coast. The area centres on a string of beach resorts east of Puerto Plata city, with the all-inclusive resort zone of Playa Dorada the most developed. The coastline here is backed by mountains, and the scenery is more dramatic than on the south coast.

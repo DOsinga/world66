@@ -5,6 +5,7 @@ latitude: 42.4554
 longitude: -6.0529
 title: Astorga
 type: location
+score: 0.56
 ---
 
 Astorga is a compact Roman city in the province of León, sitting at the crossroads of the Camino de Santiago. Two monuments dominate the old town: a grand Gothic cathedral built over several centuries, and the extraordinary Palacio Episcopal designed by Antoni Gaudí in the 1890s — the only major work Gaudí completed outside Catalonia. The palace now houses the Museo de los Caminos, dedicated to the pilgrimage routes through the region.

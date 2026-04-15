@@ -1,0 +1,200 @@
+{
+  "round": 403,
+  "timestamp": "2026-04-12T09:29:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_mu": 24.5208,
+      "prior_sigma": 5.8396,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_mu": 24.0596,
+      "prior_sigma": 6.0431,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Thassos",
+      "path": "europe/greece/thassos_island",
+      "prior_mu": 25.7506,
+      "prior_sigma": 6.3396,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_mu": 27.4507,
+      "prior_sigma": 5.4891,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_mu": 23.9686,
+      "prior_sigma": 6.0305,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Siros",
+      "path": "europe/greece/siros",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Hersonnissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_mu": 22.4295,
+      "prior_sigma": 5.8012,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_mu": 22.5122,
+      "prior_sigma": 5.5618,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Prefecture of Serres",
+      "path": "europe/greece/prefecture_of_serr",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kozanh",
+      "path": "europe/greece/kozanh",
+      "prior_mu": 22.5285,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 58.692007
 longitude: 11.254233
 title: Grebbestad
 type: location
+score: 0.48
 ---
 
 Grebbestad is a small fishing village on the northern Bohuslan coast of Sweden, picturesquely set among smooth granite cliffs and sheltered inlets. It has about 1,300 year-round residents, but in summer the population swells as Swedes flock here for the coast.

@@ -1,0 +1,200 @@
+{
+  "round": 1451,
+  "timestamp": "2026-04-12T22:28:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Almagro",
+      "path": "europe/spain/centralspain/almagro",
+      "prior_rank": 6875,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Wiehl",
+      "path": "europe/germany/northrhinewestphalia/wiehl",
+      "prior_rank": 7907,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Basecles",
+      "path": "europe/belgium/basecles",
+      "prior_rank": 8173,
+      "prior_wins": 10,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/southampton/warsash",
+      "prior_rank": 7547,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_rank": 8092,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "neguac",
+      "path": "northamerica/canada/newbrunswick/neguac",
+      "prior_rank": 7817,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Slidell",
+      "path": "northamerica/unitedstates/louisiana/slidell",
+      "prior_rank": 7541,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sylvania",
+      "path": "northamerica/unitedstates/ohio/sylvania",
+      "prior_rank": 7829,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_rank": 6064,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Paniqui",
+      "path": "asia/philippines/paniqui",
+      "prior_rank": 7545,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_rank": 5699,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/arizona/miami",
+      "prior_rank": 7633,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_rank": 7439,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_rank": 8150,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Congo Kinshasa",
+      "path": "africa/congokinshasa",
+      "prior_rank": 8178,
+      "prior_wins": 7,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_rank": 8089,
+      "prior_wins": 18,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_rank": 8221,
+      "prior_wins": 2,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_rank": 8023,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_rank": 7895,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_rank": 7165,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_rank": 8191,
+      "prior_wins": 4,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ainaba",
+      "path": "africa/somaliland/ainaba",
+      "prior_rank": 7875,
+      "prior_wins": 14,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Beautyful village",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/beautyful_village",
+      "prior_rank": 8038,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "bazral",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2/bazral",
+      "prior_rank": 8181,
+      "prior_wins": 4,
+      "prior_n": 3
+    }
+  ]
+}

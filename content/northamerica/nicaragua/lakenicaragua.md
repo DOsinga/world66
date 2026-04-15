@@ -5,6 +5,7 @@ latitude: 11.5
 longitude: -85.4
 title: Lake Nicaragua
 type: location
+score: 0.52
 ---
 
 Lake Nicaragua — known locally as Lago de Nicaragua or Cocibolca — is one of the largest freshwater lakes in the Americas, stretching roughly 160 kilometres from northwest to southeast. It dominates the southwestern quarter of the country and defines much of Nicaragua's geography and identity. The lake is so large that colonial-era travellers mistook it for an inland sea, and the Spanish briefly considered routing a trans-oceanic canal through it.

@@ -5,6 +5,7 @@ latitude: 60.607
 longitude: 15.6323
 title: Falun
 type: location
+score: 0.5
 ---
 
 Falun is the capital of Dalarna, a Swedish province that prides itself on being the heartland of traditional Swedish culture. The city is best known for the Falun Copper Mine, a UNESCO World Heritage Site that has been worked since at least the 13th century — making it one of the oldest industrial sites in the world still open to visitors.

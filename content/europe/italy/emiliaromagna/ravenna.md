@@ -5,6 +5,7 @@ latitude: 44.364061
 longitude: 12.05901
 done:
   location_cleanup: 2026-04-06
+score: 0.68
 ---
 
 Located on the Adriatic midway between [Venice](/europe/italy/veneto/venice) and [Florence](/europe/italy/tuscany/florence), Ravenna (pop. 136,000) is best known for the wonderful mosaic decoration of its churches and tombs -- relics from its Byzantine past.

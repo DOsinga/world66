@@ -1,0 +1,200 @@
+{
+  "round": 1798,
+  "timestamp": "2026-04-13T10:52:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 5.9092,
+      "prior_variance": 0.331865,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Nauplia",
+      "path": "europe/greece/nauplia",
+      "prior_score": 7.3712,
+      "prior_variance": 0.332355,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "San Juan",
+      "path": "northamerica/puertorico/sanjuan",
+      "prior_score": 5.9669,
+      "prior_variance": 0.35229,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_score": 6.3491,
+      "prior_variance": 0.375511,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 5.3319,
+      "prior_variance": 0.463279,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_score": 0.3834,
+      "prior_variance": 0.352641,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/plymouth",
+      "prior_score": 0.231,
+      "prior_variance": 0.326295,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Latvia",
+      "path": "europe/latvia",
+      "prior_score": 1.0084,
+      "prior_variance": 0.439971,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/malvern_hills",
+      "prior_score": 1.2996,
+      "prior_variance": 0.271779,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 1.7537,
+      "prior_variance": 0.35444,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Cuyahoga Valley",
+      "path": "northamerica/unitedstates/ohio/cuyahogavalley",
+      "prior_score": 2.2057,
+      "prior_variance": 0.338313,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Suriname",
+      "path": "southamerica/suriname",
+      "prior_score": 0.3088,
+      "prior_variance": 0.449962,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/wangerooge",
+      "prior_score": 0.5876,
+      "prior_variance": 0.302238,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": -2.1223,
+      "prior_variance": 0.393274,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -1.673,
+      "prior_variance": 0.240933,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Aars",
+      "path": "europe/denmark/aars",
+      "prior_score": -4.7572,
+      "prior_variance": 0.374336,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Surry Hills",
+      "path": "australiaandpacific/australia/newsouthwales/surry_hills",
+      "prior_score": -0.8043,
+      "prior_variance": 0.272835,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_score": -3.597,
+      "prior_variance": 0.314885,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_score": -2.1243,
+      "prior_variance": 0.275236,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -3.528,
+      "prior_variance": 0.332361,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -3.6199,
+      "prior_variance": 0.308692,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_score": -6.6307,
+      "prior_variance": 0.339113,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "chah bangul wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/chah_bangul_wala",
+      "prior_score": -14.2783,
+      "prior_variance": 0.470198,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_score": -6.4707,
+      "prior_variance": 0.390966,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1016,
+  "timestamp": "2026-04-12T22:04:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "lakewood",
+      "path": "northamerica/unitedstates/ohio/lakewood",
+      "prior_rank": 8074,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_rank": 7535,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "McPherson",
+      "path": "northamerica/unitedstates/kansas/mcpherson",
+      "prior_rank": 7971,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Monon",
+      "path": "northamerica/unitedstates/indiana/monon",
+      "prior_rank": 7837,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_rank": 7787,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kaltinec",
+      "path": "europe/bulgaria/gornaoryahovica/kaltinec",
+      "prior_rank": 7480,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_rank": 6535,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "hafizabad",
+      "path": "asia/pakistan/islamabad/hafizabad",
+      "prior_rank": 6216,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Jaranwala",
+      "path": "asia/pakistan/gujrat/jaranwala",
+      "prior_rank": 7268,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "haroonabad",
+      "path": "asia/pakistan/khairpur_tamewali/haroonabad",
+      "prior_rank": 8193,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_rank": 7902,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_rank": 7806,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "TAUNSA SHARIF",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif",
+      "prior_rank": 8100,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bahadur Garh",
+      "path": "asia/pakistan/dera_ghazi_khan/bahadur_garh",
+      "prior_rank": 8118,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Aliot",
+      "path": "asia/pakistan/azad_kashmir/bagh/aliot",
+      "prior_rank": 6135,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Beautyful village",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/beautyful_village",
+      "prior_rank": 8154,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sefadu",
+      "path": "africa/sierraleone/sefadu",
+      "prior_rank": 7724,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_rank": 8008,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_rank": 8056,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_rank": 8198,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pabre",
+      "path": "africa/burkinafaso/ouagadougou/excursions/pabre",
+      "prior_rank": 7924,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Tikrit",
+      "path": "asia/iraq/tikrit",
+      "prior_rank": 7531,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_rank": 7185,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bost",
+      "path": "asia/afghanistan/bost",
+      "prior_rank": 8039,
+      "prior_wins": 3,
+      "prior_n": 3
+    }
+  ]
+}

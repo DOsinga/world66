@@ -5,6 +5,7 @@ latitude: 38.9918
 longitude: -74.8148
 done:
   location_cleanup: 2026-04-06
+score: 0.46
 ---
 
 Wildwood is a classic Jersey Shore boardwalk town at the southern tip of New Jersey, a few miles north of Cape May. The beaches are wide, white, and free — unusual for the Jersey Shore — and the boardwalk stretches for two miles with amusement rides, water parks, games, and enough funnel cake to last a lifetime.

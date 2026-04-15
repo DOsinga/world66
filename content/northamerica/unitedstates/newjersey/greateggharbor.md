@@ -5,6 +5,7 @@ latitude: 39.515542
 longitude: -74.382172
 title: Great Egg Harbor
 type: location
+score: 0.35
 ---
 
 The Great Egg Harbor River is one of the best paddling destinations in New Jersey, running through the heart of the Pinelands Reserve on its way to the Atlantic Ocean. The river passes through undisturbed freshwater and tidal wetlands that support a surprising array of wildlife given the population density of southern New Jersey.

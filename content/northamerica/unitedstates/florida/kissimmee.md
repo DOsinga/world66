@@ -5,6 +5,7 @@ latitude: 28.291899
 longitude: -81.407584
 title: Kissimmee
 type: location
+score: 0.46
 ---
 
 Kissimmee sits just south of [Orlando](/northamerica/unitedstates/florida/orlando) and serves as the budget-friendly gateway to Walt Disney World, whose main entrance is minutes away. Most visitors come for the theme parks, and the strip along US-192 (Irlo Bronson Memorial Highway) is lined with motels, restaurants, and tourist shops that cater to families looking to save on accommodation.

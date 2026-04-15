@@ -1,0 +1,200 @@
+{
+  "round": 1416,
+  "timestamp": "2026-04-12T22:26:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Berlin Mitte",
+      "path": "europe/germany/berlin/berlinmitte",
+      "prior_rank": 2008,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region",
+      "prior_rank": 171,
+      "prior_wins": 145,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Cayman Islands",
+      "path": "northamerica/thecaribbean/caymanislands",
+      "prior_rank": 1391,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_rank": 276,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "St. Thomas",
+      "path": "northamerica/virginislands/stthomas",
+      "prior_rank": 248,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_rank": 710,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_rank": 497,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Chiang Rai",
+      "path": "asia/thailand/chiangrai",
+      "prior_rank": 389,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_rank": 1008,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_rank": 2397,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Winelands",
+      "path": "africa/southafrica/winelands",
+      "prior_rank": 502,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_rank": 375,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/keswick",
+      "prior_rank": 517,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol",
+      "prior_rank": 228,
+      "prior_wins": 82,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Inle Lake",
+      "path": "asia/myanmar/inlelake",
+      "prior_rank": 299,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_rank": 181,
+      "prior_wins": 186,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/windsor",
+      "prior_rank": 1726,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_rank": 2272,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_na",
+      "prior_rank": 477,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_rank": 799,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kuelap",
+      "path": "southamerica/peru/chachapoyas/kuelap",
+      "prior_rank": 577,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_rank": 1424,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_rank": 651,
+      "prior_wins": 75,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_rank": 369,
+      "prior_wins": 79,
+      "prior_n": 4
+    }
+  ]
+}

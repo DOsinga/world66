@@ -9,6 +9,7 @@ image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/84301190@N00">Rosino</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.92
 ---
 
 Japan is one of the most rewarding countries in the world to travel. It is modern and ancient simultaneously: bullet trains run on the second, while Buddhist monks chant in thousand-year-old temples. Streets are spotlessly clean and almost completely safe. The food is extraordinary. And despite the language barrier, Japan is surprisingly easy to get around.
@@ -31,7 +32,7 @@ A note on cost: Japan is not as expensive as its reputation suggests, especially
 [Kobe](/asia/japan/honshu/kobe)
 [Hiroshima](/asia/japan/honshu/hiroshima)
 [Nikko](/asia/japan/honshu/nikko)
-[Takayama](/asia/japan/takayama)
+[Takayama](/asia/japan/honshu/takayama)
 [Hokkaido](/asia/japan/hokkaido)
 [Sapporo](/asia/japan/hokkaido/sapporo)
 [Kyushu](/asia/japan/kyushu)

@@ -5,6 +5,7 @@ latitude: 36.2668
 longitude: -107.7456
 title: Nageezi
 type: location
+score: 0.32
 ---
 
 The main reason to come to Nageezi is Chaco Culture National Historical Park, one of the most impressive archaeological sites in North America. Chaco Canyon was a major center of ancestral Puebloan culture between AD 850 and 1250 -- a hub of ceremony, trade, and administration for the prehistoric Four Corners area, unlike anything before or since.

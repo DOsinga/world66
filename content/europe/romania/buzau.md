@@ -5,6 +5,7 @@ latitude: 45.15
 longitude: 26.821
 title: Buzău
 type: location
+score: 0.38
 ---
 
 Buzău is the principal city of Buzău County, sitting at the foot of the Carpathian foothills about 130 km north-east of Bucharest, where the plains meet the mountains. It is an old city — documents from the 15th century mention it — but most of what you see today is modern, the old centre having been largely rebuilt in the Soviet era.

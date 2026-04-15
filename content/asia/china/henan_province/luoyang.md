@@ -5,6 +5,7 @@ latitude: 34.6197
 longitude: 112.4477
 done:
   location_cleanup: 2026-04-07
+score: 0.59
 ---
 
 Luoyang is one of China's great ancient capitals, a city where imperial dynasties rose and fell for over a thousand years. Sitting on the banks of the Luo River in western Henan Province, it served as the capital for thirteen dynasties, making it one of the oldest continuously inhabited cities in China.

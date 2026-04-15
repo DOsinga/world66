@@ -5,6 +5,7 @@ latitude: -13.792841
 longitude: -47.456852
 title: Cavalcante
 type: location
+score: 0.4
 ---
 
 Cavalcante is the largest municipality in the Chapada dos Veadeiros region of northern Goiás state, a vast territory of cerrado savanna, dramatic rock formations, and cascading waterfalls. A big share of the **Chapada dos Veadeiros National Park** — a UNESCO World Heritage Site — falls within its borders.

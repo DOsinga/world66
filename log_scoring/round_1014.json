@@ -1,0 +1,200 @@
+{
+  "round": 1014,
+  "timestamp": "2026-04-12T22:04:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/hove",
+      "prior_rank": 4837,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_rank": 6671,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_rank": 5560,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_rank": 6293,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bydgoszcz",
+      "path": "europe/poland/bydgoszcz",
+      "prior_rank": 4192,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_rank": 4833,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_rank": 5239,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Wisconsin",
+      "path": "northamerica/unitedstates/wisconsin",
+      "prior_rank": 4590,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_rank": 5059,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_rank": 4719,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_rank": 5469,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_rank": 5916,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_rank": 6190,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Asan",
+      "path": "australiaandpacific/guam/asan",
+      "prior_rank": 5073,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_rank": 6263,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_rank": 7332,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_rank": 6228,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_rank": 5868,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_rank": 5455,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Pinner",
+      "path": "europe/unitedkingdom/england/pinner",
+      "prior_rank": 3279,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_rank": 5463,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Pristina",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/pristina",
+      "prior_rank": 6422,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Gostivar",
+      "path": "europe/macedonia/gostivar",
+      "prior_rank": 5429,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Cotabato",
+      "path": "asia/philippines/cotabato",
+      "prior_rank": 6306,
+      "prior_wins": 6,
+      "prior_n": 1
+    }
+  ]
+}

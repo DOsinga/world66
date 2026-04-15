@@ -5,6 +5,7 @@ latitude: 18.4386
 longitude: 79.1288
 done:
   location_cleanup: 2026-04-05
+score: 0.3
 ---
 
 Karimnagar is a mid-sized city in the Telangana region of what was formerly northern Andhra Pradesh (the state split in 2014, and Karimnagar now sits in Telangana). It is a regional trading town on the banks of the Maneru river, about 165 km north-east of Hyderabad, and almost no one visits it except for business or family. The two claims to fame are that former Indian prime minister P.V. Narasimha Rao was born in the district, and that this is the home of the annual Bathukamma festival — a distinctive Telangana celebration where women build towering, colourful flower arrangements on brass plates during the nine days before Dasara and sing folk songs around them in the courtyards of every household.

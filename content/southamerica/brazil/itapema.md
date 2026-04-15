@@ -5,6 +5,7 @@ latitude: -27.09472
 longitude: -48.613778
 title: Itapema
 type: location
+score: 0.47
 ---
 
 Itapema is a compact beach resort on Santa Catarina's coast, about 60km south of [Florianópolis](/southamerica/brazil/florianopolis) and right next to [Balneário Camboriú](/southamerica/brazil/balneariocamboriu). It draws a Brazilian summer crowd — mostly families from the interior of Santa Catarina and Paraná — and has the infrastructure to match: beachfront avenues lined with restaurants, bars, and shops. Outside of January and February, it's a more relaxed place entirely.

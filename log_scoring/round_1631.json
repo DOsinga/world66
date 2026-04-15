@@ -1,0 +1,200 @@
+{
+  "round": 1631,
+  "timestamp": "2026-04-13T10:37:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 14.4846,
+      "prior_variance": 1.118324,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "California",
+      "path": "northamerica/unitedstates/california",
+      "prior_score": 0.4272,
+      "prior_variance": 0.578947,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Rhodes",
+      "path": "europe/greece/rhodes",
+      "prior_score": 11.2865,
+      "prior_variance": 0.791665,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 10.8013,
+      "prior_variance": 0.527782,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bay of Kotor",
+      "path": "europe/serbiaandmontenegro/bayofkotor",
+      "prior_score": 9.3556,
+      "prior_variance": 0.785706,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Exumas",
+      "path": "northamerica/bahamas/exumas",
+      "prior_score": 12.1266,
+      "prior_variance": 0.547817,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 5.0484,
+      "prior_variance": 0.579427,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 2.1356,
+      "prior_variance": 0.222595,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 3.3983,
+      "prior_variance": 0.307902,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pomposa",
+      "path": "europe/italy/emiliaromagna/pomposa",
+      "prior_score": -0.1109,
+      "prior_variance": 0.352863,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Douglas",
+      "path": "europe/unitedkingdom/manisleof/douglas",
+      "prior_score": 0.497,
+      "prior_variance": 0.326869,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kalahari Desert",
+      "path": "africa/botswana/kalaharidesert",
+      "prior_score": 1.4087,
+      "prior_variance": 0.354141,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "New Georgia",
+      "path": "australiaandpacific/solomonislands/newgeorgia",
+      "prior_score": -3.6961,
+      "prior_variance": 0.428267,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -1.7714,
+      "prior_variance": 0.380271,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_score": -0.9052,
+      "prior_variance": 0.380031,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/leamingtonspa",
+      "prior_score": -1.2453,
+      "prior_variance": 0.316056,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -3.029,
+      "prior_variance": 0.403048,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Targoviste",
+      "path": "europe/romania/targoviste",
+      "prior_score": -2.1476,
+      "prior_variance": 0.317013,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -3.9634,
+      "prior_variance": 0.295391,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -1.2656,
+      "prior_variance": 0.339226,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Yakouren",
+      "path": "africa/algeria/yakouren",
+      "prior_score": -6.4139,
+      "prior_variance": 0.426522,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Turkmenistan",
+      "path": "asia/turkmenistan",
+      "prior_score": -4.2971,
+      "prior_variance": 0.399675,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/hajira",
+      "prior_score": -7.6359,
+      "prior_variance": 0.636521,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -6.4794,
+      "prior_variance": 0.344984,
+      "prior_n": 4
+    }
+  ]
+}

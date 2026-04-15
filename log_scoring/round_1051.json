@@ -1,0 +1,200 @@
+{
+  "round": 1051,
+  "timestamp": "2026-04-12T22:06:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_rank": 4781,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_rank": 6294,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_rank": 5352,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Portsmouth",
+      "path": "northamerica/dominica/portsmouth",
+      "prior_rank": 5528,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ludlow",
+      "path": "northamerica/unitedstates/vermont/ludlow",
+      "prior_rank": 4640,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_rank": 5308,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_rank": 6896,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_rank": 5865,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_rank": 6171,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_rank": 5914,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_rank": 6344,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_rank": 6212,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_rank": 7431,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_rank": 5869,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Chantada",
+      "path": "europe/spain/galicia/chantada",
+      "prior_rank": 7226,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_rank": 6893,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_rank": 7068,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "San Giorgio Lucano",
+      "path": "europe/italy/basilicata/san_giorgio_lucano",
+      "prior_rank": 5699,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_rank": 5497,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_rank": 7268,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Rapid City",
+      "path": "northamerica/unitedstates/southcarolina/rapidcity",
+      "prior_rank": 5107,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_rank": 4275,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_rank": 6546,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/thetfordnorfolk",
+      "prior_rank": 7272,
+      "prior_wins": 7,
+      "prior_n": 2
+    }
+  ]
+}

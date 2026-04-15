@@ -5,6 +5,7 @@ latitude: 32.2988
 longitude: -90.1848
 done:
   location_cleanup: 2026-04-05
+score: 0.34
 ---
 
 Jackson is the capital of Mississippi and, with around 150,000 people, the largest city in one of the smallest and poorest states in America. It sits in the middle of the state on a low bluff above the Pearl River, and its story is in many ways the story of the Deep South in microcosm: a cotton town on the western edge of the Choctaw homeland; a Confederate railhead burned by Sherman in 1863 (the locals nicknamed it "Chimneyville" afterwards, because that was most of what was left); a battleground of the 1960s civil rights movement; and, since then, a slow, complicated attempt at reinvention.

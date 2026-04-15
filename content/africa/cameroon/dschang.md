@@ -5,6 +5,7 @@ latitude: 5.446992
 longitude: 10.053309
 title: Dschang
 type: location
+score: 0.38
 ---
 
 Dschang is a university town and hill station in western Cameroon, sitting at around 1,400 metres above sea level in the Menoua region. The altitude keeps temperatures mild and the surrounding landscape green — rolling hills, tea plantations, and forest patches that feel very different from the heat of the lowland cities.

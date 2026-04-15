@@ -1,0 +1,200 @@
+{
+  "round": 1202,
+  "timestamp": "2026-04-12T22:14:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Castro Valley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/castrovalley",
+      "prior_rank": 7784,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Roqetas de mar",
+      "path": "europe/spain/andalucia/roqetasdemar",
+      "prior_rank": 8194,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_rank": 7426,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/wolverhampton",
+      "prior_rank": 7714,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_rank": 8040,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/bearwood",
+      "prior_rank": 8178,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "weerp",
+      "path": "europe/netherlands/weerp",
+      "prior_rank": 8227,
+      "prior_wins": 1,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_rank": 7132,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_rank": 8140,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "San-Pedro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_rank": 7732,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/yucatan/basconcobe",
+      "prior_rank": 8028,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Penas Blancas",
+      "path": "northamerica/nicaragua/penas_blancas",
+      "prior_rank": 7601,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Japiim",
+      "path": "southamerica/brazil/japiim",
+      "prior_rank": 8204,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_rank": 7898,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_rank": 7483,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_rank": 7780,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Santa Clara de Tulpancingo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santa_clara_de_tul",
+      "prior_rank": 8114,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Fort Benning, GA",
+      "path": "northamerica/unitedstates/georgia/fort_benning_ga",
+      "prior_rank": 8017,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_rank": 8209,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Iraq",
+      "path": "asia/iraq",
+      "prior_rank": 7912,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_rank": 7954,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "tibbi miana",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_miana",
+      "prior_rank": 7637,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "bughlani",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/soker/bughlani",
+      "prior_rank": 8162,
+      "prior_wins": 5,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_rank": 8221,
+      "prior_wins": 3,
+      "prior_n": 9
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 695,
+  "timestamp": "2026-04-12T10:43:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_mu": 26.6396,
+      "prior_sigma": 5.5204,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_mu": 23.3611,
+      "prior_sigma": 3.9179,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Vaison-la-Romaine",
+      "path": "europe/france/midi/provence/vaisonlaromaine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_mu": 22.9287,
+      "prior_sigma": 5.7357,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_mu": 22.9648,
+      "prior_sigma": 4.7832,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_mu": 22.1305,
+      "prior_sigma": 5.7543,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_mu": 22.7249,
+      "prior_sigma": 4.5816,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_mu": 22.5393,
+      "prior_sigma": 5.946,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Chartreuse",
+      "path": "europe/france/alpes/chartreuse",
+      "prior_mu": 22.9391,
+      "prior_sigma": 6.0042,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_mu": 21.2511,
+      "prior_sigma": 4.0681,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_mu": 22.0129,
+      "prior_sigma": 4.6815,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_mu": 22.4537,
+      "prior_sigma": 5.903,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ardeche",
+      "path": "europe/france/midi/ardeche",
+      "prior_mu": 21.8204,
+      "prior_sigma": 4.3732,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_mu": 21.5115,
+      "prior_sigma": 4.457,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_mu": 21.3962,
+      "prior_sigma": 3.0841,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Poitiers",
+      "path": "europe/france/midi/aquitaine/poitiers",
+      "prior_mu": 21.3496,
+      "prior_sigma": 4.6073,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_mu": 22.7021,
+      "prior_sigma": 5.9049,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_mu": 21.4033,
+      "prior_sigma": 4.7071,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_mu": 22.4269,
+      "prior_sigma": 5.4091,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_mu": 21.6885,
+      "prior_sigma": 3.8384,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Queven",
+      "path": "europe/france/normandybrittany/queven",
+      "prior_mu": 19.0643,
+      "prior_sigma": 4.8804,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bussy",
+      "path": "europe/france/around_paris/bussy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

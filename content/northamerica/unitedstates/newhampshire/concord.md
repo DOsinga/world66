@@ -5,6 +5,7 @@ latitude: 43.2081
 longitude: -71.5376
 title: Concord
 type: location
+score: 0.39
 ---
 
 Concord is the capital of New Hampshire — a compact, unhurried city of about 45,000 people on the Merrimack River. It earns its keep as a state capital rather than a tourist destination, but visitors find genuine rewards here: a striking golden-domed State House, a world-class collection of Shaker furniture, and easy access to the lakes and hills that make New Hampshire worth exploring.

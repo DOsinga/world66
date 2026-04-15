@@ -5,6 +5,7 @@ latitude: 38.975389
 longitude: 26.368424
 title: Plomari
 type: location
+score: 0.54
 ---
 
 Plomari is the ouzo capital of Greece, and it wears that title proudly. Several distilleries operate here, including the well-known Barbayiannis and the smaller Ouzo Giovanni, which still uses traditional copper pot stills. You can visit the factories, sample the goods, and learn why Plomari's anise spirit tastes different from the mass-produced stuff. The Barbayiannis Ouzo Museum on the main road is worth a stop even if you're not a drinker.

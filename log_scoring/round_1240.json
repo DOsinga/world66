@@ -1,0 +1,200 @@
+{
+  "round": 1240,
+  "timestamp": "2026-04-12T22:17:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shenzhen",
+      "path": "asia/china/shenzhen",
+      "prior_rank": 5721,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Alberta",
+      "path": "northamerica/canada/alberta",
+      "prior_rank": 2116,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_rank": 3572,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_rank": 4282,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_rank": 6651,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sandv\u00edk",
+      "path": "europe/faroeislands/suuroy/sandvk",
+      "prior_rank": 6981,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Uchhali",
+      "path": "asia/pakistan/soon_valley/uchhali",
+      "prior_rank": 4769,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_rank": 5878,
+      "prior_wins": 50,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_rank": 5943,
+      "prior_wins": 38,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_rank": 5796,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Fuerth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_rank": 3801,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_notting/buxton",
+      "prior_rank": 4011,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_rank": 4478,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_rank": 5285,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Montrose",
+      "path": "northamerica/unitedstates/texas/houston/montrose",
+      "prior_rank": 2720,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_rank": 3895,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_rank": 4257,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_rank": 5584,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_rank": 6812,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_rank": 5362,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_rank": 4692,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/srvr",
+      "prior_rank": 5142,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_rank": 5614,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_rank": 2909,
+      "prior_wins": 32,
+      "prior_n": 3
+    }
+  ]
+}

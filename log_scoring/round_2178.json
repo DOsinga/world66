@@ -1,0 +1,200 @@
+{
+  "round": 2178,
+  "timestamp": "2026-04-13T16:17:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/glastonbury",
+      "prior_score": 2.8253,
+      "prior_variance": 0.270056,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 4.6103,
+      "prior_variance": 0.323977,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_score": 6.7802,
+      "prior_variance": 0.376886,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_score": 5.3513,
+      "prior_variance": 0.260692,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_score": 5.7452,
+      "prior_variance": 0.280872,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 2.6553,
+      "prior_variance": 0.207547,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_score": 4.3414,
+      "prior_variance": 0.317685,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Koszeg",
+      "path": "europe/hungary/koszeg",
+      "prior_score": 0.4006,
+      "prior_variance": 0.221463,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -1.9264,
+      "prior_variance": 0.238303,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -1.6616,
+      "prior_variance": 0.264928,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_score": -2.4813,
+      "prior_variance": 0.248475,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -0.847,
+      "prior_variance": 0.21427,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Passu",
+      "path": "asia/pakistan/passu",
+      "prior_score": 0.9394,
+      "prior_variance": 0.289538,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -4.3544,
+      "prior_variance": 0.301049,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Jambi",
+      "path": "asia/indonesia/jambi",
+      "prior_score": -3.6291,
+      "prior_variance": 0.21683,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -5.2664,
+      "prior_variance": 0.354948,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Panipat",
+      "path": "asia/india/haryana/panipat",
+      "prior_score": -4.4053,
+      "prior_variance": 0.33894,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_score": -6.2438,
+      "prior_variance": 0.292955,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Paniqui",
+      "path": "asia/philippines/paniqui",
+      "prior_score": -5.7506,
+      "prior_variance": 0.267642,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "oras",
+      "path": "asia/india/maharashtra/oras",
+      "prior_score": -6.4613,
+      "prior_variance": 0.315903,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Briston",
+      "path": "europe/unitedkingdom/norfolk/briston",
+      "prior_score": -5.6319,
+      "prior_variance": 0.333211,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -6.6004,
+      "prior_variance": 0.374448,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sheikh",
+      "path": "africa/somaliland/sheikh",
+      "prior_score": -8.968,
+      "prior_variance": 0.297503,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -9.1531,
+      "prior_variance": 0.463381,
+      "prior_n": 6
+    }
+  ]
+}

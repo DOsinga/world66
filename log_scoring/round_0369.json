@@ -1,0 +1,200 @@
+{
+  "round": 369,
+  "timestamp": "2026-04-12T09:13:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_mu": 25.7723,
+      "prior_sigma": 6.1287,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_mu": 22.9536,
+      "prior_sigma": 5.5546,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Small Isles",
+      "path": "europe/unitedkingdom/scotland/small_isles",
+      "prior_mu": 22.7223,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_mu": 22.4432,
+      "prior_sigma": 5.9024,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Keratsini",
+      "path": "europe/greece/keratsini",
+      "prior_mu": 21.83,
+      "prior_sigma": 5.7032,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_mu": 21.8987,
+      "prior_sigma": 4.8324,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Orange Park",
+      "path": "northamerica/unitedstates/florida/orangepark",
+      "prior_mu": 22.4611,
+      "prior_sigma": 5.9185,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_mu": 17.7792,
+      "prior_sigma": 6.623,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Port harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

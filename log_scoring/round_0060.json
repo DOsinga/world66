@@ -1,0 +1,200 @@
+{
+  "round": 60,
+  "timestamp": "2026-04-11T19:26:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honshu",
+      "path": "asia/japan/honshu",
+      "prior_mu": 26.5,
+      "prior_sigma": 4.54,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_mu": 29.62,
+      "prior_sigma": 6.86,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_mu": 23.61,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_mu": 22.57,
+      "prior_sigma": 5.53,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_mu": 22.3,
+      "prior_sigma": 5.36,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_mu": 23.4,
+      "prior_sigma": 5.41,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_mu": 22.69,
+      "prior_sigma": 4.5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_mu": 22.0,
+      "prior_sigma": 4.36,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.69,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_mu": 21.28,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_mu": 21.15,
+      "prior_sigma": 4.28,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Blandford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford",
+      "prior_mu": 19.95,
+      "prior_sigma": 4.66,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Arno Atoll",
+      "path": "australiaandpacific/marshallislands/arnoatoll",
+      "prior_mu": 24.16,
+      "prior_sigma": 5.89,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_mu": 21.46,
+      "prior_sigma": 4.66,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_mu": 21.36,
+      "prior_sigma": 3.94,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_mu": 21.71,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "A perfect day",
+      "path": "europe/czechrepublic/prague/aperfectday",
+      "prior_mu": 16.71,
+      "prior_sigma": 4.92,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/kotli/tatta_pani",
+      "prior_mu": 15.84,
+      "prior_sigma": 4.88,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_mu": 18.16,
+      "prior_sigma": 6.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Yaziva",
+      "path": "northamerica/panama/dariengap/yaziva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Lubero",
+      "path": "africa/congokinshasa/lubero",
+      "prior_mu": 18.19,
+      "prior_sigma": 4.0,
+      "prior_n": 3
+    }
+  ]
+}

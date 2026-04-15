@@ -5,6 +5,7 @@ latitude: 53.6467
 longitude: -1.7822
 title: Huddersfield
 type: location
+score: 0.42
 ---
 
 Huddersfield is a compact West Yorkshire mill town sitting between Leeds and Manchester, with more character than its modest reputation suggests. The surrounding Pennine landscape is genuinely dramatic, and the town itself has some worthwhile sights that reward a half-day stop.

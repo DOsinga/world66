@@ -5,6 +5,7 @@ latitude: -3.9874
 longitude: 138.8773
 title: Baliem Valley
 type: location
+score: 0.56
 ---
 
 Home of the Dani people, the Baliem Valley is the prime destination in Papua. The valley was unknown to the outside world until 1938, when an American expedition flew over it and discovered a thriving agricultural civilization in the highlands. Today it remains one of the most extraordinary places you can visit in Indonesia.

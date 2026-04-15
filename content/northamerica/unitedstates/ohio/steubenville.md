@@ -5,6 +5,7 @@ latitude: 40.360071
 longitude: -80.615103
 done:
   location_cleanup: 2026-04-07
+score: 0.33
 ---
 
 Steubenville is a small city of about 20,000 people in eastern Ohio, on the banks of the Ohio River at the border with West Virginia. It is the seat of Jefferson County and best known as the "City of Murals" — a downtown outdoor gallery of over 25 giant historical murals painted on building walls, depicting scenes from the city's history. From May to October, artists can sometimes be seen at work on new panels. Guided tours and maps are available from the visitor bureau at 120 South Third Street.

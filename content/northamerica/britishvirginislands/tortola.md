@@ -5,6 +5,7 @@ latitude: 18.4316
 longitude: -64.6231
 done:
   location_cleanup: 2026-04-07
+score: 0.63
 ---
 
 Tortola is the largest of the British Virgin Islands and the territory's main hub. Road Town, on the southern coast, is the capital — a small, manageable Caribbean town with a main street of restaurants, shops, and a deep natural harbour busy with yachts and ferries. The island is hilly and green, with dramatic ridges running east-west and excellent beaches on both the north and south coasts.

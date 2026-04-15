@@ -1,0 +1,200 @@
+{
+  "round": 1996,
+  "timestamp": "2026-04-13T16:01:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cannes",
+      "path": "europe/france/midi/cotedazur/cannes",
+      "prior_score": 7.7935,
+      "prior_variance": 0.378049,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 8.5902,
+      "prior_variance": 0.431819,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Wye Valley",
+      "path": "europe/unitedkingdom/wales/wye_valley",
+      "prior_score": 3.5466,
+      "prior_variance": 0.258919,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Senglea (or L-lsla)",
+      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
+      "prior_score": 3.3499,
+      "prior_variance": 0.26847,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Niue",
+      "path": "australiaandpacific/niue",
+      "prior_score": 1.8086,
+      "prior_variance": 0.353804,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": 2.0138,
+      "prior_variance": 0.250536,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_score": 0.6553,
+      "prior_variance": 0.276243,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_score": 2.2729,
+      "prior_variance": 0.268586,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 1.4357,
+      "prior_variance": 0.27976,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/rochester",
+      "prior_score": 1.494,
+      "prior_variance": 0.271088,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_score": 2.4293,
+      "prior_variance": 0.257263,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cava dei Tirreni",
+      "path": "europe/italy/campania/cavadeitirreni",
+      "prior_score": 0.3628,
+      "prior_variance": 0.265989,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": 3.2308,
+      "prior_variance": 0.256533,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_score": -0.1889,
+      "prior_variance": 0.308005,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": 0.0626,
+      "prior_variance": 0.31075,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 1.8729,
+      "prior_variance": 0.208822,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": 0.772,
+      "prior_variance": 0.267694,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/ashburton",
+      "prior_score": -2.139,
+      "prior_variance": 0.299806,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": 1.009,
+      "prior_variance": 0.206186,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Mindanao island",
+      "path": "asia/philippines/mindanaoisland",
+      "prior_score": -1.115,
+      "prior_variance": 0.258272,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -2.3357,
+      "prior_variance": 0.238566,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": 0.5732,
+      "prior_variance": 0.273292,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": 0.0415,
+      "prior_variance": 0.30257,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_score": -9.4903,
+      "prior_variance": 0.483464,
+      "prior_n": 5
+    }
+  ]
+}

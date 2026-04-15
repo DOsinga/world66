@@ -5,6 +5,7 @@ latitude: -7.2306
 longitude: -35.8811
 title: Campina Grande
 type: location
+score: 0.41
 ---
 
 Campina Grande is the second-largest city in Paraíba state, sitting on a plateau in the dry interior of northeast Brazil. It is best known for its Festa Junina — the Maior São João do Mundo — held throughout June, which draws over a million visitors with forró dancing, bonfires, fireworks, and quadrilha processions. It is one of the largest folk festivals in Brazil and rivals Salvador's Carnival in sheer energy.

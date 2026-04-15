@@ -5,6 +5,7 @@ latitude: 51.1611
 longitude: 4.9903
 title: Geel
 type: location
+score: 0.37
 ---
 
 Geel is a town of about 40,000 people in the Kempen region of Antwerp province, known internationally for a remarkable tradition: since the Middle Ages, residents have taken people with mental illness into their homes as boarders, a form of community-based psychiatric care that predates modern deinstitutionalisation by centuries. The practice is linked to the legend of Saint Dymphna, an Irish princess said to have been martyred here in the 7th century and who became the patron saint of the mentally ill.

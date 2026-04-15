@@ -1,7 +1,10 @@
+anthropic
 Django==6.0.3
 Markdown
+numpy
 PyYAML
 python-frontmatter
+scipy
 uvicorn[standard]
 geopy
 httpx

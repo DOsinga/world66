@@ -1,14 +1,13 @@
 ---
 done:
-  location_cleanup: '2026-04-09'
-latitude: 51.748943
-longitude: -0.230333
+  location_cleanup: '2026-04-08'
+latitude: 51.833
+longitude: -1.6833
 title: Cotswolds
 type: location
+score: 0.72
 ---
 
-The Cotswolds is an area of gently rolling hills stitched together with dry-stone walls, hidden river valleys, and market towns built from the distinctive amber-coloured limestone that gives the whole region its warm, unified look. Towns like Winchcombe, Bibury, and Painswick have genuine medieval and Tudor character, though in high summer the most famous villages — Bourton-on-the-Water especially — can be so crowded as to be barely worth the effort.
+The Cotswolds is an area of gentle hills with dry-stone walls criss-crossing the landscape, hidden river valleys, and distinctive market towns and villages built from the famous honey-coloured Cotswold stone. Towns like Winchcombe, Bibury, and Painswick have a timeless charm that draws visitors from all over the world — sometimes too many visitors, in summer especially. If you want the Cotswolds to yourself, avoid Bourton-on-the-Water on a weekend and instead take to the footpaths. The best way to experience the region is on foot, hiking from village to village through rolling farmland and woodland.
 
-The best way to see the Cotswolds is on foot. The Cotswold Way runs 102 miles from Chipping Campden to Bath along the escarpment edge, with wide views west over the Severn Vale. Even a two-day stretch of it will show you the landscape at its best, well clear of the coach tour stops.
-
-Notable houses and gardens include Hidcote Manor (a benchmark Arts and Crafts garden), Painswick Rococo Garden, Westonbirt Arboretum, and Sudeley Castle, which was home to Catherine Parr, the wife who outlived Henry VIII. [Cheltenham](/europe/unitedkingdom/england/gloucestershire/cheltenham) is the obvious base if you want a town with good restaurants and hotels.
+The area is rich in historic houses and gardens. Hidcote Manor Garden is one of England's finest Arts and Crafts gardens, Sudeley Castle was home to Henry VIII's last queen Katherine Parr, and Westonbirt Arboretum contains one of the largest collections of trees and shrubs in the country. Batsford Arboretum, just outside Moreton-in-Marsh, is another excellent tree collection spread across 55 acres.

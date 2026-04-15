@@ -5,6 +5,7 @@ latitude: -37.997617
 longitude: -57.548208
 title: Mar del Plata
 type: location
+score: 0.54
 ---
 
 Mar del Plata is Argentina's biggest beach resort, a city of around 600,000 on the Atlantic coast some 400 kilometres south of Buenos Aires. For over a century it has been where porteños escape the summer heat — the 29 miles of coastline range from packed urban beaches with full resort infrastructure to quieter stretches backed by dunes.

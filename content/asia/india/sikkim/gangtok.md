@@ -5,6 +5,7 @@ latitude: 27.329
 longitude: 88.6123
 title: Gangtok
 type: location
+score: 0.66
 ---
 
 Gangtok, Sikkim's capital, is a surprisingly lively hill town perched at 1,650 metres in the Himalayan foothills. At first glance it has the noise and bustle of any Indian city, but a little further into town the setting takes over — prayer flags flutter between buildings, monasteries cling to ridges above, and on clear days the massive bulk of Kangchenjunga fills the northern horizon.

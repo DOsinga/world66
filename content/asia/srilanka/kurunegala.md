@@ -5,6 +5,7 @@ latitude: 7.487046
 longitude: 80.364908
 title: Kurunegala
 type: location
+score: 0.43
 ---
 
 Kurunegala is a mid-sized city in the North Western Province of Sri Lanka, about 100 kilometres north of Colombo. It was a medieval capital of the Sinhalese kingdom in the 13th and 14th centuries, and the large rocky outcrops that surround the town were given the names of animals — Elephant Rock, Tortoise Rock — that still serve as local landmarks.

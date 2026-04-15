@@ -5,6 +5,7 @@ latitude: 13.323803
 longitude: 144.737472
 title: Talofofo Falls
 type: location
+score: 0.48
 ---
 
 Talofofo Falls is a set of waterfalls in the Ugum River valley in southern [Guam](/australiaandpacific/guam), now part of a resort park. The main attraction is the two-tiered lower falls, which drop into a pool surrounded by dense tropical vegetation. A cable car takes visitors down into the valley.

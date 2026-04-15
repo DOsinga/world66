@@ -5,6 +5,7 @@ latitude: -41.317802
 longitude: -72.982907
 title: Puerto Varas
 type: location
+score: 0.62
 ---
 
 Puerto Varas is the prettiest town in Chile's Lake District, set on the western shore of Lago Llanquihue with the snow-capped cone of Volcán Osorno rising symmetrically across the water. On a clear day the view from the lakefront is one of the finest in South America, and it never quite gets old no matter how many times you walk along the shore.

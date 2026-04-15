@@ -1,0 +1,200 @@
+{
+  "round": 1522,
+  "timestamp": "2026-04-13T10:28:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_score": 6.2848,
+      "prior_variance": 0.409269,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 4.1138,
+      "prior_variance": 0.393827,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Aran islands",
+      "path": "europe/ireland/aranislands",
+      "prior_score": 4.9043,
+      "prior_variance": 0.372627,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/stowonthewold",
+      "prior_score": 4.8488,
+      "prior_variance": 0.371752,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 2.4548,
+      "prior_variance": 0.37261,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/hawkes_bay",
+      "prior_score": 3.7093,
+      "prior_variance": 0.314433,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 3.1813,
+      "prior_variance": 0.423569,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 2.5165,
+      "prior_variance": 0.378166,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 2.6899,
+      "prior_variance": 0.556176,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "St.George",
+      "path": "northamerica/saintvincentandthegrenadines/stgeorge",
+      "prior_score": -0.1019,
+      "prior_variance": 0.42976,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Gallipoli",
+      "path": "asia/turkey/canakkale/gallipoli",
+      "prior_score": 2.4509,
+      "prior_variance": 0.388784,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gernika",
+      "path": "europe/spain/northernspain/guernika",
+      "prior_score": 2.3313,
+      "prior_variance": 0.468096,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 1.867,
+      "prior_variance": 0.561578,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.2452,
+      "prior_variance": 0.294293,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Nainital",
+      "path": "asia/india/uttarpradesh/nainital",
+      "prior_score": 1.6618,
+      "prior_variance": 0.502992,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_score": 2.4675,
+      "prior_variance": 0.408496,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Telemark",
+      "path": "europe/norway/telemark",
+      "prior_score": 2.2632,
+      "prior_variance": 0.463618,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": 0.8259,
+      "prior_variance": 0.568099,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/richmond",
+      "prior_score": 0.5418,
+      "prior_variance": 0.361734,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": 1.644,
+      "prior_variance": 0.47796,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": 1.9031,
+      "prior_variance": 0.335277,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_score": 0.8999,
+      "prior_variance": 0.262455,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -0.5144,
+      "prior_variance": 0.588118,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Manihiki",
+      "path": "australiaandpacific/cookislands/manihiki",
+      "prior_score": -1.9564,
+      "prior_variance": 0.524003,
+      "prior_n": 4
+    }
+  ]
+}

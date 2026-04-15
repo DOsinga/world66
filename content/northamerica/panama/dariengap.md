@@ -5,6 +5,7 @@ latitude: 8.0833
 longitude: -77.5667
 done:
   location_cleanup: 2026-04-06
+score: 0.36
 ---
 
 The Darién Gap is the 100-km stretch of jungle, swamp, and mountain that interrupts the Pan-American Highway between Panama and Colombia — the only break in a road system that otherwise runs continuously from Alaska to Tierra del Fuego. No road has been built through it, and no serious proposal to build one has succeeded. The reasons are practical (extraordinary terrain and cost), environmental (the Gap is protected as Darién National Park, a UNESCO World Heritage Site), and epidemiological (the Gap has historically served as a barrier preventing foot-and-mouth disease from spreading north from South America into Central and North America).

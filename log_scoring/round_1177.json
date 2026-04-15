@@ -1,0 +1,200 @@
+{
+  "round": 1177,
+  "timestamp": "2026-04-12T22:13:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Tweed",
+      "path": "australiaandpacific/australia/newsouthwales/the_tweed",
+      "prior_rank": 5012,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_rank": 6639,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_rank": 5864,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_rank": 5835,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_rank": 5482,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_rank": 4050,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_rank": 3614,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_rank": 7234,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_rank": 4378,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_rank": 4771,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_rank": 5463,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_rank": 5345,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_rank": 4602,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/newhampshire/manchester",
+      "prior_rank": 6447,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Epalinges",
+      "path": "europe/switzerland/epalinges",
+      "prior_rank": 6916,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_rank": 7391,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_rank": 6412,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_rank": 5396,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_rank": 6678,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_rank": 5964,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Zenica",
+      "path": "europe/bosniaandherzegovina/zenica",
+      "prior_rank": 6405,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_rank": 7723,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Senaki",
+      "path": "europe/georgia/zugdidi/senaki",
+      "prior_rank": 7099,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_rank": 6871,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

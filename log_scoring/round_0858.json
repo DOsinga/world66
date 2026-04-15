@@ -1,0 +1,200 @@
+{
+  "round": 858,
+  "timestamp": "2026-04-12T14:45:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_score": 7.3729,
+      "prior_variance": 12.757783,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Grand Cayman",
+      "path": "northamerica/caymanislands/grandcayman",
+      "prior_score": 11.6542,
+      "prior_variance": 8.845247,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_score": 7.7137,
+      "prior_variance": 1.426641,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 7.4236,
+      "prior_variance": 1.47082,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Les Saintes",
+      "path": "northamerica/guadeloupe/lessaintes",
+      "prior_score": 7.0881,
+      "prior_variance": 2.447581,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 4.4919,
+      "prior_variance": 1.380952,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Santo Ant\u00e3o",
+      "path": "africa/capeverde/santo_antao",
+      "prior_score": 1.4739,
+      "prior_variance": 1.547757,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Isle Royale",
+      "path": "northamerica/unitedstates/michigan/isle_royale",
+      "prior_score": 4.7446,
+      "prior_variance": 1.952843,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Falkland Islands",
+      "path": "southamerica/falklandislands",
+      "prior_score": 4.8838,
+      "prior_variance": 3.078845,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_score": 0.9655,
+      "prior_variance": 1.368433,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": 3.7255,
+      "prior_variance": 1.328668,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -0.7977,
+      "prior_variance": 1.346307,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Paderborn",
+      "path": "europe/germany/paderborn",
+      "prior_score": -2.038,
+      "prior_variance": 1.264332,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_score": 4.5016,
+      "prior_variance": 1.61,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": 0.5867,
+      "prior_variance": 1.550848,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_score": 0.4142,
+      "prior_variance": 1.622604,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 3.7726,
+      "prior_variance": 1.560092,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Murialdo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
+      "prior_score": -3.0491,
+      "prior_variance": 1.616268,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/vancouver/burnaby",
+      "prior_score": -0.4126,
+      "prior_variance": 1.333654,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -2.2429,
+      "prior_variance": 1.621872,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kalaw",
+      "path": "asia/myanmar/kalaw",
+      "prior_score": 1.4109,
+      "prior_variance": 1.329965,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -4.8636,
+      "prior_variance": 1.582272,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -1.227,
+      "prior_variance": 1.265322,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -6.3029,
+      "prior_variance": 1.400398,
+      "prior_n": 1
+    }
+  ]
+}

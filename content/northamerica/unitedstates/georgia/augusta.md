@@ -5,6 +5,7 @@ latitude: 33.470971
 longitude: -81.974843
 title: Augusta
 type: location
+score: 0.44
 ---
 
 Augusta is best known internationally for the Masters golf tournament, held every April at the Augusta National Golf Club. During Masters week the city fills up completely and prices spike enormously; book months in advance if you're coming for the tournament. For the other 51 weeks, Augusta National is closed to the public — you can drive past on Washington Road, but there's no access.

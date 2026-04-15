@@ -11,6 +11,7 @@ latitude: 23.684994
 longitude: 90.356331
 title: Bangladesh
 type: location
+score: 0.31
 ---
 
 Bangladesh is one of the most densely populated countries on earth, a watery delta nation squeezed between India on three sides and Myanmar to the southeast, with the Bay of Bengal opening to the south. It is not an easy country to travel — the infrastructure is rough, traffic is chaotic, and the heat and humidity in summer are genuinely punishing — but travelers who come here find something they rarely expected: warmth, generosity, and landscapes of extraordinary beauty.

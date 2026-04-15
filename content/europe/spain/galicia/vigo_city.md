@@ -5,6 +5,7 @@ latitude: 42.2314
 longitude: -8.7227
 done:
   location_cleanup: 2026-04-07
+score: 0.56
 ---
 
 Vigo is the largest city in Galicia and one of the most important fishing ports in Europe, built around a deep bay that George Borrow, travelling through in the 1830s, called incomparable. The combination of natural harbour and maritime industry — fishing fleets, canneries, shipyards — drove its rapid growth from the late 19th century onwards, but the city has not lost the texture of its origins. The old Berbés fishing quarter, the hilltop Castro fortress, and the Pedra market where women still sell raw oysters from stone counters are all still there.

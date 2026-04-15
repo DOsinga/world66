@@ -1,0 +1,200 @@
+{
+  "round": 2215,
+  "timestamp": "2026-04-13T16:20:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sanya",
+      "path": "asia/china/hainanisland/sanya",
+      "prior_score": 2.1784,
+      "prior_variance": 0.24838,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kalahari Desert",
+      "path": "africa/botswana/kalaharidesert",
+      "prior_score": 1.2483,
+      "prior_variance": 0.25831,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_score": 2.7104,
+      "prior_variance": 0.274922,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/tigullio",
+      "prior_score": 3.2365,
+      "prior_variance": 0.370916,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.2805,
+      "prior_variance": 0.252448,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 0.4652,
+      "prior_variance": 0.253867,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 1.9968,
+      "prior_variance": 0.22445,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_score": -1.3007,
+      "prior_variance": 0.242916,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Cap-Ha\u00eftien",
+      "path": "northamerica/haiti/caphaitien",
+      "prior_score": -2.4491,
+      "prior_variance": 0.258906,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -2.2373,
+      "prior_variance": 0.276288,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -0.7083,
+      "prior_variance": 0.227251,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_score": -1.6618,
+      "prior_variance": 0.141564,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": 1.4143,
+      "prior_variance": 0.279462,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -1.5611,
+      "prior_variance": 0.217894,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Campoformido",
+      "path": "europe/italy/friuliveneziagiulia/campoformido",
+      "prior_score": -3.8324,
+      "prior_variance": 0.314133,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Manzanares",
+      "path": "europe/spain/la_mancha/manzanares",
+      "prior_score": -1.9992,
+      "prior_variance": 0.246926,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.674,
+      "prior_variance": 0.27812,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/indiana/bloomington",
+      "prior_score": -2.7485,
+      "prior_variance": 0.249413,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -1.5017,
+      "prior_variance": 0.229048,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Independence",
+      "path": "northamerica/unitedstates/missouri/independence",
+      "prior_score": -2.6147,
+      "prior_variance": 0.241144,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -3.0025,
+      "prior_variance": 0.275445,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -3.5952,
+      "prior_variance": 0.242386,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Netherton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/netherton",
+      "prior_score": -6.9747,
+      "prior_variance": 0.384454,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_score": -6.4866,
+      "prior_variance": 0.310342,
+      "prior_n": 5
+    }
+  ]
+}

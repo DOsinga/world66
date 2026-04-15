@@ -5,6 +5,7 @@ latitude: 35.5067
 longitude: -97.7625
 title: Yukon
 type: location
+score: 0.31
 ---
 
 Yukon is a small city of around 27,000 people on the western edge of the [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity) metro area, sitting squarely on historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m). For road-trippers driving the Mother Road, Yukon is a reliable stop with a couple of genuine Route 66 landmarks and a friendly, unhurried atmosphere.

@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Derzsi_Elekes_Ando
   title="User:Derzsi Elekes Andor">Derzsi Elekes Andor</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.44
 ---
 
 Located in central Europe, Hungary is bordered by Austria, Slovakia, Ukraine, Romania, Yugoslavia, Croatia and Slovenia. Apart from its quality wines and Baroque towns, its strategic location in the continent also attracts thousands of tourists to the country.

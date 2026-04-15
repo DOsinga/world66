@@ -1,0 +1,200 @@
+{
+  "round": 2250,
+  "timestamp": "2026-04-13T16:24:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_score": 7.8187,
+      "prior_variance": 0.460517,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/windsor",
+      "prior_score": 4.4602,
+      "prior_variance": 0.216418,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 1.4624,
+      "prior_variance": 0.428166,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 3.4442,
+      "prior_variance": 0.251142,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_score": 2.5259,
+      "prior_variance": 0.24552,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": 1.5818,
+      "prior_variance": 0.219275,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_score": 4.4957,
+      "prior_variance": 0.258837,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 3.0467,
+      "prior_variance": 0.272513,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 1.1461,
+      "prior_variance": 0.214743,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": -0.5392,
+      "prior_variance": 0.21417,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -1.4281,
+      "prior_variance": 0.327074,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "O Ribeiro Valley",
+      "path": "europe/spain/galicia/o__ribeiro_valley",
+      "prior_score": -0.051,
+      "prior_variance": 0.223891,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": 0.4518,
+      "prior_variance": 0.271386,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
+      "prior_score": 0.9641,
+      "prior_variance": 0.227752,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -0.511,
+      "prior_variance": 0.261865,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -0.4675,
+      "prior_variance": 0.136432,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_score": -1.1467,
+      "prior_variance": 0.218776,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -3.9697,
+      "prior_variance": 0.370758,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -0.4787,
+      "prior_variance": 0.18552,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.1194,
+      "prior_variance": 0.232798,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_score": -2.882,
+      "prior_variance": 0.231483,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Kotayk Marz",
+      "path": "europe/armenia/kotayk_marz",
+      "prior_score": -2.8362,
+      "prior_variance": 0.230275,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Ikast",
+      "path": "europe/denmark/ikast",
+      "prior_score": -2.7839,
+      "prior_variance": 0.228576,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "al khasra",
+      "path": "asia/oman/alkhuwair/al_khasra",
+      "prior_score": -8.9877,
+      "prior_variance": 0.42159,
+      "prior_n": 5
+    }
+  ]
+}

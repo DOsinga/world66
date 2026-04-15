@@ -5,6 +5,7 @@ latitude: 23.694066
 longitude: -15.943127
 title: Dakhla
 type: location
+score: 0.47
 ---
 
 About 550 km south of [El Ayoune](/africa/morocco/elayoune) on the Atlantic coast, Dakhla (ed-Dakhla) sits on a long peninsula jutting into the ocean. A former Spanish outpost, it has reinvented itself in recent years as a world-class destination for kitesurfing and windsurfing — the shallow lagoon on the peninsula’s inner side offers flat water and steady trade winds almost year-round.

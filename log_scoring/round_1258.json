@@ -1,0 +1,200 @@
+{
+  "round": 1258,
+  "timestamp": "2026-04-12T22:18:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Israel",
+      "path": "asia/israel",
+      "prior_rank": 2628,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_rank": 2536,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_rank": 2538,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_rank": 2738,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_rank": 1173,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_rank": 2147,
+      "prior_wins": 76,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Albania",
+      "path": "europe/albania",
+      "prior_rank": 2182,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_rank": 2074,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Basse-Terre",
+      "path": "northamerica/guadeloupe/basseterre",
+      "prior_rank": 926,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/galicia/lacoruna",
+      "prior_rank": 2302,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_rank": 2318,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_rank": 2298,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_rank": 1094,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_rank": 487,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_rank": 2520,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_rank": 1288,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Elduvik",
+      "path": "europe/faroeislands/eysturoy/elduvik",
+      "prior_rank": 3325,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_rank": 3622,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_rank": 3085,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_rank": 3315,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_rank": 5710,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Murcia",
+      "path": "europe/spain/murcia",
+      "prior_rank": 1746,
+      "prior_wins": 80,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_rank": 2051,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_rank": 3902,
+      "prior_wins": 23,
+      "prior_n": 2
+    }
+  ]
+}

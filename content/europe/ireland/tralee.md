@@ -1,6 +1,7 @@
 ---
-title: "Tralee"
+title: Tralee
 type: location
 latitude: 52.269212
 longitude: -9.705705
+score: 0.5
 ---

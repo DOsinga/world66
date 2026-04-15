@@ -5,6 +5,7 @@ latitude: 38.5156
 longitude: 48.8283
 title: Astara
 type: location
+score: 0.36
 ---
 
 Astara is a small Caspian port town on Azerbaijan's southern border with Iran, 240 km south of Baku. It sits near the Talysh mountains with rice fields stretching in every direction, and its sandy beaches offer cleaner water than the polluted shores around the Absheron peninsula.

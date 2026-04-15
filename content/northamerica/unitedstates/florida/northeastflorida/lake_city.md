@@ -5,6 +5,7 @@ latitude: 30.189425
 longitude: -82.63948
 title: Lake City
 type: location
+score: 0.31
 ---
 
 Lake City sits at the junction of I-10 and I-75 in north Florida, a practical stop and a reasonable base for the spring-fed rivers and forests of the region. The town itself is modest — its past as a farming community is still visible — but the surrounding area has real attractions.

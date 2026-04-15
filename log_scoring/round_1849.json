@@ -1,0 +1,200 @@
+{
+  "round": 1849,
+  "timestamp": "2026-04-13T10:57:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 8.7229,
+      "prior_variance": 0.470731,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 6.6815,
+      "prior_variance": 0.424313,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chambord",
+      "path": "europe/france/centre/loirevalley/chambord",
+      "prior_score": 6.8453,
+      "prior_variance": 0.505437,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_score": 8.9049,
+      "prior_variance": 0.443561,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_score": 1.9578,
+      "prior_variance": 0.229887,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 4.9223,
+      "prior_variance": 0.484325,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "The Palouse",
+      "path": "northamerica/unitedstates/washington/the_palouse",
+      "prior_score": 0.8757,
+      "prior_variance": 0.287065,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_score": 4.2032,
+      "prior_variance": 0.330665,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.2122,
+      "prior_variance": 0.227483,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 1.3654,
+      "prior_variance": 0.375274,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_score": -1.2741,
+      "prior_variance": 0.260816,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tajikistan",
+      "path": "asia/tajikistan",
+      "prior_score": -1.3891,
+      "prior_variance": 0.439318,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -2.4101,
+      "prior_variance": 0.390919,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 1.9202,
+      "prior_variance": 0.310773,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 1.3056,
+      "prior_variance": 0.25129,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -0.1766,
+      "prior_variance": 0.303868,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": 0.7305,
+      "prior_variance": 0.304212,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": 1.2751,
+      "prior_variance": 0.248117,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -1.9062,
+      "prior_variance": 0.336857,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -4.0333,
+      "prior_variance": 0.335222,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Calamba",
+      "path": "asia/philippines/calamba",
+      "prior_score": -1.9757,
+      "prior_variance": 0.39069,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_score": -4.7553,
+      "prior_variance": 0.281305,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -4.2752,
+      "prior_variance": 0.333419,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -8.46,
+      "prior_variance": 0.663916,
+      "prior_n": 4
+    }
+  ]
+}

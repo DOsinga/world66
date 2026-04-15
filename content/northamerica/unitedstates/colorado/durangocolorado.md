@@ -5,6 +5,7 @@ latitude: 37.272053
 longitude: -107.882512
 title: Durango
 type: location
+score: 0.57
 ---
 
 Durango is a mountain town in the San Juan Mountains of southwestern Colorado, sitting at 6,512 feet where the Animas River cuts through a broad valley. Founded in 1880 as a railroad hub for the mining camps further up in the mountains, it still has that frontier energy — a place where people come to do things outdoors and talk about it over good beer afterward.

@@ -5,6 +5,7 @@ latitude: 42.439172
 longitude: -76.505061
 title: Ithaca
 type: location
+score: 0.54
 ---
 
 Ithaca sits at the southern tip of Cayuga Lake in the Finger Lakes region of upstate New York. It's a college town shaped by Cornell University — an Ivy League campus perched on hills above the city — and Ithaca College. That student presence keeps the food scene lively, the politics progressive, and the bookshops well stocked.

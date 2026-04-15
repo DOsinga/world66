@@ -5,6 +5,7 @@ latitude: 33.4255
 longitude: -111.94
 title: Tempe
 type: location
+score: 0.4
 ---
 
 Tempe is a city in the Phoenix metropolitan area of [Arizona](/northamerica/unitedstates/arizona), home to Arizona State University and Tempe Town Lake — a two-mile reservoir created by damming the Salt River bed that has become the centrepiece of the city's revitalised downtown.

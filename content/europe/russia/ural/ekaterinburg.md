@@ -5,6 +5,7 @@ latitude: 56.838207
 longitude: 60.600789
 done:
   location_cleanup: 2026-04-07
+score: 0.45
 ---
 
 Ekaterinburg is where [Europe](/europe) ends and [Asia](/asia) begins -- literally. Russia's fourth-largest city straddles the [Ural](/europe/russia/ural) Mountains, and about 40 km west of the centre you can stand with one foot on each continent. But the city itself is the real draw: a gritty, confident metropolis with a dark history, striking architecture, and more energy than you would expect from a place that was closed to foreigners until 1990.

@@ -5,6 +5,7 @@ latitude: 43.071195
 longitude: 12.614667
 title: Assisi
 type: location
+score: 0.71
 ---
 
 Assisi sits on the sun-baked slopes of Monte Subasio in the green heart of Umbria, a medieval hill town that has drawn pilgrims since the thirteenth century. It is the birthplace of St. Francis (1181 or 1182) and Santa Chiara, and peace remains a defining quality — something you feel in the quiet stone streets and the unhurried rhythm of the place.

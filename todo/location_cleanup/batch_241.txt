@@ -1,50 +1,50 @@
-asia/indonesia/java  # 12 children, from batch_001.txt
-northamerica/unitedstates/texas  # 12 children, from batch_001.txt
-europe/hungary/budapest  # 12 children, from batch_001.txt
-australiaandpacific/australia/newsouthwales  # 12 children, from batch_001.txt
-europe/unitedkingdom/wales  # 12 children, from batch_004.txt
-europe/italy/campania  # 11 children, from batch_000.txt
-europe/germany/badenwrttemberg  # 11 children, from batch_000.txt
-northamerica/unitedstates/georgia  # 11 children, from batch_000.txt
-europe/unitedkingdom/england/manchester_liverp  # 11 children, from batch_001.txt
-southamerica/brazil/riodejaneiro  # 11 children, from batch_001.txt
-europe/unitedkingdom/england/bristol_plymouth  # 11 children, from batch_001.txt
-northamerica/canada/quebec/montreal  # 11 children, from batch_001.txt
-australiaandpacific/australia/victoria  # 11 children, from batch_001.txt
-europe/italy/sicily  # 11 children, from batch_001.txt
-europe/austria/vienna  # 11 children, from batch_002.txt
-asia/japan/tokyo  # 11 children, from batch_002.txt
-northamerica/canada/ontario/toronto  # 11 children, from batch_002.txt
-asia/india/uttarpradesh  # 11 children, from batch_002.txt
-europe/italy/tuscany/florence  # 11 children, from batch_003.txt
-northamerica/unitedstates/california/orangecounty  # 11 children, from batch_005.txt
-northamerica/unitedstates/california/shastacascade  # 11 children, from batch_017.txt
-asia/turkey/istanbul  # 10 children, from batch_000.txt
-europe/france/midi/languedoc  # 10 children, from batch_000.txt
-europe/france/paris  # 10 children, from batch_000.txt
-northamerica/unitedstates/massachusetts  # 10 children, from batch_001.txt
-northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco  # 10 children, from batch_001.txt
-northamerica/unitedstates/newmexico  # 10 children, from batch_001.txt
-europe/italy/lazio/rome  # 10 children, from batch_001.txt
-northamerica/mexico/yucatan  # 10 children, from batch_002.txt
-asia/india/maharashtra/mumbai  # 10 children, from batch_002.txt
-asia/india/maharashtra/konkan  # 10 children, from batch_003.txt
-northamerica/unitedstates/california/centralcoast  # 10 children, from batch_003.txt
-asia/india/uttaranchal  # 10 children, from batch_003.txt
-northamerica/unitedstates/california/centralvalley  # 10 children, from batch_003.txt
-europe/spain/centralspain  # 10 children, from batch_005.txt
-northamerica/unitedstates/montana  # 10 children, from batch_005.txt
-asia/china/hongkong  # 9 children, from batch_000.txt
-europe/italy/lazio  # 9 children, from batch_000.txt
-europe/portugal/algarve  # 9 children, from batch_001.txt
-asia/india/maharashtra/pune  # 9 children, from batch_001.txt
-northamerica/unitedstates/pennsylvania  # 9 children, from batch_001.txt
-europe/france/alpes  # 9 children, from batch_001.txt
-europe/france/nord  # 9 children, from batch_001.txt
-africa/morocco/marrakesh  # 9 children, from batch_002.txt
-europe/portugal/lisbon  # 9 children, from batch_002.txt
-northamerica/unitedstates/washington  # 9 children, from batch_002.txt
-northamerica/unitedstates/nevada/lasvegas  # 9 children, from batch_002.txt
-northamerica/canada/alberta/calgary  # 9 children, from batch_002.txt
-asia/pakistan/karachi  # 9 children, from batch_002.txt
-europe/ireland/cork  # 9 children, from batch_003.txt
+asia/indonesia/java
+northamerica/unitedstates/texas
+europe/hungary/budapest
+australiaandpacific/australia/newsouthwales
+europe/unitedkingdom/wales
+europe/italy/campania
+europe/germany/badenwrttemberg
+northamerica/unitedstates/georgia
+europe/unitedkingdom/england/manchester_liverp
+southamerica/brazil/riodejaneiro
+europe/unitedkingdom/england/bristol_plymouth
+northamerica/canada/quebec/montreal
+australiaandpacific/australia/victoria
+europe/italy/sicily
+europe/austria/vienna
+asia/japan/tokyo
+northamerica/canada/ontario/toronto
+asia/india/uttarpradesh
+europe/italy/tuscany/florence
+northamerica/unitedstates/california/orangecounty
+northamerica/unitedstates/california/shastacascade
+asia/turkey/istanbul
+europe/france/midi/languedoc
+europe/france/paris
+northamerica/unitedstates/massachusetts
+northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco
+northamerica/unitedstates/newmexico
+europe/italy/lazio/rome
+northamerica/mexico/yucatan
+asia/india/maharashtra/mumbai
+asia/india/maharashtra/konkan
+northamerica/unitedstates/california/centralcoast
+asia/india/uttaranchal
+northamerica/unitedstates/california/centralvalley
+europe/spain/centralspain
+northamerica/unitedstates/montana
+asia/china/hongkong
+europe/italy/lazio
+europe/portugal/algarve
+asia/india/maharashtra/pune
+northamerica/unitedstates/pennsylvania
+europe/france/alpes
+europe/france/nord
+africa/morocco/marrakesh
+europe/portugal/lisbon
+northamerica/unitedstates/washington
+northamerica/unitedstates/nevada/lasvegas
+northamerica/canada/alberta/calgary
+asia/pakistan/karachi
+europe/ireland/cork

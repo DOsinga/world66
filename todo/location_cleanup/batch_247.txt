@@ -1,50 +1,50 @@
-northamerica/unitedstates/newmexico/albuquerque  # 3 children, from batch_010.txt
-europe/ireland/aranislands/inismeain  # 3 children, from batch_010.txt
-asia/philippines/dagupancity  # 3 children, from batch_010.txt
-europe/romania/bucharest  # 3 children, from batch_010.txt
-southamerica/colombia/sanandresandprovidencia/sanandres  # 3 children, from batch_010.txt
-asia/jordan/petra  # 3 children, from batch_010.txt
-europe/germany/brandenburg  # 3 children, from batch_010.txt
-northamerica/unitedstates/kentucky  # 3 children, from batch_011.txt
-asia/india/karnataka/agumbe  # 3 children, from batch_011.txt
-europe/france/midi/pyrenees  # 3 children, from batch_011.txt
-asia/vietnam/hue  # 3 children, from batch_011.txt
-europe/greece/mykonos  # 3 children, from batch_011.txt
-europe/portugal/pvoa_de_varzim  # 3 children, from batch_011.txt
-europe/spain/la_mancha  # 3 children, from batch_011.txt
-europe/spain/spanishcostas/valencia  # 3 children, from batch_011.txt
-northamerica/canada/nunavut  # 3 children, from batch_011.txt
-northamerica/unitedstates/washington/seattle  # 3 children, from batch_012.txt
-australiaandpacific/newzealand/auckland_region/auckland  # 3 children, from batch_012.txt
-europe/unitedkingdom/scotland/glasgow  # 3 children, from batch_012.txt
-europe/spain/galicia/vigo  # 3 children, from batch_012.txt
-europe/netherlands/thehague  # 3 children, from batch_012.txt
-europe/france/midi/dordogne  # 3 children, from batch_012.txt
-asia/philippines/calbayog  # 3 children, from batch_012.txt
-europe/spain/andalucia/nerja  # 3 children, from batch_012.txt
-asia/indonesia/java/yogyakarta  # 3 children, from batch_012.txt
-europe/spain/balearicislands/ibiza/ibizatown  # 3 children, from batch_012.txt
-europe/azerbaijan/baku  # 3 children, from batch_012.txt
-northamerica/unitedstates/connecticut  # 3 children, from batch_013.txt
-northamerica/canada/quebec/quebeccity  # 3 children, from batch_013.txt
-northamerica/unitedstates/florida/tampabayarea  # 3 children, from batch_013.txt
-europe/unitedkingdom/northernireland/belfast  # 3 children, from batch_013.txt
-europe/france/east/alsace  # 3 children, from batch_013.txt
-europe/belgium/ghent  # 3 children, from batch_013.txt
-northamerica/unitedstates/alabama/florence  # 3 children, from batch_013.txt
-asia/pakistan/sargodha  # 3 children, from batch_013.txt
-asia/cyprus/northerncyprus  # 3 children, from batch_013.txt
-australiaandpacific/australia/westernaustralia/perth  # 3 children, from batch_013.txt
-africa/morocco/taza  # 3 children, from batch_013.txt
-europe/norway/hurtigruten  # 3 children, from batch_014.txt
-europe/germany/badenwrttemberg/freiburg  # 3 children, from batch_014.txt
-asia/indonesia/sulawesi  # 3 children, from batch_014.txt
-southamerica/ecuador/guayaquil  # 3 children, from batch_014.txt
-southamerica/ecuador/quito  # 3 children, from batch_014.txt
-northamerica/unitedstates/utah/saltlakecity  # 3 children, from batch_014.txt
-europe/unitedkingdom/england/newcastle_and_nort  # 3 children, from batch_014.txt
-africa/morocco/errachidia  # 3 children, from batch_014.txt
-europe/unitedkingdom/england/bristol_plymouth/gloucestershire  # 3 children, from batch_014.txt
-europe/france/east/lorraine  # 3 children, from batch_014.txt
-europe/portugal/viladoconde  # 3 children, from batch_014.txt
-europe/belgium/liege  # 3 children, from batch_015.txt
+northamerica/unitedstates/newmexico/albuquerque
+europe/ireland/aranislands/inismeain
+asia/philippines/dagupancity
+europe/romania/bucharest
+southamerica/colombia/sanandresandprovidencia/sanandres
+asia/jordan/petra
+europe/germany/brandenburg
+northamerica/unitedstates/kentucky
+asia/india/karnataka/agumbe
+europe/france/midi/pyrenees
+asia/vietnam/hue
+europe/greece/mykonos
+europe/portugal/pvoa_de_varzim
+europe/spain/la_mancha
+europe/spain/spanishcostas/valencia
+northamerica/canada/nunavut
+northamerica/unitedstates/washington/seattle
+australiaandpacific/newzealand/auckland_region/auckland
+europe/unitedkingdom/scotland/glasgow
+europe/spain/galicia/vigo
+europe/netherlands/thehague
+europe/france/midi/dordogne
+asia/philippines/calbayog
+europe/spain/andalucia/nerja
+asia/indonesia/java/yogyakarta
+europe/spain/balearicislands/ibiza/ibizatown
+europe/azerbaijan/baku
+northamerica/unitedstates/connecticut
+northamerica/canada/quebec/quebeccity
+northamerica/unitedstates/florida/tampabayarea
+europe/unitedkingdom/northernireland/belfast
+europe/france/east/alsace
+europe/belgium/ghent
+northamerica/unitedstates/alabama/florence
+asia/pakistan/sargodha
+asia/cyprus/northerncyprus
+australiaandpacific/australia/westernaustralia/perth
+africa/morocco/taza
+europe/norway/hurtigruten
+europe/germany/badenwrttemberg/freiburg
+asia/indonesia/sulawesi
+southamerica/ecuador/guayaquil
+southamerica/ecuador/quito
+northamerica/unitedstates/utah/saltlakecity
+europe/unitedkingdom/england/newcastle_and_nort
+africa/morocco/errachidia
+europe/unitedkingdom/england/bristol_plymouth/gloucestershire
+europe/france/east/lorraine
+europe/portugal/viladoconde
+europe/belgium/liege

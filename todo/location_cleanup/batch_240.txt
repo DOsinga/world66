@@ -1,50 +1,50 @@
-northamerica/unitedstates/california  # 44 children, from batch_000.txt
-northamerica/unitedstates/florida  # 39 children, from batch_000.txt
-europe/unitedkingdom/scotland  # 36 children, from batch_000.txt
-asia/india/andhrapradesh  # 34 children, from batch_000.txt
-europe/italy/liguria  # 32 children, from batch_000.txt
-northamerica/unitedstates/newyorkstate  # 32 children, from batch_000.txt
-asia/india/maharashtra  # 31 children, from batch_000.txt
-europe/unitedkingdom/england  # 30 children, from batch_000.txt
-europe/spain/galicia  # 27 children, from batch_000.txt
-europe/spain/andalucia  # 26 children, from batch_000.txt
-northamerica/unitedstates/california/losangeles  # 26 children, from batch_000.txt
-asia/india/orissa  # 23 children, from batch_001.txt
-asia/india/himachalpradesh  # 22 children, from batch_001.txt
-asia/pakistan/azad_kashmir  # 22 children, from batch_001.txt
-europe/italy/tuscany  # 21 children, from batch_000.txt
-northamerica/canada/ontario  # 21 children, from batch_000.txt
-asia/india/kerala  # 20 children, from batch_001.txt
-australiaandpacific/australia/queensland  # 20 children, from batch_002.txt
-europe/germany/berlin  # 19 children, from batch_000.txt
-northamerica/canada/britishcolumbia  # 19 children, from batch_000.txt
-asia/japan/honshu  # 19 children, from batch_001.txt
-northamerica/unitedstates/arizona  # 18 children, from batch_000.txt
-asia/india/karnataka  # 18 children, from batch_000.txt
-asia/india/tamilnadu  # 18 children, from batch_000.txt
-asia/india/gujarat  # 17 children, from batch_001.txt
-asia/india/rajasthan  # 17 children, from batch_001.txt
-europe/netherlands/amsterdam  # 16 children, from batch_000.txt
-asia/pakistan/dera_ghazi_khan  # 16 children, from batch_004.txt
-africa/egypt/cairo  # 15 children, from batch_000.txt
-northamerica/unitedstates/newyorkstate/newyork  # 15 children, from batch_000.txt
-northamerica/unitedstates/california/sandiego  # 15 children, from batch_003.txt
-europe/italy/veneto  # 14 children, from batch_000.txt
-europe/italy/lombardia/bergamo  # 14 children, from batch_000.txt
-asia/india/jammuandkashmir  # 14 children, from batch_000.txt
-northamerica/canada/britishcolumbia/vancouver  # 14 children, from batch_002.txt
-europe/italy/veneto/venice  # 14 children, from batch_002.txt
-northamerica/unitedstates/california/northcoast  # 14 children, from batch_008.txt
-europe/spain/catalonia  # 13 children, from batch_000.txt
-europe/germany/bavaria  # 13 children, from batch_000.txt
-europe/italy/liguria/italianriviera  # 13 children, from batch_000.txt
-africa/egypt/hurghada  # 13 children, from batch_000.txt
-australiaandpacific/australia/tasmania  # 13 children, from batch_002.txt
-europe/unitedkingdom/england/leeds_sheffield_a  # 13 children, from batch_002.txt
-northamerica/unitedstates/newjersey  # 13 children, from batch_002.txt
-asia/thailand/phuket  # 13 children, from batch_004.txt
-europe/france/midi  # 12 children, from batch_000.txt
-northamerica/canada/alberta  # 12 children, from batch_000.txt
-europe/unitedkingdom/england/london  # 12 children, from batch_000.txt
-europe/spain/catalonia/barcelona  # 12 children, from batch_001.txt
-northamerica/unitedstates/alabama  # 12 children, from batch_001.txt
+northamerica/unitedstates/california
+northamerica/unitedstates/florida
+europe/unitedkingdom/scotland
+asia/india/andhrapradesh
+europe/italy/liguria
+northamerica/unitedstates/newyorkstate
+asia/india/maharashtra
+europe/unitedkingdom/england
+europe/spain/galicia
+europe/spain/andalucia
+northamerica/unitedstates/california/losangeles
+asia/india/orissa
+asia/india/himachalpradesh
+asia/pakistan/azad_kashmir
+europe/italy/tuscany
+northamerica/canada/ontario
+asia/india/kerala
+australiaandpacific/australia/queensland
+europe/germany/berlin
+northamerica/canada/britishcolumbia
+asia/japan/honshu
+northamerica/unitedstates/arizona
+asia/india/karnataka
+asia/india/tamilnadu
+asia/india/gujarat
+asia/india/rajasthan
+europe/netherlands/amsterdam
+asia/pakistan/dera_ghazi_khan
+africa/egypt/cairo
+northamerica/unitedstates/newyorkstate/newyork
+northamerica/unitedstates/california/sandiego
+europe/italy/veneto
+europe/italy/lombardia/bergamo
+asia/india/jammuandkashmir
+northamerica/canada/britishcolumbia/vancouver
+europe/italy/veneto/venice
+northamerica/unitedstates/california/northcoast
+europe/spain/catalonia
+europe/germany/bavaria
+europe/italy/liguria/italianriviera
+africa/egypt/hurghada
+australiaandpacific/australia/tasmania
+europe/unitedkingdom/england/leeds_sheffield_a
+northamerica/unitedstates/newjersey
+asia/thailand/phuket
+europe/france/midi
+northamerica/canada/alberta
+europe/unitedkingdom/england/london
+europe/spain/catalonia/barcelona
+northamerica/unitedstates/alabama

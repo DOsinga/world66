@@ -1,4 +1,4 @@
-africa/togo/kara  # 3 children, from batch_029.txt
-northamerica/unitedstates/arkansas/hotsprings  # 3 children, from batch_032.txt
-europe/france/normandybrittany/honfleur  # 3 children, from batch_036.txt
-asia/pakistan/pakpattan  # 3 children, from batch_054.txt
+africa/togo/kara
+northamerica/unitedstates/arkansas/hotsprings
+europe/france/normandybrittany/honfleur
+asia/pakistan/pakpattan

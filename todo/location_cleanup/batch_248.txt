@@ -1,50 +1,50 @@
-europe/unitedkingdom/england/bristol_plymouth/bristol  # 3 children, from batch_015.txt
-europe/spain/andalucia/marbella  # 3 children, from batch_015.txt
-africa/senegal/dakar  # 3 children, from batch_015.txt
-asia/china/tianjin  # 3 children, from batch_015.txt
-australiaandpacific/australia/southaustralia/adelaide  # 3 children, from batch_016.txt
-asia/israel/jerusalem  # 3 children, from batch_016.txt
-asia/india/rajasthan/jaipur  # 3 children, from batch_016.txt
-africa/namibia/windhoek  # 3 children, from batch_016.txt
-northamerica/unitedstates/nevada/reno  # 3 children, from batch_016.txt
-southamerica/peru/northern_pacific_t/jan  # 3 children, from batch_016.txt
-northamerica/unitedstates/arizona/yuma  # 3 children, from batch_016.txt
-asia/pakistan/nowshera/kheshgi  # 3 children, from batch_016.txt
-australiaandpacific/newzealand/otago/queenstown  # 3 children, from batch_016.txt
-europe/unitedkingdom/england/south_east/brighton  # 3 children, from batch_016.txt
-australiaandpacific/fiji/vitilevu  # 3 children, from batch_016.txt
-asia/china/shenzhen  # 3 children, from batch_017.txt
-europe/croatia/korcula  # 3 children, from batch_017.txt
-africa/morocco/zagora  # 3 children, from batch_017.txt
-europe/france/around_paris  # 3 children, from batch_017.txt
-europe/spain/aragon/zaragoza  # 3 children, from batch_018.txt
-europe/spain/canaryislands/crancanaria  # 3 children, from batch_018.txt
-europe/spain/spanishcostas/murcia  # 3 children, from batch_018.txt
-northamerica/canada/saskatchewan/regina  # 3 children, from batch_018.txt
-europe/channelislands/jersey  # 3 children, from batch_018.txt
-asia/myanmar/mandalay  # 3 children, from batch_018.txt
-asia/india/maharashtra/nashik  # 3 children, from batch_019.txt
-europe/austria/wels  # 3 children, from batch_019.txt
-europe/germany/saxonyanhalt  # 3 children, from batch_019.txt
-europe/switzerland/basel  # 3 children, from batch_020.txt
-europe/netherlands/ijmuiden  # 3 children, from batch_020.txt
-europe/portugal/castelo_branco  # 3 children, from batch_021.txt
-asia/china/nanjing  # 3 children, from batch_021.txt
-asia/japan/honshu/nagoya  # 3 children, from batch_021.txt
-asia/thailand/phitsanulok  # 3 children, from batch_022.txt
-europe/portugal/sintra  # 3 children, from batch_022.txt
-australiaandpacific/newzealand/south_island  # 3 children, from batch_022.txt
-europe/unitedkingdom/wales/swansea  # 3 children, from batch_023.txt
-asia/india/kerala/kochi  # 3 children, from batch_023.txt
-europe/greece/zakinthos  # 3 children, from batch_023.txt
-asia/japan/tokyo/shibuya  # 3 children, from batch_023.txt
-europe/ireland/kilkenny  # 3 children, from batch_025.txt
-asia/pakistan/gujrat  # 3 children, from batch_026.txt
-asia/india/orissa/berhampur  # 3 children, from batch_026.txt
-africa/burkinafaso/ouagadougou  # 3 children, from batch_027.txt
-northamerica/belize/belmopan  # 3 children, from batch_027.txt
-asia/bahrain/manama  # 3 children, from batch_028.txt
-africa/algeria/oran  # 3 children, from batch_028.txt
-asia/philippines/tagumcity  # 3 children, from batch_028.txt
-australiaandpacific/newcaledonia/noumea  # 3 children, from batch_028.txt
-europe/greece/kos  # 3 children, from batch_029.txt
+europe/unitedkingdom/england/bristol_plymouth/bristol
+europe/spain/andalucia/marbella
+africa/senegal/dakar
+asia/china/tianjin
+australiaandpacific/australia/southaustralia/adelaide
+asia/israel/jerusalem
+asia/india/rajasthan/jaipur
+africa/namibia/windhoek
+northamerica/unitedstates/nevada/reno
+southamerica/peru/northern_pacific_t/jan
+northamerica/unitedstates/arizona/yuma
+asia/pakistan/nowshera/kheshgi
+australiaandpacific/newzealand/otago/queenstown
+europe/unitedkingdom/england/south_east/brighton
+australiaandpacific/fiji/vitilevu
+asia/china/shenzhen
+europe/croatia/korcula
+africa/morocco/zagora
+europe/france/around_paris
+europe/spain/aragon/zaragoza
+europe/spain/canaryislands/crancanaria
+europe/spain/spanishcostas/murcia
+northamerica/canada/saskatchewan/regina
+europe/channelislands/jersey
+asia/myanmar/mandalay
+asia/india/maharashtra/nashik
+europe/austria/wels
+europe/germany/saxonyanhalt
+europe/switzerland/basel
+europe/netherlands/ijmuiden
+europe/portugal/castelo_branco
+asia/china/nanjing
+asia/japan/honshu/nagoya
+asia/thailand/phitsanulok
+europe/portugal/sintra
+australiaandpacific/newzealand/south_island
+europe/unitedkingdom/wales/swansea
+asia/india/kerala/kochi
+europe/greece/zakinthos
+asia/japan/tokyo/shibuya
+europe/ireland/kilkenny
+asia/pakistan/gujrat
+asia/india/orissa/berhampur
+africa/burkinafaso/ouagadougou
+northamerica/belize/belmopan
+asia/bahrain/manama
+africa/algeria/oran
+asia/philippines/tagumcity
+australiaandpacific/newcaledonia/noumea
+europe/greece/kos

@@ -1,50 +1,50 @@
-europe/unitedkingdom/scotland/macduff  # 4 children, from batch_018.txt
-northamerica/unitedstates/idaho  # 4 children, from batch_018.txt
-asia/india/bihar  # 4 children, from batch_018.txt
-asia/india/kerala/ottapalam  # 4 children, from batch_021.txt
-northamerica/unitedstates/arizona/phoenix  # 3 children, from batch_001.txt
-asia/india/westbengal/calcutta  # 3 children, from batch_001.txt
-asia/philippines/cebu  # 3 children, from batch_002.txt
-africa/egypt/abusimbel  # 3 children, from batch_002.txt
-europe/germany/berlin/berlinmitte  # 3 children, from batch_002.txt
-europe/italy/friuliveneziagiulia  # 3 children, from batch_002.txt
-asia/southkorea/seoul  # 3 children, from batch_003.txt
-asia/china/hainanisland  # 3 children, from batch_003.txt
-europe/france/midi/languedoc/montpellier  # 3 children, from batch_003.txt
-europe/germany/berlin/prenzlauerberg  # 3 children, from batch_003.txt
-northamerica/unitedstates/massachusetts/boston  # 3 children, from batch_003.txt
-africa/uganda/kampala  # 3 children, from batch_003.txt
-europe/netherlands/utrecht  # 3 children, from batch_004.txt
-africa/kenya/theriftvalley  # 3 children, from batch_004.txt
-europe/germany/berlin/kreuzberg  # 3 children, from batch_004.txt
-southamerica/colombia/medellin  # 3 children, from batch_004.txt
-northamerica/unitedstates/pennsylvania/philadelphia  # 3 children, from batch_004.txt
-asia/philippines/mindanaoisland  # 3 children, from batch_004.txt
-europe/portugal/oporto  # 3 children, from batch_004.txt
-asia/thailand/kohsamui  # 3 children, from batch_004.txt
-northamerica/unitedstates/oklahoma/tulsa  # 3 children, from batch_004.txt
-europe/italy/liguria/genoa  # 3 children, from batch_005.txt
-asia/malaysia/langkawi  # 3 children, from batch_005.txt
-asia/qatar/doha  # 3 children, from batch_005.txt
-africa/morocco/casablanca  # 3 children, from batch_005.txt
-asia/philippines/manila  # 3 children, from batch_005.txt
-europe/bulgaria/sofia  # 3 children, from batch_006.txt
-africa/morocco/rabat  # 3 children, from batch_006.txt
-northamerica/mexico/puertovallarta  # 3 children, from batch_006.txt
-europe/albania/saranda  # 3 children, from batch_006.txt
-asia/pakistan/peshawar  # 3 children, from batch_006.txt
-northamerica/unitedstates/newyorkstate/buffalo  # 3 children, from batch_006.txt
-europe/netherlands/groningen  # 3 children, from batch_006.txt
-europe/germany/hessen/rudesheim  # 3 children, from batch_006.txt
-asia/china/hongkong/kowloon  # 3 children, from batch_006.txt
-asia/cyprus/paphos  # 3 children, from batch_008.txt
-africa/nigeria/lagos  # 3 children, from batch_008.txt
-asia/india/tamilnadu/chennai  # 3 children, from batch_008.txt
-northamerica/mexico/acapulco  # 3 children, from batch_008.txt
-europe/belgium/antwerp  # 3 children, from batch_008.txt
-europe/ireland/aranislands  # 3 children, from batch_008.txt
-europe/unitedkingdom/england/eastern_england/cambridge  # 3 children, from batch_008.txt
-europe/italy/tuscany/lunigiana/la_spezia  # 3 children, from batch_008.txt
-northamerica/unitedstates/california/inlandempire/redlands  # 3 children, from batch_009.txt
-europe/bosniaandherzegovina/medjugorje  # 3 children, from batch_009.txt
-northamerica/canada/manitoba/winnipeg  # 3 children, from batch_009.txt
+europe/unitedkingdom/scotland/macduff
+northamerica/unitedstates/idaho
+asia/india/bihar
+asia/india/kerala/ottapalam
+northamerica/unitedstates/arizona/phoenix
+asia/india/westbengal/calcutta
+asia/philippines/cebu
+africa/egypt/abusimbel
+europe/germany/berlin/berlinmitte
+europe/italy/friuliveneziagiulia
+asia/southkorea/seoul
+asia/china/hainanisland
+europe/france/midi/languedoc/montpellier
+europe/germany/berlin/prenzlauerberg
+northamerica/unitedstates/massachusetts/boston
+africa/uganda/kampala
+europe/netherlands/utrecht
+africa/kenya/theriftvalley
+europe/germany/berlin/kreuzberg
+southamerica/colombia/medellin
+northamerica/unitedstates/pennsylvania/philadelphia
+asia/philippines/mindanaoisland
+europe/portugal/oporto
+asia/thailand/kohsamui
+northamerica/unitedstates/oklahoma/tulsa
+europe/italy/liguria/genoa
+asia/malaysia/langkawi
+asia/qatar/doha
+africa/morocco/casablanca
+asia/philippines/manila
+europe/bulgaria/sofia
+africa/morocco/rabat
+northamerica/mexico/puertovallarta
+europe/albania/saranda
+asia/pakistan/peshawar
+northamerica/unitedstates/newyorkstate/buffalo
+europe/netherlands/groningen
+europe/germany/hessen/rudesheim
+asia/china/hongkong/kowloon
+asia/cyprus/paphos
+africa/nigeria/lagos
+asia/india/tamilnadu/chennai
+northamerica/mexico/acapulco
+europe/belgium/antwerp
+europe/ireland/aranislands
+europe/unitedkingdom/england/eastern_england/cambridge
+europe/italy/tuscany/lunigiana/la_spezia
+northamerica/unitedstates/california/inlandempire/redlands
+europe/bosniaandherzegovina/medjugorje
+northamerica/canada/manitoba/winnipeg

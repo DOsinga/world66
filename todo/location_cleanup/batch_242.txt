@@ -1,50 +1,50 @@
-northamerica/unitedstates/alaska  # 9 children, from batch_003.txt
-europe/spain/northernspain  # 9 children, from batch_003.txt
-europe/italy/campania/naples  # 9 children, from batch_004.txt
-asia/india/punjab  # 9 children, from batch_005.txt
-australiaandpacific/australia/newsouthwales/sydney  # 9 children, from batch_006.txt
-asia/india/madhyapradesh  # 9 children, from batch_008.txt
-asia/india/goa  # 9 children, from batch_011.txt
-europe/italy/lombardia  # 8 children, from batch_000.txt
-africa/egypt/luxor  # 8 children, from batch_000.txt
-northamerica/unitedstates/nevada  # 8 children, from batch_001.txt
-northamerica/unitedstates/hawaii  # 8 children, from batch_001.txt
-europe/unitedkingdom/england/south_east  # 8 children, from batch_001.txt
-northamerica/unitedstates/northcarolina  # 8 children, from batch_001.txt
-northamerica/unitedstates/illinois  # 8 children, from batch_001.txt
-northamerica/unitedstates/michigan  # 8 children, from batch_001.txt
-northamerica/unitedstates/tennessee  # 8 children, from batch_001.txt
-europe/spain/madrid  # 8 children, from batch_002.txt
-northamerica/unitedstates/illinois/chicago  # 8 children, from batch_002.txt
-asia/india/delhi  # 8 children, from batch_002.txt
-northamerica/canada/alberta/banff  # 8 children, from batch_003.txt
-europe/ireland/dublin  # 8 children, from batch_003.txt
-europe/germany/northrhinewestphalia/dusseldorf  # 8 children, from batch_004.txt
-europe/spain/spanishcostas  # 8 children, from batch_004.txt
-asia/philippines/negrosisland/bacolod  # 8 children, from batch_004.txt
-asia/pakistan/islamabad  # 8 children, from batch_006.txt
-northamerica/unitedstates/california/goldcountry  # 8 children, from batch_009.txt
-europe/france/aquitaine  # 8 children, from batch_011.txt
-northamerica/unitedstates/california/highsierra  # 8 children, from batch_012.txt
-asia/pakistan/dera_ghazi_khan/taunsa_sharif  # 8 children, from batch_014.txt
-northamerica/unitedstates/ohio  # 7 children, from batch_000.txt
-europe/france/midi/cotedazur  # 7 children, from batch_000.txt
-europe/italy/sardinia  # 7 children, from batch_000.txt
-asia/india/westbengal  # 7 children, from batch_000.txt
-asia/philippines/negrosisland  # 7 children, from batch_001.txt
-asia/southkorea/ulsan  # 7 children, from batch_001.txt
-europe/russia/moscow  # 7 children, from batch_002.txt
-europe/germany/bavaria/munich  # 7 children, from batch_002.txt
-europe/azerbaijan/naxcivan  # 7 children, from batch_002.txt
-northamerica/unitedstates/colorado  # 7 children, from batch_002.txt
-asia/malaysia/kualalumpur  # 7 children, from batch_002.txt
-africa/kenya/nairobi  # 7 children, from batch_003.txt
-europe/france/centre  # 7 children, from batch_003.txt
-asia/unitedarabemirates/dubai  # 7 children, from batch_003.txt
-europe/spain/canaryislands  # 7 children, from batch_003.txt
-southamerica/peru/tarapoto  # 7 children, from batch_003.txt
-europe/netherlands/waddenislands  # 7 children, from batch_003.txt
-asia/vietnam/hochiminhcity  # 7 children, from batch_003.txt
-asia/thailand/chiangmai  # 7 children, from batch_004.txt
-asia/china/guangzhou  # 7 children, from batch_004.txt
-africa/nigeria/portharcourt  # 7 children, from batch_004.txt
+northamerica/unitedstates/alaska
+europe/spain/northernspain
+europe/italy/campania/naples
+asia/india/punjab
+australiaandpacific/australia/newsouthwales/sydney
+asia/india/madhyapradesh
+asia/india/goa
+europe/italy/lombardia
+africa/egypt/luxor
+northamerica/unitedstates/nevada
+northamerica/unitedstates/hawaii
+europe/unitedkingdom/england/south_east
+northamerica/unitedstates/northcarolina
+northamerica/unitedstates/illinois
+northamerica/unitedstates/michigan
+northamerica/unitedstates/tennessee
+europe/spain/madrid
+northamerica/unitedstates/illinois/chicago
+asia/india/delhi
+northamerica/canada/alberta/banff
+europe/ireland/dublin
+europe/germany/northrhinewestphalia/dusseldorf
+europe/spain/spanishcostas
+asia/philippines/negrosisland/bacolod
+asia/pakistan/islamabad
+northamerica/unitedstates/california/goldcountry
+europe/france/aquitaine
+northamerica/unitedstates/california/highsierra
+asia/pakistan/dera_ghazi_khan/taunsa_sharif
+northamerica/unitedstates/ohio
+europe/france/midi/cotedazur
+europe/italy/sardinia
+asia/india/westbengal
+asia/philippines/negrosisland
+asia/southkorea/ulsan
+europe/russia/moscow
+europe/germany/bavaria/munich
+europe/azerbaijan/naxcivan
+northamerica/unitedstates/colorado
+asia/malaysia/kualalumpur
+africa/kenya/nairobi
+europe/france/centre
+asia/unitedarabemirates/dubai
+europe/spain/canaryislands
+southamerica/peru/tarapoto
+europe/netherlands/waddenislands
+asia/vietnam/hochiminhcity
+asia/thailand/chiangmai
+asia/china/guangzhou
+africa/nigeria/portharcourt

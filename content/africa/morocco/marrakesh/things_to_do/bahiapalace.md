@@ -1,6 +1,7 @@
 ---
 title: "Bahia Palace"
 type: poi
+category: "Sight"
 latitude: 31.621633
 longitude: -7.981938
 ---

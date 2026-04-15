@@ -14,13 +14,13 @@ The territory sits at a historical crossroads that has caused centuries of confl
 
 NATO's 1999 bombing campaign ended Serbian rule and brought in a UN administration (UNMIK) that lasted until independence. KFOR troops still operate here. The scars of the late 1990s conflict are visible in some towns, though Pristina in particular has rebuilt quickly and is a lively, young city.
 
-Travel has become much easier since the independence era. The main towns — [Pristina](/europe/serbiaandmontenegro/kosovoprovince/pristina) and [Prizren](/europe/serbiaandmontenegro/kosovoprovince/prizren) — are well worth visiting. [Peja](/europe/serbiaandmontenegro/kosovoprovince/peja) is the gateway to the Rugova Gorge and the mountains beyond.
+Travel has become much easier since the independence era. The main towns — [Pristina](/europe/serbia/kosovoprovince/pristina) and [Prizren](/europe/serbiaandmontenegro/kosovoprovince/prizren) — are well worth visiting. [Peja](/europe/serbiaandmontenegro/kosovoprovince/peja) is the gateway to the Rugova Gorge and the mountains beyond.
 
 ## Destinations in Kosovo
 
-[Pristina](/europe/serbiaandmontenegro/kosovoprovince/pristina)
+[Pristina](/europe/serbia/kosovoprovince/pristina)
 [Prizren](/europe/serbiaandmontenegro/kosovoprovince/prizren)
 [Peja](/europe/serbiaandmontenegro/kosovoprovince/peja)
-[Ferizaj](/europe/serbiaandmontenegro/kosovoprovince/ferizaj)
+[Ferizaj](/europe/serbia/kosovoprovince/ferizaj)
 [Gjakova](/europe/serbiaandmontenegro/kosovoprovince/gjakova)
 [Gjilan](/europe/serbiaandmontenegro/kosovoprovince/gjilan)

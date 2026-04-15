@@ -45,7 +45,7 @@ def location_or_section(request, path):
     parent_nav = []
     parent_locations = []
     active_nav = None   # which nav item should be highlighted in the sidebar
-    if parent:
+    if parent and page.page_type != "neighbourhood":
         parent_nav, parent_locations, _ = parent.children()
         parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
         if page.page_type == "poi" and not parent_nav and "/" in parent.path:

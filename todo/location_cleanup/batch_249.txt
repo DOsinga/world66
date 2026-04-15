@@ -1,0 +1,4 @@
+africa/togo/kara
+northamerica/unitedstates/arkansas/hotsprings
+europe/france/normandybrittany/honfleur
+asia/pakistan/pakpattan

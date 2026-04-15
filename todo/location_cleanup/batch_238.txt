@@ -42,7 +42,5 @@ africa/congobrazzaville/loubomo
 africa/congobrazzaville/mossaka
 northamerica/trinidadandtobago/curepe
 northamerica/puertorico/gurabo
-northamerica/unitedstates/ohio/findla
-northamerica/unitedstates/nevada/pahrup
 europe/greece/kozanh
 africa/congobrazzaville/ouesso

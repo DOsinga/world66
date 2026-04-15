@@ -6,6 +6,10 @@ longitude: -2.011596
 score: 0.3
 title: Béchar
 type: location
+image: bechar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bechar_-_Place_1er_Novembre_%D8%A8%D8%B4%D8%A7%D8%B1.jpg
+image_license: CC0
+image_attribution: Habib kaki
 ---
 
 Béchar is the largest city in southwestern [Algeria](/africa/algeria), a Saharan administrative centre that serves as the gateway to the oases and sand seas of the western desert. The city itself is functional rather than beautiful — a sprawl of concrete and wide boulevards built around an old French colonial core — but it is the natural base for visiting [Taghit](/africa/algeria/taghit), one of Algeria's most spectacular oasis towns, about 90 kilometres to the north.

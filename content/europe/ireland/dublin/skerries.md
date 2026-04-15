@@ -5,11 +5,11 @@ latitude: 53.573989
 longitude: -6.119175
 title: Skerries
 type: location
-score: 0.48
+score: 0.5
 ---
 
-Skerries is a pleasant surprise on the Dublin commuter belt — a seaside town that still feels like a Victorian fishing village, with good coastal walks, a working harbour, and a mix of Georgian and Edwardian architecture. It is on the DART/commuter rail line to Dublin, making it an easy day trip or a quieter base for exploring the capital.
+Skerries is a pleasant surprise — a genuine Victorian fishing village that has somehow survived the ham-fisted urban planning that plagues the Dublin commuter belt. It's on the train line from the city, the coastline is good for walking, and the architecture ranges from Georgian to Edwardian without embarrassing itself.
 
-The coastal walks are the main draw: a path runs around Red Island and along the cliffs south of town, with views out to Skerries Islands and their colony of terns. Skerries Mills, a restored complex of two windmills and a watermill, is worth a visit if you are interested in industrial heritage.
+There are plenty of pubs. The Stoop Your Head is a reliable gastro-pub. A wine shop near the SuperValu has a good selection if you're self-catering.
 
-The town has a good selection of pubs and restaurants. Stoop Your Head is a reliable gastro-pub, and the harbour area has a few seafood spots making the most of the local catch.
+The chip shops, on the other hand, are a low point: dreadful food at inexplicable prices.

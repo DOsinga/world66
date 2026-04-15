@@ -3,4 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-There are two small shops on the island providing essential groceries. Orders for more substantial shopping can be made to Siopa an Phobail in Indreabhán (mainland) and these are shipped out on the next available ferry where you collect them from the pier.
+Two small shops carry essential groceries. The real draw is the Inis Meáin Knitting Company factory shop, where you can buy the high-end knitwear made on the island — the same pieces sold in design boutiques internationally, at a fraction of the price. A small craft shop attached to the post office also stocks local goods.

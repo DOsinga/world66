@@ -3,7 +3,7 @@ title: "Getting Around"
 type: section
 ---
 
-Buses runs frequently around the island, connecting the tourist resorts on the southshore with the airport and [Las Palmas](/europe/spain/grancanaria/laspalmas).
+Buses runs frequently around the island, connecting the tourist resorts on the southshore with the airport and [Las Palmas](/europe/spain/canaryislands/grancanaria/las_palmas).
 
 Going by taxi is relatively cheap.
 

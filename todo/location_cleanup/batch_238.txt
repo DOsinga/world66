@@ -17,7 +17,6 @@ northamerica/dominicanrepublic/bocachica1
 northamerica/netherlandsantilles/curacao/willemstad
 asia/palestinianauthority/beitsahur
 asia/india/andhrapradesh/kairatabad
-europe/unitedkingdom/manisleof/ballasalla
 northamerica/saintvincentandthegrenadines/stgeorge
 northamerica/trinidadandtobago/marabella
 northamerica/costarica/tresrios

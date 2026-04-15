@@ -857,6 +857,50 @@ img { max-width: 100%; height: auto; }
   color: var(--red);
 }
 
+/* Neighbourhood cards — shown inline under the article body */
+.neighbourhoods-section {
+  margin-top: 32px;
+}
+
+.neighbourhoods-section h2 {
+  font-size: 18px;
+  margin-bottom: 14px;
+}
+
+.neighbourhood-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+}
+
+.neighbourhood-card {
+  display: block;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.neighbourhood-card:hover {
+  border-color: var(--blue);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+}
+
+.neighbourhood-card-title {
+  font-weight: 600;
+  font-size: 15px;
+  color: var(--blue);
+  margin-bottom: 6px;
+}
+
+.neighbourhood-card-snippet {
+  font-size: 12px;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+
 /* ==========================================================================
    Home page
    ========================================================================== */

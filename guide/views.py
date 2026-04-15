@@ -70,6 +70,11 @@ def location_or_section(request, path):
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
 
+    # Separate neighbourhood pages from nav pages so they render inline under
+    # the article body rather than in the sidebar sections list.
+    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood"]
+    nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
+
     # Build the city tag index once so all tagged_pois() calls reuse it.
     city_tag_index = None
     _cpath = _city_path if page.page_type in NAV_TYPES else (page.path if nav_pages else None)
@@ -107,6 +112,7 @@ def location_or_section(request, path):
         "parent": parent,
         "sections": nav_pages,           # child nav pages of current page (location sidebar)
         "locations": locations,
+        "neighbourhoods": neighbourhoods,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,

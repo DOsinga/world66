@@ -97,6 +97,20 @@ class Page:
         return self.meta.get("category", "")
 
     @property
+    def snippet(self):
+        """First ~200 characters of body text, stripped of markdown."""
+        if not self.body:
+            return ""
+        import re
+        text = re.sub(r"!\[.*?\]\(.*?\)", "", self.body)
+        text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+        text = re.sub(r"[#*_`>]+", "", text)
+        text = " ".join(text.split())
+        if len(text) > 200:
+            text = text[:200].rsplit(" ", 1)[0] + "…"
+        return text
+
+    @property
     def nav_tag(self):
         """The tag this nav page uses to collect its POIs. Defaults to slug."""
         return self.meta.get("tag", self.slug)

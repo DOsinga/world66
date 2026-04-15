@@ -18,10 +18,3 @@ Food is the other great reason to come. Hong Kong is arguably the best place in 
 
 Getting around is easy. The MTR (Mass Transit Railway) is fast, cheap, and air-conditioned. The Star Ferry crossing between Tsim Sha Tsui and Central costs almost nothing and remains one of the best views in Asia. Octopus card covers buses, trams, ferries, and the MTR — pick one up at any MTR station.
 
-## Destinations
-
-- [Hong Kong Island](/asia/china/hongkong/hongkongisland)
-- [Kowloon](/asia/china/hongkong/kowloon)
-- [New Territories](/asia/china/hongkong/newterritories)
-- [Lantau](/asia/china/hongkong/lantau)
-- [Outlying Islands](/asia/china/hongkong/outlyingislands)

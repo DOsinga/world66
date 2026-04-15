@@ -1,11 +1,10 @@
 ---
 title: "Harbourfront Centre"
 type: poi
-type: "Other"
+category: Sight
 latitude: 43.639607
 longitude: -79.381946
+address: "235 Queens Quay West, Toronto, ON M5J 2G8"
 ---
 
-Harbourfront Centre is THE place to be during the summer, where they hold free concerts, innovative dance performances, workshops and films... ALL FOR FREE! Guests have included Broken Social Scene, Cinematic Orchestra and awesome local musicians. They have breakdancing competitions, ceramics workshops, food festivals and loads more. Plus a lakeside view, amazing food and open green space for lazing around.
-
-type: Other
+Harbourfront Centre is a cultural venue and public space along the waterfront that runs free outdoor concerts, dance performances, craft workshops, and film screenings throughout the summer. The setting on Lake Ontario is the draw as much as the programming — good food nearby, open lawns, and a view across the water. Worth checking what's on during your visit.

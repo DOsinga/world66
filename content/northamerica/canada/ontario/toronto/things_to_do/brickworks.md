@@ -1,12 +1,10 @@
 ---
-title: "Brickworks"
+title: "Evergreen Brick Works"
 type: poi
-type: "Other"
+category: Sight
 latitude: 43.673195
-longitude: -79.466795
+longitude: -79.366795
+address: "550 Bayview Avenue, Toronto, ON M4W 3X8"
 ---
 
-Brickworks is an abandoned factory along the Don Valley, best accessed by bike (there is a Don Velley bike trail that can lead you there). If you climb the chainlink fence, you can see all the old machinery of the brick factory. Great for photographers.
-Seeing Brickworks is also a nice excuse to bike along the Don Valley, the calm of the forest in the heart of the city is pretty humbling. The forest trail is completely shaded, and passes through some open space parks where you can stop for picnics or a game of frisbee.
-
-type: Other
+The old Don Valley Brick Works has been transformed into a community environmental centre and weekend farmers' market in a spectacular setting. The industrial brick buildings and chimneys survive from the original factory, and the surrounding quarry has been allowed to naturalize into wetlands and meadows. On Saturdays the Farmers' Market draws some of the best local producers in the city. The Don Valley ravine trails are accessible directly from the site.

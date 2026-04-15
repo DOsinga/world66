@@ -47,11 +47,13 @@ def location_or_section(request, path):
     active_nav = None   # which nav item should be highlighted in the sidebar
     if parent:
         parent_nav, parent_locations, _ = parent.children()
+        parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
         if page.page_type == "poi" and not parent_nav and "/" in parent.path:
             # Parent is a section with no nav children — use grandparent (city)
             grandparent = load_page(parent.path.rsplit("/", 1)[0])
             if grandparent and grandparent.page_type == "location":
                 parent_nav, parent_locations, _ = grandparent.children()
+                parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
                 active_nav = parent   # mark the section as active in the sidebar
 
     # For a POI reached via a context nav page, build sidebar from that nav page

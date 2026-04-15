@@ -1,11 +1,11 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: -37.4713
 longitude: 144.7852
+score: 0.49
 title: Victoria
 type: location
-score: 0.49
 ---
 
 Victoria is Australia's smallest mainland state, but it packs more variety into its compact frame than anywhere else on the continent. From the cosmopolitan laneways of [Melbourne](/australiaandpacific/australia/victoria/melbourne) to the wild surf beaches of the Great Ocean Road, from gold rush towns frozen in the 1850s to snow-capped alpine peaks, you could spend months here and still find surprises around the next bend.

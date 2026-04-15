@@ -1,20 +1,17 @@
 ---
-title: Central Coast
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 35.269768
 longitude: -120.653701
 score: 0.66
+title: Central Coast
+type: location
 ---
 
-Spanish explorer Juan Rodriguez Cabrillo set a precedent for future chamber of commerce officials when he described the Central Coast as "the land of endless summers." A tranquil expanse between Los Angeles and San Francisco, this region is tagged the Middle Kingdom. It is a realm of small towns in lovely settings, with peaceful quiet beaches, and beautiful evergreen forests. Agriculture defines life amid the golden rolling hills, and the many coastal locales make idyllic destinations.
+California's Central Coast runs roughly 400 miles between Los Angeles and San Francisco, taking in a landscape that shifts from Ventura's agricultural plains through the mission towns of Santa Barbara and San Luis Obispo, past the dramatic cliffs of Big Sur, to the Monterey Peninsula in the north. It is one of the most scenically varied stretches of coastline in North America.
 
-The Central Coast is by far one of the most beautiful, peaceful, and most scenic part of California. Some of the most visited places along the Central Coast are San Fransisco, Los Angeles, Morro Bay, Hearst Castle, Pacifica, Ventura County, Solvang, and Monterrey Bay.
+Santa Barbara is the region's most polished city — Spanish Colonial Revival architecture, a functioning mission, excellent food, and wineries in the nearby Santa Ynez Valley. Monterey has its famous aquarium and Cannery Row, plus easy access to 17-Mile Drive and the Carmel-by-the-Sea. Big Sur, the rugged cliff-edge stretch of Highway 1 between San Simeon and Carmel, is one of the finest coastal drives in California and rewards those who stop and walk rather than simply passing through.
 
-*-Article edited by Jessie on 03/13/05*
+Hearst Castle at San Simeon — William Randolph Hearst's extraordinary hilltop estate — is worth a detour: tours run daily and the scale of the place is genuinely staggering. Paso Robles, inland, has become one of California's most serious wine regions, with Zinfandel and Rhône varieties the local specialities.
 
-## Destinations in Central Coast
-
-[Santa Barbara](/world/northamerica/unitedstates/california/centralcoast/santabarbara)
-[Monterey](/world/northamerica/unitedstates/california/centralcoast/monterey)
-[Ventura](/world/northamerica/unitedstates/california/centralcoast/ventura)
-[Santa Maria](/world/northamerica/unitedstates/california/centralcoast/santamaria)
+The coast is reliably cool in summer due to fog and marine influence. The best weather for beach visits is September and October, when the fog clears and temperatures rise.

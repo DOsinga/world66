@@ -3,7 +3,7 @@ address: Knaackstraße 97, Prenzlauer Berg
 latitude: 52.540292
 longitude: 13.414078
 tags:
-- bars_and_cafes
+- things_to_do
 - prenzlauerberg
 title: Kulturbrauerei
 type: poi

@@ -1,6 +1,6 @@
 ---
-latitude: 48.574594
-longitude: -1.567344
+latitude: 48.8682
+longitude: 2.3297
 tags:
 - shopping
 title: Chanel

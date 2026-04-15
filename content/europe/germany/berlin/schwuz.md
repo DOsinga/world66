@@ -12,5 +12,3 @@ type: poi
 ---
 
 The oldest Gay Club in Berlin. Often theme nights.
-
-type: Dancing

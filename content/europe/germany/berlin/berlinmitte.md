@@ -1,4 +1,6 @@
 ---
+done:
+  city_tag_migration: '2026-04-14'
 latitude: 52.533217
 longitude: 13.359796
 score: 0.71

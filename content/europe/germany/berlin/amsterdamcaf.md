@@ -10,13 +10,3 @@ tags:
 title: Amsterdam Café
 type: poi
 ---
-
-type: Cafes
-
-
-
-address: Gleimstr. 24
-
-connection: U+S-Bhf. Schönhauser Allee
-
-tel: +49 (0)30 448 07 92

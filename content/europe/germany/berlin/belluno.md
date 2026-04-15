@@ -10,15 +10,3 @@ tags:
 title: Belluno
 type: poi
 ---
-
-type: Italian
-
-
-
-
-
-address: Kollwitzstr. 66
-
-connection: U2 Senefelderplatz
-
-tel: +49 (0)30 441 05 48

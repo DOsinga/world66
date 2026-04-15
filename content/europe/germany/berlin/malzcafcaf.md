@@ -10,15 +10,3 @@ tags:
 title: Malzcafé Café
 type: poi
 ---
-
-type: Cafes
-
-
-
-
-
-address: Knaackstr. 99
-
-connection: Tram 13
-
-tel: +49 (0)30 44 04 72 27

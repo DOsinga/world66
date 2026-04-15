@@ -1,6 +1,6 @@
 ---
-latitude: 45.191865
-longitude: 0.764006
+latitude: 48.8831
+longitude: 2.3491
 tags:
 - shopping
 title: Tati

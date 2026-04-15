@@ -10,15 +10,3 @@ tags:
 title: Suriya Kanthi
 type: poi
 ---
-
-type: Oriental
-
-
-
-
-
-address: Knaackstr. 4
-
-connection: U Senefelderplatz
-
-tel: +49 (0)30 442 53 01

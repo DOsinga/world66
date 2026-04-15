@@ -1,6 +1,6 @@
 ---
-latitude: 51.584751
-longitude: 4.777532
+latitude: 52.3728
+longitude: 4.8936
 tags:
 - coffeeshops
 title: Anyday

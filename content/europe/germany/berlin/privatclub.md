@@ -10,5 +10,3 @@ type: poi
 ---
 
 Good place to go to when you want to have an excellent evening out in the town with good danceable music and an interesting crowd.
-
-type: Dancing

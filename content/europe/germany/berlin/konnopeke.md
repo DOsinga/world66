@@ -9,13 +9,3 @@ tags:
 title: Konnopeke
 type: poi
 ---
-
-type: Cafes
-
-
-
-
-
-address: Schönhauser Allee 44a
-
-connection: U Eberswalder Str

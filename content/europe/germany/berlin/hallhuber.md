@@ -11,8 +11,4 @@ title: Hallhuber
 type: poi
 ---
 
-Trendy young fashions- from medium priced to designer hype.connection: U Kurfürstendamm
-
-address: Kurfürstendamm 13
-
-openings: Mo-Fr 10am -8pm, Sa 9:30am -4pm
+Trendy young fashions- from medium priced to designer hype.

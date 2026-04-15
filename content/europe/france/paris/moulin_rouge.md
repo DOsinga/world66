@@ -6,7 +6,7 @@ opening_hours: Shows at 9pm and 11pm nightly
 phone: +33 1 53 09 82 82
 price: Show only from €87; dinner and show from €195
 tags:
-- bars_and_cafes
+- things_to_do
 title: Moulin Rouge
 type: poi
 url: www.moulinrouge.fr

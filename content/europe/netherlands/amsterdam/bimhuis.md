@@ -4,7 +4,7 @@ latitude: 52.377969
 longitude: 4.912886
 phone: 020 788 2188
 tags:
-- bars_and_cafes
+- things_to_do
 title: Bimhuis
 type: poi
 url: bimhuis.nl

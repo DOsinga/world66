@@ -162,16 +162,36 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
-{% if neighbourhoods %}
+{% if neighbourhood_items %}
 <div class="neighbourhoods-section">
   <h2>Neighbourhoods</h2>
-  <div class="neighbourhood-cards">
-    {% for nb in neighbourhoods %}
-    <a class="neighbourhood-card" href="{{ nb.get_absolute_url }}">
-      <div class="neighbourhood-card-title">{{ nb.title }}</div>
-    </a>
-    {% endfor %}
+  {% for item in neighbourhood_items %}
+  <div class="neighbourhood-block">
+    <h3 class="neighbourhood-block-title"><a href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a></h3>
+    {% if item.pois %}
+    <table class="poi-table">
+      <tbody>
+        {% for poi in item.pois %}
+        <tr{% if poi.category %} data-category="{{ poi.category }}"{% endif %}>
+          <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
+          <td class="poi-table-details">
+            {% if poi.category %}<span class="poi-category-badge">{{ poi.category }}</span>{% endif %}
+            {% for key, value in poi.properties.items %}
+            <span class="poi-detail">
+              <span class="poi-detail-key">{{ key }}</span>
+              {% if key == "Website" %}<a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>
+              {% elif key == "Email" %}<a href="mailto:{{ value }}">{{ value }}</a>
+              {% else %}{{ value }}{% endif %}
+            </span>
+            {% endfor %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% endif %}
   </div>
+  {% endfor %}
 </div>
 {% endif %}
 

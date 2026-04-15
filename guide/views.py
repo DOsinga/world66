@@ -81,6 +81,12 @@ def location_or_section(request, path):
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
+    # Build inline neighbourhood items: each neighbourhood + its tagged POIs.
+    neighbourhood_items = [
+        {'page': nb, 'pois': nb.tagged_pois(_city_tag_index=city_tag_index)}
+        for nb in neighbourhoods
+    ]
+
     # Nav pages collect their POIs by tag; section_groups collect their child nav pages
     if page.page_type == "section_group":
         pois = nav_pages
@@ -112,7 +118,7 @@ def location_or_section(request, path):
         "parent": parent,
         "sections": nav_pages,           # child nav pages of current page (location sidebar)
         "locations": locations,
-        "neighbourhoods": neighbourhoods,
+        "neighbourhood_items": neighbourhood_items,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,

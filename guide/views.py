@@ -308,8 +308,13 @@ def _parse_review_log(output):
                 pages[url_path] = {
                     'url_path': url_path,
                     'title': page.title if page else url_path,
-                    'commit': current_msg,
+                    'commits': [],
                 }
+            entry = pages[url_path]
+            if current_msg and len(entry['commits']) < 3 and current_msg not in entry['commits']:
+                entry['commits'].append(current_msg)
+    for entry in pages.values():
+        entry['commits'].reverse()
     return list(pages.values())
 
 

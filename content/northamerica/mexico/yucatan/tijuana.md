@@ -1,7 +1,0 @@
----
-title: Tijuana
-type: location
-latitude: 32.53174
-longitude: -117.019529
-score: 0.3
----

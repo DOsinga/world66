@@ -5,7 +5,7 @@ type: section
 
 New Zealand is a long way from almost everywhere. From eastern Australia it's about 3 hours by air. From Asia (Singapore, Tokyo, Hong Kong) it's 10–12 hours. From Los Angeles it's around 12–13 hours nonstop. From London you're looking at 24–28 hours with a connection, usually through Dubai, Singapore, or a US city.
 
-The main international gateway is [Auckland](/australiaandpacific/newzealand/auckland) (AKL), which handles the majority of long-haul flights. [Christchurch](/australiaandpacific/newzealand/christchurch) (CHC) and [Wellington](/australiaandpacific/newzealand/wellington) (WLG) also receive international flights, primarily from Australia. Queenstown (ZQN) has some direct Australian services. Air New Zealand is the national carrier and has the most comprehensive network. Qantas, Emirates, Singapore Airlines, and Cathay Pacific also fly in. Budget carrier Jetstar operates trans-Tasman routes.
+The main international gateway is [Auckland](/australiaandpacific/newzealand/north_island/auckland_region/auckland) (AKL), which handles the majority of long-haul flights. [Christchurch](/australiaandpacific/newzealand/canterbury/christchurch) (CHC) and [Wellington](/australiaandpacific/newzealand/north_island/greater_wellington/wellington) (WLG) also receive international flights, primarily from Australia. Queenstown (ZQN) has some direct Australian services. Air New Zealand is the national carrier and has the most comprehensive network. Qantas, Emirates, Singapore Airlines, and Cathay Pacific also fly in. Budget carrier Jetstar operates trans-Tasman routes.
 
 **Visas and entry requirements**
 

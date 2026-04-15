@@ -7,7 +7,7 @@ Indonesia is too large and varied for a single trip to cover. Most first-time vi
 
 **The classic route** runs from Jakarta to Yogyakarta (by night train, ideally), where you base yourself for Borobudur, Prambanan, and the city itself. Then east to Mount Bromo for the volcanic sunrise, and on to the ferry crossing into Bali. From Bali, the logical next step is Lombok and the Gili Islands.
 
-**For culture**, [Yogyakarta](/asia/indonesia/yogyakarta) is the centre of Javanese court culture — wayang puppet theatre, batik workshops, kraton (palace), and the best base for the temple complexes. Tana Toraja in [Sulawesi](/asia/indonesia/sulawesi) is more remote but extraordinary, particularly during funeral season (June–August).
+**For culture**, [Yogyakarta](/asia/indonesia/java/yogyakarta) is the centre of Javanese court culture — wayang puppet theatre, batik workshops, kraton (palace), and the best base for the temple complexes. Tana Toraja in [Sulawesi](/asia/indonesia/sulawesi) is more remote but extraordinary, particularly during funeral season (June–August).
 
 **For nature**, the choices are enormous. Orangutans are most reliably seen in Sumatra's Bukit Lawang or Kalimantan's Tanjung Puting National Park, where the boat journey up the Sekonyer river into the forest is part of the experience. Komodo National Park is unmissable for the dragons and the diving. Raja Ampat, if you can afford the journey, is the finest underwater environment in the world.
 

@@ -1,14 +1,15 @@
 ---
+done:
+  location_cleanup: '2026-04-15'
+latitude: 16.4639
+longitude: 107.5863
+score: 0.67
 title: Hue
 type: location
-latitude: 16.463932
-longitude: 107.586339
-score: 0.67
 ---
 
-Hue is located 660 km from [Hanoi](/asia/vietnam/hanoi) and 1080 km from [Saigon](/asia/vietnam/saigon), Hue has always been considered the fulcrum of Vietnam's two rice baskets, the Red river delta and the Mekong delta. The ancient capital of the Annamese people Hue used to be even greater than it is today. The Tet offensive during the Vietnam war and the counteroffensive that followed it destroyed many of the old palaces.
+Hue was the imperial capital of Vietnam for nearly 150 years under the Nguyen Dynasty, and the city still carries that weight. The Perfume River bisects the city — the massive Citadel and Imperial Enclosure sit on the north bank, while the French colonial quarter, markets, and tourist hotels spread along the south. UNESCO declared the complex of monuments a World Heritage Site in 1993, calling Hue "a masterpiece of urban poetry."
 
+The Citadel and its Forbidden Purple City were badly damaged during the Tet Offensive in 1968, and the scars are still visible. Only a handful of the original fifty royal buildings survive, but walking through the ruins — some restored, some left in their half-destroyed state — is one of the most powerful experiences in Vietnam. South of the city, the tombs of the Nguyen emperors line the banks of the Perfume River in a "Valley of the Kings" that you can explore by bicycle, motorbike, or boat.
 
- There are still a half dozen or so royal buildings standing out of the 50 that used to be on the site; some are in good shape some are being restored others are left in their half-destroyed state. Walking through the area is one of the most impressive experiences in Vietnam. In 1981, after visiting Hue, Mr. Amadou-Mahtar-M'Bow, then Director General of UNESCO proclaimed Hue to be "a masterpiece of urban poetry". On December 11, 1993, UNESCO's Director General, Federico Mayor acknowledged the Complex of Monuments of Hue to be a World Culture Heritage. 
-
-The city is bisected by the Perfume River and along its banks south of Hue is a “Valley of the Kings” containing tombs of the Nguyen emperors. You can visit them by bicycle or boat.
+Hue is also a food city. The imperial court cuisine created a tradition of elaborate, beautifully presented dishes, and the street food is some of the best in Vietnam — bún bò Huế (spicy beef noodle soup), bánh khoái (crispy stuffed pancakes), and dozens of small rice cakes and dumplings you will not find elsewhere.

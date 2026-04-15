@@ -1,7 +1,7 @@
 ---
 title: 'Jemez State Monument'
 type: poi
-category: 'landmark'
+category: 'Sight'
 accessibility: 'Wheelchair accessible'
 address: '18160 NM 4, Jemez Springs, NM'
 opening_hours: '8:30 a.m. - 5:30 p.m. Wednesday through Monday, closed Tuesday'

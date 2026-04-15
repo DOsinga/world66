@@ -1,9 +1,9 @@
 ---
-title: Prenzlauer Berg
-type: location
 latitude: 52.539847
 longitude: 13.428565
 score: 0.54
+title: Prenzlauer Berg
+type: neighbourhood
 ---
 
 The nightlife literally throbs and pulsates in the old working-class area between Schönhauser Allee and Prenzlauer Allee. But not only that - more youngsters and families have moved here and the scene has grown here more rapidly than anywhere else in Berlin. At the moment Prenzlauer Berg is still an oasis of creative life - though some corners have already fallen prey to speculators.

@@ -1,9 +1,9 @@
 ---
-title: Kreuzberg
-type: location
 latitude: 52.486084
 longitude: 13.385951
 score: 0.6
+title: Kreuzberg
+type: neighbourhood
 ---
 
 If you mention Kreuzberg and the old SO 36 postal district, the clichés come automatically: squatters, punks, street riots, flat-sharing communities, Turks and, of course, the famous ‘long nights’. But this refuge of multicultural and alternative lifestyles hasn't been left untouched by the fall of the Wall. In the years since, elegant eating and drinking places have opened up alongside the countless döner stalls and restaurants. Today SO 36 stands for a mixture of posh things and things that live up to the rather tatty image of the Kreuzberg cliché.

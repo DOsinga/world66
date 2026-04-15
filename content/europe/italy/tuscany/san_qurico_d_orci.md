@@ -1,12 +1,14 @@
 ---
-title: San Quirico d'Orcia
-type: location
+done:
+  location_cleanup: '2026-04-15'
+image: san_qurico_d_orci.jpg
+image_attribution: Gianluca Pirro
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cipressi_di_S.Quirico_d%27Orcia_al_tramonto.jpg
 latitude: 43.0568
 longitude: 11.6058
-image: san_qurico_d_orci.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cipressi_di_S.Quirico_d%27Orcia_al_tramonto.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Gianluca Pirro
+title: San Quirico d'Orcia
+type: location
 ---
 
 San Quirico d'Orcia sits at the heart of the Val d'Orcia, the stretch of southern Tuscany that appears on every postcard and desktop wallpaper you have ever seen of Italy. The rolling hills, lone cypress trees, and golden light are all real, and this small medieval town is one of the best places from which to take them in.

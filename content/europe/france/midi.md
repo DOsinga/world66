@@ -27,7 +27,7 @@ A justifiably popular destination the region of Provence combines historic sites
 
 
 
- Further in the east, the Atlantic coast region is quite spectacular as well. [Bordeaux](/europe/france/midi/aquitaine/bordeaux) is famous for its wines, Gascogne for its cognac. But also for those not primarily interested in alcoholic beverages this region has a lot to offer, Beautiful mountains in the [Pyrenees](/europe/france/midi/pyrenees), great beach resorts such as [Biarritz](/europe/france/midi/basqueregion/biarritz) and many medieval towns and castles.
+ Further in the east, the Atlantic coast region is quite spectacular as well. [Bordeaux](/europe/france/aquitaine/bordeaux) is famous for its wines, Gascogne for its cognac. But also for those not primarily interested in alcoholic beverages this region has a lot to offer, Beautiful mountains in the [Pyrenees](/europe/france/midi/pyrenees), great beach resorts such as [Biarritz](/europe/france/midi/basqueregion/biarritz) and many medieval towns and castles.
 
 [Lourdes](/europe/france/midi/pyrenees/lourdes) deserves special mention as well, this is the place to go if you need to be cured of something and you think religion is your best bet. For other travelers the town is also a fascinating place to visit.
 

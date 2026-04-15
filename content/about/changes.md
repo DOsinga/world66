@@ -31,7 +31,7 @@ type: poi
 [Hengelo ov](/europe/netherlands/hengeloov)
 
 07-Feb-2004 16:02 (anonymous)
-[St. Thomas](/northamerica/virginislands/stthomas)
+[St. Thomas](/northamerica/thecaribbean/virginislands/stthomas)
 
 07-Feb-2004 15:57 (anonymous)
 [Nauplia](/europe/greece/nauplia)
@@ -124,7 +124,7 @@ type: poi
 [Liguria](/europe/italy/liguria)
 
 07-Feb-2004 12:49 (anonymous)
-[Bilbao](/europe/spain/northernspain/bilbao)
+[Bilbao](/europe/spain/basque_country_eus/bilbao)
 
 07-Feb-2004 12:40 (anonymous)
 [Manila](/asia/philippines/manila)

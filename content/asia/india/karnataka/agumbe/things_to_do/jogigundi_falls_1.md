@@ -1,17 +1,9 @@
 ---
-title: "Jogigundi falls"
+title: "Jogigundi Falls"
 type: poi
-type: "Hiking"
+category: "Sight"
+latitude: 13.5120
+longitude: 75.0850
 ---
 
-Agumbe is extremely scenic during monsoons, it's also
-deserted. It rains without relent, and any major trekking route is full
-of leeches. Jogigundi is an easy place to get to, and leeches are
-confined only to the last 500 mts of the hike. During rainy season the
-falls are beautiful and loud. In other seasons one can swim in the pool
-below the falls.
-
-**Contributors**
-July 04, 2005
-
-type: Hiking
+An easy trek of about 3 kilometres from the village, Jogigundi is the most accessible of Agumbe's waterfalls. During the monsoon the falls are powerful and loud; in drier seasons you can swim in the pool below. The last 500 metres of the trail can have leeches, but the rest is straightforward.

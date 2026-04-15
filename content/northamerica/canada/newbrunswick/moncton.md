@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: moncton.jpg
+image_attribution: Stu pendousmat
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Autumninmoncton.JPG
 latitude: 46.0986
 longitude: -64.8004
 score: 0.43

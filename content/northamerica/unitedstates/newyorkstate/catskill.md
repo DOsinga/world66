@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: catskill.jpg
+image_attribution: Daniel Case
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Catskills_beyond_Hudson.jpg
 latitude: 42.2173
 longitude: -73.8646
 score: 0.45

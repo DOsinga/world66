@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: standrews.jpg
+image_attribution: Gordon Leggett
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2021-08-31_01_Pendlebury_-_St._Andrews_North_Point_Lighthouse,_Saint_Andrews_NB_Canada.jpg
 latitude: 45.0737
 longitude: -67.0528
 score: 0.45

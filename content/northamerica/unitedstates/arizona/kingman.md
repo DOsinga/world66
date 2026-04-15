@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: kingman.jpg
+image_attribution: Ken Lund
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Route_66,_Kingman,_Arizona_(2640197412).jpg
 latitude: 35.1894
 longitude: -114.053
 score: 0.35

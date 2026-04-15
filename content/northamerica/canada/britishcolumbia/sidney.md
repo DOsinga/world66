@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: sidney.jpg
+image_attribution: Joe Mabel
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Sidney,_BC_from_the_water_01_(20277037560).jpg
 latitude: 48.6506
 longitude: -123.3983
 score: 0.47

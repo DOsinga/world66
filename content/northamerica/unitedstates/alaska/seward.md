@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: seward.jpg
+image_attribution: Frank Kovalchek
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Resurrection_Bay,_Seward,_Alaska.jpg
 latitude: 60.1042
 longitude: -149.4422
 score: 0.57

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: newport.jpg
+image_attribution: DPLA
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Port_of_Newport_marina,_Yaquina_Bay_Bridge,_Newport_-_DPLA_-_2bf9e77208ae0051aa2155eb91eb07de.jpg
 latitude: 44.6368
 longitude: -124.0535
 score: 0.5

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: casper.jpg
+image_attribution: Adbay
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Casperskyline.jpg
 latitude: 42.8501
 longitude: -106.3251
 score: 0.39

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: kailua.jpg
+image_attribution: Calbear22
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Oceanfront_south_of_Hulihee_Palace.JPG
 latitude: 19.64
 longitude: -155.9969
 score: 0.68

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: bemidji.jpg
+image_attribution: Unknown
+image_license: Copyrighted free use
+image_source: https://commons.wikimedia.org/wiki/File:Paul_Bunyan_and_Babe_statues_Bemidji_Minnesota_full.jpg
 latitude: 47.4723
 longitude: -94.8833
 score: 0.36

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: nelson.jpg
+image_attribution: Damon daMeno
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Kootenay-Lake_Nelson-BC.jpg
 latitude: 49.4949
 longitude: -117.29
 score: 0.53

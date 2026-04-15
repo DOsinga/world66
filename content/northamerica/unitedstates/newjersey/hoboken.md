@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: hoboken.jpg
+image_attribution: Tainanian on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/13112122@N00/30015869045
 latitude: 40.7433
 longitude: -74.0324
 score: 0.42

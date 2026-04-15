@@ -6,7 +6,6 @@ longitude: 0.233889
 score: 0.65
 ---
 
-One of these quintessential French harbour twons, Honfleur is more than charming. The fishing and sailing port is pretty and very dear to the Impressionists and more modern artists. 
+Honfleur is one of those Norman harbour towns that looks almost too picturesque to be real. The Vieux Bassin — a 17th-century enclosed harbour lined with tall, narrow slate-fronted houses — drew Impressionist painters like Boudin, Monet, and Jongkind, and it still draws crowds today.
 
-
- The main sights in town are the 17th century Bassin and the Lieutenance buildings. The churches of Sainte Catherine and Saint Leonard, the old salt-storage attics, the Eugène Boudin museum and the museum of Honfleur's history are alos worth a visit.
+Beyond the harbour, the town has genuine character. The wooden church of Sainte-Catherine, built by shipwrights after the Hundred Years' War, is unlike any other church in France. The old salt warehouses, the Lieutenance tower at the harbour mouth, and the Eugène Boudin museum are all within walking distance. Honfleur is small enough to cover on foot in a day, but the restaurants and atmosphere reward a longer stay.

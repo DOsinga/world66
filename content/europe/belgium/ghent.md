@@ -1,9 +1,11 @@
 ---
-title: Ghent
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 51.053829
 longitude: 3.725012
 score: 0.67
+title: Ghent
+type: location
 ---
 
 Ghent was one of the biggest cities in Western Europe at the end of the Middle Ages. Today it is the third biggest city of Belgium and one of the most beautiful ones. Nearby [Bruges](/europe/belgium/bruges) may be cuter, but Ghent is more of a real city, and has better museums, better nightlife and restaurants and is not that touristy. 

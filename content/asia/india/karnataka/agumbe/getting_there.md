@@ -3,24 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-A direct bus plies between Bangalore and Agumbe. If you miss that, you
-can take one of the frequent buses to Shimoga.
-Mini-buses between Shimoga and Agumbe are abundant. There is a direct
-bus at
-8:00 p.m. from Agumbe to Bangalore from its one shed bus stop. And if
-the bus conductor happens to carry the wireless readers you can use
-your credit card for this bus.
-
-Other nearby towns and cities are
-
-Sringeri – 27 kms
-
-Manipal – 55 kms
-
-Kollur – 60 kms
-
-Shimoga – 90 kms
-
-Mangalore – 164 kms
-
-Bangalore – 387 kms
+A direct KSRTC bus runs from Bangalore to Agumbe (about 387 km). If you miss it, take one of the frequent buses to Shimoga (90 km away) and catch a mini-bus from there. The nearest railway station is at Udupi, about 55 km away, and the nearest airport is Mangalore International, about 165 km away. From either, you will need to hire a car or take a bus via Shimoga or Hebri.

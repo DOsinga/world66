@@ -1,17 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-latitude: -39.3841
+latitude: -39.3848
 longitude: 174.1974
 title: Taranaki
 type: location
-score: 0.56
+score: 0.58
 ---
 
-Taranaki is a region on the western bulge of the [North Island](/australiaandpacific/newzealand/north_island), dominated — visually and spiritually — by the near-perfect cone of Mount Taranaki. The volcano rises to 2,518 metres above a flat coastal plain, symmetrical enough that it doubled as Mount Fuji in The Last Samurai, and visible from the sea on a clear day. For the local Māori, Taranaki (the mountain) is an ancestor, a living being, and the heart of the region's identity.
+Taranaki is a region on the western coast of [New Zealand's](/australiaandpacific/newzealand) [North Island](/australiaandpacific/newzealand/north_island), dominated by its volcano — Mount Taranaki (formerly Mount Egmont), a near-perfect cone that rises 2,518 metres from a ring of rainforest and dairy farmland. On a clear day it is one of the most beautiful sights in the country.
 
-The region's largest city is [New Plymouth](/australiaandpacific/newzealand/newplymouth), a lively arts and surf town on the coast. Beyond it, dairy farms stretch across a rich volcanic plain right to the mountain's skirts, where [Egmont National Park](/australiaandpacific/newzealand/egmontnationalpark) begins. The park wraps all the way around the mountain and contains some of the finest volcano hiking in New Zealand — from gentle forest walks to the demanding summit climb.
+The Egmont National Park encircles the mountain and offers excellent tramping, from short walks through goblin forest to the demanding summit climb (best attempted in summer with proper gear). The Pouakai Crossing is a superb day walk with views of the mountain reflected in the alpine tarns.
 
-Taranaki punches above its weight culturally. New Plymouth hosts Len Lye's Wind Wand and the Govett-Brewster Art Gallery, one of the best contemporary art spaces in the country. The region also produces excellent dairy products and a strong café culture to go with them.
+New Plymouth, the regional capital, sits on the coast to the north. It is a pleasant, art-minded city with the Govett-Brewster Art Gallery (home to the Len Lye Centre), a coastal walkway, and good surf beaches. The region is also known for its gardens — the annual Taranaki Garden Festival draws visitors from across the country.
 
-The coast along the Surf Highway (SH45) south from New Plymouth to Hawera has consistent swells and a string of small towns. Surf beaches, black sand, and the distant mountain behind you — it's a combination unique to Taranaki.
+The Forgotten World Highway (SH43), running east from Stratford through the backcountry to Taumarunui, is one of New Zealand's great drives: lonely, beautiful, and barely touched.

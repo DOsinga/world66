@@ -6,6 +6,10 @@ longitude: -1.910077
 score: 0.52
 title: Buxton
 type: location
+image: buxton.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Buxton,_The_Crescent,_built_between_1780_and_1789_-_geograph.org.uk_-_6988583.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Michael Garlick
 ---
 
 Buxton is a handsome spa town on the edge of the Peak District, sitting at over 300 metres above sea level — one of the highest market towns in England. The Romans came here for the warm spring water, and the Georgians turned it into a northern rival to Bath, building the grand Crescent and the domed Devonshire Hospital that still dominate the skyline.

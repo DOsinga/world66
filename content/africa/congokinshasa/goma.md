@@ -6,6 +6,10 @@ longitude: 29.225652
 score: 0.25
 title: Goma
 type: location
+image: goma.jpg
+image_source: https://commons.wikimedia.org/wiki/File:15_novembre_2014._Goma,_Nord-Kivu,_RD_Congo._Une_vue_a%C3%A9rienne_de_la_ville_de_Goma._(16927160596).jpg
+image_license: CC BY-SA 2.0
+image_attribution: MONUSCO Photos
 ---
 
 Goma commands one of the most dramatic settings of any city in Africa. It sits on the northern shore of Lake Kivu, the water a deep, improbable blue against the dark volcanic rock that forms the city's foundations, while behind it Mount Nyiragongo rises to 3,470 meters, its summit holding one of the world's largest and most active lava lakes. On clear nights the sky above the crater glows faintly orange. In January 2002, Nyiragongo erupted with little warning, sending a lava flow directly through the city center to the lake shore; the hardened black lava still forms entire streets and foundations in parts of town. The volcano remains active and closely monitored.

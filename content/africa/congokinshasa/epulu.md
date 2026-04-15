@@ -6,6 +6,10 @@ longitude: 28.572058
 score: 0.23
 title: Epulu
 type: location
+image: epulu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Epulu_Okapi_Reserve.jpg
+image_license: Public domain
+image_attribution: J. Doremus
 ---
 
 Epulu is little more than a forest clearing in the immensity of the Ituri, the vast equatorial rainforest of northeastern DRC, but its location gives it an outsized significance. This is the headquarters of the Okapi Wildlife Reserve, a UNESCO World Heritage Site covering some 14,000 square kilometers of one of Africa's most biodiverse forests. The reserve protects a remarkable assemblage of species — forest elephants, chimpanzees, over 300 bird species — but it is named for the okapi, the shy, striped relative of the giraffe that was unknown to Western science until 1901 and remains almost entirely confined to the Congo basin.

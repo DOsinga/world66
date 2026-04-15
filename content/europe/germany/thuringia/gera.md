@@ -6,6 +6,10 @@ longitude: 12.083267
 score: 0.4
 title: Gera
 type: location
+image: gera.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Stra%C3%9Fe.jpg
+image_license: CC BY-SA 4.0
+image_attribution: JensKunstfreund
 ---
 
 Gera is the third-largest city in Thuringia and one that tends to be overlooked in favor of Weimar, Erfurt, and Jena. This is somewhat unjust. The city's most important contribution to European culture is Otto Dix, born here in 1891, whose unflinching depictions of Weimar Republic society and the devastation of the First World War make him one of the central figures of German Expressionism and the New Objectivity movement. The Kunstmuseum Gera holds the largest single collection of his work outside the Kunstmuseum Albstadt, including paintings, drawings, and prints from across his career. For anyone seriously interested in German art of the 1920s and 1930s, the museum alone justifies the visit.

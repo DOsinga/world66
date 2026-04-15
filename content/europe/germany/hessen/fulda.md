@@ -6,6 +6,10 @@ longitude: 9.677045
 score: 0.51
 title: Fulda
 type: location
+image: fulda.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Steffen Schmitz
 ---
 
 Fulda is one of those German cities that functions as a kind of geographical and historical fulcrum. Located in eastern Hesse roughly equidistant from Frankfurt, Kassel, and Erfurt, it was founded around the Benedictine monastery established by Saint Boniface in 744, and Boniface — the English-born monk who more than any other individual is responsible for the Christianization of Germany — is buried here. His tomb beneath the cathedral draws Catholic pilgrims from across the German-speaking world.

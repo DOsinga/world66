@@ -6,6 +6,10 @@ longitude: 5.500146
 score: 0.4
 title: Genk
 type: location
+image: genk.jpg
+image_source: https://commons.wikimedia.org/wiki/File:3600_Genk,_Belgium_-_panoramio_(4).jpg
+image_license: CC BY-SA 3.0
+image_attribution: Ben Bender
 ---
 
 Genk is the most multicultural city in Flanders, a distinction that came about through hard industrial necessity rather than cosmopolitan planning. When the Belgian coal mines of the Kempen region were at full production in the mid-20th century, labor was recruited from southern Italy and later from Turkey; those communities stayed, built mosques and churches alongside each other, and their children and grandchildren now give the city a character unlike any other in the country. Walking through certain neighborhoods, the languages shift block by block, and the food — Anatolian bakeries, Italian delicatessens, Congolese restaurants — reflects a layered immigration history that spans decades.

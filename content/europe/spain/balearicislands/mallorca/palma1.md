@@ -6,6 +6,10 @@ longitude: 2.650075
 score: 0.73
 title: Palma
 type: location
+image: palma1.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bellver_Castle_Palma_de_Mallorca_Donjon.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Wolfgang Moroder
 ---
 
 Palma de Mallorca presents itself first and most dramatically from the sea. Arriving by ferry or approaching along the coastal road, the city reveals itself as a long arc of pale stone buildings above a harbor, dominated by the cathedral rising directly from the waterfront on its platform of ancient walls. La Seu is one of the great Gothic buildings of the Mediterranean: begun in the fourteenth century, its sheer bulk and the extraordinary verticality of its nave — the second tallest in Europe — make it unlike anything else on the island. Gaudí worked on the interior in the early twentieth century and his modifications, which some find eccentric and others find brilliant, add another layer to a building that repays multiple visits.

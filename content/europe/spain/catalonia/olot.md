@@ -6,6 +6,10 @@ longitude: 2.489021
 score: 0.52
 title: Olot
 type: location
+image: olot.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Olot_urban_view_from_Montsacopa_volcano.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Leonid Bovkun
 ---
 
 Olot is not an obvious volcanic landscape. The volcanoes are extinct — the youngest erupted around 11,000 years ago — and the Garrotxa plateau is deeply green, densely forested, and thoroughly farmed. But the shapes of the land give it away: smooth, symmetrical cones rising from the valley floors, craters filled with beech or oak, lava fields that created soils of unusual fertility. The Zona Volcànica de la Garrotxa contains more than forty volcanic cones and twenty-eight documented lava flows, making it the best-preserved volcanic landscape in the Iberian Peninsula, and walking through it in autumn, when the beeches turn, is an experience that stays with visitors long after they have left.

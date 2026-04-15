@@ -6,6 +6,10 @@ longitude: 9.245805
 score: 0.57
 title: Dougga
 type: location
+image: dougga.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dougga,_Beja.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Emna Trabelsi
 ---
 
 Dougga sits on a hillside in northern Tunisia, roughly 110 km southwest of Tunis, and it rewards the journey handsomely. This is arguably the finest Roman site in North Africa — not because it is the largest, but because it is so complete. Wandering its streets, you pass intact temples, latrines, baths, and private houses in a state that most Mediterranean ruins can only hint at. The hilltop setting adds to the drama: the ruins spill down a slope above a valley of olive trees, and on a clear morning the light over the Medjerda hills is extraordinary.

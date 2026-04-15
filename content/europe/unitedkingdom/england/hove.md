@@ -6,6 +6,10 @@ longitude: -0.174574
 score: 0.49
 title: Hove
 type: location
+image: hove.jpg
+image_source: https://commons.wikimedia.org/wiki/File:All_Saints_Church,_The_Drive,_Hove_(April_2014).JPG
+image_license: CC0
+image_attribution: Hassocks5489
 ---
 
 Hove sits immediately west of Brighton along the Sussex coast, separated in administrative terms since the two merged into a single unitary authority in 1997, though most locals still maintain the distinction with some feeling. Where Brighton pitches itself at weekenders seeking nightlife and the Palace Pier, Hove tends quieter and, it must be said, more expensive. The character is set largely by the seafront architecture: long Regency terraces in cream stucco, with columned porches and iron balconies, running west from the border at the Peace Statue toward the marina and beyond. Brunswick Square and Adelaide Crescent are particularly well preserved and rank among the finest examples of early-nineteenth-century seaside town planning in England.

@@ -6,6 +6,10 @@ longitude: -103.7253
 score: 0.42
 title: Colima
 type: location
+image: colima.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Government_Palace_of_Colima_at_night.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Rx 100e
 ---
 
 Colima is the capital of the state of Colima, one of Mexico's smallest states, and it is a city that rewards a slow visit. It sits in a fertile valley at around 490 meters elevation, giving it a climate that is warm rather than punishing, and a pace that feels genuinely unhurried. The architecture of the centro histórico is well-preserved colonial and neo-classical, centered on the Jardín Libertad, a classic Mexican zócalo with the Cathedral and the neo-classical Palacio de Gobierno on its flanks. The Government Palace's arched portales are one of the better examples of 19th-century civic architecture in western Mexico.

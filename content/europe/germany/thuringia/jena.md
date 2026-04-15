@@ -6,6 +6,10 @@ longitude: 11.587936
 score: 0.45
 title: Jena
 type: location
+image: jena.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Johannistor_-_Jena_April_2021.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Amir.Nakar
 ---
 
 Jena occupies a dramatic position in the valley of the Saale river, where limestone cliffs and wooded hillsides press close on both sides of the water. The city has the feel of a place shaped by ideas as much as by industry, and this is historically accurate: the Friedrich Schiller University, founded in 1558, attracted a concentration of philosophical and literary talent in the 1790s and 1800s that remains almost unparalleled in German cultural history. Schiller himself lived and wrote here, Goethe visited frequently from nearby [Weimar](/europe/germany/thuringia/weimar), Hegel wrote the Phenomenology of Spirit in the city, and Fichte and Schlegel held chairs here simultaneously.

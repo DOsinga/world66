@@ -6,6 +6,10 @@ longitude: 7.473296
 score: 0.37
 title: Hagen
 type: location
+image: hagen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bodendenkmal_Schloss_Hohenlimburg.JPG
+image_license: CC BY 3.0
+image_attribution: Bärwinkel,Klaus
 ---
 
 Hagen sits at the southeastern edge of the Ruhr, where the industrial conurbation gives way to the wooded hills and river valleys of the Sauerland. It is not a place that appears on most visitors' itineraries, and this is largely a mistake attributable to the shadow cast by its larger neighbors. The city owes its cultural significance almost entirely to one man: Karl Ernst Osthaus, a wealthy industrialist's son who in the early twentieth century used his inheritance to assemble one of the most important collections of modern art in Germany, build a museum designed by Henry van de Velde, and attempt to transform Hagen into a center of the Jugendstil movement.

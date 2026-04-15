@@ -5,6 +5,7 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Buxton,_The_Crescent,_built_between_1780_and_1789_-_geograph.org.uk_-_6988583.jpg
 latitude: 53.259342
 longitude: -1.910077
+score: 0.52
 title: Buxton
 type: location
 ---

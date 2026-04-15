@@ -1,6 +1,7 @@
 ---
 latitude: 39.729432
 longitude: -104.831917
+score: 0.35
 title: Aurora
 type: location
 ---

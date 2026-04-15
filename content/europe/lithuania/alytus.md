@@ -1,6 +1,7 @@
 ---
 latitude: 54.396134
 longitude: 24.045927
+score: 0.38
 title: Alytus
 type: location
 ---

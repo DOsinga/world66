@@ -1,6 +1,7 @@
 ---
 latitude: 51.614382
 longitude: 7.197855
+score: 0.37
 title: Recklinghausen
 type: location
 ---

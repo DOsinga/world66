@@ -5,6 +5,7 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Wolverhampton_Art_Gallery_-_Lichfield_Street,_Wolverhampton_(16170369764).jpg
 latitude: 52.584765
 longitude: -2.127567
+score: 0.36
 title: Wolverhampton
 type: location
 ---

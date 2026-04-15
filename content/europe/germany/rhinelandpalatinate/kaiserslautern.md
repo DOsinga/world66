@@ -1,6 +1,7 @@
 ---
 latitude: 49.443217
 longitude: 7.768995
+score: 0.45
 title: Kaiserslautern
 type: location
 ---

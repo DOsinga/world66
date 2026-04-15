@@ -1,6 +1,7 @@
 ---
 latitude: 0.047073
 longitude: 18.25648
+score: 0.26
 title: Mbandaka
 type: location
 ---

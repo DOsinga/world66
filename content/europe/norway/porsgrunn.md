@@ -1,8 +1,9 @@
 ---
-title: Porsgrunn
-type: location
 latitude: 59.1037
 longitude: 9.7364
+score: 0.45
+title: Porsgrunn
+type: location
 ---
 
 Porsgrunn is a small industrial city of about 36,000 on the Porsgrunn River in Telemark county, southeastern Norway. It has been known for porcelain production since the late eighteenth century, and Porsgrunds Porselensfabrikk — Norway's only remaining porcelain manufacturer — still operates here. You can visit the factory outlet and the attached museum, which traces the history of Norwegian porcelain with some beautiful examples of traditional blue-and-white designs.

@@ -1,8 +1,9 @@
 ---
-title: Bo
-type: location
 latitude: 7.9621
 longitude: -11.7367
+score: 0.27
+title: Bo
+type: location
 ---
 
 Bo is Sierra Leone's second largest city and the capital of the Southern Province, a sprawling commercial hub about four hours east of Freetown by road. It functions as the main market town for the south and east of the country, and its busy central market is the economic heart of the region. Bo was one of the first towns in Sierra Leone to have a secondary school -- the Bo Government Secondary School, founded in 1906 -- and it retains a reputation as an education center.

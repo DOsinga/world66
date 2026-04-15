@@ -1,8 +1,9 @@
 ---
-title: Lorca
-type: location
 latitude: 37.6712
 longitude: -1.6989
+score: 0.49
+title: Lorca
+type: location
 ---
 
 Lorca sits at the edge of the Guadalentin Valley in southeastern Spain, a city whose skyline is still dominated by the fortress that has watched over it for a thousand years. The Castillo de Lorca, perched on the hill above the old town, dates back to the Islamic period and remains the city's defining landmark. Below it, the streets are lined with a striking collection of Baroque churches and noble houses that earned Lorca the nickname "the Baroque city" -- the Colegiata de San Patricio, the Plaza de Espana, and the Columna Miliaria all reward a slow wander through the centro historico.

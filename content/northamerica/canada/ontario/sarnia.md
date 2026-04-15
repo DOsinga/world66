@@ -1,6 +1,7 @@
 ---
 latitude: 42.974382
 longitude: -82.403533
+score: 0.34
 title: Sarnia
 type: location
 ---

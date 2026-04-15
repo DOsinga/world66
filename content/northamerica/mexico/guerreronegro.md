@@ -5,6 +5,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Salt_production_in_Guerrero_Negro.jpg
 latitude: 27.971
 longitude: -114.0364
+score: 0.42
 title: Guerrero Negro
 type: location
 ---

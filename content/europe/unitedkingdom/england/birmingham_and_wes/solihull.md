@@ -1,8 +1,9 @@
 ---
+latitude: 52.413
+longitude: -1.7769
+score: 0.36
 title: Solihull
 type: location
-latitude: 52.4130
-longitude: -1.7769
 ---
 
 Solihull is an affluent town of about 120,000 in the West Midlands, sitting on the southeastern edge of Birmingham. It consistently ranks among the best places to live in England, with tree-lined streets, good schools, and a town center that manages to feel both prosperous and pleasant. The medieval St Alphege Church anchors the old high street, and the Tudor-style houses around it give the center a historic character that distinguishes it from its more industrial neighbors.

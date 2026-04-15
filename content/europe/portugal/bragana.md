@@ -1,8 +1,9 @@
 ---
-title: Bragança
-type: location
 latitude: 41.8057
 longitude: -6.7573
+score: 0.46
+title: Bragança
+type: location
 ---
 
 Braganca is the capital of the remote Tras-os-Montes region in Portugal's far northeast, about as far from Lisbon as you can get and still be in the country. The city is best known for its magnificent citadel, a walled medieval compound that crowns the hilltop above the modern town. Inside the walls you will find the 13th-century castle keep, a pillory, a Romanesque council chamber called the Domus Municipalis -- one of the rarest examples of civic Romanesque architecture in the Iberian Peninsula -- and a handful of houses that people still live in. It is one of the most atmospheric fortified towns in Portugal.

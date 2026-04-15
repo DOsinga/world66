@@ -1,6 +1,7 @@
 ---
 latitude: 10.325
 longitude: -84.4313
+score: 0.45
 title: Ciudad Quesada
 type: location
 ---

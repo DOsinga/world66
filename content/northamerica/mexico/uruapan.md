@@ -1,8 +1,9 @@
 ---
-title: Uruapan
-type: location
 latitude: 19.4147
 longitude: -102.0523
+score: 0.41
+title: Uruapan
+type: location
 ---
 
 Uruapan sits in the lush highlands of Michoacán and proudly calls itself the avocado capital of the world — a title that is hard to argue with, given that the surrounding region produces a staggering share of Mexico's avocado crop. The city itself, home to about 300,000 people, is a pleasant surprise: the Parque Nacional Barranca del Cupatitzio, right at the edge of town, is a beautiful riverside park where the Cupatitzio River springs from the earth through mossy rocks and tropical vegetation. It is one of the loveliest urban parks in all of Mexico.

@@ -1,6 +1,7 @@
 ---
 latitude: 10.2803
 longitude: -61.4681
+score: 0.45
 title: San Fernando
 type: location
 ---

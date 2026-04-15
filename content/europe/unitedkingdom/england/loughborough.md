@@ -1,6 +1,7 @@
 ---
 latitude: 52.772386
 longitude: -1.207798
+score: 0.38
 title: Loughborough
 type: location
 ---

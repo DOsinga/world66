@@ -1,6 +1,7 @@
 ---
 latitude: 28.774997
 longitude: 77.458697
+score: 0.22
 title: Ghaziabad
 type: location
 ---

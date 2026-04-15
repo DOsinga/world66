@@ -1,6 +1,7 @@
 ---
 latitude: 28.039465
 longitude: -81.949804
+score: 0.39
 title: Lakeland
 type: location
 ---

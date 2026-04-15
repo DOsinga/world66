@@ -5,6 +5,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Facades_of_Handelskade,_Willemstad,_Cura%C3%A7ao_-_February_2020.jpg
 latitude: 12.1696
 longitude: -68.99
+score: 0.62
 title: Willemstad
 type: location
 ---

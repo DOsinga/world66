@@ -1,6 +1,7 @@
 ---
 latitude: 19.540834
 longitude: -96.914637
+score: 0.51
 title: Xalapa
 type: location
 ---

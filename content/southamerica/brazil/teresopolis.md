@@ -1,6 +1,7 @@
 ---
 latitude: -22.297804
 longitude: -42.864641
+score: 0.5
 title: Teresópolis
 type: location
 ---

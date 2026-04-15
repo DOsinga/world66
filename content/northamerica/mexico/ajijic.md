@@ -5,6 +5,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ajijic_Malecon_Sunset.jpg
 latitude: 20.3002
 longitude: -103.2619
+score: 0.52
 title: Ajijic
 type: location
 ---

@@ -5,6 +5,7 @@ image_license: FAL
 image_source: https://commons.wikimedia.org/wiki/File:Curonian_Spit_NP_05-2017_img17_aerial_view_at_Epha_Dune.jpg
 latitude: 55.3075
 longitude: 20.8628
+score: 0.52
 title: Nida
 type: location
 ---

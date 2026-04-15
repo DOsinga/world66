@@ -1,6 +1,7 @@
 ---
 latitude: 26.992099
 longitude: 41.489258
+score: 0.31
 title: Ha'il
 type: location
 ---

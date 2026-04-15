@@ -1,8 +1,9 @@
 ---
+latitude: 51.6739
+longitude: 7.816
+score: 0.38
 title: Hamm
 type: location
-latitude: 51.6739
-longitude: 7.8160
 ---
 
 Hamm is an industrial city in eastern Westphalia that most travelers pass through without stopping, but it has a couple of genuinely unusual attractions that make it worth a detour. The Sri Kamadchi Ampal Temple is the largest Hindu temple in Europe, built by the city's Sri Lankan Tamil community and consecrated in 2002. Its colorful gopuram tower, covered in hundreds of carved and painted deities, looks startlingly out of place against the grey North Rhine-Westphalian sky. The temple is open to visitors and hosts a major festival each summer that draws tens of thousands of Hindu pilgrims from across Europe.

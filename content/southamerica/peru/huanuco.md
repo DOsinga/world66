@@ -1,8 +1,9 @@
 ---
-title: Huánuco
-type: location
 latitude: -9.9306
 longitude: -76.2422
+score: 0.44
+title: Huánuco
+type: location
 ---
 
 Huanuco sits in a fertile valley on the eastern slopes of the Andes at around 1,800 meters, giving it a mild, pleasant climate that locals proudly call "the best in the world." The city is the capital of the Huanuco region and serves as a market town for the surrounding agricultural areas, which produce coffee, cacao, and tropical fruit. It is not on most tourist itineraries, which means you get an authentic Peruvian highland city without the crowds.

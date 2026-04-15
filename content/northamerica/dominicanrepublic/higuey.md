@@ -1,6 +1,7 @@
 ---
 latitude: 18.6152
 longitude: -68.7078
+score: 0.38
 title: Higüey
 type: location
 ---

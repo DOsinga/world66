@@ -1,8 +1,9 @@
 ---
+latitude: -10.717
+longitude: 25.467
+score: 0.21
 title: Kolwezi
 type: location
-latitude: -10.7170
-longitude: 25.4670
 ---
 
 Kolwezi is a mining city of roughly 450,000 in the southern Katanga province of the Democratic Republic of the Congo, and its story is inseparable from what lies beneath its red soil. The city sits on some of the richest cobalt and copper deposits on the planet, and mining — industrial and artisanal — dominates everything here. It is not a tourist destination in any conventional sense, but for those with a reason to be in this part of the DRC, it offers a raw look at one of the world's most strategically important mining regions.

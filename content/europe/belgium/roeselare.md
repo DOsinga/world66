@@ -1,8 +1,9 @@
 ---
+latitude: 50.945
+longitude: 3.1244
+score: 0.39
 title: Roeselare
 type: location
-latitude: 50.9450
-longitude: 3.1244
 ---
 
 Roeselare — known as Roulers in French — is a West Flemish city of about 65,000 that most travelers pass through without stopping, which is a shame. The town has deep roots in Belgium's cycling culture: it is the hometown of several professional cyclists, and the surrounding flat Flemish countryside offers some of the same roads used in classic spring races. The local cycling museum, KOERS, is an excellent modern museum that tells the story of Belgian road cycling with real bikes, memorabilia, and interactive exhibits, and it alone justifies a detour.

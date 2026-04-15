@@ -1,6 +1,7 @@
 ---
 latitude: 47.953419
 longitude: 8.495926
+score: 0.45
 title: Donaueschingen
 type: location
 ---

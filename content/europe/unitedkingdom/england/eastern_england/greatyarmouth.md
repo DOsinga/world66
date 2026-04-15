@@ -5,6 +5,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Britannia_Pier,_Great_Yarmouth_-_May_2012.jpg
 latitude: 52.607174
 longitude: 1.731485
+score: 0.46
 title: Great Yarmouth
 type: location
 ---

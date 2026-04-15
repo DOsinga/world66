@@ -5,6 +5,7 @@ image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Darmstadt_Mathildenh%C3%B6he_Hochzeitsturm.jpg
 latitude: 49.8728
 longitude: 8.6512
+score: 0.44
 title: Darmstadt
 type: location
 ---

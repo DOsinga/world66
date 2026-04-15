@@ -1,8 +1,9 @@
 ---
+latitude: 47.5838
+longitude: 18.398
+score: 0.37
 title: Tatabánya
 type: location
-latitude: 47.5838
-longitude: 18.3980
 ---
 
 Tatabánya is the capital of Komárom-Esztergom county in northwestern Hungary, a city of about 65,000 that grew up around coal mining and heavy industry in the twentieth century. It is not a conventional tourist destination, but it has one genuinely impressive sight: the Turul monument on the hilltop above the city, a massive bronze bird of prey with a wingspan of fifteen meters, one of the largest bird statues in Europe. The views from up there across the Tatabánya basin and the Gerecse Hills are worth the climb.

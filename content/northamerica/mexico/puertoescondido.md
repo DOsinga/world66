@@ -5,6 +5,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Playa_Principal_Puerto_Escondido_Oaxaca.jpg
 latitude: 15.8693
 longitude: -97.0726
+score: 0.61
 title: Puerto Escondido
 type: location
 ---

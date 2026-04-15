@@ -1,6 +1,7 @@
 ---
 latitude: 53.545719
 longitude: -2.626462
+score: 0.35
 title: Wigan
 type: location
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 52.162528
 longitude: 10.534821
+score: 0.43
 title: Wolfenbüttel
 type: location
 ---

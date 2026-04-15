@@ -5,6 +5,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Capricho_Gaud%C3%AD_Comillas_exterior.jpg
 latitude: 43.3855
 longitude: -4.2902
+score: 0.58
 title: Comillas
 type: location
 ---

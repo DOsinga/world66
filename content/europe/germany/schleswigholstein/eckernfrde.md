@@ -5,6 +5,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Eckernf%C3%B6rde_Hafen_Holzbr%C3%BCcke.jpg
 latitude: 54.4742
 longitude: 9.8376
+score: 0.41
 title: Eckernförde
 type: location
 ---

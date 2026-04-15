@@ -1,8 +1,9 @@
 ---
-title: Isla Verde
-type: location
 latitude: 18.4494
 longitude: -66.0017
+score: 0.5
+title: Isla Verde
+type: location
 ---
 
 Isla Verde is the easternmost beach neighborhood in the San Juan metropolitan area, sitting right next to Luis Munoz Marin International Airport. The beach here is arguably the best in the city -- a wide, palm-lined stretch of golden sand with clear water and enough wave action to keep things interesting without being dangerous. The big resort hotels (Ritz-Carlton, Intercontinental) line the waterfront, but the beach itself is public and accessible.

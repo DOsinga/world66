@@ -1,6 +1,7 @@
 ---
 latitude: 52.161594
 longitude: 22.281253
+score: 0.33
 title: Siedlce
 type: location
 ---

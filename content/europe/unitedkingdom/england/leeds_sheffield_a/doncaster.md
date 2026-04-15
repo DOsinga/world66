@@ -1,8 +1,9 @@
 ---
-title: Doncaster
-type: location
 latitude: 53.5228
 longitude: -1.1335
+score: 0.39
+title: Doncaster
+type: location
 ---
 
 Doncaster is a South Yorkshire market town of around 110,000 people with a history that runs surprisingly deep. The Romans built a fort here — Danum — and the town has been a crossroads ever since, sitting where the Great North Road meets the Don Valley. Today it is best known for horse racing: Doncaster Racecourse is one of the oldest in England, and the St Leger Stakes, run here every September since 1776, is the world's oldest classic horse race. On race days the town comes alive with a buzz that reaches well beyond the track.

@@ -1,6 +1,7 @@
 ---
 latitude: 14.46768
 longitude: 121.01528
+score: 0.34
 title: Parañaque
 type: location
 ---

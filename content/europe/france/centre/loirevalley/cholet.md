@@ -1,6 +1,7 @@
 ---
 latitude: 47.061729
 longitude: -0.880136
+score: 0.43
 title: Cholet
 type: location
 ---

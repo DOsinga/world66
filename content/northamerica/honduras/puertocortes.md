@@ -1,6 +1,7 @@
 ---
 latitude: 15.8356
 longitude: -87.9506
+score: 0.36
 title: Puerto Cortés
 type: location
 ---

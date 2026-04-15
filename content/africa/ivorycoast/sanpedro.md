@@ -1,8 +1,9 @@
 ---
+latitude: 4.759
+longitude: -6.6464
+score: 0.31
 title: San-Pédro
 type: location
-latitude: 4.7590
-longitude: -6.6464
 ---
 
 San-Pédro is the second-largest port city in Ivory Coast, a bustling Atlantic town of around 200,000 people on the country's southwestern coast. Built up in the 1970s around a deep-water port to export cocoa, timber, and rubber, it has a more modern feel than many Ivorian cities, with wide boulevards and a grid layout that makes it easy to navigate. The port remains the economic engine, but the real attraction for visitors is the coastline — long stretches of sandy beach fringed by coconut palms, with warm water and relatively few people.

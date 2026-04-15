@@ -1,6 +1,7 @@
 ---
 latitude: 8.888194
 longitude: -12.044186
+score: 0.26
 title: Makeni
 type: location
 ---

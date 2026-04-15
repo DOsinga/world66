@@ -5,6 +5,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Swanage_Bay,_Dorset,_England.jpg
 latitude: 50.608698
 longitude: -1.957197
+score: 0.52
 title: Swanage
 type: location
 ---

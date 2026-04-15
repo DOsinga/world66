@@ -20,8 +20,6 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 RAW_DIR = os.path.join(SCRIPT_DIR, "raw")
 CONTENT_DIR = os.path.join(SCRIPT_DIR, "..", "content")
 INDEX_FILE = os.path.join(SCRIPT_DIR, "site_index.json")
-REDIRECTS_FILE = os.path.join(SCRIPT_DIR, "..", "redirects.json")
-
 # Sub-regions to flatten: remove the sub-region from the path
 # e.g. asia/middleeast/turkey -> asia/turkey
 SUBREGIONS_TO_FLATTEN = {
@@ -701,7 +699,6 @@ def run_extraction():
     print(f"Found {len(html_files)} HTML files to process")
 
     index = []
-    redirects = {}
     processed = 0
     skipped = 0
 
@@ -710,12 +707,6 @@ def run_extraction():
         if result:
             index.append(result)
             processed += 1
-            # Collect redirects from flattened sub-regions
-            old_path = result.get("old_path")
-            if old_path:
-                new_path = result["path"].replace(".md", "")
-                old_clean = old_path.replace(".html", "")
-                redirects[old_clean] = new_path
         else:
             skipped += 1
 
@@ -724,11 +715,6 @@ def run_extraction():
 
     with open(INDEX_FILE, "w") as f:
         json.dump(index, f, indent=2)
-
-    if redirects:
-        with open(REDIRECTS_FILE, "w") as f:
-            json.dump(redirects, f, indent=2)
-        print(f"  Redirects: {len(redirects)} saved to {REDIRECTS_FILE}")
 
     print(f"\nDone!")
     print(f"  Extracted: {processed} pages")

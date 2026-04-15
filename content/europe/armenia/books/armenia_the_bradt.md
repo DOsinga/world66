@@ -21,7 +21,7 @@ indispensable guide to a fascinating country.
 
 Inside you will find
 information on: full and half-day excursions from Yerevan; the
-territory of [Nagorno Karabagh](/europe/armenia/nagornokarabakh); history of the first country officially
+territory of [Nagorno Karabagh](/europe/azerbaijan/nagornokarabakh); history of the first country officially
 to adopt Christianity; useful words and phrases; 24 clear maps,
 including monasteries; architecture, wildlife, religion and culture.
 

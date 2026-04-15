@@ -1,13 +1,17 @@
 ---
 done:
-  location_cleanup: '2026-04-09'
-latitude: 49.489291
-longitude: 8.46731
+  location_cleanup: '2026-04-10'
+latitude: 49.4875
+longitude: 8.466
 title: Mannheim
 type: location
-score: 0.45
+score: 0.46
 ---
 
-Mannheim sits at the confluence of the Rhine and Neckar rivers in Baden-Württemberg, directly opposite Ludwigshafen on the far bank. It is a working city more than a tourist one, but its distinctive grid layout — the centre is divided into numbered blocks rather than named streets — gives it a character all its own.
+Mannheim is one of the few European cities built on a grid. When the Palatinate Elector Friedrich IV founded it in 1606, the streets were laid out in neat squares, and the blocks were given letter-number coordinates instead of names — you navigate by quadrant, not by street. The palace is in A1, the old market in E2. It takes about an hour to stop finding this confusing and start finding it charming.
 
-The **Barockschloss** (Baroque Palace) is one of the largest in Europe, now home to the University of Mannheim. The **Kunsthalle Mannheim** has a strong modern art collection, and the **Technoseum** is one of Germany's best technology museums. Mannheim also has a legitimate claim to automotive history: Karl Benz built and drove the first petrol-powered car here in 1886. The Jungbusch quarter along the harbour has become the city's liveliest neighbourhood for bars and restaurants.
+The city sits at the point where the Neckar flows into the Rhine, which made it important for trade and later for industry. Mannheim was an early hub of German industrialisation, and BASF — one of the world's largest chemical companies — was founded here in 1865. Karl Benz built his first petrol-powered automobile here in 1885. The city takes both facts seriously and has built good museums around them.
+
+The Baroque palace at the western end of the grid is enormous — one of the largest in Germany, its main facade stretching 450 metres. It was heavily bombed in the Second World War and rebuilt, and today most of it belongs to the university. The Kunsthalle has a strong collection of 19th- and 20th-century German art, and the Technoseum in the old tram depot is one of Germany's best technology museums. The Jungbusch quarter along the harbour has become the city's liveliest neighbourhood for bars and restaurants.
+
+Mannheim is not a city that tourists typically choose first, and that's part of its appeal. It is a working, unsentimental city with a genuinely diverse population — about 40 percent of residents have a migration background — and a lively music scene that punches above its weight for a city of 300,000. The Nationaltheater is one of the most prestigious in Germany.

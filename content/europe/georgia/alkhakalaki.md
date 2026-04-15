@@ -12,4 +12,4 @@ Akhalkalaki is a small city in the Samtskhe-Javakheti region of southern Georgia
 
 If you are trying to reach the cave monastery of [Vardzia](/europe/georgia/vardzia), Akhalkalaki is not the most convenient base — [Akhaltsikhe](/europe/georgia/alkhatsikhe) serves that better — but it is possible. Take a marshrutka minibus towards Khertvisi and try to pick up an onward connection to [Vardzia](/europe/georgia/vardzia) from there.
 
-The border crossing into Armenia is straightforward. Minibuses and shared taxis run to [Gyumri](/europe/armenia/gyumri), Armenia's second city; a private taxi should cost around $20.
+The border crossing into Armenia is straightforward. Minibuses and shared taxis run to [Gyumri](/europe/armenia/shirak_marz/gyumri), Armenia's second city; a private taxi should cost around $20.

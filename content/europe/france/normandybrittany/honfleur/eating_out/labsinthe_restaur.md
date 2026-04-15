@@ -1,7 +1,9 @@
 ---
-title: "L'Absinthe restaurant"
+title: "L'Absinthe"
 type: poi
-address: "10, quai de la Quarantane"
+address: "10, quai de la Quarantaine"
+latitude: 49.4193
+longitude: 0.2337
 ---
 
-L'Absinthe restaurant, facing the harbour, has two magnificient dinning rooms, both of them conserve the visible stonework, beams and fireplaces. one of these dates from the 15th century (former house to the English guards during the Hundred Years War) and the other from the 17th century.
+Facing the harbour, L'Absinthe occupies two dining rooms with exposed stonework, beams, and fireplaces — one dating from the 15th century (a former English guardhouse during the Hundred Years' War), the other from the 17th century. The food matches the setting.

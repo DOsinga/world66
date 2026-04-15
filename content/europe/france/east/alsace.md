@@ -1,9 +1,11 @@
 ---
-title: Alsace
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 50.70069
 longitude: 3.161005
 score: 0.67
+title: Alsace
+type: location
 ---
 
 The Alsace has been popular with invading armies and tourists alike. Well, we have to admit the area is extremely pretty, the white wines are great and the food is delicious.

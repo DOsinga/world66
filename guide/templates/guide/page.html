@@ -169,7 +169,6 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     {% for nb in neighbourhoods %}
     <a class="neighbourhood-card" href="{{ nb.get_absolute_url }}">
       <div class="neighbourhood-card-title">{{ nb.title }}</div>
-      {% if nb.snippet %}<div class="neighbourhood-card-snippet">{{ nb.snippet }}</div>{% endif %}
     </a>
     {% endfor %}
   </div>

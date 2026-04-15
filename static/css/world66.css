@@ -895,11 +895,6 @@ img { max-width: 100%; height: auto; }
   margin-bottom: 6px;
 }
 
-.neighbourhood-card-snippet {
-  font-size: 12px;
-  color: var(--text-light);
-  line-height: 1.5;
-}
 
 /* ==========================================================================
    Home page

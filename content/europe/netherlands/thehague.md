@@ -1,9 +1,11 @@
 ---
-title: The Hague
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 52.074946
 longitude: 4.26968
 score: 0.63
+title: The Hague
+type: location
 ---
 
 The Hague is not the capital of the Netherlands, but it is the seat of the government and is also the place where Queen Beatrix lives. The city center is pretty, with quite a few nice government buildings (the ugly government buildings are mostly outside of the center), stately mansions (many owned by ambassadors and or embassies) good museums (Mauritshuis, Panorama Mesdag) and a nice square to sit and have a drink (Plein).

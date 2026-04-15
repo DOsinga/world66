@@ -1,7 +1,11 @@
 ---
+done:
+  location_cleanup: '2026-04-14'
+latitude: -27.25
+longitude: 153.07
+score: 0.37
 title: Clontarf
 type: location
-latitude: -27.978298
-longitude: 151.223106
-score: 0.37
 ---
+
+Clontarf is a bayside suburb north of Brisbane, across Bramble Bay from Sandgate. It's a quiet residential area popular with families for its foreshore and beach access. Like Sandgate and Shorncliffe nearby, Clontarf retains a relaxed coastal character within easy reach of Brisbane by train. The waterfront is good for walking and fishing, and the suburb is unassuming and unpretentious — a genuine local neighbourhood rather than a destination.

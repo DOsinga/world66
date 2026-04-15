@@ -6,6 +6,10 @@ longitude: 16.156687
 score: 0.4
 title: Outjo
 type: location
+image: outjo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Outjo_(2018).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Hp.Baumeler
 ---
 
 Outjo is a small, dusty town in northern [Namibia](/africa/namibia) that serves as the main gateway to [Etosha National Park](/africa/namibia/etosha). Most travellers pass through on their way to the park's Anderson Gate, about 100 kilometres to the north, but Outjo is worth a stop in its own right — if only to stock up on supplies and get a feel for small-town Namibian life.

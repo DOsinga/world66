@@ -6,6 +6,10 @@ longitude: -75.083511
 score: 0.44
 title: Rehoboth Beach
 type: location
+image: rehobothbeach.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Air_view_of_Rehoboth_Beach_and_boardwalk_from_the_south,_Rehoboth_Beach,_Del_(63081).jpg
+image_license: Public domain
+image_attribution: Tichnor Brothers, Publisher
 ---
 
 Rehoboth Beach is a small, walkable beach town on Delaware's Atlantic coast that bills itself as "The Nation's Summer Capital" — a reference to the waves of Washington DC families, politicians, and lobbyists who have been coming here since the late 19th century. The mile-long boardwalk is the heart of it: Thrasher's fries, Grotto Pizza, Dolle's saltwater taffy, and a bandstand with free concerts on summer evenings.

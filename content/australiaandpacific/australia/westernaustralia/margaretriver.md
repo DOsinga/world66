@@ -6,6 +6,10 @@ longitude: 115.076937
 score: 0.61
 title: Margaret River
 type: location
+image: margaretriver.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Margaret_River_District_Club.jpg
+image_license: CC0
+image_attribution: Evad37
 ---
 
 Margaret River is Western Australia's premier wine region, a stretch of coast and hinterland between two capes where over 200 wineries produce some of Australia's best cabernet sauvignon and chardonnay. But wine is only part of the story. The coastline here is stunning — powerful surf breaks, limestone caves, and tall karri forests that run almost to the shore.

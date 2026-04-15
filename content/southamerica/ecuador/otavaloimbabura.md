@@ -6,6 +6,10 @@ longitude: -78.228757
 score: 0.6
 title: Otavalo
 type: location
+image: otavaloimbabura.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hosteria_Puertolago,_Otavalo,_Ecuador,_2015-07-21,_DD_14.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
 ---
 
 Otavalo is a small Andean town in Ecuador's Imbabura province, two hours north of Quito, and home to one of South America's most famous markets. Every Saturday the Plaza de los Ponchos fills with indigenous Otavaleño vendors selling woven textiles, blankets, hammocks, and jewellery — a tradition that predates the Inca conquest. The quality of the weaving is genuinely good, and prices are reasonable if you are willing to bargain.

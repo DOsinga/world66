@@ -6,6 +6,10 @@ longitude: 14.708448
 score: 0.5
 title: Cava dei Tirreni
 type: location
+image: cavadeitirreni.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cava.jpg
+image_license: CC BY 3.0
+image_attribution: Gegè Avagliano
 ---
 
 Cava dei Tirreni is a small city in the hills above Salerno, known for its 11th-century Benedictine abbey (the Badia della Santissima Trinità di Cava) and its long porticoed main street. It is a working town with little tourist infrastructure, but the abbey is worth a visit if you are passing through the area. The historic centre is pleasant to walk.

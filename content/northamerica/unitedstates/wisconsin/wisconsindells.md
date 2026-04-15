@@ -6,6 +6,10 @@ longitude: -89.771565
 score: 0.45
 title: Wisconsin Dells
 type: location
+image: wisconsindells.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Broadway_in_Wisconsin_Dells.jpg
+image_license: CC0
+image_attribution: Runner1928
 ---
 
 Wisconsin Dells calls itself the "Waterpark Capital of the World," and the claim is not far-fetched. This small city on the Wisconsin River has more indoor and outdoor waterparks per capita than anywhere else in the United States, drawing millions of visitors each summer from Chicago, Milwaukee, and the wider Midwest.

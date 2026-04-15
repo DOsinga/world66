@@ -6,6 +6,10 @@ longitude: -117.113049
 score: 0.44
 title: Imperial Beach
 type: location
+image: imperialbeach.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Imperial_Beach.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dstana
 ---
 
 Imperial Beach is the most south-westerly city in the continental United States, sitting right on the Mexican border where the Tijuana River meets the Pacific. It has a scrappier, more local feel than the polished beach towns further north along the San Diego coast — no boutique hotels, no upscale boardwalk, just a long stretch of sand, a fishing pier, and a neighbourhood that still feels like a real place rather than a resort.

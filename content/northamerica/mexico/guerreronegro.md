@@ -6,6 +6,10 @@ longitude: -114.036389
 score: 0.42
 title: Guerrero Negro
 type: location
+image: guerreronegro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Salt_production_in_Guerrero_Negro.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Tomascastelazo
 ---
 
 Guerrero Negro sits on the border between Baja California and Baja California Sur, a dusty salt-mining town that transforms every winter into one of the best places on earth to see grey whales. From January to March, thousands of grey whales enter the Ojo de Liebre lagoon (also called Scammon's Lagoon) to calve and nurse, and the mothers regularly bring their calves right up to the small boats — close enough to touch.

@@ -6,6 +6,10 @@ longitude: 153.113529
 score: 0.51
 title: Coffs Harbour
 type: location
+image: coffsharbour.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Coffs_Harbour_IMG_4379_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: Paul Lakin
 ---
 
 Coffs Harbour sits roughly halfway between Sydney and Brisbane on the New South Wales mid-north coast, a position that has made it a natural stopping point on the Pacific Highway for decades. The town itself is unpretentious — a working banana-growing region with a fishing harbour and a long stretch of beaches running north and south.

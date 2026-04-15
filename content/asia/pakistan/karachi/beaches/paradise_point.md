@@ -1,9 +1,9 @@
 ---
 title: "Paradise Point"
 type: poi
+category: "Beach"
 latitude: 24.843075
 longitude: 66.775429
 ---
 
-Paradise Point, on the Arabian Sea, is a beach in Karachi, Sindh, Pakistan. Paradise Point is a sandstone rock promontory with a natural arch.
-The beach has attractions for families and tourists, including beachside horse and camel rides, amusement parks, restaurants, and swimming in the Arabian Sea.
+A sandstone rock promontory with a natural arch on the Arabian Sea, about 40km west of the city. The beach here is popular for swimming, with horse and camel rides, amusement stalls, and seafood restaurants. The geological formation — a large natural sea arch — is the main visual attraction.

@@ -1,9 +1,11 @@
 ---
-title: La Mancha
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 39.499954
 longitude: -2.79999
 score: 0.54
+title: La Mancha
+type: location
 ---
 
 La Mancha is part of Castille. It is formed by five provinces: [Toledo](/europe/spain/la_mancha/toledo), [Ciudad Real](/europe/spain/centralspain/ciudadreal), [Albacete](/europe/spain/la_mancha/albacete), Cuenca and Guadalajara.

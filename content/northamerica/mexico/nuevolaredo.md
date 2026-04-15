@@ -1,12 +1,12 @@
 ---
-done:
-  location_cleanup: '2026-04-14'
-latitude: 27.4793
-longitude: -99.5221
+latitude: 27.479303
+longitude: -99.522108
 title: Nuevo Laredo
 type: location
 ---
 
-Nuevo Laredo sits directly on the Rio Grande across from Laredo, Texas, forming one of the busiest land border crossings between Mexico and the United States. The city is primarily a commercial hub and transit point: most travellers pass through quickly, either crossing into Texas or heading south into Mexico on the Pan-American Highway.
+Nuevo Laredo sits on the south bank of the Rio Grande directly opposite Laredo, Texas, and is one of the busiest commercial border crossings in the Western Hemisphere. Thousands of trucks pass through here daily, and that trade-driven energy defines the city far more than tourism does. This is not a place most travelers visit for pleasure, and you should be honest with yourself about the security situation before planning a trip. Check current advisories carefully.
 
-The city has suffered significantly from cartel violence in recent years, and the security situation along this stretch of the border deserves serious attention before travelling. Most travellers with no specific reason to be here will do better to cross at other points or press through without lingering. For those who must stop, the central market area has decent food stalls and there is a lively street life along the main commercial streets.
+If you do find yourself in Nuevo Laredo, the Zona Centro around Calle Guerrero has restaurants serving solid norteño food, cabrito in particular. The Parque Viveros is a green space worth a stroll. But the city's identity is fundamentally tied to commerce and the border, and most of what there is to see reflects that reality. The international bridges connecting to Laredo are the main landmarks, and the contrast between the two sides of the river tells its own story about the US-Mexico border.
+
+For most travelers, Nuevo Laredo is a transit point rather than a destination. If you are crossing into Mexico by land from Texas, you will likely pass through here, but there is little reason to linger when cities like Monterrey are just two and a half hours south by highway.

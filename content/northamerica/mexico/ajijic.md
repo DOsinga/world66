@@ -1,15 +1,14 @@
 ---
-done:
-  location_cleanup: '2026-04-14'
-latitude: 20.300198
-longitude: -103.261934
-score: 0.52
 title: Ajijic
 type: location
+latitude: 20.3002
+longitude: -103.2619
 ---
 
-Ajijic is a lakeside village on the north shore of Lake Chapala, about 45 kilometres south of [Guadalajara](/northamerica/mexico/guadalajara), and home to one of the largest communities of North American and European retirees in Mexico. The climate is close to perfect — warm days, cool nights, and a dry season from November to May — and the setting, with the Sierra de San Juan Cosalá rising behind the village and the lake stretching to the south, is genuinely beautiful.
+Ajijic is a small town on the northern shore of Lake Chapala, about an hour south of Guadalajara, and it has the largest community of North American expats in Mexico — estimates vary, but tens of thousands of Americans and Canadians have settled along this stretch of lakeshore. The reasons are obvious: the climate is close to perfect, with warm days, cool nights, and almost no rain from October to May. The setting, with the Sierra Madre mountains rising behind the town and the vast lake stretching to the south, is genuinely beautiful.
 
-The village centre has cobblestone streets, whitewashed houses, bougainvillea cascading over walls, and a pleasant malecón along the lake. The arts scene is lively — galleries, workshops, and an active local theatre community. The restaurants are good and varied, catering both to Mexican families from Guadalajara and to the expat community.
+The town center is charming in a well-worn way, with cobblestone streets, bougainvillea-draped walls, and a remarkable number of art galleries for a place this size. Ajijic has attracted artists and writers for decades — the light and the landscape have that effect — and the gallery scene along the main streets is worth browsing. The Lake Chapala Society, a community center for English-speaking residents, organizes lectures, classes, and social events that give the town an unusually active cultural life.
 
-Lake Chapala itself is Mexico's largest natural lake, though it has suffered from water-level fluctuations and pollution concerns. The lake was higher and cleaner in earlier decades, and swimming is no longer advisable in most places. Still, the light over the water in the late afternoon is lovely, and the surrounding villages — Chapala town, Jocotepec, San Juan Cosalá (with its hot springs) — are worth exploring. Ajijic's combination of Mexican village life, international community, and near-perfect weather explains why people who come for a week end up staying for years.
+The expat presence shapes the town in ways that are both appealing and a little strange. You can find English-language bookshops, bridge clubs, and American-style brunch spots alongside traditional Mexican markets, taco stands, and the parish church. Prices are higher than in most Mexican towns of this size, but still remarkably affordable by North American standards, which explains the appeal for retirees. The Mexican community and the expat community coexist with what appears to be genuine warmth, though like any such arrangement, the dynamics are more complex than they first appear.
+
+Lake Chapala itself, Mexico's largest natural lake, has had environmental problems — water levels fluctuate and pollution has been a concern — but it remains scenic, and the lakeshore malecon offers pleasant walks with mountain views. The nearby town of Chapala is more Mexican in character and worth a visit for its waterfront restaurants and weekend market. From Ajijic, you can also easily reach Guadalajara for its museums, markets, and tequila country excursions. If you are considering a longer stay in Mexico, spending a few days here will show you why so many people never leave.

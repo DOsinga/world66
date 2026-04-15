@@ -1,17 +1,18 @@
 ---
-done:
-  location_cleanup: '2026-04-14'
-latitude: 15.8694
-longitude: -97.0724
-score: 0.61
+image: puertoescondido.jpg
+image_attribution: Nsaum75
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Playa_Principal_Puerto_Escondido_Oaxaca.jpg
+latitude: 15.8693
+longitude: -97.0726
 title: Puerto Escondido
 type: location
 ---
 
-Puerto Escondido, on the Pacific coast of Oaxaca state, is one of Mexico's most popular surf destinations and has grown from a small fishing village into a lively beach town without entirely losing its original character. The name means "hidden port" — a reference to the sheltered bay that made it a useful anchorage long before it became a traveller destination.
+Puerto Escondido is the surf capital of Mexico's Pacific coast, a laid-back beach town on the Oaxacan coast that has grown from a sleepy fishing village into a magnet for surfers, backpackers, and increasingly, digital nomads and yoga enthusiasts. The main draw is Playa Zicatela, a powerful beach break that produces some of the heaviest waves in the Americas — the Mexican Pipeline, as it is known, hosts international surf competitions and is strictly for experienced surfers. The waves here are spectacular to watch even if you have no intention of getting in the water.
 
-The town's main draw is the surf. Playa Zicatela, a long straight beach south of the town centre, hosts the Mexican Pipeline — a powerful, fast-breaking wave that draws professional surfers from around the world and regularly holds international competitions. This is not a beginner beach: the surf here is serious, and even watching from the shore gives a sense of its power. Gentler waves can be found at Playa Carrizalillo and Playa Manzanillo, both small cove beaches within walking distance of town.
+But Puerto Escondido is much more than one fearsome wave. The sheltered bays of Playa Carrizalillo and Puerto Angelito offer calm turquoise water perfect for swimming, and the long sweep of Playa Bacocho catches beautiful sunsets. The town has a thriving food scene, with everything from beachfront ceviche stands to Oaxacan restaurants serving mole and tlayudas. The Adoquín, the pedestrianized strip in the old town center, comes alive at night with restaurants, bars, and live music.
 
-Beyond the beaches, Puerto Escondido has a compact centro with markets, restaurants serving fresh fish, and the kind of infrastructure that decades of backpacker traffic has produced. The Zicatela strip is lined with palapa restaurants, surf shops, and places to watch the sunset over a beer. The town is also a base for boat trips to Laguna Manialtepec, a lagoon about 15 kilometres west where bioluminescent plankton sometimes light up the water at night.
+One of the most memorable experiences near Puerto Escondido is the bioluminescent lagoon at Laguna de Manialtepec, about twenty minutes west of town. On moonless nights, tours take you out onto the warm lagoon water where every stroke of your hand or kick of your feet produces an eerie blue-green glow from the dinoflagellates in the water — it is genuinely otherworldly. The Lagunas de Chacahua national park, further along the coast, offers more lagoons, mangroves, and a remote beach village accessible only by boat.
 
-Getting there: the airport receives flights from Mexico City, Oaxaca City, and other Mexican cities. Buses connect to Oaxaca City via the mountains (a scenic but winding journey of about 6 hours), or via the coast road to Acapulco and points east.
+Puerto Escondido is well connected by air, with a small airport receiving flights from Mexico City and Oaxaca City. The overland route from Oaxaca City is a dramatic seven-hour mountain drive through the Sierra Madre del Sur, winding through cloud forests and indigenous villages. The town has accommodation for every budget, from beachside hammocks and hostels to boutique hotels with infinity pools overlooking Zicatela. The vibe is relaxed and unpretentious — flip-flops and board shorts are the dress code, and nobody is in a hurry.

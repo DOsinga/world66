@@ -1,15 +1,14 @@
 ---
-done:
-  location_cleanup: '2026-04-14'
 latitude: 53.682954
 longitude: -1.496729
-score: 0.4
 title: Wakefield
 type: location
 ---
 
-Wakefield is a cathedral city in West Yorkshire, historically a centre of the wool trade and the coal industry, now reinventing itself around culture and regeneration. The main reason to visit is the Hepworth Wakefield, a striking gallery designed by David Chipperfield that opened in 2011 on the banks of the River Calder. It houses work by Barbara Hepworth, who was born in the city, alongside Henry Moore and rotating contemporary exhibitions. It is one of the best art galleries in northern England.
+Wakefield has quietly reinvented itself from a coal-and-cloth city into one of the most compelling art destinations in northern England. The Hepworth Wakefield, a stunning David Chipperfield gallery perched on the banks of the River Calder, opened in 2011 and put the city firmly on the cultural map. It houses an extraordinary collection of works by Barbara Hepworth, who was born here, alongside rotating contemporary exhibitions that regularly punch above what you would expect from a city this size.
 
-The Yorkshire Sculpture Park, about 15 minutes south of town, is even more impressive — a vast open-air gallery set in the grounds of an 18th-century estate, with works by Moore, Hepworth, Ai Weiwei, and others scattered across rolling parkland. It is free to enter and worth a full afternoon.
+Just outside town, the Yorkshire Sculpture Park sprawls across 500 acres of rolling parkland and is one of those rare places where landscape and art genuinely enhance each other. You can spend a full day wandering between Henry Moore bronzes, Andy Goldsworthy installations, and whatever large-scale temporary exhibition they have running. Entry to the park is free, though you will pay for parking. On a clear day with the deer grazing between the sculptures, it is hard to think of a better free day out in England.
 
-Wakefield's medieval bridge chapel, one of only four surviving bridge chapels in England, sits on a narrow bridge over the Calder. The cathedral is modest but has good medieval stained glass. The city centre is functional rather than charming, but the cultural attractions more than justify a visit.
+The city center itself is pleasant without being remarkable. The medieval cathedral is worth a look, and the precinct around the Bull Ring has some decent independent shops. Wakefield's real draw, though, is that combination of world-quality art in an unpretentious setting. You can see both galleries in a day trip from Leeds, which is only fifteen minutes by train, but the city deserves more than a rushed visit.
+
+The Rhubarb Triangle, the area between Wakefield, Morley, and Rothwell, is where most of England's forced rhubarb is grown. If you visit in late winter, some farms open for tours of the candlelit forcing sheds, which is genuinely one of the stranger and more atmospheric agricultural experiences you can have in this country.

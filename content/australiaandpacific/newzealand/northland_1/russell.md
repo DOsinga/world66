@@ -3,15 +3,15 @@ done:
   location_cleanup: '2026-04-08'
 latitude: -35.261792
 longitude: 174.121529
+score: 0.49
 title: Russell
 type: location
-score: 0.49
 ---
 
-Russell — Kororāreka in Māori — was New Zealand's first capital and, before that, one of the wildest ports in the Pacific. Whalers, traders, and deserters made it notorious enough that the capital was quickly moved up the harbour to Okiato. Today the wildness is long gone, replaced by a quiet waterfront village with some of the country's most significant historic buildings.
+Russell is a tiny waterfront town in the Bay of Islands that belies its size with an outsized history. Before Auckland and Wellington existed as cities, Russell -- then known as Kororareka -- was the de facto capital of European New Zealand, and its reputation was fearsome. Whalers, sealers, escaped convicts, and grog sellers earned it the title "hellhole of the Pacific," a label that could not be further from the genteel village you find today.
 
-Christ Church, built in 1835–36, is the oldest surviving church in New Zealand. Look for the musket ball holes in the old weatherboards, left from the 1845 Battle of Kororāreka. Nearby, the Pompallier Mission dates from 1841 and has been restored to its original French Lyonnaise layout as a working printery. The Old Customs House, a Gothic design from 1870, sits under a huge Moreton Bay fig planted the same decade.
+The town's historical layers are visible in a short walk. Christ Church, built in 1836, is New Zealand's oldest surviving church, its walls still pocked with musket ball holes from the fighting between Hone Heke's warriors and British troops in 1845. Pompallier House, a French Catholic mission building, has been beautifully restored and demonstrates the tanning and printing operations that the missionaries ran to produce religious texts in Maori. Flagstaff Hill above the town was the site of Hone Heke's famous acts of defiance -- he chopped down the British flagpole four times, and the story is central to New Zealand's colonial narrative.
 
-Above the town on Maiki Hill stands the famous flagstaff, cut down four times between 1844 and 1845 by the chief Hōne Heke in defiance of British authority — it now flies New Zealand's original flag twelve days a year. The views from the top are spectacular. The Russell Museum houses one of the finest small collections in the country, including a stunning one-fifth scale replica of Cook's ship Endeavour.
+Modern Russell is a peaceful place of perhaps 800 residents, reached by a short ferry ride from Paihia or a longer drive around the inlet. The waterfront is lined with heritage buildings converted into cafes, galleries, and a few excellent seafood restaurants. The Duke of Marlborough Hotel claims to hold the oldest liquor license in the country, and its veranda overlooking the bay is one of the finest spots for a drink in all of New Zealand.
 
-As you stroll Russell's streets you are walking the country's original 1843 street plan, still intact and still carrying its original names. The Duke of Marlborough Hotel, on the waterfront, holds New Zealand's first liquor licence — the fourth building on the site, but the tradition is unbroken.
+The Bay of Islands beyond Russell offers world-class sailing, game fishing, and dolphin watching. You can take a boat to the Hole in the Rock at Cape Brett, or kayak around the sheltered coves near the town. The pace of life here is deliberately unhurried, and the combination of deep history, natural beauty, and excellent food makes Russell one of the most rewarding small towns in New Zealand.

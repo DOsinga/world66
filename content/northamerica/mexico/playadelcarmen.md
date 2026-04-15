@@ -1,15 +1,17 @@
 ---
+done:
+  location_cleanup: '2026-04-10'
+latitude: 20.6461
+longitude: -87.0806
 title: Playa del Carmen
 type: location
-latitude: 20.6468
-longitude: -87.08
-done:
-  location_cleanup: 2026-04-06
-score: 0.68
+score: 0.70
 ---
 
-Playa del Carmen is a beach resort town on the Caribbean coast of Mexico's Yucatán Peninsula, about 65 kilometres south of Cancun. It is the main town of the Riviera Maya, the coastal strip stretching south to Tulum, and functions as the hub from which most visitors explore the region's combination of Caribbean beaches, Mayan ruins, and cenotes. The town itself has a more genuine character than the resort zones of Cancun, though it has grown dramatically from the fishing village it was in the 1980s.
+Playa del Carmen is the main town of the Riviera Maya, about 68 km south of Cancun along the Caribbean coast of the Yucatan Peninsula. It started as a small fishing village and departure point for ferries to Cozumel, and while it has grown considerably since the 1990s, it retains a more manageable scale than Cancun. The beach is excellent — long, white-sand, with clear water — and the reef offshore is part of the Great Maya Reef, the second-largest in the world.
 
-The axis of town life is Quinta Avenida — 5th Avenue — a pedestrian street running parallel to the beach that is lined end to end with restaurants, bars, shops, and cafés. It is the social and commercial spine of the town, busy from morning until late at night. The beach runs alongside it on the Caribbean side, white sand and clear water, though much of it has been claimed by beach clubs with paid-entry systems. The ferry pier at the north end of the avenue runs regular crossings to the island of Cozumel, whose western reef is among the best dive sites in the Caribbean.
+The town centers on Quinta Avenida (Fifth Avenue), a pedestrianized street running parallel to the beach, lined with restaurants, bars, and shops. It is pleasant to walk but increasingly touristy; the same souvenirs sold there can be found for half the price on the side streets. If you want to stay close to a lively scene without being locked into a resort, Playa is a good base — you can walk to the beach, catch a ferry to [Cozumel](/northamerica/mexico/cozumel) for the day, and reach [Tulum](/northamerica/mexico/tulum) or [Chichén Itzá](/northamerica/mexico/chichenitza) by bus.
 
-The town's real appeal for active travellers is as a base rather than a destination in itself. Cozumel's diving is 30 minutes offshore. The cenotes of the Yucatán — freshwater sinkholes in the limestone with extraordinary clarity and intricate cavern systems — are accessible from dive shops in town, with Dos Ojos and El Gran Cenote among the most visited. Tulum, with Mayan ruins on a cliff above the sea, is 60 km south. Chichén Itzá, the most visited Mayan site in Mexico, is 180 km inland and commonly done as a very long day trip. For the budget-conscious, the advice that was true when this was a small town still applies: side streets have the same goods for half the price of the main avenue.
+The diving is the main reason many visitors come. Cozumel, a 35-minute ferry ride away, has some of the clearest water and richest reef diving in the Americas. The cenotes — freshwater sinkholes fed by underground rivers — are scattered throughout the surrounding jungle and make for memorable snorkelling and diving, with visibility sometimes exceeding 100 metres. Several dive operators in town run half-day and full-day trips to both.
+
+Avoid the all-inclusive resorts if you can. A small hotel or guesthouse in town costs a fraction of the resort price and gives you the freedom to eat where you want, explore the neighbourhood, and actually see Mexico. The money you save is better spent on a dive trip or a visit to one of the nearby Maya sites.

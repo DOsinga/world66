@@ -1,9 +1,11 @@
 ---
-title: Hurtigruten
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 68.429137
 longitude: 17.425708
 score: 0.69
+title: Hurtigruten
+type: location
 ---
 
 This is the Coastal Voyage from Bergen to Kirkenes via North Cape and back. The full voyage lasts 12 days but you can get half voyages or port-to-port tickets. **This is not an advertisement **but a message for information from somebody who has done most of the voyage.

@@ -24,6 +24,6 @@ San Agustín and the Playa del Inglés, together with Maspalomas, make up one of
 
 ## Destinations in Gran Canaria
 
-[Las Palmas](/world/europe/spain/canaryislands/crancanaria/las_palmas)
-[Maspalomas](/world/europe/spain/canaryislands/crancanaria/maspalomas)
-[Playa del Ingles](/world/europe/spain/canaryislands/crancanaria/maspalomas/playa_del_ingles)
+[Las Palmas](/europe/spain/canaryislands/grancanaria/las_palmas)
+[Maspalomas](/europe/spain/canaryislands/grancanaria/maspalomas)
+[Playa del Ingles](/europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles)

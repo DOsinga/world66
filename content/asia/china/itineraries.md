@@ -11,7 +11,7 @@ China is enormous and no single trip covers it all. The best approach is to pick
 
 ## Shanghai and the East — 10 Days
 
-Start in [Shanghai](/asia/china/shanghai) (3 nights), then take the high-speed train to [Hangzhou](/asia/china/hangzhou) (2 nights) for West Lake and green tea. From there, go to [Suzhou](/asia/china/suzhou) for a day — the classical gardens are compact and beautiful — then to [Nanjing](/asia/china/nanjing) (2 nights) for its history and the city walls. Return to Shanghai by train.
+Start in [Shanghai](/asia/china/shanghai) (3 nights), then take the high-speed train to [Hangzhou](/asia/china/zhejiang/hangzhou) (2 nights) for West Lake and green tea. From there, go to [Suzhou](/asia/china/suzhou) for a day — the classical gardens are compact and beautiful — then to [Nanjing](/asia/china/jiangsu_province/nanjing) (2 nights) for its history and the city walls. Return to Shanghai by train.
 
 ## Silk Road — 2 Weeks
 

@@ -1,15 +1,19 @@
 ---
-title: Roatan
-type: location
-latitude: 16.322
-longitude: -86.5353
 done:
-  location_cleanup: 2026-04-07
-score: 0.61
+  location_cleanup: '2026-04-08'
+latitude: 16.3232
+longitude: -86.5317
+title: Roatán
+type: location
+score: 0.62
 ---
 
-Roatan is the largest of Honduras's Bay Islands, a 50-kilometer sliver of jungle and reef about 65 kilometers off the Caribbean coast. The island sits on the Mesoamerican Barrier Reef, the second largest in the world, and the diving here is genuinely world-class — warm, clear water with walls, wrecks, and an absurd density of marine life.
+Roatán is the largest of the Bay Islands, sitting about 60 km off the Caribbean coast of Honduras. It's the most developed of the islands — a long, hilly ridge of jungle running east to west, ringed by beaches and coral reef. The island is part of the Mesoamerican Barrier Reef, the world's second-largest, and the diving and snorkeling are the main draw.
 
-Away from the water, Roatan has a character all its own. West End and West Bay draw most visitors with their beach bars and dive shops, while the eastern half of the island stays quieter and more Honduran. The main road runs the length of the island, threading through small communities where English Creole and Spanish mix freely. Garifuna culture is alive in Punta Gorda on the eastern tip.
+West End and West Bay are the main tourist areas. West End is a low-key strip of dive shops, restaurants, and guesthouses; West Bay has the island's most beautiful beach. Sandy Bay sits between them and is quieter. Coxen Hole is the main town and port — functional rather than picturesque — and where the ferry from La Ceiba arrives.
 
-The island is not a manicured resort destination. Infrastructure is improving but still rough in spots, and getting around means bumpy roads and water taxis. That is part of the appeal. Roatan rewards travelers who come for the reef and stay for the unhurried pace of island life.
+Diving dominates the island's economy. Dozens of dive shops offer courses and guided dives; prices are lower than most comparable Caribbean destinations. The reef is in generally good health, with strong populations of reef fish, sea turtles, and the occasional nurse shark. Snorkeling is excellent even from shore in several spots.
+
+Beyond diving, the island has zip lines, horseback riding, boat tours, and Gumbalimba Park (where you can walk among free-roaming monkeys and macaws). The island gets busy during US holiday periods; for a quieter experience, come between September and November.
+
+Roatán is noticeably more expensive than mainland Honduras. Budget travelers can find cheaper options in West End and Coxen Hole, but this is not the Honduras of backpacker prices.

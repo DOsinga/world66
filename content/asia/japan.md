@@ -32,7 +32,7 @@ A note on cost: Japan is not as expensive as its reputation suggests, especially
 [Kobe](/asia/japan/honshu/kobe)
 [Hiroshima](/asia/japan/honshu/hiroshima)
 [Nikko](/asia/japan/honshu/nikko)
-[Takayama](/asia/japan/takayama)
+[Takayama](/asia/japan/honshu/takayama)
 [Hokkaido](/asia/japan/hokkaido)
 [Sapporo](/asia/japan/hokkaido/sapporo)
 [Kyushu](/asia/japan/kyushu)

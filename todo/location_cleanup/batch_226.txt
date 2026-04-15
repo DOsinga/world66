@@ -5,7 +5,6 @@ asia/japan/honshu/koyasan
 asia/japan/honshu/shizuoka
 asia/japan/honshu/saitama
 asia/india/maharashtra/pune/bhosdi
-asia/pakistan/azad_kashmir/kotli/khad_gujran_sonat
 europe/poland/katowice
 europe/poland/pszczyna
 europe/norway/tysfjord

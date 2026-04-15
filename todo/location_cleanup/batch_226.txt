@@ -4,7 +4,6 @@ asia/palestinianauthority/beitjala
 asia/japan/honshu/koyasan
 asia/japan/honshu/shizuoka
 asia/japan/honshu/saitama
-asia/india/maharashtra/pune/bhosdi
 europe/poland/katowice
 europe/poland/pszczyna
 europe/norway/tysfjord

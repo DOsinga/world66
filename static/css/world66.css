@@ -857,33 +857,29 @@ img { max-width: 100%; height: auto; }
   color: var(--red);
 }
 
-/* Neighbourhood blocks — shown inline under the article body */
+/* Neighbourhoods list — shown inline under the article body */
 .neighbourhoods-section {
   margin-top: 32px;
 }
 
-.neighbourhoods-section > h2 {
+.neighbourhoods-section h2 {
   font-size: 18px;
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 
-.neighbourhood-block {
-  margin-bottom: 28px;
+.neighbourhood-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.neighbourhood-block-title {
-  font-size: 16px;
-  font-weight: 600;
-  margin: 0 0 8px;
+.neighbourhood-list li {
+  padding: 3px 0;
 }
 
-.neighbourhood-block-title a {
+.neighbourhood-list a {
   color: var(--blue);
-  text-decoration: none;
-}
-
-.neighbourhood-block-title a:hover {
-  text-decoration: underline;
+  font-size: 15px;
 }
 
 

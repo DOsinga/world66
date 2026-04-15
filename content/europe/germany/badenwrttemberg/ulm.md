@@ -1,15 +1,19 @@
 ---
+done:
+  location_cleanup: '2026-04-08'
+latitude: 48.3984
+longitude: 9.9912
 title: Ulm
 type: location
-latitude: 48.398497
-longitude: 9.991246
-done:
-  location_cleanup: 2026-04-04
-score: 0.51
+score: 0.53
 ---
 
-The towns of Ulm and Neu-Ulm on the banks of the river Danube are divided by the boundary between the Federal Lands of Baden-Württemberg and Bavaria. More than 170,000 people live here. Despite of the boundary the two towns do a lot of things together, whether in economy, tourism, culture, traffic or in providing leisure facilities. Most striking are perhaps the important traffic routes which meet there in the heart of Southern Germany.
+Ulm sits on the Danube in Baden-Wurttemberg, right where southern Germany feels most itself. The city is best known for its Minster, whose spire at 161.5 meters is the tallest church tower in the world. Climb the 768 steps for a view that stretches to the Alps on a clear day.
 
-Ulm's cathedral, the Ulmer Münster, owns the highest church spire in the world and Ulm was also the birthplace of one of the 20th century's most famous persons - Albert Einstein. Some big world-wide operating companies, modern convention facilities, the science park close to the University and colleges, a wide cultural offer both in quantity and in quality and outstanding landmarks of contemporary architecture are characterizing for the modern aspects of Ulm and Neu-Ulm.
+The old town along the Danube is Ulm at its most charming. The Fischerviertel (Fishermen's Quarter) is a tangle of half-timbered houses, narrow lanes, and small canals fed by the River Blau. The Schiefes Haus, a medieval house leaning precariously over the water, claims to be the most crooked hotel in the world. Nearby, the Gerberviertel (Tanners' Quarter) has been beautifully restored, its former workshops now galleries and cafes.
 
-Every year on the second last monday of july, there is a big festival in Ulm, called "Schwörmontag". It the day when the governing mayor swears an traditional oath to his people. The same day thousands of people swim and party in the river danube (see picture) and the whole city is on its feet.
+Ulm is also Einstein's birthplace, a fact the city celebrates with a modest memorial near the site of his family home. The Stadthaus, a striking white building by Richard Meier on the Munsterplatz, houses rotating art exhibitions and makes for an interesting contrast with the Gothic cathedral next door.
+
+The city was heavily bombed in 1944, and you can still read the history in its architecture: medieval survivors stand next to postwar rebuilds and occasional bursts of bold modern design. A ring of 19th-century fortifications surrounds the city, with about 40 structures still standing. The most notable is Fort Oberer Kuhberg, later used as a concentration camp under the Nazis and now a memorial and documentation center.
+
+Across the Danube lies Neu-Ulm, technically in Bavaria. The two cities share a riverfront promenade that is perfect for an evening walk.

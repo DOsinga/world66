@@ -1,15 +1,8 @@
 ---
 title: "Paradise Beach"
 type: poi
-latitude: 40.645478
-longitude: 24.764833
+latitude: 37.4100
+longitude: 25.3530
 ---
 
-Located 5km south of Mykonos Town, Paradise Beach is the place to be
-for every party animal on the island. The beach is almost desert in the
-morning and get more and more crowded in the afternoon, when thousands
-of young people meet here to decide what to do at night. Starting at 6
-p.m. the two clubs on the beach, the Paradise Club and the Tropicana
-Beach Club start the Mykonos super-nightlife.
-
-Regular bus service is offered to and from Mykonos town.
+The most famous beach on Mykonos, about 5 km south of town. Quiet in the morning, it fills up through the afternoon as the beach clubs — Paradise Club and Tropicana — start pumping music around 6 pm and the party runs until dawn. Regular bus service from Mykonos Town.

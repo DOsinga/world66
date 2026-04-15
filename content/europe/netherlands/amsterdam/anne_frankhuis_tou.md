@@ -1,0 +1,28 @@
+---
+address: Prinsengracht 267
+latitude: 52.375156
+longitude: 4.884081
+phone: 020 5567100
+tags:
+- things_to_do
+title: Anne Frankhuis Tour
+type: poi
+url: www.annefrank.org
+---
+
+For the cost of a cup of coffee and a muffin, visitors to Amsterdam can purchase a ticket for the unforgettable Anne Frankhuis (Anne Frank House) tour. Located in the center of Amsterdam, The Anne Frank House is the former place where Anne Frank wrote her diary. Now a museum, the featured texts and displays recount the history of the eight people in hiding and the story of those who helped them during the war. Collections, exhibitions, and a virtual display (to show pieces that could not be displayed) are all a part of The Anne Frank House experience. The museum is open daily from 9 a.m. and tours are roughly an hour long.
+
+**Contributors**
+May 13, 2008
+
+type: Other
+
+
+
+
+
+tel: 020 5567100
+
+url: [www.annefrank.org](http://www.annefrank.org)
+
+address: Prinsengracht 267

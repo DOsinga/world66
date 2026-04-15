@@ -8,7 +8,7 @@ type: location
 score: 0.47
 ---
 
-The Sauerland is a hilly, forested region in the heart of North Rhine-Westphalia, halfway between Dortmund and [Kassel](/europe/germany/hesse/kassel). It is the closest thing to mountains that the millions of people living between [Cologne](/europe/germany/northrhinewestphalia/cologne) and [Düsseldorf](/europe/germany/northrhinewestphalia/dusseldorf) have, and they flock here in winter for skiing and in summer for hiking and cycling.
+The Sauerland is a hilly, forested region in the heart of North Rhine-Westphalia, halfway between Dortmund and [Kassel](/europe/germany/hessen/kassel). It is the closest thing to mountains that the millions of people living between [Cologne](/europe/germany/northrhinewestphalia/cologne) and [Düsseldorf](/europe/germany/northrhinewestphalia/dusseldorf) have, and they flock here in winter for skiing and in summer for hiking and cycling.
 
 The main town is [Winterberg](/europe/germany/northrhinewestphalia/sauerland/winterberg), which has the best skiing facilities — around ten lifts, enough for a long weekend. The peaks top out at about 840 metres, so snow is less reliable than in the Alps, but when conditions are right the slopes are perfectly enjoyable. Weekends can get crowded; weekdays are much quieter.
 

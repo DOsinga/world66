@@ -3,5 +3,5 @@ title: Buxton
 type: location
 latitude: 53.259342
 longitude: -1.910077
-score: 0.43
+score: 0.52
 ---

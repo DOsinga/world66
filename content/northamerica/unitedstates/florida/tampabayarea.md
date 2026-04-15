@@ -1,9 +1,11 @@
 ---
-title: Tampa Bay Area
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 27.897992
 longitude: -82.519064
 score: 0.55
+title: Tampa Bay Area
+type: location
 ---
 
 Tampa Bay ius one of the most popular tourist resorts of the United States. With perfect beaches lost of activities and attraction as well as a major historic monument in [Fort de Soto](/northamerica/unitedstates/florida/tampabayarea/fortdesoto) it is hardky surprising that tourists come flocking in every year.

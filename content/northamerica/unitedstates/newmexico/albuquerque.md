@@ -1,9 +1,11 @@
 ---
-title: Albuquerque
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 35.0841
 longitude: -106.651
 score: 0.52
+title: Albuquerque
+type: location
 ---
 
 Albuquerque is New Mexico's largest city and its de facto capital in all but name. Sprawling across the Rio Grande valley at the foot of the Sandia Mountains, it is a city of contrasts -- historic adobe neighborhoods sit alongside strip malls, and ancient petroglyphs share the horizon with suburban sprawl.

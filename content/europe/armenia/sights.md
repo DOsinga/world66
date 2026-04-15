@@ -11,4 +11,4 @@ Moving further afield: the Debed canyon in northern Lori province contains the U
 
 Other highlights worth building a trip around: the petroglyphs of Ughtasar mountain in Syunik; the standing-stone astronomical site at Carahunge near Sisian (older and broader than Stonehenge); the volcanic peak of Mount Aragats (4,090m), Armenia's highest mountain, accessible with a guide from the Aragatsotn plateau; and the Noratus khachkar cemetery near Lake Sevan, the largest collection of carved stone crosses in the world.
 
-The forest monasteries of Tavush province — [Dilijan](/europe/armenia/dilijan), Haghartsin, Goshavank — are popular for their wooded setting and tend to be less crowded than the Yerevan-circuit sites.
+The forest monasteries of Tavush province — [Dilijan](/europe/armenia/tavush_marz/dilijan), Haghartsin, Goshavank — are popular for their wooded setting and tend to be less crowded than the Yerevan-circuit sites.

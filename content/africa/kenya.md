@@ -26,7 +26,7 @@ Tourism is well-developed by African standards, which is both a blessing and a m
 ## Regions and Destinations
 
 - [Nairobi](/africa/kenya/nairobi) — the capital; gateway to everything
-- [The Coast](/africa/kenya/thecoast) — [Mombasa](/africa/kenya/mombasa), [Lamu](/africa/kenya/thecoast/lamu), Malindi, Diani Beach
+- [The Coast](/africa/kenya/thecoast) — [Mombasa](/africa/kenya/thecoast/mombasa), [Lamu](/africa/kenya/thecoast/lamu), Malindi, Diani Beach
 - [The Rift Valley](/africa/kenya/theriftvalley) — Nakuru, Naivasha, flamingo lakes
 - [Western Kenya](/africa/kenya/westernkenya) — Lake Victoria, Kisumu, Kakamega Forest
 - [Northern Kenya](/africa/kenya/northernkenya) — Lake Turkana, desert, Samburu

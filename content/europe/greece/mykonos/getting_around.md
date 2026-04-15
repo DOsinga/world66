@@ -3,20 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-http://www.mykonostour.com
-
-We currently have no Getting Around listed in Mykonos.
-
-If you do know any Getting Around in Mykonos, please [Add].
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Mykonos Town is small and best explored on foot — cars are not allowed in the narrow streets. Local buses connect the town to the main beaches on the south coast (Paradise, Super Paradise, Platis Gialos) and run frequently in summer. Taxis are available but expensive and hard to find during peak hours. Renting an ATV or car is the best option for reaching quieter beaches and the interior of the island.

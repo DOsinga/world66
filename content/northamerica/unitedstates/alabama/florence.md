@@ -1,9 +1,11 @@
 ---
-title: Florence
-type: location
+done:
+  location_cleanup: '2026-04-15'
 latitude: 34.79981
 longitude: -87.677251
 score: 0.38
+title: Florence
+type: location
 ---
 
 Florence sits on the north bank of the Tennessee River in the Shoals area of northwest Alabama, a cluster of four towns -- Florence, Muscle Shoals, Sheffield, and [Tuscumbia](/northamerica/unitedstates/alabama/tuscumbia) -- that punch well above their weight culturally.

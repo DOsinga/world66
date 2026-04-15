@@ -1,14 +1,6 @@
 ---
 title: "Getting Around"
 type: section
-address: "Brasov, Zizinului nr14"
-email: "office@eurocars.ro"
-phone: "0040788484811"
-url: "www.eurocars.ro"
 ---
 
-Car rentals
-
-[EuroCars.ro- Rent a Car all over Romania
-
-EuroCars.ro provides the best value for car hire in Bucharest, Brasov, Sibiu, Timisoara, Cluj, Romania. Offering airport transfers, minibus for tours and other car rental services at economical, budget rental rates for long and short rentals anywhere in Romania. You can pick up from a large fleet of cars, every rental being tailored to fit any budget, from conscious to less care worn ones. more..](/europe/romania/bucharest/getting_around/eurocarsro_rent)
+Bucharest has a metro system with four lines covering the main axes of the city — it is fast, cheap, and the best way to avoid traffic. Buses, trams, and trolleybuses fill in the gaps but can be slow and crowded. Taxis are inexpensive; use apps like Bolt or Uber to avoid being overcharged. The city centre is walkable once you are there, but distances between neighbourhoods are long.

@@ -166,8 +166,8 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 <div class="neighbourhoods-section">
   <h2>Neighbourhoods</h2>
   <ul class="neighbourhood-list">
-    {% for item in neighbourhood_items %}
-    <li><a href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a></li>
+    {% for nb in neighbourhood_items %}
+    <li><a href="{{ nb.get_absolute_url }}">{{ nb.title }}</a></li>
     {% endfor %}
   </ul>
 </div>

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: kinderdijk.jpg
+image_attribution: Lucas Hirschegger
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg
 latitude: 51.888695
 longitude: 4.635697
 title: Kinderdijk

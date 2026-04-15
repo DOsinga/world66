@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: almelo.jpg
+image_attribution: aromano on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/56985677@N00/4558920262
 latitude: 52.356358
 longitude: 6.663622
 title: Almelo

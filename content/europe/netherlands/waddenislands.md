@@ -1,8 +1,12 @@
 ---
-title: Wadden islands
-type: location
+image: waddenislands.jpg
+image_attribution: Ruben Holthuijsen on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/60057960@N06/51600888293
 latitude: 52.592929
 longitude: 5.359097
+title: Wadden islands
+type: location
 score: 0.57
 ---
 

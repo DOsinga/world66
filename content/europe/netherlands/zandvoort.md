@@ -1,10 +1,14 @@
 ---
-title: Zandvoort
-type: location
-latitude: 52.359522
-longitude: 4.535026
 done:
   location_cleanup: 2026-04-05
+image: zandvoort.jpg
+image_attribution: Ziko
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2010-08_toren_zandvoort_14.JPG
+latitude: 52.359522
+longitude: 4.535026
+title: Zandvoort
+type: location
 score: 0.51
 ---
 

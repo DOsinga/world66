@@ -1,10 +1,14 @@
 ---
-title: Eindhoven
-type: location
-latitude: 51.4416
-longitude: 5.4697
 done:
   location_cleanup: 2026-04-02
+image: eindhoven.jpg
+image_attribution: Arno van den Tillaart from Eindhoven, Netherlands
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Centrum_Eindhoven.jpg
+latitude: 51.4416
+longitude: 5.4697
+title: Eindhoven
+type: location
 score: 0.49
 ---
 

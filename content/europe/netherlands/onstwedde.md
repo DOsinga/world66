@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: onstwedde.jpg
+image_attribution: Gouwenaar
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20190827_Nicolaaskerk1_Onstwedde.jpg
 latitude: 53.036791
 longitude: 7.038894
 title: Onstwedde

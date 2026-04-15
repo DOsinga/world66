@@ -1,10 +1,14 @@
 ---
-title: Ede
-type: location
-latitude: 52.071683
-longitude: 5.745511
 done:
   location_cleanup: 2026-04-05
+image: ede.jpg
+image_attribution: Michielverbeek
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ede,_de_Keetmolen_RM14468_IMG_5023_2020-04-26_10.20.jpg
+latitude: 52.071683
+longitude: 5.745511
+title: Ede
+type: location
 score: 0.4
 ---
 

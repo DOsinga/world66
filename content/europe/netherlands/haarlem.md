@@ -1,8 +1,12 @@
 ---
-title: Haarlem
-type: location
+image: haarlem.jpg
+image_attribution: Fryslan0109 at English Wikipedia
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:HaarlemGroteMarkt1.JPG
 latitude: 52.388532
 longitude: 4.638805
+title: Haarlem
+type: location
 score: 0.61
 ---
 

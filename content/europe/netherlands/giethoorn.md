@@ -1,10 +1,14 @@
 ---
-title: Giethoorn
-type: location
-latitude: 52.7411
-longitude: 6.0774
 done:
   location_cleanup: 2026-04-06
+image: giethoorn.jpg
+image_attribution: Cbliu
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Giethoorn,_Netherlands.jpg
+latitude: 52.7411
+longitude: 6.0774
+title: Giethoorn
+type: location
 score: 0.63
 ---
 

@@ -1,8 +1,12 @@
 ---
-title: Friesland
-type: location
+image: friesland.jpg
+image_attribution: Agnes Monkelbaan
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kooiplas._Locatie._de_Buismans_Einekoai_Gytsjerk_in_provincie_Friesland_01.jpg
 latitude: 53.092369
 longitude: 5.777043
+title: Friesland
+type: location
 score: 0.51
 ---
 

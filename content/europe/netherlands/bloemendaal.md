@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: bloemendaal.jpg
+image_attribution: Tvdm
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Gemeentehuis_Bloemendaal_in_Overveen.jpg
 latitude: 52.374292
 longitude: 4.591535
 title: Bloemendaal

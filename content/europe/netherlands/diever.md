@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: diever.jpg
+image_attribution: NeoMeesje
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Diever_Feb_2020_-_16.jpg
 latitude: 52.854658
 longitude: 6.318266
 title: Diever

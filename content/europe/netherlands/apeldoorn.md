@@ -1,10 +1,14 @@
 ---
-title: Apeldoorn
-type: location
-latitude: 52.2112
-longitude: 5.9699
 done:
   location_cleanup: 2026-04-02
+image: apeldoorn.jpg
+image_attribution: Dirk Jan van Zoest
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Apeldoorn_-_panoramio.jpg
+latitude: 52.2112
+longitude: 5.9699
+title: Apeldoorn
+type: location
 score: 0.48
 ---
 

@@ -6,6 +6,10 @@ longitude: 28.859489
 score: 0.24
 title: Bukavu
 type: location
+image: bukavu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bukavu,_DR_congo,_2021.jpg
+image_license: CC BY-SA 4.0
+image_attribution: EdwinAlden.1995
 ---
 
 Bukavu tumbles down a series of steep peninsulas into the southern end of Lake Kivu, one of Africa's Great Lakes. The setting is stunning — green hills plunging into deep blue water, with the volcanoes of the Albertine Rift visible in the distance. The Belgians built the town as Costermansville and gave it a hilly, terraced layout that earns it occasional comparisons to an African lakeside version of a Mediterranean town.

@@ -1,22 +1,21 @@
 ---
-title: Central Spain
-type: location
+done:
+  location_cleanup: '2026-04-16'
+image: centralspain.jpg
+image_attribution: Chensiyuan
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:1_toledo_spain_evening_sunset_2014_DXR_edit.jpg
 latitude: 40.416775
 longitude: -3.70379
 score: 0.5
+title: Central Spain
+type: location
 ---
 
-The old region Castile and Leon encompasses two ancient kingdoms of the meseta- a flat semi-arid table-top 700-1000 m above sea level. Here they have nine months of winter and -as they say it in Catalan, three months of hell. Besides all this Castile and Leon contains much farmland, splendid cathedrals and palaces. 
- Cities of interest here are [Ciudad Rodrigo](/europe/spain/centralspain/ciudadrodrigo), [Salamanca](/europe/spain/centralspain/salamanca) and [Valladolid](/europe/spain/centralspain/valladolid).
- 
+Central Spain is the Meseta — the vast plateau at the heart of the Iberian Peninsula, sitting between 700 and 1000 metres above sea level, with harsh winters, dry summers, and a severity of landscape that shaped the Spanish character as much as any Mediterranean coastline. Madrid sits at the centre, but the cities that make central Spain worth visiting are the medieval ones: Salamanca, Segovia, Ávila, Toledo, Cuenca.
 
-The region of La Mancha you find right beneath the centre of Spain. It's famous for its manchego cheese. It is a rather empty place, there are little notable towns and monuments, but the scenery is quite impressive.
+Salamanca is arguably the finest city in the region. Its Plaza Mayor is the most beautiful in Spain; the sandstone university buildings, cathedral, and old city glow gold in afternoon light, and the student population keeps the place alive. Segovia has the best-preserved Roman aqueduct in the world still standing in a city centre, plus a fairy-tale alcázar on a rocky promontory. Ávila is entirely encircled by its 11th-century walls — 2.5km of battlements and towers. Toledo, south of Madrid, was for centuries the meeting point of Christian, Muslim, and Jewish Spain, and its medieval centre reflects all three traditions.
 
-The main attractions here are [Toledo](/europe/spain/la_mancha/toledo) and [Ciudad Real](/europe/spain/centralspain/ciudadreal).
- 
+El Escorial, Philip II's austere monastery-palace northwest of Madrid, is a world heritage site and one of the most powerful expressions of Counter-Reformation Spain. Cuenca, built on a gorge with its famous hanging houses extending over the cliff face, is one of the most dramatic townscapes in the country.
 
-The Land of the Conquistadores is located along the Portuguese border. The vast majority of Spain’s New World conquerors and explorers came out of this once-harsh region to win an empire for Spain. Today Extremadura is rarely visited by tourists yet it has several towns of interest among them Mérida, [Cáceres](/europe/spain/extremadura/caceres) (a picture-perfect medieval town with a remarkable old quarter) and Badajoz near the Portuguese border.
-
-Other towns of historical significance include Guadalupe, where Columbus received the official orders for his first voyage; Medellín, birthplace of Hernán Cortés; Trujillo, where Francisco Pizarro was born; and Jerez de los Caballeros, birthplace of Núñez de Balboa and Hernán de Soto. 
-
-The area is particularly recommended for those who might be traveling by car to or from Portugal or who just want to see a part of Spain that’s very rustic and relatively unaffected by tourism. A new bridge spans the Guadiana River making it easier to go from Spain to Portugal’s Algarve coast.
+The region is undervisited relative to its quality, which means you can have world-class monuments largely to yourself — particularly outside the summer months.

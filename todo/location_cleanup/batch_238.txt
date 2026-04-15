@@ -27,7 +27,6 @@ africa/centralafricanrepublic/berberati
 australiaandpacific/marshallislands/enewetokatoll/enewetok
 northamerica/saintlucia/castries
 northamerica/puertorico/carolina
-northamerica/unitedstates/georgia/brunswik
 asia/mongolia/khujhirt
 europe/bosniaandherzegovina/zivinice
 northamerica/saintvincentandthegrenadines/clifton

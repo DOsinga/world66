@@ -27,7 +27,7 @@ Hidden in desert cliffs outside [Dunhuang](/asia/china/dunhuang), nearly 500 cav
 
 ## West Lake, Hangzhou
 
-[Hangzhou](/asia/china/hangzhou)'s West Lake has been inspiring poets, painters, and garden designers for a thousand years. Marco Polo called the city the finest in the world. The lake itself is ringed with pagodas, causeways, and tea plantations. Best in the morning before the tour groups arrive.
+[Hangzhou](/asia/china/zhejiang/hangzhou)'s West Lake has been inspiring poets, painters, and garden designers for a thousand years. Marco Polo called the city the finest in the world. The lake itself is ringed with pagodas, causeways, and tea plantations. Best in the morning before the tour groups arrive.
 
 ## Lhasa and the Tibetan Plateau
 

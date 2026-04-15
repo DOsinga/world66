@@ -1,8 +1,8 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-latitude: 34.445825
-longitude: -119.077936
+latitude: 34.2746
+longitude: -119.229
 title: Ventura
 type: location
 score: 0.48

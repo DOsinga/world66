@@ -1,8 +1,8 @@
 ---
-title: "Stones of Aran"
+title: "Stones of Aran: Labyrinth"
 type: poi
+author: "Tim Robinson"
+isbn: "978-1874675501"
 ---
 
-This wonderfully rich book and its companion volume (Pilgrimage) densely cover so many fascinating aspects of the aran islands with a sensitive and philosophical approach, from it's geology and botany to its architecture, mythology, history and folklore. Highly recommended for those who savor reading!
-
-[](http://www.amazon.com/exec/obidos/ASIN/1874675503/osingacom?creative=125581&camp=2321&link_code=as1)
+Robinson spent years mapping the Aran Islands on foot, and this book (along with its companion *Pilgrimage*) is the result — a deeply layered exploration of geology, botany, folklore, architecture, and history. Dense and philosophical, it rewards slow reading and will change how you look at every stone wall and field boundary on the island.

@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Cadiz"
+title: "Getting There"
 type: section
 ---
 
@@ -25,5 +25,3 @@ You can choose to rent a vehicle in any city and make the trip yourself, but be 
 
 Alternatively, you can choose to fly to Tangier, Morocco and make the approximately 2-hour ferry ride across to Cadiz, with a stop in Tarifa.
 
-**Contributors**
-October 12, 2009

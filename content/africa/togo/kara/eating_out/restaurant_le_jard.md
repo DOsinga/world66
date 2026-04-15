@@ -1,23 +1,8 @@
 ---
 title: "Restaurant Le Jardin"
 type: poi
-email: "le.jardin@bibway.com"
-phone: "6600134"
-price: "7 euro"
-type: "French"
+latitude: 9.5490
+longitude: 1.1863
 ---
 
-The restaurant, which is attached to the hotel with the same name, is set in the lush garden and very calm and quiet. The food is very good and the meals are either French, African or Asian.
-
-**Contributors**
-February 02, 2008
-
-type: French
-
-
-
-tel: 6600134
-
-PriceOfMenu: 7 euro
-
-email: le.jardin@bibway.com
+Attached to the hotel of the same name, Le Jardin is set in a lush garden — calm and quiet. The food is good, with a menu that moves between French, African, and Asian dishes. Mains from around 7 euros.

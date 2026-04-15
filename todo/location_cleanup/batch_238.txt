@@ -40,7 +40,5 @@ europe/serbiaandmontenegro/paracin
 southamerica/chile/ipiales
 africa/congobrazzaville/loubomo
 africa/congobrazzaville/mossaka
-northamerica/trinidadandtobago/curepe
-northamerica/puertorico/gurabo
 europe/greece/kozanh
 africa/congobrazzaville/ouesso

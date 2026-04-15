@@ -15,7 +15,9 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
    - **Otherwise delete it.** Tiny village stubs with one line of content ("X is a village in Y"), gibberish, SEO spam, empty "information coming soon" pages — all go. Better to have no page than a useless one.
    - **Check coordinates are plausible** for the claimed location. Wrong-country coordinates are common in old World66 data (a town in Utah with coordinates in Texas, a Milwaukee neighbourhood with coordinates in Washington State). Fix them or delete the page if the whole thing is unsalvageable.
 
-1. **Read** the existing location file and all section/POI files
+1. **Read** the existing location file and all section/POI files. IMPORTANT: unless this is a city with 
+   neighborhoods, leave the sublocations alone (for regions, states etc) - they will be processed on their
+   own.
 
 2. **Restructure sections** per LOCATIONS.md:
    - If `sights/` and/or `museums/` exist, create `things_to_do/` and move POIs in. Add `category: "Sight"` or `category: "Museum"` to each.

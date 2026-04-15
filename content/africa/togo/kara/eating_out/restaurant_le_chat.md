@@ -1,20 +1,8 @@
 ---
 title: "Restaurant Le Chateau"
 type: poi
-price: "5 euro"
-type: "Local"
-latitude: 9.546575
-longitude: 1.192137
+latitude: 9.5466
+longitude: 1.1921
 ---
 
-This is a great place to sit on the terras and watch the world go by while having lunch, dinner or a drink.
-The hotel serves pizzas and European and local meals.
-
-**Contributors**
-February 02, 2008
-
-type: Local
-
-
-
-PriceOfMenu: 5 euro
+A great place to sit on the terrace and watch the world go by while having lunch, dinner, or a drink. Le Chateau serves pizzas alongside European and local meals, with mains around 5 euros.

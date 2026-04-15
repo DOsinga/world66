@@ -1,14 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Other"
 ---
 
-**Contributors**
-February 02, 2008
-
-### [Market](/africa/togo/kara/things_to_do/market)
-
-Kara's market is very big and very crowded. Most shops sell food or food related items. It's great just to sit and watch people doing the thing they do best: haggle. It's a buy-and-sell game, which never stops.
-
-type: Other
+Kara itself is more of a base than a destination, but the town's enormous market is worth a morning of your time. The real attractions — the Tamberma villages and Mont Kabyé — are day trips from here.

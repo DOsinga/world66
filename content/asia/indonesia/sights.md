@@ -5,7 +5,7 @@ type: section
 
 Indonesia's sights range from ancient temple complexes to active volcanoes, from orangutan forest to coral reefs. The country is too large for any single overview to do justice, but a few things stand out above the rest.
 
-**Borobudur** is the largest Buddhist monument in the world, a 9th-century stone pyramid on the plains of Central Java near [Yogyakarta](/asia/indonesia/yogyakarta). At sunrise, when mist lies in the valleys below and the silhouettes of stupas emerge from the light, it is genuinely one of the great sights of Southeast Asia. Go early, before the tour buses arrive.
+**Borobudur** is the largest Buddhist monument in the world, a 9th-century stone pyramid on the plains of Central Java near [Yogyakarta](/asia/indonesia/java/yogyakarta). At sunrise, when mist lies in the valleys below and the silhouettes of stupas emerge from the light, it is genuinely one of the great sights of Southeast Asia. Go early, before the tour buses arrive.
 
 **Prambanan** temple complex, 18 kilometres east of Yogyakarta, is the Hindu counterpart — a cluster of soaring stone towers dedicated to Shiva, Vishnu, and Brahma, built around the same time as Borobudur. The Ramayana ballet is performed here on full-moon nights against the illuminated temple backdrop. Both Borobudur and Prambanan are UNESCO World Heritage Sites.
 

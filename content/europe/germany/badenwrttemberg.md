@@ -31,4 +31,4 @@ In the south, [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance) (B
 - [Mannheim](/europe/germany/badenwrttemberg/mannheim)
 - [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance)
 - [Ludwigsburg](/europe/germany/badenwrttemberg/ludwigsburg)
-- [Speyer](/europe/germany/badenwrttemberg/speyer)
+- [Speyer](/europe/germany/rhinelandpalatinate/speyer)

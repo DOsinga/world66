@@ -1,32 +1,8 @@
 ---
-title: "Day Trips in Mykonos"
+title: "Day Trips"
 type: section
 ---
 
-**Mykonos** is one of the many Greek holiday islands, with links
-to the myth of Hercules (it is supposedly the site of one of his twelve
-feats of strength) and thanks to its prime position in the sea, there
-are plenty of other equally interesting islands that can be reached on
-a day trip from Mykonos. Mykonos itself can also be visited on a day
-trip from places such as Athens.
-The Island of Delos
+The essential day trip is to Delos, an uninhabited island just two kilometres offshore and one of the most important archaeological sites in the ancient world. According to myth, Delos was the birthplace of Apollo and Artemis, and the ruins include Greek temples, Roman houses, an Egyptian temple of Isis, the famous Avenue of Lions, and a small archaeological museum. Boats leave from Mykonos harbour every morning; the site takes two to three hours to explore.
 
-Delos is a tiny island just six short miles from the island of
-Mykonos. This little island is supposedly the birthplace of divine
-twins Apollo and Artemis. It was once a thriving holy site, with a
-range of temples. While it is now uninhabited, Delos is a virtual
-treasure-trove of beautiful ruins and holy artifacts. It also reveals
-its multicultural origins, having not only Greek temples to Athena, but
-also ruins of Roman houses, and an Egyptian temple of Isis, complete
-with its beautiful marble floors. Visitors might also want to see the
-fantastic Avenue of Lions, and the famous palm tree that marks the spot
-where Apollo was born. A good spot to check out is Delos’
-archaeological museum, where relics from the entire history of Greece
-are gathered.
-Other islands of interest
-
-There are a range of other islands which can be visited on a Mykonos
-day trip. Paros is forty minutes by Ferry, and is worth visiting purely
-for its rock beach, known as Kolimbithres. Visitors who want to combine
-a sense of history with fantastic beaches and good food might choose
-Sifnos: the village of Kastro has towers dating
+Other islands within easy reach by ferry include Paros (40 minutes), known for its beaches and the rock formations at Kolimbithres, and Naxos (about an hour), the largest of the Cyclades with mountain villages, Venetian towers, and the iconic Portara gateway.

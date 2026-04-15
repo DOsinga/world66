@@ -1,17 +1,22 @@
 ---
-done:
-  location_cleanup: '2026-04-08'
-latitude: 19.3133
-longitude: -81.2546
 title: Cayman Islands
 type: location
-score: 0.71
+latitude: 19.3133
+longitude: -81.2546
+image: caymanislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Traditional_caymanian_home_east_end.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Lhb1239&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Lhb1239 (page does not exist)">Lhb1239</a>
+done:
+  country_cleanup: 2026-03-30
+score: 0.7
 ---
 
-The Cayman Islands are a British Overseas Territory south of [Cuba](/northamerica/cuba), comprising three low-lying coral islands in the western Caribbean. They are best known as an offshore financial centre — one of the world's largest — but the reason most visitors come is simpler: clear water, white sand, and some of the best diving in the Caribbean.
+Three small British Overseas Territory islands sitting in the western Caribbean, about 150 miles south of Cuba. The Cayman Islands are one of the world's wealthiest places per capita — a status built on offshore finance and high-end tourism rather than agriculture or industry. Expect polished infrastructure, immaculate beaches, and prices to match.
 
-[Grand Cayman](/northamerica/caymanislands/grandcayman) is the largest island and receives the bulk of visitors. [Seven Mile Beach](/northamerica/caymanislands/sevenmilebeach) is the main strip — a long, wide stretch of sand lined with hotels and condos. The diving here is excellent, particularly along the North Wall, and Stingray City — a shallow sandbar where you can swim with southern stingrays — is the islands' most famous experience.
+The diving is genuinely world-class. The islands sit on the edge of the Cayman Trench, offering spectacular wall dives, healthy coral, and crystal-clear water. Stingray City on Grand Cayman, where southern stingrays gather in the shallows of the North Sound, is one of the most visited marine encounters in the Caribbean. Little Cayman's Bloody Bay Wall is considered one of the best dive sites on the planet.
 
-[Cayman Brac](/northamerica/caymanislands/caymanbrac) and [Little Cayman](/northamerica/caymanislands/littlecayman) are quieter, smaller, and even more expensive. Little Cayman has Bloody Bay Wall, widely regarded as one of the top dive sites in the world.
+[Grand Cayman](/northamerica/thecaribbean/caymanislands/grandcayman) is the main island and handles almost all international flights. George Town is the capital and the stop for cruise ships; Seven Mile Beach to the north is where most hotels and resorts are concentrated. [Cayman Brac](/northamerica/thecaribbean/caymanislands/caymanbrac) is a hillier, more rugged island known for its caves and rock-climbing as well as diving. [Little Cayman](/northamerica/thecaribbean/caymanislands/littlecayman) is tiny, quiet, and mostly visited by serious divers.
 
-The Caymans are not cheap. Accommodation, food, and diving packages reflect the islands' high cost of living. But the water clarity, reef quality, and ease of access (direct flights from Miami, Houston, and other US cities) make them hard to beat for a Caribbean dive holiday.
+These islands are not a budget destination. Even budget choices are expensive by Caribbean standards. That said, the quality of services, food, and infrastructure is consistently high, and violent crime is rare.

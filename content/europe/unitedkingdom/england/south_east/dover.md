@@ -1,17 +1,15 @@
 ---
-title: Dover
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.125127
 longitude: 1.313423
-done:
-  location_cleanup: 2026-04-07
-score: 0.47
+title: Dover
+type: location
+score: 0.51
 ---
 
-When you think of Dover, you think of the white cliffs. Those dramatic chalk faces have greeted and farewelled travellers for centuries, and they remain one of the most iconic landscapes in England. Dover is the gateway between Britain and continental Europe, and while most visitors are passing through on their way to [London](/europe/unitedkingdom/england/london) or the ferry terminal, the town deserves more than a glance through a car window.
+When you think of Dover, you probably think of white cliffs — those chalk faces rising dramatically from the sea, the first or last sight of England for centuries of travellers crossing the Channel. Dover is still the busiest passenger port in Europe, though the Channel Tunnel has taken much of the traffic and the town itself has seen better days.
 
-Dover Castle dominates the skyline, a massive medieval fortress perched high above the port. Built in the twelfth century, it was in continuous military use right through to the Cold War, and the network of wartime tunnels beneath it is fascinating. The castle also contains a Roman lighthouse, one of the best-preserved in Europe, and an Anglo-Saxon church.
+Most people pass straight through, which is a mistake if you have a few hours. Dover Castle, commanding the clifftops above the harbour, is one of the finest medieval fortresses in England — its history stretches from the Iron Age through the Napoleonic wars to the Second World War, when the tunnels beneath served as the command centre for the Dunkirk evacuation. The white cliffs themselves are best appreciated from the National Trust visitor centre at the top, with walks along the clifftop path toward South Foreland Lighthouse.
 
-The white cliffs themselves are best appreciated on foot. The National Trust manages the stretch east of the port, with a clifftop walk that offers views across the Channel to France on clear days. The town centre is small and quiet, with a handful of pubs and restaurants clustered around the market square.
-
-The Channel Tunnel has taken much of the ferry traffic that once made Dover the busiest passenger port in the world, but ferries to Calais and Dunkirk still run frequently, and the harbour remains busy.
+The town below is modest, but the Barbican and old harbour area have some character, and you can walk the waterfront promenade with views across to France on a clear day.

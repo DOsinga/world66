@@ -1,24 +1,9 @@
 ---
 title: "Kudlu Theertha Falls"
 type: poi
-accessibility: "Trek"
-address: "bangalore"
-email: "amarnath.pramanik@gmail.com"
-type: "Hiking"
-latitude: 12.976794
-longitude: 77.590082
+category: "Sight"
+latitude: 13.4850
+longitude: 75.0550
 ---
 
-Around 20kms from Agumbe. Falling from a height of around 300 feet. Treeking of around 3.5kms. The most beautiful falls I have seen till date. During rainy season you have to enjoy the falls from a distance but off season you can directly swim below the falls. Must visit.
-
-type: Hiking
-
-
-
-
-
-accessibility: Trek
-
-address: bangalore
-
-email:
+About 20 kilometres from Agumbe, Kudlu Theertha falls from a height of around 300 feet. The trek is roughly 3.5 kilometres through dense forest. During the monsoon you can only admire the falls from a distance, but in the dry season you can swim directly below them. Many consider this the most beautiful waterfall in the area.

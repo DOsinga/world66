@@ -1,6 +1,7 @@
 ---
 title: "Diveagar Beach"
 type: poi
+category: "Beach"
 latitude: 18.175263
 longitude: 72.98425
 ---

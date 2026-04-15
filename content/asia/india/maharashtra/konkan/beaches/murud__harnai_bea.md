@@ -1,13 +1,9 @@
 ---
-title: "Murud - Harne Beach"
+title: "Murud-Harne Beach"
 type: poi
-email: "ashishapathak@rediffmail.com"
+category: "Beach"
+latitude: 17.9778
+longitude: 73.0603
 ---
 
-Excellent virgin beaches. Can see dolphins by the coast too. Very good resorts around. Around 10 kms. from Dapoli, 200 kms. from Pune and 250 kms. from Mumbai.
-
-
-
-
-
-email: ashishapathak@rediffmail.com
+A relatively undeveloped beach near Dapoli, about 200km from Pune and 250km from Mumbai. Dolphins are sometimes visible offshore. Several resorts operate in the area.

@@ -1,4 +1,8 @@
 ---
+image: wakefield.jpg
+image_attribution: Poliphilo
+image_license: CC0 1.0
+image_source: https://commons.wikimedia.org/wiki/File:The_Hepworth_Wakefield_2.JPG
 latitude: 53.682954
 longitude: -1.496729
 title: Wakefield

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: russell.jpg
+image_attribution: AlasdairW
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Russell_New_Zealand_banner_view_from_ferry.JPG
 latitude: -35.261792
 longitude: 174.121529
 score: 0.49

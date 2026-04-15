@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: 2026-04-06
+image: stmaarten_maho.jpg
+image_attribution: RCraig09
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20190210_Maho_Beach_jet_final_approach.jpg
 latitude: 18.0425
 longitude: -63.0548
 score: 0.67

@@ -1,8 +1,12 @@
 ---
-title: Eckernförde
-type: location
+image: eckernfrde.jpg
+image_attribution: MartinDieter
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Eckernf%C3%B6rde_Hafen_Holzbr%C3%BCcke.jpg
 latitude: 54.4742
 longitude: 9.8376
+title: Eckernförde
+type: location
 ---
 
 Eckernförde is a small Baltic seaside town on the coast of Schleswig-Holstein, tucked into a sheltered bay between Kiel and Flensburg. It has the kind of understated charm that German beach towns do well -- a long sandy beach backed by a tree-lined promenade, a compact old town with brick and half-timbered houses, and a working fishing harbor that still smells of the sea rather than tourism. The town has been a modest resort since the 19th century, and it wears its role lightly.

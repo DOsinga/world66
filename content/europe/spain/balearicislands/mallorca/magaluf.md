@@ -6,6 +6,10 @@ longitude: 2.535724
 score: 0.55
 title: Magaluf
 type: location
+image: magaluf.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Magaluf_3.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Liilia Moroz
 ---
 
 Magaluf sits on the southwest coast of [Mallorca](/europe/spain/balearicislands/mallorca), about 15 kilometres from [Palma](/europe/spain/balearicislands/mallorca/palmademallorca). Its reputation as a package-holiday party strip is well earned — the main strip of bars and clubs along Carrer Punta Ballena is loud, cheap, and aimed squarely at young British and German holidaymakers. If that is not your scene, you have been warned.

@@ -3,4 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-The main shopping is along Nadi's central strip. Jack's Handicrafts is the polished option — a large, well-stocked store with fixed prices. For better value and more atmosphere, head to the public market a few blocks down, where a separate handicraft market sells wood carvings, tapa cloth, and souvenirs at negotiable prices.
+Nadi has a good mix of tourist shops and local markets. Jack's of Fiji on the main street is a polished handicraft store with fixed prices — useful if you do not want to haggle. For something more authentic, walk a few blocks south to the public market. The food market sells fresh produce, and a separate building nearby has wooden carvings, tapa cloth, and other handicrafts at better prices than the tourist shops.

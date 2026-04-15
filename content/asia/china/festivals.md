@@ -21,7 +21,7 @@ Early April. Families visit the graves of ancestors to clean them and make offer
 
 ## Dragon Boat Festival (Duanwu)
 
-Fifth day of the fifth lunar month, usually falling in June. Teams race long wooden boats decorated as dragons on rivers and lakes; the best races to watch are in Guangzhou, [Hangzhou](/asia/china/hangzhou), and the towns of Hunan province. The traditional food is zongzi — sticky rice wrapped in bamboo leaves, filled with pork, egg, or red bean.
+Fifth day of the fifth lunar month, usually falling in June. Teams race long wooden boats decorated as dragons on rivers and lakes; the best races to watch are in Guangzhou, [Hangzhou](/asia/china/zhejiang/hangzhou), and the towns of Hunan province. The traditional food is zongzi — sticky rice wrapped in bamboo leaves, filled with pork, egg, or red bean.
 
 ## Mid-Autumn Festival (Moon Festival)
 

@@ -5,11 +5,11 @@ latitude: 48.404938
 longitude: 2.701587
 title: Fontainebleau
 type: location
-score: 0.6
+score: 0.61
 ---
 
-Fontainebleau is a small town south of Paris surrounded by one of the great forests of the Île-de-France. It is best known for its château — the first Renaissance building in France, and a royal residence for over seven centuries. Napoleon called it "the true residence of kings, the house of the centuries," and thirty-four sovereigns from Louis VI to Napoleon III lived and hunted here. The château's gallery, with its delicate stucco ornaments, and the formal gardens are well worth a half-day visit.
+Fontainebleau is a small town about 60 km south of [Paris](/europe/france/paris), surrounded by one of the largest and most beautiful forests in the Ile-de-France. It is an easy day trip from the capital and a welcome escape from the city's intensity.
 
-The forest of Fontainebleau is the other draw. Covering some 25,000 hectares, it has been a favourite escape from Paris since the 19th century. The sandstone boulders scattered through the woods draw climbers from across Europe — Fontainebleau bouldering is a sport in its own right, with thousands of marked problems at every level. The forest is also beautiful for walking, cycling, and horse riding, especially in autumn when the beech and oak turn gold.
+The main attraction is the Chateau de Fontainebleau, which Napoleon III called "the true residence of kings, the house of the centuries." No other chateau in France can claim to have housed 34 sovereigns, from Louis VI to Napoleon III. French kings came here in autumn for the hunting season, and the forest around the palace served as their hunting ground. The chateau is the first Renaissance building in France built outside Italy — the Galerie Francois I, with its stucco ornaments and frescoes, is particularly fine. The formal gardens and carp pond are a good place to spend an hour after the interior.
 
-As a base, Fontainebleau offers a quieter alternative to Paris itself — close enough for day trips into the city, but with the pace and space of a country town.
+The forest of Fontainebleau is famous in its own right. It covers some 25,000 hectares and is scattered with sandstone boulders that attract thousands of sport climbers every year — Fontainebleau bouldering is renowned worldwide. In autumn the forest is spectacular, with beech and oak turning red and gold. The area is also good for canoeing on the Loing river.

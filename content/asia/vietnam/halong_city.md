@@ -5,11 +5,11 @@ latitude: 20.948886
 longitude: 107.103507
 title: Halong City
 type: location
-score: 0.65
+score: 0.68
 ---
 
-Halong City is the gateway to Ha Long Bay, the UNESCO World Heritage Site famous for its thousands of limestone karst islands rising from emerald waters. The city itself is functional rather than charming — its main purpose for most visitors is as the departure point for bay cruises — but it has been growing rapidly and the Bai Chay waterfront area on the western side has developed into a lively strip of hotels, restaurants, and tour offices.
+Halong City (formerly Hon Gai) is the provincial capital of Quang Ninh Province and the main gateway to Halong Bay — the UNESCO World Heritage-listed seascape of karst limestone islands that is one of Vietnam's most famous landscapes. The city sits on the bay's northern shore and is divided into two distinct parts: the eastern industrial and administrative zone (Hon Gai), and the western tourism strip around Bai Chay, where most of the hotels, restaurants, and tour operators are concentrated.
 
-The city sits on the coast of Quang Ninh Province, divided into two parts by Cua Luc Bay. The eastern side (formerly Hon Gai) is the administrative and industrial centre. The western side (Bai Chay) is where tourists stay, eat, and board boats. Most cruise operators pick up from the Bai Chay tourist wharf or the newer Tuan Chau marina.
+Most visitors pass through Halong City only to catch a junk cruise into the bay. The bay itself is the attraction — thousands of islands rising vertically from the water, caves riddling the limestone, and emerald-green water between the rock faces. Overnight or multi-day cruises leaving from Halong City (or from the nearby Tuan Chau Marina) are the standard way to see it. Day trips are possible but rush the experience.
 
-Beyond the bay cruises, there are caves worth visiting on land too — Thien Cung and Dau Go are the most accessible, set into the karst hills near the harbour. The local night market in Bai Chay is a good place to try fresh seafood and pick up souvenirs.
+The city itself is large and sprawling, with a working industrial character in the east. The ferry to Cat Ba Island leaves from the Tuan Chau ferry terminal.

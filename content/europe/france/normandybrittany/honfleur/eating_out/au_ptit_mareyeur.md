@@ -1,10 +1,9 @@
 ---
 title: "Au P'tit Mareyeur"
 type: poi
-address: "4 r Haute"
-price: "20 euro"
-latitude: 50.842054
-longitude: 4.352292
+address: "4 rue Haute"
+latitude: 49.4186
+longitude: 0.2328
 ---
 
-In this tiny restaurant you can eat very well at a fair price
+A tiny restaurant on rue Haute with a short, well-executed menu at fair prices. Good value by Honfleur standards.

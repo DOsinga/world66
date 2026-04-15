@@ -10,7 +10,7 @@ url: "www.oerol.nl"
 **Contributors**
 February 28, 2005
 
-### [Oerol](/europe/netherlands/waddenislands/terschelling_islan/festivals/oerol)
+### [Oerol](/europe/netherlands/waddenislands/terschelling/festivals/oerol)
 
 Every year in **mid june**, there is the eccentric festival called **Oerol**
 ('everywhere', in dialect).
@@ -21,11 +21,11 @@ island as a giant stage.
 The festival has a long and rich tradition.
 Over a period of more than twenty years, the festival has grown from a
 small street festival into a highly valued, multi-disciplinary
-festival. Be sure to catch it when [more..](/europe/netherlands/waddenislands/terschelling_islan/festivals/oerol)
+festival. Be sure to catch it when [more..](/europe/netherlands/waddenislands/terschelling/festivals/oerol)
 
 
 
-[[rate it]](/europe/netherlands/waddenislands/terschelling_islan/festivals/oerol)
+[[rate it]](/europe/netherlands/waddenislands/terschelling/festivals/oerol)
 
 date: june, recurrent every year
 

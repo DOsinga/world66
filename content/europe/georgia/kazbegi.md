@@ -1,11 +1,17 @@
 ---
-title: Kazbegi
-type: location
-latitude: 42.65799
-longitude: 44.640808
 done:
   location_cleanup: '2026-04-10'
+latitude: 42.658
+longitude: 44.6408
+title: Kazbegi
+type: location
 score: 0.68
 ---
 
-Kazbegi — officially renamed Stepantsminda — is a mountain town in the Greater Caucasus range in northern Georgia, sitting at around 1,750 metres altitude near the Russian border. The iconic view of the medieval Gergeti Trinity Church perched above the town against the backdrop of Mount Kazbek (5,047 m) is one of the most photographed scenes in the Caucasus. The town is the main base for trekking and mountaineering in the area, with routes leading up to the Gergeti glacier and toward the Russian border. The Georgian Military Highway runs through here, connecting Tbilisi to the border crossing at Larsi.
+The Kazbegi region — centred on the village of **Stepantsminda** (still widely called Kazbegi) — sits at the foot of Mount Kazbek (5,033 m) near the Russian border. It is one of the most spectacular and accessible mountain landscapes in the Caucasus, reachable in about two and a half hours from Tbilisi by car or marshrutka from Didube bus station.
+
+The iconic sight is the **Gergeti Trinity Church** (Tsminda Sameba), a 14th-century stone church perched on a hilltop at 2,170 metres with Mount Kazbek towering behind it. The walk up from Stepantsminda takes about an hour and the views are worth every step. On clear days you can see the glaciers on Kazbek's summit.
+
+Beyond the church, the region offers excellent trekking. The Truso Valley to the east leads to mineral springs and travertine terraces near the South Ossetian border. The Juta Valley to the west is a starting point for the hike to Chaukhi Pass. More ambitious visitors can arrange guided ascents of Mount Kazbek itself — a serious mountaineering objective requiring crampons, ropes, and experience.
+
+The village has guesthouses, a few restaurants, and reliable mobile coverage. Public transport runs only to Stepantsminda; a car, taxi, or strong legs are needed for reaching most other spots in the region.

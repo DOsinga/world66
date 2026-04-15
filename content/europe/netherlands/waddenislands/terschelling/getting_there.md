@@ -36,6 +36,6 @@ the way to Harlingen harbour.
 **From Amsterdam, take A1 > A8 direction Leeuwarden/Groningen. At
 Joure roundabout/traffic circle go to A7/E22 direction Sneek, Bolsward.
 Before the IJsselmeer Dam take the N31 to Harlingen. From there, ANWB-route signs will show you
-the way to Harlingen more..](/europe/netherlands/waddenislands/terschelling_islan/getting_there/drive_yourself)
+the way to Harlingen more..](/europe/netherlands/waddenislands/terschelling/getting_there/drive_yourself)
 
 type: By Road

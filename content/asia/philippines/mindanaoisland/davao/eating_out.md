@@ -15,20 +15,20 @@ May 29, 2007
 ### Display all
 or display just:
 
-[Chinese](/asia/philippines/davao/eating_out?subsection=Chinese)
-[European](/asia/philippines/davao/eating_out?subsection=European)
-[French](/asia/philippines/davao/eating_out?subsection=French)
+[Chinese](/asia/philippines/mindanaoisland/davao/eating_out?subsection=Chinese)
+[European](/asia/philippines/mindanaoisland/davao/eating_out?subsection=European)
+[French](/asia/philippines/mindanaoisland/davao/eating_out?subsection=French)
 
-[International](/asia/philippines/davao/eating_out?subsection=International)
-[Japanese](/asia/philippines/davao/eating_out?subsection=Japanese)
-[Local](/asia/philippines/davao/eating_out?subsection=Local)
+[International](/asia/philippines/mindanaoisland/davao/eating_out?subsection=International)
+[Japanese](/asia/philippines/mindanaoisland/davao/eating_out?subsection=Japanese)
+[Local](/asia/philippines/mindanaoisland/davao/eating_out?subsection=Local)
 
-[Seafood](/asia/philippines/davao/eating_out?subsection=Seafood)
-[Thai](/asia/philippines/davao/eating_out?subsection=Thai)
+[Seafood](/asia/philippines/mindanaoisland/davao/eating_out?subsection=Seafood)
+[Thai](/asia/philippines/mindanaoisland/davao/eating_out?subsection=Thai)
 
-**Show best rated on top** | [Show in alphabetical order](/asia/philippines/davao/eating_out?sort=alpha)
+**Show best rated on top** | [Show in alphabetical order](/asia/philippines/mindanaoisland/davao/eating_out?sort=alpha)
 
-### [Banana Leaf Asian Cafe](/asia/philippines/davao/eating_out/banana_leaf_asian)
+### [Banana Leaf Asian Cafe](/asia/philippines/mindanaoisland/davao/eating_out/banana_leaf_asian)
 
 This restaurant is a union of Malaysian, Singaporean, Thai, Indian and Vietnamese culinary tradition. Try their famous Hainanese Chicken, Nasi Goreng (Malaysian rice with egg on top), Malayan Curry and Roti Canai (with curry sauce or condensed milk). For dessert, try their Fried Banana. Banana Leaf also offers lunch buffet every 1st day of the month.
 
@@ -36,13 +36,13 @@ type: International
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/banana_leaf_asian)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/banana_leaf_asian)
 
 tel: (082) 225-8898
 
 address: Ground Floor Chimes Specialty Store, Governor Sales Street Davao City
 
-### [Cafe Mediterranean](/asia/philippines/davao/eating_out/cafe_mediterranean)
+### [Cafe Mediterranean](/asia/philippines/mindanaoisland/davao/eating_out/cafe_mediterranean)
 
 Known to its loyal patrons as the home of kebabs, gyros, hummus and pizzas, Cafe Mediterranean is a dining experience. The menu covers the best cuisines from the vast Mediterranean, the Middle East to North Africa to Italy, France and Spain. My personal favorites are Lamb Stew, Tunisian Fish, and Eggplant Parmigiana.
 
@@ -50,13 +50,13 @@ type: International
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/cafe_mediterranean)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/cafe_mediterranean)
 
 tel: (082) 225-8997
 
 address: G/F Chimes Specialty Store, Governor Sales St. Davao City
 
-### [Lotus Court](/asia/philippines/davao/eating_out/lotus_court)
+### [Lotus Court](/asia/philippines/mindanaoisland/davao/eating_out/lotus_court)
 
 Located at the 5-star Marco Polo Hotel, Lotus Courst is the hotel's signature dining room serving the finest selection
 of authentic Cantonese cuisine highlighted by fresh quality seafood.
@@ -78,7 +78,7 @@ type: Chinese
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/lotus_court)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/lotus_court)
 
 tel: 63 82 221 0888
 
@@ -86,7 +86,7 @@ url: [marcopolohotels.scriptmania.com](http://marcopolohotels.scriptmania.com/re
 
 address: Marco Polo Hotel, CM Recto Avenue, Davao City
 
-### [Claude's Le Cafe de Ville Restaurant](/asia/philippines/davao/eating_out/claudes_le_cafe_d)
+### [Claude's Le Cafe de Ville Restaurant](/asia/philippines/mindanaoisland/davao/eating_out/claudes_le_cafe_d)
 
 French and Continental dining.
 
@@ -94,9 +94,9 @@ type: French
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/claudes_le_cafe_d)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/claudes_le_cafe_d)
 
-### [Ah Fat Seafood Restaurant](/asia/philippines/davao/eating_out/ah_fat_seafood_res)
+### [Ah Fat Seafood Restaurant](/asia/philippines/mindanaoisland/davao/eating_out/ah_fat_seafood_res)
 
 Typical Chinese restaurant with very reasonable prices. The service is fast and the food is very good. Frequently you need to wait before being seated because of the many patrons. Because of this, they opened another branch.. Just behind the original! Yet, the 2 branches are never seen empty. That's how good their food is.
 **
@@ -106,13 +106,13 @@ type: Chinese
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/ah_fat_seafood_res)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/ah_fat_seafood_res)
 
 tel:
 
 address: Victoria Plaza, Bajada District Davao City
 
-### [Jack's Ridge](/asia/philippines/davao/eating_out/jacks_ridge)
+### [Jack's Ridge](/asia/philippines/mindanaoisland/davao/eating_out/jacks_ridge)
 
 Located at the top of Shrine Hills in Matina, this place offers a
 spectacular view of the city, Davao Gulf and even Samal Island. Very
@@ -122,17 +122,17 @@ ribs, etc. The order takes up to 30 minutes to be served but it is worth the wai
 
 Adjacent to the restaurant is Kai's, a bar
 featuring live bands almost nightly and Karlo's Coffee Station, a
-lovely coffee shop. There's also a piano bar [more..](/asia/philippines/davao/eating_out/jacks_ridge)
+lovely coffee shop. There's also a piano bar [more..](/asia/philippines/mindanaoisland/davao/eating_out/jacks_ridge)
 
 type: Local
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/jacks_ridge)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/jacks_ridge)
 
 address: Shrine Hills, Matina, Davao City
 
-### [Tsuru Japanese Restaurant and Sushi Bar](/asia/philippines/davao/eating_out/tsuru_japanese_res)
+### [Tsuru Japanese Restaurant and Sushi Bar](/asia/philippines/mindanaoisland/davao/eating_out/tsuru_japanese_res)
 
 Serves Japanese dishes. A bit pricey by Davao standards. Be prepared to shell out about 20 USD for a good meal. Since yellowfin tuna is readily available in the city, be prepared to taste the best sushi and sashimi this side of Asia! There's also a buffet (eat-all-u-can) event every 15th and 30th of the month for about 10 USD per person.
 
@@ -140,13 +140,13 @@ type: Japanese
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/tsuru_japanese_res)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/tsuru_japanese_res)
 
 tel: +63 (82) 2210901
 
 address: Door 3, Don R. Castillo Bldg., Legaspi St. , Davao City
 
-### [Bistro Rosario](/asia/philippines/davao/eating_out/bistro_rosario)
+### [Bistro Rosario](/asia/philippines/mindanaoisland/davao/eating_out/bistro_rosario)
 
 Serves a variety of food including Filipino, European and Continental dishes. Their main specialty are steaks of different kinds, to be cooked to your specification. Pastries, cakes and desserts are also available in their bakery, and are very delicious and often out of stock by afternoon due to high demand. Sandwiches, pasta and other snacks are also served up to 6pm. The prices are quite high for locals but not for dollar earners and servings are big. Service is excellent and food are served within 30 minutes after ordering.
 
@@ -154,13 +154,13 @@ type: International
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/bistro_rosario)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/bistro_rosario)
 
 tel: +63 82 221-7780
 
 address: F. Torres St., Davao City
 
-### [Banana Leaf Asian Cafe](/asia/philippines/davao/eating_out/banana_leaf_asian_1)
+### [Banana Leaf Asian Cafe](/asia/philippines/mindanaoisland/davao/eating_out/banana_leaf_asian_1)
 
 This restaurant is a union of Malaysian, Singaporean, Thai, Indian and Vietnamese culinary tradition. Try their famous Hainanese Chicken, Nasi Goreng (Malaysian rice with egg on top), Malayan Curry and Roti Canai (with curry sauce or condensed milk). For dessert, try their Fried Banana. Banana Leaf also offers lunch buffet every 1st day of the month.
 
@@ -168,13 +168,13 @@ type: International
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/banana_leaf_asian_1)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/banana_leaf_asian_1)
 
 tel: (082) 225-8898
 
 address: Ground Floor Chimes Specialty Store, Governor Sales Street Davao City
 
-### [O'Flannagan's](/asia/philippines/davao/eating_out/oflannagans)
+### [O'Flannagan's](/asia/philippines/mindanaoisland/davao/eating_out/oflannagans)
 
 An Irish Pub and restaurant serving reasonably good Irish food and drinks. The bar is loaded with the usual bar drinks plus authentic Irish thirst quenchers. Pub amiance with lots of Irish knick-knacks. Must try are the steaks and Irish specialties. Servings are huge, dishes are flavorful at reasonable prices. Now also open for lunch at 10 AM everyday.
 
@@ -182,13 +182,13 @@ type: European
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/oflannagans)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/oflannagans)
 
 tel: 300-1850
 
 address: Ilustre St, Davao City (near Gaisano South Mall)
 
-### [Zakoya Japanese Restaurant](/asia/philippines/davao/eating_out/zakoya_japanese_re)
+### [Zakoya Japanese Restaurant](/asia/philippines/mindanaoisland/davao/eating_out/zakoya_japanese_re)
 
 **The 2nd best authentic japanese restaurant in Davao city...opens for lunch from 11am-2pm and serves dinner buffet from 6pm-10pm **
 
@@ -198,7 +198,7 @@ type: Japanese
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/zakoya_japanese_re)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/zakoya_japanese_re)
 
 tel: (+63)(82) 227.7760
 
@@ -208,7 +208,7 @@ address: Door #3 Davcon Autoville bldg. F. Torres St. Davao City
 
 email:
 
-### [Luz Kinilaw](/asia/philippines/davao/eating_out/luz_kinilaw)
+### [Luz Kinilaw](/asia/philippines/mindanaoisland/davao/eating_out/luz_kinilaw)
 
 Luz Kinilaw is authentic Davao cuisine! It's a seaside restaurant
 serving no-frills inihaw na panga (roast jaw of yellow fin tuna) and kinilaw (local version of the Japanese sashimi - bite-size chunks of raw fish marinated in vinegar with local vegetables) . The
@@ -221,13 +221,13 @@ type: Seafood
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/luz_kinilaw)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/luz_kinilaw)
 
 tel: +63 82 221-8377
 
 address: Salmonan, Quezon Blvd., Davao City
 
-### [Davao Hilltop Restaurant](/asia/philippines/davao/eating_out/davao_hilltop_rest)
+### [Davao Hilltop Restaurant](/asia/philippines/mindanaoisland/davao/eating_out/davao_hilltop_rest)
 
 With a great view of downtown Davao, this lovely restaurant serves Filipino delicacies.
 
@@ -238,11 +238,11 @@ type: Local
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/davao_hilltop_rest)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/davao_hilltop_rest)
 
 address: Shrine Hill, Matina, Davao City
 
-### [Mandarin Tea Garden](/asia/philippines/davao/eating_out/mandarin_tea_garde)
+### [Mandarin Tea Garden](/asia/philippines/mindanaoisland/davao/eating_out/mandarin_tea_garde)
 
 This is one of the first Chinese Restaurants in Davao City and it is known for its affordable prices and well-cooked meals!
 
@@ -250,11 +250,11 @@ type: Chinese
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/mandarin_tea_garde)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/mandarin_tea_garde)
 
 email: www.mandarin.com.ph
 
-### [Thai Ming](/asia/philippines/davao/eating_out/thai_ming)
+### [Thai Ming](/asia/philippines/mindanaoisland/davao/eating_out/thai_ming)
 
 Two locations, NCCC Mall and The Venue Compound. Excellent Thai food. The prices are reasonable and the orders are good for 2-3 persons. The restaurants have good ambiance and the personnel are helpful. Occasionally they have a buffet event.
 
@@ -262,11 +262,11 @@ type: Thai
 
 
 
-[[rate it]](/asia/philippines/davao/eating_out/thai_ming)
+[[rate it]](/asia/philippines/mindanaoisland/davao/eating_out/thai_ming)
 
 address: The Venue Compound, Davao City
 
-### [Regine's](/asia/philippines/davao/eating_out/regines)
+### [Regine's](/asia/philippines/mindanaoisland/davao/eating_out/regines)
 
 ****An excellent restaurant mainly featuring seafood. Also with an excellent Roasted Pig.
 
@@ -284,7 +284,7 @@ tel: +63 82 222-3494
 
 address: F. Torres St., Davao City
 
-### [PALOVINCE PLACE](/asia/philippines/davao/eating_out/palovince_place)
+### [PALOVINCE PLACE](/asia/philippines/mindanaoisland/davao/eating_out/palovince_place)
 
 MUST TRY THE MOUTHWATERING HOUSE SPECIALTY...
 PAKFRY - DEEP FRIED PAKSIW NA TUNA BUNTOT.

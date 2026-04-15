@@ -1,6 +1,7 @@
 ---
 title: 'Parque Lage'
 type: poi
+category: Sight
 address: 'Rua Jardim Botanico, 414'
 opening_hours: '9:00 - 17:30; weekends until 22:30'
 latitude: -22.96003

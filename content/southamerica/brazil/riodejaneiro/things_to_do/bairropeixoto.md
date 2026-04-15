@@ -1,6 +1,7 @@
 ---
 title: 'Bairro Peixoto'
 type: poi
+category: Neighbourhood
 latitude: -22.966579
 longitude: -43.190371
 ---

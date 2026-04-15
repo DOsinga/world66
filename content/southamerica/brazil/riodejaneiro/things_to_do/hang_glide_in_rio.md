@@ -1,6 +1,7 @@
 ---
 title: 'Hang Gliding'
 type: poi
+category: Sight
 latitude: -23.002
 longitude: -43.284
 ---

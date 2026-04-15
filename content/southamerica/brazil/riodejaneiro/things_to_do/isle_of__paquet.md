@@ -1,6 +1,7 @@
 ---
 title: 'Ilha de Paqueta'
 type: poi
+category: Sight
 latitude: -22.758926
 longitude: -43.109199
 ---

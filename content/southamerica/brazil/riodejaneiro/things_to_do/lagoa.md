@@ -1,6 +1,7 @@
 ---
 title: 'Lagoa Rodrigo de Freitas'
 type: poi
+category: Sight
 latitude: -22.972
 longitude: -43.212
 ---

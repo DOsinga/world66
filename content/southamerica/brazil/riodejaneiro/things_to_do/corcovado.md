@@ -1,6 +1,7 @@
 ---
 title: 'Christ the Redeemer (Corcovado)'
 type: poi
+category: Sight
 address: 'Parque Nacional da Tijuca'
 phone: '(21) 2558-1329'
 latitude: -22.960648

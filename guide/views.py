@@ -1,5 +1,6 @@
 import json
 import sqlite3
+import subprocess
 from pathlib import Path
 
 import markdown as md
@@ -10,7 +11,7 @@ from django.utils.safestring import mark_safe
 
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
-    load_page, load_tag_index, resolve_tag_route, _find_city_path,
+    load_page, load_page_from_branch, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -22,8 +23,9 @@ def home(request):
 
 def location_or_section(request, path):
     path = path.strip("/")
+    branch = request.GET.get('branch')
 
-    page = load_page(path)
+    page = load_page_from_branch(path, branch) if branch else load_page(path)
     context_nav = None  # nav page used to reach this POI (for sidebar context)
 
     if not page:
@@ -97,8 +99,9 @@ def location_or_section(request, path):
 
     markers = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
-    image_path = _image_path(page)
-    hero_image_url = f'/content-image/{image_path}' if image_path else None
+    image_path = _image_path(page, branch)
+    branch_qs = f'?branch={branch}' if branch else ''
+    hero_image_url = f'/content-image/{image_path}{branch_qs}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
 
@@ -223,7 +226,7 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     return markers
 
 
-def _image_path(page):
+def _image_path(page, branch=None):
     image = page.meta.get('image', '')
     if not image:
         return None
@@ -231,12 +234,34 @@ def _image_path(page):
         f'{page.path}/{image}',
         f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,
     ]:
-        if (CONTENT_DIR / candidate).is_file():
+        if branch:
+            result = subprocess.run(
+                ['git', 'cat-file', '-e', f'{branch}:content/{candidate}'],
+                capture_output=True, check=False, cwd=str(settings.BASE_DIR),
+            )
+            if result.returncode == 0:
+                return candidate
+        elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
 
 
 def content_image(request, path):
+    branch = request.GET.get('branch')
+    if branch:
+        suffix = Path(path).suffix.lower()
+        if suffix not in ('.jpg', '.jpeg', '.png', '.webp'):
+            raise Http404
+        result = subprocess.run(
+            ['git', 'show', f'{branch}:content/{path}'],
+            capture_output=True, check=False,
+            cwd=str(settings.BASE_DIR),
+        )
+        if result.returncode != 0:
+            raise Http404
+        content_types = {'.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp'}
+        from django.http import HttpResponse
+        return HttpResponse(result.stdout, content_type=content_types[suffix])
     file_path = (CONTENT_DIR / path).resolve()
     if not file_path.is_relative_to(CONTENT_DIR.resolve()):
         raise Http404
@@ -252,3 +277,46 @@ def _safe_float(value):
         return float(value)
     except (ValueError, TypeError):
         return None
+
+
+def review(request):
+    '''Show all pages changed on a branch vs origin/main.'''
+    branch = request.GET.get('branch', 'HEAD')
+    result = subprocess.run(
+        ['git', 'log', branch, '--not', 'origin/main',
+         '--no-merges', '--name-only', '--format=COMMIT: %s', '--', 'content/'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return render(request, 'guide/review.html', {'error': result.stderr.strip() or 'git log failed', 'branch': branch})
+
+    pages = _parse_review_log(result.stdout)
+    return render(request, 'guide/review.html', {'pages': pages, 'error': None, 'branch': branch})
+
+
+def _parse_review_log(output):
+    pages = {}  # url_path → dict, deduplicated
+    current_msg = ''
+    for line in output.splitlines():
+        if line.startswith('COMMIT: '):
+            current_msg = line[len('COMMIT: '):]
+        elif line.startswith('content/') and line.endswith('.md'):
+            url_path = _file_to_url_path(line)
+            if url_path not in pages:
+                page = load_page(url_path)
+                pages[url_path] = {
+                    'url_path': url_path,
+                    'title': page.title if page else url_path,
+                    'commit': current_msg,
+                }
+    return list(pages.values())
+
+
+def _file_to_url_path(file_path):
+    '''content/a/b/c/c.md → a/b/c  (collapses directory-index duplication)'''
+    path = file_path.removeprefix('content/').removesuffix('.md')
+    parts = path.split('/')
+    if len(parts) >= 2 and parts[-1] == parts[-2]:
+        parts = parts[:-1]
+    return '/'.join(parts)

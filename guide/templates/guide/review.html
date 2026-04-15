@@ -1,0 +1,28 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Branch Review — World66{% endblock %}
+
+{% block content %}
+<h1>Branch review: <code>{{ branch }}</code></h1>
+
+<form method="get" style="margin-bottom:1em;">
+  <input name="branch" value="{{ branch }}" style="width:30em;" placeholder="branch name or HEAD">
+  <button type="submit">Load</button>
+</form>
+
+{% if error %}
+  <p style="color: red;">{{ error }}</p>
+{% elif not pages %}
+  <p>No content files changed on <code>{{ branch }}</code> (vs <code>origin/main</code>).</p>
+{% else %}
+  <p>{{ pages|length }} page{{ pages|length|pluralize }} changed on <code>{{ branch }}</code>:</p>
+  <ul>
+    {% for p in pages %}
+    <li>
+      <a href="/{{ p.url_path }}?branch={{ branch }}">{{ p.title }}</a>
+      {% if p.commit %}<span style="color: #888;"> — {{ p.commit }}</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+{% endblock %}

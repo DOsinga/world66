@@ -1,6 +1,7 @@
 ---
 title: "Plateau-Mont-Royal"
 type: poi
+category: Neighbourhood
 latitude: 45.521
 longitude: -73.581
 ---

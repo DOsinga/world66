@@ -1,6 +1,7 @@
 ---
 title: "Redpath Museum"
 type: poi
+category: Museum
 latitude: 45.504471
 longitude: -73.577514
 address: "859 rue Sherbrooke Ouest, Montréal, QC H3A 0C4"

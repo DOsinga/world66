@@ -1,6 +1,7 @@
 ---
 title: "St. Joseph's Oratory"
 type: poi
+category: Sight
 latitude: 45.491697
 longitude: -73.587164
 address: "3800 Queen Mary Road, Montréal, QC H3V 1H6"

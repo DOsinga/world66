@@ -1,6 +1,7 @@
 ---
 title: "Pointe-à-Callière Museum"
 type: poi
+category: Museum
 latitude: 45.502596
 longitude: -73.55418
 address: "350 Place Royale, Montréal, QC H2Y 3Y5"

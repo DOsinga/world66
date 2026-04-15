@@ -1,6 +1,7 @@
 ---
 title: "Mount Royal"
 type: poi
+category: Sight
 latitude: 45.508588
 longitude: -73.589711
 ---

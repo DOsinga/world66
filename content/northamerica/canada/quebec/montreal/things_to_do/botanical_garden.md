@@ -1,6 +1,7 @@
 ---
 title: "Montréal Botanical Garden"
 type: poi
+category: Sight
 latitude: 45.559325
 longitude: -73.556261
 address: "4101 rue Sherbrooke Est, Montréal, QC H1X 2B2"

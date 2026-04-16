@@ -1,10 +1,9 @@
 ---
-title: "Visit Big Cave near Vela Luka"
+title: "Vela Spila Cave"
 type: poi
-type: "Other"
-url: "www.vela-spila.hr"
+category: Sight
+latitude: 42.9614
+longitude: 16.7092
 ---
 
-On the south slope of the hill Pinski rat there is an extraordinary archaelogical site Vela Spila, one of the most important prehistoric finds in Europe, providing us with a picture of life on the Mediterannean in the last twenty thousand years. The excavated objects are exhibitited in the museum collection of the Culture centre.
-
-type: Other
+On the southern slope of Pinski Rat hill above Vela Luka lies Vela Spila, one of Europe's most important prehistoric archaeological sites. The cave has been excavated to reveal continuous human occupation going back twenty thousand years, from the late Palaeolithic through the Neolithic. Finds from the site are displayed at the Vela Luka Culture Centre.

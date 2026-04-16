@@ -1,6 +1,7 @@
 ---
 title: "Christuskirche"
 type: poi
+category: Architecture
 address: "Peter Muller Street, Windhoek"
 latitude: -22.5667
 longitude: 17.0825

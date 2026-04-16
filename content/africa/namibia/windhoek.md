@@ -1,9 +1,11 @@
 ---
-title: Windhoek
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: -22.57761
 longitude: 17.077274
 score: 0.47
+title: Windhoek
+type: location
 ---
 
 Windhoek is the capital of Namibia. With a population of less than 200,000 you would only call it a city by Namibian standards. It is quite a laidback, clean and easy going place. There are a few sights, good restaurants and lively bars. In short it is a great place to start exploring Namibia. 

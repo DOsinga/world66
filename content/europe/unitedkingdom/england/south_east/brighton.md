@@ -1,11 +1,11 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
+  location_cleanup: '2026-04-16'
 latitude: 50.821463
 longitude: -0.140056
+score: 0.67
 title: Brighton
 type: location
-score: 0.67
 ---
 
 Brighton is Britain's most exciting seaside city. With its cosmopolitan air, superb restaurants, feverish nightlife and abundance of culture, it defies comparison with anywhere else this side of the English Channel. For centuries it has been regarded as a pleasure dome, and that is not about to change.

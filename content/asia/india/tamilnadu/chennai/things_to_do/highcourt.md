@@ -1,6 +1,7 @@
 ---
 title: "Madras High Court"
 type: poi
+category: "Architecture"
 address: "High Court Complex, Parry's Corner, Chennai"
 latitude: 13.087268
 longitude: 80.284984

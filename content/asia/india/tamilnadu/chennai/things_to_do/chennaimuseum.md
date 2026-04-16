@@ -1,6 +1,7 @@
 ---
 title: "Government Museum Chennai"
 type: poi
+category: "Museum"
 address: "Pantheon Road, Egmore, Chennai"
 latitude: 13.071281
 longitude: 80.257043

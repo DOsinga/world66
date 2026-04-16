@@ -1,6 +1,7 @@
 ---
 title: "Kapaleeswarar Temple"
 type: poi
+category: "Sight"
 address: "Kapaleeswarar Koil Street, Mylapore, Chennai"
 opening_hours: "6:00-12:00, 16:00-22:00"
 latitude: 13.033741

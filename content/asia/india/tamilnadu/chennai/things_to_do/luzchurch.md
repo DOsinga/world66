@@ -1,7 +1,7 @@
 ---
 title: "Luz Church"
 type: poi
-email: "rshridhar2002@hotmail.com"
+category: "Sight"
 latitude: 13.038208
 longitude: 80.262348
 ---

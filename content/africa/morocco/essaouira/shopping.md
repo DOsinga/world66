@@ -3,20 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-Essaouira is good for souvenirs. There are many tuya wood souvenir shops with reasonable prices. In the market you can also buy Argane oil, which is delicious, it can be quite expensive, but I think it is worth it. Essaouira is also the city of art. There are quite a few good Art galleries, the most famous one being that one run by mister Damgaard. 
+Essaouira is one of the easier Moroccan towns to shop in: prices are more reasonable than Marrakech and the hassle is mild. Two specialities stand out. **Thuya wood**, a fragrant local conifer with deep burl, is carved into boxes, chess sets, and inlaid furniture in the workshops tucked under the Skala ramparts; you can watch the carvers at work before you buy. **Argan oil**, pressed from the kernels of trees that grow only in this corner of Morocco, comes in two forms — culinary (dark, nutty, drizzled on bread or salads) and cosmetic (lighter, used on hair and skin). Buy from a women's cooperative on the road to Marrakech for the most honest product.
 
-There is a government artist collective locally. Prices are fixed (though you may be able to haggle a little still) While you might not get the best deal, at least you know you wont be getting ripped off.
-
-**all**
-
-**Tuya**
-
-Essaouira is a great place to buy Tuya wood. They make the most fantastic sculptures of the stuff. They make good souvenirs
-
-**Galerie la Kasbah **
-
-4, rue de Tétouan  Tél. : (212 4) 447 36 82 
-
-**Galerie Frederic Damgaard**
-
-Avenue Oqba Ibn Nafiaa  Tél. : (212 4) 478 44 46
+The town also has a serious **art** scene: galleries on and around Avenue Oqba Ibn Nafiaa show local painters and the late Frédéric Damgaard's stable of self-taught Gnaoua artists.

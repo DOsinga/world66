@@ -1,9 +1,11 @@
 ---
-title: Edmonton
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 53.546205
 longitude: -113.491241
 score: 0.44
+title: Edmonton
+type: location
 ---
 
 Edmonton is the capital city of Alberta. This city of 918,000 hosts many popular cultural events and arts festivals, is well known for its scenic river valley and is home to the world's largest shopping centre, West Edmonton Mall. Go back in time at Fort Edmonton Park which recreates Edmonton's history in four eras. Take in the Edmonton Space and Science Centre, the Muttart Conservatory, and the Provincial Museum of Alberta. 

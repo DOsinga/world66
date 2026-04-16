@@ -19,7 +19,7 @@
   <ul>
     {% for p in pages %}
     <li>
-      <a href="/{{ p.url_path }}?branch={{ branch }}">{{ p.title }}</a>
+      {% if p.deleted %}<strong>{{ p.title }}</strong>{% else %}<a href="/{{ p.url_path }}?branch={{ branch }}">{{ p.title }}</a>{% endif %}
       {% if p.commits %}
       <ul style="margin:0.2em 0 0.4em 1em;color:#888;font-size:0.9em;">
         {% for msg in p.commits %}<li>{{ msg }}</li>{% endfor %}

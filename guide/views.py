@@ -279,6 +279,21 @@ def _safe_float(value):
         return None
 
 
+_CONTINENT_SLUGS = {
+    'europe', 'northamerica', 'southamerica', 'asia', 'africa',
+    'australiaandpacific', 'middleeast', 'centralamerica', 'caribbean',
+}
+
+
+def _display_title_from_path(url_path):
+    '''europe/ireland/cork/bars_and_cafes → "Cork - Bars and Cafes"'''
+    parts = url_path.split('/')
+    # Strip continent + country prefix so we start from region/city level
+    if parts and parts[0] in _CONTINENT_SLUGS and len(parts) > 2:
+        parts = parts[2:]
+    return ' - '.join(p.replace('_', ' ').title() for p in parts)
+
+
 def review(request):
     '''Show all pages changed on a branch vs origin/main.'''
     branch = request.GET.get('branch', 'HEAD')
@@ -291,11 +306,19 @@ def review(request):
     if result.returncode != 0:
         return render(request, 'guide/review.html', {'error': result.stderr.strip() or 'git log failed', 'branch': branch})
 
-    pages = _parse_review_log(result.stdout)
+    deleted_result = subprocess.run(
+        ['git', 'diff', f'origin/main...{branch}', '--name-only', '--diff-filter=D'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    deleted_files = set(deleted_result.stdout.splitlines())
+
+    pages = _parse_review_log(result.stdout, deleted_files)
     return render(request, 'guide/review.html', {'pages': pages, 'error': None, 'branch': branch})
 
 
-def _parse_review_log(output):
+def _parse_review_log(output, deleted_files=None):
+    deleted_files = deleted_files or set()
     pages = {}  # url_path → dict, deduplicated
     current_msg = ''
     for line in output.splitlines():
@@ -304,10 +327,10 @@ def _parse_review_log(output):
         elif line.startswith('content/') and line.endswith('.md'):
             url_path = _file_to_url_path(line)
             if url_path not in pages:
-                page = load_page(url_path)
                 pages[url_path] = {
                     'url_path': url_path,
-                    'title': page.title if page else url_path,
+                    'title': _display_title_from_path(url_path),
+                    'deleted': line.rstrip() in deleted_files,
                     'commits': [],
                 }
             entry = pages[url_path]

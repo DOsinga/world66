@@ -1,27 +1,10 @@
 ---
-address: Damplein 1 PO Box 91
-email: info@vvv-edam.nl
-phone: +299-315121
-tags:
-- day_trips
 title: Edam
 type: poi
-url: www.vvv-edam.nl
+tags:
+- day_trips
+latitude: 52.5089
+longitude: 5.0493
 ---
 
-Although **Edam** is only a 30-minute bus ride from Amsterdam, it is the perfect day trip for tourists interested in walking tours, small museums, and noshing on cheese at a cute cafe. Try *De Prinsen Bar and Eetcafe* for Dutch cheese samplers, fresh bread, tasty olives, and crisp green salads (*Prinsenstraat 8; Tel: 0299/372-911*). The pace in Edam is much slower than the in the city, so visitors can also relax and recharge here. Most tourists like Edam so much, that they decide to stay overnight at the canal side Hotel de Fortuna, which is surrounded by flowers, ducks, and the sounds of nature at night. Edam sights include the **Introductory Walk** which highlights the old "cheese weigh house" and the Church of St. Nichols, and the **Edams Museum/Historical Collection**, which is also located along the Introductory Walk.
-
-**Contributors**
-May 12, 2008
-
-
-
-
-
-tel: +299-315121
-
-url: [www.vvv-edam.nl](http://www.vvv-edam.nl/uk)
-
-address: Damplein 1 PO Box 91
-
-email: info@vvv-edam.nl
+Edam is a 30-minute bus ride from Amsterdam and one of the most intact small canal towns in the Netherlands — compact enough to see on foot in half a day. The old centre is largely 17th-century, with a working cheese market on Wednesday mornings in summer at the Kaasmarkt. The Edams Museum on Damplein occupies a floating cellar, and the Grote Kerk has fine painted wooden vaulting. Quieter and less visited than Volendam next door, which makes it the better choice.

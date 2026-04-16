@@ -6,6 +6,10 @@ longitude: -74.006015
 done:
   location_cleanup: 2026-04-05
 score: 0.88
+image: newyork.jpg
+image_source: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Empire_State_Building_--_2012_--_6436.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dietmar Rabich
 ---
 
 New York City is five boroughs, eight million people, and an argument that has never quite been settled. It is overwhelming in the best possible way: dense, loud, expensive, and unlike anywhere else. You can spend weeks here and still feel like you've barely scratched the surface, which is partly the point.

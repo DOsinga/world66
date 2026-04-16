@@ -6,6 +6,10 @@ longitude: 2.3522
 title: Paris
 type: location
 score: 1.0
+image: paris.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_HDR_2007.jpg
+image_license: CC BY 2.0
+image_attribution: Kainet
 ---
 
 *Europe > France > Paris*

@@ -6,6 +6,10 @@ longitude: 14.374836
 done:
   location_cleanup: 2026-04-07
 score: 0.83
+image: sorrento.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sorrento,_Italia,_2023-03-26,_DD_09.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
 ---
 
 *Europe > Italy > Campania > Sorrento*

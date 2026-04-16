@@ -6,6 +6,10 @@ longitude: 7.8632
 done:
   location_cleanup: 2026-04-02
 score: 0.83
+image: interlaken.jpg
+image_source: https://commons.wikimedia.org/wiki/File:CH-Schweiz-Interlaken-Strandbad-Br%C3%BCcke.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Patrick Nouhailler
 ---
 
 Interlaken sits on a narrow strip of land between Lake Thun and Lake Brienz, with the Eiger, Monch and Jungfrau towering above. The name literally means "between the lakes," and water defines the place: clear mountain streams tumble off the hills, waterfalls crash through gorges, and the two lakes shimmer in shades of turquoise and deep blue.

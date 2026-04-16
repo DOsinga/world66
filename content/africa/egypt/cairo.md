@@ -6,6 +6,10 @@ type: location
 done:
   location_cleanup: 2026-04-05
 score: 0.82
+image: cairo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:CairoAbbasiyaMarkEntrance-Cropped.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Roland Unger
 ---
 
 Travel Guide

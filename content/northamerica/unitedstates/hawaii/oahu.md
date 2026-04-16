@@ -6,6 +6,10 @@ longitude: -158.0001
 done:
   location_cleanup: 2026-04-06
 score: 0.83
+image: oahu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:National_Guard_Bureau_meet_Hawaii_Air_National_Guardsmen_and_family_members_on_Oahu,_Hawaii,_April_5,_2025_-_25.jpg
+image_license: CC BY 2.0
+image_attribution: Chief, National Guard Bureau
 ---
 
 Oahu is Hawaii's most visited and most populous island, home to Honolulu and the state capital. It's where the tourist infrastructure is concentrated — Waikiki's tower-block hotels, Pearl Harbor, and the North Shore's legendary surf breaks — but also where much of Hawaii's genuine cultural and culinary life happens.

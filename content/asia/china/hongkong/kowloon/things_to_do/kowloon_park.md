@@ -1,6 +1,7 @@
 ---
 title: "Kowloon Park"
 type: poi
+category: "Sight"
 address: "22 Austin Road, Tsim Sha Tsui"
 latitude: 22.3005
 longitude: 114.1701

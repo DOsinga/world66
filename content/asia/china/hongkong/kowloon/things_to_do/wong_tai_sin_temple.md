@@ -1,6 +1,7 @@
 ---
 title: "Wong Tai Sin Temple"
 type: poi
+category: "Sight"
 address: "Wong Tai Sin Estate, Kowloon"
 opening_hours: "Daily 7:00–17:30"
 latitude: 22.3443

@@ -1,17 +1,10 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Title: Gifts to Pune
+Delhi's sights are spread across two very different cities. In **Old Delhi**, the essential stops are the **Red Fort** (Shah Jahan's 17th-century imperial palace), the **Jama Masjid** (India's largest mosque, from the same period), and the narrow lanes of **Chandni Chowk** between them. Plan a morning for each. Entrance is early; avoid midday heat.
 
-URL: http://www.puneonlinemall.com
-Description: Shop online from any part of the world to send Gifts to Pune, Flowers to Pune, Cakes to Pune for any delivery date.
+The **Mughal tomb belt** running south across the city is the other great cluster: **Humayun's Tomb** (prototype for the Taj Mahal), the **Qutub Minar** complex (73-metre 12th-century sandstone tower surrounded by ruined mosques), **Safdarjang's Tomb**, and **Lodhi Gardens** where 15th-century tombs sit in one of the loveliest parks in India.
 
-Key Words: Gifts, Gift, Flowers, Flower, pune, to pune, Send, Sending, cake, cakes, Sweet, sweets, Valentine’s Day, Valentine, Valentines day, on valentine’s day, for Valentine’s day, Gift shop, Handicrafts, chocolates, apparel, saree, sari, shirt, cosmetic,pune, pune, Maharasta, same day delivery, watches, express delivery, birthday, anniversary, Gifts to pune, Flowers to pune
-
-mail id:sarabindudas1@gmail.com
-
-zip code-441001
-
-cont no-9342065026
+In New Delhi, the colonial-era **India Gate** and the Rajpath, the **Jantar Mantar** observatory, and the **Bahá'í Lotus Temple** are all worth visits. For museums, the **National Museum** holds the major collections of Indian antiquities, the **Gandhi Smriti** occupies the house where Gandhi was assassinated, and the **Crafts Museum** next to the Purana Qila is a wonderful survey of Indian village crafts.

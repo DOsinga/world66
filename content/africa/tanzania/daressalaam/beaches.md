@@ -3,12 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-Coco Beach at Oyster Bay is a popular beach and a good place for swimming.
-
-The Yacht Club at Msasani Peninsula has a private beach. Although the club is for members only it is possible to get temporary membership and it has a good family atmosphere.
-
-North and south of the city there are more beaches. 
-
-The beaches north of the city are some 25 km away in Kunduchi. Shuttle buses to the beach hotels at Kunduchi leave from outside the New Africa Hotel at 9.00, 12.00, 14.00, and 17.00 on weekdays and every other hour between 9.00 and 17.00 at weekends. Return fare is about $10. 
-
-The unspoilt beaches of the south coast are reached by taking the Kivukoni ferry from the fish market to Kigamboni. The beaches here are pretty unspoilt.
+Dar es Salaam has more beach than its city-sized reputation suggests. The closest is Coco Beach at Oyster Bay, in town and good for a stroll or swim, especially busy on Sunday afternoons. For a proper day trip, the resort beaches at Kunduchi and Bahari Beach lie about 25 km north — long stretches of white sand backed by palms, with day-use access at the hotels. South of the Kivukoni ferry, the unspoilt strands at Kigamboni feel a world away from the city: take the small passenger ferry from the fish market and walk or grab a bajaji to South Beach. Just offshore, Bongoyo Island (a 30-minute boat from the Slipway) has the cleanest swimming water within easy reach of the city.

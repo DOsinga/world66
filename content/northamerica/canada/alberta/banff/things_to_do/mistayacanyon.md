@@ -1,9 +1,9 @@
 ---
-title: "Mistaya Canyon ."
-type: poi
-type: "general"
+category: Sight
 latitude: 51.942307
 longitude: -116.721296
+title: Mistaya Canyon .
+type: general
 ---
 
 A short ten-minute trail leads to the canyon, where visitors can see the waters of the Mistaya River which have delicately sculpted this gorge, leaving many circular "potholes" in the canyon walls. 

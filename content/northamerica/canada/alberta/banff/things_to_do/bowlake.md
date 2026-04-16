@@ -1,9 +1,9 @@
 ---
-title: "Bow Lake ."
-type: poi
-type: "general"
+category: Sight
 latitude: 51.664549
 longitude: -116.449421
+title: Bow Lake .
+type: general
 ---
 
 The lake is the source of the Bow River. Across the lake is part of a very large icefield covering an area of the Great Divide. The Bow Glacier extends from this field over the cliffs. 

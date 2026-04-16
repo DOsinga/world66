@@ -1,9 +1,9 @@
 ---
-title: "Hole in the Wall ."
-type: poi
-type: "general"
+category: Sight
 latitude: 49.540446
 longitude: -121.121789
+title: Hole in the Wall .
+type: general
 ---
 
 This cavern appears to have been cut away by the melt waters from the glacier that once filled Bow Valley. 

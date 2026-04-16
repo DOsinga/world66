@@ -1,8 +1,9 @@
 ---
-title: "Hoodoos ."
-type: poi
+category: Sight
 latitude: 52.49297
 longitude: -112.233449
+title: Hoodoos .
+type: poi
 ---
 
 These spires, carved by the forces of wind and water, stand like lonely sentinels overlooking the Bow River. Wheelchair access. 

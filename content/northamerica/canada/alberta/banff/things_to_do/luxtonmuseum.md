@@ -1,9 +1,9 @@
 ---
-title: "Luxton Museum ."
-type: poi
-type: "general"
+category: Museum
 latitude: 51.172111
 longitude: -115.573471
+title: Luxton Museum .
+type: general
 ---
 
 Experience a time when Native people of the Northern Plains and Canadian Rockies followed the great bison herds, hauling their tipis and equipment by travois. Displays range from costumes and quillwork to hunting equipment, dances songs and legends. Guided tours can be arranged. 

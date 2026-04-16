@@ -1,8 +1,9 @@
 ---
-title: "GROOT CONSTANTIA"
-type: poi
+category: Sight
 latitude: -34.030377
 longitude: 18.417646
+title: GROOT CONSTANTIA
+type: poi
 ---
 
 This is the oldest homestead in the Cape.

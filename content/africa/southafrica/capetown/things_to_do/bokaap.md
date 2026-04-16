@@ -1,8 +1,9 @@
 ---
-title: "BO-KAAP"
-type: poi
+category: Neighbourhood
 latitude: -33.920561
 longitude: 18.412881
+title: BO-KAAP
+type: poi
 ---
 
 The delightful old buildings and cobbled streets make a walk or drive through this area very interesting.

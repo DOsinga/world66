@@ -1,10 +1,10 @@
 ---
-title: "Victoria & Alfred Waterfront"
-type: poi
-address: "Portswood Ridge, 8002 Cape Town"
-phone: "+27(21)4087600"
-type: "Hotspots"
-url: "www.waterfront.co.za"
+address: Portswood Ridge, 8002 Cape Town
+category: Neighbourhood
+phone: +27(21)4087600
+title: Victoria & Alfred Waterfront
+type: Hotspots
+url: www.waterfront.co.za
 ---
 
 The Victoria & Alfred Waterfront offers a range of specialty shops, craftmarkets, an Imax theatre, numerous restaurants and bars, an arena where open air performances are presented and various other entertainment options such as sunset boat cruises.

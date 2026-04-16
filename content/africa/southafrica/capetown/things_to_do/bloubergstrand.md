@@ -1,9 +1,9 @@
 ---
-title: "Bloubergstrand"
-type: poi
-type: "general"
+category: Sight
 latitude: -33.797336
 longitude: 18.461023
+title: Bloubergstrand
+type: general
 ---
 
 For the most beautiful view of Table Mountain you must go to the Cape

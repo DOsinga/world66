@@ -1,11 +1,11 @@
 ---
-title: "JOSEPHINE MILL"
-type: poi
-address: "Boundary Road, Newlands"
-phone: "++27 (0)21 686 4939."
-type: "general"
+address: Boundary Road, Newlands
+category: Museum
 latitude: -33.971331
 longitude: 18.466182
+phone: ++27 (0)21 686 4939.
+title: JOSEPHINE MILL
+type: general
 ---
 
 Cape Town's only surviving water mill built in 1818.

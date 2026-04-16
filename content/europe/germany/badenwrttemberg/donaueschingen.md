@@ -1,6 +1,4 @@
 ---
-done:
-  location_cleanup: '2026-04-16'
 latitude: 47.953419
 longitude: 8.495926
 score: 0.45
@@ -8,14 +6,8 @@ title: Donaueschingen
 type: location
 ---
 
-<<<<<<< HEAD
-Donaueschingen is a small town in the Black Forest, best known for one quietly geographic claim: it is where the Danube begins. In the park of the Fürstenberg Schloss, two small streams — the Brigach and the Breg — converge beside an ornate stone basin marked as the **Donauquelle**, the official source of the river that will eventually empty into the Black Sea two and a half thousand kilometres later. The basin itself is more symbol than spring (geographers and locals can argue at length about which feeder stream is the *real* source), but the spot makes for an unexpectedly satisfying pilgrimage.
+Donaueschingen claims the title of the source of the Danube, and while geographers might quibble about whether the river really begins here or a few kilometers upstream where the Breg and Brigach rivers merge, the town has made the most of the claim. The Donauquelle, a circular spring in the grounds of the Fürstenberg Palace, is dressed up with an allegorical sculpture and is the most-photographed spot in town. From this modest beginning, the Danube flows 2,850 kilometers to the Black Sea, passing through ten countries along the way.
 
-The other reason to stop here is music. Every October the town hosts the **Donaueschinger Musiktage**, the oldest and most influential festival of contemporary classical music in the world: founded in 1921, it has premiered work by Hindemith, Webern, Stockhausen, Boulez and almost every important new-music composer since. The Fürstenberg family — whose princely residence sits in the centre of town — also lend their name to one of southern Germany's well-known breweries; the Fürstenberg-Bräu draught is the local lager of choice.
-=======
-Donaueschingen is a small town at the eastern edge of the Black Forest, famous for one geographical claim: this is where the Danube begins. In the formal gardens of the Fürstenberg palace, a stone basin marks the **Donauquelle** — the source spring — though purists point out that the river is really born a few kilometres west, where the Brigach and the Breg streams meet. Either way, from this unassuming spot in southern Germany the river runs 2,800 kilometres to the Black Sea.
+The Fürstenberg Palace itself is worth a visit for its art collection, which includes works by Cranach and Holbein, and the surrounding park is pleasant for a stroll. Donaueschingen is also known in music circles for the Donaueschinger Musiktage, one of the oldest and most important festivals for contemporary classical music, held annually since 1921. If avant-garde composition is your thing, October is the time to come.
 
-The town belongs to the princely house of Fürstenberg, whose Baroque schloss dominates the centre. It is open to the public and worth a wander for the staterooms and the Karlsbau museum next door, which holds the family art collection — including the small Grünewald panels that are its real treasure.
-
-Donaueschingen is also a name to drop in modern music. The **Donaueschinger Musiktage**, held every October since 1921, is the oldest and most important festival of contemporary classical music in the world; if avant-garde composition is your thing, time a visit for it. Otherwise it is a quiet, prosperous Black Forest town — pleasant for a day, but most travellers see the source, take the photo, and move on.
->>>>>>> origin/main
+The town sits at the eastern edge of the Black Forest, and the surrounding countryside is lovely. Cyclists following the Danube Cycle Path typically start here and ride all the way to Vienna or Budapest. Even if you are not doing the full route, the first stretch east through the Swabian Alb is beautiful and mostly downhill.

@@ -13,5 +13,3 @@ Kaiserslautern is a mid-sized city in the Palatinate, set on the northern edge o
 The city itself is workmanlike rather than picturesque. It was heavily bombed in the Second World War and rebuilt in pragmatic post-war German style, with the original Barbarossa ruin and the gothic Stiftskirche the main reminders of the older town. The football stadium on the Betzenberg, home to 1. FC Kaiserslautern, is a more modern landmark — the club's loyal following gives match days an atmosphere the rest of the week can't quite match.
 
 The real reason to come is the forest. The Pfälzerwald begins on the city's southern edge: a vast, gently hilly landscape of beech and pine, dotted with sandstone cliffs, ruined castles and small wine villages. Trails head out from the city in every direction, and in autumn the local restaurants take advantage of the season with game, mushrooms and the new wine from the nearby Deutsche Weinstraße.
-</content>
-</invoke>

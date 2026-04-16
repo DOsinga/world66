@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: leiden.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_1865_Leiden_-_Netherlands.jpg
 latitude: 52.159475
 longitude: 4.490884
 title: Leiden

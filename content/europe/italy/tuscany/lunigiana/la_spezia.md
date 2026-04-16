@@ -1,9 +1,11 @@
 ---
-title: La Spezia
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 44.1024
 longitude: 9.8241
 score: 0.61
+title: La Spezia
+type: location
 ---
 
 La Spezia is best known as a naval base and a jumping-off point for the Cinque Terre, but the city itself deserves more than a passing glance. Exotic palm-studded gardens line the seafront before giving way to the airy shaded arcades of Via Chiodo and the wide nineteenth-century avenues. The classical architecture feels almost Parisian in places, then gives way abruptly to the narrow lanes of the old town centre, now a pleasant pedestrian area.

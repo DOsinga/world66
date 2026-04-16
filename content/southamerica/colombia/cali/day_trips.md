@@ -1,8 +1,8 @@
 ---
-title: "Day Trips in Cali"
+title: "Day Trips"
 type: section
+linked_locations:
+  - southamerica/colombia/palmira
 ---
 
-A lively city with fantastic nightlife, some interesting historical buildings and a varied dining scene, Cali is well worth a visit in its own right. As the capital of Cali's Cuaca district, the hot, steamy city is within easy reach of numerous other interesting spots. Beaches, nature reserves and historic sites all lie in close proximity to Cali, but exercise caution while traveling in the region - avoid taking overnight buses where possible, and check with locals regarding guerrilla activity in the area. Hiring a car in Colombia is not advisable due to poor road conditions and guerrilla activity.
-
-**
+Cali sits at the centre of the Cauca Valley, with easy access in every direction. The colonial town of Popayán is three hours south by bus and worth at least an overnight. Closer at hand, Palmira is a pleasant industrious town twenty miles east; the Hacienda El Paraíso, setting of the nineteenth-century novel María, lies in the same direction. To the west the road climbs into the cloud forest of the Farallones de Cali national park before dropping to the Pacific port of Buenaventura.

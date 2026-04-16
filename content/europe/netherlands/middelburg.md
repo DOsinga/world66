@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: middelburg.jpg
+image_attribution: crash71100 on Flickr
+image_license: CC0 1.0
+image_source: https://www.flickr.com/photos/152930510@N02/49520209202
 latitude: 51.499678
 longitude: 3.613737
 title: Middelburg

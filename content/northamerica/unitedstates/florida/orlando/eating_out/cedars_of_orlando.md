@@ -1,33 +1,13 @@
 ---
 title: "Cedars of Orlando"
 type: poi
-address: "7732 W Sand lake Road"
-email: "rsvp@cedarsoforlando.com"
+address: "7732 W Sand Lake Road"
 phone: "407-351-6000"
-price: "$5 - $30"
-type: "Middle East"
 url: "www.cedarsoforlando.com"
+price: "$5-30"
+cuisine: "Lebanese"
 latitude: 28.44986
 longitude: -81.488461
 ---
 
-Fabulous Lebanese food! The Kibbeh Nayeh is incredible. A
-great selection of house specialties including beef, lamb and chicken. Check
-website for lunch and diner coupon. Near Universal and Sea World, on Sand Lake Road just
-West of I4.
-
-type: Middle East
-
-
-
-
-
-tel: 407-351-6000
-
-url: [www.cedarsoforlando.com](http://www.cedarsoforlando.com)
-
-address: 7732 W Sand lake Road
-
-PriceOfMenu: $5 - $30
-
-email: rsvp@cedarsoforlando.com
+Lebanese on Sand Lake Road, just west of I-4 and a short drive from Universal and SeaWorld. The kibbeh nayeh is the standout; the rest of the menu runs through the usual beef, lamb, and chicken house specialties. Coupons on the website.

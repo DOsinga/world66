@@ -1,11 +1,11 @@
 ---
-title: Tamil Nadu
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 11.332372
 longitude: 78.609864
-done:
-  location_cleanup: 2026-04-05
 score: 0.47
+title: Tamil Nadu
+type: location
 ---
 
 Tamil Nadu is India’s southernmost state, and in many ways the most distinctly itself. Tamil is one of the world’s oldest living languages and the pride people take in it is palpable — Hindi has never made much inroad here, but English is widely spoken in cities and tourist areas. The food is the foundation of south Indian vegetarian cooking: the dosa, idli, sambar, and rasam that have spread across India all come from here. If you’ve only eaten those dishes elsewhere, eating them in Tamil Nadu is a revelation.

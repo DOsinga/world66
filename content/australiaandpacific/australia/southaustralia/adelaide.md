@@ -1,17 +1,17 @@
 ---
-title: Adelaide
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: -34.928181
 longitude: 138.599931
 score: 0.6
+title: Adelaide
+type: location
 ---
 
-Adelaide, South Australia’s capital, houses nearly 70 percent of all inhabitants of the southern region. The city itself was thoroughly planned and might frighten you at first sight. Well, don’t let the first signs of its major industrial character put you off. You can easily avoid the industrial area nearby the railway area and explore the rest Australia’s fifth largest and extremely fascinating city.
+Adelaide sits on a coastal plain between the Mount Lofty Ranges and the sea, the quiet capital of South Australia and — by reputation — the most orderly, least frenetic Australian city. It was founded in 1836 as a free colony (no convicts), laid out to Colonel William Light's rigorous grid plan, and ringed entirely by parkland. That grid and those parks still define the centre: a flat, walkable square mile of wide boulevards, 19th-century sandstone and plane trees, wrapped in green.
 
+What Adelaide lacks in Melbourne's buzz or Sydney's harbour drama, it makes up for in food, wine and festivals. The **Central Market** is one of the best produce markets in the country — a whole city block of cheese, charcuterie, oysters and migrant food stalls. Every March the city fills up for the **Adelaide Fringe** (the second-largest fringe festival in the world) and **WOMADelaide**. The nearby wine regions are the main event for many visitors: **Barossa Valley**, **McLaren Vale** and the **Clare Valley** are all within an hour.
 
- 
- The city centre, especially around East End and Central Market, is covered with shopping centres and restaurant and cafés. Finding a way to spend your day won’t be a problem, because Adelaide has plentiful options for travellers. Make sure that you leave some energy after visiting one of the many museums and seeing the famous statues and memorials. The sparkling nightlife, with an overload of bars, clubs and discos, most certainly deserves some of your attention.
+The seaside suburb of **Glenelg**, reached by the old Bay Tram from Victoria Square, is where Adelaideans go for fish and chips on the beach. North of the city, **Hahndorf** in the Adelaide Hills is a well-preserved German settlement with smoky beer halls. **Kangaroo Island**, an hour across the water, is a day or two in itself.
 
-
- 
- Thirsting for something else? Explore the famous wine region in the city’s vicinity or go to Park Lands. The latter is an extended area surrounding Adelaide and consists of several parks and lakes where you can relax and enjoy a fabulous picnic (don’t forget to bring the Australian wine!) For those who did not explore the outdoors yet, the Adelaide Hill Wildlife Parks might be a nice introduction to Australia’s wildlife. Still don't know what to do yet? Take the tram to Glenelg beach and think it over on the long sandy beach.
+Summer is hot and dry; autumn is the best time for wine country and festival season.

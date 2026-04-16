@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Utrecht"
+title: "Getting There"
 type: section
 ---
 

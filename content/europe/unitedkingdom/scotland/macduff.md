@@ -1,11 +1,15 @@
 ---
-title: Macduff
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 57.670211
 longitude: -2.494438
 score: 0.43
+title: Macduff
+type: location
 ---
 
-Travel Guide
+Macduff is a small fishing and boatbuilding town on the north coast of Aberdeenshire, facing its larger twin [Banff](/europe/unitedkingdom/scotland/banff) across the Deveron estuary. The town was renamed in 1783 by James Duff, 2nd Earl of Fife — the name means "son of Dubh", the black-haired one — and it has been tied to the sea ever since, with yards still turning out wooden, steel and aluminium hulls alongside the working harbour.
 
-The town originally known as 'Doune' was renamed Macduff in 1783 by James Duff the 2nd Earl of Fife. The name means ‘son of Dubh’ (the black haired one). Macduff Marine Aquarium which opened in 1997 is well worth a visit. Boatbuilding in wood, steel and aluminium continues in the busy fishing harbour. Wonderful Parish church dominates the skyline. The summer 'Banffhsire Maritime and Heritage Exhibition' (Open Mon to Sat 10.00am to 4.00pm June to October) is a must for all visitors even those from outer space, visit and see what we mean. To the east of the town the coastline at Tarlair is rugged but beautiful. Coastal boat trips are available east to Troup Head to see the gannet colony, puffins and guillemots. [Gardenstown](/europe/unitedkingdom/scotland/gardenstown), Crovie and [Pennan](/europe/unitedkingdom/scotland/pennan) can be seen form the boat. Trips are also available west to Portsoy, all on the 'Puffin' berthed in Macduff harbour, www.puffincruises.com look out for dolphins and Minke whales. Tee off at Royal Tarlair Golf club which follows the rugged coastline or go west across the bridge to [Banff](/northamerica/canada/alberta/banff).
+The main draw for visitors is the Macduff Marine Aquarium, showcasing the creatures of the Moray Firth in a big central tank with regular diver feeds. From the harbour, the *Puffin* runs coastal cruises east to Troup Head — home to a vast gannet colony with puffins and guillemots — and west to Portsoy, with a good chance of spotting dolphins or minke whales. The parish church dominates the skyline, and the ruined open-air pool at Tarlair, a short walk east, makes a bleakly atmospheric stop on the rugged coast.
+
+The Royal Tarlair Golf Club follows the clifftops above the sea, and the nearby villages of [Gardenstown](/europe/unitedkingdom/scotland/gardenstown), Crovie and [Pennan](/europe/unitedkingdom/scotland/pennan) are worth a detour for anyone drawn to the quiet drama of Scotland's north-east coast.

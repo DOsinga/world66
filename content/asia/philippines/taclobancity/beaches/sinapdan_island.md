@@ -1,24 +1,10 @@
 ---
 title: "Sinapdan Island"
 type: poi
-address: "Sinapdan island, 6500 Tacloban City, Philippines"
+address: "Sinapdan Island, San Juanico Strait, off Tacloban City"
 phone: "+639296716015"
-latitude: 11.271121
-longitude: 124.981295
+latitude: 11.2711
+longitude: 124.9813
 ---
 
-Situated on the idyllic San Juanico Strait is the island of Sinapdan. Embark on a 15-minute water ride via a Pump-boat (outrigger) from the city of Tacloban to the island of Sinapdan. Enjoy the clear waters and a great view of Tacloban City and San Juanico Bridge. From time to time, get a chance to take a glimpse of the nearly extinct pawikans and pagi (sting rays) whose habitat is the surrounding waters of Sinapdan.
-
-Cottage Rental Rates: P200 (daytime, 5am to 6pm), P300 (nighttime, 6:01pm to 4:59am ff day)
-Fare: P40/ head
-Entrance: P5 /head (Children below 5 y.o are FREE)
-Pickup Point: vicinity of Mcdonalds Tacloban.
-Seacraft: pumpboat with green paint and orange flag, yellow pumboat with Oscar and Rebecca side markings.
-
-
-
-
-
-tel: +639296716015
-
-address: Sinapdan island, 6500 Tacloban City, Philippines
+A small island in the San Juanico Strait, fifteen minutes by pumpboat (outrigger) from Tacloban. Clear water, an open view of the city skyline and the great curve of the San Juanico Bridge, and — if you are lucky — a glimpse of pawikan (sea turtle) or a sting ray gliding through the shallows. Cottages are cheap (around PHP 200 in the day, PHP 300 if you stay the night), pumpboat fare is about PHP 40 per head, and the entrance is a token PHP 5. Boats leave from the vicinity of McDonald's in Tacloban; look for the green pumpboat with an orange flag, or the yellow boat marked Oscar and Rebecca.

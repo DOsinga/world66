@@ -1,11 +1,11 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 20.4625
 longitude: 84.2708
+score: 0.47
 title: Odisha
 type: location
-score: 0.47
 ---
 
 Odisha (formerly Orissa) is one of India's most rewarding and least crowded states. Along the Bay of Bengal coast, ancient temples and Buddhist monasteries sit among palm groves and rice paddies. Inland, forested hills shelter tribal communities whose cultures have survived largely unchanged for centuries. The state changed its official English name from Orissa to Odisha in 2011, though you will still hear both.

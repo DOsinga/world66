@@ -1,10 +1,14 @@
 ---
-title: Volendam
-type: location
-latitude: 52.496376
-longitude: 5.068274
 done:
   location_cleanup: 2026-04-02
+image: volendam.jpg
+image_attribution: crash71100 on Flickr
+image_license: CC0 1.0
+image_source: https://www.flickr.com/photos/152930510@N02/49195352216
+latitude: 52.496376
+longitude: 5.068274
+title: Volendam
+type: location
 score: 0.54
 ---
 

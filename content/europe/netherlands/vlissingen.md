@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: vlissingen.jpg
+image_attribution: Dietmar Rabich
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Vlissingen_(NL),_Koopmanshaven,_Leuchtturm_--_2022_--_4730.jpg
 latitude: 51.494339
 longitude: 3.415006
 title: Vlissingen

@@ -1,24 +1,17 @@
 ---
-title: Manila
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 14.590449
 longitude: 120.980362
 score: 0.45
+title: Manila
+type: location
 ---
 
-Travel Guide
+Manila is one of the most exhausting cities in Southeast Asia. Thirteen million people live in the metro area, packed into a warren of municipalities, gated villages, slums, and business districts that stretch for forty kilometres up and down the bay. The traffic is legendary. The heat is heavy. The pollution is real. Don't come for rest — fly to one of the smaller islands for that.
 
-We currently have no information about Manila.
+Come instead for the layers. The walled Spanish colonial core, **Intramuros**, was one of the great Spanish cities of Asia until American bombs and Japanese demolitions flattened it in 1945. What remains is a partial reconstruction around San Agustin Church and Fort Santiago, where you can trace José Rizal's last footsteps to the firing squad in 1896. A short ride away, **Ermita** and **Malate** are the old tourist districts — faded, a bit seedy, still alive. **Makati** is the glossy business centre with the shopping malls, the best restaurants, and the **Ayala Museum**. **Quezon City** is the sprawling residential north, home to the University of the Philippines.
 
-If you do know any general information about Manila, please [Edit this article].
+Filipinos speak excellent English — the country is the world's third-largest Anglophone country — which makes Manila easier to navigate than most Asian megacities. The food is a revelation: Spanish, Chinese, American, and Malay influences woven together into something unmistakable. Try *sisig* (sizzling chopped pork), *adobo* (vinegar-braised chicken), and halo-halo (the great Filipino shaved-ice dessert) at least once.
 
-If you know any hotels in Manila or restaurants in Manila, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/philippines/manila)
-
-Manila has officially 6 million inhabitants (unofficially more than 9 millions)and it is one of the most exhausting cities in Southeast Asia. Don't expect to get any rest. For that kind of thing you need to take a plane to one of the smaller islands.
-
-Manila is the capital of the Philippines and was founded in 1571 around Manila Bay on the east coast of Luzon, the largest and most northerly island. It is by far the biggest city in the country. Manila started out as a humble village and has grown to become the governmental, commercial and educational centre of the nation. 
-
-
- The heart of old Manila can be found inside the Intramuros, the original Spanish settlement. The fort and St. Augustine Church still are good examples of colonial architecture.
-
-The University of Santo Tomas is one of the oldest universities in Asia. It has a very interesting Arts and Science Museum.
+Use Manila as a jumping-off point. The beaches, volcanoes, and dive islands elsewhere in the archipelago are all within easy reach.

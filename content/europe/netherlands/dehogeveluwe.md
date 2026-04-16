@@ -1,9 +1,13 @@
 ---
-title: De Hoge Veluwe
-type: location
+image: dehogeveluwe.jpg
+image_attribution: Andrej Shadura
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Bakfiets_in_De_Hoge_Veluwe_%E2%80%94_2024-07-09_16.05.29.jpg
 latitude: 52.0797
 longitude: 5.8311
+title: De Hoge Veluwe
 todo_location_cleanup: done
+type: location
 score: 0.6
 ---
 

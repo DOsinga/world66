@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-05'
+image: tilburg.jpg
+image_attribution: Returning the Screw on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/8470253@N04/6093535319
 latitude: 51.5555
 longitude: 5.0913
 title: Tilburg

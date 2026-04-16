@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: heerde.jpg
+image_attribution: Koosg Koos de Geest
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Heerde2.jpg
 latitude: 52.4056
 longitude: 6.0414
 title: Heerde

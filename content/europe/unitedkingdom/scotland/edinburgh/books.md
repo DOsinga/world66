@@ -3,10 +3,10 @@ title: "Books"
 type: section
 ---
 
-**Ian Rankin's "Rebus"** series of crime novels follows the career of fictional police detective John Rebus as he investigates crimes in modern-day Edinburgh.
+Edinburgh has been a literary city since the Enlightenment and remains so — it was the first UNESCO City of Literature in 2004. The two writers most associated with the modern city are Ian Rankin and Irvine Welsh, who between them cover the respectable and the ragged ends of town.
 
-Born in the Kingdom of [Elie Fife](/europe/unitedkingdom/scotland/eliefife), across the Firth of Forth from Edinburgh, Rankin has lived in Edinburgh for many years, and so his novels have a deep local flavour. If you enjoy the crime genre, you will find this series a brilliant introduction to the history, geography and seamier underside of Edinburgh.
+**Ian Rankin's "Rebus"** series follows the police detective John Rebus through a couple of dozen novels' worth of crimes in modern Edinburgh. Rankin lives in the city and his Edinburgh is the real one — the pubs, the housing schemes, the stretches of the Old Town that the tour guides hurry past. *Knots and Crosses* is the first; *Black and Blue* and *The Falls* are particular high points. Rebus drinks at the Oxford Bar on Young Street, which is a real pub and worth a visit.
 
-Rankin has plenty of material to work with, as the history of mayhem and murder in this city traces back hundreds of years, with such luminaries as Deacon Brodie, city councillor by day, and cutthroat thief by night and Burke and Hare, two grave robbers who just got sick of digging up corpses and decided to start making their own.
+**Irvine Welsh's "Trainspotting"** is the other essential Edinburgh book — Leith in the late 1980s, told in fierce, funny demotic Scots. The film is famous; the book is sharper.
 
-In an interesting twist, while John Rebus has spent a lifetime investigating grisly crimes throughout the rich landscape of Edinburgh and the Lothians, Ian Rankin had never himself been to the scene of a murder until recently. Tipped off that police were setting up a crime scene in a back garden in his new neighbourhood of Merchiston, he wandered down for a look. He was shocked to discover that the brutally dismembered victim was known to him. Alan Wilson, at the time of his murder a local tour operator about to enter into business dealings with Rankin, also turned out to be a disgraced school teacher and convicted paedophile. Only in Edinburgh.
+For the older city, **Robert Louis Stevenson's "The Strange Case of Dr Jekyll and Mr Hyde"** is set in London but powered by Stevenson's Edinburgh childhood — the split between the respectable New Town and the dark closes of the Old. **Muriel Spark's "The Prime of Miss Jean Brodie"** captures the Edinburgh of the 1930s through the Marcia Blaine School in Bruntsfield, and is as sly and clever a portrait of the city's manners as you will find.

@@ -1,22 +1,17 @@
 ---
-title: Tianjin
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 39.303262
 longitude: 117.416364
 score: 0.46
+title: Tianjin
+type: location
 ---
 
-The poor man’s version of Beijing. If you’re a foreigner, Tianjin a great place to live for a few years. Prices are cheap, people are overwhelmingly friendly and laid-back, and it has all the conveniences of a big city with the atmosphere of a small town (if that’s possible for a metropolis of 9m). If you’re a tourist however, Tianjin offers only minimal destinations of note, and most of these center around food. To be specific, Tianjin is most famous for four types of food:
+Tianjin is Beijing's coastal neighbour — a port city of fifteen million people about half an hour south-east of the capital on the bullet train. It doesn't try to compete with Beijing for sights, and doesn't need to. What Tianjin has instead is an unexpected European pedigree: the foreign concessions carved out after the Opium Wars left whole neighbourhoods of British, French, Italian, Russian and German buildings, many of them immaculately restored. Walking the Italian Concession on the north bank of the Hai River feels like stumbling onto a small piece of Verona.
 
-1) Gou-buli Baozi (pork/veggie buns)
-2) 18 Street Ma Hua (hard twisted churro-like sticks)
-3) Er-duo (some salty/sweet ear-shaped pastries)
-4) Jian-bing Guozi (breakfast burrito with oil-stick in the middle)
+The rebuilt **Ancient Culture Street** near the drum tower is touristy but good for calligraphy shops and shadow puppets. **Bin Jiang Dao** is the main shopping street. The **Tianjin Eye** Ferris wheel spans the river on Yongle Bridge — one of the few Ferris wheels built into a bridge.
 
-Other recommended sights:
+Above all, Tianjin is a food city. Locals are mad about **goubuli baozi** (pork buns so good they "ignore the dog"), **shibajie mahua** (hard twisted fried dough sticks), and the ubiquitous breakfast **jianbing guozi**, a thin savoury crêpe wrapped around a fried cruller. Food Street, an enclosed three-storey mall of food stalls built to look like old Tianjin, is worth an evening.
 
-Ancient Culture Street (bring your negotiation skills)
-Bin Jiang Street (Tianjin’s answer to Nanjing Road)
-Food Street (notice the recurring ‘street’ theme)
-TV Tower (get a great view of the smog from above!)
-Nankai and Tianjin University (China’s Princeton and Brown)
+Tianjin is half an hour from Beijing South station on the high-speed line, making it an easy day trip if you have extra time in the capital.

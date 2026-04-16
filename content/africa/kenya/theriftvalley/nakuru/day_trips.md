@@ -1,6 +1,8 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - africa/kenya/theriftvalley/naivasha
 ---
 
-Lillies Country park is the latest in the towns recreation facilities. Located 16 Kms from the town along Nakuru-Eldoret Highway around Sobea center, this is the place to take family out, corporate team building, outdoor fun and the works. This is situated in a Eucalyptus forest, lush with greenery and 5 acre space for all types of relaxation and games, fun and serenity. Facilities include Children play area [slides, swings, see saws, animal rides, bouncing castles, face painting], Self cooking facilities or on order, Camping area, Adult challenge games, Two counters for drinks, and farm produce kiosk for milk, vegetables etc. visit our website on www.lilliescountrypark.com and experience 'Country-made fun for all'
+Nakuru makes a good base for a day or two of exploring the central Rift. **Lake Naivasha**, an hour south on the A104, is a freshwater lake fringed by yellow-fever acacias and famous for its hippos, fish eagles, and the boat trips to **Crescent Island**. Closer to town, **Egerton Castle** — a 52-room mansion built by an eccentric British peer in the 1930s — sits in the countryside near Njoro, about a dozen kilometres west.

@@ -1,38 +1,8 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
-address: "Banjara Hills, Masab Tank"
-email: "merajmi@hotmail.com"
-phone: "9849991888"
-type: "Indian and Pakistani"
-url: "www.hyderabadhouse.com"
-latitude: 17.40707
-longitude: 78.451697
 ---
 
-The dual nature of Hyderabad is also very evident in its unique cuisine. The Nizam's influence and its location in the South has made it a culinary melting point of South Indian Cuisine with Mughlai tastes from the North.
+Hyderabadi cuisine is one of India's great regional kitchens — a fusion of Mughlai technique with Deccan and Telugu ingredients, developed in the kitchens of the Nizams over three centuries. The signature dish is biryani, slow-cooked dum-style with basmati, meat (usually mutton or chicken), saffron, fried onions, and yoghurt. Every Hyderabadi will tell you theirs is the best place for it; Paradise, Bawarchi, and Shah Ghouse are the big names, though many smaller places in the old city are at least as good.
 
-Hyderabadi cuisine is largely dominated by the *Biryani, *which is a rich preparation of meat cooked with flavoured rice cooked with nuts and other aromatic spices. Originally invented to feed the Nizam's armies in the field, it has since moved up from its humble beginnings. Apart from the biryani, other Mughlai staples like the *Halim* are also a must have. The best places to try these out are invariably in the "old" city.
-
-**Contributors**
-March 07, 2006
-
-### [Hyderabad House](/asia/india/andhrapradesh/hyderabad/eating_out/hyderabad_house)
-
-**Hyderabad House** is the place to find the best authentic Mughlai food in town. They are popular for Biryani, Variety of Chicken and Lamb specialties, Haleem and many other dishes one ould could imagine. Words cannot describe the cuisine and flavours you will enjoy, visit them if you happen to be in Hyderabad.
-
-31 July 2006
-
-type: Indian and Pakistani
-
-
-
-[[rate it]](/asia/india/andhrapradesh/hyderabad/eating_out/hyderabad_house)
-
-tel: 9849991888
-
-url: [www.hyderabadhouse.com](http://www.hyderabadhouse.com/)
-
-address: Banjara Hills, Masab Tank
-
-email:
+Beyond biryani, look for **haleem** — a slow-cooked porridge of wheat, meat, and spices traditionally eaten during Ramzan — and the Irani cafes inherited from Persian immigrants in the early 20th century, where chai and Osmania biscuits are the order of the day. **Nimrah Cafe** opposite Charminar is a institution. For dessert try **double ka meetha** (a bread pudding soaked in saffron syrup) or **qubani ka meetha** (stewed apricots with cream).

@@ -1,10 +1,14 @@
 ---
-title: Wageningen
-type: location
-latitude: 51.968582
-longitude: 5.668298
 done:
   location_cleanup: 2026-04-05
+image: wageningen.jpg
+image_attribution: Bitexbul
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dijkgraaf_in_Wageningen.jpg
+latitude: 51.968582
+longitude: 5.668298
+title: Wageningen
+type: location
 score: 0.41
 ---
 

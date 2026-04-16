@@ -1,9 +1,11 @@
 ---
-title: Phitsanulok
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 16.977998
 longitude: 100.384824
 score: 0.48
+title: Phitsanulok
+type: location
 ---
 
 Phitsanulok is located 380 km north of Bangkok. Worth a visit are the Pra Buddha Jinaraj (Chinarat) image at Wat Mahathat, an outstanding folklore museum, a Buddha factory, and night markets and floating restaurants on the Nan River. Another important plus is the complete absence of tourists, making Phitsanulok a refreshing change from the more popular destinations in central and northern Thailand.

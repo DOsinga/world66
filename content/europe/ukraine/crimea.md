@@ -1,16 +1,18 @@
 ---
-title: Crimea
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 45.283504
 longitude: 34.200819
 score: 0.46
+title: Crimea
+type: location
 ---
 
-The autonomous republic of Crimea is part of the Ukraine, and is within the peninsula from which it gets it's name. It is washed by the Black Sea on
- the West, South, and South East, and by The Azov Sea in the North East. In the North, the peninsula connects with the continental Ukraine. The area Of
- Crimea is 27,000 square Km. The nature of the Crimea is very rich. The is referred to as the "Microcontinent" because there are so many different natures landscapes. The highest point of the Crimea is Roman Kosh at 1545 meters.
- At the South, The Crimean Mountains form three ridges that reach for 180 km, from Sevastopol to Feodosia. Along The Famous Ridge (theSouth ridge)is situated the narrow (2-3 km) valley which is the South side of Crimea.The Crimea is a wonderful place with a peculiar history, culture,traditions, and a unique landscape. Crimea is one of the largest and most famous health resorts of the former USSR
- If you visit the Crimea, and explore it's beauty and rich culture, you will certainly wish to return.
+> **Travel warning:** Crimea has been under Russian military occupation since 2014, in violation of international law, and has been a conflict zone since Russia's full invasion of Ukraine in 2022. Most governments advise strongly against travel. The content below describes Crimea as a travel destination in earlier times.
+
+Crimea is a 27,000 km² peninsula in the northern Black Sea, connected to mainland Ukraine by the narrow Isthmus of Perekop. The peninsula is sometimes called a "microcontinent" for its exceptional range of landscapes packed into a small area: steppes in the north, salt lakes around the Sivash marshes, and in the south, a narrow Mediterranean coast backed by the Crimean Mountains that rise to Roman-Kosh (1,545 m).
+
+The southern coast — a 180 km strip from Sevastopol to Feodosia — is the classic destination: warm, dry, Mediterranean in climate, and lined with tsarist and Soviet-era sanatoriums. [Yalta](/europe/ukraine/crimea/yalta) was the Romanovs' summer playground and still has the Livadia Palace where Churchill, Roosevelt, and Stalin held the 1945 conference. [Sevastopol](/europe/ukraine/crimea/sevastopol), the port city on the western coast, covers the ancient Greek ruins of Chersonesus and the battlefields of the 1854–55 Crimean War. [Bahchisaray](/europe/ukraine/crimea/bahchisaray), inland, was the capital of the Crimean Khanate and still holds the Khan's Palace.
  
  
  

@@ -1,7 +1,8 @@
 ---
-title: "Visakha Musuem"
+address: Visakha Musuem,Beach Road,Near VUDA Park
+category: Museum
+title: Visakha Musuem
 type: poi
-address: "Visakha Musuem,Beach Road,Near VUDA Park"
 ---
 
 Visakha Musuem is run by the Municipal corporation and it has some of

@@ -1,9 +1,9 @@
 ---
-title: "Indira Gandhi Zoological Park"
-type: poi
-type: "Parks, Gardens and Zoos"
+category: Sight
 latitude: 17.766089
 longitude: 83.349439
+title: Indira Gandhi Zoological Park
+type: Parks, Gardens and Zoos
 ---
 
 This 625 Acres Zoological Park by Named after The Former Prime Minister

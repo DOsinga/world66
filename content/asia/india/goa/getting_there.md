@@ -3,8 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-During the months from October to April: From the U.K and certain other parts of Europe one can travel cheaply on a two week charter holiday package with B&B. Contact your local travel agent or give me a buzz.
+**By air:** Goa's Dabolim Airport (GOI), near Vasco da Gama in the south, handles domestic flights and a growing number of international routes. The newer Mopa Airport (GOX) in the north opened in 2023 and serves more of the international charter traffic. From Europe, direct charter flights run November to April; year-round, route through Mumbai or Bangalore.
 
-  The other way from Europe or America or wherever you can travel to bombay and then get a 45 min flight to goa or come to goa cheaply on a 14 hour bus or train journey.
+**By train:** The Konkan Railway is the classic way in. From Mumbai, overnight trains run to Madgaon (Margao) in around 11 hours. The route along the Western Ghats is scenic — book sleeper or AC class in advance, especially in high season. Madgaon is the main station for south Goa beaches; Thivim serves the north.
 
-  From within India Air, road and rail connects you to Goa
+**By bus:** Long-distance buses run to Goa from Mumbai, Bangalore, Hampi, and Pune. Sleeper-class buses are cheap and reasonably comfortable. The Mumbai–Goa road is slow; book an AC sleeper overnight rather than a day bus.
+
+**By road:** Goa is connected by the NH66 coastal highway. Driving from Mumbai takes 10–12 hours; from Bangalore, 12–14 hours.

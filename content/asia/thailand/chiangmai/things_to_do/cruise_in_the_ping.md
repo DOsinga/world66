@@ -1,10 +1,10 @@
 ---
-title: "Cruise in The Ping River with Scorpion Tailed Boat"
-type: poi
-address: "381/1 Jaroenraj Rd.,faham,Muang Chiang Mai"
-email: "info@scorpiontailed.com"
-phone: "081-9609398"
-type: "Sailing"
+address: 381/1 Jaroenraj Rd.,faham,Muang Chiang Mai
+category: Sight
+email: info@scorpiontailed.com
+phone: 081-9609398
+title: Cruise in The Ping River with Scorpion Tailed Boat
+type: Sailing
 ---
 
 The source of the Ping

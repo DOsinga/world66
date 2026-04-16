@@ -8,12 +8,8 @@ title: Bihar
 type: location
 ---
 
-Most travellers only pass through Bihar because they're heading for either Katmandu or Calcutta. The area, divided into the lowlands and the uplands by the river Ganges, was a famous religious centre for all sorts of teligions and is especially known for the world's first university of Buddhist Learning that was founded south of Patna. If you're interested in Buddhism, Bihar is an area not to be missed. There are still excellent opportunities to indulge in Buddhist learning. Maybe Patna, the state's capital, is not the most suitable place but the famous 
- [Bodh gaya](/asia/india/bihar/bodhgaya) pilgrimage site will undoubtedly be inspiring. In the village you can visit the tree under which the prince attained enlightenment to become Buddha. 
+Bihar is one of India's poorest and most overlooked states, sprawling across the Ganges plain in the country's east. Most travellers treat it as a corridor between Kolkata and Varanasi or a step on the way to Kathmandu — which is a shame, because this flat, densely populated stretch of north India is where Buddhism was born.
 
-## Destinations in Bihar
+The pilgrimage to [Bodh Gaya](/asia/india/bihar/bodhgaya) is the reason to come. This is where Siddhartha Gautama sat under a Bodhi tree and became the Buddha, and the town remains a hub of Buddhist learning. A descendant of the original tree still shades the Mahabodhi temple — a UNESCO site — and monks and pilgrims from Tibet, Thailand, Japan and Sri Lanka fill the lanes. South of [Patna](/asia/india/bihar/patna), the ruins of Nalanda — the world's first residential university, from the 5th century — lie in fields of brick foundations; once home to thousands of Buddhist scholars, it was destroyed by invading armies in the 12th century.
 
-[Bhagalpur](/asia/india/bihar/bhagalpur)
-[Ranchi](/asia/india/bihar/ranchi)
-[Patna](/asia/india/bihar/patna)
-[Bodh gaya](/asia/india/bihar/bodhgaya)
+The state capital Patna is gritty and chaotic, useful mostly as a base. Bihar remains poor and the infrastructure is rough, but the layered religious history — Buddhist, Jain, Hindu — makes it one of India's more rewarding off-the-track states for anyone willing to put up with a bit of friction.

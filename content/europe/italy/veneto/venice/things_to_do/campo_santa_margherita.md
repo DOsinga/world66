@@ -1,10 +1,10 @@
 ---
-title: "Campo Santa Margherita"
-type: poi
-admission: "Free"
+admission: Free
+category: Neighbourhood
 latitude: 45.4356
 longitude: 12.3233
-tags: ["48 Hours in Venice"]
+title: Campo Santa Margherita
+type: poi
 ---
 
 The large, lively square in Dorsoduro that functions as Venice's neighbourhood living room — lined with market stalls in the morning, cafes and student bars through the day and evening. Less touristic than San Marco and more animated than most of the city after dark. The surrounding streets contain some of the best independent restaurants in Venice.

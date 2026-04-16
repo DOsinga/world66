@@ -1,37 +1,17 @@
 ---
-title: Terschelling island
-type: location
-latitude: 53.394717
-longitude: 5.28768
+done:
+  location_cleanup: '2026-04-16'
+latitude: 53.395
+longitude: 5.345
 score: 0.55
+title: Terschelling
+type: location
 ---
 
-Travel Guide
+Terschelling is the second-largest of the Dutch [Wadden Islands](/europe/netherlands/waddenislands), a long, narrow ribbon of dunes, pine forest, salt marsh, and beach lying just off the Frisian coast. The island is roughly 30 kilometres from end to end but rarely more than four wide, and around 80% of it is protected nature reserve — including De Boschplaat, an empty expanse of marsh and sand at the eastern tip that has been a European nature reserve since 1970.
 
-Large parts of the island of Terschelling are nature reserve areas (a total of 80%). Its North Sea **coastline is the largest**
-of all Dutch Wadden Islands, from SW to NE extending over more then 30
-kilometres. At some places, this northern shore is as much as one
-kilometre wide(!!). The island's average width of 3.5 kilometres offers
-a variety of ever changing seasonal landscapes. In the south, a wide
-polder extends. A polder is "a low-lying tract of land, enclosed by
-embankments known as dikes and requiring drainage by pumps to maintain
-the water level within it from rising too high. *(by courtesy of Wikipedia)*".
-In the eastern part of the island is "De Boschplaat", 'European nature
-reserve' since 1970. Because Terschelling borders on the Wadden Sea,
-which uncovers twice every 24 hours, it makes the island a favourite
-feeding area for (migratory) birds.
+Most visitors arrive on the ferry from [Harlingen](/europe/netherlands/friesland/harlingen) and step off in **West-Terschelling**, the largest village. Above it stands the **Brandaris**, built in 1594 and the oldest working lighthouse in the Netherlands; its beam is visible from almost anywhere on the island. The old captains' houses on the harbour are a reminder that Terschelling was once a base for whalers and merchants in the Dutch Golden Age.
 
-[West-Terschelling](/europe/netherlands/waddenislands/terschelling/westterschelling), the largest of the island's villages, is the port of call for the ferry from the mainland. Here, as in
-[Midsland](/europe/netherlands/waddenislands/terschelling/midsland),
-typical facades of former Commodores' dwellings recall the Golden Age
-of international commerce and whaling. Over 600 wild plants species do
-well on Terschelling: some orchid varieties you see here in May-June
-are rather rare at this degree of latitude. The Boschplaat, where the
-water from the Wadden Sea often penetrates deep into the salt marshes
-and mud flats, offers its characteristic tide vegetation: sea coral,
-sea aster and sea lavender.
+The way to see the island is by bike. A network of paths runs the full length of Terschelling, threading through pine plantations, past cranberry bogs (a Terschelling speciality, said to have grown from a single barrel washed ashore in the 19th century), and out to the long, wide North Sea beaches that draw most of the summer crowd. Walking the dunes or the mudflats at low tide is just as good — bring proper shoes and check the tide tables.
 
-What cannot be found on any of the other Dutch
-[Wadden islands](/europe/netherlands/waddenislands), are the cranberry or American fen-berry bogs; the berries are incorporated in various typical Terschelling products.
-
-The tourist season spreads from june to september. Every year in mid june, there is the eccentric festival called [**Oerol**](/europe/netherlands/waddenislands/terschelling/festivals/oerol) ('everywhere', in dialect). Check the [Festivals] section for details.
+Time your visit for **Oerol** in mid-June if you can. For ten days the entire island becomes a stage for site-specific theatre, dance, and music — performances happen in the dunes, in barns, on the beach, in the woods. It is one of Europe's most distinctive performing arts festivals and well worth planning a trip around. Outside of Oerol, the season runs roughly from June through September; spring and autumn are quieter and excellent for birdwatching, as Terschelling sits on a major migratory flyway.

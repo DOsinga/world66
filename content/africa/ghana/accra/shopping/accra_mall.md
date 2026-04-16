@@ -1,11 +1,8 @@
 ---
 title: "Accra Mall"
 type: poi
-type: "Shopping centers and malls"
 latitude: 5.622184
 longitude: -0.172936
 ---
 
-A beautiful and modern shopping center just a few minutes drive from Kotoka International airport. Accra Mall was built in 2007 and it is a lot like any shopping center in London or America. There are a lot of first class shops including South Africa's 'game' and 'shoprite'.
-
-type: Shopping centers and malls
+The first proper Western-style shopping mall in Ghana, opened in 2007, a few minutes from Kotoka airport. Anchored by South African chains Shoprite and Game, plus a cinema and a food court. Useful if you need a SIM card, decent coffee, or air conditioning, less useful for anything you couldn't buy at home.

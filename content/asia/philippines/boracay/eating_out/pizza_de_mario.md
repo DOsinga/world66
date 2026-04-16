@@ -1,23 +1,10 @@
 ---
 title: "Pizza de Mario"
 type: poi
-address: "Near station 3"
+address: "Near boat station 3, White Beach"
 phone: "036 288 3601"
-type: "African"
-latitude: 11.95061
-longitude: 121.935071
+latitude: 11.9605
+longitude: 121.9258
 ---
 
-Enjoy a reasonably priced pizza or pasta dish at Pizza de Mario, a beachfront restaurant with a relaxed ambience.
-
-You can choose to dine inside, or at a table in their beachfront garden. Mario's can also deliver your order for a small fee.
-
-type: African
-
-
-
-
-
-tel: 036 288 3601
-
-address: Near station 3
+Reasonably priced wood-oven pizza and pasta in a relaxed beachfront garden near Station 3. You can dine inside or grab a table on the sand; Mario's will also deliver to your hotel for a small fee, which is a small miracle after a long day on the beach.

@@ -1,11 +1,8 @@
 ---
-title: "Getting There in São Miguel"
+title: "Getting There"
 type: section
 ---
 
-For travel from Europe or North America, see under the Azores.
+Almost everyone arrives at João Paulo II Airport in Ponta Delgada, on the south coast. SATA and Ryanair fly in from Lisbon and Porto; SATA also runs direct flights from several European cities and from Boston in summer. From the other Azorean islands, SATA's interisland flights connect São Miguel to Terceira, Faial, and Pico in under an hour.
 
-SATA has frequent flights to Ponta Delgada on São Miguel from all the other Azorean islands. There are no regular boat connections.
-
-**Contributors**
-April 03, 2005
+There are no regular passenger ferries to mainland Portugal. Atlânticoline runs interisland boats in summer, mostly between the central group of islands; reaching São Miguel by boat is rare and weather-dependent.

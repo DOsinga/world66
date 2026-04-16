@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-There are lots of activities to do in [Durban](/africa/southafrica/durban).
-
-Most activities though revolve around the lovely warm idian ocean. From deep sea fishing, to surfing on the golden mile, from watching a dolphin show at *Ushaka* to an exilarating Horse ride on the beach.
+Durban's main attractions cluster along the beachfront and through the old Indian quarter around Grey Street. Most activity revolves around the warm Indian Ocean — surfing the Golden Mile, watching dolphins at uShaka, or heading north to the long beaches of the Dolphin Coast — but there's enough on land between the temples, the markets and the colonial-era buildings to fill a couple of days without ever getting wet.

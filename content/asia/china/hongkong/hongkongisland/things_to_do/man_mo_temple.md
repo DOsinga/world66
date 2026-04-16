@@ -1,6 +1,7 @@
 ---
 title: "Man Mo Temple"
 type: poi
+category: "Sight"
 address: "124-126 Hollywood Road, Sheung Wan"
 latitude: 22.2850
 longitude: 114.1491

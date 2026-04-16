@@ -1,5 +1,5 @@
 ---
-title: "Getting Around Hong Kong Island"
+title: "Getting Around"
 type: section
 ---
 

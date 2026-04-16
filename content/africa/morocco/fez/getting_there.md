@@ -3,20 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-There are four options to get in Fez. 
+Fez is well connected to the rest of Morocco. The **train station** is in the Ville Nouvelle, ten minutes' walk from Place Mohammed V; ONCF runs comfortable services to Casablanca, Rabat, Tangier and Marrakesh, and the high-speed Al Boraq line reaches Fez via a connection at Kenitra. Long-distance **buses** (CTM and Supratours) run from a station on Avenue Mohammed V in the Ville Nouvelle; cheaper private buses use the larger Gare Routière just north of Bab Mahrouk. **Grand taxis** (shared Mercedes saloons) gather around Place Baghadi for nearby towns including Meknes, Sefrou, and Ifrane.
 
- **1. By train**
-
-You find the train station in the Ville Nouvelle at ten minutes walk from the hotels around Place Mohammed V. To get in Fes El Bali you can take a *petit taxi*.
-
- **2. By bus**
-
-When traveling by bus you will probably arrive at the main bus station (tel. 05/636032) just north of Bab Mahrouk (Fes El Bali). The other possibility is that you arrive at the CTM Station on Av. Mohammed V in the Ville Nouvelle. If you planning to go to Marrakesh take the convenient night bus from Bab Ftouh.
-
- **3. Grand taxis**
-
-The grand taxis you are likely to find around Place Baghadi
-
- **4. By air**
-
- Fez has a rather little airport about 15 km of the city. To get there it's best to take a grand taxi (30dh for the taxi; 5dha place). Here you can take several internal flights and for other destinations you have to go to Casablanca.
+**Fès–Saïs Airport** is 15km south of the city, with a handful of European routes (Paris, Marseille, Brussels, Madrid) and domestic flights to Casablanca. A grand taxi from the airport into town costs around 150 dirhams; bus 16 runs to the train station for a fraction of that.

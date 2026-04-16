@@ -1,9 +1,11 @@
 ---
-title: Stockholm
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 59.325117
 longitude: 18.071093
 score: 0.8
+title: Stockholm
+type: location
 ---
 
 Many travellers visit Stockholm, the Swedish capital, because of its natural beauty. Called the "Beauty on Water", the city is situated on 14 islands. Its water is so pure you can both swim and fish right in the heart of town as well as partake of boat tours offering such treats as live music and shrimp buffets. Stockholm has an abundance of parks and fascinating museums, a rich cultural life and many excellent restaurants.

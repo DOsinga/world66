@@ -1,6 +1,5 @@
 ---
-done:
-  location_cleanup: '2026-04-16'
+image_attribution: Ocoudis
 latitude: 48.85521
 longitude: 2.387194
 score: 0.8

@@ -4,6 +4,10 @@ type: location
 latitude: 43.769796
 longitude: 11.25564
 score: 0.92
+image: florence.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Florence_Duomo_from_Michelangelo_hill.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Petar Milošević
 ---
 
 Florence (pop. 417 000) is the one city few visitors allow enough time to see. It lays in Tuscany a stunning province of hills and mountains, which has produced such famous sons as Leonardo, Dante, Machiavelli and Michelangelo. Ever since the 19th century revival of interest in the art of the Renaissance, *Firenze* has been a shrine to the cult of the beautiful.

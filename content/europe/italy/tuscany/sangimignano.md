@@ -6,6 +6,10 @@ longitude: 11.043211
 title: San Gimignano
 type: location
 score: 0.77
+image: sangimignano.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Gimignano_-_View_-_1.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ingo Mehling
 ---
 
 San Gimignano in Tuscany is famous for its towers. The city gained its promenance due to its location rising from the hills of the Upper Elsa Valley, facing the land of Volterra and positioned right on one of the most important stretches of the mediaeval Via Francigena, is famous all over the world. A similar renown can also be claimed by its Vernaccia wine, recently awarded the D.O.C.G., the highest acknowledgement and guarantee for quality in Italian oenology. 

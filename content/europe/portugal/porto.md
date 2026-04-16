@@ -6,6 +6,10 @@ longitude: -8.611
 done:
   location_cleanup: 2026-04-06
 score: 0.82
+image: porto.jpg
+image_source: https://commons.wikimedia.org/wiki/File:O_Porto_(visto_da_Ponte_Dom_Luis_I).jpg
+image_license: CC BY-SA 3.0
+image_attribution: Rititaneves
 ---
 
 Porto is Portugal's second city and, in many ways, its most honest one. As the Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies, and Porto works." It is a place that has never tried to be pretty for visitors, yet its unvarnished beauty — crumbling azulejo facades, granite churches, iron bridges spanning the Douro gorge — makes it one of Europe's most rewarding cities.

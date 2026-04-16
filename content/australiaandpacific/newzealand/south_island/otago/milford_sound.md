@@ -6,6 +6,10 @@ longitude: 167.86876
 title: Milford Sound
 type: location
 score: 0.87
+image: milford_sound.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland_National_Park_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Krzysztof Golik
 ---
 
 Milford Sound is technically a fiord, not a sound — carved by glaciers rather than rivers — but the Welsh explorer who named it after Milford Haven in Wales did not know the difference in 1823, and the name stuck. Whatever you call it, nothing quite prepares you for the place: towering granite walls rise over a thousand metres from dark water, waterfalls cascade from every hanging valley, and the weather shifts from rain to blazing sunshine in minutes.

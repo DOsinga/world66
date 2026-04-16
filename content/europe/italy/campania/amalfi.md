@@ -6,6 +6,10 @@ longitude: 14.602609
 done:
   location_cleanup: 2026-04-05
 score: 0.84
+image: amalfi.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Amalfi_veduta_dalla_barca.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Anna Nicoletta Menzella
 ---
 
 *Europe > Italy > Campania > Amalfi*

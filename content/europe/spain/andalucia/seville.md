@@ -6,6 +6,10 @@ longitude: -5.99534
 done:
   location_cleanup: 2026-04-05
 score: 0.83
+image: seville.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Eventail_chinois_asym%C3%A9trique_Alcazar_Seville_Spain.jpg
+image_license: CC0
+image_attribution: Jebulon
 ---
 
 Seville is the most southern from the three biggest andalusian cities.

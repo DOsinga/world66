@@ -1,12 +1,15 @@
 ---
 done:
-  city_tag_migration: '2026-04-14'
   location_cleanup: 2026-04-05
 latitude: 48.8566
 longitude: 2.3522
-score: 1.0
 title: Paris
 type: location
+score: 1.0
+image: paris.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_HDR_2007.jpg
+image_license: CC BY 2.0
+image_attribution: Kainet
 ---
 
 *Europe > France > Paris*

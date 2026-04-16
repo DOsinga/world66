@@ -1,23 +1,36 @@
 ---
-done:
-  location_cleanup: '2026-04-16'
+title: Munich
+type: location
 latitude: 48.137108
 longitude: 11.575382
 score: 0.76
-title: Munich
-type: location
+image: munich.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Frauenkirche_Munich_March_2013.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Martin Falbisoner
 ---
 
-Munich is the capital of Bavaria — southern, Catholic, prosperous, and deeply self-assured in a way that sets it apart from the rest of Germany. It is the country's third-largest city (1.5 million people) but still feels like a very big village, with a compact, walkable old centre, Alps visible from upper-storey windows on clear days, and beer gardens that become the city's collective living room from May to September. This is where Germany goes to show off.
+Sometimes called the "Village of One Million" Munich is a southern city located near the Alps. This wonderfully charming 800-year-old city is the capital of [Bavaria](/europe/germany/bavaria) and the home of the world-famous Oktoberfest. Despite its name, events starts in late September and spills into the first week of October — dancing oompah bands and food dominate. Be prepared not only to drink but also to eat: You’ll have your fill of sausages that is for sure but experiment a bit — whole oxen for instance are cooked on giant spits. While the food is good, fest goers never let it distract from the main focus of the festival: beer. The city is filled with thousands of casual and committed beer drinkers guzzling foamy brew for days on end. If this sounds like heaven by all means go and enjoy it but if it doesn’t avoid Munich at all costs during this time. Book accommodation well in advance for Oktoberfest. But don’t think Oktoberfest is the only time Munich celebrates. The pre-Lenten celebration of Fasching is equally popular. It goes on for days with all sorts of costumed parties and festivities.
 
-The **Marienplatz**, with its neo-Gothic Rathaus and the glockenspiel that performs at 11 a.m., 12 noon, and 5 p.m. in summer, is the geographic and ceremonial centre. From here, the old town's three main spires — the twin onion domes of the **Frauenkirche**, the Peterskirche, and the Heilig-Geist-Kirche — mark the layout of medieval Munich. The nearby **Viktualienmarkt**, an open-air food market running six days a week, is the best place to sample Bavarian specialities: weisswurst with sweet mustard and a pretzel (traditionally before noon), leberkäse, and a Mass of beer.
 
-Munich is one of Europe's great **museum cities**. The **Deutsches Museum** is the largest science and technology museum on the continent and genuinely absorbing — allow half a day. The three Pinakothek galleries (**Alte**, **Neue**, **der Moderne**) hold one of Germany's finest art collections, from medieval panels through Rubens and Rembrandt to contemporary design. The **Residenz**, the former palace of the Wittelsbach kings, is a massive complex of state rooms and the treasury (crown jewels and Bavarian royal regalia). The **BMW Museum** at BMW Welt in the north is the last stop for motor-heads.
+ 
+ Munich is an important cultural center with special opera, theatre, ballet and concert seasons. It also has museums and galleries on every imaginable subject (including one about unusual museums). Some interesting ones are the German Theater Museum, Museum of Mankind and Nature, the Residenz (Egyptian Art and the crown jewels) and the Valentine Museum. The Deutsches Museum is the largest science and industry museum in Europe. The Alte Pinakothek and Neue Pinakothek (art museums) house extensive collections of medieval to modern European painting. The Lenbachhaus Gallery also has an exceptional collection of expressionist paintings (Kandinsky Klee Macke Marc). 
+ 
 
-The **Englischer Garten** is one of Europe's largest city parks — larger than Central Park — with a Japanese teahouse, a Greek temple rotunda on a hill, a Chinese pagoda beer garden, and a standing wave on the Isar river where surfers ride year-round. Nearby, the **Nymphenburg Palace** — the Wittelsbachs' baroque summer residence — is an easy tram ride west of the centre and worth half a day.
+The Englischer Garten is a nice place to relax and watch the citizens of Munich take their walks or tan in the sun (often topless sometimes wearing even less). In the midst of the gardens are the Kleinhesseloher See, a small lake with a cafe that serves refreshments, and a Chinese Tower and Monopterus (a Greek temple). 
+ 
 
-The **Oktoberfest** (late September to early October) is Munich's defining event — six million visitors, fourteen enormous tents, and a hundred thousand litres of beer an hour. It is phenomenal and it is awful, depending on your tolerance for crowds and drunkenness. Book accommodation six months in advance or avoid the city during those weeks. The rest of the year is more pleasant: spring in the beer gardens, Christmas markets in December, and the Fasching carnival before Lent.
+The town itself is easy to get around thanks to an excellent Getting Around. Visit the Nymphenburg Castle, a large baroque 17th-century palace that doubles as the Bavarian China Factory, the botanical gardens and the Olympic Center north of Munich, built for the 1972 Olympics. Be sure to see Kaufingerstrasse (great shopping street stretching from Stachus to the Marienplatz) and the Schwabing District with its arty atmosphere smart boutiques antique shops lively nightlife and a stellar selection of restaurants bars and discos. Continue shopping at Viktualienmarkt an open-air marketplace where everything from gingerbread cookies to fresh fish is available. Other attractions are the Hellabrunn Zoo, the beer gardens and the Rathaus a 19th-century Gothic city hall with a glockenspiel (performances daily at 11 am noon and during May-October 5 pm). 
+ 
 
-## Day trips
+One of Munich’s most recognizable structures is the twin-onion-domed Frauenkirche (Church of Our Lady). The old exterior provides quite a contrast to the stark white interior rebuilt after war damage gutted the church. BMW aficionados may want to make a pilgrimage to the BMW museum for some history of the company (after all the B in BMW stands for Bavaria and the corporate headquarters are in Munich). 
+ 
 
-[Dachau](/europe/germany/bavaria/dachau) — the site of the first Nazi concentration camp, now a memorial — is a sobering but essential 20-minute S-Bahn ride from the city centre. [Berchtesgaden](/europe/germany/bavaria/berchtesgaden) and the Bavarian Alps are two hours south by train; Salzburg, just across the border in Austria, is ninety minutes east. Mad King Ludwig's fairytale castles (**Neuschwanstein** and **Linderhof**) are further afield but feasible as a long day.
+Do spend a day driving around the countryside. Munich also has the airport closest to the German Alps (skiing and quaint Bavarian towns). The town of [Dachau](/europe/germany/bavaria/dachau) is the site of the first Nazi concentration camp. Another day trip relating to that era can be taken to [Berchtesgaden](/europe/germany/bavaria/berchtesgaden). Plan at least two or three days in Munich.
+ 
+
+This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
+
+Webdesign and logo (c) World66.com B.V.
+
+World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)

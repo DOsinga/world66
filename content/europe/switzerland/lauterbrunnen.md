@@ -1,21 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: lauterbrunnen.jpg
-image_attribution: chensiyuan
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_2012.jpg
 latitude: 46.593904
 longitude: 7.907802
-score: 0.76
 title: Lauterbrunnen
 type: location
+score: 0.76
+image: lauterbrunnen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_2012.jpg
+image_license: CC BY-SA 4.0
+image_attribution: chensiyuan
 ---
 
-Lauterbrunnen is one of those places that looks too dramatic to be real. The village sits at the bottom of a deep, U-shaped valley walled in by sheer cliffs on both sides, with 72 waterfalls cascading down the rock faces. The Staubbach Falls, dropping nearly 300 meters right next to the village, inspired Goethe when he visited in 1779 and has been inspiring visitors ever since. The valley is the gateway to the Jungfrau region and one of the most spectacular natural settings in the Swiss Alps.
+Lauterbrunnen is a small town 10km from [Interlaken](/europe/switzerland/interlaken), to which it is connected by road and rail. It is spectacularly sited at the entrance to the Lauterbrunnen valley - 400m white cliffs topped with pines and dotted with waterfalls.
 
-Most visitors pass through Lauterbrunnen on their way up to Wengen, Murren, or the Jungfraujoch, but the valley itself deserves more than a glance from a train window. The Trummelbach Falls, accessible via a tunnel and elevator system carved into the mountain, carry the meltwater of the Eiger, Monch, and Jungfrau glaciers down through a series of underground gorges -- the sheer volume and force of the water is extraordinary. The walk along the valley floor between Lauterbrunnen and Stechelberg takes about an hour and passes through quiet farmland beneath those enormous cliffs, with waterfalls appearing around every bend.
+Lauterbrunnen is well served by public transport, being on one leg of the rail line up to the Jungfraujoch (at 3454m, the highest train station in [Europe](/europe)), and the Lauterbrunnen region has numerous cog-railways, gondolas, cable-cars and funicular railways making getting around very easy indeed.
 
-Lauterbrunnen is a small village with limited accommodation, so book ahead in summer and ski season. The car-free villages of Wengen and Murren sit on the cliffs above, reachable by cog railway and cable car respectively, and offer some of the finest viewpoints in the Alps. The area is a paradise for hikers in summer, with trails for every level from easy valley walks to serious high-altitude routes. In winter, the Jungfrau ski area is easily accessible from here.
+Above Lauterbrunnen, above the valley on either side are the car-free villages of Wengen and Murren (visitors can park in the large car-park at the south end of Lauterbrunnen and carry on up via train or on foot). The scenery is magnificent, with a glorious mountain view around every corner, and the comprehensive transport network means that one can ride up the tough bits, and walk along the edge of the valley wall. Though going up or coming down the 400 to 800 metres from the top of the valley can be tough on the knees, it is the only way to see some of the views. Of course there are so many spectacular sights in this region that it's impossible to miss out completely.
 
-The village itself is unpretentious -- a cluster of chalets, a few hotels, and a couple of restaurants. That is part of its appeal. You come to Lauterbrunnen for the landscape, and the landscape delivers on a scale that few places in the world can match. J.R.R. Tolkien visited in 1911 and the valley is widely believed to have inspired the Elven refuge of Rivendell. Standing in the meadows with the cliffs towering above you and the waterfalls catching the light, it is easy to see why.
+The town has two banks, each with an ATM outside.

@@ -6,6 +6,10 @@ longitude: 139.6981
 title: Nikkō
 type: location
 score: 0.77
+image: nikko.jpg
+image_source: https://commons.wikimedia.org/wiki/File:205kei_train_in_JR_Nikko_line_02.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Fortew F
 ---
 
 Nikkō is one of Japan's most celebrated historic sites, set in the mountains of Tochigi Prefecture about 140 km north of Tokyo. The shrine and temple complex here, built to enshrine the Tokugawa shoguns, is the most ornate in the country — extraordinary even by Japanese standards, and a UNESCO World Heritage Site.

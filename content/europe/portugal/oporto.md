@@ -1,17 +1,21 @@
 ---
-done:
-  location_cleanup: '2026-04-16'
+title: Oporto
+type: location
 latitude: 41.150219
 longitude: -8.61035
 score: 0.77
-title: Porto
-type: location
+image: oporto.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Oporto,_Portugal,_2012-05-09,_DD_03.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Diego Delso
 ---
 
-Porto — or Oporto, as it is still sometimes called in English — is Portugal's second city and its working heart. The saying goes: *Lisbon shows off, Braga prays, Coimbra studies, and Porto works.* One day in Porto and you will see it is true. The old city clings to granite cliffs above the Douro River, a pile of tiled facades and terracotta roofs climbing away from the water. Across the river, on the south bank in Vila Nova de Gaia, the low cellars of the port wine shippers are where the grape juice of the Douro is aged into the dark, sweet wine the city is famous for.
+Built on the right bank of the Douro river, Oporto (or Porto) is a city where the old features contrast with the new. Its winding, hilly, narrow streets in the old town are a complement to its wide modern avenues which spread out to the suburbs. As capital of the north, Porto is very unpretentious and unashamedly commercial. As a Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies and Porto works". 
 
-The **Ribeira**, the old riverside quarter, is where you spend your first evening. Narrow, steep streets; tiny restaurants; fado bars tucked into basements. The double-deck **Ponte de Dom Luís I**, designed by an apprentice of Gustave Eiffel, connects Porto to Gaia — cross it on the upper level for the view, descend the lower level to tour the cellars. Up the hill, the fortress-like Sé cathedral looks out over the whole city.
+That this saying is true you will immediately recognize. For the year 2001 Porto shares the title of the "European Capital of Culture" with [Rotterdam](/europe/netherlands/rotterdam) in the Netherlands. It seems that the people of Porto thought that 2002 would be their turn, because the whole city still is full of construction sites and roadworks. There is dust and noise everywhere, but still, Porto is a fascinating city with lots of unknown treasures to discover by just strolling around. 
 
-The old town is a UNESCO World Heritage Site and feels it: weathered, tiled, a little melancholy. But Porto has reinvented itself over the last twenty years, and the inland neighbourhoods around Boavista and Foz do Douro are full of design hotels, good coffee, and the occasional Rem Koolhaas concert hall. The **Serralves** contemporary art museum, set in eighteen hectares of gardens west of centre, is one of the best on the Iberian peninsula.
+Here, at the delta of the Douro River, the second heart of Port wine beats. The wines, that are produced in several "quintas" up the river on step hills, are here bottled and shipped to all over the world. Vila Nova de Gaia, the city opposite of Porto on the left bank of the River, is the home to all the famous Port wine companies like Taylors, Dows, Offleys, Calem etc. 
 
-Porto is a walkable city, though you will work your legs — nearly every street either climbs or descends. The **metro** fills in where your legs won't, and the **Douro Valley train** out into the port wine country is one of the finest rail journeys in Europe.
+
+
+Porto and Vila Nova de Gaia are directly connected through the **Ponte de Dom Luis I**, a steelwork construction build in the 19th century. This bridge, dominating the skyline of the two cities, is a double bridge that connects on the one hand the upper towns of Porto and Vila Nova de Gaia and on the other hand the river banks. The most direct route to the wine lodges is across the lower level from the Cais da Ribeira, but if you have a head for heights it is an amazing sensation to walk over the upper deck, otherwise take bus no. 32, 57 or 91 from Sao Bento train station. Standing on the upper bridge and looking eastwards you will see the second steelwork construction bridge of Porto, the railway bridge **Ponte de D. Maria Pia**, designed by Théophile Seyrig and contracted by Gustave Eiffel in 1876 / 1877, length 160 m.

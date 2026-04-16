@@ -6,6 +6,21 @@ longitude: 77.656858
 done:
   location_cleanup: 2026-04-05
 score: 0.75
+image: ladakh.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Fields_Zangla_Zanskar_River_Ladakh_Jun24_A7CR_00981.jpg
+image_license: CC BY-SA 4.0
+image_attribution: 'This Photo was taken by Timothy A. Gonsalves.  Feel free to use
+  my photos, but please mention me as the author.  I would much appreciate if you
+  send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please
+  contact me before commercial use.
+
+
+
+
+  Please do not upload an edited image here without consulting me.  I would like to
+  make corrections only at my own source to ensure that the changes improve the image
+  and are preserved.Otherwise you may upload an edited image with a new name. Please
+  use one of the templates derivative or extract.'
 ---
 
 Ladakh — the "land of high passes" — is a high-altitude desert on India's northernmost frontier, wedged between the **Karakoram** range to the north and the **Himalaya** to the south. Nothing in Ladakh sits below 3,000 metres, and much of it is considerably higher: the capital, **[Leh](/asia/india/jammuandkashmir/ladakh/leh)**, stands at 3,524 m, and nearby passes like the Khardung La climb above 5,300 m. The landscape is an almost otherworldly mix of ochre rock, blue-white glacial rivers, and an absurdly pure, cloudless sky; the air is thin, the light is blinding, and the silence — once you are out of Leh — is the kind you rarely encounter anywhere else.

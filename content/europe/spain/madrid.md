@@ -1,19 +1,28 @@
 ---
-done:
-  location_cleanup: '2026-04-16'
+title: Madrid
+type: location
 latitude: 40.416782
 longitude: -3.703507
 score: 0.75
-title: Madrid
-type: location
+image: madrid.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_la_Almudena,_Madrid,_Espa%C3%B1a,_2014-12-27,_DD_23.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
 ---
 
-Madrid is a capital that took its time becoming one. Barcelona feels instantly cosmopolitan, Seville wears its history on its sleeve; Madrid is neither coastal nor obviously historic, and foreign visitors sometimes arrive expecting to be underwhelmed. They rarely leave that way. This is a city of late dinners, immense museums, working-class neighbourhoods that never sleep, and a particular kind of street life that exists nowhere else in Europe.
+Spain's capital is a lively city - nobody is exactly sure when the Madrilenos sleep. It may be the afternoon siesta that gives them the endurance to keep things going well into the night. Try it. 
+ 
 
-The **Prado** alone justifies a trip — one of the great painting collections in the world, centred on Velázquez and Goya and supplemented by Bosch's *Garden of Earthly Delights* and the full range of Spanish old masters. Next door, the **Reina Sofía** holds Picasso's *Guernica* and Spain's great 20th-century painters. Across the Paseo del Prado, the **Thyssen-Bornemisza** fills the gaps in between. These three museums — the "Golden Triangle of Art" — can easily consume a long weekend.
+The city is by European standards relatively new -it became capital only in 1561- but today Madrid spreads out all over the place. Fortunately, much of interest lies within the area that can be seen on foot. Check out Calle and Plaza Mayor (medieval Madrid) which is lined by beautiful buildings and the city's oldest church San Nicolas de los Servitas (plan several hours for this section). Then go shopping at Calle Serrano and the Gran Via. Visit the Victory Arch the Palacio Real (the royal palace with its own art treasures and crown jewels) the Rastro Flea Market and the Plaza de las Cibeles and Puerta del Sol (the last two are major intersections with fountains monuments and shops). 
+ 
 
-When you have had enough of museums, retreat to **Retiro Park** (one of the loveliest in Europe — a Victorian greenhouse, a Crystal Palace on a lake, and row-boats for rent), or the narrow streets of **La Latina** and **Lavapiés** in the old working-class heart of the city. The **Plaza Mayor**, completed in 1619, is the great square of Habsburg Madrid; the nearby **Royal Palace** is the largest functioning royal residence in Europe.
+Madrid is a museum-goer's paradise. Including the Royal Palace, it has 15 important museums, dozens of galleries and several private collections. See the section on the art walk for more details about the three famous museums in Madrid: the Prado, the Thyssen Bornemisza and the Reina Sofia museum. You might end up spending more than one day just seeing museums. Actually, days could be spent in the halls of the Prado alone.
+ 
 
-Eating and drinking is where Madrid is at its most Madrid. Dinner rarely begins before 10 p.m.; the tapas crawl — hopping bar to bar ordering one plate at each — is the city's national sport. **Chueca** and **Malasaña** are the nightlife heartland; **Huertas** runs on late and loud. On Sunday mornings, the **Rastro** flea market spills down Calle Ribera de Curtidores — two hundred years of street commerce, unchanged.
+It's actually quite possible to get tired of all these museums in Madrid; if this happens sit down at a terrazas (outdoor cafe) and watch the world go by or visit one of the many beautiful parks and lakes in the city. One of the nicest parks we've seen anywhere is Retiro Park near the Prado. Note the Victorian greenhouse and the Crystal Palace with its small lake and swans lazily swimming about. You can rent a rowboat to get in the relaxed festive mood that suffuses the park. For a panoramic view of Madrid take the elevator to the bar on the 26th floor of the Edificio de Espana which faces the Plaza de Espana. 
+ 
 
-Madrid sits on a high plateau, and the weather is more continental than you might expect: cold winters and very hot summers. Spring and autumn are the sweet spots. Out of the city, [Toledo](/europe/spain/la_mancha/toledo), [Segovia](/europe/spain/centralspain/segovia), [Ávila](/europe/spain/centralspain/avila), and **El Escorial** are all easy day trips and worth the effort.
+Madrid is a city that never seems to close down-bars and restaurants are open very late and the city's Santa Ana district never closes down. Dinner doesn't usually begin until after 10 pm and after that revelers head off to their favorite disco show, jazz club or late-night cafe to play until dawn. For a concentrated area of late-night activity head to Huertas Street after midnight and you're sure to find something to match your tastes. Hemingway fans may want to check out the Museo Chicote bar described in many of his Spanish Civil War stories (and a very trendy spot). Those who love traditional performing arts will want to go to the Teatro Real for Spanish light opera known as zarzuela. You can also find good flamenco shows in several nightclubs including Cafe Chinitas. 
+ 
+
+If you're in Madrid during the second half of May be sure to join Madrilenos in celebrating the Feria de San Isidro which has music, operas, concerts, bullfighting dancing and all-night entertainment. During our last trip, we attended a concert devoted to American bluegrass music held in the Plaza Mayor. And mid August is when the city celebrates the Verbena de la Paloma. Outside of Madrid day trips can be made to [Avila](/europe/spain/centralspain/avila), [El Escorial](/europe/spain/centralspain/elescorial), [Guadalajara](/europe/spain/la_mancha/guadalajara), [Segovia](/europe/spain/centralspain/segovia) and [Toledo](/europe/spain/la_mancha/toledo).

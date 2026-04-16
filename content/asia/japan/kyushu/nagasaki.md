@@ -6,6 +6,10 @@ longitude: 129.787434
 title: Nagasaki
 type: location
 score: 0.76
+image: nagasaki.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20190202_Nagasaki_harbor-1.jpg
+image_license: CC0
+image_attribution: Balon Greyjoy
 ---
 
 Nagasaki sits at the head of a long harbour on Kyushu's western coast, and for more than two centuries it was Japan's only window to the outside world. During the Edo period, when the rest of Japan was closed to foreign contact, a tiny artificial island called Dejima in Nagasaki harbour was the sole place where Dutch traders were permitted to operate. Chinese merchants had their own quarter nearby. This long history of foreign contact gives the city a character unlike anywhere else in Japan — European, Chinese, and Japanese influences are layered throughout.

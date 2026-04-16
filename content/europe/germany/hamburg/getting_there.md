@@ -3,10 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**by ship:**
+**By air.** Hamburg Airport (HAM) is on the northern edge of the city at Fuhlsbüttel, about 9 km from the centre. The S-Bahn line S1 runs every ten minutes from the airport to Hamburg Hauptbahnhof in 25 minutes — the simplest and cheapest option.
 
- Ferries from Harwich and Newcastle dock at Fischerhafen on Grosse Elbstrasse from where buses run to Altona station, west of town. Ferries from other destinations dock at St. Pauli Landungsbruecken.
+**By train.** Hamburg Hauptbahnhof is one of the busiest stations in Germany, with frequent ICE services to Berlin (under 2 hours), Frankfurt, Munich, Cologne, Copenhagen and Amsterdam. Long-distance trains also stop at Altona on the western side.
 
- **by air:**
-
- The airport Hamburg-Fuhlsbuttel is located at the northern edge of the city, close to the living areas. Buses run from the airport to the train station (and centre) run every twenty minutes, but it is a little cheaper to take the HVV airport bus to the U-Bahn (underground) and S-Bahn stop at Ohlsdorf, and then catch a train into town.
+**By ship.** Ferries from Harwich and Newcastle dock at Fischerhafen on Grosse Elbstrasse, with buses to Altona station. Other ferries dock at the St. Pauli Landungsbrücken in the centre.

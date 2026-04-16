@@ -1,5 +1,6 @@
 ---
-title: "Nan Yue Wang Tomb Museum (Southern King)"
+category: Museum
+title: Nan Yue Wang Tomb Museum (Southern King)
 type: poi
 ---
 

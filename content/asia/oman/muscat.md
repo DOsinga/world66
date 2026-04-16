@@ -1,9 +1,11 @@
 ---
-title: Muscat
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 23.612363
 longitude: 58.593813
 score: 0.68
+title: Muscat
+type: location
 ---
 
 **

@@ -6,6 +6,10 @@ longitude: 35.474567
 title: Petra
 type: location
 score: 0.81
+image: petra.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Camels_in_front_of_the_tombs,_Petra,_Jordan.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Diego Delso
 ---
 
 Petra is on your top priority list if you are in Jordan. Located in the Wadi Musa Canyon the solid red sandstone buildings, carved by the Nabataeans are unlike anything you have ever seen.

@@ -6,6 +6,10 @@ longitude: 167.488
 title: Fiordland
 type: location
 score: 0.86
+image: fiordland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Landscape_of_Fiordland_National_Park_02.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Krzysztof Golik
 ---
 
 Fiordland occupies the wild southwest corner of the [South Island](/australiaandpacific/newzealand/south_island), a vast expanse of mountain, rainforest, and deep glacial fiords that makes up one of [New Zealand's](/australiaandpacific/newzealand) most spectacular national parks. There are places here where no one has ever set foot — only flown over. The scale is extraordinary: over 1.2 million hectares of near-untouched wilderness, enough rain to keep everything perpetually green, and a coastline carved into fourteen major fiords.

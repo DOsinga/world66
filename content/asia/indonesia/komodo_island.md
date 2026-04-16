@@ -6,6 +6,10 @@ longitude: 119.462412
 title: Komodo Island
 type: location
 score: 0.77
+image: komodo_island.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Komodo_dragon,_Varanus_komodoensis,_Komodo_Island,_Indonesia,_20250822_1319_2752.jpg
+image_license: CC BY 4.0
+image_attribution: Jakub Hałun
 ---
 
 Komodo Island is a small, rugged island of about 280 square kilometres between Sumbawa and Flores in the Lesser Sunda chain. It is famous for one thing: the Komodo dragon (*Varanus komodoensis*), the world's largest living lizard, which reaches lengths of three metres and has roamed these islands for hundreds of thousands of years.

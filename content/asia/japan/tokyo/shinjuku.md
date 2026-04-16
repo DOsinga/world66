@@ -6,6 +6,10 @@ longitude: 139.7036
 done:
   location_cleanup: 2026-04-07
 score: 0.75
+image: shinjuku.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Buildings_with_colorful_neon_street_signs_at_blue_hour,_Shinjuku,_Tokyo.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Basile Morin
 ---
 
 Shinjuku is Tokyo at its most intense. The station alone handles over three million passengers a day, making it the busiest in the world, and the neighbourhood around it packs skyscrapers, department stores, neon-lit entertainment blocks, and quiet parks into a few square kilometres.

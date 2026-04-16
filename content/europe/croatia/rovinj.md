@@ -6,6 +6,10 @@ longitude: 13.641728
 title: Rovinj
 type: location
 score: 0.79
+image: rovinj.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Croazia_-_Rovinj_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Andrea Albini
 ---
 
 Rovinj is one of the most picturesque Mediterranean towns. When you climb to the top of the bell-tower, above the roof of the church you can see a unique combination of nature in all its magnificence and many historical monuments. 

@@ -6,6 +6,10 @@ longitude: 7.7491
 done:
   location_cleanup: 2026-04-06
 score: 0.88
+image: zermatt.jpg
+image_source: https://commons.wikimedia.org/wiki/File:3802_-_Zermatt_-_Matterhorn_viewed_from_Gornergratbahn.JPG
+image_license: CC BY-SA 2.5
+image_attribution: Andrew Bossi
 ---
 
 Zermatt is the car-free village at the foot of the Matterhorn, one of the most recognizable mountains on earth. At 1,620 meters in the upper Valais, it has been drawing mountaineers since the mid-nineteenth century and skiers since the twentieth. The village itself is small enough to walk end to end in twenty minutes, but the ski area above it is enormous -- 360 kilometers of pistes shared with Cervinia across the Italian border, plus summer glacier skiing on Klein Matterhorn that runs year-round.

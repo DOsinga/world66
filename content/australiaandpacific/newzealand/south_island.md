@@ -1,6 +1,5 @@
 ---
-done:
-  location_cleanup: '2026-04-16'
+image_attribution: ravas51
 latitude: -43.586562
 longitude: 171.212329
 score: 0.87

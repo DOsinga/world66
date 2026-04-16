@@ -6,6 +6,10 @@ longitude: 137.251032
 title: Takayama
 type: location
 score: 0.78
+image: takayama.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Takayama.-_Inari-torii_u_(scaned_2023).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Pierre André Leclercq
 ---
 
 Takayama (often called Hida-Takayama) is a beautifully preserved castle town deep in the mountains of Gifu Prefecture, sometimes called "Little Kyoto" for its Edo-period merchant streets and traditional atmosphere. It deserves the comparison — the old town is among the best-preserved in Japan.

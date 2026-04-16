@@ -6,6 +6,10 @@ longitude: -113.787
 title: Glacier National Park
 type: location
 score: 0.76
+image: glaciernp.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Glacier_National_Park_-_HCP_-_October_23,_2022_-_001.jpg
+image_license: CC0
+image_attribution: Vulturesong
 ---
 
 Glacier National Park, straddling the Continental Divide in northern Montana, is one of the finest wilderness areas in North America. The park protects more than a million acres of jagged peaks, clear lakes, dense forests, and — still, for now — glaciers.

@@ -6,6 +6,10 @@ longitude: 8.036746
 title: Grindelwald
 type: location
 score: 0.8
+image: grindelwald.jpg
+image_source: https://commons.wikimedia.org/wiki/File:00_0020_Grindelwald_-_Wetterhorn.jpg
+image_license: CC BY-SA 4.0
+image_attribution: W. Bulach
 ---
 
 Grindelwald is a village at 1,050 metres in the Bernese Oberland, set in a valley beneath the Eiger, Mönch, and Jungfrau — three of the most famous peaks in the Alps. The north face of the Eiger, one of mountaineering's great challenges, looms directly above the village. Tourists have been coming here since the 17th century, and it remains one of Switzerland's most popular mountain resorts.

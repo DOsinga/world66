@@ -6,6 +6,10 @@ longitude: 29.02646
 title: The Bosphorus
 type: location
 score: 0.85
+image: thebosphorus.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge(15_July_Martyrs_Bridge),_Istanbul,_Turkey_(Ank_Kumar)_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ank Kumar
 ---
 
 The Bosphorus is the strait that separates Europe from Asia, and a trip along its shores is one of the essential Istanbul experiences. Both sides of the channel are lined with old Ottoman wooden villas, 19th-century palaces, and waterside restaurants where you can watch tankers and ferries glide past.

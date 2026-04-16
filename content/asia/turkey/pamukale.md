@@ -6,6 +6,10 @@ longitude: 29.123707
 done:
   location_cleanup: 2026-04-05
 score: 0.76
+image: pamukale.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pamukkale_30.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Antoine Taveneaux
 ---
 
 **Pamukkale** — literally "Cotton Castle" in Turkish — is one of the most distinctive natural sites in the world: a 2,700-metre-long white limestone escarpment cascading down a hillside in south-western Turkey, with hot mineral-rich spring water flowing over a series of gleaming travertine terraces and shallow pools. From a distance the whole thing looks exactly like a frozen waterfall or, as the name suggests, a huge fluffy cotton castle. It has been a tourist destination for at least 2,000 years — the Romans built a spa city on top of it — and is now a UNESCO World Heritage Site.

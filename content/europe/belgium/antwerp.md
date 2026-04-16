@@ -1,11 +1,11 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
+  location_cleanup: '2026-04-16'
 latitude: 51.22111
 longitude: 4.399708
+score: 0.66
 title: Antwerp
 type: location
-score: 0.66
 ---
 
 Antwerp is one of the Belgium cities where you can fancy yourself the King of Belgium over a glass of *Koninck* beer (or one of the other 400 brands) with a view on the old guildhouses on the Grote Markt. Belgium's second city, and the biggest one of Flanders, is also a receptacle of monuments, museums and churches. Besides this, the city of Rubens, is the world’s centre for diamond processing as well as Belgium’s primary seaport.

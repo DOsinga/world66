@@ -1,10 +1,11 @@
 ---
-title: "National Air and Space Museum"
+address: 7th St. and Independence Ave., S.W
+category: Museum
+opening_hours: 10:00 am - 5:30 pm
+phone: (202) 357-1400
+title: National Air and Space Museum
 type: poi
-address: "7th St. and Independence Ave., S.W"
-opening_hours: "10:00 am - 5:30 pm"
-phone: "(202) 357-1400"
-url: "www.nasm.si.edu"
+url: www.nasm.si.edu
 ---
 
 The National Air and Space Museum is the most popular museum in the world, with more visiters than even the Louvre or Uffizi. It's also the largest collection of historic air-

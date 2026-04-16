@@ -1,10 +1,11 @@
 ---
-title: "National Museum of the American Indian"
+address: Fourth Street & Independence Ave.
+category: Museum
+opening_hours: 10 a.m. to 5:30 p.m.
+phone: 202-633-1000
+title: National Museum of the American Indian
 type: poi
-address: "Fourth Street & Independence Ave."
-opening_hours: "10 a.m. to 5:30 p.m."
-phone: "202-633-1000"
-url: "www.nmai.si.edu"
+url: www.nmai.si.edu
 ---
 
 The National Museum of the American Indian, Washington, D.C., is located on the National Mall between the Smithsonian’s National Air & Space Museum and the U.S. Capitol Building.

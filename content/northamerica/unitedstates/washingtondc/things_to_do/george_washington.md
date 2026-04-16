@@ -1,11 +1,11 @@
 ---
-title: "Washington Monument"
-type: poi
-address: "On the Mall, at 15th St."
-opening_hours: "9:00 am to 4:45 pm daily"
-phone: "202.426.6841"
-type: "Memorials"
-url: "www.nps.gov"
+address: On the Mall, at 15th St.
+category: Sight
+opening_hours: 9:00 am to 4:45 pm daily
+phone: 202.426.6841
+title: Washington Monument
+type: Memorials
+url: www.nps.gov
 ---
 
 The **Washington Monument** is the largest monument, and the most

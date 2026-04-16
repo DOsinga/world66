@@ -1,11 +1,11 @@
 ---
-title: "Jefferson Memorial"
-type: poi
-address: "East Basin Drive SW"
-opening_hours: "Open Daily  8 a.m. to midnight, closed December 25"
-phone: "202.426.6841"
-type: "Memorials"
-url: "www.nps.gov"
+address: East Basin Drive SW
+category: Sight
+opening_hours: Open Daily  8 a.m. to midnight, closed December 25
+phone: 202.426.6841
+title: Jefferson Memorial
+type: Memorials
+url: www.nps.gov
 ---
 
 On the shore of the Tidal Basin is found an elegant monument to the

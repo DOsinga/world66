@@ -1,6 +1,7 @@
 ---
 title: "Fringe Club"
 type: poi
+category: "Sight"
 address: "2 Lower Albert Road, Central"
 latitude: 22.2816
 longitude: 114.1567

@@ -294,6 +294,40 @@ def _display_title_from_path(url_path):
     return ' - '.join(p.replace('_', ' ').title() for p in parts)
 
 
+def _get_file_diffs(branch):
+    '''Run git diff once; return per-file list of up to 4 changed lines (+ added, - removed).'''
+    result = subprocess.run(
+        ['git', 'diff', '--unified=0', f'origin/main...{branch}', '--', 'content/'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    file_diffs = {}   # filepath → {'added': [...], 'removed': [...], 'more': bool}
+    cur = None
+
+    for raw in result.stdout.splitlines():
+        if raw.startswith('+++ '):
+            cur = raw[6:] if raw.startswith('+++ b/') else None  # None = deleted file
+            if cur and cur not in file_diffs:
+                file_diffs[cur] = {'added': [], 'removed': [], 'more': False}
+        elif cur:
+            if raw.startswith('+'):
+                sign, text = '+', raw[1:].strip()
+            elif raw.startswith('-') and not raw.startswith('---'):
+                sign, text = '-', raw[1:].strip()
+            else:
+                continue
+            # Skip YAML fence lines and empty
+            if not text or text == '---':
+                continue
+            bucket = file_diffs[cur]['added' if sign == '+' else 'removed']
+            if len(bucket) < 2:
+                bucket.append(text)
+            else:
+                file_diffs[cur]['more'] = True
+
+    return file_diffs
+
+
 def review(request):
     '''Show all pages changed on a branch vs origin/main.'''
     branch = request.GET.get('branch', 'HEAD')
@@ -306,59 +340,39 @@ def review(request):
     if result.returncode != 0:
         return render(request, 'guide/review.html', {'error': result.stderr.strip() or 'git log failed', 'branch': branch})
 
-    # Per-file diff stats: file_path → (added_lines, deleted_lines)
-    numstat_result = subprocess.run(
-        ['git', 'diff', '--numstat', f'origin/main...{branch}', '--', 'content/'],
-        capture_output=True, text=True, check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    file_stats = {}
-    for stat_line in numstat_result.stdout.splitlines():
-        parts = stat_line.split('\t', 2)
-        if len(parts) == 3:
-            file_stats[parts[2].strip()] = (parts[0], parts[1])
-
     del_result = subprocess.run(
         ['git', 'diff', f'origin/main...{branch}', '--name-only', '--diff-filter=D'],
         capture_output=True, text=True, check=False,
         cwd=str(settings.BASE_DIR),
     )
     deleted_files = set(del_result.stdout.splitlines())
+    file_diffs = _get_file_diffs(branch)
 
-    pages = _parse_review_log(result.stdout, deleted_files, file_stats)
+    pages = _parse_review_log(result.stdout, deleted_files, file_diffs)
     return render(request, 'guide/review.html', {'pages': pages, 'error': None, 'branch': branch})
 
 
-def _parse_review_log(output, deleted_files=None, file_stats=None):
+def _parse_review_log(output, deleted_files=None, file_diffs=None):
     deleted_files = deleted_files or set()
-    file_stats = file_stats or {}
-    pages = {}  # url_path → dict, deduplicated
+    file_diffs = file_diffs or {}
+    pages = {}
     for line in output.splitlines():
-        if line.startswith('COMMIT: '):
-            pass  # commit messages replaced by diff stats
-        elif line.startswith('content/') and line.endswith('.md'):
-            raw = line.rstrip()
-            url_path = _file_to_url_path(raw)
-            if url_path not in pages:
-                is_deleted = raw in deleted_files
-                added, removed = file_stats.get(raw, ('?', '?'))
-                if is_deleted:
-                    summary = 'verwijderd'
-                elif added == '0' and removed == '0':
-                    summary = 'ongewijzigd'
-                else:
-                    parts = []
-                    if added not in ('0', '-'):
-                        parts.append(f'+{added}')
-                    if removed not in ('0', '-'):
-                        parts.append(f'−{removed}')
-                    summary = ' / '.join(parts) if parts else 'gewijzigd'
-                pages[url_path] = {
-                    'url_path': url_path,
-                    'title': _display_title_from_path(url_path),
-                    'deleted': is_deleted,
-                    'summary': summary,
-                }
+        if not line.startswith('content/') or not line.endswith('.md'):
+            continue
+        raw = line.rstrip()
+        url_path = _file_to_url_path(raw)
+        if url_path in pages:
+            continue
+        is_deleted = raw in deleted_files
+        diff = file_diffs.get(raw, {})
+        pages[url_path] = {
+            'url_path': url_path,
+            'title': _display_title_from_path(url_path),
+            'deleted': is_deleted,
+            'added': diff.get('added', []),
+            'removed': diff.get('removed', []),
+            'more': diff.get('more', False),
+        }
     return list(pages.values())
 
 

@@ -1,8 +1,9 @@
 ---
-title: "Batu Caves"
-type: poi
+category: Sight
 latitude: 3.237796
 longitude: 101.681376
+title: Batu Caves
+type: poi
 ---
 
 The huge Batu Caves are located 13km out of the city and are among KL's best known tourist attractions. Now used for Hindu festivals and pilgrimages, the caves also form an intense backdrop to the spectacularly masochistic feats performed annually by Thaipusam devotees. The main cave, a vast open space known as the Temple Cave - is reached by a 272-step climb. Beyond the stairs is the main temple. There are several other smaller caves in the same formation, including one with elaborately painted Hindu figures. 

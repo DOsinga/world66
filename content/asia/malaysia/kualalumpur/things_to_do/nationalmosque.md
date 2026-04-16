@@ -1,9 +1,9 @@
 ---
-title: "National Mosque"
-type: poi
-type: "Mosques"
+category: Sight
 latitude: 3.142054
 longitude: 101.691793
+title: National Mosque
+type: poi
 ---
 
 The National Mosque is located Jalan Sultan Hishamuddin surrounded by beautiful gardens. It was completed in 1965 after 3 years of construction. Its roof, designed in the shape of an eighteen-pointed star, has the appearance of a partly opened umbrella roof. 

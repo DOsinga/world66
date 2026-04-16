@@ -1,8 +1,9 @@
 ---
-title: "China Town"
-type: poi
+category: Neighbourhood
 latitude: 5.339062
 longitude: 100.30841
+title: China Town
+type: poi
 ---
 
 Chinatown is located about 300m south-east of Merdeka Square. It is a crowded, active and colourful area. The central section, Jalan Petaling, is a frantically busy market that is closed to traffic. It is most spectacular at night, when the combination of street stalls, food, haggling and bright lights makes impressions on all five senses. 

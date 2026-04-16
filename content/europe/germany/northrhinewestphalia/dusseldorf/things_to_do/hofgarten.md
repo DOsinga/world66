@@ -1,9 +1,9 @@
 ---
-title: "Hofgarten"
-type: poi
-type: "Parks, Gardens and Zoos"
+category: Sight
 latitude: 48.142679
 longitude: 11.580472
+title: Hofgarten
+type: Parks, Gardens and Zoos
 ---
 
 The largest of Dusseldorf's parks is the Hofgarten, shaped like a great

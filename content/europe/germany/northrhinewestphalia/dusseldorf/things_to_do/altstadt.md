@@ -1,9 +1,9 @@
 ---
-title: "Altstadt"
-type: poi
-type: "Hotspots"
+category: Sight
 latitude: 53.550493
 longitude: 9.99778
+title: Altstadt
+type: Hotspots
 ---
 
 The Altstadt has made Düsseldorf world-famous. But it's not just the tempting array of food and drink, which gives this picturesque quarter its special flavour; the Altstadt also has a few churches that are worth a visit.

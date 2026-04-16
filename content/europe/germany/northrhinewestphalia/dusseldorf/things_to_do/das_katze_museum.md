@@ -1,5 +1,6 @@
 ---
-title: "Das Katze Museum"
+category: Museum
+title: Das Katze Museum
 type: poi
 ---
 

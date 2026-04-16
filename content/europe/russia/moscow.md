@@ -1,50 +1,25 @@
 ---
-title: Moscow
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 55.625578
 longitude: 37.606392
 score: 0.57
+title: Moscow
+type: location
 ---
 
-**Moscow** is one of the oldest and one of the most beautiful Russian cities.
+Moscow is the beating heart of the Russian world — a medieval fortress-city that grew into the capital of the tsars, the seat of Soviet power, and today one of the largest and most expensive metropolises on earth. For all its scale, the centre is surprisingly compact, arranged as a series of concentric ring roads radiating out from the **Kremlin** and **Red Square**. An afternoon on foot covers the essentials; a week is not enough for everything the city contains.
 
-The Russian emperors, or tsars, made the city their base of rule until 1712, when the capital was moved to Saint Petersburg. **Moscow** was restored as Russia's capital in 1918, and it served as the capital of the Union of Soviet Socialist Republics (USSR) from 1922 until 1991. Since then Moscow is the capital of the Russian Federation.
+**Red Square** is the ceremonial heart: the candy-coloured onion domes of **St Basil's Cathedral** at one end, **Lenin's Mausoleum** and the crenellated red walls of the Kremlin along one side, the State Historical Museum at the other. Inside the Kremlin walls are five of Russia's greatest cathedrals, the enormous Tsar Bell and Tsar Cannon, and the **Armoury Palace** with the Romanov crown jewels, Fabergé eggs, and centuries of royal carriages.
 
-**Moscow** has a long and full of drama history. Many times the city has been completely destroyed and rebuilt again. Its most ancient wooden buildings disappeared in fires. Each time the city resurrected from the ash to become more and more beautiful. Each time the most talented and famous architects were invited from around the world to restore **Moscow**. 
+Beyond Red Square, the **Tretyakov Gallery** holds the greatest collection of Russian painting (Rublev's icons through to 20th-century avant-garde), the **Pushkin Museum of Fine Arts** balances it with European painting, and the contemporary **Garage Museum** in Gorky Park is the city's most interesting modern space. The **Bolshoi Theatre** is more than worth the price of a ticket — Russian ballet and opera, performed in the hall where half of that repertoire was first staged.
 
-That is why **Moscow** has absorbed many different styles that strike the visitors with their variety. Stalin epoch monumental buildings neighbor with small two-store XIX century town houses; splendid cathedrals peer from modern skyscrapers. Even in the heart of **Moscow**, in the **Kremlin**, old churches compete with the immense Congress Palace for space.
+The **Moscow Metro** is itself an attraction: the stations on the circle line are underground palaces with marble, mosaics, and Soviet-era sculptures. Ride it for the stations alone — Komsomolskaya, Novoslobodskaya, and Mayakovskaya are particularly extraordinary.
 
-Despite its size (about 900 square kilometers) and the scale of many of Moscow buildings and avenues, the general layout is easily grasped - a series of concentric circles and radial lines, emanating from the **Kremlin** - and the center is compact enough to explore on foot.
+The neighbourhoods are sharply different. The **Arbat** is the oldest pedestrianised quarter, good for strolling and street performers; **Patriarshiye Prudy** is the literary district where Bulgakov set *The Master and Margarita*; **Gorky Park** has been transformed into an open-air cultural space with outdoor cinema, installations, and cycling paths along the river; **Red October**, a former chocolate factory, is now a cluster of galleries and restaurants.
 
-For more information on other attractive places that you can see in Moscow, please check the Sights section.
+Winters are long and genuinely cold — December to March, regularly −15°C or lower — but the city is beautiful in snow, and the museums, theatres, and underground spaces keep you warm. Summer (June–August) is the best time for strolling and outdoor cafés. Travellers should note that visa requirements for Russia have been complicated for Western passport-holders in recent years; check current rules before planning a trip.
 
-**See also other cities of Russia:**
+## Destinations in Russia
 
-
- 
- 
- [Irkutsk](/europe/russia/irkutsk)
- [Kazan](/europe/russia/kazan)
- [Kizhi](/europe/russia/kizhi)
- 
- [St Petersburg](/europe/russia/stpetersburg)
- [Murmansk](/europe/russia/murmansk)
- [Novgorod](/europe/russia/novgorod)
- 
- [Novosibirsk](/europe/russia/novosibirsk)
- [Orel](/europe/russia/orel)
- [Pyatigorsk](/europe/russia/pyatigorsk)
- 
- [Suzdal](/europe/russia/suzdal)
- [Tula](/europe/russia/tula)
- [Ulyanovsk](/europe/russia/ulyanovsk)
- 
- [Vladivostok](/europe/russia/vladivostok)
- [Vladimir](/europe/russia/vladimir)
- [Yakutsk](/europe/russia/yakutsk)
- 
- 
- 
- 
-
-****
+See also [St Petersburg](/europe/russia/stpetersburg), [Kazan](/europe/russia/kazan), [Irkutsk](/europe/russia/irkutsk), and [Kizhi](/europe/russia/kizhi).

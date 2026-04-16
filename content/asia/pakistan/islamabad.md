@@ -1,17 +1,19 @@
 ---
-title: Islamabad
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 33.693812
 longitude: 73.065151
 score: 0.46
+title: Islamabad
+type: location
 ---
 
-Islamabad, the capital of Pakistan, is located against the backdrop of Margalla Hills at the northern edge of Potohar Plateau. In contrast to its twin city Rawalpindi, it is lush green, spacious and peaceful. Most travelers will prefer the hustle and bustle of Pindi, but Islamabad has all the embassies and some other very useful institutions for travelers, so it is quite likely you will at least be coming over from Pindi a few times. 
+Islamabad is Pakistan's capital, planned from scratch in the 1960s and built at the foot of the Margalla Hills on the northern edge of the Potohar Plateau. In contrast to its chaotic twin city [Rawalpindi](/asia/pakistan/rawalpindi) — the old garrison town 15 km to the south — Islamabad is green, spacious, quiet, and rigidly gridded. Most travellers find themselves there briefly to handle bureaucratic errands: embassies, visas for onward travel to China or Iran, or permits for the Northern Areas. Few stay longer than they have to, but the city has more to offer than the utilitarian reputation suggests.
 
+The **Faisal Mosque**, a gift from Saudi Arabia completed in 1986, is one of the largest mosques in the world and Islamabad's most distinctive landmark — a sweeping modernist white tent with four 90-metre minarets at the corners, built at the foot of the Margalla Hills. The **Lok Virsa** ethnographic museum and the **Pakistan Monument Museum** on the Shakarparian hills are both worth an afternoon. The **Islamabad Museum** and the **Natural History Museum** near Garden Avenue hold the main state collections.
 
+The real draw for visitors who stay longer is the **Margalla Hills National Park** — an area of forested ridges immediately north of the city with dozens of marked hiking trails. Trail 3 and Trail 5 are the two most popular, with viewpoints down over the city and occasional wildlife including the odd leopard at dusk. The **Daman-e-Koh** viewpoint and **Pir Sohawa** restaurants higher up the hills are reachable by taxi and give a sense of the city's landscape setting.
 
-Furthermore, Islamabad has couple of good museums which are worthwhile to visit while you are waiting for your Chinese visa. Head for Garden Avenue to see the Islamabad Museum and the Natural History Museum 
+Islamabad makes a convenient base for day trips to **Taxila** (a UNESCO site with the ruins of the ancient Gandhara civilisation), the **Khewra Salt Mine** (the second-largest in the world), and **Murree** (a colonial-era hill station). From the nearby airport at Islamabad, flights go on to Gilgit, Skardu, and the wider Karakoram — Pakistan's mountain country and one of the most spectacular trekking destinations in the world.
 
-The master plan of this most modern city was prepared in 1960 by M/S Constantions doxiades, a Greek firm of Architects. Construction was started in October 1961. The city came into life on 26 October 1966, when the first office building of Islamabad was occupied. It is modern and carefully planned city. 
-
-There are ample opportunities for walking, jogging, hiking and trekking around Islamabad in the Margalla Hills.
+Summers (May–August) are hot, though cooler than the plains; winter nights drop close to freezing; the best months are October–November and March–April.

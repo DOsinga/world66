@@ -1,19 +1,21 @@
 ---
-title: Nairobi
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: -1.302615
 longitude: 36.828842
 score: 0.53
+title: Nairobi
+type: location
 ---
 
-Nairobi [Kenya](/africa/kenya) ’s mile-high capital is only 90 mi/145 km south of the equator. Founded by the British little more than a 100 years ago, the city now has a population of more than 2 000 000. It’s a modern commercial center with some interesting high-rises and lots of bustle. Visitors can find things not so common in other parts of Africa, such as nice theatres showing the latest films, expensive restaurants serving every type of food, as well as E-mail facilities, faxes and any other sort of modern technology you may want to use. The city is constantly alive, especially at night. Unfortunately, Nairobi has acquired a reputation of being a dangerous city and petty crime is rampant. 
+Nairobi is Kenya's capital and the unofficial capital of East Africa — a mile-high city 145 km south of the equator that has grown from an empty patch of swamp at the end of the Uganda Railway in 1899 to a metropolis of nearly five million people. Most travellers pass through on their way to a safari; those who stay a day or two find a livelier, more multicultural city than the reputation suggests, with excellent restaurants, a serious arts and music scene, and something genuinely unusual — a city where lions and rhinos live inside the municipal boundaries.
 
+The **Nairobi National Park**, an hour's drive from downtown, is the only major wildlife reserve inside a capital city anywhere in the world. Lions, giraffes, rhinos, and several hundred bird species live on the plains with the city skyline as backdrop. A half-day safari before your flight out is very feasible. The park shares its grounds with the **David Sheldrick Wildlife Trust**, which rescues and rehabilitates orphaned elephants and rhinos. The feeding sessions are open to the public for one hour each morning and are worth timing a trip around.
 
+Nearby in the Karen suburb, the **Giraffe Centre** lets you feed the endangered Rothschild's giraffe from a platform at eye level; the **Karen Blixen Museum** is the farmhouse where the Danish author (and narrator of *Out of Africa*) lived from 1917 to 1931. Langata's **Bomas of Kenya** cultural centre stages traditional dances from Kenya's 42 ethnic communities — a useful crash course in the country's diversity.
 
-Besides being a convenient place to take care of administrative matters and contact people back home, Nairobi has much to offer to travellers. If you want to hang out, there is a wide array of restaurants, clubs, pubs and discos to choose from. While in Nairobi, be sure to visit the City Market, the National Museum, the Arboretum (excellent collection of East African flora) and the superb Kenya Railway Museum. Exhibits about the period leading to independence can be seen at the Kenya National Archives. There are casinos at the Safari Park Hotel and the Inter-Continental Hotel and there’s also Sunday-afternoon horse racing. 
+In town, the **Nairobi National Museum** is genuinely worth a morning — the Hominid collection (the fossils of Homo habilis, Homo erectus, and the Turkana Boy discovered in Kenya by the Leakeys) is one of the great scientific collections in Africa. The **Kenya Railway Museum** is an atmospheric small museum with original rolling stock from the Uganda Railway.
 
-For those who can’t wait to see animals (or who are only visiting Nairobi), the nearby Nairobi National Park has lions, giraffes, impalas and more wild animals in addition to an animal orphanage. Or you can take a rather pricey taxi ride to the Giraffe Center in the suburb of Langatta where the Rothschild giraffe was saved from extinction. At the facility, you can feed the giraffes and the gift shop has some of the best prices we found in Nairobi. However, the Giraffe Manor (the manor house turned into a hotel) elsewhere on the grounds has some of the steepest daily rates in the city—but then it’s the only place where giraffes may join you for meals. 
+**Safety**: Nairobi's reputation for crime — the old nickname "Nairobbery" — is not undeserved. Avoid walking alone after dark, especially in the downtown and the River Road area, and use trusted taxis or ride-hailing apps rather than roadside taxis. Daytime in well-trafficked areas (Westlands, Kilimani, Karen, and around the major hotels) is generally safe.
 
-This excursion to Langatta is often combined with a visit to the former home of Karen Blixen (who wrote under the pseudonym Isak Dinesen), author of Out of Africa. Blixen’s farmhouse, which was presented to the Kenyan government by Denmark, is now a museum —it’s located nextdoor to the Karen College. Langatta also has The Bomas of Kenya which is a terrific cultural center that regularly hosts traditional song and dance performances. 
-
-A day trip (a two-hour drive each way) can be made to Lake Magadi to visit Olorgesailie in [The Rift Valley](/africa/kenya/theriftvalley) for its prehistoric campsite. The scenic region inhabited by Masai farmers has a wide variety of birds.
+The climate is among the most pleasant of any capital — highland elevation means daytime temperatures are consistently 20-25°C, with a long dry season from January to February and again from July to October. The rainy seasons (March-May and November-December) still produce sunny mornings.

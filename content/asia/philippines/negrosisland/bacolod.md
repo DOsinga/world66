@@ -1,15 +1,15 @@
 ---
-title: Bacolod
-type: location
+done:
+  location_cleanup: '2026-04-16'
+image: bacolod.jpg
+image_attribution: Kramthenik27
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bacolod_City_Cathedral.jpg
 latitude: 10.676284
 longitude: 122.951379
-image: bacolod.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bacolod_City_Cathedral.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Kramthenik27
-done:
-  location_cleanup: 2026-04-12
 score: 0.47
+title: Bacolod
+type: location
 ---
 
 Bacolod is the capital of Negros Occidental province and one of the Philippines' most likeable cities, with a population of around 600,000. Known as the "City of Smiles," the nickname earns its keep every October during MassKara Festival, when the city fills with painted masks, street dancing, and an atmosphere of genuine celebration that rivals Cebu's Sinulog for energy. The festival grew out of the sugar industry's economic crisis in the 1980s as a deliberate act of collective resilience, which gives it a more interesting backstory than most.

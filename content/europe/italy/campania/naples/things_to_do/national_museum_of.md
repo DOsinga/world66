@@ -1,11 +1,18 @@
 ---
-title: "National Archaeological Museum"
+address: Piazza Museo 19, 80135 Naples
+admission: €15
+category: Museum
+latitude: 40.852
+longitude: 14.2503
+opening_hours: Wed–Mon 09:00–19:30; closed Tue
+tags:
+- 48 Hours in Naples
+- 3 Days in Naples
+title: Museo Archeologico Nazionale (MANN)
 type: poi
-address: "Piazza Museo Nazionale 19, Naples"
-phone: "+39 081 44 0166"
-opening_hours: "9:00-20:00, closed Tuesdays"
-latitude: 40.853056
-longitude: 14.250556
+url: www.museoarcheologiconapoli.it
 ---
 
-The finest archaeological museum in Italy, and one of the best in the world. The collection centres on finds from Pompeii and Herculaneum — mosaics, frescoes, bronzes, and household objects that make Roman daily life vivid. The Farnese collection of Greek and Roman sculpture is also here, as is the Secret Cabinet of erotic art (separate entry required). Allow at least three hours. Entry costs around €15; closed Tuesdays.
+One of the greatest archaeology museums in the world, holding two collections of extraordinary depth: the Farnese collection of ancient Roman sculpture (the Farnese Bull and Farnese Hercules are the set-pieces) and the Pompeii collection — the finest mosaics, bronzes, and frescoes rescued from the buried city, including the Alexander Mosaic (80 BC) and the contents of the Secret Cabinet (erotic art from Pompeii, now accessible).
+
+Allow a full morning. The Pompeii rooms alone justify the trip; the Secret Cabinet requires a separate (free) timed entry. This is the essential context for any visit to Pompeii or Herculaneum.

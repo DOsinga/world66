@@ -1,12 +1,12 @@
 ---
-title: "Wild Wadi Water Park"
-type: poi
-accessibility: "11.00 am to 6:00 pm or later"
-address: "Jumeriah Beach Road"
-type: "Swimming"
-url: "www.sigmahotels-dubai.com"
+accessibility: 11.00 am to 6:00 pm or later
+address: Jumeriah Beach Road
+category: Sight
 latitude: 25.225155
 longitude: 55.257922
+title: Wild Wadi Water Park
+type: Swimming
+url: www.sigmahotels-dubai.com
 ---
 
 Wild Wadi Waterpark is a water

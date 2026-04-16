@@ -1,8 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image_attribution: Unknown authorUnknown author
 latitude: 7.3418
 longitude: 134.4693
+score: 0.8
 title: Rock Islands
 type: location
 ---

@@ -1,14 +1,13 @@
 ---
-title: "Northampton"
-type: location
-latitude: 52.2343
-longitude: -0.9028
 done:
-  location_cleanup: 2026-04-07
+  location_cleanup: '2026-04-09'
+latitude: 52.23433
+longitude: -0.902804
+title: Northampton
+type: location
+score: 0.41
 ---
 
-Northampton is the largest town in England without city status — a fact locals mention with varying degrees of pride and frustration. It's the administrative hub of Northamptonshire, positioned almost exactly between Birmingham and London (about 50 miles from each), and has good motorway and rail connections in both directions.
+Northampton is a large market town in the East Midlands that has been making shoes since the Middle Ages — at its peak it supplied boots to the British Army, and a handful of quality shoemakers still operate here today. The town's history is older than that: it was a major medieval centre with a royal castle where parliaments were held, though almost nothing survives of either.
 
-The town centre has a large market square with a history stretching back over 800 years and a pleasantly human scale. The Guildhall and the church of All Saints are fine 18th-century buildings worth a look. The Central Museum and Art Gallery is free and has an excellent collection of historic footwear — Northampton was the centre of the English shoe-making industry from the 18th century until the trade moved to Asia in the late 20th century, and the converted factories and warehouses are now a distinctive part of the townscape.
-
-The University of Northampton gives the town a decent arts and nightlife scene. The Derngate and Royal theatres host touring productions. Just a few miles out of town the Northamptonshire countryside — rolling hills, canals, and quiet villages — is genuinely lovely. Althorp, the ancestral home of the Spencer family and the resting place of Diana, Princess of Wales, is about 6 miles northwest of the town centre.
+What does survive is a scattering of fine churches, including the Church of the Holy Sepulchre, one of only four round churches left in England, built by a Crusader knight in about 1100. The market square is one of the largest in the country. Northampton is not a place many tourists seek out, but it makes a practical base for visiting Althorp House (the Spencer family home) and the surrounding Northamptonshire countryside.

@@ -5,6 +5,7 @@ latitude: 40.899874
 longitude: 20.657388
 title: Pogradec
 type: location
+score: 0.44
 ---
 
 Pogradec sits on the western shore of Lake Ohrid, one of the oldest and deepest lakes in Europe, shared between [Albania](/europe/albania) and [North Macedonia](/europe/macedonia). The town is backed by the lofty mountains of Kamja and Guri i Topit, giving it an almost alpine setting.

@@ -1,0 +1,200 @@
+{
+  "round": 1586,
+  "timestamp": "2026-04-13T10:33:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Jolla",
+      "path": "northamerica/unitedstates/california/sandiego/lajolla",
+      "prior_score": 3.8441,
+      "prior_variance": 0.4712,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 4.0173,
+      "prior_variance": 0.478135,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Extremadura",
+      "path": "europe/spain/extremadura",
+      "prior_score": 2.5061,
+      "prior_variance": 0.37275,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_score": -0.0444,
+      "prior_variance": 0.350508,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": -0.1198,
+      "prior_variance": 0.31226,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/churchstretton",
+      "prior_score": -0.6057,
+      "prior_variance": 0.37396,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester",
+      "prior_score": -1.443,
+      "prior_variance": 0.392124,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_score": -2.7359,
+      "prior_variance": 0.225769,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Karelia",
+      "path": "europe/russia/karelia",
+      "prior_score": -2.5501,
+      "prior_variance": 0.404437,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ghana",
+      "path": "africa/ghana",
+      "prior_score": -5.3567,
+      "prior_variance": 0.7716,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_score": -2.5071,
+      "prior_variance": 0.415835,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Luigi , al di la del",
+      "path": "europe/italy/liguria/rivieradellepalme/albenga/luigi__al_di_la_d",
+      "prior_score": -3.3732,
+      "prior_variance": 0.554957,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -6.9902,
+      "prior_variance": 0.577207,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -6.0803,
+      "prior_variance": 0.685115,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_score": -5.0616,
+      "prior_variance": 0.403551,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_score": -6.6224,
+      "prior_variance": 0.345847,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_score": -8.0321,
+      "prior_variance": 0.470868,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -6.3538,
+      "prior_variance": 0.48333,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "El oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -7.2516,
+      "prior_variance": 0.549192,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/haiti/gonaveisland",
+      "prior_score": -5.9144,
+      "prior_variance": 0.414573,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "San Juan del Ro",
+      "path": "northamerica/mexico/yucatan/sanjuandelro",
+      "prior_score": -6.2568,
+      "prior_variance": 0.304425,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "beit-jala",
+      "path": "asia/palestinianauthority/beitjala",
+      "prior_score": -6.5713,
+      "prior_variance": 0.49646,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_score": -7.2488,
+      "prior_variance": 0.382304,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Blue Lamp",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluelamp",
+      "prior_score": -8.562,
+      "prior_variance": 0.557662,
+      "prior_n": 4
+    }
+  ]
+}

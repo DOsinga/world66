@@ -1,0 +1,200 @@
+{
+  "round": 271,
+  "timestamp": "2026-04-12T09:09:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jaisalmer",
+      "path": "asia/india/rajasthan/jaisalmer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Millesimo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/millesimo",
+      "prior_mu": 22.7109,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_mu": 22.721,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Neumuenster",
+      "path": "europe/germany/schleswigholstein/neumuenster",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Caruthersville",
+      "path": "northamerica/unitedstates/missouri/caruthersville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Hong",
+      "path": "africa/nigeria/yola/hong",
+      "prior_mu": 18.344,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    }
+  ]
+}

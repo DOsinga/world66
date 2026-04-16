@@ -5,6 +5,7 @@ latitude: -33.3268
 longitude: 115.6367
 done:
   location_cleanup: 2026-04-07
+score: 0.42
 ---
 
 Bunbury is Western Australia's second city and the gateway to the South West — the wine country, surf coast and wilderness that stretches from here to Cape Leeuwin. Most travellers pass through on their way to [Margaret River](/australiaandpacific/australia/westernaustralia/margaretriver) or [Busselton](/australiaandpacific/australia/westernaustralia/bussleton), but the city rewards a stop of its own.

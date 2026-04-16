@@ -5,6 +5,7 @@ latitude: 45.042295
 longitude: 23.272812
 title: Târgu Jiu
 type: location
+score: 0.41
 ---
 
 Târgu Jiu is a small city in the Jiu Valley of southwestern Romania, and it would be entirely unremarkable if not for one thing: Constantin Brâncuși was born nearby, and in 1937 he created an extraordinary ensemble of monumental sculptures here that ranks among the most important public art in Europe.

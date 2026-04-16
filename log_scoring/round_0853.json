@@ -1,0 +1,200 @@
+{
+  "round": 853,
+  "timestamp": "2026-04-12T14:44:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 11.513,
+      "prior_variance": 3.090843,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Gloucestershire",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire",
+      "prior_score": 1.4605,
+      "prior_variance": 1.374642,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea",
+      "prior_score": 2.4045,
+      "prior_variance": 1.304925,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 5.4708,
+      "prior_variance": 1.358606,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 2.8265,
+      "prior_variance": 1.388078,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 6.3729,
+      "prior_variance": 1.061333,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": -0.6607,
+      "prior_variance": 0.946791,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 4.9961,
+      "prior_variance": 1.40329,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Trobriand Islands",
+      "path": "asia/papuanewguinea/trobriand_islands",
+      "prior_score": -0.0855,
+      "prior_variance": 1.246016,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Arroscia valley",
+      "path": "europe/italy/liguria/arrosciavalley",
+      "prior_score": -0.8572,
+      "prior_variance": 1.856938,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 1.9101,
+      "prior_variance": 1.345292,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": -1.1956,
+      "prior_variance": 1.49955,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": 1.1944,
+      "prior_variance": 1.397778,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Shanhaiguan",
+      "path": "asia/china/shanhaiguan",
+      "prior_score": 1.1647,
+      "prior_variance": 1.474367,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -4.5,
+      "prior_variance": 5.624316,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 3.3761,
+      "prior_variance": 1.689362,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": -2.0496,
+      "prior_variance": 1.203917,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/jacksonville",
+      "prior_score": -4.9177,
+      "prior_variance": 1.503136,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -4.2074,
+      "prior_variance": 1.258902,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/newyorkstate/middletown",
+      "prior_score": -6.9717,
+      "prior_variance": 0.781656,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -7.6111,
+      "prior_variance": 1.523781,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_score": -3.6305,
+      "prior_variance": 1.212241,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -4.6176,
+      "prior_variance": 1.141305,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Faisalabad",
+      "path": "asia/pakistan/faisalabad",
+      "prior_score": -4.7161,
+      "prior_variance": 1.210055,
+      "prior_n": 1
+    }
+  ]
+}

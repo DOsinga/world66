@@ -1,0 +1,200 @@
+{
+  "round": 1308,
+  "timestamp": "2026-04-12T22:20:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Forster",
+      "path": "australiaandpacific/australia/newsouthwales/forster",
+      "prior_rank": 5016,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_rank": 4972,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_rank": 6317,
+      "prior_wins": 42,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Beauvoorde",
+      "path": "europe/belgium/veurne/beauvoorde",
+      "prior_rank": 5682,
+      "prior_wins": 50,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_rank": 5418,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_rank": 6524,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_rank": 6153,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Peja",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/peja",
+      "prior_rank": 4757,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_rank": 6581,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_rank": 5689,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_rank": 6513,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Manzanares",
+      "path": "europe/spain/la_mancha/manzanares",
+      "prior_rank": 5947,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "SASTAGO",
+      "path": "europe/spain/aragon/sastago",
+      "prior_rank": 6054,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "El Ejido",
+      "path": "europe/spain/andalucia/elejido",
+      "prior_rank": 7327,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_rank": 7214,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_rank": 5195,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Narayangarh",
+      "path": "asia/nepal/narayangarh",
+      "prior_rank": 6798,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_rank": 6830,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Elko",
+      "path": "northamerica/unitedstates/nevada/elko",
+      "prior_rank": 7034,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Transkei",
+      "path": "africa/southafrica/transkei",
+      "prior_rank": 6756,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_rank": 6186,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Moldova",
+      "path": "europe/moldova",
+      "prior_rank": 6535,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_rank": 7626,
+      "prior_wins": 16,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_rank": 3056,
+      "prior_wins": 41,
+      "prior_n": 4
+    }
+  ]
+}

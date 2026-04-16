@@ -5,6 +5,7 @@ latitude: -24.665743
 longitude: -56.44168
 title: Santaní
 type: location
+score: 0.29
 ---
 
 Travel Guide

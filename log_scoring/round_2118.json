@@ -1,0 +1,200 @@
+{
+  "round": 2118,
+  "timestamp": "2026-04-13T16:12:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_score": 7.5368,
+      "prior_variance": 0.387646,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 7.3055,
+      "prior_variance": 0.51297,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_score": 2.4713,
+      "prior_variance": 0.198322,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/impruneta",
+      "prior_score": 1.2524,
+      "prior_variance": 0.26474,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 3.5275,
+      "prior_variance": 0.224259,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_score": 2.7098,
+      "prior_variance": 0.242534,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_score": 2.4965,
+      "prior_variance": 0.2818,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Novi Sad",
+      "path": "europe/serbiaandmontenegro/novisad",
+      "prior_score": 2.3772,
+      "prior_variance": 0.246109,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_score": 0.9553,
+      "prior_variance": 0.218041,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "El Bierzo",
+      "path": "europe/spain/northernspain/bierzo",
+      "prior_score": 1.1655,
+      "prior_variance": 0.275292,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/leeds",
+      "prior_score": 0.842,
+      "prior_variance": 0.220519,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Mirande",
+      "path": "europe/france/midi/pyrenees/mirande",
+      "prior_score": -1.3026,
+      "prior_variance": 0.27419,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "M'zab",
+      "path": "africa/algeria/mzab",
+      "prior_score": -0.9495,
+      "prior_variance": 0.270428,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -1.7365,
+      "prior_variance": 0.261568,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -0.0673,
+      "prior_variance": 0.256993,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequen",
+      "prior_score": -3.4935,
+      "prior_variance": 0.289779,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -3.7662,
+      "prior_variance": 0.264631,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_score": -3.6237,
+      "prior_variance": 0.391884,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hillcrest",
+      "path": "northamerica/unitedstates/california/sandiego/hillcrest",
+      "prior_score": 0.1667,
+      "prior_variance": 0.291789,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -5.5962,
+      "prior_variance": 0.277085,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_score": -2.3101,
+      "prior_variance": 0.345189,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tatabanya",
+      "path": "europe/hungary/tatabanya",
+      "prior_score": -3.7347,
+      "prior_variance": 0.28603,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Straume",
+      "path": "europe/norway/straume",
+      "prior_score": -1.6941,
+      "prior_variance": 0.222108,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "woodmere",
+      "path": "northamerica/unitedstates/newyorkstate/woodmere",
+      "prior_score": -5.3242,
+      "prior_variance": 0.327875,
+      "prior_n": 5
+    }
+  ]
+}

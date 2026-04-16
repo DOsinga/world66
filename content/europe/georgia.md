@@ -9,6 +9,7 @@ image_license: CC BY 2.0
 image_attribution: Lodian
 done:
   country_cleanup: 2026-03-30
+score: 0.48
 ---
 
 Georgia sits at the crossroads of Europe and Asia, tucked between the Greater Caucasus mountains in the north and bordered by the Black Sea to the west, Turkey to the south, Armenia and Azerbaijan to the south and east, and Russia to the north. It is a small country — about the size of Ireland — but remarkably varied: subtropical coastline, glaciated high peaks, arid semi-desert, and deep river gorges all within a few hours' drive of each other.

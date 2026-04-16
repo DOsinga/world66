@@ -5,6 +5,7 @@ latitude: 46.3981
 longitude: -112.7335
 title: Deer Lodge
 type: location
+score: 0.36
 ---
 
 **Deer Lodge** sits in a wide valley between the Flint Creek and Highland mountain ranges, a small Montana town with a disproportionately interesting past. It is the county seat of Powell County and home to around 3,000 people.

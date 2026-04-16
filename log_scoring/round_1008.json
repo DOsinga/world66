@@ -1,0 +1,200 @@
+{
+  "round": 1008,
+  "timestamp": "2026-04-12T22:04:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amalfi",
+      "path": "europe/italy/campania/amalfi",
+      "prior_rank": 99,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
+      "prior_rank": 2,
+      "prior_wins": 160,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Madeira",
+      "path": "europe/portugal/madeira",
+      "prior_rank": 396,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_rank": 272,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Puglia",
+      "path": "europe/italy/puglia",
+      "prior_rank": 137,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne_2",
+      "prior_rank": 53,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_rank": 184,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Split",
+      "path": "europe/croatia/split",
+      "prior_rank": 227,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Zadar",
+      "path": "europe/croatia/zadar",
+      "prior_rank": 134,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Costa Smeralda",
+      "path": "europe/italy/sardinia/costasmeralda",
+      "prior_rank": 100,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_rank": 89,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_rank": 1363,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_rank": 701,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Colorado",
+      "path": "northamerica/unitedstates/colorado",
+      "prior_rank": 1622,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Riviera Maya",
+      "path": "northamerica/mexico/yucatan/rivieramaya",
+      "prior_rank": 672,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_rank": 448,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/yucatan/islamujeres",
+      "prior_rank": 114,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bahamas",
+      "path": "northamerica/bahamas",
+      "prior_rank": 706,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_rank": 131,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Guilin",
+      "path": "asia/china/guilin",
+      "prior_rank": 182,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kashmir",
+      "path": "asia/india/jammuandkashmir/kashmir",
+      "prior_rank": 707,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Goa",
+      "path": "asia/india/goa",
+      "prior_rank": 32,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Meghalaya",
+      "path": "asia/india/meghalaya",
+      "prior_rank": 1094,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/york",
+      "prior_rank": 293,
+      "prior_wins": 64,
+      "prior_n": 3
+    }
+  ]
+}

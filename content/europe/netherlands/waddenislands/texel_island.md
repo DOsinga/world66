@@ -1,42 +1,18 @@
 ---
-title: "Texel island"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 53.089372
 longitude: 4.821347
+score: 0.58
+title: Texel island
+type: location
 ---
 
-Texel is the largest and south westernmost of the Dutch Wadden islands.
-It's at 80 train/car>ferry kilometres north from Amsterdam and
-separated from the mainland by the 4 km/2.5 mi wide Marsdiep canal. A
-ferry, sailing every hour, brings you from [Den Helder](/europe/netherlands/denhelder) harbour on the
-mainland to Den Burg harbour in Texel. **From Amsterdam it will take you
-less than 2,5 hours** to get there.
+Texel is the largest and southernmost of the Dutch Wadden Islands — a 25-kilometre stretch of dunes, beach, heath, and farmland an hour and a half north of Amsterdam. A ferry runs every half hour from [Den Helder](/europe/netherlands/denhelder) across the 4 km Marsdiep channel; the crossing itself takes twenty minutes.
 
-It's a good idea to go on a daytrip but Texel has so much to offer that
-you won't regret making an excursion for several days. Though
-relatively close to the mainland, Texel island has preserved much of
-its original character just because of its age-long splendid isolation.
+The island is small enough to cycle around in a day on the 120 kilometres of well-signposted bike paths, and cycling is very much the point of visiting. The western coast is one long 30 km stretch of unbroken beach; the northern end runs into the protected tidal flats of De Slufter and De Muy, two of the best birdwatching spots in the country. The inland villages — Den Burg, Den Hoorn, Oudeschild — are low-slung brick Dutch hamlets with a surprising number of good restaurants, driven partly by the island's lamb (Texels lamsvlees is a national specialty) and partly by its own microbrewery and small local gin distillery.
 
-Go e.g. to the unique tidal areas of De Muy and De Slufter NE from De
-Koog, to experience the fascinating interplay between land, sea and
-wind. Or visit Eierland (Egg Land) in the northern part of the island,
-a breeding ground for thousands and thousands of (migration) birds.
-[Den Burg](/europe/netherlands/waddenislands/texel_island/den_burg) is the largest town in the island. It's a well equipped
-shopping centre. Sun-worshippers can go to [De Koog](/europe/netherlands/waddenislands/texel_island/de_koog), Texel's best known
-seaside resort or visit Calluna sub-tropical leisure pool.
-
-Don't miss EcoMare, a very instructive visitor's centre, offering all
-information about local nature and environment; it includes a bird
-shelter, a wild-life museum and a unique rehabilitation centre for
-seals (see *Webcams *section).
-
-Sports lovers can let themselves go in Texel: swimming, canoeing,
-windsurfing, catamaran sailing, 120 kilometres of cycling path, even
-parachute jumping... to much to mention!*
-
-***
-
-Minor corrections on 24 March 05
+EcoMare, just outside De Koog, is a seal rehabilitation centre and information centre combined — small but genuinely good, and the main indoor sight on the island. Birdwatching, walking, and lying on the beach are otherwise the principal activities.
 
 ## Destinations in Texel island
 

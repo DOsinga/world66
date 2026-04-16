@@ -5,6 +5,7 @@ lat: 43.35
 long: 17.8
 title: Neretva River
 type: location
+score: 0.54
 ---
 
 The Neretva is the largest river of the eastern Adriatic basin and the defining waterway of Bosnia and Herzegovina. It runs 230 km in total — 208 km through Bosnia and Herzegovina, the rest through Croatia — before emptying into the Adriatic Sea. The watershed covers 10,380 km².

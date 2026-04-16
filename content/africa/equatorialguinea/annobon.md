@@ -5,6 +5,7 @@ latitude: -1.4344
 longitude: 5.6374
 title: Annobon
 type: location
+score: 0.29
 ---
 
 Annobon is one of the most isolated inhabited islands in Africa — a volcanic speck in the Gulf of Guinea, about 500 km southwest of the Equatorial Guinean mainland. Known locally as Pagalu, the island is just 8 km long and 3 km wide, yet it packs in real drama: three distinct peaks rise from dense forest, including Pico Surcado in the south, an extinct volcano with a crater lake. Getting here takes serious effort, which means almost no tourists ever do.

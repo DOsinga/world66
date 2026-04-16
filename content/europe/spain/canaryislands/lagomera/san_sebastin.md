@@ -5,6 +5,7 @@ latitude: 28.0916
 longitude: -17.1133
 title: San Sebastián de La Gomera
 type: location
+score: 0.58
 ---
 
 San Sebastián de La Gomera is the island's small but historically loaded capital, sitting on the east coast where the ferry from Tenerife docks. It is a quiet town — more administrative centre than tourist resort — but its connection to Columbus gives it an outsized place in history: it was the last port of call before the fleet headed into the unknown Atlantic in September 1492.

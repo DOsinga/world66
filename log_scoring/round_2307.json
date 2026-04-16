@@ -1,0 +1,200 @@
+{
+  "round": 2307,
+  "timestamp": "2026-04-13T16:29:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/losangeles/santamonica",
+      "prior_score": 4.9422,
+      "prior_variance": 0.298162,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 6.2281,
+      "prior_variance": 0.315419,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_score": 4.7974,
+      "prior_variance": 0.231602,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 4.541,
+      "prior_variance": 0.239578,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 3.3131,
+      "prior_variance": 0.237243,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_score": 1.6947,
+      "prior_variance": 0.224559,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 2.5078,
+      "prior_variance": 0.348916,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -0.4833,
+      "prior_variance": 0.232398,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Harbin",
+      "path": "asia/china/harbin",
+      "prior_score": 2.7629,
+      "prior_variance": 0.261039,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Vitoria",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 1.9672,
+      "prior_variance": 0.224403,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/coniston_1",
+      "prior_score": 2.6029,
+      "prior_variance": 0.217784,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_score": 3.7674,
+      "prior_variance": 0.254309,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.6397,
+      "prior_variance": 0.221652,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.322,
+      "prior_variance": 0.205808,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Prince Edward County",
+      "path": "northamerica/canada/ontario/prince_edward_coun",
+      "prior_score": 0.2846,
+      "prior_variance": 0.258252,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.3647,
+      "prior_variance": 0.211823,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_score": 1.5371,
+      "prior_variance": 0.226125,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Nicaragua",
+      "path": "northamerica/nicaragua",
+      "prior_score": -1.0797,
+      "prior_variance": 0.3089,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -1.3914,
+      "prior_variance": 0.324287,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kalimantan",
+      "path": "asia/indonesia/kalimantan",
+      "prior_score": -1.4295,
+      "prior_variance": 0.230654,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Aba",
+      "path": "asia/china/aba",
+      "prior_score": -1.4838,
+      "prior_variance": 0.208126,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Tigzirt",
+      "path": "africa/algeria/tigzirt",
+      "prior_score": -2.1826,
+      "prior_variance": 0.230515,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_score": -2.3607,
+      "prior_variance": 0.209576,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -2.0237,
+      "prior_variance": 0.347422,
+      "prior_n": 6
+    }
+  ]
+}

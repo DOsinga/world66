@@ -5,6 +5,11 @@ latitude: -4.325071
 longitude: 55.735608
 title: Praslin
 type: location
+score: 0.82
+image: praslin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:P1010087_Praslin.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Lucie2beaugency
 ---
 
 Praslin is the second largest island in the Seychelles, lying 37 kilometres northeast of Mahé — two hours by boat or fifteen minutes by air. When the French explorer Lazare Picault first arrived in 1744, he named it the Island of Palms. The vegetation was so extraordinary that General Gordon of Khartoum, visiting a century later, became convinced this was the site of the original Garden of Eden.

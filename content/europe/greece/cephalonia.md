@@ -5,6 +5,7 @@ latitude: 38.266032
 longitude: 20.53739
 title: Cephalonia
 type: location
+score: 0.7
 ---
 
 Cephalonia (or Kefalonia) is the largest of the Ionian Islands and one of the least overrun by mass tourism. A serious earthquake in 1953 destroyed most of its villages, but the island rebuilt itself — and what survived, like the port of Fiskardo in the north, shows how beautiful it once was. The landscape is dramatic: limestone mountains, cypress groves, olive trees, and a coastline that flips between rugged cliffs and long sandy beaches.

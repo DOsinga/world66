@@ -5,6 +5,7 @@ latitude: 42.570695
 longitude: 1.999136
 title: Lac des Bouillouses
 type: location
+score: 0.59
 ---
 
 Lac des Bouillouses (Bollosa in Catalan) sits at 2,017 metres in the eastern Pyrenees, a classified natural site since 1976. The dam-created lake is surrounded by alpine meadows dotted with smaller lakes and framed by granite peaks — a landscape that draws hikers, trail runners, and picnicking families throughout the summer months.

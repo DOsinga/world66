@@ -5,6 +5,7 @@ latitude: 21.3347
 longitude: 83.6198
 done:
   location_cleanup: 2026-04-05
+score: 0.29
 ---
 
 Bargarh is a small district town in western Odisha (Orissa), on the national highway between Mumbai and Kolkata, and almost no one visits it. Two things give the town a claim on travellers' attention. The first is the Sambalpuri handloom — the ikat-dyed cotton and silk fabrics woven in the villages around Bargarh have been produced here for centuries and are among the finest in India. The second is Dhanu Yatra, an eleven-day open-air theatre festival held every November or December that Guinness has recognised as the largest open-air theatrical performance in the world: the entire town becomes the set of a dramatisation of the life of Krishna and the defeat of the demon king Kansa, and the whole community takes part.

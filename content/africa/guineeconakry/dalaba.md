@@ -5,6 +5,7 @@ latitude: 10.962459
 longitude: -9.192616
 title: Dalaba
 type: location
+score: 0.34
 ---
 
 Dalaba is one of the best bases for hiking in the Fouta Djallon and one of the most pleasant towns in Guinea. Set in the highlands at around 1,200 meters, it is noticeably cooler than the coast -- a relief after the sweltering heat of [Conakry](/africa/guineeconakry/conakry).

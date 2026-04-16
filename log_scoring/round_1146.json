@@ -1,0 +1,200 @@
+{
+  "round": 1146,
+  "timestamp": "2026-04-12T22:11:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Brooklyn",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/brooklyn",
+      "prior_rank": 1444,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_rank": 931,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Nova Scotia",
+      "path": "northamerica/canada/novascotia",
+      "prior_rank": 2028,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_rank": 674,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_rank": 1459,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_rank": 718,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_rank": 751,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_rank": 3327,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_rank": 1214,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_rank": 823,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_rank": 1652,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_rank": 2229,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_rank": 2471,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_rank": 1067,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_rank": 2054,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_rank": 1341,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_rank": 1795,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_rank": 1761,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cederberg Wilderness Area",
+      "path": "africa/southafrica/cederberg_wilderne",
+      "prior_rank": 2761,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_rank": 1140,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_rank": 2923,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_rank": 2722,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_rank": 2894,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_rank": 1417,
+      "prior_wins": 35,
+      "prior_n": 2
+    }
+  ]
+}

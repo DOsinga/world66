@@ -1,0 +1,200 @@
+{
+  "round": 1156,
+  "timestamp": "2026-04-12T22:12:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_rank": 1926,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_rank": 883,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_rank": 2802,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_rank": 1787,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_rank": 2384,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_rank": 1402,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Trujillo",
+      "path": "southamerica/peru/huanchaco/trujillo",
+      "prior_rank": 2649,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_rank": 2167,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_rank": 2658,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_rank": 2055,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/northernspain/ribeira_sacra",
+      "prior_rank": 4992,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_rank": 2900,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Hillerod",
+      "path": "europe/denmark/hillerod",
+      "prior_rank": 1374,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Nainital",
+      "path": "asia/india/uttarpradesh/nainital",
+      "prior_rank": 2682,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_rank": 1993,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_rank": 5183,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_rank": 2987,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_rank": 1857,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bulgaria",
+      "path": "europe/bulgaria",
+      "prior_rank": 3314,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_rank": 4982,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_rank": 4562,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/waikato/coromandel",
+      "prior_rank": 3766,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/hokitika",
+      "prior_rank": 4031,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_rank": 2216,
+      "prior_wins": 31,
+      "prior_n": 2
+    }
+  ]
+}

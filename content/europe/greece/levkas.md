@@ -5,6 +5,7 @@ latitude: 38.8337
 longitude: 20.7069
 title: Lefkada
 type: location
+score: 0.7
 ---
 
 Lefkada (also known as Levkas) is an Ionian island connected to the Greek mainland by a floating bridge — making it one of the few Greek islands you can drive to. The west coast has some of the most spectacular beaches in all of Greece: Porto Katsiki, with its towering white cliffs; Egremni, reached by hundreds of steep steps; and Kathisma, the most accessible and popular.

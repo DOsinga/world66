@@ -5,6 +5,7 @@ latitude: 39.952839
 longitude: -74.196741
 title: Toms River
 type: location
+score: 0.35
 ---
 
 Toms River is a town on the central Jersey Shore in Ocean County. It sits on the Toms River where it widens into Barnegat Bay, and serves as the gateway to some of the best beach towns on the coast.

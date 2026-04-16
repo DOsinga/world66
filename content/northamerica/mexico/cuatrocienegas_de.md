@@ -5,6 +5,7 @@ latitude: 26.915564
 longitude: -101.473853
 title: Cuatrocienegas
 type: location
+score: 0.51
 ---
 
 Cuatrocienegas sits in a desert valley in the state of Coahuila, surrounded by mountains and home to one of Mexico's most remarkable natural areas. The Cuatrocienegas Protected Area contains hundreds of spring-fed pools — pozas — with startlingly blue water in the middle of the Chihuahuan Desert. The pools support endemic species found nowhere else on earth, including unique turtles and stromatolites, living rock formations similar to some of the earliest life on the planet.

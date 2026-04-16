@@ -1,0 +1,200 @@
+{
+  "round": 831,
+  "timestamp": "2026-04-12T14:35:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "St. Thomas",
+      "path": "northamerica/virginislands/stthomas",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Plata",
+      "path": "northamerica/dominicanrepublic/puertoplata",
+      "prior_score": 4.9636,
+      "prior_variance": 0.946948,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/waikato",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Kaga",
+      "path": "asia/japan/honshu/kaga",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Mangawhai heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_notting/loughborough",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "dang ghorahi",
+      "path": "asia/nepal/dang_ghorahi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Lubon",
+      "path": "europe/poland/lubon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "PesTeCPvzsxDFv",
+      "path": "asia/oman/musandampeninsula/pestecpvzsxdfv",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

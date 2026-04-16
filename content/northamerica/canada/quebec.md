@@ -1,10 +1,11 @@
 ---
-title: Québec
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 52.476089
 longitude: -71.825867
-done:
-  location_cleanup: 2026-04-05
+score: 0.7
+title: Québec
+type: location
 ---
 
 Québec is the largest province in Canada by area and the only one with a French-speaking majority. About 8.5 million people live here, most of them along the St. Lawrence River valley between [Montréal](/northamerica/canada/quebec/montreal) and [Québec City](/northamerica/canada/quebec/quebeccity). Beyond that corridor, the province is enormous, remote and wild — the Laurentians to the north, the forested Laurentide plateau, the Saguenay Fjord, the Gaspé Peninsula jutting into the Gulf of St. Lawrence, and the vast subarctic expanse of the Canadian Shield.

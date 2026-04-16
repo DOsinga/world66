@@ -5,6 +5,7 @@ latitude: 41.559165
 longitude: 41.569467
 title: Gonio
 type: location
+score: 0.48
 ---
 
 Located just a few kilometres south of [Batumi](/europe/georgia/batumi), Gonio is home to the Gonio-Apsaros fortress, a Roman-Byzantine fort that impresses by its sheer size. There is not much to see inside — fruit trees, mostly — so it is not strictly necessary to go in.

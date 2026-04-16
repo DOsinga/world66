@@ -5,6 +5,7 @@ latitude: 23.170152
 longitude: 79.932451
 title: Jabalpur
 type: location
+score: 0.42
 ---
 
 Jabalpur is a large city in central Madhya Pradesh, sitting on the upper Narmada River. It is not a tourist destination in itself, but it serves as the gateway to some of the most dramatic landscapes in central India.

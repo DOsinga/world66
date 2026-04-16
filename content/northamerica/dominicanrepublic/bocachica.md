@@ -1,12 +1,13 @@
 ---
-title: Boca Chica
-type: location
-latitude: 18.4539
-longitude: -69.6103
 done:
   location_cleanup: 2026-04-05
+latitude: 18.4539
+longitude: -69.6103
+score: 0.46
+title: Boca Chica
+type: location
 ---
 
-Boca Chica is the closest beach resort to **Santo Domingo** — about 30 km east of the capital, roughly halfway to Las Américas International Airport — and for much of the 20th century it was the favourite weekend escape for *capitaleños*. A long, shallow, turquoise bay protected by a coral reef makes for calm, warm, waist-deep water that stretches almost the entire length of the beach; children love it. The town itself is small and unglamorous, packed with open-air seafood shacks, street vendors hawking fresh oysters and cold Presidente beer, and a lively mix of local day-trippers and longer-staying foreign visitors.
+Boca Chica is a beach town about 30 kilometers east of Santo Domingo, popular with Dominicans as a weekend escape from the capital and with budget travelers looking for sand and nightlife without the resort-town prices of Punta Cana. The beach is a long, shallow, reef-protected lagoon with calm turquoise water -- you can wade out a surprisingly long way -- and it gets packed on Sundays and holidays when half of Santo Domingo seems to show up with coolers and speakers.
 
-Boca Chica's proximity to the capital is both its strength and its weakness: the beach is genuinely lovely during the week, but fills up on weekends and public holidays, and the town has a reputation for a somewhat seedy nightlife scene after dark. For a quieter alternative, head further east to **Juan Dolio** or **Bayahibe**. But for a quick, cheap beach day while based in Santo Domingo, Boca Chica still does the job.
+During the week the beach is much quieter and quite pleasant, with vendors selling fried fish and cold Presidente beers. The town has a lively if somewhat rough nightlife scene along Calle Duarte, the main drag. Boca Chica is not a polished tourist destination -- it is loud, chaotic, and hustlers can be persistent -- but if you take it on its own terms and keep your wits about you, it offers an authentic slice of Dominican beach culture that the all-inclusive resorts deliberately filter out. The proximity to Las Americas International Airport makes it a convenient first or last night stop.

@@ -5,6 +5,7 @@ latitude: 53.07123
 longitude: -4.074173
 title: Snowdonia
 type: location
+score: 0.69
 ---
 
 Snowdonia is the wildest landscape in Wales — a knot of mountains, lakes and slate valleys stretching across the northwest corner. Yr Wyddfa (Snowdon), the highest peak in England and Wales at 1,085 metres, anchors the park, but there are dozens of other summits, ridge walks and forest trails that see far fewer boots.

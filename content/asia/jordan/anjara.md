@@ -5,6 +5,7 @@ latitude: 32.3066
 longitude: 35.7557
 title: Anjara
 type: location
+score: 0.4
 ---
 
 Anjara is a small town in the hills of northern [Jordan](/asia/jordan), about 8 kilometres from [Ajlun](/asia/jordan/ajlun). It is a Christian pilgrimage site — tradition holds that Jesus and his disciples rested in a cave here during a journey between Jerusalem and Galilee.

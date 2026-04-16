@@ -1,16 +1,17 @@
 ---
+done:
+  location_cleanup: '2026-04-08'
+latitude: 52.4797
+longitude: -1.9027
 title: Birmingham
 type: location
-latitude: 52.4797
-longitude: -1.9026
-done:
-  location_cleanup: 2026-04-05
+score: 0.45
 ---
 
-Birmingham is Britain's second-largest city, with a population of around 1.1 million in the city and 2.9 million in the wider metropolitan area. It sits in the heart of England, roughly equidistant between London and Manchester, and has been at the centre of British industrial history since the 18th century: the canals, the metalworking trades, the Lunar Society of Watt, Boulton and Erasmus Darwin, and the forges of the Black Country all took shape here.
+Birmingham is Britain's second city and it has spent the last few decades proving it deserves the title. Built on industry -- this is where the Industrial Revolution found its workforce -- the city spent much of the twentieth century living down a reputation for concrete brutalism and spaghetti motorways. That era is over. The centre has been transformed, the canal network rivals Venice for total length, and the cultural scene punches well above its weight.
 
-The city centre has been substantially rebuilt since the 1990s. The Bullring, with its distinctive Selfridges building (clad in aluminium discs, designed by Future Systems), anchors the retail core. Brindleyplace and the canal quarter around Gas Street Basin have made the waterways an asset again. The CBSO performs at Symphony Hall, which has among the finest acoustics in Europe; the Birmingham Repertory Theatre and the Hippodrome are the main theatre venues. The Barber Institute of Fine Arts at the University of Birmingham is a world-class small gallery, largely unknown outside the city.
+The city is genuinely multicultural in a way that goes beyond lip service. The Balti Triangle, a short walk south of the centre, is where Birmingham's large Kashmiri community invented the balti -- a style of curry now famous across Britain. The Jewellery Quarter, just northwest of the centre, still produces forty percent of British jewellery and has a fascinating museum. Brindleyplace and the Gas Street Basin have turned the old canal junctions into a lively area of bars and restaurants.
 
-Food is a particular strength. Birmingham's Balti Triangle — a stretch of Sparkhill and Moseley — is the home of the balti, the cast-iron wok curry invented here in the 1970s. Chinatown is compact but has good restaurants. The city's South Asian, Caribbean, and Chinese communities have made the food scene genuinely diverse. Cadbury World in Bournville is a short train ride from the centre and draws large numbers of visitors.
+Culturally, Birmingham punches hard. The City of Birmingham Symphony Orchestra, which rose to international fame under Simon Rattle, performs at Symphony Hall -- widely considered to have the best acoustics in Europe. The Barber Institute houses a small but superb art collection. The Ikon Gallery shows contemporary work in a converted Victorian school. The Birmingham Museum and Art Gallery, overlooking Victoria Square, has an outstanding Pre-Raphaelite collection.
 
-Birmingham is well placed for day trips to the Welsh Marches, the Cotswolds, Stratford-upon-Avon (22 miles south), and the Peak District — all within an hour by road or rail.
+Birmingham sits right in the heart of England, roughly equidistant from [London](/europe/unitedkingdom/england/london) and [Liverpool](/europe/unitedkingdom/england/liverpool), making it a natural base for exploring the Midlands. Stratford-upon-Avon, Warwick Castle, and the Cotswolds are all within easy reach.

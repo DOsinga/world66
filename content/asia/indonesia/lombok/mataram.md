@@ -5,6 +5,7 @@ latitude: -8.583773
 longitude: 116.10685
 title: Mataram
 type: location
+score: 0.5
 ---
 
 Mataram is the capital of [Lombok](/asia/indonesia/lombok), though in practice it is four towns that have merged into one sprawling conurbation: Ampenan, Mataram, Cakranegara (Cakra) and Sweta. Each has its own character.

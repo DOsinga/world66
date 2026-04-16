@@ -5,6 +5,7 @@ latitude: 12.9274
 longitude: -85.9185
 title: Matagalpa
 type: location
+score: 0.41
 ---
 
 Matagalpa is Nicaragua's coffee capital, a highland city at about 700 metres in the cool, green mountains 130 km north of Managua. The surrounding hills are covered in shade-grown coffee plantations with evocative names — Selva Negra, Hammonia, Bavaria — legacies of the German colonists who planted the region's first coffee in the 1850s and built an industry that still defines the area.

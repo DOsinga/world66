@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Argenberg" title="
   Argenberg</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.41
 ---
 
 Travel Guide

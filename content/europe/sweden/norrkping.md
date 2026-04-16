@@ -5,6 +5,7 @@ latitude: 58.5909
 longitude: 16.1904
 title: Norrköping
 type: location
+score: 0.48
 ---
 
 Norrköping is a former textile and manufacturing city on Sweden's east coast, about 160 kilometres south of Stockholm. Its defining feature is the **Industrilandskapet** — a cluster of 19th-century factories along the Motala Ström river, beautifully repurposed into a university campus, concert halls, and museums. The old industrial buildings give the city centre a character quite different from other mid-sized Swedish towns.

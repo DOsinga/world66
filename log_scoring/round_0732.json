@@ -1,0 +1,200 @@
+{
+  "round": 732,
+  "timestamp": "2026-04-12T10:45:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rarotonga",
+      "path": "australiaandpacific/cookislands/rarotonga",
+      "prior_mu": 32.6633,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_mu": 25.1574,
+      "prior_sigma": 4.4746,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_mu": 24.9166,
+      "prior_sigma": 4.2691,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_mu": 23.0076,
+      "prior_sigma": 4.2935,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "San Juan",
+      "path": "northamerica/puertorico/sanjuan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Pistoia",
+      "path": "europe/italy/tuscany/pistoia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_mu": 21.8379,
+      "prior_sigma": 4.5586,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_mu": 22.5046,
+      "prior_sigma": 5.8951,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Space Coast Area",
+      "path": "northamerica/unitedstates/florida/spacecoastarea",
+      "prior_mu": 22.8132,
+      "prior_sigma": 5.7096,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_mu": 22.0678,
+      "prior_sigma": 5.3029,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_mu": 21.4819,
+      "prior_sigma": 4.5545,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bahchisaray",
+      "path": "europe/ukraine/crimea/bahchisaray",
+      "prior_mu": 21.3828,
+      "prior_sigma": 4.6254,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bihac",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_mu": 21.5616,
+      "prior_sigma": 4.6987,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_mu": 22.6253,
+      "prior_sigma": 5.6598,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fort Worth",
+      "path": "northamerica/unitedstates/texas/fort_worth",
+      "prior_mu": 22.6371,
+      "prior_sigma": 5.4059,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "New Bedford",
+      "path": "northamerica/unitedstates/massachusetts/newbedford",
+      "prior_mu": 21.6749,
+      "prior_sigma": 4.6885,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_mu": 21.2318,
+      "prior_sigma": 3.9156,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_mu": 17.9363,
+      "prior_sigma": 6.741,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_mu": 21.6312,
+      "prior_sigma": 5.939,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_mu": 21.7213,
+      "prior_sigma": 5.4144,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_mu": 18.1805,
+      "prior_sigma": 6.49,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_mu": 17.3264,
+      "prior_sigma": 6.4674,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mauritania",
+      "path": "africa/mauritania",
+      "prior_mu": 18.1833,
+      "prior_sigma": 5.0663,
+      "prior_n": 2
+    }
+  ]
+}

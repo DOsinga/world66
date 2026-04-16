@@ -5,6 +5,7 @@ latitude: 36.717324
 longitude: 25.333112
 done:
   location_cleanup: 2026-04-07
+score: 0.67
 ---
 
 Ios is a small, mountainous Cycladic island famous for two rather contrasting things: its beautiful beaches and its relentless party scene. For decades it has attracted a young, international crowd looking for sun by day and bars by night, and in July and August the island is genuinely packed. But Ios is not just Mylopotas beach and clubs — the whitewashed hilltop Chora is genuinely lovely, there are quiet beaches on the far side of the island, and the claim that Homer is buried here adds an unlikely classical footnote to what is otherwise Greece's most hedonistic island.

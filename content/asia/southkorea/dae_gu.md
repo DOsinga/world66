@@ -5,6 +5,7 @@ latitude: 35.723412
 longitude: 128.6018
 title: Daegu
 type: location
+score: 0.5
 ---
 
 Daegu is South Korea's third-largest city, sitting in a valley in the southeast of the country. The geography traps heat and humidity in summer, making it one of the hottest cities on the mainland; winters are milder than Seoul. The city is a textile and fashion centre and historically known for its apples.

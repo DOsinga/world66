@@ -5,6 +5,11 @@ latitude: 45.6624
 longitude: 10.6862
 title: Lake Garda
 type: location
+score: 0.75
+image: lake_garda.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Boat_jetty._Lake_Garda,_Italy.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Ввласенко
 ---
 
 Lake Garda is the largest lake in Italy and one of the most beautiful in Europe. Straddling three regions — Lombardy, Veneto, and Trentino — it offers something for almost every taste: medieval castles, Roman ruins, lemon groves, windsurfing beaches, and elegant Belle Époque resort towns.

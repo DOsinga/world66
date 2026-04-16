@@ -1,0 +1,200 @@
+{
+  "round": 2249,
+  "timestamp": "2026-04-13T16:24:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/yucatan/playadelcarmen",
+      "prior_score": 6.7901,
+      "prior_variance": 0.371868,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_score": 5.3298,
+      "prior_variance": 0.260566,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_score": 5.5453,
+      "prior_variance": 0.239279,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Canazei",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa/canazei",
+      "prior_score": 5.3343,
+      "prior_variance": 0.28592,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Motovun",
+      "path": "europe/croatia/motovun",
+      "prior_score": 6.3159,
+      "prior_variance": 0.31343,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_score": 3.4501,
+      "prior_variance": 0.235412,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 4.8851,
+      "prior_variance": 0.302078,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 1.9615,
+      "prior_variance": 0.253945,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 0.5746,
+      "prior_variance": 0.273745,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 2.104,
+      "prior_variance": 0.254385,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "North-West",
+      "path": "australiaandpacific/australia/tasmania/northwest",
+      "prior_score": 0.2054,
+      "prior_variance": 0.229586,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_score": 0.5323,
+      "prior_variance": 0.218471,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santacruz",
+      "prior_score": 1.3982,
+      "prior_variance": 0.216934,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": 0.2743,
+      "prior_variance": 0.220409,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Latvia",
+      "path": "europe/latvia",
+      "prior_score": 1.2006,
+      "prior_variance": 0.335623,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tretten",
+      "path": "europe/norway/tretten",
+      "prior_score": 0.2331,
+      "prior_variance": 0.18414,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/sebastopol",
+      "prior_score": -1.9335,
+      "prior_variance": 0.254676,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -1.4595,
+      "prior_variance": 0.247025,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Seaside Heights",
+      "path": "northamerica/unitedstates/newjersey/seaside_heights",
+      "prior_score": -1.8257,
+      "prior_variance": 0.212793,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Hundecove",
+      "path": "europe/albania/saranda/hundecove",
+      "prior_score": -1.3709,
+      "prior_variance": 0.237911,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Sant Boi",
+      "path": "europe/spain/catalonia/santboi",
+      "prior_score": -2.4564,
+      "prior_variance": 0.202279,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -2.9803,
+      "prior_variance": 0.233654,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Polvij\u00e4rvi",
+      "path": "europe/finland/joensuu/polvijrvi",
+      "prior_score": -4.5207,
+      "prior_variance": 0.270408,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -7.1791,
+      "prior_variance": 0.34507,
+      "prior_n": 5
+    }
+  ]
+}

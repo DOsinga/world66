@@ -1,21 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Golf is available at six courses. Ask your hotel for more information.
-
-Drive the Barelang Highway to Bridge-6 (5hrs)
-
-Go diving or use the seaports facilities (at high tide) at Batam View Beach Resort. Tel 761740 diveriau.com
-
-Take a ferry from Telaga Punggur to Tanjung Pinang, town on
-Bintan Island. Spend an afternoon visiting the old palace and fort on
-historic Penyenget Island.
-
-Reef Fishing: Big comfy boats for Sin$400/day.
-
-Dolphins: an excellent day out for Sing$110.
-
-**Contributors**
-June 14, 2005
+Batam is not a sightseeing destination in the conventional sense — most visitors come for golf, beaches, or shopping. That said, the island has a handful of curiosities worth a half day: the Barelang Bridges that string the island chain together, two large Buddhist temples in Nagoya, and the remains of the Vietnamese refugee camp on Galang Island. The Duriankang Dam reservoir is a quiet escape from the industrial sprawl if you have your own transport.

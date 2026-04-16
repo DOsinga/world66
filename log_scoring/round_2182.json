@@ -1,0 +1,200 @@
+{
+  "round": 2182,
+  "timestamp": "2026-04-13T16:18:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 2.6631,
+      "prior_variance": 0.252318,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_score": -0.1171,
+      "prior_variance": 0.245631,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/abingdon",
+      "prior_score": -0.2624,
+      "prior_variance": 0.265297,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/hitchin",
+      "prior_score": -2.5531,
+      "prior_variance": 0.276724,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": -1.0392,
+      "prior_variance": 0.225148,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -2.3658,
+      "prior_variance": 0.11073,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": -0.1542,
+      "prior_variance": 0.219782,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -2.6415,
+      "prior_variance": 0.240213,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kazakhstan",
+      "path": "asia/kazakhstan",
+      "prior_score": -2.1682,
+      "prior_variance": 0.317203,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -2.7065,
+      "prior_variance": 0.261775,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -2.8457,
+      "prior_variance": 0.172244,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -3.7357,
+      "prior_variance": 0.291958,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_score": -1.7514,
+      "prior_variance": 0.448092,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Madang",
+      "path": "asia/papuanewguinea/madang",
+      "prior_score": -0.9717,
+      "prior_variance": 0.232203,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -2.4885,
+      "prior_variance": 0.249028,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Barreiro",
+      "path": "europe/portugal/barreiro",
+      "prior_score": -2.74,
+      "prior_variance": 0.24102,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Festivals",
+      "path": "africa/burkinafaso/ouagadougou/fespaco",
+      "prior_score": -2.626,
+      "prior_variance": 0.233423,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -3.0272,
+      "prior_variance": 0.22639,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kanye",
+      "path": "africa/botswana/kanye",
+      "prior_score": -6.5573,
+      "prior_variance": 0.392352,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -4.1773,
+      "prior_variance": 0.252518,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_score": -4.4955,
+      "prior_variance": 0.248131,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "El Salvador",
+      "path": "northamerica/elsalvador",
+      "prior_score": -2.6548,
+      "prior_variance": 0.452382,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/newjersey/salem",
+      "prior_score": -4.5881,
+      "prior_variance": 0.254631,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Podujeva",
+      "path": "europe/serbia/kosovoprovince/podujeva_1",
+      "prior_score": -7.7232,
+      "prior_variance": 0.520687,
+      "prior_n": 5
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 14.17909
 longitude: 121.221791
 title: Los Banos
 type: location
+score: 0.37
 ---
 
 Los Baños sits about 40 miles south of Manila on the south shore of Laguna de Bay, nestled at the foot of the dormant volcano Mount Makiling. The name means "The Baths," and the town earns it: numerous spas draw on thermal springs that bubble up from the volcanic ground beneath.

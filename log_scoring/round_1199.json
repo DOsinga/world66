@@ -1,0 +1,200 @@
+{
+  "round": 1199,
+  "timestamp": "2026-04-12T22:14:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_rank": 5621,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Hotsprings",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_rank": 2558,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_rank": 3127,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_rank": 2165,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/southampton",
+      "prior_rank": 3820,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_rank": 5112,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_rank": 3757,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_rank": 6630,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_rank": 3380,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_rank": 3478,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_rank": 7275,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_rank": 4439,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Condeixa",
+      "path": "europe/portugal/condeixa",
+      "prior_rank": 5243,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bambolim",
+      "path": "asia/india/goa/bambolim",
+      "prior_rank": 1947,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_rank": 5185,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_rank": 5023,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_rank": 4778,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_rank": 3637,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_rank": 3387,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_rank": 4054,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_rank": 4705,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Portsmouth",
+      "path": "northamerica/dominica/portsmouth",
+      "prior_rank": 2929,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cap-Ha\u00eftien",
+      "path": "northamerica/haiti/caphaitien",
+      "prior_rank": 4519,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_rank": 6908,
+      "prior_wins": 10,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1264,
+  "timestamp": "2026-04-12T22:18:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_rank": 1049,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_rank": 2222,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_rank": 1840,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_rank": 3044,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_rank": 1909,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_rank": 2943,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_rank": 761,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Newfoundland",
+      "path": "northamerica/canada/newfoundland",
+      "prior_rank": 3795,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
+      "prior_rank": 1772,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_rank": 1348,
+      "prior_wins": 85,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_rank": 853,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_rank": 3220,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/salisbury",
+      "prior_rank": 3005,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_rank": 3745,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_rank": 1626,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_rank": 3790,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Trebbia Valley",
+      "path": "europe/italy/liguria/trebbiavalley",
+      "prior_rank": 3746,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Texas",
+      "path": "northamerica/unitedstates/texas",
+      "prior_rank": 1234,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_rank": 1787,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Central Spain",
+      "path": "europe/spain/centralspain",
+      "prior_rank": 4859,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_rank": 3560,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_rank": 2764,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_rank": 3296,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_rank": 1823,
+      "prior_wins": 48,
+      "prior_n": 3
+    }
+  ]
+}

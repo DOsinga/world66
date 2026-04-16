@@ -5,6 +5,7 @@ latitude: 50.977797
 longitude: 11.028736
 title: Erfurt
 type: location
+score: 0.53
 ---
 
 Of all Germany's large cities, Erfurt is the one most redolent of prewar Germany. Although it lost a couple of important monuments in bombing raids, it was otherwise little damaged in World War II — and its streets of grand turn-of-the-century shopfronts were saved from postwar developers by the fact that the city ended up in East Germany.

@@ -5,6 +5,7 @@ latitude: 13.891842
 longitude: 100.016566
 title: Nakhon Pathom
 type: location
+score: 0.49
 ---
 
 Nakhon Pathom is a small province just 56 km west of Bangkok, easily reached as a day trip. The main draw is the **Phra Pathom Chedi**, the tallest Buddhist stupa in the world at 127 metres. It marks what is traditionally held to be the spot where Buddhism first arrived in what is now Thailand, and the chedi has been a pilgrimage site for centuries. The surrounding temple grounds are spacious and well-kept, with a museum and several smaller shrines.

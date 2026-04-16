@@ -1,0 +1,200 @@
+{
+  "round": 98,
+  "timestamp": "2026-04-12T08:03:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_mu": 33.63,
+      "prior_sigma": 3.57,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kotor",
+      "path": "europe/serbiaandmontenegro/kotor",
+      "prior_mu": 25.75,
+      "prior_sigma": 3.2,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_mu": 24.88,
+      "prior_sigma": 4.45,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_mu": 22.64,
+      "prior_sigma": 4.19,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_mu": 22.27,
+      "prior_sigma": 2.83,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_mu": 21.7,
+      "prior_sigma": 3.15,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Oregon",
+      "path": "northamerica/unitedstates/oregon",
+      "prior_mu": 25.21,
+      "prior_sigma": 3.47,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_mu": 21.32,
+      "prior_sigma": 3.82,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Africa",
+      "path": "africa",
+      "prior_mu": 20.91,
+      "prior_sigma": 3.54,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_mu": 21.04,
+      "prior_sigma": 3.39,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_mu": 20.27,
+      "prior_sigma": 3.16,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_mu": 20.87,
+      "prior_sigma": 2.36,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Imperial Beach",
+      "path": "northamerica/unitedstates/california/sandiego/imperialbeach",
+      "prior_mu": 21.47,
+      "prior_sigma": 4.18,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_mu": 21.31,
+      "prior_sigma": 4.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_mu": 17.22,
+      "prior_sigma": 3.07,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_mu": 20.33,
+      "prior_sigma": 2.95,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Rio Rico",
+      "path": "northamerica/unitedstates/arizona/rio_rico",
+      "prior_mu": 19.2,
+      "prior_sigma": 3.4,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_mu": 19.4,
+      "prior_sigma": 3.91,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_mu": 19.71,
+      "prior_sigma": 2.72,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_mu": 18.54,
+      "prior_sigma": 3.53,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Udayagi",
+      "path": "asia/india/andhrapradesh/udayagi",
+      "prior_mu": 20.15,
+      "prior_sigma": 3.55,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/kotli/tatta_pani",
+      "prior_mu": 17.04,
+      "prior_sigma": 3.38,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_mu": 18.24,
+      "prior_sigma": 2.77,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "anis yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
+      "prior_mu": 13.81,
+      "prior_sigma": 4.09,
+      "prior_n": 4
+    }
+  ]
+}

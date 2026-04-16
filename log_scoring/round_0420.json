@@ -1,0 +1,48 @@
+{
+  "round": 420,
+  "timestamp": "2026-04-12T09:30:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 5,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_mu": 22.1999,
+      "prior_sigma": 5.7582,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Harper",
+      "path": "africa/liberia/harper",
+      "prior_mu": 18.9807,
+      "prior_sigma": 5.2248,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_mu": 19.1679,
+      "prior_sigma": 5.2566,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_mu": 13.0138,
+      "prior_sigma": 5.3745,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Liberia",
+      "path": "africa/liberia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

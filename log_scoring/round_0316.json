@@ -1,0 +1,200 @@
+{
+  "round": 316,
+  "timestamp": "2026-04-12T09:11:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/wells",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/ponta_delgada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_mu": 22.7038,
+      "prior_sigma": 5.9474,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Flores",
+      "path": "asia/indonesia/flores",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_mu": 22.6832,
+      "prior_sigma": 4.7257,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Manawatu-Whanganui Region",
+      "path": "australiaandpacific/newzealand/whanganui_region",
+      "prior_mu": 22.2068,
+      "prior_sigma": 4.7141,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Warnemunde",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen/warnemunde",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/colchester",
+      "prior_mu": 21.9522,
+      "prior_sigma": 4.8389,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Samar Island",
+      "path": "asia/philippines/samarisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/sandiego/escondido",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_mu": 22.5422,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Hannahurfri",
+      "path": "asia/china/hainanisland/hannahurfri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Ploiesti",
+      "path": "europe/romania/ploiesti",
+      "prior_mu": 18.0816,
+      "prior_sigma": 6.7,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Barcs",
+      "path": "europe/hungary/barcs",
+      "prior_mu": 22.896,
+      "prior_sigma": 5.725,
+      "prior_n": 1
+    }
+  ]
+}

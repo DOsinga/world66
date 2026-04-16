@@ -5,6 +5,7 @@ latitude: 34.244059
 longitude: -116.91018
 done:
   location_cleanup: 2026-04-07
+score: 0.49
 ---
 
 Perched at 7,000 feet in the San Bernardino Mountains, Big Bear Lake is Southern California's favorite mountain getaway. The lakeside resort community offers year-round recreation: boating, jet skiing, and fishing in summer; skiing, snowboarding, and snowshoeing in winter, when snow depth can reach six feet.

@@ -1,8 +1,9 @@
 ---
-title: "Tagbilaran"
+title: Tagbilaran
 type: location
 latitude: 9.640261
 longitude: 123.855981
+score: 0.62
 ---
 
 Tagbilaran is the capital of Bohol and the most likely starting point for exploring the island. It is a small, functional city — not a destination in itself, but a convenient base with an airport, the main ferry terminal, and enough services to get you sorted before heading out.

@@ -3,16 +3,18 @@ title: "Books"
 type: section
 ---
 
-**The Farming of Bones** by Edwidge Danticat — A novel set during the 1937 massacre of Haitian workers in the Dominican Republic. Danticat writes with spare, devastating precision about the border between the two countries and the people caught on the wrong side of it.
+Haiti has inspired some powerful literature — both by Haitian writers and outsiders trying to understand the country.
 
-**Breath, Eyes, Memory** by Edwidge Danticat — Runs from beautiful and familiar to painful and necessary. A gentle book that shows the strength and the hurts of Haitian women and Haitian Americans. Important reading for understanding the diaspora experience.
+**The Farming of Bones** by Edwidge Danticat (1998). A novel about the 1937 Parsley Massacre, in which Dominican dictator Trujillo ordered the killing of Haitians living near the Dominican border. Danticat's prose is spare and devastating.
 
-**The Serpent and the Rainbow** by Wade Davis — An ethnobotanist's investigation into the reality behind Haitian zombies. Mixes solid information about Vodou's place in Haitian society with a genuine sense of the country, though the author's occasional arrogance shows through. Worth reading — less sensational than the title suggests.
+**Breath, Eyes, Memory** by Edwidge Danticat (1994). A coming-of-age story moving between rural Haiti and the Haitian community in New York. A gentle, important book about the strength and pain of Haitian women.
 
-**Tell My Horse: Voodoo and Life in Haiti and Jamaica** by Zora Neale Hurston — Hurston's firsthand account of Vodou ceremonies and daily life, written in the 1930s. Her eye for detail and ear for speech make this one of the most vivid accounts of Haitian culture ever written.
+**The Serpent and the Rainbow** by Wade Davis (1985). An ethnobotanist's investigation of Vodou and zombification. Mixes solid research with the author's own adventures in Haiti; offers a real sense of Vodou's place in Haitian society. Treat the more sensational claims with some skepticism.
 
-**The Drums of Vodou** by Lois Wilcken — A focused study of the drumming traditions central to Vodou practice. Essential for anyone interested in Haitian music and spiritual life.
+**Tell My Horse: Voodoo and Life in Haiti and Jamaica** by Zora Neale Hurston (1938). Hurston visited Haiti in the 1930s and observed Vodou ceremonies firsthand. An anthropological classic by one of America's great writers.
 
-**The Immaculate Invasion** by Bob Shacochis — A journalist's account of the 1994 US military intervention in Haiti. Sharp reporting on the chaos, good intentions, and unintended consequences of foreign involvement — a pattern that has repeated itself many times since.
+**The Immaculate Invasion** by Bob Shacochis (1999). A detailed account of the 1994 US military intervention that restored President Aristide. Illuminating about the complexities of humanitarian intervention.
 
-**Why the Cocks Fight: Dominicans, Haitians, and the Struggle for Hispaniola** by Michele Wucker — The best book on the fraught relationship between Haiti and the Dominican Republic, two countries sharing one island with very different histories and self-images.
+**Why the Cocks Fight: Dominicans, Haitians, and the Struggle for Hispaniola** by Michele Wucker (1999). An examination of the fraught relationship between Haiti and the Dominican Republic — essential context for understanding both countries.
+
+**Haiti: The Tumultuous History** by Philippe Girard (2010). A concise, clear-eyed political history from colonization to the present. Probably the best single-volume introduction to Haitian history.

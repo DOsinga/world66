@@ -5,6 +5,7 @@ latitude: 14.0312
 longitude: 122.1108
 title: Quezon Province
 type: location
+score: 0.42
 ---
 
 Quezon is a large province stretching down the southeastern coast of Luzon, named after Philippine President Manuel L. Quezon. Its capital, Lucena City, sits at the head of the Tayabas Bay, but most travellers pass through on the way to the beaches and surf breaks further south.

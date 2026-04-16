@@ -1,0 +1,200 @@
+{
+  "round": 1300,
+  "timestamp": "2026-04-12T22:20:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iceland",
+      "path": "europe/iceland",
+      "prior_rank": 292,
+      "prior_wins": 82,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Crete",
+      "path": "europe/greece/crete",
+      "prior_rank": 6,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_rank": 195,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Havana",
+      "path": "northamerica/cuba/havana",
+      "prior_rank": 124,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_rank": 668,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_rank": 193,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_rank": 830,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_rank": 232,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_rank": 50,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_rank": 127,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_rank": 51,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Yucatan",
+      "path": "northamerica/mexico/yucatan",
+      "prior_rank": 126,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Capri",
+      "path": "europe/italy/campania/capri",
+      "prior_rank": 401,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_rank": 138,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_rank": 618,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_rank": 182,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_rank": 295,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Rangiroa",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa",
+      "prior_rank": 1047,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Coral Coast",
+      "path": "australiaandpacific/fiji/vitilevu/coral_coast",
+      "prior_rank": 145,
+      "prior_wins": 75,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_rank": 19,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_rank": 53,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "kilimanjaro",
+      "path": "africa/kenya/trekking/kilimanjaro",
+      "prior_rank": 471,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Grenada",
+      "path": "northamerica/grenada",
+      "prior_rank": 335,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_rank": 54,
+      "prior_wins": 132,
+      "prior_n": 6
+    }
+  ]
+}

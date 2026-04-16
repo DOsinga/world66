@@ -1,0 +1,200 @@
+{
+  "round": 2076,
+  "timestamp": "2026-04-13T16:08:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Henan Province",
+      "path": "asia/china/henan_province",
+      "prior_score": -2.6736,
+      "prior_variance": 0.485046,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 3.4086,
+      "prior_variance": 0.235594,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 0.98,
+      "prior_variance": 0.34665,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_score": 2.5277,
+      "prior_variance": 0.271997,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": -0.7051,
+      "prior_variance": 0.273358,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_score": 0.0255,
+      "prior_variance": 0.318577,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": 0.7444,
+      "prior_variance": 0.278148,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/north_island/eastland",
+      "prior_score": 0.1917,
+      "prior_variance": 0.245851,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
+      "prior_score": -0.0968,
+      "prior_variance": 0.261603,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -1.8166,
+      "prior_variance": 0.27799,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -2.4287,
+      "prior_variance": 0.316228,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -3.155,
+      "prior_variance": 0.236741,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -4.7668,
+      "prior_variance": 0.320264,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "lakewood",
+      "path": "northamerica/unitedstates/ohio/lakewood",
+      "prior_score": -4.8796,
+      "prior_variance": 0.296589,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Orem",
+      "path": "northamerica/unitedstates/utah/orem",
+      "prior_score": -4.53,
+      "prior_variance": 0.23956,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Zuchwil",
+      "path": "europe/switzerland/zuchwil",
+      "prior_score": -6.3702,
+      "prior_variance": 0.525726,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -4.0697,
+      "prior_variance": 0.259336,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Muehlen",
+      "path": "europe/austria/muehlen",
+      "prior_score": -3.9633,
+      "prior_variance": 0.332764,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kellogg",
+      "path": "northamerica/unitedstates/idaho/kellogg",
+      "prior_score": -4.0009,
+      "prior_variance": 0.242895,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -5.3256,
+      "prior_variance": 0.249852,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "lonsdale",
+      "path": "australiaandpacific/australia/southaustralia/adelaide/lonsdale",
+      "prior_score": -4.1318,
+      "prior_variance": 0.327948,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -6.731,
+      "prior_variance": 0.374665,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Zaria",
+      "path": "africa/nigeria/zaria",
+      "prior_score": -5.5837,
+      "prior_variance": 0.283808,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_score": -9.4346,
+      "prior_variance": 0.422937,
+      "prior_n": 5
+    }
+  ]
+}

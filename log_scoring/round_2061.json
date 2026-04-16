@@ -1,0 +1,200 @@
+{
+  "round": 2061,
+  "timestamp": "2026-04-13T16:07:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kohsamui",
+      "path": "asia/thailand/kohsamui",
+      "prior_score": 6.8599,
+      "prior_variance": 0.264806,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 6.6024,
+      "prior_variance": 0.338999,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_score": 6.1355,
+      "prior_variance": 0.255043,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 2.8434,
+      "prior_variance": 0.281931,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_score": 2.1515,
+      "prior_variance": 0.255182,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": -0.7885,
+      "prior_variance": 0.35815,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_score": -5.1617,
+      "prior_variance": 0.387017,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.8422,
+      "prior_variance": 0.278346,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -1.1664,
+      "prior_variance": 0.239534,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Assam",
+      "path": "asia/india/assam",
+      "prior_score": 0.9959,
+      "prior_variance": 0.264988,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -1.1762,
+      "prior_variance": 0.305107,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_score": -2.7938,
+      "prior_variance": 0.424929,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_score": -3.0046,
+      "prior_variance": 0.181042,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_score": -3.8485,
+      "prior_variance": 0.3182,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.3794,
+      "prior_variance": 0.284708,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": -2.9152,
+      "prior_variance": 0.256018,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -4.6858,
+      "prior_variance": 0.258816,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -3.4198,
+      "prior_variance": 0.230982,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ashton",
+      "path": "northamerica/unitedstates/idaho/ashton",
+      "prior_score": -4.84,
+      "prior_variance": 0.231561,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -5.8324,
+      "prior_variance": 0.25566,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -5.4334,
+      "prior_variance": 0.290593,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Angola",
+      "path": "africa/angola",
+      "prior_score": -6.151,
+      "prior_variance": 0.414297,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Jaranwala",
+      "path": "asia/pakistan/gujrat/jaranwala",
+      "prior_score": -8.3128,
+      "prior_variance": 0.317553,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -5.7915,
+      "prior_variance": 0.380303,
+      "prior_n": 5
+    }
+  ]
+}

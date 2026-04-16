@@ -5,6 +5,7 @@ latitude: 39.081798
 longitude: -77.151684
 title: Rockville
 type: location
+score: 0.33
 ---
 
 Rockville is the county seat of Montgomery County, Maryland, just north of Washington, D.C. It is primarily a suburban city, but the historic town centre has some character — the area around the courthouse and along East Montgomery Avenue has been revitalised with restaurants and shops.

@@ -1,0 +1,200 @@
+{
+  "round": 2248,
+  "timestamp": "2026-04-13T16:24:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 7.8077,
+      "prior_variance": 0.48346,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_score": 4.9333,
+      "prior_variance": 0.252726,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ireland",
+      "path": "europe/ireland",
+      "prior_score": -0.4107,
+      "prior_variance": 0.534197,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kitzb\u00fchel",
+      "path": "europe/austria/kitzbuehel",
+      "prior_score": 6.4544,
+      "prior_variance": 0.270143,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Barbados",
+      "path": "northamerica/barbados",
+      "prior_score": 8.2516,
+      "prior_variance": 0.241396,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Rico",
+      "path": "northamerica/puertorico",
+      "prior_score": 6.0399,
+      "prior_variance": 0.277293,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 2.8007,
+      "prior_variance": 0.23654,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 3.1352,
+      "prior_variance": 0.222728,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_score": 0.9331,
+      "prior_variance": 0.234777,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 1.9615,
+      "prior_variance": 0.253945,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_score": 1.3412,
+      "prior_variance": 0.219317,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_score": 1.2732,
+      "prior_variance": 0.344219,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_score": 1.783,
+      "prior_variance": 0.194782,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": 0.8118,
+      "prior_variance": 0.223677,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 2.1551,
+      "prior_variance": 0.23693,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 7.0879,
+      "prior_variance": 0.375488,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": 0.757,
+      "prior_variance": 0.110186,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 2.9979,
+      "prior_variance": 0.240453,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 1.6599,
+      "prior_variance": 0.202421,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": 0.1391,
+      "prior_variance": 0.213079,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Iran",
+      "path": "asia/iran",
+      "prior_score": -5.2444,
+      "prior_variance": 0.352668,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Isle Royale",
+      "path": "northamerica/unitedstates/michigan/isle_royale",
+      "prior_score": 2.6559,
+      "prior_variance": 0.261773,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -3.8904,
+      "prior_variance": 0.247197,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "bazral",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2/bazral",
+      "prior_score": -10.3352,
+      "prior_variance": 0.399566,
+      "prior_n": 5
+    }
+  ]
+}

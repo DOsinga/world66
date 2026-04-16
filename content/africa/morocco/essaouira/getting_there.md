@@ -3,4 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-From Essaouira you can go south to Agadir north to Safi and on to el-Jadida, Azemmour and Casa but most people will go to Marrakech. There is no trainstation in Essaouira. There is a small aiport, but you are unlikely to fly in or out.
+Most travellers arrive from **Marrakech**, three hours west by Supratours or CTM bus on a good road through the argan forests; buses leave several times a day from the Marrakech bus station and drop you just outside Bab Doukkala. **Grand taxis** make the same trip faster for a few euros more per seat. Up the coast, regular buses run north to **Safi**, **El Jadida**, and **Casablanca**, and south to **Agadir** (about three and a half hours).
+
+There is no train station — the nearest is Marrakech. The small **Mogador airport** (15km south) has occasional flights from Paris, London, and a few other European cities, mostly seasonal; for most people the bus from Marrakech is faster and cheaper.

@@ -1,0 +1,200 @@
+{
+  "round": 1342,
+  "timestamp": "2026-04-12T22:22:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/consett",
+      "prior_rank": 7884,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Starkville",
+      "path": "northamerica/unitedstates/mississippi/starkville",
+      "prior_rank": 6465,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "waseca",
+      "path": "northamerica/unitedstates/minnesota/waseca",
+      "prior_rank": 8149,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Wilburton",
+      "path": "northamerica/unitedstates/oklahoma/wilburton",
+      "prior_rank": 7957,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southcarolina/aberdeen",
+      "prior_rank": 7793,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_rank": 7964,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "San Juan del Ro",
+      "path": "northamerica/mexico/yucatan/sanjuandelro",
+      "prior_rank": 7624,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Golmud",
+      "path": "asia/china/golmud",
+      "prior_rank": 7844,
+      "prior_wins": 16,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "dang ghorahi",
+      "path": "asia/nepal/dang_ghorahi",
+      "prior_rank": 7759,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Zielonka",
+      "path": "europe/poland/zielonka",
+      "prior_rank": 7429,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_rank": 7805,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_rank": 7880,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Gran chaco",
+      "path": "southamerica/paraguay/granchaco",
+      "prior_rank": 7406,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lebialem",
+      "path": "africa/cameroon/lebialem",
+      "prior_rank": 8163,
+      "prior_wins": 4,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Duhok",
+      "path": "asia/iraq/arbil/duhok",
+      "prior_rank": 7885,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Guinea",
+      "path": "africa/guineeconakry",
+      "prior_rank": 8063,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_rank": 8030,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_rank": 7421,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_rank": 8194,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "jhang",
+      "path": "asia/pakistan/abbottabad/jhang",
+      "prior_rank": 7607,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_rank": 8167,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "chiniot",
+      "path": "asia/pakistan/sargodha/chiniot",
+      "prior_rank": 7627,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_rank": 7513,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_rank": 7851,
+      "prior_wins": 7,
+      "prior_n": 3
+    }
+  ]
+}

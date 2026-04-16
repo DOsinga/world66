@@ -1,0 +1,200 @@
+{
+  "round": 1241,
+  "timestamp": "2026-04-12T22:17:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_rank": 1089,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica1",
+      "prior_rank": 1914,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Friesland",
+      "path": "europe/netherlands/friesland",
+      "prior_rank": 3591,
+      "prior_wins": 62,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_rank": 4152,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_rank": 3053,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_rank": 4318,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_rank": 4589,
+      "prior_wins": 52,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Santiago",
+      "path": "africa/capeverde/saotiago",
+      "prior_rank": 3965,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_rank": 6506,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_rank": 4290,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tingo",
+      "path": "southamerica/peru/chachapoyas/tingo",
+      "prior_rank": 5594,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Amizmiz",
+      "path": "africa/morocco/marrakesh/amizmiz",
+      "prior_rank": 3006,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "bacolod",
+      "path": "asia/philippines/bacolod",
+      "prior_rank": 4815,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Irian Jaya",
+      "path": "asia/indonesia/irianjaya",
+      "prior_rank": 5527,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_rank": 4834,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_rank": 5519,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Arroscia valley",
+      "path": "europe/italy/liguria/arrosciavalley",
+      "prior_rank": 5384,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_rank": 3300,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_rank": 5303,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_rank": 6923,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_rank": 4214,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Jackson Heights",
+      "path": "northamerica/unitedstates/newyorkstate/jacksonheights",
+      "prior_rank": 6392,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_rank": 5576,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pforzheim",
+      "path": "europe/germany/badenwrttemberg/pforzheim",
+      "prior_rank": 6817,
+      "prior_wins": 17,
+      "prior_n": 3
+    }
+  ]
+}

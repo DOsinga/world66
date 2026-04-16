@@ -5,6 +5,7 @@ latitude: 5.3296
 longitude: 103.1383
 title: Kuala Terengganu
 type: location
+score: 0.54
 ---
 
 Kuala Terengganu is the capital of Terengganu, one of Malaysia's east coast states, standing on the banks of the Terengganu River. It is a quiet, traditional Malay city that serves as the gateway to some of Southeast Asia's best islands — Redang and Perhentian, with their crystal-clear waters and coral gardens, are the main draws.

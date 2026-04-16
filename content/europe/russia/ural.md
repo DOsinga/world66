@@ -5,6 +5,7 @@ latitude: 60.0
 longitude: 60.0
 done:
   location_cleanup: 2026-04-05
+score: 0.28
 ---
 
 The Ural Mountains run north–south for 2,500 kilometres across western Russia, from the Kazakh steppes to the Arctic Ocean, and they form the traditional geographical boundary between Europe and Asia. As mountains they are not especially dramatic — the highest peak, Mount Narodnaya, is only 1,895 metres, and much of the range is rolling, forested hills rather than sheer summits — but their importance to Russia is enormous. Exposed by erosion, the Urals hold extraordinary mineral wealth: iron, copper, gold, platinum, gemstones (emeralds, topaz, malachite), and almost every other metal worth mining, which made the region the industrial backbone of both tsarist and Soviet Russia.

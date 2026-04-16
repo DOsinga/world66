@@ -1,0 +1,200 @@
+{
+  "round": 335,
+  "timestamp": "2026-04-12T09:12:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/thecinqueterre/riomaggiore",
+      "prior_mu": 28.7422,
+      "prior_sigma": 5.5524,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_mu": 22.6088,
+      "prior_sigma": 4.8283,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Kerala",
+      "path": "asia/india/kerala",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Burgundy",
+      "path": "europe/france/east/burgundy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_mu": 22.2545,
+      "prior_sigma": 5.7803,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_mu": 22.8857,
+      "prior_sigma": 5.8636,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Nantes",
+      "path": "europe/france/normandybrittany/nantes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Haut-Languedoc Regional Nature Park",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg",
+      "prior_mu": 21.9644,
+      "prior_sigma": 4.8402,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ohio's Amish Country",
+      "path": "northamerica/unitedstates/ohio/ohios_amish_count",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Newbridge",
+      "path": "europe/ireland/newbridge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_mu": 22.9013,
+      "prior_sigma": 5.7257,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_mu": 22.1058,
+      "prior_sigma": 5.5009,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_mu": 22.7223,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    }
+  ]
+}

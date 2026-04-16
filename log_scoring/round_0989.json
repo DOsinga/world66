@@ -1,0 +1,200 @@
+{
+  "round": 989,
+  "timestamp": "2026-04-12T22:03:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_rank": 7908,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_rank": 7724,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_rank": 6642,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_rank": 8176,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_rank": 6993,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon",
+      "prior_rank": 5452,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Boblingen",
+      "path": "europe/germany/badenwrttemberg/boblingen",
+      "prior_rank": 7913,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Echterdingen",
+      "path": "europe/germany/badenwrttemberg/echterdingen",
+      "prior_rank": 7359,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_rank": 5726,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Occhiobello",
+      "path": "europe/italy/veneto/occhiobello",
+      "prior_rank": 7727,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_rank": 7704,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Galanta",
+      "path": "europe/slovakia/galanta",
+      "prior_rank": 8002,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Zivinice",
+      "path": "europe/bosniaandherzegovina/zivinice",
+      "prior_rank": 8044,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_rank": 7190,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_rank": 8073,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_rank": 6946,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_rank": 7927,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_rank": 2364,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ialomita",
+      "path": "europe/romania/ialomita",
+      "prior_rank": 7709,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_rank": 8097,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_rank": 8057,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_rank": 7351,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Dickenson Bay",
+      "path": "southamerica/argentina/dickensonbay",
+      "prior_rank": 8173,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_rank": 5427,
+      "prior_wins": 8,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2019,
+  "timestamp": "2026-04-13T16:03:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_score": 5.742,
+      "prior_variance": 0.307728,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_score": 3.8556,
+      "prior_variance": 0.300959,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_score": 5.0576,
+      "prior_variance": 0.324097,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_score": 2.8023,
+      "prior_variance": 0.256769,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 1.4287,
+      "prior_variance": 0.345425,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 3.5291,
+      "prior_variance": 0.260988,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 1.4435,
+      "prior_variance": 0.334159,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/torquay",
+      "prior_score": 1.92,
+      "prior_variance": 0.262654,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 2.0086,
+      "prior_variance": 0.318205,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 2.2919,
+      "prior_variance": 0.299343,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santacruz",
+      "prior_score": 1.2986,
+      "prior_variance": 0.26486,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.1203,
+      "prior_variance": 0.309502,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.5103,
+      "prior_variance": 0.316996,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_score": 1.1402,
+      "prior_variance": 0.286861,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 0.2502,
+      "prior_variance": 0.36081,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 1.8648,
+      "prior_variance": 0.272363,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Arecibo",
+      "path": "northamerica/puertorico/arecibo",
+      "prior_score": 0.2917,
+      "prior_variance": 0.287795,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 1.9775,
+      "prior_variance": 0.301109,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Azerbaijan",
+      "path": "europe/azerbaijan",
+      "prior_score": -5.8299,
+      "prior_variance": 0.350638,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "La isabela",
+      "path": "northamerica/dominicanrepublic/laisabela",
+      "prior_score": -1.8254,
+      "prior_variance": 0.22361,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -3.7873,
+      "prior_variance": 0.23306,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -3.3489,
+      "prior_variance": 0.255247,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -4.3384,
+      "prior_variance": 0.307446,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -6.4271,
+      "prior_variance": 0.307001,
+      "prior_n": 5
+    }
+  ]
+}

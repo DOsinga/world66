@@ -1,13 +1,13 @@
 ---
-title: 'Lincoln Park Zoo'
-type: poi
-category: 'parks'
-address: '2001 N Clark St, Chicago, IL 60614'
-phone: '312-742-2000'
-url: 'www.lpzoo.org'
-opening_hours: 'varies by season'
+address: 2001 N Clark St, Chicago, IL 60614
+category: Sight
 latitude: 41.9211
-longitude: -87.6340
+longitude: -87.634
+opening_hours: varies by season
+phone: 312-742-2000
+title: Lincoln Park Zoo
+type: poi
+url: www.lpzoo.org
 ---
 
 One of the oldest zoos in the country and one of the last that is completely free. Lincoln Park Zoo sits in the heart of the North Side with a surprisingly good collection of animals, a working farm, and regular events throughout the year. It is family-oriented without being saccharine, and presentations are often given in small, intimate groups with the animals close by.

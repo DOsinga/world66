@@ -11,6 +11,7 @@ latitude: -14.297124
 longitude: -170.713148
 title: American Samoa
 type: location
+score: 0.49
 ---
 
 American Samoa is a small U.S. territory in the South Pacific — seven islands scattered between the equator and the Tropic of Capricorn, about halfway between Hawaii and New Zealand. It's remote, genuinely beautiful, and almost entirely off the tourist trail.

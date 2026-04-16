@@ -1,10 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: leiden.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_1865_Leiden_-_Netherlands.jpg
 latitude: 52.159475
 longitude: 4.490884
 title: Leiden
 type: location
+score: 0.62
 ---
 
 Leiden is one of the most charming cities in the Netherlands, a compact university town halfway between [Amsterdam](/europe/netherlands/amsterdam) and [The Hague](/europe/netherlands/thehague). The oldest university in the country was founded here in 1575, and the student population gives the city a lively, youthful energy that belies its centuries of history.

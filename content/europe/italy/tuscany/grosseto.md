@@ -5,6 +5,7 @@ latitude: 42.7751
 longitude: 11.2878
 title: Grosseto
 type: location
+score: 0.51
 ---
 
 Grosseto is the capital of the Maremma, the wild southern stretch of Tuscany that most tourists skip in favour of Florence, Siena, and the Chianti hills. The city itself is a modest provincial centre ringed by well-preserved Medici walls, but the real draw is the surrounding countryside — rolling farmland, cork-oak forests, thermal springs, and a coastline that includes some of Tuscany's best beaches.

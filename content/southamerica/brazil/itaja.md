@@ -5,6 +5,7 @@ latitude: -26.904679
 longitude: -48.655298
 done:
   location_cleanup: 2026-04-07
+score: 0.41
 ---
 
 Itajaí sits at the mouth of the Itajaí-Açu river in Santa Catarina state, about 90km north of Florianópolis. It is one of Brazil's most important fishing ports — the fleet that docks here is among the largest in the country — and the city's economy turns on fish, fuel wholesale trade, and a busy container port. With around 230,000 inhabitants, it punches above its weight as a regional centre, home to the UNIVALI university.

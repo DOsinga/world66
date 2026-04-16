@@ -1,0 +1,200 @@
+{
+  "round": 1309,
+  "timestamp": "2026-04-12T22:20:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sao paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_rank": 4084,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_rank": 5501,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_rank": 4306,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_rank": 4965,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_rank": 5150,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_rank": 3918,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_rank": 4547,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_rank": 5177,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_rank": 4085,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_rank": 5980,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_rank": 5855,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_rank": 4502,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_rank": 3831,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Antillanca",
+      "path": "southamerica/chile/antillanca",
+      "prior_rank": 5179,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_rank": 5775,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Chernobyl",
+      "path": "europe/ukraine/chernobyl",
+      "prior_rank": 5200,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_doming",
+      "prior_rank": 7098,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_rank": 6163,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Andhra Pradesh",
+      "path": "asia/india/andhrapradesh",
+      "prior_rank": 6529,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_rank": 5711,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Manipur",
+      "path": "asia/india/manipur",
+      "prior_rank": 5781,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_rank": 5290,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_rank": 5724,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_rank": 7397,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

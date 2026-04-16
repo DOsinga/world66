@@ -5,6 +5,7 @@ latitude: 58.5685
 longitude: -4.7507
 done:
   location_cleanup: 2026-04-07
+score: 0.55
 ---
 
 Durness is as far north-west as you can get by car in mainland Scotland — a small village on the Atlantic coast of Sutherland, with views across to the Orkney Islands on clear days. There is a saying here: if you can see the Orkneys, it's going to rain; if you can't see them, it is already raining. Plan accordingly.

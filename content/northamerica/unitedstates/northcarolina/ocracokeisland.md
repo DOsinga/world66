@@ -5,6 +5,7 @@ latitude: 35.127959
 longitude: -75.922081
 title: Ocracoke Island
 type: location
+score: 0.55
 ---
 
 Ocracoke Island is a small island off the coast of North Carolina, accessible only by ferry, and one of the most peaceful places on the East Coast. Long stretches of unspoiled beach, magnificent sunrises and sunsets over the Atlantic, and a pace of life that is genuinely slow make this a retreat in every sense.

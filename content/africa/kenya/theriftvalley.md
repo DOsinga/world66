@@ -1,8 +1,11 @@
 ---
-title: "The Rift Valley"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: -0.260731
 longitude: 36.10492
+score: 0.61
+title: The Rift Valley
+type: location
 ---
 
 The Rift Valley is the dominant geological feature of Kenya. The Valley is huge, running from Ethiopia, through Lake Turkana, the Cherangani Hills, and down past the plains of the Masai Mara, into Tanzania. The Rift Valley is famous of its soda lakes, such as Lake Nakuru and Lake Bogoria . 

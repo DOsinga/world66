@@ -5,6 +5,7 @@ latitude: -43.9176
 longitude: -176.1873
 title: Chatham Islands
 type: location
+score: 0.49
 ---
 
 The Chatham Islands sit about 800 km east of Christchurch, closer to the International Date Line than to most of New Zealand. They are among the first inhabited places on Earth to see each new day. That remoteness is the whole point: this is where you go to get very far away.

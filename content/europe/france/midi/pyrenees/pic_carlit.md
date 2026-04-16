@@ -5,6 +5,7 @@ latitude: 42.569841
 longitude: 1.932093
 title: Pic Carlit
 type: location
+score: 0.58
 ---
 
 Pic Carlit tops out just under 3,000 metres -- not the highest in the Pyrenees, but the highest peak in the Eastern Pyrenees, near the ski resort of Font-Romeu. A reliable micro-climate gives it more sun than most of its neighbours.

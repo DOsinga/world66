@@ -1,10 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: dordrecht.jpg
+image_attribution: Ludvig14
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dordrecht_Stationsweg2_018_0859.jpg
 latitude: 51.768955
 longitude: 4.686789
 title: Dordrecht
 type: location
+score: 0.51
 ---
 
 Dordrecht — Dord to the locals — holds the distinction of being the oldest city in Holland, a merchant town that flourished when the Rhine and Maas rivers converged here and everything passing between the North Sea and the interior had to pay toll. That history left its mark: the historic centre has a compact network of old streets, canals, and gabled merchants' houses that feels entirely different from the purpose-built city centres that came later.

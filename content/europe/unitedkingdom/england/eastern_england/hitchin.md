@@ -5,6 +5,7 @@ latitude: 51.9487
 longitude: -0.2779
 title: Hitchin
 type: location
+score: 0.35
 ---
 
 Hitchin is a well-preserved market town in Hertfordshire, about 35 miles north of London. Its medieval street plan survives largely intact, centred on a handsome market square that still hosts a twice-weekly market. The town has an active independent shopping scene — coffee shops, bookshops, and delis tucked into buildings that go back centuries — alongside the usual high street chains.

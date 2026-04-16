@@ -1,0 +1,200 @@
+{
+  "round": 1412,
+  "timestamp": "2026-04-12T22:26:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lloret de Mar",
+      "path": "europe/spain/lloret_de_mar",
+      "prior_rank": 4682,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_rank": 3427,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/waikato/coromandel",
+      "prior_rank": 5644,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/hokitika",
+      "prior_rank": 6017,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Busselton",
+      "path": "australiaandpacific/australia/westernaustralia/bussleton",
+      "prior_rank": 4002,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_rank": 4553,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_rank": 5284,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_rank": 3472,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_rank": 2731,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_rank": 5136,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_rank": 5092,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_rank": 6197,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pripyat",
+      "path": "europe/ukraine/chernobyl/pripiat",
+      "prior_rank": 3903,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_rank": 3081,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Southern Highlands",
+      "path": "africa/tanzania/sothern_highlands",
+      "prior_rank": 2924,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham",
+      "prior_rank": 3504,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Darmstadt",
+      "path": "europe/germany/hesse/darmstadt",
+      "prior_rank": 4255,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_rank": 3445,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_rank": 2113,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tranekr",
+      "path": "europe/denmark/tranekr",
+      "prior_rank": 3480,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_rank": 5537,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Guelph and area",
+      "path": "northamerica/canada/ontario/guelph_and_area",
+      "prior_rank": 3095,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_rank": 5999,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_rank": 6497,
+      "prior_wins": 18,
+      "prior_n": 3
+    }
+  ]
+}

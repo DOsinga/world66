@@ -5,6 +5,7 @@ latitude: 21.1243
 longitude: 70.7932
 title: Gir National Park
 type: location
+score: 0.58
 ---
 
 Gir National Park is the last home of the Asiatic lion. Once ranging from Greece through the Middle East to eastern India, the species was hunted to near-extinction by the early twentieth century -- by 1910, fewer than 15 lions survived, all of them here in the dry deciduous forests of Gujarat's Saurashtra peninsula. Sustained protection has brought their numbers back above 600, and Gir remains the only place on earth outside Africa where you can see lions in the wild.

@@ -1,0 +1,200 @@
+{
+  "round": 1647,
+  "timestamp": "2026-04-13T10:38:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 3.7327,
+      "prior_variance": 0.308482,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bie",
+      "prior_score": -0.0365,
+      "prior_variance": 0.370424,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": -1.1396,
+      "prior_variance": 0.403398,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Carlow",
+      "path": "europe/ireland/carlow",
+      "prior_score": -0.6283,
+      "prior_variance": 0.337439,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ouderkerk aan den IJssel",
+      "path": "europe/netherlands/ouderkerk_aan_den",
+      "prior_score": -5.5104,
+      "prior_variance": 0.233708,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -1.9378,
+      "prior_variance": 0.400872,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Wonthaggi",
+      "path": "australiaandpacific/australia/victoria/wonthaggi",
+      "prior_score": -3.8043,
+      "prior_variance": 0.319444,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bialogard",
+      "path": "europe/poland/bialogard",
+      "prior_score": -5.9538,
+      "prior_variance": 0.247163,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": -0.0562,
+      "prior_variance": 0.467788,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_score": 4.406,
+      "prior_variance": 0.505944,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Nyeri",
+      "path": "africa/kenya/centralhighlands/nyeri",
+      "prior_score": -1.3406,
+      "prior_variance": 0.287098,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaana",
+      "prior_score": -5.406,
+      "prior_variance": 0.50169,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -6.1327,
+      "prior_variance": 0.368799,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -5.8917,
+      "prior_variance": 0.391444,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": -5.4956,
+      "prior_variance": 0.318719,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_score": -4.2875,
+      "prior_variance": 0.274507,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Mustafabad",
+      "path": "asia/pakistan/soon_valley/mustafabad",
+      "prior_score": -8.0809,
+      "prior_variance": 0.358197,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kahigala",
+      "path": "asia/pakistan/azad_kashmir/hajira/kahigala",
+      "prior_score": -6.8754,
+      "prior_variance": 0.521951,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -8.6248,
+      "prior_variance": 0.509914,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/haiti/jeremie",
+      "prior_score": -5.9551,
+      "prior_variance": 0.446132,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Paniqui",
+      "path": "asia/philippines/paniqui",
+      "prior_score": -5.803,
+      "prior_variance": 0.331694,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indian",
+      "prior_score": -5.9815,
+      "prior_variance": 0.418189,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -7.0311,
+      "prior_variance": 0.459859,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Aleppo",
+      "path": "asia/syria/aleppo",
+      "prior_score": -8.8834,
+      "prior_variance": 0.544362,
+      "prior_n": 4
+    }
+  ]
+}

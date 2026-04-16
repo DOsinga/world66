@@ -5,6 +5,7 @@ latitude: 47.8695
 longitude: 12.6485
 title: Traunstein
 type: location
+score: 0.46
 ---
 
 Traunstein is a small city in the far southeast of Bavaria, named after the River Traun and sitting close to the Austrian border. It has a well-preserved medieval town centre with a pleasant market square and traditional Bavarian architecture. Pope Benedict XVI — born Joseph Ratzinger — grew up nearby and attended the gymnasium here, a fact the town marks with quiet civic pride.

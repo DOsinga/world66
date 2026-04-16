@@ -5,6 +5,7 @@ latitude: 1.2494
 longitude: 103.8303
 title: Sentosa
 type: location
+score: 0.65
 ---
 
 Sentosa is Singapore's playground island, a 500-hectare resort destination just off the southern coast connected to the mainland by a short causeway, a cable car, and a pedestrian boardwalk. What was once a British military fortress and later a quiet fishing village has been engineered into one of Southeast Asia's most concentrated entertainment zones. Whether that sounds like paradise or an overmanaged theme park depends on what you are looking for.

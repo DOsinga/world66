@@ -5,6 +5,11 @@ latitude: 39.721905
 longitude: 21.632232
 title: Meteora
 type: location
+score: 0.86
+image: meteora.jpg
+image_source: https://commons.wikimedia.org/wiki/File:%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._19.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Holger Uwe Schmitt
 ---
 
 Meteora is one of the most extraordinary sights in [Greece](/europe/greece) — a cluster of massive sandstone pillars rising from the Thessalian plain, with medieval monasteries perched impossibly on their summits. The name means "suspended in air," and that is exactly what they look like. The rock formations alone would be worth the visit; the fact that monks built entire communities on top of them, hauling materials up in baskets and nets, makes it unforgettable.

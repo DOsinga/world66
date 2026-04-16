@@ -1,8 +1,11 @@
 ---
-title: "Kansas"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 38.27312
 longitude: -98.582187
+score: 0.38
+title: Kansas
+type: location
 ---
 
 Kansas is an almost rectangular shaped state at the geographic center of the United States.

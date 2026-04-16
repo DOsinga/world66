@@ -5,6 +5,7 @@ latitude: 4.9403
 longitude: 114.948
 title: Bandar Seri Begawan
 type: location
+score: 0.52
 ---
 
 Bandar Seri Begawan -- BSB to everyone who lives here -- is the capital of Brunei and one of the quietest capital cities in Southeast Asia. There are no noisy bars, no backpacker strips, no touts hassling you on the street. Instead you get golden mosques reflected in still lagoons, a sprawling water village of 30,000 people, and streets so clean you could eat off them.

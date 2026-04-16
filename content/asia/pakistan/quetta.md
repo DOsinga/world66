@@ -1,20 +1,17 @@
 ---
-title: "Quetta"
+done:
+  location_cleanup: '2026-04-16'
+latitude: 30.1798
+longitude: 66.975
+score: 0.27
+title: Quetta
 type: location
-latitude: 30.191627
-longitude: 67.000756
 ---
 
-Quetta is the capital of Baluchistan. Baluchistan is the largets province in Pakistan. Most of it is desert, and the Baluchi's look like true desert-dwellers: they have baggy trousers, big moustaches and they love their freedom.
+Quetta is the capital of Balochistan, Pakistan's largest and least-visited province, set in a high bowl 1,690 metres above sea level and ringed by the brooding peaks of Chiltan, Zarghun and Koh-e-Murdar. The light here is sharp, the air thin, and the surrounding rock turns copper-red at dusk before snow dusts the crests in winter. It is a frontier town in the truest sense — a four-hour drive from the Afghan border at Chaman, a long climb up from the deserts of Sindh through the Bolan Pass, and an entry point to one of the wildest stretches of country in South Asia.
 
+Most travellers come for the setting and the food. Quetta is the **fruit basket of Pakistan**: orchards across the surrounding valleys produce some of the country's best apples, pomegranates, peaches, apricots, melons and cherries, and in the bazaars the dry-fruit stalls — pistachios from Qila Saifullah, almonds, pine nuts — are reason enough to wander. The signature dish is **sajji**, a whole leg of lamb marinated in salt and slow-roasted beside an open fire. The mutton raised in these mountains is famous across the country and shows up in the pulao at almost every eating house.
 
- Quetta lies 1692 metres above sea level at the mouth of Bolan Pass. It has three large craggy mountains. Chiltan, Zarghun and Koh-e-Murdar,that seem to brood upon this pleasant town. There are other mountains that form a ring around it. Their copper red and russet rocks and crests that are powdered with snow in winters add immense charm to the town.
- 
+The classic excursions are short. **Hanna Lake**, ten kilometres east, is a turquoise reservoir set against bare hills where families come for picnics and rowing boats. **Hazarganji-Chiltan National Park**, twenty kilometres southwest, protects one of the few remaining populations of the straight-horned markhor — a dramatic wild goat — across 32,500 acres of mountain. The **Urak** and **Pishin** valleys, both within an hour's drive, are the orchards everyone talks about. The Quetta Archaeological Museum is worth an hour for its figurines from Mehrgarh and Mohenjo-daro and a curious collection of British colonial militaria.
 
-
- Quetta is an excellent base for further exploration of Balochistan. Kan Mehtarzai (2240 metres), the highest railway station in Asia, is a two-hour drive away. Loralai, the almond bowl of the country, is 265 kms away. Besides, there are numerous other valleys that are fascinating places to be in for explorers.
- 
-
-
- 
- Quetta can rightly be called the fruit basket of Pakistan. Plums, peaches, pomegranates, apricots, apples, guavas (locally called zaitoon), some unique varieties of melon like "Garma" and "Sarda" and cherries, pistachios and almonds are all grown in abundance. Some pistachios also grow in Qila Saif Ullah also. Saffron grows very well on mountains around 5000 ft (1524 metres) high. It is being cultivated on a commercial scale here. Tulip is an indigenous flower of Pakistan. The yellow and red varieties of tulip grow wild around Quetta.
+Be honest about the situation, though: Balochistan has been off-limits to most foreign travellers for years. There is a long-running insurgency, sectarian violence has targeted the Hazara Shia community in Quetta itself, and the security forces require a No Objection Certificate (NOC) and an armed police escort for any independent foreigner who manages to get permission. Most embassies advise against all travel here. If you do come, you will see a town that mixes British cantonment architecture with Pashtun and Baloch markets, eat exceptionally well, and get a glimpse of a Pakistan most outsiders never see — but you will see it on someone else's terms.

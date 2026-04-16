@@ -5,6 +5,7 @@ latitude: 32.598406
 longitude: 44.015793
 title: Karbala
 type: location
+score: 0.37
 ---
 
 Karbala is located in central Iraq, roughly halfway between [Baghdad](/asia/iraq/baghdad) and [An Najaf](/asia/iraq/annajaf). It is one of the holiest places in Shia Islam and a major pilgrimage destination.

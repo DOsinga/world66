@@ -1,0 +1,200 @@
+{
+  "round": 832,
+  "timestamp": "2026-04-12T14:36:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bahamas",
+      "path": "northamerica/bahamas",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube__nort",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Caceres",
+      "path": "europe/spain/caceres",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Thuringia",
+      "path": "europe/germany/thuringia",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 3.5992,
+      "prior_variance": 2.413226,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Higuey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Port loko",
+      "path": "africa/sierraleone/portloko",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Midway Islands",
+      "path": "australiaandpacific/midwayislands",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Ukraine",
+      "path": "europe/ukraine",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "West Orange",
+      "path": "northamerica/unitedstates/newjersey/westorange",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

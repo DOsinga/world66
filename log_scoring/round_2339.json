@@ -1,0 +1,200 @@
+{
+  "round": 2339,
+  "timestamp": "2026-04-13T16:32:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 10.7719,
+      "prior_variance": 0.383046,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Colca Canyon",
+      "path": "southamerica/peru/colca_canyon",
+      "prior_score": 7.8006,
+      "prior_variance": 0.44583,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Jaisalmer",
+      "path": "asia/india/rajasthan/jaisalmer",
+      "prior_score": 7.4398,
+      "prior_variance": 0.412772,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 7.2335,
+      "prior_variance": 0.356754,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 6.1605,
+      "prior_variance": 0.227396,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 8.1663,
+      "prior_variance": 0.389971,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 4.5806,
+      "prior_variance": 0.3173,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 4.5964,
+      "prior_variance": 0.229345,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_score": 4.4898,
+      "prior_variance": 0.211795,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Brisbane",
+      "path": "australiaandpacific/australia/queensland/brisbane",
+      "prior_score": 3.9518,
+      "prior_variance": 0.270904,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Gipuzkoa",
+      "path": "europe/spain/gipuzkoa",
+      "prior_score": 3.7038,
+      "prior_variance": 0.260672,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Iona",
+      "path": "europe/unitedkingdom/scotland/iona",
+      "prior_score": 4.0242,
+      "prior_variance": 0.201947,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_score": 2.6862,
+      "prior_variance": 0.247444,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_score": 2.7676,
+      "prior_variance": 0.251927,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Sanya",
+      "path": "asia/china/hainanisland/sanya",
+      "prior_score": 2.3656,
+      "prior_variance": 0.215681,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 1.0289,
+      "prior_variance": 0.197948,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 1.3066,
+      "prior_variance": 0.196392,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.5207,
+      "prior_variance": 0.285366,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Siros",
+      "path": "europe/greece/siros",
+      "prior_score": 2.7787,
+      "prior_variance": 0.221213,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": 0.5758,
+      "prior_variance": 0.242818,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -2.4977,
+      "prior_variance": 0.225014,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -1.9558,
+      "prior_variance": 0.248998,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -2.1227,
+      "prior_variance": 0.27707,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/plattsburgh",
+      "prior_score": -3.5756,
+      "prior_variance": 0.244679,
+      "prior_n": 6
+    }
+  ]
+}

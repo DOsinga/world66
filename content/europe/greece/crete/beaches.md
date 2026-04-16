@@ -1,54 +1,12 @@
 ---
-title: "Beaches in Crete"
+title: "Beaches"
 type: section
 ---
 
-Crete is an intoxicating mix of a breathtakingly beautiful landscape
-and an exotic civilization that has lured tourists for ages. Here's some helpful information on the beaches of this fabulous tourist hotspot.
+Crete has more good beaches than any other Greek island. The north coast is where most of the package resorts cluster — sandy, organised, and busy in summer. The south and west are wilder, with tougher access and fewer crowds.
 
-**Orientation**
+**Elafonisi**, on the far southwest, is the postcard: pink-tinged sand, a shallow turquoise lagoon, and a small offshore islet you can wade across to. It gets very busy in July and August. **Balos**, on the northwest tip, is its rival — a sweep of white sand around a turquoise lagoon, reached by a rough drive plus a 20-minute walk down, or by boat from Kissamos.
 
-Crete is a wonderful mesh of trendy beaches energetically
-bustling with activity and quiet secluded beaches. Visitors have ample opportunity to
-go on a beach discovery escapade and find virginal coasts in the quiet
-corners of the town. Few coastal resorts can boast of the eclectic
-beach identity of Crete. The most attractive beaches are situated on
-the southern end of the Rethimnon prefecture and can be accessed only
-by foot and that is precisely where the charm of these beaches lie.
-They aren’t just overtly touristy destinations that one comes to view
-as part of a mechanical sightseeing process through a conventional mode
-of transport. The beauty of Crete’s beaches are in discovering them
-naturally and the true joy here is the journey through the numerous
-quaint and historically rich paths of Crete. Witness a bevy of ancient
-ruins, medieval excavation sites, old monasteries , Neolithic tombs and
-historical mountains while you meander aimlessly in search of the
-famous and not so famous beaches of Crepe.
+**Vai** on the eastern end of the island is famous for the only wild date palm grove in Europe, with a long sandy beach behind it. **Preveli**, on the south coast near Plakias, sits at the mouth of a palm-lined gorge — the river meets the sea here and the swimming is excellent. **Matala**, also on the south coast, is the old hippie beach with sandstone cliffs riddled with Roman tombs that were used as squats in the 1960s.
 
-**Vai and Elunda
-**
-
-Visitors with a predilection for noisy and happening beaches that
-are hip in countenance can head straight to Vai and Elunda. Both these
-coastal hotspots attract the young, night party brigade and boisterous
-beach revelers. Hersonnisos is for true-blue party enthusiasts that
-love to live it up till the wee hours of morning.
-
-**Erimounpoli**
-
-For visitors
-preferring a more unruffled experience, try Erimounpoli or the
-brilliantly shrouded Kouremenos. Other good options for a tranquil
-beach-side relaxation include Preveli and Elafonisi. Falassarna was a
-nice untouched beach a few years ago but has suddenly become a quintessentially tourist destination with columns of umbrellas gracing
-the sands of the beach.
-
-**Matala**
-
-Visitors wanting to add a slice of history to
-their beach outing can try Matala, an interesting option for its
-striking cave tombs that overlook the serene blue waters. The quiet
-beaches clique also includes Makrygialos and Myrtos, while Chiona,
-Xerokampos and Diasari are caught somewhere in between the furiously
-paced and charmingly sedated.
-
-Crete is a fabulous natural creation of picturesque beaches and abundant ancient historical legacy to go with it.
+For something quieter, head to **Xerokampos** in the southeast, **Sougia** and **Loutro** on the southwest (both car-free, reached by ferry), or the long empty beaches between Sitia and Vai. Wherever you go, the water is unusually clear; the south coast in particular faces the open Libyan Sea and has dramatic, dark blue water.

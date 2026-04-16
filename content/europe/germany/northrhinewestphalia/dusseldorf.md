@@ -1,20 +1,21 @@
 ---
-title: "Dusseldorf"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 51.225402
 longitude: 6.776314
+score: 0.55
+title: Dusseldorf
+type: location
 ---
 
-Dusseldorf, better **Düsseldorf**, is one of the richest towns in Germany. It is a handsome and elegant, modern city on the banks of the Rhine River. Düsseldorf is a city where everything is close together: just near the **Kö** is the **Altstadt**, the old quarter of the city. With its 260 cosy pubs and home-brew taverns it is well known as “the longest bar in the world”. 
+Düsseldorf is one of the wealthiest and most stylish cities in Germany — a compact, walkable financial and fashion capital on the Rhine, just 40 km north of Cologne. For centuries it was an Electoral Palatinate residence city; today it is the seat of the state of North Rhine-Westphalia, the industrial heart of western Germany. The wealth shows: on the **Königsallee** (Kö), a kilometre-long boulevard lined with designer shops and running along a tree-shaded canal, and in the newer districts of Medienhafen, where Frank Gehry's twisting towers and other contemporary architecture have replaced the old docks.
 
-A little further on, you can find renewed proof that the citizens of Düsseldorf love to promenade: the traditional **Kö** has recently acquired a new companion promenade, which is even two kilometers long. Now that the new Rhine embankment tunnel has diverted the through traffic, the Altstadt has taken back its traditional place by the Rhine. While the traffic races along underground, strollers on the Rhine embankment promenade can admire the outlook over the Rhine and the art nouveau facades of Oberkassel. The view swings to the Rhine tower, which rises above the North Rhine-Westphalia government building. From a bird’s-eye perspective you can see the city, the countryside, the river, and on a clear day even the towers of [Cologne](/europe/germany/northrhinewestphalia/cologne) cathedral. You can enjoy a romantic view of the city by exploring it from one of the many white pleasure steamers. 
+The **Altstadt** — the compact old town on the Rhine — is known as "the longest bar in the world": more than 260 pubs and breweries packed into a quarter of a square kilometre. The local beer, **Altbier**, is a dark, hoppy, top-fermented ale served in small 0.2-litre glasses. Uerige, Schumacher, Füchschen, and Schlüssel are the four classic brewpubs — each brews its own Alt and serves it with Rhineland pork dishes. The **Rhine promenade** runs the length of the Altstadt, with the **Rhine Tower** (240 m, with a revolving restaurant near the top) at the southern end and views up- and downriver on a clear day as far as the spires of Cologne Cathedral.
 
-A trip northwards will take you to Kaiserswerth, following Barbarossa’s tracks to the medieval ruins of his castle, picturesque houses, idyllic places, in the typical Lower Rhine countryside. 
+Düsseldorf has an unexpectedly good **art scene**. The **K20** and **K21** museums together form the Kunstsammlung Nordrhein-Westfalen — Paul Klee, Joseph Beuys, and the best post-war German collection in the country. The **Museum Kunstpalast** and the **Goethe Museum** in Hofgarten round out the historical side. Just out of town, the **[Museum Insel Hombroich](/europe/germany/northrhinewestphalia/dusseldorf/inselhombroich)** is a remarkable art-in-nature site where 20th-century collections are housed in a series of pavilions on a wild landscape.
 
-The city parks provide a pleasant haven when your feet get weary. End your wanderings in Old Town (adjacent to downtown), which has been turned into a large open-air pedestrian mall with restaurants clubs and stores. Dusseldorf is also home to the largest Japanese population in Europe and boasts a number of excellent Japanese restaurants and shops and a striking Buddhist temple. There are several old castles and churches in the area. They can be visited as daytrips. Another very interesting daytrip can be made to Museum Insel [Hombroich](/europe/germany/northrhinewestphalia/hombroich). 
+The city is also home to the **largest Japanese community in continental Europe** — around 8,000 people — concentrated around Immermannstraße, where you'll find excellent ramen shops, sushi bars, Japanese supermarkets, and a striking Buddhist temple.
 
-**Parts of the information is courtesy of Duesseldorf.de**
+## Destinations in Düsseldorf
 
-## Destinations in Dusseldorf
-
-[Insel Hombroich](/europe/germany/northrhinewestphalia/dusseldorf/inselhombroich)
+- [Insel Hombroich](/europe/germany/northrhinewestphalia/dusseldorf/inselhombroich)

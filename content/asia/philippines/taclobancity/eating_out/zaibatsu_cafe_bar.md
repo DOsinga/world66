@@ -1,33 +1,12 @@
 ---
 title: "Zaibatsu Cafe Bar"
 type: poi
-accessibility: "downtown"
 address: "#29 Senator Enage Street, Tacloban City"
-email: "zaibatsu_cristina@yahoo.com"
 phone: "053-5239488"
-price: "from 120 to 200 HPH"
-type: "International"
-url: "http:"
-latitude: 11.25097
-longitude: 125.003658
+price: "PHP 120-200"
+cuisine: "International"
+latitude: 11.2510
+longitude: 125.0037
 ---
 
-... **the trendiest hang out spot to hit Tacloban City is Zaibatsu Cafe Bar located at #29 Senator Enage Street.. Experience killer eats and sweets / smoothies, coffee and tea in an ambiance sooo extraordinaire. The play of lights on a lounge setting makes this a MUST destination if visiting or travelling to Tacloban City, Leyte**. **Good cool music, WiFi access, array of cocktails and great great range of delicious foods with an ambiance so spaced out ... who wouldn't want this new experience that Zaibatsu Cafe Bar offers? Definitely ... TWO THUMBS UP!... check this place out ...**
-
-type: International
-
-
-
-
-
-accessibility: downtown
-
-tel: 053-5239488
-
-url: [http:](http:// http://www.zaibatsu.co.nr)
-
-address: #29 Senator Enage Street, Tacloban City
-
-PriceOfMenu: from 120 to 200 HPH
-
-email: zaibatsu_cristina@yahoo.com
+A laid-back cafe-bar on Senator Enage Street that doubles as a small bistro: coffee and tea by day, cocktails, smoothies, and food into the evening. Lounge-style seating, low lighting, decent music, and Wi-Fi for laptop people. A reliable, easy spot rather than a destination, and a good place to escape the heat of the afternoon.

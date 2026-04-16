@@ -5,6 +5,7 @@ latitude: 25.1
 longitude: -76.15
 title: Eleuthera
 type: location
+score: 0.66
 ---
 
 Eleuthera is a long, narrow island in the Bahamas, stretching about 180 km from north to south but rarely more than 2 km wide. It's one of the Out Islands — quieter and less developed than Nassau or the resort towns of the Exumas — and known for some of the finest pink-sand beaches in the Caribbean.

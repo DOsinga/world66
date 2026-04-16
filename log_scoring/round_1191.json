@@ -1,0 +1,200 @@
+{
+  "round": 1191,
+  "timestamp": "2026-04-12T22:14:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_rank": 3547,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_rank": 3103,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/northland",
+      "prior_rank": 1143,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_rank": 4069,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_rank": 3115,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_rank": 3597,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_rank": 1694,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_rank": 1471,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_rank": 2918,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_rank": 4030,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Finale Valley",
+      "path": "europe/italy/liguria/finalevalley",
+      "prior_rank": 3608,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_rank": 1158,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_rank": 2425,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_rank": 5654,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "san juan",
+      "path": "northamerica/dominicanrepublic/san_juan",
+      "prior_rank": 4532,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_rank": 3234,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_rank": 4090,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_rank": 4990,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_rank": 3092,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_rank": 4509,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Borgo maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_rank": 3917,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_rank": 5923,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Halmstad",
+      "path": "europe/sweden/halmstad",
+      "prior_rank": 4523,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_rank": 3593,
+      "prior_wins": 25,
+      "prior_n": 2
+    }
+  ]
+}

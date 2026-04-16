@@ -1,0 +1,200 @@
+{
+  "round": 1802,
+  "timestamp": "2026-04-13T10:52:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monaco",
+      "path": "europe/monaco",
+      "prior_score": 9.9022,
+      "prior_variance": 0.410202,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_score": 12.164,
+      "prior_variance": 0.675523,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 6.191,
+      "prior_variance": 0.341301,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/otago/fiordland/te_anau",
+      "prior_score": 7.6976,
+      "prior_variance": 0.492439,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Berlin Mitte",
+      "path": "europe/germany/berlin/berlinmitte",
+      "prior_score": 7.4603,
+      "prior_variance": 0.3967,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 5.4464,
+      "prior_variance": 0.363508,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 0.6784,
+      "prior_variance": 0.402682,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dunhuang",
+      "path": "asia/china/dunhuang",
+      "prior_score": 6.1337,
+      "prior_variance": 0.408417,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Nor\u00f0oyggjar",
+      "path": "europe/faroeislands/eysturoy/noroyggjar",
+      "prior_score": 1.7673,
+      "prior_variance": 0.329886,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_score": 3.3022,
+      "prior_variance": 0.333368,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 1.9606,
+      "prior_variance": 0.37646,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/manchester",
+      "prior_score": 0.9619,
+      "prior_variance": 0.287108,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -2.9358,
+      "prior_variance": 0.312203,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Castell\u00f3n",
+      "path": "europe/spain/castellon",
+      "prior_score": -0.4799,
+      "prior_variance": 0.295636,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -2.0496,
+      "prior_variance": 0.254607,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -0.3985,
+      "prior_variance": 0.388419,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_score": -2.848,
+      "prior_variance": 0.30708,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "jijel, algeria",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": -4.2055,
+      "prior_variance": 0.312888,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -2.948,
+      "prior_variance": 0.295867,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -2.3629,
+      "prior_variance": 0.309207,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Universities",
+      "path": "northamerica/canada/alberta/edmonton/universities",
+      "prior_score": -4.8971,
+      "prior_variance": 0.354334,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Scappoose",
+      "path": "northamerica/unitedstates/oregon/scappoose",
+      "prior_score": -5.5765,
+      "prior_variance": 0.425544,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_score": -5.9464,
+      "prior_variance": 0.350584,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -5.369,
+      "prior_variance": 0.378797,
+      "prior_n": 5
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 5.281536
 longitude: -61.214526
 title: La Gran Sabana
 type: location
+score: 0.53
 ---
 
 La Gran Sabana is a spectacular highland plateau in southeastern Bolívar state, stretching toward the borders of Brazil and Guyana. The landscape is unlike anything else in South America: vast rolling savanna of golden grassland punctuated by the dark vertical cliffs of tepuis — ancient sandstone table mountains that rise hundreds of metres from the plain. Rivers cross the plateau in cascades over bare pink quartzite rock.

@@ -1,0 +1,200 @@
+{
+  "round": 971,
+  "timestamp": "2026-04-12T16:10:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_rank": 505,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ischia",
+      "path": "europe/italy/campania/ischia",
+      "prior_rank": 329,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_rank": 2050,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_rank": 3439,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_rank": 1162,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Fremantle",
+      "path": "australiaandpacific/australia/westernaustralia/fremantle",
+      "prior_rank": 1683,
+      "prior_wins": 89,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_rank": 3496,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandres",
+      "prior_rank": 1447,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cat island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_rank": 3478,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_rank": 1248,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_rank": 701,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_rank": 4508,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_rank": 5063,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_rank": 5944,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_rank": 4731,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_rank": 5028,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Maryland",
+      "path": "northamerica/unitedstates/maryland",
+      "prior_rank": 5197,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_rank": 6515,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_rank": 6692,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bahchisaray",
+      "path": "europe/ukraine/crimea/bahchisaray",
+      "prior_rank": 4563,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Knoll Lake",
+      "path": "northamerica/unitedstates/arizona/knoll_lake",
+      "prior_rank": 4874,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "waseca",
+      "path": "northamerica/unitedstates/minnesota/waseca",
+      "prior_rank": 7961,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_rank": 7422,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_rank": 7993,
+      "prior_wins": 4,
+      "prior_n": 4
+    }
+  ]
+}

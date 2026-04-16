@@ -5,6 +5,11 @@ latitude: 42.4249
 longitude: 18.7713
 title: Kotor
 type: location
+score: 0.76
+image: kotor.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg
+image_license: CC BY-SA 3.0
+image_attribution: User:Ggia
 ---
 
 Kotor is the most compelling city on the Montenegrin coast — a medieval Venetian town enclosed by 4.5km of walls that climb steeply up the rocky hillside behind it. The old town is a tight maze of marble-paved lanes, Romanesque churches, and small piazzas, with cats lounging on every warm surface (Kotor has taken the stray cat as its unofficial symbol and embraces it fully).

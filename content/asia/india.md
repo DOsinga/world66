@@ -10,6 +10,7 @@ latitude: 20.593684
 longitude: 78.96288
 title: India
 type: location
+score: 0.31
 ---
 
 *Asia > India*

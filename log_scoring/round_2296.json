@@ -1,0 +1,200 @@
+{
+  "round": 2296,
+  "timestamp": "2026-04-13T16:28:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_score": 11.0048,
+      "prior_variance": 0.702615,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Turks and Caicos Islands",
+      "path": "northamerica/turks__caicos_isl",
+      "prior_score": 8.8999,
+      "prior_variance": 0.424387,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Bahamas",
+      "path": "northamerica/bahamas",
+      "prior_score": 7.5012,
+      "prior_variance": 0.276919,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 7.6437,
+      "prior_variance": 0.383639,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Cape Verde",
+      "path": "africa/capeverde",
+      "prior_score": 4.1284,
+      "prior_variance": 0.239579,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Mekong delta",
+      "path": "asia/vietnam/mekongdelta",
+      "prior_score": 5.0727,
+      "prior_variance": 0.324467,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 4.2519,
+      "prior_variance": 0.263257,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 6.0739,
+      "prior_variance": 0.32927,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 3.6285,
+      "prior_variance": 0.266595,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Treviso",
+      "path": "europe/italy/veneto/treviso",
+      "prior_score": 4.9605,
+      "prior_variance": 0.23735,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_score": 3.7567,
+      "prior_variance": 0.244507,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Central Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago/central_otago",
+      "prior_score": 6.1287,
+      "prior_variance": 0.317511,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.1941,
+      "prior_variance": 0.220785,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 1.5821,
+      "prior_variance": 0.262453,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Uttaranchal",
+      "path": "asia/india/uttaranchal",
+      "prior_score": 2.7384,
+      "prior_variance": 0.242003,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/north_island/waikato",
+      "prior_score": 2.6408,
+      "prior_variance": 0.237727,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Rudesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 1.9764,
+      "prior_variance": 0.236407,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 3.018,
+      "prior_variance": 0.259252,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lo Pagan",
+      "path": "europe/spain/spanishcostas/lopagan",
+      "prior_score": 0.1741,
+      "prior_variance": 0.172742,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 0.9387,
+      "prior_variance": 0.216794,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 1.1368,
+      "prior_variance": 0.240117,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 2.7049,
+      "prior_variance": 0.21474,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.1039,
+      "prior_variance": 0.223603,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -9.0397,
+      "prior_variance": 0.518282,
+      "prior_n": 5
+    }
+  ]
+}

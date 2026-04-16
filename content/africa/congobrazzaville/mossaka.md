@@ -1,4 +1,0 @@
----
-title: "Mossaka"
-type: location
----

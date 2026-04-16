@@ -5,6 +5,11 @@ latitude: 40.751737
 longitude: 14.490564
 done:
   location_cleanup: 2026-04-07
+score: 0.77
+image: pompeii.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_(Pompeii)_-_Arena_inside.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Commonists
 ---
 
 *Europe > Italy > Campania > Pompeii*

@@ -1,10 +1,15 @@
 ---
-title: Delft
-type: location
-latitude: 52.0116
-longitude: 4.3571
 done:
   location_cleanup: 2026-04-05
+image: delft.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_0781_Canal_in_Delft_(NL).jpg
+latitude: 52.0116
+longitude: 4.3571
+title: Delft
+type: location
+score: 0.63
 ---
 
 Delft is a small, handsome canal city wedged between Rotterdam and The Hague in the province of South Holland. It is one of the oldest cities in the Netherlands — the name comes from *delven*, to dig, after the canal that was dug here in the 11th century — and among the best-preserved, with a medieval centre of tree-lined canals, Gothic churches, and brick canal houses that has changed remarkably little in four hundred years. It is also a university town (the Delft University of Technology, founded 1842, is the Netherlands' oldest and largest engineering university), which means the cafés and bars stay lively even outside tourist season.

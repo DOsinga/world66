@@ -5,6 +5,7 @@ latitude: 24.7469
 longitude: 67.924
 done:
   location_cleanup: 2026-04-06
+score: 0.39
 ---
 
 Thatta lies about 100 kilometres east of Karachi in the lower Indus plain, and for centuries it was the capital of Sindh. Four Muslim dynasties ruled from here between the 14th and 18th centuries, and the city was a centre of Islamic learning and arts long before it slipped into obscurity after the capital moved elsewhere in 1739.

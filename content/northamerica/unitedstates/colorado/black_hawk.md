@@ -5,6 +5,7 @@ latitude: 39.7997
 longitude: -105.4903
 title: Black Hawk
 type: location
+score: 0.37
 ---
 
 **Black Hawk** is a former gold mining town in the Rocky Mountains about an hour west of Denver, now almost entirely given over to casinos. Along with neighbouring Central City, it became one of three Colorado towns to legalise gambling in 1991, and the old mining town has been transformed beyond recognition — Victorian buildings sit alongside large casino complexes.

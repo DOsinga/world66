@@ -1,9 +1,8 @@
 ---
-title: "Agios Steafanos Beach"
+title: "Agios Stefanos Beach"
 type: poi
+latitude: 37.4600
+longitude: 25.3220
 ---
 
-Located in Agios Steafanos, a village 3 km north of Mykonos Town, the beach is calm and frequented mostly by families.
-
-**Contributors**
-August 29, 2005
+A calm, family-friendly beach in the village of Agios Stefanos, just 3 km north of Mykonos Town. Sheltered and shallow, it is a good alternative to the livelier south-coast beaches.

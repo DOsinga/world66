@@ -5,6 +5,7 @@ latitude: 29.2145
 longitude: -13.4812
 title: Mirador del Rio
 type: location
+score: 0.58
 ---
 
 The Mirador del Rio is a viewpoint on the northern tip of Lanzarote, perched on a 475-metre cliff overlooking the strait (the "rio") that separates Lanzarote from the small island of La Graciosa. The views are breathtaking -- the turquoise water below, La Graciosa's sandy beaches, and on clear days the silhouettes of other islands on the horizon.

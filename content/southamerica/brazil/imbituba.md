@@ -5,6 +5,7 @@ latitude: -28.2418
 longitude: -48.6643
 title: Imbituba
 type: location
+score: 0.43
 ---
 
 Imbituba is a small port town on the coast of Santa Catarina, about 90 km south of Florianópolis. For most of its modern life it was defined by its coal port, but it has gradually become known for something more appealing: whale watching. Between May and November, southern right whales migrate here to give birth and nurse their calves in the sheltered waters — you can watch them from the shore.

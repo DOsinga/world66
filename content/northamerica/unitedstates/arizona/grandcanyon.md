@@ -5,6 +5,11 @@ latitude: 36.098041
 longitude: -112.096279
 done:
   location_cleanup: 2026-04-07
+score: 0.93
+image: grandcanyon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Tuxyso
 ---
 
 The Grand Canyon is one of those places that genuinely exceeds expectations. You have seen the photographs, watched the documentaries, and heard people struggle to describe it -- and then you stand on the rim and realize none of it came close. The Colorado River has spent roughly six million years carving through nearly two billion years of rock, and the result is 277 miles of layered geology that changes color with every shift of sunlight.

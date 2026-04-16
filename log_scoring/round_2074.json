@@ -1,0 +1,200 @@
+{
+  "round": 2074,
+  "timestamp": "2026-04-13T16:08:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tivoli",
+      "path": "europe/italy/lazio/tivoli",
+      "prior_score": 6.0751,
+      "prior_variance": 0.295094,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 7.0655,
+      "prior_variance": 0.298385,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ascoli Piceno",
+      "path": "europe/italy/marche/ascoli_piceno",
+      "prior_score": 2.8865,
+      "prior_variance": 0.29289,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 3.3131,
+      "prior_variance": 0.299788,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_score": 4.944,
+      "prior_variance": 0.30554,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Dogon Country",
+      "path": "africa/mali/dogoncountry",
+      "prior_score": 0.9413,
+      "prior_variance": 0.251506,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Tunisia",
+      "path": "africa/tunisia",
+      "prior_score": -2.7361,
+      "prior_variance": 0.653689,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.9611,
+      "prior_variance": 0.248597,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -2.5665,
+      "prior_variance": 0.463728,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 0.9103,
+      "prior_variance": 0.300193,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Taboga",
+      "path": "northamerica/panama/taboga",
+      "prior_score": 0.494,
+      "prior_variance": 0.270919,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": 0.0075,
+      "prior_variance": 0.264687,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.596,
+      "prior_variance": 0.252899,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/plymouth",
+      "prior_score": 0.354,
+      "prior_variance": 0.272069,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": 0.82,
+      "prior_variance": 0.261675,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": 1.0718,
+      "prior_variance": 0.24527,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Oukaimeden",
+      "path": "africa/morocco/oukaimeden",
+      "prior_score": 0.849,
+      "prior_variance": 0.276731,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.4322,
+      "prior_variance": 0.318738,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -2.3333,
+      "prior_variance": 0.297827,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_score": 1.0866,
+      "prior_variance": 0.259002,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -0.9972,
+      "prior_variance": 0.231067,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.5062,
+      "prior_variance": 0.275317,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -2.601,
+      "prior_variance": 0.244437,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.197,
+      "prior_variance": 0.348378,
+      "prior_n": 5
+    }
+  ]
+}

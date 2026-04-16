@@ -1,9 +1,10 @@
 ---
-title: "Montserrat"
+title: Montserrat
 type: location
 latitude: 41.5928
 longitude: 1.8353
 todo_location_cleanup: done
+score: 0.68
 ---
 
 Montserrat is the spiritual heart of Catalonia, a dramatic massif of jagged serrated peaks rising out of the plains northwest of Barcelona. The name means "serrated mountain," and the silhouette lives up to it — the strange, rounded rock formations have inspired legends across the centuries, including the story that Parsifal found the Holy Grail here and that Wagner sought inspiration for his opera among the peaks.

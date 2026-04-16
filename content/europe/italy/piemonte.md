@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 45.0522
 longitude: 7.5155
+score: 0.7
 title: Piemonte
 type: location
 ---

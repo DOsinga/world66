@@ -1,0 +1,200 @@
+{
+  "round": 1667,
+  "timestamp": "2026-04-13T10:40:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_score": 6.3065,
+      "prior_variance": 0.392811,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 2.8569,
+      "prior_variance": 0.311645,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.5724,
+      "prior_variance": 0.420787,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.6501,
+      "prior_variance": 0.506816,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 0.051,
+      "prior_variance": 0.365018,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sauerland",
+      "path": "europe/germany/northrhinewestphalia/sauerland",
+      "prior_score": -0.7664,
+      "prior_variance": 0.376692,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -0.9218,
+      "prior_variance": 0.299279,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "La desirade",
+      "path": "northamerica/guadeloupe/ladesirade",
+      "prior_score": -1.1502,
+      "prior_variance": 0.319607,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": -0.5692,
+      "prior_variance": 0.33157,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -3.2431,
+      "prior_variance": 0.430253,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/whanganui_region/newplymouth",
+      "prior_score": -0.8712,
+      "prior_variance": 0.34626,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -0.9867,
+      "prior_variance": 0.293278,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -1.247,
+      "prior_variance": 0.385004,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -1.1634,
+      "prior_variance": 0.342425,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -0.2983,
+      "prior_variance": 0.319861,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_score": -2.3199,
+      "prior_variance": 0.324396,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -3.8339,
+      "prior_variance": 0.385577,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Monte Sereno",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno",
+      "prior_score": -8.0216,
+      "prior_variance": 0.698774,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": -2.646,
+      "prior_variance": 0.420331,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -2.1632,
+      "prior_variance": 0.605127,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -5.8806,
+      "prior_variance": 0.33636,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -6.2466,
+      "prior_variance": 0.425616,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_score": -6.9703,
+      "prior_variance": 0.371093,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -11.1025,
+      "prior_variance": 0.366777,
+      "prior_n": 4
+    }
+  ]
+}

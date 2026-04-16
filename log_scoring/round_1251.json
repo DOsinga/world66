@@ -1,0 +1,200 @@
+{
+  "round": 1251,
+  "timestamp": "2026-04-12T22:17:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/england/cornwall",
+      "prior_rank": 106,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Wyoming",
+      "path": "northamerica/unitedstates/wyoming",
+      "prior_rank": 569,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_rank": 532,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_rank": 2930,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_rank": 513,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_rank": 292,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_rank": 449,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/nadi",
+      "prior_rank": 982,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/windermere",
+      "prior_rank": 403,
+      "prior_wins": 100,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_rank": 398,
+      "prior_wins": 94,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_rank": 1799,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Matemwe",
+      "path": "africa/tanzania/zanzibar/matemwe",
+      "prior_rank": 527,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_rank": 685,
+      "prior_wins": 104,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_rank": 534,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_rank": 671,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_rank": 2118,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Robben Island",
+      "path": "africa/southafrica/capetown/robbenisland",
+      "prior_rank": 626,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "The Land of the Cathars",
+      "path": "europe/france/midi/languedoc/the_land_of_the_ca",
+      "prior_rank": 1387,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_rank": 1013,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_rank": 958,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_rank": 2092,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_rank": 2500,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_rank": 689,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Brioni Islands",
+      "path": "europe/croatia/brioniislands",
+      "prior_rank": 1058,
+      "prior_wins": 36,
+      "prior_n": 2
+    }
+  ]
+}

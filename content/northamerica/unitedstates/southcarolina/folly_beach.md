@@ -5,6 +5,7 @@ latitude: 32.655485
 longitude: -79.94078
 title: Folly Beach
 type: location
+score: 0.49
 ---
 
 Folly Beach is a small barrier island community just twenty minutes south of [Charleston](/northamerica/unitedstates/southcarolina/charleston), and it wears its reputation as "the Edge of America" with pride. This is Charleston's laid-back counterpoint — a six-mile stretch of sand where surfers, fishermen, and beach bums have been coming for generations. The vibe is deliberately unhurried, with locally owned shops and restaurants lining Center Street and a conspicuous absence of high-rise development.

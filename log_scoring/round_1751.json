@@ -1,0 +1,200 @@
+{
+  "round": 1751,
+  "timestamp": "2026-04-13T10:47:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 6.4004,
+      "prior_variance": 0.32232,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_score": 6.8808,
+      "prior_variance": 0.38756,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_score": 6.4408,
+      "prior_variance": 0.386866,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 7.6607,
+      "prior_variance": 0.369454,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_score": 7.922,
+      "prior_variance": 0.371364,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "The Land of the Cathars",
+      "path": "europe/france/midi/languedoc/the_land_of_the_ca",
+      "prior_score": 5.1828,
+      "prior_variance": 0.311137,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ascoli Piceno",
+      "path": "europe/italy/marche/ascoli_piceno",
+      "prior_score": 2.5423,
+      "prior_variance": 0.379668,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Gozo",
+      "path": "europe/malta/gozo",
+      "prior_score": 6.848,
+      "prior_variance": 0.385727,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/north_island/northland",
+      "prior_score": 3.08,
+      "prior_variance": 0.337227,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 2.3806,
+      "prior_variance": 0.429825,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 2.0599,
+      "prior_variance": 0.315505,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 2.2644,
+      "prior_variance": 0.337221,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.2424,
+      "prior_variance": 0.413959,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_score": 4.2414,
+      "prior_variance": 0.317592,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -0.652,
+      "prior_variance": 0.297339,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": -0.1364,
+      "prior_variance": 0.337221,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -2.1365,
+      "prior_variance": 0.332503,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -4.817,
+      "prior_variance": 0.455711,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -1.5995,
+      "prior_variance": 0.289432,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Chiusi Scalo",
+      "path": "europe/italy/tuscany/chiusiscalo",
+      "prior_score": -2.8394,
+      "prior_variance": 0.296255,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Paranuaque",
+      "path": "asia/philippines/manila/paranuaque",
+      "prior_score": -4.1923,
+      "prior_variance": 0.332165,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_score": -5.3337,
+      "prior_variance": 0.383,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -5.5438,
+      "prior_variance": 0.559901,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Garata",
+      "path": "europe/bulgaria/gornaoryahovica/garata",
+      "prior_score": -9.9842,
+      "prior_variance": 0.470469,
+      "prior_n": 6
+    }
+  ]
+}

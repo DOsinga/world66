@@ -1,8 +1,11 @@
 ---
-title: "Friuli Venezia Giulia"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 46.0
 longitude: 13.2
+score: 0.6
+title: Friuli Venezia Giulia
+type: location
 ---
 
 Friuli Venezia Giulia is Italy's north-eastern corner, wedged between the Alps, the Adriatic, Slovenia, and Austria. It is one of the country's five special autonomous regions, and its identity is genuinely distinct — part Italian, part Central European, shaped by centuries of Habsburg rule and a mix of Italian, Slovenian, and Friulian languages still spoken today.

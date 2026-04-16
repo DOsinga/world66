@@ -1,0 +1,200 @@
+{
+  "round": 1194,
+  "timestamp": "2026-04-12T22:14:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_rank": 1955,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_rank": 2434,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_rank": 5452,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_rank": 6159,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/highpeak",
+      "prior_rank": 3574,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_rank": 2699,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Qingdao",
+      "path": "asia/china/qingdao",
+      "prior_rank": 2586,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_rank": 1283,
+      "prior_wins": 88,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hesse/wiesbaden",
+      "prior_rank": 3850,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_rank": 3600,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_rank": 3773,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_rank": 1965,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_rank": 2619,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_rank": 4794,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_rank": 3743,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_rank": 1661,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_rank": 3796,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_rank": 2541,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_rank": 2431,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Vidoy",
+      "path": "europe/faroeislands/vidoy",
+      "prior_rank": 5454,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/hamilton",
+      "prior_rank": 5705,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ripon",
+      "prior_rank": 4890,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_rank": 5010,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Shenzhen",
+      "path": "asia/china/shenzhen",
+      "prior_rank": 3758,
+      "prior_wins": 24,
+      "prior_n": 2
+    }
+  ]
+}

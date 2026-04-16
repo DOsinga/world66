@@ -1,0 +1,200 @@
+{
+  "round": 1270,
+  "timestamp": "2026-04-12T22:18:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Greece",
+      "path": "europe/greece",
+      "prior_rank": 3303,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Croatia",
+      "path": "europe/croatia",
+      "prior_rank": 4074,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Flores",
+      "path": "asia/indonesia/flores",
+      "prior_rank": 828,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_rank": 1650,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_rank": 2423,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Southern Norway (Sorlandet)",
+      "path": "europe/norway/southernnorways",
+      "prior_rank": 3608,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Wales",
+      "path": "europe/unitedkingdom/wales",
+      "prior_rank": 458,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Tunis",
+      "path": "africa/tunisia/tunis",
+      "prior_rank": 615,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hunan",
+      "path": "asia/china/hunan",
+      "prior_rank": 4535,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_rank": 766,
+      "prior_wins": 151,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_rank": 278,
+      "prior_wins": 228,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Trujillo",
+      "path": "southamerica/peru/huanchaco/trujillo",
+      "prior_rank": 2124,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_rank": 1994,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_rank": 980,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "1",
+      "path": "europe/france/val_disere/1_2",
+      "prior_rank": 871,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_rank": 460,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra_vall",
+      "prior_rank": 2435,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_rank": 1267,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_rank": 979,
+      "prior_wins": 91,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_rank": 944,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_rank": 2045,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_rank": 2131,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_rank": 740,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_rank": 4178,
+      "prior_wins": 34,
+      "prior_n": 3
+    }
+  ]
+}

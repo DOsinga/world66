@@ -5,6 +5,7 @@ latitude: 24.6961
 longitude: 84.9869
 done:
   location_cleanup: 2026-04-07
+score: 0.57
 ---
 
 Bodh Gaya is where Siddhartha Gautama sat beneath a pipal tree and became the Buddha. That single event, some 2,500 years ago, made this small town in Bihar one of the most important pilgrimage sites in the world. Today it draws thousands of Buddhist monks, nuns, and pilgrims from across Asia, alongside a steady stream of curious travelers.

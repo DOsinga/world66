@@ -5,6 +5,7 @@ latitude: -22.388
 longitude: -43.175259
 title: Petrópolis
 type: location
+score: 0.56
 ---
 
 Petrópolis sits in the Serra da Estrela mountains about 65 kilometres north of [Rio de Janeiro](/southamerica/brazil/rio_de_janeiro), at around 800 metres above sea level. The cooler altitude made it the summer capital of Brazil from the days of Emperor Pedro II until 1962 — when the heat in Rio became unbearable, the government simply moved uphill. Today it is a city of over 300,000 people, but the imperial-era centre retains a distinct character: tree-lined avenues, canals running alongside the main streets, and a scattering of 19th-century buildings.

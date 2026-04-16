@@ -5,6 +5,7 @@ latitude: 48.53775
 longitude: 9.041169
 done:
   location_cleanup: 2026-04-05
+score: 0.51
 ---
 
 Baden-Württemberg is Germany's southwestern corner, sharing borders with France and Switzerland, and it contains some of the most varied and rewarding landscape in the country. The Black Forest rolls across the west, the Rhine defines the French border, Lake Constance sits in the south like an inland sea, and the Swabian highlands fill the middle. It's a prosperous, well-organised region — home to Mercedes-Benz and Porsche, to the oldest university in Germany, and to thermal spas that have been operating since the Romans.
@@ -30,4 +31,4 @@ In the south, [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance) (B
 - [Mannheim](/europe/germany/badenwrttemberg/mannheim)
 - [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance)
 - [Ludwigsburg](/europe/germany/badenwrttemberg/ludwigsburg)
-- [Speyer](/europe/germany/badenwrttemberg/speyer)
+- [Speyer](/europe/germany/rhinelandpalatinate/speyer)

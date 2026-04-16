@@ -1,0 +1,200 @@
+{
+  "round": 222,
+  "timestamp": "2026-04-12T09:07:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Cape Verde",
+      "path": "africa/capeverde",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/harrogate",
+      "prior_mu": 22.5187,
+      "prior_sigma": 5.8141,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cetinje",
+      "path": "europe/serbiaandmontenegro/cetinje",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_mu": 20.8316,
+      "prior_sigma": 2.6295,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ethiopia",
+      "path": "africa/ethiopia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Surin Province",
+      "path": "asia/thailand/surin_province",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Manzhouli",
+      "path": "asia/china/manzhouli",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Comoros",
+      "path": "africa/comoros",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Voorburg",
+      "path": "europe/netherlands/voorburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Gondomar",
+      "path": "europe/portugal/gondomar",
+      "prior_mu": 22.8279,
+      "prior_sigma": 5.7147,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "vascauti",
+      "path": "europe/romania/bucharest/vascauti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_mu": 19.4002,
+      "prior_sigma": 2.961,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_mu": 18.0205,
+      "prior_sigma": 6.5222,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 54.1363
 longitude: -1.5238
 title: Ripon
 type: location
+score: 0.47
 ---
 
 Ripon is one of England's smallest cities, set on the edge of the Yorkshire Dales. Its main glory is the cathedral, founded in the 7th century — the Saxon crypt survives, one of the oldest intact structures in England. The rest of the building is mostly 13th century and later, deliberately kept low and modest so as not to attract the attention of Scottish raiders.

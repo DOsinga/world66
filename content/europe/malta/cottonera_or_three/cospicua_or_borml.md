@@ -5,6 +5,7 @@ latitude: 35.8805
 longitude: 14.5225
 title: Cospicua (or Bormla)
 type: location
+score: 0.48
 ---
 
 Bormla, officially Cospicua, is the oldest inhabited of the Three Cities on the southern shore of the Grand Harbour in [Malta](/europe/malta). The town nestles behind the historic No. 1 Dock, built in the 1840s in what was once the Porto delle Galere. The dockyard here has been in use since Phoenician times, expanded by every successive ruler — the Knights of St John, the French, and the British all used it as their Mediterranean base for ship repair.

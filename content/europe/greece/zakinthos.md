@@ -1,5 +1,10 @@
 ---
-title: "Zakinthos"
+done:
+  location_cleanup: '2026-04-16'
+latitude: 37.7855
+longitude: 20.8992
+score: 0.72
+title: Zakinthos
 type: location
 ---
 

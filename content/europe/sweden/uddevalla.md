@@ -5,6 +5,7 @@ latitude: 58.349055
 longitude: 11.938285
 title: Uddevalla
 type: location
+score: 0.42
 ---
 
 Uddevalla is a town of about 50,000 on the western coast of [Sweden](/europe/sweden), at the head of the Byfjorden inlet. It was historically a shipyard and fishing town, and the harbour still defines the place even though the big yards closed decades ago.

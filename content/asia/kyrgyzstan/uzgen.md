@@ -5,6 +5,7 @@ latitude: 40.768814
 longitude: 73.298663
 title: Uzgen
 type: location
+score: 0.39
 ---
 
 Uzgen is a small town on the old Silk Road in southern Kyrgyzstan, between Jalal-Abad and [Osh](/asia/kyrgyzstan/osh). It is worth a stop for two things: its 12th-century Karakhanid monuments and its bazaar.

@@ -1,0 +1,200 @@
+{
+  "round": 935,
+  "timestamp": "2026-04-12T16:08:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Japan",
+      "path": "asia/japan",
+      "prior_rank": 14,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Versailles",
+      "path": "europe/france/paris/versailles",
+      "prior_rank": 52,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_rank": 41,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_rank": 40,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/otago/fiordland",
+      "prior_rank": 205,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/otago/queenstown",
+      "prior_rank": 219,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_rank": 115,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_rank": 99,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_rank": 223,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Borobudur",
+      "path": "asia/indonesia/java/borobudur",
+      "prior_rank": 176,
+      "prior_wins": 90,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_rank": 224,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Riviera Maya",
+      "path": "northamerica/mexico/yucatan/rivieramaya",
+      "prior_rank": 95,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_rank": 222,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/losangeles/catalina",
+      "prior_rank": 203,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_rank": 6417,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_rank": 8116,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_rank": 8176,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_rank": 8160,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_rank": 8179,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Aska",
+      "path": "asia/india/orissa/berhampur/aska",
+      "prior_rank": 8135,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Sunrise Coffee",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/sunrisecoffee",
+      "prior_rank": 8201,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_rank": 8102,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_rank": 8216,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Baker Island",
+      "path": "australiaandpacific/bakerisland",
+      "prior_rank": 8080,
+      "prior_wins": 2,
+      "prior_n": 3
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 41.916634
 longitude: 14.526722
 title: Carunchio
 type: location
+score: 0.41
 ---
 
 Carunchio is a quiet hilltop village in southern Abruzzo, the kind of place where church bells mark the hours and not much else disturbs the afternoon. The views from the old centre are beautiful — the Maiella massif, one of the highest mountains in the Apennines, dominates the western horizon.

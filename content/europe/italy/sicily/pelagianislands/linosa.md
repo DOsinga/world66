@@ -5,6 +5,7 @@ latitude: 35.8652
 longitude: 12.8675
 title: Linosa
 type: location
+score: 0.51
 ---
 
 Linosa is a tiny volcanic island in the Strait of Sicily, part of the Pelagian archipelago along with Lampedusa and the uninhabited rock of Lampione. With its black lava coastline, colourful cube-shaped houses, and crystal-clear water, it feels closer to Africa than to mainland Italy — because geographically, it is.

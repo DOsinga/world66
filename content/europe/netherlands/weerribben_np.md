@@ -1,10 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: weerribben_np.jpg
+image_attribution: Dominicus Johannes Bergsma
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Nationaal_Park_Weerribben-Wieden._Spiegeling_in_waterweg_01.jpg
 latitude: 52.775
 longitude: 5.95
 title: Weerribben National Park
 type: location
+score: 0.51
 ---
 
 In the northwest corner of the province of Overijssel lies the Weerribben, a 3,500-hectare national park where water and reed dominate the landscape. Together with the neighbouring De Wieden nature reserve, it forms the most important marshland in northwest Europe.

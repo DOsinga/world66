@@ -1,0 +1,9 @@
+---
+title: "Café Floria"
+type: poi
+category: "Cafe"
+latitude: 34.0425
+longitude: -4.9981
+---
+
+A long-running and popular café on Avenue Hassan II in the Ville Nouvelle, known for its croissants and pastries. A good spot for breakfast or an afternoon coffee with locals.

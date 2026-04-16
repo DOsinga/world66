@@ -5,6 +5,7 @@ latitude: 38.4693
 longitude: 14.9565
 title: Lipari
 type: location
+score: 0.72
 ---
 
 Lipari is the largest and most developed of the [Aeolian Islands](/europe/italy/sicily/aeolianislands), and for most visitors the first port of call. The main town, also called Lipari, climbs from a harbour up to an imposing castle-fortress on a rocky promontory between two bays. The archaeological museum inside the castle is one of the best in southern Italy, with a superb collection of Greek theatrical masks and prehistoric obsidian tools.

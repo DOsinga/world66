@@ -1,10 +1,11 @@
 ---
-title: "Nantucket"
+title: Nantucket
 type: location
 latitude: 41.284441
 longitude: -70.09842
 done:
   location_cleanup: '2026-04-07'
+score: 0.61
 ---
 
 Nantucket is a small island about 30 miles off the coast of [Cape Cod](/northamerica/unitedstates/massachusetts/capecod), quieter and more exclusive than neighbouring [Martha's Vineyard](/northamerica/unitedstates/massachusetts/marthasvineyard). Once the whaling capital of the world — *Moby-Dick* opens here — it is now a summer resort with a beautifully preserved historic town centre, cobblestone streets, grey-shingled houses, and some of the best beaches on the East Coast.

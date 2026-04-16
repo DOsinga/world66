@@ -5,6 +5,7 @@ latitude: -8.111678
 longitude: -79.028774
 title: Trujillo
 type: location
+score: 0.59
 ---
 
 Trujillo is the largest city on Peru's northern coast, with about 800,000 people. It was founded by the Spanish in 1534 and retains a handsome colonial centre — pastel-coloured mansions with ornate wooden balconies line the streets around the Plaza de Armas.

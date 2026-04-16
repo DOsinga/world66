@@ -1,0 +1,200 @@
+{
+  "round": 1350,
+  "timestamp": "2026-04-12T22:22:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester",
+      "prior_rank": 5212,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_rank": 2076,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_rank": 2432,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_rank": 2114,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ohio's Amish Country",
+      "path": "northamerica/unitedstates/ohio/ohios_amish_count",
+      "prior_rank": 2246,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_rank": 3185,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_rank": 3583,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_rank": 3498,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_rank": 4169,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_rank": 2777,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kitakyushu/kokura",
+      "prior_rank": 5014,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_rank": 7242,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_rank": 2927,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_rank": 4802,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Alora",
+      "path": "europe/spain/andalucia/alora",
+      "prior_rank": 3764,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_rank": 4471,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_rank": 4374,
+      "prior_wins": 54,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/barnstaple",
+      "prior_rank": 4531,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tuy [Tui]",
+      "path": "europe/spain/northernspain/tuy_tui",
+      "prior_rank": 5059,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_rank": 3706,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bei Dai He",
+      "path": "asia/china/bei_dai_he",
+      "prior_rank": 3292,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Crimea",
+      "path": "europe/ukraine/crimea",
+      "prior_rank": 2957,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_rank": 2821,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "San Pablo City",
+      "path": "asia/philippines/sanpablocity",
+      "prior_rank": 4270,
+      "prior_wins": 33,
+      "prior_n": 3
+    }
+  ]
+}

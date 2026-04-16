@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 28.5091
 longitude: 34.5131
+score: 0.6
 title: Dahab
 type: location
 ---

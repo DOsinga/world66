@@ -5,6 +5,7 @@ latitude: 61.9537
 longitude: -6.7934
 title: Kirkjubour
 type: location
+score: 0.55
 ---
 
 Kirkjubour was the medieval capital of the Faroe Islands, the seat of its bishop and a place of some importance in the Norse world. Today it's a small village on the southwest coast of Streymoy with remarkable views across the sound to the islands of [Sandoy](/europe/faroeislands/sandoy), Hestur, and Koltur, and beyond to [Vagar](/europe/faroeislands/vagar) with its airport.

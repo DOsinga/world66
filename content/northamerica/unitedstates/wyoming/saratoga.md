@@ -5,6 +5,7 @@ latitude: 41.4549
 longitude: -106.8062
 title: Saratoga
 type: location
+score: 0.34
 ---
 
 Saratoga lies in Wyoming's upper North Platte River valley, just west of the Snowy Range Mountains, surrounded by high sage desert. The town exists because of the natural hot springs that surface along the river, and with a population under 2,000 it remains a quiet, friendly place.

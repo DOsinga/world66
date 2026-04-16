@@ -5,6 +5,7 @@ latitude: 5.961412
 longitude: 10.151651
 title: Bamenda
 type: location
+score: 0.36
 ---
 
 Bamenda is the main city of the anglophone Northwest Region of [Cameroon](/africa/cameroon), set among the hills of the Bamenda Highlands at around 1,600 metres elevation. The altitude gives it one of the most pleasant climates in West Africa — cool, green and often misty.

@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 26.9124
 longitude: 75.7873
+score: 0.78
 title: Rajasthan
 type: location
 ---

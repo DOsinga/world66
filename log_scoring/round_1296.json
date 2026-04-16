@@ -1,0 +1,200 @@
+{
+  "round": 1296,
+  "timestamp": "2026-04-12T22:20:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_rank": 1709,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_rank": 867,
+      "prior_wins": 92,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_rank": 598,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Nuremberg",
+      "path": "europe/germany/bavaria/nuremberg",
+      "prior_rank": 771,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_rank": 3557,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_rank": 1605,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/alcaladehenares",
+      "prior_rank": 4234,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/canterbury/christchurch",
+      "prior_rank": 726,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_rank": 795,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_rank": 1297,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_rank": 3540,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_rank": 1655,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/whitby",
+      "prior_rank": 602,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_rank": 1543,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_rank": 2838,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Saxony",
+      "path": "europe/germany/saxony",
+      "prior_rank": 1503,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_rank": 910,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_rank": 1886,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_rank": 6317,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Shasta Cascade",
+      "path": "northamerica/unitedstates/california/shastacascade",
+      "prior_rank": 1301,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_rank": 2586,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_rank": 3878,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_rank": 2600,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_rank": 259,
+      "prior_wins": 62,
+      "prior_n": 3
+    }
+  ]
+}

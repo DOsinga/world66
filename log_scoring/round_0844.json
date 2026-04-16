@@ -1,0 +1,200 @@
+{
+  "round": 844,
+  "timestamp": "2026-04-12T14:44:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 9.2748,
+      "prior_variance": 2.79246,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Galicia",
+      "path": "europe/spain/galicia",
+      "prior_score": 7.4004,
+      "prior_variance": 1.824259,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 9.5051,
+      "prior_variance": 1.004868,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 1.2257,
+      "prior_variance": 1.519438,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Slovakia",
+      "path": "europe/slovakia",
+      "prior_score": 6.0999,
+      "prior_variance": 3.857632,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_na",
+      "prior_score": 6.5937,
+      "prior_variance": 1.832579,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tsodilo hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": -0.6929,
+      "prior_variance": 1.344163,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 3.1308,
+      "prior_variance": 2.066259,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 4.0624,
+      "prior_variance": 2.409464,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kitakyushu/kokura",
+      "prior_score": 0.1433,
+      "prior_variance": 1.378165,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_score": -0.8596,
+      "prior_variance": 1.381034,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "St.Augustine",
+      "path": "northamerica/trinidadandtobago/staugustine",
+      "prior_score": -2.0681,
+      "prior_variance": 1.369967,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": 0.3993,
+      "prior_variance": 1.356318,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -1.6987,
+      "prior_variance": 1.673652,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": -5.7112,
+      "prior_variance": 1.632478,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "oran",
+      "path": "africa/algeria/oran/oran_1",
+      "prior_score": -4.4257,
+      "prior_variance": 2.714243,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/newjersey/salem",
+      "prior_score": -6.8973,
+      "prior_variance": 1.16539,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_score": -10.6931,
+      "prior_variance": 9.190275,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -5.3542,
+      "prior_variance": 1.773322,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -4.5439,
+      "prior_variance": 1.256299,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -7.2097,
+      "prior_variance": 1.69368,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -3.7177,
+      "prior_variance": 1.388495,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_score": -6.8813,
+      "prior_variance": 1.329692,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -8.7349,
+      "prior_variance": 2.110571,
+      "prior_n": 1
+    }
+  ]
+}

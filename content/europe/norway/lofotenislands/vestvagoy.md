@@ -5,6 +5,7 @@ latitude: 68.1607
 longitude: 13.7841
 done:
   location_cleanup: 2026-04-07
+score: 0.58
 ---
 
 Vestvagoy is the agricultural heart of the [Lofoten Islands](/europe/norway/lofotenislands), a place where steep mountains frame a wide central valley of green farmland — unusual in an archipelago better known for fishing. The island produces some of Norway's best lamb and cheese, and the Vestvagoy dairy is a major producer of butter sold nationwide.

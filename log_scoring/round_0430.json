@@ -1,0 +1,200 @@
+{
+  "round": 430,
+  "timestamp": "2026-04-12T09:30:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_mu": 21.7196,
+      "prior_sigma": 4.5953,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Museum District",
+      "path": "northamerica/unitedstates/texas/houston/museumdistrict",
+      "prior_mu": 22.6285,
+      "prior_sigma": 5.6423,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/newyorkstate/astoria",
+      "prior_mu": 22.6438,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_mu": 22.645,
+      "prior_sigma": 5.9391,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_mu": 22.901,
+      "prior_sigma": 5.7257,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/houston/brazosportarea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_mu": 20.3141,
+      "prior_sigma": 4.5543,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/washington/auburn",
+      "prior_mu": 21.3545,
+      "prior_sigma": 5.4135,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Laguna Hills",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunahills",
+      "prior_mu": 22.4775,
+      "prior_sigma": 5.9069,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_mu": 18.3411,
+      "prior_sigma": 6.7584,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Buckeye",
+      "path": "northamerica/unitedstates/arizona/buckeye",
+      "prior_mu": 22.6386,
+      "prior_sigma": 5.6881,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "El Reno",
+      "path": "northamerica/unitedstates/oklahoma/el_reno",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    }
+  ]
+}

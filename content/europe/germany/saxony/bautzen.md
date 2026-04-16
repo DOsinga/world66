@@ -5,6 +5,7 @@ latitude: 51.1809
 longitude: 14.4276
 title: Bautzen
 type: location
+score: 0.48
 ---
 
 Bautzen is one of eastern Germany's best-preserved medieval towns, perched on a rocky promontory above the Spree River in Upper Lusatia. Its skyline of eleven medieval towers rising over the old town is genuinely striking — more so than most German cities that were bombed flat in the war and rebuilt from scratch.

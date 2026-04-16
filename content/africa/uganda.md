@@ -11,6 +11,7 @@ latitude: 1.3733
 longitude: 32.2903
 title: Uganda
 type: location
+score: 0.38
 ---
 
 *Africa > Uganda*

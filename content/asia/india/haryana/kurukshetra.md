@@ -5,6 +5,7 @@ latitude: 29.969375
 longitude: 76.848279
 title: Kurukshetra
 type: location
+score: 0.47
 ---
 
 Kurukshetra is one of the most sacred sites in Hinduism — the battlefield where the Pandavas and Kauravas fought the war at the heart of the Mahabharata, and where Lord Krishna delivered the Bhagavad Gita to Arjuna. Few places carry such concentrated spiritual weight, and pilgrims arrive from across India to walk ground that ancient tradition regards as the origin of dharma itself.

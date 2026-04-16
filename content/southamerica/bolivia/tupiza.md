@@ -1,10 +1,11 @@
 ---
-title: "Tupiza"
+title: Tupiza
 type: location
 latitude: -21.443772
 longitude: -65.720837
 done:
   location_cleanup: 2026-04-08
+score: 0.53
 ---
 
 Tupiza is a small town in southern Bolivia set in a spectacular landscape of red rock canyons, eroded pinnacles, and dry river valleys that looks like something out of a Western film. This is where Butch Cassidy and the Sundance Kid met their end — or so the story goes — and horseback riding through the canyons is the classic way to experience the scenery.

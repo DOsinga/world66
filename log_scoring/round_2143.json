@@ -1,0 +1,200 @@
+{
+  "round": 2143,
+  "timestamp": "2026-04-13T16:14:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 9.1172,
+      "prior_variance": 0.395648,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_score": 2.6298,
+      "prior_variance": 0.297066,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_score": 3.282,
+      "prior_variance": 0.243351,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 5.709,
+      "prior_variance": 0.323414,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Louisiana",
+      "path": "northamerica/unitedstates/louisiana",
+      "prior_score": 1.7156,
+      "prior_variance": 0.331238,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 1.8852,
+      "prior_variance": 0.3677,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 3.7555,
+      "prior_variance": 0.205263,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 2.1297,
+      "prior_variance": 0.283953,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_score": 1.2251,
+      "prior_variance": 0.257494,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": -1.871,
+      "prior_variance": 0.344953,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -1.0507,
+      "prior_variance": 0.337497,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.8552,
+      "prior_variance": 0.325272,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Toowoomba",
+      "path": "australiaandpacific/australia/queensland/toowoomba",
+      "prior_score": -0.3313,
+      "prior_variance": 0.241859,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 2.4431,
+      "prior_variance": 0.206519,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_score": 0.6309,
+      "prior_variance": 0.265823,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 1.2529,
+      "prior_variance": 0.305488,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.3893,
+      "prior_variance": 0.257953,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": 0.0506,
+      "prior_variance": 0.243119,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_score": -1.472,
+      "prior_variance": 0.265622,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -5.1506,
+      "prior_variance": 0.310722,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_score": -8.333,
+      "prior_variance": 0.375358,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ballincollig",
+      "path": "europe/ireland/cork/ballincollig",
+      "prior_score": -3.0683,
+      "prior_variance": 0.256329,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_score": -4.2656,
+      "prior_variance": 0.389567,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Teahouses",
+      "path": "asia/china/shanghai/nightlifeentertainment/teahouses",
+      "prior_score": -7.6931,
+      "prior_variance": 0.607852,
+      "prior_n": 6
+    }
+  ]
+}

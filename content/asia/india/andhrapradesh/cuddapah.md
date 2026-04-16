@@ -5,6 +5,7 @@ latitude: 14.49566
 longitude: 78.834928
 title: Cuddapah
 type: location
+score: 0.29
 ---
 
 Cuddapah (officially Kadapa) is a mid-sized city in the Rayalaseema region of Andhra Pradesh, sitting on the banks of the Papagni River at the foot of the Nallamala Hills. The city is a trading hub for the surrounding district, which produces cotton, tobacco, and the distinctive Cuddapah limestone slabs used across south Indian construction.

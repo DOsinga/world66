@@ -1,0 +1,200 @@
+{
+  "round": 1544,
+  "timestamp": "2026-04-13T10:30:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Massachusetts",
+      "path": "northamerica/unitedstates/massachusetts",
+      "prior_score": -0.5709,
+      "prior_variance": 0.558354,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 4.0125,
+      "prior_variance": 0.47573,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/newcastle_upon_tyn",
+      "prior_score": 0.7983,
+      "prior_variance": 0.464265,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_score": 1.1659,
+      "prior_variance": 0.411054,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 1.3256,
+      "prior_variance": 0.67127,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_score": -0.5644,
+      "prior_variance": 0.202199,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_score": -2.5183,
+      "prior_variance": 0.346491,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -2.3982,
+      "prior_variance": 0.329803,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_score": -4.0751,
+      "prior_variance": 0.374047,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_score": -0.027,
+      "prior_variance": 0.375638,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.0825,
+      "prior_variance": 0.417109,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": 0.4492,
+      "prior_variance": 0.477931,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -1.2146,
+      "prior_variance": 0.32007,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Steccato",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": -2.0764,
+      "prior_variance": 0.350587,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -2.1643,
+      "prior_variance": 0.397032,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/bradford",
+      "prior_score": -2.9275,
+      "prior_variance": 0.353239,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "KARNATAKA",
+      "path": "asia/india/maharashtra/konkan/karnataka",
+      "prior_score": -4.5869,
+      "prior_variance": 0.467674,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -5.1967,
+      "prior_variance": 0.192076,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": 0.7436,
+      "prior_variance": 0.445506,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Maasin City",
+      "path": "asia/philippines/southern_leyte/maasin_city",
+      "prior_score": -1.7821,
+      "prior_variance": 0.496392,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -2.1307,
+      "prior_variance": 0.315043,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -2.6575,
+      "prior_variance": 0.420591,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_2",
+      "prior_score": -6.7445,
+      "prior_variance": 0.954745,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage",
+      "prior_score": -4.4336,
+      "prior_variance": 0.529444,
+      "prior_n": 4
+    }
+  ]
+}

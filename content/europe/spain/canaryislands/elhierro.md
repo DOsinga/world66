@@ -5,6 +5,7 @@ latitude: 27.743508
 longitude: -18.03818
 title: El Hierro
 type: location
+score: 0.56
 ---
 
 El Hierro is the smallest and most remote of the Canary Islands, and for centuries it marked the western edge of the known world — the prime meridian ran through its Faro de Orchilla lighthouse until 1884. That sense of being at the end of things persists. There are no large resorts, no beach strips, and very few tourists. The island runs almost entirely on renewable energy and has been designated a UNESCO Biosphere Reserve.

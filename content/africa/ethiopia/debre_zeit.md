@@ -5,6 +5,7 @@ latitude: 8.75
 longitude: 38.9817
 title: Debre Zeit
 type: location
+score: 0.38
 ---
 
 Debre Zeit sits 47 kilometres south of [Addis Ababa](/africa/ethiopia/addis_abeba), close enough for a day trip but rewarding enough to deserve a night or two. The town itself is unremarkable, but its setting is not: a cluster of crater lakes fills ancient volcanic calderas on the edge of the Rift Valley escarpment, and the landscape around them is wooded and calm.

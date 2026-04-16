@@ -1,0 +1,200 @@
+{
+  "round": 749,
+  "timestamp": "2026-04-12T10:46:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cote d'Azur",
+      "path": "europe/france/midi/cotedazur",
+      "prior_mu": 31.169,
+      "prior_sigma": 4.9191,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_mu": 25.1565,
+      "prior_sigma": 5.0857,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_mu": 23.0366,
+      "prior_sigma": 5.6023,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_mu": 22.1476,
+      "prior_sigma": 4.7351,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_mu": 21.6091,
+      "prior_sigma": 3.6851,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_mu": 18.9659,
+      "prior_sigma": 5.0643,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mito",
+      "path": "asia/japan/mito",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_mu": 22.3554,
+      "prior_sigma": 5.7227,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_mu": 21.6178,
+      "prior_sigma": 4.4689,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_mu": 22.36,
+      "prior_sigma": 5.6824,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_mu": 21.5792,
+      "prior_sigma": 4.3711,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_mu": 21.5358,
+      "prior_sigma": 4.8236,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_mu": 22.138,
+      "prior_sigma": 5.9286,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Practical Information",
+      "path": "asia/cyprus/nicosia/practical_informat_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_mu": 21.798,
+      "prior_sigma": 4.5105,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_mu": 22.3933,
+      "prior_sigma": 5.7452,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_mu": 21.9927,
+      "prior_sigma": 5.573,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_mu": 17.9961,
+      "prior_sigma": 6.4646,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ramanathapuram",
+      "path": "asia/india/tamilnadu/ramanathapuram",
+      "prior_mu": 20.5382,
+      "prior_sigma": 3.4402,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/moseley",
+      "prior_mu": 22.1716,
+      "prior_sigma": 5.5079,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_mu": 22.5078,
+      "prior_sigma": 5.6433,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

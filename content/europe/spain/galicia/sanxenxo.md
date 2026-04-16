@@ -1,8 +1,9 @@
 ---
-title: "Sanxenxo"
+title: Sanxenxo
 type: location
 latitude: 42.400356
 longitude: -8.806595
+score: 0.55
 ---
 
 Travel Guide

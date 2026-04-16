@@ -5,6 +5,7 @@ latitude: 60.4087
 longitude: 17.8794
 title: Lövstabruk
 type: location
+score: 0.4
 ---
 
 Lövstabruk (also written Leufsta bruk) is a former ironworks village in northern Uppland, about 150 kilometres north of Stockholm. Once one of the most important iron-producing sites in the world, it is now a remarkably well-preserved example of Sweden's industrial heritage — part open-air museum, part living village.

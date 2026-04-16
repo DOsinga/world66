@@ -5,6 +5,7 @@ latitude: 34.2439
 longitude: -116.9114
 title: Big Bear Lake
 type: location
+score: 0.54
 ---
 
 Big Bear Lake is a mountain resort town in the San Bernardino National Forest, about two hours east of Los Angeles. At 2,060 metres elevation, it is the closest thing Southern California has to a proper four-season mountain destination — snow in winter, warm dry summers, and autumn colour from the surrounding pines and oaks.

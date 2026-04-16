@@ -5,6 +5,7 @@ latitude: 46.185115
 longitude: 6.835676
 title: Les Crosets
 type: location
+score: 0.5
 ---
 
 Les Crosets is a small ski village in the Portes du Soleil, the vast cross-border ski area that links the Swiss and French Alps. Sitting at about 1,670 metres in the Val-d'Illiez, it offers direct access to over 600 kilometres of linked pistes stretching from Switzerland into France.

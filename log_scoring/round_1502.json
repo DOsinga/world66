@@ -1,0 +1,200 @@
+{
+  "round": 1502,
+  "timestamp": "2026-04-13T10:26:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beverly Hills",
+      "path": "northamerica/unitedstates/california/losangeles/beverlyhills",
+      "prior_score": 2.2234,
+      "prior_variance": 0.451024,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Guam",
+      "path": "australiaandpacific/guam",
+      "prior_score": 0.8104,
+      "prior_variance": 0.575041,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_score": 1.8863,
+      "prior_variance": 0.303226,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 1.3267,
+      "prior_variance": 0.427764,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.12,
+      "prior_variance": 0.350999,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 2.2271,
+      "prior_variance": 0.361107,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": 0.4448,
+      "prior_variance": 0.407141,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 1.284,
+      "prior_variance": 0.506232,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -1.3012,
+      "prior_variance": 0.497569,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hillcrest",
+      "path": "northamerica/unitedstates/california/sandiego/hillcrest",
+      "prior_score": 0.2687,
+      "prior_variance": 0.493775,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.8291,
+      "prior_variance": 0.423238,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Chaguaramas",
+      "path": "northamerica/trinidadandtobago/chaguaramas",
+      "prior_score": -0.4259,
+      "prior_variance": 0.32292,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": 0.4513,
+      "prior_variance": 0.415339,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_score": -2.5996,
+      "prior_variance": 0.418859,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -2.1218,
+      "prior_variance": 0.44004,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_score": -0.1287,
+      "prior_variance": 0.366978,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_score": 0.5159,
+      "prior_variance": 0.472637,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.9288,
+      "prior_variance": 0.603984,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -4.1241,
+      "prior_variance": 0.518313,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.4774,
+      "prior_variance": 0.386515,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -0.3306,
+      "prior_variance": 0.357516,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.1189,
+      "prior_variance": 0.392932,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -1.042,
+      "prior_variance": 0.460877,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -2.2533,
+      "prior_variance": 0.679812,
+      "prior_n": 3
+    }
+  ]
+}

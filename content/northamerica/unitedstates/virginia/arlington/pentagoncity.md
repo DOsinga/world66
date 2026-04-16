@@ -5,6 +5,7 @@ latitude: 38.863
 longitude: -77.0594
 title: Pentagon City
 type: location
+score: 0.35
 ---
 
 Pentagon City is a dense urban neighborhood in South Arlington, built around the Pentagon City Metro station on the Blue and Yellow lines. It is the most vertically developed part of Arlington, with high-rise apartments and office towers rising above an interconnected network of shops and restaurants.

@@ -1,0 +1,200 @@
+{
+  "round": 790,
+  "timestamp": "2026-04-12T10:48:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_mu": 22.684,
+      "prior_sigma": 5.6938,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_mu": 22.5004,
+      "prior_sigma": 5.5105,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_mu": 22.5805,
+      "prior_sigma": 5.9184,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_mu": 21.8808,
+      "prior_sigma": 4.5302,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Wharfedale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
+      "prior_mu": 22.148,
+      "prior_sigma": 4.6284,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/ledbury",
+      "prior_mu": 21.6133,
+      "prior_sigma": 4.3077,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Georgia",
+      "path": "northamerica/unitedstates/georgia",
+      "prior_mu": 21.8003,
+      "prior_sigma": 3.7824,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Guam",
+      "path": "australiaandpacific/guam",
+      "prior_mu": 22.8027,
+      "prior_sigma": 5.3619,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_mu": 22.4597,
+      "prior_sigma": 5.6853,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_mu": 21.5166,
+      "prior_sigma": 4.5968,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_mu": 21.2033,
+      "prior_sigma": 3.8796,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gold Country",
+      "path": "northamerica/unitedstates/california/goldcountry",
+      "prior_mu": 20.7868,
+      "prior_sigma": 2.6722,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_mu": 20.6216,
+      "prior_sigma": 2.8391,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Paraguay",
+      "path": "southamerica/paraguay",
+      "prior_mu": 20.6475,
+      "prior_sigma": 3.2203,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_mu": 21.9754,
+      "prior_sigma": 5.7118,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_mu": 22.6087,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_mu": 22.7662,
+      "prior_sigma": 5.5503,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lismore",
+      "path": "australiaandpacific/australia/newsouthwales/lismore",
+      "prior_mu": 22.5737,
+      "prior_sigma": 5.9453,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/yucatan/chiautempan",
+      "prior_mu": 22.4142,
+      "prior_sigma": 5.9489,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_mu": 20.6627,
+      "prior_sigma": 4.2016,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_mu": 22.2969,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "World",
+      "path": "tmp",
+      "prior_mu": 17.2624,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    }
+  ]
+}

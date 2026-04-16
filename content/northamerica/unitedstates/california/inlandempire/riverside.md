@@ -5,6 +5,7 @@ latitude: 33.982495
 longitude: -117.374238
 done:
   location_cleanup: 2026-04-05
+score: 0.35
 ---
 
 Riverside is the birthplace of California's citrus industry and the cultural heart of the Inland Empire. The city's crown jewel is the Mission Inn, a sprawling Mission Revival and Spanish Colonial masterpiece filled with alcoves, wooden beams, stained glass, and antiques. Even if you do not stay the night, walk through the public areas and have a meal.

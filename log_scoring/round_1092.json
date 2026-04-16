@@ -1,0 +1,200 @@
+{
+  "round": 1092,
+  "timestamp": "2026-04-12T22:08:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_rank": 7718,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_rank": 7683,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_rank": 7038,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/massachusetts/burlington",
+      "prior_rank": 7608,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_rank": 7547,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Resita",
+      "path": "europe/romania/resita",
+      "prior_rank": 7594,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/goole",
+      "prior_rank": 7894,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_rank": 7728,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_rank": 7580,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_rank": 7425,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_rank": 7879,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_rank": 7519,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_rank": 7163,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Togo",
+      "path": "africa/togo",
+      "prior_rank": 8105,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_rank": 7674,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_rank": 7910,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "oras",
+      "path": "asia/india/maharashtra/oras",
+      "prior_rank": 7564,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_rank": 4321,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "bagh azad kashmir",
+      "path": "asia/pakistan/azad_kashmir/bagh/bagh_azad_kashmir",
+      "prior_rank": 5171,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_rank": 7753,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_rank": 7912,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_rank": 6703,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Runyanjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_rank": 7405,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_rank": 7095,
+      "prior_wins": 6,
+      "prior_n": 2
+    }
+  ]
+}

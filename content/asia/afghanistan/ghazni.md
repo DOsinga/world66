@@ -5,6 +5,7 @@ latitude: 33.544897
 longitude: 68.413211
 title: Ghazni
 type: location
+score: 0.18
 ---
 
 Conveniently close to [Kabul](/asia/afghanistan/kabul), Ghazni was once the capital of a vast empire. In the 11th century, Sultan Mahmud of Ghazni launched raids as far as Delhi and brought back the spoils to build a court that attracted the finest poets, musicians and scientists in the region. The city was one of the great cultural centers of the Islamic world.

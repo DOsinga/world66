@@ -5,6 +5,11 @@ latitude: -15.122446
 longitude: -147.546209
 title: Rangiroa
 type: location
+score: 0.76
+image: rangiroa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rangiroa,_Tuamotus.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Olivier Bruchez
 ---
 
 Rangiroa is one of the largest atolls in the world — a thin necklace of coral islets enclosing a turquoise lagoon so vast it has its own weather. The inhabited strip runs about 10 km along the northern rim; everywhere else is open water, reef, and sky. There are no mountains, no rivers, no traffic lights. Just coral, coconut trees, and the Pacific.

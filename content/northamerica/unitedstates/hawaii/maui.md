@@ -5,6 +5,11 @@ latitude: 20.802957
 longitude: -156.310683
 done:
   location_cleanup: 2026-04-05
+score: 0.83
+image: maui.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Maui_-_Observatory_2.jpg
+image_license: CC BY-SA 2.0
+image_attribution: B.D.'s world
 ---
 
 Maui is the second-largest of the Hawaiian islands and, for many travellers, the most rewarding. It is less crowded than **Oʻahu**, more developed than **Kauaʻi** and the **Big Island**, and has a near-perfect mix of beaches, mountains, and small seaside towns. The island's motto — **"Maui Nō Ka ʻOi"**, *Maui is the Best* — is not especially modest, and locals will happily tell you it is justified.

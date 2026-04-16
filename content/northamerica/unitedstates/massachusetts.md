@@ -5,6 +5,7 @@ latitude: 42.4072
 longitude: -71.3824
 title: Massachusetts
 type: location
+score: 0.49
 ---
 
 Massachusetts packs an outsized amount of American history, natural beauty, and cultural life into a small state. The Pilgrims landed at [Plymouth](/northamerica/unitedstates/massachusetts/plymouth) in 1620, the American Revolution started in [Lexington](/northamerica/unitedstates/massachusetts/lexington) and [Concord](/northamerica/unitedstates/massachusetts/concord), and [Boston](/northamerica/unitedstates/massachusetts/boston) remains one of the most historically rich cities in the country.

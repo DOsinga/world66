@@ -5,6 +5,7 @@ latitude: 48.741701
 longitude: -123.626404
 title: Cowichan Bay
 type: location
+score: 0.48
 ---
 
 Cowichan Bay is a small working village on the eastern shore of Vancouver Island, about 45 minutes south of Victoria. It sits at the mouth of the Cowichan River, with a jumble of boats, seafood shacks, and heritage buildings perched on pilings above the tidal flats.

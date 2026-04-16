@@ -1,0 +1,200 @@
+{
+  "round": 1869,
+  "timestamp": "2026-04-13T10:59:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iguazu Falls",
+      "path": "southamerica/argentina/iguazufalls",
+      "prior_score": 13.9825,
+      "prior_variance": 1.300352,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 7.5075,
+      "prior_variance": 0.345344,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/northland/cape_reinga",
+      "prior_score": 2.67,
+      "prior_variance": 0.334427,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Uruguay",
+      "path": "southamerica/uruguay",
+      "prior_score": 1.5903,
+      "prior_variance": 0.331578,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 4.3128,
+      "prior_variance": 0.2867,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_score": 3.8146,
+      "prior_variance": 0.339198,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_score": 1.4292,
+      "prior_variance": 0.292632,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kaga",
+      "path": "asia/japan/honshu/kaga",
+      "prior_score": 1.7956,
+      "prior_variance": 0.255863,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Gernika",
+      "path": "europe/spain/northernspain/guernika",
+      "prior_score": 2.1572,
+      "prior_variance": 0.313785,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 2.2837,
+      "prior_variance": 0.290341,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": -0.1778,
+      "prior_variance": 0.380045,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Skerries",
+      "path": "europe/ireland/dublin/skerries",
+      "prior_score": -0.1674,
+      "prior_variance": 0.27337,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": 1.3153,
+      "prior_variance": 0.280307,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -1.1712,
+      "prior_variance": 0.248734,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_score": 0.102,
+      "prior_variance": 0.269927,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -1.4664,
+      "prior_variance": 0.368796,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -2.2503,
+      "prior_variance": 0.35668,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_score": -1.2061,
+      "prior_variance": 0.299107,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Princes Town",
+      "path": "northamerica/trinidadandtobago/princestown",
+      "prior_score": -2.84,
+      "prior_variance": 0.301905,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -3.1384,
+      "prior_variance": 0.303799,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/preston",
+      "prior_score": -2.2298,
+      "prior_variance": 0.267897,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/ontario",
+      "prior_score": -5.5528,
+      "prior_variance": 0.432221,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -2.9767,
+      "prior_variance": 0.355471,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -4.1643,
+      "prior_variance": 0.539619,
+      "prior_n": 6
+    }
+  ]
+}

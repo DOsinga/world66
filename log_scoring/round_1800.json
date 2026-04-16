@@ -1,0 +1,200 @@
+{
+  "round": 1800,
+  "timestamp": "2026-04-13T10:52:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_score": 7.5771,
+      "prior_variance": 0.491662,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bohol",
+      "path": "asia/philippines/bohol",
+      "prior_score": 5.1032,
+      "prior_variance": 0.579127,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 4.5164,
+      "prior_variance": 0.345923,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_score": 3.9453,
+      "prior_variance": 0.337781,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bratislava",
+      "path": "europe/slovakia/bratislava",
+      "prior_score": 5.0302,
+      "prior_variance": 0.320709,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 3.243,
+      "prior_variance": 0.326303,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 3.1251,
+      "prior_variance": 0.298902,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 1.1318,
+      "prior_variance": 0.397198,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Turda",
+      "path": "europe/romania/transylvania/turda",
+      "prior_score": 0.4262,
+      "prior_variance": 0.359306,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/bude",
+      "prior_score": 1.7689,
+      "prior_variance": 0.280457,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -1.4462,
+      "prior_variance": 0.28789,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -1.5315,
+      "prior_variance": 0.30206,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_score": -1.5159,
+      "prior_variance": 0.192561,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -2.2123,
+      "prior_variance": 0.307734,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -2.8951,
+      "prior_variance": 0.341246,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Wisconsin Dells",
+      "path": "northamerica/unitedstates/wisconsin/wisconsindells",
+      "prior_score": 0.2641,
+      "prior_variance": 0.304518,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_score": -3.3539,
+      "prior_variance": 0.326523,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_score": -2.2255,
+      "prior_variance": 0.293884,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Fermoy",
+      "path": "europe/ireland/fermoy",
+      "prior_score": -1.8867,
+      "prior_variance": 0.388635,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Roeselare",
+      "path": "europe/belgium/roeselare",
+      "prior_score": -2.8742,
+      "prior_variance": 0.181282,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Orem",
+      "path": "northamerica/unitedstates/utah/orem",
+      "prior_score": -5.145,
+      "prior_variance": 0.364275,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -2.1046,
+      "prior_variance": 0.302621,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -4.4869,
+      "prior_variance": 0.385832,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bangladesh",
+      "path": "asia/bangladesh",
+      "prior_score": -5.6904,
+      "prior_variance": 0.487862,
+      "prior_n": 4
+    }
+  ]
+}

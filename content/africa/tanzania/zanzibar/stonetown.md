@@ -5,6 +5,7 @@ latitude: -6.162653
 longitude: 39.189655
 title: Stone Town
 type: location
+score: 0.72
 ---
 
 Stone Town is the old heart of [Zanzibar](/africa/tanzania/zanzibar) and one of the most atmospheric towns on the East African coast. Its labyrinth of narrow alleys, carved wooden doors, and coral-stone buildings reflects centuries of Swahili, Arab, Persian, Indian, and European influence — a UNESCO World Heritage Site since 2000.

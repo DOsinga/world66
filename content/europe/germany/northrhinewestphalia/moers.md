@@ -5,6 +5,7 @@ latitude: 51.4513
 longitude: 6.6284
 title: Moers
 type: location
+score: 0.39
 ---
 
 Moers is a town on the western edge of the Ruhr area in North Rhine-Westphalia, known primarily for its annual jazz festival. The Moers Festival, held every spring since 1972, is one of the most important festivals for improvised and experimental music in Europe, drawing musicians and audiences from around the world.

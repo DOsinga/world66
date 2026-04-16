@@ -5,6 +5,7 @@ latitude: -39.814126
 longitude: -73.245986
 title: Valdivia
 type: location
+score: 0.53
 ---
 
 Valdivia is a university city in Chile's Lake District, built where the Calle-Calle and Cruces rivers meet before flowing into the Pacific. The rivers define the city — the waterfront market is one of the best in Chile, and the resident colony of sea lions that camps beneath the fish stalls, barking for scraps, is one of the most entertaining urban wildlife spectacles in South America.

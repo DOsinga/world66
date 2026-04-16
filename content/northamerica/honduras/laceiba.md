@@ -5,6 +5,7 @@ latitude: 15.773
 longitude: -86.781
 title: La Ceiba
 type: location
+score: 0.43
 ---
 
 La Ceiba is Honduras's third-largest city, on the Caribbean coast at the base of the Cordillera Nombre de Dios mountains. It's primarily known as a transit hub — the main departure point for ferries to the Bay Islands of Roatán and Útila — but also has genuine character of its own.

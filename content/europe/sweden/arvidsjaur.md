@@ -5,6 +5,7 @@ latitude: 65.666667
 longitude: 19.25
 title: Arvidsjaur
 type: location
+score: 0.39
 ---
 
 Arvidsjaur sits deep in Swedish Lapland, roughly 800 kilometres north of Stockholm, and it gets cold here — genuinely, bracingly cold. That's partly the point. Winter temperatures regularly plunge to -20°C and below, which is why the town draws car manufacturers for cold-weather testing and why the frozen lake doubles as a test track each January.

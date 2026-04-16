@@ -1,0 +1,200 @@
+{
+  "round": 1388,
+  "timestamp": "2026-04-12T22:25:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_rank": 2579,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica1",
+      "prior_rank": 1080,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_rank": 4370,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Pasadena",
+      "path": "northamerica/unitedstates/california/losangeles/pasadena",
+      "prior_rank": 4040,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/weymouth",
+      "prior_rank": 2952,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_rank": 3629,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lithuania",
+      "path": "europe/lithuania",
+      "prior_rank": 2813,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_rank": 5377,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_rank": 2079,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_rank": 4628,
+      "prior_wins": 41,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_rank": 4112,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tajikistan",
+      "path": "asia/tajikistan",
+      "prior_rank": 1139,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_rank": 3811,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/otago/invercargill",
+      "prior_rank": 4882,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "North-West",
+      "path": "australiaandpacific/australia/tasmania/northwest",
+      "prior_rank": 3421,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_rank": 4128,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_rank": 7221,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_rank": 3355,
+      "prior_wins": 64,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_rank": 4876,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_rank": 3804,
+      "prior_wins": 48,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_rank": 4465,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_rank": 4710,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Campobello Island",
+      "path": "northamerica/canada/newbrunswick/campobello_island",
+      "prior_rank": 3462,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_rank": 4626,
+      "prior_wins": 31,
+      "prior_n": 3
+    }
+  ]
+}

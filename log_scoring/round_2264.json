@@ -1,0 +1,200 @@
+{
+  "round": 2264,
+  "timestamp": "2026-04-13T16:25:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_score": 3.8292,
+      "prior_variance": 0.248658,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 1.5214,
+      "prior_variance": 0.252197,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Palm island",
+      "path": "northamerica/saintvincentandthegrenadines/palmisland",
+      "prior_score": 2.365,
+      "prior_variance": 0.241798,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -1.5691,
+      "prior_variance": 0.262956,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_score": -0.4921,
+      "prior_variance": 0.269104,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -0.7977,
+      "prior_variance": 0.224831,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_score": 1.9334,
+      "prior_variance": 0.246867,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.1958,
+      "prior_variance": 0.188893,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Guadalteba",
+      "path": "europe/spain/andalucia/guadalteba",
+      "prior_score": -0.6114,
+      "prior_variance": 0.245634,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "ryder",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/ryder",
+      "prior_score": -1.5436,
+      "prior_variance": 0.607328,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_score": -1.2202,
+      "prior_variance": 0.206604,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.6867,
+      "prior_variance": 0.242465,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Giessen",
+      "path": "europe/germany/hesse/giessen",
+      "prior_score": -3.2112,
+      "prior_variance": 0.285483,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -3.687,
+      "prior_variance": 0.283014,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/tuxtepec",
+      "prior_score": -2.6578,
+      "prior_variance": 0.254662,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.3664,
+      "prior_variance": 0.195869,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Mungivacca",
+      "path": "europe/italy/puglia/bari/mungivacca",
+      "prior_score": -5.0839,
+      "prior_variance": 0.312557,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Schoenaich",
+      "path": "europe/germany/badenwrttemberg/schoenaich",
+      "prior_score": -5.1462,
+      "prior_variance": 0.276544,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hamden",
+      "path": "northamerica/unitedstates/connecticut/hamden",
+      "prior_score": -4.3758,
+      "prior_variance": 0.338474,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Holiday Inn Philadelphia-Cherry Hill",
+      "path": "northamerica/unitedstates/newjersey/holiday_inn_philad",
+      "prior_score": -7.893,
+      "prior_variance": 0.622963,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_score": -5.9954,
+      "prior_variance": 0.243369,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bogalusa",
+      "path": "northamerica/unitedstates/louisiana/bogalusa",
+      "prior_score": -6.8273,
+      "prior_variance": 0.352692,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bethel",
+      "path": "northamerica/unitedstates/alaska/bethel",
+      "prior_score": -6.1261,
+      "prior_variance": 0.322813,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -8.5234,
+      "prior_variance": 0.338403,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1069,
+  "timestamp": "2026-04-12T22:07:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Jersey",
+      "path": "northamerica/unitedstates/newjersey",
+      "prior_rank": 6436,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/jacksonville",
+      "prior_rank": 6612,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_rank": 7347,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Warwick",
+      "path": "northamerica/unitedstates/rhodeisland/warwick",
+      "prior_rank": 4697,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bedfordshire",
+      "path": "europe/unitedkingdom/england/bedfordshire",
+      "prior_rank": 6417,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_rank": 7332,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Brenham",
+      "path": "northamerica/unitedstates/texas/brenham",
+      "prior_rank": 5559,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Odder",
+      "path": "europe/denmark/odder",
+      "prior_rank": 5179,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ikast",
+      "path": "europe/denmark/ikast",
+      "prior_rank": 6227,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_rank": 6051,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sant Boi",
+      "path": "europe/spain/catalonia/santboi",
+      "prior_rank": 6052,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Karelia",
+      "path": "europe/russia/karelia",
+      "prior_rank": 4523,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gabon",
+      "path": "africa/gabon",
+      "prior_rank": 5433,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_rank": 6956,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Vengurle",
+      "path": "asia/india/maharashtra/konkan/vengurle",
+      "prior_rank": 6630,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_rank": 5975,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_rank": 6788,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_rank": 3840,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kutina",
+      "path": "europe/croatia/kutina",
+      "prior_rank": 8062,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "lonsdale",
+      "path": "australiaandpacific/australia/southaustralia/adelaide/lonsdale",
+      "prior_rank": 7639,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_rank": 3410,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Tighina",
+      "path": "europe/moldova/tighina",
+      "prior_rank": 7724,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_rank": 7103,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_rank": 5765,
+      "prior_wins": 15,
+      "prior_n": 2
+    }
+  ]
+}

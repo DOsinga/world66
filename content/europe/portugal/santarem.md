@@ -5,6 +5,7 @@ latitude: 39.2364
 longitude: -8.6867
 title: Santarém
 type: location
+score: 0.5
 ---
 
 Santarém sits on a bluff above the Tagus river in central [Portugal](/europe/portugal), about an hour's drive northeast of [Lisbon](/europe/portugal/lisbon). It was once one of the most important cities in the country — a Moorish stronghold taken by Afonso Henriques in 1147, and later a favoured residence of medieval Portuguese kings. The city still has a remarkable concentration of Gothic churches for its size.

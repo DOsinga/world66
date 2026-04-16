@@ -1,24 +1,17 @@
 ---
-title: "Orlando"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 28.542122
 longitude: -81.379045
+score: 0.62
+title: Orlando
+type: location
 ---
 
-Orlando is the super tourism capital of the world. A great climate more attractions than any other place, fantastic possibilities to go out at night, wonderful activities during daytime. A great place to go with your family.
+Orlando is the theme park capital of the world. Walt Disney World and Universal Orlando anchor a sprawling entertainment district south-west of the actual city, with SeaWorld, Gatorland, and a string of smaller attractions filling the gaps. On any given day there are more visitors inside the parks than there are residents of downtown Orlando.
 
+The parks are why most people come, and they are unapologetically vast — Disney World alone spans four major parks and two water parks, and it is easy to spend a week without leaving the gates. Universal runs a close second, with Islands of Adventure, Universal Studios, and the Wizarding World of Harry Potter built across two halves of a single franchise. International Drive, the main tourist corridor between them, is a long strip of hotels, dinner shows, outlet malls, and a hundred lesser attractions.
 
- Thema parks are mandatory for visitors to Orlando. Disney World is great, Disney's Animal Kingdom, its newest adventure park, is filled with the natural drama of life in the wild. Epcot is a two-part educational and cultural attraction designed to challenge the mind and satisfy the senses. Disney-MGM Studios allows visitors to see Disney animators creating wonderful characters and explains movie-making on an entertaining backlot tour. 
+Downtown Orlando is a different place altogether: a compact centre along Orange Avenue with bars, music venues, restaurants, and the lakes and oak-shaded neighbourhoods (Thornton Park, Winter Park, College Park, Mills 50) that give the city its local character. An hour east on the coast, the Kennedy Space Center is a reminder that Florida is also where people leave the planet.
 
-
- Universal Studios Florida shares the movie-making theme of Disney-MGM Studios, but attractions are presented quite differently here. At Universal, promoters say you can "ride the movies." Universal's newest park is Universal Studios Islands of Adventure. 
-
-
- Visitors to Orlando will want to explore natural attractions as well as fantastical ones, and SeaWorld is a wonderful place to start. 
-
-
- Dinner attractions are very popular in the Orlando area and also center around themes, whether of an era or an ethnicity. Medieval Times Dinner and Tournament in Kissimmee allows you to cheer a knight to victory. Disney's Pleasure Island celebrates New Year's Eve every night with laser lights and dancing in the streets. Church Street Station in downtown Orlando is a nighttime smorgasbord of activities and eateries, hosting a variety of different clubs and restaurants. Universal Studios CityWalk is a colossal 30-acre entertainment mecca, where themed restaurants, nightclubs, cinemas, live entertainment, and shopping abound.
-
-
- 
- Shopping areas in Orlando have as much variety as the local attractions. Souvenirs of your adventures, for both yourself and your friends back home are easy to find. Outlet centers and factory stores abound here and offer some of the best bargains in town. Shopping areas in Orlando and Kissimmee are also popular for their fun environments, such as at Pointe*Orlando, the Church Street Station Exchange, Disney Village Market Place or Old Town in Kissimmee.
+Orlando is hot. Summers are humid and thunder-heavy; the parks are brutal in July. Visit between November and April if you can.

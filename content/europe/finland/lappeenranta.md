@@ -5,6 +5,7 @@ latitude: 61.0587
 longitude: 28.1887
 title: Lappeenranta
 type: location
+score: 0.51
 ---
 
 Lappeenranta sits at the southwest corner of Lake Saimaa, Finland's largest lake, just 30 kilometres from the Russian border. For over 350 years it has been a crossing point between Finnish and Russian cultures, a garrison town guarding the eastern frontier. That history is still visible in the fortress on the lakeside hill, where 18th-century ramparts now house museums, craft workshops, and summer cafes.

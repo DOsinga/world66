@@ -1,0 +1,200 @@
+{
+  "round": 537,
+  "timestamp": "2026-04-12T10:36:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Venice Beach",
+      "path": "northamerica/unitedstates/california/venice_beach",
+      "prior_mu": 22.8884,
+      "prior_sigma": 5.7159,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
+      "prior_mu": 22.4836,
+      "prior_sigma": 5.9093,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_mu": 29.0515,
+      "prior_sigma": 7.0049,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_mu": 22.5867,
+      "prior_sigma": 5.9082,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_mu": 22.0933,
+      "prior_sigma": 4.6225,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_mu": 21.7767,
+      "prior_sigma": 4.6273,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_mu": 24.7427,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Lake Forest",
+      "path": "northamerica/unitedstates/california/highsierra/lakeforest",
+      "prior_mu": 22.5411,
+      "prior_sigma": 5.6942,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_mu": 21.5321,
+      "prior_sigma": 4.8392,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Clarkdale",
+      "path": "northamerica/unitedstates/arizona/clarkdale",
+      "prior_mu": 22.5937,
+      "prior_sigma": 5.7332,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_mu": 21.5722,
+      "prior_sigma": 3.8649,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_mu": 21.1622,
+      "prior_sigma": 4.7367,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/redding",
+      "prior_mu": 22.4782,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Elk City",
+      "path": "northamerica/unitedstates/oklahoma/elk_city",
+      "prior_mu": 21.3565,
+      "prior_sigma": 4.5016,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_mu": 20.7054,
+      "prior_sigma": 4.5909,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_mu": 20.6902,
+      "prior_sigma": 3.8633,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Quality Inn New Haven",
+      "path": "northamerica/unitedstates/connecticut/quality_inn_new_ha",
+      "prior_mu": 18.5772,
+      "prior_sigma": 5.1049,
+      "prior_n": 2
+    }
+  ]
+}

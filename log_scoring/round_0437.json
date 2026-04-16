@@ -1,0 +1,200 @@
+{
+  "round": 437,
+  "timestamp": "2026-04-12T09:30:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_mu": 22.8403,
+      "prior_sigma": 4.7845,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_mu": 22.7528,
+      "prior_sigma": 5.9395,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Isle Royale",
+      "path": "northamerica/unitedstates/michigan/isle_royale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_mu": 21.9013,
+      "prior_sigma": 3.0488,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_mu": 22.269,
+      "prior_sigma": 5.7675,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Alpine County",
+      "path": "northamerica/unitedstates/california/highsierra/alpinecounty",
+      "prior_mu": 22.1402,
+      "prior_sigma": 4.6427,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville_nort",
+      "prior_mu": 22.5611,
+      "prior_sigma": 5.9168,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/virginia/jamestown",
+      "prior_mu": 22.3179,
+      "prior_sigma": 5.866,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_mu": 21.5707,
+      "prior_sigma": 4.7201,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Littleton",
+      "path": "northamerica/unitedstates/newhampshire/littleton",
+      "prior_mu": 22.269,
+      "prior_sigma": 5.783,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Forestville",
+      "path": "northamerica/unitedstates/california/northcoast/forestville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_mu": 21.4285,
+      "prior_sigma": 4.5147,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_mu": 21.7119,
+      "prior_sigma": 5.6893,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_mu": 22.7731,
+      "prior_sigma": 5.7066,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/oakland",
+      "prior_mu": 22.2474,
+      "prior_sigma": 5.7803,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville_indian",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_mu": 22.4912,
+      "prior_sigma": 5.9091,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Urbana",
+      "path": "northamerica/unitedstates/ohio/urbana",
+      "prior_mu": 22.8408,
+      "prior_sigma": 5.6021,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Reedsville",
+      "path": "northamerica/unitedstates/westvirginia/reedsville",
+      "prior_mu": 14.0234,
+      "prior_sigma": 5.7324,
+      "prior_n": 2
+    }
+  ]
+}

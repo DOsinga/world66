@@ -1,0 +1,200 @@
+{
+  "round": 70,
+  "timestamp": "2026-04-12T08:02:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
+      "prior_mu": 31.55,
+      "prior_sigma": 4.99,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "The Cuillins",
+      "path": "europe/unitedkingdom/scotland/skye/thecuilins",
+      "prior_mu": 25.03,
+      "prior_sigma": 4.98,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_mu": 22.73,
+      "prior_sigma": 4.62,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_mu": 20.86,
+      "prior_sigma": 3.52,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_mu": 21.78,
+      "prior_sigma": 3.25,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_mu": 21.62,
+      "prior_sigma": 3.82,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_mu": 23.31,
+      "prior_sigma": 3.87,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_mu": 22.44,
+      "prior_sigma": 3.99,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_mu": 20.89,
+      "prior_sigma": 3.43,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_mu": 21.45,
+      "prior_sigma": 3.48,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_mu": 21.45,
+      "prior_sigma": 4.43,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_notting/ashbourne",
+      "prior_mu": 21.73,
+      "prior_sigma": 4.36,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_mu": 21.31,
+      "prior_sigma": 4.09,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Saskatchewan",
+      "path": "northamerica/canada/saskatchewan",
+      "prior_mu": 21.19,
+      "prior_sigma": 4.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_mu": 21.79,
+      "prior_sigma": 4.81,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_mu": 20.39,
+      "prior_sigma": 3.33,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_mu": 20.76,
+      "prior_sigma": 3.76,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_mu": 18.04,
+      "prior_sigma": 4.1,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_mu": 21.2,
+      "prior_sigma": 4.35,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_mu": 20.2,
+      "prior_sigma": 3.59,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Orpington",
+      "path": "europe/unitedkingdom/england/orpington",
+      "prior_mu": 19.05,
+      "prior_sigma": 4.9,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_mu": 19.16,
+      "prior_sigma": 4.16,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pakpattan",
+      "path": "asia/pakistan/pakpattan",
+      "prior_mu": 19.94,
+      "prior_sigma": 3.71,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Jhook Masoo",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/jhook_masoo",
+      "prior_mu": 11.62,
+      "prior_sigma": 5.37,
+      "prior_n": 2
+    }
+  ]
+}

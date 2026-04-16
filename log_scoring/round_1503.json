@@ -1,0 +1,200 @@
+{
+  "round": 1503,
+  "timestamp": "2026-04-13T10:26:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 8.3799,
+      "prior_variance": 0.40695,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 7.2482,
+      "prior_variance": 0.594574,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "San Juan",
+      "path": "northamerica/puertorico/sanjuan",
+      "prior_score": 5.9728,
+      "prior_variance": 0.468726,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tohoku",
+      "path": "asia/japan/tohoku",
+      "prior_score": 4.6774,
+      "prior_variance": 0.435268,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_par",
+      "prior_score": 4.9433,
+      "prior_variance": 0.348687,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_score": 5.0311,
+      "prior_variance": 0.477045,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_score": 6.8266,
+      "prior_variance": 0.46481,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_score": 4.4448,
+      "prior_variance": 0.442318,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_score": 6.086,
+      "prior_variance": 0.456483,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 6.4018,
+      "prior_variance": 0.539622,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "San Marino",
+      "path": "europe/sanmarino",
+      "prior_score": 5.465,
+      "prior_variance": 0.460126,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 5.9723,
+      "prior_variance": 0.486517,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/italianriviera/tigullio",
+      "prior_score": 5.0268,
+      "prior_variance": 0.573899,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.665,
+      "prior_variance": 0.45133,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Budva",
+      "path": "europe/serbiaandmontenegro/budva",
+      "prior_score": 4.512,
+      "prior_variance": 0.483111,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_score": 4.283,
+      "prior_variance": 0.423663,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Costa Blanca",
+      "path": "europe/spain/costa_blanca",
+      "prior_score": 5.4684,
+      "prior_variance": 0.409388,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 5.8907,
+      "prior_variance": 0.437163,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 4.5058,
+      "prior_variance": 0.621111,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 4.3775,
+      "prior_variance": 0.463392,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": 4.893,
+      "prior_variance": 0.496414,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_score": 3.9126,
+      "prior_variance": 0.461819,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Santo Ant\u00e3o",
+      "path": "africa/capeverde/santo_antao",
+      "prior_score": 3.5265,
+      "prior_variance": 0.43972,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Teresopolis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.3681,
+      "prior_variance": 0.468717,
+      "prior_n": 3
+    }
+  ]
+}

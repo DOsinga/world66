@@ -5,6 +5,7 @@ latitude: 27.1536
 longitude: -13.2033
 title: Laayoune
 type: location
+score: 0.32
 ---
 
 Laayoune (El Aaiún) is the largest city in Western Sahara, with over 200,000 inhabitants and the de facto administrative capital of the Moroccan-controlled territory. It is an unusual place — a city that has seen rapid growth since Morocco took control of the region after the Green March of 1975, and where Moroccan soldiers, UN employees, Sahrawi locals, and Moroccan immigrants looking for work have all come together.

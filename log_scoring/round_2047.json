@@ -1,0 +1,200 @@
+{
+  "round": 2047,
+  "timestamp": "2026-04-13T16:05:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 5.7877,
+      "prior_variance": 0.286893,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_score": 3.1396,
+      "prior_variance": 0.322617,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_score": 6.012,
+      "prior_variance": 0.305304,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": 0.4496,
+      "prior_variance": 0.24409,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "island park",
+      "path": "northamerica/unitedstates/idaho/island_park",
+      "prior_score": -2.3689,
+      "prior_variance": 0.25987,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": 0.6607,
+      "prior_variance": 0.243621,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Seaside Heights",
+      "path": "northamerica/unitedstates/newjersey/seaside_heights",
+      "prior_score": -2.0441,
+      "prior_variance": 0.250081,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Hotels near Harne Beach",
+      "path": "asia/india/maharashtra/konkan/hotels_near_harne",
+      "prior_score": -2.9967,
+      "prior_variance": 0.262178,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -2.4993,
+      "prior_variance": 0.309689,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_score": -1.728,
+      "prior_variance": 0.28774,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Eckernf?rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_score": -2.4767,
+      "prior_variance": 0.407356,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -2.9227,
+      "prior_variance": 0.280963,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Poughkeepsie",
+      "path": "northamerica/unitedstates/newyorkstate/poughkeepsie",
+      "prior_score": -2.9216,
+      "prior_variance": 0.335694,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -1.855,
+      "prior_variance": 0.257213,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_score": -3.4415,
+      "prior_variance": 0.232773,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/chesterfield",
+      "prior_score": -2.637,
+      "prior_variance": 0.314737,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Bochum",
+      "path": "europe/germany/bochum",
+      "prior_score": -2.664,
+      "prior_variance": 0.25305,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -3.9438,
+      "prior_variance": 0.241878,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_score": -3.1261,
+      "prior_variance": 0.301533,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_score": -3.2299,
+      "prior_variance": 0.280716,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -5.9198,
+      "prior_variance": 0.349354,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Brockton",
+      "path": "northamerica/unitedstates/massachusetts/brockton",
+      "prior_score": -5.5627,
+      "prior_variance": 0.312967,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_score": -8.0566,
+      "prior_variance": 0.237852,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "gh",
+      "path": "asia/pakistan/gujrat/gh",
+      "prior_score": -14.3768,
+      "prior_variance": 0.700989,
+      "prior_n": 6
+    }
+  ]
+}

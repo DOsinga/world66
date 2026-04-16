@@ -1,0 +1,200 @@
+{
+  "round": 2133,
+  "timestamp": "2026-04-13T16:13:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pyrenees",
+      "path": "europe/france/midi/pyrenees",
+      "prior_score": 6.3259,
+      "prior_variance": 0.266704,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_score": 5.2557,
+      "prior_variance": 0.358752,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 3.8749,
+      "prior_variance": 0.262305,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra_vall",
+      "prior_score": 2.9374,
+      "prior_variance": 0.28553,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_score": 3.6215,
+      "prior_variance": 0.276974,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.2278,
+      "prior_variance": 0.302828,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_score": 3.6227,
+      "prior_variance": 0.200663,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": -0.199,
+      "prior_variance": 0.338971,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_is",
+      "prior_score": 2.1579,
+      "prior_variance": 0.216209,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 1.443,
+      "prior_variance": 0.254106,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 3.8684,
+      "prior_variance": 0.333946,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 2.4693,
+      "prior_variance": 0.322633,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 1.2897,
+      "prior_variance": 0.210117,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_score": -1.366,
+      "prior_variance": 0.236995,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 0.7426,
+      "prior_variance": 0.274001,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Maharashtra",
+      "path": "asia/india/maharashtra",
+      "prior_score": -0.1743,
+      "prior_variance": 0.257454,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_score": -4.4879,
+      "prior_variance": 0.290243,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_score": -4.5719,
+      "prior_variance": 0.286301,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_score": -5.3401,
+      "prior_variance": 0.273976,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -4.93,
+      "prior_variance": 0.282676,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -5.666,
+      "prior_variance": 0.415002,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Webuye",
+      "path": "africa/kenya/westernkenya/webuye",
+      "prior_score": -5.6042,
+      "prior_variance": 0.249195,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -6.3417,
+      "prior_variance": 0.313712,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2",
+      "prior_score": -12.4733,
+      "prior_variance": 0.694481,
+      "prior_n": 6
+    }
+  ]
+}

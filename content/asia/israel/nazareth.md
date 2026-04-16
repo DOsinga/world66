@@ -5,6 +5,7 @@ latitude: 32.7046
 longitude: 35.2972
 title: Nazareth
 type: location
+score: 0.55
 ---
 
 Nazareth is the largest Arab city in [Israel](/asia/israel), home to around 80,000 people — mostly Muslim and Christian — and one of the most important pilgrimage sites in Christianity. The Basilica of the Annunciation, a striking 1960s church built over the grotto where the angel Gabriel is said to have appeared to Mary, dominates the old town. Beneath it lie the remains of earlier churches going back to the Byzantine period.

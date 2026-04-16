@@ -1,8 +1,13 @@
 ---
-title: "Boracay"
+title: Boracay
 type: location
 latitude: 11.969369
 longitude: 121.922734
+score: 0.75
+image: boracay.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Boracay_Island,_Philippines_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: Alexey Komarov
 ---
 
 Travel Guide

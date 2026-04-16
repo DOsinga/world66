@@ -1,0 +1,200 @@
+{
+  "round": 977,
+  "timestamp": "2026-04-12T22:02:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_rank": 7660,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Paterna",
+      "path": "europe/spain/spanishcostas/paterna",
+      "prior_rank": 7653,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_rank": 6783,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_rank": 6834,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_rank": 7627,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_rank": 8090,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_rank": 8081,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_rank": 7651,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_rank": 8197,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_rank": 7966,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Bogalusa",
+      "path": "northamerica/unitedstates/louisiana/bogalusa",
+      "prior_rank": 8189,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_rank": 7686,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_rank": 8163,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Fort Bend County",
+      "path": "northamerica/unitedstates/texas/houston/fortbendcounty",
+      "prior_rank": 7666,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_rank": 7263,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Abbotsford",
+      "path": "northamerica/unitedstates/wisconsin/abbotsford",
+      "prior_rank": 7195,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Reedsville",
+      "path": "northamerica/unitedstates/westvirginia/reedsville",
+      "prior_rank": 7922,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_rank": 8006,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/haiti/petite_riviere_de",
+      "prior_rank": 7774,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_rank": 8187,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_rank": 8063,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_rank": 7899,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Beautyful village",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/beautyful_village",
+      "prior_rank": 8165,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hindunetion",
+      "path": "northamerica/guatemala/language/hindunetion",
+      "prior_rank": 8174,
+      "prior_wins": 1,
+      "prior_n": 2
+    }
+  ]
+}

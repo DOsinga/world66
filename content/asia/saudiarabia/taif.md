@@ -5,6 +5,7 @@ latitude: 21.27028
 longitude: 40.415831
 title: Ta’if
 type: location
+score: 0.43
 ---
 
 Ta’if sits at around 1,800 metres in the Hejaz mountains above [Mecca](/asia/saudiarabia/mecca), and the altitude makes it one of the most pleasant places in the country during the brutal summer months. Temperatures here in July average around 30°C when much of the country is over 40°C. Saudi royalty and government used to relocate here in summer, and the city still has a prosperous, settled feeling.

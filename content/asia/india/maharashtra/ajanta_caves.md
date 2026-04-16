@@ -5,6 +5,7 @@ latitude: 20.5525
 longitude: 75.6995
 title: Ajanta Caves
 type: location
+score: 0.68
 ---
 
 Cut into a horseshoe-shaped cliff above the Waghora river, the Ajanta Caves are one of the greatest artistic achievements of the ancient world. The 30 rock-cut Buddhist sanctuaries date from around the 2nd century BCE to the 6th century CE, and contain extraordinarily well-preserved paintings and sculptures that document the evolution of Buddhist art across seven centuries. The site was abandoned around 650 CE and lay forgotten under jungle until a British officer stumbled across it in 1819 — which is why so much survives intact. UNESCO listed Ajanta as a World Heritage Site in 1983.

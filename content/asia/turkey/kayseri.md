@@ -5,6 +5,7 @@ latitude: 38.721901
 longitude: 35.487321
 title: Kayseri
 type: location
+score: 0.5
 ---
 
 Kayseri is a prosperous, conservative Anatolian city of over a million people, spread at the foot of the extinct volcano Mount Erciyes (3,917 metres). It is one of Turkey's oldest continuously inhabited cities — the ancient Caesarea of Cappadocia — and today serves as the main gateway to the Cappadocia region's famous fairy chimneys, cave churches, and underground cities.

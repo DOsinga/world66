@@ -1,0 +1,200 @@
+{
+  "round": 918,
+  "timestamp": "2026-04-12T14:49:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 14.1747,
+      "prior_variance": 7.611072,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_m",
+      "prior_score": 14.3875,
+      "prior_variance": 7.566172,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 9.3225,
+      "prior_variance": 3.015752,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bridgetown",
+      "path": "northamerica/barbados/bridgetown",
+      "prior_score": 5.707,
+      "prior_variance": 1.555128,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 9.2744,
+      "prior_variance": 1.609181,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 11.4496,
+      "prior_variance": 2.695342,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 2.5287,
+      "prior_variance": 0.482034,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 1.9144,
+      "prior_variance": 1.362587,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_score": 2.2072,
+      "prior_variance": 1.28879,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 3.8117,
+      "prior_variance": 1.317812,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "St. Johann",
+      "path": "europe/austria/stjohann",
+      "prior_score": 2.1037,
+      "prior_variance": 1.319365,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -1.8019,
+      "prior_variance": 3.495261,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": -0.1084,
+      "prior_variance": 1.913976,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ver\u00edn",
+      "path": "europe/spain/galicia/vern",
+      "prior_score": -0.0659,
+      "prior_variance": 0.94965,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Missouri",
+      "path": "northamerica/unitedstates/missouri",
+      "prior_score": -4.4565,
+      "prior_variance": 1.437046,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_score": -6.458,
+      "prior_variance": 1.277031,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": -3.2699,
+      "prior_variance": 1.271452,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -4.9702,
+      "prior_variance": 1.202129,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -2.4514,
+      "prior_variance": 1.260437,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": 0.0172,
+      "prior_variance": 0.758494,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_score": -6.0047,
+      "prior_variance": 1.280964,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -10.0849,
+      "prior_variance": 1.232695,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -5.664,
+      "prior_variance": 1.283511,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -10.1561,
+      "prior_variance": 9.288689,
+      "prior_n": 1
+    }
+  ]
+}

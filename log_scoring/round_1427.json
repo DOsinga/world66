@@ -1,0 +1,200 @@
+{
+  "round": 1427,
+  "timestamp": "2026-04-12T22:27:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Australia",
+      "path": "australiaandpacific/australia/southaustralia",
+      "prior_rank": 2773,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/virginia",
+      "prior_rank": 1814,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Golan Heights",
+      "path": "asia/israel/golanheights",
+      "prior_rank": 5644,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Big pine key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_rank": 3070,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_rank": 5923,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_rank": 2702,
+      "prior_wins": 84,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_rank": 4022,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_rank": 5063,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_rank": 7207,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_rank": 4327,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Central Spain",
+      "path": "europe/spain/centralspain",
+      "prior_rank": 6034,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_rank": 4714,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_rank": 5271,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_rank": 3983,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_rank": 3566,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_rank": 2929,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_rank": 4940,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_rank": 4012,
+      "prior_wins": 69,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_rank": 3455,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_rank": 3225,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "kolhapur",
+      "path": "asia/india/maharashtra/konkan/kolhapur",
+      "prior_rank": 4508,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_rank": 4699,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_rank": 4575,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Canyon",
+      "path": "northamerica/unitedstates/texas/amarillo/canyon",
+      "prior_rank": 3074,
+      "prior_wins": 40,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 318,
+  "timestamp": "2026-04-12T09:11:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "1",
+      "path": "europe/france/val_disere/1_3",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_mu": 22.8103,
+      "prior_sigma": 5.9488,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_da",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Hillerod",
+      "path": "europe/denmark/hillerod",
+      "prior_mu": 22.5437,
+      "prior_sigma": 5.9156,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_mu": 22.7173,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Shenandoah",
+      "path": "northamerica/unitedstates/virginia/shenandoah",
+      "prior_mu": 22.5318,
+      "prior_sigma": 4.9056,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Alabama",
+      "path": "northamerica/unitedstates/alabama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_mu": 19.7585,
+      "prior_sigma": 2.8645,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Hillsborough",
+      "path": "northamerica/saintvincentandthegrenadines/hillsborough",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Buckeye",
+      "path": "northamerica/unitedstates/arizona/buckeye",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/newyorkstate/middletown",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Pirules",
+      "path": "northamerica/mexico/pirules",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Dkhila",
+      "path": "africa/tunisia/dkhila",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "dera ghazi khan",
+      "path": "asia/pakistan/dera_ghazi_khan/dera_ghazi_khan_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

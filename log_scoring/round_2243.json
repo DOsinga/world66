@@ -1,0 +1,200 @@
+{
+  "round": 2243,
+  "timestamp": "2026-04-13T16:23:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 6.8872,
+      "prior_variance": 0.258696,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 4.5359,
+      "prior_variance": 0.223219,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ueno",
+      "path": "asia/japan/tokyo/ueno",
+      "prior_score": 7.145,
+      "prior_variance": 0.24212,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 1.0746,
+      "prior_variance": 0.234416,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.3438,
+      "prior_variance": 0.255001,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.6485,
+      "prior_variance": 0.212904,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 2.894,
+      "prior_variance": 0.239825,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.)",
+      "path": "europe/italy/calabria/hilltowns_of_the",
+      "prior_score": -0.0369,
+      "prior_variance": 0.199951,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -1.0478,
+      "prior_variance": 0.228785,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/ledbury",
+      "prior_score": 0.5266,
+      "prior_variance": 0.242098,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_score": -1.4796,
+      "prior_variance": 0.175305,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.2713,
+      "prior_variance": 0.220043,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_score": -0.8053,
+      "prior_variance": 0.266823,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Wolfenbuettel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": -1.8134,
+      "prior_variance": 0.221841,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Pennsylvania",
+      "path": "northamerica/unitedstates/pennsylvania",
+      "prior_score": 0.1916,
+      "prior_variance": 0.223576,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Idaho",
+      "path": "northamerica/unitedstates/idaho",
+      "prior_score": -0.5388,
+      "prior_variance": 0.244455,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -4.4439,
+      "prior_variance": 0.314222,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -3.123,
+      "prior_variance": 0.251701,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Keratsini",
+      "path": "europe/greece/keratsini",
+      "prior_score": -3.4448,
+      "prior_variance": 0.299062,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_score": -1.5409,
+      "prior_variance": 0.221826,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "MAIRA",
+      "path": "asia/pakistan/abbottabad/maira",
+      "prior_score": -7.041,
+      "prior_variance": 0.398763,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -3.5397,
+      "prior_variance": 0.303885,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -6.8861,
+      "prior_variance": 0.475008,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "e",
+      "path": "northamerica/unitedstates/colorado/e",
+      "prior_score": -7.3335,
+      "prior_variance": 0.491264,
+      "prior_n": 5
+    }
+  ]
+}

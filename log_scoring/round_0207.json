@@ -1,0 +1,200 @@
+{
+  "round": 207,
+  "timestamp": "2026-04-12T09:06:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Crete",
+      "path": "europe/greece/crete",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Rajasthan",
+      "path": "asia/india/rajasthan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Aix en Provence",
+      "path": "europe/france/midi_1/provence/aix_en_provence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Pelje\u0161ac",
+      "path": "europe/croatia/peljesac",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_mu": 23.0315,
+      "prior_sigma": 5.7432,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Leshan",
+      "path": "asia/china/sichuanprovince/leshan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tonga",
+      "path": "australiaandpacific/tonga",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_borml",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "South East",
+      "path": "europe/unitedkingdom/england/south_east",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Lazio",
+      "path": "europe/italy/lazio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Gondomar",
+      "path": "europe/portugal/gondomar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Pambula",
+      "path": "australiaandpacific/australia/newsouthwales/pambula",
+      "prior_mu": 22.7222,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_mu": 22.7169,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Blue Star Cafe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluestarcafe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

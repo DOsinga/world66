@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
+  location_cleanup: '2026-04-16'
 latitude: 51.22111
 longitude: 4.399708
+score: 0.66
 title: Antwerp
 type: location
 ---

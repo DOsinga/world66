@@ -5,6 +5,7 @@ latitude: -4.0529
 longitude: -79.8053
 title: Loja
 type: location
+score: 0.46
 ---
 
 Loja is a quiet university city in Ecuador's southern highlands, close to the Peruvian border. It sits in a fertile valley at about 2,100 metres, surrounded by green hills and some of the country's most biodiverse cloud forests. The city has long been known as the music capital of Ecuador — you will hear live performances in plazas and parks, and the local conservatory has produced many of the country's best-known musicians.

@@ -5,6 +5,7 @@ latitude: 61.833388
 longitude: -6.72399
 title: Sandoy
 type: location
+score: 0.53
 ---
 
 Sandoy is one of the gentler [Faroe Islands](/europe/faroeislands), more agricultural and less dramatically vertical than its neighbours. It is connected to Streymoy by a car ferry from near Kirkjubour, and as you approach the harbour at Skopun you can see the tiny island of Djupaberg to the west, still used by the farmers of Kirkjubour for grazing.

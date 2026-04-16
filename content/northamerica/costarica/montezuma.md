@@ -5,6 +5,7 @@ latitude: 9.6556
 longitude: -85.0688
 title: Montezuma
 type: location
+score: 0.62
 ---
 
 Montezuma is a small, bohemian beach village at the southern tip of Costa Rica's Nicoya Peninsula. It attracts a mix of backpackers, surfers, yoga practitioners, and nature lovers drawn by its waterfalls, rocky coastline, and laid-back atmosphere. The village itself is tiny -- a handful of streets with restaurants, surf shops, and a weekly organic market in the park.

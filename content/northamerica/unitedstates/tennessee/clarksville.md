@@ -5,6 +5,7 @@ latitude: 36.5278
 longitude: -87.3589
 title: Clarksville
 type: location
+score: 0.37
 ---
 
 Clarksville is the fifth-largest city in Tennessee, sitting on the Cumberland River about 40 miles northwest of [Nashville](/northamerica/unitedstates/tennessee/nashville) along Interstate 24. The city grew up around Fort Donelson and has been shaped by its proximity to Fort Campbell, one of the largest military installations in the United States, which straddles the Tennessee-Kentucky border.

@@ -5,6 +5,7 @@ latitude: 7.036668
 longitude: 99.96154
 title: Satun
 type: location
+score: 0.48
 ---
 
 Satun is a quiet harbour town in Thailand's deep south, on the Andaman Sea coast about two hours from Hat Yai and close to the Malaysian border. Most travellers pass through rather than stay — it is the departure point for boats to the Tarutao National Marine Park and Ko Lipe — but the town itself is pleasant enough, with a largely Muslim population and a distinctly Malay feel.

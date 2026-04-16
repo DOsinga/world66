@@ -5,6 +5,7 @@ latitude: 23.583333
 longitude: 70.0
 title: Kutch
 type: location
+score: 0.5
 ---
 
 Kutch is Gujarat's most distinctive region, a vast semi-arid landscape that feels more like Rajasthan or even the Middle East than the rest of Gujarat. The Great Rann and Little Rann are enormous salt marshes that flood during monsoon and dry into blinding white expanses the rest of the year. During the full moon, the white Rann stretching to the horizon under moonlight is one of Gujarat's most magical sights.

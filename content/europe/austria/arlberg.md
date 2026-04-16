@@ -5,6 +5,7 @@ latitude: 47.129845
 longitude: 10.21063
 title: Arlberg
 type: location
+score: 0.63
 ---
 
 The Arlberg is not actually a mountain but a high pass connecting the Austrian provinces of Tyrol and Vorarlberg — and around it sits one of the finest ski regions in the world. The terrain spans from 1,300 to 2,811 metres, with over 270 kilometres of groomed pistes, 180 kilometres of off-piste runs, and 83 lifts all accessible on a single pass.

@@ -5,6 +5,7 @@ latitude: 41.408687
 longitude: -75.662129
 title: Scranton
 type: location
+score: 0.35
 ---
 
 Scranton is a former industrial powerhouse in northeastern Pennsylvania's Lackawanna Valley. Known as the Electric City for its pioneering adoption of electric streetcars in 1886, it boomed on anthracite coal and railroads before fading through much of the 20th century. More recently, it gained unexpected fame as the setting of the American version of *The Office*.

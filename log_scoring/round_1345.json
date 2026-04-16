@@ -1,0 +1,200 @@
+{
+  "round": 1345,
+  "timestamp": "2026-04-12T22:22:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alabama",
+      "path": "northamerica/unitedstates/alabama",
+      "prior_rank": 5770,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_rank": 7484,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_rank": 6861,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kirklees",
+      "path": "europe/unitedkingdom/kirklees",
+      "prior_rank": 7631,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_rank": 6637,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/massachusetts/burlington",
+      "prior_rank": 5593,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/livermore",
+      "prior_rank": 5759,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Powell",
+      "path": "northamerica/unitedstates/wyoming/powell",
+      "prior_rank": 7460,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_rank": 7747,
+      "prior_wins": 14,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tuttlingen",
+      "path": "europe/germany/badenwrttemberg/tuttlingen",
+      "prior_rank": 6696,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_rank": 7519,
+      "prior_wins": 21,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gostivar",
+      "path": "europe/macedonia/gostivar",
+      "prior_rank": 6581,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kolomyia",
+      "path": "europe/ukraine/kolomyia",
+      "prior_rank": 6988,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Qax",
+      "path": "europe/azerbaijan/qax",
+      "prior_rank": 3920,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_rank": 4875,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tagum City",
+      "path": "asia/philippines/tagumcity",
+      "prior_rank": 7099,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_rank": 7518,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_rank": 6826,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Khushab (Valley Soon Sakesar)",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_1/khushab_valley_so",
+      "prior_rank": 6340,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_rank": 7704,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_rank": 6243,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bam",
+      "path": "asia/iran/bam",
+      "prior_rank": 6831,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_rank": 7270,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_rank": 6512,
+      "prior_wins": 15,
+      "prior_n": 3
+    }
+  ]
+}

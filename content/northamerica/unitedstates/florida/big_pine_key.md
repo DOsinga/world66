@@ -1,8 +1,9 @@
 ---
-title: "Big pine key"
+title: Big pine key
 type: location
 latitude: 24.669865
 longitude: -81.353969
+score: 0.51
 ---
 
 Big Pine Key iss part of the Lower Florida Keys. It is home to the Key Deer, a small kind of deer with a white tail, of which you find some 300 on the Key.

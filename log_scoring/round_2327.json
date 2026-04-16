@@ -1,0 +1,200 @@
+{
+  "round": 2327,
+  "timestamp": "2026-04-13T16:31:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 8.783,
+      "prior_variance": 0.301904,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Oranjestad",
+      "path": "northamerica/aruba/oranjestad",
+      "prior_score": 5.3758,
+      "prior_variance": 0.326977,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Humahuaca",
+      "path": "southamerica/argentina/humahuaca",
+      "prior_score": 3.2086,
+      "prior_variance": 0.230216,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "1",
+      "path": "europe/france/val_disere/1_1",
+      "prior_score": 1.1665,
+      "prior_variance": 0.390987,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "LLanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 3.4277,
+      "prior_variance": 0.210667,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Murcia",
+      "path": "europe/spain/spanishcostas/murcia",
+      "prior_score": 2.1877,
+      "prior_variance": 0.219927,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 3.4089,
+      "prior_variance": 0.220466,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 2.3427,
+      "prior_variance": 0.232253,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/rochester",
+      "prior_score": 1.5238,
+      "prior_variance": 0.222267,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": -0.7447,
+      "prior_variance": 0.271714,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Georgia",
+      "path": "northamerica/unitedstates/georgia",
+      "prior_score": -0.9338,
+      "prior_variance": 0.26716,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_score": -0.4764,
+      "prior_variance": 0.209013,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": 0.1299,
+      "prior_variance": 0.218454,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -0.165,
+      "prior_variance": 0.233954,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/whanganui_region/wanganui",
+      "prior_score": -1.0471,
+      "prior_variance": 0.204442,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/wanganui",
+      "prior_score": -0.5871,
+      "prior_variance": 0.216889,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -0.7083,
+      "prior_variance": 0.246816,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.8305,
+      "prior_variance": 0.318438,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_score": -1.4856,
+      "prior_variance": 0.247629,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford/blandford_forum",
+      "prior_score": -2.0684,
+      "prior_variance": 0.242359,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -3.1773,
+      "prior_variance": 0.215603,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_score": -5.0075,
+      "prior_variance": 0.240154,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -4.562,
+      "prior_variance": 0.259064,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_score": -4.2053,
+      "prior_variance": 0.243671,
+      "prior_n": 7
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 19.893
 longitude: -70.952
 title: Luperon
 type: location
+score: 0.43
 ---
 
 Luperon is a small fishing town on the north coast of the Dominican Republic, about 25 kilometres west of Puerto Plata. It is best known among sailors for its deep, protected natural harbour — one of the safest hurricane holes in the Caribbean — which attracts long-term cruisers from around the world.

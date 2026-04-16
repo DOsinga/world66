@@ -5,6 +5,7 @@ latitude: 28.119236
 longitude: -17.225747
 done:
   location_cleanup: 2026-04-07
+score: 0.63
 ---
 
 **An Ecological Paradise** 

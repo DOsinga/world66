@@ -5,6 +5,7 @@ latitude: 4.378938
 longitude: -7.706099
 title: Harper
 type: location
+score: 0.28
 ---
 
 Harper is the capital of Maryland County, perched on Cape Palmas at Liberia's southeastern tip where the coast turns from west-facing to south-facing. It was founded in 1834 as the capital of the independent Republic of Maryland, a colony of free African Americans, before merging with Liberia in 1857. That history is still visible in the crumbling Americo-Liberian architecture scattered around the cape.

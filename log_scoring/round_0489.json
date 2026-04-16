@@ -1,0 +1,200 @@
+{
+  "round": 489,
+  "timestamp": "2026-04-12T09:32:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_mu": 25.8334,
+      "prior_sigma": 6.1233,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_mu": 26.0028,
+      "prior_sigma": 6.0815,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_mu": 22.6378,
+      "prior_sigma": 4.4121,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_mu": 23.4892,
+      "prior_sigma": 4.536,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_mu": 21.566,
+      "prior_sigma": 3.7562,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_mu": 23.0811,
+      "prior_sigma": 5.9845,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_mu": 21.7693,
+      "prior_sigma": 5.6138,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Tysfjord",
+      "path": "europe/norway/tysfjord",
+      "prior_mu": 22.7223,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Agder",
+      "path": "europe/norway/southernnorways/agder",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Southern Norway (Sorlandet)",
+      "path": "europe/norway/southernnorways",
+      "prior_mu": 23.1527,
+      "prior_sigma": 5.9772,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_mu": 22.5254,
+      "prior_sigma": 5.6517,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_mu": 22.5126,
+      "prior_sigma": 5.9117,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_mu": 22.5512,
+      "prior_sigma": 5.9157,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_mu": 22.4484,
+      "prior_sigma": 5.515,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Straume",
+      "path": "europe/norway/straume",
+      "prior_mu": 22.5448,
+      "prior_sigma": 5.671,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Surnadal",
+      "path": "europe/norway/surnadal",
+      "prior_mu": 22.0675,
+      "prior_sigma": 5.7498,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Norway",
+      "path": "europe/norway",
+      "prior_mu": 22.258,
+      "prior_sigma": 5.9246,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "norway",
+      "path": "europe/norway/norway_1",
+      "prior_mu": 28.9217,
+      "prior_sigma": 4.5636,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "CqoEEEHbAlhJ",
+      "path": "europe/norway/kongsberg/cqoeeehbalhj",
+      "prior_mu": 23.5636,
+      "prior_sigma": 5.579,
+      "prior_n": 1
+    }
+  ]
+}

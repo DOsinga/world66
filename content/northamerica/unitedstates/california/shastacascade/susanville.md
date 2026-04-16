@@ -1,8 +1,9 @@
 ---
-title: "Susanville"
+title: Susanville
 type: location
 latitude: 40.416284
 longitude: -120.653006
+score: 0.32
 ---
 
 Stop by Susanville's Lassen Historical Museum. Nearby Eagle Lake is California's second-largest natural lake, a popular place for fishing and boating. The Ash Creek Wildlife Area affords spectacular views of Lassen National Volcanic Park and Mount Shasta in the distance. 

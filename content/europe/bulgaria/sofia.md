@@ -1,8 +1,11 @@
 ---
-title: "Sofia"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 42.697703
 longitude: 23.321736
+score: 0.52
+title: Sofia
+type: location
 ---
 
 Sofia is a compact, walkable capital with a relaxed atmosphere and a quality-of-life that surprises most first-time visitors. It's one of the cheaper European capitals, has good museums, excellent café culture, and easy access to the Vitosha mountain that rises directly above the southern suburbs.

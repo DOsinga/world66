@@ -1,8 +1,11 @@
 ---
-title: "Helsinki"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 60.16662
 longitude: 24.943541
+score: 0.65
+title: Helsinki
+type: location
 ---
 
 Helsinki, Finland's capital, sits on a peninsula jutting into the Baltic. It's a compact, walkable city where the harbour and the city centre are essentially the same place. The low, neoclassical architecture of Senate Square, the covered market halls, the design shops of the Punavuori district, and the ferry terminal for Suomenlinna island fortress are all within easy walking distance of each other.

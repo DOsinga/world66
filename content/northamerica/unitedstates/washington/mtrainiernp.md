@@ -5,6 +5,7 @@ latitude: 46.8543
 longitude: -121.7063
 title: Mt. Rainier National Park
 type: location
+score: 0.67
 ---
 
 Mount Rainier National Park protects a 14,411-foot active volcano encased in over 35 square miles of glacial ice, surrounded by old-growth forest and wildflower meadows. It is about two hours from [Seattle](/northamerica/unitedstates/washington/seattle) and no visit to Washington State should miss it.

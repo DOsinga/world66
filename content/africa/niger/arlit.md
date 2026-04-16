@@ -5,6 +5,7 @@ latitude: 18.7391
 longitude: 7.3933
 title: Arlit
 type: location
+score: 0.18
 ---
 
 Arlit is a Saharan boomtown built on uranium. The French mining company Areva has operated here since the 1970s, and the town owes its entire existence to the ore beneath the surrounding desert. It has a recently-thrown-together look and feel that's entirely appropriate for what it is.

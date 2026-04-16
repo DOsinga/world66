@@ -5,6 +5,7 @@ latitude: 64.538334
 longitude: -21.920208
 title: Borgarnes
 type: location
+score: 0.52
 ---
 
 Borgarnes sits on a peninsula in western Iceland's Borgarfjörður, about an hour's drive north of Reykjavík along Route 1. It is a small town of around 1,800 people, but its roots reach deep into Icelandic saga history — this is where Skallagrímur Kveldúlfsson, father of the great poet-warrior Egill, established his farm at Borg after his father's coffin drifted ashore at what was then called Digranes.

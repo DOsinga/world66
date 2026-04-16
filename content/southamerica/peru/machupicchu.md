@@ -5,6 +5,11 @@ latitude: -13.164341
 longitude: -72.545009
 done:
   location_cleanup: 2026-04-05
+score: 0.91
+image: machupicchu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.edit3.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Martin St-Amant (S23678)
 ---
 
 **Machu Picchu** 

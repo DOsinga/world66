@@ -1,10 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: bloemendaal.jpg
+image_attribution: Tvdm
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Gemeentehuis_Bloemendaal_in_Overveen.jpg
 latitude: 52.374292
 longitude: 4.591535
 title: Bloemendaal
 type: location
+score: 0.44
 ---
 
 Bloemendaal is a prosperous municipality on the North Holland coast, sandwiched between the dunes and the city of Haarlem just to the east. It is best known for its stretch of beach — Bloemendaal aan Zee — which rivals nearby [Zandvoort](/europe/netherlands/zandvoort) for sand and surf but has a livelier, more festive atmosphere, particularly in summer when its beach clubs draw large crowds from [Amsterdam](/europe/netherlands/amsterdam).

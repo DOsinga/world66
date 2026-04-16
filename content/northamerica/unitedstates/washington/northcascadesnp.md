@@ -5,6 +5,7 @@ latitude: 48.808349
 longitude: -121.406215
 title: North Cascades NP
 type: location
+score: 0.67
 ---
 
 North Cascades National Park is one of the wildest places in the lower 48 states — a rugged landscape of jagged peaks, over 300 glaciers, and dense old-growth forest that sees far fewer visitors than its neighbors Mount Rainier and Olympic. The park is sometimes called the "American Alps" for its steep, heavily glaciated terrain.

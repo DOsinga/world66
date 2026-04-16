@@ -1,26 +1,28 @@
 ---
-title: "Phuket"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 7.936602
 longitude: 98.352929
+score: 0.79
+title: Phuket
+type: location
 ---
 
-Phuket (pronounced 'Poo-ket') is a large island in the Indian Ocean about the size of Singapore and with some 40km (25 miles) of beach. It is located about 900 kms South from the capital Bangkok and connected to the mainland by a 100 meter long bridge 
+Phuket (pronounced "Poo-ket") is Thailand's largest island — about the size of Singapore, lying just off the country's western coast and joined to the mainland by a short bridge. It is the country's most heavily developed beach destination, with a reputation for everything from family resorts and yacht charters to the famously raucous nightlife strip of [Patong](/asia/thailand/phuket/patong). The island has been remade by tourism in the past three decades and is wholly unlike the rest of southern Thailand in scale and pace; some travellers love the convenience and variety, others run the other way to the quieter Andaman islands further south.
 
-It is Thailand's major tourist island and therefore it has become a regional headquarter. Phuket, known also as the Pearl of the Andaman, has also derived its wealth from tin production, which in Phuket dates back over 500 years. Therefore it is not surprising that Phuket has a culture of its own due to influences from the Chinese and Portuguese. About 35% of the island's population are Thai Muslims. 
+The west coast is where the beaches are — a string of white-sand bays separated by rocky headlands, ranked roughly by quietness as you move away from Patong. **[Patong](/asia/thailand/phuket/patong)** is the loudest, with the bar strip of Bangla Road and a packed beach overrun with jet-skis. **[Karon](/asia/thailand/phuket/karon)** and **[Kata](/asia/thailand/phuket/kata)** to the south are calmer family alternatives. **[Surin](/asia/thailand/phuket/surin)**, **Kamala**, and the upmarket **Bang Tao** further north have the higher-end resorts. **Nai Harn** in the south is one of the most attractive and least developed beaches on the island.
 
-Along with the incredible beaches, hills and lush jungle, Phuket is a water lover's paradise. The reefs teem with marine life and a host of water activities including scuba diving, yachting, water-skiing, windsurfing, jet-skiing and parasailing are on offer. Other attractions are the Phuket aquarium and the Pa Pra Taew National Park and three 18-hole golf courses. Its population of 1.6 million people ranks sixth among all provinces and the province is the richest of Thailand (on a per capita basis). 
+Phuket is also a serious **dive base** — the Andaman Sea around it has some of the best diving in Thailand, particularly the Similan and Surin Islands to the north (a few hours by boat) and Phi Phi to the southeast. Dozens of dive shops in Patong and Karon run day trips and multi-day liveaboard cruises.
 
-Several popular day trips leave from Phuket, making this an ideal base from which to explore southern Thailand. The Nakha Noi Pearl Farm is where you can see how cultured pearls are produced by seeding oysters; a trip to Phang Nga, where a scene from the Bond film, The Man with the Golden Gun was shot, reveals the impossibly sheer limestone outcrops that rise out of the sea and many caves and weirdly shaped islands. Or visit Phi Phi island, ideal for snorkeling and diving. 
+Beyond the beaches, **Phuket Old Town** is a quietly rewarding wander — Sino-Portuguese shophouses painted in pastel colours, a remnant of the island's tin-mining wealth and Hokkien Chinese settlement. The annual **Vegetarian Festival** in September or October draws spectacular crowds, with white-robed devotees walking on hot coals and piercing their cheeks. Inland, the **Big Buddha** on Nakkerd Hill above Chalong is a 45-metre marble statue with one of the best views on the island.
 
-Don't ignore the interior of the island if you have time. It offers rice paddies, plantations of rubber, cacao, cashew nut, coconut and pineapple and small, tiny rest of Phuket's once beautiful rainforest. 
-
-[Patong](/asia/thailand/phuket/patong), across the island from Phuket Town, is the noisy nightlife centre of the island with great beaches and facilities. Quieter beaches such as [Kata](/asia/thailand/phuket/kata), [Karon](/asia/thailand/phuket/karon) and [Surin](/asia/thailand/phuket/surin) cater for up-market tourists.
+Phang Nga Bay east of the island is the famous limestone-karst seascape used for the James Bond film *The Man with the Golden Gun*; day trips by speedboat or longtail leave from Phuket. **Phi Phi**, **Krabi** and the Similan Islands are also reachable as day trips, but each deserves longer if you can spare it.
 
 ## Destinations in Phuket
 
-[Surin](/asia/thailand/phuket/surin)
 [Patong](/asia/thailand/phuket/patong)
-[Chalong](/asia/thailand/phuket/chalong)
 [Kata](/asia/thailand/phuket/kata)
 [Karon](/asia/thailand/phuket/karon)
+[Surin](/asia/thailand/phuket/surin)
+[Chalong](/asia/thailand/phuket/chalong)
+[Phuket City](/asia/thailand/phuket/phuket_city)

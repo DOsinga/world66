@@ -5,6 +5,7 @@ latitude: 18.673269
 longitude: 78.097848
 title: Nizamabad
 type: location
+score: 0.29
 ---
 
 We currently have no information about Nizamabad.

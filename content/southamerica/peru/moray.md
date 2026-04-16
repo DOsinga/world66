@@ -5,6 +5,7 @@ latitude: -13.519527
 longitude: -71.981605
 title: Moray
 type: location
+score: 0.59
 ---
 
 Moray is a small town in the Sacred Valley of [Peru](/southamerica/peru), about 50 km northwest of [Cusco](/southamerica/peru/cusco). It is famous for its Inca agricultural terraces — a series of enormous concentric rings carved into a natural amphitheatre in the hillside. Each level creates a slightly different microclimate, and the Incas are believed to have used them as a kind of open-air laboratory to study the effects of altitude and temperature on crops.

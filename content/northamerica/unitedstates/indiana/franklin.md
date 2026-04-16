@@ -5,6 +5,7 @@ latitude: 39.4806
 longitude: -86.1308
 title: Franklin
 type: location
+score: 0.3
 ---
 
 Franklin is a small county seat about 20 miles south of Indianapolis, sitting at the heart of Johnson County with the unhurried feel of a classic Midwestern market town. The courthouse square is the centre of gravity — lined with independent shops selling antiques and local goods, a handful of restaurants, and the beloved Artcraft Theater, a 1922 movie palace that still runs films and hosts live events.

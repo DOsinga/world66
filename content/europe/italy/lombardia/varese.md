@@ -5,6 +5,7 @@ latitude: 45.83972
 longitude: 8.754134
 title: Varese
 type: location
+score: 0.53
 ---
 
 Varese earns its nickname "the Garden City" from the Liberty-era villas and landscaped parks scattered across its hills, built by Milanese industrialists who escaped the summer heat here. The city sits at the foot of the Sacro Monte di Varese, a UNESCO-listed pilgrimage path that climbs through forest past fourteen baroque chapels to a hilltop sanctuary with views across the Po plain to Monte Rosa.

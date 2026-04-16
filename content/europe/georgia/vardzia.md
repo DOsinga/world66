@@ -5,6 +5,7 @@ latitude: 41.380974
 longitude: 43.28447
 title: Vardzia
 type: location
+score: 0.66
 ---
 
 Vardzia is one of the most spectacular sights in [Georgia](/europe/georgia) — a vast cave monastery carved into the sheer rock face of Mount Erusheti, overlooking the Kura River in the southwest of the country. It is worth the long drive from [Tbilisi](/europe/georgia/tbilisi) or [Kutaisi](/europe/georgia/kutaisi).

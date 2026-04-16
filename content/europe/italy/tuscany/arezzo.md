@@ -5,6 +5,7 @@ latitude: 43.517144
 longitude: 11.763928
 title: Arezzo
 type: location
+score: 0.61
 ---
 
 Arezzo is a handsome hilltop city in eastern Tuscany, equidistant from [Florence](/europe/italy/tuscany/florence), [Siena](/europe/italy/tuscany/siena), and [Perugia](/europe/italy/umbria/perugia). In the Middle Ages it rivalled Florence in military power; today it draws visitors with a medieval centre rich in Etruscan, Roman, and Renaissance traces — and far fewer crowds than its more famous neighbours.

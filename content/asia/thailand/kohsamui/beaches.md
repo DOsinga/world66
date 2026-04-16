@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Koh Samui"
+title: "Beaches"
 type: section
 ---
 

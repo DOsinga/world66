@@ -1,8 +1,11 @@
 ---
-title: "Al Qahera - Cairo"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 29.982036
 longitude: 31.34535
+score: 0.65
+title: Al Qahera - Cairo
+type: location
 ---
 
 Travel Guide

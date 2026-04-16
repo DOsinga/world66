@@ -5,6 +5,7 @@ latitude: 34.3428
 longitude: 134.0466
 title: Takamatsu
 type: location
+score: 0.66
 ---
 
 Takamatsu is the gateway to Shikoku — the island most visitors reach by rail across the Seto-ohashi Bridge from Okayama. It is the largest city in Kagawa Prefecture and a modern, comfortable base for exploring the island's more remote corners. Largely rebuilt after being flattened by wartime bombing, it lacks old-city atmosphere, but compensates with Japan's finest strolling garden, an abundance of excellent udon, and easy ferry connections to the islands of the Seto Inland Sea.

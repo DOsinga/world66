@@ -5,6 +5,7 @@ latitude: 30.6968
 longitude: 79.6096
 title: Hemkund
 type: location
+score: 0.53
 ---
 
 Hemkund Sahib is a Sikh pilgrimage site at about 4,000 metres in the Garhwal Himalayas of [Uttarakhand](/asia/india/uttaranchal). A glacial lake surrounded by seven peaks, with a Gurudwara and a small Lakshman temple on its shore, it is one of the highest places of worship in the world. The setting is extraordinary — stark mountain walls, cold clear water, and beds of Brahma Kamal, a rare lotus-like flower that grows only at these altitudes.

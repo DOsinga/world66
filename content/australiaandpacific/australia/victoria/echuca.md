@@ -5,6 +5,7 @@ latitude: -36.1281
 longitude: 144.7517
 title: Echuca
 type: location
+score: 0.48
 ---
 
 Echuca is a Victorian river town on the Murray that wears its history proudly. In the 1870s it was Australia's largest inland port, its wharves stacked with wool and timber hauled down from the hinterland on the backs of paddlesteamers. That era is gone but not forgotten — the restored historic port precinct is one of the best-preserved examples of 19th-century river trade in the country, and working paddlesteamers still churn up and down the Murray most days.

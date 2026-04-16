@@ -1,0 +1,200 @@
+{
+  "round": 1402,
+  "timestamp": "2026-04-12T22:25:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wisconsin",
+      "path": "northamerica/unitedstates/wisconsin",
+      "prior_rank": 3702,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/ipswich",
+      "prior_rank": 5965,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_rank": 6103,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_rank": 7442,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_rank": 7356,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_rank": 7144,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_rank": 2510,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_rank": 5654,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_rank": 2735,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_rank": 5270,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_rank": 4700,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_rank": 4552,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_rank": 6233,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gurabo",
+      "path": "northamerica/puertorico/gurabo",
+      "prior_rank": 6818,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_rank": 4725,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_rank": 5655,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_rank": 6680,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_rank": 6337,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_rank": 6743,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_rank": 6107,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_rank": 5463,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_rank": 5266,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_rank": 6383,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_rank": 5549,
+      "prior_wins": 26,
+      "prior_n": 4
+    }
+  ]
+}

@@ -5,6 +5,11 @@ latitude: 40.628658
 longitude: 14.485496
 title: Positano
 type: location
+score: 0.84
+image: positano.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Positano_(Italy)_02.jpg
+image_license: CC BY 4.0
+image_attribution: Bernard Gagnon
 ---
 
 *Europe > Italy > Campania > Positano*

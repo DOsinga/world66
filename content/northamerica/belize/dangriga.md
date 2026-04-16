@@ -5,6 +5,7 @@ latitude: 16.9685
 longitude: -88.2312
 title: Dangriga
 type: location
+score: 0.46
 ---
 
 Dangriga is the largest town in southern Belize and the cultural capital of the Garifuna people. It's a working town rather than a polished tourist destination, but Garifuna Settlement Day on November 19 — when the community commemorates the arrival of the Garifuna from St. Vincent in 1832 — is one of Belize's best festivals, with drumming, dancing, and food.

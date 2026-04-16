@@ -5,6 +5,7 @@ latitude: 42.992071
 longitude: 44.263635
 title: Ossetia
 type: location
+score: 0.31
 ---
 
 North Ossetia–Alania is a small republic in the Russian Caucasus, wedged between Georgia to the south and the plains of southern Russia to the north. The landscape is dramatic — snow-capped peaks, deep gorges, alpine meadows, and mineral springs that locals have used for centuries.

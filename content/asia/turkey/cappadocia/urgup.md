@@ -5,6 +5,11 @@ latitude: 38.630051
 longitude: 34.911603
 title: Urgup
 type: location
+score: 0.87
+image: urgup.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Night_at_Urgup,_Nevsehir.jpg
+image_license: CC0
+image_attribution: İmmortalance
 ---
 
 Urgup is one of the main base towns for exploring [Cappadocia](/asia/turkey/cappadocia), along with Goreme and Avanos. It has a slightly more upmarket feel than Goreme — the old stone houses on the hillside have been converted into boutique hotels, and the town centre has good restaurants and a lively evening atmosphere.

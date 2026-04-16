@@ -5,6 +5,7 @@ latitude: 35.151164
 longitude: -96.493551
 title: Wewoka
 type: location
+score: 0.27
 ---
 
 Wewoka is the capital of the Seminole Nation of Oklahoma, a small city in the rolling prairie of central Oklahoma. The name means "barking water" in the Seminole language, a reference to the sound of a nearby creek cascading over rocks.

@@ -5,6 +5,7 @@ latitude: 40.2203
 longitude: -74.7659
 title: Trenton
 type: location
+score: 0.32
 ---
 
 Trenton is the capital of New Jersey, sitting on the Delaware River in the centre of the state. It played an important role in the American Revolution — this is where Washington crossed the Delaware on Christmas night 1776 to surprise the Hessian garrison, a turning point in the war.

@@ -1,0 +1,200 @@
+{
+  "round": 1947,
+  "timestamp": "2026-04-13T15:56:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palau",
+      "path": "australiaandpacific/palau",
+      "prior_score": 9.5076,
+      "prior_variance": 0.893693,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_score": 6.9859,
+      "prior_variance": 0.86857,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 5.2968,
+      "prior_variance": 0.263576,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Otranto",
+      "path": "europe/italy/puglia/otranto",
+      "prior_score": 5.7251,
+      "prior_variance": 0.327384,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_score": 4.9608,
+      "prior_variance": 0.32605,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 2.9405,
+      "prior_variance": 0.327023,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 1.3012,
+      "prior_variance": 0.319438,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 3.5509,
+      "prior_variance": 0.266091,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_score": 1.3559,
+      "prior_variance": 0.276383,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/harrogate",
+      "prior_score": 3.0096,
+      "prior_variance": 0.284739,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 3.9751,
+      "prior_variance": 0.258042,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 3.0396,
+      "prior_variance": 0.277794,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 2.7654,
+      "prior_variance": 0.301148,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_score": 2.3792,
+      "prior_variance": 0.273361,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": 0.9719,
+      "prior_variance": 0.184268,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_score": -0.2036,
+      "prior_variance": 0.271911,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Matanzas",
+      "path": "northamerica/cuba/matanzas",
+      "prior_score": 0.6981,
+      "prior_variance": 0.270882,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": 0.3577,
+      "prior_variance": 0.29899,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ripon",
+      "prior_score": -0.17,
+      "prior_variance": 0.247705,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -1.4837,
+      "prior_variance": 0.433457,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -1.8169,
+      "prior_variance": 0.493934,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -1.353,
+      "prior_variance": 0.306736,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -6.1826,
+      "prior_variance": 0.293951,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -3.7566,
+      "prior_variance": 0.370964,
+      "prior_n": 5
+    }
+  ]
+}

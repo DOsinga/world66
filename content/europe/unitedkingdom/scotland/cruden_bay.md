@@ -5,6 +5,7 @@ latitude: 57.416373
 longitude: -1.852931
 title: Cruden Bay
 type: location
+score: 0.49
 ---
 
 Cruden Bay is a small coastal village in Aberdeenshire, about 25 miles north of Aberdeen. It has a spectacular sweep of pink-sand beach, a world-class golf links, and the dramatic clifftop ruins of Slains Castle — the building widely believed to have inspired Bram Stoker's vision of Castle Dracula. Stoker spent several summers in the village in the 1890s, writing much of the novel here.

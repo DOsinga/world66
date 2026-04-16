@@ -5,6 +5,11 @@ latitude: 68.1529
 longitude: 14.2007
 title: Henningsvær
 type: location
+score: 0.74
+image: henningsvr.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Campo_da_calcio_di_Henningsvaer.JPG
+image_license: CC BY-SA 4.0
+image_attribution: l'autore sono io, Cappo80
 ---
 
 Henningsvær sits at the foot of Mount Vågakaillen, a cluster of isles and islets scattered across the blue waters of the Vestfjord. With mountains at its back and the sea on every other side, it was a natural hub during the Lofoten winter fishery, and in the 1800s the village prospered into one of the most prominent fishing communities in Lofoten.

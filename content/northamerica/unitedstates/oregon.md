@@ -1,8 +1,11 @@
 ---
-title: "Oregon"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 43.97928
 longitude: -120.737257
+score: 0.63
+title: Oregon
+type: location
 ---
 
 Oregon is located on the west coast of the United States between [California](/northamerica/unitedstates/california) and [Washington](/northamerica/unitedstates/washington). It is a state full of sights, things to and especially great for outdoor opportunities.

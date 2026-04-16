@@ -5,6 +5,7 @@ latitude: 55.5993
 longitude: 14.1141
 done:
   location_cleanup: 2026-04-07
+score: 0.54
 ---
 
 Österlen is the southeastern tip of Sweden — a gently rolling landscape of wheat fields, apple orchards, and long sandy beaches that feels a world apart from Stockholm. Technically it's not an official region at all, more a shared idea: the area roughly between Brösarp in the north and Ystad in the south, hugging the Baltic coast. What holds it together is light, quiet, and a certain unhurried pace that Swedes have been coming here for generations to find.

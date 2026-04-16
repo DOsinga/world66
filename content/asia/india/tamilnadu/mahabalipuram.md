@@ -5,6 +5,7 @@ latitude: 12.619598
 longitude: 80.19365
 title: Mahabalipuram
 type: location
+score: 0.6
 ---
 
 Mahabalipuram (Mamallapuram) is a coastal village 60 km south of Chennai that combines two things: one of the finest collections of Pallava rock-cut architecture in the world, and a relaxed beach atmosphere that makes it a popular stop before or after Chennai.

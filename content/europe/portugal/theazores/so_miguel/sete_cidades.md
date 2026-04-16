@@ -5,6 +5,7 @@ latitude: 37.862
 longitude: -25.7969
 title: Sete Cidades
 type: location
+score: 0.72
 ---
 
 **Sete Cidades** is a tiny village sitting inside a volcanic crater in the western part of São Miguel, between the twin lakes of Lagoa Azul and Lagoa Verde. It is one of the most photographed spots in the Azores, and for good reason — the view from the crater rim down to the blue and green lakes is extraordinary.

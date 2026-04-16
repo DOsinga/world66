@@ -5,6 +5,7 @@ latitude: 10.5183
 longitude: 7.436
 done:
   location_cleanup: 2026-04-07
+score: 0.26
 ---
 
 Kaduna sits on the river that shares its name, a sprawling city that once served as the capital of Northern Nigeria under British rule and kept that role through the early years of independence. The colonial legacy is still visible in the wide boulevards and the old administrative buildings, though the city has long since grown well beyond that grid into a busy commercial hub of several million people.

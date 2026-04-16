@@ -5,6 +5,7 @@ latitude: 51.072427
 longitude: 2.662132
 title: Veurne
 type: location
+score: 0.47
 ---
 
 Veurne is a small, handsome town in the Westhoek, the far western corner of [Belgium](/europe/belgium), about 6km from the coast and close to the French border. The Grote Markt is one of the finest town squares in Flanders, lined with step-gabled buildings and the ornate Spanish Pavilion.

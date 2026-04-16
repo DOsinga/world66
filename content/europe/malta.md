@@ -9,6 +9,7 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Sudika" title="User:Sudika">Sudika</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.6
 ---
 
 By far the largest and most popular island historic Malta merits a minimum of four nights. Sun worshippers should know that the sandiest beaches in the nation are located on the northern coast..

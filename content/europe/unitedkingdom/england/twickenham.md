@@ -5,6 +5,7 @@ latitude: 51.4494
 longitude: -0.3368
 title: Twickenham
 type: location
+score: 0.42
 ---
 
 Twickenham is a prosperous riverside town in southwest London, best known as the home of English rugby. Twickenham Stadium — "Twickers" — seats 82,000 people and hosts the England national team as well as the Premiership Rugby final and the occasional concert. On match days the town turns into a sea of white shirts and good-natured noise; on quiet days it's a pleasant Thames-side suburb with Georgian houses, a couple of good riverside pubs, and more history than it gets credit for.

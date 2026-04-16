@@ -5,6 +5,7 @@ latitude: 35.327
 longitude: -96.925
 title: Shawnee
 type: location
+score: 0.34
 ---
 
 Shawnee sits in the heart of [Oklahoma](/northamerica/unitedstates/oklahoma), about 35 miles east of Oklahoma City, and serves as the seat of Pottawatomie County. The city has a quiet pride in its outsized contributions to American culture — actor Brad Pitt grew up here, and Mercury astronaut Gordon Cooper called it home. The historic downtown along Main Street still has a handful of handsome early-twentieth-century buildings, and the Mabee-Gerrer Museum of Art on the campus of St. Gregory's University holds a surprisingly good collection that includes an Egyptian mummy.

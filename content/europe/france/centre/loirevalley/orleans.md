@@ -5,6 +5,7 @@ latitude: 47.902734
 longitude: 1.908607
 title: Orleans
 type: location
+score: 0.58
 ---
 
 Orléans sits at the northernmost bend of the Loire, where the river makes its great arc southward before heading to the Atlantic. It is a city that wears its history openly — most visibly in the figure of Joan of Arc, who broke the English siege here in 1429 and gave Orléans its defining moment. Statues, streets, and an entire festival keep her memory very much alive.

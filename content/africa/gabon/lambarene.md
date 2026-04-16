@@ -5,6 +5,7 @@ latitude: -0.6943
 longitude: 10.2236
 title: Lambarene
 type: location
+score: 0.36
 ---
 
 Lambarene was put on the map by Albert Schweitzer, and his hospital remains the main reason travelers come to this small riverside town. Located about 250 km southeast of Libreville on the Ogooue River, Lambarene has a population of around 30,000, making it Gabon's third-largest town.

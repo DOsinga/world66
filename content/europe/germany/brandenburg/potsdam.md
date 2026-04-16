@@ -5,6 +5,7 @@ latitude: 52.3906
 longitude: 13.0645
 done:
   location_cleanup: 2026-04-06
+score: 0.7
 ---
 
 Potsdam is the capital of Brandenburg and the most elegant small city near Berlin — about 25 minutes by S-Bahn from the centre of the capital, but a world apart in feel. It was the summer residence of the Prussian kings and German emperors from the early 18th century, and the palaces, parks, and gardens they built here are collectively a UNESCO World Heritage Site and one of the finest royal landscapes in Europe.

@@ -1,0 +1,200 @@
+{
+  "round": 1081,
+  "timestamp": "2026-04-12T22:08:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_rank": 6444,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/dover",
+      "prior_rank": 4261,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/oregon/newport",
+      "prior_rank": 4496,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/alabama/huntsville",
+      "prior_rank": 3035,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_rank": 4485,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Nunavut",
+      "path": "northamerica/canada/nunavut",
+      "prior_rank": 5820,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_rank": 3464,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_rank": 5076,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_rank": 5677,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_rank": 4896,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_rank": 5113,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_rank": 4459,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_rank": 6258,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_rank": 5106,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_rank": 7035,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_rank": 6256,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_rank": 5697,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_rank": 3378,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_rank": 2919,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ormoc City",
+      "path": "asia/philippines/leyteisland/ormoc_city",
+      "prior_rank": 5371,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_rank": 3730,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_rank": 6080,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_rank": 6646,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_rank": 3639,
+      "prior_wins": 25,
+      "prior_n": 2
+    }
+  ]
+}

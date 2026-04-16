@@ -5,6 +5,7 @@ latitude: 40.819725
 longitude: 16.422779
 title: Gravina in Puglia
 type: location
+score: 0.52
 ---
 
 Gravina in Puglia takes its name from the dramatic ravine that borders the town — a deep gorge carved into the limestone, its walls honeycombed with abandoned cave dwellings. The setting is strikingly similar to nearby [Matera](/europe/italy/basilicata/matera), just across the border in Basilicata, but without the crowds or the UNESCO tourist infrastructure.

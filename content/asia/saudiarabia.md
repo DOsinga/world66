@@ -11,6 +11,7 @@ latitude: 24.0
 longitude: 45.0
 title: Saudi Arabia
 type: location
+score: 0.22
 ---
 
 *Asia > Saudi Arabia*

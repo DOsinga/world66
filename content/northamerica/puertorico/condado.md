@@ -1,4 +1,0 @@
----
-title: "Condado"
-type: location
----

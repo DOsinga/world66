@@ -1,4 +1,0 @@
----
-title: "Kairatabad"
-type: location
----

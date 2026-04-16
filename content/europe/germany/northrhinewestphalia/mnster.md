@@ -5,6 +5,7 @@ latitude: 51.96251
 longitude: 7.625188
 title: Münster
 type: location
+score: 0.54
 ---
 
 Münster (267,000 inhabitants) is an attractive city in the Münsterland, a flat green region dotted with charming little castles and ideal for cycling. If you arrive by train, don't be put off by the unattractive surroundings of the station — move on to the city centre and you'll find a different world entirely.

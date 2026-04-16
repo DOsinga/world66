@@ -1,14 +1,21 @@
 ---
-done:
-  location_cleanup: '2026-04-08'
-latitude: 14.6361
-longitude: -61.0192
 title: Martinique
 type: location
+latitude: 14.6415
+longitude: -61.0242
+image: martinique.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Jardin_de_Balata.jpg
+image_license: Public domain
+image_attribution: Box-Off-Dreams, Julie.
+done:
+  country_cleanup: 2026-03-29
+score: 0.63
 ---
 
-Martinique is a bit of France in the Caribbean. Located over 6,000 km from Paris, it is a full département and région of France — the euro is the currency, the food is French, and the bureaucracy is unmistakably Gallic. The French arrived in 1635, and with the exception of brief British occupations, the island has been French ever since.
+Martinique is a slice of France dropped into the eastern Caribbean. It is an overseas region of France — not just a territory but a full département — which means euros, French law, and French bureaucracy, along with rum, Creole cooking, and spectacular tropical scenery. The combination is unlike anywhere else in the Caribbean.
 
-Before Columbus sighted the island in 1502, the Caribs called it Madinina, the Isle of Flowers, and floral it has remained. You will find frangipani, wild orchids, hibiscus, and neon-bright bougainvillea everywhere. The northern half of the island is mountainous and lush, dominated by Mont Pelée (1,397 m), the volcano that buried the old capital Saint-Pierre under ash and lava in 1902, killing 30,000 people in minutes. The southern half is drier, flatter, and lined with excellent beaches.
+The Caribs who lived here before Columbus arrived in 1502 called it Madinina, "Isle of Flowers," and the name still fits. Frangipani, wild orchids, hibiscus, and neon-bright bougainvillea grow everywhere. The interior is mountainous and densely forested; the north is dominated by Mont Pelée, a still-active volcano that rises to 1,397 metres. In 1902 it erupted with catastrophic force, destroying Saint-Pierre and killing roughly 30,000 people in minutes. The ruined city has never been fully rebuilt and remains one of the most haunting places in the Caribbean.
 
-Fort-de-France is the capital — a stylish, sophisticated city with a covered market, rum bars, and a lively waterfront. Martinique is a French-speaking island; English is not widely spoken outside tourist areas.
+[Fort-de-France](/northamerica/thecaribbean/martinique/fortdefrance), the capital, sits on a broad bay on the west coast. It is a real working city — busy, a little chaotic, French in its bones — rather than a resort. The south of the island has the best beaches, with white sand and calm turquoise water. The north is wilder, with black sand beaches, rainforest, and the rum distilleries that have made Martinique's agricole rum famous among spirits drinkers worldwide.
+
+French is the language of daily life; English is understood in tourist areas but will not take you far in local markets or smaller towns. The euro is the currency. Martinique is considerably more expensive than many Caribbean neighbours, but the quality of food and infrastructure reflects the investment.

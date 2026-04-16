@@ -5,6 +5,7 @@ latitude: -29.7825
 longitude: -67.1147
 title: La Rioja
 type: location
+score: 0.46
 ---
 
 La Rioja is the capital of the province of the same name, set at the foot of the Sierra de Velasco in northwestern [Argentina](/southamerica/argentina). It is a hot, dry city — summer temperatures regularly exceed 40°C — and serves as a base for exploring the dramatic desert landscapes of the region.

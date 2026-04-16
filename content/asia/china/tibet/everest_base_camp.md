@@ -5,6 +5,7 @@ latitude: 28.1365
 longitude: 86.8555
 title: Everest Base Camp (Tibet)
 type: location
+score: 0.61
 ---
 
 The Tibetan-side Everest Base Camp sits at 5,200 metres on the northern approach to the mountain, several days' drive from Lhasa across the high plateau. It is less visited than the Nepali side, but the journey through Tibet is spectacular and the views of Everest's north face from Rongbuk are unforgettable. Be prepared for four seasons in a day — blazing sun, bitter wind, sudden snow, and everything in between.

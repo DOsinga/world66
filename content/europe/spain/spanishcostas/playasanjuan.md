@@ -5,6 +5,7 @@ latitude: 28.1818
 longitude: -16.8168
 title: Playa San Juan
 type: location
+score: 0.48
 ---
 
 Playa San Juan is a small fishing village on the southwest coast of Tenerife, between Los Gigantes and Playa de las Américas. It has managed to keep much of its local character while the rest of the coast was swallowed by resort development. The harbour still has working fishing boats, and the seafood restaurants along the waterfront serve what came in that morning.

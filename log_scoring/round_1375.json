@@ -1,0 +1,200 @@
+{
+  "round": 1375,
+  "timestamp": "2026-04-12T22:24:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_rank": 261,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_rank": 738,
+      "prior_wins": 111,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lombok",
+      "path": "asia/indonesia/lombok",
+      "prior_rank": 219,
+      "prior_wins": 123,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_rank": 1415,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Culebra",
+      "path": "northamerica/puertorico/culebra",
+      "prior_rank": 895,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_rank": 1672,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Vanuatu",
+      "path": "australiaandpacific/vanuatu",
+      "prior_rank": 508,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Oregon",
+      "path": "northamerica/unitedstates/oregon",
+      "prior_rank": 270,
+      "prior_wins": 120,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_rank": 805,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Maine",
+      "path": "northamerica/unitedstates/maine",
+      "prior_rank": 786,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Villarrica",
+      "path": "southamerica/chile/villarrica",
+      "prior_rank": 903,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Alpe d'Huez",
+      "path": "europe/france/alpes/alpdhuez",
+      "prior_rank": 618,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_rank": 493,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ibiza Town",
+      "path": "europe/spain/balearicislands/ibiza/ibizatown",
+      "prior_rank": 2763,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas",
+      "prior_rank": 5580,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_rank": 449,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_rank": 454,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_rank": 170,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_rank": 864,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_rank": 1031,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/sanremo",
+      "prior_rank": 2022,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_rank": 1248,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dorset",
+      "path": "europe/unitedkingdom/dorset",
+      "prior_rank": 1979,
+      "prior_wins": 62,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_rank": 2270,
+      "prior_wins": 45,
+      "prior_n": 3
+    }
+  ]
+}

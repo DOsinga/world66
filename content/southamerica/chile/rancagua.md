@@ -5,6 +5,7 @@ latitude: -34.170243
 longitude: -70.740718
 title: Rancagua
 type: location
+score: 0.39
 ---
 
 Rancagua sits in the Central Valley 85 kilometres south of Santiago, a working city of around 250,000 people on the banks of the Cachapoal River. Founded in 1743 by José Antonio Manso de Velasco, it is best known for the Desastre de Rancagua in 1814, when Chilean independence forces were overwhelmed by royalist troops in the central plaza — a defeat that sent the independence movement into exile before its eventual triumph.

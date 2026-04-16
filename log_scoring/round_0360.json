@@ -1,0 +1,200 @@
+{
+  "round": 360,
+  "timestamp": "2026-04-12T09:13:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bondi Beach",
+      "path": "australiaandpacific/australia/newsouthwales/sydney/bondibeach",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "US Virgin Islands",
+      "path": "northamerica/thecaribbean/virginislands",
+      "prior_mu": 26.2762,
+      "prior_sigma": 5.3605,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_mu": 22.3825,
+      "prior_sigma": 5.5378,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_mu": 21.1067,
+      "prior_sigma": 3.1269,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_mu": 22.2545,
+      "prior_sigma": 5.5451,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_mu": 22.1385,
+      "prior_sigma": 5.7595,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_mu": 22.5819,
+      "prior_sigma": 5.9313,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_mu": 21.2758,
+      "prior_sigma": 4.0915,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_mu": 22.4721,
+      "prior_sigma": 5.9044,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_mu": 21.7204,
+      "prior_sigma": 4.8019,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Magdalena de Kino",
+      "path": "northamerica/mexico/magdalena_de_kino",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "lakewood",
+      "path": "northamerica/unitedstates/ohio/lakewood",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Fort Benning, GA",
+      "path": "northamerica/unitedstates/georgia/fort_benning_ga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

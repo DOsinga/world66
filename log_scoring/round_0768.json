@@ -1,0 +1,200 @@
+{
+  "round": 768,
+  "timestamp": "2026-04-12T10:47:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_mu": 27.2099,
+      "prior_sigma": 4.6349,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Algarve",
+      "path": "europe/portugal/algarve",
+      "prior_mu": 23.0014,
+      "prior_sigma": 5.8769,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Tasmania",
+      "path": "australiaandpacific/australia/tasmania",
+      "prior_mu": 22.4688,
+      "prior_sigma": 4.0574,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_mu": 22.515,
+      "prior_sigma": 4.5988,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_mu": 22.7021,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/tahoe_city",
+      "prior_mu": 22.1486,
+      "prior_sigma": 5.5935,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_mu": 21.7927,
+      "prior_sigma": 4.8203,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Guadeloupe",
+      "path": "northamerica/thecaribbean/guadeloupe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_mu": 21.9757,
+      "prior_sigma": 5.1756,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Overberg",
+      "path": "africa/southafrica/overberg",
+      "prior_mu": 21.4699,
+      "prior_sigma": 3.8427,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_mu": 21.8076,
+      "prior_sigma": 5.6543,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Canada",
+      "path": "northamerica/canada",
+      "prior_mu": 22.0983,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_mu": 21.9275,
+      "prior_sigma": 4.3329,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Calbayog",
+      "path": "asia/philippines/calbayog",
+      "prior_mu": 20.94,
+      "prior_sigma": 3.3142,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_mu": 20.9445,
+      "prior_sigma": 3.9246,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_mu": 19.2275,
+      "prior_sigma": 4.6495,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_mu": 21.6437,
+      "prior_sigma": 4.7152,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_mu": 21.4326,
+      "prior_sigma": 4.5634,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_mu": 22.4598,
+      "prior_sigma": 5.3142,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Belarus",
+      "path": "europe/belarus",
+      "prior_mu": 19.3846,
+      "prior_sigma": 4.169,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Saint-Leonard",
+      "path": "northamerica/canada/quebec/saintleonard",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/bearwood",
+      "prior_mu": 19.2602,
+      "prior_sigma": 4.2536,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_mu": 22.5859,
+      "prior_sigma": 5.7257,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "qureshi from yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/qureshi_from_yaroo",
+      "prior_mu": 17.116,
+      "prior_sigma": 3.9456,
+      "prior_n": 4
+    }
+  ]
+}

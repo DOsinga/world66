@@ -1,0 +1,200 @@
+{
+  "round": 1381,
+  "timestamp": "2026-04-12T22:24:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_rank": 5815,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_rank": 5908,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_rank": 5803,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Somba villages",
+      "path": "africa/benin/sombavillages",
+      "prior_rank": 6868,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_rank": 6882,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_rank": 6471,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Irian Jaya",
+      "path": "asia/indonesia/irianjaya",
+      "prior_rank": 5409,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Maralal",
+      "path": "africa/kenya/northernkenya/maralal",
+      "prior_rank": 6903,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_rank": 5337,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_rank": 4910,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_rank": 4983,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_rank": 6773,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/vermont/greensboro",
+      "prior_rank": 5953,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_rank": 5957,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/chico",
+      "prior_rank": 5761,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_rank": 6453,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_rank": 5954,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mississippi",
+      "path": "northamerica/unitedstates/mississippi",
+      "prior_rank": 5601,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_rank": 6991,
+      "prior_wins": 35,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "La Romaine",
+      "path": "northamerica/trinidadandtobago/laromaine",
+      "prior_rank": 6733,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_rank": 6287,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Queensbury",
+      "path": "northamerica/unitedstates/newyorkstate/queensbury",
+      "prior_rank": 4725,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_rank": 4532,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/temuka",
+      "prior_rank": 7547,
+      "prior_wins": 13,
+      "prior_n": 3
+    }
+  ]
+}

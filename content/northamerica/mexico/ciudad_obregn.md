@@ -5,6 +5,7 @@ latitude: 27.484662
 longitude: -109.933778
 title: Ciudad Obregón
 type: location
+score: 0.33
 ---
 
 Ciudad Obregón (often just Obregón, also known as Cajeme) is a large agricultural city in the Río Yaqui Valley of southern [Sonora](/northamerica/mexico). It is not a tourist destination, but if you are passing through, the food alone is worth a stop.

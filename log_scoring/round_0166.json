@@ -1,0 +1,200 @@
+{
+  "round": 166,
+  "timestamp": "2026-04-12T08:46:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Suzhou",
+      "path": "asia/china/suzhou",
+      "prior_mu": 23.7232,
+      "prior_sigma": 3.1525,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/bay_of_plenty/rotorua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Otavalo Imbabura",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Outlying Islands",
+      "path": "asia/china/hongkong/outlyingislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Tessin",
+      "path": "europe/switzerland/tessin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/halfmoonbay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/losangeles/manhattenbeach",
+      "prior_mu": 22.3772,
+      "prior_sigma": 5.7963,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/sandiego/julian",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/carlisle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Alton",
+      "path": "northamerica/unitedstates/illinois/alton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "m275z",
+      "path": "europe/bosniaandherzegovina/medjugorje/m275z",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

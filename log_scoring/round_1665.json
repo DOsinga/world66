@@ -1,0 +1,200 @@
+{
+  "round": 1665,
+  "timestamp": "2026-04-13T10:40:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.1988,
+      "prior_variance": 0.42827,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": 2.2574,
+      "prior_variance": 0.521941,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 2.2895,
+      "prior_variance": 0.270117,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 3.9511,
+      "prior_variance": 0.404966,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 1.1941,
+      "prior_variance": 0.302987,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "El Bierzo",
+      "path": "europe/spain/northernspain/bierzo",
+      "prior_score": 1.443,
+      "prior_variance": 0.331954,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/yucatan/sanjosedelcabo",
+      "prior_score": 1.1654,
+      "prior_variance": 0.355097,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Tavush Marz",
+      "path": "europe/armenia/tavush_marz",
+      "prior_score": -0.4836,
+      "prior_variance": 0.358719,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bad Kreuznach",
+      "path": "europe/germany/rhinelandpalatinate/badkreuznach",
+      "prior_score": -0.7264,
+      "prior_variance": 0.332025,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -5.2577,
+      "prior_variance": 0.484143,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -5.568,
+      "prior_variance": 0.28431,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -3.8127,
+      "prior_variance": 0.369313,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Moldova",
+      "path": "europe/moldova",
+      "prior_score": -3.6208,
+      "prior_variance": 0.356911,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Giessen",
+      "path": "europe/germany/hesse/giessen",
+      "prior_score": -3.9154,
+      "prior_variance": 0.500305,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_score": -3.9961,
+      "prior_variance": 0.383443,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "khed",
+      "path": "asia/india/maharashtra/konkan/khed_1",
+      "prior_score": -7.8761,
+      "prior_variance": 0.478001,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ouesso",
+      "path": "africa/congobrazzaville/ouesso",
+      "prior_score": -7.4034,
+      "prior_variance": 0.394594,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -5.1499,
+      "prior_variance": 0.612845,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -4.1275,
+      "prior_variance": 0.331104,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_score": -3.5428,
+      "prior_variance": 0.303577,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -4.135,
+      "prior_variance": 0.309472,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/menston",
+      "prior_score": -4.7199,
+      "prior_variance": 0.304373,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_score": -7.8764,
+      "prior_variance": 0.556327,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -4.0078,
+      "prior_variance": 0.357451,
+      "prior_n": 4
+    }
+  ]
+}

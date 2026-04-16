@@ -5,6 +5,7 @@ latitude: 37.2661
 longitude: -97.3931
 title: Wellington
 type: location
+score: 0.29
 ---
 
 Wellington is the county seat of Sumner County in southern Kansas, a town of about 8,600 people that bills itself the "Wheat Capital of the World." Winter wheat dominates the surrounding plains and has shaped the town's identity since the 19th century. Wellington also grew up as a railroad town, with Santa Fe offices anchoring the south end of Main Street, and local factories still play a part in airplane parts production.

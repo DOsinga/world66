@@ -5,6 +5,7 @@ latitude: 16.5
 longitude: -92.5
 title: Chiapas
 type: location
+score: 0.62
 ---
 
 Chiapas is Mexico's southernmost state and the heart of the Mundo Maya — a landscape of misty highlands, dense jungle, and some of the most spectacular Mayan ruins in existence. The indigenous cultures here are among the strongest in Mexico; Tzotzil and Tzeltal Maya communities maintain their languages, customs, and traditional dress in ways that feel a world apart from the beach resorts on the coast.

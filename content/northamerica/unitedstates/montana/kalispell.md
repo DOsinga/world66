@@ -5,6 +5,7 @@ latitude: 48.202158
 longitude: -114.315321
 title: Kalispell
 type: location
+score: 0.5
 ---
 
 Kalispell is the gateway to Glacier National Park and the largest town in northwest Montana's Flathead Valley. The name comes from the Salish word for "flat land above the lake," and the setting delivers on that — the town sits between the peaks of the northern Rockies and the shores of Flathead Lake, the largest natural freshwater lake west of the Mississippi.

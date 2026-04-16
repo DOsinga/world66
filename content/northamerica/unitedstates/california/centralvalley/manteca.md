@@ -5,6 +5,7 @@ latitude: 37.7988
 longitude: -121.2116
 done:
   location_cleanup: 2026-04-06
+score: 0.31
 ---
 
 Manteca is a Central Valley city of around 90,000 people, tucked between Stockton and Modesto off Highway 99. It is not a destination in itself, but it sits at a remarkable crossroads: Yosemite is 90 minutes east via Highway 120, San Francisco is an hour west on Interstate 205, and the Stanislaus River parks and the California Delta are practically in the backyard.

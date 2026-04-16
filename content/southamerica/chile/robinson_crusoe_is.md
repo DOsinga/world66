@@ -5,6 +5,7 @@ latitude: -33.64445
 longitude: -78.826224
 title: Robinson Crusoe Island
 type: location
+score: 0.55
 ---
 
 Over 500 km west of [Valparaiso](/southamerica/chile/valparaiso), Robinson Crusoe Island is about as remote as it gets in the South Pacific. Part of the Juan Fernandez archipelago, this volcanic speck has rainforest, sheer cliffs, and dry coastal plains, all packed into an island you could walk across in a day. Around 500 people live here, nearly all in the village of San Juan Bautista.

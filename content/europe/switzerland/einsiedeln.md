@@ -5,6 +5,7 @@ latitude: 47.12861
 longitude: 8.75003
 title: Einsiedeln
 type: location
+score: 0.53
 ---
 
 Einsiedeln is a small town in the canton of Schwyz, sitting at about 880 meters in a broad valley below the Pre-Alps. It is about an hour from [Zurich](/europe/switzerland/zurich) by train, but feels a world away — quiet, green, and dominated by one of the most impressive baroque churches in Switzerland.

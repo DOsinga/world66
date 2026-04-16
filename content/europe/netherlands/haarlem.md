@@ -1,8 +1,15 @@
 ---
-title: "Haarlem"
-type: location
+done:
+  location_cleanup: '2026-04-16'
+image: haarlem.jpg
+image_attribution: Fryslan0109 at English Wikipedia
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:HaarlemGroteMarkt1.JPG
 latitude: 52.388532
 longitude: 4.638805
+score: 0.61
+title: Haarlem
+type: location
 ---
 
 Not only has this 900-year-old town an historic center full of beautiful medieval houses, a 13th-century city hall and the oldest museum of the Netherlands, the Teylers Museum (science technology and Dutch art), but it is also the home town of the author.

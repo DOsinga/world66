@@ -5,6 +5,7 @@ latitude: 62.1552
 longitude: -7.175
 title: Vestmanna
 type: location
+score: 0.57
 ---
 
 Vestmanna is a small fishing town on the west coast of Streymoy, located past the tunnel entrance to [Vagar](/europe/faroeislands/vagar) when coming from [Torshavn](/europe/faroeislands/torshavn). Its main draw is the boat trip to the Vestmanna bird cliffs — one of the best excursions in the Faroes.

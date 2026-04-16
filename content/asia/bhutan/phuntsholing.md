@@ -1,10 +1,11 @@
 ---
-title: "Phuntsholing"
+title: Phuntsholing
 type: location
 latitude: 26.863961
 longitude: 89.383736
 done:
   location_cleanup: 2026-04-08
+score: 0.45
 ---
 
 Phuntsholing is the main gateway to [Bhutan](/asia/bhutan) from India, sitting on the southwest border where the Himalayan foothills meet the Indian plains. The town faces Jaigaon on the Indian side, and the border crossing between them is one of the busiest in the country — a constant flow of shoppers, traders, and travellers moving back and forth.

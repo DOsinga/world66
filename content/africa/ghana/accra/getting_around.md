@@ -1,16 +1,12 @@
 ---
-title: "Getting Around in Accra"
+title: "Getting Around"
 type: section
 ---
 
-**Local Transportation in Accra**
+Accra is bigger and more spread out than it first appears, and getting from one neighbourhood to another can mean an hour stuck in traffic. Walking is fine within Osu, Jamestown, or the Independence Square axis, but you'll need wheels for almost everything else.
 
-Being in the capital of Ghana, you may want to learn about the different **Accra transportation** options. The local transportation is secured by taxis and tro-tros.
+**Taxis** are everywhere — yellow-fronted, mostly without meters. Agree the fare before getting in; a short hop within town should be a few cedis, a longer cross-town ride more. Bolt and Uber both work in Accra and remove the bargaining entirely; both are usually the cheapest option.
 
-** Taxis**
+**Tro-tros** — battered minibuses crammed to twenty-plus passengers — are how most Ghanaians get around. Routes are fixed, fares are tiny, the mate hangs out the door shouting the destination. They're slow, hot, and an experience worth having at least once.
 
-Riding on a taxi is the most popular form of transportation for visitors to Accra. The city is swarming with thousands of taxis. You will easily distinguish them from the other cars by the yellow color of the front and back. Keep in mind a big part of the taxis work on a shared basis, so don't be surprised if the driver stops to take other passengers along the way. A lot of the taxis lack meters, so you will have to negotiate the fees with the driver. When doing this, be aware of the fact that a trip around town shouldn't cost you more than $2.
-
-** Tro-Tros**
-
-Riding on a Tro-Tro will bring you closer to the Ghanaian way of life. This should be a transportation choice only for adventurous travelers. The Tro-Tros are the cheapest form of transport in Accra. They are minibuses usually capable of accommodating up to 20 passengers, but they often carry a lot more. Tickets are sold by the driver and usually cost about $1, even for the most distant rides. The vehicles are old and in bad condition, so it is risky to ride on them. Tro-Tros have no fixed schedules and only leave if there are enough passengers in them.
+**Driving yourself** in Accra is not recommended. The traffic is brutal, signage is poor, and parking is a problem. If you must, hire a car with a driver.

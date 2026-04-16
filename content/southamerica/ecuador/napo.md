@@ -5,6 +5,7 @@ latitude: -0.608197
 longitude: -77.952034
 title: Napo
 type: location
+score: 0.47
 ---
 
 Napo Province stretches from the high páramo east of [Quito](/southamerica/ecuador/quito) down through cloud forest into the upper Amazon basin. It is one of the easiest routes into Ecuador's Oriente — the road from Quito drops through Papallacta pass and descends to the lowland town of Tena in a few hours.

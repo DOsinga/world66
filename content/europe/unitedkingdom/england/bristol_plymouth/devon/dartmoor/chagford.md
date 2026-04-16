@@ -5,6 +5,7 @@ latitude: 50.673136
 longitude: -3.840229
 title: Chagford
 type: location
+score: 0.49
 ---
 
 Chagford is a small moorland town on the eastern edge of [Dartmoor](/europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor), historically one of the four Stannary towns that governed the tin-mining industry — these towns had their own laws and courts, independent of the Crown.

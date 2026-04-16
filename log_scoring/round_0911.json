@@ -1,0 +1,200 @@
+{
+  "round": 911,
+  "timestamp": "2026-04-12T14:49:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 15.7412,
+      "prior_variance": 7.015245,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "France",
+      "path": "europe/france",
+      "prior_score": 16.1583,
+      "prior_variance": 6.85589,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/wanaka",
+      "prior_score": 7.1435,
+      "prior_variance": 0.838635,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_score": 7.8684,
+      "prior_variance": 3.025586,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/titikakapoor_knig",
+      "prior_score": 4.3999,
+      "prior_variance": 1.449424,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/california/sandiego/downtown",
+      "prior_score": 6.0001,
+      "prior_variance": 1.875741,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": -4.3293,
+      "prior_variance": 2.274476,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Arecibo",
+      "path": "northamerica/puertorico/arecibo",
+      "prior_score": -1.6857,
+      "prior_variance": 1.368018,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/saranda/jal",
+      "prior_score": 5.1706,
+      "prior_variance": 1.381765,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 1.6265,
+      "prior_variance": 1.660257,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -1.2401,
+      "prior_variance": 1.24458,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": 0.2971,
+      "prior_variance": 0.302856,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 8.9958,
+      "prior_variance": 3.034713,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -2.6991,
+      "prior_variance": 1.285063,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.6157,
+      "prior_variance": 1.905271,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_score": -4.1966,
+      "prior_variance": 0.533045,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hedensted",
+      "path": "europe/denmark/hedensted",
+      "prior_score": 0.1721,
+      "prior_variance": 1.751629,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Duhok",
+      "path": "asia/iraq/arbil/duhok",
+      "prior_score": -6.6684,
+      "prior_variance": 2.953571,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_score": -3.4219,
+      "prior_variance": 1.306038,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -10.2195,
+      "prior_variance": 2.830468,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ingal",
+      "path": "africa/niger/ingal",
+      "prior_score": -12.3326,
+      "prior_variance": 3.177111,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -9.2465,
+      "prior_variance": 1.213975,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -8.4017,
+      "prior_variance": 1.380123,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bost",
+      "path": "asia/afghanistan/bost",
+      "prior_score": -12.2952,
+      "prior_variance": 1.543939,
+      "prior_n": 2
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 42.120133
 longitude: -8.31824
 done:
   location_cleanup: 2026-04-07
+score: 0.46
 ---
 
 Arbo is a small municipality in the southwest of Pontevedra province, on the right bank of the Miño river where it forms the border with Portugal. The economy has traditionally been built on agriculture — corn and wine — and fishing in the Miño, where salmon, shad, lamprey, trout, and carp are caught.

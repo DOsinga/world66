@@ -10,6 +10,7 @@ image_attribution: <a href="https://de.wikipedia.org/wiki/Benutzer:Albinfo" clas
   title="de:Benutzer:Albinfo">Albinfo</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.58
 ---
 
 Albania is a small country on the southeastern Adriatic coast, wedged between Montenegro, Kosovo, North Macedonia, and Greece. It spent 45 years under one of the most extreme communist regimes in the world, sealed off from outside contact until 1991. That isolation left the country economically behind its neighbours but also, paradoxically, preserved things: landscapes unmarked by mass tourism, cities with genuine character, villages where the old ways held.

@@ -1,4 +1,0 @@
----
-title: "Chagauramas"
-type: location
----

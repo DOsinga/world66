@@ -5,6 +5,7 @@ latitude: 30.400763
 longitude: -88.889382
 title: Biloxi
 type: location
+score: 0.38
 ---
 
 Biloxi sits on a narrow peninsula between the Mississippi Sound and Back Bay, a Gulf Coast city that has reinvented itself several times over. It started as a French colonial capital, became a playground for New Orleans weekenders, was nearly wiped off the map by Hurricane Katrina in 2005, and rebuilt around its casino industry.

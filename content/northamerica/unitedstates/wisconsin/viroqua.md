@@ -5,6 +5,7 @@ latitude: 43.556917
 longitude: -90.888741
 title: Viroqua
 type: location
+score: 0.34
 ---
 
 Viroqua is a small town of about 5,000 people in the heart of Wisconsin's Driftless Region — the southwest corner of the state that was never flattened by glaciers. The result is a landscape of winding coulees, sandstone bluffs, spring-fed streams, and valleys that look like nowhere else in the Midwest.

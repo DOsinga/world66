@@ -1,10 +1,11 @@
 ---
-title: "Larache"
+title: Larache
 type: location
 latitude: 35.195233
 longitude: -6.152913
 done:
   location_cleanup: 2026-04-08
+score: 0.49
 ---
 
 Larache is a relaxed Atlantic coast town where few tourists venture, making it a good place to experience everyday Moroccan life without the hustle of the more popular destinations. The town sits beside an estuary that opens into the Atlantic, with sea cliffs to the west and tangerine and orange groves to the south.

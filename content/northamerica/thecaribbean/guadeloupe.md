@@ -1,16 +1,21 @@
 ---
-title: Guadeloupe
-type: location
+done:
+  country_cleanup: 2026-03-29
+  location_cleanup: '2026-04-08'
+image: guadeloupe.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Slaunger" title="User:Slaunger">Kim
+  Hansen</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Fort_Napoléon_des_Saintes_2010-03-30.jpg
 latitude: 16.265
 longitude: -61.551
-done:
-  location_cleanup: 2026-04-06
+title: Guadeloupe
+type: location
+score: 0.65
 ---
 
-Guadeloupe is France in the Caribbean — a butterfly-shaped archipelago where Creole culture, French cuisine, and volcanic landscapes come together in a way you won't find anywhere else in the West Indies. The two main islands, Basse-Terre and Grande-Terre, are joined by a narrow strait and could hardly be more different from each other.
+Guadeloupe is a French overseas region in the eastern Caribbean, part of the Lesser Antilles archipelago. It sits between Antigua to the north and Dominica to the south, and because it is French territory, it uses the euro, operates under French law, and sends representatives to the French parliament. For visitors, this means good infrastructure, French food culture, and an easier entry process for EU citizens — alongside all the warmth and color of the Caribbean.
 
-Grande-Terre to the east is the smaller of the two despite its name. It's flat, dry, and ringed with white sand beaches. This is where most visitors end up, and where you'll find the commercial capital [Pointe-a-Pitre](/northamerica/thecaribbean/guadeloupe/pointeapitre) with its markets and lively streets. Basse-Terre to the west is mountainous and wild, dominated by the active La Soufriere volcano and covered in dense tropical rainforest. The administrative capital [Basse-Terre](/northamerica/thecaribbean/guadeloupe/basseterre) sits on its southwest coast, with pretty colonial buildings, a 17th-century cathedral, and the ruins of Fort Louis Delgres.
+The territory consists of six main inhabited islands. The two largest, Basse-Terre and Grande-Terre, are joined at the narrow Rivière Salée strait and form the shape of a butterfly. Basse-Terre, despite its name ("low land"), is the more rugged of the two: it's dominated by the active volcano La Soufrière (1,467m), covered in rainforest, and home to the administrative capital of the same name. Grande-Terre is flatter, drier, and more tourist-oriented, with the main commercial hub of [Pointe-à-Pitre](/northamerica/thecaribbean/guadeloupe/pointeapitre) and most of the large beach resorts. Beyond these two, the outer islands — [Les Saintes](/northamerica/thecaribbean/guadeloupe/lessaintes), [Marie-Galante](/northamerica/thecaribbean/guadeloupe/mariegalante), and [La Désirade](/northamerica/thecaribbean/guadeloupe/ladesirade) — each have their own distinct character and are well worth the short ferry ride.
 
-Beyond the two main islands, the outer archipelago is worth the ferry ride. [Les Saintes](/northamerica/thecaribbean/guadeloupe/lessaintes) is a cluster of tiny islands with one of the most beautiful bays in the Caribbean. [Marie-Galante](/northamerica/thecaribbean/guadeloupe/mariegalante) is rural and unhurried, known for its rum distilleries and ox-cart festivals. [La Desirade](/northamerica/thecaribbean/guadeloupe/ladesirade) is the most remote — a flat coral island where time genuinely seems to slow down.
-
-Pack a French dictionary. Guadeloupe is a full department of France, and while Creole is spoken everywhere, French is the language of daily life. The blend of African, European, and East Indian heritage runs through everything — the food, the music, the architecture. You'll eat boudin noir and accras de morue at roadside stands, hear zouk and gwoka drumming, and find yourself on beaches that range from surf-brushed dark volcanic sand on Basse-Terre's west coast to long white stretches on Grande-Terre.
+The population is around 400,000, predominantly Creole — people of mixed African, European, and occasionally East Indian descent. French is the official language but Guadeloupean Creole, a French-lexified language with African and Amerindian roots, is widely spoken in everyday life. The culture blends French structure with Caribbean spirit: markets, festivals, rum, and music are central to daily life.

@@ -5,6 +5,7 @@ latitude: -33.590295
 longitude: 22.204206
 title: Oudtshoorn
 type: location
+score: 0.55
 ---
 
 Oudtshoorn built its wealth on ostrich feathers. In the early twentieth century, when European fashion demanded feathers for hats and boas, this Karoo town boomed so spectacularly it earned the name "Feather Capital of the World." The legacy is visible in the sandstone "feather palaces" that the ostrich barons built — absurdly grand houses in a semi-desert town. The CP Nel Museum covers the whole strange story well.

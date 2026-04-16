@@ -5,6 +5,7 @@ latitude: 39.74379
 longitude: -8.807112
 done:
   location_cleanup: 2026-04-06
+score: 0.52
 ---
 
 Located in the centre of Portugal, Leiria is a city with a long history. The town gained prominence in the 12-th century as the southern outpost of the early Portuguese kingdom, in the defence against the Moors. Leiria castle was attacked and destroyed repeatedly.

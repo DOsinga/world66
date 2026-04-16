@@ -5,6 +5,7 @@ latitude: 37.8
 longitude: 27.4
 title: West Coast
 type: location
+score: 0.64
 ---
 
 The west coast of Turkey is one of the great crossroads of the ancient world, and the archaeology alone would justify a long visit. The Ionian coast — the stretch running roughly from [Pergamon](/asia/turkey/pergamon) in the north down through [Ephesus](/asia/turkey/ephesus) and [Aphrodisias](/asia/turkey/aphrodisias) to [Marmaris](/asia/turkey/marmaris) in the south — was as culturally significant in antiquity as anything on the Greek mainland. Greek temples, Roman cities, Byzantine churches, and Ottoman harbour towns appear at almost every turn.

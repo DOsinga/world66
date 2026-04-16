@@ -5,6 +5,7 @@ latitude: 19.8482
 longitude: -90.5259
 title: Campeche
 type: location
+score: 0.63
 ---
 
 The Land of Serpents and Ticks, as the Mayas called this place, is an attractive colonial city on the Gulf of Mexico. Campeche's old centre, a UNESCO World Heritage Site, was beautifully restored in the early 2000s — the pastel-coloured buildings, fortified walls, and underground cables give it a clean, photogenic look that is rare in Mexican cities.

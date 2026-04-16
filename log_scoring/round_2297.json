@@ -1,0 +1,200 @@
+{
+  "round": 2297,
+  "timestamp": "2026-04-13T16:28:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 3.3913,
+      "prior_variance": 0.257621,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 2.4513,
+      "prior_variance": 0.230064,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Les eyzies",
+      "path": "europe/france/midi/aquitaine/leseyzies",
+      "prior_score": 3.2963,
+      "prior_variance": 0.2147,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 3.8269,
+      "prior_variance": 0.261694,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_score": 3.7133,
+      "prior_variance": 0.228525,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_score": 2.7803,
+      "prior_variance": 0.237366,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_score": 1.7525,
+      "prior_variance": 0.176621,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Central Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago/central_otago",
+      "prior_score": 6.1287,
+      "prior_variance": 0.317511,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Karnataka",
+      "path": "asia/india/karnataka",
+      "prior_score": 3.7601,
+      "prior_variance": 0.276652,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_score": -2.7327,
+      "prior_variance": 0.315247,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "La Mancha",
+      "path": "europe/spain/la_mancha",
+      "prior_score": 2.0054,
+      "prior_variance": 0.246989,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -2.6677,
+      "prior_variance": 0.280888,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/norfolk/norwich",
+      "prior_score": 0.0903,
+      "prior_variance": 0.2531,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/beverley",
+      "prior_score": 0.2692,
+      "prior_variance": 0.236965,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_score": 1.2985,
+      "prior_variance": 0.186458,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/eastern_england/ipswich",
+      "prior_score": -3.1842,
+      "prior_variance": 0.251615,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": 0.8978,
+      "prior_variance": 0.271467,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "New Brunswick",
+      "path": "northamerica/canada/newbrunswick",
+      "prior_score": -0.7155,
+      "prior_variance": 0.219262,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Maryland",
+      "path": "northamerica/unitedstates/maryland",
+      "prior_score": -1.4962,
+      "prior_variance": 0.21763,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville_nort",
+      "prior_score": -1.3658,
+      "prior_variance": 0.212913,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -4.8949,
+      "prior_variance": 0.218283,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "S.Mamede Infesta",
+      "path": "europe/portugal/smamedeinfesta",
+      "prior_score": -4.3842,
+      "prior_variance": 0.235477,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -5.9105,
+      "prior_variance": 0.270045,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hasilpur",
+      "path": "asia/pakistan/islamabad/hasilpur",
+      "prior_score": -7.5049,
+      "prior_variance": 0.410844,
+      "prior_n": 6
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 0.734362
 longitude: -79.385887
 title: Esmeraldas
 type: location
+score: 0.4
 ---
 
 Esmeraldas province stretches along Ecuador's northern Pacific coast — poor in money, rich in wildlife and nature. The popular beach towns of Atacames, Tonsupa, Sua, and Same serve as Quito's seaside playground and fill up on weekends and holidays. The nightlife in Atacames is loud and lively, though the crowds can be overwhelming.

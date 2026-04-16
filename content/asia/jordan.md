@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Freedom%27s_Falcon
   title="User:Freedom's Falcon">Freedom's Falcon</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.67
 ---
 
 Jordan punches well above its weight. A small country with no oil wealth and limited natural resources, it has assembled some of the most remarkable sights in the world: a city carved from rose-red sandstone, the lowest point on earth, Roman ruins that rival anything in Italy, and desert landscapes that feel like another planet. It is also, by the standards of the region, calm, stable, and welcoming.

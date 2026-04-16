@@ -5,6 +5,7 @@ latitude: -55.9797
 longitude: -67.2717
 title: Cape Horn
 type: location
+score: 0.53
 ---
 
 There are places on the map that exist as myth before you ever get close to them, and Cape Horn is one of them. The southernmost point of the Americas, the place where the Atlantic and Pacific meet, the graveyard of hundreds of ships that tried to round it in the age of sail — the Horn carries real weight. Standing at 55°58′S on Isla Hornos, deep in the Chilean Tierra del Fuego archipelago, it is as remote and elemental a spot as you are likely to reach without a full expedition.

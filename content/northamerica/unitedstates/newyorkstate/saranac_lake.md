@@ -5,6 +5,7 @@ latitude: 44.329661
 longitude: -74.13112
 title: Saranac Lake
 type: location
+score: 0.49
 ---
 
 Saranac Lake is a village in the heart of the Adirondack Mountains, surrounded by pristine lakes, evergreen forest, and modest peaks that reward hikers with wide views. It has a year-round mountain-town character that many Adirondack communities lose once the leaves fall.

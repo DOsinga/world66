@@ -1,14 +1,11 @@
 ---
-title: "TAUNSA SHARIF"
+done:
+  location_cleanup: '2026-04-16'
+latitude: 30.7026
+longitude: 70.6511
+score: 0.19
+title: Taunsa Sharif
 type: location
-latitude: 30.702589
-longitude: 70.651128
 ---
 
-Travel Guide
-
-The city Taunsa Sharif is situated in the District D.G.Khan of South Punjab. This deprived city is also known as Mini UNAN due to its high literacy rate. Taunsa Sharif is famous city due to the shrine of “*** Pir Phatan Hazrat Khawaja Shah Suleman*** ”, who have been a well known scholar of the subcontinent. For traveling and picnic Tribal Area of Taunsa Sharif is a good choice however Taunsa Barag is also a nice spot. The people belong to this city speak Saraki and Balochi. Well known costs of Taunsa Sharif are Buzdar, Qaisrani, Khosa, Sikhani, Malgani, Nutkani etc.
-
-Muhammad Farooq Iqbal Buzdar
-(Lecturer COMSATS Islamabad)
-farooqbuzdar@gmail.com
+Taunsa Sharif is a small town in the Dera Ghazi Khan district of Punjab, set in the arid plains east of the Sulaiman Mountains. It draws visitors as a site of Sufi pilgrimage — the town is named after the revered saint Hazrat Syed Ahmad Sultan, whose shrine is the focal point of the old town. The Taunsa Barrage on the Indus River, a few kilometres from town, is an engineering landmark and a popular local outing.

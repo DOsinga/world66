@@ -1,0 +1,200 @@
+{
+  "round": 1364,
+  "timestamp": "2026-04-12T22:23:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tampa Bay Area",
+      "path": "northamerica/unitedstates/florida/tampabayarea",
+      "prior_rank": 1077,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kyrgyzstan",
+      "path": "asia/kyrgyzstan",
+      "prior_rank": 1580,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Maun",
+      "path": "africa/botswana/maun",
+      "prior_rank": 1528,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "North of Mombasa",
+      "path": "africa/kenya/thecoast/northofmombasa",
+      "prior_rank": 3484,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_rank": 1110,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_natio",
+      "prior_rank": 1436,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_rank": 2200,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_rank": 3787,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_rank": 1953,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_rank": 2673,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_rank": 4024,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "C\u00e9vennes",
+      "path": "europe/france/midi/cevennes",
+      "prior_rank": 2600,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_rank": 4684,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/coniston_1",
+      "prior_rank": 1142,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_rank": 1647,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_rank": 2739,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_rank": 3239,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Agder",
+      "path": "europe/norway/southernnorways/agder",
+      "prior_rank": 3113,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_rank": 2187,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_rank": 5570,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Einsiedeln",
+      "path": "europe/switzerland/einsiedeln",
+      "prior_rank": 5026,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_rank": 1889,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_rank": 2893,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_rank": 3576,
+      "prior_wins": 29,
+      "prior_n": 3
+    }
+  ]
+}

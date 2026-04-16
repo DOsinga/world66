@@ -5,6 +5,7 @@ latitude: 49.671
 longitude: -125.0353
 done:
   location_cleanup: 2026-04-07
+score: 0.51
 ---
 
 The Comox Valley sits halfway up the east coast of [Vancouver Island](/northamerica/canada/britishcolumbia/vancouverisland), a cluster of three small towns — Comox, Courtenay, and Cumberland — nestled between the mountains and the ocean. The geography is what makes it: rolling mountains, alpine meadows, rivers, lakes, and forests, all within a few minutes of each other, with a temperate climate that keeps things green year-round.

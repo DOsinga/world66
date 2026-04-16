@@ -1,8 +1,9 @@
 ---
-title: "Uttar Pradesh"
+title: Uttar Pradesh
 type: location
 latitude: 27.130334
 longitude: 80.859666
+score: 0.4
 ---
 
 Often reffered to as the cow belt or Hindi belt, Uttar Pradesh has been the most dominant state in Indian politics and culture since Independence, producing nine of India's 13 prime ministers. This is partly because it's the nation's most populous state - it has as many inhabitants as Brazil -and partly because of the central role the region plays in the religious landscape of Hindus. 
@@ -19,9 +20,9 @@ Most of Uttar Pradesh consists of the vast Ganges plain, an area of awesome flat
 [Agra](/asia/india/uttarpradesh/agra)
 [Kanpur](/asia/india/uttarpradesh/kanpur)
 [Ghaziabad](/asia/india/uttarpradesh/ghaziabad)
-[Nainital](/asia/india/uttarpradesh/nainital)
+[Nainital](/asia/india/uttaranchal/nainital)
 [Aligarh](/asia/india/uttarpradesh/aligarh)
 [Varanasi](/asia/india/uttarpradesh/varanasi)
 [Fatehpur Sikri](/asia/india/uttarpradesh/fatehpursikri)
-[Haridwar](/asia/india/uttarpradesh/haridwar)
+[Haridwar](/asia/india/uttaranchal/haridwar)
 [Rishikesh](/asia/india/uttarpradesh/rishikesh)

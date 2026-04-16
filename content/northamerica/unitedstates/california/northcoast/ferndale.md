@@ -5,6 +5,7 @@ latitude: 40.5779
 longitude: -124.2621
 title: Ferndale
 type: location
+score: 0.42
 ---
 
 Ferndale is a beautifully preserved Victorian village in the Eel River valley of Humboldt County. The main street is lined with ornate "butterfat palaces" — the grand homes built by prosperous dairy farmers in the late 1800s — and the whole town has the feel of a living museum, without the stuffiness. It is a pleasant stop on a drive up Highway 101, worth an hour or two to walk the main street and admire the architecture.

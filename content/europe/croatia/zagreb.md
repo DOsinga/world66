@@ -5,6 +5,7 @@ latitude: 45.815
 longitude: 15.9819
 done:
   location_cleanup: 2026-04-05
+score: 0.63
 ---
 
 Zagreb is Croatia's capital and a city that most visitors skip on their way to the Dalmatian coast — a mistake, because it is one of the more likeable small European capitals, with a strong café culture, excellent museums, and a leafy, walkable old town that fills up with locals rather than tourists. About a million people live here, and the atmosphere is distinctly Austro-Hungarian: wide boulevards lined with 19th-century apartment buildings, parks designed on the Viennese model, and the kind of café-sitting, people-watching, unhurried social rhythm that the locals call *špica* — the Saturday-morning ritual of getting dressed up and parading through the centre with a coffee.

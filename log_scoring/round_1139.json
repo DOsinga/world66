@@ -1,0 +1,200 @@
+{
+  "round": 1139,
+  "timestamp": "2026-04-12T22:11:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_rank": 736,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_rank": 1109,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_rank": 69,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Varadero",
+      "path": "northamerica/cuba/varadero",
+      "prior_rank": 1342,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_rank": 438,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall",
+      "prior_rank": 493,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict",
+      "prior_rank": 318,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_rank": 182,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Krk Island",
+      "path": "europe/croatia/krkisland",
+      "prior_rank": 1095,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "East Coast",
+      "path": "australiaandpacific/australia/tasmania/eastcoast",
+      "prior_rank": 875,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_rank": 901,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_rank": 2227,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_rank": 666,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_rank": 1520,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_rank": 881,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_rank": 1084,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_rank": 174,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/dunedin",
+      "prior_rank": 684,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_rank": 1816,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_rank": 912,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_rank": 441,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_rank": 2803,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/casadecampo/la_romana",
+      "prior_rank": 2623,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sint Maarten",
+      "path": "northamerica/netherlandsantilles/sintmaarten",
+      "prior_rank": 1274,
+      "prior_wins": 36,
+      "prior_n": 2
+    }
+  ]
+}

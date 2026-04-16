@@ -5,6 +5,7 @@ latitude: 1.2064
 longitude: 103.7564
 title: Sister Islands
 type: location
+score: 0.4
 ---
 
 Sister Islands — formally Subar Laut and Subar Darat — are two small islands lying just south of Sentosa that together make up one of Singapore's less-visited marine reserves. The surrounding waters are among the clearest around the main island, and the reef hosts a good variety of coral and tropical fish, making snorkelling the main draw. The islands are linked by a sandbar at low tide.

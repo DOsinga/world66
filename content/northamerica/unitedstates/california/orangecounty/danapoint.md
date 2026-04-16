@@ -5,6 +5,7 @@ latitude: 33.467
 longitude: -117.6981
 title: Dana Point
 type: location
+score: 0.49
 ---
 
 Dana Point sits on the southern [Orange County](/northamerica/unitedstates/california/orangecounty) coast between [Laguna Beach](/northamerica/unitedstates/california/orangecounty/lagunabeach) and [San Clemente](/northamerica/unitedstates/california/orangecounty/sanclemente), built around one of the few harbors in the region. Named after Richard Henry Dana Jr., who described the headlands in his 1840 memoir *Two Years Before the Mast*, the town today revolves around its harbor, its surf breaks, and its whale-watching boats.

@@ -5,6 +5,7 @@ latitude: 5.35006
 longitude: -0.62134
 title: Winneba
 type: location
+score: 0.4
 ---
 
 Winneba is a friendly coastal town about an hour west of [Accra](/africa/ghana/accra), with a long sandy beach and a relaxed pace that makes it a good escape from the capital. The town has a university campus and a lively fishing harbour.

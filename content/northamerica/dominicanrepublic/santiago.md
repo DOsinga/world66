@@ -5,6 +5,7 @@ latitude: 19.4517
 longitude: -70.697
 title: Santiago
 type: location
+score: 0.38
 ---
 
 Santiago de los Caballeros, the Dominican Republic's second city, sits in the heart of the fertile Cibao Valley surrounded by tobacco fields and low mountains. Founded in 1495, it is the country's major industrial centre and a proud, working city that runs on its own rhythm rather than on tourism.

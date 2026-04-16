@@ -5,6 +5,7 @@ latitude: 32.374592
 longitude: 15.09058
 title: Misurata
 type: location
+score: 0.2
 ---
 
 Misurata is Libya's third largest city, with a population of around 300,000. It sits on the site of an ancient Phoenician trading post, some 200 km east of [Tripoli](/africa/libya/tripoli) and 825 km west of [Benghazi](/africa/libya/benghazi).

@@ -1,10 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: deefteling.jpg
+image_attribution: bertknot
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:De_efteling(207).jpg
 latitude: 51.648431
 longitude: 5.043606
 title: De Efteling
 type: location
+score: 0.6
 ---
 
 De Efteling is the Netherlands' most-visited amusement park, drawing over 5 million visitors a year. It is located near Kaatsheuvel in the province of Noord-Brabant, not far from [Den Bosch](/europe/netherlands/denbosch).

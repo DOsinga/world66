@@ -5,6 +5,7 @@ latitude: -16.826149
 longitude: -179.935461
 title: Taveuni
 type: location
+score: 0.71
 ---
 
 Taveuni is Fiji's "Garden Island," the third-largest island in the archipelago and one of its most beautiful. The volcanic soil and heavy rainfall produce an almost absurdly lush landscape: dense tropical forest, cascading waterfalls, and hillsides thick with coconut palms and tropical flowers. The 180th meridian runs through the island, which means you can technically stand with one foot in today and one foot in yesterday, though the International Date Line itself was long ago bent around Fiji for practical reasons.

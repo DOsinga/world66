@@ -5,6 +5,7 @@ latitude: 42.6441
 longitude: 11.985
 title: Bolsena
 type: location
+score: 0.53
 ---
 
 Bolsena is a small town on the northeastern shore of Lago di Bolsena, the largest volcanic lake in Europe. The lake itself is the main attraction — clean, calm water surrounded by green hills, with two small islands visible from the shore. Swimming and boating are popular in summer, and the lake's volcanic soil supports an eel population that turns up in local cuisine.

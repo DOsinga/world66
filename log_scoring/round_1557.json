@@ -1,0 +1,200 @@
+{
+  "round": 1557,
+  "timestamp": "2026-04-13T10:31:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Croatia",
+      "path": "europe/croatia",
+      "prior_score": 0.009,
+      "prior_variance": 1.444061,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Australia",
+      "path": "australiaandpacific/australia",
+      "prior_score": 0.6517,
+      "prior_variance": 0.509223,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Botswana",
+      "path": "africa/botswana",
+      "prior_score": 2.2066,
+      "prior_variance": 0.583654,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "The Rift Valley",
+      "path": "africa/kenya/theriftvalley",
+      "prior_score": 3.4051,
+      "prior_variance": 0.55459,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 7.8811,
+      "prior_variance": 0.450261,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_score": 5.3257,
+      "prior_variance": 0.444307,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hunza valley",
+      "path": "asia/pakistan/hunzavalley",
+      "prior_score": 2.9814,
+      "prior_variance": 0.485574,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 5.5903,
+      "prior_variance": 0.476875,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 7.1363,
+      "prior_variance": 0.434572,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 3.1386,
+      "prior_variance": 0.329208,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Treviso",
+      "path": "europe/italy/veneto/treviso",
+      "prior_score": 5.6127,
+      "prior_variance": 0.385222,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 2.4374,
+      "prior_variance": 0.401004,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_score": 3.5472,
+      "prior_variance": 0.423685,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 4.0367,
+      "prior_variance": 0.512642,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 0.719,
+      "prior_variance": 0.562014,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_score": 2.2915,
+      "prior_variance": 0.556438,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_score": 2.8648,
+      "prior_variance": 0.386809,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/suva",
+      "prior_score": 1.8685,
+      "prior_variance": 0.424491,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/losangeles/manhattenbeach",
+      "prior_score": 2.3675,
+      "prior_variance": 0.500208,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 3.2641,
+      "prior_variance": 0.386793,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 3.2873,
+      "prior_variance": 0.459286,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 0.6754,
+      "prior_variance": 0.405374,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 4.1041,
+      "prior_variance": 0.441661,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 7.5505,
+      "prior_variance": 0.466482,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "round": 646,
+  "timestamp": "2026-04-12T10:41:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 12,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_mu": 22.7545,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Lefini reserve",
+      "path": "africa/congobrazzaville/lefinireserve",
+      "prior_mu": 18.07,
+      "prior_sigma": 4.9177,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sangha region",
+      "path": "africa/congobrazzaville/sangharegion",
+      "prior_mu": 18.9001,
+      "prior_sigma": 4.8004,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Kouilou region",
+      "path": "africa/congobrazzaville/kouilouregion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Ouesso",
+      "path": "africa/congobrazzaville/ouesso",
+      "prior_mu": 17.4889,
+      "prior_sigma": 6.4561,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Loubomo",
+      "path": "africa/congobrazzaville/loubomo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Bouenza region",
+      "path": "africa/congobrazzaville/bouenzaregion",
+      "prior_mu": 21.5865,
+      "prior_sigma": 5.9257,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Lekoumou region",
+      "path": "africa/congobrazzaville/lekoumouregion",
+      "prior_mu": 21.4368,
+      "prior_sigma": 5.9324,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mossaka",
+      "path": "africa/congobrazzaville/mossaka",
+      "prior_mu": 15.1008,
+      "prior_sigma": 3.42,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Nkayi",
+      "path": "africa/congobrazzaville/nkayi",
+      "prior_mu": 18.2942,
+      "prior_sigma": 6.7554,
+      "prior_n": 1
+    }
+  ]
+}

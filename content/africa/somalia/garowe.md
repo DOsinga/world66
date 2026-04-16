@@ -5,6 +5,7 @@ latitude: 8.406143
 longitude: 48.483195
 title: Garowe
 type: location
+score: 0.19
 ---
 
 Garowe is the capital of Puntland, Somalia's semi-autonomous northeastern region. It sits in the Nugal valley at around 500 m elevation, which makes it cooler than the coastal cities. The city has grown from a small settlement into a functioning regional capital since Puntland was established in 1998, and it serves as the seat of the Puntland government.

@@ -5,6 +5,7 @@ latitude: 54.282001
 longitude: -0.401187
 title: Scarborough
 type: location
+score: 0.53
 ---
 
 Scarborough is a classic seaside resort on the east coast of Yorkshire. The old town is built around a massive headland that juts out into the North Sea, dividing the town into a north side and a south side.

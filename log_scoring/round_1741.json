@@ -1,0 +1,200 @@
+{
+  "round": 1741,
+  "timestamp": "2026-04-13T10:47:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 9.13,
+      "prior_variance": 0.380545,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lake Atitl\u00e1n",
+      "path": "northamerica/guatemala/lakeatitlan",
+      "prior_score": 6.0138,
+      "prior_variance": 0.503558,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 7.3225,
+      "prior_variance": 0.412361,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 3.5764,
+      "prior_variance": 0.31505,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_score": 4.1788,
+      "prior_variance": 0.29071,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 3.7295,
+      "prior_variance": 0.335272,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 2.3978,
+      "prior_variance": 0.326808,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Wharfedale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
+      "prior_score": 2.4773,
+      "prior_variance": 0.334309,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_score": 3.3878,
+      "prior_variance": 0.337359,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 3.7816,
+      "prior_variance": 0.382832,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 0.8624,
+      "prior_variance": 0.389953,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": -0.0024,
+      "prior_variance": 0.314053,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/longreach",
+      "prior_score": -1.7176,
+      "prior_variance": 0.366254,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_score": -1.819,
+      "prior_variance": 0.287046,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 2.2713,
+      "prior_variance": 0.36632,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": -0.3447,
+      "prior_variance": 0.529859,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_score": -4.1311,
+      "prior_variance": 0.498573,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -1.7546,
+      "prior_variance": 0.304025,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_2",
+      "prior_score": -5.7542,
+      "prior_variance": 0.601922,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang",
+      "prior_score": -4.3421,
+      "prior_variance": 0.334971,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_score": -3.1861,
+      "prior_variance": 0.320089,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -4.7698,
+      "prior_variance": 0.246214,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -5.5143,
+      "prior_variance": 0.383016,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Elyria",
+      "path": "northamerica/unitedstates/ohio/elyria",
+      "prior_score": -6.3304,
+      "prior_variance": 0.378148,
+      "prior_n": 4
+    }
+  ]
+}

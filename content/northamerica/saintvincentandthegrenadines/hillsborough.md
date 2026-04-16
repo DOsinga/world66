@@ -1,4 +1,0 @@
----
-title: "Hillsborough"
-type: location
----

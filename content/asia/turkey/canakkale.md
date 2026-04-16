@@ -5,6 +5,7 @@ latitude: 40.054989
 longitude: 26.927829
 title: Canakkale
 type: location
+score: 0.56
 ---
 
 Canakkale sits on the narrowest part of the Dardanelles — just over a kilometre across — the strait that separates Europe from Asia and links the Aegean Sea to the south with the Sea of Marmara to the north.

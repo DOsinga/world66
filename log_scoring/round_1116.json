@@ -1,0 +1,200 @@
+{
+  "round": 1116,
+  "timestamp": "2026-04-12T22:10:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_rank": 5039,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "New Ireland",
+      "path": "asia/papuanewguinea/newireland",
+      "prior_rank": 6561,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_rank": 7272,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_rank": 6771,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Eckernf?rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_rank": 6594,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_rank": 7625,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_rank": 4347,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_rank": 6479,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_rank": 6812,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_rank": 5852,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_rank": 7129,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_rank": 5767,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/vermont/greensboro",
+      "prior_rank": 6336,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_rank": 6313,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Okotoks",
+      "path": "northamerica/canada/alberta/okotoks",
+      "prior_rank": 7486,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_rank": 6521,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_rank": 5869,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_rank": 5022,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ki\u010devo",
+      "path": "europe/macedonia/kicevo",
+      "prior_rank": 7156,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/moseley",
+      "prior_rank": 6971,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ipiales",
+      "path": "southamerica/chile/ipiales",
+      "prior_rank": 8005,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_rank": 6896,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Time Zone",
+      "path": "northamerica/costarica/travelinformation/timezone",
+      "prior_rank": 7877,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "mourin",
+      "path": "northamerica/trinidadandtobago/mourin",
+      "prior_rank": 7256,
+      "prior_wins": 6,
+      "prior_n": 2
+    }
+  ]
+}

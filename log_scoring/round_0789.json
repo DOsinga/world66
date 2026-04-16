@@ -1,0 +1,200 @@
+{
+  "round": 789,
+  "timestamp": "2026-04-12T10:48:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_mu": 30.1412,
+      "prior_sigma": 6.9341,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Cebu",
+      "path": "asia/philippines/cebu",
+      "prior_mu": 22.9382,
+      "prior_sigma": 5.9384,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_mu": 23.5171,
+      "prior_sigma": 5.5539,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Puerto Plata",
+      "path": "northamerica/dominicanrepublic/puertoplata",
+      "prior_mu": 22.703,
+      "prior_sigma": 5.7285,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mombasa",
+      "path": "africa/kenya/mombasa",
+      "prior_mu": 25.2637,
+      "prior_sigma": 5.2666,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_mu": 22.3211,
+      "prior_sigma": 4.6754,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Coloane",
+      "path": "asia/china/macau/coloane",
+      "prior_mu": 21.4625,
+      "prior_sigma": 3.6896,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Bay of Plenty",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty",
+      "prior_mu": 22.5544,
+      "prior_sigma": 5.5423,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_mu": 22.1808,
+      "prior_sigma": 5.3985,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_mu": 21.5144,
+      "prior_sigma": 4.4413,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_mu": 21.6233,
+      "prior_sigma": 4.7074,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountai/vorokhta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_mu": 22.4836,
+      "prior_sigma": 5.9437,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_mu": 21.6195,
+      "prior_sigma": 5.642,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_mu": 22.2433,
+      "prior_sigma": 5.6511,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_mu": 22.0642,
+      "prior_sigma": 5.9133,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_mu": 21.4273,
+      "prior_sigma": 4.7745,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_mu": 21.5574,
+      "prior_sigma": 5.5898,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_mu": 20.7219,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ali khan gurag baloch cha je andh wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gurag_bal",
+      "prior_mu": 17.0979,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    }
+  ]
+}

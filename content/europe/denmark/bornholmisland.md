@@ -5,6 +5,7 @@ latitude: 55.1431
 longitude: 14.9226
 title: Bornholm Island
 type: location
+score: 0.59
 ---
 
 Bornholm is a Danish island in the Baltic Sea, sitting closer to Sweden and Poland than to the Danish mainland. It has a distinctive character that sets it apart from anywhere else in Denmark: a rugged granite coast in the north, rolling farmland and sandy beaches in the south, round medieval churches, smokehouse chimneys, and a long tradition of ceramics and artistic craftsmanship.

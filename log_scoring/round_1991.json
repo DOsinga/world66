@@ -1,0 +1,200 @@
+{
+  "round": 1991,
+  "timestamp": "2026-04-13T16:00:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tahiti",
+      "path": "australiaandpacific/frenchpolynesia/tahiti",
+      "prior_score": 10.6837,
+      "prior_variance": 0.4413,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 4.6822,
+      "prior_variance": 0.314798,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 5.2223,
+      "prior_variance": 0.278491,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lake Placid",
+      "path": "northamerica/unitedstates/newyorkstate/lakeplacid",
+      "prior_score": 4.2658,
+      "prior_variance": 0.312747,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.8601,
+      "prior_variance": 0.236399,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": 4.0983,
+      "prior_variance": 0.265097,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_score": 4.3287,
+      "prior_variance": 0.277212,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_score": 2.7402,
+      "prior_variance": 0.389038,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 3.7005,
+      "prior_variance": 0.229331,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 2.7027,
+      "prior_variance": 0.31737,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_score": 2.6685,
+      "prior_variance": 0.254398,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 2.6773,
+      "prior_variance": 0.267583,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 2.0883,
+      "prior_variance": 0.272512,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_score": -0.6222,
+      "prior_variance": 0.415419,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 1.8908,
+      "prior_variance": 0.262963,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_score": 2.8162,
+      "prior_variance": 0.31246,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": 0.7298,
+      "prior_variance": 0.212552,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": 0.3224,
+      "prior_variance": 0.215594,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Long Island",
+      "path": "northamerica/unitedstates/newyorkstate/long_island",
+      "prior_score": 1.9338,
+      "prior_variance": 0.309083,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.3245,
+      "prior_variance": 0.259345,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Vayots Dzor Marz",
+      "path": "europe/armenia/vayots_dzor_marz",
+      "prior_score": -0.7939,
+      "prior_variance": 0.250476,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": -0.8407,
+      "prior_variance": 0.411224,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_score": -2.1657,
+      "prior_variance": 0.279741,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Iowa",
+      "path": "northamerica/unitedstates/iowa",
+      "prior_score": -4.4626,
+      "prior_variance": 0.240096,
+      "prior_n": 5
+    }
+  ]
+}

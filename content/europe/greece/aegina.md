@@ -5,6 +5,7 @@ latitude: 37.724369
 longitude: 23.493811
 title: Aegina
 type: location
+score: 0.63
 ---
 
 Stand on the Acropolis in Athens on a clear day and look south toward the sea — the island you can see is Aegina. It is the closest of the Saronic Islands to the capital, reachable in under an hour by ferry, and it draws both foreign visitors and Athenians escaping the city for the weekend.

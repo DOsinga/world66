@@ -1,0 +1,200 @@
+{
+  "round": 1934,
+  "timestamp": "2026-04-13T15:55:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_score": 10.1016,
+      "prior_variance": 0.574413,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 4.3145,
+      "prior_variance": 0.280758,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": 3.9742,
+      "prior_variance": 0.343362,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 2.306,
+      "prior_variance": 0.428413,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 3.0752,
+      "prior_variance": 0.292578,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 1.6346,
+      "prior_variance": 0.273491,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/ceriale",
+      "prior_score": 0.7552,
+      "prior_variance": 0.378003,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Frankfurt",
+      "path": "europe/germany/hesse/frankfurt",
+      "prior_score": 2.6222,
+      "prior_variance": 0.350155,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.6159,
+      "prior_variance": 0.255909,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_score": -2.6444,
+      "prior_variance": 0.257609,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_score": -0.526,
+      "prior_variance": 0.274205,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.8206,
+      "prior_variance": 0.262744,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_score": -0.7145,
+      "prior_variance": 0.263694,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -1.3922,
+      "prior_variance": 0.26039,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -5.9611,
+      "prior_variance": 0.369659,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/moseley",
+      "prior_score": -3.9657,
+      "prior_variance": 0.317317,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Reservoir",
+      "path": "australiaandpacific/australia/victoria/reservoir",
+      "prior_score": -6.4631,
+      "prior_variance": 0.299784,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_score": -6.7397,
+      "prior_variance": 0.343807,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -6.9752,
+      "prior_variance": 0.410309,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -6.0571,
+      "prior_variance": 0.236311,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -7.9654,
+      "prior_variance": 0.405737,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -8.3824,
+      "prior_variance": 0.418401,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -7.287,
+      "prior_variance": 0.337903,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Liberia",
+      "path": "africa/liberia",
+      "prior_score": -8.9486,
+      "prior_variance": 0.775004,
+      "prior_n": 5
+    }
+  ]
+}

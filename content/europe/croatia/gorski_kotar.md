@@ -5,6 +5,7 @@ latitude: 44.958411
 longitude: 14.409484
 title: Gorski Kotar
 type: location
+score: 0.52
 ---
 
 Gorski Kotar is the mountainous interior of [Croatia](/europe/croatia), a densely forested highland region between the Adriatic coast at Kvarner Bay and the lowlands around Karlovac. It is sometimes called "the green lungs of Croatia" — a landscape of beech and fir forests, karst caves, mountain streams, and small towns that feels completely different from the sun-baked coast just an hour's drive away.

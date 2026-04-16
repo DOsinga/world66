@@ -5,6 +5,7 @@ latitude: 45.414098
 longitude: 6.634989
 title: Courchevel
 type: location
+score: 0.71
 ---
 
 Courchevel is part of Les Trois Vallees, the largest linked ski area in the world, set high in the French Alps above the Tarentaise Valley. The resort is split across several villages at different altitudes — Courchevel 1850 at the top is the most glamorous and expensive, while the lower villages (1550, 1650) offer better value without sacrificing access to the slopes.

@@ -5,6 +5,7 @@ latitude: -20.272494
 longitude: 148.718147
 title: Airlie Beach
 type: location
+score: 0.66
 ---
 
 Airlie Beach is the gateway to the Whitsunday Islands, a small coastal town in tropical North Queensland that exists almost entirely to get people onto boats. The main strip is a short stretch of bars, tour booking offices, backpacker hostels, and dive shops, with a man-made lagoon pool on the foreshore that compensates for the stinger-season swimming restrictions.

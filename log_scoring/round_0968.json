@@ -1,0 +1,200 @@
+{
+  "round": 968,
+  "timestamp": "2026-04-12T16:09:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_rank": 233,
+      "prior_wins": 95,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 644,
+      "prior_n": 28
+    },
+    {
+      "rank": 3,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/otago/fiordland",
+      "prior_rank": 239,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Cappadocia",
+      "path": "asia/turkey/cappadocia",
+      "prior_rank": 462,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_rank": 1238,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/tennessee/smokymountains",
+      "prior_rank": 616,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Otavalo Imbabura",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_rank": 1362,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_rank": 3072,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_rank": 3080,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_rank": 3359,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Niagara Frontier",
+      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier",
+      "prior_rank": 348,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_rank": 3650,
+      "prior_wins": 87,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "The Coast",
+      "path": "northamerica/unitedstates/newhampshire/thecoast",
+      "prior_rank": 4441,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_rank": 6696,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_rank": 4115,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/chico",
+      "prior_rank": 5260,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_rank": 6265,
+      "prior_wins": 37,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_rank": 7260,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_rank": 6786,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_rank": 7358,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Delaware County",
+      "path": "northamerica/unitedstates/pennsylvania/delawarecounty",
+      "prior_rank": 6028,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Melville",
+      "path": "africa/southafrica/johannesburg/melville",
+      "prior_rank": 6461,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "m sila",
+      "path": "africa/algeria/m_sila",
+      "prior_rank": 7741,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_rank": 7863,
+      "prior_wins": 3,
+      "prior_n": 2
+    }
+  ]
+}

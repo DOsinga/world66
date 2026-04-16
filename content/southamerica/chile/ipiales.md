@@ -1,4 +1,0 @@
----
-title: "Ipiales"
-type: location
----

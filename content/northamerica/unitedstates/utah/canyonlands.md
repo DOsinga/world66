@@ -5,6 +5,7 @@ latitude: 38.2136
 longitude: -109.8932
 title: Canyonlands
 type: location
+score: 0.75
 ---
 
 Canyonlands National Park is one of the great raw landscapes of the American West. The Colorado and Green rivers have carved the Colorado Plateau into a sprawling maze of canyons, mesas, and buttes — 527 square miles of red and orange sandstone in the canyon country of southeast Utah, near Moab.

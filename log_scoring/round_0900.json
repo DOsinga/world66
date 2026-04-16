@@ -1,0 +1,200 @@
+{
+  "round": 900,
+  "timestamp": "2026-04-12T14:48:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taroko Gorge",
+      "path": "asia/taiwan/torokogorge",
+      "prior_score": 11.6334,
+      "prior_variance": 8.862497,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 4.7573,
+      "prior_variance": 1.873554,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 3.4754,
+      "prior_variance": 1.50069,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": 3.3783,
+      "prior_variance": 1.493382,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 7.5709,
+      "prior_variance": 2.226948,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 1.8717,
+      "prior_variance": 1.317332,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 0.5534,
+      "prior_variance": 1.21721,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 3.9123,
+      "prior_variance": 1.409673,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 0.8535,
+      "prior_variance": 1.219877,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": 3.2658,
+      "prior_variance": 0.877466,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 3.6597,
+      "prior_variance": 1.783851,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 2.3455,
+      "prior_variance": 0.893617,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_score": -2.3837,
+      "prior_variance": 2.199997,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Douglas",
+      "path": "europe/unitedkingdom/manisleof/douglas",
+      "prior_score": 0.1164,
+      "prior_variance": 0.659888,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_score": -1.6842,
+      "prior_variance": 0.812125,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 3.5433,
+      "prior_variance": 1.111537,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Giulianova Lido",
+      "path": "europe/italy/abruzzo/giulianovalido",
+      "prior_score": -0.119,
+      "prior_variance": 1.517407,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Trujillo",
+      "path": "northamerica/honduras/trujillo",
+      "prior_score": -2.5878,
+      "prior_variance": 1.81313,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -1.9629,
+      "prior_variance": 1.258721,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -0.7597,
+      "prior_variance": 1.685607,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Juchipila",
+      "path": "northamerica/mexico/juchipila",
+      "prior_score": -3.643,
+      "prior_variance": 1.74503,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mungivacca",
+      "path": "europe/italy/puglia/bari/mungivacca",
+      "prior_score": -4.1664,
+      "prior_variance": 0.617986,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_score": -7.6569,
+      "prior_variance": 1.546338,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -11.1939,
+      "prior_variance": 8.611467,
+      "prior_n": 1
+    }
+  ]
+}

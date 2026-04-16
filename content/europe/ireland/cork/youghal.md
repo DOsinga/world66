@@ -5,6 +5,7 @@ latitude: 51.949474
 longitude: -7.843189
 title: Youghal
 type: location
+score: 0.49
 ---
 
 Youghal (pronounced "Yawl") is a handsome walled medieval town at the mouth of the Blackwater River, right on the border between Cork and Waterford. It's one of Ireland's best-preserved historic towns, with 13th-century walls still standing, a magnificent collegiate church, and a long stretch of sandy beach that makes it genuinely good for a day out or an overnight stop.

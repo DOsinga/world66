@@ -1,10 +1,15 @@
 ---
-title: "Tagum City"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 7.447078
 longitude: 125.809485
+score: 0.35
+title: Tagum City
+type: location
 ---
 
-Travel Guide
+Tagum City is the capital of Davao del Norte province on the southern Philippine island of Mindanao, about an hour north of Davao City by road. It's a fast-growing agricultural and commercial centre of around 300,000 people, serving the surrounding banana and coconut plantations and the mining areas further inland.
 
-The newest City in the southern part of the Philippines raring to join the bandwagon of developing global communities beckons to you. It offers a rustic ambiance of unspoiled ecology but provides the amenities of a fully responsive state for business and trade. It also offers plenty of wholesome surprises for the ever-inquisitive and adventurous visitors who are willing to spend time for wholesome relaxation and enjoyment and places to stay. Tagum City has vast choices of business, commercial and industrial sites ready for occupation in an atmosphere of a well planned zoning scheme which will assure would-be investors of peaceful, investor-friendly community served by a body of local government administrators w/ balanced developmental goals. It is the city where the largest rosary of the world and one of the tallest christmas tree in southeast asia can be seen.
+The city's two claims to fame are local rather than of significant tourist interest — the "World's Largest Rosary" at the Christ the King Cathedral, and one of Southeast Asia's tallest Christmas trees, erected annually. Festivals animate the city calendar: the Musikahan sa Tagum is a week-long music festival in February, and the Durian Festival marks the peak of the pungent fruit's harvest season.
+
+Most visitors use Tagum as a launching point for the surrounding region. The beaches along the Davao Gulf are reachable within 30 minutes, and Mount Apo — the highest peak in the Philippines — lies within driving distance to the southwest.

@@ -5,6 +5,7 @@ latitude: 41.136273
 longitude: -81.482812
 title: Cuyahoga Falls
 type: location
+score: 0.35
 ---
 
 Cuyahoga Falls sits on the Cuyahoga River between Akron and Cleveland, where the river drops through a series of rapids and cascades that extend for about two miles — a longer total drop than Niagara Falls. The falls gave the city its name and its history: Native Americans portaged around the rough water on what is now Portage Trail, and by 1840 the river powered more varied manufacturing than any other Ohio settlement.

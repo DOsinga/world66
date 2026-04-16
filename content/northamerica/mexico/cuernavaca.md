@@ -5,6 +5,7 @@ latitude: 18.933132
 longitude: -99.259958
 title: Cuernavaca
 type: location
+score: 0.52
 ---
 
 Cuernavaca, the capital of Morelos state, sits just south of [Mexico City](/northamerica/mexico/mexicocity) at about 1,500 metres, low enough that its climate is noticeably warmer and more pleasant than the capital. It has been called "The City of Eternal Spring" for good reason — the weather is mild year-round, and Mexico City residents have been escaping here since the Aztec emperors did the same.

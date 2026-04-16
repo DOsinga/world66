@@ -1,8 +1,13 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
+  location_cleanup: '2026-04-16'
+image: ijmuiden.jpg
+image_attribution: Fotojournalist Kees Blokker
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2000_Bunker_Strand_IJmuiden.jpg
 latitude: 52.457424
 longitude: 4.611198
+score: 0.44
 title: IJmuiden
 type: location
 ---

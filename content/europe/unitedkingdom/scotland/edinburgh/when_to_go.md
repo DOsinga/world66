@@ -1,15 +1,14 @@
 ---
-title: "When to Go in Edinburgh"
+title: "When to Go"
 type: section
 ---
 
-A truly beautiful city with a real party spirit, Edinburgh is a joy to visit at any time of year. The unpredictable Scottish weather means that the city isn’t a safe bet for sunseekers even during the summer months of June to August, but the slew of summertime festivals and cultural events means visitors will have plenty to do whatever the weather. The beautiful countryside that surrounds the city is ripe for exploring at any time of year – just make sure you come equipped for any weather eventuality. During the chilly autumn winter months of October to February visitors will find a warm welcome in the cozy traditional pubs and inns, and the riotous Hogmanay celebrations at New Year attract hordes of revelers from across the world.
+Edinburgh works at any time of year, but two windows define the calendar: August and Hogmanay. Outside those, the city is much quieter and accommodation is much cheaper. The weather is famously unreliable — even July rarely manages two warm days in a row — so come prepared for sun, rain and a stiff easterly all in the same afternoon.
 
-**Summer Buzzin’**
-The legendary Edinburgh Festival, which takes place each year in late August, combines comedy, theatre, dance, film, music and street theater, among other attractions, and sees Edinburgh flooded with tourists and TV crews from across the globe. While the event is fun for all ages and tastes, the inflated accommodation prices and crowded public spaces mean some travelers will want to avoid this time of year in Edinburgh. If you’re looking for a chance to catch a glimpse of sunshine in Edinburgh without the hordes, head here in late June or eary July instead, when the UK school summer holidays have not yet started and tourist numbers are lower.
+**August: the Festivals.** For three weeks in August, Edinburgh more than doubles in size. The **Edinburgh International Festival** (high-end opera, theatre, dance, classical music) and the much larger **Edinburgh Festival Fringe** (3,000-plus shows in every venue with a roof) run together with the **International Book Festival**, the **Art Festival** and the world-famous **Royal Edinburgh Military Tattoo** at the castle. The city is electric, but accommodation is brutally expensive and you must book months ahead. The **Edinburgh International Film Festival** runs separately, usually in mid- to late August.
 
-**Christmas and New Year**
-The cozy traditional pubs for which Edinburgh is justly famous are great places for keeping warm on chilly nights, and Christmas shopping in Edinburgh is a festive, if chaotic, experience. New Year sees the city transformed into a giant street party, but if you don’t buy tickets in advance you’ll find yourself out in the cold. Likewise, book your accommodation as far in advance of New Year (known as Hogmanay) as possible, and come prepared for some sub-zero temperatures.
+**Hogmanay (New Year).** The three-day Hogmanay celebrations bring a torchlight procession, a vast street party along Princes Street and a fireworks display from the castle that draws hundreds of thousands. Tickets for the main events sell out long in advance. Bring serious cold-weather clothes — early January in Edinburgh is properly cold.
 
-**Spring and Autumn**
-Nature lovers and outdoor enthusiasts might find Spring and Autumn the best times to visit Edinburgh. The cool but not freezing temperatures make hill walks and rambles a real pleasure, and the countryside is awash with the bright colors of spring from March to May, and the golden tones of Autumn from September to November. You’ll be avoiding the main tourist seasons too, and as such may get some good deals on accommodation.
+**Spring and autumn.** April-May and September-October are arguably the best months. Long daylight hours either side of summer, the city's parks and gardens at their best, lower prices, and the Old Town not yet (or no longer) wall-to-wall with festival traffic.
+
+**Winter.** Cold, dark and often wet, but the pubs are at their cosiest, the Christmas market in Princes Street Gardens runs through December, and the city has a brooding, atmospheric feel that suits it.

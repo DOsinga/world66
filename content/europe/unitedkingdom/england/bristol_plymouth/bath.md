@@ -1,14 +1,15 @@
 ---
-title: Bath
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.381386
 longitude: -2.359696
-done:
-  location_cleanup: 2026-04-06
+title: Bath
+type: location
+score: 0.73
 ---
 
-Bath is a beautiful Roman city nestled in the heart of Somerset. Its rolling hills and limestone facades have been attracting visitors for centuries.
+Bath is one of England's most beautiful cities — a UNESCO World Heritage Site built from honey-coloured limestone, set in a bowl of green hills in Somerset. The city takes its name from the Roman baths built here between the first and fourth centuries AD around the natural hot springs that still bubble up at 46°C.
 
-The city takes its name from the Roman Baths built here between the 1st and 4th centuries AD, the remains of which can still be seen today. Since its earliest days as a Celtic settlement, the history of Bath is linked to the natural hot springs that rise up here.
+The Roman Baths are the star attraction, remarkably well-preserved and atmospheric. But Bath's golden age came in the eighteenth century, when it became the fashionable spa destination for English high society. The architecture from this period is extraordinary: the Royal Crescent, the Circus, Pulteney Bridge spanning the Avon — all in that distinctive warm stone. The modern Thermae Bath Spa lets you bathe in the same thermal water on a rooftop pool overlooking the city skyline.
 
-The heyday of Bath came in the 18th century when it became a fashionable spa town and a focus for English high society. Much of the architecture dates from this period, and the city is famous for its elegant Georgian townhouses and sweeping crescents. Today Bath is one of the most beautiful cities in the UK and a UNESCO World Heritage Site. With plenty to see and do, it is an absolute must for any visitor to the south-west.
+Bath is compact and walkable, with excellent restaurants, independent shops, and the Theatre Royal (one of the oldest in England). It is an easy day trip from London (90 minutes by train) but rewards a longer stay.

@@ -1,25 +1,22 @@
 ---
-title: "North Coast"
+done:
+  location_cleanup: '2026-04-16'
+latitude: 39.3076
+longitude: -123.7995
+score: 0.55
+title: North Coast
 type: location
-latitude: 41.506534
-longitude: -81.693995
 ---
 
-Drenched alternately in sun, fog, mist and rain, the North Coast changes moods with the weather. Forests of lofty redwood trees thrive in this moist, cool climate. Wild salmon swim up the Klamath, Eel, Smith, and other ancestral streams. Eagles soar overhead, whales cruise offshore, and sea lions lounge on the rocky outposts amid wild, crashing surf. Travel north on the rocky, wind-swept coast on Highway 1, then venture inland to Highway 101- head further north to verdant redwood groves or southward to beautiful vine covered river valleys and dense forestlands of the wine country.
+The North Coast of California runs from the wine country an hour above San Francisco up to the Oregon border — three hundred miles of cliffs, redwood forest, sea stacks and small fishing towns. It is one of the great drives in the United States: Highway 1 hugs the Pacific from Bodega Bay north, then turns inland to meet US-101, which carries on through the heart of redwood country.
 
+The southern end is **wine country**: [Sonoma](/northamerica/unitedstates/california/northcoast/sonoma), [Petaluma](/northamerica/unitedstates/california/northcoast/petaluma), [Healdsburg](/northamerica/unitedstates/california/northcoast/healdsburg) and the surrounding Sonoma Valley. Less polished and less expensive than Napa, with hundreds of small wineries and a strong farm-to-table food culture. [Santa Rosa](/northamerica/unitedstates/california/northcoast/santarosa) is the regional centre.
 
- 
- Napa and Sonoma are the North Coast premiere wine producing regions as well as lands of romance and enchantment. Discover wine tasting at individual wineries, or board the Wine Train for a full service experience. Bicycle along the rolling hills and see the golden mustard fields along the vineyards. Walk through charming towns while enjoying quaint shops, boutiques and world class restaurants. Relax and stay awhile at any one of the spas or bed and breakfasts throughout the region. Whatever your interest, the wine country has something for you. Located just about 50 miles north of San Francisco. 
- 
+Along the Sonoma coast itself are tiny villages — Bodega Bay, Jenner, Gualala, Sea Ranch — known for inns, antique shops and grey-whale watching from December through April. Fort Ross State Historic Park preserves the 1812 Russian fur-trading outpost; the Kruse Rhododendron Reserve nearby blooms April to June.
 
+Further north, the coast becomes wilder. [Mendocino](/northamerica/unitedstates/california/northcoast/mendocino) is the picturesque clifftop village that has been used as a backdrop in dozens of films; [Fort Bragg](/northamerica/unitedstates/california/northcoast/fortbragg) is the working-port neighbour. Beyond, **Humboldt** and **Del Norte counties** hold the great old-growth redwood groves — Avenue of the Giants, Humboldt Redwoods State Park, and the coastal Redwood National and State Parks. [Eureka](/northamerica/unitedstates/california/northcoast/eureka) and [Arcata](/northamerica/unitedstates/california/northcoast/arcata), on Humboldt Bay, are the only real towns this far north.
 
- 
- 
- 
- Along the Sonoma coast, are the quaint villages of Bodega, Gualala, Jenner, Sea Ranch and Valley Ford, known for their B&B's, whale watching and antique shops. Monte Rio features riverfront beaches, romantic inns, and interesting shops and restaurants. North of picturesque Jenner-by-the-Sea stands Fort Ross State Historic Park, established as a Russian outpost in 1812. Farther north on the coast is Kruse Rhododendron State Reserve, where flowers bloom from April to June.
- 
- 
- 
+The weather is famously variable — fog rolls in most summer mornings and burns off by afternoon, and a sunny day at the wine valleys can be 30°F warmer than the coast a few miles west. Bring layers in any season.
 
 ## Destinations in North Coast
 
@@ -32,5 +29,5 @@ Drenched alternately in sun, fog, mist and rain, the North Coast changes moods w
 [Fort Bragg](/northamerica/unitedstates/california/northcoast/fortbragg)
 [Trinidad](/northamerica/unitedstates/california/northcoast/trinidad)
 [Ferndale](/northamerica/unitedstates/california/northcoast/ferndale)
-[Crescent city](/northamerica/unitedstates/california/northcoast/crescentcity)
+[Crescent City](/northamerica/unitedstates/california/northcoast/crescentcity)
 [Clear Lake](/northamerica/unitedstates/california/northcoast/clearlake)

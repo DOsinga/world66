@@ -5,6 +5,7 @@ latitude: 49.440459
 longitude: 1.093966
 title: Rouen
 type: location
+score: 0.63
 ---
 
 Rouen is Normandy's cultural capital, a cathedral city on the Seine that has been important since the Vikings sailed upriver in the 9th century and made it the capital of their new duchy. Joan of Arc was burned at the stake in the old market square in 1431, and the spot is now marked by a striking modern church with stained glass salvaged from a medieval predecessor destroyed in the war.

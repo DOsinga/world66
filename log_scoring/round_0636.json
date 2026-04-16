@@ -1,0 +1,200 @@
+{
+  "round": 636,
+  "timestamp": "2026-04-12T10:40:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_mu": 23.331,
+      "prior_sigma": 5.7865,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_mu": 22.4838,
+      "prior_sigma": 5.7535,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_mu": 22.7374,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/sandiego/solanabeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_mu": 21.2791,
+      "prior_sigma": 4.024,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_mu": 22.627,
+      "prior_sigma": 5.4099,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Trinity",
+      "path": "northamerica/unitedstates/california/shastacascade/trinity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_mu": 22.7871,
+      "prior_sigma": 5.6917,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_mu": 22.5071,
+      "prior_sigma": 5.7242,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_mu": 21.7079,
+      "prior_sigma": 4.4735,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_mu": 21.4906,
+      "prior_sigma": 4.673,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_mu": 18.4373,
+      "prior_sigma": 5.014,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_mu": 21.9617,
+      "prior_sigma": 4.5751,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Albert Lea",
+      "path": "northamerica/unitedstates/minnesota/albertlea",
+      "prior_mu": 21.4733,
+      "prior_sigma": 5.6665,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Pasco County",
+      "path": "northamerica/unitedstates/florida/pasco_county",
+      "prior_mu": 22.1387,
+      "prior_sigma": 5.3335,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_mu": 21.9048,
+      "prior_sigma": 5.6342,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Urbana",
+      "path": "northamerica/unitedstates/ohio/urbana",
+      "prior_mu": 19.0561,
+      "prior_sigma": 4.2472,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_mu": 19.2478,
+      "prior_sigma": 4.7858,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Bethel",
+      "path": "northamerica/unitedstates/alaska/bethel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

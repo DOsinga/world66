@@ -1,0 +1,200 @@
+{
+  "round": 1532,
+  "timestamp": "2026-04-13T10:28:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_score": 8.4999,
+      "prior_variance": 0.639027,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 7.8543,
+      "prior_variance": 0.410587,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 6.8083,
+      "prior_variance": 0.323767,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 3.2121,
+      "prior_variance": 0.478637,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_score": 2.9322,
+      "prior_variance": 0.442893,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Anguilla",
+      "path": "northamerica/anguilla",
+      "prior_score": 6.2704,
+      "prior_variance": 0.503911,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pamir Highway",
+      "path": "asia/tajikistan/pamir_highway",
+      "prior_score": 4.9864,
+      "prior_variance": 0.532144,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 3.3983,
+      "prior_variance": 0.440434,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Moray",
+      "path": "southamerica/peru/moray",
+      "prior_score": 3.2024,
+      "prior_variance": 0.393373,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_score": 3.0774,
+      "prior_variance": 0.410674,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_score": 3.3301,
+      "prior_variance": 0.509593,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_score": 5.8956,
+      "prior_variance": 0.418995,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_score": 4.108,
+      "prior_variance": 0.293579,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "LLanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 4.5796,
+      "prior_variance": 0.388941,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 2.0503,
+      "prior_variance": 0.530508,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 3.867,
+      "prior_variance": 0.362605,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sweden",
+      "path": "europe/sweden",
+      "prior_score": 1.551,
+      "prior_variance": 0.551802,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Frankfurt",
+      "path": "europe/germany/hesse/frankfurt",
+      "prior_score": 2.9116,
+      "prior_variance": 0.530441,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_score": 3.4509,
+      "prior_variance": 0.610111,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Playa de Palma",
+      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
+      "prior_score": 4.4287,
+      "prior_variance": 0.425617,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tampa Bay Area",
+      "path": "northamerica/unitedstates/florida/tampabayarea",
+      "prior_score": 2.2026,
+      "prior_variance": 0.390693,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "South Carolina",
+      "path": "northamerica/unitedstates/southcarolina",
+      "prior_score": 3.103,
+      "prior_variance": 0.383214,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hainan island",
+      "path": "asia/china/hainanisland",
+      "prior_score": 4.0619,
+      "prior_variance": 0.379473,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": 1.2514,
+      "prior_variance": 0.642312,
+      "prior_n": 3
+    }
+  ]
+}

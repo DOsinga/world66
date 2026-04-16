@@ -1,0 +1,200 @@
+{
+  "round": 1576,
+  "timestamp": "2026-04-13T10:32:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_score": 5.3544,
+      "prior_variance": 0.333204,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_score": 4.8411,
+      "prior_variance": 0.435784,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Baja California",
+      "path": "northamerica/mexico/bajacalifornia",
+      "prior_score": 3.1275,
+      "prior_variance": 0.612238,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 6.0786,
+      "prior_variance": 0.427796,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": 5.2652,
+      "prior_variance": 0.401984,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 5.0026,
+      "prior_variance": 0.319762,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 5.3711,
+      "prior_variance": 0.376754,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vaison-la-Romaine",
+      "path": "europe/france/midi/provence/vaisonlaromaine",
+      "prior_score": 4.744,
+      "prior_variance": 0.484657,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_score": 5.4583,
+      "prior_variance": 0.56378,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 3.839,
+      "prior_variance": 0.340278,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_score": 5.5218,
+      "prior_variance": 0.466499,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_score": 5.452,
+      "prior_variance": 0.401255,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 5.1098,
+      "prior_variance": 0.330751,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_score": 4.5202,
+      "prior_variance": 0.265632,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lindau",
+      "path": "europe/germany/badenwrttemberg/lindau",
+      "prior_score": 4.2379,
+      "prior_variance": 0.335697,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Eysturoy",
+      "path": "europe/faroeislands/eysturoy",
+      "prior_score": 3.546,
+      "prior_variance": 0.451236,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Nova Scotia",
+      "path": "northamerica/canada/novascotia",
+      "prior_score": 3.9021,
+      "prior_variance": 0.480727,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 3.5961,
+      "prior_variance": 0.412636,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Argentina",
+      "path": "southamerica/argentina",
+      "prior_score": -1.5285,
+      "prior_variance": 0.8818,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Agropoli",
+      "path": "europe/italy/campania/agropoli",
+      "prior_score": 4.2335,
+      "prior_variance": 0.357607,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 2.8062,
+      "prior_variance": 0.427826,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Hunan",
+      "path": "asia/china/hunan",
+      "prior_score": 2.4129,
+      "prior_variance": 0.518114,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_score": 0.1528,
+      "prior_variance": 0.33428,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_score": -5.0173,
+      "prior_variance": 0.335579,
+      "prior_n": 4
+    }
+  ]
+}

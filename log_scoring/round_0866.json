@@ -1,0 +1,200 @@
+{
+  "round": 866,
+  "timestamp": "2026-04-12T14:45:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lofoten islands",
+      "path": "europe/norway/lofotenislands",
+      "prior_score": 9.1563,
+      "prior_variance": 5.980484,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Romania",
+      "path": "europe/romania",
+      "prior_score": 2.9858,
+      "prior_variance": 2.668947,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Dominica",
+      "path": "northamerica/dominica",
+      "prior_score": 10.1182,
+      "prior_variance": 5.722221,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Vaison-la-Romaine",
+      "path": "europe/france/midi/provence/vaisonlaromaine",
+      "prior_score": 8.811,
+      "prior_variance": 1.644924,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 8.9253,
+      "prior_variance": 4.080569,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 6.0918,
+      "prior_variance": 1.654925,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 1.5109,
+      "prior_variance": 2.622969,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 3.8418,
+      "prior_variance": 1.550551,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 2.7713,
+      "prior_variance": 1.402032,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Georgia",
+      "path": "europe/georgia",
+      "prior_score": -9.787,
+      "prior_variance": 9.914334,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_score": 3.2371,
+      "prior_variance": 1.257352,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla/sylt",
+      "prior_score": 3.212,
+      "prior_variance": 1.397252,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mindoro Island",
+      "path": "asia/philippines/mindoroisland",
+      "prior_score": -1.6474,
+      "prior_variance": 1.462874,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lo Pagan",
+      "path": "europe/spain/spanishcostas/lopagan",
+      "prior_score": -0.5854,
+      "prior_variance": 0.279118,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": 0.3058,
+      "prior_variance": 1.560935,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": 1.233,
+      "prior_variance": 1.327929,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_score": 0.8797,
+      "prior_variance": 2.14231,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_score": -6.228,
+      "prior_variance": 2.807933,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.6304,
+      "prior_variance": 1.196675,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lichtenfels",
+      "path": "europe/germany/lichtenfels",
+      "prior_score": -3.6758,
+      "prior_variance": 0.831532,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Zovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -7.6993,
+      "prior_variance": 2.259114,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -7.393,
+      "prior_variance": 4.37697,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -9.254,
+      "prior_variance": 2.449778,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -2.4137,
+      "prior_variance": 1.498156,
+      "prior_n": 1
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 51.195375
 longitude: -3.618544
 title: Porlock and District
 type: location
+score: 0.52
 ---
 
 Porlock is a village on the A39 between Minehead and Lynmouth, sitting in a sheltered valley just below the dramatic Exmoor ridge. The village itself is pleasant rather than spectacular, but the surrounding area is excellent. The infamous Porlock Hill — one of the steepest main roads in England — rises sharply to the south, with a toll road offering an easier alternative.

@@ -5,6 +5,7 @@ latitude: 51.209451
 longitude: -2.64512
 title: Wells
 type: location
+score: 0.55
 ---
 
 Wells is England's smallest city — and only qualifies as a city at all because of its cathedral. That cathedral, begun in 1175, is one of the finest examples of Early English Gothic in the country. The west facade is extraordinary: a vast stone screen covered in nearly 300 medieval statues, many still with traces of original colouring. The interior is equally impressive, especially the dramatic scissor arches added in the 14th century to stabilise the tower.

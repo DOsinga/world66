@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_attribution: Arjun Sarup
 done:
   country_cleanup: 2026-03-29
+score: 0.76
 ---
 
 God created Mauritius and then Heaven, at least according to Mark Twain and if you are looking for what brochures call a tropical paradise, Mauritius is there for you.

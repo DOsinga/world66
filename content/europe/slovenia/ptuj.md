@@ -5,6 +5,7 @@ latitude: 46.41981
 longitude: 15.871738
 title: Ptuj
 type: location
+score: 0.56
 ---
 
 Ptuj is the oldest town in Slovenia, with town rights dating back to 977, and it wears that age well. The compact historic centre clusters beneath a hilltop castle and is filled with the kind of detail that rewards slow walking: carved stone doorways, wrought-iron window grills, and patrician houses lining quiet streets.

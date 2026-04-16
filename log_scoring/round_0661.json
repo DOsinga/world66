@@ -1,0 +1,200 @@
+{
+  "round": 661,
+  "timestamp": "2026-04-12T10:41:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_mu": 22.8525,
+      "prior_sigma": 5.3937,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mosel",
+      "path": "europe/germany/rhinelandpalatinate/mosel",
+      "prior_mu": 25.4779,
+      "prior_sigma": 5.3231,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_mu": 22.5225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "East Frisian Islands",
+      "path": "europe/germany/lowersaxony/east_frisian_islan",
+      "prior_mu": 21.7124,
+      "prior_sigma": 4.7203,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_mu": 21.679,
+      "prior_sigma": 4.4176,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/baltrum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_mu": 22.5441,
+      "prior_sigma": 5.5479,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Esslingen",
+      "path": "europe/germany/badenwrttemberg/esslingen",
+      "prior_mu": 22.6109,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_mu": 22.5043,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_mu": 22.6085,
+      "prior_sigma": 5.5175,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Dessau",
+      "path": "europe/germany/saxonyanhalt/dessau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_mu": 22.7403,
+      "prior_sigma": 5.9446,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Neckargem\u00fcnd",
+      "path": "europe/germany/badenwrttemberg/neckargemuend",
+      "prior_mu": 21.438,
+      "prior_sigma": 4.601,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_mu": 21.9451,
+      "prior_sigma": 4.4318,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tuttlingen",
+      "path": "europe/germany/badenwrttemberg/tuttlingen",
+      "prior_mu": 21.8941,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Engelskirchen",
+      "path": "europe/germany/northrhinewestphalia/engelskirchen",
+      "prior_mu": 22.166,
+      "prior_sigma": 5.757,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_mu": 17.9253,
+      "prior_sigma": 4.9981,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Mahlow",
+      "path": "europe/germany/brandenburg/mahlow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Varlosen",
+      "path": "europe/germany/lowersaxony/varlosen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "orenhofen",
+      "path": "europe/germany/rhinelandpalatinate/orenhofen",
+      "prior_mu": 21.5761,
+      "prior_sigma": 4.8159,
+      "prior_n": 2
+    }
+  ]
+}

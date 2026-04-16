@@ -5,6 +5,7 @@ latitude: 26.859587
 longitude: 100.22498
 title: Lijiang
 type: location
+score: 0.69
 ---
 
 Lijiang sits in the northwest corner of Yunnan Province at 2,400 metres, where the Tibetan plateau begins to rise and three of Asia's great rivers — the Yangtze, the Mekong, and the Salween — flow in near-parallel canyons just a few dozen kilometres apart. The old town (Dayan) was inscribed as a UNESCO World Heritage Site in 1997, recognised for its remarkably well-preserved network of cobblestone lanes, wooden merchant houses, and stone bridges channelling the Yulong river through the settlement.

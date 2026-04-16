@@ -1,4 +1,0 @@
----
-title: "Enewetok"
-type: location
----

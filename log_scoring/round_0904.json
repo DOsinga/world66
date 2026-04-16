@@ -1,0 +1,200 @@
+{
+  "round": 904,
+  "timestamp": "2026-04-12T14:48:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Lucia",
+      "path": "northamerica/saintlucia",
+      "prior_score": 10.2729,
+      "prior_variance": 9.771854,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 10.4365,
+      "prior_variance": 1.201971,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 6.8162,
+      "prior_variance": 3.12747,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Koh Mak",
+      "path": "asia/thailand/koh_mak",
+      "prior_score": 5.7208,
+      "prior_variance": 1.277481,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 9.3807,
+      "prior_variance": 2.4408,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 4.3389,
+      "prior_variance": 1.461819,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 4.1135,
+      "prior_variance": 1.3982,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lak",
+      "prior_score": 4.9958,
+      "prior_variance": 2.294259,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Casamicciola Terme",
+      "path": "europe/italy/campania/ischia/casamicciola",
+      "prior_score": 2.6857,
+      "prior_variance": 1.259746,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Koessen",
+      "path": "europe/austria/koessen",
+      "prior_score": -1.2743,
+      "prior_variance": 2.249087,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_score": 2.2903,
+      "prior_variance": 1.292247,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 2.6803,
+      "prior_variance": 2.811051,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": 1.5134,
+      "prior_variance": 1.300904,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Mozambique",
+      "path": "africa/mozambique",
+      "prior_score": -3.1841,
+      "prior_variance": 0.768816,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": -0.7594,
+      "prior_variance": 1.313157,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_score": -4.6714,
+      "prior_variance": 1.665624,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/devizes",
+      "prior_score": -0.0305,
+      "prior_variance": 1.698727,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_score": -6.5157,
+      "prior_variance": 1.814636,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -1.8525,
+      "prior_variance": 0.747001,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_score": -6.62,
+      "prior_variance": 4.639813,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -9.0857,
+      "prior_variance": 10.597362,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_score": -7.6093,
+      "prior_variance": 1.961049,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": -5.9994,
+      "prior_variance": 1.496478,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "J-1 On-line Internet Cafe",
+      "path": "asia/philippines/manila/j1_online_intern",
+      "prior_score": -8.712,
+      "prior_variance": 10.49421,
+      "prior_n": 1
+    }
+  ]
+}

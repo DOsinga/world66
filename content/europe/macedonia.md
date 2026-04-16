@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Lao</a> from Bulgaria
 done:
   country_cleanup: 2026-03-30
+score: 0.57
 ---
 
 Macedonia is a landlocked country in the heart of the Balkan. It is bordered by [Bulgaria](../bulgaria) , Serbia , [Greece](../greece) and [Albania](../albania) . It is easiest to reach from Greece or Bulgaria. 

@@ -1,0 +1,200 @@
+{
+  "round": 1336,
+  "timestamp": "2026-04-12T22:22:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Estonia",
+      "path": "europe/estonia",
+      "prior_rank": 6581,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Penticton",
+      "path": "northamerica/canada/britishcolumbia/penticton",
+      "prior_rank": 3950,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_rank": 2062,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_rank": 4939,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_rank": 3737,
+      "prior_wins": 84,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_rank": 4018,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_rank": 3592,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_rank": 7256,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_rank": 2700,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Chemainus",
+      "path": "northamerica/canada/britishcolumbia/victoria/chemainus",
+      "prior_rank": 3968,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_rank": 6372,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_rank": 2061,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bialystok",
+      "path": "europe/poland/bialystok",
+      "prior_rank": 4640,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/newyorkstate/astoria",
+      "prior_rank": 4814,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Zarzis",
+      "path": "africa/tunisia/zarzis",
+      "prior_rank": 4476,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_rank": 4677,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Western Kenya",
+      "path": "africa/kenya/westernkenya",
+      "prior_rank": 7592,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_rank": 4839,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Azad Kashmir",
+      "path": "asia/pakistan/azad_kashmir",
+      "prior_rank": 857,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezon_province",
+      "prior_rank": 6344,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire",
+      "prior_rank": 4000,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_rank": 5214,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_rank": 3622,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Syunik Marz",
+      "path": "europe/armenia/syunik_marz",
+      "prior_rank": 5357,
+      "prior_wins": 27,
+      "prior_n": 3
+    }
+  ]
+}

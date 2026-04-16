@@ -1,4 +1,0 @@
----
-title: "Loubomo"
-type: location
----

@@ -5,6 +5,7 @@ latitude: 48.778449
 longitude: 9.180013
 title: Stuttgart
 type: location
+score: 0.55
 ---
 
 Beautifully set in the Swabian Mountains and at the edge of the Black Forest Stuttgart is the home of Mercedes Benz. Hardly suprising that one of the best visited museums is the Mercedes Benz Museum. 
@@ -17,6 +18,6 @@ One of these charms is its wide range of shops: exclusive stores, boutiques, mod
 
 For those who prefer peace and tranquillity, the extensive parks offer the ideal opportunity for walks and relaxation. The city's vineyards will spoil you in a different way. Their wines are not just popular here. The region's long wine-growing tradition is carefully documented in a museum. 
 
-Stuttgart can be easily seen on foot and urban trekkers may want to take in the City Circuit walk which begins at the Central Train Station (allow about two hours) and the two-hour Historic Stuttgart walk which starts at the Altes Schloss at Schillerplatz. Yellow signs direct the walker to many modern and historical areas. The Mineralbad Leuze Berg and other spas offer a wide variety of therapeutic pools and health facilities. *100 mi/160 km south of [Frankfurt](/europe/germany/hesse/frankfurt) . 
+Stuttgart can be easily seen on foot and urban trekkers may want to take in the City Circuit walk which begins at the Central Train Station (allow about two hours) and the two-hour Historic Stuttgart walk which starts at the Altes Schloss at Schillerplatz. Yellow signs direct the walker to many modern and historical areas. The Mineralbad Leuze Berg and other spas offer a wide variety of therapeutic pools and health facilities. *100 mi/160 km south of [Frankfurt](/europe/germany/hessen/frankfurt) . 
 
 *

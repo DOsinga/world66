@@ -5,6 +5,7 @@ latitude: 43.6
 longitude: 2.967
 title: Monts de l'Espinouse
 type: location
+score: 0.56
 ---
 
 The Monts de l'Espinouse form the most dramatic part of the Parc Naturel Régional du Haut-Languedoc, rising sharply from the garrigue plains to form a brooding limestone plateau. The scenery is rougher and wilder than the wine country to the south — all chestnut forest, moor, and wind-scoured ridge.

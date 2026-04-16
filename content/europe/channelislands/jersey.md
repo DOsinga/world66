@@ -1,8 +1,11 @@
 ---
-title: "Jersey"
+done:
+  location_cleanup: '2026-04-16'
+latitude: 49.214
+longitude: -2.131
+score: 0.58
+title: Jersey
 type: location
-latitude: 49.2140
-longitude: -2.1310
 ---
 
 Jersey is the largest of the Channel Islands and the most visited. It has around 110,000 residents, its own parliament (the States of Jersey), and a financial sector that makes it one of the wealthier places in Europe per capita. The main town, St Helier, is a busy commercial hub with good restaurants and a covered market that sells local produce, fish, and Jersey-made goods.

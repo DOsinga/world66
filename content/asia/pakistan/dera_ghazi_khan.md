@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: '2026-04-09'
+  location_cleanup: '2026-04-16'
 latitude: 30.032137
 longitude: 70.640111
+score: 0.23
 title: Dera Ghazi Khan
 type: location
 ---

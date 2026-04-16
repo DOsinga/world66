@@ -5,6 +5,7 @@ latitude: 16.9902
 longitude: 73.312
 done:
   location_cleanup: 2026-04-07
+score: 0.42
 ---
 
 Ratnagiri district stretches along the Konkan coast of Maharashtra, wedged between the Sahyadri hills and the Arabian Sea. This is mango country -- the source of India's prized Alphonso (Hapus) mangoes -- but it is also a coastline of surprising beauty, with long empty beaches, temple-topped headlands, and quiet fishing villages that feel a world away from Mumbai.

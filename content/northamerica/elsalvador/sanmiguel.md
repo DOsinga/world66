@@ -5,6 +5,7 @@ latitude: 13.4833
 longitude: -88.1833
 title: San Miguel
 type: location
+score: 0.34
 ---
 
 San Miguel is El Salvador's third-largest city, in the eastern part of the country about 140 km from San Salvador. It serves as the commercial hub of the east and is a useful transit point for travelers heading to the Gulf of Fonseca or crossing into Honduras.

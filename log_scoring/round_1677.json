@@ -1,0 +1,200 @@
+{
+  "round": 1677,
+  "timestamp": "2026-04-13T10:41:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "French Polynesia",
+      "path": "australiaandpacific/frenchpolynesia",
+      "prior_score": 9.527,
+      "prior_variance": 0.940972,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 16.7373,
+      "prior_variance": 0.717051,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_score": 15.249,
+      "prior_variance": 1.103193,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_score": 16.9723,
+      "prior_variance": 1.197996,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_score": 13.2543,
+      "prior_variance": 1.115051,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_score": 10.2021,
+      "prior_variance": 0.669333,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Yorkshire Dales",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales",
+      "prior_score": 4.8296,
+      "prior_variance": 0.315171,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 5.0401,
+      "prior_variance": 0.385792,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_de",
+      "prior_score": 3.0465,
+      "prior_variance": 0.316044,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/celleligure",
+      "prior_score": 4.7133,
+      "prior_variance": 0.449904,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_score": 2.7014,
+      "prior_variance": 0.31568,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_score": 1.0604,
+      "prior_variance": 0.354574,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_score": 2.9341,
+      "prior_variance": 0.373563,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 1.7624,
+      "prior_variance": 0.403743,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 2.4821,
+      "prior_variance": 0.303841,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": 1.5385,
+      "prior_variance": 0.318257,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 0.734,
+      "prior_variance": 0.308049,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Mariposa",
+      "path": "northamerica/unitedstates/california/goldcountry/mariposa",
+      "prior_score": 0.4735,
+      "prior_variance": 0.341621,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
+      "prior_score": 0.4806,
+      "prior_variance": 0.362508,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -3.5402,
+      "prior_variance": 0.330496,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Peja",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/peja",
+      "prior_score": -1.1042,
+      "prior_variance": 0.292577,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ganca",
+      "path": "europe/azerbaijan/ganca",
+      "prior_score": -3.1036,
+      "prior_variance": 0.316375,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -5.0239,
+      "prior_variance": 0.384899,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/indiana/auburn",
+      "prior_score": -5.4661,
+      "prior_variance": 0.291222,
+      "prior_n": 4
+    }
+  ]
+}

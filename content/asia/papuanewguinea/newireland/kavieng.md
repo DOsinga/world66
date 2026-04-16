@@ -5,6 +5,7 @@ latitude: -2.573474
 longitude: 150.795224
 title: Kavieng
 type: location
+score: 0.41
 ---
 
 Kavieng is the capital of New Ireland Province, a small port town set on a sublime harbour at the northern tip of the island. It is one of Papua New Guinea's most popular spots for diving — the waters around Kavieng offer World War II wrecks, pristine coral walls, and big pelagic fish, with very few other divers in sight. Surfing and game fishing are also excellent.

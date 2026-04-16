@@ -5,6 +5,7 @@ latitude: 17.2967
 longitude: -7.0283
 title: Oualata
 type: location
+score: 0.4
 ---
 
 Oualata is one of the most remote and remarkable towns in West Africa — a UNESCO World Heritage Site sitting at the southeastern edge of the Mauritanian Sahara, once a thriving terminus on the trans-Saharan trade routes. Getting here is the better part of the experience: the nearest real town is Néma, and reaching Oualata means a long, hot jeep ride across open desert, with no marked road for much of it.

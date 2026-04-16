@@ -1,0 +1,200 @@
+{
+  "round": 919,
+  "timestamp": "2026-04-12T14:49:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria",
+      "prior_score": 7.8792,
+      "prior_variance": 2.153636,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/palm_springs",
+      "prior_score": 4.3355,
+      "prior_variance": 1.013171,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Curacao",
+      "path": "northamerica/netherlandsantilles/curacao",
+      "prior_score": 8.9908,
+      "prior_variance": 2.20931,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/hawkes_bay",
+      "prior_score": 3.4396,
+      "prior_variance": 0.707189,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 3.8799,
+      "prior_variance": 0.844,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 1.86,
+      "prior_variance": 0.710851,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 4.5992,
+      "prior_variance": 1.894495,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 7.0948,
+      "prior_variance": 4.006817,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -2.2842,
+      "prior_variance": 1.191022,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": 0.9383,
+      "prior_variance": 1.280283,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_score": 0.405,
+      "prior_variance": 1.370408,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -2.7002,
+      "prior_variance": 1.31843,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -4.0892,
+      "prior_variance": 1.286224,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -2.4535,
+      "prior_variance": 1.46013,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -3.778,
+      "prior_variance": 0.752809,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_score": -1.7188,
+      "prior_variance": 0.638264,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Independence",
+      "path": "northamerica/unitedstates/missouri/independence",
+      "prior_score": -2.251,
+      "prior_variance": 1.635506,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.5952,
+      "prior_variance": 1.463134,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -4.6857,
+      "prior_variance": 0.922826,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -3.9789,
+      "prior_variance": 1.346757,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -10.197,
+      "prior_variance": 2.204924,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -6.302,
+      "prior_variance": 1.50193,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "MoorKhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -6.0098,
+      "prior_variance": 1.32757,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kanye",
+      "path": "africa/botswana/kanye",
+      "prior_score": -6.8634,
+      "prior_variance": 1.704663,
+      "prior_n": 1
+    }
+  ]
+}

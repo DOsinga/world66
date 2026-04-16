@@ -1,0 +1,200 @@
+{
+  "round": 1052,
+  "timestamp": "2026-04-12T22:06:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_rank": 3604,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/plymouth",
+      "prior_rank": 2786,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/beverley",
+      "prior_rank": 4634,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_rank": 5126,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Senegal",
+      "path": "africa/senegal",
+      "prior_rank": 5449,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_rank": 4256,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_cit",
+      "prior_rank": 3231,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_rank": 4648,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_rank": 5278,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "saskatchewan river crossing",
+      "path": "northamerica/canada/alberta/saskatchewan_river",
+      "prior_rank": 5692,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Permet",
+      "path": "europe/albania/lezha_castle/permet",
+      "prior_rank": 3658,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_rank": 4465,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_rank": 6677,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_rank": 4881,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_rank": 4442,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mirano",
+      "path": "europe/italy/lombardia/mirano",
+      "prior_rank": 7274,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_rank": 3654,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_rank": 3847,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_rank": 2807,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_rank": 5904,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_rank": 4674,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_rank": 5774,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Santa rita",
+      "path": "australiaandpacific/guam/santarita",
+      "prior_rank": 6337,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur/wadi_matkhandoush",
+      "prior_rank": 5036,
+      "prior_wins": 9,
+      "prior_n": 1
+    }
+  ]
+}

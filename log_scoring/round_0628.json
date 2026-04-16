@@ -1,0 +1,200 @@
+{
+  "round": 628,
+  "timestamp": "2026-04-12T10:40:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_mu": 31.5713,
+      "prior_sigma": 6.3403,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Bristol, Plymouth and the South-West",
+      "path": "europe/unitedkingdom/england/bristol_plymouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/manchester",
+      "prior_mu": 21.3057,
+      "prior_sigma": 3.5921,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/durham",
+      "prior_mu": 21.9613,
+      "prior_sigma": 4.5877,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_mu": 22.1815,
+      "prior_sigma": 4.5827,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highla",
+      "prior_mu": 21.9486,
+      "prior_sigma": 5.9464,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_mu": 23.8513,
+      "prior_sigma": 4.5662,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/hawkshead",
+      "prior_mu": 22.5223,
+      "prior_sigma": 5.5604,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/lynton_and_lynmout",
+      "prior_mu": 21.9847,
+      "prior_sigma": 4.811,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
+      "prior_mu": 22.5395,
+      "prior_sigma": 5.6956,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_mu": 21.9962,
+      "prior_sigma": 4.5006,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_mu": 22.6172,
+      "prior_sigma": 5.9116,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/hull",
+      "prior_mu": 22.3907,
+      "prior_sigma": 5.508,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/twickenham",
+      "prior_mu": 22.7152,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/todmorden",
+      "prior_mu": 22.5948,
+      "prior_sigma": 5.9125,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/keighley",
+      "prior_mu": 22.6982,
+      "prior_sigma": 5.6519,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_mu": 22.6087,
+      "prior_sigma": 5.9494,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/otterystmary",
+      "prior_mu": 22.4385,
+      "prior_sigma": 5.7259,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/swindon",
+      "prior_mu": 19.0437,
+      "prior_sigma": 4.9206,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Hounslow",
+      "path": "europe/unitedkingdom/england/hounslow",
+      "prior_mu": 14.0105,
+      "prior_sigma": 5.7404,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_mu": 19.7302,
+      "prior_sigma": 4.2209,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/barking",
+      "prior_mu": 18.5728,
+      "prior_sigma": 4.817,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Netherton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/netherton",
+      "prior_mu": 18.1297,
+      "prior_sigma": 6.5006,
+      "prior_n": 1
+    }
+  ]
+}

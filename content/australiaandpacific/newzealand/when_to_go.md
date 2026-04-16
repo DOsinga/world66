@@ -9,7 +9,7 @@ New Zealand's seasons are the reverse of the Northern Hemisphere. Summer runs De
 
 **Autumn (March–May)** is genuinely excellent, especially in the South Island. The summer crowds have thinned, the weather stays warm, and Central Otago and Marlborough put on good colour. March is often cited as the best month for long-distance walks — conditions are settled and the worst of the summer rush is over.
 
-**Winter (June–August)** is ski season. Queenstown and [Wanaka](/australiaandpacific/newzealand/wanaka) in the South Island, and the Central Plateau (Ruapehu) in the North Island, are the main ski areas. Outside ski towns, winter is quiet and prices drop. Fiordland gets even more rain than usual in winter, which means the waterfalls at Milford Sound are at their most dramatic.
+**Winter (June–August)** is ski season. Queenstown and [Wanaka](/australiaandpacific/newzealand/south_island/otago/wanaka) in the South Island, and the Central Plateau (Ruapehu) in the North Island, are the main ski areas. Outside ski towns, winter is quiet and prices drop. Fiordland gets even more rain than usual in winter, which means the waterfalls at Milford Sound are at their most dramatic.
 
 **Spring (September–November)** brings wildflowers, warming temperatures, and shoulder-season prices. Weather is changeable but conditions improve steadily through the season. October and November are increasingly popular as alternatives to the full-price summer rush.
 

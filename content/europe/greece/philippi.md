@@ -5,6 +5,7 @@ latitude: 41.013284
 longitude: 24.283974
 title: Philippi
 type: location
+score: 0.53
 ---
 
 Philippi, Greece

@@ -1,0 +1,200 @@
+{
+  "round": 1118,
+  "timestamp": "2026-04-12T22:10:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_rank": 1892,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/tahoe_city",
+      "prior_rank": 947,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Muskoka",
+      "path": "northamerica/canada/ontario/muskoka",
+      "prior_rank": 2524,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "West caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_rank": 1711,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/sandiego/oceanside",
+      "prior_rank": 1707,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Solo",
+      "path": "asia/indonesia/java/solo",
+      "prior_rank": 2733,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_rank": 1488,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sao Luis",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_rank": 3194,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Negros island",
+      "path": "asia/philippines/negrosisland",
+      "prior_rank": 2306,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_rank": 2752,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Gauteng",
+      "path": "africa/southafrica/gauteng",
+      "prior_rank": 5473,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_rank": 4519,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hallingdal",
+      "path": "europe/norway/hallingdal",
+      "prior_rank": 2091,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/boulogne/le_touquet",
+      "prior_rank": 4044,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_rank": 5850,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_rank": 4370,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_rank": 3848,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_rank": 3840,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_rank": 6750,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_rank": 3792,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Guadalajara",
+      "path": "europe/spain/centralspain/guadalajara",
+      "prior_rank": 2983,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "O Ribeiro Valley",
+      "path": "europe/spain/galicia/o__ribeiro_valley",
+      "prior_rank": 2174,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "O Ribeiro",
+      "path": "europe/spain/galicia/o_ribeiro",
+      "prior_rank": 3629,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_rank": 2737,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

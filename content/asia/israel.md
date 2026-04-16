@@ -9,6 +9,7 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Neukoln" title="User:Neukoln">Neukoln</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.58
 ---
 
 Israel is a treat for travelers. The country has beautiful old cities, good beaches and more culture, history and holy places than any other country.

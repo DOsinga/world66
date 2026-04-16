@@ -1,0 +1,200 @@
+{
+  "round": 1756,
+  "timestamp": "2026-04-13T10:48:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 7.5971,
+      "prior_variance": 0.324597,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_score": 4.526,
+      "prior_variance": 0.33955,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 5.275,
+      "prior_variance": 0.345725,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 1.9019,
+      "prior_variance": 0.278394,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 1.4432,
+      "prior_variance": 0.286237,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": -0.7973,
+      "prior_variance": 0.287478,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Wildlife",
+      "path": "asia/india/gujarat/wildlife",
+      "prior_score": -0.7515,
+      "prior_variance": 0.31522,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serr/serres",
+      "prior_score": -2.7865,
+      "prior_variance": 0.380568,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": 1.9405,
+      "prior_variance": 0.39773,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_score": -2.6269,
+      "prior_variance": 0.309603,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -2.1499,
+      "prior_variance": 0.373314,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/chesterfield",
+      "prior_score": -2.7625,
+      "prior_variance": 0.414901,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -4.6722,
+      "prior_variance": 0.392997,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_score": -3.9942,
+      "prior_variance": 0.305171,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -6.8433,
+      "prior_variance": 0.469283,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -4.9084,
+      "prior_variance": 0.336841,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -2.708,
+      "prior_variance": 0.342491,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Starbucks Coffee",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/starbuckscoffee",
+      "prior_score": -12.2725,
+      "prior_variance": 1.297693,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Dag nabbit good stuf",
+      "path": "europe/luxembourg/beaufort/dag_nabbit_good_st",
+      "prior_score": -7.2849,
+      "prior_variance": 0.791423,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -9.7638,
+      "prior_variance": 0.411169,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sheikh",
+      "path": "africa/somaliland/sheikh",
+      "prior_score": -9.5494,
+      "prior_variance": 0.395813,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Samundri",
+      "path": "asia/pakistan/faisalabad/samundri",
+      "prior_score": -8.6693,
+      "prior_variance": 0.445017,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Rajar (Khushab)",
+      "path": "asia/pakistan/islamabad/rajar_khushab",
+      "prior_score": -9.6802,
+      "prior_variance": 0.412558,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tibbi Qaisrani",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
+      "prior_score": -9.47,
+      "prior_variance": 0.5311,
+      "prior_n": 9
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 81,
+  "timestamp": "2026-04-12T08:03:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_mu": 35.67,
+      "prior_sigma": 5.22,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_mu": 33.5,
+      "prior_sigma": 4.25,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Rethimno",
+      "path": "europe/greece/crete/rethimno",
+      "prior_mu": 25.07,
+      "prior_sigma": 3.97,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pontevedra",
+      "path": "europe/spain/northernspain/pontevedra",
+      "prior_mu": 21.66,
+      "prior_sigma": 3.39,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_mu": 22.7,
+      "prior_sigma": 4.3,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_mu": 21.3,
+      "prior_sigma": 3.45,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_mu": 21.81,
+      "prior_sigma": 3.72,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_mu": 21.55,
+      "prior_sigma": 4.4,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_mu": 21.23,
+      "prior_sigma": 3.29,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_mu": 21.7,
+      "prior_sigma": 4.41,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_mu": 22.45,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_mu": 21.43,
+      "prior_sigma": 4.07,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_mu": 20.94,
+      "prior_sigma": 3.49,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "A perfect day",
+      "path": "europe/czechrepublic/prague/aperfectday",
+      "prior_mu": 18.08,
+      "prior_sigma": 3.04,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_mu": 20.51,
+      "prior_sigma": 3.12,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_mu": 20.56,
+      "prior_sigma": 3.36,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_mu": 18.64,
+      "prior_sigma": 4.0,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_notting/skegness",
+      "prior_mu": 18.11,
+      "prior_sigma": 3.48,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_mu": 19.78,
+      "prior_sigma": 2.87,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_mu": 20.6,
+      "prior_sigma": 3.57,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_mu": 17.99,
+      "prior_sigma": 3.5,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_mu": 22.18,
+      "prior_sigma": 5.4,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "1",
+      "path": "europe/georgia/tbilisi/1",
+      "prior_mu": 17.56,
+      "prior_sigma": 2.69,
+      "prior_n": 8
+    }
+  ]
+}

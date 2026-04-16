@@ -1,0 +1,200 @@
+{
+  "round": 2119,
+  "timestamp": "2026-04-13T16:12:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 5.1247,
+      "prior_variance": 0.245806,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 3.3438,
+      "prior_variance": 0.260582,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 3.1204,
+      "prior_variance": 0.299082,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 6.3309,
+      "prior_variance": 0.27721,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_score": 3.027,
+      "prior_variance": 0.21394,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 2.3581,
+      "prior_variance": 0.298833,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": 0.0063,
+      "prior_variance": 0.1549,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_score": 0.3846,
+      "prior_variance": 0.239832,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nida curonian spit",
+      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
+      "prior_score": 0.8124,
+      "prior_variance": 0.258492,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/padua/montegrotto_terme",
+      "prior_score": 0.5667,
+      "prior_variance": 0.270196,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Estes Park",
+      "path": "northamerica/unitedstates/colorado/estespark",
+      "prior_score": 5.1318,
+      "prior_variance": 0.387915,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 4.6059,
+      "prior_variance": 0.221774,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 2.2237,
+      "prior_variance": 0.235615,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 1.1081,
+      "prior_variance": 0.280594,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 1.6233,
+      "prior_variance": 0.29445,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_franc",
+      "prior_score": -3.1551,
+      "prior_variance": 0.258307,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -1.9495,
+      "prior_variance": 0.24274,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -2.592,
+      "prior_variance": 0.243391,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -3.0443,
+      "prior_variance": 0.268028,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/losangeles/santaclarita",
+      "prior_score": -4.1768,
+      "prior_variance": 0.35907,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Century City",
+      "path": "northamerica/unitedstates/california/losangeles/centurycity",
+      "prior_score": -3.5474,
+      "prior_variance": 0.286661,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Milton",
+      "path": "northamerica/canada/ontario/milton",
+      "prior_score": -5.4943,
+      "prior_variance": 0.33566,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -3.0981,
+      "prior_variance": 0.271901,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -9.0354,
+      "prior_variance": 0.386836,
+      "prior_n": 5
+    }
+  ]
+}

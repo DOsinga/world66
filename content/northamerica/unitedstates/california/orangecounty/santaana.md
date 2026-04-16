@@ -5,8 +5,9 @@ latitude: 33.749495
 longitude: -117.873221
 title: Santa Ana
 type: location
+score: 0.34
 ---
 
-Santa Ana is the county seat of [Orange County](/northamerica/unitedstates/california/orangecounty) and one of the most densely populated cities in the United States. Its downtown has undergone a quiet revival, with a growing arts district centred on the Artists Village along Second Street, where galleries, theatres and murals share space with taquerias and Vietnamese restaurants.
+Santa Ana is the county seat of [Orange County](/northamerica/unitedstates/california/orangecounty) and, with around 310,000 residents, its biggest city — though it is usually overshadowed in travel writing by neighbouring Anaheim (Disneyland), Huntington Beach and Newport Beach. It sits 45 km southeast of downtown Los Angeles, about 20 km inland from the Pacific. Most of the population is Mexican-American, and Santa Ana has one of the most vibrant Latino downtowns in Southern California: the restored Spanish-revival buildings of the historic Downtown Santa Ana and the parallel Latino shopping district of Calle Cuatro (4th Street) are the reason to visit.
 
-The city's cultural mix — predominantly Mexican-American — gives it a character distinct from the suburban sprawl around it. Fourth Street is the commercial heart of the Latino community, lined with shops, bakeries and street vendors. The Bowers Museum, the largest museum in Orange County, houses an excellent collection of pre-Columbian and Native American art alongside rotating international exhibitions.
+The other reason is the Bowers Museum, quietly one of the best museums in Orange County — strong collections of Native American, Pacific and Asian art, and a track record of pulling in major travelling exhibitions (Silk Road treasures, Terracotta Warriors). Combine it with the Old Orange County Courthouse (1901, Romanesque Revival) and a lunch at one of the taquerias along 4th Street and you have a satisfying half-day.

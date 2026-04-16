@@ -5,21 +5,21 @@ latitude: 15.415
 longitude: -61.371
 title: Dominica
 type: location
+score: 0.64
 ---
 
-Dominica is the Caribbean's wild child — a volcanic island so rugged and forested that Christopher Columbus, who spotted it on a Sunday in 1493 and named it accordingly, would probably still recognize the place. While its neighbours paved over their coastlines with resorts, Dominica kept its mountains, its rainforest, and its rivers. It has the largest remaining population of indigenous Kalinago (Carib) people in the Caribbean, living in a 3,700-acre territory on the island's east coast.
+Dominica — the Nature Isle of the Caribbean — is the odd one out in the region. There are no white-sand resort beaches, no casino strips, no all-inclusive hotel zones. What there is: a staggering volcanic interior covered in rainforest, 365 rivers (one for every day of the year, locals say), the world's second-largest boiling lake, and some of the finest diving in the Caribbean. If you came looking for a beach holiday, you've landed in the wrong place. If you came to hike, dive, or simply disappear into jungle for a week, you've found it.
 
-The interior is dramatic: a spine of volcanic peaks rising to nearly 1,500 metres, draped in dense tropical forest and cut by streams and waterfalls. The most famous hike leads to [Boiling Lake](/northamerica/thecaribbean/dominica/mornetroispitonsnationalpark), the second-largest thermally active lake in the world, reached through the eerie Valley of Desolation. Middleham Falls, Trafalgar Falls, and the Emerald Pool are easier to reach and just as beautiful. The diving and snorkelling are excellent too — Champagne Reef, where volcanic vents send streams of warm bubbles through the water, is unlike anything else in the Caribbean.
+The island is small — 29 miles long, 16 miles wide — and mountainous enough to generate its own clouds. It lies in the eastern Caribbean between Guadeloupe to the north and Martinique to the south, and the French influence shows in the Creole patois you'll hear alongside English. The capital, [Roseau](/northamerica/thecaribbean/dominica/roseau), is a compact, genuinely lived-in town on the southwest coast.
 
-[Roseau](/northamerica/thecaribbean/dominica/roseau), the small capital on the southwest coast, is colourful and walkable, with a busy market and French Creole architecture. [Portsmouth](/northamerica/thecaribbean/dominica/portsmouth) in the north is the base for exploring the Indian River by rowboat and [Cabrits National Park](/northamerica/thecaribbean/dominica/cabritsnationalpark), where the restored [Fort Shirley](/northamerica/thecaribbean/dominica/fortshirley) sits half-reclaimed by jungle — part military history, part Indiana Jones set. The [Kalinago Territory](/northamerica/thecaribbean/dominica/caribterritory) on the Atlantic coast is worth a visit for its traditional crafts, cassava bread-making demonstrations, and a glimpse of a culture that predates European contact.
+Dominica is also home to the Kalinago, the last remaining indigenous Carib community in the Caribbean. Their territory in the northeast — now formally called [Kalinago Territory](/northamerica/thecaribbean/dominica/caribterritory) — welcomes visitors and offers a window into a culture that has survived five centuries of colonialism.
 
-Dominica is not the place for beach lounging or all-inclusive luxury. The beaches are mostly black volcanic sand, the roads are narrow and winding, and the infrastructure is modest. But if you want to hike through rainforest, swim under waterfalls, and see a Caribbean island that still feels genuinely wild, this is it.
+The island was devastated by Hurricane Maria in September 2017, one of the most powerful storms ever to hit the Caribbean. Recovery has been substantial but ongoing. Most attractions and infrastructure are now fully operational, and the government has committed to making Dominica the world's first climate-resilient nation.
+
+**Note:** Dominica is a different country from the Dominican Republic, its much larger Spanish-speaking neighbor that occupies the eastern half of Hispaniola. They share nothing but a similar name.
 
 ## Destinations
 
 - [Roseau](/northamerica/thecaribbean/dominica/roseau)
 - [Portsmouth](/northamerica/thecaribbean/dominica/portsmouth)
 - [Kalinago Territory](/northamerica/thecaribbean/dominica/caribterritory)
-- [Fort Shirley](/northamerica/thecaribbean/dominica/fortshirley)
-- [Cabrits National Park](/northamerica/thecaribbean/dominica/cabritsnationalpark)
-- [Morne Trois Pitons National Park](/northamerica/thecaribbean/dominica/mornetroispitonsnationalpark)

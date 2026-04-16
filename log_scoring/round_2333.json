@@ -1,0 +1,200 @@
+{
+  "round": 2333,
+  "timestamp": "2026-04-13T16:32:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_score": 8.152,
+      "prior_variance": 0.287922,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
+      "prior_score": 4.6667,
+      "prior_variance": 0.316015,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 2.7413,
+      "prior_variance": 0.293477,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Black Sea Coast",
+      "path": "europe/romania/blackseacoast",
+      "prior_score": -0.3457,
+      "prior_variance": 0.264298,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 2.4042,
+      "prior_variance": 0.230018,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": 0.828,
+      "prior_variance": 0.205558,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -2.0221,
+      "prior_variance": 0.281559,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomi",
+      "prior_score": 0.2154,
+      "prior_variance": 0.222961,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 1.534,
+      "prior_variance": 0.225136,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": -0.2991,
+      "prior_variance": 0.208146,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 0.7311,
+      "prior_variance": 0.224337,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/newcastle_upon_tyn",
+      "prior_score": 1.3428,
+      "prior_variance": 0.225934,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/padua/montegrotto_terme",
+      "prior_score": 0.7554,
+      "prior_variance": 0.228584,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_score": 0.1393,
+      "prior_variance": 0.2041,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_score": -0.2617,
+      "prior_variance": 0.262344,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Warrnambool",
+      "path": "australiaandpacific/australia/victoria/warrnambool",
+      "prior_score": -0.5848,
+      "prior_variance": 0.203149,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_score": 0.4835,
+      "prior_variance": 0.239299,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_score": -2.0741,
+      "prior_variance": 0.211764,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -3.0834,
+      "prior_variance": 0.218885,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_score": -3.1479,
+      "prior_variance": 0.23185,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Casselberry",
+      "path": "northamerica/unitedstates/florida/casselberry",
+      "prior_score": -6.0106,
+      "prior_variance": 0.298465,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaana",
+      "prior_score": -4.1166,
+      "prior_variance": 0.236474,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -7.0977,
+      "prior_variance": 0.360314,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -8.0724,
+      "prior_variance": 0.371576,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 ---
-title: Sardinia
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 40.091281
 longitude: 9.030577
-done:
-  location_cleanup: 2026-04-05
+score: 0.72
+title: Sardinia
+type: location
 ---
 
 Sardinia is the second largest island in the Mediterranean and one of the most beautiful. Approaching by boat, the colours of the coastline are extraordinary — black basalt, silver granite, red porphyry, then the sudden turquoise of the sea. The island has been fought over by every Mediterranean power (Phoenicians, Romans, Aragonese, Spanish, Piedmontese) and the traces of all of them are still visible in the architecture, the food, and the people. Today it operates as an autonomous region of Italy, with its own government and a fiercely maintained cultural identity.

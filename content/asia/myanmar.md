@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Argenberg" title="
   Argenberg</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.37
 ---
 
 Myanmar is one of Southeast Asia's most remarkable countries — and one of its most troubled. Ancient temple cities, floating villages, golden pagodas, and extraordinary landscapes make it genuinely compelling for travellers. But the military coup of February 2021 changed everything. The country is now in a civil war, tourist arrivals have collapsed, and most Western governments advise against all travel.

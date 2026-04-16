@@ -5,6 +5,7 @@ latitude: 52.9709
 longitude: 36.0642
 title: Orel
 type: location
+score: 0.31
 ---
 
 Oryol — written Orel in Russian — sits on the Oka River in western Russia, about 370 kilometres south of Moscow. Ivan the Terrible founded it in 1564 as a defensive fort against Tatar raids from the steppe, and the town grew steadily as the frontier moved south.

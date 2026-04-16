@@ -1,0 +1,80 @@
+{
+  "round": 613,
+  "timestamp": "2026-04-12T10:39:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 9,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_mu": 22.9281,
+      "prior_sigma": 5.9377,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_mu": 22.4029,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_mu": 21.6406,
+      "prior_sigma": 4.8387,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_mu": 16.8859,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_mu": 21.8791,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_mu": 13.3074,
+      "prior_sigma": 2.6835,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Yemen",
+      "path": "asia/yemen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

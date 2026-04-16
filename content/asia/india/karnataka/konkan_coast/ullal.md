@@ -5,6 +5,7 @@ latitude: 12.8181
 longitude: 74.8459
 title: Ullal
 type: location
+score: 0.39
 ---
 
 Ullal is a small coastal town about 10 km south of Mangalore, where the Netravathi and Gurpur rivers meet the Arabian Sea. It is still primarily a fishing village — boats go out at night, the catch comes in at dawn — but it sits close enough to Mangalore to draw visitors looking for a quieter stretch of coast.

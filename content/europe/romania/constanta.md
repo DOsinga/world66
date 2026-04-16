@@ -5,6 +5,7 @@ latitude: 44.176716
 longitude: 28.65076
 title: Constanta
 type: location
+score: 0.51
 ---
 
 Constanta is Romania's main port and the gateway to the Black Sea coast. Founded in the 6th century BC by Greek merchants as Tomis, it was later developed by the Romans and renamed after Emperor Constantine. The poet Ovid was exiled here by Augustus in 8 AD and spent his last years writing elegies about the cold and the barbarians — his statue still stands in the main square.

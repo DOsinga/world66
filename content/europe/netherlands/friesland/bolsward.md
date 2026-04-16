@@ -5,6 +5,7 @@ latitude: 53.062018
 longitude: 5.522896
 title: Bolsward
 type: location
+score: 0.45
 ---
 
 Bolsward is one of the eleven cities of [Friesland](/europe/netherlands/friesland), a historic market town not far from the Afsluitdijk, the great dyke connecting Friesland with North Holland. It is one of the stops on the Elfstedentocht ice-skating route when the canals freeze hard enough.

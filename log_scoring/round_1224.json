@@ -1,0 +1,200 @@
+{
+  "round": 1224,
+  "timestamp": "2026-04-12T22:16:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_1",
+      "prior_rank": 5630,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_rank": 6274,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_rank": 7344,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_rank": 4817,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_rank": 6347,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Schweinfurt",
+      "path": "europe/germany/bavaria/schweinfurt",
+      "prior_rank": 7474,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Rackeve",
+      "path": "europe/hungary/rackeve",
+      "prior_rank": 6242,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_rank": 5658,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_rank": 5700,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_rank": 6848,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_rank": 5960,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_rank": 5983,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_rank": 5464,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_rank": 4932,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Mano",
+      "path": "europe/switzerland/mano",
+      "prior_rank": 7233,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_rank": 4855,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Khoram Abad",
+      "path": "asia/iran/khoram_abad",
+      "prior_rank": 4357,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Val d'Or",
+      "path": "northamerica/canada/quebec/val_dor",
+      "prior_rank": 6986,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chetek",
+      "path": "northamerica/unitedstates/wisconsin/chetek",
+      "prior_rank": 7316,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dieppe",
+      "path": "northamerica/canada/newbrunswick/dieppe",
+      "prior_rank": 5788,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_rank": 4847,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Pasco County",
+      "path": "northamerica/unitedstates/florida/pasco_county",
+      "prior_rank": 6901,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_rank": 7445,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "LittleNeck",
+      "path": "northamerica/unitedstates/newyorkstate/littleneck",
+      "prior_rank": 7902,
+      "prior_wins": 9,
+      "prior_n": 4
+    }
+  ]
+}

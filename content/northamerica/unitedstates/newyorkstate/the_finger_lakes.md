@@ -5,6 +5,7 @@ latitude: 42.151524
 longitude: -77.063574
 done:
   location_cleanup: 2026-04-06
+score: 0.61
 ---
 
 The Finger Lakes region of upstate New York is named for the eleven long, narrow lakes that glaciers carved into the landscape thousands of years ago. Stretched out across rolling hills south of Syracuse and Rochester, the lakes create a patchwork of vineyards, gorges, and small towns that feels a world apart from New York City.

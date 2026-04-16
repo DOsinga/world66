@@ -1,9 +1,10 @@
 ---
-title: "Saint John"
+title: Saint John
 type: location
 latitude: 45.2788
 longitude: -66.0585
 todo_location_cleanup: done
+score: 0.46
 ---
 
 Saint John is New Brunswick's largest city and its industrial heart, sitting at the mouth of the Saint John River on the Bay of Fundy. It is not the provincial capital — that's Fredericton — but it is the economic centre. The city has a gritty, working-port character that feels quite different from the tourist-polished towns elsewhere in the Maritimes.

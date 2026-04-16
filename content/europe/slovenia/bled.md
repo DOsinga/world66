@@ -5,6 +5,11 @@ latitude: 46.36842
 longitude: 14.11006
 title: Bled
 type: location
+score: 0.83
+image: bled.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bled_Castle_05.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Mihael Grmek
 ---
 
 A fairytale castle on a cliff, a crystal-clear lake with a tiny island church, snow-capped Julian Alps as a backdrop — Bled looks almost too picturesque to be real. It is Slovenia's most visited resort, about an hour by bus from [Ljubljana](/europe/slovenia/ljubljana), and it earns the attention.

@@ -5,6 +5,7 @@ latitude: 55.9579
 longitude: -3.2085
 title: Stockbridge
 type: location
+score: 0.52
 ---
 
 Stockbridge is one of several old villages swallowed up by the city's nineteenth century expansion. Located just to the north of Edinburgh's Georgian New Town, it retains its village feel. Home to many bars, restaurants and bistros, there are some pretty cool shops here too. 

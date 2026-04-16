@@ -5,6 +5,7 @@ latitude: 45.657829
 longitude: 11.149171
 title: Lessinia
 type: location
+score: 0.54
 ---
 
 Lessinia is the mountainous area immediately north of [Verona](/europe/italy/veneto/verona), a limestone plateau cut by deep valleys that slopes gradually down toward the Po plain. It is part of the Veronese Pre-Alps and includes the Lessinia Regional Natural Park.

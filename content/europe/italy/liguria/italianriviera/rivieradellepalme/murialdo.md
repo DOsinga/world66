@@ -5,6 +5,7 @@ latitude: 44.3166
 longitude: 8.1643
 title: Murialdo
 type: location
+score: 0.35
 ---
 
 Murialdo is a scattered commune in the upper valley of the Bormida di Millesimo, made up of several small villages -- Isola Grande, Piano, Ponte, Riofreddo, and Valle -- connected by narrow roads through chestnut and beech woods.

@@ -5,6 +5,7 @@ latitude: 40.251857
 longitude: -0.061505
 title: Castellón
 type: location
+score: 0.47
 ---
 
 Castellón is the northernmost of the three provinces that make up the Valencia region, stretching from the Costa del Azahar (Coast of Orange Blossoms) on the Mediterranean to the rugged interior highlands of the Maestrat. While less famous than its southern neighbours, it rewards travellers who look beyond the beaches: the province combines a long stretch of largely undeveloped coast with a well-preserved medieval interior.

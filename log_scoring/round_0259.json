@@ -1,0 +1,200 @@
+{
+  "round": 259,
+  "timestamp": "2026-04-12T09:08:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bondi Beach",
+      "path": "australiaandpacific/australia/newsouthwales/sydney/bondibeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "George Town",
+      "path": "northamerica/caymanislands/grandcayman/george_town",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Guatemala",
+      "path": "northamerica/guatemala",
+      "prior_mu": 22.7086,
+      "prior_sigma": 5.9352,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Finale Valley",
+      "path": "europe/italy/liguria/finalevalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "North Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver/northvancouver",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Big pine key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Carina",
+      "path": "australiaandpacific/australia/queensland/carina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Balatonm\u00c3\u00a1riaf\u00fcrd\u00c5\u2018",
+      "path": "europe/hungary/balatonmriafrd",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Misamis Occidental",
+      "path": "asia/philippines/misamis_occidental",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Banking",
+      "path": "northamerica/costarica/travelinformation/banking",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    }
+  ]
+}

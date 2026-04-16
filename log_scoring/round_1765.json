@@ -1,0 +1,200 @@
+{
+  "round": 1765,
+  "timestamp": "2026-04-13T10:49:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_score": 8.3889,
+      "prior_variance": 0.281202,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lazio",
+      "path": "europe/italy/lazio",
+      "prior_score": 0.9645,
+      "prior_variance": 0.631456,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Roses",
+      "path": "europe/spain/catalonia/roses",
+      "prior_score": 3.4912,
+      "prior_variance": 0.359621,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_score": 2.6904,
+      "prior_variance": 0.317613,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Vitoria",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 1.9364,
+      "prior_variance": 0.27078,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_score": 1.9781,
+      "prior_variance": 0.248234,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Leeds, Sheffield and Yorkshire",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a",
+      "prior_score": 1.1653,
+      "prior_variance": 0.301316,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_score": 0.9447,
+      "prior_variance": 0.344498,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 3.7843,
+      "prior_variance": 0.379692,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_score": 0.4491,
+      "prior_variance": 0.449452,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 0.7001,
+      "prior_variance": 0.29948,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": 0.2315,
+      "prior_variance": 0.305096,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 1.2759,
+      "prior_variance": 0.29713,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 0.5455,
+      "prior_variance": 0.366266,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -1.1597,
+      "prior_variance": 0.347752,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/buena_park",
+      "prior_score": -0.938,
+      "prior_variance": 0.350438,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -2.4533,
+      "prior_variance": 0.312769,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gosport",
+      "path": "europe/unitedkingdom/england/gosport",
+      "prior_score": -4.9879,
+      "prior_variance": 0.461789,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_score": -3.2174,
+      "prior_variance": 0.620635,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -0.2805,
+      "prior_variance": 0.267294,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -2.0662,
+      "prior_variance": 0.448791,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -2.4182,
+      "prior_variance": 0.34,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -6.1053,
+      "prior_variance": 0.378613,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Angola",
+      "path": "africa/angola",
+      "prior_score": -6.284,
+      "prior_variance": 0.418837,
+      "prior_n": 4
+    }
+  ]
+}

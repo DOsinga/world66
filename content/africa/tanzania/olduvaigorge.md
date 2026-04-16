@@ -5,6 +5,7 @@ latitude: -2.976439
 longitude: 35.337887
 title: Olduvai Gorge
 type: location
+score: 0.52
 ---
 
 Olduvai Gorge is one of the most important paleoanthropological sites on earth. This steep-sided ravine in the eastern Serengeti Plain is where Louis and Mary Leakey unearthed fossils of early hominids in the 1950s and 60s, fundamentally reshaping our understanding of human evolution. The gorge formed when a river cut through layers of volcanic ash and sediment, exposing nearly two million years of geological and human history.

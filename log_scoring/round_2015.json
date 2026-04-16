@@ -1,0 +1,200 @@
+{
+  "round": 2015,
+  "timestamp": "2026-04-13T16:03:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 6.5204,
+      "prior_variance": 0.350932,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 1.0289,
+      "prior_variance": 0.260843,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 5.0555,
+      "prior_variance": 0.291777,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 6.2898,
+      "prior_variance": 0.263398,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/wells",
+      "prior_score": 2.1138,
+      "prior_variance": 0.242263,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Arroscia valley",
+      "path": "europe/italy/liguria/arrosciavalley",
+      "prior_score": -1.1044,
+      "prior_variance": 0.272879,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Block Island",
+      "path": "northamerica/unitedstates/rhodeisland/block_island",
+      "prior_score": 1.8225,
+      "prior_variance": 0.372935,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Molokai",
+      "path": "northamerica/unitedstates/hawaii/molokai",
+      "prior_score": 2.0397,
+      "prior_variance": 0.255691,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Solo",
+      "path": "asia/indonesia/java/solo",
+      "prior_score": 2.2755,
+      "prior_variance": 0.310662,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Warnem\u00fcnde",
+      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
+      "prior_score": 0.0357,
+      "prior_variance": 0.303414,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 1.1762,
+      "prior_variance": 0.253025,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -1.6569,
+      "prior_variance": 0.306609,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Guanica",
+      "path": "northamerica/puertorico/guanica",
+      "prior_score": 0.7182,
+      "prior_variance": 0.244579,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": -0.2522,
+      "prior_variance": 0.260031,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_score": -0.1131,
+      "prior_variance": 0.24998,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Soon Valley Ugalisharif",
+      "path": "asia/pakistan/soon_valley/soon_valley_ugalis",
+      "prior_score": -3.3095,
+      "prior_variance": 0.25513,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -4.2638,
+      "prior_variance": 0.278656,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -5.1834,
+      "prior_variance": 0.267453,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Boghni",
+      "path": "africa/algeria/boghni",
+      "prior_score": -7.0165,
+      "prior_variance": 0.290158,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Greenhithe",
+      "path": "europe/unitedkingdom/england/greenhithe",
+      "prior_score": -4.0922,
+      "prior_variance": 0.276067,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -2.5611,
+      "prior_variance": 0.333364,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -4.7352,
+      "prior_variance": 0.32606,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ahvaz",
+      "path": "asia/iran/ahvaz",
+      "prior_score": -6.7387,
+      "prior_variance": 0.326957,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -6.4757,
+      "prior_variance": 0.248263,
+      "prior_n": 6
+    }
+  ]
+}

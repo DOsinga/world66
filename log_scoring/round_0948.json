@@ -1,0 +1,200 @@
+{
+  "round": 948,
+  "timestamp": "2026-04-12T16:08:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_rank": 129,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cote d'Azur",
+      "path": "europe/france/midi/cotedazur",
+      "prior_rank": 59,
+      "prior_wins": 114,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_rank": 236,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cappadocia",
+      "path": "asia/turkey/cappadocia",
+      "prior_rank": 25,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_rank": 93,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_rank": 1013,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_rank": 545,
+      "prior_wins": 192,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_rank": 1212,
+      "prior_wins": 85,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_rank": 2907,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bardufoss",
+      "path": "europe/norway/bardufoss",
+      "prior_rank": 5863,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_rank": 5020,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_rank": 4961,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_rank": 3835,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_rank": 4795,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_rank": 3537,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_rank": 3943,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_rank": 7316,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ciechanow",
+      "path": "europe/poland/ciechanow",
+      "prior_rank": 8187,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_rank": 6243,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_rank": 7477,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_rank": 7968,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "pheroani",
+      "path": "asia/pakistan/dera_ghazi_khan/pheroani",
+      "prior_rank": 8223,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Blue Star Cafe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluestarcafe",
+      "prior_rank": 8213,
+      "prior_wins": 7,
+      "prior_n": 4
+    }
+  ]
+}

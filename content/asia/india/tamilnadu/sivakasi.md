@@ -5,6 +5,7 @@ latitude: 9.462799
 longitude: 77.789101
 title: Sivakasi
 type: location
+score: 0.35
 ---
 
 Sivakasi is an industrial town in the Virudhunagar district of southern Tamil Nadu, about 60 km north of Tirunelveli. It has an unlikely claim to fame: it produces roughly 90% of India's fireworks and matches, and is also one of the country's major offset printing centres.

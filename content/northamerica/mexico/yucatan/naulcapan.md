@@ -1,4 +1,0 @@
----
-title: "Naulcapan"
-type: location
----

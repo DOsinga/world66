@@ -1,0 +1,200 @@
+{
+  "round": 1215,
+  "timestamp": "2026-04-12T22:15:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Victoria",
+      "path": "australiaandpacific/australia/victoria",
+      "prior_rank": 4724,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lorraine",
+      "path": "europe/france/east/lorraine",
+      "prior_rank": 5968,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lancashire",
+      "path": "europe/unitedkingdom/england/lancashire",
+      "prior_rank": 3285,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Hillcrest",
+      "path": "northamerica/unitedstates/california/sandiego/hillcrest",
+      "prior_rank": 5901,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_rank": 3365,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_rank": 3097,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_rank": 4924,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_rank": 3816,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_rank": 4593,
+      "prior_wins": 41,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_rank": 6269,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_rank": 3293,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Gondomar",
+      "path": "europe/portugal/gondomar",
+      "prior_rank": 7108,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_rank": 4740,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_rank": 7636,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_rank": 4368,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_rank": 5178,
+      "prior_wins": 37,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Honduras",
+      "path": "northamerica/honduras",
+      "prior_rank": 4890,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_rank": 4547,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_rank": 6214,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Djibouti",
+      "path": "africa/djibouti",
+      "prior_rank": 3677,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_rank": 3337,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "M'zab",
+      "path": "africa/algeria/mzab",
+      "prior_rank": 3043,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_rank": 6202,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_rank": 2763,
+      "prior_wins": 57,
+      "prior_n": 4
+    }
+  ]
+}

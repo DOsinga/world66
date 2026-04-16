@@ -1,0 +1,200 @@
+{
+  "round": 2305,
+  "timestamp": "2026-04-13T16:29:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Catalonia",
+      "path": "europe/spain/catalonia",
+      "prior_score": 5.6601,
+      "prior_variance": 0.370318,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 10.694,
+      "prior_variance": 1.034689,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 7.3706,
+      "prior_variance": 0.449372,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_score": 4.8224,
+      "prior_variance": 0.419527,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Trinidad",
+      "path": "northamerica/cuba/trinidad",
+      "prior_score": 5.6336,
+      "prior_variance": 0.260075,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 5.0388,
+      "prior_variance": 0.409403,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Bermuda",
+      "path": "northamerica/bermuda",
+      "prior_score": 6.8392,
+      "prior_variance": 0.234509,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 5.7857,
+      "prior_variance": 0.285524,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Stellenbosch",
+      "path": "africa/southafrica/capetown/stellenbosch",
+      "prior_score": 5.7516,
+      "prior_variance": 0.238564,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Madagascar",
+      "path": "africa/madagascar",
+      "prior_score": 4.3063,
+      "prior_variance": 0.347359,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 5.6861,
+      "prior_variance": 0.269815,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 4.5461,
+      "prior_variance": 0.266911,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 4.233,
+      "prior_variance": 0.282781,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.4166,
+      "prior_variance": 0.220627,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_score": 2.8438,
+      "prior_variance": 0.23121,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 1.9224,
+      "prior_variance": 0.205475,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_score": 1.0399,
+      "prior_variance": 0.223199,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": 1.2678,
+      "prior_variance": 0.214068,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 1.3643,
+      "prior_variance": 0.313985,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 1.1501,
+      "prior_variance": 0.240322,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": 0.0431,
+      "prior_variance": 0.255898,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -1.9068,
+      "prior_variance": 0.235027,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kosovo",
+      "path": "europe/serbiaandmontenegro/kosovoprovince",
+      "prior_score": -2.4112,
+      "prior_variance": 0.281338,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/harlow",
+      "prior_score": -6.8329,
+      "prior_variance": 0.324585,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,8 +1,11 @@
 ---
-title: "Chennai"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 13.083694
 longitude: 80.270186
+score: 0.48
+title: Chennai
+type: location
 ---
 
 Formerly known as Madras, Chennai is the capital of 

@@ -5,6 +5,7 @@ latitude: 37.431
 longitude: 14.479
 title: Morgantina
 type: location
+score: 0.5
 ---
 
 The archaeological site of Morgantina lies in east-central Sicily, about two kilometres from the modern town of Aidone in the province of Enna. The site covers a two-kilometre ridge called Serra Orlando and a neighbouring hill called Cittadella.

@@ -5,6 +5,7 @@ latitude: 42.845802
 longitude: 1.606759
 title: Tarascon-sur-Ariège
 type: location
+score: 0.56
 ---
 
 Tarascon-sur-Ariège is a small town in the Ariège valley between Foix and the Spanish border. It is pleasant enough in itself — stone houses along the river, a ruined castle on the hill above — but the real draw is the prehistoric cave art in the surrounding valleys.

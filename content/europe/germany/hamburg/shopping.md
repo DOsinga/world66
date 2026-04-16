@@ -3,4 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-Hamburg has many shopping districts including an antiques section in the Markthalle near the Hauptbahnhof (main train station) and many upscale stores in the new Gaensemarkt area. The granddaddy of all the shopping streets in Hamburg is the Moenckebergstrasse with more than 100 shops. The biggest shopping malls - in square metres - are located in Hamburg´s city centre. They are the following shopping malls: "Hanseviertel", "Bleichenhof", "Galeria", "Alte Post", "Hamburger Hof", "Gänsemarkt Passage", "Quarrée", "Hamburger Straße" and "Alstertal Einkaufszentrum"
+The main shopping street is the **Mönckebergstrasse**, running from the Hauptbahnhof to the Rathaus, with department stores and chain shops. **Spitalerstrasse**, just off it, is more of the same. For the smarter end — designer fashion, jewellery, and a string of arcades like Hanseviertel and Bleichenhof — head for **Neuer Wall** and **Grosse Bleichen** between the Binnenalster and the centre.
+
+Independent shops and second-hand are concentrated in **Ottensen** (Altona), the **Schanzenviertel**, and **Eppendorf**. The Markthalle near the Hauptbahnhof has antiques and a small flea market. The **Alstertal Einkaufszentrum** out in Poppenbüttel is the largest mall.

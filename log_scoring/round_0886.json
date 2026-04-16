@@ -1,0 +1,200 @@
+{
+  "round": 886,
+  "timestamp": "2026-04-12T14:47:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 7.568,
+      "prior_variance": 2.005392,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 9.9795,
+      "prior_variance": 2.030716,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 6.2512,
+      "prior_variance": 1.385998,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_score": 5.7243,
+      "prior_variance": 1.384116,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 7.7878,
+      "prior_variance": 4.166554,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 4.9289,
+      "prior_variance": 2.3559,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "The Rift Valley",
+      "path": "africa/kenya/theriftvalley",
+      "prior_score": 1.0946,
+      "prior_variance": 1.35704,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 6.8376,
+      "prior_variance": 1.937918,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 2.407,
+      "prior_variance": 1.319406,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 5.7296,
+      "prior_variance": 1.608719,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Northern Cyprus",
+      "path": "asia/cyprus/northerncyprus",
+      "prior_score": 3.3456,
+      "prior_variance": 1.399856,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_score": -1.6005,
+      "prior_variance": 1.301587,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 5.9727,
+      "prior_variance": 3.250345,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 2.9416,
+      "prior_variance": 1.246357,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": 2.1345,
+      "prior_variance": 1.219292,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": 1.4487,
+      "prior_variance": 0.876251,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": 1.458,
+      "prior_variance": 1.229878,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mozambique",
+      "path": "africa/mozambique",
+      "prior_score": -5.5989,
+      "prior_variance": 2.363345,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/staffordshire",
+      "prior_score": -4.3654,
+      "prior_variance": 1.173699,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -4.2055,
+      "prior_variance": 0.40381,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Armavir Marz",
+      "path": "europe/armenia/armavir_marz",
+      "prior_score": -4.4975,
+      "prior_variance": 1.389999,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -5.1656,
+      "prior_variance": 1.181064,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Settat",
+      "path": "africa/morocco/settat",
+      "prior_score": -8.3746,
+      "prior_variance": 11.32656,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Village-Khergaon",
+      "path": "asia/india/uttaranchal/srinagar_pauri_ga/pauri_garhwal/villagekhergaon",
+      "prior_score": -8.448,
+      "prior_variance": 1.363973,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,4 +1,0 @@
----
-title: "Zivinice"
-type: location
----

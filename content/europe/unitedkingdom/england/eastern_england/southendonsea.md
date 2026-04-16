@@ -5,6 +5,7 @@ latitude: 51.538824
 longitude: 0.712814
 title: Southend-on-Sea
 type: location
+score: 0.41
 ---
 
 Southend-on-Sea is the classic London day-trip seaside town, sitting at the mouth of the Thames Estuary in Essex. Its centrepiece is Southend Pier, at 1.34 miles the longest pleasure pier in the world — you can walk it or take the small railway to the end, where there is a lifeboat station and views back across the estuary.

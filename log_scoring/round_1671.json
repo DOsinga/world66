@@ -1,0 +1,200 @@
+{
+  "round": 1671,
+  "timestamp": "2026-04-13T10:40:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 6.2281,
+      "prior_variance": 0.441147,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Chengde",
+      "path": "asia/china/chengde",
+      "prior_score": 3.2907,
+      "prior_variance": 0.338981,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 2.056,
+      "prior_variance": 0.310593,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_score": 4.7308,
+      "prior_variance": 0.331605,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_score": 3.0705,
+      "prior_variance": 0.313354,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 3.6611,
+      "prior_variance": 0.345232,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_score": 0.2854,
+      "prior_variance": 0.452707,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 0.6291,
+      "prior_variance": 0.311842,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_score": -0.2676,
+      "prior_variance": 0.269269,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_score": -3.2168,
+      "prior_variance": 0.57063,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Laurel Highlands",
+      "path": "northamerica/unitedstates/pennsylvania/laurel_highlands",
+      "prior_score": 0.842,
+      "prior_variance": 0.419539,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Blagoevgrad",
+      "path": "europe/bulgaria/blagoevgrad",
+      "prior_score": -0.788,
+      "prior_variance": 0.360184,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Hedensted",
+      "path": "europe/denmark/hedensted",
+      "prior_score": -4.2438,
+      "prior_variance": 0.452945,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -3.9444,
+      "prior_variance": 0.327669,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -2.0618,
+      "prior_variance": 0.359074,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Khushab (Valley Soon Sakesar)",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_1/khushab_valley_so",
+      "prior_score": -5.05,
+      "prior_variance": 0.356461,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ruskin",
+      "path": "northamerica/unitedstates/florida/ruskin",
+      "prior_score": -5.4609,
+      "prior_variance": 0.392876,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -5.9896,
+      "prior_variance": 0.329255,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Warrens",
+      "path": "northamerica/unitedstates/wisconsin/warrens",
+      "prior_score": -6.4842,
+      "prior_variance": 0.356371,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ponca",
+      "path": "northamerica/unitedstates/nebraska/ponca",
+      "prior_score": -7.6515,
+      "prior_variance": 0.461168,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/houston/brazosportarea",
+      "prior_score": -4.9712,
+      "prior_variance": 0.38103,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Starkville",
+      "path": "northamerica/unitedstates/mississippi/starkville",
+      "prior_score": -6.5847,
+      "prior_variance": 0.351317,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kairatabad",
+      "path": "asia/india/andhrapradesh/kairatabad",
+      "prior_score": -6.7832,
+      "prior_variance": 0.334967,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Jhunsi Allahabad, UP, India",
+      "path": "asia/india/uttarpradesh/jhunsi_allahabad",
+      "prior_score": -6.9213,
+      "prior_variance": 0.373266,
+      "prior_n": 4
+    }
+  ]
+}

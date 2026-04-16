@@ -1,0 +1,200 @@
+{
+  "round": 1508,
+  "timestamp": "2026-04-13T10:26:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_score": 5.1951,
+      "prior_variance": 0.378414,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Outlying Islands",
+      "path": "asia/china/hongkong/outlyingislands",
+      "prior_score": 3.3338,
+      "prior_variance": 0.362065,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_score": 3.0444,
+      "prior_variance": 0.298857,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_score": 2.1508,
+      "prior_variance": 0.395758,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_score": 3.515,
+      "prior_variance": 0.341215,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 2.8368,
+      "prior_variance": 0.469162,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 3.0809,
+      "prior_variance": 0.469078,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_score": 2.2261,
+      "prior_variance": 0.473712,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": 1.7832,
+      "prior_variance": 0.355441,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 2.3491,
+      "prior_variance": 0.450016,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 3.672,
+      "prior_variance": 0.421952,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_score": 2.8343,
+      "prior_variance": 0.330667,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 2.6291,
+      "prior_variance": 0.392386,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_score": 1.5179,
+      "prior_variance": 0.359567,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Haut-Languedoc Regional Nature Park",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg",
+      "prior_score": 2.0593,
+      "prior_variance": 0.354101,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Franche-Comt\u00e9",
+      "path": "europe/france/east/franchecomte",
+      "prior_score": 2.1226,
+      "prior_variance": 0.381012,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Hersonnissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_score": 3.994,
+      "prior_variance": 0.424773,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_score": 2.6105,
+      "prior_variance": 0.416601,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 0.1311,
+      "prior_variance": 0.454116,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": 0.4848,
+      "prior_variance": 0.435571,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_score": 1.7702,
+      "prior_variance": 0.400915,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": 0.983,
+      "prior_variance": 0.397191,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": 0.4152,
+      "prior_variance": 0.355607,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 1.5419,
+      "prior_variance": 0.413854,
+      "prior_n": 4
+    }
+  ]
+}

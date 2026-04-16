@@ -1,10 +1,11 @@
 ---
-title: "Inhambane"
+title: Inhambane
 type: location
-latitude: -23.8650
+latitude: -23.865
 longitude: 35.3834
 done:
   location_cleanup: '2026-04-09'
+score: 0.45
 ---
 
 Inhambane is a photographer's dream: a crumbling old port town where dilapidated colonial buildings, rusting tin roofs, and overgrown courtyards give every street corner a faded grandeur. One of the oldest settlements on the East African coast, it has been a trading post for over a thousand years, and the mix of African, Portuguese, and Muslim cultures still shapes daily life.

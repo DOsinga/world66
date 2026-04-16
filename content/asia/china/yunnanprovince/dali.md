@@ -5,6 +5,7 @@ latitude: 25.6075
 longitude: 100.2652
 done:
   location_cleanup: 2026-04-06
+score: 0.65
 ---
 
 Dali is one of the most popular stops on the Yunnan backpacker trail — a walled old town set between the Cangshan Mountains and Erhai Lake, with a mild climate, cheap guesthouses, and a pace of life that encourages staying longer than planned. It once had the reputation of being a second Kathmandu, and while mass tourism has changed the character somewhat, the Bai minority culture, the mountain backdrop, and the lake still make it a compelling place.

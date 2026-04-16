@@ -1,0 +1,200 @@
+{
+  "round": 1020,
+  "timestamp": "2026-04-12T22:05:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_rank": 4241,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Le Havre",
+      "path": "europe/france/nord/lehavre",
+      "prior_rank": 4688,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_rank": 5855,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_rank": 4061,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_rank": 5850,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_rank": 5485,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_rank": 2908,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_rank": 7239,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_rank": 5852,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_rank": 5482,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_rank": 5011,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_rank": 4786,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Batam",
+      "path": "asia/indonesia/batam",
+      "prior_rank": 5954,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_rank": 5422,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_rank": 4725,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_rank": 3940,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_rank": 3888,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_rank": 5227,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_rank": 6665,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Chiusi Scalo",
+      "path": "europe/italy/tuscany/chiusiscalo",
+      "prior_rank": 4207,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_rank": 4674,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_rank": 5073,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountai/vorokhta",
+      "prior_rank": 4237,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_rank": 5090,
+      "prior_wins": 9,
+      "prior_n": 1
+    }
+  ]
+}

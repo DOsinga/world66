@@ -1,0 +1,200 @@
+{
+  "round": 1857,
+  "timestamp": "2026-04-13T10:58:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_score": 9.1492,
+      "prior_variance": 0.382856,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 5.9632,
+      "prior_variance": 0.348311,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_score": 7.4042,
+      "prior_variance": 0.502288,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Isle of Man",
+      "path": "europe/isleofman",
+      "prior_score": 2.478,
+      "prior_variance": 0.333362,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Mito",
+      "path": "asia/japan/mito",
+      "prior_score": -0.2635,
+      "prior_variance": 0.326912,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_score": 2.0499,
+      "prior_variance": 0.323127,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -2.5163,
+      "prior_variance": 0.321124,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Jammu",
+      "path": "asia/india/jammuandkashmir/jammu",
+      "prior_score": -1.5806,
+      "prior_variance": 0.277058,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -4.166,
+      "prior_variance": 0.285224,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_score": 1.3542,
+      "prior_variance": 0.347211,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_score": -1.7598,
+      "prior_variance": 0.273039,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Sokobanja",
+      "path": "europe/serbiaandmontenegro/sokobanja",
+      "prior_score": -3.5877,
+      "prior_variance": 0.26415,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "La Romaine",
+      "path": "northamerica/trinidadandtobago/laromaine",
+      "prior_score": -3.7516,
+      "prior_variance": 0.263564,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -3.3417,
+      "prior_variance": 0.262985,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -5.8919,
+      "prior_variance": 0.455843,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_score": -3.405,
+      "prior_variance": 0.252183,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -4.7333,
+      "prior_variance": 0.320755,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/newjersey/salem",
+      "prior_score": -4.7249,
+      "prior_variance": 0.318804,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -5.8248,
+      "prior_variance": 0.280716,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_score": -5.5445,
+      "prior_variance": 0.300137,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_score": -9.139,
+      "prior_variance": 0.475425,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pakistan",
+      "path": "asia/pakistan",
+      "prior_score": -7.6166,
+      "prior_variance": 0.421606,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -5.1866,
+      "prior_variance": 0.336598,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif",
+      "prior_score": -10.6993,
+      "prior_variance": 0.853544,
+      "prior_n": 4
+    }
+  ]
+}

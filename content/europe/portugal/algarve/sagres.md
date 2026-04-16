@@ -5,6 +5,7 @@ latitude: 37.007829
 longitude: -8.941924
 title: Sagres
 type: location
+score: 0.63
 ---
 
 Sagres sits at the southwestern tip of Europe, where early navigators believed the land ended and the ocean dropped off into nothingness. This is where Prince Henry the Navigator established his school of navigation and looked out over the Atlantic, wondering if there was a sea route to the Indies.

@@ -5,6 +5,7 @@ latitude: 3.033255
 longitude: -75.27943
 title: Neiva
 type: location
+score: 0.42
 ---
 
 Neiva is the capital of Huila department, sitting in a broad valley on the east bank of the Magdalena River about 300 kilometres south of Bogotá. It's primarily a commercial city but serves as an excellent base for the remarkable landscapes and archaeological sites of the surrounding region.

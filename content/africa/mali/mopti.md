@@ -5,6 +5,7 @@ latitude: 14.514489
 longitude: -3.646458
 title: Mopti
 type: location
+score: 0.41
 ---
 
 Mopti is about halfway from [Bamako](/africa/mali/bamako) to [Timbuktu](/africa/mali/timbuktu), spread across three islands at the junction of the Niger and Bani rivers. Mostly inhabited by Fulani traders, it is a busy, colourful market town where various ethnic groups come to trade fish, salt, cloth, leather goods, masks, jewellery, amber, and intricately woven Fulani wedding blankets.

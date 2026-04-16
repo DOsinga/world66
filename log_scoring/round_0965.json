@@ -1,0 +1,200 @@
+{
+  "round": 965,
+  "timestamp": "2026-04-12T16:09:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_rank": 9,
+      "prior_wins": 146,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_rank": 369,
+      "prior_wins": 106,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highla",
+      "prior_rank": 1778,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cumbria",
+      "path": "europe/unitedkingdom/cumbria",
+      "prior_rank": 3804,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Montana",
+      "path": "northamerica/unitedstates/montana",
+      "prior_rank": 148,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Gulf of Papagayo",
+      "path": "northamerica/costarica/gulf_of_papagayo",
+      "prior_rank": 2240,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_rank": 2175,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_rank": 2399,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_rank": 1927,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_rank": 2408,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_rank": 4350,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_rank": 4571,
+      "prior_wins": 69,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_rank": 4244,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/juist",
+      "prior_rank": 3743,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Khujhirt",
+      "path": "asia/mongolia/khujhirt",
+      "prior_rank": 5902,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_rank": 3158,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Koessen",
+      "path": "europe/austria/koessen",
+      "prior_rank": 5181,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_rank": 3856,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_rank": 5220,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_rank": 6423,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_rank": 6036,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/wolverhampton",
+      "prior_rank": 8092,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Somalia",
+      "path": "africa/somalia",
+      "prior_rank": 7789,
+      "prior_wins": 6,
+      "prior_n": 3
+    }
+  ]
+}

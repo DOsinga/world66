@@ -5,6 +5,7 @@ latitude: 47.278087
 longitude: 4.222486
 title: Burgundy
 type: location
+score: 0.61
 ---
 
 Burgundy (Bourgogne) stretches south from Auxerre through the vine-covered slopes of the Côte d'Or to Mâcon, covering roughly 31,000 square kilometres of central eastern France. For most of the Middle Ages it was an independent duchy more powerful than the French crown, and that history shows: in Dijon's ducal palace, in the great Romanesque abbeys at Vézelay and Autun, in the hospice at Beaune still producing its own wine after six centuries.

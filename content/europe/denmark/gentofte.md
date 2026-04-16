@@ -5,6 +5,7 @@ latitude: 55.753595
 longitude: 12.541436
 title: Gentofte
 type: location
+score: 0.44
 ---
 
 Gentofte is an affluent suburb north of central [Copenhagen](/europe/denmark/copenhagen), straddling the coast and the deer park. Most visitors pass through it without realising — but a couple of things here are worth a deliberate visit.

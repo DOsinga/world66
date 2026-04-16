@@ -11,6 +11,7 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/User:Pseudopanax" clas
   class="extiw" title="wikipedia:">English Wikipedia</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.57
 ---
 
 Tonga is the only Pacific island nation never colonised by a foreign power — it remained a monarchy throughout the colonial era and still is today. About 170 islands scattered across 700,000 square kilometres of ocean, of which only 36 are inhabited. The population is around 100,000, with two-thirds living on the main island of Tongatapu.

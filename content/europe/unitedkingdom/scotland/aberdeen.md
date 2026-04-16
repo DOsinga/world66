@@ -1,8 +1,11 @@
 ---
-title: "Aberdeen"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 57.148243
 longitude: -2.092809
+score: 0.51
+title: Aberdeen
+type: location
 ---
 
 With a proud and fascinating history, the City of Aberdeen presents a modern cosmopolitan image to visitors who are often surprised by the many diverse attractions which the regional capital of Grampian Highlands offers.

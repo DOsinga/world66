@@ -5,6 +5,7 @@ latitude: 19.6419
 longitude: -155.9969
 done:
   location_cleanup: 2026-04-07
+score: 0.68
 ---
 
 Kailua-Kona sits on the dry, leeward side of the Big Island — the side that doesn't get the rain. While the rest of Hawaii can be lush and overcast, Kona is reliably sunny, which is exactly why it became the island's tourist hub. The town stretches along Alii Drive, a seaside road lined with shops, restaurants, and lava-rock shores where the Pacific crashes in hard.

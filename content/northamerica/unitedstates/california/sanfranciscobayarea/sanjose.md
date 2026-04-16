@@ -1,12 +1,17 @@
 ---
-title: "San Jose"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 37.336166
 longitude: -121.890591
+score: 0.43
+title: San Jose
+type: location
 ---
 
-In San Jose-the heart of Silicon Valley-take the family to the Tech Museum of Innovation, loaded with interactive exhibits. Children also love the Children's Discovery Museum and the Winchester Mystery House, a rambling, 160-room Victorian mansion.
+San Jose is the largest city in the San Francisco Bay Area and the capital of Silicon Valley — a sprawling, low-rise city whose significance is technological rather than scenic. The original Spanish pueblo was founded in 1777, making it the oldest civil settlement in California, but almost nothing of colonial San Jose survives.
 
-San Jose is one of California's largest and most diverse cities. You can find a lot of great Mexican and Vietnamese food in one of the many homey restaurants downtown.
+The city today is largely a suburban grid punctuated by tech headquarters (Adobe, Cisco, eBay, PayPal), a small but busy downtown, and some genuinely world-class quirks. **The Winchester Mystery House** is the great one — a 160-room Victorian mansion built, endlessly expanded, and never completed by the widow of the Winchester rifle heir, who believed the ghosts of people killed by Winchester guns would leave her alone as long as construction continued. She died in 1922; the house stopped where it stood. The **Rosicrucian Egyptian Museum** nearby holds the largest collection of ancient Egyptian artefacts on the West Coast. The **Tech Interactive** is a hands-on science museum popular with families.
 
-San Jose is also home to many artists working in all kinds of media. Check out Works, ICA, Gallery AD, or MACLA to see work by local as well as global artists. SJSU's Cadre labs and C5 are walking the fine line between art and technology. Internation Symposium of Electronic Art has chosen San Jose for it's world renowned symposium in 2006. San Jose's Public Art program is the largest of it's kind.
+San Jose's real strength is food. Large Vietnamese and Mexican populations mean some of the best phở outside Saigon and the best tacos outside East LA. **Japantown**, one of only three surviving Japantowns in the US, has good ramen, sushi, and mochi. Downtown has a decent beer-and-cocktail scene, and the SAP Center hosts the San Jose Sharks NHL team.
+
+Most visitors use San Jose as a base for day trips rather than a destination in itself. [San Francisco](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco) is 50 miles north; Santa Cruz, Monterey, and the Pacific coast are less than an hour south; Silicon Valley campuses (Apple, Google, Meta, Nvidia) ring the city for the tech pilgrims.

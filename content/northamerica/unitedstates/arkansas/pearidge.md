@@ -5,6 +5,7 @@ latitude: 36.451504
 longitude: -94.116215
 title: Pea Ridge
 type: location
+score: 0.33
 ---
 
 Pea Ridge is a small town in the Ozark foothills of northwestern Arkansas, best known as the site of one of the Civil War's decisive western battles. Most visitors come for the battlefield — and it's worth it.

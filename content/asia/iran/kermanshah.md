@@ -5,6 +5,7 @@ latitude: 34.378974
 longitude: 46.701012
 title: Kermanshah
 type: location
+score: 0.44
 ---
 
 Kermanshah is one of the oldest cities in western Iran, set in a broad valley in the Zagros Mountains near the Iraqi border. The city itself is a sprawling provincial capital, but the real draws lie just outside it.

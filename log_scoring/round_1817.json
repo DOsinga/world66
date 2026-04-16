@@ -1,0 +1,200 @@
+{
+  "round": 1817,
+  "timestamp": "2026-04-13T10:54:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyushu",
+      "path": "asia/japan/kyushu",
+      "prior_score": 8.7533,
+      "prior_variance": 0.352303,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Turkey",
+      "path": "asia/turkey",
+      "prior_score": 0.4592,
+      "prior_variance": 0.855889,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 8.1682,
+      "prior_variance": 0.336616,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_score": 3.6232,
+      "prior_variance": 0.39051,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 4.002,
+      "prior_variance": 0.279672,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_score": 4.6238,
+      "prior_variance": 0.247929,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Pe\u00f1\u00edscola",
+      "path": "europe/spain/castellon/peniscola",
+      "prior_score": 3.411,
+      "prior_variance": 0.391254,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_score": 0.1482,
+      "prior_variance": 0.424096,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": 1.4584,
+      "prior_variance": 0.301611,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "C\u00e9vennes",
+      "path": "europe/france/midi/cevennes",
+      "prior_score": 2.9753,
+      "prior_variance": 0.306645,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors",
+      "prior_score": 3.3643,
+      "prior_variance": 0.313197,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_score": 2.8851,
+      "prior_variance": 0.310468,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": -0.2382,
+      "prior_variance": 0.313421,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 0.975,
+      "prior_variance": 0.264974,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 0.3311,
+      "prior_variance": 0.281104,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": -1.003,
+      "prior_variance": 0.48732,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Imperial Beach",
+      "path": "northamerica/unitedstates/california/sandiego/imperialbeach",
+      "prior_score": -1.3982,
+      "prior_variance": 0.22265,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Bei Dai He",
+      "path": "asia/china/bei_dai_he",
+      "prior_score": -0.1186,
+      "prior_variance": 0.300936,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_score": 0.0184,
+      "prior_variance": 0.493673,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Saarland",
+      "path": "europe/germany/saarland",
+      "prior_score": -1.4626,
+      "prior_variance": 0.255646,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_score": -1.5044,
+      "prior_variance": 0.40813,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Banking",
+      "path": "northamerica/costarica/travelinformation/banking",
+      "prior_score": -6.5896,
+      "prior_variance": 0.396224,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Grange",
+      "path": "europe/ireland/cork/grange",
+      "prior_score": -3.756,
+      "prior_variance": 0.361243,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Newbridge",
+      "path": "europe/ireland/newbridge",
+      "prior_score": -2.192,
+      "prior_variance": 0.340174,
+      "prior_n": 4
+    }
+  ]
+}

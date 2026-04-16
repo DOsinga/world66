@@ -5,6 +5,7 @@ latitude: -4.3323
 longitude: 55.6644
 title: Cousin Island
 type: location
+score: 0.62
 ---
 
 A few kilometres southwest of [Praslin](/africa/seychelles/praslin), Cousin Island is one of the finest nature reserves in the Indian Ocean. At just 27 hectares, it punches well above its weight: this tiny granitic island hosts extraordinary densities of seabirds and is home to several species found nowhere else on Earth.

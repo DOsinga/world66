@@ -5,6 +5,7 @@ latitude: 68.9707
 longitude: 33.075
 title: Murmansk
 type: location
+score: 0.37
 ---
 
 Murmansk is the largest city above the Arctic Circle, a major Russian seaport on the Barents Sea coast of the Kola Peninsula. Founded in 1916 as Romanov-on-Murman (renamed after the Revolution), the city owes its existence to the warm currents of the Gulf Stream, which keep the harbour ice-free year-round — an unusual feature at this latitude.

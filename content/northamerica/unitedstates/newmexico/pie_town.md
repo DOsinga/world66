@@ -5,6 +5,7 @@ latitude: 34.2996
 longitude: -108.1325
 title: Pie Town
 type: location
+score: 0.34
 ---
 
 It is not the end of the world, but you can see it from here. Remote Pie Town, on US 60 in west-central New Mexico, can claim one of the most entertaining place names anywhere. And yes, they do serve pie here — come for the annual Pie Town Pie Festival in September, when the town's population temporarily multiplies and the pies flow freely.

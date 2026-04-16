@@ -5,6 +5,7 @@ latitude: 38.5738
 longitude: -109.5462
 title: Moab
 type: location
+score: 0.7
 ---
 
 Moab is the outdoor adventure capital of the American Southwest, a small desert town surrounded by some of the most spectacular red rock landscapes on the planet. Arches National Park is ten minutes away, Canyonlands National Park thirty. Two thousand natural stone arches, towering mesas, and the Colorado River flowing through it all — the scenery is relentless.

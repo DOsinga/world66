@@ -5,6 +5,7 @@ latitude: 42.500096
 longitude: -70.857825
 title: Marblehead
 type: location
+score: 0.51
 ---
 
 Founded in 1649 by fishermen from the Channel Islands, Marblehead is one of the most beautiful coastal towns in New England. The Old Town seems to tumble down to the long harbour, which is filled with yachts and ringed with estates and yacht clubs.

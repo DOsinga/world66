@@ -1,0 +1,200 @@
+{
+  "round": 1769,
+  "timestamp": "2026-04-13T10:49:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "1",
+      "path": "europe/france/val_disere/1_2",
+      "prior_score": 3.4116,
+      "prior_variance": 0.426547,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Isle of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull",
+      "prior_score": 5.0463,
+      "prior_variance": 0.42591,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 2.2498,
+      "prior_variance": 0.375904,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/tewkesbury",
+      "prior_score": 0.5081,
+      "prior_variance": 0.341387,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": -0.3708,
+      "prior_variance": 0.308158,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": 0.5357,
+      "prior_variance": 0.372473,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_score": 1.7654,
+      "prior_variance": 0.351342,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -0.0866,
+      "prior_variance": 0.331659,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_score": -3.4283,
+      "prior_variance": 0.389465,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Hundecove",
+      "path": "europe/albania/saranda/hundecove",
+      "prior_score": -1.5494,
+      "prior_variance": 0.402274,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/jacksonville",
+      "prior_score": -3.0075,
+      "prior_variance": 0.344291,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gauteng",
+      "path": "africa/southafrica/gauteng",
+      "prior_score": -0.6364,
+      "prior_variance": 0.335243,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -2.8286,
+      "prior_variance": 0.325996,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_score": -3.4799,
+      "prior_variance": 0.384989,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Gjakova",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjakova",
+      "prior_score": -3.151,
+      "prior_variance": 0.250331,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ukraine",
+      "path": "europe/ukraine",
+      "prior_score": -6.1797,
+      "prior_variance": 0.497863,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Gurabo",
+      "path": "northamerica/puertorico/gurabo",
+      "prior_score": -3.0615,
+      "prior_variance": 0.313037,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_score": -4.1389,
+      "prior_variance": 0.310761,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kuala Belait",
+      "path": "asia/brunei/kualabelait",
+      "prior_score": -4.5415,
+      "prior_variance": 0.359152,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_score": -4.2719,
+      "prior_variance": 0.312346,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_score": -5.7435,
+      "prior_variance": 0.384636,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -5.0813,
+      "prior_variance": 0.289987,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Solms",
+      "path": "europe/germany/hessen/solms",
+      "prior_score": -6.6062,
+      "prior_variance": 0.375812,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "sion",
+      "path": "asia/india/maharashtra/mumbai/sion",
+      "prior_score": -5.7686,
+      "prior_variance": 0.368181,
+      "prior_n": 4
+    }
+  ]
+}

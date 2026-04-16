@@ -5,6 +5,7 @@ latitude: 60.0059
 longitude: -111.8903
 title: Fort Smith
 type: location
+score: 0.32
 ---
 
 Fort Smith sits at the northern edge of Alberta on the banks of the Slave River, just inside the Northwest Territories — and it is the administrative headquarters of [Wood Buffalo National Park](/northamerica/canada/northwestterritories/woodbuffalo), Canada's largest national park and a UNESCO World Heritage Site. If you are heading into that vast wilderness of boreal forest, salt plains, and bison meadows, this is where you start.

@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
+  location_cleanup: '2026-04-16'
 latitude: 50.821463
 longitude: -0.140056
+score: 0.67
 title: Brighton
 type: location
 ---

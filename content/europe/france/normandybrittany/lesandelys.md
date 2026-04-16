@@ -1,10 +1,11 @@
 ---
-title: "Les Andelys"
+title: Les Andelys
 type: location
 latitude: 49.2469
 longitude: 1.4216
 done:
   location_cleanup: '2026-04-09'
+score: 0.52
 ---
 
 Les Andelys sits deep in one of the great loops of the Seine, backed by high chalk cliffs that give it a drama unusual for Normandy. The town is really two in one: Petit-Andely hugs the riverbank below the ruins of Chateau Gaillard, while Grand-Andely spreads inland around the church of Notre-Dame.

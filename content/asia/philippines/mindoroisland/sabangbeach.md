@@ -5,6 +5,7 @@ latitude: 13.5214
 longitude: 120.9734
 title: Sabang Beach
 type: location
+score: 0.54
 ---
 
 Sabang Beach is the main diving hub on [Mindoro Island](/asia/philippines/mindoroisland), situated near Puerto Galera on the northeast coast. The area covers three connected beaches — Sabang itself (the busiest), Little Lalaguna, and Big Lalaguna (the quietest) — all strung along a rocky coastline with coral reefs just offshore.

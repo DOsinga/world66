@@ -5,6 +5,7 @@ latitude: 49.599833
 longitude: 6.13572
 title: Luxembourg City
 type: location
+score: 0.64
 ---
 
 Luxembourg City is the country's capital and its cultural, political, and financial centre. It sits on a rocky outcrop above the deep gorges of the Alzette and Pétrusse rivers — a setting that gave rise to some of the most impressive fortifications in Europe, and that earned the old town and its fortresses a UNESCO World Heritage listing in 1994.

@@ -5,6 +5,7 @@ latitude: 36.6744
 longitude: -121.655
 title: Salinas
 type: location
+score: 0.38
 ---
 
 Salinas is best known as the hometown of John Steinbeck, and the agricultural valley that surrounds it is the landscape he wrote about in East of Eden, Of Mice and Men, and The Grapes of Wrath. The National Steinbeck Center downtown is the main draw for literary travelers, housing manuscripts, personal effects, and the camper truck from Travels with Charley.

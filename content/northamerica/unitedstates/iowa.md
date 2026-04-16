@@ -5,6 +5,7 @@ latitude: 41.878
 longitude: -93.0977
 done:
   location_cleanup: 2026-04-05
+score: 0.34
 ---
 
 Iowa is a state of rolling farmland, small river towns, and three million people spread thinly across the tallgrass prairie of the American Midwest. It is bookended by two great rivers — the Missouri on the west, the Mississippi on the east — and you could cross it in a day with the radio on and the windows down. For most visitors Iowa is a flyover, a place to drive through on the way to somewhere else. That is a mistake.

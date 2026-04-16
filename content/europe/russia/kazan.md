@@ -5,6 +5,7 @@ latitude: 55.7946
 longitude: 49.1115
 done:
   location_cleanup: 2026-04-06
+score: 0.49
 ---
 
 Kazan is the capital of the Republic of Tatarstan, set at the junction of the Volga and Kazanka rivers about 800 kilometres east of Moscow. Founded around 1005 AD, it was the capital of the Kazan Khanate before Ivan the Terrible conquered it in 1552. Today it is one of Russia's most interesting cities — a place where minarets and onion domes share the skyline and Tatar and Russian cultures have coexisted for centuries.

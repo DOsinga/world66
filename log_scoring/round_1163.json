@@ -1,0 +1,200 @@
+{
+  "round": 1163,
+  "timestamp": "2026-04-12T22:12:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_rank": 2166,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_rank": 1992,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sandoy",
+      "path": "europe/faroeislands/sandoy",
+      "prior_rank": 2785,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_rank": 3363,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_rank": 859,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_rank": 1298,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_rank": 3484,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_rank": 878,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_nat",
+      "prior_rank": 1898,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cannon Beach",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
+      "prior_rank": 1037,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Rincon",
+      "path": "northamerica/puertorico/rincon",
+      "prior_rank": 2416,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_rank": 469,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_rank": 1774,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_rank": 3799,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_rank": 1399,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_rank": 760,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_rank": 2662,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_rank": 3132,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
+      "prior_rank": 2953,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/berkeley",
+      "prior_rank": 1584,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Vitoria",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_rank": 3241,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Valence",
+      "path": "europe/france/alpes/valence",
+      "prior_rank": 4758,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_rank": 2985,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_borml",
+      "prior_rank": 5054,
+      "prior_wins": 16,
+      "prior_n": 2
+    }
+  ]
+}

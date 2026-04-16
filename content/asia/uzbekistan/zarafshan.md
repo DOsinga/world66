@@ -5,6 +5,7 @@ latitude: 41.5699
 longitude: 64.2097
 title: Zarafshan
 type: location
+score: 0.29
 ---
 
 Zarafshan is a closed gold-mining city planted in the middle of the Kyzyl Kum desert in northern Uzbekistan. It exists entirely because of the Muruntau gold deposit nearby — one of the largest open-pit gold mines in the world — and it has essentially no reason to exist otherwise. The city is home to an expat community of miners and engineers, but almost no travelers ever make it here.

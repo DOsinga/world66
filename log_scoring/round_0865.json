@@ -1,0 +1,200 @@
+{
+  "round": 865,
+  "timestamp": "2026-04-12T14:45:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_score": 10.5436,
+      "prior_variance": 9.580179,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cappadocia",
+      "path": "asia/turkey/cappadocia",
+      "prior_score": 14.3868,
+      "prior_variance": 7.532696,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Wadi Rum",
+      "path": "asia/jordan/wadirum",
+      "prior_score": 10.0867,
+      "prior_variance": 5.03184,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ibiza",
+      "path": "europe/spain/balearicislands/ibiza",
+      "prior_score": 8.7583,
+      "prior_variance": 6.127419,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 6.5138,
+      "prior_variance": 1.662288,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Elba",
+      "path": "europe/italy/tuscany/elba",
+      "prior_score": 6.8656,
+      "prior_variance": 1.427432,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": 6.4178,
+      "prior_variance": 1.367318,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Playa de Palma",
+      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
+      "prior_score": 8.3737,
+      "prior_variance": 2.154142,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.5603,
+      "prior_variance": 1.596056,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 6.3233,
+      "prior_variance": 2.208806,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/palm_springs",
+      "prior_score": 4.537,
+      "prior_variance": 3.426831,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 6.0346,
+      "prior_variance": 2.332205,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Rakitnica Canyon",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon",
+      "prior_score": -1.6841,
+      "prior_variance": 1.531644,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.8578,
+      "prior_variance": 1.288625,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": 1.0529,
+      "prior_variance": 1.250945,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/norderney",
+      "prior_score": 0.662,
+      "prior_variance": 1.551107,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -0.9433,
+      "prior_variance": 1.23668,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_score": -3.9553,
+      "prior_variance": 1.635275,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kincumber",
+      "path": "australiaandpacific/australia/newsouthwales/kincumber",
+      "prior_score": -3.8045,
+      "prior_variance": 1.290883,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/plattsburgh",
+      "prior_score": -6.5061,
+      "prior_variance": 1.359263,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Dieppe",
+      "path": "northamerica/canada/newbrunswick/dieppe",
+      "prior_score": -3.8092,
+      "prior_variance": 1.292651,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -8.306,
+      "prior_variance": 11.133558,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/haiti/jeremie",
+      "prior_score": -7.349,
+      "prior_variance": 3.199308,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -11.5427,
+      "prior_variance": 6.589066,
+      "prior_n": 1
+    }
+  ]
+}

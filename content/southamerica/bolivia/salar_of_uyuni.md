@@ -5,6 +5,11 @@ latitude: -20.2043
 longitude: -67.515
 title: Salar de Uyuni
 type: location
+score: 0.77
+image: salar_of_uyuni.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Isla_del_Pescado,_Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_42.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
 ---
 
 The Salar de Uyuni is the world's largest salt flat, a blinding white expanse of over 10,000 square kilometres in southwest [Bolivia](/southamerica/bolivia), at 3,650 metres on the Altiplano near the crest of the Andes.

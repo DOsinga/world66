@@ -5,6 +5,7 @@ latitude: 33.887278
 longitude: -118.410432
 title: Manhattan Beach
 type: location
+score: 0.53
 ---
 
 Manhattan Beach is one of the South Bay beach towns south of LAX, sandwiched between Hermosa Beach and El Segundo along the [California](/northamerica/unitedstates/california) coast. It has a quieter, more affluent feel than nearby Venice or Santa Monica — the Strand, a paved path running along the beach, is the social centre, busy with joggers, cyclists, and people walking dogs.

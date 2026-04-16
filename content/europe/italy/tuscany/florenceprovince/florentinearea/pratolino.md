@@ -6,6 +6,7 @@ longitude: 11.300935
 title: Pratolino
 todo_location_cleanup: done
 type: location
+score: 0.5
 ---
 
 Pratolino is a small village north of Florence on the Via Bolognese (state highway 65), on the road toward Borgo San Lorenzo. It is worth visiting almost entirely for one thing: the Parco Demidoff, the vast park surrounding the former Medici villa.

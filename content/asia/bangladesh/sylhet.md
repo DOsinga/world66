@@ -5,6 +5,7 @@ latitude: 24.735885
 longitude: 91.685248
 title: Sylhet
 type: location
+score: 0.41
 ---
 
 Sylhet sits in the northeast of Bangladesh in a region of tea estates, rivers, and lush green hills rolling up toward the Khasi and Jaintia mountains of Meghalaya. It is Bangladesh at its most scenic — very different from the flat delta that covers most of the country.

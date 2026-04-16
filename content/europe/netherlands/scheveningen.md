@@ -1,10 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: scheveningen.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:.00_1091_Seebad_Scheveningen_-_Niederlande.jpg
 latitude: 52.106745
 longitude: 4.273694
 title: Scheveningen
 type: location
+score: 0.53
 ---
 
 Scheveningen is The Hague's seaside district and one of the most popular beach resorts in the Netherlands. What was once a small fishing village is now a long stretch of sandy beach backed by a boulevard of restaurants, bars, and hotels — but it still has more character than most Dutch beach towns.

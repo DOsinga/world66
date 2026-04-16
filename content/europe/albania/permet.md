@@ -5,6 +5,7 @@ latitude: 40.2335
 longitude: 20.3532
 title: Permet
 type: location
+score: 0.47
 ---
 
 Përmet is a small town in southern Albania, tucked into a mountain valley where the Vjosa river runs fast and cold over large boulders. It's not pretty — the Germans burnt it to the ground in 1943–44 — but it has more history packed into it than most Albanian towns twice its size, and the surrounding landscape more than makes up for the architecture.

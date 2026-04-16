@@ -5,6 +5,7 @@ latitude: 47.582614
 longitude: 21.152537
 title: Hortobágy
 type: location
+score: 0.49
 ---
 
 Hortobágy is the largest continuous natural grassland in Europe and a UNESCO World Heritage site. The vast, treeless puszta stretches to the horizon in every direction, broken only by mirages shimmering in the summer heat and the silhouettes of long-horned grey cattle and Racka sheep. This is where Hungarian cowboy culture lives on: the csikós horsemen still ride the plains, performing feats like the famous "Puszta Five" where a single rider stands astride two galloping horses while driving three more ahead.

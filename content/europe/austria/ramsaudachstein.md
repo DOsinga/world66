@@ -5,6 +5,7 @@ latitude: 47.443109
 longitude: 13.619276
 title: Ramsau / Dachstein
 type: location
+score: 0.68
 ---
 
 We currently have no information about Ramsau / Dachstein.

@@ -5,6 +5,7 @@ latitude: 51.152565
 longitude: 11.809919
 title: Naumburg
 type: location
+score: 0.47
 ---
 
 Naumburg an der Saale is an old cathedral city on the fast rail line between [Leipzig](/europe/germany/saxony/leipzig) and [Weimar](/europe/germany/thuringia/weimar), reachable from both in under an hour. Rather neglected for decades, the 30,000-inhabitant city has made giant steps in restoring its historic buildings since reunification.

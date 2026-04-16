@@ -5,6 +5,7 @@ latitude: 34.4129
 longitude: -118.5538
 title: Santa Clarita
 type: location
+score: 0.36
 ---
 
 Santa Clarita sits in a broad valley about 35 miles north of downtown Los Angeles, just over the San Gabriel Mountains via the I-5 Newhall Pass. It's a sprawling, suburban city — one of the largest in California by land area — but it earns its place on the map with two things that draw visitors from across Southern California: Six Flags Magic Mountain, home to more roller coasters than any other park on earth, and a quieter, more surprising history rooted in gold mining and silent-era Hollywood.

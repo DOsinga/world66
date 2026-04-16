@@ -1,0 +1,200 @@
+{
+  "round": 51,
+  "timestamp": "2026-04-11T19:26:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_mu": 23.84,
+      "prior_sigma": 4.75,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Christ Church",
+      "path": "northamerica/barbados/christchurch",
+      "prior_mu": 22.83,
+      "prior_sigma": 4.68,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_mu": 21.63,
+      "prior_sigma": 4.13,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_mu": 23.6,
+      "prior_sigma": 5.05,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_mu": 22.35,
+      "prior_sigma": 4.81,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_mu": 22.2,
+      "prior_sigma": 4.49,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_mu": 22.74,
+      "prior_sigma": 4.92,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_mu": 22.36,
+      "prior_sigma": 5.49,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_mu": 21.6,
+      "prior_sigma": 4.39,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_mu": 21.44,
+      "prior_sigma": 3.92,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_mu": 21.3,
+      "prior_sigma": 4.62,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_mu": 22.01,
+      "prior_sigma": 5.69,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_mu": 21.81,
+      "prior_sigma": 4.39,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Puncak",
+      "path": "asia/indonesia/puncak",
+      "prior_mu": 21.45,
+      "prior_sigma": 4.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Limburg",
+      "path": "europe/germany/hesse/limburg",
+      "prior_mu": 22.17,
+      "prior_sigma": 4.54,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_mu": 21.24,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_mu": 21.56,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_mu": 21.17,
+      "prior_sigma": 4.47,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/leicester_notting/chesterfield",
+      "prior_mu": 20.92,
+      "prior_sigma": 3.98,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_mu": 20.68,
+      "prior_sigma": 4.08,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_mu": 19.63,
+      "prior_sigma": 4.31,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,8 +1,9 @@
 ---
-title: "Krabi Town"
+title: Krabi Town
 type: location
 latitude: 8.063464
 longitude: 98.916235
+score: 0.67
 ---
 
 This small town 814 kms. from Bangkok is a pleasant place to spend a few days sight-seeing before heading out to one of the local beaches or islands. Surrounded by spectacular limestione karst scenery and mangrove and monsoon forest it offers the nature lover a huge choice of day trips. Visit any of the forest parks such as Koa Benja National Park with its caves and waterfalls or Nam Tok Hoay Toe where you can swim in the pools at this 11 level waterfall. Or take a day trip out to the nearby Pha Nga bay to see strangely shaped mountains rising out of the sea above traditional Muslim fishing villages on stilts. 

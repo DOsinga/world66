@@ -15,7 +15,7 @@ The great underrated region of Greece. The ancient theatre of [Epidaurus](/europ
 
 ## Crete
 
-Greece's largest island is in some ways a destination in itself. [Crete](/europe/greece/crete) has the Minoan palace of Knossos, the Samaria Gorge (Europe's longest), exceptional beaches on the south coast, and a food culture — Cretan olive oil, cheeses, snails, lamb — that stands apart from mainland Greek cooking. It rewards a week or more. [Heraklion](/europe/greece/iraklion) is manageable as a base, but the western towns of Chania and Rethymno are more attractive.
+Greece's largest island is in some ways a destination in itself. [Crete](/europe/greece/crete) has the Minoan palace of Knossos, the Samaria Gorge (Europe's longest), exceptional beaches on the south coast, and a food culture — Cretan olive oil, cheeses, snails, lamb — that stands apart from mainland Greek cooking. It rewards a week or more. [Heraklion](/europe/greece/crete/iraklion) is manageable as a base, but the western towns of Chania and Rethymno are more attractive.
 
 ## Santorini
 

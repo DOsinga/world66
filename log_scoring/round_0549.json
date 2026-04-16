@@ -1,0 +1,200 @@
+{
+  "round": 549,
+  "timestamp": "2026-04-12T10:37:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Leh",
+      "path": "asia/india/jammuandkashmir/ladakh/leh",
+      "prior_mu": 29.2048,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ladakh",
+      "path": "asia/india/jammuandkashmir/ladakh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_mu": 23.5172,
+      "prior_sigma": 6.0282,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_mu": 22.9833,
+      "prior_sigma": 5.8628,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_mu": 22.5629,
+      "prior_sigma": 5.9352,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_mu": 22.8589,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_mu": 21.5761,
+      "prior_sigma": 2.4186,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_mu": 22.6266,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_mu": 22.8686,
+      "prior_sigma": 5.7219,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_mu": 22.4167,
+      "prior_sigma": 5.7067,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_mu": 21.6291,
+      "prior_sigma": 4.5032,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_mu": 21.5177,
+      "prior_sigma": 4.6316,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Harihareshwer ( HAHAD/KONKAN)",
+      "path": "asia/india/maharashtra/harihareshwer__ha",
+      "prior_mu": 21.7573,
+      "prior_sigma": 4.7885,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Kudal",
+      "path": "asia/india/maharashtra/kudal",
+      "prior_mu": 20.5171,
+      "prior_sigma": 4.6977,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_mu": 22.144,
+      "prior_sigma": 5.7294,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Aska",
+      "path": "asia/india/orissa/berhampur/aska",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "CHANDAN N BHANDARI",
+      "path": "asia/india/uttaranchal/chandan_n_bhandari",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

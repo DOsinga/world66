@@ -1,0 +1,200 @@
+{
+  "round": 448,
+  "timestamp": "2026-04-12T09:31:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_mu": 22.7244,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Vermont",
+      "path": "northamerica/unitedstates/vermont",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_mu": 22.5103,
+      "prior_sigma": 5.393,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Laurel Highlands",
+      "path": "northamerica/unitedstates/pennsylvania/laurel_highlands",
+      "prior_mu": 23.0423,
+      "prior_sigma": 5.6633,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_mu": 22.5029,
+      "prior_sigma": 5.9105,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Idaho",
+      "path": "northamerica/unitedstates/idaho",
+      "prior_mu": 22.7149,
+      "prior_sigma": 5.9489,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/sandiego/carlsbad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "{Sunny Isles}",
+      "path": "northamerica/unitedstates/florida/sunny_isles",
+      "prior_mu": 22.0404,
+      "prior_sigma": 5.4491,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_mu": 22.5285,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_mu": 22.6755,
+      "prior_sigma": 5.6876,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/losangeles/newhall",
+      "prior_mu": 22.4767,
+      "prior_sigma": 5.9068,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Central Valley",
+      "path": "northamerica/unitedstates/california/centralvalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_mu": 22.693,
+      "prior_sigma": 5.9461,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Okeechobee",
+      "path": "northamerica/unitedstates/florida/okeechobee",
+      "prior_mu": 21.9795,
+      "prior_sigma": 5.6846,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_mu": 22.5055,
+      "prior_sigma": 5.9109,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Fog Lifter Caffe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/fogliftercaffe",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    }
+  ]
+}

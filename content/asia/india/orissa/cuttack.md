@@ -5,6 +5,7 @@ latitude: 20.4686
 longitude: 85.8792
 title: Cuttack
 type: location
+score: 0.37
 ---
 
 Cuttack is one of the oldest cities in Odisha, sitting at the apex of the Mahanadi river delta where the river splits into its distributaries. For centuries it was the state capital, and the old city retains a density and bustle that its more modern neighbour [Bhubaneswar](/asia/india/orissa/bhubaneswar) lacks.

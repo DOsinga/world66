@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://web.arc
   José Mendoza</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.45
 ---
 
 Nicaragua is the largest country in Central America, squeezed between [Honduras](/northamerica/honduras) to the north and [Costa Rica](/northamerica/costarica) to the south. It has more to offer than its modest profile suggests: colonial cities with crumbling grandeur, an island formed by two volcanoes, Pacific surf breaks, Caribbean reef diving, and cloud forest coffee country. Compared to its neighbors, it remains considerably cheaper and less visited — which is part of its appeal.

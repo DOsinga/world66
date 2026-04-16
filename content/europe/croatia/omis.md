@@ -5,6 +5,7 @@ latitude: 43.443497
 longitude: 16.692277
 title: Omis
 type: location
+score: 0.63
 ---
 
 Omis sits where the Cetina river cuts through a dramatic gorge and meets the Adriatic, about 25 kilometres south of [Split](/europe/croatia/split). For centuries it was a pirate stronghold — the Omiš pirates terrorised Venetian and Papal shipping from the 12th to the 14th century, using the narrow river canyon as a natural fortress. Two ruined fortresses still cling to the cliffs above town.

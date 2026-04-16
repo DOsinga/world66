@@ -5,6 +5,7 @@ latitude: 49.458
 longitude: -2.535
 title: Guernsey
 type: location
+score: 0.6
 ---
 
 Guernsey is the second largest of the Channel Islands, with around 63,000 people and a capital, St Peter Port, that ranks among the more attractive harbour towns in the British Isles. The town rises steeply from the waterfront, its granite buildings and winding lanes giving it something of a Cornish feel overlaid with Norman names and French signage.

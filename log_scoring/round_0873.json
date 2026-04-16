@@ -1,0 +1,200 @@
+{
+  "round": 873,
+  "timestamp": "2026-04-12T14:46:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_score": 7.8296,
+      "prior_variance": 1.853946,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 7.1885,
+      "prior_variance": 1.524333,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 5.08,
+      "prior_variance": 1.526951,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 5.0805,
+      "prior_variance": 1.602227,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Orebic",
+      "path": "europe/croatia/orebic",
+      "prior_score": 3.6937,
+      "prior_variance": 1.343656,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Brioni Islands",
+      "path": "europe/croatia/brioniislands",
+      "prior_score": 7.2342,
+      "prior_variance": 1.473699,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/canterbury",
+      "prior_score": 5.3595,
+      "prior_variance": 1.436629,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Greenland",
+      "path": "northamerica/greenland",
+      "prior_score": -0.6198,
+      "prior_variance": 0.812947,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kalambo falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -2.1285,
+      "prior_variance": 1.792035,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tsodilo hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.3998,
+      "prior_variance": 0.707759,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -0.6137,
+      "prior_variance": 0.787126,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_score": 0.2137,
+      "prior_variance": 1.769881,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": 0.6923,
+      "prior_variance": 1.637174,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_score": -1.3675,
+      "prior_variance": 1.253107,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_score": 0.8261,
+      "prior_variance": 1.37617,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Jerico",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": -1.655,
+      "prior_variance": 1.40681,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "lahore",
+      "path": "asia/pakistan/abbottabad/lahore",
+      "prior_score": -8.0701,
+      "prior_variance": 1.28335,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -3.9579,
+      "prior_variance": 1.95179,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -14.7968,
+      "prior_variance": 7.265634,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -7.9577,
+      "prior_variance": 1.540335,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Zapresic",
+      "path": "europe/croatia/zapresic",
+      "prior_score": -7.2791,
+      "prior_variance": 12.492386,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -7.2214,
+      "prior_variance": 1.135587,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -6.8767,
+      "prior_variance": 1.14323,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_score": -4.8499,
+      "prior_variance": 1.256736,
+      "prior_n": 1
+    }
+  ]
+}

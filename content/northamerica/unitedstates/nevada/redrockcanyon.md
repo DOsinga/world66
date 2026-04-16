@@ -5,6 +5,7 @@ latitude: 36.1355
 longitude: -115.4294
 title: Red Rock Canyon
 type: location
+score: 0.68
 ---
 
 Red Rock Canyon National Conservation Area lies just 17 miles west of the Las Vegas Strip, a striking landscape of red and cream sandstone formations rising from the Mojave Desert. The 13-mile scenic loop drive is the easiest way to take it in, with pull-offs at viewpoints and trailheads along the way.

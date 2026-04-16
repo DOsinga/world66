@@ -1,0 +1,200 @@
+{
+  "round": 1153,
+  "timestamp": "2026-04-12T22:12:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/chichenitza",
+      "prior_rank": 88,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_rank": 1664,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_rank": 188,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Loire valley",
+      "path": "europe/france/centre/loirevalley",
+      "prior_rank": 64,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cannes",
+      "path": "europe/france/midi/cotedazur/cannes",
+      "prior_rank": 302,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_rank": 417,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_rank": 25,
+      "prior_wins": 156,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_rank": 653,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Burgundy",
+      "path": "europe/france/wine/burgundy",
+      "prior_rank": 316,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_rank": 574,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_rank": 148,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Shikoku",
+      "path": "asia/japan/shikoku",
+      "prior_rank": 105,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_rank": 285,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "St Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews",
+      "prior_rank": 251,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_rank": 164,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_rank": 230,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Cayman Islands",
+      "path": "northamerica/thecaribbean/caymanislands",
+      "prior_rank": 159,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Anguilla",
+      "path": "northamerica/thecaribbean/anguilla",
+      "prior_rank": 32,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_rank": 722,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_rank": 170,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_rank": 870,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Mani",
+      "path": "europe/greece/mani",
+      "prior_rank": 878,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "San Blas Islands",
+      "path": "northamerica/panama/sanblasislands",
+      "prior_rank": 453,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dominica",
+      "path": "northamerica/dominica",
+      "prior_rank": 1484,
+      "prior_wins": 52,
+      "prior_n": 3
+    }
+  ]
+}

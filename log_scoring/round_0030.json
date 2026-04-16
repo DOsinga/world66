@@ -1,0 +1,200 @@
+{
+  "round": 30,
+  "timestamp": "2026-04-11T19:25:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_mu": 28.06,
+      "prior_sigma": 6.21,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Tibet",
+      "path": "asia/china/tibet",
+      "prior_mu": 29.07,
+      "prior_sigma": 6.98,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_mu": 22.18,
+      "prior_sigma": 5.77,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_mu": 22.3,
+      "prior_sigma": 5.55,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_mu": 21.83,
+      "prior_sigma": 4.66,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_mu": 23.64,
+      "prior_sigma": 5.98,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_mu": 21.98,
+      "prior_sigma": 3.89,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_mu": 22.65,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_mu": 21.63,
+      "prior_sigma": 4.73,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mosjoen",
+      "path": "europe/norway/mosjoen",
+      "prior_mu": 21.57,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tennessee",
+      "path": "northamerica/unitedstates/tennessee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_mu": 21.82,
+      "prior_sigma": 4.45,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_mu": 21.79,
+      "prior_sigma": 4.61,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bay View",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee/bayview",
+      "prior_mu": 21.93,
+      "prior_sigma": 4.68,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_mu": 21.69,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Udayagi",
+      "path": "asia/india/andhrapradesh/udayagi",
+      "prior_mu": 22.12,
+      "prior_sigma": 5.53,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_notting/skegness",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

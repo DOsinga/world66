@@ -1,0 +1,200 @@
+{
+  "round": 1569,
+  "timestamp": "2026-04-13T10:32:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ginza",
+      "path": "asia/japan/tokyo/ginza",
+      "prior_score": 8.9568,
+      "prior_variance": 0.57856,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_score": 6.9407,
+      "prior_variance": 0.824234,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ryukyu islands",
+      "path": "asia/japan/ryukyuislands",
+      "prior_score": 9.193,
+      "prior_variance": 0.857746,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 6.2905,
+      "prior_variance": 0.418738,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 5.1704,
+      "prior_variance": 0.460282,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Fontainebleau",
+      "path": "europe/france/paris/fontainebleau",
+      "prior_score": 5.6822,
+      "prior_variance": 0.351189,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 6.6883,
+      "prior_variance": 0.415966,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 6.5869,
+      "prior_variance": 0.347776,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kardamili",
+      "path": "europe/greece/kardamili",
+      "prior_score": 6.4244,
+      "prior_variance": 0.380122,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 6.8519,
+      "prior_variance": 0.380847,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Old Goa",
+      "path": "asia/india/goa/oldgoa",
+      "prior_score": 5.6631,
+      "prior_variance": 0.33886,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 6.0293,
+      "prior_variance": 0.464852,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Anchorage",
+      "path": "northamerica/unitedstates/alaska/anchorage",
+      "prior_score": 3.007,
+      "prior_variance": 0.412977,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverp/liverpool",
+      "prior_score": 2.6727,
+      "prior_variance": 0.514828,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 1.3094,
+      "prior_variance": 0.405458,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -1.1802,
+      "prior_variance": 0.405826,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "La Mancha",
+      "path": "europe/spain/la_mancha",
+      "prior_score": 2.3148,
+      "prior_variance": 0.389776,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 1.1791,
+      "prior_variance": 0.371051,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 2.1197,
+      "prior_variance": 0.414732,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/virginia/jamestown",
+      "prior_score": 1.031,
+      "prior_variance": 0.321975,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_score": -1.9804,
+      "prior_variance": 0.457041,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.2646,
+      "prior_variance": 0.395289,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_score": -5.1717,
+      "prior_variance": 0.442319,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_score": -5.3328,
+      "prior_variance": 0.574915,
+      "prior_n": 3
+    }
+  ]
+}

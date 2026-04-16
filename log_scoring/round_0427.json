@@ -1,0 +1,120 @@
+{
+  "round": 427,
+  "timestamp": "2026-04-12T09:30:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 14,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Belize Barrier Reef",
+      "path": "northamerica/belize/barrierreef",
+      "prior_mu": 31.6788,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_mu": 22.1815,
+      "prior_sigma": 4.8636,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Belize",
+      "path": "northamerica/belize",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_mu": 22.4145,
+      "prior_sigma": 5.5549,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_mu": 22.7229,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_mu": 22.4037,
+      "prior_sigma": 5.5598,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

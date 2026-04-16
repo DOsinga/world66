@@ -1,0 +1,200 @@
+{
+  "round": 981,
+  "timestamp": "2026-04-12T22:03:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_rank": 1214,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_rank": 6519,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_rank": 5534,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_rank": 4664,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_rank": 3452,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_rank": 2905,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Wildlife",
+      "path": "asia/india/gujarat/wildlife",
+      "prior_rank": 5331,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tavush Marz",
+      "path": "europe/armenia/tavush_marz",
+      "prior_rank": 4695,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_rank": 7253,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Nias Selatan",
+      "path": "asia/indonesia/nias_selatan",
+      "prior_rank": 5355,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_rank": 5335,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_rank": 2754,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_rank": 4998,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Condeixa",
+      "path": "europe/portugal/condeixa",
+      "prior_rank": 5378,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Castell\u00f3n",
+      "path": "europe/spain/castellon",
+      "prior_rank": 7255,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_rank": 3872,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/kapiti_coast/raumati_beach",
+      "prior_rank": 6521,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_rank": 1543,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_rank": 5740,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_rank": 7093,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_rank": 3354,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Pedro",
+      "path": "northamerica/unitedstates/california/san_pedro",
+      "prior_rank": 4296,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_rank": 6885,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_rank": 6366,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

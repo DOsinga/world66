@@ -5,6 +5,7 @@ latitude: 42.345
 longitude: -8.75
 title: The Peninsula of O Morrazo
 type: location
+score: 0.54
 ---
 
 The Morrazo Peninsula juts into the Atlantic between the rías of Pontevedra and Vigo, making it one of the most scenic corners of Galicia. The peninsula takes in the small towns of Marín, Bueu, Cangas, Moaña, and Vilaboa — all with working waterfronts and good seafood.

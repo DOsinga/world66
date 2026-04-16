@@ -5,6 +5,7 @@ latitude: 47.620146
 longitude: -100.540737
 done:
   location_cleanup: 2026-04-07
+score: 0.35
 ---
 
 North Dakota is one of the least-visited states in the United States, which is part of its appeal. The landscape ranges from the flat, fertile Red River Valley in the east to the rugged Badlands in the west, where the Missouri River cuts through eroded buttes and coulees. It is stark country, genuinely empty in places, and beautiful in a way that rewards patience.

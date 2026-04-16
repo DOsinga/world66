@@ -5,6 +5,7 @@ latitude: 56.169453
 longitude: 9.549514
 title: Silkeborg
 type: location
+score: 0.48
 ---
 
 Silkeborg sits at the heart of Denmark's lake district, surrounded by the country's largest connected network of lakes and the Gudenå river, which winds its way east to Randers Fjord. It is a pleasant, prosperous town of around 45,000 people and one of the best bases for exploring the gentle landscape of central Jutland.

@@ -1,0 +1,200 @@
+{
+  "round": 1528,
+  "timestamp": "2026-04-13T10:28:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Ponsa",
+      "path": "europe/spain/balearicislands/mallorca/santa_ponsa",
+      "prior_score": 1.869,
+      "prior_variance": 0.426003,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 2.6353,
+      "prior_variance": 0.635891,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Palm island",
+      "path": "northamerica/saintvincentandthegrenadines/palmisland",
+      "prior_score": 2.2884,
+      "prior_variance": 0.356664,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 1.7992,
+      "prior_variance": 0.321939,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_score": 1.5422,
+      "prior_variance": 0.450961,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": 1.8069,
+      "prior_variance": 0.552224,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 2.28,
+      "prior_variance": 0.455848,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Schoelcher",
+      "path": "northamerica/martinique/schoelcher",
+      "prior_score": 1.7772,
+      "prior_variance": 0.505422,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 2.8576,
+      "prior_variance": 0.396934,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 1.1746,
+      "prior_variance": 0.350298,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Muskoka",
+      "path": "northamerica/canada/ontario/muskoka",
+      "prior_score": 1.3454,
+      "prior_variance": 0.50471,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Manawatu-Whanganui Region",
+      "path": "australiaandpacific/newzealand/whanganui_region",
+      "prior_score": 0.5527,
+      "prior_variance": 0.586368,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": 0.8705,
+      "prior_variance": 0.418239,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.0027,
+      "prior_variance": 0.400465,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 1.4029,
+      "prior_variance": 0.313967,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Jaen",
+      "path": "europe/spain/jaen",
+      "prior_score": 1.8587,
+      "prior_variance": 0.497586,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_score": 1.3301,
+      "prior_variance": 0.346147,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Connecticut",
+      "path": "northamerica/unitedstates/connecticut",
+      "prior_score": 0.1208,
+      "prior_variance": 0.514573,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": 1.4571,
+      "prior_variance": 0.512561,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Alba iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 2.0162,
+      "prior_variance": 0.3502,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Czestochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_score": 0.6522,
+      "prior_variance": 0.437865,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -0.9316,
+      "prior_variance": 0.608537,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/ashbourne",
+      "prior_score": -0.6057,
+      "prior_variance": 0.473759,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Benguet",
+      "path": "asia/philippines/benguet",
+      "prior_score": -1.0544,
+      "prior_variance": 0.609692,
+      "prior_n": 3
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 14.0509
 longitude: 101.3717
 title: Prachinburi
 type: location
+score: 0.42
 ---
 
 Prachinburi is a quiet province about 135 kilometres east of Bangkok, largely bypassed by tourists heading for the coast or the northeast. That is part of its appeal. The province is home to Khao Yai National Park's eastern fringes, several attractive waterfalls, and the ancient Khmer ruins at Morakot Historical Park, making it a worthwhile day trip or overnight stop for anyone interested in getting off the beaten track in central Thailand.

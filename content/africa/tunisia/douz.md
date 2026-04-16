@@ -5,6 +5,7 @@ latitude: 33.45711
 longitude: 9.024983
 title: Douz
 type: location
+score: 0.46
 ---
 
 Douz sits at the northern edge of the Grand Erg Oriental, the vast sea of dunes that stretches south into the Sahara. Known as the gateway to the desert, it is the last proper town before the sand takes over, and the logical base for camel treks and overnight expeditions into the dunes.

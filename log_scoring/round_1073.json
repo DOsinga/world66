@@ -1,0 +1,200 @@
+{
+  "round": 1073,
+  "timestamp": "2026-04-12T22:07:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kenya",
+      "path": "africa/kenya",
+      "prior_rank": 7684,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Iran",
+      "path": "asia/iran",
+      "prior_rank": 8009,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Dari\u00e9n Gap",
+      "path": "northamerica/panama/dariengap",
+      "prior_rank": 7950,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_rank": 7499,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Uttar Pradesh",
+      "path": "asia/india/uttarpradesh",
+      "prior_rank": 6457,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_rank": 8105,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_rank": 8106,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_rank": 7566,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "New Georgia",
+      "path": "australiaandpacific/solomonislands/newgeorgia",
+      "prior_rank": 7442,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/mumbai/nagpur",
+      "prior_rank": 5528,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_rank": 7480,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ploiesti",
+      "path": "europe/romania/ploiesti",
+      "prior_rank": 8063,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Gostivar",
+      "path": "europe/macedonia/gostivar",
+      "prior_rank": 6986,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_rank": 7473,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_rank": 7355,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cortenuova",
+      "path": "europe/italy/lombardia/cortenuova",
+      "prior_rank": 7361,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Cuzy",
+      "path": "europe/france/east/cuzy",
+      "prior_rank": 8024,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/arkansas/texarkana",
+      "prior_rank": 7830,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/florida/arcadia",
+      "prior_rank": 7379,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_rank": 6499,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_rank": 6991,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Debsk",
+      "path": "europe/poland/debsk",
+      "prior_rank": 7849,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "South Ural",
+      "path": "europe/russia/ural/south_ural",
+      "prior_rank": 7541,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_rank": 7827,
+      "prior_wins": 4,
+      "prior_n": 2
+    }
+  ]
+}

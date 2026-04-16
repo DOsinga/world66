@@ -1,0 +1,200 @@
+{
+  "round": 1740,
+  "timestamp": "2026-04-13T10:47:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Veneto",
+      "path": "europe/italy/veneto",
+      "prior_score": 4.9398,
+      "prior_variance": 0.555914,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 5.6888,
+      "prior_variance": 0.343557,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 4.956,
+      "prior_variance": 0.39052,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Pontine Islands",
+      "path": "europe/italy/lazio/pontineislands",
+      "prior_score": 3.2182,
+      "prior_variance": 0.369111,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 2.7126,
+      "prior_variance": 0.281552,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "samana",
+      "path": "northamerica/dominicanrepublic/samana",
+      "prior_score": 1.7312,
+      "prior_variance": 0.410785,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.2426,
+      "prior_variance": 0.238345,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_score": 2.7836,
+      "prior_variance": 0.267182,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 1.8794,
+      "prior_variance": 0.32849,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 2.1607,
+      "prior_variance": 0.352036,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/warwick",
+      "prior_score": 1.9408,
+      "prior_variance": 0.276742,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Negev",
+      "path": "asia/israel/negev",
+      "prior_score": 1.4112,
+      "prior_variance": 0.416182,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.4301,
+      "prior_variance": 0.393706,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": 0.7593,
+      "prior_variance": 0.317981,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sipalay",
+      "path": "asia/philippines/negrosisland/sipalay",
+      "prior_score": 0.571,
+      "prior_variance": 0.35015,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Denman Island",
+      "path": "northamerica/canada/britishcolumbia/denman_island",
+      "prior_score": -0.8218,
+      "prior_variance": 0.300199,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 2.3811,
+      "prior_variance": 0.307787,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/ravenglass",
+      "prior_score": 1.5355,
+      "prior_variance": 0.318882,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 3.5491,
+      "prior_variance": 0.362485,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_score": -3.1809,
+      "prior_variance": 0.319586,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_score": -3.4346,
+      "prior_variance": 0.320581,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.6623,
+      "prior_variance": 0.3827,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -9.9015,
+      "prior_variance": 0.681512,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_score": -6.9648,
+      "prior_variance": 0.422786,
+      "prior_n": 4
+    }
+  ]
+}

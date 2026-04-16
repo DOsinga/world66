@@ -1,0 +1,200 @@
+{
+  "round": 1331,
+  "timestamp": "2026-04-12T22:22:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chile",
+      "path": "southamerica/chile",
+      "prior_rank": 3828,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tanzania",
+      "path": "africa/tanzania",
+      "prior_rank": 4341,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_rank": 6024,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_rank": 4383,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_rank": 4292,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_rank": 5143,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kiribati",
+      "path": "australiaandpacific/kiribati",
+      "prior_rank": 2889,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_rank": 4626,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "The Lakes",
+      "path": "africa/kenya/lakes",
+      "prior_rank": 5229,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_rank": 5865,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_rank": 5134,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_rank": 5492,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Pyatigorsk",
+      "path": "europe/russia/pyatigorsk",
+      "prior_rank": 2500,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/queensland/longreach",
+      "prior_rank": 6830,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_rank": 4998,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_rank": 5989,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
+      "prior_rank": 4819,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_rank": 4317,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_rank": 5071,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_rank": 6571,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_rank": 6714,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_rank": 4650,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_rank": 7226,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_rank": 6474,
+      "prior_wins": 16,
+      "prior_n": 3
+    }
+  ]
+}

@@ -5,6 +5,11 @@ latitude: -25.3444
 longitude: 131.0369
 title: Uluru-Kata Tjuta National Park
 type: location
+score: 0.78
+image: ulurukata_tjuta_n.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Uluru-Kata_Tjuta_National_Park,_Uluru,_Kuniya_Walk_--_2019_--_3636.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dietmar Rabich
 ---
 
 Uluru-Kata Tjuta National Park is the spiritual heart of Australia's Red Centre, a UNESCO World Heritage site in the southern Northern Territory. The park is jointly managed by its Anangu traditional owners and Parks Australia — Uluru is a deeply sacred site, and visiting it respectfully is part of the experience.

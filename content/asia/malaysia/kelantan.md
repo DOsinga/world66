@@ -5,6 +5,7 @@ latitude: 5.40213
 longitude: 102.063597
 done:
   location_cleanup: 2026-04-07
+score: 0.45
 ---
 
 Kelantan is one of the most culturally distinct states in Malaysia — a predominantly Malay Muslim state on the northeast coast of the peninsula, bordered by Thailand to the north and the South China Sea to the east. Its capital, Kota Bharu, is one of the most traditional Malay towns in the country, with a lively night market (the Bazaar Buluh Kubu) that is one of the most colourful in Southeast Asia.

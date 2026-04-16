@@ -5,6 +5,7 @@ latitude: 46.758283
 longitude: 7.628086
 title: Thun
 type: location
+score: 0.67
 ---
 
 Thun is a small city of around 40,000 at the northwest end of Lake Thun, just 20 minutes by train from [Bern](/europe/switzerland/bern). It is the gateway to the Bernese Oberland — Interlaken, Grindelwald, and the Jungfrau region are all easily reached from here — and has more character than its transit-hub status might suggest.

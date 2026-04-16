@@ -1,0 +1,200 @@
+{
+  "round": 2124,
+  "timestamp": "2026-04-13T16:12:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 9.3281,
+      "prior_variance": 0.531107,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Emilia-Romagna",
+      "path": "europe/italy/emiliaromagna",
+      "prior_score": 5.5417,
+      "prior_variance": 0.296634,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Netherlands",
+      "path": "europe/netherlands",
+      "prior_score": -3.3216,
+      "prior_variance": 0.261117,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 7.8236,
+      "prior_variance": 0.782409,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 5.5426,
+      "prior_variance": 0.30725,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_score": 4.1422,
+      "prior_variance": 0.251186,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_score": 3.5319,
+      "prior_variance": 0.274491,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_score": 1.5883,
+      "prior_variance": 0.253429,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 2.3596,
+      "prior_variance": 0.42037,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Virgin Islands",
+      "path": "northamerica/virginislands",
+      "prior_score": 7.13,
+      "prior_variance": 0.334289,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Calderdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/calderdale",
+      "prior_score": 0.8755,
+      "prior_variance": 0.276648,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 2.5298,
+      "prior_variance": 0.221785,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_score": 3.3628,
+      "prior_variance": 0.316062,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
+      "prior_score": 2.8417,
+      "prior_variance": 0.214246,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 1.3332,
+      "prior_variance": 0.219864,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 1.3133,
+      "prior_variance": 0.206179,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": 0.2496,
+      "prior_variance": 0.32925,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_score": 1.8462,
+      "prior_variance": 0.18273,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Vila do conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 0.898,
+      "prior_variance": 0.203077,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Devonport Tasmania Australia",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -0.51,
+      "prior_variance": 0.240447,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/buena_park",
+      "prior_score": -0.8174,
+      "prior_variance": 0.26594,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_score": -0.9735,
+      "prior_variance": 0.225328,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Naraj",
+      "path": "asia/india/orissa/naraj",
+      "prior_score": -5.034,
+      "prior_variance": 0.254202,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Saudi Arabia",
+      "path": "asia/saudiarabia",
+      "prior_score": -8.2114,
+      "prior_variance": 0.515416,
+      "prior_n": 6
+    }
+  ]
+}

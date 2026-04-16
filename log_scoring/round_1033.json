@@ -1,0 +1,200 @@
+{
+  "round": 1033,
+  "timestamp": "2026-04-12T22:05:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_rank": 5096,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_rank": 5561,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_rank": 6168,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_rank": 5059,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_rank": 6323,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_rank": 4146,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_rank": 6517,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_rank": 5888,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_rank": 5695,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_rank": 7069,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Morristown",
+      "path": "northamerica/unitedstates/newjersey/morristown",
+      "prior_rank": 5501,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_rank": 6135,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/chiswick",
+      "prior_rank": 3487,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/leamingtonspa",
+      "prior_rank": 5893,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_rank": 5720,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "San Juan del Ro",
+      "path": "northamerica/mexico/sanjuandelro",
+      "prior_rank": 5885,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Blandford",
+      "path": "europe/unitedkingdom/england/blandford",
+      "prior_rank": 5319,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Trujillo",
+      "path": "northamerica/honduras/trujillo",
+      "prior_rank": 6316,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/kapiti_coast/raumati_beach",
+      "prior_rank": 6326,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_rank": 6549,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Staten Island",
+      "path": "northamerica/unitedstates/newyorkstate/statenisland",
+      "prior_rank": 4295,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_rank": 7079,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_rank": 7101,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_rank": 6112,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

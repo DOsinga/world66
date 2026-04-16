@@ -1,0 +1,200 @@
+{
+  "round": 1045,
+  "timestamp": "2026-04-12T22:06:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Viti levu",
+      "path": "australiaandpacific/fiji/vitilevu",
+      "prior_rank": 1276,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_rank": 1400,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lapland",
+      "path": "europe/finland/lapland",
+      "prior_rank": 536,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sichuan Province",
+      "path": "asia/china/sichuanprovince",
+      "prior_rank": 703,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_rank": 572,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_rank": 852,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_rank": 698,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Isle of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull",
+      "prior_rank": 1054,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_rank": 1433,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_rank": 1015,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_rank": 2132,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_rank": 2352,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_rank": 2883,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_rank": 401,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_rank": 678,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_rank": 471,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_rank": 872,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_rank": 1376,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_rank": 1485,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Aran islands",
+      "path": "europe/ireland/aranislands",
+      "prior_rank": 795,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Yorkshire Dales",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales",
+      "prior_rank": 129,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lindau",
+      "path": "europe/germany/badenwrttemberg/lindau",
+      "prior_rank": 1606,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_rank": 538,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_rank": 1949,
+      "prior_wins": 33,
+      "prior_n": 2
+    }
+  ]
+}

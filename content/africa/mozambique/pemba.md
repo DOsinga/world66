@@ -5,6 +5,7 @@ latitude: -12.973555
 longitude: 40.52151
 title: Pemba
 type: location
+score: 0.44
 ---
 
 Pemba sits at the mouth of one of the largest natural bays in the world, a deep curve of the Indian Ocean on Mozambique's northern coast. The city is the capital of Cabo Delgado province, and for travelers willing to make the journey north, it rewards with some of the finest beaches and diving conditions in eastern Africa.

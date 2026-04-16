@@ -5,6 +5,7 @@ latitude: -41.271085
 longitude: 173.283676
 title: Nelson
 type: location
+score: 0.57
 ---
 
 Nelson sits at the top of the South Island, where the Southern Alps drop down to a wide coastal plain and three national parks press in from different directions. It is one of the sunniest places in New Zealand — the region consistently records the country's highest sunshine hours — which goes some way to explaining the produce, the art, and the general mood of the place.

@@ -5,6 +5,7 @@ latitude: 47.188183
 longitude: -95.219606
 title: Itasca State Park
 type: location
+score: 0.49
 ---
 
 Itasca State Park is where the Mississippi River begins — a modest stream of clear water flowing out of Lake Itasca that you can wade across on a line of stepping stones. It is probably the only place along the river's 3,700-kilometre course where the Mississippi is neither brown nor muddy.

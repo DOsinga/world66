@@ -1,0 +1,200 @@
+{
+  "round": 1441,
+  "timestamp": "2026-04-12T22:27:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pennsylvania",
+      "path": "northamerica/unitedstates/pennsylvania",
+      "prior_rank": 4146,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_rank": 7339,
+      "prior_wins": 21,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Limousin",
+      "path": "europe/france/centre/limousin",
+      "prior_rank": 7016,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Giessen",
+      "path": "europe/germany/hesse/giessen",
+      "prior_rank": 7442,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_rank": 6721,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ratingen",
+      "path": "europe/germany/northrhinewestphalia/ratingen",
+      "prior_rank": 7070,
+      "prior_wins": 32,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Vanadzor",
+      "path": "europe/armenia/vanadzor",
+      "prior_rank": 7289,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Copiapo",
+      "path": "southamerica/chile/copiapo",
+      "prior_rank": 7157,
+      "prior_wins": 34,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_rank": 7020,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_rank": 3718,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Santa rita",
+      "path": "australiaandpacific/guam/santarita",
+      "prior_rank": 6368,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_rank": 6994,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_rank": 7394,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Romford",
+      "path": "europe/unitedkingdom/england/romford",
+      "prior_rank": 6030,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Time Zone",
+      "path": "northamerica/costarica/travelinformation/timezone",
+      "prior_rank": 8127,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ural",
+      "path": "europe/russia/ural",
+      "prior_rank": 8076,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_rank": 8093,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_rank": 7182,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/minnesota/virginia",
+      "prior_rank": 7600,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Cotabato",
+      "path": "asia/philippines/cotabato",
+      "prior_rank": 7829,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Haiti",
+      "path": "northamerica/haiti",
+      "prior_rank": 7185,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "CHANDAN N BHANDARI",
+      "path": "asia/india/uttaranchal/chandan_n_bhandari",
+      "prior_rank": 8204,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "pir azeem khan koroona kheshgi payan",
+      "path": "asia/pakistan/nowshera/kheshgi/pir_azeem_khan_kor",
+      "prior_rank": 8022,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bahadur Garh",
+      "path": "asia/pakistan/dera_ghazi_khan/bahadur_garh",
+      "prior_rank": 7768,
+      "prior_wins": 12,
+      "prior_n": 3
+    }
+  ]
+}

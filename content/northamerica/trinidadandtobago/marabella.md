@@ -1,4 +1,0 @@
----
-title: "Marabella"
-type: location
----

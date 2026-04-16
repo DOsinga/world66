@@ -10,6 +10,7 @@ latitude: 4.2105
 longitude: 101.9758
 title: Malaysia
 type: location
+score: 0.5
 ---
 
 Malaysia is one of Southeast Asia's most rewarding destinations -- a country where Malay, Chinese, Indian and indigenous cultures have blended into something distinct and endlessly interesting. The food alone is worth the trip, and the natural landscapes range from ancient rainforest to coral-fringed islands to cool highland tea plantations.

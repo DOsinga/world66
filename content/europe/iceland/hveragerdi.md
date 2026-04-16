@@ -1,10 +1,11 @@
 ---
-title: "Hveragerði"
+title: Hveragerði
 type: location
 latitude: 63.9976
 longitude: -21.1868
 done:
   location_cleanup: '2026-04-09'
+score: 0.56
 ---
 
 Hveragerði is a small geothermal town about 45 km east of Reykjavík, sitting directly on top of one of Iceland's most active hot-spring fields. Steam rises from vents throughout the town, and the ground is warm enough to bake bread in a pot buried in the earth — locals actually do this.

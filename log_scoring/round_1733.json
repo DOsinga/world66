@@ -1,0 +1,200 @@
+{
+  "round": 1733,
+  "timestamp": "2026-04-13T10:46:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_score": 10.6935,
+      "prior_variance": 0.439416,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Coral Coast",
+      "path": "australiaandpacific/fiji/vitilevu/coral_coast",
+      "prior_score": 7.8596,
+      "prior_variance": 0.481107,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 7.9161,
+      "prior_variance": 0.407992,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 7.9748,
+      "prior_variance": 0.384847,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ecuador",
+      "path": "southamerica/ecuador",
+      "prior_score": 5.8589,
+      "prior_variance": 0.601583,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Santiago Atitlan",
+      "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
+      "prior_score": 6.3069,
+      "prior_variance": 0.482117,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 7.856,
+      "prior_variance": 0.313307,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bavaria",
+      "path": "europe/germany/bavaria",
+      "prior_score": 8.6126,
+      "prior_variance": 0.633248,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_score": 7.9977,
+      "prior_variance": 0.533439,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_score": 6.043,
+      "prior_variance": 0.344159,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tivoli",
+      "path": "europe/italy/lazio/tivoli",
+      "prior_score": 6.3899,
+      "prior_variance": 0.393906,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_score": 6.007,
+      "prior_variance": 0.486395,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monterey",
+      "prior_score": 4.8714,
+      "prior_variance": 0.433815,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 4.5108,
+      "prior_variance": 0.575015,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Olbia",
+      "path": "europe/italy/sardinia/olbia",
+      "prior_score": 6.445,
+      "prior_variance": 0.370344,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_score": 7.0916,
+      "prior_variance": 0.409971,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.4871,
+      "prior_variance": 0.329419,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 3.4299,
+      "prior_variance": 0.434043,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "South Australia",
+      "path": "australiaandpacific/australia/southaustralia",
+      "prior_score": -0.1014,
+      "prior_variance": 0.346164,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bourges",
+      "path": "europe/france/centre/bourges",
+      "prior_score": 2.7286,
+      "prior_variance": 0.336824,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Salt island",
+      "path": "northamerica/britishvirginislands/saltisland",
+      "prior_score": -0.4696,
+      "prior_variance": 0.37826,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": -0.802,
+      "prior_variance": 0.315582,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_score": -3.3699,
+      "prior_variance": 0.309012,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -4.4092,
+      "prior_variance": 0.292951,
+      "prior_n": 4
+    }
+  ]
+}

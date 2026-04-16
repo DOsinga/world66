@@ -5,6 +5,7 @@ latitude: 38.458398
 longitude: 47.9313
 title: Ardabil
 type: location
+score: 0.43
 ---
 
 Ardabil sits on a high plain at 1,400 metres in northwestern Iran, just east of Mount Sabalan (4,811 metres), the highest peak in Iranian Azerbaijan. The city is cold — genuinely cold in winter, and cool even in summer by Iranian standards. The surrounding landscape is open grassland and grazing country, treeless and windswept.

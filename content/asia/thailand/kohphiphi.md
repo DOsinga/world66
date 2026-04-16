@@ -5,6 +5,11 @@ latitude: 7.737373
 longitude: 98.770455
 title: Koh Phi Phi
 type: location
+score: 0.75
+image: kohphiphi.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Isla_Phi_Phi_Lay,_Tailandia,_2013-08-19,_DD_04.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Diego Delso
 ---
 
 The Phi Phi islands are the kind of place that looks too good to be real — sheer limestone cliffs rising from turquoise water, white sand beaches backed by palms, and coral reefs just offshore. Located in the Andaman Sea between [Phuket](/asia/thailand/phuket) and [Krabi](/asia/thailand/krabi), the archipelago consists of two main islands: Phi Phi Don, where all the accommodation and nightlife is, and Phi Phi Leh, an uninhabited national park island famous as the filming location for *The Beach*.

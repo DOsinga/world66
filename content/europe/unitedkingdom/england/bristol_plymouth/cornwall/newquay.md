@@ -1,6 +1,9 @@
 ---
+done:
+  location_cleanup: '2026-04-15'
 latitude: 50.413625
 longitude: -5.084336
+score: 0.55
 title: Newquay
 type: location
 ---

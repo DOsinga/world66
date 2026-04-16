@@ -5,6 +5,7 @@ latitude: 53.842549
 longitude: -0.431568
 title: Beverley
 type: location
+score: 0.49
 ---
 
 Beverley is one of the finest small towns in the north of England — compact, handsome, and easy to underestimate. It served for centuries as the county town of the East Riding of Yorkshire, and the medieval bones of that importance are still very much on show.

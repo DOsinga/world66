@@ -1,0 +1,200 @@
+{
+  "round": 982,
+  "timestamp": "2026-04-12T22:03:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Around Paris",
+      "path": "europe/france/around_paris",
+      "prior_rank": 52,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_rank": 134,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_rank": 19,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_rank": 1532,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_rank": 154,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "South Korea",
+      "path": "asia/southkorea",
+      "prior_rank": 293,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_rank": 825,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Capri",
+      "path": "europe/italy/campania/capri",
+      "prior_rank": 138,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Busan",
+      "path": "asia/southkorea/pusan",
+      "prior_rank": 43,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_rank": 297,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_rank": 152,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bristol, Plymouth and the South-West",
+      "path": "europe/unitedkingdom/england/bristol_plymouth",
+      "prior_rank": 287,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_rank": 178,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Olbia",
+      "path": "europe/italy/sardinia/olbia",
+      "prior_rank": 117,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_rank": 66,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_rank": 35,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_rank": 396,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_rank": 886,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Transylvania",
+      "path": "europe/romania/transylvania",
+      "prior_rank": 1509,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_rank": 165,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_rank": 280,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/losangeles/santamonica",
+      "prior_rank": 76,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_rank": 122,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_rank": 1554,
+      "prior_wins": 18,
+      "prior_n": 1
+    }
+  ]
+}

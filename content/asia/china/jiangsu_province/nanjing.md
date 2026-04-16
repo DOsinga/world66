@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
+  location_cleanup: '2026-04-16'
 latitude: 32.043828
 longitude: 118.778863
+score: 0.6
 title: Nanjing
 type: location
 ---

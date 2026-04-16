@@ -5,6 +5,7 @@ latitude: 15.061
 longitude: 103.7613
 title: Surin Province
 type: location
+score: 0.48
 ---
 
 Surin Province sits in Thailand's northeastern Isan region, close to the Cambodian border. It is best known for the annual Elephant Round-Up, held every November, when mahouts from the surrounding countryside converge on the provincial capital with their elephants for a festival of parades, demonstrations, and feasts. The tradition runs deep — for centuries the people of Surin bred and trained elephants for the royal court, and the relationship between mahout families and their animals remains a living part of the culture.

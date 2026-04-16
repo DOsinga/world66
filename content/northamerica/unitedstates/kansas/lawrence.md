@@ -5,6 +5,7 @@ latitude: 38.971914
 longitude: -95.23594
 title: Lawrence
 type: location
+score: 0.4
 ---
 
 Lawrence is a university town in eastern [Kansas](/northamerica/unitedstates/kansas), home to the University of Kansas and one of the most charming small cities in the state. The National Trust for Historic Preservation once named it among America's "Dozen Most Distinctive Destinations," and the praise is deserved.

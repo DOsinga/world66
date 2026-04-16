@@ -5,6 +5,7 @@ latitude: 58.9809
 longitude: -2.9605
 title: Orkney
 type: location
+score: 0.68
 ---
 
 Orkney is an archipelago of about seventy islands off the north coast of Scotland, separated from the mainland by the Pentland Firth. Only about twenty are inhabited, and most visitors stick to Mainland, the largest island, where the two towns — [Kirkwall](/europe/unitedkingdom/scotland/orkneys/kirkwall) and Stromness — sit on opposite coasts.

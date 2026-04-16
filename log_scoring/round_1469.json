@@ -1,0 +1,200 @@
+{
+  "round": 1469,
+  "timestamp": "2026-04-12T22:29:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_rank": 4859,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_rank": 3202,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_rank": 1473,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_rank": 5438,
+      "prior_wins": 36,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_rank": 3158,
+      "prior_wins": 52,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/leeds",
+      "prior_rank": 2401,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_rank": 4905,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_rank": 4720,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
+      "prior_rank": 3783,
+      "prior_wins": 84,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_rank": 4683,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_rank": 3021,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_rank": 2618,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_rank": 3279,
+      "prior_wins": 76,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_rank": 3565,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_rank": 5693,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_rank": 6555,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Timor-Leste",
+      "path": "asia/easttimor",
+      "prior_rank": 5602,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_rank": 5847,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_rank": 3304,
+      "prior_wins": 51,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Warrnambool",
+      "path": "australiaandpacific/australia/victoria/warrnambool",
+      "prior_rank": 4972,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_rank": 6031,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/raumati_beach",
+      "prior_rank": 6860,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/sandiego/escondido",
+      "prior_rank": 5721,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dari\u00e9n Gap",
+      "path": "northamerica/panama/dariengap",
+      "prior_rank": 5607,
+      "prior_wins": 24,
+      "prior_n": 3
+    }
+  ]
+}

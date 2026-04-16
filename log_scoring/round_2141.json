@@ -1,0 +1,200 @@
+{
+  "round": 2141,
+  "timestamp": "2026-04-13T16:14:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 10.0534,
+      "prior_variance": 0.535019,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_score": 2.3554,
+      "prior_variance": 0.302423,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 2.8004,
+      "prior_variance": 0.250473,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": -0.0287,
+      "prior_variance": 0.308543,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/glenridding",
+      "prior_score": 2.8776,
+      "prior_variance": 0.344841,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_score": 3.2545,
+      "prior_variance": 0.29537,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mito",
+      "path": "asia/japan/mito",
+      "prior_score": -0.0069,
+      "prior_variance": 0.272645,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bahrain",
+      "path": "asia/bahrain",
+      "prior_score": 1.6048,
+      "prior_variance": 0.249094,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 0.286,
+      "prior_variance": 0.341027,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": 0.0506,
+      "prior_variance": 0.243119,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_score": -0.3173,
+      "prior_variance": 0.21498,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -1.8615,
+      "prior_variance": 0.245311,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/ledbury",
+      "prior_score": -0.5144,
+      "prior_variance": 0.217303,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/maidstone",
+      "prior_score": -2.2816,
+      "prior_variance": 0.194473,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Hundecove",
+      "path": "europe/albania/saranda/hundecove",
+      "prior_score": -1.3118,
+      "prior_variance": 0.300517,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_score": -0.8747,
+      "prior_variance": 0.26146,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -4.1671,
+      "prior_variance": 0.307869,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_score": -2.0021,
+      "prior_variance": 0.110396,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Pleven",
+      "path": "europe/bulgaria/sofia/pleven",
+      "prior_score": -3.5571,
+      "prior_variance": 0.230879,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_score": -3.8158,
+      "prior_variance": 0.258107,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_score": -4.4703,
+      "prior_variance": 0.321439,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -4.7718,
+      "prior_variance": 0.296633,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_score": -4.5053,
+      "prior_variance": 0.254795,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -4.6367,
+      "prior_variance": 0.286214,
+      "prior_n": 5
+    }
+  ]
+}

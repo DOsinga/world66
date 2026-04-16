@@ -5,6 +5,7 @@ latitude: 5.4977
 longitude: -0.3649
 title: Kokrobite
 type: location
+score: 0.44
 ---
 
 Kokrobite is the closest beach escape from [Accra](/africa/ghana/accra), about 30 km west of the capital along the coast road. It is a fishing village that has quietly become the place Accra residents and backpackers come to decompress — wide sandy beach, cold beer, and drumming into the night.

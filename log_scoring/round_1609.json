@@ -1,0 +1,200 @@
+{
+  "round": 1609,
+  "timestamp": "2026-04-13T10:35:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 4.1423,
+      "prior_variance": 0.301807,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "costa dorada",
+      "path": "europe/spain/spanishcostas/costa_dorada",
+      "prior_score": 1.4972,
+      "prior_variance": 0.387778,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_score": 4.6996,
+      "prior_variance": 0.385518,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Noumea",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_score": 4.9351,
+      "prior_variance": 0.380636,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_score": 3.564,
+      "prior_variance": 0.333889,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_score": 3.2127,
+      "prior_variance": 0.377896,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Albania",
+      "path": "europe/albania",
+      "prior_score": 3.2054,
+      "prior_variance": 0.372511,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Rwanda",
+      "path": "africa/rwanda",
+      "prior_score": 3.0197,
+      "prior_variance": 0.37676,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 4.0576,
+      "prior_variance": 0.413074,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 2.8417,
+      "prior_variance": 0.307191,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_score": 3.4529,
+      "prior_variance": 0.46577,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 2.1209,
+      "prior_variance": 0.396151,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 0.7301,
+      "prior_variance": 0.39683,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Latvia",
+      "path": "europe/latvia",
+      "prior_score": 0.7366,
+      "prior_variance": 0.636298,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Newquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/newquay",
+      "prior_score": 3.1971,
+      "prior_variance": 0.395195,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dunster",
+      "prior_score": 0.7636,
+      "prior_variance": 0.324364,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/norfolk/norwich",
+      "prior_score": 0.3904,
+      "prior_variance": 0.491602,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -1.2549,
+      "prior_variance": 0.326838,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": 0.4728,
+      "prior_variance": 0.364977,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_score": -0.2736,
+      "prior_variance": 0.333793,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fort Worth",
+      "path": "northamerica/unitedstates/texas/fort_worth",
+      "prior_score": -1.5244,
+      "prior_variance": 0.423894,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.8592,
+      "prior_variance": 0.312105,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -5.112,
+      "prior_variance": 0.423119,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -5.5815,
+      "prior_variance": 0.595606,
+      "prior_n": 4
+    }
+  ]
+}

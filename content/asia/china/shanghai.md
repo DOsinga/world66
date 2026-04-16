@@ -1,8 +1,13 @@
 ---
-title: "Shanghai"
+title: Shanghai
 type: location
 latitude: 31.231271
 longitude: 121.470015
+score: 0.76
+image: shanghai.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg
+image_license: CC BY-SA 4.0
+image_attribution: King of Hearts
 ---
 
 'Paris of the Orient', that's what they used to call Shanghai in the past, when it was still the leading power in trade and opium. From the communist revolution that followed, and which swept Shanghai into anonimity, can only some traces be found in present Shanghai. Today, Shanghai is the commercial center of China and has one of the most dynamic skylines in the world. The 17-million-citizens city shows her dualistic face in every corner of the city.

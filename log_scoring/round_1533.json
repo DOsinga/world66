@@ -1,0 +1,200 @@
+{
+  "round": 1533,
+  "timestamp": "2026-04-13T10:29:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 1.1892,
+      "prior_variance": 0.43987,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Landsberg",
+      "path": "europe/germany/bavaria/landsberg",
+      "prior_score": -1.1483,
+      "prior_variance": 0.397513,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": -0.142,
+      "prior_variance": 0.42069,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/vancouver/burnaby",
+      "prior_score": -1.327,
+      "prior_variance": 0.396338,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_score": -1.0936,
+      "prior_variance": 0.429605,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_score": -1.0972,
+      "prior_variance": 0.426738,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -2.0756,
+      "prior_variance": 0.26713,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -1.345,
+      "prior_variance": 0.43091,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -1.3237,
+      "prior_variance": 0.331204,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -1.4053,
+      "prior_variance": 0.52033,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -1.2485,
+      "prior_variance": 0.466636,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_score": -1.7952,
+      "prior_variance": 0.282349,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -1.4854,
+      "prior_variance": 0.444917,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_score": -1.4269,
+      "prior_variance": 0.511237,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "wrangell",
+      "path": "northamerica/unitedstates/alaska/wrangell",
+      "prior_score": -1.3617,
+      "prior_variance": 0.476708,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st",
+      "prior_score": -1.4042,
+      "prior_variance": 0.48621,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_score": -1.6523,
+      "prior_variance": 0.330305,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Paterna",
+      "path": "europe/spain/spanishcostas/paterna",
+      "prior_score": -2.9199,
+      "prior_variance": 0.514039,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -1.5317,
+      "prior_variance": 0.401866,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -1.9289,
+      "prior_variance": 0.432609,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -3.111,
+      "prior_variance": 0.462044,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_score": -1.5229,
+      "prior_variance": 0.434695,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": -0.8354,
+      "prior_variance": 0.442798,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dalaba",
+      "path": "africa/guineeconakry/dalaba",
+      "prior_score": -6.02,
+      "prior_variance": 0.480427,
+      "prior_n": 5
+    }
+  ]
+}

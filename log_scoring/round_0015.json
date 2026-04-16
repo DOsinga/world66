@@ -1,0 +1,200 @@
+{
+  "round": 15,
+  "timestamp": "2026-04-11T19:24:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_mu": 22.99,
+      "prior_sigma": 5.98,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "El Yunque",
+      "path": "northamerica/puertorico/elyunque",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/cambridge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_mu": 22.62,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "James Island",
+      "path": "northamerica/unitedstates/southcarolina/james_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Blandford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "La isabela",
+      "path": "northamerica/dominicanrepublic/laisabela",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to",
+      "prior_mu": 22.78,
+      "prior_sigma": 5.96,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Copiapo",
+      "path": "southamerica/chile/copiapo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Khawas",
+      "path": "asia/pakistan/azad_kashmir/bagh/islam_nagar_bhount_1/khawas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 41.9534
 longitude: -82.5129
 title: Point Pelee and Pelee Island
 type: location
+score: 0.43
 ---
 
 Point Pelee National Park juts southward from the Ontario mainland into Lake Erie, tapering to a sharp point that marks the southernmost tip of the Canadian mainland. Its mix of marsh, forest, and open lakefront makes it one of the finest birdwatching sites in North America — during the spring and autumn migrations, hundreds of species pass through or pause to rest, and dedicated birders come from across the continent for the spectacle.

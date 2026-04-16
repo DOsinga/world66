@@ -1,0 +1,200 @@
+{
+  "round": 1126,
+  "timestamp": "2026-04-12T22:10:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_rank": 2296,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_rank": 5286,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_rank": 5781,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_rank": 4243,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_rank": 3810,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_rank": 6256,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kazanlak",
+      "path": "europe/bulgaria/valleyoftheroses/kazanlak",
+      "prior_rank": 3175,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_rank": 3884,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sauerland",
+      "path": "europe/germany/northrhinewestphalia/sauerland",
+      "prior_rank": 6112,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "North-West",
+      "path": "australiaandpacific/australia/tasmania/northwest",
+      "prior_rank": 3783,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_rank": 3937,
+      "prior_wins": 59,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_rank": 4751,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_rank": 5216,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_rank": 5586,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_rank": 6357,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nyeri",
+      "path": "africa/kenya/centralhighlands/nyeri",
+      "prior_rank": 6127,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_rank": 6872,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_lla",
+      "prior_rank": 6116,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_rank": 6971,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_rank": 5659,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon_1",
+      "prior_rank": 4744,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_rank": 5053,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_rank": 6367,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_rank": 3000,
+      "prior_wins": 28,
+      "prior_n": 2
+    }
+  ]
+}

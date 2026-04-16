@@ -5,6 +5,7 @@ latitude: 44.4644
 longitude: -72.6856
 title: Stowe
 type: location
+score: 0.6
 ---
 
 Stowe is a small village in the Green Mountains of Vermont, often called the ski capital of the East. Mount Mansfield, Vermont's highest peak, rises just to the west, and the Stowe Mountain Resort on its slopes draws skiers all winter. But Stowe works year-round — the fall foliage is spectacular, summer brings hiking and mountain biking, and the village itself is pretty enough to warrant a stroll in any season.

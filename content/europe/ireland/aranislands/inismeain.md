@@ -1,22 +1,17 @@
 ---
-title: "Inis Meain"
+done:
+  location_cleanup: '2026-04-15'
+latitude: 53.0855
+longitude: -9.587
+score: 0.56
+title: Inis Meáin
 type: location
-latitude: 55.10429
-longitude: -8.337443
 ---
 
-Inis Meáin is the middle island between Inis Mor and Inis Oirr. Its approx. 5km long and 2.5km wide. It has approximately 225 people.
+Inis Meáin is the middle and least visited of the three Aran Islands, sitting in Galway Bay off Ireland's west coast. About five kilometres long and two and a half wide, it is home to roughly 200 Irish-speaking inhabitants and remains one of the most authentic Gaeltacht communities in the country.
 
+Where Inis Mór draws day-trippers and Inis Oírr charms with its compactness, Inis Meáin rewards with solitude. The landscape is a maze of dry-stone walls enclosing tiny fields, limestone pavement cracked open by wildflowers, and cliffs dropping into the Atlantic on the southern edge. The playwright John Millington Synge spent his summers here in the early 1900s, sitting on a stone ledge above the cliffs now known as Cathaoir Synge (Synge's Chair), watching the big seas roll in from America. His time on the island inspired *The Aran Islands* and *The Playboy of the Western World*.
 
- For these the island has two main pubs, which usually provide traditional music during the summer months. There are various festivals during the summer the hooker(as in the traditional sail boat) festival is run in June, the synge weekend which run on the first weekend in August.
+The island's two great stone forts are its headline sights. Dún Chonchúir, a massive oval fort on the island's highest point, offers views across all three islands and the Connemara mountains beyond. Dún Fearbhaí, smaller and unusually square, sits on the eastern cliffs facing Inis Oírr. Both date somewhere between the Iron Age and early medieval period — nobody knows precisely.
 
-
- 
- On the island there are a few historic sites worth visiting.
- The stone fort of Dún Fearbhaí dates from the 1st-7th ceturies A.D., or perhaps earlier. It is unusual in being almost square, instead of circular. The terraces allong the inside of the walls may have been for defenders to look over or for some ceremonial porpose. It is easy to climb on top of the wall, and worth it for the fine view of the low-lying northern part of the island.
-
-
- Dún Chonchúir is a large oval fort dating around 1st-7th Century A.D. Built by Conchúir brother of Aengus of the Fir Bolg. Built on a high point of the island the view here is magnificent.
-
-
- At Cill Cheannannach you can visit the church. The name may mean "church of Canons" or may refer to St. Gregory "Chennfhionnadh", the fair-headed. The church is a typical 8th-9th century stone building, and is complete except for the roof, which must have been wood framed. It is surrounded by grave slabs and it was here that the island burried its poeple until fifty years ago. Cathaoir Synge (Synge's Chair); This was the writer John Millington Synge spent many a day writing. It has supperb views across the sound to the cliffs on the south east corner of Inis Mór, and the big seas rolling in from America.
+Life here moves at its own pace. There are two pubs, two small shops, and a handful of places to eat. Traditional music sessions happen in summer, and the island's festivals — the currach racing weekend in late July, the Synge weekend in August — are genuine community events rather than tourist attractions. The Inis Meáin Knitting Company, founded in the 1970s, produces high-end knitwear sold internationally, and you can buy it from the factory shop.

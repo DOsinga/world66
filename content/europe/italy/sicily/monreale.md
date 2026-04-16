@@ -5,6 +5,7 @@ latitude: 38.0826
 longitude: 13.292
 title: Monreale
 type: location
+score: 0.64
 ---
 
 The cathedral of Monreale is one of the great attractions of Sicily. The 12th-century Byzantine mosaics covering every surface of the interior are breathtaking, depicting scenes from the Old and New Testaments in shimmering gold. The cloisters, with their 228 paired columns, are equally beautiful.

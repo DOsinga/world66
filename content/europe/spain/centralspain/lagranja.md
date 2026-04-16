@@ -5,6 +5,7 @@ latitude: 40.9011
 longitude: -4.0033
 title: La Granja
 type: location
+score: 0.54
 ---
 
 La Granja de San Ildefonso is a small town about 15 km southeast of [Segovia](/europe/spain/centralspain/segovia), built around the Royal Palace that Felipe V commissioned in 1720 as a retreat from Madrid. The palace follows the classical French model — Felipe was a Bourbon, grandson of Louis XIV — and the gardens are the real attraction: elaborate fountains, clipped hedges, and long avenues of trees that make it Spain's answer to Versailles.

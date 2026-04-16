@@ -1,0 +1,200 @@
+{
+  "round": 891,
+  "timestamp": "2026-04-12T14:47:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Greece",
+      "path": "europe/greece",
+      "prior_score": 2.4602,
+      "prior_variance": 2.354521,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ari Atoll",
+      "path": "asia/maldives/ari_atoll",
+      "prior_score": 14.9629,
+      "prior_variance": 2.786058,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Shinjuku",
+      "path": "asia/japan/tokyo/shinjuku",
+      "prior_score": 10.9592,
+      "prior_variance": 9.311067,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 9.3711,
+      "prior_variance": 1.980949,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_score": 5.221,
+      "prior_variance": 1.478868,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 7.3163,
+      "prior_variance": 4.620407,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 5.0603,
+      "prior_variance": 2.185245,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": -1.0122,
+      "prior_variance": 1.319026,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": 0.8164,
+      "prior_variance": 1.567009,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_score": -1.273,
+      "prior_variance": 1.404702,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": -0.0065,
+      "prior_variance": 1.554321,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/scarborough",
+      "prior_score": 1.722,
+      "prior_variance": 1.297814,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": 0.0137,
+      "prior_variance": 1.229731,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -6.3396,
+      "prior_variance": 1.584362,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": 4.2033,
+      "prior_variance": 1.383937,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": 0.4531,
+      "prior_variance": 1.418074,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_score": -9.1484,
+      "prior_variance": 1.35595,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -3.7578,
+      "prior_variance": 1.282665,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Dnipro",
+      "path": "europe/ukraine/dnepropetrovsk",
+      "prior_score": -4.0739,
+      "prior_variance": 1.520605,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -3.3015,
+      "prior_variance": 1.369298,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_score": -4.3296,
+      "prior_variance": 1.215274,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_score": -3.6645,
+      "prior_variance": 1.476948,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Beautyful village",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/beautyful_village",
+      "prior_score": -11.8458,
+      "prior_variance": 8.128349,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mirpurkhas",
+      "path": "asia/pakistan/mirpurkhas",
+      "prior_score": -11.2627,
+      "prior_variance": 1.316162,
+      "prior_n": 1
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 15.7833
 longitude: -87.4667
 title: Tela
 type: location
+score: 0.43
 ---
 
 Tela is a laid-back Caribbean town on Honduras's north coast, quieter and less developed than nearby La Ceiba or the Bay Islands. The town itself is modest — a grid of streets around a small central park — but the real draws are just outside: long, empty beaches stretching east and west, and two of Central America's finest botanical gardens.

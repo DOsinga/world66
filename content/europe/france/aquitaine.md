@@ -1,20 +1,13 @@
 ---
-title: "Bordeaux and the Atlantic Coast"
+done:
+  location_cleanup: '2026-04-15'
+score: 0.7
+title: Bordeaux and the Atlantic Coast
 type: location
 ---
 
-[Bordeaux](/europe/france/aquitaine/bordeaux) is famous for its wines, Gascogne for its [Cognac](/europe/france/aquitaine/cognac). But also for those not primarily interested in alcoholic beverages this region has a lot to offer, Beautiful mountains in the [Pyrenees](/europe/france/midi/pyrenees), great beach resorts such as [Biarritz](/europe/france/midi/basqueregion/biarritz) and many medieval towns and castles. The [Dordogne](/europe/france/midi/dordogne) valley isn't far away either.
+[Bordeaux](/europe/france/aquitaine/bordeaux) is the undisputed capital of this region, a grand 18th-century port city built on wine money and recently transformed by an ambitious urban renewal that cleaned its limestone facades and added a stunning riverside promenade. The surrounding vineyards -- Saint-Emilion, Medoc, Graves, Pauillac -- produce some of the most celebrated wines in the world, and visiting the chateaux is easy as a day trip or a week-long obsession. Further north, [Cognac](/europe/france/aquitaine/cognac) does the same for brandy, with centuries-old distilleries open for tours along the Charente river.
 
-North of Bordeaux [Poitiers](/europe/france/aquitaine/poitiers) is an excellent base fo exploring the Charente and the Poitou. [La Rochelle](/europe/france/aquitaine/larochelle) is one of the most attractive seaside towns in France with many 17-th century mansions. La Rochelle made its fortune in the trade with the new world. The [Ile dOleron](/europe/france/aquitaine/iledoleron) is the second largest French island and has a lot of sandy beaches.
+The Atlantic coast here is nothing like the Mediterranean. Long, straight beaches backed by pine forests stretch for hundreds of kilometres, with powerful surf rolling in from the open ocean. [Biarritz](/europe/france/midi/basqueregion/biarritz) pioneered European surfing in the 1950s and remains the continent's surf capital, while [Arcachon](/europe/france/aquitaine/arcachon) sits beside the enormous Dune of Pilat, the tallest sand dune in Europe. [La Rochelle](/europe/france/aquitaine/larochelle) is one of France's most attractive port towns, its 17th-century arcaded streets built on fortunes from the New World trade, and the nearby [Ile d'Oleron](/europe/france/aquitaine/iledoleron) offers quieter sandy beaches and oyster farms.
 
-The [Basque region](/europe/france/midi/basqueregion) in the south is the country of the Euskari people as the call themselves. They have lived in this region since the dawn of times and their language is apparantly unrelated to any other language in the world. Their battle for independance has been going on for centuries, but on the French side of the norder things are safe.
-
-## Destinations in Bordeaux and the Atlantic Coast
-
-[Bordeaux](/europe/france/aquitaine/bordeaux)
-[La Rochelle](/europe/france/aquitaine/larochelle)
-[Ile dOleron](/europe/france/aquitaine/iledoleron)
-[Cognac](/europe/france/aquitaine/cognac)
-[Les eyzies](/europe/france/aquitaine/leseyzies)
-[Poitiers](/europe/france/aquitaine/poitiers)
-[Arcachon](/europe/france/aquitaine/arcachon)
+Inland, the landscape turns to rolling green valleys and deep limestone gorges. The Dordogne is famous for its prehistoric painted caves -- [Les Eyzies](/europe/france/aquitaine/leseyzies) alone has more Paleolithic sites than anywhere else on earth -- and for honey-coloured medieval villages perched above the river. In the south, the [Basque country](/europe/france/midi/basqueregion) brings a different culture entirely: the Basque people speak Euskara, a language unrelated to any other in the world, and their towns have a distinct character with red-and-white timbered houses, pelota courts, and some of the best food in France.

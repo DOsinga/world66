@@ -5,6 +5,7 @@ latitude: 44.244679
 longitude: 28.623062
 title: Mamaia
 type: location
+score: 0.47
 ---
 
 Mamaia is Romania's premier Black Sea resort, a narrow strip of land running 7 km between a magnificent sandy beach and Lake Siutghiol, just north of [Constanta](/europe/romania/constanta). The sand is fine and the beach is wide — one of the best on the Romanian coast.

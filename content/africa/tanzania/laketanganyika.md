@@ -5,6 +5,7 @@ latitude: -4.883
 longitude: 29.6227
 title: Lake Tanganyika
 type: location
+score: 0.53
 ---
 
 Lake Tanganyika is the longest freshwater lake in the world and the second deepest, stretching nearly 700 kilometres along the western edge of Tanzania. Its waters are shared by four countries — Tanzania, the Democratic Republic of the Congo, Burundi, and Zambia — but the Tanzanian shore is where most travellers end up, usually on their way to or from chimpanzee trekking at Gombe Stream or Mahale Mountains national parks.

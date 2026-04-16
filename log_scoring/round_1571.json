@@ -1,0 +1,200 @@
+{
+  "round": 1571,
+  "timestamp": "2026-04-13T10:32:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 7.5381,
+      "prior_variance": 0.782999,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Rajsamand",
+      "path": "asia/india/rajasthan/rajsamand",
+      "prior_score": -3.6414,
+      "prior_variance": 0.296152,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -1.978,
+      "prior_variance": 0.452147,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_score": -2.3787,
+      "prior_variance": 0.763787,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "wuppertal",
+      "path": "europe/germany/northrhinewestphalia/wuppertal",
+      "prior_score": -2.102,
+      "prior_variance": 0.454655,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_notting/lincoln",
+      "prior_score": 0.0925,
+      "prior_variance": 0.390509,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_score": -4.0275,
+      "prior_variance": 0.45744,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.8759,
+      "prior_variance": 0.34987,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.354,
+      "prior_variance": 0.361448,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_score": -2.4567,
+      "prior_variance": 0.284499,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_score": -2.8128,
+      "prior_variance": 0.408548,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -2.2002,
+      "prior_variance": 0.330383,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_score": -2.3228,
+      "prior_variance": 0.303635,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Vadehavet",
+      "path": "europe/denmark/vadehavet",
+      "prior_score": 0.6598,
+      "prior_variance": 0.395954,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.1625,
+      "prior_variance": 0.404512,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -2.8363,
+      "prior_variance": 0.349663,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -2.9291,
+      "prior_variance": 0.18895,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/norfolk/wolferton",
+      "prior_score": -4.5183,
+      "prior_variance": 0.461006,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -4.8713,
+      "prior_variance": 0.459595,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.5672,
+      "prior_variance": 0.309985,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -2.323,
+      "prior_variance": 0.372665,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -3.0242,
+      "prior_variance": 0.409152,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -2.5265,
+      "prior_variance": 0.407472,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Conway",
+      "path": "northamerica/unitedstates/arkansas/conway",
+      "prior_score": -5.576,
+      "prior_variance": 0.756412,
+      "prior_n": 3
+    }
+  ]
+}

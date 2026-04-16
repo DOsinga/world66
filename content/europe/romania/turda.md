@@ -5,6 +5,7 @@ latitude: 46.568521
 longitude: 23.785364
 title: Turda
 type: location
+score: 0.48
 ---
 
 Turda is a small city in Cluj County, Transylvania, about 30 km south of Cluj-Napoca. For most visitors it's a day trip from Cluj, and one attraction in particular makes it worth the journey: Salina Turda.

@@ -1,4 +1,0 @@
----
-title: "Moravia"
-type: location
----

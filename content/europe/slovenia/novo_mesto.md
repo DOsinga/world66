@@ -5,6 +5,7 @@ latitude: 45.802
 longitude: 15.1712
 done:
   location_cleanup: 2026-04-05
+score: 0.46
 ---
 
 Novo Mesto — "New Town" — is the largest town in the Dolenjska region of south-eastern Slovenia, roughly an hour's drive from Ljubljana on the way to the Croatian border. It sits in a loop of the Krka river, which curls around the medieval old town in a near-perfect horseshoe, and the skyline is dominated by the twin spires of St Nicholas's chapter church on its bluff above the water. The name is misleading: the town was founded by the Habsburg Duke Rudolf IV in 1365, which makes it over six and a half centuries old — new only by Slovenian standards.

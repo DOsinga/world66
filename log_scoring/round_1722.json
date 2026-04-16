@@ -1,0 +1,200 @@
+{
+  "round": 1722,
+  "timestamp": "2026-04-13T10:45:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 6.6289,
+      "prior_variance": 0.34775,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 4.7884,
+      "prior_variance": 0.365876,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_score": 7.3498,
+      "prior_variance": 0.34809,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 2.5835,
+      "prior_variance": 0.435887,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_score": 2.1345,
+      "prior_variance": 0.359941,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": 1.4247,
+      "prior_variance": 0.314035,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Uganda",
+      "path": "africa/uganda",
+      "prior_score": -4.9341,
+      "prior_variance": 0.487622,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 1.8234,
+      "prior_variance": 0.324977,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_score": 1.6678,
+      "prior_variance": 0.293553,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 0.7106,
+      "prior_variance": 0.291468,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 0.4052,
+      "prior_variance": 0.323404,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": -0.2139,
+      "prior_variance": 0.260597,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": -0.1462,
+      "prior_variance": 0.348191,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": 1.1602,
+      "prior_variance": 0.305952,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": -0.1612,
+      "prior_variance": 0.307272,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": 0.2707,
+      "prior_variance": 0.244123,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -1.3151,
+      "prior_variance": 0.120762,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_score": -2.2738,
+      "prior_variance": 0.321836,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -0.8287,
+      "prior_variance": 0.330055,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -1.207,
+      "prior_variance": 0.313823,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "South East",
+      "path": "europe/unitedkingdom/england/south_east",
+      "prior_score": -0.1927,
+      "prior_variance": 0.28475,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": 0.0137,
+      "prior_variance": 0.321242,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -1.0712,
+      "prior_variance": 0.641673,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.1341,
+      "prior_variance": 0.35286,
+      "prior_n": 4
+    }
+  ]
+}

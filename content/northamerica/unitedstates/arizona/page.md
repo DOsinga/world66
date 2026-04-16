@@ -5,6 +5,7 @@ latitude: 36.9147
 longitude: -111.4558
 title: Page
 type: location
+score: 0.59
 ---
 
 Page sits on a sandstone mesa above Glen Canyon Dam, right on the Utah border in northern Arizona. It is the base camp for some of the most dramatic desert scenery in the American Southwest: Antelope Canyon, Horseshoe Bend, Lake Powell, and the Vermilion Cliffs are all within easy reach.

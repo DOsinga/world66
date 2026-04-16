@@ -5,6 +5,7 @@ latitude: 43.361853
 longitude: -73.665245
 title: Queensbury
 type: location
+score: 0.35
 ---
 
 **Queensbury** is a town in the foothills of the Adirondacks in upstate New York, just north of Glens Falls and at the southern tip of Lake George. It is the gateway to the Adirondack Park and a common stopping point for travellers heading into the mountains.

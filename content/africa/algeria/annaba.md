@@ -5,6 +5,7 @@ latitude: 36.898216
 longitude: 7.754927
 title: Annaba
 type: location
+score: 0.41
 ---
 
 Annaba is Algeria's fourth-largest city, situated in the extreme northeast near the Tunisian border. It can be reached as a day trip from [Tunisia](/africa/tunisia), and the proximity gives the city something of a border-town energy — active, commercial, and cosmopolitan by Algerian standards.

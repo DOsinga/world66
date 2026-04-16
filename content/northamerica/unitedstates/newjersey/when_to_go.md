@@ -1,26 +1,10 @@
 ---
-title: "When to Go in New Jersey"
+title: "When to Go"
 type: section
 ---
 
-Normal
-0
+**Summer** (Memorial Day to Labour Day) is high season at the Jersey Shore — beaches packed, boardwalks lit, hotels at peak prices. Inland it's often hot and humid, with thunderstorms common in the afternoons.
 
-false
-false
-false
+**September and October** are arguably the best months to visit: warm enough to swim through mid-September, the shore towns quieter and cheaper, and the inland forests and Pine Barrens turning colour through October. The Delaware Water Gap and the northwest hills are at their best.
 
-EN-US
-X-NONE
-X-NONE
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
-
-**Title:** New Providence, New Jersey Hotel - Best Western Murray Hill Inn **Website:** http://www.hotelmurrayhill.com/ **Description:** Nestled in the New Jersey town of New Providence, the Best Western Murray Hill Inn welcomes business travelers and family vacationers with spacious guestrooms and suites, a wealth of amenities, value hotel packages, and easy access to Newark Liberty Airport, New York City, and such popular local attractions as Watchung Reservation and the Edison National Historic Site. **Keywords:** hotels in watchung NJ new jersey Murray hill hotels suites inn New Providence New Jersey bed and breakfasts gateway hotel travel.** **
-
-**Locations:** 535 Central Avenue New Providence, NJ
-07974
+**Winter** is cold and grey, with occasional heavy snow. The shore largely shuts down. **Spring** (April–May) is mild and pleasant, with apple and cherry blossom in the Garden State sense.

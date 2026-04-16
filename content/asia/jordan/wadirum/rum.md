@@ -5,6 +5,7 @@ latitude: 29.5748
 longitude: 35.4218
 title: Rum
 type: location
+score: 0.56
 ---
 
 Rum is the small Bedouin village at the end of the road into [Wadi Rum](/asia/jordan/wadirum), 35 kilometres from the highway. This is where every desert adventure begins — you meet your guide here, pile into a jeep or climb onto a camel, and head out into one of the most extraordinary landscapes on earth.

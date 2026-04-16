@@ -5,6 +5,7 @@ latitude: 35.5799
 longitude: 35.9773
 title: Latakia
 type: location
+score: 0.27
 ---
 
 Latakia is Syria's main port and its most relaxed city, strung along the Mediterranean coast with a character noticeably softer than Damascus or Aleppo. It has a sizable Christian minority, and the mixed demographic has always given the city a more open feel — outdoor cafes stay busy into the night, and the waterfront corniche draws an easy mix of families, fishermen, and walkers.

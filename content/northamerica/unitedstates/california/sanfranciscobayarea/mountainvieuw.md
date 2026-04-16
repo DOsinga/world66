@@ -5,6 +5,7 @@ latitude: 37.389389
 longitude: -122.08321
 title: Mountain View
 type: location
+score: 0.38
 ---
 
 Mountain View is a mid-sized Silicon Valley city directly south of San Francisco, home to Google's main campus (Googleplex) and a long history of technology companies including NASA Ames Research Center at Moffett Field. Despite its corporate fame, the centre is unexpectedly human-scale: Castro Street downtown is a lively strip of cafes, restaurants (heavy on Asian options), and bookshops.

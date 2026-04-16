@@ -1,0 +1,200 @@
+{
+  "round": 1071,
+  "timestamp": "2026-04-12T22:07:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kiribati",
+      "path": "australiaandpacific/kiribati",
+      "prior_rank": 5594,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_rank": 6608,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Pyatigorsk",
+      "path": "europe/russia/pyatigorsk",
+      "prior_rank": 4280,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sulaymaniyah",
+      "path": "asia/iraq/sulaymaniyah",
+      "prior_rank": 7345,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_rank": 6613,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Olongapo City",
+      "path": "asia/philippines/olongapocity",
+      "prior_rank": 6583,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_rank": 6633,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang_1",
+      "prior_rank": 8110,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tripura",
+      "path": "asia/india/tripura",
+      "prior_rank": 4712,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_rank": 6025,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/mountainvieuw",
+      "prior_rank": 5425,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanmateo",
+      "prior_rank": 7513,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_rank": 5749,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/houston/brazosportarea",
+      "prior_rank": 6646,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_rank": 5637,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_rank": 7340,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "McDowell County",
+      "path": "northamerica/unitedstates/northcarolina/mcdowell_county",
+      "prior_rank": 6220,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_rank": 6349,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_rank": 7012,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tetovo",
+      "path": "europe/macedonia/tetovo",
+      "prior_rank": 6387,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene/tepelena",
+      "prior_rank": 7556,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_rank": 7689,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/hartlepool",
+      "prior_rank": 6616,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_rank": 5951,
+      "prior_wins": 14,
+      "prior_n": 2
+    }
+  ]
+}

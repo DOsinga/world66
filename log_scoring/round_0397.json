@@ -1,0 +1,200 @@
+{
+  "round": 397,
+  "timestamp": "2026-04-12T09:29:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Einsiedeln",
+      "path": "europe/switzerland/einsiedeln",
+      "prior_mu": 22.6441,
+      "prior_sigma": 5.939,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_mu": 23.0629,
+      "prior_sigma": 5.9787,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_mu": 23.0331,
+      "prior_sigma": 5.7218,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_mu": 22.6911,
+      "prior_sigma": 5.9459,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Switzerland",
+      "path": "europe/switzerland",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Zurzach",
+      "path": "europe/switzerland/zurzach",
+      "prior_mu": 21.9979,
+      "prior_sigma": 5.6869,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tann",
+      "path": "europe/switzerland/tann",
+      "prior_mu": 22.5197,
+      "prior_sigma": 5.9126,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Epalinges",
+      "path": "europe/switzerland/epalinges",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Zuchwil",
+      "path": "europe/switzerland/zuchwil",
+      "prior_mu": 17.3368,
+      "prior_sigma": 2.5124,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Schwaendi",
+      "path": "europe/switzerland/schwaendi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

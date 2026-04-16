@@ -1,4 +1,0 @@
----
-title: "Clifton"
-type: location
----

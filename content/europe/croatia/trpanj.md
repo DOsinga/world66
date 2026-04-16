@@ -5,6 +5,7 @@ latitude: 43.008044
 longitude: 17.273354
 title: Trpanj
 type: location
+score: 0.56
 ---
 
 Trpanj is a quiet little harbour town on the north-western tip of the [Pelješac peninsula](/europe/croatia/peljesac), facing the mainland across a narrow channel. It has managed to stay out of the mass-tourism circuit — there is one proper hotel, a handful of konobas, and a waterfront that fills up with fishing boats and small ferries rather than cruise-ship crowds.

@@ -1,0 +1,200 @@
+{
+  "round": 884,
+  "timestamp": "2026-04-12T14:47:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 11.3954,
+      "prior_variance": 3.886796,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 5.1556,
+      "prior_variance": 1.405251,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_score": 8.1004,
+      "prior_variance": 1.319367,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 4.367,
+      "prior_variance": 1.414728,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_score": 3.2867,
+      "prior_variance": 1.983274,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 4.6412,
+      "prior_variance": 1.643392,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/celleligure",
+      "prior_score": 6.188,
+      "prior_variance": 1.40654,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_score": 3.5259,
+      "prior_variance": 1.315322,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Albania",
+      "path": "europe/albania",
+      "prior_score": 3.2133,
+      "prior_variance": 0.820755,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": 1.162,
+      "prior_variance": 2.297397,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": -0.3151,
+      "prior_variance": 1.733611,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bourges",
+      "path": "europe/france/centre/bourges",
+      "prior_score": 4.4309,
+      "prior_variance": 1.316859,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": 3.1114,
+      "prior_variance": 1.487814,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_score": -0.8134,
+      "prior_variance": 1.208625,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/north_island/eastland",
+      "prior_score": -0.0969,
+      "prior_variance": 1.210125,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": 0.5944,
+      "prior_variance": 1.269651,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_score": 0.9696,
+      "prior_variance": 1.701751,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": 0.3578,
+      "prior_variance": 1.468534,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_score": -1.8326,
+      "prior_variance": 1.271443,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_score": -0.2479,
+      "prior_variance": 1.380591,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_score": -3.9224,
+      "prior_variance": 1.336969,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -7.5779,
+      "prior_variance": 1.172751,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -3.4409,
+      "prior_variance": 1.29933,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -12.4134,
+      "prior_variance": 8.138349,
+      "prior_n": 1
+    }
+  ]
+}

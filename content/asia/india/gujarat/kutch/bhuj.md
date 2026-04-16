@@ -5,6 +5,7 @@ latitude: 23.247245
 longitude: 69.668339
 title: Bhuj
 type: location
+score: 0.48
 ---
 
 Bhuj is the largest city in [Kutch](/asia/india/gujarat/kutch) and the ideal base for exploring the region. It is a very old city with a fascinating old walled quarter, several palaces, and the excellent **Aina Mahal** (Hall of Mirrors), a palace with Venetian glass interiors built by a Kutchi craftsman who spent years studying in Europe.

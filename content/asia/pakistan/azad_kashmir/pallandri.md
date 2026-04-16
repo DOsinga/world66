@@ -5,6 +5,7 @@ latitude: 33.7181
 longitude: 73.6883
 title: Pallandri
 type: location
+score: 0.27
 ---
 
 Pallandri is the administrative capital of Sudhnoti District in Azad Kashmir, sitting at around 1,500 metres in a valley of pine and cedar forests. It's a small, quiet hill town that sees few foreign visitors but offers the kind of forested mountain scenery that draws Pakistanis from the lowland cities in summer, when the temperature stays mild while the plains swelter.

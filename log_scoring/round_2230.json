@@ -1,0 +1,200 @@
+{
+  "round": 2230,
+  "timestamp": "2026-04-13T16:22:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 7.8199,
+      "prior_variance": 0.423229,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_score": 7.5729,
+      "prior_variance": 0.291331,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Zakinthos",
+      "path": "europe/greece/zakinthos",
+      "prior_score": 7.544,
+      "prior_variance": 0.320094,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 7.7927,
+      "prior_variance": 0.301348,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 4.2691,
+      "prior_variance": 0.24713,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": 9.9333,
+      "prior_variance": 0.574042,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 5.1917,
+      "prior_variance": 0.247328,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_score": 2.461,
+      "prior_variance": 0.230328,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Tenby",
+      "path": "europe/unitedkingdom/wales/tenby",
+      "prior_score": 3.4117,
+      "prior_variance": 0.242316,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Camuy caves",
+      "path": "northamerica/puertorico/camuycaves",
+      "prior_score": 2.6304,
+      "prior_variance": 0.305751,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Museum District",
+      "path": "northamerica/unitedstates/texas/houston/museumdistrict",
+      "prior_score": -0.2795,
+      "prior_variance": 0.247114,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 0.6336,
+      "prior_variance": 0.239855,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cheltenham",
+      "prior_score": 1.4112,
+      "prior_variance": 0.221636,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 0.7288,
+      "prior_variance": 0.225697,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Franche-Comt\u00e9",
+      "path": "europe/france/east/franchecomte",
+      "prior_score": 1.928,
+      "prior_variance": 0.227111,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_score": 1.3574,
+      "prior_variance": 0.249504,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_score": 1.7051,
+      "prior_variance": 0.34721,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": 0.6916,
+      "prior_variance": 0.265813,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Broken Hill",
+      "path": "australiaandpacific/australia/newsouthwales/brokenhill",
+      "prior_score": -0.1541,
+      "prior_variance": 0.236417,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/barnstaple",
+      "prior_score": -0.1766,
+      "prior_variance": 0.231847,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "National parks",
+      "path": "africa/benin/nationalparks",
+      "prior_score": -2.7897,
+      "prior_variance": 0.273969,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_2",
+      "prior_score": -1.2985,
+      "prior_variance": 0.299065,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/yucatan/reynosa",
+      "prior_score": -5.7932,
+      "prior_variance": 0.243107,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_score": -5.4818,
+      "prior_variance": 0.173762,
+      "prior_n": 8
+    }
+  ]
+}

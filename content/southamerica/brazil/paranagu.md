@@ -5,6 +5,7 @@ latitude: -25.514882
 longitude: -48.522669
 title: Paranaguá
 type: location
+score: 0.4
 ---
 
 For many people Paranaguá is just a port city, the end of the line from the bus and train from [Curitiba](/southamerica/brazil/curitiba). But it is a scenic, laid-back place well worth more than a quick transfer. The train ride down from Curitiba through the Serra do Mar is one of the most spectacular rail journeys in Brazil — reason enough to make the trip.

@@ -5,6 +5,7 @@ latitude: 53.5574
 longitude: 13.2603
 title: Neubrandenburg
 type: location
+score: 0.4
 ---
 
 Neubrandenburg is a small city in the lake district of Mecklenburg-Western Pomerania, best known for its remarkably complete medieval city wall. The brick wall, dating from the thirteenth century, still encircles the old town almost entirely, punctuated by four elaborately decorated Gothic gates — the Treptower Tor, Stargarder Tor, Friedländer Tor, and Neues Tor — that are among the finest of their kind in northern Germany.

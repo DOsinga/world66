@@ -5,6 +5,7 @@ latitude: 26.235
 longitude: 127.3019
 title: Zamami Island
 type: location
+score: 0.65
 ---
 
 Zamami is a small island in the Kerama group, about 40 kilometres west of Naha in [Okinawa](/asia/japan/ryukyuislands). It is the kind of place where the water is so clear you can see the coral from the ferry before you even dock.

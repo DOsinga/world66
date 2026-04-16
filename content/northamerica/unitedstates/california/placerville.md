@@ -5,6 +5,7 @@ latitude: 38.729625
 longitude: -120.798546
 title: Placerville
 type: location
+score: 0.47
 ---
 
 Placerville sits halfway between Sacramento and South Lake Tahoe on Highway 50, and it's a better stop than you might expect. Main Street mixes hip coffee shops, old-fashioned burger joints, and enough historical grit to keep things interesting.

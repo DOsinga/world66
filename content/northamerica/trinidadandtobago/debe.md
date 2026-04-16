@@ -1,4 +1,0 @@
----
-title: "Debe"
-type: location
----

@@ -5,6 +5,7 @@ latitude: 44.137529
 longitude: 8.103148
 title: Erli
 type: location
+score: 0.41
 ---
 
 Erli is a small, scattered municipality in the Neva valley in the Ligurian Alps, lying along what was once the ancient Salt Road connecting the coast to Piedmont. Its history is long: a possession of the marchesi di Clavesana from the twelfth century, it passed to the House of Savoy in 1623, then to the Republic of Genoa, and was sacked by Napoleon's troops in 1796.

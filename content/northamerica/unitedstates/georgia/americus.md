@@ -5,6 +5,7 @@ latitude: 32.072386
 longitude: -84.232688
 title: Americus
 type: location
+score: 0.34
 ---
 
 Americus is a small city in southwest Georgia, about 130 miles south of Atlanta. It sits in the heart of Georgia's peanut country, surrounded by flat farmland — not a typical tourist stop, but it earns its place on the map for a few very specific reasons.

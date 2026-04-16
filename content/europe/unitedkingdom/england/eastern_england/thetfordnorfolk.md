@@ -1,16 +1,15 @@
 ---
-title: "Thetford"
-type: location
-latitude: 52.4156
-longitude: 0.748712
 done:
-  location_cleanup: 2026-04-10
+  location_cleanup: '2026-04-10'
+latitude: 52.4156
+longitude: 0.7487
+title: Thetford
+type: location
+score: 0.38
 ---
 
-Thetford is a market town in Norfolk on the edge of the Brecks — a distinctive landscape of heathland, pine forest, and sandy soils that covers a large area straddling Norfolk and Suffolk. It's a quieter corner of eastern England, and the landscape has a spare, slightly melancholy quality that sets it apart from the rest of the region.
+Thetford is a quiet market town in the Brecklands of Norfolk, surrounded by one of the largest lowland pine forests in Britain. The landscape is flat — famously flat — but the forest gives it character, and the town itself has more history than its modest size suggests. It was once the seat of the kings of East Anglia and the site of a Norman castle, though all that remains of the latter is the mound.
 
-The town has a decent concentration of history. **Thetford Castle** is a large Norman earthwork motte — all that remains of a once-significant castle — and the earthwork is substantial enough to be worth the short walk up. The ruins of **Thetford Priory**, a Cluniac monastery dissolved under Henry VIII, stand on the edge of town.
+Thetford Forest, managed by Forestry England, is the main draw for visitors. There are walking and cycling trails through the pines, and the forest is home to red squirrels, deer, and a surprising variety of birds. The town is also the birthplace of Thomas Paine, author of *The Rights of Man*, and there is a gilded statue of him on King Street.
 
-Thomas Paine, the radical pamphleteer who wrote *Common Sense* and helped animate both the American and French Revolutions, was born in Thetford in 1737. A gilded statue of Paine stands on King Street.
-
-The **Thetford Forest**, managed by Forestry England, is one of the largest lowland forests in Britain and popular for cycling, walking, and Go Ape activities. The Centre Parcs resort at Elveden is nearby.
+The Dad's Army Museum is here too — the TV series was filmed in and around Thetford. Beyond that, it is a pleasant enough place to stop for a pub lunch if you are driving through Norfolk.

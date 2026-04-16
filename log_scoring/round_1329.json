@@ -1,0 +1,200 @@
+{
+  "round": 1329,
+  "timestamp": "2026-04-12T22:21:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Akihabara",
+      "path": "asia/japan/tokyo/akihabara",
+      "prior_rank": 6793,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sweden",
+      "path": "europe/sweden",
+      "prior_rank": 1544,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Rwanda",
+      "path": "africa/rwanda",
+      "prior_rank": 1932,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_rank": 2378,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Falkland Islands",
+      "path": "southamerica/falklandislands",
+      "prior_rank": 3786,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Uzbekistan",
+      "path": "asia/uzbekistan",
+      "prior_rank": 1327,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_rank": 2062,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kharipati, Nagarkot Phedi",
+      "path": "asia/nepal/dhulikel/kharipati_nagarko",
+      "prior_rank": 1945,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_rank": 4718,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_rank": 2541,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_rank": 2673,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_rank": 3609,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_rank": 1763,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_rank": 3640,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_rank": 2859,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_rank": 531,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_rank": 5323,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_rank": 2428,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_rank": 4991,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/yucatan/sanjosedelcabo",
+      "prior_rank": 3457,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_rank": 2960,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_rank": 2282,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/chiswick",
+      "prior_rank": 3646,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_rank": 2622,
+      "prior_wins": 43,
+      "prior_n": 3
+    }
+  ]
+}

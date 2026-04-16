@@ -5,6 +5,7 @@ latitude: 38.577359
 longitude: -92.172427
 title: Jefferson City
 type: location
+score: 0.39
 ---
 
 We currently have no information about Jefferson City.

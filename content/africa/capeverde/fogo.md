@@ -5,6 +5,7 @@ latitude: 14.9322
 longitude: -24.3936
 title: Fogo
 type: location
+score: 0.54
 ---
 
 Fogo is dominated by its volcano — Pico do Fogo, rising to 2,829 metres, is the highest peak in Cape Verde and one of the most active volcanoes in the Atlantic. The island's landscape is dramatic and austere: dark lava fields, steep caldera walls, and a crater plain dotted with the village of Chã das Caldeiras, which was buried and rebuilt after the 1995 eruption and damaged again in 2014.

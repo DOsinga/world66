@@ -5,6 +5,7 @@ latitude: 16.3808
 longitude: 73.3565
 title: Deogad
 type: location
+score: 0.37
 ---
 
 Deogad (also written Devgad) is a small coastal town on the Sindhudurga district's northern shore, about 500 km south of Mumbai along the Mumbai–Goa highway. It sits on a narrow peninsula backed by a well-sheltered natural harbour — one of the few ports on this coast that stays navigable during the monsoon. Fishing is the main livelihood here, and the catch comes in daily.

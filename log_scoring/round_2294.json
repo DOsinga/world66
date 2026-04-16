@@ -1,0 +1,200 @@
+{
+  "round": 2294,
+  "timestamp": "2026-04-13T16:28:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 6.6509,
+      "prior_variance": 0.286632,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_score": 5.014,
+      "prior_variance": 0.313667,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 4.6797,
+      "prior_variance": 0.230865,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/northland/bayofislands",
+      "prior_score": 6.6629,
+      "prior_variance": 0.342528,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_score": 5.5794,
+      "prior_variance": 0.272507,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_score": 5.9241,
+      "prior_variance": 0.258056,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_score": 2.5725,
+      "prior_variance": 0.219964,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 3.3728,
+      "prior_variance": 0.194098,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 1.2298,
+      "prior_variance": 0.252056,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_score": 1.899,
+      "prior_variance": 0.228053,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Le\u00f3n",
+      "path": "northamerica/nicaragua/len",
+      "prior_score": 1.3006,
+      "prior_variance": 0.219795,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 0.5452,
+      "prior_variance": 0.213831,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Whanganui Region",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region",
+      "prior_score": 1.0226,
+      "prior_variance": 0.211871,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
+      "prior_score": 1.757,
+      "prior_variance": 0.229076,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_score": 0.8628,
+      "prior_variance": 0.25247,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Darmstadt",
+      "path": "europe/germany/hesse/darmstadt",
+      "prior_score": -0.938,
+      "prior_variance": 0.257085,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -1.525,
+      "prior_variance": 0.225578,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": 0.2401,
+      "prior_variance": 0.204802,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -0.8306,
+      "prior_variance": 0.22122,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "North Bend",
+      "path": "northamerica/unitedstates/oregon/north_bend",
+      "prior_score": -2.0365,
+      "prior_variance": 0.209609,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -1.8308,
+      "prior_variance": 0.349034,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -4.244,
+      "prior_variance": 0.236974,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Yantra",
+      "path": "europe/bulgaria/gornaoryahovica/yantra",
+      "prior_score": -3.8435,
+      "prior_variance": 0.257222,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_score": -6.2924,
+      "prior_variance": 0.311305,
+      "prior_n": 5
+    }
+  ]
+}

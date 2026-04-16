@@ -5,6 +5,7 @@ latitude: 44.404721
 longitude: 8.501565
 title: Stella
 type: location
+score: 0.44
 ---
 
 Stella is a small comune in the Ligurian Apennines, made up of several distinct hamlets: San Giovanni, perched on a small mountain pass; Santa Giustina on the southern slope of the Colle del Giovo (516 m); San Martino; and Corona. Set among lush woodland, it is a quiet and restful corner of inland Liguria, a world apart from the busy coastal Riviera below.

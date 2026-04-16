@@ -5,6 +5,7 @@ latitude: 43.447436
 longitude: -79.666672
 title: Oakville
 type: location
+score: 0.39
 ---
 
 Oakville is a prosperous lakeside town on the western shore of Lake Ontario, about 30 km southwest of Toronto. It has a pleasant harbour area and a well-preserved historic downtown, and is large enough (population around 210,000) to have a character distinct from the sprawl of the greater Toronto suburbs nearby.

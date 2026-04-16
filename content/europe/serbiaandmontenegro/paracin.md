@@ -1,4 +1,0 @@
----
-title: "Paracin"
-type: location
----

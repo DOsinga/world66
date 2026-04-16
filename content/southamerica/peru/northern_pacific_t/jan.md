@@ -1,8 +1,11 @@
 ---
-title: "Jaén (province)"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: -5.711312
 longitude: -78.817177
+score: 0.29
+title: Jaén (province)
+type: location
 ---
 
 The province of Jaén is very diverse, from the hustle and bustle of steamy hot capital [Jaén](/southamerica/peru/northern_pacific_t/jan), its refreshing or ice cold rivers, to the isolated cool mountain towns like [Santa Rosa](/southamerica/peru/northern_pacific_t/jan/santa_rosa). Climates differ as much in rainfall as in temperature. Close to the Andean peaks on road to [Chiclayo](/southamerica/peru/chiclayo) it’s pretty dry, while the cloud forests of Huamantanga hardly ever see a day without rain.
@@ -18,4 +21,3 @@ The city of Jaén itself also has a lot to offer. The rich nightlife of Jaén, t
 Just an hour out of the city of Jaén, and another hour by mule, you can find villages as isolated as Dogville. The setting of this kind of places is amazing, although it hurts somewhat to realize that the pasture all used to be virgin forests. Adding to the charm and the Dogville-character are the Rondas. These are village organizations, responsible for security and justice, as the state doesn’t exactly have a positive presence in these forsaken areas.
 
 An interesting place to do some exploring is [Santa Rosa](/southamerica/peru/northern_pacific_t/jan/santa_rosa), a picturesque district capital. Look for someone who rents horses. At just a two hour ride out of town you can find a huge cave system, inhabited by an endangered nocturnal bird and scene of a massacre of leftist activists in the 1960s. Locals maintain Ernesto Che Guevara was present too, but they also maintain Asian Tigers live in these parts.
-

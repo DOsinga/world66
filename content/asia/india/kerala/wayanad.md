@@ -5,6 +5,7 @@ latitude: 11.715129
 longitude: 76.127118
 title: Wayanad
 type: location
+score: 0.6
 ---
 
 Wayanad is a hilly district in the northeastern corner of Kerala, set on an elevated plateau in the Western Ghats. It is quieter and less touristy than [Munnar](/asia/india/kerala/munnar), with rolling hills, thick forests, spice plantations and a strong tribal culture that gives it a character of its own.

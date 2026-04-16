@@ -5,6 +5,11 @@ latitude: 37.749
 longitude: -119.5885
 title: Yosemite
 type: location
+score: 0.8
+image: yosemite.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Half_Dome_from_Glacier_Point,_Yosemite_NP_-_Diliff.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Diliff
 ---
 
 Yosemite National Park embraces a spectacular tract of mountain-and-valley scenery in the Sierra Nevada, set aside as a national park in 1890. The park harbors a grand collection of waterfalls, meadows, and forests that include groves of giant sequoias, the world's largest living things.

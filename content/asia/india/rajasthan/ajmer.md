@@ -5,6 +5,7 @@ latitude: 26.4691
 longitude: 74.639
 title: Ajmer
 type: location
+score: 0.52
 ---
 
 Ajmer is one of India's most important Muslim pilgrimage cities, home to the Dargah Sharif of the Sufi saint Khwaja Moinuddin Chishti. The saint arrived here in the 12th century, and his tomb has drawn devotees ever since — millions of them each year, from across South Asia and beyond. Walking the lane to the Dargah, past vendors selling rose petals and qawwali music rising from the courtyards, you feel a long way from the palace-and-fort circuit that defines most of Rajasthan.

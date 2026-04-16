@@ -5,6 +5,7 @@ latitude: 30.508592
 longitude: -97.678806
 title: Round Rock
 type: location
+score: 0.33
 ---
 
 Round Rock sits just north of [Austin](/northamerica/unitedstates/texas/austin) and has grown from a small limestone-quarry town into one of Texas's fastest-expanding suburbs. Dell Technologies has its headquarters here, and the tech economy has reshaped the city over the past two decades.

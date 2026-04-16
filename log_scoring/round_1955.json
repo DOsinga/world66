@@ -1,0 +1,200 @@
+{
+  "round": 1955,
+  "timestamp": "2026-04-13T15:57:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mal\u00e9 Atoll",
+      "path": "asia/maldives/male_atoll",
+      "prior_score": 10.836,
+      "prior_variance": 0.436371,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 4.4427,
+      "prior_variance": 0.347321,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 2.4173,
+      "prior_variance": 0.264331,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Montana",
+      "path": "northamerica/unitedstates/montana",
+      "prior_score": 3.8437,
+      "prior_variance": 0.322687,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/yucatan/queretaro",
+      "prior_score": -4.7057,
+      "prior_variance": 0.327006,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kosovo",
+      "path": "europe/kosovo",
+      "prior_score": -1.5385,
+      "prior_variance": 0.258964,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Voorburg",
+      "path": "europe/netherlands/voorburg",
+      "prior_score": -3.2376,
+      "prior_variance": 0.252532,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -2.8797,
+      "prior_variance": 0.270368,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_score": -2.8967,
+      "prior_variance": 0.285508,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mizoram",
+      "path": "asia/india/mizoram",
+      "prior_score": -1.9154,
+      "prior_variance": 0.214728,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Mandarmani",
+      "path": "asia/india/westbengal/mandarmani",
+      "prior_score": -2.2626,
+      "prior_variance": 0.2736,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tonstad",
+      "path": "europe/norway/tonstad",
+      "prior_score": -2.7384,
+      "prior_variance": 0.293888,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverp/helmshore",
+      "prior_score": -4.9886,
+      "prior_variance": 0.382627,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pawhuska",
+      "path": "northamerica/unitedstates/oklahoma/pawhuska",
+      "prior_score": -4.6959,
+      "prior_variance": 0.333479,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mandaluyong",
+      "path": "asia/philippines/mandaluyong",
+      "prior_score": -4.4447,
+      "prior_variance": 0.34619,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -4.2094,
+      "prior_variance": 0.261129,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kinshasa",
+      "path": "africa/congokinshasa/kinshasa",
+      "prior_score": -3.7933,
+      "prior_variance": 0.287147,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Waynoka",
+      "path": "northamerica/unitedstates/oklahoma/waynoka",
+      "prior_score": -5.7582,
+      "prior_variance": 0.339151,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -6.8121,
+      "prior_variance": 0.336359,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Espresso Country",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/espressocountry",
+      "prior_score": -8.3193,
+      "prior_variance": 0.536665,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -7.4834,
+      "prior_variance": 0.340272,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nagorno-Karabakh",
+      "path": "europe/armenia/nagornokarabakh",
+      "prior_score": -10.3241,
+      "prior_variance": 0.482658,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Burundi",
+      "path": "africa/burundi",
+      "prior_score": -6.3623,
+      "prior_variance": 0.447981,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -10.5713,
+      "prior_variance": 0.448229,
+      "prior_n": 5
+    }
+  ]
+}

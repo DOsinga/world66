@@ -11,6 +11,7 @@ latitude: 38.861034
 longitude: 71.276093
 title: Tajikistan
 type: location
+score: 0.45
 ---
 
 Tajikistan is the smallest of the Central Asian republics, and the most mountainous. Over 90 percent of the country is covered by mountains, most of it above 3,000 meters. The Pamirs — the so-called Roof of the World — dominate the east, sharing borders with China and Afghanistan. It is wild, spectacular, and unlike anywhere else in the region.

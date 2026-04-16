@@ -1,0 +1,200 @@
+{
+  "round": 1463,
+  "timestamp": "2026-04-12T22:29:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Basque Country (Euskadi)",
+      "path": "europe/spain/basque_country_eus",
+      "prior_rank": 312,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_rank": 1047,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_rank": 3006,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_rank": 412,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Toledo",
+      "path": "europe/spain/centralspain/toledo",
+      "prior_rank": 316,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_rank": 630,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Etretat",
+      "path": "europe/france/normandybrittany/etretat",
+      "prior_rank": 1797,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_rank": 1187,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_rank": 1440,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_rank": 358,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_rank": 361,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Guadeloupe",
+      "path": "northamerica/thecaribbean/guadeloupe",
+      "prior_rank": 634,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/yucatan/cozumel",
+      "prior_rank": 740,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_rank": 1790,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_rank": 1050,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_rank": 443,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_rank": 83,
+      "prior_wins": 168,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Jammu and Kashmir",
+      "path": "asia/india/jammuandkashmir",
+      "prior_rank": 1339,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_rank": 2441,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_rank": 1041,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_rank": 696,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_rank": 741,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Brisbane",
+      "path": "australiaandpacific/australia/queensland/brisbane",
+      "prior_rank": 545,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/losangeles/santamonica",
+      "prior_rank": 1071,
+      "prior_wins": 69,
+      "prior_n": 4
+    }
+  ]
+}

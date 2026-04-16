@@ -5,6 +5,7 @@ latitude: 63.6745
 longitude: 22.7055
 title: Jakobstad
 type: location
+score: 0.44
 ---
 
 Jakobstad (Pietarsaari in Finnish) is a small bilingual town on the Gulf of Bothnia, founded in 1652 by Jacob de la Gardie. Nearly half its inhabitants speak Swedish as their mother tongue, giving it a character distinct from most Finnish towns. The old quarter of Skata, with its surviving wooden houses, is one of the best-preserved wooden town districts in Finland — a remarkable survival, since a devastating fire in 1850 destroyed almost everything else.

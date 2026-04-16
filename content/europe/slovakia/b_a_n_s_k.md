@@ -5,6 +5,7 @@ latitude: 48.458093
 longitude: 18.898841
 title: Banská Stiavnica
 type: location
+score: 0.57
 ---
 
 Banská Štiavnica is one of the most beautiful towns in [Slovakia](/europe/slovakia), a small mining city set in the wooded hills of central Slovakia that has been a UNESCO World Heritage Site since 1993. For centuries this was one of the richest mining towns in the Kingdom of Hungary, producing silver and gold, and that wealth built the Renaissance and Baroque townhouses, churches, and mining works that fill the town today.

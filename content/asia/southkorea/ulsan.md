@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 35.5384
 longitude: 129.3114
+score: 0.39
 title: Ulsan
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 399,
+  "timestamp": "2026-04-12T09:29:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol/legazpi_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_mu": 22.8991,
+      "prior_sigma": 5.9715,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Laguna",
+      "path": "asia/philippines/laguna",
+      "prior_mu": 22.523,
+      "prior_sigma": 5.913,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezonprovince",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.8387,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_mu": 22.5162,
+      "prior_sigma": 5.6532,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "San Pablo City",
+      "path": "asia/philippines/sanpablocity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Los Banos",
+      "path": "asia/philippines/losbanos",
+      "prior_mu": 20.8132,
+      "prior_sigma": 4.7039,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Southern Leyte",
+      "path": "asia/philippines/southern_leyte",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "tacloban city",
+      "path": "asia/philippines/taclobancity/tacloban_city",
+      "prior_mu": 22.9903,
+      "prior_sigma": 5.6926,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_mu": 22.6306,
+      "prior_sigma": 5.9373,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Pasay City",
+      "path": "asia/philippines/pasay_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_mu": 22.8319,
+      "prior_sigma": 5.4309,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Cotabato",
+      "path": "asia/philippines/cotabato",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_mu": 21.6709,
+      "prior_sigma": 4.7467,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_mu": 20.6033,
+      "prior_sigma": 3.0289,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "San Gabriel",
+      "path": "asia/philippines/sangabriel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Victorias City",
+      "path": "asia/philippines/negrosisland/victorias_city",
+      "prior_mu": 22.7217,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Philippines",
+      "path": "asia/philippines",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 22.0099
 longitude: 100.8036
 title: Xishuangbanna
 type: location
+score: 0.58
 ---
 
 Xishuangbanna is one of the most compelling corners of China — a subtropical region in the far south of Yunnan that feels less like China and more like Southeast Asia. The Dai people, who share culture and language with the Tai peoples of Thailand and Laos, have called this region home for centuries. They are joined by more than a dozen other ethnic minorities, making Xishuangbanna one of the most ethnically diverse parts of the country.

@@ -5,6 +5,7 @@ latitude: 42.9956
 longitude: -71.4548
 title: Manchester
 type: location
+score: 0.38
 ---
 
 Manchester is the largest city in New Hampshire and the largest city in New England north of Boston — a fact that surprises people who picture the region as nothing but small college towns and ski resorts. It sits on the Merrimack River, and the river is the reason it exists.

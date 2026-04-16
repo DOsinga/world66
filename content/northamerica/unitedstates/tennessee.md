@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 35.5175
 longitude: -86.5804
+score: 0.45
 title: Tennessee
 type: location
 ---

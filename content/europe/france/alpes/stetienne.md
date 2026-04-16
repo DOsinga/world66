@@ -5,6 +5,7 @@ latitude: 45.4397
 longitude: 4.3872
 title: Saint-Étienne
 type: location
+score: 0.44
 ---
 
 Saint-Étienne is a former industrial city in the Loire valley, about 60 km southwest of [Lyon](/europe/france/alpes/lyon). It built its wealth on coal, steel, and arms manufacturing — the city once produced weapons for Napoleon's armies — and the traces of that past are everywhere, from the grid of workers' terraces to the great factory sheds now repurposed as cultural spaces.

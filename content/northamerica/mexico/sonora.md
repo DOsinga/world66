@@ -5,6 +5,7 @@ latitude: 29.333333
 longitude: -110.666667
 title: Sonora
 type: location
+score: 0.42
 ---
 
 Sonora is [Mexico's](/northamerica/mexico) northwestern frontier state, bordering Arizona to the north and the Sea of Cortez to the west. It is a land of contrasts — the arid Sonoran Desert in the centre, the rugged western slopes of the Sierra Madre Occidental to the east, and long stretches of unpolluted beaches along the coast.

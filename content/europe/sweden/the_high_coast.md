@@ -8,6 +8,7 @@ description: A UNESCO World Heritage Site on Sweden's Bothnian coast, where dram
   and forested islands.
 done:
   location_cleanup: 2026-04-06
+score: 0.57
 ---
 
 The High Coast (Höga Kusten) is a UNESCO World Heritage Site along the eastern side of central Sweden, on the Bothnian Sea. What makes this stretch of coastline extraordinary is the isostatic land uplift — during the last ice age, the land was pressed down under the immense weight of glacial ice. When the ice melted, the land began rising again, a process that continues today, though at a decreasing rate. The maximum extent of the uplift is found here: land up to 285 metres above the present sea level was once under water.

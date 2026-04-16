@@ -1,10 +1,11 @@
 ---
-title: "Sitia"
+title: Sitia
 type: location
 latitude: 35.206218
 longitude: 26.101482
 done:
-  location_cleanup: "2026-04-10"
+  location_cleanup: '2026-04-10'
+score: 0.61
 ---
 
 Sitia is a small port town on the far eastern end of Crete, less visited than the island's western resorts and all the more pleasant for it. The waterfront promenade is lined with tavernas and kafeneions where locals actually outnumber tourists for much of the year. The town has a relaxed, unfussy character — good seafood, ordinary prices, and no particular agenda beyond being a agreeable place to stop.

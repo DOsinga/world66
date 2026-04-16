@@ -5,6 +5,7 @@ latitude: 14.3
 longitude: -3.45
 done:
   location_cleanup: 2026-04-07
+score: 0.52
 ---
 
 Dogon Country is one of the highlights of West Africa. The Bandiagara Escarpment, a 200-kilometre sandstone cliff running through the heart of this region, shelters a string of villages built into the rock face by the Dogon people over centuries. Their culture, with its elaborate mask dances, animist ceremonies, and distinctive mud-brick architecture, has survived here largely because the terrain kept the outside world at bay.

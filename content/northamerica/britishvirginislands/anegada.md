@@ -5,6 +5,7 @@ latitude: 18.7275
 longitude: -64.3472
 title: Anegada
 type: location
+score: 0.57
 ---
 
 Anegada is the odd one out in the [British Virgin Islands](/northamerica/britishvirginislands). While the rest of the chain is volcanic and hilly, Anegada is flat coral and limestone, rising barely eight metres above sea level. It is surrounded by Horseshoe Reef, one of the largest barrier reefs in the Caribbean, which has claimed hundreds of ships over the centuries and now provides some of the finest snorkelling and diving in the territory.

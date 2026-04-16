@@ -1,0 +1,200 @@
+{
+  "round": 1645,
+  "timestamp": "2026-04-13T10:38:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 3.8434,
+      "prior_variance": 0.393628,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 4.1894,
+      "prior_variance": 0.295541,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_score": 1.6398,
+      "prior_variance": 0.343316,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Windward",
+      "path": "northamerica/grenada/carriacou/windward",
+      "prior_score": 1.4311,
+      "prior_variance": 0.324606,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -1.935,
+      "prior_variance": 0.244156,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_score": -2.6536,
+      "prior_variance": 0.297602,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kizhi",
+      "path": "europe/russia/kizhi",
+      "prior_score": 1.9578,
+      "prior_variance": 0.899024,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 0.9256,
+      "prior_variance": 0.442452,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tay Ninh",
+      "path": "asia/vietnam/tayninh",
+      "prior_score": 0.6524,
+      "prior_variance": 0.402686,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -1.2043,
+      "prior_variance": 0.319716,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -1.2327,
+      "prior_variance": 0.28683,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Felton",
+      "path": "northamerica/unitedstates/california/centralcoast/felton",
+      "prior_score": -2.9858,
+      "prior_variance": 0.373965,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Beautiful Historic Indian Head Saskatchewan",
+      "path": "northamerica/canada/saskatchewan/beautiful_historic_2",
+      "prior_score": -5.2577,
+      "prior_variance": 0.442669,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -5.8253,
+      "prior_variance": 0.35506,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_score": -6.0654,
+      "prior_variance": 0.38903,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kissama",
+      "path": "africa/angola/kissama",
+      "prior_score": -6.9027,
+      "prior_variance": 0.342077,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/yucatan/ojinaga",
+      "prior_score": -5.7591,
+      "prior_variance": 0.345959,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bihar",
+      "path": "asia/india/bihar",
+      "prior_score": -5.5604,
+      "prior_variance": 0.391734,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -5.8669,
+      "prior_variance": 0.400607,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_score": -8.006,
+      "prior_variance": 0.345363,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -6.7377,
+      "prior_variance": 0.467497,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Iran",
+      "path": "asia/iran",
+      "prior_score": -4.1748,
+      "prior_variance": 0.501312,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Las Anod",
+      "path": "africa/somalia/lasanod",
+      "prior_score": -12.044,
+      "prior_variance": 0.606497,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Bost",
+      "path": "asia/afghanistan/bost",
+      "prior_score": -12.092,
+      "prior_variance": 1.003164,
+      "prior_n": 4
+    }
+  ]
+}

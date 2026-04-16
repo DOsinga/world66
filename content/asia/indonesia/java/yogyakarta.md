@@ -1,12 +1,17 @@
 ---
-title: 'Yogyakarta'
+done:
+  location_cleanup: '2026-04-10'
+latitude: -7.797068
+longitude: 110.370529
+title: Yogyakarta
 type: location
-latitude: -7.9778
-longitude: 110.3672
+score: 0.71
 ---
 
-Yogya is the heart of Javanese culture. Founded in 1755 as the capital of the Mataram kings, it retains its sultanate to this day -- the current Sultan still lives in the Keraton, the sprawling 18th-century palace that is really a city within a city. This is the place to experience gamelan music, wayang shadow puppetry, classical dance, and batik-making at their best. [Solo](/asia/indonesia/java/solo) is a worthy runner-up, but Yogya is number one.
+Yogyakarta — known simply as Jogja to most Indonesians — is the cultural capital of Java and one of the most compelling cities in Southeast Asia. It is the only province in Indonesia still governed by its pre-colonial monarchy: the Sultan of Yogyakarta serves as the elected governor, and the royal palace (Kraton) remains the heart of the city's identity. Javanese art, batik, wayang puppet theatre, and gamelan music all have their deepest roots here.
 
-The city is also a lively, youthful place. Around 100,000 students attend its universities, which gives Yogya an energy that the courtly traditions alone would not explain. Jalan Malioboro is the main drag -- always crowded, lined with shops and food stalls, and the center of gravity for travelers. Most of the cheaper hotels are clustered along this street and the Prawirotaman area to the south.
+The city is also the best base for visiting two of the world's great monuments. [Borobudur](/asia/indonesia/java/borobudur), a 9th-century Buddhist temple of extraordinary scale and beauty, lies 40 kilometres northwest; Prambanan, a compound of towering Hindu temples from the same era, is 17 kilometres east. Most visitors do both in a single day, though each deserves more time.
 
-Yogya is an excellent base for day trips. [Borobudur](/asia/indonesia/java/borobudur), the world's largest Buddhist monument, is 42km away. The Hindu temples of Prambanan are just 7km east. The Dieng Plateau and [Solo](/asia/indonesia/java/solo) are both within easy reach. You could spend a week here without running out of things to do.
+Yogyakarta itself repays a day or two of wandering. The Kraton quarter is a neighbourhood of batik workshops, silver smiths, and wayang performances. Jalan Malioboro — the main shopping street — is chaotic and touristy but alive with street food, becak (cycle rickshaw) drivers, and vendors selling everything from batik cloth to fake antiques. The city's food scene is excellent by any measure: Gudeg, a sweet stew of young jackfruit, is the local specialty, eaten at breakfast with rice, chicken, and sambal.
+
+Mount Merapi, one of the most active volcanoes in the world, looms over the city from the north. On a clear day it is visible from the centre of town. Jeep tours to the volcano's slopes — and through the villages devastated by the 2010 eruption — are a sobering and fascinating excursion.

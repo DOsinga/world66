@@ -1,0 +1,200 @@
+{
+  "round": 1701,
+  "timestamp": "2026-04-13T10:43:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 4.5608,
+      "prior_variance": 0.410636,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_score": 5.1626,
+      "prior_variance": 0.341228,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 6.9249,
+      "prior_variance": 0.525259,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 4.0986,
+      "prior_variance": 0.618993,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_score": 4.6814,
+      "prior_variance": 0.329219,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 4.431,
+      "prior_variance": 0.316167,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_score": 6.274,
+      "prior_variance": 0.449687,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_s",
+      "prior_score": 3.7119,
+      "prior_variance": 0.314616,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 3.4255,
+      "prior_variance": 0.320408,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 0.626,
+      "prior_variance": 0.664903,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 2.0842,
+      "prior_variance": 0.389036,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Arecibo",
+      "path": "northamerica/puertorico/arecibo",
+      "prior_score": 0.0815,
+      "prior_variance": 0.364784,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_score": 0.9327,
+      "prior_variance": 0.308484,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -5.6383,
+      "prior_variance": 0.634855,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": -0.2264,
+      "prior_variance": 0.29609,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Pasadena",
+      "path": "northamerica/unitedstates/california/losangeles/pasadena",
+      "prior_score": -0.3445,
+      "prior_variance": 0.446171,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -1.3127,
+      "prior_variance": 0.413942,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -2.3068,
+      "prior_variance": 0.336504,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -1.9546,
+      "prior_variance": 0.307834,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -1.2425,
+      "prior_variance": 0.324717,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Stafford",
+      "path": "europe/unitedkingdom/england/stafford",
+      "prior_score": -3.1753,
+      "prior_variance": 0.344653,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_score": -4.4171,
+      "prior_variance": 0.273018,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -4.7009,
+      "prior_variance": 0.349124,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -7.8765,
+      "prior_variance": 0.416877,
+      "prior_n": 4
+    }
+  ]
+}

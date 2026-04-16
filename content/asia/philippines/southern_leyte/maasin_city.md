@@ -5,6 +5,7 @@ latitude: 10.132506
 longitude: 124.838515
 title: Maasin City
 type: location
+score: 0.4
 ---
 
 Maasin is the capital of Southern Leyte province, a quiet coastal city on the western shore of the island facing the Bohol Sea. It serves mainly as a transit point for travellers heading to the diving areas around Sogod Bay or to the whale shark encounters at Pintuyan and Padre Burgos further south.

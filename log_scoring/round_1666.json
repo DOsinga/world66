@@ -1,0 +1,200 @@
+{
+  "round": 1666,
+  "timestamp": "2026-04-13T10:40:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 10.4069,
+      "prior_variance": 0.632347,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Val di Fassa",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa",
+      "prior_score": 7.1083,
+      "prior_variance": 0.401448,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 4.2772,
+      "prior_variance": 0.394799,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 3.286,
+      "prior_variance": 0.312926,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": -1.3853,
+      "prior_variance": 0.502268,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Beaches",
+      "path": "europe/ireland/dublin/beaches_1",
+      "prior_score": -1.6419,
+      "prior_variance": 0.434411,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": -2.1259,
+      "prior_variance": 0.400359,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/chichester",
+      "prior_score": 2.063,
+      "prior_variance": 0.348895,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": 0.0297,
+      "prior_variance": 0.324072,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_score": -0.8384,
+      "prior_variance": 0.307062,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Jakarta",
+      "path": "asia/indonesia/jakarta",
+      "prior_score": -1.2246,
+      "prior_variance": 0.396798,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/leicester_notting/highpeak",
+      "prior_score": -1.2973,
+      "prior_variance": 0.313806,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": -0.0472,
+      "prior_variance": 0.254011,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -1.1659,
+      "prior_variance": 0.307155,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Mexico",
+      "path": "northamerica/mexico",
+      "prior_score": -5.6201,
+      "prior_variance": 0.731893,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Central Valley",
+      "path": "northamerica/unitedstates/california/centralvalley",
+      "prior_score": -5.9477,
+      "prior_variance": 0.460049,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "El oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -6.9372,
+      "prior_variance": 0.375943,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -8.3491,
+      "prior_variance": 0.920315,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chagauramas",
+      "path": "northamerica/trinidadandtobago/chagauramas",
+      "prior_score": -3.0484,
+      "prior_variance": 0.398244,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -11.2665,
+      "prior_variance": 0.677158,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Hindunetion",
+      "path": "northamerica/guatemala/language/hindunetion",
+      "prior_score": -10.6457,
+      "prior_variance": 0.472005,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "anis yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
+      "prior_score": -10.444,
+      "prior_variance": 0.725115,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -10.2309,
+      "prior_variance": 0.437311,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_score": -10.3131,
+      "prior_variance": 0.60232,
+      "prior_n": 4
+    }
+  ]
+}

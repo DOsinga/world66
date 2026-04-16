@@ -5,6 +5,7 @@ latitude: 43.043421
 longitude: 16.165472
 title: Island Vis
 type: location
+score: 0.68
 ---
 
 Travel Guide

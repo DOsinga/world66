@@ -1,0 +1,200 @@
+{
+  "round": 54,
+  "timestamp": "2026-04-11T19:26:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_mu": 34.94,
+      "prior_sigma": 5.42,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region",
+      "prior_mu": 23.19,
+      "prior_sigma": 4.85,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Tennessee",
+      "path": "northamerica/unitedstates/tennessee",
+      "prior_mu": 21.53,
+      "prior_sigma": 4.39,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_mu": 22.75,
+      "prior_sigma": 5.84,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_mu": 22.98,
+      "prior_sigma": 5.98,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "The Cuillins",
+      "path": "europe/unitedkingdom/scotland/skye/thecuilins",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pelagian Islands",
+      "path": "europe/italy/sicily/pelagianislands",
+      "prior_mu": 23.3,
+      "prior_sigma": 4.68,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_mu": 26.61,
+      "prior_sigma": 4.18,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_mu": 21.69,
+      "prior_sigma": 4.24,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_mu": 21.88,
+      "prior_sigma": 4.4,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_mu": 23.37,
+      "prior_sigma": 5.64,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_mu": 21.28,
+      "prior_sigma": 4.05,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_mu": 21.27,
+      "prior_sigma": 3.75,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_mu": 22.37,
+      "prior_sigma": 5.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_mu": 21.06,
+      "prior_sigma": 3.87,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_mu": 21.05,
+      "prior_sigma": 4.6,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Vaitupu island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_mu": 22.85,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_mu": 21.45,
+      "prior_sigma": 4.37,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_mu": 20.55,
+      "prior_sigma": 4.41,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Limache",
+      "path": "southamerica/chile/limache",
+      "prior_mu": 21.46,
+      "prior_sigma": 4.54,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_mu": 21.2,
+      "prior_sigma": 3.36,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_mu": 19.8,
+      "prior_sigma": 4.43,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "A perfect day",
+      "path": "europe/czechrepublic/prague/aperfectday",
+      "prior_mu": 20.25,
+      "prior_sigma": 5.77,
+      "prior_n": 1
+    }
+  ]
+}

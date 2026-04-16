@@ -5,6 +5,7 @@ latitude: 47.870233
 longitude: 20.323833
 title: Egerszalók
 type: location
+score: 0.49
 ---
 
 Egerszalók is a small village in the Bükk foothills of northern Hungary, about ten kilometres from [Eger](/europe/hungary/eger), known for its spectacular salt-hill thermal spring. Hot water at 68°C rises to the surface from deep underground and cascades down a hillside, depositing white calcium carbonate terraces that look strikingly similar to Pamukkale in Turkey — one of the most unusual natural formations in Hungary.

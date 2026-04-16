@@ -5,6 +5,7 @@ latitude: 35.461928
 longitude: -6.036545
 title: Asilah
 type: location
+score: 0.6
 ---
 
 Asilah feels more Andalucian than Moroccan — a whitewashed Atlantic town behind Portuguese ramparts, quiet and immaculately clean. The medina is small enough to explore in an hour, but the quality of the light and the calm of the narrow alleys will slow you down. Artists discovered the town decades ago, and murals painted during the annual arts festival still brighten the walls.

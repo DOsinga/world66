@@ -1,0 +1,56 @@
+{
+  "round": 597,
+  "timestamp": "2026-04-12T10:39:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 6,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_mu": 22.2384,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_mu": 22.8083,
+      "prior_sigma": 5.9453,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Eritrea",
+      "path": "africa/eritrea",
+      "prior_mu": 21.02,
+      "prior_sigma": 4.5619,
+      "prior_n": 2
+    }
+  ]
+}

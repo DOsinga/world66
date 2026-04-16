@@ -1,0 +1,200 @@
+{
+  "round": 1017,
+  "timestamp": "2026-04-12T22:04:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice Beach",
+      "path": "northamerica/unitedstates/california/venice_beach",
+      "prior_rank": 1088,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Vermont",
+      "path": "northamerica/unitedstates/vermont",
+      "prior_rank": 115,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_rank": 1125,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_rank": 913,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_rank": 1488,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Gibraltar",
+      "path": "europe/gibraltar",
+      "prior_rank": 1057,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_rank": 127,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_rank": 1493,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_rank": 3211,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_rank": 1086,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nantes",
+      "path": "europe/france/normandy/nantes",
+      "prior_rank": 2853,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_rank": 1294,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_rank": 765,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_rank": 2211,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_rank": 2453,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lancaster County",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty",
+      "prior_rank": 2046,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla",
+      "prior_rank": 4236,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_rank": 2202,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_rank": 4213,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_rank": 1130,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Vadehavet",
+      "path": "europe/denmark/vadehavet",
+      "prior_rank": 4710,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_rank": 2579,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_rank": 2409,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_rank": 2377,
+      "prior_wins": 46,
+      "prior_n": 3
+    }
+  ]
+}

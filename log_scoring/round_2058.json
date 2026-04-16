@@ -1,0 +1,200 @@
+{
+  "round": 2058,
+  "timestamp": "2026-04-13T16:06:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cayman Islands",
+      "path": "northamerica/caymanislands",
+      "prior_score": 6.6835,
+      "prior_variance": 0.353959,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Bohol",
+      "path": "asia/philippines/bohol",
+      "prior_score": 5.3481,
+      "prior_variance": 0.442881,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 7.3075,
+      "prior_variance": 0.364597,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_score": 2.2597,
+      "prior_variance": 0.328378,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_score": 1.2023,
+      "prior_variance": 0.238994,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Folgaria",
+      "path": "europe/italy/trentinoaltoadige/folgaria",
+      "prior_score": 0.5736,
+      "prior_variance": 0.290962,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/warwick",
+      "prior_score": -0.4391,
+      "prior_variance": 0.315633,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": 0.6455,
+      "prior_variance": 0.33348,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -0.607,
+      "prior_variance": 0.250184,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -1.6298,
+      "prior_variance": 0.281216,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": 0.3136,
+      "prior_variance": 0.277317,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tretten",
+      "path": "europe/norway/tretten",
+      "prior_score": 0.3389,
+      "prior_variance": 0.263099,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -0.9716,
+      "prior_variance": 0.258935,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": 0.0405,
+      "prior_variance": 0.251152,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -1.827,
+      "prior_variance": 0.306975,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -1.5856,
+      "prior_variance": 0.287233,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_score": -3.1185,
+      "prior_variance": 0.427953,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.4991,
+      "prior_variance": 0.307854,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.2725,
+      "prior_variance": 0.295737,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_score": -3.1392,
+      "prior_variance": 0.271285,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Zielonka",
+      "path": "europe/poland/zielonka",
+      "prior_score": -5.3274,
+      "prior_variance": 0.254768,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -1.5211,
+      "prior_variance": 0.224743,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.3172,
+      "prior_variance": 0.377977,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Bukavu",
+      "path": "africa/congokinshasa/bukavu",
+      "prior_score": -7.6257,
+      "prior_variance": 0.258327,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,8 +1,9 @@
 ---
-title: 'Grove'
+title: Grove
 type: location
 latitude: 36.594
 longitude: -94.769
+score: 0.31
 ---
 
 Located on the shores of Grand Lake O' the Cherokees in Delaware County, Grove is a town of over 5,500 people and is considered one of the top retirement areas in the nation.

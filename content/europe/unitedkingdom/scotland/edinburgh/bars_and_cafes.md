@@ -3,24 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-**Leith Internet Cafe**
-
-**169 Leith Walk**
-
-**Edinburgh**
-
-**EH6 8NR**
-
-**0131 554 4552**
-
-open Sun to Thur 10am to 11pm
-
-Fri and Sat 10am to 9pm
-
-Friendly, affordable, fair trade. The internet cafe which luvs good moosic!
-
-Surfing, scanning, printing, faxing, burning, web cams and mics.
-
-Lots of help and local info.
-
-Coffees and juices.
+Edinburgh is one of the great pub cities of Britain. The Old Town is dense with timber-lined howffs and converted vaults; the New Town goes for high-Georgian gentility; Stockbridge and Leith have the best of the new wave of cocktail bars and craft-beer rooms. The city brews well too — Stewart, Pilot and Campervan are local names worth looking out for, and a proper dram of single malt is never more than a few steps away. Closing time is generally midnight or 1am, later for late-licence venues during the festival.

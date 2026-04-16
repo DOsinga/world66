@@ -5,6 +5,7 @@ latitude: 30.5946
 longitude: 72.9112
 title: Harappa
 type: location
+score: 0.39
 ---
 
 Harappa is one of the great archaeological sites of the ancient world — the type-site of the Indus Valley Civilization, which flourished roughly 3,000 to 1,500 BC and rivalled the contemporary civilizations of Mesopotamia and Egypt in scale and sophistication. The ruins lie in the Sahiwal district of Punjab, about 25 kilometres southwest of the town of Sahiwal.

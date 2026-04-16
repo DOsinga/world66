@@ -1,0 +1,200 @@
+{
+  "round": 2314,
+  "timestamp": "2026-04-13T16:30:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Peru",
+      "path": "southamerica/peru",
+      "prior_score": 0.0439,
+      "prior_variance": 0.370193,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Singapore",
+      "path": "asia/singapore",
+      "prior_score": 11.3856,
+      "prior_variance": 0.588993,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 7.8115,
+      "prior_variance": 0.317221,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 9.2039,
+      "prior_variance": 0.327266,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Saint Lucia",
+      "path": "northamerica/saintlucia",
+      "prior_score": 9.9789,
+      "prior_variance": 0.383511,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 8.7364,
+      "prior_variance": 0.324496,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 2.2193,
+      "prior_variance": 0.206722,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Hungary",
+      "path": "europe/hungary",
+      "prior_score": -1.687,
+      "prior_variance": 0.346449,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_score": 0.3525,
+      "prior_variance": 0.320959,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_score": 1.5047,
+      "prior_variance": 0.224795,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/northland/ninety_mile_beach",
+      "prior_score": 1.8637,
+      "prior_variance": 0.216128,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_score": 1.9328,
+      "prior_variance": 0.228817,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Dalian",
+      "path": "asia/china/dalian",
+      "prior_score": 0.3164,
+      "prior_variance": 0.247013,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Margarita Island",
+      "path": "southamerica/venezuela/margaritaisland",
+      "prior_score": 2.0244,
+      "prior_variance": 0.222669,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": 0.0044,
+      "prior_variance": 0.241867,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_score": 0.546,
+      "prior_variance": 0.253555,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_score": 1.5883,
+      "prior_variance": 0.247574,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -0.5323,
+      "prior_variance": 0.226148,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -2.5285,
+      "prior_variance": 0.336856,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -1.5899,
+      "prior_variance": 0.206573,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -1.6467,
+      "prior_variance": 0.24972,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_score": -0.9324,
+      "prior_variance": 0.227825,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -4.4228,
+      "prior_variance": 0.231894,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Viipuri",
+      "path": "europe/russia/viipuri",
+      "prior_score": -5.3042,
+      "prior_variance": 0.3364,
+      "prior_n": 6
+    }
+  ]
+}

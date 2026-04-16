@@ -1,0 +1,200 @@
+{
+  "round": 349,
+  "timestamp": "2026-04-12T09:12:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Toronto",
+      "path": "northamerica/canada/ontario/toronto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverp/liverpool",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Ketchikan",
+      "path": "northamerica/unitedstates/alaska/ketchikan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Toowoomba",
+      "path": "australiaandpacific/australia/queensland/toowoomba",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "\u201cCoroico\u201d",
+      "path": "southamerica/bolivia/coroico",
+      "prior_mu": 22.379,
+      "prior_sigma": 5.6422,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_mu": 21.8988,
+      "prior_sigma": 4.8325,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Haiti",
+      "path": "northamerica/haiti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

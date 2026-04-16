@@ -1,0 +1,200 @@
+{
+  "round": 431,
+  "timestamp": "2026-04-12T09:30:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/london",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds",
+      "prior_mu": 24.0988,
+      "prior_sigma": 5.8225,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/york",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/stowonthewold",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_mu": 22.1823,
+      "prior_sigma": 5.7625,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/malhamdale",
+      "prior_mu": 22.6337,
+      "prior_sigma": 5.9376,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tenby",
+      "path": "europe/unitedkingdom/wales/tenby",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/ravenglass",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "The North Norfolk Coast",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/bude",
+      "prior_mu": 21.7991,
+      "prior_sigma": 4.8132,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/torquay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/marlow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/sherborne",
+      "prior_mu": 21.9579,
+      "prior_sigma": 4.8395,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/norfolk/norwich",
+      "prior_mu": 22.7138,
+      "prior_sigma": 5.6899,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/worcester",
+      "prior_mu": 22.6217,
+      "prior_sigma": 5.9362,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/greatyarmouth",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_mu": 21.8541,
+      "prior_sigma": 4.8279,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "England",
+      "path": "europe/unitedkingdom/england",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ashington",
+      "path": "europe/unitedkingdom/england/ashington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/stourbridge",
+      "prior_mu": 22.4946,
+      "prior_sigma": 5.9095,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/bearwood",
+      "prior_mu": 19.1269,
+      "prior_sigma": 5.2885,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

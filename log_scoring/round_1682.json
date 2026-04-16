@@ -1,0 +1,200 @@
+{
+  "round": 1682,
+  "timestamp": "2026-04-13T10:41:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_score": 12.8819,
+      "prior_variance": 0.578939,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cappadocia",
+      "path": "asia/turkey/cappadocia",
+      "prior_score": 10.6978,
+      "prior_variance": 0.673618,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_score": 10.5041,
+      "prior_variance": 0.548645,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_score": 7.9126,
+      "prior_variance": 0.421607,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 11.7752,
+      "prior_variance": 0.53797,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 9.9835,
+      "prior_variance": 0.573743,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_score": 9.9939,
+      "prior_variance": 0.419788,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cannes",
+      "path": "europe/france/midi/cotedazur/cannes",
+      "prior_score": 8.0931,
+      "prior_variance": 0.502511,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Qu\u00e9bec",
+      "path": "northamerica/canada/quebec",
+      "prior_score": 7.3495,
+      "prior_variance": 0.421419,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 4.2534,
+      "prior_variance": 0.424078,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 11.2889,
+      "prior_variance": 0.653364,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 2.1915,
+      "prior_variance": 0.420007,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Wales",
+      "path": "europe/unitedkingdom/wales",
+      "prior_score": 5.0004,
+      "prior_variance": 0.325808,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 4.0251,
+      "prior_variance": 0.365245,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/liverpool",
+      "prior_score": 3.2226,
+      "prior_variance": 0.298255,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_riv",
+      "prior_score": 2.6155,
+      "prior_variance": 0.411089,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_score": 1.4774,
+      "prior_variance": 0.322775,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_score": 4.3055,
+      "prior_variance": 0.310027,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_score": 2.7073,
+      "prior_variance": 0.546853,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cabo Rojo",
+      "path": "northamerica/puertorico/caborojo",
+      "prior_score": 3.522,
+      "prior_variance": 0.410488,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 2.2263,
+      "prior_variance": 0.307898,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 1.4493,
+      "prior_variance": 0.319173,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -0.3824,
+      "prior_variance": 0.305526,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/ventura",
+      "prior_score": 0.1024,
+      "prior_variance": 0.291187,
+      "prior_n": 4
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 10.062326
 longitude: -2.505427
 title: Wa
 type: location
+score: 0.29
 ---
 
 Wa is the capital of [Ghana](/africa/ghana)'s Upper West Region, a quiet town in the dry northern savanna that few travelers ever reach. The pace here is unhurried, the people are welcoming, and the streets have a dusty, sun-baked charm that feels a world away from the bustle of Accra or Kumasi. What draws the eye is the mud-brick architecture — Wa Naa's Palace and several traditional mosques built in the Sudanese style, with their thick earthen walls and tapered buttresses. It is a place where Islam and traditional culture sit comfortably side by side, and the muezzin's call drifts over compounds where elders share stories in the shade.

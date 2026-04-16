@@ -1,0 +1,200 @@
+{
+  "round": 1940,
+  "timestamp": "2026-04-13T15:56:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 2.8015,
+      "prior_variance": 0.369112,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 3.3382,
+      "prior_variance": 0.270082,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": -0.1478,
+      "prior_variance": 0.24071,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 3.4117,
+      "prior_variance": 0.258765,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Herceg Novi",
+      "path": "europe/serbiaandmontenegro/hercegnovi",
+      "prior_score": 2.7545,
+      "prior_variance": 0.302309,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "O Ribeiro",
+      "path": "europe/spain/galicia/o_ribeiro",
+      "prior_score": -0.5871,
+      "prior_variance": 0.265797,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/leicester_notting/kenilworth",
+      "prior_score": 0.4657,
+      "prior_variance": 0.271219,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_score": -0.4241,
+      "prior_variance": 0.254116,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 2.7747,
+      "prior_variance": 0.207753,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": -0.6661,
+      "prior_variance": 0.284621,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 1.8314,
+      "prior_variance": 0.302221,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/northland/kaitaia",
+      "prior_score": -0.8474,
+      "prior_variance": 0.256005,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": 0.1431,
+      "prior_variance": 0.35488,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -2.6318,
+      "prior_variance": 0.317889,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_score": -4.2554,
+      "prior_variance": 0.498782,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Huanuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_score": -1.3685,
+      "prior_variance": 0.271275,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": -1.9562,
+      "prior_variance": 0.267521,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -1.394,
+      "prior_variance": 0.28332,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": -2.1275,
+      "prior_variance": 0.326332,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": 0.9691,
+      "prior_variance": 0.457125,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -4.5834,
+      "prior_variance": 0.477514,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -3.5624,
+      "prior_variance": 0.301382,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -8.262,
+      "prior_variance": 0.346184,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Plantation",
+      "path": "northamerica/unitedstates/florida/plantation",
+      "prior_score": -4.4526,
+      "prior_variance": 0.300603,
+      "prior_n": 5
+    }
+  ]
+}

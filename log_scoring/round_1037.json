@@ -1,0 +1,200 @@
+{
+  "round": 1037,
+  "timestamp": "2026-04-12T22:05:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Thailand",
+      "path": "asia/thailand",
+      "prior_rank": 494,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Seychelles",
+      "path": "africa/seychelles",
+      "prior_rank": 485,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Exumas",
+      "path": "northamerica/bahamas/exumas",
+      "prior_rank": 33,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_rank": 105,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichenitza",
+      "prior_rank": 37,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Tulum",
+      "path": "northamerica/mexico/yucatan/tulum",
+      "prior_rank": 319,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_rank": 1933,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_rank": 54,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Corfu",
+      "path": "europe/greece/corfu",
+      "prior_rank": 117,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_rank": 315,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_rank": 653,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_rank": 777,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_rank": 182,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_rank": 427,
+      "prior_wins": 104,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_rank": 660,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_rank": 2,
+      "prior_wins": 114,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_rank": 664,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_rank": 88,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bath",
+      "prior_rank": 1356,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Barbados",
+      "path": "northamerica/barbados",
+      "prior_rank": 214,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Las Palmas",
+      "path": "europe/spain/grancanaria/laspalmas",
+      "prior_rank": 343,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_rank": 141,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_rank": 735,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Akihabara",
+      "path": "asia/japan/tokyo/akihabara",
+      "prior_rank": 2544,
+      "prior_wins": 15,
+      "prior_n": 1
+    }
+  ]
+}

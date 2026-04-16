@@ -5,6 +5,7 @@ latitude: 12.5523
 longitude: 101.4483
 title: Ko Samet
 type: location
+score: 0.64
 ---
 
 Ko Samet is a small island about 200km southeast of Bangkok, and for that reason it draws more weekend visitors than almost any other beach destination in Thailand. It sits within Khao Laem Ya–Mu Ko Samet National Park, which means the interior is protected forest and the beaches are kept relatively clean — something you cannot take for granted on more developed Thai islands.

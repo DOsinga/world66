@@ -19,7 +19,7 @@ North America covers an extraordinary range — from the Arctic ice cap to tropi
 
 **New Orleans.** There is nowhere else quite like it in North America. Jazz pours out of every doorway in the French Quarter, the food is serious (beignets, gumbo, po' boys, crawfish), and the city has a decadent, subtropical character that resists the generic American city template. The cemeteries, the Garden District, the Frenchmen Street music clubs — all worth your time.
 
-**Cuba.** [Cuba](/northamerica/cuba) is unlike anywhere else in the Americas. Havana's crumbling pastel grandeur, the classic cars, the rum, the music — it's all real, not a theme park. The country is changing, slowly and unevenly, and whatever you find when you arrive will be different from whatever you've read about. Go curious and without fixed expectations.
+**Cuba.** [Cuba](/northamerica/thecaribbean/cuba) is unlike anywhere else in the Americas. Havana's crumbling pastel grandeur, the classic cars, the rum, the music — it's all real, not a theme park. The country is changing, slowly and unevenly, and whatever you find when you arrive will be different from whatever you've read about. Go curious and without fixed expectations.
 
 **Costa Rica's wildlife.** [Costa Rica](/northamerica/costarica) has made protecting its natural ecosystems a national project, and the results are remarkable: 25 percent of the country is protected. Monteverdo's cloud forest, the Osa Peninsula's wilderness, Tortuguero's sea turtle beaches, and Arenal's volcano and hot springs are all accessible without requiring serious expedition logistics. The wildlife density — toucans, sloths, monkeys, tree frogs, quetzals — can feel almost absurdly generous.
 

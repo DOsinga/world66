@@ -5,6 +5,7 @@ latitude: 14.85
 longitude: -24.72
 title: Brava
 type: location
+score: 0.47
 ---
 
 Brava is the smallest inhabited island in Cape Verde and one of the hardest to reach -- there is no airport, and the only way in is by ferry from [Fogo](/africa/capeverde/fogo), a crossing that can be rough and is sometimes cancelled due to weather. That isolation is part of the appeal. Brava is lush, green, and covered in flowers, earning it the nickname "the island of flowers."

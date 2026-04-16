@@ -5,6 +5,7 @@ latitude: 38.2521
 longitude: 34.2918
 title: Ihlara Valley
 type: location
+score: 0.69
 ---
 
 Ihlara Valley is arguably the most spectacular scenery in [Cappadocia](/asia/turkey/cappadocia). The gorge runs for 16 km, cut by the Melendiz river through volcanic rock, with steep walls rising up to 150 metres on either side. It lies somewhat apart from the main Cappadocian tourist circuit — getting here takes a bit more effort — but it rewards the trip with an atmosphere that's noticeably quieter than Göreme or Ürgüp.

@@ -1,0 +1,200 @@
+{
+  "round": 1513,
+  "timestamp": "2026-04-13T10:27:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 9.6585,
+      "prior_variance": 0.749802,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_score": 11.1736,
+      "prior_variance": 1.72792,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Argolis",
+      "path": "europe/greece/argolis",
+      "prior_score": 6.9164,
+      "prior_variance": 0.486257,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 5.3972,
+      "prior_variance": 0.458247,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 3.7348,
+      "prior_variance": 0.626995,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 6.1984,
+      "prior_variance": 0.443839,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Dordogne",
+      "path": "europe/france/midi/dordogne",
+      "prior_score": 6.5618,
+      "prior_variance": 0.520419,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Languedoc",
+      "path": "europe/france/midi/languedoc",
+      "prior_score": 4.2462,
+      "prior_variance": 0.588249,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Corniglia",
+      "path": "europe/italy/liguria/corniglia",
+      "prior_score": 7.4695,
+      "prior_variance": 0.545383,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 3.7454,
+      "prior_variance": 0.508232,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_score": 3.6126,
+      "prior_variance": 0.344545,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 6.0122,
+      "prior_variance": 0.687283,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 8.1915,
+      "prior_variance": 0.66088,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 4.9277,
+      "prior_variance": 0.518082,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 2.9642,
+      "prior_variance": 0.467674,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tilos",
+      "path": "europe/greece/tilos",
+      "prior_score": 3.7775,
+      "prior_variance": 0.376313,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 4.5594,
+      "prior_variance": 0.493922,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_score": 4.4297,
+      "prior_variance": 0.452846,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla/sylt",
+      "prior_score": 2.0157,
+      "prior_variance": 0.431243,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 1.9708,
+      "prior_variance": 0.752987,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/sandiego/carlsbad",
+      "prior_score": 0.3138,
+      "prior_variance": 0.4346,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "North Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver/northvancouver",
+      "prior_score": 2.4169,
+      "prior_variance": 0.399107,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 2.1221,
+      "prior_variance": 0.436143,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": -0.5828,
+      "prior_variance": 0.366648,
+      "prior_n": 4
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 17.988466
 longitude: -92.936633
 done:
   location_cleanup: 2026-04-06
+score: 0.41
 ---
 
 **http://www.tabasco.gob.mx/**

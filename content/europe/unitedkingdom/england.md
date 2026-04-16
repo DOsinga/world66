@@ -1,10 +1,11 @@
 ---
-title: England
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 52.531021
 longitude: -1.264906
-done:
-  location_cleanup: 2026-04-05
+score: 0.43
+title: England
+type: location
 ---
 
 England is a country that rewards the curious. Yes, there's London — and London alone could occupy weeks — but beyond the capital you find a landscape and culture that shifts dramatically every hundred miles: the bleak beauty of Dartmoor, the limestone walls and sheep pastures of the Yorkshire Dales, the flat fenlands of East Anglia, the fishing villages clinging to the Cornish coast. For a relatively small country, it packs in a remarkable amount of variety.

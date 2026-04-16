@@ -5,6 +5,7 @@ latitude: -29.2697
 longitude: 29.5314
 title: Giant's Castle
 type: location
+score: 0.6
 ---
 
 Giant's Castle is a nature reserve in the Central Drakensberg, named after the massive basalt buttress that dominates its skyline. If you are looking for serious hiking without the crowds, this is one of the best spots in the range. It is entirely possible to spend a day on the trails and see nobody but the game guard at the park entrance.

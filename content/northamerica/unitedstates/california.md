@@ -1,10 +1,11 @@
 ---
-title: California
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 36.701463
 longitude: -118.755997
-done:
-  location_cleanup: 2026-04-05
+score: 0.55
+title: California
+type: location
 ---
 
 California is one of the largest states in the US and contains more variety than most countries. In a single day you can drive from Death Valley — the lowest, hottest point in North America — to the snowy peaks of the Sierra Nevada. The coastline runs 840 miles from the redwood forests of the north to the border with Mexico, passing through some of the most dramatic scenery on the continent.

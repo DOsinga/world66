@@ -1,8 +1,9 @@
 ---
-title: "Prades"
+title: Prades
 type: location
 latitude: 42.618123
 longitude: 2.423093
+score: 0.53
 ---
 
 Prades is a small market town in the Têt Valley, about 45 kilometres west of Perpignan in the Pyrénées-Orientales. It has a compact, walkable centre dominated by a magnificent Baroque church, a weekly market, and an unhurried village feel that belies its status as the main town of the valley.

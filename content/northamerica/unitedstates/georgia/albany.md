@@ -1,10 +1,11 @@
 ---
-title: "Albany"
+title: Albany
 type: location
 latitude: 31.5785
 longitude: -84.1557
 done:
   location_cleanup: 2026-04-07
+score: 0.3
 ---
 
 Albany is the largest city in southwest Georgia and the seat of Dougherty County. It sits on the Flint River about 170 miles south of Atlanta. Not a common tourist destination, but it has a surprisingly strong arts and cultural scene for a mid-size Southern city.

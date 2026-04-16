@@ -1,8 +1,9 @@
 ---
-title: "San Ignacio"
+title: San Ignacio
 type: location
 latitude: -5.124368
 longitude: -78.89563
+score: 0.3
 ---
 
 Travel Guide

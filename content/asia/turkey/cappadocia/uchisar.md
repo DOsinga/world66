@@ -5,6 +5,11 @@ latitude: 38.629383
 longitude: 34.804614
 title: Uchisar
 type: location
+score: 0.74
+image: uchisar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:00_0596_Kappadokien_-_U%C3%A7hisar.jpg
+image_license: CC BY-SA 4.0
+image_attribution: W. Bulach
 ---
 
 Uçhisar is the highest point in Cappadocia, dominated by a massive volcanic rock riddled with cave rooms that served as dwellings for centuries — the "castle" visible for miles across the plateau. Climbing to the top takes about 20 minutes and rewards you with the best panorama in the region: a sweep of fairy chimneys, pigeon valleys, and the distant snow-capped cone of Mount Erciyes.

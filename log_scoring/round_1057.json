@@ -1,0 +1,200 @@
+{
+  "round": 1057,
+  "timestamp": "2026-04-12T22:06:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_rank": 8021,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_rank": 6647,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_rank": 4186,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_rank": 7829,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_rank": 8010,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_rank": 7255,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ingal",
+      "path": "africa/niger/ingal",
+      "prior_rank": 7893,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_rank": 7747,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Haiti",
+      "path": "northamerica/haiti",
+      "prior_rank": 8121,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Burundi",
+      "path": "africa/burundi",
+      "prior_rank": 8141,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_rank": 7876,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/harlow",
+      "prior_rank": 8113,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_rank": 7996,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Yengema",
+      "path": "africa/sierraleone/yengema",
+      "prior_rank": 7807,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_rank": 8200,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_rank": 8196,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_rank": 8131,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_rank": 8198,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_rank": 8015,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_rank": 7724,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_rank": 7984,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_rank": 7743,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_rank": 7995,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_rank": 7168,
+      "prior_wins": 4,
+      "prior_n": 1
+    }
+  ]
+}

@@ -5,6 +5,7 @@ latitude: 31.5216
 longitude: 130.5474
 title: Kagoshima
 type: location
+score: 0.64
 ---
 
 Kagoshima faces one of the most dramatic urban backdrops in Japan: Sakurajima, an active volcano that regularly dusts the city in fine ash. The mountain looms across the bay, connected by a fifteen-minute ferry that runs around the clock. On clear days the views from the waterfront are extraordinary; on ash days, residents carry umbrellas and sweep their cars.

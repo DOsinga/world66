@@ -1,8 +1,13 @@
 ---
-title: "Vienna"
+title: Vienna
 type: location
 latitude: 48.208354
 longitude: 16.372504
+score: 0.88
+image: vienna.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Neue_Burg,_Hofberg_Palace,_Vienna_Austria.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Thcipriani
 ---
 
 Austria’s capital Vienna spreads along both sides of the “Blue” Danube (which as the Viennese are certain to point out is actually muddy brown) at the very foothills of the Alps. The city is a smorgasbord of Baroque with a dash of art nouveau. Circling the old town (the *Innere Stadt* ) is the imposing revivalist architecture of the Ringstrasse Vienna’s main boulevard. These buildings range from the charming Opera House to the monumental Natural History Museum. Nestled throughout the city are the graceful art-nouveau buildings of turn-of-the century architects Otto Wagner and Adolf Loos. The buildings are one of the many remnants of the artistic and intellectual flowering that took place in Vienna at the turn of the century. Of course the buildings and the city’s history are only a backdrop for the daily culture that can still be found in the concert halls opera houses and cafes.

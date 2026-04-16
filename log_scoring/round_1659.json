@@ -1,0 +1,200 @@
+{
+  "round": 1659,
+  "timestamp": "2026-04-13T10:39:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tassili n\u2019ajjer",
+      "path": "africa/algeria/tassilinajjer",
+      "prior_score": 2.733,
+      "prior_variance": 0.407681,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Myanmar",
+      "path": "asia/myanmar",
+      "prior_score": -4.6413,
+      "prior_variance": 0.383253,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Brasilia",
+      "path": "southamerica/brazil/brasilia",
+      "prior_score": 0.5698,
+      "prior_variance": 0.434951,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 3.5405,
+      "prior_variance": 0.321964,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Agaete",
+      "path": "europe/spain/canaryislands/grancanaria/agaete",
+      "prior_score": 3.4969,
+      "prior_variance": 0.299023,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -0.3177,
+      "prior_variance": 0.346352,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Timor-Leste",
+      "path": "asia/easttimor",
+      "prior_score": 0.0015,
+      "prior_variance": 0.317924,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": 1.778,
+      "prior_variance": 0.337006,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Small Isles",
+      "path": "europe/unitedkingdom/scotland/small_isles",
+      "prior_score": 0.9446,
+      "prior_variance": 0.353082,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/crovie",
+      "prior_score": -0.4817,
+      "prior_variance": 0.387777,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_score": 2.0475,
+      "prior_variance": 0.353846,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": 0.1124,
+      "prior_variance": 0.325352,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": -0.3121,
+      "prior_variance": 0.33361,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_score": 1.052,
+      "prior_variance": 0.319395,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.4879,
+      "prior_variance": 0.339084,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -1.0506,
+      "prior_variance": 0.334567,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -1.2759,
+      "prior_variance": 0.346533,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_score": -0.9043,
+      "prior_variance": 0.322059,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_score": -0.897,
+      "prior_variance": 0.308902,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": 0.4549,
+      "prior_variance": 0.245597,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -2.6199,
+      "prior_variance": 0.544335,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_score": -3.913,
+      "prior_variance": 0.321626,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Permet",
+      "path": "europe/albania/lezha_castle/permet",
+      "prior_score": -1.4112,
+      "prior_variance": 0.32092,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -5.1262,
+      "prior_variance": 0.42087,
+      "prior_n": 4
+    }
+  ]
+}

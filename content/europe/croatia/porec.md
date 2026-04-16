@@ -5,6 +5,7 @@ latitude: 45.2272
 longitude: 13.5957
 done:
   location_cleanup: 2026-04-07
+score: 0.63
 ---
 
 Porec sits halfway up the western coast of [Istria](/europe/croatia/istria), a small town built on a narrow peninsula that juts into the Adriatic. Its Roman street grid is still intact -- you can walk the original Decumanus, the main east-west street, and Cardo Maximus crossing it at right angles, just as they were laid out two thousand years ago.

@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Stoeltje</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.62
 ---
 
 Gibraltar is one of those places that shouldn't quite exist — a 6.5-square-kilometre British territory on the southern tip of Spain, within sight of Morocco, fiercely proud of its identity and stubbornly resistant to the obvious logic that it should belong to someone else. The Rock of Gibraltar, that massive limestone ridge rising 426 metres from the narrow isthmus, has defined the territory's history and still dominates everything about it.

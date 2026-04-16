@@ -5,6 +5,7 @@ latitude: 35.1473
 longitude: -107.8514
 done:
   location_cleanup: 2026-04-06
+score: 0.3
 ---
 
 Grants is the seat of Cibola County, and is located between Mount Taylor and El Malpais, on the east side of the Continental Divide. Grants is near many of the scenic and cultural attractions of northwest New Mexico, such as Acoma Pueblo (the famed Sky City), the Pueblo of Laguna, Chaco Canyon, El Morro, the Zuni Mountains, El Malpais National Monument, and sacred Mount Taylor. 

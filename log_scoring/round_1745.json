@@ -1,0 +1,200 @@
+{
+  "round": 1745,
+  "timestamp": "2026-04-13T10:47:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Blanca",
+      "path": "europe/spain/costa_blanca",
+      "prior_score": 4.8682,
+      "prior_variance": 0.295058,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_na",
+      "prior_score": 4.5984,
+      "prior_variance": 0.385596,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Addo Elephant National Park",
+      "path": "africa/southafrica/addo_elephant_nati",
+      "prior_score": 5.4261,
+      "prior_variance": 0.285258,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_score": 5.504,
+      "prior_variance": 0.368725,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_score": 3.622,
+      "prior_variance": 0.342767,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_score": 3.4766,
+      "prior_variance": 0.403076,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 5.1569,
+      "prior_variance": 0.418443,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pelje\u0161ac",
+      "path": "europe/croatia/peljesac",
+      "prior_score": 5.8492,
+      "prior_variance": 0.29128,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 4.7863,
+      "prior_variance": 0.327927,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": 2.4216,
+      "prior_variance": 0.386308,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_score": 1.804,
+      "prior_variance": 0.40888,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Andorra",
+      "path": "europe/andorra",
+      "prior_score": 3.6327,
+      "prior_variance": 0.284287,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Alkmaar",
+      "path": "europe/netherlands/alkmaar",
+      "prior_score": 2.1626,
+      "prior_variance": 0.269281,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cheltenham",
+      "prior_score": 1.0125,
+      "prior_variance": 0.326241,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": 0.4925,
+      "prior_variance": 0.308625,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_score": 1.1624,
+      "prior_variance": 0.273959,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_score": -0.1262,
+      "prior_variance": 0.309335,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_score": 1.1831,
+      "prior_variance": 0.317252,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_score": -0.687,
+      "prior_variance": 0.300727,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Baja California",
+      "path": "northamerica/mexico/yucatan/bajacalifornia",
+      "prior_score": -0.3138,
+      "prior_variance": 0.370658,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_score": -1.0295,
+      "prior_variance": 0.233188,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -2.1373,
+      "prior_variance": 0.321282,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_score": -3.2184,
+      "prior_variance": 0.333951,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "United Kingdom",
+      "path": "europe/unitedkingdom",
+      "prior_score": -1.5757,
+      "prior_variance": 0.448215,
+      "prior_n": 4
+    }
+  ]
+}

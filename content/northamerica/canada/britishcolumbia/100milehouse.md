@@ -5,4 +5,5 @@ latitude: 51.642787
 longitude: -121.295694
 title: 100 Mile House
 type: location
+score: 0.34
 ---

@@ -5,6 +5,7 @@ latitude: 52.420559
 longitude: 10.786168
 title: Wolfsburg
 type: location
+score: 0.41
 ---
 
 Wolfsburg exists because of Volkswagen. The city was founded in 1938 to house workers for the new car factory, and VW still dominates — the plant stretches for over a kilometre along the Mittelland Canal and employs tens of thousands of people. What makes Wolfsburg worth a stop is not the factory floor but what VW has built around it.

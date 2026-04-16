@@ -5,6 +5,7 @@ latitude: 0.25
 longitude: 36.1
 title: Lake Bogoria N.P.
 type: location
+score: 0.51
 ---
 
 Lake Bogoria is a shallow soda lake in the Rift Valley, north of [Nakuru](/africa/kenya/nakuru). When conditions at Lake Nakuru are not right for flamingos — which happens regularly — the birds move here instead, and the lake can turn pink with hundreds of thousands of lesser flamingos. Even without the flamingos, Lake Bogoria is worth the detour for its hot springs and geysers, which erupt along the western shore with impressive force.

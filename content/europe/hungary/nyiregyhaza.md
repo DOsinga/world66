@@ -5,6 +5,7 @@ latitude: 47.95578
 longitude: 21.716798
 done:
   location_cleanup: 2026-04-05
+score: 0.44
 ---
 
 Nyíregyháza is the capital of **Szabolcs-Szatmár-Bereg** county in the far northeast of Hungary, a flat plains city of around 115,000 people close to the borders with Slovakia, Ukraine and Romania. Its historic centre is a compact set of 19th-century squares dominated by the **Kossuth tér** and the bulky Greek Catholic cathedral, with a smaller Lutheran church, a Calvinist church, an Orthodox church and a synagogue all within a few minutes' walk — a reminder of the unusual religious mix of this corner of the Great Hungarian Plain.

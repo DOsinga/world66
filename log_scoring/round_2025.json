@@ -1,0 +1,200 @@
+{
+  "round": 2025,
+  "timestamp": "2026-04-13T16:03:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_score": 6.7962,
+      "prior_variance": 0.352198,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Sri Lanka",
+      "path": "asia/srilanka",
+      "prior_score": 6.9579,
+      "prior_variance": 0.473796,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 4.9772,
+      "prior_variance": 0.343148,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Guatemala",
+      "path": "northamerica/guatemala",
+      "prior_score": 3.8786,
+      "prior_variance": 0.282336,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_score": 3.1974,
+      "prior_variance": 0.258694,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 1.3201,
+      "prior_variance": 0.436898,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Murcia",
+      "path": "europe/spain/murcia",
+      "prior_score": 0.6256,
+      "prior_variance": 0.211929,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national",
+      "prior_score": 3.8832,
+      "prior_variance": 0.299564,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": 0.8576,
+      "prior_variance": 0.319066,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Saint Bartholomy",
+      "path": "northamerica/thecaribbean/saintbartholomy",
+      "prior_score": 1.608,
+      "prior_variance": 0.284717,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 1.7638,
+      "prior_variance": 0.247913,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 1.0344,
+      "prior_variance": 0.258372,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Chemainus",
+      "path": "northamerica/canada/britishcolumbia/victoria/chemainus",
+      "prior_score": -0.7312,
+      "prior_variance": 0.24793,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": -0.2541,
+      "prior_variance": 0.260095,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_score": 1.6354,
+      "prior_variance": 0.267,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 0.2692,
+      "prior_variance": 0.290786,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 3.1477,
+      "prior_variance": 0.299895,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": 0.1996,
+      "prior_variance": 0.300374,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Cherating",
+      "path": "asia/malaysia/kuantan/cherating",
+      "prior_score": 0.4833,
+      "prior_variance": 0.226215,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -1.4563,
+      "prior_variance": 0.26792,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": -0.5007,
+      "prior_variance": 0.28348,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": -0.0582,
+      "prior_variance": 0.270826,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -2.2063,
+      "prior_variance": 0.264901,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_score": -4.9762,
+      "prior_variance": 0.2589,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1166,
+  "timestamp": "2026-04-12T22:13:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Java",
+      "path": "asia/indonesia/java",
+      "prior_rank": 4986,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tajikistan",
+      "path": "asia/tajikistan",
+      "prior_rank": 2457,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_rank": 2671,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_rank": 4848,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_rank": 3822,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_rank": 5725,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_rank": 5347,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_rank": 5937,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_rank": 5822,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_rank": 6100,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_rank": 4816,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_rank": 4878,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/saratoga",
+      "prior_rank": 4536,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_rank": 6602,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/yucatan/bocadelrio",
+      "prior_rank": 5454,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tacloban City",
+      "path": "asia/philippines/taclobancity",
+      "prior_rank": 3273,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_rank": 4841,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_rank": 6595,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_rank": 3696,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bochum",
+      "path": "europe/germany/bochum",
+      "prior_rank": 6622,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_rank": 6877,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_rank": 5200,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/delaware",
+      "prior_rank": 4610,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Japiim",
+      "path": "southamerica/brazil/japiim",
+      "prior_rank": 8163,
+      "prior_wins": 2,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,4 +1,0 @@
----
-title: "Ouesso"
-type: location
----

@@ -5,6 +5,7 @@ latitude: 40.798546
 longitude: -81.374951
 title: Canton
 type: location
+score: 0.36
 ---
 
 Canton is best known as the home of the Pro Football Hall of Fame, which draws fans from across the country every summer for the enshrinement ceremony and the Hall of Fame Game. The city sits in Stark County in northeast Ohio, about an hour south of Cleveland.

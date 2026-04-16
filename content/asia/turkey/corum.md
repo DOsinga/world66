@@ -1,10 +1,11 @@
 ---
-title: "Corum"
+title: Corum
 type: location
 latitude: 40.5499
 longitude: 34.9537
 done:
   location_cleanup: 2026-04-07
+score: 0.4
 ---
 
 Çorum sits on the edge of a fertile plain in north-central Turkey, roughly 240 km east of Ankara, where the Black Sea region meets Central Anatolia. It was a historic trading town on the routes between the Anatolian plateau and the coast, and its bazaars once sold hand-spun textiles, copper utensils, and leather goods. Today it's a quiet provincial city best known as the gateway to some of Turkey's most important Hittite sites — and, famously, for its roasted chickpeas.

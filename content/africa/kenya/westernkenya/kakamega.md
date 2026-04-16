@@ -5,6 +5,7 @@ latitude: 0.49571
 longitude: 34.801549
 title: Kakamega
 type: location
+score: 0.35
 ---
 
 Kakamega is a small town in Western Province, about 65 km north of [Kisumu](/africa/kenya/kisumu). It is the base for trips into the Kakamega Forest Reserve, the easternmost remnant of the great Guineo-Congolian rainforest that once stretched across central Africa. The forest is home to over 300 bird species, colobus and blue monkeys, and a remarkable variety of butterflies and plants found nowhere else in Kenya.

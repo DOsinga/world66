@@ -1,0 +1,200 @@
+{
+  "round": 1025,
+  "timestamp": "2026-04-12T22:05:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marghera",
+      "path": "europe/italy/veneto/marghera",
+      "prior_rank": 6247,
+      "prior_wins": 31,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kuwait",
+      "path": "asia/kuwait",
+      "prior_rank": 7815,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_rank": 7546,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_rank": 7769,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_rank": 8063,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_rank": 8076,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_rank": 7713,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kanye",
+      "path": "africa/botswana/kanye",
+      "prior_rank": 8100,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_rank": 7978,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "ocotal,nueva segovia",
+      "path": "northamerica/nicaragua/ocotalnueva_segov",
+      "prior_rank": 7936,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "beit-jala",
+      "path": "asia/palestinianauthority/beitjala",
+      "prior_rank": 7294,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_rank": 6918,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_rank": 7982,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_rank": 8089,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_geo",
+      "prior_rank": 8115,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Warrens",
+      "path": "northamerica/unitedstates/wisconsin/warrens",
+      "prior_rank": 7959,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_rank": 8092,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_rank": 8196,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_rank": 8060,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_rank": 7941,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ja\u00e9n (province)",
+      "path": "southamerica/peru/northern_pacific_t/jan",
+      "prior_rank": 7994,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Boghni",
+      "path": "africa/algeria/boghni",
+      "prior_rank": 7977,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_rank": 4841,
+      "prior_wins": 39,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_rank": 8084,
+      "prior_wins": 2,
+      "prior_n": 2
+    }
+  ]
+}

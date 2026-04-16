@@ -11,6 +11,7 @@ latitude: 39.0
 longitude: 35.0
 title: Turkey
 type: location
+score: 0.53
 ---
 
 Turkey — or Türkiye, as it has officially styled itself internationally since 2022 — is one of the most rewarding countries to travel in. It sits at the intersection of Europe and Asia, and that geographical fact plays out in everything: the food, the architecture, the people's self-understanding, the politics. You can stand on the Bosphorus in [Istanbul](/asia/turkey/istanbul) and watch tankers cross from one continent to the other. The effect never quite wears off.
@@ -39,7 +40,7 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 - [Kars and Ani](/asia/turkey/kars__ani) — ruins of the medieval Armenian capital near the Armenian border
 - [Van](/asia/turkey/van) — the vast lake in far eastern Turkey
 - [Nemrut Dagi](/asia/turkey/nemrutdagi) — giant stone heads on a remote mountain summit
-- [Gallipoli](/asia/turkey/gallipoli) — the World War I battlefields
+- [Gallipoli](/asia/turkey/canakkale/gallipoli) — the World War I battlefields
 - [Pergamon](/asia/turkey/pergamon) — hilltop Hellenistic city above modern Bergama
 - [Troy](/asia/turkey/troy) — the legendary city near Canakkale
 - [Bursa](/asia/turkey/bursa) — first Ottoman capital, great bazaar, good food

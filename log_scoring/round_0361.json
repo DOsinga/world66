@@ -1,0 +1,200 @@
+{
+  "round": 361,
+  "timestamp": "2026-04-12T09:13:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_mu": 22.473,
+      "prior_sigma": 5.7309,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bordeaux",
+      "path": "europe/france/wine/bordeaux",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bordeaux and the Atlantic Coast",
+      "path": "europe/france/aquitaine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_pa",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Chiang Rai",
+      "path": "asia/thailand/chiangrai",
+      "prior_mu": 24.1328,
+      "prior_sigma": 6.0346,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/franzjosef",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "san juan",
+      "path": "northamerica/dominicanrepublic/san_juan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Midi",
+      "path": "europe/france/midi",
+      "prior_mu": 21.7105,
+      "prior_sigma": 4.7395,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Youghal",
+      "path": "europe/ireland/cork/youghal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Grange",
+      "path": "europe/ireland/cork/grange",
+      "prior_mu": 22.7177,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_mu": 22.2749,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "NAMANPURA",
+      "path": "asia/pakistan/azad_kashmir/bagh/namanpura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

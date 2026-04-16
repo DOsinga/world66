@@ -1,0 +1,200 @@
+{
+  "round": 332,
+  "timestamp": "2026-04-12T09:12:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/lakedistrict",
+      "prior_mu": 26.0222,
+      "prior_sigma": 6.0012,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Sikkim",
+      "path": "asia/india/sikkim",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_mu": 23.2638,
+      "prior_sigma": 5.7694,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Jiangsu Province",
+      "path": "asia/china/jiangsu_province",
+      "prior_mu": 22.2775,
+      "prior_sigma": 5.784,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Manawatu",
+      "path": "australiaandpacific/newzealand/north_island/manawatu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_mu": 22.0606,
+      "prior_sigma": 5.8359,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Resita",
+      "path": "europe/romania/resita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_mu": 22.5266,
+      "prior_sigma": 5.9232,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "lodhana",
+      "path": "asia/pakistan/abbottabad/lodhana",
+      "prior_mu": 20.0242,
+      "prior_sigma": 5.6898,
+      "prior_n": 1
+    }
+  ]
+}

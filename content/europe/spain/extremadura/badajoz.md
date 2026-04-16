@@ -5,6 +5,7 @@ latitude: 38.878187
 longitude: -6.970111
 done:
   location_cleanup: 2026-04-06
+score: 0.47
 ---
 
 Badajoz is one of those Spanish cities where you might be the only tourist in town. Sitting on the banks of the Guadiana River just six kilometres from the Portuguese border, the capital of Extremadura's largest province has an Andalusian warmth mixed with Portuguese influence, a Moorish fortress overlooking the old quarter, and tapas bars where a beer still comes with a free plate of food.

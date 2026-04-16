@@ -1,0 +1,200 @@
+{
+  "round": 1211,
+  "timestamp": "2026-04-12T22:15:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_rank": 1285,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Catalonia",
+      "path": "europe/spain/catalonia",
+      "prior_rank": 1425,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Taiwan",
+      "path": "asia/taiwan",
+      "prior_rank": 1661,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_rank": 2174,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Nashville",
+      "path": "northamerica/unitedstates/tennessee/nashville",
+      "prior_rank": 1400,
+      "prior_wins": 77,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_rank": 1227,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_rank": 258,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lazise",
+      "path": "europe/italy/lombardia/lagodigarda/lazise",
+      "prior_rank": 2812,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_rank": 509,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_prov",
+      "prior_rank": 129,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_rank": 1282,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_rank": 2124,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_rank": 612,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_rank": 928,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_rank": 935,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lakes District",
+      "path": "southamerica/chile/lakesdistrict",
+      "prior_rank": 571,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_rank": 2822,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_rank": 1213,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_rank": 792,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_rank": 476,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Leshan",
+      "path": "asia/china/sichuanprovince/leshan",
+      "prior_rank": 559,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Barossa Valley",
+      "path": "australiaandpacific/australia/southaustralia/barossa_valley",
+      "prior_rank": 1089,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/porlock_and_distri",
+      "prior_rank": 2135,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/queensland/longreach",
+      "prior_rank": 5220,
+      "prior_wins": 18,
+      "prior_n": 2
+    }
+  ]
+}

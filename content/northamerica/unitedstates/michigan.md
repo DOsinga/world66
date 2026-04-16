@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 44.3148
 longitude: -85.6024
+score: 0.5
 title: Michigan
 type: location
 ---

@@ -1,10 +1,11 @@
 ---
-title: South East
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 51.468032
 longitude: -0.066685
-done:
-  location_cleanup: 2026-04-04
+score: 0.47
+title: South East
+type: location
 ---
 
 The South East of England stretches from the fringes of [London](/europe/unitedkingdom/england/london) to the coast, packing an extraordinary amount of history, landscape and character into a compact region. This is the part of England closest to the continent, and it has been a gateway, a battleground and a retreat for centuries.

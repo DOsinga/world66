@@ -5,6 +5,7 @@ latitude: 33.559
 longitude: 133.5311
 title: Kōchi
 type: location
+score: 0.64
 ---
 
 Kōchi is the most characterful city on Shikoku, and many people find it the most likeable. Set on the Pacific coast of the island's southern prefecture, it is a city of around 320,000 that retains a genuine roughness — a hangover from its days as the capital of Tosa, a domain historically so remote and rugged that the shogunate could never quite tame it. That independent spirit is still here, in the directness of the people, the strength of the local sake, and the swagger of Kōchi's contribution to the Meiji Restoration.

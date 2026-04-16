@@ -1,0 +1,200 @@
+{
+  "round": 1697,
+  "timestamp": "2026-04-13T10:43:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cambodia",
+      "path": "asia/cambodia",
+      "prior_score": 7.0899,
+      "prior_variance": 0.676148,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 5.741,
+      "prior_variance": 0.452165,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 4.0046,
+      "prior_variance": 0.340312,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 3.8344,
+      "prior_variance": 0.308785,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_score": 3.1894,
+      "prior_variance": 0.3269,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 1.2327,
+      "prior_variance": 0.295314,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bellaria",
+      "path": "europe/italy/emiliaromagna/bellaria",
+      "prior_score": 0.8857,
+      "prior_variance": 0.34851,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_som",
+      "prior_score": 0.7902,
+      "prior_variance": 0.313598,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 1.5638,
+      "prior_variance": 0.425724,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 1.2282,
+      "prior_variance": 0.514239,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": -0.1703,
+      "prior_variance": 0.3092,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -0.9214,
+      "prior_variance": 0.329237,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/plymouth",
+      "prior_score": -0.4752,
+      "prior_variance": 0.347107,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -0.4036,
+      "prior_variance": 0.274274,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Amriswil",
+      "path": "europe/switzerland/amriswil",
+      "prior_score": -2.065,
+      "prior_variance": 0.318345,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_score": -1.6641,
+      "prior_variance": 0.346032,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -3.9365,
+      "prior_variance": 0.333219,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -0.7851,
+      "prior_variance": 0.388119,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -2.9906,
+      "prior_variance": 0.29558,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Torreon",
+      "path": "northamerica/mexico/yucatan/torreon",
+      "prior_score": -6.065,
+      "prior_variance": 0.29756,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_score": -2.1391,
+      "prior_variance": 0.287243,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": -1.4311,
+      "prior_variance": 0.513432,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Duhok",
+      "path": "asia/iraq/arbil/duhok",
+      "prior_score": -6.7928,
+      "prior_variance": 0.40396,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kaduna",
+      "path": "africa/nigeria/kaduna",
+      "prior_score": -7.2874,
+      "prior_variance": 0.645152,
+      "prior_n": 3
+    }
+  ]
+}

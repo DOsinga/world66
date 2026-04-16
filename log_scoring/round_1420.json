@@ -1,0 +1,200 @@
+{
+  "round": 1420,
+  "timestamp": "2026-04-12T22:26:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Caledonia",
+      "path": "australiaandpacific/newcaledonia",
+      "prior_rank": 750,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_rank": 3163,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_rank": 4139,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_rank": 3040,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cannon Beach",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
+      "prior_rank": 1280,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_rank": 1397,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island/koh_talu",
+      "prior_rank": 1098,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_rank": 1897,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_rank": 2080,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_rank": 598,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_rank": 1427,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_rank": 1912,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_rank": 2508,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Qingdao",
+      "path": "asia/china/qingdao",
+      "prior_rank": 2140,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_rank": 2877,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_rank": 1215,
+      "prior_wins": 68,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_rank": 1245,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_rank": 2883,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/torquay",
+      "prior_rank": 2376,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_rank": 3048,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_rank": 1423,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_rank": 2770,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_rank": 4534,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_rank": 1895,
+      "prior_wins": 47,
+      "prior_n": 3
+    }
+  ]
+}

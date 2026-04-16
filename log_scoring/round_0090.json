@@ -1,0 +1,200 @@
+{
+  "round": 90,
+  "timestamp": "2026-04-12T08:03:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lanzarote",
+      "path": "europe/spain/canaryislands/lanzarote",
+      "prior_mu": 25.4,
+      "prior_sigma": 4.36,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "El Yunque",
+      "path": "northamerica/puertorico/elyunque",
+      "prior_mu": 25.03,
+      "prior_sigma": 2.86,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_mu": 22.35,
+      "prior_sigma": 3.99,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region",
+      "prior_mu": 26.59,
+      "prior_sigma": 3.32,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_mu": 23.1,
+      "prior_sigma": 3.33,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_mu": 21.58,
+      "prior_sigma": 3.88,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mosjoen",
+      "path": "europe/norway/mosjoen",
+      "prior_mu": 20.92,
+      "prior_sigma": 3.98,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_mu": 21.19,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_mu": 21.43,
+      "prior_sigma": 3.56,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
+      "prior_mu": 20.98,
+      "prior_sigma": 2.79,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_mu": 20.54,
+      "prior_sigma": 2.84,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_mu": 21.26,
+      "prior_sigma": 4.32,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gambia",
+      "path": "africa/gambia",
+      "prior_mu": 20.84,
+      "prior_sigma": 3.11,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_mu": 21.54,
+      "prior_sigma": 3.86,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_mu": 20.34,
+      "prior_sigma": 3.64,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_mu": 21.31,
+      "prior_sigma": 4.5,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Copiapo",
+      "path": "southamerica/chile/copiapo",
+      "prior_mu": 20.99,
+      "prior_sigma": 3.88,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_mu": 21.22,
+      "prior_sigma": 3.77,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_mu": 21.03,
+      "prior_sigma": 3.81,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_mu": 18.0,
+      "prior_sigma": 3.68,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_mu": 21.3,
+      "prior_sigma": 4.47,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Khawas",
+      "path": "asia/pakistan/azad_kashmir/bagh/islam_nagar_bhount_1/khawas",
+      "prior_mu": 18.9,
+      "prior_sigma": 4.05,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tibbi Qaisrani",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
+      "prior_mu": 11.87,
+      "prior_sigma": 3.86,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_mu": 12.69,
+      "prior_sigma": 3.9,
+      "prior_n": 5
+    }
+  ]
+}

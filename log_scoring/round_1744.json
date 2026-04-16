@@ -1,0 +1,200 @@
+{
+  "round": 1744,
+  "timestamp": "2026-04-13T10:47:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valencia",
+      "path": "europe/spain/spanishcostas/valencia",
+      "prior_score": 7.8055,
+      "prior_variance": 0.448334,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 4.7483,
+      "prior_variance": 0.297512,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Busan",
+      "path": "asia/southkorea/pusan",
+      "prior_score": 8.0961,
+      "prior_variance": 0.387126,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 5.5629,
+      "prior_variance": 0.295645,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.1648,
+      "prior_variance": 0.439332,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": 0.4384,
+      "prior_variance": 0.368415,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/south_island/west_coast",
+      "prior_score": 4.8234,
+      "prior_variance": 0.420691,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.894,
+      "prior_variance": 0.36278,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 0.5377,
+      "prior_variance": 0.403465,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Warnem\u00fcnde",
+      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
+      "prior_score": -0.1113,
+      "prior_variance": 0.400681,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.0361,
+      "prior_variance": 0.270953,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "La desirade",
+      "path": "northamerica/guadeloupe/ladesirade",
+      "prior_score": -0.9896,
+      "prior_variance": 0.255972,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -2.4036,
+      "prior_variance": 0.363868,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_score": -1.7673,
+      "prior_variance": 0.498455,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_score": -2.309,
+      "prior_variance": 0.152725,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.7707,
+      "prior_variance": 0.31124,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverp/kendal",
+      "prior_score": -1.7431,
+      "prior_variance": 0.31977,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Achterhoek & Liemers",
+      "path": "europe/netherlands/achterhoek__lieme",
+      "prior_score": -2.6708,
+      "prior_variance": 0.16228,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_score": -3.2454,
+      "prior_variance": 0.232895,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Manahawkin",
+      "path": "northamerica/unitedstates/newjersey/manahawkin",
+      "prior_score": -3.9672,
+      "prior_variance": 0.472688,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Port Richey",
+      "path": "northamerica/unitedstates/florida/portrichey",
+      "prior_score": -3.9369,
+      "prior_variance": 0.297112,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Nawanshahr",
+      "path": "asia/india/punjab/nawanshahr",
+      "prior_score": -6.4361,
+      "prior_variance": 0.322428,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -5.8195,
+      "prior_variance": 0.335025,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -8.5835,
+      "prior_variance": 0.469776,
+      "prior_n": 4
+    }
+  ]
+}

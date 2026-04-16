@@ -1,0 +1,200 @@
+{
+  "round": 1912,
+  "timestamp": "2026-04-13T15:53:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 8.0698,
+      "prior_variance": 0.451795,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_score": 3.1448,
+      "prior_variance": 0.261381,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 5.4206,
+      "prior_variance": 0.345589,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_score": 2.082,
+      "prior_variance": 0.397893,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Shasta Cascade",
+      "path": "northamerica/unitedstates/california/shastacascade",
+      "prior_score": 1.7837,
+      "prior_variance": 0.369327,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_notting/buxton",
+      "prior_score": -2.1202,
+      "prior_variance": 0.356701,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Oukaimeden",
+      "path": "africa/morocco/oukaimeden",
+      "prior_score": 0.9831,
+      "prior_variance": 0.334395,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_score": -2.4995,
+      "prior_variance": 0.317822,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_score": -6.7142,
+      "prior_variance": 0.599125,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 1.0435,
+      "prior_variance": 0.283658,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_score": -3.26,
+      "prior_variance": 0.160617,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Motta S. Anastasia",
+      "path": "europe/italy/sicily/motta_s_anastasia",
+      "prior_score": -2.0344,
+      "prior_variance": 0.341137,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Aba",
+      "path": "asia/china/aba",
+      "prior_score": -1.5461,
+      "prior_variance": 0.255237,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": -1.9628,
+      "prior_variance": 0.304039,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Maasin City",
+      "path": "asia/philippines/southern_leyte/maasin_city",
+      "prior_score": -2.8406,
+      "prior_variance": 0.286781,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Baja California",
+      "path": "northamerica/mexico/yucatan/bajacalifornia",
+      "prior_score": -0.4308,
+      "prior_variance": 0.284202,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -5.8041,
+      "prior_variance": 0.314734,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -7.1313,
+      "prior_variance": 0.751988,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Pitcairn Islands",
+      "path": "australiaandpacific/pitcairnislands",
+      "prior_score": -0.7559,
+      "prior_variance": 0.483322,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bechar",
+      "path": "africa/algeria/bechar",
+      "prior_score": -6.288,
+      "prior_variance": 0.37047,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.5564,
+      "prior_variance": 0.420702,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Bukavu",
+      "path": "africa/congokinshasa/bukavu",
+      "prior_score": -7.6933,
+      "prior_variance": 0.3014,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.7116,
+      "prior_variance": 0.425887,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hinjilicut",
+      "path": "asia/india/orissa/berhampur/aska/hinjilicut",
+      "prior_score": -8.7942,
+      "prior_variance": 0.634242,
+      "prior_n": 5
+    }
+  ]
+}

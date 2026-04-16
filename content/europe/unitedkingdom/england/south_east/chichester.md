@@ -5,6 +5,7 @@ latitude: 50.836486
 longitude: -0.779172
 title: Chichester
 type: location
+score: 0.53
 ---
 
 Chichester is a small cathedral city in West Sussex, close to [Portsmouth](/europe/unitedkingdom/england/south_east/portsmouth) and the South Downs. The Roman walls that encircle the city centre are still largely intact, and the street plan follows the Roman grid, with four main streets meeting at the medieval Market Cross in the centre.

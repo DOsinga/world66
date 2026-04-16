@@ -1,0 +1,200 @@
+{
+  "round": 1872,
+  "timestamp": "2026-04-13T10:59:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barbados",
+      "path": "northamerica/barbados",
+      "prior_score": 8.2163,
+      "prior_variance": 0.334406,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "St. John",
+      "path": "northamerica/virginislands/stjohn",
+      "prior_score": 7.6503,
+      "prior_variance": 0.314787,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/nadi",
+      "prior_score": 5.5916,
+      "prior_variance": 0.328185,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_score": 7.2137,
+      "prior_variance": 0.315236,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 7.6298,
+      "prior_variance": 0.37564,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Adirondacks",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks",
+      "prior_score": 5.4422,
+      "prior_variance": 0.337235,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 4.3885,
+      "prior_variance": 0.315863,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Zambia",
+      "path": "africa/zambia",
+      "prior_score": -0.5529,
+      "prior_variance": 0.363756,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Champagne",
+      "path": "europe/france/east/champagne",
+      "prior_score": 5.7444,
+      "prior_variance": 0.353256,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/ventimiglia",
+      "prior_score": 1.6809,
+      "prior_variance": 0.35008,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Khentii",
+      "path": "asia/mongolia/khentii",
+      "prior_score": -2.2166,
+      "prior_variance": 0.244872,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.6662,
+      "prior_variance": 0.315364,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 1.7117,
+      "prior_variance": 0.237232,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 0.4486,
+      "prior_variance": 0.396114,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": 0.567,
+      "prior_variance": 0.31597,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_score": -2.8034,
+      "prior_variance": 0.185172,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_lla",
+      "prior_score": -1.3189,
+      "prior_variance": 0.279548,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_score": -5.3346,
+      "prior_variance": 0.349104,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -2.5211,
+      "prior_variance": 0.433239,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bochum",
+      "path": "europe/germany/bochum",
+      "prior_score": -2.7716,
+      "prior_variance": 0.324275,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_score": -3.0772,
+      "prior_variance": 0.171361,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_score": -2.4147,
+      "prior_variance": 0.300447,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -2.4591,
+      "prior_variance": 0.278786,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "sehnsa",
+      "path": "asia/pakistan/azad_kashmir/sehnsa",
+      "prior_score": -7.5145,
+      "prior_variance": 0.320575,
+      "prior_n": 5
+    }
+  ]
+}

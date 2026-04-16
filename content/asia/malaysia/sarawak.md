@@ -1,10 +1,11 @@
 ---
-title: "Sarawak"
+title: Sarawak
 type: location
 latitude: 2.502385
 longitude: 112.954728
 done:
   location_cleanup: '2026-04-09'
+score: 0.63
 ---
 
 Sarawak is the largest state in Malaysia, occupying the northwest coast of Borneo. It is the destination for travellers who want serious jungle — vast tracts of rainforest, longhouse communities of the Iban and other Dayak peoples, orangutans, proboscis monkeys, and some of the world's most spectacular caves. Most visits begin in **Kuching**, a surprisingly liveable riverside city with good food, a strong Peranakan Chinese heritage, and easy access to wildlife parks.

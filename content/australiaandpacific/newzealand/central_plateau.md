@@ -5,6 +5,7 @@ latitude: -38.8
 longitude: 175.9
 title: Central Plateau
 type: location
+score: 0.57
 ---
 
 The Central Plateau is the volcanic heart of New Zealand's North Island — a high, dramatic landscape of active volcanoes, vast forests, and the country's largest lake. The three peaks of the Tongariro Volcanic Plateau — Ruapehu, Ngauruhoe, and Tongariro — dominate the skyline, and the Tongariro Alpine Crossing is often called the best one-day walk in New Zealand.

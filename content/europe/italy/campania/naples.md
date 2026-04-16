@@ -1,8 +1,11 @@
 ---
-title: "Naples"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 40.835885
 longitude: 14.248768
+score: 0.73
+title: Naples
+type: location
 ---
 
 *Europe > Italy > Campania > Naples*

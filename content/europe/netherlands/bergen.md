@@ -5,6 +5,7 @@ latitude: 52.670228
 longitude: 4.701162
 title: Bergen
 type: location
+score: 0.45
 ---
 
 Bergen is the artist village of North Holland — a green, quiet place where trees outnumber houses and the dunes and polders are always a short walk away. Located just a few kilometres from [Alkmaar](/europe/netherlands/alkmaar), famous for its cheese market, Bergen has attracted painters, poets, and musicians for over a century. The Bergen School of expressionist painters made their name here in the early 20th century, and the creative atmosphere hasn't faded.

@@ -1,0 +1,200 @@
+{
+  "round": 997,
+  "timestamp": "2026-04-12T22:03:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/chiswick",
+      "prior_rank": 7337,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pinner",
+      "path": "europe/unitedkingdom/england/pinner",
+      "prior_rank": 6610,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_rank": 8056,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_rank": 5838,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Montrose",
+      "path": "northamerica/unitedstates/texas/houston/montrose",
+      "prior_rank": 3939,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_rank": 7538,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Gronau",
+      "path": "europe/germany/northrhinewestphalia/gronau",
+      "prior_rank": 6823,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_rank": 6247,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_rank": 5819,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Orem",
+      "path": "northamerica/unitedstates/utah/orem",
+      "prior_rank": 7199,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_rank": 5376,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Mallakast\u00ebr",
+      "path": "europe/albania/mallakaster",
+      "prior_rank": 6633,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jacmel",
+      "path": "northamerica/haiti/jacmel",
+      "prior_rank": 6947,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_rank": 6231,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_rank": 7790,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_rank": 7370,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_rank": 7732,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_rank": 7766,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Vinnista",
+      "path": "europe/ukraine/vinnista",
+      "prior_rank": 7566,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "El Progreso",
+      "path": "northamerica/honduras/elprogreso",
+      "prior_rank": 8061,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "S.Mamede Infesta",
+      "path": "europe/portugal/smamedeinfesta",
+      "prior_rank": 7349,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_rank": 6260,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_rank": 7394,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_rank": 2416,
+      "prior_wins": 48,
+      "prior_n": 4
+    }
+  ]
+}

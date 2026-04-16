@@ -5,6 +5,7 @@ latitude: 50.5707
 longitude: -3.9188
 done:
   location_cleanup: 2026-04-05
+score: 0.58
 ---
 
 Dartmoor is the largest open wilderness in southern England — a 954-square-kilometre granite upland in the middle of Devon, covered in heather, rough pasture, bogs, and the strange weathered rock outcrops known as tors. It has a reputation for bleakness, and on a wet day in February with the mist closing in it lives up to it. But in summer, when the heather flowers and the ponies wander the open moor, Dartmoor is one of the most atmospheric landscapes in Britain.

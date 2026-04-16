@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 20.4625
 longitude: 84.2708
+score: 0.47
 title: Odisha
 type: location
 ---

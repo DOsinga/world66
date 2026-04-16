@@ -5,6 +5,7 @@ latitude: 34.198328
 longitude: -86.164942
 title: Boaz
 type: location
+score: 0.32
 ---
 
 Boaz is a small town in the foothills of northeastern Alabama, best known as a factory outlet shopping destination that draws bargain hunters from across the region. With hundreds of outlet stores clustered along the main highway, Boaz bills itself as the "Outlet Capital of Alabama" — and for shoppers who make the trip, the prices often justify the claim.

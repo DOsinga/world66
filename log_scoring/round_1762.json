@@ -1,0 +1,200 @@
+{
+  "round": 1762,
+  "timestamp": "2026-04-13T10:49:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 7.6128,
+      "prior_variance": 0.368816,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 2.0622,
+      "prior_variance": 0.323707,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 2.4981,
+      "prior_variance": 0.312341,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_score": -0.5321,
+      "prior_variance": 0.30893,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 0.3511,
+      "prior_variance": 0.349577,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pereira",
+      "path": "southamerica/colombia/pereira",
+      "prior_score": -0.7716,
+      "prior_variance": 0.31934,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ezulwini Valley",
+      "path": "africa/swaziland/ezulwinivalley",
+      "prior_score": 0.46,
+      "prior_variance": 0.256435,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/ramsgate",
+      "prior_score": -0.1356,
+      "prior_variance": 0.31315,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_score": -2.2699,
+      "prior_variance": 0.296549,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -0.638,
+      "prior_variance": 0.2244,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_score": -2.1961,
+      "prior_variance": 0.273,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_score": -0.1713,
+      "prior_variance": 0.247554,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/hamilton",
+      "prior_score": -0.2283,
+      "prior_variance": 0.299851,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": 0.3957,
+      "prior_variance": 0.283446,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -0.0698,
+      "prior_variance": 0.293966,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -1.4267,
+      "prior_variance": 0.326009,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.3191,
+      "prior_variance": 0.313469,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_score": -1.5444,
+      "prior_variance": 0.289069,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nanded",
+      "path": "asia/india/maharashtra/mumbai/nanded",
+      "prior_score": -5.1415,
+      "prior_variance": 0.363024,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -0.5758,
+      "prior_variance": 0.26773,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Miramar",
+      "path": "northamerica/unitedstates/florida/miramar",
+      "prior_score": -4.7389,
+      "prior_variance": 0.298792,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Arkansas",
+      "path": "northamerica/unitedstates/arkansas",
+      "prior_score": -2.8412,
+      "prior_variance": 0.448181,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -6.6011,
+      "prior_variance": 0.438948,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -5.3147,
+      "prior_variance": 0.283402,
+      "prior_n": 6
+    }
+  ]
+}

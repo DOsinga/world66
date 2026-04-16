@@ -5,6 +5,7 @@ latitude: 37.452
 longitude: -122.178
 title: Menlo Park
 type: location
+score: 0.36
 ---
 
 Menlo Park is a small, affluent city on the San Francisco Peninsula, wedged between Palo Alto and Redwood City. It is best known as the headquarters of Meta (formerly Facebook), but long before that it was home to SRI International, the research institute where the computer mouse was invented and the first ARPANET message was sent.

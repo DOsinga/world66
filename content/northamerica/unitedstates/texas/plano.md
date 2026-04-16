@@ -5,6 +5,7 @@ latitude: 33.0198
 longitude: -96.6989
 title: Plano
 type: location
+score: 0.32
 ---
 
 Plano is a prosperous suburb north of Dallas that has grown into a city in its own right — population approaching 300,000, corporate headquarters stacked along the tollways, and a downtown that has been carefully rebuilt into something genuinely worth visiting. Toyota North America is here. Liberty Mutual. JPMorgan Chase has a major campus. The economy is as solid as Texas real estate.

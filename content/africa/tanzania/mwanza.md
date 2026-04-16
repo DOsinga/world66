@@ -5,6 +5,7 @@ latitude: -2.5197
 longitude: 32.9014
 title: Mwanza
 type: location
+score: 0.45
 ---
 
 Mwanza is Tanzania's second-largest city, spread along the southern shore of Lake Victoria among dramatic granite boulders. It is a busy, sprawling port town — not conventionally pretty, but with a character quite different from the tourist trail further east.

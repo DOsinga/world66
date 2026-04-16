@@ -5,6 +5,7 @@ latitude: 47.656558
 longitude: 23.571984
 title: Baia Mare
 type: location
+score: 0.44
 ---
 
 Baia Mare is the capital of Maramures County in northwestern Romania, about 450 km from [Budapest](/europe/hungary/budapest). It sits at the foot of the Gutai Mountains, which are of volcanic origin and give the surrounding landscape a dramatic, rugged feel. The city itself is a pleasant regional centre with a well-preserved medieval core and a mining heritage that stretches back centuries.

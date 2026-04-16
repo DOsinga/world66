@@ -1,11 +1,11 @@
 ---
-title: "Canton Fair"
-type: poi
-accessibility: "both location has subway access"
-type: "Other"
-url: "www.cantonfair.org.cn"
+accessibility: both location has subway access
+category: Sight
 latitude: 23.103443
 longitude: 113.354123
+title: Canton Fair
+type: Other
+url: www.cantonfair.org.cn
 ---
 
 Guangzhou is not a great place for sightseeing, but famous for shopping and food. Overall, it is more business friendly than for tourists. The Canton Fair was held twice a year, accounted for 1/3 of all trades taken place in China. The fair is held in April and October. Make sure to avoid this period unless you want to go there to attend the fair.

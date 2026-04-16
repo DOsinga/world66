@@ -5,6 +5,7 @@ latitude: -5.805398
 longitude: -35.20809
 title: Natal
 type: location
+score: 0.53
 ---
 
 Natal is the beach capital of northeastern [Brazil](/southamerica/brazil). It has a few sights — the Forte dos Reis Magos and the Museu Câmara Cascudo — but the main reason to come here is to tan, swim, and have fun.

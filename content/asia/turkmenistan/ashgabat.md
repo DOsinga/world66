@@ -5,6 +5,7 @@ latitude: 37.937832
 longitude: 58.235947
 title: Ashgabat
 type: location
+score: 0.45
 ---
 
 Ashgabat is one of the world's strangest capitals — a gleaming white marble city marooned in the Karakum desert, built almost entirely to glorify a single man. The late president Saparmurat Niyazov, who renamed himself Turkmenbashi ("Father of All Turkmen"), turned this orderly Soviet garrison town into a monument to his own personality cult. Golden statues of him once rotated to face the sun. Streets were renamed after his mother. The whole city feels less like a place where people live than a stage set for a state that no longer exists.

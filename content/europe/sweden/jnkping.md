@@ -5,6 +5,7 @@ latitude: 57.782563
 longitude: 14.165719
 title: Jönköping
 type: location
+score: 0.47
 ---
 
 Jönköping sits at the southern tip of Lake Vättern, Sweden's second-largest lake, in south-central Sweden. The lake dominates the town's character: sunsets over Vättern from the city pier are famously beautiful, and in summer the long beach promenade along the waterfront becomes the focus of local life.

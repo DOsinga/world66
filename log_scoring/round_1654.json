@@ -1,0 +1,200 @@
+{
+  "round": 1654,
+  "timestamp": "2026-04-13T10:39:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kerala",
+      "path": "asia/india/kerala",
+      "prior_score": 7.1066,
+      "prior_variance": 0.364006,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 2.2921,
+      "prior_variance": 0.437511,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Fort-de-France",
+      "path": "northamerica/martinique/fortdefrance",
+      "prior_score": 2.3235,
+      "prior_variance": 0.413803,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 1.7041,
+      "prior_variance": 0.38434,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Guam",
+      "path": "australiaandpacific/guam",
+      "prior_score": 1.1453,
+      "prior_variance": 0.40125,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 2.8941,
+      "prior_variance": 0.432443,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 3.0765,
+      "prior_variance": 0.340392,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Northern Kenya",
+      "path": "africa/kenya/northernkenya",
+      "prior_score": -1.1519,
+      "prior_variance": 0.343249,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 1.1384,
+      "prior_variance": 0.322738,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Golden Ears",
+      "path": "northamerica/canada/britishcolumbia/vancouver/goldenears",
+      "prior_score": 2.5356,
+      "prior_variance": 0.375061,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.7218,
+      "prior_variance": 0.438956,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_score": 1.6605,
+      "prior_variance": 0.377843,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lefkara",
+      "path": "asia/cyprus/lefkara",
+      "prior_score": 2.1559,
+      "prior_variance": 0.461764,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.4835,
+      "prior_variance": 0.251801,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 2.6088,
+      "prior_variance": 0.324282,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/manchester",
+      "prior_score": 1.1414,
+      "prior_variance": 0.397126,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_score": -1.2275,
+      "prior_variance": 0.34166,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_score": -0.0503,
+      "prior_variance": 0.365174,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_score": -1.1719,
+      "prior_variance": 0.407121,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_score": -1.4792,
+      "prior_variance": 0.301054,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.8615,
+      "prior_variance": 0.331256,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -0.5049,
+      "prior_variance": 0.323653,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bialystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -0.7145,
+      "prior_variance": 0.326543,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -4.0095,
+      "prior_variance": 0.347307,
+      "prior_n": 4
+    }
+  ]
+}

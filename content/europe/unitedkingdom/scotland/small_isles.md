@@ -5,6 +5,7 @@ latitude: 56.9326
 longitude: -6.2857
 title: Small Isles
 type: location
+score: 0.51
 ---
 
 The Small Isles are four islands — Rum, Eigg, Muck, and Canna — lying just south of [Skye](/europe/unitedkingdom/scotland/skye) in the Inner Hebrides. Together they form one of the quietest corners of Scotland, with barely a thousand people between them and no cars on some of the islands at all.

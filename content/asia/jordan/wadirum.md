@@ -5,6 +5,7 @@ latitude: 29.508444
 longitude: 35.336215
 done:
   location_cleanup: 2026-04-07
+score: 0.75
 ---
 
 Wadi Rum is Lawrence of Arabia country. A vast desert landscape of dry riverbeds, natural rock bridges, high mountains, and wind-swept black hills stretching to the horizon. The scenery is spectacular and unlike anything else in the Middle East — towering sandstone cliffs rise from pink and red sand, and the silence is immense.

@@ -1,0 +1,200 @@
+{
+  "round": 1436,
+  "timestamp": "2026-04-12T22:27:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Qu\u00e9bec",
+      "path": "northamerica/canada/quebec",
+      "prior_rank": 206,
+      "prior_wins": 103,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_rank": 1512,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_rank": 3182,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bridgetown",
+      "path": "northamerica/barbados/bridgetown",
+      "prior_rank": 1064,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_rank": 885,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Auckland (city)",
+      "path": "australiaandpacific/newzealand/auckland_region/auckland",
+      "prior_rank": 1067,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_rank": 169,
+      "prior_wins": 208,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_rank": 804,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_rank": 1190,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cebu",
+      "path": "asia/philippines/cebu",
+      "prior_rank": 362,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "T\u00f3rshavn",
+      "path": "europe/faroeislands/torshavn",
+      "prior_rank": 475,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_rank": 1062,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Laos",
+      "path": "asia/laos",
+      "prior_rank": 445,
+      "prior_wins": 96,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_rank": 4518,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_rank": 476,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_rank": 1844,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_rank": 958,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Charlottenburg",
+      "path": "europe/germany/berlin/charlottenburg",
+      "prior_rank": 1630,
+      "prior_wins": 64,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/napier",
+      "prior_rank": 658,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_rank": 1419,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_rank": 594,
+      "prior_wins": 113,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_rank": 1015,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/losangeles/catalina",
+      "prior_rank": 2410,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_rank": 1881,
+      "prior_wins": 50,
+      "prior_n": 4
+    }
+  ]
+}

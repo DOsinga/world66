@@ -5,6 +5,7 @@ latitude: 40.390527
 longitude: 16.556732
 title: Pisticci
 type: location
+score: 0.43
 ---
 
 Pisticci is a hilltop town in [Basilicata](/europe/italy/basilicata), perched dramatically above the calanchi — deeply eroded clay ravines that give the surrounding landscape a stark, lunar beauty. The town has a long history: it flourished under the Normans, and the old centre retains a tangle of narrow streets and white-washed houses.

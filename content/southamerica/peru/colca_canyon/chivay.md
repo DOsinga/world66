@@ -5,6 +5,7 @@ latitude: -15.636688
 longitude: -71.602217
 title: Chivay
 type: location
+score: 0.6
 ---
 
 Chivay is the first town in the Colca Valley when coming from [Arequipa](/southamerica/peru/arequipa), sitting at about 3,700 metres. It is the main transport hub for the canyon, with plenty of hotels at generally low prices — no need to book ahead.

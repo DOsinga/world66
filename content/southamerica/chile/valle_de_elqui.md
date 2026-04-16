@@ -5,6 +5,7 @@ latitude: -30.13
 longitude: -70.5
 title: Valle de Elqui
 type: location
+score: 0.52
 ---
 
 The Elqui Valley runs east from La Serena into the Andes, climbing through a narrow green corridor of vineyards and fruit orchards set against bone-dry brown mountains. The sky here is among the clearest on earth — several major astronomical observatories are located in the surrounding hills, and on a moonless night the Milky Way is so bright it casts shadows.

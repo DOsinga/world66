@@ -5,6 +5,7 @@ latitude: 7.5563
 longitude: 99.6114
 done:
   location_cleanup: 2026-04-07
+score: 0.56
 ---
 
 Trang province is southern Thailand's best-kept secret: the same dramatic limestone karsts, white-sand beaches, and turquoise Andaman Sea as Krabi and Phang Nga, but without the crowds. The coastline stretches nearly 200 kilometres and shelters more than 46 islands, many of them barely visited.

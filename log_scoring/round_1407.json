@@ -1,0 +1,200 @@
+{
+  "round": 1407,
+  "timestamp": "2026-04-12T22:26:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Finalese park",
+      "path": "europe/italy/liguria/finalesepark",
+      "prior_rank": 4820,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_rank": 3422,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_rank": 5106,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Liechtenstein",
+      "path": "europe/liechtenstein",
+      "prior_rank": 2518,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_rank": 3366,
+      "prior_wins": 51,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Nor\u00f0oyggjar",
+      "path": "europe/faroeislands/eysturoy/noroyggjar",
+      "prior_rank": 2557,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_rank": 1124,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_rank": 4518,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_rank": 4858,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Dilijan",
+      "path": "europe/armenia/dilijan",
+      "prior_rank": 3968,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_rank": 4835,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Koszeg",
+      "path": "europe/hungary/koszeg",
+      "prior_rank": 2856,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_rank": 3216,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_rank": 2748,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_rank": 5813,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/truckee",
+      "prior_rank": 2649,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Marina del Rey",
+      "path": "northamerica/unitedstates/california/losangeles/marinadelrey",
+      "prior_rank": 3081,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_rank": 2056,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_rank": 1945,
+      "prior_wins": 62,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_rank": 3250,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_rank": 3624,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_rank": 5823,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_rank": 4165,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Cebrayil",
+      "path": "europe/azerbaijan/cebrayil",
+      "prior_rank": 7547,
+      "prior_wins": 18,
+      "prior_n": 4
+    }
+  ]
+}

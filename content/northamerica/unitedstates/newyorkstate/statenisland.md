@@ -5,6 +5,7 @@ latitude: 40.5835
 longitude: -74.1496
 title: Staten Island
 type: location
+score: 0.37
 ---
 
 Staten Island is the most suburban and least visited of New York City's five boroughs, separated from Manhattan by a harbour and from the other boroughs by culture as much as geography. Most visitors only see it from the free Staten Island Ferry, which offers one of the best views of the Statue of Liberty and the Lower Manhattan skyline — and then they ride straight back. But the island itself has a few things worth stopping for.

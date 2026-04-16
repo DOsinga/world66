@@ -5,6 +5,7 @@ latitude: 20.9167
 longitude: 17.0833
 title: Wour
 type: location
+score: 0.18
 ---
 
 Wour is the border post on the route from Libya's al-Qatrun to the Tibesti Mountains, one of the most remote and least-traveled trans-Saharan crossings. It is not a destination in itself, but rather a necessary stop for paperwork and supplies on the way into the Tibesti.

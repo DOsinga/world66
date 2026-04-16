@@ -1,0 +1,200 @@
+{
+  "round": 1195,
+  "timestamp": "2026-04-12T22:14:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sri Lanka",
+      "path": "asia/srilanka",
+      "prior_rank": 364,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/wanaka",
+      "prior_rank": 494,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_rank": 67,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_rank": 106,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_rank": 243,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_rank": 347,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_rank": 1082,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_rank": 234,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_rank": 477,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_rank": 930,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Anguilla",
+      "path": "northamerica/anguilla",
+      "prior_rank": 1552,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_rank": 1761,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_rank": 355,
+      "prior_wins": 82,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Miljet Island",
+      "path": "europe/croatia/miljet_island",
+      "prior_rank": 1708,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_rank": 100,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Etretat",
+      "path": "europe/france/normandybrittany/etretat",
+      "prior_rank": 628,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_rank": 792,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_rank": 371,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_rank": 113,
+      "prior_wins": 107,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_rank": 1722,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Menton",
+      "path": "europe/france/midi/menton",
+      "prior_rank": 798,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_rank": 838,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_rank": 414,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_rank": 525,
+      "prior_wins": 159,
+      "prior_n": 8
+    }
+  ]
+}

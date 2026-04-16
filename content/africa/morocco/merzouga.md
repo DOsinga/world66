@@ -1,16 +1,15 @@
 ---
-title: "Merzouga"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 31.099917
 longitude: -4.014088
+score: 0.69
+title: Merzouga
+type: location
 ---
 
-Watching the sun rise or set over the sand dunes of Merzouga may be the most spectacular experience you have on your trip to Morocco. The Erg Chebbi, the name of these sand dunes, is said to have some of the highest dunes in Morocco. Indeed, the dunes and the desert wildlife are impressive. Merzouga is an excellent base from which to explore the desert and bird-watchers will be enthralled with what they see. In spring, a lake forms near Merzouga which attracts pink flamingos. Other rare birds stop here during spring migration. The desert is also the year round environment for many desert reptiles and mammals.
+Merzouga is a small Berber village on the western edge of the Erg Chebbi, a 28-kilometre stretch of spectacular sand dunes in southeastern Morocco, close to the Algerian border. The dunes reach up to 150 metres high and shift from pale gold to burnt orange depending on the sun — sunrise and sunset are genuinely unforgettable, and for most visitors Erg Chebbi is one of the single best experiences in Morocco.
 
-A camel trip, for a couple hours, is a great way to see the dunes. For those who are used to getting saddle-sore, or are up for the ultimate adventure, there are two to three day desert tours on camel. You won’t have to look hard for a guide, it’s better to ask the management at your hotel for a reliable one.
+The usual programme is a camel trek from the village out into the dunes, overnight in a desert camp (ranging from basic Berber tents to full glamping with beds and ensuite bathrooms), and a sunrise return. Longer three- to five-day treks cover a wider sweep of the desert; 4×4 trips reach the nomadic encampments, the fossil quarries, and the seasonal Lake Dayet Srji, where pink flamingos appear after spring rains.
 
-This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
-
-Webdesign and logo (c) World66.com B.V.
-
-World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)
+Merzouga is a long drive from anywhere — 8–10 hours from Marrakech or Fes via the Dadès and Todra gorges. Most visitors arrive as part of a longer southern Morocco loop. The nearest town of any size is Rissani to the north.

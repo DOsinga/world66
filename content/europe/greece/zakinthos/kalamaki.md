@@ -5,6 +5,7 @@ latitude: 37.7236
 longitude: 20.872
 title: Kalamaki
 type: location
+score: 0.61
 ---
 
 Kalamaki sits on the southern coast of [Zakynthos](/europe/greece/zakinthos), a quieter alternative to the party strip of neighbouring Laganas. The beach here is part of the nesting ground for loggerhead sea turtles, which means sunbeds are cleared at dusk and lights are kept low at night — a rule that keeps the resort pleasantly low-key.

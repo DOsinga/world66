@@ -5,6 +5,7 @@ latitude: 41.586865
 longitude: -93.624949
 title: Des Moines
 type: location
+score: 0.38
 ---
 
 Des Moines is the capital of [Iowa](/northamerica/unitedstates/iowa) and its largest city, sitting where the Des Moines and Raccoon rivers meet. It is more interesting than its reputation as a flyover-country capital might suggest.

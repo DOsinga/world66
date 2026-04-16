@@ -5,6 +5,7 @@ latitude: 45.514649
 longitude: 13.591011
 title: Portoroz
 type: location
+score: 0.56
 ---
 
 Portoroz is Slovenia's main seaside resort, tucked into a sheltered bay on the country's short strip of Adriatic coastline in the Istrian peninsula. The name means "port of roses" in Slovenian — a fitting image for a town that trades on mild Mediterranean air, spa hotels, and a long sandy beach that draws visitors from across Central Europe every summer.

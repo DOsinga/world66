@@ -5,6 +5,7 @@ latitude: 33.9286
 longitude: -80.8062
 title: Hopkins
 type: location
+score: 0.26
 ---
 
 Hopkins is a small community about 15 miles southeast of Columbia, best known as the gateway to Congaree National Park. The park preserves the largest intact tract of old-growth bottomland hardwood forest in the United States — not technically a swamp, but a seasonally flooded river floodplain on the Congaree River.

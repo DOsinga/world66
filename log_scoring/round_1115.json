@@ -1,0 +1,200 @@
+{
+  "round": 1115,
+  "timestamp": "2026-04-12T22:10:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_rank": 1248,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Uzbekistan",
+      "path": "asia/uzbekistan",
+      "prior_rank": 2725,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_rank": 2139,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_rank": 1114,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_rank": 2467,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_rank": 1900,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_rank": 4080,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_rank": 4068,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Casamicciola Terme",
+      "path": "europe/italy/campania/ischia/casamicciola",
+      "prior_rank": 3302,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_rank": 3164,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_rank": 2487,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_rank": 2738,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_rank": 2052,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Frisian Islands",
+      "path": "europe/denmark/vadehavet/frisian_islands_in",
+      "prior_rank": 2541,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_rank": 1139,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_rank": 1271,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_rank": 2504,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_rank": 3539,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_rank": 2053,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_rank": 1010,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_rank": 4415,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_rank": 2724,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kackar",
+      "path": "asia/turkey/kackar",
+      "prior_rank": 5435,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_rank": 4880,
+      "prior_wins": 14,
+      "prior_n": 2
+    }
+  ]
+}

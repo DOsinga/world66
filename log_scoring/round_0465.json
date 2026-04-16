@@ -1,0 +1,112 @@
+{
+  "round": 465,
+  "timestamp": "2026-04-12T09:31:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 13,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_mu": 31.4585,
+      "prior_sigma": 6.3339,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_mu": 24.5908,
+      "prior_sigma": 4.8835,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_mu": 23.273,
+      "prior_sigma": 5.6821,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_mu": 21.2234,
+      "prior_sigma": 3.6948,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_mu": 21.4953,
+      "prior_sigma": 4.6743,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_mu": 22.194,
+      "prior_sigma": 5.7731,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_mu": 21.6608,
+      "prior_sigma": 4.7905,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_mu": 21.8215,
+      "prior_sigma": 4.8188,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Czech Republic",
+      "path": "europe/czechrepublic",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

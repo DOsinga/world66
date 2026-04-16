@@ -5,6 +5,7 @@ latitude: 42.3656
 longitude: -71.104
 title: Cambridge
 type: location
+score: 0.65
 ---
 
 **Cambridge** sits just across the Charles River from [Boston](/northamerica/unitedstates/massachusetts/boston), but it is its own city with its own character — more bookish, more politically progressive, and in places more interesting than its larger neighbour.

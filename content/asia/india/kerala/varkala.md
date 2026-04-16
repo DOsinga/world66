@@ -5,6 +5,7 @@ latitude: 8.7333
 longitude: 76.7167
 done:
   location_cleanup: 2026-04-02
+score: 0.6
 ---
 
 Varkala is Kerala's cliff-top beach town, and it looks like nothing else on this coast. A long laterite cliff drops straight down to the Arabian Sea, its red-brown face lined with coconut palms and topped by a path of restaurants, shops, and guesthouses. The beach below — Papanasam, the "destroyer of sins" — stretches golden and wide beneath the bluff.

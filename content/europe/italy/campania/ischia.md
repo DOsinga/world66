@@ -1,8 +1,11 @@
 ---
-title: "Ischia"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 40.734205
 longitude: 13.947125
+score: 0.7
+title: Ischia
+type: location
 ---
 
 *Europe > Italy > Campania > Ischia*

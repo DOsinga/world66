@@ -1,0 +1,200 @@
+{
+  "round": 1656,
+  "timestamp": "2026-04-13T10:39:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Mal\u00e9 Atoll",
+      "path": "asia/maldives/south_male_atoll",
+      "prior_score": 11.8497,
+      "prior_variance": 0.718928,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_score": 5.9845,
+      "prior_variance": 0.321659,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Slovenia",
+      "path": "europe/slovenia",
+      "prior_score": 6.9913,
+      "prior_variance": 0.337824,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 7.0047,
+      "prior_variance": 0.37325,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 6.7442,
+      "prior_variance": 0.462583,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_score": 6.3821,
+      "prior_variance": 0.339438,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 4.2483,
+      "prior_variance": 0.582689,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.9224,
+      "prior_variance": 0.469831,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Busselton",
+      "path": "australiaandpacific/australia/westernaustralia/bussleton",
+      "prior_score": -1.0258,
+      "prior_variance": 0.753599,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/north_island/taranaki",
+      "prior_score": 2.6728,
+      "prior_variance": 0.333797,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 3.0275,
+      "prior_variance": 0.343462,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "The Yukon Territory",
+      "path": "northamerica/canada/the_yukon_territor",
+      "prior_score": 2.1153,
+      "prior_variance": 0.462454,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 1.8543,
+      "prior_variance": 0.374296,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_score": -2.1226,
+      "prior_variance": 0.381437,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Guyana",
+      "path": "southamerica/guyana",
+      "prior_score": -5.0462,
+      "prior_variance": 0.613475,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "South East",
+      "path": "europe/unitedkingdom/england/south_east",
+      "prior_score": 0.0622,
+      "prior_variance": 0.349003,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/abingdon",
+      "prior_score": 0.4947,
+      "prior_variance": 0.291339,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Polvij\u00e4rvi",
+      "path": "europe/finland/joensuu/polvijrvi",
+      "prior_score": -4.9379,
+      "prior_variance": 0.326033,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.5563,
+      "prior_variance": 0.292499,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_score": -5.07,
+      "prior_variance": 0.351568,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "kotnali villages photo",
+      "path": "asia/india/uttaranchal/kotnali_villages_p",
+      "prior_score": -7.0544,
+      "prior_variance": 0.366861,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_score": -5.9384,
+      "prior_variance": 0.35395,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Waldorf",
+      "path": "northamerica/unitedstates/maryland/waldorf",
+      "prior_score": -6.1794,
+      "prior_variance": 0.335163,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/ontario",
+      "prior_score": -4.933,
+      "prior_variance": 0.387194,
+      "prior_n": 3
+    }
+  ]
+}

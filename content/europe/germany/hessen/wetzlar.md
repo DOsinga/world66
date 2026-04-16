@@ -5,6 +5,7 @@ latitude: 50.5706
 longitude: 8.5312
 title: Wetzlar
 type: location
+score: 0.44
 ---
 
 Wetzlar, in central Hesse, is a city with a remarkably well-preserved Altstadt — an ensemble of half-timbered houses, Baroque facades, and cobbled squares that looks much as it did in the late 18th century. It was here in 1772 that the young Goethe worked as a legal apprentice and fell unhappily in love, an experience that directly inspired *The Sorrows of Young Werther*.

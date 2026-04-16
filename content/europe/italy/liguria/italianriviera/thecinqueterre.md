@@ -1,14 +1,17 @@
 ---
-done:
-  location_cleanup: '2026-04-07'
-latitude: 44.1286
-longitude: 9.71
 title: The Cinque Terre
 type: location
+latitude: 44.1066
+longitude: 9.7354
+done:
+  location_cleanup: 2026-04-05
+score: 0.79
 ---
 
-The Cinque Terre is a string of five fishing villages clinging to the steep, terraced coastline of eastern Liguria — Riomaggiore, Manarola, Corniglia, Vernazza, and Monterosso. Connected by a coastal hiking trail and a local train line, they have become one of Italy's most popular destinations, and in summer the narrow streets and pebbly beaches of Vernazza and Monterosso can feel overwhelmed.
+The Cinque Terre — "the five lands" — is a stretch of rugged Ligurian coastline between Levanto and La Spezia, where five tiny fishing villages cling impossibly to cliffs above the sea. Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore were isolated by geography for most of their history: no roads reached them until the last century, and even today the easiest way between them is still the train, the ferry, or the walking paths cut into the terraces. The whole coast is a national park and a UNESCO World Heritage site, and it has become one of the most photographed places in Italy — pastel houses stacked on the rock above turquoise coves, olive trees, and the terraced vineyards that have produced the local white wine for a thousand years.
 
-But the appeal is real. The villages are genuinely beautiful, stacked up cliff faces above turquoise water, surrounded by vineyards and olive groves. The hiking trail between them (now a national park with a small entry fee) passes through lush green areas with wild blueberries growing trailside. Corniglia, perched high on a rocky promontory, offers the best views. Riomaggiore, with its buildings seemingly tumbling off the cliffs, feels the most authentically Italian. Monterosso has the best beach and is home to Sciacchetrà, the local sweet dessert wine.
+Monterosso is the largest and the only one with a real sandy beach — the most resort-like of the five. Vernazza, with its small harbour, castle, and pastel waterfront, is generally considered the prettiest, and it is the one that ends up on most of the postcards. Corniglia is the odd one out: it sits high on a cliff rather than at sea level, and the only way up is 377 steps from the train station (or a shuttle bus). Manarola has the photogenic cliffside church of San Lorenzo and some of the best swimming. Riomaggiore, the southernmost, is the classic working village — houses tumbling down a ravine, colourful boats pulled up on the waterfront, and a maze of narrow alleys behind.
 
-The best way to visit is without too much planning. The train connects all five villages in minutes, making it easy to explore at your own pace. Signs reading "camere" in the villages mean rooms for rent — often cheaper and more atmospheric than formal accommodation.
+The walking trail that once linked all five villages, the Sentiero Azzurro, is the classic way to see the Cinque Terre, though landslides mean parts of it close regularly — check the current status before you set out. The most popular section, the Via dell'Amore between Manarola and Riomaggiore, is short and mostly level. The climb from Vernazza to Monterosso is steeper and gives the best views. A Cinque Terre Card (buy it at any train station) covers unlimited regional trains and trail access.
+
+The villages are unbelievably crowded in July and August — cruise-ship day-trippers from La Spezia pour in and the lanes fill with people. Come in April, May, September, or October if you can, stay at least one night in one of the villages rather than day-tripping from La Spezia, and eat the local anchovies fresh, fried, or pickled with lemon. The sweet Sciacchetrà wine, produced in tiny quantities from the terraced vineyards, is a rare regional speciality worth trying before you leave.

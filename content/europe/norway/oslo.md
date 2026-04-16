@@ -1,16 +1,19 @@
 ---
-title: "Oslo"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 59.91333
 longitude: 10.73897
+score: 0.63
+title: Oslo
+type: location
 ---
 
-Oslo is the capital of Norway with approximately 500.000 inhabitans, or a little over 10% of the country`s total population. About one third of the total population of the country lives around the Oslo Fjord area. 
+Oslo is the Nordic capital that most visitors underestimate. Stockholm looks grander, Copenhagen is more charming, Helsinki has the edge in modern design. Oslo is none of those things, but it is the one Nordic capital where you can walk 15 minutes from a high-design museum to a hiking trail into deep forest, and that particular combination of compact city and raw landscape makes it uniquely worth a visit.
 
-Oslo - The city of the Nobel Peace Prize, was founded in the year 1000 and has celebrated its 1000 years anniversary in the year 2000. Oslo City is locted as far north as St. Petersburg, Anchorage in Alaska and Kap Farvel in Greenland. Even though the city is situated so far north, its climate is temperate in the autumn and warm in summer. The winters last from 3 to 5 months with a very good skiing conditions in the hills around the city. 
+The centre fits around the harbour. **Aker Brygge** and the new **Tjuvholmen** waterfront have been redeveloped over the past 30 years into a row of restaurants, offices, and the Astrup Fearnley Museum of Contemporary Art. The **Opera House** — a white marble sculpture rising out of the water, designed so you can walk across the roof — is the signature piece of modern Oslo. Nearby, the new **Munch Museum** and **Deichman Library** continue the same waterfront upgrade. The **Royal Palace** at the top of Karl Johans gate closes the axis of the city's main street.
 
-You need at last three days to explore this city. Oslo has a number of parks, museums, churches and other beautiful places: It’s a fun place to explore on your own. Hours can be spent strolling along Karl Johans Gate (the main street) to the Royal Palace and perusing the Edvard Munch Museum. The works of various other Norwegian painters can be viewed at the National Gallery. Other attractions in Oslo include the Vigeland Museum in Frogner Park 
+Across the fjord, the **Bygdøy peninsula** holds four world-class museums — the Kon-Tiki Museum (Thor Heyerdahl's balsa-wood raft), the Viking Ship Museum (closed for rebuild, reopening 2027 as the Museum of the Viking Age), the Fram polar expedition ship, and the Norwegian Folk Museum's open-air collection of old wooden farmhouses. The ferry across from Rådhuskaia is part of the experience. Further out west, **Vigeland Park** is Gustav Vigeland's sculpture-park masterwork, open 24 hours and free.
 
-## Destinations in Oslo
+Oslo's natural setting is the other attraction. The **Oslofjord** runs south into the Skagerrak, dotted with islands and summer swimming spots; the **Oslomarka** forest begins within tram reach of the centre and extends for hundreds of kilometres. **Holmenkollen** ski-jump, looming above the western suburbs, is a 20-minute metro ride from downtown.
 
-[Holmekollen](/europe/norway/oslo/holmekollen)
+Oslo is expensive. A beer is €10, a hotel room rarely under €150. Plan accordingly — or eat at the (excellent) Mathallen food hall in Vulkan, and use the tap water everywhere.

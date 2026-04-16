@@ -5,6 +5,7 @@ latitude: 39.100105
 longitude: -94.578142
 title: Kansas City
 type: location
+score: 0.4
 ---
 
 Kansas City — "KC" — is an American metropolis with a state line running down the middle of it. Kansas City, Missouri is the larger and better-known half; Kansas City, Kansas (affectionately "KCK") sits just across the border. Dozens of suburbs in both states fill out the metropolitan area.

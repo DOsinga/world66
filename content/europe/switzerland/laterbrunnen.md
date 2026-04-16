@@ -1,4 +1,0 @@
----
-title: "Laterbrunnen"
-type: location
----

@@ -5,6 +5,7 @@ latitude: 32.4316
 longitude: -80.6698
 title: Beaufort
 type: location
+score: 0.52
 ---
 
 Beaufort is one of the loveliest small towns in the American South, sitting on Port Royal Island among the Sea Islands of South Carolina's Lowcountry. Discovered by the Spanish in 1514 and chartered by the British in 1711, it grew wealthy on indigo, rice, and Sea Island cotton, and the antebellum mansions from that era still line the streets — making the historic district one of only three National Historic Landmark Districts in the state.

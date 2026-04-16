@@ -5,6 +5,7 @@ latitude: 30.4494
 longitude: -91.187
 title: Baton Rouge
 type: location
+score: 0.41
 ---
 
 Baton Rouge is Louisiana's state capital and second-largest city, sitting on the east bank of the Mississippi River about 80 miles northwest of New Orleans. It's a working city — the River Road chemical plants and oil refineries that line the Mississippi here are the industrial backbone of Louisiana's economy — but it has a distinct character, especially around the LSU campus and the old downtown.

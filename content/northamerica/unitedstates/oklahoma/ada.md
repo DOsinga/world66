@@ -5,6 +5,7 @@ latitude: 34.7696
 longitude: -96.6783
 title: Ada
 type: location
+score: 0.31
 ---
 
 Ada is a city of around 17,000 people in Pontotoc County, south-central Oklahoma, situated in the rolling Cross Timbers region between Oklahoma City and the Texas border. It serves as a commercial hub for the surrounding agricultural area and is the home of East Central University.

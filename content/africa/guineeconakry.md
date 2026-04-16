@@ -11,6 +11,7 @@ latitude: 9.9456
 longitude: -9.6966
 title: Guinea
 type: location
+score: 0.22
 ---
 
 Guinea is one of West Africa's most rewarding and least visited countries. It has staggering natural beauty -- the sandstone plateaus and waterfalls of the Fouta Djallon highlands, the dense rainforests of the south, and a long Atlantic coastline -- but almost no tourist infrastructure. You come here for adventure, not comfort.

@@ -5,6 +5,7 @@ latitude: 43.58246
 longitude: 11.316873
 title: Greve in Chianti
 type: location
+score: 0.68
 ---
 
 Greve in Chianti sits in the heart of the Chianti Classico wine country, roughly equidistant from [Florence](/europe/italy/tuscany/florence) (30 km) and [Siena](/europe/italy/tuscany/siena) (35 km). The town's triangular piazza, lined with arcaded shops and wine bars, is the natural gathering point and a good place to start tasting.

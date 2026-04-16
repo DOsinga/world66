@@ -5,6 +5,7 @@ latitude: 29.379653
 longitude: 47.973417
 done:
   location_cleanup: 2026-04-05
+score: 0.41
 ---
 
 Kuwait City is the capital and the only real city in Kuwait. It sits on the southern shore of Kuwait Bay, a modern skyline of glass towers rising from what was, just seventy years ago, a small walled town of mud-brick houses and pearl-diving dhows.

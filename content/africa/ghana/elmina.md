@@ -5,6 +5,7 @@ latitude: 5.085879
 longitude: -1.350578
 title: Elmina
 type: location
+score: 0.57
 ---
 
 Elmina is a small, colourful fishing town 15 km west of [Cape Coast](/africa/ghana/capecoast), and home to St George's Castle -- the oldest European building in sub-Saharan Africa, built by the Portuguese in 1482. Like Cape Coast Castle, it was used in the transatlantic slave trade, and tours of the dungeons and trading halls are deeply moving.

@@ -5,6 +5,7 @@ latitude: 58.377953
 longitude: 26.729002
 title: Tartu
 type: location
+score: 0.54
 ---
 
 Tartu is Estonia's second city and its intellectual capital — home to one of the oldest universities in northern Europe, founded in 1632. The Estonians call it the "Athens on the Emajogi." During Soviet times the city was closed to outsiders because of a military aerodrome, but since independence it has opened up into a lively, walkable university town with a growing café and restaurant scene.

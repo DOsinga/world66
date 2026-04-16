@@ -1,8 +1,9 @@
 ---
-title: "China"
+title: China
 type: location
 latitude: 35.000074
 longitude: 104.999927
+score: 0.57
 ---
 
 China is one of the most varied countries on earth. Within its borders you get the Tibetan Plateau, the Gobi Desert, the karst mountains of Guilin, the subtropical forests of Yunnan, and some of the world's most dynamic cities. The sheer scale of the place means no single trip covers it all — and that's part of the appeal.

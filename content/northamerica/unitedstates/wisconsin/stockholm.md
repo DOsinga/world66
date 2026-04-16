@@ -5,6 +5,7 @@ latitude: 44.49
 longitude: -92.26
 title: Stockholm
 type: location
+score: 0.38
 ---
 
 Stockholm is a tiny village on the Wisconsin side of the Mississippi River, perched on the shore of Lake Pepin — a 30-mile-long natural widening of the river that is one of the most beautiful stretches of the Upper Mississippi. Highway 35, the Great River Road and Wisconsin's only National Scenic Byway, passes right through.

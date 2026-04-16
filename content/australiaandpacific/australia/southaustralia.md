@@ -1,8 +1,11 @@
 ---
-title: "South Australia"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: -30.534367
 longitude: 135.630121
+score: 0.5
+title: South Australia
+type: location
 ---
 
 South Australia is a state of sharp contrasts: Mediterranean wine country, arid outback, a long and largely empty coastline, and [Adelaide](/australiaandpacific/australia/southaustralia/adelaide) — a planned colonial city that has become Australia's festival and food capital.
@@ -23,8 +26,10 @@ The **Coorong**, a 200-km lagoon system south of Adelaide, is a critical waterbi
 
 ## Destinations in South Australia
 
-[Adelaide](/australiaandpacific/australia/southaustralia/adelaide)
-[Coober Pedy](/australiaandpacific/australia/southaustralia/cooberpedy)
-[Port Adelaide](/australiaandpacific/australia/southaustralia/portadelaide)
-[Quorn](/australiaandpacific/australia/southaustralia/quorn)
-[William Creek](/australiaandpacific/australia/southaustralia/william_creek)
+- [Adelaide](/australiaandpacific/australia/southaustralia/adelaide)
+- [Barossa Valley](/australiaandpacific/australia/southaustralia/barossa_valley)
+- [Coober Pedy](/australiaandpacific/australia/southaustralia/cooberpedy)
+- [Hahndorf](/australiaandpacific/australia/southaustralia/handorf)
+- [Mount Gambier](/australiaandpacific/australia/southaustralia/mount_gambier)
+- [Victor Harbor](/australiaandpacific/australia/southaustralia/victor_harbour)
+- [William Creek](/australiaandpacific/australia/southaustralia/william_creek)

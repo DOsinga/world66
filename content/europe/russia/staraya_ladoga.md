@@ -5,6 +5,7 @@ latitude: 59.996994
 longitude: 32.296246
 title: Staraya Ladoga
 type: location
+score: 0.4
 ---
 
 Staraya Ladoga — Old Ladoga — has a claim to being the very first capital of Russia. Founded in the 9th century on the banks of the Volkhov River, it predates Moscow, Novgorod and Kiev as a seat of power. Today it is a quiet village about 250 km east of [Saint Petersburg](/europe/russia/stpetersburg) along Route M8, but the sense of deep history here is real and immediate.

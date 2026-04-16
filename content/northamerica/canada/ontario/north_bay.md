@@ -5,6 +5,7 @@ latitude: 46.3091
 longitude: -79.4608
 title: North Bay
 type: location
+score: 0.43
 ---
 
 North Bay sits where Lake Nipissing meets Highway 11, about 350 km north of Toronto. It is a mid-sized northern Ontario city — 53,000 people, a university, a military base — and functions as the gateway to a large stretch of cottage and wilderness country. The lakes here are cold and clean, the fishing is good, and the boreal forest presses in close.

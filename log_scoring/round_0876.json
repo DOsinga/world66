@@ -1,0 +1,200 @@
+{
+  "round": 876,
+  "timestamp": "2026-04-12T14:46:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/tennessee/smokymountains",
+      "prior_score": 6.1451,
+      "prior_variance": 0.825603,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Loire valley",
+      "path": "europe/france/centre/loirevalley",
+      "prior_score": 11.9658,
+      "prior_variance": 3.689445,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Barbados",
+      "path": "northamerica/thecaribbean/barbados",
+      "prior_score": 11.1368,
+      "prior_variance": 2.253458,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 3.0684,
+      "prior_variance": 1.849014,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 8.0332,
+      "prior_variance": 3.597939,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Maine",
+      "path": "northamerica/unitedstates/maine",
+      "prior_score": 4.9755,
+      "prior_variance": 0.872235,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Iona",
+      "path": "europe/unitedkingdom/scotland/iona",
+      "prior_score": 6.8773,
+      "prior_variance": 1.185776,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "San Andres",
+      "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+      "prior_score": 5.5506,
+      "prior_variance": 1.363464,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 2.7688,
+      "prior_variance": 2.416445,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_score": 0.6418,
+      "prior_variance": 1.36664,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tunis",
+      "path": "africa/tunisia/tunis",
+      "prior_score": 6.5028,
+      "prior_variance": 1.71674,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Roseau",
+      "path": "northamerica/dominica/roseau",
+      "prior_score": 0.2664,
+      "prior_variance": 1.878009,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": 0.4872,
+      "prior_variance": 1.509178,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": -0.7272,
+      "prior_variance": 1.212224,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": 0.7448,
+      "prior_variance": 1.759065,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -2.9851,
+      "prior_variance": 1.314074,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Knoll Lake",
+      "path": "northamerica/unitedstates/arizona/knoll_lake",
+      "prior_score": -2.1257,
+      "prior_variance": 1.463166,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_score": -4.8997,
+      "prior_variance": 1.446623,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": 2.7651,
+      "prior_variance": 2.101918,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -3.8344,
+      "prior_variance": 1.51735,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -6.3441,
+      "prior_variance": 1.159603,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -5.1798,
+      "prior_variance": 0.721785,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Espresso Country",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/espressocountry",
+      "prior_score": -8.1862,
+      "prior_variance": 1.448175,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -10.6037,
+      "prior_variance": 1.780081,
+      "prior_n": 1
+    }
+  ]
+}

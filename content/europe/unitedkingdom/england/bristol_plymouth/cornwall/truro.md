@@ -1,6 +1,13 @@
 ---
+done:
+  location_cleanup: '2026-04-15'
+image: truro.jpg
+image_attribution: Nilfanion
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:1_Prince%27s_Street,_Truro.jpg
 latitude: 50.263335
 longitude: -5.051078
+score: 0.55
 title: Truro
 type: location
 ---

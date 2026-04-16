@@ -1,0 +1,200 @@
+{
+  "round": 2180,
+  "timestamp": "2026-04-13T16:18:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 10.2347,
+      "prior_variance": 0.571323,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_score": 9.2295,
+      "prior_variance": 0.331234,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 10.0432,
+      "prior_variance": 0.458136,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 4.4071,
+      "prior_variance": 0.311658,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_lagun",
+      "prior_score": 4.1886,
+      "prior_variance": 0.368628,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 1.8435,
+      "prior_variance": 0.265405,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_score": 6.3185,
+      "prior_variance": 0.366846,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_score": 6.268,
+      "prior_variance": 0.348614,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 5.2536,
+      "prior_variance": 0.377954,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandres",
+      "prior_score": 4.0594,
+      "prior_variance": 0.23457,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Yunnan Province",
+      "path": "asia/china/yunnanprovince",
+      "prior_score": 7.1842,
+      "prior_variance": 0.478439,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_score": 2.5939,
+      "prior_variance": 0.249964,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 4.1541,
+      "prior_variance": 0.226578,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.9538,
+      "prior_variance": 0.207152,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": 0.652,
+      "prior_variance": 0.223755,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 0.6862,
+      "prior_variance": 0.253611,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_3",
+      "prior_score": 0.4536,
+      "prior_variance": 0.238061,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/tewkesbury",
+      "prior_score": 0.8884,
+      "prior_variance": 0.228661,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.7399,
+      "prior_variance": 0.205961,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.2011,
+      "prior_variance": 0.24378,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -0.7935,
+      "prior_variance": 0.250043,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -1.7943,
+      "prior_variance": 0.351201,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Blacksburg",
+      "path": "northamerica/unitedstates/virginia/blacksburg",
+      "prior_score": -2.4287,
+      "prior_variance": 0.294534,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -4.1534,
+      "prior_variance": 0.239029,
+      "prior_n": 5
+    }
+  ]
+}

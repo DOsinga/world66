@@ -1,0 +1,200 @@
+{
+  "round": 1074,
+  "timestamp": "2026-04-12T22:08:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "MoorKhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_rank": 7568,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/karanprayag/pauri",
+      "prior_rank": 7002,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Dagestan",
+      "path": "europe/russia/dagestan",
+      "prior_rank": 7217,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Mali",
+      "path": "africa/mali",
+      "prior_rank": 8064,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_rank": 8016,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_rank": 5595,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_rank": 5184,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bangladesh",
+      "path": "asia/bangladesh",
+      "prior_rank": 7895,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_rank": 4905,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_rank": 8039,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_rank": 7697,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_rank": 8017,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_rank": 7353,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_rank": 7786,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_rank": 7476,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_rank": 7233,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_rank": 7216,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Laatzen",
+      "path": "europe/germany/lowersaxony/laatzen",
+      "prior_rank": 8122,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "neuve englise",
+      "path": "europe/france/nord/neuve_englise",
+      "prior_rank": 8118,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kielwindeweer",
+      "path": "europe/netherlands/kielwindeweer",
+      "prior_rank": 8196,
+      "prior_wins": 4,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_rank": 8098,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_rank": 7708,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_rank": 8040,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_rank": 7484,
+      "prior_wins": 9,
+      "prior_n": 3
+    }
+  ]
+}

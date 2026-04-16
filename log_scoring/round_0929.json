@@ -1,0 +1,200 @@
+{
+  "round": 929,
+  "timestamp": "2026-04-12T16:08:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/otago/milford_sound",
+      "prior_rank": 38,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_rank": 172,
+      "prior_wins": 228,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "San Crist\u00f3bal Island",
+      "path": "southamerica/ecuador/galapagosislands/san_cristobal_isla",
+      "prior_rank": 147,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_rank": 190,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_rank": 40,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_rank": 155,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_rank": 46,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Dalmatia",
+      "path": "europe/croatia/dalmatia",
+      "prior_rank": 42,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ibiza",
+      "path": "europe/spain/balearicislands/ibiza",
+      "prior_rank": 212,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "kilimanjaro",
+      "path": "africa/kenya/trekking/kilimanjaro",
+      "prior_rank": 118,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_rank": 199,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Marrakech",
+      "path": "africa/morocco/marrakech",
+      "prior_rank": 232,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_rank": 174,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_rank": 234,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_rank": 10,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "New York State",
+      "path": "northamerica/unitedstates/newyorkstate",
+      "prior_rank": 252,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/cuba/pinardelrio",
+      "prior_rank": 5481,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Paterna",
+      "path": "europe/spain/spanishcostas/paterna",
+      "prior_rank": 8162,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southcarolina/deadwood",
+      "prior_rank": 8205,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_rank": 8173,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_rank": 8194,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "South Sudan",
+      "path": "africa/southsudan",
+      "prior_rank": 8083,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_rank": 8213,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "AuYrfpJmYTzFiPA",
+      "path": "europe/russia/krasnoyarsk_region/auyrfpjmytzfipa",
+      "prior_rank": 8118,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

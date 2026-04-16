@@ -5,6 +5,7 @@ latitude: 44.635157
 longitude: -92.010193
 title: Pepin
 type: location
+score: 0.38
 ---
 
 Pepin is a small village on the eastern shore of Lake Pepin, a 28-mile-long natural widening of the Mississippi River in western Wisconsin. It is best known as the birthplace of Laura Ingalls Wilder — the cabin site is marked just outside town, and September's Laura Ingalls Wilder Days draw fans of the books from across the country.

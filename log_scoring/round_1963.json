@@ -1,0 +1,200 @@
+{
+  "round": 1963,
+  "timestamp": "2026-04-13T15:58:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 4.9301,
+      "prior_variance": 0.35624,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 2.3815,
+      "prior_variance": 0.262174,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 3.5803,
+      "prior_variance": 0.276051,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 0.9289,
+      "prior_variance": 0.323877,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 1.7713,
+      "prior_variance": 0.348138,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Shetland",
+      "path": "europe/unitedkingdom/scotland/shetland",
+      "prior_score": 2.5385,
+      "prior_variance": 0.258379,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/tewkesbury",
+      "prior_score": 0.7812,
+      "prior_variance": 0.275178,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Hillerod",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 1.7264,
+      "prior_variance": 0.250492,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 1.6649,
+      "prior_variance": 0.248611,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -1.2023,
+      "prior_variance": 0.246274,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": -0.1052,
+      "prior_variance": 0.240799,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Roseau",
+      "path": "northamerica/dominica/roseau",
+      "prior_score": 1.713,
+      "prior_variance": 0.424494,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": 0.0737,
+      "prior_variance": 0.237012,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Maharashtra",
+      "path": "asia/india/maharashtra",
+      "prior_score": -0.3091,
+      "prior_variance": 0.328442,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Western Kenya",
+      "path": "africa/kenya/westernkenya",
+      "prior_score": -2.4863,
+      "prior_variance": 0.324489,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": 0.1426,
+      "prior_variance": 0.279751,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Giessen",
+      "path": "europe/germany/hesse/giessen",
+      "prior_score": -3.6241,
+      "prior_variance": 0.354217,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/newhampshire/manchester",
+      "prior_score": -2.9182,
+      "prior_variance": 0.264012,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_score": 1.8634,
+      "prior_variance": 0.195029,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/yucatan/uruapan",
+      "prior_score": -3.7153,
+      "prior_variance": 0.248761,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -5.1262,
+      "prior_variance": 0.312713,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -5.2233,
+      "prior_variance": 0.294934,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -4.9618,
+      "prior_variance": 0.285826,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -8.0369,
+      "prior_variance": 0.372992,
+      "prior_n": 5
+    }
+  ]
+}

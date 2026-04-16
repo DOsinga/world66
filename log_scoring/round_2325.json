@@ -1,0 +1,200 @@
+{
+  "round": 2325,
+  "timestamp": "2026-04-13T16:31:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola/pensacola_beach",
+      "prior_score": 1.4747,
+      "prior_variance": 0.229325,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Guam",
+      "path": "australiaandpacific/guam",
+      "prior_score": 1.6981,
+      "prior_variance": 0.2548,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 2.2154,
+      "prior_variance": 0.224827,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 4.1048,
+      "prior_variance": 0.25515,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 3.0334,
+      "prior_variance": 0.267889,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_score": 4.2821,
+      "prior_variance": 0.240823,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_score": 2.2528,
+      "prior_variance": 0.265079,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 2.2794,
+      "prior_variance": 0.225256,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Cuenca",
+      "path": "europe/spain/la_mancha/cuenca",
+      "prior_score": 4.2617,
+      "prior_variance": 0.265488,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 2.2964,
+      "prior_variance": 0.220275,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 2.2763,
+      "prior_variance": 0.225128,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_score": 1.6041,
+      "prior_variance": 0.140469,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 2.1329,
+      "prior_variance": 0.198255,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Folgaria",
+      "path": "europe/italy/trentinoaltoadige/folgaria",
+      "prior_score": 0.6308,
+      "prior_variance": 0.245922,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 2.3007,
+      "prior_variance": 0.244809,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 2.29,
+      "prior_variance": 0.226131,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 1.6008,
+      "prior_variance": 0.198518,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_nat",
+      "prior_score": 1.0584,
+      "prior_variance": 0.239164,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Fyvie",
+      "path": "europe/unitedkingdom/scotland/fyvie",
+      "prior_score": -1.4905,
+      "prior_variance": 0.248903,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -0.9175,
+      "prior_variance": 0.206506,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -0.7974,
+      "prior_variance": 0.213384,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bhadrachalam",
+      "path": "asia/india/andhrapradesh/bhadrachalam",
+      "prior_score": -5.4956,
+      "prior_variance": 0.208132,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_score": -6.1513,
+      "prior_variance": 0.250802,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -5.0349,
+      "prior_variance": 0.307515,
+      "prior_n": 6
+    }
+  ]
+}

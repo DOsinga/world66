@@ -5,6 +5,7 @@ latitude: -33.07621
 longitude: 151.453613
 title: Cooranbong
 type: location
+score: 0.34
 ---
 
 Cooranbong is a small town on the western shore of Lake Macquarie, about 100 km north of Sydney and 30 km south of Newcastle. It sits at the foot of the Watagan Mountains and serves as a gateway to the Watagan State Forest, which has good bushwalking, camping, and mountain-bike trails in the hills above the lake.

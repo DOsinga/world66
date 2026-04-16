@@ -5,6 +5,7 @@ latitude: 28.3922
 longitude: -80.6077
 title: Space Coast Area
 type: location
+score: 0.49
 ---
 
 Just 35 miles east of [Orlando](/northamerica/unitedstates/florida/orlando), Florida's Space Coast offers 72 miles of Atlantic beaches backed by one of the country's most dramatic natural and industrial landscapes. [Canaveral National Seashore](/northamerica/unitedstates/florida/spacecoastarea/canaveralnationalseashore) protects miles of undeveloped barrier island — scrub, lagoon, and open ocean — while Kennedy Space Center sits just to the south, where rockets still launch regularly from the same pads that sent Apollo astronauts to the moon.

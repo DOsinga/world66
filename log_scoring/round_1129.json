@@ -1,0 +1,200 @@
+{
+  "round": 1129,
+  "timestamp": "2026-04-12T22:11:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
+      "prior_rank": 3509,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Salt Lake City",
+      "path": "northamerica/unitedstates/utah/saltlakecity",
+      "prior_rank": 1417,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_rank": 2912,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_rank": 3298,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_rank": 5624,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lake Elmenteita",
+      "path": "africa/kenya/lakes/lakeelmenteita",
+      "prior_rank": 3187,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cuyahoga Valley",
+      "path": "northamerica/unitedstates/ohio/cuyahogavalley",
+      "prior_rank": 3604,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_rank": 2302,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_rank": 2139,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_rank": 2994,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_rank": 2747,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/cuba/holguin",
+      "prior_rank": 6667,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_rank": 4507,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_rank": 1887,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_rank": 3181,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimen",
+      "prior_rank": 3745,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_rank": 2276,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/abingdon",
+      "prior_rank": 3439,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_rank": 2043,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_som",
+      "prior_rank": 3372,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_rank": 2600,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_rank": 6110,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_rank": 3508,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_rank": 3410,
+      "prior_wins": 26,
+      "prior_n": 2
+    }
+  ]
+}

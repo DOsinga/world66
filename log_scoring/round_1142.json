@@ -1,0 +1,200 @@
+{
+  "round": 1142,
+  "timestamp": "2026-04-12T22:11:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Inside Passage",
+      "path": "northamerica/unitedstates/alaska/inside_passage",
+      "prior_rank": 611,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tsavo N.P.",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp",
+      "prior_rank": 889,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_rank": 548,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Chiang Rai",
+      "path": "asia/thailand/chiangrai",
+      "prior_rank": 734,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_rank": 114,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Central Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago/central_otago",
+      "prior_rank": 224,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_rank": 1620,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Val di Fassa",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa",
+      "prior_rank": 254,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_rank": 702,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_rank": 787,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_rank": 314,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_rank": 383,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_rank": 859,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Oranjestad",
+      "path": "northamerica/aruba/oranjestad",
+      "prior_rank": 5180,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_rank": 1423,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_rank": 2018,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Argostoli",
+      "path": "europe/greece/cephalonia/argostoli",
+      "prior_rank": 625,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Southern Norway (Sorlandet)",
+      "path": "europe/norway/southernnorways",
+      "prior_rank": 2269,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Costa Blanca",
+      "path": "europe/spain/costa_blanca",
+      "prior_rank": 1823,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_rank": 72,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Charlottenburg",
+      "path": "europe/germany/berlin/charlottenburg",
+      "prior_rank": 501,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Luxembourg City",
+      "path": "europe/luxembourg/luxembourgcity",
+      "prior_rank": 1092,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_rank": 1072,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_rank": 3778,
+      "prior_wins": 24,
+      "prior_n": 2
+    }
+  ]
+}

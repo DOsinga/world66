@@ -5,6 +5,7 @@ latitude: 29.652
 longitude: -82.325
 title: Gainesville
 type: location
+score: 0.42
 ---
 
 Gainesville is a college town in north-central Florida, home to the University of Florida and shaped almost entirely by it. When school is in session the city buzzes with energy; when students leave, it goes noticeably quiet. For visitors, Gainesville offers a pleasant surprise — more culture and nature than you expect from inland Florida.

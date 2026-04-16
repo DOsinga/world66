@@ -5,6 +5,7 @@ latitude: 41.3083
 longitude: -72.9279
 title: New Haven
 type: location
+score: 0.5
 ---
 
 New Haven is a city defined by Yale University, but it has a character that goes well beyond the campus gates. The university gives the city world-class museums and a lively arts scene, while the surrounding neighbourhoods contribute some of the best pizza in the United States and a gritty urban energy that keeps things real.

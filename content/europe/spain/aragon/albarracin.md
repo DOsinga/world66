@@ -5,6 +5,7 @@ latitude: 40.407283
 longitude: -1.444279
 title: Albarracín
 type: location
+score: 0.65
 ---
 
 Albarracín is one of the most beautiful small towns in Spain, a medieval fortress settlement perched on a rocky outcrop almost entirely encircled by a gorge of the Guadalaviar River. The town's pink-hued sandstone houses, half-timbered upper storeys, and narrow cobbled streets have been so well preserved that walking through the old quarter feels genuinely like stepping back several centuries.

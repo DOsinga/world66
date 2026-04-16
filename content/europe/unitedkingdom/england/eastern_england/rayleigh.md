@@ -1,10 +1,11 @@
 ---
-title: "Rayleigh"
+title: Rayleigh
 type: location
 latitude: 51.586884
 longitude: 0.606311
 done:
   location_cleanup: 2026-04-10
+score: 0.35
 ---
 
 Rayleigh is a market town in Essex, roughly 40 kilometres east of London in the Thames estuary hinterland. It sits on a ridge above the surrounding flatlands, and its long high street retains enough character to reward a short stop.

@@ -1,8 +1,13 @@
 ---
-title: "Marrakesh"
+title: Marrakesh
 type: location
 latitude: 31.625826
 longitude: -7.989161
+score: 0.77
+image: marrakesh.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Artisan_coloring_a_lamp,_Medina_Marrakesh_(Morocco).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Petar Milošević
 ---
 
 Known as the "Red City" Marrakesh is the capital of the

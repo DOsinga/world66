@@ -5,6 +5,11 @@ latitude: 42.188098
 longitude: 9.068314
 done:
   location_cleanup: 2026-04-07
+score: 0.74
+image: corsica.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Corsica_Bonifacio_Ville_haute_Falaises.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Isiwal
 ---
 
 Corsica is the third-largest island in the Mediterranean, a mountainous mass rising from the sea off the French and Italian coasts that feels like neither country. It is administratively French — it has been since 1768, one year before Napoleon Bonaparte was born there — but its culture, language, and temperament are distinctly its own. The Corsican independence movement has never gone away: road signs in French are routinely defaced, and the island's prickly relationship with Paris is a constant undertone.

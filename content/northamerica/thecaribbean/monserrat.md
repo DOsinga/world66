@@ -5,6 +5,7 @@ latitude: 16.7425
 longitude: -62.1874
 title: Montserrat
 type: location
+score: 0.58
 ---
 
 Montserrat is a small British Overseas Territory in the eastern Caribbean, and one of the most unusual islands in the region. It was colonised largely by Irish settlers in the 17th century — an origin that has left a distinctive cultural mark, including shamrocks on the national seal and a St Patrick's Day celebration unique in the Caribbean.

@@ -5,6 +5,7 @@ title: San José
 type: location
 done:
   location_cleanup: 2026-04-07
+score: 0.49
 ---
 
 San José is the capital and beating heart of Costa Rica, sitting in the fertile Central Valley at around 1,100 metres elevation — high enough to enjoy a mild, spring-like climate year-round. It is inevitably a transit hub for travellers moving between the coasts and the highlands, but the city rewards a day or two in its own right.

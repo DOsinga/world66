@@ -5,6 +5,7 @@ latitude: 16.247
 longitude: 103.2506
 done:
   location_cleanup: 2026-04-06
+score: 0.41
 ---
 
 Mahasarakham is an Isan college town that few foreign visitors see. With seven institutions of higher learning — led by Mahasarakham University and its 30,000 students — it has the energy and cheap prices that come with a young population, without any of the tourist infrastructure. If you want to see a real central Isan town rather than a polished destination, this is a good place to do it.

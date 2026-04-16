@@ -5,6 +5,7 @@ latitude: -3.459385
 longitude: 126.656549
 title: Maluku
 type: location
+score: 0.48
 ---
 
 The beautiful and unspoilt historic Spice Islands of Maluku have great beaches, old forts and good diving.

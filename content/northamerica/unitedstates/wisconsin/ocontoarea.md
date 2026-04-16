@@ -5,6 +5,7 @@ latitude: 44.905963
 longitude: -87.84602
 title: Oconto Area
 type: location
+score: 0.35
 ---
 
 Oconto County stretches over 1,000 square miles of northeastern Wisconsin, from the Green Bay shoreline in the east to the Nicolet National Forest in the west. Fifty-three lakes with public access and more than 300 miles of trout streams make it serious fishing country.

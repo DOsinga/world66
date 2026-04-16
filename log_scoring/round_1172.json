@@ -1,0 +1,200 @@
+{
+  "round": 1172,
+  "timestamp": "2026-04-12T22:13:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_rank": 7844,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_rank": 8221,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Garata",
+      "path": "europe/bulgaria/gornaoryahovica/garata",
+      "prior_rank": 7936,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "M Baiki",
+      "path": "africa/centralafricanrepublic/m_baiki",
+      "prior_rank": 8182,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "South Sudan",
+      "path": "africa/southsudan",
+      "prior_rank": 8215,
+      "prior_wins": 2,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Syria",
+      "path": "asia/syria",
+      "prior_rank": 8220,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Yemen",
+      "path": "asia/yemen",
+      "prior_rank": 8225,
+      "prior_wins": 1,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_rank": 7829,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_rank": 8209,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Las Anod",
+      "path": "africa/somalia/lasanod",
+      "prior_rank": 8195,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_rank": 8197,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Galdogob",
+      "path": "africa/somalia/galdogob",
+      "prior_rank": 8192,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_rank": 8222,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_rank": 8055,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Somalia",
+      "path": "africa/somalia",
+      "prior_rank": 8153,
+      "prior_wins": 6,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "abdaal",
+      "path": "africa/somaliland/abdaal",
+      "prior_rank": 8041,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2",
+      "prior_rank": 8181,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Basti Rind",
+      "path": "asia/pakistan/dera_ghazi_khan/basti_rind",
+      "prior_rank": 8122,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "pheroani",
+      "path": "asia/pakistan/dera_ghazi_khan/pheroani",
+      "prior_rank": 8206,
+      "prior_wins": 3,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba_1",
+      "prior_rank": 8089,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cha Jaind Wala Muza Yaroo Khosa Aamir Khan",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_jaind_wala_muz",
+      "prior_rank": 8103,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "chah bangul wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/chah_bangul_wala",
+      "prior_rank": 8105,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "qureshi from yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/qureshi_from_yaroo",
+      "prior_rank": 8204,
+      "prior_wins": 3,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "gh",
+      "path": "asia/pakistan/gujrat/gh",
+      "prior_rank": 8172,
+      "prior_wins": 4,
+      "prior_n": 4
+    }
+  ]
+}

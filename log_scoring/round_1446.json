@@ -1,0 +1,200 @@
+{
+  "round": 1446,
+  "timestamp": "2026-04-12T22:28:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santiago Atitlan",
+      "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
+      "prior_rank": 1620,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_rank": 1990,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_rank": 2706,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_rank": 4712,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_rank": 1548,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_rank": 2065,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_rank": 666,
+      "prior_wins": 91,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_rank": 1690,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_rank": 912,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_rank": 1361,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_rank": 1491,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_rank": 914,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_rank": 4040,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Eilat",
+      "path": "asia/israel/eilat",
+      "prior_rank": 1287,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_rank": 1824,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_rank": 3399,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_rank": 2070,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_rank": 4525,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_rank": 1948,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/durham",
+      "prior_rank": 1768,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/truro",
+      "prior_rank": 1148,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_rank": 1486,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_rank": 2163,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_rank": 2187,
+      "prior_wins": 45,
+      "prior_n": 3
+    }
+  ]
+}

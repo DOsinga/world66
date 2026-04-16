@@ -1,0 +1,200 @@
+{
+  "round": 1936,
+  "timestamp": "2026-04-13T15:55:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Versailles",
+      "path": "europe/france/paris/versailles",
+      "prior_score": 12.3935,
+      "prior_variance": 0.608568,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Amalfi",
+      "path": "europe/italy/campania/amalfi",
+      "prior_score": 11.935,
+      "prior_variance": 0.604376,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 10.0675,
+      "prior_variance": 0.794555,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 10.8871,
+      "prior_variance": 0.47899,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Patagonia",
+      "path": "southamerica/argentina/patagonia",
+      "prior_score": 6.8646,
+      "prior_variance": 0.59998,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 10.7741,
+      "prior_variance": 0.677834,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Robben Island",
+      "path": "africa/southafrica/capetown/robbenisland",
+      "prior_score": 4.4481,
+      "prior_variance": 0.272387,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 3.7529,
+      "prior_variance": 0.265853,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/dunedin",
+      "prior_score": 5.1688,
+      "prior_variance": 0.299705,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "St Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews",
+      "prior_score": 5.3419,
+      "prior_variance": 0.342292,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 4.7705,
+      "prior_variance": 0.307309,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 4.2508,
+      "prior_variance": 0.32801,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 1.2969,
+      "prior_variance": 0.251091,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Poland",
+      "path": "europe/poland",
+      "prior_score": 2.6362,
+      "prior_variance": 0.326598,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 3.5189,
+      "prior_variance": 0.333446,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_score": 2.2563,
+      "prior_variance": 0.26764,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 1.4242,
+      "prior_variance": 0.274146,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 1.1069,
+      "prior_variance": 0.21643,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lake Elmenteita",
+      "path": "africa/kenya/lakes/lakeelmenteita",
+      "prior_score": 2.8372,
+      "prior_variance": 0.343902,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_score": 1.6263,
+      "prior_variance": 0.331167,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": -0.2303,
+      "prior_variance": 0.434274,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica1",
+      "prior_score": -0.2345,
+      "prior_variance": 0.57811,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 1.62,
+      "prior_variance": 0.259527,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/borkum",
+      "prior_score": 0.9087,
+      "prior_variance": 0.202833,
+      "prior_n": 6
+    }
+  ]
+}

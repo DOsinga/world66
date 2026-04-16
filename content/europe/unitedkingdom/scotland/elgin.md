@@ -5,6 +5,7 @@ latitude: 57.6488
 longitude: -3.3148
 title: Elgin
 type: location
+score: 0.5
 ---
 
 Elgin is the main town of Moray, a prosperous market town on the river Lossie with a handsome high street and a cathedral ruin that once ranked among the finest in Scotland. Burned by the Wolf of Badenoch in 1390, the "Lantern of the North" still impresses — its twin towers visible from a good distance and its carved stonework still sharp after seven centuries.

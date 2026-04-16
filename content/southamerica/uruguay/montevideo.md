@@ -1,8 +1,9 @@
 ---
-title: "Montevideo"
+title: Montevideo
 type: location
 latitude: -34.905892
 longitude: -56.19131
+score: 0.59
 ---
 
 Montevideo is the very lively capital of Urugay. It is a stylish city with a strong European feel to it. The city was founded in 1726 on a promontory between the Rio del Plata and an inner bay; this area is still known as the Ciudad Vieja and is the area of main interest for visitors.

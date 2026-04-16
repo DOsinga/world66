@@ -3,6 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-Everything you want to do or see is in the walled city, or on the beach. The main street in the old twon, is the Avenue de l'Istiqlal, that goes from Bab Doukkala to the port. At the clocktower, place Cehfchaoui, there is a street leading north to the main square, place Prince Moulay Hassan. Just behind this is the Ksabha and the Skala. South of the Medina is the beach.
+Essaouira is a walking town. Everything in the medina is within ten minutes of everything else, and the main drag — Avenue de l'Istiqlal — runs straight from Bab Doukkala in the north down to the port. At the clocktower, Place Chefchaouni, a side street leads to the central square Place Moulay Hassan, with the Skala ramparts and the kasbah just behind. The beach starts immediately south of the medina walls.
 
- If you arrive by bus or taxi, they will drop you off north of the Medina. It is best to take a cab. They don't go into the old town, but will drop you off at the Clocktower.
+Cars are not allowed inside the medina. If you arrive by bus or grand taxi you'll be dropped just outside Bab Doukkala; petit taxis (blue) run the short distances around the new town for a few dirhams. To reach **Sidi Kaouki** (25km south) or **Moulay Bouzerktoun** (25km north), grand taxis leave when full from the bus station, or you can hire a taxi for the day.

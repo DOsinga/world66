@@ -5,9 +5,10 @@ latitude: 20.690251
 longitude: -88.2017
 title: Valladolid
 type: location
+score: 0.65
 ---
 
-Valladolid is a small colonial city halfway between [Mérida](/northamerica/mexico/yucatan/merida) and [Cancún](/northamerica/mexico/yucatan/cancun), and one of the most pleasant stops on the [Yucatán](/northamerica/mexico/yucatan) peninsula. The pace is slow, the architecture is handsome, and the town has not yet been overwhelmed by tourism.
+Valladolid is a small colonial city halfway between [Mérida](/northamerica/mexico/merida) and [Cancún](/northamerica/mexico/cancun), and one of the most pleasant stops on the [Yucatán](/northamerica/mexico/yucatan) peninsula. The pace is slow, the architecture is handsome, and the town has not yet been overwhelmed by tourism.
 
 The main plaza is the heart of the city — shaded, sociable, and ringed by colonial buildings including the Cathedral of San Gervasio. Mayan women sell hand-embroidered huipiles and blouses on the benches opposite the church. The shops **Artesanías del Parque** and **Ek Balam** on the square carry unusual handcrafts at good prices.
 

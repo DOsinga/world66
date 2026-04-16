@@ -1,12 +1,15 @@
 ---
 title: Nadi
 type: location
-latitude: -17.7993
-longitude: 177.4179
+latitude: -17.7753
+longitude: 177.4356
 done:
   location_cleanup: 2026-04-07
+score: 0.66
 ---
 
-Nadi is where most visitors to [Fiji](/australiaandpacific/fiji) first set foot, landing at Nadi International Airport about 15 minutes north of town. The town itself is small and functional — two streets crossing, a strip of shops, a produce market — but it serves as a useful staging point for the islands and resorts beyond.
+Nadi is Fiji's gateway town, sitting on the dry western coast of Viti Levu about fifteen minutes south of the international airport. Nearly every visitor to Fiji passes through here, and most treat it as a transit stop before heading to the islands. That is fair enough, but Nadi has its own rough charm and is worth a day if you are not in a rush.
 
-Most travellers pass through quickly on their way to the Mamanuca or Yasawa islands, or to the resorts on nearby Denarau Island. But Nadi has its own character: a large Indo-Fijian population, a colourful Hindu temple (Sri Siva Subramaniya, the largest in the Southern Hemisphere), cheap and excellent curry houses, and a market where you can pick up fresh fruit and carved wooden souvenirs. It is an honest, unpretentious town that gives a better sense of everyday Fijian life than the resort bubbles.
+The town itself is small and walkable — a single main street lined with Indian restaurants, handicraft shops, and a busy public market. Nadi's large Indo-Fijian population gives it a different feel from the resort coast. You will hear Hindi as often as Fijian, and the food leans toward curries and roti rather than resort buffets.
+
+Most travelers use Nadi as a base for reaching [Denarau Island](/australiaandpacific/fiji/vitilevu), the resort and marina complex just north of town where boats depart for the [Yasawa Islands](/australiaandpacific/fiji/yasawaislands) and the Mamanuca chain. The Sri Siva Subramaniya temple at the south end of town is one of the largest Hindu temples in the Southern Hemisphere and worth a look even if you are just passing through.

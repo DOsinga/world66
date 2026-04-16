@@ -5,6 +5,7 @@ latitude: 49.798
 longitude: 6.8253
 title: Mehring
 type: location
+score: 0.48
 ---
 
 Mehring is a quiet wine village on the Mosel, about 25 minutes by car downriver from Schweich. It is not as famous as many other places along the Mosel, which is a shame — it is a very pleasant village, a good and affordable base for discovering the valley by hiking or biking. The setting is glorious Mosel scenery, and [Trier](/europe/germany/rhinelandpalatinate/trier) and Luxembourg are within easy reach.

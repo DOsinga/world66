@@ -5,6 +5,7 @@ latitude: 35.163499
 longitude: 76.344152
 title: Khaplu
 type: location
+score: 0.49
 ---
 
 Khaplu sits at the confluence of the Hushe and Shyok rivers in Baltistan, a green oasis in an otherwise stark mountain landscape. It was once the capital of a small Balti kingdom, and the legacy shows in the beautifully restored Chaqchan Mosque — one of the oldest in the region, dating to the 14th century — and the Khaplu Palace, a grand timber-and-stone residence perched above the town with views across the valley to the Karakoram peaks.

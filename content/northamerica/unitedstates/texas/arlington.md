@@ -5,6 +5,7 @@ latitude: 32.7356
 longitude: -97.1071
 title: Arlington
 type: location
+score: 0.37
 ---
 
 Arlington sits midway between [Dallas](/northamerica/unitedstates/texas/dallas) and [Fort Worth](/northamerica/unitedstates/texas/fort_worth), and with 350,000 residents it is no suburb. The city's identity revolves around its entertainment district, home to the Texas Rangers' Globe Life Field, AT&T Stadium where the Dallas Cowboys play, and Six Flags Over Texas. On game days the area between the stadiums fills with tailgaters and the energy is unmistakable.

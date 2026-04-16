@@ -1,0 +1,200 @@
+{
+  "round": 1785,
+  "timestamp": "2026-04-13T10:50:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 0.7161,
+      "prior_variance": 0.591219,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 6.2393,
+      "prior_variance": 0.312058,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 0.9812,
+      "prior_variance": 0.55976,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Murcia",
+      "path": "europe/spain/spanishcostas/murcia",
+      "prior_score": 2.0903,
+      "prior_variance": 0.308697,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 1.8574,
+      "prior_variance": 0.299339,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 2.255,
+      "prior_variance": 0.297142,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_score": -0.164,
+      "prior_variance": 0.257555,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_score": -2.0998,
+      "prior_variance": 0.338594,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -1.2861,
+      "prior_variance": 0.307973,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kutch",
+      "path": "asia/india/gujarat/kutch",
+      "prior_score": 1.0783,
+      "prior_variance": 0.304773,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bihac",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -1.7171,
+      "prior_variance": 0.319868,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -2.1881,
+      "prior_variance": 0.287893,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -1.9177,
+      "prior_variance": 0.316094,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_score": -3.3601,
+      "prior_variance": 0.342092,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tuttlingen",
+      "path": "europe/germany/badenwrttemberg/tuttlingen",
+      "prior_score": -3.5129,
+      "prior_variance": 0.335419,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_score": -5.4554,
+      "prior_variance": 0.292886,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_score": -2.6821,
+      "prior_variance": 0.353911,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -4.3339,
+      "prior_variance": 0.49222,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kanye",
+      "path": "africa/botswana/kanye",
+      "prior_score": -7.1192,
+      "prior_variance": 0.55538,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_score": -3.3936,
+      "prior_variance": 0.40606,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -10.4621,
+      "prior_variance": 0.443208,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_score": -7.8309,
+      "prior_variance": 0.37855,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -11.5014,
+      "prior_variance": 0.689346,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "MdFrJwObBzEDeO",
+      "path": "europe/russia/krasnoyarsk_region/mdfrjwobbzedeo",
+      "prior_score": -14.8327,
+      "prior_variance": 1.609813,
+      "prior_n": 4
+    }
+  ]
+}

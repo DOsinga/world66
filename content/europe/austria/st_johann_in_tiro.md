@@ -5,6 +5,7 @@ latitude: 47.5224
 longitude: 12.4287
 title: St. Johann in Tirol
 type: location
+score: 0.57
 ---
 
 St. Johann in Tirol is a market town in the Kitzbühel Alps, about ten kilometres east of its more famous neighbour [Kitzbühel](/europe/austria/kitzbuhel). It serves as the commercial centre of the district and offers a more affordable, less glamorous alternative for skiing and hiking in the same mountains.

@@ -5,6 +5,7 @@ latitude: 25.335649
 longitude: 83.007629
 title: Varanasi
 type: location
+score: 0.65
 ---
 
 Varanasi is one of the oldest continually inhabited cities in the world and the spiritual heart of Hinduism. Situated on the west bank of the Ganges in Uttar Pradesh, it is a city where death and life exist side by side with a directness that can be overwhelming — cremation ghats burn day and night, pilgrims bathe at dawn, and sadhus sit in meditation while children fly kites overhead.

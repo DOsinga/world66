@@ -5,6 +5,7 @@ latitude: 14.4348
 longitude: -89.1836
 title: Ocotepeque
 type: location
+score: 0.34
 ---
 
 Nueva Ocotepeque sits at around 900 metres in the far western corner of Honduras, wedged between Guatemala and El Salvador at one of Central America's few genuine three-country meeting points. Most travelers stop here only long enough to change buses or handle paperwork at the border, but the town itself is calm, functional, and underrated as a base for the surrounding highlands.

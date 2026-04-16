@@ -5,6 +5,7 @@ latitude: 33.303294
 longitude: 73.04961
 title: Rajoa
 type: location
+score: 0.22
 ---
 
 Travel Guide

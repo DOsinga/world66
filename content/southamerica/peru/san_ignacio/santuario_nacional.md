@@ -5,6 +5,7 @@ latitude: -5.172406
 longitude: -79.278118
 title: Santuario Nacional Tabaconas Namballe
 type: location
+score: 0.39
 ---
 
 The Santuario Nacional Tabaconas Namballe is a large protected area in Peru's far north, near the Ecuadorian border. Its remoteness has kept it remarkably intact — dense cloud forest covers the lower slopes, giving way to páramo grassland at the highest elevations, with lakes scattered across the mountaintops.

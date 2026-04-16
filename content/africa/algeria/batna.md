@@ -5,6 +5,7 @@ latitude: 35.338429
 longitude: 5.731545
 title: Batna
 type: location
+score: 0.35
 ---
 
 Batna is a gateway town in eastern Algeria, sitting at over 1,000 metres on the northern edge of the Aurès Mountains. The town itself is functional rather than charming — the French built it as a military camp in 1844 to control the roads running south into the Sahara — but the surroundings are the reason to come.

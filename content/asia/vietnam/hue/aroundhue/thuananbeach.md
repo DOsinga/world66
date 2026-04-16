@@ -5,6 +5,7 @@ latitude: 16.4583
 longitude: 107.635
 title: Thuan An Beach
 type: location
+score: 0.48
 ---
 
 Thuan An Beach lies just 15 kilometres east of Hue, where the Huong River flows into the Tam Giang Lagoon and out to the South China Sea. The drive is pleasant — the road follows the river past temples, pagodas and rice fields.

@@ -5,6 +5,7 @@ latitude: 39.166326
 longitude: -119.767037
 title: Carson City
 type: location
+score: 0.41
 ---
 
 Carson City is Nevada's state capital, a small city tucked against the eastern slope of the Sierra Nevada about 30 miles south of Reno. It has the feel of a western town that grew up without quite meaning to — wide streets, low buildings, big sky, and the mountains always in view.

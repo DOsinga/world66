@@ -5,6 +5,7 @@ latitude: 33.274983
 longitude: -8.343252
 title: Azemmour
 type: location
+score: 0.49
 ---
 
 Azemmour is the least visited of Morocco's Atlantic coastal towns, and the quieter for it. It sits where the Oum er-Rbia — Morocco's largest river — meets the Atlantic, about 15 km north of El Jadida and 75 km south of Casablanca. The Portuguese occupied the town in the 16th century and left a circuit of walls that remain largely intact; the best views of the ramparts and the old medina are from across the river.

@@ -1,8 +1,13 @@
 ---
-title: "Tokyo"
+title: Tokyo
 type: location
 latitude: 35.67686
 longitude: 139.763895
+score: 0.96
+image: tokyo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg
+image_license: CC BY 4.0
+image_attribution: David Kernan
 ---
 
 Tokyo is really really big. It actually consists of different cities that have their own special attractions. Since it doesn't make too much sense to tell about all of these different cities as if they were one city, we have subdivided Tokyo in the following way. 

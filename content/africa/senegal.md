@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Atherton</a>
 done:
   country_cleanup: 2026-03-31
+score: 0.49
 ---
 
 *Africa > Senegal*

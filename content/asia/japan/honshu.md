@@ -1,8 +1,9 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
 latitude: 36.2048
 longitude: 138.2529
+score: 0.68
 title: Honshu
 type: location
 ---

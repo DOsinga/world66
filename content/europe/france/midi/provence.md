@@ -5,6 +5,11 @@ latitude: 43.9493
 longitude: 6.0679
 done:
   location_cleanup: 2026-04-02
+score: 0.77
+image: provence.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Avignon_-_Jardin_des_Doms_(Rocher_des_Doms)_-_Panorama_View_over_the_river_Rh%C3%B4ne_valley_02.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Txllxt TxllxT
 ---
 
 Provence has been drawing visitors since long before the word "tourism" existed. Roman generals retired here, medieval popes set up court in [Avignon](/europe/france/midi/provence/avignon), and painters like Van Gogh and Cezanne came for the light and never wanted to leave.

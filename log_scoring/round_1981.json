@@ -1,0 +1,200 @@
+{
+  "round": 1981,
+  "timestamp": "2026-04-13T15:59:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beverly Hills",
+      "path": "northamerica/unitedstates/california/losangeles/beverlyhills",
+      "prior_score": 2.3271,
+      "prior_variance": 0.268024,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 1.1813,
+      "prior_variance": 0.309045,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 4.8388,
+      "prior_variance": 0.273449,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_score": 4.3477,
+      "prior_variance": 0.280085,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_score": 3.5896,
+      "prior_variance": 0.269466,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 3.4217,
+      "prior_variance": 0.256657,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_score": 1.2195,
+      "prior_variance": 0.248805,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_score": -1.1422,
+      "prior_variance": 0.305976,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": 0.9781,
+      "prior_variance": 0.252659,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.3392,
+      "prior_variance": 0.249821,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -0.8026,
+      "prior_variance": 0.251842,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_score": -0.2288,
+      "prior_variance": 0.204445,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_score": -0.0436,
+      "prior_variance": 0.318867,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Paderborn",
+      "path": "europe/germany/paderborn",
+      "prior_score": -0.24,
+      "prior_variance": 0.274521,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Surco",
+      "path": "southamerica/peru/surco",
+      "prior_score": -3.661,
+      "prior_variance": 0.451881,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Mississippi",
+      "path": "northamerica/unitedstates/mississippi",
+      "prior_score": -2.9545,
+      "prior_variance": 0.31392,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -3.9465,
+      "prior_variance": 0.266638,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_score": -1.682,
+      "prior_variance": 0.217329,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -2.4989,
+      "prior_variance": 0.333452,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Beveren",
+      "path": "europe/belgium/beveren",
+      "prior_score": -4.3331,
+      "prior_variance": 0.237105,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Beckenham",
+      "path": "europe/unitedkingdom/england/beckenham",
+      "prior_score": -3.5695,
+      "prior_variance": 0.274689,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -2.9812,
+      "prior_variance": 0.432341,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_score": -4.2236,
+      "prior_variance": 0.321413,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Pabre",
+      "path": "africa/burkinafaso/ouagadougou/excursions/pabre",
+      "prior_score": -9.0413,
+      "prior_variance": 0.314855,
+      "prior_n": 5
+    }
+  ]
+}

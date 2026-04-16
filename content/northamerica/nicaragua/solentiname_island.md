@@ -5,6 +5,7 @@ latitude: 11.2
 longitude: -84.7833
 title: Solentiname Islands
 type: location
+score: 0.46
 ---
 
 The Solentiname Islands are a small archipelago in the southern end of Lake Nicaragua, about as far off the beaten path as you can get in Central America. Reached from San Carlos by a twice-weekly public boat (or by arranging private transport), they feel genuinely remote — no ATMs, no nightlife, just a handful of guesthouses and an extraordinary art tradition.

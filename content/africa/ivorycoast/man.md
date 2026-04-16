@@ -5,6 +5,7 @@ latitude: 7.410258
 longitude: -7.550372
 title: Man
 type: location
+score: 0.32
 ---
 
 Man itself is not a particularly beautiful town, but the lush green hills surrounding it make it one of the more rewarding destinations in western Ivory Coast.

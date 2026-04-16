@@ -1,8 +1,13 @@
 ---
-title: "Madrid"
+title: Madrid
 type: location
 latitude: 40.416782
 longitude: -3.703507
+score: 0.75
+image: madrid.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_la_Almudena,_Madrid,_Espa%C3%B1a,_2014-12-27,_DD_23.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
 ---
 
 Spain's capital is a lively city - nobody is exactly sure when the Madrilenos sleep. It may be the afternoon siesta that gives them the endurance to keep things going well into the night. Try it. 
@@ -20,4 +25,4 @@ It's actually quite possible to get tired of all these museums in Madrid; if thi
 Madrid is a city that never seems to close down-bars and restaurants are open very late and the city's Santa Ana district never closes down. Dinner doesn't usually begin until after 10 pm and after that revelers head off to their favorite disco show, jazz club or late-night cafe to play until dawn. For a concentrated area of late-night activity head to Huertas Street after midnight and you're sure to find something to match your tastes. Hemingway fans may want to check out the Museo Chicote bar described in many of his Spanish Civil War stories (and a very trendy spot). Those who love traditional performing arts will want to go to the Teatro Real for Spanish light opera known as zarzuela. You can also find good flamenco shows in several nightclubs including Cafe Chinitas. 
  
 
-If you're in Madrid during the second half of May be sure to join Madrilenos in celebrating the Feria de San Isidro which has music, operas, concerts, bullfighting dancing and all-night entertainment. During our last trip, we attended a concert devoted to American bluegrass music held in the Plaza Mayor. And mid August is when the city celebrates the Verbena de la Paloma. Outside of Madrid day trips can be made to [Avila](/europe/spain/centralspain/avila), [El Escorial](/europe/spain/centralspain/elescorial), [Guadalajara](/europe/spain/centralspain/guadalajara), [Segovia](/europe/spain/centralspain/segovia) and [Toledo](/europe/spain/centralspain/toledo).
+If you're in Madrid during the second half of May be sure to join Madrilenos in celebrating the Feria de San Isidro which has music, operas, concerts, bullfighting dancing and all-night entertainment. During our last trip, we attended a concert devoted to American bluegrass music held in the Plaza Mayor. And mid August is when the city celebrates the Verbena de la Paloma. Outside of Madrid day trips can be made to [Avila](/europe/spain/centralspain/avila), [El Escorial](/europe/spain/centralspain/elescorial), [Guadalajara](/europe/spain/la_mancha/guadalajara), [Segovia](/europe/spain/centralspain/segovia) and [Toledo](/europe/spain/la_mancha/toledo).

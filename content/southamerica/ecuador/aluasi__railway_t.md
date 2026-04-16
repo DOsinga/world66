@@ -5,6 +5,7 @@ latitude: -2.2005
 longitude: -78.8469
 title: Alausi
 type: location
+score: 0.56
 ---
 
 Alausi is a small highland town in central Ecuador, about two hours by bus south of [Riobamba](/southamerica/ecuador/riobamba), perched at the top of a steep descent into the lowlands. A statue of St Peter watches over the town from a hilltop, and the climate is often cold and cloudy, especially in the rainy season.

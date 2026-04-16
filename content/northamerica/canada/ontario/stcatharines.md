@@ -5,6 +5,7 @@ latitude: 43.157981
 longitude: -79.2441
 title: St. Catharines
 type: location
+score: 0.38
 ---
 
 St. Catharines is the largest city in the Niagara region of [Ontario](/northamerica/canada/ontario), sitting on the shore of Lake Ontario at the northern end of the Welland Canal. Most travellers pass through on their way to [Niagara Falls](/northamerica/canada/ontario/niagrafalls), but the city makes a decent base for exploring the wider peninsula.

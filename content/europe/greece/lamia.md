@@ -5,6 +5,7 @@ latitude: 38.899383
 longitude: 22.433582
 title: Lamia
 type: location
+score: 0.43
 ---
 
 Lamia is a city of around 50,000 people in central [Greece](/europe/greece), set in a valley beneath Mount Othrys. It is not a tourist destination in its own right, but it makes a practical stop for travellers heading between Athens and Thessaloniki — and the surrounding landscape, all mountains and olive groves, is striking.

@@ -5,6 +5,7 @@ latitude: -20.3297
 longitude: -40.292
 title: Vila Velha
 type: location
+score: 0.4
 ---
 
 Vila Velha is a coastal city in Espírito Santo state, sitting directly across the Penha Channel from Vitória, the state capital. The two cities blend into each other at the waterfront, but Vila Velha has a distinct character: more residential, a bit more relaxed, and home to some of the best beaches in the metropolitan area.

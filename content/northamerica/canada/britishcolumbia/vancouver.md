@@ -1,19 +1,22 @@
 ---
-title: "Vancouver"
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 49.260872
 longitude: -123.113952
+score: 0.76
+title: Vancouver
+type: location
 ---
 
-In both 2001 and 2000, Vancouver has been rated as the city with the best quality of life ... in the world (surveys by the William M. Mercer company). Those of us who live in the area can't argue with that statement. 
+Vancouver sits on a peninsula between mountains and the sea, with snow-capped Coast Mountains rising directly from saltwater inlets and forests pushing right up against the downtown core. The combination gives the city a distinctive quality — you can ski in the morning, bike a seawall in the afternoon, and eat some of the best Asian food in North America for dinner. It is consistently ranked among the most liveable cities in the world, and the locals — a high proportion of whom moved here from somewhere else — generally agree.
 
-Vancouver began as a fur trading post after Don Jose Narvaez discovered the Straight of Georgia & English Bay in 1791 and when Capt. George Vancouver discovered Burrard Inlet in 1792. 
+The city is shaped by water and parkland. **Stanley Park**, jutting out north of downtown, is one of the great urban parks of the world: 1,000 acres of old-growth forest, a 9km seawall around its perimeter, and the Vancouver Aquarium at its centre. **Granville Island**, under the south end of the Granville Bridge, packs a public market, a working concrete plant, dozens of small shops and the city's best aimless wander into a few square blocks. **English Bay** and **Kitsilano Beach** anchor a string of usable beaches that frame the West End and West Side.
 
-Today Vancouver is a bustling metropolitan city of two million, surrounded by the natural beauty of the Pacific Ocean and the majestic coastal mountain range. Termed the 'Crown Jewel of Western Canada', Vancouver is the financial, shipping, industrial and cultural centre of Canada's west coast. 
+The neighbourhoods reward exploration. **Gastown**, the city's oldest district, has cobblestone streets and the famous steam clock; the heritage warehouses now hold restaurants and design shops. **Chinatown**, just east of Gastown, is one of the largest and oldest in North America. **Yaletown**, a former rail-yard district, has converted brick warehouses into the city's most fashionable bar and restaurant strip. **Commercial Drive** in East Vancouver is the bohemian, multicultural counterpart — Italian cafes, Ethiopian restaurants and indie shops.
 
-Be sure to see the landmark conference centre Canada Place where cruise ships dock while in Vancouver. 
+Across the inlet, the **North Shore** rises sharply into mountain. **Grouse Mountain** has a gondola to a summit ski area with skyline views over the city; **Capilano Suspension Bridge** and the Lynn Canyon footbridge swing high above old-growth forest. The **Museum of Anthropology** at UBC, on Point Grey, holds one of the world's finest collections of Northwest Coast First Nations art and is reason enough alone to come to Vancouver.
 
-Go to the world famous Stanley Park, and the Vancouver Aquarium. Visit Gastown and Chinatown. Go shopping at Lonsdale Quay and Granville Island. Take the gondola up Grouse Mountain. Don't miss Vandusen Botanical Gardens or the Dr Sun Yat-Sen Classical Chinese Garden. 123
+The food scene reflects the city's demographics — Vancouver has the largest Chinese community in Canada outside Toronto, and the dim sum, Cantonese seafood and modern Chinese cooking in **Richmond** are world-class. Sushi is similarly excellent, and the Pacific Northwest tradition of seafood-and-craft-beer is in full swing across Yaletown, Gastown and the brewery district on the east side.
 
 ## Destinations in Vancouver
 
@@ -22,6 +25,6 @@ Go to the world famous Stanley Park, and the Vancouver Aquarium. Visit Gastown a
 [North Vancouver](/northamerica/canada/britishcolumbia/vancouver/northvancouver)
 [Langley](/northamerica/canada/britishcolumbia/vancouver/langley)
 [Burnaby](/northamerica/canada/britishcolumbia/vancouver/burnaby)
-[golden ears](/northamerica/canada/britishcolumbia/vancouver/goldenears)
+[Golden Ears](/northamerica/canada/britishcolumbia/vancouver/goldenears)
 [New Westminster](/northamerica/canada/britishcolumbia/vancouver/newwestminster)
 [Coquitlam](/northamerica/canada/britishcolumbia/vancouver/coquitlam)

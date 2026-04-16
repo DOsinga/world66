@@ -1,10 +1,12 @@
 ---
+title: Atheneum Boekhandel
+type: poi
+category: Shop
 tags:
 - shopping
-title: Atheneum
-type: poi
+address: Spui 14–16
+latitude: 52.3699
+longitude: 4.8901
 ---
 
-On the Spui, right in the center of town, Atheneum has morebooks than you can imagine to fit in this characteristic Amsterdam house. Great selection of magazines as well.
-
-type: Antiques
+One of Amsterdam's best independent bookshops, on the Spui in the city centre. Strong on literature, history, and Dutch-language titles, with a good English section and one of the best magazine selections in the city. The Nieuwscentrum next door handles newspapers and periodicals.

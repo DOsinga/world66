@@ -1,5 +1,6 @@
 ---
 address: Twede Constantijn, Huygensstraat 57
+category: Speciality shops
 phone: (020) - 6834180
 tags:
 - shopping

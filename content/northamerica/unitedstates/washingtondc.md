@@ -1,9 +1,11 @@
 ---
-title: Washington D.C.
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 38.895037
 longitude: -77.036543
 score: 0.68
+title: Washington D.C.
+type: location
 ---
 
 The capital of the United States of America is a city rife with contradiction and irony. Beautiful monuments to our history exist steps away from some of the worst slums in America. The city that professes to lead the free world can barely govern itself, its own city government often plagued with corruption. Of the United States but not a state itself, the District of Columbia occupies a unique niche in American culture, the city whose purpose by design (for better or worse)is to rule.

@@ -3,11 +3,12 @@ address: Stadhouderskade 42
 category: Museum
 latitude: 52.360827
 longitude: 4.884463
+neighbourhood: Museum Quarter
 opening_hours: Daily 9:00–18:00 (closed 1 January)
 phone: +31 (0)20 6747047
 tags:
 - things_to_do
-- museum
+- museum_quarter
 title: Rijksmuseum
 type: poi
 url: rijksmuseum.nl

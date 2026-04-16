@@ -1,9 +1,11 @@
 ---
-title: Genoa
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 44.40726
 longitude: 8.933862
 score: 0.64
+title: Genoa
+type: location
 ---
 
 Genoa is Italy's most underrated city. While tourists crowd Florence and Venice, Genoa goes quietly about its business — a working port that also happens to have the largest medieval city centre in Europe, a cluster of Renaissance palaces that can match any in Italy, and a food culture built around pesto, focaccia, and fresh fish that the rest of the world has been trying to replicate ever since.

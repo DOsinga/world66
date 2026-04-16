@@ -1,9 +1,8 @@
 ---
-title: "Bars and Cafes in Beijing"
+title: "Bars and Cafes"
 type: section
 ---
 
-Vichy Beauty & Massage Center24hours Out call massage
-Our Center located at the CBD of Beijing, the South East corner of “Guomao bridge”, surrounded by Avic Hotel, Avic 1 Building, Southern Air line Hotel, Ascott Hotel. Our address: Room 18O3, Sun Thirsty Apartment, Dabeiyao; there are lots of parking space, its very convenience for you to visit us.We provide five-star services, over 150 。business area, four independent massage rooms and VIP room with warm and comfort environment. Free drinks, free shower bath and free Wireless Network are provided. We accept VISA and credit card. We provide first-class professional service but a reasonable fee. Our masseuses are elegant, chic and romantic with much experience and professional skill. They will give you more and more surprise and happiness.Relax your body and soul. Do not hesitate, come and visit us, you will enjoy a 20% discount. In Beijing any place we will send an excellent masseuses within 30-40 minutes straight to
-http://www.bjvichy.com
-010-65664566；15910791248
+Beijing's nightlife has matured considerably over the last two decades. Sanlitun, the long-established expat area east of the Workers' Stadium, remains the densest concentration of bars — from the touristy corridor of Bar Street to the more interesting cocktail bars and live-music venues tucked into the hutongs behind. Gulou and Nanluoguxiang, in the old city centre, have the best independent bars and coffee shops — atmospheric little places carved out of grey-brick courtyards. The Houhai lake district is popular with Chinese tourists for its cluster of bars lining the water, though most have become tacky and loud.
+
+Coffee culture has exploded since the mid-2010s; specialty roasters are everywhere, particularly around the hutong neighbourhoods and Beixinqiao. For traditional Chinese tea houses, try Lao She Teahouse near Tiananmen or the Great Leap Brewing locations around the city for craft beer.

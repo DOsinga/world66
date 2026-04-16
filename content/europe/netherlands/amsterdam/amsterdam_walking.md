@@ -1,7 +1,7 @@
 ---
 email: monique@amsterdamspecialevents.nl
 tags:
-- tours_and_excursions
+- tours_and_excursio
 title: Amsterdam walking tour
 type: poi
 url: www.amsterdamspecialevents.nl

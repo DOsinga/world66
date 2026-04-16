@@ -2,9 +2,10 @@
 category: Architecture
 latitude: 52.374362
 longitude: 4.898073
+neighbourhood: De Wallen
 tags:
 - things_to_do
-- architecture
+- de_wallen
 title: Oude Kerk
 type: poi
 ---

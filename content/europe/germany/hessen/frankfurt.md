@@ -1,11 +1,11 @@
 ---
-title: Frankfurt
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 50.1109
 longitude: 8.6821
-done:
-  location_cleanup: 2026-04-05
 score: 0.56
+title: Frankfurt
+type: location
 ---
 
 Frankfurt am Main — "Mainhattan" to the Germans, "Bankfurt" when they are feeling uncharitable — is a rich, restless city of 750,000 on the banks of the Main river in the centre of Germany. For a lot of overseas travellers it is the first thing they see of Europe, because of the airport: one of the busiest in the world and the hub of Lufthansa. That reputation as a stopover is unfair. Frankfurt is a compact, surprising, and far more liveable place than its glass towers suggest.

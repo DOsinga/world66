@@ -1,5 +1,6 @@
 ---
 address: Rokin 60
+category: Wine
 latitude: 52.370797
 longitude: 4.892379
 phone: 020 625 0628

@@ -1,8 +1,8 @@
 ---
-latitude: 52.3728
-longitude: 4.8936
+latitude: 51.584751
+longitude: 4.777532
 tags:
-- coffeeshops
+- drugs
 title: Anyday
 type: poi
 ---

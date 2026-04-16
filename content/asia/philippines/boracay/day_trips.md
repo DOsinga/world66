@@ -1,16 +1,8 @@
 ---
-title: "Day Trips in Boracay"
+title: "Day Trips"
 type: section
 ---
 
-Make your stay in the Boracay island meaningful and worthwhile by planning fun-filled **Boracay day trips**. There are a lot of things to visit and explore on this island.
+Most day trips from Boracay are by boat. The standard island-hopping run takes in **Crocodile Island** (good snorkelling on a healthy reef), **Magic Island** (cliff-jumping), the **Bat Caves** at Yapak, and a stop at quiet **Puka Beach** in the north — book a paraw outrigger from White Beach, expect a barbecue lunch, and bring sunscreen. **Ariel's Point** half an hour by boat across the channel on Panay is a popular cliff-jumping and snorkelling spot with an all-inclusive lunch.
 
-**Boat Trips**
-
-The guests have the chance to visit the &ldquo;must see&rdquo; places in Boracay Island through the boat trips. They can visit the private Puka Shell Beach, snorkel at the Crcodile Island, take a glimpse at some of the beautiful islets, look at the bat cave, and have a picnic.
-
-**Picnic Tours **
-
-To enjoy your day in Boracay, you can embark on the picnic tour. This includes going around the island with a tour guide. You can also take your time out to explore the exotic marine life in the place. If you are looking for a fun activity, you can go for kayak ride. After the trip, you can have a picnic on the deserted beach.
-
-If you are looking for more exciting activities that will complete your day, you can also try the Banana Fun Ride, visit Hurom-Hurom Cold Springs or go for a helicopter ride.
+For a longer escape, the ferry from **Caticlan** on the mainland gives you access to the rest of Aklan and Antique provinces — the **Bugang River** for tubing, the **Nabaoy River** for swimming, and inland **Malay** for a glimpse of life away from the beach.

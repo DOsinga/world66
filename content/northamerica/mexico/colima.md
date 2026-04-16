@@ -1,19 +1,11 @@
 ---
-done:
-  location_cleanup: '2026-04-15'
-latitude: 19.2427
-longitude: -103.7253
+latitude: 19.2433
+longitude: -103.7247
 score: 0.42
 title: Colima
 type: location
-image: colima.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Government_Palace_of_Colima_at_night.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Rx 100e
 ---
 
-Colima is the capital of the state of Colima, one of Mexico's smallest states, and it is a city that rewards a slow visit. It sits in a fertile valley at around 490 meters elevation, giving it a climate that is warm rather than punishing, and a pace that feels genuinely unhurried. The architecture of the centro histórico is well-preserved colonial and neo-classical, centered on the Jardín Libertad, a classic Mexican zócalo with the Cathedral and the neo-classical Palacio de Gobierno on its flanks. The Government Palace's arched portales are one of the better examples of 19th-century civic architecture in western Mexico.
+Colima is the small, relaxed capital of Mexico's smallest state, sitting in a lush valley between two volcanoes -- the active Volcan de Fuego and the dormant Nevado de Colima. The volcanoes dominate the landscape and the local imagination; on clear days their peaks frame the city beautifully, and Fuego occasionally sends up plumes of smoke as a reminder that nature runs the show here. The city has a well-preserved colonial center with a handsome cathedral, shaded portales around the main plaza, and the kind of unhurried provincial atmosphere that the big Mexican cities have largely lost.
 
-Looming over everything is the Volcán de Colima — actually a volcanic complex including the older, dormant Nevado de Colima and the active younger cone, which Mexicans call the Volcán de Fuego. It is one of North America's most persistently active volcanoes, regularly emitting gas plumes and periodic ash falls that dust the city and local crops. On clear mornings the cone is visible from the city center, a classic symmetrical profile capped occasionally with a plume. Excursions toward the volcano are possible, though the exclusion zone fluctuates with activity levels.
-
-The Regional Museum of History occupies a handsome colonial building and covers the pre-Hispanic cultures of western Mexico, including the shaft tomb tradition of the region — elaborate underground burial chambers that have yielded significant archaeological finds, including the distinctive Colima dog figurines. The city also has pleasant botanical gardens and a series of small plazas worth wandering. Hot springs lie in the hills nearby, a popular weekend destination for locals. The coast at Manzanillo is roughly an hour west, making a beach day easy to combine with a stay in the city.
+The Museo Regional de Historia has a good collection of pre-Columbian ceramics, including the distinctive Colima dog figures that turn up in museums worldwide. The city is walkable and safe, prices are low, and the climate is warm year-round. Colima makes a good base for visiting the coast at Manzanillo, about an hour and a half away, or for hiking on the lower slopes of the Nevado. It sees very few foreign tourists, which is part of its appeal.

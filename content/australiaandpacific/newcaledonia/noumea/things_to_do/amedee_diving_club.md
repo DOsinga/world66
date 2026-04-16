@@ -1,14 +1,9 @@
 ---
-title: "Amedee Diving Club"
+title: "Amédée Diving Club"
 type: poi
-type: "Diving"
+category: Sight
+latitude: -22.4822
+longitude: 166.4694
 ---
 
-Amedee Diving Club is the place to go if you want to learn how to dive and have fun at the same time. With highly qualified instructors and a 5 star diving centre you are assured to have a good time. There are a number of services including wreck, free, inside and outside the lagoon diving.
-
-The diving club is based on Amédée Lighthouse Island.
-
-**Contributors**
-February 28, 2005
-
-type: Diving
+A PADI-affiliated dive centre based on Amédée Lighthouse Island, about an hour's boat ride south of Nouméa. Runs trips to a range of dive sites inside and outside the barrier reef, including several wreck dives. Day-trippers visiting the lighthouse on the regular catamaran can combine the visit with a dive or snorkel on the reef.

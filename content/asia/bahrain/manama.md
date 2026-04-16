@@ -1,9 +1,11 @@
 ---
-title: Manama
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 26.223504
 longitude: 50.582244
 score: 0.5
+title: Manama
+type: location
 ---
 
 Manama is arabic for 'sleepy place', but this name does not do the capital of Bahrain justice. Manama (pop. 152 000) contains the country’s major hotels, best nightlife, nicest shopping and primary tourist attractions. 

@@ -1,19 +1,15 @@
 ---
+done:
+  location_cleanup: '2026-04-16'
+latitude: 31.2304
+longitude: 121.4737
+score: 0.76
 title: Shanghai
 type: location
-latitude: 31.231271
-longitude: 121.470015
-score: 0.76
 ---
 
-'Paris of the Orient', that's what they used to call Shanghai in the past, when it was still the leading power in trade and opium. From the communist revolution that followed, and which swept Shanghai into anonimity, can only some traces be found in present Shanghai. Today, Shanghai is the commercial center of China and has one of the most dynamic skylines in the world. The 17-million-citizens city shows her dualistic face in every corner of the city.
+Shanghai is China at full volume: 25 million people, a skyline that rewrites itself every few years, and a habit of swallowing every new idea whole and spitting out something distinctly Shanghainese. Stand on **the Bund** at dusk and the contrast is brutal and beautiful — at your back the colonial-era banks and trading houses of the 1920s, across the river the floodlit towers of **Pudong**, with the Oriental Pearl, the Jin Mao, the Shanghai World Financial Center and the twisting Shanghai Tower (632 m, second-tallest building on earth) all visible at once. No other city in the world stages this kind of side-by-side argument between its past and its future.
 
+Walk inland and the city changes character every few blocks. The **French Concession** is the loveliest district on foot — plane-tree avenues, Art Deco villas, hidden lane houses (*shikumen*), and a dense weave of bars, boutiques and cafes around streets like Wukang Lu, Yongkang Lu and Anfu Lu. To the south, the **Old Town** wraps around **Yu Garden**, a sixteenth-century Ming dynasty garden of zigzag bridges and rockeries surrounded by a lively bazaar and the famous Nanxiang dumpling house. Further west, the **Jing'an** and **Xintiandi** areas mix luxury malls, restored *shikumen* lanes and serious restaurant scenes. The Shanghai Museum on People's Square is genuinely world-class — the bronzes alone are worth the trip.
 
- 
- The Old Centre in the Yu Yuan area, where you can find one of the oldest streets of China, the ' sights, is the heart of the modern town. It is a good starting point for a boat trip on the Huangpu river or a visit to the Yu Yuan Market. 
- Because of the fact that Shanghai is quite a walkable city, you will find the city museums and interesting sites along your way.
- Although the city is fairly commercial these days, Shanghai's residents have made an major effort in creating 'green zones' in the city....and they've succeeded. There is always a park or traditional garden in the vicinity. Sit down, relax and let others do the meditating for you. 
-
-
- Important notice: Some info has been provided by ** 
- China Holiday. **
+Eat hard. Shanghai's local cuisine runs to sweet, soy-rich braises and steamed things: *xiaolongbao* (soup dumplings), *shengjianbao* (pan-fried buns with crisp bottoms), drunken crab in autumn, red-braised pork belly (*hongshao rou*), and noodles in scallion oil. The city is also the easiest place in China to find good Sichuan, Cantonese, Yunnan, Japanese and Italian — the food scene is restless and excellent. Get around on the metro, which is cheap, clean, vast and mostly bilingual. Spring (April-May) and autumn (September-October) are the best months; July is a sauna and January is dank and grey.

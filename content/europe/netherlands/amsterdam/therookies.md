@@ -2,7 +2,7 @@
 latitude: 52.362973
 longitude: 4.885241
 tags:
-- coffeeshops
+- drugs
 title: The Rookies
 type: poi
 ---

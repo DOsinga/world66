@@ -1,14 +1,10 @@
 ---
 title: "Red Pirates"
 type: poi
-address: "Angol, White Beach"
+address: "Angol, White Beach (near boat station 3)"
 phone: "036 288 5767"
+latitude: 11.9595
+longitude: 121.9255
 ---
 
-This is a nice little bar near boat station 3. It's a small, friendly place, popular with backpackers and travellers. It's also the home of native music, arts and crafts. This is the place in Boracay to catch the sunset.
-
-
-
-tel: 036 288 5767
-
-address: Angol, White Beach
+A small, friendly beach bar at the southern, quiet end of White Beach near Station 3. Popular with backpackers and long-stayers, and one of the best spots on the island to sit down with a cold beer and watch the sun drop into the sea. They also run paraw sailing trips to Puka Beach with a barbecue on board — book a day ahead.

@@ -1,6 +1,7 @@
 ---
+category: Going to the Beach
 tags:
-- things_to_do
+- activities
 title: Jogging in Amsterdam
 type: poi
 url: www.iamsterdam.com

@@ -3,10 +3,6 @@ title: "Day Trips"
 type: section
 ---
 
-There are many things you can see and do close to Zurich. In winter you can go skiing in the mountains, in summer you can go out on the lake. There are also many charming towns and city within day tripping distance.
+Zurich sits inside Switzerland's dense rail network and almost every corner of the country is reachable in a day. The Rhine Falls at Schaffhausen, Europe's most voluminous waterfall, are 45 minutes north by train. Lucerne is under an hour south and makes a classic day — lake, old town, Mount Pilatus — as does Bern, the federal capital, about an hour west. Einsiedeln's Benedictine abbey and the ski slopes of Hoch-Ybrig are both reachable by train and bus from the main station.
 
-[Hoch Ybrig
-
-Hoch Ybrig](/europe/switzerland/zurich/day_trips/hoch_ybrig) is a ski area close to
-[Zurich](/europe/switzerland/zurich). By public transport you can get here in 1,5 hours. First by train to
-[Einsiedeln](/europe/switzerland/einsiedeln) and then by bus. You can get a combined ticket for train, bus and the skiing area at the station.
+For mountains, a rail pass and an early start get you to Grindelwald, Interlaken, and the edge of the Jungfrau region by mid-morning. In summer, the small boats on Lake Zürich run up the lakeshore to towns like Rapperswil, which makes for a slower, more scenic half-day out.

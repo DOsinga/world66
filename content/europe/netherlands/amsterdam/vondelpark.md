@@ -2,9 +2,10 @@
 category: Sight
 latitude: 52.357197
 longitude: 4.864119
+neighbourhood: Museum Quarter
 tags:
 - things_to_do
-- sight
+- museum_quarter
 title: Vondelpark
 type: poi
 ---

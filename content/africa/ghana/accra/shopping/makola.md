@@ -1,8 +1,8 @@
 ---
-title: "Makola"
+title: "Makola Market"
 type: poi
-latitude: 5.643838
-longitude: -0.32941
+latitude: 5.5485
+longitude: -0.2107
 ---
 
-Makola was destroyed in a 1993 dire. It's still good for beads and fabrics.
+Accra's central market, gutted by fire in 1979 (during Rawlings' first coup) and again in 1993, but always rebuilt. Beads and printed fabrics are the classic buys, alongside food, soap, kitchenware, and just about anything else. Go in the morning, mind your bag, ask before photographing.

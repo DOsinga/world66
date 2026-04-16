@@ -2,9 +2,10 @@
 category: Architecture
 latitude: 52.374527
 longitude: 4.883978
+neighbourhood: The Jordaan
 tags:
 - things_to_do
-- architecture
+- jordaan
 title: Westerkerk
 type: poi
 ---

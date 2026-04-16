@@ -2,7 +2,7 @@
 latitude: 51.474504
 longitude: 5.457911
 tags:
-- things_to_do
+- activities
 title: Squash
 type: poi
 ---

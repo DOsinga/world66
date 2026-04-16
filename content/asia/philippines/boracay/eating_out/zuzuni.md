@@ -2,15 +2,8 @@
 title: "Zuzuni"
 type: poi
 address: "Boat Station 1, White Beach"
-type: "African"
+latitude: 11.9700
+longitude: 121.9220
 ---
 
-Greek food may not be the first thing to spring to mind when you think of Boracay, but this new restaurant is one of the island's most impressive. The service is friendly and efficient, the interior is tastefully decorated, giving it a modern but cosy ambience, and the comfy cushions are a nice touch. You can also enjoy your meal al fresco at a candlelit table on the beach. Dishes to try include fried cheese (Saganaki), Chicken Souvlaki (kebabs) and Lamb Gyros.
-
-type: African
-
-
-
-
-
-address: Boat Station 1, White Beach
+Greek food is not the first thing that springs to mind in the Philippines, but Zuzuni at Station 1 is one of the best restaurants on the island. The interior is modern and tastefully spare, the staff are sharp, and there are candlelit tables right out on the beach. Order the *saganaki* (fried cheese), the chicken souvlaki, and the lamb gyros, and ask for the wine list.

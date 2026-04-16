@@ -1,4 +1,5 @@
 ---
+category: Shopping centers and malls
 latitude: 52.36742
 longitude: 4.882806
 tags:

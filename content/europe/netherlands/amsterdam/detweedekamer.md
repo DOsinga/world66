@@ -2,7 +2,7 @@
 latitude: 51.903226
 longitude: 4.888478
 tags:
-- coffeeshops
+- drugs
 title: De Tweede Kamer
 type: poi
 ---

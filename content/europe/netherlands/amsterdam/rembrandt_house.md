@@ -3,9 +3,10 @@ address: Jodenbreestraat 4–6
 category: Museum
 latitude: 52.369367
 longitude: 4.901237
+neighbourhood: Waterlooplein
 tags:
 - things_to_do
-- museum
+- waterlooplein
 title: Rembrandt House
 type: poi
 ---

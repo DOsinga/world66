@@ -1,16 +1,17 @@
 ---
+done:
+  location_cleanup: '2026-04-16'
+latitude: 44.058902
+longitude: -72.6713
+score: 0.62
 title: Vermont
 type: location
-latitude: 44.599072
-longitude: -72.500261
-score: 0.62
 ---
 
-Vermont is one of the most attractive states of New England. Located between the Canadian border, [New York](/northamerica/unitedstates/newyorkstate/newyork), [New Hampshire](/northamerica/unitedstates/newhampshire) and [Massachusetts](/northamerica/unitedstates/massachusetts), Vermont is also known as The Green Mountain state. Vermont's peaceful beauty is unique in the Northeast. It is a place where farm fields still roll right up to the edge of villages and where lofty mountains and crystal clear lakes are everyday companions. Wild deer still occasionally browse on the lawn at the Vermont State House in [Montpelier](/northamerica/unitedstates/vermont/montpelier), and nature is close at hand everywhere.
+Vermont is the green, rumpled corner of New England that takes its nickname literally. The Green Mountains run the length of the state, dividing the Connecticut River valley in the east from Lake Champlain in the west, and almost everything worth doing here is shaped by them — the skiing in winter, the hiking in summer, and above all the fall foliage that turns the hillsides into something close to absurdity every September and October. Vermont is small, rural and stubbornly itself: more cows than people in some counties, a state house with a gold dome in [Montpelier](/northamerica/unitedstates/vermont/montpelier) (the smallest state capital in the country), and a long tradition of doing things its own way.
 
+[Burlington](/northamerica/unitedstates/vermont/burlington) on the shore of Lake Champlain is the closest thing to a city, with a lively pedestrian street, a serious craft beer scene and views across the water to the Adirondacks. South of there, [Manchester](/northamerica/unitedstates/vermont/manchester), [Brandon](/northamerica/unitedstates/vermont/brandon) and [Bennington](/northamerica/unitedstates/vermont/bennington) preserve some of the prettiest 18th and 19th century architecture in the country. The east side runs from [Brattleboro](/northamerica/unitedstates/vermont/brattleboro) — leftover hippie country, art galleries, a working town with good food — up through [Bellows Falls](/northamerica/unitedstates/vermont/bellowsfalls) and on to the Northeast Kingdom, where the towns thin out and the woods take over.
 
- Vermont's many small cities, from [Burlington](/northamerica/unitedstates/vermont/burlington) to Brattleboro, St. Johnsbury, [Brandon](/northamerica/unitedstates/vermont/brandon) and St.Albans are filled with interesting restaurants, shops and inns. You can spend an hour at a farmers' market, visit an artist's studio and cap the visit off with a stop nearby for a snack or fine food. Places like Barre, Bennington, Lyndonville, Rutland, Middlebury and Bellows Falls are treasure troves of 19th and even 18th century architecture.
+For skiing, [Stowe](/northamerica/unitedstates/vermont/stowe) and [Killington](/northamerica/unitedstates/vermont/killington) are the big names, but there are dozens of smaller mountains where the lift lines are short and the lodge still serves chili in a paper cup. The Long Trail runs 273 miles along the spine of the Green Mountains and predates the Appalachian Trail (which shares its southern third). Off the trail, the appeal is quieter: a covered bridge over a slow river, a sugar shack boiling sap into syrup in March, the Ben & Jerry's factory in Waterbury where you can taste the day's experiments, a farmers' market in a town green on a Saturday morning.
 
-
- Vermont also has some of the most beautiful and most accessible mountains in the U.S. 
- Hiking here starts with Vermont's famed 265 mile Long Trail and the Vermont portion of the 2,000 mile Appalachian Trail. The Green Mountains are a hiker's dream, with trails for all abilities, whether you're a seasoned hiker or you just want to get away from it all for a day hike
+A practical note: a lot of Vermont's best driving is on dirt roads, and many of them turn into mud in spring. Locals call this "mud season" and it is not a joke — between snowmelt and Memorial Day, expect ruts. Otherwise the state rewards wandering. Pick a small road, follow it until you find a country store, and order a maple creemee.

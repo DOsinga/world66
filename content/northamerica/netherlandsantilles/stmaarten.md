@@ -1,17 +1,21 @@
 ---
-title: St Maarten
-type: location
-latitude: 18.0425
-longitude: -63.0548
 done:
   location_cleanup: 2026-04-06
+image: stmaarten_maho.jpg
+image_attribution: RCraig09
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20190210_Maho_Beach_jet_final_approach.jpg
+latitude: 18.0425
+longitude: -63.0548
 score: 0.67
+title: St Maarten
+type: location
 ---
 
-St Maarten / Saint-Martin is the smallest island in the world shared between two nations: the southern Dutch side (Sint Maarten) and the northern French side (Saint-Martin). The whole island is barely 87 square kilometres, and you can drive around it in under an hour — but the two halves have genuinely different characters. The Dutch side, with the capital Philipsburg, is the cruise-ship and casino half: duty-free shopping on Front Street, beach bars on Great Bay, and a nightlife scene concentrated on the Boardwalk and the Simpson Bay strip. The French side is quieter, more upscale, and more European: better restaurants, topless beaches (Baie Orientale is the famous one), and the lovely harbour town of Marigot.
+Sint Maarten, or Saint Martin as the French side is known, holds the distinction of being the smallest landmass in the world divided between two nations. The southern Dutch side and northern French side share just 87 square kilometers of Caribbean island, and you can drive from one end to the other in under an hour. The border is essentially unmarked -- no passport control, no customs, just a modest monument on the road. This dual personality gives the island a character unlike anywhere else in the Caribbean, blending Dutch efficiency and French savoir-vivre with Caribbean warmth.
 
-The island's most famous sight is **Maho Beach**, on the Dutch side just behind Princess Juliana International Airport, where the runway ends so close to the beach that incoming jets pass directly over sunbathers at an altitude of about 20 metres. The blast from departing jets can knock people off their feet — warning signs are posted, and locals and tourists stand behind the fence to feel the engine blast. It is absurd, dangerous in a theoretical sense, and one of the most photographed aviation spectacles in the world.
+The island's most famous sight is also its most absurd. Maho Beach, on the Dutch side near Princess Juliana International Airport, puts you directly under the flight path of incoming jets, which clear the beach fence by what seems like an impossibly small margin. The experience of standing on the sand as a 747 thunders overhead is genuinely thrilling and slightly terrifying. It has become one of the most photographed spots in the Caribbean, and for good reason.
 
-Beyond the planes, the island is a beach destination with about 37 beaches on 87 square kilometres — more beach per square mile than almost anywhere in the Caribbean. **Mullet Bay** on the Dutch side has calm water and good snorkelling. **Baie Longue** on the French side is a long, quiet crescent backed by low hills. The interior, rising to the 424-metre Pic Paradis, has a few short hiking trails through secondary forest.
+The Dutch capital of Philipsburg stretches along a narrow strip of land between Great Bay and a salt pond, its Front Street lined with duty-free shops and cruise ship passengers. For a quieter and more characterful experience, head to the French side. Marigot has a relaxed harbor with waterfront bistros, and Grand Case is widely regarded as the culinary capital of the Caribbean -- a single street packed with French-Creole restaurants that range from beach shacks to white-tablecloth affairs. The food on the French side is genuinely outstanding.
 
-Eat on the French side (the restaurants at Grand Case, known as the "Gourmet Capital of the Caribbean," are exceptional) and go out on the Dutch side. The border between the two is unmarked — you cross it without noticing — and the only real differences are the currency (euros on the French side, US dollars on the Dutch) and the quality of the bread.
+Beyond the beaches and the restaurants, the island rewards exploration. Orient Bay on the French side is a beautiful stretch of sand with a section famously clothing-optional. Fort Amsterdam and Fort Louis offer historical context and panoramic views. The hiking trail up Pic Paradis, the island's highest point at 424 meters, provides views across to neighboring Anguilla, Saba, and St. Barts. If you want duty-free electronics and jewelry, the Dutch side delivers. If you want long lunches and rosé, cross to the French side. Either way, this little island packs a remarkable amount into a very small space.

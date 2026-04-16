@@ -1,5 +1,6 @@
 ---
 address: Weteringtraat 45
+category: Speciality shops
 email: ritasplaceamsterdam@gmail.cm
 phone: 020 420 5171
 tags:

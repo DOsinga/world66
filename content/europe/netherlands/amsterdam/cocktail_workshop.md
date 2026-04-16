@@ -2,7 +2,7 @@
 email: info@cocktailworkshop.nl
 phone: 0206209338
 tags:
-- tours_and_excursions
+- tours_and_excursio
 title: Cocktail Workshop
 type: poi
 url: www.cocktailworkshop.nl

@@ -3,56 +3,8 @@ title: "Getting Around"
 type: section
 ---
 
-Normal
-0
+The Old City can only be navigated on foot — all traffic stops at the gates. It's smaller than it feels, about a square kilometre; give yourself time to get lost in the alleys.
 
-false
-false
-false
+For the rest of the city, the **light rail** (one line along Jaffa Road) links Mount Herzl in the west to the northern suburbs and is the single most useful piece of transport — stops at the Central Bus Station, the Machane Yehuda market, Jaffa Gate (Damascus Gate) and on. Buses cover everywhere else; neither buses nor the light rail run on **Shabbat** (Friday sunset to Saturday nightfall).
 
-MicrosoftInternetExplorer4
-
-st1\:*behavior:url(#ieooui)
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
-
-**Jerusalem
-Experience**
-
-Normal
-0
-
-false
-false
-false
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
-
-Walking tours in the Old City of Jerusalem, Israel led by licensed
-professional guides and lecturers. Customized tours for special
-interests in fields such as architecture, archaeology, photography, various
-religions and consideration any physical disabilities.
-
-Normal
-0
-
-false
-false
-false
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
-
-http://www.jerusalemexperience.co.il/
-
-**Contributors**
-September 08, 2008
+Taxis are plentiful; Gett is the local app. Driving in the centre is unpleasant — parking is scarce and one-way systems are labyrinthine.

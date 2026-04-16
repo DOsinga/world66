@@ -2,9 +2,10 @@
 category: Architecture
 latitude: 52.373145
 longitude: 4.891336
+neighbourhood: Centrum
 tags:
 - things_to_do
-- architecture
+- centrum
 title: Royal Palace
 type: poi
 ---

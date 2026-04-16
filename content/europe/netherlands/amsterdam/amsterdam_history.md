@@ -1,10 +1,11 @@
 ---
 address: Kalverstraat 92
+category: Other
 latitude: 52.370431
 longitude: 4.890429
 phone: 020 5231822
 tags:
-- things_to_do
+- activities
 title: Amsterdam History Museum Tour
 type: poi
 url: www.ahm.nl

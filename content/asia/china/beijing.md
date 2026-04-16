@@ -1,21 +1,15 @@
 ---
 done:
-  location_cleanup: '2026-04-09'
+  location_cleanup: '2026-04-16'
 latitude: 39.905714
 longitude: 116.391297
+score: 0.73
 title: Beijing
 type: location
-score: 0.73
 ---
 
-Beijing means 'Northern Capital' and in many ways the name speaks for itself. It is the capital of the People's Republic of China and the capital of bureaucrats. The whole country runs on Beijing time and speaks the Beijing dialect. From here the Chinese Communist Party rules over its enormous empire while further to the south, you will find more and more free trading with new capitalists, having contributed to form the new face of China over the last decades.
+Beijing — "Northern Capital" — has been China's political centre for most of the last eight hundred years, and the architecture and atmosphere of the city still reflect that. The Forbidden City at the heart of the old town, the Temple of Heaven to the south, the Summer Palace to the northwest, and the Great Wall running along the mountains an hour north are the most famous set pieces of imperial China anywhere in the world, and together they fill the better part of a week.
 
-Beijing has come a long way from the dusty communist capital of the seventies and eighties to a modern city with the usual high rising buildings and shopping malls. At the same time, hotel and restaurant standards have improved enormously. It may not yet be able to compete with Hong Kong or Shanghai, but it is getting close.
+But Beijing is also the capital of the modern Chinese state, and modern Beijing is everywhere: the ring roads and tower-blocks that have swallowed most of the old city, Tiananmen Square and the great government compounds along it, the Bird's Nest and Water Cube from the 2008 Olympics, the 798 contemporary art district. The old city is disappearing fast — what was a dense grid of grey-brick hutongs and courtyard houses thirty years ago is now mostly new buildings, with pockets of the old city preserved around Gulou, Nanluoguxiang, and the lake district at Houhai.
 
-Naturally, Beijing has some of the most superb examples of Chinese architecture. No other place in China offers such a large number of old buildings as Bejing. On top of that, Beijing is one of the more convenient starting points for visiting Chinese wall.
-
-This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
-
-Webdesign and logo (c) World66.com B.V.
-
-World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)
+Beijing is a hard city to love on a short visit. It is enormous, sprawling, often polluted, and the language barrier is real. But it rewards time — a week or two spent walking the hutongs, eating your way through regional Chinese cuisines, and taking day trips to the Wall makes it one of the most rewarding cities in Asia.

@@ -1,14 +1,11 @@
 ---
-title: "Plateria Ramirez"
+title: "Platería Ramírez"
 type: poi
-address: "Calle 21 Norte Nro 4-49. B Versalles"
-email: "julicadena10@hotmail.com"
-phone: "57 2 6605460"
-type: "Speciality shops"
+address: "Calle 21 Norte # 4-49, Barrio Versalles"
+phone: "+57 2 660 5460"
 url: "www.plateriaramirez.com"
-zipcode: "Juliana Cadena de Ramirez"
+latitude: 3.4664
+longitude: -76.5333
 ---
 
-A shop for all kinds of jewelery in gold and silver. Have the best prices in silver, gold, and accesories.
-
-type: Speciality shops
+Family-run silver and gold workshop in Versalles, with some of the best prices in the city for handmade jewellery and Colombian filigree work. They will also make pieces to order. Easy to reach by taxi from anywhere in the centre.

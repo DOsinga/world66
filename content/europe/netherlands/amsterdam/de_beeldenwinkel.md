@@ -1,5 +1,6 @@
 ---
 address: Eerste Leliedwarsstraat 17B
+category: Speciality shops
 latitude: 52.375557
 longitude: 4.882898
 phone: +31 (0)20 3308215

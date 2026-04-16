@@ -3,14 +3,8 @@ title: "Beaches"
 type: section
 ---
 
-Both the Gold Coast and the Sunshine Coast of Queensland offer some of the best beaches to surf, swim and sunbathe. Besides that, these areas have become increasingly popular with both locals and travellers so don’t be surprised when you’ll see a white sandy beach flanked by various hotels, bars and theme parks, such as Sea world and Wet ‘n Wild on the Gold Coast. Surfers Paradise, in between Southport and Coolangatta, has been the Mecca of surfing for a long time and this is where most of the action takes place. The Sunshine Coast is a good option when you want to head for beaches that are less crowded and when you can do without an overdosis of neon-lights. 
+Queensland's coast runs more than 6,000 km from the New South Wales border to Cape York, taking in some of the best beaches on the continent. The Gold Coast is the high-energy end — long sandy strips lined with apartment towers, surf schools and theme parks. **Surfers Paradise** is the busiest, with consistent waves; **Burleigh Heads** and **Coolangatta** are mellower and have better point breaks. The strip from Southport down to Coolangatta is essentially one continuous beach.
 
-**Beachs**
+The **Sunshine Coast**, an hour north of Brisbane, is what people who want to escape the Gold Coast crowds choose instead. **Sunshine Beach**, **Peregian** and **Marcoola** are quieter, with low-rise development and family-friendly surf. Noosa Main Beach faces north and offers some of the calmest swimming on the east coast.
 
-**Gold Coast**
-
-Surfers Paradise, Broadbeach, Palm Beach, Nobby Beach
-
-**Sunshine Coast**
-
-Sunshine Beach, Peregian Beach, Marcoola Beach
+Further north, the beaches change character entirely. **Whitehaven Beach** in the [Whitsundays](/australiaandpacific/australia/queensland/whitsundays) — silica sand so fine it squeaks underfoot, swirled into the turquoise water of Hill Inlet — is one of the most photographed beaches in the world and lives up to it. From Cairns north, beaches are flanked by rainforest meeting the reef; box jellyfish and crocodiles are real risks in the wet season (November to May), so swim only in stinger nets or designated areas.

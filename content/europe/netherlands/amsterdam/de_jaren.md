@@ -2,9 +2,11 @@
 address: Nieuwe Doelenstraat 20–22
 latitude: 52.36806
 longitude: 4.895347
+neighbourhood: Rembrandtplein
 phone: 020-6255771
 tags:
 - bars_and_cafes
+- rembrandtplein
 title: De Jaren
 type: poi
 ---

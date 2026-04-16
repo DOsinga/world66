@@ -1,25 +1,21 @@
 ---
-title: Prague
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 50.087465
 longitude: 14.421254
 score: 0.78
+title: Prague
+type: location
 ---
 
-We think Prague is one of the prettiest cities in the world. Built on seven hills and divided by the pretty Vltava (Moldau) River this capital city of 1 216 000 is unique among Eastern European capitals: It survived World War II nearly intact. As a result it has beautiful architecture ranging from Romanesque and Gothic to Renaissance and baroque. For younger travelers Prague is very much the place to be in Europe and many foreigners have moved in attracted by the city’s beauty and commercial opportunities. 
+Prague is one of the prettiest cities in Europe, and arguably the prettiest in central Europe. The city slipped through the Second World War almost intact, and the result is a near-unbroken run of architecture from Romanesque to Art Nouveau — Gothic spires, Renaissance palaces, Baroque churches, and Art Nouveau facades all stacked against each other along the bends of the Vltava river.
 
-Most of the city’s attractions are in the center known as Stare Mesto or Old Town and can easily be seen on foot. There is also a trolley service and a clean efficient subway. 
+The centre is small and walkable, split between two banks of the river. On the west bank, **Prague Castle** dominates Hradčany hill, with **Malá Strana** (Lesser Town) tumbling down below it — a compact district of baroque palaces and quiet cobbled lanes. The **Charles Bridge** connects it to the east bank, where **Staré Město** (Old Town) fans out around the Old Town Square and the Astronomical Clock. North of Old Town is **Josefov**, the old Jewish Quarter, with its preserved synagogues and the haunting piled-up gravestones of the Old Jewish Cemetery. South is **Nové Město** (New Town), not actually new — founded by Charles IV in 1348 — centred on Wenceslas Square, where the demonstrations of 1968 and 1989 played out.
 
-East of the Old Town Square is the glittering art-nouveau Obecni Dum or Municipal House Prague’s most ornate building. Its exterior has been likened to a Victorian Easter egg and the cafe and restaurant flanking the main entrance are among the highlights of the city with art-nouveau flourishes down to the doorknobs. The Dum also houses Smetana Hall the city’s largest concert space (although beautiful to look at the acoustics are not outstanding). 
+This is a city for walking and drinking. Czech beer is among the world's best and among its cheapest: a half-litre of pilsner costs less than a coffee. The classic pub experience (smoke-darkened room, long wooden tables, pork knuckle and dumplings on the menu) is still cheap and still authentic once you're five minutes off the main tourist streets. Prague is also serious about classical music, with three opera houses, the Rudolfinum concert hall, and dozens of churches and palaces staging concerts most evenings.
 
-Some of the best shopping in the Old Town is on Celetna Ulice—where you’ll also see the House of the Black Madonna the country’s best example of Cubist architecture.
+The pre-war heritage is not just Czech. Prague was one of the great German-speaking cities of Europe until 1945; Kafka wrote in German here, as did Werfel and Rilke. The **Kafka Museum** in Malá Strana and a walk through Josefov are the literary route; for everyone else, Prague is simply one of the most atmospheric cities on the continent — especially after the day-trippers have left and the cobbles go quiet.
 
-The center of modern Prague can be found at Wenceslas Square which was the site of the demonstrations that led to the overthrow of the Communists. A number of fast-food restaurants have found their way onto the square but we prefer the wonderfully threadbare cafe in the art-nouveau Hotel Europa. The square has some decent shopping although a better selection of crafts and glass can be found in Old Town. At the top of the square is the disappointing but architecturally interesting National Museum.
+The city is a natural base for excursions to **Karlštejn Castle**, **Kutná Hora** (with its eerie bone-decorated Sedlec Ossuary), **Český Krumlov** in the south, and **Terezín** — the Czech Theresienstadt, a Nazi ghetto and transit camp now preserved as a memorial.
 
-If you’re shopping in the vicinity of the square be sure to check out the Lucerna Passage the elegant pedestrian complex with theaters and cafes that runs beneath the Lucerna Palace. It was designed by president Vaclav Havel’s grandfather and is still owned by the president and his sister.
-
-Prague has dozens of other sights including the Mozart Museum (it’s in the villa where he wrote Don Giovanni—not a great collection of material but interesting nonetheless) the Museum of the City of Prague (which has a miniature model of the city circa 1827) and many branches of the National Gallery.
-
-The city is a world leader in theater set design—two of the best companies are the Magic Lantern (multimedia productions) and the Ta Fantastika (featuring black-clad actors who move invisibly across the stage). The National Marionette Theater is famous for its ongoing puppet production of Mozart’s Don Giovanni. Prague also has three opera houses (the Estates the National and the Prague State Opera). The city’s most notable classical music festival the Prague Spring Festival is held May-June. Concerts are held around the city throughout the year.
-
-If you have time take the funicular railroad to see the gardens atop Petrin Hill which has a midsized version of the Eiffel Tower. Day trips from Prague can be taken to see Charles IV’s impressive 14th-century Gothic Karlstejn Castle (18 mi/29 km from town) complete with an imperial palace art murals the Church of Our Lady and nearby Koneprusy Caves; Kutna Hora; the bizarre 13th-century Konopiste Castle near Benesov known for its eccentric mix of art weapons and stuffed hunting trophies (this was the home of Archduke Franz Ferdinand—his assassination in July 1914 at Sarajevo began World War I); the 15th-century medieval town of Tabor (with a mysterious 7-mi/11-km maze of underground tunnels built in the 15th and 16th centuries); Cesky Sternberk Castle (stucco decorations coins and weapons); 11th-century Hluboka Castle; Turnov the Czech Republic’s precious-stones center; Terezin a World War II concentration camp and political prison; and Lidice a village singled out for punishment—and burned to the ground—by the Nazis for the assassination of Nazi-installed Czech leader Reinhard Heydrich (today there is a museum on the site where the town stood).
+Prague gets very crowded from April to October, especially in summer. For a quieter visit, go in late autumn or February; for snow and magical emptiness, time it right between Christmas and the New Year.

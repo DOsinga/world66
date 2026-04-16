@@ -1,6 +1,6 @@
 ---
 tags:
-- coffeeshops
+- drugs
 title: Smart shops
 type: poi
 ---

@@ -2,9 +2,11 @@
 address: Kleine Gartman Plantsoen 10
 latitude: 52.363043
 longitude: 4.88286
+neighbourhood: Leidseplein
 phone: 020 553 5151
 tags:
 - bars_and_cafes
+- leidseplein
 title: De Balie
 type: poi
 ---

@@ -1,5 +1,6 @@
 ---
 address: Singel
+category: Markets
 latitude: 52.367047
 longitude: 4.893523
 tags:

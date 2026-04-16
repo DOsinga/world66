@@ -1,6 +1,6 @@
 ---
-title: Things to Do
+title: "Things to Do"
 type: section
 ---
 
-The most adventurous and outgoing will enjoy rigorous challenges that provide thrills and spills. These include sea sports such as waterskiing, boating, parasailing, diving and windsurfing. All these quicken the adrenaline flow and produce a heightened sense of adventure. Aside from them, boating to the various islands is a must. Great fishing of sealife or snorkelling in the clean clear waters or manoevring around the sweeping bays to numerous coves are pleasurable treats.
+Beach lounging aside, Langkawi's best is outdoor and on the water. Ride the **cable car** up Gunung Machinchang to the Sky Bridge for the view across the archipelago to Thailand. Take a morning **mangrove tour** through Kilim Geoforest Park to watch brahminy kites dive for fish flung from the boat. Join an **island-hopping boat trip** to swim in the Lake of the Pregnant Maiden, a freshwater lake sitting inside a limestone island. And if you can manage one early start, take the speedboat out to **Pulau Payar Marine Park** for the best snorkelling in the region.

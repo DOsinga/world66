@@ -3,7 +3,7 @@ address: Herengracht 133
 latitude: 52.375555
 longitude: 4.889043
 tags:
-- coffeeshops
+- drugs
 title: Amnesia Dreams
 type: poi
 ---

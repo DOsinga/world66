@@ -1,9 +1,11 @@
 ---
-title: Saranda
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 39.87522
 longitude: 20.006526
 score: 0.58
+title: Saranda
+type: location
 ---
 
 Saranda is the main resort town of the Albanian Riviera, sitting at the southern tip of the Ionian coast a short crossing from the Greek island of Corfu. It is a useful base and a pleasant enough place, though the town itself — a ring of apartment blocks and hotels around a bay — is less distinguished than the scenery surrounding it.

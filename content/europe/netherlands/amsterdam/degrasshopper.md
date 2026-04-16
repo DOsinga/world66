@@ -3,7 +3,7 @@ address: Oudebrugsteeg 16
 latitude: 52.375458
 longitude: 4.897434
 tags:
-- coffeeshops
+- drugs
 title: De Grasshopper
 type: poi
 ---

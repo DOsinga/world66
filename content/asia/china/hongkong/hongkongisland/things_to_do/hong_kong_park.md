@@ -1,6 +1,7 @@
 ---
 title: "Hong Kong Park"
 type: poi
+category: "Sight"
 address: "19 Cotton Tree Drive, Central"
 latitude: 22.2774
 longitude: 114.1615

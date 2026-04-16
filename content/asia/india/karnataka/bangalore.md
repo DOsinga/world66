@@ -1,9 +1,11 @@
 ---
-title: Bangalore
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 12.976794
 longitude: 77.590082
 score: 0.49
+title: Bangalore
+type: location
 ---
 
 Bangalore is famous for its booming IT and Internet industry. The town has a large Anglo-Indian minority and is considerably more westernized than many Indian cities. The fact that Bangalore is a high-tech place does not mean that it has no interesting sights. It's simply an all-round place. You might want to visit the Palace of Tippu Sultan, once home to the south Indian king famous for battling the British, the Bull Temple, the Indian Institute of Science and the 240-acre/100-hectare Lal Bagh botanical garden with its pools terraces fountains trees and herbs are highlights.

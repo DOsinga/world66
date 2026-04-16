@@ -1,42 +1,13 @@
 ---
 title: "Day Trips"
 type: section
-address: "P.O.Box #2994 Islamabad pakistan"
-email: "arifkke@gmail.com"
-phone: "+92514441258"
-url: "www.karakorumexplorers.com"
+linked_locations:
+  - asia/pakistan/hunzavalley/gojal_valley
+  - asia/pakistan/hunzavalley/battura_valley
+  - asia/pakistan/hunzavalley/ganish
+  - asia/pakistan/gilgit
 ---
 
-**Karakorum Highway & The Silk Road**
+Karimabad makes a natural base for exploring the wider Hunza region. The roads up the valley are dramatic in every direction, so even a "day trip" can feel like a small expedition. Most travellers spend at least a couple of days pushing further up the Karakoram Highway into Gojal — Passu and the famous Cones, the Hussaini suspension bridge, Attabad Lake — and many continue to Sost or right up to the Khunjerab Pass on the Chinese border.
 
-An exciting overland journey from Islamabad over Karakorum Highway to Hunza Valley & Khunjerab Pass, the historic gateway to Indian sub-continent.
-
-As you travel on Karakorum Highway, reputed as eighth wonder of the world, you enjoy fascinating views of challenging peaks rising above 7,000 meters. Nanga Parbat, at 8,125 m is the highest of peaks we see during our journey. Then you arrive at the meeting place of the three highest mountain ranges of the world: The Karakorum, Himalayas and Hindukush.
-As you arrive at Khunjerab Pass at 4,733 m you are on the border of not only China & Pakistan, but also of Pamir and Karakorum ranges. A trip to Swat & Peshawar will introduce you to the historic Gandhara Buddhist heritage and traditions of Pathan culture.
-
-Itinerary: Day 1 Islamabad - Besham Day 2 Sharkol - Gilgit Meet The Indus Day 3 Gilgit - Hunza [karimabad](/asia/pakistan/hunzavalley/karimabad) Day 4 Hunza Full day excursion Day 5 Karimabad - Passu Upper Hunza Valley Day 6 Gulmit - Chilas Day 7 Chilas - Islamabad Day 8 Departure
-
-*www.karakorumexplorers.com*
-
-**Contributors**
-January 29, 2008
-
-### [Karakorum Highway & The Silk Road](/asia/pakistan/hunzavalley/day_trips/karakorum_highway)
-
-**Karakorum Highway & The Silk Road**
-
-An exciting overland journey from Islamabad over Karakorum Highway to Hunza Valley & Khunjerab Pass, the historic gateway to Indian sub-continent.
-
-As you travel on Karakorum Highway, reputed as eighth wonder of the world, you enjoy fascinating views of challenging peaks rising above 7,000 meters. Nanga Parbat, at 8,125 m is the highest of peaks we see during our journey. Then you arrive at the meeting place of the three highest mountain ranges of the world: The Karakorum, Himalayas and Hindukush. [more..](/asia/pakistan/hunzavalley/day_trips/karakorum_highway)
-
-
-
-[[rate it]](/asia/pakistan/hunzavalley/day_trips/karakorum_highway)
-
-tel: +92514441258
-
-url: [www.karakorumexplorers.com](http://www.karakorumexplorers.com)
-
-address: P.O.Box #2994 Islamabad pakistan
-
-email: arifkke@gmail.com
+Closer in, the old village of **Ganish** and the trail up the **Ultar gorge** (above Karimabad) can both be done in a morning or afternoon. South of Hunza, **Gilgit** is the regional hub and a different feel altogether. The Battura Valley and the side glaciers reward longer walks if you have the time.

@@ -1,14 +1,6 @@
 ---
-done:
-  location_cleanup: '2026-04-09'
-title: Markets
+title: "Markets"
 type: section
 ---
 
-It si a delight to wander around the differnet markets of Dakar. Spend some time in the open-air food markets not only to see the beautiful vegetables but to see the most colorfully dressed people in Africa as well. If you want to see where they bought their fabric visit the Sandaga Market which has fruits vegetables and a brilliant array of cloth. The Kermel Market our favorite spot for souvenirs has reopened for business (it burned down in 1993). 
-
-**Points of Interest**
-
-**Village Artisanal**
-
-The Village Artisanal on the Corniche-Ouest is not a market in the traditional sense. Here you can shop for souvenirs, masks, puppets etc. A very good choice. The atmosphere is nice as well. You can easily spend half a day here.
+Wandering the markets is one of the great Dakar experiences. **Sandaga**, the huge, chaotic market near the centre, is where to go for cloth, wax-print fabrics, electronics and just about everything else — crowded, loud, and watch your pockets. **Kermel**, a covered market in a 19th-century French iron hall (rebuilt after a 1993 fire), is calmer and good for souvenirs, flowers and fish. **Soumbédioune** on the Corniche Ouest is the handicraft village and the fish market — go at the end of the day when the pirogues come in and the boats unload their catch onto the beach. **HLM** is where to buy fabric by the yard if you want something tailored before you leave.

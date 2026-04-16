@@ -5,7 +5,7 @@ latitude: 52.364704
 longitude: 4.894606
 phone: 0031206881243
 tags:
-- tours_and_excursions
+- tours_and_excursio
 title: Andre Ancion
 type: poi
 url: www.uhgt.nl

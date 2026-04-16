@@ -1,4 +1,5 @@
 ---
+category: Wine
 tags:
 - shopping
 title: Wijn Antiquariat

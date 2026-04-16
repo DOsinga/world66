@@ -1,12 +1,13 @@
 ---
 accessibility: see website
 address: Ferdinand Bolstraat 333
+category: Sailing
 email: info@boaty.nl
 latitude: 52.348729
 longitude: 4.894117
 phone: 06-27149493
 tags:
-- things_to_do
+- activities
 title: Rent a boat
 type: poi
 url: www.boaty.nl

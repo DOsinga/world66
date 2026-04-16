@@ -1,25 +1,17 @@
 ---
+done:
+  location_cleanup: '2026-04-16'
+score: 0.59
 title: Northern Spain
 type: location
-done:
-  location_cleanup: 2026-04-07
-score: 0.59
 ---
 
-For years religious Pilgrims found their way to the beautiful city [Santiago de Compostela](/europe/spain/northernspain/santiagodecompostela) . This city is the main attraction of the region Galicia (also called Spains Ireland). South of Santiago there is [Vigo](/europe/spain/northernspain/vigo) ; nothing less than Spain's premier fishing port. Pontevedra is another city of great interest in Galicia. 
+Northern Spain is greener, wetter, and less visited than the country's famous south — and for many travelers that is exactly the appeal. The coast between Galicia and the French border is one of the great under-known stretches of Europe: Atlantic beaches, mountain ranges tumbling into the sea, Romanesque churches in hill towns, and some of the best food in Spain.
 
+For centuries religious pilgrims have found their way to [Santiago de Compostela](/europe/spain/northernspain/santiagodecompostela), the end point of the Camino and still the main attraction of Galicia — the region often called "Spain's Ireland" for its green hills, steady rain, and Celtic heritage. South of Santiago lies Vigo, Spain's premier fishing port, while [La Coruña](/europe/spain/northernspain/lacorua) and [Noia](/europe/spain/northernspain/noia) are smaller Atlantic towns worth a stop for their old quarters and seafood.
 
+Further east the landscape turns mountainous, with a romantically beautiful coastline: this is Asturias, a region that feels closer to Wales or Brittany than to the Mediterranean. [Oviedo](/europe/spain/northernspain/oviedo), the capital, has two of Europe's most exquisite pre-Romanesque churches, while [Gijón](/europe/spain/northernspain/gijon) is the industrial port, and [Llanes](/europe/spain/northernspain/llanes) is a picturesque fishing town on a coast lined with tiny coves. Inland, the Picos de Europa rise to 2,600 metres within 20 kilometres of the sea — Spain's oldest national park and still one of its finest places to hike.
 
+Cantabria, next along the coast, is more rural, with pastures, cider orchards, and Santander as its main summer resort. Further east still, the Basque Country ([Euskadi](/europe/spain/basque_country_eus)) is a world of its own — the Basque people speak Euskara, a language unrelated to any other on earth, and the cooking is widely considered the best in Spain. [San Sebastián](/europe/spain/basque_country_eus/sansebastian) was where wealthy Spaniards spent their summers long before the southern costas were built, while [Bilbao](/europe/spain/basque_country_eus/bilbao) — transformed by the Guggenheim — remains an essential stop.
 
-
-More eastward you run into a more mountainious landscape with a romantically beautiful coastline that carries the name Asturias. This region has a lot in common with Wales. **A real attraction is [Oviedo](/europe/spain/northernspain/oviedo)** , the capital of this region where you can see two of Europe's most exquisite pre-Romanesque churches. 
-
-Continuing our journey through the nothern parts of Spain, we will have our next stop at Cantabria, the more rural part of Spain. This region is especially famous for its extraorinary Picos de Europe (mountains)and it claims to have the highest density of cows. Santander, the capital and only large city, is a major summer resort. 
-
-Next to Cantabria you'll find the famous Basque country or Euskadi in the Basque language. When it isn't raining, Euskadi is one of the most charming parts of Spain with a very various landscape. [San Sebastián](/europe/spain/basque_country_eus/sansebastian) was the place where the wealthy Spaniards spent their summer bathing long before there were any costas. Furthermore you find [Bilbao](/europe/spain/basque_country_eus/bilbao) which as a city of interest in this Basque region. 
-
-La Rioja is a Spanish region that you'll find right under the Basque land. Famous because of its wonderful wine, this region's principal town is Logroño. 
-
-In the north of the region called Castilla León you'll find the city of [Burgos](/europe/spain/northernspain/burgos), which is a genteel and quite pleasant town. 
-
-Our 'Northern journey' ends in the region where you can see some of the more western Pyrenees: Navarra. In the region Navarra [Pamplona](/europe/spain/navarre/pamplona) (the capital) is a very recommendable city.
+Inland, [La Rioja](/europe/spain/northernspain/laguardiarioja) produces Spain's most famous wine around the hill town of Logroño. In the northern corner of Castilla y León, [Burgos](/europe/spain/northernspain/burgos) and [León](/europe/spain/northernspain/leon) both have stunning Gothic cathedrals that mark stages of the Camino. The journey ends in Navarra, where the western Pyrenees meet Basque and Spanish culture, and [Pamplona](/europe/spain/navarre/pamplona) hosts the famous running of the bulls each July.

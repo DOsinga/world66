@@ -1,7 +1,9 @@
 ---
-title: 'Bars and Pubs'
+title: 'Bars and Cafes'
 type: section
 ---
+
+Bristol is a drinking town with strong local brewing traditions — Bath Ales, Bristol Beer Factory, Arbor, Wiper and True. Clifton Village has the pretty pubs; King Street and the harbourside have the busier ones; Stokes Croft and Gloucester Road are where the city's independent, slightly anarchic streak shows up in its bars and late-night joints.
 
 **The Lion, Cliftonwood** -- Church Lane, Cliftonwood. A friendly local pub with good pub food, tucked away among the brightly coloured houses of Cliftonwood.
 

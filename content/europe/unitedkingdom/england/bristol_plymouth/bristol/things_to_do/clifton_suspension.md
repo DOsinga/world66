@@ -1,6 +1,7 @@
 ---
 title: 'Clifton Suspension Bridge'
 type: poi
+category: Sight
 latitude: 51.454969
 longitude: -2.627807
 ---

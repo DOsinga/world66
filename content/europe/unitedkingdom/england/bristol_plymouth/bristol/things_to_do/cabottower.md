@@ -1,6 +1,7 @@
 ---
 title: 'Cabot Tower'
 type: poi
+category: Sight
 latitude: 51.454029
 longitude: -2.606818
 ---

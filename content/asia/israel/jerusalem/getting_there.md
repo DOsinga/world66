@@ -3,15 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-One great way to get around Israel in general is the train. The Jerusalem-Tel Aviv line has been renovated and is a must. It follows the Sorek valley with its steep hills dotted with pine forests, olive orchards, and vineyards. The train takes about an hour and a half and costs very little. The two stations in Jerusalem are the Biblical Zoo and Malha. The second one(the terminus) is also the best for those heading to the Old City and the downtown area. There are buses outside the railway station. Trains do NOT run on Saturdays.
+**By plane** — Ben Gurion Airport (TLV) near Tel Aviv, 50 km west, is Israel's main international gateway. Sherut shared taxis run 24 hours (including Shabbat) direct to Jerusalem for a flat fare; the fast train runs from the airport to Yitzhak Navon station in West Jerusalem in about 25 minutes.
 
-In a couple of years the high speed rail and the Jerusalem subway line may be completed. The high speed rail will only take thirty minutes.
+**By train** — The high-speed line from Tel Aviv reaches Jerusalem in 35 minutes. Yitzhak Navon is the terminus. No trains on Shabbat.
 
-Those in Jerusalem can also use the train to go other major sights in Israel including Haifa, Akko, Ashkelon, Netanya, Beer Sheva, and Naharia.
-
-The national Bus company EGGED serves Jerusalem and operates from a terminal in NW Jerusalem on Yafo Road. Buses do NOT run to Jerusalem on Saturdays.
-
-**Contributors**
-March 02, 2006
-
-November 06, 2006
+**By bus** — Intercity buses from across Israel run to the Central Bus Station on Jaffa Road, near the western entrance to the city. Egged is the main operator. No buses on Shabbat.

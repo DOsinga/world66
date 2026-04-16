@@ -3,4 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-For some of the best waffles ever and a unique Israeli cultural experience, go to "the waffle lady" in the neighborhood of Rehavia. It used to be located on Emek Rafaim, but is now located in Rehavia near the windmill (not the Montefiore windmill, but the Rehavia windmill).
+Jerusalem is more restrained than Tel Aviv but has a real bar scene in the alleys of **Mahane Yehuda** — after the market stalls close at sundown, cocktail bars and wine bars open up in the same spaces. The pedestrian strip of **Ben Yehuda Street** is touristy but lively, and the downtown streets off **Zion Square** (Rivlin, Jaffa, Shamai) have the dive bars and live-music venues. Friday nights shut down early for Shabbat; Saturday nights everything reopens and goes late.

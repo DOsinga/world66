@@ -1,15 +1,15 @@
 ---
 done:
-  location_cleanup: '2026-04-10'
+  location_cleanup: '2026-04-16'
 image: queenstown.jpg
 image_attribution: Charlie Mitchell
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Queenstown,_New_Zealand.jpg
 latitude: -45.0322
 longitude: 168.661
+score: 0.84
 title: Queenstown
 type: location
-score: 0.84
 ---
 
 Queenstown sits at the edge of Lake Wakatipu on New Zealand's South Island, ringed by the jagged Remarkables mountain range. It is the country's undisputed adventure capital — the place where bungy jumping was commercialised, and where the adrenaline industry has never looked back.

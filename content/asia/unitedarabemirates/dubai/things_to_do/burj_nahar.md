@@ -1,9 +1,9 @@
 ---
-title: "Burj Nahar"
+address: Deira, Al Rasheed Rd, Next to DEWA –Burj Nahar Branch
+category: Sight
+opening_hours: Open
+title: Burj Nahar
 type: poi
-address: "Deira, Al Rasheed Rd, Next to DEWA –Burj Nahar Branch"
-opening_hours: "Open"
-type: "Hotspots"
 ---
 
 One

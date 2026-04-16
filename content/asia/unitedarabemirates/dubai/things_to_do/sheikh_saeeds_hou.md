@@ -1,10 +1,10 @@
 ---
-title: "Sheikh Saeed's House"
+address: Al Shindagha Area, facing end of Dubai Creek
+category: Sight
+opening_hours: 'Saturday - Thursday 8:30AM - 20:30PM, Friday: 15:00PM-20:30PM'
+phone: 04-3937139
+title: Sheikh Saeed's House
 type: poi
-address: "Al Shindagha Area, facing end of Dubai Creek"
-opening_hours: "Saturday - Thursday 8:30AM - 20:30PM, Friday: 15:00PM-20:30PM"
-phone: "04-3937139"
-type: "Public Buildings"
 ---
 
 The

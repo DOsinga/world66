@@ -1,10 +1,10 @@
 ---
-title: "Wild Wadi Water Park"
+category: Sight
+closing_time: 6pm
+phone: (9714)348 4444
+title: Wild Wadi Water Park
 type: poi
-closing_time: "6pm"
-phone: "(9714)348 4444"
-type: "Sport stadiums"
-url: "www.wildwadi.com"
+url: www.wildwadi.com
 ---
 
 Wild Wadi Water Park is an exciting escape for anyone trying to get

@@ -1,7 +1,7 @@
 ---
-title: "Atlantis"
+category: Sight
+title: Atlantis
 type: poi
-type: "Clubs and dancing"
 ---
 
 Located right next to the famous Hard Rock Care, is a

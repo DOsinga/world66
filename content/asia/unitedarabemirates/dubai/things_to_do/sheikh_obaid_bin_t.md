@@ -1,10 +1,10 @@
 ---
-title: "Sheikh Obaid Bin Thani House"
+address: Al Shindagha Area, near Sheikh Saeed Al Maktoum House
+category: Sight
+opening_hours: 'Saturday to Thursday : 08:30 am -20:30 pm,  Friday: 14:30-20:30'
+phone: 04-3933240
+title: Sheikh Obaid Bin Thani House
 type: poi
-address: "Al Shindagha Area, near Sheikh Saeed Al Maktoum House"
-opening_hours: "Saturday to Thursday : 08:30 am -20:30 pm,  Friday: 14:30-20:30"
-phone: "04-3933240"
-type: "Public Buildings"
 ---
 
 Located

@@ -1,8 +1,8 @@
 ---
-title: "WonderLand"
+category: Sight
+phone: (9714) 341222
+title: WonderLand
 type: poi
-phone: "(9714) 341222"
-type: "Casinos"
 ---
 
 WonderLand is a huge family fun park that features a wide variety of

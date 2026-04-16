@@ -1,10 +1,11 @@
 ---
-title: "Jumeirah Mosque"
+address: Jumeirah Road, Jumeirah 1 (opposite Palm Strip Mall)  ---Albwardy Building
+  2, PO Box 594, Dubai, UAE
+category: Sight
+email: info@dctpb.gov.ae
+phone: +971 4 230 000
+title: Jumeirah Mosque
 type: poi
-address: "Jumeirah Road, Jumeirah 1 (opposite Palm Strip Mall)  ---Albwardy Building 2, PO Box 594, Dubai, UAE"
-email: "info@dctpb.gov.ae"
-phone: "+971 4 230 000"
-type: "Mosques"
 ---
 
 The Jumeirah Mosque is a dominant landmark of Dubai city. Built in the medieval Fatimid tradition, this stone structure is a tribute to modern Islamic architecture. While strolling through the Mosque at sunset, you will be washed in shadows by this elegant formation.

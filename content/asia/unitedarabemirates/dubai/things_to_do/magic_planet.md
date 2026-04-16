@@ -1,7 +1,7 @@
 ---
-title: "Magic Planet"
+category: Sight
+title: Magic Planet
 type: poi
-type: "Casinos"
 ---
 
 Located in the giant Deira City Centre shopping mall,

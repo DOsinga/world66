@@ -1,11 +1,11 @@
 ---
-title: "The Dubai Zoo"
-type: poi
-address: "Jumeirah Road"
-opening_hours: "445576475"
-type: "Parks, Gardens and Zoos"
+address: Jumeirah Road
+category: Sight
 latitude: 25.206505
 longitude: 55.243892
+opening_hours: '445576475'
+title: The Dubai Zoo
+type: poi
 ---
 
 The Dubai Zoo, though small, in home to many indigenous Arabian species

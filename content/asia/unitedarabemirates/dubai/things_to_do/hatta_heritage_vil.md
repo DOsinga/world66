@@ -1,9 +1,9 @@
 ---
-title: "Hatta Heritage Village"
+category: Sight
+opening_hours: 'Saturday to Thursday : 08:00-20:00, Friday: 14:00-20:00'
+phone: 04-8521374
+title: Hatta Heritage Village
 type: poi
-opening_hours: "Saturday to Thursday : 08:00-20:00, Friday: 14:00-20:00"
-phone: "04-8521374"
-type: "Landmarks"
 ---
 
 Nestled

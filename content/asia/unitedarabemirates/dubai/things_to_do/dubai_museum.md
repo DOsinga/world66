@@ -1,10 +1,10 @@
 ---
-title: "Dubai museum"
-type: poi
-address: "epelenberg 139 C"
-type: "Palaces"
+address: epelenberg 139 C
+category: Museum
 latitude: 51.592687
 longitude: 4.808872
+title: Dubai museum
+type: poi
 ---
 
 Al Fahidi Fort, which houses the Dubai Museum, is another imposing

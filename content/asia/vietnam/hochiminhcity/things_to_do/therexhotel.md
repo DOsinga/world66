@@ -1,7 +1,7 @@
 ---
-title: "the Rex Hotel"
+category: Architecture
+title: the Rex Hotel
 type: poi
-type: "Landmarks"
 ---
 
 The Rex looks as if nothing has changed.

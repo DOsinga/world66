@@ -1,12 +1,15 @@
 ---
-title: "Sweny's Pharmacy"
-type: poi
-address: "1 Lincoln Place, Dublin 2"
-url: "www.sweny.ie"
-opening_hours: "Mon–Sat 10:00–17:00"
+address: 1 Lincoln Place, Dublin 2
+category: Sight
 latitude: 53.339084
 longitude: -6.251139
-tags: ["James Joyce", "Literature"]
+opening_hours: Mon–Sat 10:00–17:00
+tags:
+- James Joyce
+- Literature
+title: Sweny's Pharmacy
+type: poi
+url: www.sweny.ie
 ---
 
 This Victorian pharmacy near Trinity College has barely changed since Leopold Bloom stopped in on 16 June 1904 to buy a bar of lemon soap — a purchase that echoes through *Ulysses*. The shop is now run by volunteers as a Joycean cultural space rather than a working pharmacy. Visitors can buy the famous lemon soap, pick up Joyce's books, and attend regular readings from *Ulysses* held on the premises.

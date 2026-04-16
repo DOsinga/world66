@@ -1,8 +1,9 @@
 ---
-title: "Dublin Castle"
-type: poi
+category: Sight
 latitude: 53.342662
 longitude: -6.267004
+title: Dublin Castle
+type: poi
 ---
 
 Dublin Castle is the heart of historic Dublin. In fact the city gets it name from the Black Pool - 'Dubh Linn' which was on the site of the present Castle Garden.

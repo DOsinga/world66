@@ -1,10 +1,10 @@
 ---
-title: "Dublin Zoo"
-type: poi
-type: "Parks, Gardens and Zoos"
-url: "www.dublinzoo.ie"
+category: Sight
 latitude: 53.358888
 longitude: -6.30853
+title: Dublin Zoo
+type: Parks, Gardens and Zoos
+url: www.dublinzoo.ie
 ---
 
 Dublin Zoo is part of a worldwide network of zoos working together to breed endangered species. Studbooks are used to manage this captive breeding.

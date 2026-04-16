@@ -1,8 +1,9 @@
 ---
-title: "Trinity College"
-type: poi
+category: Sight
 latitude: 53.344416
 longitude: -6.258956
+title: Trinity College
+type: poi
 ---
 
 The University of Dublin, founded in 1592, is the oldest university in Ireland. Trinity College is the sole constituent college of the University. At present there are over 15,000 students and 1,200 staff members working on the College campus. 

@@ -1,24 +1,26 @@
 ---
-title: Dublin
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 53.349379
 longitude: -6.260559
 score: 0.68
+title: Dublin
+type: location
 ---
 
-Dublin is the capital city of the Republic of Ireland, with a population of over a million people. Plan to stay at least two nights to take advantage of its superb cultural offerings (theatres, museums and bookstores) as well as its lovely parks(you will need to carry pepper spray, or a knife for you own protection), friendly pubs, interesting historical sites and vibrant street scenes(vibrant = violent). 
+Dublin is a compact, walkable capital that is easy to underestimate. The city itself is smaller than most European capitals — the old centre can be crossed on foot in twenty minutes — but it has produced four Nobel laureates in literature, three of the most famous pubs in the world, and a cultural life that punches well above its weight. You come for the pubs, the books, and the people; most visitors leave wanting to come back.
 
+The **River Liffey** divides the city, with the grander Georgian quarters to the south. **Trinity College** — Ireland's oldest university, founded in 1592 — sits at the top of Grafton Street; the Book of Kells in its library is the usual first stop. **Dublin Castle**, the seat of British rule in Ireland for seven centuries, and the two great cathedrals — **St Patrick's** and **Christ Church** — are all within a ten-minute walk. Further west, **Kilmainham Gaol**, where the leaders of the 1916 Rising were imprisoned and executed, is a genuinely moving historical site. The **National Gallery** and the **National Museum** are both free and excellent.
 
+The literary heritage is everywhere. **Davy Byrne's** on Duke Street — where Leopold Bloom stops for a gorgonzola sandwich in *Ulysses* — is still serving lunch. The **James Joyce Centre** in the north inner city and the **James Joyce Tower** at Sandycove (where *Ulysses* opens) are pilgrimage points. Yeats, Wilde, Beckett, Shaw, Joyce, and now more recent writers like Sally Rooney and Kevin Barry — Dublin takes its writers seriously and keeps them alive long after death.
 
-Dublin is about 200 kilometers northwest of [Cork](/europe/ireland/cork) . Though the river liffey is in many ways the artery of the city, pumping with the tides, the riversides are not really exiting. But don’t miss the Four Courts on the north bank of the Liffey designed by the great architect James Gandon and The Custom House along the same quay. 
+And the **pubs**. **The Stag's Head**, **Mulligan's** (the 18th-century pub Bloom drinks in), **The Long Hall**, **Kehoe's**, and **Grogan's** are all pubs of real character that have resisted over-modernisation. **Temple Bar** is the tourist-heavy music quarter — loud, crowded, and expensive, but the traditional music sessions are the real thing. Pubs are still social hubs here in a way they no longer are in most of Britain.
 
-In this part of Dublin south of the O'Connell Bridge you'll find some of the most important Sights (museums, churches, castles and public buildings) concentrated in a relatively small area. At the College Green there's the Bank of Ireland and Trinity College, Ireland’s oldest university. A little further there's Grafton Street, the center of a luxurious shopping area. Other shopping locations include Nassau Street near the city center. 
+Dublin's neighbourhoods add texture. The Georgian squares south of the centre — Merrion, Fitzwilliam — are among the finest streets of 18th-century architecture in Europe. The **Docklands** has been transformed into a modern riverside district. Further out, coastal villages like [Dún Laoghaire](/europe/ireland/dublin/southcountykillineydalkeydunlaoghaire), Dalkey, and Howth are reachable in 30 minutes on the DART train and give you sea air and cliff walks on the doorstep of the city.
 
-If you want to have a taste of Eating Out , you can try one of the Pubs . They don't serve anything fancy but simple pub food and often is quite tasty. Here you can also have an Irish beer like Guinness and sing along with traditional folk music. It's one of the fastest ways to get to know the Irish culture. For a more thorough acquaintance visit the National Museum and see the portraits of famous Irishmen in the National Art Gallery (free admission). Of course you have already read James Joyce, Jonathan Swift and Patrick Kavanagh. Dublin keeps her dead poets and writers very much alive.
+Summers are mild but rarely warm; rain is never far away. Bring a waterproof coat.
 
 ## Destinations in Dublin
 
-[Broadstone](/europe/ireland/dublin/broadstone)
-[Skerries](/europe/ireland/dublin/skerries)
-[Lucan](/europe/ireland/dublin/lucan)
-[South County - Killiney / Dalkey / Dun Laoghaire](/europe/ireland/dublin/southcountykillineydalkeydunlaoghaire)
+- [Skerries](/europe/ireland/dublin/skerries)
+- [South County (Killiney / Dalkey / Dún Laoghaire)](/europe/ireland/dublin/southcountykillineydalkeydunlaoghaire)

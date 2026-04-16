@@ -1,8 +1,9 @@
 ---
-title: "Bank of Ireland"
-type: poi
+category: Sight
 latitude: 53.389943
 longitude: -6.298567
+title: Bank of Ireland
+type: poi
 ---
 
 This centre of 20th century commerce is one of the most striking of Dublin's 18th century buildings. Built in 1729 to house the Irish Parliament, it became redundant when the British and Irish Parliaments were united in London, when the Irish Parliament voted itself our of existence.

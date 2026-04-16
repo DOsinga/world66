@@ -1,8 +1,9 @@
 ---
-title: "National Gallery of Ireland"
+address: Merrion Square West & Clare Street
+category: Museum
+title: National Gallery of Ireland
 type: poi
-address: "Merrion Square West & Clare Street"
-url: "www.nationalgallery.ie"
+url: www.nationalgallery.ie
 ---
 
 The National Gallery of Ireland houses the national collection of Irish art and European master paintings. Admission to the permanent collection is free.

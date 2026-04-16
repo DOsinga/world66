@@ -194,6 +194,23 @@ function initCountryMap(elementId, continentSlug, bounds) {
 }
 
 
+/* ---- Shared helpers ---- */
+
+/* Pan the background map so a single marker sits in the middle of the hero
+   strip rather than the centre of the full (mostly-hidden) viewport. */
+function panMarkerToHero(map, lat, lng, animate) {
+    var hero = document.getElementById('hero');
+    if (!hero) return;
+    var rect = hero.getBoundingClientRect();
+    var targetY = Math.round((rect.top + rect.bottom) / 2);
+    var markerPt = map.latLngToContainerPoint(L.latLng(lat, lng));
+    var dy = markerPt.y - targetY;
+    if (Math.abs(dy) > 2) {
+        map.panBy([0, dy], {animate: !!animate, duration: 0.3});
+    }
+}
+
+
 /* ---- Location map: markers for child locations/POIs, expandable ---- */
 
 function initLocationMap(elementId, markers, options) {
@@ -237,7 +254,12 @@ function initLocationMap(elementId, markers, options) {
     if (markers.length > 1) {
         map.fitBounds(group.getBounds().pad(0.15));
     } else if (markers.length === 1) {
-        map.setView([markers[0].lat, markers[0].lng], options.isPoi ? 15 : 10);
+        var zoom = options.isPoi ? 15 : 10;
+        var center = L.latLng(markers[0].lat, markers[0].lng);
+        map.setView(center, zoom, {animate: false});
+        if (options.isPoi) {
+            panMarkerToHero(map, markers[0].lat, markers[0].lng, false);
+        }
     }
 
     L.control.attribution({position: 'bottomright', prefix: false})

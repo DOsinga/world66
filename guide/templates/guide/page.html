@@ -161,6 +161,17 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
+{% if neighbourhood_items %}
+<div class="neighbourhoods-section">
+  <h2>Neighbourhoods</h2>
+  <ul class="neighbourhood-list">
+    {% for nb in neighbourhood_items %}
+    <li><a href="{{ nb.get_absolute_url }}">{{ nb.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
 {% if poi_categories %}
 <div class="poi-filter-bar">

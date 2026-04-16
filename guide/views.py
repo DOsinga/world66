@@ -47,13 +47,15 @@ def location_or_section(request, path):
     parent_nav = []
     parent_locations = []
     active_nav = None   # which nav item should be highlighted in the sidebar
-    if parent:
+    if parent and page.page_type != "neighbourhood":
         parent_nav, parent_locations, _ = parent.children()
+        parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
         if page.page_type == "poi" and not parent_nav and "/" in parent.path:
             # Parent is a section with no nav children — use grandparent (city)
             grandparent = load_page(parent.path.rsplit("/", 1)[0])
             if grandparent and grandparent.page_type == "location":
                 parent_nav, parent_locations, _ = grandparent.children()
+                parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
                 active_nav = parent   # mark the section as active in the sidebar
 
     # For a POI reached via a context nav page, build sidebar from that nav page
@@ -71,6 +73,11 @@ def location_or_section(request, path):
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
+
+    # Separate neighbourhood pages from nav pages so they render inline under
+    # the article body rather than in the sidebar sections list.
+    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood"]
+    nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
 
     # Build the city tag index once so all tagged_pois() calls reuse it.
     city_tag_index = None
@@ -110,6 +117,7 @@ def location_or_section(request, path):
         "parent": parent,
         "sections": nav_pages,           # child nav pages of current page (location sidebar)
         "locations": locations,
+        "neighbourhood_items": neighbourhoods,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,

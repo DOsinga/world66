@@ -1,9 +1,11 @@
 ---
-title: Manitoba
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 55.001251
 longitude: -97.001038
 score: 0.43
+title: Manitoba
+type: location
 ---
 
 The licence plate for Manitoba says "Friendly Manitoba", and they mean it. From world-renowned attractions to out-of-the way attractions, Manitoba has everything and anything to offer the seasoned traveller. 

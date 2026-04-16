@@ -1,5 +1,6 @@
 ---
-title: "Isar Tor"
+category: Sight
+title: Isar Tor
 type: poi
 ---
 

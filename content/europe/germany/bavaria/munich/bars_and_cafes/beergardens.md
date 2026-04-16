@@ -1,5 +1,6 @@
 ---
-title: "Beer Gardens"
+category: Sight
+title: Beer Gardens
 type: poi
 ---
 

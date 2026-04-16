@@ -1,11 +1,11 @@
 ---
-title: "Valentin Musäum"
-type: poi
-address: "Im Isartor,"
-phone: "+49 (0)89 -  22 32 66"
-type: "Museums"
+address: Im Isartor,
+category: Museum
 latitude: 48.134139
 longitude: 11.582223
+phone: +49 (0)89 -  22 32 66
+title: Valentin Musäum
+type: poi
 ---
 
 Museum and bar with folk music in the Isartor (Isar Gate). A permanent exhibition about the two Munich comedians Karl Valentin and Liesl Karlstadt. Very strange and humorous.

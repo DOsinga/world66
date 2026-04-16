@@ -51,6 +51,7 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
      - Title: `todo-$ARGUMENTS-<shard>`
      - Body: list the items processed and a brief summary of changes
    - Return the PR URL.
+   - Show the review link: `http://127.0.0.1:8066/review?branch=todo-$ARGUMENTS-<shard>`
 
 ## Rules
 

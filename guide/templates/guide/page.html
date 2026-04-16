@@ -134,8 +134,7 @@
 
 {% block body_style %}
 {% if hero_image_url %}<style>
-body{background-image:url('{{ hero_image_url }}');background-size:cover;background-position:center top;background-attachment:fixed;}
-:root{--hero-image:url('{{ hero_image_url }}');}
+body{background-image:url('{{ hero_image_url }}');background-size:cover;background-position:center top;}
 </style>{% endif %}
 {% endblock %}
 
@@ -259,7 +258,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   var bgMapEl = document.getElementById('background-map');
 
   {% if not is_continent %}
-  var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat|escapejs }},"lng":{{ lng|escapejs }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
   {% endif %}
   var bgMap = null;
@@ -282,6 +281,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   var heroBtnMap   = document.getElementById('hero-btn-map');
 
   function setMapMode() {
+    if (!bgMapEl) return;
     bgMapEl.style.display = 'block';
     document.body.style.backgroundImage = 'none';
     if (heroBtnMap)   heroBtnMap.classList.add('hero-toggle-active');
@@ -290,6 +290,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   }
 
   function setPhotoMode() {
+    if (!bgMapEl) return;
     bgMapEl.style.display = 'none';
     document.body.style.backgroundImage = '';
     if (heroBtnPhoto) heroBtnPhoto.classList.add('hero-toggle-active');

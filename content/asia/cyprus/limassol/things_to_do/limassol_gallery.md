@@ -1,14 +1,15 @@
 ---
-title: "Silks Gallery"
-type: poi
-accessibility: "Parking Available"
-address: "3 Georgiou A' Street, Potamos Yermasoyias, Hallmark Complex 4047, Limassol, Cyprus"
-email: "info@silksgallery.com"
-opening_hours: "10:00 - 20:00"
-phone: "25 323 220"
-type: "Landmarks"
-url: "www.SILKSGALLERY.com"
-zipcode: "4047"
+accessibility: Parking Available
+address: 3 Georgiou A' Street, Potamos Yermasoyias, Hallmark Complex 4047, Limassol,
+  Cyprus
+category: Museum
+email: info@silksgallery.com
+opening_hours: 10:00 - 20:00
+phone: 25 323 220
+title: Silks Gallery
+type: Landmarks
+url: www.SILKSGALLERY.com
+zipcode: '4047'
 ---
 
 ***Silks Gallery ***is an international art Gallery based in Limassol , Cyprus established in 2007. It is a fashionable boutique gallery situated in the new alley complex by the sea at the heart of the city's tourist center with good proximity to the trendy areas of Limassol. Being one of the most stylish galleries in town it prides itself in the highest standard of art promotion in Cyprus. ***Silks Gallery ***is an international platform for showcasing works of most popular and renowned artists as well as promoting up and coming talents from around the world.

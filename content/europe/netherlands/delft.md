@@ -1,10 +1,14 @@
 ---
-title: Delft
-type: location
-latitude: 52.0116
-longitude: 4.3571
 done:
   location_cleanup: 2026-04-05
+image: delft.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_0781_Canal_in_Delft_(NL).jpg
+latitude: 52.0116
+longitude: 4.3571
+title: Delft
+type: location
 score: 0.63
 ---
 

@@ -19,4 +19,6 @@ type: section
 
 **Asistencia** -- See the [Redlands](/northamerica/unitedstates/california/inlandempire/redlands) museums listing for this 1830s mission outpost.
 
-**Route 66 Rendezvous Festival** -- See the Festivals section for details on this classic car celebration.
+**California Theatre of the Performing Arts** -- Built in 1928 in opulent Spanish-Moorish style, the beautifully preserved downtown theatre is home to the San Bernardino Symphony and touring productions. 562 West 4th Street.
+
+**San Bernardino County Museum** -- A regional museum in nearby Redlands with natural and cultural history exhibits, live-animal discovery stations, and extensive research collections.

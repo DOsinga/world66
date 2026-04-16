@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-14'
   location_cleanup: 2026-04-05
 latitude: 48.8566
 longitude: 2.3522
+score: 1.0
 title: Paris
 type: location
-score: 1.0
 ---
 
 *Europe > France > Paris*

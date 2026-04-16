@@ -1,10 +1,12 @@
 ---
 title: "Restaurante Buenaventura"
 type: poi
-address: "Plaza de la Iglesia de la Encarnacion, 5"
+address: "Plaza de la Iglesia de la Encarnación, 5"
 phone: "952858069"
 url: "www.demarbella.net"
 zipcode: "29600"
+latitude: 36.5110
+longitude: -4.8856
 ---
 
 The Buenaventura Restaurant is located on a privileged site, in a relaxed, pedestrian area of the Ancient Quarter, one of the most beautiful and well preserved quarters on the Costa del Sol. Right in the heart of the historical and commercial centre of Marbella, in a beautiful plaza where the 18th Century Iglesia de la Encarnación,is to be found. The church, which lends its name to the plaza, quite possibly the most important building in Marbella. 

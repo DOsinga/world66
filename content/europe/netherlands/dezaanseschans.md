@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: dezaanseschans.jpg
+image_attribution: Laurens R. Krol
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2017-08-15_Netherlands,_Zaanse_Schans_DSC_3284_DxO.jpg
 latitude: 52.473183
 longitude: 4.816596
 title: De Zaanse Schans

@@ -1,19 +1,16 @@
 ---
-title: Kreuzberg
-type: location
+done:
+  city_tag_migration: '2026-04-14'
+  location_cleanup: '2026-04-16'
 latitude: 52.486084
 longitude: 13.385951
 score: 0.6
+title: Kreuzberg
+type: neighbourhood
 ---
 
-If you mention Kreuzberg and the old SO 36 postal district, the clichés come automatically: squatters, punks, street riots, flat-sharing communities, Turks and, of course, the famous ‘long nights’. But this refuge of multicultural and alternative lifestyles hasn't been left untouched by the fall of the Wall. In the years since, elegant eating and drinking places have opened up alongside the countless döner stalls and restaurants. Today SO 36 stands for a mixture of posh things and things that live up to the rather tatty image of the Kreuzberg cliché.
+Kreuzberg is the Berlin of clichés — multicultural, scruffy, left-wing, relentlessly lived-in. Walled off on three sides during the Cold War and cheap enough to draw squatters, punks, draft-dodgers and Turkish guest-worker families, it became the counterweight to East Berlin's officialdom and West Berlin's bourgeoisie. Even with gentrification eating away at the edges, the district still carries an attitude you won't find anywhere else in the city.
 
+The old SO36 postal code, east of Kottbusser Tor, is the rougher and more interesting half. Oranienstraße is its spine — kebab shops, vintage stores, queer bars, late-night dives, the venerable SO36 punk venue. Further south, the Landwehr Canal cuts through the neighbourhood with a ring of cafés and the huge Turkish Market on its banks every Tuesday and Friday. On May Day the whole area still turns out for what started as a riot and is now mostly a party. West Kreuzberg (SW61) is calmer: tree-lined streets, the Jewish Museum in Daniel Libeskind's zinc-clad building, the Berlinische Galerie for 20th-century Berlin art, and the monumental remains of the old Anhalter Bahnhof.
 
- In Oranienstraße, the neighbourhood's main street, you cannot only sample every variety of international cuisine, you can also get a totally new outfit. You can buy fun T-shirts, club wear, military gear or clothes made of hemp in the shops around Heinrichplatz and then show them off a bit further down the street in Schnabelbar (steel decor) or Bierhimmel (intellectual beers and trashy cocktails in the back room). But you can also stay on Heinrichplatz and savour this neighbourhood's special mix of people in Bâteau Ivre. Or have a cut at Kaiserschnitt. Don't worry - despite the name (Caesarian), this hairdresser works quite normally with hair, comb and scissors. Going towards Oranienplatz, the big windows of the pub Flammende Herzen invite you in for a drink - often very atmospheric. 
-
-
- Going from Heinrichplatz towards Görlitzer Bahnhof, you come to several very popular and reasonably priced eating-places, like the Indian restaurant Amrit. Kafka is definitely one of the more expensive places to dine in the area, but the food is incredibly good, and in April 1999 it received an award from the Berliner Morgenpost newspaper for the friendliest waiter service in Kreuzberg. Here you don't have to apologise when you order your meal. On the other side of the overhead railtrack, in Wiener Straße, the pubs Wiener Blut and Madonna are both worth a visit. If you like sitting on the floor, you can eat great falafel round the corner on Spreewaldplatz.
-
-
- As an alternative to the Oranienplatz neighbourhood, along the bank of the Landwehr Canal are several very beautiful and spacious cafés with terraces (such as Übersee). Opposite, and highly popular at the moment, is Ankerklause at Kottbusser Bridge, a scene meeting-place that also fulfils your gastronomic dreams. If you follow the canal westwards from here, along the lovely riverbank (Planufer) you come to the big café restaurant Vienna Art near Admiralbrücke.
- On the riverbank opposite the theatre boat Theaterschiff TAU is Statthaus Böcklerpark with interesting events for young people and a halfpipe next door. The open-air swimming pool Prinzenbad (open in summer) is close by. If you fancy a bit more green space now, walk down Grimmstraße and Körtestraße and you'll reach the big park, the Hasenheide. Now you're already in Neukölln - but that would be another chapter.
+Food is Kreuzberg's other identity. This is where the döner kebab was invented, at Kottbusser Tor in the 1970s, and the neighbourhood still sets the standard. Beyond Turkish, every kind of international cooking has a foothold — some of the best is hidden in unpromising courtyard entrances around Bergmannstraße and Graefekiez.

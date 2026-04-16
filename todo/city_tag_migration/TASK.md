@@ -1,16 +1,24 @@
 # City Tag Migration Task
 
-Convert a city's POIs from the old filesystem-only model to the new tag-based model
-introduced in PR #128. After migration, POIs are discoverable by tag, can appear in
-multiple sections, and can be reached via virtual URLs like `/city/shopping/albert_cuypmarkt`
-even if the file lives elsewhere.
+The goal of this migration is to change the section folder and neighborhood folders
+of cities into tags on the pois of those cities. In the current structure eating_out
+pois are usually in the eating_out folder of the city like:
 
-## Background
+berlin/eating_out/best_kebab.md
+berlin/eating_out/decent_kebab.md
+berlin/eating_out.md
 
-In the old model a POI's section membership was determined purely by which directory it
-lived in. In the new model, POIs carry a `tags:` list and sections collect POIs by
-querying for their tag. The new system is fully backward-compatible: untagged POIs still
-show up via the legacy directory scan, so migration can happen city by city.
+and for neighborhoods the structure is similar:
+
+berlin/mitte/museum.md
+berlin/mitte/park.md
+berlin/mitte.md
+
+after this migration we want all pois (best_kebab.md, decent_kebab.md, museum.md, park.md)
+all to end up directly in the city root (berlin) but have mitte or eating_out added to
+their tags property (a list) in their frontmatter. eating_out.md should already have a
+property type=section and mitte a property type=neighborhood, but if not make it so.
+if there are no pages for the section or the neighborhood yet, introduce them
 
 ## For each city
 
@@ -22,16 +30,22 @@ them. Understand what sections the city has and which POIs live where.
 ### 2. Tag each POI
 
 For every POI `.md` file in a section subdirectory, add a `tags:` field that includes:
-- The **section slug** it belongs to (e.g. `things_to_do`, `shopping`, `eating_out`)
+- The **section slug** it belongs to (e.g. `things_to_do`, `shopping`, `eating_out`, `bars_and_cafes`), 
+  based on the folder you find it in, or assign if no folder is available.
 - Any **neighbourhood slug** from the existing `neighbourhood:` field — convert it to a
-  tag slug (lowercase, underscores). Keep the `neighbourhood:` field for now so PR #105
-  content still renders correctly during the transition.
-- Any other relevant cross-cutting tags (e.g. `outdoor`, `free_entry`) if obvious
+  tag. If a poi is in a neighborhood folder, do the same. Drop the neighbourhood: field
+  when done.
+- Any other relevant cross-cutting tags, indicating aspects of this poi you know, including the type
+  of place like restaurant, bar, museum, castle, park etc. Use your best judgment for type tags 
+  we'll normalize these in a follow-up pass after seeing what the full distribution     
+  looks like.
 
 Example — a restaurant in De Pijp that currently has `neighbourhood: "De Pijp"`:
 ```yaml
-tags: [eating_out, de_pijp]
+tags: [eating_out, de_pijp, restaurant]
 ```
+- When you are redoing a poi and you notice it is rather empty, feel free to add information you
+  know. 
 
 ### 3. Create neighbourhood pages (for cities that have them)
 
@@ -51,34 +65,17 @@ type: neighbourhood
 Brief intro to the neighbourhood.
 ```
 
-If there are 3+ neighbourhoods, also create a `neighbourhoods.md` section_group:
+### 5. Move the pois
 
-```yaml
----
-title: "Neighbourhoods"
-type: section_group
-groups: neighbourhood
----
-```
+Once correctly annotated, move the pois to the root of the city and delete the now empty section and
+neighborhood folders. Make sure you end up with the same number of pois, not counting dupes of course.
 
-### 4. Create theme pages (optional, for cities that warrant it)
-
-If you can identify 2+ meaningful cross-cutting themes with enough POIs to support them,
-create theme pages at the city level (e.g. `street_art.md`, `lgbtq.md`, `cold_war.md`).
-Only do this if it adds genuine value — don't force themes.
-
-### 5. Commit
+### 4. Commit
 
 One commit per city: `Tag migration: City Name`
 
 ## Rules
 
-- Do NOT move any files — tags are additive, file locations stay the same
-- Do NOT remove the `neighbourhood:` field from POIs yet (needed for PR #105 compat)
 - Tag slugs must be lowercase with underscores, matching the section `.md` filename
 - A POI can have multiple section tags if it genuinely fits more than one
 - Only tag POIs you are confident about — it is better to leave a tag out than add a wrong one
-
-## Batch files
-
-Each batch file lists ~3–5 city paths. Process all cities in a batch, one commit per city.

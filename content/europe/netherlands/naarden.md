@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: naarden.jpg
+image_attribution: Johan Bakker
+image_license: CC BY-SA 3.0 nl
+image_source: https://commons.wikimedia.org/wiki/File:30282-Vestingwerken_en_grachten_van_Naarden.jpg
 latitude: 52.2958
 longitude: 5.1634
 title: Naarden

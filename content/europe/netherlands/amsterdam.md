@@ -1,11 +1,16 @@
 ---
-title: Amsterdam
-type: location
+done:
+  location_cleanup: '2026-04-16'
+  neighbourhoods: 2026-04-06
+image: amsterdam.jpg
+image_attribution: Dietmar Rabich
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Begijnhof_--_2015_--_7215-8.jpg
 latitude: 52.37308
 longitude: 4.892453
-done:
-  location_cleanup: 2026-04-05
 score: 0.83
+title: Amsterdam
+type: location
 ---
 
 Amsterdam is one of the most walkable cities in Europe, and the canal ring at its centre is genuinely as beautiful as advertised. Seventeen canals, 1,200 bridges, and rows of narrow gabled houses built during the 17th-century Golden Age when this was the wealthiest city on earth — it adds up to a place that rewards slow wandering more than any itinerary can capture.

@@ -1,8 +1,7 @@
 ---
 title: "Trimbakeshwar"
 type: poi
-type: "Other"
-url: "www.trimbakeshwar.com"
+category: Sight
 latitude: 19.93212
 longitude: 73.530755
 ---

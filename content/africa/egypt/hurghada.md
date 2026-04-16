@@ -1,11 +1,11 @@
 ---
 done:
-  location_cleanup: 2026-04-05
+  location_cleanup: '2026-04-16'
 latitude: 27.2222
 longitude: 33.8307
+score: 0.57
 title: Hurghada
 type: location
-score: 0.57
 ---
 
 Hurghada was a small fishing village on the Egyptian Red Sea coast until the 1980s, when developers noticed the water. Today it is Egypt's largest beach resort, a 30 km strip of hotels, dive centers, and tourist infrastructure stretching along one of the world's great reef systems. The transformation was fast and not always elegant — large stretches of the coast are dominated by all-inclusive resorts, and the resort zone has little to do with Egyptian life — but the sea is genuinely spectacular and the diving is among the best in the world.

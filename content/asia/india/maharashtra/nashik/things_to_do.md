@@ -1,22 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Other"
-url: "www.trimbakeshwar.com"
-latitude: 12.833965
-longitude: 79.714809
 ---
 
-Visit Trambakeshwar temple, Shirdi Temple, Vani Temple..........
+The river ghats at Ram Kund are the spiritual centre of Nashik, busy at all hours with pilgrims. From there, the temples of Panchavati — Kalaram, Sundar Narayan, and Kapaleshwar — are all within a short walk. The Pandavleni Caves, a group of 24 Buddhist rock-cut caves dating from the 2nd century BC, sit on a ridge south of the city and are worth the climb for the carvings and the views.
 
-### [Trimbakeshwar](/asia/india/maharashtra/nashik/things_to_do/trimbakeshwar_tri)
-
-Trimbakeshwar, which is 28 kms. (18 miles) from Nashik. It is a religious center having one of the twelve JYOTIRLINGA of the world. The extraordinary feature of the Jyotirlinga located here is that it has three faces embodying Lord Brahma, Lord Vishnu & Lord Mahesh(Shiva). All other JYOTIRLINGA have Shiva as the main deity. The temple is known for its appealing architecture and sculpture and is at the foothills of a mountain called Brahmagiri. Godavari River originates on Bramhagiri mountain and meets to the sea near Raj Mahendri, AP.
-
-type: Other
-
-
-
-[[rate it]](/asia/india/maharashtra/nashik/things_to_do/trimbakeshwar_tri)
-
-url: [www.trimbakeshwar.com](http://www.trimbakeshwar.com/)
+Day trips open up the best things near Nashik: Trimbakeshwar's Jyotirlinga temple and the source of the Godavari 28km west, Shirdi's Sai Baba complex 90km southeast, and the wineries around the Gangapur Dam just west of town.

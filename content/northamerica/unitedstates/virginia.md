@@ -1,16 +1,15 @@
 ---
-title: Virginia
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 37.123224
 longitude: -78.492772
 score: 0.5
+title: Virginia
+type: location
 ---
 
-Virgina is one of the most historic of the United states. In 1607 colonists dispatched by the London Company established the first permanent settlement at Jamestown (May 13). The first college was established in Williamsburg, Virginia (William and Mary). Originally admitted as one of the original Thirteen Colonies in 1788. Virginia seceded in April 1861 and was the scene of many major battles during the Civil War, including the final campaigns that led to the surrender of Gen. Robert E. Lee.
+Virginia is one of the most historic states in the country. The first permanent English settlement in North America was at Jamestown in 1607; the first college, William & Mary, was founded in Williamsburg in 1693; eight US presidents were born here. Four of the Civil War's biggest battlefields — Manassas, Fredericksburg, the Wilderness, Appomattox — lie within the state, and Gen. Robert E. Lee surrendered his army at Appomattox Court House in 1865.
 
+Northern Virginia, pressed up against Washington DC, is the wealthiest and most densely populated part of the state: Arlington, Alexandria, and the Dulles tech corridor. It feels less like Southern Virginia than an extension of the capital. Richmond, the capital and the former capital of the Confederacy, is a mid-sized city on the James River with a good restaurant scene and strong civil-rights history.
 
- 
- Northern Virginia is rich in history as well as the future. You can visit the homes of George Washington, Thomas Jefferson, George Mason, Robert E. Lee, James Monroe, and many other prominent figures in American history. Northern Virginia is rapidly becoming the center of the high-tech industry for the east coast with hundreds of internet companies including America Online. 
-
-
- In Southern Virginia, you won't forget you're in the south. Nevertheless, the culture is as thick as the accent. You'll find beaches, theme parks, and some very good southern cooking. The Shenandoah valley is loaded with trails for biking and hiking or even a nice drive along the Blue Ridge mountains. Richmond is the capital and Norfolk the largest city.
+Further south and west, the state turns rural and Southern. The Shenandoah Valley runs between the Blue Ridge and the Allegheny mountains and carries Shenandoah National Park, Skyline Drive, and the northern end of the Blue Ridge Parkway — some of the best hiking and driving country on the east coast. On the coast, Virginia Beach and Norfolk anchor the Tidewater region; further inland, Charlottesville is a college town built around Thomas Jefferson's Monticello and the University of Virginia. Williamsburg, Jamestown, and Yorktown form a "Historic Triangle" that is the closest thing the country has to an open-air museum of its founding.

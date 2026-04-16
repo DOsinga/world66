@@ -1,11 +1,11 @@
 ---
+done:
+  location_cleanup: '2026-04-16'
 latitude: 38.0
 longitude: -1.5
+score: 0.51
 title: Murcia
 type: location
-done:
-  location_cleanup: 2026-04-05
-score: 0.51
 ---
 
 Murcia is a small, underrated region tucked into the south-east corner of Spain, between Andalucía and the Valencian Community. It is the driest part of the country — parts of it are classified as semi-desert — but the valley of the **Río Segura** is so fertile that Murcia has been called *La Huerta de Europa*, "the market garden of Europe", and supplies much of the continent's winter lettuce, peppers and citrus. The result is a surprising landscape: arid hills and eroded badlands rising straight out of green irrigated plains, all under a sky that is more often clear than anywhere else in Spain.

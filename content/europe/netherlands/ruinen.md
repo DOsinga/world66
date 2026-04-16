@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: ruinen.jpg
+image_attribution: Gouwenaar
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20210512_Zaandplatte_nabij_Ruinen.jpg
 latitude: 52.764154
 longitude: 6.360008
 title: Ruinen

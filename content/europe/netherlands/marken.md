@@ -1,10 +1,14 @@
 ---
-title: Marken
-type: location
-latitude: 52.4578
-longitude: 5.1068
 done:
   location_cleanup: 2026-04-06
+image: marken.jpg
+image_attribution: Rene Cortin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Marken,_The_Netherlands_07.jpg
+latitude: 52.4578
+longitude: 5.1068
+title: Marken
+type: location
 score: 0.5
 ---
 

@@ -1,10 +1,14 @@
 ---
-title: Valkenburg
-type: location
-latitude: 50.8648
-longitude: 5.8313
 done:
   location_cleanup: 2026-04-06
+image: valkenburg.jpg
+image_attribution: Les Meloures at Luxembourgish Wikipedia
+image_license: CC BY-SA 1.0
+image_source: https://commons.wikimedia.org/wiki/File:Gare_vu_Valkenburg.jpg
+latitude: 50.8648
+longitude: 5.8313
+title: Valkenburg
+type: location
 score: 0.51
 ---
 

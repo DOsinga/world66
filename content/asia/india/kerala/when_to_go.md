@@ -1,7 +1,11 @@
 ---
-title: 'Festivals'
+title: "When to Go"
 type: section
 ---
+
+The dry, cool months from October to March are the most comfortable time to visit Kerala, with daytime temperatures around 25–32°C and minimal rain. The southwest monsoon arrives in June and lasts through September — bring an umbrella, but the lush green landscape and reduced crowds make it a worthwhile time for ayurveda retreats and backwater stays. April and May get hot and humid.
+
+Many travellers time their visit around one of Kerala's distinctive festivals.
 
 **Onam** is Kerala's biggest festival, celebrated in August or September during the Malayalam month of Chingam. It marks the mythical return of King Mahabali, and the entire state comes alive for about ten days. Families lay elaborate flower carpets (pookalam) at their doorsteps, prepare the grand sadya feast on banana leaves, and villages stage snake boat races (vallam kali) on the backwaters. The Nehru Trophy Boat Race on Punnamada Lake near [Alappuzha](/asia/india/kerala/alappuzha) is the most famous of these, with massive snake boats crewed by over a hundred rowers each.
 

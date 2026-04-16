@@ -1,5 +1,6 @@
 ---
-title: "Churches"
+category: Sight
+title: Churches
 type: poi
 ---
 
@@ -7,7 +8,8 @@ type: poi
 
 **San Francisco**
 
-Note the colonial altars in the Church of San Francisco.  
+Note the colonial altars in the Church of San Francisco. 
+ 
 
 **Caracas Cathedral**
 

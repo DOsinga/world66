@@ -1,5 +1,6 @@
 ---
-title: "Museums"
+category: Museum
+title: Museums
 type: poi
 ---
 
@@ -7,7 +8,8 @@ type: poi
 
 **Banco Central**
 
-The Banco Central has a museum that displays old coins, jewels and Bolivar’s sword.  
+The Banco Central has a museum that displays old coins, jewels and Bolivar’s sword. 
+ 
 
 **Casa Natal de Simón Bolívar**
 

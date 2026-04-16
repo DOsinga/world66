@@ -1,5 +1,6 @@
 ---
-title: "Gardens and Parks"
+category: Sight
+title: Gardens and Parks
 type: poi
 ---
 

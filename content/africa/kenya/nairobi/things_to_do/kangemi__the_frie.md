@@ -1,9 +1,9 @@
 ---
-title: "Kangemi - the friendliest slum in Nairobi"
+category: Neighbourhood
+email: kangemi-slum-tours@gmx.com
+title: Kangemi - the friendliest slum in Nairobi
 type: poi
-email: "kangemi-slum-tours@gmx.com"
-type: "Hotspots"
-url: "kangemi-slum-tours.freehostia.com"
+url: kangemi-slum-tours.freehostia.com
 ---
 
 Experience the most unseen part of kenya and take part in one of the guided tours in Kangemi. You’ll experience that the people of kangemi will

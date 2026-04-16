@@ -1,22 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "1831 W. SR 434, Longwood"
-phone: "407-629-2221"
-price: "$15-30"
-type: "International"
-url: "www.journeysrestaurant.net"
 ---
 
-Orlando boasts a bevy of restaurants and eateries, from the tacky and wacky to the secluded and romantic.
-
-**Contributors**
-August 11, 2005
-
-### Journeys
-
-"World-inspired cuisine." Lamb, duck, seafood, etc. Located in
-Longwood, a short drive from downtown Orlando and the tourist areas.
-Critic's choice, "Best Secluded Spot," Orlando Sentinel, 2004.
-
-type: International
+Orlando's restaurant scene has long played second fiddle to the theme parks, but outside the tourist corridor there is a solid spread of independent kitchens. Downtown and Winter Park carry the more interesting end — farm-to-table spots, Southern cooking, and a growing Vietnamese pocket around the Mills 50 district. The big resort districts (Disney Springs, CityWalk at Universal) are where the brand-name, celebrity-chef places land.

@@ -306,38 +306,59 @@ def review(request):
     if result.returncode != 0:
         return render(request, 'guide/review.html', {'error': result.stderr.strip() or 'git log failed', 'branch': branch})
 
-    deleted_result = subprocess.run(
+    # Per-file diff stats: file_path → (added_lines, deleted_lines)
+    numstat_result = subprocess.run(
+        ['git', 'diff', '--numstat', f'origin/main...{branch}', '--', 'content/'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    file_stats = {}
+    for stat_line in numstat_result.stdout.splitlines():
+        parts = stat_line.split('\t', 2)
+        if len(parts) == 3:
+            file_stats[parts[2].strip()] = (parts[0], parts[1])
+
+    del_result = subprocess.run(
         ['git', 'diff', f'origin/main...{branch}', '--name-only', '--diff-filter=D'],
         capture_output=True, text=True, check=False,
         cwd=str(settings.BASE_DIR),
     )
-    deleted_files = set(deleted_result.stdout.splitlines())
+    deleted_files = set(del_result.stdout.splitlines())
 
-    pages = _parse_review_log(result.stdout, deleted_files)
+    pages = _parse_review_log(result.stdout, deleted_files, file_stats)
     return render(request, 'guide/review.html', {'pages': pages, 'error': None, 'branch': branch})
 
 
-def _parse_review_log(output, deleted_files=None):
+def _parse_review_log(output, deleted_files=None, file_stats=None):
     deleted_files = deleted_files or set()
+    file_stats = file_stats or {}
     pages = {}  # url_path → dict, deduplicated
-    current_msg = ''
     for line in output.splitlines():
         if line.startswith('COMMIT: '):
-            current_msg = line[len('COMMIT: '):]
+            pass  # commit messages replaced by diff stats
         elif line.startswith('content/') and line.endswith('.md'):
-            url_path = _file_to_url_path(line)
+            raw = line.rstrip()
+            url_path = _file_to_url_path(raw)
             if url_path not in pages:
+                is_deleted = raw in deleted_files
+                added, removed = file_stats.get(raw, ('?', '?'))
+                if is_deleted:
+                    summary = 'verwijderd'
+                elif added == '0' and removed == '0':
+                    summary = 'ongewijzigd'
+                else:
+                    parts = []
+                    if added not in ('0', '-'):
+                        parts.append(f'+{added}')
+                    if removed not in ('0', '-'):
+                        parts.append(f'−{removed}')
+                    summary = ' / '.join(parts) if parts else 'gewijzigd'
                 pages[url_path] = {
                     'url_path': url_path,
                     'title': _display_title_from_path(url_path),
-                    'deleted': line.rstrip() in deleted_files,
-                    'commits': [],
+                    'deleted': is_deleted,
+                    'summary': summary,
                 }
-            entry = pages[url_path]
-            if current_msg and len(entry['commits']) < 3 and current_msg not in entry['commits']:
-                entry['commits'].append(current_msg)
-    for entry in pages.values():
-        entry['commits'].reverse()
     return list(pages.values())
 
 

@@ -1,7 +1,7 @@
 ---
-title: "Amphitheatre"
-type: poi
-type: "general"
+category: Architecture
+title: Amphitheatre
+type: general
 ---
 
 Ruin of Roman arena for fights of gladiators and animals, built about AD 100, the ranks could hold 20.000 spectators.

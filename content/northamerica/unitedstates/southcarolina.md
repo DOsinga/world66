@@ -1,12 +1,14 @@
 ---
-title: South Carolina
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 33.687439
 longitude: -80.436374
 score: 0.54
+title: South Carolina
+type: location
 ---
 
-South Carolina is one of the prettiest states in the U.S. Located on the East Coast between [North Carolina](/northamerica/unitedstates/northcarolina) and [Georgia](/europe/georgia), The Palmetto State offers many seaside resorts on the Atlantic that combine sandy beaches with an historical center. You will get a good impression of what life in the early years of the Unites States was like, walking the cobbled streets of [Charleston](/northamerica/unitedstates/southcarolina/charleston) visiting an 18th century mansion, or taking a ferry ride to Ft. Sumter, where the civil war began. Another coastal city, Myrtle Beach is a part of the Grand Strand and is a haven for golfers, swimmers and other recreational enthusiasts. The Grand Strand is a perfect family or romantic vacation spot along the sun-soaked coast. 
+South Carolina is one of the prettiest states in the U.S. Located on the East Coast between [North Carolina](/northamerica/unitedstates/northcarolina) and [Georgia](/northamerica/unitedstates/georgia), The Palmetto State offers many seaside resorts on the Atlantic that combine sandy beaches with a historical centre. You will get a good impression of what life in the early years of the United States was like, walking the cobbled streets of [Charleston](/northamerica/unitedstates/southcarolina/charleston) visiting an 18th century mansion, or taking a ferry ride to Ft. Sumter, where the civil war began. Another coastal city, Myrtle Beach is a part of the Grand Strand and is a haven for golfers, swimmers and other recreational enthusiasts. The Grand Strand is a perfect family or romantic vacation spot along the sun-soaked coast. 
 
 Upstate South Carolina offers many good outdoor possibilities. The Blue Ridge Mountains are a favorite for hikers, campers, outdoor sportsman and fisherman alike. But there is also history here. [Greenville](/northamerica/unitedstates/southcarolina/greenville), situated north of the Mountains, was once the textile center of the world. It now has over 60 city parks and areas dedicated to preserving their heritage. 
 

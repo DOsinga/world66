@@ -1,10 +1,11 @@
 ---
-title: 'San Bernardino Asistencia'
-type: poi
-address: '26930 Barton Road, Redlands, CA'
-phone: '909-793-5402'
+address: 26930 Barton Road, Redlands, CA
+category: Sight
 latitude: 34.048903
 longitude: -117.216706
+phone: 909-793-5402
+title: San Bernardino Asistencia
+type: poi
 ---
 
 Established in 1830 as an outpost of Mission San Gabriel Arcangel, the Asistencia is often said to be part of a second, inland chain of missions. At the site is a museum, small chapel, and gatehouse.

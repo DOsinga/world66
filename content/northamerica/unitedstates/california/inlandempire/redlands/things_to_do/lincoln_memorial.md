@@ -1,9 +1,10 @@
 ---
-title: 'Lincoln Memorial Shrine'
+address: 125 West Vine Street, Redlands, CA 92373
+category: Sight
+phone: 909-798-7632
+title: Lincoln Memorial Shrine
 type: poi
-address: '125 West Vine Street, Redlands, CA 92373'
-phone: '909-798-7632'
-url: 'www.lincolnshrine.org'
+url: www.lincolnshrine.org
 ---
 
 The Lincoln Memorial Shrine was built and presented to the City of Redlands in 1932 by philanthropists Robert and Alma Watchorn, as a tribute to Lincoln and a memorial to their son Emory Ewart, who died from injuries suffered in World War I.

@@ -1,11 +1,12 @@
 ---
-title: 'Kimberly Crest House and Gardens'
-type: poi
-address: '1325 Prospect Drive, Redlands, CA 92373'
-phone: '909-792-2111'
-url: 'www.kimberlycrest.org'
+address: 1325 Prospect Drive, Redlands, CA 92373
+category: Architecture
 latitude: 34.037376
 longitude: -117.173435
+phone: 909-792-2111
+title: Kimberly Crest House and Gardens
+type: poi
+url: www.kimberlycrest.org
 ---
 
 Kimberly Crest is modeled after a French chateau and has been lived in by only three families since being built in 1897 by Mrs. Cornelia Hill. It was subsequently owned by Mrs. Helen Kimberly and then Mrs. Elizabeth Shirk. For those familiar with Hollywood, the Magic Castle is an exact mirror image of Kimberly Crest.

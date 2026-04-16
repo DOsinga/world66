@@ -1,7 +1,7 @@
 ---
-title: "Plaza de Armas"
-type: poi
-type: "Squares"
+category: Sight
+title: Plaza de Armas
+type: Squares
 ---
 
 Plaza de Armas is a nice square located in the east part of the old city, close to the harbour.

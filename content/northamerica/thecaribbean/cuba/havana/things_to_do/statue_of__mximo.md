@@ -1,8 +1,8 @@
 ---
-title: "Statue of Máximo Gómez"
-type: poi
-address: "Parque Martires del 71"
-type: "Fountains and statues"
+address: Parque Martires del 71
+category: Sight
+title: Statue of Máximo Gómez
+type: Fountains and statues
 ---
 
 In the north part of the old city you will find the Parque Martires del 71 with the the huge statue of Máximo Gómez.

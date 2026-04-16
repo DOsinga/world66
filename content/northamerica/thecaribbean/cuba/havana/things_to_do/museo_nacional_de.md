@@ -1,9 +1,10 @@
 ---
-title: "Museo Nacional de Bellas Artes"
+address: Calle Trocadero, between Calles Zulueta and Monserrate
+category: Museum
+phone: 7/861-3856
+title: Museo Nacional de Bellas Artes
 type: poi
-address: "Calle Trocadero, between Calles Zulueta and Monserrate"
-phone: "7/861-3856"
-url: "www.museonacional.cult.cu"
+url: www.museonacional.cult.cu
 ---
 
 One of the largest collections of visual arts in Cuba. Highlights among the exhibition rooms include the Cuban painting and engraving section, displaying works dating from the 16th to the 20th century. Another section is dedicated to European art, with original pieces by such masters as Rubens, Murillo and Goya, to name but a few. One of the most significant collections of Egyptian, Greek and Roman art in Latin America is also housed here.

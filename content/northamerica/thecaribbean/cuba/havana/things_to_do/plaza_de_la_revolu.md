@@ -1,8 +1,8 @@
 ---
-title: "Plaza de la Revolución"
-type: poi
-address: "Plaza de la Revolución"
-type: "Squares"
+address: Plaza de la Revolución
+category: Sight
+title: Plaza de la Revolución
+type: Squares
 ---
 
 The Plaza de la Revolución is the grand communist parade place.

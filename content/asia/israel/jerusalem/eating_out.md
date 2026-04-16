@@ -3,26 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Many good restaurants in Jerusalem.
-
-**all**
-
-**Green door pizza**
-
-Small restaurant in the old town close to Damascus gate.
-
-**Rianji Restaurant**
-
-Good option
-
-address: 10 Hamelech David Jerusalem
-
-tel: 972-2-6222312
-
-**The Friends at the Botanical Garden**
-
-****
-
-address: Botanic Garden Givat Ram Jerusalem
-
-tel: 972-2-6793303
+Jerusalem food is serious: slow-cooked Palestinian lamb, fresh hummus, zaatar, stuffed vegetables, and the heavy aromatic cooking of the Mahane Yehuda market stalls. **Mahane Yehuda** (the shuk) is now as much an eating district as a market — bars and wine rooms have opened in the alleys and stay open late. Outside the walls, the restaurants on **Emek Refaim** in the German Colony and **Jaffa Road** in the centre are good bets. In the Old City, **Abu Shukri** at Via Dolorosa is famous for hummus; **Lina** in the Christian Quarter is a local favourite.

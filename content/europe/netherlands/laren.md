@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: laren.jpg
+image_attribution: Ben Bender
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:7245_Laren,_Netherlands_-_panoramio_(2).jpg
 latitude: 52.256589
 longitude: 5.225193
 title: Laren

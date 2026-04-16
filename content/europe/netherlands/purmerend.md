@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: purmerend.jpg
+image_attribution: Michielverbeek
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Purmerend,_de_Melkwegbrug_voor_langzaam_verkeer_IMG_9196_2021-05-30_12.15.jpg
 latitude: 52.5025
 longitude: 4.9615
 title: Purmerend

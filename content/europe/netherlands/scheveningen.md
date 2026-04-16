@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: scheveningen.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:.00_1091_Seebad_Scheveningen_-_Niederlande.jpg
 latitude: 52.106745
 longitude: 4.273694
 title: Scheveningen

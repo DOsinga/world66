@@ -1,9 +1,11 @@
 ---
-title: Around Paris
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 48.85521
 longitude: 2.387194
 score: 0.8
+title: Around Paris
+type: location
 ---
 
 The Île-de-France region around [Paris](/europe/france/paris) is worth exploring beyond the city limits. The grand palace of [Versailles](/europe/france/around_paris/versailles) — built by Louis XIV to project absolute royal power — is an unmissable day trip, though it draws enormous crowds in summer; go early or on a weekday. A little further south, the palace of [Fontainebleau](/europe/france/around_paris/fontainebleau) is less visited and equally impressive, surrounded by a magnificent forest that's world-renowned for bouldering.

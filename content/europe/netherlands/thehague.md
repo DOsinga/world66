@@ -1,6 +1,8 @@
 ---
-done:
-  location_cleanup: '2026-04-15'
+image: thehague.jpg
+image_attribution: Pedro Nuno Caetano on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/12962905@N05/49518511857
 latitude: 52.074946
 longitude: 4.26968
 score: 0.63

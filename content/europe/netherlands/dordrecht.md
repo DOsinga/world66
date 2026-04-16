@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: dordrecht.jpg
+image_attribution: Ludvig14
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dordrecht_Stationsweg2_018_0859.jpg
 latitude: 51.768955
 longitude: 4.686789
 title: Dordrecht

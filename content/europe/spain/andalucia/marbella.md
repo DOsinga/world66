@@ -1,31 +1,17 @@
 ---
-title: Marbella
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 36.508976
 longitude: -4.88562
 score: 0.64
+title: Marbella
+type: location
 ---
 
-Over time, Marbella has become a magnificent town, which concentrates on offering a multitude of attractions such as beautiful beaches, golf courses, pleasure harbours like Puerto Banus, luxury hotels, restaurants, commercial centres and its unbeatable natural surroundings and intense nightlife to its thousands of visitors. 
- All this makes Marbella an inexhaustible place of enriching possibilities for body and mind, where life takes on a different meaning.
- 
+Marbella is the flashy end of the Costa del Sol — a resort town of about 150,000 people on the south coast of Spain, backed by the jagged La Concha mountain and looking out across the Mediterranean to Africa. For most of its history it was a quiet fishing village; the jet-set discovery in the 1950s and the property boom that followed turned it into what it is today.
 
-Visiting Marbella today means that you will prove straight way its spectacularly rapid change. 
- 
+Two Marbellas sit side by side. The **old town**, a warren of whitewashed streets around the Plaza de los Naranjos, still feels Andalusian — orange trees, tiled fountains, and the 16th-century Iglesia de la Encarnación. A short walk seafront is the tree-lined Avenida del Mar, lined with Dalí sculptures, leading onto the Paseo Marítimo and the beaches. Seven kilometres west, **Puerto Banús** is the other Marbella: a marina of super-yachts, designer boutiques, and Ferraris circling at walking pace.
 
-The local government, headed by its mayor Mr. Jesús Gil y Gil, has done its utmost to improve the general image of Marbella, and at the same time executed and started important projects which define the "New Marbella", symbol of a town that works in the present looking towards the future. 
- 
+The coastline has around 30 kilometres of beach, from the crowded family strands at El Fuerte and La Fontanilla to quieter coves further east around Elviria and Cabopino. Inland, the mountain villages of Ojén and Istán are a short drive away, Ronda is a dramatic day trip, and the whole Costa del Sol — Málaga, Mijas, Gibraltar — is an easy run along the coast.
 
-Marbella has become a clean, secure and beautiful town, offering a better quality of life to its visitors and inhabitants. In its constant search for new attractions, Marbella continues to progress, which places Marbella as the International City of Tourism, reclaiming the international acclaim it deserves. 
- 
-
-Nobody befere would have ever imagined that Marbella could change the way it did and the way it still does. Thanks to the management of the local council headed by Mayor Gil, which was based on the application of a company model to public administration, with imagination, effort and common sense, Marbella today enjoys the best infrastructure and has converted itself into a place of high interest for investors. Creating in this way richness for the municipality and thousands of jobs for its inhabitants. 
- 
-
-Above all, Marbella has a touristic vocation and that of a modern town in continuous progress. The fact that a lot of the designed projects improve the range of facilities and spare time activities, only strengthens the reality of Marbella, which year after year, has become the prefered destination of hundreds of thousands of tourists. 
- 
-
-The character of the people of Marbella, cordial and welcoming also helps to make nobody feel like a stranger in our cosmopolitan town. 
- 
-
-On the following pages we will show you some typical aspects and particular sites of Marbella, but if you do have a specific request or would like to consult us for whatever reason, you can always contact the local tourist office.
+Marbella works best out of peak summer. August is hot and packed; April to June and September to October bring the same sunshine with room to breathe.

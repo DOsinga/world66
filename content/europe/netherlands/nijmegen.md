@@ -1,10 +1,14 @@
 ---
-title: Nijmegen
-type: location
-latitude: 51.847495
-longitude: 5.863777
 done:
   location_cleanup: 2026-04-05
+image: nijmegen.jpg
+image_attribution: Szilas
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2009-05-01_in_Nijmegen_01.jpg
+latitude: 51.847495
+longitude: 5.863777
+title: Nijmegen
+type: location
 score: 0.52
 ---
 

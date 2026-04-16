@@ -1,6 +1,7 @@
 ---
 title: "Clock Tower"
 type: poi
+category: "Architecture"
 address: "Waterfront Promenade, Tsim Sha Tsui"
 latitude: 22.2954
 longitude: 114.1676

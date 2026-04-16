@@ -1,22 +1,19 @@
 ---
-title: Yuma
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 32.725422
 longitude: -114.619809
 score: 0.38
+title: Yuma
+type: location
 ---
 
-Yuma is located in the Southwest of Arizona, close to the border with [California](/northamerica/unitedstates/california) in the West and [Mexico](/northamerica/mexico) in the South. It's a city with a lot of history. 
+Yuma sits in the southwest corner of Arizona, a desert town on the Colorado River where the state borders both California and Mexico. It's hot — often the hottest place in the US in summer — and dusty, but there's real history here and a slower-paced feel than Phoenix or Tucson.
 
+The Colorado River crossing made Yuma strategically important for centuries. Hernando de Alarcón passed through in 1540. From the 1850s to the 1870s, steamboats worked the river, supplying mines and army posts. The Southern Pacific Railroad bridged the river in 1870, and Yuma became the gateway to California for prospectors and settlers.
 
- The region was first visited by a European in 1540, when Hernando de Alarcon visited the site of what is now the current City of Yuma. He immediately saw that the natural crossing of the Colorado River was an ideal spot for a city. Much of Yuma County's later development occurred because of this strategic location.
+The main thing to see is the [Yuma Territorial Prison](https://azstateparks.com/yuma-territorial), a state historic park on a bluff overlooking the river. The prison held the worst of the Arizona territory's outlaws between 1876 and 1909 and the cells, guard tower, and graveyard are still there. The adjacent Yuma Crossing Historic Park covers the town's river-port history.
 
+Outside town, the Kofa National Wildlife Refuge protects a rugged expanse of desert mountain — hiking, bighorn sheep, and the only native palm trees in Arizona in Palm Canyon. Martinez and Mittry Lakes on the Colorado are popular with anglers and birdwatchers.
 
- From the 1850's through the 1870's, steamboats on the Colorado River transported passengers and goods to various mines, military outposts in the area, and served the port of Yuma. For many years, Yuma served as the gateway to the new western territory of California, which brought thousands from around the world in search of gold, or those who had it. In 1870, the Southern Pacific Railroad bridged the river. Yuma became a hub for the railroad and was selected as the county seat in 1864.
-
-
- Some of the major attractions in Yuma County are the historical Territorial Prison, the Yuma Crossing Historic Park. Other great places to visit are the Kofa Mountain Range and Wildlife Refuge, and Martinez and Mittry Lakes.
-
-
- 
- Hunting is a popular sport, as the county offers a variety of different types of game. Major rivers in Yuma County are the Gila and the Colorado, the two most historic rivers in the Southwest.
+Winter is the time to visit. Snowbirds from Canada and the northern US pour in from November through March, more than doubling the town's population. Summer temperatures routinely exceed 110°F.

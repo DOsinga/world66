@@ -1,10 +1,14 @@
 ---
-title: Maastricht
-type: location
-latitude: 50.851244
-longitude: 5.690977
 done:
   location_cleanup: 2026-04-06
+image: maastricht.jpg
+image_attribution: Jorge Franganillo on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/46191841@N00/16878417260
+latitude: 50.851244
+longitude: 5.690977
+title: Maastricht
+type: location
 score: 0.66
 ---
 

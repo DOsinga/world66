@@ -1,22 +1,15 @@
 ---
-title: Hainan island
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 19.160286
 longitude: 109.628891
 score: 0.57
+title: Hainan Island
+type: location
 ---
 
-Situated in the southernmost of China, well-known for its “the end of sky and the rim of the sea?(Tianyahaijiao), Hainan Island, is the famous scenic spot in China for its golden beach, blue sea and the tropical climate. The province is administratively divided into the Hainan, Nansha, Xisha, Zhongsha islands, etc. Also having 3 municipalities, 16 counties and the agencies of the Xisha, Nansha, Zhongsha islands. 
+Hainan is China's tropical island — a large teardrop-shaped province off the south coast, roughly level with Hanoi, that the Chinese treat the way Americans treat Florida or Brits treat the Costa del Sol. Until the late 1980s it was a backwater of fishing villages and banana plantations; since being designated a Special Economic Zone in 1988, the south coast has exploded into a ribbon of resort hotels, and the beaches around [Sanya](/asia/china/hainanisland/sanya) are now the Chinese package-holiday destination, widely if optimistically nicknamed "the Hawaii of China".
 
-(Haikou) is the capital city. The second-biggest city, (Sanya), with its tropical attractions and host to the 2003 Miss World Competion, earns the reputation as “Hawaii of China". Sanya had been a poor little fishing village until 1988 when the government designate it as the Hainan Special Economic Zone. Now there are many fine hotels and golf courses. Many new Hotels are being built to cope with the influx of tourists.Tourism now accounts for 80% of the island’s revenue. Located in the tropical region, this precious island has rich resources of light and energy, plentiful rainfall, and comfortable living conditions. Travellers to the island should make sure their health insurance is up to date as medical expenses can be very expensive. If you intend to visit this jewel now is the time before it becomes too commercialised.
+[Haikou](/asia/china/hainanisland/haikou), the provincial capital in the north, still carries some traces of its pre-boom life — a compact old town, an arcaded shopping street, and a busy night-food scene. Most visitors, though, head straight to the south coast for the beaches at Yalong Bay and Dadonghai, the dramatic headland of Luhuitou, and the cliffside inscriptions at Tianyahaijiao — the famous "end of the earth" calligraphy that lent the island its poetic old name.
 
-## Destinations in Hainan island
-
-[Haikou](/asia/china/hainanisland/haikou)
-[Sanya](/asia/china/hainanisland/sanya)
-[Tianyahaijiao](/asia/china/hainanisland/tianyahaijiao)
-[Yalong Wang](/asia/china/hainanisland/yalongwang)
-[Xinglong](/asia/china/hainanisland/xinglong)
-[Luhuitou](/asia/china/hainanisland/luhuitou)
-[Dadonghai](/asia/china/hainanisland/dadonghai)
-[hainan island](/asia/china/hainanisland/hainanisland)
+Away from the resort strips, Hainan's interior is rugged and culturally distinct. The island is home to the Li and Miao minorities, who live in the central mountains around the Wuzhishan range. Inland villages, rainforest reserves, and tea plantations offer a very different trip from the cocktail bars of Sanya — worth the short drive.

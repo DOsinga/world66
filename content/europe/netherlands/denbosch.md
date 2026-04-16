@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: denbosch.jpg
+image_attribution: Herman de Ruiter (1870-1949)
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:%27s-Hertogenbosch_briefkaart.jpg
 latitude: 51.6889
 longitude: 5.3031
 title: Den Bosch

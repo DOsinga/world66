@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Utrecht"
+title: "Day Trips"
 type: section
 ---
 

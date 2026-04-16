@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: edam.jpg
+image_attribution: Txllxt TxllxT
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Edam_-_Kwakelsteeg_-_At_the_Kwakelbrug_01.jpg
 latitude: 52.511912
 longitude: 5.056285
 title: Edam

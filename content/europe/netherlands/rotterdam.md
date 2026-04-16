@@ -1,10 +1,14 @@
 ---
-title: Rotterdam
-type: location
-latitude: 51.9225
-longitude: 4.4792
 done:
   location_cleanup: 2026-04-02
+image: rotterdam.jpg
+image_attribution: Martin Falbisoner
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:AIDAperla_in_Rotterdam_-_September_2019.jpg
+latitude: 51.9225
+longitude: 4.4792
+title: Rotterdam
+type: location
 score: 0.6
 ---
 

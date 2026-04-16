@@ -1,5 +1,6 @@
 import json
 import sqlite3
+import subprocess
 from pathlib import Path
 
 import markdown as md
@@ -10,7 +11,7 @@ from django.utils.safestring import mark_safe
 
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
-    load_page, load_tag_index, resolve_tag_route, _find_city_path,
+    load_page, load_page_from_branch, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -22,8 +23,9 @@ def home(request):
 
 def location_or_section(request, path):
     path = path.strip("/")
+    branch = request.GET.get('branch')
 
-    page = load_page(path)
+    page = load_page_from_branch(path, branch) if branch else load_page(path)
     context_nav = None  # nav page used to reach this POI (for sidebar context)
 
     if not page:
@@ -45,13 +47,15 @@ def location_or_section(request, path):
     parent_nav = []
     parent_locations = []
     active_nav = None   # which nav item should be highlighted in the sidebar
-    if parent:
+    if parent and page.page_type != "neighbourhood":
         parent_nav, parent_locations, _ = parent.children()
+        parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
         if page.page_type == "poi" and not parent_nav and "/" in parent.path:
             # Parent is a section with no nav children — use grandparent (city)
             grandparent = load_page(parent.path.rsplit("/", 1)[0])
             if grandparent and grandparent.page_type == "location":
                 parent_nav, parent_locations, _ = grandparent.children()
+                parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
                 active_nav = parent   # mark the section as active in the sidebar
 
     # For a POI reached via a context nav page, build sidebar from that nav page
@@ -69,6 +73,11 @@ def location_or_section(request, path):
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
+
+    # Separate neighbourhood pages from nav pages so they render inline under
+    # the article body rather than in the sidebar sections list.
+    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood"]
+    nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
 
     # Build the city tag index once so all tagged_pois() calls reuse it.
     city_tag_index = None
@@ -97,8 +106,9 @@ def location_or_section(request, path):
 
     markers = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
-    image_path = _image_path(page)
-    hero_image_url = f'/content-image/{image_path}' if image_path else None
+    image_path = _image_path(page, branch)
+    branch_qs = f'?branch={branch}' if branch else ''
+    hero_image_url = f'/content-image/{image_path}{branch_qs}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
 
@@ -107,6 +117,7 @@ def location_or_section(request, path):
         "parent": parent,
         "sections": nav_pages,           # child nav pages of current page (location sidebar)
         "locations": locations,
+        "neighbourhood_items": neighbourhoods,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
@@ -223,7 +234,7 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     return markers
 
 
-def _image_path(page):
+def _image_path(page, branch=None):
     image = page.meta.get('image', '')
     if not image:
         return None
@@ -231,12 +242,34 @@ def _image_path(page):
         f'{page.path}/{image}',
         f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,
     ]:
-        if (CONTENT_DIR / candidate).is_file():
+        if branch:
+            result = subprocess.run(
+                ['git', 'cat-file', '-e', f'{branch}:content/{candidate}'],
+                capture_output=True, check=False, cwd=str(settings.BASE_DIR),
+            )
+            if result.returncode == 0:
+                return candidate
+        elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
 
 
 def content_image(request, path):
+    branch = request.GET.get('branch')
+    if branch:
+        suffix = Path(path).suffix.lower()
+        if suffix not in ('.jpg', '.jpeg', '.png', '.webp'):
+            raise Http404
+        result = subprocess.run(
+            ['git', 'show', f'{branch}:content/{path}'],
+            capture_output=True, check=False,
+            cwd=str(settings.BASE_DIR),
+        )
+        if result.returncode != 0:
+            raise Http404
+        content_types = {'.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp'}
+        from django.http import HttpResponse
+        return HttpResponse(result.stdout, content_type=content_types[suffix])
     file_path = (CONTENT_DIR / path).resolve()
     if not file_path.is_relative_to(CONTENT_DIR.resolve()):
         raise Http404
@@ -252,3 +285,109 @@ def _safe_float(value):
         return float(value)
     except (ValueError, TypeError):
         return None
+
+
+_CONTINENT_SLUGS = {
+    'europe', 'northamerica', 'southamerica', 'asia', 'africa',
+    'australiaandpacific', 'middleeast', 'centralamerica', 'caribbean',
+}
+
+
+def _display_title_from_path(url_path):
+    '''europe/ireland/cork/bars_and_cafes → "Cork - Bars and Cafes"'''
+    parts = url_path.split('/')
+    # Strip continent + country prefix so we start from region/city level
+    if parts and parts[0] in _CONTINENT_SLUGS and len(parts) > 2:
+        parts = parts[2:]
+    return ' - '.join(p.replace('_', ' ').title() for p in parts)
+
+
+def _get_file_diffs(branch):
+    '''Run git diff once; return per-file list of up to 4 changed lines (+ added, - removed).'''
+    result = subprocess.run(
+        ['git', 'diff', '--unified=0', f'origin/main...{branch}', '--', 'content/'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    file_diffs = {}   # filepath → {'added': [...], 'removed': [...], 'more': bool}
+    cur = None
+
+    for raw in result.stdout.splitlines():
+        if raw.startswith('+++ '):
+            cur = raw[6:] if raw.startswith('+++ b/') else None  # None = deleted file
+            if cur and cur not in file_diffs:
+                file_diffs[cur] = {'added': [], 'removed': [], 'more': False}
+        elif cur:
+            if raw.startswith('+'):
+                sign, text = '+', raw[1:].strip()
+            elif raw.startswith('-') and not raw.startswith('---'):
+                sign, text = '-', raw[1:].strip()
+            else:
+                continue
+            # Skip YAML fence lines and empty
+            if not text or text == '---':
+                continue
+            bucket = file_diffs[cur]['added' if sign == '+' else 'removed']
+            if len(bucket) < 2:
+                bucket.append(text)
+            else:
+                file_diffs[cur]['more'] = True
+
+    return file_diffs
+
+
+def review(request):
+    '''Show all pages changed on a branch vs origin/main.'''
+    branch = request.GET.get('branch', 'HEAD')
+    result = subprocess.run(
+        ['git', 'log', branch, '--not', 'origin/main',
+         '--no-merges', '--name-only', '--format=COMMIT: %s', '--', 'content/'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return render(request, 'guide/review.html', {'error': result.stderr.strip() or 'git log failed', 'branch': branch})
+
+    del_result = subprocess.run(
+        ['git', 'diff', f'origin/main...{branch}', '--name-only', '--diff-filter=D'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    deleted_files = set(del_result.stdout.splitlines())
+    file_diffs = _get_file_diffs(branch)
+
+    pages = _parse_review_log(result.stdout, deleted_files, file_diffs)
+    return render(request, 'guide/review.html', {'pages': pages, 'error': None, 'branch': branch})
+
+
+def _parse_review_log(output, deleted_files=None, file_diffs=None):
+    deleted_files = deleted_files or set()
+    file_diffs = file_diffs or {}
+    pages = {}
+    for line in output.splitlines():
+        if not line.startswith('content/') or not line.endswith('.md'):
+            continue
+        raw = line.rstrip()
+        url_path = _file_to_url_path(raw)
+        if url_path in pages:
+            continue
+        is_deleted = raw in deleted_files
+        diff = file_diffs.get(raw, {})
+        pages[url_path] = {
+            'url_path': url_path,
+            'title': _display_title_from_path(url_path),
+            'deleted': is_deleted,
+            'added': diff.get('added', []),
+            'removed': diff.get('removed', []),
+            'more': diff.get('more', False),
+        }
+    return list(pages.values())
+
+
+def _file_to_url_path(file_path):
+    '''content/a/b/c/c.md → a/b/c  (collapses directory-index duplication)'''
+    path = file_path.removeprefix('content/').removesuffix('.md')
+    parts = path.split('/')
+    if len(parts) >= 2 and parts[-1] == parts[-2]:
+        parts = parts[:-1]
+    return '/'.join(parts)

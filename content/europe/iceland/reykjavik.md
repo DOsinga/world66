@@ -1,17 +1,19 @@
 ---
+done:
+  location_cleanup: '2026-04-16'
+latitude: 64.1466
+longitude: -21.9426
+score: 0.8
 title: Reykjavik
 type: location
-latitude: 64.145981
-longitude: -21.942237
-score: 0.8
 ---
 
-Iceland's capital is different from other European cities. It is the world's northernmost capital, and one of the newest, having established itself only in the late 19th century.Reykjavík offers all the pleasures of a modern European city and addditionally an interesting old town, white-washed wooden buildings, and lines of brightly painted concrete houses. Almost all places of interest are within a walking distance of the old settlement. 
+Reykjavik is the world's northernmost capital and one of its smallest — about 140,000 people live in the city itself, around two-thirds of the country's entire population. It is also one of the youngest, having spent most of its history as a fishing village before stepping into a capital's role only in the late nineteenth century. The result is a city that feels more like an unusually cosmopolitan small town: brightly painted corrugated-iron houses, a working harbour, and a centre you can walk across in twenty minutes.
 
-The Old Town, the city's hub, is a rustic area of parks, lakes, markets and museums. Anybody interested in Norse and Icelandic culture should head for the National Museum, which houses objects of religious and folk relics, and tools dating from the period of Settlement. The most renowned is a church door, carved around 1200, which depicts a Norse battle scene, while residing in the basement are nautical and agricultural tools and models of early fishing boats and ingenious farm implements. Immediately behind the museum is the Árni Magnússon Institute, a must-see for Saga fans with a famous collection of works, including the Landnámabók and Njáls Saga. 
+The skyline is dominated by **Hallgrímskirkja**, the basalt-column-inspired Lutheran church on the hill, with the best view in town from its tower. Down on the waterfront, the glass honeycomb of **Harpa** changes colour with the sky, and the polished steel ribs of the **Sun Voyager** sculpture point out across the bay toward Mount Esja. The **National Museum** and the **Reykjavik Art Museum** are both excellent and not exhausting, and the streets between Tjörnin lake and the harbour are full of small galleries, design shops, and very good coffee. The newer **Grandi** district, on the old industrial harbour, is where the breweries, ice-cream shops, and contemporary art spaces have moved in.
 
-Modern Reykjavík starts east of the Old Town, and features several attractions such as Hallgrímskirkja, an imposing church resembling a mountain of lava. It is the city's most memorable structure. Begun in the late 1940s and completed in 1974, the church is named after Iceland's best-known poet, Hallgrímur Pétursson. You can wander its stark, light-filled interior, then take a lift to the top of a 75m-high (246ft) tower which offers superb views of the city. On the lawn is a statue of Leif Eriksson, triumphantly identified as the 'Son of Iceland, Discoverer of Vinland' (believed to be Newfoundland or Labrador). 
+Nights are quiet during the week and slightly insane on Friday and Saturday, when locals do the famous "Rúntur" — a late-starting downtown bar crawl that does not really get going until midnight and only thins out around five. Drinks are expensive, the music is loud, and the atmosphere is unfailingly friendly.
 
-Budget accommodation, cheap eats and bargain shopping are found in the Old Town area of Reykjavik. For entertainment, there is cinema, cultural performances and light shows (sagas, Settlement and Viking extravaganzas)and also "Runtur", which is a Northern equivalent of pub crawling. 
+Most travellers use Reykjavik as a base for the country's natural marvels. The **Golden Circle** (Þingvellir, Geysir, Gullfoss) is a long-day loop; the **Blue Lagoon** is forty minutes toward the airport; the volcanic Reykjanes peninsula is closer still. In winter the Northern Lights are often visible from the seafront. In summer the sun barely sets and the whole country opens up.
 
-courtesy of Reykjavik City
+Be honest about the weather: it is windy, often wet, and the temperature rarely climbs above 15°C even in July. Pack accordingly. Once you do, Reykjavik is one of the more rewarding small capitals in Europe — manageable, opinionated, and pointed outward at one of the most extraordinary landscapes on earth.

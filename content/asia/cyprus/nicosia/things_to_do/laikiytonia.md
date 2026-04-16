@@ -1,5 +1,6 @@
 ---
-title: "Laiki Ytonia"
+category: Neighbourhood
+title: Laiki Ytonia
 type: poi
 ---
 

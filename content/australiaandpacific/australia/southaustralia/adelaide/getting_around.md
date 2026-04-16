@@ -3,6 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-An airport bus runs from the airport to city hotels and hostels. This bus also calls in at the interstate train station. Adelaide has an integrated local transport system which includes metropolitan buses and trains as well as the tram. The latter operates between the city centre and Glenelg. Then there is the O-Bahn busway which runs on concrete tracks between the city centre and the Tea Tree Plaza shopping centre.
-
-  The airport is 8km (5mi) west of the city and is serviced by an airport bus. Adelaide is a relatively cyclist-friendly city with good cycling tracks and bicycle lanes on many city streets.
+Central Adelaide is flat and walkable — the CBD is only a square mile, ringed entirely by parkland. **Free buses** (the Connector routes 98A, 98C and 99) loop around the city centre. The **Glenelg tram** runs from Victoria Square straight to the seaside suburb — the single most enjoyable piece of public transport in the city. Trains head out to the suburbs and up to the Adelaide Hills. Cycling is easy — the riverside path along the Torrens is flat and well signed.

@@ -1,7 +1,11 @@
 ---
+done:
+  location_cleanup: '2026-04-16'
+latitude: 37.7855
+longitude: 20.8992
+score: 0.72
 title: Zakinthos
 type: location
-score: 0.72
 ---
 
 Zakynthos is the southernmost island of the Ionian archipelago, a short distance off the north-western tip of the Peloponnesos. It is also known as Zante, or "Fiore di Levante" (The flower of East Wind). Greek tourists have been coming to Zante long before international visitors started to get to know and appreciate its many attractions. 

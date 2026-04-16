@@ -1,11 +1,11 @@
 ---
+done:
+  location_cleanup: '2026-04-16'
 latitude: 30.044388
 longitude: 31.235726
+score: 0.82
 title: Cairo
 type: location
-done:
-  location_cleanup: 2026-04-05
-score: 0.82
 ---
 
 Travel Guide

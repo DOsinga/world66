@@ -1,11 +1,11 @@
 ---
-title: Tuscany
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 43.7711
 longitude: 11.2486
-done:
-  location_cleanup: 2026-04-05
 score: 0.89
+title: Tuscany
+type: location
 ---
 
 Tuscany is the region that built the Renaissance and still has the landscape to prove it — rolling hills stitched with cypress rows, vineyards running to the horizon, and hilltop towns that look painted on. It earned its mythic reputation honestly, and the challenge here isn't finding something worth seeing but deciding what to skip.

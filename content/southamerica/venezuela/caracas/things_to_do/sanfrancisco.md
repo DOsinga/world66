@@ -1,0 +1,11 @@
+---
+category: Sight
+latitude: 10.559815
+longitude: -71.643015
+title: San Francisco
+type: Churches
+---
+
+Note the colonial altars in the Church of San Francisco.
+
+type: Churches

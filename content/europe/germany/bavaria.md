@@ -1,11 +1,11 @@
 ---
-title: Bavaria
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 48.946756
 longitude: 11.403872
-done:
-  location_cleanup: 2026-04-05
 score: 0.72
+title: Bavaria
+type: location
 ---
 
 Bavaria is the largest of Germany's states and, for many visitors, the most rewarding. The Alps run along its southern edge, the Danube cuts across the north, and between them you'll find medieval towns, baroque churches, dense forests, and some of the world's best beer. It's the Germany of the postcard — and it mostly lives up to the image.

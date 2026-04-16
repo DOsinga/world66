@@ -1,7 +1,7 @@
 ---
-title: "Gulustan Tomb"
+category: Sight
+title: Gulustan Tomb
 type: poi
-type: "Graves and Cemeteries"
 ---
 
 GULUSTAN TOMB – belongs to Middle Ages, near the Gulustan village in

@@ -1,7 +1,7 @@
 ---
-title: "Garabaghlar Mausoleum"
+category: Sight
+title: Garabaghlar Mausoleum
 type: poi
-type: "Memorials"
 ---
 
 ****The Garabaghtar Mausoleum is located in the village of the same title. Besides, there are remains of two minarets and one building complex close to the village. It is supposed that, they were the spiritual buildings constructed in the end of 12th, beginning of 13th century.The date of construction of this mausoleum in Garabaglar is unknown. Presumably it is the 14th century. Mausoleum consists from the plinth burial place and the onground part, that reminds the traditional mausoleums of a tower type. The bottom of its upper level is formed from separate semi-cylindrical elements, thus its different sides are lightened in different degrees

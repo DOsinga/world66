@@ -1,7 +1,7 @@
 ---
-title: "GAMIGAYA"
+category: Sight
+title: GAMIGAYA
 type: poi
-type: "Landmarks"
 ---
 
 Gamigaya, peak in the watershed of Zangazur chain in

@@ -1,7 +1,7 @@
 ---
-title: "Archeological Researches"
+category: Sight
+title: Archeological Researches
 type: poi
-type: "Landmarks"
 ---
 
 – the Middle Ages settlement in the southwest of Sust village of Babek region. It was studied by Nakhchivan archeological expedition in 1979. Total area is about 3 ha. Some of the construction materials are left in the settlement area. The cultural layer is rich with ceramic products. The surface materials consist of pink colored common and lion pot pieces. The discoveries belong to XV-XVII centuries. Kohnegala – the Middle Ages settlement far from Shapurgala, near to Shahbuzkend in Shahbuz region. It was registered in 1990. Area is more than 10 ha. It is surrounded with precipitous cliffs. During the archeological exploration the clay pots pieces were discovered. The stonewall pieces in the southeast part of Kohnegala may be observed far from 150 km. The surface materials are iron, lion-off and lion earthenware pots and pieces of glass dishes. The settlements are supposed to belong to XIV-XVIII centuries

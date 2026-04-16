@@ -1,11 +1,11 @@
 ---
-category: Street
-latitude: 52.3752
-longitude: 4.882
-tags:
-- jordaan
 title: Egelantiersgracht
 type: poi
+category: Street
+latitude: 52.37600
+longitude: 4.88149
+tags:
+- jordaan
 ---
 
-A narrow Jordaan canal lined with houseboats and leaning gabled houses. Quieter than Bloemgracht and almost entirely residential — the kind of Amsterdam street you stumble onto and immediately stop to photograph.
+A narrow canal in the northern Jordaan, lined with *hofjes* — small enclosed almshouse courtyards built by wealthy merchants in the 17th century for the city's poor. Several entrances are unmarked; others, like the Sint Andrieshofje at number 107, are usually open during the day.

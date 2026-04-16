@@ -161,6 +161,14 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
+{% if page.page_type == "walk" and walk_waypoints %}
+<ol class="walk-waypoints">
+  {% for wp in walk_waypoints %}
+  <li><a href="{{ wp.get_absolute_url }}">{{ wp.title }}</a></li>
+  {% endfor %}
+</ol>
+{% endif %}
+
 {% if neighbourhood_items %}
 <div class="neighbourhoods-section">
   <h2>Neighbourhoods</h2>
@@ -281,7 +289,13 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     {% if is_continent %}
     bgMap = initCountryMap('background-map', '{{ continent_slug|escapejs }}');
     {% else %}
+    {% if page.page_type == "walk" %}
+    var walkRoute = {{ walk_route }};
+    var walkWaypoints = [{% for wp in walk_waypoints %}{"lat":{% if wp.meta.latitude %}{{ wp.meta.latitude }}{% else %}null{% endif %},"lng":{% if wp.meta.longitude %}{{ wp.meta.longitude }}{% else %}null{% endif %},"title":"{{ wp.title|escapejs }}"}{% if not forloop.last %},{% endif %}{% endfor %}];
+    bgMap = initWalkMap('background-map', walkRoute, walkWaypoints);
+    {% else %}
     if (markers.length) bgMap = initLocationMap('background-map', markers, mapOptions);
+    {% endif %}
     {% endif %}
     bgInited = true;
   }

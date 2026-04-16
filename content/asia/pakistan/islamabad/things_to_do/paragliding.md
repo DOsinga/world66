@@ -1,13 +1,13 @@
 ---
-title: "Paragliding"
-type: poi
-address: "Islamabad"
-email: "info@emac.pk"
-phone: "051 4349345"
-type: "Other"
-url: "www.emac.pk"
+address: Islamabad
+category: Sight
+email: info@emac.pk
 latitude: 33.693812
 longitude: 73.065151
+phone: 051 4349345
+title: Paragliding
+type: Other
+url: www.emac.pk
 ---
 
 The largest and still the fastest growing adventure company in Pakistan. E.M.A.C presents the widest range of thrilling adventure activities in and around Islamabad.

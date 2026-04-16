@@ -1,7 +1,11 @@
 ---
-title: 'Festivals'
+title: "When to Go"
 type: section
 ---
+
+The cool, dry season from November to February is by far the best time to visit Gujarat — daytime temperatures are pleasant (20–28°C), the Rann of Kutch is open and dry, and most major festivals fall in this window. March through May gets brutally hot, particularly in Saurashtra and Kutch where temperatures climb past 40°C. The southwest monsoon arrives in late June and lasts through September; it makes outdoor travel difficult but turns the parched landscape green.
+
+Gujarat is one of the most festival-rich states in India, and timing a visit around one is rewarding.
 
 ### Navratri
 
@@ -13,7 +17,7 @@ On January 14th, Gujarat hosts one of the world's great kite festivals. The skie
 
 ### Janmashtami
 
-The birth of Lord Krishna is celebrated across Gujarat, but Dwarka -- believed to be Krishna's ancient kingdom -- is the epicentre. The festival features elaborate temple ceremonies and the tradition of Dahi Handi, where groups form human pyramids to reach and break a clay pot hung high between buildings.
+The birth of Lord Krishna is celebrated across Gujarat, but Dwarka — believed to be Krishna's ancient kingdom — is the epicentre. The festival features elaborate temple ceremonies and the tradition of Dahi Handi, where groups form human pyramids to reach and break a clay pot hung high between buildings.
 
 ### Kutch Mahotsav
 

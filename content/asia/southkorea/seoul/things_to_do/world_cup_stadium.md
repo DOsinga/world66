@@ -1,9 +1,9 @@
 ---
-title: "World Cup Stadium"
-type: poi
-type: "Public Buildings"
+category: Architecture
 latitude: 37.570192
 longitude: 126.899318
+title: World Cup Stadium
+type: poi
 ---
 
 A large, impressive and stylish construction, Seoul’s World Cup Stadium makes for a worthwhile stop on the itinerary. Located on line 6, with its very own subway station it is easily reachable from central areas of the city.
@@ -32,5 +32,3 @@ Getting there: By subway get off at World Cup Stadium Station (Line No. 6) or Ye
 
 **Contributors**
 January 04, 2007
-
-type: Public Buildings

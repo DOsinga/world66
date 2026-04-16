@@ -1,12 +1,12 @@
 ---
-title: "Seodaemun Prison History Hall"
-type: poi
-opening_hours: "09:30 - 17:00 (18:00 Summer)"
-phone: "02 363 9750 1"
-type: "Memorials"
-url: "www.sscmc.or.kr"
+category: Museum
 latitude: 37.574537
 longitude: 126.956317
+opening_hours: 09:30 - 17:00 (18:00 Summer)
+phone: 02 363 9750 1
+title: Seodaemun Prison History Hall
+type: poi
+url: www.sscmc.or.kr
 ---
 
 A harrowing and grisly reminder of Korea under Japanese occupation can be found at Seodeamun Prison. Watchtowers, cells and execution rooms are all preserved complete with graphic dioramas depicting the torture of prisoners.
@@ -40,15 +40,3 @@ Adults 1,500won
 
 **Contributors**
 January 05, 2007
-
-type: Memorials
-
-
-
-
-
-tel: 02 363 9750 1
-
-openingHours: 09:30 - 17:00 (18:00 Summer)
-
-url: [www.sscmc.or.kr](http://www.sscmc.or.kr)

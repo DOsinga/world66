@@ -1,9 +1,11 @@
 ---
-title: South Island
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: -43.586562
 longitude: 171.212329
 score: 0.87
+title: South Island
+type: location
 ---
 
 The **South Island** of [New Zealand](/australiaandpacific/newzealand) is renowned for its spectacular scenery. The Southern Alps run the length of the island like a spine, rising to Aoraki/Mount Cook at 3,724m — the highest peak in New Zealand. West of the Alps is the wild, rain-drenched [West Coast](/australiaandpacific/newzealand/south_island/west_coast); east is the Canterbury Plains, Central Otago's wine country and dry schist landscapes, and the deep fiords of Fiordland in the far south.

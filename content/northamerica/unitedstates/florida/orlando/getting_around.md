@@ -3,8 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-Orlando International Airport is 9 miles (14km) southeast of downtown Orlando and 22 miles (35km) northeast of Walt Disney World. A decent bus service exists between the airport and downtown Orlando's Lynx Bus Center.
+Orlando is built for the car. The theme parks are spread across miles of suburban sprawl south and west of downtown, and distances between them are real — 20 minutes from International Drive to Disney, longer in traffic. A rental car is the easiest way to move around; most visitors pick one up at Orlando International Airport.
 
-There are a handful of car rental companies at the airport and many more downtown. Although driving within the city of Orlando can be complicated - most streets are one-way and ticket-happy meter maids lie in wait - the area requires a car since it can be difficult to travel outside of Orlando relying on public transport. To get to Disney World from the airport by car take Highway 417 to Highway 536 which runs right to the park. From downtown Orlando take I-4 south. If renting a car is not an option there's a bus every two hours from Orlando's Lynx Bus Center.
-
-Orlando runs a highly efficient and inexpensive city bus system including a free downtown circuit. Pick up schedules and route maps at the Lynx Bus Center. Taxis cannot be hailed on the street; you'll have to phone to secure one.
+If you're staying on Disney or Universal property, the resorts run their own internal transport and shuttles to the parks, which can cover most of what you need. The Lynx bus system serves the city and some theme park areas but is slow. The SunRail commuter train runs north–south through downtown but doesn't reach the main tourist zones. Rideshare is widely available and often the most practical option for an evening out.

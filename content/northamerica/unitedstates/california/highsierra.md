@@ -1,9 +1,11 @@
 ---
-title: High Sierra
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 36.208553
 longitude: -115.033833
 score: 0.69
+title: High Sierra
+type: location
 ---
 
 The majestic Sierra Nevada mountain range, the highest on the continent, is an outdoor-adventure seeker's paradise. The range is home to the largest, deepest, alpine lake in North America, glorious wilderness areas with ancient pines and giant sequoias, spectacular falls, tranquil valleys and meadowlands, resorts, historic Old West towns, and the best snow sports in America.

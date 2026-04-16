@@ -1,6 +1,7 @@
 ---
 title: "Joyce's House on Via San Nicolò"
 type: poi
+category: "Sight"
 address: "Via San Nicolò 30, Trieste"
 latitude: 45.650187
 longitude: 13.772084

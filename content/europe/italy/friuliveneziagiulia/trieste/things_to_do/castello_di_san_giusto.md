@@ -1,6 +1,7 @@
 ---
 title: "Castello di San Giusto"
 type: poi
+category: "Sight"
 address: "Piazza della Cattedrale 3, Trieste"
 opening_hours: "Apr–Oct daily 09:00–18:00; Nov–Mar daily 10:00–17:00"
 admission: "€6 full, €4 reduced; courtyard only €1"

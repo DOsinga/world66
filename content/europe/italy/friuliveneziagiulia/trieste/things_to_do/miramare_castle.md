@@ -1,6 +1,7 @@
 ---
 title: "Miramare Castle"
 type: poi
+category: "Architecture"
 address: "Viale Miramare, Trieste"
 url: "www.castello-miramare.it"
 opening_hours: "Check website for current hours"

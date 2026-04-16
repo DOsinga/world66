@@ -1,6 +1,7 @@
 ---
 title: "James Joyce Statue"
 type: poi
+category: "Sight"
 address: "Ponte Rosso, Canal Grande, Trieste"
 latitude: 45.651239
 longitude: 13.772905

@@ -1,6 +1,7 @@
 ---
 title: "Risiera di San Sabba"
 type: poi
+category: "Museum"
 address: "Ratto della Pileria 43, Trieste"
 opening_hours: "Apr–Sep 09:00–19:00 (last entry 18:30); Oct–Mar 09:00–17:00 (last entry 16:30). Closed 25 Dec and 1 Jan."
 admission: "Free; audio guide €3.50"

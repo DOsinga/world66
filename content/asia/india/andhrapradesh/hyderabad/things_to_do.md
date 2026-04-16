@@ -1,9 +1,6 @@
 ---
-title: "Things to do"
+title: 'Things to Do'
 type: section
 ---
 
-now hyderabad is the hub for education and medical treatment we have the best of the doctors and best of the engineering colleges and medical colleges for more details can contact me on email reddyvpr@hotmail.com
-
-**Contributors**
-January 08, 2005
+Hyderabad's sights cluster into two groups: the Qutb Shahi monuments around the Old City — Charminar, Mecca Masjid, Chowmahalla Palace, Laad Bazaar — and the hilltop fortress of Golconda with its royal tombs ten kilometres west. Allow a full day for each. Beyond those, the Salar Jung Museum is world-class, and Hussain Sagar with its Buddha statue is worth a sunset walk.

@@ -4,6 +4,10 @@ type: location
 latitude: 45.464194
 longitude: 9.189635
 score: 0.75
+image: milan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Full_Milan_skyline_from_Duomo_roof.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Daniel Case
 ---
 
 Milan is the biggest city of North Italy. The powerhouse of the country and one of the most stylish cities of the polanet. 

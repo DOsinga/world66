@@ -6,6 +6,10 @@ longitude: 7.907802
 title: Lauterbrunnen
 type: location
 score: 0.76
+image: lauterbrunnen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_2012.jpg
+image_license: CC BY-SA 4.0
+image_attribution: chensiyuan
 ---
 
 Lauterbrunnen is a small town 10km from [Interlaken](/europe/switzerland/interlaken), to which it is connected by road and rail. It is spectacularly sited at the entrance to the Lauterbrunnen valley - 400m white cliffs topped with pines and dotted with waterfalls.

@@ -6,6 +6,10 @@ longitude: 14.9397
 title: Aeolian Islands
 type: location
 score: 0.77
+image: aeolianislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aeolian_Islands_(27082916330).jpg
+image_license: CC BY 2.0
+image_attribution: kuhnmi
 ---
 
 The Aeolian Islands are a volcanic archipelago just north of [Sicily](/europe/italy/sicily). All seven inhabited islands are of volcanic origin, and on most of them some volcanic activity can still be experienced.

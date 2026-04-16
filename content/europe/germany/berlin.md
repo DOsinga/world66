@@ -6,6 +6,10 @@ longitude: 13.395131
 done:
   location_cleanup: 2026-04-05
 score: 0.75
+image: berlin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_-_Brandenburger_Tor_-_Berlin_-_Germany_-_02.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Norbert Nagel
 ---
 
 Berlin is a city that lives in the present tense — but it can't escape its past, and it doesn't try to. The Brandenburg Gate, the remnants of the Wall, the Jewish Memorial, Checkpoint Charlie, the Reichstag with its glass dome open to the public: the 20th century is embedded in the city's fabric at every turn. What's remarkable is that this history doesn't weigh the city down. Berlin is restless, creative, and genuinely alive in a way that most European capitals have long since traded away for comfort.

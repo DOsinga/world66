@@ -6,6 +6,10 @@ longitude: 110.2038
 done:
   location_cleanup: 2026-04-07
 score: 0.76
+image: borobudur.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Borobudur,_Java,_Indonesia,_20220817_1013_8739.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jakub Hałun
 ---
 
 Borobudur is a top priority for every traveler going to Indonesia. Located about 42km from [Yogyakarta](/asia/indonesia/java/yogyakarta), it is a UNESCO World Heritage Site and the world's largest Buddhist monument. The name derives from an expression meaning 'Mountain of accumulation of merits of the ten states of Bodhisattva.' Though commonly thought of as purely Buddhist, its initial construction was planned and executed by Hindu builders around 775 AD.

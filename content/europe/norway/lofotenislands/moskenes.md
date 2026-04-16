@@ -6,6 +6,10 @@ longitude: 13.0419
 done:
   location_cleanup: 2026-04-07
 score: 0.77
+image: moskenes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Houses_of_Reine_by_Gravdalsbukta,_Moskenes,_Nordland,_Norway,_2022_June.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ximonic (Simo Räsänen)
 ---
 
 Moskenes municipality covers the southern part of Moskenes Island in the Lofoten archipelago, where glaciers and elemental forces have sculpted the landscape into one of the wildest and most dramatic corners of Norway. Hermannsdalstind at 1,029 metres is the highest peak in western Lofoten, and mountain lakes dot the terrain, offering excellent freshwater fishing.

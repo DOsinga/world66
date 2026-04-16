@@ -1,8 +1,9 @@
 ---
-title: "Fabre Museum"
-type: poi
+category: Museum
 latitude: 44.215926
 longitude: 2.985908
+title: Fabre Museum
+type: poi
 ---
 
 You acceed to it through the inner courtyard of the former Jesuit college. Created by Montpellier 

@@ -1,8 +1,9 @@
 ---
-title: "AGROPOLIS MUSEUM"
-type: poi
+category: Museum
 latitude: 43.646294
 longitude: 3.867941
+title: AGROPOLIS MUSEUM
+type: poi
 ---
 
 It is the cultural way of expression of Agropolis' scientific community. It presents the History and 

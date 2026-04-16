@@ -1,8 +1,9 @@
 ---
-title: "Languedoc Museum"
-type: poi
+category: Museum
 latitude: 43.661023
 longitude: 2.449146
+title: Languedoc Museum
+type: poi
 ---
 
 Located in a former private mansion, it houses very interesting prehistoric, protohistoric, Gallo-

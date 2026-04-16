@@ -1,9 +1,11 @@
 ---
-title: Cape Breton
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 46.295
 longitude: -60.9361
 score: 0.57
+title: Cape Breton
+type: location
 ---
 
 Cape Breton Island is connected to mainland Nova Scotia by a causeway at the Strait of Canso. It is home to some of the most dramatic scenery in eastern Canada, particularly along the Cabot Trail, a 300-kilometre loop through the Cape Breton Highlands National Park.

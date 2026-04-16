@@ -1,11 +1,11 @@
 ---
 done:
-  location_cleanup: 2026-04-05
+  location_cleanup: '2026-04-16'
 latitude: 51.5074
 longitude: -0.1278
+score: 0.91
 title: London
 type: location
-score: 0.91
 ---
 
 London is one of the great world cities — a place where you can eat Ethiopian in Brixton, see a West End show, walk through a Roman fort, and end the evening in a Georgian pub all in a single day. It is vast, expensive, and occasionally exhausting, but it repays effort in a way that few cities can match.

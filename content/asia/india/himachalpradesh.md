@@ -1,11 +1,11 @@
 ---
-title: Himachal Pradesh
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 31.929235
 longitude: 77.182846
-done:
-  location_cleanup: 2026-04-04
 score: 0.63
+title: Himachal Pradesh
+type: location
 ---
 
 Himachal Pradesh is a Himalayan state in northern India, carved from Punjab in 1966. Despite its small size and low population density, it draws visitors year-round with hill stations, ancient temples, adventure sports, and the living heritage of Tibetan culture.

@@ -1,11 +1,11 @@
 ---
 done:
-  location_cleanup: 2026-04-05
+  location_cleanup: '2026-04-16'
 latitude: 22.9868
 longitude: 87.855
+score: 0.4
 title: West Bengal
 type: location
-score: 0.4
 ---
 
 *Asia > India > West Bengal*

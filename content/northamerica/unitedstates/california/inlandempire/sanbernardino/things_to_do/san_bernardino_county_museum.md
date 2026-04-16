@@ -1,11 +1,12 @@
 ---
-title: 'San Bernardino County Museum'
-type: poi
-address: '2024 Orange Tree Lane, Redlands, California 92374'
-phone: '909-307-2669'
-url: 'www.co.san-bernardino.ca.us'
+address: 2024 Orange Tree Lane, Redlands, California 92374
+category: Museum
 latitude: 34.068221
 longitude: -117.222693
+phone: 909-307-2669
+title: San Bernardino County Museum
+type: poi
+url: www.co.san-bernardino.ca.us
 ---
 
 A regional museum in [Redlands](/northamerica/unitedstates/california/inlandempire/redlands) with exhibits and collections in cultural and natural history. Special exhibits, the Exploration Station live-animal discovery center, extensive research collections, and public programs for adults, families, students, and children are all part of the experience.

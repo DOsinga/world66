@@ -1,10 +1,11 @@
 ---
-title: 'California Theatre of the Performing Arts'
-type: poi
-address: '562 West 4th Street, San Bernardino'
-phone: '909-885-5152'
+address: 562 West 4th Street, San Bernardino
+category: Architecture
 latitude: 34.106785
 longitude: -117.295468
+phone: 909-885-5152
+title: California Theatre of the Performing Arts
+type: poi
 ---
 
 Built in 1928 in opulent Spanish-Moorish style, the California Theatre is beautifully preserved inside and out. It serves as home to the San Bernardino Symphony Orchestra, the Inland Dance Theater, the San Bernardino Valley Concert Association, Sinfonia Mexicana, and Theater Arts International, which stages lavish productions.

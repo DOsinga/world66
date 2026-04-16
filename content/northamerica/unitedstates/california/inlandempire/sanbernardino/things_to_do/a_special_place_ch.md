@@ -1,10 +1,11 @@
 ---
-title: 'A Special Place Children''s Museum'
-type: poi
-address: '1003 East Highland Avenue, San Bernardino'
-phone: '909-881-6514'
+address: 1003 East Highland Avenue, San Bernardino
+category: Museum
 latitude: 34.135813
 longitude: -117.266153
+phone: 909-881-6514
+title: A Special Place Children's Museum
+type: poi
 ---
 
 An interactive, hands-on museum aimed at young children. The toddler area has plenty of toys, educational videos, and a face-painting station. There is a large selection of dress-up clothing for boys and girls -- captain caps, helmets, cowboy hats, princess outfits, and plenty of accessories. A karaoke machine lets kids sing along and watch themselves on video.

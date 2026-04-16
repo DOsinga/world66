@@ -2,7 +2,7 @@
 latitude: 52.378676
 longitude: 4.897165
 tags:
-- tours_and_excursions
+- tours_and_excursio
 title: Canal Cruise
 type: poi
 ---

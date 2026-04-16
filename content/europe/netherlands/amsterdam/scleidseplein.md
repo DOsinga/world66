@@ -2,7 +2,7 @@
 latitude: 52.363958
 longitude: 4.882758
 tags:
-- things_to_do
+- activities
 title: SC Leidseplein
 type: poi
 ---

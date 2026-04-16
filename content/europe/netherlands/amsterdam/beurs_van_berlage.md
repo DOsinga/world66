@@ -3,9 +3,10 @@ address: Beursplein 5
 category: Architecture
 latitude: 52.375022
 longitude: 4.896265
+neighbourhood: Centrum
 tags:
 - things_to_do
-- architecture
+- centrum
 title: Beurs van Berlage
 type: poi
 ---

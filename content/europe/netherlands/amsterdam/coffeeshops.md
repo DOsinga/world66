@@ -1,6 +1,6 @@
 ---
 tags:
-- coffeeshops
+- drugs
 title: Coffee Shops
 type: poi
 ---

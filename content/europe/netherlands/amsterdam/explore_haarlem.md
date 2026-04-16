@@ -1,6 +1,7 @@
 ---
+category: Other
 tags:
-- things_to_do
+- activities
 title: Explore Haarlem
 type: poi
 ---

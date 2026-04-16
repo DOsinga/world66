@@ -3,11 +3,12 @@ address: Oudezijds Voorburgwal 40
 category: Museum
 latitude: 52.375096
 longitude: 4.89929
+neighbourhood: De Wallen
 opening_hours: Mon–Sat 10:00–17:00, Sun 13:00–17:00
 phone: 020 6246604
 tags:
 - things_to_do
-- museum
+- de_wallen
 title: Our Lord in the Attic
 type: poi
 url: museumamstelkring.nl

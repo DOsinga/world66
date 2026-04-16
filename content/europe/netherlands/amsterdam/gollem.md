@@ -2,9 +2,11 @@
 address: Raamsteeg 4
 latitude: 52.370253
 longitude: 4.888719
+neighbourhood: Centrum
 phone: +31 (0)20 626 6645
 tags:
 - bars_and_cafes
+- centrum
 title: Gollem
 type: poi
 ---

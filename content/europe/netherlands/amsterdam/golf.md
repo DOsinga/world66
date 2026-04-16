@@ -2,7 +2,7 @@
 latitude: 52.491506
 longitude: 4.794053
 tags:
-- things_to_do
+- activities
 title: Golf
 type: poi
 ---

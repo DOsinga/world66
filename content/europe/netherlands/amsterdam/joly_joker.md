@@ -2,7 +2,7 @@
 latitude: 52.242998
 longitude: 4.435231
 tags:
-- coffeeshops
+- drugs
 title: Jolly Joker
 type: poi
 ---

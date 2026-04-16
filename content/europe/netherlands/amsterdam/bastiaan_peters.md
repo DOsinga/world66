@@ -5,7 +5,7 @@ latitude: 52.381117
 longitude: 4.888563
 phone: +31 (0)6 21454326
 tags:
-- tours_and_excursions
+- tours_and_excursio
 title: Rent a boat Amsterdam
 type: poi
 url: www.rentaboatamsterdam.com

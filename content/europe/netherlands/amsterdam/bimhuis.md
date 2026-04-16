@@ -2,9 +2,11 @@
 address: Piet Heinkade 3
 latitude: 52.377969
 longitude: 4.912886
+neighbourhood: Plantage
 phone: 020 788 2188
 tags:
-- things_to_do
+- bars_and_cafes
+- plantage
 title: Bimhuis
 type: poi
 url: bimhuis.nl

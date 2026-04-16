@@ -2,7 +2,7 @@
 latitude: 52.71909
 longitude: 4.667371
 tags:
-- things_to_do
+- activities
 title: Climbing
 type: poi
 ---

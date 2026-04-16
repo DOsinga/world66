@@ -1,10 +1,11 @@
 ---
 address: Prinsengracht 267
+category: Other
 latitude: 52.375156
 longitude: 4.884081
 phone: 020 5567100
 tags:
-- things_to_do
+- activities
 title: Anne Frankhuis Tour
 type: poi
 url: www.annefrank.org

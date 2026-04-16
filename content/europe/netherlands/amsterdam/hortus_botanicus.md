@@ -3,10 +3,11 @@ address: Plantage Middenlaan 2
 category: Sight
 latitude: 52.366806
 longitude: 4.907778
+neighbourhood: Plantage
 opening_hours: Weekdays 9:00–17:00, weekends 11:00–17:00 (closes 16:00 in winter)
 tags:
 - things_to_do
-- sight
+- plantage
 title: Hortus Botanicus
 type: poi
 ---

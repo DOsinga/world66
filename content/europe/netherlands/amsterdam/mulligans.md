@@ -2,9 +2,11 @@
 address: Amstel 100
 latitude: 52.366965
 longitude: 4.896764
+neighbourhood: Rembrandtplein
 phone: +31 (0)20 6221330
 tags:
 - bars_and_cafes
+- rembrandtplein
 title: Mulligan's
 type: poi
 url: mulligans.nl

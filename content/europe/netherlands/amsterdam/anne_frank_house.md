@@ -3,10 +3,11 @@ address: Prinsengracht 263–267
 category: Museum
 latitude: 52.375156
 longitude: 4.884081
+neighbourhood: The Jordaan
 opening_hours: Daily 9:00–22:00 (varies by season). Closed Yom Kippur
 tags:
 - things_to_do
-- museum
+- jordaan
 title: Anne Frank House
 type: poi
 url: annefrank.org

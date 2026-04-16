@@ -3,7 +3,7 @@ address: Ketelmakerstraat 6
 latitude: 52.383333
 longitude: 4.889787
 tags:
-- things_to_do
+- activities
 title: Squash City
 type: poi
 ---

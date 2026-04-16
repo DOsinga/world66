@@ -5,7 +5,7 @@ latitude: 52.378921
 longitude: 4.886274
 phone: 0207771408
 tags:
-- coffeeshops
+- drugs
 title: sean
 type: poi
 url: none

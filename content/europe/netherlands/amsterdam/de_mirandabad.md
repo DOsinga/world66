@@ -1,9 +1,10 @@
 ---
 address: The Mirandalaan 9
+category: Swimming
 email: mirandabad@zuideramstel.amsterdam.nl
 phone: 020 5464 444
 tags:
-- things_to_do
+- activities
 title: De Mirandabad
 type: poi
 url: www.mirandabad.nl

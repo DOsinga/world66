@@ -1,8 +1,9 @@
 ---
 accessibility: Train or rental car, 30 minutes
+category: Trekking
 email: flevobirdwatching@gmail.com
 tags:
-- things_to_do
+- activities
 title: Birdwatching close to Amsterdam
 type: poi
 url: www.birdsnetherlands.nl

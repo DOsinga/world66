@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  neighbourhoods: 2026-04-06
 image: amsterdam.jpg
 image_attribution: Dietmar Rabich
 image_license: CC BY-SA 4.0

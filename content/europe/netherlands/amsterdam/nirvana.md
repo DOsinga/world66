@@ -2,7 +2,7 @@
 latitude: 51.878509
 longitude: 4.485894
 tags:
-- coffeeshops
+- drugs
 title: Nirvana
 type: poi
 ---

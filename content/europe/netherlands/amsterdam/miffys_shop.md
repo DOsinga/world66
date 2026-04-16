@@ -1,5 +1,6 @@
 ---
 address: Scheldestraat 61
+category: Antiques
 email: winkel@dewinkelvannijntje.nl
 latitude: 52.345762
 longitude: 4.891206

@@ -2,7 +2,7 @@
 email: kimberley@randyroysredlighttours.com
 phone: 06.41.85.3288
 tags:
-- tours_and_excursions
+- tours_and_excursio
 title: Randy Roy's Redlight Tours
 type: poi
 url: www.randyroysredlighttours.com

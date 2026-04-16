@@ -1,8 +1,8 @@
 ---
-latitude: 52.3690
-longitude: 4.8960
+latitude: 51.401245
+longitude: 4.209013
 tags:
-- things_to_do
+- activities
 title: Bath
 type: poi
 ---
@@ -13,6 +13,20 @@ It is one of these rainy days again, cold and windy, and you don't know what to 
 
 **Hamam**
 
-Turkish bath with full service, massage, peeling, olive soap, towel, tea room, snacks, ...
+Turkish bath with full service, massage, peeling, olive soap, towel, tea room, snacks, ... 
 
-Monday 16:00-22:00h for men, Tuesday till Sunday for women (12:00 to 20:00h). Zaanstraat 88, 1013 RW Amsterdam. +31-20-681 48 18
+
+
+
+
+Monday 16:00-22:00h for men, 
+
+Tuesday till Sunday for women (12:00 to 20:00h) 
+
+Zaanstraat 88 
+
+1013 RW Amsterdam 
+
++31-20-681 48 18
+
+Address: amsterdam

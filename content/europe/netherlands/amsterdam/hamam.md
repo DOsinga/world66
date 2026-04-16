@@ -3,7 +3,7 @@ address: amsterdam
 latitude: 52.37308
 longitude: 4.892453
 tags:
-- things_to_do
+- activities
 title: Hamam zaanstraat
 type: poi
 ---

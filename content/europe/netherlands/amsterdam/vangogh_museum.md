@@ -3,11 +3,12 @@ address: Paulus Potterstraat 7
 category: Museum
 latitude: 52.358435
 longitude: 4.881197
+neighbourhood: Museum Quarter
 opening_hours: Daily 10:00–18:00, Friday until 22:00
 phone: +31 (0)20 570 5200
 tags:
 - things_to_do
-- museum
+- museum_quarter
 title: Van Gogh Museum
 type: poi
 url: vangoghmuseum.nl

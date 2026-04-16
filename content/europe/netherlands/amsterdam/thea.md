@@ -2,7 +2,7 @@
 latitude: 52.535999
 longitude: 5.918373
 tags:
-- things_to_do
+- activities
 title: THEA
 type: poi
 ---

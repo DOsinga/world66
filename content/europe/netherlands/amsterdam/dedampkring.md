@@ -2,7 +2,7 @@
 latitude: 52.367752
 longitude: 4.890505
 tags:
-- coffeeshops
+- drugs
 title: De Dampkring
 type: poi
 ---

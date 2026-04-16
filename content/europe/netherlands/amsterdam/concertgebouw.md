@@ -3,9 +3,10 @@ address: Concertgebouwplein 10
 category: Architecture
 latitude: 52.353451
 longitude: 4.881961
+neighbourhood: Museum Quarter
 tags:
 - things_to_do
-- architecture
+- museum_quarter
 title: Concertgebouw
 type: poi
 ---

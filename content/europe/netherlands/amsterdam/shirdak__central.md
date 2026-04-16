@@ -1,5 +1,6 @@
 ---
 address: Shirdak Prinsengracht 192
+category: Antiques
 tags:
 - shopping
 title: Shirdak - Central Asian Carpets & Textiles

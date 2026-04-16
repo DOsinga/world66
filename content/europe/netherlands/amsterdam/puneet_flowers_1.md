@@ -1,6 +1,7 @@
 ---
 accessibility: 24 HOURS
 address: 16/96 the mall ,kanpur
+category: Speciality shops
 email: rajesh_wahi2000@yahoo.com
 latitude: 26.476497
 longitude: 80.338341

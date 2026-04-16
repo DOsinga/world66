@@ -3,9 +3,10 @@ address: Waterlooplein 1
 category: Architecture
 latitude: 52.369102
 longitude: 4.900853
+neighbourhood: Waterlooplein
 tags:
 - things_to_do
-- architecture
+- waterlooplein
 title: Stopera
 type: poi
 ---

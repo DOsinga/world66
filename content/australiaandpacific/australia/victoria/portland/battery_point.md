@@ -1,7 +1,7 @@
 ---
 title: 'Battery Point'
 type: poi
-category: 'Sight'
+tags: [things_to_do, fort, heritage, historic_site]
 address: 'Victoria Parade'
 opening_hours: 'Sun. & Public Holidays 14:00-16:00'
 phone: '55232450'

@@ -1,10 +1,12 @@
 ---
-title: "Auckland Museum"
+address: Domain Drive, in the Auckland Domain
+opening_hours: 10:00-17:00 daily (except Christmas and ANZAC morning (25 April))
+phone: (64 9) 306 7067
+tags:
+- things_to_do
+title: Auckland Museum
 type: poi
-address: "Domain Drive, in the Auckland Domain"
-opening_hours: "10:00-17:00 daily (except Christmas and ANZAC morning (25 April))"
-phone: "(64 9) 306 7067"
-url: "www.aucklandmuseum.com"
+url: www.aucklandmuseum.com
 ---
 
 Originally founded in 1852, the Auckland Museum moved to its current location in the Domain in 1929 after funds were raised to combine it with a war memorial.

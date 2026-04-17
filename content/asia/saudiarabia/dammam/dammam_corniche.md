@@ -1,7 +1,11 @@
 ---
 title: "Dammam Corniche"
 type: poi
-category: "Neighbourhood"
+tags:
+  - things_to_do
+  - park
+  - waterfront
+  - promenade
 address: "Corniche Road, Dammam, Eastern Province"
 latitude: 26.4450
 longitude: 50.1100

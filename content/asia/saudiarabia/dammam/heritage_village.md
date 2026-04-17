@@ -1,7 +1,10 @@
 ---
 title: "Heritage Village"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
+  - museum
+  - historic_site
 address: "Old City, Dammam, Eastern Province"
 latitude: 26.4282
 longitude: 50.0972

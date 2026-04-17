@@ -1,7 +1,9 @@
 ---
 title: "Centro Civico"
 type: poi
-category: "Architecture"
+tags:
+  - things_to_do
+  - sight
 latitude: -41.1330
 longitude: -71.3100
 ---

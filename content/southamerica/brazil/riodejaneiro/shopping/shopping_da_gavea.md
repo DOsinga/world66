@@ -1,9 +1,0 @@
----
-title: "Shopping da Gavea"
-type: poi
-address: "Rua Marques de Sao Vicente 52, Gavea."
-latitude: -22.977274
-longitude: -43.231129
----
-
-Although not among the larger shoppings in the city, a nice place.

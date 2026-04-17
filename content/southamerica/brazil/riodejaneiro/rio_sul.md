@@ -1,0 +1,14 @@
+---
+address: Rua Lauro Muller, 116 - Botafogo.
+latitude: -22.957246
+longitude: -43.176255
+tags:
+- shopping
+- shop
+- beach
+title: Rio de janeiro
+type: poi
+---
+
+Located close to Botafogo Beach and beside the tunnel that leads to Copacabana, is Rio's most traditional shopping. You'll find there anything you're looking for.
+The shopping also offers a bus that takes you to the Metro (subway) Cardeal Arcoverde Station, and vice versa, for free.

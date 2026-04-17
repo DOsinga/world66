@@ -1,7 +1,10 @@
 ---
 title: "Wieliczka Salt Mine"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - museum
+  - attraction
 latitude: 49.9836
 longitude: 20.0553
 story: >

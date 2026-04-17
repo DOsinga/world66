@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: 46.5927
 longitude: -112.0363
+score: 0.45
 title: Helena
 type: location
-score: 0.45
 ---
 
 Helena is Montana's state capital — and an easy place to underestimate. It sits in a fold of the Rocky Mountain foothills at about 1,250 meters, surrounded by pines and granite. Most travelers pass through on the way to Glacier or Yellowstone, which puts Helena roughly equidistant between the two parks. That's worth pausing on: Helena is an excellent base for a two-park road trip, and it has more going for it than its small size suggests.

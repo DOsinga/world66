@@ -1,11 +1,14 @@
 ---
-title: "Rivarossi Museum"
-type: poi
+address: Como
 category: Museum
-address: "Como"
-opening_hours: "By appointment only"
 latitude: 45.9369
 longitude: 9.1534
+opening_hours: By appointment only
+tags:
+- things_to_do
+- museum
+title: Rivarossi Museum
+type: poi
 ---
 
 Rivarossi was one of the great names in model railways, founded in Como in

@@ -1,10 +1,13 @@
 ---
-title: "Villa Olmo"
-type: poi
+address: Via Cantoni 1
 category: Architecture
-address: "Via Cantoni 1"
 latitude: 45.9188
 longitude: 9.1442
+tags:
+- things_to_do
+- architecture
+title: Villa Olmo
+type: poi
 ---
 
 This stately neoclassical villa at the northern edge of the lakefront promenade

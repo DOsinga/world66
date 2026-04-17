@@ -1,10 +1,13 @@
 ---
-title: "Sant'Abbondio"
-type: poi
+address: Via Sant'Abbondio
 category: Sight
-address: "Via Sant'Abbondio"
 latitude: 45.8999
 longitude: 9.1476
+tags:
+- things_to_do
+- sight
+title: Sant'Abbondio
+type: poi
 ---
 
 Standing just outside the old city walls, Sant'Abbondio is one of the finest

@@ -1,10 +1,13 @@
 ---
-title: "Tempio Voltiano"
-type: poi
+address: Viale Marconi 1
 category: Museum
-address: "Viale Marconi 1"
 latitude: 45.9117
 longitude: 9.1501
+tags:
+- things_to_do
+- museum
+title: Tempio Voltiano
+type: poi
 ---
 
 This small neoclassical temple on the lakefront was built in 1927 to honour

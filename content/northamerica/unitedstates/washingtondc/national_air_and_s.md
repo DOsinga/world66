@@ -3,6 +3,8 @@ address: 7th St. and Independence Ave., S.W
 category: Museum
 opening_hours: 10:00 am - 5:30 pm
 phone: (202) 357-1400
+tags:
+- things_to_do
 title: National Air and Space Museum
 type: poi
 url: www.nasm.si.edu

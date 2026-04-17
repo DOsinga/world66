@@ -6,6 +6,8 @@ latitude: 38.893063
 longitude: -77.019205
 opening_hours: 9 AM to 5 PM Daily except Thanksgiving, Christmas, and New Year's Day
 phone: (202) 292-6100
+tags:
+- things_to_do
 title: Newseum
 type: poi
 url: www.newseum.org

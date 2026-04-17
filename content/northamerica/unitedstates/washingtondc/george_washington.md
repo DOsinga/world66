@@ -3,6 +3,8 @@ address: On the Mall, at 15th St.
 category: Sight
 opening_hours: 9:00 am to 4:45 pm daily
 phone: 202.426.6841
+tags:
+- things_to_do
 title: Washington Monument
 type: Memorials
 url: www.nps.gov

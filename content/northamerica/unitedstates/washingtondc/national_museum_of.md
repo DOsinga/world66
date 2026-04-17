@@ -3,6 +3,8 @@ address: Fourth Street & Independence Ave.
 category: Museum
 opening_hours: 10 a.m. to 5:30 p.m.
 phone: 202-633-1000
+tags:
+- things_to_do
 title: National Museum of the American Indian
 type: poi
 url: www.nmai.si.edu

@@ -1,9 +1,13 @@
 ---
-title: "Castle Howard"
-type: poi
-url: "www.castlehoward.co.uk"
 latitude: 54.121563
 longitude: -0.906648
+tags:
+- day_trips
+- sight
+- castle
+title: Castle Howard
+type: poi
+url: www.castlehoward.co.uk
 ---
 
 Castle Howard is within easy driving distance of York and is well worth
@@ -13,10 +17,3 @@ magnificent 18th century landscaping, beautiful lakes, and wonderful
 statues. The house is still home to the Howard Family and the staff is
 very courteous. Castle Howard also houses several impressive art
 collections.
-
-**Contributors**
-December 01, 2006
-
-
-
-url: [www.castlehoward.co.uk](http://www.castlehoward.co.uk/)

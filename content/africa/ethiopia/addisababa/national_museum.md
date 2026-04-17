@@ -1,7 +1,9 @@
 ---
 title: "National Museum of Ethiopia"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
+  - museum
 latitude: 9.0390
 longitude: 38.7499
 ---

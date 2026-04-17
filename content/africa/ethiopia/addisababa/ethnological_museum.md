@@ -1,7 +1,9 @@
 ---
 title: "Ethnological Museum"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
+  - museum
 latitude: 9.0356
 longitude: 38.7631
 ---

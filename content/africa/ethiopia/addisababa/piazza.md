@@ -1,7 +1,9 @@
 ---
 title: "The Piazza"
 type: poi
-category: "Neighbourhood"
+tags:
+  - things_to_do
+  - neighbourhood
 latitude: 9.0340
 longitude: 38.7460
 ---

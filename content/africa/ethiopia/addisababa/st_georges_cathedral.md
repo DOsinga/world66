@@ -1,7 +1,9 @@
 ---
 title: "St. George's Cathedral"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - church
 latitude: 9.0310
 longitude: 38.7489
 ---

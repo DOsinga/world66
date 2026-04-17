@@ -1,7 +1,9 @@
 ---
 title: "The Mercato"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - market
 latitude: 9.0340
 longitude: 38.7280
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Holy Trinity Cathedral"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - church
 latitude: 9.0218
 longitude: 38.7582
 ---

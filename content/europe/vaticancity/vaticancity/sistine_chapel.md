@@ -1,12 +1,12 @@
 ---
-title: "Sistine Chapel"
+title: Sistine Chapel
 type: poi
-category: "Sight"
 address: "Vatican Museums, Vatican City"
 url: "www.museivaticani.va"
 admission: "Included with Vatican Museums (€20 online + €5 booking fee)"
 latitude: 41.9029
 longitude: 12.4545
+tags: [things_to_do, museum, church]
 story: >
   Michelangelo was 33 years old and primarily a sculptor when Pope Julius II commissioned the ceiling. He initially refused, arguing he was not a painter. Once he accepted, he designed an entirely new architectural framework for the ceiling and completed over 300 figures working largely alone over four years. When he finally descended the scaffolding in 1512, he reportedly could not read a letter held at arm's length — his eyesight permanently damaged from looking upward for so long.
 ---

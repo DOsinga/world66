@@ -1,12 +1,17 @@
 ---
-title: "Synagoge."
-type: poi
-type: "Churches"
+latitude: 56.94762
+longitude: 24.110632
+tags:
+- things_to_do
+title: St. John's.
+type: Churches
 ---
 
-Peitavas 6/8.
+Jana7, tel.: 7224028/7225171. Open 11-18.
 
 type: Churches
+
+
 
 
 

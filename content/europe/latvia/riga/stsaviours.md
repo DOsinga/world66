@@ -1,16 +1,13 @@
 ---
-title: "St. Jacob's."
-type: poi
-type: "Churches"
-latitude: 56.969321
-longitude: 24.137879
+tags:
+- things_to_do
+title: St. Saviour's.
+type: Churches
 ---
 
-Klostera 2.
+Anglikanu 2a.
 
 type: Churches
-
-
 
 
 

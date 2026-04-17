@@ -1,12 +1,13 @@
 ---
-title: "St. John's."
-type: poi
-type: "Churches"
-latitude: 56.94762
-longitude: 24.110632
+latitude: 56.969321
+longitude: 24.137879
+tags:
+- things_to_do
+title: St. Jacob's.
+type: Churches
 ---
 
-Jana7, tel.: 7224028/7225171. Open 11-18.
+Klostera 2.
 
 type: Churches
 

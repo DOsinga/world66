@@ -1,10 +1,11 @@
 ---
-title: "St. Saviour's."
-type: poi
-type: "Churches"
+tags:
+- things_to_do
+title: Synagoge.
+type: Churches
 ---
 
-Anglikanu 2a.
+Peitavas 6/8.
 
 type: Churches
 

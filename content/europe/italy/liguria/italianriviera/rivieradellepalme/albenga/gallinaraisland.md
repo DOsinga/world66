@@ -4,6 +4,9 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 44.025
 longitude: 8.198
+tags:
+- things_to_do
+- sight
 title: Gallinara Island
 type: poi
 ---

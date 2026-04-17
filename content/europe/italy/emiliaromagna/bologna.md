@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 44.49382
 longitude: 11.342633
+score: 0.69
 title: Bologna
 type: location
-score: 0.69
 ---
 
 This fine city merits more than just a one-night visit. Bologna (pop. 422,000) has gardens, museums, parks, fine buildings, churches, and miles of shopping streets -- and don't forget the great food. Sometimes called "Bologna the fat," this city is a great place to indulge yourself.

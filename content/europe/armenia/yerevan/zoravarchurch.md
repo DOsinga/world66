@@ -1,0 +1,13 @@
+---
+latitude: 40.420757
+longitude: 44.631425
+tags:
+- things_to_do
+- landmark
+title: Zoravar Church
+type: churches
+---
+
+Dating from 1693 (funded by the wealthy Hoja Panos) and rebuilt at various times it sits near the site of the tomb/shrine of S. Ananias the Apostle.
+
+type: churches

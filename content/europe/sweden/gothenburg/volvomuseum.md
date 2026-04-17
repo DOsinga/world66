@@ -1,0 +1,12 @@
+---
+address: Gotaverken, Arendal
+latitude: 57.6895
+longitude: 11.9978
+tags:
+- things_to_do
+- museum
+title: Volvo Museum
+type: poi
+---
+
+No visit to Gothenburg would be complete without a trip to the Volvo Museum. Here you can see vintage models from the 1920s, special prototypes, and items from the company's history, including the desk shared by founders Assar Gabrielsson and Gustaf Larson.

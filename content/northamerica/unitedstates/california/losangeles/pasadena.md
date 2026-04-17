@@ -1,11 +1,12 @@
 ---
-title: Pasadena
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 34.1478
 longitude: -118.1445
-done:
-  location_cleanup: 2026-04-07
 score: 0.46
+title: Pasadena
+type: location
 ---
 
 Pasadena is the cultured, leafy counterpart to the sprawl of greater Los Angeles. While the rest of LA chases the next big thing, Pasadena holds onto its Craftsman bungalows, its tree-lined boulevards, and its world-class institutions with quiet confidence. You probably know it from the Rose Bowl and the Tournament of Roses Parade, but there is far more here than New Year's Day football.

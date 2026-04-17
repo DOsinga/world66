@@ -1,5 +1,6 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-09'
 image: anguilla.jpg
@@ -8,9 +9,9 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Anguilla_Shoal_Bay_is_the_BEST_beach_in_the_Caribbean._-_panoramio.jpg
 latitude: 18.2206
 longitude: -63.0686
+score: 0.66
 title: Anguilla
 type: location
-score: 0.66
 ---
 
 Anguilla is a small British Overseas Territory in the Eastern Caribbean that has quietly become one of the region's most celebrated beach destinations. It is 26 km long and about 5 km wide, flat and scrubby, sitting directly north of St. Martin. What it lacks in dramatic landscapes it more than makes up for in beaches: the island has 33 of them, and several rank among the best in the Caribbean.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 48.382
 longitude: -89.2502
+score: 0.44
 title: Thunder Bay
 type: location
-score: 0.44
 ---
 
 Thunder Bay sits at the western tip of Lake Superior, the largest freshwater lake on earth by surface area, and it wears that geography proudly. The city's skyline is dominated not by towers but by grain elevators — for decades this was the busiest grain-shipping port in the world, funnelling prairie wheat through the Great Lakes to the Atlantic. That industrial past still shapes the place: it is practical, unpretentious, and quietly proud.

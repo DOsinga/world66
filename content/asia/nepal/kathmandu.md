@@ -1,11 +1,12 @@
 ---
-title: Kathmandu
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-04
 latitude: 27.708317
 longitude: 85.320582
-done:
-  location_cleanup: 2026-04-04
 score: 0.72
+title: Kathmandu
+type: location
 ---
 
 Travel Guide

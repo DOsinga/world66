@@ -1,13 +1,14 @@
 ---
-title: "De Kaarsengieterij"
-type: poi
-address: "Sint-Amandsstraat 30"
-email: "candles.viane@belgacom.net"
-phone: "050/34 33 97"
-type: "Speciality shops"
-url: "www.dekaarsengieterij.be"
+address: Sint-Amandsstraat 30
+email: candles.viane@belgacom.net
 latitude: 51.20851
 longitude: 3.222078
+phone: 050/34 33 97
+tags:
+- shopping
+title: De Kaarsengieterij
+type: Speciality shops
+url: www.dekaarsengieterij.be
 ---
 
 De Kaarsengieterij is the oldest, and the one and only, candle-shop in the centre of Brugge.

@@ -1,6 +1,11 @@
 ---
 title: 'Campomanes Bay'
 type: poi
+tags:
+  - beaches
+  - beach
+  - diving
+  - water_sports
 address: 'Sipalay City'
 latitude: 9.749127
 longitude: 122.40406

@@ -1,7 +1,7 @@
 ---
 title: "Royal Tombs of Sipán Museum"
 type: poi
-category: "Museum"
+tags: [things_to_do, museum]
 latitude: -6.7704
 longitude: -79.8416
 ---

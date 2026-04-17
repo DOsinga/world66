@@ -1,8 +1,10 @@
 ---
-title: "Strand kiosk Beach-Inn Km 21"
+address: Strandpaviljoen Beach-Inn Paal 21, De Koog, Texel
+tags:
+- beaches
+title: Strand kiosk Beach-Inn Km 21
 type: poi
-address: "Strandpaviljoen Beach-Inn Paal 21, De Koog, Texel"
-url: "members.home.nl"
+url: members.home.nl
 ---
 
 Strand kiosk Beach-Inn is located at strand km marker number 21, some 2

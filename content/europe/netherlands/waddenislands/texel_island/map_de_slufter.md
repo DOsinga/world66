@@ -1,7 +1,9 @@
 ---
-title: "Map [De Slufter] nortwestern part"
+tags:
+- getting_around
+title: Map [De Slufter] nortwestern part
 type: poi
-url: "images.google.com"
+url: images.google.com
 ---
 
 Legenda is in Dutch, but no problem... the map is of good quality. Track is red dotted.

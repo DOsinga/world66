@@ -1,7 +1,8 @@
 ---
-title: "Train transfer Amsterdam <> Den Helder harbour"
-type: poi
-type: "By Rail"
+tags:
+- getting_there
+title: Train transfer Amsterdam <> Den Helder harbour
+type: By Rail
 ---
 
 Departure/timetable and tariff information for train transfer to Den

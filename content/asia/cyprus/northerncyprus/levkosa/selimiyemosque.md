@@ -1,8 +1,10 @@
 ---
-title: "Selimiye Mosque"
-type: poi
 latitude: 35.176496
 longitude: 33.364556
+tags:
+- things_to_do
+title: Selimiye Mosque
+type: poi
 ---
 
 The Selimiye Mosque was built as the St. Sophie Cathedral in the Lusignans period (13th century) in French gothic style fashionable at the time. It was a joint project of Queen Alix de Champagne and of Archbishop Thiryx. After its consecration, it was used for the coronation ceremonies of the de Lusignan kings. 

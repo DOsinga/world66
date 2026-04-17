@@ -1,5 +1,7 @@
 ---
-title: "Berbers Museum"
+tags:
+- things_to_do
+title: Berbers Museum
 type: poi
 ---
 

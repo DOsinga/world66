@@ -1,8 +1,10 @@
 ---
-title: "Millennium Center"
+tags:
+- shopping
+- sight
+title: Millennium Center
 type: poi
-type: "Shopping centers and malls"
-url: "www.millenniumcenter.com.br"
+url: www.millenniumcenter.com.br
 ---
 
 It's a business complex between Djalma Batista Ave. and Constantino Nery Ave.There, you can go shopping and stay at Manaus Century Hotel. Millennium Shopping also has the best Restaurant Goumet Court. You fill

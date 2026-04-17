@@ -1,10 +1,13 @@
 ---
-title: "Boat transport"
+address: Rua dos Andradas 454, first floor Manaus
+email: eco-discovery@bol.com.br
+phone: '32344737'
+tags:
+- getting_around
+- sight
+title: Boat transport
 type: poi
-address: "Rua dos Andradas 454, first floor Manaus"
-email: "eco-discovery@bol.com.br"
-phone: "32344737"
-url: "members.virtualtourist.com"
+url: members.virtualtourist.com
 ---
 
 In Manaus you will find a lot of options of fluvial transport.

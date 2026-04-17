@@ -2,6 +2,8 @@
 category: Sight
 latitude: -33.797336
 longitude: 18.461023
+tags:
+- things_to_do
 title: Bloubergstrand
 type: general
 ---

@@ -2,6 +2,8 @@
 category: Sight
 latitude: -31.014106
 longitude: 30.25501
+tags:
+- things_to_do
 title: Boulder's Beach
 type: Landmarks
 ---

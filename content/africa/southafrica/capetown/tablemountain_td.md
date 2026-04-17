@@ -2,6 +2,8 @@
 category: Sight
 latitude: -33.959063
 longitude: 18.403872
+tags:
+- things_to_do
 title: Table Mountain
 type: poi
 ---

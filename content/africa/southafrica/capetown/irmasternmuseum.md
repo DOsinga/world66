@@ -2,6 +2,8 @@
 address: (UCT) Cecil Road, Rosebank.
 category: Museum
 phone: ++27 (0)21 685 5686.
+tags:
+- things_to_do
 title: IRMA STERN MUSEUM
 type: general
 ---

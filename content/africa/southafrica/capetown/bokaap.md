@@ -2,6 +2,8 @@
 category: Neighbourhood
 latitude: -33.920561
 longitude: 18.412881
+tags:
+- things_to_do
 title: BO-KAAP
 type: poi
 ---

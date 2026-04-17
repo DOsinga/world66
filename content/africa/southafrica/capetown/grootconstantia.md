@@ -2,6 +2,8 @@
 category: Sight
 latitude: -34.030377
 longitude: 18.417646
+tags:
+- things_to_do
 title: GROOT CONSTANTIA
 type: poi
 ---

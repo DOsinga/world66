@@ -4,6 +4,8 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 44.4065
 longitude: 8.9198
+tags:
+- things_to_do
 title: The Neptune Galleon
 type: poi
 ---

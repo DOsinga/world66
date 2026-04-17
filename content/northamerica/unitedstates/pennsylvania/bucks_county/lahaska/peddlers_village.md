@@ -1,6 +1,9 @@
 ---
 title: "Peddler's Village"
 type: poi
+tags:
+  - shopping
+  - attraction
 address: "Route 202, Lahaska, PA 18931"
 phone: "(215) 794-4000"
 url: "https://www.peddlersvillage.com"

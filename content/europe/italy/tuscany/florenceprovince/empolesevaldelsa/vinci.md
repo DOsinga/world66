@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 43.7874
 longitude: 10.9271
+score: 0.55
 title: Vinci
 type: location
-score: 0.55
 ---
 
 Vinci is a small hilltop town in the Empolese Valdelsa, about 40 kilometres west of Florence, and it owes its fame entirely to one man: Leonardo da Vinci was born here on 15 April 1452. The town has embraced this legacy with two dedicated museums — one in the medieval castle, one at the actual farmhouse where he was born — and together they make a compelling half-day stop for anyone traveling between Florence and Pisa or Lucca.

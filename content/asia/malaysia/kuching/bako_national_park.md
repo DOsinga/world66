@@ -1,7 +1,7 @@
 ---
 title: "Bako National Park"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 1.7333
 longitude: 110.4833
 ---

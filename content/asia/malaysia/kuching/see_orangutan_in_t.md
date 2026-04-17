@@ -1,7 +1,7 @@
 ---
 title: "Semenggoh Wildlife Centre"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 1.3998
 longitude: 110.3244
 ---

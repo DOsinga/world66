@@ -1,7 +1,7 @@
 ---
 title: "Sarawak Museum"
 type: poi
-category: "Museum"
+tags: [things_to_do]
 latitude: 1.5571
 longitude: 110.3475
 ---

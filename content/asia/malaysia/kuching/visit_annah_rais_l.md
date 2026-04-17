@@ -1,7 +1,7 @@
 ---
 title: "Annah Rais Longhouse"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 1.1561
 longitude: 110.2654
 ---

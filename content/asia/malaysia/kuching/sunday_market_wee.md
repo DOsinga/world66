@@ -1,7 +1,7 @@
 ---
 title: "Satok Weekend Market"
 type: poi
-category: "Neighbourhood"
+tags: [things_to_do]
 latitude: 1.5531
 longitude: 110.3393
 ---

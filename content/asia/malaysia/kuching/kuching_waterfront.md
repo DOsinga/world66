@@ -1,7 +1,7 @@
 ---
 title: "Kuching Waterfront"
 type: poi
-category: "Neighbourhood"
+tags: [things_to_do]
 latitude: 1.5598
 longitude: 110.3440
 ---

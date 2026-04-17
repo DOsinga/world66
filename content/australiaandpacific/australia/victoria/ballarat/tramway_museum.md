@@ -1,7 +1,7 @@
 ---
 title: 'Ballarat Tramway Museum'
 type: poi
-category: 'Museum'
+tags: [things_to_do, museum, heritage, tram]
 address: 'Wendouree Parade, Ballarat'
 latitude: -37.5513
 longitude: 143.8349

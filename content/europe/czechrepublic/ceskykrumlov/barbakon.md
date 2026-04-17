@@ -1,6 +1,7 @@
 ---
 title: "Barbakon"
 type: poi
+tags: [eating_out, restaurant, czech]
 latitude: 48.8115
 longitude: 14.3152
 address: "Rooseveltova, just across the bridge from the town square"

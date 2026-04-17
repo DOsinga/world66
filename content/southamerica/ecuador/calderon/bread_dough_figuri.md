@@ -1,7 +1,9 @@
 ---
 title: "Bread Dough Figurines"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: -0.0805
 longitude: -78.4160
 ---

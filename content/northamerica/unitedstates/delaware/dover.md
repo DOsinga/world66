@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 39.158168
 longitude: -75.524368
+score: 0.34
 title: Dover
 type: location
-score: 0.34
 ---
 
 Dover is the capital of Delaware and sits squarely in the middle of the state, an easy drive from both Philadelphia and the Atlantic beaches. It is a small city — quietly proud of its history — and one that most travelers drive past on the way to somewhere else. That's a mistake worth correcting.

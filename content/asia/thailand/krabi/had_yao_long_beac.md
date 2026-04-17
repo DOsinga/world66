@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 7.960259
 longitude: 98.958956
 tags:
 - beaches
+- landmark
 title: Had Yao (Long Beach)
 type: poi
 ---

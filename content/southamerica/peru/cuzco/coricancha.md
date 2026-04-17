@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -13.520262
 longitude: -71.97514
 tags:
 - things_to_do
+- landmark
 title: Qorikancha
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 18.2376
 longitude: -63.0196
 tags:
 - things_to_do
+- landmark
 title: Shoal Bay East
 type: poi
 ---

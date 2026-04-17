@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 14.3448
 longitude: 100.5629
 tags:
 - things_to_do
+- landmark
 title: Pom Phet Fort
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: 800 Cherokee Ave SE, Atlanta, GA 30315
-category: Sight
 latitude: 33.7336
 longitude: -84.3714
 phone: (404) 624-5678
 tags:
 - things_to_do
+- landmark
 title: Zoo Atlanta
 type: poi
 ---

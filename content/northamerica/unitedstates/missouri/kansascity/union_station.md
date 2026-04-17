@@ -1,6 +1,5 @@
 ---
 address: 30 W Pershing Rd, Kansas City, MO 64108
-category: Architecture
 latitude: 39.0842
 longitude: -94.5847
 story: 'In June 1933, FBI agent Raymond Caffrey and three police officers were shot
@@ -11,6 +10,7 @@ story: 'In June 1933, FBI agent Raymond Caffrey and three police officers were s
   '
 tags:
 - things_to_do
+- architecture
 title: Union Station
 type: poi
 ---

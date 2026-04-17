@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 52.4094
 longitude: -1.5134
 story: 'ThrustSSC, the car parked in the museum''s record-breaking gallery, became
@@ -12,6 +11,7 @@ story: 'ThrustSSC, the car parked in the museum''s record-breaking gallery, beca
   '
 tags:
 - things_to_do
+- museum
 title: Coventry Transport Museum
 type: poi
 ---

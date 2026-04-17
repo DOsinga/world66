@@ -1,6 +1,5 @@
 ---
 address: 1616 E 18th St, Kansas City, MO 64108
-category: Museum
 latitude: 39.0942
 longitude: -94.5565
 story: 'Charlie Parker — ''Bird'' — grew up in Kansas City and got his start in the
@@ -11,6 +10,7 @@ story: 'Charlie Parker — ''Bird'' — grew up in Kansas City and got his start
   '
 tags:
 - things_to_do
+- museum
 title: American Jazz Museum
 type: poi
 ---

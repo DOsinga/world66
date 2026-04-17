@@ -1,6 +1,5 @@
 ---
 address: 1200 E California Blvd, Pasadena, CA 91125
-category: Sight
 latitude: 34.1377
 longitude: -118.1253
 story: 'Caltech''s student body is tiny — around 2,300 — but the university has produced
@@ -10,6 +9,7 @@ story: 'Caltech''s student body is tiny — around 2,300 — but the university 
   '
 tags:
 - things_to_do
+- landmark
 title: California Institute of Technology
 type: poi
 ---

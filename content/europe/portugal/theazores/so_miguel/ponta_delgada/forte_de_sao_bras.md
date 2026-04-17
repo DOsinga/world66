@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 37.7371
 longitude: -25.6602
 story: The fort was built in the late 16th century to defend against pirate raids
@@ -8,6 +7,7 @@ story: The fort was built in the late 16th century to defend against pirate raid
   making the islands a tempting target.
 tags:
 - things_to_do
+- landmark
 title: Forte de São Brás
 type: poi
 ---

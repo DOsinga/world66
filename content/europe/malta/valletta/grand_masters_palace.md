@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 35.8994
 longitude: 14.5141
 tags:
 - things_to_do
+- architecture
 title: Grand Masters' Palace
 type: poi
 ---

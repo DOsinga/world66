@@ -1,10 +1,10 @@
 ---
 address: 3-17-7 Roppongi
-category: Bar
 latitude: 35.662925
 longitude: 139.731495
 tags:
 - bars_and_cafes
+- bar
 title: Roppongi Pit Inn
 type: poi
 ---

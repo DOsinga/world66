@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 39.0381
 longitude: -94.5934
 tags:
 - things_to_do
+- neighbourhood
 title: Country Club Plaza
 type: poi
 ---

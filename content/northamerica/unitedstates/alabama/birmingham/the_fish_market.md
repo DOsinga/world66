@@ -1,10 +1,10 @@
 ---
 address: 612 22nd Street South, Birmingham, AL 35233
-category: Seafood
 latitude: 33.5072
 longitude: -86.8099
 tags:
 - eating_out
+- seafood
 title: The Fish Market
 type: poi
 ---

@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 35.0106
 longitude: -85.3444
 story: During the 'Battle Above the Clouds' on November 24, 1863, Union forces fought
@@ -8,6 +7,7 @@ story: During the 'Battle Above the Clouds' on November 24, 1863, Union forces f
   by the Stars and Stripes at the summit.
 tags:
 - things_to_do
+- landmark
 title: Lookout Mountain
 type: poi
 ---

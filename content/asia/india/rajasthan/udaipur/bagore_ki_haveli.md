@@ -1,12 +1,12 @@
 ---
 address: Gangaur Ghat, Old City, Udaipur
 admission: ₹100 for museum; ₹150 for evening show
-category: Museum
 latitude: 24.5779
 longitude: 73.6828
 opening_hours: Daily 10:00–17:30; cultural show 19:00–20:00
 tags:
 - things_to_do
+- museum
 title: Bagore ki Haveli
 type: poi
 ---

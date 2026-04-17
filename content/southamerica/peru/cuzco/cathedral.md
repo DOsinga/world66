@@ -1,10 +1,10 @@
 ---
 address: Plaza de Armas
-category: Sight
 latitude: -13.5164
 longitude: -71.9785
 tags:
 - things_to_do
+- landmark
 title: Cusco Cathedral
 type: poi
 ---

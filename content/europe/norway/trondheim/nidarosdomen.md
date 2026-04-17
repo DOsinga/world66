@@ -1,10 +1,10 @@
 ---
 address: Bispegata 7, 7012 Trondheim
-category: Sight
 latitude: 63.4269
 longitude: 10.3964
 tags:
 - things_to_do
+- landmark
 title: Nidaros Cathedral
 type: poi
 url: www.nidarosdomen.no

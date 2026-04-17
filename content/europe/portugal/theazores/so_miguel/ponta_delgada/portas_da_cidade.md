@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 37.7393
 longitude: -25.6694
 tags:
 - things_to_do
+- architecture
 title: Portas da Cidade
 type: poi
 ---

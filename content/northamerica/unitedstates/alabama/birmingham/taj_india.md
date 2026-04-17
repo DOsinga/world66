@@ -1,10 +1,10 @@
 ---
 address: 2226 Highland Avenue South, Birmingham, AL 35205
-category: Indian
 latitude: 33.4997
 longitude: -86.789
 tags:
 - eating_out
+- indian
 title: Taj India
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Kernhemseweg 3, 6718 ZB Ede
-category: Sight
 latitude: 52.052544
 longitude: 5.656581
 phone: +31 (0)318 651 812
 tags:
 - things_to_do
+- landmark
 title: Kernhem Mansion
 type: poi
 ---

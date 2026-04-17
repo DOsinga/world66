@@ -1,10 +1,10 @@
 ---
 address: Place des Halles, 67000 Strasbourg
-category: Shopping centers and malls
 latitude: 48.5741
 longitude: 7.759
 tags:
 - shopping
+- shopping_centers_and_malls
 title: Place des Halles
 type: poi
 ---

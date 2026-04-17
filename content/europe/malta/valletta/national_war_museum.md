@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 35.9022
 longitude: 14.5183
 tags:
 - things_to_do
+- museum
 title: National War Museum
 type: poi
 ---

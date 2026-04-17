@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 0.8333
 longitude: 104.1833
 tags:
 - things_to_do
+- landmark
 title: Barelang Bridges
 type: poi
 ---

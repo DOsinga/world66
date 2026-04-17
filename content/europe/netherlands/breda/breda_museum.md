@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.5852
 longitude: 4.7798
 tags:
 - things_to_do
+- museum
 title: Breda Museum
 type: poi
 ---

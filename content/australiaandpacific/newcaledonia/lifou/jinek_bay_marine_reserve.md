@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -20.8863
 longitude: 167.0441
 tags:
 - things_to_do
+- landmark
 title: Jinek Bay Marine Reserve
 type: poi
 ---

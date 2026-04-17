@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 14.3545
 longitude: 100.5617
 tags:
 - things_to_do
+- landmark
 title: Wat Phra Ram
 type: poi
 ---

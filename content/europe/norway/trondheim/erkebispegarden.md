@@ -1,10 +1,10 @@
 ---
 address: Kongsgårdsgata 2, 7013 Trondheim
-category: Sight
 latitude: 63.4265
 longitude: 10.3969
 tags:
 - things_to_do
+- landmark
 title: Archbishop's Palace
 type: poi
 url: www.erkebispegarden.no

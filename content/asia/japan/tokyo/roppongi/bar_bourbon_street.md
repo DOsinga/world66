@@ -1,11 +1,11 @@
 ---
 address: 7-8-16 Roppongi, Minato-ku
-category: Bar
 latitude: 35.664248
 longitude: 139.727927
 phone: 03 5786 2887
 tags:
 - bars_and_cafes
+- bar
 title: Bar Bourbon Street
 type: poi
 url: http://www.bourbonstreet-tokyo.com

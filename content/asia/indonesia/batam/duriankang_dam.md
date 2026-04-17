@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 1.0667
 longitude: 104.0833
 tags:
 - things_to_do
+- landmark
 title: Duriankang Dam
 type: poi
 ---

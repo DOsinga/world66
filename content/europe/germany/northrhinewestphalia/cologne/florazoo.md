@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 50.957954
 longitude: 6.974353
 tags:
 - things_to_do
+- landmark
 title: Flora/Zoo
 type: Parks & Gardens
 ---

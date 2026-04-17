@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 48.3866
 longitude: -89.2455
 tags:
 - things_to_do
+- museum
 title: Thunder Bay Art Gallery
 type: poi
 ---

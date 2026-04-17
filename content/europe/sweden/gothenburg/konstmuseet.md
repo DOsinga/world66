@@ -1,10 +1,10 @@
 ---
 address: Gotaplatsen
-category: Museum
 latitude: 57.697
 longitude: 11.9794
 tags:
 - things_to_do
+- museum
 title: Konstmuseet
 type: poi
 ---

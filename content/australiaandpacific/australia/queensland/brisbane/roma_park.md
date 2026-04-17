@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -27.464981
 longitude: 153.018353
 tags:
 - things_to_do
+- landmark
 title: Roma Street Parkland
 type: poi
 ---

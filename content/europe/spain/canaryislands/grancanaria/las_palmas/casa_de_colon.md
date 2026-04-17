@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 28.1014
 longitude: -15.4143
 story: Columbus stopped here in 1492 to repair the Pinta's rudder before continuing
@@ -7,6 +6,7 @@ story: Columbus stopped here in 1492 to repair the Pinta's rudder before continu
   craftsmen to fix his ship.
 tags:
 - things_to_do
+- museum
 title: Casa de Colón
 type: poi
 ---

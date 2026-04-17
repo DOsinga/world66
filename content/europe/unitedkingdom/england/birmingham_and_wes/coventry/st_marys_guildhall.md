@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 52.4074
 longitude: -1.5093
 story: 'Mary Queen of Scots was held prisoner in St Mary''s Guildhall in 1565, during
@@ -11,6 +10,7 @@ story: 'Mary Queen of Scots was held prisoner in St Mary''s Guildhall in 1565, d
   '
 tags:
 - things_to_do
+- architecture
 title: St Mary's Guildhall
 type: poi
 ---

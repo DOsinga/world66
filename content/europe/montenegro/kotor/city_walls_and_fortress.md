@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 42.4272
 longitude: 18.7699
 tags:
 - things_to_do
+- landmark
 title: City Walls and Fortress of San Giovanni
 type: poi
 ---

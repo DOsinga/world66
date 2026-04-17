@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.0605
 longitude: -85.3059
 tags:
 - things_to_do
+- landmark
 title: Coolidge Park
 type: poi
 ---

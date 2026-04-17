@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 14.3563
 longitude: 100.5586
 story: 'The temple once housed a 16-metre standing Buddha covered in 250 kilograms
@@ -9,6 +8,7 @@ story: 'The temple once housed a 16-metre standing Buddha covered in 250 kilogra
   '
 tags:
 - things_to_do
+- landmark
 title: Wat Phra Sri Sanphet
 type: poi
 ---

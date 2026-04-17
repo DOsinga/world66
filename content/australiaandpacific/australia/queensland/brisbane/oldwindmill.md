@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: -27.465749
 longitude: 153.023068
 tags:
 - things_to_do
+- architecture
 title: Old Windmill
 type: poi
 ---

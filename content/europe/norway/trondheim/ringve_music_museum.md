@@ -1,12 +1,12 @@
 ---
 address: Lade Allé 60, 7041 Trondheim
-category: Museum
 email: firmapost@ringve.museum.no
 latitude: 63.4475
 longitude: 10.4535
 phone: +47 73 87 02 80
 tags:
 - things_to_do
+- museum
 title: Ringve Music Museum
 type: poi
 url: www.ringve.no

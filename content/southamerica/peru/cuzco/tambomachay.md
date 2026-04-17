@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -13.4646
 longitude: -71.9439
 tags:
 - things_to_do
+- landmark
 title: Tambomachay
 type: poi
 ---

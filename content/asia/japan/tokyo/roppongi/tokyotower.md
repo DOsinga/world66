@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.658449
 longitude: 139.745536
 tags:
 - things_to_do
+- landmark
 title: Tokyo Tower
 type: poi
 ---

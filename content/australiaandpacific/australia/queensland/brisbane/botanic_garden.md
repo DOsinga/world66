@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -27.4726
 longitude: 153.0292
 tags:
 - things_to_do
+- landmark
 title: City Botanic Gardens
 type: poi
 ---

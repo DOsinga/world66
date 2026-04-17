@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 48.579
 longitude: 7.753
 tags:
 - things_to_do
+- museum
 title: Musée Alsacien
 type: poi
 ---

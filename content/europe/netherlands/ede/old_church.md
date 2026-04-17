@@ -1,10 +1,10 @@
 ---
 address: Grotestraat 58, 6711 AN Ede
-category: Sight
 latitude: 52.046065
 longitude: 5.671338
 tags:
 - things_to_do
+- landmark
 title: Oude Kerk
 type: poi
 ---

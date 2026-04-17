@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 35.9005
 longitude: 14.5128
 tags:
 - things_to_do
+- museum
 title: National Museum of Archaeology
 type: poi
 ---

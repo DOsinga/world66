@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 16.0268
 longitude: -16.5056
 tags:
 - things_to_do
+- neighbourhood
 title: Guet N'Dar
 type: poi
 ---

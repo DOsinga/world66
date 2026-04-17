@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 54.3492
 longitude: 18.6488
 tags:
 - things_to_do
+- architecture
 title: Golden Gate
 type: poi
 ---

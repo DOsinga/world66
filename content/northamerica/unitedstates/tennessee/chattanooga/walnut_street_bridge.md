@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.0588
 longitude: -85.3068
 tags:
 - things_to_do
+- landmark
 title: Walnut Street Bridge
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: 3-13-14 Roppongi
-category: Bar
 latitude: 35.6628
 longitude: 139.732
 tags:
 - bars_and_cafes
+- bar
 title: Lexington Queen
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 0.329312
 longitude: 32.552979
 tags:
 - things_to_do
+- landmark
 title: Kasubi Tombs
 type: poi
 ---

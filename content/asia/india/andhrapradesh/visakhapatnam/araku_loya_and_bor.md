@@ -1,12 +1,12 @@
 ---
 address: Hyderabad
-category: Sight
 email: udaykavitha@gmail.com
 latitude: 17.360589
 longitude: 78.474061
 phone: '9490312705'
 tags:
 - things_to_do
+- landmark
 title: ARAKU LOYA and BORRA CAVES
 type: Hotspots
 ---

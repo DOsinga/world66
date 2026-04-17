@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 43.9508
 longitude: 4.8076
 story: Seven popes ruled from Avignon between 1309 and 1377, not Rome — a period the
@@ -8,6 +7,7 @@ story: Seven popes ruled from Avignon between 1309 and 1377, not Rome — a peri
   was effectively a French institution.
 tags:
 - things_to_do
+- architecture
 title: Palais des Papes
 type: poi
 ---

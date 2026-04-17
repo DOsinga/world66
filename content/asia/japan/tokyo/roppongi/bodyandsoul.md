@@ -1,10 +1,10 @@
 ---
 address: 7-14-12 Roppongi
-category: Bar
 latitude: 35.664248
 longitude: 139.727927
 tags:
 - bars_and_cafes
+- bar
 title: Body and Soul
 type: poi
 ---

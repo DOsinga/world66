@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 43.3697
 longitude: -8.3973
 tags:
 - things_to_do
+- neighbourhood
 title: Ciudad Vieja
 type: poi
 ---

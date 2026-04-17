@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 13.864
 longitude: 100.5165
 tags:
 - things_to_do
+- architecture
 title: Wat Chotikaram
 type: poi
 ---

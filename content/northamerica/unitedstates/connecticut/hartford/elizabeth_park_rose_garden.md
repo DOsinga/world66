@@ -1,10 +1,10 @@
 ---
 address: Prospect Avenue, Hartford, CT
-category: Sight
 latitude: 41.7773
 longitude: -72.7219
 tags:
 - things_to_do
+- landmark
 title: Elizabeth Park Rose Garden
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 36.488927
 longitude: -4.956839
 tags:
 - things_to_do
+- neighbourhood
 title: Puerto Banús
 type: poi
 ---

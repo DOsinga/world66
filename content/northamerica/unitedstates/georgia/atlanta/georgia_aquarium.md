@@ -1,11 +1,11 @@
 ---
 address: 225 Baker St NW, Atlanta, GA 30313
-category: Sight
 latitude: 33.7633
 longitude: -84.3951
 phone: (404) 581-4000
 tags:
 - things_to_do
+- landmark
 title: Georgia Aquarium
 type: poi
 url: www.georgiaaquarium.org

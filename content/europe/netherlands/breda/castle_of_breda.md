@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 51.5895
 longitude: 4.7738
 story: In 1590, seventy soldiers hid inside a peat barge and were smuggled through
@@ -7,6 +6,7 @@ story: In 1590, seventy soldiers hid inside a peat barge and were smuggled throu
   The trick earned the name het Turfschip van Breda -- the Dutch Trojan Horse.
 tags:
 - things_to_do
+- landmark
 title: Castle of Breda
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 1.1486
 longitude: 104.0085
 tags:
 - things_to_do
+- landmark
 title: Vihara Buddhi Bakti Temple
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 21.03492
 longitude: 105.852144
 tags:
 - things_to_do
+- neighbourhood
 title: Old Quarter
 type: poi
 ---

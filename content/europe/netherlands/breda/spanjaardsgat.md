@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.59
 longitude: 4.773
 tags:
 - things_to_do
+- landmark
 title: Spanjaardsgat
 type: poi
 ---

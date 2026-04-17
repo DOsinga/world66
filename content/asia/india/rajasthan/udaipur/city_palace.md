@@ -1,12 +1,12 @@
 ---
 address: City Palace Complex, Old City, Udaipur
 admission: ₹300 for foreigners, ₹30 for Indians; extra for Crystal Gallery
-category: Sight
 latitude: 24.5764
 longitude: 73.6843
 opening_hours: Daily 09:30–17:30
 tags:
 - things_to_do
+- landmark
 title: City Palace
 type: poi
 ---

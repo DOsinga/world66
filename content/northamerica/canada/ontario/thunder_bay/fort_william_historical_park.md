@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 48.3428
 longitude: -89.3583
 story: 'The original Fort William was the inland headquarters of the North West Company
@@ -12,6 +11,7 @@ story: 'The original Fort William was the inland headquarters of the North West 
   '
 tags:
 - things_to_do
+- museum
 title: Fort William Historical Park
 type: poi
 ---

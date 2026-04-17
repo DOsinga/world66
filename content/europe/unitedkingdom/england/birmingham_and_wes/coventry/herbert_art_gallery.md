@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 52.4083
 longitude: -1.5079
 tags:
 - things_to_do
+- museum
 title: Herbert Art Gallery & Museum
 type: poi
 ---

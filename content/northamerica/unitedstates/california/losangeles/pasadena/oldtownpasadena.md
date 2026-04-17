@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 34.1459
 longitude: -118.149
 tags:
 - things_to_do
+- neighbourhood
 title: Old Town Pasadena
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 13.8625
 longitude: 100.5178
 tags:
 - things_to_do
+- landmark
 title: Wat Khemaphirataram Rajaworawiharn
 type: poi
 ---

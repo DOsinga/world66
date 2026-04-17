@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 18.2206
 longitude: -63.0686
 tags:
 - things_to_do
+- landmark
 title: Boat Races
 type: poi
 ---

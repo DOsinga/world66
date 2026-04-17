@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 20.5478
 longitude: -105.2994
 tags:
 - things_to_do
+- landmark
 title: Los Arcos National Marine Park
 type: poi
 ---

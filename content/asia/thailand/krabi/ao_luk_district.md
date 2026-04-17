@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 8.3681
 longitude: 98.7194
 tags:
 - things_to_do
+- landmark
 title: Ao Luk Caves
 type: poi
 ---

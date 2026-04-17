@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 54.3494
 longitude: 18.6533
 story: 'After 1945, the church''s famous astronomical clock — built in 1464 and capable
@@ -10,6 +9,7 @@ story: 'After 1945, the church''s famous astronomical clock — built in 1464 an
   '
 tags:
 - things_to_do
+- landmark
 title: St Mary's Church
 type: poi
 ---

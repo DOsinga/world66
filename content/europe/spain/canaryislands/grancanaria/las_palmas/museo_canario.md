@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 28.1006
 longitude: -15.4148
 tags:
 - things_to_do
+- museum
 title: Museo Canario
 type: poi
 ---

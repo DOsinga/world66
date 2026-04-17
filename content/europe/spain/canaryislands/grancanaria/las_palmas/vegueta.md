@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 28.1008
 longitude: -15.4147
 tags:
 - things_to_do
+- neighbourhood
 title: Vegueta
 type: poi
 ---

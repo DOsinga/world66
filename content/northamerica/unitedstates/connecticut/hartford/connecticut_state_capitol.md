@@ -1,10 +1,10 @@
 ---
 address: 210 Capitol Avenue, Hartford, CT
-category: Architecture
 latitude: 41.7644
 longitude: -72.6825
 tags:
 - things_to_do
+- architecture
 title: Connecticut State Capitol
 type: poi
 url: https://www.cga.ct.gov/capitoltours

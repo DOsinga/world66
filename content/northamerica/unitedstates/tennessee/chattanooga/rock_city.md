@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.9735
 longitude: -85.3502
 tags:
 - things_to_do
+- landmark
 title: Rock City
 type: poi
 ---

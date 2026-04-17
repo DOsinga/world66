@@ -1,10 +1,10 @@
 ---
 address: 4525 Oak St, Kansas City, MO 64111
-category: Museum
 latitude: 39.044
 longitude: -94.5793
 tags:
 - things_to_do
+- museum
 title: Nelson-Atkins Museum of Art
 type: poi
 ---

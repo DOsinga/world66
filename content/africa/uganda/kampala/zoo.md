@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 0.051778
 longitude: 32.477527
 tags:
 - things_to_do
+- landmark
 title: Zoo
 type: poi
 ---

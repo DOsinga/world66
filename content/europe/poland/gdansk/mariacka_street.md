@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 54.3487
 longitude: 18.6541
 tags:
 - things_to_do
+- neighbourhood
 title: Mariacka Street
 type: poi
 ---

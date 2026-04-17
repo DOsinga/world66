@@ -1,10 +1,10 @@
 ---
 address: 1600 1st Avenue South, Birmingham, AL 35233
-category: Sight
 latitude: 33.5095
 longitude: -86.8098
 tags:
 - things_to_do
+- landmark
 title: Railroad Park
 type: poi
 ---

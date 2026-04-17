@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 34.4265
 longitude: -119.7052
 tags:
 - things_to_do
+- architecture
 title: Santa Barbara County Courthouse
 type: poi
 ---

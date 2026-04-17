@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 21.0287
 longitude: 105.8524
 tags:
 - things_to_do
+- landmark
 title: Hoan Kiem Lake
 type: poi
 ---

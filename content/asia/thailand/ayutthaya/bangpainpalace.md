@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 14.2326
 longitude: 100.5794
 tags:
 - things_to_do
+- landmark
 title: Bang Pa-In Palace
 type: poi
 ---

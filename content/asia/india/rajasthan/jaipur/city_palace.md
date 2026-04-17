@@ -1,12 +1,12 @@
 ---
 address: Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur
 admission: 500 INR
-category: Sight
 latitude: 26.9258
 longitude: 75.8237
 opening_hours: 9:30-17:00 daily
 tags:
 - things_to_do
+- landmark
 title: City Palace
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 37.7424
 longitude: -25.6712
 tags:
 - things_to_do
+- museum
 title: Museu Carlos Machado
 type: poi
 ---

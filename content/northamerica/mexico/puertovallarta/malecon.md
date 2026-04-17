@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 20.6112
 longitude: -105.2338
 tags:
 - things_to_do
+- landmark
 title: The Malecón
 type: poi
 ---

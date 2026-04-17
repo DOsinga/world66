@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 35.456
 longitude: -97.53
 tags:
 - things_to_do
+- neighbourhood
 title: Stockyards City
 type: poi
 ---

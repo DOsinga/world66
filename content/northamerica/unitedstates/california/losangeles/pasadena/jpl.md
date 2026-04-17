@@ -1,10 +1,10 @@
 ---
 address: 4800 Oak Grove Dr, Pasadena, CA 91109
-category: Sight
 latitude: 34.2013
 longitude: -118.1714
 tags:
 - things_to_do
+- landmark
 title: Jet Propulsion Laboratory
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 63.4511
 longitude: 10.3361
 tags:
 - things_to_do
+- landmark
 title: Munkholmen
 type: poi
 ---

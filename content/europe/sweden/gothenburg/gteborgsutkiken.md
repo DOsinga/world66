@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 57.7068
 longitude: 11.941
 tags:
 - things_to_do
+- landmark
 title: Goteborgs Utkiken
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 43.3746
 longitude: -8.4128
 tags:
 - things_to_do
+- landmark
 title: Paseo Marítimo
 type: poi
 ---

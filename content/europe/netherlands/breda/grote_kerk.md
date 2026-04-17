@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.5886
 longitude: 4.776
 tags:
 - things_to_do
+- landmark
 title: Grote Kerk
 type: poi
 ---

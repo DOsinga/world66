@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.4089
 longitude: -1.508
 tags:
 - things_to_do
+- landmark
 title: St Mary's Priory Ruins
 type: poi
 ---

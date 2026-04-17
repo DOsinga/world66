@@ -1,6 +1,5 @@
 ---
 address: Museumplein 7, 6711 NA Ede
-category: Museum
 email: info@historischmuseumede.nl
 latitude: 52.043143
 longitude: 5.668141
@@ -8,6 +7,7 @@ opening_hours: Tue–Sat 14.00–17.00; Sun 14.00–16.00; closed Mondays
 phone: +31 (0)318 619 554
 tags:
 - things_to_do
+- museum
 title: Historisch Museum Ede
 type: poi
 url: www.historischmuseumede.nl

@@ -1,12 +1,12 @@
 ---
 address: Munkegata 3-7, 7011 Trondheim
-category: Museum
 email: nkmuseum@nkim.museum.no
 latitude: 63.4302
 longitude: 10.3952
 phone: +47 73 80 89 50
 tags:
 - things_to_do
+- museum
 title: National Museum of Decorative Arts
 type: poi
 url: www.nkim.museum.no

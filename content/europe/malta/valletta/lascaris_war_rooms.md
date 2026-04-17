@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 35.896
 longitude: 14.5089
 story: From these tunnels carved into the bastions beneath Valletta, Air Marshal Sir
@@ -7,6 +6,7 @@ story: From these tunnels carved into the bastions beneath Valletta, Air Marshal
   complex was later used as NATO's Southern Europe headquarters during the Cold War.
 tags:
 - things_to_do
+- landmark
 title: Lascaris War Rooms
 type: poi
 ---

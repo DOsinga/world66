@@ -1,10 +1,10 @@
 ---
 address: 1001 Rose Bowl Dr, Pasadena, CA 91103
-category: Sight
 latitude: 34.1613
 longitude: -118.1676
 tags:
 - things_to_do
+- landmark
 title: Rose Bowl Stadium
 type: poi
 ---

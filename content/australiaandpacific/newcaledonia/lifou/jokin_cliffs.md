@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -20.7824
 longitude: 167.2271
 tags:
 - things_to_do
+- landmark
 title: Jokin Cliffs
 type: poi
 ---

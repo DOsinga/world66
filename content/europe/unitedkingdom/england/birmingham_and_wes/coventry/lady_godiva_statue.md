@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.4075
 longitude: -1.5104
 tags:
 - things_to_do
+- landmark
 title: Lady Godiva Statue & Broadgate
 type: poi
 ---

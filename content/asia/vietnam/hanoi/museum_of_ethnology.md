@@ -1,12 +1,12 @@
 ---
 address: Nguyen Van Huyen Road, Cau Giay
 admission: 40,000 VND
-category: Museum
 latitude: 21.0411
 longitude: 105.7984
 opening_hours: Tue–Sun 08:30–17:30; closed Mon
 tags:
 - things_to_do
+- museum
 title: Vietnam Museum of Ethnology
 type: poi
 ---

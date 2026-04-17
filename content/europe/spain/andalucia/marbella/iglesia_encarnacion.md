@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.5112
 longitude: -4.8854
 tags:
 - things_to_do
+- landmark
 title: Iglesia de la Encarnación
 type: poi
 ---

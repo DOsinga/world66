@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 43.9518
 longitude: 4.8072
 tags:
 - things_to_do
+- museum
 title: Musée du Petit Palais
 type: poi
 ---

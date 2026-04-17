@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: -45.8686
 longitude: 170.5032
 tags:
 - things_to_do
+- museum
 title: Olveston
 type: poi
 ---

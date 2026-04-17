@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 8.01
 longitude: 98.838
 tags:
 - beaches
+- landmark
 title: Railay Beach
 type: poi
 ---

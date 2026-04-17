@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.0108
 longitude: -85.328
 tags:
 - things_to_do
+- landmark
 title: Incline Railway
 type: poi
 ---

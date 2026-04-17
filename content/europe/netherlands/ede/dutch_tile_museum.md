@@ -1,12 +1,12 @@
 ---
 address: Eikenzoom 12, 6731 BH Otterlo
-category: Museum
 latitude: 52.098511
 longitude: 5.772575
 opening_hours: Tue–Fri 10.00–17.00; Sat, Sun and bank holidays 13.00–17.00
 phone: +31 (0)318 591 519
 tags:
 - things_to_do
+- museum
 title: Dutch Tile Museum
 type: poi
 url: www.nederlandstegelmuseum.nl

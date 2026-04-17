@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 16.0224
 longitude: -16.4905
 tags:
 - things_to_do
+- architecture
 title: Gouvernance
 type: poi
 ---

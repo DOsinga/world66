@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 13.8612
 longitude: 100.5098
 tags:
 - things_to_do
+- landmark
 title: Wat Chalerm Phra Kiet
 type: poi
 ---

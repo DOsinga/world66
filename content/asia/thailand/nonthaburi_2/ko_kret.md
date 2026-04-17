@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 13.9037
 longitude: 100.4842
 tags:
 - things_to_do
+- neighbourhood
 title: Ko Kret
 type: poi
 ---

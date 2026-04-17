@@ -1,12 +1,12 @@
 ---
 address: 58 Quoc Tu Giam, Dong Da
 admission: 30,000 VND
-category: Sight
 latitude: 21.0294
 longitude: 105.8355
 opening_hours: Daily 08:00–17:00 (winter 08:30–17:00)
 tags:
 - things_to_do
+- landmark
 title: Temple of Literature
 type: poi
 ---

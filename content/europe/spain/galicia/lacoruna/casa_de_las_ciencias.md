@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 43.3651
 longitude: -8.4117
 tags:
 - things_to_do
+- museum
 title: Casa de las Ciencias
 type: poi
 ---

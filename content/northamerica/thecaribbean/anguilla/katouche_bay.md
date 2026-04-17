@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 18.213
 longitude: -63.11
 tags:
 - things_to_do
+- landmark
 title: Katouche Bay
 type: poi
 ---

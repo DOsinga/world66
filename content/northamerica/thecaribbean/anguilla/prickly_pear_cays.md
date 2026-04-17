@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 18.275
 longitude: -63.1833
 tags:
 - things_to_do
+- landmark
 title: Prickly Pear Cays
 type: poi
 ---

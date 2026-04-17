@@ -1,10 +1,10 @@
 ---
 address: Amer Road, Jal Mahal, Jaipur
-category: Sight
 latitude: 26.953
 longitude: 75.8462
 tags:
 - things_to_do
+- landmark
 title: Jal Mahal
 type: poi
 ---

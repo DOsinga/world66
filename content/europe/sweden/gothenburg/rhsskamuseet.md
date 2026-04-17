@@ -1,10 +1,10 @@
 ---
 address: Vasagatan 37-39
-category: Museum
 latitude: 57.7
 longitude: 11.9735
 tags:
 - things_to_do
+- museum
 title: Rohsska Museet
 type: poi
 ---

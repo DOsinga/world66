@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 0.7256
 longitude: 104.2289
 story: The camp was closed by Indonesia in 1996 under international pressure, and
@@ -7,6 +6,7 @@ story: The camp was closed by Indonesia in 1996 under international pressure, an
   residents and their descendants still return on pilgrimage.
 tags:
 - things_to_do
+- landmark
 title: Vietnamese Refugee Camp, Galang
 type: poi
 ---

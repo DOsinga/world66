@@ -1,8 +1,8 @@
 ---
 address: Visakha Musuem,Beach Road,Near VUDA Park
-category: Museum
 tags:
 - things_to_do
+- museum
 title: Visakha Musuem
 type: poi
 ---

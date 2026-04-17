@@ -1,10 +1,10 @@
 ---
 address: Stone Mountain, GA 30087
-category: Sight
 latitude: 33.8062
 longitude: -84.1458
 tags:
 - things_to_do
+- landmark
 title: Stone Mountain Park
 type: poi
 url: www.stonemountainpark.com

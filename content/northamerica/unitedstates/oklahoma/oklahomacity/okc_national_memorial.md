@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.473
 longitude: -97.517
 tags:
 - things_to_do
+- landmark
 title: Oklahoma City National Memorial
 type: poi
 ---

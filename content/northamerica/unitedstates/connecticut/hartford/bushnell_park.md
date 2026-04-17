@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.7643
 longitude: -72.6826
 tags:
 - things_to_do
+- landmark
 title: Bushnell Park
 type: poi
 ---

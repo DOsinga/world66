@@ -1,11 +1,11 @@
 ---
 address: 1157 Orange Street, Redlands, CA
-category: Museum
 latitude: 34.068063
 longitude: -117.182769
 phone: 909-793-3333
 tags:
 - things_to_do
+- museum
 title: American and European Contemporary Glass Museum
 type: poi
 url: glassmuseums.com

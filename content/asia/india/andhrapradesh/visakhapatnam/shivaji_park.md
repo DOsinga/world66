@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.027279
 longitude: 72.838398
 tags:
 - things_to_do
+- landmark
 title: Shivaji Park
 type: Parks, Gardens and Zoos
 url: www.visitvizag.in

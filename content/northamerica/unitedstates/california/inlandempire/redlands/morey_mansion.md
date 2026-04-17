@@ -1,10 +1,10 @@
 ---
 address: 190 Terracina Blvd, Redlands, CA 92373
-category: Architecture
 latitude: 34.038794
 longitude: -117.207993
 tags:
 - things_to_do
+- architecture
 title: Morey Mansion
 type: poi
 ---

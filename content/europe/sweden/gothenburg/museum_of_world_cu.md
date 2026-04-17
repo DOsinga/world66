@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 57.6947
 longitude: 11.9896
 tags:
 - things_to_do
+- museum
 title: Museum of World Culture
 type: poi
 ---

@@ -1,12 +1,12 @@
 ---
 address: Edeseweg 124, 6721 KE Bennekom
-category: Sight
 email: kasteelhoekelum@tref.nl
 latitude: 52.015529
 longitude: 5.676759
 phone: +31 (0)318 632 124
 tags:
 - things_to_do
+- landmark
 title: Hoekelum Castle
 type: poi
 url: www.kasteelhoekelum.nl

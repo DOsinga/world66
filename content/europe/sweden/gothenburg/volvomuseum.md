@@ -1,10 +1,10 @@
 ---
 address: Gotaverken, Arendal
-category: Museum
 latitude: 57.6895
 longitude: 11.9978
 tags:
 - things_to_do
+- museum
 title: Volvo Museum
 type: poi
 ---

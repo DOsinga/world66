@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 35.0559
 longitude: -85.3111
 tags:
 - things_to_do
+- museum
 title: Tennessee Aquarium
 type: poi
 ---

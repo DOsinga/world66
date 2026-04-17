@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 28.1008
 longitude: -15.4147
 tags:
 - things_to_do
+- landmark
 title: Catedral de Santa Ana
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: 351 Farmington Avenue, Hartford, CT
-category: Museum
 latitude: 41.758
 longitude: -72.6994
 phone: (860) 247-0998
 tags:
 - things_to_do
+- museum
 title: Mark Twain House & Museum
 type: poi
 url: https://www.marktwainhouse.org

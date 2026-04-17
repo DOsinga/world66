@@ -1,8 +1,8 @@
 ---
 address: 3 Saryan Street, Yerevan 58-17-62
-category: Museum
 tags:
 - things_to_do
+- museum
 title: Saryan Museum
 type: poi
 ---

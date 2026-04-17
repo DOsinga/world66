@@ -1,6 +1,5 @@
 ---
 address: 800 Main Street, Hartford, CT
-category: Sight
 latitude: 41.7661
 longitude: -72.6727
 phone: (860) 522-6766
@@ -12,6 +11,7 @@ story: 'The two-headed calf on display upstairs has been a Hartford landmark sin
   '
 tags:
 - things_to_do
+- landmark
 title: Old State House
 type: poi
 url: https://www.ctosh.org

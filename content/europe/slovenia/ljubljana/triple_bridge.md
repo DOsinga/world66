@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 46.0512
 longitude: 14.5059
 tags:
 - things_to_do
+- architecture
 title: Triple Bridge (Tromostovje)
 type: poi
 ---

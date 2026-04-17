@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 21.0245
 longitude: 105.8562
 tags:
 - things_to_do
+- neighbourhood
 title: French Quarter
 type: poi
 ---

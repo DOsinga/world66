@@ -1,9 +1,9 @@
 ---
 address: 125 West Vine Street, Redlands, CA 92373
-category: Sight
 phone: 909-798-7632
 tags:
 - things_to_do
+- landmark
 title: Lincoln Memorial Shrine
 type: poi
 url: www.lincolnshrine.org

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 48.4019
 longitude: -89.2453
 tags:
 - things_to_do
+- neighbourhood
 title: Marina Park Waterfront
 type: poi
 ---

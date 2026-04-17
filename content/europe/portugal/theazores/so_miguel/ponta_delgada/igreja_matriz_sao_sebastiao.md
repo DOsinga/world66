@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 37.7403
 longitude: -25.6692
 tags:
 - things_to_do
+- landmark
 title: Igreja Matriz de São Sebastião
 type: poi
 ---

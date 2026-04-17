@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 46.049
 longitude: 14.5058
 tags:
 - things_to_do
+- architecture
 title: City Hall (Magistrat)
 type: poi
 ---

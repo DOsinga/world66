@@ -1,10 +1,10 @@
 ---
 address: 46 N Los Robles Ave, Pasadena, CA 91101
-category: Museum
 latitude: 34.1479
 longitude: -118.1408
 tags:
 - things_to_do
+- museum
 title: Pacific Asia Museum
 type: poi
 ---

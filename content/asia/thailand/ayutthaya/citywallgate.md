@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 14.353
 longitude: 100.5575
 tags:
 - things_to_do
+- landmark
 title: City Wall and Gate
 type: poi
 ---

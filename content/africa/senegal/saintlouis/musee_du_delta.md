@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 16.0215
 longitude: -16.491
 tags:
 - things_to_do
+- museum
 title: Musée du Delta
 type: poi
 ---

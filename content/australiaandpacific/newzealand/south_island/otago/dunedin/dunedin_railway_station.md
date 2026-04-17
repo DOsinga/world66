@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: -45.8765
 longitude: 170.5048
 tags:
 - things_to_do
+- architecture
 title: Dunedin Railway Station
 type: poi
 ---

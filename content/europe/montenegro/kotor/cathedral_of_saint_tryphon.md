@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 42.4243
 longitude: 18.7708
 story: 'When Venetian merchants brought Tryphon''s relics to Kotor in 809, they had
@@ -9,6 +8,7 @@ story: 'When Venetian merchants brought Tryphon''s relics to Kotor in 809, they 
   '
 tags:
 - things_to_do
+- landmark
 title: Cathedral of Saint Tryphon
 type: poi
 ---

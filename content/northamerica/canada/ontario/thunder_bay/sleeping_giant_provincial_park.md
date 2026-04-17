@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 48.3693
 longitude: -88.8046
 tags:
 - things_to_do
+- landmark
 title: Sleeping Giant Provincial Park
 type: poi
 ---

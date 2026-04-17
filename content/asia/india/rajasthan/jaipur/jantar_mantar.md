@@ -1,11 +1,11 @@
 ---
 address: Gangori Bazaar, J.D.A. Market, Pink City, Jaipur
-category: Sight
 latitude: 26.9247
 longitude: 75.8247
 opening_hours: 9:00-16:30 daily
 tags:
 - things_to_do
+- landmark
 title: Jantar Mantar
 type: poi
 ---

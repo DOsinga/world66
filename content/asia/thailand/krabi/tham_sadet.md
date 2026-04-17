@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 8.0707
 longitude: 98.8726
 tags:
 - things_to_do
+- landmark
 title: Tham Sadet
 type: poi
 ---

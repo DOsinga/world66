@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 35.8998
 longitude: 14.5114
 tags:
 - things_to_do
+- architecture
 title: St Paul's Anglican Cathedral
 type: poi
 ---

@@ -1,12 +1,12 @@
 ---
 address: Sajjangarh, Udaipur
 admission: ₹80; additional charge for vehicles entering the reserve
-category: Sight
 latitude: 24.5803
 longitude: 73.6503
 opening_hours: Daily 09:00–18:00
 tags:
 - things_to_do
+- landmark
 title: Monsoon Palace
 type: poi
 ---

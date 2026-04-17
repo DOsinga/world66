@@ -1,11 +1,11 @@
 ---
 address: 600 Main Street, Hartford, CT
-category: Museum
 latitude: 41.7638
 longitude: -72.6726
 phone: (860) 278-2760
 tags:
 - things_to_do
+- museum
 title: Wadsworth Atheneum Museum of Art
 type: poi
 url: https://www.thewadsworth.org

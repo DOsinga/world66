@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 17.766089
 longitude: 83.349439
 tags:
 - things_to_do
+- landmark
 title: Indira Gandhi Zoological Park
 type: Parks, Gardens and Zoos
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 46.0488
 longitude: 14.5083
 tags:
 - things_to_do
+- landmark
 title: Ljubljana Castle
 type: poi
 ---

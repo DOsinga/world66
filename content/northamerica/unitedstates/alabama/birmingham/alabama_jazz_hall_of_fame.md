@@ -1,10 +1,10 @@
 ---
 address: 1631 4th Avenue North, Birmingham, AL 35203
-category: Museum
 latitude: 33.5148
 longitude: -86.8095
 tags:
 - things_to_do
+- museum
 title: Alabama Jazz Hall of Fame
 type: poi
 ---

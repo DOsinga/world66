@@ -1,11 +1,11 @@
 ---
 address: Jagdish Chowk, Old City, Udaipur
-category: Sight
 latitude: 24.5774
 longitude: 73.6839
 opening_hours: Daily 05:00–14:00 and 16:00–22:00
 tags:
 - things_to_do
+- landmark
 title: Jagdish Temple
 type: poi
 ---

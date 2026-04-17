@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 54.4038
 longitude: 18.6683
 tags:
 - things_to_do
+- landmark
 title: Westerplatte
 type: poi
 ---

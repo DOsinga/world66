@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 43.3858
 longitude: -8.4083
 tags:
 - things_to_do
+- landmark
 title: Torre de Hércules
 type: poi
 ---

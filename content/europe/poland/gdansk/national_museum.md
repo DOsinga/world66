@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 54.3469
 longitude: 18.6508
 tags:
 - things_to_do
+- museum
 title: National Museum in Gdansk
 type: poi
 ---

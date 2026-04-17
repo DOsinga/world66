@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 8.1263
 longitude: 98.9237
 tags:
 - things_to_do
+- landmark
 title: Wat Tham Seua (Tiger Cave Temple)
 type: poi
 ---

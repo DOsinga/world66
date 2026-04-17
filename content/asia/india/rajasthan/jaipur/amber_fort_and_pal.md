@@ -1,11 +1,11 @@
 ---
 address: Devisinghpura, Amer, Jaipur
-category: Sight
 latitude: 26.9855
 longitude: 75.8513
 opening_hours: 8:00-17:30 daily
 tags:
 - things_to_do
+- landmark
 title: Amber Fort and Palace
 type: poi
 ---

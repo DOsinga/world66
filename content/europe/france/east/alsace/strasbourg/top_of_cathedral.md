@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 48.5818
 longitude: 7.7507
 tags:
 - things_to_do
+- landmark
 title: Cathedral Platform
 type: poi
 ---

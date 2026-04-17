@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 8.0876
 longitude: 98.9065
 tags:
 - things_to_do
+- landmark
 title: Khao Kanab Nam
 type: poi
 ---

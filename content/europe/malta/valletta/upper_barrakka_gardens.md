@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 35.8955
 longitude: 14.5076
 story: The gardens were originally built as a private recreation area for the Italian
@@ -8,6 +7,7 @@ story: The gardens were originally built as a private recreation area for the It
   when Malta was a British colony.
 tags:
 - things_to_do
+- landmark
 title: Upper Barrakka Gardens
 type: poi
 ---

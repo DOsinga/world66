@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -20.9139
 longitude: 167.0541
 tags:
 - things_to_do
+- landmark
 title: Notre Dame de Lourdes Chapel
 type: poi
 ---

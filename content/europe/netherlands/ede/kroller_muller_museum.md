@@ -1,6 +1,5 @@
 ---
 address: Houtkampweg 6, 6731 AW Otterlo
-category: Museum
 email: information@kmm.nl
 latitude: 52.096224
 longitude: 5.817664
@@ -8,6 +7,7 @@ opening_hours: Tue–Sun 10.00–17.00; closed Mondays
 phone: +31 (0)318 591 241
 tags:
 - things_to_do
+- museum
 title: Kröller-Müller Museum
 type: poi
 url: www.kmm.nl

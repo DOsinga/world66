@@ -1,10 +1,10 @@
 ---
 address: 1701 Valley View Drive, Birmingham, AL 35209
-category: Sight
 latitude: 33.4909
 longitude: -86.7963
 tags:
 - things_to_do
+- landmark
 title: Vulcan Park and Museum
 type: poi
 ---

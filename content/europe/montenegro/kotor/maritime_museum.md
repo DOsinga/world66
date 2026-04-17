@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 42.4246
 longitude: 18.7712
 tags:
 - things_to_do
+- museum
 title: Maritime Museum of Montenegro
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.4404
 longitude: -119.7139
 tags:
 - things_to_do
+- landmark
 title: Old Mission Santa Barbara
 type: poi
 ---

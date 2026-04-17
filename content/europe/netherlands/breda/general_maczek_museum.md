@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.5876
 longitude: 4.7777
 tags:
 - things_to_do
+- museum
 title: General Maczek Museum
 type: poi
 ---

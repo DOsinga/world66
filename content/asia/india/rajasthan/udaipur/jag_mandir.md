@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 24.5693
 longitude: 73.6803
 tags:
 - things_to_do
+- landmark
 title: Jag Mandir
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Musievagen 1, Lodose
-category: Museum
 latitude: 58.0346
 longitude: 12.1525
 tags:
 - things_to_do
+- museum
 title: Lodose Museum
 type: poi
 ---

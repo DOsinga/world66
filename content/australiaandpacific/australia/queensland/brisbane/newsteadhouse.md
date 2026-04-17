@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -27.44267
 longitude: 153.04618
 tags:
 - things_to_do
+- landmark
 title: Newstead House
 type: poi
 ---

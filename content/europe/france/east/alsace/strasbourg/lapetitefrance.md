@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 48.5814
 longitude: 7.7422
 tags:
 - things_to_do
+- neighbourhood
 title: La Petite France
 type: poi
 ---

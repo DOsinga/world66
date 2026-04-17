@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 14.3533
 longitude: 100.5594
 tags:
 - things_to_do
+- museum
 title: Chao Sam Phraya National Museum
 type: poi
 ---

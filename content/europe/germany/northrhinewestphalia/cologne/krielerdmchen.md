@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 50.91962
 longitude: 6.906162
 tags:
 - things_to_do
+- architecture
 title: Krieler Dömchen
 type: Other Sights
 ---

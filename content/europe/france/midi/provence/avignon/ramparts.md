@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 43.9497
 longitude: 4.8076
 tags:
 - things_to_do
+- landmark
 title: Medieval Ramparts
 type: poi
 ---

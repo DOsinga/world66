@@ -1,8 +1,8 @@
 ---
-category: Sight
 opening_hours: 8;16
 tags:
 - things_to_do
+- landmark
 title: R K Beach
 type: Hotspots
 ---

@@ -1,11 +1,11 @@
 ---
 address: One CNN Center, Marietta St NW & Techwood Dr, Atlanta, GA
-category: Sight
 latitude: 33.7584
 longitude: -84.3963
 phone: (404) 827-2300
 tags:
 - things_to_do
+- landmark
 title: CNN Studio Tour
 type: poi
 ---

@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 43.9527
 longitude: 4.8053
 story: The well-known song "Sur le pont d'Avignon" began as "Sous le pont d'Avignon"
@@ -8,6 +7,7 @@ story: The well-known song "Sur le pont d'Avignon" began as "Sous le pont d'Avig
   less romantic.
 tags:
 - things_to_do
+- landmark
 title: Pont d'Avignon (Pont Saint-Bénézet)
 type: poi
 ---

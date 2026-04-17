@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 40.420757
 longitude: 44.631425
 tags:
 - things_to_do
+- landmark
 title: Zoravar Church
 type: churches
 ---

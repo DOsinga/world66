@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 42.4249
 longitude: 18.7716
 tags:
 - things_to_do
+- architecture
 title: Church of Saint Luke
 type: poi
 ---

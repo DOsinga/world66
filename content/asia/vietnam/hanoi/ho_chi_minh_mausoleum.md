@@ -1,13 +1,13 @@
 ---
 address: 2 Hung Vuong, Ba Dinh
 admission: Free
-category: Sight
 latitude: 21.0369
 longitude: 105.8347
 opening_hours: Tue–Thu, Sat–Sun 07:30–10:30 (summer until 11:00); closed Mon, Fri,
   and Sep–Nov for maintenance
 tags:
 - things_to_do
+- landmark
 title: Ho Chi Minh Mausoleum
 type: poi
 ---

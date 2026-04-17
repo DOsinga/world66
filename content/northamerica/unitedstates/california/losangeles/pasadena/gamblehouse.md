@@ -1,10 +1,10 @@
 ---
 address: 4 Westmoreland Pl, Pasadena, CA 91103
-category: Architecture
 latitude: 34.1572
 longitude: -118.162
 tags:
 - things_to_do
+- architecture
 title: The Gamble House
 type: poi
 ---

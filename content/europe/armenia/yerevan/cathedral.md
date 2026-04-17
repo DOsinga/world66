@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 40.16184
 longitude: 44.291116
 tags:
 - things_to_do
+- landmark
 title: Cathedral
 type: churches
 ---

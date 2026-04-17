@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 48.5786
 longitude: 7.7451
 tags:
 - things_to_do
+- museum
 title: Musée d'Art Moderne et Contemporain
 type: poi
 ---

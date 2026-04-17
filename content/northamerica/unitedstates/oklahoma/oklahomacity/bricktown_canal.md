@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 35.465
 longitude: -97.511
 tags:
 - things_to_do
+- neighbourhood
 title: Bricktown Canal
 type: poi
 ---

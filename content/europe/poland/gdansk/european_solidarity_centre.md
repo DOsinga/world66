@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 54.3598
 longitude: 18.6478
 story: 'Gate No. 2 of the shipyard, where the striking workers posted their 21 demands
@@ -10,6 +9,7 @@ story: 'Gate No. 2 of the shipyard, where the striking workers posted their 21 d
   '
 tags:
 - things_to_do
+- museum
 title: European Solidarity Centre
 type: poi
 ---

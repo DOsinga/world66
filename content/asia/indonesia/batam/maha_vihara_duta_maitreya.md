@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 1.0925
 longitude: 104.0156
 tags:
 - things_to_do
+- landmark
 title: Maha Vihara Duta Maitreya
 type: poi
 ---

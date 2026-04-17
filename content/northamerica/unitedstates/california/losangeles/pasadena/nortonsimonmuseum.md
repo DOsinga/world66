@@ -1,10 +1,10 @@
 ---
 address: 411 W Colorado Blvd, Pasadena, CA 91105
-category: Museum
 latitude: 34.1474
 longitude: -118.158
 tags:
 - things_to_do
+- museum
 title: Norton Simon Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 46.0497
 longitude: 14.5026
 tags:
 - things_to_do
+- landmark
 title: Ursuline Church
 type: poi
 ---

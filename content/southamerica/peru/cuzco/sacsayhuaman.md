@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -13.4783
 longitude: -71.9823
 tags:
 - things_to_do
+- landmark
 title: Sacsayhuamán
 type: poi
 ---

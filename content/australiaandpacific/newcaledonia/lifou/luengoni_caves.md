@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -21.0853
 longitude: 167.2441
 tags:
 - things_to_do
+- landmark
 title: Luengoni Caves
 type: poi
 ---

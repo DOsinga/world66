@@ -1,7 +1,7 @@
 ---
-category: Architecture
 tags:
 - things_to_do
+- architecture
 title: City Gates
 type: Other Sights
 ---

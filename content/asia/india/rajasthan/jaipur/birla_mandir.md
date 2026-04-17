@@ -1,11 +1,11 @@
 ---
 address: Jawahar Lal Nehru Marg, Tilak Nagar, Jaipur
-category: Sight
 latitude: 26.8932
 longitude: 75.8166
 opening_hours: 6:00-12:00, 15:00-21:00 daily
 tags:
 - things_to_do
+- landmark
 title: Birla Mandir
 type: poi
 ---

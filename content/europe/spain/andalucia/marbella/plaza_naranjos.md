@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.5105
 longitude: -4.8858
 tags:
 - things_to_do
+- landmark
 title: Plaza de los Naranjos
 type: poi
 ---

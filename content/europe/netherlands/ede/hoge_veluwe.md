@@ -1,11 +1,11 @@
 ---
 address: Houtkampweg 6, 6731 AW Otterlo
-category: Sight
 email: park@hogeveluwe.nl
 latitude: 52.096224
 longitude: 5.817664
 tags:
 - things_to_do
+- landmark
 title: Hoge Veluwe National Park
 type: poi
 url: www.hogeveluwe.nl

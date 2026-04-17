@@ -1,11 +1,11 @@
 ---
 address: 1325 Prospect Drive, Redlands, CA 92373
-category: Architecture
 latitude: 34.037376
 longitude: -117.173435
 phone: 909-792-2111
 tags:
 - things_to_do
+- architecture
 title: Kimberly Crest House and Gardens
 type: poi
 url: www.kimberlycrest.org

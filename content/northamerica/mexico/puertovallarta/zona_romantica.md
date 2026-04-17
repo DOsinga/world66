@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 20.6018
 longitude: -105.2388
 tags:
 - things_to_do
+- neighbourhood
 title: Zona Romántica
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -45.82
 longitude: 170.65
 tags:
 - things_to_do
+- landmark
 title: Otago Peninsula Wildlife
 type: poi
 ---

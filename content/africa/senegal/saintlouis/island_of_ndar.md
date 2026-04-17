@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 16.0228
 longitude: -16.492
 tags:
 - things_to_do
+- neighbourhood
 title: Island of N'Dar
 type: poi
 ---

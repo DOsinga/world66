@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.899
 longitude: 14.5122
 tags:
 - things_to_do
+- landmark
 title: St John's Co-Cathedral
 type: poi
 ---

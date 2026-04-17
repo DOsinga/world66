@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 14.356
 longitude: 100.5607
 tags:
 - things_to_do
+- landmark
 title: Wat Mahathat
 type: poi
 ---

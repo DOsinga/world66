@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.0189
 longitude: -85.3394
 tags:
 - things_to_do
+- landmark
 title: Ruby Falls
 type: poi
 ---

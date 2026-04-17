@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 52.4082
 longitude: -1.5087
 story: 'After the November 1940 bombing raid, the cathedral''s provost, Richard Howard,
@@ -12,6 +11,7 @@ story: 'After the November 1940 bombing raid, the cathedral''s provost, Richard 
   '
 tags:
 - things_to_do
+- landmark
 title: Coventry Cathedral
 type: poi
 ---

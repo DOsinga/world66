@@ -1,12 +1,12 @@
 ---
 address: Dunedin i-SITE Visitor Centre
-category: Sight
 email: tours@elmwildlifetours.co.nz
 latitude: -45.8736
 longitude: 170.5037
 phone: +64 3 454 4121
 tags:
 - things_to_do
+- landmark
 title: Elm Wildlife Tours
 type: poi
 url: www.elmwildlifetours.co.nz

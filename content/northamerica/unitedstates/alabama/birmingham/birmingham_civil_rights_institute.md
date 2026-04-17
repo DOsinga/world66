@@ -1,10 +1,10 @@
 ---
 address: 520 16th Street North, Birmingham, AL 35203
-category: Museum
 latitude: 33.516
 longitude: -86.8145
 tags:
 - things_to_do
+- museum
 title: Birmingham Civil Rights Institute
 type: poi
 ---

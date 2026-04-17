@@ -1,6 +1,5 @@
 ---
 address: Munkegata 23, 7011 Trondheim
-category: Architecture
 latitude: 63.4307
 longitude: 10.3951
 story: Built in the 1770s by a wealthy widow, Stiftsgården is the largest wooden building
@@ -8,6 +7,7 @@ story: Built in the 1770s by a wealthy widow, Stiftsgården is the largest woode
   achievement for a private residence in a provincial town.
 tags:
 - things_to_do
+- architecture
 title: Stiftsgården
 type: poi
 url: www.kongehuset.no

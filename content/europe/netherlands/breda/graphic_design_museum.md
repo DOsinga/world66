@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.587
 longitude: 4.7768
 tags:
 - things_to_do
+- museum
 title: Graphic Design Museum
 type: poi
 ---

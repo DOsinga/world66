@@ -1,10 +1,10 @@
 ---
 address: Vega del Mar, San Pedro de Alcántara
-category: Sight
 latitude: 36.4784
 longitude: -4.9955
 tags:
 - things_to_do
+- landmark
 title: Basílica Vega del Mar
 type: poi
 ---

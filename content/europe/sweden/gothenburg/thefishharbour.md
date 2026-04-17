@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 57.7118
 longitude: 11.937
 tags:
 - things_to_do
+- landmark
 title: The Fish Harbour
 type: poi
 ---

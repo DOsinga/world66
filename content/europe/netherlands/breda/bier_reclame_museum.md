@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.5882
 longitude: 4.7752
 tags:
 - things_to_do
+- museum
 title: Bier Reclame Museum
 type: poi
 ---

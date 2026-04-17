@@ -1,6 +1,5 @@
 ---
 address: 1151 Oxford Rd, San Marino, CA 91108
-category: Museum
 latitude: 34.1292
 longitude: -118.1147
 story: 'The Huntington owns one of only twelve surviving vellum copies of the Gutenberg
@@ -10,6 +9,7 @@ story: 'The Huntington owns one of only twelve surviving vellum copies of the Gu
   '
 tags:
 - things_to_do
+- museum
 title: The Huntington Library
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 24.572
 longitude: 73.6785
 tags:
 - things_to_do
+- landmark
 title: Lake Pichola
 type: poi
 ---

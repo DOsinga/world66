@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 48.5797
 longitude: 7.751
 tags:
 - things_to_do
+- museum
 title: Musée des Beaux-Arts
 type: poi
 ---

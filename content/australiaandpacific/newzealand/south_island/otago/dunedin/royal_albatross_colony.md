@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -45.772
 longitude: 170.7289
 tags:
 - things_to_do
+- landmark
 title: Royal Albatross Colony
 type: poi
 ---

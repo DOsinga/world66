@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 48.4125
 longitude: -89.2013
 tags:
 - things_to_do
+- landmark
 title: Terry Fox Memorial
 type: poi
 ---

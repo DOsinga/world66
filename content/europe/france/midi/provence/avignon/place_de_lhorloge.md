@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 43.9494
 longitude: 4.8094
 tags:
 - things_to_do
+- landmark
 title: Place de l'Horloge
 type: poi
 ---

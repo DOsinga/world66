@@ -1,11 +1,11 @@
 ---
 address: 26930 Barton Road, Redlands, CA
-category: Sight
 latitude: 34.048903
 longitude: -117.216706
 phone: 909-793-5402
 tags:
 - things_to_do
+- landmark
 title: San Bernardino Asistencia
 type: poi
 ---

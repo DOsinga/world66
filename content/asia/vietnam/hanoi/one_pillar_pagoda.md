@@ -1,10 +1,10 @@
 ---
 address: Chua Mot Cot, Ba Dinh
-category: Sight
 latitude: 21.0359
 longitude: 105.8337
 tags:
 - things_to_do
+- landmark
 title: One Pillar Pagoda
 type: poi
 ---

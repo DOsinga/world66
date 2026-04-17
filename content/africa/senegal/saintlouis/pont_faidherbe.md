@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 16.0228
 longitude: -16.4897
 story: 'The bridge was designed by Gustave Eiffel''s engineering company in the 1890s
@@ -11,6 +10,7 @@ story: 'The bridge was designed by Gustave Eiffel''s engineering company in the 
   '
 tags:
 - things_to_do
+- architecture
 title: Pont Faidherbe
 type: poi
 ---

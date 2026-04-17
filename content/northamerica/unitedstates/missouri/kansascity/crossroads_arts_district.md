@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 39.0897
 longitude: -94.587
 tags:
 - things_to_do
+- neighbourhood
 title: Crossroads Arts District
 type: poi
 ---

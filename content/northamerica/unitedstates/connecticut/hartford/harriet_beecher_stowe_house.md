@@ -1,11 +1,11 @@
 ---
 address: 77 Forest Street, Hartford, CT
-category: Museum
 latitude: 41.7577
 longitude: -72.6999
 phone: (860) 522-9258
 tags:
 - things_to_do
+- museum
 title: Harriet Beecher Stowe House
 type: poi
 url: https://www.harrietbeecherstowecenter.org

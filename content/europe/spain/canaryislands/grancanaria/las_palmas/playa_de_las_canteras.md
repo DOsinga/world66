@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 28.1429
 longitude: -15.4337
 tags:
 - things_to_do
+- landmark
 title: Playa de Las Canteras
 type: poi
 ---

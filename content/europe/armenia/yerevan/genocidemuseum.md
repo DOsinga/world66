@@ -1,11 +1,11 @@
 ---
 address: Tsitsernakaberd Park
-category: Museum
 latitude: 40.185923
 longitude: 44.484915
 phone: +39-09-81, 39-14-12
 tags:
 - things_to_do
+- museum
 title: Genocide Museum
 type: Museums
 ---

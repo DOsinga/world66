@@ -1,10 +1,10 @@
 ---
 address: 3-10-3 Roppongi
-category: Bar
 latitude: 35.6628
 longitude: 139.732
 tags:
 - bars_and_cafes
+- bar
 title: Birdland
 type: poi
 ---

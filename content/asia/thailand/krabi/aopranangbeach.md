@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 8.031092
 longitude: 98.821883
 tags:
 - beaches
+- landmark
 title: Ao Nang Beach
 type: poi
 ---

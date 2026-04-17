@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -27.4777
 longitude: 153.0222
 tags:
 - things_to_do
+- landmark
 title: South Bank Parklands
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 48.5952
 longitude: 7.7719
 tags:
 - things_to_do
+- architecture
 title: Palais de l'Europe
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: 1918 11th Avenue South, Birmingham, AL 35205
-category: Thai
 latitude: 33.5028
 longitude: -86.7993
 tags:
 - eating_out
+- thai
 title: Surin West
 type: poi
 ---

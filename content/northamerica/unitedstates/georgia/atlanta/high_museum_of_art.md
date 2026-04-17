@@ -1,11 +1,11 @@
 ---
 address: 1280 Peachtree St NE, Atlanta, GA 30309
-category: Museum
 latitude: 33.7895
 longitude: -84.3863
 phone: (404) 733-4400
 tags:
 - things_to_do
+- museum
 title: High Museum of Art
 type: poi
 ---

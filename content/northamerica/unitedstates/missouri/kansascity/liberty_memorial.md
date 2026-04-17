@@ -1,10 +1,10 @@
 ---
 address: 100 W 26th St, Kansas City, MO 64108
-category: Museum
 latitude: 39.0836
 longitude: -94.5845
 tags:
 - things_to_do
+- museum
 title: Liberty Memorial and National WWI Museum
 type: poi
 ---

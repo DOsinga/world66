@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 54.3484
 longitude: 18.6528
 tags:
 - things_to_do
+- landmark
 title: Long Market (Dlugi Targ)
 type: poi
 ---

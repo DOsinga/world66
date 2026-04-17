@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: -45.8465
 longitude: 170.6663
 tags:
 - things_to_do
+- architecture
 title: Larnach Castle
 type: poi
 ---

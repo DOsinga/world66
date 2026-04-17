@@ -1,11 +1,12 @@
 ---
-title: Agadir
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 30.4205
 longitude: -9.5838
-done:
-  location_cleanup: 2026-04-06
 score: 0.6
+title: Agadir
+type: location
 ---
 
 Agadir is Morocco's principal beach resort, a planned city rebuilt from scratch after a catastrophic earthquake in 1960 killed around 15,000 people and flattened the old town in seconds. The result is a city of wide boulevards, concrete hotels, and almost no traditional architecture — which is precisely what distinguishes it from everywhere else in Morocco. If you come expecting a medina, you will be disappointed. If you come for the beach, you will not be.

@@ -1,9 +1,11 @@
 ---
-title: "Hotel Safir"
+latitude: 35.5727
+longitude: -5.3687
+tags:
+- eating_out
+- restaurant
+title: Hotel Safir
 type: poi
-type: "general"
 ---
 
-On the main street, 4 star hotel that also serves decent food (and beer). It is closed (2004) but should reopen soon.
-
-type: general
+On the main street, a 4-star hotel that also serves decent food (and beer). It was closed in 2004 but has since reopened.

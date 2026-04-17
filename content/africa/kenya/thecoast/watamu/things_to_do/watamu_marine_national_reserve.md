@@ -1,9 +1,14 @@
 ---
-title: "Watamu Marine National Reserve"
+latitude: -3.36
+longitude: 40.025
+tags:
+- things_to_do
+- marine_reserve
+- snorkelling
+- diving
+- nature
+title: Watamu Marine National Reserve
 type: poi
-category: "Sight"
-latitude: -3.3600
-longitude: 40.0250
 ---
 
 Established in 1968, Watamu Marine National Reserve is one of Kenya's oldest protected marine areas and part of a larger UNESCO Biosphere Reserve. The reef offshore holds an extraordinary variety of hard and soft corals, sea turtles, manta rays, and over 600 fish species. Visibility is generally good year-round, though the best conditions are between October and March when the Indian Ocean is calm.

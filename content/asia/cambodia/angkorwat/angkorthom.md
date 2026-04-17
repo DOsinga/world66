@@ -1,9 +1,12 @@
 ---
-title: "Angkor Thom"
-type: poi
-category: Sight
 latitude: 13.4412
 longitude: 103.8586
+tags:
+- things_to_do
+- temple
+- historical_site
+title: Angkor Thom
+type: poi
 ---
 
 Angkor Thom was built by Cambodia's greatest builder, Jayavarman VII. This ten square kilometer city is enclosed by an eight meter high wall and encircled by a hundred meter moat said to have been inhabited by fierce crocodiles. Five twenty-meter-high gates pierce the walls, each approached via causeways flanked by fifty-four gods on the left and fifty-four demons on the right, locked in an eternal tug of war.

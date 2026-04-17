@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: -5.8796
 longitude: 110.4329
+score: 0.58
 title: Karimunjawa
 type: location
-score: 0.58
 ---
 
 Karimunjawa is a marine national park of 27 islands off the north coast of Java, reachable by boat from [Semarang](/asia/indonesia/java/semarang) or Jepara. The name comes from the Javanese *'Kremun kremun saking tanah Jawi'* — describing just how far these islands feel from the mainland.

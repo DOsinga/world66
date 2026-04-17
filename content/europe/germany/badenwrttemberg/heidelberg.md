@@ -1,11 +1,12 @@
 ---
-title: Heidelberg
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 49.4094
 longitude: 8.6947
-done:
-  location_cleanup: 2026-04-06
 score: 0.7
+title: Heidelberg
+type: location
 ---
 
 Heidelberg is the German city that visitors fall in love with. It sits where the Neckar river emerges from the wooded hills of the Odenwald into the Rhine plain, and the combination of the ruined castle on the hillside, the baroque old town below, the river, the ancient university, and the forested slopes rising on both banks makes it one of the most naturally beautiful urban settings in Europe. Remarkably, it survived the Second World War almost completely intact — the Americans deliberately spared it — which means the old town you see today is genuinely old, not a reconstruction.

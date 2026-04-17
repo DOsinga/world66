@@ -1,9 +1,10 @@
 ---
-title: "Velvet"
-type: poi
-type: "general"
 latitude: 42.063074
 longitude: -8.511347
+tags:
+- bars_and_cafes
+title: Velvet
+type: general
 ---
 
 The best nights in Vila are spent at Velvet! A delightful and well cared-for place with the best music and the best environment. Visit us!

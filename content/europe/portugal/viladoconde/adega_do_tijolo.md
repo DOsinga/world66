@@ -1,7 +1,8 @@
 ---
-title: "Adega do Tijolo"
-type: poi
-type: "general"
+tags:
+- eating_out
+title: Adega do Tijolo
+type: general
 ---
 
 Lovely Fado accompanying a good selection of appetizers basted in red wine. 

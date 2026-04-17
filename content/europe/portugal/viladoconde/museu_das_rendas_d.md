@@ -1,12 +1,14 @@
 ---
-title: "MUSEU DAS RENDAS DE BILROS"
-type: poi
-address: "Rua de S. Bento, 70"
-email: "museus@cm-viladoconde.pt"
-phone: "252248470"
-zipcode: "4480-782 Vila do Conde"
+address: Rua de S. Bento, 70
+email: museus@cm-viladoconde.pt
 latitude: 37.927209
 longitude: -7.410427
+phone: '252248470'
+tags:
+- museums
+title: MUSEU DAS RENDAS DE BILROS
+type: poi
+zipcode: 4480-782 Vila do Conde
 ---
 
 **Museum of Bilros Lace**

@@ -1,11 +1,12 @@
 ---
-title: "Café, Snack Bar,Gelataría, Oásis."
-type: poi
-accessibility: "Near the beach."
-address: "Av do Brasil, 690, Vila do Conde"
-type: "general"
+accessibility: Near the beach.
+address: Av do Brasil, 690, Vila do Conde
 latitude: 41.341972
 longitude: -8.750879
+tags:
+- bars_and_cafes
+title: Café, Snack Bar,Gelataría, Oásis.
+type: general
 ---
 
 Café, Snack Bar, Gelataria Oásis is an ice cream parlor as well as a coffee house and snack bar. Woks with breakfasts, meals, snacks and bar service ( coctails, shots, sangrías and much more).

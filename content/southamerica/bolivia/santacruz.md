@@ -1,11 +1,12 @@
 ---
-title: Santa Cruz
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: -17.7834
 longitude: -63.1821
-done:
-  location_cleanup: 2026-04-07
 score: 0.45
+title: Santa Cruz
+type: location
 ---
 
 Santa Cruz de la Sierra is Bolivia's largest city and its economic engine, a tropical metropolis that feels worlds apart from the highland capitals of [La Paz](/southamerica/bolivia/lapaz) and [Sucre](/southamerica/bolivia/sucre). Where those cities are cold and Andean, Santa Cruz is flat, hot, and green — a lowland city surrounded by cattle ranches, soybean fields, and the edge of the Amazon basin.

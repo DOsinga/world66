@@ -20,7 +20,7 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
    own.
 
 2. **Restructure sections** per LOCATIONS.md:
-   - If `sights/` and/or `museums/` exist, create `things_to_do/` and move POIs in. Add `category: "Sight"` or `category: "Museum"` to each.
+   - If `sights/` and/or `museums/` exist, create `things_to_do/` and move POIs in. Add `tags: [things_to_do, sight]` or `tags: [things_to_do, museum]` to each.
    - If `nightlife/` exists, move any worthwhile POIs into `bars_and_cafes/`. Delete the rest — old nightlife data is almost always outdated.
    - Delete the old section files and directories after migrating.
 
@@ -46,7 +46,7 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
 6. **Review existing POIs**:
    - this is mostly true for locations, less so for regions
    - Delete spam, junk, or obviously wrong entries (sports venues, gibberish, wrong-country content)
-   - Add `category` field to all POIs in `things_to_do/`
+   - Add appropriate tags to all POIs in `things_to_do/` (e.g. `sight`, `museum`, `architecture`, `neighbourhood`)
    - Check every POI has `latitude` and `longitude` — add if missing, fix if wrong
    - Verify coordinates are plausible for the location (wrong-country coords are common in old World66 data)
    - Update clearly outdated content (prices in lire, defunct businesses) where obvious

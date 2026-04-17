@@ -1,8 +1,10 @@
 ---
-title: "Characters ."
-type: poi
 latitude: 43.897866
 longitude: -78.863515
+tags:
+- eating_out
+title: Characters .
+type: poi
 ---
 
 This elegant dining room boasts freshly scrubbed brick walls, polished hardwood and a glimmering open kitchen. The menu includes a variety of seasonal offerings, among them pan-seared shark served atop a sweet corn flan; beef tenderloin wrapped in bacon, goat cheese and foie gras with a madeira wine sauce and venison baked in puff pastry with wild mushrooms, brussels sprouts and raspberry jus. Open Mon to Fri for lunch at11:30 am; Tues to Sat for dinner at 5:30 pm. (AE, MC, V) 

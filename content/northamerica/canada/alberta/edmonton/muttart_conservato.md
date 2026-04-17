@@ -1,13 +1,15 @@
 ---
-title: "Muttart Conservatory"
-type: poi
-address: "9626-96A Street"
-opening_hours: "Monday to Friday: 9 am to 5:30 pm Weekends and Holidays: 11 a.m. to 5:30 p.m."
-phone: "(780) 496-8735"
-type: "Parks, Gardens and Zoos"
-url: "www.edmonton.ca"
+address: 9626-96A Street
 latitude: 53.535295
 longitude: -113.47756
+opening_hours: 'Monday to Friday: 9 am to 5:30 pm Weekends and Holidays: 11 a.m. to
+  5:30 p.m.'
+phone: (780) 496-8735
+tags:
+- things_to_do
+title: Muttart Conservatory
+type: Parks, Gardens and Zoos
+url: www.edmonton.ca
 ---
 
 The Muttart is one of the easily recongized parts of Edmonton's

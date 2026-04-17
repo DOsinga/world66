@@ -1,11 +1,12 @@
 ---
-title: "Bangkok Restaurant"
-type: poi
-address: "11476-112Av Edmonton, AB"
-phone: "780-414-0430"
-price: "Adult--$10.95"
-type: "Thai"
-url: "www.bkkbuffet.com"
+address: 11476-112Av Edmonton, AB
+phone: 780-414-0430
+price: Adult--$10.95
+tags:
+- eating_out
+title: Bangkok Restaurant
+type: Thai
+url: www.bkkbuffet.com
 ---
 
 The Bangkok Restaurant is located near downtown Edmonton, Alberta. They offer a Thai style Hot Pot buffet boasting 50 or more items including Thai style desserts. The Bangkok is also a licensed restaurant.

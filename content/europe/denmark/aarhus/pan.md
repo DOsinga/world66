@@ -1,6 +1,7 @@
 ---
 title: "Pan"
 type: poi
+tags: [bars_and_cafes, bar, lgbtq]
 address: "Jaegergaardsgade 42"
 phone: "86 13 43 80"
 latitude: 56.1480

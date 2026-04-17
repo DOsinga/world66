@@ -1,15 +1,16 @@
 ---
-title: Machu Picchu
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+image: machupicchu.jpg
+image_attribution: Martin St-Amant (S23678)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.edit3.jpg
 latitude: -13.164341
 longitude: -72.545009
-done:
-  location_cleanup: 2026-04-05
 score: 0.91
-image: machupicchu.jpg
-image_source: https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.edit3.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Martin St-Amant (S23678)
+title: Machu Picchu
+type: location
 ---
 
 **Machu Picchu** 

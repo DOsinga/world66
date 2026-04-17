@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: -8.106
 longitude: -79.0738
+score: 0.64
 title: Chan Chan
 type: location
-score: 0.64
 ---
 
 Chan Chan is the largest pre-Columbian city in South America and one of the great archaeological sites of the Americas. Built around 900 AD and reaching its peak under the Chimú Empire in the 13th and 14th centuries, it once housed around 30,000 people spread across a vast complex of royal palaces, temples, storehouses, and neighborhoods. The Spanish looted it thoroughly, but what remains — miles of crumbling adobe walls, geometric friezes, and ceremonial plazas — is still extraordinary.

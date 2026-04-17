@@ -1,11 +1,12 @@
 ---
-title: Tulum
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 20.2114
 longitude: -87.4654
-done:
-  location_cleanup: 2026-04-07
 score: 0.69
+title: Tulum
+type: location
 ---
 
 Few places on the Yucatán Peninsula deliver such a concentrated hit of beauty. Tulum is where the ancient Maya chose to build one of their few coastal cities, and it is easy to see why: the cliffs here are dramatic, the turquoise Caribbean stretches away below them, and the jungle presses in on three sides. The ruins of Tulum remain one of the most striking archaeological sites in Mexico, not because they rival Chichen Itza in scale, but because nowhere else can you watch the sea from a Maya temple.

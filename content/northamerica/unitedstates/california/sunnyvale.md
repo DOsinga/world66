@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 37.36883
 longitude: -122.036349
+score: 0.38
 title: Sunnyvale
 type: location
-score: 0.38
 ---
 
 Travel Guide

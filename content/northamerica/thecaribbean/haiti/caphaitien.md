@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 19.7572
 longitude: -72.2041
+score: 0.41
 title: Cap-Haïtien
 type: location
-score: 0.41
 ---
 
 Cap-Haïtien is located on historic ground: Columbus made landfall nearby and celebrated the first Christmas in the New World in 1492. Today it is Haiti's second city, a port town of around 300,000 people with a well-preserved colonial street grid and a more relaxed atmosphere than Port-au-Prince.

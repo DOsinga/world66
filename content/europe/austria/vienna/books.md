@@ -2,7 +2,7 @@
 author: Stephen Brook
 isbn: '789495759'
 title: Books in Vienna
-type: neighbourhood
+type: section
 ---
 
 There are many Vienna travel books to spark your traveling interests

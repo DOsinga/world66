@@ -1,6 +1,6 @@
 ---
 title: Top 5 Must Do's in Vienna
-type: neighbourhood
+type: section
 url: www.concertvienna.com
 ---
 

@@ -1,7 +1,9 @@
 ---
-title: "Limassol beaches - Pentakomo to Pissouri"
+email: phivos.ioannides@natureofcyprus.org
+tags:
+- beaches
+title: Limassol beaches - Pentakomo to Pissouri
 type: poi
-email: "phivos.ioannides@natureofcyprus.org"
 ---
 
 I would divide Limassol beaches into 2 groups. Those closer to the city, which invariably have wave breakers, and are well organised, and those further away, which are relatively untouched and may have more interest for those of use looking for a more natural environment and variety.

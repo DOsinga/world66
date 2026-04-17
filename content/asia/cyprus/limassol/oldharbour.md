@@ -2,6 +2,8 @@
 category: Sight
 latitude: 35.324992
 longitude: 33.980408
+tags:
+- things_to_do
 title: Old Harbour
 type: Landmarks
 ---

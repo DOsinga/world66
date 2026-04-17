@@ -6,6 +6,8 @@ category: Museum
 email: info@silksgallery.com
 opening_hours: 10:00 - 20:00
 phone: 25 323 220
+tags:
+- things_to_do
 title: Silks Gallery
 type: Landmarks
 url: www.SILKSGALLERY.com

@@ -2,6 +2,8 @@
 address: Agiou Andreou Street 253
 category: Museum
 phone: (05) 362 303
+tags:
+- things_to_do
 title: Folk Art Museum
 type: general
 ---

@@ -1,5 +1,7 @@
 ---
 category: Sight
+tags:
+- things_to_do
 title: Limassol Sculpture park
 type: Parks, Gardens and Zoos
 ---

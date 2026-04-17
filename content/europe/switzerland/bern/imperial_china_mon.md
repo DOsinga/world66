@@ -1,11 +1,13 @@
 ---
-title: "Imperial China Mongolian Barbecue"
-type: poi
-accessibility: "1 flight stairs"
-address: "Bärenplatz 21 above restaurant Gfeller"
-phone: "031 312 54 00"
-price: "19.50CHF and up"
-type: "Chinese"
+accessibility: 1 flight stairs
+address: Bärenplatz 21 above restaurant Gfeller
+phone: 031 312 54 00
+price: 19.50CHF and up
+tags:
+- eating_out
+- restaurant
+title: Imperial China Mongolian Barbecue
+type: Chinese
 ---
 
 Offering: Mongolian barbecue, for those of you who may be unfamiliar with it, is a self-serve buffet of raw ingredients from which the diner selects his own delectable combination which is then cooked while he waits. The meat choices at Imperial China include beef, chicken, pork, lamb, fish, and shrimp. Sliced vegetables, onions, and white mushrooms, sprouts, canned pineapple, and other non-meat items round out the selection.

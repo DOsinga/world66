@@ -1,9 +1,0 @@
----
-title: "Martini Tower"
-type: poi
-category: "Sight"
-latitude: 53.219402
-longitude: 6.568197
----
-
-The 97-metre tower at the heart of Groningen, locally called *d'Olle Grieze* ("the Old Grey"). It belongs to the 13th-century Martinikerk but was built higher than the church would require, out of civic pride. Climb the 260 steps for a view across the flat polders to the Wadden Sea.

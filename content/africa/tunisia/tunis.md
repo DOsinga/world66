@@ -1,11 +1,12 @@
 ---
-title: Tunis
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 36.8065
 longitude: 10.1815
-done:
-  location_cleanup: 2026-04-02
 score: 0.58
+title: Tunis
+type: location
 ---
 
 Tunis is a city of layers. The medina, a UNESCO World Heritage Site, climbs a low hill in a tangle of alleys, covered souks, and centuries-old mosques. At its feet, the French-built Ville Nouvelle stretches along broad, tree-lined avenues with sidewalk cafes and art-deco facades. The contrast between the two is the city's defining quality -- you can step from a 13th-century madrasa into a Parisian-style boulevard in under a minute.

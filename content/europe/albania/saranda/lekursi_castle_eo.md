@@ -1,0 +1,20 @@
+---
+address: Kalaja Lekursit
+email: kalajalekursit@gmail.com
+tags:
+- eating_out
+title: Lekursi Castle
+type: Italian
+---
+
+It is a big restaurant uphill Saranda. You can go by taxi, because it is 3-4 km from the center. The taxi costs 3-5 dollars. It offers Italian and Albanian cuisine specialities.
+
+type: Italian
+
+
+
+
+
+address: Kalaja Lekursit
+
+email: kalajalekursit@gmail.com

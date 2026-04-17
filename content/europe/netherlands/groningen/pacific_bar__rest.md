@@ -1,0 +1,20 @@
+---
+address: Oosterstraat 65
+latitude: 52.159015
+longitude: 4.507468
+tags:
+- bars_and_cafes
+title: Pacific Bar & Restaurant
+type: poi
+---
+
+New hotspot in Groningen. Enjoy the laidback atmosphere of the outback. All types of Aussie food and drinks, as well as brilliant coctails.
+
+**Contributors**
+November 09, 2006
+
+
+
+
+
+address: Oosterstraat 65

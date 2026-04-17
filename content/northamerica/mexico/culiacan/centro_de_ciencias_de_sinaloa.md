@@ -1,7 +1,10 @@
 ---
 title: "Centro de Ciencias de Sinaloa"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
+  - museum
+  - science
 latitude: 24.8103
 longitude: -107.3941
 ---

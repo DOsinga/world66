@@ -1,7 +1,10 @@
 ---
 title: "Museo de Arte de Sinaloa"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
+  - museum
+  - art
 latitude: 24.8056
 longitude: -107.3939
 ---

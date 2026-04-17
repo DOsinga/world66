@@ -1,7 +1,10 @@
 ---
 title: "Catedral de Culiacan"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - church
+  - landmark
 latitude: 24.8065
 longitude: -107.3936
 ---

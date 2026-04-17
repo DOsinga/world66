@@ -1,7 +1,10 @@
 ---
 title: "Jardin Botanico de Culiacan"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - park
+  - garden
 latitude: 24.7872
 longitude: -107.4117
 ---

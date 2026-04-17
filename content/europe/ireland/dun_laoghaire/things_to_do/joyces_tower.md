@@ -1,7 +1,7 @@
 ---
 title: "Joyce's Tower (Sandycove Martello Tower)"
 type: poi
-category: Museum
+tags: [things_to_do, museum, sight]
 latitude: 53.2878
 longitude: -6.1027
 story: "The tower opens the first episode of Ulysses: Buck Mulligan shaving on the roof, Stephen Dedalus brooding below. Joyce lived here for six days in September 1904. He left after a row, and never went back — but the place became immortal anyway."

@@ -1,6 +1,7 @@
 ---
 title: "Sailing to Yvoire"
 type: poi
+tags: [day_trips, boat_trip]
 latitude: 46.3703
 longitude: 6.3256
 ---

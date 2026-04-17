@@ -1,7 +1,7 @@
 ---
 title: "Saint Sophia's Cathedral"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, cathedral]
 address: "Volodymyrska 24, Kyiv"
 latitude: 50.4529
 longitude: 30.5141

@@ -1,7 +1,7 @@
 ---
 title: "West Pier"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 53.2960
 longitude: -6.1388
 ---

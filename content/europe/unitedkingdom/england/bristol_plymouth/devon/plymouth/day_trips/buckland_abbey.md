@@ -1,6 +1,7 @@
 ---
 title: "Buckland Abbey"
 type: poi
+tags: [day_trips, sight, abbey, museum]
 address: "Yelverton, PL20 6EY"
 phone: "+44 (0)1822 853607"
 url: "http://www.nationaltrust.org.uk"

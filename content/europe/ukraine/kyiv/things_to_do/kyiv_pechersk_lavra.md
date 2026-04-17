@@ -1,7 +1,7 @@
 ---
 title: "Kyiv Pechersk Lavra"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, monastery]
 address: "Lavrska 15, Kyiv"
 latitude: 50.4344
 longitude: 30.5576

@@ -1,7 +1,7 @@
 ---
 title: "Church of St Petroc"
 type: poi
-category: Sight
+tags: [things_to_do, sight, church]
 latitude: 50.6465
 longitude: -4.0825
 ---

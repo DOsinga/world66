@@ -1,7 +1,7 @@
 ---
 title: "Andriyivskyy Descent"
 type: poi
-category: "Neighbourhood"
+tags: [things_to_do, neighbourhood, street]
 address: "Andriyivskyy Uzviz, Kyiv"
 latitude: 50.4588
 longitude: 30.5136

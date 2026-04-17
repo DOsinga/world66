@@ -1,7 +1,7 @@
 ---
 title: "Lydford Gorge"
 type: poi
-category: Sight
+tags: [things_to_do, sight, nature]
 latitude: 50.6405
 longitude: -4.0958
 ---

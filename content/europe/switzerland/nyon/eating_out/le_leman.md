@@ -1,6 +1,7 @@
 ---
 title: "Le Leman"
 type: poi
+tags: [eating_out, restaurant]
 latitude: 46.3830
 longitude: 6.2388
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Mayflower Steps"
 type: poi
-category: Sight
+tags: [things_to_do, sight, monument]
 latitude: 50.3671
 longitude: -4.1417
 ---

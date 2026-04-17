@@ -1,11 +1,12 @@
 ---
-title: Maramures Land
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 47.75
 longitude: 24.1
-done:
-  location_cleanup: 2026-04-07
 score: 0.57
+title: Maramures Land
+type: location
 ---
 
 Maramureș is the corner of Romania where the 21st century has barely arrived. Tucked against the Ukrainian border in northern Transylvania, this is a landscape of steep-sided valleys, hay meadows cut by hand, and villages where horse-drawn carts still outnumber cars on the road. People here build in wood — houses, gates, barns, spoons, everything — and have done so for centuries.

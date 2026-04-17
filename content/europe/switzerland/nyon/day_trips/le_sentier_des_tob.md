@@ -1,6 +1,7 @@
 ---
 title: "Le Sentier des Toblerones"
 type: poi
+tags: [day_trips, walk]
 latitude: 46.3983
 longitude: 6.2268
 ---

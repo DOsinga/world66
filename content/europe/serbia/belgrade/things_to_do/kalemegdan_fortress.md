@@ -1,7 +1,7 @@
 ---
 title: "Kalemegdan Fortress"
 type: poi
-category: "Sight"
+tags: [things_to_do, castle]
 address: "Kalemegdan Park, Belgrade"
 latitude: 44.8235
 longitude: 20.4498

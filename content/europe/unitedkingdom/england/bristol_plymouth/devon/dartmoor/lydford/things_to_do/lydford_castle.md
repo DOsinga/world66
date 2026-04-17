@@ -1,7 +1,7 @@
 ---
 title: "Lydford Castle"
 type: poi
-category: Architecture
+tags: [things_to_do, sight, castle]
 latitude: 50.6462
 longitude: -4.0832
 story: >

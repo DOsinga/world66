@@ -1,7 +1,7 @@
 ---
 title: "Suomenlinna"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 url: "suomenlinna.fi"
 latitude: 60.144388
 longitude: 24.985405

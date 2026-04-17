@@ -1,7 +1,7 @@
 ---
 title: "Senate Square"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 60.169511
 longitude: 24.952269
 ---

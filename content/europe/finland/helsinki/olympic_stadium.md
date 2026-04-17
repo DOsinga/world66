@@ -1,7 +1,7 @@
 ---
 title: "Olympic Stadium"
 type: poi
-category: "Architecture"
+tags: [things_to_do]
 address: "Paavo Nurmen tie 1, 00250 Helsinki"
 url: "stadion.fi"
 latitude: 60.187003

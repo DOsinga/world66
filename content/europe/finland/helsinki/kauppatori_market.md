@@ -1,7 +1,7 @@
 ---
 title: "Kauppatori (Market Square)"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 60.167653
 longitude: 24.952925
 ---

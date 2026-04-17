@@ -1,7 +1,7 @@
 ---
 title: "Kiasma"
 type: poi
-category: "Museum"
+tags: [things_to_do]
 address: "Mannerheiminaukio 2, 00100 Helsinki"
 url: "kiasma.fi"
 latitude: 60.17204

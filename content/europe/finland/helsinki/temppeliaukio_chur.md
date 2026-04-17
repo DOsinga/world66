@@ -1,7 +1,7 @@
 ---
 title: "Temppeliaukio Church"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 address: "Lutherinkatu 3, 00100 Helsinki"
 latitude: 60.17296
 longitude: 24.925227

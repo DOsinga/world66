@@ -1,11 +1,12 @@
 ---
-title: Jasper
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 52.8737
 longitude: -117.9543
-done:
-  location_cleanup: 2026-04-02
 score: 0.75
+title: Jasper
+type: location
 ---
 
 Jasper sits at the heart of the largest national park in the Canadian Rockies, a small mountain town of around 4,500 people surrounded by an almost absurd amount of wilderness. Unlike its busier neighbour Banff to the south, Jasper has kept a quieter, more laid-back character. The town itself is compact and walkable, with most restaurants and shops clustered along Patricia Street and Connaught Drive.

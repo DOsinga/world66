@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 6.4902
 longitude: 2.659
+tags:
+- things_to_do
+- sight
 title: Grand Marché d'Adjara
 type: poi
 ---

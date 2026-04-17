@@ -1,7 +1,9 @@
 ---
-category: Museum
 latitude: 6.4967
 longitude: 2.6281
+tags:
+- things_to_do
+- museum
 title: Palais Royal (Musée Honmè)
 type: poi
 ---

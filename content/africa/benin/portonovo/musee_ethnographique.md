@@ -1,7 +1,9 @@
 ---
-category: Museum
 latitude: 6.4975
 longitude: 2.6255
+tags:
+- things_to_do
+- museum
 title: Musée Ethnographique de Porto-Novo
 type: poi
 ---

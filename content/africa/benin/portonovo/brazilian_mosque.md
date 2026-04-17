@@ -1,11 +1,13 @@
 ---
-category: Architecture
 latitude: 6.4972
 longitude: 2.624
 story: The building was erected by the Aguda community — Beninese descendants of freed
   Brazilian slaves who returned to Porto-Novo in the 19th century, bringing with them
   Portuguese-Baroque building styles, a taste for elaborate dress, and festival traditions
   that persist to this day.
+tags:
+- things_to_do
+- architecture
 title: Brazilian Mosque
 type: poi
 ---

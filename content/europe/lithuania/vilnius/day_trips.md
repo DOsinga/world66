@@ -1,19 +1,12 @@
 ---
-title: "Day Trips in Vilnius"
+title: Day Trips
 type: section
 ---
 
-Literatu str. in Vilnius Old Town **The wall with mounted artworks - dedications to the literature
-workers in the Vilnius old town.
-Literatų str.
-is situated very close to the main street of the Vilnius Old Town Pilies str. and is one of the
-attractive tourist places.**
-Artworks mounted on the
-walls of the Literatu street
-(Literatų gatvė) dedicated to the literature workers: writers,
-translators, everyone who has link with Lithuania and is important for
-lithuanian or world literature.
+### Literatų Street
 
-Various outdoor-proof techniques: ceramics, sculpture,
-glass, wallpainting.
-www. literatugatve.lt
+In the heart of the Old Town, just off Pilies Street, Literatų Street features a wall of mounted artworks — ceramics, sculptures, glass, and paintings — dedicated to writers and translators with connections to Lithuania and its literary heritage.
+
+### Trakai
+
+About 30 km west of Vilnius, the medieval island castle at Trakai sits on a lake and is one of Lithuania's most photographed sights. Frequent buses run from Vilnius bus station.

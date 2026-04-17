@@ -1,7 +1,7 @@
 ---
 title: "Rievaulx Abbey"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, abbey, ruins]
 latitude: 54.2533
 longitude: -1.1171
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Whitby Abbey"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, abbey, ruins]
 latitude: 54.4876
 longitude: -0.6066
 ---

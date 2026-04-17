@@ -1,0 +1,4 @@
+southamerica/paraguay/encarnacion
+southamerica/peru/lambayeque
+southamerica/peru/northern_pacific_t/jan
+southamerica/peru/paracas

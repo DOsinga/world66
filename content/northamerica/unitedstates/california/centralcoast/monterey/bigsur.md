@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 36.1437
 longitude: -121.5646
+score: 0.71
 title: Big Sur
 type: location
-score: 0.71
 ---
 
 Big Sur is one of the most dramatic stretches of coastline in the world. Highway 1 clings to cliffs that drop straight into the Pacific, redwood canyons cut down to the sea, and the light on a clear afternoon turns the ocean every shade of blue and green. It is not a town but a 90-mile wild corridor between Carmel in the north and San Simeon in the south, and the landscape is the whole point.

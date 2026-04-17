@@ -1,7 +1,7 @@
 ---
 title: "Praia da Luz Beach"
 type: poi
-category: Sight
+tags: [beaches, beach]
 latitude: 37.0865
 longitude: -8.7255
 ---

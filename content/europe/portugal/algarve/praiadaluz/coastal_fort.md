@@ -1,7 +1,7 @@
 ---
 title: "Coastal Fort"
 type: poi
-category: Architecture
+tags: [things_to_do, fort]
 latitude: 37.0861
 longitude: -8.7281
 ---

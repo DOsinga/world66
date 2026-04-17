@@ -1,7 +1,7 @@
 ---
 title: "Rocha Negra"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 37.0882
 longitude: -8.7191
 ---

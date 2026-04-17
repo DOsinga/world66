@@ -1,9 +1,12 @@
 ---
-title: 'River Po Day Trip'
-type: poi
 category: walking_tour
 latitude: 45.0553
 longitude: 7.6933
+tags:
+- day_trips
+- walking_tour
+title: River Po Day Trip
+type: poi
 ---
 
 From the Murazzi, the imposing embankment built in the Napoleonic era, you can take the river ferry upstream to Moncalieri, past Valentino Park and the green hills reflected in the water. Stroll the tree-lined avenues of the Valentino to admire the 17th-century castle and the Botanical Gardens, then visit the Borgo Medievale, an impeccable reproduction of a 15th-century castle built for the 1884 Great Exhibition.

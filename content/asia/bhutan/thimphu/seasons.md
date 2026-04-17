@@ -1,8 +1,9 @@
 ---
-title: "Seasons"
-type: poi
-address: "One block north and one block west of the traffic circle."
-type: "Italian"
+address: One block north and one block west of the traffic circle.
+tags:
+- eating_out
+title: Seasons
+type: Italian
 ---
 
 Seasons is the only place in Thimphu to get a pizza and while it may

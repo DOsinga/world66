@@ -1,6 +1,11 @@
 ---
 title: "Sokha Beach"
 type: poi
+tags:
+  - beaches
+  - beach
+  - swimming
+  - snorkelling
 latitude: 10.6083
 longitude: 103.5133
 ---

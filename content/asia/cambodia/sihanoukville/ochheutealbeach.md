@@ -1,6 +1,11 @@
 ---
 title: "Ochheuteal Beach"
 type: poi
+tags:
+  - beaches
+  - beach
+  - swimming
+  - seafood
 latitude: 10.5982
 longitude: 103.5319
 ---

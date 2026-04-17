@@ -7,6 +7,10 @@ longitude: 52.5378
 score: 0.5
 title: Shiraz
 type: location
+image: shiraz.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ba%C3%B1os_de_Vakil,_Shiraz,_Ir%C3%A1n,_2016-09-24,_DD_36-38_HDR.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
 ---
 
 Shiraz is Iran's city of poets, roses, and wine — the wine long gone, the roses and poetry very much intact. At 1,600 metres on a fertile plain ringed by mountains, the climate is unusually kind: mild winters, warm but not brutal summers, and air that carries the scent of orange blossom in spring.

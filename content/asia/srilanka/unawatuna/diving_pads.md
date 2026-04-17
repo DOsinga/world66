@@ -1,7 +1,10 @@
 ---
 title: "Scuba Diving"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - diving
+  - water_sports
 latitude: 6.0185
 longitude: 80.2490
 ---

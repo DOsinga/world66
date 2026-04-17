@@ -1,7 +1,10 @@
 ---
 title: "Surfing"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - surfing
+  - water_sports
 latitude: 6.0195
 longitude: 80.2465
 ---

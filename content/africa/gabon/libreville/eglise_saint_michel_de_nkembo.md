@@ -1,9 +1,13 @@
 ---
-title: "Eglise Saint-Michel de Nkembo"
-type: poi
-category: "Sight"
 latitude: 0.4042
 longitude: 9.4295
+tags:
+- things_to_do
+- sight
+- landmark
+- architecture
+title: Eglise Saint-Michel de Nkembo
+type: poi
 ---
 
 This church is worth visiting for its remarkable carved wooden columns depicting biblical scenes rendered in a distinctly Gabonese style. The craftsmanship is striking and unlike anything you will see in European churches.

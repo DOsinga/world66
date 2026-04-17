@@ -1,9 +1,11 @@
 ---
-title: "Musee des Arts et Traditions"
-type: poi
-category: "Museum"
 latitude: 0.4045
 longitude: 9.4425
+tags:
+- things_to_do
+- museum
+title: Musee des Arts et Traditions
+type: poi
 ---
 
 This small but excellent museum houses a collection of Gabonese masks, carved figures, and musical instruments from the country's many ethnic groups. The ritual masks are particularly striking, and the explanatory panels give useful context for the cultural traditions of the interior.

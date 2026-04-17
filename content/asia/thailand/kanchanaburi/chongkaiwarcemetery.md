@@ -1,7 +1,7 @@
 ---
 title: "Chong Kai War Cemetery"
 type: poi
-category: Sight
+tags: [things_to_do]
 latitude: 13.9988
 longitude: 99.5266
 ---

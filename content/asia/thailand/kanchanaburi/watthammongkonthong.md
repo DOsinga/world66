@@ -1,7 +1,7 @@
 ---
 title: "Wat Tham Mongkon Thong"
 type: poi
-category: Sight
+tags: [things_to_do]
 latitude: 13.9878
 longitude: 99.5132
 ---

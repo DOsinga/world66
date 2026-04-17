@@ -1,7 +1,7 @@
 ---
 title: "Wat Tham Khao Poon"
 type: poi
-category: Sight
+tags: [things_to_do]
 latitude: 13.9952
 longitude: 99.5239
 ---

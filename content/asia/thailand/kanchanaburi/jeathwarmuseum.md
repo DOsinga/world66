@@ -1,7 +1,7 @@
 ---
 title: "JEATH War Museum"
 type: poi
-category: Museum
+tags: [things_to_do]
 latitude: 14.0049
 longitude: 99.5498
 ---

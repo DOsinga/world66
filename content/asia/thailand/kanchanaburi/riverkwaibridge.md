@@ -1,7 +1,7 @@
 ---
 title: "Bridge on the River Kwai"
 type: poi
-category: Sight
+tags: [things_to_do]
 latitude: 14.0416
 longitude: 99.5038
 ---

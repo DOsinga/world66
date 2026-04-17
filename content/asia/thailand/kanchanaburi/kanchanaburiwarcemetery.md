@@ -1,7 +1,7 @@
 ---
 title: "Kanchanaburi War Cemetery"
 type: poi
-category: Sight
+tags: [things_to_do]
 latitude: 14.0072
 longitude: 99.5458
 ---

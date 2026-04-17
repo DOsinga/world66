@@ -4,6 +4,8 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 28.371406
 longitude: -81.548959
+tags:
+- things_to_do
 title: Epcot
 type: poi
 ---

@@ -1,12 +1,14 @@
 ---
-title: "The Oilman's Inn"
-type: poi
-address: "21 Boyuk Gala St., Old City, Baku, Azerbaijan"
-phone: "418-1901 / 492-3526"
-type: "International"
-url: "baku.oilmansinn.com"
+address: 21 Boyuk Gala St., Old City, Baku, Azerbaijan
 latitude: 40.366214
 longitude: 49.835854
+phone: 418-1901 / 492-3526
+tags:
+- eating_out
+- restaurant
+title: The Oilman's Inn
+type: International
+url: baku.oilmansinn.com
 ---
 
 Situated in the Old City / Icheri Sheher ( centre of Baku, Azerbaijan

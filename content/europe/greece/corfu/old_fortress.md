@@ -1,7 +1,7 @@
 ---
 title: "Old Fortress"
 type: poi
-category: "Architecture"
+tags: [things_to_do, sight, castle]
 latitude: 39.6238
 longitude: 19.9296
 ---

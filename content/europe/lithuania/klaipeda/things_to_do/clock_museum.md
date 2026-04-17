@@ -1,7 +1,7 @@
 ---
 title: "Clock and Watch Museum"
 type: poi
-category: "Museum"
+tags: [things_to_do, museum]
 address: "12 Liepų Street"
 opening_hours: "Tue-Sat 12:00-18:00 (Mar-Oct), 11:00-17:00 (Nov-Feb)"
 phone: "+370 46 410413"

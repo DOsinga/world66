@@ -1,7 +1,7 @@
 ---
 title: "Lithuanian Sea Museum"
 type: poi
-category: "Museum"
+tags: [things_to_do, museum]
 address: "Smiltynes str. 3, Smiltyne (Curonian Spit)"
 opening_hours: "Tue-Sun 10:30-18:30 (summer); reduced hours off-season"
 phone: "+370 46 490754"

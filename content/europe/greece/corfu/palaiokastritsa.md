@@ -1,7 +1,7 @@
 ---
 title: "Palaiokastritsa"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight]
 latitude: 39.6653
 longitude: 19.6978
 ---

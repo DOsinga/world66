@@ -1,7 +1,7 @@
 ---
 title: "Bârsana Monastery"
 type: poi
-category: "Sight"
+tags: [things_to_do, church]
 latitude: 47.7933
 longitude: 24.0919
 ---

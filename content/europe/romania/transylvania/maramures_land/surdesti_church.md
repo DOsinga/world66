@@ -1,7 +1,7 @@
 ---
 title: "Șurdești Church"
 type: poi
-category: "Sight"
+tags: [things_to_do, church]
 latitude: 47.6000
 longitude: 23.7667
 ---

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: -22.6762
 longitude: 14.5253
+score: 0.56
 title: Swakopmund
 type: location
-score: 0.56
 ---
 
 Swakopmund sits at a collision of worlds: the cold Atlantic on one side, the oldest desert on earth on the other, and in the middle a town that looks as though it was transplanted wholesale from a Bavarian market square. The German colonial architecture — turrets, towers, Jugendstil facades — is not a veneer. It is the bones of the place, and the contrast with the surrounding dunes and fog-draped coast is genuinely strange and genuinely wonderful.

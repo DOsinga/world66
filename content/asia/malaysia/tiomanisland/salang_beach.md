@@ -1,6 +1,11 @@
 ---
 title: "Salang Beach"
 type: poi
+tags:
+  - beaches
+  - beach
+  - snorkelling
+  - diving
 latitude: 2.874404
 longitude: 104.153320
 ---

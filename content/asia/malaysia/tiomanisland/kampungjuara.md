@@ -1,6 +1,11 @@
 ---
 title: "Kampung Juara"
 type: poi
+tags:
+  - beaches
+  - beach
+  - village
+  - surfing
 latitude: 2.795209
 longitude: 104.202572
 ---

@@ -1,5 +1,5 @@
 ---
-category: Sight
+tags: [things_to_do, sight]
 latitude: 52.9239
 longitude: 4.7425
 story: Fort Kijkduin was built on the order of King Louis Napoleon and completed in

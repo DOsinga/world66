@@ -1,5 +1,5 @@
 ---
-category: Museum
+tags: [things_to_do, museum]
 latitude: 52.963
 longitude: 4.7843
 title: Reddingsmuseum Dorus Rijkers

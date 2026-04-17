@@ -1,7 +1,8 @@
 ---
-title: "Eating Out in Coquitlam"
-type: section
-type: "general"
+tags:
+- coquitlam
+title: Eating Out in Coquitlam
+type: general
 ---
 
 A number of fine restaurants can be found in the communities surrounding Vancouver. Below are listed some of the Coquitlam restaurants we've received reviews on.

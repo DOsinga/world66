@@ -1,9 +1,12 @@
 ---
-title: "George C. Reifel Bird Sanctuary"
-type: poi
-category: "Sight"
+category: Sight
 latitude: 49.1025
 longitude: -123.1836
+tags:
+- things_to_do
+- delta
+title: George C. Reifel Bird Sanctuary
+type: poi
 ---
 
 One of British Columbia's best locations for watching waterfowl, the Reifel Sanctuary is an important migratory stopover and wintering area with over 230 species recorded. It sits in an estuarine marsh on Westham Island, about 6 miles west of Ladner (roughly 40 minutes from downtown Vancouver), accessible by car or bike.

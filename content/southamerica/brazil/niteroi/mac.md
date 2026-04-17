@@ -1,9 +1,11 @@
 ---
-category: Museum
 done:
   location_cleanup: '2026-04-09'
 latitude: -22.9061
 longitude: -43.1253
+tags:
+- things_to_do
+- museum
 title: Museu de Arte Contemporânea
 type: poi
 ---

@@ -1,9 +1,11 @@
 ---
-title: Black River Falls
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 44.295215
 longitude: -90.848414
 score: 0.34
+title: Black River Falls
+type: location
 ---
 
 The City of Black River falls is a historic and friendly community in the heart of west central Wisconsin and is the County Seat for Jackson County, designated in 1853. The City is centrally located in Jackson County with the villages of Melrose, Taylor, Histon, Alma Center and Merrillan within a 15 mile radius. A good network of County Trunk Roads and State Highways link the villages to each other and to the city.

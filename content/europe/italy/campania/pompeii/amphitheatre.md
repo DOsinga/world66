@@ -1,7 +1,7 @@
 ---
 title: "Amphitheatre"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 40.748056
 longitude: 14.494444
 ---

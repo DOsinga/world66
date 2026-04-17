@@ -1,6 +1,8 @@
 ---
 title: "Shousuke Don"
 type: poi
+tags:
+  - bars_and_cafes
 latitude: 43.0567
 longitude: 141.3530
 ---

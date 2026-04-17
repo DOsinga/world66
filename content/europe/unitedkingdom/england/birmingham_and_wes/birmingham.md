@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 52.4797
 longitude: -1.9027
+score: 0.45
 title: Birmingham
 type: location
-score: 0.45
 ---
 
 Birmingham is Britain's second city and it has spent the last few decades proving it deserves the title. Built on industry -- this is where the Industrial Revolution found its workforce -- the city spent much of the twentieth century living down a reputation for concrete brutalism and spaghetti motorways. That era is over. The centre has been transformed, the canal network rivals Venice for total length, and the cultural scene punches well above its weight.

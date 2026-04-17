@@ -1,7 +1,12 @@
 ---
 title: "Shwe Oo Min Paya (Pindaya Caves)"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - cave
+  - temple
+  - pilgrimage
+  - historic_site
 latitude: 20.9264
 longitude: 96.6671
 story: >

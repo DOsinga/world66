@@ -1,7 +1,10 @@
 ---
 title: "Shan Umbrella Workshops"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - crafts
+  - workshop
 latitude: 20.9231
 longitude: 96.6690
 ---

@@ -1,5 +1,6 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
 image: port_of_spain.jpg
 image_attribution: Christianwelsh at en.wikipedia

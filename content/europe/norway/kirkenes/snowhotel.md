@@ -1,7 +1,7 @@
 ---
 title: "Kirkenes Snow Hotel"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight]
 url: "www.snowhotelkirkenes.com"
 latitude: 69.7406
 longitude: 29.9853

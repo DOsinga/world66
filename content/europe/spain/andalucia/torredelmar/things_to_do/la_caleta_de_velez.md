@@ -1,7 +1,7 @@
 ---
 title: "La Caleta de Vélez"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, harbour]
 latitude: 36.7469
 longitude: -4.0694
 ---

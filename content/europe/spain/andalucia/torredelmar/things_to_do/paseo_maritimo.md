@@ -1,7 +1,7 @@
 ---
 title: "Paseo Marítimo"
 type: poi
-category: "Neighbourhood"
+tags: [things_to_do, neighbourhood, promenade]
 latitude: 36.7414
 longitude: -4.0971
 ---

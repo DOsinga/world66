@@ -1,7 +1,7 @@
 ---
 title: "King Crab Safari"
 type: poi
-category: "Sight"
+tags: [things_to_do, tour]
 latitude: 69.7271
 longitude: 30.0449
 ---

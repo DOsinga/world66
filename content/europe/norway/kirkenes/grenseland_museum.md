@@ -1,7 +1,7 @@
 ---
 title: "Grenselandmuseet"
 type: poi
-category: "Museum"
+tags: [things_to_do, museum]
 address: "Førstevannslia, Kirkenes"
 phone: "+47 78 99 48 80"
 url: "www.varangermuseum.no"

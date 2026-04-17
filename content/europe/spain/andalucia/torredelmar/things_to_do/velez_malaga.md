@@ -1,7 +1,7 @@
 ---
 title: "Vélez-Málaga Old Town"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, old_town]
 latitude: 36.7789
 longitude: -4.1011
 ---

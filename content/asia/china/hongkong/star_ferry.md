@@ -3,6 +3,7 @@ address: Star Ferry Pier, Tsim Sha Tsui, Kowloon
 latitude: 22.2935
 longitude: 114.1686
 tags:
+- kowloon
 - things_to_do
 title: Star Ferry
 type: poi

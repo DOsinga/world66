@@ -1,11 +1,10 @@
 ---
-title: "Sights"
+accessibility: Some trails Wheel Chair Accessible, bathrooms are accessible
+address: Sabino Cyn Rd at Sunrise Dr
+phone: 520/749-2861
+title: Sights
 type: section
-accessibility: "Some trails Wheel Chair Accessible, bathrooms are accessible"
-address: "Sabino Cyn Rd at Sunrise Dr"
-phone: "520/749-2861"
-type: "Parks, Gardens and Zoos"
-url: "www.sabinocanyon.org"
+url: www.sabinocanyon.org
 ---
 
 ### Display all

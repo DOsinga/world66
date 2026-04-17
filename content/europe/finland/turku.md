@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 60.451594
 longitude: 22.266999
+score: 0.54
 title: Turku
 type: location
-score: 0.54
 ---
 
 Turku is Finland's oldest city and, until 1812, its capital — a distinction locals haven't quite let go of. After a catastrophic fire in 1828 destroyed most of the city, Turku rebuilt itself and evolved into a lively university town with two universities and a student population that keeps the restaurants, bars and riverside terraces buzzing year-round.

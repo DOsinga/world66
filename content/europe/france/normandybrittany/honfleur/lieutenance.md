@@ -1,7 +1,7 @@
 ---
 title: "Lieutenance"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 49.420997
 longitude: 0.233554
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Église Sainte-Catherine"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 address: "Place Sainte-Catherine"
 latitude: 49.4185
 longitude: 0.2330

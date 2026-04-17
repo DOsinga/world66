@@ -1,6 +1,7 @@
 ---
 title: "L'Absinthe"
 type: poi
+tags: [eating_out]
 address: "10, quai de la Quarantaine"
 latitude: 49.4193
 longitude: 0.2337

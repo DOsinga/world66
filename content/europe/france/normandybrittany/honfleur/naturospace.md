@@ -1,7 +1,7 @@
 ---
 title: "Naturospace"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 address: "Boulevard Charles V"
 latitude: 49.4228
 longitude: 0.2295

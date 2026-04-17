@@ -1,6 +1,11 @@
 ---
 title: "River No. 2"
 type: poi
+tags:
+  - beaches
+  - beach
+  - swimming
+  - nature
 latitude: 8.3396
 longitude: -13.1879
 ---

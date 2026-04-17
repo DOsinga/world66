@@ -1,6 +1,10 @@
 ---
 title: "Lakka Beach"
 type: poi
+tags:
+  - beaches
+  - beach
+  - swimming
 latitude: 8.3915
 longitude: -13.2639
 ---

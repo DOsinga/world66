@@ -1,18 +1,9 @@
 ---
-title: "Ordubad History Museum"
+latitude: 38.9063
+longitude: 46.0229
+tags: [things_to_do, museum]
+title: Ordubad History Museum
 type: poi
-address: "Address: 19 F.Zeynalov st., Ordubad town"
 ---
 
-Ordubad History Museum– was established in 1981 and allocated in Djuma-mosque building. The Museum covers 650 square meters and consists of 8 departments. Here it is being exhibited history and culture of Ordubad Region since the most ancient period of time till present time. The Museum collected such articles as national art works, music instruments, national wear and featured decorations, painting works, sculptor and applied art samples, ancient numismatic materials, wood works, jewelers works, coppersmith works and ceramist products, decorative things, carpets, photo pictures, documents and others – total 400 pieces of exponents. There are available archive and library. In the territory of the museum the discovered excavations also occupies important role.
-
-Address: 19 F.Zeynalov st., Ordubad town
-
-**Contributors**
-April 18, 2006
-
-
-
-
-
-address: Address: 19 F.Zeynalov st., Ordubad town
+Established in 1981 and housed in the Juma Mosque building, the Ordubad History Museum covers the history and culture of the Ordubad region from ancient times to the present. The collection spans eight departments and includes national art, musical instruments, traditional costumes and jewellery, paintings, sculpture, applied arts, ancient coins, woodwork, coppersmith and ceramics, carpets, photographs, and archival documents — around 400 exhibits in total. Archaeological finds from local excavations are also on display.

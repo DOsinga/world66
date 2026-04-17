@@ -1,7 +1,9 @@
 ---
 title: "Grotte di Castellana"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: 40.8816
 longitude: 17.1638
 story: >

@@ -2,6 +2,8 @@
 category: Sight
 latitude: 17.976664
 longitude: 102.63649
+tags:
+- things_to_do
 title: Pha That Luang
 type: poi
 ---

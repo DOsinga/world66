@@ -2,6 +2,8 @@
 category: Museum
 latitude: 17.962555
 longitude: 102.614789
+tags:
+- things_to_do
 title: Wat Ho Phra Keo
 type: poi
 ---

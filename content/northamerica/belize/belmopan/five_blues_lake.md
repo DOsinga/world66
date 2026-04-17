@@ -1,7 +1,10 @@
 ---
 title: "Five Blues Lake"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - nature
+  - hiking
 address: "St Margaret's Village, off the Hummingbird Highway"
 latitude: 17.0583
 longitude: -88.7067

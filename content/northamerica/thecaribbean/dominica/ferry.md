@@ -1,5 +1,8 @@
 ---
-title: "By Ferry"
+tags:
+- getting_there
+- sight
+title: By Ferry
 type: poi
 ---
 

@@ -1,5 +1,8 @@
 ---
-title: "By Air"
+tags:
+- getting_there
+- sight
+title: By Air
 type: poi
 ---
 

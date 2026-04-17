@@ -1,7 +1,9 @@
 ---
 title: "Chellah"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 34.006374
 longitude: -6.820782
 ---

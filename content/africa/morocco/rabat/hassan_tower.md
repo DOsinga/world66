@@ -1,7 +1,9 @@
 ---
 title: "Hassan Tower"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 34.0240
 longitude: -6.8215
 story: "Sultan Yacoub al-Mansour intended it to be the minaret of the largest mosque in the world. He died in 1199 before it was finished; at 44 metres, it stands at less than half its planned height. The earthquake of 1755 toppled what was built of the mosque itself, leaving only the columns."

@@ -1,7 +1,9 @@
 ---
 title: "Kasbah des Oudaya"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 34.031657
 longitude: -6.835847
 ---

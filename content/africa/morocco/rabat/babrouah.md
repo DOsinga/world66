@@ -1,7 +1,10 @@
 ---
 title: "Bab Rouah"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - shopping
+  - sight
 latitude: 34.012823
 longitude: -6.837541
 ---

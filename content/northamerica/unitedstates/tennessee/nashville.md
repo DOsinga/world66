@@ -1,11 +1,12 @@
 ---
-title: Nashville
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 36.162277
 longitude: -86.774298
-done:
-  location_cleanup: 2026-04-05
 score: 0.6
+title: Nashville
+type: location
 ---
 
 Nashville is the capital of country music and one of the most visited cities in the American South. The Broadway strip — blocks of honky-tonks, neon signs, and live music spilling out of every door — is the face the city shows to the world. But Nashville is also a college town (Vanderbilt, Belmont, Fisk), a major healthcare hub, and a city that has been reinventing itself for twenty years. East Nashville, once overlooked, is now dense with restaurants and independent businesses. The Gulch has become a polished, walkable neighbourhood of new hotels and good eating. The food scene, long rooted in Southern comfort food and the meat-and-three tradition, has broadened considerably.

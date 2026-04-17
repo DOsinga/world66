@@ -1,7 +1,9 @@
 ---
 title: "Villa Romana del Casale"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: 37.3660
 longitude: 14.3369
 ---

@@ -1,10 +1,11 @@
 ---
-title: "Higienópolis"
-type: poi
-address: "Av Higienopolis"
-type: "Shopping centers and malls"
+address: Av Higienopolis
 latitude: -23.473479
 longitude: -53.08595
+tags:
+- shopping
+title: Higienópolis
+type: Shopping centers and malls
 ---
 
 flowers

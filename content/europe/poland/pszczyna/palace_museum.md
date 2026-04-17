@@ -1,7 +1,7 @@
 ---
 title: Pszczyna Palace Museum
 type: poi
-category: Museum
+tags: [things_to_do, museum]
 latitude: 49.9781
 longitude: 18.9421
 ---

@@ -1,7 +1,7 @@
 ---
 title: Market Square
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 49.9786
 longitude: 18.9449
 ---

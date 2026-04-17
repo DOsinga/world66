@@ -1,7 +1,7 @@
 ---
 title: Palace Park and Bison Reserve
 type: poi
-category: Sight
+tags: [things_to_do, park]
 latitude: 49.9795
 longitude: 18.9385
 ---

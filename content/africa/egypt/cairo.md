@@ -1,15 +1,16 @@
 ---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+image: cairo.jpg
+image_attribution: Roland Unger
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:CairoAbbasiyaMarkEntrance-Cropped.jpg
 latitude: 30.044388
 longitude: 31.235726
+score: 0.82
 title: Cairo
 type: location
-done:
-  location_cleanup: 2026-04-05
-score: 0.82
-image: cairo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:CairoAbbasiyaMarkEntrance-Cropped.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Roland Unger
 ---
 
 Travel Guide

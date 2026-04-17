@@ -1,7 +1,8 @@
 ---
 title: "UN Memorial Cemetery"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
 latitude: 35.136944
 longitude: 129.09528
 ---

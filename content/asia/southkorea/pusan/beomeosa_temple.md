@@ -1,7 +1,8 @@
 ---
 title: "Beomeosa Temple"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
 latitude: 35.281988
 longitude: 129.07111
 ---

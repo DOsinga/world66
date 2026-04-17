@@ -1,7 +1,8 @@
 ---
 title: "Haeundae Beach"
 type: poi
-category: "Sight"
+tags:
+  - beaches
 latitude: 35.157781
 longitude: 129.158132
 ---

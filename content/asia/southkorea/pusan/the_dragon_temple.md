@@ -1,7 +1,8 @@
 ---
 title: "Haedong Yonggungsa Temple"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
 latitude: 35.188007
 longitude: 129.225082
 ---

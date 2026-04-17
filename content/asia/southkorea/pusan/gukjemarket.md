@@ -1,7 +1,8 @@
 ---
 title: "Gukje Market"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
 latitude: 35.101164
 longitude: 129.028192
 ---

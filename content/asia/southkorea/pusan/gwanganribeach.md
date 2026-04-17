@@ -1,7 +1,8 @@
 ---
 title: "Gwangalli Beach"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
 latitude: 35.150888
 longitude: 129.116655
 ---

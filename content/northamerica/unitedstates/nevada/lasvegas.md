@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 36.167426
 longitude: -115.148413
+score: 0.69
 title: Las Vegas
 type: location
-score: 0.69
 ---
 
 Viva Las Vegas! Rising like a mirage from the Mojave Desert, Las Vegas is a city built on spectacle. The neon-lit casinos along the Strip -- Roman palaces, Egyptian pyramids, Parisian landmarks -- contrast sharply with the dry, barren landscape surrounding them.

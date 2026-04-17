@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 47.2596
 longitude: -0.0785
+score: 0.63
 title: Saumur
 type: location
-score: 0.63
 ---
 
 Saumur sits halfway between [Tours](/europe/france/centre/loirevalley/tours) and [Angers](/europe/france/centre/loirevalley/angers) on the Loire, its château rising dramatically above a town of white tuffeau stone mansions and tree-lined streets. It is one of the more handsome cities in the valley — unhurried, compact enough to walk, and serious about its two great pleasures: wine and horses.

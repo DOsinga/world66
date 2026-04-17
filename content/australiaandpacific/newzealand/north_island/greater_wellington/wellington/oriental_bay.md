@@ -1,6 +1,7 @@
 ---
 title: "Oriental Bay"
 type: poi
+tags: [beaches]
 address: "Oriental Parade"
 latitude: -41.291212
 longitude: 174.789842

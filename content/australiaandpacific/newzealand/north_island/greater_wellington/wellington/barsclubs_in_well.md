@@ -1,6 +1,7 @@
 ---
 title: "Courtenay Place Bars"
 type: poi
+tags: [bars_and_cafes]
 latitude: -41.2937
 longitude: 174.7811
 ---

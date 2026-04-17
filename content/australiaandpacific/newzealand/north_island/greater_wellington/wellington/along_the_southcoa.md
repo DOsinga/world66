@@ -1,6 +1,7 @@
 ---
 title: "South Coast Beaches"
 type: poi
+tags: [beaches]
 latitude: -41.3270
 longitude: 174.8050
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Te Papa Tongarewa"
 type: poi
-category: "Museum"
+tags: [things_to_do]
 latitude: -41.2904
 longitude: 174.7820
 ---

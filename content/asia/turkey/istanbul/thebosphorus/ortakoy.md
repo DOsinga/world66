@@ -1,7 +1,7 @@
 ---
 title: "Ortakoy"
 type: poi
-category: "Neighbourhood"
+tags: [things_to_do, neighbourhood, sights]
 latitude: 41.054627
 longitude: 29.02819
 ---

@@ -1,7 +1,7 @@
 ---
 title: "St Nicholas Russian Church"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 address: "3 Tsar Osvoboditel Blvd"
 latitude: 42.695694
 longitude: 23.328935

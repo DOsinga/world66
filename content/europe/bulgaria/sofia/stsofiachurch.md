@@ -1,7 +1,7 @@
 ---
 title: "St. Sofia Basilica"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 42.696557
 longitude: 23.331391
 ---

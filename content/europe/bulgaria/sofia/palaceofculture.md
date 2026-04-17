@@ -1,7 +1,7 @@
 ---
 title: "Palace of Culture"
 type: poi
-category: "Architecture"
+tags: [things_to_do]
 latitude: 42.68476
 longitude: 23.318942
 ---

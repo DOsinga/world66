@@ -1,7 +1,7 @@
 ---
 title: "Alexander Nevsky Cathedral"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 42.695812
 longitude: 23.332793
 ---

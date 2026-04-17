@@ -7,6 +7,10 @@ longitude: -121.890591
 score: 0.43
 title: San Jose
 type: location
+image: sanjose.jpg
+image_source: https://commons.wikimedia.org/wiki/File:A_long_line_for_exchange_money_-_San_Jose_Costa_Rica_August_2008.jpg
+image_license: CC BY 2.0
+image_attribution: Nao Iizuka
 ---
 
 San Jose is the largest city in the San Francisco Bay Area and the capital of Silicon Valley — a sprawling, low-rise city whose significance is technological rather than scenic. The original Spanish pueblo was founded in 1777, making it the oldest civil settlement in California, but almost nothing of colonial San Jose survives.

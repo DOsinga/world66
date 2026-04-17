@@ -7,6 +7,10 @@ longitude: -89.6237
 score: 0.73
 title: Tikal
 type: location
+image: tikal.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Plaza_of_the_Seven_Temples,_Tikal_10.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Simon Burchell
 ---
 
 Tikal is the greatest Maya ruin in Guatemala and one of the most impressive archaeological sites anywhere in the Americas. Located in the northern Petén jungle, 65 km from [Flores](/northamerica/guatemala/flores), it is a UNESCO World Heritage Site — designated both for its cultural and natural significance.

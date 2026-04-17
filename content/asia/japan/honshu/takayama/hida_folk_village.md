@@ -1,8 +1,8 @@
 ---
 title: "Hida Folk Village (Hida no Sato)"
 type: poi
-category: museums
 address: "1-590 Kamiokamoto-machi, Takayama"
+tags: [things_to_do, museum]
 url: "www.hidanosato.jp"
 latitude: 36.148601
 longitude: 137.233891

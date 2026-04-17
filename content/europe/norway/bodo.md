@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 67.2844
 longitude: 14.3818
+score: 0.53
 title: Bodø
 type: location
-score: 0.53
 ---
 
 Bodø sits just above the Arctic Circle on Norway's northwest coast, the largest city in Nordland county and the northern terminus of the Nordlandsbanen railway. It is the main jumping-off point for the Lofoten islands, with daily express ferries, Hurtigruten coastal voyages, and frequent flights connecting the archipelago to the mainland.

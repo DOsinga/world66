@@ -1,7 +1,7 @@
 ---
 title: "Silliman University"
 type: poi
-category: "Sight"
+tags: [things_to_do, poi]
 latitude: 9.3085
 longitude: 123.3078
 ---

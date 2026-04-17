@@ -1,6 +1,7 @@
 ---
 title: "Chin Loong"
 type: poi
+tags: [eating_out, poi]
 address: "Rizal Boulevard, Dumaguete City"
 latitude: 9.3052
 longitude: 123.2985

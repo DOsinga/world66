@@ -1,6 +1,7 @@
 ---
 title: "Persian Palate"
 type: poi
+tags: [eating_out, poi]
 latitude: 9.3052
 longitude: 123.3012
 ---

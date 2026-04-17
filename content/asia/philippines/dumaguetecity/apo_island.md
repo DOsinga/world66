@@ -1,7 +1,7 @@
 ---
 title: "Apo Island"
 type: poi
-category: "Sight"
+tags: [things_to_do, poi]
 latitude: 9.0867
 longitude: 123.2700
 story: "Apo Island's marine sanctuary was established in 1982 by the local fishing community — one of the first community-managed marine reserves in the Philippines. It is now considered one of the best examples of successful local marine conservation in Southeast Asia, with fish biomass several times higher inside the reserve than outside."

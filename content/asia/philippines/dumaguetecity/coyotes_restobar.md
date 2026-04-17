@@ -1,6 +1,7 @@
 ---
 title: "Coyotes Resto-Bar"
 type: poi
+tags: [bars_and_cafes, poi]
 address: "South Highway, Banilad, Dumaguete City"
 phone: "09057789299"
 latitude: 9.260896

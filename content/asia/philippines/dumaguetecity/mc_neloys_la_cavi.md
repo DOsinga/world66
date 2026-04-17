@@ -1,6 +1,7 @@
 ---
 title: "Mc Neloy's La Cavitena"
 type: poi
+tags: [eating_out, poi]
 address: "Silliman Ave., Dumaguete City"
 phone: "0352254502"
 latitude: 9.310203

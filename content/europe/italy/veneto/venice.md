@@ -1,13 +1,15 @@
 ---
-title: Venice
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+image: venice.jpg
+image_attribution: Didier Descouens
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chiesa_del_Redentore_(Venice).jpg
 latitude: 45.437191
 longitude: 12.33459
 score: 0.96
-image: venice.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Chiesa_del_Redentore_(Venice).jpg
-image_license: CC BY-SA 4.0
-image_attribution: Didier Descouens
+title: Venice
+type: location
 ---
 
 Maybe you expect **Venice** to be one dazzling, romantic, fairytale-like labyrinth of canals, alleys, picturesque houses and impressive squares and buildings. Well, you are right then (although it is also dirty, run down and rather smelly in the summer heat). The best thing to do is wander around and get lost for at least a day. Roam the winding streets and the various *piazzas* and see the melting pot of architectural styles. When you are interested in Venetian painting, you can bathe in the collections of paintings from artists such as Titian and members of the school of Murano. The Galleria di Palazzo Cini, for instance, houses the private art collection of Vittorio Cini, the wealthiest Venetian art collector of this century. His collection includes paintings from the Tuscan Renaissance and the school of Ferrara. Find your own musical inspiration in this city, whether by seeing a Venetian Opera composed by Montiverdi (the Titian of Music), visiting Campo Bandiera e Moro (the birthplace of Vivaldi) or listen to baroque music played (on a 18th century organ) in the Santa Maria Della Favaon at the Sunday mass. 

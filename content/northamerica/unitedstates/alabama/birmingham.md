@@ -1,11 +1,12 @@
 ---
-title: Birmingham
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 33.5207
 longitude: -86.8024
-done:
-  location_cleanup: 2026-04-06
 score: 0.38
+title: Birmingham
+type: location
 ---
 
 Birmingham is the most important city in the American civil rights story. The Birmingham Civil Rights Institute, the 16th Street Baptist Church where four young girls were killed in a 1963 bombing, and Kelly Ingram Park where fire hoses and police dogs were turned on peaceful protesters -- all stand within a few blocks of each other downtown. No other city in the country puts you so directly in the places where the movement happened.

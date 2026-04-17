@@ -1,9 +1,10 @@
 ---
-title: "Marie Min Vegetarian Restaurant"
-type: poi
-type: "Vegetarian"
 latitude: 21.981539
 longitude: 96.093167
+tags:
+- eating_out
+title: Marie Min Vegetarian Restaurant
+type: Vegetarian
 ---
 
 The LP says "a godsend for travellers". This is true. Everything from

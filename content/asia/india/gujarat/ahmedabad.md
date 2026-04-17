@@ -7,6 +7,10 @@ longitude: 72.580057
 score: 0.54
 title: Ahmedabad
 type: location
+image: ahmedabad.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ahmedabad_1855.jpg
+image_license: Public domain
+image_attribution: Various
 ---
 
 Ahmedabad is Gujarat's largest city and its cultural heart, founded by Sultan Ahmed Shah in 1411 on the banks of the river Sabarmati. You might know it as the city where Mahatma Gandhi established his ashram, which remains a national pilgrimage site on the river's western bank.

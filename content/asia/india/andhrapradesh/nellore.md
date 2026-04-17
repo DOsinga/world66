@@ -7,6 +7,10 @@ longitude: 79.987376
 score: 0.3
 title: Nellore
 type: location
+image: nellore.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bridge_under_construction_on_Penna_river_near_Nellore_(May_2019)_1.jpg
+image_license: CC BY-SA 4.0
+image_attribution: IM3847
 ---
 
 Nellore sits on the southern bank of the Pennar River, about 170 km north of Chennai along the coast of Andhra Pradesh. It's a workaday market city — cotton, oilseed, and the busy Krishnapatnam port drive the local economy — but the surrounding district rewards those willing to venture out. Long stretches of undeveloped coastline, a flamingo sanctuary, ancient temples on the riverbanks, and the ruined hilltop fort at Udayagiri all lie within easy reach.

@@ -1,7 +1,10 @@
 ---
 title: "Sgt Major Thawee Folk Museum"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
+  - folk_museum
 address: "Visut Kasat Road, Phitsanulok"
 latitude: 16.8133
 longitude: 100.2631

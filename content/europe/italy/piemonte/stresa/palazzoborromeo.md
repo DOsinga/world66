@@ -1,7 +1,7 @@
 ---
 title: 'Palazzo Borromeo'
 type: poi
-category: historic_site
+tags: [things_to_do, sight, palace]
 address: 'Isola Bella'
 phone: '0323/30556'
 latitude: 45.8954

@@ -1,7 +1,7 @@
 ---
 title: 'Museo Rosminiano'
 type: poi
-category: museum
+tags: [things_to_do, museum]
 address: 'Villa Ducale, Corso Umberto I'
 phone: '0323/30091'
 latitude: 45.8810

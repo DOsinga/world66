@@ -1,7 +1,7 @@
 ---
 title: 'Giardino Alpinia'
 type: poi
-category: garden
+tags: [things_to_do, park]
 latitude: 45.8823
 longitude: 8.5007
 ---

@@ -1,5 +1,9 @@
 ---
-title: "Sultan's Palace"
+latitude: 16.973
+longitude: 7.991
+tags:
+- things_to_do
+title: Sultan's Palace
 type: poi
 ---
 

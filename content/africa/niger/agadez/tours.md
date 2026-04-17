@@ -1,5 +1,5 @@
 ---
-title: "Tours"
+title: Tours
 type: section
 ---
 

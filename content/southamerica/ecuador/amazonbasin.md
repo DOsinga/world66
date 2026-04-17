@@ -1,9 +1,10 @@
 ---
-title: Amazon basin
-type: location
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
 score: 0.64
+title: Amazon basin
+type: location
 ---
 
 **AMAZON IN ECUADOR** **TOP**

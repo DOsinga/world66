@@ -1,5 +1,5 @@
 ---
-title: "Sights"
+title: Sights
 type: section
 ---
 

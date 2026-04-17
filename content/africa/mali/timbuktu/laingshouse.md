@@ -1,7 +1,9 @@
 ---
 title: "Laing's House"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 16.7719
 longitude: -3.0065
 ---

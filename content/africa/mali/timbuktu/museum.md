@@ -1,7 +1,9 @@
 ---
 title: "Timbuktu Museum"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
+  - museum
 latitude: 16.7713
 longitude: -3.0056
 ---

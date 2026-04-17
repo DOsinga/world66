@@ -1,7 +1,9 @@
 ---
 title: "Grand Marche"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 16.7730
 longitude: -3.0074
 ---

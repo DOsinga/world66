@@ -1,7 +1,9 @@
 ---
 title: "Tuareg Camps"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 16.7800
 longitude: -3.0000
 ---

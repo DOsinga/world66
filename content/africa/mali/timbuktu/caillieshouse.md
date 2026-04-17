@@ -1,7 +1,9 @@
 ---
 title: "Caillie's House"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 16.7714
 longitude: -3.0072
 ---

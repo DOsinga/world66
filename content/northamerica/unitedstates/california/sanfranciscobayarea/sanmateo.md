@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: 37.563
 longitude: -122.3255
+score: 0.37
 title: San Mateo
 type: location
-score: 0.37
 ---
 
 San Mateo sits at the geographic center of the San Francisco Peninsula, halfway between San Francisco and San Jose, and it shows: the city has the workaday confidence of a place that doesn't need to prove anything. It's a real town with a real downtown — tree-lined streets, independent restaurants, a walkable grid — set against the backdrop of the Santa Cruz Mountains to the west and the bay to the east.

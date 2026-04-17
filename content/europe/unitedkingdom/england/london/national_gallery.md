@@ -1,13 +1,17 @@
 ---
-title: "National Gallery"
-type: poi
-address: "Trafalgar Square, London WC2N 5DN"
-phone: "+44 20 7747 2885"
-url: "www.nationalgallery.org.uk"
-opening_hours: "Daily 10am-6pm, Fri until 9pm"
-admission: "Free (special exhibitions charged)"
+address: Trafalgar Square, London WC2N 5DN
+admission: Free (special exhibitions charged)
 latitude: 51.507437
 longitude: -0.128548
+opening_hours: Daily 10am-6pm, Fri until 9pm
+phone: +44 20 7747 2885
+tags:
+- things_to_do
+- museum
+- square
+title: National Gallery
+type: poi
+url: www.nationalgallery.org.uk
 ---
 
 The National Gallery houses one of the finest collections of Western European paintings in the world — over 2,300 works spanning from 1250 to 1900, displayed in a purpose-built neoclassical building facing Trafalgar Square. The permanent collection is entirely free.

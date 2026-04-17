@@ -1,8 +1,11 @@
 ---
 address: Art Gallery Rd, Sydney
-category: Sight
 latitude: -33.8645
 longitude: 151.2127
+tags:
+- things_to_do
+- museum
+- park
 title: The Domain
 type: poi
 ---

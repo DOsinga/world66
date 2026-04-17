@@ -1,12 +1,14 @@
 ---
-title: "www.nasir4u.com"
+accessibility: website
+address: ART COUNCIL OF PAKISTAN
+date: 30th october 2010
+email: nasir.foru@rediffmail.com
+phone: 0321-8745653
+tags:
+- festivals
+title: www.nasir4u.com
 type: poi
-accessibility: "website"
-address: "ART COUNCIL OF PAKISTAN"
-date: "30th october 2010"
-email: "nasir.foru@rediffmail.com"
-phone: "0321-8745653"
-url: "www.nasir4u.com"
+url: www.nasir4u.com
 ---
 
 WE ARE www.nasir4u.com WITH THA BRAND DA ARRANGERS PROUDLY ANNOUNCES **MEGA MUSICAL AND DANCE PARTY IN KARACHI**, MUSIC FESTIVAL IN ARTS COUNCIL AND PAKISTAN ON** SATURDAY 30TH OCTOBER 2010.**

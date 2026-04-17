@@ -1,8 +1,11 @@
 ---
-title: "Museum"
-type: poi
 latitude: 51.209459
 longitude: 4.394045
+tags:
+- things_to_do
+- museum
+title: Museum
+type: poi
 ---
 
 **Sights**

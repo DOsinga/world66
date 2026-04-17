@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 51.942307
 longitude: -116.721296
+tags:
+- things_to_do
 title: Mistaya Canyon .
 type: general
 ---

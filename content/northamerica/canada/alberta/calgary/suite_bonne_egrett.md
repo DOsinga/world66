@@ -1,7 +1,9 @@
 ---
-title: "Suite Bonne Egrette"
-type: poi
-type: "Chinese"
+tags:
+- eating_out
+- restaurant
+title: Suite Bonne Egrette
+type: Chinese
 ---
 
 type: Chinese

@@ -1,11 +1,14 @@
 ---
-title: "Testaccio"
-type: poi
-category: "Neighbourhood"
-admission: "Free"
+admission: Free
 latitude: 41.8776
 longitude: 12.4772
-tags: ["3 Days in Rome"]
+tags:
+- 3 Days in Rome
+- things_to_do
+- market
+- neighbourhood
+title: Testaccio
+type: poi
 ---
 
 Rome's most authentically working-class neighbourhood, built on a hill made entirely of broken Roman amphorae (the name comes from *testa*, shard). For centuries the city's slaughterhouse district, Testaccio remains Rome's best neighbourhood for eating — proper offal at Flavio al Velavevodetto, cacio e pepe at Felice, and the covered Mercato di Testaccio for produce and street food.

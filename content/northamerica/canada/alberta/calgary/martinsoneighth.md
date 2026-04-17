@@ -1,5 +1,8 @@
 ---
-title: "Martin's on Eighth ."
+tags:
+- eating_out
+- restaurant
+title: Martin's on Eighth .
 type: poi
 ---
 

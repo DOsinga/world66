@@ -1,14 +1,16 @@
 ---
-title: "Da Vittorio a Brusaporto"
-type: poi
-address: "Via Cantalupa 17, 24060 Brusaporto (Bergamo)"
-email: "info@davittorio.com"
-phone: "035 68 10 24/Fax 035 680849"
-price: "€45 business lunch excluding wine/€110 excluding wine"
-type: "Italian"
-url: "davittorio.com"
+address: Via Cantalupa 17, 24060 Brusaporto (Bergamo)
+email: info@davittorio.com
 latitude: 45.677678
 longitude: 9.771465
+phone: 035 68 10 24/Fax 035 680849
+price: €45 business lunch excluding wine/€110 excluding wine
+tags:
+- eating_out
+- restaurant
+title: Da Vittorio a Brusaporto
+type: Italian
+url: davittorio.com
 ---
 
 Da Vittorio's has moved out a few kilometers from Bergamo into the country at Brusaporto, a place surrounded by greenery, lakes and swimming pools. It also has a small hotel and is cited with two stars in the Michelin Guide. The atmosphere is very elegant and sophisticated of superior quality with great style and charm.

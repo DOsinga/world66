@@ -1,12 +1,15 @@
 ---
-title: "The Eaton Centre"
-type: poi
-address: "220 Yonge Street"
-phone: "(416) 598-8700"
-type: "Shopping centers and malls"
-url: "www.torontoeatoncentre.com"
+address: 220 Yonge Street
 latitude: 43.654146
 longitude: -79.380793
+phone: (416) 598-8700
+tags:
+- shopping
+- shop
+- restaurant
+title: The Eaton Centre
+type: Shopping centers and malls
+url: www.torontoeatoncentre.com
 ---
 
 Located on Yonge Street and stretching from Dundas south to Queen Street, The Eaton Centre has 285 shops, restaurants and services. Hours: Mon-Fri 10am-9pm, Sat 9am-7pm, Sun 12pm-6pm.

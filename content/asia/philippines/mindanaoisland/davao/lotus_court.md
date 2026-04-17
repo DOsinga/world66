@@ -1,10 +1,12 @@
 ---
-title: "Lotus Court"
-type: poi
-address: "Marco Polo Hotel, CM Recto Avenue, Davao City"
-phone: "63 82 221 0888"
-type: "Chinese"
-url: "marcopolohotels.scriptmania.com"
+address: Marco Polo Hotel, CM Recto Avenue, Davao City
+phone: 63 82 221 0888
+tags:
+- eating_out
+- restaurant
+title: Lotus Court
+type: Chinese
+url: marcopolohotels.scriptmania.com
 ---
 
 Located at the 5-star Marco Polo Hotel, Lotus Courst is the hotel's signature dining room serving the finest selection

@@ -1,5 +1,8 @@
 ---
-title: "Enigma"
+tags:
+- bars_and_cafes
+- bar
+title: Enigma
 type: poi
 ---
 

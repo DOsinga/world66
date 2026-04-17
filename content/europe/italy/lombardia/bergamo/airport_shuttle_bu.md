@@ -1,8 +1,10 @@
 ---
-title: "Airport Shuttle Buses"
+email: info@dezander.be
+tags:
+- getting_around
+title: Airport Shuttle Buses
 type: poi
-email: "info@dezander.be"
-url: "www.autostradale.it"
+url: www.autostradale.it
 ---
 
 There are shuttle buses between the Orio al Serio Airport and Milan or Brescia. Go outside the arrivals area at the Orio al Serio (Bergamo) Airport and the Zani ticket office is to the right - outdoors.

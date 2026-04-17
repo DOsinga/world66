@@ -1,8 +1,11 @@
 ---
 address: Elizabeth St, Sydney CBD
-category: Sight
 latitude: -33.8731
 longitude: 151.2112
+tags:
+- things_to_do
+- park
+- monument
 title: Hyde Park
 type: poi
 ---

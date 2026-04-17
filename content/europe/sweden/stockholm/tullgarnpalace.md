@@ -1,9 +1,11 @@
 ---
 address: Vagnharad
-category: Architecture
 latitude: 58.94688
 longitude: 17.495592
 phone: +46 (0)8 55 17 20 11
+tags:
+- things_to_do
+- palace
 title: Tullgarn Palace
 type: poi
 ---

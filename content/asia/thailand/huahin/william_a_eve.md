@@ -1,13 +1,16 @@
 ---
-title: "Ye Olde Buffalo Tavern Hua Hin"
-type: poi
-accessibility: "walking street"
-address: "8 Naresdamri  Rd Hua Hin down by the fishing pier turn right out of the Hilton"
-email: "info@buffalobillshuahin.com"
-phone: "032-530087 086 6035335"
-price: "40 Baht - 680 Baht"
-type: "International"
-url: "www.buffalobillshuahin.com"
+accessibility: walking street
+address: 8 Naresdamri  Rd Hua Hin down by the fishing pier turn right out of the Hilton
+email: info@buffalobillshuahin.com
+phone: 032-530087 086 6035335
+price: 40 Baht - 680 Baht
+tags:
+- eating_out
+- restaurant
+- bar
+title: Ye Olde Buffalo Tavern Hua Hin
+type: International
+url: www.buffalobillshuahin.com
 ---
 
 Turn right out of the ***Hilton Hotel*** on ***Naresdamri Rd.*** Take a 3-4 minute walk towards the main ***fishing pier*** (300 metres), **Ye Olde** **Buffalo Tavern** is on your left hand side next door to seven eleven.

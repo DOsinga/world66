@@ -1,10 +1,13 @@
 ---
-title: "Malagos Garden Resort"
-type: poi
-category: Sight
-address: "Baguio District, Davao City"
+address: Baguio District, Davao City
 latitude: 7.17091
 longitude: 125.321074
+tags:
+- things_to_do
+- park
+- neighbourhood
+title: Malagos Garden Resort
+type: poi
 ---
 
 This resort located somewhat in the highlands of Davao City has lots of

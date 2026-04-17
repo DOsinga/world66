@@ -1,13 +1,15 @@
 ---
-title: "Palatine Hill"
-type: poi
-category: "Sight"
-address: "Via Sacra, 00186 Rome"
-opening_hours: "Daily from 09:00; closing varies by season (17:00–19:30)"
-admission: "Included in Colosseum combined ticket"
+address: Via Sacra, 00186 Rome
+admission: Included in Colosseum combined ticket
 latitude: 41.8892
 longitude: 12.4875
-tags: ["3 Days in Rome"]
+opening_hours: Daily from 09:00; closing varies by season (17:00–19:30)
+tags:
+- 3 Days in Rome
+- things_to_do
+- palace
+title: Palatine Hill
+type: poi
 ---
 
 The hill where Rome was legendarily founded, and the site of the successive imperial palaces whose ruins now cover most of its surface. Augustus built his modest house here near what was believed to be Romulus's hut; later emperors expanded on an ever-grander scale. The excavated ruins of several palaces, their rooms of marble and painted stucco now mostly open to the sky, spread across the hilltop.

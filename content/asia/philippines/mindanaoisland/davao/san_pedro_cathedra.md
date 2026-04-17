@@ -1,10 +1,12 @@
 ---
-title: "San Pedro Cathedral"
-type: poi
-category: Sight
-address: "San Pedro St., Davao City"
+address: San Pedro St., Davao City
 latitude: 7.07805
 longitude: 125.548858
+tags:
+- things_to_do
+- church
+title: San Pedro Cathedral
+type: poi
 ---
 
 San Pedro Cathedral is the seat of the Catholic Archdiocese of Davao. It is the

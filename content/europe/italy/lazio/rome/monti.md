@@ -1,10 +1,15 @@
 ---
-title: "Monti"
-type: poi
-category: "Neighbourhood"
-admission: "Free"
+admission: Free
 latitude: 41.8951
 longitude: 12.4929
+tags:
+- things_to_do
+- square
+- restaurant
+- bar
+- neighbourhood
+title: Monti
+type: poi
 ---
 
 Rome's most fashionable neighbourhood, tucked between the Colosseum and the train station — and despite the location, genuinely characterful. Monti was historically the city's red-light district; today it's a dense grid of artisan workshops, independent boutiques, wine bars, and trattorias that manage to feel local despite the proximity to every tourist site in the city.

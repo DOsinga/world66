@@ -1,12 +1,14 @@
 ---
-title: "Willi's Station"
-type: poi
-accessibility: "In the heart of Hua-Hin (Centre)"
-address: "20/4 Poolsuk Rod"
-email: "willy.station@bluewin.ch"
-price: "THB 100+"
-type: "European"
-url: "www.willys-station.ch"
+accessibility: In the heart of Hua-Hin (Centre)
+address: 20/4 Poolsuk Rod
+email: willy.station@bluewin.ch
+price: THB 100+
+tags:
+- eating_out
+- restaurant
+title: Willi's Station
+type: European
+url: www.willys-station.ch
 ---
 
 **[Come an pamper your self at our cosy](/asia/thailand/huahin/eating_out)**

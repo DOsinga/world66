@@ -1,12 +1,14 @@
 ---
-title: "Supatra by the Sea"
-type: poi
-address: "Khao Takiab Hua Hin"
-phone: "032 53 6561"
-type: "Thai"
-url: "www.supatraresort.com"
+address: Khao Takiab Hua Hin
 latitude: 12.514656
 longitude: 99.982186
+phone: 032 53 6561
+tags:
+- eating_out
+- restaurant
+title: Supatra by the Sea
+type: Thai
+url: www.supatraresort.com
 ---
 
 Featuring something to suit every taste, Supatra-by-the-Sea is as famous for its romantic setting, a favourite of Hua Hin, as it is for the freshness, variety and quality of the gourmet-style Thai and Seafood dishes that it serves.

@@ -1,13 +1,16 @@
 ---
-title: "British Museum"
-type: poi
-address: "Great Russell Street, London WC1B 3DG"
-phone: "+44 20 7323 8000"
-url: "www.britishmuseum.org"
-opening_hours: "Daily 10am-5pm, Fri until 8:30pm"
-admission: "Free (special exhibitions charged)"
+address: Great Russell Street, London WC1B 3DG
+admission: Free (special exhibitions charged)
 latitude: 51.517894
 longitude: -0.127178
+opening_hours: Daily 10am-5pm, Fri until 8:30pm
+phone: +44 20 7323 8000
+tags:
+- things_to_do
+- museum
+title: British Museum
+type: poi
+url: www.britishmuseum.org
 ---
 
 The British Museum holds one of the world's greatest collections of human history — eight million objects spanning two million years, though only around 80,000 are on display at any time. The building itself, with Norman Foster's Great Court glass roof enclosing the circular Reading Room, is worth the visit alone.

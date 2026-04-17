@@ -1,8 +1,12 @@
 ---
-title: "Cafe Mist at Arena"
+address: FEC-01, Habib Ibrahim Rehmatullah Road, Main Karsaz
+phone: (92-21) 924-5218
+tags:
+- bars_and_cafes
+- bar
+- cafe
+title: Cafe Mist at Arena
 type: poi
-address: "FEC-01, Habib Ibrahim Rehmatullah Road, Main Karsaz"
-phone: "(92-21) 924-5218"
 ---
 
 Arena family entertainment center, a project of Millennium Entertainment (Pvt.) Ltd. is not just a run of the mill amusement facility, but one of its kind and pioneer in the field of refined and sophisticated family entertainment and recreation. The environment and the ambiance of Arena is the envy of many catering to the needs and feeding the entertainment appetite of the vast population of Karachi. Situated in the heart of the city at main Karsaz, Arena is easily accessible from all parts of the city and supplies a large monitored and secure parking lot for the convenience of its customers. Arena also features the Power House Gymnasium, with a complete range of state-of-the-art imported exercise machines and The Jade Hall, the biggest covered pillar-less hall in Pakistan.

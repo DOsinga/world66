@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 49.540446
 longitude: -121.121789
+tags:
+- things_to_do
 title: Hole in the Wall .
 type: general
 ---

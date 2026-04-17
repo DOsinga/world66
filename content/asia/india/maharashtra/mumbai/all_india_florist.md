@@ -1,10 +1,12 @@
 ---
-title: "All India Florist"
-type: poi
-email: "sales@allindiaflorist.com"
-phone: "919897064001"
-type: "Antiques"
-url: "www.allindiaflorist.com"
+email: sales@allindiaflorist.com
+phone: '919897064001'
+tags:
+- shopping
+- shop
+title: All India Florist
+type: Antiques
+url: www.allindiaflorist.com
 ---
 
 All India Florist

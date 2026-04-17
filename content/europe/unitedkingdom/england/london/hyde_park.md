@@ -1,12 +1,15 @@
 ---
-title: "Hyde Park"
-type: poi
-address: "Hyde Park, London W2 2UH"
-url: "www.royalparks.org.uk/parks/hyde-park"
-opening_hours: "Daily 5am-midnight"
-admission: "Free"
+address: Hyde Park, London W2 2UH
+admission: Free
 latitude: 51.507489
 longitude: -0.162207
+opening_hours: Daily 5am-midnight
+tags:
+- things_to_do
+- park
+title: Hyde Park
+type: poi
+url: www.royalparks.org.uk/parks/hyde-park
 ---
 
 Hyde Park and the adjoining Kensington Gardens together form a 250-hectare expanse of green in the middle of the city — the largest of the central royal parks. On a summer afternoon it fills with sunbathers, cyclists, joggers, and open-water swimmers in the Serpentine Lido.

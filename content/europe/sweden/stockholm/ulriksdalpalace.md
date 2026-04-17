@@ -1,9 +1,12 @@
 ---
 address: The Royal Palace
-category: Architecture
 latitude: 40.379312
 longitude: -80.001758
 phone: +46 (0)8 40 261 30
+tags:
+- things_to_do
+- museum
+- palace
 title: Ulriksdal Palace
 type: poi
 ---

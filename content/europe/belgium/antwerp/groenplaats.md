@@ -1,5 +1,11 @@
 ---
-title: "Groen Plaats"
+tags:
+- things_to_do
+- church
+- monument
+- square
+- restaurant
+title: Groen Plaats
 type: poi
 ---
 

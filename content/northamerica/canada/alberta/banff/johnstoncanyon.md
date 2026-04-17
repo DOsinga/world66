@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 51.253612
 longitude: -115.837955
+tags:
+- things_to_do
 title: Johnston Canyon .
 type: poi
 ---

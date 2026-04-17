@@ -1,5 +1,10 @@
 ---
-title: "The Wine Gallery ."
+tags:
+- eating_out
+- museum
+- cafe
+- bar
+title: The Wine Gallery .
 type: poi
 ---
 

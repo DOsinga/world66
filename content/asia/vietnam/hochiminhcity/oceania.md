@@ -1,10 +1,14 @@
 ---
-title: "Oceania"
-type: poi
-address: "167A Nam Ky Khoi Nghia Street, District 3"
-phone: "+84- 932-2579"
-price: "Above VND 120.000"
-type: "Seafood"
+address: 167A Nam Ky Khoi Nghia Street, District 3
+phone: +84- 932-2579
+price: Above VND 120.000
+tags:
+- eating_out
+- restaurant
+- market
+- neighbourhood
+title: Oceania
+type: Seafood
 ---
 
 Garish exterior belies excellent upmarket fresh seafood inside,

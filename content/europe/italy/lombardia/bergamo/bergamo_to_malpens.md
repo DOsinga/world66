@@ -1,5 +1,8 @@
 ---
-title: "Service Suspended"
+tags:
+- getting_around
+- square
+title: Service Suspended
 type: poi
 ---
 

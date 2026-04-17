@@ -1,12 +1,14 @@
 ---
-title: "Baretto di San Vigilio"
-type: poi
-address: "Via Castello, 1, Città Alta"
-phone: "035 253191"
-type: "Italian"
-url: "www.baretto.it"
+address: Via Castello, 1, Città Alta
 latitude: 45.708446
 longitude: 9.650211
+phone: 035 253191
+tags:
+- eating_out
+- restaurant
+title: Baretto di San Vigilio
+type: Italian
+url: www.baretto.it
 ---
 
 A la carte restaurant with an outdoor front terrace in summer

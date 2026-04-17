@@ -1,12 +1,16 @@
 ---
-title: "The Tulip"
-type: poi
-address: "1606 Queen St E"
-phone: "416-469-5797"
-price: "$20.00"
-type: "American"
+address: 1606 Queen St E
 latitude: 43.666376
 longitude: -79.317008
+phone: 416-469-5797
+price: $20.00
+tags:
+- eating_out
+- restaurant
+- beach
+- neighbourhood
+title: The Tulip
+type: American
 ---
 
 Great steak, low price

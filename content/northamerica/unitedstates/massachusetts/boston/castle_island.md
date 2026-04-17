@@ -1,12 +1,14 @@
 ---
-title: 'Castle Island'
-type: poi
-category: 'Sight'
-address: 'Day Boulevard, South Boston'
-phone: '617-268-5744'
-url: 'www.mass.gov'
+address: Day Boulevard, South Boston
 latitude: 42.3388
 longitude: -71.0187
+phone: 617-268-5744
+tags:
+- things_to_do
+- palace
+title: Castle Island
+type: poi
+url: www.mass.gov
 ---
 
 Castle Island is one of the Boston Harbor Islands that is not exactly an island anymore -- it sticks out into the harbor but is connected to a residential part of South Boston. It is home to Fort Independence, built in the early eighteenth century and used in the War of 1812. The fort is open some weekends in summer for tours.

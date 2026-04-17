@@ -1,9 +1,11 @@
 ---
 address: Via Eldorado 3, Naples
-category: Sight
 latitude: 40.828056
 longitude: 14.248284
 phone: +39 081 795 4593
+tags:
+- things_to_do
+- palace
 title: Castel dell'Ovo
 type: poi
 ---

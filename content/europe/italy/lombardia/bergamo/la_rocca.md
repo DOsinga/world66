@@ -1,10 +1,15 @@
 ---
-title: "La Rocca"
-type: poi
-category: "Sight"
-address: "Via Rocca, Città Alta, Bergamo"
+address: Via Rocca, Città Alta, Bergamo
 latitude: 45.703362
 longitude: 9.665431
+tags:
+- things_to_do
+- museum
+- palace
+- market
+- square
+title: La Rocca
+type: poi
 ---
 
 A medieval fortress perched above Città Alta with a commanding view in three directions. Walk up Via Rocca from the funicular stop at Piazza Mercato delle Scarpe — there's a great museum inside, and just outside on the right an old Roman road with chariot grooves worn into the stone.

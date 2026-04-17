@@ -1,11 +1,13 @@
 ---
-title: "Susur Lee"
-type: poi
-address: "Toronto, Canada"
-email: "welcome@rethinkto.com"
-url: "www.rethinkto.com"
+address: Toronto, Canada
+email: welcome@rethinkto.com
 latitude: 43.653482
 longitude: -79.383935
+tags:
+- people
+title: Susur Lee
+type: poi
+url: www.rethinkto.com
 ---
 
 Learn about the biography and cuisine of chef Susur Lee, who blends the intricate techniques of French cooking with the fresh ingredients of Chinese cuisine.

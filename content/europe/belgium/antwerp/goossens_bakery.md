@@ -1,11 +1,13 @@
 ---
-title: "Goossens Bakery"
-type: poi
-address: "Korte Gasthuisstraat 31"
-phone: "03 226 0791"
-type: "Speciality shops"
+address: Korte Gasthuisstraat 31
 latitude: 51.216666
 longitude: 4.404681
+phone: 03 226 0791
+tags:
+- shopping
+- shop
+title: Goossens Bakery
+type: Speciality shops
 ---
 
 Great small bakery in the center. People line up on the streets to get bread here.

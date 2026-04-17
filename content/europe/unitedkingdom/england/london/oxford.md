@@ -1,10 +1,15 @@
 ---
-title: "Oxford"
-type: poi
-address: "Oxford, Oxfordshire"
-url: "www.experienceoxfordshire.org"
+address: Oxford, Oxfordshire
 latitude: 51.752
 longitude: -1.258
+tags:
+- day_trips
+- museum
+- church
+- park
+title: Oxford
+type: poi
+url: www.experienceoxfordshire.org
 ---
 
 Oxford is 60 miles northwest of London, an hour by train from Paddington or Marylebone. The university — one of the oldest in the English-speaking world, founded in the 12th century — occupies much of the city centre, with 38 colleges spread across the medieval streets. Most college grounds are open to visitors; Christ Church, with its great hall (the model for Hogwarts), and Magdalen, with its deer park and cloisters, are the most rewarding.

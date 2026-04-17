@@ -1,7 +1,11 @@
 ---
-category: Neighbourhood
 latitude: -33.86
 longitude: 151.2083
+tags:
+- things_to_do
+- market
+- restaurant
+- neighbourhood
 title: The Rocks
 type: poi
 ---

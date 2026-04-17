@@ -1,8 +1,9 @@
 ---
-title: "Intercity Buses"
-type: poi
-type: "By Road"
-url: "www.autostradale.it"
+tags:
+- getting_there
+title: Intercity Buses
+type: By Road
+url: www.autostradale.it
 ---
 
 Buses are frequent and not so expensive. The "autostradale" buses are the intercity buses. The bus stations are near the train station.

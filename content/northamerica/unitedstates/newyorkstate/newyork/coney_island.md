@@ -1,8 +1,12 @@
 ---
-title: "Coney Island"
-type: poi
 latitude: 40.576508
 longitude: -73.992942
+tags:
+- day_trips
+- beach
+- restaurant
+title: Coney Island
+type: poi
 ---
 
 Reachable by subway, Coney Island is a New York trademark. Although it needs to be renovated, it offers a great view into old New York and is always fun on a hot summer day.

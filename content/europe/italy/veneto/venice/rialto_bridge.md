@@ -1,8 +1,12 @@
 ---
 admission: Free
-category: Sight
 latitude: 45.438
 longitude: 12.3359
+tags:
+- things_to_do
+- market
+- bridge
+- theatre
 title: Rialto Bridge & Market
 type: poi
 ---

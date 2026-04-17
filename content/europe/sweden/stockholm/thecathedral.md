@@ -1,6 +1,8 @@
 ---
 address: In between Old Town and Riddarholmen
-category: Architecture
+tags:
+- things_to_do
+- church
 title: The Cathedral
 type: poi
 ---

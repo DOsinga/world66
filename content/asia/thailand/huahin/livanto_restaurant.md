@@ -1,8 +1,11 @@
 ---
-title: "Livanto Restaurant Hua Hin"
-type: poi
-type: "International"
-url: "www.livantohuahin.com"
+tags:
+- eating_out
+- cafe
+- bar
+title: Livanto Restaurant Hua Hin
+type: International
+url: www.livantohuahin.com
 ---
 
 LIVANTO THAI-EUROPEAN RESTAURANT

@@ -1,11 +1,14 @@
 ---
 admission: Free
-category: Sight
 latitude: 40.8358
 longitude: 14.2486
 tags:
 - 48 Hours in Naples
 - 3 Days in Naples
+- things_to_do
+- church
+- palace
+- square
 title: Piazza del Plebiscito
 type: poi
 ---

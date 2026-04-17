@@ -1,9 +1,12 @@
 ---
-title: "Maison Diamantée"
-type: poi
-category: Sight
 latitude: 43.29698
 longitude: 5.369376
+tags:
+- things_to_do
+- museum
+- palace
+title: Maison Diamantée
+type: poi
 ---
 
 This was built in 1570 and owes its name to the " diamond point " stones making up the façade it houses the Museum of Marseilles Traditions. 

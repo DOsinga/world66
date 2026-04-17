@@ -1,9 +1,11 @@
 ---
-title: "Shalimar"
-type: poi
-address: "4001 S. DECATUR SUIT 31"
-phone: "702-202-0333"
-type: "Indian and Pakistani"
+address: 4001 S. DECATUR SUIT 31
+phone: 702-202-0333
+tags:
+- eating_out
+- restaurant
+title: Shalimar
+type: Indian and Pakistani
 ---
 
 If you're planning to eat at least try something different. Shalimar Indian restaurant features a varied menu of North-Indian style dishes. In addition to taste and variety, Shalimar also offers an excellent value. Main courses (dinner) cost $11-$16.

@@ -1,9 +1,12 @@
 ---
-title: "Kalamb"
+address: Kalamb, Nallasopara West
+email: thedoors.pranav@gmail.com
+phone: '9323410092'
+tags:
+- beaches
+- beach
+title: Kalamb
 type: poi
-address: "Kalamb, Nallasopara West"
-email: "thedoors.pranav@gmail.com"
-phone: "9323410092"
 ---
 
 How to get here:

@@ -1,9 +1,12 @@
 ---
 address: 140 George St, The Rocks
-category: Museum
 latitude: -33.8599
 longitude: 151.2088
 phone: (02) 9245 2400
+tags:
+- things_to_do
+- museum
+- cafe
 title: Museum of Contemporary Art
 type: poi
 url: www.mca.com.au

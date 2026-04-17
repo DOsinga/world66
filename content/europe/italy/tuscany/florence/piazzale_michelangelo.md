@@ -1,11 +1,17 @@
 ---
-title: "Piazzale Michelangelo"
-type: poi
-category: Sight
-admission: "Free"
+admission: Free
 latitude: 43.7628
 longitude: 11.2651
-tags: ["One Day in Florence", "3 Days in Florence"]
+tags:
+- One Day in Florence
+- 3 Days in Florence
+- things_to_do
+- palace
+- bridge
+- tower
+- square
+title: Piazzale Michelangelo
+type: poi
 ---
 
 A hilltop terrace south of the Arno offering the most iconic panoramic view of Florence — the Duomo, Palazzo Vecchio's tower, the hills of Fiesole, and the valley of the Arno all visible at once. The piazza holds a bronze replica of Michelangelo's David and is particularly popular at sunset. It can be reached on foot (15 minutes uphill from Ponte Vecchio) or by bus (line 13 from Santa Maria Novella).

@@ -1,9 +1,13 @@
 ---
-title: "Brasil & Cia"
+address: Rua Maria Quitéria 27 Ipanema (50 m from the beach)
+phone: +55 (21) 2267-4603
+tags:
+- shopping
+- shop
+- beach
+title: Brasil & Cia
 type: poi
-address: "Rua Maria Quitéria 27 Ipanema (50 m from the beach)"
-phone: "+55 (21) 2267-4603"
-url: "www.brasilecia.com.br"
+url: www.brasilecia.com.br
 ---
 
 Brasil & Cia is a local craft /Brazilian

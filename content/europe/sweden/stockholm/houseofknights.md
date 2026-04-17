@@ -1,8 +1,9 @@
 ---
 address: Old Town
-category: Architecture
 latitude: 50.084285
 longitude: 14.417839
+tags:
+- things_to_do
 title: House of Knights
 type: poi
 ---

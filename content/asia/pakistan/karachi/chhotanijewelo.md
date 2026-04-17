@@ -1,5 +1,8 @@
 ---
-title: "Chhotani Jewelo"
+tags:
+- shopping
+- shop
+title: Chhotani Jewelo
 type: poi
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: "Sky Cab"
+address: Parking Area Near Platform No. 7 & 8 Cantt Station Karachi
+email: info@skycab.pk
+phone: 021-111-759-426
+tags:
+- getting_around
+title: Sky Cab
 type: poi
-address: "Parking Area Near Platform No. 7 & 8 Cantt Station Karachi"
-email: "info@skycab.pk"
-phone: "021-111-759-426"
-url: "www.skycab.pk"
+url: www.skycab.pk
 ---
 
 **Sky Cab** has built its reputation on reliability, outstanding customer service and impeccable vehicles. Whether you are planning a special event such as a wedding, private party, sight-seeing, shopping or simply need transportation to or from the airport or Railway Stations, let one of our courteous, highly trained uniformed chauffeurs get you there safely, on time and in style.

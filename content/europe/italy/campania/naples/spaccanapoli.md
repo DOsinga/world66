@@ -1,11 +1,13 @@
 ---
 admission: Free
-category: Neighbourhood
 latitude: 40.8487
 longitude: 14.256
 tags:
 - 48 Hours in Naples
 - 3 Days in Naples
+- things_to_do
+- church
+- square
 title: Spaccanapoli
 type: poi
 ---

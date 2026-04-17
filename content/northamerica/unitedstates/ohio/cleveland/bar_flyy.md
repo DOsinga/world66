@@ -1,5 +1,10 @@
 ---
-title: 'Bar Flyy'
+tags:
+- bars_and_cafes
+- bar
+- club
+- neighbourhood
+title: Bar Flyy
 type: poi
 ---
 

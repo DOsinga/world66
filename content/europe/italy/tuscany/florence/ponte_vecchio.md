@@ -1,11 +1,16 @@
 ---
-title: "Ponte Vecchio"
-type: poi
-category: Sight
-admission: "Free"
-latitude: 43.7680
+admission: Free
+latitude: 43.768
 longitude: 11.2531
-tags: ["One Day in Florence", "24 Hours in Florence", "3 Days in Florence"]
+tags:
+- One Day in Florence
+- 24 Hours in Florence
+- 3 Days in Florence
+- things_to_do
+- palace
+- bridge
+title: Ponte Vecchio
+type: poi
 ---
 
 Florence's oldest bridge, built in 1345 and the only Florentine bridge not destroyed by the retreating Germans in 1944. The shops lining both sides have been occupied by goldsmiths since 1593, when the Medici expelled the butchers who preceded them. The Vasari Corridor runs above the shops, connecting the Uffizi to Palazzo Pitti.

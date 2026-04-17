@@ -1,14 +1,19 @@
 ---
-title: "Palazzo Pitti & Boboli Gardens"
-type: poi
-category: Museum
-address: "Piazza de' Pitti 1, 50125 Florence"
-url: "www.uffizi.it/en/pitti-palace"
-opening_hours: "Tue–Sun 08:15–18:30; closed Mon"
-admission: "€16 full; gardens included; free first Sun of month"
+address: Piazza de' Pitti 1, 50125 Florence
+admission: €16 full; gardens included; free first Sun of month
 latitude: 43.7648
 longitude: 11.2501
-tags: ["3 Days in Florence"]
+opening_hours: Tue–Sun 08:15–18:30; closed Mon
+tags:
+- 3 Days in Florence
+- things_to_do
+- museum
+- palace
+- park
+- monument
+title: Palazzo Pitti & Boboli Gardens
+type: poi
+url: www.uffizi.it/en/pitti-palace
 ---
 
 The Medici's immense 16th-century palace across the Arno, now housing five museums including the Palatine Gallery — a series of lavishly frescoed rooms crammed with Raphael, Titian, and Rubens. The Boboli Gardens stretching behind the palace are formal Italian gardens on a monumental scale, with fountains, grottoes, cypresses, and long views over the Florentine hills.

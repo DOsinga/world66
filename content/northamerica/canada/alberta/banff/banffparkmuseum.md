@@ -1,7 +1,10 @@
 ---
-category: Museum
 latitude: 51.173787
 longitude: -115.571682
+tags:
+- things_to_do
+- museum
+- park
 title: Banff Park Museum .
 type: general
 ---

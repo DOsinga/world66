@@ -1,9 +1,10 @@
 ---
 address: Aquarium Pier, Darling Harbour
-category: Sight
 latitude: -33.87
 longitude: 151.202
 phone: +61 2 8251 7800
+tags:
+- things_to_do
 title: SEA LIFE Sydney Aquarium
 type: poi
 url: www.sydneyaquarium.com.au

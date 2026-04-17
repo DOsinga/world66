@@ -1,9 +1,11 @@
 ---
-title: "Luz Kinilaw"
-type: poi
-address: "Salmonan, Quezon Blvd., Davao City"
-phone: "+63 82 221-8377"
-type: "Seafood"
+address: Salmonan, Quezon Blvd., Davao City
+phone: +63 82 221-8377
+tags:
+- eating_out
+- restaurant
+title: Luz Kinilaw
+type: Seafood
 ---
 
 Luz Kinilaw is authentic Davao cuisine! It's a seaside restaurant

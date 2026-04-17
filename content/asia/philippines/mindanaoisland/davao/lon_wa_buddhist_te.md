@@ -1,10 +1,12 @@
 ---
-title: "Lon Wa Buddhist Temple"
-type: poi
-category: Sight
-address: "J.P. Cabaguio Avenue"
+address: J.P. Cabaguio Avenue
 latitude: 7.087679
 longitude: 125.623683
+tags:
+- things_to_do
+- church
+title: Lon Wa Buddhist Temple
+type: poi
 ---
 
 The

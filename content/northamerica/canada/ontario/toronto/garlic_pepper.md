@@ -1,10 +1,12 @@
 ---
-title: "Garlic Pepper"
-type: poi
-address: "578 Yonge (nr. Wellesley)"
-phone: "416-323-9819"
-price: "$8.00 up"
-type: "Chinese"
+address: 578 Yonge (nr. Wellesley)
+phone: 416-323-9819
+price: $8.00 up
+tags:
+- eating_out
+- restaurant
+title: Garlic Pepper
+type: Chinese
 ---
 
 Well visited restaurant near the corner of Yonge and Wellesley.

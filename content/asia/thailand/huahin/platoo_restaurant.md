@@ -1,11 +1,15 @@
 ---
-title: "Platoo Restaurant"
-type: poi
-address: "Cha Am Beach"
-type: "Thai"
-url: "www.platoorestaurant.com"
+address: Cha Am Beach
 latitude: 12.78648
 longitude: 99.981078
+tags:
+- eating_out
+- restaurant
+- beach
+- bar
+title: Platoo Restaurant
+type: Thai
+url: www.platoorestaurant.com
 ---
 
 **One of the best delicious on the

@@ -1,10 +1,13 @@
 ---
-title: "Pho 24"
-type: poi
-address: "39 Le Thi Hong Gam Street, District 1"
-phone: "+84- 822 260"
-price: "$6.00"
-type: "Vietnamese"
+address: 39 Le Thi Hong Gam Street, District 1
+phone: +84- 822 260
+price: $6.00
+tags:
+- eating_out
+- restaurant
+- neighbourhood
+title: Pho 24
+type: Vietnamese
 ---
 
 takes the country's beloved beef or chicken noodle soup (*pho*),

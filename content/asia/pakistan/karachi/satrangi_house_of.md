@@ -1,11 +1,14 @@
 ---
-title: "Satrangi House of Fashion"
-type: poi
-address: "Hydri Bara Market  Ist Floor Shop No 104 North Nazimabad Karachi"
-email: "satrangihof@gmail.com"
-phone: "92-35483960"
-type: "Speciality shops"
-url: "www.facebook.com"
+address: Hydri Bara Market  Ist Floor Shop No 104 North Nazimabad Karachi
+email: satrangihof@gmail.com
+phone: 92-35483960
+tags:
+- shopping
+- shop
+- market
+title: Satrangi House of Fashion
+type: Speciality shops
+url: www.facebook.com
 ---
 
 3Pc’s Designer Stitched Printed Shafoon Suits from Rs.999/- Only

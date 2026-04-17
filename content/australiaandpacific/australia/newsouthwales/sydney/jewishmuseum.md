@@ -1,9 +1,11 @@
 ---
 address: 148 Darlinghurst Rd, Darlinghurst
-category: Museum
 latitude: -33.8788
 longitude: 151.2201
 phone: (02) 9360 7999
+tags:
+- things_to_do
+- museum
 title: Sydney Jewish Museum
 type: poi
 url: www.sydneyjewishmuseum.com.au

@@ -1,11 +1,13 @@
 ---
-title: "Canyoning"
+address: Via G. Greppi 8, Bergamo
+latitude: 45.6983
+longitude: 9.6765
+phone: +39 340 0982887
+tags:
+- tours_and_excursio
+title: Canyoning
 type: poi
-address: "Via G. Greppi 8, Bergamo"
-phone: "+39 340 0982887"
-url: "www.prenditempo.com"
-latitude: 45.698300
-longitude: 9.676500
+url: www.prenditempo.com
 ---
 
 Prenditempo proposes canyoning activities in the mountain river of the area.Different level of difficulty are proposed in order to give everyone the chance to approach this discipline.The canyoning excursions are provided with full assistance of an alpine certified guide, all the equipment needed,and van trasnfer to the locatio of the activities.

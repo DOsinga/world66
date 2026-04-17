@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 51.664549
 longitude: -116.449421
+tags:
+- things_to_do
+- park
 title: Bow Lake .
 type: general
 ---

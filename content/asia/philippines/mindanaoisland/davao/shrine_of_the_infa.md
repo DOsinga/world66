@@ -1,10 +1,12 @@
 ---
-title: "Shrine of the Infant Jesus"
-type: poi
-category: Sight
-address: "Shrine Hills, Matina, Davao City"
+address: Shrine Hills, Matina, Davao City
 latitude: 7.070794
 longitude: 125.577932
+tags:
+- things_to_do
+- church
+title: Shrine of the Infant Jesus
+type: poi
 ---
 
 This shrine located at the top of Matina Hill is an open air shrine

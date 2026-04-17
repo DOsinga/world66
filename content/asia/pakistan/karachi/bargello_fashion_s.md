@@ -1,11 +1,14 @@
 ---
-title: "Bargello Fashion Store"
-type: poi
-accessibility: "Worldwide"
-address: "28-C, 5th Commercial Street, Khayaban-e-Badadr, Phase V, Defence, Karachi, 75500, Pakistan"
-phone: "+9221 534 1401, 02, 03 & 04"
-type: "Shopping centers and malls"
-url: "www.bargello.com"
+accessibility: Worldwide
+address: 28-C, 5th Commercial Street, Khayaban-e-Badadr, Phase V, Defence, Karachi,
+  75500, Pakistan
+phone: +9221 534 1401, 02, 03 & 04
+tags:
+- shopping
+- shop
+title: Bargello Fashion Store
+type: Shopping centers and malls
+url: www.bargello.com
 ---
 
 A HIGH FASHION store offering bridal, evening, party, special occasions and casual wear. From gharara, sharara, lehenga, saris, shalwar kameez, saris, kurtis to home textile items such as cushions bed sets and imitation jewellery Bargello has everything to offer you.

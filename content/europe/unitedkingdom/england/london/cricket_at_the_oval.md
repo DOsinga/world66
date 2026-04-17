@@ -1,12 +1,15 @@
 ---
-title: "Cricket at The Oval"
-type: poi
-address: "Kennington Oval, London SE11 5SS"
-phone: "+44 20 7820 5700"
-url: "www.kiaoval.com"
-admission: "From £25 (county matches), £60–180 (international fixtures)"
+address: Kennington Oval, London SE11 5SS
+admission: From £25 (county matches), £60–180 (international fixtures)
 latitude: 51.484893
 longitude: -0.110508
+phone: +44 20 7820 5700
+tags:
+- things_to_do
+- club
+title: Cricket at The Oval
+type: poi
+url: www.kiaoval.com
 ---
 
 The Oval is one of England's two great cricket grounds, home of Surrey County Cricket Club since 1845. It hosts Test matches (the highest level of international cricket) and county cricket throughout the summer season, from April to September.

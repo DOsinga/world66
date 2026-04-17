@@ -1,11 +1,13 @@
 ---
-title: "The Wildflower Cafe & Florist"
-type: poi
-address: "3818 Meadows Lane"
-phone: "702 258-1554"
-type: "American"
+address: 3818 Meadows Lane
 latitude: 29.827661
 longitude: -95.572247
+phone: 702 258-1554
+tags:
+- eating_out
+- cafe
+title: The Wildflower Cafe & Florist
+type: American
 ---
 
 Full service restaurant, offering breakfast, lunch and dinners menus. Located on the south end of the Meadows Mall.

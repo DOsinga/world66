@@ -1,8 +1,12 @@
 ---
-title: "Q Bar"
-type: poi
 latitude: 21.017474
 longitude: 105.784295
+tags:
+- bars_and_cafes
+- bar
+- market
+title: Q Bar
+type: poi
 ---
 
 Not as good as its original incarnation, but not bad regardless. Suffers a certain synthetic cache from being right opposite the Caravelle Hotel, and certainly reflects this in the drink prices, but is nonetheless one of the most thoughtfully laid out bars in the central area. Music is acceptable and laid back.

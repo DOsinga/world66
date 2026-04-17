@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 51.184337
 longitude: -115.590649
+tags:
+- things_to_do
 title: Vermilion Lakes .
 type: poi
 ---

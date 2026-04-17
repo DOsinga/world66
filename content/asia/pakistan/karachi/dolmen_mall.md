@@ -1,10 +1,13 @@
 ---
-title: "Dolmen Mall"
-type: poi
-email: "laraib_cinderella@hotmail.com"
-type: "Shopping centers and malls"
+email: laraib_cinderella@hotmail.com
 latitude: 31.466899
 longitude: 74.43584
+tags:
+- shopping
+- shop
+- park
+title: Dolmen Mall
+type: Shopping centers and malls
 ---
 
 A modern mall in Tariq Road area of the city with a wide variety of shops including jewellery, handicrafts, clothing, shoes, cosmetics etc. The mall also has good dining facilities with different activities going on the ground floor.

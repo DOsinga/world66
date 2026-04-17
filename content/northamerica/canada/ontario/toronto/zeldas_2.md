@@ -1,9 +1,13 @@
 ---
-title: "Zelda's"
-type: poi
-type: "Local"
 latitude: 43.75578
 longitude: -79.780631
+tags:
+- eating_out
+- restaurant
+- church
+- bar
+title: Zelda's
+type: Local
 ---
 
 Kind of kitschy, this interesting bar located on Church Street in the "gay village" of Toronto has some of the most interesting theme nights each weekend during the summer.

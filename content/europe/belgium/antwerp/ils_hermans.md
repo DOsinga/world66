@@ -1,13 +1,15 @@
 ---
-title: "Ils Hermans"
-type: poi
-address: "Zirkstraat 21; Antwerp; BELGIUM"
-email: "hermansils@telenet.be"
-phone: "+32 485 79 86 77"
-type: "Speciality shops"
-url: "ilshermans.be"
+address: Zirkstraat 21; Antwerp; BELGIUM
+email: hermansils@telenet.be
 latitude: 51.22275
 longitude: 4.402054
+phone: +32 485 79 86 77
+tags:
+- shopping
+- shop
+title: Ils Hermans
+type: Speciality shops
+url: ilshermans.be
 ---
 
 Jewelry designers collection.

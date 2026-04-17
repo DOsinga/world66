@@ -1,13 +1,17 @@
 ---
-title: "St. Lawrence Market"
-type: poi
-address: "92 Front Street East"
-email: "market@stlawrencemarket.com"
-phone: "416.392.7120"
-type: "Markets"
-url: "www.stlawrencemarket.com"
+address: 92 Front Street East
+email: market@stlawrencemarket.com
 latitude: 43.649687
 longitude: -79.37198
+phone: 416.392.7120
+tags:
+- shopping
+- shop
+- market
+- neighbourhood
+title: St. Lawrence Market
+type: Markets
+url: www.stlawrencemarket.com
 ---
 
 Over 50 specialty vendors in Toronto's premier market. Located at Front and Jarvis, it is the centre of the historic St. Lawrence Neighbourhood, close to the hub of today's downtown.

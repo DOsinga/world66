@@ -1,12 +1,14 @@
 ---
-title: "Hampstead Heath"
-type: poi
-address: "Hampstead Heath, London NW3"
-url: "www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath"
-opening_hours: "Always open"
-admission: "Free"
+address: Hampstead Heath, London NW3
+admission: Free
 latitude: 51.564149
 longitude: -0.167172
+opening_hours: Always open
+tags:
+- things_to_do
+title: Hampstead Heath
+type: poi
+url: www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath
 ---
 
 Hampstead Heath is 320 hectares of ancient woodland, meadows, and ponds on the high ground north of the city — one of the few places in London where you can feel genuinely removed from urban life. Parliament Hill at the southern end gives one of the most complete views of the central London skyline.

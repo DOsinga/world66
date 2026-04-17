@@ -1,12 +1,13 @@
 ---
 address: Via San Carlo 98, 80132 Naples
 admission: Tours €9; performance tickets from €30
-category: Sight
 latitude: 40.8369
 longitude: 14.2495
 opening_hours: Tours daily 10:30–16:30 (except Sun); evening performances vary
 tags:
 - 3 Days in Naples
+- things_to_do
+- theatre
 title: Teatro San Carlo
 type: poi
 url: www.teatrosancarlo.it

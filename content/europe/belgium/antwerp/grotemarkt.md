@@ -1,9 +1,12 @@
 ---
-title: "Grote Markt"
-type: poi
-type: "Squares"
 latitude: 50.846729
 longitude: 4.352408
+tags:
+- things_to_do
+- monument
+- square
+title: Grote Markt
+type: Squares
 ---
 
 The heart of the City on the Scheldt beats at the 'Grote Markt', an irregularly-shaped square, surrounded by decorative guild houses dating from the 16th and 17th century. This square is home to the statue of Brabo.

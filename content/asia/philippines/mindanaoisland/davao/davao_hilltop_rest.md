@@ -1,8 +1,10 @@
 ---
-title: "Davao Hilltop Restaurant"
-type: poi
-address: "Shrine Hill, Matina, Davao City"
-type: "Local"
+address: Shrine Hill, Matina, Davao City
+tags:
+- eating_out
+- restaurant
+title: Davao Hilltop Restaurant
+type: Local
 ---
 
 With a great view of downtown Davao, this lovely restaurant serves Filipino delicacies.

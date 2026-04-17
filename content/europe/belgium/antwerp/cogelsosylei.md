@@ -1,11 +1,15 @@
 ---
-title: "Cogels Osylei"
-type: poi
-address: "Cogels Osylei"
-type: "Squares"
-zipcode: "2018"
+address: Cogels Osylei
 latitude: 51.204569
 longitude: 4.43316
+tags:
+- things_to_do
+- square
+- restaurant
+- neighbourhood
+title: Cogels Osylei
+type: Squares
+zipcode: '2018'
 ---
 
 Art nouveau street, unique architecture from around 1920. The

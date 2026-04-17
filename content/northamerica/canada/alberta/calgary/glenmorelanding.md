@@ -1,8 +1,13 @@
 ---
-title: "Glenmore Landing ."
-type: poi
 latitude: 50.9737
 longitude: -114.097874
+tags:
+- shopping
+- shop
+- museum
+- cafe
+title: Glenmore Landing .
+type: poi
 ---
 
 More than 60 shops and services located at the south end of the Glenmore Reservoir. This shopping complex has an art gallery, bakery, coffee stops and fashion. 

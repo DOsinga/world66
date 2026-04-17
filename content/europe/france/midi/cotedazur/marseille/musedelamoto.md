@@ -1,9 +1,11 @@
 ---
-title: "Musée de la Moto"
-type: poi
-category: Museum
 latitude: 43.328129
 longitude: 5.40402
+tags:
+- things_to_do
+- museum
+title: Musée de la Moto
+type: poi
 ---
 
 Traverse St-Paul, Le Merlan (13e) – Tel : 04 91 02 29 55 – Buses 32, 33

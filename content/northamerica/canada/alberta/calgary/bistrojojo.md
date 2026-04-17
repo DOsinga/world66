@@ -1,5 +1,8 @@
 ---
-title: "Bistro Jo Jo ."
+tags:
+- eating_out
+- restaurant
+title: Bistro Jo Jo .
 type: poi
 ---
 

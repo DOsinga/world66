@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 51.633982
 longitude: -116.434067
+tags:
+- things_to_do
+- park
 title: Crowfoot Glacier .
 type: poi
 ---

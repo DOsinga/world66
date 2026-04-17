@@ -1,12 +1,15 @@
 ---
-title: "I tre Mercanti"
-type: poi
-address: "Castello 5364, near Ponte della Guerra, San Marco"
-email: "info@itremercanti.it"
-phone: "+39 041 522290"
-url: "www.itremercanti.it"
+address: Castello 5364, near Ponte della Guerra, San Marco
+email: info@itremercanti.it
 latitude: 45.436315
 longitude: 12.339359
+phone: +39 041 522290
+tags:
+- shopping
+- shop
+title: I tre Mercanti
+type: poi
+url: www.itremercanti.it
 ---
 
 **I Tre Mercanti**

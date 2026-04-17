@@ -1,12 +1,14 @@
 ---
-title: "Osaka Japanese Restaurant"
-type: poi
-address: "4205 W Sahara Ave"
-phone: "(702) 876-4988"
-type: "Japanese"
-url: "www.activediner.com"
+address: 4205 W Sahara Ave
 latitude: 36.143967
 longitude: -115.196679
+phone: (702) 876-4988
+tags:
+- eating_out
+- restaurant
+title: Osaka Japanese Restaurant
+type: Japanese
+url: www.activediner.com
 ---
 
 The first Japanese restaurant in Las Vegas since 1968.

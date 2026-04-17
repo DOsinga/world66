@@ -1,10 +1,12 @@
 ---
-title: "Bath"
-type: poi
-address: "Bath, Somerset"
-url: "www.visitbath.co.uk"
+address: Bath, Somerset
 latitude: 51.381
 longitude: -2.359
+tags:
+- day_trips
+title: Bath
+type: poi
+url: www.visitbath.co.uk
 ---
 
 Bath is 115 miles west of London by road, reachable in about 90 minutes by direct train from Paddington. It is one of the most complete Georgian cities in Europe — virtually the entire centre is built from honey-coloured Bath stone, laid out in the 18th century with the Circus, the Royal Crescent, and the Pump Room as its set pieces.

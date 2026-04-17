@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 51.725187
 longitude: -116.522296
+tags:
+- things_to_do
+- park
 title: Peyto Lake .
 type: poi
 ---

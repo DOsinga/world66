@@ -1,11 +1,15 @@
 ---
-title: "Ristorante Villa Malliana"
+address: Via A. Locatelli 17, Almenno San Bartolomeo
+latitude: 45.7401
+longitude: 9.6308
+phone: +39 035 640141
+tags:
+- eating_out
+- restaurant
+- park
+title: Ristorante Villa Malliana
 type: poi
-address: "Via A. Locatelli 17, Almenno San Bartolomeo"
-phone: "+39 035 640141"
-url: "www.villamalliana.it"
-latitude: 45.740100
-longitude: 9.630800
+url: www.villamalliana.it
 ---
 
 For the best day of your life dine in large frescoed dining rooms with glass-blown chandelliers in a Villa from the 1700s which is immersed in a green park with a swimming pool and a view.

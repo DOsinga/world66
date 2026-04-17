@@ -1,11 +1,14 @@
 ---
-title: "The Toronto Transit Commission"
-type: poi
-address: "1700 Yonge Street, Davisville Station"
-phone: "416-393-4636 (INFO)"
-url: "www.ttc.ca"
+address: 1700 Yonge Street, Davisville Station
 latitude: 43.697936
 longitude: -79.397291
+phone: 416-393-4636 (INFO)
+tags:
+- getting_around
+- theatre
+title: The Toronto Transit Commission
+type: poi
+url: www.ttc.ca
 ---
 
 The Toronto Transit Commission has a comprehensive transportation network, utilizing buses, streetcars, light rail and heavy rail (subway) to service the four corners of Toronto, and everywhere in between.

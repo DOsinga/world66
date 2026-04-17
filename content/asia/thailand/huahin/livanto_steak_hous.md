@@ -1,11 +1,14 @@
 ---
-title: "Livanto Thai & European Restaurant"
-type: poi
-address: "19 Damnernkasem Rd"
-email: "info@livantohuahin.com"
-phone: "+66 32 514448 For reservation please call 032-514448 or 085-290-3444"
-type: "European"
-url: "www.livantohuahin.com"
+address: 19 Damnernkasem Rd
+email: info@livantohuahin.com
+phone: +66 32 514448 For reservation please call 032-514448 or 085-290-3444
+tags:
+- eating_out
+- cafe
+- bar
+title: Livanto Thai & European Restaurant
+type: European
+url: www.livantohuahin.com
 ---
 
 Livanto life style steak house

@@ -1,11 +1,15 @@
 ---
-title: "Camden Market"
-type: poi
-address: "Camden High Street and Chalk Farm Road, London NW1"
-url: "www.camdenmarket.com"
-opening_hours: "Daily 10am-6pm"
+address: Camden High Street and Chalk Farm Road, London NW1
 latitude: 51.543611
 longitude: -0.147222
+opening_hours: Daily 10am-6pm
+tags:
+- shopping
+- shop
+- market
+title: Camden Market
+type: poi
+url: www.camdenmarket.com
 ---
 
 Camden Market is a collection of several adjacent markets along the canal — Camden Lock, the Stables, the Canal Market — and has been the main London destination for alternative clothing, records, street food, and subculture goods since the 1970s. It draws enormous tourist crowds at weekends but retains a genuine energy, particularly in the Stables Market, where the stalls run through a series of old Victorian horse hospital buildings.

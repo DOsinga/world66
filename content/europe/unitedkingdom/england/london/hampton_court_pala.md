@@ -1,13 +1,17 @@
 ---
-title: "Hampton Court Palace"
-type: poi
-address: "East Molesey, Surrey KT8 9AU"
-phone: "+44 20 3166 6000"
-url: "www.hrp.org.uk/hampton-court-palace"
-opening_hours: "Daily 10am-6pm (winter 4:30pm)"
-admission: "£27.50 adults, £13.80 children"
+address: East Molesey, Surrey KT8 9AU
+admission: £27.50 adults, £13.80 children
 latitude: 51.399102
 longitude: -0.357136
+opening_hours: Daily 10am-6pm (winter 4:30pm)
+phone: +44 20 3166 6000
+tags:
+- day_trips
+- palace
+- park
+title: Hampton Court Palace
+type: poi
+url: www.hrp.org.uk/hampton-court-palace
 ---
 
 Hampton Court Palace is the finest Tudor palace in England and one of the best day trips from London. Henry VIII seized it from Cardinal Wolsey in 1529 and spent lavishly on its expansion; the Great Hall and the Tudor kitchens (where meals are prepared for live demonstrations) give a vivid sense of life at court.

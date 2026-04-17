@@ -1,9 +1,11 @@
 ---
-category: Bar
 done:
   location_cleanup: '2026-04-10'
 latitude: 51.1767
 longitude: -115.5712
+tags:
+- bars_and_cafes
+- bar
 title: Melissa's
 type: poi
 ---

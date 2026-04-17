@@ -1,9 +1,11 @@
 ---
 address: Gamla Stan (Old Town)
-category: Architecture
 latitude: 59.325923
 longitude: 18.068909
 phone: +46 (0)8 40 26 130
+tags:
+- things_to_do
+- palace
 title: Royal Palace
 type: poi
 ---

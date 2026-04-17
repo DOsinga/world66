@@ -1,9 +1,11 @@
 ---
-title: "Le Mura"
-type: poi
-category: "Architecture"
 latitude: 45.7035
-longitude: 9.6630
+longitude: 9.663
+tags:
+- things_to_do
+- park
+title: Le Mura
+type: poi
 ---
 
 The massive Venetian walls encircling Città Alta were built starting in 1561 and took decades to complete. The main gate, Porta Sant'Agostino (1575), is the grand entrance at the top of Viale Vittorio Emanuele.

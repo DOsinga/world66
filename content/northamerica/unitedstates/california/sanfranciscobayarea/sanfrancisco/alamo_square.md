@@ -1,10 +1,12 @@
 ---
-title: 'Alamo Square'
-type: poi
-category: 'Sight'
-address: 'Steiner St & Hayes St'
+address: Steiner St & Hayes St
 latitude: 37.7762
 longitude: -122.4346
+tags:
+- things_to_do
+- square
+title: Alamo Square
+type: poi
 ---
 
 Alamo Square is home to the famous Painted Ladies -- a row of Victorian houses on Steiner Street that you have almost certainly seen in photos, postcards, and the Full House opening credits. The view from the grassy hillside across the street, with the pastel Victorians framed against the downtown skyline, is one of San Francisco's most iconic. It is a bit of a walk from other major sights, but the photo opportunity is worth it.

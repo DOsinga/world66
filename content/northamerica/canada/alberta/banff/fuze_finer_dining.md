@@ -1,13 +1,15 @@
 ---
-title: "Fuze Finer Dining"
-type: poi
-accessibility: "elevator access"
-address: "2nd Floor, 110 Banff Avenue"
-email: "reservations@fuzedining.com"
-phone: "403 760-0853"
-price: "$24 to $38 Cdn"
-type: "International"
-url: "www.fuzedining.com"
+accessibility: elevator access
+address: 2nd Floor, 110 Banff Avenue
+email: reservations@fuzedining.com
+phone: 403 760-0853
+price: $24 to $38 Cdn
+tags:
+- eating_out
+- restaurant
+title: Fuze Finer Dining
+type: International
+url: www.fuzedining.com
 ---
 
 Located in the heart of downtown Banff, Fuze Finer Dining is one of the Town's newest dining additions.

@@ -1,11 +1,14 @@
 ---
-title: "Coco's"
-type: poi
-address: "F. Torres St., Davao City"
-phone: "+63 82 222-3494"
-type: "Seafood"
+address: F. Torres St., Davao City
 latitude: 7.074594
 longitude: 125.601883
+phone: +63 82 222-3494
+tags:
+- eating_out
+- restaurant
+- tower
+title: Coco's
+type: Seafood
 ---
 
 ****An excellent restaurant mainly featuring seafood. Also with an excellent Roasted Pig.

@@ -1,12 +1,16 @@
 ---
-title: "Let's Sea"
-type: poi
-address: "83 / 188 Soi Talay 12"
-phone: "032 36 888"
-type: "Thai"
-url: "www.letussea.com"
+address: 83 / 188 Soi Talay 12
 latitude: 13.620439
 longitude: 100.423482
+phone: 032 36 888
+tags:
+- eating_out
+- restaurant
+- beach
+- bar
+title: Let's Sea
+type: Thai
+url: www.letussea.com
 ---
 
 It is a well known place to chill and soak in the atmosphere with fine wine and beach cuisine. Enjoy tangy Thai favorites and fresh international flavours with plenty of seafood. Luxury gourmet dining on the beach in Hua Hin. Romantic dining.

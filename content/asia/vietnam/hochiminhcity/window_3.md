@@ -1,8 +1,13 @@
 ---
-title: "Window’s Garden Cafe"
+address: 43 Nguyen Dinh Chieu, D1
+phone: 84-8222425
+tags:
+- bars_and_cafes
+- bar
+- park
+- cafe
+title: Window’s Garden Cafe
 type: poi
-address: "43 Nguyen Dinh Chieu, D1"
-phone: "84-8222425"
 ---
 
 No expense has been spared in ensuring this well-known watering hole

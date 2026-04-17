@@ -1,9 +1,15 @@
 ---
-title: "Covent Garden"
-type: poi
-address: "Covent Garden, London WC2E"
+address: Covent Garden, London WC2E
 latitude: 51.511944
 longitude: -0.122778
+tags:
+- things_to_do
+- park
+- market
+- square
+- restaurant
+title: Covent Garden
+type: poi
 ---
 
 Covent Garden's central piazza was London's main market from the 17th century until the fruit and vegetable trade moved south of the river in 1974. The Victorian market building now houses shops and restaurants, but the square retains its character as one of the better places in central London for street performance — the pitches are licensed and the standard varies from adequate to genuinely impressive.

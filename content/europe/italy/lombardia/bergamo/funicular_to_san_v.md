@@ -1,5 +1,10 @@
 ---
-title: "Funicular to San Vigilio"
+tags:
+- getting_around
+- church
+- cafe
+- bar
+title: Funicular to San Vigilio
 type: poi
 ---
 

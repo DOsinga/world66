@@ -1,8 +1,13 @@
 ---
 admission: Free
-category: Neighbourhood
 latitude: 45.4356
 longitude: 12.3233
+tags:
+- things_to_do
+- market
+- square
+- cafe
+- neighbourhood
 title: Campo Santa Margherita
 type: poi
 ---

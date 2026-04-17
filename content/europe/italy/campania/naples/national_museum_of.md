@@ -1,13 +1,14 @@
 ---
 address: Piazza Museo 19, 80135 Naples
 admission: €15
-category: Museum
 latitude: 40.852
 longitude: 14.2503
 opening_hours: Wed–Mon 09:00–19:30; closed Tue
 tags:
 - 48 Hours in Naples
 - 3 Days in Naples
+- things_to_do
+- museum
 title: Museo Archeologico Nazionale (MANN)
 type: poi
 url: www.museoarcheologiconapoli.it

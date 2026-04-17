@@ -1,12 +1,14 @@
 ---
 address: Vico del Grottone 4, 80132 Naples
 admission: €10–€15 depending on tour type
-category: Sight
 latitude: 40.8374
 longitude: 14.2463
 opening_hours: Wed–Mon 10:00–17:00; closed Tue
 tags:
 - 3 Days in Naples
+- things_to_do
+- museum
+- palace
 title: Galleria Borbonica (Bourbon Tunnel)
 type: poi
 url: www.galleriaborbonica.com

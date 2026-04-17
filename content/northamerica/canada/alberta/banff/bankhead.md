@@ -1,7 +1,10 @@
 ---
-category: Sight
 latitude: 51.096
 longitude: -115.3555
+tags:
+- things_to_do
+- park
+- theatre
 title: Bankhead
 type: poi
 ---

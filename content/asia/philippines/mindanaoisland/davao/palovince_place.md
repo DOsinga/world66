@@ -1,10 +1,13 @@
 ---
-title: "PALOVINCE PLACE"
-type: poi
-address: "Lacson St., Bo. Obrero, Davao City"
-email: "jeanne.sato@yahoo.com"
-phone: "082-2254019"
-type: "Local"
+address: Lacson St., Bo. Obrero, Davao City
+email: jeanne.sato@yahoo.com
+phone: 082-2254019
+tags:
+- eating_out
+- restaurant
+- square
+title: PALOVINCE PLACE
+type: Local
 ---
 
 MUST TRY THE MOUTHWATERING HOUSE SPECIALTY...

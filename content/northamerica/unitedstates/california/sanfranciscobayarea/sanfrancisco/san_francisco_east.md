@@ -1,8 +1,12 @@
 ---
-title: 'East Beach (Crissy Field)'
-type: poi
 latitude: 37.8041
 longitude: -122.4646
+tags:
+- beaches
+- beach
+- park
+title: East Beach (Crissy Field)
+type: poi
 ---
 
 East Beach runs along the northern edge of Crissy Field in the Presidio. It is the only beach in San Francisco on the Bay shore, and since the restoration of the wetlands and sand dunes, it has become extremely popular with families and dog owners who share the space amicably.

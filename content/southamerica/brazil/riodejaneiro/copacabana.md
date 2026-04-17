@@ -1,8 +1,13 @@
 ---
-title: 'Copacabana'
-type: poi
 latitude: -22.971974
 longitude: -43.1843
+tags:
+- beaches
+- beach
+- church
+- palace
+title: Copacabana
+type: poi
 ---
 
 Perhaps the most famous beach in the world, Copacabana stretches four kilometres in a wide arc along Rio's Zona Sul. The distinctive Portuguese wave-pattern pavement along Avenida Atlantica is an icon in its own right. The beach is divided into *postos* (sections marked by lifeguard stations), each known for a different crowd -- families, athletes, artists.

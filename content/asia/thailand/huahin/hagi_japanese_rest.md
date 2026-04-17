@@ -1,11 +1,13 @@
 ---
-title: "Hagi Japanese Restaurant"
-type: poi
-phone: "(032) 512-021-38"
-type: "Japanese"
-url: "www.hua-hin-travel.com"
 latitude: 12.568697
 longitude: 99.960037
+phone: (032) 512-021-38
+tags:
+- eating_out
+- restaurant
+title: Hagi Japanese Restaurant
+type: Japanese
+url: www.hua-hin-travel.com
 ---
 
 Japanese food at it's best in the

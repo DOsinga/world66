@@ -1,5 +1,8 @@
 ---
-title: "Bruno's Cafe & Grill ."
+tags:
+- eating_out
+- cafe
+title: Bruno's Cafe & Grill .
 type: poi
 ---
 

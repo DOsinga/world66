@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 55.594715
 longitude: 13.008134
+tags:
+- bars_and_cafes
+- bar
 title: Ice Bar
 type: Hotspots
 ---

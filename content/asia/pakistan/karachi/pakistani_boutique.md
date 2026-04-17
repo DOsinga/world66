@@ -1,12 +1,14 @@
 ---
-title: "Pakistani Boutique Shop Lehenga & Shalwar Kameez Fashion"
-type: poi
-accessibility: "24 hours"
-address: "zamzama online"
-email: "links@fashno.com"
-phone: "03125291188"
-type: "Shopping centers and malls"
-url: "www.fashno.com"
+accessibility: 24 hours
+address: zamzama online
+email: links@fashno.com
+phone: 03125291188
+tags:
+- shopping
+- shop
+title: Pakistani Boutique Shop Lehenga & Shalwar Kameez Fashion
+type: Shopping centers and malls
+url: www.fashno.com
 ---
 
 Fashno Shop is an online **Pakistani Boutique**. Fashno.com has large collection of Designer **Shalwar Kameez**, Indian **Lehenga Choli**, Sharara, Gharara, Mens **Sherwani**. All Wedding and Bridal Womens Wear Cloth collection. We deliver world wide.

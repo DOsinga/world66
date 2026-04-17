@@ -1,7 +1,12 @@
 ---
-category: Neighbourhood
 latitude: 40.836111
 longitude: 14.243889
+tags:
+- things_to_do
+- monument
+- square
+- cafe
+- neighbourhood
 title: Piazza dei Martiri
 type: poi
 ---

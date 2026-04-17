@@ -1,12 +1,15 @@
 ---
-title: 'Exploratorium'
-type: poi
-category: 'Museum'
-address: 'Pier 15, The Embarcadero'
-phone: '(415) 528-4444'
-url: 'www.exploratorium.edu'
+address: Pier 15, The Embarcadero
 latitude: 37.8017
 longitude: -122.3975
+phone: (415) 528-4444
+tags:
+- things_to_do
+- museum
+- bar
+title: Exploratorium
+type: poi
+url: www.exploratorium.edu
 ---
 
 The Exploratorium is one of the best science museums in the country, now housed in a stunning waterfront location on Pier 15. Hundreds of hands-on exhibits cover everything from light and sound to weather and biology. It is fantastic for kids but genuinely engaging for adults too -- you can easily spend half a day here.

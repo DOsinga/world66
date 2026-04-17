@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 40.827778
 longitude: 14.138889
+tags:
+- things_to_do
+- theatre
 title: Campi Flegrei (Phlegraean Fields)
 type: poi
 ---

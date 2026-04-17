@@ -1,13 +1,16 @@
 ---
-title: "Mimosa, 88 Bui Vien, District !"
-type: poi
-accessibility: "On the street Level"
-address: "88 Bui Vien St,HCMC"
-phone: "8.377544"
-price: "$1-$5 U.S."
-type: "Local"
+accessibility: On the street Level
+address: 88 Bui Vien St,HCMC
 latitude: 10.765741
 longitude: 106.690757
+phone: '8.377544'
+price: $1-$5 U.S.
+tags:
+- eating_out
+- restaurant
+- neighbourhood
+title: Mimosa, 88 Bui Vien, District !
+type: Local
 ---
 
 Mimosa is a locally run restaurant, very clean, with an excellent chef. I tried many dishes of different ethnicities and all were well prepared, Western and Asian.

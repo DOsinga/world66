@@ -1,9 +1,12 @@
 ---
-title: "Suan Son Pradiphat Beach"
-type: poi
-type: "Hotspots"
 latitude: 12.499773
 longitude: 99.974584
+tags:
+- things_to_do
+- park
+- beach
+title: Suan Son Pradiphat Beach
+type: Hotspots
 ---
 
 Fringed with pine trees, Suan Son Pradiphat is a peaceful, lovely beach, where you can get away from it all.

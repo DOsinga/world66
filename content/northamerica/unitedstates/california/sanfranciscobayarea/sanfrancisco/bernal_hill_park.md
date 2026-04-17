@@ -1,11 +1,14 @@
 ---
-title: 'Bernal Hill Park'
-type: poi
-category: 'Sight'
-address: '1 Andover St, San Francisco, CA'
-opening_hours: 'Dawn to dusk'
+address: 1 Andover St, San Francisco, CA
 latitude: 37.7418
 longitude: -122.4162
+opening_hours: Dawn to dusk
+tags:
+- things_to_do
+- park
+- neighbourhood
+title: Bernal Hill Park
+type: poi
 ---
 
 Just south of the Mission, Bernal Hill offers one of the best 360-degree panoramas in the city -- and unlike Twin Peaks, it is not overrun with tour buses. The grassy hilltop is closed to car traffic, making it a peaceful spot for walking, dog watching, and taking in views that stretch from downtown to the Bay and beyond.

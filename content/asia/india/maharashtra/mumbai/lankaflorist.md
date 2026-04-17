@@ -1,13 +1,15 @@
 ---
-title: "lankaflorist"
-type: poi
-address: "colombo"
-email: "lsflorist05@gmail.com"
-phone: "9997515288"
-type: "Shopping centers and malls"
-url: "www.lankaflorist.com"
+address: colombo
+email: lsflorist05@gmail.com
 latitude: 6.938861
 longitude: 79.854201
+phone: '9997515288'
+tags:
+- shopping
+- shop
+title: lankaflorist
+type: Shopping centers and malls
+url: www.lankaflorist.com
 ---
 
 Gifts to Sri Lanka, Flowers to Sri Lanka,

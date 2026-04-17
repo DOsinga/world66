@@ -1,8 +1,10 @@
 ---
 address: Riddarholmen
-category: Architecture
 latitude: 59.325016
 longitude: 18.062353
+tags:
+- things_to_do
+- church
 title: Riddarholm Church
 type: poi
 ---

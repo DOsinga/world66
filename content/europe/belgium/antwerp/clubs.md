@@ -1,8 +1,13 @@
 ---
-title: "Clubs"
-type: poi
 latitude: 51.174543
 longitude: 4.397775
+tags:
+- bars_and_cafes
+- bar
+- cafe
+- club
+title: Clubs
+type: poi
 ---
 
 **Place to go outs**

@@ -1,9 +1,11 @@
 ---
-title: "Mount Apo National Park"
-type: poi
-category: Sight
 latitude: 6.947052
 longitude: 125.274259
+tags:
+- things_to_do
+- park
+title: Mount Apo National Park
+type: poi
 ---
 
 At 2,954 meters, this is the country's tallest peak. Other

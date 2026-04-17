@@ -1,9 +1,11 @@
 ---
-category: Sight
 done:
   location_cleanup: '2026-04-08'
 latitude: 51.415
 longitude: -116.2134
+tags:
+- things_to_do
+- palace
 title: Lake Louise
 type: poi
 ---

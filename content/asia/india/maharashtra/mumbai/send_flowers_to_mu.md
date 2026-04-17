@@ -1,9 +1,11 @@
 ---
-title: "Send Flowers To Mumbai"
-type: poi
-email: "info@sendflowerstomumbai.com"
-type: "Shopping centers and malls"
-url: "www.sendflowerstomumbai.com"
+email: info@sendflowerstomumbai.com
+tags:
+- shopping
+- shop
+title: Send Flowers To Mumbai
+type: Shopping centers and malls
+url: www.sendflowerstomumbai.com
 ---
 
 Send Flowers To Mumbai

@@ -1,9 +1,13 @@
 ---
-title: "Piazza Vecchia"
-type: poi
-category: "Sight"
 latitude: 45.704038
 longitude: 9.662898
+tags:
+- things_to_do
+- palace
+- tower
+- square
+title: Piazza Vecchia
+type: poi
 ---
 
 The heart of Città Alta and one of the finest medieval squares in northern Italy. The Contarini Fountain from 1780 sits at its center, flanked by the Civic Library and the Palazzo della Ragione from the 1400s.

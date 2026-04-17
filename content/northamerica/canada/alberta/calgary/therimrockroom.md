@@ -1,5 +1,8 @@
 ---
-title: "The Rimrock Room ."
+tags:
+- eating_out
+- restaurant
+title: The Rimrock Room .
 type: poi
 ---
 

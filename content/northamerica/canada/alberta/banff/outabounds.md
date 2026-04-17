@@ -1,9 +1,11 @@
 ---
-category: Club
 done:
   location_cleanup: '2026-04-10'
 latitude: 51.176
 longitude: -115.571
+tags:
+- bars_and_cafes
+- bar
 title: HooDoos
 type: poi
 ---

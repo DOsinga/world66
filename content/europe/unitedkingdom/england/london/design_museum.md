@@ -1,13 +1,16 @@
 ---
-title: "Design Museum"
-type: poi
-address: "224-238 Kensington High Street, London W8 6AG"
-phone: "+44 20 3862 5900"
-url: "designmuseum.org"
-opening_hours: "Daily 10am-6pm"
-admission: "Free (special exhibitions charged)"
+address: 224-238 Kensington High Street, London W8 6AG
+admission: Free (special exhibitions charged)
 latitude: 51.499722
 longitude: -0.200833
+opening_hours: Daily 10am-6pm
+phone: +44 20 3862 5900
+tags:
+- things_to_do
+- museum
+title: Design Museum
+type: poi
+url: designmuseum.org
 ---
 
 The Design Museum moved to its current home in the former Commonwealth Institute building in Kensington in 2016, a vast improvement on its cramped original space on Shad Thames. The permanent collection — Designer Maker User — covers the history of design from mass production to the present day, and is free. It includes everything from iconic posters and chairs to the Apple Mac.

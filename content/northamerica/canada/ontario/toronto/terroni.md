@@ -1,12 +1,14 @@
 ---
-title: "Terroni"
-type: poi
-address: "720 Queen Street West"
-email: "http://www.terroni.ca/locations.html"
-phone: "416 504-0320"
-type: "Italian"
+address: 720 Queen Street West
+email: http://www.terroni.ca/locations.html
 latitude: 39.838952
 longitude: -75.172299
+phone: 416 504-0320
+tags:
+- eating_out
+- restaurant
+title: Terroni
+type: Italian
 ---
 
 If you need to know a truly great pizza-pasta restaurant in Toronto, this is it. There was a queue outside on a Friday night but it moved fast and I soon got a seat at the bar, where I ate. Nice atmosphere, good service, excellent pizza with really fresh tomato sauce on it and a selection of italian wines.

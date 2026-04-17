@@ -1,12 +1,15 @@
 ---
-title: 'Boston Public Garden'
-type: poi
-category: 'Park'
-address: 'Arlington St.'
-phone: '617-522-1966'
-url: 'www.swanboats.com'
+address: Arlington St.
 latitude: 42.3541
 longitude: -71.0705
+phone: 617-522-1966
+tags:
+- things_to_do
+- park
+- monument
+title: Boston Public Garden
+type: poi
+url: www.swanboats.com
 ---
 
 Adjacent to the Boston Common, the Public Garden is a slightly more formal greenspace with lush plantings, majestic trees, ornate fountains, and impressive statues. Founded in 1837, it is a quiet oasis in the middle of the city.

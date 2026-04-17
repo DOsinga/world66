@@ -1,11 +1,17 @@
 ---
 address: Piazza del Plebiscito, Naples
 admission: €4
-category: Sight
 latitude: 40.835856
 longitude: 14.248565
 opening_hours: 9:00-20:00, closed Wednesdays
 phone: +39 081 580 8111
+tags:
+- things_to_do
+- museum
+- church
+- palace
+- monument
+- square
 title: Palazzo Reale
 type: poi
 ---

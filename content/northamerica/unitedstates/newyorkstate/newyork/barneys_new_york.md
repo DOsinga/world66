@@ -1,12 +1,14 @@
 ---
-title: "Barney's New York"
-type: poi
-address: "660 Madison Avenue"
-phone: "212-716-8817"
-type: "Shopping centers and malls"
-url: "www.barneys.com"
+address: 660 Madison Avenue
 latitude: 40.764739
 longitude: -73.971142
+phone: 212-716-8817
+tags:
+- shopping
+- shop
+title: Barney's New York
+type: Shopping centers and malls
+url: www.barneys.com
 ---
 
 From Manolo Blahnik and Prada to Armani and Zac Posen -- Barney's New York is a designer fashion lover's dream. The uptown flagship store is a must -- even if you only have a few hours to spare.

@@ -1,8 +1,11 @@
 ---
-title: "Hua Hin, Thailand"
+author: DK Publishing
+isbn: '756601746'
+tags:
+- books
+- book
+title: Hua Hin, Thailand
 type: poi
-author: "DK Publishing"
-isbn: "756601746"
 ---
 
 DK Publishing

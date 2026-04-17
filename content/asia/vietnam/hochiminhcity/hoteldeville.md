@@ -1,7 +1,8 @@
 ---
-category: Architecture
 latitude: 46.582248
 longitude: 0.342294
+tags:
+- things_to_do
 title: Hotel de Ville
 type: poi
 ---

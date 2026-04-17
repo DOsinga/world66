@@ -1,12 +1,17 @@
 ---
-title: "Sasi Garden Theatre"
-type: poi
-address: "83/159 Nhongkae Hua Hin"
-email: "sasi@sasi-restaurant.com"
-phone: "Tel:032-512-488 Fax: 032-536-987 Mobile for English 01-880-4004 Closed to Hyatt Regency Resort"
-price: "THB 750 with Thai Set Menu and Transfer if you stay within Hua Hin area."
-type: "Thai"
-url: "www.sasi-restaurant.com"
+address: 83/159 Nhongkae Hua Hin
+email: sasi@sasi-restaurant.com
+phone: 'Tel:032-512-488 Fax: 032-536-987 Mobile for English 01-880-4004 Closed to
+  Hyatt Regency Resort'
+price: THB 750 with Thai Set Menu and Transfer if you stay within Hua Hin area.
+tags:
+- eating_out
+- restaurant
+- park
+- theatre
+title: Sasi Garden Theatre
+type: Thai
+url: www.sasi-restaurant.com
 ---
 
 **"A First for Hua Hin"**

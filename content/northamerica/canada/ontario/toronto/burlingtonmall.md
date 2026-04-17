@@ -1,8 +1,11 @@
 ---
-title: "Burlington Mall ."
-type: poi
 latitude: 43.348322
 longitude: -79.794113
+tags:
+- shopping
+- shop
+title: Burlington Mall .
+type: poi
 ---
 
 120 stores and services. Open Monday to Friday 10am-9pm, Saturday 9:30am-6pm and Sunday 12pm-5pm. 

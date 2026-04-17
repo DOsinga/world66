@@ -1,13 +1,16 @@
 ---
-title: "Eden Nature Park"
-type: poi
-category: Sight
-address: "Eden, Toril"
-email: "info@edennaturepark.com.ph"
-phone: "+63 82 299-1020, +639189307590"
-url: "www.edennaturepark.com.ph"
+address: Eden, Toril
+email: info@edennaturepark.com.ph
 latitude: 7.031887
 longitude: 125.397809
+phone: +63 82 299-1020, +639189307590
+tags:
+- things_to_do
+- park
+- theatre
+title: Eden Nature Park
+type: poi
+url: www.edennaturepark.com.ph
 ---
 
 Eden Nature Park is nestled at the foot of Mt. Talomo. At 2,650 feet above sea level, the resort offers one of the best views of Davao City and the Davao gulf. It used to be an over-logged area in the '70s until the Ayalas planted pine trees all over the place, making the resort 95% man-made. Today, the place provides a relaxing alternative to the bustling city life with its cool weather and unpolluted air.

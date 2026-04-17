@@ -1,13 +1,16 @@
 ---
-title: "Birrificio Ristorante Pizzeria Maivisto"
-type: poi
-address: "Via Maivista 3, 24010 Sedrina - Valle Brembana"
-phone: "Tel/Fax 0039 035 63 62 23"
-price: "€13 (without drinks and desserts)"
-type: "Italian"
-url: "www.maivisto.info"
+address: Via Maivista 3, 24010 Sedrina - Valle Brembana
 latitude: 45.770243
 longitude: 9.613079
+phone: Tel/Fax 0039 035 63 62 23
+price: €13 (without drinks and desserts)
+tags:
+- eating_out
+- restaurant
+- bar
+title: Birrificio Ristorante Pizzeria Maivisto
+type: Italian
+url: www.maivisto.info
 ---
 
 A Brew Pub which sells 4 kinds of beer - home made with local mountain water and passion: pils, ale, double bock and a scotch ale which can also be had from the spout. It's located in an old restructured building with a cantina, a courtyard and a terrace with room for 500 people. Closed Mondays.

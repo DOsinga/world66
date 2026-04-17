@@ -1,9 +1,12 @@
 ---
-title: "Alan Hartcourt"
+accessibility: easy, frontage
+address: 159 Bui Vien St Hochiminh City
+phone: 0908443968
+tags:
+- bars_and_cafes
+- bar
+title: Alan Hartcourt
 type: poi
-accessibility: "easy, frontage"
-address: "159 Bui Vien St Hochiminh City"
-phone: "0908443968"
 ---
 
 RIVER BAR

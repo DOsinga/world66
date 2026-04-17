@@ -1,5 +1,9 @@
 ---
-title: "Surf Pakistan Surf!"
+tags:
+- beaches
+- beach
+- club
+title: Surf Pakistan Surf!
 type: poi
 ---
 

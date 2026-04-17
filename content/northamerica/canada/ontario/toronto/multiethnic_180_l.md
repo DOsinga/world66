@@ -1,5 +1,7 @@
 ---
-title: "Multi-Ethnic 180 Languages!"
+tags:
+- people
+title: Multi-Ethnic 180 Languages!
 type: poi
 ---
 

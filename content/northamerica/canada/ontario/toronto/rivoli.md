@@ -1,14 +1,17 @@
 ---
-title: "Rivoli"
-type: poi
-address: "334 Queen St. West"
-email: "mail@rivoli.ca"
-phone: "416 596-1908"
-price: "$$$"
-type: "International"
-url: "rivoli.ca"
+address: 334 Queen St. West
+email: mail@rivoli.ca
 latitude: 43.649408
 longitude: -79.394943
+phone: 416 596-1908
+price: $$$
+tags:
+- eating_out
+- restaurant
+- bar
+title: Rivoli
+type: International
+url: rivoli.ca
 ---
 
 This is a popular with locals and has been for many years. There is

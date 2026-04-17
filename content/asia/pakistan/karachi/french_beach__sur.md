@@ -1,5 +1,9 @@
 ---
-title: "French Beach - SURF PAKISTAN!"
+tags:
+- beaches
+- beach
+- club
+title: French Beach - SURF PAKISTAN!
 type: poi
 ---
 

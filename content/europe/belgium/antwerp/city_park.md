@@ -1,9 +1,13 @@
 ---
-title: "City Park"
-type: poi
-type: "Parks, Gardens and Zoos"
 latitude: -26.10607
 longitude: 28.23814
+tags:
+- things_to_do
+- park
+- bridge
+- neighbourhood
+title: City Park
+type: Parks, Gardens and Zoos
 ---
 
 The triangular shaped city park is okay for a stroll. There is a high

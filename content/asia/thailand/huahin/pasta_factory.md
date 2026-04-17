@@ -1,12 +1,14 @@
 ---
-title: "Pasta Factory"
-type: poi
-address: "129/5 Petchkasem Road Soi 73"
-email: "hannes@pasta-factory-huahin.com"
-phone: "0 9918 1827"
-price: "300"
-type: "International"
-url: "www.pasta-factory-huahin.com"
+address: 129/5 Petchkasem Road Soi 73
+email: hannes@pasta-factory-huahin.com
+phone: 0 9918 1827
+price: '300'
+tags:
+- eating_out
+- restaurant
+title: Pasta Factory
+type: International
+url: www.pasta-factory-huahin.com
 ---
 
 The first thing you notice is the classical music in the background, and the décor. Oh the décor, magnifico!

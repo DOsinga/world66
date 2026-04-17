@@ -1,8 +1,12 @@
 ---
-title: "Utö"
-type: poi
 latitude: 58.947593
 longitude: 18.262304
+tags:
+- day_trips
+- beach
+- restaurant
+title: Utö
+type: poi
 ---
 
 A nice little island just a 40 minutes boat trip from the mainland (Årsta Brygga). 

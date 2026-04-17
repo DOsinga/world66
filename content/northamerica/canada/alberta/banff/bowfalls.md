@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 51.16741
 longitude: -115.560901
+tags:
+- things_to_do
 title: Bow Falls .
 type: general
 ---

@@ -1,10 +1,11 @@
 ---
-title: "Musée de la Faïence"
-type: poi
-category: Museum
-type: "general"
 latitude: 49.109325
 longitude: 7.070429
+tags:
+- things_to_do
+- palace
+title: Musée de la Faïence
+type: general
 ---
 
 Château Pastré – 157 avenue de Montredon (8e) – Tel : 04 91 72 43 47

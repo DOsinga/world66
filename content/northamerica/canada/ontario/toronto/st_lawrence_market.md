@@ -1,11 +1,13 @@
 ---
-title: "St. Lawrence Market"
-type: poi
-category: Neighbourhood
+address: 93 Front Street East, Toronto, ON M5E 1C3
 latitude: 43.6487
 longitude: -79.3716
-url: "https://www.stlawrencemarket.com"
-address: "93 Front Street East, Toronto, ON M5E 1C3"
+tags:
+- things_to_do
+- market
+title: St. Lawrence Market
+type: poi
+url: https://www.stlawrencemarket.com
 ---
 
 Built in 1850, St. Lawrence Market sits at the corner of Front and Jarvis and remains one of Toronto's essential stops. The selection of fresh meat, produce, and prepared food is outstanding, and the lunch options are both good and cheap.

@@ -1,5 +1,8 @@
 ---
-title: "Public Buildings"
+tags:
+- things_to_do
+- tower
+title: Public Buildings
 type: poi
 ---
 

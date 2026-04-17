@@ -1,7 +1,10 @@
 ---
-category: Sight
 latitude: 10.791528
 longitude: 106.697687
+tags:
+- things_to_do
+- church
+- monument
 title: Jade Pagoda
 type: poi
 ---

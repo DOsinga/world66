@@ -1,5 +1,9 @@
 ---
-title: "Feirarte I"
+tags:
+- shopping
+- shop
+- market
+title: Feirarte I
 type: poi
 ---
 

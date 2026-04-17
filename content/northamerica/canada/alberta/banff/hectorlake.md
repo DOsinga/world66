@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 51.58275
 longitude: -116.351063
+tags:
+- things_to_do
 title: Hector Lake .
 type: poi
 ---

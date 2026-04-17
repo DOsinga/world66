@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 10.778912
 longitude: 106.64922
+tags:
+- things_to_do
+- church
 title: Giac Lam Pagoda
 type: poi
 ---

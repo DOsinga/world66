@@ -1,11 +1,13 @@
 ---
-title: "Sjokkel"
-type: poi
-address: "Wijngaardstraat 26"
-phone: "03 234 28 27"
-type: "Speciality shops"
+address: Wijngaardstraat 26
 latitude: 51.201932
 longitude: 3.224612
+phone: 03 234 28 27
+tags:
+- shopping
+- shop
+title: Sjokkel
+type: Speciality shops
 ---
 
 Small children shop in the Wijngaardstraat, lots of good wooden toys.

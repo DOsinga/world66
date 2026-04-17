@@ -1,13 +1,15 @@
 ---
-title: "Freda's"
-type: poi
-address: "86 Bathurst Street"
-email: "paulina@fredas.com"
-phone: "(416) 703-0304"
-type: "Speciality shops"
-url: "www.fredas.com"
+address: 86 Bathurst Street
+email: paulina@fredas.com
 latitude: 43.643485
 longitude: -79.402791
+phone: (416) 703-0304
+tags:
+- shopping
+- shop
+title: Freda's
+type: Speciality shops
+url: www.fredas.com
 ---
 
 Freda's offers a unique shopping experience unlike any other boutique.

@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: -33.8438
 longitude: 151.2414
+tags:
+- things_to_do
 title: Taronga Zoo
 type: poi
 url: www.taronga.org.au

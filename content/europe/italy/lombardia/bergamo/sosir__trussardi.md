@@ -1,12 +1,15 @@
 ---
-title: "Trussardi Factory Outlet (ex Sosir)"
-type: poi
-address: "Via Milano 40, 24011 Almè, Bergamo"
-phone: "035  634 111"
-type: "Speciality shops"
-url: "www.network-partners.it"
+address: Via Milano 40, 24011 Almè, Bergamo
 latitude: 45.741172
 longitude: 9.609943
+phone: 035  634 111
+tags:
+- shopping
+- shop
+- club
+title: Trussardi Factory Outlet (ex Sosir)
+type: Speciality shops
+url: www.network-partners.it
 ---
 
 Now known as TRS Evolution, it has all kinds of goods: leather goods, men's and women's suits and clothes all from the world famous designer, Trussardi, who was born in Almè and has a gorgeous house in Città Alta looking down over the lower town.

@@ -1,7 +1,9 @@
 ---
-category: Museum
 latitude: 51.172111
 longitude: -115.573471
+tags:
+- things_to_do
+- museum
 title: Luxton Museum .
 type: general
 ---

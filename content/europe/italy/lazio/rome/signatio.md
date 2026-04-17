@@ -1,12 +1,15 @@
 ---
-title: "Sant'Ignazio"
-type: poi
-category: "Sight"
-address: "Piazza di Sant'Ignazio, 00186 Rome"
-opening_hours: "Daily 07:30–19:00"
-admission: "Free"
+address: Piazza di Sant'Ignazio, 00186 Rome
+admission: Free
 latitude: 41.8992
 longitude: 12.4803
+opening_hours: Daily 07:30–19:00
+tags:
+- things_to_do
+- church
+- square
+title: Sant'Ignazio
+type: poi
 ---
 
 A Baroque Jesuit church from 1722 with one of the most remarkable painted ceilings in Rome. The local residents refused to fund a dome, so the painter Andrea Pozzo instead painted a trompe l'oeil ceiling fresco that creates the illusion of a dome and soaring architecture. Stand on the yellow disc marked on the nave floor for the full effect — from anywhere else the perspective collapses.

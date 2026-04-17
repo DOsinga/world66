@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 51.441765
 longitude: -116.351073
+tags:
+- things_to_do
 title: The Great Divide .
 type: poi
 ---

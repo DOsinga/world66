@@ -1,10 +1,12 @@
 ---
 address: Pier St, Darling Harbour
-category: Sight
 latitude: -33.8676
 longitude: 151.1996
 opening_hours: 9:30am to 5pm daily
 phone: (02) 9240 8888
+tags:
+- things_to_do
+- park
 title: Chinese Garden of Friendship
 type: poi
 ---

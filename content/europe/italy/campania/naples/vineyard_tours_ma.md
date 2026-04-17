@@ -1,10 +1,11 @@
 ---
 address: Via Manfredi 75/81, Atripalda
-category: Sight
 email: maestro@mastroberardino.com
 latitude: 40.924703
 longitude: 14.830179
 phone: +39 0825 614 111
+tags:
+- things_to_do
 title: Mastroberardino Vineyard
 type: poi
 url: www.mastroberardino.com

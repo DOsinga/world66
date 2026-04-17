@@ -1,13 +1,15 @@
 ---
-title: "A floral magic that rocks your event"
-type: poi
-address: "lakeroad"
-email: "flowersmumbai@hotmail.com"
-phone: "81306480000"
-type: "Antiques"
-url: "www.flowerdeliverymumbai.com"
+address: lakeroad
+email: flowersmumbai@hotmail.com
 latitude: 35.336529
 longitude: -97.148571
+phone: '81306480000'
+tags:
+- shopping
+- shop
+title: A floral magic that rocks your event
+type: Antiques
+url: www.flowerdeliverymumbai.com
 ---
 
 It’s flowers that you always bank on, as far as the celebrations are concerned. Not just because they are beautiful, but also because

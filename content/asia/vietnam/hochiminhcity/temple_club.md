@@ -1,10 +1,15 @@
 ---
-title: "Temple Club"
-type: poi
-address: "29 – 31 Ton That Thiep, D1"
-phone: "+84 829 9244"
-price: "VND80,000-VND150,000"
-type: "Vietnamese"
+address: 29 – 31 Ton That Thiep, D1
+phone: +84 829 9244
+price: VND80,000-VND150,000
+tags:
+- eating_out
+- restaurant
+- church
+- bar
+- club
+title: Temple Club
+type: Vietnamese
 ---
 
 his high-end restaurant, attached to an equally elegant bar and lounge,

@@ -1,5 +1,7 @@
 ---
-title: "Mariefred & Gripsholms slott"
+tags:
+- day_trips
+title: Mariefred & Gripsholms slott
 type: poi
 ---
 

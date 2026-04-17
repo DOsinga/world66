@@ -1,7 +1,11 @@
 ---
-title: "Club Cabane"
-type: poi
-type: "Clubs and dancing"
+tags:
+- bars_and_cafes
+- bar
+- beach
+- club
+title: Club Cabane
+type: Clubs and dancing
 ---
 
 An exclusive beach club in Antwerp...

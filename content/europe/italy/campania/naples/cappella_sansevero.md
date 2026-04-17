@@ -1,13 +1,14 @@
 ---
 address: Via Francesco de Sanctis 19, 80134 Naples
 admission: €8
-category: Sight
 latitude: 40.8493
 longitude: 14.2549
 opening_hours: Wed–Mon 09:00–19:00; closed Tue
 tags:
 - 48 Hours in Naples
 - 3 Days in Naples
+- things_to_do
+- church
 title: Cappella Sansevero
 type: poi
 url: www.museosansevero.it

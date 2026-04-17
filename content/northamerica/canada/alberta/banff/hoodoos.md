@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 52.49297
 longitude: -112.233449
+tags:
+- things_to_do
 title: Hoodoos .
 type: poi
 ---

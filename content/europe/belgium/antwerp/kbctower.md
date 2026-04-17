@@ -1,5 +1,9 @@
 ---
-title: "KBC Tower"
+tags:
+- things_to_do
+- tower
+- neighbourhood
+title: KBC Tower
 type: poi
 ---
 

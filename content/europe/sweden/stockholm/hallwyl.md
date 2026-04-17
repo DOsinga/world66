@@ -1,8 +1,11 @@
 ---
 address: Hamngatan 4
-category: Museum
 latitude: 59.13348
 longitude: 12.92352
+tags:
+- things_to_do
+- museum
+- palace
 title: Hallwyl
 type: poi
 ---

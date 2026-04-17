@@ -1,13 +1,17 @@
 ---
-title: "Greenwich and the Royal Observatory"
-type: poi
-address: "Royal Observatory, Blackheath Avenue, Greenwich SE10 8XJ"
-phone: "+44 20 8858 4422"
-url: "www.rmg.co.uk/royal-observatory"
-opening_hours: "Daily 10am-5pm"
-admission: "£16 adults, £8 children (Cutty Sark and Planetarium sold separately)"
+address: Royal Observatory, Blackheath Avenue, Greenwich SE10 8XJ
+admission: £16 adults, £8 children (Cutty Sark and Planetarium sold separately)
 latitude: 51.476823
 longitude: -0.001468
+opening_hours: Daily 10am-5pm
+phone: +44 20 8858 4422
+tags:
+- things_to_do
+- museum
+- park
+title: Greenwich and the Royal Observatory
+type: poi
+url: www.rmg.co.uk/royal-observatory
 ---
 
 Greenwich is one of the most rewarding half-days out in London. Start at the Cutty Sark — the last surviving Victorian tea clipper, now a museum ship in dry dock near the river. Walk up through the Old Royal Naval College (free to enter, the painted hall is extraordinary) and climb the hill to the Royal Observatory, where you can straddle the Prime Meridian — the Greenwich Meridian, zero degrees longitude by international convention since 1884.

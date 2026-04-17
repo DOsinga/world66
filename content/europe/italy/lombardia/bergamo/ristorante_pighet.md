@@ -1,14 +1,16 @@
 ---
-title: "Ristorante Pighet"
-type: poi
-address: "Via Maresana, Ponteranica (Bergamo)"
-email: "info@pighet.it"
-phone: "035 51 63 55"
-price: "€31 more or less"
-type: "Italian"
-url: "www.pighet.it"
+address: Via Maresana, Ponteranica (Bergamo)
+email: info@pighet.it
 latitude: 45.723509
 longitude: 9.659977
+phone: 035 51 63 55
+price: €31 more or less
+tags:
+- eating_out
+- restaurant
+title: Ristorante Pighet
+type: Italian
+url: www.pighet.it
 ---
 
 This restaurant on a hill surrounded by nature and with a panoramic view has seating for 230 people on the veranda outdoors, 40 on the ground floor and 80 people on the upper floor. You can also have wedding receptions, work meeting luncheons, birthday parties, graduation parties, first communion parties, dinners with dancing music, wedding anniversaries and baptism receptions.

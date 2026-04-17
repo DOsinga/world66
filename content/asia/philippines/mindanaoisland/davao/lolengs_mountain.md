@@ -1,10 +1,13 @@
 ---
-title: "Loleng's Mountain Spring Resort"
-type: poi
-category: Sight
-address: "Toril, Davao City"
+address: Toril, Davao City
 latitude: 7.026937
 longitude: 125.409233
+tags:
+- things_to_do
+- church
+- restaurant
+title: Loleng's Mountain Spring Resort
+type: poi
 ---
 
 Loleng's Mountain Spring Resort is another nature resort that commands a dramatic vista of metropolitan Davao. Blessed with a cool climate, it has accommodation, convention and sports facilities. It also has a vast playground, chapel, restaurant and a free-flowing spring water swimming pool. Entrance fee of P50 unless you are booked for an overnight stay.

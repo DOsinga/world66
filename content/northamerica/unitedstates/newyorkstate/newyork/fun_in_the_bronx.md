@@ -1,7 +1,11 @@
 ---
-title: "Fun in the Bronx"
+tags:
+- day_trips
+- church
+- park
+title: Fun in the Bronx
 type: poi
-url: "www.mta.info; www.nybg.org; www.bronxzoo.com; www.arthuravenue.com"
+url: www.mta.info; www.nybg.org; www.bronxzoo.com; www.arthuravenue.com
 ---
 
 Normal

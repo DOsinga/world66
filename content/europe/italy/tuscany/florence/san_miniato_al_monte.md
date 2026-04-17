@@ -1,13 +1,16 @@
 ---
-title: "San Miniato al Monte"
-type: poi
-category: Sight
-address: "Via delle Porte Sante 34, 50125 Florence"
-opening_hours: "Mon–Sat 08:00–19:30; Sun 08:30–19:30"
-admission: "Free"
+address: Via delle Porte Sante 34, 50125 Florence
+admission: Free
 latitude: 43.7598
 longitude: 11.2647
-tags: ["3 Days in Florence"]
+opening_hours: Mon–Sat 08:00–19:30; Sun 08:30–19:30
+tags:
+- 3 Days in Florence
+- things_to_do
+- church
+- square
+title: San Miniato al Monte
+type: poi
 ---
 
 An 11th-century Romanesque basilica above Piazzale Michelangelo, often missed by visitors who stop at the terrace below. The green-and-white marble facade, geometric inlaid floors, and golden mosaic apse are among the finest medieval interiors in Tuscany. The resident Benedictine monks sing Gregorian vespers daily at around 17:30 — attending is free and one of the most unexpectedly moving experiences the city offers.

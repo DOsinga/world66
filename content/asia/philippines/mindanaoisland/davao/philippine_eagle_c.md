@@ -1,10 +1,12 @@
 ---
-title: "Philippine Eagle Conservation Centre"
-type: poi
-category: Sight
-address: "Baguio District"
+address: Baguio District
 latitude: 7.17091
 longitude: 125.321074
+tags:
+- things_to_do
+- neighbourhood
+title: Philippine Eagle Conservation Centre
+type: poi
 ---
 
 ****A must for all conservationists and nature lovers to visit!

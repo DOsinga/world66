@@ -1,11 +1,16 @@
 ---
-title: 'Taqueria Cancun'
-type: poi
-address: '2288 Mission St'
-phone: '(415) 252-9560'
-price: '$2-6 per item'
+address: 2288 Mission St
 latitude: 37.7601
 longitude: -122.4191
+phone: (415) 252-9560
+price: $2-6 per item
+tags:
+- eating_out
+- restaurant
+- market
+- neighbourhood
+title: Taqueria Cancun
+type: poi
 ---
 
 There are two Cancun locations -- one in the Mission near 20th and Mission Street and another at 6th and Market downtown. Both serve the same fantastic Mexican food at rock-bottom prices. For less than five dollars you can wrap your hands around a super burrito with your choice of meat and a basket of chips with homemade salsas. The pollo asado (grilled chicken) is highly recommended in taco, burrito, or quesadilla form.

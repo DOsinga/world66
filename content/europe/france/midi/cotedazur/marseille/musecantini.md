@@ -1,9 +1,10 @@
 ---
-title: "Musée Cantini"
-type: poi
-category: Museum
 latitude: 43.292207
 longitude: 5.378208
+tags:
+- things_to_do
+title: Musée Cantini
+type: poi
 ---
 
 19, rue Grignan (6e) – Metro : Estrangin-Préfecture – Tel : 04 91 54 77 75

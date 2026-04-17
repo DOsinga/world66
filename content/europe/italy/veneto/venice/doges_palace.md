@@ -1,10 +1,15 @@
 ---
 address: Piazza San Marco 1, 30124 Venice
 admission: €14 full; combined museum pass available
-category: Sight
 latitude: 45.4339
 longitude: 12.34
 opening_hours: Daily 09:00–18:00 (19:00 in summer)
+tags:
+- things_to_do
+- museum
+- church
+- palace
+- bridge
 title: Doge's Palace
 type: poi
 url: www.visitmuve.it

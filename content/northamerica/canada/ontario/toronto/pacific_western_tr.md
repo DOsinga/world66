@@ -1,8 +1,10 @@
 ---
-title: "Pacific Western Transportation"
+phone: 1-800-387-6787
+tags:
+- getting_around
+title: Pacific Western Transportation
 type: poi
-phone: "1-800-387-6787"
-url: "www.pacificwesterntoronto.com"
+url: www.pacificwesterntoronto.com
 ---
 
 With over 50 years of experience, Pacific Western Toronto has developed

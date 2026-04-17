@@ -1,5 +1,8 @@
 ---
-title: "Arlo's ."
+tags:
+- eating_out
+- restaurant
+title: Arlo's .
 type: poi
 ---
 

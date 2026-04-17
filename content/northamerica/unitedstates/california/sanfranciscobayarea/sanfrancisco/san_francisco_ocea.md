@@ -1,8 +1,12 @@
 ---
-title: 'Ocean Beach'
-type: poi
 latitude: 37.7604
 longitude: -122.5107
+tags:
+- beaches
+- beach
+- palace
+title: Ocean Beach
+type: poi
 ---
 
 Ocean Beach is San Francisco's largest beach, stretching five miles along the city's entire western edge. The northern section near the Cliff House is popular with locals, surfers in wetsuits, and visitors. The beach hosts a yearly sand sculpture contest and its gentle slope makes it ideal for wading.

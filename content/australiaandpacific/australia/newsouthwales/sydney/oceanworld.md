@@ -1,9 +1,10 @@
 ---
 address: West Esplanade, Manly
-category: Sight
 latitude: -33.7988
 longitude: 151.2836
 phone: (02) 8251 7877
+tags:
+- things_to_do
 title: Sea Life Sanctuary Manly
 type: poi
 ---

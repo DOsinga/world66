@@ -1,8 +1,10 @@
 ---
-title: "La Villa Restaurant Hua Hin"
-type: poi
-type: "Italian"
-url: "www.la-villa-huahin.com"
+tags:
+- eating_out
+- restaurant
+title: La Villa Restaurant Hua Hin
+type: Italian
+url: www.la-villa-huahin.com
 ---
 
 La Villa restaurant Hua Hin famous and popular Italian restaurant in Hua Hin Thailand

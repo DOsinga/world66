@@ -1,5 +1,9 @@
 ---
-title: "Café Ersta"
+tags:
+- bars_and_cafes
+- bar
+- cafe
+title: Café Ersta
 type: poi
 ---
 

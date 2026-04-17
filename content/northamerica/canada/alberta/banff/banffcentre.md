@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 51.17242
 longitude: -115.563645
+tags:
+- things_to_do
+- club
 title: Banff Centre .
 type: poi
 ---

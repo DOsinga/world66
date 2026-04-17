@@ -1,9 +1,11 @@
 ---
-title: "Musée de la Mode"
-type: poi
-category: Museum
 latitude: 43.929261
 longitude: 2.14428
+tags:
+- things_to_do
+- museum
+title: Musée de la Mode
+type: poi
 ---
 
 11, La Canebière (1er) – Tel : 04 91 56 59 57 – Fax : 04 91 90 76 33

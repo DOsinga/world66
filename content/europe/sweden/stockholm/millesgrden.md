@@ -1,7 +1,9 @@
 ---
-category: Museum
 latitude: 59.359006
 longitude: 18.121267
+tags:
+- things_to_do
+- park
 title: Millesgården
 type: poi
 ---

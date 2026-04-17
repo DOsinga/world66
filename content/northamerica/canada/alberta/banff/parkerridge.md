@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 52.17
 longitude: -117.115
+tags:
+- things_to_do
+- park
 title: Parker Ridge .
 type: poi
 ---

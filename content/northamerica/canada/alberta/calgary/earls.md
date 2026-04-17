@@ -1,9 +1,12 @@
 ---
-title: "Earls"
-type: poi
-address: "4thst and 23rd ave sw"
-price: "10$--24$ per person"
-type: "Lunch"
+address: 4thst and 23rd ave sw
+price: 10$--24$ per person
+tags:
+- eating_out
+- restaurant
+- bar
+title: Earls
+type: Lunch
 ---
 
 FOOOD! Has a great variety of foods to fit your needs.Is equipped with

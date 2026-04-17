@@ -1,14 +1,17 @@
 ---
-title: "Indian Gifts Center"
-type: poi
-accessibility: "24X7"
-address: "56, K R Road, Mumbai"
-email: "igcseo@yahoo.com"
-phone: "9620714436"
-type: "Shopping centers and malls"
-url: "www.indiangiftscenter.com"
+accessibility: 24X7
+address: 56, K R Road, Mumbai
+email: igcseo@yahoo.com
 latitude: 19.121892
 longitude: 72.850608
+phone: '9620714436'
+tags:
+- shopping
+- shop
+- church
+title: Indian Gifts Center
+type: Shopping centers and malls
+url: www.indiangiftscenter.com
 ---
 
 Normal

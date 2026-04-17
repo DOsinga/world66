@@ -1,8 +1,12 @@
 ---
-title: "Squares"
-type: poi
 latitude: 50.846949
 longitude: 4.383085
+tags:
+- things_to_do
+- monument
+- square
+title: Squares
+type: poi
 ---
 
 There are many squares in the centre of Antwerp. Here there are the most important ones:

@@ -1,10 +1,12 @@
 ---
-title: 'Cliff House'
-type: poi
-category: 'Sight'
-address: '1090 Point Lobos Ave'
+address: 1090 Point Lobos Ave
 latitude: 37.7786
 longitude: -122.5141
+tags:
+- things_to_do
+- beach
+title: Cliff House
+type: poi
 ---
 
 Perched on the cliffs above Ocean Beach, the Cliff House has been a San Francisco landmark since the 1860s (though the current building dates from 1909). The site overlooks Seal Rocks, where sea lions bask and bark, and on clear days the views up and down the coast are spectacular.

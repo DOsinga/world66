@@ -1,13 +1,16 @@
 ---
-title: "Leighton House Museum"
-type: poi
-address: "12 Holland Park Road, London W14 8LZ"
-phone: "+44 20 7602 3316"
-url: "www.rbkc.gov.uk/museums/leighton-house"
-opening_hours: "Wed-Mon 10am-5:30pm (closed Tuesday)"
-admission: "£15 adults"
+address: 12 Holland Park Road, London W14 8LZ
+admission: £15 adults
 latitude: 51.498613
 longitude: -0.203161
+opening_hours: Wed-Mon 10am-5:30pm (closed Tuesday)
+phone: +44 20 7602 3316
+tags:
+- things_to_do
+- museum
+title: Leighton House Museum
+type: poi
+url: www.rbkc.gov.uk/museums/leighton-house
 ---
 
 The former home and studio of the Victorian painter Frederic Leighton is one of London's more unusual museums. The building was designed by George Aitchison and extended and elaborated over several decades, culminating in the extraordinary Arab Hall — a tiled, gilded space hung with 15th and 16th-century Iznik tiles that Leighton collected from the Middle East.

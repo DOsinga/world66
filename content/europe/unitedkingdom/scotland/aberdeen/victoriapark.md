@@ -2,6 +2,8 @@
 category: Sight
 latitude: 51.538956
 longitude: -0.034064
+tags:
+- things_to_do
 title: Victoria Park
 type: Parks and Gardens
 ---

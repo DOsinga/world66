@@ -5,6 +5,8 @@ done:
 latitude: 57.1512
 longitude: -2.0781
 phone: 01224 596531
+tags:
+- bars_and_cafes
 title: Inversnecky Cafe
 type: poi
 ---

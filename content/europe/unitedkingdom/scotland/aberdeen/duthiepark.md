@@ -2,6 +2,8 @@
 category: Sight
 latitude: 57.130632
 longitude: -2.103154
+tags:
+- things_to_do
 title: Duthie Park
 type: Parks and Gardens
 ---

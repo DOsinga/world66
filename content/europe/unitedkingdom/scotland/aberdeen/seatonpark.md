@@ -2,6 +2,8 @@
 category: Sight
 latitude: 57.173838
 longitude: -2.100694
+tags:
+- things_to_do
 title: Seaton Park
 type: Parks and Gardens
 ---

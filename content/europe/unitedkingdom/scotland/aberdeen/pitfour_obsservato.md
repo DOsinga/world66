@@ -1,5 +1,7 @@
 ---
-title: "Pitfour Observatory"
+tags:
+- day_trips
+title: Pitfour Observatory
 type: poi
 ---
 

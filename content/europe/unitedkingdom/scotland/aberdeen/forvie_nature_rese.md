@@ -1,9 +1,11 @@
 ---
-title: "Forvie Nature Reserve, Newburgh"
-type: poi
-url: "www.snh.org.uk"
 latitude: 57.331964
 longitude: -1.970719
+tags:
+- day_trips
+title: Forvie Nature Reserve, Newburgh
+type: poi
+url: www.snh.org.uk
 ---
 
 The sand dunes atForvie National Nature Reserve are spectacular. The area is even dubbed the “Northern

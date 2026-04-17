@@ -2,6 +2,8 @@
 category: Sight
 latitude: 57.154315
 longitude: -2.122835
+tags:
+- things_to_do
 title: Westburn Park
 type: Parks and Gardens
 ---

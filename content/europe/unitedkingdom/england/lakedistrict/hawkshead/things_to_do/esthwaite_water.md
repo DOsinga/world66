@@ -1,7 +1,7 @@
 ---
 title: Esthwaite Water
 type: poi
-category: Sight
+tags: [things_to_do, sight, lake]
 latitude: 54.3630
 longitude: -2.9920
 ---

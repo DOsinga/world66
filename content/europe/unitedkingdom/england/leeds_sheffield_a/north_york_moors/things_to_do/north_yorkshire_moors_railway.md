@@ -1,7 +1,7 @@
 ---
 title: "North Yorkshire Moors Railway"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, railway]
 latitude: 54.2468
 longitude: -0.7758
 ---

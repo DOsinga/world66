@@ -1,7 +1,7 @@
 ---
 title: "Plymouth Hoe"
 type: poi
-category: Sight
+tags: [things_to_do, sight, park]
 latitude: 50.3659
 longitude: -4.1441
 story: "Drake was playing bowls on the Hoe when the Spanish Armada was sighted in 1588. He reportedly insisted on finishing the game before setting sail — whether true or not, the story has stuck for four centuries."

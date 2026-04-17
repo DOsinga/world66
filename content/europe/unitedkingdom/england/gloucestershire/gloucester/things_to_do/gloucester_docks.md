@@ -1,7 +1,7 @@
 ---
 title: "Gloucester Docks"
 type: poi
-category: Neighbourhood
+tags: [things_to_do, neighbourhood, harbour]
 latitude: 51.8578
 longitude: -2.2492
 address: "Llanthony Road, Gloucester GL1 2EH"

@@ -1,7 +1,7 @@
 ---
 title: Beatrix Potter Gallery
 type: poi
-category: Museum
+tags: [things_to_do, museum]
 latitude: 54.3754
 longitude: -2.9988
 ---

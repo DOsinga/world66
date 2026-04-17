@@ -1,7 +1,7 @@
 ---
 title: "Gloucester Cathedral"
 type: poi
-category: Sight
+tags: [things_to_do, sight, cathedral]
 latitude: 51.8654
 longitude: -2.2471
 address: "College Green, Gloucester GL1 2LX"

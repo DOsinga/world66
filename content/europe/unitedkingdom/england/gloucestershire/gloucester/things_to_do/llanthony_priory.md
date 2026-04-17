@@ -1,7 +1,7 @@
 ---
 title: "Llanthony Secunda Priory"
 type: poi
-category: Sight
+tags: [things_to_do, sight, ruins]
 latitude: 51.8548
 longitude: -2.2574
 ---

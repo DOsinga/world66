@@ -1,7 +1,7 @@
 ---
 title: Hawkshead Grammar School
 type: poi
-category: Museum
+tags: [things_to_do, museum, historic_building]
 latitude: 54.3748
 longitude: -2.9987
 story: >

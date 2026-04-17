@@ -33,8 +33,8 @@ For every POI `.md` file in a section subdirectory, add a `tags:` field that inc
 - The **section slug** it belongs to (e.g. `things_to_do`, `shopping`, `eating_out`, `bars_and_cafes`), 
   based on the folder you find it in, or assign if no folder is available.
 - Any **neighbourhood slug** from the existing `neighbourhood:` field — convert it to a
-  tag. If a poi is in a neighborhood folder, do the same. Drop the `neighbourhood:` field
-  when done. Also drop the `category:` field if present — tags now drive the filter bar.
+  tag. If a poi is in a neighborhood folder, do the same. Drop the neighbourhood: field
+  when done.
 - Any other relevant cross-cutting tags, indicating aspects of this poi you know, including the type
   of place like restaurant, bar, museum, castle, park etc. Use your best judgment for type tags 
   we'll normalize these in a follow-up pass after seeing what the full distribution     

@@ -1,7 +1,9 @@
 ---
 title: "Bahrain Fort (Qal'at al-Bahrain)"
 type: poi
-category: Architecture
+tags:
+  - things_to_do
+  - architecture
 latitude: 26.2336
 longitude: 50.5206
 ---

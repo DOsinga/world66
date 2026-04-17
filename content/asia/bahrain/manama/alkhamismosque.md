@@ -1,7 +1,9 @@
 ---
 title: "Al-Khamis Mosque"
 type: poi
-category: Architecture
+tags:
+  - things_to_do
+  - architecture
 latitude: 26.2056
 longitude: 50.5539
 ---

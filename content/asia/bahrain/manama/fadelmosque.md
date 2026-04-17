@@ -1,7 +1,9 @@
 ---
 title: "Al Fadhel Mosque"
 type: poi
-category: Architecture
+tags:
+  - things_to_do
+  - architecture
 latitude: 26.2300
 longitude: 50.5750
 ---

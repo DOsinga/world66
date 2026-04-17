@@ -1,7 +1,9 @@
 ---
 title: "Siyadi House"
 type: poi
-category: Architecture
+tags:
+  - things_to_do
+  - architecture
 latitude: 26.255214
 longitude: 50.612677
 ---

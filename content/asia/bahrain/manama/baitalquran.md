@@ -1,7 +1,9 @@
 ---
 title: "Beit al-Qur'an"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
 latitude: 26.239755
 longitude: 50.59153
 ---

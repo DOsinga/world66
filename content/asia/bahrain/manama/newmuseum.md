@@ -1,7 +1,9 @@
 ---
 title: "Bahrain National Museum"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
 latitude: 26.2447
 longitude: 50.6092
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Republic Square"
 type: poi
-category: "Neighbourhood"
+tags: [things_to_do, sight]
 address: "Trg Republike, Belgrade"
 latitude: 44.8162
 longitude: 20.4603

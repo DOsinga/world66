@@ -1,7 +1,7 @@
 ---
 title: "Temple of Saint Sava"
 type: poi
-category: "Sight"
+tags: [things_to_do, church]
 address: "Svetog Save 1, Belgrade"
 latitude: 44.7980
 longitude: 20.4692

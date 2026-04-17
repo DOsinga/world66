@@ -1,6 +1,5 @@
 ---
 address: Place Sainte-Croix
-category: Architecture
 latitude: 47.4722
 longitude: -0.5537
 story: The house takes its name from the carved wooden figures of Adam and Eve flanking

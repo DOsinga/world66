@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 36.912
 longitude: 22.205
 story: 'Patrick Leigh Fermor walked these mountains for weeks in the 1950s, sleeping

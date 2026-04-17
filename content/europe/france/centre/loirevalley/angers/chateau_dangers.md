@@ -1,6 +1,5 @@
 ---
 address: Promenade du Bout du Monde
-category: Sight
 latitude: 47.4711
 longitude: -0.5597
 tags:

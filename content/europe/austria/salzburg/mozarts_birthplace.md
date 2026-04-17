@@ -1,6 +1,5 @@
 ---
 address: Getreidegasse 9, 5020 Salzburg
-category: Museum
 latitude: 47.800018
 longitude: 13.042237
 tags:

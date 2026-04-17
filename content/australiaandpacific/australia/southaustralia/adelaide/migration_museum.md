@@ -1,6 +1,5 @@
 ---
 address: 82 Kintore Avenue
-category: Museum
 latitude: -34.919704
 longitude: 138.602067
 phone: +61 (0)8 8207 7580

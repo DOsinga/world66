@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 8.3508
 longitude: 80.3958
 story: 'King Dutugemunu, who built the Ruwanwelisaya in the 2nd century BC, is said

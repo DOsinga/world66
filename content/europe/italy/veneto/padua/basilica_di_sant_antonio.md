@@ -1,6 +1,5 @@
 ---
 address: Piazza del Santo 11
-category: Sight
 latitude: 45.4013
 longitude: 11.8808
 tags:

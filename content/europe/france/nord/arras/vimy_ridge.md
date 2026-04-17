@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 50.3795
 longitude: 2.7732
 story: The two white pylons of the Canadian National Vimy Memorial represent Canada

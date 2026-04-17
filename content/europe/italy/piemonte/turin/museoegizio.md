@@ -1,5 +1,4 @@
 ---
-category: museum
 latitude: 45.0684
 longitude: 7.6844
 phone: (39) 011 534623

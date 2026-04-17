@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 43.3998
 longitude: 10.8585
 story: 'The three dark stone heads carved into the arch are Etruscan — they represent

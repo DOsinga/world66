@@ -1,6 +1,5 @@
 ---
 address: Il-Kastell, Victoria, Gozo
-category: Sight
 latitude: 36.0449
 longitude: 14.2396
 tags:

@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 52.2893
 longitude: 104.2958
 story: 'After the failed uprising of December 1825, Tsar Nicholas I exiled the surviving

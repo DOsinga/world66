@@ -1,6 +1,5 @@
 ---
 address: Sovetskaya 15, Minsk
-category: Sight
 latitude: 53.8998
 longitude: 27.5487
 tags:

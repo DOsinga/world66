@@ -1,7 +1,6 @@
 ---
 address: Ernst-Koref-Promenade 1, 4020 Linz
 admission: €11, reduced €7.50
-category: Museum
 hours: Tue–Sun 10:00–18:00, Thu until 21:00, closed Mon
 latitude: 48.3075
 longitude: 14.2872

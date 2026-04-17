@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 56.3574
 longitude: 16.4685
 story: Eketorp was excavated in the 1960s and 70s, revealing three distinct phases

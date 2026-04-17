@@ -1,5 +1,4 @@
 ---
-category: Sight
 done:
   location_cleanup: '2026-04-08'
 latitude: 44.025

@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 43.7697
 longitude: 19.5428
 story: 'The Sargan Eight gets its name from the figure-of-eight shape the track traces

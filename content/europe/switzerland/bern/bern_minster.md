@@ -1,6 +1,5 @@
 ---
 address: Münsterplatz 1, 3011 Bern
-category: Sight
 latitude: 46.9478
 longitude: 7.4516
 tags:

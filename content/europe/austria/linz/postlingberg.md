@@ -1,7 +1,6 @@
 ---
 address: Pöstlingberg, 4040 Linz
 admission: Free (tram fare applies)
-category: Sight
 latitude: 48.3267
 longitude: 14.2508
 story: 'The Pöstlingbergbahn opened in 1898 and was engineered to climb a 10.5% gradient

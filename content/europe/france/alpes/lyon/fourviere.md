@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 45.7622
 longitude: 4.8222
 tags:

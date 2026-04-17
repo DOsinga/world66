@@ -1,6 +1,5 @@
 ---
 address: Triq Gnien Xibla, Xaghra, Gozo
-category: Sight
 latitude: 36.0472
 longitude: 14.2691
 tags:

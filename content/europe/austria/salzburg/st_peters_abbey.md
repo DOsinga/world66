@@ -1,6 +1,5 @@
 ---
 address: St. Peter-Bezirk 1, 5020 Salzburg
-category: Sight
 latitude: 47.7975
 longitude: 13.0447
 story: In the cliffs behind the cemetery are the catacombs — a series of chambers

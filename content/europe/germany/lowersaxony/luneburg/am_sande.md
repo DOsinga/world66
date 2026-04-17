@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 53.2481
 longitude: 10.4087
 story: The square's unusual shape — long, narrow, and slightly curved — follows the

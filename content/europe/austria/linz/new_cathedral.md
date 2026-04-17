@@ -1,7 +1,6 @@
 ---
 address: Herrenstraße 26, 4020 Linz
 admission: Free
-category: Sight
 hours: Daily 07:30–19:00
 latitude: 48.2983
 longitude: 14.2867

@@ -1,6 +1,5 @@
 ---
 address: 44-60 Gouger Street
-category: Sight
 latitude: -34.9294
 longitude: 138.5988
 tags:

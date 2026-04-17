@@ -1,6 +1,5 @@
 ---
 address: 211 Guangzhou Street, Wanhua District, Taipei
-category: Sight
 latitude: 25.0372
 longitude: 121.4999
 tags:

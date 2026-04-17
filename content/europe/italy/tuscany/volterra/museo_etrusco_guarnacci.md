@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 43.4007
 longitude: 10.8619
 story: 'Among the museum''s 600 funerary urns is the Urna degli Sposi — the "Urn of

@@ -1,6 +1,5 @@
 ---
 address: Residenzplatz 1, 5020 Salzburg
-category: Sight
 latitude: 47.798513
 longitude: 13.044929
 tags:

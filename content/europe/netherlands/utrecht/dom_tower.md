@@ -1,6 +1,5 @@
 ---
 address: Domplein 21, 3512 JE
-category: Sight
 latitude: 52.090617
 longitude: 5.121432
 tags:

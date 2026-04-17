@@ -1,6 +1,5 @@
 ---
 address: Mgarr Road, Xewkija, Gozo
-category: Restaurant
 latitude: 36.0384
 longitude: 14.2545
 phone: +356 2155 1315

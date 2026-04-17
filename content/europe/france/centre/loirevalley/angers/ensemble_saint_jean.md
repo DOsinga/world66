@@ -1,6 +1,5 @@
 ---
 address: Boulevard Arago / Place du Tertre
-category: Museum
 latitude: 47.4698
 longitude: -0.5527
 tags:

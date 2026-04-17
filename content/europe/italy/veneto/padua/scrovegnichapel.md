@@ -1,6 +1,5 @@
 ---
 address: Piazza Eremitani 8
-category: Sight
 latitude: 45.411866
 longitude: 11.879518
 opening_hours: Feb-Oct 9am-7pm; Nov-Jan 9am-6pm. Closed Christmas, New Year's Day,

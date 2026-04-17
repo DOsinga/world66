@@ -1,6 +1,5 @@
 ---
 address: 1 Lane 28, Zhongzheng Road, Tamsui District, New Taipei
-category: Sight
 latitude: 25.1756
 longitude: 121.4329
 tags:

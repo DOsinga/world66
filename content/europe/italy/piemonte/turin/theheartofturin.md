@@ -1,5 +1,4 @@
 ---
-category: walking_tour
 latitude: 45.071
 longitude: 7.6862
 tags:

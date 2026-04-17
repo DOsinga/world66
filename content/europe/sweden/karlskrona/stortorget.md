@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 56.1607
 longitude: 15.5862
 story: The square was designed wide enough to muster the entire navy garrison for

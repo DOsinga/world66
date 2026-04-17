@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 50.978
 longitude: 11.3288
 story: The Bauhaus was founded in Weimar in 1919, but the school was forced out by

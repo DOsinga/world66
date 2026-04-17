@@ -1,6 +1,5 @@
 ---
 address: Domplein 21
-category: Sight
 latitude: 52.090617
 longitude: 5.121432
 tags:

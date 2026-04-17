@@ -1,6 +1,5 @@
 ---
 address: Ramla Bay, Xaghra, Gozo
-category: Sight
 latitude: 36.0607
 longitude: 14.2795
 tags:

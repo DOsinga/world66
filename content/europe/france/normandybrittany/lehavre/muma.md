@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 49.4933
 longitude: 0.1016
 story: 'Eugène Boudin was born in Honfleur just across the Seine estuary and spent

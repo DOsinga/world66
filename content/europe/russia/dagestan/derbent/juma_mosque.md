@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 42.0583
 longitude: 48.2875
 story: The building began life as a Christian basilica in the 6th century. When the

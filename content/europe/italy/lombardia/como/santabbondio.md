@@ -1,6 +1,5 @@
 ---
 address: Via Sant'Abbondio
-category: Sight
 latitude: 45.8999
 longitude: 9.1476
 tags:

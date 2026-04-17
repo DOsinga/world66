@@ -1,6 +1,5 @@
 ---
 address: War Memorial Drive, North Adelaide
-category: Sight
 latitude: -34.9156
 longitude: 138.5959
 tags:

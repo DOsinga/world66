@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 47.2566
 longitude: 11.4352
 tags:

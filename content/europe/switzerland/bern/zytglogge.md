@@ -1,6 +1,5 @@
 ---
 address: Kornhausplatz, 3011 Bern
-category: Sight
 latitude: 46.948
 longitude: 7.4479
 tags:

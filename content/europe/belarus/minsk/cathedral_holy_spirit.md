@@ -1,6 +1,5 @@
 ---
 address: Kirilla i Mefodiya 3, Minsk
-category: Sight
 latitude: 53.9033
 longitude: 27.5626
 tags:

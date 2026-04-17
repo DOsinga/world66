@@ -1,6 +1,5 @@
 ---
 address: Triq Ta' Pinu, Gharb, Gozo
-category: Sight
 latitude: 36.0619
 longitude: 14.2149
 tags:

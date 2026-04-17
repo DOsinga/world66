@@ -1,6 +1,5 @@
 ---
 address: The Station, Corner of Camp and Shotover Streets
-category: Sight
 email: bungycentre@ajhackett.co.nz
 latitude: -45.0319
 longitude: 168.6613

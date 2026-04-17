@@ -1,6 +1,5 @@
 ---
 address: Via VIII Febbraio 15
-category: Sight
 latitude: 45.4074
 longitude: 11.8773
 tags:

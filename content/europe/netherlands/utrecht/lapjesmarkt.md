@@ -1,6 +1,5 @@
 ---
 address: Breedstraat
-category: Sight
 latitude: 52.095343
 longitude: 5.120786
 tags:

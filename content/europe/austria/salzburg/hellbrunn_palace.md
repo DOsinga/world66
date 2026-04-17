@@ -1,6 +1,5 @@
 ---
 address: Fürstenweg 37, 5020 Salzburg
-category: Sight
 latitude: 47.7618
 longitude: 13.0604
 story: Prince-Archbishop Markus Sittikus had hidden water jets installed in the stone

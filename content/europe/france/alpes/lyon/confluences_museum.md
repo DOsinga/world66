@@ -1,6 +1,5 @@
 ---
 address: 86 Quai Perrache
-category: Museum
 latitude: 45.7325
 longitude: 4.8181
 tags:

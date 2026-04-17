@@ -1,6 +1,5 @@
 ---
 address: Kramgasse 49, 3011 Bern
-category: Museum
 latitude: 46.9479
 longitude: 7.451
 tags:

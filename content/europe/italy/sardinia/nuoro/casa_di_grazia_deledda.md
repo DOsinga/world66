@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 40.3228
 longitude: 9.3262
 story: 'Grazia Deledda won the Nobel Prize in Literature in 1926 — the first Italian

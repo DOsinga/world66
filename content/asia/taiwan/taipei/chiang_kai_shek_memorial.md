@@ -1,6 +1,5 @@
 ---
 address: 21 Zhongshan South Road, Taipei
-category: Sight
 latitude: 25.034576
 longitude: 121.521781
 tags:

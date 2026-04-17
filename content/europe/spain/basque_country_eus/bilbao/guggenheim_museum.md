@@ -1,6 +1,5 @@
 ---
 address: Abandoibarra Etorb. 2, 48009 Bilbao
-category: Museum
 latitude: 43.2686
 longitude: -2.934
 story: When the museum opened in 1997, the Bilbao effect — the idea that a single

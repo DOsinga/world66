@@ -1,6 +1,5 @@
 ---
 address: Viale Marconi 1
-category: Museum
 latitude: 45.9117
 longitude: 9.1501
 tags:

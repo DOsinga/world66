@@ -1,6 +1,5 @@
 ---
 address: Plaza de Santiago, Casco Viejo, Bilbao
-category: Sight
 latitude: 43.259
 longitude: -2.9243
 tags:

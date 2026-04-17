@@ -1,6 +1,5 @@
 ---
 address: Monument im Fruchtland 3, 3006 Bern
-category: Museum
 latitude: 46.9378
 longitude: 7.4737
 tags:

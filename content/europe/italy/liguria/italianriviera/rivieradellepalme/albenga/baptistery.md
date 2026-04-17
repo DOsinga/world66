@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 44.0498
 longitude: 8.2126
 story: Built in the 5th century, the Albenga baptistery is the finest surviving early

@@ -1,6 +1,5 @@
 ---
 address: North Terrace
-category: Museum
 latitude: -34.921
 longitude: 138.6046
 tags:

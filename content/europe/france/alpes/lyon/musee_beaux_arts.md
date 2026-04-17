@@ -1,6 +1,5 @@
 ---
 address: 20 Place des Terreaux
-category: Museum
 latitude: 45.7675
 longitude: 4.8333
 tags:

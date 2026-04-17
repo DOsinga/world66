@@ -1,5 +1,4 @@
 ---
-category: Neighbourhood
 latitude: 44.0502
 longitude: 8.212
 tags:

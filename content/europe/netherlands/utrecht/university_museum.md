@@ -1,6 +1,5 @@
 ---
 address: Lange Nieuwstraat 106
-category: Museum
 latitude: 52.084567
 longitude: 5.127389
 tags:

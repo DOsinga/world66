@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 43.7745
 longitude: 19.5388
 story: 'Kusturica built Drvengrad as the setting for his 2004 film Life is a Miracle,

@@ -1,6 +1,5 @@
 ---
 address: Xinyi District, Taipei
-category: Architecture
 latitude: 25.033345
 longitude: 121.566896
 story: Taipei 101 was the tallest building in the world from 2004 until it was overtaken

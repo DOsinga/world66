@@ -1,6 +1,5 @@
 ---
 address: Como
-category: Museum
 latitude: 45.9369
 longitude: 9.1534
 opening_hours: By appointment only

@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 43.1849
 longitude: 3.0038
 tags:

@@ -1,7 +1,6 @@
 ---
 address: Ars-Electronica-Straße 1, 4040 Linz
 admission: €16, reduced €10
-category: Museum
 hours: Tue–Fri 09:00–17:00, Sat–Sun 10:00–18:00, closed Mon
 latitude: 48.3083
 longitude: 14.2858

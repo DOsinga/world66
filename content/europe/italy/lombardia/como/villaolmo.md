@@ -1,6 +1,5 @@
 ---
 address: Via Cantoni 1
-category: Architecture
 latitude: 45.9188
 longitude: 9.1442
 tags:

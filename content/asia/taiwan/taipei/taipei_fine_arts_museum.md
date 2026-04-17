@@ -1,6 +1,5 @@
 ---
 address: 181 Zhongshan North Road, Section 3, Taipei
-category: Museum
 latitude: 25.0724
 longitude: 121.5247
 phone: +886 2 2595 7656

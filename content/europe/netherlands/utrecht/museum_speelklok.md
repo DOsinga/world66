@@ -1,6 +1,5 @@
 ---
 address: Steenweg 6
-category: Museum
 latitude: 52.0905
 longitude: 5.1175
 tags:

@@ -1,6 +1,5 @@
 ---
 address: Place Monseigneur Chappoulie
-category: Sight
 latitude: 47.4726
 longitude: -0.5542
 tags:

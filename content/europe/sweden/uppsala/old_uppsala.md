@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 59.8979
 longitude: 17.6306
 story: 'Adam of Bremen, writing in the 1070s, described a great pagan temple at Old

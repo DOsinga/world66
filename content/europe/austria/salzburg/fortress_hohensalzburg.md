@@ -1,6 +1,5 @@
 ---
 address: Mönchsberg 34, 5020 Salzburg
-category: Sight
 latitude: 47.7949
 longitude: 13.0477
 tags:

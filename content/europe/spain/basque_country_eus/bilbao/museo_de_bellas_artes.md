@@ -1,6 +1,5 @@
 ---
 address: Plaza del Museo 2, Bilbao
-category: Museum
 latitude: 43.2668
 longitude: -2.9421
 tags:

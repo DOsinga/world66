@@ -1,6 +1,5 @@
 ---
 address: Ploshchad Pobedy 8, Minsk
-category: Museum
 latitude: 53.9055
 longitude: 27.554
 phone: (+375-17) 226-15-44

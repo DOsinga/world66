@@ -1,7 +1,6 @@
 ---
 address: Hauptplatz, 4020 Linz
 admission: Free
-category: Sight
 latitude: 48.3061
 longitude: 14.2858
 tags:

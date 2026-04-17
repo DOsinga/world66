@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 65.8318
 longitude: 13.187
 story: 'The church was consecrated on 7 August 1735 by local dean Anders Dass — son

@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 43.1851
 longitude: 3.0042
 story: 'The city chose to preserve the Roman fortifications rather than demolish them

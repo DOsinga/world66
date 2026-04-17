@@ -1,6 +1,5 @@
 ---
 address: Avenue Marie Talet
-category: Sight
 latitude: 47.4799
 longitude: -0.5496
 tags:

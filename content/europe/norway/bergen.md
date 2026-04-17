@@ -1,11 +1,12 @@
 ---
-title: Bergen
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 60.394306
 longitude: 5.325919
-done:
-  location_cleanup: 2026-04-06
 score: 0.73
+title: Bergen
+type: location
 ---
 
 Bergen is a 900-year-old Hanseatic city situated between 7 mountains. The city has long been Norway's most important city for trade, shipping and industry. Ships came from the north with fish and from the south with grain, and it all traded in Bergen. During the Middle Ages, Bergen was virtually (though not officially) the capital of Norway. For a period it was also the largest city in the Nordic countries. Bergen's trade and shipping also made it one of the significant cities of Europe. The citizens of Bergen have never forgotten this. The home of composer Edvard Grieg still shows pride in its past. Bergen has been named European City of Culture for 2000.

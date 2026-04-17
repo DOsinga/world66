@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: 51.4818
 longitude: 7.2197
+score: 0.39
 title: Bochum
 type: location
-score: 0.39
 ---
 
 Bochum is a Ruhr city that ran on coal for over a century, then had to figure out what to do when the mines closed. The last shaft went dark in the 1970s, the steel works followed, and Bochum spent the 1980s and 1990s rebuilding itself around universities, culture, and a surprisingly vibrant music and theater scene. It has not become glamorous — this is still a working-class city with a blunt civic pride — but it is livelier and more interesting than its industrial reputation suggests.

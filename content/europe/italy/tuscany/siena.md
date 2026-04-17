@@ -1,13 +1,15 @@
 ---
-title: Siena
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+image: siena.jpg
+image_attribution: Holger Uwe Schmitt
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%2BDie_Kathedrale_Metropolitana_di_Santa_Maria_Assunta_in_Siena._01.jpg
 latitude: 43.167206
 longitude: 11.467561
 score: 0.75
-image: siena.jpg
-image_source: https://commons.wikimedia.org/wiki/File:%2BDie_Kathedrale_Metropolitana_di_Santa_Maria_Assunta_in_Siena._01.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Holger Uwe Schmitt
+title: Siena
+type: location
 ---
 
 Siena is the great rival of Florence, and for many visitors the more lovable of the two. It is a medieval city virtually intact — the centre is closed to traffic, the towers and palaces of the 13th and 14th centuries still dominate the skyline, and the Piazza del Campo is one of the most beautiful urban spaces in Europe. It sits in the hills of Tuscany about 55 km south of Florence, surrounded by vineyards producing Chianti Classico.

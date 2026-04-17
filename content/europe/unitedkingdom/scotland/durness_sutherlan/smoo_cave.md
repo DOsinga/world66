@@ -1,7 +1,9 @@
 ---
 title: "Smoo Cave"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 58.5665
 longitude: -4.7232
 ---

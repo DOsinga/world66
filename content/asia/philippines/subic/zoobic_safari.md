@@ -1,8 +1,8 @@
 ---
 title: "Zoobic Safari"
 type: poi
-category: "Sight"
 address: "Ilanin Forest, Subic Bay Freeport Zone"
+tags: [things_to_do, park]
 latitude: 14.8133
 longitude: 120.2827
 ---

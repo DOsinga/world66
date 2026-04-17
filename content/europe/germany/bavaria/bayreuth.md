@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 49.9446
 longitude: 11.5744
+score: 0.56
 title: Bayreuth
 type: location
-score: 0.56
 ---
 
 Bayreuth is a Franconian city of about 73,000 people, known throughout the world for one thing: Richard Wagner. The composer moved here in 1872, built his own opera house — the Festspielhaus — on a hill above the city, and inaugurated his festival in 1876. It hasn't stopped since. Every July and August, the **Bayreuth Festival** draws opera pilgrims from around the world to sit through four- and five-hour Wagner performances in a theatre designed by Wagner himself, with sight lines and acoustics engineered specifically for his music. Tickets are famously hard to obtain — waiting lists run to years.

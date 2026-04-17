@@ -1,6 +1,8 @@
 ---
 title: "The Serra Verde Express to Paranaguá"
 type: poi
+tags:
+  - day_trips
 latitude: -25.4296
 longitude: -49.2713
 ---

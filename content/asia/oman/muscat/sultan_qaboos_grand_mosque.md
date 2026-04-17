@@ -1,9 +1,11 @@
 ---
-title: "Sultan Qaboos Grand Mosque"
+category: Sight
+latitude: 23.584
+longitude: 58.389
+tags:
+- things_to_do
+title: Sultan Qaboos Grand Mosque
 type: poi
-category: "Sight"
-latitude: 23.5840
-longitude: 58.3890
 ---
 
 Oman's main mosque and one of the most impressive Islamic buildings of the modern era. Completed in 2001, it holds up to twenty thousand worshippers and features a single hand-woven Persian carpet — 4,343 square metres, woven in Iran over four years — and a chandelier eight metres tall with more than a thousand lights.

@@ -1,7 +1,9 @@
 ---
-category: Sight
 latitude: 38.8791
 longitude: -77.0725
+tags:
+- things_to_do
+- sight
 title: Arlington House
 type: poi
 url: https://www.nps.gov/arho

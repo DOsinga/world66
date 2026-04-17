@@ -1,10 +1,13 @@
 ---
-category: Sight
 latitude: 38.8786
 longitude: -77.0694
 story: The Tomb of the Unknown Soldier has been guarded continuously since 1937 —
   through hurricanes, blizzards, and even a 2003 ice storm when the sentinels requested
   permission to remain at their post despite the dangerous conditions.
+tags:
+- things_to_do
+- sight
+- memorial
 title: Arlington National Cemetery
 type: poi
 url: https://www.arlingtoncemetery.mil

@@ -1,7 +1,10 @@
 ---
-category: Sight
 latitude: 38.8893
 longitude: -77.0694
+tags:
+- things_to_do
+- sight
+- memorial
 title: Marine Corps War Memorial (Iwo Jima)
 type: poi
 url: https://www.nps.gov/gwmp/learn/historyculture/usmcwarmemorial.htm

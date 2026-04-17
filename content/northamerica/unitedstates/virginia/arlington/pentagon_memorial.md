@@ -1,7 +1,10 @@
 ---
-category: Sight
 latitude: 38.8719
 longitude: -77.0563
+tags:
+- things_to_do
+- sight
+- memorial
 title: Pentagon Memorial
 type: poi
 url: https://www.pentagonmemorial.org

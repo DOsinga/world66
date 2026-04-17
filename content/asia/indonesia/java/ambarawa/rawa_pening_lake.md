@@ -1,7 +1,10 @@
 ---
 title: 'Rawa Pening Lake'
 type: poi
-category: 'Sight'
+tags:
+  - things_to_do
+  - lake
+  - nature
 address: 'Rawa Pening, Ambarawa'
 latitude: -7.2878
 longitude: 110.4344

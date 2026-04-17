@@ -1,7 +1,10 @@
 ---
 title: 'Ambarawa Train Museum'
 type: poi
-category: 'Museum'
+tags:
+  - things_to_do
+  - museum
+  - railway
 opening_hours: '08:00-17:00'
 latitude: -7.2639
 longitude: 110.4059

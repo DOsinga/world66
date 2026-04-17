@@ -1,7 +1,9 @@
 ---
 title: "Plaza Colón"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: -23.6500
 longitude: -70.3984
 ---

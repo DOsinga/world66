@@ -1,7 +1,9 @@
 ---
 title: "Vietnam Veterans Memorial"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - monument
 latitude: 36.3823
 longitude: -105.5878
 ---

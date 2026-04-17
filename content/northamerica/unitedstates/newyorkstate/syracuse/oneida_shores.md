@@ -1,10 +1,12 @@
 ---
-title: "Oneida Shores"
+address: 9400 Bartell Road, Brewerton, NY 13029
+email: oneida@ongov.net
+phone: (315) 676-7366
+tags:
+- beaches
+title: Oneida Shores
 type: poi
-address: "9400 Bartell Road, Brewerton, NY 13029"
-email: "oneida@ongov.net"
-phone: "(315) 676-7366"
-url: "onondagacountyparks.com"
+url: onondagacountyparks.com
 ---
 
 Oneida Shores is a County Park on Oneida Lake in the northern suburbs of Syracuse. Oneida Lake is the largest inland lake in New York State.

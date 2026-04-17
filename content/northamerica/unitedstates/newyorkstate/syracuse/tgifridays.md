@@ -1,5 +1,7 @@
 ---
-title: "TGIFridays"
+tags:
+- eating_out
+title: TGIFridays
 type: poi
 ---
 

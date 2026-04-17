@@ -1,10 +1,11 @@
 ---
-title: "Razzberry"
-type: poi
-address: "Armory Square, Syracuse"
-type: "Speciality shops"
+address: Armory Square, Syracuse
 latitude: 43.047369
 longitude: -76.155121
+tags:
+- shopping
+title: Razzberry
+type: Speciality shops
 ---
 
 So cool! Kind of expensive, so sooo neat [ for girls ].

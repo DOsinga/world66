@@ -1,5 +1,7 @@
 ---
-title: "Cazanovia Beach"
+tags:
+- beaches
+title: Cazanovia Beach
 type: poi
 ---
 

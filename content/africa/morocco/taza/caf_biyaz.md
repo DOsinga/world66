@@ -1,7 +1,8 @@
 ---
-title: "Café Biyaz"
-type: poi
-type: "Local"
+tags:
+- eating_out
+title: Café Biyaz
+type: Local
 ---
 
 **Cafe Biyaz**

@@ -1,8 +1,9 @@
 ---
-title: "Tour Es-Sarragine"
-type: poi
-address: "Taza-Haut, Medina"
-type: "Landmarks"
+address: Taza-Haut, Medina
+tags:
+- sights
+title: Tour Es-Sarragine
+type: Landmarks
 ---
 
 While strolling around the western part of the Medina walls you will come across the *Tour Es-Sarragine*, the so-called "Saracen tower". From here you have a pleasant view on the Middle Atlas.

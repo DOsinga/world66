@@ -1,9 +1,10 @@
 ---
-title: "Café Picasso"
-type: poi
-address: "Immeuble Aarab Angle,Avenue Mohammed V,35000 Taza"
-phone: "00212-3538-2691"
-type: "Local"
+address: Immeuble Aarab Angle,Avenue Mohammed V,35000 Taza
+phone: 00212-3538-2691
+tags:
+- eating_out
+title: Café Picasso
+type: Local
 ---
 
 If you are looking for a place to breakfast ouside the hotel, the "*Café Picasso*" is a good choice. Unlike most other cafés it is not exclusively frequented by men, so you can feel very comfortable as a woman. The service in this little café is very good.

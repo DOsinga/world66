@@ -2,6 +2,8 @@
 category: Museum
 latitude: 50.068168
 longitude: 8.957556
+tags:
+- things_to_do
 title: Simeonstift
 type: general
 ---

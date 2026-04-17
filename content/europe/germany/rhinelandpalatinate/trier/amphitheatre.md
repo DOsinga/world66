@@ -1,5 +1,7 @@
 ---
 category: Architecture
+tags:
+- things_to_do
 title: Amphitheatre
 type: general
 ---

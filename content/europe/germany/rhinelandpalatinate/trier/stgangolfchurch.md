@@ -2,6 +2,8 @@
 category: Architecture
 latitude: 49.756241
 longitude: 6.640801
+tags:
+- things_to_do
 title: St. Gangolf Church
 type: Churches
 ---

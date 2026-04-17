@@ -2,6 +2,8 @@
 category: Architecture
 latitude: 49.759659
 longitude: 6.644165
+tags:
+- things_to_do
 title: Porta Nigra
 type: Hotspots
 ---

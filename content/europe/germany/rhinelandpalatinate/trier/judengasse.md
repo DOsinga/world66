@@ -2,6 +2,8 @@
 category: Neighbourhood
 latitude: 50.259388
 longitude: 10.958719
+tags:
+- things_to_do
 title: Judengasse
 type: Synagogues
 ---

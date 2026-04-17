@@ -1,7 +1,9 @@
 ---
 title: "US Olympic and Paralympic Training Center"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: 32.6289
 longitude: -116.9733
 ---

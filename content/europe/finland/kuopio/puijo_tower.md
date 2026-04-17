@@ -1,7 +1,7 @@
 ---
 title: "Puijo Tower"
 type: poi
-category: "Sight"
+tags: [things_to_do, observation_tower, viewpoint]
 latitude: 62.9094
 longitude: 27.6553
 ---

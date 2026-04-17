@@ -1,7 +1,10 @@
 ---
 title: 'Muncaster Castle'
 type: poi
-category: 'historic site'
+tags:
+  - things_to_do
+  - castle
+  - historic_site
 address: 'Ravenglass, Cumbria'
 phone: '01229 717 614'
 url: 'www.muncaster.co.uk'

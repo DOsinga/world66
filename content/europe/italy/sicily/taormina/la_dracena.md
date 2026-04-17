@@ -1,6 +1,9 @@
 ---
 title: 'La Dracena'
 type: poi
+tags:
+  - eating_out
+  - restaurant
 address: 'Via Michele Amari 4'
 phone: '+39 0942 23491'
 url: 'www.ladracena.it'

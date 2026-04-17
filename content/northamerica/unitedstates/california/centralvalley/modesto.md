@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 37.6393
 longitude: -120.9969
+score: 0.31
 title: Modesto
 type: location
-score: 0.31
 ---
 
 Modesto sits in the heart of California's Central Valley, surrounded by some of the most productive farmland in the world. Almonds, peaches, wine grapes, and dairy all come from this region, and the city's fortunes have long been tied to the harvest. It is a working city — not a postcard — but that honesty is part of what makes it worth a stop.

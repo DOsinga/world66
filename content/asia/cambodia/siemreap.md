@@ -1,11 +1,12 @@
 ---
-title: Siem Reap
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 13.361756
 longitude: 103.859032
-done:
-  location_cleanup: 2026-04-05
 score: 0.75
+title: Siem Reap
+type: location
 ---
 
 Travel Guide

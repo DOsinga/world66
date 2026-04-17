@@ -1,11 +1,12 @@
 ---
-title: Lake Atitlán
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 14.689
 longitude: -91.2008
-done:
-  location_cleanup: 2026-04-06
 score: 0.68
+title: Lake Atitlán
+type: location
 ---
 
 When Aldous Huxley visited in the 1930s he called Lake Atitlán "the most beautiful lake in the world." It still provokes that kind of hyperbole. The lake sits at 1,562 metres in a volcanic caldera, its deep blue water ringed by three volcanoes — Tolimán, Atitlán, and San Pedro — and a dozen Maya villages on its shores.

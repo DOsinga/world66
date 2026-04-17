@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: -6.771615
 longitude: -79.838718
+score: 0.53
 title: Chiclayo
 type: location
-score: 0.53
 ---
 
 Chiclayo is the gateway to some of Peru's most important archaeological sites. This bustling city of about 250,000 on the northern coast is not much to look at itself, but it is the base for visiting the Royal Tombs of Sipán — one of the most significant archaeological discoveries in the Americas — and the excellent museums that house their treasures.

@@ -1,11 +1,12 @@
 ---
-title: Corregidor
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 14.3837
 longitude: 120.5656
-done:
-  location_cleanup: 2026-04-07
 score: 0.53
+title: Corregidor
+type: location
 ---
 
 Corregidor is a small tadpole-shaped island at the mouth of Manila Bay, 48 kilometres west of Manila. It is one of the most significant World War II sites in Southeast Asia: in the spring of 1942, Filipino and American forces held the island against Japanese assault for months after the fall of Bataan, until the garrison finally surrendered in May. General Douglas MacArthur commanded from the island's underground Malinta Tunnel before being ordered to Australia, famously vowing "I shall return."

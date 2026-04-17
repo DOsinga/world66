@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 29.654205
 longitude: 91.117301
+score: 0.71
 title: Lhasa
 type: location
-score: 0.71
 ---
 
 Lhasa is the capital of Tibet and one of the most extraordinary cities in Asia. Sitting at 3,650 metres on the Tibetan Plateau, it is a place where saffron-robed monks turn prayer wheels along the Barkhor pilgrimage circuit, yak butter candles flicker in ancient temples, and the thin mountain air carries the sound of chanting from a dozen monasteries.

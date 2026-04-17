@@ -1,9 +1,0 @@
----
-title: Wilson Botanical Gardens
-type: poi
-category: Sight
-latitude: 8.7889
-longitude: -82.9600
----
-
-Six kilometers south of San Vito, the Wilson Botanical Gardens form part of the Las Cruces Biological Station, operated by the Organization for Tropical Studies. The gardens hold over 1,000 plant species, including one of the world's largest palm collections. The surrounding forest is outstanding for birding — over 300 species have been recorded here, including several rarely seen elsewhere. Well-maintained trails make it easy to spend a half day exploring. Accommodation is available at the station for those who want to arrive early for dawn birding.

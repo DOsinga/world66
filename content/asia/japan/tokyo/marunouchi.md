@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 35.6791
 longitude: 139.7653
+score: 0.58
 title: Marunouchi
 type: location
-score: 0.58
 ---
 
 Marunouchi is the district between Tokyo Station and the Imperial Palace — the business heart of the city by day, and one of the best areas for a walk. The Imperial Palace grounds are vast: from the Tayasumon Gate in the north to Hibiya Park in the south is a serious stroll.

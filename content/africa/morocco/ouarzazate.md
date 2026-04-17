@@ -1,11 +1,12 @@
 ---
-title: Ouarzazate
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 30.920193
 longitude: -6.910923
-done:
-  location_cleanup: 2026-04-05
 score: 0.6
+title: Ouarzazate
+type: location
 ---
 
 Ouarzazate sits at 1,160 metres in the pre-Saharan south of Morocco, where the High Atlas mountains give way to the desert steppe. It is the main town and transport hub of the region and the gateway to the Draa Valley, the Dades Gorge, and the edge of the Sahara. The Moroccan government developed it in the 1980s as a planned tourism centre, giving it wide boulevards and an airport, but the town itself is quieter than its infrastructure suggests.

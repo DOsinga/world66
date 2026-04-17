@@ -1,11 +1,12 @@
 ---
-title: Manuel Antonio
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 9.3906
 longitude: -84.1406
-done:
-  location_cleanup: 2026-04-07
 score: 0.7
+title: Manuel Antonio
+type: location
 ---
 
 Manuel Antonio is one of Costa Rica's most celebrated destinations, combining pristine Pacific beaches with a compact national park that punches well above its weight in biodiversity. Squeezed onto a small peninsula about 180 km south of San José, Manuel Antonio National Park protects towering primary rainforest, coral reefs, and a string of sheltered coves — all within walking distance of each other.

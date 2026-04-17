@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: -32.8908
 longitude: -68.8272
+score: 0.65
 title: Mendoza
 type: location
-score: 0.65
 ---
 
 Mendoza is the wine capital of Argentina, a sun-drenched city at the foot of the Andes that draws visitors as much for its outdoor adventure as for its world-class Malbec. Set at 760 metres above sea level, it sits roughly 200 km from [Santiago](/southamerica/chile/santiago) across the mountains, and the proximity to the Andes shapes almost everything about it — the climate, the irrigation channels that water its vineyards, and the easy access to some of South America's finest high-altitude terrain.

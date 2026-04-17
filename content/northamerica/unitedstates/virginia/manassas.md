@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 38.7509
 longitude: -77.4753
+score: 0.39
 title: Manassas
 type: location
-score: 0.39
 ---
 
 Manassas is a small city about 30 miles southwest of Washington, D.C., defined almost entirely by its Civil War history. Twice in the space of fourteen months — July 1861 and August 1862 — the armies of the Union and the Confederacy clashed here along a muddy creek called Bull Run, and twice the Union was routed. The battles shattered any illusion that the war would be quick and easy, and the name Manassas became shorthand for hard lessons learned.

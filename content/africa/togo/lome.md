@@ -1,11 +1,12 @@
 ---
-title: Lome
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 6.1304
 longitude: 1.2158
-done:
-  location_cleanup: 2026-04-06
 score: 0.38
+title: Lome
+type: location
 ---
 
 Lomé is one of West Africa's most approachable capitals. It is small enough to walk across, set right on the coast with sandy beaches stretching from the city center, and carries the relaxed energy of a town that has never quite tried to be anything other than itself. The Grand Marché dominates the commercial heart of the city, a sprawling market run almost entirely by women, where you can find everything from Dutch wax prints to traditional medicines.

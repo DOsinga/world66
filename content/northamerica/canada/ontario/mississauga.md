@@ -1,11 +1,12 @@
 ---
-title: Mississauga
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 43.5883
 longitude: -79.6441
-done:
-  location_cleanup: 2026-04-06
 score: 0.36
+title: Mississauga
+type: location
 ---
 
 Mississauga sits just west of [Toronto](/northamerica/canada/ontario/toronto), sprawling along the shore of Lake Ontario. With over 700,000 people, it is Canada's seventh-largest city -- though most visitors know it primarily as the home of Toronto Pearson International Airport. That is a shame, because there is more here than airport hotels and office parks.

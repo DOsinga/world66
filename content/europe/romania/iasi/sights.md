@@ -3,6 +3,4 @@ title: "Sights"
 type: section
 ---
 
-We currently have no Sights listed in Iasi.
-
-If you do know any Sights in Iasi, please [Add].
+Iasi has a wealth of churches, monasteries, and cultural institutions. The Palace of Culture dominates the skyline, and the old town is compact enough to explore on foot.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: -3.3505
 longitude: 40.0166
+score: 0.59
 title: Watamu
 type: location
-score: 0.59
 ---
 
 Watamu is a small beach village on Kenya's coast, about 20 km south of [Malindi](/africa/kenya/thecoast/malindi) and roughly 120 km north of [Mombasa](/africa/kenya/thecoast/mombasa). It sits at the edge of one of East Africa's finest stretches of protected ocean: the Watamu Marine National Reserve, where a pristine coral reef lies just offshore. That reef is the reason most people come here.

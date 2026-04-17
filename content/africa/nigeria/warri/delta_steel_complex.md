@@ -1,7 +1,10 @@
 ---
 title: "Delta Steel Complex"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - industrial
+  - sight
 latitude: 5.5625
 longitude: 5.7456
 ---

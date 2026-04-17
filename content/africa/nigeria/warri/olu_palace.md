@@ -1,7 +1,12 @@
 ---
 title: "Palace of the Olu of Warri"
 type: poi
-category: "Architecture"
+tags:
+  - things_to_do
+  - palace
+  - architecture
+  - history
+  - cultural_heritage
 latitude: 5.5178
 longitude: 5.7460
 ---

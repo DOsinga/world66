@@ -2,6 +2,8 @@
 category: Sight
 latitude: 53.432366
 longitude: 13.152174
+tags:
+- things_to_do
 title: Ehrenhof
 type: Hotspots
 ---

@@ -1,5 +1,7 @@
 ---
 category: Museum
+tags:
+- things_to_do
 title: Das Katze Museum
 type: poi
 ---

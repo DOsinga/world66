@@ -1,9 +1,11 @@
 ---
-title: Augusta
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 44.3106
 longitude: -69.7795
 score: 0.41
+title: Augusta
+type: location
 ---
 
 Augusta has been Maine's capital since 1827, seven years after statehood — and it has the feel of a small New England city that takes its civic role seriously without making a fuss about it. The population hovers around 18,000, and the pace is unhurried. Government is the main business here, and the granite Capitol dome designed by Charles Bulfinch anchors a compact downtown that can be walked in an afternoon.

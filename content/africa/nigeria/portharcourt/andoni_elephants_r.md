@@ -1,9 +1,10 @@
 ---
 accessibility: PH - BORI- ANDONI SLAND
 address: Ekede/Ikuru/Ilotombi
-category: Sight
 email: gogoabelujile@gmail.com
 phone: 08038355499
+tags:
+- things_to_do
 title: Andoni Elephants Reserve
 type: poi
 url: visitandoni.com

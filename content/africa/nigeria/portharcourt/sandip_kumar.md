@@ -1,10 +1,11 @@
 ---
-title: "SANDIP KUMAR"
+address: VPO-DURJANPUR, HISAR,HARYANA,INDIA
+email: sandipkumarbaloda@yahoo.com
+phone: 09255224945
+tags:
+- getting_there
+title: SANDIP KUMAR
 type: poi
-address: "VPO-DURJANPUR, HISAR,HARYANA,INDIA"
-email: "sandipkumarbaloda@yahoo.com"
-phone: "09255224945"
-type: "By Air"
 ---
 
 i have received an offer of job from cambel shipping and logistics compnay portharcourt, nigeria.

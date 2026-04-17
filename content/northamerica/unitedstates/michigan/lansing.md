@@ -1,11 +1,12 @@
 ---
-title: Lansing
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 42.7325
 longitude: -84.5555
-done:
-  location_cleanup: 2026-04-02
 score: 0.37
+title: Lansing
+type: location
 ---
 
 Lansing became Michigan's state capital in 1847 almost by accident. The legislature wanted a seat of government far from the Canadian border, away from [Detroit](/northamerica/unitedstates/michigan/detroit) and its perceived vulnerability. They picked a tiny settlement in the woods of Ingham County, and a capital city grew up around the decision.

@@ -1,9 +1,11 @@
 ---
-title: Nazca
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: -14.82772
 longitude: -74.937062
 score: 0.65
+title: Nazca
+type: location
 ---
 
 Nazca lies 450 km south of Lima in one of the driest places on earth, on the edge of the Atacama Desert where the Andes meet the Pacific coastal plain. The town itself is unremarkable, but the surrounding desert holds one of the world's most puzzling archaeological wonders: the Nazca Lines, a vast network of geoglyphs etched into the desert floor by the Nazca culture between roughly 500 BC and 500 AD.

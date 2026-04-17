@@ -1,7 +1,7 @@
 ---
 title: "Dog on the Tuckerbox"
 type: poi
-category: Sight
+tags: [things_to_do, sights, monument]
 latitude: -35.0291
 longitude: 148.0817
 story: >

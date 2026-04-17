@@ -1,8 +1,12 @@
 ---
-title: "Karting and Beach Buggy racing"
+tags:
+- things_to_do
+- go_karting
+- family_activity
+- outdoor_activity
+title: Karting and Beach Buggy racing
 type: poi
-type: "Other"
-url: "www.mombasa-gokart.com"
+url: www.mombasa-gokart.com
 ---
 
 A Go-Kart track with African charme. You drive under palm trees, and on which other Go-Kart track will you find camels and donkeys and turtles?

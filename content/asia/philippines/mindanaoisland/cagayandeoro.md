@@ -1,11 +1,12 @@
 ---
-title: Cagayan de Oro
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 8.475642
 longitude: 124.642153
-done:
-  location_cleanup: 2026-04-05
 score: 0.45
+title: Cagayan de Oro
+type: location
 ---
 
 Cagayan de Oro is a city of roughly 700,000 on the north coast of Mindanao, the capital of Misamis Oriental province. Its name comes from the Cagayan River, which runs through the city before emptying into Macajalar Bay. The city is one of the main commercial and educational hubs of Mindanao and functions as a gateway to the northern coast of the island.

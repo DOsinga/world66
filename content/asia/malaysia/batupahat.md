@@ -1,11 +1,12 @@
 ---
-title: Batu Pahat
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 1.8536
 longitude: 102.9322
-done:
-  location_cleanup: 2026-04-06
 score: 0.39
+title: Batu Pahat
+type: location
 ---
 
 Batu Pahat is the second-largest town in Johor State, a regional commercial centre on the west coast of the Malaysian peninsula about 110 km northwest of Johor Bahru. The name means "chiselled stone" in Malay — a reference to an ancient well in the coastal village of Kampung Minyak Beku, said to have been cut by Siamese craftsmen and associated in legend with the warrior Hang Tuah. The town is not a major tourist destination but functions as the market and service hub for a wide agricultural and industrial hinterland.

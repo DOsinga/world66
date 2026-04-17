@@ -1,11 +1,10 @@
 ---
-title: "Things to do"
+address: 1 Palm Drive, New Orleans LA, 70124
+email: info@nocp.org
+phone: 504-482-4888
+title: Things to do
 type: section
-address: "1 Palm Drive, New Orleans LA, 70124"
-email: "info@nocp.org"
-phone: "504-482-4888"
-type: "Cycling"
-url: "www.neworleanscitypark.com"
+url: www.neworleanscitypark.com
 ---
 
 Ask any native and they will tell you that the will never get tired of The Big Easy. There are so many unique things to do, amazing places to eat, and outstanding sights to see, you just might extend your New Orleans vacation for a few days for fear you may miss something! While your New Orleans hotel will more than likely be a wonderful and historic attraction in itself, you will definitely want to wander about during the day to explore every corner of The Big Easy and enjoy the numerous New Orleans nightlife activities in the early-late evening. So, whether you're interested in exploring a plantation home or other historic sites throughout the city, or you want to take a jog or walk in an historic park or maybe you want to see what the Voodoo Museum is all about -- New Orleans has you covered!

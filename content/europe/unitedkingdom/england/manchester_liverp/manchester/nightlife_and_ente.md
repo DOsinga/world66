@@ -1,6 +1,6 @@
 ---
-title: Nightlife And Ente
-type: neighbourhood
+title: Nightlife and Entertainment
+type: section
 ---
 
 Neighbourhood area of the city.

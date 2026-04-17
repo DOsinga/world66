@@ -1,7 +1,7 @@
 ---
 title: "Legoland Billund"
 type: poi
-category: Sight
+tags: [things_to_do, theme_park, family, attraction]
 address: "Nordmarksvej 9, 7190 Billund"
 url: "www.legoland.dk"
 opening_hours: "Late March to late October; hours vary by season"

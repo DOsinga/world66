@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 17.222
 longitude: -89.6237
+score: 0.73
 title: Tikal
 type: location
-score: 0.73
 ---
 
 Tikal is the greatest Maya ruin in Guatemala and one of the most impressive archaeological sites anywhere in the Americas. Located in the northern Petén jungle, 65 km from [Flores](/northamerica/guatemala/flores), it is a UNESCO World Heritage Site — designated both for its cultural and natural significance.

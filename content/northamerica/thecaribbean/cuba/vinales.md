@@ -1,9 +1,10 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+score: 0.68
 title: Viñales
 type: location
-score: 0.68
 ---
 
 Viñales and its surrounding valley are among the absolute top attractions of Cuba. Set about 40 km north of [Pinar del Río](/northamerica/thecaribbean/cuba/pinardelrio) in the island's westernmost province, it is a place where the landscape alone justifies the journey.

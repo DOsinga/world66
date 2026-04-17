@@ -1,11 +1,12 @@
 ---
-title: Hampi
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 15.3358
 longitude: 76.46102
-done:
-  location_cleanup: 2026-04-05
 score: 0.72
+title: Hampi
+type: location
 ---
 
 You won't believe what you're seeing when visiting Hampi. The best thing to do is set off for Hospet and leave from this small town for this former capital of a great Hindu empire in the Deccan plateau. In its heydey it was a fairytale city with many temples, palaces and the most beautiful of mansions.

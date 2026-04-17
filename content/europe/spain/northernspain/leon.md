@@ -1,11 +1,12 @@
 ---
-title: León
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-07'
 latitude: 42.5987
 longitude: -5.5671
-done:
-  location_cleanup: '2026-04-07'
 score: 0.64
+title: León
+type: location
 ---
 
 León sits at the edge of the Castilian meseta where the pilgrimage road to Santiago de Compostela descends from the mountains. It's a city that punches above its size: the cathedral alone would justify a detour, and the old quarter has enough Roman walls, Romanesque churches, and tapas bars to fill a proper few days.

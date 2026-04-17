@@ -1,9 +1,0 @@
----
-title: "Grote Markt"
-type: poi
-category: "Neighbourhood"
-latitude: 53.218802
-longitude: 6.567291
----
-
-The central market square, at the foot of the Martini Tower. The old buildings on the east side were flattened by Allied bombing in 1945 and the postwar replacements are uneven, but the square still works as the city's heart — market days Tuesday and Saturday, cafe terraces in summer, and most of the nightlife within a block.

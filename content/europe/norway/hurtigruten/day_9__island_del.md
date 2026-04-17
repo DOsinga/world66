@@ -1,6 +1,10 @@
 ---
 title: "Day 9 - Island delight!"
 type: poi
+tags:
+  - sights
+latitude: 68.4291
+longitude: 17.4257
 ---
 
 This day starts at

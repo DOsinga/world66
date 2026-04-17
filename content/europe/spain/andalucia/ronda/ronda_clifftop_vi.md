@@ -1,6 +1,7 @@
 ---
 title: "Ronda Cliff-top Village Walking Tour (Half Day Private Tour)"
 type: poi
+tags: [things_to_do, tour]
 address: "Ronda"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"

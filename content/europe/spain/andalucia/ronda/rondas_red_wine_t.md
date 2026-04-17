@@ -1,6 +1,7 @@
 ---
 title: "Ronda's Red Wine Tour and Beautiful Andalusia White-Washed Town (Private Wine Tour)"
 type: poi
+tags: [things_to_do, tour]
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"

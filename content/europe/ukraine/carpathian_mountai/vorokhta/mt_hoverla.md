@@ -1,10 +1,12 @@
 ---
-category: Sight
 latitude: 48.1593
 longitude: 24.5004
 story: President Viktor Yushchenko climbed Hoverla during his 2004 election campaign
   as a symbol of his pledge to clean up Ukraine — and literally cleaned up the trail
   on the way down, removing litter left by previous visitors.
+tags:
+- things_to_do
+- mountain
 title: Mt. Hoverla
 type: poi
 ---

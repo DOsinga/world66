@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: -6.1762
 longitude: 106.6382
+score: 0.31
 title: Tangerang
 type: location
-score: 0.31
 ---
 
 Tangerang is a satellite city west of [Jakarta](/asia/indonesia/java/jakarta), best known as the location of Soekarno-Hatta International Airport. Most travelers pass straight through, but the city has its own character with good street food and a growing number of shopping malls.

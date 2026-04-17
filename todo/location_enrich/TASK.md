@@ -15,8 +15,8 @@ Add new content to locations that have already been cleaned up (see `location_cl
    - Only add stories you know are accurate
 
 4. **Add neighbourhood POIs** for large cities:
-   - 3–5 characterful districts as `Neighbourhood` category POIs in `things_to_do/`
-   - Tag relevant POIs in other sections with `neighbourhood: "Name"`
+   - 3–5 characterful districts as POIs with `tags: [things_to_do, neighbourhood]`
+   - Tag relevant POIs with the neighbourhood slug (e.g. `tags: [eating_out, de_pijp]`)
 
 5. **Create missing sections** where they add value:
    - `when_to_go.md`, `getting_there.md`, `getting_around.md` if absent

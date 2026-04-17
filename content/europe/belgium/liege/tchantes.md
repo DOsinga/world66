@@ -1,7 +1,7 @@
 ---
 title: "Tchantchès Puppet Theatre"
 type: poi
-category: "Sight"
+tags: [touristattractions, poi]
 latitude: 50.6451
 longitude: 5.5815
 ---

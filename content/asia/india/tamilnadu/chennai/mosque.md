@@ -1,7 +1,7 @@
 ---
 title: "Thousand Lights Mosque"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 address: "Anna Salai, Thousand Lights, Chennai"
 latitude: 13.059
 longitude: 80.258

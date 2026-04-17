@@ -1,7 +1,7 @@
 ---
 title: "Fort St. George"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 13.079862
 longitude: 80.284669
 ---

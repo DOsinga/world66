@@ -1,7 +1,7 @@
 ---
 title: "Luz Church"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 13.038208
 longitude: 80.262348
 ---

@@ -1,7 +1,7 @@
 ---
 title: "East Pier"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 53.2958
 longitude: -6.1265
 ---

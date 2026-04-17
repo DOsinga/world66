@@ -1,6 +1,7 @@
 ---
 title: "Bryggen"
 type: poi
+tags: [things_to_do, sight]
 latitude: 60.397726
 longitude: 5.322933
 ---

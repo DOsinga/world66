@@ -1,7 +1,7 @@
 ---
 title: "Lac Grenon"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, lake]
 latitude: 46.3101
 longitude: 7.4784
 ---

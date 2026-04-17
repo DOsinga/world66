@@ -1,7 +1,7 @@
 ---
 title: "Santa María a Nova"
 type: poi
-category: Sight
+tags: [things_to_do, sight, church, museum]
 latitude: 42.7843
 longitude: -8.8884
 story: >

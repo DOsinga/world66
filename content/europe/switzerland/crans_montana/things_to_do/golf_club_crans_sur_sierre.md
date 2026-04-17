@@ -1,7 +1,7 @@
 ---
 title: "Golf Club Crans-sur-Sierre"
 type: poi
-category: "Sight"
+tags: [things_to_do, sport, golf]
 latitude: 46.3161
 longitude: 7.4742
 ---

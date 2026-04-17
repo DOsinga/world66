@@ -1,7 +1,7 @@
 ---
 title: "Old Town and Arcades"
 type: poi
-category: Neighbourhood
+tags: [things_to_do, neighbourhood, old_town]
 latitude: 42.7849
 longitude: -8.8878
 ---

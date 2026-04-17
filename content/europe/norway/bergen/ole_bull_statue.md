@@ -1,6 +1,7 @@
 ---
 title: "Ole Bull statue"
 type: poi
+tags: [things_to_do, sight]
 ---
 
 Ole Bull is mentioned on the main Bergen page and his home, Lysøen, is one of the Tourist Board's suggested sights. He was a violinist with an international reputation.

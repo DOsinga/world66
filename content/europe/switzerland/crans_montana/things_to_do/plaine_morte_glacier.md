@@ -1,7 +1,7 @@
 ---
 title: "Plaine Morte Glacier"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, glacier]
 latitude: 46.3706
 longitude: 7.4656
 ---

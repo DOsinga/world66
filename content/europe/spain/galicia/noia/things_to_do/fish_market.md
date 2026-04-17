@@ -1,7 +1,7 @@
 ---
 title: "Fish Market (Lonja)"
 type: poi
-category: Sight
+tags: [things_to_do, sight, market]
 latitude: 42.7862
 longitude: -8.8871
 ---

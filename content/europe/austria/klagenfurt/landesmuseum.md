@@ -2,6 +2,9 @@
 category: Museum
 latitude: 46.6249
 longitude: 14.3072
+tags:
+- things_to_do
+- museum
 title: Landesmuseum Kärnten
 type: poi
 ---

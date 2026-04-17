@@ -2,6 +2,9 @@
 category: Sight
 latitude: 46.6229
 longitude: 14.3086
+tags:
+- things_to_do
+- sight
 title: Klagenfurt Cathedral
 type: poi
 ---

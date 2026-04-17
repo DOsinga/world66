@@ -2,6 +2,9 @@
 category: Architecture
 latitude: 46.6234
 longitude: 14.305
+tags:
+- things_to_do
+- architecture
 title: Landhaus
 type: poi
 ---

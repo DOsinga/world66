@@ -2,6 +2,9 @@
 category: Sight
 latitude: 46.6232
 longitude: 14.3077
+tags:
+- things_to_do
+- sight
 title: Neuer Platz and the Lindwurm Fountain
 type: poi
 ---

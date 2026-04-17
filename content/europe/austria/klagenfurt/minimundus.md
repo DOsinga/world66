@@ -2,6 +2,9 @@
 category: Sight
 latitude: 46.612
 longitude: 14.278
+tags:
+- things_to_do
+- sight
 title: Minimundus
 type: poi
 ---

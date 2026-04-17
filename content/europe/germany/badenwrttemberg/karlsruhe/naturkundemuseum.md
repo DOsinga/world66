@@ -1,7 +1,7 @@
 ---
 title: "Naturkundemuseum (State Museum of Natural History)"
 type: poi
-category: Museum
+tags: [things_to_do]
 latitude: 49.0074
 longitude: 8.3923
 address: "Erbprinzenstraße 13"

@@ -1,7 +1,7 @@
 ---
 title: "Federal Courts"
 type: poi
-category: Architecture
+tags: [things_to_do]
 latitude: 49.0072
 longitude: 8.3854
 ---

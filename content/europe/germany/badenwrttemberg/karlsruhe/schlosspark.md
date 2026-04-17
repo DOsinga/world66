@@ -1,7 +1,7 @@
 ---
 title: "Schlosspark and Municipal Park"
 type: poi
-category: Sight
+tags: [things_to_do]
 latitude: 49.0100
 longitude: 8.4050
 ---

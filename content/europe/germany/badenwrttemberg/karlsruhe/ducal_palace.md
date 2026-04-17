@@ -1,7 +1,7 @@
 ---
 title: "Karlsruher Schloss"
 type: poi
-category: Museum
+tags: [things_to_do]
 latitude: 49.0136
 longitude: 8.4044
 ---

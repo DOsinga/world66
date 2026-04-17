@@ -1,7 +1,7 @@
 ---
 title: "ZKM — Center for Art and Media"
 type: poi
-category: Museum
+tags: [things_to_do]
 latitude: 49.0028
 longitude: 8.3836
 ---

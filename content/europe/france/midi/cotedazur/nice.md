@@ -1,15 +1,16 @@
 ---
-title: Nice
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-04
+image: nice.jpg
+image_attribution: Alexkom000
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2024-09-21_View_of_Nice_1.jpg
 latitude: 43.700936
 longitude: 7.268391
-done:
-  location_cleanup: 2026-04-04
 score: 0.79
-image: nice.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2024-09-21_View_of_Nice_1.jpg
-image_license: CC BY 4.0
-image_attribution: Alexkom000
+title: Nice
+type: location
 ---
 
 Nice is the undisputed capital of the [Cote d'Azur](/europe/france/midi/cotedazur), and it earns that title not just through glamour but through character. The city has a split personality: the wide, formal sweep of the Promenade des Anglais along the seafront, and the tumbling, narrow-laned old town behind it, where laundry flaps from sienna-coloured facades and the smell of socca drifts from corner vendors.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: -12.46044
 longitude: 130.841047
+score: 0.53
 title: Darwin
 type: location
-score: 0.53
 ---
 
 Darwin, the compromising city? The capital of the sparsely populated Northern Territory is in two minds. On the one hand, the tropical city shows her characteristics as gateway to Asia. The city has a cosmopolitan bunch of inhabitants from all sorts of ethnic backgrounds. On the other hand, it is northern part of Australia and although Darwin is not reached that easily, it still belongs to this subcontinent.

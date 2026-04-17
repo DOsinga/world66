@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 45.5083
 longitude: -122.6657
 tags:
 - things_to_do
+- museum
 title: Oregon Museum of Science and Industry
 type: poi
 ---

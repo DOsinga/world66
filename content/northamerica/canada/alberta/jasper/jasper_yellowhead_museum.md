@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 52.8742
 longitude: -118.0812
 tags:
 - things_to_do
+- museum
 title: Jasper Yellowhead Museum & Archives
 type: poi
 ---

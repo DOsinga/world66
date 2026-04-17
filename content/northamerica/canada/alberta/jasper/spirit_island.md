@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 52.6293
 longitude: -117.4684
 story: 'An amateur photographer entered a shot of Spirit Island into a Kodak competition
@@ -10,6 +9,7 @@ story: 'An amateur photographer entered a shot of Spirit Island into a Kodak com
   '
 tags:
 - things_to_do
+- landmark
 title: Spirit Island
 type: poi
 ---

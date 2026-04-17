@@ -1,10 +1,10 @@
 ---
 address: Place Notre-Dame
-category: Sight
 latitude: 45.1924
 longitude: 5.7316
 tags:
 - things_to_do
+- landmark
 title: Cathédrale Notre-Dame
 type: poi
 ---

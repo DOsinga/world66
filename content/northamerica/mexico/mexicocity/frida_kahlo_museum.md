@@ -1,10 +1,10 @@
 ---
-category: Museum
 latitude: 19.3551
 longitude: -99.1623
 tags:
 - things_to_do
 - coyoacán
+- museum
 title: Museo Frida Kahlo
 type: poi
 ---

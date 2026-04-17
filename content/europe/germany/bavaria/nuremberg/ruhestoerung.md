@@ -1,9 +1,9 @@
 ---
-category: Bar
 latitude: 49.454722
 longitude: 11.071944
 tags:
 - bars_and_cafes
+- bar
 title: Ruhestörung
 type: poi
 ---

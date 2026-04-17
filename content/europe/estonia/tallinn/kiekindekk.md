@@ -1,12 +1,12 @@
 ---
 address: Komandandi tee 2
-category: Museum
 latitude: 59.434703
 longitude: 24.741266
 opening_hours: Tue–Fri 10:30–17:30, Sat–Sun 11:30–16:30, closed Mon
 phone: '6446686'
 tags:
 - things_to_do
+- museum
 title: Kiek in de Kök
 type: poi
 ---

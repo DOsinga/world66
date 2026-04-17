@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.2647
 longitude: -99.1037
 tags:
 - things_to_do
+- landmark
 title: Xochimilco
 type: poi
 ---

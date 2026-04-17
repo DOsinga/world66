@@ -1,10 +1,10 @@
 ---
 address: Red Beach, Palo, Leyte
-category: Sight
 latitude: 11.1581
 longitude: 125.0086
 tags:
 - things_to_do
+- landmark
 title: MacArthur Landing Memorial
 type: poi
 ---

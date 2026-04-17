@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 55.684
 longitude: 12.5931
 tags:
 - things_to_do
+- landmark
 title: Amalienborg
 type: poi
 ---

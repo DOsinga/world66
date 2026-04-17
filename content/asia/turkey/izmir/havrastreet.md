@@ -1,7 +1,7 @@
 ---
-category: Sight
 tags:
 - things_to_do
+- landmark
 title: Havra Street
 type: general
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 14.590959
 longitude: 120.974654
 tags:
 - things_to_do
+- neighbourhood
 title: Intramuros
 type: poi
 ---

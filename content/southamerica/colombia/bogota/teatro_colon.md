@@ -1,10 +1,10 @@
 ---
 address: Calle 10 No 5-32
-category: Sight
 latitude: 4.5969
 longitude: -74.0738
 tags:
 - things_to_do
+- landmark
 title: Teatro Colon
 type: poi
 ---

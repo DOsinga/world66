@@ -1,10 +1,10 @@
 ---
 address: Plaza Maimónides s/n
-category: Museum
 latitude: 37.8794
 longitude: -4.7843
 tags:
 - things_to_do
+- museum
 title: Museo Taurino
 type: poi
 ---

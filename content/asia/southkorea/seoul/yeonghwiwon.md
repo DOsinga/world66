@@ -1,11 +1,11 @@
 ---
 address: Jogno
-category: Sight
 latitude: 37.615
 longitude: 127.0776
 phone: 82 2 962 0556
 tags:
 - things_to_do
+- landmark
 title: Yeonghwiwon
 type: poi
 ---

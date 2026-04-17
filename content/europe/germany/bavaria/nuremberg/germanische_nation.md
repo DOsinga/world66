@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 49.451389
 longitude: 11.071944
 tags:
 - things_to_do
+- museum
 title: Germanisches Nationalmuseum
 type: poi
 ---

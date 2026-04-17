@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 4.5981
 longitude: -74.0758
 tags:
 - things_to_do
+- landmark
 title: Plaza Bolivar
 type: poi
 ---

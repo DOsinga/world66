@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.2675
 longitude: -117.2882
 tags:
 - things_to_do
+- landmark
 title: Tangle Falls
 type: poi
 ---

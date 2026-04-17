@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.44245
 longitude: 10.99756
 tags:
 - things_to_do
+- landmark
 title: Piazza Erbe
 type: poi
 ---

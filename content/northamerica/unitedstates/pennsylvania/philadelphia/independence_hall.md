@@ -1,6 +1,5 @@
 ---
 address: 520 Chestnut Street
-category: Sight
 latitude: 39.9489
 longitude: -75.1499
 story: 'Benjamin Franklin, asked by a passerby as he left the Constitutional Convention
@@ -8,6 +7,7 @@ story: 'Benjamin Franklin, asked by a passerby as he left the Constitutional Con
   if you can keep it.'''
 tags:
 - things_to_do
+- landmark
 title: Independence Hall
 type: poi
 ---

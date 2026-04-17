@@ -1,10 +1,10 @@
 ---
 address: Pasaje Doctor Carrillo Casaux, Muelle Uno
-category: Museum
 latitude: 36.7167
 longitude: -4.4156
 tags:
 - things_to_do
+- museum
 title: Centre Pompidou Málaga
 type: poi
 ---

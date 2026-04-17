@@ -1,10 +1,10 @@
 ---
 address: 51 N 12th Street
-category: Sight
 latitude: 39.9532
 longitude: -75.1593
 tags:
 - things_to_do
+- landmark
 title: Reading Terminal Market
 type: poi
 ---

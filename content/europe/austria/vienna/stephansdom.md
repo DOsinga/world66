@@ -1,11 +1,11 @@
 ---
 address: Stephansplatz, 1010 Wien
-category: Sight
 latitude: 48.208084
 longitude: 16.371517
 opening_hours: Mon-Sat 9am-noon and 1pm-5pm, Sun 12:30-5pm
 tags:
 - things_to_do
+- landmark
 title: Stephansdom
 type: poi
 ---

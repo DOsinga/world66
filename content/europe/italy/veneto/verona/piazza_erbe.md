@@ -1,10 +1,10 @@
 ---
 address: Piazza Erbe, 37121 Verona
-category: Sight
 latitude: 45.4431
 longitude: 10.9989
 tags:
 - things_to_do
+- landmark
 title: Piazza Erbe
 type: poi
 ---

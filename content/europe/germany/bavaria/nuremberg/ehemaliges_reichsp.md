@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.435292
 longitude: 11.116332
 tags:
 - things_to_do
+- landmark
 title: Nazi Party Rally Grounds
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Carrera 8 No 8-91
-category: Sight
 latitude: 4.5975
 longitude: -74.0751
 tags:
 - things_to_do
+- landmark
 title: Iglesia Museo Santa Clara
 type: poi
 ---

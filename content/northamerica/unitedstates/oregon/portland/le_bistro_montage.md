@@ -1,9 +1,9 @@
 ---
-category: Restaurant
 latitude: 45.5156
 longitude: -122.6623
 tags:
 - eating_out
+- restaurant
 title: Le Bistro Montage
 type: poi
 ---

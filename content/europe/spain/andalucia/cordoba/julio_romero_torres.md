@@ -1,10 +1,10 @@
 ---
 address: Plaza del Potro 1
-category: Museum
 latitude: 37.8826
 longitude: -4.7732
 tags:
 - things_to_do
+- museum
 title: Museo Julio Romero de Torres
 type: poi
 ---

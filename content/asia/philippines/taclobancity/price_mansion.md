@@ -1,10 +1,10 @@
 ---
 address: Justice Romualdez Street, Tacloban City
-category: Architecture
 latitude: 11.2433
 longitude: 125.0019
 tags:
 - things_to_do
+- architecture
 title: Price Mansion
 type: poi
 ---

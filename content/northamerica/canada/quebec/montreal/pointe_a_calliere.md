@@ -1,11 +1,11 @@
 ---
 address: 350 Place Royale, Montréal, QC H2Y 3Y5
-category: Museum
 latitude: 45.502596
 longitude: -73.55418
 phone: 514 872-9150
 tags:
 - things_to_do
+- museum
 title: Pointe-à-Callière Museum
 type: poi
 url: www.pacmusee.qc.ca

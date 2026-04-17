@@ -1,10 +1,10 @@
 ---
 address: Kiriku plats 1
-category: Architecture
 latitude: 59.437043
 longitude: 24.74035
 tags:
 - things_to_do
+- architecture
 title: Knighthood House
 type: poi
 ---

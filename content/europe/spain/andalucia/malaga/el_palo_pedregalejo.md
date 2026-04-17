@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 36.7194
 longitude: -4.3744
 tags:
 - things_to_do
+- neighbourhood
 title: El Palo and Pedregalejo
 type: poi
 ---

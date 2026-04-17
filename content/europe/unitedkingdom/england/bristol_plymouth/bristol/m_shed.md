@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.4489
 longitude: -2.6023
 tags:
 - things_to_do
+- museum
 title: M Shed
 type: poi
 ---

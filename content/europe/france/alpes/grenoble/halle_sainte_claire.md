@@ -1,10 +1,10 @@
 ---
 address: Place Sainte-Claire
-category: Sight
 latitude: 45.1903
 longitude: 5.7305
 tags:
 - things_to_do
+- landmark
 title: Halle Sainte-Claire
 type: poi
 ---

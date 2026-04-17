@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 49.454606
 longitude: 11.074262
 tags:
 - things_to_do
+- museum
 title: Spielzeugmuseum
 type: poi
 ---

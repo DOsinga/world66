@@ -1,12 +1,12 @@
 ---
 accessibility: Totally Wheelchair Accessible
 address: 3015 Grand Avenue
-category: Neighbourhood
 latitude: 25.728644
 longitude: -80.242038
 phone: 305-444-0777
 tags:
 - things_to_do
+- neighbourhood
 title: Coconut Grove
 type: Streets
 ---

@@ -1,10 +1,10 @@
 ---
-category: Architecture
 latitude: 34.0639
 longitude: -4.9819
 tags:
 - things_to_do
 - fes_el_bali
+- architecture
 title: Bou Inania Madrasa
 type: poi
 ---

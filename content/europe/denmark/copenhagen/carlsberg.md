@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 55.6635
 longitude: 12.5362
 tags:
 - things_to_do
+- landmark
 title: Carlsberg
 type: poi
 ---

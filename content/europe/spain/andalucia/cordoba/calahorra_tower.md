@@ -1,10 +1,10 @@
 ---
 address: Puente Romano s/n
-category: Sight
 latitude: 37.8754
 longitude: -4.7771
 tags:
 - things_to_do
+- landmark
 title: Torre de la Calahorra
 type: poi
 ---

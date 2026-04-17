@@ -1,10 +1,10 @@
 ---
 address: Mithatpasa Cad. Dario Moreno Street Karatas Konak
-category: Sight
 opening_hours: open whole day
 phone: (232) 255 5420-227 5843
 tags:
 - things_to_do
+- landmark
 title: The Historical Elevator
 type: Hotspots
 ---

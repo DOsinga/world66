@@ -1,10 +1,10 @@
 ---
 address: Avenida Calle 63 No 68-95
-category: Sight
 latitude: 4.6673
 longitude: -74.0993
 tags:
 - things_to_do
+- landmark
 title: Jardin Botanico Jose Celestino Mutis
 type: poi
 ---

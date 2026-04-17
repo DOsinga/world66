@@ -1,10 +1,10 @@
 ---
 address: Camino Gibralfaro, 11
-category: Sight
 latitude: 36.7232
 longitude: -4.4108
 tags:
 - things_to_do
+- landmark
 title: Gibralfaro Castle
 type: poi
 ---

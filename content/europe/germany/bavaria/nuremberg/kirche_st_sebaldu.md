@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.455997
 longitude: 11.077778
 tags:
 - things_to_do
+- landmark
 title: Kirche St. Sebaldus
 type: poi
 ---

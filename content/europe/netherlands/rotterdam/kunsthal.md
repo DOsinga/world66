@@ -1,10 +1,10 @@
 ---
 address: Westzeedijk 341
-category: Museum
 latitude: 51.912
 longitude: 4.473
 tags:
 - things_to_do
+- museum
 title: Kunsthal
 type: poi
 ---

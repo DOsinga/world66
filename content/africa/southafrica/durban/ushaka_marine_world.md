@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -29.8676
 longitude: 31.0488
 tags:
 - things_to_do
+- landmark
 title: uShaka Marine World
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Deansgate, Manchester M3 2BH
-category: Architecture
 latitude: 53.4822
 longitude: -2.2487
 tags:
 - things_to_do
+- architecture
 title: Barton Arcade
 type: poi
 ---

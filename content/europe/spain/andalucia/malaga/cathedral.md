@@ -1,10 +1,10 @@
 ---
 address: Calle Molina Lario, 9
-category: Sight
 latitude: 36.7196
 longitude: -4.4197
 tags:
 - things_to_do
+- landmark
 title: Málaga Cathedral
 type: poi
 ---

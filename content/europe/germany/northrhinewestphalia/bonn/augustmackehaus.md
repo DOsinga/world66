@@ -1,11 +1,11 @@
 ---
 address: Bornheimer Strasse 96, 53119 Bonn
-category: Museum
 latitude: 50.7375
 longitude: 7.0863
 phone: +49-228-655531
 tags:
 - things_to_do
+- museum
 title: August-Macke-Haus
 type: poi
 ---

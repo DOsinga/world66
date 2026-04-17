@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 47.369656
 longitude: 8.538831
 tags:
 - things_to_do
+- landmark
 title: Paradeplatz
 type: poi
 ---

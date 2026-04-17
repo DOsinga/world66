@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.763889
 longitude: -9.093056
 tags:
 - things_to_do
+- landmark
 title: Oceanarium
 type: poi
 ---

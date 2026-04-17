@@ -1,11 +1,11 @@
 ---
 address: Franziskanerstrasse 9, 53113 Bonn
-category: Museum
 latitude: 50.734
 longitude: 7.1008
 phone: +49-228-772877
 tags:
 - things_to_do
+- museum
 title: Stadtmuseum
 type: poi
 ---

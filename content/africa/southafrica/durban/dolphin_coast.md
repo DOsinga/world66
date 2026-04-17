@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -29.55
 longitude: 31.2167
 tags:
 - things_to_do
+- neighbourhood
 title: Dolphin Coast
 type: poi
 ---

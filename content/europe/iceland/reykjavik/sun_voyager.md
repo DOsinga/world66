@@ -1,11 +1,11 @@
 ---
 address: Sæbraut, by the harbour
 admission: Free
-category: Sight
 latitude: 64.1475
 longitude: -21.9223
 tags:
 - things_to_do
+- landmark
 title: Sun Voyager (Sólfar)
 type: poi
 ---

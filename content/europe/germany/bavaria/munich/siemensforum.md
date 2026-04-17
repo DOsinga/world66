@@ -1,11 +1,11 @@
 ---
 address: Prannerstraße 10
-category: Museum
 latitude: 48.141449
 longitude: 11.572386
 phone: +49 (0)89 -  2 34-26 60
 tags:
 - things_to_do
+- museum
 title: SiemensForum
 type: poi
 url: w2.siemens.de

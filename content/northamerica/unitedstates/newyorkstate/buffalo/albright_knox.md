@@ -1,10 +1,10 @@
 ---
 address: 1285 Elmwood Avenue
-category: Museum
 latitude: 42.93
 longitude: -78.8781
 tags:
 - things_to_do
+- museum
 title: Buffalo AKG Art Museum
 type: poi
 ---

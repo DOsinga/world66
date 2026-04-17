@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 55.68
 longitude: 12.5834
 tags:
 - things_to_do
+- neighbourhood
 title: Stroget
 type: poi
 ---

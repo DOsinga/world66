@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.421492
 longitude: 27.133587
 tags:
 - things_to_do
+- landmark
 title: Hisar Mosque
 type: Mosques
 ---

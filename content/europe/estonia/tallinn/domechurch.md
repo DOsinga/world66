@@ -1,11 +1,11 @@
 ---
 address: Toom-Kooli 6
-category: Sight
 latitude: 59.437039
 longitude: 24.739155
 phone: '6444140'
 tags:
 - things_to_do
+- landmark
 title: Dome Church
 type: poi
 url: www.eelk.ee

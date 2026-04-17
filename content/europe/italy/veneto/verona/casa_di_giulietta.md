@@ -1,12 +1,12 @@
 ---
 address: Via Cappello 23, 37121 Verona
-category: Sight
 latitude: 45.4419
 longitude: 10.9983
 opening_hours: Mon 1:30pm–7:30pm, Tue–Sun 8:30am–7:30pm
 phone: 045 803 4303
 tags:
 - things_to_do
+- landmark
 title: Casa di Giulietta
 type: poi
 ---

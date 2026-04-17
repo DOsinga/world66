@@ -1,10 +1,10 @@
 ---
-category: Museum
 latitude: 34.0651
 longitude: -4.9743
 tags:
 - things_to_do
 - fes_el_bali
+- museum
 title: Nejjarine Museum of Wooden Arts
 type: poi
 ---

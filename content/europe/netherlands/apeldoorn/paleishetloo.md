@@ -1,11 +1,11 @@
 ---
 address: Koninklijk Park 1
-category: Museum
 latitude: 52.234
 longitude: 5.9458
 phone: +31 55 577 2400
 tags:
 - things_to_do
+- museum
 title: Paleis Het Loo
 type: poi
 url: https://www.paleishetloo.nl

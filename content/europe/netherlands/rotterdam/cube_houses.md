@@ -1,11 +1,11 @@
 ---
 address: Overblaak 70
-category: Architecture
 latitude: 51.9201
 longitude: 4.4903
 phone: +31 10 414 2285
 tags:
 - things_to_do
+- architecture
 title: Cube Houses
 type: poi
 ---

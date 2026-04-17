@@ -1,10 +1,10 @@
 ---
 address: Ermita, Manila
-category: Sight
 latitude: 14.5828
 longitude: 120.9785
 tags:
 - things_to_do
+- landmark
 title: Rizal Park
 type: poi
 ---

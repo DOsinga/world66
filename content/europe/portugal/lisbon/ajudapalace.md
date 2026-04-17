@@ -1,10 +1,10 @@
 ---
 address: Calçada da Ajuda, Belém
-category: Sight
 latitude: 38.699338
 longitude: -9.199729
 tags:
 - things_to_do
+- landmark
 title: Ajuda Palace
 type: poi
 ---

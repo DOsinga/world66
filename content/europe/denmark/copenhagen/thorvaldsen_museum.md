@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.6759
 longitude: 12.577
 tags:
 - things_to_do
+- museum
 title: Thorvaldsen Museum
 type: poi
 ---

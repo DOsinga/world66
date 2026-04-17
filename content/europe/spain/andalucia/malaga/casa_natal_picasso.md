@@ -1,10 +1,10 @@
 ---
 address: Plaza de la Merced, 15
-category: Museum
 latitude: 36.7232
 longitude: -4.4175
 tags:
 - things_to_do
+- museum
 title: Casa Natal de Picasso
 type: poi
 ---

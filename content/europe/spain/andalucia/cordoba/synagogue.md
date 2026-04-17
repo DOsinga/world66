@@ -1,10 +1,10 @@
 ---
 address: Calle de los Judíos 20
-category: Sight
 latitude: 37.8798
 longitude: -4.7838
 tags:
 - things_to_do
+- landmark
 title: Synagogue of Cordoba
 type: poi
 ---

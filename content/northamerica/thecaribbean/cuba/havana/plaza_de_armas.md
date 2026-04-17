@@ -1,7 +1,7 @@
 ---
-category: Sight
 tags:
 - things_to_do
+- landmark
 title: Plaza de Armas
 type: Squares
 ---

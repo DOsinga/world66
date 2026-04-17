@@ -1,9 +1,9 @@
 ---
-category: Restaurant
 latitude: 45.5121
 longitude: -122.6564
 tags:
 - eating_out
+- restaurant
 title: Iorio
 type: poi
 ---

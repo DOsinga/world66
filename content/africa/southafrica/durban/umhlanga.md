@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -29.7286
 longitude: 31.0876
 tags:
 - things_to_do
+- neighbourhood
 title: Umhlanga
 type: poi
 ---

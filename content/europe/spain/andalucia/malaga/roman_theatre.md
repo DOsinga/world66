@@ -1,10 +1,10 @@
 ---
 address: Calle Alcazabilla
-category: Sight
 latitude: 36.7211
 longitude: -4.4163
 tags:
 - things_to_do
+- landmark
 title: Roman Theatre
 type: poi
 ---

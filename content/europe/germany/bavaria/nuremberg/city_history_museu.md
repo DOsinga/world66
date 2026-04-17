@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 49.456944
 longitude: 11.079722
 tags:
 - things_to_do
+- museum
 title: Stadtmuseum Fembohaus
 type: poi
 ---

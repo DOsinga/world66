@@ -1,9 +1,9 @@
 ---
-category: Bar
 latitude: 49.453611
 longitude: 11.082222
 tags:
 - bars_and_cafes
+- bar
 title: Meisengeige
 type: poi
 ---

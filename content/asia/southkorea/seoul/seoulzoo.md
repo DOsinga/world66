@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 37.422793
 longitude: 127.022671
 tags:
 - things_to_do
+- landmark
 title: Seoul Zoo
 type: poi
 ---

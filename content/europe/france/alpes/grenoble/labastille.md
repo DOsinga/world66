@@ -1,10 +1,10 @@
 ---
 address: Quai Stéphane Jay
-category: Sight
 latitude: 45.1988
 longitude: 5.7253
 tags:
 - things_to_do
+- landmark
 title: La Bastille
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Restaurant
 latitude: 45.5239
 longitude: -122.6712
 tags:
 - eating_out
+- restaurant
 title: Sushi Takahashi
 type: poi
 ---

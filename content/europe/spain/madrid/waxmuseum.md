@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 40.4239
 longitude: -3.6898
 tags:
 - things_to_do
+- museum
 title: Wax Museum
 type: poi
 ---

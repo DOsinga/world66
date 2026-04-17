@@ -1,10 +1,10 @@
 ---
 address: Laugavegur, Reykjavik
-category: Neighbourhood
 latitude: 64.1432
 longitude: -21.9303
 tags:
 - things_to_do
+- neighbourhood
 title: Laugavegur
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Pirita tee 56
-category: Museum
 latitude: 59.452508
 longitude: 24.810187
 phone: '6014599'
 tags:
 - things_to_do
+- museum
 title: Maarjamäe Palace
 type: poi
 ---

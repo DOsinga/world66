@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 20.6748
 longitude: -103.3389
 story: Jose Clemente Orozco painted the Hospicio's murals between 1937 and 1939. His
@@ -7,6 +6,7 @@ story: Jose Clemente Orozco painted the Hospicio's murals between 1937 and 1939.
   the sky from any angle you view it.
 tags:
 - things_to_do
+- museum
 title: Hospicio Cabanas
 type: poi
 ---

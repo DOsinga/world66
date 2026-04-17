@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 34.0636
 longitude: -4.976
 tags:
 - things_to_do
+- neighbourhood
 title: Fes el-Bali
 type: poi
 ---

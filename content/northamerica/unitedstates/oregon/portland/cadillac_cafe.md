@@ -1,9 +1,9 @@
 ---
-category: Restaurant
 latitude: 45.5267
 longitude: -122.6499
 tags:
 - eating_out
+- restaurant
 title: Cadillac Cafe
 type: poi
 ---

@@ -1,7 +1,6 @@
 ---
 address: Augustinergasse 9, 8001 Zürich
 admission: Free
-category: Museum
 latitude: 47.374703
 longitude: 8.539372
 opening_hours: Mon–Fri 10:00–17:00 (reading room); check website for events
@@ -10,6 +9,7 @@ tags:
 - James Joyce
 - Literature
 - things_to_do
+- museum
 title: James Joyce Foundation
 type: poi
 url: www.jamesjoyce.ch

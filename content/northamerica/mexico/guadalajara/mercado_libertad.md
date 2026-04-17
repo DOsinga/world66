@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 20.6733
 longitude: -103.3378
 tags:
 - things_to_do
+- landmark
 title: Mercado Libertad (San Juan de Dios)
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Calle Corregidor Luis de la Cerda 51
-category: Sight
 latitude: 37.8772
 longitude: -4.7783
 tags:
 - things_to_do
+- landmark
 title: Hammam Al Ándalus
 type: poi
 ---

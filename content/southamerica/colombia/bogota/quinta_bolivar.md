@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 4.6026
 longitude: -74.0629
 tags:
 - things_to_do
+- landmark
 title: Quinta de Bolivar
 type: poi
 ---

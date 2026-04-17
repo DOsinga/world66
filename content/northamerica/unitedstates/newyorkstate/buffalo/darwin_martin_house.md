@@ -1,10 +1,10 @@
 ---
 address: 125 Jewett Parkway
-category: Architecture
 latitude: 42.933
 longitude: -78.8585
 tags:
 - things_to_do
+- architecture
 title: Darwin D. Martin House
 type: poi
 ---

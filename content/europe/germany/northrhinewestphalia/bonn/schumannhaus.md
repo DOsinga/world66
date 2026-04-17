@@ -1,6 +1,5 @@
 ---
 address: Sebastianstrasse 182, 53115 Bonn
-category: Museum
 latitude: 50.7244
 longitude: 7.0774
 phone: +49-228-773656
@@ -9,6 +8,7 @@ story: Robert Schumann was committed to this former asylum in Endenich in 1854 a
   here, visited only rarely by his wife Clara.
 tags:
 - things_to_do
+- museum
 title: Schumannhaus
 type: poi
 ---

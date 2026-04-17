@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -29.8568
 longitude: 31.0156
 tags:
 - things_to_do
+- landmark
 title: Victoria Street Market
 type: poi
 ---

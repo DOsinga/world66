@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -37.8127
 longitude: 144.9805
 tags:
 - things_to_do
+- landmark
 title: Cook's Cottage
 type: poi
 ---

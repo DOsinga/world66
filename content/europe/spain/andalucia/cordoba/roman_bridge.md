@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 37.8767
 longitude: -4.778
 tags:
 - things_to_do
+- landmark
 title: Roman Bridge
 type: poi
 ---

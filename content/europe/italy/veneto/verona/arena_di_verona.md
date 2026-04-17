@@ -1,12 +1,12 @@
 ---
 address: Piazza Bra, 37121 Verona
-category: Sight
 latitude: 45.4383
 longitude: 10.9932
 opening_hours: Mon 1:30pm–7:30pm, Tue–Sun 9am–7pm (reduced hours during opera season)
 phone: 045 800 3204
 tags:
 - things_to_do
+- landmark
 title: Arena di Verona
 type: poi
 ---

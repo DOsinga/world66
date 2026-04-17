@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.8538
 longitude: -117.7526
 tags:
 - things_to_do
+- landmark
 title: Medicine Lake
 type: poi
 ---

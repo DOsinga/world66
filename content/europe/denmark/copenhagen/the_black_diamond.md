@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 55.6726
 longitude: 12.5823
 tags:
 - things_to_do
+- architecture
 title: The Black Diamond
 type: poi
 ---

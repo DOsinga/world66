@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 34.0586
 longitude: -4.9874
 tags:
 - things_to_do
+- neighbourhood
 title: Fes el-Jdid
 type: poi
 ---

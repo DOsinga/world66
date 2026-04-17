@@ -1,9 +1,9 @@
 ---
-category: Cafe
 latitude: 34.0413
 longitude: -5.0019
 tags:
 - bars_and_cafes
+- cafe
 title: Café de la Renaissance
 type: poi
 ---

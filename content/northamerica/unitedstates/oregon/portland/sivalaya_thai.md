@@ -1,9 +1,9 @@
 ---
-category: Restaurant
 latitude: 45.5191
 longitude: -122.6132
 tags:
 - eating_out
+- restaurant
 title: Sivalaya Thai
 type: poi
 ---

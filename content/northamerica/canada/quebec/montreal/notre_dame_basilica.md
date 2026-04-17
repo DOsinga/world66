@@ -1,10 +1,10 @@
 ---
 address: 110 rue Notre-Dame Ouest, Montréal, QC H2Y 1T1
-category: Sight
 latitude: 45.504436
 longitude: -73.55599
 tags:
 - things_to_do
+- landmark
 title: Basilique Notre-Dame de Montréal
 type: poi
 url: www.basiliquenotredame.ca

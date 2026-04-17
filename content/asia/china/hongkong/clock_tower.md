@@ -1,11 +1,11 @@
 ---
 address: Waterfront Promenade, Tsim Sha Tsui
-category: Architecture
 latitude: 22.2954
 longitude: 114.1676
 tags:
 - kowloon
 - things_to_do
+- architecture
 title: Clock Tower
 type: poi
 ---

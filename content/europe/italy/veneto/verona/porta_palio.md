@@ -1,10 +1,10 @@
 ---
 address: Corso Porta Palio, 37122 Verona
-category: Architecture
 latitude: 45.4354
 longitude: 10.9828
 tags:
 - things_to_do
+- architecture
 title: Porta Palio
 type: poi
 ---

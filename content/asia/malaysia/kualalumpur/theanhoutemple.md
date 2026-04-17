@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 3.121843
 longitude: 101.687645
 tags:
 - things_to_do
+- landmark
 title: Thean Hou Temple
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 34.0664
 longitude: -4.97
 tags:
 - things_to_do
 - fes_el_bali
+- landmark
 title: Chouara Tannery
 type: poi
 ---

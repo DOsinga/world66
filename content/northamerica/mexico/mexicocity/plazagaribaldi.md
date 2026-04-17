@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.4407
 longitude: -99.1389
 tags:
 - things_to_do
+- landmark
 title: Plaza Garibaldi
 type: poi
 ---

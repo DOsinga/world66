@@ -1,10 +1,10 @@
 ---
-category: Neighbourhood
 latitude: 22.28
 longitude: 114.1855
 tags:
 - hongkongisland
 - things_to_do
+- neighbourhood
 title: Causeway Bay
 type: poi
 ---

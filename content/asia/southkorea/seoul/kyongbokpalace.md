@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 37.5796
 longitude: 126.977
 tags:
 - things_to_do
+- landmark
 title: Kyongbok Palace
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: 22 Cohen Place
-category: Museum
 latitude: -37.8117
 longitude: 144.969
 phone: +61 3 9662 2888
 tags:
 - things_to_do
+- museum
 title: Chinese Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Nightlife
 latitude: 49.448611
 longitude: 11.083333
 tags:
 - bars_and_cafes
+- nightlife
 title: Rockfabrik
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 34.0644
 longitude: -4.9748
 tags:
 - things_to_do
 - fes_el_bali
+- landmark
 title: Zaouia Moulay Idriss II
 type: poi
 ---

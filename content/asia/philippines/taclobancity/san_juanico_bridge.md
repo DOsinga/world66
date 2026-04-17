@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 11.3211
 longitude: 124.9722
 tags:
 - things_to_do
+- architecture
 title: San Juanico Bridge
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
-category: Architecture
 latitude: 34.0577
 longitude: -4.987
 tags:
 - things_to_do
 - fes_el_jdid
+- architecture
 title: Royal Palace (Dar el-Makhzen)
 type: poi
 ---

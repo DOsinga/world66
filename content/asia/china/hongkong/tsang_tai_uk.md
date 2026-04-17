@@ -1,10 +1,10 @@
 ---
-category: Architecture
 latitude: 22.3757
 longitude: 114.1891
 tags:
 - newterritories
 - things_to_do
+- architecture
 title: Tsang Tai Uk
 type: poi
 ---

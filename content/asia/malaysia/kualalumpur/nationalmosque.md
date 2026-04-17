@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 3.142054
 longitude: 101.691793
 tags:
 - things_to_do
+- landmark
 title: National Mosque
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Exchange Square
-category: architecture
 latitude: 53.48415
 longitude: -2.24444
 tags:
 - things_to_do
+- architecture
 title: The Old Wellington Inn and Sinclair's Oyster Bar
 type: poi
 ---

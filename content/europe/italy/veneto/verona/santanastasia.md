@@ -1,11 +1,11 @@
 ---
 address: Corso Sant'Anastasia, 37121 Verona
-category: Sight
 latitude: 45.4449
 longitude: 10.9992
 opening_hours: Mon–Sat 10am–6pm, Sun 1pm–6pm (winter hours shorter)
 tags:
 - things_to_do
+- landmark
 title: Sant'Anastasia
 type: poi
 ---

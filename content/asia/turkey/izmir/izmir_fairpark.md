@@ -1,7 +1,7 @@
 ---
-category: Sight
 tags:
 - things_to_do
+- landmark
 title: Izmir Fair&Park
 type: Hotspots
 ---

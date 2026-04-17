@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 49.459722
 longitude: 11.072778
 story: 'Holy Roman Emperors were required to spend the first year of their reign in
@@ -10,6 +9,7 @@ story: 'Holy Roman Emperors were required to spend the first year of their reign
   '
 tags:
 - things_to_do
+- landmark
 title: Kaiserburg
 type: poi
 ---

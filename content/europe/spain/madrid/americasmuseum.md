@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 40.4429
 longitude: -3.7328
 tags:
 - things_to_do
+- museum
 title: America's Museum
 type: poi
 ---

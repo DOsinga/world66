@@ -1,6 +1,5 @@
 ---
 address: Zürichbergstrasse 189, 8044 Zürich
-category: Sight
 latitude: 47.375823
 longitude: 8.573139
 opening_hours: Daily, dawn to dusk
@@ -8,6 +7,7 @@ tags:
 - James Joyce
 - Literature
 - things_to_do
+- landmark
 title: James Joyce's Grave, Fluntern Cemetery
 type: poi
 ---

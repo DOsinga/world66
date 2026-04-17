@@ -1,11 +1,11 @@
 ---
 address: Paseo del Prado
-category: Museum
 latitude: 40.4138
 longitude: -3.6922
 phone: 91 420 36 63
 tags:
 - things_to_do
+- museum
 title: The Prado Museum
 type: poi
 ---

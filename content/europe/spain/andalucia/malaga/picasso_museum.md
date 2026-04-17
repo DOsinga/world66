@@ -1,10 +1,10 @@
 ---
 address: Palacio de Buenavista, Calle San Agustín, 8
-category: Museum
 latitude: 36.7212
 longitude: -4.418
 tags:
 - things_to_do
+- museum
 title: Museo Picasso Málaga
 type: poi
 url: https://www.museopicassomalaga.org/

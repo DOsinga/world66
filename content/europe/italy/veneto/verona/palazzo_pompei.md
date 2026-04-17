@@ -1,11 +1,11 @@
 ---
 address: Lungadige Porta Vittoria 9, 37129 Verona
-category: Architecture
 latitude: 45.4355
 longitude: 11.0028
 opening_hours: Mon–Thu 9am–5pm, Sat–Sun 2pm–6pm; closed Fri
 tags:
 - things_to_do
+- architecture
 title: Palazzo Pompei (Museo di Storia Naturale)
 type: poi
 ---

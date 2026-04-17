@@ -1,10 +1,10 @@
 ---
 address: Av. Brasília, Belém
-category: Architecture
 latitude: 38.691667
 longitude: -9.215833
 tags:
 - things_to_do
+- architecture
 title: Belém Tower
 type: poi
 ---

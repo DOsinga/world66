@@ -1,9 +1,9 @@
 ---
 address: 1 Zoo Boulevard, Miami FL
-category: Sight
 phone: 305-251-0400
 tags:
 - things_to_do
+- landmark
 title: Lake Iguana at Miami Metro Zoo
 type: Rowing and Canoeing
 url: www.miamimetrozoo.com

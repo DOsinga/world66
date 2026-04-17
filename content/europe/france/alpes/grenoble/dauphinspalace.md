@@ -1,10 +1,10 @@
 ---
 address: Place Saint-André
-category: Sight
 latitude: 45.193
 longitude: 5.7283
 tags:
 - things_to_do
+- landmark
 title: Palais du Parlement du Dauphiné
 type: poi
 ---

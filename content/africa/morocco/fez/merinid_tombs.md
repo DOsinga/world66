@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.0717
 longitude: -4.9799
 tags:
 - things_to_do
+- landmark
 title: Merinid Tombs
 type: poi
 ---

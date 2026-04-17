@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 20.7005
 longitude: -103.3189
 tags:
 - things_to_do
+- landmark
 title: Guadalajara Zoo
 type: poi
 ---

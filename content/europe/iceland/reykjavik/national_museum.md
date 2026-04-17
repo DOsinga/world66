@@ -1,12 +1,12 @@
 ---
 address: Suðurgata 41
-category: Museum
 latitude: 64.1411
 longitude: -21.9483
 opening_hours: 10:00–17:00 daily (closed Mondays in winter)
 phone: +354 530 2200
 tags:
 - things_to_do
+- museum
 title: National Museum of Iceland
 type: poi
 url: www.thjodminjasafn.is

@@ -1,10 +1,10 @@
 ---
 address: 3800 Queen Mary Road, Montréal, QC H3V 1H6
-category: Sight
 latitude: 45.491697
 longitude: -73.587164
 tags:
 - things_to_do
+- landmark
 title: St. Joseph's Oratory
 type: poi
 url: www.saint-joseph.org

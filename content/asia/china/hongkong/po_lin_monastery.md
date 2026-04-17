@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 22.2548
 longitude: 113.9053
 tags:
 - lantau
 - things_to_do
+- landmark
 title: Po Lin Monastery
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Colmantstrasse 14-16, 53115 Bonn
-category: Museum
 latitude: 50.7317
 longitude: 7.0966
 phone: +49-228-20700
 tags:
 - things_to_do
+- museum
 title: Rheinisches Landesmuseum
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Via Castel San Pietro, 37129 Verona
-category: Sight
 latitude: 45.4455
 longitude: 11.0045
 tags:
 - things_to_do
+- landmark
 title: Castel San Pietro
 type: poi
 ---

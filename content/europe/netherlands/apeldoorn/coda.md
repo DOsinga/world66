@@ -1,10 +1,10 @@
 ---
 address: Vosselmanstraat 299
-category: Museum
 latitude: 52.21
 longitude: 5.971
 tags:
 - things_to_do
+- museum
 title: CODA Museum
 type: poi
 url: https://www.coda-apeldoorn.nl

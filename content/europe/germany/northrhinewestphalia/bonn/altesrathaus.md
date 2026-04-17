@@ -1,10 +1,10 @@
 ---
 address: Markt 2, 53111 Bonn
-category: Architecture
 latitude: 50.7353
 longitude: 7.1008
 tags:
 - things_to_do
+- architecture
 title: Altes Rathaus
 type: poi
 ---

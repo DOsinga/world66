@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.454969
 longitude: -2.627807
 tags:
 - things_to_do
+- landmark
 title: Clifton Suspension Bridge
 type: poi
 ---

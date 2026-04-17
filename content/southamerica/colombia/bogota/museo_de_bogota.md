@@ -1,10 +1,10 @@
 ---
 address: Calle 26 No 6-07
-category: Museum
 latitude: 4.6153
 longitude: -74.0709
 tags:
 - things_to_do
+- museum
 title: Museo de Bogota
 type: poi
 ---

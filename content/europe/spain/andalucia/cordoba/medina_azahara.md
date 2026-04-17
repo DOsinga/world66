@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 37.8881
 longitude: -4.8678
 story: Built by caliph Abd al-Rahman III in 936 as a statement of Umayyad power, the
@@ -7,6 +6,7 @@ story: Built by caliph Abd al-Rahman III in 936 as a statement of Umayyad power,
   so completely that for centuries even its location was forgotten.
 tags:
 - things_to_do
+- landmark
 title: Medina Azahara
 type: poi
 ---

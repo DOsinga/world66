@@ -1,11 +1,11 @@
 ---
 address: Plaza de Jerónimo Páez 7
-category: Museum
 latitude: 37.8814
 longitude: -4.7755
 phone: 957 35 55 17
 tags:
 - things_to_do
+- museum
 title: Museo Arqueológico
 type: poi
 ---

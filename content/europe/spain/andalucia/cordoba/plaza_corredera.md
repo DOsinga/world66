@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 37.8836
 longitude: -4.7745
 tags:
 - things_to_do
+- landmark
 title: Plaza de la Corredera
 type: poi
 ---

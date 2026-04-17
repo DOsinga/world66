@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.173
 longitude: 5.959
 tags:
 - things_to_do
+- landmark
 title: Veluwsche Stoomtrein Maatschappij
 type: poi
 url: https://www.stoomtrein.org

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 19.3496
 longitude: -99.1622
 tags:
 - things_to_do
+- neighbourhood
 title: Coyoacán
 type: poi
 ---

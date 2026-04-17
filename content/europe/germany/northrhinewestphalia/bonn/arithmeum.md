@@ -1,11 +1,11 @@
 ---
 address: Lennéstrasse 2, 53113 Bonn
-category: Museum
 latitude: 50.7282
 longitude: 7.0963
 phone: +49-228-738790
 tags:
 - things_to_do
+- museum
 title: Arithmeum
 type: poi
 ---

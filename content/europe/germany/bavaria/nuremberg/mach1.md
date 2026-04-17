@@ -1,9 +1,9 @@
 ---
-category: Nightlife
 latitude: 49.447778
 longitude: 11.086944
 tags:
 - bars_and_cafes
+- nightlife
 title: Mach 1
 type: poi
 ---

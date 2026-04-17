@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 34.0383
 longitude: -5.0036
 tags:
 - things_to_do
+- neighbourhood
 title: Ville Nouvelle
 type: poi
 ---

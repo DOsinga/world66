@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.6613
 longitude: -117.5281
 tags:
 - things_to_do
+- landmark
 title: Maligne Lake
 type: poi
 ---

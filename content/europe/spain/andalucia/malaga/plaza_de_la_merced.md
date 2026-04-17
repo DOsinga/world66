@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.7232
 longitude: -4.4178
 tags:
 - things_to_do
+- landmark
 title: Plaza de la Merced
 type: poi
 ---

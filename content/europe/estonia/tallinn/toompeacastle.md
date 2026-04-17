@@ -1,10 +1,10 @@
 ---
 address: Toompea Hill
-category: Sight
 latitude: 59.4359
 longitude: 24.7378
 tags:
 - things_to_do
+- landmark
 title: Toompea Castle
 type: poi
 ---

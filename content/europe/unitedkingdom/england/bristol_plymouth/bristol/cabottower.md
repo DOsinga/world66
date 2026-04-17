@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.454029
 longitude: -2.606818
 tags:
 - things_to_do
+- landmark
 title: Cabot Tower
 type: poi
 ---

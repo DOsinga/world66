@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 36.7165
 longitude: -4.4221
 tags:
 - things_to_do
+- neighbourhood
 title: Soho
 type: poi
 ---

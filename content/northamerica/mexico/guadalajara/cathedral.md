@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 20.6739
 longitude: -103.3441
 story: The cathedral's original towers collapsed in the 1818 earthquake. The replacements
@@ -7,6 +6,7 @@ story: The cathedral's original towers collapsed in the 1818 earthquake. The rep
   designed in a completely different style from the originals.
 tags:
 - things_to_do
+- landmark
 title: Cathedral of Guadalajara
 type: poi
 ---

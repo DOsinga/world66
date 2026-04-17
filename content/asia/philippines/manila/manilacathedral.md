@@ -1,10 +1,10 @@
 ---
 address: Plaza Roma, Intramuros
-category: Sight
 latitude: 14.591511
 longitude: 120.973638
 tags:
 - things_to_do
+- landmark
 title: Manila Cathedral
 type: poi
 ---

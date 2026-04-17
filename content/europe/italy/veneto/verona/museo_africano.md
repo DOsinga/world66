@@ -1,12 +1,12 @@
 ---
 address: Vicolo Pozzo 1, San Giovanni in Valle, 37129 Verona
-category: Museum
 latitude: 45.439
 longitude: 10.9993
 opening_hours: Tue–Sun 9am–12pm, 3pm–6pm
 phone: 045 596 238
 tags:
 - things_to_do
+- museum
 title: Museo Africano
 type: poi
 ---

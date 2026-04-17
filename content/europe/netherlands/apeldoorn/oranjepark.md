@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.213
 longitude: 5.964
 tags:
 - things_to_do
+- landmark
 title: Oranjepark
 type: poi
 ---

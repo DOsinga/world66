@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.673
 longitude: 12.5725
 tags:
 - things_to_do
+- museum
 title: Ny Carlsberg Glyptotek
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 19.415
 longitude: -99.1622
 tags:
 - things_to_do
+- neighbourhood
 title: Roma
 type: poi
 ---

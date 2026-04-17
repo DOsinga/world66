@@ -1,10 +1,10 @@
 ---
 address: 2600 Benjamin Franklin Parkway
-category: Museum
 latitude: 39.9656
 longitude: -75.181
 tags:
 - things_to_do
+- museum
 title: Philadelphia Museum of Art
 type: poi
 ---

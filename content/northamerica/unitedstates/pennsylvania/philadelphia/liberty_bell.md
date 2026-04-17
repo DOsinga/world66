@@ -1,6 +1,5 @@
 ---
 address: 525 Market Street
-category: Sight
 latitude: 39.9496
 longitude: -75.1503
 story: The bell cracked the first time it was rung after arriving from London in 1752.
@@ -8,6 +7,7 @@ story: The bell cracked the first time it was rung after arriving from London in
   since.
 tags:
 - things_to_do
+- landmark
 title: Liberty Bell
 type: poi
 ---

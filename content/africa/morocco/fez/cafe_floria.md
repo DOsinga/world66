@@ -1,9 +1,9 @@
 ---
-category: Cafe
 latitude: 34.0425
 longitude: -4.9981
 tags:
 - bars_and_cafes
+- cafe
 title: Café Floria
 type: poi
 ---

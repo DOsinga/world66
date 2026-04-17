@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 37.88
 longitude: -4.782
 tags:
 - things_to_do
+- neighbourhood
 title: Judería (Jewish Quarter)
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.458611
 longitude: 11.074444
 tags:
 - things_to_do
+- landmark
 title: Albrecht-Dürer-Haus
 type: poi
 ---

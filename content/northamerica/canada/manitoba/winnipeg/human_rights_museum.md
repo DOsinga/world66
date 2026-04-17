@@ -1,10 +1,10 @@
 ---
 address: 85 Israel Asper Way
-category: Museum
 latitude: 49.8905
 longitude: -97.1306
 tags:
 - things_to_do
+- museum
 title: Canadian Museum for Human Rights
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Via Pallone
-category: Architecture
 latitude: 45.43274
 longitude: 10.98167
 tags:
 - things_to_do
+- architecture
 title: Porta Palio
 type: poi
 ---

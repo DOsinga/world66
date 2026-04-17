@@ -1,11 +1,11 @@
 ---
 address: Albertinaplatz 1, 1010 Wien
-category: Museum
 latitude: 48.204636
 longitude: 16.368261
 phone: +43 1 53483
 tags:
 - things_to_do
+- museum
 title: Albertina
 type: poi
 url: www.albertina.at

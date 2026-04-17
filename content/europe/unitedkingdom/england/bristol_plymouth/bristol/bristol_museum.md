@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.4566
 longitude: -2.6048
 tags:
 - things_to_do
+- museum
 title: Bristol Museum & Art Gallery
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Amersfoortseweg 35
-category: Sight
 latitude: 52.1964
 longitude: 5.9394
 phone: +31 55 355 3265
 tags:
 - things_to_do
+- landmark
 title: Koningin Julianatoren
 type: poi
 url: https://www.julianatoren.nl

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.513864
 longitude: -73.534333
 tags:
 - things_to_do
+- landmark
 title: Parc Jean-Drapeau
 type: poi
 ---

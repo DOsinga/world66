@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.5323
 longitude: -117.6446
 tags:
 - things_to_do
+- landmark
 title: Sunwapta Falls
 type: poi
 ---

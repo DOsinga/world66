@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.5196
 longitude: -122.6799
 tags:
 - things_to_do
+- landmark
 title: Pioneer Courthouse Square
 type: poi
 ---

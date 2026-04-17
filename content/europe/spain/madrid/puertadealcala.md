@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 40.4199
 longitude: -3.6886
 tags:
 - things_to_do
+- landmark
 title: Puerta de Alcala
 type: poi
 ---

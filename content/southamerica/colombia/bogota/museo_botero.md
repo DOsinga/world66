@@ -1,10 +1,10 @@
 ---
 address: Calle 11 No 4-41
-category: Museum
 latitude: 4.5968
 longitude: -74.0729
 tags:
 - things_to_do
+- museum
 title: Museo Botero
 type: poi
 ---

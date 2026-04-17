@@ -1,10 +1,10 @@
 ---
 address: Intramuros, Manila
-category: Sight
 latitude: 14.594462
 longitude: 120.97009
 tags:
 - things_to_do
+- landmark
 title: Fort Santiago
 type: poi
 ---

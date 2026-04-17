@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 51.902
 longitude: 4.453
 tags:
 - things_to_do
+- neighbourhood
 title: Delfshaven
 type: poi
 ---

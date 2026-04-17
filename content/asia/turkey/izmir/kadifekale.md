@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.413784
 longitude: 27.144956
 tags:
 - things_to_do
+- landmark
 title: Kadifekale
 type: Hotspots
 ---

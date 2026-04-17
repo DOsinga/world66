@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 20.6738
 longitude: -103.342
 tags:
 - things_to_do
+- architecture
 title: Teatro Degollado
 type: poi
 ---

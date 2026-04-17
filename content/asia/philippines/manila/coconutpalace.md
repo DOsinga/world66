@@ -1,6 +1,5 @@
 ---
 address: Cultural Center Complex, Pasay
-category: Architecture
 latitude: 14.555187
 longitude: 120.979797
 story: Imelda Marcos commissioned it in 1978 for Pope John Paul II's planned 1981
@@ -8,6 +7,7 @@ story: Imelda Marcos commissioned it in 1978 for Pope John Paul II's planned 198
   in poverty, refused to set foot in it.
 tags:
 - things_to_do
+- architecture
 title: Coconut Palace
 type: poi
 ---

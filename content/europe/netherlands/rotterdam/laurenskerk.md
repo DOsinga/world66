@@ -1,10 +1,10 @@
 ---
 address: Grotekerkplein 27
-category: Sight
 latitude: 51.9214
 longitude: 4.4877
 tags:
 - things_to_do
+- landmark
 title: Laurenskerk
 type: poi
 ---

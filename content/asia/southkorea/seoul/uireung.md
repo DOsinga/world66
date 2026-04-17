@@ -1,10 +1,10 @@
 ---
 address: Imunsamgeori
-category: Sight
 latitude: 36.23898
 longitude: 128.290756
 tags:
 - things_to_do
+- landmark
 title: Uireung
 type: poi
 ---

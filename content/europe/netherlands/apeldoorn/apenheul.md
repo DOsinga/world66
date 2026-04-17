@@ -1,11 +1,11 @@
 ---
 address: J.C. Wilslaan 21-31
-category: Sight
 latitude: 52.2167
 longitude: 5.9275
 phone: +31 55 357 5757
 tags:
 - things_to_do
+- landmark
 title: Apenheul Primate Park
 type: poi
 url: https://www.apenheul.nl

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 20.6745
 longitude: -103.3436
 tags:
 - things_to_do
+- museum
 title: Regional Museum of Guadalajara
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.6062
 longitude: 12.3874
 tags:
 - things_to_do
+- museum
 title: ARKEN
 type: poi
 ---

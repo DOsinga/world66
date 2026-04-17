@@ -1,11 +1,11 @@
 ---
 address: Blijdorplaan 8
-category: Sight
 latitude: 51.9267
 longitude: 4.4516
 phone: +31 10 443 1431
 tags:
 - things_to_do
+- landmark
 title: Blijdorp Zoo
 type: poi
 ---

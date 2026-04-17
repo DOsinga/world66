@@ -1,11 +1,11 @@
 ---
 address: Piazza Duomo 21, 37121 Verona
-category: Sight
 latitude: 45.4482
 longitude: 11.0007
 opening_hours: Mon–Sat 10am–5:30pm, Sun 1:30pm–5:30pm (winter hours shorter)
 tags:
 - things_to_do
+- landmark
 title: Duomo (Santa Maria Matricolare)
 type: poi
 ---

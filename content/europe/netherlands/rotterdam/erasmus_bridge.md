@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 51.9096
 longitude: 4.4855
 tags:
 - things_to_do
+- architecture
 title: Erasmus Bridge
 type: poi
 ---

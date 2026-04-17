@@ -1,10 +1,10 @@
 ---
 address: Real Street, Tacloban City
-category: Museum
 latitude: 11.2417
 longitude: 125.0033
 tags:
 - things_to_do
+- museum
 title: Sto. Niño Shrine and Heritage Museum
 type: poi
 ---

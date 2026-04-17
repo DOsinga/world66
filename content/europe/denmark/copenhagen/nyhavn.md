@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 55.6798
 longitude: 12.5913
 tags:
 - things_to_do
+- landmark
 title: Nyhavn
 type: poi
 ---

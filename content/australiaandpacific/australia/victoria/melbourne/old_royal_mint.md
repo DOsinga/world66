@@ -1,11 +1,11 @@
 ---
 address: 280 William Street
-category: Museum
 latitude: -37.8121
 longitude: 144.9571
 phone: +61 3 9670 1219
 tags:
 - things_to_do
+- museum
 title: Old Royal Mint
 type: poi
 ---

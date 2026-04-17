@@ -1,11 +1,11 @@
 ---
 address: 690 rue Sherbrooke Ouest, Montréal, QC H3A 1E9
-category: Museum
 latitude: 45.504295
 longitude: -73.573394
 phone: 514 398-7100
 tags:
 - things_to_do
+- museum
 title: Musée McCord
 type: poi
 url: www.musee-mccord.qc.ca

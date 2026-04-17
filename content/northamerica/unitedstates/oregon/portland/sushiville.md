@@ -1,9 +1,9 @@
 ---
-category: Restaurant
 latitude: 45.5336
 longitude: -122.6986
 tags:
 - eating_out
+- restaurant
 title: Sushiville
 type: poi
 ---

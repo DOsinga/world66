@@ -1,10 +1,10 @@
 ---
 address: 4777 Avenue Pierre-De Coubertin, Montréal, QC H1V 1B3
-category: Museum
 latitude: 45.559682
 longitude: -73.54957
 tags:
 - things_to_do
+- museum
 title: Montréal Biodome
 type: poi
 url: www.espacepourlavie.ca/biodome

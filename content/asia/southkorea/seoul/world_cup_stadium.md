@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 37.570192
 longitude: 126.899318
 tags:
 - things_to_do
+- architecture
 title: World Cup Stadium
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: nature
 latitude: 35.4953
 longitude: 129.4315
 tags:
 - things_to_do
+- nature
 title: Ulgi and Daewangam Park
 type: poi
 ---

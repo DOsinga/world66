@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.5233
 longitude: -122.6816
 tags:
 - things_to_do
+- landmark
 title: Powell's City of Books
 type: poi
 ---

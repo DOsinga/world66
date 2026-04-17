@@ -1,10 +1,10 @@
 ---
 address: Michaelerkuppel, 1010 Wien
-category: Sight
 latitude: 48.206329
 longitude: 16.365626
 tags:
 - things_to_do
+- landmark
 title: Hofburg Palace
 type: poi
 ---

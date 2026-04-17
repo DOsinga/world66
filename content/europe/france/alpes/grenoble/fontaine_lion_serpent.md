@@ -1,10 +1,10 @@
 ---
 address: Jardin de Ville
-category: Sight
 latitude: 45.192
 longitude: 5.7278
 tags:
 - things_to_do
+- landmark
 title: Fontaine du Lion et du Serpent
 type: poi
 ---

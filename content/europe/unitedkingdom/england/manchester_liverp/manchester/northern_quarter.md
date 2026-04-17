@@ -1,10 +1,10 @@
 ---
 address: Northern Quarter, Manchester M1 1JR
-category: Neighbourhood
 latitude: 53.484
 longitude: -2.235
 tags:
 - things_to_do
+- neighbourhood
 title: Northern Quarter
 type: poi
 ---

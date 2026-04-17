@@ -1,11 +1,11 @@
 ---
 address: Willemsplein 85
-category: Sight
 latitude: 51.916
 longitude: 4.483
 phone: +31 10 275 9988
 tags:
 - things_to_do
+- landmark
 title: Spido Harbour Tour
 type: poi
 ---

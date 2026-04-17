@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 11.2469
 longitude: 125.0036
 tags:
 - things_to_do
+- landmark
 title: Kanhuraw Hill
 type: poi
 ---

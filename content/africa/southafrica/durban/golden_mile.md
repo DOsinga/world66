@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -29.8537
 longitude: 31.0383
 tags:
 - things_to_do
+- neighbourhood
 title: Golden Mile
 type: poi
 ---

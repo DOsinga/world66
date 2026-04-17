@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 19.4338
 longitude: -99.1929
 tags:
 - things_to_do
+- neighbourhood
 title: Polanco
 type: poi
 ---

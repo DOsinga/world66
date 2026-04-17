@@ -1,10 +1,10 @@
 ---
 address: Grandagarður, Reykjavik
-category: Neighbourhood
 latitude: 64.1543
 longitude: -21.9525
 tags:
 - things_to_do
+- neighbourhood
 title: Grandi
 type: poi
 ---

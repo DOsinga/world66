@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 22.3988
 longitude: 114.2042
 tags:
 - newterritories
 - things_to_do
+- landmark
 title: Sha Tin Racecourse
 type: poi
 ---

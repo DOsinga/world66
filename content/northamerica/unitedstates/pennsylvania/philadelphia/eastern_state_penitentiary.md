@@ -1,10 +1,10 @@
 ---
 address: 2027 Fairmount Avenue
-category: Sight
 latitude: 39.9685
 longitude: -75.1725
 tags:
 - things_to_do
+- landmark
 title: Eastern State Penitentiary
 type: poi
 ---

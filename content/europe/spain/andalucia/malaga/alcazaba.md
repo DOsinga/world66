@@ -1,10 +1,10 @@
 ---
 address: Calle Alcazabilla, 2
-category: Sight
 latitude: 36.7212
 longitude: -4.4156
 tags:
 - things_to_do
+- landmark
 title: Alcazaba
 type: poi
 ---

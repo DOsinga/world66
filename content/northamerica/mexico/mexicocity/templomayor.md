@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.435
 longitude: -99.1314
 tags:
 - things_to_do
+- landmark
 title: Templo Mayor
 type: poi
 ---

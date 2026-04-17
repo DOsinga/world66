@@ -1,10 +1,10 @@
 ---
 address: 5 Place de Lavalette
-category: Museum
 latitude: 45.1944
 longitude: 5.7323
 tags:
 - things_to_do
+- museum
 title: Musée de Grenoble
 type: poi
 ---

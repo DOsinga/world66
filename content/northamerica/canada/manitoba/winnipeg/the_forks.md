@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 49.8879
 longitude: -97.1305
 tags:
 - things_to_do
+- neighbourhood
 title: The Forks
 type: poi
 ---

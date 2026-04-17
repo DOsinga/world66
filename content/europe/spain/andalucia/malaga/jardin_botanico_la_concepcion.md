@@ -1,10 +1,10 @@
 ---
 address: Camino del Jardín Botánico, 3
-category: Sight
 latitude: 36.7544
 longitude: -4.4189
 tags:
 - things_to_do
+- landmark
 title: Jardín Botánico La Concepción
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Castlefield, Manchester M3 4LZ
-category: Neighbourhood
 latitude: 53.4749
 longitude: -2.2555
 tags:
 - things_to_do
+- neighbourhood
 title: Castlefield
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
-category: Museum
 latitude: 34.0608
 longitude: -4.9809
 tags:
 - things_to_do
 - fes_el_bali
+- museum
 title: Dar Batha Museum
 type: poi
 ---

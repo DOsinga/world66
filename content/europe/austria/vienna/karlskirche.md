@@ -1,10 +1,10 @@
 ---
 address: Karlsplatz, 1040 Wien
-category: Sight
 latitude: 48.201553
 longitude: 16.369111
 tags:
 - things_to_do
+- landmark
 title: Karlskirche
 type: poi
 ---

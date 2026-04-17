@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.4547
 longitude: -2.6056
 tags:
 - things_to_do
+- museum
 title: Georgian House Museum
 type: poi
 ---

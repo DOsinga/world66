@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.724444
 longitude: -9.152778
 tags:
 - things_to_do
+- landmark
 title: Parque Eduardo VII
 type: poi
 ---

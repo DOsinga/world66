@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 55.6772
 longitude: 12.6105
 tags:
 - things_to_do
+- neighbourhood
 title: Christiania
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: 14 rue Hébert
-category: Museum
 latitude: 45.1897
 longitude: 5.7285
 tags:
 - things_to_do
+- museum
 title: Musée de la Résistance et de la Déportation
 type: poi
 ---

@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 34.0648
 longitude: -4.9734
 story: 'Al-Qarawiyyin was founded in 859 by Fatima al-Fihri, a young woman from a
@@ -11,6 +10,7 @@ story: 'Al-Qarawiyyin was founded in 859 by Fatima al-Fihri, a young woman from 
 tags:
 - things_to_do
 - fes_el_bali
+- landmark
 title: Al-Qarawiyyin Mosque and University
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Wilhelminakade 332
-category: Museum
 latitude: 51.906
 longitude: 4.487
 tags:
 - things_to_do
+- museum
 title: Nederlands Fotomuseum
 type: poi
 ---

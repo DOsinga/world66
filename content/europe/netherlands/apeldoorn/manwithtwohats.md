@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.2115
 longitude: 5.9695
 tags:
 - things_to_do
+- landmark
 title: The Man with Two Hats
 type: poi
 ---

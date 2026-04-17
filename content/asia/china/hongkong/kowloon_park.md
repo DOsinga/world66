@@ -1,11 +1,11 @@
 ---
 address: 22 Austin Road, Tsim Sha Tsui
-category: Sight
 latitude: 22.3005
 longitude: 114.1701
 tags:
 - kowloon
 - things_to_do
+- landmark
 title: Kowloon Park
 type: poi
 ---

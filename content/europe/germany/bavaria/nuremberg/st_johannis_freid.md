@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.461944
 longitude: 11.060278
 tags:
 - things_to_do
+- landmark
 title: St. Johannis-Friedhof
 type: poi
 ---

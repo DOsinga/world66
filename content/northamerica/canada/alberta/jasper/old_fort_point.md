@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.8691
 longitude: -118.0555
 tags:
 - things_to_do
+- landmark
 title: Old Fort Point
 type: poi
 ---

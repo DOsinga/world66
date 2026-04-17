@@ -1,11 +1,11 @@
 ---
 address: Weizenbergi 28, Kadriorg
-category: Museum
 latitude: 59.437467
 longitude: 24.791459
 phone: '6015844'
 tags:
 - things_to_do
+- museum
 title: Mikkel Museum
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
-category: Neighbourhood
 latitude: 22.2188
 longitude: 114.2092
 tags:
 - hongkongisland
 - things_to_do
+- neighbourhood
 title: Stanley
 type: poi
 ---

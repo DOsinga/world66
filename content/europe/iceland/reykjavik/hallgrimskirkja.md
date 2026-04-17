@@ -1,11 +1,11 @@
 ---
 address: Hallgrímstorg 1
-category: Sight
 latitude: 64.1417
 longitude: -21.9266
 opening_hours: 09:00–21:00 (summer), 09:00–17:00 (winter)
 tags:
 - things_to_do
+- landmark
 title: Hallgrímskirkja
 type: poi
 url: www.hallgrimskirkja.is

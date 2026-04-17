@@ -1,12 +1,12 @@
 ---
 address: Wong Tai Sin Estate, Kowloon
-category: Sight
 latitude: 22.3443
 longitude: 114.2009
 opening_hours: Daily 7:00–17:30
 tags:
 - kowloon
 - things_to_do
+- landmark
 title: Wong Tai Sin Temple
 type: poi
 ---

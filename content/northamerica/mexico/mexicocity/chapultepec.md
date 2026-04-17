@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.4204
 longitude: -99.182
 tags:
 - things_to_do
+- landmark
 title: Chapultepec Park
 type: poi
 ---

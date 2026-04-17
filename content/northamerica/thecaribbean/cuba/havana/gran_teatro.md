@@ -1,11 +1,11 @@
 ---
 address: Paseo de Martí 458, Central Havana
-category: Sight
 opening_hours: 'Office: 9am-5pm Tue-Sun; Performance times: 8.30pm Fri-Sat, 5pm Sun,
   Performance times: 8.30pm Fri-Sat, 5pm Sun'
 phone: (53-7) 861-3096
 tags:
 - things_to_do
+- landmark
 title: Gran Teatro
 type: Public Buildings
 ---

@@ -1,10 +1,10 @@
 ---
 address: Parc Paul Mistral
-category: Sight
 latitude: 45.1852
 longitude: 5.733
 tags:
 - things_to_do
+- landmark
 title: Parc Paul Mistral
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 20.641
 longitude: -103.314
 tags:
 - things_to_do
+- neighbourhood
 title: Tlaquepaque
 type: poi
 ---

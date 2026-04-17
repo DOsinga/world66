@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.455278
 longitude: 11.078056
 tags:
 - things_to_do
+- landmark
 title: Frauenkirche
 type: poi
 ---

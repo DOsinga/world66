@@ -1,10 +1,10 @@
 ---
 address: 381/1 Jaroenraj Rd.,faham,Muang Chiang Mai
-category: Sight
 email: info@scorpiontailed.com
 phone: 081-9609398
 tags:
 - things_to_do
+- landmark
 title: Cruise in The Ping River with Scorpion Tailed Boat
 type: Sailing
 ---

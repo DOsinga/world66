@@ -1,10 +1,10 @@
 ---
 address: Plaza de Don Gome 2
-category: Sight
 latitude: 37.8895
 longitude: -4.772
 tags:
 - things_to_do
+- landmark
 title: Palacio de Viana
 type: poi
 ---

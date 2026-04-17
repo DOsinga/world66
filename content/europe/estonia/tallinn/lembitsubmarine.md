@@ -1,10 +1,10 @@
 ---
 address: Vesilennuki 6, Seaplane Harbour
-category: Museum
 latitude: 59.45
 longitude: 24.7419
 tags:
 - things_to_do
+- museum
 title: Lembit Submarine
 type: poi
 ---

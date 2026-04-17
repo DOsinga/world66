@@ -1,10 +1,10 @@
 ---
 address: 190 Rupert Avenue
-category: Museum
 latitude: 49.9004
 longitude: -97.1389
 tags:
 - things_to_do
+- museum
 title: Manitoba Museum
 type: poi
 ---

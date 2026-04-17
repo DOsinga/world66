@@ -1,11 +1,11 @@
 ---
 address: Petuelring 130
-category: Museum
 latitude: 48.176912
 longitude: 11.560127
 phone: +49 (0)89 - 38 22-33 07
 tags:
 - things_to_do
+- museum
 title: BMW Museum
 type: poi
 ---

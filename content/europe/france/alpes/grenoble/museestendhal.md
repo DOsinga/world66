@@ -1,11 +1,11 @@
 ---
 address: 1 rue Hector Berlioz
-category: Museum
 latitude: 45.1917
 longitude: 5.727
 phone: 04 76 54 44 14
 tags:
 - things_to_do
+- museum
 title: Musée Stendhal
 type: poi
 ---

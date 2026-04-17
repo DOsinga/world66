@@ -1,10 +1,10 @@
 ---
 address: Rodezand 26
-category: Museum
 latitude: 51.9213
 longitude: 4.4804
 tags:
 - things_to_do
+- museum
 title: Museum Rotterdam
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Museumpark 18-20
-category: Museum
 latitude: 51.9138
 longitude: 4.472
 tags:
 - things_to_do
+- museum
 title: Museum Boijmans Van Beuningen
 type: poi
 ---

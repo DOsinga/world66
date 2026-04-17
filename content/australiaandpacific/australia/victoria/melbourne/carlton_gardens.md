@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -37.8053
 longitude: 144.9714
 tags:
 - things_to_do
+- landmark
 title: Carlton Gardens
 type: poi
 ---

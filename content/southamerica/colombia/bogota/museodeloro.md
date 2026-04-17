@@ -1,10 +1,10 @@
 ---
 address: Carrera 6 No 15-82
-category: Museum
 latitude: 4.6018
 longitude: -74.0719
 tags:
 - things_to_do
+- museum
 title: Museo del Oro
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Museumsmeile, Willy-Brandt-Allee 14, 53113 Bonn
-category: Museum
 latitude: 50.7168
 longitude: 7.1203
 phone: +49-228-91650
 tags:
 - things_to_do
+- museum
 title: Haus der Geschichte
 type: poi
 ---

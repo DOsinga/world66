@@ -1,6 +1,5 @@
 ---
 address: Calle Cardenal Herrero 1
-category: Sight
 latitude: 37.879
 longitude: -4.7794
 story: 'When Charles V visited in 1526 and saw the cathedral the canons had carved
@@ -9,6 +8,7 @@ story: 'When Charles V visited in 1526 and saw the cathedral the canons had carv
   in the world.'
 tags:
 - things_to_do
+- landmark
 title: Mezquita-Catedral
 type: poi
 ---

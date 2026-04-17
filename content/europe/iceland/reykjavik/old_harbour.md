@@ -1,10 +1,10 @@
 ---
 address: Geirsgata, Reykjavik
-category: Neighbourhood
 latitude: 64.1505
 longitude: -21.9421
 tags:
 - things_to_do
+- neighbourhood
 title: Old Harbour
 type: poi
 ---

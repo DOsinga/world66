@@ -1,10 +1,10 @@
 ---
 address: Calle 26B No 5-93, Parque de la Independencia
-category: Museum
 latitude: 4.6148
 longitude: -74.0701
 tags:
 - things_to_do
+- museum
 title: Planetario de Bogota
 type: poi
 ---

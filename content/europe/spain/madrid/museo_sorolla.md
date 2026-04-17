@@ -1,12 +1,12 @@
 ---
 address: General Martínez Campos, 37
-category: Museum
 latitude: 40.435393
 longitude: -3.692512
 opening_hours: Tu-Sat 0930-2000 Sun 1000-1500
 phone: (00 34) 91 3101584
 tags:
 - things_to_do
+- museum
 title: Museo Sorolla
 type: poi
 url: museosorolla.mcu.es

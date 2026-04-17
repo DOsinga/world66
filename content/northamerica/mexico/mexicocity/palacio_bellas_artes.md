@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 19.4352
 longitude: -99.1413
 tags:
 - things_to_do
+- architecture
 title: Palacio de Bellas Artes
 type: poi
 ---

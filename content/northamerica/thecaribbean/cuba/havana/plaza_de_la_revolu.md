@@ -1,8 +1,8 @@
 ---
 address: Plaza de la Revolución
-category: Sight
 tags:
 - things_to_do
+- landmark
 title: Plaza de la Revolución
 type: Squares
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.4525
 longitude: 11.077222
 tags:
 - things_to_do
+- landmark
 title: St. Lorenz-Kirche
 type: poi
 ---

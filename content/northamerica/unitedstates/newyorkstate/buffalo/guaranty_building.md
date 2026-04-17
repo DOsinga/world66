@@ -1,10 +1,10 @@
 ---
 address: 140 Pearl Street
-category: Architecture
 latitude: 42.8864
 longitude: -78.8774
 tags:
 - things_to_do
+- architecture
 title: Guaranty Building
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 50.733
 longitude: 7.105
 tags:
 - things_to_do
+- landmark
 title: Alter Zoll
 type: poi
 ---

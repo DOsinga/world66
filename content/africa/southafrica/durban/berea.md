@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -29.8449
 longitude: 31.0036
 tags:
 - things_to_do
+- neighbourhood
 title: Berea
 type: poi
 ---

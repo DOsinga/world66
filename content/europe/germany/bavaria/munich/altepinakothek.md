@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 48.148284
 longitude: 11.56998
 tags:
 - things_to_do
+- museum
 title: Alte Pinakothek
 type: poi
 ---

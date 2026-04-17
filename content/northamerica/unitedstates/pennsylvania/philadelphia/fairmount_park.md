@@ -1,10 +1,10 @@
 ---
 address: Fairmount Park
-category: Sight
 latitude: 39.9778
 longitude: -75.2092
 tags:
 - things_to_do
+- landmark
 title: Fairmount Park
 type: poi
 ---

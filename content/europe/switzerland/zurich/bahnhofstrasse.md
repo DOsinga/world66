@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 47.372258
 longitude: 8.538436
 tags:
 - things_to_do
+- neighbourhood
 title: Bahnhofstrasse
 type: poi
 ---

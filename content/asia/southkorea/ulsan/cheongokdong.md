@@ -1,9 +1,9 @@
 ---
-category: hiking
 latitude: 35.5837
 longitude: 129.312
 tags:
 - things_to_do
+- hiking
 title: Cheongokdong
 type: poi
 ---

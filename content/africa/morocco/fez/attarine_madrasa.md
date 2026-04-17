@@ -1,10 +1,10 @@
 ---
-category: Architecture
 latitude: 34.0648
 longitude: -4.974
 tags:
 - things_to_do
 - fes_el_bali
+- architecture
 title: Attarine Madrasa
 type: poi
 ---

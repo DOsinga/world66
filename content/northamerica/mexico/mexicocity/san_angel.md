@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 19.3464
 longitude: -99.1898
 tags:
 - things_to_do
+- neighbourhood
 title: San Ángel
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: 30 rue Maurice Gignoux
-category: Museum
 latitude: 45.1952
 longitude: 5.7271
 phone: 04 76 85 19 01
 tags:
 - things_to_do
+- museum
 title: Musée Dauphinois
 type: poi
 ---

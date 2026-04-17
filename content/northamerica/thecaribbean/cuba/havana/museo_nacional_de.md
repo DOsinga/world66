@@ -1,9 +1,9 @@
 ---
 address: Calle Trocadero, between Calles Zulueta and Monserrate
-category: Museum
 phone: 7/861-3856
 tags:
 - things_to_do
+- museum
 title: Museo Nacional de Bellas Artes
 type: poi
 url: www.museonacional.cult.cu

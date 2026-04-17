@@ -1,11 +1,11 @@
 ---
 address: Austurbakki 2
-category: Architecture
 latitude: 64.1502
 longitude: -21.9326
 opening_hours: 10:00–22:00 daily (lobby)
 tags:
 - things_to_do
+- architecture
 title: Harpa Concert Hall
 type: poi
 url: www.harpa.is

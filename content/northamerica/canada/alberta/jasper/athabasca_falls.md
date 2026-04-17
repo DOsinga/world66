@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.6644
 longitude: -117.8835
 tags:
 - things_to_do
+- landmark
 title: Athabasca Falls
 type: poi
 ---

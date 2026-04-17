@@ -1,12 +1,12 @@
 ---
 address: Varmahlíð 1, Öskjuhlíð
-category: Sight
 latitude: 64.1289
 longitude: -21.9192
 opening_hours: 09:00–22:00 daily
 phone: +354 562 0200
 tags:
 - things_to_do
+- landmark
 title: Perlan
 type: poi
 url: www.perlan.is

@@ -1,11 +1,11 @@
 ---
 address: Central Reykjavik
 admission: Free
-category: Sight
 latitude: 64.145
 longitude: -21.9425
 tags:
 - things_to_do
+- landmark
 title: Tjörnin
 type: poi
 ---

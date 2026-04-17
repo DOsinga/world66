@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 19.426
 longitude: -99.1862
 tags:
 - things_to_do
+- museum
 title: Museo Nacional de Antropología
 type: poi
 ---

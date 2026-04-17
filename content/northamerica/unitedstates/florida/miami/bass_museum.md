@@ -1,7 +1,6 @@
 ---
 accessibility: Totally Wheelchair Accessible
 address: 2121 Park Avenue
-category: Museum
 latitude: 25.797685
 longitude: -80.130174
 opening_hours: Tuesday-Saturday 10:00 a.m.-5:00 p.m., Sunday 11:00 a.m.-5:00 p.m.,
@@ -9,6 +8,7 @@ opening_hours: Tuesday-Saturday 10:00 a.m.-5:00 p.m., Sunday 11:00 a.m.-5:00 p.m
 phone: 305-673-7530
 tags:
 - things_to_do
+- museum
 title: Bass Museum of Art
 type: Hotspots
 url: www.bassmuseum.org.

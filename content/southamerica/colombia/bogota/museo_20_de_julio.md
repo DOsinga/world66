@@ -1,10 +1,10 @@
 ---
 address: Calle 11 No 6-94, Plaza Bolivar
-category: Museum
 latitude: 4.5977
 longitude: -74.0754
 tags:
 - things_to_do
+- museum
 title: Museo 20 de Julio
 type: poi
 ---

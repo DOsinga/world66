@@ -1,10 +1,10 @@
 ---
 address: Lungadige Porta Vittoria 9
-category: Architecture
 latitude: 45.4345
 longitude: 10.9931
 tags:
 - things_to_do
+- architecture
 title: Palazzo Pompei
 type: poi
 ---

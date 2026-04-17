@@ -1,10 +1,10 @@
 ---
 address: Rua da Escola Politécnica 58
-category: Sight
 latitude: 38.7168
 longitude: -9.148
 tags:
 - things_to_do
+- landmark
 title: Botanical Gardens
 type: poi
 ---

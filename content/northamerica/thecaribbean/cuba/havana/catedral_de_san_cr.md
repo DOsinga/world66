@@ -1,9 +1,9 @@
 ---
 address: Calle Emperado 156
-category: Sight
 opening_hours: mon-fri 10:30-12:30, sat 10:30-13:00, sun 9:00-12:30
 tags:
 - things_to_do
+- landmark
 title: Catedral de San Cristóbal
 type: Churches and Cathedrals
 ---

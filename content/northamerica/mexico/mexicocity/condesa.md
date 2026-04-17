@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 19.4118
 longitude: -99.174
 tags:
 - things_to_do
+- neighbourhood
 title: Condesa
 type: poi
 ---

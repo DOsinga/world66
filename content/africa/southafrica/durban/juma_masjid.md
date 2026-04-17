@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: -29.858
 longitude: 31.02
 tags:
 - things_to_do
+- architecture
 title: Juma Masjid
 type: poi
 ---

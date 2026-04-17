@@ -1,9 +1,9 @@
 ---
 address: Kale Sok. No:1 Çesme - Izmir
-category: Sight
 phone: (232) 712 66 09
 tags:
 - things_to_do
+- landmark
 title: Çesme Museum
 type: Museums
 ---

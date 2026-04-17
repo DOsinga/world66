@@ -1,10 +1,10 @@
 ---
 address: Carrera 4, Calle 11
-category: Museum
 latitude: 4.5967
 longitude: -74.0726
 tags:
 - things_to_do
+- museum
 title: Museo de Arte del Banco de la Republica
 type: poi
 ---

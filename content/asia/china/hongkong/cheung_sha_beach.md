@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 22.2394
 longitude: 113.9365
 tags:
 - lantau
 - things_to_do
+- landmark
 title: Cheung Sha Beach
 type: poi
 ---

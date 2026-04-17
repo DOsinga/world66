@@ -1,12 +1,12 @@
 ---
 address: The Marina, Ibiza Town
-category: Nightclub
 done:
   location_cleanup: '2026-04-09'
 latitude: 38.9083
 longitude: 1.447
 tags:
 - bars_and_cafes
+- nightclub
 tel: +34 971 191 000
 title: El Divino
 type: poi

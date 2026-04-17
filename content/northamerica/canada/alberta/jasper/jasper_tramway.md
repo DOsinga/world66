@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.8518
 longitude: -118.0793
 tags:
 - things_to_do
+- landmark
 title: Jasper Tramway
 type: poi
 ---

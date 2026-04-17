@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -37.8497
 longitude: 144.9734
 tags:
 - things_to_do
+- landmark
 title: Albert Park
 type: poi
 ---

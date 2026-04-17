@@ -1,6 +1,5 @@
 ---
 address: Albert Square, Manchester M60 2LA
-category: Architecture
 latitude: 53.4794
 longitude: -2.2445
 phone: 0161 234 5000
@@ -9,6 +8,7 @@ story: Alfred Waterhouse's neo-Gothic masterpiece won a design competition in 18
   scenes from Manchester's history from Roman times to the Industrial Revolution.
 tags:
 - things_to_do
+- architecture
 title: Manchester Town Hall
 type: poi
 ---

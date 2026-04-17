@@ -1,11 +1,11 @@
 ---
 address: Leuvehaven 1
-category: Museum
 latitude: 51.9176
 longitude: 4.4819
 phone: +31 10 413 2680
 tags:
 - things_to_do
+- museum
 title: Maritiem Museum
 type: poi
 ---

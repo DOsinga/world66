@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 45.521
 longitude: -73.581
 tags:
 - things_to_do
+- neighbourhood
 title: Plateau-Mont-Royal
 type: poi
 ---

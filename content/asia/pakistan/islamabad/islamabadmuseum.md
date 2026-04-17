@@ -1,10 +1,10 @@
 ---
 address: garden avenue
-category: Museum
 latitude: 2.679746
 longitude: 101.898931
 tags:
 - things_to_do
+- museum
 title: Islamabad Museum
 type: general
 ---

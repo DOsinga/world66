@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.886837
 longitude: 30.705852
 tags:
 - things_to_do
+- landmark
 title: Clock Tower
 type: Fountains and statues
 ---

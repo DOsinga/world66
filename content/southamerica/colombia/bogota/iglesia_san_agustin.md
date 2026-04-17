@@ -1,10 +1,10 @@
 ---
 address: Calle 7 No 7-13
-category: Sight
 latitude: 4.5964
 longitude: -74.0745
 tags:
 - things_to_do
+- landmark
 title: Iglesia de San Agustin
 type: poi
 ---

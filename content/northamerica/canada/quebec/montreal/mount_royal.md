@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.508588
 longitude: -73.589711
 tags:
 - things_to_do
+- landmark
 title: Mount Royal
 type: poi
 ---

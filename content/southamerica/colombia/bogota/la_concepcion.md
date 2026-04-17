@@ -1,10 +1,10 @@
 ---
 address: Calle 10 No 9-50
-category: Sight
 latitude: 4.5982
 longitude: -74.0771
 tags:
 - things_to_do
+- landmark
 title: Iglesia de la Concepcion
 type: poi
 ---

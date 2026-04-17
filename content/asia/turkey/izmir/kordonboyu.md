@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.436422
 longitude: 27.140224
 tags:
 - things_to_do
+- landmark
 title: Kordonboyu
 type: Hotspots
 ---

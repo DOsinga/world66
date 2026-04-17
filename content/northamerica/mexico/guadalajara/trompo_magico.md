@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 20.6285
 longitude: -103.4
 tags:
 - things_to_do
+- museum
 title: Trompo Magico
 type: poi
 ---

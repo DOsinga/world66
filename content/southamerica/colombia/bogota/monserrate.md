@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 4.6057
 longitude: -74.0556
 tags:
 - things_to_do
+- landmark
 title: Monserrate
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Restaurant
 latitude: 45.5124
 longitude: -122.6836
 tags:
 - eating_out
+- restaurant
 title: Baan Thai
 type: poi
 ---

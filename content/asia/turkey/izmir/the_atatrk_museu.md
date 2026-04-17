@@ -1,9 +1,9 @@
 ---
 address: 'Atatürk Cad. No: 24  Alsancak - iZMiR'
-category: Sight
 phone: + 90 232 421 70 26
 tags:
 - things_to_do
+- landmark
 title: The Ataturk Museum
 type: Hotspots
 ---

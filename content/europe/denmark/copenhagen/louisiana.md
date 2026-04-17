@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.9694
 longitude: 12.5432
 tags:
 - things_to_do
+- museum
 title: Louisiana
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -29.8458
 longitude: 31.0072
 tags:
 - things_to_do
+- landmark
 title: Durban Botanic Gardens
 type: poi
 ---

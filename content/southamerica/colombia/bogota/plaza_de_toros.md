@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 4.6131
 longitude: -74.0684
 tags:
 - things_to_do
+- landmark
 title: Plaza de Toros Santa Maria
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Meckenheimer Allee 171, 53115 Bonn
-category: Sight
 latitude: 50.7234
 longitude: 7.0908
 tags:
 - things_to_do
+- landmark
 title: Poppelsdorfer Schloss and Botanical Garden
 type: poi
 ---

@@ -1,7 +1,7 @@
 ---
-category: Sight
 tags:
 - bars_and_cafes
+- landmark
 title: Beer Gardens
 type: poi
 ---

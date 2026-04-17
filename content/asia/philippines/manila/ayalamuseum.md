@@ -1,10 +1,10 @@
 ---
 address: Makati Avenue corner De la Rosa Street, Makati
-category: Museum
 latitude: 14.553583
 longitude: 121.023245
 tags:
 - things_to_do
+- museum
 title: Ayala Museum
 type: poi
 ---

@@ -1,6 +1,5 @@
 ---
 address: Bonngasse 20, 53111 Bonn
-category: Museum
 latitude: 50.7369
 longitude: 7.1013
 phone: +49-228-9817525
@@ -10,6 +9,7 @@ story: Ludwig van Beethoven was born in the modest back rooms of this house in D
   to practise.
 tags:
 - things_to_do
+- museum
 title: Beethoven-Haus
 type: poi
 ---

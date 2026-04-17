@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.43828
 longitude: 10.993242
 tags:
 - things_to_do
+- landmark
 title: Piazza Bra
 type: poi
 ---

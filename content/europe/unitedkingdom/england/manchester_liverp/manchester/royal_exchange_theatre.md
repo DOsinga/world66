@@ -1,11 +1,11 @@
 ---
 address: St Ann's Square, Manchester M2 7DH
-category: Sight
 latitude: 53.4825
 longitude: -2.2455
 phone: 0161 833 9833
 tags:
 - things_to_do
+- landmark
 title: Royal Exchange Theatre
 type: poi
 url: www.royalexchange.co.uk

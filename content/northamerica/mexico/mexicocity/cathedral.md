@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 19.4342
 longitude: -99.1331
 tags:
 - things_to_do
+- architecture
 title: Metropolitan Cathedral
 type: poi
 ---

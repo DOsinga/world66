@@ -1,11 +1,11 @@
 ---
 address: Liverpool Road, Castlefield, Manchester M3 4FP
-category: Museum
 latitude: 53.4769
 longitude: -2.2554
 phone: 0330 058 0058
 tags:
 - things_to_do
+- museum
 title: Museum of Science and Industry
 type: poi
 ---

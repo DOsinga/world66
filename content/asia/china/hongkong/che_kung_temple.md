@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 22.3748
 longitude: 114.1862
 tags:
 - newterritories
 - things_to_do
+- landmark
 title: Che Kung Temple
 type: poi
 ---

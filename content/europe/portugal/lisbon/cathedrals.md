@@ -1,10 +1,10 @@
 ---
 address: Largo da Sé, Alfama
-category: Architecture
 latitude: 38.7099
 longitude: -9.133381
 tags:
 - things_to_do
+- architecture
 title: Lisbon Cathedral (Sé)
 type: poi
 ---

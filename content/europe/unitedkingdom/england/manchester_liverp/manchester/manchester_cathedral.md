@@ -1,11 +1,11 @@
 ---
 address: Victoria Street, Manchester M3 1SX
-category: Sight
 latitude: 53.4851
 longitude: -2.2444
 phone: 0161 833 2220
 tags:
 - things_to_do
+- landmark
 title: Manchester Cathedral
 type: poi
 ---

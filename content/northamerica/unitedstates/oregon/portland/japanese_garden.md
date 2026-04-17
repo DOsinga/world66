@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.5192
 longitude: -122.7069
 tags:
 - things_to_do
+- landmark
 title: Japanese Garden
 type: poi
 ---

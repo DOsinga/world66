@@ -1,10 +1,10 @@
 ---
 address: Calle Compañía, 10
-category: Museum
 latitude: 36.7211
 longitude: -4.4222
 tags:
 - things_to_do
+- museum
 title: Museo Carmen Thyssen
 type: poi
 ---

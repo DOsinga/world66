@@ -1,10 +1,10 @@
 ---
 address: Broad and Market Streets
-category: Architecture
 latitude: 39.9526
 longitude: -75.1636
 tags:
 - things_to_do
+- architecture
 title: City Hall
 type: poi
 ---

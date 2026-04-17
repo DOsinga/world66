@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 10.082444
 longitude: 99.824371
 tags:
 - things_to_do
+- landmark
 title: Thai Cooking Classes
 type: Other
 url: www.cookingclass.asia

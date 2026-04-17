@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.267152
 longitude: -84.258912
 tags:
 - things_to_do
+- landmark
 title: Bike Miami
 type: Spa and Sauna
 ---

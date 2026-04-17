@@ -1,10 +1,10 @@
 ---
 address: Winkelwiese 4
-category: Museum
 latitude: 47.37017
 longitude: 8.54666
 tags:
 - things_to_do
+- museum
 title: Kunsthaus Zürich
 type: poi
 url: www.zunsthaus-zuerich.ch

@@ -1,9 +1,9 @@
 ---
-category: Bar
 latitude: 34.042
 longitude: -5.0008
 tags:
 - bars_and_cafes
+- bar
 title: Es Saada
 type: poi
 ---

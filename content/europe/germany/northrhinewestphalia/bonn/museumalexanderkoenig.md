@@ -1,6 +1,5 @@
 ---
 address: Adenauerallee 160, 53113 Bonn
-category: Museum
 latitude: 50.7207
 longitude: 7.1148
 phone: +49-228-91220
@@ -9,6 +8,7 @@ story: The constitutional convention for the future Federal Republic of Germany 
   future under the gaze of stuffed elephants and lions.
 tags:
 - things_to_do
+- museum
 title: Museum Alexander Koenig
 type: poi
 ---

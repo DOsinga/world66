@@ -1,9 +1,9 @@
 ---
 address: Spiridon-Lois-Ring 21
-category: Sight
 phone: +49 (0)0900 yea that's it
 tags:
 - things_to_do
+- landmark
 title: Olympia Park
 type: poi
 ---

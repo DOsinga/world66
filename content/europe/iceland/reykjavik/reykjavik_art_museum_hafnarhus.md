@@ -1,12 +1,12 @@
 ---
 address: Tryggvagata 17
-category: Museum
 latitude: 64.1494
 longitude: -21.9408
 opening_hours: 10:00–17:00 daily (Thur until 22:00)
 phone: +354 411 6400
 tags:
 - things_to_do
+- museum
 title: Reykjavik Art Museum – Hafnarhús
 type: poi
 url: www.artmuseum.is

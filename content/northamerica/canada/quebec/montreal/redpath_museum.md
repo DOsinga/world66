@@ -1,11 +1,11 @@
 ---
 address: 859 rue Sherbrooke Ouest, Montréal, QC H3A 0C4
-category: Museum
 latitude: 45.504471
 longitude: -73.577514
 phone: 514 398-4086
 tags:
 - things_to_do
+- museum
 title: Redpath Museum
 type: poi
 url: www.mcgill.ca/redpath

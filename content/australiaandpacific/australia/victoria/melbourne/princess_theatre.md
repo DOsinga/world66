@@ -1,10 +1,10 @@
 ---
 address: 163 Spring Street
-category: Sight
 latitude: -37.8107
 longitude: 144.9723
 tags:
 - things_to_do
+- landmark
 title: Princess Theatre
 type: poi
 ---

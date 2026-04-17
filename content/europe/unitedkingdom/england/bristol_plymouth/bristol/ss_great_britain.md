@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.4494
 longitude: -2.6086
 tags:
 - things_to_do
+- landmark
 title: SS Great Britain
 type: poi
 ---

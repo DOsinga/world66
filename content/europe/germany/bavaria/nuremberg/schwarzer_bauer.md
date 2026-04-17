@@ -1,9 +1,9 @@
 ---
-category: Bar
 latitude: 49.456389
 longitude: 11.070556
 tags:
 - bars_and_cafes
+- bar
 title: Schwarzer Bauer
 type: poi
 ---

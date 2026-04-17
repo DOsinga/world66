@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.4326
 longitude: -99.1316
 tags:
 - things_to_do
+- landmark
 title: Palacio Nacional
 type: poi
 ---

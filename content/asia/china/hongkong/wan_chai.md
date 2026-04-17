@@ -1,10 +1,10 @@
 ---
-category: Neighbourhood
 latitude: 22.2775
 longitude: 114.1731
 tags:
 - hongkongisland
 - things_to_do
+- neighbourhood
 title: Wan Chai
 type: poi
 ---

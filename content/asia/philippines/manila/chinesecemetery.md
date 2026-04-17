@@ -1,10 +1,10 @@
 ---
 address: Santa Cruz, Manila
-category: Sight
 latitude: 14.6373
 longitude: 120.9828
 tags:
 - things_to_do
+- landmark
 title: Chinese Cemetery
 type: poi
 ---

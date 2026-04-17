@@ -1,11 +1,11 @@
 ---
 address: Parkhaven 20
-category: Sight
 latitude: 51.9054
 longitude: 4.4666
 phone: +31 10 436 4811
 tags:
 - things_to_do
+- landmark
 title: Euromast
 type: poi
 ---

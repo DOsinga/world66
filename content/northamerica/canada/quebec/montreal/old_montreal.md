@@ -1,10 +1,10 @@
 ---
 address: Old Montréal, QC
-category: Neighbourhood
 latitude: 45.502212
 longitude: -73.555413
 tags:
 - things_to_do
+- neighbourhood
 title: Old Montréal
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.6747
 longitude: 12.5744
 tags:
 - things_to_do
+- museum
 title: Nationalmuseet
 type: poi
 ---

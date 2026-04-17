@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 55.6816
 longitude: 12.5761
 tags:
 - things_to_do
+- landmark
 title: Trinitatis Kirke
 type: poi
 ---

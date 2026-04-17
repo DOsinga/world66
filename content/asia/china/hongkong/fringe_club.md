@@ -1,11 +1,11 @@
 ---
 address: 2 Lower Albert Road, Central
-category: Sight
 latitude: 22.2816
 longitude: 114.1567
 tags:
 - hongkongisland
 - things_to_do
+- landmark
 title: Fringe Club
 type: poi
 ---

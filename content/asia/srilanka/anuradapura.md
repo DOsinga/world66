@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-08'
 latitude: 8.3368
 longitude: 80.4082
+score: 0.61
 title: Anuradhapura
 type: location
-score: 0.61
 ---
 
 Anuradhapura was the first great capital of Sri Lanka, a city that flourished for over 1,400 years — from around 380 BC until the late 10th century AD — and rivalled the greatest urban centres of the ancient world. At its height it received ambassadors from China, Rome, and Persia, and sustained monastic communities of up to 5,000 monks each. Today the ancient city is a UNESCO World Heritage Site and one of the most sacred places in the Buddhist world.

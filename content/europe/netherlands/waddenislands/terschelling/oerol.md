@@ -1,8 +1,11 @@
 ---
-title: "Oerol"
+date: june, recurrent every year
+tags:
+- festivals
+- things_to_do
+title: Oerol
 type: poi
-date: "june, recurrent every year"
-url: "www.oerol.nl"
+url: www.oerol.nl
 ---
 
 Every year in **mid june**, there is the eccentric festival called **Oerol**

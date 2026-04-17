@@ -1,7 +1,8 @@
 ---
-title: "Train transfer Amsterdam <> Leeuwarden Harlingen"
-type: poi
-type: "By Air"
+tags:
+- getting_there
+title: Train transfer Amsterdam <> Leeuwarden Harlingen
+type: By Air
 ---
 
 Departure/timetable and tariff information for **train** transfer to Leeuwarden and correspondence to Harlingen harbour (here soon)

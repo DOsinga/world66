@@ -1,8 +1,7 @@
 ---
-title: "Getting There"
+phone: 'for  car  bookings at:  +31 517 491 500 (English spoken)'
+title: Getting There
 type: section
-phone: "for  car  bookings at:  +31 517 491 500 (English spoken)"
-type: "By Road"
 ---
 
 **By Train + Ferry **(polders route)**

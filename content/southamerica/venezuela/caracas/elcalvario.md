@@ -2,6 +2,8 @@
 category: Sight
 latitude: 8.979146
 longitude: -66.997067
+tags:
+- things_to_do
 title: El Calvario
 type: Gardens and Parks
 ---

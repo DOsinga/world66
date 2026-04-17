@@ -1,5 +1,7 @@
 ---
 category: Sight
+tags:
+- things_to_do
 title: Casa Natal de Simón Bolívar
 type: Museums
 ---

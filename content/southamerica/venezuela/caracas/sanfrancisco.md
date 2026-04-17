@@ -2,6 +2,8 @@
 category: Sight
 latitude: 10.559815
 longitude: -71.643015
+tags:
+- things_to_do
 title: San Francisco
 type: Churches
 ---

@@ -1,7 +1,11 @@
 ---
 title: "Christuskirche"
 type: poi
-category: Architecture
+tags:
+  - things_to_do
+  - church
+  - architecture
+  - colonial_history
 address: "Peter Muller Street, Windhoek"
 latitude: -22.5667
 longitude: 17.0825

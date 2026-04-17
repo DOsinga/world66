@@ -1,7 +1,11 @@
 ---
 title: "National Gallery of Namibia"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
+  - art
+  - gallery
 address: "Corner of Robert Mugabe Avenue and John Meinert Street, Windhoek"
 latitude: -22.562318
 longitude: 17.085738

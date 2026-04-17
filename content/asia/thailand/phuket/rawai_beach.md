@@ -1,8 +1,10 @@
 ---
-title: "Rawai Beach"
-type: poi
 latitude: 7.770281
 longitude: 98.319305
+tags:
+- beaches
+title: Rawai Beach
+type: poi
 ---
 
 While this beach isn't the best for swimming at, it has some of the best seafood on the island. It can be reached by tuk tuk from anywhere on the island.

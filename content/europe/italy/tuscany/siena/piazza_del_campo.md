@@ -1,7 +1,7 @@
 ---
 title: "Piazza del Campo"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight]
 latitude: 43.3181
 longitude: 11.3317
 ---

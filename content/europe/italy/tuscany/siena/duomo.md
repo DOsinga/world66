@@ -1,7 +1,7 @@
 ---
 title: "Siena Cathedral (Duomo)"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, church]
 latitude: 43.3169
 longitude: 11.3284
 story: "The Sienese originally planned an even larger cathedral — what now stands was to be the transept of a giant new building. The Black Death of 1348 killed so many workers that the project was abandoned. You can see the unfinished nave wall still standing alongside the existing cathedral."

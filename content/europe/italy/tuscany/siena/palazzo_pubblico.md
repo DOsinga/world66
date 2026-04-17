@@ -1,7 +1,7 @@
 ---
 title: "Palazzo Pubblico"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, museum]
 latitude: 43.3178
 longitude: 11.3319
 ---

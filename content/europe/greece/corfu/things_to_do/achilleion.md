@@ -1,7 +1,7 @@
 ---
 title: "Achilleion Palace"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, palace]
 latitude: 39.5633
 longitude: 19.8994
 ---

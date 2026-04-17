@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 21.1528
 longitude: -86.8426
+score: 0.71
 title: Cancun
 type: location
-score: 0.71
 ---
 
 Cancun sits at the northeastern tip of the Yucatan Peninsula, where a long barrier island — the Zona Hotelera — curves between the Caribbean and a quiet lagoon. The beach is genuinely spectacular: powder-white sand and turquoise water that shifts from pale jade to deep blue. The snorkelling and diving offshore are among the best in the Americas, and the island of [Cozumel](/northamerica/mexico/cozumel), easily reached by ferry, has some of the clearest water on earth.

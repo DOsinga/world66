@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 28.1471
 longitude: -82.7564
+score: 0.48
 title: Tarpon Springs
 type: location
-score: 0.48
 ---
 
 Tarpon Springs is a small Florida Gulf Coast town with a character unlike anything else in the state. In the early twentieth century, Greek immigrants arrived to harvest sea sponges from the Gulf waters, and their presence shaped the town so thoroughly that it still feels like a transplanted Greek village — complete with Greek Orthodox churches, waterfront tavernas, and the smell of fresh-baked baklava drifting off Dodecanese Boulevard.

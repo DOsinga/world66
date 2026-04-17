@@ -1,5 +1,8 @@
 ---
-title: "Artists Market"
+tags:
+- shopping
+- market
+title: Artists Market
 type: poi
 ---
 

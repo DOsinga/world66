@@ -1,7 +1,7 @@
 ---
 title: "Micia Roman Site"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 45.8936
 longitude: 22.8406
 ---

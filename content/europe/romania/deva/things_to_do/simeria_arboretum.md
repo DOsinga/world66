@@ -1,7 +1,7 @@
 ---
 title: "Simeria Arboretum"
 type: poi
-category: Sight
+tags: [things_to_do, park]
 latitude: 45.8542
 longitude: 23.0156
 ---

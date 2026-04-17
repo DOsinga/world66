@@ -1,7 +1,11 @@
 ---
 title: "Cozumel Island"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - diving
+  - island
+  - day_trip
 latitude: 20.4230
 longitude: -86.9223
 ---

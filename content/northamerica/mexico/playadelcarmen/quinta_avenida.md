@@ -1,7 +1,10 @@
 ---
 title: "Quinta Avenida (5th Avenue)"
 type: poi
-category: "Neighbourhood"
+tags:
+  - things_to_do
+  - shopping
+  - street
 latitude: 20.6296
 longitude: -87.0739
 ---

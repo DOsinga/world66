@@ -1,7 +1,10 @@
 ---
 title: "Tulum"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - archaeological_site
+  - day_trip
 latitude: 20.2114
 longitude: -87.4654
 ---

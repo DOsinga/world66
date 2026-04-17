@@ -1,6 +1,9 @@
 ---
 title: "Snack Bar Tinvoglia"
 type: poi
+tags:
+  - eating_out
+  - restaurant
 address: "Via Torino 34, Mestre"
 phone: "+39 041 801 0124"
 price: "6"

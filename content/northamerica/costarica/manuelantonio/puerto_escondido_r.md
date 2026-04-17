@@ -1,6 +1,9 @@
 ---
 title: "Puerto Escondido Restaurant"
 type: poi
+tags:
+  - eating_out
+  - restaurant
 address: "Manuel Antonio Beach, Quepos"
 email: "jorge@espadilla.com"
 phone: "(506) 777-0903"

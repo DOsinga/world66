@@ -1,7 +1,10 @@
 ---
 title: "Scuba and Snorkelling"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - diving
+  - water_sports
 phone: "(506) 777-3171"
 email: "info@oceansunlimitedcr.com"
 url: "http://www.oceansunlimitedcr.com"

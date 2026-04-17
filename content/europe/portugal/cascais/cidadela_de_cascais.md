@@ -1,7 +1,7 @@
 ---
 title: "Cidadela de Cascais"
 type: poi
-category: Architecture
+tags: [things_to_do, castle]
 latitude: 38.6976
 longitude: -9.4215
 story: "The Cidadela served as the official summer residence of the Portuguese royal family from the 1870s until the fall of the monarchy in 1910. After decades of military use, it was converted into a luxury hotel and arts complex — the original royal apartments are now guest rooms."

@@ -1,7 +1,7 @@
 ---
 title: "Museu dos Condes de Castro Guimarães"
 type: poi
-category: Museum
+tags: [things_to_do, museum]
 latitude: 38.6966
 longitude: -9.4255
 ---

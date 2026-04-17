@@ -1,7 +1,7 @@
 ---
 title: "Boca do Inferno"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 38.6956
 longitude: -9.4299
 ---

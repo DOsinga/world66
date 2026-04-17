@@ -1,7 +1,11 @@
 ---
-category: Sight
 latitude: 20.4635
 longitude: -12.3665
+tags:
+- things_to_do
+- museum
+- historic_sight
+- cultural_sight
 title: Manuscript Libraries
 type: poi
 ---

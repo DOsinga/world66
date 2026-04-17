@@ -1,7 +1,11 @@
 ---
-category: Sight
 latitude: 20.4633
 longitude: -12.3667
+tags:
+- things_to_do
+- mosque
+- historic_sight
+- cultural_sight
 title: Chinguetti Mosque
 type: poi
 ---

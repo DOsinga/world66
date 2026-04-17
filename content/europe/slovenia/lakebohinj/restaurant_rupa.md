@@ -1,6 +1,9 @@
 ---
 title: "Restaurant Rupa"
 type: poi
+tags:
+  - eating_out
+  - restaurant
 address: "Srednja Vas v Bohinju 87"
 phone: "+386 4 572 34 01"
 latitude: 46.2870

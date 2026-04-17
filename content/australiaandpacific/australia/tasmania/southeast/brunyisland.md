@@ -1,7 +1,7 @@
 ---
 title: "Bruny Island"
 type: poi
-category: "Sight"
+tags: [things_to_do, island, nature, hiking]
 description: "A wild, sparsely populated island off the Channel coast, split by a narrow isthmus — worth a weekend if you can manage it."
 latitude: -43.2899
 longitude: 147.2891

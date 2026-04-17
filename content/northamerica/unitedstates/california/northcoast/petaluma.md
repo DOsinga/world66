@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 38.232583
 longitude: -122.636465
+score: 0.4
 title: Petaluma
 type: location
-score: 0.4
 ---
 
 Petaluma sits at the northern end of San Francisco Bay's reach, straddling a tidal slough that made it a booming river port in the 19th century. It's a genuine small city with a well-preserved Victorian downtown, a walkable riverfront, and enough restaurants and breweries to make an overnight stay worthwhile. Most visitors pass through on the way to wine country, but Petaluma rewards those who slow down.

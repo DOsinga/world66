@@ -1,11 +1,12 @@
 ---
-title: Okavango Delta
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: -19.154005
 longitude: 22.980094
-done:
-  location_cleanup: 2026-04-07
 score: 0.72
+title: Okavango Delta
+type: location
 ---
 
 The Okavango River never reaches the sea. Instead, it fans out across northern Botswana into one of the largest inland deltas on earth — over 16,000 square kilometres of palm forests, grasslands, flood plains, islands, and lagoons, all spilling into the sands of the [Kalahari Desert](/africa/botswana/kalaharidesert). The contrast of lush wetland meeting bone-dry desert is what earns the delta its nickname: the Jewel of the Kalahari.

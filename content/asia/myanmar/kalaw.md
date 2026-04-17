@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 20.6357
 longitude: 96.5669
+score: 0.47
 title: Kalaw
 type: location
-score: 0.47
 ---
 
 "If we could take Kalaw with us, we would!" the British are reported to have said when leaving Myanmar. This old hill station sits on the rim of the Shan Plateau at around 1,300 metres, keeping it pleasantly cool even in the hottest months. The mock-Tudor colonial bungalows, the pine forests, and the crisp highland air give Kalaw a character quite unlike anything else in Myanmar.

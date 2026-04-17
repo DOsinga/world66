@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 19.0414
 longitude: -98.2063
+score: 0.64
 title: Puebla
 type: location
-score: 0.64
 ---
 
 Puebla de los Ángeles is one of [Mexico](/northamerica/mexico)'s great colonial cities — a UNESCO World Heritage Site with over 5,000 buildings from the 16th to 19th centuries, all set against the backdrop of the snowcapped volcanoes Popocatépetl and Iztaccíhuatl. The historic centre is a grid of churches, convents and brightly tiled houses that feels more lived-in and less touristic than many of its peers.

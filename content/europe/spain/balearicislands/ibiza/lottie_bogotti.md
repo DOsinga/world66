@@ -1,12 +1,14 @@
 ---
-title: "Lottie Bogotti"
-type: poi
-accessibility: "Everyone"
-address: "San Carlos"
-phone: "618 900 128"
-type: "Antiques"
+accessibility: Everyone
+address: San Carlos
 latitude: 37.504936
 longitude: -122.261823
+phone: 618 900 128
+tags:
+- ibizatown
+- shopping
+title: Lottie Bogotti
+type: Antiques
 ---
 
 A very groovy and Bohemian shop selling antiques and vintage treasure including Murano art glass, old English silver, antique bags, dresses made out of vintage silk saris, jewellery made out of antique beads, chandeliers, renovated furniture, antique ornaments and brass, copper and silver candlesticks and bits and bobs.

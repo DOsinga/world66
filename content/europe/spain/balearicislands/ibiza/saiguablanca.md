@@ -1,8 +1,10 @@
 ---
-title: "S'Aigua Blanca"
-type: poi
 latitude: 39.059879
 longitude: 1.589192
+tags:
+- beaches
+title: S'Aigua Blanca
+type: poi
 ---
 
 A splendid beach, not in the least because there is not much building upon the sand.

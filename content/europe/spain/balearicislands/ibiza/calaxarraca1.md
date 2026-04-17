@@ -1,9 +1,10 @@
 ---
-title: "Cala Xarraca"
-type: poi
-type: "general"
 latitude: 39.098508
 longitude: 1.496365
+tags:
+- beaches
+title: Cala Xarraca
+type: general
 ---
 
 This beach, surrounded by impressive cliffs, houses only a few restaurants and houses. You can hire

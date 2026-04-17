@@ -1,10 +1,12 @@
 ---
-title: "Cala Salada"
-type: poi
-address: "Ibiza - Eivissa"
-url: "www.yatoo-ibiza.com"
+address: Ibiza - Eivissa
 latitude: 38.97439
 longitude: 1.419746
+tags:
+- beaches
+title: Cala Salada
+type: poi
+url: www.yatoo-ibiza.com
 ---
 
 One is an ideal cove to enjoy its landscape and its multiple corners that offer to pass a day's halt, baths without no danger and places where to as much take the sun from sand as of rock.

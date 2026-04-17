@@ -1,8 +1,10 @@
 ---
-title: "Ses Salinas"
-type: poi
 latitude: 38.896409
 longitude: 1.423274
+tags:
+- beaches
+title: Ses Salinas
+type: poi
 ---
 
 The coolest beach of the island. It has a beautiful broad extending beach where you can choose from five beach-bars, all presenting their own sort of modern music. During day-time, the motley party-crowd tries to sleep off its hangover, in order to make it through the next night. When you go further the eastwards, you will see less families but even more party people - wearing bathing suits if anything at all. The view from the bay is absolutely breath-taking.

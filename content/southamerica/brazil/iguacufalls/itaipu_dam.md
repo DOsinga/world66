@@ -1,7 +1,9 @@
 ---
 title: "Itaipu Dam"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: -25.424615
 longitude: -54.567029
 ---

@@ -1,7 +1,11 @@
 ---
 title: Ajlun Nature Reserve
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - nature
+  - hiking
+  - park
 latitude: 32.3150
 longitude: 35.7300
 ---

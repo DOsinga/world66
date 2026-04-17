@@ -1,7 +1,11 @@
 ---
 title: Ajlun Castle
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - castle
+  - historic_site
+  - architecture
 latitude: 32.3349
 longitude: 35.7469
 story: >

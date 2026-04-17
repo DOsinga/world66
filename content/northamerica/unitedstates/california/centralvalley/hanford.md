@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 36.3278
 longitude: -119.6462
+score: 0.27
 title: Hanford
 type: location
-score: 0.27
 ---
 
 Hanford is a small Central Valley city that punches well above its weight in historic interest. The main draw is China Alley, a remarkably preserved enclave from the late 19th century when Chinese railroad workers settled here after the transcontinental lines were complete. The 1893 Taoist Temple on China Alley still stands, and you can visit it by reservation — it is one of the oldest Chinese temples in the American West.

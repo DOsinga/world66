@@ -1,7 +1,7 @@
 ---
 title: "Tan Ky Old House"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 15.8771
 longitude: 108.3291
 ---

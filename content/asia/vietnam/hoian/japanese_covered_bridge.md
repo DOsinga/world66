@@ -1,7 +1,7 @@
 ---
 title: "Japanese Covered Bridge"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 15.8774
 longitude: 108.3261
 ---

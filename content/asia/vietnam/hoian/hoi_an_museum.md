@@ -1,7 +1,7 @@
 ---
 title: "Museum of History and Culture"
 type: poi
-category: "Museum"
+tags: [things_to_do]
 latitude: 15.8773
 longitude: 108.3295
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Phuc Kien Assembly Hall"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 latitude: 15.8769
 longitude: 108.3303
 story: "The hall was founded in 1697 by Fujianese immigrants and dedicated to Thien Hau, goddess of the sea. Sailors and traders prayed here before voyages across the South China Sea, and offerings are still made today."

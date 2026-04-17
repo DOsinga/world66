@@ -1,7 +1,10 @@
 ---
 title: "St. Augustine Lighthouse"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
+  - lighthouse
 latitude: 29.8807
 longitude: -81.2966
 ---

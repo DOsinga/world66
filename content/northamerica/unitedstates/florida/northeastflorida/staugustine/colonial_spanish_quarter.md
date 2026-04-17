@@ -1,7 +1,10 @@
 ---
 title: "Colonial Spanish Quarter Museum"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
+  - museum
+  - historic_site
 latitude: 29.8953
 longitude: -81.3127
 ---

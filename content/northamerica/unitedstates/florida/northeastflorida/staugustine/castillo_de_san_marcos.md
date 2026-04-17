@@ -1,7 +1,11 @@
 ---
 title: "Castillo de San Marcos"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
+  - historic_site
+  - fort
 latitude: 29.8979
 longitude: -81.3122
 ---

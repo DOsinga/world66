@@ -1,7 +1,7 @@
 ---
 title: 'Wollaston Bridge'
 type: poi
-category: 'Sight'
+tags: [things_to_do, historic_site, heritage, bridge]
 address: 'Wollaston Road'
 latitude: -38.3912
 longitude: 142.4721

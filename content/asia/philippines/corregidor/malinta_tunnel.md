@@ -1,7 +1,11 @@
 ---
 title: "Malinta Tunnel"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - historic_site
+  - museum
+  - world_war_ii
 latitude: 14.3844
 longitude: 120.5683
 ---

@@ -1,7 +1,11 @@
 ---
 title: "Pacific War Memorial"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - memorial
+  - historic_site
+  - world_war_ii
 latitude: 14.3875
 longitude: 120.5712
 ---

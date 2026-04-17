@@ -1,14 +1,15 @@
 ---
-title: "Old New Orleans Rum Tour"
-type: poi
-accessibility: "handicap accessible"
-address: "2815 Frenchmen St"
-email: "info@neworleansrum.com"
-phone: "5049459400"
-type: "Other"
-url: "www.neworleansrum.com"
+accessibility: handicap accessible
+address: 2815 Frenchmen St
+email: info@neworleansrum.com
 latitude: 29.986506
 longitude: -90.059135
+phone: '5049459400'
+tags:
+- things_to_do
+title: Old New Orleans Rum Tour
+type: Other
+url: www.neworleansrum.com
 ---
 
 Alot of people do not even know this place exists and it is only a 10

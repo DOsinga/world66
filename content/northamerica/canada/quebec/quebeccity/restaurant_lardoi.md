@@ -1,7 +1,8 @@
 ---
-title: "Restaurant L'Ardoise"
-type: poi
-type: "French"
+tags:
+- eating_out
+title: Restaurant L'Ardoise
+type: French
 ---
 
 One word sums it up: Excellent!

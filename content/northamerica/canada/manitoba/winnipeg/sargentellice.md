@@ -1,7 +1,8 @@
 ---
-title: "Sargent/ellice"
-type: poi
-type: "African"
+tags:
+- eating_out
+title: Sargent/ellice
+type: African
 ---
 
 These two streets bring together a variety of cultures forming

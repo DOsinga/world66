@@ -3,6 +3,8 @@ address: Calle Ruiz de Alarcon 23
 category: Sight
 latitude: 40.4153
 longitude: -3.6844
+tags:
+- things_to_do
 title: Retiro Park
 type: poi
 ---

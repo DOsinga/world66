@@ -1,10 +1,11 @@
 ---
-title: "Le Continental"
-type: poi
-address: "26 St.-Charles"
-type: "French"
+address: 26 St.-Charles
 latitude: 38.767524
 longitude: -90.511684
+tags:
+- eating_out
+title: Le Continental
+type: French
 ---
 
 Outstanding restaurant in every way. The decor is elegant but not "posh". Service is up to par.

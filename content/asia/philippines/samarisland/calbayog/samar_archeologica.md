@@ -1,9 +1,11 @@
 ---
-title: "Samar Archeological Museum and Research Center"
-type: poi
-address: "Christ the King College"
+address: Christ the King College
 latitude: 50.693697
 longitude: -1.311821
+tags:
+- museums
+title: Samar Archeological Museum and Research Center
+type: poi
 ---
 
 Opened on April 11, 1970, it is the first and only

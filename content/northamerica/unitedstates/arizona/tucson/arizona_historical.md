@@ -1,12 +1,13 @@
 ---
-title: "Arizona State Museum"
-type: poi
-address: "1013 E. University Boulevard, Tucson, AZ 85721"
-opening_hours: "Mon-Fri 8am-5pm"
-phone: "(520)621-6302"
-type: "Hotspots"
+address: 1013 E. University Boulevard, Tucson, AZ 85721
 latitude: 32.231885
 longitude: -110.952957
+opening_hours: Mon-Fri 8am-5pm
+phone: (520)621-6302
+tags:
+- sights
+title: Arizona State Museum
+type: Hotspots
 ---
 
 Arizona State Museum

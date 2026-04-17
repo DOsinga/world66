@@ -1,8 +1,10 @@
 ---
-title: "Hoch Ybrig"
-type: poi
 latitude: 47.015476
 longitude: 8.799598
+tags:
+- day_trips
+title: Hoch Ybrig
+type: poi
 ---
 
 [Hoch Ybrig](/europe/switzerland/hoch_ybrig) is a ski area close to

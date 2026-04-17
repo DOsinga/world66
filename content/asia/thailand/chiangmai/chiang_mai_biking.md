@@ -3,6 +3,8 @@ address: Baan Nai Fun1 , Moo 3 , Soi 2, 135/48 Pa-Dead , 50100 Chiang Mai Thaila
 category: Sight
 email: egmond@bangkokbiking.com
 phone: +66(0)53282055  +66(0)810320011
+tags:
+- things_to_do
 title: Chiang Mai Biking
 type: Cycling
 url: www.chiangmaibiking.com

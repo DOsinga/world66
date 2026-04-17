@@ -1,11 +1,13 @@
 ---
-title: "Stadtmuseum"
-type: poi
+address: Franziskanerstrasse 9, 53113 Bonn
 category: Museum
-address: "Franziskanerstrasse 9, 53113 Bonn"
-phone: "+49-228-772877"
-latitude: 50.7340
+latitude: 50.734
 longitude: 7.1008
+phone: +49-228-772877
+tags:
+- things_to_do
+title: Stadtmuseum
+type: poi
 ---
 
 Local history museum covering Bonn from its Roman origins to the present, with a thoughtful section memorialising the victims of Nazi persecution. Housed in a former Franciscan monastery in the old town.

@@ -1,10 +1,11 @@
 ---
-title: "Arizona Historical Society"
-type: poi
-address: "949 E Second St, Tucson, AZ 85719"
-opening_hours: "Mon-Sat 10am-4pm"
-phone: "(520)628-5774"
-type: "Hotspots"
+address: 949 E Second St, Tucson, AZ 85719
+opening_hours: Mon-Sat 10am-4pm
+phone: (520)628-5774
+tags:
+- sights
+title: Arizona Historical Society
+type: Hotspots
 ---
 
 Arizona Historical Society

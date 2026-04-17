@@ -1,10 +1,11 @@
 ---
-title: "Izmir Museum"
-type: poi
+address: 'Halil Rifat Cad. No: 4 Konak - Izmir'
 category: Sight
-address: "Halil Rifat Cad. No: 4 Konak - Izmir"
-phone: "(232) 484 83 24"
-type: "Museums"
+phone: (232) 484 83 24
+tags:
+- things_to_do
+title: Izmir Museum
+type: Museums
 ---
 
 type: Museums

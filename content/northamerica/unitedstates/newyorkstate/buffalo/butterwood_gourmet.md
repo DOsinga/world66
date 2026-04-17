@@ -1,12 +1,13 @@
 ---
-title: "Butterwood Gourmet Desserts"
-type: poi
-address: "5409 Main St, Williamsville"
-phone: "716-204-0939"
-price: "can be pricey"
-type: "First Class"
+address: 5409 Main St, Williamsville
 latitude: 42.961515
 longitude: -78.751251
+phone: 716-204-0939
+price: can be pricey
+tags:
+- eating_out
+title: Butterwood Gourmet Desserts
+type: First Class
 ---
 
 Butterwood Gourmet Desserts is located in the charming village of Williamsville, out Main Street from the City of Buffalo.

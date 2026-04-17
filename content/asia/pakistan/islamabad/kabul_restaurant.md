@@ -1,9 +1,10 @@
 ---
-title: "Kabul Restaurant'"
-type: poi
-address: "Main Road Jinnah Super market Islamabad"
-phone: "(51)-2650953"
-type: "Local"
+address: Main Road Jinnah Super market Islamabad
+phone: (51)-2650953
+tags:
+- eating_out
+title: Kabul Restaurant'
+type: Local
 ---
 
 In Jinnah Super market a well known Restaurant in Islamabad with it's delicious "Bar+B+Q)" in the Town since 1983.

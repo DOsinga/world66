@@ -1,14 +1,15 @@
 ---
-title: "Nestor's Texas Hots"
-type: poi
-accessibility: "wheel chair accesible"
-address: "102 Webster st N. Tonawanda ny."
-email: "fourlongsathome@adelphia.net"
-phone: "716-695-3596"
-price: "reasonably priced."
-type: "Local"
+accessibility: wheel chair accesible
+address: 102 Webster st N. Tonawanda ny.
+email: fourlongsathome@adelphia.net
 latitude: 43.024691
 longitude: -78.877458
+phone: 716-695-3596
+price: reasonably priced.
+tags:
+- eating_out
+title: Nestor's Texas Hots
+type: Local
 ---
 
 The Texas Hot style hot dog is another regional delicacy, teaming a Sahlens or Wardynski hot dog with mustard, slivered white onion and Texas Style meat sauce on a steamed hot dog roll.

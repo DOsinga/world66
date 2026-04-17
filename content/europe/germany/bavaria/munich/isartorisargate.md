@@ -1,5 +1,7 @@
 ---
 category: Sight
+tags:
+- things_to_do
 title: Isar Tor
 type: poi
 ---

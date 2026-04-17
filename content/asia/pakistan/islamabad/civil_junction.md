@@ -1,8 +1,10 @@
 ---
-title: "Civil Junction"
+address: Shop# 6, Gol Market, Street 8, Sector F-7/3
+phone: (51)-2274436, (51)-2274378
+tags:
+- bars_and_cafes
+title: Civil Junction
 type: poi
-address: "Shop# 6, Gol Market, Street 8, Sector F-7/3"
-phone: "(51)-2274436, (51)-2274378"
 ---
 
 Civil Junction is a great addition to Isloo's popular food spots. It is located in Sector F-7/3's famous Gol Market.

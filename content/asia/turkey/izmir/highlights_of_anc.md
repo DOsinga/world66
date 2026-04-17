@@ -1,14 +1,15 @@
 ---
-title: "Highlights of Ancient Ephesus"
-type: poi
+address: Sultanahmet
 category: Sight
-address: "Sultanahmet"
-email: "info@turkeytravelservice.com"
-phone: "+90 532 340 01 52"
-type: "Hotspots"
-url: "www.turkeytravelservice.com"
+email: info@turkeytravelservice.com
 latitude: 41.004114
 longitude: 28.976909
+phone: +90 532 340 01 52
+tags:
+- things_to_do
+title: Highlights of Ancient Ephesus
+type: Hotspots
+url: www.turkeytravelservice.com
 ---
 
 **Highlights of Ancient Ephesus

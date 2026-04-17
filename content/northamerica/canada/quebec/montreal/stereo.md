@@ -5,6 +5,8 @@ done:
 latitude: 45.515999
 longitude: -73.55812
 phone: (514) 286-0325
+tags:
+- bars_and_cafes
 title: Stereo
 type: poi
 url: www.stereo-nightclub.com

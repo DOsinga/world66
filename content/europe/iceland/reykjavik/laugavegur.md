@@ -1,10 +1,12 @@
 ---
-title: "Laugavegur"
-type: poi
-category: "Neighbourhood"
-address: "Laugavegur, Reykjavik"
+address: Laugavegur, Reykjavik
+category: Neighbourhood
 latitude: 64.1432
 longitude: -21.9303
+tags:
+- things_to_do
+title: Laugavegur
+type: poi
 ---
 
 The main shopping and going-out street, running east from the centre toward Hlemmur. Along it you find Icelandic design boutiques, wool shops, second-hand stores, bookshops, bars, and most of the city's better restaurants. Side streets like Skólavörðustígur, leading uphill to Hallgrímskirkja, are if anything more rewarding.

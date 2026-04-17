@@ -1,7 +1,8 @@
 ---
-title: "Tabokno Falls"
-type: poi
-type: "Hotspots"
+tags:
+- sights
+title: Tabokno Falls
+type: Hotspots
 ---
 
 Located a hour drive from Calbayog City and 40-minute walk from the villages.

@@ -1,5 +1,7 @@
 ---
-title: 'White Horse Pub'
+tags:
+- eating_out
+title: White Horse Pub
 type: poi
 ---
 

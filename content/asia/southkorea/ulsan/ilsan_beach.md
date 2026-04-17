@@ -1,8 +1,10 @@
 ---
-title: 'Ilsan Beach'
-type: poi
 latitude: 35.4954
 longitude: 129.4309
+tags:
+- beaches
+title: Ilsan Beach
+type: poi
 ---
 
 Upon arriving in the area you may feel like

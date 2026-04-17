@@ -1,10 +1,12 @@
 ---
-title: "Qba Latin Bar & Grill"
-type: poi
-address: "The Westin Kuala Lumpur, 199 Jalan Bukit Bintang, 55100, Kuala Lumpur"
-phone: "+603 2773 8338"
+address: The Westin Kuala Lumpur, 199 Jalan Bukit Bintang, 55100, Kuala Lumpur
 latitude: 3.147917
 longitude: 101.714567
+phone: +603 2773 8338
+tags:
+- bars_and_cafes
+title: Qba Latin Bar & Grill
+type: poi
 ---
 
 **QBA LATIN BAR & GRILL, A WINE & CIGAR BAR AT THE WESTIN KUALA LUMPUR COMBINES A LATIN GRILL WITH LIVE LATIN ENTERTAINMENT**

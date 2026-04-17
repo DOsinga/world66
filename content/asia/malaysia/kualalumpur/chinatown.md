@@ -2,6 +2,8 @@
 category: Neighbourhood
 latitude: 5.339062
 longitude: 100.30841
+tags:
+- things_to_do
 title: China Town
 type: poi
 ---

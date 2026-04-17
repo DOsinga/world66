@@ -1,8 +1,10 @@
 ---
-title: "Uchumachi"
-type: poi
 latitude: -16.2116
 longitude: -67.7133
+tags:
+- day_trips
+title: Uchumachi
+type: poi
 ---
 
 The 2,500-metre mountain that Coroico is built on. Above 2,100 metres it is a nature reserve, mostly covered in cloudforest rich with orchids.

@@ -1,8 +1,10 @@
 ---
-title: "Pozas del Vagante"
-type: poi
 latitude: -16.1794
-longitude: -67.6880
+longitude: -67.688
+tags:
+- day_trips
+title: Pozas del Vagante
+type: poi
 ---
 
 The best swimming spot near Coroico. The river is crystal-clear with deep natural pools, and the walk there passes through orange groves, a hacienda, coca fields and riverside forest full of butterflies and birds. Once at the pools you can swim and picnic, or follow the river upstream to a small canyon with natural bubble baths.

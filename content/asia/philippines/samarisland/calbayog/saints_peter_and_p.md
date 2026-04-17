@@ -1,5 +1,7 @@
 ---
-title: "Saints Peter and Paul Cathedral"
+tags:
+- sights
+title: Saints Peter and Paul Cathedral
 type: poi
 ---
 

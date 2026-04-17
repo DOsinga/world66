@@ -1,10 +1,11 @@
 ---
-title: "Mapaso Hot Spring"
-type: poi
-address: "Rizal 2,Oquindo Dist.Calbayog City Samar 6710"
-email: "zeny_ed@yahoo.com"
-opening_hours: "6:am"
-type: "Hotspots"
+address: Rizal 2,Oquindo Dist.Calbayog City Samar 6710
+email: zeny_ed@yahoo.com
+opening_hours: 6:am
+tags:
+- sights
+title: Mapaso Hot Spring
+type: Hotspots
 ---
 
 Located thirty minutes ride to Oquendo from Calbayog plus 15-minute hike to the Spring.

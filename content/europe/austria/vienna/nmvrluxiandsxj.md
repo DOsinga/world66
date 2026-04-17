@@ -1,8 +1,10 @@
 ---
-title: "NmvRLuXIaNdsxj"
+author: uyzwuwaj
+isbn: TyTOUmHPKIpqpBfo
+tags:
+- books
+title: NmvRLuXIaNdsxj
 type: poi
-author: "uyzwuwaj"
-isbn: "TyTOUmHPKIpqpBfo"
 ---
 
 wkHkBH rppxgbenwair

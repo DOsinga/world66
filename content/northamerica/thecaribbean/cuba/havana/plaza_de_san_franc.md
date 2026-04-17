@@ -1,6 +1,8 @@
 ---
 address: Plaza de San Francisco de Asís
 category: Sight
+tags:
+- things_to_do
 title: Plaza de San Francisco de Asís
 type: Squares
 ---

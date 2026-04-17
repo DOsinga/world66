@@ -2,6 +2,8 @@
 category: Sight
 latitude: 37.435088
 longitude: 127.006177
+tags:
+- things_to_do
 title: Seoul Grand Park
 type: poi
 ---

@@ -1,10 +1,12 @@
 ---
-title: "Guaranty Building"
-type: poi
-category: "Architecture"
-address: "140 Pearl Street"
+address: 140 Pearl Street
+category: Architecture
 latitude: 42.8864
 longitude: -78.8774
+tags:
+- things_to_do
+title: Guaranty Building
+type: poi
 ---
 
 Louis Sullivan and Dankmar Adler's 1896 terracotta-clad office tower — thirteen stories of dense ornament, one of the earliest steel-frame skyscrapers ever built, and an acknowledged classic of early American modernism. The lobby restoration includes a small free exhibit on Sullivan's work.

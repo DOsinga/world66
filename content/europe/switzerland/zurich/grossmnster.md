@@ -3,6 +3,8 @@ address: Niederdorfstrasse
 category: Sight
 latitude: 47.375951
 longitude: 8.544031
+tags:
+- things_to_do
 title: Grossmünster
 type: poi
 ---

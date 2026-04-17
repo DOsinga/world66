@@ -1,11 +1,13 @@
 ---
-title: "Museo Picasso Málaga"
-type: poi
+address: Palacio de Buenavista, Calle San Agustín, 8
 category: Museum
-address: "Palacio de Buenavista, Calle San Agustín, 8"
-url: "https://www.museopicassomalaga.org/"
 latitude: 36.7212
-longitude: -4.4180
+longitude: -4.418
+tags:
+- things_to_do
+title: Museo Picasso Málaga
+type: poi
+url: https://www.museopicassomalaga.org/
 ---
 
 Opened in 2003 in the 16th-century Palacio de Buenavista, this is the city's apology to its most famous son for ignoring him for most of the 20th century. The collection — around 200 works — was donated by Picasso's daughter-in-law and grandson and spans every period of his career, from early academic drawings to late ceramics.

@@ -2,6 +2,8 @@
 category: Sight
 latitude: 40.424
 longitude: -3.7176
+tags:
+- things_to_do
 title: The Debod Temple
 type: poi
 ---

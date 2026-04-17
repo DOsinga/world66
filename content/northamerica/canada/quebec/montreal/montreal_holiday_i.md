@@ -1,8 +1,9 @@
 ---
-title: "Montreal Holiday Info by Travelpack.com"
-type: poi
-type: "By Air"
-url: "www.travelpack.com"
+tags:
+- getting_there
+title: Montreal Holiday Info by Travelpack.com
+type: By Air
+url: www.travelpack.com
 ---
 
 Travelpack is one of the UK's largest independent travel companies specialising in tours, holidays and flights to destinations around the world.

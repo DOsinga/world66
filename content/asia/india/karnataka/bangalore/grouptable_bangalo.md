@@ -1,11 +1,12 @@
 ---
-title: "Grouptable Bangalore"
-type: poi
-address: "80, Ahad Pinnacle 5th Main, 5th Block, Koramangala"
-email: "grouptablebangalore@gmail.com"
-phone: "080-67331000"
-type: "Indian and Pakistani"
-url: "www.grouptable.com"
+address: 80, Ahad Pinnacle 5th Main, 5th Block, Koramangala
+email: grouptablebangalore@gmail.com
+phone: 080-67331000
+tags:
+- eating_out
+title: Grouptable Bangalore
+type: Indian and Pakistani
+url: www.grouptable.com
 ---
 
 **Grouptable.com** is an online group dining platform that connects connoisseurs of good food to

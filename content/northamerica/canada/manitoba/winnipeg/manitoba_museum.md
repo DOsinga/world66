@@ -1,10 +1,12 @@
 ---
-title: "Manitoba Museum"
-type: poi
-category: "Museum"
-address: "190 Rupert Avenue"
+address: 190 Rupert Avenue
+category: Museum
 latitude: 49.9004
 longitude: -97.1389
+tags:
+- things_to_do
+title: Manitoba Museum
+type: poi
 ---
 
 A combined human and natural history museum in the Centennial Centre. Eight galleries follow the province from the Arctic coast down to the southern prairie. The Urban Gallery reconstructs 1920s Winnipeg streetscapes around a full-sized replica of the **Nonsuch**, the 1668 ketch that launched the Hudson's Bay Company.

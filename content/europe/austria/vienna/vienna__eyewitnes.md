@@ -1,8 +1,10 @@
 ---
-title: "Vienna: Eyewitness Guide"
+author: Stephen Brook
+isbn: '789495759'
+tags:
+- books
+title: 'Vienna: Eyewitness Guide'
 type: poi
-author: "Stephen Brook"
-isbn: "789495759"
 ---
 
 Whether you're planning to spend a day, a week, or a month in Vienna, this is a guide you'll want to take along.

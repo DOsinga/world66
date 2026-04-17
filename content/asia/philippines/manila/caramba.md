@@ -1,5 +1,7 @@
 ---
-title: "Caramba"
+tags:
+- bars_and_cafes
+title: Caramba
 type: poi
 ---
 

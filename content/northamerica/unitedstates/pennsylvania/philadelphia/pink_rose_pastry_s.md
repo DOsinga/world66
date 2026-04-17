@@ -1,5 +1,7 @@
 ---
-title: "Pink Rose Pastry Shop"
+tags:
+- eating_out
+title: Pink Rose Pastry Shop
 type: poi
 ---
 

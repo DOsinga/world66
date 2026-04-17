@@ -1,11 +1,16 @@
 ---
-title: "Mezquita-Catedral"
-type: poi
-category: "Sight"
-address: "Calle Cardenal Herrero 1"
-latitude: 37.8790
+address: Calle Cardenal Herrero 1
+category: Sight
+latitude: 37.879
 longitude: -4.7794
-story: "When Charles V visited in 1526 and saw the cathedral the canons had carved into the heart of the mosque, he is said to have told them: you have built here what you or anyone might have built anywhere; but you have destroyed what was unique in the world."
+story: 'When Charles V visited in 1526 and saw the cathedral the canons had carved
+  into the heart of the mosque, he is said to have told them: you have built here
+  what you or anyone might have built anywhere; but you have destroyed what was unique
+  in the world.'
+tags:
+- things_to_do
+title: Mezquita-Catedral
+type: poi
 ---
 
 The Great Mosque of Cordoba is the single most important building in the city and one of the most extraordinary in Europe. Begun in 785 by Abd al-Rahman I and expanded across two centuries, it is a forest of red-and-white striped horseshoe arches — around 850 columns of jasper, onyx, marble and granite, many salvaged from Roman and Visigothic sites. The mihrab at the southern end is a masterpiece of Byzantine-influenced gold mosaic.

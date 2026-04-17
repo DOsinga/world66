@@ -2,6 +2,8 @@
 address: Everglades National Park, 40001 State Road 9336
 category: Sight
 phone: 305-242-7700
+tags:
+- things_to_do
 title: Everglades National Park
 type: Hiking
 url: www.nps.gov

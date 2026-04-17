@@ -1,5 +1,7 @@
 ---
-title: 'Bengal Spice'
+tags:
+- eating_out
+title: Bengal Spice
 type: poi
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: 'By Sea'
+tags:
+- getting_there
+title: By Sea
 type: poi
 ---
 

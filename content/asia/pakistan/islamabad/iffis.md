@@ -1,11 +1,12 @@
 ---
-title: "Iffi's"
-type: poi
-address: "Rana Market, F-7"
-phone: "51-26550601"
-type: "International"
+address: Rana Market, F-7
 latitude: 33.72125
 longitude: 73.051427
+phone: 51-26550601
+tags:
+- eating_out
+title: Iffi's
+type: International
 ---
 
 Restaurant/ Bakery

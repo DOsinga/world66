@@ -1,9 +1,10 @@
 ---
-title: "Provencher"
-type: poi
-type: "African"
 latitude: 49.698605
 longitude: -96.157949
+tags:
+- eating_out
+title: Provencher
+type: African
 ---
 
 St. Boniface is home to the largest French speaking community in

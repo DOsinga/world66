@@ -5,6 +5,8 @@ latitude: 40.41114
 longitude: -3.693568
 opening_hours: 10 am-8 pm
 phone: +34 91 330 7300
+tags:
+- things_to_do
 title: CaixaForum and Vertical Garden
 type: poi
 url: www.esmadrid.com

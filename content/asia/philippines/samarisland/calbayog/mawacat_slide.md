@@ -1,7 +1,8 @@
 ---
-title: "Mawacat Slide"
-type: poi
-type: "Hotspots"
+tags:
+- sights
+title: Mawacat Slide
+type: Hotspots
 ---
 
 Located a 35-minute ride from Oquendo District, Calbayog City

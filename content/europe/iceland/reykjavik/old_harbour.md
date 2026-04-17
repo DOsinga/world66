@@ -1,10 +1,12 @@
 ---
-title: "Old Harbour"
-type: poi
-category: "Neighbourhood"
-address: "Geirsgata, Reykjavik"
+address: Geirsgata, Reykjavik
+category: Neighbourhood
 latitude: 64.1505
 longitude: -21.9421
+tags:
+- things_to_do
+title: Old Harbour
+type: poi
 ---
 
 The working harbour just west of Harpa is where the whale-watching and puffin boats leave from, and where most of the city's seafood arrives. The old fishermen's huts have been converted into a row of unpretentious restaurants and a few bars, and the boatyards in between still smell of fuel and fish.

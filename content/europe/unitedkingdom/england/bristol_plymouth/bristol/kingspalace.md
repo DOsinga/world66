@@ -1,5 +1,7 @@
 ---
-title: 'Kings Palace'
+tags:
+- eating_out
+title: Kings Palace
 type: poi
 ---
 

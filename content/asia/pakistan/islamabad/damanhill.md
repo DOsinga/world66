@@ -2,6 +2,8 @@
 category: Sight
 latitude: 31.565162
 longitude: 74.335772
+tags:
+- things_to_do
 title: Daman Hill
 type: poi
 ---

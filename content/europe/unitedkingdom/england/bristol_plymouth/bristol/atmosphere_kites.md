@@ -1,5 +1,7 @@
 ---
-title: 'Atmosphere Kites'
+tags:
+- shopping
+title: Atmosphere Kites
 type: poi
 ---
 

@@ -3,6 +3,8 @@ address: 201 Norht Dickinson
 category: Museum
 email: christi_346@yahoo.com
 phone: 663-5885
+tags:
+- things_to_do
 title: Museo de la Revolución
 type: poi
 url: Tokyo

@@ -1,5 +1,7 @@
 ---
-title: 'Carwardines'
+tags:
+- eating_out
+title: Carwardines
 type: poi
 ---
 

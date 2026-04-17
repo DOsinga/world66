@@ -7,6 +7,7 @@ opening_hours: Daily, dawn to dusk
 tags:
 - James Joyce
 - Literature
+- things_to_do
 title: James Joyce's Grave, Fluntern Cemetery
 type: poi
 ---

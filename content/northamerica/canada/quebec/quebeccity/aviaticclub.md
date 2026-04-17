@@ -1,8 +1,9 @@
 ---
-title: "Aviatic Club ."
-type: poi
-price: "cheap"
-type: "general"
+price: cheap
+tags:
+- eating_out
+title: Aviatic Club .
+type: general
 ---
 
 Tel: 418 522-3555

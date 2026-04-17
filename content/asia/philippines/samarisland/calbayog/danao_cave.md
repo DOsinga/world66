@@ -1,9 +1,10 @@
 ---
-title: "Danao Cave"
-type: poi
-type: "Hotspots"
 latitude: 10.519488
 longitude: 124.02713
+tags:
+- sights
+title: Danao Cave
+type: Hotspots
 ---
 
 Located in Danao, some 14 kms. toward the western coast of Calbayog City.

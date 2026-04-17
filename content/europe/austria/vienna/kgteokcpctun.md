@@ -1,8 +1,10 @@
 ---
-title: "KGtEOkcpcTUn"
+author: Jobeth
+isbn: LFmNWPMVWRM
+tags:
+- books
+title: KGtEOkcpcTUn
 type: poi
-author: "Jobeth"
-isbn: "LFmNWPMVWRM"
 ---
 
 Very true! Makes a change to see soemnoe spell it out like that. :)

@@ -1,9 +1,11 @@
 ---
-title: "Palacio Nacional"
-type: poi
-category: "Sight"
+category: Sight
 latitude: 19.4326
 longitude: -99.1316
+tags:
+- things_to_do
+title: Palacio Nacional
+type: poi
 ---
 
 The seat of the Mexican federal executive on the east side of the Zócalo, built on the site of Moctezuma's palace. Most visitors come for Diego Rivera's enormous mural cycle on the main staircase and second-floor corridor, painted between 1929 and 1951, which tells the entire history of Mexico from pre-Columbian times to the Revolution. Bring photo ID — entry is free but security is airport-grade.

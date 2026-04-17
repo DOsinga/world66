@@ -1,12 +1,14 @@
 ---
-title: "Hallgrímskirkja"
-type: poi
-category: "Sight"
-address: "Hallgrímstorg 1"
-opening_hours: "09:00–21:00 (summer), 09:00–17:00 (winter)"
-url: "www.hallgrimskirkja.is"
+address: Hallgrímstorg 1
+category: Sight
 latitude: 64.1417
 longitude: -21.9266
+opening_hours: 09:00–21:00 (summer), 09:00–17:00 (winter)
+tags:
+- things_to_do
+title: Hallgrímskirkja
+type: poi
+url: www.hallgrimskirkja.is
 ---
 
 The most recognisable building in Iceland, named for the seventeenth-century poet Hallgrímur Pétursson and designed to echo the basalt columns you see all over the country. The architect Guðjón Samúelsson started work in the 1940s; it took forty-one years to finish. The interior is famously stark — white concrete, plain wood, an enormous pipe organ — and pleasantly quiet compared to the queue outside.

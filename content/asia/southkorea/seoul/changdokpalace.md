@@ -2,6 +2,8 @@
 category: Sight
 latitude: 37.5794
 longitude: 126.991
+tags:
+- things_to_do
 title: Changdok Palace
 type: poi
 ---

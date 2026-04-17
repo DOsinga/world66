@@ -1,7 +1,8 @@
 ---
-title: "Commensal, Le."
-type: poi
-type: "general"
+tags:
+- eating_out
+title: Commensal, Le.
+type: general
 ---
 
 Vegetarian restaurant

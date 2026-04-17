@@ -2,6 +2,8 @@
 category: Sight
 latitude: 3.143795
 longitude: 101.684817
+tags:
+- things_to_do
 title: Lake Gardens
 type: poi
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Night Bazaar"
-type: poi
 latitude: 18.786704
 longitude: 99.000749
+tags:
+- shopping
+title: Night Bazaar
+type: poi
 ---
 
 The Night Bazaar on Chang Klang Road is the city's most famous shopping location and is a must for all visitors. It is a lively area with department stores, shops and stall vendors.

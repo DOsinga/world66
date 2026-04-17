@@ -1,5 +1,7 @@
 ---
 category: Sight
+tags:
+- things_to_do
 title: Plaza de Armas
 type: Squares
 ---

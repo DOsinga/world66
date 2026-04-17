@@ -9,6 +9,7 @@ phone: +41 44 211 83 01
 tags:
 - James Joyce
 - Literature
+- things_to_do
 title: James Joyce Foundation
 type: poi
 url: www.jamesjoyce.ch

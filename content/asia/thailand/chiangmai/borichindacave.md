@@ -1,5 +1,7 @@
 ---
 category: Sight
+tags:
+- things_to_do
 title: Borichinda Cave
 type: poi
 ---

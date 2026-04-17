@@ -4,6 +4,8 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 45.506648
 longitude: -73.552724
+tags:
+- bars_and_cafes
 title: Les Deux Pierrots
 type: poi
 url: www.lespierrots.com

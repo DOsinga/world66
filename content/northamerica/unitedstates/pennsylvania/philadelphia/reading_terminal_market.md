@@ -1,10 +1,12 @@
 ---
-title: "Reading Terminal Market"
-type: poi
-category: "Sight"
-address: "51 N 12th Street"
+address: 51 N 12th Street
+category: Sight
 latitude: 39.9532
 longitude: -75.1593
+tags:
+- things_to_do
+title: Reading Terminal Market
+type: poi
 ---
 
 The country's oldest continuously operated farmers' market, in the gorgeous wrought-iron trainshed of the old Reading Railroad. Amish vendors from Lancaster County on Wednesdays, Fridays, and Saturdays; Philadelphia institutions like DiNic's roast pork sandwiches and Bassetts ice cream every day. Go hungry.

@@ -1,5 +1,7 @@
 ---
-title: "San Antonio beach, n. samar"
+tags:
+- beaches
+title: San Antonio beach, n. samar
 type: poi
 ---
 

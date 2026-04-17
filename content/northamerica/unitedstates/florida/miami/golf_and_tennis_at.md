@@ -4,6 +4,8 @@ category: Sight
 latitude: 25.740896
 longitude: -80.277706
 phone: 800-915-1929
+tags:
+- things_to_do
 title: Golf and Tennis at the Biltmore
 type: Tennis
 url: www.biltmorehotel.com

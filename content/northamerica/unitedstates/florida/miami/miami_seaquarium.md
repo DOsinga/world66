@@ -5,6 +5,8 @@ latitude: 25.732999
 longitude: -80.16556
 opening_hours: Daily, 9:30 am–6:00 pm. Last admission is at 5:30 pm
 phone: 305-361-5705
+tags:
+- things_to_do
 title: Miami Seaquarium
 type: Hotspots
 url: www.miamiseaquarium.com

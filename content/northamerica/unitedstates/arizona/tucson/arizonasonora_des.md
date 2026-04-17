@@ -1,14 +1,16 @@
 ---
-title: "Arizona-Sonora Desert Museum"
-type: poi
-address: "2021 North Kinney Road, Tucson, AZ 85743"
-email: "info@desertmuseum.org"
-opening_hours: "Open daily March-October: 7:30am-5pm, October-February: 8:30am-5pm, June-August Saturday Evenings 5pm-10pm"
-phone: "(520) 883-2702"
-type: "Parks, Gardens and Zoos"
-url: "www.desertmuseum.org"
+address: 2021 North Kinney Road, Tucson, AZ 85743
+email: info@desertmuseum.org
 latitude: 32.243707
 longitude: -111.167396
+opening_hours: 'Open daily March-October: 7:30am-5pm, October-February: 8:30am-5pm,
+  June-August Saturday Evenings 5pm-10pm'
+phone: (520) 883-2702
+tags:
+- sights
+title: Arizona-Sonora Desert Museum
+type: Parks, Gardens and Zoos
+url: www.desertmuseum.org
 ---
 
 Zoo, botanical garden and natural history museum featuring the plants

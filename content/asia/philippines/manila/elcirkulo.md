@@ -1,5 +1,7 @@
 ---
-title: "El Cirkulo"
+tags:
+- bars_and_cafes
+title: El Cirkulo
 type: poi
 ---
 

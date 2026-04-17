@@ -2,6 +2,8 @@
 category: Architecture
 latitude: 6.199058
 longitude: 102.167509
+tags:
+- things_to_do
 title: Railway Station
 type: poi
 ---

@@ -1,5 +1,7 @@
 ---
 category: Sight
+tags:
+- bars_and_cafes
 title: Beer Gardens
 type: poi
 ---

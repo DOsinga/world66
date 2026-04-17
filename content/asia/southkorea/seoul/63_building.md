@@ -4,6 +4,8 @@ category: Architecture
 latitude: 37.526853
 longitude: 126.932529
 phone: 02 789 5663 5
+tags:
+- things_to_do
 title: 63 Building
 type: poi
 url: www.63city.co.kr

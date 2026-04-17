@@ -1,6 +1,8 @@
 ---
 address: Parque Martires del 71
 category: Sight
+tags:
+- things_to_do
 title: Statue of Máximo Gómez
 type: Fountains and statues
 ---

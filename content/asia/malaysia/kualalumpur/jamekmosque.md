@@ -2,6 +2,8 @@
 category: Sight
 latitude: 3.148929
 longitude: 101.695676
+tags:
+- things_to_do
 title: Jamek Mosque
 type: poi
 ---

@@ -1,6 +1,8 @@
 ---
 address: Paseo de Marti
 category: Sight
+tags:
+- things_to_do
 title: Capitolio
 type: Castles
 ---

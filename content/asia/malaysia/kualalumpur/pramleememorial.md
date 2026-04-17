@@ -4,6 +4,8 @@ category: Museum
 latitude: 3.194886
 longitude: 101.709167
 opening_hours: '10.00am - 5.00pm, daily Closed: Monday, except Public and School Holidays'
+tags:
+- things_to_do
 title: P. Ramlee Memorial
 type: poi
 ---

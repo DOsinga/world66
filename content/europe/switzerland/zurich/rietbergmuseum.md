@@ -4,6 +4,8 @@ category: Museum
 latitude: 47.358896
 longitude: 8.530214
 opening_hours: Tue - Sun 10 am - 5 pm
+tags:
+- things_to_do
 title: Rietberg Museum
 type: poi
 ---

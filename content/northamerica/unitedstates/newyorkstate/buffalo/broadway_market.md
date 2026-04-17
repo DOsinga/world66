@@ -1,9 +1,10 @@
 ---
-title: "Broadway Market"
-type: poi
-address: "999 Broadway (nr Fillmore Avenue) Buffalo"
-type: "Markets"
-url: "www.broadwaymarket.com"
+address: 999 Broadway (nr Fillmore Avenue) Buffalo
+tags:
+- shopping
+title: Broadway Market
+type: Markets
+url: www.broadwaymarket.com
 ---
 
 The internationally recognized **Broadway Market** is located in the old Polish Neighborhood of the east side of Buffalo.

@@ -1,8 +1,9 @@
 ---
-title: "Alda's"
-type: poi
-address: "Adriatico St. near corner of P.Faura"
-type: "Italian"
+address: Adriatico St. near corner of P.Faura
+tags:
+- eating_out
+title: Alda's
+type: Italian
 ---
 
 A quaint little restaurant with dim lighting, checkered tablecloth and

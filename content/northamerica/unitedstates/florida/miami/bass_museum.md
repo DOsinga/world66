@@ -7,6 +7,8 @@ longitude: -80.130174
 opening_hours: Tuesday-Saturday 10:00 a.m.-5:00 p.m., Sunday 11:00 a.m.-5:00 p.m.,
   closed Mondays
 phone: 305-673-7530
+tags:
+- things_to_do
 title: Bass Museum of Art
 type: Hotspots
 url: www.bassmuseum.org.

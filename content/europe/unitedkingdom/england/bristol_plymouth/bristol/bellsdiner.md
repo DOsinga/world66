@@ -1,5 +1,7 @@
 ---
-title: 'Bells Diner'
+tags:
+- eating_out
+title: Bells Diner
 type: poi
 ---
 

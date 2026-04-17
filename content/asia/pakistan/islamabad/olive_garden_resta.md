@@ -1,14 +1,15 @@
 ---
-title: "Olive Garden Restaurant"
-type: poi
-address: "Street 4, F7/3 islamabad"
-email: "olivegarden_isb@yahoo.com"
-phone: "051 2610914-15"
-price: "normal"
-type: "Italian"
-url: "www.olivegareden.com.pk"
+address: Street 4, F7/3 islamabad
+email: olivegarden_isb@yahoo.com
 latitude: 33.694594
 longitude: 73.034856
+phone: 051 2610914-15
+price: normal
+tags:
+- eating_out
+title: Olive Garden Restaurant
+type: Italian
+url: www.olivegareden.com.pk
 ---
 
 **Olive Garden** is snuggly tucked away in the posh

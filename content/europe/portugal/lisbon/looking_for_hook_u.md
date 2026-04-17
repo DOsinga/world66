@@ -1,5 +1,7 @@
 ---
-title: "Looking for Hook up?? Top Quality Medical Marijuana,Hash & Cannabis Oil Here!!!"
+tags:
+- bars_and_cafes
+title: Looking for Hook up?? Top Quality Medical Marijuana,Hash & Cannabis Oil Here!!!
 type: poi
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: 'By Train'
+tags:
+- getting_there
+title: By Train
 type: poi
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: "Hunza Panorama Day Hikes(Adventure Tour)"
+tags:
+- day_trips
+title: Hunza Panorama Day Hikes(Adventure Tour)
 type: poi
 ---
 

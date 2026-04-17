@@ -2,6 +2,8 @@
 category: Sight
 latitude: 40.4571
 longitude: -3.6783
+tags:
+- things_to_do
 title: Park de Berlin
 type: poi
 ---

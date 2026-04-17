@@ -1,10 +1,12 @@
 ---
-title: "Málaga Cathedral"
-type: poi
+address: Calle Molina Lario, 9
 category: Sight
-address: "Calle Molina Lario, 9"
 latitude: 36.7196
 longitude: -4.4197
+tags:
+- things_to_do
+title: Málaga Cathedral
+type: poi
 ---
 
 Locally known as **La Manquita** ("the one-armed lady") because the south tower was never finished — funds raised for its completion were diverted in the 18th century to help the American colonies in their war of independence against Britain. Construction took 254 years (1528–1782), which is why the building is a layered jumble of Renaissance interior and Baroque facade.

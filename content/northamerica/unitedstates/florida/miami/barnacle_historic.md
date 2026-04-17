@@ -3,6 +3,8 @@ address: '3'
 category: Sight
 latitude: 39.548248
 longitude: -91.153628
+tags:
+- things_to_do
 title: Barnacle Historic State Park
 type: Other
 ---

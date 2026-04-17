@@ -1,8 +1,10 @@
 ---
-title: "sto amaro - Oeiras"
-type: poi
 latitude: 38.687033
 longitude: -9.312549
+tags:
+- beaches
+title: sto amaro - Oeiras
+type: poi
 ---
 
 A very long beach, nevertheless a bit crouded all through late spring, summer and early fall. Great sets. A lot of fun and girls. Good for too. 

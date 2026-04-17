@@ -1,8 +1,10 @@
 ---
-title: "San Juan Valley"
+latitude: -16.22
+longitude: -67.78
+tags:
+- day_trips
+title: San Juan Valley
 type: poi
-latitude: -16.2200
-longitude: -67.7800
 ---
 
 A valley of cloudforest mixed with coffee and coca agriculture, best explored on foot. Take a minibus to Carmen Pampa, a small village with a rural university, and cross the valley on a beautiful path over two suspension bridges.

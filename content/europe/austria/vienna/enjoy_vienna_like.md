@@ -1,7 +1,9 @@
 ---
-title: "Enjoy Vienna like a local, rent an apartment"
+tags:
+- top_5_must_dos
+title: Enjoy Vienna like a local, rent an apartment
 type: poi
-url: "www.viennaflatseven.info"
+url: www.viennaflatseven.info
 ---
 
 There's no better city for living than Vienna, and there's no better way to see it than from the comfort of a rental apartment.

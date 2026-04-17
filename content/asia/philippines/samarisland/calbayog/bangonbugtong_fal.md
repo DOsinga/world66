@@ -1,7 +1,8 @@
 ---
-title: "Bangon-Bugtong Falls"
-type: poi
-type: "Hotspots"
+tags:
+- sights
+title: Bangon-Bugtong Falls
+type: Hotspots
 ---
 
 Located a

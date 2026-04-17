@@ -2,6 +2,8 @@
 category: Sight
 latitude: 48.149304
 longitude: 11.580714
+tags:
+- things_to_do
 title: Ludwigstraße
 type: poi
 ---

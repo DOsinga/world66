@@ -1,5 +1,7 @@
 ---
 category: Museum
+tags:
+- things_to_do
 title: Hill Tribe Museum
 type: poi
 ---

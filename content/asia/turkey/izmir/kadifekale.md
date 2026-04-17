@@ -1,10 +1,11 @@
 ---
-title: "Kadifekale"
-type: poi
 category: Sight
-type: "Hotspots"
 latitude: 38.413784
 longitude: 27.144956
+tags:
+- things_to_do
+title: Kadifekale
+type: Hotspots
 ---
 
 Kadifekale is located south of Konak suquare which has the best view over looking the city.

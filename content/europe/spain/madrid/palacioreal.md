@@ -4,6 +4,8 @@ category: Sight
 latitude: 40.418
 longitude: -3.7143
 phone: 91 454 88 00
+tags:
+- things_to_do
 title: Palacio Real
 type: poi
 url: www.patrimonionacional.es

@@ -1,10 +1,11 @@
 ---
-title: "Jims Steakout"
-type: poi
-address: "numerous locations"
-price: "less than $10.00 (most)"
-type: "Local"
-url: "www.jimssteakout.com"
+address: numerous locations
+price: less than $10.00 (most)
+tags:
+- eating_out
+title: Jims Steakout
+type: Local
+url: www.jimssteakout.com
 ---
 
 Jims Steakout has become a sort of tradition for those that are looking for food after visiting the bars and nightclubs on Friday and Saturday nights.

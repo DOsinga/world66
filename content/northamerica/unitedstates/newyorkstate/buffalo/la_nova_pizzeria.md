@@ -1,10 +1,11 @@
 ---
-title: "La Nova Pizzeria"
-type: poi
-address: "W Ferry at Hampshire, Buffalo."
-price: "variable, depending on item."
-type: "Italian"
-url: "www.lanova.com"
+address: W Ferry at Hampshire, Buffalo.
+price: variable, depending on item.
+tags:
+- eating_out
+title: La Nova Pizzeria
+type: Italian
+url: www.lanova.com
 ---
 
 La Nova has claimed the title of the Best Pizza in Buffalo for as long as most locals can remember and has just reopened the flagship store at Ferry and Hampshire after a fire late last year.

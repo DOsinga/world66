@@ -2,6 +2,8 @@
 category: Sight
 latitude: 3.210663
 longitude: 101.757762
+tags:
+- things_to_do
 title: National Zoo
 type: poi
 ---

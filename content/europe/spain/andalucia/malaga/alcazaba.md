@@ -1,10 +1,12 @@
 ---
-title: "Alcazaba"
-type: poi
+address: Calle Alcazabilla, 2
 category: Sight
-address: "Calle Alcazabilla, 2"
 latitude: 36.7212
 longitude: -4.4156
+tags:
+- things_to_do
+title: Alcazaba
+type: poi
 ---
 
 The 11th-century Moorish citadel that dominates the lower slopes of the Gibralfaro hill. Built on Roman foundations and defended by a double wall, the Alcazaba is a sequence of horseshoe-arched gateways, courtyards, and small palaces threaded through orange trees and lilypad pools. It is in noticeably better condition than most of Spain's other Moorish fortresses outside Granada and Sevilla.

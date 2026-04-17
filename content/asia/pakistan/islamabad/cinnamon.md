@@ -1,11 +1,12 @@
 ---
-title: "Cinnamon Restaurant / Cafe"
-type: poi
-address: "Beverely center, Blue Area"
-email: "info@cinnamon.com.pk"
-phone: "51 220 6988, FAX 51 227 4147"
-type: "European"
-url: "www.cinnamon.com.pk"
+address: Beverely center, Blue Area
+email: info@cinnamon.com.pk
+phone: 51 220 6988, FAX 51 227 4147
+tags:
+- eating_out
+title: Cinnamon Restaurant / Cafe
+type: European
+url: www.cinnamon.com.pk
 ---
 
 Cinnamon offers contemporary European cuisine in stylish, sophisticated surroundings. When the restaurant first opened its doors a few years ago, food connoisseurs raved about Cinnamon’s delectable food and impeccable service, declaring it one of the best new additions to the city’s restaurant scene.

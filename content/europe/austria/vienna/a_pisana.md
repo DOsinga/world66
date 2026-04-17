@@ -1,7 +1,9 @@
 ---
-title: "A. Pisana"
+tags:
+- top_5_must_dos
+title: A. Pisana
 type: poi
-url: "www.concertvienna.com"
+url: www.concertvienna.com
 ---
 
 **Go To a Classical Concert**

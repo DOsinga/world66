@@ -1,9 +1,10 @@
 ---
-title: "Pan-As Falls"
-type: poi
-type: "Memorials"
 latitude: 12.242829
 longitude: 124.461381
+tags:
+- sights
+title: Pan-As Falls
+type: Memorials
 ---
 
 Located one hour drive from Calbayog City proper; plus 1-hour walk onwards from the village.

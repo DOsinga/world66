@@ -1,6 +1,8 @@
 ---
 address: Calle San Pedro No. 262 e/ Sol y Muralla
 category: Museum
+tags:
+- things_to_do
 title: Museo del Ron, Fundación Havana Clu
 type: poi
 ---

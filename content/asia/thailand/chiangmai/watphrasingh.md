@@ -2,6 +2,8 @@
 category: Sight
 latitude: 18.788207
 longitude: 98.981377
+tags:
+- things_to_do
 title: Wat Phra Singh
 type: poi
 ---

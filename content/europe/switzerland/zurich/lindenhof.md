@@ -2,6 +2,8 @@
 category: Sight
 latitude: 47.372916
 longitude: 8.540176
+tags:
+- things_to_do
 title: Lindenhof
 type: poi
 ---

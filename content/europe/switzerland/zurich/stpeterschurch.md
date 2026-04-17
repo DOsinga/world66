@@ -3,6 +3,8 @@ address: Munsterhof
 category: Sight
 latitude: 47.369926
 longitude: 8.540878
+tags:
+- things_to_do
 title: St. Peter's church
 type: poi
 ---

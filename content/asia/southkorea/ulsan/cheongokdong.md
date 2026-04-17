@@ -1,9 +1,11 @@
 ---
-title: 'Cheongokdong'
-type: poi
-category: 'hiking'
+category: hiking
 latitude: 35.5837
-longitude: 129.3120
+longitude: 129.312
+tags:
+- things_to_do
+title: Cheongokdong
+type: poi
 ---
 
 On the northern fringes of the city past the airport, Cheongokdong makes for a pleasant half-day outing combining a ridge hike with a visit to a Buddhist temple. The trail climbs through trees and bracken before breaking onto a ridgeline circling a deep valley. Allow about fifty minutes to reach the summit, where views stretch across Ulsan to the red Hyundai crane in Bangeojin.

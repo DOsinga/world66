@@ -2,6 +2,8 @@
 category: Museum
 latitude: 48.130041
 longitude: 11.582909
+tags:
+- things_to_do
 title: Deutsches Museum
 type: poi
 ---

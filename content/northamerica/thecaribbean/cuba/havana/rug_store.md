@@ -1,7 +1,8 @@
 ---
-title: "1"
-type: poi
-type: "Antiques"
+tags:
+- shopping
+title: '1'
+type: Antiques
 ---
 
 1

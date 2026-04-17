@@ -2,6 +2,8 @@
 category: Sight
 latitude: 3.237796
 longitude: 101.681376
+tags:
+- things_to_do
 title: Batu Caves
 type: poi
 ---

@@ -2,6 +2,8 @@
 category: Sight
 latitude: 40.4155
 longitude: -3.7074
+tags:
+- things_to_do
 title: Plaza Mayor
 type: poi
 ---

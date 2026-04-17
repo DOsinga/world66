@@ -3,6 +3,8 @@ category: Neighbourhood
 latitude: 25.777193
 longitude: -80.129302
 phone: 305-673-7714
+tags:
+- things_to_do
 title: Miami Beach - South Beach
 type: Going to the Beach
 url: www.miamiandbeaches.com

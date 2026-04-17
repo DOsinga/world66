@@ -1,8 +1,9 @@
 ---
-title: "Flea Market (Feira da Ladra)"
-type: poi
-type: "Markets"
-url: "www.lisboacultural.pt"
+tags:
+- shopping
+title: Flea Market (Feira da Ladra)
+type: Markets
+url: www.lisboacultural.pt
 ---
 
 Feira da Ladra

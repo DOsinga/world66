@@ -1,10 +1,12 @@
 ---
-title: "Fairmount Park"
-type: poi
-category: "Sight"
-address: "Fairmount Park"
+address: Fairmount Park
+category: Sight
 latitude: 39.9778
 longitude: -75.2092
+tags:
+- things_to_do
+title: Fairmount Park
+type: poi
 ---
 
 Over 2,000 acres of woods, trails, and historic houses stretching along both banks of the Schuylkill River — one of the largest urban parks in the country. Bring a bike or running shoes. Boathouse Row, the string of Victorian rowing clubhouses strung with white lights at night, is the classic photo.

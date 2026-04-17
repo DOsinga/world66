@@ -1,10 +1,12 @@
 ---
-title: "Gibralfaro Castle"
-type: poi
+address: Camino Gibralfaro, 11
 category: Sight
-address: "Camino Gibralfaro, 11"
 latitude: 36.7232
 longitude: -4.4108
+tags:
+- things_to_do
+title: Gibralfaro Castle
+type: poi
 ---
 
 The 14th-century hilltop castle above the Alcazaba — a steep but rewarding walk up from the city, or a short ride on the number 35 bus from Avenida de Cervantes. The walls are mostly intact and you can circle the entire perimeter for changing views over the port, the bullring, the Cathedral, and on a clear day the African coast.

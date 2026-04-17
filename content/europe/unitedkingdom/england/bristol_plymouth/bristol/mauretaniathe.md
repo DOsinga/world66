@@ -1,5 +1,7 @@
 ---
-title: 'The Mauretania'
+tags:
+- eating_out
+title: The Mauretania
 type: poi
 ---
 

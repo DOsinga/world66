@@ -1,11 +1,12 @@
 ---
-title: "Sabino Canyon"
-type: poi
-accessibility: "Some trails Wheel Chair Accessible, bathrooms are accessible"
-address: "Sabino Cyn Rd at Sunrise Dr"
-phone: "520/749-2861"
-type: "Parks, Gardens and Zoos"
-url: "www.sabinocanyon.org"
+accessibility: Some trails Wheel Chair Accessible, bathrooms are accessible
+address: Sabino Cyn Rd at Sunrise Dr
+phone: 520/749-2861
+tags:
+- sights
+title: Sabino Canyon
+type: Parks, Gardens and Zoos
+url: www.sabinocanyon.org
 ---
 
 Sabino Canyon is one of the greatest places to hike in Tucson. It has a tram to the top of the paved hiking trail and has a very nice but small desert museum and gift shop. Kids love to go learn about the desert. After good winter rains wildflowers abound in the spring and the prickly pear bloom around March and April. There are various degrees of hiking trails and one that goes to Mt Lemon.

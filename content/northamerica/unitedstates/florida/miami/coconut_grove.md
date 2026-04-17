@@ -5,6 +5,8 @@ category: Neighbourhood
 latitude: 25.728644
 longitude: -80.242038
 phone: 305-444-0777
+tags:
+- things_to_do
 title: Coconut Grove
 type: Streets
 ---

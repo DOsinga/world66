@@ -1,9 +1,10 @@
 ---
-title: "Wualai Walking Street"
-type: poi
-address: "Wualai street outside the Chaing Mai Gate"
-type: "Markets"
-url: "northernthailand.com"
+address: Wualai street outside the Chaing Mai Gate
+tags:
+- shopping
+title: Wualai Walking Street
+type: Markets
+url: northernthailand.com
 ---
 
 Is a lesser known weekly market on Saturday evenings. It starts with the closing of the street to traffic about 4:30 in the evening but does not get going till around 5:30 to 6:00 due to the heat most vendors hide in the shade till it starts to cool off.

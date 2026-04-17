@@ -1,10 +1,11 @@
 ---
-title: "MTR (Mavalli Tiffin Rooms)"
-type: poi
-address: "11, Lalbagh Road, Bangalore-560 027, INDIA"
-phone: "+91- 80 - 2222 0022"
-price: "Attractive"
-type: "Vegetarian"
+address: 11, Lalbagh Road, Bangalore-560 027, INDIA
+phone: +91- 80 - 2222 0022
+price: Attractive
+tags:
+- eating_out
+title: MTR (Mavalli Tiffin Rooms)
+type: Vegetarian
 ---
 
 Mavalli Tiffin Rooms (or MTR for short) is one of the oldest Restaurants in Bangalore , the silicon valley of India . The word hotel is many a time referred to as restaurant in India . So, don’t be confused it to be a Hotel!

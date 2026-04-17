@@ -1,9 +1,11 @@
 ---
-title: "Costa da Caparica"
-type: poi
-url: "lua.weblog.com.pt"
 latitude: 38.644517
 longitude: -9.233607
+tags:
+- beaches
+title: Costa da Caparica
+type: poi
+url: lua.weblog.com.pt
 ---
 
 The best beaches around Lisbon are in Costa da Caparica. You can go by bus 75 - only in summer - but you can take the boat at Belem going to Trafaria and then take the bus to the beach.

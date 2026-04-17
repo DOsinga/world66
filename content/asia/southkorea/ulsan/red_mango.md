@@ -1,5 +1,7 @@
 ---
-title: 'Red Mango'
+tags:
+- eating_out
+title: Red Mango
 type: poi
 ---
 

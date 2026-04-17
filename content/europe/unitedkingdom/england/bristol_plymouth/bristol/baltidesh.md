@@ -1,5 +1,7 @@
 ---
-title: 'Balti Desh'
+tags:
+- eating_out
+title: Balti Desh
 type: poi
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: "Fonte da Telha"
-type: poi
 latitude: 38.571915
 longitude: -9.196139
+tags:
+- beaches
+title: Fonte da Telha
+type: poi
 ---
 
 This is a excellent beach... but far! You can only go by car.

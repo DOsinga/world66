@@ -5,6 +5,8 @@ email: info@emac.pk
 latitude: 33.693812
 longitude: 73.065151
 phone: 051 4349345
+tags:
+- things_to_do
 title: Paragliding
 type: Other
 url: www.emac.pk

@@ -1,6 +1,9 @@
 ---
 title: "Saravana Bhavan"
 type: poi
+tags:
+  - eating_out
+  - restaurant
 address: "4559 Hurontario St, Mississauga, ON"
 latitude: 43.6079
 longitude: -79.6499

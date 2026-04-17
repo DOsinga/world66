@@ -1,6 +1,9 @@
 ---
 title: "Victoria's Cherry Hill Restaurant"
 type: poi
+tags:
+  - eating_out
+  - restaurant
 address: "680 Silver Creek Blvd, Mississauga, ON"
 phone: "905-273-7000"
 latitude: 43.5955

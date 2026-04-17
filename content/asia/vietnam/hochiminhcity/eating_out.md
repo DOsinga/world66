@@ -1,10 +1,9 @@
 ---
-title: "Eating Out"
+address: 29 – 31 Ton That Thiep, D1
+phone: +84 829 9244
+price: VND80,000-VND150,000
+title: Eating Out
 type: section
-address: "29 – 31 Ton That Thiep, D1"
-phone: "+84 829 9244"
-price: "VND80,000-VND150,000"
-type: "Vietnamese"
 ---
 
 Eating Out....

@@ -1,9 +1,11 @@
 ---
-title: "Pulpit Rock (Preikestolen)"
-type: poi
-category: "Sight"
+category: Sight
 latitude: 58.9866
 longitude: 6.1889
+tags:
+- things_to_do
+title: Pulpit Rock (Preikestolen)
+type: poi
 ---
 
 One of Norway's most iconic natural sights: a flat-topped cliff rising 604 metres sheer above Lysefjorden. The hike from the trailhead at Preikestolen fjellstue takes around 2 hours each way over rocky terrain — manageable for fit walkers, but not a casual stroll. The payoff at the top, standing on the edge above the turquoise fjord, is extraordinary.

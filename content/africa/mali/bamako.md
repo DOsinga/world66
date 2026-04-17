@@ -1,11 +1,12 @@
 ---
-title: Bamako
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 12.649319
 longitude: -8.000337
-done:
-  location_cleanup: 2026-04-07
 score: 0.36
+title: Bamako
+type: location
 ---
 
 Bamako sits in a bowl along the Niger River, ringed by dusty hills, and it moves at its own pace — somewhere between African urban chaos and a mid-sized city that hasn't quite decided what it wants to be. It's the capital and commercial hub of Mali, home to roughly three million people, and the inevitable entry point for anyone travelling deeper into the country.

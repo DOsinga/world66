@@ -1,7 +1,9 @@
 ---
 title: "Tianjin Radio and TV Tower"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 address: "Zi Jin Shan Lu, Nankai District"
 latitude: 39.0969
 longitude: 117.1455

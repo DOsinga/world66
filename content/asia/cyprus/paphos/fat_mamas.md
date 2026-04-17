@@ -1,9 +1,10 @@
 ---
-title: "Fat Mama's"
-type: poi
-address: "47 Tomb of the King's Ave."
-phone: "06-949619"
-type: "Italian"
+address: 47 Tomb of the King's Ave.
+phone: 06-949619
+tags:
+- eating_out
+title: Fat Mama's
+type: Italian
 ---
 
 This restaurant offers not one, but two menus! It's basically two restaurants (Fat Mama's and Willy's Rib Ranch) put together and the mix creates an extensive choice of very reasonably priced meals that are large enough to fill even the most capacious belly!

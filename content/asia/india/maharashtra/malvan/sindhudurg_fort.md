@@ -1,7 +1,11 @@
 ---
 title: "Sindhudurg Fort"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - fort
+  - castle
+  - sight
 latitude: 16.0428
 longitude: 73.4601
 ---

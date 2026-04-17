@@ -1,7 +1,11 @@
 ---
 title: "Tarkarli Beach"
 type: poi
-category: Beach
+tags:
+  - beaches
+  - beach
+  - snorkeling
+  - nature
 latitude: 16.0068
 longitude: 73.4918
 ---

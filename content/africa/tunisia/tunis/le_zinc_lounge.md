@@ -3,6 +3,8 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 36.912
 longitude: 10.287
+tags:
+- bars_and_cafes
 title: Le ZINC Lounge
 type: poi
 ---

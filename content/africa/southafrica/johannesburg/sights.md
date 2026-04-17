@@ -2,7 +2,7 @@
 tags:
 - melville
 title: Sights in Melville
-type: section
+type: poi
 ---
 
 dfsdfsdgfggg

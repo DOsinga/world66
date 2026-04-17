@@ -1,7 +1,9 @@
 ---
-category: Sight
 done:
   location_cleanup: '2026-04-09'
+tags:
+  - things_to_do
+  - castle
 latitude: 45.8158
 longitude: 14.1268
 story: 'During a medieval siege, the knight Erasmus of Lueg held out for over a year

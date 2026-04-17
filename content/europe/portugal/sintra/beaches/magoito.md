@@ -1,6 +1,7 @@
 ---
 title: "Magoito"
 type: poi
+tags: [beaches, beach]
 latitude: 38.868932
 longitude: -9.4314
 ---

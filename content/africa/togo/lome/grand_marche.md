@@ -1,7 +1,11 @@
 ---
 title: "Grand Marché"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - market
+  - shopping
+  - sight
 latitude: 6.1310
 longitude: 1.2130
 ---

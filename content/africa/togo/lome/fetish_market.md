@@ -1,7 +1,12 @@
 ---
 title: "Fetish Market"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - market
+  - voodoo
+  - sight
+  - cultural_heritage
 latitude: 6.1260
 longitude: 1.2210
 ---

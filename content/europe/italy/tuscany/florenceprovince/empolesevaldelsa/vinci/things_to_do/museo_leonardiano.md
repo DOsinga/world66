@@ -1,7 +1,7 @@
 ---
 title: "Museo Leonardiano"
 type: poi
-category: Museum
+tags: [things_to_do, museum]
 latitude: 43.7872
 longitude: 10.9267
 ---

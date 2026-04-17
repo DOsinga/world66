@@ -1,7 +1,8 @@
 ---
-title: "Multan Fort Ruins"
-type: poi
-type: "Landmarks"
+tags:
+- things_to_do
+title: Multan Fort Ruins
+type: Landmarks
 ---
 
 The huge sprawling ancient complex had seen kings and empires fall or rise before its huge walls. Its initial origins are disputed, but the site was destroyed by the British garrison stationed here during the Raj.

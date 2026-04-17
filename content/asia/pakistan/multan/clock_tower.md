@@ -1,9 +1,10 @@
 ---
-title: "Clock Tower"
-type: poi
-type: "Landmarks"
 latitude: 32.516129
 longitude: 74.556361
+tags:
+- things_to_do
+title: Clock Tower
+type: Landmarks
 ---
 
 A clock tower is a tower built with one or more (often four) clock faces. The clock tower is usually part of a church or municipal building such as a town hall, but many clock towers are free-standing.

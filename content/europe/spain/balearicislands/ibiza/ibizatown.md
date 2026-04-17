@@ -5,7 +5,7 @@ latitude: 38.907278
 longitude: 1.435378
 score: 0.66
 title: Ibiza Town
-type: location
+type: neighbourhood
 ---
 
 Though not the capital of the island, Ibiza Town is where it all happens. In many aspects it’s the center of the island, its focal point. It’s here that you’ll find most clubs, bars Cafes and restaurants. The city itself is beautifully located on top of a small hill. Surrounded by a couple of fortresses, the stronghold still proudly dominates the bay and the harbour at her feet. There are three main area’s: The harbour and the Sa Peña quarter, the old city within the walls and the new city. All three have their own distinct and unique character.

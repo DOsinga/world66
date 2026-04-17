@@ -1,6 +1,9 @@
 ---
 title: "T's Rotisserie"
 type: poi
+tags:
+  - eating_out
+  - restaurant
 latitude: 39.248922
 longitude: -119.952198
 ---

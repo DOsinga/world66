@@ -1,7 +1,9 @@
 ---
 title: Thermal Spa Complex
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: 45.3317
 longitude: 11.7833
 ---

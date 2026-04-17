@@ -1,5 +1,7 @@
 ---
-title: "Sights in Melville"
+tags:
+- melville
+title: Sights in Melville
 type: section
 ---
 

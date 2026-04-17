@@ -1,6 +1,9 @@
 ---
 title: "Parrot Tree Plantation"
 type: poi
+tags:
+  - eating_out
+  - cafe
 latitude: 16.3085
 longitude: -86.4748
 ---

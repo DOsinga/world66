@@ -1,7 +1,8 @@
 ---
 title: 'The Barnacle'
 type: poi
-address: '141 Front St.'
+tags: [eating_out, restaurant, seafood]
+address: '141 Front St., Marblehead, MA'
 phone: '781-631-4236'
 latitude: 42.5007
 longitude: -70.8525

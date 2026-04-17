@@ -1,7 +1,11 @@
 ---
 title: 'Khandadhar'
 type: poi
-category: 'Sight'
+tags:
+  - things_to_do
+  - waterfall
+  - nature
+  - sight
 latitude: 21.6500
 longitude: 85.2833
 ---

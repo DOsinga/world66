@@ -1,7 +1,12 @@
 ---
 title: 'Vedavyas'
 type: poi
-category: 'Sight'
+tags:
+  - things_to_do
+  - temple
+  - hindu
+  - pilgrimage
+  - sight
 latitude: 22.2570
 longitude: 84.8290
 ---

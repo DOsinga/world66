@@ -1,7 +1,7 @@
 ---
 title: "Truc Lam Buddhist Pagoda"
 type: poi
-category: "Sight"
+tags: [things_to_do, sights, temple, buddhist]
 latitude: 11.8892
 longitude: 108.4347
 ---

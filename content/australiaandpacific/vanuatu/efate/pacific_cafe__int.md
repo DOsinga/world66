@@ -1,6 +1,7 @@
 ---
 title: "Pacific Cafe & Internet"
 type: poi
+tags: [eating_out, restaurant, cafe, budget]
 latitude: -17.7416
 longitude: 168.3120
 address: "Lini Highway, Ballande Centre (D Dock), Port Vila"

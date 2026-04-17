@@ -1,11 +1,13 @@
 ---
-title: "Clave de Fu"
-type: poi
-address: "26 de Marzo 1125, Pocitos"
-opening_hours: "starts at 22:00 hours"
-type: "Casinos"
+address: 26 de Marzo 1125, Pocitos
 latitude: -34.910425
 longitude: -56.150387
+opening_hours: starts at 22:00 hours
+tags:
+- bars_and_cafes
+- sight
+title: Clave de Fu
+type: poi
 ---
 
 The best local folk groups come here and play live music on the weekends.

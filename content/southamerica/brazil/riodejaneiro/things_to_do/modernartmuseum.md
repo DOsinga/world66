@@ -1,6 +1,7 @@
 ---
 title: 'Museum of Modern Art (MAM)'
 type: poi
+category: Museum
 address: 'Avenida Infante Dom Henrique, 85 - Aterro do Flamengo'
 phone: '2102188'
 latitude: -22.914

@@ -1,18 +1,22 @@
 ---
-title: Uttar Pradesh
-type: location
+done:
+  location_cleanup: '2026-04-16'
+image: uttarpradesh.jpg
+image_attribution: Buiobuione
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cow_in_Uttar_Pradesh_India.jpg
 latitude: 27.130334
 longitude: 80.859666
 score: 0.4
+title: Uttar Pradesh
+type: location
 ---
 
-Often reffered to as the cow belt or Hindi belt, Uttar Pradesh has been the most dominant state in Indian politics and culture since Independence, producing nine of India's 13 prime ministers. This is partly because it's the nation's most populous state - it has as many inhabitants as Brazil -and partly because of the central role the region plays in the religious landscape of Hindus. 
+Often referred to as the cow belt or Hindi belt, Uttar Pradesh is India's most populous state — with as many inhabitants as Brazil — and has been the most dominant state in Indian politics since Independence, producing nine of India's prime ministers. The Ganges River, which forms the backbone of the state, is the sacred river of Hinduism, and four of the religion's seven holy cities are here.
 
+[Varanasi](/asia/india/uttarpradesh/varanasi) is the holiest of those cities, a place of extraordinary religious intensity on the river's banks. Uttar Pradesh is also a place of major importance to Buddhists: at Sarnath, just outside Varanasi, the Buddha first preached his message after his enlightenment. [Agra](/asia/india/uttarpradesh/agra), home of the Taj Mahal, is the state's most-visited destination; from here most visitors continue to the ghost city of [Fatehpur Sikri](/asia/india/uttarpradesh/fatehpursikri), Emperor Akbar's magnificently preserved but long-abandoned capital.
 
-
-The Ganges River, which forms the backbone of Uttar Pradesh, is the sacred river of Hinduism, and four of the religion's seven holy towns are in the state, including [Varanasi](/asia/india/uttarpradesh/varanasi) , the holiest of them all. Uttar Pradesh is also a place of major importance to Buddhists, for it was at Sarnath, just outside Varanasi, that the Buddha first preached his message of the middle way. The general , what India is probably known for with a lot of people, is located in [Agra](/asia/india/uttarpradesh/agra) . From Agra, most people set off for a visit to the ghost town [Fatehpur Sikri](/asia/india/uttarpradesh/fatehpursikri) . 
-
-Most of Uttar Pradesh consists of the vast Ganges plain, an area of awesome flatness which often floods dramatically during the monsoon. The people of this area are predominantly poorly educated farmers, whose unequal share in the wealth and resources enjoyed by the state's urbanites is a matter of social concern. In stark contrast to the plains, the scenic northwestern corner has hill stations sprinkled along the foothills of the Himalaya, boasts excellent trekking and rises to form some of the highest mountains in India.
+Most of Uttar Pradesh consists of the vast Ganges plain, endlessly flat and agricultural. In contrast, the scenic northwestern corner, which is now the separate state of Uttaranchal, has hill stations in the Himalayan foothills and some of the highest mountains in India.
 
 ## Destinations in Uttar Pradesh
 

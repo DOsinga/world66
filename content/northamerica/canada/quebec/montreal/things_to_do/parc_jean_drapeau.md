@@ -1,6 +1,7 @@
 ---
 title: "Parc Jean-Drapeau"
 type: poi
+category: Sight
 latitude: 45.513864
 longitude: -73.534333
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'Urca and Praia Vermelha'
 type: poi
+category: Neighbourhood
 latitude: -22.956
 longitude: -43.165
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'Brazilian Cooking Classes'
 type: poi
+category: Sight
 address: 'Rua Ronald de Carvalho 154, Copacabana'
 latitude: -22.964274
 longitude: -43.17728

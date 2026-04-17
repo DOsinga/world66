@@ -1,14 +1,6 @@
 ---
 title: "Bars and Cafes"
 type: section
-address: "www.thecomedyclub.ie"
-phone: "0214501206"
 ---
 
-**Sky Bar, Coburg street, Cork,**
-
-**It has everything, great beer garden, cool music, giant screens for all big sport events. We are next to the famous City Limits Comedy Club. So come in if you want a wild time.**
-
-### [City Limits Comedy Club / Sky Bar
-
-This place has everything, Comedy Club, Music venue, Night club, Beer garden, Great bar, too much to write. so go to www.thecomedyclub.ie](/europe/ireland/cork/bars_and_cafes/city_limits_comedy)
+Cork has a particularly strong pub culture for a city of its size. The traditional music scene is centred around the Shandon area on the north bank and several pubs on the southside. The Franciscan Well Brewery on North Mall and Sin É on Coburg Street are reliable spots for live traditional music.

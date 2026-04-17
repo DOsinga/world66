@@ -1,6 +1,7 @@
 ---
 title: "Musée McCord"
 type: poi
+category: Museum
 latitude: 45.504295
 longitude: -73.573394
 address: "690 rue Sherbrooke Ouest, Montréal, QC H3A 1E9"

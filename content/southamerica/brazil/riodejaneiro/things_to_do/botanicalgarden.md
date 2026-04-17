@@ -1,6 +1,7 @@
 ---
 title: 'Botanical Garden (Jardim Botanico)'
 type: poi
+category: Sight
 address: 'Rua Jardim Botanico, 920'
 opening_hours: '8 am - 5 pm'
 phone: '2390718'

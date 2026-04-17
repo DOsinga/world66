@@ -1,18 +1,24 @@
 ---
-title: Wales
-type: location
+done:
+  location_cleanup: '2026-04-16'
+image: wales.jpg
+image_attribution: DeFacto
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Caerphilly_Castle_south.jpg
 latitude: 52.292812
 longitude: -3.73893
 score: 0.62
+title: Wales
+type: location
 ---
 
-The relationship between England and Wales has never been entirely easy. The Saxon king Offa, impatient with constant demarcation disputes, constructed a dyke to seperate the two countries. This was more than 1000 years ago. Still today, a long-distance footpath running from near [Chepstow](/europe/unitedkingdom/wales/chepstow) in the south to Prestatyn in the north follows its route. During the reign of Edward Crompton I the last of the Welsh native princes was killed and Wales passed uneasily under English rule. Trouble flared again with the rebellion of Owain Glyndur in the 15th century, but finally, when the Welsh prince Henry Tudor defeated Richard III at the Battle of Bosworth to become king of England, he paved the way for the 1536 Act of Union, which joined the English and Welsh in restless but perpetual partnership. 
+Wales is a small country with a large personality. Crammed into the western tip of Britain, it packs mountain ranges, a dramatic coastline, medieval castles, and a living Celtic culture into a space you can drive across in a couple of hours. The landscapes are genuinely spectacular — [Snowdonia](/europe/unitedkingdom/wales/snowdonia) in the north, the Brecon Beacons in the south, and the wild Pembrokeshire coast in the west all reward serious exploration.
 
-Steady contact with England has watered down the indigenious Welsh culture. Bricked-up, decaying chapels stand as reminders of the days when Sunday services and chapel choirs were central to community life. Original Welsh music, poetry and dance are shown every summer at the International Music Eisteddfod Festivals in Llangollen. Nevertheless, the Welsh language is undergoing a revival and you will see it on bilingual road signs all over the country - but are most likely to hear it spoken in north and mid-Wales. 
+The Welsh language is very much alive here. You will hear it spoken in markets, pubs, and schools across the north and west, and see it on bilingual road signs everywhere. The National Eisteddfod, an annual festival of Welsh music, poetry, and performance, moves between different towns each year and remains a genuine cultural event rather than a tourist spectacle.
 
-Much of the country, particularly the Brecon Beacons and Black Mountains in the south and [Snowdonia](/europe/unitedkingdom/wales/snowdonia) in the north, is relentlessly mountainous and offers wonderful walking and climbing terrain. Pembrokeshire to the west also boasts a spectacular rugged coastline, dotted with offshore island nature reserves. The biggest towns, including [Cardiff](/europe/unitedkingdom/wales/cardiff), [Swansea](/europe/unitedkingdom/wales/swansea), [Aberystwyth](/europe/unitedkingdom/wales/aberystwyth) and Colwyn Bay, cling to the coastal lowlands, but even there the mountains are no more than a bus ride away. 
+[Cardiff](/europe/unitedkingdom/wales/cardiff), the capital, sits in the south and has transformed itself over the past two decades into a confident, lively city. Its Victorian arcades, revived waterfront, and the Millennium Centre give it real appeal. [Swansea](/europe/unitedkingdom/wales/swansea), Dylan Thomas's home city, is rougher around the edges but has the Gower Peninsula on its doorstep — one of Britain's finest stretches of coastline. In the north, [Caernarfon](/europe/unitedkingdom/wales/caernarfon) and [Conwy](/europe/unitedkingdom/wales/conwy) have Edward I's great medieval castles, which together with several others form a UNESCO World Heritage Site.
 
-For the fans of Dylan Thomas, [Laugharne](/europe/unitedkingdom/wales/laugharne) is a must see. It houses the Dylan thomas museum. A visit to Laugharne can be combined with [Tenby](/europe/unitedkingdom/wales/tenby), a posh beach resort.
+For Dylan Thomas fans, [Laugharne](/europe/unitedkingdom/wales/laugharne) on the southwest coast is where the poet lived and wrote, and where his writing shed still stands overlooking the estuary. Combine it with a visit to [Tenby](/europe/unitedkingdom/wales/tenby), a handsome walled town with sandy beaches a short drive away.
 
 ## Destinations in Wales
 

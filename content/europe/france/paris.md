@@ -12,8 +12,6 @@ image_license: CC BY 2.0
 image_attribution: Kainet
 ---
 
-*Europe > France > Paris*
-
 Paris is the most visited city on earth, and familiarity with its image makes it easy to underestimate. You arrive knowing the Eiffel Tower, Notre-Dame, and the Louvre from a thousand photographs, but the city constantly surprises. The quartiers you didn't plan to visit, the food market you stumbled into, the view down a Haussmann boulevard at dusk — these are what stay with you.
 
 The city divides across the Seine into the Right Bank (Rive Droite) and Left Bank (Rive Gauche). The Right Bank holds most of the grand monuments and the commercial centre: the Louvre, the Opéra, the Champs-Élysées, the Marais. The Left Bank is quieter, more residential, the traditional home of universities, cafes, and publishing houses. This divide is less sharp than it once was, but it still shapes the character of each neighbourhood.

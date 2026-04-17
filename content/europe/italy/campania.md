@@ -1,18 +1,16 @@
 ---
 done:
-  location_cleanup: 2026-04-05
+  location_cleanup: '2026-04-16'
 latitude: 40.839565
 longitude: 14.252243
+score: 0.8
 title: Campania
 type: location
-score: 0.8
 ---
-
-*Europe > Italy > Campania*
 
 Campania is the region that has everything — volcanic history, Greek temples, the most extravagant coastline in Italy, and a city that operates entirely on its own rules. It cradles the Bay of Naples between Vesuvius and the Sorrentine Peninsula, and stretches south past the Amalfi Coast to the ancient ruins of Paestum and the wild Cilento.
 
-[Naples](/europe/italy/campania/naples), the capital, is loud, chaotic, beautiful, and like nowhere else in Italy. It is the birthplace of pizza, the home of the world's finest archaeological museum, and a city where baroque churches line streets that haven't changed much since the Spanish Habsburgs. Just outside its door, Pompeii and Herculaneum offer the most vivid window into ancient Roman life that exists anywhere.
+[Naples](/europe/italy/campania/naples), the capital, is loud, chaotic, beautiful, and like nowhere else in Italy. It is the birthplace of pizza, the home of the world's finest archaeological museum, and a city where baroque churches line streets that haven't changed much since the Spanish Habsburgs. Just outside its door, [Pompeii](/europe/italy/campania/pompeii) and [Herculaneum](/europe/italy/campania/herculaneum) offer the most vivid window into ancient Roman life that exists anywhere.
 
 The coast is the other reason to come. The Amalfi Coast road winds around cliffs above an improbable blue sea, connecting [Positano](/europe/italy/campania/positano), [Amalfi](/europe/italy/campania/amalfi), and [Ravello](/europe/italy/campania/ravello) — towns that are simultaneously overrun with visitors and still genuinely spectacular. [Sorrento](/europe/italy/campania/sorrento), perched on the edge of its own cliff, makes an excellent base. The islands of [Capri](/europe/italy/campania/capri) and [Ischia](/europe/italy/campania/ischia) sit in the bay — one glitzy, one volcanic and spa-focused.
 

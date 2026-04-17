@@ -1,15 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Swimming"
 ---
 
-baseball!!
-
-### Kyujyukuri Beach
-
-Beautiful white sand beaches on the Pacific Ocean side of the Boso
-Penensula of Chiba Prefecture just one hour North of Tokyo and 30
-minutes from Narita Airport.
-
-type: Swimming
+Tokyo's sights are spread across the city's many distinct neighbourhoods, and exploring them is as much about the walk between destinations as the destinations themselves. The main clusters are in Ueno (museums, Senso-ji in nearby Asakusa), central Tokyo (the Imperial Palace, Marunouchi, Ginza), and the western wards (Shibuya, Shinjuku, Harajuku).

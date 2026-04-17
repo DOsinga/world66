@@ -1,6 +1,7 @@
 ---
 title: "Old Montréal"
 type: poi
+category: Neighbourhood
 latitude: 45.502212
 longitude: -73.555413
 address: "Old Montréal, QC"

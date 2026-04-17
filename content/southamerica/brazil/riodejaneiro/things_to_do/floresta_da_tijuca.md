@@ -1,6 +1,7 @@
 ---
 title: 'Tijuca Forest (Floresta da Tijuca)'
 type: poi
+category: Sight
 phone: '(21) 2492-5407'
 latitude: -22.955
 longitude: -43.282

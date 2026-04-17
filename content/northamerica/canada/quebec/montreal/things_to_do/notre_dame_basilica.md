@@ -1,6 +1,7 @@
 ---
 title: "Basilique Notre-Dame de Montréal"
 type: poi
+category: Sight
 latitude: 45.504436
 longitude: -73.55599
 address: "110 rue Notre-Dame Ouest, Montréal, QC H2Y 1T1"

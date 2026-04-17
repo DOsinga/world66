@@ -1,6 +1,7 @@
 ---
 title: 'Banco do Brasil Cultural Center'
 type: poi
+category: Museum
 address: 'Rua Visconde de Itaborai, 78 - Centro'
 latitude: -22.900
 longitude: -43.177

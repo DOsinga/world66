@@ -1,19 +1,17 @@
 ---
-title: Cork
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 51.898514
 longitude: -8.472642
 score: 0.61
+title: Cork
+type: location
 ---
 
-Cork City is Ireland's FIRST city, and is the rightful capital of the entire island of Ireland. Ignore those scummy places called Belfast and Dublin - Cork has it all. 
+Cork is Ireland's second city and the capital of Munster, a compact and hilly place built on islands in the River Lee estuary. The city centre sits between two channels of the river, with the streets rising steeply on both banks. It has a distinct character — more relaxed than Dublin, proudly independent, and genuinely proud of its food culture, its pubs, and its hurling team.
 
-It began on an island in the swampy estuary of the River Lee (the name Corcaigh means a marsh), and gradually climbed up the steep banks on either side like a bogman emerging from a stagnant pool.
+The English Market, a Victorian covered market near St Patrick's Street, is Cork at its best: local producers selling butter, charcuterie, fish, cheese, and breads in a handsome nineteenth-century building that Queen Elizabeth II visited in 2011. The market is working rather than touristic, and worth at least an hour. St Patrick's Street, the main commercial street, was redesigned in 2004 and is the more polished face of the city. Up on the north bank, Shandon is the old wool-trading quarter, dominated by St Anne's Church, whose mismatched sandstone and limestone tower and famously unreliable clock faces earned it the nickname "the four-faced liar." Visitors can climb the tower and ring the bells.
 
-As the hilly streets go up and down (all marshes are hilly as we know), so do the voices of the citizens. They have a characteristic sing-song cadence, beloved of national comedians, and Corkonians are regarded as the most talkative of all the Irish. 
+St Fin Barre's Cathedral, on the southern edge of the centre, is the city's most imposing building — a Gothic Revival structure completed in 1879 with an elaborate west façade. University College Cork, to the west, has fine Victorian Gothic buildings and the Lewis Glucksman Gallery, which houses a good collection of Irish art. The city's pub scene is active; the Franciscan Well Brewery on North Mall brews its own beers on site, and Sin É on Coburg Street is a reliable spot for traditional music.
 
-Key places to visit would be the **English market** in the centre of the city, **Shandon Steeple** , which overlooks the city on the north bank, the **University** through which the river Lee passes and the very steep **Patricks Hill** , from the top of which are magnificent views over the entire city. 
-
-For such a relatively small city (population roughly 200,000) , Cork has a bewildering plethora of pubs and restaurants to go to in the evening. Many of pubs offer live music - check out the **The Lobby** pub , next to the City Hall or **An Spailpin Fainac** opposite **Beamish and crawford brewery**. THE MOUNTIN BAR 
-
-Citizens of this City include legions of lunatics who are proponents of independence for Cork - check out their ramblings on www.peoplesrepublicofcork.com
+Cork is the main hub for County Cork, which includes Blarney Castle, Kinsale, and the Beara and Sheep's Head peninsulas — all accessible as day trips or short overnight trips.

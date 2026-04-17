@@ -1,6 +1,7 @@
 ---
 title: 'Fort Santa Cruz da Barra'
 type: poi
+category: Sight
 address: 'Niteroi'
 latitude: -22.934
 longitude: -43.128

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 9.2167
 longitude: 124.7333
 tags:
 - things_to_do
+- landmark
 title: White Island
 type: poi
 ---

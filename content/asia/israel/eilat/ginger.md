@@ -1,12 +1,12 @@
 ---
 address: Edomit Hotel
-category: Restaurant
 cuisine: Thai
 latitude: 29.5515
 longitude: 34.9517
 phone: 972-8-6372517
 tags:
 - eating_out
+- restaurant
 title: Ginger
 type: poi
 ---

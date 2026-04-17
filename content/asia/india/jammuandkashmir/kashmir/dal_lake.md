@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.1045
 longitude: 74.8376
 tags:
 - things_to_do
+- landmark
 title: Dal Lake
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 11.9888
 longitude: 8.5211
 tags:
 - things_to_do
+- museum
 title: Gidan Makama Museum
 type: poi
 ---

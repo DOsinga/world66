@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.6187
 longitude: 52.5438
 tags:
 - things_to_do
+- landmark
 title: Tomb of Hafez
 type: poi
 ---

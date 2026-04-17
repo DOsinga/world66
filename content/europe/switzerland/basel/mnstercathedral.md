@@ -1,10 +1,10 @@
 ---
 address: Münsterplatz 13
-category: Architecture
 latitude: 47.555873
 longitude: 7.591445
 tags:
 - things_to_do
+- architecture
 title: Basler Münster
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 40.8022
 longitude: -124.1624
 tags:
 - things_to_do
+- museum
 title: Clarke Memorial Museum
 type: poi
 ---

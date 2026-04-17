@@ -1,10 +1,10 @@
 ---
 address: Town Quay, Southampton SO14 2NY
-category: Architecture
 latitude: 50.8964
 longitude: -1.4029
 tags:
 - things_to_do
+- architecture
 title: God's House Tower
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 42.5993
 longitude: -5.5714
 tags:
 - things_to_do
+- neighbourhood
 title: Barrio Húmedo
 type: poi
 ---

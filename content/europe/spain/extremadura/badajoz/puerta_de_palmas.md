@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.8773
 longitude: -6.974
 tags:
 - things_to_do
+- landmark
 title: Puerta de Palmas
 type: poi
 ---

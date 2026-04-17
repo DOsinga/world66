@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 42.601
 longitude: -5.5739
 story: 'The Panteón de los Reyes, the royal crypt beneath the basilica, was built
@@ -12,6 +11,7 @@ story: 'The Panteón de los Reyes, the royal crypt beneath the basilica, was bui
   '
 tags:
 - things_to_do
+- architecture
 title: Basílica de San Isidoro
 type: poi
 ---

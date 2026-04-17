@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 9.1578
 longitude: 124.7356
 tags:
 - things_to_do
+- landmark
 title: Katibawasan Falls
 type: poi
 ---

@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 12.0
 longitude: 8.5167
 story: 'The pits at Kofar Mata have been in continuous operation since 1498, making
@@ -9,6 +8,7 @@ story: 'The pits at Kofar Mata have been in continuous operation since 1498, mak
   '
 tags:
 - things_to_do
+- landmark
 title: Kofar Mata Dye Pits
 type: poi
 ---

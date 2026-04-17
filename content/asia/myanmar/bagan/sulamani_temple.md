@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 21.1584
 longitude: 94.871
 tags:
 - things_to_do
+- landmark
 title: Sulamani Temple
 type: poi
 ---

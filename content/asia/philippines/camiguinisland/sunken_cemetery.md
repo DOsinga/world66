@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 9.1797
 longitude: 124.7239
 tags:
 - things_to_do
+- landmark
 title: Sunken Cemetery
 type: poi
 ---

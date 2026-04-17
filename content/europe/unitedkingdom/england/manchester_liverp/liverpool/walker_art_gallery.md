@@ -1,10 +1,10 @@
 ---
 address: William Brown Street, Liverpool, L3 8EL
-category: Museum
 latitude: 53.4118
 longitude: -2.9799
 tags:
 - things_to_do
+- museum
 title: Walker Art Gallery
 type: poi
 ---

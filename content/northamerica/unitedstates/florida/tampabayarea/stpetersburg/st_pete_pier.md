@@ -1,12 +1,12 @@
 ---
 address: 800 2nd Ave NE, St. Petersburg, FL 33701
 admission: Free
-category: Sight
 latitude: 27.7776
 longitude: -82.6258
 opening_hours: Sun–Thu 11:00am–9:00pm, Fri–Sat 11:00am–10:00pm
 tags:
 - things_to_do
+- landmark
 title: St. Pete Pier
 type: poi
 url: www.stpetepier.org

@@ -1,11 +1,11 @@
 ---
 address: Britannia Vaults, Albert Dock, Liverpool, L3 4AD
-category: Museum
 latitude: 53.3991
 longitude: -2.9925
 phone: +44 (0) 151 709 1963
 tags:
 - things_to_do
+- museum
 title: The Beatles Story
 type: poi
 url: www.beatlesstory.com

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 40.8026
 longitude: -124.1645
 tags:
 - things_to_do
+- architecture
 title: Carson Mansion
 type: poi
 ---

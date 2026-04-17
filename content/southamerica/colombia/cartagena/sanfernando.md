@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 9.107859
 longitude: -74.379811
 tags:
 - things_to_do
+- landmark
 title: San Fernando
 type: poi
 ---

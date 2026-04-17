@@ -1,10 +1,10 @@
 ---
 address: St James Mount, Liverpool, L1 7AZ
-category: Sight
 latitude: 53.3964
 longitude: -2.9738
 tags:
 - things_to_do
+- landmark
 title: Liverpool Cathedral
 type: poi
 ---

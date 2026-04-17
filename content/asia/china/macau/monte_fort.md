@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 22.1976
 longitude: 113.5423
 tags:
 - things_to_do
+- landmark
 title: Monte Fort
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.6089
 longitude: 52.5416
 tags:
 - things_to_do
+- landmark
 title: Masjed-e Vakil
 type: poi
 ---

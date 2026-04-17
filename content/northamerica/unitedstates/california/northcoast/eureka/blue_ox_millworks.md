@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 40.7962
 longitude: -124.1731
 tags:
 - things_to_do
+- landmark
 title: Blue Ox Millworks
 type: poi
 ---

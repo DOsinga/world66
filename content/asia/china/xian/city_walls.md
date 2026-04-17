@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.2585
 longitude: 108.949
 tags:
 - things_to_do
+- landmark
 title: City Walls
 type: poi
 ---

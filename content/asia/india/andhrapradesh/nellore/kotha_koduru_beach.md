@@ -1,7 +1,7 @@
 ---
-category: Beach
 tags:
 - beaches
+- beach
 title: Kotha Koduru Beach
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 11.2448
 longitude: -74.2004
 tags:
 - things_to_do
+- landmark
 title: Cathedral of Santa Marta
 type: poi
 ---

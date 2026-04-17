@@ -1,11 +1,11 @@
 ---
 address: Pier 9, 658 Catharine Street North, Hamilton
-category: Sight
 latitude: 43.2681
 longitude: -79.8672
 phone: 905-526-0911
 tags:
 - things_to_do
+- landmark
 title: HMCS Haida
 type: poi
 ---

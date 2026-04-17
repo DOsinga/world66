@@ -1,7 +1,6 @@
 ---
 address: One Tramway Road, Palm Springs, CA 92262
 admission: Adults $31.95; Seniors $29.95; Children (3–10) $21.95
-category: Sight
 latitude: 33.8774
 longitude: -116.6341
 opening_hours: Mon–Fri from 10:00; Sat–Sun from 08:00; last car up 20:00
@@ -12,6 +11,7 @@ story: The tramway opened in 1963 after 26 years of lobbying by James Outman, a 
   and were the largest of their type in the world at the time.
 tags:
 - things_to_do
+- landmark
 title: Palm Springs Aerial Tramway
 type: poi
 url: https://www.pstramway.com

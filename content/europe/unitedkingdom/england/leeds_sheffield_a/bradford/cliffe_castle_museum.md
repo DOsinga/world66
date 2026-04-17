@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 53.8693
 longitude: -1.9128
 tags:
 - things_to_do
+- museum
 title: Cliffe Castle Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 47.588047
 longitude: 7.650993
 tags:
 - things_to_do
+- museum
 title: Fondation Beyeler
 type: poi
 ---

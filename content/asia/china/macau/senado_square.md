@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 22.1937
 longitude: 113.5401
 tags:
 - things_to_do
+- neighbourhood
 title: Senado Square
 type: poi
 ---

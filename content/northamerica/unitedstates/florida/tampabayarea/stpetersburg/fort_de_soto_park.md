@@ -1,13 +1,13 @@
 ---
 address: 3500 Pinellas Bayway S, Tierra Verde, FL 33715
 admission: $5 per vehicle
-category: Sight
 latitude: 27.6208
 longitude: -82.7326
 opening_hours: Daily 8:00am–sunset
 phone: +1 727-582-2267
 tags:
 - things_to_do
+- landmark
 title: Fort De Soto Park
 type: poi
 url: www.pinellascounty.org/park/05_ft_desoto.htm

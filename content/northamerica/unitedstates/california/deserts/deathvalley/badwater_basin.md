@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.2303
 longitude: -116.7679
 tags:
 - things_to_do
+- landmark
 title: Badwater Basin
 type: poi
 ---

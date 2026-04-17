@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 2.4418
 longitude: -76.6081
 tags:
 - things_to_do
+- museum
 title: Museo Arquidiocesano de Arte Religioso
 type: poi
 ---

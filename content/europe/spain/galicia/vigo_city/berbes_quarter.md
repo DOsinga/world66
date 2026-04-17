@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 42.2388
 longitude: -8.7254
 tags:
 - things_to_do
+- neighbourhood
 title: Berbés Quarter
 type: poi
 ---

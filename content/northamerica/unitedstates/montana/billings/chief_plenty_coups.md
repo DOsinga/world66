@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.4714
 longitude: -108.5622
 tags:
 - things_to_do
+- landmark
 title: Chief Plenty Coups State Park
 type: poi
 ---

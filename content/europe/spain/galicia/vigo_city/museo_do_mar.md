@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 42.2048
 longitude: -8.7703
 tags:
 - things_to_do
+- museum
 title: Museo do Mar (Sea Museum)
 type: poi
 ---

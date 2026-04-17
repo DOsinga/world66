@@ -1,10 +1,10 @@
 ---
 address: Comuna 13, San Javier
-category: Neighbourhood
 latitude: 6.2614
 longitude: -75.6147
 tags:
 - things_to_do
+- neighbourhood
 title: Comuna 13
 type: poi
 ---

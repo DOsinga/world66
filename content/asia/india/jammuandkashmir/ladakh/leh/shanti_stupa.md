@@ -1,10 +1,10 @@
 ---
 address: Changspa, Leh, Ladakh
-category: Sight
 latitude: 34.1627
 longitude: 77.5741
 tags:
 - things_to_do
+- landmark
 title: Shanti Stupa
 type: poi
 ---

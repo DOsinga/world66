@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.8818
 longitude: -6.9712
 tags:
 - things_to_do
+- landmark
 title: Alcazaba of Badajoz
 type: poi
 ---

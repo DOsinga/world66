@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 50.8013
 longitude: -1.1097
 tags:
 - things_to_do
+- museum
 title: Portsmouth Historic Dockyard
 type: poi
 ---

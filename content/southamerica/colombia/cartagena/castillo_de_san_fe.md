@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 10.422711
 longitude: -75.539366
 tags:
 - things_to_do
+- landmark
 title: Castillo de San Felipe
 type: poi
 ---

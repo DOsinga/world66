@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 41.654251
 longitude: -0.875113
 tags:
 - things_to_do
+- architecture
 title: Arco del Deán
 type: poi
 ---

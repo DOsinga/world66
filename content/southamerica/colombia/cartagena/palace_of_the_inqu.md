@@ -1,7 +1,7 @@
 ---
-category: Museum
 tags:
 - things_to_do
+- museum
 title: Palace of the Inquisition
 type: poi
 ---

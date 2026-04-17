@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 2.4376
 longitude: -76.6046
 tags:
 - things_to_do
+- landmark
 title: Chapel of Belen
 type: poi
 ---

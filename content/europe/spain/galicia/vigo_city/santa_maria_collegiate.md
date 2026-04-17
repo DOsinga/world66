@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 42.2376
 longitude: -8.7248
 tags:
 - things_to_do
+- architecture
 title: Santa María Collegiate Church
 type: poi
 ---

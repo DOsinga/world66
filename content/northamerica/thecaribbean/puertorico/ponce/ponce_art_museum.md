@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 18.0098
 longitude: -66.618
 tags:
 - things_to_do
+- museum
 title: Ponce Art Museum
 type: poi
 ---

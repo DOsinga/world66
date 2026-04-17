@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 11.9948
 longitude: 8.5176
 tags:
 - things_to_do
+- architecture
 title: Great Mosque of Kano
 type: poi
 ---

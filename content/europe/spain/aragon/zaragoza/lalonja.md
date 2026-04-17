@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 41.6571
 longitude: -0.8776
 tags:
 - things_to_do
+- architecture
 title: La Lonja
 type: poi
 ---

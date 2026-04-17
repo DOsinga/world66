@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.7042
 longitude: 13.193
 tags:
 - things_to_do
+- museum
 title: Kulturen
 type: poi
 ---

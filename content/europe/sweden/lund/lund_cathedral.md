@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 55.7047
 longitude: 13.1916
 tags:
 - things_to_do
+- landmark
 title: Lund Cathedral
 type: poi
 ---

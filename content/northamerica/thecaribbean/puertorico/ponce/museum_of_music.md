@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 18.0119
 longitude: -66.6136
 tags:
 - things_to_do
+- museum
 title: Museum of Puerto Rican Music
 type: poi
 ---

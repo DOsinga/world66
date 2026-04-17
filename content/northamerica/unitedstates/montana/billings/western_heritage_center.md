@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 45.7818
 longitude: -108.5043
 tags:
 - things_to_do
+- museum
 title: Western Heritage Center
 type: poi
 ---

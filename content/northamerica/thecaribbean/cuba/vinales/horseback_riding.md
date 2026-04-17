@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 22.6189
 longitude: -83.7069
 tags:
 - things_to_do
+- landmark
 title: Horseback Riding
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 40.803
 longitude: -124.165
 tags:
 - things_to_do
+- landmark
 title: Humboldt Bay Harbor Cruise
 type: poi
 ---

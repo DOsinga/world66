@@ -1,10 +1,10 @@
 ---
 address: Gunwharf Quays
-category: Architecture
 latitude: 50.7956
 longitude: -1.1081
 tags:
 - things_to_do
+- architecture
 title: Spinnaker Tower
 type: poi
 ---

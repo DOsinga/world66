@@ -1,7 +1,6 @@
 ---
 address: 1 Dalí Blvd, St. Petersburg, FL 33701
 admission: $24 adults, $22 seniors, $17 students, under 6 free
-category: Museum
 latitude: 27.7692
 longitude: -82.6316
 opening_hours: Mon–Sat 10:00am–5:30pm, Thu until 8:00pm, Sun 12:00pm–5:30pm
@@ -16,6 +15,7 @@ story: 'The collection came to St. Petersburg through a friendship between Dalí
   '
 tags:
 - things_to_do
+- museum
 title: Salvador Dalí Museum
 type: poi
 url: www.thedali.org

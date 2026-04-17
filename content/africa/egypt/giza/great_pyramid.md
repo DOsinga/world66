@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.9792
 longitude: 31.1342
 tags:
 - things_to_do
+- landmark
 title: Great Pyramid of Khufu
 type: poi
 ---

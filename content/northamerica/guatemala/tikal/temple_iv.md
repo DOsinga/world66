@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 17.2236
 longitude: -89.6272
 tags:
 - things_to_do
+- landmark
 title: Temple IV
 type: poi
 ---

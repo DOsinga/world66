@@ -1,10 +1,10 @@
 ---
 address: Albert Dock, Liverpool, L3 4BB
-category: Museum
 latitude: 53.401
 longitude: -2.9937
 tags:
 - things_to_do
+- museum
 title: Tate Liverpool
 type: poi
 ---

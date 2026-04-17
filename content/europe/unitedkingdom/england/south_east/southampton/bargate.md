@@ -1,10 +1,10 @@
 ---
 address: High Street, Southampton SO14 2BY
-category: Architecture
 latitude: 50.9025
 longitude: -1.4042
 tags:
 - things_to_do
+- architecture
 title: Bargate
 type: poi
 ---

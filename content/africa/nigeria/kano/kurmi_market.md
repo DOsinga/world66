@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 11.993
 longitude: 8.5195
 tags:
 - things_to_do
+- neighbourhood
 title: Kurmi Market
 type: poi
 ---

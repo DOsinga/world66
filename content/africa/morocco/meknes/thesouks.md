@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.896
 longitude: -5.56
 tags:
 - things_to_do
+- landmark
 title: The Souks
 type: poi
 ---

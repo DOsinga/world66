@@ -1,11 +1,11 @@
 ---
 address: Calle Alta 3, Fuendetodos
-category: Museum
 latitude: 41.1528
 longitude: -0.9486
 opening_hours: Tue–Sun 11am–2pm and 4pm–7pm, Mon closed
 tags:
 - things_to_do
+- museum
 title: Casa Natal de Goya
 type: poi
 ---

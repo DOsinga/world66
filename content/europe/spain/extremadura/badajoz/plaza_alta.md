@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.881
 longitude: -6.9705
 tags:
 - things_to_do
+- landmark
 title: Plaza Alta
 type: poi
 ---

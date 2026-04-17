@@ -1,13 +1,13 @@
 ---
 address: 255 Beach Dr NE, St. Petersburg, FL 33701
 admission: $20 adults, $18 seniors, $10 students, under 7 free
-category: Museum
 latitude: 27.7746
 longitude: -82.632
 opening_hours: Mon–Sat 10:00am–5:00pm, Sun 12:00pm–5:00pm
 phone: +1 727-896-2667
 tags:
 - things_to_do
+- museum
 title: Museum of Fine Arts
 type: poi
 url: www.mfastpete.org

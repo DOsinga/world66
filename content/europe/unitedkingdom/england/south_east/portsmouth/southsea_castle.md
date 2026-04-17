@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 50.7788
 longitude: -1.0889
 tags:
 - things_to_do
+- landmark
 title: Southsea Castle
 type: poi
 ---

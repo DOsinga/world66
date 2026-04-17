@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.7439
 longitude: -108.5833
 tags:
 - things_to_do
+- landmark
 title: ZooMontana
 type: poi
 ---

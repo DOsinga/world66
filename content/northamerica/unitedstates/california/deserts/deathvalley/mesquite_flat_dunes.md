@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.6054
 longitude: -117.1073
 tags:
 - things_to_do
+- landmark
 title: Mesquite Flat Sand Dunes
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 18.0117
 longitude: -66.614
 tags:
 - things_to_do
+- museum
 title: Casa Paoli
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 17.222
 longitude: -89.6236
 tags:
 - things_to_do
+- landmark
 title: The Great Plaza
 type: poi
 ---

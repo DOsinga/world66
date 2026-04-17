@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 53.8133
 longitude: -1.7606
 tags:
 - things_to_do
+- museum
 title: Bradford Industrial Museum
 type: poi
 ---

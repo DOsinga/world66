@@ -1,10 +1,10 @@
 ---
 address: Clarence Esplanade, Southsea
-category: Museum
 latitude: 50.7814
 longitude: -1.0889
 tags:
 - things_to_do
+- museum
 title: The D-Day Story
 type: poi
 ---

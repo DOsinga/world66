@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.2199
 longitude: -116.7282
 tags:
 - things_to_do
+- landmark
 title: Dante's View
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Near Nyamukazi, Bukoba, Kagera, Tanzania
-category: Museum
 latitude: -1.3375
 longitude: 31.8115
 phone: +255 28 222 0203
 tags:
 - things_to_do
+- museum
 title: Kagera Museum
 type: poi
 ---

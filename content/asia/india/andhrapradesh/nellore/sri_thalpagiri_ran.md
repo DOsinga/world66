@@ -1,9 +1,9 @@
 ---
 address: Ranganayakula Peta, Nellore
-category: Sight
 opening_hours: All days
 tags:
 - things_to_do
+- landmark
 title: Sri Thalpagiri Ranganath Swami Temple
 type: poi
 ---

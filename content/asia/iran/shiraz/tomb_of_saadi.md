@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.6307
 longitude: 52.5535
 tags:
 - things_to_do
+- landmark
 title: Tomb of Saadi
 type: poi
 ---

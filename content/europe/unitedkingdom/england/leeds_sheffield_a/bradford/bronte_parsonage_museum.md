@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 53.8314
 longitude: -1.9573
 tags:
 - things_to_do
+- museum
 title: Brontë Parsonage Museum
 type: poi
 ---

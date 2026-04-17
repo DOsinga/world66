@@ -1,13 +1,13 @@
 ---
 address: 335 2nd Ave NE, St. Petersburg, FL 33701
 admission: $15 adults, $12 seniors, $7 children
-category: Museum
 latitude: 27.7751
 longitude: -82.631
 opening_hours: Mon–Sat 10:00am–5:00pm, Sun 12:00pm–5:00pm
 phone: +1 727-894-1052
 tags:
 - things_to_do
+- museum
 title: St. Petersburg Museum of History
 type: poi
 url: www.spmoh.com

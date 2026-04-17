@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 42.6007
 longitude: -5.5722
 tags:
 - things_to_do
+- landmark
 title: Murallas Romanas
 type: poi
 ---

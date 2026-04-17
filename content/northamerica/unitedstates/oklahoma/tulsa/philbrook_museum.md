@@ -1,10 +1,10 @@
 ---
 address: 2727 S. Rockford Road
-category: Museum
 latitude: 36.1283
 longitude: -95.9624
 tags:
 - things_to_do
+- museum
 title: Philbrook Museum of Art
 type: poi
 ---

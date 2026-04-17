@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 17.2222
 longitude: -89.624
 tags:
 - things_to_do
+- landmark
 title: Temple of the Masks (Temple II)
 type: poi
 ---

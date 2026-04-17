@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 21.1582
 longitude: 94.8636
 story: The temple was built by King Narathu (1167–1170), who seized the throne by
@@ -10,6 +9,7 @@ story: The temple was built by King Narathu (1167–1170), who seized the throne
   interior unusually dark and labyrinthine.
 tags:
 - things_to_do
+- landmark
 title: Dhammayangyi Temple
 type: poi
 ---

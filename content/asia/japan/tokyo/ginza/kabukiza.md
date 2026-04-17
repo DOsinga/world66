@@ -1,10 +1,10 @@
 ---
 address: 4-12-15 Ginza, Chuo-ku
-category: Sight
 latitude: 35.6696
 longitude: 139.7677
 tags:
 - things_to_do
+- landmark
 title: Kabuki-za
 type: poi
 ---

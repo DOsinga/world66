@@ -1,11 +1,11 @@
 ---
 address: Espoz y Mina 23
-category: Museum
 latitude: 41.654695
 longitude: -0.878411
 opening_hours: Tue–Sat 9am–2pm and 6pm–9pm, Sun 11am–2pm
 tags:
 - things_to_do
+- museum
 title: Museo Camón Aznar
 type: poi
 ---

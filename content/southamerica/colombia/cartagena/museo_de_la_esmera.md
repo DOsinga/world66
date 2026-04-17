@@ -1,10 +1,10 @@
 ---
-category: Museum
 email: http://www.caribejewelry.com/
 latitude: 4.60249
 longitude: -74.072419
 tags:
 - things_to_do
+- museum
 title: Museo de la Esmeralda
 type: poi
 ---

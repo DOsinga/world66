@@ -1,9 +1,9 @@
 ---
-category: Beach
 latitude: 13.98097
 longitude: 80.106122
 tags:
 - beaches
+- beach
 title: Thupilipalyem Beach
 type: poi
 ---

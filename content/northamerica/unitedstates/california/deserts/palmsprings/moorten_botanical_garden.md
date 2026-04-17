@@ -1,12 +1,12 @@
 ---
 address: 1701 S. Palm Canyon Drive, Palm Springs, CA 92264
-category: Sight
 latitude: 33.8098
 longitude: -116.5463
 opening_hours: Mon, Tue, Thu–Sat 09:00–16:00; Sun 10:00–16:00; closed Wed
 phone: (760) 327-6555
 tags:
 - things_to_do
+- landmark
 title: Moorten Botanical Garden
 type: poi
 ---

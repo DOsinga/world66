@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 34.0943
 longitude: 74.8056
 tags:
 - things_to_do
+- architecture
 title: Jama Masjid
 type: poi
 ---

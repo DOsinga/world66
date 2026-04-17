@@ -1,6 +1,5 @@
 ---
 address: Havelock Road, Southampton SO14 7FY
-category: Museum
 latitude: 50.9079
 longitude: -1.4083
 story: 'More than 500 of the Titanic''s 899 crew members came from Southampton â€” stokers,
@@ -11,6 +10,7 @@ story: 'More than 500 of the Titanic''s 899 crew members came from Southampton â
   '
 tags:
 - things_to_do
+- museum
 title: SeaCity Museum
 type: poi
 ---

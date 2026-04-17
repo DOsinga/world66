@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 18.0121
 longitude: -66.6131
 tags:
 - things_to_do
+- landmark
 title: Parque de Bombas
 type: poi
 ---

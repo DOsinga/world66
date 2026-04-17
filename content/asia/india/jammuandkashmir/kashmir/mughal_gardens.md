@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 34.1154
 longitude: 74.8832
 story: 'Shalimar Bagh was built by Emperor Jahangir for his wife Nur Jahan in 1619.
@@ -9,6 +8,7 @@ story: 'Shalimar Bagh was built by Emperor Jahangir for his wife Nur Jahan in 16
   '
 tags:
 - things_to_do
+- landmark
 title: Mughal Gardens
 type: poi
 ---

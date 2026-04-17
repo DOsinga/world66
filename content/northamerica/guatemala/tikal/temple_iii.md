@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 17.2228
 longitude: -89.6256
 tags:
 - things_to_do
+- landmark
 title: Temple III
 type: poi
 ---

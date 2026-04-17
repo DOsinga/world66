@@ -1,12 +1,12 @@
 ---
 address: 745 N. Gene Autry Trail, Palm Springs, CA 92262
-category: Museum
 latitude: 33.8336
 longitude: -116.5071
 opening_hours: Daily 10:00–17:00
 phone: (760) 778-6262
 tags:
 - things_to_do
+- museum
 title: Palm Springs Air Museum
 type: poi
 url: https://www.palmspringsairmuseum.org

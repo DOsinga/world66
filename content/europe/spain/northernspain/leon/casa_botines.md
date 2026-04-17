@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 42.5991
 longitude: -5.5714
 story: 'Casa Botines was designed by Antoni Gaudí in 1892, one of only three buildings
@@ -12,6 +11,7 @@ story: 'Casa Botines was designed by Antoni Gaudí in 1892, one of only three bu
   '
 tags:
 - things_to_do
+- architecture
 title: Casa Botines
 type: poi
 ---

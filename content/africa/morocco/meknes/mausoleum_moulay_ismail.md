@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 33.8945
 longitude: -5.557
 story: Moulay Ismail, who ruled Morocco from 1672 to 1727, used 25,000 Christian captives
@@ -8,6 +7,7 @@ story: Moulay Ismail, who ruled Morocco from 1672 to 1727, used 25,000 Christian
   are permitted to enter.
 tags:
 - things_to_do
+- landmark
 title: Mausoleum of Moulay Ismail
 type: poi
 ---

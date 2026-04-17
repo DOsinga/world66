@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 11.2013
 longitude: -74.2248
 tags:
 - things_to_do
+- museum
 title: Acuario y Museo del Mar
 type: poi
 ---

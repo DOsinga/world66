@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 2.446
 longitude: -76.6107
 tags:
 - things_to_do
+- landmark
 title: Morro de Tulcan
 type: poi
 ---

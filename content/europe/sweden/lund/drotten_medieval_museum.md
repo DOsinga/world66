@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.7057
 longitude: 13.1912
 tags:
 - things_to_do
+- museum
 title: Drotten Medieval Museum
 type: poi
 ---

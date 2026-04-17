@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 22.619
 longitude: -83.7421
 story: 'The mural was painted by Leovigildo González Morillo, a student of Diego Rivera,
@@ -10,6 +9,7 @@ story: 'The mural was painted by Leovigildo González Morillo, a student of Dieg
   '
 tags:
 - things_to_do
+- landmark
 title: Mural de la Prehistoria
 type: poi
 ---

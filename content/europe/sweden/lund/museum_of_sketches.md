@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.706
 longitude: 13.1955
 tags:
 - things_to_do
+- museum
 title: Museum of Sketches
 type: poi
 ---

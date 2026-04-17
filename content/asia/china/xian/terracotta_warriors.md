@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 34.3845
 longitude: 109.2734
 tags:
 - things_to_do
+- museum
 title: Terracotta Warriors Museum
 type: poi
 ---

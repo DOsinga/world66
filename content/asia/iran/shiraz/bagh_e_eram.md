@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.6317
 longitude: 52.5182
 tags:
 - things_to_do
+- landmark
 title: Bagh-e Eram
 type: poi
 ---

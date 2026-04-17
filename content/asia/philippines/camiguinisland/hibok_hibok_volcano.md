@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 9.2028
 longitude: 124.6733
 tags:
 - things_to_do
+- landmark
 title: Mt Hibok-Hibok
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Mittlere Strasse 17
-category: Museum
 latitude: 47.560367
 longitude: 7.579261
 opening_hours: Tue–Sun 10am–5pm
 tags:
 - things_to_do
+- museum
 title: Skulpturhalle Basel
 type: poi
 ---

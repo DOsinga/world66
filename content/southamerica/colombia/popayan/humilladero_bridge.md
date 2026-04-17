@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 2.4395
 longitude: -76.6089
 tags:
 - things_to_do
+- landmark
 title: Humilladero Bridge
 type: poi
 ---

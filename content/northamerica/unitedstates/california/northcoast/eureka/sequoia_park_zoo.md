@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 40.7936
 longitude: -124.1534
 tags:
 - things_to_do
+- landmark
 title: Sequoia Park Zoo
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.9545
 longitude: 130.9424
 tags:
 - things_to_do
+- landmark
 title: Kaikyo-kan Aquarium
 type: poi
 ---

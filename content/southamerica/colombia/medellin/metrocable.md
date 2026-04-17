@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 6.293611
 longitude: -75.55
 tags:
 - things_to_do
+- landmark
 title: Metrocable
 type: poi
 ---

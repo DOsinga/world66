@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 15.3423
 longitude: 76.4755
 opening_hours: 08:30-18:30
 tags:
 - things_to_do
+- landmark
 title: Vittala Temple
 type: poi
 ---

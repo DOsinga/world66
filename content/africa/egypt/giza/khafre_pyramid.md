@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.9761
 longitude: 31.1308
 tags:
 - things_to_do
+- landmark
 title: Pyramid of Khafre
 type: poi
 ---

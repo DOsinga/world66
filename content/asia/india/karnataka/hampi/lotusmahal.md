@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 15.3203
 longitude: 76.4714
 tags:
 - things_to_do
+- architecture
 title: Lotus Mahal
 type: poi
 ---

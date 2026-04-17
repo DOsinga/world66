@@ -1,12 +1,12 @@
 ---
 address: 101 Museum Drive, Palm Springs, CA 92262
-category: Museum
 latitude: 33.8288
 longitude: -116.5479
 opening_hours: Tue–Sun 10:00–17:00; Thu until 20:00; closed Mon
 phone: (760) 325-0189
 tags:
 - things_to_do
+- museum
 title: Palm Springs Art Museum
 type: poi
 url: https://www.psmuseum.org

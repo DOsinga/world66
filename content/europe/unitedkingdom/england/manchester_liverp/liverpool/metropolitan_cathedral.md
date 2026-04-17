@@ -1,10 +1,10 @@
 ---
 address: Mount Pleasant, Liverpool, L3 5TQ
-category: Sight
 latitude: 53.4046
 longitude: -2.9688
 tags:
 - things_to_do
+- landmark
 title: Metropolitan Cathedral
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.7172
 longitude: -108.4339
 tags:
 - things_to_do
+- landmark
 title: Pictograph Caves State Park
 type: poi
 ---

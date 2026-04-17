@@ -1,7 +1,7 @@
 ---
-category: Beach
 tags:
 - beaches
+- beach
 title: Mypadu Beach
 type: poi
 ---

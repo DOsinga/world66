@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.9753
 longitude: 31.1376
 tags:
 - things_to_do
+- landmark
 title: Great Sphinx
 type: poi
 ---

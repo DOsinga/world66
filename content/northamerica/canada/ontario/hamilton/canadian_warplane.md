@@ -1,11 +1,11 @@
 ---
 address: 9280 Airport Road, Mount Hope, ON
-category: Museum
 latitude: 43.1598
 longitude: -79.9249
 phone: (905) 679-4183
 tags:
 - things_to_do
+- museum
 title: Canadian Warplane Heritage Museum
 type: poi
 url: www.warplane.com

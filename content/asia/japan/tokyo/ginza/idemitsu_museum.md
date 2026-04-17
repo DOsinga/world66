@@ -1,10 +1,10 @@
 ---
 address: Teigeki Building 9F, 3-1-1 Marunouchi, Chiyoda-ku
-category: Museum
 latitude: 35.6751
 longitude: 139.7614
 tags:
 - things_to_do
+- museum
 title: Idemitsu Museum of Arts
 type: poi
 ---

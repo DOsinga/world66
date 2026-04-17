@@ -1,11 +1,11 @@
 ---
 address: 1003 East Highland Avenue, San Bernardino
-category: Museum
 latitude: 34.135813
 longitude: -117.266153
 phone: 909-881-6514
 tags:
 - things_to_do
+- museum
 title: A Special Place Children's Museum
 type: poi
 ---

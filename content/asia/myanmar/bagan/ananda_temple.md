@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 21.1722
 longitude: 94.8597
 tags:
 - things_to_do
+- landmark
 title: Ananda Temple
 type: poi
 ---

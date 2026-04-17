@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 37.0066
 longitude: -117.3298
 story: The 'castle' was actually built by Chicago millionaire Albert Johnson, not
@@ -9,6 +8,7 @@ story: The 'castle' was actually built by Chicago millionaire Albert Johnson, no
   with Scott for the rest of his life. Scott let everyone assume it was his.
 tags:
 - things_to_do
+- architecture
 title: Scotty's Castle
 type: poi
 ---

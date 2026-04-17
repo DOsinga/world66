@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.0145
 longitude: 75.3285
 tags:
 - things_to_do
+- landmark
 title: Pahalgam Trekking
 type: poi
 ---

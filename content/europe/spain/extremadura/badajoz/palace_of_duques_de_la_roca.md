@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 38.8822
 longitude: -6.971
 tags:
 - things_to_do
+- museum
 title: Palace of the Dukes of La Roca
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.3131
 longitude: -116.8044
 tags:
 - things_to_do
+- landmark
 title: Artist's Drive
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Kornhausgasse 8, Basel
-category: Museum
 latitude: 47.5589
 longitude: 7.5872
 tags:
 - things_to_do
+- museum
 title: Jewish Museum of Switzerland
 type: poi
 ---

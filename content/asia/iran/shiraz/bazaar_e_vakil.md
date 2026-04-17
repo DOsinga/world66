@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.6093
 longitude: 52.5424
 tags:
 - things_to_do
+- landmark
 title: Bazaar-e Vakil
 type: poi
 ---

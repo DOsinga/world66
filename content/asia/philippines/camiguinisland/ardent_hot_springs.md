@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 9.1894
 longitude: 124.7097
 tags:
 - things_to_do
+- landmark
 title: Ardent Hot Springs
 type: poi
 ---

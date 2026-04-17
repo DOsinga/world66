@@ -1,10 +1,10 @@
 ---
 address: Lake Victoria, Bukoba, Tanzania
-category: Sight
 latitude: -1.322
 longitude: 31.801
 tags:
 - things_to_do
+- landmark
 title: Musira Island
 type: poi
 ---

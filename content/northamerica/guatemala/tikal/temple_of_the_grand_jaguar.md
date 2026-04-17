@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 17.2221
 longitude: -89.6237
 tags:
 - things_to_do
+- landmark
 title: Temple of the Grand Jaguar (Temple I)
 type: poi
 ---

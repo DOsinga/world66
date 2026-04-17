@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 42.5996
 longitude: -5.5804
 tags:
 - things_to_do
+- architecture
 title: Hostal San Marcos
 type: poi
 ---

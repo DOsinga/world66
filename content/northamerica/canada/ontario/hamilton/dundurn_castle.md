@@ -1,11 +1,11 @@
 ---
 address: 610 York Blvd., Hamilton, ON
-category: Sight
 latitude: 43.2695
 longitude: -79.8842
 phone: 905-546-2872
 tags:
 - things_to_do
+- landmark
 title: Dundurn Castle
 type: poi
 ---

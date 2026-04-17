@@ -1,11 +1,11 @@
 ---
 address: 562 West 4th Street, San Bernardino
-category: Architecture
 latitude: 34.106785
 longitude: -117.295468
 phone: 909-885-5152
 tags:
 - things_to_do
+- architecture
 title: California Theatre of the Performing Arts
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 22.1977
 longitude: 113.5415
 tags:
 - things_to_do
+- landmark
 title: Ruins of São Paulo
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 18.0123
 longitude: -66.6133
 tags:
 - things_to_do
+- landmark
 title: Plaza las Delicias
 type: poi
 ---

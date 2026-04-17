@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 53.7789
 longitude: -1.7514
 tags:
 - things_to_do
+- museum
 title: Bolling Hall
 type: poi
 ---

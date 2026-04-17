@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 2.4413
 longitude: -76.6058
 tags:
 - things_to_do
+- landmark
 title: Church of San Francisco
 type: poi
 ---

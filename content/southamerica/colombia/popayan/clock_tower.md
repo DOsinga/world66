@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 2.442
 longitude: -76.6069
 tags:
 - things_to_do
+- landmark
 title: Clock Tower
 type: poi
 ---

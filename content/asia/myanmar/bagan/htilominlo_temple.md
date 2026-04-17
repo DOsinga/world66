@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 21.181
 longitude: 94.8686
 tags:
 - things_to_do
+- landmark
 title: Htilominlo Temple
 type: poi
 ---

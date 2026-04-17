@@ -1,10 +1,10 @@
 ---
 address: Plaza de San Juan, s/n
-category: Sight
 latitude: 38.8788
 longitude: -6.97
 tags:
 - things_to_do
+- landmark
 title: Cathedral of Saint John
 type: poi
 ---

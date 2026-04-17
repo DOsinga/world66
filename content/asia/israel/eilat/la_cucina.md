@@ -1,6 +1,5 @@
 ---
 address: Royal Beach promenade
-category: Restaurant
 cuisine: Italian
 latitude: 29.553
 longitude: 34.95
@@ -9,6 +8,7 @@ phone: 972-8-6368932
 price: 130-180 NIS
 tags:
 - eating_out
+- restaurant
 title: La Cucina
 type: poi
 ---

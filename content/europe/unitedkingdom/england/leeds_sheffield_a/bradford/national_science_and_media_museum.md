@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 53.7929
 longitude: -1.7534
 tags:
 - things_to_do
+- museum
 title: National Science and Media Museum
 type: poi
 ---

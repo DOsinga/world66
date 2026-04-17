@@ -1,10 +1,10 @@
 ---
 address: Thiksey, Leh District, Ladakh
-category: Sight
 latitude: 34.064
 longitude: 77.6669
 tags:
 - things_to_do
+- landmark
 title: Thiksey Monastery
 type: poi
 ---

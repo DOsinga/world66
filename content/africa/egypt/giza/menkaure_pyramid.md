@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.9724
 longitude: 31.1284
 tags:
 - things_to_do
+- landmark
 title: Pyramid of Menkaure
 type: poi
 ---

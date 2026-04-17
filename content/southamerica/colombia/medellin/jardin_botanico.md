@@ -1,10 +1,10 @@
 ---
 address: Calle 73 No. 51D-14
-category: Sight
 latitude: 6.271133
 longitude: -75.562461
 tags:
 - things_to_do
+- landmark
 title: Jardin Botanico
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 33.8942
 longitude: -5.5523
 tags:
 - things_to_do
+- architecture
 title: Bab Mansour
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 53.8361
 longitude: -1.7893
 tags:
 - things_to_do
+- architecture
 title: Salts Mill, Saltaire
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 41.6562
 longitude: -0.8763
 tags:
 - things_to_do
+- architecture
 title: Catedral de la Seo
 type: poi
 ---

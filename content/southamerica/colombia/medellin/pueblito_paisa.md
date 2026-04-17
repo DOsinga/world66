@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 6.240833
 longitude: -75.583611
 tags:
 - things_to_do
+- landmark
 title: Pueblito Paisa
 type: poi
 ---

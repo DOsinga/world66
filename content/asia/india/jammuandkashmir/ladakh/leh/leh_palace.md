@@ -1,10 +1,10 @@
 ---
 address: Old Town, Leh, Ladakh
-category: Sight
 latitude: 34.1659
 longitude: 77.5862
 tags:
 - things_to_do
+- landmark
 title: Leh Palace
 type: poi
 ---

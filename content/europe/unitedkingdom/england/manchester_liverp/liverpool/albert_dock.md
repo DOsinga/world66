@@ -1,10 +1,10 @@
 ---
 address: Albert Dock, Liverpool, L3 4AA
-category: Sight
 latitude: 53.3997
 longitude: -2.9919
 tags:
 - things_to_do
+- landmark
 title: Albert Dock
 type: poi
 ---

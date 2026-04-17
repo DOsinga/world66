@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 22.1457
 longitude: 113.5593
 tags:
 - things_to_do
+- neighbourhood
 title: Cotai Strip
 type: poi
 ---

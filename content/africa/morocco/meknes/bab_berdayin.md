@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 33.8945
 longitude: -5.5601
 tags:
 - things_to_do
+- architecture
 title: Bab Berdayin
 type: poi
 ---

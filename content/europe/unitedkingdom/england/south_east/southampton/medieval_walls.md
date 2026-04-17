@@ -1,10 +1,10 @@
 ---
 address: Western Esplanade, Southampton
-category: Architecture
 latitude: 50.8985
 longitude: -1.4078
 tags:
 - things_to_do
+- architecture
 title: Medieval Town Walls
 type: poi
 ---

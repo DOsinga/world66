@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 11.992
 longitude: 8.519
 story: 'The palace, known as Gidan Rumfa, was built in the late 15th century by Emir
@@ -10,6 +9,7 @@ story: 'The palace, known as Gidan Rumfa, was built in the late 15th century by 
   '
 tags:
 - things_to_do
+- architecture
 title: Emir's Palace
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 38.8762
 longitude: -6.9713
 tags:
 - things_to_do
+- museum
 title: MEIAC
 type: poi
 ---

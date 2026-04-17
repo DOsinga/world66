@@ -1,7 +1,7 @@
 ---
-category: Beach
 tags:
 - beaches
+- beach
 title: Katepalli Beach
 type: poi
 ---

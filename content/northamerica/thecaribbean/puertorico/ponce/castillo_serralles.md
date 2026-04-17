@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 18.017
 longitude: -66.6175
 tags:
 - things_to_do
+- museum
 title: Castillo Serrallés
 type: poi
 ---

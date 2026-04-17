@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 11.235
 longitude: -74.2119
 tags:
 - things_to_do
+- museum
 title: Quinta de San Pedro Alejandrino
 type: poi
 ---

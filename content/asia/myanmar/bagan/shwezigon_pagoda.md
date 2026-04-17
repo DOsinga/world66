@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 21.1877
 longitude: 94.8759
 story: King Anawrahta is said to have placed a sacred tooth relic of the Buddha on
@@ -8,6 +7,7 @@ story: King Anawrahta is said to have placed a sacred tooth relic of the Buddha 
   here, at what is now Nyaung-U.
 tags:
 - things_to_do
+- landmark
 title: Shwezigon Pagoda
 type: poi
 ---

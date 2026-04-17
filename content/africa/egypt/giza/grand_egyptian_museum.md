@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 29.9937
 longitude: 31.1196
 tags:
 - things_to_do
+- museum
 title: Grand Egyptian Museum
 type: poi
 ---

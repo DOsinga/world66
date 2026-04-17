@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 42.2379
 longitude: -8.7251
 tags:
 - things_to_do
+- landmark
 title: Porta do Sol
 type: poi
 ---

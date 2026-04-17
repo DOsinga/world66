@@ -1,10 +1,10 @@
 ---
 address: Bugle Street, Southampton SO14 2AD
-category: Museum
 latitude: 50.8998
 longitude: -1.4061
 tags:
 - things_to_do
+- museum
 title: Tudor House and Garden
 type: poi
 ---

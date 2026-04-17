@@ -1,10 +1,10 @@
 ---
 address: 393 Old Commercial Road
-category: Museum
 latitude: 50.8067
 longitude: -1.0867
 tags:
 - things_to_do
+- museum
 title: Charles Dickens' Birthplace
 type: poi
 ---

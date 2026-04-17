@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 42.23
 longitude: -8.7239
 story: The Celtic castro at the hill's summit was occupied from the Iron Age through
@@ -8,6 +7,7 @@ story: The Celtic castro at the hill's summit was occupied from the Iron Age thr
   a thousand years before the medieval fortress was built on the same commanding height.
 tags:
 - things_to_do
+- landmark
 title: O Castro Hill and Fortress
 type: poi
 ---

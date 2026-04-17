@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 22.6189
 longitude: -83.7069
 tags:
 - things_to_do
+- architecture
 title: Casa de la Cultura
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 6.210556
 longitude: -75.568333
 tags:
 - things_to_do
+- neighbourhood
 title: El Poblado
 type: poi
 ---

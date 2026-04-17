@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.977
 longitude: 130.9618
 tags:
 - things_to_do
+- landmark
 title: Kozanji Temple
 type: poi
 ---

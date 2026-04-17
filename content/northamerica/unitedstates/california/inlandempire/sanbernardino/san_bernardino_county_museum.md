@@ -1,11 +1,11 @@
 ---
 address: 2024 Orange Tree Lane, Redlands, California 92374
-category: Museum
 latitude: 34.068221
 longitude: -117.222693
 phone: 909-307-2669
 tags:
 - things_to_do
+- museum
 title: San Bernardino County Museum
 type: poi
 url: www.co.san-bernardino.ca.us

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 50.8361
 longitude: -1.1153
 tags:
 - things_to_do
+- landmark
 title: Portchester Castle
 type: poi
 ---

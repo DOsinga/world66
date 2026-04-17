@@ -1,12 +1,12 @@
 ---
 address: 47-900 Portola Avenue, Palm Desert, CA 92260
-category: Sight
 latitude: 33.7373
 longitude: -116.3676
 opening_hours: Daily 09:00–17:00 (last entry 16:00)
 phone: (760) 346-5694
 tags:
 - things_to_do
+- landmark
 title: The Living Desert Zoo and Gardens
 type: poi
 url: https://www.livingdesert.org

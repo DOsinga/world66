@@ -1,11 +1,11 @@
 ---
 address: Parque de Castrelos, Vigo
-category: Museum
 latitude: 42.2133
 longitude: -8.7296
 phone: (986) 295070
 tags:
 - things_to_do
+- museum
 title: Municipal Museum (Quiñones de León)
 type: poi
 ---

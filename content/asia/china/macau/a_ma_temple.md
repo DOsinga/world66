@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 22.1866
 longitude: 113.5316
 tags:
 - things_to_do
+- landmark
 title: A-Ma Temple
 type: poi
 ---

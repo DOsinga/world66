@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 33.9567
 longitude: 130.9431
 tags:
 - things_to_do
+- architecture
 title: Shimonoseki Nabecho Post Office
 type: poi
 ---

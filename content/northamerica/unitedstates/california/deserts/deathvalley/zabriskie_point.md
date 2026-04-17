@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 36.4197
 longitude: -116.8124
 story: Michelangelo Antonioni chose this spot for the climactic scene of his 1970
@@ -8,6 +7,7 @@ story: Michelangelo Antonioni chose this spot for the climactic scene of his 197
   filmed nearby — but the overlook itself became famous for the name.
 tags:
 - things_to_do
+- landmark
 title: Zabriskie Point
 type: poi
 ---

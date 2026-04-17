@@ -1,10 +1,10 @@
 ---
 address: Carrera 52 No. 52-43
-category: Museum
 latitude: 6.252093
 longitude: -75.568925
 tags:
 - things_to_do
+- museum
 title: Museo de Antioquia
 type: poi
 ---

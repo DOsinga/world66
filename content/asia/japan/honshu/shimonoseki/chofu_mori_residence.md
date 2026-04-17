@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 33.9961
 longitude: 130.9891
 tags:
 - things_to_do
+- architecture
 title: Chofu Mori Residence
 type: poi
 ---

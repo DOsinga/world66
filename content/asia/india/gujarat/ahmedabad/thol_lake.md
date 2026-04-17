@@ -1,11 +1,11 @@
 ---
-category: Sight
 done:
   location_cleanup: '2026-04-09'
 latitude: 23.1917
 longitude: 72.4667
 tags:
 - things_to_do
+- landmark
 title: Thol Lake Bird Sanctuary
 type: poi
 ---

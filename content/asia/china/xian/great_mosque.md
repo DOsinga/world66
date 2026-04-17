@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.2654
 longitude: 108.9385
 tags:
 - things_to_do
+- landmark
 title: Great Mosque
 type: poi
 ---

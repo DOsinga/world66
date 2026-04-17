@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 17.2268
 longitude: -89.6114
 tags:
 - things_to_do
+- museum
 title: Tikal Museum (Sylvanus G. Morley Museum)
 type: poi
 ---

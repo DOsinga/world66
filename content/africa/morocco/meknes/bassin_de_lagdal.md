@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.884
 longitude: -5.549
 tags:
 - things_to_do
+- landmark
 title: Bassin de l'Agdal
 type: poi
 ---

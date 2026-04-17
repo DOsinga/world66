@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 15.3211
 longitude: 76.4728
 tags:
 - things_to_do
+- architecture
 title: Elephant Stables
 type: poi
 ---

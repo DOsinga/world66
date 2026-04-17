@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 15.3352
 longitude: 76.4601
 tags:
 - things_to_do
+- landmark
 title: Virupaksha Temple
 type: poi
 ---

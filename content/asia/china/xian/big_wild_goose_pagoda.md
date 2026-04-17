@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.2235
 longitude: 108.9598
 tags:
 - things_to_do
+- landmark
 title: Big Wild Goose Pagoda
 type: poi
 ---

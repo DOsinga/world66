@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 11.2452
 longitude: -74.2003
 tags:
 - things_to_do
+- museum
 title: Museo del Oro
 type: poi
 ---

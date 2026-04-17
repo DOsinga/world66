@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.049
 longitude: 74.3921
 tags:
 - things_to_do
+- landmark
 title: Gulmarg Gondola
 type: poi
 ---

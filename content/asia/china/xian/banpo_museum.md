@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 34.274
 longitude: 109.048
 tags:
 - things_to_do
+- museum
 title: Banpo Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 55.7078
 longitude: 13.2008
 tags:
 - things_to_do
+- museum
 title: Museum of Classical Antiquities
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 22.6694
 longitude: -83.7073
 tags:
 - things_to_do
+- landmark
 title: Cueva del Indio
 type: poi
 ---

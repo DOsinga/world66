@@ -1,10 +1,10 @@
 ---
 address: 1400 N. Gilcrease Museum Road
-category: Museum
 latitude: 36.1847
 longitude: -96.0261
 tags:
 - things_to_do
+- museum
 title: Gilcrease Museum
 type: poi
 ---

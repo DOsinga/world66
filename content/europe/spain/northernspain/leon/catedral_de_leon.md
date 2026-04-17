@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 42.6008
 longitude: -5.5706
 tags:
 - things_to_do
+- architecture
 title: Catedral de León
 type: poi
 ---

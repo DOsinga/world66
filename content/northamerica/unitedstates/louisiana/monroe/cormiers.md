@@ -1,6 +1,7 @@
 ---
 title: "Cormier's Cajun"
 type: poi
+tags: [eating_out, restaurant, cajun]
 address: "Forsythe Ave, Monroe, LA"
 price: "$6 to $15"
 latitude: 32.51

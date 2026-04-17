@@ -1,7 +1,7 @@
 ---
 title: "Mandala Wisata Wenara Wana"
 type: poi
-category: "Sight"
+tags: [things_to_do]
 address: "Jalan Monkey Forest, Padangtegal, Ubud"
 phone: "+62 361 971304"
 latitude: -8.5187

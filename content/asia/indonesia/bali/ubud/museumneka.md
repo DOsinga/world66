@@ -1,7 +1,7 @@
 ---
 title: "Museum Neka"
 type: poi
-category: "Museum"
+tags: [things_to_do]
 latitude: -8.4918
 longitude: 115.2536
 ---

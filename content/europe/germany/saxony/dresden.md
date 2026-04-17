@@ -1,11 +1,12 @@
 ---
-title: Dresden
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 51.049329
 longitude: 13.738144
-done:
-  location_cleanup: 2026-04-05
 score: 0.71
+title: Dresden
+type: location
 ---
 
 “Florence of the North” is how Dresden has been called. A southern city in the North, a Baroque metropolis. The city experienced its golden age in the first half of the 18th century under the rule of Augustus the Strong, Elector of Saxony and King of Poland. The Zwinger, the cathedral, the Baroque Königstraße, Pillnitz Palace and not least the countless art treasures of the museums and priceless wealth of the "Green Vault" treasure chamber all testify to this era.

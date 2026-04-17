@@ -1,7 +1,7 @@
 ---
 title: "Quinta da Regaleira"
 type: poi
-category: Architecture
+tags: [things_to_do, sight]
 latitude: 38.7966
 longitude: -9.3964
 ---

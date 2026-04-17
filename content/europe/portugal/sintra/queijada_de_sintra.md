@@ -1,7 +1,7 @@
 ---
 title: "Queijada de Sintra"
 type: poi
-type: "Portuguese"
+tags: [eating_out, restaurant]
 ---
 
 ******Sintra’s Traditional Cakes**
@@ -19,5 +19,3 @@ Source: *Queijadas de Sintra, história de um doce regional*, by Raquel Moreira.
 
 **Contributors**
 July 13, 2005
-
-type: Portuguese

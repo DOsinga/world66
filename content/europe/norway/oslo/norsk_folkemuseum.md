@@ -1,12 +1,13 @@
 ---
-title: "Norsk Folkemuseum"
-type: poi
-address: "Museumveien 10, Bygdøy"
-email: "nf@norskfolkemuseum.no"
-opening_hours: "10-18 summer, 11-15 winter"
-phone: "(+47) 22 12 37 00"
-type: "Museums"
-zipcode: "www.norskfolkemuseum.no"
+address: Museumveien 10, Bygdøy
+email: nf@norskfolkemuseum.no
+opening_hours: 10-18 summer, 11-15 winter
+phone: (+47) 22 12 37 00
+tags:
+- things_to_do
+title: Norsk Folkemuseum
+type: Museums
+zipcode: www.norskfolkemuseum.no
 ---
 
 This museum, like the Viking Ships, Kontiki, Fram and Maritime Museums is on the Bygdøy peninsula which can be reached by boat from near the Town Hall or by bus.

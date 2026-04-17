@@ -1,11 +1,12 @@
 ---
-title: "The Vigeland Park"
-type: poi
-address: "Postboks 1453 Vika"
-opening_hours: "24h"
-phone: "+ 47 23 49 37 00"
-type: "Parks, Gardens and Zoos"
-url: "www.museumsnett.no"
+address: Postboks 1453 Vika
+opening_hours: 24h
+phone: + 47 23 49 37 00
+tags:
+- things_to_do
+title: The Vigeland Park
+type: Parks, Gardens and Zoos
+url: www.museumsnett.no
 ---
 
 The Vigeland Park includes a great number of Gustav Vigeland's works. Here are 212 sculptures in bronze and granite and several wrought iron gates. Vigeland modelled all his sculptures in full size without any assistance of pupils or other artists.

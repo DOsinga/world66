@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: -3.3188
 longitude: 114.5926
+score: 0.42
 title: Banjarmasin
 type: location
-score: 0.42
 ---
 
 Banjarmasin is built on water. The capital of South Kalimantan sits at the confluence of the Barito and Martapura rivers, and much of daily life still happens on those waterways — people travel by boat, buy their vegetables from floating vendors, and build their homes on stilts above the current. It is one of the few cities in Borneo where the river culture feels genuinely alive rather than performed for tourists.

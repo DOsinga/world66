@@ -1,7 +1,7 @@
 ---
 title: "Royal Tombs"
 type: poi
-category: "Sight"
+tags: [things_to_do, historic_site, royalty, monument]
 latitude: -21.1359
 longitude: -175.2041
 ---

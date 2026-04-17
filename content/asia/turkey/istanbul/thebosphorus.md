@@ -1,15 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+image: thebosphorus.jpg
+image_attribution: Ank Kumar
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge(15_July_Martyrs_Bridge),_Istanbul,_Turkey_(Ank_Kumar)_01.jpg
 latitude: 41.033229
 longitude: 29.02646
+score: 0.85
 title: The Bosphorus
 type: location
-score: 0.85
-image: thebosphorus.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge(15_July_Martyrs_Bridge),_Istanbul,_Turkey_(Ank_Kumar)_01.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Ank Kumar
 ---
 
 The Bosphorus is the strait that separates Europe from Asia, and a trip along its shores is one of the essential Istanbul experiences. Both sides of the channel are lined with old Ottoman wooden villas, 19th-century palaces, and waterside restaurants where you can watch tankers and ferries glide past.

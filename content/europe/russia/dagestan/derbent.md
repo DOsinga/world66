@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-07'
 latitude: 42.0579
 longitude: 48.2888
+score: 0.49
 title: Derbent
 type: location
-score: 0.49
 ---
 
 Derbent is arguably the oldest city in Russia, wedged onto a narrow three-kilometre strip of land between the Caspian Sea and the Caucasus mountains. That geography made it the key to controlling movement between south-eastern Europe and the Middle East for millennia, and every empire that wanted the Caucasus came here first — Sassanids, Arabs, Khazars, Mongols, Persians, and Russians all left their mark. The result is a city that wears its history openly, in the form of massive ancient walls, a well-preserved citadel, and a layered cultural identity that mixes Russian, Azerbaijani, Lezgin, and Tabasaran influences.

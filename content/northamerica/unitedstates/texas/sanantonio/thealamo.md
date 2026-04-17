@@ -1,7 +1,9 @@
 ---
 title: 'The Alamo'
 type: poi
-category: 'history'
+tags:
+  - things_to_do
+  - historic_site
 address: '300 Alamo Plaza, San Antonio, TX 78205'
 latitude: 29.4260
 longitude: -98.4861

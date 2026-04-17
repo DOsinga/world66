@@ -1,5 +1,7 @@
 ---
-title: "Catarata de Ahuashiyacu"
+tags:
+- day_trips
+title: Catarata de Ahuashiyacu
 type: poi
 ---
 

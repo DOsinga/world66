@@ -1,11 +1,12 @@
 ---
-title: "El Brassero"
-type: poi
-accessibility: "Not wheelchair accessible.  Parking on the street."
-address: "Jr. San Pablo de la Cruz #254"
-phone: "(042) 52-2700"
-price: "Cheap"
-type: "International"
+accessibility: Not wheelchair accessible.  Parking on the street.
+address: 'Jr. San Pablo de la Cruz #254'
+phone: (042) 52-2700
+price: Cheap
+tags:
+- eating_out
+title: El Brassero
+type: International
 ---
 
 El Brassero is a small restaurant just a block and a half up the street from the Plaza de Armas -- located on the right hand side of the street at Jr. San Pablo de la Cruz #254.

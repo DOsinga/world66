@@ -1,11 +1,13 @@
 ---
-title: "Chifa Cam-Lu"
-type: poi
-accessibility: "Wheelchair accessible.  Parking on street difficult, but easy access by foot.  One block from Plaza de Armas"
-address: "Jr. Alagria Arias de Morey #139"
-phone: "(042) 52-3004"
-price: "Cheap lunch.  Inexpensive dinner."
-type: "Chinese"
+accessibility: Wheelchair accessible.  Parking on street difficult, but easy access
+  by foot.  One block from Plaza de Armas
+address: 'Jr. Alagria Arias de Morey #139'
+phone: (042) 52-3004
+price: Cheap lunch.  Inexpensive dinner.
+tags:
+- eating_out
+title: Chifa Cam-Lu
+type: Chinese
 ---
 
 Chifa Cam-Lu is a fairly new restaurant located at Jr. Alegria Arias de Morey #139. But it's owners are not new to the Chinese food business with their restaurant Chifa Central. Chifa Cam-Lu has a couple of televisions for customers who want to catch the soccer game. And there is good seating for groups. The decor is rather lacking, but the price is cheap.

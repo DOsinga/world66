@@ -1,6 +1,7 @@
 ---
 title: "Hat Pakmeng"
 type: poi
+tags: [beaches, beach]
 latitude: 7.4870
 longitude: 99.2850
 ---

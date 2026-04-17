@@ -1,7 +1,10 @@
 ---
 title: "Kanchenjunga Falls"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - waterfall
+  - nature
 latitude: 27.2940
 longitude: 88.2290
 ---

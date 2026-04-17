@@ -1,7 +1,10 @@
 ---
 title: "Pemayangtse Monastery"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - monastery
+  - religious_site
 latitude: 27.3148
 longitude: 88.2245
 ---

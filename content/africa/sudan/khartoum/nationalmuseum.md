@@ -1,9 +1,11 @@
 ---
-title: "National Museum"
-type: poi
-category: "Museum"
 latitude: 15.6061
 longitude: 32.5083
+tags:
+- things_to_do
+- museum
+title: National Museum
+type: poi
 ---
 
 The Sudan National Museum is Khartoum's standout attraction. Its collection spans several thousand years of Sudanese history, from prehistoric tools through the ancient kingdom of Kush to the Christian and Islamic periods. The highlights are the Kushite antiquities — glassware, pottery, statuary, and figurines from a civilization that rivalled Egypt in power and sophistication.

@@ -1,5 +1,5 @@
 ---
-category: Museum
+tags: [things_to_do, museum]
 latitude: 41.98717
 longitude: 44.11367
 title: Stalin Museum

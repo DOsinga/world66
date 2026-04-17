@@ -1,7 +1,9 @@
 ---
 title: "Mesa Arch"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: 38.3697
 longitude: -109.8653
 ---

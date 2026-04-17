@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 14.812093
 longitude: 74.131923
+score: 0.5
 title: Karwar
 type: location
-score: 0.5
 ---
 
 Karwar sits at the mouth of the Kali River where it meets the Arabian Sea, a small port town on Karnataka's northern coast that has been a crossroads of trade and culture for centuries. Arabs, Dutch, Portuguese, French, and British all left their mark here, and the town's layered history gives it a character that goes well beyond its modest size.

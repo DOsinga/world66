@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 33.3316
 longitude: -105.6731
+score: 0.46
 title: Ruidoso
 type: location
-score: 0.46
 ---
 
 Ruidoso is a mountain resort town tucked into the Sacramento Mountains of southern New Mexico at around 6,900 feet — high enough to offer genuine alpine scenery and cool summers in a state more associated with scorching desert. The town sits on the edge of the Mescalero Apache Reservation, and the surrounding Lincoln National Forest makes it a natural base for hiking, mountain biking, and fly fishing in the Rio Ruidoso.

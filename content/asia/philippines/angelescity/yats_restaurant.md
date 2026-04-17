@@ -1,6 +1,11 @@
 ---
 title: "Yats Restaurant & Wine Bar"
 type: poi
+tags:
+  - eating_out
+  - restaurant
+  - bar
+  - fine_dining
 address: "Mimosa Drive, Mimosa Leisure Estate, Clark Freeport, Pampanga"
 phone: "(045) 599-5600"
 url: "http://www.YatsRestaurant.com"

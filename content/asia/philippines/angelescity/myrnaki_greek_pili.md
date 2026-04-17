@@ -1,6 +1,11 @@
 ---
 title: "Myrnaki Greek-Filipino Restaurant"
 type: poi
+tags:
+  - eating_out
+  - restaurant
+  - greek
+  - filipino
 address: "Mt. Makiling Street, Balibago, Angeles City"
 phone: "0918-574-5745"
 url: "http://www.myrnaki.com"

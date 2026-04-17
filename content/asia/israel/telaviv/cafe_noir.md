@@ -1,7 +1,13 @@
 ---
 title: "Cafe Noir"
 type: poi
+tags:
+  - bars_and_cafes
+  - cafe
+  - bar
 address: "Echad Ha'am 43 (corner of Nachmani)"
+latitude: 32.0625
+longitude: 34.7742
 ---
 
 This place is also a cafe during the morning, later on more like a restaurant, and late at night it's more of a bar.
@@ -12,9 +18,3 @@ All in all, a great place, at any time of day.
 
 **Contributors**
 July 17, 2006
-
-
-
-
-
-address: Echad Ha'am 43 (corner of Nachmani)

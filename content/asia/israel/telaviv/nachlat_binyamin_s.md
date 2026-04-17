@@ -1,7 +1,12 @@
 ---
 title: "Nachlat Binyamin street bars"
 type: poi
+tags:
+  - bars_and_cafes
+  - bar
 address: "Nachlat Binyamin street"
+latitude: 32.0661
+longitude: 34.7733
 ---
 
 Many people know the Nachlat Binyamin pedestrian alley, with it's artesanel market. Not many know the street called Nachlat Binyamin. Just of the pedestrian alley, the street with the same name begins.
@@ -16,7 +21,3 @@ Here are some of the places:
 
 **Contributors**
 August 12, 2006
-
-
-
-address: Nachlat Binyamin street

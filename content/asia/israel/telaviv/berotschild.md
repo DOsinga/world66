@@ -1,7 +1,12 @@
 ---
 title: "Be'Rotschild"
 type: poi
+tags:
+  - bars_and_cafes
+  - cafe
 address: "Rotschild avenue between Maze and Nachmani streets"
+latitude: 32.0646
+longitude: 34.7748
 ---
 
 This cafe in the middle of Rotschild avenue is currently the trendiest place in Tel Aviv. 50 meters away along the avenue is the Mitacht Laetz cafe which is very similar.
@@ -9,7 +14,3 @@ They have various types of good coffee, sandwiches and salads.This is not the po
 
 **Contributors**
 July 17, 2006
-
-
-
-address: Rotschild avenue between Maze and Nachmani streets

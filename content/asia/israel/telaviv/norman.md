@@ -1,7 +1,12 @@
 ---
 title: "Norman"
 type: poi
+tags:
+  - bars_and_cafes
+  - bar
 address: "Hilel Hazeken street"
+latitude: 32.0666
+longitude: 34.7729
 ---
 
 A small and very cozy bar. It always feels at home at the Norman. They have at least 5 different draught beers, and lots of whiskeys. It has good music that includes jazz, blues and rock.
@@ -9,9 +14,3 @@ The biggest advantage is also the disadvantage: It's small which makes it warm a
 
 **Contributors**
 July 18, 2006
-
-
-
-
-
-address: Hilel Hazeken street

@@ -1,7 +1,11 @@
 ---
 title: "Mahanandi Temple"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - temple
+  - hindu
+  - sight
 latitude: 15.3533
 longitude: 78.5328
 ---

@@ -1,7 +1,11 @@
 ---
 title: "Belum Caves"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - cave
+  - nature
+  - sight
 latitude: 15.1333
 longitude: 78.1833
 ---

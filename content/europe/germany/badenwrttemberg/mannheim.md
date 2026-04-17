@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: 49.4875
 longitude: 8.466
+score: 0.46
 title: Mannheim
 type: location
-score: 0.46
 ---
 
 Mannheim is one of the few European cities built on a grid. When the Palatinate Elector Friedrich IV founded it in 1606, the streets were laid out in neat squares, and the blocks were given letter-number coordinates instead of names — you navigate by quadrant, not by street. The palace is in A1, the old market in E2. It takes about an hour to stop finding this confusing and start finding it charming.

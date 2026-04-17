@@ -1,7 +1,9 @@
 ---
 title: "Hurtigruten Museum"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
+  - museum
 latitude: 68.569308
 longitude: 14.912549
 ---

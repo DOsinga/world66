@@ -2,6 +2,8 @@
 category: Sight
 latitude: 22.330108
 longitude: 114.174792
+tags:
+- things_to_do
 title: Orchid Garden
 type: poi
 ---

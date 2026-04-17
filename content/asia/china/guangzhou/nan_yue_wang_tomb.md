@@ -1,5 +1,7 @@
 ---
 category: Museum
+tags:
+- things_to_do
 title: Nan Yue Wang Tomb Museum (Southern King)
 type: poi
 ---

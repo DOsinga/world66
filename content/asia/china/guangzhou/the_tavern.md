@@ -1,8 +1,10 @@
 ---
-title: "The Tavern"
+address: no.2/poly 108 Huajiu Lu, Zhujiang XinCheng, Guangzhou 广州市珠江新城华就路2号
+phone: 02085503038
+tags:
+- bars_and_cafes
+title: The Tavern
 type: poi
-address: "no.2/poly 108 Huajiu Lu, Zhujiang XinCheng, Guangzhou 广州市珠江新城华就路2号"
-phone: "02085503038"
 ---
 
 **English Pub in the Heart of Guangzhou's Zhujiang New Town**

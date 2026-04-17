@@ -2,6 +2,8 @@
 category: Sight
 latitude: 23.112513
 longitude: 113.239527
+tags:
+- things_to_do
 title: Qingping Market
 type: poi
 ---

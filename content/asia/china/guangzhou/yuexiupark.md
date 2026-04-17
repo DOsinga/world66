@@ -2,6 +2,8 @@
 category: Sight
 latitude: 23.142514
 longitude: 113.260408
+tags:
+- things_to_do
 title: Yuexiu Park
 type: poi
 ---

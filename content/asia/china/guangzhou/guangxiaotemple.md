@@ -2,6 +2,8 @@
 category: Sight
 latitude: 23.131917
 longitude: 113.251193
+tags:
+- things_to_do
 title: Guangxiao Temple
 type: poi
 ---

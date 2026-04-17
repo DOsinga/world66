@@ -1,7 +1,7 @@
 ---
 title: "Trebbio Castle"
 type: poi
-category: Architecture
+tags: [things_to_do, sight, castle]
 latitude: 43.9833
 longitude: 11.3000
 ---

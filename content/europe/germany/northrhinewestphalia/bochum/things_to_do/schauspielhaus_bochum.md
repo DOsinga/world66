@@ -1,7 +1,7 @@
 ---
 title: "Schauspielhaus Bochum"
 type: poi
-category: "Architecture"
+tags: [things_to_do, theatre]
 address: "Königsallee 15, 44789 Bochum"
 latitude: 51.4797
 longitude: 7.2264

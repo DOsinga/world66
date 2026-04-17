@@ -1,7 +1,7 @@
 ---
 title: 'Faro Jewish Heritage Centre'
 type: poi
-category: 'Sight'
+tags: [things_to_do, sight]
 address: 'Rua Leao Penedo'
 opening_hours: '9.30-12.30  14.00-17.00'
 phone: '289829525'

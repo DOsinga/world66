@@ -1,7 +1,7 @@
 ---
 title: "Faro Jewish Heritage Centre"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight]
 address: "Rua Leão Penedo"
 phone: "289829525"
 latitude: 37.023905

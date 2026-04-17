@@ -1,7 +1,7 @@
 ---
 title: "Fortezza di San Martino"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 43.9650
 longitude: 11.3230
 ---

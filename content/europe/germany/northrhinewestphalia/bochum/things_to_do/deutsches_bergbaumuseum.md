@@ -1,7 +1,7 @@
 ---
 title: "Deutsches Bergbaumuseum"
 type: poi
-category: "Museum"
+tags: [things_to_do, museum]
 address: "Am Bergbaumuseum 28, 44791 Bochum"
 opening_hours: "Tue–Fri 08:30–17:00, Sat–Sun 10:00–17:00; closed Monday"
 admission: "Adults €12, concessions €7"

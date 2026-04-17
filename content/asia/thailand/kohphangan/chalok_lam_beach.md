@@ -1,7 +1,8 @@
 ---
-category: Sight
 latitude: 9.783
 longitude: 100.0222
+tags:
+- beaches
 title: Chalok Lam Beach
 type: poi
 ---

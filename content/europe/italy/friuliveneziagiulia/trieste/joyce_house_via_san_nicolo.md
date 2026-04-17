@@ -1,11 +1,14 @@
 ---
-title: "Joyce's House on Via San Nicolò"
-type: poi
-category: "Sight"
-address: "Via San Nicolò 30, Trieste"
+address: Via San Nicolò 30, Trieste
+category: Sight
 latitude: 45.650187
 longitude: 13.772084
-tags: ["James Joyce", "Literature"]
+tags:
+- James Joyce
+- Literature
+- things_to_do
+title: Joyce's House on Via San Nicolò
+type: poi
 ---
 
 A commemorative plaque marks Via San Nicolò 30, one of several addresses where Joyce lived during his years in Trieste. He occupied this apartment from 1907 to 1909, during which time he wrote much of *Dubliners* and began *A Portrait of the Artist as a Young Man*. The street runs through the heart of the old city, close to the waterfront and the commercial centre where Joyce taught English at the Berlitz School.

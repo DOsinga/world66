@@ -1,6 +1,9 @@
 ---
 title: "Gurgi Mosque"
 type: poi
+tags:
+  - sights
+  - mosque
 latitude: 32.899543
 longitude: 13.175453
 ---

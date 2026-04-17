@@ -67,12 +67,3 @@ On Mosque Street near Precision Air. Many office supplies and services. Friendly
 
 Between the market and NBC Club.
 
-**Shops**
-
-**SHAM INDUSTRIES(FURNITURES)**
-
-Wanatengeneza fanicha nzuri-Furnitures with high quality in Bukoba
-
-Hakuna sehemu yenye fanicha nzuri kama SHAM INDUSTRIES
-
-Iko KCU garage nyingine show room iko Kanoni-hamugembe

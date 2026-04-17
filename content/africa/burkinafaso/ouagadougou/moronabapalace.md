@@ -1,7 +1,11 @@
 ---
 title: "Moro Naba Palace"
 type: poi
-category: Architecture
+tags:
+  - things_to_do
+  - palace
+  - architecture
+  - cultural_site
 latitude: 12.3644
 longitude: -1.5328
 ---

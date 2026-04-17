@@ -3,6 +3,7 @@ address: Temple Street, Yau Ma Tei, Kowloon
 latitude: 22.3042
 longitude: 114.1697
 tags:
+- kowloon
 - things_to_do
 title: Temple Street Night Market
 type: poi

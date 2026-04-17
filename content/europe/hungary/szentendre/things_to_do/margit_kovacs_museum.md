@@ -1,7 +1,7 @@
 ---
 title: "Margit Kovács Museum"
 type: poi
-category: "Museum"
+tags: [things_to_do, museum]
 address: "Vastagh György u. 1"
 phone: "310 790"
 latitude: 47.6683

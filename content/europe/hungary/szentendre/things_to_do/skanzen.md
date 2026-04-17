@@ -1,7 +1,7 @@
 ---
 title: "Open-Air Ethnographic Museum (Skanzen)"
 type: poi
-category: "Museum"
+tags: [things_to_do, museum]
 address: "Sztaravodai út"
 phone: "312 304"
 latitude: 47.6855

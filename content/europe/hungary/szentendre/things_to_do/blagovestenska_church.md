@@ -1,7 +1,7 @@
 ---
 title: "Blagovestenska Church"
 type: poi
-category: "Architecture"
+tags: [things_to_do, church]
 address: "Fő tér 4"
 latitude: 47.6682
 longitude: 19.0745

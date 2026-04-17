@@ -1,7 +1,7 @@
 ---
 title: "Deva Citadel"
 type: poi
-category: Sight
+tags: [things_to_do, castle]
 latitude: 45.8846
 longitude: 22.8978
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Wolsztyn Steam Railway"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - attraction
 latitude: 52.1153
 longitude: 16.1172
 ---

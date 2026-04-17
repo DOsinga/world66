@@ -1,8 +1,8 @@
 ---
 title: "Sohar Fort"
 type: poi
-category: Sight
 address: "Al Qal'a Street, Sohar"
+tags: [things_to_do, fort, museum]
 opening_hours: "Sun–Thu 9am–4pm, Fri 8am–11am; closed Sat"
 latitude: 24.3647
 longitude: 56.7326

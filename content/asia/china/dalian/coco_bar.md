@@ -1,6 +1,9 @@
 ---
 title: "CoCo Bar"
 type: poi
+tags:
+  - bars_and_cafes
+  - bar
 address: "123 Tianjin Street, Zhongshan District"
 phone: "(0)411 817 06042"
 latitude: 38.9212

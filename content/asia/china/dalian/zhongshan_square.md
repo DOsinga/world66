@@ -1,7 +1,9 @@
 ---
 title: "Zhongshan Square"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 38.9147
 longitude: 121.6443
 ---

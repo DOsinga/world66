@@ -1,7 +1,9 @@
 ---
 title: "Fujiazhuang Beach"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
 latitude: 38.8540
 longitude: 121.6342
 ---

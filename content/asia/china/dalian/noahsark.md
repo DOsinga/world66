@@ -1,6 +1,9 @@
 ---
 title: "Noah's Ark"
 type: poi
+tags:
+  - bars_and_cafes
+  - bar
 address: "No.32-1 Wusi Road, Xigang District"
 phone: "(0)411-3692798"
 latitude: 38.9236

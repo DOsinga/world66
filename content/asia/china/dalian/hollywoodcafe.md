@@ -1,6 +1,9 @@
 ---
 title: "Hollywood Cafe"
 type: poi
+tags:
+  - bars_and_cafes
+  - bar
 address: "No.28 Shengli Square, Zhongshan District"
 phone: "(0)411-2502777 ext.781"
 latitude: 38.9157

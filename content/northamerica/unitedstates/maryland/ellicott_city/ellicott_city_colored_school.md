@@ -1,7 +1,10 @@
 ---
 title: "Ellicott City Colored School"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
+  - historic_site
 latitude: 39.2780
 longitude: -76.8295
 ---

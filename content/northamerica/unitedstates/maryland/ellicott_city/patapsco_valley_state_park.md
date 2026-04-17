@@ -1,7 +1,11 @@
 ---
 title: "Patapsco Valley State Park"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
+  - nature
+  - hiking
 latitude: 39.2690
 longitude: -76.8350
 story: "The Patapsco River flooded catastrophically in 2016 and 2018, sending walls of water down Main Street and sweeping cars and storefronts into the gorge. The flood walls built afterward changed the character of the lower street, but the river itself — fast, rocky, and hemmed in by granite — remains as dramatic as it was when the Ellicott brothers chose this spot to build their mills."

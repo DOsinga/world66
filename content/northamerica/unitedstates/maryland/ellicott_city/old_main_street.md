@@ -1,7 +1,10 @@
 ---
 title: "Historic Main Street"
 type: poi
-category: Neighbourhood
+tags:
+  - things_to_do
+  - sight
+  - historic_district
 latitude: 39.2745
 longitude: -76.8318
 ---

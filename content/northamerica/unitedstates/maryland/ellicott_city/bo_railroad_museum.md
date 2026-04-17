@@ -1,7 +1,10 @@
 ---
 title: "B&O Railroad Station Museum"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
+  - historic_site
 latitude: 39.2726
 longitude: -76.8310
 ---
@@ -10,4 +13,4 @@ This is the oldest surviving railroad station in the United States, built in 183
 
 The museum displays original B&O memorabilia, rolling stock models, and documents the era when this quiet mill town put Baltimore at the center of American rail expansion. Worth an hour, particularly if you have any interest in how the country was knit together.
 
-**Address:** 2711 Maryland Ave, Ellicott City. Open Wednesday–Sunday.
+**Address:** 2711 Maryland Ave, Ellicott City. Open Wednesday-Sunday.

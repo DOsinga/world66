@@ -1,7 +1,11 @@
 ---
 title: "Mochou Lake"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - park
+  - lake
+  - historic_site
 latitude: 32.038375
 longitude: 118.758244
 ---

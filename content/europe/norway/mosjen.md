@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-09'
 latitude: 65.836
 longitude: 13.1908
+score: 0.51
 title: Mosjøen
 type: location
-score: 0.51
 ---
 
 Mosjøen is a small town on the Vefsfjord in the geographic heart of Norway, the kind of place that rewards anyone who slows down long enough to notice it. Most travellers pass through on the E6 or the Nordland Railway without stopping — which is their loss. The old waterfront district, Sjøgata, is one of the best-preserved 19th-century wooden streetscapes in northern Norway, and the surrounding landscape of fjords and steep peaks is quietly spectacular.

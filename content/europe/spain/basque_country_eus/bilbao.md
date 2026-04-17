@@ -1,11 +1,12 @@
 ---
-title: Bilbao
-type: location
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: 2026-04-06
 latitude: 43.263
 longitude: -2.935
-done:
-  location_cleanup: 2026-04-06
 score: 0.69
+title: Bilbao
+type: location
 ---
 
 Bilbao is the largest city in the Basque Country and the industrial heart of northern Spain — a gritty port on the Nervión river that spent most of the 20th century producing steel and shipping it out to the world. Then, in 1997, Frank Gehry's **Guggenheim Museum Bilbao** opened on the waterfront, and the city changed overnight. The building — a swirling, titanium-clad explosion that looks different from every angle and shimmers like a fish in the rain — is genuinely one of the most important pieces of architecture built in the last fifty years, and the art inside (large-scale contemporary installations, with a permanent Richard Serra room that justifies the trip on its own) matches the exterior's ambition.

@@ -1,15 +1,16 @@
 ---
-title: Dubrovnik
-type: location
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: 2026-04-02
+image: dubrovnik.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Casco_viejo_de_Dubrovnik,_Croacia,_2014-04-13,_DD_03.JPG
 latitude: 42.6507
 longitude: 18.0944
-done:
-  location_cleanup: 2026-04-02
 score: 0.82
-image: dubrovnik.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Casco_viejo_de_Dubrovnik,_Croacia,_2014-04-13,_DD_03.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Diego Delso
+title: Dubrovnik
+type: location
 ---
 
 Dubrovnik is one of the most visually striking cities in the Mediterranean. A compact old town wrapped in massive stone walls, perched on cliffs above the Adriatic, it has been drawing visitors for centuries and earned its old nickname "the Pearl of the Adriatic" honestly.

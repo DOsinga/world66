@@ -1,11 +1,12 @@
 ---
-title: Kavala
-type: location
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: 2026-04-06
 latitude: 40.9369
 longitude: 24.4123
-done:
-  location_cleanup: 2026-04-06
 score: 0.59
+title: Kavala
+type: location
 ---
 
 Kavala is the main port city of eastern Macedonia, built in tiers on a hillside above a deep natural bay on the northern Aegean coast. It is a city of layered histories — Greek, Roman, Byzantine, Ottoman — and the evidence of all of them is visible in the streets. The old city, called Panagia, occupies a rocky promontory below a Byzantine castle, and its lanes of Ottoman-era houses, domed buildings, and sea views are the best reason to be here.

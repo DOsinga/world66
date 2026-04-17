@@ -1,12 +1,13 @@
 ---
-title: "Torana Gallery"
-type: poi
-address: "Shop 8, Kempinski Hotel, Beijing"
-phone: "010 64653388x5542"
-type: "Speciality shops"
-url: "www.toranahouse.com"
+address: Shop 8, Kempinski Hotel, Beijing
 latitude: 40.385544
 longitude: 116.671454
+phone: 010 64653388x5542
+tags:
+- shopping
+title: Torana Gallery
+type: Speciality shops
+url: www.toranahouse.com
 ---
 
 Torana Gallery, run by Englishman Chris Buckley, sells Tibetan and

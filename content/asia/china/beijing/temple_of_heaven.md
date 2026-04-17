@@ -1,9 +1,11 @@
 ---
-title: "Temple of Heaven"
-type: poi
-category: "Sight"
+category: Sight
 latitude: 39.8822
 longitude: 116.4066
+tags:
+- things_to_do
+title: Temple of Heaven
+type: poi
 ---
 
 A Ming-era temple complex in the south of the city where the emperors came each year to pray for a good harvest. The centrepiece is the circular Hall of Prayer for Good Harvests — a wooden rotunda on a three-tiered marble terrace, built in 1420 without a single nail. The surrounding park is the single best place in Beijing to see locals' morning life: tai chi, choral singing, calligraphy practice, line dancing, and fierce games of Chinese chess.

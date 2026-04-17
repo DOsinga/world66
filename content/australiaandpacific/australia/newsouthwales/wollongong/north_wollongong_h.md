@@ -1,6 +1,7 @@
 ---
 title: "North Wollongong Hotel"
 type: poi
+tags: [bars_and_cafes, pub, bar]
 address: "3 Flinders St, North Wollongong"
 phone: "02 4229 4177"
 latitude: -34.4092

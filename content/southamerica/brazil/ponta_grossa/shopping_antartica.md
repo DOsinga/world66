@@ -1,7 +1,8 @@
 ---
 title: "Shopping Antártica"
 type: poi
-category: "Sight"
+tags:
+  - shopping
 address: "Rua Vicente Machado, Ponta Grossa"
 url: "http://www.shoppingantartica.com.br"
 latitude: -25.0944

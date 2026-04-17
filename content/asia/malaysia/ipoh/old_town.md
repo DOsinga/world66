@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 4.5975
 longitude: 101.079
 tags:
 - things_to_do
+- neighbourhood
 title: Old Town
 type: poi
 ---

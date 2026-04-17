@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 45.4283
 longitude: -75.6928
 tags:
 - things_to_do
+- neighbourhood
 title: ByWard Market
 type: poi
 ---

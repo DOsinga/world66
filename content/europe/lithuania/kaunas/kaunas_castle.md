@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 54.899
 longitude: 23.8866
 tags:
 - things_to_do
+- landmark
 title: Kaunas Castle
 type: poi
 ---

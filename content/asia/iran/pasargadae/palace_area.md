@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.202
 longitude: 53.178
 tags:
 - things_to_do
+- landmark
 title: Palace Area
 type: poi
 ---

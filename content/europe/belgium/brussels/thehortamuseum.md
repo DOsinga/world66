@@ -1,11 +1,11 @@
 ---
 address: Rue Américaine 25, 1060 Saint-Gilles
-category: Museum
 latitude: 50.8268
 longitude: 4.3603
 opening_hours: Tue–Sun 14:00–17:30; closed Mon
 tags:
 - things_to_do
+- museum
 title: Horta Museum
 type: poi
 ---

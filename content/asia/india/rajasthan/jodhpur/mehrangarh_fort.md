@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 26.2978
 longitude: 73.0188
 tags:
 - things_to_do
+- landmark
 title: Mehrangarh Fort
 type: poi
 ---

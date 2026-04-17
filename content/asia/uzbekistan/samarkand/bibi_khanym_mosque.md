@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.6601
 longitude: 66.9791
 tags:
 - things_to_do
+- landmark
 title: Bibi-Khanym Mosque
 type: poi
 ---

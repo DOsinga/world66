@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.6716
 longitude: 66.9784
 tags:
 - things_to_do
+- landmark
 title: Ulugh Beg Observatory
 type: poi
 ---

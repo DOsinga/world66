@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 33.9078
 longitude: 73.3886
 tags:
 - things_to_do
+- architecture
 title: Lawrence College & Church
 type: poi
 ---

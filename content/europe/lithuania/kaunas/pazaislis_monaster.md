@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 54.876
 longitude: 24.0227
 tags:
 - things_to_do
+- landmark
 title: Pazaislis Monastery
 type: poi
 ---

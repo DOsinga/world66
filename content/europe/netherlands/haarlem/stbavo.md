@@ -1,10 +1,10 @@
 ---
 address: Grote Markt 22
-category: Sight
 latitude: 52.3815
 longitude: 4.6363
 tags:
 - things_to_do
+- landmark
 title: Grote Kerk (St. Bavo)
 type: poi
 ---

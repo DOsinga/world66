@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.3618
 longitude: 98.9718
 tags:
 - things_to_do
+- landmark
 title: Makhampom Art Space
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 40.6447
 longitude: 22.9519
 tags:
 - things_to_do
+- neighbourhood
 title: Ano Poli
 type: poi
 ---

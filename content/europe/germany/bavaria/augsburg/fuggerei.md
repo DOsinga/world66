@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 48.369
 longitude: 10.9037
 story: 'The annual rent for a Fuggerei apartment has remained unchanged since 1521:
@@ -7,6 +6,7 @@ story: 'The annual rent for a Fuggerei apartment has remained unchanged since 15
   times daily for the souls of the Fugger family.'
 tags:
 - things_to_do
+- landmark
 title: Fuggerei
 type: poi
 ---

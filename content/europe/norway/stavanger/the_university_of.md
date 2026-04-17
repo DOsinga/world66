@@ -1,10 +1,10 @@
 ---
 address: Kristine Bonnevies vei 22, 4021 Stavanger
-category: Architecture
 latitude: 58.9367
 longitude: 5.6904
 tags:
 - things_to_do
+- architecture
 title: University of Stavanger
 type: poi
 ---

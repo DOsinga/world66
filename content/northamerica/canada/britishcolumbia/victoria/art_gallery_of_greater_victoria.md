@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 48.4264
 longitude: -123.3467
 tags:
 - things_to_do
+- museum
 title: Art Gallery of Greater Victoria
 type: poi
 ---

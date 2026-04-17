@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 44.316
 longitude: 9.322
 tags:
 - things_to_do
+- landmark
 title: Nostra Signora dell'Orto
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.5112
 longitude: 36.3122
 tags:
 - things_to_do
+- landmark
 title: Street Called Straight (Via Recta)
 type: poi
 ---

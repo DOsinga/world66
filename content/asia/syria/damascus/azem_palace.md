@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.5105
 longitude: 36.3063
 tags:
 - things_to_do
+- landmark
 title: Azem Palace
 type: poi
 ---

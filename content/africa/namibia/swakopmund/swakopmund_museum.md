@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: -22.6791
 longitude: 14.5237
 tags:
 - things_to_do
+- museum
 title: Swakopmund Museum
 type: poi
 ---

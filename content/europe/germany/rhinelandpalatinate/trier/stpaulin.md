@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 49.762457
 longitude: 6.65225
 tags:
 - things_to_do
+- architecture
 title: St. Paulin
 type: Churches
 ---

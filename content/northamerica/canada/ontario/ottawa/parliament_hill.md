@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.4236
 longitude: -75.7009
 tags:
 - things_to_do
+- landmark
 title: Parliament Hill
 type: poi
 ---

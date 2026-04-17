@@ -1,10 +1,10 @@
 ---
 address: Jalan Kuala Kangsar, Gunung Tasek
-category: Sight
 latitude: 4.739584
 longitude: 101.11872
 tags:
 - things_to_do
+- landmark
 title: Perak Tong
 type: poi
 ---

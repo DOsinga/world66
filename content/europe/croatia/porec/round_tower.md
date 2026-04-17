@@ -1,10 +1,10 @@
 ---
 address: Narodni trg
-category: Architecture
 latitude: 45.2276
 longitude: 13.592
 tags:
 - things_to_do
+- architecture
 title: Round Tower
 type: poi
 ---

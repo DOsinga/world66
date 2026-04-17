@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.651
 longitude: 41.636
 tags:
 - things_to_do
+- landmark
 title: Batumi Seaside Boulevard
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 22.0872
 longitude: 96.0192
 tags:
 - things_to_do
+- architecture
 title: Mingun Pahtodawgyi
 type: poi
 ---

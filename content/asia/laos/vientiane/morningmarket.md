@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 17.96934
 longitude: 102.614006
 tags:
 - things_to_do
+- neighbourhood
 title: Morning Market
 type: poi
 ---

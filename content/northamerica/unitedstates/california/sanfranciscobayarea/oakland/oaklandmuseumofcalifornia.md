@@ -1,11 +1,11 @@
 ---
 address: 1000 Oak St, Oakland, CA 94607
-category: Museum
 latitude: 37.7986
 longitude: -122.2644
 phone: 510-318-8400
 tags:
 - things_to_do
+- museum
 title: Oakland Museum of California
 type: poi
 ---

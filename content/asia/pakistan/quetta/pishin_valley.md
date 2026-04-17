@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.5833
 longitude: 66.9833
 tags:
 - things_to_do
+- landmark
 title: Pishin Valley
 type: poi
 ---

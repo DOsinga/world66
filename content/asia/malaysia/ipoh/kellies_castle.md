@@ -1,6 +1,5 @@
 ---
 address: Batu Gajah, 20 km south of Ipoh
-category: Sight
 latitude: 4.469
 longitude: 101.0637
 story: Kellie Smith imported his workers from Madras and began the castle in 1915
@@ -9,6 +8,7 @@ story: Kellie Smith imported his workers from Madras and began the castle in 191
   left unfinished — and still is.
 tags:
 - things_to_do
+- landmark
 title: Kellie's Castle
 type: poi
 ---

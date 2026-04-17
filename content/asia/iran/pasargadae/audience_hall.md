@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 30.1962
 longitude: 53.1701
 tags:
 - things_to_do
+- architecture
 title: Audience Hall of Cyrus
 type: poi
 ---

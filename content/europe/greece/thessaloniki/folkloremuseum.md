@@ -1,10 +1,10 @@
 ---
 address: Vasilissis Olgas 68, Thessaloniki
-category: Museum
 latitude: 40.6022
 longitude: 22.9528
 tags:
 - things_to_do
+- museum
 title: Folklore and Ethnological Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 37.462
 longitude: 25.375
 tags:
 - things_to_do
+- landmark
 title: Panagia Tourliani Monastery
 type: poi
 ---

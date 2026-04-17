@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 33.5115
 longitude: 36.306
 tags:
 - things_to_do
+- museum
 title: Museum of Epigraphy
 type: poi
 ---

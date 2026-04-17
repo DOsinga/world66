@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -34.63351
 longitude: -58.359042
 tags:
 - things_to_do
+- neighbourhood
 title: La Boca
 type: poi
 ---

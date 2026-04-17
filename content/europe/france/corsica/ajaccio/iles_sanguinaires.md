@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.8569
 longitude: 8.6028
 tags:
 - things_to_do
+- landmark
 title: Îles Sanguinaires
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 19.3696
 longitude: 98.9627
 tags:
 - things_to_do
+- neighbourhood
 title: Tuesday Market
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.5333
 longitude: 41.5697
 tags:
 - things_to_do
+- landmark
 title: Gonio-Apsaros Fortress
 type: poi
 ---

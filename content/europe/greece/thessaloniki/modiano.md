@@ -1,10 +1,10 @@
 ---
 address: Ermou Street, Thessaloniki
-category: Neighbourhood
 latitude: 40.6357
 longitude: 22.9419
 tags:
 - things_to_do
+- neighbourhood
 title: Modiano Market
 type: poi
 ---

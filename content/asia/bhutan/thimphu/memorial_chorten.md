@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 27.4652
 longitude: 89.6413
 tags:
 - things_to_do
+- landmark
 title: Memorial Chorten
 type: poi
 ---

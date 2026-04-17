@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 7.3975
 longitude: 3.882
 tags:
 - things_to_do
+- landmark
 title: Olakoyejo Cultural Centre
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.6633
 longitude: 104.0241
 tags:
 - things_to_do
+- landmark
 title: Du Fu Thatched Cottage
 type: poi
 ---

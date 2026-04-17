@@ -1,10 +1,10 @@
 ---
 address: Al Bida district
-category: Museum
 latitude: 25.2854
 longitude: 51.5319
 tags:
 - things_to_do
+- museum
 title: Doha Fort
 type: poi
 ---

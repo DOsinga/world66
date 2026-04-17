@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 27.4747
 longitude: 89.6374
 tags:
 - things_to_do
+- landmark
 title: Weekend Market
 type: poi
 ---

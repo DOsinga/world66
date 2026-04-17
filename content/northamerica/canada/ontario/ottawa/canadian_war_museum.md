@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 45.417
 longitude: -75.7169
 tags:
 - things_to_do
+- museum
 title: Canadian War Museum
 type: poi
 ---

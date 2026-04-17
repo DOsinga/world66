@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 40.6378
 longitude: 22.9361
 tags:
 - things_to_do
+- neighbourhood
 title: Ladadika
 type: poi
 ---

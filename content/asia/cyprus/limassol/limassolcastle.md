@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.672249
 longitude: 33.041671
 tags:
 - things_to_do
+- landmark
 title: Limassol Castle
 type: Castles
 ---

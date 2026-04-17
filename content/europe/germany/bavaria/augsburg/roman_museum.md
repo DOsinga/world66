@@ -1,10 +1,10 @@
 ---
 address: Dominikanergasse 15
-category: Museum
 latitude: 48.3672
 longitude: 10.8986
 tags:
 - things_to_do
+- museum
 title: Roman Museum
 type: poi
 ---

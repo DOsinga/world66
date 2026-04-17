@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 23.6143
 longitude: 58.5918
 tags:
 - things_to_do
+- museum
 title: National Museum of Oman
 type: poi
 ---

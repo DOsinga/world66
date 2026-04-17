@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 23.6186
 longitude: 58.565
 tags:
 - things_to_do
+- landmark
 title: Mutrah Souk
 type: poi
 ---

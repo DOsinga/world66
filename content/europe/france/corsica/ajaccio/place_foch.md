@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.9199
 longitude: 8.7367
 tags:
 - things_to_do
+- landmark
 title: Place Foch
 type: poi
 ---

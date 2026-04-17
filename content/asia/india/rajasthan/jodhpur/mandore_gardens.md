@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 26.347
 longitude: 73.0392
 tags:
 - things_to_do
+- landmark
 title: Mandore Gardens
 type: poi
 ---

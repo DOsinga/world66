@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.512
 longitude: 36.3095
 tags:
 - things_to_do
+- landmark
 title: Hammam Nureddin
 type: poi
 ---

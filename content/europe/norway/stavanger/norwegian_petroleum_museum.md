@@ -1,10 +1,10 @@
 ---
 address: Kjeringholmen 1A, 4014 Stavanger
-category: Museum
 latitude: 58.9744
 longitude: 5.7179
 tags:
 - things_to_do
+- museum
 title: Norwegian Petroleum Museum
 type: poi
 ---

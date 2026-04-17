@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.1942
 longitude: 53.167
 tags:
 - things_to_do
+- landmark
 title: Tomb of Cyrus
 type: poi
 ---

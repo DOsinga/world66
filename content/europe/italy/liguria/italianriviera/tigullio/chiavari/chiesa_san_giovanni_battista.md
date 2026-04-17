@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 44.3165
 longitude: 9.3228
 tags:
 - things_to_do
+- landmark
 title: Chiesa di San Giovanni Battista
 type: poi
 ---

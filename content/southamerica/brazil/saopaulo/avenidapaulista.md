@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -23.557202
 longitude: -46.661039
 tags:
 - things_to_do
+- neighbourhood
 title: Avenida Paulista
 type: poi
 ---

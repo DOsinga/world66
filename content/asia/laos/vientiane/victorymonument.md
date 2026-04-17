@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 17.974698
 longitude: 102.630367
 tags:
 - things_to_do
+- landmark
 title: Patuxai
 type: poi
 ---

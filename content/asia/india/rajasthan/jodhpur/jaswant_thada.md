@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 26.3008
 longitude: 73.0244
 tags:
 - things_to_do
+- landmark
 title: Jaswant Thada
 type: poi
 ---

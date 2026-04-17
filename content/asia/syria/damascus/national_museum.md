@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 33.5125
 longitude: 36.29
 tags:
 - things_to_do
+- museum
 title: National Museum
 type: poi
 ---

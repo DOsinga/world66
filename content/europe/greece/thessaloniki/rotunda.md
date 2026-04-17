@@ -1,10 +1,10 @@
 ---
 address: Plateia Agiou Georgiou, Thessaloniki
-category: Sight
 latitude: 40.6332
 longitude: 22.9533
 tags:
 - things_to_do
+- landmark
 title: Rotunda
 type: poi
 ---

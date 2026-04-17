@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: -6.9025
 longitude: 107.6187
 story: On 3 December 1945, seven young Indonesian engineers defending the building
@@ -7,6 +6,7 @@ story: On 3 December 1945, seven young Indonesian engineers defending the buildi
   are honoured with a monument on the grounds.
 tags:
 - things_to_do
+- architecture
 title: Gedung Sate
 type: poi
 ---

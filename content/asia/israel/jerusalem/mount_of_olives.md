@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.7784
 longitude: 35.2454
 tags:
 - things_to_do
+- landmark
 title: Mount of Olives
 type: poi
 ---

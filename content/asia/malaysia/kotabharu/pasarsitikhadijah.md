@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 6.1262
 longitude: 102.2434
 tags:
 - things_to_do
+- landmark
 title: Pasar Siti Khadijah
 type: poi
 ---

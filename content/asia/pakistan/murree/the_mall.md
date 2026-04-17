@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 33.906
 longitude: 73.393
 tags:
 - things_to_do
+- neighbourhood
 title: The Mall
 type: poi
 ---

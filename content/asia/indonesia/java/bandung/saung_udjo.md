@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -6.9007
 longitude: 107.6508
 tags:
 - things_to_do
+- landmark
 title: Saung Angklung Udjo
 type: poi
 ---

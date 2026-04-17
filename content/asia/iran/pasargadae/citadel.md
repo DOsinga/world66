@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.206
 longitude: 53.181
 tags:
 - things_to_do
+- landmark
 title: Tall-e Takht (Citadel)
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 23.6127
 longitude: 58.5887
 tags:
 - things_to_do
+- museum
 title: Bait Al Zubair
 type: poi
 ---

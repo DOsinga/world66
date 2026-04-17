@@ -1,11 +1,11 @@
 ---
 address: 8 Z. Gorgiladze str
-category: Museum
 latitude: 41.6456
 longitude: 41.6381
 phone: +995 222 73894
 tags:
 - things_to_do
+- museum
 title: State Art Museum of Adjara
 type: poi
 ---

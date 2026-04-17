@@ -1,10 +1,10 @@
 ---
 address: Haakon VIIs gate 2, 4005 Stavanger
-category: Sight
 latitude: 58.97
 longitude: 5.732
 tags:
 - things_to_do
+- landmark
 title: Stavanger Cathedral
 type: poi
 ---

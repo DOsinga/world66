@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: -22.6801
 longitude: 14.5202
 story: The original wooden jetty was already derelict by 1910. The replacement â€” an
@@ -9,6 +8,7 @@ story: The original wooden jetty was already derelict by 1910. The replacement â
   and is now Swakopmund's most-walked landmark.
 tags:
 - things_to_do
+- landmark
 title: The Jetty
 type: poi
 ---

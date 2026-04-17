@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.8945
 longitude: 73.387
 tags:
 - things_to_do
+- landmark
 title: Marian Tomb
 type: poi
 ---

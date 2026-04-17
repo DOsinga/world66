@@ -1,10 +1,10 @@
 ---
 address: Jalan Panglima Bukit Gantang Wahab
-category: Architecture
 latitude: 4.597847
 longitude: 101.07839
 tags:
 - things_to_do
+- architecture
 title: Ipoh Railway Station
 type: poi
 ---

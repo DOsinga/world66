@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 31.7743
 longitude: 35.1754
 tags:
 - things_to_do
+- museum
 title: Yad Vashem
 type: poi
 ---

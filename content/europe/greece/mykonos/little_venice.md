@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 37.4459
 longitude: 25.3264
 tags:
 - things_to_do
+- neighbourhood
 title: Little Venice
 type: poi
 ---

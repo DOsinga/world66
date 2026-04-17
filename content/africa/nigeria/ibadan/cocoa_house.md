@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 7.3855
 longitude: 3.8814
 tags:
 - things_to_do
+- architecture
 title: Cocoa House
 type: poi
 ---

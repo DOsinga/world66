@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 31.7722
 longitude: 35.2036
 tags:
 - things_to_do
+- museum
 title: Israel Museum
 type: poi
 ---

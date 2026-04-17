@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 54.8972
 longitude: 23.889
 tags:
 - things_to_do
+- landmark
 title: Kaunas Cathedral
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: -6.9141
 longitude: 107.6059
 tags:
 - things_to_do
+- museum
 title: Geological Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.9785
 longitude: 7.9221
 tags:
 - things_to_do
+- landmark
 title: Klunkhardshof
 type: poi
 ---

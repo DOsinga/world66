@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 48.4294
 longitude: -123.3678
 tags:
 - things_to_do
+- neighbourhood
 title: Chinatown
 type: poi
 ---

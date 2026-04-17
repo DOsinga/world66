@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 30.6463
 longitude: 104.0489
 tags:
 - things_to_do
+- neighbourhood
 title: Jinli
 type: poi
 ---

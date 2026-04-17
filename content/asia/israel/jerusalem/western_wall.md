@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.7767
 longitude: 35.2345
 tags:
 - things_to_do
+- landmark
 title: Western Wall
 type: poi
 ---

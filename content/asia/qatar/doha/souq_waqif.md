@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 25.2879
 longitude: 51.5335
 tags:
 - things_to_do
+- neighbourhood
 title: Souq Waqif
 type: poi
 ---

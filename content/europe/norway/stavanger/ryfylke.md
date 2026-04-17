@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 59.35
 longitude: 6.05
 tags:
 - things_to_do
+- landmark
 title: Ryfylke
 type: poi
 ---

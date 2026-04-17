@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.2667
 longitude: 67.2167
 tags:
 - things_to_do
+- landmark
 title: Urak Valley
 type: poi
 ---

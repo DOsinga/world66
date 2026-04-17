@@ -1,10 +1,10 @@
 ---
 address: Jalan S.P. Seenivasagam
-category: Architecture
 latitude: 4.5959
 longitude: 101.0797
 tags:
 - things_to_do
+- architecture
 title: St Michael's Institution
 type: poi
 ---

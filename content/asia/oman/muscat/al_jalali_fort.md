@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 23.6146
 longitude: 58.5953
 tags:
 - things_to_do
+- landmark
 title: Al Jalali and Al Mirani Forts
 type: poi
 ---

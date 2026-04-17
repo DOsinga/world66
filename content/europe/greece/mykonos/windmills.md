@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 37.4455
 longitude: 25.326
 tags:
 - things_to_do
+- landmark
 title: The Windmills
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 6.1243
 longitude: 102.244
 tags:
 - things_to_do
+- landmark
 title: Padang Merdeka
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Sv. Maura
-category: Architecture
 latitude: 45.2278
 longitude: 13.5928
 tags:
 - things_to_do
+- architecture
 title: House of Two Saints
 type: poi
 ---

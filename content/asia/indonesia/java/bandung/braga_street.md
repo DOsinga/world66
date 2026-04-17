@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -6.9181
 longitude: 107.6086
 tags:
 - things_to_do
+- neighbourhood
 title: Braga Street
 type: poi
 ---

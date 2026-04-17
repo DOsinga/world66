@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 39.6622
 longitude: 66.9879
 story: The name means 'The Living King' — legend holds that Qusam ibn Abbas, a cousin
@@ -7,6 +6,7 @@ story: The name means 'The Living King' — legend holds that Qusam ibn Abbas, a
   a well, where he still lives.
 tags:
 - things_to_do
+- landmark
 title: Shah-i-Zinda
 type: poi
 ---

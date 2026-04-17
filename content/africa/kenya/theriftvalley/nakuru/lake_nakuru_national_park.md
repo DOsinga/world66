@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -0.3667
 longitude: 36.0833
 tags:
 - things_to_do
+- landmark
 title: Lake Nakuru National Park
 type: poi
 ---

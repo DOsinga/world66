@@ -1,11 +1,11 @@
 ---
 address: Fifa Road, east of Mizan Chowk
-category: Museum
 latitude: 30.19
 longitude: 66.997
 opening_hours: 9:00 - 15:00 daily
 tags:
 - things_to_do
+- museum
 title: Quetta Archaeological Museum
 type: poi
 ---

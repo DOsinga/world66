@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 54.8962
 longitude: 23.9178
 tags:
 - things_to_do
+- landmark
 title: Christ's Resurrection Basilica
 type: poi
 ---

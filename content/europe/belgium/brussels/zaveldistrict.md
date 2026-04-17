@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 50.841
 longitude: 4.3565
 tags:
 - things_to_do
+- neighbourhood
 title: Sablon / Zavel District
 type: poi
 ---

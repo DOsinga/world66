@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: -6.9175
 longitude: 107.6075
 tags:
 - things_to_do
+- museum
 title: Asian-African Conference Museum
 type: poi
 ---

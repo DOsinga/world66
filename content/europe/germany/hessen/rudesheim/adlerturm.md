@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.9784
 longitude: 7.9215
 tags:
 - things_to_do
+- landmark
 title: Adlerturm
 type: poi
 ---

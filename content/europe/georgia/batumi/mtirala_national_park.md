@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.6578
 longitude: 41.8003
 tags:
 - things_to_do
+- landmark
 title: Mtirala National Park
 type: poi
 ---

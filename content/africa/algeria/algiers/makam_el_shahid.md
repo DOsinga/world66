@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.7472
 longitude: 3.07
 tags:
 - things_to_do
+- landmark
 title: Makam el Shahid
 type: poi
 ---

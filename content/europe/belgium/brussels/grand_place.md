@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 50.846729
 longitude: 4.352408
 tags:
 - things_to_do
+- landmark
 title: Grand-Place
 type: poi
 ---

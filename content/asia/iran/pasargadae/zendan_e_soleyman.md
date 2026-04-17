@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.2005
 longitude: 53.1745
 tags:
 - things_to_do
+- landmark
 title: Zendan-e Soleyman (Prison of Solomon)
 type: poi
 ---

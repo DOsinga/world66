@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -34.587358
 longitude: -58.39157
 tags:
 - things_to_do
+- neighbourhood
 title: Recoleta
 type: poi
 ---

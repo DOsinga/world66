@@ -1,12 +1,12 @@
 ---
 address: Square de l'Atomium, 1020 Laeken
 admission: €16 adults; combined tickets with Mini-Europe and ADAM design museum
-category: Architecture
 latitude: 50.8949
 longitude: 4.3415
 opening_hours: Daily 10:00–18:00
 tags:
 - things_to_do
+- architecture
 title: Atomium
 type: poi
 url: atomium.be

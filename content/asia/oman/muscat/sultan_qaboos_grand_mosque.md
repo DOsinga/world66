@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 23.584
 longitude: 58.389
 tags:
 - things_to_do
+- landmark
 title: Sultan Qaboos Grand Mosque
 type: poi
 ---

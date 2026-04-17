@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 54.9375
 longitude: 23.8744
 tags:
 - things_to_do
+- museum
 title: Ninth Fort
 type: poi
 ---

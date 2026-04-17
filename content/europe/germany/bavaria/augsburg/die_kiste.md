@@ -1,10 +1,10 @@
 ---
 address: Spitalgasse 15
-category: Museum
 latitude: 48.37
 longitude: 10.896
 tags:
 - things_to_do
+- museum
 title: Die Kiste — Puppet Theater Museum
 type: poi
 ---

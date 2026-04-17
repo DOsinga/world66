@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: -23.585581
 longitude: -46.609716
 tags:
 - things_to_do
+- museum
 title: Museu do Ipiranga
 type: poi
 ---

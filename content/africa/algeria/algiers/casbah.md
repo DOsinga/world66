@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 36.7856
 longitude: 3.0601
 tags:
 - things_to_do
+- neighbourhood
 title: The Casbah
 type: poi
 ---

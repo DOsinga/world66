@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -34.608445
 longitude: -58.372179
 tags:
 - things_to_do
+- landmark
 title: Plaza de Mayo
 type: poi
 ---

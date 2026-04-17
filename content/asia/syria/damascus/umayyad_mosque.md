@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.5113
 longitude: 36.3066
 tags:
 - things_to_do
+- landmark
 title: Umayyad Mosque
 type: poi
 ---

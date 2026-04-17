@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 25.3048
 longitude: 51.531
 tags:
 - things_to_do
+- landmark
 title: The Corniche
 type: poi
 ---

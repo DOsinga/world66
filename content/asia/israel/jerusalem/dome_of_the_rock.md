@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.778
 longitude: 35.2354
 tags:
 - things_to_do
+- landmark
 title: Dome of the Rock
 type: poi
 ---

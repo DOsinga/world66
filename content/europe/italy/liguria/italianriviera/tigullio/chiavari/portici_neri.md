@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 44.3163
 longitude: 9.323
 tags:
 - things_to_do
+- architecture
 title: Portici Neri
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Nakkerd Hills, Chalong, Phuket
-category: Sight
 latitude: 7.8276
 longitude: 98.3127
 tags:
 - things_to_do
+- landmark
 title: Big Buddha of Phuket
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -23.587713
 longitude: -46.658521
 tags:
 - things_to_do
+- landmark
 title: Ibirapuera Park
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 21.8939
 longitude: 96.0572
 tags:
 - things_to_do
+- architecture
 title: U Bein Bridge
 type: poi
 ---

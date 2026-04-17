@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 6.124
 longitude: 102.2434
 tags:
 - things_to_do
+- museum
 title: Istana Jahar
 type: poi
 ---

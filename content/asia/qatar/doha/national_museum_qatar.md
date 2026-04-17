@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 25.2858
 longitude: 51.5462
 tags:
 - things_to_do
+- museum
 title: National Museum of Qatar
 type: poi
 ---

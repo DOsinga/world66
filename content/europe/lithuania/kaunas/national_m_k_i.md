@@ -1,10 +1,10 @@
 ---
 address: V. Putvinskio g. 55, Kaunas
-category: Museum
 latitude: 54.9006
 longitude: 23.916
 tags:
 - things_to_do
+- museum
 title: National M. K. Ciurlionis Art Museum
 type: poi
 ---

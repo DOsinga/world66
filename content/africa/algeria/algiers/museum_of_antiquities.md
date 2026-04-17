@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 36.7596
 longitude: 3.0455
 tags:
 - things_to_do
+- museum
 title: Museum of Antiquities
 type: poi
 ---

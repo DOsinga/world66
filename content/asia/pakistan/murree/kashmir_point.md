@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.9141
 longitude: 73.4047
 tags:
 - things_to_do
+- landmark
 title: Kashmir Point
 type: poi
 ---

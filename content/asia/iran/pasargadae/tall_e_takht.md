@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.1985
 longitude: 53.172
 tags:
 - things_to_do
+- landmark
 title: Tall-e Takht (Throne Hill)
 type: poi
 ---

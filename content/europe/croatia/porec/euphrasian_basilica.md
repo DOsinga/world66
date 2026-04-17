@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.2282
 longitude: 13.5932
 tags:
 - things_to_do
+- landmark
 title: Euphrasian Basilica
 type: poi
 ---

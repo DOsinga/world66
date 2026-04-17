@@ -1,11 +1,11 @@
 ---
 address: 4 Jincharadze str
-category: Museum
 latitude: 41.6472
 longitude: 41.6363
 phone: +995 222 71175
 tags:
 - things_to_do
+- museum
 title: Khariton Akhvlediani Adjara State Museum
 type: poi
 ---

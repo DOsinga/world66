@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -22.71
 longitude: 14.56
 tags:
 - things_to_do
+- landmark
 title: Sandboarding and Quad Biking
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 7.4966
 longitude: 3.8986
 tags:
 - things_to_do
+- landmark
 title: International Institute of Tropical Agriculture
 type: poi
 ---

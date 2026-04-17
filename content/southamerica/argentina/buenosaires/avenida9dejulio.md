@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -34.603819
 longitude: -58.381071
 tags:
 - things_to_do
+- landmark
 title: Avenida 9 de Julio
 type: poi
 ---

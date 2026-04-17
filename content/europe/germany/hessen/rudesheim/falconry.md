@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.985
 longitude: 7.903
 tags:
 - things_to_do
+- landmark
 title: Falconry
 type: poi
 ---

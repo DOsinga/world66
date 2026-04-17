@@ -1,10 +1,10 @@
 ---
 address: Foot of Broadway, Oakland, CA 94607
-category: Neighbourhood
 latitude: 37.7955
 longitude: -122.2789
 tags:
 - things_to_do
+- neighbourhood
 title: Jack London Square
 type: poi
 ---

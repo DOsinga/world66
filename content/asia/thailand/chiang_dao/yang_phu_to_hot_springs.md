@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.4108
 longitude: 98.9432
 tags:
 - things_to_do
+- landmark
 title: Yang Phu To Hot Springs
 type: poi
 ---

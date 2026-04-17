@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.05
 longitude: 66.85
 tags:
 - things_to_do
+- landmark
 title: Hazarganji-Chiltan National Park
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.9782
 longitude: 7.9224
 tags:
 - things_to_do
+- landmark
 title: Church St. Jakobus
 type: poi
 ---

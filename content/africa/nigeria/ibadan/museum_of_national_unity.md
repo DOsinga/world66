@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 7.3919
 longitude: 3.8646
 tags:
 - things_to_do
+- museum
 title: Museum of National Unity
 type: poi
 ---

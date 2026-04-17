@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 45.4017
 longitude: -75.6889
 tags:
 - things_to_do
+- neighbourhood
 title: The Glebe
 type: poi
 ---

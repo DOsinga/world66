@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -34.59462
 longitude: -58.375737
 tags:
 - things_to_do
+- landmark
 title: Plaza San Martín
 type: poi
 ---

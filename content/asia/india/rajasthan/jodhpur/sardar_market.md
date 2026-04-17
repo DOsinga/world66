@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 26.2929
 longitude: 73.024
 tags:
 - things_to_do
+- neighbourhood
 title: Sardar Market and Ghanta Ghar
 type: poi
 ---

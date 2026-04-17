@@ -1,10 +1,10 @@
 ---
 address: Spaarne 16
-category: Museum
 latitude: 52.3796
 longitude: 4.6416
 tags:
 - things_to_do
+- museum
 title: Teylers Museum
 type: poi
 url: teylersmuseum.nl

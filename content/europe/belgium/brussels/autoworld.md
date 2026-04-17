@@ -1,11 +1,11 @@
 ---
 address: Parc du Cinquantenaire 11, 1000 Brussels
-category: Museum
 latitude: 50.839457
 longitude: 4.393554
 opening_hours: Daily 10:00–17:00 (Apr–Oct until 18:00)
 tags:
 - things_to_do
+- museum
 title: Autoworld
 type: poi
 url: autoworld.be

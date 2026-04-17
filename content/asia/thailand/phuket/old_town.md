@@ -1,10 +1,10 @@
 ---
 address: Thalang Road, Phuket City
-category: Neighbourhood
 latitude: 7.8826
 longitude: 98.3877
 tags:
 - things_to_do
+- neighbourhood
 title: Phuket Old Town
 type: poi
 ---

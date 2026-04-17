@@ -1,11 +1,11 @@
 ---
 address: 699 Bellevue Ave, Oakland, CA 94610
-category: Sight
 latitude: 37.8082
 longitude: -122.2578
 phone: 510-452-2259
 tags:
 - things_to_do
+- landmark
 title: Children's Fairyland
 type: poi
 ---

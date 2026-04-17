@@ -1,10 +1,10 @@
 ---
 address: Philippine-Welser-Strasse 24
-category: Museum
 latitude: 48.366
 longitude: 10.8975
 tags:
 - things_to_do
+- museum
 title: Maximilian Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.2453
 longitude: 67.1075
 tags:
 - things_to_do
+- landmark
 title: Hanna Lake
 type: poi
 ---

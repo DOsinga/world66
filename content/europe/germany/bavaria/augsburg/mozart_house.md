@@ -1,10 +1,10 @@
 ---
 address: Frauentorstrasse 30
-category: Museum
 latitude: 48.3656
 longitude: 10.8935
 tags:
 - things_to_do
+- museum
 title: Mozart House
 type: poi
 ---

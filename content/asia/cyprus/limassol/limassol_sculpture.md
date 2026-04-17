@@ -1,7 +1,7 @@
 ---
-category: Sight
 tags:
 - things_to_do
+- landmark
 title: Limassol Sculpture park
 type: Parks, Gardens and Zoos
 ---

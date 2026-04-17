@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 48.4197
 longitude: -123.3676
 tags:
 - things_to_do
+- museum
 title: Royal BC Museum
 type: poi
 ---

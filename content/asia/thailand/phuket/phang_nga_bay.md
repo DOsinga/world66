@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 8.2766
 longitude: 98.5023
 tags:
 - things_to_do
+- landmark
 title: Phang Nga Bay
 type: poi
 ---

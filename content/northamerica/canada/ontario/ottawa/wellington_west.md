@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 45.4006
 longitude: -75.7269
 tags:
 - things_to_do
+- neighbourhood
 title: Wellington West
 type: poi
 ---

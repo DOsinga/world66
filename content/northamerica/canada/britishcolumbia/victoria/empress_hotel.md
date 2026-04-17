@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 48.4222
 longitude: -123.3676
 tags:
 - things_to_do
+- architecture
 title: The Empress Hotel
 type: poi
 ---

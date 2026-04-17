@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 49.9783
 longitude: 7.9208
 tags:
 - things_to_do
+- landmark
 title: Drosselgasse
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Maximilianstrasse 46
-category: Museum
 latitude: 48.366
 longitude: 10.899
 tags:
 - things_to_do
+- museum
 title: Schaezler Palace
 type: poi
 ---

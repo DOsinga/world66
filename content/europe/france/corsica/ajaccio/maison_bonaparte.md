@@ -1,10 +1,10 @@
 ---
 address: Rue Saint-Charles, Ajaccio
-category: Museum
 latitude: 41.9193
 longitude: 8.735
 tags:
 - things_to_do
+- museum
 title: Maison Bonaparte
 type: poi
 ---

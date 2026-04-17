@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 23.6109
 longitude: 58.4411
 tags:
 - things_to_do
+- architecture
 title: Royal Opera House Muscat
 type: poi
 ---

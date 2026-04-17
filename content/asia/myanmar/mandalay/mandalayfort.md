@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 21.9988
 longitude: 96.0972
 tags:
 - things_to_do
+- architecture
 title: Mandalay Fort
 type: poi
 ---

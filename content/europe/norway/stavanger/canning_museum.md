@@ -1,6 +1,5 @@
 ---
 address: Øvre Strandgate 88, 4005 Stavanger
-category: Museum
 latitude: 58.9724
 longitude: 5.7281
 story: On the first Sunday of each month, the museum fires up the old sardine-smoking
@@ -8,6 +7,7 @@ story: On the first Sunday of each month, the museum fires up the old sardine-sm
   famous and fed Allied soldiers through two world wars.
 tags:
 - things_to_do
+- museum
 title: Norwegian Canning Museum
 type: poi
 ---

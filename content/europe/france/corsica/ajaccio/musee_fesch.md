@@ -1,10 +1,10 @@
 ---
 address: 50-52 Rue du Cardinal Fesch, Ajaccio
-category: Museum
 latitude: 41.9196
 longitude: 8.7343
 tags:
 - things_to_do
+- museum
 title: Musée Fesch
 type: poi
 url: www.musee-fesch.com

@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: 27.4842
 longitude: 89.6374
 story: Tashicho Dzong was originally built in 1641 by Zhabdrung Ngawang Namgyal, the
@@ -8,6 +7,7 @@ story: Tashicho Dzong was originally built in 1641 by Zhabdrung Ngawang Namgyal,
   joinery — a feat of traditional craftsmanship at a scale rarely seen today.
 tags:
 - things_to_do
+- architecture
 title: Tashicho Dzong
 type: poi
 ---

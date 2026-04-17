@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.7887
 longitude: 3.0416
 tags:
 - things_to_do
+- landmark
 title: Notre Dame d'Afrique
 type: poi
 ---

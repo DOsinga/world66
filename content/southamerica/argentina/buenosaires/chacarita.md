@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -34.587183
 longitude: -58.455151
 tags:
 - things_to_do
+- neighbourhood
 title: Chacarita
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 7.3876
 longitude: 3.8878
 tags:
 - things_to_do
+- landmark
 title: Bower Memorial Tower
 type: poi
 ---

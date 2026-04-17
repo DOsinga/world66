@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.7478
 longitude: 3.0765
 tags:
 - things_to_do
+- landmark
 title: Jardin d'Essai
 type: poi
 ---

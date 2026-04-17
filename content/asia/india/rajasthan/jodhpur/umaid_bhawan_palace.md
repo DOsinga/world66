@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 26.2719
 longitude: 73.0473
 tags:
 - things_to_do
+- architecture
 title: Umaid Bhawan Palace
 type: poi
 ---

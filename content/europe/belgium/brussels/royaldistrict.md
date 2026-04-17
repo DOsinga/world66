@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 50.8435
 longitude: 4.3631
 tags:
 - things_to_do
+- neighbourhood
 title: Royal District
 type: poi
 ---

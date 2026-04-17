@@ -1,10 +1,10 @@
 ---
 address: Agiou Dimitriou Street, Thessaloniki
-category: Sight
 latitude: 40.6386
 longitude: 22.9468
 tags:
 - things_to_do
+- landmark
 title: Aghios Dimitrios
 type: poi
 ---

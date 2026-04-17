@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.4244
 longitude: -75.6936
 tags:
 - things_to_do
+- landmark
 title: Rideau Canal
 type: poi
 ---

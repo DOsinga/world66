@@ -1,10 +1,10 @@
 ---
 address: Gunung Rapat, accessible via the housing estate
-category: Sight
 latitude: 4.5549
 longitude: 101.1161
 tags:
 - things_to_do
+- landmark
 title: Kek Lok Tong
 type: poi
 ---

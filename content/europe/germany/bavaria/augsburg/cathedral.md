@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 48.3737
 longitude: 10.8961
 tags:
 - things_to_do
+- landmark
 title: Cathedral of the Holy Virgin
 type: poi
 ---

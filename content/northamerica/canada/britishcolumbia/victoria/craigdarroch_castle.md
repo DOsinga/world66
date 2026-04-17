@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 48.4234
 longitude: -123.3471
 tags:
 - things_to_do
+- museum
 title: Craigdarroch Castle
 type: poi
 ---

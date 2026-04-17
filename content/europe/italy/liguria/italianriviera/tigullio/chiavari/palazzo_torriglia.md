@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 44.3168
 longitude: 9.3232
 tags:
 - things_to_do
+- museum
 title: Palazzo Torriglia (Pinacoteca)
 type: poi
 ---

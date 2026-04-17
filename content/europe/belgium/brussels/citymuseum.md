@@ -1,10 +1,10 @@
 ---
 address: Grand-Place
-category: Museum
 latitude: 50.846976
 longitude: 4.352781
 tags:
 - things_to_do
+- museum
 title: City Museum
 type: poi
 ---

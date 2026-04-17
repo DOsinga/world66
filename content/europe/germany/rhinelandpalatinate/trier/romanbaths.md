@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 48.376154
 longitude: 8.935487
 tags:
 - things_to_do
+- architecture
 title: Roman Baths
 type: general
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 33.513
 longitude: 36.2912
 tags:
 - things_to_do
+- museum
 title: Military Museum
 type: poi
 ---

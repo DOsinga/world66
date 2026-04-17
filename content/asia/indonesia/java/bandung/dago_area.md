@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: -6.8782
 longitude: 107.6159
 tags:
 - things_to_do
+- neighbourhood
 title: Dago Area
 type: poi
 ---

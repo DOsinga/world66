@@ -1,11 +1,11 @@
 ---
 address: Sariab Road, near Balochistan University
-category: Museum
 latitude: 30.15
 longitude: 67.0167
 opening_hours: 9:00 - 15:00 Mon-Sat
 tags:
 - things_to_do
+- museum
 title: Museum of Earth Sciences
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 17.913889
 longitude: 102.765278
 tags:
 - things_to_do
+- landmark
 title: Buddha Park (Xieng Khuan)
 type: poi
 ---

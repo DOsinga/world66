@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 30.6571
 longitude: 104.0656
 tags:
 - things_to_do
+- neighbourhood
 title: Tianfu Square
 type: poi
 ---

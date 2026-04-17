@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 36.7855
 longitude: 3.0583
 tags:
 - things_to_do
+- museum
 title: Museum of Popular Arts
 type: poi
 ---

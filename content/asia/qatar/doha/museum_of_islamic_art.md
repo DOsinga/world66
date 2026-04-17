@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 25.2953
 longitude: 51.5397
 tags:
 - things_to_do
+- museum
 title: Museum of Islamic Art
 type: poi
 ---

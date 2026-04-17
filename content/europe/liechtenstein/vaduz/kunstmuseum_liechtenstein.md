@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 47.1395
 longitude: 9.5226
 tags:
 - things_to_do
+- museum
 title: Kunstmuseum Liechtenstein
 type: poi
 ---

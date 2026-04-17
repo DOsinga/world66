@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 47.1376
 longitude: 9.5224
 tags:
 - things_to_do
+- museum
 title: Liechtenstein National Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 45.4302
 longitude: -75.7088
 tags:
 - things_to_do
+- museum
 title: Canadian Museum of History
 type: poi
 ---

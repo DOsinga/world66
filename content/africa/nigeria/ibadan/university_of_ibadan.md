@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 7.4441
 longitude: 3.9003
 tags:
 - things_to_do
+- landmark
 title: University of Ibadan
 type: poi
 ---

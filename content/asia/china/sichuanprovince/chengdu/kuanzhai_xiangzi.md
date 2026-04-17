@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 30.6745
 longitude: 104.0563
 tags:
 - things_to_do
+- neighbourhood
 title: Kuanzhai Xiangzi
 type: poi
 ---

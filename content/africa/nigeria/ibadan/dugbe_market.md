@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 7.382
 longitude: 3.8753
 tags:
 - things_to_do
+- neighbourhood
 title: Dugbe Market
 type: poi
 ---

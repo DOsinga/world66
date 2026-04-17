@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 19.3862
 longitude: 98.9062
 story: In 2021, UNESCO designated Doi Chiang Dao a World Biosphere Reserve — one of
@@ -7,6 +6,7 @@ story: In 2021, UNESCO designated Doi Chiang Dao a World Biosphere Reserve — o
   bears, and over 300 bird species, including several found nowhere else in Thailand.
 tags:
 - things_to_do
+- landmark
 title: Doi Luang Chiang Dao
 type: poi
 ---

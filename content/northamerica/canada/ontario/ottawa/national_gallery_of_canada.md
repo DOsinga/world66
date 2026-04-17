@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 45.4294
 longitude: -75.6989
 tags:
 - things_to_do
+- museum
 title: National Gallery of Canada
 type: poi
 ---

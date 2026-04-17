@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 58.9716
 longitude: 5.7289
 tags:
 - things_to_do
+- neighbourhood
 title: Gamle Stavanger (Old Town)
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 23.6141
 longitude: 58.5933
 tags:
 - things_to_do
+- landmark
 title: Al Alam Palace
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: 8 Z. Gorgiladze Street, Batumi
-category: Museum
 latitude: 41.6464
 longitude: 41.6375
 phone: +995 222 73894
 tags:
 - things_to_do
+- museum
 title: Adjara State Art Museum
 type: poi
 ---

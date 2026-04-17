@@ -1,10 +1,10 @@
 ---
 address: Decumanus
-category: Architecture
 latitude: 45.2281
 longitude: 13.591
 tags:
 - things_to_do
+- architecture
 title: Romanesque House
 type: poi
 ---

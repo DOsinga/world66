@@ -1,10 +1,10 @@
 ---
 address: 1233 Preservation Park Way, Oakland, CA 94612
-category: Architecture
 latitude: 37.8058
 longitude: -122.2745
 tags:
 - things_to_do
+- architecture
 title: Preservation Park
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 26.2952
 longitude: 73.0203
 tags:
 - things_to_do
+- neighbourhood
 title: The Blue City
 type: poi
 ---

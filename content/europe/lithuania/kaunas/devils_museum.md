@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: 54.899
 longitude: 23.912
 story: 'The most notorious exhibit is a carving of Hitler and Stalin dancing over
@@ -9,6 +8,7 @@ story: 'The most notorious exhibit is a carving of Hitler and Stalin dancing ove
   '
 tags:
 - things_to_do
+- museum
 title: Devil's Museum
 type: poi
 ---

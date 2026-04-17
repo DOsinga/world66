@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 48.3694
 longitude: 10.8983
 tags:
 - things_to_do
+- architecture
 title: Rathaus
 type: poi
 ---

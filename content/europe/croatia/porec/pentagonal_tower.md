@@ -1,10 +1,10 @@
 ---
 address: Decumanus
-category: Architecture
 latitude: 45.2274
 longitude: 13.5941
 tags:
 - things_to_do
+- architecture
 title: Pentagonal Tower
 type: poi
 ---

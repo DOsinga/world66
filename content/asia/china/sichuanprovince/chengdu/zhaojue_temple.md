@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.7103
 longitude: 104.1036
 tags:
 - things_to_do
+- landmark
 title: Zhaojue Temple
 type: poi
 ---

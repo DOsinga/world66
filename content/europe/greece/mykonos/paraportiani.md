@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 37.4471
 longitude: 25.3257
 tags:
 - things_to_do
+- architecture
 title: Paraportiani Church
 type: poi
 ---

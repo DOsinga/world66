@@ -1,10 +1,10 @@
 ---
 address: Gunung Rapat, 5 km south of Ipoh
-category: Sight
 latitude: 4.5595
 longitude: 101.1075
 tags:
 - things_to_do
+- landmark
 title: Sam Poh Tong
 type: poi
 ---

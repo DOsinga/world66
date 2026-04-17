@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 36.760376
 longitude: 3.046146
 tags:
 - things_to_do
+- museum
 title: Bardo Museum
 type: poi
 ---

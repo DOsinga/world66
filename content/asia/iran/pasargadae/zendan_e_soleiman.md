@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 30.192
 longitude: 53.1655
 tags:
 - things_to_do
+- architecture
 title: Zendan-e Soleiman (Prison of Solomon)
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -0.205
 longitude: 36.07
 tags:
 - things_to_do
+- landmark
 title: Menengai Crater
 type: poi
 ---

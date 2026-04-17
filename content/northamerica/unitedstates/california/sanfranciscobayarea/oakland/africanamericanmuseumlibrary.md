@@ -1,11 +1,11 @@
 ---
 address: 659 14th St, Oakland, CA 94612
-category: Museum
 latitude: 37.803
 longitude: -122.271
 phone: 510-637-0200
 tags:
 - things_to_do
+- museum
 title: African American Museum & Library at Oakland
 type: poi
 ---

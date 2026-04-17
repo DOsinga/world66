@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.6378
 longitude: 104.0884
 tags:
 - things_to_do
+- landmark
 title: River Viewing Pavilion Park
 type: poi
 ---

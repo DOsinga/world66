@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.6776
 longitude: 104.0742
 tags:
 - things_to_do
+- landmark
 title: Wenshu Monastery
 type: poi
 ---

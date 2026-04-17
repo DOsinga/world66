@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 45.2271
 longitude: 13.5942
 tags:
 - things_to_do
+- museum
 title: Porec Museum
 type: poi
 ---

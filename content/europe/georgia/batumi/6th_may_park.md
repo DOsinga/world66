@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.6395
 longitude: 41.6282
 tags:
 - things_to_do
+- landmark
 title: 6th May Park and Dolphinarium
 type: poi
 ---

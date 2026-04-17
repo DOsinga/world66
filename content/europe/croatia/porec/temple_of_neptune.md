@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.2283
 longitude: 13.5901
 tags:
 - things_to_do
+- landmark
 title: Temple of Neptune
 type: poi
 ---

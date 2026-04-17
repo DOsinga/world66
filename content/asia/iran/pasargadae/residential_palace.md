@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 30.1948
 longitude: 53.1685
 tags:
 - things_to_do
+- architecture
 title: Residential Palace
 type: poi
 ---

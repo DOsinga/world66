@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 39.6494
 longitude: 66.9683
 story: When Soviet archaeologists opened Timur's tomb in June 1941, they found an
@@ -7,6 +6,7 @@ story: When Soviet archaeologists opened Timur's tomb in June 1941, they found a
   terrible than Timur. Germany invaded the Soviet Union the next day.
 tags:
 - things_to_do
+- landmark
 title: Gur-e-Amir
 type: poi
 ---

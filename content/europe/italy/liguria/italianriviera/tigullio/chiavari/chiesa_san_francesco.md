@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 44.3172
 longitude: 9.3245
 tags:
 - things_to_do
+- landmark
 title: Chiesa di San Francesco
 type: poi
 ---

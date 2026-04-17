@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -22.6097
 longitude: 14.4873
 tags:
 - things_to_do
+- landmark
 title: Zeila Shipwreck
 type: poi
 ---

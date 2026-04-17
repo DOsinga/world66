@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.6607
 longitude: 66.981
 tags:
 - things_to_do
+- landmark
 title: Siob Bazaar
 type: poi
 ---

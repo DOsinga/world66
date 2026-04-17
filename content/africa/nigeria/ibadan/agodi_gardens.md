@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 7.4012
 longitude: 3.9056
 tags:
 - things_to_do
+- landmark
 title: Agodi Zoological Gardens
 type: poi
 ---

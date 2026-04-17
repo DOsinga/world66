@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.6471
 longitude: 104.0471
 tags:
 - things_to_do
+- landmark
 title: Wuhou Shrine
 type: poi
 ---

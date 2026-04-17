@@ -1,10 +1,10 @@
 ---
 address: Jalan Raja Musa Aziz
-category: Sight
 latitude: 4.6024
 longitude: 101.0832
 tags:
 - things_to_do
+- landmark
 title: D. R. Seenivasagam Park
 type: poi
 ---

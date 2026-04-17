@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: -22.6763
 longitude: 14.5258
 story: Built in 1905 as the headquarters of the Damara & Namaqua Trading Company,
@@ -8,6 +7,7 @@ story: Built in 1905 as the headquarters of the Damara & Namaqua Trading Company
   to spot ships offshore during the years before Swakopmund had a functioning harbour.
 tags:
 - things_to_do
+- architecture
 title: Woermannhaus
 type: poi
 ---

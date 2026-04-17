@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -34.603
 longitude: -58.376
 tags:
 - things_to_do
+- landmark
 title: Calle Florida
 type: poi
 ---

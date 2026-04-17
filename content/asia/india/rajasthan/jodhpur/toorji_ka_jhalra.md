@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 26.2945
 longitude: 73.0254
 tags:
 - things_to_do
+- landmark
 title: Toorji Ka Jhalra
 type: poi
 ---

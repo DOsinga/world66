@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 29.7596
 longitude: 67.3012
 tags:
 - things_to_do
+- landmark
 title: Pir Ghaib
 type: poi
 ---

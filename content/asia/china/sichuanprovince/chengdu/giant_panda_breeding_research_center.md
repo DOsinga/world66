@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 30.7333
 longitude: 104.1467
 tags:
 - things_to_do
+- landmark
 title: Chengdu Research Base of Giant Panda Breeding
 type: poi
 ---

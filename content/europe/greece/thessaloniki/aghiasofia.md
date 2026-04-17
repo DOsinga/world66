@@ -1,10 +1,10 @@
 ---
 address: Agias Sofias Square, Thessaloniki
-category: Sight
 latitude: 40.6334
 longitude: 22.9462
 tags:
 - things_to_do
+- landmark
 title: Hagia Sofia
 type: poi
 ---

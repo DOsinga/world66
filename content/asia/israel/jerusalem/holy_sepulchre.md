@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.7784
 longitude: 35.2297
 tags:
 - things_to_do
+- landmark
 title: Church of the Holy Sepulchre
 type: poi
 ---

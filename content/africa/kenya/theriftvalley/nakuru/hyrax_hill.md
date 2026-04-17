@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -0.3017
 longitude: 36.11
 tags:
 - things_to_do
+- landmark
 title: Hyrax Hill Prehistoric Site
 type: poi
 ---

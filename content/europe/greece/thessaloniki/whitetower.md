@@ -1,10 +1,10 @@
 ---
 address: Nikis Avenue, Thessaloniki
-category: Sight
 latitude: 40.6264
 longitude: 22.9484
 tags:
 - things_to_do
+- landmark
 title: White Tower
 type: poi
 ---

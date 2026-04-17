@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.398
 longitude: 98.9195
 tags:
 - things_to_do
+- landmark
 title: Wat Tham Pha Plong
 type: poi
 ---

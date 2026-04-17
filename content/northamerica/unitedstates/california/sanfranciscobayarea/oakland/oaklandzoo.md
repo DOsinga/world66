@@ -1,11 +1,11 @@
 ---
 address: 9777 Golf Links Rd, Oakland, CA 94605
-category: Sight
 latitude: 37.7496
 longitude: -122.1478
 phone: 510-632-9525
 tags:
 - things_to_do
+- landmark
 title: Oakland Zoo
 type: poi
 ---

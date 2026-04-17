@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 58.9866
 longitude: 6.1889
 tags:
 - things_to_do
+- landmark
 title: Pulpit Rock (Preikestolen)
 type: poi
 ---

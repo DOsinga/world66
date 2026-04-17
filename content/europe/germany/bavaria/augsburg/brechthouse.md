@@ -1,10 +1,10 @@
 ---
 address: Auf dem Rain 7
-category: Museum
 latitude: 48.3668
 longitude: 10.8907
 tags:
 - things_to_do
+- museum
 title: Brecht House
 type: poi
 ---

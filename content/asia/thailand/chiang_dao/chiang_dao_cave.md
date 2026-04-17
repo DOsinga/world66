@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 19.3952
 longitude: 98.9217
 tags:
 - things_to_do
+- landmark
 title: Chiang Dao Cave
 type: poi
 ---

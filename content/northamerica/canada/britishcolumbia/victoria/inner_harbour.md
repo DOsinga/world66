@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 48.4225
 longitude: -123.3697
 tags:
 - things_to_do
+- neighbourhood
 title: Inner Harbour
 type: poi
 ---

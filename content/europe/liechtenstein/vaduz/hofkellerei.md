@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 47.141
 longitude: 9.5209
 tags:
 - things_to_do
+- landmark
 title: Hofkellerei des Fürsten von Liechtenstein
 type: poi
 ---

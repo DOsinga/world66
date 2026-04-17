@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.6548
 longitude: 66.9758
 tags:
 - things_to_do
+- landmark
 title: The Registan
 type: poi
 ---

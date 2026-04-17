@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 48.5783
 longitude: -123.4692
 tags:
 - things_to_do
+- landmark
 title: Victoria Butterfly Gardens
 type: poi
 ---

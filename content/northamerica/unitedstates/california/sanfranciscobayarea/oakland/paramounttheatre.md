@@ -1,11 +1,11 @@
 ---
 address: 2025 Broadway, Oakland, CA 94612
-category: Architecture
 latitude: 37.8122
 longitude: -122.2684
 phone: 510-465-6400
 tags:
 - things_to_do
+- architecture
 title: Paramount Theatre
 type: poi
 ---

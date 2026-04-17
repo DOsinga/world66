@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 48.5631
 longitude: -123.4668
 tags:
 - things_to_do
+- landmark
 title: Butchart Gardens
 type: poi
 ---

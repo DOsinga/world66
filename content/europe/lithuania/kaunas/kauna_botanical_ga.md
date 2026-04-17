@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 54.871
 longitude: 23.912
 tags:
 - things_to_do
+- landmark
 title: Kaunas Botanical Garden
 type: poi
 ---

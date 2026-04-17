@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 33.5334
 longitude: 36.2733
 tags:
 - things_to_do
+- landmark
 title: Mount Kassioun
 type: poi
 ---

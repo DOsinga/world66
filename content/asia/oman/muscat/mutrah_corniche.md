@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 23.6195
 longitude: 58.5662
 tags:
 - things_to_do
+- landmark
 title: Mutrah Corniche
 type: poi
 ---

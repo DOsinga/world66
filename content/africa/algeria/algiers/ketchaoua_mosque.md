@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.7864
 longitude: 3.0619
 tags:
 - things_to_do
+- landmark
 title: Ketchaoua Mosque
 type: poi
 ---

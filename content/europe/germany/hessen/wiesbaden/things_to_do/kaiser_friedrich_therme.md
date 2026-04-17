@@ -1,7 +1,7 @@
 ---
 title: "Kaiser-Friedrich-Therme"
 type: poi
-category: "Sight"
+tags: [things_to_do, spa]
 address: "Langgasse 38–40"
 latitude: 50.0858
 longitude: 8.2433

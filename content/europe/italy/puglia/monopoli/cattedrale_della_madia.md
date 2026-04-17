@@ -1,7 +1,7 @@
 ---
 title: "Cattedrale della Madia"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, church]
 latitude: 40.9527
 longitude: 17.2996
 ---

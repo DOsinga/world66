@@ -1,7 +1,7 @@
 ---
 title: "Castello di Carlo V"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight, castle]
 latitude: 40.9519
 longitude: 17.2984
 story: >

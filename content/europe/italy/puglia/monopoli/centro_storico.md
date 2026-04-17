@@ -1,7 +1,7 @@
 ---
 title: "Centro Storico"
 type: poi
-category: "Neighbourhood"
+tags: [things_to_do, neighbourhood]
 latitude: 40.9527
 longitude: 17.2990
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Shipwreck"
 type: poi
-category: "Shopping"
+tags:
+  - things_to_do
+  - shopping
 address: "322 F St, Eureka, CA"
 phone: "(707) 476-0991"
 latitude: 40.803087

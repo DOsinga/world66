@@ -1,9 +1,11 @@
 ---
-title: "Jos National Museum"
-type: poi
-category: Museum
 latitude: 9.9182
 longitude: 8.8863
+tags:
+- things_to_do
+- museum
+title: Jos National Museum
+type: poi
 ---
 
 The centrepiece of the Museum Complex, the Jos National Museum houses an impressive collection of Nigerian art and archaeology, including Nok terracotta figurines — some of the oldest known sculpture in sub-Saharan Africa, dating back over 2,000 years. The Nok culture originated on the Jos Plateau, which gives the collection a strong local resonance. Well worth your time.

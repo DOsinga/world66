@@ -1,11 +1,12 @@
 ---
-title: Zell am See
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 47.324
 longitude: 12.7963
-done:
-  location_cleanup: 2026-04-05
 score: 0.68
+title: Zell am See
+type: location
 ---
 
 Zell am See is an Austrian resort town in Salzburgerland, set between the Schmittenhöhe ski mountain and the clear waters of Zeller See lake. The medieval town centre — largely traffic-free since a bypass tunnel was built — sits on a peninsula jutting into the lake, with good mountain views in all directions. Unlike many purpose-built ski resorts, it has genuine historic character: the town was founded by monks from Salzburg in the 8th century, and the Church of St Hippolytus at its centre dates from the Romanesque period.

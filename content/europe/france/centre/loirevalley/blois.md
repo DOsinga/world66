@@ -1,9 +1,11 @@
 ---
-title: Blois
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 47.587686
 longitude: 1.333764
 score: 0.65
+title: Blois
+type: location
 ---
 
 Blois is located halfway between Olreans and [Tours](/europe/france/centre/loirevalley/tours) on the north bank of the Loire. From a distance you see the characteric white houses with their red chimneys. The cathedral and the chateau are on seperate hills and dominate the city.

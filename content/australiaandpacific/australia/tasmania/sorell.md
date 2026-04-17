@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: -42.7886
 longitude: 147.6671
+score: 0.38
 title: Sorell
 type: location
-score: 0.38
 ---
 
 Sorell sits 26 km east of Hobart, straddling the narrow neck of land between Pitt Water and the Tasman Peninsula. It's one of Tasmania's oldest European settlements — laid out as a farming town in 1808 and officially gazetted in 1821 — and for much of the 19th century it was the colony's grain basket, shipping wheat and barley across Bass Strait to New South Wales. Today it functions mainly as a commuter town for Hobart, but there's enough history, good food, and natural interest nearby to make it worth a stop rather than a drive-through.

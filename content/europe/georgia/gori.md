@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 41.981847
 longitude: 44.111781
+score: 0.46
 title: Gori
 type: location
-score: 0.46
 ---
 
 Gori is best known as the birthplace of Joseph Stalin, and the Stalin Museum dominates the town both physically and culturally. Whether or not that appeals to you, it is one of the more unusual museum experiences in the Caucasus — a grand Soviet-era building constructed around the tiny house where Stalin was born, filled with photographs, personal effects, and his private railway carriage.

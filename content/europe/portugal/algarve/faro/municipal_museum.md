@@ -1,7 +1,7 @@
 ---
 title: "Municipal Museum of Archaeology"
 type: poi
-category: "Museum"
+tags: [things_to_do, museum]
 latitude: 37.015500
 longitude: -7.934800
 ---

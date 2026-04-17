@@ -1,7 +1,7 @@
 ---
 title: "Fort Larned National Historic Site"
 type: poi
-category: Sight
+tags: [things_to_do, historic_site, museum]
 latitude: 38.1772
 longitude: -99.2192
 ---

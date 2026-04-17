@@ -1,6 +1,9 @@
 ---
 title: 'Ivy Green'
 type: poi
+tags:
+  - sights
+  - sight
 address: '300 West North Commons, Tuscumbia, Alabama 35674'
 phone: '(256) 383-4066'
 opening_hours: 'Mon-Sat 8:30am-4pm, Sun 1-4pm'

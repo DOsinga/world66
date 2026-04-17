@@ -2,6 +2,8 @@
 category: Museum
 latitude: 44.3167
 longitude: 9.3232
+tags:
+- things_to_do
 title: Museo del Risorgimento
 type: poi
 ---

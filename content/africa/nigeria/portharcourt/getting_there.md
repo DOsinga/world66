@@ -1,10 +1,9 @@
 ---
-title: "Getting There"
+address: VPO-DURJANPUR, HISAR,HARYANA,INDIA
+email: sandipkumarbaloda@yahoo.com
+phone: 09255224945
+title: Getting There
 type: section
-address: "VPO-DURJANPUR, HISAR,HARYANA,INDIA"
-email: "sandipkumarbaloda@yahoo.com"
-phone: "09255224945"
-type: "By Air"
 ---
 
 ### [SANDIP KUMAR](/africa/nigeria/portharcourt/getting_there/sandip_kumar)

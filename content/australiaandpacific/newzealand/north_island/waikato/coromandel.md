@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: -36.760161
 longitude: 175.497274
+score: 0.59
 title: Coromandel
 type: location
-score: 0.59
 ---
 
 The **Coromandel Peninsula** juts out into the Hauraki Gulf east of Auckland, close enough to see from the city on a clear day yet unmistakably its own place. Jagged volcanic hills covered in native bush run down the spine of the peninsula, dropping to a coastline of sandy beaches, sheltered coves, and rocky headlands. It's 90 minutes from New Zealand's largest city, but it feels considerably further away.

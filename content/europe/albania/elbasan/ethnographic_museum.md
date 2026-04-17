@@ -1,0 +1,10 @@
+---
+latitude: 41.112
+longitude: 20.0821
+tags:
+- things_to_do
+title: Ethnographic Museum
+type: poi
+---
+
+Housed in a traditional two-storey Ottoman-era house in the bazaar quarter, the Ethnographic Museum covers the domestic and craft life of Elbasan before industrialisation. Rooms are arranged as period interiors — weaving, metalwork, kitchen, reception room — giving a genuine sense of how a prosperous Elbasan family would have lived in the 18th and 19th centuries. Small and manageable; an hour is enough.

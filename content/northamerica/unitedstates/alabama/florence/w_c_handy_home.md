@@ -1,6 +1,9 @@
 ---
 title: 'W. C. Handy Home, Museum & Library'
 type: poi
+tags:
+  - museums
+  - museum
 address: '620 West College Street, Florence, AL 35630'
 phone: '(256) 760-6379'
 opening_hours: '10am-4pm Tues.-Sat.'

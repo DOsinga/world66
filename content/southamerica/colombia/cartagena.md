@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 10.426557
 longitude: -75.544167
 score: 0.73
 title: Cartagena
 type: location
+image: cartagena.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bater%C3%ADa_de_Castillitos,_Cartagena,_Espa%C3%B1a,_2022-07-16,_DD_67-69_HDR-Edit.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
 ---
 
 Cartagena (pop. 888 000) the most popular tourist resort town in Colombia is divided into two main parts: the Ciudad Antigua (Old City) and the Ciudad Nueva (New City). Cartagnea used to be a popular placefor the privateers of the Caribbean (the most famous being Sir Francis Drake), so the Spanish have invested heavily in thick walls to protect the important harbour from attacks. 

@@ -1,11 +1,16 @@
 ---
-title: Macau
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 22.17576
 longitude: 113.551414
-done:
-  location_cleanup: 2026-04-05
 score: 0.64
+title: Macau
+type: location
+image: macau.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023(2).jpg
+image_license: CC BY-SA 4.0
+image_attribution: LN9267
 ---
 
 Macau is the strangest city in China and probably the strangest city in Asia: a tiny former Portuguese colony of 30 square kilometres at the mouth of the Pearl River, 60 km across the water from Hong Kong, where Jesuit baroque churches, Cantonese temples, Portuguese egg tarts and the largest concentration of casinos in the world all exist on top of one another. Portugal handed the territory back to China in 1999 after 442 years; since then Macau has boomed on the back of gambling money to become the richest city in the world by GDP per capita.

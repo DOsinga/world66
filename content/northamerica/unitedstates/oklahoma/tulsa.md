@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 36.156312
 longitude: -95.992752
 score: 0.42
 title: Tulsa
 type: location
+image: tulsa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20240905_1015_1st_Methodist_Church,_Tulsa,_Oklahoma_(54236902354).jpg
+image_license: CC BY 2.0
+image_attribution: David Wilson
 ---
 
 Located northeast of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity) on Route 66, Tulsa is the second city of the state and a good starting point for exploring Green Country, the lush northeastern corner of Oklahoma.

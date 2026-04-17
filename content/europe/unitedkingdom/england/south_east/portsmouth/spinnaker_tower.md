@@ -1,0 +1,12 @@
+---
+address: Gunwharf Quays
+latitude: 50.7956
+longitude: -1.1081
+tags:
+- things_to_do
+- architecture
+title: Spinnaker Tower
+type: poi
+---
+
+A sail-shaped 170-metre observation tower on the waterfront at Gunwharf Quays, opened in 2005. Three viewing decks give sweeping panoramas across Portsmouth Harbour, the Solent, the Isle of Wight and, on clear days, the South Downs. The top deck has a glass Sky Walk floor that is not for the faint-hearted.

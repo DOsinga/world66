@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 55.7047
 longitude: 13.1921
+score: 0.52
 title: Lund
 type: location
-score: 0.52
+image: lund.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lund_(Scania,_Sweden),_maximum_color_saturation.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Bob Collowan
 ---
 
 Lund is one of Scandinavia's oldest cities and one of its most likeable. Founded around 990 AD by Danish king Sweyn Forkbeard, it predates the Swedish state itself and spent its early centuries as the ecclesiastical capital of the north — a status that bequeathed the city a spectacular Romanesque cathedral and a dense concentration of medieval lanes and half-timbered buildings that survive largely intact.

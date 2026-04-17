@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 41.652134
 longitude: -0.880943
 score: 0.56
 title: Zaragoza
 type: location
+image: zaragoza.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alconchel_de_Ariza,_Zaragoza,_Espa%C3%B1a,_2015-12-28,_DD_03.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
 ---
 
 Zaragoza is the capital of Aragon. It is a very Spanish city. Only small numbers of non-Spanish find their way to this large and lively city between Madrid and Barcelona. Actually half of the one million population of Aragon is living in Zaragoza. Besides some outstanding historic sights and its closeness to the central Pyrenees there are excellent restaurants serving Aragonese food. If you are in town during the Fiesta del Pilar around the 12th of october you can experience an outstanding party. For nine days the whole city goes crazy.

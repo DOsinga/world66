@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 25.6747
 longitude: 94.1086
+score: 0.49
 title: Nagaland
 type: location
-score: 0.49
 ---
 
 Nagaland is a small hill state in India's far northeast, wedged between Assam, Manipur, and Myanmar. It is home to more than a dozen Naga tribes, each with distinct languages, weaving traditions, and histories — and the differences between them are real and visible, not just a brochure claim. The landscape is steep and green: forested ridges, terraced fields, and valley towns connected by mountain roads that take longer than the map suggests.

@@ -1,9 +1,12 @@
 ---
-title: "Hawaii Yacht Charters"
+address: Honolulu, Oahu, Hawaii
+email: info@yachtchartershawaii.com
+tags:
+- day_trips
+- sight
+title: Hawaii Yacht Charters
 type: poi
-address: "Honolulu, Oahu, Hawaii"
-email: "info@yachtchartershawaii.com"
-url: "www.yachtchartershawaii.com"
+url: www.yachtchartershawaii.com
 ---
 
 There are a number of luxury yachts in Hawaii (especially on the island of Oahu) that can take you for a private cruise far away from the sunburned hordes. Once the exclusive domain of the super rich, luxury boats can now be rented by the hour for a lot less money than you might think.

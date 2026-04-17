@@ -1,10 +1,11 @@
 ---
-title: "Central (Gorky) Park"
-type: poi
-address: "at the eastern end of Gogol, 1 km from the Hotel Otrar"
-opening_hours: "9am-9pm Mon-Sun"
-phone: "30 84 52,30 61 11"
-type: "Parks, Gardens and Zoos"
+address: at the eastern end of Gogol, 1 km from the Hotel Otrar
+opening_hours: 9am-9pm Mon-Sun
+phone: 30 84 52,30 61 11
+tags:
+- sights
+title: Central (Gorky) Park
+type: Parks, Gardens and Zoos
 ---
 
 Almaty’s largest recreational area, is still known as Gorky Park.

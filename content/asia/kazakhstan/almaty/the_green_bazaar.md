@@ -1,8 +1,9 @@
 ---
-title: "The Green Bazaar"
-type: poi
-address: "Zelyony bazaar: Zhibek Zholy, corner of Pushkina"
-type: "Hotspots"
+address: 'Zelyony bazaar: Zhibek Zholy, corner of Pushkina'
+tags:
+- sights
+title: The Green Bazaar
+type: Hotspots
 ---
 
 The Central Market, otherwise known as the Green Bazaar, brings to life

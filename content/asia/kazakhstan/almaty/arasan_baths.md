@@ -1,8 +1,9 @@
 ---
-title: "Arasan Baths"
-type: poi
-address: "Aiteke Bi, cnr of Kunayeva"
-type: "Hotspots"
+address: Aiteke Bi, cnr of Kunayeva
+tags:
+- sights
+title: Arasan Baths
+type: Hotspots
 ---
 
 Almaty’s central bathhouse is situated in a large, impressive

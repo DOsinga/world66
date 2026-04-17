@@ -1,8 +1,10 @@
 ---
-title: "Victoria Peak"
-type: poi
 latitude: 22.2759
 longitude: 114.1455
+tags:
+- things_to_do
+title: Victoria Peak
+type: poi
 ---
 
 The Peak is the highest point on Hong Kong Island at 552 metres, and the view from the top is the reason most visitors come up here: Victoria Harbour below, Kowloon stretching away to the north, and on a clear day the distant hills of the New Territories. At night, with the harbour lights reflected in the water, it's genuinely spectacular.

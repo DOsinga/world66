@@ -1,9 +1,11 @@
 ---
-title: "Dragon's Back Trail"
-type: poi
-address: "To Tei Wan, Shek O, Hong Kong Island"
+address: To Tei Wan, Shek O, Hong Kong Island
 latitude: 22.2358
 longitude: 114.2308
+tags:
+- things_to_do
+title: Dragon's Back Trail
+type: poi
 ---
 
 Dragon's Back was named Asia's best urban hike by Time magazine, and the claim holds up. The trail follows a ridgeline on the southeastern corner of Hong Kong Island with views over the South China Sea to the east and Stanley Peninsula to the west. Most hikers do the 8.5km route from To Tei Wan to Big Wave Bay in around three hours, finishing at the beach.

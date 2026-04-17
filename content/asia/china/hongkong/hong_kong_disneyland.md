@@ -1,10 +1,12 @@
 ---
-title: "Hong Kong Disneyland"
-type: poi
-address: "Lantau Island"
-url: "www.hongkongdisneyland.com"
+address: Lantau Island
 latitude: 22.3131
-longitude: 114.0410
+longitude: 114.041
+tags:
+- things_to_do
+title: Hong Kong Disneyland
+type: poi
+url: www.hongkongdisneyland.com
 ---
 
 Hong Kong Disneyland opened in 2005 on reclaimed land in the northeast of Lantau Island. It's the smallest Disney resort in the world, but has expanded significantly since opening and now has several distinct themed lands. The park targets Asian visitors — you'll find dim sum at restaurants, Cantonese signage throughout, and Mickey Mouse appearing in a silk Chinese outfit around Lunar New Year.

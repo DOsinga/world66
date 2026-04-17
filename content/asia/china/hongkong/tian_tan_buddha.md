@@ -1,9 +1,11 @@
 ---
-title: "Tian Tan Buddha (Big Buddha)"
+address: Po Lin Monastery, Ngong Ping, Lantau Island
+latitude: 22.254
+longitude: 113.905
+tags:
+- things_to_do
+title: Tian Tan Buddha (Big Buddha)
 type: poi
-address: "Po Lin Monastery, Ngong Ping, Lantau Island"
-latitude: 22.2540
-longitude: 113.9050
 ---
 
 The Tian Tan Buddha on Lantau Island is a 34-metre bronze statue of Sakyamuni sitting cross-legged at the top of 268 steps, visible from a considerable distance on clear days — reputedly even from Macau. Completed in 1993, it sits next to the Po Lin Monastery, which has been here since 1906. The monastery serves vegetarian lunches that are worth the trip alone.

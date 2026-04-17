@@ -1,10 +1,13 @@
 ---
-title: "The Peninsula"
-type: poi
-address: "Salisbury Road, Tsim Sha Tsui"
-phone: "2920 2888"
+address: Salisbury Road, Tsim Sha Tsui
 latitude: 22.2948
 longitude: 114.1737
+phone: 2920 2888
+tags:
+- kowloon
+- eating_out
+title: The Peninsula
+type: poi
 ---
 
 The Peninsula has been Hong Kong's grande dame hotel since 1928, and its lobby tea service is one of the city's genuine institutions. A string quartet plays from the gallery above as you work through the three-tier stand of sandwiches, scones, and pastries. Tea runs daily 2–7pm (lobby) and Friday–Sunday 3–5pm (Verandah). Dress smartly. Book ahead, particularly on weekends.

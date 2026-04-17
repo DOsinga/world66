@@ -1,7 +1,10 @@
 ---
 title: "Fort Saint-Louis"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - historical_site
+  - fort
 latitude: 14.6006
 longitude: -61.0617
 ---

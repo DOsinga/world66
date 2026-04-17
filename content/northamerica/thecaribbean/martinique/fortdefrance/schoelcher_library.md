@@ -1,7 +1,11 @@
 ---
 title: "Schoelcher Library"
 type: poi
-category: Architecture
+tags:
+  - things_to_do
+  - architecture
+  - library
+  - landmark
 latitude: 14.6027
 longitude: -61.0625
 story: >

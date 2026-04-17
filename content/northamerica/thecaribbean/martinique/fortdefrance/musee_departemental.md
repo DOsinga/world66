@@ -1,7 +1,9 @@
 ---
-title: "Musée Départemental de Martinique"
+title: "Musee Departemental de Martinique"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
 latitude: 14.6030
 longitude: -61.0618
 ---

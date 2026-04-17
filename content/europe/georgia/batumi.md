@@ -1,11 +1,12 @@
 ---
-title: Batumi
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 41.651
 longitude: 41.636
-done:
-  location_cleanup: 2026-04-05
 score: 0.61
+title: Batumi
+type: location
 ---
 
 Batumi is Georgia's Black Sea city — a subtropical port that mixes Soviet-era boulevard architecture with a recent wave of boldly designed towers and squares. It sits 350km from [Tbilisi](/europe/georgia/tbilisi), close to the Turkish border, in the Adjara region, where the climate is warmer and wetter than the Georgian interior: palms, bamboo, eucalyptus, and magnolia line the streets.

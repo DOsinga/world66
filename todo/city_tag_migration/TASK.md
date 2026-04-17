@@ -65,12 +65,23 @@ type: neighbourhood
 Brief intro to the neighbourhood.
 ```
 
-### 5. Move the pois
+### 4. Move the pois
 
 Once correctly annotated, move the pois to the root of the city and delete the now empty section and
 neighborhood folders. Make sure you end up with the same number of pois, not counting dupes of course.
 
-### 4. Commit
+### 5. Page layout
+
+Take a good look at the page layout and make sure it's nicely readable. 
+E.g. replace markers like ** with the appropriate bold text.
+
+### 6. Image
+
+If the city page does not have an `image:` field in its frontmatter, run the find-photo skill
+to find and assign a suitable image before committing. Do not skip this step — every city
+must have an image when done.
+
+### 7. Commit
 
 One commit per city: `Tag migration: City Name`
 

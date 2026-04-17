@@ -1,7 +1,7 @@
 ---
 title: "Château de Cheverny"
 type: poi
-category: "Sight"
+tags: [things_to_do, chateau, museum, history]
 latitude: 47.4997
 longitude: 1.4611
 story: >

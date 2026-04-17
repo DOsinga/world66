@@ -1,44 +1,22 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
-type: "Local"
 ---
 
-Below is a listing of Radovljica restaurants.
+Radovljica's main square, Linhartov trg, has several good restaurants serving traditional Slovenian food. Prices are lower than in nearby Bled, and the medieval setting adds to the atmosphere.
 
-**Contributors**
-May 02, 2006
+### Gostilna Kunstelj
 
-### [Restaurant & Apartements Gostilna Kunstelj](/europe/slovenia/radovljica/eating_out/restaurant__apart)
+A well-regarded local restaurant on the main square, also offering apartments.
 
-Restaurant & Apartements Gostilna Kunstelj
+### Restaurant Pizzeria Matiček
 
-type: Local
+Pizza and local dishes in a casual setting.
 
+### Grajska gostilnica
 
+Traditional Slovenian restaurant in a historic setting on the square.
 
-[[rate it]](/europe/slovenia/radovljica/eating_out/restaurant__apart)
+### Restavracija Lectar
 
-### [Restaurant Pizzeria Maticek](/europe/slovenia/radovljica/eating_out/restaurant_pizzeri)
-
-type: Local
-
-
-
-[[rate it]](/europe/slovenia/radovljica/eating_out/restaurant_pizzeri)
-
-### [Restaurant Grajska gostilnica](/europe/slovenia/radovljica/eating_out/restaurant_grajska)
-
-type: Local
-
-
-
-[[rate it]](/europe/slovenia/radovljica/eating_out/restaurant_grajska)
-
-### [Restaurnt Lectar](/europe/slovenia/radovljica/eating_out/restaurnt_lectar)
-
-type: Local
-
-
-
-[[rate it]](/europe/slovenia/radovljica/eating_out/restaurnt_lectar)
+A long-established restaurant known for traditional Slovenian cuisine, located in a historic gingerbread house. Lectar is also famous for its decorated honey-bread hearts, a Slovenian folk tradition.

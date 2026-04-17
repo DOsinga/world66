@@ -1,7 +1,10 @@
 ---
 title: "Hachiko Statue"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - landmark
+  - statue
 address: "Hachiko Plaza, Shibuya Station"
 latitude: 35.65914
 longitude: 139.700716

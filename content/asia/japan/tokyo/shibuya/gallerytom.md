@@ -1,7 +1,10 @@
 ---
 title: "Gallery TOM"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
+  - gallery
 latitude: 35.6572
 longitude: 139.6823
 ---

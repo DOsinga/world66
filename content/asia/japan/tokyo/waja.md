@@ -1,6 +1,9 @@
 ---
 title: "Waja"
 type: poi
+tags:
+  - bars_and_cafes
+  - bar
 address: "2-7-17 Myoden Ichikawa-shi Chiba-ken"
 phone: "047-300-3806"
 ---
@@ -10,14 +13,3 @@ phone: "047-300-3806"
 http://www.waja.co.jp/shop_en.html
 
 Keep in mind that it is in Chiba Prefecture, not Tokyo.
-
-**Contributors**
-April 29, 2005
-
-
-
-
-
-tel: 047-300-3806
-
-address: 2-7-17 Myoden Ichikawa-shi Chiba-ken

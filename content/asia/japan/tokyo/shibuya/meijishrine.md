@@ -1,7 +1,11 @@
 ---
 title: "Meiji Shrine"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - shrine
+  - religious_site
+  - park
 latitude: 35.674842
 longitude: 139.699627
 ---

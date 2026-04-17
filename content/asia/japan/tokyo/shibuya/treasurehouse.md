@@ -1,7 +1,9 @@
 ---
 title: "Meiji Jingu Treasure House"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
 latitude: 35.6770
 longitude: 139.6989
 ---

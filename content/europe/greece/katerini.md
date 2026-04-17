@@ -1,11 +1,12 @@
 ---
-title: Katerini
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 40.271362
 longitude: 22.508762
-done:
-  location_cleanup: 2026-04-05
 score: 0.5
+title: Katerini
+type: location
 ---
 
 Katerini is the unassuming capital of Pieria, a coastal plain in northern Greece roughly halfway between Thessaloniki and Mount Olympus. The town itself has around 60,000 people and little in the way of tourist sights — it is not a place people fly in for — but its setting is genuinely extraordinary: the snowy summits of **Mount Olympus**, the mythological home of Zeus and the Greek gods, rise 15 km to the west, and the long sandy beaches of the **Olympian Riviera** start just a few kilometres to the east.

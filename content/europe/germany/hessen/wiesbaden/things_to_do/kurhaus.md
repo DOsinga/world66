@@ -1,7 +1,7 @@
 ---
 title: "Kurhaus and Casino"
 type: poi
-category: "Architecture"
+tags: [things_to_do, sight, architecture]
 latitude: 50.0856
 longitude: 8.2461
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Neroberg"
 type: poi
-category: "Sight"
+tags: [things_to_do, sight]
 latitude: 50.0950
 longitude: 8.2417
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Diving off the South Coast"
 type: poi
-category: Sight
+tags: [things_to_do, outdoor]
 latitude: 42.7480
 longitude: 10.2450
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Monte Capanne Trails"
 type: poi
-category: Sight
+tags: [things_to_do, outdoor, hiking]
 latitude: 42.7730
 longitude: 10.1717
 ---

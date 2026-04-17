@@ -1,7 +1,7 @@
 ---
 title: "Torre del Campo"
 type: poi
-category: Architecture
+tags: [things_to_do, sight]
 latitude: 42.7610
 longitude: 10.2355
 ---

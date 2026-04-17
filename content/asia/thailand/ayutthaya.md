@@ -1,11 +1,12 @@
 ---
-title: Ayutthaya
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 14.3561
 longitude: 100.5688
-done:
-  location_cleanup: 2026-04-06
 score: 0.67
+title: Ayutthaya
+type: location
 ---
 
 For over four centuries, Ayutthaya was the capital of Siam and one of the largest cities in the world. Founded in 1350 on an island at the confluence of three rivers, it grew into a cosmopolitan trading hub that hosted merchants from China, Japan, India, Persia, and Europe. In 1767, Burmese armies burned it to the ground.

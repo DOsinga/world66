@@ -1,14 +1,15 @@
 ---
-title: "Erawan Thai restaurant"
-type: poi
-address: "Schagchelstraat 13"
-email: "reserveren@erawan.nl"
-phone: "+31 (0)23-5342923"
-price: "Euro 10,15 and up"
-type: "Thai"
-url: "www.erawan.nl"
+address: Schagchelstraat 13
+email: reserveren@erawan.nl
 latitude: 52.379381
 longitude: 4.636123
+phone: +31 (0)23-5342923
+price: Euro 10,15 and up
+tags:
+- eating_out
+title: Erawan Thai restaurant
+type: Thai
+url: www.erawan.nl
 ---
 
 Authentic Thai restaurant in the center of Haarlem.

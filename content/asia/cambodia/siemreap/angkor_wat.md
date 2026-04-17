@@ -1,7 +1,12 @@
 ---
 title: "Angkor Wat"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - temple
+  - unesco_world_heritage
+  - historic_site
+  - landmark
 opening_hours: "Pre-dawn to dusk"
 latitude: 13.412438
 longitude: 103.866588

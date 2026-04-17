@@ -1,7 +1,11 @@
 ---
 title: "Tonlé Sap Floating Villages"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - lake
+  - village
+  - boat_trip
 latitude: 13.1333
 longitude: 103.8000
 ---

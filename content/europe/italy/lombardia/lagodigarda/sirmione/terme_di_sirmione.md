@@ -1,7 +1,7 @@
 ---
 title: "Terme di Sirmione"
 type: poi
-category: Sight
+tags: [things_to_do, spa]
 latitude: 45.4872
 longitude: 10.6090
 ---

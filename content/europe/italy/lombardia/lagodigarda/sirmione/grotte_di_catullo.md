@@ -1,7 +1,7 @@
 ---
 title: "Grotte di Catullo"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
 latitude: 45.5002
 longitude: 10.6073
 story: >

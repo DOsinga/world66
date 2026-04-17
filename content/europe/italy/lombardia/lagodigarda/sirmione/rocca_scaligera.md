@@ -1,7 +1,7 @@
 ---
 title: "Rocca Scaligera"
 type: poi
-category: Sight
+tags: [things_to_do, sight, castle]
 latitude: 45.4919
 longitude: 10.6083
 story: >

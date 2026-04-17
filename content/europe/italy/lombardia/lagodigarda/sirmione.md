@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 45.4688
 longitude: 10.6078
+score: 0.68
 title: Sirmione
 type: location
-score: 0.68
 ---
 
 Sirmione sits on a narrow finger of land that juts three kilometres into Lake Garda from its southern shore. The old town is almost entirely surrounded by water, approached through the gates of a 13th-century Scaligero castle — and for most of the year it is crowded with visitors who've figured out what a good thing looks like. That's fair. The place is genuinely beautiful.

@@ -1,6 +1,9 @@
 ---
 title: "'t Zielhoes"
 type: poi
+tags:
+  - bars_and_cafes
+  - bar
 address: "Zijlweg 4, 9988 TD Usquert"
 phone: "+31595423058"
 latitude: 53.4322

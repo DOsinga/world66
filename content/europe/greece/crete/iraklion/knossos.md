@@ -1,12 +1,12 @@
 ---
 address: Knossos, 5 km southeast of Iraklion
 admission: €15 (combined ticket with Archaeological Museum €16)
-category: Sight
 latitude: 35.2983
 longitude: 25.1631
 opening_hours: Daily 8:00am–8:00pm (reduced hours Oct–Mar)
 tags:
 - things_to_do
+- landmark
 title: Palace of Knossos
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Piazza Vigliena, 90133 Palermo
 admission: Free
-category: Sight
 latitude: 38.1153
 longitude: 13.3617
 tags:
 - things_to_do
+- landmark
 title: Quattro Canti
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 31.5125
 longitude: -9.7691
 tags:
 - things_to_do
+- museum
 title: Sidi Mohammed ben Abdallah Museum
 type: poi
 ---

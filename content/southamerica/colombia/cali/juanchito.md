@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 3.4444
 longitude: -76.4658
 tags:
 - bars_and_cafes
+- neighbourhood
 title: Juanchito
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Banff Links, Banff AB45
-category: Sight
 latitude: 57.6728
 longitude: -2.5404
 tags:
 - beaches
+- landmark
 title: Banff Links Beach
 type: poi
 ---

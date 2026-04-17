@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 53.079
 longitude: -9.592
 tags:
 - things_to_do
+- landmark
 title: Cathaoir Synge (Synge's Chair)
 type: poi
 ---

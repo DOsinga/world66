@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 42.431612
 longitude: -8.644434
 tags:
 - things_to_do
+- landmark
 title: La Peregrina Church
 type: poi
 ---

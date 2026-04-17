@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 45.3444
 longitude: 14.31
 tags:
 - things_to_do
+- neighbourhood
 title: Volosko
 type: poi
 ---

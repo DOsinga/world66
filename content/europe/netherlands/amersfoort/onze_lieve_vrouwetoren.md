@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 52.1552
 longitude: 5.3872
 story: In 1787, the ammunition stored in the church attached to this tower exploded,
@@ -7,6 +6,7 @@ story: In 1787, the ammunition stored in the church attached to this tower explo
   square ever since — a steeple without a church.
 tags:
 - things_to_do
+- landmark
 title: Onze Lieve Vrouwetoren
 type: poi
 ---

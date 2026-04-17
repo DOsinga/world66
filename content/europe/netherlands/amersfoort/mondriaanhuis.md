@@ -1,11 +1,11 @@
 ---
 address: Kortegracht 11
-category: Museum
 latitude: 52.1547
 longitude: 5.3904
 phone: 033-4620180
 tags:
 - things_to_do
+- museum
 title: Mondriaanhuis
 type: poi
 ---

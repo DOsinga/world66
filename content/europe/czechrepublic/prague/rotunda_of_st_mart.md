@@ -1,10 +1,10 @@
 ---
 address: K Rotundě, Vyšehrad, Prague 2
-category: Sight
 latitude: 50.0651
 longitude: 14.4196
 tags:
 - things_to_do
+- landmark
 title: Rotunda of St Martin, Vyšehrad
 type: poi
 ---

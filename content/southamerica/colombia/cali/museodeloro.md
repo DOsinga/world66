@@ -1,10 +1,10 @@
 ---
 address: 'Calle 7 # 4-69'
-category: Museum
 latitude: 3.4519
 longitude: -76.534
 tags:
 - things_to_do
+- museum
 title: Museo del Oro Calima
 type: poi
 ---

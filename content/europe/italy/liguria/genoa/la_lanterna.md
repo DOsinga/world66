@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 44.408386
 longitude: 8.903533
 tags:
 - things_to_do
+- landmark
 title: La Lanterna
 type: poi
 ---

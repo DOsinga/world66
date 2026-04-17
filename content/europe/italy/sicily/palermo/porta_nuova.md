@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 38.1114
 longitude: 13.353
 tags:
 - things_to_do
+- landmark
 title: Porta Nuova
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 57.149717
 longitude: -2.093989
 tags:
 - things_to_do
+- landmark
 title: Castlegate
 type: poi
 ---

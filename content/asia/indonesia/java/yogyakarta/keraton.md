@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -7.8053
 longitude: 110.3642
 tags:
 - things_to_do
+- landmark
 title: Keraton
 type: poi
 ---

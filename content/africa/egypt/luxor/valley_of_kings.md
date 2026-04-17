@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 25.745323
 longitude: 32.604691
 tags:
 - things_to_do
+- landmark
 title: Valley of the Kings
 type: poi
 ---

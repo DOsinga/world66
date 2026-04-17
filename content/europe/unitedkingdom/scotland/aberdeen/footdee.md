@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 57.1437
 longitude: -2.0718
 tags:
 - things_to_do
+- landmark
 title: Footdee
 type: poi
 ---

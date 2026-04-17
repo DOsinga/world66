@@ -1,10 +1,10 @@
 ---
 address: Odos 1866, Iraklion
-category: Neighbourhood
 latitude: 35.3388
 longitude: 25.1335
 tags:
 - things_to_do
+- neighbourhood
 title: 1866 Street Market
 type: poi
 ---

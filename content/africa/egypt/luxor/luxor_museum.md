@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 25.707663
 longitude: 32.644489
 tags:
 - things_to_do
+- museum
 title: Luxor Museum
 type: poi
 ---

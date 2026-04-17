@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 39.7458
 longitude: 20.0203
 story: Virgil writes in the Aeneid that Butrint was founded by refugees from Troy.
@@ -8,6 +7,7 @@ story: Virgil writes in the Aeneid that Butrint was founded by refugees from Tro
   instinct.
 tags:
 - things_to_do
+- landmark
 title: Butrint
 type: poi
 ---

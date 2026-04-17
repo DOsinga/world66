@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.7834
 longitude: -5.8134
 tags:
 - things_to_do
+- landmark
 title: The Grand Socco
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 41.1406
 longitude: -8.6113
 tags:
 - things_to_do
+- neighbourhood
 title: Cais da Ribeira
 type: poi
 ---

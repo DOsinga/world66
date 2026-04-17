@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.7925
 longitude: -5.9197
 tags:
 - things_to_do
+- landmark
 title: Cap Spartel
 type: poi
 ---

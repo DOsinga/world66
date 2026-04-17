@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: -7.806
 longitude: 110.3635
 tags:
 - things_to_do
+- museum
 title: Kerata Kraton
 type: poi
 ---

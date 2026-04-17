@@ -1,6 +1,5 @@
 ---
 address: Independence Avenue & 7th Street
-category: Museum
 latitude: 39.073732
 longitude: -108.560061
 opening_hours: 'Museum: 10 a.m. - 5:30 p.m., Plaza: 7:30 a.m. - 5:30 p.m., Sculpture
@@ -8,6 +7,7 @@ opening_hours: 'Museum: 10 a.m. - 5:30 p.m., Plaza: 7:30 a.m. - 5:30 p.m., Sculp
 phone: 202 560 0350
 tags:
 - things_to_do
+- museum
 title: Hirshhorn Museum and Sculpture Garden
 type: poi
 url: hirshhorn.si.edu

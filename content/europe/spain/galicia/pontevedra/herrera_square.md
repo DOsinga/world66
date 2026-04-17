@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 42.432054
 longitude: -8.644763
 tags:
 - things_to_do
+- landmark
 title: Herrería Square
 type: poi
 ---

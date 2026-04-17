@@ -1,10 +1,10 @@
 ---
 address: Himmelgeister Strasse 107 E, D-40225 Düsseldorf (Southwest)
-category: Sight
 opening_hours: Tue, Fri 17-22 and Sat, Sun 14-18 hrs.
 phone: +49 (0)211 33 02 37
 tags:
 - things_to_do
+- landmark
 title: Kunstraum
 type: Museums
 ---

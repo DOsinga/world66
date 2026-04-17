@@ -1,5 +1,4 @@
 ---
-category: Other
 latitude: -7.608
 longitude: 110.204
 tags:

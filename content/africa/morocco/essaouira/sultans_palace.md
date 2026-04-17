@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.4825
 longitude: -9.7632
 tags:
 - things_to_do
+- landmark
 title: Sultan's Palace at Diabat
 type: poi
 ---

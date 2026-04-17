@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 25.699617
 longitude: 32.638931
 tags:
 - things_to_do
+- landmark
 title: Luxor Temple
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.8636
 longitude: 20.0222
 tags:
 - things_to_do
+- landmark
 title: Lekursi Castle
 type: poi
 ---

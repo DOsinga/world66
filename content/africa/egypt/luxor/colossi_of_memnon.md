@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 25.720495
 longitude: 32.610441
 tags:
 - things_to_do
+- landmark
 title: Colossi of Memnon
 type: poi
 ---

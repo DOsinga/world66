@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.1369
 longitude: -8.6134
 tags:
 - things_to_do
+- landmark
 title: Vila Nova de Gaia Port Cellars
 type: poi
 ---

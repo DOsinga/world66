@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.4393
 longitude: 5.477
 tags:
 - things_to_do
+- museum
 title: Museum Kempenland
 type: poi
 ---

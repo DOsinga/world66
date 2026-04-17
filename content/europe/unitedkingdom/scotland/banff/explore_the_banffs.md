@@ -1,10 +1,10 @@
 ---
 address: Banffshire Coast, Aberdeenshire
-category: Sight
 latitude: 57.69
 longitude: -2.65
 tags:
 - things_to_do
+- landmark
 title: Explore the Banffshire Coast
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: -6.819
 longitude: 39.2895
 tags:
 - things_to_do
+- architecture
 title: St Joseph's Cathedral
 type: poi
 ---

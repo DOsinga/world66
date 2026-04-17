@@ -1,11 +1,11 @@
 ---
 address: 16, rue Nationale
-category: Museum
 latitude: 47.3936
 longitude: 0.6876
 phone: 02 47 61 07 93
 tags:
 - things_to_do
+- museum
 title: Musée des Vins de Touraine
 type: poi
 ---

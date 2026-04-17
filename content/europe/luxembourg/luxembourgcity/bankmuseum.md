@@ -1,12 +1,12 @@
 ---
 address: Place de Metz 1
-category: museums
 latitude: 49.607289
 longitude: 6.128535
 opening_hours: Mon-Fri 10-17:30
 phone: (+352) 4015-2450
 tags:
 - things_to_do
+- museum
 title: Bank Museum
 type: poi
 ---

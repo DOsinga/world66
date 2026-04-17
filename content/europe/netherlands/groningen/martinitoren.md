@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 53.219402
 longitude: 6.568197
 tags:
 - things_to_do
+- landmark
 title: Martini Tower
 type: poi
 ---

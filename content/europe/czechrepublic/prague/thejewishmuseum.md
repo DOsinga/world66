@@ -1,11 +1,11 @@
 ---
 address: U Starého hřbitova 3/1, Prague 1
-category: Museum
 latitude: 50.0901
 longitude: 14.4186
 opening_hours: Sun–Fri 09:00–18:00; closed Sat and Jewish holidays
 tags:
 - things_to_do
+- museum
 title: Jewish Museum
 type: poi
 url: jewishmuseum.cz

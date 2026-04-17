@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.7613
 longitude: -5.9381
 tags:
 - things_to_do
+- landmark
 title: Caves of Hercules
 type: poi
 ---

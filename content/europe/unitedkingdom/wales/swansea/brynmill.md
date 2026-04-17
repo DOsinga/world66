@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.612524
 longitude: -3.970864
 tags:
 - things_to_do
+- landmark
 title: Brynmill Park
 type: poi
 ---

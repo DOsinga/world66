@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 44.1005
 longitude: 9.8335
 tags:
 - things_to_do
+- museum
 title: Naval Technical Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 28.5243
 longitude: -80.6819
 tags:
 - things_to_do
+- landmark
 title: Kennedy Space Center
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 3.4525
 longitude: -76.5345
 tags:
 - things_to_do
+- landmark
 title: La Merced
 type: poi
 ---

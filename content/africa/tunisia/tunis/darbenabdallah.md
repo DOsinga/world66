@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 36.794
 longitude: 10.1737
 tags:
 - things_to_do
+- museum
 title: Dar Ben Abdallah
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.7978
 longitude: 10.1709
 tags:
 - things_to_do
+- landmark
 title: Great Mosque (Zitouna)
 type: poi
 ---

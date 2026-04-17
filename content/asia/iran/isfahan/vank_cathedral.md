@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 32.648
 longitude: 51.6713
 tags:
 - things_to_do
+- landmark
 title: Vank Cathedral
 type: poi
 ---

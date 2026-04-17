@@ -1,10 +1,10 @@
 ---
 address: Sayajigunj, Vadodara
-category: Sight
 latitude: 22.3168
 longitude: 73.1885
 tags:
 - things_to_do
+- landmark
 title: Sayaji Baug
 type: poi
 ---

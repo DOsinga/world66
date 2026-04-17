@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.4388
 longitude: 5.4783
 tags:
 - things_to_do
+- landmark
 title: St. Catharina Church
 type: poi
 ---

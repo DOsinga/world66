@@ -1,10 +1,10 @@
 ---
 address: East Basin Drive SW
-category: Sight
 opening_hours: Open Daily  8 a.m. to midnight, closed December 25
 phone: 202.426.6841
 tags:
 - things_to_do
+- landmark
 title: Jefferson Memorial
 type: Memorials
 url: www.nps.gov

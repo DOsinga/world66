@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.1495
 longitude: 5.345
 tags:
 - things_to_do
+- landmark
 title: DierenPark Amersfoort
 type: poi
 ---

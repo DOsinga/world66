@@ -1,10 +1,10 @@
 ---
 address: Place François Sicard
-category: Sight
 latitude: 47.3948
 longitude: 0.6934
 tags:
 - things_to_do
+- landmark
 title: Cathédrale Saint-Gatien
 type: poi
 ---

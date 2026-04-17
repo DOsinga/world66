@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 36.7989
 longitude: 10.17
 tags:
 - things_to_do
+- neighbourhood
 title: Medina of Tunis
 type: poi
 ---

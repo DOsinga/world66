@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 32.6549
 longitude: 51.6773
 story: 'The mosque was built at Shah Abbas I''s command in a remarkable hurry â€” he
@@ -10,6 +9,7 @@ story: 'The mosque was built at Shah Abbas I''s command in a remarkable hurry â€
   '
 tags:
 - things_to_do
+- landmark
 title: Imam Mosque
 type: poi
 ---

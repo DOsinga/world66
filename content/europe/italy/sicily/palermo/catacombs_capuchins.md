@@ -1,7 +1,6 @@
 ---
 address: Piazza Cappuccini 1, 90129 Palermo
 admission: €3
-category: Sight
 latitude: 38.1078
 longitude: 13.3408
 opening_hours: Daily 09:00–13:00 & 15:00–18:00
@@ -13,6 +12,7 @@ story: 'The most famous occupant is Rosalia Lombardo, a two-year-old who died in
   salicylic acid, and glycerin. The zinc salts are what preserved her facial expression.'
 tags:
 - things_to_do
+- landmark
 title: Catacombs of the Capuchin Monks
 type: poi
 ---

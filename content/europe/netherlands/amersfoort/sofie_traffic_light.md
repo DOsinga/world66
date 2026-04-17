@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 52.1567
 longitude: 5.3842
 story: One morning in December 2000, the traffic light outside city hall showed a
@@ -8,6 +7,7 @@ story: One morning in December 2000, the traffic light outside city hall showed 
   been installed at every intersection between the station and the city centre.
 tags:
 - things_to_do
+- landmark
 title: Sofie the Traffic Light
 type: poi
 ---

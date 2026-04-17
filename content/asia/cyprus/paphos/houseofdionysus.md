@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.757489
 longitude: 32.405456
 tags:
 - things_to_do
+- landmark
 title: House of Dionysus
 type: poi
 ---

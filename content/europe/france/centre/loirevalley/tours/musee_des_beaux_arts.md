@@ -1,10 +1,10 @@
 ---
 address: 18, place François Sicard
-category: Museum
 latitude: 47.395
 longitude: 0.6928
 tags:
 - things_to_do
+- museum
 title: Musée des Beaux-Arts
 type: poi
 ---

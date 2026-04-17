@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.4345
 longitude: 5.482
 tags:
 - things_to_do
+- museum
 title: DAF Museum
 type: poi
 ---

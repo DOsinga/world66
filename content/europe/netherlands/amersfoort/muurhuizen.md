@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 52.1558
 longitude: 5.392
 tags:
 - things_to_do
+- neighbourhood
 title: Muurhuizen
 type: poi
 ---

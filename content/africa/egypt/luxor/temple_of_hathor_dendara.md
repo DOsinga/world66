@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 26.1451
 longitude: 32.6717
 tags:
 - things_to_do
+- landmark
 title: Temple of Hathor, Dendera
 type: poi
 ---

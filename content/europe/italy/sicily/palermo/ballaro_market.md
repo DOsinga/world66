@@ -1,12 +1,12 @@
 ---
 address: Piazza del Carmine, 90134 Palermo
 admission: Free
-category: Neighbourhood
 latitude: 38.1128
 longitude: 13.3568
 opening_hours: Mon–Sat approx 07:00–14:00
 tags:
 - things_to_do
+- neighbourhood
 title: Mercato di Ballarò
 type: poi
 ---

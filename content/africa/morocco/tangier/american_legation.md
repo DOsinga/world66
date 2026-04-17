@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 35.7844
 longitude: -5.8096
 tags:
 - things_to_do
+- museum
 title: Tangier American Legation
 type: poi
 ---

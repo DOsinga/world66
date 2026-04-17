@@ -1,11 +1,11 @@
 ---
 address: Duff House, Banff AB45 3SX
-category: Museum
 latitude: 57.6584
 longitude: -2.5261
 phone: 01261 818181
 tags:
 - things_to_do
+- museum
 title: Duff House Gallery
 type: poi
 ---

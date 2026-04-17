@@ -1,11 +1,11 @@
 ---
 address: Via Principe di Belmonte 107, 90139 Palermo
-category: Cafe
 latitude: 38.1196
 longitude: 13.3604
 opening_hours: Daily 07:30–21:00
 tags:
 - bars_and_cafes
+- cafe
 title: Antico Caffè Spinnato
 type: poi
 ---

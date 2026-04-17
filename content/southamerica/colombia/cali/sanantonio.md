@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 3.447
 longitude: -76.5414
 tags:
 - things_to_do
+- neighbourhood
 title: San Antonio
 type: poi
 ---

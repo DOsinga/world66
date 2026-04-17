@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 40.4319
 longitude: 116.5681
 tags:
 - things_to_do
+- landmark
 title: Great Wall of China (Mutianyu)
 type: poi
 ---

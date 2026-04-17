@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: -6.7585
 longitude: 39.2378
 tags:
 - things_to_do
+- museum
 title: Village Museum
 type: poi
 ---

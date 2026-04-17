@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 35.7878
 longitude: -5.8109
 tags:
 - things_to_do
+- museum
 title: Kasbah Museum
 type: poi
 ---

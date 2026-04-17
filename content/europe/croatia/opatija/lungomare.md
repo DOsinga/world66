@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.3323
 longitude: 14.2997
 tags:
 - things_to_do
+- landmark
 title: Lungomare
 type: poi
 ---

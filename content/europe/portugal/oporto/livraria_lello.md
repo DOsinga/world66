@@ -1,6 +1,5 @@
 ---
 address: Rua das Carmelitas 144
-category: Sight
 latitude: 41.1467
 longitude: -8.6147
 story: The twisting red staircase and gothic-fantasy interior supposedly inspired
@@ -8,6 +7,7 @@ story: The twisting red staircase and gothic-fantasy interior supposedly inspire
   entry fee — redeemable against book purchases — because of the queues.
 tags:
 - things_to_do
+- landmark
 title: Livraria Lello
 type: poi
 ---

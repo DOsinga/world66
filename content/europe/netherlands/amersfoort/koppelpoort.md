@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 52.159
 longitude: 5.3853
 tags:
 - things_to_do
+- landmark
 title: Koppelpoort
 type: poi
 ---

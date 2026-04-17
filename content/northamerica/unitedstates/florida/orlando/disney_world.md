@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 28.3852
 longitude: -81.5639
 tags:
 - things_to_do
+- landmark
 title: Walt Disney World
 type: poi
 ---

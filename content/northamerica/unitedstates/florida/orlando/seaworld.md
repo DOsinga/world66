@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 28.4115
 longitude: -81.4618
 tags:
 - things_to_do
+- landmark
 title: SeaWorld
 type: poi
 ---

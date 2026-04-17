@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.621883
 longitude: -3.938375
 tags:
 - things_to_do
+- landmark
 title: Plantasia
 type: poi
 ---

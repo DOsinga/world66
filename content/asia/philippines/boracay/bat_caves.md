@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 11.9956
 longitude: 121.9389
 tags:
 - things_to_do
+- landmark
 title: Bat Caves at Yapak
 type: poi
 ---

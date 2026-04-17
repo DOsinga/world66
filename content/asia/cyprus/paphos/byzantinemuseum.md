@@ -1,10 +1,10 @@
 ---
 address: 25 Martiou Street
-category: Museum
 latitude: 34.7758
 longitude: 32.4275
 tags:
 - things_to_do
+- museum
 title: Byzantine Museum
 type: poi
 ---

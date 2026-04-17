@@ -1,10 +1,10 @@
 ---
 address: Sayaji Baug, Vadodara
-category: Museum
 latitude: 22.3149
 longitude: 73.1894
 tags:
 - things_to_do
+- museum
 title: Baroda Museum and Picture Gallery
 type: poi
 ---

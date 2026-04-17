@@ -1,10 +1,10 @@
 ---
 address: Piazza Matteotti 9
-category: Architecture
 latitude: 44.406616
 longitude: 8.934015
 tags:
 - things_to_do
+- architecture
 title: Palazzo Ducale
 type: poi
 ---

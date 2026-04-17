@@ -1,10 +1,10 @@
 ---
 address: Banff Bay, Banff AB45
-category: Sight
 latitude: 57.6718
 longitude: -2.5155
 tags:
 - beaches
+- landmark
 title: Banff Bay Beach
 type: poi
 ---

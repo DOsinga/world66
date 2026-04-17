@@ -1,11 +1,11 @@
 ---
 address: Strahovské nádvoří 1/132, Prague 1
-category: Sight
 latitude: 50.086258
 longitude: 14.389069
 opening_hours: Library daily 09:00–12:00 and 13:00–17:00
 tags:
 - things_to_do
+- landmark
 title: Strahov Monastery
 type: poi
 ---

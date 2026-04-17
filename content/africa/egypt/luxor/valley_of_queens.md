@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 25.727683
 longitude: 32.592717
 tags:
 - things_to_do
+- landmark
 title: Valley of the Queens
 type: poi
 ---

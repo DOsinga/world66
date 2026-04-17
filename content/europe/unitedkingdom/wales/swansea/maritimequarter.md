@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 51.6137
 longitude: -3.9382
 tags:
 - things_to_do
+- neighbourhood
 title: Maritime Quarter
 type: poi
 ---

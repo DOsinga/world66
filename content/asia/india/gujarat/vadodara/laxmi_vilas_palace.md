@@ -1,6 +1,5 @@
 ---
 address: J N Marg, Moti Baug, Vadodara
-category: Architecture
 latitude: 22.2868
 longitude: 73.1933
 story: 'The architect Major Charles Mant reportedly went insane during the project,
@@ -11,6 +10,7 @@ story: 'The architect Major Charles Mant reportedly went insane during the proje
   '
 tags:
 - things_to_do
+- architecture
 title: Laxmi Vilas Palace
 type: poi
 ---

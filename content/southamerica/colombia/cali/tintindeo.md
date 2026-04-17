@@ -1,10 +1,10 @@
 ---
 address: 'Calle 5 # 38-71, Barrio San Fernando'
-category: Salsa Club
 latitude: 3.4253
 longitude: -76.5418
 tags:
 - bars_and_cafes
+- nightclub
 title: Tin Tin Deo
 type: poi
 ---

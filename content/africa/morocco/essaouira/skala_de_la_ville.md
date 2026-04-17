@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.5132
 longitude: -9.7708
 tags:
 - things_to_do
+- landmark
 title: Skala de la Ville
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 36.8528
 longitude: 10.3234
 tags:
 - things_to_do
+- museum
 title: National Museum of Carthage
 type: poi
 ---

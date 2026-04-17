@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.595769
 longitude: -4.002792
 tags:
 - things_to_do
+- landmark
 title: Clyne Gardens
 type: poi
 ---

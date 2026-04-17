@@ -1,10 +1,10 @@
 ---
 address: 8, rue Nationale
-category: Museum
 latitude: 47.3939
 longitude: 0.688
 tags:
 - things_to_do
+- museum
 title: Musée du Compagnonnage
 type: poi
 ---

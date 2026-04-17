@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.613038
 longitude: -3.981013
 tags:
 - things_to_do
+- landmark
 title: Singleton Park
 type: poi
 ---

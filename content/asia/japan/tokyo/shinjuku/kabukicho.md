@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 35.6946
 longitude: 139.703
 tags:
 - things_to_do
+- neighbourhood
 title: Kabukicho
 type: poi
 ---

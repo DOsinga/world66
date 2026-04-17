@@ -1,11 +1,11 @@
 ---
 address: Pasantería, 10, Pontevedra
-category: Sight
 latitude: 42.432372
 longitude: -8.64333
 phone: (986) 851455
 tags:
 - things_to_do
+- landmark
 title: Museum of Pontevedra
 type: poi
 zipcode: '36002'

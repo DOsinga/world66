@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 11.9847
 longitude: 121.9279
 tags:
 - things_to_do
+- landmark
 title: Mount Luho
 type: poi
 ---

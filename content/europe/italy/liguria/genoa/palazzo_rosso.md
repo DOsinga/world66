@@ -1,10 +1,10 @@
 ---
 address: Via Garibaldi 18
-category: Museum
 latitude: 44.411512
 longitude: 8.9329
 tags:
 - things_to_do
+- museum
 tel: +39 010 2476368
 title: Palazzo Rosso
 type: poi

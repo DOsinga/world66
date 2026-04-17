@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 47.3944
 longitude: 0.6851
 tags:
 - things_to_do
+- neighbourhood
 title: Place Plumereau
 type: poi
 ---

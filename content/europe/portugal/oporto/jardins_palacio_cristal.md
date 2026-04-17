@@ -1,10 +1,10 @@
 ---
 address: Rua D. Manuel II
-category: Sight
 latitude: 41.1474
 longitude: -8.6232
 tags:
 - things_to_do
+- landmark
 title: Jardins do Palácio de Cristal
 type: poi
 ---

@@ -1,11 +1,11 @@
 ---
 address: Corso Vittorio Emanuele
-category: Sight
 latitude: 38.1142
 longitude: 13.3564
 opening_hours: 7:00-19:00 Mon-Sat, closed 13:30-16:00 Sun
 tags:
 - things_to_do
+- landmark
 title: Cathedral
 type: poi
 ---

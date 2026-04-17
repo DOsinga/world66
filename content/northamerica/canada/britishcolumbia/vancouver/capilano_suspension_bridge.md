@@ -1,10 +1,10 @@
 ---
 address: 3735 Capilano Rd, North Vancouver, BC V7R 4J1
-category: Sight
 latitude: 49.3429
 longitude: -123.1149
 tags:
 - things_to_do
+- landmark
 title: Capilano Suspension Bridge
 type: poi
 url: https://www.capbridge.com

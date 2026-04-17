@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.5117
 longitude: -9.7724
 tags:
 - things_to_do
+- landmark
 title: Fish Market
 type: poi
 ---

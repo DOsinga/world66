@@ -1,10 +1,10 @@
 ---
 address: 19 Cotton Tree Drive, Central
-category: Sight
 latitude: 22.2774
 longitude: 114.1615
 tags:
 - things_to_do
+- landmark
 title: Hong Kong Park
 type: poi
 ---

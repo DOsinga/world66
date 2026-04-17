@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 34.75809
 longitude: 32.413679
 story: According to tradition, St. Paul was tied to this pillar and flogged thirty-nine
@@ -7,6 +6,7 @@ story: According to tradition, St. Paul was tied to this pillar and flogged thir
   shortly afterwards, becoming the first Christian Roman governor.
 tags:
 - things_to_do
+- landmark
 title: St. Paul's Pillar
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 39.9842
 longitude: 116.4961
 tags:
 - things_to_do
+- neighbourhood
 title: 798 Art District
 type: poi
 ---

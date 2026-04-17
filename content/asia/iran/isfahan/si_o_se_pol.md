@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 32.639
 longitude: 51.6645
 tags:
 - things_to_do
+- landmark
 title: Si-o-Se Pol Bridge
 type: poi
 ---

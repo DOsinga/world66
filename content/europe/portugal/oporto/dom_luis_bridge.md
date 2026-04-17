@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 41.14
 longitude: -8.6093
 tags:
 - things_to_do
+- architecture
 title: Ponte de Dom Luís I
 type: poi
 ---

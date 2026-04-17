@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 3.4546
 longitude: -76.5326
 tags:
 - things_to_do
+- architecture
 title: Iglesia La Ermita
 type: poi
 ---

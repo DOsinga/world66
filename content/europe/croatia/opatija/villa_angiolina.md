@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 45.3374
 longitude: 14.3065
 tags:
 - things_to_do
+- architecture
 title: Villa Angiolina and Park
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 11.953
 longitude: 121.9305
 tags:
 - things_to_do
+- landmark
 title: Dead Forest
 type: poi
 ---

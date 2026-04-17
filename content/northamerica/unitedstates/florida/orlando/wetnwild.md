@@ -1,11 +1,11 @@
 ---
-category: Sight
 done:
   location_cleanup: '2026-04-10'
 latitude: 28.4557
 longitude: -81.4684
 tags:
 - things_to_do
+- landmark
 title: Wet 'n Wild
 type: poi
 ---

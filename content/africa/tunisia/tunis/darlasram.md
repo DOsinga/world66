@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 36.8021
 longitude: 10.1682
 tags:
 - things_to_do
+- architecture
 title: Dar Lasram
 type: poi
 ---

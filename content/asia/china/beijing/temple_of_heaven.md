@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.8822
 longitude: 116.4066
 tags:
 - things_to_do
+- landmark
 title: Temple of Heaven
 type: poi
 ---

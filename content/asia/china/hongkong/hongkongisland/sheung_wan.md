@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 22.2867
 longitude: 114.15
 tags:
 - things_to_do
+- neighbourhood
 title: Sheung Wan
 type: poi
 ---

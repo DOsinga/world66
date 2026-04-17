@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 31.5128
 longitude: -9.7697
 tags:
 - things_to_do
+- neighbourhood
 title: The Medina
 type: poi
 ---

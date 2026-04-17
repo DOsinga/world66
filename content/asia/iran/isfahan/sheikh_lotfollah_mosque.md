@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 32.6574
 longitude: 51.68
 story: 'Unlike most mosques, Sheikh Lotfollah has no minaret and no courtyard â€” because
@@ -10,6 +9,7 @@ story: 'Unlike most mosques, Sheikh Lotfollah has no minaret and no courtyard â€
   '
 tags:
 - things_to_do
+- landmark
 title: Sheikh Lotfollah Mosque
 type: poi
 ---

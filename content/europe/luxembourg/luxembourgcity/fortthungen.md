@@ -1,9 +1,9 @@
 ---
-category: historical_sites
 latitude: 49.616482
 longitude: 6.139425
 tags:
 - things_to_do
+- historical_site
 title: Fort Thungen
 type: poi
 ---

@@ -1,12 +1,12 @@
 ---
 address: Cihelná 2b, Prague 1 (Malá Strana)
 admission: 260 CZK
-category: Museum
 latitude: 50.0886
 longitude: 14.4113
 opening_hours: Daily 10:00–18:00
 tags:
 - things_to_do
+- museum
 title: Franz Kafka Museum
 type: poi
 url: kafkamuseum.cz

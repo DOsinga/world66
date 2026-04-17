@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 44.407302
 longitude: 8.932631
 tags:
 - things_to_do
+- architecture
 title: San Lorenzo Cathedral
 type: poi
 ---

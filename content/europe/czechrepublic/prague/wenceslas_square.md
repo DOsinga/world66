@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 50.081587
 longitude: 14.42717
 tags:
 - things_to_do
+- landmark
 title: Wenceslas Square
 type: poi
 ---

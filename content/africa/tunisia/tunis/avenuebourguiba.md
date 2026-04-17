@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.7992
 longitude: 10.1802
 tags:
 - things_to_do
+- landmark
 title: Avenue Bourguiba
 type: poi
 ---

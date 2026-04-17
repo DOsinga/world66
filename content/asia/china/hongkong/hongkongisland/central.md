@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 22.2819
 longitude: 114.1582
 tags:
 - things_to_do
+- neighbourhood
 title: Central
 type: poi
 ---

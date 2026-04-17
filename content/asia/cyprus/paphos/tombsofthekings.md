@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 34.776301
 longitude: 32.405035
 tags:
 - things_to_do
+- landmark
 title: Tombs of the Kings
 type: poi
 ---

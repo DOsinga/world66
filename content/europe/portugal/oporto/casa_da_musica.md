@@ -1,10 +1,10 @@
 ---
 address: Rotunda da Boavista
-category: Architecture
 latitude: 41.157932
 longitude: -8.629136
 tags:
 - things_to_do
+- architecture
 title: Casa da Música
 type: poi
 ---

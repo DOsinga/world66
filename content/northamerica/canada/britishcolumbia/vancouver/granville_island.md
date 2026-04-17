@@ -1,10 +1,10 @@
 ---
 address: 1661 Duranleau St, Vancouver, BC V6H 3S3
-category: Neighbourhood
 latitude: 49.2722
 longitude: -123.1342
 tags:
 - things_to_do
+- neighbourhood
 title: Granville Island
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 42.433912
 longitude: -8.647021
 tags:
 - things_to_do
+- landmark
 title: Santa María Basilica
 type: poi
 ---

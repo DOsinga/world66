@@ -1,12 +1,12 @@
 ---
 address: Museumsstraße 1, 68165 Mannheim
 admission: €15, concessions €9, children (6–17) €6, under-6 free
-category: Museum
 latitude: 49.4801
 longitude: 8.4793
 opening_hours: Daily 09:00–17:00
 tags:
 - things_to_do
+- museum
 title: TECHNOSEUM
 type: poi
 ---

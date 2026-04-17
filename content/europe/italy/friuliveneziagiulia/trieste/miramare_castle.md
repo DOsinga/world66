@@ -2,13 +2,13 @@
 address: Viale Miramare, Trieste
 admission: Park free; castle interior €15 adults, €2 reduced (EU citizens 18–25),
   free under 18
-category: Architecture
 latitude: 45.704138
 longitude: 13.713103
 opening_hours: Check website for current hours
 tags:
 - One Day in Trieste
 - things_to_do
+- architecture
 title: Miramare Castle
 type: poi
 url: www.castello-miramare.it

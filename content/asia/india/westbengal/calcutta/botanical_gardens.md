@@ -1,10 +1,10 @@
 ---
 address: Shibpur, Howrah 711103
-category: nature
 latitude: 22.5563
 longitude: 88.3009
 tags:
 - things_to_do
+- nature
 title: Botanical Gardens
 type: poi
 ---

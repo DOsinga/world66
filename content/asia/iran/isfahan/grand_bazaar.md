@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 32.6616
 longitude: 51.6782
 tags:
 - things_to_do
+- neighbourhood
 title: Grand Bazaar
 type: poi
 ---

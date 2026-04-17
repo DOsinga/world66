@@ -1,7 +1,6 @@
 ---
 address: Piazza del Parlamento 1, 90129 Palermo
 admission: €12 (includes Palazzo dei Normanni)
-category: Sight
 latitude: 38.1108
 longitude: 13.3521
 opening_hours: Mon–Sat 09:00–17:00; Sun 09:00–13:00
@@ -14,6 +13,7 @@ story: The wooden muqarnas ceiling — the honeycomb-like stalactite carving cov
   like.
 tags:
 - things_to_do
+- landmark
 title: Cappella Palatina
 type: poi
 ---

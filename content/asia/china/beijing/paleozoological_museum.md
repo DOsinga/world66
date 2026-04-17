@@ -1,10 +1,10 @@
 ---
 address: 142 Xi-Zhi-Men-Wai St.
-category: Museum
 latitude: 39.939789
 longitude: 116.430133
 tags:
 - things_to_do
+- museum
 title: Paleozoological Museum of China
 type: poi
 url: www.paleozoo.cn

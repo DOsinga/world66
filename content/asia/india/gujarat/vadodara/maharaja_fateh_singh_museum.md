@@ -1,10 +1,10 @@
 ---
 address: Laxmi Vilas Palace Grounds, Vadodara
-category: Museum
 latitude: 22.2856
 longitude: 73.1939
 tags:
 - things_to_do
+- museum
 title: Maharaja Fateh Singh Museum
 type: poi
 ---

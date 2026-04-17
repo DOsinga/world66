@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 53.0862
 longitude: -9.585
 tags:
 - things_to_do
+- landmark
 title: Dún Chonchúir
 type: poi
 ---

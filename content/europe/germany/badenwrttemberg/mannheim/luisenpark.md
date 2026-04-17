@@ -1,12 +1,12 @@
 ---
 address: Theodor-Heuss-Anlage 2, 68165 Mannheim
 admission: €8, concessions €5
-category: Sight
 latitude: 49.4788
 longitude: 8.494
 opening_hours: Daily 09:00–dusk (seasonal variation); check website
 tags:
 - things_to_do
+- landmark
 title: Luisenpark
 type: poi
 ---

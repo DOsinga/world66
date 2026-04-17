@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 53.218802
 longitude: 6.567291
 tags:
 - things_to_do
+- neighbourhood
 title: Grote Markt
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.917276
 longitude: 116.390769
 tags:
 - things_to_do
+- landmark
 title: Forbidden City
 type: poi
 ---

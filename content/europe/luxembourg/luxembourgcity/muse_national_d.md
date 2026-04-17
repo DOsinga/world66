@@ -1,12 +1,12 @@
 ---
 address: 25, rue Münster
-category: museums
 email: questions@mnhn.lu
 latitude: 49.60968
 longitude: 6.135638
 phone: +352/462233-1
 tags:
 - things_to_do
+- museum
 title: Musée national d'histoire naturelle
 type: poi
 url: www.mnhn.lu

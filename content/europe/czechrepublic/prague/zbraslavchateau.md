@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 49.977878
 longitude: 14.392294
 tags:
 - things_to_do
+- museum
 title: Zbraslav Chateau
 type: poi
 ---

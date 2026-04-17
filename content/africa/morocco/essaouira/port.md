@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.5111
 longitude: -9.7733
 tags:
 - things_to_do
+- landmark
 title: The Port
 type: poi
 ---

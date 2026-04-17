@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 51.6188
 longitude: -3.9443
 tags:
 - things_to_do
+- neighbourhood
 title: Castle Square
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 51.6187
 longitude: -3.9432
 tags:
 - things_to_do
+- architecture
 title: St Mary's Church
 type: poi
 ---

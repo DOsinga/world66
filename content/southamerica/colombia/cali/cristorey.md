@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 3.4283
 longitude: -76.5836
 tags:
 - things_to_do
+- landmark
 title: Cristo Rey
 type: poi
 ---

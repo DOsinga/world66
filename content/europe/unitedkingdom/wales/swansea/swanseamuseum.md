@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.617695
 longitude: -3.938081
 tags:
 - things_to_do
+- museum
 title: Swansea Museum
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -6.8167
 longitude: 39.2895
 tags:
 - things_to_do
+- landmark
 title: Askari Monument
 type: poi
 ---

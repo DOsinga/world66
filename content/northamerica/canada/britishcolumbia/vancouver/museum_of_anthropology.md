@@ -1,10 +1,10 @@
 ---
 address: 6393 NW Marine Dr, Vancouver, BC V6T 1Z2
-category: Museum
 latitude: 49.2697
 longitude: -123.2589
 tags:
 - things_to_do
+- museum
 title: Museum of Anthropology
 type: poi
 url: https://moa.ubc.ca

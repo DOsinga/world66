@@ -1,10 +1,10 @@
 ---
 address: Ponte Spinola, Porto Antico
-category: Sight
 latitude: 44.406778
 longitude: 8.921533
 tags:
 - things_to_do
+- landmark
 title: Acquario di Genova
 type: poi
 ---

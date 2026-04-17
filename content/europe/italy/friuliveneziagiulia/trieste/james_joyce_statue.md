@@ -1,12 +1,12 @@
 ---
 address: Ponte Rosso, Canal Grande, Trieste
-category: Sight
 latitude: 45.651239
 longitude: 13.772905
 tags:
 - James Joyce
 - Literature
 - things_to_do
+- landmark
 title: James Joyce Statue
 type: poi
 ---

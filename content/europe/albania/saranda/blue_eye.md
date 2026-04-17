@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.9244
 longitude: 20.1844
 tags:
 - things_to_do
+- landmark
 title: Blue Eye (Syri i Kaltër)
 type: poi
 ---

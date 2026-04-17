@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.7852
 longitude: -5.8118
 tags:
 - things_to_do
+- landmark
 title: The Petit Socco
 type: poi
 ---

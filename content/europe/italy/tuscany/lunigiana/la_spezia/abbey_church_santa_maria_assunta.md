@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 44.1058
 longitude: 9.814
 tags:
 - things_to_do
+- landmark
 title: Abbey Church of Santa Maria Assunta
 type: poi
 ---

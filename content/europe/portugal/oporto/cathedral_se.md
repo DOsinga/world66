@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 41.1432
 longitude: -8.6112
 tags:
 - things_to_do
+- landmark
 title: Cathedral Sé
 type: poi
 ---

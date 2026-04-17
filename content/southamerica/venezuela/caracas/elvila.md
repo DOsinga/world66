@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 10.541326
 longitude: -66.703744
 tags:
 - things_to_do
+- landmark
 title: El Ávila
 type: poi
 ---

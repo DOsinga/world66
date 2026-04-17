@@ -1,10 +1,10 @@
 ---
 address: Museumeiland 1
-category: Museum
 latitude: 53.2106
 longitude: 6.5657
 tags:
 - things_to_do
+- museum
 title: Groninger Museum
 type: poi
 ---

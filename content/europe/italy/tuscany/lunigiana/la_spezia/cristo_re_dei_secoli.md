@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 44.1025
 longitude: 9.819
 tags:
 - things_to_do
+- architecture
 title: Cristo Re dei Secoli
 type: poi
 ---

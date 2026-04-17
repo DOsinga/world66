@@ -1,10 +1,10 @@
 ---
 address: Banff Harbour, Banff AB45
-category: Sight
 latitude: 57.6703
 longitude: -2.5175
 tags:
 - things_to_do
+- landmark
 title: NE Dive
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
 address: Portswood Ridge, 8002 Cape Town
-category: Neighbourhood
 phone: +27(21)4087600
 tags:
 - things_to_do
+- neighbourhood
 title: Victoria & Alfred Waterfront
 type: Hotspots
 url: www.waterfront.co.za

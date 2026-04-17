@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 35.6852
 longitude: 139.71
 tags:
 - things_to_do
+- landmark
 title: Shinjuku Gyoen
 type: poi
 ---

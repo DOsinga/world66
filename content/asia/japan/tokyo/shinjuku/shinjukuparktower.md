@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 35.686
 longitude: 139.6903
 tags:
 - things_to_do
+- architecture
 title: Shinjuku Park Tower
 type: poi
 ---

@@ -1,7 +1,6 @@
 ---
 address: Corso Vittorio Emanuele, 90134 Palermo
 admission: Cathedral free; treasury and tombs €3–7
-category: Sight
 latitude: 38.1126
 longitude: 13.3536
 opening_hours: Mon–Sat 07:00–19:00; Sun 08:00–13:00 & 16:00–19:00
@@ -14,6 +13,7 @@ story: 'The cathedral was built by the Archbishop Gualtiero Offamiglio in 1185 o
   mistake.'
 tags:
 - things_to_do
+- landmark
 title: Palermo Cathedral
 type: poi
 ---

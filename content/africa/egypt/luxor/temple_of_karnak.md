@@ -1,5 +1,4 @@
 ---
-category: Sight
 latitude: 25.7294
 longitude: 32.6595
 story: 'The Great Hypostyle Hall was built by Seti I and finished by Ramses II in
@@ -9,6 +8,7 @@ story: 'The Great Hypostyle Hall was built by Seti I and finished by Ramses II i
   '
 tags:
 - things_to_do
+- landmark
 title: Temple of Karnak
 type: poi
 ---

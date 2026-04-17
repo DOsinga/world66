@@ -1,10 +1,10 @@
 ---
 address: River Deveron, Banff AB45
-category: Sight
 latitude: 57.662
 longitude: -2.519
 tags:
 - things_to_do
+- landmark
 title: Angling on the Deveron
 type: poi
 ---

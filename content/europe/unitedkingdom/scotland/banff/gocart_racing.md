@@ -1,10 +1,10 @@
 ---
 address: Boyndlie Aerodrome, near Banff AB43
-category: Sight
 latitude: 57.68
 longitude: -2.59
 tags:
 - things_to_do
+- landmark
 title: Go-Kart Racing
 type: poi
 ---

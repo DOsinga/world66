@@ -1,12 +1,12 @@
 ---
 address: Via Pindemonte 88
-category: Sight
 latitude: 38.105
 longitude: 13.34
 opening_hours: By appointment
 phone: +39 091 6520067
 tags:
 - things_to_do
+- landmark
 title: Qanat Underground Channels
 type: poi
 ---

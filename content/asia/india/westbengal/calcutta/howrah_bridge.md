@@ -1,9 +1,9 @@
 ---
-category: landmark
 latitude: 22.5851
 longitude: 88.3468
 tags:
 - things_to_do
+- landmark
 title: Howrah Bridge
 type: poi
 ---

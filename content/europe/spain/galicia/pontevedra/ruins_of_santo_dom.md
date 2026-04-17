@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 42.431041
 longitude: -8.645118
 tags:
 - things_to_do
+- landmark
 title: Ruins of Santo Domingo Convent
 type: poi
 ---

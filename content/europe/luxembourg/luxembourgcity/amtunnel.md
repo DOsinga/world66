@@ -1,12 +1,12 @@
 ---
 address: 16 Rue Zithe
-category: galleries
 latitude: 49.605378
 longitude: 6.127304
 opening_hours: Mon-Fri 11-17:30, guided visits at 14:15
 phone: (+352) 40155901
 tags:
 - things_to_do
+- gallery
 title: Am Tunnel
 type: poi
 zipcode: L-2954 Luxembourg

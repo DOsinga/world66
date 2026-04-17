@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 35.337
 longitude: 25.133
 tags:
 - things_to_do
+- architecture
 title: Venetian Walls and Bastions
 type: poi
 ---

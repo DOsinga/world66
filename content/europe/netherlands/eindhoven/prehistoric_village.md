@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.4222
 longitude: 5.4755
 tags:
 - things_to_do
+- museum
 title: Prehistoric Village (PreHistorisch Dorp)
 type: poi
 ---

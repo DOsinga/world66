@@ -1,11 +1,11 @@
 ---
-category: Sight
 done:
   location_cleanup: '2026-04-10'
 latitude: 28.2894
 longitude: -81.5873
 tags:
 - things_to_do
+- landmark
 title: A World of Orchids
 type: poi
 ---

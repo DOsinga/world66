@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 48.142679
 longitude: 11.580472
 tags:
 - things_to_do
+- landmark
 title: Hofgarten
 type: Parks, Gardens and Zoos
 ---

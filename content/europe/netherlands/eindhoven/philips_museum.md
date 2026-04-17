@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.4411
 longitude: 5.4748
 tags:
 - things_to_do
+- museum
 title: Philips Museum
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Via Garibaldi 11
-category: Museum
 latitude: 44.411476
 longitude: 8.932767
 tags:
 - things_to_do
+- museum
 tel: +39 010 2476377
 title: Palazzo Bianco
 type: poi

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.3369
 longitude: 14.3051
 tags:
 - things_to_do
+- landmark
 title: Maiden with the Seagull
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 51.436
 longitude: 5.4795
 tags:
 - things_to_do
+- museum
 title: Van Abbemuseum
 type: poi
 ---

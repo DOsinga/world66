@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 45.2954
 longitude: 14.2005
 tags:
 - things_to_do
+- landmark
 title: Ucka Nature Park
 type: poi
 ---

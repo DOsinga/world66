@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 49.1025
 longitude: -123.1836
 tags:
 - things_to_do
 - delta
+- landmark
 title: George C. Reifel Bird Sanctuary
 type: poi
 ---

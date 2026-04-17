@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 32.6574
 longitude: 51.6766
 tags:
 - things_to_do
+- landmark
 title: Ali Qapu Palace
 type: poi
 ---

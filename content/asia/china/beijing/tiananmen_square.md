@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.9055
 longitude: 116.3976
 tags:
 - things_to_do
+- landmark
 title: Tiananmen Square
 type: poi
 ---

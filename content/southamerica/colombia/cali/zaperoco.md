@@ -1,10 +1,10 @@
 ---
 address: 'Avenida 5N # 16-46'
-category: Salsa Club
 latitude: 3.4615
 longitude: -76.5316
 tags:
 - bars_and_cafes
+- nightclub
 title: Zaperoco
 type: poi
 ---

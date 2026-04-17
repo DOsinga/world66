@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.4425
 longitude: 5.479
 tags:
 - things_to_do
+- landmark
 title: Liberation Monuments
 type: poi
 ---

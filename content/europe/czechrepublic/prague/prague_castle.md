@@ -1,12 +1,12 @@
 ---
 address: Hradčany, Prague 1
 admission: Full-circuit ticket 450 CZK
-category: Sight
 latitude: 50.090811
 longitude: 14.400522
 opening_hours: Grounds daily 06:00–22:00; buildings 09:00–17:00 (Apr–Oct until 18:00)
 tags:
 - things_to_do
+- landmark
 title: Prague Castle
 type: poi
 url: hrad.cz

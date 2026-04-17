@@ -1,10 +1,10 @@
 ---
 address: Pasar Ngasem, Yogyakarta
-category: Sight
 latitude: -7.8102
 longitude: 110.358
 tags:
 - things_to_do
+- landmark
 title: Sumur Gumuling
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 53.550493
 longitude: 9.99778
 tags:
 - things_to_do
+- landmark
 title: Altstadt
 type: Hotspots
 ---

@@ -1,12 +1,12 @@
 ---
 address: Xanthoudidou 2, Iraklion
 admission: €12 (combined ticket with Knossos €16)
-category: Museum
 latitude: 35.3394
 longitude: 25.134
 opening_hours: Daily 8:00am–8:00pm (reduced hours Nov–Mar)
 tags:
 - things_to_do
+- museum
 title: Heraklion Archaeological Museum
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Markétská 28/1, Prague 6
-category: Sight
 latitude: 50.0838
 longitude: 14.359
 tags:
 - things_to_do
+- landmark
 title: Břevnov Monastery
 type: poi
 ---

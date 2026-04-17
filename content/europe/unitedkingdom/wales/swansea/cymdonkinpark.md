@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.6215
 longitude: -3.9573
 tags:
 - things_to_do
+- landmark
 title: Cwmdonkin Park
 type: poi
 ---

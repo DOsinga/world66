@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 39.9999
 longitude: 116.2755
 tags:
 - things_to_do
+- landmark
 title: Summer Palace
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 42.432156
 longitude: -8.645501
 tags:
 - things_to_do
+- landmark
 title: Leña Square
 type: poi
 ---

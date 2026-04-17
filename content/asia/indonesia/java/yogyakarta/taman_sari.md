@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -7.81
 longitude: 110.3591
 tags:
 - things_to_do
+- landmark
 title: Taman Sari
 type: poi
 ---

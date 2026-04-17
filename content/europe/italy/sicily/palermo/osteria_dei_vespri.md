@@ -1,11 +1,11 @@
 ---
 address: Piazza Croce dei Vespri 6, 90133 Palermo
-category: Trattoria
 latitude: 38.1142
 longitude: 13.368
 opening_hours: Mon–Sat 13:00–15:00 & 20:00–23:00; closed Sun
 tags:
 - eating_out
+- restaurant
 title: Osteria dei Vespri
 type: poi
 url: www.osteriadeivespri.it

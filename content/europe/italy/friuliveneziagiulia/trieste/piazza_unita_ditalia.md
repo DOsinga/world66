@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 45.649143
 longitude: 13.767547
 tags:
 - One Day in Trieste
 - things_to_do
+- landmark
 title: Piazza Unità d'Italia
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Vancouver, BC V6G 1Z4
-category: Sight
 latitude: 49.3017
 longitude: -123.1417
 tags:
 - things_to_do
+- landmark
 title: Stanley Park
 type: poi
 ---

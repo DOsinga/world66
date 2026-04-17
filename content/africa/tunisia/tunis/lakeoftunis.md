@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 36.788
 longitude: 10.21
 tags:
 - things_to_do
+- landmark
 title: Lake of Tunis
 type: poi
 ---

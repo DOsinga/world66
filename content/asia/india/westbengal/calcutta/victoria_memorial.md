@@ -1,10 +1,10 @@
 ---
 address: 1 Queens Way, Kolkata 700071
-category: landmark
 latitude: 22.5448
 longitude: 88.3426
 tags:
 - things_to_do
+- landmark
 title: Victoria Memorial
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: 6400 Nancy Greene Way, North Vancouver, BC V7R 4K9
-category: Sight
 latitude: 49.3789
 longitude: -123.089
 tags:
 - things_to_do
+- landmark
 title: Grouse Mountain
 type: poi
 url: https://www.grousemountain.com

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 31.4892
 longitude: -9.7755
 tags:
 - things_to_do
+- landmark
 title: Borj El Berod
 type: poi
 ---

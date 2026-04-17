@@ -1,12 +1,12 @@
 ---
 address: Bismarckstraße, 68161 Mannheim
 admission: Palace museum €7, concessions €5
-category: Architecture
 latitude: 49.4832
 longitude: 8.4611
 opening_hours: 'Palace museum: Tue–Sun 10:00–17:00; exterior and gardens always accessible'
 tags:
 - things_to_do
+- architecture
 title: Mannheim Palace
 type: poi
 ---

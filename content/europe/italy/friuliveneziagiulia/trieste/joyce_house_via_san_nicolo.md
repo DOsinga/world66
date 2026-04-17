@@ -1,12 +1,12 @@
 ---
 address: Via San Nicolò 30, Trieste
-category: Sight
 latitude: 45.650187
 longitude: 13.772084
 tags:
 - James Joyce
 - Literature
 - things_to_do
+- landmark
 title: Joyce's House on Via San Nicolò
 type: poi
 ---

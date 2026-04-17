@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 32.657
 longitude: 51.6776
 tags:
 - things_to_do
+- landmark
 title: Naqsh-e Jahan Square
 type: poi
 ---

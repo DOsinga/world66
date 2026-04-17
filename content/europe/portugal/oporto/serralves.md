@@ -1,10 +1,10 @@
 ---
 address: Rua Dom João de Castro 210
-category: Museum
 latitude: 41.159042
 longitude: -8.659354
 tags:
 - things_to_do
+- museum
 title: Serralves
 type: poi
 ---

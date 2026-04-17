@@ -1,7 +1,6 @@
 ---
 address: Ratto della Pileria 43, Trieste
 admission: Free; audio guide €3.50
-category: Museum
 latitude: 45.634234
 longitude: 13.769912
 opening_hours: Apr–Sep 09:00–19:00 (last entry 18:30); Oct–Mar 09:00–17:00 (last entry
@@ -9,6 +8,7 @@ opening_hours: Apr–Sep 09:00–19:00 (last entry 18:30); Oct–Mar 09:00–17:
 tags:
 - One Day in Trieste
 - things_to_do
+- museum
 title: Risiera di San Sabba
 type: poi
 ---

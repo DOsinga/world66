@@ -1,10 +1,10 @@
 ---
 address: Carrera 2 Oeste, Calle 14
-category: Sight
 latitude: 3.4592
 longitude: -76.5339
 tags:
 - things_to_do
+- landmark
 title: Zoológico de Cali
 type: poi
 ---

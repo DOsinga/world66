@@ -1,12 +1,12 @@
 ---
 address: Old Harbour, Iraklion
 admission: €4
-category: Sight
 latitude: 35.3428
 longitude: 25.1388
 opening_hours: Tue–Sun 8:30am–3:30pm
 tags:
 - things_to_do
+- landmark
 title: Koules Fortress
 type: poi
 ---

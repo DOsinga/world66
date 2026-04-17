@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 35.6933
 longitude: 139.6993
 tags:
 - things_to_do
+- museum
 title: Sompo Museum of Art
 type: poi
 ---

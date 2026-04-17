@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 51.422
 longitude: 5.473
 tags:
 - things_to_do
+- landmark
 title: Genneper Park
 type: poi
 ---

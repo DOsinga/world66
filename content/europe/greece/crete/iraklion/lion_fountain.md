@@ -1,10 +1,10 @@
 ---
 address: Plateia Eleftherias (Lions Square), Iraklion
-category: Sight
 latitude: 35.3402
 longitude: 25.1326
 tags:
 - things_to_do
+- landmark
 title: Lion Fountain (Morosini Fountain)
 type: poi
 ---

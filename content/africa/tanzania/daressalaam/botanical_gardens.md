@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -6.8147
 longitude: 39.2878
 tags:
 - things_to_do
+- landmark
 title: Botanical Gardens
 type: poi
 ---

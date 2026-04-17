@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 57.8698
 longitude: 11.9738
 tags:
 - things_to_do
+- landmark
 title: Bohus Fästning
 type: poi
 ---

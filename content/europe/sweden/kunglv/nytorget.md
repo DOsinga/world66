@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 57.8703
 longitude: 11.976
 tags:
 - things_to_do
+- landmark
 title: Nytorget
 type: poi
 ---

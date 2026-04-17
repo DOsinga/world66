@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -6.8237
 longitude: 39.3017
 tags:
 - things_to_do
+- landmark
 title: Kivukoni Fish Market
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Via Brigata Liguria 9
-category: Museum
 latitude: 44.410021
 longitude: 8.946983
 tags:
 - things_to_do
+- museum
 tel: +39 010 564567
 title: Museo di Storia Naturale
 type: poi

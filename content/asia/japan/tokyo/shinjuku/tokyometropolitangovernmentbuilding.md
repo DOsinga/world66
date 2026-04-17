@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 35.6896
 longitude: 139.6917
 tags:
 - things_to_do
+- architecture
 title: Tokyo Metropolitan Government Building
 type: poi
 ---

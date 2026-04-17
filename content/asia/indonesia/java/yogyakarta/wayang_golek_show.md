@@ -1,6 +1,5 @@
 ---
 address: Jl. Rotowijayan No. 1
-category: Other
 latitude: -7.8053
 longitude: 110.3642
 phone: +62 274 373721

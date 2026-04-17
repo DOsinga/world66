@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 44.107
 longitude: 9.8252
 tags:
 - things_to_do
+- landmark
 title: Castel San Giorgio
 type: poi
 ---

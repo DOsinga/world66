@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 44.42
 longitude: 8.95
 tags:
 - things_to_do
+- landmark
 title: Ligurian Mountain Trails
 type: poi
 ---

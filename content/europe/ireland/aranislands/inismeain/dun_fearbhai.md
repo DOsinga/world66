@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 53.0821
 longitude: -9.572
 tags:
 - things_to_do
+- landmark
 title: Dún Fearbhaí
 type: poi
 ---

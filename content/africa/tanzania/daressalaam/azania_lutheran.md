@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: -6.8201
 longitude: 39.2912
 tags:
 - things_to_do
+- architecture
 title: Azania Front Lutheran Church
 type: poi
 ---

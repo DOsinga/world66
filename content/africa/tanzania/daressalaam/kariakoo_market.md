@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -6.82
 longitude: 39.2716
 tags:
 - things_to_do
+- landmark
 title: Kariakoo Market
 type: poi
 ---

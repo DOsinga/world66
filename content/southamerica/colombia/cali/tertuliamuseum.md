@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: 3.4502
 longitude: -76.5454
 tags:
 - things_to_do
+- museum
 title: Museo La Tertulia
 type: poi
 ---

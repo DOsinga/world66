@@ -1,10 +1,10 @@
 ---
 address: Friedrichsplatz, 68165 Mannheim
-category: Sight
 latitude: 49.4843
 longitude: 8.4774
 tags:
 - things_to_do
+- landmark
 title: Wasserturm
 type: poi
 ---

@@ -1,10 +1,10 @@
 ---
 address: Pratapgunj, Vadodara
-category: Architecture
 latitude: 22.3193
 longitude: 73.183
 tags:
 - things_to_do
+- architecture
 title: Maharaja Sayajirao University
 type: poi
 ---

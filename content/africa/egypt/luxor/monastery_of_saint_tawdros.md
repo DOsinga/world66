@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 25.72407
 longitude: 32.577041
 tags:
 - things_to_do
+- landmark
 title: Monastery of Saint Tawdros
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: -13.516767
 longitude: -71.978779
 tags:
 - things_to_do
+- landmark
 title: Plaza de Armas
 type: poi
 ---

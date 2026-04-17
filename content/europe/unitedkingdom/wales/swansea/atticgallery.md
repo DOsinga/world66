@@ -1,10 +1,10 @@
 ---
 address: 14 Cambrian Place, Swansea Maritime Quarter
-category: Museum
 latitude: 51.6156
 longitude: -3.9383
 tags:
 - things_to_do
+- museum
 title: Attic Gallery
 type: poi
 ---

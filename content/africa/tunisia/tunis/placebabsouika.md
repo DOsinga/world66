@@ -1,9 +1,9 @@
 ---
-category: Neighbourhood
 latitude: 36.8053
 longitude: 10.168
 tags:
 - things_to_do
+- neighbourhood
 title: Place Bab Souika
 type: poi
 ---

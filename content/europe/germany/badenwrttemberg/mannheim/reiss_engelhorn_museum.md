@@ -1,12 +1,12 @@
 ---
 address: D5, 68159 Mannheim
 admission: €8, concessions €5
-category: Museum
 latitude: 49.4876
 longitude: 8.465
 opening_hours: Tue–Sun 11:00–18:00; closed Mon
 tags:
 - things_to_do
+- museum
 title: Reiss-Engelhorn Museum
 type: poi
 ---

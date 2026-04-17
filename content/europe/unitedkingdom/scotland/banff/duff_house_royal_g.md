@@ -1,10 +1,10 @@
 ---
 address: The Barnyards, Banff AB45 3SX
-category: Sight
 latitude: 57.6573
 longitude: -2.5207
 tags:
 - things_to_do
+- landmark
 title: Duff House Royal Golf Club
 type: poi
 ---

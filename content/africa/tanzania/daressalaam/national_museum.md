@@ -1,9 +1,9 @@
 ---
-category: Museum
 latitude: -6.8159
 longitude: 39.2876
 tags:
 - things_to_do
+- museum
 title: National Museum of Tanzania
 type: poi
 ---

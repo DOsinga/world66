@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 23.137035
 longitude: 113.301194
 tags:
 - things_to_do
+- landmark
 title: Zoo of Guangzhou
 type: poi
 ---

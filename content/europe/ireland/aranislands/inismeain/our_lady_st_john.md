@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 53.0855
 longitude: -9.587
 tags:
 - things_to_do
+- landmark
 title: Our Lady & St John Church
 type: poi
 ---

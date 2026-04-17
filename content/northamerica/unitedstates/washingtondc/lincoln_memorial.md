@@ -1,10 +1,10 @@
 ---
-category: Sight
 latitude: 38.889212
 longitude: -77.050172
 opening_hours: Open 24/7, closed December 25
 tags:
 - things_to_do
+- landmark
 title: Lincoln Memorial
 type: Memorials
 url: www.nps.gov

@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 28.3656
 longitude: -81.5297
 tags:
 - things_to_do
+- landmark
 title: Disney's Typhoon Lagoon
 type: poi
 ---

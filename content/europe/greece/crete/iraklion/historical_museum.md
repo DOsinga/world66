@@ -1,12 +1,12 @@
 ---
 address: Lysimachou Kalokerinou 7, Iraklion
 admission: €5
-category: Museum
 latitude: 35.3423
 longitude: 25.129
 opening_hours: Mon–Sat 9:00am–5:00pm
 tags:
 - things_to_do
+- museum
 title: Historical Museum of Crete
 type: poi
 url: www.historical-museum.gr

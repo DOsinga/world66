@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 57.8711
 longitude: 11.9796
 tags:
 - things_to_do
+- landmark
 title: Gamla Torget
 type: poi
 ---

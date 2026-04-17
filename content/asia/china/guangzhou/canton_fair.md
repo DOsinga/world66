@@ -1,10 +1,10 @@
 ---
 accessibility: both location has subway access
-category: Sight
 latitude: 23.103443
 longitude: 113.354123
 tags:
 - things_to_do
+- landmark
 title: Canton Fair
 type: Other
 url: www.cantonfair.org.cn

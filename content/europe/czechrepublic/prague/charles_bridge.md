@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 50.086799
 longitude: 14.40898
 tags:
 - things_to_do
+- landmark
 title: Charles Bridge
 type: poi
 ---

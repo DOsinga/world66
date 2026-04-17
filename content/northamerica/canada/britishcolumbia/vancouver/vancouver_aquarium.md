@@ -1,10 +1,10 @@
 ---
 address: 845 Avison Way, Vancouver, BC V6G 3E2
-category: Sight
 latitude: 49.3007
 longitude: -123.1308
 tags:
 - things_to_do
+- landmark
 title: Vancouver Aquarium
 type: poi
 url: https://www.vanaqua.org

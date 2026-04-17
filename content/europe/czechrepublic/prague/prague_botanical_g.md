@@ -1,10 +1,10 @@
 ---
 address: Nádvorní 134, Prague 7 (Troja)
-category: Sight
 latitude: 50.118172
 longitude: 14.412831
 tags:
 - things_to_do
+- landmark
 title: Prague Botanical Gardens
 type: poi
 url: botgarden.cz

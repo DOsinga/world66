@@ -1,9 +1,9 @@
 ---
-category: Architecture
 latitude: 42.4319
 longitude: -8.6432
 tags:
 - things_to_do
+- architecture
 title: Building Sarmiento
 type: poi
 ---

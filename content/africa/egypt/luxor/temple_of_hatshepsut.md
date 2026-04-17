@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 25.737543
 longitude: 32.607231
 tags:
 - things_to_do
+- landmark
 title: Temple of Hatshepsut
 type: poi
 ---

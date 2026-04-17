@@ -1,11 +1,11 @@
 ---
 address: Zonnehof 8
-category: Architecture
 latitude: 52.1518
 longitude: 5.384
 phone: 033-4633034
 tags:
 - things_to_do
+- architecture
 title: De Zonnehof
 type: poi
 ---

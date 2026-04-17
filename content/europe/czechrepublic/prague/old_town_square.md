@@ -1,9 +1,9 @@
 ---
-category: Sight
 latitude: 50.087445
 longitude: 14.420971
 tags:
 - things_to_do
+- landmark
 title: Old Town Square
 type: poi
 ---

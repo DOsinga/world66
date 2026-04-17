@@ -1,9 +1,0 @@
----
-title: "Judería (Jewish Quarter)"
-type: poi
-category: "Neighbourhood"
-latitude: 37.8800
-longitude: -4.7820
----
-
-The medieval Jewish quarter spreads north and west of the Mezquita: a tight maze of whitewashed lanes, flower-hung balconies, and small squares that open up suddenly between high walls. Wander Calle de los Judíos to reach the small 14th-century synagogue — one of only three medieval synagogues left in Spain — and the bronze statue of the philosopher Maimonides, born here in 1135. The Calleja de las Flores is the postcard street: narrow, geranium-lined, framing a view of the Mezquita's bell tower at the end. Get lost on purpose; the quarter is small and you'll come out somewhere recognisable.

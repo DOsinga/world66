@@ -1,11 +1,16 @@
 ---
-title: Bogota
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 4.711
 longitude: -74.0721
-done:
-  location_cleanup: 2026-04-02
 score: 0.59
+title: Bogota
+type: location
+image: bogota.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Capitalio_National_de_Colombia,_Bogot%C3%A1.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Bernard Gagnon
 ---
 
 Bogota sits at 2,640 metres in the eastern Andes, a sprawling capital of eight million people where colonial churches share blocks with glass towers and street art covers every spare wall. The altitude catches newcomers off guard -- the air is thin, the sun surprisingly strong, and the temperature hovers around 14 degrees year-round. Give yourself a day to adjust before tackling the hills.

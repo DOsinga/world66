@@ -1,9 +1,0 @@
----
-category: Sight
-latitude: 18.774898
-longitude: 98.948562
-title: Wat Ram Poeng
-type: poi
----
-
-type: Temples

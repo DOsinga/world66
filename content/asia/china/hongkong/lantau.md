@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 22.2935
 longitude: 113.9601
-title: Lantau
-type: location
 score: 0.63
+title: Lantau
+type: neighbourhood
 ---
 
 Lantau is the largest island in Hong Kong, twice the size of Hong Kong Island but with a fraction of the population. The contrast between its different parts is extreme: international airport on reclaimed land in the northeast, Disneyland on a separate stretch of reclaimed coast, and vast tracts of hill country in the interior that feel genuinely remote.

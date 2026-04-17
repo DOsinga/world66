@@ -1,11 +1,16 @@
 ---
-title: Calbayog
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-04
 latitude: 12.067
 longitude: 124.5947
-done:
-  location_cleanup: 2026-04-04
 score: 0.39
+title: Calbayog
+type: location
+image: calbayog.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Calbayog_City_Hall,_Jose_Avelino_Avenue_(Calbayog,_Samar;_04-27-2023).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Patrickroque01
 ---
 
 Calbayog is the largest city on [Samar Island](/asia/philippines/samarisland), sprawling across three districts on the island's western coast. It is not a tourist city in any conventional sense — this is a working Philippine port town with a busy market, jeepneys painted in eye-watering colours, and the kind of easy-going local life that makes the Philippines so appealing when you get off the beaten path.

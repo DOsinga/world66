@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 33.693812
 longitude: 73.065151
 score: 0.46
 title: Islamabad
 type: location
+image: islamabad.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Blue_Area,_Islamabad_at_Night.jpg
+image_license: CC BY 4.0
+image_attribution: AlidPedian
 ---
 
 Islamabad is Pakistan's capital, planned from scratch in the 1960s and built at the foot of the Margalla Hills on the northern edge of the Potohar Plateau. In contrast to its chaotic twin city [Rawalpindi](/asia/pakistan/rawalpindi) — the old garrison town 15 km to the south — Islamabad is green, spacious, quiet, and rigidly gridded. Most travellers find themselves there briefly to handle bureaucratic errands: embassies, visas for onward travel to China or Iran, or permits for the Northern Areas. Few stay longer than they have to, but the city has more to offer than the utilitarian reputation suggests.

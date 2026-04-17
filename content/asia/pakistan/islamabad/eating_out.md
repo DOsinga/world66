@@ -1,15 +1,14 @@
 ---
-title: "Eating Out"
-type: section
-accessibility: "easiest"
-address: "I-9/2"
-email: "dunkin@dsl.net.pk"
-phone: "+92514100191"
-price: "pheasable."
-type: "Local"
-url: "www.dunkindonuts.com.pk"
+accessibility: easiest
+address: I-9/2
+email: dunkin@dsl.net.pk
 latitude: 43.589866
 longitude: 39.806538
+phone: '+92514100191'
+price: pheasable.
+title: Eating Out
+type: section
+url: www.dunkindonuts.com.pk
 ---
 
 qdsddsafds

@@ -1,7 +1,7 @@
 ---
-title: "Top 5 Must Do's in Vienna"
+title: Top 5 Must Do's in Vienna
 type: section
-url: "www.concertvienna.com"
+url: www.concertvienna.com
 ---
 
 Vienna is a rich Central European cultural and historical hub that flaunts its artistic genius with an enviable panache. Here are some helpful tips on the best places to see and things to do in this charming Austrian Capital.

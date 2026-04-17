@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 36.7213
 longitude: -4.4214
 score: 0.73
 title: Malaga
 type: location
+image: malaga.jpg
+image_source: https://commons.wikimedia.org/wiki/File:%22Malaga_ist_eine_lebendige_Stadt_an_der_Costa_del_Sol%22._03.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Holger Uwe Schmitt
 ---
 
 Málaga is the unsung capital of the Costa del Sol — a working port city with a 3,000-year history, a Moorish fortress on its hill, and Picasso's birthplace on its central square. For decades it was treated as the airport you flew into on the way to the beach resorts. That is changing fast: a string of new museums, a tidied-up old town, and a polished waterfront have turned it into one of the most rewarding short-break cities in southern Spain.

@@ -7,6 +7,10 @@ longitude: -2.9916
 score: 0.58
 title: Liverpool
 type: location
+image: liverpool.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Liverpool_Football_Club_Museum_06.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ank kumar
 ---
 
 Liverpool is one of the liveliest cities in England, shaped by its port, its people, and its music. The Mersey waterfront — a UNESCO World Heritage Site — is the city's calling card, but the real draw is the energy of the place: irreverent, creative, and fiercely proud of where it comes from.

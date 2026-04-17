@@ -7,6 +7,10 @@ longitude: -5.5671
 score: 0.64
 title: León
 type: location
+image: leon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Casa_Botines._Le%C3%B3n_60.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Luis Miguel Bugallo Sánchez (Lmbuga)
 ---
 
 León sits at the edge of the Castilian meseta where the pilgrimage road to Santiago de Compostela descends from the mountains. It's a city that punches above its size: the cathedral alone would justify a detour, and the old quarter has enough Roman walls, Romanesque churches, and tapas bars to fill a proper few days.

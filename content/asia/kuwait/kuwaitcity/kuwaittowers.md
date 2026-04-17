@@ -1,7 +1,8 @@
 ---
 title: "Kuwait Towers"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
 latitude: 29.389921
 longitude: 48.003287
 ---

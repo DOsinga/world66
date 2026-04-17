@@ -1,7 +1,8 @@
 ---
 title: "Tareq Rajab Museum"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
 latitude: 29.3450
 longitude: 48.0830
 ---

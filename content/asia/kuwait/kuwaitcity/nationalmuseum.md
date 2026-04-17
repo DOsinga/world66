@@ -1,7 +1,8 @@
 ---
 title: "National Museum"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
 latitude: 29.373311
 longitude: 47.966851
 ---

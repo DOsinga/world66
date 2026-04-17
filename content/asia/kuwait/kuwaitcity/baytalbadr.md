@@ -1,7 +1,8 @@
 ---
 title: "Bayt Al-Badr"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
 latitude: 29.374100
 longitude: 47.967200
 ---

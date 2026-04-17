@@ -1,7 +1,8 @@
 ---
 title: "Sadu House"
 type: poi
-category: "Museum"
+tags:
+  - things_to_do
 latitude: 29.374000
 longitude: 47.967000
 ---

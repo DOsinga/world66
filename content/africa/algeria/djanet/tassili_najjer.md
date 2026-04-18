@@ -6,6 +6,12 @@ longitude: 8.1339
 tags:
 - things_to_do
 - sight
+story: >
+  The most famous single image in Tassili's rock art is the "Crying Cow" — a
+  Neolithic painting of a cow with streams of tears falling from its eyes. Painted
+  during the pastoral period around 4,000–1,500 BC, it captures a moment of animal
+  emotion with a tenderness that feels startlingly modern. Nobody knows why the cow
+  is crying.
 ---
 
 A vast sandstone plateau rising above the Sahara, designated both a UNESCO World Heritage Site and a national park. The landscape is extraordinary — forests of eroded rock pillars, natural arches, deep canyons, and wind-sculpted formations that look more like another planet than North Africa. But the real treasure is the rock art. Thousands of prehistoric paintings and engravings, some dating back 8,000 years, cover the walls of shelters and overhangs across the plateau. They depict cattle herders, hunters, giraffes, hippos, and crocodiles from a time when the Sahara was green savanna with rivers and lakes.

@@ -92,9 +92,7 @@ img { max-width: 100%; height: auto; }
    ========================================================================== */
 
 .hero {
-  max-width: 1200px;
-  margin: 28px auto 0;
-  padding: 0 40px;
+  padding: 28px 40px 0;
   position: relative;
 }
 
@@ -1180,7 +1178,7 @@ img { max-width: 100%; height: auto; }
 
 @media (max-width: 768px) {
   .hero {
-    margin: 16px 0 24px;
+    padding: 16px 20px 0;
   }
 
   .hero-card {

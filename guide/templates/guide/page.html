@@ -33,26 +33,19 @@
   </div>
   {% endif %}
 
-  {% if sections or parent_sections %}
+  {% if parent_sections %}
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
       <span class="box-accent"></span>
       Sections
     </h3>
     <ul class="sidebar-nav">
-      {% if parent %}
       <li><a href="{{ parent.get_absolute_url }}"><strong>General</strong></a></li>
       {% for s in parent_sections %}
       <li{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} class="active"{% endif %}>
         <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
       </li>
       {% endfor %}
-      {% else %}
-      <li class="active"><a href="{{ page.get_absolute_url }}"><strong>General</strong></a></li>
-      {% for s in sections %}
-      <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
-      {% endfor %}
-      {% endif %}
     </ul>
   </div>
   {% endif %}

@@ -112,6 +112,11 @@ def location_or_section(request, path):
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
 
+    # Attach image_url to each neighbourhood for card display
+    for nb in neighbourhoods:
+        nb_img = _image_path(nb, branch)
+        nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
+
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,

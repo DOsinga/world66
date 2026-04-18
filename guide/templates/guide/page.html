@@ -181,12 +181,19 @@
 
 {% if neighbourhood_items %}
 <div class="neighbourhoods-section">
-  <h2>Neighbourhoods</h2>
-  <ul class="neighbourhood-list">
+  <h2 class="nbhd-heading">Neighbourhoods</h2>
+  <div class="nbhd-grid">
     {% for nb in neighbourhood_items %}
-    <li><a href="{{ nb.get_absolute_url }}">{{ nb.title }}</a></li>
+    <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
+      {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
+      <div class="nbhd-veil"></div>
+      <div class="nbhd-txt">
+        <div class="nbhd-idx">NB — {{ forloop.counter|stringformat:"02d" }}</div>
+        <div class="nbhd-name">{{ nb.title }}</div>
+      </div>
+    </a>
     {% endfor %}
-  </ul>
+  </div>
 </div>
 {% endif %}
 

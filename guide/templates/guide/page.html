@@ -104,43 +104,51 @@
 </aside>
 {% endblock %}
 
-{% block background %}
-{% if hero_image_url %}
-<div id="background-map" style="display:none"></div>
-{% elif is_continent or markers_json != "[]" or lat and lng %}
-<div id="background-map"></div>
-{% endif %}
-{% endblock %}
+{% block background %}{% endblock %}
 
 {% block hero %}
 {% if is_continent or hero_image_url or markers_json != "[]" or lat and lng %}
 <div id="hero" class="hero">
   {% if hero_image_url %}
-  {% if hero_image_source %}
-  <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
-  {% endif %}
+  <div class="hero-card" id="hero-photo-card">
+    <img src="{{ hero_image_url }}" alt="{{ page.title }}">
+    <div class="hero-veil"></div>
+    {% if hero_image_source %}
+    <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
+    {% endif %}
+    <div class="hero-title-block">
+      <div class="hero-title">{{ page.title }}</div>
+    </div>
+  </div>
   {% if markers_json != "[]" or lat and lng %}
+  <div class="hero-card hero-card-map" id="hero-map-card" style="display:none">
+    <div id="background-map" style="position:absolute;inset:0;width:100%;height:100%"></div>
+    <div class="hero-title-block">
+      <div class="hero-title">{{ page.title }}</div>
+    </div>
+  </div>
   <div class="hero-toggle-bar">
     <button class="hero-toggle-btn hero-toggle-active" id="hero-btn-photo">Photo</button>
     <button class="hero-toggle-btn" id="hero-btn-map">Map</button>
   </div>
   {% endif %}
+  {% else %}
+  <div class="hero-card hero-card-map">
+    <div id="background-map" style="position:absolute;inset:0;width:100%;height:100%"></div>
+    <div class="hero-veil"></div>
+    <div class="hero-title-block">
+      <div class="hero-title">{{ page.title }}</div>
+    </div>
+  </div>
   {% endif %}
-  <div class="hero-veil"></div>
-  <div class="hero-title">{{ page.title }}</div>
-  <button class="hero-expand-btn" id="hero-expand-btn" title="Show more">&#8964;</button>
 </div>
 {% endif %}
 {% endblock %}
 
-{% block body_style %}
-{% if hero_image_url %}<style>
-body{background-image:url('{{ hero_image_url }}');background-size:cover;background-position:center top;}
-</style>{% endif %}
-{% endblock %}
+{% block body_style %}{% endblock %}
 
 {% block content %}
-<h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
+<h1 class="{% if hero_image_url or markers_json != '[]' or lat and lng or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
 
 {% if page.properties %}
@@ -264,11 +272,6 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 {% block extra_js %}
 <script>
 (function() {
-  var hero = document.getElementById('hero');
-  var heroExpandBtn = document.getElementById('hero-expand-btn');
-  var heroExpanded = false;
-  var bgMapEl = document.getElementById('background-map');
-
   {% if not is_continent %}
   var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
@@ -277,8 +280,10 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   var bgInited = false;
 
   function initBgMap() {
-    if (bgInited || !bgMapEl) return;
-    void bgMapEl.offsetHeight; // force reflow so Leaflet measures real dimensions
+    if (bgInited) return;
+    var bgMapEl = document.getElementById('background-map');
+    if (!bgMapEl) return;
+    void bgMapEl.offsetHeight;
     {% if is_continent %}
     bgMap = initCountryMap('background-map', '{{ continent_slug|escapejs }}');
     {% else %}
@@ -288,44 +293,35 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   }
 
   {% if hero_image_url %}
-  // Photo/Map toggle — background-map starts hidden
+  {% if markers_json != "[]" or lat and lng %}
+  // Photo/Map toggle
   var heroBtnPhoto = document.getElementById('hero-btn-photo');
   var heroBtnMap   = document.getElementById('hero-btn-map');
+  var photoCard    = document.getElementById('hero-photo-card');
+  var mapCard      = document.getElementById('hero-map-card');
 
   function setMapMode() {
-    if (!bgMapEl) return;
-    bgMapEl.style.display = 'block';
-    document.body.style.backgroundImage = 'none';
+    if (photoCard) photoCard.style.display = 'none';
+    if (mapCard)   mapCard.style.display = '';
     if (heroBtnMap)   heroBtnMap.classList.add('hero-toggle-active');
     if (heroBtnPhoto) heroBtnPhoto.classList.remove('hero-toggle-active');
     if (!bgInited) { initBgMap(); } else if (bgMap) { bgMap.invalidateSize(); }
   }
 
   function setPhotoMode() {
-    if (!bgMapEl) return;
-    bgMapEl.style.display = 'none';
-    document.body.style.backgroundImage = '';
+    if (mapCard)   mapCard.style.display = 'none';
+    if (photoCard) photoCard.style.display = '';
     if (heroBtnPhoto) heroBtnPhoto.classList.add('hero-toggle-active');
     if (heroBtnMap)   heroBtnMap.classList.remove('hero-toggle-active');
   }
 
   if (heroBtnMap)   heroBtnMap.addEventListener('click', setMapMode);
   if (heroBtnPhoto) heroBtnPhoto.addEventListener('click', setPhotoMode);
-
+  {% endif %}
   {% else %}
   // No photo — init map immediately
   initBgMap();
   {% endif %}
-
-  // Expand/collapse hero strip
-  if (hero && heroExpandBtn) {
-    heroExpandBtn.addEventListener('click', function() {
-      heroExpanded = !heroExpanded;
-      hero.classList.toggle('hero-expanded', heroExpanded);
-      heroExpandBtn.innerHTML = heroExpanded ? '&#8963;' : '&#8964;';
-      heroExpandBtn.title = heroExpanded ? 'Show less' : 'Show more';
-    });
-  }
 })();
 </script>
 {% endblock %}

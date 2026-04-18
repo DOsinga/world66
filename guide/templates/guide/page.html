@@ -24,6 +24,15 @@
 
 {% block sidebar %}
 <aside id="sidebar">
+  {% if page.page_type == "location" and markers_json != "[]" or page.page_type == "location" and lat and lng %}
+  <div class="sidebar-map-card">
+    <div class="sidebar-map-head">
+      <span class="sidebar-map-title">Map</span>
+    </div>
+    <div class="sidebar-map-canvas" id="sidebar-map"></div>
+  </div>
+  {% endif %}
+
   {% if sections or parent_sections %}
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
@@ -270,6 +279,16 @@
 {% endblock %}
 
 {% block extra_js %}
+{% if page.page_type == "location" and markers_json != "[]" or page.page_type == "location" and lat and lng %}
+<script>
+(function() {
+  var sideMarkers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  if (sideMarkers.length && document.getElementById('sidebar-map')) {
+    initLocationMap('sidebar-map', sideMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
+  }
+})();
+</script>
+{% endif %}
 <script>
 (function() {
   {% if not is_continent %}

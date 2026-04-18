@@ -54,10 +54,9 @@ img { max-width: 100%; height: auto; }
 
 /* --- Page container --- */
 #page {
-  max-width: 980px;
+  max-width: 1200px;
   margin: 0 auto;
-  background: #fff;
-  box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+  background: transparent;
   position: relative;
   z-index: 1;
 }
@@ -95,16 +94,16 @@ img { max-width: 100%; height: auto; }
 
 .hero {
   width: 100%;
-  height: 200px;
+  aspect-ratio: 16 / 9;
+  max-height: 65vh;
   position: relative;
   overflow: hidden;
-  transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   background: transparent;
   pointer-events: none; /* let clicks pass through to background map */
 }
 
 .hero.hero-expanded {
-  height: 65vh;
+  max-height: 90vh;
 }
 
 /* Layers inside hero (map layer, etc.) — fill the full hero strip */
@@ -192,22 +191,36 @@ img { max-width: 100%; height: auto; }
 }
 .hero-expand-btn:hover { opacity: 1; background: rgba(0,0,0,0.65); }
 
+/* Gradient veil — darkens bottom of hero for legibility */
+.hero-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom,
+    transparent 40%,
+    rgba(0,0,0,0.15) 65%,
+    rgba(0,0,0,0.55) 100%
+  );
+  pointer-events: none;
+  z-index: 5;
+}
+
 /* Destination name — editorial serif, bottom-left of hero */
 .hero-title {
   position: absolute;
   bottom: 28px;
-  left: 32px;
-  right: 32px;
+  left: 40px;
+  right: 40px;
   font-family: var(--display-font);
   font-weight: 400;
   font-variation-settings: "opsz" 144;
-  font-size: clamp(40px, 7vw, 100px);
+  font-size: clamp(36px, 6vw, 88px);
   line-height: 0.95;
   letter-spacing: -0.03em;
   color: #fff;
-  text-shadow: 0 2px 20px rgba(0,0,0,0.4);
+  text-shadow: 0 2px 24px rgba(0,0,0,0.3);
   pointer-events: none;
   transition: opacity 0.3s;
+  z-index: 10;
 }
 
 .hero.hero-expanded .hero-title {
@@ -554,26 +567,34 @@ img { max-width: 100%; height: auto; }
 }
 
 /* ==========================================================================
-   Content layout — sidebar left, main right (like original)
+   Content layout — story left, sticky sidebar right
    ========================================================================== */
 
 #content {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 260px;
+  grid-template-areas: "main sidebar";
+  gap: 48px;
+  align-items: start;
+  padding: 48px 40px 80px;
   min-height: 500px;
 }
 
 #sidebar {
-  width: 200px;
-  flex-shrink: 0;
-  background: var(--sidebar-bg);
-  border-right: 1px solid var(--border);
-  padding: 15px 0;
+  grid-area: sidebar;
+  width: auto;
+  position: sticky;
+  top: 80px;
+  align-self: start;
+  background: transparent;
+  border-right: none;
+  padding: 0;
 }
 
 #main {
-  flex: 1;
+  grid-area: main;
   min-width: 0;
-  padding: 20px 25px;
+  padding: 0;
 }
 
 /* ==========================================================================
@@ -1038,52 +1059,44 @@ img { max-width: 100%; height: auto; }
    ========================================================================== */
 
 @media (max-width: 768px) {
-  #page {
-    box-shadow: none;
-  }
-
   .hero {
-    height: 150px;
+    aspect-ratio: 4 / 3;
+    max-height: 55vw;
   }
 
   .hero.hero-expanded {
-    height: 50vh;
-  }
-
-  .top-nav ul {
-    flex-wrap: wrap;
-  }
-
-  .top-nav li a {
-    padding: 7px 10px;
-    font-size: 11px;
+    max-height: 80vh;
   }
 
   #content {
-    flex-direction: column;
+    grid-template-columns: 1fr;
+    grid-template-areas: "main" "sidebar";
+    gap: 32px;
+    padding: 24px 20px 48px;
   }
 
   #sidebar {
     display: none;
+    position: static;
     width: 100%;
     border-right: none;
     border-bottom: 1px solid var(--border);
     padding: 10px 0;
-    order: 1;
   }
 
   #sidebar.sidebar-open {
     display: block;
     position: fixed;
     top: 0;
-    left: 0;
+    right: 0;
     bottom: 0;
     z-index: 9998;
-    background: var(--sidebar-bg);
+    background: var(--paper);
     overflow-y: auto;
-    width: 260px;
-    box-shadow: 2px 0 8px rgba(0,0,0,0.15);
-    border-right: 1px solid var(--border);
+    width: 280px;
+    box-shadow: -2px 0 8px rgba(0,0,0,0.15);
+    border-left: 1px solid var(--line);
+    padding: 16px 0;
   }
 
   .sidebar-toggle {

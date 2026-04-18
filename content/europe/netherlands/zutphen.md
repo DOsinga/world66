@@ -3,6 +3,10 @@ latitude: 52.1387
 longitude: 6.1952
 title: Zutphen
 type: location
+image: zutphen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Zutphen,_Walburgkerk_met_stadsmuur_foto4_2011-02-17_13.43.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Michielverbeek
 ---
 
 Zutphen is one of the best-preserved medieval towns in the Netherlands, a former Hanseatic trading city on the IJssel river that somehow escaped both wartime destruction and post-war redevelopment. The result is a compact old centre of cobbled streets, Gothic churches, medieval towers, and merchants' houses that looks much as it did 500 years ago.

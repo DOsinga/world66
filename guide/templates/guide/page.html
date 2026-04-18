@@ -64,18 +64,6 @@
       {% endfor %}
     </ul>
   </div>
-  {% elif pois and page.page_type != "location" %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      {{ page.title }}
-    </h3>
-    <ul class="sidebar-nav">
-      {% for poi in pois %}
-      <li><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
   {% endif %}
 </aside>
 {% endblock %}

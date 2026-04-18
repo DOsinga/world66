@@ -642,6 +642,37 @@ img { max-width: 100%; height: auto; }
   font-size: 11px;
 }
 
+/* Sidebar map card */
+.sidebar-map-card {
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.sidebar-map-head {
+  display: flex;
+  align-items: center;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+  background: var(--paper);
+}
+
+.sidebar-map-title {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--mute);
+}
+
+.sidebar-map-canvas {
+  height: 260px;
+  background: var(--paper-3);
+}
+
 /* Sidebar toggle — hidden on desktop */
 .sidebar-toggle {
   display: none;

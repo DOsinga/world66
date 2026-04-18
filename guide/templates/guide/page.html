@@ -50,32 +50,6 @@
   </div>
   {% endif %}
 
-  {% if locations or parent_locations %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      Places in {% if parent_locations %}{{ parent.title }}{% else %}{{ page.title }}{% endif %}
-    </h3>
-    <ul class="sidebar-nav">
-      {% if parent_locations %}
-        {% for child in parent_locations|slice:":30" %}
-        <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
-        {% endfor %}
-        {% if parent_locations|length > 30 %}
-        <li class="more"><a href="#">Show all {{ parent_locations|length }} &rarr;</a></li>
-        {% endif %}
-      {% else %}
-        {% for child in locations|slice:":30" %}
-        <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
-        {% endfor %}
-        {% if locations|length > 30 %}
-        <li class="more"><a href="#">Show all {{ locations|length }} &rarr;</a></li>
-        {% endif %}
-      {% endif %}
-    </ul>
-  </div>
-  {% endif %}
-
   {% if nav_siblings %}
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
@@ -158,37 +132,6 @@
 </div>
 {% endif %}
 
-{% if page.page_type == "location" and sections %}
-<div class="sections-row">
-  {% for s in sections %}
-  <a href="{{ s.get_absolute_url }}" class="section-card">
-    <div>
-      <div class="section-card-idx">{{ forloop.counter|stringformat:"02d" }}</div>
-      <div class="section-card-name">{{ s.title }}</div>
-    </div>
-    <span class="section-card-arrow">&#8594;</span>
-  </a>
-  {% endfor %}
-</div>
-{% endif %}
-
-{% if neighbourhood_items %}
-<div class="neighbourhoods-section">
-  <h2 class="nbhd-heading">Neighbourhoods</h2>
-  <div class="nbhd-grid">
-    {% for nb in neighbourhood_items %}
-    <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
-      {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
-      <div class="nbhd-veil"></div>
-      <div class="nbhd-txt">
-        <div class="nbhd-idx">NB — {{ forloop.counter|stringformat:"02d" }}</div>
-        <div class="nbhd-name">{{ nb.title }}</div>
-      </div>
-    </a>
-    {% endfor %}
-  </div>
-</div>
-{% endif %}
 
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
 {% if poi_categories %}
@@ -272,6 +215,40 @@
   <div class="destination-columns">
     {% for child in locations %}
     <a href="{{ child.get_absolute_url }}">{{ child.title }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+{% endblock %}
+
+{% block wide_content %}
+{% if page.page_type == "location" and sections %}
+<div class="wide-block sections-row">
+  {% for s in sections %}
+  <a href="{{ s.get_absolute_url }}" class="section-card">
+    <div>
+      <div class="section-card-idx">{{ forloop.counter|stringformat:"02d" }}</div>
+      <div class="section-card-name">{{ s.title }}</div>
+    </div>
+    <span class="section-card-arrow">&#8594;</span>
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if neighbourhood_items %}
+<div class="wide-block neighbourhoods-section">
+  <h2 class="nbhd-heading">Neighbourhoods</h2>
+  <div class="nbhd-grid">
+    {% for nb in neighbourhood_items %}
+    <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
+      {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
+      <div class="nbhd-veil"></div>
+      <div class="nbhd-txt">
+        <div class="nbhd-idx">NB — {{ forloop.counter|stringformat:"02d" }}</div>
+        <div class="nbhd-name">{{ nb.title }}</div>
+      </div>
+    </a>
     {% endfor %}
   </div>
 </div>

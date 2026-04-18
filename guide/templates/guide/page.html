@@ -176,7 +176,11 @@
 <div class="sections-row">
   {% for s in sections %}
   <a href="{{ s.get_absolute_url }}" class="section-card">
-    <div class="section-card-name">{{ s.title }}</div>
+    <div>
+      <div class="section-card-idx">{{ forloop.counter|stringformat:"02d" }}</div>
+      <div class="section-card-name">{{ s.title }}</div>
+    </div>
+    <span class="section-card-arrow">&#8594;</span>
   </a>
   {% endfor %}
 </div>

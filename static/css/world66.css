@@ -88,11 +88,13 @@ img { max-width: 100%; height: auto; }
 }
 
 /* ==========================================================================
-   Hero — full viewport width, between header and content
+   Hero — constrained to page width, with same horizontal padding as #content
    ========================================================================== */
 
 .hero {
-  margin: 28px 0 40px;
+  max-width: 1200px;
+  margin: 28px auto 0;
+  padding: 0 40px;
   position: relative;
 }
 
@@ -833,6 +835,27 @@ img { max-width: 100%; height: auto; }
   background: #f0f0ec;
 }
 
+/* Map pin markers */
+.w66-pin {
+  width: 28px;
+  height: 28px;
+  background: var(--ink);
+  color: var(--paper);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  border: 2px solid var(--paper);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+
+.w66-pin.accent {
+  background: var(--accent);
+}
+
 /* Continent labels on the world map */
 .continent-label {
   background: none;
@@ -896,6 +919,38 @@ img { max-width: 100%; height: auto; }
 
 .destination-columns a:hover {
   color: var(--red);
+}
+
+/* Section cards — text-only row for location page sections */
+.sections-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 32px;
+}
+
+.section-card {
+  display: block;
+  padding: 12px 18px;
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.section-card:hover {
+  background: var(--paper-3);
+  border-color: var(--line-2);
+  text-decoration: none;
+}
+
+.section-card-name {
+  font-family: var(--display-font);
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--ink);
+  letter-spacing: -0.01em;
 }
 
 /* Neighbourhoods cards — shown inline under the article body */

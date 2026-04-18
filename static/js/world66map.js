@@ -121,9 +121,7 @@ function initCountryMap(elementId, continentSlug, bounds) {
         scrollWheelZoom: false,
     });
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-        maxZoom: 8,
-    }).addTo(map);
+    _addSplitTiles(map);
 
     if (bounds) {
         map.fitBounds(bounds);
@@ -213,6 +211,24 @@ function panMarkerToHero(map, lat, lng, animate) {
 
 /* ---- Location map: markers for child locations/POIs, expandable ---- */
 
+function _makePinIcon(label, cls) {
+    return L.divIcon({
+        className: '',
+        html: '<div class="w66-pin' + (cls ? ' ' + cls : '') + '">' + (label || '') + '</div>',
+        iconSize: [28, 28],
+        iconAnchor: [14, 14],
+    });
+}
+
+function _addSplitTiles(map) {
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+        subdomains: 'abcd', maxZoom: 19,
+    }).addTo(map);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
+        subdomains: 'abcd', maxZoom: 19, pane: 'overlayPane',
+    }).addTo(map);
+}
+
 function initLocationMap(elementId, markers, options) {
     options = options || {};
     const map = L.map(elementId, {
@@ -221,31 +237,27 @@ function initLocationMap(elementId, markers, options) {
         scrollWheelZoom: false,
     });
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-        maxZoom: 18,
-    }).addTo(map);
+    _addSplitTiles(map);
 
     const group = L.featureGroup();
 
-    markers.forEach(function(m) {
+    markers.forEach(function(m, i) {
         const isHighlight = !!m.highlight;
-        const marker = L.circleMarker([m.lat, m.lng], {
-            radius: isHighlight ? 8 : 5,
-            fillColor: isHighlight ? W66_RED : '#999',
-            fillOpacity: isHighlight ? 1 : 0.65,
-            color: '#fff',
-            weight: isHighlight ? 2 : 1,
+        const label = markers.length > 1 && !isHighlight
+            ? String(i + 1).padStart(2, '0') : '';
+        const cls = isHighlight ? 'accent' : '';
+        const marker = L.marker([m.lat, m.lng], {
+            icon: _makePinIcon(label, cls),
         }).addTo(group);
 
         if (m.name) {
-            marker.bindTooltip(m.name, {sticky: true});
+            marker.bindTooltip(m.name, {direction: 'top', offset: [0, -14]});
         }
         if (m.url) {
             marker.on('click', function(e) {
                 L.DomEvent.stopPropagation(e);
                 window.location.href = m.url;
             });
-            marker.setStyle({cursor: 'pointer'});
         }
     });
 

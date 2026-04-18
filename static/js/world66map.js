@@ -232,7 +232,7 @@ function _addSplitTiles(map) {
 function initLocationMap(elementId, markers, options) {
     options = options || {};
     const map = L.map(elementId, {
-        zoomControl: false,
+        zoomControl: true,
         attributionControl: false,
         scrollWheelZoom: false,
     });

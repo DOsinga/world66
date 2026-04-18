@@ -503,9 +503,9 @@ img { max-width: 100%; height: auto; }
 
 #content {
   display: grid;
-  grid-template-columns: 1fr 260px;
+  grid-template-columns: 1fr 420px;
   grid-template-areas: "main sidebar";
-  gap: 48px;
+  gap: 56px;
   align-items: start;
   padding: 48px 40px 80px;
   min-height: 500px;
@@ -625,7 +625,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .sidebar-map-canvas {
-  height: 260px;
+  height: 420px;
   background: var(--paper-3);
 }
 
@@ -875,15 +875,20 @@ img { max-width: 100%; height: auto; }
   color: var(--red);
 }
 
+/* Wide blocks — full #page width with same horizontal padding as #content */
+.wide-block {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
 /* Section cards — 3-column typographic grid for location pages */
 .sections-row {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1px;
-  margin-top: 40px;
-  border: 1px solid var(--line);
-  border-radius: 4px;
-  overflow: hidden;
+  margin-top: 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
   background: var(--line);
 }
 
@@ -891,11 +896,11 @@ img { max-width: 100%; height: auto; }
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 20px 22px 18px;
+  padding: 28px 28px 24px;
   background: var(--paper);
   text-decoration: none;
   transition: background 0.15s;
-  min-height: 96px;
+  min-height: 160px;
 }
 
 .section-card:hover {
@@ -909,35 +914,36 @@ img { max-width: 100%; height: auto; }
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.18em;
-  color: var(--mute);
-  margin-bottom: 10px;
+  color: var(--accent);
+  margin-bottom: 12px;
 }
 
 .section-card-name {
   font-family: var(--display-font);
   font-weight: 400;
   font-variation-settings: "opsz" 144;
-  font-size: 18px;
-  line-height: 1.1;
-  letter-spacing: -0.02em;
+  font-size: clamp(22px, 2.4vw, 34px);
+  line-height: 1.0;
+  letter-spacing: -0.03em;
   color: var(--ink);
 }
 
 .section-card-arrow {
   display: block;
-  font-size: 16px;
+  font-size: 20px;
   color: var(--accent);
-  margin-top: 14px;
+  margin-top: 20px;
   transition: transform 0.15s;
 }
 
 .section-card:hover .section-card-arrow {
-  transform: translateX(4px);
+  transform: translateX(5px);
 }
 
-/* Neighbourhoods cards — shown inline under the article body */
+/* Neighbourhoods cards — full-width block below content grid */
 .neighbourhoods-section {
-  margin-top: 48px;
+  padding-top: 48px;
+  padding-bottom: 48px;
 }
 
 .nbhd-heading {

@@ -1,6 +1,9 @@
 ---
 title: Royal Mausoleum of Mauretania
 type: poi
+image: royal_mausoleum_of_mauretania.jpg
+image_attribution: Douwe Osinga
+image_license: Public Domain
 latitude: 36.5751
 longitude: 2.5528
 tags:

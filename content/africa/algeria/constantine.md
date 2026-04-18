@@ -6,6 +6,9 @@ longitude: 6.608428
 title: Constantine
 type: location
 score: 0.42
+image: constantine.jpg
+image_attribution: Douwe Osinga
+image_license: Public Domain
 ---
 
 Constantine is one of the major cities of eastern [Algeria](/africa/algeria), not far from the Tunisian border. The setting is extraordinary: a deep gorge carved by the Rhumel River protects the old city on almost all sides, giving it a dramatic, nearly impregnable position.

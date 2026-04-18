@@ -101,8 +101,8 @@ img { max-width: 100%; height: auto; }
   position: relative;
   border-radius: 4px;
   overflow: hidden;
-  aspect-ratio: 16 / 9;
-  max-height: 75vh;
+  width: 100%;
+  height: min(675px, 75vh);
   background: var(--paper-3);
   box-shadow: 0 1px 0 var(--line);
 }
@@ -1166,8 +1166,7 @@ img { max-width: 100%; height: auto; }
   }
 
   .hero-card {
-    aspect-ratio: 4 / 3;
-    max-height: none;
+    height: 60vw;
   }
 
   #content {

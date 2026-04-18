@@ -114,12 +114,7 @@ img { max-width: 100%; height: auto; }
   display: block;
 }
 
-/* Re-enable pointer events on hero interactive elements */
-.hero-toggle-bar,
-.hero-expand-btn,
-.hero-attribution { pointer-events: auto; }
-
-/* Attribution link bottom-left */
+/* Attribution link — bottom-left of hero card */
 .hero-attribution {
   position: absolute;
   bottom: 10px;
@@ -136,38 +131,7 @@ img { max-width: 100%; height: auto; }
 }
 .hero-attribution:hover { opacity: 1; color: #fff; text-decoration: none; }
 
-/* Photo / Map toggle bar — sits below the hero card */
-.hero-toggle-bar {
-  display: flex;
-  gap: 0;
-  justify-content: flex-end;
-  margin-top: 10px;
-}
-
-.hero-toggle-btn {
-  background: var(--paper);
-  color: var(--mute);
-  border: 1px solid var(--line-2);
-  padding: 5px 14px;
-  font-size: 11px;
-  font-family: var(--label-font);
-  letter-spacing: 0.04em;
-  cursor: pointer;
-  transition: background 0.15s;
-}
-
-.hero-toggle-btn:first-child { border-radius: 999px 0 0 999px; }
-.hero-toggle-btn:last-child  { border-radius: 0 999px 999px 0; border-left: none; }
-
-.hero-toggle-btn:hover { color: var(--ink); }
-
-.hero-toggle-btn.hero-toggle-active {
-  background: var(--ink);
-  color: var(--paper);
-  border-color: var(--ink);
-}
-
-/* Title block — sits at the bottom inside .hero-card */
+/* Title block — sits at the bottom-left inside .hero-card */
 .hero-title-block {
   position: absolute;
   bottom: 28px;
@@ -177,20 +141,7 @@ img { max-width: 100%; height: auto; }
   pointer-events: none;
 }
 
-/* Gradient veil — darkens bottom of hero for legibility */
-.hero-veil {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to bottom,
-    transparent 40%,
-    rgba(0,0,0,0.15) 65%,
-    rgba(0,0,0,0.55) 100%
-  );
-  pointer-events: none;
-  z-index: 5;
-}
-
-/* Destination name — inside .hero-title-block */
+/* Destination name — white over photo, dark over map */
 .hero-title {
   font-family: var(--display-font);
   font-weight: 400;
@@ -200,6 +151,11 @@ img { max-width: 100%; height: auto; }
   letter-spacing: -0.03em;
   color: #fff;
   text-shadow: 0 2px 20px rgba(0,0,0,0.35);
+}
+
+.hero-title-block--dark .hero-title {
+  color: var(--ink);
+  text-shadow: none;
 }
 
 /* ==========================================================================

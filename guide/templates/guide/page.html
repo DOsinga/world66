@@ -112,9 +112,8 @@
 {% if is_continent or hero_image_url or markers_json != "[]" or lat and lng %}
 <div id="hero" class="hero">
   {% if hero_image_url %}
-  <div class="hero-card" id="hero-photo-card">
+  <div class="hero-card">
     <img src="{{ hero_image_url }}" alt="{{ page.title }}">
-    <div class="hero-veil"></div>
     {% if hero_image_source %}
     <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
     {% endif %}
@@ -122,23 +121,10 @@
       <div class="hero-title">{{ page.title }}</div>
     </div>
   </div>
-  {% if markers_json != "[]" or lat and lng %}
-  <div class="hero-card hero-card-map" id="hero-map-card" style="display:none">
-    <div id="background-map" style="position:absolute;inset:0;width:100%;height:100%"></div>
-    <div class="hero-title-block">
-      <div class="hero-title">{{ page.title }}</div>
-    </div>
-  </div>
-  <div class="hero-toggle-bar">
-    <button class="hero-toggle-btn hero-toggle-active" id="hero-btn-photo">Photo</button>
-    <button class="hero-toggle-btn" id="hero-btn-map">Map</button>
-  </div>
-  {% endif %}
   {% else %}
   <div class="hero-card hero-card-map">
     <div id="background-map" style="position:absolute;inset:0;width:100%;height:100%"></div>
-    <div class="hero-veil"></div>
-    <div class="hero-title-block">
+    <div class="hero-title-block hero-title-block--dark">
       <div class="hero-title">{{ page.title }}</div>
     </div>
   </div>
@@ -305,55 +291,14 @@
 {% endif %}
 <script>
 (function() {
-  {% if not is_continent %}
-  var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
-  {% endif %}
-  var bgMap = null;
-  var bgInited = false;
-
-  function initBgMap() {
-    if (bgInited) return;
-    var bgMapEl = document.getElementById('background-map');
-    if (!bgMapEl) return;
-    void bgMapEl.offsetHeight;
-    {% if is_continent %}
-    bgMap = initCountryMap('background-map', '{{ continent_slug|escapejs }}');
-    {% else %}
-    if (markers.length) bgMap = initLocationMap('background-map', markers, mapOptions);
-    {% endif %}
-    bgInited = true;
-  }
-
-  {% if hero_image_url %}
-  {% if markers_json != "[]" or lat and lng %}
-  // Photo/Map toggle
-  var heroBtnPhoto = document.getElementById('hero-btn-photo');
-  var heroBtnMap   = document.getElementById('hero-btn-map');
-  var photoCard    = document.getElementById('hero-photo-card');
-  var mapCard      = document.getElementById('hero-map-card');
-
-  function setMapMode() {
-    if (photoCard) photoCard.style.display = 'none';
-    if (mapCard)   mapCard.style.display = '';
-    if (heroBtnMap)   heroBtnMap.classList.add('hero-toggle-active');
-    if (heroBtnPhoto) heroBtnPhoto.classList.remove('hero-toggle-active');
-    if (!bgInited) { initBgMap(); } else if (bgMap) { bgMap.invalidateSize(); }
-  }
-
-  function setPhotoMode() {
-    if (mapCard)   mapCard.style.display = 'none';
-    if (photoCard) photoCard.style.display = '';
-    if (heroBtnPhoto) heroBtnPhoto.classList.add('hero-toggle-active');
-    if (heroBtnMap)   heroBtnMap.classList.remove('hero-toggle-active');
-  }
-
-  if (heroBtnMap)   heroBtnMap.addEventListener('click', setMapMode);
-  if (heroBtnPhoto) heroBtnPhoto.addEventListener('click', setPhotoMode);
-  {% endif %}
+  var bgMapEl = document.getElementById('background-map');
+  if (!bgMapEl) return;
+  void bgMapEl.offsetHeight;
+  {% if is_continent %}
+  initCountryMap('background-map', '{{ continent_slug|escapejs }}');
   {% else %}
-  // No photo — init map immediately
-  initBgMap();
+  var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  if (markers.length) initLocationMap('background-map', markers, {isPoi: {{ is_poi|yesno:"true,false" }}});
   {% endif %}
 })();
 </script>

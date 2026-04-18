@@ -1,9 +1,9 @@
 /* World66 Map — Leaflet-based maps for the travel guide */
 
-const W66_RED = '#CC0000';
-const W66_RED_HOVER = '#FF2222';
-const W66_FILL = '#E8D0D0';
-const W66_FILL_HOVER = '#F5E0E0';
+const W66_RED = '#b8532b';
+const W66_RED_HOVER = '#c96035';
+const W66_FILL = '#e8c4b0';
+const W66_FILL_HOVER = '#f0d4c0';
 
 /* ---- Home page: clickable continent map ---- */
 

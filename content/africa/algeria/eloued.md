@@ -16,4 +16,4 @@ El Oued is known as the City of a Thousand Domes — and when you see it from ab
 
 The town sits in the Grand Erg Oriental, the vast sand sea of eastern Algeria, and its economy runs on dates — the Souf valley's ingenious ghout farming system sinks gardens into craters dug down to the water table, allowing date palms to grow in the middle of the desert. You can see these sunken gardens around the outskirts of town. The central market is lively and colourful, with dates, spices, and desert roses (natural gypsum crystal formations found in the surrounding sand).
 
-El Oued is reached by road from [Biskra](/africa/algeria/biskra) or Touggourt, or by air from Algiers. The town is hot — summer temperatures regularly exceed 45°C — so visit between November and March if you can. The Thursday market is the biggest of the week.
+El Oued is reached by road from [Biskra](/africa/algeria/biskra) or [Touggourt](/africa/algeria/touggourt), or by air from [Algiers](/africa/algeria/algiers). The town is hot — summer temperatures regularly exceed 45°C — so visit between November and March if you can. The Thursday market is the biggest of the week.

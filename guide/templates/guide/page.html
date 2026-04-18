@@ -88,7 +88,7 @@
       {% endfor %}
     </ul>
   </div>
-  {% elif pois %}
+  {% elif pois and page.page_type != "location" %}
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
       <span class="box-accent"></span>
@@ -134,7 +134,7 @@
 
 {% block body_style %}
 {% if hero_image_url %}<style>
-body{background-image:url('{{ hero_image_url }}');background-size:cover;background-position:center top;}
+body{background-image:url('{{ hero_image_url }}');background-attachment:fixed;background-repeat:no-repeat;background-size:cover;background-position:center center;}
 </style>{% endif %}
 {% endblock %}
 
@@ -262,6 +262,55 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 
 {% block extra_js %}
 <script>
+{% if hero_image_url %}
+var applyBgParallax = (function() {
+  var baseY = 0;   // px: negative = image shifted up (viewport sees lower part)
+  var minY = 0;    // most negative allowed (image bottom at viewport bottom)
+  var ready = false;
+  var FACTOR = 0.12; // parallax speed — small to avoid ever showing a grey bar
+
+  function apply() {
+    if (!ready) return;
+    // Scroll down → y goes more negative → image shifts up → we see lower area.
+    // Clamp so image always covers the viewport (no grey bars).
+    var y = Math.max(minY, Math.min(0, baseY - window.scrollY * FACTOR));
+    document.body.style.backgroundPositionY = y + 'px';
+  }
+
+  var img = new Image();
+  img.onload = function() {
+    var vw = window.innerWidth, vh = window.innerHeight;
+    var imageAR = img.naturalWidth / img.naturalHeight;
+    var viewportAR = vw / vh;
+    var imgH;
+
+    if (imageAR > viewportAR * 1.2) {
+      // Wide panoramic: force 150% height so there is vertical room to crop sky.
+      document.body.style.backgroundSize = 'auto 150%';
+      imgH = vh * 1.50;
+    } else if (imageAR < viewportAR * 0.85) {
+      // Portrait: cover scales by width, already has vertical room.
+      document.body.style.backgroundSize = 'cover';
+      imgH = vw / imageAR;
+    } else {
+      document.body.style.backgroundSize = 'cover';
+      imgH = Math.max(vh, vw / imageAR);
+    }
+
+    var overflow = imgH - vh;          // total px we can shift
+    minY = -overflow;                  // hard floor: image bottom = viewport bottom
+    // Start 65% into the available range (skips sky for panoramics).
+    baseY = -(overflow * 0.65);
+
+    document.body.style.backgroundPositionX = 'center';
+    ready = true;
+    apply();
+    window.addEventListener('scroll', apply, {passive: true});
+  };
+  img.src = '{{ hero_image_url }}';
+  return apply;
+})();
+{% endif %}
 (function() {
   var hero = document.getElementById('hero');
   var heroExpandBtn = document.getElementById('hero-expand-btn');
@@ -306,6 +355,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     document.body.style.backgroundImage = '';
     if (heroBtnPhoto) heroBtnPhoto.classList.add('hero-toggle-active');
     if (heroBtnMap)   heroBtnMap.classList.remove('hero-toggle-active');
+    if (typeof applyBgParallax === 'function') applyBgParallax();
   }
 
   if (heroBtnMap)   heroBtnMap.addEventListener('click', setMapMode);

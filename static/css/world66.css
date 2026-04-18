@@ -92,7 +92,7 @@ img { max-width: 100%; height: auto; }
    ========================================================================== */
 
 .hero {
-  padding: 28px 40px 0;
+  padding-top: 28px;
   position: relative;
 }
 
@@ -102,7 +102,7 @@ img { max-width: 100%; height: auto; }
   border-radius: 4px;
   overflow: hidden;
   aspect-ratio: 16 / 9;
-  max-height: 65vh;
+  max-height: 75vh;
   background: var(--paper-3);
   box-shadow: 0 1px 0 var(--line);
 }
@@ -919,36 +919,64 @@ img { max-width: 100%; height: auto; }
   color: var(--red);
 }
 
-/* Section cards — text-only row for location page sections */
+/* Section cards — 3-column typographic grid for location pages */
 .sections-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 32px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  margin-top: 40px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--line);
 }
 
 .section-card {
-  display: block;
-  padding: 12px 18px;
-  background: var(--paper-2);
-  border: 1px solid var(--line);
-  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px 22px 18px;
+  background: var(--paper);
   text-decoration: none;
-  transition: background 0.15s, border-color 0.15s;
+  transition: background 0.15s;
+  min-height: 96px;
 }
 
 .section-card:hover {
-  background: var(--paper-3);
-  border-color: var(--line-2);
+  background: var(--paper-2);
   text-decoration: none;
+}
+
+.section-card-idx {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--mute);
+  margin-bottom: 10px;
 }
 
 .section-card-name {
   font-family: var(--display-font);
   font-weight: 400;
-  font-size: 15px;
+  font-variation-settings: "opsz" 144;
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
   color: var(--ink);
-  letter-spacing: -0.01em;
+}
+
+.section-card-arrow {
+  display: block;
+  font-size: 16px;
+  color: var(--accent);
+  margin-top: 14px;
+  transition: transform 0.15s;
+}
+
+.section-card:hover .section-card-arrow {
+  transform: translateX(4px);
 }
 
 /* Neighbourhoods cards — shown inline under the article body */
@@ -1178,7 +1206,7 @@ img { max-width: 100%; height: auto; }
 
 @media (max-width: 768px) {
   .hero {
-    padding: 16px 20px 0;
+    padding-top: 16px;
   }
 
   .hero-card {

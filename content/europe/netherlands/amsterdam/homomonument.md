@@ -1,0 +1,19 @@
+---
+title: Homomonument
+type: poi
+latitude: 52.3733
+longitude: 4.8840
+tags:
+- things_to_do
+- sight
+- jordaan
+story: >
+  Unveiled in 1987, it was the first monument in the world to commemorate gay men
+  and lesbians who were persecuted for their sexuality. The pink triangle, originally
+  forced on gay prisoners in Nazi concentration camps, was reclaimed as a symbol of
+  pride and remembrance.
+---
+
+Three large pink granite triangles set into the ground at the Westermarkt, next to the Westerkerk. Together they form a larger triangle — one corner points toward the Anne Frank House, one toward the National War Memorial on Dam Square, and one toward the COC, the Dutch LGBT rights organisation. Each triangle carries a different meaning: past persecution, present struggle, and hope for the future.
+
+The monument is easily missed if you don't know to look for it — it is flush with the ground and blends into the square. It serves as a gathering point during Pride and on Remembrance Day (4 May). Flowers are often laid at the corner nearest the Westerkerk.

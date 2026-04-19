@@ -1,6 +1,7 @@
 ---
 latitude: 37.7878
 longitude: -122.4907
+snippet: Secluded Gold Rush-era cove beach tucked into the Seacliff bluffs
 tags:
 - beaches
 - beach

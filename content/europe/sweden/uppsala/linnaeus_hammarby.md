@@ -1,6 +1,7 @@
 ---
 latitude: 59.8282
 longitude: 17.792
+snippet: "Linnaeus's preserved summer estate with open-air lecture theatre"
 tags:
 - things_to_do
 - museum

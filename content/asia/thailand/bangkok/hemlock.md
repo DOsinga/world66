@@ -2,6 +2,7 @@
 address: 56 Phra Athit Rd
 latitude: 13.7619
 longitude: 100.4935
+snippet: Cheap, excellent Thai food near Khao San run by ex-students
 tags:
 - eating_out
 - restaurant

@@ -4,6 +4,7 @@ admission: €8 full, €2 reduced
 latitude: 43.7704
 longitude: 11.258
 opening_hours: Daily 08:15–13:50; hours vary seasonally — check ahead
+snippet: "Essential sculpture museum with Donatello and Michelangelo masterworks"
 tags:
 - 24 Hours in Florence
 - things_to_do

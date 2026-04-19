@@ -1,6 +1,7 @@
 ---
 latitude: -6.8147
 longitude: 39.2878
+snippet: Colonial-era gardens beside the National Museum, city centre refuge
 tags:
 - things_to_do
 - landmark

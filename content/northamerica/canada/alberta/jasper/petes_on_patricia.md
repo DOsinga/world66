@@ -1,6 +1,7 @@
 ---
 latitude: 52.8758
 longitude: -118.0797
+snippet: Lively Jasper bar with DJs and mountain sports on the screens
 tags:
 - bars_and_cafes
 title: Pete's on Patricia

@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  poi_cleanup: '2026-04-19'
+image: camiguinisland.jpg
+image_attribution: Obsidian Soul
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Camiguin_Island,_as_seen_from_Macajalar_Bay.jpg
 latitude: 9.18
 longitude: 124.72
 score: 0.63
 title: Camiguin Island
 type: location
-image: camiguinisland.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Camiguin_Island,_as_seen_from_Macajalar_Bay.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Obsidian Soul
 ---
 
 Camiguin is a small volcanic island off the northern coast of Mindanao, covering barely 240 square kilometres, with more volcanoes per square kilometre than almost any other island on earth — seven in total, four of them active. It sits in the Bohol Sea, reached by a short ferry from the Mindanao mainland, and has remained quiet enough to feel genuinely off the beaten track even as it accumulated a reputation among divers and travellers looking for something beyond the Philippines' more famous beach destinations.

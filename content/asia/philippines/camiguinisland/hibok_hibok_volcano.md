@@ -1,6 +1,7 @@
 ---
 latitude: 9.2028
 longitude: 124.6733
+snippet: "Demanding two-day volcano trek with crater rim camping"
 tags:
 - things_to_do
 - landmark

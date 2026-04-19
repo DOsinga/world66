@@ -1,6 +1,7 @@
 ---
 latitude: 48.4225
 longitude: -123.3697
+snippet: Waterfront heart of the city with Parliament, Empress, and seaplanes
 tags:
 - things_to_do
 - neighbourhood

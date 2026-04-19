@@ -1,6 +1,9 @@
 ---
 address: Calle Trocadero, between Calles Zulueta and Monserrate
+latitude: 23.1381
+longitude: -82.3584
 phone: 7/861-3856
+snippet: "Cuba's premier art museum with European and Latin American collections"
 tags:
 - things_to_do
 - museum
@@ -9,21 +12,6 @@ type: poi
 url: www.museonacional.cult.cu
 ---
 
-One of the largest collections of visual arts in Cuba. Highlights among the exhibition rooms include the Cuban painting and engraving section, displaying works dating from the 16th to the 20th century. Another section is dedicated to European art, with original pieces by such masters as Rubens, Murillo and Goya, to name but a few. One of the most significant collections of Egyptian, Greek and Roman art in Latin America is also housed here.
+One of the largest art collections in the Caribbean, split across two buildings. The Cuban Art building on Trocadero holds paintings and engravings from the 16th century onward, tracing the island's artistic development from colonial-era portraits through to bold contemporary work. The Universal Art building, housed in the former Centro Asturiano on the Parque Central, covers European masters -- Rubens, Murillo, Goya -- alongside one of Latin America's most significant collections of Egyptian, Greek, and Roman antiquities.
 
-The building itself has been completely renovated and transformed, both within and without. The display rooms were re-opened to the public to coincide with Havana's Biennial Celebration.
-
-Admission $3 per person
-
-**Contributors**
-December 19, 2004
-
-
-
-
-
-url: [www.museonacional.cult.cu](http://www.museonacional.cult.cu)
-
-address: Calle Trocadero, between Calles Zulueta and Monserrate
-
-tel: 7/861-3856
+Both buildings have been thoroughly renovated and the display spaces are well laid out. Allow at least a couple of hours if you want to see both. Admission is around $5 CUC per building.

@@ -1,6 +1,7 @@
 ---
 latitude: 40.8026
 longitude: -124.1645
+snippet: "Extravagant 1886 Victorian with 18 varieties of wood"
 tags:
 - things_to_do
 - architecture

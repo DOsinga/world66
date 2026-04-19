@@ -3,6 +3,7 @@ address: 500 Commonwealth Avenue
 latitude: 42.3494
 longitude: -71.0952
 phone: 617-532-5300
+snippet: Seafood restaurant known for excellent clam chowder
 tags:
 - eating_out
 - restaurant

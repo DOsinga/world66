@@ -1,10 +1,12 @@
 ---
-address: "Jl. M.H. Thamrin No.28-30"
+address: Jl. M.H. Thamrin No.28-30
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -6.1941
 longitude: 106.8227
+snippet: Upscale Jakarta mall with late-night weekend entertainment
 tags:
 - shopping
-snippet: "Upscale Jakarta mall with late-night weekend entertainment"
 title: EX Plaza Indonesia
 type: poi
 ---

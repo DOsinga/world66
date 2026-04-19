@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.2775
 longitude: 114.1731
+snippet: Gritty, gentrifying neighbourhood where old and new Hong Kong collide
 tags:
 - hongkongisland
 - things_to_do

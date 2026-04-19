@@ -2,9 +2,11 @@
 address: Via Garibaldi 18
 latitude: 44.411512
 longitude: 8.9329
+snippet: Van Dyck portraits and frescoed ceilings in a grand palazzo
 tags:
 - things_to_do
 - museum
+- art
 tel: +39 010 2476368
 title: Palazzo Rosso
 type: poi

@@ -2,6 +2,7 @@
 address: Dohany utca 5
 latitude: 47.4958
 longitude: 19.0615
+snippet: Upscale Italian dining with kitsch Venetian decor
 tags:
 - eating_out
 - restaurant

@@ -1,13 +1,13 @@
 ---
 latitude: 34.622036
 longitude: 33.005968
+snippet: "Unspoilt four-mile beach named after a commander's horse"
 tags:
 - beaches
 title: Lady's Mile
 type: poi
 ---
 
-Lady's Mile beach is situated west of Limassol town, between the New Port and Akrotiri RAF base. The beach was named after the horse (Lady) of a previous RAF base commander who would exercise Lady on the sands. The beach has virtually no development, just a few wood construction restaurants spaced out along its 3- 4 mile length. The port end of the beach is mostly pebbles and the water becomes deep very quickly, but as you get nearer the RAF base the sand becomes whiter and the incline very shallow. There are no buses so you need a car to get there, but its a mostly unspoilt beach, very popular with the locals (specially at weekends and holidays).
+A long, mostly undeveloped beach stretching about four miles west of Limassol, between the New Port and the Akrotiri RAF base. The name comes from Lady, the horse of a former base commander who used to exercise her on these sands.
 
-**Contributors**
-June 15, 2006
+Development is minimal — just a handful of wooden beach restaurants spaced along its length. The port end is pebbly with deep water close to shore, but as you walk toward the RAF base the sand turns whiter and the water becomes beautifully shallow. You will need a car to get here as there is no bus service. Popular with locals on weekends and holidays, but the sheer length of the beach means there is always room to spread out.

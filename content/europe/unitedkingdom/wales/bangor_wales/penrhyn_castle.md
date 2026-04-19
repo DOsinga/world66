@@ -1,6 +1,8 @@
 ---
+address: Llandygai, Bangor, Gwynedd LL57 4HN
 latitude: 53.2287
 longitude: -4.0905
+snippet: Grandiose Victorian mock-Norman castle with stunning grounds
 tags:
 - things_to_do
 - castle

@@ -3,6 +3,7 @@ address: Kortegracht 11
 latitude: 52.1547
 longitude: 5.3904
 phone: 033-4620180
+snippet: Mondrian's birthplace, tracing his path to abstract art
 tags:
 - things_to_do
 - museum

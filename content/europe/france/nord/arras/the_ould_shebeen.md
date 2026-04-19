@@ -1,6 +1,8 @@
 ---
+address: Boulevard Faidherbe, Arras
 latitude: 50.2919
 longitude: 2.7749
+snippet: Irish pub popular with battlefield visitors near the Grand'Place
 tags:
 - bars_and_cafes
 - bar

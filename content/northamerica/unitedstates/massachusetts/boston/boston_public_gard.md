@@ -3,6 +3,7 @@ address: Arlington St.
 latitude: 42.3541
 longitude: -71.0705
 phone: 617-522-1966
+snippet: Victorian garden with Swan Boats and grand statuary
 tags:
 - things_to_do
 - park

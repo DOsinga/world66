@@ -1,6 +1,8 @@
 ---
+address: Lintong District, Xi'an
 latitude: 34.3845
 longitude: 109.2734
+snippet: Over 8,000 life-size clay soldiers guarding the first Qin emperor
 tags:
 - things_to_do
 - museum

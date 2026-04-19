@@ -2,6 +2,7 @@
 address: 393 Old Commercial Road
 latitude: 50.8067
 longitude: -1.0867
+snippet: Modest Georgian house where Dickens was born in 1812
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,7 @@
 ---
 latitude: 27.7333
 longitude: 34.25
+snippet: World-class diving and snorkelling at Sinai's southern tip
 tags:
 - things_to_do
 - sight

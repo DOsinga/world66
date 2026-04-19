@@ -1,8 +1,11 @@
 ---
 latitude: 34.6633
 longitude: 112.418
+snippet: Peony Festival epicentre with 1,500 years of flower history
 tags:
 - things_to_do
+- park
+- garden
 title: Wangcheng Park
 type: poi
 ---

@@ -1,6 +1,8 @@
 ---
+address: 201 Banff Avenue, Banff
 latitude: 51.1761
 longitude: -115.5698
+snippet: Live country music and line dancing on Banff Avenue
 tags:
 - bars_and_cafes
 - bar

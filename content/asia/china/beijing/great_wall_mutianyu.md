@@ -1,6 +1,7 @@
 ---
 latitude: 40.4319
 longitude: 116.5681
+snippet: Restored Great Wall section with cable car and toboggan ride
 tags:
 - things_to_do
 - landmark

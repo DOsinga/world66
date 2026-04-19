@@ -1,9 +1,11 @@
 ---
 latitude: 33.9545
 longitude: 130.9424
+snippet: World's largest fugu exhibit in Kanmon Strait marine museum
 tags:
 - things_to_do
-- landmark
+- museum
+- aquarium
 title: Kaikyo-kan Aquarium
 type: poi
 ---

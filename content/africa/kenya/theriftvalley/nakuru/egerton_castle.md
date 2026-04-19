@@ -1,6 +1,7 @@
 ---
 latitude: -0.3667
 longitude: 35.9333
+snippet: Reclusive nobleman's 52-room mansion turned museum near Njoro
 tags:
 - day_trips
 title: Egerton Castle

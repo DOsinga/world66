@@ -2,6 +2,7 @@
 address: Po Lin Monastery, Ngong Ping, Lantau Island
 latitude: 22.254
 longitude: 113.905
+snippet: Massive bronze Buddha atop 268 steps on Lantau Island
 tags:
 - things_to_do
 title: Tian Tan Buddha (Big Buddha)

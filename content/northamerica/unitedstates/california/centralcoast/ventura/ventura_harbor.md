@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.2427
 longitude: -119.2645
+snippet: Working harbor and gateway to Channel Islands National Park
 tags:
 - things_to_do
 - sight

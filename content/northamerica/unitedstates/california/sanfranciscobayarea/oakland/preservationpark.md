@@ -2,7 +2,6 @@
 address: 1233 Preservation Park Way, Oakland, CA 94612
 latitude: 37.8058
 longitude: -122.2745
-snippet: Cluster of meticulously restored Victorian houses near downtown Oakland
 tags:
 - things_to_do
 - architecture

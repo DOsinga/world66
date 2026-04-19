@@ -1,7 +1,10 @@
 ---
 admission: Free
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.4356
 longitude: 12.3233
+snippet: Venice's liveliest square, best at sunset with a Spritz
 tags:
 - things_to_do
 - market

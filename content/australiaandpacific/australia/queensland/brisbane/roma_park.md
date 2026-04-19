@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -27.464981
 longitude: 153.018353
+snippet: Free subtropical garden with fern gully walk near city centre
 tags:
 - things_to_do
 - landmark

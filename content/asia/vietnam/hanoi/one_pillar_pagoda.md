@@ -2,9 +2,11 @@
 address: Chua Mot Cot, Ba Dinh
 latitude: 21.0359
 longitude: 105.8337
+snippet: "Tiny pagoda on a single pillar above a lotus pond"
 tags:
 - things_to_do
 - landmark
+- story
 title: One Pillar Pagoda
 type: poi
 ---

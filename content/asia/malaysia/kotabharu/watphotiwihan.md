@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 6.1302
 longitude: 102.1376
+snippet: Thai temple with massive reclining Buddha statue
 tags:
 - things_to_do
 - landmark

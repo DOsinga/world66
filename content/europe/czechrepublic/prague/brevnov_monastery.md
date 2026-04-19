@@ -1,5 +1,7 @@
 ---
 address: Markétská 28/1, Prague 6
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.0838
 longitude: 14.359
 snippet: Bohemia's oldest monastery with its own brewery since 993

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 14.3545
 longitude: 100.5617
+snippet: Photogenic 14th-century temple ruin with stucco garudas
 tags:
 - things_to_do
 - landmark

@@ -1,5 +1,7 @@
 ---
 address: 3-16-6 Higashi, Shibuya-ku (Ebisu)
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.6614
 longitude: 139.7072
 snippet: Ebisu's best live venue for electronic and rock acts

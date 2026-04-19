@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
 image: vilnius.jpg
 image_attribution: F H Mira on Flickr
 image_license: CC BY-SA 2.0

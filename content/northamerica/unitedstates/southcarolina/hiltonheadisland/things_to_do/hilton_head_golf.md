@@ -1,22 +1,13 @@
 ---
-title: "Hilton Head Golf"
-type: poi
-address: "14 New Orleans Rd"
-email: "info@golf-hilton-head-island.com"
-phone: "843.671.4700"
-type: "Golf"
-url: "www.golf-hilton-head-island.com"
 latitude: 32.157781
 longitude: -80.754368
+snippet: Top-tier courses winding through oaks, marshes, and oceanfront dunes
+tags:
+- things_to_do
+title: Hilton Head Golf
+type: poi
 ---
 
-Hilton Head Island is one of the country's foremost golf destinations. Golf Digest named Hilton Head Island Number 10 on its list of the world's best golf resorts.
+Hilton Head Island has over two dozen golf courses, many designed by the likes of Jack Nicklaus, Pete Dye, and Robert Trent Jones. The island consistently ranks among the best golf destinations in the United States, and it is easy to see why: courses wind through maritime forests of live oak and Spanish moss, along tidal marshes, and out to oceanfront holes with Atlantic views.
 
-Hilton Head has never been about the number of courses it has, but about the quality of those courses. From design, to to service, Hilton Head Island’s golf community has always striven for, and reached perfection.
-
-With breath taking oceanfront courses, challenging riverside courses, golf courses that wind through the centuries old oak groves, courses along tidal marshes or pristine lakes and lagoons, and golf courses designed by PGA's mostwidely known players, Hilton Head Island is sure to provide you with a memorable golf vacation!
-
-**Contributors**
-October 27, 2005
-
-type: Golf
+Harbour Town Golf Links, home of the RGA Heritage tournament, is the most famous — its lighthouse behind the 18th green is one of golf's most recognizable finishing holes. Robert Trent Jones Course at Palmetto Dunes and the Arthur Hills course at Palmetto Hall are also standouts. Most resort courses welcome visiting players, though tee times at peak-season (March through May) should be booked well ahead.

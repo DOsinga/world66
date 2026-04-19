@@ -5,6 +5,7 @@ story: The Bauhaus was founded in Weimar in 1919, but the school was forced out 
   a right-wing regional government in 1925 and moved to Dessau, then to Berlin, where
   it was finally shut by the Nazis in 1933. The Weimar museum opened in 2019, exactly
   a century after the founding, and holds the world's oldest Bauhaus collection.
+snippet: "World's oldest Bauhaus collection in a centenary museum"
 tags:
 - things_to_do
 - museum

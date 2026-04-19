@@ -1,7 +1,10 @@
 ---
-title: 'Nalabana Island'
+title: "Nalabana Island"
 type: poi
-category: 'Sight'
+tags:
+- things_to_do
+- nature
+snippet: "Reed island bird sanctuary in the heart of Chilika Lake"
 latitude: 19.7167
 longitude: 85.3167
 ---

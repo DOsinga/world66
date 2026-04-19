@@ -4,6 +4,7 @@ admission: ~$30
 latitude: 36.1574
 longitude: -86.7779
 opening_hours: Daily 09:00–17:00
+snippet: Definitive country music museum with RCA Studio B tour included
 tags:
 - things_to_do
 - museum

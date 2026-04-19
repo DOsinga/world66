@@ -1,7 +1,9 @@
 ---
 title: "County Wine Trail"
 type: poi
-category: Sight
+snippet: Forty-plus wineries on cool-climate limestone soil
+tags:
+- things_to_do
 latitude: 43.9603
 longitude: -77.3496
 ---

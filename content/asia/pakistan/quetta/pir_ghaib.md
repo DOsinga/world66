@@ -1,6 +1,7 @@
 ---
 latitude: 29.7596
 longitude: 67.3012
+snippet: Waterfall and shrine in a steep gorge with date palms
 tags:
 - things_to_do
 - landmark

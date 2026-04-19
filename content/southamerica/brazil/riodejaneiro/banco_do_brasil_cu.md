@@ -2,6 +2,7 @@
 address: Rua Visconde de Itaborai, 78 - Centro
 latitude: -22.9
 longitude: -43.177
+snippet: Free exhibitions in a grand neoclassical Centro building
 tags:
 - things_to_do
 - church

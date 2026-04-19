@@ -1,6 +1,7 @@
 ---
 latitude: 28.3852
 longitude: -81.5639
+snippet: Four theme parks and two water parks in one massive complex
 tags:
 - things_to_do
 - landmark

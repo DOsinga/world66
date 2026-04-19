@@ -1,13 +1,14 @@
 ---
-latitude: 31.27397
-longitude: 121.478161
+latitude: 36.0573
+longitude: 120.3432
+snippet: Seaside park named after China's greatest modern writer
 tags:
 - things_to_do
+- sight
 title: Lu Xun Park
 type: poi
 ---
 
-Lying on the south of the Laiyang Lu, Lu Xun Park is the most different park near the sea. Near to the Little Qingdao in the west, next to the No.2 beach in the east, the whole park is attractively decorated with the red riff, blue wave, green pine, quiet pass and lush hill.
+A seaside park tucked between the coastline and the old German quarter, named after Lu Xun, the writer widely regarded as the father of modern Chinese literature. The park was built in 1929 and sits on a stretch of rocky shoreline with views across to Little Qingdao Island and its lighthouse.
 
-
- The park was first built in 1929 and named "Ruoyu Park'at that time. Later it was renamed twice. In 1950, the park was renamed as "Lu Xun Park" to commemorate Mr. Lu Xun, a great proletariat writer.
+The park is a pleasant place to walk, with pine-shaded paths winding between red rock formations and tidal pools. A small museum dedicated to Lu Xun sits inside the grounds. The rocky beach below is popular with locals collecting shellfish at low tide, and the views along the coast toward the No. 1 Bathing Beach are worth the stroll.

@@ -1,32 +1,11 @@
 ---
-address: Cicero, NY
-latitude: 43.175624
-longitude: -76.119368
+title: "Williams Park"
+type: poi
 tags:
 - beaches
-title: Williams Park
-type: poi
+snippet: "Small public beach on Oneida Lake in Cicero"
+latitude: 43.175624
+longitude: -76.119368
 ---
 
-Williams Park has a small beach on Oneida Lake in the town of Cicero. It's located on Lake Shore Road.
-
-**Contributors**
-July 03, 2005
-
-
-
-
-
-address: Cicero, NY
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A small public beach on the southern shore of Oneida Lake in the town of Cicero, just north of Syracuse. Williams Park is a low-key spot for swimming and picnicking in summer, popular with local families. The beach sits on Lake Shore Road with basic amenities and easy parking.

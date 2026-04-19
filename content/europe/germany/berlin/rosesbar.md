@@ -1,14 +1,14 @@
 ---
-address: Oranienstr. 187
-connections: U Kottbusser
-latitude: 52.500297
-longitude: 13.421313
-phone: +49 (0)30 - 615 65 70
+title: "Roses Bar"
+type: poi
 tags:
 - bars_and_cafes
 - kreuzberg
-title: Roses Bar
-type: poi
+snippet: "Kreuzberg's legendary kitsch-filled late-night bar"
+address: Oranienstr. 187
+phone: +49 30 61565 70
+latitude: 52.500297
+longitude: 13.421313
 ---
 
-Still the nightlife highlight for gender benders and good-humoured people who like kitsch, trash and crowds that screech on occasions -but also for the lone wolf who wants a bit of pack warmth now and again. Don't miss it! In summer you can spot it a long way off from the crowds on the pavement and in the street in front. Daily from 11pm, open end.
+A Kreuzberg institution on Oranienstrasse, Roses is the kind of place where fur-lined walls, fairy lights, and a gloriously mixed crowd create something that shouldn't work but absolutely does. It draws gender benders, night owls, and anyone who likes their nightlife with a side of kitsch and warmth. In summer you can spot it from a block away by the crowd spilling onto the pavement. Opens late, closes when it closes.

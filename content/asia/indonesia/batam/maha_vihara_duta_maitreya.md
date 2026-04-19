@@ -1,6 +1,7 @@
 ---
 latitude: 1.0925
 longitude: 104.0156
+snippet: Massive Buddhist temple with giant Laughing Buddha statue
 tags:
 - things_to_do
 - landmark

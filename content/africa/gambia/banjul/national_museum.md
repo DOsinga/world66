@@ -1,6 +1,7 @@
 ---
 latitude: 13.4538
 longitude: -16.5768
+snippet: Small museum with context on the slave trade and Gambian peoples
 tags:
 - things_to_do
 - museum

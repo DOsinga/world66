@@ -8,6 +8,7 @@ tags:
 - bar
 title: Deals
 type: poi
+snippet: "No-frills Zamalek bar popular with expats"
 ---
 
 A small, reliable bar in Zamalek popular with expats and budget-conscious locals. Nothing fancy — just good drinks at fair prices and a lively atmosphere most evenings.

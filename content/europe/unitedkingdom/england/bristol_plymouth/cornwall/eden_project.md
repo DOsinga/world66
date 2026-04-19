@@ -1,9 +1,12 @@
 ---
 latitude: 50.361285
 longitude: -4.744397
+snippet: Giant biomes built in a former clay quarry
+tags:
+- things_to_do
+- sight
 title: Eden Project
 type: poi
-category: Sight
 ---
 
 The Eden Project is one of the most striking horticultural attractions in the world. Built inside a former china clay quarry near St Austell, it opened in 2001 and has been a remarkable success. Two enormous geodesic biomes — the largest greenhouse structures ever built — house plant collections from the world's tropical and Mediterranean regions. The Rainforest Biome replicates the conditions of a rainforest at full scale, complete with waterfall; the Mediterranean Biome has plants from southern Europe, South Africa, and California.

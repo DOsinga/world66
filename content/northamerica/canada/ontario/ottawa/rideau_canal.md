@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.4244
 longitude: -75.6936
+snippet: UNESCO canal that becomes the world's largest skating rink
 tags:
 - things_to_do
 - landmark

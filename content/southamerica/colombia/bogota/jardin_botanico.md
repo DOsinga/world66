@@ -2,9 +2,10 @@
 address: Avenida Calle 63 No 68-95
 latitude: 4.6673
 longitude: -74.0993
+snippet: Thousands of orchid species and a tropical greenhouse
 tags:
 - things_to_do
-- landmark
+- nature
 title: Jardin Botanico Jose Celestino Mutis
 type: poi
 ---

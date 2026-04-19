@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.5882
 longitude: 4.7752
+snippet: Vintage beer ads and 35 beers on tap
 tags:
 - things_to_do
 - museum

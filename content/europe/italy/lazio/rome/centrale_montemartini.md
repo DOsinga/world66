@@ -4,10 +4,10 @@ admission: €7.50 full, €6.50 reduced
 latitude: 41.8665
 longitude: 12.478
 opening_hours: Tue–Sun 09:00–19:00; closed Mon
+snippet: Roman sculptures amid diesel engines in a power station
 tags:
 - things_to_do
 - museum
-- neighbourhood
 title: Centrale Montemartini
 type: poi
 url: www.centralemontemartini.org

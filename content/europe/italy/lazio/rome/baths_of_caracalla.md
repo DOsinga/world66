@@ -8,6 +8,7 @@ tags:
 - museum
 - monument
 - theatre
+snippet: "Vast 3rd-century bath ruins with summer open-air opera"
 title: Baths of Caracalla
 type: poi
 ---

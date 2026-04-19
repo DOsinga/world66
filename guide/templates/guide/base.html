@@ -12,19 +12,23 @@
   <link rel="manifest" href="{% static 'site.webmanifest' %}">
   <link rel="stylesheet" href="{% static 'css/world66.css' %}">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..400&family=Inter:wght@300;400;500;600&display=swap">
   {% block body_style %}{% endblock %}
 </head>
 <body>
 
 {% block background %}{% endblock %}
 
-<header id="header">
-  <div class="header-inner">
-    <div class="header-top">
-      <a href="/" class="logo">
-        <img src="{% static 'images/logo.gif' %}" alt="World66" class="logo-img">
-        <span class="logo-ribbon">The Travel Guide <em>You Write</em></span>
-      </a>
+<nav class="topnav">
+  <div class="topnav-inner">
+    <a href="/" class="logo">
+      <span class="logo-name">World<span class="logo-dot"></span>66</span>
+      <small>est. 1998</small>
+    </a>
+    {% block breadcrumbs %}{% endblock %}
+    <div class="nav-right">
       <div class="site-search-wrap">
         <form class="site-search" action="/search" method="get" role="search">
           <input type="search" name="q" placeholder="Search destinations&hellip;" value="{{ request.GET.q|default:'' }}" autocomplete="off" aria-label="Search destinations">
@@ -33,23 +37,12 @@
         <ul class="site-search-dropdown" id="header-search-dropdown"></ul>
       </div>
     </div>
-
-    <nav class="top-nav">
-      <ul>
-        <li><a href="/" class="{% block nav_home %}{% endblock %}"><span>W66 Home</span></a></li>
-        {% for continent, kids in continents %}
-        <li><a href="{{ continent.get_absolute_url }}"><span>{{ continent.title }}</span></a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-
-    {% block breadcrumbs %}{% endblock %}
   </div>
-</header>
-
-{% block hero %}{% endblock %}
+</nav>
 
 <div id="page">
+
+  {% block hero %}{% endblock %}
 
   <div id="content">
     {% block sidebar %}{% endblock %}
@@ -58,6 +51,8 @@
       {% block content %}{% endblock %}
     </main>
   </div>
+
+  {% block wide_content %}{% endblock %}
 
   <footer id="footer">
     <div class="footer-cc">

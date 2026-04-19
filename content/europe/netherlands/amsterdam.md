@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_,_Netherlands_-_
 latitude: 52.37308
 longitude: 4.892453
 score: 0.83
+tagline: "Seventeen canals, twelve million tulips, and the world's most visited painting."
+quote: "Amsterdam makes more sense on two wheels than on foot."
+tip: "Hire a bike on your first full day. Every neighbourhood is within 20 minutes of every other by bicycle, and the tram lanes and narrow pavements make walking feel slow and peripheral. Lock it to something immovable — theft is endemic and even expensive locks get cut."
 title: Amsterdam
 type: location
 ---

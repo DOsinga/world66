@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 16.0268
 longitude: -16.5056
+snippet: Densely packed fishing village on the Langue de Barbarie peninsula
 tags:
 - things_to_do
 - neighbourhood

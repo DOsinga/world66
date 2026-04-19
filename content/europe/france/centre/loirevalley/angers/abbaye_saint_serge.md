@@ -1,7 +1,10 @@
 ---
 address: Avenue Marie Talet
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.4799
 longitude: -0.5496
+snippet: Superb Plantagenet Gothic abbey with unique vaulting
 tags:
 - things_to_do
 - sight

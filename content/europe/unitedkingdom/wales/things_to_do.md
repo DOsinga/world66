@@ -1,11 +1,12 @@
 ---
-title: "Things to do"
-type: section
-address: "Pensychnant Conservation centre"
-email: "info@northwalesbutterflies.org.uk"
-phone: "01352 711198"
-type: "Hiking"
-url: "www.northwalesbutterflies.org.uk"
+address: Pensychnant Conservation centre
+done:
+  poi_cleanup: '2026-04-19'
+email: info@northwalesbutterflies.org.uk
+phone: 01352 711198
+title: Things to do
+type: Hiking
+url: www.northwalesbutterflies.org.uk
 ---
 
 **Eyarth Rocks Butterfly Conservation Reserve**

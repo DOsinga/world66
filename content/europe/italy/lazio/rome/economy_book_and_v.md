@@ -6,6 +6,7 @@ phone: +39 06 4746877
 tags:
 - shopping
 - shop
+snippet: "English-language bookshop near Termini for holiday reading"
 title: Economy Book and Video Center
 type: poi
 ---

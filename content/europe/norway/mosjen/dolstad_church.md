@@ -1,6 +1,7 @@
 ---
 latitude: 65.8318
 longitude: 13.187
+snippet: Oldest octagonal wooden church in northern Norway, built 1735
 story: 'The church was consecrated on 7 August 1735 by local dean Anders Dass — son
   of the celebrated Norwegian poet and priest Petter Dass. The Dass family''s connection
   to Helgeland runs deep: Petter Dass wrote much of his poetry in this corner of northern

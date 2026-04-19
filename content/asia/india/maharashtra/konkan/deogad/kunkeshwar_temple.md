@@ -1,6 +1,7 @@
 ---
 title: "Kunkeshwar Temple"
 type: poi
+snippet: "Seaside Shiva temple on a quiet coastal stretch"
 tags:
   - things_to_do
   - temple

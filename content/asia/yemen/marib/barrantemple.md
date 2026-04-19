@@ -2,6 +2,7 @@
 title: "Barran Temple (Throne of Bilqis)"
 type: poi
 tags: [things_to_do]
+snippet: "Sabaean moon temple with five standing pillars"
 latitude: 15.4030
 longitude: 45.3450
 ---

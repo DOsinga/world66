@@ -2,6 +2,7 @@
 address: 3735 Capilano Rd, North Vancouver, BC V7R 4J1
 latitude: 49.3429
 longitude: -123.1149
+snippet: Rainforest footbridge swung 70m above the Capilano River
 tags:
 - things_to_do
 - landmark

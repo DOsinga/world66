@@ -7,6 +7,7 @@ story: 'An amateur photographer entered a shot of Spirit Island into a Kodak com
   one of the most recognized landscape photographs in the world.
 
   '
+snippet: "Iconic islet on Maligne Lake, reachable only by boat"
 tags:
 - things_to_do
 - landmark

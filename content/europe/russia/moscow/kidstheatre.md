@@ -1,7 +1,14 @@
 ---
-category: Sight
-title: Kids Theatre
+address: Prospekt Vernadskogo, 5
+latitude: 55.6873
+longitude: 37.5272
+snippet: Moscow's storied children's opera and ballet theatre founded by Nataliya Sats
+title: Nataliya Sats Children's Musical Theatre
 type: poi
 ---
 
-Children's Music Theatre (prospekt Vernadskogo, 5), established by Nataliya Sats, a prominent master and stage manager, is a unique theatre having a repertoire, which offers the best samples of ballet and opera performances for children of different age and tastes, from Snow White and Seven Dwarfs to Mozart's Magic Flute.
+The Nataliya Sats Children's Musical Theatre on Prospekt Vernadskogo is one of the world's oldest and most respected theatres dedicated to young audiences. Nataliya Sats founded it in 1965 after decades of work staging productions specifically for children — she was a pioneer of the form, and the theatre still carries her name and mission.
+
+The repertoire balances accessible favorites like Snow White and the Seven Dwarfs with more ambitious works, including Mozart's The Magic Flute performed in a version designed for children. Productions use full orchestras, elaborate sets, and professional soloists, so this isn't a dumbed-down experience — it's real opera and ballet, presented in a way that makes sense for younger audiences.
+
+Worth booking ahead, especially on weekends. The building itself, built in the Soviet era, is an impressive piece of architecture with a distinctive circular shape.

@@ -1,6 +1,7 @@
 ---
 title: "Templo de Santo Domingo"
 type: poi
+snippet: "Mexico's most extravagant baroque church, with gilded interior."
 tags:
   - things_to_do
   - church

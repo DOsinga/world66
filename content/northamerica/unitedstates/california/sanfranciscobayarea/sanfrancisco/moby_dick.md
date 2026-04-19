@@ -2,6 +2,7 @@
 address: 4049 18th St
 latitude: 37.7608
 longitude: -122.4338
+snippet: Friendly Castro neighbourhood bar, lively on weekends
 tags:
 - bars_and_cafes
 - bar

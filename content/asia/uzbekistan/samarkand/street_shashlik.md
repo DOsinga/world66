@@ -1,6 +1,7 @@
 ---
 latitude: 39.656
 longitude: 66.975
+snippet: Enormous charcoal-grilled lamb skewers at Samarkand open-air grills
 tags:
 - eating_out
 title: Street Shashlik

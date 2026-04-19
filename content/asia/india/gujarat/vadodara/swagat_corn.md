@@ -2,6 +2,7 @@
 address: Jetalpur Road, Vadodara
 latitude: 22.307603
 longitude: 73.175142
+snippet: Street food stall where everything is made from corn
 tags:
 - eating_out
 title: Swagat Corn

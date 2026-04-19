@@ -1,6 +1,7 @@
 ---
 latitude: 52.4094
 longitude: -1.5134
+snippet: Largest collection of British road vehicles, plus supersonic Thrust cars
 story: 'ThrustSSC, the car parked in the museum''s record-breaking gallery, became
   the first land vehicle to officially break the sound barrier on 15 October 1997,
   reaching 763 mph (1,228 km/h) on the Black Rock Desert in Nevada. Its driver, Andy

@@ -3,6 +3,7 @@ address: 465 Mystery Spot Road, Santa Cruz, CA 95065
 latitude: 37.0173
 longitude: -122.0033
 phone: 831.423.8897
+snippet: Classic gravity-defying roadside attraction since 1939
 tags:
 - things_to_do
 - sight

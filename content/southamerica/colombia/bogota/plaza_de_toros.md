@@ -1,6 +1,7 @@
 ---
 latitude: 4.6131
 longitude: -74.0684
+snippet: Mudejar-style bullring hosting corridas and concerts in Bogota
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.2235
 longitude: 108.9598
+snippet: Tang Dynasty pagoda built in 652 AD with Asia's largest fountain show
 tags:
 - things_to_do
 - landmark

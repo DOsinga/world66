@@ -1,6 +1,7 @@
 ---
 latitude: 35.7805
 longitude: -5.812
+snippet: Classic hotel bar with celebrity photo-lined walls
 tags:
 - bars_and_cafes
 title: Caid's Bar

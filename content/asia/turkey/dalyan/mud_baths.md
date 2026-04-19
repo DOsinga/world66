@@ -1,6 +1,7 @@
 ---
 latitude: 36.7998
 longitude: 28.6432
+snippet: Thermal sulphur mud baths on Köyceğiz Lake
 tags:
 - things_to_do
 title: Sulphur Mud Baths

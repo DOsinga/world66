@@ -2,6 +2,7 @@
 address: 22 Austin Road, Tsim Sha Tsui
 latitude: 22.3005
 longitude: 114.1701
+snippet: Green oasis with flamingos amid Tsim Sha Tsui bustle
 tags:
 - kowloon
 - things_to_do

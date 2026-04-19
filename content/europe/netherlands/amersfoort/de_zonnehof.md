@@ -3,6 +3,7 @@ address: Zonnehof 8
 latitude: 52.1518
 longitude: 5.384
 phone: 033-4633034
+snippet: Rietveld-designed exhibition space, De Stijl architecture
 tags:
 - things_to_do
 - architecture

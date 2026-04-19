@@ -1,9 +1,15 @@
 ---
-category: Sight
-latitude: 55.76013
-longitude: 37.618612
+address: Teatralnaya Square 1, Moscow
+latitude: 55.7601
+longitude: 37.6186
+snippet: "Russia's most iconic stage; ballet and opera in a grand neoclassical theatre"
+tags:
+- things_to_do
+- landmark
 title: Bolshoi Theatre
 type: poi
 ---
 
-You will be inevitably attracted by the sight of the legendary columns of Bolshoi Theatre (ul. Petrovka, 1), which has, finally, lived through the long-awaited period of outer and inner changes. Currently, the oldest theatre of Russia is headed by Vladimir Vasilyev, who, together with such ballet stars as Maya Plisetskaya and Gediminas Taranda, was rejected by the former administration of Bolshoi Theatre. The operas "La Boheme" by Puccini and "Khovanshchina" by Musorgsky are now considered the best performances staged in Bolshoi. Some new ballet performances have also been staged in the theatre: "The Taming of the Shrew" and "Snow White and Seven Dwarfs" with famous Ilze Liepa dancing the Snow White.
+The Bolshoi is Russia's most famous performing arts venue and one of the great theatres of the world. The neoclassical building on Teatralnaya Square — topped by the bronze quadriga of Apollo — has staged opera and ballet since 1825. After a major restoration completed in 2011, both the main stage and the acoustics were returned to their 19th-century quality.
+
+The ballet company remains world-renowned. Tickets for prime performances sell out far in advance; book through the official website. The historic main hall seats over 2,500 and is extraordinary even if the performance is sold out — guided tours are available on non-performance mornings.

@@ -1,6 +1,7 @@
 ---
 latitude: -22.987
 longitude: -43.205
+snippet: Rio's most beautiful beach, made famous by bossa nova
 tags:
 - beaches
 - beach

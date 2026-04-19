@@ -1,7 +1,12 @@
 ---
 latitude: 45.1280
 longitude: 13.9230
-tags: [things_to_do, cave, nature]
+snippet: "\"Fairy-tale Kingdom\" cave discovered when a dog fell through a vineyard hole"
+story: true
+tags:
+- things_to_do
+- cave
+- nature
 title: Feštinsko Kraljevstvo
 type: poi
 ---

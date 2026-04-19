@@ -4,6 +4,7 @@ longitude: -66.6136
 tags:
 - things_to_do
 - museum
+snippet: "Taíno, Spanish and African instruments tracing island music history"
 title: Museum of Puerto Rican Music
 type: poi
 ---

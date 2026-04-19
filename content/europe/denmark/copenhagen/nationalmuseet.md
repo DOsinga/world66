@@ -4,6 +4,7 @@ longitude: 12.5744
 tags:
 - things_to_do
 - museum
+snippet: "10,000 years of Danish history from Stone Age to Vikings"
 title: Nationalmuseet
 type: poi
 ---

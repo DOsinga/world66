@@ -1,6 +1,7 @@
 ---
 latitude: 51.4494
 longitude: -2.6086
+snippet: Brunel's pioneering 1843 iron ship, beautifully restored
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 title: "Lydford Gorge"
 type: poi
+snippet: "Southwest England's deepest gorge with dramatic waterfalls"
 tags: [things_to_do, sight, nature]
 latitude: 50.6405
 longitude: -4.0958

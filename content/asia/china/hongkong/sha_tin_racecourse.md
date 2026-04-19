@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.3988
 longitude: 114.2042
+snippet: World-class horse racing with 85,000-capacity grandstands
 tags:
 - newterritories
 - things_to_do

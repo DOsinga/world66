@@ -1,6 +1,9 @@
 ---
 title: "Blu on the Water"
 type: poi
+snippet: "Exumas' best dinner spot with sunset water views"
+tags:
+- eating_out
 latitude: 23.4650
 longitude: -75.8100
 ---

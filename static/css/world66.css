@@ -1089,6 +1089,11 @@ img { max-width: 100%; height: auto; }
   width: 10px;
   height: 10px;
 }
+.map-dot--grey {
+  background: #aaa;
+  border-color: rgba(255,255,255,0.6);
+  box-shadow: none;
+}
 .map-label--highlight .map-dot { background: var(--accent); width: 10px; height: 10px; }
 
 /* Invisible container for standalone dot markers */

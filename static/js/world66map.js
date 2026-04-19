@@ -209,19 +209,20 @@ function initLocationMap(elementId, markers, options) {
 
     function _addDotMarker(m) {
         var highlight = !!m.highlight;
-        var dotHtml = '<i class="map-dot' + (highlight ? ' map-dot--highlight' : '') + '"></i>';
+        var dotCls = highlight ? ' map-dot--highlight' : m.name ? '' : ' map-dot--grey';
+        var dotHtml = '<i class="map-dot' + dotCls + '"></i>';
         var mk = L.marker([m.lat, m.lng], {
             icon: L.divIcon({
                 className: 'map-label',
                 html: dotHtml,
-                iconSize: [0, 0], iconAnchor: [0, 0],
+                iconSize: [16, 16], iconAnchor: [8, 8],
             }),
         });
         if (m.name) {
             mk.bindTooltip(m.name, {
                 className: 'map-name-tip',
                 direction: 'top',
-                offset: [0, -6],
+                offset: [0, -10],
                 sticky: false,
             });
         }

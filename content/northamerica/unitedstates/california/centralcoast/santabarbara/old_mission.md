@@ -1,6 +1,7 @@
 ---
 latitude: 34.4404
 longitude: -119.7139
+snippet: "Queen of the Missions" with twin towers and rose gardens
 tags:
 - things_to_do
 - landmark

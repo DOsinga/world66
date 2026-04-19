@@ -2,6 +2,7 @@
 title: "Taverna del Lupo"
 type: poi
 tags: [eating_out]
+snippet: "Gubbio's classic Umbrian restaurant in a medieval vaulted hall"
 latitude: 43.3507
 longitude: 12.5779
 address: "Via Giovanni Ansidei 6, 06024 Gubbio"

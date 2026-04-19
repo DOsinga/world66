@@ -8,8 +8,8 @@ type: location
 score: 0.35
 ---
 
-We currently have no information about Cookstown.
+Cookstown is a mid-sized town in County Tyrone, [Northern Ireland](/europe/unitedkingdom/northernireland), known for its exceptionally wide and long main street, which runs dead straight for over two kilometres and is aligned on the distant peak of Slieve Gallion. The town was laid out as a plantation settlement in the early 17th century, and that bold linear plan still defines its character.
 
-If you do know any general information about Cookstown, please [Edit this article].
+The main reason to visit the Cookstown area is the remarkable concentration of ancient sites nearby. Beaghmore Stone Circles, about 15 kilometres to the northwest, is a complex of seven stone circles, alignments, and cairns dating to the Bronze Age. The site is free to visit and rarely crowded. Ardboe High Cross, on the western shore of Lough Neagh about 10 kilometres east of town, is one of the finest early Christian crosses in Ireland, carved with biblical scenes and standing over 5 metres tall.
 
-If you know any hotels in Cookstown or restaurants in Cookstown, please [[Add].](/destinations/addItemWizard?addwhere=europe/unitedkingdom/northernireland/cookstown)
+Cookstown itself is a practical market town with good shops and a couple of decent places to eat along the main street. The Lough Neagh shoreline to the east offers walking and birdwatching, and the Sperrins, a range of rounded, empty mountains that feel genuinely remote, rise to the north and west. This is quiet, unhurried countryside, well off the usual tourist circuit.

@@ -1,6 +1,7 @@
 ---
 address: Piazza della Cattedrale 3, Trieste
 admission: €6 full, €4 reduced; courtyard only €1
+snippet: "Hilltop fortress with panoramic views over the gulf"
 latitude: 45.648576
 longitude: 13.773108
 opening_hours: Apr–Oct daily 09:00–18:00; Nov–Mar daily 10:00–17:00

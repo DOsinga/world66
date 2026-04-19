@@ -1,6 +1,7 @@
 ---
 latitude: 52.877
 longitude: -118.083
+snippet: Wood-fired pizza and rooftop patio on Connaught Drive
 tags:
 - eating_out
 title: Jasper Pizza Place

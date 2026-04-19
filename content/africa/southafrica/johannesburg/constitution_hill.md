@@ -2,6 +2,7 @@
 address: 11 Kotze Street, Braamfontein
 latitude: -26.1872
 longitude: 28.0418
+snippet: Former prison turned Constitutional Court, Johannesburg
 tags:
 - things_to_do
 title: Constitution Hill

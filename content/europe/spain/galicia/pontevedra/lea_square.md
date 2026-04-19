@@ -1,6 +1,7 @@
 ---
 latitude: 42.432156
 longitude: -8.645501
+snippet: Historic old town square ringed by three museum buildings
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 30.6633
 longitude: 104.0241
+snippet: Tang poet's retreat turned tranquil garden sanctuary
 tags:
 - things_to_do
 - landmark

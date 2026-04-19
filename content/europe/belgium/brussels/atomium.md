@@ -4,6 +4,7 @@ admission: €16 adults; combined tickets with Mini-Europe and ADAM design museu
 latitude: 50.8949
 longitude: 4.3415
 opening_hours: Daily 10:00–18:00
+snippet: Giant iron crystal from the 1958 World's Fair
 tags:
 - things_to_do
 - architecture

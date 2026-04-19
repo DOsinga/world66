@@ -1,12 +1,10 @@
 ---
 latitude: 13.865
 longitude: 100.7031
+snippet: Drive-through wildlife park and bird aviary
 tags:
 - day_trips
 - park
-- monument
-- restaurant
-- neighbourhood
 title: Safari World
 type: poi
 ---

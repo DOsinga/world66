@@ -1,7 +1,4 @@
 ---
-title: Jack Nicklaus Museum
-type: poi
-snippet: "Career memorabilia of golf's greatest major champion"
 address: 2355 Olentangy River Road
 latitude: 40.010984
 longitude: -83.022407
@@ -9,6 +6,8 @@ phone: 614-247-5959
 tags:
 - things_to_do
 - museum
+title: Jack Nicklaus Museum
+type: poi
 url: www.nicklausmuseum.org
 ---
 

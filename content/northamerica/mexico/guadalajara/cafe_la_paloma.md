@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 20.669
 longitude: -103.362
+snippet: Bohemian Colonia Americana cafe where one drink becomes three
 tags:
 - bars_and_cafes
 title: Cafe La Paloma

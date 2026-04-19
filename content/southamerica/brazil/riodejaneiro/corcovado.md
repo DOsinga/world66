@@ -3,10 +3,10 @@ address: Parque Nacional da Tijuca
 latitude: -22.960648
 longitude: -43.250593
 phone: (21) 2558-1329
+snippet: Iconic 30-metre Christ statue atop Corcovado mountain
 tags:
 - things_to_do
 - monument
-- beach
 title: Christ the Redeemer (Corcovado)
 type: poi
 ---

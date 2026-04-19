@@ -1096,6 +1096,15 @@ img { max-width: 100%; height: auto; }
 }
 .map-label--highlight .map-dot { background: var(--accent); width: 10px; height: 10px; }
 
+/* Transparent hit-area wrapper for dot-only markers */
+.map-dot-hit {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
 /* Invisible container for standalone dot markers */
 .map-dot-wrap {
   background: none !important;

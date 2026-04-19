@@ -214,8 +214,8 @@ function initLocationMap(elementId, markers, options) {
         var mk = L.marker([m.lat, m.lng], {
             icon: L.divIcon({
                 className: 'map-label',
-                html: dotHtml,
-                iconSize: [16, 16], iconAnchor: [8, 8],
+                html: '<div class="map-dot-hit">' + dotHtml + '</div>',
+                iconSize: [0, 0], iconAnchor: [0, 0],
             }),
         });
         if (m.name) {

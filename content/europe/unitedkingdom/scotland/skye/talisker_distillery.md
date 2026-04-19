@@ -1,7 +1,10 @@
 ---
 title: "Talisker Distillery"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sights
+snippet: "Skye's only distillery, famous for peaty maritime single malt"
 latitude: 57.3015
 longitude: -6.3532
 ---

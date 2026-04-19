@@ -1,8 +1,9 @@
 ---
 address: Via Rosina 2/r, 50123 Florence
-latitude: 43.776
-longitude: 11.253
+latitude: 43.7760
+longitude: 11.2530
 opening_hours: Mon–Sat 12:00–15:30; closed Sun and dinner
+snippet: No-frills communal lunch trattoria since 1953
 tags:
 - 3 Days in Florence
 - eating_out

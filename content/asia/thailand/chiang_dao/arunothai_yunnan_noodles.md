@@ -1,6 +1,7 @@
 ---
 latitude: 19.5492
 longitude: 99.0667
+snippet: Yunnanese noodles in a remote KMT village
 tags:
 - eating_out
 title: Arunothai Yunnan Noodles

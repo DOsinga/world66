@@ -1,6 +1,7 @@
 ---
-latitude: 45.071
+latitude: 45.0710
 longitude: 7.6862
+snippet: Self-guided walk through Turin's arcades to the Mole
 tags:
 - day_trips
 - walking_tour

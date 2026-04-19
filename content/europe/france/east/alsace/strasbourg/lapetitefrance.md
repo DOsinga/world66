@@ -1,6 +1,7 @@
 ---
 latitude: 48.5814
 longitude: 7.7422
+snippet: Half-timbered canal quarter with medieval towers and bridges
 tags:
 - things_to_do
 - neighbourhood

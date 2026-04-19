@@ -1,33 +1,17 @@
 ---
 address: Al Shindagha Area, facing end of Dubai Creek
-category: Sight
-opening_hours: 'Saturday - Thursday 8:30AM - 20:30PM, Friday: 15:00PM-20:30PM'
-phone: 04-3937139
+latitude: 25.2697
+longitude: 55.2923
+opening_hours: "Sat-Thu 8:30am-8:30pm, Fri 3pm-8:30pm"
+phone: "04-393-7139"
+snippet: Grand 1896 residence now housing Dubai's historical collection
+tags:
+- things_to_do
+- landmark
 title: Sheikh Saeed's House
 type: poi
 ---
 
-The
-official residence of Sheikh Saeed Al Maktoum, Ruler of Dubai
-(1912-1958) and grandfather of the present Ruler, Sheikh Mohammed bin
-Rashid Al Maktoum,The house, which dates from 1896, today houses a rare
-collection of historic photographs, coins, stamps and documents that
-record Dubai’s history.
+The official residence of Sheikh Saeed Al Maktoum, who ruled Dubai from 1912 to 1958 and was the grandfather of the current ruler. The house dates from 1896 and sits at the mouth of Dubai Creek in the Al Shindagha heritage district. It's been restored and converted into a museum with a fine collection of historic photographs, coins, stamps, and documents tracing Dubai's transformation from fishing village to global hub.
 
-Visiting Hours : Saturday to Thursday : 08:30 am -20:30 pm , on Friday: 15:00 -20:30 pm
-Visiting Hours during Ramadan: Saturday - Thursday: 09:00 am -17:00 pm, on Friday: 14:00-17:00 pm
-
-Entry Fee: Dhs2 per Adult – Dhs. 1 Per Child.
-
-**Contributors**
-June 09, 2010
-
-type: Public Buildings
-
-
-
-tel: 04-3937139
-
-openingHours: Saturday - Thursday 8:30AM - 20:30PM, Friday: 15:00PM-20:30PM
-
-address: Al Shindagha Area, facing end of Dubai Creek
+The wind-tower architecture and courtyard layout are worth attention in their own right — this is one of the best surviving examples of traditional Gulf residential design in the city. Entry is inexpensive (a few dirhams) and the museum is rarely crowded.

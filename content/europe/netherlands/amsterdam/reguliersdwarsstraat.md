@@ -3,8 +3,10 @@ category: Street
 latitude: 52.3667
 longitude: 4.8948
 neighbourhood: Rembrandtplein
+snippet: Amsterdam's main gay nightlife street near Rembrandtplein
 tags:
 - bars_and_cafes
+- things_to_do
 - rembrandtplein
 title: Reguliersdwarsstraat
 type: poi

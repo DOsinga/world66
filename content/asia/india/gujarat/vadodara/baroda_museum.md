@@ -2,6 +2,7 @@
 address: Sayaji Baug, Vadodara
 latitude: 22.3149
 longitude: 73.1894
+snippet: Victorian-era museum with Mughal miniatures and an Egyptian mummy
 tags:
 - things_to_do
 - museum

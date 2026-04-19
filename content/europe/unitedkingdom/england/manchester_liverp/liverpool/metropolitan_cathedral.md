@@ -2,6 +2,7 @@
 address: Mount Pleasant, Liverpool, L3 5TQ
 latitude: 53.4046
 longitude: -2.9688
+snippet: Circular 1967 Catholic cathedral known as Paddy's Wigwam
 tags:
 - things_to_do
 - landmark

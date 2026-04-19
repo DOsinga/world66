@@ -1,6 +1,7 @@
 ---
 latitude: 52.2893
 longitude: 104.2958
+snippet: Preserved homes of exiled Decembrist nobles in Siberian Irkutsk
 story: 'After the failed uprising of December 1825, Tsar Nicholas I exiled the surviving
   conspirators to Siberia. Many settled in Irkutsk, bringing with them French furniture,
   libraries, and progressive ideas that profoundly shaped the city''s culture. The

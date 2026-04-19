@@ -1,6 +1,7 @@
 ---
 latitude: 41.8424
 longitude: 44.7208
+snippet: Georgia's largest medieval cathedral, spiritual heart of Orthodoxy
 tags:
 - things_to_do
 - church

@@ -3,6 +3,7 @@ address: Fifa Road, east of Mizan Chowk
 latitude: 30.19
 longitude: 66.997
 opening_hours: 9:00 - 15:00 daily
+snippet: Balochistan prehistory museum with a bloodstained sword from a 1919 killing
 tags:
 - things_to_do
 - museum

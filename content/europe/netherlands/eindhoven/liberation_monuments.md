@@ -1,6 +1,7 @@
 ---
 latitude: 51.4425
 longitude: 5.479
+snippet: Cluster of WWII memorials in the city centre
 tags:
 - things_to_do
 - landmark

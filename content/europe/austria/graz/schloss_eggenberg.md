@@ -1,9 +1,12 @@
 ---
-title: "Schloss Eggenberg"
-type: poi
-tags: [things_to_do, poi]
 latitude: 47.0703
 longitude: 15.3958
+snippet: Grand Baroque palace with prehistory museum and cult wagon
+tags:
+- things_to_do
+- landmark
+title: Schloss Eggenberg
+type: poi
 ---
 
 Built in 1625 for Hans Ulrich von Eggenberg, First Minister to Ferdinand II, this is the grandest palace in Styria — sometimes compared to the Escorial for the scale of its ambition. It sits about 4km west of the city centre, reachable by Tram 1. The integrated museum is strong on prehistory; its most prized exhibit is the Strettweg Cult Wagon, a remarkable bronze object from around 600 BC featuring small weapon-bearing figures on a wheeled platform.

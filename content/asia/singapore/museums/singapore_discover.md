@@ -1,35 +1,15 @@
 ---
 title: "Singapore Discovery Centre"
 type: poi
-accessibility: "A quick 30-minute drive from the city, the the PIE and turn off at exit no. 40 or AYE exit no. 20."
+snippet: "Interactive museum exploring Singapore's defence and national story"
+tags:
+- things_to_do
+- museum
 address: "510 Upper Jurong Road"
-email: "info@sdc.com.sg"
-opening_hours: "9am - 6pm"
-phone: "+65 6792 6188"
-url: "www.sdc.com.sg"
 latitude: 1.332652
 longitude: 103.679086
 ---
 
-A museum? An art gallery? A science centre?
+The Singapore Discovery Centre is an interactive museum in the western suburb of Jurong, run by the Ministry of Defence. The exhibits cover Singapore's military history, civil defence, and national development through simulation rides, multimedia galleries, and hands-on displays. There is a strong focus on the country's Total Defence framework — how a small nation with no natural resources protects itself.
 
-Not quite. Welcome to S'pore Discovery Centre - a "hands on, minds on" place where you can explore what keeps Singapore going.
-
-How would you do that? By trying things you have probably never done before. Like what? Ever been a reporter at important events? Saved lives? Made millions? Created the future?
-
-**Contributors**
-October 13, 2006
-
-
-
-accessibility: A quick 30-minute drive from the city, the the PIE and turn off at exit no. 40 or AYE exit no. 20.
-
-tel: +65 6792 6188
-
-openingHours: 9am - 6pm
-
-url: [www.sdc.com.sg](http://www.sdc.com.sg)
-
-address: 510 Upper Jurong Road
-
-email:
+The centre sits next to the SAFTI Military Institute campus, well out of the usual tourist zone. It is about 30 minutes from the city centre via the PIE or AYE expressways. Most visitors are school groups and national servicemen's families, so weekday mornings tend to be quieter.

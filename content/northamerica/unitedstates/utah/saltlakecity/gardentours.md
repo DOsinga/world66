@@ -1,14 +1,10 @@
 ---
-latitude: 40.7703
-longitude: -111.8912
-snippet: "Free guided tours of Temple Square's manicured gardens"
+latitude: 40.068002
+longitude: -123.7948
 tags:
-- things_to_do
-- sight
-title: Temple Square Garden Tours
+- sights
+title: Garden Tours
 type: poi
 ---
 
-The gardens surrounding Temple Square and the Church Office Building Plaza are surprisingly impressive — over 500 varieties of flowers laid out in themed beds including an English cottage garden and formal display gardens. Free guided tours run from April through September, departing from the Church Office Building lobby several times daily.
-
-Even if you're not interested in the LDS Church's history, the gardens are worth a stroll. The plantings are meticulously maintained and change with the seasons. Spring tulip displays are particularly striking against the backdrop of the Salt Lake Temple.
+Free tours of the gardens surrounding the Church Office Building Plaza are conducted April 31, thru September 30. Mon.-Sat. 10 am, Noon, 2:00 pm, 4:00 pm. Evening tours at 7 pm on Tues., Wed., & Thurs. Meet in the lobby of the Church Office Building. Sunday tours are conducted following the Tabernacle Choir broadcast. Meet at the East gate of Temple Square at 10:15 am. Enjoy an English Cottage garden and many other display gardens. Over 500 varieties of flowers planted. Receive free brochure listing the plants. (801) 240-5916

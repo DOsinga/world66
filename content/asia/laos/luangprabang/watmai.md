@@ -1,8 +1,10 @@
 ---
 latitude: 19.890574
 longitude: 102.134995
+snippet: Gilded temple with elaborate Ramayana bas-reliefs
 tags:
 - things_to_do
+- sight
 title: Wat Mai
 type: poi
 ---

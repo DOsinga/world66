@@ -7,6 +7,7 @@ story: 'At the summit a flat stone slab survives from the fortress era. Local gu
   mime out the procedure.
 
   '
+snippet: Hilltop ruins of a royal fortress with panoramic views
 tags:
 - things_to_do
 - sight

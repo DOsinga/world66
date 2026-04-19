@@ -2,7 +2,6 @@
 category: Neighbourhood
 latitude: -33.867552
 longitude: 151.199562
-snippet: "Waterfront entertainment district with museums and harbour walks"
 title: Darling Harbour
 type: poi
 ---

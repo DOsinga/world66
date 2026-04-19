@@ -2,6 +2,7 @@
 address: V. Putvinskio g. 55, Kaunas
 latitude: 54.9006
 longitude: 23.916
+snippet: "Lithuania's largest art museum, devoted to painter-composer Ciurlionis"
 tags:
 - things_to_do
 - museum

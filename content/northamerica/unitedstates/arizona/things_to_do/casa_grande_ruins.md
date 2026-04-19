@@ -1,7 +1,10 @@
 ---
 title: "Casa Grande Ruins National Monument"
 type: poi
-category: "Sight"
+snippet: Mysterious four-storey Hohokam adobe structure from 1350
+tags:
+- things_to_do
+- sight
 latitude: 32.997047
 longitude: -111.532647
 ---

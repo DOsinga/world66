@@ -1,18 +1,14 @@
 ---
-category: Sight
-title: GAMIGAYA
+title: Gamigaya
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 39.1167
+longitude: 46.0333
+snippet: Ancient petroglyphs on a volcanic peak in Ordubad
 ---
 
-Gamigaya, peak in the watershed of Zangazur chain in
-northeast of Tivi and Nesirvaz villages in the territory of Ordubad has
-the height of 3725 m. The cone typed mountain with precipitous slope
-consists of the ancient volcanic rocks. For thousand years the Gamiyaga
-plains played important role in economic life of the Nakhchiva
-population, and somehow turned into saint place where natural temples
-emerged. ****
+Gamigaya is a 3,725-metre volcanic peak in the Zangezur range, above the villages of Tivi and Nesirvaz in the Ordubad district of Nakhchivan. The mountain's high-altitude plateaus are covered with thousands of petroglyphs dating back to the third and second millennia BCE — stick figures of hunters, livestock, deer, and celestial symbols carved into the dark volcanic rock.
 
-**Contributors**
-April 18, 2006
-
-type: Landmarks
+For millennia the Gamigaya pastures served as seasonal grazing grounds, and the concentration of rock art suggests the site held ritual significance. Getting there requires a rough drive from Ordubad followed by a steep hike; most visitors arrange transport through local contacts or a guide in Ordubad. The best window is July to September, when the snow has cleared from the upper slopes.

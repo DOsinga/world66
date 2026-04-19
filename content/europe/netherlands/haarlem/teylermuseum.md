@@ -1,7 +1,10 @@
 ---
 address: Spaarne 16
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.3796
 longitude: 4.6416
+snippet: Oldest Dutch museum with fossils, drawings, and a stunning Oval Room
 tags:
 - things_to_do
 - museum

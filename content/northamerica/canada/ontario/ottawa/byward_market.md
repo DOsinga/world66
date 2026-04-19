@@ -1,6 +1,7 @@
 ---
 latitude: 45.4283
 longitude: -75.6928
+snippet: Ottawa's oldest market neighbourhood, home of the original BeaverTail
 tags:
 - things_to_do
 - neighbourhood

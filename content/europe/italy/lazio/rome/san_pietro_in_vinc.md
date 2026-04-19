@@ -1,9 +1,12 @@
 ---
 address: Piazza di San Pietro in Vincoli 4a, 00184 Rome
 admission: Free
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.894
 longitude: 12.4979
 opening_hours: Daily 08:00–12:30, 15:00–19:00
+snippet: Michelangelo's Moses and St. Peter's chains
 tags:
 - 3 Days in Rome
 - things_to_do

@@ -1,6 +1,8 @@
 ---
+address: Schillerstraße 12, 99423 Weimar
 latitude: 50.9796
 longitude: 11.331
+snippet: Where Schiller wrote William Tell and the Ode to Joy
 tags:
 - things_to_do
 - museum

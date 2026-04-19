@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.8762
 longitude: -118.0816
+snippet: Cosy Italian spot with generous pasta on Patricia Street
 tags:
 - eating_out
 title: Miss Italia Ristorante

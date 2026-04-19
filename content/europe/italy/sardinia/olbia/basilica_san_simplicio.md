@@ -1,10 +1,15 @@
 ---
-title: "Basilica di San Simplicio"
-type: poi
-category: "Sight"
-address: "Via San Simplicio"
+address: Via San Simplicio
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.9243
-longitude: 9.5030
+longitude: 9.503
+snippet: Olbia's oldest monument, an 11th-century Romanesque granite church
+tags:
+- things_to_do
+- sight
+title: Basilica di San Simplicio
+type: poi
 ---
 
 The oldest monument in Olbia: a Romanesque church built in pale granite in the 11th century on the remains of an earlier Christian site. The simple three-nave interior houses funerary inscriptions from the early Christian period and medieval stone carvings. The basilica gives its name to the neighbourhood around it, one of the quietest and most characterful parts of the old town.

@@ -1,11 +1,12 @@
 ---
-title: "Speelwijk Fortress and Cemeteries"
+title: "Speelwijk Fortress"
 type: poi
-type: "Graves and Cemeteries"
+tags:
+- things_to_do
+- sight
+latitude: -6.0489
+longitude: 106.1522
+snippet: "Crumbling Dutch seafront fort with an old colonial cemetery"
 ---
 
-Situated not so far from Chinese temple Avalokiteshvara, this fortress directly facing to the sea. From this point, the Dutch troopers watching and guarding the fort from pirates and local heroes.
-
-Inside the fortress, there's an old Dutch cemetery. One of the buried body is a man who was born in Bergen-op-Zoom in 17th century.
-
-type: Graves and Cemeteries
+A small Dutch colonial fortress on the waterfront near the old town of Banten (Serang). Built in the late 17th century to guard the harbour, the fort sits facing the sea and still retains sections of its original walls. Inside the compound is an old Dutch cemetery, with gravestones dating back to the 1600s — at least one belongs to a man born in Bergen op Zoom. The Chinese temple of Avalokiteshvara is a short walk away. The site is not heavily restored, which gives it a quiet, atmospheric quality.

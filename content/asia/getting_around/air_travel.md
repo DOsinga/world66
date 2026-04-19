@@ -1,14 +1,18 @@
 ---
-title: "Air Travel"
+done:
+  poi_cleanup: '2026-04-19'
+snippet: Major international airports across Northeast Asia
+tags:
+- getting_around
+title: Air Travel
 type: poi
 ---
 
-This is by far, the easiest way to get into any of the countries in
-North-East Asia. The main international airports for [Japan](/asia/japan) are:
-[Tokyo](/asia/japan/tokyo)-Narita, [Osaka](/asia/japan/honshu/osaka)-Kansai, [Nagoya](/asia/japan/honshu/nagoya)-Centair and [Fukuoka](/asia/japan/kyushu/fukuoka). For
-[South Korea](/asia/southkorea), it is Seoul-Incheon. In [China](/asia/china), the main international
-airports are: [Beijing](/asia/china/beijing), [Shanghai](/asia/china/shanghai)-Pudong and [Guangzhou](/asia/china/guangzhou). [Hong Kong](/asia/china/hongkong)
-is also an international air-hub.
+Flying is the most practical way to reach Northeast Asia from other continents. The main international airports are:
 
-**Contributors**
-December 11, 2005
+- **Japan**: Tokyo-Narita and Haneda, Osaka-Kansai, Nagoya-Centrair, and Fukuoka
+- **South Korea**: Seoul-Incheon, one of Asia's best-connected hubs
+- **China**: Beijing Capital, Shanghai-Pudong, and Guangzhou Baiyun
+- **Hong Kong**: Hong Kong International, a major regional hub
+
+Budget carriers like Peach, Jeju Air, and Spring Airlines have expanded regional connections significantly, making it easy to hop between countries once you're in the region. Book early for the best fares, especially around Chinese New Year and Golden Week in Japan.

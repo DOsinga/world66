@@ -3,9 +3,9 @@ address: 1 Telegraph Hill Blvd
 latitude: 37.8023
 longitude: -122.4063
 phone: (415) 362-0808
+snippet: Art Deco tower on Telegraph Hill with panoramic city views
 tags:
 - things_to_do
-- bridge
 - tower
 title: Coit Tower
 type: poi

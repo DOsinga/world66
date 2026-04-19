@@ -1,6 +1,7 @@
 ---
 title: "Dinosaur Provincial Park"
 type: poi
+snippet: "UNESCO badlands with one of the richest dinosaur fossil beds"
 category: "Sight"
 latitude: 50.783333
 longitude: -111.516667

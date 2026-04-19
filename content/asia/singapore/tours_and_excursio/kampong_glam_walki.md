@@ -1,41 +1,17 @@
 ---
 title: "Kampong Glam Walking Tour"
 type: poi
-url: "www.etour-singapore.com"
+snippet: Self-guided walk through Singapore's Malay-Arab heritage quarter
+latitude: 1.3027
+longitude: 103.8595
+tags:
+- things_to_do
 ---
 
-Kampong Glam is so called because the gelam tree - a relative of the eucalyptus - used to grow profusely in this area. This is a Malay name which may be translated loosely as 'Village of Gelam Trees'. However, don't turn up expecting a village here! It's now a highly built-up area with shophouses from colonial times. So it's a good place to see examples of early Singapore shophouse architecture.
+Kampong Glam takes its name from the gelam tree, a eucalyptus relative that once grew thickly here. The village is long gone — shophouses from the colonial era line the streets now — but the neighbourhood remains the heart of Singapore's Malay and Arab community.
 
-Today, Singapore's Malays continue to converge at Kampong Glam because the Sultan's Mosque - Singapore's largest mosque - is located here.
+The Sultan Mosque dominates the area. Rebuilt in 1928 after a major fundraising drive, it's Singapore's largest mosque. Look closely at the base of the main dome: the black-rimmed band is made entirely of glass bottles, donated by poorer residents who collected and sold them to contribute. A reminder that the mosque belongs to everyone, not just the wealthy.
 
-The Sultan's Mosque has a fascinating history. It was rebuilt in 1928 after a major fund-raising project. Many of the poorer folks who donated to the building apparently raised funds from collecting and selling used bottles. If you visit the mosque today, you'll see its main dome sitting on a black rimmed structure made up entirely of glass bottles. This serves as a reminder that the mosque is built not only for the well-off but also the humbler folks.
+Start at Bugis MRT and walk along Victoria Street toward Arab Street, where textile shops and carpet dealers fill the shophouses. Turn down Bussorah Street for more colour and a clear view of the mosque ahead. After visiting the mosque, the nearby Malay Heritage Centre has solid exhibits on Malay culture and runs occasional workshops in pottery and batik.
 
-How to do the Kampong Glam Walking Tour:
-
-1. Take the MRT to Bugis Station. Exit, walk along Victoria St in the
-direction of Golden Landmark Hotel. You'll come to a junction with Arab
-St. Begin your walking tour at this junction.
-
-2. Visit the shophouses on Arab St and Bussorah St. Marvel at the
-colourful textiles and home decor. Here you may get yourself a nice rattan
-laundry basket, an Afghan carpet or an exquisite piece of silk for that
-head-turning dress.
-
-3. At the end of Bussorah St, visit
-Sultan Mosque.
-
-4. Near the mosque is the Malay
-Heritage Centre, which has informative exhibits about Malay culture. Also worth doing here are the workshops.
-You may spend a day molding your own pottery or creating your own batik
-art.
-
-Allow half a day; or full-day if you want to do the workshops.
-
-**Contributors**
-April 06, 2008
-
-
-
-
-
-url: [www.etour-singapore.com](http://www.etour-singapore.com/kampong-glam.html)
+Allow half a day for a relaxed walk, or a full day if you want to try the workshops.

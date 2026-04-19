@@ -100,15 +100,6 @@
     </div>
   </div>
 </div>
-{% elif not is_continent %}
-<div id="hero" class="hero">
-  <div class="hero-card hero-card-map">
-    <div id="background-map" style="position:absolute;inset:0;width:100%;height:100%"></div>
-    <div class="hero-title-block hero-title-block--dark">
-      <div class="hero-title">{{ page.title }}</div>
-    </div>
-  </div>
-</div>
 {% endif %}
 {% endblock %}
 
@@ -382,12 +373,6 @@
     });
   }
 
-  // Background map (no hero image, non-continent pages)
-  var bgMapEl = document.getElementById('background-map');
-  if (bgMapEl) {
-    void bgMapEl.offsetHeight;
-    if (fullMarkers.length) initLocationMap('background-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
-  }
   {% endif %}
 })();
 </script>

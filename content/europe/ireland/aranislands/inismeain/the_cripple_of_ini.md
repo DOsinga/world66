@@ -1,6 +1,7 @@
 ---
 author: Martin McDonagh
 isbn: 978-0375705236
+snippet: McDonagh's dark comedy set on Inis Meáin, bitter and funny
 tags:
 - books
 title: The Cripple of Inishmaan

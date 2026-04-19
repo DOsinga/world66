@@ -3,6 +3,7 @@ address: 631 Grant Ave
 latitude: 37.793
 longitude: -122.4062
 phone: (415) 982-3245
+snippet: Cantonese institution with curtained booths since 1920
 tags:
 - eating_out
 - cafe

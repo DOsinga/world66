@@ -4,6 +4,7 @@ latitude: -22.961078
 longitude: -43.210813
 opening_hours: 8 am - 5 pm
 phone: '2390718'
+snippet: Lush 137-hectare tropical garden founded in 1808
 tags:
 - things_to_do
 - park

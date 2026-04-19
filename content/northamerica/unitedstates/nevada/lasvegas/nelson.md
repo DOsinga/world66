@@ -1,19 +1,15 @@
 ---
-email: parigy08@yahoo.com
-latitude: 37.775535
-longitude: -78.897362
+latitude: 35.7128
+longitude: -114.8434
+snippet: "Ghost town and old gold mine in Eldorado Canyon"
 tags:
 - day_trips
 title: Nelson
 type: poi
 ---
 
-Just south of the City is an old mining town of Nelson. This is the famous Eldorado Canyon. Great views, wonderful country store, tours of the mine.
+Nelson is a near-ghost town about 45 minutes southeast of the Strip, sitting at the mouth of Eldorado Canyon where gold was discovered in 1775. The Techatticup Mine operated here for decades and is now open for guided tours — you walk into the old tunnels and hear stories of claim jumpers, gunfights, and smugglers who used the canyon to move goods across the Colorado River.
 
-A bit further down the road is a great picnic place overlooking the deep blue Colorado River
+Above ground, the town is a photographer's playground. Rusted-out cars, crumbling shacks, and vintage gas pumps are scattered across the desert floor, all backed by dramatic canyon walls. It has become a popular spot for portrait and fashion shoots thanks to the light and the props. A small country store sells drinks and snacks.
 
-http://www.ghosttowns.com/states/nv/nelson.html
-
-
-
-email: parigy08@yahoo.com
+Drive a few more minutes down the road and you reach the Colorado River at Nelson's Landing, where the canyon opens into a stunning overlook of deep blue water. Bring a picnic — there are no restaurants out here, and the isolation is the point.

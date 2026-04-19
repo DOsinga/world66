@@ -2,8 +2,16 @@
 address: Rambla 91, Rambla
 tags:
 - shopping
+- food
 title: Boqueria
 type: poi
+latitude: 41.3817
+longitude: 2.1717
+snippet: "Barcelona’s famous covered market off La Rambla"
 ---
 
-Not to be missed, the Boqueria (at the Ramblas) is the oldest market in Europe and it is also considered Europe’s most festive gathering place for buyers and sellers of goods of all kinds. Arrive early to find the best treasures. Boqueria opens at 8:00 a.m. and closes at 8:00 p.m., Monday-Saturday.
+La Boqueria — officially the Mercat de Sant Josep — is Barcelona’s most famous market, occupying a covered iron hall just off La Rambla. Fruit stalls piled high with tropical cones, fresh fish on ice, jamón hanging in rows, and a dozen small bars serving seafood and vermouth. It has been here in some form since the 13th century.
+
+Go early — by mid-morning tour groups clog the main walkways and stall holders start turning away individual buyers. The best deals and the least theatre are found in the back half of the market, away from the tourist-facing stalls near the entrance. The small bar counters serving lunch to market workers are worth seeking out.
+
+Open Monday to Saturday, roughly 8am to 8pm; closed Sunday.

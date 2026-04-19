@@ -3,6 +3,7 @@ address: Moritzzwinger 11, 06108 Halle (Saale)
 latitude: 51.4821
 longitude: 11.972
 phone: +49 345 290 6672
+snippet: Russian-Ukrainian restaurant in old Moritz fortifications
 tags:
 - eating_out
 title: Restaurant Baba Jaga

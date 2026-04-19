@@ -1,6 +1,7 @@
 ---
 latitude: 43.1843
 longitude: 3.003
+snippet: "Rome's first road in Gaul, still underfoot in Narbonne."
 tags:
 - things_to_do
 - sight

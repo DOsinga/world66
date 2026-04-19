@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.7852
 longitude: -5.8118
+snippet: Atmospheric medina square steeped in literary history
 tags:
 - things_to_do
 - landmark

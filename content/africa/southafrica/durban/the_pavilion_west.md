@@ -2,6 +2,7 @@
 address: Jack Martens Drive, Westville
 latitude: -29.8275
 longitude: 30.9342
+snippet: KwaZulu-Natal's most popular inland shopping mall
 tags:
 - shopping
 title: The Pavilion, Westville

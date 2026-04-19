@@ -4,6 +4,7 @@ latitude: 52.098511
 longitude: 5.772575
 opening_hours: Tue–Fri 10.00–17.00; Sat, Sun and bank holidays 13.00–17.00
 phone: +31 (0)318 591 519
+snippet: One of the largest collections of Dutch wall tiles
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,7 @@
 ---
 latitude: 51.5082
 longitude: -0.1234
+snippet: London's oldest wine bar in a candlelit Victorian cave
 tags:
 - bars_and_cafes
 title: Gordon's Wine Bar

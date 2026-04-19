@@ -1,22 +1,16 @@
 ---
 title: "Thaipusam"
 type: poi
-url: "www.singaporesights.com"
+tags: [festivals]
+snippet: "Hindu kavadi procession through Little India each January"
+latitude: 1.3127
+longitude: 103.8524
 ---
 
-Thaipusam is celebrated by the Hindu community in Singapore, Malaysia, Southern India and Sri Lanka.This festival commermorates the devotion of Idumban, a devotee of Lord Subramaniam, who received great burden of offerings to pay homage to his deity. Today, it is believed that any devotee carrying a kavadi in fulfillment of vows will have their wishes granted. 
+Thaipusam is a Hindu festival celebrated in Singapore, Malaysia, southern India, and Sri Lanka. It commemorates the devotion of Idumban, a devotee of Lord Subramaniam, and the belief holds that anyone carrying a kavadi in fulfillment of a vow will have their wishes granted.
 
-In order to prepare for the procession, the devotee has to be a strict vegetarians, offer prayer and observing austerities for a month before the festival. The procession will begin from Sri Srinivasa Perumal Temple, Little India to Sri Thendayuthapani Temple at Tank Road about 3km route. 
+The procession runs about 3 km from Sri Srinivasa Perumal Temple in Little India to Sri Thendayuthapani Temple on Tank Road, usually in late January or early February. Devotees prepare by following a strict vegetarian diet and offering daily prayers for a month beforehand.
 
-Before the procession, there will be a ritual and prayer and friends and relative gather to offer their blessing. It takes quite awhile to prepare the kavadi. The devotee will carry it through out the journey. These kavadi range from simple wooden ones to more elborately decorated 'Alagu Kavadi' with metal skewers anchored on various parts of the devotees' bodies.Teenagers usually carry simple wooden one while the woman will carry pot of milk over the head. 
+The kavadis range from simple wooden frames to elaborate structures called Alagu Kavadi, anchored to the body with metal skewers. Teenagers typically carry the simpler wooden frames, while women balance pots of milk on their heads. Before setting off, friends and relatives gather for rituals and blessings, and the preparation of each kavadi takes considerable time.
 
-Upon completing the walk, devotees will offer pots of milk on the trident of their deity. The kavadis are then carefully removed. The end of the Thaipusam is marked by a three-day fasting .
-
-**Contributors**
-February 01, 2005
-
-
-
-
-
-url: [www.singaporesights.com](http://www.singaporesights.com)
+At the end of the walk, devotees pour their pots of milk over the trident of their deity and the kavadis are carefully removed. The festival concludes with three days of fasting. It is one of the most visually intense religious events you can witness in Singapore, and the atmosphere along the route is electric.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -24.187
 longitude: -65.3006
+snippet: Andean market with coca leaves, peppers, and empanadas
 tags:
 - things_to_do
 - neighbourhood

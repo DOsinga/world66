@@ -1,6 +1,7 @@
 ---
 title: "Hotel Nevada"
 type: poi
+snippet: "Once Nevada's tallest building, open since 1929"
 tags:
   - things_to_do
   - sight

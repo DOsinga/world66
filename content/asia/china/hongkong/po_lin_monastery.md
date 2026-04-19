@@ -2,13 +2,9 @@
 latitude: 22.2548
 longitude: 113.9053
 tags:
-<<<<<<<< HEAD:content/asia/china/hongkong/po_lin_monastery.md
 - lantau
 - things_to_do
 - landmark
-========
-- things_to_do
->>>>>>>> 1de084d775 (Tag migration: Lantau):content/asia/china/hongkong/lantau/po_lin_monastery.md
 title: Po Lin Monastery
 type: poi
 ---

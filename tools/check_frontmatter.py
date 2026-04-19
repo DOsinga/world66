@@ -5,6 +5,9 @@ Validate YAML frontmatter across all content files.
 Walks content/ and tries to parse each markdown file with python-frontmatter.
 Reports any file that fails to parse, with the parser's error message.
 
+Also performs a roundtrip test: loads each file, dumps it back, and reloads
+to verify the frontmatter survives a save cycle without corruption.
+
 With --fix, applies known mechanical repairs:
   1. image_attribution values containing HTML with unescaped inner double
      quotes — rewrites as single-quoted YAML (collapsing multi-line values
@@ -12,6 +15,7 @@ With --fix, applies known mechanical repairs:
   2. Duplicate image_* keys in the same frontmatter block — keeps the last
      occurrence of each image / image_source / image_license /
      image_attribution (the most recent find_photo write).
+  3. Git merge conflict markers in frontmatter — keeps the HEAD version.
 
 Exits non-zero if any files remain broken.
 """

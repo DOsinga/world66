@@ -1,14 +1,17 @@
 ---
 address: Rua Lauro Muller, 116 - Botafogo.
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.957246
 longitude: -43.176255
+snippet: Major Botafogo shopping mall near Copacabana tunnel
 tags:
 - shopping
 - shop
-- beach
-title: Rio de janeiro
+title: Rio Sul
 type: poi
 ---
 
-Located close to Botafogo Beach and beside the tunnel that leads to Copacabana, is Rio's most traditional shopping. You'll find there anything you're looking for.
-The shopping also offers a bus that takes you to the Metro (subway) Cardeal Arcoverde Station, and vice versa, for free.
+Rio Sul is one of Rio de Janeiro's most established shopping malls, sitting at the foot of Botafogo near the tunnel entrance to Copacabana. The mall has a wide range of shops across several floors — Brazilian fashion brands, electronics, a food court, and a cinema.
+
+Its location makes it a convenient stop if you're moving between Botafogo and the Zona Sul beaches. A free shuttle runs between the mall and the Cardeal Arcoverde metro station in Copacabana.

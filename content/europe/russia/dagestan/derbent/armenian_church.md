@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.0575
 longitude: 48.287
+snippet: Ancient Christian church in Derbent's layered old town
 tags:
 - things_to_do
 - sight

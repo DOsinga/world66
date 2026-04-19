@@ -1,6 +1,7 @@
 ---
 latitude: 13.801
 longitude: 8.995
+snippet: Zinder's lively working-class quarter of mudbrick houses
 tags:
 - things_to_do
 - neighbourhood
@@ -8,4 +9,4 @@ title: Zengou Quarter
 type: poi
 ---
 
-The Zengou Quarter does not have the architectural beauties of the Birnin, but it makes up for that in liveliness. There are a lot of things going down here between the simple mudbrick houses.
+The Zengou Quarter lacks the grand Hausa architecture of the old Birni (the Sultan's quarter), but it more than compensates with energy. This is Zinder's working-class heart -- a maze of narrow lanes between simple mudbrick houses, where tailors, dyers, and metalworkers set up shop in the open air. The indigo-dyed cloth stalls are worth seeking out. Come in the morning when the quarter is at its busiest, and don't be shy about wandering -- people are generally welcoming and curious about visitors.

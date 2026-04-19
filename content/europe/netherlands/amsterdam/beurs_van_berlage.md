@@ -9,6 +9,7 @@ tags:
 - centrum
 title: Beurs van Berlage
 type: poi
+snippet: "Founding monument of modern Dutch architecture, now a concert venue"
 ---
 
 Designed by H.P. Berlage and completed in 1903, this former stock exchange is the founding monument of modern Dutch architecture. The building's stripped-down brick exterior, with its rejection of historicism, was a direct rebuke to the ornate 19th-century styles of Cuypers. Now used as a concert and events venue.

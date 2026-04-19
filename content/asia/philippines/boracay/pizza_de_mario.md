@@ -3,6 +3,7 @@ address: Near boat station 3, White Beach
 latitude: 11.9605
 longitude: 121.9258
 phone: 036 288 3601
+snippet: Wood-oven pizza and pasta on the White Beach sand
 tags:
 - eating_out
 title: Pizza de Mario

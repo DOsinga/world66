@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
 image: boracay.jpg
 image_attribution: Alexey Komarov
 image_license: CC BY 3.0

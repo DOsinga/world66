@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.1122
 longitude: 20.0819
+snippet: 15th-century Ottoman fortress walls enclosing the old town
 story: 'The Ottoman sultan Mehmed II ordered the fortress built in just a few months
   in 1466, intending it as a base to subdue the Albanian resistance led by Skanderbeg.
   Skanderbeg died the following year, and the Ottomans held Elbasan for over four

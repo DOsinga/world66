@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.213
 longitude: 5.964
+snippet: Apeldoorn's oldest park, pleasant for a morning stroll
 tags:
 - things_to_do
 - landmark

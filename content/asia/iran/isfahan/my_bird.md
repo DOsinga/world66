@@ -1,6 +1,7 @@
 ---
 author: Fariba Vafi
 isbn: 978-0815609278
+snippet: Spare, devastating novel of domestic life in an Iranian city
 tags:
 - books
 title: My Bird

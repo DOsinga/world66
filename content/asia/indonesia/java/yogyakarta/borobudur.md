@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -7.608
 longitude: 110.2038
+snippet: World's largest Buddhist monument, 42km from Yogyakarta
 tags:
 - day_trips
 title: Borobudur

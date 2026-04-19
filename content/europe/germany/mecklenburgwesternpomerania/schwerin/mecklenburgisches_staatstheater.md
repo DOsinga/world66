@@ -1,6 +1,7 @@
 ---
 latitude: 53.6254
 longitude: 11.4167
+snippet: Grand neo-Renaissance theatre with opera, ballet, and summer festival
 tags:
 - things_to_do
 - architecture

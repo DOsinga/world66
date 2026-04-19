@@ -88,62 +88,33 @@ function initCountryMap(elementId, continentSlug, bounds) {
         map.fitBounds(bounds);
     }
 
+    const STYLE_DEFAULT = { fillColor: '#8faab8', fillOpacity: 0.18, color: '#6a8fa8', weight: 1, opacity: 0.55 };
+    const STYLE_HOVER   = { fillOpacity: 0.42, weight: 1.5, opacity: 0.85 };
+
     fetch('/static/geo/countries.geo.json')
         .then(r => r.json())
         .then(data => {
-            // Filter to countries in this continent
             data.features = data.features.filter(f => {
                 const slug = COUNTRY_SLUGS[f.properties.name];
                 return slug && COUNTRY_CONTINENTS[slug] === continentSlug;
             });
 
-            // Fit to the continent extent
             if (!bounds && data.features.length > 0) {
                 map.fitBounds(L.geoJSON(data).getBounds().pad(0.1));
             }
 
-            // Build candidate list with bounding-box area as priority proxy
-            var candidates = [];
-            data.features.forEach(function(feature) {
-                const name = feature.properties.name;
-                const slug = COUNTRY_SLUGS[name];
-                if (!slug) return;
-                const geoBounds = L.geoJSON(feature).getBounds();
-                const centre = geoBounds.getCenter();
-                const area = (geoBounds.getEast() - geoBounds.getWest()) *
-                             (geoBounds.getNorth() - geoBounds.getSouth());
-                candidates.push({name: name, slug: slug, centre: centre, area: area});
-            });
-
-            // Sort largest (most prominent) first
-            candidates.sort(function(a, b) { return b.area - a.area; });
-
-            // Greedy deconfliction — place label only if it doesn't overlap a prior one
-            var PAD = 4;
-            var PX_PER_CHAR = 9;
-            var LINE_H = 20;
-            var placed = [];
-            candidates.forEach(function(c) {
-                var pt = map.latLngToContainerPoint(c.centre);
-                var w = c.name.length * PX_PER_CHAR + 10;
-                var box = {
-                    x1: pt.x - w / 2 - PAD, y1: pt.y - LINE_H / 2 - PAD,
-                    x2: pt.x + w / 2 + PAD, y2: pt.y + LINE_H / 2 + PAD,
-                };
-                var overlaps = placed.some(function(p) {
-                    return box.x2 > p.x1 && box.x1 < p.x2 && box.y2 > p.y1 && box.y1 < p.y2;
-                });
-                if (overlaps) return;
-                placed.push(box);
-                L.marker(c.centre, {
-                    icon: L.divIcon({
-                        className: 'map-label',
-                        html: '<i class="map-dot"></i><a href="/' + continentSlug + '/' + c.slug + '">' + c.name + '</a>',
-                        iconSize: [0, 0],
-                        iconAnchor: [0, 0],
-                    }),
-                }).addTo(map);
-            });
+            L.geoJSON(data, {
+                style: STYLE_DEFAULT,
+                onEachFeature: function(feature, layer) {
+                    const name = feature.properties.name;
+                    const slug = COUNTRY_SLUGS[name];
+                    if (!slug) return;
+                    layer.bindTooltip(name, { className: 'country-tooltip', sticky: true });
+                    layer.on('mouseover', function() { layer.setStyle(STYLE_HOVER); });
+                    layer.on('mouseout',  function() { layer.setStyle(STYLE_DEFAULT); });
+                    layer.on('click',     function() { window.location.href = '/' + continentSlug + '/' + slug; });
+                },
+            }).addTo(map);
         });
 
     L.control.attribution({position: 'bottomright', prefix: false})

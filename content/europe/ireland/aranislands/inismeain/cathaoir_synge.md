@@ -1,6 +1,7 @@
 ---
 latitude: 53.079
 longitude: -9.592
+snippet: Clifftop stone seat where J.M. Synge wrote his plays
 tags:
 - things_to_do
 - landmark

@@ -1,7 +1,10 @@
 ---
 address: Batu Gajah, 20 km south of Ipoh
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 4.469
 longitude: 101.0637
+snippet: Atmospheric unfinished mansion with a tragic backstory
 story: Kellie Smith imported his workers from Madras and began the castle in 1915
   to celebrate the birth of his son. When Spanish flu wiped out most of his workforce
   and Smith himself died of pneumonia on a trip to Portugal in 1926, the castle was

@@ -1,9 +1,12 @@
 ---
-title: "Landeszeughaus"
+title: Landeszeughaus
 type: poi
-tags: [things_to_do, poi]
+tags:
+- things_to_do
+- museum
 latitude: 47.0702
 longitude: 15.4399
+snippet: "World's largest historic arsenal with 32,000 weapons and armour"
 ---
 
 The largest surviving historic arsenal in the world, with over 32,000 items — helmets, breastplates, muskets, pikes, and edged weapons dating from 1450 to 1850. Built in the 17th century to arm Styria against Ottoman invasion, it was never dismantled when the threat passed. The result is a four-storey room packed floor-to-ceiling with weapons, organized by type, in the exact configuration intended for rapid equipping of troops. There is nothing else quite like it.

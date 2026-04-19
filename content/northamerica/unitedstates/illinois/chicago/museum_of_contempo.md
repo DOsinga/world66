@@ -1,9 +1,12 @@
 ---
 address: 220 E Chicago Ave, Chicago, IL 60611
-category: Museum
 latitude: 41.8972
 longitude: -87.6211
 phone: 312-280-2660
+snippet: Major contemporary art museum on the Magnificent Mile
+tags:
+- things_to_do
+- museum
 title: Museum of Contemporary Art
 type: poi
 url: www.mcachicago.org

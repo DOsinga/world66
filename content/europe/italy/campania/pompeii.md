@@ -1,15 +1,16 @@
 ---
-title: Pompeii
-type: location
-latitude: 40.751737
-longitude: 14.490564
 done:
   location_cleanup: 2026-04-07
-score: 0.77
+  poi_cleanup: '2026-04-19'
 image: pompeii.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_(Pompeii)_-_Arena_inside.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Commonists
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_(Pompeii)_-_Arena_inside.jpg
+latitude: 40.751737
+longitude: 14.490564
+score: 0.77
+title: Pompeii
+type: location
 ---
 
 *Europe > Italy > Campania > Pompeii*

@@ -1,23 +1,14 @@
 ---
-title: "Oxapampa Music and Arts Festival"
+title: "Selvamonos Festival"
 type: poi
-email: "festival.oxapampa2009@gmail.com"
+tags: [things_to_do, festivals]
+snippet: "Annual music and arts festival in the cloud forest"
+latitude: -10.5770
+longitude: -75.3980
 ---
 
-The first Music and Arts Festival of its kind, Selvamonos is an attempt to decentralise culture in Peru. Its aim is to take quality Peruvian artists out of Lima and into the jungle, to Oxampampa.
+Selvamonos is an annual music and arts festival held in Oxapampa, a small town of Austro-German heritage set in the cloud forest between the Andes and the Amazon. Started in 2009 as an effort to bring quality Peruvian music out of Lima and into the provinces, the festival has grown into one of Peru's most distinctive cultural events.
 
-On the 10th of October 2009, Limenians, locals and tourists will collect in Oxapampa to hear fantastic first-rate artists such as Andres Prado and his Acid Jazz Experience, Jean-Pierre Magnet and his 30-piece Serenata de Los Andes, and theatrical acts like the Tarumba Circus and Yuyachkani Theatre Group.
+The lineup mixes Peruvian and international acts across genres — cumbia, jazz, electronic, folk, rock — with theater performances and art installations. The setting is a big part of the appeal: Oxapampa sits in a green valley surrounded by forested hills, and the festival grounds make full use of the landscape. The event typically takes place in June or July and draws a mix of Limeños, backpackers, and locals. Expect a relaxed atmosphere, good food, and mud if it rains.
 
-Oxapampa is the perfect place to visit, partway between the Andes and the Amazon it is a lush region of rolling hills and abounding greenery. The festival itself will take place at the Ruffner Ranch, a charming location set at centre of a verdant valley. The ranch-owners will even be performing a highly-skilled traditional horse-show for the lucky Selvamonos guests.
-
-The project is formally supported by the following institutions:
-
-The French Embassy
-The Austrian Embassy
-Ministry for the Environment
-
-
-
-
-
-email: festival.oxapampa2009@gmail.com
+Getting there from Lima takes about eight hours by bus via La Merced. Book accommodation early — the town is small and fills up fast during the festival.

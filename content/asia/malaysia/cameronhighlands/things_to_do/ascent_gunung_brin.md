@@ -1,26 +1,18 @@
 ---
 title: "Ascend Gunung Brinchang"
 type: poi
-address: "Gunung Brinchang"
-type: "Hiking"
+category: hiking
+snippet: "Highest peak in Cameron Highlands with panoramic views"
+address: "Gunung Brinchang, Cameron Highlands"
 latitude: 4.517429
 longitude: 101.383038
+tags:
+- things_to_do
+- hiking
 ---
 
-Hike up Gunung Brinchang, the highest peak in Cameron Highlands, for a breathtaking view of the area.
+At 2,032 metres, Gunung Brinchang is the highest peak in the Cameron Highlands and one of the few summits in Peninsular Malaysia accessible without a serious expedition. The hike takes around two hours from the trailhead near Boh Tea Plantation, following a mossy, root-tangled path through montane cloud forest.
 
-Alternatively, you could also bargain with a taxi driver to take you up
-in the evenings for a lovely night view of the city lights in Ipoh,
-especially nice on a starry night.
+The summit has a viewing platform offering panoramic views across the highlands and, on clear days, as far as the plains of Perak. Early morning ascents are best for visibility — cloud rolls in by midday most days.
 
-A local told me they often do that for a romantic boost on first dates,
-or for special occasion such as someone's birthday, or graduation.
-
-**Contributors**
-April 02, 2006
-
-type: Hiking
-
-
-
-address: Gunung Brinchang
+A paved road also reaches near the top, so it is possible to arrange a ride up and walk down instead. In the evening, the summit area offers clear views of the city lights of Ipoh below.

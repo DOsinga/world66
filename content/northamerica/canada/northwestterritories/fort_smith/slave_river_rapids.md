@@ -1,10 +1,11 @@
 ---
 title: "Slave River Rapids"
 type: poi
+snippet: Northern whitewater rapids where pelicans gather in summer
 tags:
-  - things_to_do
-  - nature
-  - park
+- things_to_do
+- nature
+- park
 latitude: 60.0181
 longitude: -111.8744
 ---

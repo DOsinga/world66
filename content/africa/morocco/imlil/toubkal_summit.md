@@ -1,6 +1,7 @@
 ---
 latitude: 31.06
 longitude: -7.915
+snippet: North Africa's highest peak, a two-day trek from Imlil
 tags:
 - things_to_do
 - sight

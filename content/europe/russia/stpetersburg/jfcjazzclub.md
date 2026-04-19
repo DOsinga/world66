@@ -1,6 +1,10 @@
 ---
 title: "JFC Jazz Club"
 type: poi
+snippet: "Intimate basement club with nightly jazz and blues concerts"
+tags:
+- things_to_do
+- nightlife
 address: "Shpalernaya ul. 33"
 phone: "272-9850"
 latitude: 59.9490

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -29.7286
 longitude: 31.0876
+snippet: Upmarket seaside suburb with calmer beaches than Durban
 tags:
 - things_to_do
 - neighbourhood

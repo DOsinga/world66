@@ -1,0 +1,17 @@
+/europe/finland/kotka/bbcmqevjezfcg
+/europe/france/centre/limousin/rochebrune
+/europe/france/centre/loirevalley/le_blanc
+/europe/france/east/champagne/epernay
+/europe/france/midi/cotedazur/dignelesbains
+/europe/france/midi/cotedazur/toulon
+/europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre
+/europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomi
+/europe/france/midi/provence/portgrimaud
+/europe/france/midi/pyrenees/picdumidi
+/europe/france/normandybrittany/mesnilval
+/europe/georgia/kvariati
+/europe/georgia/sarpi
+/europe/germany/badenwrttemberg/neckargemuend
+/europe/germany/hessen/riedstadt
+/europe/germany/rhinelandpalatinate/mosel/lieser
+/europe/greece/philippi

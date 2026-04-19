@@ -1,9 +1,12 @@
 ---
 latitude: 6.8365
 longitude: 81.0454
+snippet: Roadside waterfall with mythic Ramayana connections and a swimming pool.
 tags:
 - things_to_do
 - sight
+- waterfall
+- nature
 title: Ravana Falls
 type: poi
 ---

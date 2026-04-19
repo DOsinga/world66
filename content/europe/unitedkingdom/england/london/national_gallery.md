@@ -5,10 +5,10 @@ latitude: 51.507437
 longitude: -0.128548
 opening_hours: Daily 10am-6pm, Fri until 9pm
 phone: +44 20 7747 2885
+snippet: "World-class collection of Western European paintings, free entry"
 tags:
 - things_to_do
 - museum
-- square
 title: National Gallery
 type: poi
 url: www.nationalgallery.org.uk

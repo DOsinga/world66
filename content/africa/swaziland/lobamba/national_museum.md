@@ -1,6 +1,7 @@
 ---
 latitude: -26.4465
 longitude: 31.2069
+snippet: Best introduction to Eswatini royal history and Swazi culture
 tags:
 - things_to_do
 - museum

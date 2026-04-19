@@ -1,10 +1,10 @@
 ---
 latitude: -23.002
 longitude: -43.284
+snippet: "Tandem hang glide from Tijuca Forest to the beach"
 tags:
 - things_to_do
-- theatre
-- beach
+- adventure
 title: Hang Gliding
 type: poi
 ---

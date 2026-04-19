@@ -1,7 +1,9 @@
 ---
 latitude: -0.284
 longitude: 36.067
+snippet: Three-storey bar and restaurant, Nakuru's main night spot
 tags:
+- things_to_do
 - bars_and_cafes
 title: Taidy's
 type: poi

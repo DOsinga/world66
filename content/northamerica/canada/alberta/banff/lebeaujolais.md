@@ -1,11 +1,11 @@
 ---
-latitude: 45.487102
-longitude: -73.722073
+latitude: 51.1762
+longitude: -115.5708
+snippet: Fine French dining with Alberta beef and seafood
 tags:
 - eating_out
 - restaurant
-- park
-title: Le Beaujolais .
+title: Le Beaujolais
 type: poi
 ---
 

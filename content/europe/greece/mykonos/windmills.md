@@ -1,6 +1,7 @@
 ---
 latitude: 37.4455
 longitude: 25.326
+snippet: Iconic hilltop windmills overlooking Little Venice
 tags:
 - things_to_do
 - landmark

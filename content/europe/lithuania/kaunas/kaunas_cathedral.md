@@ -1,6 +1,7 @@
 ---
 latitude: 54.8972
 longitude: 23.889
+snippet: Lithuania's only Gothic cathedral, founded in the 15th century
 tags:
 - things_to_do
 - landmark

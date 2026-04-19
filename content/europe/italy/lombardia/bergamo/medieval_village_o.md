@@ -6,18 +6,9 @@ tags:
 - day_trips
 title: Medieval Village of Oneta & Cornello dei Tasso
 type: poi
-url: www.brembana.info
+snippet: "Two medieval villages tied to Harlequin and the origins of the postal service"
 ---
 
-The house of Harlequin is in the Medieval village of Oneta, which consisted of a population comprised of mostly of farmers with their houses, barns sheds, and animal pens clustered around the center of the village, which was surrounded by plowed fields and pastures. Medieval society depended on the village for protection and a majority of people during these centuries called a village home. Most were born, toiled, married, had children and later died within the village, rarely venturing beyond its boundaries. Hours:** **10-12 e 15-18 Tel: 0345.43262 by reservation only.
-Eat at the Taverna/Ristorante di Arlecchino in the "Borgo" of Oneta near San Giovanni Bianco. Typical local dishes - reservations: Tel. 0345.42458.
-Instead the famous Italian poet "Torquato Tasso" came from the Village "Cornello dei Tasso" where the Taxi service was invented as well as a great postal service. See his house and the museum of the postal service and "Taxis". Everyone knows what a taxi is but do they know where it was invented?
+Two tiny medieval villages in the Brembana Valley, each with a surprising claim to fame. **Oneta**, near San Giovanni Bianco, is home to the Casa di Arlecchino -- the supposed birthplace of the Harlequin character from the commedia dell'arte. The village itself is a well-preserved cluster of stone farmhouses, barns, and narrow lanes. Visits by reservation only (tel. 0345.43262, hours 10-12 and 15-18). Nearby, the Taverna di Arlecchino serves typical local dishes (tel. 0345.42458).
 
-**Contributors**
-February 28, 2008
-
-
-
-url: [www.brembana.info](http://www.brembana.info/borghi/cornello/cornello.html)
-
-address: Cornello dei Tasso, Brembana Valley
+A few kilometres away, **Cornello dei Tasso** is the ancestral home of the poet Torquato Tasso and, more unexpectedly, the birthplace of the European postal system. The Tasso family ran a courier network across the continent from here, and the word "taxi" derives from their name. A small museum in the village covers the history of the postal service. The village is car-free and remarkably intact -- stone arcades, a medieval church, and almost no modern intrusions.

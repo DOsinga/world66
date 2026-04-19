@@ -1,7 +1,12 @@
 ---
-title: "Truc Lam Buddhist Pagoda"
+title: Truc Lam Buddhist Pagoda
 type: poi
-tags: [things_to_do, sights, temple, buddhist]
+tags:
+- things_to_do
+- sights
+- temple
+- buddhist
+snippet: Hilltop pagoda complex above Lake Tuyen Lam
 latitude: 11.8892
 longitude: 108.4347
 ---

@@ -1,13 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.500912
 longitude: -81.681822
 phone: 216.771.8403
+snippet: America's second-largest theater district, five restored venues
 tags:
 - things_to_do
-- palace
-- square
 - theatre
-- neighbourhood
 title: Playhouse Square
 type: poi
 url: www.playhousesquare.com

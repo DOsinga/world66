@@ -1,6 +1,7 @@
 ---
 title: "Sindhudurg Fort"
 type: poi
+snippet: "Shivaji's 1664 island fortress with temples and sea views"
 tags:
   - things_to_do
   - fort

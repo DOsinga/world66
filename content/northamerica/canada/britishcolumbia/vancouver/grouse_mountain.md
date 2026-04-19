@@ -2,6 +2,7 @@
 address: 6400 Nancy Greene Way, North Vancouver, BC V7R 4K9
 latitude: 49.3789
 longitude: -123.089
+snippet: Vancouver's backyard peak with gondola, skiing, and the brutal Grouse Grind
 tags:
 - things_to_do
 - landmark

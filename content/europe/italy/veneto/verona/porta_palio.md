@@ -5,6 +5,7 @@ longitude: 10.9828
 tags:
 - things_to_do
 - architecture
+snippet: "Renaissance gate by Sanmicheli in the Venetian walls"
 title: Porta Palio
 type: poi
 ---

@@ -1,7 +1,9 @@
 ---
-admission: Free
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8951
 longitude: 12.4929
+snippet: Rome's artsy former red-light district turned aperitivo hotspot
 tags:
 - things_to_do
 - square

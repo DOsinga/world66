@@ -3,6 +3,7 @@ address: Bronx River Parkway at Fordham Road
 latitude: 40.862656
 longitude: -73.877969
 phone: 718-817-8700
+snippet: 250-acre Bronx garden with Victorian glasshouse and original forest
 tags:
 - things_to_do
 - park

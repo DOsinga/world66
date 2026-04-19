@@ -1,6 +1,7 @@
 ---
 latitude: 20.6018
 longitude: -105.2388
+snippet: "Cobblestone old town with galleries, beaches, and vibrant nightlife"
 tags:
 - things_to_do
 - neighbourhood

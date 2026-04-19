@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.6215
 longitude: -3.9573
+snippet: Dylan Thomas's childhood park, inspiration for his poetry
 tags:
 - things_to_do
 - landmark

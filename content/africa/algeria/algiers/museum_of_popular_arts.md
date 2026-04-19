@@ -1,6 +1,7 @@
 ---
 latitude: 36.7855
 longitude: 3.0583
+snippet: Indigenous arts in a 1570 Ottoman palace
 tags:
 - things_to_do
 - museum

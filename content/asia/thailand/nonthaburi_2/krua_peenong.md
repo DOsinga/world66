@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 13.853
 longitude: 100.5185
+snippet: Thai-Chinese cooking on Rattanathibet Road, open late
 tags:
 - eating_out
 title: Krua Peenong

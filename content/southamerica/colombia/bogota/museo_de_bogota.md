@@ -2,6 +2,7 @@
 address: Calle 26 No 6-07
 latitude: 4.6153
 longitude: -74.0709
+snippet: "City museum tracing Bogota's urban history downtown"
 tags:
 - things_to_do
 - museum

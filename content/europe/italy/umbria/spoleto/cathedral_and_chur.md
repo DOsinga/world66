@@ -1,10 +1,12 @@
 ---
-title: "Cathedral and Churches"
-type: poi
 category: Sight
-snippet: "Mosaic-faced Duomo with Filippo Lippi's final frescoes inside"
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.7312
 longitude: 12.7387
+snippet: Mosaic-faced Duomo with Filippo Lippi's final frescoes inside
+title: Cathedral and Churches
+type: poi
 ---
 
 In spite of its fine Roman remains, Spoleto will strike you as a largely medieval town. The cathedral (Duomo di Santa Maria Assunta) anchors the lower end of Piazza del Duomo with its glittering mosaic facade. Inside, the apse holds Filippo Lippi's final frescoes — he died in Spoleto in 1469 and is buried here.

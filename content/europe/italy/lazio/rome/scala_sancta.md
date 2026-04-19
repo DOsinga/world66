@@ -1,6 +1,7 @@
 ---
 latitude: 41.886
 longitude: 12.5076
+snippet: "Holy staircase Christ reportedly climbed before Pilate"
 tags:
 - things_to_do
 - church

@@ -16,6 +16,7 @@ tags:
 - landmark
 title: Palermo Cathedral
 type: poi
+snippet: "Norman cathedral layered with eight centuries of architectural additions"
 ---
 
 A vast Norman cathedral begun in 1185, with centuries of additions that make it one of the most architecturally complex buildings in Sicily. The exterior — particularly the apses and the south portico — is more rewarding than the neoclassical interior, which was heavily altered in the 18th century. The treasury contains the crown of Constance of Aragon and the royal tombs hold the remains of Roger II, Frederick II, and Henry VI.

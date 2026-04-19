@@ -2,6 +2,7 @@
 title: "Cuba Street"
 type: poi
 tags: [things_to_do]
+snippet: "Wellington's bohemian heart of independent shops and cafes"
 latitude: -41.2942
 longitude: 174.7734
 ---

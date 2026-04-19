@@ -1,6 +1,9 @@
 ---
 title: "Mama"
 type: poi
+tags:
+- nightlife
+snippet: "Small, sweaty late-night techno club on the Petrograd Side"
 address: "Malaya Monetnaya ul. 3B"
 latitude: 59.9620
 longitude: 30.3175

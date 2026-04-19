@@ -1,7 +1,10 @@
 ---
 title: "Mamayev Kurgan"
 type: poi
-category: "Sight"
+tags:
+- things_to_do
+- landmark
+snippet: "Monumental WWII memorial topped by The Motherland Calls statue"
 latitude: 48.7422
 longitude: 44.5317
 ---

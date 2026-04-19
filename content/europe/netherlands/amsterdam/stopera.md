@@ -4,6 +4,7 @@ category: Architecture
 latitude: 52.369102
 longitude: 4.900853
 neighbourhood: Waterlooplein
+snippet: "Combined city hall and opera house on the Amstel"
 tags:
 - things_to_do
 - waterlooplein

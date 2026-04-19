@@ -1,6 +1,7 @@
 ---
 latitude: 49.456389
 longitude: 11.070556
+snippet: Cosy brewpub with house-brewed Kellerbier on Bergstrasse
 tags:
 - bars_and_cafes
 - bar

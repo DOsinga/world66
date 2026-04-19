@@ -1,6 +1,7 @@
 ---
 latitude: -6.1754
 longitude: 106.8272
+snippet: Gold-tipped 132-metre obelisk marking Indonesian independence
 tags:
 - things_to_do
 - museum

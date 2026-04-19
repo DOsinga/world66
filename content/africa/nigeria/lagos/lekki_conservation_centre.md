@@ -2,6 +2,7 @@
 address: Lekki-Epe Expressway, Lagos
 latitude: 6.4312
 longitude: 3.5448
+snippet: "Africa's longest canopy walkway over protected swamp forest"
 tags:
 - things_to_do
 - sight

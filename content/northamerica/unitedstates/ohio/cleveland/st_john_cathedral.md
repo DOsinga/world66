@@ -1,7 +1,4 @@
 ---
-title: St. John the Evangelist Cathedral
-type: poi
-snippet: "Cleveland's Gothic cathedral with fine stained glass and rich interior"
 address: 1007 Superior Ave.
 latitude: 41.499889
 longitude: -81.686264
@@ -9,6 +6,9 @@ phone: (216) 771-6666
 tags:
 - things_to_do
 - church
+- neighbourhood
+title: St. John the Evangelist Cathedral
+type: poi
 url: www.dioceseofcleveland.org
 ---
 

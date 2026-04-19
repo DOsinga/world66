@@ -1,6 +1,7 @@
 ---
 latitude: 19.438
 longitude: 72.772
+snippet: Quiet, uncrowded beach near Mumbai with beachside shacks
 tags:
 - beaches
 - beach

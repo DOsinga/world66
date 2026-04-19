@@ -1,6 +1,7 @@
 ---
-email: info@museumstoomtram.nl
-phone: +31 (0) 22 9214862
+latitude: 52.6424
+longitude: 5.0594
+snippet: Steam train and boat loop through three historic towns
 tags:
 - day_trips
 title: The Historic Triangle
@@ -8,15 +9,10 @@ type: poi
 url: www.museumstoomtram.nl
 ---
 
-**The Historic Triangle** is a popular day trip for small groups and families. Upon arrival in the tiny town of Hoorn, visitors will notice a modern train station that exits to a pedestrian overpass (follow the signs). This will take you to an old-fashioned train station where visitors will board a steam train to the town of Medemblik. During the 65-minute ride the train passed modern white windmills and kids waving from backyards. After spending roughly 50 minutes in Medemblik and collecting cutesy postcards, visitors will board a 1920s-era boat to Enkhuizen. Here, visitors can explore Enkhuizen Zuiderzee Museum -- an open-air folk museum, or relax in a field or under a tree. The Historic Triangle trip is offered April-December. *www.zuiderzeemuseum.nl**, **www.vvvhoorn.nl*
+The Historic Triangle is a popular day trip that links three old Zuiderzee towns -- Hoorn, Medemblik, and Enkhuizen -- by heritage steam train and vintage boat. The loop takes most of a day and is especially good for families.
 
-**Contributors**
-May 12, 2008
+From Amsterdam, take the regular train to Hoorn (about 35 minutes). At Hoorn, follow the signs from the modern station to the old-fashioned steam railway station, where you board a heritage train to Medemblik. The 65-minute ride passes through flat polder landscape with windmills and farmland. Spend an hour wandering Medemblik's small harbour and castle before boarding a 1920s-era boat for the crossing to Enkhuizen.
 
+In Enkhuizen, the Zuiderzee Museum is the highlight -- an open-air folk museum reconstructing life in the old fishing villages before the Zuiderzee was closed off by the Afsluitdijk in 1932. From Enkhuizen, the regular train takes you back to Amsterdam in about an hour.
 
-
-tel: +31 (0) 22 9214862
-
-url: [www.museumstoomtram.nl](http://www.museumstoomtram.nl)
-
-email: info@museumstoomtram.nl
+The Historic Triangle runs from April to October. Book tickets in advance during school holidays.

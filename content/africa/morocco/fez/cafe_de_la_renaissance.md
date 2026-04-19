@@ -1,6 +1,8 @@
 ---
+address: Place Mohammed V, Ville Nouvelle, Fez
 latitude: 34.0413
 longitude: -5.0019
+snippet: Faded French Legion cafe overlooking Place Mohammed V
 tags:
 - bars_and_cafes
 - cafe

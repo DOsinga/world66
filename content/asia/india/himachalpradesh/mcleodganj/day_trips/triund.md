@@ -1,26 +1,17 @@
 ---
-title: "Triund"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 32.2741
+longitude: 76.3529
+snippet: Popular ridge-top trek with sweeping Dhauladhar views
+tags:
+- day_trips
+- hiking
+- nature
+title: Triund
 type: poi
-address: "L 264,model town,jalandhar,punjab(india) 144002"
-email: "siddharth,walia@gmail.com"
-phone: "+919501280682"
 ---
 
-18 km from Dharamshala, Triund lies at the feet of the perpetually snow
-clad Dhauladhar at the height of 2975 m. The snow line starts at Ilaqa
-(3350 mtr), 5km from Triund. It is a popular picnic and trekking spot.
-The tracks from Rawa, Dal Lake, Dharamkot and Bhagsunag meet at a ridge
-known as Galu temple (2130 mtr) which has a small shrine and water
-point. After the snow nullah the trek rises abruptly waving through 22
-curves making the ascent tiring and difficult. On the way one can spot
-many birds and wild animals.IT will make an perfect day trip to nature offering great views.
+Triund sits at 2,975 m at the foot of the Dhauladhar range, about 18 km from Dharamshala. On a clear day the views of the snow-capped peaks above and the Kangra Valley below are hard to beat.
 
-
-
-
-
-tel: +919501280682
-
-address: L 264,model town,jalandhar,punjab(india) 144002
-
-email: siddharth,walia@gmail.com
+The trail begins at Galu temple (2,130 m), where routes from Dharamkot, Dal Lake, and Bhagsunag converge. Above the snow nullah the path climbs steeply through 22 switchbacks before opening onto the broad, grassy ridge. The trek takes three to four hours at a comfortable pace. Camping on the ridge is permitted and a handful of dhabas serve tea and basic food. The snow line begins at Ilaqa (3,350 m), 5 km beyond Triund, if you want to push further.

@@ -5,6 +5,7 @@ story: One morning in December 2000, the traffic light outside city hall showed 
   woman instead of the usual male figure. Nobody knew who put her there. The city
   council decided she could stay, and Sofie — as she came to be known — has since
   been installed at every intersection between the station and the city centre.
+snippet: The Netherlands' only female traffic light figure
 tags:
 - things_to_do
 - landmark

@@ -1,7 +1,9 @@
 ---
 title: "Four Sisters"
 type: poi
-tags: [eating_out, poi]
+tags:
+  - eating_out
+snippet: "Beloved Intha restaurant with pay-what-you-want hospitality"
 latitude: 20.6320
 longitude: 96.9010
 ---

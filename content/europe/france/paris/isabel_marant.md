@@ -1,15 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.854544
 longitude: 2.336977
+snippet: Parisian designer known for effortless Bohemian style and easy-to-wear pieces
 tags:
 - shopping
 title: Isabel Marant
 type: poi
 ---
 
-Adorable clothes and accessories sold by incompetent, rude and utterly unhelpful staff in Saint Germain. If you have to buy the clothes, go to Le Bon Marche where sales assistants are more intelligent.
-
-**Contributors**
-April 29, 2006
-
-type: Speciality shops
+Isabel Marant's Saint-Germain boutique showcases the Parisian designer's signature mix of slouchy knitwear, printed dresses, and relaxed tailoring. The clothes are expensive but have a wearable quality that distinguishes them from more precious French fashion. Her Étoile line, available at larger department stores, offers the same aesthetic at lower prices.

@@ -4,7 +4,7 @@ type: poi
 tags:
   - things_to_do
   - museum
-  - railway
+snippet: "Colonial-era steam locomotives with scenic mountain rides"
 opening_hours: '08:00-17:00'
 latitude: -7.2639
 longitude: 110.4059

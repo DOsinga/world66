@@ -1,7 +1,10 @@
 ---
-category: Sight
 latitude: 47.0873
 longitude: 13.133
+snippet: Cliff-side thermal baths beside Bad Gastein's waterfall
+tags:
+- things_to_do
+- landmark
 title: Felsentherme Bad Gastein
 type: poi
 ---

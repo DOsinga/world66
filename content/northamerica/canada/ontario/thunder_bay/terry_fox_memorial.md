@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Terry Fox Memorial
 type: poi
+snippet: "Bronze statue where the Marathon of Hope ended"
 ---
 
 At the eastern edge of the city, on the Trans-Canada Highway where it meets Lake Superior, stands a bronze statue of Terry Fox mid-stride — the posture of a man running on one leg with his characteristic uneven gait. This is the spot where Fox was forced to stop his Marathon of Hope on 1 September 1980, after 143 days and 5,373 kilometres, when his cancer had spread to his lungs. He died the following June.

@@ -3,6 +3,7 @@ address: Piazza Madonna degli Aldobrandini 6, 50123 Florence
 latitude: 43.7752
 longitude: 11.2528
 phone: +39 055 2388602
+snippet: Michelangelo's tomb sculptures and a chapel dripping in marble
 tags:
 - things_to_do
 - church

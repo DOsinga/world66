@@ -1,8 +1,11 @@
 ---
 address: Hallgrímstorg 1
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 64.1417
 longitude: -21.9266
 opening_hours: 09:00–21:00 (summer), 09:00–17:00 (winter)
+snippet: Iconic basalt-inspired church with panoramic tower views
 tags:
 - things_to_do
 - landmark

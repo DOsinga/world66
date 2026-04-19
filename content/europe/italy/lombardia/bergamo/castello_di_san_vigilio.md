@@ -2,6 +2,7 @@
 address: San Vigilio, Bergamo
 latitude: 45.7108
 longitude: 9.6532
+snippet: Hilltop castle ruins with panoramic views via funicular
 tags:
 - things_to_do
 - palace

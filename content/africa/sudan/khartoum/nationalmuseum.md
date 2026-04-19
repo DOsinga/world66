@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 15.6061
 longitude: 32.5083
+snippet: Kushite antiquities and rescued Egyptian temples in the garden
 tags:
 - things_to_do
 - museum

@@ -1,7 +1,10 @@
 ---
 address: Place Saint-André
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.193
 longitude: 5.7283
+snippet: Flamboyant Gothic former parliament with quirky carved details
 tags:
 - things_to_do
 - landmark

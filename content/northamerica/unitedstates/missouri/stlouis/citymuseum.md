@@ -3,6 +3,7 @@ address: 701 N. 15th Street, St. Louis, MO
 latitude: 38.6332
 longitude: -90.2002
 opening_hours: Wed–Fri 9am–5pm, Sat–Sun 10am–5pm
+snippet: Massive salvage-art playground in a former shoe factory
 tags:
 - things_to_do
 - museum

@@ -1,8 +1,11 @@
 ---
 address: 350 Place Royale, Montréal, QC H2Y 3Y5
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.502596
 longitude: -73.55418
 phone: 514 872-9150
+snippet: Walk among the actual foundations of 17th-century Montreal
 tags:
 - things_to_do
 - museum

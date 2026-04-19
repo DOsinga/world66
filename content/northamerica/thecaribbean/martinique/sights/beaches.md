@@ -1,11 +1,13 @@
 ---
-title: Beaches
-type: poi
-tags:
-- beaches
-snippet: Secluded white and black sand beaches worth the walk
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 14.6937
 longitude: -61.0618
+snippet: Secluded white and black sand beaches worth the walk
+tags:
+- beaches
+title: Beaches
+type: poi
 ---
 
 Martinique has two standout beaches for anyone willing to get slightly off the road.

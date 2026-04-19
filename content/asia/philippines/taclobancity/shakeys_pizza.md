@@ -4,6 +4,7 @@ cuisine: American
 latitude: 11.2454
 longitude: 125.0013
 price: PHP 150-500
+snippet: Reliable American-style pizza chain on Zamora Street
 tags:
 - eating_out
 title: Shakey's Pizza

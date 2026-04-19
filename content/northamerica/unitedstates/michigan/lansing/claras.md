@@ -1,11 +1,13 @@
 ---
 title: "Clara's"
 type: poi
-latitude: 42.7362
+latitude: 42.7325
 longitude: -84.5394
-address: "637 E. Michigan Ave."
-phone: "(517) 372-7120"
-url: "www.claras.com"
+address: "637 E. Michigan Ave., Lansing, MI"
+snippet: American comfort food in a beautifully restored 1903 rail station
+tags:
+- things_to_do
+- restaurant
 ---
 
-Located in the old 1903 Michigan Central Railroad Station, Clara's serves American food in a Victorian atmosphere. The building alone is worth the visit.
+Clara's occupies the beautifully restored 1903 Michigan Central Railroad Station on East Michigan Avenue. The high ceilings, stained glass, and original woodwork make it one of the more atmospheric places to eat in Lansing. The menu is straightforward American — burgers, steaks, pasta — and the portions are generous. Even if you're not hungry, the building is worth a look.

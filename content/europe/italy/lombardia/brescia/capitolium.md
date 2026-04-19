@@ -1,5 +1,7 @@
 ---
 address: Via dei Musei 55
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.5394
 longitude: 10.2253
 snippet: Best-preserved Roman temple complex in northern Italy

@@ -1,7 +1,8 @@
 ---
 title: "Satok Weekend Market"
 type: poi
-tags: [things_to_do]
+snippet: "Lively local market for jungle produce and street food"
+tags: [things_to_do, market]
 latitude: 1.5531
 longitude: 110.3393
 ---

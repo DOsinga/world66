@@ -2,6 +2,7 @@
 address: Vosselmanstraat 299
 latitude: 52.21
 longitude: 5.971
+snippet: Combined museum, library and cultural centre
 tags:
 - things_to_do
 - museum

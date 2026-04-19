@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.1768
 longitude: -115.5698
 snippet: Rooftop patio pub with mountain views and Black Angus burgers

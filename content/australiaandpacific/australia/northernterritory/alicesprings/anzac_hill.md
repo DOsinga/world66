@@ -1,6 +1,7 @@
 ---
 latitude: -23.6992
 longitude: 133.8789
+snippet: Panoramic sunset views over Alice Springs and the MacDonnells
 tags:
 - things_to_do
 - sight

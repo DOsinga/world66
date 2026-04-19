@@ -1,14 +1,12 @@
 ---
-category: Architecture
 latitude: 28.617112
 longitude: 77.20965
+snippet: "Lutyens' grand circular seat of Indian democracy"
+tags:
+- things_to_do
+- landmark
 title: Parliament House
 type: poi
 ---
 
-A marvellous piece of architecture which can be admired only from outside on account of security restrictions. Close to Tashtrapathi Bhavan, it is a domed almost circular structure almost a kilometer in circumferance, and was designed by the famed architect Lutyens. It is the seat of the Indian Parliament and during the sessions of Parliament there is a flurry of activity in and around the structure.
-
-**Contributors**
-January 31, 2006
-
-type: Hotspots
+A striking piece of Lutyens architecture — the circular colonnaded building near Rashtrapati Bhavan that houses India's parliament. The structure is nearly a kilometre in circumference and topped with a broad dome. Security restrictions mean you can only admire it from outside the perimeter, but the scale is impressive even from a distance, especially when parliament is in session and the area hums with activity.

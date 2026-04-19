@@ -2,6 +2,7 @@
 address: Corso Vannucci 29
 latitude: 43.11065
 longitude: 12.38857
+snippet: Lively aperitivo bar on Corso Vannucci
 tags:
 - bars_and_cafes
 - bar

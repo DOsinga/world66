@@ -2,6 +2,7 @@
 title: "Golf Club Crans-sur-Sierre"
 type: poi
 tags: [things_to_do, sport, golf]
+snippet: "Alpine tournament venue hosting the European Masters since 1939"
 latitude: 46.3161
 longitude: 7.4742
 ---

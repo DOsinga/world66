@@ -1,7 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 57.4306
 longitude: -2.3918
 phone: 00 44 (0)1651 891266
+snippet: Five-towered baronial castle spanning five centuries
 story: Five Scottish families — the Prestons, Meldrums, Setons, Gordons, and Leith-Hays
   — each added one of Fyvie Castle's five towers over five centuries. The castle's
   history spans from the 13th century to the 20th, and each tower reflects the tastes

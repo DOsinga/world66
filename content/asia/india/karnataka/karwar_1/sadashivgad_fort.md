@@ -1,8 +1,10 @@
 ---
 latitude: 14.8378
 longitude: 74.1197
+snippet: Maratha hilltop fort overlooking the Kali River mouth
 tags:
 - things_to_do
+- sight
 title: Sadashivgad Fort
 type: poi
 ---

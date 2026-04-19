@@ -1,12 +1,16 @@
 ---
-address: Schegelstraße 26/27
-opening_hours: 'only during exhibitions: We-Sa 2pm -6pm'
+address: Schlegelstraße 26/27
+latitude: 52.5328
+longitude: 13.3828
+opening_hours: "only during exhibitions: Wed-Sat 2pm-6pm"
+snippet: Contemporary art gallery with club-night exhibition openings
 tags:
-- shopping
+- things_to_do
+- art
 title: Loop
 type: poi
 ---
 
-Young up-to-date contemporary art from Berlin. Exhibition openings -rounded off with hot rhythms and club evenings - even tempt people who’re not into art to come out of their shell.
+A contemporary art space in Berlin-Mitte showing young, up-to-date work from the city's art scene. Exhibition openings double as club nights with DJs, drawing people who might not otherwise set foot in a gallery. Open only during exhibitions, Wednesday through Saturday afternoons.
 
- Connections: S Nordbahnhof, U Oranienburger Tor
+Nearest transit: S Nordbahnhof, U Oranienburger Tor.

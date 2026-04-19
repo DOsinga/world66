@@ -3,6 +3,7 @@ address: Rua Jangadeiros, 14 - Ipanema
 latitude: -22.984209
 longitude: -43.196809
 phone: 2513-3044
+snippet: Cosy Ipanema Irish pub with proper breakfasts and sports TV
 tags:
 - bars_and_cafes
 - bar

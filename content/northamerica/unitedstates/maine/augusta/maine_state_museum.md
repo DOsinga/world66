@@ -2,6 +2,7 @@
 address: 230 State Street, Augusta, ME 04330
 latitude: 44.3074
 longitude: -69.7815
+snippet: "Maine history museum with mill models and industry dioramas"
 tags:
 - things_to_do
 - museum

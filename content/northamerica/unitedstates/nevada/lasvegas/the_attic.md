@@ -1,6 +1,9 @@
 ---
 address: 1018 South Main Street
+latitude: 36.1580
+longitude: -115.1536
 phone: 702-388-4088
+snippet: "Massive vintage clothing emporium on Main Street"
 tags:
 - shopping
 - shop

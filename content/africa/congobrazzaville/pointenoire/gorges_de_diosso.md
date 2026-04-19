@@ -1,6 +1,7 @@
 ---
 latitude: -4.6253
 longitude: 11.8147
+snippet: Dramatic red laterite ravines carved into the coastal plateau
 tags:
 - things_to_do
 - nature

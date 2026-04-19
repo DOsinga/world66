@@ -1,6 +1,7 @@
 ---
 latitude: 55.6798
 longitude: 12.5913
+snippet: "Colourful 17th-century harbour canal and Copenhagen's postcard view"
 tags:
 - things_to_do
 - landmark

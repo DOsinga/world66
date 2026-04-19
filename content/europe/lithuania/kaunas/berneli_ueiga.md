@@ -3,6 +3,7 @@ address: Kaunas-Vilnius Highway
 latitude: 54.943
 longitude: 24.016
 phone: +370-37 44 07 70
+snippet: Sprawling Lithuanian restaurant complex with sculpture park
 tags:
 - eating_out
 title: Berneliu Uzeiga (Bajorkiemis)

@@ -1,13 +1,16 @@
 ---
 address: 4 Yawkey Way, Boston, MA 02215
+done:
+  poi_cleanup: '2026-04-19'
 email: tours@redsox.com
 latitude: 42.3467
 longitude: -71.0972
 phone: 617-226-6666
+snippet: America's oldest ballpark, home of the Red Sox
 tags:
 - things_to_do
-- park
-- square
+- sight
+- sports
 title: Fenway Park
 type: poi
 url: boston.redsox.mlb.com

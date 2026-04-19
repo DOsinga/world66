@@ -1,7 +1,6 @@
 ---
 latitude: 42.433912
 longitude: -8.647021
-snippet: Galician Plateresque façade commissioned by seafarers guild
 tags:
 - things_to_do
 - landmark

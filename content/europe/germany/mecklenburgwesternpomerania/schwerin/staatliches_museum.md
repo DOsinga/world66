@@ -1,6 +1,7 @@
 ---
 latitude: 53.626
 longitude: 11.4147
+snippet: Northern Germany's finest collection of Dutch and Flemish old masters
 tags:
 - things_to_do
 - museum

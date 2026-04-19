@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
+image: mexicocity.jpg
+image_attribution: Carlos Valenzuela
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Av._de_la_Republica,_Mexico_City_2020.jpg
 latitude: 19.4326
 longitude: -99.1332
 score: 0.69
 title: Mexico City
 type: location
-image: mexicocity.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Av._de_la_Republica,_Mexico_City_2020.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Carlos Valenzuela
 ---
 
 Mexico City sprawls across the floor of a high mountain valley at 2,240 metres, the political and cultural capital of Mexico and one of the largest urban areas on the planet. Roughly 22 million people live in the metropolitan area, on the same ground where the Aztec capital of Tenochtitlan once rose out of a lake. The Spanish razed the Aztec city in 1521 and built their colonial capital directly on top of it, and you can still see both layers from the central square.

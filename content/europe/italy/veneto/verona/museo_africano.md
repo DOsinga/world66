@@ -4,6 +4,7 @@ latitude: 45.439
 longitude: 10.9993
 opening_hours: Tue–Sun 9am–12pm, 3pm–6pm
 phone: 045 596 238
+snippet: Comboni missionary museum with sub-Saharan African artefacts
 tags:
 - things_to_do
 - museum

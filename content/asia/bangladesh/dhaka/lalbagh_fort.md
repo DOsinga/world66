@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 23.719
 longitude: 90.3884
+snippet: Unfinished 17th-century Mughal fort in old Dhaka
 tags:
 - things_to_do
 title: Lalbagh Fort

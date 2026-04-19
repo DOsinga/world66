@@ -1,12 +1,15 @@
 ---
 address: Sternstraße, 06108 Halle (Saale)
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.4826
 longitude: 11.9727
 phone: +49 345 294 3027
+snippet: Historic castle tavern with hearty German classics
 tags:
 - eating_out
 title: Gaststätte Zum Ritter
 type: poi
 ---
 
-A historical castle tavern right in the city centre, serving solid German food in an atmospheric old setting.
+A historical castle tavern right in the city centre, serving solid German food in an atmospheric old setting. The building dates back centuries and the interior keeps that vaulted, stone-walled character. Expect classics like Schnitzel, Sauerbraten, and local beers on tap.

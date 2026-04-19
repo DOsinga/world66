@@ -1,6 +1,7 @@
 ---
 latitude: -24.1854
 longitude: -65.2994
+snippet: Colonial-era seat of government with provincial history museum
 tags:
 - things_to_do
 - architecture

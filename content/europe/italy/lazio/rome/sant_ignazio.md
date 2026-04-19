@@ -1,7 +1,10 @@
 ---
-address: Piazza di Sant'Ignazio
+address: Piazza di Sant'Ignazio, Rome
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8989
 longitude: 12.4798
+snippet: Baroque church with a famous trompe l'oeil dome
 tags:
 - things_to_do
 - church

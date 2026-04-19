@@ -1,6 +1,7 @@
 ---
 latitude: 25.2858
 longitude: 51.5462
+snippet: "Jean Nouvel's desert-rose museum of Qatar's history"
 tags:
 - things_to_do
 - museum

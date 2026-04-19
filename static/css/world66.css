@@ -1096,13 +1096,20 @@ img { max-width: 100%; height: auto; }
 }
 .map-label--highlight .map-dot { background: var(--accent); width: 10px; height: 10px; }
 
-/* Transparent hit-area wrapper for dot-only markers */
+/* Transparent hit-area wrapper for dot-only markers.
+   top/left offset centers the 16px box on the [0,0] icon anchor point. */
 .map-dot-hit {
   position: absolute;
+  top: -8px;
+  left: -8px;
   width: 16px;
   height: 16px;
-  transform: translate(-50%, -50%);
   cursor: pointer;
+}
+/* Re-anchor the dot to the centre of the hit box */
+.map-dot-hit .map-dot {
+  top: 50%;
+  left: 50%;
 }
 
 /* Invisible container for standalone dot markers */

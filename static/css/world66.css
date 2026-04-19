@@ -1037,12 +1037,12 @@ img { max-width: 100%; height: auto; }
 .leaflet-container .map-label a,
 .leaflet-container .map-label span {
   display: inline-block;
-  transform: translate(-50%, 3px);
+  transform: translate(-50%, 1px);
   font-family: var(--display-font);
   font-variation-settings: "opsz" 144;
   font-style: normal;
   font-weight: 500;
-  font-size: clamp(11px, 1.2vw, 17px);
+  font-size: clamp(9px, 0.9vw, 13px);
   color: #000;
   text-decoration: none;
   text-align: center;

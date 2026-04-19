@@ -240,6 +240,7 @@ function initLocationMap(elementId, markers, options) {
                 html: '<i class="map-dot' + (highlight ? ' map-dot--highlight' : '') + '"></i>' + inner,
                 iconSize: [0, 0], iconAnchor: [0, 0],
             }),
+            zIndexOffset: 1000,
         }).addTo(group);
     }
 

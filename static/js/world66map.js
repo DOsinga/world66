@@ -207,18 +207,16 @@ function initLocationMap(elementId, markers, options) {
     var _allMarkers = markers.slice();
     var _maxVisible = Infinity; // show all dots
 
-    function _addMarkerToGroup(m, isSingle, dim) {
+    function _addMarkerToGroup(m, isSingle) {
         var highlight = !!m.highlight;
-        var cls = isSingle && highlight ? ' map-label--highlight'
-                : dim                  ? ' map-label--dim'
-                :                        '';
+        var cls = isSingle && highlight ? ' map-label--highlight' : '';
         var inner = m.url
             ? '<a href="' + m.url + '">' + (m.name || '') + '</a>'
             : '<span>' + (m.name || '') + '</span>';
         L.marker([m.lat, m.lng], {
             icon: L.divIcon({
                 className: 'map-label' + cls,
-                html: '<i class="map-dot' + (highlight && !dim ? ' map-dot--highlight' : '') + '"></i>' + inner,
+                html: '<i class="map-dot' + (highlight ? ' map-dot--highlight' : '') + '"></i>' + inner,
                 iconSize: [0, 0], iconAnchor: [0, 0],
             }),
         }).addTo(group);
@@ -254,13 +252,9 @@ function initLocationMap(elementId, markers, options) {
         });
         group.clearLayers();
         var isSingle = pool.length === 1;
-        var BLACK_LABELS = 10;
-        // Top 10: always show with black label
-        var black = inView.slice(0, BLACK_LABELS);
-        // Rest: show with grey label, deconflicted to avoid total clutter
-        var grey = _deconflict(inView.slice(BLACK_LABELS), 60);
-        black.forEach(function(m) { _addMarkerToGroup(m, isSingle, false); });
-        grey.forEach(function(m)  { _addMarkerToGroup(m, isSingle, true);  });
+        // Deconflict top-down, stop at 10 placed labels
+        var visible = _deconflict(inView, 10);
+        visible.forEach(function(m) { _addMarkerToGroup(m, isSingle, false); });
     }
 
     function _fitToGroup(grp, mkrs, opts) {

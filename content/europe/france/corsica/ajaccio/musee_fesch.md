@@ -2,6 +2,7 @@
 address: 50-52 Rue du Cardinal Fesch, Ajaccio
 latitude: 41.9196
 longitude: 8.7343
+snippet: Napoleon's uncle's superb Italian painting collection
 tags:
 - things_to_do
 - museum

@@ -1,12 +1,14 @@
 ---
-title: La Diagonal
-type: poi
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 41.3927
+longitude: 2.154
+snippet: Grand boulevard cutting diagonally across Barcelona’s grid
 tags:
 - things_to_do
 - sights
-snippet: "Grand boulevard cutting diagonally across Barcelona’s grid"
-latitude: 41.3927
-longitude: 2.1540
+title: La Diagonal
+type: poi
 ---
 
 Avinguda Diagonal slices across Barcelona’s Eixample grid at an angle, running 11 kilometers from the working-class neighborhoods near the Besòs river to the wealthy Pedralbes district in the west. It’s one of the city’s major arteries and a useful orientation landmark.

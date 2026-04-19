@@ -1,30 +1,16 @@
 ---
-title: "Orchid garden"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 1.3135
+longitude: 103.816
+snippet: Thousands of orchid species inside the Botanic Gardens
+tags:
+- things_to_do
+- nature
+title: National Orchid Garden
 type: poi
-address: "Cluny Road, Singapore 259569"
-phone: "1-800-6-471-7300"
-type: "Mosques"
-url: "www.nparks.gov.sg"
-latitude: 1.312
-longitude: 103.817109
 ---
 
-The botanic garden is great,
-but the orchid garden within it is fabulous!
+The National Orchid Garden sits on the highest hill within Singapore's UNESCO-listed Botanic Gardens and houses over 1,000 species and 2,000 hybrids, making it one of the largest orchid displays in the world. The collection is arranged across themed sections including the Cool House, a climate-controlled glass enclosure that recreates tropical highland conditions, and the Tan Hoon Siang Mist House with its collection of ferns and orchids draped over driftwood.
 
-Did you know you can also eat orchids?
-
-**Contributors**
-April 30, 2005
-
-type: Mosques
-
-
-
-
-
-url: [www.nparks.gov.sg](http://www.nparks.gov.sg/parks/sbg/par-sbg.shtml)
-
-address: Cluny Road, Singapore 259569
-
-tel: 1-800-6-471-7300
+Singapore has a tradition of naming orchid hybrids after visiting dignitaries -- keep an eye out for the VIP Orchid Garden section where you can spot varieties named after everyone from Nelson Mandela to Margaret Thatcher. The garden charges a small admission fee (the rest of the Botanic Gardens is free) but it is well worth it.

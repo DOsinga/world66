@@ -205,7 +205,7 @@ function initLocationMap(elementId, markers, options) {
 
     // All markers available — starts as full pool; caller may expand via _setMarkers
     var _allMarkers = markers.slice();
-    var _maxVisible = 25; // max dots to show
+    var _maxVisible = Infinity; // show all dots
 
     function _addMarkerToGroup(m, isSingle) {
         var highlight = !!m.highlight;
@@ -256,7 +256,7 @@ function initLocationMap(elementId, markers, options) {
             return hp || (b.score || 0) - (a.score || 0);
         });
         var isSingle = pool.length === 1;
-        var visible = isSingle ? inView : inView.slice(0, maxCount);
+        var visible = inView;
         group.clearLayers();
         visible.forEach(function(m) { _addMarkerToGroup(m, isSingle); });
     }
@@ -278,7 +278,7 @@ function initLocationMap(elementId, markers, options) {
     (function() {
         var sorted = markers.slice().sort(function(a, b) { return (b.score || 0) - (a.score || 0); });
         // Temporarily populate group with top markers so fitBounds works
-        var forFit = sorted.slice(0, Math.min(25, sorted.length));
+        var forFit = sorted;
         forFit.forEach(function(m) { _addMarkerToGroup(m); });
         _fitToGroup(group, forFit, options);
         // Re-render with deconfliction once the layout has settled

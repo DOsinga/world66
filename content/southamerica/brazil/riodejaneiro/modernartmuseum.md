@@ -1,12 +1,14 @@
 ---
 address: Avenida Infante Dom Henrique, 85 - Aterro do Flamengo
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.914
 longitude: -43.172
 phone: '2102188'
+snippet: Landmark modernist building with Brazilian and international modern art
 tags:
 - things_to_do
 - museum
-- club
 title: Museum of Modern Art (MAM)
 type: poi
 ---

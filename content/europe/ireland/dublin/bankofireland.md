@@ -1,22 +1,17 @@
 ---
-category: Sight
-latitude: 53.389943
-longitude: -6.298567
+address: 2 College Green, Dublin 2
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 53.3445
+longitude: -6.2592
+snippet: Former Irish Parliament now housing a grand banking hall
+tags:
+- things_to_do
+- sight
 title: Bank of Ireland
 type: poi
 ---
 
-This centre of 20th century commerce is one of the most striking of Dublin's 18th century buildings. Built in 1729 to house the Irish Parliament, it became redundant when the British and Irish Parliaments were united in London, when the Irish Parliament voted itself our of existence.
+One of Dublin's most striking 18th-century buildings, the Bank of Ireland on College Green was originally built in 1729 to house the Irish Parliament. It became redundant in 1800 when the Act of Union merged the Irish and British parliaments in London, making it one of the few parliament buildings in the world to vote itself out of existence.
 
-
- 
- It would be a shame to leave our noble city without spending a few moments in one of Europe's most unique chambers, the Irish House of Lords where the Irish Parliament once sat in this magnificent chamber with woodwork in Irish oak, you can see the 18th century tapestries, and a sparkling Irish crystal chandalier of 1233 pieces dating from 1765.
-
-
- 
-
-adress: 2 College Green
-
-tel: 6776801
-
-admission: £1.00 - £1.50
+The highlight is the former Irish House of Lords, which survived the conversion to a bank largely intact. The chamber still has its original Irish oak woodwork, 18th-century tapestries depicting the Battle of the Boyne and the Siege of Derry, and a sparkling 1,233-piece Irish crystal chandelier dating from 1765. Free guided tours are available on selected days. The former House of Commons was less fortunate -- it was gutted and remodelled into the main banking hall.

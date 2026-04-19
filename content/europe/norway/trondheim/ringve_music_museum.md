@@ -4,6 +4,7 @@ email: firmapost@ringve.museum.no
 latitude: 63.4475
 longitude: 10.4535
 phone: +47 73 87 02 80
+snippet: National music museum where guides play the instruments
 tags:
 - things_to_do
 - museum

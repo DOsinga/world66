@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.3704
 longitude: -8.4019
+snippet: Galician art and early Picasso in a converted convent
 tags:
 - things_to_do
 - museum

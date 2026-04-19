@@ -205,7 +205,7 @@ function initLocationMap(elementId, markers, options) {
 
     // All markers available — starts as full pool; caller may expand via _setMarkers
     var _allMarkers = markers.slice();
-    var _maxVisible = Infinity; // show all dots
+
 
     function _addDotMarker(m) {
         var highlight = !!m.highlight;
@@ -301,12 +301,12 @@ function initLocationMap(elementId, markers, options) {
         var sorted = markers.slice().sort(function(a, b) { return (b.score || 0) - (a.score || 0); });
         // Temporarily populate group with top markers so fitBounds works
         var forFit = sorted;
-        forFit.forEach(function(m) { _addMarkerToGroup(m); });
+        forFit.forEach(function(m) { _addDotMarker(m); });
         _fitToGroup(group, forFit, options);
         // Re-render with deconfliction once the layout has settled
         requestAnimationFrame(function() {
             requestAnimationFrame(function() {
-                _renderMarkers(_allMarkers, _maxVisible);
+                _renderMarkers(_allMarkers);
             });
         });
     })();

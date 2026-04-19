@@ -2,10 +2,13 @@
 address: Sandycove Point, Dún Laoghaire, Co. Dublin
 admission: €8 adults, €6 concessions
 category: Sight
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.289345
 longitude: -6.105734
 opening_hours: Apr–Oct daily 10:00–18:00; Nov–Mar Sat–Sun 10:00–17:00
 phone: +353 1 280 9265
+snippet: Martello tower where Ulysses opens, now a Joyce museum
 tags:
 - James Joyce
 - Literature

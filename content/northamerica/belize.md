@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-20'
+  poi_cleanup: '2026-04-19'
 image: belize.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132646954@N02">dronepicr</a>
 image_license: CC BY 2.0

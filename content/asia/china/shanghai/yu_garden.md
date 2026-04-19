@@ -1,10 +1,7 @@
 ---
 title: "Yu Garden"
 type: poi
-snippet: "Exquisite Ming dynasty garden with pavilions and rockeries"
-tags:
-- things_to_do
-- sight
+category: "Sight"
 neighbourhood: "Old Town and Yuyuan Bazaar"
 address: "218 Anren Street, Huangpu District"
 opening_hours: "8:30 am – 5 pm, daily"

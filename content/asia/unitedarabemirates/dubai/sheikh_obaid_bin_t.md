@@ -1,15 +1,41 @@
 ---
+address: Al Shindagha Area, near Sheikh Saeed Al Maktoum House
+category: Sight
+opening_hours: 'Saturday to Thursday : 08:30 am -20:30 pm,  Friday: 14:30-20:30'
+phone: 04-3933240
 title: Sheikh Obaid Bin Thani House
 type: poi
-snippet: "Restored 1916 coral-stone house turned heritage museum"
-tags:
-- things_to_do
-- museum
-address: "Al Shindagha area, near Sheikh Saeed Al Maktoum House"
-latitude: 25.2697
-longitude: 55.2913
 ---
 
-Built in 1916 in the historic Shindagha waterfront district, this 1,250-square-metre house offers a glimpse of early 20th-century Emirati domestic life. The two-storey structure is built from coral stone and mud in the traditional Gulf style, with carved wooden doors, latticed windows, and decorated facades that show the craftsmanship of the period.
+Located
+in the Shindagha area near Sheikh Saeed Al Maktoum House, it was built
+in 1916. The 1250 sq.m two storey house is made of stone and mud with
+traditional style windows, doors and facades. The house has been
+recently converted to a museum.
 
-Now converted into a museum, the house sits alongside several other heritage buildings in the Shindagha area, including the nearby Sheikh Saeed Al Maktoum House. Together they form a walkable cluster that gives a sense of what Dubai looked like before the skyscrapers. Entry is free.
+Visiting Hours
+
+Saturday to Thursday : 08:30 am -20:30 pm
+
+Friday: 14:30-20:30
+
+Ramadan:
+
+: Saturday - Thursday: 09:00 am -16:30 pm
+
+Friday: 14:30-16:30 pm
+
+Entry Fee: Free
+
+**Contributors**
+June 09, 2010
+
+type: Public Buildings
+
+
+
+tel: 04-3933240
+
+openingHours: Saturday to Thursday : 08:30 am -20:30 pm, Friday: 14:30-20:30
+
+address: Al Shindagha Area, near Sheikh Saeed Al Maktoum House

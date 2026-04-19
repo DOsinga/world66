@@ -1,6 +1,7 @@
 ---
 latitude: 49.459722
 longitude: 11.072778
+snippet: Medieval imperial castle overlooking the old city
 story: 'Holy Roman Emperors were required to spend the first year of their reign in
   Nuremberg — the castle served as the empire''s symbolic heart for centuries. The
   imperial regalia, including the crown and orb, were stored here until Napoleon dissolved

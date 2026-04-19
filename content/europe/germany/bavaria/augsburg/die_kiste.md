@@ -2,6 +2,7 @@
 address: Spitalgasse 15
 latitude: 48.37
 longitude: 10.896
+snippet: Museum of the beloved Augsburger Puppenkiste marionettes
 tags:
 - things_to_do
 - museum

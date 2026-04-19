@@ -3,6 +3,7 @@ address: Abbey Road, Kirkstall, Leeds LS5 3EH
 latitude: 53.8159
 longitude: -1.6023
 phone: 0113 230 5492
+snippet: Remarkably intact 12th-century Cistercian monastery ruins
 tags:
 - things_to_do
 - sight

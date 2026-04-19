@@ -2,6 +2,7 @@
 address: 868 Granville Street
 latitude: 49.280563
 longitude: -123.120792
+snippet: "Legendary 1929 live music venue with sprung dance floor"
 tags:
 - goingout
 title: The Commodore Ballroom

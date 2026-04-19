@@ -1,6 +1,7 @@
 ---
 latitude: 43.1849
 longitude: 3.0038
+snippet: Medieval archbishop palace housing three museums and a climbable tower
 tags:
 - things_to_do
 - architecture

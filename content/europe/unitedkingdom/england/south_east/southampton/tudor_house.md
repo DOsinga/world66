@@ -1,7 +1,10 @@
 ---
 address: Bugle Street, Southampton SO14 2AD
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.8998
 longitude: -1.4061
+snippet: Medieval merchant's house museum with walled Tudor garden
 tags:
 - things_to_do
 - museum

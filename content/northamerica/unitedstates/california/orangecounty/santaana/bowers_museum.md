@@ -3,6 +3,7 @@ address: 2002 N Main St, Santa Ana, CA 92706
 latitude: 33.7583
 longitude: -117.8678
 phone: (714) 567-3600
+snippet: "Top-tier art museum with major travelling exhibitions since 1936"
 tags:
 - things_to_do
 - museum

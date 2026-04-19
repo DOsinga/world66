@@ -1,6 +1,7 @@
 ---
 latitude: 35.8994
 longitude: 14.5141
+snippet: "Knights of St John seat of power with frescoes and 5,000-piece armoury"
 tags:
 - things_to_do
 - architecture

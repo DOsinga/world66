@@ -3,9 +3,10 @@ address: 5000 Euclid Ave.
 latitude: 41.50381
 longitude: -81.653821
 phone: 216-881-6911
+snippet: Legendary rock concert venue with over 40 years of live music
 tags:
-- bars_and_cafes
-- bar
+- nightlife
+- music
 title: The Agora
 type: poi
 ---

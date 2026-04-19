@@ -1,8 +1,11 @@
 ---
 address: Piazza Croce dei Vespri 6, 90133 Palermo
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 38.1142
 longitude: 13.368
 opening_hours: Mon–Sat 13:00–15:00 & 20:00–23:00; closed Sun
+snippet: Top Sicilian restaurant in a Kalsa palazzo used in The Leopard
 tags:
 - eating_out
 - restaurant

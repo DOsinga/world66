@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Early Christian Baptistery
 type: poi
+snippet: "Fifth-century baptistery with rare early Christian mosaic"
 ---
 
 A late-Roman octagonal baptistery dating from around the 5th century, standing beside the medieval cathedral in the historic centre. The building is the most important early Christian monument in Liguria. Inside, a 5th-century mosaic decorates the apse. The adjoining diocesan museum holds Roman finds from the surrounding area.

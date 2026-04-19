@@ -3,6 +3,7 @@ title: "Katsurahama"
 type: poi
 tags:
   - things_to_do
+snippet: "Dramatic coastal headland with Ryōma statue and no-swim beach"
 latitude: 33.4894
 longitude: 133.5563
 ---

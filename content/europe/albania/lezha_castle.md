@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.7833
 longitude: 19.6436
 snippet: Castle ruins with sweeping views of coast and mountains

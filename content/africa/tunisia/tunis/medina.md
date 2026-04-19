@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.7989
 longitude: 10.17
+snippet: UNESCO-listed labyrinth of souks, mosques, and covered alleys
 tags:
 - things_to_do
 - neighbourhood

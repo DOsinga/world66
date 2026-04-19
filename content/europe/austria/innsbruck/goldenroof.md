@@ -1,6 +1,7 @@
 ---
 latitude: 47.2685
 longitude: 11.3933
+snippet: Emperor Maximilian's gilded balcony of 2,657 copper tiles
 tags:
 - things_to_do
 - sight

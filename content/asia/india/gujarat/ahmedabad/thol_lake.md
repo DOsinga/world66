@@ -3,9 +3,10 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 23.1917
 longitude: 72.4667
+snippet: Wetland sanctuary with flamingos and winter migratory birds
 tags:
 - things_to_do
-- landmark
+- nature
 title: Thol Lake Bird Sanctuary
 type: poi
 ---

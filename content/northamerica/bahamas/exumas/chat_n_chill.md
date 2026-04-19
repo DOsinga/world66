@@ -1,6 +1,10 @@
 ---
 title: "Chat 'N' Chill"
 type: poi
+snippet: "Legendary beach bar on Stocking Island with conch salad"
+tags:
+- eating_out
+- things_to_do
 latitude: 23.5522
 longitude: -75.7822
 ---

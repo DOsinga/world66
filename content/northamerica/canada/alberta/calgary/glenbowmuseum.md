@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.045129
 longitude: -114.061257
+snippet: Major museum of western Canadian history and indigenous cultures
 tags:
 - things_to_do
 - museum

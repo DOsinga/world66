@@ -1,7 +1,8 @@
 ---
 address: 3-27 Canton Road, Tsim Sha Tsui
-latitude: 22.297
+latitude: 22.2970
 longitude: 114.1684
+snippet: Massive waterfront mall with 700+ shops on Canton Road
 tags:
 - kowloon
 - shopping

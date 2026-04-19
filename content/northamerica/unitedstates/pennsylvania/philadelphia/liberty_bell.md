@@ -1,7 +1,10 @@
 ---
 address: 525 Market Street
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 39.9496
 longitude: -75.1503
+snippet: America's cracked icon of independence, free to visit
 story: The bell cracked the first time it was rung after arriving from London in 1752.
   It cracked again on George Washington's birthday in 1846 — and has been silent ever
   since.

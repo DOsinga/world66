@@ -1,6 +1,9 @@
 ---
 author: Dennis Callan
+done:
+  poi_cleanup: '2026-04-19'
 isbn: 978-0-9839643-0-8
+snippet: Ebook with six Rome walking tours and embedded videos
 tags:
 - books
 - book

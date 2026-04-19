@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
+  poi_cleanup: '2026-04-19'
+image: coroico.jpg
+image_attribution: JYB Devot
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Coroico_113-114mod.jpg
 latitude: -16.1886
 longitude: -67.7275
 score: 0.53
 title: “Coroico”
 type: location
-image: coroico.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Coroico_113-114mod.jpg
-image_license: CC BY-SA 4.0
-image_attribution: JYB Devot
 ---
 
 Coroico is a small town perched on a green ridge in Bolivia’s Yungas region, where the Andes drop steeply into the Amazon basin. Most travellers arrive after the famous Death Road bike ride from [La Paz](/southamerica/bolivia/lapaz), but the town deserves more than a single night. The climate is warm and humid, the surrounding cloudforest is spectacular, and the pace of life is wonderfully slow.

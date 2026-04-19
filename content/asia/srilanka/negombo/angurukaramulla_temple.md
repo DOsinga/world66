@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 7.2082
 longitude: 79.834
+snippet: Reclining Buddha and Jataka murals in Catholic town
 tags:
 - things_to_do
 - sight

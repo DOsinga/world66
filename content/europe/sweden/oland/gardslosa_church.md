@@ -1,6 +1,7 @@
 ---
 latitude: 56.7934
 longitude: 16.7411
+snippet: Well-preserved 12th-century Romanesque church with medieval paintings
 tags:
 - things_to_do
 - sight

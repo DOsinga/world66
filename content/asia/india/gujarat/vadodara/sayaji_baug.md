@@ -1,7 +1,10 @@
 ---
 address: Sayajigunj, Vadodara
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.3168
 longitude: 73.1885
+snippet: Historic 45-hectare park with museum, zoo, and planetarium
 tags:
 - things_to_do
 - landmark

@@ -2,7 +2,8 @@
 address: 4 Na Prathat Rd
 latitude: 13.7579
 longitude: 100.4917
-opening_hours: Wed-Sun 9 am - 4 pm
+opening_hours: Wed-Sun 9am-4pm
+snippet: Thailand's most comprehensive art and archaeology collection
 tags:
 - things_to_do
 - museum

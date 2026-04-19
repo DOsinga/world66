@@ -1,28 +1,14 @@
 ---
-address: The Mirandalaan 9
-category: Swimming
-email: mirandabad@zuideramstel.amsterdam.nl
-phone: 020 5464 444
+address: De Mirandabad 9
+latitude: 52.3391
+longitude: 4.8930
+snippet: "Subtropical swimming paradise with wave pool and outdoor sunbathing"
 tags:
 - activities
 title: De Mirandabad
 type: poi
-url: www.mirandabad.nl
 ---
 
-If you’re interested in sneaking in a full body workout or two during your stay in Amsterdam, De Mirandabad is a great place to suit up and take a rejuvenating swim. This subtropical swimming pool complex features a beach, several indoor and outdoor pools, and wave machines. Other amenities include squash courts, a solarium, and a restaurant. Rates vary, so visit the website (www.mirandabad.nl ) for details on pricing or inquire within (020 5464 444, mirandabad@zuideramstel.amsterdam.nl).
+Amsterdam's biggest and most popular public swimming complex, De Mirandabad draws families and lap swimmers alike. The subtropical indoor section has a wave pool, water slides, and a warm-water leisure pool, while the outdoor area opens in summer with sunbathing lawns and an open-air pool. Squash courts and a restaurant round out the facilities.
 
-**Contributors**
-May 13, 2008
-
-type: Swimming
-
-
-
-tel: 020 5464 444
-
-url: [www.mirandabad.nl](http://www.mirandabad.nl)
-
-address: The Mirandalaan 9
-
-email: mirandabad@zuideramstel.amsterdam.nl
+Located in the Rivierenbuurt neighborhood in Amsterdam-Zuid, it's easy to reach by tram or metro. Check current hours and pricing on the website before visiting, as schedules vary by season.

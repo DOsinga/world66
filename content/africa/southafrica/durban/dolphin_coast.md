@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -29.55
 longitude: 31.2167
+snippet: Beachfront towns north of Durban with year-round dolphins
 tags:
 - things_to_do
 - neighbourhood

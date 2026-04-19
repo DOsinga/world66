@@ -4,6 +4,7 @@ latitude: 29.558
 longitude: 34.952
 opening_hours: 20:00 until late
 phone: 054-481-9973
+snippet: "Telescope stargazing on the desert promenade at night"
 tags:
 - things_to_do
 - landmark

@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
+  poi_cleanup: '2026-04-19'
 image: eindhoven.jpg
 image_attribution: Arno van den Tillaart from Eindhoven, Netherlands
 image_license: CC BY 2.0

@@ -1,13 +1,15 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.572
 longitude: 73.6785
+snippet: 'Udaipur''s heart: island palaces, City Palace reflections, boat rides'
 tags:
 - things_to_do
 - landmark
 title: Lake Pichola
 type: poi
-category: "Sight"
-snippet: "Udaipur's heart: island palaces, City Palace reflections, boat rides"
 ---
 
 The lake around which all of Udaipur revolves, originally created by a Banjara tribesman damming a stream in the 14th century, then enlarged by Maharana Udai Singh when he founded the city. On a clear morning, with the City Palace reflected in the water and the Aravallis behind, it is one of the most photogenic scenes in India.

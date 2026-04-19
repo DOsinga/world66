@@ -4,6 +4,9 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 34.6655
 longitude: 32.8858
+snippet: Cliff-top Greco-Roman ruins with sweeping coastal views
+tags:
+- things_to_do
 title: Kourion
 type: poi
 ---

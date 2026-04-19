@@ -1,6 +1,7 @@
 ---
 latitude: 29.871201
 longitude: 31.216566
+snippet: World's oldest pyramid at ancient Saqqara necropolis
 tags:
 - things_to_do
 - museum

@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - sight
+snippet: Hilltop panorama over harbour, village and scattered islands
 latitude: -5.8651
 longitude: 110.4280
 ---

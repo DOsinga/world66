@@ -1,10 +1,12 @@
 ---
 title: "Palazzo Schifanoia"
 type: poi
+snippet: Este palace with extraordinary 15th-century astrological frescoes
 tags:
   - things_to_do
   - museum
   - sight
+  - story
 address: "Via Scandiana 23"
 latitude: 44.8334
 longitude: 11.6255

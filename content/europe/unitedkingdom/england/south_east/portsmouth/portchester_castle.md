@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.8361
 longitude: -1.1153
+snippet: Norman castle inside complete Roman fortress walls
 tags:
 - things_to_do
 - landmark

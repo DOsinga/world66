@@ -1,9 +1,12 @@
 ---
 address: 25, rue Münster
+done:
+  poi_cleanup: '2026-04-19'
 email: questions@mnhn.lu
 latitude: 49.60968
 longitude: 6.135638
 phone: +352/462233-1
+snippet: Natural history museum in the scenic Grund valley
 tags:
 - things_to_do
 - museum

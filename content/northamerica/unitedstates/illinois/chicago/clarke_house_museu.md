@@ -5,6 +5,10 @@ latitude: 41.8575
 longitude: -87.6226
 opening_hours: tours at 1:00 PM and 2:00 PM
 phone: 312-745-0040
+snippet: Chicago's oldest building, a restored 1836 home
+tags:
+- things_to_do
+- museum
 title: Clarke House Museum
 type: poi
 ---

@@ -1,5 +1,8 @@
 ---
 address: Piazza del Colosseo
+image: colosseum.jpg
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg
 latitude: 41.8898
 longitude: 12.4923
 phone: +39 06 39967700

@@ -1,6 +1,9 @@
 ---
 address: Plantage Middenlaan 2
 category: Sight
+image: hortus_botanicus.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:De_Plantage_(17).jpg
 latitude: 52.366806
 longitude: 4.907778
 neighbourhood: Plantage

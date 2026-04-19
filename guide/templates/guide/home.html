@@ -1,41 +1,63 @@
 {% extends "guide/base.html" %}
 {% load static %}
 
-{% block title %}World66 - the travel guide you write{% endblock %}
-{% block nav_home %}active{% endblock %}
+{% block title %}World66 — Travel Guide{% endblock %}
 
-{% block content %}
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block hero %}
 <div class="home-hero">
-  <h1>Explore <strong>Destinations</strong></h1>
-  <p>Travel information on over 20,000 destinations, written and updated by travelers since 1999.</p>
-</div>
-
-<div id="world-map" class="world-map"></div>
-
-<div class="continent-grid">
-  {% for continent, kids in continents %}
-  <div class="continent-card">
-    <h2><a href="{{ continent.get_absolute_url }}">{{ continent.title }}</a></h2>
-    {% if kids %}
-    <ul>
-      {% for child in kids|slice:":10" %}
-      <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
-      {% endfor %}
-    </ul>
-    {% if kids|length > 10 %}
-    <p class="more"><a href="{{ continent.get_absolute_url }}">All {{ kids|length }} destinations &rarr;</a></p>
-    {% endif %}
-    {% endif %}
+  <div class="home-hero-text">
+    <h1 class="home-hero-title">Explore<br>the world.</h1>
+    <p class="home-hero-sub">Open travel guides written by travellers since 1998. Over 20,000 destinations — from continents to hidden side streets.</p>
+    <div class="home-hero-stats">
+      <div class="home-hero-stat"><span class="home-hero-stat-n">20k+</span><span class="home-hero-stat-l">Destinations</span></div>
+      <div class="home-hero-stat"><span class="home-hero-stat-n">7</span><span class="home-hero-stat-l">Continents</span></div>
+      <div class="home-hero-stat"><span class="home-hero-stat-n">25 yrs</span><span class="home-hero-stat-l">Of travel writing</span></div>
+    </div>
   </div>
-  {% endfor %}
+  <div class="home-map-wrap">
+    <div id="world-map" class="home-map"></div>
+  </div>
+</div>
+{% endblock %}
+
+{% block wide_content %}
+<div class="wide-block home-continents-section">
+<div class="home-continent-grid">
+    {% for c in continents %}
+    <a href="{{ c.page.get_absolute_url }}" class="home-continent-card">
+      {% if c.image_url %}<img src="{{ c.image_url }}" alt="{{ c.page.title }}" class="home-continent-img">{% endif %}
+      <div class="home-continent-veil"></div>
+      <div class="home-continent-overlay">
+        <div class="home-continent-name">{{ c.page.title }}</div>
+        {% if c.countries %}
+        <ul class="home-continent-countries">
+          {% for country in c.countries %}
+          <li>{{ country.title }}</li>
+          {% endfor %}
+          {% if c.total > 8 %}
+          <li class="home-continent-more">+{{ c.total|add:"-8" }} more</li>
+          {% endif %}
+        </ul>
+        {% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
 </div>
 {% endblock %}
 
 {% block extra_js %}
 <script>
 var W66_CONTINENTS = [
-  {% for continent, kids in continents %}
-  {slug: "{{ continent.slug }}", title: "{{ continent.title|escapejs }}", url: "{{ continent.get_absolute_url }}"},
+  {% for c in continents %}
+  {slug: "{{ c.page.slug }}", title: "{{ c.page.title|escapejs }}", url: "{{ c.page.get_absolute_url }}"},
   {% endfor %}
 ];
 initContinentMap('world-map', W66_CONTINENTS);

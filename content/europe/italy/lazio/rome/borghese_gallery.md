@@ -1,6 +1,9 @@
 ---
 address: Piazzale Scipione Borghese 5, Villa Borghese
 admission: €15 plus €2 booking fee (reservation mandatory)
+image: borghese_gallery.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Galleria_borghese_facade.jpg
 latitude: 41.914283
 longitude: 12.492141
 opening_hours: Tue–Sun 9:00am–7:00pm; entry every 2 hours (9am, 11am, 1pm, 3pm, 5pm)

@@ -1,6 +1,9 @@
 ---
 address: Stadhouderskade 42
 category: Museum
+image: rijksmuseum.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:South_facade_of_the_Rijksmuseum_Amsterdam_(DSCF0528).jpg
 latitude: 52.360827
 longitude: 4.884463
 neighbourhood: Museum Quarter

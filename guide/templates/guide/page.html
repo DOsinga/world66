@@ -8,11 +8,13 @@
 <nav class="breadcrumbs">
   <a href="/">World</a>
   {% for name, path in breadcrumbs %}
+    {% if not forloop.last or not parent %}
     <span class="sep">&rsaquo;</span>
-    {% if forloop.last and not parent %}
+    {% if forloop.last %}
       <span class="current">{{ name }}</span>
     {% else %}
       <a href="/{{ path }}">{{ name }}</a>
+    {% endif %}
     {% endif %}
   {% endfor %}
   {% if parent %}
@@ -24,54 +26,69 @@
 
 {% block sidebar %}
 <aside id="sidebar">
-  {% if page.page_type == "location" and markers_json != "[]" or page.page_type == "location" and lat and lng %}
-  <div class="sidebar-map-card">
+  {% if markers_full_json != "[]" or lat and lng %}
+  <div class="sidebar-map-card" id="sidebar-map-card">
     <div class="sidebar-map-head">
       <span class="sidebar-map-title">Map</span>
+      <button class="sidebar-map-expand" id="sidebar-map-expand" title="Expand map" aria-label="Expand map">&#x26F6;</button>
     </div>
     <div class="sidebar-map-canvas" id="sidebar-map"></div>
   </div>
   {% endif %}
 
   {% if parent_sections %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      Sections
-    </h3>
-    <ul class="sidebar-nav">
-      <li><a href="{{ parent.get_absolute_url }}"><strong>General</strong></a></li>
+  <nav class="section-sidenav">
+    {% if parent %}
+    <a href="{{ parent.get_absolute_url }}" class="section-sidenav-parent">
+      <span class="section-sidenav-back">&#8592;</span>{{ parent.title }}
+    </a>
+    {% endif %}
+    <div class="section-sidenav-current">
+      {% for s in parent_sections %}{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %}{{ s.title }}{% endif %}{% endfor %}
+    </div>
+    <ul class="section-sidenav-list" id="section-sidenav-list">
       {% for s in parent_sections %}
-      <li{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} class="active"{% endif %}>
-        <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
+      <li>
+        <a href="{{ s.get_absolute_url }}"
+           class="section-sidenav-link{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} is-active{% endif %}">
+          {{ s.title }}
+        </a>
       </li>
       {% endfor %}
     </ul>
-  </div>
+    <button class="section-sidenav-toggle" id="section-sidenav-toggle" aria-expanded="false">
+      All sections <span class="section-sidenav-toggle-arrow">&#8595;</span>
+    </button>
+  </nav>
+  <script>
+  (function() {
+    var list = document.getElementById('section-sidenav-list');
+    var btn  = document.getElementById('section-sidenav-toggle');
+    if (!list || !btn) return;
+    function open() {
+      list.classList.add('is-open');
+      btn.setAttribute('aria-expanded', 'true');
+      btn.innerHTML = 'Close <span class="section-sidenav-toggle-arrow" style="display:inline-block;transform:rotate(180deg)">&#8595;</span>';
+    }
+    function close() {
+      list.classList.remove('is-open');
+      btn.setAttribute('aria-expanded', 'false');
+      btn.innerHTML = 'All sections <span class="section-sidenav-toggle-arrow">&#8595;</span>';
+    }
+    btn.addEventListener('click', function() {
+      list.classList.contains('is-open') ? close() : open();
+    });
+  })();
+  </script>
   {% endif %}
 
-  {% if nav_siblings %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      {{ context_nav.title }}
-    </h3>
-    <ul class="sidebar-nav">
-      {% for poi in nav_siblings %}
-      <li{% if poi.slug == page.slug %} class="active"{% endif %}>
-        <a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
 </aside>
 {% endblock %}
 
 {% block background %}{% endblock %}
 
 {% block hero %}
-{% if is_continent or hero_image_url or markers_json != "[]" or lat and lng %}
+{% if is_continent or hero_image_url %}
 <div id="hero" class="hero">
   {% if hero_image_url %}
   <div class="hero-card">
@@ -98,7 +115,7 @@
 {% block body_style %}{% endblock %}
 
 {% block content %}
-<h1 class="{% if hero_image_url or markers_json != '[]' or lat and lng or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
+<h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
 
 {% if page.properties %}
@@ -114,13 +131,26 @@
 </div>
 {% endif %}
 
+{% if page.meta.tagline %}
+<p class="page-tagline">{{ page.meta.tagline }}</p>
+{% endif %}
+
 {% if body_html %}
-<div class="body-text">
+<div class="body-text body-text--dropcap">
   {{ body_html|safe }}
 </div>
 {% endif %}
 
+{% if page.meta.quote %}
+<blockquote class="pull-quote">{{ page.meta.quote }}</blockquote>
+{% endif %}
 
+{% if page.meta.tip %}
+<div class="tip-box">
+  <div class="tip-box-label">Local tip</div>
+  <p class="tip-box-body">{{ page.meta.tip }}</p>
+</div>
+{% endif %}
 
 {% if tags %}
 <div class="tags">
@@ -137,21 +167,48 @@
 </div>
 {% endif %}
 
-{% if locations and page.page_type == "location" and locations|length > 30 %}
-<div class="destinations-section">
-  <h2>All {{ locations|length }} Destinations</h2>
-  <div class="destination-columns">
-    {% for child in locations %}
-    <a href="{{ child.get_absolute_url }}">{{ child.title }}</a>
+{% if poi_images %}
+<p class="poi-strip-label">Visual inspiration</p>
+<div class="poi-strip-wrap">
+  <button class="poi-strip-arrow poi-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
+  <div class="poi-strip" id="poi-strip">
+    {% for img in poi_images %}
+    <a href="{{ img.href }}" class="poi-strip-item" title="{{ img.title }}">
+      <img src="{{ img.url }}" alt="{{ img.title }}">
+    </a>
     {% endfor %}
   </div>
+  <button class="poi-strip-arrow poi-strip-arrow--next" aria-label="Scroll right">&#8250;</button>
 </div>
+<script>
+(function() {
+  var wrap = document.querySelector('.poi-strip-wrap');
+  var strip = document.getElementById('poi-strip');
+  var prev = wrap.querySelector('.poi-strip-arrow--prev');
+  var next = wrap.querySelector('.poi-strip-arrow--next');
+  if (!strip) return;
+  function update() {
+    prev.style.opacity = strip.scrollLeft > 4 ? '1' : '0';
+    prev.style.pointerEvents = strip.scrollLeft > 4 ? '' : 'none';
+    var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 4;
+    next.style.opacity = atEnd ? '0' : '1';
+    next.style.pointerEvents = atEnd ? 'none' : '';
+  }
+  var step = 320;
+  prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
+  next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
+  strip.addEventListener('scroll', update);
+  update();
+})();
+</script>
 {% endif %}
+
 {% endblock %}
 
 {% block wide_content %}
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
 <div class="wide-block poi-section">
+  <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
   <div class="poi-section-head">
     <h2 class="poi-section-title">{{ page.title }}</h2>
     {% if poi_categories %}
@@ -205,23 +262,68 @@
 {% endif %}
 {% endif %}{% endif %}
 
+{% if page.page_type == "location" and top_locations %}
+<div class="wide-block destinations-section">
+  <span class="section-kicker">Destinations</span>
+  <h2 class="section-block-heading">{{ page.title }}</h2>
+  {% if top_locations %}
+  <div class="dest-grid">
+    {% for loc in top_locations %}
+    <a href="{{ loc.get_absolute_url }}" class="dest-card{% if not loc.image_url %} dest-card--no-image{% endif %}">
+      {% if loc.image_url %}
+      <img src="{{ loc.image_url }}" alt="{{ loc.title }}">
+      {% else %}
+      <div class="dest-card-cloud">
+        <div class="dest-card-cloud-words">{% for w in loc.word_cloud_top %}<span>{{ w }}</span>{% endfor %}</div>
+        <div class="dest-card-cloud-name">{{ loc.word_cloud_center }}</div>
+        <div class="dest-card-cloud-words">{% for w in loc.word_cloud_bottom %}<span>{{ w }}</span>{% endfor %}</div>
+      </div>
+      {% endif %}
+      <div class="dest-veil"></div>
+      <div class="dest-txt">
+        <div class="dest-idx">{{ forloop.counter|stringformat:"02d" }}</div>
+        <div class="dest-name">{{ loc.title }}</div>
+        {% if loc.card_children %}
+        <ul class="dest-card-children">
+          {% for child in loc.card_children %}<li>{{ child.title }}</li>{% endfor %}
+          {% if loc.card_children_total > 5 %}<li class="dest-card-children-more">+{{ loc.card_children_total|add:"-5" }} more</li>{% endif %}
+        </ul>
+        {% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% if more_locations %}
+  <div class="dest-more">
+    {% for loc in more_locations %}
+    <a href="{{ loc.get_absolute_url }}" class="dest-more-link">{{ loc.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+
 {% if page.page_type == "location" and sections %}
-<div class="wide-block sections-row">
+<div class="wide-block sections-row-wrap">
+  <span class="section-kicker">Guide</span>
+  <h2 class="section-block-heading">Sections</h2>
+<div class="sections-row">
   {% for s in sections %}
-  <a href="{{ s.get_absolute_url }}" class="section-card">
-    <div>
-      <div class="section-card-idx">{{ forloop.counter|stringformat:"02d" }}</div>
-      <div class="section-card-name">{{ s.title }}</div>
-    </div>
+  <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
+    <div class="section-card-icon"></div>
+    <div class="section-card-name">{{ s.title }}</div>
     <span class="section-card-arrow">&#8594;</span>
   </a>
   {% endfor %}
+</div>
 </div>
 {% endif %}
 
 {% if neighbourhood_items %}
 <div class="wide-block neighbourhoods-section">
-  <h2 class="nbhd-heading">Neighbourhoods</h2>
+  <span class="section-kicker">Areas</span>
+  <h2 class="section-block-heading">Neighbourhoods</h2>
   <div class="nbhd-grid">
     {% for nb in neighbourhood_items %}
     <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
@@ -236,15 +338,47 @@
   </div>
 </div>
 {% endif %}
+
+{% if nav_siblings %}
+<div class="wide-block poi-elsewhere">
+  <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>
+  <ul class="poi-elsewhere-list">
+    {% for poi in nav_siblings %}{% if poi.slug != page.slug %}
+    <li><a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a></li>
+    {% endif %}{% endfor %}
+  </ul>
+</div>
+{% endif %}
 {% endblock %}
 
 {% block extra_js %}
-{% if page.page_type == "location" and markers_json != "[]" or page.page_type == "location" and lat and lng %}
+{% if markers_full_json != "[]" or lat and lng %}
 <script>
 (function() {
-  var sideMarkers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  if (sideMarkers.length && document.getElementById('sidebar-map')) {
-    initLocationMap('sidebar-map', sideMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
+  // Use the full marker pool from the start so deconfliction can pick the best labels
+  var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  var sideMap = null;
+  if (fullMarkers.length && document.getElementById('sidebar-map')) {
+    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
+  }
+
+  // Expand / collapse the sidebar map to fill the content area
+  var expandBtn = document.getElementById('sidebar-map-expand');
+  var mapCard   = document.getElementById('sidebar-map-card');
+  if (expandBtn && mapCard && sideMap) {
+    expandBtn.addEventListener('click', function() {
+      var expanded = mapCard.classList.toggle('sidebar-map-expanded');
+      expandBtn.innerHTML = expanded ? '&#x2715;' : '&#x26F6;';
+      expandBtn.title     = expanded ? 'Collapse map' : 'Expand map';
+      if (expanded) {
+        var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
+        mapCard.style.top = navH + 'px';
+        sideMap._setMarkers(fullMarkers, 35);
+      } else {
+        mapCard.style.top = '';
+        sideMap._setMarkers(fullMarkers, 20);
+      }
+    });
   }
 })();
 </script>
@@ -257,7 +391,7 @@
   {% if is_continent %}
   initCountryMap('background-map', '{{ continent_slug|escapejs }}');
   {% else %}
-  var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  var markers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   if (markers.length) initLocationMap('background-map', markers, {isPoi: {{ is_poi|yesno:"true,false" }}});
   {% endif %}
 })();

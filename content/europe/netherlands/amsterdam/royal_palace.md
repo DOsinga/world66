@@ -1,5 +1,8 @@
 ---
 category: Architecture
+image: royal_palace.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Palacio_Real,_Amsterdam,_2016-05-30.jpg
 latitude: 52.373145
 longitude: 4.891336
 neighbourhood: Centrum

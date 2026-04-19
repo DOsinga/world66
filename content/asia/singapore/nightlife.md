@@ -1,5 +1,7 @@
 ---
-title: "Nightlife and Entertainment"
+done:
+  poi_cleanup: '2026-04-19'
+title: Nightlife and Entertainment
 type: section
 ---
 

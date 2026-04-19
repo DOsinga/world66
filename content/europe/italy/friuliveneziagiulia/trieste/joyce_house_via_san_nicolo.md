@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Joyce's House on Via San Nicolò
 type: poi
+snippet: "Plaque marking where Joyce wrote Dubliners"
 ---
 
 A commemorative plaque marks Via San Nicolò 30, one of several addresses where Joyce lived during his years in Trieste. He occupied this apartment from 1907 to 1909, during which time he wrote much of *Dubliners* and began *A Portrait of the Artist as a Young Man*. The street runs through the heart of the old city, close to the waterfront and the commercial centre where Joyce taught English at the Berlitz School.

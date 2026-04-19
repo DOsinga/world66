@@ -2,6 +2,7 @@
 address: Near Goodies Bakery, Natubhai Circle, Race Course, Vadodara
 latitude: 22.3134
 longitude: 73.1735
+snippet: "Late-night egg dishes beloved by university students"
 tags:
 - eating_out
 title: Egg Zone

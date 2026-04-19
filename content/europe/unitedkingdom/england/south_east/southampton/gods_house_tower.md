@@ -7,6 +7,7 @@ tags:
 - architecture
 title: God's House Tower
 type: poi
+snippet: "Medieval artillery tower turned archaeology museum on the quay"
 ---
 
 A squat, round medieval tower at the south-eastern corner of the town walls, built in the late thirteenth century to guard the harbour entrance. It was one of the earliest purpose-built artillery fortifications in England, with gunports designed for the new technology of cannons. After centuries as a gunpowder store, it became an archaeology museum. The tower itself — thick walls, low vaulted chambers, tiny windows — gives a vivid sense of what defensive architecture felt like from the inside.

@@ -9,6 +9,7 @@ tags:
 - theatre
 - cafe
 - neighbourhood
+snippet: Laid-back Boylston Street cafe near the Theater District
 title: Emerson's Cafe
 type: poi
 ---

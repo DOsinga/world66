@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.5053
 longitude: -0.0906
+snippet: Borough Market's beloved Spanish tapas bar since 2004
 tags:
 - eating_out
 title: Brindisa Tapas

@@ -1,6 +1,7 @@
 ---
 latitude: 27.3322
 longitude: -82.5412
+snippet: Bayfront gardens with a world-class orchid and epiphyte collection
 tags:
 - things_to_do
 - sight

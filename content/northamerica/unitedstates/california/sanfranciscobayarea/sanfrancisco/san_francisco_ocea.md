@@ -1,10 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.7604
 longitude: -122.5107
+snippet: Five-mile beach along SF's western edge, popular with surfers
 tags:
 - beaches
 - beach
-- palace
 title: Ocean Beach
 type: poi
 ---

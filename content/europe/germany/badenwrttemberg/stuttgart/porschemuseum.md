@@ -1,12 +1,17 @@
 ---
-title: "Porsche- Museum"
+address: Porscheplatz 1, 70435 Stuttgart-Zuffenhausen
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 48.834
+longitude: 9.152
+snippet: Sleek museum tracing Porsche history from the 356 to today
+tags:
+- things_to_do
+- museum
+title: Porsche Museum
 type: poi
-address: "Porschestr. 42 , 70435 Stuttgart – Zuffenhausen"
-getting_there: "S6 to trainstop 'Neuwirtshaus', or with one of the busses 52, 95 or 99 to busstop 'Porsche'"
-opening_hours: "Mo-Fri 9-16.00, Sat/Sun 9-17.00"
-phone: "+49/ 711 827 56 85"
-latitude: 48.836989
-longitude: 9.154243
 ---
 
-You can wander around freely at the factory site or book a guided tour where they show you how a working day at the production line looks like.
+The Porsche Museum in Zuffenhausen is housed in a striking angular building that seems to float above its supports. Inside, around 80 vehicles trace the company's history from Ferdinand Porsche's early engineering work through the iconic 356 and 911 to modern hypercars. The exhibits cover both road and racing cars, with a strong emphasis on the engineering innovations that made Porsche's reputation.
+
+Take the S6 to Neuwirtshaus (Porscheplatz) station — the museum is a short walk from there. Allow two to three hours for a proper visit.

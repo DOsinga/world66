@@ -1,5 +1,7 @@
 ---
 address: Piazza Madonna degli Aldobrandini 6, 50123 Florence
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.7752
 longitude: 11.2528
 phone: +39 055 2388602

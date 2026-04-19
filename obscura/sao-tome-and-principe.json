@@ -1,0 +1,50 @@
+[
+  {
+    "url": "/places/pico-cao-grande",
+    "type": "Place",
+    "item-id": "8242",
+    "gtm-content-type": "Place",
+    "lat": "0.117956",
+    "lng": "6.566342",
+    "city": "Caue",
+    "state": "Sao Tome",
+    "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "src": "https://img.atlasobscura.com/gz9gce62qM13baKx7XEgwTeFt-YYFEJGighwAQHzM-c/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZjRi/ZmNhMzcxODA2YjA4/YjNfcGljbyBmcm9t/IGEgZGlzdGFuY2Uu/anBn.jpg",
+    "width": "640",
+    "height": "480",
+    "name": "Pico Cao Grande",
+    "description": "Nature\u2019s skyscraper launches out of the terrain with attitude."
+  },
+  {
+    "url": "/places/roca-sundy",
+    "type": "Place",
+    "item-id": "11951",
+    "gtm-content-type": "Place",
+    "lat": "1.613938",
+    "lng": "7.405693",
+    "city": "Sundi",
+    "state": "Principe",
+    "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "src": "https://img.atlasobscura.com/ocE5NejTnNpOR0b6WiyI0V9EU0DTAM8HRJVmgWbbLqk/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iOGQ4/Y2JmMDQxYzQ3YmVm/NTNfSU1HXzgyMjMu/anBn.jpg",
+    "width": "1189",
+    "height": "778",
+    "name": "Ro\u00e7a Sundy",
+    "description": "This abandoned plantation was once witness to an eclipse that proved Einstein&#39;s theory of relativity."
+  },
+  {
+    "url": "/places/the-equator-sao-tome",
+    "type": "Place",
+    "item-id": "46107",
+    "gtm-content-type": "Place",
+    "lat": "0.0",
+    "lng": "6.522074",
+    "city": "Ilh\u00e9u das Rolas",
+    "state": "Cau\u00e9",
+    "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "src": "https://img.atlasobscura.com/GGOY_9fBx1omDdQOl3VlRA_9XoUOUwDrj4sWn9SAO3Y/rs:fill:600:400:1/g:ce/c:2385:1590:nowe:0:720/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85MDhj/ODJkNy0zMzlmLTQ2/N2YtYWEzMi03ZWFh/MTU1MGMyODhkYzg3/OTdlZGE4YTA2OWU0/ZTZfU2HMg29fVG9t/ZcyBXy1fSWxoZcyB/dV9kYXNfUm9sYXNf/TGluaGFfZG9fRXF1/YWRvci5qcGVn.jpg",
+    "width": "2386",
+    "height": "3744",
+    "name": "Marco do Equador",
+    "description": "The equator passes through this tiny island in the eastern Atlantic."
+  }
+]

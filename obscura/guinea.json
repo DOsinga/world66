@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/places/tourist-office-of-mali-ville-guinea",
+    "type": "Place",
+    "item-id": "38507",
+    "gtm-content-type": "Place",
+    "lat": "12.078688",
+    "lng": "-12.300188",
+    "city": "Mali",
+    "state": "Lab\u00e9",
+    "country": "Guinea",
+    "src": "https://img.atlasobscura.com/z7mfddo6NwHyOVuGJvq5Ac2bxpjQVwEFkOzRh8Ef8HI/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMTdm/OWY4ZS0yNmY2LTQ0/OTItYjUwOC0wOWIz/YzQxZjc3YmEzZGUw/MDRhMWI2NGQ1MmM4/ZWFfSU1HXzQwNTAu/SlBH.jpg",
+    "width": "3024",
+    "height": "4032",
+    "name": "Tourist Office of Mali-ville",
+    "description": "This small building is a living testament to the remoteness and warmth of the town that it represents."
+  },
+  {
+    "url": "/places/keita-fodeba-centre-for-acrobatic-arts",
+    "type": "Place",
+    "item-id": "23097",
+    "gtm-content-type": "Place",
+    "lat": "9.550278",
+    "lng": "-13.672011",
+    "city": "Conakry",
+    "state": "R\u00e9gion de Conakry",
+    "country": "Guinea",
+    "src": "https://img.atlasobscura.com/3DOEu3NjqatFLhJzA6NdI5C1I_mYMlkYRKX5zd9TuqU/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy95bnhm/Y3pmaDdhMjMxMTMy/MmNkOTY4NjNhYjRl/XzQzNDA3MDc0NzZf/NTUyMWViZjlhNF9v/LmpwZw.jpg",
+    "width": "4272",
+    "height": "2828",
+    "name": "Keita Fodeba Centre for Acrobatic Arts",
+    "description": "The school produces some of Africa&#39;s most talented acrobats and contortionists."
+  }
+]

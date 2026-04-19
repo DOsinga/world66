@@ -2,6 +2,7 @@
 address: Stone Mountain, GA 30087
 latitude: 33.8062
 longitude: -84.1458
+snippet: Massive granite dome with the world's largest bas-relief carving
 tags:
 - things_to_do
 - landmark

@@ -1,9 +1,12 @@
 ---
 title: "Cañón de Añisclo"
 type: poi
-category: Sight
 latitude: 42.5503
 longitude: 0.0292
+snippet: "Wild limestone gorge quieter than neighbouring Ordesa valley"
+tags:
+- things_to_do
+- nature
 ---
 
 The less-visited neighbour of the Ordesa valley, Añisclo is a narrower and wilder gorge carved by the Bellós river through pale limestone. It lacks the dramatic vertical walls of Ordesa but has a rawer, quieter character — fewer people, denser vegetation, and a sense that you're somewhere the tourist buses don't reach.

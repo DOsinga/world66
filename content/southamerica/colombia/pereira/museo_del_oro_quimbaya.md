@@ -1,6 +1,7 @@
 ---
 latitude: 4.8094
 longitude: -75.7008
+snippet: Pre-Columbian gold and Quimbaya artifacts with daily concerts
 tags:
 - museum
 - things_to_do

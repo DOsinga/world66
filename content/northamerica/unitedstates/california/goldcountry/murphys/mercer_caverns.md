@@ -2,6 +2,7 @@
 title: "Mercer Caverns"
 type: poi
 category: Sight
+snippet: "1885 limestone caverns with aragonite crystals and stalactites"
 latitude: 38.1485
 longitude: -120.4333
 ---

@@ -4,12 +4,14 @@ email: tours@elmwildlifetours.co.nz
 latitude: -45.8736
 longitude: 170.5037
 phone: +64 3 454 4121
+snippet: "Guided wildlife tours of Otago Peninsula's penguins and sea lions"
 tags:
 - things_to_do
-- landmark
 title: Elm Wildlife Tours
 type: poi
 url: www.elmwildlifetours.co.nz
 ---
 
-This multi-award winning family company is based in Dunedin on the South Island of New Zealand and presents absolutely unrivalled sustainable Nature and Wildlife experiences of Otago Peninsula and the southeastern Coast.The half-Day 'wildlife packed' tour to the beautiful Otago Peninsula is conducted in the afternoon/evening to coincide with lots of animal activity and the arrival home from the sea of penguins. Sealions can be seen on the private beach area that Elm uses for their tours and closeup viewing of these animals is an experience not to be missed.
+A family-run wildlife tour company based in Dunedin offering guided trips to the Otago Peninsula. Their half-day afternoon tour is timed to coincide with peak animal activity — yellow-eyed penguins returning from the sea, New Zealand sea lions lounging on the beach, and royal albatross soaring overhead.
+
+The tours use private beach access for close-up viewing without disturbing the animals. A good option if you don't have your own transport to reach the peninsula's more remote wildlife spots.

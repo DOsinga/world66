@@ -1,0 +1,33 @@
+[
+  {
+    "url": "/places/funafuti-airport-unfenced-airstrip-park",
+    "type": "Place",
+    "item-id": "43055",
+    "gtm-content-type": "Place",
+    "lat": "-8.523884",
+    "lng": "179.19695",
+    "city": "Vaiaku",
+    "state": "Funafuti",
+    "country": "Tuvalu",
+    "src": "https://img.atlasobscura.com/e1LpXfvW0Kubo1HEtDpuLbIMUUJw7WN0wiQmOAwZmkk/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNWMw/MDE0MS00NzMzLTQ1/ODQtODVjZi1iYTI5/OWQyZTQ2MTM4ZWM2/NzAwYzQzYzQ3MTM4/NjJfR2V0dHlJbWFn/ZXMtMTAxNjk1NjQ1/Ni5qcGc.jpg",
+    "width": "3000",
+    "height": "2014",
+    "name": "Funafuti Airport Airstrip",
+    "description": "With only one flight in and out a week, the unfenced runway at this small island&#39;s airport transforms into a seaside park for locals and visitors."
+  },
+  {
+    "url": "/places/tuvalu-womens-handicraft-centre",
+    "type": "Place",
+    "item-id": "45438",
+    "gtm-content-type": "Place",
+    "lat": "-8.524887",
+    "lng": "179.195035",
+    "city": "Vaiaku",
+    "country": "Tuvalu",
+    "src": "https://img.atlasobscura.com/9uZhpqDA_eVy0MnA3oKgBaM4FqQWSs5XCNlk-Pse1Bs/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xMjE2/Njc4ZjcxNDk0NjNl/OTNfVHV2YWx1IFdv/bWVu4oCZcyBIYW5k/aWNyYWZ0IENlbnRy/ZSAtIHdvbWFuIHdl/YXZlcyBhIGJhc2tl/dCB3aXRoIGZyZXNo/IGxlYXZlcy5qcGc.jpg",
+    "width": "1024",
+    "height": "681",
+    "name": "Tuvalu Women\u2019s Handicraft Centre",
+    "description": "Ancient weaving techniques are used to create these colorful souvenirs."
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "url": "/places/nan-madol",
+    "type": "Place",
+    "item-id": "1075",
+    "gtm-content-type": "Place",
+    "lat": "6.84457",
+    "lng": "158.33564",
+    "city": "Nanwei",
+    "state": "Pohnpei",
+    "country": "Micronesia",
+    "src": "https://img.atlasobscura.com/DntrQu58nnhp97eKDKMD0V1WxnhVI3sXYxfUlu48dq4/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wYmYy/NzJmYi02MGE5LTQx/MDktOGU2ZC0yZGNj/Mzk2MmM0MjExNDlm/MzJhYTM3ZTAxYWQ0/YzBfTmFuX01hZG9s/X3J1aW5zXzUuanBn.jpg",
+    "width": "2560",
+    "height": "1920",
+    "name": "Nan Madol Ruins",
+    "description": "The ruins of an ancient island city built atop a coral reef in the South Pacific are spectacular and strange enough to have inspired H.P. Lovecraft."
+  },
+  {
+    "url": "/places/ghost-fleet-of-truk-lagoon",
+    "type": "Place",
+    "item-id": "2696",
+    "gtm-content-type": "Place",
+    "lat": "7.416624",
+    "lng": "151.78329",
+    "country": "Micronesia",
+    "src": "https://img.atlasobscura.com/9ySYX28Z4hsxgdr3VybwJoUUbDBeqU4f5ky6fop5jx0/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NDg4/YTBkZTkxNzk0NTI5/ZTJfNDc2OTQ5MTQ4/NF9lMTIwOTY1MWRh/X2IuanBn.jpg",
+    "width": "1024",
+    "height": "768",
+    "name": "Ghost Fleet of Truk Lagoon",
+    "description": "Tropical paradise strewn with hundreds of World War II wrecks."
+  },
+  {
+    "url": "/places/japanese-tank-graveyard",
+    "type": "Place",
+    "item-id": "68823",
+    "gtm-content-type": "Place",
+    "lat": "6.960363",
+    "lng": "158.215266",
+    "city": "Kolonia",
+    "state": "Pohnpei",
+    "country": "Micronesia",
+    "src": "https://img.atlasobscura.com/ubUEhWZP1j1ohGbES6oS9YeGdItaw1dWihxdc0uVmpY/rs:fill:600:400:1/g:ce/c:1386:924:nowe:229:766/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kYjcy/MWVmZi1kOTJkLTRl/ZTMtODczZS0xNWEw/ZWRiN2FjZGM3Y2U0/YmE1YzUzZjAzMGE0/NWNfSU1HXzQzMTQu/anBlZw.jpg",
+    "width": "4032",
+    "height": "2268",
+    "name": "Japanese Tank Graveyard",
+    "description": "A lineup of a dozen or so Japanese light tanks from WWII."
+  }
+]

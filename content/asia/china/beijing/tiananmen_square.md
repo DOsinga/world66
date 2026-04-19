@@ -1,6 +1,7 @@
 ---
 latitude: 39.9055
 longitude: 116.3976
+snippet: "Vast ceremonial plaza at the political heart of modern China"
 tags:
 - things_to_do
 - landmark

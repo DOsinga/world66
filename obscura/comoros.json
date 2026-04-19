@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/places/dos-du-dragon-back",
+    "type": "Place",
+    "item-id": "44562",
+    "gtm-content-type": "Place",
+    "lat": "-11.39146",
+    "lng": "43.400433",
+    "city": "Ivoini",
+    "state": "Grande Comore",
+    "country": "Comoros",
+    "src": "https://img.atlasobscura.com/7zfEf6bhC5MgajsKLc9nzWbr7NWqOrST9zUS814Ltmg/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZDNi/ZDY5YzBjYjFjNDBm/OWVfVmlldyBvZiBE/b3MgZHUgRHJhZ29u/LCBDb21vcm9zIGZy/b20gYWJvdmUuanBn.jpg",
+    "width": "2000",
+    "height": "1500",
+    "name": "Dos du Dragon",
+    "description": "This moss-covered, rocky outcropping looks like a mythical beast resting in the water."
+  },
+  {
+    "url": "/places/lac-sale-lac-niamawi-comoros",
+    "type": "Place",
+    "item-id": "43106",
+    "gtm-content-type": "Place",
+    "lat": "-11.375385",
+    "lng": "43.373205",
+    "city": "Bangoua Kouni",
+    "state": "Ngazidja",
+    "country": "Comoros",
+    "src": "https://img.atlasobscura.com/E58jRW-66YudwND-byqTEotHCFg24gk1DWdv0KlqRNk/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82OTA3/NzNlNzdhMjlmNjZi/ZGVfQ29tb3Jvcywg/R3JhbmRlIENvbW9y/ZSwgTGFjIFNhbGXM/gSwgYSB2b2xjYW5p/YyBjcmF0ZXIgbGFr/ZSBpbiBub3J0aHdl/c3QgR3JhbmRlIENv/bW9yZS5qcGc.jpg",
+    "width": "2309",
+    "height": "1299",
+    "name": "Lac Sal\u00e9",
+    "description": "Legend says this remote, \u201cbottomless\u201d lake was created by a curse."
+  }
+]

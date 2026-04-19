@@ -2,6 +2,7 @@
 title: "Royal Tombs of Sipán Museum"
 type: poi
 tags: [things_to_do, museum]
+snippet: "Stunning gold treasures from a Moche royal burial"
 latitude: -6.7704
 longitude: -79.8416
 ---

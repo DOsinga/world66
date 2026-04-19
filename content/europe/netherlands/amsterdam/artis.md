@@ -1,10 +1,10 @@
 ---
 address: Plantage Kerklaan 38
-category: Sight
 latitude: 52.366238
 longitude: 4.916546
 neighbourhood: Plantage
 opening_hours: Daily 9:00–17:00
+snippet: "One of Europe's oldest zoos, founded 1838, with a fine aquarium"
 tags:
 - things_to_do
 - plantage

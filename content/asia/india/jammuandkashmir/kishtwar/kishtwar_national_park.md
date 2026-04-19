@@ -1,7 +1,10 @@
 ---
 title: "Kishtwar High Altitude National Park"
 type: poi
-category: Sight
+tags:
+- things_to_do
+- nature
+snippet: "Remote high-altitude park with snow leopards and brown bears"
 latitude: 33.4200
 longitude: 76.0000
 ---

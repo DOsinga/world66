@@ -1,7 +1,10 @@
 ---
 title: Balkerne Gate
 type: poi
-category: Sight
+tags:
+- things_to_do
+- landmark
+snippet: "Britain's largest surviving Roman gateway, from 50 AD"
 latitude: 51.8892
 longitude: 0.8944
 story: "The Balkerne Gate was the main western entrance to Roman Camulodunum. Two of its four original arches survive — it is the largest surviving Roman gateway in Britain, and has stood here since around 50 AD."

@@ -1,6 +1,7 @@
 ---
 latitude: -6.9141
 longitude: 107.6059
+snippet: "Dutch colonial museum with Indonesian geology and Homo erectus fossils"
 tags:
 - things_to_do
 - museum

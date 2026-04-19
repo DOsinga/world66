@@ -5,6 +5,7 @@ longitude: 3.3446
 story: Fela Kuti's original Shrine was bulldozed by the Nigerian government after
   a 1977 raid on Fela's compound that left his mother dead. His children Femi and
   Yeni opened this new Shrine in his memory in 2000.
+snippet: Live Afrobeat at the Kuti family's open-air club
 tags:
 - things_to_do
 - sight

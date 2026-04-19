@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Al Dente
 type: poi
+snippet: "Italian restaurant with Red Sea terrace at the InterContinental"
 ---
 
 Italian restaurant inside the InterContinental, offering solid pasta and risotto with a nice terrace overlooking the Red Sea. Good for a relaxed dinner when you want a break from seafood.

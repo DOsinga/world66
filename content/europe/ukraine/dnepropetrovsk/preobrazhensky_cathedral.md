@@ -1,7 +1,11 @@
 ---
 title: "Preobrazhensky Cathedral"
 type: poi
-category: "Architecture"
+tags:
+  - things_to_do
+  - sight
+  - architecture
+snippet: "Neoclassical cathedral commissioned by Catherine the Great in 1787"
 latitude: 48.4637
 longitude: 35.0458
 ---

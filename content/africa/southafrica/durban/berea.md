@@ -1,6 +1,7 @@
 ---
 latitude: -29.8449
 longitude: 31.0036
+snippet: "Leafy Victorian ridge suburb with views and Africa's oldest botanic garden"
 tags:
 - things_to_do
 - neighbourhood

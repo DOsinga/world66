@@ -1,6 +1,7 @@
 ---
 latitude: 47.6678
 longitude: 19.076
+snippet: Artsy riverside town with Serbian churches and ceramics museum
 tags:
 - day_trips
 - museum

@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.1724
 longitude: -115.5636
-snippet: "Arts campus with mountain film and book festivals"
+snippet: Arts campus with mountain film and book festivals
 tags:
 - things_to_do
 - culture

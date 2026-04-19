@@ -1,7 +1,10 @@
 ---
 address: 1 Queens Way, Kolkata 700071
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.5448
 longitude: 88.3426
+snippet: White marble monument and museum of the British Raj
 tags:
 - things_to_do
 - landmark

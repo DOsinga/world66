@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -3.0674
 longitude: 37.3564
+snippet: Quiet northern approach through pine forest and moorland
 tags:
 - things_to_do
 - hiking

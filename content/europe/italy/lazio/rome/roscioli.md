@@ -1,8 +1,11 @@
 ---
 address: Via dei Giubbonari 21, 00186 Rome
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8947
 longitude: 12.4731
 opening_hours: Mon–Sat 12:30–16:00, 19:30–midnight; closed Sun
+snippet: Legendary deli-restaurant for cacio e pepe and charcuterie
 tags:
 - 3 Days in Rome
 - Katie Parla Rome

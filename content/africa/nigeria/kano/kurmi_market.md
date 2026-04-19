@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 11.993
 longitude: 8.5195
+snippet: Centuries-old trading hub in Kano's Old City
 tags:
 - things_to_do
 - neighbourhood

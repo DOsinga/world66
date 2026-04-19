@@ -1,13 +1,17 @@
 ---
-title: "Parc de Chantilly"
+address: Domaine de Chantilly, 60500 Chantilly
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 49.192
+longitude: 2.48
+opening_hours: Daily 10:00am–8:00pm (summer), 10:00am–6:00pm (winter)
+snippet: Le Notre gardens and hamlet that inspired Versailles
+tags:
+- things_to_do
+- landmark
+title: Parc de Chantilly
 type: poi
-category: "Sight"
-address: "Domaine de Chantilly, 60500 Chantilly"
-url: "www.domainedechantilly.com"
-opening_hours: "Daily 10:00am–8:00pm (summer), 10:00am–6:00pm (winter)"
-admission: "€12 (park only), included in combined château ticket"
-latitude: 49.1920
-longitude: 2.4800
+url: www.domainedechantilly.com
 ---
 
 The park surrounding the château is a layered landscape three centuries in the making. The core is Le Nôtre's formal French garden, designed in the 1660s and 1670s: grand axes, sculpted terraces, a Grand Canal that channels the Nonette river into a long reflecting sheet, and the round Bassin de la Gerbe. Le Nôtre also rerouted the entrance approach and created the broad perspective that frames the château from the main gate.

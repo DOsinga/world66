@@ -1,14 +1,13 @@
 ---
 address: Via Angelo Bargoni 10-18, 00153 Rome
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8827
 longitude: 12.4751
 opening_hours: Tue–Sun 19:00–23:30; closed Mon
+snippet: Inventive Neapolitan pizza in a buzzy Testaccio room
 tags:
-- Time Out Rome
-- The Infatuation Rome
 - eating_out
-- testaccio
-- restaurant
 title: Seu Pizza Illuminati
 type: poi
 ---

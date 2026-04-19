@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.4294
 longitude: -123.3678
+snippet: Canada's oldest Chinatown with the narrow Fan Tan Alley
 tags:
 - things_to_do
 - neighbourhood

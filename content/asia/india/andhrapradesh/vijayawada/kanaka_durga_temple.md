@@ -1,7 +1,10 @@
 ---
 title: "Kanaka Durga Temple"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - temple
+snippet: "Hilltop temple to Vijayawada's presiding goddess"
 latitude: 16.5163
 longitude: 80.6131
 ---

@@ -1,26 +1,29 @@
 ---
-title: "Tularemia"
+title: "Malaria"
 type: poi
+snippet: Prevention and treatment of the tropics' biggest killer
+tags:
+- health
 ---
 
-[TravelWise](/world/travelwise) **>** [Health](/world/travelwise/health) **>** [Tularemia](/world/travelwise/health/malaria)
+Malaria is caused by *Plasmodium* parasites transmitted by infected *Anopheles* mosquitoes. According to the WHO, over 40% of the world's population lives in areas with malaria risk. The organization estimates 300 to 500 million clinical cases per year, with some 2.5 million deaths annually -- making malaria the number one tropical disease for locals and travelers alike. Over 80% of cases occur in sub-Saharan Africa, but travelers to Central and South America (including Mexico and the Caribbean), South Asia, and Oceania face substantial risk too.
 
-**Malaria** is caused by *Plasmodium* parasites that are transmitted by infected *Anopheles* mosquitos. According to the World Health Organisation (www.who.int) over 40% of the world population live in areas with malaria risk. WHO estimates the number of clinical malaria cases between 300 and 500 million per year, some 2,5 million people die of this disease annually. This makes malaria the **tropical disease N° 1**, for the local population as well as for travellers to malarious areas. Over 80% of malaria cases occur in sub-saharan Africa, but travelers to South and Middle America (including Mexico & the Caribbean), South Asia and Oceania are also at substantial risk (See health/malaria map} for details). 
+## Symptoms
 
-The disease is characterized by fever and flu-like symptoms, including headaches, chills, myalgia, joint pain and malaise (see Clinical features of malaria for more detailed information). These symptoms may occur at intervals, dependent on the type of *Plasmodium* species that caused the disease. Malaria may be associated with anemia and jaundice, *Plasmodium falciparum* infection may cause kidney failure, coma and seizures. When treatment is delayed malaria can rapidly become more serious and possibly be fatal. **Seek medical help immediately if malaria is suspected!** 
+Fever and flu-like symptoms: headaches, chills, muscle pain, joint pain, and general malaise. These may occur at intervals depending on the *Plasmodium* species involved. Malaria can cause anemia and jaundice. *Plasmodium falciparum* infection may lead to kidney failure, coma, and seizures. When treatment is delayed, the disease can rapidly become serious and potentially fatal. Seek medical help immediately if malaria is suspected.
 
-**Malaria infection is preventable: **
+## Prevention
 
-**Avoid to get bitten by mosquitos!** *Anopheles* is primarily active between dusk and dawn, especially during these hours travellers to malaria regions should wear long pants and long sleeved shirts and use mosquito nets while sleeping. Treatment of clothing, mosquito net and skin with appropriate insect repellents and the use of flying-insect sprays in living and sleeping areas during evening and nighttime hours can help to reduce the risk of malaria transmission. 
+**Avoid mosquito bites.** *Anopheles* mosquitoes are primarily active between dusk and dawn. During these hours, wear long pants and long-sleeved shirts, and sleep under mosquito nets. Treat clothing, nets, and exposed skin with insect repellent. Use pyrethroid-containing insect sprays in living and sleeping areas during evening and nighttime hours.
 
-**Chemoprophylaxis:** the prophylactic use of antimalarial drugs before, during and after traveling to malarious areas can be highly effective in preventing malaria. To estimate the risk of infection and to chose the appropriate drug regimen for chemoprophylaxis (and to control or complete your vaccination status for other diseases!) you should see your physician or visit a travel clinic 6-8 weeks before departure. There is **no malaria vaccine** currently available! 
+**Chemoprophylaxis.** Antimalarial drugs taken before, during, and after travel to malarious areas can be highly effective. See your physician or visit a travel clinic six to eight weeks before departure to assess your risk and choose the right drug regimen. There is currently no malaria vaccine.
 
-Malaria is diagnosed by the clinical symptoms and microscopic examination of the blood and can normally be cured by antimalarial drugs. Fever, headaches and other symptomes usually disappear once the parasite is eliminated. Cases of severe disease require hospital care. 
+## Diagnosis and treatment
 
-If you suffer from any unexplained fever or other symptomes mentioned above during or after traveling to malarious areas, you should consider malaria infection as a possible cause and seek medical help. The prophylactic use of antimalarial medication does not rule out malaria infection! 
+Malaria is diagnosed through clinical symptoms and microscopic blood examination. It can normally be cured with antimalarial drugs -- fever, headaches, and other symptoms usually disappear once the parasite is eliminated. Severe cases require hospital care.
 
-Background information 
+If you develop unexplained fever or the symptoms described above during or after traveling to malarious areas, consider malaria as a possible cause and seek medical help. Prophylactic medication does not rule out infection.
 
-Pathogene and transmission Malaria is an infectious disease caused by a parasite called Plasmodia. There are four identified species of this parasite causing malaria in humans: *Plasmodium vivax, P.falciparum, P.ovale *and *P.malariae*. Of these, *Plasmodium falciparum *causes the most dangerous type of malaria, *malaria tropica *, and is most likely to be resistant to antimalarial drugs. All forms of malaria are transmitted by female *Anopheles* mosquitos. Transmission occurs mainly between dusk and dawn in tropical areas, usually beneath 1500 m (5000ft) of altitude, preferably in rural areas. Above 2500 m (8000ft) and in most big cities transmission is rare. 
+## Protection against mosquito bites
 
-Personal protection measures against mosquito bites This is at least as important as the malaria prophylaxis with pills! In particular during nighttime hours, travelers should take measures to reduce contact with mosquitoes: Sleeping in an air-conditioned room with the windows shut reduces the risk of mosquito bites; if you sleep with the room's windows open, they should be shut with mosquito nets or (less safe!) a mosquito net covering the bed and the ends put underneath the mattress should be used. Mosquito nets are more effective if they are treated with insecticides such as Permethrin (Permanone ®). When going out at night, wear clothing that covers arms and legs. Exposed skin areas like hands and face should be treated with an insect repellent. The most effective repellents contain at least 30% of diethyl-meta-toluamide (DEET), lower concentrations may be less skin-irritating, but are also less effective. The effect of DEET lasts for about 4-6 hours. DEET should be considered a medicament with possible side effects (see health/deet for instructions). Avoid highly scented perfumes or aftershave! The use of (preferably pyrethroid-containing) flying insect sprays in living and sleeping areas can further lower the risk of mosquito bites. These general protection measures also reduce your risk of catching other insect-borne diseases like dengue fever, yellow fever
+This matters at least as much as taking pills. Sleep in air-conditioned rooms with windows shut when possible. If windows are open, cover them with mosquito nets. Nets treated with insecticides like Permethrin are more effective. When going out at night, cover arms and legs and apply repellent containing at least 30% DEET to exposed skin. DEET lasts four to six hours. Avoid heavily scented perfumes or aftershave.

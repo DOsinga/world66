@@ -2,13 +2,9 @@
 latitude: 22.2394
 longitude: 113.9365
 tags:
-<<<<<<<< HEAD:content/asia/china/hongkong/cheung_sha_beach.md
 - lantau
 - things_to_do
 - landmark
-========
-- things_to_do
->>>>>>>> 1de084d775 (Tag migration: Lantau):content/asia/china/hongkong/lantau/cheung_sha_beach.md
 title: Cheung Sha Beach
 type: poi
 ---

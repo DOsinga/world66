@@ -1,6 +1,7 @@
 ---
 latitude: 38.1114
 longitude: 13.353
+snippet: Renaissance gate with carved Moorish telamones from 1583
 tags:
 - things_to_do
 - landmark

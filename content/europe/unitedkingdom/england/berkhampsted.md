@@ -1,13 +1,8 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-<<<<<<< HEAD
-latitude: 51.7625
-longitude: -0.5638
-=======
 latitude: 51.7592
 longitude: -0.5634
->>>>>>> origin/main
 score: 0.42
 title: Berkhamsted
 type: location

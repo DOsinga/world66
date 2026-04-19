@@ -2,6 +2,7 @@
 address: Albert Dock, Liverpool, L3 4BB
 latitude: 53.401
 longitude: -2.9937
+snippet: Modern art in a converted Albert Dock warehouse
 tags:
 - things_to_do
 - museum

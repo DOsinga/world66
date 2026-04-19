@@ -1,14 +1,16 @@
 ---
-title: "Amphitheatre"
-type: poi
 latitude: 44.803658
 longitude: 13.949771
+snippet: Intact Roman arena from the 1st century, still hosting events
+tags:
+- things_to_do
+- sight
+title: Amphitheatre
+type: poi
 ---
 
-The most famous and important monument, the starting and ending point of every sightseeing - the Arena or Amphitheatre - the building where in ancient Rome gladiatorial fights were held, was built in the 1st century AD during the reign of the Emperor Vespasian, at the same time as the Colosseum in Rome. 
+The most famous monument in Pula and the starting point for any visit. This Roman amphitheatre was built in the 1st century AD during the reign of Emperor Vespasian, around the same time as the Colosseum in Rome. Oval in plan, roughly 130 metres long and 100 metres wide, it could seat about 20,000 spectators for gladiatorial fights.
 
+Local limestone was used throughout. The outer wall with its two rows of arches is remarkably well preserved. In the Middle Ages the arena hosted knight tournaments and fairs; today it is used for summer concerts, film screenings, and the Pula Film Festival, seating around 5,000.
 
- 
- It is oval in shape, about 130 metres long and about 100 metres wide. In the middle there is an even part - the arena, while the spectators could sit on the stone stairs-benches or stand in the gallery. It is believed the Amphiteatre could seat 20.000 spectators. Local limestone was used for its construction. In the Middle Ages it was the site of knight tournaments and fairs. 
- 
- Today it is used for summer performances - the Film Festival, Opera Season, Horse Festival, concerts, ... where about 5.000 spectators can come. The underground passages, once used by the gladiators, nowadays host a regular exhibition of viticulture and olive-growing in Istria in ancient times. Some of the exhibits are reconstruction of machines once used for the production of oil and wine (mills, presses, containers) and the amphorae used for storing and transporting oil and wine.
+The underground passages where gladiators once waited now hold a permanent exhibition on viticulture and olive growing in Roman Istria, with reconstructed presses and amphorae.

@@ -1,6 +1,7 @@
 ---
 latitude: 31.5118
 longitude: -9.7715
+snippet: 1930s seafront restaurant with Atlantic views and fresh fish
 tags:
 - eating_out
 title: Chalet de la Plage

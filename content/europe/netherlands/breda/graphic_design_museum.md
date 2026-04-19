@@ -1,6 +1,7 @@
 ---
 latitude: 51.587
 longitude: 4.7768
+snippet: Rare museum devoted entirely to graphic design
 tags:
 - things_to_do
 - museum

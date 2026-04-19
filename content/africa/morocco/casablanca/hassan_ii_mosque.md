@@ -1,6 +1,7 @@
 ---
 latitude: 33.608224
 longitude: -7.632473
+snippet: Vast oceanfront mosque open to non-Muslims, with the world's tallest minaret
 story: The mosque was partly paid for by a direct tax imposed on every Moroccan household
   during construction. The 210-metre minaret — the tallest in the world — has a laser
   at the top pointing towards Mecca.

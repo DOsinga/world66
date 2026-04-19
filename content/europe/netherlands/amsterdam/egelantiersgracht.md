@@ -1,7 +1,10 @@
 ---
 category: Street
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.3752
 longitude: 4.882
+snippet: Quiet Jordaan canal with houseboats and leaning gables
 tags:
 - jordaan
 title: Egelantiersgracht

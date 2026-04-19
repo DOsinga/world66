@@ -1,8 +1,11 @@
 ---
 address: 3 Rose Street, Edinburgh EH2 2PR
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 55.953244
 longitude: -3.194558
 phone: 0131 225 5276
+snippet: Grand Victorian bar with cask ales on Rose Street
 tags:
 - bars_and_cafes
 - new_town

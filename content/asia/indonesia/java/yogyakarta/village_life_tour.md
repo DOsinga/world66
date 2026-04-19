@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -7.608
 longitude: 110.204
+snippet: Visit traditional Javanese villages near Yogyakarta
 tags:
 - things_to_do
 title: Village Life Tours

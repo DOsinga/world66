@@ -1,14 +1,17 @@
 ---
 address: Via della Salara Vecchia 5/6, 00186 Rome
 admission: Included in combined Colosseum ticket
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8925
 longitude: 12.4853
 opening_hours: Daily from 09:00; closing varies by season
+snippet: Sprawling ruins at the heart of ancient Rome
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome
 - things_to_do
-- church
+- landmark
 title: Roman Forum
 type: poi
 ---

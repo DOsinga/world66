@@ -1,61 +1,18 @@
 ---
-title: "Playa Municipal"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 17.6383
+longitude: -101.5518
+snippet: Downtown beach with fishing boats and seafood stalls
+tags:
+- things_to_do
+- beach
+title: Playa Municipal
 type: poi
-latitude: 20.629588
-longitude: -87.077899
 ---
 
-Playa Municipal, also known as Playa Principal, is located by the
-downtown area of Zihuatanejo. It runs from the Municipal Pier to the
-canal.
+Playa Municipal, also known as Playa Principal, stretches along the downtown waterfront of Zihuatanejo from the Municipal Pier to the canal. It's the town's working beach and its social heart.
 
-The end near the pier is home to the Naval Base. At the other end, by the canal, is
-the Museo Archeologico, the Archeological Museum. And there is so much
-more in between.
+Every evening the local fishing fleet heads out from here. They return at dawn, and the beach transforms into an open-air fish market. Impromptu kitchens set up to feed the fishermen, mothers sell the catch, and restaurant buyers pick through the best of it. It's one of the most authentic scenes on this stretch of coast.
 
-The zocalo, or town square, is near the midpoint of the beach. On
-Sunday evening this ishome to the weekly fiesta.
-Entertainment includes singing, dancing, clowns, and plays. And no
-fiesta would be complete without lots of good food!
-
-Playa Municipal is where the local fleet of fishing boats departs
-each evening. They return in the morning with their catch of fresh
-fish. The area then turns into a hub of activity. Impromptu restaurants
-feed the fishermen. Children play while their mothers sell the fish
-their fathers have caught. Buyers look for the best fish to serve in
-their restaurants.
-
-Playa Municipal is home to a variety of restaurants, mostly
-specializing in seafood. El Mediteraneo, La Serena Gorda, Daniel's, and
-El Arbolito, to name a few.
-
-**Contributors**
-September 11, 2005
-
-
-
-
-
-##
-
--
-
--
-
--
-
-[](/lib/map/handle?loc=northamerica|mexico)
-
-[](/lib/map/handle?loc=northamerica|mexico|ixtapazihuatanejo)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The zocalo sits near the midpoint of the beach. On Sunday evenings it hosts a weekly fiesta with music, dancing, and street food. At the pier end you'll find the Naval Base; at the canal end, the small Museo Arqueologico. Seafood restaurants line the beachfront — La Sirena Gorda and El Arbolito are local favourites.

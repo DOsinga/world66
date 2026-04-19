@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 44.0498
 longitude: 8.2126
+snippet: Fifth-century baptistery with rare early Christian mosaic
 story: Built in the 5th century, the Albenga baptistery is the finest surviving early
   Christian monument in Liguria. Its interior mosaic — a blue sky dotted with twelve
   white doves — dates from around 450 AD and was rediscovered only in the 20th century

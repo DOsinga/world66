@@ -1,11 +1,14 @@
 ---
-title: 'Bukit Love Viewpoint'
-type: poi
-tags:
-  - things_to_do
-  - sight
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -5.8651
-longitude: 110.4280
+longitude: 110.428
+snippet: Hilltop panorama over harbour, village and scattered islands
+tags:
+- things_to_do
+- sight
+title: Bukit Love Viewpoint
+type: poi
 ---
 
 A short climb up a hill on the main island rewards you with a panoramic view over the harbour, the village, and the scatter of islands across the turquoise sea. The path is easy and takes about fifteen minutes from the base. It is best at sunset, when the light turns the water gold and you can pick out the silhouettes of the outer islands on the horizon.

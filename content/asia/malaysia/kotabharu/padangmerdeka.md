@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 6.1243
 longitude: 102.244
+snippet: Independence Square anchoring a cluster of museums
 tags:
 - things_to_do
 - landmark

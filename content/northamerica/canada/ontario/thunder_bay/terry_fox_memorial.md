@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.4125
 longitude: -89.2013
+snippet: Bronze statue where the Marathon of Hope ended
 tags:
 - things_to_do
 - landmark

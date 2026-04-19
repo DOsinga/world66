@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 44.6478
 longitude: -63.5714
+snippet: Popular local spot for seafood and pasta
 tags:
 - eating_out
 - restaurant

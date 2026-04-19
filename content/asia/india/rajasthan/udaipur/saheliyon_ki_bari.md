@@ -1,9 +1,12 @@
 ---
 address: Saheli Marg, Udaipur
 admission: ₹30
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.5888
 longitude: 73.6862
 opening_hours: Daily 09:00–18:00
+snippet: Ornamental 18th-century garden built for the queen's maids
 tags:
 - things_to_do
 - landmark

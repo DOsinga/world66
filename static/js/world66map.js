@@ -207,7 +207,28 @@ function initLocationMap(elementId, markers, options) {
     var _allMarkers = markers.slice();
     var _maxVisible = Infinity; // show all dots
 
-    function _addMarkerToGroup(m, isSingle) {
+    function _addDotMarker(m) {
+        var highlight = !!m.highlight;
+        var dotHtml = '<i class="map-dot' + (highlight ? ' map-dot--highlight' : '') + '"></i>';
+        var mk = L.marker([m.lat, m.lng], {
+            icon: L.divIcon({
+                className: 'map-label',
+                html: dotHtml,
+                iconSize: [0, 0], iconAnchor: [0, 0],
+            }),
+        });
+        if (m.name) {
+            mk.bindTooltip(m.name, {
+                className: 'map-name-tip',
+                direction: 'top',
+                offset: [0, -6],
+                sticky: false,
+            });
+        }
+        mk.addTo(group);
+    }
+
+    function _addLabelMarker(m, isSingle) {
         var highlight = !!m.highlight;
         var cls = isSingle && highlight ? ' map-label--highlight' : '';
         var inner = m.url
@@ -222,7 +243,7 @@ function initLocationMap(elementId, markers, options) {
         }).addTo(group);
     }
 
-    // Greedy deconfliction for grey labels — dots always go through.
+    // Greedy deconfliction — walk pool top-down, place label only if it doesn't overlap.
     function _deconflict(pool, maxCount) {
         var PAD = 4;
         var PX_PER_CHAR = 7;
@@ -252,9 +273,14 @@ function initLocationMap(elementId, markers, options) {
         });
         group.clearLayers();
         var isSingle = pool.length === 1;
-        // Deconflict top-down, stop at 10 placed labels
-        var visible = _deconflict(inView, 10);
-        visible.forEach(function(m) { _addMarkerToGroup(m, isSingle, false); });
+        // Deconflict top-down for labels (max 10); all others get a dot + hover tooltip
+        var labelled = _deconflict(inView, 10);
+        var labelledSet = {};
+        labelled.forEach(function(m) { labelledSet[m.lat + ',' + m.lng] = true; });
+        inView.forEach(function(m) {
+            if (!labelledSet[m.lat + ',' + m.lng]) _addDotMarker(m);
+        });
+        labelled.forEach(function(m) { _addLabelMarker(m, isSingle); });
     }
 
     function _fitToGroup(grp, mkrs, opts) {

@@ -1,15 +1,15 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -6.496517
 longitude: -76.335111
+snippet: Tranquil palm-fringed lake with paddle boats just outside Tarapoto
 tags:
 - day_trips
 title: Laguna Venecia
 type: poi
 ---
 
-Only about 5 km outside of [Tarapoto](/southamerica/peru/tarapoto), Laguna Venecia is one of the easiest places to visit. It is a tranquil lake with many palms and other trees and higher plants that will help one to slip back into the tropical paradise visitors came to Tarapoto for to start with. Paddle boats and swimming are a couple of activities available at Laguna Venecia, as well as a mini zoo, with friendly monkeys that can be petted and played with.
+Only about 5 km outside of Tarapoto, Laguna Venecia is one of the easiest day trips in the area. It is a small, tranquil lake surrounded by palms and tropical vegetation — a reminder of the jungle that once covered the flat lands around the city before they were cleared for agriculture generations ago.
 
-At the restaurant one can buy bananas (both to eat and to feed to the monkeys) and Inca Cola and Coca Cola. Many refreshing local drinks are available as well as an excellent chicken milanesa. Just off the edge of the property, one can see the fields of Tarapoto. The Jungle was cleared generations ago from much of the flat lands near Tarapoto for growing crops. Tarapoto's economy is largely dependent on agriculture. There is a gate fee of 3 soles ($1.03 US) per person at the entrance.
-
-**Contributors**
-February 18, 2008
+You can rent paddle boats, swim, or just sit by the water. A small zoo on the grounds has monkeys you can interact with. The on-site restaurant serves local drinks and simple meals. There is a small entrance fee.

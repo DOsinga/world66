@@ -1,5 +1,9 @@
 ---
-category: sights
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 41.3809
+longitude: 2.1734
+snippet: Barcelona's famous tree-lined promenade from sea to square
 tags:
 - things_to_do
 - sights
@@ -7,4 +11,8 @@ title: Les Ramblas
 type: poi
 ---
 
-Barcelona is known for the promenade with its book stalls, flower stalls and people parading. It stretches from the seaside to Plaza de Catalunya and is a good promenade from which to explore the rest of the town. Interesting buildings along the promenade are the Academia de Sciencias, the old Gothic church de Betlem and the Palacio de Moya. When you leave the Ramblas for the Mercado de la Boqueria, you’ll see the hustle and bustle of one of the oldest markets in the city. A must is also the Plaça Reial, a lovely square with a tranquil atmosphere, palm trees, terraces and a fountain. Once a week, you can swap or buy stamps at the little market underneath the arches of the buildings bordering on the square.
+Barcelona's most famous street runs about 1.2 kilometres from Placa de Catalunya down to the Columbus monument at the waterfront. The wide, tree-lined central promenade is always busy with locals and visitors, and it makes a natural spine for exploring the old city on either side -- the Barri Gotic to the east, El Raval to the west.
+
+The Ramblas changes character as you walk it. The upper stretch near Placa de Catalunya has flower stalls and newspaper kiosks. Midway down, the Mercat de la Boqueria is the star attraction -- one of Europe's great food markets, with stalls piled high with fruit, seafood, and cured meats. Further along you pass the Gran Teatre del Liceu, Barcelona's opera house, and the mosaic by Joan Miro set into the pavement (easy to miss if you're not looking down). Near the bottom, Placa Reial is a brief detour worth taking -- a graceful arcaded square with palm trees, cafe terraces, and lampposts designed by a young Gaudi.
+
+The Ramblas is heavily touristed and pickpockets work the crowds, so keep your wits about you. But it remains a genuinely enjoyable walk, especially in the early morning before the tour groups arrive.

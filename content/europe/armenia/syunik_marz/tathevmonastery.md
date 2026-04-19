@@ -3,7 +3,11 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 39.3781
 longitude: 46.2476
-tags: [things_to_do, monastery, historic_site]
+snippet: 9th-century monastery on a dramatic gorge reached by cable car
+tags:
+- things_to_do
+- monastery
+- historic_site
 title: Tatev Monastery
 type: poi
 ---

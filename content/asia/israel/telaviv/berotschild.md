@@ -4,13 +4,10 @@ type: poi
 tags:
   - bars_and_cafes
   - cafe
-address: "Rotschild avenue between Maze and Nachmani streets"
+address: "Rothschild Boulevard, between Maze and Nachmani streets"
 latitude: 32.0646
 longitude: 34.7748
+snippet: "Sidewalk cafe on Tel Aviv's tree-lined Rothschild Boulevard"
 ---
 
-This cafe in the middle of Rotschild avenue is currently the trendiest place in Tel Aviv. 50 meters away along the avenue is the Mitacht Laetz cafe which is very similar.
-They have various types of good coffee, sandwiches and salads.This is not the point though. Both places and the walkway in the middle are popular amongst both businessmen, stylish young people and of course lots of dog owners. It's informal location and the nice setting in the pleasant avenue makes it easier to mingle.
-
-**Contributors**
-July 17, 2006
+A sidewalk cafe planted in the wide, tree-lined median of Rothschild Boulevard, one of Tel Aviv's most pleasant streets for sitting and watching the city go by. The coffee is good, the sandwiches and salads are decent, but the real draw is the location: shaded tables on the boulevard's pedestrian promenade, surrounded by Bauhaus-era buildings and a steady stream of dog walkers, joggers, and laptop workers. Nearby along the same strip you'll find Mitacht Laetz and a handful of similar spots if this one is full.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.7929
 longitude: -1.7534
+snippet: Free museum tracing photography, film, TV, radio, and the web
 tags:
 - things_to_do
 - museum

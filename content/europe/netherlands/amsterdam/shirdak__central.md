@@ -1,24 +1,15 @@
 ---
-address: Shirdak Prinsengracht 192
-category: Antiques
+address: Prinsengracht 192, 1016 HC Amsterdam
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 52.3686
+longitude: 4.8827
+snippet: Gallery of Central Asian nomad textiles and felt carpets
 tags:
 - shopping
 title: Shirdak - Central Asian Carpets & Textiles
 type: poi
-url: www.theninestreets.com
-zipcode: 1016 HC Amsterdam, The Netherlands
+url: https://www.theninestreets.com/shirdak-amsterdam.html
 ---
 
-SHIRDAK is a gallery of nomad textile and felt carpets from Central Asia. The collection of Prins Shirdak contains traditional textiles such as ikatcoats, embroidery from the Chinese Miao minority, Suzanies and feltcarpets. The owner Marianne Tuerlings frequently travels to Eastern Europe and Central Asia to personally select the gallery's unique range of special textile products.
-
-type: Antiques
-
-
-
-
-
-zipcode: 1016 HC Amsterdam, The Netherlands
-
-url: [www.theninestreets.com](http://www.theninestreets.com/shirdak-amsterdam.html)
-
-address: Shirdak Prinsengracht 192
+A gallery specialising in nomad textiles and felt carpets from Central Asia. Owner Marianne Tuerlings makes regular buying trips to Eastern Europe and Central Asia, bringing back ikat coats, Miao minority embroidery, suzanis, and shirdak felt carpets. The pieces are carefully chosen and tend to be the real thing rather than tourist-market reproductions.

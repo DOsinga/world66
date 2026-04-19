@@ -1,9 +1,12 @@
 ---
 address: Via Francesco de Sanctis 19, 80134 Naples
 admission: €8
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.8493
 longitude: 14.2549
 opening_hours: Wed–Mon 09:00–19:00; closed Tue
+snippet: Baroque chapel with the astonishing Veiled Christ sculpture
 tags:
 - 48 Hours in Naples
 - 3 Days in Naples

@@ -1,5 +1,7 @@
 ---
 address: Choriner Straße 49, Prenzlauer Berg
+done:
+  poi_cleanup: '2026-04-19'
 email: info@mundoazul.de
 latitude: 52.536568
 longitude: 13.410214

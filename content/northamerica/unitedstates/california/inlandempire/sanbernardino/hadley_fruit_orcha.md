@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.923277
 longitude: -116.807035
 phone: 800-854-5655

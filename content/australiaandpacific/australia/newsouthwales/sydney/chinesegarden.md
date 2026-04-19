@@ -1,5 +1,7 @@
 ---
 address: Pier St, Darling Harbour
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -33.8676
 longitude: 151.1996
 opening_hours: 9:30am to 5pm daily

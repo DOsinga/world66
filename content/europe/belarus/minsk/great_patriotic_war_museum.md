@@ -1,9 +1,11 @@
 ---
 address: Prospekt Pobeditelei 8, 220004 Minsk
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.9168
 longitude: 27.5401
 phone: (+375-17) 226-15-44
-snippet: "Comprehensive WWII museum in a striking modern building"
+snippet: Comprehensive WWII museum in a striking modern building
 tags:
 - things_to_do
 - museum

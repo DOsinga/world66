@@ -1,5 +1,7 @@
 ---
 address: 1003 East Highland Avenue, San Bernardino
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.135813
 longitude: -117.266153
 phone: 909-881-6514

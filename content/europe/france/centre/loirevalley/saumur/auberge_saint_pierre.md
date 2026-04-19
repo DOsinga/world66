@@ -1,5 +1,7 @@
 ---
 address: 6, place Saint-Pierre, Saumur
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.2591
 longitude: -0.0768
 snippet: Traditional Loire cuisine on a picturesque square in old Saumur

@@ -1,8 +1,10 @@
 ---
 address: Bij Sint Jacobs 17, 9000 Ghent
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.056062
 longitude: 3.727232
-snippet: "Atmospheric beer bar with rare Belgian brews"
+snippet: Atmospheric beer bar with rare Belgian brews
 tags:
 - bars_and_cafes
 title: Trollenkelder

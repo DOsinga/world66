@@ -1,5 +1,7 @@
 ---
 address: Ermita, Manila
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 14.5828
 longitude: 120.9785
 snippet: Manila's central park and site of Rizal's 1896 execution

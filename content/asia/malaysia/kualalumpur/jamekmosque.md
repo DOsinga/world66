@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 3.148929
 longitude: 101.695676
 snippet: KL's oldest mosque at the confluence of two rivers

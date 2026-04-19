@@ -1,6 +1,8 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.3818
-longitude: 2.1970
+longitude: 2.197
 snippet: Barcelona's 1992 Olympic marina turned waterfront promenade
 tags:
 - things_to_do

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 0.301923
 longitude: 32.566342
 snippet: Royal palace of the Buganda kingdom on Mengo Hill

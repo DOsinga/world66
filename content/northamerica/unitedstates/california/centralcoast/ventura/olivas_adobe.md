@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.2378
 longitude: -119.235
 snippet: Well-preserved 1840s Rancho-era adobe with summer concerts

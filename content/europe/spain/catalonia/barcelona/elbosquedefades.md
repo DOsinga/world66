@@ -1,5 +1,7 @@
 ---
-latitude: 41.3760
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 41.376
 longitude: 2.1748
 snippet: Fairy-tale themed bar inside Barcelona's wax museum
 tags:

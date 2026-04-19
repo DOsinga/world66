@@ -1,9 +1,11 @@
 ---
 address: Palazzo del Cinema, Lungomare Marconi, Lido di Venezia
-latitude: 45.3710
-longitude: 12.3670
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 45.371
+longitude: 12.367
 phone: +39 041 5218711
-snippet: "World's oldest film festival, held on the Lido"
+snippet: World's oldest film festival, held on the Lido
 tags:
 - things_to_do
 - when_to_go

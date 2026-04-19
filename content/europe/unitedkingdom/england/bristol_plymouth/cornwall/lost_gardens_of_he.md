@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-19'
 latitude: 50.283414
 longitude: -4.807851
 snippet: Victorian estate gardens lost to brambles and beautifully restored

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 55.6772
 longitude: 12.6105
 snippet: Self-governing commune in a former military base since 1971

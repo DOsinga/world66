@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.5267
 longitude: -122.6499
 snippet: Beloved Portland brunch spot known for massive omelets

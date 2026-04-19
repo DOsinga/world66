@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.2089
 longitude: 0.1165
 snippet: Home to Cambridge's Bridge of Sighs and stunning riverside Backs

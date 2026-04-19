@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.5124
 longitude: -122.6836
-snippet: "Solid neighborhood Thai near Portland State University"
+snippet: Solid neighborhood Thai near Portland State University
 tags:
 - eating_out
 - restaurant

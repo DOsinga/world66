@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -12.0464
 longitude: -77.0428
 snippet: Peruvian fast-food chain famous for rotisserie chicken

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.052222
 longitude: 31.280556
 snippet: Vast Mamluk-era necropolis where thousands live among the tombs

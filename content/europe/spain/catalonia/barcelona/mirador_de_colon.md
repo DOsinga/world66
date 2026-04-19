@@ -1,8 +1,10 @@
 ---
-address: "Plaça del Portal de la Pau, 08001 Barcelona"
+address: Plaça del Portal de la Pau, 08001 Barcelona
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.3757
 longitude: 2.1774
-snippet: "60-metre Columbus column with panoramic viewing gallery"
+snippet: 60-metre Columbus column with panoramic viewing gallery
 tags:
 - things_to_do
 - sights

@@ -1,6 +1,8 @@
 ---
-latitude: 23.5350
-longitude: -75.7800
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 23.535
+longitude: -75.78
 snippet: Local favourite for fried grouper at George Town's Fish Fry
 tags:
 - restaurant

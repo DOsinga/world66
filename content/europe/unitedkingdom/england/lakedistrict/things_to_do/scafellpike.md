@@ -2,8 +2,12 @@
 title: 'Scafell Pike'
 type: poi
 category: 'hiking'
+snippet: "England's highest peak, a challenging fell walk"
 latitude: 54.454259
 longitude: -3.211654
+tags:
+- things_to_do
+- hiking
 ---
 
 The highest point of England is somewhat harder to reach than its Scottish and Welsh counterparts. Ben Nevis has a tourist path and Snowdon has a train, but Scafell Pike is relatively remote from any valley base and requires a modicum of navigational expertise.

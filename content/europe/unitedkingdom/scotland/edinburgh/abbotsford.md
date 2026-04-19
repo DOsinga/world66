@@ -9,6 +9,7 @@ tags:
 - bar
 title: The Abbotsford
 type: poi
+snippet: "Grand Victorian bar with cask ales on Rose Street"
 ---
 
 A magnificent Victorian island bar in dark wood and ornate plaster, opened in 1902 and barely altered since. A long line of cask ales on the pumps, decent pub food upstairs, and a steady mix of locals, lawyers and lost tourists who realised Rose Street had quieter pubs than Princes Street.

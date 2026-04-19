@@ -3,6 +3,7 @@ address: Rua Jardim Botanico, 414
 latitude: -22.96003
 longitude: -43.212038
 opening_hours: 9:00 - 17:30; weekends until 22:30
+snippet: Art-school mansion at the foot of Corcovado with Instagram-famous cafe
 tags:
 - things_to_do
 - park

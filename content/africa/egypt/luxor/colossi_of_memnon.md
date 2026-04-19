@@ -1,6 +1,7 @@
 ---
 latitude: 25.720495
 longitude: 32.610441
+snippet: Two massive pharaonic statues guarding a vanished temple
 tags:
 - things_to_do
 - landmark

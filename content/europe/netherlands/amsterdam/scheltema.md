@@ -1,7 +1,7 @@
 ---
 title: Scheltema
 type: poi
-category: Shop
+snippet: "Amsterdam's largest bookshop across six floors"
 tags:
 - shopping
 address: Koningsplein 20

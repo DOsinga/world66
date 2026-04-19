@@ -1,6 +1,8 @@
 ---
+address: Parc de la Liberté, Algiers
 latitude: 36.7596
 longitude: 3.0455
+snippet: Free museum of Roman mosaics and Islamic art in a park
 tags:
 - things_to_do
 - museum

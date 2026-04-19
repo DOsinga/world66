@@ -1,8 +1,11 @@
 ---
 address: Im Lohnhof 9
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.554803
 longitude: 7.587842
 opening_hours: Wed–Sat 11am–5pm, Sun 11am–5pm
+snippet: Switzerland's largest collection of historic musical instruments
 tags:
 - things_to_do
 - museum

@@ -1,11 +1,18 @@
 ---
-title: "Alhambra"
+latitude: 37.1761
+longitude: -3.5881
+snippet: Moorish palace complex overlooking Granada, Spain's most visited monument
+tags:
+- things_to_do
+- landmark
+- history
+- architecture
+title: Alhambra
 type: poi
-type: "Historical Sights"
-latitude: 37.176055
-longitude: -3.58811
 ---
 
-The most-well preserved Arabian Palace of its epoch built on a red sandy hill. The palace comprises several other palaces and an impressive garden. Only a limit amount of visitors are allowed to go in at one go. **Justin :** This is the one of the most beautiful sights in the world. The beauty of the Moorish architecture is hard to describe...
+The Alhambra is a 13th- and 14th-century palace and fortress complex built by the Nasrid dynasty on a plateau above Granada. The Nasrid Palaces are the highlight — rooms like the Court of the Lions and the Hall of the Ambassadors showcase Islamic decorative arts at their most refined, with intricate stucco work, carved wooden ceilings, and tile mosaics covering every surface. The Generalife gardens next door, with their terraced walkways and water channels, offer a quieter counterpart.
 
-type: Historical Sights
+The complex also includes the Alcazaba (the oldest fortified section, with panoramic views from the watchtower), the Renaissance-era Palace of Charles V, and several smaller structures scattered across the grounds.
+
+Book tickets well in advance — entry to the Nasrid Palaces is limited to timed slots and they sell out days or weeks ahead, especially in spring and autumn. Morning light is best for the palace interiors, but late afternoon has the advantage of smaller crowds and golden light on the walls. Allow at least three hours for a proper visit.

@@ -3,6 +3,7 @@ address: cnr Boundary & Russell Street, West End
 latitude: -27.4825
 longitude: 153.002
 phone: 07 3846 1323
+snippet: Laid-back West End bar with DJs and beanbags
 tags:
 - bars_and_cafes
 title: Rumpus Room

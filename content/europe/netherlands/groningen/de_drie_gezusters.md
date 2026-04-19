@@ -1,25 +1,13 @@
 ---
-accessibility: www.driegezusters.net
 address: Grote Markt 36
-latitude: 50.847156
-longitude: 4.352387
+latitude: 53.2174
+longitude: 6.5665
+snippet: "Largest cafe in the Netherlands, twelve venues in one"
 tags:
 - bars_and_cafes
 title: De Drie Gezusters
 type: poi
+url: www.driegezusters.net
 ---
 
-In the centre of Groningen on the Grote Markt you'll find ‘The 3 Gezusters’ (also called 'the 3' by locals). ‘The 3 Gezusters’ is the largest cafe in the Netherlands. This large cafe is split up into 12 smaller cafes and dancing areas, every area has its own name. All of these areas are interconnected. When here for the first time, it’s like a labyrinth. In ‘The 3 Gezusters’, for every different person there's a place he or she will like. Some of the cafes are small and cozy but other places are crowded and noisy. There are also 4 dancing areas with spinning bars. There is also a place, The Coyotebar, where the girls dance on the bar. Because every area is so different the average age in this cafe also differs. ‘The 3 Gezusters’ is open every day until 4 a.m. but some of the areas will be closed earlier. Free entrance.
-
-**Contributors**
-June 03, 2005
-
-July 05, 2006
-
-
-
-
-
-address: Grote Markt 36
-
-accessibility: www.driegezusters.net
+Right on the Grote Markt, De Drie Gezusters (The Three Sisters) claims to be the largest cafe in the Netherlands, and the claim is hard to dispute. The building is split into a dozen interconnected bars and dance floors, each with its own name and character — some small and candlelit, others packed and loud with spinning bars and DJs. First-timers tend to get lost, which is part of the fun. Open every day until 4 a.m., though some sections close earlier. Free entrance.

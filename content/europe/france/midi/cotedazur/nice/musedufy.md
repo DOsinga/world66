@@ -6,6 +6,7 @@ phone: 04.93.62.31.24
 tags:
 - things_to_do
 - museum
+snippet: "Raoul Dufy's bright Riviera watercolours on the seafront"
 title: Musee Dufy
 type: poi
 ---

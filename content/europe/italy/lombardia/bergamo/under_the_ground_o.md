@@ -3,27 +3,12 @@ address: Piazza Mercato delle Scarpe, Città Alta, Bergamo
 latitude: 45.703092
 longitude: 9.665254
 phone: 035 251233
+snippet: "Underground tours of aqueducts, cisterns and bomb shelters"
 tags:
 - tours_and_excursio
-- church
-- market
-- square
 title: Under the Ground of Città Alta
 type: poi
 url: www.nottole.it
 ---
 
-Take a tour under the ground of Città Alta and see aquaducts, water cisterns, fountains, wells and bomb shelters. There is a huge water cistern under Piazza Mercato delle Scarpe. There are huge underground galleries for the canons of old. There is the Fountain of Lantro situated under the Church of San Lorenzo at the beginning of Via Boccola and built way before the year 928. Tours by reservation and depending on the weather.
-
-**Contributors**
-March 12, 2008
-
-
-
-tel: 035.251233
-
-url: [www.nottole.it](http://www.nottole.it)
-
-address: Castello della Marigolda, Via Marigolda 11/a, 24035 Curno (Bergamo)
-
-email: segreteria@nottole.it
+Take a guided tour beneath the cobblestones of Bergamo's upper town and discover a hidden world of aqueducts, water cisterns, fountains, wells and wartime bomb shelters. A huge cistern lies under Piazza Mercato delle Scarpe; underground galleries once used for cannon emplacements stretch further below. The Fountain of Lantro, situated beneath the Church of San Lorenzo at the beginning of Via Boccola, dates to before 928 AD. Tours run by reservation and depend on the weather.

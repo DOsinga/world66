@@ -4,6 +4,7 @@ longitude: -124.3713
 tags:
 - things_to_do
 - sight
+snippet: "Third lighthouse on this site, viewable from Sunset Bay State Park"
 title: Cape Arago Lighthouse
 type: poi
 ---

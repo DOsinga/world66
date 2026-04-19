@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - park
+snippet: "Bernini sculptures and Caravaggio paintings in a park villa"
 title: Galleria Borghese
 type: poi
 url: www.galleriaborghese.it

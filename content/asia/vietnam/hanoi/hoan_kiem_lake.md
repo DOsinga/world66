@@ -4,6 +4,7 @@ longitude: 105.8524
 tags:
 - things_to_do
 - landmark
+snippet: "Hanoi's social heart with lakeside temple and sword legend"
 title: Hoan Kiem Lake
 type: poi
 ---

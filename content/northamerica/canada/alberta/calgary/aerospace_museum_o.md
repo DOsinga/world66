@@ -4,6 +4,7 @@ longitude: -114.012222
 tags:
 - things_to_do
 - museum
+snippet: "Historic aircraft and Canadian aviation pioneers"
 title: Aero Space Museum of Calgary
 type: poi
 ---

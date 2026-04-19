@@ -4,6 +4,7 @@ longitude: -63.1833
 tags:
 - things_to_do
 - landmark
+snippet: "Uncrowded beach and good reef snorkelling by day boat"
 title: Prickly Pear Cays
 type: poi
 ---

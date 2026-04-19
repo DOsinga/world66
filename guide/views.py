@@ -131,6 +131,7 @@ def location_or_section(request, path):
     continent_slug = path_parts[0] if path_parts else None
     is_continent = len(path_parts) == 1 and page.page_type == "location"
     continent_bounds = page.meta.get("map_bounds") if is_continent else None
+    page_map_bounds = page.meta.get("map_bounds") if not is_continent else None
 
     image_path = _image_path(page, branch)
     branch_qs = f'?branch={branch}' if branch else ''
@@ -217,6 +218,7 @@ def location_or_section(request, path):
         "continent_slug": continent_slug,
         "is_continent": is_continent,
         "continent_bounds": mark_safe(json.dumps(continent_bounds)) if continent_bounds else "null",
+        "page_map_bounds": mark_safe(json.dumps(page_map_bounds)) if page_map_bounds else "null",
         "markers_json": mark_safe(json.dumps(markers)),
         "markers_full_json": mark_safe(json.dumps(markers_full)),
         "hero_image_url": hero_image_url,

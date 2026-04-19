@@ -260,7 +260,9 @@ function initLocationMap(elementId, markers, options) {
     }
 
     function _fitToGroup(grp, mkrs, opts) {
-        if (mkrs.length > 1) {
+        if ((opts || {}).bounds) {
+            map.fitBounds((opts).bounds, {animate: false});
+        } else if (mkrs.length > 1) {
             map.fitBounds(grp.getBounds().pad(0.15));
         } else if (mkrs.length === 1) {
             var zoom = (opts || {}).isPoi ? 15 : 10;

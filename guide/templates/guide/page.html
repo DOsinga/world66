@@ -360,7 +360,7 @@
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
-    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
+    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
   }
 
   // Expand / collapse the sidebar map

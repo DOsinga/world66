@@ -1,7 +1,6 @@
 ---
 author: J.M. Synge
 isbn: 978-0140184327
-snippet: Synge's early 1900s account of island life, salt and timeless
 tags:
 - books
 title: The Aran Islands

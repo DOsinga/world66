@@ -1,5 +1,7 @@
 ---
 address: Bankastræti 7a
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 64.1468
 longitude: -21.9337
 opening_hours: 11:00–01:00 (Sun–Thu), 11:00–05:30 (Fri–Sat)

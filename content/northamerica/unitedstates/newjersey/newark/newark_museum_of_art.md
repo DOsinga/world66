@@ -1,6 +1,8 @@
 ---
+address: 49 Washington St, Newark, NJ 07102
 latitude: 40.7442
 longitude: -74.1716
+snippet: New Jersey's largest museum with world-class Tibetan art
 tags:
 - things_to_do
 - museum

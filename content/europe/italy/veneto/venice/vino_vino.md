@@ -4,7 +4,6 @@ email: vinovino@anticomartini.com
 latitude: 45.434829
 longitude: 12.334025
 phone: +39 041 2417688
-snippet: Encyclopaedic wine bar near La Fenice with 350 wines
 tags:
 - bars_and_cafes
 - bar

@@ -1,6 +1,7 @@
 ---
 title: "Praia da Luz Beach"
 type: poi
+snippet: "Broad sandy bay with calm water and all-day sun"
 tags: [beaches, beach]
 latitude: 37.0865
 longitude: -8.7255

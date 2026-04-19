@@ -1,6 +1,7 @@
 ---
 latitude: 40.9353
 longitude: 24.4182
+snippet: Ottoman complex turned boutique hotel with 18 lead domes
 tags:
 - things_to_do
 - architecture

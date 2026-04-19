@@ -1,6 +1,7 @@
 ---
 title: Palace Park and Bison Reserve
 type: poi
+snippet: "Landscaped palace grounds with a European bison reserve"
 tags: [things_to_do, park]
 latitude: 49.9795
 longitude: 18.9385

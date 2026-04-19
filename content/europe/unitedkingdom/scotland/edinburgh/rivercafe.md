@@ -3,11 +3,9 @@ address: 36 Deanhaugh Street, Edinburgh EH4 1LY
 latitude: 55.958282
 longitude: -3.209568
 phone: 0131 332 3322
+snippet: Relaxed Stockbridge café-bistro near the Water of Leith
 tags:
 - bars_and_cafes
-- stockbridge
-- bar
-- bridge
 - cafe
 title: River Café
 type: poi

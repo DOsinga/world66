@@ -2,6 +2,7 @@
 address: Avenue Mohammed V, Ouarzazate
 latitude: 30.9194
 longitude: -6.9022
+snippet: Imposing Glaoui-era rammed-earth fortress, partially UNESCO-restored
 tags:
 - things_to_do
 - sight

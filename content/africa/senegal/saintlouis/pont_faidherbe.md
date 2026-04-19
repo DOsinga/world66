@@ -1,13 +1,12 @@
 ---
 latitude: 16.0228
 longitude: -16.4897
-story: 'The bridge was designed by Gustave Eiffel''s engineering company in the 1890s
+snippet: Victorian iron swing bridge linking island N'Dar to the mainland
+story: The bridge was designed by Gustave Eiffel's engineering company in the 1890s
   — the same firm responsible for the Eiffel Tower and the structural frame of the
   Statue of Liberty. It was originally built for a different location in Portugal,
   then redirected to Saint-Louis. After decades of decay it was restored in 2011,
   a rare piece of good maintenance news in a city that needs more of it.
-
-  '
 tags:
 - things_to_do
 - architecture

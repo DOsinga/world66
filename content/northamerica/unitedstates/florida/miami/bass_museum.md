@@ -1,36 +1,15 @@
 ---
-accessibility: Totally Wheelchair Accessible
-address: 2121 Park Avenue
-latitude: 25.797685
-longitude: -80.130174
-opening_hours: Tuesday-Saturday 10:00 a.m.-5:00 p.m., Sunday 11:00 a.m.-5:00 p.m.,
-  closed Mondays
-phone: 305-673-7530
-tags:
-- things_to_do
-- museum
 title: Bass Museum of Art
-type: Hotspots
-url: www.bassmuseum.org.
+type: poi
+tags:
+  - things_to_do
+  - museum
+address: 2100 Collins Avenue, Miami Beach
+latitude: 25.7977
+longitude: -80.1302
 ---
 
-The Bass Museum of Art is located in the center of Miami’s historic district and it has been on the National Register of Historic Places since 1978. The museum features works by Pablo Picasso, Juan Gris, and Julio Gonzalez as well as works by pop artists such as Andy Warhol and Richard Linder. The exhibition schedule changes every several months or so, so please check the website before your visit. Admission $8.
+The Bass is Miami Beach's contemporary art museum, housed in a 1930s Art Deco building expanded by architect Arata Isozaki. The permanent collection spans European Old Masters through to contemporary photography and new media, but the rotating exhibitions are the real draw — the Bass has a knack for staging ambitious, site-specific installations that fill the building's dramatic central gallery.
 
-**Contributors**
-May 31, 2008
-
-type: Hotspots
-
-
-
-
-
-address: 2121 Park Avenue
-
-tel: 305-673-7530
-
-accessibility: Totally Wheelchair Accessible
-
-openingHours: Tuesday-Saturday 10:00 a.m.-5:00 p.m., Sunday 11:00 a.m.-5:00 p.m., closed Mondays
-
-url: [www.bassmuseum.org.](http://www.bassmuseum.org.)
+story: >
+  The museum began as the private collection of John and Johanna Bass, who donated over 500 works to Miami Beach in 1963. The original building was designed in 1930 as the city's first public library.

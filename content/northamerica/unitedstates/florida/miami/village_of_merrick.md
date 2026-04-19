@@ -1,26 +1,11 @@
 ---
-address: 358 San Lorenzo Avenue
-latitude: 25.731503
-longitude: -80.260144
-phone: 305-529-0200
-tags:
-- shopping
 title: Village of Merrick Park
-type: Speciality shops
-url: www.villageofmerrickpark.com
+type: poi
+tags:
+  - shopping
+address: 358 San Lorenzo Avenue, Coral Gables
+latitude: 25.7315
+longitude: -80.2601
 ---
 
-The Village of Merrick Park is located in upscale Coral Gables Florida, so it should come as no surprise that visitors to VMP will find everything from Ann Taylor and Betsey Johnson to Gucci, Jimmy Choo, and Tiffany & Co. The Village of Merrick Park is also popular for its numerous international restaurants such as Cafe Ibiza and OLA Steak & Tapas.
-
-**Contributors**
-June 01, 2008
-
-type: Speciality shops
-
-
-
-tel: 305-529-0200
-
-url: [www.villageofmerrickpark.com](http://www.villageofmerrickpark.com)
-
-address: 358 San Lorenzo Avenue
+An upscale open-air shopping centre in Coral Gables with Neiman Marcus, Nordstrom, and a curated mix of designer boutiques. The landscaping and architecture are pleasant — more garden promenade than strip mall — and there are several good restaurants on site.

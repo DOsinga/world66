@@ -1,37 +1,12 @@
 ---
-address: 4400 Rickenbacker Causeway, Miami
-latitude: 25.732999
-longitude: -80.16556
-opening_hours: Daily, 9:30 am–6:00 pm. Last admission is at 5:30 pm
-phone: 305-361-5705
-tags:
-- things_to_do
-- landmark
 title: Miami Seaquarium
-type: Hotspots
-url: www.miamiseaquarium.com
+type: poi
+tags:
+  - things_to_do
+  - sight
+address: 4400 Rickenbacker Causeway, Virginia Key
+latitude: 25.7330
+longitude: -80.1656
 ---
 
-See sharks and dolphins, sea lions and seals. Learn about manatees and
-eels. Check out sharks and crocodiles. Come face to face with
-world-famous stars Lolita the Killer Whale, TV’s Flipper, and Salty the
-Sea Lion. In this 38-acre tropical island paradise, anything is
-possible. Whales and dolphins fly while exotic birds stroll by.
-
-Included general admission with the Go Miami Card, a multi-attraction pass that allows you to choose from over 40 different attractions and tours to
-visit in Miami and can be purchased in 1, 2, 3, 5, and 7 day
-increments. http://gomiamicard.com/
-
-type: Hotspots
-
-
-
-
-
-tel: 305-361-5705
-
-openingHours: Daily, 9:30 am–6:00 pm. Last admission is at 5:30 pm
-
-url: [www.miamiseaquarium.com](http://www.miamiseaquarium.com)
-
-address: 4400 Rickenbacker Causeway, Miami
+This 38-acre marine park on Virginia Key has been a Miami fixture since 1955. It is home to manatee rehabilitation programs, sea turtle rescue, and dolphin and sea lion shows. The setting on Biscayne Bay is attractive, and the park is a reasonable option for families with younger children, though it feels dated compared to newer aquariums. The drive across the Rickenbacker Causeway to get there is scenic in its own right.

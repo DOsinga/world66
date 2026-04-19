@@ -2,6 +2,7 @@
 address: Zesilasea Square, Mekele
 latitude: 13.496
 longitude: 39.4768
+snippet: Emperor Yohannes IV's 1870s stone palace, now a museum
 tags:
 - things_to_do
 - museum

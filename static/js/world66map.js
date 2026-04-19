@@ -207,58 +207,60 @@ function initLocationMap(elementId, markers, options) {
     var _allMarkers = markers.slice();
     var _maxVisible = Infinity; // show all dots
 
-    function _addMarkerToGroup(m, isSingle) {
+    function _addMarkerToGroup(m, isSingle, dim) {
         var highlight = !!m.highlight;
-        if (isSingle) {
-            // Single location/POI: always show the name label
-            var cls = highlight ? ' map-label--highlight' : '';
-            var inner = m.url
-                ? '<a href="' + m.url + '">' + (m.name || '') + '</a>'
-                : '<span>' + (m.name || '') + '</span>';
-            L.marker([m.lat, m.lng], {
-                icon: L.divIcon({
-                    className: 'map-label' + cls,
-                    html: '<i class="map-dot"></i>' + inner,
-                    iconSize: [0, 0], iconAnchor: [0, 0],
-                }),
-            }).addTo(group);
-            return;
-        }
-        // Multiple markers: dot always visible, name shown on hover via tooltip
-        var dotCls = 'map-dot' + (highlight ? ' map-dot--highlight' : '');
-        var marker = L.marker([m.lat, m.lng], {
+        var cls = isSingle && highlight ? ' map-label--highlight'
+                : dim                  ? ' map-label--dim'
+                :                        '';
+        var inner = m.url
+            ? '<a href="' + m.url + '">' + (m.name || '') + '</a>'
+            : '<span>' + (m.name || '') + '</span>';
+        L.marker([m.lat, m.lng], {
             icon: L.divIcon({
-                className: 'map-dot-wrap',
-                html: '<i class="' + dotCls + '"></i>',
-                iconSize: [14, 14],
-                iconAnchor: [7, 7],
+                className: 'map-label' + cls,
+                html: '<i class="map-dot' + (highlight && !dim ? ' map-dot--highlight' : '') + '"></i>' + inner,
+                iconSize: [0, 0], iconAnchor: [0, 0],
             }),
-        });
-        if (m.name) {
-            marker.bindTooltip(m.name, {
-                className: 'map-name-tip',
-                direction: 'bottom',
-                offset: [0, 3],
-                sticky: false,
-            });
-        }
-        if (m.url) {
-            marker.on('click', function() { window.location.href = m.url; });
-        }
-        marker.addTo(group);
+        }).addTo(group);
     }
 
-    function _renderMarkers(pool, maxCount) {
+    // Greedy deconfliction for grey labels — dots always go through.
+    function _deconflict(pool, maxCount) {
+        var PAD = 4;
+        var PX_PER_CHAR = 7;
+        var LINE_H = 18;
+        var placed = [];
+        var result = [];
+        for (var i = 0; i < pool.length && result.length < maxCount; i++) {
+            var m = pool[i];
+            var pt = map.latLngToContainerPoint(L.latLng(m.lat, m.lng));
+            var w = (m.name || '').length * PX_PER_CHAR + 8;
+            var box = { x1: pt.x - w/2 - PAD, y1: pt.y - PAD,
+                        x2: pt.x + w/2 + PAD, y2: pt.y + LINE_H + PAD };
+            var overlaps = placed.some(function(p) {
+                return box.x2 > p.x1 && box.x1 < p.x2 && box.y2 > p.y1 && box.y1 < p.y2;
+            });
+            if (!overlaps) { placed.push(box); result.push(m); }
+        }
+        return result;
+    }
+
+    function _renderMarkers(pool) {
         var bounds = map.getBounds();
         var inView = pool.filter(function(m) { return bounds.contains([m.lat, m.lng]); });
         inView.sort(function(a, b) {
             var hp = (b.highlight ? 1 : 0) - (a.highlight ? 1 : 0);
             return hp || (b.score || 0) - (a.score || 0);
         });
-        var isSingle = pool.length === 1;
-        var visible = inView;
         group.clearLayers();
-        visible.forEach(function(m) { _addMarkerToGroup(m, isSingle); });
+        var isSingle = pool.length === 1;
+        var BLACK_LABELS = 10;
+        // Top 10: always show with black label
+        var black = inView.slice(0, BLACK_LABELS);
+        // Rest: show with grey label, deconflicted to avoid total clutter
+        var grey = _deconflict(inView.slice(BLACK_LABELS), 60);
+        black.forEach(function(m) { _addMarkerToGroup(m, isSingle, false); });
+        grey.forEach(function(m)  { _addMarkerToGroup(m, isSingle, true);  });
     }
 
     function _fitToGroup(grp, mkrs, opts) {
@@ -291,18 +293,17 @@ function initLocationMap(elementId, markers, options) {
 
     // On zoom/pan, always re-run deconfliction so the best fitting labels are shown
     map.on('zoomend moveend', function() {
-        _renderMarkers(_allMarkers, _maxVisible);
+        _renderMarkers(_allMarkers);
     });
 
-    // Called from template to expand/collapse marker pool or change the cap.
+    // Called from template to expand/collapse marker pool.
     // Delays rendering until after layout settles so invalidateSize gets correct bounds.
-    map._setMarkers = function(newMarkers, maxCount) {
+    map._setMarkers = function(newMarkers) {
         _allMarkers = newMarkers.slice();
-        if (maxCount) _maxVisible = maxCount;
         requestAnimationFrame(function() {
             requestAnimationFrame(function() {
                 map.invalidateSize();
-                _renderMarkers(_allMarkers, _maxVisible);
+                _renderMarkers(_allMarkers);
                 if (group.getLayers().length > 1) {
                     map.fitBounds(group.getBounds().pad(0.15));
                 }

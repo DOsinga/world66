@@ -1051,6 +1051,14 @@ img { max-width: 100%; height: auto; }
   cursor: pointer;
 }
 .leaflet-container .map-label--highlight a { font-weight: 700; opacity: 0.90; }
+.leaflet-container .map-label--dim a,
+.leaflet-container .map-label--dim span {
+  color: #666;
+  font-weight: 400;
+  font-size: clamp(9px, 1vw, 12px);
+  opacity: 0.55;
+}
+.map-label--dim .map-dot { background: #888; border-color: rgba(255,255,255,0.7); }
 
 /* Home continent map only — red, italic, centred (no dot) */
 .leaflet-container .continent-label a {

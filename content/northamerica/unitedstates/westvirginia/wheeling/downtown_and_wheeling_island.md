@@ -1,7 +1,10 @@
 ---
 title: "Downtown and Wheeling Island"
 type: poi
-category: Neighbourhood
+snippet: Historic riverfront downtown and Victorian island neighborhood
+tags:
+- things_to_do
+- neighbourhood
 latitude: 40.0640
 longitude: -80.7209
 ---

@@ -180,7 +180,7 @@ function initLocationMap(elementId, markers, options) {
 
     function _addDotMarker(m) {
         var highlight = !!m.highlight;
-        var dotCls = highlight ? ' map-dot--highlight' : m.name ? '' : ' map-dot--grey';
+        var dotCls = highlight ? ' map-dot--highlight' : ' map-dot--grey';
         var dotHtml = '<i class="map-dot' + dotCls + '"></i>';
         var mk = L.marker([m.lat, m.lng], {
             icon: L.divIcon({

@@ -2,6 +2,7 @@
 address: Jl. Yos Sudarso No. 134-A, Gunungsitoli
 latitude: 1.2362
 longitude: 97.6198
+snippet: Traditional Nias artefacts from ancestor carvings to weapons
 tags:
 - things_to_do
 - museum

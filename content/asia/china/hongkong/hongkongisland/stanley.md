@@ -1,6 +1,7 @@
 ---
 latitude: 22.2188
 longitude: 114.2092
+snippet: Seaside market village with waterfront bars and beaches
 tags:
 - things_to_do
 - neighbourhood

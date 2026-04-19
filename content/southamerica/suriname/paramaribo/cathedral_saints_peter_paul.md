@@ -1,6 +1,7 @@
 ---
 title: "Cathedral of Saints Peter and Paul"
 type: poi
+snippet: "Massive wooden cathedral built without nails from tropical hardwood"
 tags:
   - things_to_do
   - church

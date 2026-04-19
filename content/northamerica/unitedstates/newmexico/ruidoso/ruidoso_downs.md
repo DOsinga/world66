@@ -5,8 +5,10 @@ tags:
   - things_to_do
   - sight
   - horse_racing
+  - story
 latitude: 33.3289
 longitude: -105.6307
+snippet: Quarter-horse racing with mountain backdrop through summer
 story: >
   The All American Quarter Horse Futurity, run here each Labor Day, carries a purse that has reached over $3 million — making it the richest quarter-horse race in the world. The race covers 440 yards and is over in about 21 seconds.
 ---

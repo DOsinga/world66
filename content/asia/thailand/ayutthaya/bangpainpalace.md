@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 14.2326
 longitude: 100.5794
+snippet: Royal summer palace blending Thai, Chinese, and European styles
 tags:
 - things_to_do
 - landmark

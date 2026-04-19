@@ -1,6 +1,7 @@
 ---
 title: "Checkpoint Pub and Sandwich Bar"
 type: poi
+snippet: Daytime sandwich spot that turns into a lively pub at night
 tags:
   - bars_and_cafes
   - bar

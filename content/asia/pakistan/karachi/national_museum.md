@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.862222
 longitude: 67.011389
+snippet: Indus Valley artefacts to Islamic calligraphy under one roof
 tags:
 - things_to_do
 - museum

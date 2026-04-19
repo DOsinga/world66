@@ -1,6 +1,7 @@
 ---
 latitude: 47.1442
 longitude: 9.5195
+snippet: "Michelin-starred dining in the prince's historic vineyard"
 tags:
 - eating_out
 title: Restaurant Torkel

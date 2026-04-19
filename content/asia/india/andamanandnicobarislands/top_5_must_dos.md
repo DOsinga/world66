@@ -1,5 +1,7 @@
 ---
-title: "Top 5 Must Do's in Andaman and nicobar islands"
+done:
+  poi_cleanup: '2026-04-19'
+title: Top 5 Must Do's in Andaman and nicobar islands
 type: section
 ---
 

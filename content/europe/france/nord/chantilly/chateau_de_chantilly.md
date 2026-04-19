@@ -1,7 +1,11 @@
 ---
 title: "Château de Chantilly and Musée Condé"
 type: poi
-category: "Museum"
+snippet: "Renaissance château with France's finest old-master collection"
+tags:
+- things_to_do
+- museum
+- story
 address: "Rue du Connétable, 60500 Chantilly"
 url: "www.domainedechantilly.com"
 opening_hours: "Wed–Mon 10:00am–6:00pm (last entry 5:30pm); closed Tuesday"
@@ -16,5 +20,4 @@ Inside is the Musée Condé, assembled by Henri d'Orléans, the Duke of Aumale, 
 
 The Duke left the entire domain to the Institut de France in 1884 on the condition that it be kept exactly as he arranged it, with nothing lent or moved. This eccentric stipulation means you see the collection as a 19th-century collector presented it, not as a modern curator would arrange it — which is either charming or frustrating depending on your temperament.
 
-story: >
-  In April 1671, the chef François Vatel was overseeing a three-day banquet at Chantilly for Louis XIV and two thousand guests when the fish delivery failed to arrive on the morning of the third day. Convinced that the feast would be ruined, Vatel went to his room and ran himself through with his sword. The fish arrived shortly afterwards.
+In April 1671, the chef François Vatel was overseeing a three-day banquet at Chantilly for Louis XIV and two thousand guests when the fish delivery failed to arrive on the morning of the third day. Convinced that the feast would be ruined, Vatel went to his room and ran himself through with his sword. The fish arrived shortly afterwards.

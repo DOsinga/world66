@@ -1,10 +1,11 @@
 ---
 latitude: 38.6382
 longitude: -90.2846
+snippet: Massive free urban park with museums, zoo, and theatre.
 tags:
-- things_to_do
-- sight
 - park
+- sight
+- things_to_do
 title: Forest Park
 type: poi
 ---

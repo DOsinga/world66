@@ -1,7 +1,9 @@
 ---
 latitude: 31.5128
 longitude: -9.7693
+snippet: Pioneering gallery for Gnaoua-tradition painters
 tags:
+- things_to_do
 - shopping
 title: Galerie Frédéric Damgaard
 type: poi

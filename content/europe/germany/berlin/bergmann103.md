@@ -3,6 +3,7 @@ address: Bergmannstraße 103, Kreuzberg
 latitude: 52.48992
 longitude: 13.389098
 opening_hours: Daily 9:30am-1am
+snippet: Spacious Kreuzberg café with international food and pavement tables
 tags:
 - bars_and_cafes
 - kreuzberg

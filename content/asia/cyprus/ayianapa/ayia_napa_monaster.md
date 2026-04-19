@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.9878
 longitude: 33.9888
+snippet: Serene 16th-century Venetian monastery amid the nightlife
 tags:
 - things_to_do
 title: Ayia Napa Monastery

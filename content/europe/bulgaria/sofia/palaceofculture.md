@@ -1,7 +1,8 @@
 ---
 title: "Palace of Culture"
 type: poi
-tags: [things_to_do]
+tags: [things_to_do, landmark]
+snippet: Massive brutalist conference centre marking 1,300 years of Bulgaria
 latitude: 42.68476
 longitude: 23.318942
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: -6.1352
 longitude: 106.8133
+snippet: "Colonial heart of Jakarta with museums and street food"
 tags:
 - things_to_do
 - museum

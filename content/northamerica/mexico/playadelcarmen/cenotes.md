@@ -1,6 +1,8 @@
 ---
 title: "Cenote Diving and Snorkelling"
 type: poi
+category: Sight
+snippet: "Crystal cavern sinkholes with some of the world's finest cave diving"
 tags:
   - things_to_do
   - diving

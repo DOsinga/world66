@@ -3,6 +3,7 @@ address: Scheune bei der Villa Merian, Brüglingen
 latitude: 47.5439
 longitude: 7.6222
 opening_hours: Wed, Sat, Sun 2pm–5pm
+snippet: Horse-drawn carriages and sleighs in a historic barn
 tags:
 - things_to_do
 - museum

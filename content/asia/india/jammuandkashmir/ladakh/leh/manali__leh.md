@@ -1,6 +1,7 @@
 ---
 latitude: 32.291078
 longitude: 77.180125
+snippet: Epic two-day mountain highway crossing four high passes
 tags:
 - getting_there
 title: Manali - Leh

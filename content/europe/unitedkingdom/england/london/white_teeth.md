@@ -5,6 +5,7 @@ tags:
 - books
 title: White Teeth
 type: poi
+snippet: "Zadie Smith's multigenerational novel set in multicultural north London"
 ---
 
 Smith's debut novel, set in Willesden and Cricklewood in north London, follows two families — one Bangladeshi, one West Indian — across several generations. It captures multicultural London with great energy and warmth, and the north London it describes — the chip shops, the pubs, the council estates, the corner shops — is still recognisable today.

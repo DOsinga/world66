@@ -14,7 +14,6 @@ europe/iceland/reykjavik/solon
 europe/italy/sicily/palermo/la_martorana
 europe/spain/galicia/lugo/cathedral
 southamerica/peru/northern_pacific_t/jan/buena_esperanza_be
-asia/books/read_this_it_is_ma
 northamerica/canada/alberta/banff/barbarycoast
 europe/croatia/pula/thecathedral
 europe/italy/tuscany/florence/cappellemedicee

@@ -4,9 +4,9 @@ latitude: 33.4489
 longitude: -112.0714
 phone: 602-253-0118
 price: fair
+snippet: "NBA star Dan Majerle's sports bar a block from the Suns arena"
 tags:
 - eating_out
-- restaurant
 title: Majerle's Sports Grill
 type: poi
 ---

@@ -1,30 +1,11 @@
 ---
-title: "St James Gate"
+latitude: 37.5178
+longitude: -122.2758
+snippet: Irish pub with live music in Belmont
+tags:
+- eating_out
+title: St James Gate
 type: poi
-accessibility: "Easy"
-address: "1410 Old County Rd Belmont, CA 94002"
-phone: "650-592-5923"
 ---
 
-Live Music and Dancing, Karaoke Wednesday, Jam nights, Sports TV, a Pool Table and an Outdoor Patio and Bar. They have a great Menu for lunch and dinner.
-
-**Contributors**
-September 13, 2006
-
-
-
-
-
-accessibility: Easy
-
-tel: 650-592-5923
-
-address: 1410 Old County Rd Belmont, CA 94002
-
-##
-
--
-
--
-
--
+An Irish-style pub on Old County Road in Belmont with live music several nights a week, plus karaoke and jam sessions. There's a full food menu for lunch and dinner, a pool table, and an outdoor patio. A solid neighborhood spot if you're in the mid-Peninsula area and want something more relaxed than the downtown scene.

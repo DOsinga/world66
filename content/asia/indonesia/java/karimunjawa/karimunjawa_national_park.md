@@ -1,6 +1,7 @@
 ---
 title: 'Karimunjawa National Park'
 type: poi
+snippet: "Protected marine park spanning 27 islands and pristine reefs"
 tags:
   - things_to_do
   - sight

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.3281
 longitude: 19.8192
+snippet: Ottoman mosque with rare interior frescoes on Skanderbeg Square
 tags:
 - things_to_do
 title: Et'hem Bey Mosque

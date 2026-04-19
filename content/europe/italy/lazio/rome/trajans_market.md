@@ -3,9 +3,10 @@ address: Via Quattro Novembre 144
 latitude: 41.8958
 longitude: 12.4871
 phone: +39 06 0608
+snippet: "Ancient Roman shopping complex, the world's first mall"
 tags:
 - things_to_do
-- market
+- sight
 title: Trajan's Market
 type: poi
 ---

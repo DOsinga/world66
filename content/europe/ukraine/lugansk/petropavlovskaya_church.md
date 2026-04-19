@@ -1,7 +1,10 @@
 ---
 title: "Petropavlovskaya Church"
 type: poi
-category: "Sight"
+snippet: Rare surviving 19th-century church restored after Soviet damage
+tags:
+- things_to_do
+- landmark
 latitude: 48.5648
 longitude: 39.2921
 ---

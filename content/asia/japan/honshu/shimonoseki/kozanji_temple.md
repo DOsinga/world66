@@ -1,6 +1,7 @@
 ---
 latitude: 33.977
 longitude: 130.9618
+snippet: National Treasure Zen temple with rare cypress-bark thatched roof
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 6.8568
 longitude: 81.0466
+snippet: "Signature hilltop hike with panoramic views over Ella Gap"
 tags:
 - things_to_do
 - sight

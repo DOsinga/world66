@@ -4,6 +4,7 @@ latitude: 38.105
 longitude: 13.34
 opening_hours: By appointment
 phone: +39 091 6520067
+snippet: Arab-era underground water channels beneath the city
 tags:
 - things_to_do
 - landmark

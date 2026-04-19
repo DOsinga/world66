@@ -1,13 +1,10 @@
 ---
-address: Khao Takiab Bay
-tags:
-- beaches
-- beach
-- church
-title: Khao Takiab Beach
+title: "Khao Takiab Beach"
 type: poi
-url: www.khao-takiab.com
-zipcode: Hua Hin Thailand
+tags: [beaches, things_to_do]
+snippet: "Quiet local beach beneath a hilltop monkey temple"
+latitude: 12.5440
+longitude: 99.9580
 ---
 
-Popular beach area just a few minutes from the center of town, very popular at weekends. Beach, loungers and beach chairs with ebmrellas available. Local food stalls near the beach. Elephant riding and horse riding. Popular for boat trips and fishing trips to small ofhsore island. Local cuisine. Many beach houses, hotels, budget cabins, campsite. Sceneic area close to Hua Hin. Buddhist temples.
+A long, relaxed stretch of sand just south of Hua Hin proper, backed by the distinctive Khao Takiab hill with its large standing Buddha and resident troop of macaques. The beach is noticeably quieter than Hua Hin's main strip, especially on weekdays, though Thai families fill it on weekends. Loungers and umbrellas are available from the local vendors, and simple food stalls line the road behind the beach selling grilled seafood and som tam. Boat trips to the small offshore islands can be arranged from the south end. The hilltop temple, Wat Khao Takiab, is worth the short climb for wide views over the coast.

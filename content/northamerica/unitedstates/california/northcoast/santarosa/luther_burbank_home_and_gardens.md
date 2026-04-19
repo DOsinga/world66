@@ -1,6 +1,7 @@
 ---
 title: "Luther Burbank Home and Gardens"
 type: poi
+snippet: "National Historic Landmark honoring a legendary plant breeder"
 tags:
   - things_to_do
   - sight

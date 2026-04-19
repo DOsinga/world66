@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - diving
   - water_sports
+snippet: "West End's waterfront dive shop with 30+ reef sites"
 latitude: 16.3026
 longitude: -86.5876
 ---

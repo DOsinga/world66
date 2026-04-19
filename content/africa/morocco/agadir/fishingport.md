@@ -1,6 +1,7 @@
 ---
 latitude: 30.4211
 longitude: -9.6108
+snippet: Working port where fishermen sell and grill the day's catch
 tags:
 - things_to_do
 - sight

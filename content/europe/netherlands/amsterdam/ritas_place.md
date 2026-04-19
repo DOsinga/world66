@@ -1,30 +1,12 @@
 ---
-address: Weteringtraat 45
-category: Speciality shops
-email: ritasplaceamsterdam@gmail.cm
-phone: 020 420 5171
+address: Weteringstraat 45
+latitude: 52.3596
+longitude: 4.8890
+snippet: "Boutique pet shop and salon specializing in bespoke dog accessories"
 tags:
 - shopping
 title: Rita's Place
 type: poi
-url: www.ritasplace.com
 ---
 
-Amsterdam's only specialist boutique and salon for dogs with plenty of gifts for the owners too from the world's finest umbrella's Foxs's to English antique furniture, specialising in bespoke leather collar and leads sets crafted by the Queen's Master Saddler. Quirky and unusal toys, elegant dog beds and the whole place is filled with tastleful gifts and glamourous dogs for your friends and family.
-
-**Contributors**
-May 12, 2008
-
-type: Speciality shops
-
-
-
-
-
-tel: 020 420 5171
-
-url: [www.ritasplace.com](http://www.ritasplace.com)
-
-address: Weteringtraat 45
-
-email: ritasplaceamsterdam@gmail.cm
+A quirky Amsterdam boutique dedicated to dogs and their owners. Rita's Place sells bespoke leather collars and leads, elegant dog beds, and unusual toys alongside gifts and antique furniture. The shop also serves as a dog grooming salon. It's the kind of eccentric specialty store that Amsterdam does well -- worth a look even if you don't have a dog at home.

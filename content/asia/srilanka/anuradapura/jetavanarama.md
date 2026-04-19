@@ -1,6 +1,7 @@
 ---
 latitude: 8.3548
 longitude: 80.3993
+snippet: Once the third-tallest structure in the ancient world
 tags:
 - things_to_do
 - sight

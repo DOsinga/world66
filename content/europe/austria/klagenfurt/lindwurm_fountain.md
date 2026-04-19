@@ -1,6 +1,7 @@
 ---
 latitude: 46.6232
 longitude: 14.3077
+snippet: Iconic 1590 dragon statue and Klagenfurt's central square
 tags:
 - things_to_do
 - sight

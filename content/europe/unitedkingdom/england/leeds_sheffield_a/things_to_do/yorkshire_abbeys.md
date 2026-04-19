@@ -1,9 +1,15 @@
 ---
-title: "Yorkshire's Ruined Abbeys"
-type: poi
-category: "Sight"
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 54.1106
 longitude: -1.5836
+snippet: Finest concentration of medieval monastery ruins in Europe, dissolved by
+  Henry VIII
+tags:
+- things_to_do
+- sight
+title: Yorkshire's Ruined Abbeys
+type: poi
 ---
 
 The dissolution of the monasteries under Henry VIII left Yorkshire with one of the finest concentrations of medieval abbey ruins in Europe. A week of touring them — driving between, walking around, lunching at the village pubs nearby — is one of the great Yorkshire holidays.

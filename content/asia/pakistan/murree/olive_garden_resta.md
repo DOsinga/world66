@@ -3,6 +3,7 @@ address: GPO Chowk, Murree
 latitude: 33.9068
 longitude: 73.3935
 phone: 051 3410914
+snippet: "Central Murree eatery with Pakistani, Italian, and Thai dishes"
 tags:
 - eating_out
 title: Olive Garden Restaurant

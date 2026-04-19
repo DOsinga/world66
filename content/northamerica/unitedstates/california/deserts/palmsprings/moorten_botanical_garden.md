@@ -4,6 +4,7 @@ latitude: 33.8098
 longitude: -116.5463
 opening_hours: Mon, Tue, Thu–Sat 09:00–16:00; Sun 10:00–16:00; closed Wed
 phone: (760) 327-6555
+snippet: Family-run desert garden with 3,000 plant species since 1938
 tags:
 - things_to_do
 - landmark

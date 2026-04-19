@@ -1,6 +1,7 @@
 ---
 latitude: 49.9783
 longitude: 7.9208
+snippet: "Rüdesheim's famous 144-metre alley of wine bars and live music"
 tags:
 - things_to_do
 - landmark

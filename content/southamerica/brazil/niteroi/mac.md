@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: -22.9061
 longitude: -43.1253
+snippet: Niemeyer's flying-saucer museum with panoramic bay views
 tags:
 - things_to_do
 - museum

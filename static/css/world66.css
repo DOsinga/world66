@@ -1071,18 +1071,48 @@ img { max-width: 100%; height: auto; }
   cursor: pointer;
 }
 
-/* Subtle dot marking the exact coordinate */
+/* Dot marking the exact coordinate — black with thin white ring */
 .map-dot {
   position: absolute;
-  width: 5px;
-  height: 5px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
-  background: var(--ink);
-  opacity: 0.30;
+  background: #111;
+  border: 1.5px solid rgba(255,255,255,0.9);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.35);
+  opacity: 1;
   transform: translate(-50%, -50%);
   pointer-events: none;
 }
-.map-label--highlight .map-dot { background: var(--accent); opacity: 0.60; }
+.map-dot--highlight {
+  background: var(--accent);
+  width: 10px;
+  height: 10px;
+}
+.map-label--highlight .map-dot { background: var(--accent); width: 10px; height: 10px; }
+
+/* Invisible container for standalone dot markers */
+.map-dot-wrap {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  cursor: pointer;
+}
+
+/* Hover tooltip for marker names */
+.map-name-tip {
+  font-family: var(--display-font);
+  font-size: 12px;
+  font-weight: 500;
+  background: rgba(243,238,228,0.96) !important;
+  border: none !important;
+  border-radius: 3px !important;
+  color: #111 !important;
+  padding: 2px 7px !important;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.18) !important;
+  white-space: nowrap;
+}
+.map-name-tip::before { display: none !important; }
 
 .country-tooltip {
   font-family: var(--body-font);

@@ -373,10 +373,10 @@
       if (expanded) {
         var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
         mapCard.style.top = navH + 'px';
-        sideMap._setMarkers(fullMarkers, 35);
+        sideMap._setMarkers(fullMarkers, 100);
       } else {
         mapCard.style.top = '';
-        sideMap._setMarkers(fullMarkers, 20);
+        sideMap._setMarkers(fullMarkers, 25);
       }
     });
   }

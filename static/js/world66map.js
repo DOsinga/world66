@@ -205,55 +205,47 @@ function initLocationMap(elementId, markers, options) {
 
     // All markers available — starts as full pool; caller may expand via _setMarkers
     var _allMarkers = markers.slice();
-    var _maxVisible = 20; // max labels to show; deconfliction further limits by overlap
+    var _maxVisible = 25; // max dots to show
 
-    function _addMarkerToGroup(m) {
-        const cls = m.highlight ? ' map-label--highlight' : '';
-        const inner = m.url
-            ? '<a href="' + m.url + '">' + (m.name || '') + '</a>'
-            : '<span>' + (m.name || '') + '</span>';
-        L.marker([m.lat, m.lng], {
-            icon: L.divIcon({
-                className: 'map-label' + cls,
-                html: '<i class="map-dot"></i>' + inner,
-                iconSize: [0, 0],
-                iconAnchor: [0, 0],
-            }),
-        }).addTo(group);
-    }
-
-    // Greedy label deconfliction: iterate pool in score order, place a label only if
-    // its estimated pixel bounding box doesn't overlap any already-placed label.
-    function _deconflict(pool, maxCount) {
-        var PAD = 6;       // extra gap (px) around each label
-        var PX_PER_CHAR = 8; // approximate character width at typical label font size
-        var LINE_H = 22;   // approximate label height (px)
-        var placed = [];
-        var result = [];
-        for (var i = 0; i < pool.length && result.length < maxCount; i++) {
-            var m = pool[i];
-            var pt = map.latLngToContainerPoint(L.latLng(m.lat, m.lng));
-            var w = (m.name || '').length * PX_PER_CHAR + 12;
-            var box = {
-                x1: pt.x - w / 2 - PAD,
-                y1: pt.y - LINE_H / 2 - PAD,
-                x2: pt.x + w / 2 + PAD,
-                y2: pt.y + LINE_H / 2 + PAD,
-            };
-            var overlaps = false;
-            for (var j = 0; j < placed.length; j++) {
-                var p = placed[j];
-                if (box.x2 > p.x1 && box.x1 < p.x2 && box.y2 > p.y1 && box.y1 < p.y2) {
-                    overlaps = true;
-                    break;
-                }
-            }
-            if (!overlaps) {
-                placed.push(box);
-                result.push(m);
-            }
+    function _addMarkerToGroup(m, isSingle) {
+        var highlight = !!m.highlight;
+        if (isSingle) {
+            // Single location/POI: always show the name label
+            var cls = highlight ? ' map-label--highlight' : '';
+            var inner = m.url
+                ? '<a href="' + m.url + '">' + (m.name || '') + '</a>'
+                : '<span>' + (m.name || '') + '</span>';
+            L.marker([m.lat, m.lng], {
+                icon: L.divIcon({
+                    className: 'map-label' + cls,
+                    html: '<i class="map-dot"></i>' + inner,
+                    iconSize: [0, 0], iconAnchor: [0, 0],
+                }),
+            }).addTo(group);
+            return;
         }
-        return result;
+        // Multiple markers: dot always visible, name shown on hover via tooltip
+        var dotCls = 'map-dot' + (highlight ? ' map-dot--highlight' : '');
+        var marker = L.marker([m.lat, m.lng], {
+            icon: L.divIcon({
+                className: 'map-dot-wrap',
+                html: '<i class="' + dotCls + '"></i>',
+                iconSize: [14, 14],
+                iconAnchor: [7, 7],
+            }),
+        });
+        if (m.name) {
+            marker.bindTooltip(m.name, {
+                className: 'map-name-tip',
+                direction: 'bottom',
+                offset: [0, 3],
+                sticky: false,
+            });
+        }
+        if (m.url) {
+            marker.on('click', function() { window.location.href = m.url; });
+        }
+        marker.addTo(group);
     }
 
     function _renderMarkers(pool, maxCount) {
@@ -263,9 +255,10 @@ function initLocationMap(elementId, markers, options) {
             var hp = (b.highlight ? 1 : 0) - (a.highlight ? 1 : 0);
             return hp || (b.score || 0) - (a.score || 0);
         });
-        var visible = _deconflict(inView, maxCount);
+        var isSingle = pool.length === 1;
+        var visible = isSingle ? inView : inView.slice(0, maxCount);
         group.clearLayers();
-        visible.forEach(function(m) { _addMarkerToGroup(m); });
+        visible.forEach(function(m) { _addMarkerToGroup(m, isSingle); });
     }
 
     function _fitToGroup(grp, mkrs, opts) {
@@ -285,7 +278,7 @@ function initLocationMap(elementId, markers, options) {
     (function() {
         var sorted = markers.slice().sort(function(a, b) { return (b.score || 0) - (a.score || 0); });
         // Temporarily populate group with top markers so fitBounds works
-        var forFit = sorted.slice(0, Math.min(20, sorted.length));
+        var forFit = sorted.slice(0, Math.min(25, sorted.length));
         forFit.forEach(function(m) { _addMarkerToGroup(m); });
         _fitToGroup(group, forFit, options);
         // Re-render with deconfliction once the layout has settled

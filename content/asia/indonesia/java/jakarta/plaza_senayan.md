@@ -1,5 +1,7 @@
 ---
 address: Jalan Asia Afrika no. 8, Senayan, Jakarta 10270
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -6.2162
 longitude: 106.7962
 phone: +62 21 572 5555

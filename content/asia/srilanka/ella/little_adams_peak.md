@@ -1,6 +1,7 @@
 ---
 latitude: 6.863
 longitude: 81.057
+snippet: Easy tea-estate hike with panoramic highland views
 tags:
 - things_to_do
 - sight

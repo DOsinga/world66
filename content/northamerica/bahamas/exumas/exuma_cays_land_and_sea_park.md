@@ -2,6 +2,7 @@
 title: "Exuma Cays Land and Sea Park"
 type: poi
 category: "Sight"
+snippet: World's first land-and-sea park with pristine Caribbean reef
 latitude: 24.4833
 longitude: -76.5833
 story: "Established in 1958, it was the first land-and-sea park in the world. No fishing, no collecting, no anchoring on coral. The result is some of the healthiest reef in the Caribbean."

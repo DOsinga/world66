@@ -6,9 +6,10 @@ latitude: 53.353706
 longitude: -6.261868
 opening_hours: Tue–Sat 10:00–17:00, Sun 12:00–17:00
 phone: +353 1 878 8547
+snippet: Essential museum for tracing Joyce's Dublin
 tags:
-- James Joyce
-- Literature
+- things_to_do
+- sight
 title: James Joyce Centre
 type: poi
 url: www.jamesjoyce.ie

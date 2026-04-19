@@ -217,6 +217,7 @@ function initLocationMap(elementId, markers, options) {
                 html: '<div class="map-dot-hit">' + dotHtml + '</div>',
                 iconSize: [0, 0], iconAnchor: [0, 0],
             }),
+            zIndexOffset: -500,
         });
         if (m.name) {
             mk.bindTooltip(m.name, {
@@ -275,10 +276,12 @@ function initLocationMap(elementId, markers, options) {
         });
         group.clearLayers();
         var isSingle = pool.length === 1;
-        // Deconflict top-down for labels (max 10); all others get a dot + hover tooltip
-        var labelled = _deconflict(inView, 10);
+        // Only named markers are candidates for a label
+        var named = inView.filter(function(m) { return !!m.name; });
+        var labelled = _deconflict(named, 10);
         var labelledSet = {};
         labelled.forEach(function(m) { labelledSet[m.lat + ',' + m.lng] = true; });
+        // Dots first (behind), then labels on top
         inView.forEach(function(m) {
             if (!labelledSet[m.lat + ',' + m.lng]) _addDotMarker(m);
         });

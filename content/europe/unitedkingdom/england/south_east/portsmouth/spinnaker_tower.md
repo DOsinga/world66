@@ -2,6 +2,7 @@
 address: Gunwharf Quays
 latitude: 50.7956
 longitude: -1.1081
+snippet: "Sail-shaped 170m observation tower with Solent views"
 tags:
 - things_to_do
 - architecture

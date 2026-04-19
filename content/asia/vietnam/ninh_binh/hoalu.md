@@ -2,8 +2,13 @@
 category: Sight
 done:
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-19'
 latitude: 20.2573
 longitude: 105.9719
+snippet: Vietnam's first capital, a 10th-century limestone fortress
+tags:
+- things_to_do
+- sight
 title: Hoa Lu Ancient Capital
 type: poi
 ---

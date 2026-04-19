@@ -1,10 +1,13 @@
 ---
 address: East Molesey, Surrey KT8 9AU
 admission: £27.50 adults, £13.80 children
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.399102
 longitude: -0.357136
 opening_hours: Daily 10am-6pm (winter 4:30pm)
 phone: +44 20 3166 6000
+snippet: England's finest Tudor palace, 35 minutes from Waterloo
 tags:
 - day_trips
 - palace

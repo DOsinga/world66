@@ -1,12 +1,14 @@
 ---
-category: Sight
-title: A Shabi Kahf
+title: Ashabi-Kahf
 type: poi
+latitude: 39.1667
+longitude: 45.4833
+snippet: “Sacred cave linked to the Quranic Seven Sleepers legend”
+tags:
+- things_to_do
+- landmark
 ---
 
-A Shabi Kahf – means the “cave people” in Arabic, it is 12 km far away from Nakhchivan city, between Ilandagh ad Nahajir dagh. There is also the same name place in Small Asia or Palestine, and it was mentioned in ancient religious books, and Koran as well. According to legend in “Kahf” (“Cave”) surah, the youth who wanted to get rid of the prosecution enter the cave together with the dog. Allah made them sleeps, and then woke them up hundreds of years later. The legend spread in Nakhchivan has approximately the same sense. the condition is developed for pilgrims, and the mosques are built.
+Ashabi-Kahf (the “People of the Cave”) is a pilgrimage site about 12 km east of Nakhchivan city, nestled between Ilandag and Nahajir mountains. The cave is associated with the Quranic story of the Seven Sleepers (Surah Al-Kahf), in which a group of young believers fled persecution and took refuge in a cave, where God caused them to sleep for centuries before waking them.
 
-**Contributors**
-April 18, 2006
-
-type: Memorials
+Several sites across the Middle East and Central Asia claim to be the cave from the story, but the Nakhchivan version is among the most visited. A small mosque has been built at the entrance, and the surrounding area has been developed for pilgrims. The rocky, arid landscape and the cave's quiet atmosphere make the trip worthwhile even for non-religious visitors. A taxi from Nakhchivan city takes about 20 minutes.

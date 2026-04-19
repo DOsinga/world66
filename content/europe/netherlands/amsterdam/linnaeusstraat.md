@@ -1,9 +1,9 @@
 ---
-category: Street
 latitude: 52.3602
 longitude: 4.9222
+snippet: Local shopping street in Amsterdam Oost near Tropenmuseum
 tags:
-- oost
+- things_to_do
 title: Linnaeusstraat
 type: poi
 ---

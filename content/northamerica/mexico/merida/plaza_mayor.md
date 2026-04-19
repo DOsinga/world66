@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - landmark
   - square
+snippet: Colonial heart of Merida built over ancient Maya centre
 latitude: 20.9674
 longitude: -89.6233
 ---

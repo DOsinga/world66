@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -29.8537
 longitude: 31.0383
+snippet: Six-kilometre beachfront promenade with warm surf and rickshaws
 tags:
 - things_to_do
 - neighbourhood

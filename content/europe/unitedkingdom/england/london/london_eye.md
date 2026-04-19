@@ -1,12 +1,13 @@
 ---
 address: Riverside Building, County Hall, London SE1 7PB
 admission: £32 adults, £27 children (cheaper booked online in advance)
-latitude: 51.503225
-longitude: -0.115835
+latitude: 51.5032
+longitude: -0.1158
 opening_hours: Daily from 10am (closing times vary by season)
+snippet: South Bank observation wheel with sweeping city panoramas
 tags:
 - things_to_do
-- palace
+- landmark
 title: London Eye
 type: poi
 url: www.londoneye.com

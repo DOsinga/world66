@@ -355,7 +355,7 @@
 <script>
 (function() {
   {% if is_continent %}
-  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}');
+  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
   {% else %}
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;

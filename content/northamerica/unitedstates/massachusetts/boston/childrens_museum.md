@@ -1,5 +1,7 @@
 ---
 address: 308 Congress St.
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.3513
 longitude: -71.0502
 phone: 617-426-6500

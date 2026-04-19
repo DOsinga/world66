@@ -1,9 +1,14 @@
 ---
-title: "House of the Vettii"
-type: poi
-tags: [things_to_do, sight]
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.7517
 longitude: 14.4847
+snippet: Pompeii's most lavishly frescoed Roman house
+tags:
+- things_to_do
+- sight
+title: House of the Vettii
+type: poi
 ---
 
 The most elaborately decorated house in Pompeii, owned by two wealthy freedmen — Aulus Vettius Conviva and Aulus Vettius Restitutus. The triclinium (dining room) contains extraordinary frescos depicting mythological scenes, and the entrance hall has the famous painting of Priapus. The house was extensively restored and reopened in 2023 after twenty years of work. The peristyle garden has been replanted to match the original layout identified by archaeobotanists.

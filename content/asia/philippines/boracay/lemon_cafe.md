@@ -1,8 +1,11 @@
 ---
 address: D'Mall, Boracay
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 11.967
 longitude: 121.923
 price: Average
+snippet: Bright D'Mall cafe with great fresh juices
 tags:
 - eating_out
 title: Lemon Cafe

@@ -4,11 +4,12 @@ admission: Included in combined Colosseum ticket
 latitude: 41.8925
 longitude: 12.4853
 opening_hours: Daily from 09:00; closing varies by season
+snippet: Sprawling ruins at the heart of ancient Rome
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome
 - things_to_do
-- church
+- landmark
 title: Roman Forum
 type: poi
 ---

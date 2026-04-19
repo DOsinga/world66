@@ -1,22 +1,16 @@
 ---
 latitude: 40.745532
 longitude: -73.948499
+snippet: Art-filled Queens neighborhood one subway stop from Midtown
 tags:
 - day_trips
-- museum
-- park
-- restaurant
 - neighbourhood
 title: Long Island City
 type: poi
-url: www.licnyc.com
 ---
 
-Until 1898 Long Island City was independent from New York – it really *was* it’s own city. Today, just a few minutes from New York by train, Long Island City is a popular outer borough to visit for locals and tourists alike. Long Island City consists of roughly 10 neighborhoods each with it's own restaurants, sights, and scene. Major points of interest include Isamu Noguchi Garden Museum (www.noguchi.org), P.S. 1 Contemporary Art Center (www.ps1.org), Socrates Sculpture Park (www.socratessculpturepark.org), and the Sculpture Center (www.sculpture-center.org). Hungry? Stop by Uno Chicago Grill at 37-11 35th Avenue (718-706-8800). The Number 7 train goes straight from Long Island City to mid-town Manhattan.
+Long Island City was its own independent city until it merged into New York in 1898, and it still feels like a distinct place. Sitting in western Queens just one stop from Midtown on the 7 train, LIC has become one of the city’s best neighborhoods for art and waterfront views.
 
-**Contributors**
-May 18, 2008
+The Noguchi Museum is the big draw -- Isamu Noguchi’s own studio converted into a serene gallery of his sculpture and design work. MoMA PS1 hosts some of the most adventurous contemporary art shows in the city. Socrates Sculpture Park, a former illegal dumpsite turned outdoor gallery, sits right on the East River with Manhattan skyline views. The Sculpture Center, housed in a converted trolley repair shop, rounds out the art scene.
 
-
-
-url: [www.licnyc.com](http://www.licnyc.com)
+The waterfront at Gantry Plaza State Park is worth the walk for the views alone, especially at sunset. The food scene has exploded in recent years, with everything from Uruguayan steaks to Sichuan noodles along Vernon Boulevard.

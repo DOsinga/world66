@@ -1,6 +1,7 @@
 ---
 latitude: 0.7256
 longitude: 104.2289
+snippet: Haunting open-air memorial to Vietnamese boat people, 1975–1996
 story: The camp was closed by Indonesia in 1996 under international pressure, and
   most of the remaining refugees were forcibly repatriated to Vietnam. Some former
   residents and their descendants still return on pilgrimage.

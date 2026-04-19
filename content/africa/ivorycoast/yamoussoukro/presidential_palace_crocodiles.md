@@ -1,6 +1,7 @@
 ---
 latitude: 6.8183
 longitude: -5.2726
+snippet: "Sacred crocodiles fed daily in the presidential palace moat"
 tags:
 - things_to_do
 - sight

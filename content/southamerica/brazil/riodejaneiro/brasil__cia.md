@@ -1,5 +1,7 @@
 ---
 address: Rua Maria Quitéria 27, Ipanema
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.9839
 longitude: -43.2033
 phone: +55 (21) 2267-4603

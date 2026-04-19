@@ -1,6 +1,7 @@
 ---
 latitude: 51.5132
 longitude: -0.1228
+snippet: Bombay-style Irani cafe famous for its overnight black dal
 tags:
 - eating_out
 title: Dishoom

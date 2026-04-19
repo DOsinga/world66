@@ -1,6 +1,7 @@
 ---
 latitude: 39.917276
 longitude: 116.390769
+snippet: Vast imperial palace complex of Ming and Qing dynasties
 tags:
 - things_to_do
 - landmark

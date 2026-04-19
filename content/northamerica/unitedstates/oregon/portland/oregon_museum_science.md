@@ -1,6 +1,7 @@
 ---
 latitude: 45.5083
 longitude: -122.6657
+snippet: "Hands-on science museum with IMAX theater and a real submarine"
 tags:
 - things_to_do
 - museum

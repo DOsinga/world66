@@ -1,13 +1,18 @@
 ---
-title: "Pervalka: The Dead Dunes"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 55.3833
+longitude: 21.0667
+snippet: Dramatic bare dunes in a strictly protected nature reserve
+tags:
+- sights
+- nature
+title: 'Pervalka: The Dead Dunes'
 type: poi
-type: "general"
 ---
 
-The Dead Dunes (also called the Gray Dunes or the Pyramidical Dunes) are one of the most fascinating sights in Neringa National Park. 
+The Dead Dunes — also called the Gray Dunes or the Pyramidical Dunes — are one of the most striking sights in Neringa National Park. Unlike the forested dunes elsewhere on the peninsula, these are bare, wind-sculpted, and ghostly pale, which is how they earned the name.
 
-These dunes are situated in the Nagliai Nature Reserve. It is highly protected and supervised. Noone can enter this Reserve. Although there is one special route, made for tourists by the Neringa goverment. Take this route and you will see what you have never seen before. There is a viewing platform in the dunes where you can look around. The Sea and the Lagoon are both seen from there. It is also possible to take a walk around these dunes. Just go where you see a lot of footsteps, because of gone too far, you can be penelized for entering the Reserve. 
+They lie within the Nagliai Nature Reserve, a strictly protected area where independent access is not permitted. A marked tourist trail runs through the reserve, and there is a viewing platform from which you can see both the Curonian Lagoon and the Baltic Sea at once. Stay on the marked path — straying into the protected zone carries a fine.
 
-These Dunes can be found in the last stopover in the main (and the only one) road before the roadsign to the town of Pervalka if going from Juodkrante (the first stopover after Pervalka if going from Nida).
-
-type: general
+The reserve entrance is on the main road just before the turn-off to Pervalka when coming from Juodkrantė, or the first stop after Pervalka if arriving from Nida.

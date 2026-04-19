@@ -1,4 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 52.2073
+longitude: 0.1163
+snippet: Cambridge's grandest college with riverside Backs
 tags:
 - things_to_do
 - sight
@@ -6,10 +11,6 @@ title: Trinity College - the Backs
 type: poi
 ---
 
-Trinity College is the richest and the biggest of the Oxbridge
-colleges. Facing the River Cam is the College's Wren Library. Just
-outside of this is a beautiful scene of greenery - fields, meadows,
-however you want to call it - called the Backs. Here, you can enjoy the
-view of the river, play football with the locals, punt, or just enjoy a
-good book. To get to the Backs you must use the side entrance of the
-college. Not to worry, admission is free.
+Trinity is the largest and wealthiest of the Cambridge colleges, founded by Henry VIII in 1546. Its Great Court is the biggest enclosed courtyard in Europe, and the Wren Library — designed by Christopher Wren and completed in 1695 — holds medieval manuscripts and a first edition of Newton's Principia.
+
+The real draw for a casual visit is the Backs, the stretch of lawns and meadows running down to the River Cam behind the college. You can punt along the river, watch cricket on the fields, or just sit on the grass with a book. Access the Backs through the college's side entrance on Queen's Road — admission is free.

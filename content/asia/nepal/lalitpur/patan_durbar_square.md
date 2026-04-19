@@ -1,8 +1,10 @@
 ---
 latitude: 27.6728
 longitude: 85.325
+snippet: Malla-era royal square dense with temple architecture
 tags:
 - things_to_do
+- sight
 title: Patan Durbar Square
 type: poi
 ---

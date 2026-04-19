@@ -1,4 +1,5 @@
 ---
+snippet: Open-air shopping village with 65 specialty shops
 title: "Peddler's Village"
 type: poi
 tags:

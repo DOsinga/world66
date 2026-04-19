@@ -4,6 +4,7 @@ admission: R150 adults
 latitude: -26.2362
 longitude: 28.0083
 opening_hours: Tue–Sun 09:00–17:00; closed Mon
+snippet: Definitive museum of apartheid, where you enter as black or white
 tags:
 - things_to_do
 title: Apartheid Museum

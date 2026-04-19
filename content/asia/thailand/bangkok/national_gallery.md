@@ -1,8 +1,11 @@
 ---
 address: 4 Chao Fa Rd
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 13.7592
 longitude: 100.494
 opening_hours: Wed-Sun 9 am - 4 pm
+snippet: Thai and international art in a colonial-era building
 tags:
 - things_to_do
 - museum

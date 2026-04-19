@@ -1,6 +1,7 @@
 ---
 latitude: 36.7864
 longitude: 3.0619
+snippet: Historic Casbah mosque blending Moorish and Byzantine styles
 tags:
 - things_to_do
 - landmark

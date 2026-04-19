@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
 image: siena.jpg
 image_attribution: Holger Uwe Schmitt
 image_license: CC BY-SA 4.0

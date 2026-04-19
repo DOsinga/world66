@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
 image: konkan.jpg
 image_attribution: वर्षा देशपांडे
 image_license: CC BY-SA 4.0

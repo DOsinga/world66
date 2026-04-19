@@ -6,6 +6,7 @@ opening_hours: 11:00 onwards daily; later on weekends
 phone: +354 511 3040
 tags:
 - bars_and_cafes
+snippet: "Lively brasserie off Laugavegur; brunch by day, busy bar by night"
 title: Vegamót
 type: poi
 ---

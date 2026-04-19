@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
+image: reykjavik.jpg
+image_attribution: Syced
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:2006,_graveyard_in_Reykjavik_5.jpg
 latitude: 64.1466
 longitude: -21.9426
 score: 0.8
 title: Reykjavik
 type: location
-image: reykjavik.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2006,_graveyard_in_Reykjavik_5.jpg
-image_license: CC0
-image_attribution: Syced
 ---
 
 Reykjavik is the world's northernmost capital and one of its smallest — about 140,000 people live in the city itself, around two-thirds of the country's entire population. It is also one of the youngest, having spent most of its history as a fishing village before stepping into a capital's role only in the late nineteenth century. The result is a city that feels more like an unusually cosmopolitan small town: brightly painted corrugated-iron houses, a working harbour, and a centre you can walk across in twenty minutes.

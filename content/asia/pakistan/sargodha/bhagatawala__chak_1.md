@@ -8,6 +8,8 @@ type: location
 score: 0.18
 ---
 
-Bhagatawala is a small village about 25 km from Sargodha city in Punjab, Pakistan, and less than a kilometre from Sargodha's domestic airport. The area is known for citrus farming — particularly oranges — and the Lower Jhelum Canal runs along its edge.
+Bhagatawala, officially Chak 24 SB, is a small village about 25 km from [Sargodha](/asia/pakistan/sargodha) city in Punjab, [Pakistan](/asia/pakistan). It sits less than a kilometre from Sargodha's domestic airport and along the banks of the Lower Jhelum Canal, which irrigates the surrounding farmland. Like much of the Sargodha district, the area is defined by citrus farming, and the orange groves stretching out around the village are its main feature.
 
-January to March is the best time to visit, when the citrus harvest is underway and the weather is mild.
+The village offers a glimpse of rural Punjabi life that most travelers never see. The canal towpath makes for pleasant walking, and the flat, green landscape is a striking contrast to the dusty bustle of Sargodha city. During the harvest months of January through March, the air smells of oranges and the weather is at its mildest. Outside that window, the Punjab summer heat makes the area uncomfortable for visitors.
+
+There are no formal tourist facilities here, so you will need to arrange transport from Sargodha and bring your own supplies. It is a worthwhile side trip for anyone interested in the agricultural heart of Pakistan's Punjab.

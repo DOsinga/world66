@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 58.9866
 longitude: 6.1889
+snippet: Dramatic flat-topped cliff 604 metres above Lysefjorden
 tags:
 - things_to_do
 - landmark

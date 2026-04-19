@@ -1,16 +1,15 @@
 ---
-title: "Norman"
-type: poi
-tags:
-  - bars_and_cafes
-  - bar
-address: "Hilel Hazeken street"
+address: Hilel Hazeken street
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 32.0666
 longitude: 34.7729
+snippet: Cozy neighborhood bar with craft drafts and whiskey
+tags:
+- bars_and_cafes
+- bar
+title: Norman
+type: poi
 ---
 
-A small and very cozy bar. It always feels at home at the Norman. They have at least 5 different draught beers, and lots of whiskeys. It has good music that includes jazz, blues and rock.
-The biggest advantage is also the disadvantage: It's small which makes it warm and cozy, but it can't contain too many people.
-
-**Contributors**
-July 18, 2006
+A small, cozy bar on Hilel Hazeken street that feels like someone's living room. Norman keeps at least five draught beers on tap alongside a serious whiskey selection, with a soundtrack of jazz, blues, and rock. The intimate size is both its charm and its limitation — it fills up fast, so come early if you want a seat.

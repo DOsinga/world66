@@ -3,6 +3,7 @@ address: 191 Oxford Street, Darlinghurst
 latitude: -33.881
 longitude: 151.2173
 phone: (02) 9380 4400
+snippet: Darlinghurst institution for watching Oxford Street life
 tags:
 - eating_out
 - cafe

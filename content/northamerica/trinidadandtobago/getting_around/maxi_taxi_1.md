@@ -1,9 +1,12 @@
 ---
 title: "Route Taxi"
 type: poi
+tags:
+  - things_to_do
+  - transport
+snippet: Shared taxis with H plates, faster than maxi taxis
 ---
 
-These are similar to maxi taxis, except they transport up to 5 passengers and don’t have set meeting points, though you’ll find that they usually gather in some of the busier areas and won’t leave until they’re completely full. Since they have fewer passengers, they are quicker than maxi taxis and a bit more expensive. Note that they have **H number plates**, which is the only feature that distinguishes them from private cars (these have *P number plates*).
+Route taxis carry up to 5 passengers and operate on fixed routes without fixed schedules — they fill up and go. You’ll find them clustered in busy areas waiting for a full load. They’re faster than maxi taxis because of the smaller passenger count, and a little more expensive.
 
-**Contributors**
-August 06, 2005
+The key identifier: **H number plates**. Private cars use *P plates*, so look for the H before you flag one down.

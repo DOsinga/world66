@@ -1,6 +1,7 @@
 ---
 latitude: 43.7527
 longitude: 19.7011
+snippet: Open-air museum of traditional Serbian village life
 tags:
 - things_to_do
 - sight

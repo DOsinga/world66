@@ -1,6 +1,9 @@
 ---
 latitude: 36.6283
 longitude: 127.4566
+snippet: Expat-friendly rock bar with live music and weekend drink specials
+tags:
+- nightlife
 title: Pearl Jam
 type: poi
 ---

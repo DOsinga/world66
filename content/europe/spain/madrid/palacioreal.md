@@ -1,8 +1,9 @@
 ---
 address: Plaza de Oriente
-latitude: 40.418
+latitude: 40.4180
 longitude: -3.7143
-phone: 91 454 88 00
+phone: "+34 91 454 88 00"
+snippet: Europe's largest royal palace, still used for state ceremonies
 tags:
 - things_to_do
 - landmark
@@ -11,21 +12,8 @@ type: poi
 url: www.patrimonionacional.es
 ---
 
-The main visit during you stay in Madrid, except for the Prado Museum, will probably be a visit to the Palacio Real. Open all days except on Mondays and on days when the royal Royal family visits the palace. You can see the impact of three centuries of Royal family and pay a visit to the very surprising Royal Pharmacy and Royal Armory for example. This is one of the greatest collections in the world.
+The Palacio Real is the official residence of the Spanish monarchy, though the royal family actually lives elsewhere — this one's for ceremonies and tourists. And what a building: over 3,000 rooms make it the largest functioning royal palace in Europe, bigger than Buckingham Palace or Versailles.
 
-Entrance fees: 9€ with guide, 8€ without, 3,50€ reduced price. Free entry for EU citizens on Wednesdays.
+The interior is a procession of increasingly lavish state rooms spanning three centuries of royal taste, from Habsburg austerity to Bourbon excess. Don't skip the Royal Pharmacy, with its floor-to-ceiling shelves of porcelain jars, or the Royal Armory, one of the finest collections of historical weaponry anywhere. The throne room ceiling, painted by Tiepolo, is worth a stiff neck.
 
-**Contributors**
-January 07, 2006
-
-type: Palaces
-
-
-
-
-
-address: Plaza de Oriente
-
-tel: 91 454 88 00
-
-url: [www.patrimonionacional.es](http://www.patrimonionacional.es)
+Closed on Mondays and during official state events. The Plaza de Oriente in front of the palace is a pleasant spot in its own right, lined with statues of Spanish monarchs.

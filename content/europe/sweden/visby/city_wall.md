@@ -1,6 +1,7 @@
 ---
 title: "City Wall"
 type: poi
+snippet: "Superbly preserved 3.5 km medieval ring wall"
 category: Sight
 latitude: 57.6400
 longitude: 18.2960

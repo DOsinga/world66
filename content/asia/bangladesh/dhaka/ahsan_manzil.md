@@ -1,8 +1,10 @@
 ---
 latitude: 23.7086
 longitude: 90.4064
+snippet: Dhaka's Pink Palace, a nawab's mansion turned riverside museum
 tags:
 - things_to_do
+- landmark
 title: Ahsan Manzil
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Kiasma"
 type: poi
+snippet: "Steven Holl's striking contemporary art museum"
 tags: [things_to_do]
 address: "Mannerheiminaukio 2, 00100 Helsinki"
 url: "kiasma.fi"

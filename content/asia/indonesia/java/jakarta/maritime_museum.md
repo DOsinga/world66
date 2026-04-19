@@ -1,6 +1,7 @@
 ---
 latitude: -6.1228
-longitude: 106.81
+longitude: 106.8100
+snippet: Colonial warehouse museum beside a working traditional harbour
 tags:
 - things_to_do
 - museum

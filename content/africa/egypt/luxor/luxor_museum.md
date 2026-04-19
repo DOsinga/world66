@@ -1,9 +1,11 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 25.707663
 longitude: 32.644489
+snippet: Compact, well-lit museum with top-quality Theban artifacts and royal mummies
 tags:
 - things_to_do
-- museum
 title: Luxor Museum
 type: poi
 ---

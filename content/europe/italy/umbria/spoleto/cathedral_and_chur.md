@@ -1,7 +1,8 @@
 ---
 title: "Cathedral and Churches"
 type: poi
-category: "Sight"
+category: Sight
+snippet: "Mosaic-faced Duomo with Filippo Lippi's final frescoes inside"
 latitude: 42.7312
 longitude: 12.7387
 ---

@@ -1,17 +1,15 @@
 ---
-title: "Agro Oriente Viveros"
+title: Agro Oriente Viveros
 type: poi
-address: "Jr. Reyes Guerra #900"
-type: "Parks, Gardens and Zoos"
+address: Jr. Reyes Guerra 900, Moyobamba
+latitude: -6.0489
+longitude: -76.9713
+snippet: Working orchid nursery showcasing Peru's tropical varieties
+tags:
+- things_to_do
+- nature
 ---
 
-While it really isn't a park or public garden, Agro Oriente is a popular place for tourist with an interest in plants, particularly orchids. The Villena family has dedicated itself to cultivating, producing, commercializing and exporting Peruvian orchids. They also raise many other varieties of ornamental plants including bromiliads, ferns, anthuriums, and others. While Agro Oriente is a working greenhouse and in the business of selling plants, they are used to tourists there. They charge one sol (34 cents US) per person admission, a modest amount to see such a great collection of tropical plants.
+Agro Oriente is a working greenhouse run by the Villena family, who have spent years cultivating, producing, and exporting Peruvian orchids. It's not a botanical garden in the formal sense, but it draws visitors who want to see the sheer variety of tropical plants up close — orchids above all, but also bromeliads, ferns, and anthuriums.
 
-**Contributors**
-February 14, 2008
-
-type: Parks, Gardens and Zoos
-
-
-
-address: Jr. Reyes Guerra #900
+The family is accustomed to curious visitors and happy to walk you through the collection. Admission is one sol per person (roughly $0.30), a token fee for what amounts to a private tour of one of the region's best plant collections. Moyobamba calls itself the City of Orchids, and this nursery is a good place to see why.

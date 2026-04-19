@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.3812
 longitude: 4.6384
+snippet: 17th-century tasting house, unchanged in feel for centuries
 tags:
 - bars_and_cafes
 title: De Blauwe Druif

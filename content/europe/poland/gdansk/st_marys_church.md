@@ -7,6 +7,7 @@ story: 'After 1945, the church''s famous astronomical clock — built in 1464 an
   to the church only in 1983, after decades of diplomatic wrangling.
 
   '
+snippet: World's largest brick church with 405-step tower views
 tags:
 - things_to_do
 - landmark

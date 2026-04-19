@@ -1,6 +1,7 @@
 ---
 latitude: -16.1884
 longitude: -67.727
+snippet: "Homemade ice cream and vegetarian food with Yungas views"
 tags:
 - eating_out
 title: Villa Bonita

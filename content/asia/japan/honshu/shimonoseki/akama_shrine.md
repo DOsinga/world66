@@ -1,4 +1,5 @@
 ---
+snippet: "Vermilion seaside shrine to the drowned child emperor"
 latitude: 33.9598
 longitude: 130.9486
 tags:

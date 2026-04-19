@@ -8,6 +8,7 @@ story: 'Houphouët-Boigny personally commissioned the basilica and, according to
   extravagance troubling.
 
   '
+snippet: World's largest church, modeled on St. Peter's in Rome
 tags:
 - things_to_do
 - architecture

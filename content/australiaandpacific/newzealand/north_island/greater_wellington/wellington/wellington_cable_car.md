@@ -1,6 +1,7 @@
 ---
 title: "Wellington Cable Car"
 type: poi
+snippet: "Iconic funicular from Lambton Quay to Botanic Garden"
 tags: [things_to_do]
 latitude: -41.2847
 longitude: 174.7682

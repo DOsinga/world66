@@ -1,10 +1,8 @@
 ---
 title: "Islam and the West"
 type: poi
-author: "Bernard Lewis"
-isbn: "0195090616"
-subject: "culture"
-type: "general"
+snippet: "Bernard Lewis on centuries of cultural exchange"
+tags: [books]
 ---
 
-[](http://www.amazon.com/exec/obidos/ASIN/0195090616/osingacom?creative=125581&camp=2321&link_code=as1)
+Bernard Lewis's *Islam and the West* examines the long, tangled relationship between Islamic civilization and Western Europe. Lewis traces how each side perceived and misperceived the other over more than a millennium, from the early Arab conquests through the Crusades to the modern era. The book is particularly useful for understanding Turkey's unique position as a bridge between the two worlds. A thoughtful, accessible read for anyone traveling in Turkey who wants historical context for what they're seeing.

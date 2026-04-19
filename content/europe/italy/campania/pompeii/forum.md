@@ -1,6 +1,7 @@
 ---
 title: "The Forum"
 type: poi
+snippet: "Ancient civic center with temples and eruption victim casts"
 tags: [things_to_do, sight]
 latitude: 40.7494
 longitude: 14.4847

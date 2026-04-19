@@ -2,6 +2,7 @@
 address: 550 Bayview Avenue, Toronto, ON M4W 3X8
 latitude: 43.673195
 longitude: -79.366795
+snippet: Restored industrial site with Saturday farmers' market
 tags:
 - things_to_do
 - market

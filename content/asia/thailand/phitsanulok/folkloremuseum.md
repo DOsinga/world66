@@ -1,6 +1,7 @@
 ---
 title: "Sgt Major Thawee Folk Museum"
 type: poi
+snippet: "Thailand's best folk museum of traditional rural life"
 tags:
   - things_to_do
   - museum

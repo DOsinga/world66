@@ -1,6 +1,7 @@
 ---
 latitude: 11.2452
 longitude: -74.2003
+snippet: Tayrona gold and pottery in a colonial mansion
 tags:
 - things_to_do
 - museum

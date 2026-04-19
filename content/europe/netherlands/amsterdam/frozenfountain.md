@@ -1,13 +1,13 @@
 ---
-category: Shopping centers and malls
+address: Prinsengracht 645, Amsterdam
 latitude: 52.36742
 longitude: 4.882806
+snippet: Curated Dutch design shop on the Prinsengracht
 tags:
 - shopping
+- design
 title: Frozen Fountain
 type: poi
 ---
 
-A very cool interior design shop on the Prinsengracht, next to the library. They don't really sell souvenirs, but the do have some small thingies that could serve as such.
-
-type: Shopping centers and malls
+A long-established design shop on the Prinsengracht specializing in contemporary Dutch furniture and home accessories. Frozen Fountain represents independent designers and stocks pieces you won't find in chain stores — think sculptural lighting, handmade ceramics, and bold textiles. Not cheap, but worth browsing even if you're just looking. They carry some smaller items that work as distinctive gifts or souvenirs.

@@ -5,6 +5,7 @@ tags:
 - day_trips
 title: The Perolani Waterfall
 type: poi
+snippet: "Legendary remote waterfall shrouded in local myths"
 ---
 
 Perolani is a mysterious waterfall in the valley behind Tocana. From a distance it is impossible to see the base of the falls. Locals say the devil lives there, and the stories are wild: a mule caravan carrying gold was lost at the bottom, a government helicopter nearly crashed trying to investigate, and ex-military jungle trekkers had to abort their attempt to reach it. The mountain face supposedly resembles Darth Vader.

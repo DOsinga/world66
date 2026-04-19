@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
 image: waddenislands.jpg
 image_attribution: Ruben Holthuijsen on Flickr
 image_license: CC BY 2.0

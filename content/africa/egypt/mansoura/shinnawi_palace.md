@@ -1,6 +1,7 @@
 ---
 latitude: 31.0433
 longitude: 31.3778
+snippet: "Ornate 1928 Italian-designed mansion of a cotton merchant"
 tags:
 - things_to_do
 - architecture

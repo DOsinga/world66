@@ -1,7 +1,8 @@
 ---
 title: "Dom St. Petri"
 type: poi
-category: Sight
+snippet: "Gothic cathedral with extraordinary Brüggemann altarpiece"
+tags: [things_to_do, landmark]
 latitude: 54.5153
 longitude: 9.5672
 ---

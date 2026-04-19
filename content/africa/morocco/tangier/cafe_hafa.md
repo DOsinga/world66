@@ -1,8 +1,11 @@
 ---
 latitude: 35.7858
 longitude: -5.821
+snippet: Cliffside terrace cafe with views across to Spain
 tags:
+- things_to_do
 - bars_and_cafes
+- cafe
 title: Cafe Hafa
 type: poi
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Wat Tham Khao Poon"
 type: poi
-tags: [things_to_do]
+tags: [things_to_do, temples]
+snippet: "Buddhist cave temple with stalactites and Buddha images"
 latitude: 13.9952
 longitude: 99.5239
 ---

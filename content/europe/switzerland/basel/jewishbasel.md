@@ -1,7 +1,10 @@
 ---
 address: Kornhausgasse 8, Basel
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.5589
 longitude: 7.5872
+snippet: Oldest Jewish museum in German-speaking world, founded 1966
 tags:
 - things_to_do
 - museum

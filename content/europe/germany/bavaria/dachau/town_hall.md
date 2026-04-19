@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.261
 longitude: 11.4348
+snippet: 1970s town hall incorporating historic Lebzelterhaus facade
 tags:
 - things_to_do
 - sight

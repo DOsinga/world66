@@ -1,6 +1,24 @@
 ---
 title: "Visas"
 type: poi
+snippet: "Visa types, requirements, and application process"
 ---
 
-There are three options:   A transit visa valid for 72 hours, intended for those who only want to pass through. Even if you are going from Russia to Poland you will need to get one of these.  A single-entry visa (also known as an 'ordinary' visa) which is valid for 30 days. It only allows you to enter Belarus once within the 30 days stipulated on the visa. If you leave, you can't come back in. Watch out, there are some trains that go from Brest to Grodna that go into Poland. Sometimes they will let you go through, sometimes not. It depends on the mood of the Border Guard.  A multiple-entry visa can be valid for up to one year and intended mainly for business travellers wanting to go in and out of the country a number of times.   Apply for a visa from any Belarusian embassy or consulate well in advance of the day of your intended departure. For all visas, you will have to submit:   1. a completed Belarusian visa application form (available from embassy or consulate)  2. a valid passport  3. one passport size photo (35mm x 45mm)  4. an invitation from an officially registered company or proof of pre-booked accommodation in Belarus.   For a transit visa you need proof that you are only travelling on to another country, ie. travel documents or tickets.   It is impossible to get a Belarusian visa without either an invitation from your inviting organisation or confirmation of a hotel booking in Belarus You can buy an invitation from: Viliota travel agency Basanaviciaus 15, Vilnius, Lithuania, tel. (+370-2) 65 22 38.
+Belarus requires a visa for most nationalities. There are three main types:
+
+**Transit visa** — valid for 72 hours, for those passing through. Even overland travelers going from Russia to Poland need one.
+
+**Single-entry visa** — valid for 30 days. You can only enter once; if you leave, you cannot re-enter. Be aware that some train routes (such as Brest to Hrodna) briefly cross into Poland, which counts as leaving the country. Whether border guards enforce this can depend on the day.
+
+**Multiple-entry visa** — valid for up to one year, mainly for business travelers making repeated trips.
+
+Apply at a Belarusian embassy or consulate well before your departure. You will need:
+
+1. A completed visa application form
+2. A valid passport
+3. One passport photo (35 x 45 mm)
+4. An invitation from a registered Belarusian company or confirmation of pre-booked accommodation
+
+For a transit visa, you also need proof of onward travel (tickets or travel documents). Getting a visa without either an invitation or a hotel booking is not possible.
+
+Note: visa requirements change frequently. Check the current rules with the nearest Belarusian embassy before making plans.

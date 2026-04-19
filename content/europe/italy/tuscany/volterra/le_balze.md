@@ -1,9 +1,11 @@
 ---
 latitude: 43.4051
 longitude: 10.8484
+snippet: Dramatic clay ravines that swallowed churches and tombs
 tags:
 - things_to_do
 - sight
+- nature
 title: Le Balze
 type: poi
 ---

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -16.21
 longitude: -67.68
+snippet: Warm swimming lagoon formed by a mountainside landslide
 tags:
 - day_trips
 title: Arapata and the Green Lagoon

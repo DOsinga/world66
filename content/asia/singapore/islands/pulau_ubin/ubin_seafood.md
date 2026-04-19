@@ -1,6 +1,7 @@
 ---
 latitude: 1.4039
 longitude: 103.9608
+snippet: Popular pier restaurant known for chilli crab and seafood
 tags:
 - eating_out
 title: Ubin Seafood

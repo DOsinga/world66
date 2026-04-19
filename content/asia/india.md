@@ -1,6 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-31
+  poi_cleanup: '2026-04-19'
 image: india.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Tamjeed_Ahmed" title="User:Tamjeed
   Ahmed">Tamjeed Ahmed</a>
@@ -8,9 +9,9 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Back_view_of_Rashtrapati_Bhavan.jpg
 latitude: 20.593684
 longitude: 78.96288
+score: 0.31
 title: India
 type: location
-score: 0.31
 ---
 
 *Asia > India*

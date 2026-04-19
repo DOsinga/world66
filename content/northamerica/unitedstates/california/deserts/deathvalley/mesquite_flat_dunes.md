@@ -1,6 +1,7 @@
 ---
 latitude: 36.6054
 longitude: -117.1073
+snippet: Accessible desert dunes stunning at sunrise and sunset
 tags:
 - things_to_do
 - landmark

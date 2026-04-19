@@ -1,26 +1,13 @@
 ---
-title: "Camoon Restaurant & Cafe"
+address: Panoramic Building - Dubai Marina
+latitude: 25.0765
+longitude: 55.135
+price: AED 0-50
+snippet: Arabic-international grill with Marina Walk waterfront seating
+tags:
+- eating_out
+title: Camoon Restaurant & Cafe
 type: poi
-address: "Panoramic Building - Dubai Marina"
-email: "feedback@camoonrestaurant.com"
-phone: "+9714 4477619"
-price: "AED 0-50"
-type: "International"
-url: "www.camoonrestaurant.com"
 ---
 
-Camoon is an Arabic/International restaurant and cafe with a focus on grills. It's located in the far end of Dubai Marina, opposite the KG Tower on the Marina Walk, and has ample seasonal outdoor seating by the water, as well as an indoor shisha section.
-
-type: International
-
-
-
-tel: +9714 4477619
-
-url: [www.camoonrestaurant.com](http://www.camoonrestaurant.com)
-
-address: Panoramic Building - Dubai Marina
-
-PriceOfMenu: AED 0-50
-
-email: feedback@camoonrestaurant.com
+Camoon is an Arabic and international restaurant and cafe with a focus on grills. It sits at the far end of Dubai Marina, opposite the KG Tower on the Marina Walk, with ample outdoor seating by the water in cooler months and an indoor shisha section.

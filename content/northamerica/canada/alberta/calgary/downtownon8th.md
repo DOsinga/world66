@@ -1,15 +1,13 @@
 ---
-latitude: 43.45066
-longitude: -80.492572
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 51.0459
+longitude: -114.0583
+snippet: Calgary's main shopping district stretching along 8th Avenue SW
 tags:
 - shopping
-- shop
-- square
-- cafe
-- club
-title: Downtown On 8th .
+title: Downtown on 8th
 type: poi
 ---
 
-Calgary's largest shopping area encompasses Bankers Hall, The Bay, Eaton Centre, TD Square, Scotia Centre, Penny Lane and the outdoor Stephen Avenue pedestrian mall with street level boutiques. You'll find fashion, souvenirs, nightclubs, cafes, antiques, florists and cinemas. 
- Address: City centre between 5 St SW and 1 St SE along 8 Ave Calgary Alberta
+Calgary's main shopping corridor runs along 8th Avenue SW between 1st Street SE and 5th Street SW, taking in Bankers Hall, Scotia Centre, TD Square, and the Eaton Centre. Stephen Avenue, the outdoor pedestrian stretch at the heart of it, is lined with boutiques, cafes, and restaurants. The area has good transit connections and fills up at lunch with office workers from the surrounding towers.

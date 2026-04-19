@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  poi_cleanup: '2026-04-19'
 latitude: 50.2649
 longitude: 19.0238
 title: Katowice

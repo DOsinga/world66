@@ -1,6 +1,7 @@
 ---
 latitude: 14.3448
 longitude: 100.5629
+snippet: "Best-preserved riverside fort at the rivers' confluence"
 tags:
 - things_to_do
 - landmark

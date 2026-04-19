@@ -1,6 +1,7 @@
 ---
 latitude: -45.82
 longitude: 170.65
+snippet: Rare penguins, albatrosses, and seals by road from Dunedin
 tags:
 - things_to_do
 - landmark

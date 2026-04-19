@@ -1,6 +1,7 @@
 ---
 latitude: 25.6675
 longitude: 94.1107
+snippet: WWII cemetery at the turning point of the Burma campaign
 tags:
 - things_to_do
 title: Kohima War Cemetery

@@ -1,6 +1,7 @@
 ---
 latitude: 36.7856
 longitude: 3.0601
+snippet: UNESCO-listed Ottoman labyrinth, soul of the city
 tags:
 - things_to_do
 - neighbourhood

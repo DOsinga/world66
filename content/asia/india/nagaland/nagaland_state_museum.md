@@ -1,8 +1,10 @@
 ---
 latitude: 25.6706
 longitude: 94.1077
+snippet: Tribal artifacts and headhunting history of the Naga peoples
 tags:
 - things_to_do
+- museum
 title: Nagaland State Museum
 type: poi
 ---

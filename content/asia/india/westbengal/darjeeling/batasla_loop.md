@@ -1,6 +1,7 @@
 ---
-latitude: 27.013584
-longitude: 88.268523
+latitude: 27.0136
+longitude: 88.2685
+snippet: Spiral railway loop with Kanchenjunga views and war memorial
 tags:
 - things_to_do
 title: Batasia Loop

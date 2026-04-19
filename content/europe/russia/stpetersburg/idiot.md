@@ -1,6 +1,9 @@
 ---
 title: "Idiot"
 type: poi
+tags:
+- eating_out
+snippet: "Bookish vegetarian bar named after Dostoevsky's novel"
 address: "nab. reki Moyki 82"
 latitude: 59.9305
 longitude: 30.3005

@@ -1,9 +1,10 @@
 ---
-latitude: 18.921966
-longitude: 72.834566
+latitude: 18.9220
+longitude: 72.8346
+snippet: Iconic waterfront arch marking Britain's arrival and departure
 tags:
 - things_to_do
-- palace
+- sight
 title: Gateway of India
 type: poi
 ---

@@ -1,9 +1,12 @@
 ---
 title: "Bronze Horseman"
 type: poi
-category: Sight
 latitude: 59.9364
 longitude: 30.3022
+snippet: Peter the Great on horseback, St Petersburg's defining monument
+tags:
+- things_to_do
+- landmark
 story: "The pedestal is a single granite boulder weighing 1,600 tonnes, dragged from a swamp near St Petersburg — it took nine months and hundreds of men to move it to Senate Square."
 ---
 

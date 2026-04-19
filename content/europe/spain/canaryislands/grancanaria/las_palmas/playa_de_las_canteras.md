@@ -1,6 +1,7 @@
 ---
 latitude: 28.1429
 longitude: -15.4337
+snippet: Three-kilometre city beach with a natural reef breakwater
 tags:
 - things_to_do
 - landmark

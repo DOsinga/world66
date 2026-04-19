@@ -1,12 +1,11 @@
 ---
-latitude: 40.836111
-longitude: 14.243889
+latitude: 40.8361
+longitude: 14.2439
+snippet: Elegant Chiaia square with four lion statues and upscale cafes
 tags:
 - things_to_do
 - monument
 - square
-- cafe
-- neighbourhood
 title: Piazza dei Martiri
 type: poi
 ---

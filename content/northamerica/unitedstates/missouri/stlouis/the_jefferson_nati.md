@@ -5,6 +5,7 @@ longitude: -90.185
 opening_hours: 'Daily 9am–6pm (summer: 8am–10pm); closed Thanksgiving, Christmas,
   New Year''s Day'
 phone: 314-655-1700
+snippet: America's tallest monument, with tram rides to the top
 story: 'The two legs of the Arch were built simultaneously from opposite ends — each
   rising independently until they met at the top in October 1965. The final keystone
   section fit with only a quarter-inch to spare, helped along by firefighters hosing

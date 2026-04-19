@@ -1,8 +1,9 @@
 ---
 address: Kernhemseweg 3, 6718 ZB Ede
-latitude: 52.052544
-longitude: 5.656581
+latitude: 52.0525
+longitude: 5.6566
 phone: +31 (0)318 651 812
+snippet: 17th-century country house with a moat and wooded estate
 tags:
 - things_to_do
 - landmark

@@ -1,20 +1,15 @@
 ---
-title: "Greater Niagara Falls Coach Terminal"
-type: poi
+address: Bridge @ Erie, Downtown Niagara Falls
+latitude: 43.092
+longitude: -79.074
+snippet: Bus terminal linking intercity and local transit services
 tags:
-  - getting_around
-  - transit
-address: "Bridge @ Erie, Downtown Niagara Falls"
-latitude: 43.0920
-longitude: -79.0740
+- getting_around
+- transit
+title: Greater Niagara Falls Coach Terminal
+type: poi
 ---
 
-The location to be at when trying to transfer between intercity and local services.
+The main bus terminal in downtown Niagara Falls, at Bridge and Erie, where intercity and local services connect. Coach Canada runs services to St. Catharines, Grimsby, Hamilton, Toronto, Fort Erie, Buffalo, and New York City. Greyhound of Canada offers similar routes.
 
-Here is a rough list of services:
-
----Coach Canada...service on the St. Catharines/Grimsby/Toronto line run, St. Catharines/Grimsby/Hamilton line run, and the Niagara Falls/Fort Erie/Buffalo/New York City line run. One trip a day, also services the Welland/Pt Colborne area.
-
----Greyhound of Canada...similar to that of Coach Canada.
-
-Note that Coach Canada (Trentway Wagar) offers a number of lower rates for SAME DAY returns on Toronto day trips. Check with the terminal agent to see if you qualify.
+Coach Canada sometimes offers discounted same-day return fares for Toronto day trips -- ask the terminal agent if you qualify.

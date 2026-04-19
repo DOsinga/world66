@@ -3,14 +3,10 @@ address: Via della Madonna dei Monti 9, 00184 Rome
 latitude: 41.8948
 longitude: 12.487
 opening_hours: Wed–Mon 12:30–15:00, 19:30–23:00; closed Tue
+snippet: Family-run Monti trattoria with solid Roman classics
 tags:
-- Eating in Monti
 - eating_out
-- monti
 - restaurant
-- market
-- bar
-- neighbourhood
 title: Taverna dei Fori Imperiali
 type: poi
 ---

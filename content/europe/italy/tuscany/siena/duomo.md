@@ -1,6 +1,7 @@
 ---
 title: "Siena Cathedral (Duomo)"
 type: poi
+snippet: Striped marble cathedral with elaborate inlaid floors
 tags: [things_to_do, sight, church]
 latitude: 43.3169
 longitude: 11.3284

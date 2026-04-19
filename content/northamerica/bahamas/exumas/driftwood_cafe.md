@@ -1,6 +1,8 @@
 ---
 title: "Driftwood Cafe"
 type: poi
+category: Restaurant
+snippet: "Casual George Town cafe, reliable breakfasts and pizzas on patio"
 latitude: 23.5169
 longitude: -75.7861
 ---

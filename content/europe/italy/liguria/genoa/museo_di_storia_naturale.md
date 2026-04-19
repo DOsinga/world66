@@ -1,7 +1,10 @@
 ---
 address: Via Brigata Liguria 9
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 44.410021
 longitude: 8.946983
+snippet: Outstanding entomological collection in a lesser-known museum
 tags:
 - things_to_do
 - museum

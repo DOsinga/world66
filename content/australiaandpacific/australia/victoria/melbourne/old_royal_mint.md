@@ -1,5 +1,7 @@
 ---
 address: 280 William Street
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -37.8121
 longitude: 144.9571
 phone: +61 3 9670 1219

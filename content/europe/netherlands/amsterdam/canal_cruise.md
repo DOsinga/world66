@@ -1,16 +1,13 @@
 ---
 latitude: 52.378676
 longitude: 4.897165
+snippet: Hour-long boat tour through Amsterdam's UNESCO-listed canals
 tags:
-- tours_and_excursio
+- tours_and_excursions
 title: Canal Cruise
 type: poi
 ---
 
-If you haven't much time but want to get a complete overview of the
-city you should absolutely jump on a boat and have a Canal Cruise.
-Normal cruises usually last one hour, cost around 8 euros and depart
-just in front of the Central Station.
+A canal cruise is the classic Amsterdam introduction, and it genuinely earns its popularity. In about an hour you glide past the four main canal rings, the narrow merchant houses with their hoisting beams, houseboats, and bridges you would otherwise walk right over without noticing. Commentary (usually available in multiple languages) points out architectural details and historical context that bring the 17th-century canal belt to life.
 
-**Contributors**
-March 29, 2005
+Several operators depart from piers near Centraal Station and along the Damrak and Stadhouderskade. Prices typically run around 15-18 euros for adults. Evening cruises with drinks are also available. If the weather cooperates, grab a seat on the open top deck.

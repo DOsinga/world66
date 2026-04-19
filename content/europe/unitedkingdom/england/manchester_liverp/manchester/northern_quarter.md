@@ -2,6 +2,7 @@
 address: Northern Quarter, Manchester M1 1JR
 latitude: 53.484
 longitude: -2.235
+snippet: Manchester's creative and bohemian neighbourhood
 tags:
 - things_to_do
 - neighbourhood

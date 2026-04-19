@@ -1,6 +1,7 @@
 ---
 latitude: 36.794
 longitude: 10.1737
+snippet: Elegant 18th-century medina palace housing Tunis's folk museum
 tags:
 - things_to_do
 - museum

@@ -2,6 +2,7 @@
 address: 10th and May Streets
 latitude: 35.481
 longitude: -97.524
+snippet: Dozens of antique shops clustered along May Street
 tags:
 - shopping
 title: Oklahoma City Antique District

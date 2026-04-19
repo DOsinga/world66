@@ -1,7 +1,10 @@
 ---
 address: Calle Cardenal Herrero 1
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.879
 longitude: -4.7794
+snippet: Eighth-century mosque with a cathedral built inside it
 story: 'When Charles V visited in 1526 and saw the cathedral the canons had carved
   into the heart of the mosque, he is said to have told them: you have built here
   what you or anyone might have built anywhere; but you have destroyed what was unique

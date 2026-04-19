@@ -1,6 +1,7 @@
 ---
 latitude: 35.9005
 longitude: 14.5128
+snippet: Malta's finest prehistoric collection, home to the Sleeping Lady figurine
 tags:
 - things_to_do
 - museum

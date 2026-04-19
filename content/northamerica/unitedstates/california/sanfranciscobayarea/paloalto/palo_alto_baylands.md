@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 37.4571
 longitude: -122.1049
+snippet: "Largest undisturbed marshland on San Francisco Bay"
 ---
 
 The Baylands is the largest remaining tract of undisturbed marshland in the San Francisco Bay, a flat, wide-open landscape that feels surprisingly remote given where it sits. Trails run out through the tule reeds along the bay shore, where great blue herons, avocets, and willets are regular company. The Lucy Evans Baylands Nature Interpretive Center, a modest building on stilts over the marsh, has exhibits on the local ecology and is staffed by knowledgeable volunteers on weekends.

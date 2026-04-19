@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.4249
 longitude: 18.7716
 snippet: 12th-century church once shared by Catholic and Orthodox faiths

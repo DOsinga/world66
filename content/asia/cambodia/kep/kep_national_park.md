@@ -2,6 +2,7 @@
 title: "Kep National Park"
 type: poi
 category: Sight
+snippet: "Forested hill park with jungle trails and coastal views"
 latitude: 10.4880
 longitude: 104.3050
 ---

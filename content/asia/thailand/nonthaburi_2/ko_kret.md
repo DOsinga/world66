@@ -1,6 +1,7 @@
 ---
 latitude: 13.9037
 longitude: 100.4842
+snippet: Car-free river island known for Mon pottery and temples
 tags:
 - things_to_do
 - neighbourhood

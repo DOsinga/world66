@@ -2,6 +2,7 @@
 tags: [things_to_do, cave, historic_site, natural_attraction]
 latitude: 35.1630
 longitude: 25.4453
+snippet: Minoan cult cave said to be the birthplace of Zeus
 title: Diktaean Cave
 type: poi
 ---

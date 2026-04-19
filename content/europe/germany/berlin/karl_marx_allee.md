@@ -1,7 +1,7 @@
 ---
-category: Architecture
 latitude: 52.5183
 longitude: 13.43
+snippet: "Grand Stalinist boulevard showcasing monumental 1950s socialist architecture"
 tags:
 - things_to_do
 - friedrichshain

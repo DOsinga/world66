@@ -1,8 +1,11 @@
 ---
 address: Piazza della Minerva, 00186 Rome
 admission: Free
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8979
 longitude: 12.4766
+snippet: Charming marble elephant carrying an Egyptian obelisk
 tags:
 - things_to_do
 - church

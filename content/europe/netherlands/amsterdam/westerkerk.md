@@ -6,6 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Westerkerk
 latitude: 52.374527
 longitude: 4.883978
 neighbourhood: The Jordaan
+snippet: "Iconic 1631 church tower with Rembrandt's burial site"
 tags:
 - things_to_do
 - jordaan

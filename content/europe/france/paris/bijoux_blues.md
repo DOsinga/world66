@@ -5,6 +5,7 @@ email: contact@bijouxblues.com
 latitude: 48.85391
 longitude: 2.362174
 phone: 01 48 04 00 64
+snippet: Handmade Parisian jewelry in the Marais
 tags:
 - shopping
 title: Bijoux Blues
@@ -12,20 +13,4 @@ type: poi
 url: www.bijouxblues.com
 ---
 
-This charming jewelry shop in the heart of the Marais features unique pieces hand made in Paris. Materials frequently used include semi-precious stones, fully cut Bohemian and French crystals, glass, pearls, corals and silver. Extraordinary colorful pieces full of fantasy and originality.
-
-type: Speciality shops
-
-
-
-
-
-accessibility: metro St. Paul
-
-tel: 01 48 04 00 64
-
-url: [www.bijouxblues.com](http://www.bijouxblues.com)
-
-address: 30 rue St. Paul
-
-email: contact@bijouxblues.com
+This charming jewelry shop in the heart of the Marais features unique pieces handmade in Paris. Materials include semi-precious stones, Bohemian and French crystals, glass, pearls, corals, and silver. The designs are colorful and inventive — good for a distinctive souvenir or gift.

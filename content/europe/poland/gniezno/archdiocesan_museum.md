@@ -1,6 +1,7 @@
 ---
 category: Museum
 latitude: 52.5365
+snippet: Cathedral-side museum holding a millennium of sacred art and Adalbert relics
 longitude: 17.593
 title: Archdiocesan Museum
 type: poi

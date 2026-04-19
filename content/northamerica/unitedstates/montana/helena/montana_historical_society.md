@@ -1,9 +1,10 @@
 ---
 title: "Montana Historical Society Museum"
 type: poi
+snippet: "Major Charles M. Russell collection and Montana history"
 tags:
-  - things_to_do
-  - museum
+- things_to_do
+- museum
 latitude: 46.5951
 longitude: -112.0293
 ---

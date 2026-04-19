@@ -1,6 +1,8 @@
 ---
+address: "7701 East I-40"
 latitude: 35.1937
 longitude: -101.8001
+snippet: "Home of the legendary free 72-ounce steak challenge"
 tags:
 - eating_out
 - restaurant

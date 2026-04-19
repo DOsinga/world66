@@ -2,6 +2,7 @@
 address: Calle de los Judíos 20
 latitude: 37.8798
 longitude: -4.7838
+snippet: One of only three medieval synagogues surviving in Spain
 tags:
 - things_to_do
 - landmark

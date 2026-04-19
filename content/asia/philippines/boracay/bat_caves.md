@@ -1,6 +1,7 @@
 ---
 latitude: 11.9956
 longitude: 121.9389
+snippet: Cliffside caves where fruit bats pour out at dusk.
 tags:
 - things_to_do
 - landmark

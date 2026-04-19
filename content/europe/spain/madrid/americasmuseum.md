@@ -1,13 +1,12 @@
 ---
 latitude: 40.4429
 longitude: -3.7328
+snippet: "Pre-Columbian art and Inca gold in the Moncloa district"
 tags:
 - things_to_do
 - museum
-title: America's Museum
+title: Museo de América
 type: poi
 ---
 
-One of my favorite museums is the **America's Museum (Museo de America), **(Reyes Catolicos 6), in the area of Moncloa (the student area) and close to the 90th meters tower, from where you can see almost all the city. This Museum is dedicated to the pre-Columbian history. You can find Indian letters written with a rope or the Inca's gold collection.
-
-type: Museums
+The Museo de América (Avenida de los Reyes Católicos 6) sits in the Moncloa district near the Faro de Moncloa tower, from whose observation deck you can see most of the city. The museum is dedicated to pre-Columbian and colonial Latin American history, with an impressive collection that includes Inca gold, Mayan codices, quipu (knotted-rope records), and everyday objects from indigenous cultures across the Americas. Often overlooked by visitors focused on the Prado and Reina Sofía, it is well worth the trip.

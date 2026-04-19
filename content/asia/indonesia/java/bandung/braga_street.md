@@ -1,6 +1,7 @@
 ---
 latitude: -6.9181
 longitude: 107.6086
+snippet: Art Deco colonial promenade with cafes and galleries
 tags:
 - things_to_do
 - neighbourhood

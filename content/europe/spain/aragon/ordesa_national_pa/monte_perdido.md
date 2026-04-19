@@ -2,6 +2,7 @@
 title: "Monte Perdido Summit"
 type: poi
 category: Sight
+snippet: Third-highest Pyrenean peak with a rewarding two-day ascent
 latitude: 42.6706
 longitude: 0.0344
 ---

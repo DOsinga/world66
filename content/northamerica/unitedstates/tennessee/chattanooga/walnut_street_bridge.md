@@ -1,6 +1,7 @@
 ---
 latitude: 35.0588
 longitude: -85.3068
+snippet: Historic pedestrian bridge spanning the Tennessee River
 tags:
 - things_to_do
 - landmark

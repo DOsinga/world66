@@ -1,8 +1,10 @@
 ---
 latitude: 36.8305
 longitude: 28.6166
+snippet: Ancient hillside ruins reached by rowing boat across the river
 tags:
 - things_to_do
+- sight
 title: Caunos
 type: poi
 ---

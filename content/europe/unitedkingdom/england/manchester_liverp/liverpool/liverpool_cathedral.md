@@ -1,7 +1,10 @@
 ---
 address: St James Mount, Liverpool, L1 7AZ
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.3964
 longitude: -2.9738
+snippet: Britain's largest cathedral with sweeping tower views
 tags:
 - things_to_do
 - landmark

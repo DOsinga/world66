@@ -2,6 +2,7 @@
 title: "Roman Theatre"
 type: poi
 tags: [things_to_do]
+snippet: "1st-century BC theatre still hosting summer performances"
 latitude: 43.3519
 longitude: 12.5725
 ---

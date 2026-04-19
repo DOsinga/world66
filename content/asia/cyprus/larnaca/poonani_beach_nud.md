@@ -1,9 +1,10 @@
 ---
-title: "Poonani Beach (nudist)"
+title: "Poonani Beach"
 type: poi
+snippet: "Small unofficial nudist beach southeast of Larnaca"
 tags: [beaches]
 latitude: 34.919
 longitude: 33.638
 ---
 
-Hidden in the south east of the town Poonani Nudist Beach is the place to be. Only open in the Hotter Seasons Poonani is a fun and cosmopolitan place.
+A small, unofficial nudist beach tucked away southeast of Larnaca town. Poonani Beach draws a mixed, cosmopolitan crowd during the warmer months, roughly May through October. It is not signposted and can take a bit of searching to find, which is part of its appeal. Facilities are nonexistent, so bring water and shade.

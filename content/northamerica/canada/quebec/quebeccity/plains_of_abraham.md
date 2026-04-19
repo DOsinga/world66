@@ -3,6 +3,7 @@ address: 390 avenue de Bernières, Québec City, QC G1R 2L7
 latitude: 46.8
 longitude: -71.225
 phone: 418 648-4071
+snippet: "1759 battlefield where French Canada fell, now a beloved urban park"
 tags:
 - things_to_do
 title: Plains of Abraham

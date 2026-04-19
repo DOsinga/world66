@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -5.105
 longitude: -78.91
+snippet: Fading pre-Columbian rock paintings outside San Ignacio
 tags:
 - things_to_do
 - sight

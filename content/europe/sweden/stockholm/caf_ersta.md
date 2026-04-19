@@ -1,28 +1,10 @@
 ---
-tags:
-- bars_and_cafes
-- bar
-- cafe
-title: Café Ersta
+title: "Café Ersta"
 type: poi
+snippet: "Hospital cafe with arguably Stockholm's best view"
+tags: [bars_and_cafes, cafe]
+latitude: 59.3158
+longitude: 18.0785
 ---
 
-This café on Södermalm has reasonable prices and perhaps the best view in Stockholm from its outdoor tables. It is actually the restaurant for the Ersta Hospital, but is open for everyone. Its restaurant has *lunch of the day* and a big salad bufféet.
-
-**Getting there:** Bus 2, 53 or 71 to Ersta Sjukhus. 
-
-**Open:** Monday - Sunday 12-17
-
-**URL**: http://www.ersta.se/ersta_for_alla/1_ersta_cafe-restaurang.htm
-
-Write up on 26 August 04
-
-Write up on 07 September 04
-
-Minor corrections on 12 December 04
-
-tel: 08-714 66 34
-
-address: Erstagatan 1
-
-zipcode: 116 91
+This cafe on Södermalm has reasonable prices and perhaps the best view in Stockholm from its outdoor tables. It's actually the restaurant for Ersta Hospital, but anyone can eat here. The lunch menu features a daily special and a generous salad buffet. The location, perched on the hillside above Saltsjön, gives you a panorama across the water that most Stockholm restaurants would charge considerably more for.

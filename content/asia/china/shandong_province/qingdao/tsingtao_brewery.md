@@ -1,6 +1,7 @@
 ---
 latitude: 36.0856
 longitude: 120.3722
+snippet: Historic German-era brewery with tours and tastings
 tags:
 - things_to_do
 title: Tsingtao Brewery

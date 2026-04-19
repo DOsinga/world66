@@ -2,6 +2,7 @@
 title: "Buena Esperanza Beach"
 type: poi
 tags: [day_trips, beach]
+snippet: Riverside beach on the Huancabamba, a short colectivo from Jaén
 latitude: -5.6778
 longitude: -78.7744
 ---

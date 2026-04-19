@@ -2,6 +2,7 @@
 address: Piazza del Mercato Centrale, 50123 Florence
 latitude: 43.7751
 longitude: 11.2524
+snippet: Historic iron-and-glass market hall with gourmet food floor
 tags:
 - things_to_do
 - market

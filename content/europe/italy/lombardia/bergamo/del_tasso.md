@@ -3,19 +3,14 @@ address: 3 Piazza Vecchia
 latitude: 45.703834
 longitude: 9.662952
 phone: 035 237 966
+snippet: Historic café on Bergamo's most beautiful piazza
 tags:
 - bars_and_cafes
 - bar
-- monument
-- square
-title: Del Tasso
+title: Caffè del Tasso
 type: poi
 ---
 
-Caffe' del Tasso is a historical place once frequented by artists and learned men located in Piazza Vecchia in Città Alta and it has elegant indoor and outdoor seating. They serve ice cream, tea, drinks, a little food and appetizers. It is the custom to linger at your table, take your time and absorb the gorgeous sites of Piazza Vecchia with its lights, people, monuments, water fountain and life. If you are lucky there may be an event or a puppet show but just the Piazza is a show in itself.
+Occupying a prime spot on Piazza Vecchia in Bergamo's Città Alta since the 16th century, Caffè del Tasso has been a gathering place for artists and intellectuals for generations. The elegant indoor room and outdoor terrace both face one of northern Italy's finest squares, with its fountain, the Palazzo della Ragione, and the Contarini bell tower framing the view.
 
-
-
-tel: 035 237 966
-
-address: 3 Piazza Vecchia
+Order a coffee, an aperitivo, or a gelato and settle in. The custom here is to linger, watching the piazza come to life around you. On a good evening there might be a puppet show or a concert, but the square itself is spectacle enough.

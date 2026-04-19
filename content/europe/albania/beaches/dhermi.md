@@ -1,11 +1,13 @@
 ---
 title: "Dhermi"
 type: poi
+snippet: "Albania's favourite beach with hidden coves to explore"
 latitude: 40.151199
 longitude: 19.641412
+tags:
+- beaches
 ---
 
-For Albanians the place to go. Although the city of Dhermi is not particulary interesting or stylish, the beach can be and especially if you take a beach outside the village more to the north or south. One beach is amazing and frequently visited by the president and prime minister themselves, but it is particulary hard to find. When taking the road down to Dhermi you have to go right somewhere on a street that doesn't look like one, but is just rocks and sand. After a 10 to 15 minute drive, a maginificent lonely spot opens up and you can have a terrific time at the beach and on the campsite or in one of the few cabins.
+Dhermi is one of the most popular beach destinations on the Albanian Riviera. The village itself is unremarkable, but the coastline is stunning — long stretches of white pebble beach backed by olive groves and the Ceraunian Mountains.
 
-**Contributors**
-September 04, 2006
+The main beach gets busy in summer, so head north or south along the coast for quieter spots. Some of the best coves are reached by rough dirt tracks that branch off the main road as you descend toward the village. After a bumpy ten-to-fifteen-minute drive, you can find yourself at a magnificent, nearly empty beach. A few of these spots have simple campsites or cabins.

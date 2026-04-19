@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.8021
 longitude: 10.1682
+snippet: Restored 18th-century palace showcasing traditional Tunisian interiors
 tags:
 - things_to_do
 - architecture

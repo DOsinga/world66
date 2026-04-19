@@ -1,13 +1,16 @@
 ---
 title: "Museo Salzillo"
 type: poi
+tags:
+- things_to_do
+- museum
+snippet: "Baroque sculptor's expressive wooden figures and a 500-piece nativity"
 address: "Calle de San Andrés, 1"
-phone: "968.29.18.93."
-type: "general"
-latitude: 40.425481
-longitude: -3.703973
+phone: "968 29 18 93"
+latitude: 37.9838
+longitude: -1.1226
 ---
 
-The name of Francisco Salzillo is indisputably linked to Murcia. Although his father Nicolás was originally from Naples Franciso was born in the region in 1707 and died in 1738. At the time of his death he had carved around 1,800 wooden images in the baroque style, all notable for their expressiveness and wonderful use of vibrant colour. Examples of the sculptor's work are on display in the Museum and during Holy Week at Easter many form part of the religious processions. Also on display in the Museum is a fabulous crib made up of some 500 figures. The Museum is located at Calle de San Andrés, 1. Phone. 968.29.18.93.
+The name Francisco Salzillo is inseparable from Murcia. Born here in 1707 to a Neapolitan father, he spent his entire career in the region, carving around 1,800 wooden figures in an intensely expressive baroque style before his death in 1783. His polychrome sculptures are startlingly lifelike — faces twisted in grief, hands reaching out, robes caught mid-flutter.
 
-type: general
+The museum displays a strong selection of his work, but the real showstopper is the enormous nativity scene (belén) made up of some 500 miniature figures. During Holy Week, many of his larger pasos are carried through the streets in Murcia's famous processions — a tradition that has continued for centuries.

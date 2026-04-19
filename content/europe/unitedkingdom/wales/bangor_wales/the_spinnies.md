@@ -4,6 +4,7 @@ longitude: -4.079
 tags:
 - things_to_do
 - nature_reserve
+snippet: "Wildlife Trust bird hides with egrets and kingfishers near Bangor"
 title: The Spinnies
 type: poi
 ---

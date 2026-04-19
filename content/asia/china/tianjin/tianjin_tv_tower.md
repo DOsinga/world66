@@ -1,6 +1,7 @@
 ---
 title: "Tianjin Radio and TV Tower"
 type: poi
+snippet: "415-metre tower with revolving restaurant and sea views"
 tags:
   - things_to_do
   - sight

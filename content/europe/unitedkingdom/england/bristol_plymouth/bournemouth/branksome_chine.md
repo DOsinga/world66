@@ -1,6 +1,8 @@
 ---
-title: 'Branksome Chine'
+title: "Branksome Chine"
 type: poi
+category: Sight
+snippet: "Sheltered cliff-backed beach great for windsurfers and paddleboards"
 tags:
   - beaches
   - beach

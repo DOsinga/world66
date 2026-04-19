@@ -1,6 +1,7 @@
 ---
 latitude: 14.0425
 longitude: -5.999
+snippet: Buy hand-woven rugs directly from Segou's artisan weavers
 tags:
 - things_to_do
 - shopping

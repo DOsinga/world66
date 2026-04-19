@@ -1,9 +1,12 @@
 ---
-title: "Cathedral of Lugo"
-type: poi
-category: Sight
 latitude: 43.0121
 longitude: -7.5572
+snippet: Romanesque cathedral with rare unbroken Blessed Sacrament exposition
+tags:
+- things_to_do
+- sight
+title: Cathedral of Lugo
+type: poi
 ---
 
 Construction of Lugo's cathedral began in 1129, producing a Romanesque-Gothic core that

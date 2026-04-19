@@ -1,6 +1,7 @@
 ---
 title: "Lake Bosumtwi"
 type: poi
+snippet: Sacred meteor crater lake with deep blue water
 tags:
   - things_to_do
   - nature

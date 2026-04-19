@@ -1,9 +1,10 @@
 ---
 latitude: 40.827778
 longitude: 14.138889
+snippet: Supervolcanic landscape with Roman ruins west of Naples
 tags:
 - things_to_do
-- theatre
+- nature
 title: Campi Flegrei (Phlegraean Fields)
 type: poi
 ---

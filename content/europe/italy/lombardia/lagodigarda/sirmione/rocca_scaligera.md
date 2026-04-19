@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, castle]
 latitude: 45.4919
 longitude: 10.6083
+snippet: Scaligeri castle rising from Lake Garda with working drawbridge
 story: >
   The castle was built by Cangrande I della Scala, lord of Verona, in the mid-13th century to control the strategic peninsula. The della Scala family — the Scaligeri — gave their name to this type of lakeside fortress, and the Sirmione castle is the best preserved of them all: its drawbridge still works.
 ---

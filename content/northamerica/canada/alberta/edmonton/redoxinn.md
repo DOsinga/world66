@@ -1,12 +1,14 @@
 ---
 latitude: 53.53146
 longitude: -113.467217
+snippet: Elegant dining with inventive dishes and polished service
 tags:
 - eating_out
-title: Red Ox Inn .
+- restaurant
+title: Red Ox Inn
 type: poi
+address: 9420 - 91 Street, Edmonton, Alberta
+phone: 1 780 465-5727
 ---
 
-One of the city's best kept secrets, this elegant restaurant is known for it's exceptional service and innovative cuisine. Sample offerings such as sesame crusted prawns or jumbo scallops in a chili lime vinaigrette before moving on to entrées such as salmon in an orange ginger glaze, basil crusted lamb or beef tenderloin in caramelized shallot gravy. Entrées $8 to $20. Open for dinner Tues to Sun at 5 pm; Friday lunch 11:30am - 2 pm. 
- Tel: 1 780 465-5727 
- Address: 9420 - 91 Street Edmonton Alberta
+An elegant restaurant on 91 Street known for its polished service and inventive cooking. The menu leans toward globally inspired dishes -- think sesame-crusted prawns, jumbo scallops in chili lime vinaigrette, salmon in orange ginger glaze, and beef tenderloin with caramelized shallot gravy. It has long been a favourite for special occasions among Edmonton locals.

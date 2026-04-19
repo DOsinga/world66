@@ -1,8 +1,11 @@
 ---
 address: 351 Farmington Avenue, Hartford, CT
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.758
 longitude: -72.6994
 phone: (860) 247-0998
+snippet: Victorian home where Twain wrote Huckleberry Finn
 tags:
 - things_to_do
 - museum

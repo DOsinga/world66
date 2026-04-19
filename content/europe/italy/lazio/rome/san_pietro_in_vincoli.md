@@ -3,10 +3,10 @@ address: 4/a Piazza San Pietro in Vincoli
 latitude: 41.8939
 longitude: 12.4943
 opening_hours: 07:00-12:30 and 15:30-18:00 daily
+snippet: Michelangelo's Moses and St. Peter's chains near the Colosseum
 tags:
 - things_to_do
 - church
-- monument
 title: San Pietro in Vincoli
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
 latitude: 13.7494
 longitude: 100.4919
+snippet: "Bangkok's most famous landmark, dazzling royal complex"
 tags:
 - things_to_do
-- church
 - palace
 title: Grand Palace
 type: poi

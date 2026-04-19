@@ -3,6 +3,7 @@ address: Leuvehaven 1
 latitude: 51.9176
 longitude: 4.4819
 phone: +31 10 413 2680
+snippet: Ship models and historic vessels in Rotterdam's old harbour
 tags:
 - things_to_do
 - museum

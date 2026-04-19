@@ -1,6 +1,7 @@
 ---
 latitude: 44.1058
 longitude: 9.814
+snippet: 13th-century church with gilded interior and works by della Robbia
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 46.5228
 longitude: 6.6352
+snippet: Switzerland's finest Gothic cathedral with a night watchman
 tags:
 - things_to_do
 - church

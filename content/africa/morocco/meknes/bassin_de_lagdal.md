@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.884
 longitude: -5.549
+snippet: Royal pleasure lake on the edge of Meknes's Imperial City
 tags:
 - things_to_do
 - landmark

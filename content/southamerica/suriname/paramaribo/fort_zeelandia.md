@@ -1,4 +1,5 @@
 ---
+snippet: 17th-century Dutch fort housing the Suriname Museum
 title: "Fort Zeelandia"
 type: poi
 tags:

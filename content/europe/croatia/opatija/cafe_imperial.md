@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.337
 longitude: 14.3055
+snippet: Grand hotel terrace with Kvarner Gulf views and Habsburg atmosphere
 tags:
 - bars_and_cafes
 title: Café Imperial

@@ -1,6 +1,7 @@
 ---
 title: "Temple of Kwan Ti"
 type: poi
+snippet: "Rare 1850s Taoist temple built by Chinese lumber workers"
 tags:
   - things_to_do
   - temple

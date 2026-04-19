@@ -1,7 +1,8 @@
 ---
 title: "Aypate Inca Ruins"
 type: poi
-category: "Sight"
+snippet: "Remote Inca ceremonial site in the Piura highlands"
+tags: [things_to_do, sight]
 latitude: -4.6997
 longitude: -79.5758
 ---

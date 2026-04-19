@@ -1,6 +1,7 @@
 ---
-latitude: -16.27
-longitude: -67.59
+snippet: "Jungle canyon waterfalls with a swimmable lagoon"
+latitude: -16.2700
+longitude: -67.5900
 tags:
 - day_trips
 title: Puente Armas Waterfalls

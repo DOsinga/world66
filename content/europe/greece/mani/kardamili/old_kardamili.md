@@ -1,6 +1,7 @@
 ---
 latitude: 36.8985
 longitude: 22.2175
+snippet: Fortified Maniot tower houses above the coast
 tags:
 - things_to_do
 - sight

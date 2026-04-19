@@ -88,16 +88,8 @@
 {% block background %}{% endblock %}
 
 {% block hero %}
-{% if is_continent or hero_image_url %}
+{% if hero_image_url %}
 <div id="hero" class="hero">
-  {% if is_continent %}
-  <div class="hero-card hero-card-map">
-    <div id="background-map" style="position:absolute;inset:0;width:100%;height:100%"></div>
-    <div class="hero-title-block hero-title-block--dark">
-      <div class="hero-title">{{ page.title }}</div>
-    </div>
-  </div>
-  {% elif hero_image_url %}
   <div class="hero-card">
     <img src="{{ hero_image_url }}" alt="{{ page.title }}">
     {% if hero_image_source %}
@@ -107,7 +99,15 @@
       <div class="hero-title">{{ page.title }}</div>
     </div>
   </div>
-  {% endif %}
+</div>
+{% elif not is_continent %}
+<div id="hero" class="hero">
+  <div class="hero-card hero-card-map">
+    <div id="background-map" style="position:absolute;inset:0;width:100%;height:100%"></div>
+    <div class="hero-title-block hero-title-block--dark">
+      <div class="hero-title">{{ page.title }}</div>
+    </div>
+  </div>
 </div>
 {% endif %}
 {% endblock %}
@@ -352,17 +352,18 @@
 {% endblock %}
 
 {% block extra_js %}
-{% if markers_full_json != "[]" or lat and lng %}
 <script>
 (function() {
-  // Use the full marker pool from the start so deconfliction can pick the best labels
+  {% if is_continent %}
+  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}');
+  {% else %}
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
   }
 
-  // Expand / collapse the sidebar map to fill the content area
+  // Expand / collapse the sidebar map
   var expandBtn = document.getElementById('sidebar-map-expand');
   var mapCard   = document.getElementById('sidebar-map-card');
   if (expandBtn && mapCard && sideMap) {
@@ -380,19 +381,13 @@
       }
     });
   }
-})();
-</script>
-{% endif %}
-<script>
-(function() {
+
+  // Background map (no hero image, non-continent pages)
   var bgMapEl = document.getElementById('background-map');
-  if (!bgMapEl) return;
-  void bgMapEl.offsetHeight;
-  {% if is_continent %}
-  initCountryMap('background-map', '{{ continent_slug|escapejs }}');
-  {% else %}
-  var markers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  if (markers.length) initLocationMap('background-map', markers, {isPoi: {{ is_poi|yesno:"true,false" }}});
+  if (bgMapEl) {
+    void bgMapEl.offsetHeight;
+    if (fullMarkers.length) initLocationMap('background-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
+  }
   {% endif %}
 })();
 </script>

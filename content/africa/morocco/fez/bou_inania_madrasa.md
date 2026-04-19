@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.0639
 longitude: -4.9819
+snippet: Merinid masterpiece and Morocco's must-see madrasa
 tags:
 - things_to_do
 - fes_el_bali

@@ -2,6 +2,7 @@
 address: Covent Garden, London WC2E
 latitude: 51.511944
 longitude: -0.122778
+snippet: Former fruit market turned street performance hub
 tags:
 - things_to_do
 - park

@@ -2,6 +2,7 @@
 address: Sto. Niño Street, near Burgos Street, Tacloban City
 latitude: 11.2435
 longitude: 125.0028
+snippet: "Live-music bar with local rock bands and late-night cocktails"
 tags:
 - bars_and_cafes
 title: Topline Music and Bar

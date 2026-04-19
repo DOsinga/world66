@@ -396,7 +396,7 @@ def load_continents():
     """Load top-level locations with their children (countries)."""
     continents = []
     CONTINENT_SLUGS = {
-        "africa", "antarctica", "asia", "australiaandpacific",
+        "africa", "asia", "australiaandpacific",
         "europe", "northamerica", "southamerica",
     }
     for entry in sorted(CONTENT_DIR.iterdir()):

@@ -1,6 +1,9 @@
 ---
 address: Piazza della Rotonda, 00186 Rome
 admission: €5
+image: pantheon.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg
 latitude: 41.8986
 longitude: 12.4769
 opening_hours: Mon–Sat 09:00–19:00; Sun 09:00–18:00; closed public holidays

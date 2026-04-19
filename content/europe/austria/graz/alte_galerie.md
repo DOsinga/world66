@@ -1,9 +1,14 @@
 ---
-title: "Alte Galerie"
-type: poi
-tags: [things_to_do, poi]
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.0706
 longitude: 15.4394
+snippet: Medieval and Renaissance art in a quieter Graz museum
+tags:
+- things_to_do
+- poi
+title: Alte Galerie
+type: poi
 ---
 
 The Alte Galerie covers art history from the Romanesque through Baroque periods, with a strong collection of Gothic devotional painting — including a 15th-century altarpiece by Michael Pacher — and a Flemish department whose standout is Bruegel's "Triumph of Death." Also houses a coin collection and rotating exhibitions. Less visited than the Kunsthaus but more rewarding if you care about medieval and Renaissance painting.

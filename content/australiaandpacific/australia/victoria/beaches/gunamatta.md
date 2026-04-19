@@ -1,6 +1,9 @@
 ---
-title: 'Gunnamatta'
+title: Gunnamatta
 type: poi
+tags:
+- beaches
+snippet: Wild ocean surf beach on the Mornington Peninsula
 latitude: -38.4764
 longitude: 144.8884
 ---

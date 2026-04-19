@@ -2,6 +2,7 @@
 latitude: 41.498277
 longitude: -81.693812
 phone: 216-771-0033
+snippet: Cleveland's 1929 neoclassical skyscraper anchoring Public Square
 tags:
 - things_to_do
 - tower

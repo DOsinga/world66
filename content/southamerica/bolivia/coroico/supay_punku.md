@@ -1,6 +1,7 @@
 ---
 latitude: -16.2
 longitude: -67.7
+snippet: Cloudforest canyon hike to a hidden waterfall and lagoon
 tags:
 - day_trips
 title: Supay Punku

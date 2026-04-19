@@ -1,9 +1,12 @@
 ---
-title: "Big Bens Fish and Chips"
+latitude: 43.2847
+longitude: 28.0398
+snippet: British-style fish and chips on the Golden Sands strip
+tags:
+- eating_out
+- restaurant
+title: Big Ben's Fish and Chips
 type: poi
-type: "Fast food"
 ---
 
-The first and only fish and chips in Bulgaria. Real British taste.
-
-type: Fast food
+A British-style chippy on the Golden Sands resort strip, serving battered cod and chips to sunburned holidaymakers. The portions are generous and the fish is freshly fried. Nothing fancy, but it hits the spot when you want something familiar between beach sessions.

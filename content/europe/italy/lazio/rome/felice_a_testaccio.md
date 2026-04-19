@@ -3,6 +3,7 @@ address: Via Mastro Giorgio 29, 00153 Rome
 latitude: 41.8782
 longitude: 12.4775
 opening_hours: Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun
+snippet: Legendary cacio e pepe in Rome's old slaughterhouse quarter
 tags:
 - 3 Days in Rome
 - Eating in Testaccio

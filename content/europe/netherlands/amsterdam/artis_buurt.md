@@ -2,6 +2,7 @@
 category: Street
 latitude: 52.3653
 longitude: 4.9138
+snippet: "Tree-lined avenue linking Artis zoo and Hortus Botanicus"
 tags:
 - plantage
 title: Plantage Kerklaan

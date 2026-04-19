@@ -1,4 +1,5 @@
 ---
+snippet: Scenic rocky coastline with ocean park and aquarium
 title: "Tiger Beach"
 type: poi
 tags:

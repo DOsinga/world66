@@ -1,8 +1,10 @@
 ---
 latitude: 34.2122
 longitude: 135.5797
+snippet: "Kukai's original ninth-century temple complex and vermilion pagoda"
 tags:
 - things_to_do
+- landmark
 title: The Garan (Sacred Precinct)
 type: poi
 ---

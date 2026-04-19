@@ -1,6 +1,9 @@
 ---
 title: "Bongo Pub"
 type: poi
+snippet: Hotel pub with live Filipino bands and late-night crowds
+tags:
+- bars_and_cafes
 address: "Grand BlueWave Hotel, 9R Jalan Bukit Meldrum, Level 2, Johor Bahru, 80300"
 phone: "+60 7 221 6666"
 latitude: 1.4615

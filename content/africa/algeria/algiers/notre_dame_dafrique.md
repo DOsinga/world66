@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.7887
 longitude: 3.0416
 snippet: Clifftop neo-Byzantine basilica with Black Virgin Mary statue

@@ -1,5 +1,7 @@
 ---
 address: 3 Piazza Vecchia
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.703834
 longitude: 9.662952
 phone: 035 237 966

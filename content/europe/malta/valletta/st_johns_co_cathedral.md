@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.899
 longitude: 14.5122
 snippet: Knights' church with gilded interior and a Caravaggio masterpiece

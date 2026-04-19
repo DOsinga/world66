@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.5814
 longitude: 7.7422
 snippet: Half-timbered canal quarter with medieval towers and bridges

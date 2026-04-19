@@ -1,5 +1,7 @@
 ---
 address: Lakeshore Road, Burlington, ON
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.3245
 longitude: -79.7978
 snippet: Burlington's waterfront park on Lake Ontario with year-round events

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.2847
 longitude: 28.0398
 snippet: British-style fish and chips on the Golden Sands strip

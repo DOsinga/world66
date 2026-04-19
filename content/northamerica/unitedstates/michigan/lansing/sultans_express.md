@@ -1,5 +1,7 @@
 ---
 address: 305 S. Washington St.
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.7321
 longitude: -84.5531
 phone: (517) 484-2850

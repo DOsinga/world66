@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.9353
 longitude: 24.4182
 snippet: Ottoman complex turned boutique hotel with 18 lead domes

@@ -1,12 +1,14 @@
 ---
-title: "Playa Municipal"
-type: poi
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 17.6383
 longitude: -101.5518
+snippet: Downtown beach with fishing boats and seafood stalls
 tags:
 - things_to_do
 - beach
-snippet: "Downtown beach with fishing boats and seafood stalls"
+title: Playa Municipal
+type: poi
 ---
 
 Playa Municipal, also known as Playa Principal, stretches along the downtown waterfront of Zihuatanejo from the Municipal Pier to the canal. It's the town's working beach and its social heart.

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.827778
 longitude: 14.138889
 snippet: Supervolcanic landscape with Roman ruins west of Naples

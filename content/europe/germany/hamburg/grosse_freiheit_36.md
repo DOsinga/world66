@@ -1,5 +1,7 @@
 ---
 address: Grosse Freiheit 36, St. Pauli
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.5497
 longitude: 9.9588
 neighbourhood: St. Pauli

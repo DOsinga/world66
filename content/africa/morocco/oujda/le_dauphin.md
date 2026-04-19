@@ -1,5 +1,7 @@
 ---
 address: Rue de Berkane
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.685
 longitude: -1.908
 snippet: Moroccan and French-influenced dishes at fair prices

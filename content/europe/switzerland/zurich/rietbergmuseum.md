@@ -1,5 +1,7 @@
 ---
 address: Gablerstrasse 15, Villa Wesendonck
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.358896
 longitude: 8.530214
 opening_hours: Tue - Sun 10 am - 5 pm

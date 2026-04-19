@@ -1,11 +1,13 @@
 ---
-title: "Rodeo Drive"
-type: poi
-snippet: Beverly Hills' legendary strip of designer boutiques
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.063882
 longitude: -118.399172
+snippet: Beverly Hills' legendary strip of designer boutiques
 tags:
-  - shopping
+- shopping
+title: Rodeo Drive
+type: poi
 ---
 
 Rodeo Drive in Beverly Hills is the world's most famous shopping street, three blocks of designer flagships running from Wilshire Boulevard to Santa Monica Boulevard. Versace, Dior, Gucci, Cartier, Prada, Tiffany -- they're all here, along with Via Rodeo, a faux-European cobblestone alley designed purely for high-end retail.

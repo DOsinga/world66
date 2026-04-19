@@ -1,5 +1,7 @@
 ---
 address: Rustaveli Avenue 3, Tbilisi
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.6975
 longitude: 44.7936
 snippet: Georgia's national museum with outstanding gold treasury

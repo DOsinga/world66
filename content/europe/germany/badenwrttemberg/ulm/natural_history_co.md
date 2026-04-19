@@ -1,5 +1,7 @@
 ---
 address: Kornhausgasse 3, 89073 Ulm
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.3993
 longitude: 9.9946
 snippet: Geology, fossils, and Swabian wildlife in a compact museum

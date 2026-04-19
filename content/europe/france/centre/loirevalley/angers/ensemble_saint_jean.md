@@ -1,5 +1,7 @@
 ---
 address: Boulevard Arago / Place du Tertre
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.4698
 longitude: -0.5527
 snippet: Medieval hospital housing Lurçat's monumental modern tapestries

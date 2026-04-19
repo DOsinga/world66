@@ -8,6 +8,7 @@ tags:
 - monument
 - square
 title: Piazza Venezia
+snippet: "Grand square dominated by the Vittoriano monument"
 type: poi
 ---
 

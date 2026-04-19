@@ -1,7 +1,10 @@
 ---
 title: "Bruce Peninsula National Park"
 type: poi
-category: "Sight"
+snippet: "Limestone cliffs, turquoise water, and the famous Grotto"
+tags:
+- things_to_do
+- sight
 latitude: 45.2333
 longitude: -81.5333
 ---

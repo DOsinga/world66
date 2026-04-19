@@ -2,6 +2,7 @@
 title: "Natural History Museum"
 type: poi
 category: Museum
+snippet: "Campus museum of Northern California ecology and fossils"
 latitude: 40.8749
 longitude: -124.0769
 ---

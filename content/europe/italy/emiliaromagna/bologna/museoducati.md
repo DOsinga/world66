@@ -3,6 +3,7 @@ address: Via Cavalieri Ducati 3
 latitude: 44.515572
 longitude: 11.246803
 phone: 051 641 3259
+snippet: Motorcycle museum at the Ducati factory
 tags:
 - museums
 title: Museo Ducati

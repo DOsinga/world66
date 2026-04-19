@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: Reykjavik Roasters
 type: poi
+snippet: "Top specialty coffee roaster near Hallgrímskirkja"
 url: www.reykjavikroasters.is
 ---
 

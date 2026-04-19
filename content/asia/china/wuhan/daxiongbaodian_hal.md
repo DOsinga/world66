@@ -1,8 +1,14 @@
 ---
+latitude: 30.5438
+longitude: 114.2556
+snippet: "Main hall of Guiyuan Temple with Sakyamuni and disciple statues"
 tags:
-- sights
+- things_to_do
+- sight
 title: Daxiongbaodian Hall
 type: poi
 ---
 
-It is the main hall of the temple. Statue of Sakyamuni, who preached Buddhism for 45 years as the founder of Buddhism, is enshrined in this hall. On his right is a statue of Mahakasyapa, one of the ten disciples of Sakyamuni. It is said that he was of eminent virtue and was reckoned to be the first patriarch. After Sakyamuni died he continued his career. On the left is a statue of Ananda. Also one of the ten disciples of Sakyamuni, Ananda was the master of hearing and memory and was reckoned to be the second patriarch. He followed Sakyamuni for more than 20 years and is said to have compiled the Buddhist sutras.
+The main hall of Guiyuan Temple and its spiritual centrepiece. Inside stands a statue of Sakyamuni, the founder of Buddhism, flanked by two of his ten principal disciples: Mahakasyapa on the right, regarded as the first patriarch who carried on Sakyamuni's teaching after his death, and Ananda on the left, known for his prodigious memory and credited with compiling the Buddhist sutras.
+
+The hall dates from the early Republic of China period, part of the temple's reconstruction after centuries of cycles of destruction and renewal. It's typically busy with worshippers burning incense and making offerings, especially during Buddhist festivals.

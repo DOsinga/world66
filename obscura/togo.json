@@ -1,0 +1,50 @@
+[
+  {
+    "url": "/places/akodessewa-fetish-market",
+    "type": "Place",
+    "item-id": "9019",
+    "gtm-content-type": "Place",
+    "lat": "6.15763",
+    "lng": "1.267067",
+    "city": "Lome",
+    "state": "Maritime Region",
+    "country": "Togo",
+    "src": "https://img.atlasobscura.com/ToqS8ypQdHxiKjbw0Y0QO9JYagwrfSD5cL3JbOYmm-0/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNjNm/MDU2Zi1lNmM5LTQ5/YTgtYWVlZC1jN2Y0/ZWU3ZDM1ZDc4NDE2/ZTUwMDUxOWE0YzVh/YmVfdm9vZG9vZnJl/ZXBhcmsuanBn.jpg",
+    "width": "556",
+    "height": "1182",
+    "name": "Akodessewa Fetish Market",
+    "description": "The Voodoo Superstore of the world."
+  },
+  {
+    "url": "/places/nok-caves",
+    "type": "Place",
+    "item-id": "23134",
+    "gtm-content-type": "Place",
+    "lat": "10.671154",
+    "lng": "0.141204",
+    "city": "Tandjouare",
+    "state": "Savanes Region",
+    "country": "Togo",
+    "src": "https://img.atlasobscura.com/dMi4OOZKpJaOXI91vmYMoRCqWEuPNDeMRlho4ZLE_XE/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kOTU1/NjdlZmYzNzY5ZWI2/MDhfSU1HXzQ3MDAu/SlBH.jpg",
+    "width": "3264",
+    "height": "2448",
+    "name": "Nok Caves",
+    "description": "Hidden dwellings in the cliffsides of North Togo used by local Moba tribes to evade 18th-century slave traders."
+  },
+  {
+    "url": "/places/koutammakou-batammariba",
+    "type": "Place",
+    "item-id": "46164",
+    "gtm-content-type": "Place",
+    "lat": "10.06749",
+    "lng": "1.13559",
+    "city": "Dissani",
+    "state": "Kara Region",
+    "country": "Togo",
+    "src": "https://img.atlasobscura.com/QpNQEVAFN1uu79DmYGmmH-P8pEIBeWVYXxeNtIkP0ws/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hODAz/ZTFiYy03MzdhLTQ4/MjItYTY1OS1mNzhi/MjA2ZmJkNTI2NDNi/OWRiM2EzZDhmZDkz/NTVfR2V0dHlJbWFn/ZXMtMTI2NTIwNzcx/NS5qcGc.jpg",
+    "width": "5100",
+    "height": "3400",
+    "name": "Koutammakou",
+    "description": "The unique building practices of the Batammariba reflect the community&#39;s deep reverence for and connection to the earth."
+  }
+]

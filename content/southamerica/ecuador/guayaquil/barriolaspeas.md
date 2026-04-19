@@ -1,8 +1,11 @@
 ---
+latitude: -2.1894
+longitude: -79.9232
+snippet: Colorful colonial neighborhood at the foot of Santa Ana hill
 tags:
 - sights
 title: Barrio las Peñas
 type: poi
 ---
 
-The Barrio las Peñas located at the foot of the Santa Ana hill is an area of the city with a coastal colonial architecture. It was destroyed and reconstructed several times as a consequence of fires, in particular the great fire of 1896. It has only one street called Numa Pompilio LLona in honor of a famous Ecuadorian man of letters. This street starts at the Planchada wich was the place from which the city was defended and ends at the old installations of the Brewery, one of the Guayaquil's first industries.
+The oldest neighborhood in Guayaquil sits at the foot of Santa Ana hill, a cluster of brightly painted colonial houses lining a single street — Numa Pompilio Llona, named after the Ecuadorian writer. The barrio has been destroyed and rebuilt several times by fire, most devastatingly in 1896, but today it's been carefully restored and filled with art galleries, small cafes, and craft shops. From the street's end you can climb the 444 steps up Santa Ana hill for sweeping views over the river and city.

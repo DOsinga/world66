@@ -1,47 +1,16 @@
 ---
 address: 9400 Bartell Road, Brewerton, NY 13029
 email: oneida@ongov.net
+latitude: 43.2356
+longitude: -76.1474
 phone: (315) 676-7366
+snippet: "County park with beach on New York's largest inland lake"
 tags:
-- beaches
+- things_to_do
+- nature
 title: Oneida Shores
 type: poi
 url: onondagacountyparks.com
 ---
 
-Oneida Shores is a County Park on Oneida Lake in the northern suburbs of Syracuse. Oneida Lake is the largest inland lake in New York State.
-
-**Contributors**
-July 03, 2005
-
-
-
-
-
-tel: (315) 676-7366
-
-url: [onondagacountyparks.com](http://onondagacountyparks.com/parks/oneida/)
-
-address: 9400 Bartell Road, Brewerton, NY 13029
-
-email:
-
-##
-
--
-
--
-
--
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A county park on the southern shore of Oneida Lake, the largest inland lake entirely within New York State. The park has a sandy swimming beach, picnic areas, a boat launch, and campgrounds. It's a popular summer spot for families from the Syracuse area, and the lake itself is well known for walleye and bass fishing. In winter the park stays open for cross-country skiing and snowshoeing.

@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - neighbourhood
 title: Canal de la Robine
+snippet: "Tree-lined canal cutting through the old town centre"
 type: poi
 ---
 

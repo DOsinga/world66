@@ -1,15 +1,16 @@
 ---
-title: Malta
-type: location
-latitude: 35.931144
-longitude: 14.395163
-image: malta.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Sudika_Golden_Bay.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Sudika" title="User:Sudika">Sudika</a>
 done:
   country_cleanup: 2026-03-30
+  poi_cleanup: '2026-04-19'
+image: malta.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Sudika" title="User:Sudika">Sudika</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Sudika_Golden_Bay.jpg
+latitude: 35.931144
+longitude: 14.395163
 score: 0.6
+title: Malta
+type: location
 ---
 
 By far the largest and most popular island historic Malta merits a minimum of four nights. Sun worshippers should know that the sandiest beaches in the nation are located on the northern coast..

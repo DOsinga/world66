@@ -1,11 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-19'
 latitude: 51.88969
 longitude: 0.899465
+score: 0.48
 title: Colchester
 type: location
-score: 0.48
 ---
 
 Colchester claims to be the oldest recorded town in Britain — it is Camulodunum, the first Roman city established in Britain after the invasion of 43 AD, and is mentioned in Pliny's writings. The Romans built a large temple here, the foundations of which lie beneath the Norman castle, itself the largest Norman keep in Europe. The castle houses an excellent museum covering the town's Roman and medieval history.

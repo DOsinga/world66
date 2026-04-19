@@ -1,0 +1,46 @@
+[
+  {
+    "url": "/places/the-devils-hole-st-mary-jersey",
+    "type": "Place",
+    "item-id": "17843",
+    "gtm-content-type": "Place",
+    "lat": "49.25142",
+    "lng": "-2.173246",
+    "city": "St Mary",
+    "country": "Jersey",
+    "src": "https://img.atlasobscura.com/z6sqyOzw8CyoWGBI2_UZlpTubxPMnHdZ7jjV-AlDyZU/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NmEx/YTY1MTc4NGRhZTQ0/ZGRfSG9sZSAyLmpw/Zw.jpg",
+    "width": "1132",
+    "height": "974",
+    "name": "Devil&#39;s Hole",
+    "description": "This natural crater along the coast of Jersey may take its name from the devil statues who have watched over it."
+  },
+  {
+    "url": "/places/la-hougue-bie",
+    "type": "Place",
+    "item-id": "3766",
+    "gtm-content-type": "Place",
+    "lat": "49.201505",
+    "lng": "-2.055191",
+    "country": "Jersey",
+    "src": "https://img.atlasobscura.com/8fykYLf9E9ZmKaipS6UhilshAjFrsVaXMZCas28pb4U/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hMTJh/ZjBiNTY1ZDkxNDQy/MzhhMjVlZmY0M2Nm/MjJjMGY4ZGVhOWRh/LmdpZg.gif",
+    "width": "470",
+    "height": "350",
+    "name": "La Hougue Bie",
+    "description": "A passage grave used in neolithic rituals."
+  },
+  {
+    "url": "/places/le-crapaud",
+    "type": "Place",
+    "item-id": "23446",
+    "gtm-content-type": "Place",
+    "lat": "49.185146",
+    "lng": "-2.109195",
+    "city": "St Helier",
+    "country": "Jersey",
+    "src": "https://img.atlasobscura.com/3tXTElaAlnxAu6YH59odIOeC8S3ER9TEyBGE58OdeUc/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84Yzhm/NjE1NjBlYmQxYTFh/NzlfYzMuanBn.jpg",
+    "width": "4592",
+    "height": "3056",
+    "name": "Le Crapaud",
+    "description": "A statue erected in honor of the toadish nickname given to Jersey residents by the French."
+  }
+]

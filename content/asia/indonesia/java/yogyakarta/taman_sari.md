@@ -1,6 +1,7 @@
 ---
 latitude: -7.81
 longitude: 110.3591
+snippet: Ruined royal water palace with pools and underground passages
 tags:
 - things_to_do
 - landmark

@@ -1,7 +1,9 @@
 ---
 title: "Lagoon Diving and Snorkelling"
 type: poi
-category: Sight
+snippet: "Pristine diving in one of French Polynesia's least-visited lagoons"
+tags:
+- things_to_do
 latitude: -23.1000
 longitude: -134.9500
 ---

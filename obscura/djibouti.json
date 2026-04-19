@@ -1,0 +1,32 @@
+[
+  {
+    "url": "/places/lac-assal",
+    "type": "Place",
+    "item-id": "35597",
+    "gtm-content-type": "Place",
+    "lat": "11.661163",
+    "lng": "42.413504",
+    "city": "Tadjourah",
+    "state": "Tadjourah",
+    "country": "Djibouti",
+    "src": "https://img.atlasobscura.com/Ly3x36ExORD-GDeunjQYd_8Tr8SQaUtwZtvWyBYkbsc/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82Yjhi/NmU2Ny0yYjc0LTQ2/MDYtYmU5YS01YzAw/MjlkMzc5YjZiMmNm/ZmIxZTM5YzIzN2Ri/ODNfRFNDMDA3ODQu/anBlZw.jpg",
+    "width": "2816",
+    "height": "2112",
+    "name": "Lac Assal",
+    "description": "Rimmed by white crusts of salt on every edge, Lac Assal is one of the saltiest bodies of water in the world."
+  },
+  {
+    "url": "/places/lake-abhe",
+    "type": "Place",
+    "item-id": "3658",
+    "gtm-content-type": "Place",
+    "lat": "11.198683",
+    "lng": "41.780548",
+    "country": "Djibouti",
+    "src": "https://img.atlasobscura.com/px8gOKjqI47LYEfVyXcelrZpy9wkKXmbA74ZhgozuNg/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZWNh/NTZkNWI4ZDBjZmM2/MzEzYjUxNzFlZDE2/ZWVlODU1MTgyNmRi/LmpwZw.jpg",
+    "width": "1280",
+    "height": "853",
+    "name": "Lake Abbe",
+    "description": "A salt lake dotted with steaming limestone chimneys."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "url": "/places/the-stone-that-returned-home",
+    "type": "Place",
+    "item-id": "56438",
+    "gtm-content-type": "Place",
+    "lat": "60.097171",
+    "lng": "19.94982",
+    "city": "Mariehamn",
+    "state": "Mariehamns stad",
+    "country": "\u00c5land Islands",
+    "src": "https://img.atlasobscura.com/weXG12_Ow2_CoNyBYcdvtnEExmYHDy3Kt9zzjCguF1M/rs:fill:600:400:1/g:ce/c:4022:2681:nowe:10:311/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNWUz/ODBmNi1lN2NjLTRj/ODQtYjkyYi00ODA2/YjllNWQyOGZlNmUw/Y2ZkNmUzNzMxN2Q5/NzJfSU1HXzM3NTcu/anBlZw.jpg",
+    "width": "4032",
+    "height": "3024",
+    "name": "&#39;The Stone That Returned Home&#39;",
+    "description": "One man&#39;s journey to return a stone to its point of origin after 200,000 years."
+  },
+  {
+    "url": "/places/hermas-homestead-museum-aland",
+    "type": "Place",
+    "item-id": "53340",
+    "gtm-content-type": "Place",
+    "lat": "60.340455",
+    "lng": "20.767339",
+    "city": "Enklinge",
+    "state": "\u00c5lands sk\u00e4rg\u00e5rd",
+    "country": "\u00c5land Islands",
+    "src": "https://img.atlasobscura.com/vMnvvbF4M26V5-mDcljPF6nH8-blkat3nIZqyuhAsYY/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mZTBk/YTBjOS0xYTg5LTQy/MDMtOWMxZC1hZjIw/OWI1NWM4OGZiMWZm/Y2ZmY2Y2MTZmNDhi/YmZfRW5rbGluZ2Vf/SGVybWFzLmpwZw.jpg",
+    "width": "800",
+    "height": "600",
+    "name": "Hermas Homestead Museum",
+    "description": "This archipelago homestead-turned-museum has remained the same since its last resident, born in 1897, died in 1973."
+  },
+  {
+    "url": "/places/bomarsund-fortress",
+    "type": "Place",
+    "item-id": "60878",
+    "gtm-content-type": "Place",
+    "lat": "60.211904",
+    "lng": "20.237681",
+    "city": "Bomarsund",
+    "state": "\u00c5lands landsbygd",
+    "country": "\u00c5land Islands",
+    "src": "https://img.atlasobscura.com/SUXomdTApqZ_L66_Hw07qftm0RTnk7dd_jRTm8Qo8oM/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMThj/MWViZC05MmNlLTRk/MzAtOWVhNC03N2Mz/YTQ0MDZmMmE1YTYy/NzIzMjYyMGYwNWNh/YjNfMjAyNDA4MjFf/MDkwMjAzLmpwZw.jpg",
+    "width": "4624",
+    "height": "3468",
+    "name": "Bomarsund Fortress",
+    "description": "This impressive coastal fortress was destroyed before it was finished."
+  }
+]

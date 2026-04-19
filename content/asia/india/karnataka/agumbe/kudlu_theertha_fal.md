@@ -3,6 +3,8 @@ latitude: 13.485
 longitude: 75.055
 tags:
 - things_to_do
+- waterfall
+snippet: "300-foot waterfall reached by a forest trek"
 title: Kudlu Theertha Falls
 type: poi
 ---

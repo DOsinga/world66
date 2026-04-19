@@ -1,0 +1,44 @@
+[
+  {
+    "url": "/places/ash-jesus",
+    "type": "Place",
+    "item-id": "4239",
+    "gtm-content-type": "Place",
+    "lat": "22.185804",
+    "lng": "113.546482",
+    "country": "Macau",
+    "src": "https://img.atlasobscura.com/ZgTvrFNwDWEJzQGrVIZ_DKISuzF9cOUgIYl6k6mQI3A/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kNzQy/NmExY2ZkYThjNjU0/MDMwMTgxNjVhMTZi/MDIxMTMwZmZjM2Y2/LmpwZw.jpg",
+    "width": "818",
+    "height": "557",
+    "name": "Ash Jesus and Ash Buddha",
+    "description": "Sculptures of religious figures made from the ashes of pilgrims&#39; incense."
+  },
+  {
+    "url": "/places/taipa-houses",
+    "type": "Place",
+    "item-id": "48666",
+    "gtm-content-type": "Place",
+    "lat": "22.153889",
+    "lng": "113.559935",
+    "country": "Macau",
+    "src": "https://img.atlasobscura.com/ZOhal7ZdIKRiZJvIhQsis-f2Fdq36M5n6HZ_gWNe400/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zYmFl/ZDM4MC0xYTgzLTQ4/YTMtYTI3Zi1kMTJj/ZWE0NmJhMGYyZjlj/NTdjMWFiOTVhMDAz/MzhfVGFpcGFfSG91/c2VzX011c2V1bV8z/MC0wMS0yMDIzKDMp/LmpwZWc.jpg",
+    "width": "2560",
+    "height": "1920",
+    "name": "Taipa Houses",
+    "description": "These pastel-colored homes were built when the island of Macau was a Portuguese colony."
+  },
+  {
+    "url": "/places/old-protestant-cemetery",
+    "type": "Place",
+    "item-id": "27201",
+    "gtm-content-type": "Place",
+    "lat": "22.199897",
+    "lng": "113.540197",
+    "country": "Macau",
+    "src": "https://img.atlasobscura.com/aqfUJL__aCJ2JLWm67hbuLh3m8X2Os5CYZptOvaQ7pQ/rs:fill:600:400:1/g:ce/c:3120:2080:nowe:0:660/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNzlh/M2Q4Ni01ZDllLTQx/YzQtYTBhZS1mNzUw/OTk0NzVjMjJhYzMz/MTU3NWFkOTE2NWJi/ZTJfMjAxODA2MjZf/MTQ0MzUyLmpwZw.jpg",
+    "width": "3120",
+    "height": "4160",
+    "name": "Old Protestant Cemetery",
+    "description": "The final resting place of 19th-century sailors previously banned from being buried within Portuguese Macau."
+  }
+]

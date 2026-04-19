@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  poi_cleanup: '2026-04-19'
+image: wuhan.jpg
+image_attribution: 云中君
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Smog_descends_on_Wuhan,_Hubei,_China.jpg
 latitude: 30.5928
 longitude: 114.3055
 score: 0.44
 title: Wuhan
 type: location
-image: wuhan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Smog_descends_on_Wuhan,_Hubei,_China.jpg
-image_license: CC BY 2.5
-image_attribution: 云中君
 ---
 
 Wuhan is a city of 12 million on the Yangtze river in central China, formed from the merger of three old towns — Wuchang, Hankou, and Hanyang — at the confluence of the Yangtze and the Han. It became globally known for the wrong reasons in early 2020, but for travellers Wuhan is a major Yangtze port city with genuinely interesting historical layers, excellent street food, and a position that makes it a natural stopover between Beijing/Shanghai and the south-west.

@@ -1,6 +1,7 @@
 ---
 latitude: -1.4767
 longitude: 29.5333
+snippet: Mountain gorilla trekking in the Virunga volcanoes
 tags:
 - things_to_do
 - national_park

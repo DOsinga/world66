@@ -1,4 +1,5 @@
 ---
+snippet: Colonial-era government building topped with a satay-shaped spire
 latitude: -6.9025
 longitude: 107.6187
 story: On 3 December 1945, seven young Indonesian engineers defending the building

@@ -1,7 +1,10 @@
 ---
 title: "Khmer Rouge Villa Ruins"
 type: poi
-category: Sight
+snippet: Overgrown 1960s villas abandoned during the Khmer Rouge era
+tags:
+- things_to_do
+- sight
 latitude: 10.4855
 longitude: 104.3180
 story: >

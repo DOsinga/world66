@@ -1,6 +1,7 @@
 ---
 latitude: 36.7165
 longitude: -4.4221
+snippet: Revitalized arts district packed with large-scale street murals
 tags:
 - things_to_do
 - neighbourhood

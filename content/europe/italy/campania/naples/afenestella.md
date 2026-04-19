@@ -3,6 +3,7 @@ address: Via Marechiaro 23, Posillipo
 latitude: 40.797151
 longitude: 14.189462
 phone: +39 081 769 0020
+snippet: Neapolitan seafood institution perched above the sea at Posillipo
 tags:
 - eating_out
 - restaurant

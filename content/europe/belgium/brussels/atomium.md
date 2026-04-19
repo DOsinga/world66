@@ -1,6 +1,8 @@
 ---
 address: Square de l'Atomium, 1020 Laeken
 admission: €16 adults; combined tickets with Mini-Europe and ADAM design museum
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.8949
 longitude: 4.3415
 opening_hours: Daily 10:00–18:00

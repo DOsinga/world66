@@ -1,6 +1,7 @@
 ---
 title: 'Shoals Antique Dealers Association'
 type: poi
+snippet: Directory of antique shops across the Shoals area
 tags:
   - shopping
   - antiques

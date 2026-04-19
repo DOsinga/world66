@@ -1,9 +1,13 @@
 ---
 address: Ras al-Ayn
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 31.9494
 longitude: 35.9378
+snippet: Jordan's national museum, home to the Ain Ghazal statues
 tags:
 - things_to_do
+- museum
 title: Jordan Museum
 type: poi
 ---

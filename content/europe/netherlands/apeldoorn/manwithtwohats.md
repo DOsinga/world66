@@ -1,6 +1,7 @@
 ---
 latitude: 52.2115
 longitude: 5.9695
+snippet: WWII monument honouring Canadian liberators, twin to one in Ottawa
 tags:
 - things_to_do
 - landmark

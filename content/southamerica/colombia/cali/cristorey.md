@@ -1,6 +1,7 @@
 ---
 latitude: 3.4283
 longitude: -76.5836
+snippet: Giant Christ statue with sweeping Cauca Valley views
 tags:
 - things_to_do
 - landmark

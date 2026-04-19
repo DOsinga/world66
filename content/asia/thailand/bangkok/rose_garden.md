@@ -1,7 +1,9 @@
 ---
+address: Km 32, Phetkasem Road, Sam Phran, Nakhon Pathom
 latitude: 13.7353
 longitude: 100.2416
 opening_hours: 8 am - 6 pm
+snippet: Cultural resort with Thai dance shows and gardens
 tags:
 - things_to_do
 - park

@@ -2,6 +2,7 @@
 latitude: -0.283
 longitude: 36.068
 phone: 0202687119
+snippet: Central Nakuru cafe with good coffee and a weekend cocktail lounge
 tags:
 - bars_and_cafes
 title: Guava Cafe and Lounge

@@ -1,7 +1,8 @@
 ---
-title: 'Toy Train Depot'
+title: Toy Train Depot
 type: poi
-category: 'Museum'
+category: Museum
+snippet: Model train museum in a restored 1898 railroad depot
 latitude: 32.9015
 longitude: -105.9605
 story: "The collection grew from a single donated train set in the 1990s into one of the largest toy train displays in the Southwest, with over 1,200 pieces spanning a century of American model railroading."

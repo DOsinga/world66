@@ -1,6 +1,7 @@
 ---
 latitude: 57.671979
 longitude: -2.491701
+snippet: Moray Firth marine life in a large open tank with diver feeds
 tags:
 - things_to_do
 - sight

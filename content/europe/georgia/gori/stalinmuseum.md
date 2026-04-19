@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.98717
 longitude: 44.11367
 snippet: Soviet hagiography museum built around Stalin's birthplace

@@ -1,5 +1,7 @@
 ---
-latitude: 44.8680
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 44.868
 longitude: 13.8444
 snippet: Early Christian cathedral with a bell tower built from amphitheatre stone
 tags:

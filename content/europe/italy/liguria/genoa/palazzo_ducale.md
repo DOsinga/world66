@@ -1,7 +1,10 @@
 ---
 address: Piazza Matteotti 9
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 44.406616
 longitude: 8.934015
+snippet: Former Doge's palace, now a major exhibition venue
 tags:
 - things_to_do
 - architecture

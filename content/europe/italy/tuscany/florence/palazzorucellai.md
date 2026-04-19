@@ -2,6 +2,7 @@
 address: Via della Vigna Nuova 18, 50123 Florence
 latitude: 43.771372
 longitude: 11.24951
+snippet: Pioneering Renaissance palazzo with Alberti-designed facade
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.773
 longitude: 4.8296
+snippet: Excavated Hellenistic and Roman town with temples, forum, and thermal baths
 story: 'Just outside the site entrance stand the Antiques — a triumphal arch and a
   mausoleum tower — among the best-preserved Roman monuments in France. The mausoleum,
   raised around 30 BC, is thought to commemorate two grandsons of Augustus. Both monuments

@@ -1,7 +1,10 @@
 ---
 title: "Union Station"
 type: poi
-category: "Architecture"
+tags:
+- things_to_do
+- landmark
+snippet: "Last of the great American railroad stations, still in use"
 address: "800 N. Alameda Street, Los Angeles"
 latitude: 34.056058
 longitude: -118.235896

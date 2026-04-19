@@ -5,6 +5,7 @@ latitude: 29.491
 longitude: 34.899
 opening_hours: 09:00-17:00
 phone: 972-8-6371846
+snippet: Swim with semi-wild bottlenose dolphins off Eilat's southern beach
 tags:
 - things_to_do
 - landmark

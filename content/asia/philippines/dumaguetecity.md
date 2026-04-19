@@ -1,9 +1,11 @@
 ---
-title: Dumaguete City
-type: location
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 9.305478
 longitude: 123.308045
 score: 0.58
+title: Dumaguete City
+type: location
 ---
 
 Dumaguete is the capital of Negros Oriental province on the eastern coast of Negros Island, facing the Bohol Sea. Known as the "City of Gentle People," it has a relaxed, walkable character shaped by the presence of Silliman University — the oldest American-founded university in the Philippines — whose campus occupies much of the city centre. The Boulevard, the seafront promenade along Rizal Boulevard, is the social heart of the city.

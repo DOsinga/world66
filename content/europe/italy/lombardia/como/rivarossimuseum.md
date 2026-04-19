@@ -3,6 +3,7 @@ address: Como
 latitude: 45.9369
 longitude: 9.1534
 opening_hours: By appointment only
+snippet: Rare collection of Rivarossi model trains, by appointment
 tags:
 - things_to_do
 - museum

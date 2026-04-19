@@ -1,7 +1,10 @@
 ---
 address: 211 Guangzhou Street, Wanhua District, Taipei
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 25.0372
 longitude: 121.4999
+snippet: Taipei's oldest temple, alive with incense and chanting
 tags:
 - things_to_do
 - sight

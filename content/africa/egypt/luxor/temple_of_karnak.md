@@ -6,6 +6,7 @@ story: 'The Great Hypostyle Hall was built by Seti I and finished by Ramses II i
   — enough floor space for both St Paul''s Cathedral and St Peter''s in Rome combined.
 
   '
+snippet: Ancient Egypt's largest temple complex, built over 1,500 years
 tags:
 - things_to_do
 - landmark

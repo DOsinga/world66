@@ -1,6 +1,11 @@
 ---
 title: "Kumpanija Sword Dance"
 type: poi
+snippet: Traditional summer sword dance in Korčula's western villages
+tags:
+  - things_to_do
+  - culture
+  - festival
 category: Sight
 address: "Vela Luka"
 latitude: 42.960977

@@ -1,6 +1,7 @@
 ---
 latitude: 25.700826
 longitude: 32.642847
+snippet: Small bookshop near Winter Palace with multilingual stock
 tags:
 - shopping
 title: Bookshop near Winter Palace

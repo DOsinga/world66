@@ -3,9 +3,10 @@ address: Mecset utca 14
 latitude: 47.516
 longitude: 19.0349
 opening_hours: 10:00-18:00 Tue-Sun
+snippet: Northernmost Islamic pilgrimage site, in a quiet rose garden
 tags:
 - things_to_do
-- park
+- sight
 title: Tomb of Gul Baba
 type: poi
 ---

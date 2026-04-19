@@ -2,6 +2,7 @@
 address: Jungbuschstraße, 68159 Mannheim
 latitude: 49.4948
 longitude: 8.4658
+snippet: Courtyard bar in the Jungbusch with a mixed local crowd
 tags:
 - bars_and_cafes
 title: Hinterhof

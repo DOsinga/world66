@@ -1,6 +1,7 @@
 ---
 latitude: 27.6731
 longitude: 85.3254
+snippet: Finest collection of Himalayan sacred art in a restored palace
 tags:
 - things_to_do
 title: Patan Museum

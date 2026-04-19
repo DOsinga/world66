@@ -1,18 +1,20 @@
 ---
-title: "Harmandir Sahib (Golden Temple)"
-type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 31.6200
+latitude: 31.62
 longitude: 74.8765
-story: >
-  The temple was rebuilt several times after repeated destruction by Afghan invaders
-  in the 18th century. In 1984, Indian Army troops stormed the complex during Operation
-  Blue Star to flush out Sikh militants — an event that triggered the assassination of
-  Prime Minister Indira Gandhi and months of communal violence across India. The complex
-  was heavily damaged; the restoration has since erased most visible traces, but the
-  memory remains raw.
+snippet: Sikhism's holiest shrine, gilded in gold and open to all
+story: 'The temple was rebuilt several times after repeated destruction by Afghan
+  invaders in the 18th century. In 1984, Indian Army troops stormed the complex during
+  Operation Blue Star to flush out Sikh militants — an event that triggered the assassination
+  of Prime Minister Indira Gandhi and months of communal violence across India. The
+  complex was heavily damaged; the restoration has since erased most visible traces,
+  but the memory remains raw.
+
+  '
+tags:
+- things_to_do
+- sight
+title: Harmandir Sahib (Golden Temple)
+type: poi
 ---
 
 The Harmandir Sahib — gilded in gold leaf and surrounded by the sacred Amrit Sarovar pool — is the most sacred site in Sikhism. It is open to everyone, regardless of religion, 24 hours a day. Cover your head (scarves available at the entrance), remove your shoes, and wash your feet in the shallow channel before entering.

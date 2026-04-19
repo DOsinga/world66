@@ -1,6 +1,7 @@
 ---
 latitude: 65.8352
 longitude: 13.19
+snippet: Local history museum in an 1862 merchant wharf house
 tags:
 - things_to_do
 - museum

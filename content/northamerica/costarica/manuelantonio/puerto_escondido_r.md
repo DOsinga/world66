@@ -1,6 +1,7 @@
 ---
 title: "Puerto Escondido Restaurant"
 type: poi
+snippet: Affordable beachside dining in tropical garden setting
 tags:
   - eating_out
   - restaurant

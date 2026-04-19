@@ -1,6 +1,7 @@
 ---
 latitude: 24.836915
 longitude: 66.916091
+snippet: Sandy spit with sea turtle nesting and camel rides
 tags:
 - beaches
 - beach

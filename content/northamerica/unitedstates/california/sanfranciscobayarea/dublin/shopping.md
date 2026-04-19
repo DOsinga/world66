@@ -1,12 +1,13 @@
 ---
-title: "Shopping"
-type: section
-address: "7160 Regional St. Dublin, CA 94568"
-phone: "925-479-0968"
-type: "Shopping centers and malls"
-url: "www.cafetapioca.com"
+address: 7160 Regional St. Dublin, CA 94568
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.70418
 longitude: -121.935177
+phone: 925-479-0968
+title: Shopping
+type: Shopping centers and malls
+url: www.cafetapioca.com
 ---
 
 Dublin is home to numberous shopping centers and plazas:

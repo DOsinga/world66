@@ -1,8 +1,11 @@
 ---
 latitude: 22.3369
 longitude: 91.8308
+snippet: "14th-century mosque housing a revered Prophet's footprint"
 tags:
 - things_to_do
+- mosque
+- sight
 title: Qadam Mubarak Mosque
 type: poi
 ---

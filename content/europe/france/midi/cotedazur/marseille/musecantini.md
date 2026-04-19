@@ -1,12 +1,16 @@
 ---
-latitude: 43.292207
-longitude: 5.378208
+address: 19 rue Grignan, 6e arrondissement
+latitude: 43.2922
+longitude: 5.3782
+phone: "+33 4 91 54 77 75"
+snippet: Fauvist and Surrealist masterworks in a 17th-century mansion
 tags:
 - things_to_do
+- landmark
 title: Musée Cantini
 type: poi
 ---
 
-19, rue Grignan (6e) – Metro : Estrangin-Préfecture – Tel : 04 91 54 77 75
- 
- In a private mansion dating from the 17th century (1694) from the sixties on the Musée Cantini saw the accumulation of major Fauvist and Surrealist collections together with important post-war works and as a result has one of the finest collections available to the French public, including works by Bacon, Dufy, Ernst, Le Corbusier, Léger, Matisse, Masson, Miro, Picabia, Derain, Giacometti, Dubuffet, Tapies among others.
+Housed in a 17th-century private mansion, the Musée Cantini holds one of France's strongest collections of 20th-century art. The core strength is Fauvist and Surrealist work — Matisse, Dufy, Ernst, Miro, Masson, Picabia, Derain — built up from the 1960s onward through a series of generous donations. Post-war and contemporary pieces by Bacon, Giacometti, Dubuffet, and Tapies round out the collection.
+
+The building itself is worth attention: a graceful hôtel particulier from 1694, donated to the city by marble merchant Jules Cantini. Metro: Estrangin-Préfecture.

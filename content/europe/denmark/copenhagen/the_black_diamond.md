@@ -1,6 +1,7 @@
 ---
 latitude: 55.6726
 longitude: 12.5823
+snippet: Striking black granite Royal Library extension on the harbour
 tags:
 - things_to_do
 - architecture

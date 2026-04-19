@@ -2,6 +2,7 @@
 category: Street
 latitude: 52.3752
 longitude: 4.882
+snippet: Quiet Jordaan canal with houseboats and leaning gables
 tags:
 - jordaan
 title: Egelantiersgracht

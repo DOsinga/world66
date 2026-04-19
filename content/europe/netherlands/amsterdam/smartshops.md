@@ -1,10 +1,15 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 52.3702
+longitude: 4.8952
+snippet: Shops selling legal herbal supplements and magic truffles
 tags:
 - drugs
-title: Smart shops
+title: Smart Shops
 type: poi
 ---
 
-Apart from the coffeshops that sell generally canabis products only ready to smoke, Amsterdam also offers Smart Shops, orginally concentrating on the sale of mind influencing mushrooms, or paddo's (short for *paddestoelen* or toad stool), but nowadays selling lots of herbal oriented drugs. 
+Distinct from the coffeeshops that sell cannabis, Amsterdam's smart shops specialize in psychoactive substances that fall into legal grey areas. The original draw was magic mushrooms (*paddo's*, short for *paddenstoelen*), but fresh mushrooms were banned in 2008 after a string of tourist incidents. The shops pivoted to magic truffles — technically a different part of the same organism — which remain legal.
 
-The legal status of these smart shops is pretty vague. For a time it seems as if the government took the stance that mushrooms were natural products and herefore not illegal, but recently some steps have been taken to stop the smartshops. The whole thing is still going slowly through the legal system, so stay tuned and don't be surprised to find a particular shop closed.
+Beyond truffles, you'll find herbal supplements, energy pills, salvia, and various "natural highs" of debatable potency. Staff in the better shops will walk you through dosing and effects. Kokopelli on Warmoesstraat and Azarius near the Flower Market are among the more established names. If you're considering truffles, start with a mild variety, stay hydrated, and have a sober friend around. The shops themselves are perfectly legal to visit — you're under no obligation to buy anything.

@@ -2,6 +2,7 @@
 address: Plaza del Potro 1
 latitude: 37.8826
 longitude: -4.7732
+snippet: Sensual Andalusian portraits in the painter's family home
 tags:
 - things_to_do
 - museum

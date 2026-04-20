@@ -1,6 +1,7 @@
 ---
 latitude: 45.2271
 longitude: 13.5942
+snippet: Roman finds and local history in a Baroque palace
 tags:
 - things_to_do
 - museum

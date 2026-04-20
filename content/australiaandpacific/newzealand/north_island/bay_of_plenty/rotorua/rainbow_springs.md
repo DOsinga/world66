@@ -1,6 +1,7 @@
 ---
 latitude: -38.1143
 longitude: 176.2498
+snippet: Reliable place to see kiwi; runs an active kiwi hatching programme
 tags:
 - things_to_do
 - sight

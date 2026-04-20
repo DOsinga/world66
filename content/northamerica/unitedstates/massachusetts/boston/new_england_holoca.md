@@ -1,12 +1,10 @@
 ---
 latitude: 42.3614
 longitude: -71.0573
+snippet: "Six glass towers etched with numbers of the six million"
 tags:
 - things_to_do
-- park
-- market
 - monument
-- tower
 title: New England Holocaust Memorial
 type: poi
 url: www.nehm.org

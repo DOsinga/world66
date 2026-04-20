@@ -1,8 +1,12 @@
 ---
 address: Murphy Ave, Sunnyvale, CA 94086
-category: Neighbourhood
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.3766
 longitude: -122.0297
+snippet: Pedestrian-friendly downtown strip with restaurants and bars
+tags:
+- neighbourhood
 title: Murphy Avenue Downtown
 type: poi
 ---

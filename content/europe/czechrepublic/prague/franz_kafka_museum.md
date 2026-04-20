@@ -4,6 +4,7 @@ admission: 260 CZK
 latitude: 50.0886
 longitude: 14.4113
 opening_hours: Daily 10:00–18:00
+snippet: Atmospheric exhibition on Kafka's life and Prague connections
 tags:
 - things_to_do
 - museum

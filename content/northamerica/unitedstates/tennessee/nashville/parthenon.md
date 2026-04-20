@@ -4,6 +4,7 @@ admission: ~$6
 latitude: 36.1497
 longitude: -86.8113
 opening_hours: Tue–Sat 09:00–16:30
+snippet: Full-scale replica of the Athenian original, with gilded Athena inside
 tags:
 - things_to_do
 - sight

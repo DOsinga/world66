@@ -1,8 +1,10 @@
 ---
 latitude: -42.7885
 longitude: 147.6665
+snippet: Colonial military barracks from 1827, viewed from outside
 tags:
 - things_to_do
+- sight
 title: Sorell Barracks
 type: poi
 ---

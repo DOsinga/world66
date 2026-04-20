@@ -2,6 +2,7 @@
 address: Real Street, Tacloban City
 latitude: 11.2417
 longitude: 125.0033
+snippet: Imelda Marcos mansion turned surreal heritage museum
 tags:
 - things_to_do
 - museum

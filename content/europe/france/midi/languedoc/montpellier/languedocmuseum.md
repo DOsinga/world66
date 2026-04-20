@@ -1,21 +1,15 @@
 ---
-category: Museum
+address: 7 Rue Jacques Coeur, Montpellier
 latitude: 43.661023
 longitude: 2.449146
+snippet: Archaeology and art from prehistory to the Middle Ages
+tags:
+- things_to_do
+- museum
 title: Languedoc Museum
 type: poi
 ---
 
-Located in a former private mansion, it houses very interesting prehistoric, protohistoric, Gallo-
- Roman, Roman, Greek, Etruscan, Egyptian, Medieval (Romanesque sculptures) and classical 
- (ceramics)collections.
+The Musee Languedocien occupies a grand 17th-century hotel particulier on Rue Jacques Coeur. Its collections span a wide arc -- prehistoric and protohistoric artifacts, Greek and Etruscan ceramics, Roman mosaics, Egyptian pieces, and a strong selection of Romanesque sculpture from the region's medieval abbeys. The classical ceramics collection is particularly good.
 
-
- Location : 7, rue Jacques Coeur
-
-
- Tel : (33) 04 67 52 93 03
-
-
- Opening Hours : From Monday to Saturday from 14:00 to 17:00 and from 15:00 to 18:00 from July 
- to September. Closed on Sundays and Holidays.
+A quiet alternative to the busier Musee Fabre, it rewards an hour or two of browsing if you have an interest in the deep history of the Languedoc.

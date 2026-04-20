@@ -1,6 +1,7 @@
 ---
 latitude: 17.962555
 longitude: 102.614789
+snippet: Former royal temple, now a museum of Buddhist art
 tags:
 - things_to_do
 - museum

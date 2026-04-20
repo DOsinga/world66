@@ -1,6 +1,7 @@
 ---
 latitude: 49.455278
 longitude: 11.078056
+snippet: Gothic church with a famous mechanical clock on the Hauptmarkt
 tags:
 - things_to_do
 - landmark

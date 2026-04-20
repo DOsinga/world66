@@ -1,6 +1,7 @@
 ---
 latitude: 14.6659
 longitude: -17.3984
+snippet: Fortified hilltop with sweeping views over Dakar and Gorée
 tags:
 - things_to_do
 - sight

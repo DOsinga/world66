@@ -2,6 +2,7 @@
 address: Carrera 52 No. 52-43
 latitude: 6.252093
 longitude: -75.568925
+snippet: Botero's personal art collection in an art deco landmark
 tags:
 - things_to_do
 - museum

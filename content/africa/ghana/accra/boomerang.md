@@ -1,6 +1,9 @@
 ---
 title: "Boomerang"
 type: poi
+snippet: Local dance bar with hiplife and Afrobeats nights
+tags:
+- nightlife
 latitude: 5.584284
 longitude: -0.216705
 ---

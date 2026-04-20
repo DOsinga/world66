@@ -4,6 +4,7 @@ longitude: 4.8072
 tags:
 - things_to_do
 - museum
+snippet: "Medieval Italian paintings in a former archbishop's palace"
 title: Musée du Petit Palais
 type: poi
 ---

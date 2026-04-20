@@ -1,6 +1,7 @@
 ---
 latitude: 52.8869
 longitude: -118.0574
+snippet: "Three distinct lounges in a grand mountain resort"
 tags:
 - bars_and_cafes
 title: Jasper Park Lodge Lounges

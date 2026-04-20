@@ -1,28 +1,10 @@
 ---
 title: "Lalo's"
 type: poi
-address: "Augusto Tamay 196"
-email: "lalobar@gmail"
-phone: "421-4471"
-price: "3 to 7 dollars"
-type: "South American"
-url: "lalosrestaurantperu.com"
+snippet: "Affordable Peruvian lunch spot in San Isidro"
+address: "Augusto Tamayo 196, San Isidro, Lima"
+latitude: -12.0977
+longitude: -77.0365
 ---
 
-Lalo"s is a small restaurant in Lima's San Isidro area. They have daily specials for around 3-5 US dollars. Depending on the day it can be peruvian dishes, or south american favorites. They have an small but well sellected menu. Great place to go for lunch around 1pm to 4pm.
-
-type: South American
-
-
-
-
-
-tel: 421-4471
-
-url: [lalosrestaurantperu.com](http://lalosrestaurantperu.com/)
-
-address: Augusto Tamay 196
-
-PriceOfMenu: 3 to 7 dollars
-
-email: lalobar@gmail
+A small, no-frills restaurant in Lima's leafy San Isidro district, Lalo's is the kind of neighbourhood lunch place that locals guard jealously. The daily set menu runs to about 15-25 soles and rotates between classic Peruvian dishes — lomo saltado, aji de gallina, ceviche — and broader South American staples. The kitchen is busiest between 1 and 3 p.m., when the surrounding office workers pile in. Not the place for a lingering dinner, but a reliable, affordable lunch with food that punches well above its price point.

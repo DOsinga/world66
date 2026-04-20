@@ -3,6 +3,7 @@ address: 1048 Fifth Avenue
 latitude: 40.7806
 longitude: -73.95946
 phone: (212) 628-6200
+snippet: "German and Austrian art in an elegant Fifth Avenue mansion"
 tags:
 - things_to_do
 - museum

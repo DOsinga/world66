@@ -1,4 +1,5 @@
 ---
+snippet: "Riverside botanical garden with sculpture and art exhibitions"
 title: "Jardin Botanico de Culiacan"
 type: poi
 tags:

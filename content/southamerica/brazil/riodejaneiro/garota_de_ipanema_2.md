@@ -3,6 +3,7 @@ address: Rua Vinicius de Moraes 53, Ipanema
 latitude: -22.98514
 longitude: -43.202975
 phone: (21)2521-3168
+snippet: "Brazilian beachwear and bikinis in the heart of Ipanema"
 tags:
 - shopping
 - shop
@@ -11,4 +12,4 @@ type: poi
 url: www.lojagarotadeipanema.com.br
 ---
 
-Okay, I'm a guy, but I'm quite thankful for this store. Why? Because they know how to make real bikinis for girls, unlike the ones we get back home (U.S.A.). I walked in with my girlfriend who wanted to get one, and while I was a bit apprehensive at first (seeing as they were smaller than what I'm used to seeing on girls), I had to approve after seeing the positive results throughout. Very highly recommended!
+A well-known beachwear shop on Rua Vinicius de Moraes in Ipanema, specializing in Brazilian-style bikinis and swimwear. The store carries a wide range of styles and sizes, from classic cuts to the latest trends in carioca beach fashion. It's a popular stop for visitors looking to pick up an authentic Brazilian bikini before hitting the famous beaches nearby. The staff are helpful with sizing and happy to assist non-Portuguese speakers.

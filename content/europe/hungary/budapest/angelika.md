@@ -1,14 +1,15 @@
 ---
 address: Batthyany ter 7
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 47.5066
 longitude: 19.0389
 opening_hours: 10:00-22:00 daily
-snippet: Classic cafe in a former crypt beneath St. Anne's Church
 tags:
 - bars_and_cafes
+- bar
+- church
+- palace
 - cafe
+- neighbourhood
 title: Angelika
 type: poi
 ---

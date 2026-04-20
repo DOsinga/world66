@@ -1,12 +1,9 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 36.7478
 longitude: 3.0765
-snippet: Historic 32-hectare botanical garden with 2,500 plant species
 tags:
 - things_to_do
-- park
+- landmark
 title: Jardin d'Essai
 type: poi
 ---

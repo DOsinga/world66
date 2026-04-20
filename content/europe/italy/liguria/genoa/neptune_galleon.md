@@ -1,8 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-20'
 latitude: 44.4065
 longitude: 8.9198
+snippet: Full-size galleon replica built for Polanski's Pirates
 tags:
 - things_to_do
 - landmark

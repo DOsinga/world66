@@ -1,36 +1,16 @@
 ---
-address: Oranienburger Str. 32/ in the Hec, kmann Höfe
+address: Oranienburger Str. 32, Heckmann Höfe
 connections: S Oranienburger Str.
-opening_hours: Tu-Fr noon -8pm, Sa noon -6pm
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 52.5264
+longitude: 13.3942
+opening_hours: Tue-Fri noon-8pm, Sat noon-6pm
+snippet: Local designer fashion in the Heckmann Höfe courtyard
 tags:
 - shopping
-- berlinmitte
 title: NIX Mode-Design
 type: poi
 ---
 
-The right wrappings for big city inhabitants (children, men, women). Barbara Gebhardt's collection is produced here.
-
-type: Fashion
-
-
-
-
-
-connections: S Oranienburger Str.
-
-openings: Tu-Fr noon -8pm, Sa noon -6pm
-
-address: Oranienburger Str. 32/ in the Hec, kmann Höfe
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A Berlin-based fashion label run by designer Barbara Gebhardt, tucked inside the Heckmann Höfe courtyard complex off Oranienburger Strasse. The shop doubles as a workshop where the entire collection is designed and produced on site. The style leans towards clean, wearable pieces for men, women, and children with a distinctly urban sensibility. Worth a visit if you're browsing the courtyards of Mitte.

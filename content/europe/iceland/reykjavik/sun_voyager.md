@@ -2,6 +2,7 @@
 address: Sæbraut, by the harbour
 admission: Free
 latitude: 64.1475
+snippet: "Steel dream-boat sculpture on Reykjavik's seafront"
 longitude: -21.9223
 tags:
 - things_to_do

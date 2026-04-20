@@ -1,6 +1,11 @@
 ---
 title: "Hoopers Bay"
 type: poi
+tags:
+  - things_to_do
+  - beach
+  - nature
+snippet: "Calm bay near George Town where sea turtles swim to shore"
 latitude: 23.5300
 longitude: -75.7800
 ---

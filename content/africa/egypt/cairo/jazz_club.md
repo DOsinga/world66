@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 - bar
 - club
+snippet: Late-night live jazz in Mohandiseen until 3am
 title: The Jazz Club
 type: poi
 ---

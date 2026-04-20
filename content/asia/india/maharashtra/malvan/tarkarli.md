@@ -6,6 +6,7 @@ tags:
   - beach
   - snorkeling
   - nature
+snippet: "Clear-water Konkan beach with snorkeling and dolphin boat rides"
 latitude: 16.0068
 longitude: 73.4918
 ---

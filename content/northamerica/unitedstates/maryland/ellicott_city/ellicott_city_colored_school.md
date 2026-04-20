@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - museum
   - historic_site
+snippet: "1880 segregated schoolhouse, now a Black history museum"
 latitude: 39.2780
 longitude: -76.8295
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 36.8092
 longitude: 10.1344
+snippet: World's largest collection of Roman mosaics in a palace
 tags:
 - things_to_do
 - museum

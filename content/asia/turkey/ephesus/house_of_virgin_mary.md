@@ -1,6 +1,7 @@
 ---
 latitude: 37.9072
 longitude: 27.3394
+snippet: Hilltop pilgrimage site believed to be Mary's final home
 tags:
 - things_to_do
 - sight

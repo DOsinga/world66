@@ -4,6 +4,7 @@ longitude: -117.8835
 tags:
 - things_to_do
 - landmark
+snippet: Thundering 23-metre falls through a narrow quartz sandstone canyon
 title: Athabasca Falls
 type: poi
 ---

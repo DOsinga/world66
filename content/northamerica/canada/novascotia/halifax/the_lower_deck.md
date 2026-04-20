@@ -1,8 +1,12 @@
 ---
 address: Privateer's Warehouse, Historic Properties, Lower Water Street
+category: bars_and_cafes
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.6487
 longitude: -63.568
 phone: (902) 425-1501
+snippet: Waterfront pub with live East Coast music and local beer
 tags:
 - eating_out
 - bar

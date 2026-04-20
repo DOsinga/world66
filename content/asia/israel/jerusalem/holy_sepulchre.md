@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.7784
 longitude: 35.2297
+snippet: Christianity's holiest site, shared by six rival denominations
 tags:
 - things_to_do
 - landmark

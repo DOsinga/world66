@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.4011
 longitude: 10.86
+snippet: Oldest medieval square in Tuscany, ringed by medieval stone palaces
 tags:
 - things_to_do
 - sight

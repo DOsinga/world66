@@ -1,51 +1,24 @@
 ---
-title: "Soba and Udon"
+done:
+  poi_cleanup: '2026-04-20'
+snippet: Japan's two great noodles — buckwheat soba and thick white udon
+tags:
+- eating_out
+- food
+title: Soba and Udon
 type: poi
-type: "Japanese"
-latitude: 33.594915
-longitude: 130.416789
 ---
 
-Soba and Udon are Japan’s traditional noodles. Soba noodles are
-made from buckwheat flour, and are thin and brown or gray in
-color. Udon noodles are made from white flour, and are quite
-wide. Although some establishments will specialize as *Soba-ya* or *Udon-ya*,
-especially in areas known for their soba or udon, most restaurants will
-have some of both, oftentimes offering the same set of dishes with your
-choice of either soba or udon.
+Soba and udon are Japan's traditional noodles. Soba noodles are made from buckwheat flour, and are thin and brown or gray in color. Udon noodles are made from white flour, and are quite wide. Although some establishments specialize as *soba-ya* or *udon-ya*, especially in regions known for one or the other, most restaurants offer both, with the same set of dishes available in either noodle.
 
-There are two main ways of eating these noodles -- hot, and cold.
-If eaten hot, the noodles are served in a bowl of steaming soup, with
-toppings or side dishes sometimes placed in the soup, and sometimes on
-a separate plate. If eaten cold, the noodles will come on a plate
-of their own, cold and somewhat sticky. Cold noodles are eaten by
-dipping them into a small bowl of broth, which in turn can be either
-hot or cold, depending on the establishment.
+There are two main ways of eating these noodles — hot and cold. If eaten hot, the noodles are served in a bowl of steaming soup, with toppings placed in the soup or on a separate plate. If eaten cold, the noodles come on a plate of their own, cold and slightly sticky. Cold noodles are eaten by dipping them into a small bowl of broth, which can itself be either hot or cold depending on the establishment.
 
-The soup served with soba and udon is usually quite thin, flavored with
-soy sauce and fish stock. In some places, duck is also
-used. The soup is often served with a small plate of chopped leek
-and a dab of wasabi, for you to add at your own discretion.
+The soup is usually quite thin, flavored with soy sauce and fish stock. Some common dishes:
 
-Some common soba/udon dishes are :
-
-*Zaru-soba/Zaru-udon* - A plate of cold noodles with dipping sauce, and nothing else.
-
-*Mori-soba/Mori-udon* - A bowl of hot noodles, with no extra toppings or condiments.
-
-*Tanuki-soba/Tanuki-udon* - A bowl of hot noodles, with small bits of fried tempura batter added in.
-
-*Kitsune-soba/Kitsune-udon* - A bowl of hot noodles, with a large piece of sweet fried tofu.
-
-*Curry-soba/Curry-udon* - A bowl of hot noodles, strongly flavored with curry.
-
-*Ten-zaru-soba/ten-zaru-udon* - A plate of cold noodles with dipping sauce, and an order of tempura.
-
-*Tempura-soba/Tempura-udon* - A bowl of hot noodles, with some
-tempura. Usually, this is served with two big
-shrimp tempura, soaking in the soup.
-
-**Contributors**
-October 07, 2006
-
-type: Japanese
+- **Zaru-soba / Zaru-udon** — cold noodles with dipping sauce, nothing else
+- **Mori-soba / Mori-udon** — hot noodles with no toppings
+- **Tanuki-soba / Tanuki-udon** — hot noodles with small bits of fried tempura batter
+- **Kitsune-soba / Kitsune-udon** — hot noodles with a piece of sweet fried tofu
+- **Curry-soba / Curry-udon** — hot noodles strongly flavored with curry
+- **Ten-zaru-soba / Ten-zaru-udon** — cold noodles with dipping sauce and tempura
+- **Tempura-soba / Tempura-udon** — hot noodles with tempura, usually two large shrimp

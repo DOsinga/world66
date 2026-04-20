@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 46.4851
 longitude: 30.744
+snippet: Viennese baroque opera house where Tchaikovsky conducted and Pavlova danced
 tags:
 - things_to_do
 - theatre

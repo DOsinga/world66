@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.6728
 longitude: -121.1775
+snippet: Small zoo for rescued wildlife that cannot be returned to the wild
 tags:
 - things_to_do
 - zoo

@@ -1,19 +1,15 @@
 ---
-title: "Galdhøpiggen"
-type: poi
-type: "Landmarks"
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 61.636472
 longitude: 8.312443
+snippet: Norway's highest peak at 2469m, a strenuous but non-technical day hike
+title: Galdhøpiggen
+type: poi
 ---
 
-The **Galdhøpiggen **is with a hight of 2469m is the biggest mountain in Norway. It lies in the Jotunheimen mountains.
-You can drive up to a hotel that lies on the foot of the mountain. After a good night sleep there, you can start climbing up early in the morning.
-Firs you walk trough bushes and stone, what later on becomes only stone. After that the first slides of snow show up, but after some more climing that snow isn't so special anymore, because you wil be walking in a half a meter of snow the last and biggest part of the journey up.
-When you are on the top, after a clim of 4 hours, and you're lucky, you can see as far as your eyes can go. It's breath taking. If your unlucky, you will be walking in rainclouds and will not notice the cliffs and evalanges you pass by.
+At 2469 metres, Galdhøpiggen is the highest mountain in Norway and the highest peak in all of Scandinavia. It sits in the Jotunheimen range, which translates roughly as "Home of the Giants" — appropriately enough when you're standing on the summit.
 
-It's a great climb and there is no need for special gear, else then a good pair of walking shoes and some warm clothing.
+The standard approach is from Juvasshytta, a mountain lodge at around 1840m that you can drive to. From there it's a four to five hour return hike across a glacier. No technical climbing skills are required, but you'll want good walking boots, warm layers, and waterproofs. The weather changes fast: a clear morning can turn to whiteout by afternoon, and the ridge approach involves some exposure. Many hikers go with a local guide for the glacier crossing.
 
-**Contributors**
-February 14, 2007
-
-type: Landmarks
+On a clear day from the summit you can see across an extraordinary stretch of the Norwegian highlands. When the clouds roll in, you get a more humbling experience — wind, mist, and very little visibility beyond your own boots.

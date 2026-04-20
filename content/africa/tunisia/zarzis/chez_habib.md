@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.5037
 longitude: 11.1097
+snippet: Best seafood restaurant in Zarzis, famous for fresh-caught fish
 tags:
 - eating_out
 - restaurant

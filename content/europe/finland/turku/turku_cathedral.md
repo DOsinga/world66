@@ -1,8 +1,11 @@
 ---
 address: Tuomiokirkkotori, Turku
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 60.4524
 longitude: 22.27
+snippet: Mother church of Finnish Christianity since the 13th century
 title: Turku Cathedral
 type: poi
 ---

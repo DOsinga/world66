@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.5597
 longitude: 68.7744
+snippet: Ancient Sogdian artifacts and a stunning reclining Buddha
 tags:
 - things_to_do
 title: National Museum of Tajikistan

@@ -1,9 +1,10 @@
 ---
-address: 1700 West Washington Street Phoenix, AZ 85007
-latitude: 33.44812
-longitude: -112.097801
-opening_hours: 8a-5p M-F, closed Sa-Su
+address: 1700 West Washington Street, Phoenix, AZ 85007
+latitude: 33.4481
+longitude: -112.0978
+opening_hours: 8am-5pm Mon-Fri, closed Sat-Sun
 phone: +1 602 926 3620
+snippet: "Free museum in the copper-domed 1900 state capitol"
 tags:
 - things_to_do
 - museum

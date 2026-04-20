@@ -1,7 +1,10 @@
 ---
 title: "Dingli Cliffs"
 type: poi
-category: "Sight"
+snippet: "Malta's highest point with dramatic sunset views"
+tags:
+  - things_to_do
+  - sight
 latitude: 35.8548
 longitude: 14.3769
 ---

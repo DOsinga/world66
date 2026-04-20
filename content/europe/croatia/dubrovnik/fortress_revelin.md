@@ -1,6 +1,7 @@
 ---
 latitude: 42.641
 longitude: 18.1125
+snippet: Massive 16th-century fortress guarding the old port
 tags:
 - things_to_do
 - sight

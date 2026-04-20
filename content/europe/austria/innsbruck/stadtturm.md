@@ -1,6 +1,7 @@
 ---
 latitude: 47.2683
 longitude: 11.3937
+snippet: 15th-century tower with the best Old Town panorama
 tags:
 - things_to_do
 - sight

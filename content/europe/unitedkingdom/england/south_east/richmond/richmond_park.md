@@ -1,9 +1,11 @@
 ---
 title: Richmond Park
 type: poi
-category: Sight
+snippet: "London's largest royal park, with wild deer since the 1630s"
 latitude: 51.4422
 longitude: -0.2750
+tags:
+- things_to_do
 story: "King Henry's Mound in Richmond Park is protected by an ancient covenant that keeps the sightline to St Paul's Cathedral clear. Stand at this spot and you can see the dome, seventeen miles away, exactly as it appeared in the seventeenth century — no building is permitted to block it."
 ---
 

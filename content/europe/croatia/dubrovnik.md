@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-02
+  poi_cleanup: '2026-04-19'
 image: dubrovnik.jpg
 image_attribution: Diego Delso
 image_license: CC BY-SA 3.0

@@ -2,6 +2,7 @@
 address: Rua da Escola Politécnica 58
 latitude: 38.7168
 longitude: -9.148
+snippet: Shady Victorian-era garden, a cool escape near Príncipe Real
 tags:
 - things_to_do
 - landmark

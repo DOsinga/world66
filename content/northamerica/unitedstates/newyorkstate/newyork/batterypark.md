@@ -1,5 +1,7 @@
 ---
 address: State Street to New York Harbor
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.703163
 longitude: -74.016628
 snippet: 21-acre park at Manhattan's tip with harbor views and Statue of Liberty ferries

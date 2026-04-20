@@ -3,6 +3,7 @@ address: 16, rue Nationale
 latitude: 47.3936
 longitude: 0.6876
 phone: 02 47 61 07 93
+snippet: Touraine wine history in medieval abbey cellars
 tags:
 - things_to_do
 - museum

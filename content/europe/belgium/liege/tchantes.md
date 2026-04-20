@@ -1,14 +1,9 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
+title: "Tchantchès Puppet Theatre"
+type: poi
+tags: [touristattractions, poi]
 latitude: 50.6451
 longitude: 5.5815
-snippet: Traditional Walloon puppet shows in the Outremeuse quarter
-tags:
-- things_to_do
-- museum
-title: Tchantchès Puppet Theatre
-type: poi
 ---
 
 Tchantchès is the beloved folklore puppet of the Outremeuse quarter in [Liège](/europe/belgium/liege), a good-natured, stubborn, sometimes rebellious character who symbolises the spirit of the Liègeois. Legend has it he appeared from between two stones in the year 760 and, as a baby, already preferred the local gin (pékèt) over milk.

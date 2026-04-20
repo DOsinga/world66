@@ -1,9 +1,6 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 23.6127
 longitude: 58.5887
-snippet: Private museum of Omani heritage in Old Muscat
 tags:
 - things_to_do
 - museum

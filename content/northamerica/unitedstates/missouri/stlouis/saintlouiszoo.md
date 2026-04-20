@@ -5,6 +5,7 @@ longitude: -90.2965
 opening_hours: 'Daily 9am–5pm (summer: 8am–7pm); closed Christmas and New Year''s
   Day'
 phone: (800) 966-8877
+snippet: "World-class zoo in Forest Park — and completely free"
 tags:
 - things_to_do
 - museum

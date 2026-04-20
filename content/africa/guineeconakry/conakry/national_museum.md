@@ -1,6 +1,7 @@
 ---
 latitude: 9.537
 longitude: -13.6773
+snippet: "Free museum with masks, statues, and instruments from across Guinea"
 tags:
 - things_to_do
 - museum

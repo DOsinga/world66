@@ -1,8 +1,11 @@
 ---
 title: 'Frankly Speaking Antiques'
 type: poi
+snippet: Antique shop specializing in vintage cameras and cinema projectors
 address: '28 High Street, Yackandandah'
 phone: '(02) 6027 1931'
+tags:
+- shopping
 latitude: -36.3133
 longitude: 146.8388
 ---

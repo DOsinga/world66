@@ -1,6 +1,7 @@
 ---
 latitude: 51.5852
 longitude: 4.7798
+snippet: City history museum with playful kids exhibits
 tags:
 - things_to_do
 - museum

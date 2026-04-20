@@ -3,6 +3,7 @@ address: 26 Bahgat Ali St., Zamalek
 latitude: 30.061389
 longitude: 31.221667
 phone: +20 2 7359117
+snippet: Reliable Italian restaurant in Zamalek
 tags:
 - eating_out
 - restaurant

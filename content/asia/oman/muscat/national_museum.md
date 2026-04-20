@@ -6,6 +6,7 @@ tags:
 - museum
 title: National Museum of Oman
 type: poi
+snippet: "Flagship museum covering Oman from prehistory to present"
 ---
 
 Oman's flagship museum, opposite Al Alam Palace in Old Muscat. Opened in 2016, it covers the country's history from prehistory through to the modern Sultanate across fourteen permanent galleries — prehistoric archaeology, the Land of Frankincense trade routes, maritime history, and the Al Busaid dynasty. Bilingual Arabic–English throughout, with well-captioned exhibits and an excellent collection of silver jewellery, manuscripts, and weaponry.

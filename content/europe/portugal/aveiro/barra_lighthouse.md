@@ -1,7 +1,10 @@
 ---
 title: "Barra Lighthouse"
 type: poi
-category: "Sight"
+snippet: Tallest lighthouse on the Iberian Peninsula
+tags:
+- things_to_do
+- landmark
 latitude: 40.6375
 longitude: -8.7492
 ---

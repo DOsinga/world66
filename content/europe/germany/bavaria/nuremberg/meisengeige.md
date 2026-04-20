@@ -1,6 +1,7 @@
 ---
 latitude: 49.453611
 longitude: 11.082222
+snippet: Bar-cinema showing films in original language
 tags:
 - bars_and_cafes
 - bar

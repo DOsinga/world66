@@ -1,13 +1,17 @@
 ---
-address: Kurfürstendamm 206-209, Charlottenburg
-connections: U Uhlandstraße, bus 119, 129
-opening_hours: Mo 10am -6pm, Tu-Sa 10am -7pm, Su+public holidays 3pm -6pm
-phone: +49 (0)30 -  47997440
+address: Kurfürstendamm 206-209, 10719 Berlin
+latitude: 52.5023
+longitude: 13.3258
+connections: U Uhlandstraße, bus 109, 110
+snippet: Long-running boulevard comedy theatre on the Ku'damm
 tags:
 - things_to_do
-- berlincharlottenburg
-title: Komödie
+- theatre
+title: Komödie am Kurfürstendamm
 type: poi
+url: https://www.komoedie-berlin.de
 ---
 
-Audiences pack out this theatre for comedies like "Ping Pong" or "Eifersucht. Drama für drie Faxmaschinen" (Jealousy. Drama for three fax machines). The production of "Comedian Hatmonists" was definately a big highlight for many people. Admission: Fr+Sa 25,49,69DM, Su-Th 19,39,59DM, 50% reduction (only at the evening box office).
+One of Berlin's best-known boulevard theatres, the Komödie has been staging comedies, farces, and light dramas on the Ku'damm since the 1920s. The programming leans toward crowd-pleasers — sharp dialogue pieces, French bedroom farces in German translation, and the occasional musical revue. Productions are in German.
+
+The theatre occupies a space inside the Ku'damm Karree shopping complex and seats around 460. The intimate size means there are no bad seats. Evening performances typically start at 20:00, with matinees on weekends. Check the website for current programming and ticket prices.

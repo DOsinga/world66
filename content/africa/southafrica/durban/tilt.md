@@ -3,6 +3,7 @@ address: Walnut Road, opposite the Hilton Hotel
 latitude: -29.8587
 longitude: 31.0218
 phone: (031) 306-9356
+snippet: Upmarket trance and house club off Walnut Road
 tags:
 - bars_and_cafes
 title: Tilt

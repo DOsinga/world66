@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.2812
 longitude: 104.2813
+snippet: Restored 19th-century wooden houses with cafes and shops
 tags:
 - things_to_do
 - neighbourhood

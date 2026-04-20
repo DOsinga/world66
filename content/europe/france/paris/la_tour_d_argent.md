@@ -1,10 +1,13 @@
 ---
 address: 15-17 Quai de la Tournelle, 75005 Paris
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.84983
 longitude: 2.354915
 opening_hours: Tue–Sat noon–2pm and 7:30pm–10pm; closed Sun–Mon
 phone: +33 1 43 54 23 31
 price_per_night: €200+ per person
+snippet: Historic rooftop restaurant famous for its numbered pressed duck
 tags:
 - eating_out
 title: La Tour d'Argent

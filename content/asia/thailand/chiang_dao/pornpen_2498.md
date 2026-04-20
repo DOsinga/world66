@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.3693
 longitude: 98.9634
+snippet: Famous braised pork leg over rice, opens early, sells out fast
 tags:
 - eating_out
 title: Pornpen 2498

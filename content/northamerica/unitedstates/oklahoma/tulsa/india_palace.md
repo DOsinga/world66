@@ -1,8 +1,11 @@
 ---
 address: 6963 S. Lewis
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.061681
 longitude: -95.956666
 phone: (918) 492-8040
+snippet: Family-run Indian restaurant with excellent tandoori and lunch buffet
 tags:
 - eating_out
 title: India Palace

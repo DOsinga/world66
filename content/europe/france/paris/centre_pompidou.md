@@ -1,9 +1,12 @@
 ---
 address: Place Georges-Pompidou, 75004 Paris
 admission: €15; free first Sun of the month
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.860496
 longitude: 2.352422
 opening_hours: Wed–Mon 11am–9pm (Thu until 11pm); closed Tue
+snippet: Europe's largest modern art museum in an inside-out building
 tags:
 - things_to_do
 title: Centre Pompidou

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.4108
 longitude: 98.9432
+snippet: Free jungle hot springs near a Karen village
 tags:
 - things_to_do
 - landmark

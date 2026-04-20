@@ -1,14 +1,14 @@
 ---
-latitude: 53.564458
-longitude: -113.540708
+latitude: 51.0461
+longitude: -114.0472
+snippet: "Calgary's oldest neighbourhood, lined with antique and vintage shops"
 tags:
 - shopping
-- shop
-- tower
 - neighbourhood
-title: Inglewood .
+title: Inglewood
 type: poi
 ---
 
-Calgary's oldest neighbourhood is the place for antiques, collectibles, interior furnishings and imports. A 20 min walk or 5 min cab ride from the Calgary Tower. 
- Address: Along 9 Ave SE between 10th and 13th Streets Calgary Alberta
+Calgary's oldest neighbourhood stretches along 9th Avenue SE between 10th and 13th Streets, a short walk or quick cab ride from downtown. The strip is packed with antique dealers, vintage clothing shops, independent bookstores, and design boutiques — the kind of places that don't exist in malls. On weekends it draws a steady stream of locals browsing for furniture, collectibles, and curiosities.
+
+Good for an afternoon wander combined with a meal at one of the neighbourhood's cafes.

@@ -1,7 +1,11 @@
 ---
-title: "Cathedrale Saint-Andre"
+title: "Cathédrale Saint-André"
 type: poi
-category: Sight
+snippet: "Monumental Gothic cathedral with rooftop views from the bell tower"
+tags:
+- architecture
+- religious
+- history
 latitude: 44.8376
 longitude: -0.5769
 ---

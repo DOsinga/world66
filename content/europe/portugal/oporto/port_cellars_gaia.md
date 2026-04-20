@@ -1,6 +1,7 @@
 ---
 latitude: 41.1369
 longitude: -8.6134
+snippet: Port wine cellars across the river with tours and tastings
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: -16.1887
 longitude: -67.7276
+snippet: "Mexican food and cocktails with a happy hour in the Bolivian Yungas"
 tags:
 - eating_out
 title: Bamboos

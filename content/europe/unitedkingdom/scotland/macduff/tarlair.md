@@ -1,6 +1,7 @@
 ---
 latitude: 57.6739
 longitude: -2.4729
+snippet: "Ruined 1930s open-air lido on the rocks east of Macduff"
 tags:
 - things_to_do
 - sight

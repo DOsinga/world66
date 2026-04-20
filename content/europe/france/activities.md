@@ -1,5 +1,7 @@
 ---
-title: "Activities"
+done:
+  poi_cleanup: '2026-04-20'
+title: Activities
 type: section
 ---
 

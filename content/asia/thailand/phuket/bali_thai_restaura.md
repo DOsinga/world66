@@ -3,6 +3,7 @@ address: Karon Beach Road, Phuket
 latitude: 7.834191
 longitude: 98.298666
 price: B 250+
+snippet: "Relaxed outdoor Thai and Indonesian restaurant on Karon Beach Road"
 tags:
 - eating_out
 - karon

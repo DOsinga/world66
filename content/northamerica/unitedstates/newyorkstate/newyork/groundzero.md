@@ -2,6 +2,7 @@
 address: 180 Greenwich Street
 latitude: 40.711462
 longitude: -74.013275
+snippet: Twin reflecting pools and underground museum marking the September 11 site
 tags:
 - things_to_do
 - museum

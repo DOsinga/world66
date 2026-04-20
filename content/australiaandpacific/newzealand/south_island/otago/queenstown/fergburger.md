@@ -2,6 +2,7 @@
 address: 42 Shotover Street
 latitude: -45.0317
 longitude: 168.6595
+snippet: "Queenstown's legendary burger joint — fresh, enormous, worth the queue"
 tags:
 - eating_out
 - restaurant

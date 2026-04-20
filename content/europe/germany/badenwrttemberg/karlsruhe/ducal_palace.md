@@ -1,6 +1,7 @@
 ---
 title: "Karlsruher Schloss"
 type: poi
+snippet: "Hub of Karlsruhe's radial street plan, now housing the Badisches Landesmuseum"
 tags: [things_to_do]
 latitude: 49.0136
 longitude: 8.4044

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Musée Picasso Paris
 type: poi
+snippet: "World's largest public Picasso collection, in a splendid 17th-century Marais mansion"
 url: www.museepicassoparis.fr
 ---
 

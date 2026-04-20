@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.455357
 longitude: -2.595161
+snippet: Candlelit basement Lebanese restaurant on Corn Street
 tags:
 - eating_out
 title: Mazati Lebanese Cuisine

@@ -1,6 +1,7 @@
 ---
 title: "Northern Life Museum"
 type: poi
+snippet: Sub-Arctic history from Dene traditions to the fur trade
 tags:
   - things_to_do
   - museum

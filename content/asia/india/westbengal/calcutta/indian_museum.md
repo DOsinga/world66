@@ -4,6 +4,7 @@ admission: ₹50 Indians, ₹500 foreigners
 latitude: 22.557705
 longitude: 88.351049
 opening_hours: 10:00-17:00, closed Monday
+snippet: Oldest and largest museum in Asia, founded 1814
 tags:
 - things_to_do
 title: Indian Museum

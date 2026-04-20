@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -0.3667
 longitude: 36.0833
+snippet: flamingo-filled alkaline lake and rhino sanctuary
 tags:
 - things_to_do
 - landmark

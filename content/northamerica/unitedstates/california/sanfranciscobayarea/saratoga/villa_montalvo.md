@@ -1,6 +1,7 @@
 ---
 latitude: 37.2441
 longitude: -122.0294
+snippet: Historic villa turned arts center with gardens and trails
 tags:
 - things_to_do
 - sight

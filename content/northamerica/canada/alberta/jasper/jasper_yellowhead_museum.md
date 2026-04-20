@@ -1,6 +1,7 @@
 ---
 latitude: 52.8742
 longitude: -118.0812
+snippet: Local and natural history of Jasper National Park
 tags:
 - things_to_do
 - museum

@@ -1,5 +1,7 @@
 ---
 address: Kilmuckridge, Wexford
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.512732
 longitude: -6.284172
 snippet: Blue Flag beach adjoining Ballinesker, where Saving Private Ryan was filmed

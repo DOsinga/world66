@@ -1,5 +1,7 @@
 ---
 address: Gneisenaustraße 93, Kreuzberg
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.492202
 longitude: 13.393933
 opening_hours: Daily 10am-2am

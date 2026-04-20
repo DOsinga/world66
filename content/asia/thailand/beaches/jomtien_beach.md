@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 12.877266
 longitude: 100.884372
 snippet: Quieter beach south of Pattaya with good windsurfing and watersports

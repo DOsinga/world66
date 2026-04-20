@@ -1,5 +1,7 @@
 ---
 address: Victoria Parade
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -38.3413
 longitude: 141.6048
 opening_hours: Sun. & Public Holidays 14:00-16:00

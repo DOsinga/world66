@@ -1,5 +1,7 @@
 ---
 address: Burgos Extension, Bacolod City
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 10.665
 longitude: 122.95
 phone: '+6344352561'

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 snippet: Bargaining tips for McLeodganj's silver jewellery shops
 tags:
 - shopping

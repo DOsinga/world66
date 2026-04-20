@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.605
 longitude: 167.49
 snippet: Limestone cave where the last Kanak queen took refuge in 1855

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.3618
 longitude: 98.9718
 snippet: Community arts centre with studios, theatre, and Gooseberry Café

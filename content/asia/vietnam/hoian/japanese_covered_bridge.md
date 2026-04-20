@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 15.8774
 longitude: 108.3261
 snippet: 17th-century covered bridge, emblem of Hoi An

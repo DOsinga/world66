@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 20.6742
 longitude: -103.3725
 snippet: French bistro with live string quartet in the evenings

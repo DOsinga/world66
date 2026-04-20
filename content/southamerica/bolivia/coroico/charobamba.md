@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -16.1927
 longitude: -67.753
 snippet: Village with WWII Jewish refugee history near Coroico

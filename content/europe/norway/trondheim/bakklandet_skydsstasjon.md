@@ -1,5 +1,7 @@
 ---
 address: Øvre Bakklandet 33, Trondheim
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 63.4288
 longitude: 10.4052
 phone: +47 73 92 10 44

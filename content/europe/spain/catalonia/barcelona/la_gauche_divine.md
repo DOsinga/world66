@@ -1,10 +1,12 @@
 ---
 address: Passatge de la pau 7 bis
+done:
+  poi_cleanup: '2026-04-20'
 email: info@lagauchedivine.com
 latitude: 41.377904
 longitude: 2.177787
 phone: +34 933 016 125
-snippet: "Concept store mixing fashion, art, and music in the Gothic Quarter."
+snippet: Concept store mixing fashion, art, and music in the Gothic Quarter.
 tags:
 - shopping
 title: La Gauche Divine

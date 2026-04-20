@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.5528
 longitude: 114.2735
 snippet: Qing dynasty Buddhist temple with 500 remarkable Arhat statues

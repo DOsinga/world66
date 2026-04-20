@@ -1,8 +1,10 @@
 ---
 address: Karlsplatz, 1040 Wien
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.201553
 longitude: 16.369111
-snippet: "Baroque triumph blending dome, colonnade, and Trajan columns"
+snippet: Baroque triumph blending dome, colonnade, and Trajan columns
 tags:
 - things_to_do
 - landmark

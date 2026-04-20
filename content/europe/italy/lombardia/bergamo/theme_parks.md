@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.44
 longitude: 10.71
 snippet: Gardaland and other theme parks on nearby Lake Garda

@@ -1,5 +1,7 @@
 ---
 address: Jalan Pintu Pong
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 6.127
 longitude: 102.2438
 snippet: 'Best cheap street food in Kota Bharu: ayam percik, blue rice, nasi kerabu'

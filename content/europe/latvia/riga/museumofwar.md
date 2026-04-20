@@ -1,5 +1,7 @@
 ---
 address: Smilšu iela 20, Riga
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 56.9504
 longitude: 24.1069
 snippet: Latvian War Museum tracing eight centuries of conflict

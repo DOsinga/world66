@@ -1,10 +1,12 @@
 ---
 address: Edomit Hotel
 cuisine: Thai
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 29.5515
 longitude: 34.9517
 phone: 972-8-6372517
-snippet: "Thai restaurant at the Edomit, open late"
+snippet: Thai restaurant at the Edomit, open late
 tags:
 - eating_out
 - restaurant

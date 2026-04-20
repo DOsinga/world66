@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.3844
 longitude: 120.5683
 snippet: WWII underground headquarters and hospital with sound-and-light show

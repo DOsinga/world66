@@ -1,9 +1,11 @@
 ---
 address: 4th floor, Nagoya Plaza Hotel, Jl. Imam Bonjol, Lubuk Baja
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 1.1487
 longitude: 104.0096
 phone: +62 778 459888
-snippet: "Nagoya's biggest two-storey pub with live bands and karaoke"
+snippet: Nagoya's biggest two-storey pub with live bands and karaoke
 tags:
 - bars_and_cafes
 - nightlife

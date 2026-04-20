@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3591
 longitude: 4.8954
-snippet: "Antique dealers and art galleries near the Rijksmuseum."
+snippet: Antique dealers and art galleries near the Rijksmuseum.
 tags:
 - shopping
 title: Spiegelkwartier

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.0042
 longitude: -77.6789
 snippet: One of the world's tallest waterfalls, deep in Amazonian jungle

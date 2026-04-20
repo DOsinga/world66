@@ -1,6 +1,7 @@
 ---
-latitude: 51.474504
-longitude: 5.457911
+latitude: 52.3676
+longitude: 4.9041
+snippet: Squash courts and clubs across Amsterdam
 tags:
 - activities
 title: Squash

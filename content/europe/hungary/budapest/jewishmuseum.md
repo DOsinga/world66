@@ -1,12 +1,15 @@
 ---
 address: Dohany utca 2
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.496
 longitude: 19.06
 opening_hours: 10:00-16:00 Sun-Thu, closed Sat
+snippet: Religious art and Holocaust history in the Great Synagogue
 tags:
-- things_to_do
 - museum
-- church
+- history
+- religious
 title: Jewish Museum
 type: poi
 ---

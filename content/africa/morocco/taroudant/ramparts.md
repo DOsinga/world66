@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.4706
 longitude: -8.8779
 snippet: Six kilometres of intact Saadian-era city walls

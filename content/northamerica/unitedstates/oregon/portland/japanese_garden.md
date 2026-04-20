@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.5192
 longitude: -122.7069
+snippet: One of the most authentic Japanese gardens outside Japan
 tags:
 - things_to_do
 - landmark

@@ -1,9 +1,6 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
 latitude: -7.2117
 longitude: 109.9146
-snippet: Ancient Hindu temples and sulphur lakes on a misty volcanic plateau
 tags:
 - day_trips
 title: Dieng Plateau

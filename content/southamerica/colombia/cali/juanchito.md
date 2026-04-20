@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 3.4444
 longitude: -76.4658
+snippet: Legendary salsa district with all-night dance halls
 tags:
 - bars_and_cafes
 - neighbourhood

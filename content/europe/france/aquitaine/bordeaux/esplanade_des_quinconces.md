@@ -1,12 +1,14 @@
 ---
-title: "Esplanade des Quinconces"
-type: poi
-snippet: "Europe's largest public square with dramatic Girondins monument"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 44.8456
+longitude: -0.5735
+snippet: Europe's largest public square with dramatic Girondins monument
 tags:
 - things_to_do
 - sight
-latitude: 44.8456
-longitude: -0.5735
+title: Esplanade des Quinconces
+type: poi
 ---
 
 The largest public square in Europe at over 12 hectares. Laid out in 1818, it is anchored by the Monument aux Girondins with its dramatic fountains depicting Poseidon and statues of Montaigne and Montesquieu. In summer the esplanade hosts carnivals and concerts. The Jardin Public lies just to the northwest — a good spot for a rest or a picnic.

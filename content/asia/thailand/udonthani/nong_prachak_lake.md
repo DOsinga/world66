@@ -1,6 +1,7 @@
 ---
 latitude: 17.4218
 longitude: 102.7748
+snippet: "Udon Thani's lakeside promenade with joggers and street food"
 tags:
 - things_to_do
 title: Nong Prachak Lake

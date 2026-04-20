@@ -2,6 +2,8 @@
 address: Piazza del Santo 11
 latitude: 45.4013
 longitude: 11.8808
+snippet: Padua's great pilgrimage church, architecturally unlike anything else in
+  Italy
 tags:
 - things_to_do
 - sight

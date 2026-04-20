@@ -1,10 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.8105
 longitude: -122.4769
+snippet: Civil War fort dramatically tucked beneath the Golden Gate Bridge
 tags:
 - things_to_do
-- palace
-- bridge
+- historic_site
 title: Fort Point
 type: poi
 ---

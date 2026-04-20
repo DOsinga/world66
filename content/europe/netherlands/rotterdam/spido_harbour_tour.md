@@ -1,8 +1,11 @@
 ---
 address: Willemsplein 85
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.916
 longitude: 4.483
 phone: +31 10 275 9988
+snippet: Boat tour through Europe's largest working port
 tags:
 - things_to_do
 - landmark

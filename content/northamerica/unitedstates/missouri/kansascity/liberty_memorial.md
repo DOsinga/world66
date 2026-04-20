@@ -1,7 +1,10 @@
 ---
 address: 100 W 26th St, Kansas City, MO 64108
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 39.0836
 longitude: -94.5845
+snippet: America's only museum dedicated to World War I
 tags:
 - things_to_do
 - museum

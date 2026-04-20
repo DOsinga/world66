@@ -1,8 +1,15 @@
 ---
-title: "National Museum"
+address: 17 avenue Princesse Grace, Monaco
+latitude: 43.7383
+longitude: 7.4322
+snippet: Thousands of antique automaton dolls in a Garnier-designed villa
+tags:
+- things_to_do
+- museum
+title: National Museum of Monaco
 type: poi
-latitude: 48.143386
-longitude: 11.59115
 ---
 
-Monaco’s public museums tend to reflect the passions of its royalty but this one showcases a commoner’s collection and it is fascinating idiosyncratic and not just a little creepy. A villa designed by Charles Garnier (who also designed the Paris and Monte Carlo opera houses) is home to thousands of dolls including animated wind-up toys made in 19th-century Paris. It’s imperative that you time your visit with one of the automaton shows (times vary with the season—call in advance). The guard winds up a number of performing toys and dolls: monkeys that smoke magicians who make their own heads disappear circus performers. It is stunning (and scary) to see the absolute natural smoothness of their movements—and the attention to subtle details: Their chests heave with breath. (It’s not a place you’d want to be locked into at night.) Be sure to make it to the second floor to see the creche depicting the scene if Christ had been born in an 18th-century Neapolitan village: There are more than 200 villagers in the diorama each unique. In Monte Carlo.
+Monaco's National Museum — formally the Musée des Automates et Poupées d'Autrefois — lives in a villa designed by Charles Garnier, the architect behind the Paris Opéra and the Monte Carlo Casino. Inside are thousands of antique dolls and wind-up automaton toys made in 19th-century Paris: monkeys that smoke, magicians whose heads disappear, circus performers.
+
+The highlight is the automaton shows, when a guard winds up the mechanical figures and you watch them move with uncanny smoothness — chests heaving, gestures precise and a little unsettling. The shows run at set times that vary by season; call ahead before you visit. The second floor has an elaborate 18th-century Neapolitan crèche with over 200 individual figurines. Located on Avenue Princesse Grace.

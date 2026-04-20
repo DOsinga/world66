@@ -1,25 +1,12 @@
 ---
-latitude: 52.242998
-longitude: 4.435231
+latitude: 52.3676
+longitude: 4.8945
+snippet: Relaxed coffeeshop in central Amsterdam with a good-natured atmosphere
 tags:
+- bars_and_cafes
 - drugs
 title: Jolly Joker
 type: poi
 ---
 
-What can I say, another of my favourite haunts. peaceful atmosphere, excellent viewpoint for people watching while stoned.
-
-Beware though, the spiral staircase may seem easy to navigate while
-sober, but take care while descendin after partaking of their
-marvellous weed.
-
-Very friendly staff, hope to visit again this weekend (Feb 18th-20th Feb 2005), or Queens day weekend.
-
-Was fortunate to witness the amazing first aid skills of a
-fine looking barmaid when she rushed outside to help someone who had
-collapsed due to too much weed. She filled a glass full of sugarey
-water and rushed to the guys rescue, within minutes, he had recovered
-and was on his way...a joy to behold :-)
-
-**Contributors**
-February 14, 2005
+Jolly Joker is a small, laid-back coffeeshop in central Amsterdam. It draws a mixed crowd of locals and tourists and is known for a calm atmosphere compared to the louder spots near Dam Square. Selection is solid and staff are approachable. Note that Dutch law caps the purchase amount at 5 grams per person per visit, and coffeeshops do not permit alcohol on the premises.

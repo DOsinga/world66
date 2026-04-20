@@ -1,6 +1,7 @@
 ---
 title: "Kejetia Market"
 type: poi
+snippet: "West Africa's largest open-air market: chaotic, colourful, unmissable"
 tags:
   - things_to_do
   - market

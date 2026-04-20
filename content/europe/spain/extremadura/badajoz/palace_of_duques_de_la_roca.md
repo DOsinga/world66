@@ -1,6 +1,7 @@
 ---
 latitude: 38.8822
 longitude: -6.971
+snippet: 16th-century palace inside the Alcazaba housing Badajoz's archaeology museum
 tags:
 - things_to_do
 - museum

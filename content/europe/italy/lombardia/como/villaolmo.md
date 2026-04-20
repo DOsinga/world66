@@ -2,6 +2,7 @@
 address: Via Cantoni 1
 latitude: 45.9188
 longitude: 9.1442
+snippet: Neoclassical lakefront villa with free public gardens and rotating exhibitions
 tags:
 - things_to_do
 - architecture

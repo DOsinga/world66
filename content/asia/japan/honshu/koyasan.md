@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-14'
+  poi_cleanup: '2026-04-19'
 latitude: 34.2132
 longitude: 135.5853
 title: Koyasan

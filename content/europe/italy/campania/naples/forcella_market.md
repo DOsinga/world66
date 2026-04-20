@@ -8,6 +8,7 @@ tags:
 - shop
 - market
 - square
+snippet: Chaotic local street market between Garibaldi and Corso Umberto
 title: Forcella Market
 type: poi
 ---

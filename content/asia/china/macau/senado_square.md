@@ -1,6 +1,7 @@
 ---
 latitude: 22.1937
 longitude: 113.5401
+snippet: Wave-paved colonial square at the heart of old Macau
 tags:
 - things_to_do
 - neighbourhood

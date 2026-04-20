@@ -1,6 +1,7 @@
 ---
 latitude: -38.159
 longitude: 176.2487
+snippet: Geothermal park with Pohutu Geyser and Maori arts
 tags:
 - things_to_do
 - sight

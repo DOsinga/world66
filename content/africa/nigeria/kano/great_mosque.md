@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.9948
 longitude: 8.5176
+snippet: Landmark mosque in the Old City, spectacular during Friday prayers
 tags:
 - things_to_do
 - architecture

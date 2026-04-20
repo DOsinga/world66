@@ -2,6 +2,7 @@
 category: Street
 latitude: 52.3762
 longitude: 4.9448
+snippet: Waterfront promenade on KNSM Island with harbour views
 tags:
 - eastern_docklands
 title: Looskade

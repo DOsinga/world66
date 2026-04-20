@@ -1,9 +1,6 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 14.044
 longitude: -5.9935
-snippet: Bustling Monday market with pottery, textiles, and produce
 tags:
 - things_to_do
 - market

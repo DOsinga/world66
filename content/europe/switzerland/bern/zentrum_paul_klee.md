@@ -1,7 +1,10 @@
 ---
 address: Monument im Fruchtland 3, 3006 Bern
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 46.9378
 longitude: 7.4737
+snippet: Renzo Piano's undulating museum holding the world's largest Klee collection
 tags:
 - things_to_do
 - museum

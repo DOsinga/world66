@@ -1,6 +1,7 @@
 ---
 latitude: 11.2469
 longitude: 125.0036
+snippet: Hilltop park with sunset views over San Pedro Bay
 tags:
 - things_to_do
 - landmark

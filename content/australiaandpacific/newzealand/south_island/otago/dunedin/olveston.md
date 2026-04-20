@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -45.8686
 longitude: 170.5032
-snippet: "Edwardian time capsule house left exactly as it was"
+snippet: Edwardian time capsule house left exactly as it was
 tags:
 - things_to_do
 - museum

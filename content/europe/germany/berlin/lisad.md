@@ -1,36 +1,13 @@
 ---
-address: Rosenthaler Str. 40-41
-connections: S Hackescher Markt, U Weinmeisterstr
-latitude: 52.524042
-longitude: 13.402083
-opening_hours: Mo-Sa noon -6:30pm
-tags:
-- shopping
-- berlinmitte
 title: Lisa D
 type: poi
+snippet: "Experimental fashion boutique in the Hackesche Höfe"
+address: Rosenthaler Str. 40-41
+latitude: 52.524042
+longitude: 13.402083
+opening_hours: Mon-Sat noon-6:30pm
+tags:
+- shopping
 ---
 
-Individual fashion in the Hackesche Höfe. In courtyard you’ll find her experimental outfits and pieces from shows.
-
-type: Fashion
-
-
-
-connections: S Hackescher Markt, U Weinmeisterstr
-
-openings: Mo-Sa noon -6:30pm
-
-address: Rosenthaler Str. 40-41
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A small fashion boutique tucked into one of the courtyards of the Hackesche Höfe in Berlin-Mitte. Lisa D sells her own experimental designs alongside pieces from runway shows — bold cuts, unusual fabrics, and things you won’t find in chain stores. Worth a look if you’re browsing the Höfe anyway. Nearest transport: S Hackescher Markt or U Weinmeisterstraße.

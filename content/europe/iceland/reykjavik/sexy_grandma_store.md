@@ -4,6 +4,7 @@ email: sexy.grandma.store@gmail.com
 latitude: 64.1452
 longitude: -21.9244
 opening_hours: Mon–Sat 11:00–18:00
+snippet: "Icelandic design boutique with local designers and free coffee"
 tags:
 - shopping
 title: Sexy Grandma Store

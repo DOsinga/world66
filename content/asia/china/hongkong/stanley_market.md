@@ -2,6 +2,7 @@
 address: Stanley Market Road, Stanley
 latitude: 22.2183
 longitude: 114.2125
+snippet: Covered seaside market for silks, souvenirs, and antiques
 tags:
 - hongkongisland
 - shopping

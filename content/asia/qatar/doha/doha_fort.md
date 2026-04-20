@@ -2,6 +2,7 @@
 address: Al Bida district
 latitude: 25.2854
 longitude: 51.5319
+snippet: Restored Ottoman fort with free crafts museum
 tags:
 - things_to_do
 - museum

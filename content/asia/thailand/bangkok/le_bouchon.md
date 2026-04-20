@@ -1,9 +1,11 @@
 ---
 address: 37/17 Patpong Soi 2
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.7289
 longitude: 100.5326
 phone: +66-2-2349109
-snippet: "Cosy French bistro tucked into Patpong's neon strip"
+snippet: Cosy French bistro tucked into Patpong's neon strip
 tags:
 - eating_out
 - restaurant

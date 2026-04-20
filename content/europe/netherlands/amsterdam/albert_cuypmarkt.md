@@ -1,9 +1,13 @@
 ---
 category: Street
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3556
 longitude: 4.8952
 neighbourhood: De Pijp
+snippet: Amsterdam's largest daily street market with 300+ stalls
 tags:
+- things_to_do
 - shopping
 - de_pijp
 title: Albert Cuypmarkt

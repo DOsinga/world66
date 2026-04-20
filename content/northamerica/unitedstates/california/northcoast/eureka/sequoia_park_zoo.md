@@ -1,6 +1,7 @@
 ---
 latitude: 40.7936
 longitude: -124.1534
+snippet: "California's oldest zoo set among old-growth redwoods"
 tags:
 - things_to_do
 - landmark

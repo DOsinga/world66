@@ -1,8 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-20'
 latitude: 36.912
 longitude: 10.287
+snippet: Beachside bar-club-restaurant in Gammarth with modern vibe
 tags:
 - bars_and_cafes
 title: Le ZINC Lounge

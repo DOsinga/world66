@@ -1,6 +1,10 @@
 ---
+address: Sharah-e-Faisal, Karachi
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.895278
 longitude: 67.140833
+snippet: Military aircraft and wartime memorabilia on Sharah-e-Faisal
 tags:
 - things_to_do
 - museum

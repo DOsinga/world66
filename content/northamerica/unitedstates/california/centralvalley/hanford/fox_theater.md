@@ -1,6 +1,7 @@
 ---
 title: "Hanford Fox Theater"
 type: poi
+snippet: "Beautifully restored 1929 movie palace and live venue"
 tags:
   - things_to_do
   - architecture

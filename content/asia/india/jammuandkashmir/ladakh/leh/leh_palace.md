@@ -1,7 +1,10 @@
 ---
 address: Old Town, Leh, Ladakh
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.1659
 longitude: 77.5862
+snippet: nine-storey 17th-century palace towering over the Indus Valley
 tags:
 - things_to_do
 - landmark

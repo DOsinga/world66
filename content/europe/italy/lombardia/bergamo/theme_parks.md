@@ -1,21 +1,17 @@
 ---
 latitude: 45.44
 longitude: 10.71
+snippet: Gardaland and other theme parks on nearby Lake Garda
 tags:
 - day_trips
 - park
 title: Theme Parks
 type: poi
-url: www.mmps.it
+url: https://www.gardaland.it
 ---
 
-People come from all over Europe to go to Gardaland which is a great place for kids and their parents, and it's by the Lake of Garda. It's a small version of Disneyland. Near this theme park is Caneva Sport which is a huge water slide park including an ice rink with shows and a high diving performance - including some clowns! Mini Italia is a reproduction of Italy. Prehistory Park has great dinosaurs. You can imagine what Fantasy World is. You can get more information from the Bergamo Tourist Office.
+The area around Lake Garda, about 60km from Bergamo, has the highest concentration of theme parks in Italy — all reachable in under an hour.
 
-**Contributors**
-October 04, 2005
+Gardaland is the main draw, Italy's answer to Disneyland with roller coasters and family rides. Caneva Aquapark next door is a large water park with slides and an ice rink. Parco Giardino Sigurtà offers elaborate gardens rather than rides. Prehistorico is a small outdoor park with life-size dinosaur models — good for young children.
 
-
-
-
-
-url: www.mmps.it
+All parks are open from spring through autumn; Gardaland runs a Christmas season too. Combination tickets are sometimes available. The Bergamo tourist office can advise on current prices and transport options.

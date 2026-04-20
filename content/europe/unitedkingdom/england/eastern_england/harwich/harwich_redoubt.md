@@ -1,6 +1,7 @@
 ---
 latitude: 51.9441
 longitude: 1.2909
+snippet: Circular Napoleonic fort with summer volunteer-led tours
 tags:
 - things_to_do
 - sight

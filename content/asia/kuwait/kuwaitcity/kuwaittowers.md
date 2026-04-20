@@ -1,8 +1,10 @@
 ---
 title: "Kuwait Towers"
 type: poi
+snippet: Iconic striped towers with revolving observation deck
 tags:
   - things_to_do
+  - landmark
 latitude: 29.389921
 longitude: 48.003287
 ---

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.4411
 longitude: 5.4748
+snippet: Philips history from light bulbs to electronics in the original factory
 tags:
 - things_to_do
 - museum

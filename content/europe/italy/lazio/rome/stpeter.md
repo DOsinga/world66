@@ -5,6 +5,7 @@ latitude: 41.9013
 longitude: 12.452
 opening_hours: Basilica daily 07:00–19:00; dome 08:00–18:00 (17:00 in winter); Vatican
   Museums Tue–Sun 09:00–18:00
+snippet: Christendom's largest church, crowned by Michelangelo's dome
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

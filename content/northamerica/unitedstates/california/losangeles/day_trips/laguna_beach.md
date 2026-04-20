@@ -1,23 +1,15 @@
 ---
-title: "Laguna Beach"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 33.5427
+longitude: -117.7854
+snippet: Artsy coastal town with coves and galleries
+title: Laguna Beach
 type: poi
-address: "Laguna Beach Visitors Center, 252 Broadway, Laguna Beach"
-email: "lbvb@lagunabeachinfo.com"
-phone: "949-497-9229; 800-877-1115"
-url: "www.lagunabeachinfo.org"
 ---
 
-Breathtaking Laguna Beach literally sits on the edge of the ocean. This stunning seaside town features dozens of fascinating art galleries and delicious restaurants, and so many festivals and events you'll lose count. Art fairs, concerts, wine tastings, and dance festivals are just a few of the fun activities on the menu in Laguna Beach. Golfing, swimming, surfing, hiking, and animal watching are also popular past times here. To get to Laguna Beach, all you have to do is hop on Pacific Coast Highway (PCH) and enjoy the spectacular scenery along the way – a side trip in itself. If you want to get there fast, you can always take the freeway – but you will certainly miss out on all of the amazing scenery along historic PCH. Enjoy!
+About an hour south of Los Angeles on Pacific Coast Highway, Laguna Beach is a small coastal city with a serious art scene and some of Southern California's prettiest coves. The town has been an artists' colony since the early 1900s, and that heritage shows — there are dozens of galleries along the main strip and side streets, plus the long-running Pageant of the Masters each summer, where volunteers recreate famous paintings as living tableaux.
 
-**Contributors**
-May 20, 2008
+The coastline is the real draw, though. Unlike the wide flat beaches further north, Laguna has rocky headlands, tide pools, and small sandy coves tucked between cliffs. Thousand Steps Beach (actually about 220 steps) is a local favorite. Victoria Beach has a quirky pirate tower built into the cliff. The water is clear enough for decent snorkelling right from shore at Divers Cove and Shaw's Cove.
 
-
-
-tel: 949-497-9229; 800-877-1115
-
-url: [www.lagunabeachinfo.org](http://www.lagunabeachinfo.org)
-
-address: Laguna Beach Visitors Center, 252 Broadway, Laguna Beach
-
-email: lbvb@lagunabeachinfo.com
+Take PCH down rather than the freeway — the drive along the coast through Dana Point and past Crystal Cove State Park is half the fun. Parking in town is tight on weekends, so arrive early or use the summer trolley service that loops through the village.

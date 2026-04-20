@@ -1,15 +1,15 @@
 ---
 latitude: 7.775707
 longitude: 98.305825
+snippet: Sheltered southern beach popular with families and locals
 tags:
 - beaches
-title: Nai Harn beach
+title: Nai Harn Beach
 type: poi
 ---
 
-Situated at the southern tip of Phuket island, **Nai Harn **beach**, **is in my opinion the best family beach in **Phuket**. Its big enough and not to crowded to make frisbee and other beach games an option, the water is shallow making it safer for children and weaker swimmers and the shape of the bay shelters it from the prevailing winds and waves. There are plent of restaurants along the tree line at the back of the beach, so enjoying a snack or meal in the shade is an option, and the prices are lower than other areas as well. There isn't much accomodation nearby, so you may need a car or motorcycle to get there, but there are parking spots. Popular with the local Thai's, specially an hour or so before dusk when its cooler, its always worth a visit.
+Situated at the southern tip of Phuket, Nai Harn is one of the island's best family beaches. The bay is sheltered from prevailing winds and waves, and the water stays shallow for a good distance out, making it safer for children and weaker swimmers. The beach is big enough that it rarely feels overcrowded, even when other Phuket beaches are packed.
 
-**Contributors**
-May 28, 2006
+A line of restaurants sits under the trees at the back of the beach, offering Thai food at prices noticeably lower than the more touristy areas further north. The beach is popular with local Thais, especially in the late afternoon when the heat eases — arrive an hour or so before dusk for the best atmosphere.
 
-January 17, 2007
+There is not much accommodation within walking distance, so you will need a car or motorcycle to get here. Parking is available near the beach. The relative isolation is part of the appeal — Nai Harn feels like a quieter, more local version of Phuket's famous west coast strands.

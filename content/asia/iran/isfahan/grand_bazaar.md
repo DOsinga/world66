@@ -1,9 +1,10 @@
 ---
 latitude: 32.6616
 longitude: 51.6782
+snippet: "One of the world's longest covered bazaars, from Naqsh-e Jahan north"
 tags:
 - things_to_do
-- neighbourhood
+- market
 title: Grand Bazaar
 type: poi
 ---

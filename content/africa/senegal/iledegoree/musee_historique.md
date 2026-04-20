@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.6676
 longitude: -17.399
+snippet: Senegal's history from prehistory through the slave trade era
 tags:
-- things_to_do
 - museum
+- history
 title: Musée Historique de l'IFAN
 type: poi
 ---

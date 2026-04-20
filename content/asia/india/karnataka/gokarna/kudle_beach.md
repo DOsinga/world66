@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.5297
 longitude: 74.3173
+snippet: Sandy crescent cove a short walk from Gokarna town
 tags:
 - beaches
 title: Kudle Beach

@@ -1,7 +1,15 @@
 ---
-title: 'Jasmin Indian Restaurant'
+address: Road No. 13, Pakse
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 15.12
+longitude: 105.7979
+snippet: Affordable Indian and Pakistani food with sidewalk seating
+tags:
+- eating_out
+- restaurant
+title: Jasmin Indian Restaurant
 type: poi
-address: 'Road No. 13, Pakse'
 ---
 
-A popular Indian and Pakistani restaurant with tables on the sidewalk and inside. Good service and all the usual Indian fare, with vegetarian dishes a specialty. Affordable, with most dishes around $2-3.
+A reliable Indian and Pakistani restaurant on Road No. 13 with tables on the sidewalk and inside. The menu covers all the usual Indian fare — curries, biryanis, naan — with vegetarian dishes a particular strength. Portions are generous and most dishes cost just a few dollars. A good change of pace from Lao food.

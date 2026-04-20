@@ -1,6 +1,8 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.1592
-longitude: 129.1610
+longitude: 129.161
 snippet: Large aquarium right on Haeundae Beach
 tags:
 - things_to_do

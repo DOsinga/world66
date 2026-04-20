@@ -2,6 +2,7 @@
 address: Piazza Erbe, 37121 Verona
 latitude: 45.4431
 longitude: 10.9989
+snippet: Medieval market square on the old Roman forum
 tags:
 - things_to_do
 - landmark

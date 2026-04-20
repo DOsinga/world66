@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.0066
 longitude: -117.3298
+snippet: 1920s Spanish-Moorish mansion built by a millionaire, named after a conman
 story: The 'castle' was actually built by Chicago millionaire Albert Johnson, not
   by Death Valley Scotty — Walter Scott — whose name it bears. Scott was a charming
   con man who convinced Johnson to fund a gold mine that never produced any gold.

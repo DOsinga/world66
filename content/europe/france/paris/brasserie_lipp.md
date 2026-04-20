@@ -1,9 +1,12 @@
 ---
 address: 151 Boulevard Saint-Germain, 75006 Paris
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.853753
 longitude: 2.33241
 opening_hours: Daily 11:30am–1am
 phone: +33 1 45 48 53 91
+snippet: Alsatian brasserie on Saint-Germain, unchanged since 1880
 tags:
 - bars_and_cafes
 title: Brasserie Lipp

@@ -1,6 +1,7 @@
 ---
 latitude: 52.4124
 longitude: -1.4978
+snippet: "Independent food market and craft brewery in repurposed warehouses"
 tags:
 - eating_out
 title: FarGo Village

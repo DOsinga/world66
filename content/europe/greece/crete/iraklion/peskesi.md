@@ -1,8 +1,11 @@
 ---
 address: Kapetan Haralampi 6-8, Iraklion
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.3404
 longitude: 25.1318
 phone: +30 2810 288887
+snippet: Traditional Cretan cuisine with heirloom recipes in old Venetian building
 tags:
 - eating_out
 title: Peskesi

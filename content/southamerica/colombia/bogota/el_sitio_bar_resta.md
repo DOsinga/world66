@@ -2,6 +2,7 @@
 address: Carrera 11A No 93B-12, Parque de la 93
 latitude: 4.6704
 longitude: -74.0507
+snippet: Live music venue and restaurant at Parque de la 93
 tags:
 - bars_and_cafes
 title: El Sitio

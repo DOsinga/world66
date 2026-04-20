@@ -1,6 +1,7 @@
 ---
 latitude: 22.2867
 longitude: 114.15
+snippet: Old-Hong-Kong neighbourhood of antique shops and dried seafood streets
 tags:
 - hongkongisland
 - things_to_do

@@ -1,6 +1,7 @@
 ---
 latitude: 45.5336
 longitude: -122.6986
+snippet: Cheerful conveyor-belt sushi spot on NW 23rd Avenue
 tags:
 - eating_out
 - restaurant

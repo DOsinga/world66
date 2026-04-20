@@ -1,6 +1,7 @@
 ---
 title: "Gallery TOM"
 type: poi
+snippet: Tactile art gallery designed for blind and visually impaired visitors
 tags:
   - things_to_do
   - museum

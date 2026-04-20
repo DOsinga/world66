@@ -1,8 +1,11 @@
 ---
 address: 2 Raper Street, Surry Hills
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -33.8887
 longitude: 151.2147
 phone: 02 9225 1881
+snippet: Preserved studio-gallery of Australia's celebrated modern artist
 tags:
 - things_to_do
 - museum

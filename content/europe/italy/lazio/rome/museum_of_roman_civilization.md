@@ -1,12 +1,14 @@
 ---
 address: Piazza Giovanni Agnelli, 10 (EUR)
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8321
 longitude: 12.4781
 phone: +39 06 5926041
+snippet: Massive scale model of Imperial Rome in the EUR district
 tags:
 - things_to_do
 - museum
-- neighbourhood
 title: Museum of Roman Civilization
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 34.0142
 longitude: -118.5066
+snippet: Clifftop park with sweeping Pacific views from Palos Verdes to Malibu
 tags:
 - things_to_do
 - park

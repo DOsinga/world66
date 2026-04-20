@@ -1,6 +1,9 @@
 ---
 author: Brian Dyde
+done:
+  poi_cleanup: '2026-04-20'
 isbn: 978-0333747506
+snippet: Thorough history of Anguilla, Nevis and St. Kitts under colonial rule
 tags:
 - books
 title: 'Out of Crowded Vagueness: A History of the Islands of St. Kitts, Nevis and

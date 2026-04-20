@@ -1,11 +1,11 @@
 ---
 latitude: 41.9056
 longitude: 12.4823
+snippet: "Iconic Spanish Steps where all of Rome gathers to people-watch"
 tags:
 - things_to_do
-- church
 - square
-- neighbourhood
+- sight
 title: Piazza di Spagna
 type: poi
 ---

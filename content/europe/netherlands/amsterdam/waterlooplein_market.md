@@ -1,9 +1,12 @@
 ---
-category: Square
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3679
 longitude: 4.9011
+snippet: Daily flea market on the old Jewish quarter square since 1886
 tags:
-- waterlooplein
+- things_to_do
+- shopping
 title: Waterlooplein Market
 type: poi
 ---

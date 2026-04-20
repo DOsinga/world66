@@ -1,10 +1,11 @@
 ---
 title: "Durga Puja"
 type: poi
-latitude: 24.861786
-longitude: 89.372314
+snippet: "Bangladesh's most colourful Hindu festival celebration"
+latitude: 23.7104
+longitude: 90.4074
 ---
 
-The second most common religous group (though only 10% of the population) are Hindus. Durga Puja is the most visibly celebrated of the Hindu Festivals in Bangladesh. Though stifled a little by fears of relighous hatred in recent years it is worth visiting Hindu communities during this time to see the colourful statues of the gods, particularly the ten-armed goddess Durga.
+Hindus make up roughly 10% of Bangladesh's population, and Durga Puja is the most visibly celebrated of their festivals. During the five-day event in October, Hindu communities across the country build elaborate pandals — temporary pavilions housing brightly painted clay statues of the ten-armed goddess Durga slaying the buffalo demon Mahishasura. Dhaka's Dhakeshwari Temple area and the old town neighbourhood of Shankhari Bazaar are the best places to see the celebrations.
 
-On the final day of the celebrations the Durga statues are thrown into a river and the day is often accompanied by colourful boat races.
+On the final day, the statues are carried in procession to the nearest river and immersed in the water, accompanied by drumming, dancing, and colourful boat races. The atmosphere is festive and welcoming — visitors are generally encouraged to watch and join in.

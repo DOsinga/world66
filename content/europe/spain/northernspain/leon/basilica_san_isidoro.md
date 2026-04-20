@@ -1,6 +1,7 @@
 ---
 latitude: 42.601
 longitude: -5.5739
+snippet: "11th-century basilica with Spain's finest Romanesque royal crypt"
 story: 'The Panteón de los Reyes, the royal crypt beneath the basilica, was built
   in the 11th century as a burial place for the kings of León. Its ceiling is covered
   in some of the finest Romanesque frescoes in Europe — so well preserved that art

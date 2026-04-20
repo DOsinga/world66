@@ -1,10 +1,14 @@
 ---
 admission: US$5, audio guide US$3
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.5494
 longitude: 104.9176
 opening_hours: Daily 08:00–17:00
+snippet: Harrowing Khmer Rouge prison turned essential memorial museum
 tags:
 - things_to_do
+- museum
 title: Tuol Sleng Genocide Museum
 type: poi
 ---

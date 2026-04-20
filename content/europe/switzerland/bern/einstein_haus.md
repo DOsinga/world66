@@ -1,7 +1,10 @@
 ---
 address: Kramgasse 49, 3011 Bern
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 46.9479
 longitude: 7.451
+snippet: Apartment where Einstein developed the theory of relativity
 tags:
 - things_to_do
 - museum

@@ -1,28 +1,18 @@
 ---
-address: 24 rue de Sevres, St-Germain-des-Pres
+address: 24 rue de Sèvres, 75007 Paris
 latitude: 48.851958
 longitude: 2.329191
-phone: 01-44-39-80-00
+phone: +33 1 44 39 80 00
+snippet: "Paris's oldest department store, renowned for fashion and its vast food hall"
 tags:
 - shopping
-title: Le Bon Marche
+title: Le Bon Marché
 type: poi
 url: www.lebonmarche.fr
 ---
 
-Balenciaga, Chloe, Jean Paul Gaultier, Burberry, Yves Saint Laurent, and Dries van Noten are just of the few of the designer labels you will find at this chic department store frequented by sophisticated Parisians and fashionable celebrities. Founded in 1852, Le Bon Marche is conveniently located at 24 rue de Sevres, St-Germain-des-Pres, 01-44-39-80-00, www.lebonmarche.fr.
+Founded in 1852, Le Bon Marché is the oldest department store in Paris and one of the most pleasant to spend time in — far less frenetic than the grands magasins on the Right Bank. The main building carries a serious edit of international fashion labels, perfume, and accessories, with a calm, well-organised floor plan and unhurried staff.
 
-**Contributors**
-May 14, 2008
+The real draw for many visitors is La Grande Épicerie next door: a vast, beautifully curated food hall with fresh produce, cheese, charcuterie, prepared dishes, wine, and baked goods from across France and beyond. Worth a visit even if you're not buying clothes.
 
-type: Shopping centers and malls
-
-
-
-
-
-tel: 01-44-39-80-00
-
-url: [www.lebonmarche.fr](http://www.lebonmarche.fr)
-
-address: 24 rue de Sevres, St-Germain-des-Pres
+Located in the 7th arrondissement, a short walk from Saint-Germain-des-Prés.

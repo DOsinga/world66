@@ -1,7 +1,13 @@
 ---
 category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.5342
 longitude: 17.5835
+snippet: Archaeological trove from the birth of the Polish state
+tags:
+- things_to_do
+- museum
 title: Museum of the Origins of the Polish State
 type: poi
 ---

@@ -1,13 +1,17 @@
 ---
 address: Grand Canal, between Rialto Bridge and Ca'Foscari
+done:
+  poi_cleanup: '2026-04-20'
 email: info@pisanimoretta.com
 latitude: 45.43726
 longitude: 12.32772
 phone: +39 041 5285343
+snippet: Gothic palace on the Grand Canal with Tiepolo frescoes
 tags:
 - things_to_do
 - palace
-- bridge
+- architecture
+- history
 title: Palazzo Pisani Moretta
 type: poi
 url: www.pisanimoretta.com

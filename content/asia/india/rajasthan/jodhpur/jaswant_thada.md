@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 26.3008
 longitude: 73.0244
+snippet: Luminous marble cenotaph below Mehrangarh fort
 tags:
 - things_to_do
 - landmark

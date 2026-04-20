@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.6378
 longitude: 22.9361
 snippet: Thessaloniki's lively warehouse district turned nightlife quarter

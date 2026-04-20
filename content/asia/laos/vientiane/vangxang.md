@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 18.445411
 longitude: 102.42596
 snippet: Weathered 11th-century Mon-period Buddha statues by the roadside

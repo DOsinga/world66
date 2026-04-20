@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.5364
 longitude: -113.5186
 snippet: French-Canadian fine dining in a converted hilltop house

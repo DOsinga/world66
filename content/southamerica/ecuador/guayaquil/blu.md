@@ -1,5 +1,7 @@
 ---
 address: V.E. Estrada Avenue, Urdesa, Guayaquil
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -2.1547
 longitude: -79.9158
 snippet: Upscale international restaurant in the Urdesa neighbourhood

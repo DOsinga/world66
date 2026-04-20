@@ -1,13 +1,15 @@
 ---
-title: Mourneview Park
-type: poi
 address: Mourneview Avenue, Lurgan, County Armagh
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 54.4656
 longitude: -6.3325
 snippet: Home ground of Glenavon FC in Lurgan
 tags:
 - things_to_do
 - sport
+title: Mourneview Park
+type: poi
 url: https://www.glenavonfc.com
 ---
 

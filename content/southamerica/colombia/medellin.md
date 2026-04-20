@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
+image: medellin.jpg
+image_attribution: Aliman5040
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Christmas2004inMedell%C3%ADn.JPG
 latitude: 6.269732
 longitude: -75.60256
 score: 0.65
 title: Medellin
 type: location
-image: medellin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Christmas2004inMedell%C3%ADn.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Aliman5040
 ---
 
 Medellin is the most striking Colombian city to visit. Once the most dangerous city in the world — Pablo Escobar's Medellin cartel ran it through the late 1980s — it has transformed itself more dramatically than almost any other place on the continent. The cable cars that climb from the metro stations up the valley walls to the once-forgotten barrios are a civic symbol, but the real change is in the street: Paisas, as locals call themselves, have thrown themselves at the project of reinvention.

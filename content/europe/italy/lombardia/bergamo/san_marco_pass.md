@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 46.047194
 longitude: 9.622778
-snippet: "Alpine pass linking Bergamo to the Valtellina"
+snippet: Alpine pass linking Bergamo to the Valtellina
 tags:
 - day_trips
 title: San Marco Pass

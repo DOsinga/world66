@@ -1,8 +1,10 @@
 ---
 address: Állatkerti út 2
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.5153
 longitude: 19.0773
-snippet: "Budapest's grand Hungarian restaurant since 1894"
+snippet: Budapest's grand Hungarian restaurant since 1894
 tags:
 - eating_out
 - restaurant

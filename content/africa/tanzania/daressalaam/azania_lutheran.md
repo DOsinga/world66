@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -6.8201
 longitude: 39.2912
 snippet: Red-roofed 1898 German missionary church on the harbour front

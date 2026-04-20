@@ -1,5 +1,7 @@
 ---
 address: 1979 West 25th St.
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.484659
 longitude: -81.703
 opening_hours: 'Mon, Wed: 7AM-4PM; Fri, Sat: 7AM-6PM'

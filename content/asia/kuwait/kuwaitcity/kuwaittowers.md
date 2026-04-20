@@ -1,12 +1,14 @@
 ---
-title: "Kuwait Towers"
-type: poi
-snippet: Iconic striped towers with revolving observation deck
-tags:
-  - things_to_do
-  - landmark
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 29.389921
 longitude: 48.003287
+snippet: Iconic striped towers with revolving observation deck
+tags:
+- things_to_do
+- landmark
+title: Kuwait Towers
+type: poi
 ---
 
 The Kuwait Towers are the country's most famous landmark -- three blue-and-green striped towers on a promontory overlooking the Arabian Gulf. Built in 1979, they serve a dual function as entertainment facilities and water reservoirs.

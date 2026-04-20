@@ -1,5 +1,7 @@
 ---
 address: Corniche el Nil, opposite the World Trade Centre
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.052778
 longitude: 31.232222
 phone: +20 2 579 6511

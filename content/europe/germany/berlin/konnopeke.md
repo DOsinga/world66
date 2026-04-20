@@ -1,6 +1,8 @@
 ---
 address: Schönhauser Allee 44a
 connections: U Eberswalder Str
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.540496
 longitude: 13.412553
 snippet: Berlin's most famous currywurst stand since 1930

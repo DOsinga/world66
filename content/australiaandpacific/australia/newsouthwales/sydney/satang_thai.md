@@ -1,5 +1,7 @@
 ---
 address: Quay St, near Broadway
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -33.8836
 longitude: 151.2003
 phone: (02) 9280 0956

@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: St. George
 type: poi
+snippet: "Neighbourhood pub with quiz nights and live rock"
 ---
 
 Open Wednesday through Saturday. Quiz night on Thursdays, after-work drinks on Fridays from 16:00, live rock on Saturdays. Outdoor veranda in summer. They serve food.

@@ -1,10 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 2.442
 longitude: -76.6069
+snippet: Popayan's iconic white tower beside the cathedral
 tags:
 - things_to_do
 - landmark
-title: Clock Tower
+title: Clock Tower (Torre del Reloj)
 type: poi
 ---
 

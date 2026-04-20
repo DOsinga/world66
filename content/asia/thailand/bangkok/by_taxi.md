@@ -1,9 +1,9 @@
 ---
 latitude: 13.7563
 longitude: 100.5018
+snippet: "Practical tips for metered taxis and tuk-tuks"
 tags:
 - getting_around
-- restaurant
 title: By Taxi
 type: poi
 ---

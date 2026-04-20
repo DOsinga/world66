@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.462
 longitude: 25.375
-snippet: "16th-century monastery with stunning baroque iconostasis"
+snippet: 16th-century monastery with stunning baroque iconostasis
 tags:
 - things_to_do
 - landmark

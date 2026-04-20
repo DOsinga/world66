@@ -1,6 +1,8 @@
 ---
 address: 2500 West End Ave, Nashville, TN 37203
 admission: ~$6
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.1497
 longitude: -86.8113
 opening_hours: Tue–Sat 09:00–16:30

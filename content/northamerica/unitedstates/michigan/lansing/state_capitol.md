@@ -1,5 +1,7 @@
 ---
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.7336
 longitude: -84.5554
 snippet: Spectacular Victorian painted interior, free guided tours

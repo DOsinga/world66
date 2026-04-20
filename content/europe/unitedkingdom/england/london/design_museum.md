@@ -1,6 +1,8 @@
 ---
 address: 224-238 Kensington High Street, London W8 6AG
 admission: Free (special exhibitions charged)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.499722
 longitude: -0.200833
 opening_hours: Daily 10am-6pm

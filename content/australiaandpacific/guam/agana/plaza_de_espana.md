@@ -1,5 +1,7 @@
 ---
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.4748
 longitude: 144.7488
 snippet: Colonial-era plaza with rare surviving Spanish structures

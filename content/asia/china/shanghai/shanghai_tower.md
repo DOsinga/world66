@@ -1,6 +1,8 @@
 ---
 address: 501 Yincheng Middle Road, Lujiazui, Pudong
 category: Architecture
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.2336
 longitude: 121.5055
 neighbourhood: Pudong

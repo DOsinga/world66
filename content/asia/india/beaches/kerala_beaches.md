@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 8.381
 longitude: 76.978
 snippet: Kerala's palm-fringed coastline along the Arabian Sea

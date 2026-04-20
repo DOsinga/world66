@@ -1,5 +1,7 @@
 ---
 address: Strandpaviljoen Beach-Inn Paal 21, De Koog, Texel
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.105
 longitude: 4.735
 snippet: Quiet beach pavilion near De Muy nature reserve

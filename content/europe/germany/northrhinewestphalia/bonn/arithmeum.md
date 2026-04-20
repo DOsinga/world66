@@ -1,5 +1,7 @@
 ---
 address: Lennéstrasse 2, 53113 Bonn
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.7282
 longitude: 7.0963
 phone: +49-228-738790

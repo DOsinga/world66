@@ -1,5 +1,7 @@
 ---
 address: Angol, White Beach (near boat station 3)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.9595
 longitude: 121.9255
 phone: 036 288 5767

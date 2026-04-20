@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.5123
 longitude: -0.1249
 snippet: Seventeenth-century pub hidden in a Covent Garden alley

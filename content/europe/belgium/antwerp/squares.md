@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.2211
 longitude: 4.3997
 snippet: Historic squares anchored by guild houses and the Brabo fountain

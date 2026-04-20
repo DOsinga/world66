@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.7948
 longitude: 129.3493
 snippet: UNESCO-listed stone Buddha in an artificial grotto above the East Sea

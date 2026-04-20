@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 68.1548
 longitude: 13.9993
 snippet: Dramatic coastal scenery from Stamsund to Svolvær

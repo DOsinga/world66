@@ -1,5 +1,7 @@
 ---
 address: 22 Cortlandt Street, Lower Manhattan
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.710697
 longitude: -74.01094
 snippet: Chaotic discount designer clothing store in Lower Manhattan

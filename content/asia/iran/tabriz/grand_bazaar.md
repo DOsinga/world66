@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.0811
 longitude: 46.2919
 snippet: UNESCO-listed covered bazaar trading since the Silk Road era

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.7985
 longitude: 6.9701
 snippet: Rotating cable car to 3,466 m with full Alpine panorama

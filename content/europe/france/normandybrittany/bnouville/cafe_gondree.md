@@ -1,5 +1,7 @@
 ---
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.2432
 longitude: -0.276
 snippet: First building liberated in France on D-Day

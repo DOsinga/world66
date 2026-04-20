@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.8237
 longitude: 39.3017
 snippet: Dawn fish auction where dhows unload the night's catch

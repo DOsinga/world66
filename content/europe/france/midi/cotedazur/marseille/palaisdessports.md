@@ -1,5 +1,7 @@
 ---
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.2697
 longitude: 5.3948
 snippet: Marseille's main indoor arena for concerts and sports

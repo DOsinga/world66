@@ -1,5 +1,7 @@
 ---
 address: Via Paolo Sarpi 30, 20154 Milan
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4801
 longitude: 9.1797
 opening_hours: Mon–Sat 09:00–14:00, 17:00–21:00; closed Sun

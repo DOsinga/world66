@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.031657
 longitude: -6.835847
 snippet: Walled 12th-century citadel with blue lanes and river views

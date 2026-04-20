@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.028714
 longitude: 31.250247
 snippet: Ninth-century mosque with spiraling minaret and vast spare courtyard

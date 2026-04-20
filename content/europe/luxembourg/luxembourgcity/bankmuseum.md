@@ -1,5 +1,7 @@
 ---
 address: Place de Metz 1
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.607289
 longitude: 6.128535
 opening_hours: Mon-Fri 10-17:30

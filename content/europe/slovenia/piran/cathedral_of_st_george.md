@@ -1,5 +1,7 @@
 ---
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.5294
 longitude: 13.5672
 snippet: Hilltop cathedral with a Venetian-style bell tower and Adriatic panoramas

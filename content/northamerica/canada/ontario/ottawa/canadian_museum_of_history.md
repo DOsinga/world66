@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4302
 longitude: -75.7088
 snippet: Canada's most-visited museum with totem poles and river views

@@ -1,5 +1,7 @@
 ---
 address: Villa Ducale, Corso Umberto I
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.881
 longitude: 8.5345
 phone: 0323/30091

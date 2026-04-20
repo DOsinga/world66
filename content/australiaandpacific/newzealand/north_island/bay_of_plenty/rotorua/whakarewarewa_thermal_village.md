@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -38.1613
 longitude: 176.2514
 snippet: Living Māori village built around active geothermal vents

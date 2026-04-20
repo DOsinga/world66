@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 12.7957
 longitude: 100.9294
 snippet: Vast botanical garden with Thai cultural shows and landscaped grounds

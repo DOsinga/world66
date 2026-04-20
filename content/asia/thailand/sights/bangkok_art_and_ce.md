@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.7463
 longitude: 100.5301
 snippet: Contemporary arts hub with free exhibitions and rooftop cafes

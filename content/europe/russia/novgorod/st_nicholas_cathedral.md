@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 58.5194
 longitude: 31.2842
 opening_hours: 10am-6pm, closed Tuesday

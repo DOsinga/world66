@@ -1,6 +1,7 @@
 ---
 latitude: 7.2155
 longitude: 79.8348
+snippet: "Pre-dawn auction where outrigger canoes unload the night's catch"
 tags:
 - things_to_do
 - sight

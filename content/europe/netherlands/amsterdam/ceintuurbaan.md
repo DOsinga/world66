@@ -1,5 +1,7 @@
 ---
 category: Street
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3532
 longitude: 4.8935
 tags:

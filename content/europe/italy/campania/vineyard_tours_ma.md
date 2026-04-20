@@ -1,9 +1,12 @@
 ---
 address: Via Manfredi 75/81, Atripalda
+done:
+  poi_cleanup: '2026-04-20'
 email: maestro@mastroberardino.com
 latitude: 40.924703
 longitude: 14.830179
 phone: +39 0825 614 111
+snippet: Campania's top winery, home of Taurasi Aglianico
 tags:
 - things_to_do
 title: Mastroberardino Vineyard

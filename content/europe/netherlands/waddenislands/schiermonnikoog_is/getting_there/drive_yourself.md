@@ -1,17 +1,17 @@
 ---
-title: "Drive yourself"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 53.491
+longitude: 6.191
+snippet: Drive to Lauwersoog, then take the ferry to the car-free island
+title: Drive yourself
 type: poi
-url: "www.wpd.nl"
-latitude: 52.368455
-longitude: 4.948339
 ---
 
-In the fact sheet below, click the link to access the ferry company's detailed **routeplanner**. Two different itineraries are available:
+You cannot drive onto Schiermonnikoog — the island is completely car-free. The approach by car is to drive to the port of Lauwersoog, on the Groningen coast, and leave your vehicle there.
 
-The **Polders** route. Just give *amsterdam* in the [City] box.
+Two large car parks are available at Lauwersoog. Parking costs a few euros per day; spaces cannot be reserved and in high season you may need to allow 30 minutes or more to park and buy your ferry ticket. The car park is unmonitored, so parking is at your own risk.
 
-The **the IJsselmeer Dam** /Closing-dike/Afsluitdijk route. Give *station* in the [address] box and *amsterdam* in the [City] box.
+From Lauwersoog, Wagenborg Passagiers­diensten runs regular ferries to Schiermonnikoog. The crossing takes about 45 minutes. Timetables vary by season; check the Wagenborg website for current schedules and to book tickets in advance during busy periods.
 
-In Lauwersoog you will find two big parking lots; costs € 3,50 per day (2004). The parking area is not monitored; parking is at your own risk. Spaces cannot be reserved. *Tip*: In high season, parking your car and buying tickets will take 30 minutes or more.
-
-Minor corrections on 07 March 05
+Two driving routes to Lauwersoog from the south are commonly used: via the polders from the south, or via the Afsluitdijk (the IJsselmeer closing dike) and the northern coast road. The polder route is the simpler choice from Amsterdam or Utrecht.

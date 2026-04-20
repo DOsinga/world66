@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -27.4777
 longitude: 153.0222
+snippet: Riverside parklands with a man-made beach and galleries
 tags:
 - things_to_do
 - landmark

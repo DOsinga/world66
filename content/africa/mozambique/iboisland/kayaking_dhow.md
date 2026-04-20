@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -12.346
 longitude: 40.598
+snippet: Kayak mangrove channels or sail traditional dhows between islands
 tags:
 - things_to_do
 - sight

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.6378
 longitude: 104.0884
+snippet: Qing-dynasty pavilion and 150 bamboo varieties along the Jinjiang
 tags:
 - things_to_do
 - landmark

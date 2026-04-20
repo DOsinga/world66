@@ -1,6 +1,7 @@
 ---
 author: Alice Taylor
 isbn: 978-0892363384
+snippet: "Safavid manuscript arts across Isfahan's diverse communities"
 tags:
 - books
 title: Book Arts of Isfahan

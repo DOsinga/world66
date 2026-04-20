@@ -1,6 +1,7 @@
 ---
 latitude: 47.1395
 longitude: 9.5226
+snippet: Modern art museum in a black cube, backed by princely collection
 tags:
 - things_to_do
 - museum

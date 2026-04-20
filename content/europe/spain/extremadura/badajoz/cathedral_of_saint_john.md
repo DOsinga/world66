@@ -2,6 +2,7 @@
 address: Plaza de San Juan, s/n
 latitude: 38.8788
 longitude: -6.97
+snippet: Fortress-like 13th-century cathedral with Gothic arches
 tags:
 - things_to_do
 - landmark

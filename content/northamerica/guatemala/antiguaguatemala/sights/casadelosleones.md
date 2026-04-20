@@ -1,9 +1,14 @@
 ---
 title: "Casa de los Leones"
 type: poi
-type: "Palaces"
+tags:
+  - things_to_do
+  - landmark
+latitude: 14.5579
+longitude: -90.7339
+snippet: "Colonial mansion with stone lions flanking the portal"
 ---
 
-Named for the sculptured stone lions rampant flanking the main portal, was built before the 1717 earthquakes. As is typical of the better colonial homes, rooms are arranged around patios. Today the Casa de los Leones has been modified to serve as a hotel, La Posada de don Rodrigo, preserving some original colonial furnishings such as the heavy wooden shutters and doors. A characteristic element of colonial architecture is the corner window, which here opens into the bar of the Posada de don Rodrigo.
+Named for the sculptured stone lions flanking its main entrance, Casa de los Leones is one of the few colonial houses in Antigua that survived the devastating 1717 earthquakes. The rooms are arranged around interior patios in the traditional style of the city's grander homes, with heavy wooden shutters, thick walls, and characteristic corner windows.
 
-type: Palaces
+Today the building operates as La Posada de don Rodrigo, a hotel that preserves much of the original colonial atmosphere. Even if you're not staying there, it's worth stepping into the courtyard for a look at the architecture — and the corner window that opens into the bar is a nice detail of how colonial design gets adapted to modern use.

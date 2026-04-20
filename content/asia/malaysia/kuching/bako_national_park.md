@@ -1,6 +1,7 @@
 ---
 title: "Bako National Park"
 type: poi
+snippet: "Compact rainforest park with proboscis monkeys and coastal trails"
 tags: [things_to_do]
 latitude: 1.7333
 longitude: 110.4833

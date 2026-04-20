@@ -1,6 +1,7 @@
 ---
 title: "Bushwakker Brewpub"
 type: poi
+snippet: "Regina's favourite craft brewpub with hearty pub food"
 tags:
   - eating_out
   - brewpub

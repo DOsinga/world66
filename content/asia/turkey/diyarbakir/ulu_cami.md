@@ -1,6 +1,7 @@
 ---
 latitude: 37.9107
 longitude: 40.2318
+snippet: 1091 mosque with Syrian and Byzantine stonework, oldest in Anatolia
 tags:
 - things_to_do
 title: Ulu Cami

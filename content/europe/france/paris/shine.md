@@ -1,9 +1,11 @@
 ---
 address: 15 rue de Poitou
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.861468
 longitude: 2.363065
 phone: +33 (0)1 48 05 80 10
-snippet: "Boutique in a converted 19th-century pharmacy carrying international designers"
+snippet: Boutique in a converted 19th-century pharmacy carrying international designers
 tags:
 - shopping
 title: Shine

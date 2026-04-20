@@ -1,6 +1,7 @@
 ---
 latitude: 51.5123
 longitude: -0.1249
+snippet: Seventeenth-century pub hidden in a Covent Garden alley
 tags:
 - bars_and_cafes
 title: The Lamb and Flag

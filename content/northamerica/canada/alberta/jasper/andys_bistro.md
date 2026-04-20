@@ -1,6 +1,7 @@
 ---
 latitude: 52.8756
 longitude: -118.08
+snippet: Owner-run candlelit bistro with seasonal game and beef
 tags:
 - eating_out
 title: Andy's Bistro

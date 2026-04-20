@@ -1,8 +1,11 @@
 ---
 address: Via della Meloria 43, 00136 Rome
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.9068
 longitude: 12.4568
 opening_hours: Mon–Sat 10:00–22:00; closed Sun
+snippet: Rome's best pizza al taglio, sold by weight near the Vatican
 tags:
 - Katie Parla Rome
 - Budget Dining Rome

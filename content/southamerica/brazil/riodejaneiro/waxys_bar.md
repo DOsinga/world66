@@ -3,6 +3,7 @@ address: 71b Vinicius de Moraes, Ipanema
 latitude: -22.986
 longitude: -43.203
 phone: '22472808'
+snippet: Lively Ipanema bar with nightly live music
 tags:
 - bars_and_cafes
 - bar

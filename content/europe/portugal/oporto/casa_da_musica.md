@@ -2,6 +2,7 @@
 address: Rotunda da Boavista
 latitude: 41.157932
 longitude: -8.629136
+snippet: "Koolhaas's angular concert hall with glass walls to the city"
 tags:
 - things_to_do
 - architecture

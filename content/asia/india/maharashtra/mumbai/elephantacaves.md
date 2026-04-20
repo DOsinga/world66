@@ -1,9 +1,10 @@
 ---
 latitude: 18.96341
 longitude: 72.931359
+snippet: "UNESCO rock-cut Shiva temples on a Mumbai harbour island, with a towering Trimurti panel"
 tags:
 - things_to_do
-- church
+- temple
 title: Elephanta Caves
 type: poi
 ---

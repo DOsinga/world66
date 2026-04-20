@@ -1,6 +1,7 @@
 ---
 latitude: 43.263
 longitude: -2.935
+snippet: Norman Foster-designed metro with iconic glass canopies
 tags:
 - things_to_do
 - architecture

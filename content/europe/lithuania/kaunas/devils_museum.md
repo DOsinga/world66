@@ -1,6 +1,7 @@
 ---
 latitude: 54.899
 longitude: 23.912
+snippet: Over 3,000 devil figures from around the world
 story: 'The most notorious exhibit is a carving of Hitler and Stalin dancing over
   a carpet of Lithuanian skulls. It was created by a Lithuanian sculptor in 1974,
   while the country was still under Soviet occupation.

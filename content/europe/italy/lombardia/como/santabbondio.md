@@ -2,6 +2,7 @@
 address: Via Sant'Abbondio
 latitude: 45.8999
 longitude: 9.1476
+snippet: Superb eleventh-century Romanesque church with frescoed apse
 tags:
 - things_to_do
 - sight

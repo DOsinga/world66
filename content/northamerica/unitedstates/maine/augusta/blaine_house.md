@@ -2,6 +2,7 @@
 address: 192 State Street, Augusta, ME 04333
 latitude: 44.3094
 longitude: -69.781
+snippet: Maine governor's mansion with weekday tours of historic rooms
 tags:
 - things_to_do
 - sight

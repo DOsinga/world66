@@ -1,6 +1,7 @@
 ---
 latitude: 37.9318
 longitude: -121.696
+snippet: U-pick farms and sweet corn east of Mt. Diablo
 tags:
 - day_trips
 title: Brentwood

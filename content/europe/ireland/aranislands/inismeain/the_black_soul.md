@@ -1,6 +1,7 @@
 ---
 author: Liam O'Flaherty
 isbn: 978-0863274787
+snippet: O'Flaherty's intense novel of island passion and adultery
 tags:
 - books
 title: The Black Soul

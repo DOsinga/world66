@@ -1,8 +1,14 @@
 ---
-title: "Taktsang Monastery (Tiger's Nest)"
-type: poi
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 27.491932
 longitude: 89.363445
+snippet: Bhutan's most iconic monastery clinging to a cliff 900m above the Paro Valley
+tags:
+- things_to_do
+- sights
+title: Taktsang Monastery (Tiger's Nest)
+type: poi
 ---
 
 The most iconic sight in Bhutan: a cluster of monastery buildings clinging to a near-vertical granite cliff 900 metres above the floor of the Paro Valley. Guru Rinpoche (Padmasambhava) is believed to have flown here from Tibet on the back of a tigress in the 8th century to meditate in a cave below, introducing Tantric Buddhism to Bhutan. The monastery buildings were constructed in 1692 around that cave.

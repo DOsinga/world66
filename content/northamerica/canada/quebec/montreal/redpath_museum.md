@@ -1,5 +1,7 @@
 ---
 address: 859 rue Sherbrooke Ouest, Montréal, QC H3A 0C4
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.504471
 longitude: -73.577514
 phone: 514 398-4086

@@ -1,23 +1,15 @@
 ---
-address: Fort Lauderdale
-latitude: 26.122308
-longitude: -80.143379
+address: Fort Lauderdale, FL
+latitude: 26.1224
+longitude: -80.1373
+snippet: "Beach city 30 miles north of Miami, easily done as a day trip"
 tags:
 - day_trips
 title: Fort Lauderdale
 type: poi
-url: ci.ftlaud.fl.us
+url: "https://www.fortlauderdale.gov"
 ---
 
-Only a short 30 to 45 minute drive away, Fort Lauderdale is an excellent place to play for the day or to spend a night. Major attractions include: the Riverwalk Arts & Entertainment District, Sawgrass Recreation Park, Hugh Taylor Birch State Park, the Fort Lauderdale Antique Car Museum, Flamingo Gardens, the African-American Research Library & Cultural Center, The Museum of Discovery & Science, and the Billie Swamp Safari, to name a few. Located less than 30 miles from Miami, Fort Lauderdale is easily accessible by car (via I-95 North), bus or train. www.miamidade.gov/transit/
+Fort Lauderdale sits about 30 miles north of Miami — an easy 30 to 45 minutes by car on I-95, or reachable by Tri-Rail commuter train. It has its own distinct identity: 165 miles of inland waterways earned it the nickname "Venice of America," and the beach strip along A1A is more relaxed than South Beach.
 
-**Contributors**
-May 31, 2008
-
-
-
-
-
-url: [ci.ftlaud.fl.us](http://ci.ftlaud.fl.us/)
-
-address: Fort Lauderdale
+Worth a day trip for the Riverwalk Arts & Entertainment District, the Museum of Discovery and Science, Hugh Taylor Birch State Park, and the beach itself. Flamingo Gardens, about 20 minutes west, is good if you have kids. The Antique Car Museum is a niche but genuine attraction for enthusiasts.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.1154
 longitude: 74.8832
+snippet: Three terraced 17th-century imperial gardens on Dal Lake
 story: 'Shalimar Bagh was built by Emperor Jahangir for his wife Nur Jahan in 1619.
   Its name translates as "Abode of Love." Jahangir so loved Kashmir that he reportedly
   said on his deathbed that he wanted nothing but Kashmir.

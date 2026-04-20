@@ -1,7 +1,11 @@
 ---
+category: sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.0684
 longitude: 7.6844
 phone: (39) 011 534623
+snippet: World's second-largest collection of Egyptian antiquities
 tags:
 - things_to_do
 title: Museo Egizio

@@ -1,18 +1,11 @@
 ---
-title: "Tapu"
+author: Judy Corbalis
+done:
+  poi_cleanup: '2026-04-20'
+isbn: 978-0749386788
+snippet: Historical novel of New Zealand's first missionaries
+title: Tapu
 type: poi
-author: "Judy Corbalis"
-isbn: "978-0749386788"
-latitude: -36.984712
-longitude: 175.50161
 ---
 
-Historical novel set at the time of the first missionaries to N.Z.
-
-[](http://www.amazon.com/exec/obidos/ASIN/978-0749386788/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: Judy Corbalis
-
-isbn: 978-0749386788
+A historical novel by Judy Corbalis set during the arrival of the first Christian missionaries in New Zealand in the early nineteenth century. The story follows the collision between Maori culture and European religion through the eyes of characters on both sides. Corbalis draws on real events and locations to paint a vivid picture of a pivotal period in New Zealand's history — when the concept of tapu (sacred, forbidden) clashed with the certainties of Victorian-era Christianity.

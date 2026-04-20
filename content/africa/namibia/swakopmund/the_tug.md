@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.6797
 longitude: 14.521
+snippet: Beachfront seafood in a converted tugboat building
 tags:
 - eating_out
 title: The Tug

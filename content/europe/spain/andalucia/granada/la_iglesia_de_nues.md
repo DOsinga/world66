@@ -1,12 +1,16 @@
 ---
-title: "La Iglesia de Nuestra Señora de las Angustias"
+category: sight
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 37.1735
+longitude: -3.5988
+snippet: Ornate baroque church dedicated to Granada's patron saint
+tags:
+- things_to_do
+title: La Iglesia de Nuestra Señora de las Angustias
 type: poi
-type: "Churches and Cathedrals"
 ---
 
-The Virgen de las Angustias (the Virgen Maria, but the particular aspect of her that refers to her anguish upon the death of her son) is the much beloved patron saint of Granada. This church, dedicated to her, does not look very exciting from the outside, but peek inside for probably one of them most beautiful cathedrals that you will ever see! If you are in Granada in September, make sure to participate in the Ofrenda Floral (floral offering) for the Virgen, and in the parades and celebrations in her honor, on the last Sunday in September. Mass is held in the church every Sunday at 12:00pm, but you can go inside to look around at pretty much any time.
+The Virgen de las Angustias is Granada's beloved patron saint, and this baroque church on Carrera del Genil is her home. The plain exterior gives nothing away — step inside and you'll find one of the most lavishly decorated interiors in the city, all gold leaf, frescoes, and carved marble.
 
-**Contributors**
-October 09, 2005
-
-type: Churches and Cathedrals
+If you're in Granada in late September, the Ofrenda Floral (floral offering) and parades honoring the Virgen are among the city's most heartfelt celebrations. The church is open to visitors throughout the day.

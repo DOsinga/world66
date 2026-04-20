@@ -1,12 +1,14 @@
 ---
 address: Pier 15, The Embarcadero
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.8017
 longitude: -122.3975
 phone: (415) 528-4444
+snippet: Hands-on science museum on the Embarcadero waterfront
 tags:
 - things_to_do
 - museum
-- bar
 title: Exploratorium
 type: poi
 url: www.exploratorium.edu

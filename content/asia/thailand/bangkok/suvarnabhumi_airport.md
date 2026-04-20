@@ -1,6 +1,7 @@
 ---
 latitude: 13.69
 longitude: 100.7501
+snippet: Bangkok's main international airport with rail link to city
 tags:
 - getting_there
 title: Suvarnabhumi Airport

@@ -1,7 +1,7 @@
 ---
-category: Park
 latitude: 52.3543
 longitude: 4.8944
+snippet: De Pijp's quiet neighbourhood park, good stop after Albert Cuyp market
 tags:
 - de_pijp
 title: Sarphatipark

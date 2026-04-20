@@ -8,6 +8,7 @@ tags:
 - charlottenburg
 title: Quasimodo
 type: poi
+snippet: "Legendary basement jazz club since 1975"
 url: www.quasimodo.de
 ---
 

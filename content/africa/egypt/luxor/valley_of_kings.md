@@ -1,6 +1,7 @@
 ---
 latitude: 25.745323
 longitude: 32.604691
+snippet: "Royal tombs of the pharaohs with vivid painted burial chambers"
 tags:
 - things_to_do
 - landmark

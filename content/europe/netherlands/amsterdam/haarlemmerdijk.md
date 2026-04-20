@@ -1,8 +1,8 @@
 ---
-category: Street
 latitude: 52.3841
 longitude: 4.8844
 neighbourhood: Westerpark
+snippet: Amsterdam's best street for independent food shops
 tags:
 - shopping
 - westerpark

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.6095
 longitude: -2.449
+snippet: Working harbour with quayside pubs and an opening bridge
 tags:
 - things_to_do
 - harbour

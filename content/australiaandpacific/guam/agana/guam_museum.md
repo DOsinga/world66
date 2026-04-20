@@ -2,6 +2,7 @@
 title: "Guam Museum"
 type: poi
 category: "Museum"
+snippet: "Modern museum covering Chamorro culture and island history"
 latitude: 13.4751
 longitude: 144.7491
 ---

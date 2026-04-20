@@ -2,6 +2,7 @@
 title: "Thunderball Grotto"
 type: poi
 category: "Sight"
+snippet: "Sunlit sea cave famous from James Bond films"
 latitude: 24.1583
 longitude: -76.4386
 story: "The grotto appeared in not one but two Bond films — Thunderball (1965) and Never Say Never Again (1983) — plus Splash and Into the Blue. The name stuck from the first shoot."

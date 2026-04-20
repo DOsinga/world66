@@ -1,7 +1,8 @@
 ---
 title: "Catedral Basílica de Nuestra Señora del Rosario"
 type: poi
-category: Architecture
+snippet: "Colombia's tallest cathedral with twin neo-Gothic towers"
+tags: [things_to_do, architecture, religion, views]
 latitude: 5.0678
 longitude: -75.5173
 ---

@@ -2,6 +2,7 @@
 address: 3-14-1 Shinjuku
 latitude: 35.6919
 longitude: 139.7045
+snippet: "Premier department store with top Japanese fashion and food hall"
 tags:
 - shopping
 title: Isetan

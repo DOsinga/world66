@@ -1,24 +1,17 @@
 ---
-title: "Haggerty Farms Corn Maze Adventure"
+address: Stirling, Ontario
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 44.492
+longitude: -77.5497
+phone: (613) 395-5115
+snippet: Seasonal corn maze near Stirling with moonlight and Halloween nights
+tags:
+- things_to_do
+title: Haggerty Farms Corn Maze
 type: poi
 ---
 
-Each year we cut a maze into one of our cornfields and invite you to come out and have fun while challenging your sense of direction. Over the years, thousands of people navigated the **10,000** feet of pathway in our corn field. And we didn't have to rescue anyone ... yet.
+A family-run farm near Stirling that cuts an elaborate maze into one of its cornfields each autumn. Ten thousand feet of pathway wind through the corn — enough to keep most people genuinely turned around for an hour or more.
 
-**Moonlight Nights** 
-
-So, you want a little more challenge? Well, how about solving our corn maze in the dark? That's right, one weekend a month, nearest the full moon, we have our moonlight nights. You can try and find your way through the corn field by the light of the moon, or if you have to, you can bring your flashlights. 
-
-**Haunted Halloween Maze** 
-
-Come out and walk through a corn maze haunted with ghouls and scary monsters. Entry is $7.00 per person and refreshments are available, as always, inside the *haunted cheese factory.*
-
-Write up on 03 August 04
-
-PC: http://www.haggertyfarms.com
-
-email: scott@haggertyfarms.com
-
-address: Stirling Ontario
-
-tel: (613) 395-5115
+Special events include moonlight nights (one weekend a month near the full moon) where visitors navigate by moonlight or flashlight, and a haunted Halloween maze with costumed ghouls. Refreshments are available on site.

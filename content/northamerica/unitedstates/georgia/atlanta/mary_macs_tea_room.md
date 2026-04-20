@@ -1,9 +1,12 @@
 ---
 address: 224 Ponce De Leon Ave NE, Atlanta, GA 30308
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.772836
 longitude: -84.379942
 phone: (404) 876-1800
 price: $7–$15
+snippet: Atlanta institution since 1945 serving classic Southern soul food
 tags:
 - eatingout
 title: Mary Mac's Tea Room

@@ -1,41 +1,20 @@
 ---
-title: "Singapore Flyer"
-type: poi
-accessibility: "Promenade MRT, bus, shuttle buses"
-address: "30 Raffles Avenue Singapore 039803"
-email: "sfsales@adval.com.sg"
-opening_hours: "8:30am to 10:30pm"
-phone: "67348829"
-type: "Landmarks"
-url: "www.singaporeflyer.com.sg"
+address: 30 Raffles Avenue, Marina Bay
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 1.289438
 longitude: 103.86326
+opening_hours: Daily 8:30–22:30
+phone: +65 6734 8829
+snippet: Giant observation wheel with panoramic views over Marina Bay
+tags:
+- things_to_do
+- landmark
+title: Singapore Flyer
+type: poi
+url: www.singaporeflyer.com.sg
 ---
 
-**SINGAPORE FLYER - A MOVING EXPERIENCE AT EVERY TURN**
+At 165 metres, the Singapore Flyer was one of the world's largest observation wheels when it opened in 2008. Each air-conditioned capsule holds about 28 people and takes roughly 30 minutes to complete one full rotation. On a clear day the views extend across Marina Bay to the downtown towers, and on a very clear day you can see into Malaysia and Indonesia.
 
-Singapore Flyer, the world’s largest giant observation wheel ( www.singaporeflyer.com.sg), will be one of Asia’s most exciting and highly visible visitor attractions when it opens in March 2008.
-
-Standing at a stunning 165 metres, Singapore Flyer offers visitors remarkable scenes of the Singapore skyline: the magnificent Marina Bay, towering skyscrapers, tropical greenery, and the bright lights and non-stop action against the beautiful skies.
-
-Strategically located at Marina Bay, it sits astride a three-storey Retail Terminal with an exciting array of retail and F&B choices. A central atrium opens out to a lush tropical rainforest, while an open-air theatre hosting live performances will draw crowds from all over the island. Adding to the buzz of sights, sounds and activities will be a 210-metre long waterfront dining promenade.
-
-Indeed a must-see experience set to sparkle Singapore’s skyline!
-
-www.singaporeflyer.com.sg
-
-type: Landmarks
-
-
-
-accessibility: Promenade MRT, bus, shuttle buses
-
-tel: 67348829
-
-openingHours: 8:30am to 10:30pm
-
-url: [www.singaporeflyer.com.sg](http://www.singaporeflyer.com.sg )
-
-address: 30 Raffles Avenue Singapore 039803
-
-email:
+Located right on the waterfront at Marina Bay, it's an easy walk from Promenade MRT. Go in the late afternoon if you want to catch both the daytime skyline and the city lights after dark.

@@ -1,23 +1,15 @@
 ---
 address: Piazza Mercato delle Scarpe
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.703092
 longitude: 9.665254
+snippet: Panoramic two-floor bar at the top funicular station in Città Alta
 tags:
 - bars_and_cafes
 - bar
-- market
-- square
 title: Bar Funicolare
 type: poi
 ---
 
-With a grandious panorama of the lower town from the outdoor balcony or from indoors, this two storey bar located within the funicular stop at the top of the funicular to Città Alta has a casual atmosphere at times with music and different things to eat and drink.
-
-**Contributors**
-May 19, 2006
-
-
-
-
-
-address: Piazza Mercato delle Scarpe
+Sitting right inside the upper funicular station at Piazza Mercato delle Scarpe, this two-floor bar has a generous outdoor balcony with views down over the lower town. It's a natural stop before or after exploring the hilltop old city — coffee in the morning, Aperol spritz in the evening.

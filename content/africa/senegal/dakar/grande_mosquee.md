@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.6672
 longitude: -17.4328
+snippet: Green-domed mosque with 67-metre minaret rising over the Medina district
 tags:
 - things_to_do
 - sight

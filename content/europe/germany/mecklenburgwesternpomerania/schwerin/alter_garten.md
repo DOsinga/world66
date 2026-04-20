@@ -1,9 +1,6 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 53.6258
 longitude: 11.4159
-snippet: Grand classicist square facing Lake Schwerin
 tags:
 - things_to_do
 - sight

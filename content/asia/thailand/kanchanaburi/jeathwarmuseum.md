@@ -1,7 +1,8 @@
 ---
 title: "JEATH War Museum"
 type: poi
-tags: [things_to_do]
+snippet: Reconstructed POW camp documenting the Death Railway's construction
+tags: [things_to_do, museum]
 latitude: 14.0049
 longitude: 99.5498
 ---

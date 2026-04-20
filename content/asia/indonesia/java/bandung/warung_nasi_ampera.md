@@ -1,6 +1,7 @@
 ---
 latitude: -6.9219
 longitude: 107.6095
+snippet: Beloved local chain for banana-leaf Sundanese rice plates
 tags:
 - eating_out
 title: Warung Nasi Ampera

@@ -1,8 +1,10 @@
 ---
 latitude: 20.051667
 longitude: 102.2175
+snippet: "Riverside limestone caves filled with thousands of Buddha statues"
 tags:
-- aroundluangprabang
+- things_to_do
+- landmark
 title: Pak Ou Caves
 type: poi
 ---

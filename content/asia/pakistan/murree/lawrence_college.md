@@ -1,6 +1,7 @@
 ---
 latitude: 33.9078
 longitude: 73.3886
+snippet: Gothic-revival British-era boarding school on the pine-covered ridge
 tags:
 - things_to_do
 - architecture

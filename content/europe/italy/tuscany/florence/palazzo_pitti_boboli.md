@@ -4,6 +4,7 @@ admission: €16 full; gardens included; free first Sun of month
 latitude: 43.7648
 longitude: 11.2501
 opening_hours: Tue–Sun 08:15–18:30; closed Mon
+snippet: Medici palace with Raphael and Titian, plus monumental Italian gardens
 tags:
 - 3 Days in Florence
 - things_to_do

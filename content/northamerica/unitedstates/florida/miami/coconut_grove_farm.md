@@ -1,29 +1,14 @@
 ---
-address: 3300 Grand Avenue
-email: Raw@GlaserOrganicFarms.com
-latitude: 25.727727
-longitude: -80.247289
-phone: 305-238-7747
+address: 3300 Grand Avenue, Coconut Grove
+latitude: 25.7277
+longitude: -80.2473
+neighbourhood: Coconut Grove
 tags:
 - shopping
+- coconut_grove
+- market
 title: Coconut Grove Farmers Market
-type: Markets
-url: www.glaserorganicfarms.com
+type: poi
 ---
 
-If you want the freshest foods produce the city of Miami has to offer, head over to the Coconut Grove Farmers Market at Grand Avenue and Margaret Street. The market, which sells organically grown locally grown produce and foods that you can eat on the go, has been around since 1977. Expect to find several dozen vendors selling everything from vegetables and fruit to cakes, herbs, spices, and muffins.
-
-**Contributors**
-June 01, 2008
-
-type: Markets
-
-
-
-tel: 305-238-7747
-
-url: [www.glaserorganicfarms.com](http://www.glaserorganicfarms.com)
-
-address: 3300 Grand Avenue
-
-email: Raw@GlaserOrganicFarms.com
+Every Saturday morning, this open-air market at Grand Avenue and Margaret Street fills with vendors selling locally grown organic produce, fresh juices, baked goods, and prepared foods. It has been running since 1977 and is one of the oldest farmers markets in South Florida.

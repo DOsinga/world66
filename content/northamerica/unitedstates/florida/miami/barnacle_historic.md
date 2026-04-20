@@ -1,21 +1,19 @@
 ---
-address: '3'
-latitude: 39.548248
-longitude: -91.153628
+address: 3485 Main Highway, Coconut Grove
+latitude: 25.7249
+longitude: -80.2421
+neighbourhood: Coconut Grove
 tags:
 - things_to_do
-- landmark
+- coconut_grove
+- sight
+- park
+- historic_house
 title: Barnacle Historic State Park
-type: Other
+type: poi
 ---
 
-Featuring beautiful views of Biscayne Bay and Old Florida, Barnacle Historic State Park is an excellent place to spend the day sightseeing or relaxing. Activities and points of interest include: Miami’s oldest home complete with original furnishings, Yoga by the Sea every Wednesday night from 6:00-7:30 p.m., and special Moonlight concerts and dances
+Tucked behind a hammock of hardwood trees on Biscayne Bay, The Barnacle is Miami's oldest house still standing on its original site. Built in 1891 by Commodore Ralph Munroe, the house was designed to catch bay breezes and withstand hurricanes — and it has survived every one since. The grounds are a quiet escape from Coconut Grove's shopping streets, with shaded trails down to the waterfront.
 
-**Contributors**
-May 31, 2008
-
-type: Other
-
-
-
-address: 3
+story: >
+  Munroe raised the entire house one storey in 1908 to add a new ground floor, a remarkable feat of early engineering. The original structure sits intact on top.

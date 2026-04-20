@@ -12,6 +12,7 @@ story: 'During a medieval siege, the knight Erasmus of Lueg held out for over a 
   legend says, while using the latrine.
 
   '
+snippet: Castle built into a 123-metre cliff above a cave system
 title: Predjama Castle
 type: poi
 ---

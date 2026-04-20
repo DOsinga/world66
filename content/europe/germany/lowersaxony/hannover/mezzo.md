@@ -1,6 +1,8 @@
 ---
 title: "Mezzo"
 type: poi
+snippet: "All-day cafe-bar anchoring Hannover's nightlife strip"
+tags: [bars_and_cafes]
 address: "Lister Meile 4, 30161 Hannover"
 opening_hours: "Sun-Thu 09:00-02:00, Fri-Sat 09:00-03:00"
 phone: "+49 511 31 49 66"

@@ -1,8 +1,10 @@
 ---
 address: Veemarkt 13
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.2228
-longitude: 4.4010
-snippet: "Late Gothic church with Baroque interior and Rubens paintings"
+longitude: 4.401
+snippet: Late Gothic church with Baroque interior and Rubens paintings
 tags:
 - things_to_do
 - church

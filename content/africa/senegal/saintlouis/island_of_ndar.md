@@ -1,6 +1,7 @@
 ---
 latitude: 16.0228
 longitude: -16.492
+snippet: UNESCO colonial island with ochre streets and faded grandeur
 tags:
 - things_to_do
 - neighbourhood

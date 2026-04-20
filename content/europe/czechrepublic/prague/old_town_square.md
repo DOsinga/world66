@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.087445
 longitude: 14.420971
+snippet: Medieval square with the Astronomical Clock and Tyn Church
 tags:
 - things_to_do
 - landmark

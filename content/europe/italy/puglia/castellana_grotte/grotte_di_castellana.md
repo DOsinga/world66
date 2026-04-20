@@ -1,6 +1,7 @@
 ---
 title: "Grotte di Castellana"
 type: poi
+snippet: "Four-kilometre cave system ending in a glowing white chamber"
 tags:
   - things_to_do
   - sight

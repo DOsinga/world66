@@ -1,12 +1,16 @@
 ---
-title: "Ledra Street shopping area"
-type: poi
-tags:
-  - shopping
-  - shopping_center
-url: "www.e-ledra.com"
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.1705
 longitude: 33.3633
+snippet: Pedestrian shopping street crossing Nicosia's old city
+tags:
+- shopping
+- things_to_do
+title: Ledra Street
+type: poi
 ---
 
-Ledra street and its surrounding areas is a beautiful shopping area within the old city of Nicosia, mostly kept for pedestrians. There are all sorts of shops ranging from antiques and books to shoes, women clothing and jewellery. One can find large department stores with the latest in cosmetics, clothes and music. You will also find small specialty shops selling arts and crafts, hand made jewellery, souvenirs, etc. For more information you can visit www.e-ledra.com where you can find information about the shops, their unique product offerings and promotions, restaurants, museums, churches and transportation. Even though the area is unfortunately physically divided by barbed wire and sandbags since 1963 www.e-ledra.com virtually reunites this shopping area of around 300 shops. Prior to your visit to the area you can use the **active map** provided to locate a shop, a restaurant, a parking lot or a place of interest and find information on how to cross from south to north and vice versa. You can even buy on-line.
+Nicosia's main pedestrian shopping street runs through the heart of the old walled city. The mix ranges from international chains to small independent shops selling handmade jewellery, leather goods, antiques, and Cypriot crafts. Cafes and restaurants line the side streets.
+
+The street's most notable feature is the Ledra Street crossing point, where you can walk between the Greek Cypriot south and Turkish Cypriot north through a checkpoint in the UN buffer zone. It's a surreal experience — one moment you're browsing shops, the next you're passing through passport control into a different world. The crossing is straightforward and free; just bring your passport.

@@ -1,6 +1,7 @@
 ---
 latitude: 33.7702
 longitude: -118.1857
+snippet: "Only US museum dedicated to contemporary Latin American art"
 tags:
 - things_to_do
 - museum

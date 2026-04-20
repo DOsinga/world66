@@ -1,7 +1,13 @@
 ---
-tags: [things_to_do, museum]
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.963
 longitude: 4.7843
+snippet: Waterfront lifeboat museum honouring coxswain Dorus Rijkers' 189 North Sea
+  rescues
+tags:
+- things_to_do
+- museum
 title: Reddingsmuseum Dorus Rijkers
 type: poi
 ---

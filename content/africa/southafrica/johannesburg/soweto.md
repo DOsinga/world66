@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -26.2485
 longitude: 27.854
+snippet: Apartheid's epicentre, now a vibrant township to explore
 tags:
 - things_to_do
 title: Soweto

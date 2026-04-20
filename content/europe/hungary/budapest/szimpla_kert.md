@@ -2,6 +2,7 @@
 address: Kazinczy utca 14
 latitude: 47.4969
 longitude: 19.0633
+snippet: "The original ruin bar that launched Budapest's nightlife scene"
 tags:
 - bars_and_cafes
 - bar

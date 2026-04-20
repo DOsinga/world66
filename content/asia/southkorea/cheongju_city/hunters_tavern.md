@@ -1,6 +1,10 @@
 ---
 latitude: 36.6394
 longitude: 127.4891
+snippet: "Spacious downtown bar with pool table and cocktail shows"
+tags:
+- bars_and_cafes
+- bar
 title: Hunter's Tavern
 type: poi
 ---

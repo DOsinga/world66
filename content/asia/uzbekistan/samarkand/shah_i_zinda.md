@@ -1,6 +1,7 @@
 ---
 latitude: 39.6622
 longitude: 66.9879
+snippet: "Avenue of exquisitely tiled mausoleums climbing a hillside"
 story: The name means 'The Living King' — legend holds that Qusam ibn Abbas, a cousin
   of the Prophet Muhammad, was beheaded here but picked up his head and walked into
   a well, where he still lives.

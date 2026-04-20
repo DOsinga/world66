@@ -1,6 +1,7 @@
 ---
 latitude: 21.1722
 longitude: 94.8597
+snippet: "Bagan's finest temple, symmetrical and gilded since 1105"
 tags:
 - things_to_do
 - landmark

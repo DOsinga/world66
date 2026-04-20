@@ -1,8 +1,11 @@
 ---
 address: 26 Brougham Street, Edinburgh EH3 9JH
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.943897
 longitude: -3.201422
 phone: 0131 221 9997
+snippet: No-nonsense cask ale pub in a converted parsonage
 tags:
 - bars_and_cafes
 - bar

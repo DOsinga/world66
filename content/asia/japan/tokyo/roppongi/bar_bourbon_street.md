@@ -3,6 +3,7 @@ address: 7-8-16 Roppongi, Minato-ku
 latitude: 35.664248
 longitude: 139.727927
 phone: 03 5786 2887
+snippet: "Intimate blues bar with free live music nightly"
 tags:
 - bars_and_cafes
 - bar

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.8762
 longitude: -6.9713
+snippet: Contemporary art museum built over a Franco-era prison
 tags:
 - things_to_do
 - museum

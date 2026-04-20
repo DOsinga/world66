@@ -1,6 +1,7 @@
 ---
 title: "Castara Bay"
 type: poi
+snippet: "Unspoilt twin bays with village life and good snorkelling"
 tags:
   - beaches
   - beach

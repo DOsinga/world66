@@ -1,8 +1,12 @@
 ---
 address: Rua Barao da Torre, 334 - Ipanema
+category: Nightlife
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.984
 longitude: -43.199
 phone: 2247-8220
+snippet: Two-floor Ipanema club, hip hop downstairs, lounge upstairs
 tags:
 - bars_and_cafes
 - bar

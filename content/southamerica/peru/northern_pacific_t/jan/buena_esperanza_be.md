@@ -1,9 +1,14 @@
 ---
-title: "Buena Esperanza Beach"
-type: poi
-tags: [day_trips, beach]
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -5.6778
 longitude: -78.7744
+snippet: Riverside beach on the Huancabamba, a short colectivo from Jaén
+tags:
+- day_trips
+- beach
+title: Buena Esperanza Beach
+type: poi
 ---
 
 More an afternoon trip than a day trip, you can go to a riverside beach pretty easily. Buena Esperanza at the Rio Huancabamba is a good example of that. At the bus terminal on the main boulevard out of town (direction [Chiclayo](/southamerica/peru/chiclayo) – [Chachapoyas](/southamerica/peru/chachapoyas)), you can either take a colectivo car (2.5 soles) or a combi minibus (2 soles) to Buena Esperanza.

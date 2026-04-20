@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -23.017591
 longitude: -43.424242
+snippet: Rio's longest beach, 18km of uncrowded surf-friendly sand
 tags:
 - beaches
 - beach

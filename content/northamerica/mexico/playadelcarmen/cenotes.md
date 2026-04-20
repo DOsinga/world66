@@ -1,13 +1,17 @@
 ---
-title: "Cenote Diving and Snorkelling"
-type: poi
-tags:
-  - things_to_do
-  - diving
-  - snorkelling
-  - nature
-latitude: 20.3500
+category: Sight
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 20.35
 longitude: -87.2667
+snippet: Crystal cavern sinkholes with some of the world's finest cave diving
+tags:
+- things_to_do
+- diving
+- snorkelling
+- nature
+title: Cenote Diving and Snorkelling
+type: poi
 ---
 
 The Yucatan peninsula is riddled with cenotes — freshwater sinkholes formed where the limestone bedrock has collapsed into the underground river system below. The cenotes around Playa del Carmen, particularly Dos Ojos and El Gran Cenote (both near Tulum, about 60 km south), offer some of the world's most extraordinary diving and snorkelling: crystalline water in caverns and cavern systems with stalactites, haloclines where fresh and salt water meet, and passages extending for dozens of kilometres. Dive shops in Playa del Carmen organise daily trips to the main cenote sites.

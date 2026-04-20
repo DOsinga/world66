@@ -1,9 +1,11 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 13.7401
 longitude: 100.5107
+snippet: Gold traders, temples, and legendary street food on Yaowarat
 tags:
 - things_to_do
-- church
 title: Chinatown
 type: poi
 ---

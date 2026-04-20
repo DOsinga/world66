@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - square
 - theatre
+snippet: "Elegant 19th-century opera house hosting the Donizetti Festival"
 title: Teatro Donizetti
 type: poi
 url: www.teatrodonizetti.it

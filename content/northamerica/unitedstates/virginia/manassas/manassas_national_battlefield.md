@@ -11,6 +11,7 @@ story: 'The First Battle of Bull Run on 21 July 1861 drew Washington socialites 
 tags:
 - things_to_do
 - sight
+snippet: Civil War battlefield where the myth of a short war died
 title: Manassas National Battlefield Park
 type: poi
 url: https://www.nps.gov/mana

@@ -1,7 +1,10 @@
 ---
 address: Viale Marconi 1
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.9117
 longitude: 9.1501
+snippet: Lakefront temple housing Volta's original battery instruments
 tags:
 - things_to_do
 - museum

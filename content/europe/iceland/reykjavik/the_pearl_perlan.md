@@ -1,9 +1,12 @@
 ---
 address: Varmahlíð 1, Öskjuhlíð
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 64.1289
 longitude: -21.9192
 opening_hours: 09:00–22:00 daily
 phone: +354 562 0200
+snippet: Glass dome on a hill with the best panoramic views of Reykjavik
 tags:
 - things_to_do
 - landmark

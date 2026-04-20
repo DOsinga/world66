@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.3693
 longitude: -88.8046
+snippet: Dramatic Lake Superior peninsula with Ontario's finest views
 tags:
 - things_to_do
 - landmark

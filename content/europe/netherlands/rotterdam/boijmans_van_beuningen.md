@@ -1,7 +1,10 @@
 ---
 address: Museumpark 18-20
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.9138
 longitude: 4.472
+snippet: Rotterdam's major art museum, from Bosch to modern design
 tags:
 - things_to_do
 - museum

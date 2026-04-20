@@ -1,5 +1,8 @@
 ---
-title: "World66 Blog"
+done:
+  poi_cleanup: '2026-04-19'
+snippet: Archive of World66 blog posts from 2004-2005
+title: World66 Blog
 type: poi
 ---
 

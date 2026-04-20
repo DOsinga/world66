@@ -1,9 +1,12 @@
 ---
 address: 114 W. Lafayette Blvd, Detroit, MI 48226
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.3314
 longitude: -83.0484
 phone: (313) 961-7758
 price: Under $10
+snippet: Iconic 24-hour chili dog joint since 1917
 tags:
 - eating_out
 - restaurant

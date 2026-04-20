@@ -1,8 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-19'
 latitude: 28.371406
 longitude: -81.548959
+snippet: Disney's international and future-themed park
 tags:
 - things_to_do
 - landmark

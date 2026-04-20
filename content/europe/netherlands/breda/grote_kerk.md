@@ -1,6 +1,7 @@
 ---
 latitude: 51.5886
 longitude: 4.776
+snippet: "Brabantine Gothic church with Nassau royal tombs"
 tags:
 - things_to_do
 - landmark

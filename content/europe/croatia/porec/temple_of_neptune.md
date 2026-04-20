@@ -1,6 +1,7 @@
 ---
 latitude: 45.2283
 longitude: 13.5901
+snippet: "Roman temple ruins in the park above Marafor Square"
 tags:
 - things_to_do
 - landmark

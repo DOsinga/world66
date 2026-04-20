@@ -4,6 +4,7 @@ longitude: -4.4666
 tags:
 - things_to_do
 - museum
+snippet: "Clifftop home where Dylan Thomas wrote his final works"
 title: Dylan Thomas Boathouse
 type: poi
 ---

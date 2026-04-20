@@ -1,6 +1,7 @@
 ---
 title: "Starzz"
 type: poi
+snippet: "Late-night waterfront club with dancehall and local sounds"
 tags:
   - bars_and_cafes
   - bar

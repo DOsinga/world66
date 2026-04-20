@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.6029
 longitude: -122.5382
+snippet: Clear reservoir with swimming, kayaking, and waterfall hikes.
 tags:
 - things_to_do
 - nature

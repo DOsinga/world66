@@ -1,6 +1,7 @@
 ---
 latitude: 30.3536
 longitude: -84.2072
+snippet: 16-mile paved trail from Tallahassee to the Gulf coast
 tags:
 - things_to_do
 - sight

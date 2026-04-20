@@ -1,6 +1,7 @@
 ---
 title: "Telegraph Avenue"
 type: poi
+snippet: "Berkeley's student strip of bookshops, vendors, and cafes"
 tags:
   - things_to_do
   - neighbourhood

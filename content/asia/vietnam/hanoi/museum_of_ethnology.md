@@ -1,9 +1,13 @@
 ---
 address: Nguyen Van Huyen Road, Cau Giay
 admission: 40,000 VND
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 21.0411
 longitude: 105.7984
 opening_hours: Tue–Sun 08:30–17:30; closed Mon
+snippet: Hanoi's best museum, with full-scale traditional houses from all 54 ethnic
+  groups
 tags:
 - things_to_do
 - museum

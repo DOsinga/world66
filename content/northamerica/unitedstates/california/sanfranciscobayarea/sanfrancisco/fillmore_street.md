@@ -2,6 +2,7 @@
 address: Fillmore St, between Jackson St and Golden Gate Ave
 latitude: 37.7969
 longitude: -122.4303
+snippet: Diverse street spanning Pacific Heights boutiques to the jazz-history Western Addition
 tags:
 - things_to_do
 - cafe

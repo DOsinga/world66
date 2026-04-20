@@ -1,9 +1,10 @@
 ---
-title: "Albanian Escape"
+author: Agnes Jensen Mangerich,As Told to Rosemary L...
+isbn: 0813121094
+snippet: True story of US Army nurses behind enemy lines in WWII Albania
+subject: history
+title: Albanian Escape
 type: poi
-author: "Agnes Jensen Mangerich,As Told to Rosemary L..."
-isbn: "0813121094"
-subject: "history"
 ---
 
 The True Story of U.S. Army Nurses behind Enemy Lines

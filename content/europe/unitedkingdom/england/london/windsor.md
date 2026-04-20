@@ -5,6 +5,7 @@ latitude: 51.483789
 longitude: -0.604042
 opening_hours: Daily 10am-5:15pm (varies by season, check website)
 phone: +44 303 123 7334
+snippet: Oldest and largest occupied castle in the world
 tags:
 - day_trips
 - church

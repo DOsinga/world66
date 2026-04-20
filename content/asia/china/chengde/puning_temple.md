@@ -1,6 +1,7 @@
 ---
 latitude: 41.0107
 longitude: 117.935
+snippet: Qing-era temple with the world's tallest wooden Guanyin statue
 story: The 22-metre wooden Guanyin statue inside the main hall took years to carve
   from five types of wood. She has 42 arms and is said to watch over all sentient
   beings simultaneously — one face for each direction.

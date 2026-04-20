@@ -1,6 +1,7 @@
 ---
 latitude: 37.7371
 longitude: -25.6602
+snippet: 16th-century fortress and military museum on the seafront
 story: The fort was built in the late 16th century to defend against pirate raids
   — a real threat in the Azores, which sat astride the main Atlantic trade routes.
   Spanish gold fleets returning from the Americas regularly stopped here to resupply,

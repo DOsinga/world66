@@ -1,6 +1,7 @@
 ---
 latitude: 17.4318
 longitude: 103.1842
+snippet: UNESCO-listed prehistoric bronzes and painted pottery
 story: 'The site was discovered by accident in 1966 when Stephen Young, a Harvard
   student doing fieldwork in the area, tripped on a tree root and looked down to find
   ancient pottery sticking out of the ground. What followed became one of the most

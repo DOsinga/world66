@@ -2,6 +2,7 @@
 address: 16 Cony Street, Augusta, ME 04330
 latitude: 44.314
 longitude: -69.774
+snippet: Oldest surviving wooden fort in New England, built 1754
 tags:
 - things_to_do
 - sight

@@ -3,6 +3,7 @@ address: 9635 Little Santa Monica Blvd., Beverly Hills 90210
 latitude: 34.0718
 longitude: -118.4015
 phone: +1-310-274-8765
+snippet: The bakery that launched the gourmet cupcake craze
 tags:
 - restaurants
 title: Sprinkles Cupcakes

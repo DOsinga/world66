@@ -1,6 +1,7 @@
 ---
 latitude: 31.5111
 longitude: -9.7733
+snippet: Morocco's busiest sardine port with blue boats and quayside grills
 tags:
 - things_to_do
 - landmark

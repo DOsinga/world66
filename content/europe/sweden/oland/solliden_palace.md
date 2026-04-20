@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 56.8631
 longitude: 16.653
+snippet: Royal summer residence with beautiful public gardens
 tags:
 - things_to_do
 - sight

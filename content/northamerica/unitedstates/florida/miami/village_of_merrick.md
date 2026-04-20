@@ -1,7 +1,7 @@
 ---
 address: 358 San Lorenzo Avenue, Coral Gables
-latitude: 25.7315
-longitude: -80.2601
+latitude: 25.7312
+longitude: -80.2597
 neighbourhood: Coral Gables
 tags:
 - shopping

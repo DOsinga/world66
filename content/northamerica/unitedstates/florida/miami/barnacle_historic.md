@@ -1,7 +1,7 @@
 ---
 address: 3485 Main Highway, Coconut Grove
-latitude: 25.7271
-longitude: -80.2416
+latitude: 25.7249
+longitude: -80.2421
 neighbourhood: Coconut Grove
 tags:
 - things_to_do

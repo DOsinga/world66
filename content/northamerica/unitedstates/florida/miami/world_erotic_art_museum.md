@@ -1,7 +1,7 @@
 ---
 address: 1205 Washington Avenue, Miami Beach
-latitude: 25.783
-longitude: -80.1343
+latitude: 25.7833
+longitude: -80.1321
 neighbourhood: South Beach
 tags:
 - things_to_do

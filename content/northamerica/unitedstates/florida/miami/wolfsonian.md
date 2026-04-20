@@ -1,7 +1,7 @@
 ---
 address: 1001 Washington Avenue, Miami Beach
-latitude: 25.7802
-longitude: -80.135
+latitude: 25.7808
+longitude: -80.1326
 neighbourhood: South Beach
 tags:
 - things_to_do

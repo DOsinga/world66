@@ -1,6 +1,6 @@
 ---
-latitude: 25.8101
-longitude: -80.1993
+latitude: 25.804
+longitude: -80.199
 tags:
 - things_to_do
 - neighbourhood

@@ -1,7 +1,7 @@
 ---
 address: 2100 Collins Avenue, Miami Beach
-latitude: 25.7977
-longitude: -80.1302
+latitude: 25.7974
+longitude: -80.13
 neighbourhood: South Beach
 tags:
 - things_to_do

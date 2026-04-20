@@ -1,7 +1,7 @@
 ---
 address: 4013 Douglas Road, Coconut Grove
-latitude: 25.7135
-longitude: -80.2501
+latitude: 25.7147
+longitude: -80.2497
 neighbourhood: Coconut Grove
 tags:
 - things_to_do

@@ -1,7 +1,7 @@
 ---
 address: 3500 Main Highway, Coconut Grove
-latitude: 25.7277
-longitude: -80.2413
+latitude: 25.726
+longitude: -80.2449
 neighbourhood: Coconut Grove
 tags:
 - things_to_do

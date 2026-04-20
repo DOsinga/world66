@@ -1,7 +1,7 @@
 ---
 address: 2701 De Soto Boulevard, Coral Gables
-latitude: 25.7494
-longitude: -80.2737
+latitude: 25.7461
+longitude: -80.2742
 neighbourhood: Coral Gables
 tags:
 - things_to_do

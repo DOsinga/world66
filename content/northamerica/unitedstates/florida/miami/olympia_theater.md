@@ -1,7 +1,7 @@
 ---
 address: 174 East Flagler Street
-latitude: 25.7743
-longitude: -80.1916
+latitude: 25.7742
+longitude: -80.1905
 tags:
 - things_to_do
 - architecture

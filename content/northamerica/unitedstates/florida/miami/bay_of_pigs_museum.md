@@ -1,7 +1,7 @@
 ---
 address: 1821 SW 9th Street
-latitude: 25.7631
-longitude: -80.2218
+latitude: 25.765
+longitude: -80.2251
 neighbourhood: Little Havana
 tags:
 - things_to_do

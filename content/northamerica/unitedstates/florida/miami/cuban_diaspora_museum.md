@@ -1,7 +1,7 @@
 ---
 address: 1200 Coral Way
-latitude: 25.7558
-longitude: -80.1964
+latitude: 25.7508
+longitude: -80.2143
 tags:
 - things_to_do
 - museum

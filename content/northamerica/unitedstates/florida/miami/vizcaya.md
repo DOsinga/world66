@@ -1,6 +1,6 @@
 ---
 address: 3251 South Miami Avenue
-latitude: 25.7444
+latitude: 25.7436
 longitude: -80.2103
 neighbourhood: Coconut Grove
 tags:

@@ -1,7 +1,7 @@
 ---
 address: Ocean Drive, Miami Beach
-latitude: 25.7811
-longitude: -80.1308
+latitude: 25.7858
+longitude: -80.1342
 neighbourhood: South Beach
 tags:
 - things_to_do

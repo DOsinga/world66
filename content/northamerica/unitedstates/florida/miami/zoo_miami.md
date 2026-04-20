@@ -1,7 +1,7 @@
 ---
 address: 12400 SW 152nd Street
-latitude: 25.6101
-longitude: -80.3987
+latitude: 25.61
+longitude: -80.4
 tags:
 - things_to_do
 - sight

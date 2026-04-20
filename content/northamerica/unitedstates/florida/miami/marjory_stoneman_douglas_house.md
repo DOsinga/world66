@@ -1,7 +1,7 @@
 ---
 address: 3744 Stewart Avenue, Coconut Grove
-latitude: 25.7272
-longitude: -80.2426
+latitude: 25.7111
+longitude: -80.2536
 neighbourhood: Coconut Grove
 tags:
 - things_to_do

@@ -1,7 +1,7 @@
 ---
 address: 55 SW 17th Road
-latitude: 25.7619
-longitude: -80.198
+latitude: 25.759
+longitude: -80.196
 neighbourhood: Brickell
 tags:
 - things_to_do

@@ -1,7 +1,7 @@
 ---
 address: 1116 Ocean Drive, Miami Beach
-latitude: 25.781
-longitude: -80.1302
+latitude: 25.782
+longitude: -80.1306
 neighbourhood: South Beach
 tags:
 - things_to_do

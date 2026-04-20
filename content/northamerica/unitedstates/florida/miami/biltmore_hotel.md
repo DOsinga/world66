@@ -1,7 +1,7 @@
 ---
 address: 1200 Anastasia Avenue, Coral Gables
-latitude: 25.7409
-longitude: -80.2777
+latitude: 25.7411
+longitude: -80.2792
 neighbourhood: Coral Gables
 tags:
 - things_to_do

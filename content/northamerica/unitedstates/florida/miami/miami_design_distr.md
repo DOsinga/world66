@@ -1,7 +1,7 @@
 ---
 address: NE 2nd Avenue at NE 40th Street
-latitude: 25.8127
-longitude: -80.1912
+latitude: 25.8167
+longitude: -80.2
 tags:
 - shopping
 - gallery

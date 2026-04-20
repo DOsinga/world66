@@ -1,7 +1,7 @@
 ---
 address: 1933-1945 Meridian Avenue, Miami Beach
-latitude: 25.7936
-longitude: -80.1325
+latitude: 25.7955
+longitude: -80.1362
 neighbourhood: South Beach
 tags:
 - things_to_do

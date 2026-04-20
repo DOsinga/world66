@@ -1,7 +1,7 @@
 ---
 address: 12450 SW 152nd Street
-latitude: 25.6103
-longitude: -80.3958
+latitude: 25.6172
+longitude: -80.4007
 tags:
 - things_to_do
 - museum

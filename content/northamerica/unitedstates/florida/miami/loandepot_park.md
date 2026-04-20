@@ -1,7 +1,7 @@
 ---
 address: 501 Marlins Way
 latitude: 25.7781
-longitude: -80.2196
+longitude: -80.2197
 neighbourhood: Little Havana
 tags:
 - things_to_do

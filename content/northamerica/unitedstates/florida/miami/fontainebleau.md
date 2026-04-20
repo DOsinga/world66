@@ -1,7 +1,7 @@
 ---
 address: 4441 Collins Avenue, Miami Beach
-latitude: 25.8082
-longitude: -80.1218
+latitude: 25.8181
+longitude: -80.1222
 tags:
 - things_to_do
 - architecture

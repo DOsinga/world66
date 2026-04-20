@@ -1,7 +1,7 @@
 ---
 address: 40001 State Road 9336, Homestead
-latitude: 25.2866
-longitude: -80.8987
+latitude: 25.3125
+longitude: -80.6875
 tags:
 - things_to_do
 - sight

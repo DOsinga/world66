@@ -1,6 +1,7 @@
 ---
 latitude: 49.435292
 longitude: 11.116332
+snippet: "Vast unfinished complex from the Nazi rallies of the 1930s"
 tags:
 - things_to_do
 - landmark

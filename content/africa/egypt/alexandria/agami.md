@@ -1,6 +1,7 @@
 ---
 latitude: 31.140556
 longitude: 29.785278
+snippet: "Quieter beach resort west of Alexandria with cleaner sand"
 tags:
 - beaches
 - sight

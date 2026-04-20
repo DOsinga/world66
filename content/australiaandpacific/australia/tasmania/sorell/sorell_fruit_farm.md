@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -42.7841
 longitude: 147.7041
 snippet: Pick-your-own berries and stone fruit in season

@@ -1,7 +1,10 @@
 ---
 address: 8 Place Championnet
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.1891
 longitude: 5.7245
+snippet: terrace cafe known for fruit mousse and cannelés
 tags:
 - bars_and_cafes
 title: Jack Juliard

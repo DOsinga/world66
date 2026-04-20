@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.2796
 longitude: -119.2954
+snippet: Father Serra's ninth and final California mission
 tags:
 - things_to_do
 - church

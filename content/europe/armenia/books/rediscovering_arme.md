@@ -1,27 +1,15 @@
 ---
-title: "Rediscovering Armenia Guidebook"
+author: Raffi Kojian, Brady Kiesling
+done:
+  poi_cleanup: '2026-04-20'
+isbn: '9994101218'
+snippet: practical guidebook with topographic maps and monument histories
+tags:
+- books
+title: Rediscovering Armenia Guidebook
 type: poi
-author: "Raffi Kojian, Brady Kiesling"
-isbn: "9994101218"
 ---
 
-This book, gives a good introduction to the Armenia, and has great
-topographic road maps and numerous black and white photos. The detailed
-text gives background on virtually any monument you may visit, and
-directions on how to get to them. This book doesn't give much
-information on accommodations and public transport options, instead it
-has directions for independent travelers, great information on what to
-see, and historical background on those sites.
+A thorough, independently produced guidebook covering Armenia's historical monuments, churches, and archaeological sites. The strength is in the detail: virtually every monument gets background text explaining its history, and the topographic road maps are genuinely useful for independent drivers navigating the countryside. Black and white photos throughout.
 
-For sale in all the bookstores in Yerevan, as well as Vernissage, buy also available for free on Armeniapedia.org
-
-**Contributors**
-November 11, 2008
-
-[](http://www.amazon.com/exec/obidos/ASIN/9994101218/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: Raffi Kojian, Brady Kiesling
-
-isbn: 9994101218
+Don't expect hotel listings or public transport schedules -- this is a guide for people with their own wheels who want to understand what they're looking at. Available in Yerevan bookshops and at the Vernissage market, or free online at Armeniapedia.org.

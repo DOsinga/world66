@@ -1,7 +1,10 @@
 ---
 address: Paseo Colón 125, Lima Centro
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -12.060486
 longitude: -77.037023
+snippet: 3,000 years of Peruvian art in an Eiffel-designed pavilion
 tags:
 - things_to_do
 - museum

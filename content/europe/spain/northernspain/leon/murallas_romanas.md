@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.6007
 longitude: -5.5722
+snippet: layered Roman and medieval walls ringing the old quarter
 tags:
 - things_to_do
 - landmark

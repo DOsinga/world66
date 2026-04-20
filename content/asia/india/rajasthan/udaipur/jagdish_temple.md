@@ -1,8 +1,11 @@
 ---
 address: Jagdish Chowk, Old City, Udaipur
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 24.5774
 longitude: 73.6839
 opening_hours: Daily 05:00–14:00 and 16:00–22:00
+snippet: richly carved 1651 Vishnu temple in the old city
 tags:
 - things_to_do
 - landmark

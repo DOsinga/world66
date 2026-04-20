@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 54.899
 longitude: 23.8866
+snippet: Ruined 14th-century fortress at the confluence of two rivers
 tags:
 - things_to_do
 - landmark

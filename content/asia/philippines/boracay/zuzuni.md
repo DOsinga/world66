@@ -4,6 +4,7 @@ latitude: 11.97
 longitude: 121.922
 tags:
 - eating_out
+snippet: Excellent Greek restaurant with beachside tables on White Beach
 title: Zuzuni
 type: poi
 ---

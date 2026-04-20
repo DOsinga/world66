@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 8.3393
 longitude: 80.3896
+snippet: Ancient rock temple with exquisite carved stone lovers
 tags:
 - things_to_do
 - sight

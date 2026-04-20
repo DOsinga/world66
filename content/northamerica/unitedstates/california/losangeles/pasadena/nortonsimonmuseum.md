@@ -1,7 +1,11 @@
 ---
 address: 411 W Colorado Blvd, Pasadena, CA 91105
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.1474
 longitude: -118.158
+snippet: World-class European and Asian art collection, quieter alternative to the
+  Getty
 tags:
 - things_to_do
 - museum

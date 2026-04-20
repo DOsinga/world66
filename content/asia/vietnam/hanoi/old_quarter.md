@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 21.03492
 longitude: 105.852144
+snippet: Medieval trading streets still clustered by craft and product
 tags:
 - things_to_do
 - neighbourhood

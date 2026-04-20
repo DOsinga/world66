@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.6707
 longitude: -1.0025
+snippet: Upmarket rocky coastline with sheltered coves west of Oran
 tags:
 - beaches
 - beach

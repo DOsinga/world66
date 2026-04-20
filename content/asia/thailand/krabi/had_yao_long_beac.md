@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 7.960259
 longitude: 98.958956
+snippet: Quiet undeveloped beach in Krabi's rural south
 tags:
 - beaches
 - landmark

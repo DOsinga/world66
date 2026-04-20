@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 8.01
 longitude: 98.838
+snippet: Cliff-backed peninsula reached only by long-tail boat
 tags:
 - beaches
 - landmark

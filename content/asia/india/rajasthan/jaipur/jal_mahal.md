@@ -1,7 +1,10 @@
 ---
 address: Amer Road, Jal Mahal, Jaipur
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 26.953
 longitude: 75.8462
+snippet: 18th-century pleasure palace floating in Man Sagar Lake
 tags:
 - things_to_do
 - landmark

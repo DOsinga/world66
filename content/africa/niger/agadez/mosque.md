@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 16.9716
 longitude: 7.9905
-snippet: "UNESCO-listed 16th-century mud-brick mosque with a 27-meter minaret"
+snippet: UNESCO-listed 16th-century mud-brick mosque with a 27-meter minaret
 tags:
 - things_to_do
 title: Grande Mosquée

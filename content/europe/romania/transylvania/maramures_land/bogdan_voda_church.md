@@ -1,6 +1,7 @@
 ---
 title: "Bogdan Vodă Church"
 type: poi
+snippet: UNESCO-listed 1718 wooden church with painted interior
 tags: [things_to_do, church]
 latitude: 47.6948
 longitude: 24.2955

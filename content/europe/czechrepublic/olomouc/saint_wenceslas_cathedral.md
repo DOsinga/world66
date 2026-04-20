@@ -1,6 +1,7 @@
 ---
 latitude: 49.596
 longitude: 17.2514
+snippet: Gothic cathedral and seat of the Archbishop of Olomouc
 tags:
 - things_to_do
 - sight

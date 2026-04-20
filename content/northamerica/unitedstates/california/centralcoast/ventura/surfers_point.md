@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.2647
 longitude: -119.305
 snippet: Ventura's best surf break with a scenic beachfront path

@@ -1,6 +1,7 @@
 ---
 latitude: 19.3618
 longitude: 98.9718
+snippet: Community arts centre with studios, theatre, and Gooseberry Café
 tags:
 - things_to_do
 - landmark

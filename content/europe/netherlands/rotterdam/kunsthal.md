@@ -1,7 +1,10 @@
 ---
 address: Westzeedijk 341
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.912
 longitude: 4.473
+snippet: Koolhaas-designed exhibition hall with no permanent collection
 tags:
 - things_to_do
 - museum

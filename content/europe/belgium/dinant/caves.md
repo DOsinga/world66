@@ -1,6 +1,7 @@
 ---
 latitude: 50.2560
 longitude: 4.9150
+snippet: Underground waterfalls and stalactites near the station
 tags: [things_to_do, cave, nature]
 title: La Merveilleuse
 type: poi

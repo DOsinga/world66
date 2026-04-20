@@ -1,10 +1,11 @@
 ---
 title: "Bouchon de Hackl"
 type: poi
-address: "7 Oriente 403"
+address: "7 Oriente 403, Puebla"
 phone: "01 (222) 403 63 09"
 latitude: 19.0433
 longitude: -98.1961
+snippet: "European-style bakery and restaurant near the antique market, seasonal menu"
 tags:
   - eating_out
   - restaurant

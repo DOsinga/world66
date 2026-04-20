@@ -1,10 +1,13 @@
 ---
 address: 6101 East Van Buren Street Phoenix, AZ 85008
+done:
+  poi_cleanup: '2026-04-19'
 email: Webmaster@Hallofflame.org
 latitude: 33.447645
 longitude: -111.953311
 opening_hours: 9a-5p M-Sa, noon-4p Su
 phone: +1 602 275 3473
+snippet: World's largest firefighting museum, antique trucks
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.134099
 longitude: -118.321652
+snippet: Iconic 1923 hillside letters, best viewed from Griffith Observatory
 tags:
 - things_to_do
 - sights

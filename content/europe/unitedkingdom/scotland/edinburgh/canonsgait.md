@@ -1,8 +1,11 @@
 ---
 address: 232 Canongate, Edinburgh EH8 8DQ
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.950774
 longitude: -3.182425
 phone: 0131 556 4481
+snippet: Unpretentious Royal Mile pub with live folk and comedy in the basement
 tags:
 - bars_and_cafes
 - old_town

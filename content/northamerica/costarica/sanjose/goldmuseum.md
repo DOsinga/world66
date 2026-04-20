@@ -3,6 +3,7 @@ address: Calle 5, Plaza de la Cultura, San José
 latitude: 9.933
 longitude: -84.0786
 opening_hours: Tue–Sun 10:00–16:30
+snippet: Central America's finest pre-Columbian gold collection underground
 tags:
 - things_to_do
 - museum

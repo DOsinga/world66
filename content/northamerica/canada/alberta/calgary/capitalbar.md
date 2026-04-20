@@ -1,17 +1,12 @@
 ---
-latitude: 45.963259
-longitude: -66.644127
+latitude: 51.0472
+longitude: -114.0681
+snippet: Downtown bar and nightclub in Gulf Canada Square
 tags:
 - eating_out
-- restaurant
-- square
 - bar
-- club
-title: Capital Bar .
+title: Capital Bar
 type: poi
 ---
 
-Located in Gulf Canada Square, the menu includes Greek salad and Louisiana hot wings, Italian roast duck and Australian lamb dijonaise for entrées. Nightclub after dark. Open Mon to Wed 11:30 am - mid, Thur and Fri to 2 am and Sat 11 am - 6 pm. 
- 
- Tel: 1 403 216-1355 
- Address: 105, 401 - 9 Ave SW Calgary Alberta
+A downtown bar and nightclub in Gulf Canada Square on 9th Avenue SW, Capital Bar served an eclectic menu spanning Greek salads and Louisiana wings to Italian roast duck and Australian lamb. After dark it turned into a nightclub. A reliable if unspectacular choice for drinks and a bite in the downtown core.

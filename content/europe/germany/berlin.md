@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: berlin.jpg
 image_attribution: Norbert Nagel
 image_license: CC BY-SA 3.0

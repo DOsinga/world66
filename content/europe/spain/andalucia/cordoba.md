@@ -1,7 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: cordoba.jpg
 image_attribution: Jose María Ligero Loarte
 image_license: CC BY-SA 4.0

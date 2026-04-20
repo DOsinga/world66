@@ -1,6 +1,7 @@
 ---
 latitude: -6.7701
 longitude: -79.8378
+snippet: Sprawling market with a famous witches' market section
 tags:
 - things_to_do
 - sight

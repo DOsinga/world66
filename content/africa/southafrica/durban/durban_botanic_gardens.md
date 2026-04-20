@@ -1,6 +1,7 @@
 ---
 latitude: -29.8458
 longitude: 31.0072
+snippet: Africa's oldest surviving botanic garden, founded in 1849
 tags:
 - things_to_do
 - landmark

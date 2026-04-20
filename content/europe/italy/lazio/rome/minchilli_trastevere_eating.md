@@ -1,4 +1,7 @@
 ---
+latitude: 41.8893
+longitude: 12.47
+snippet: Food writer's personal guide to eating in Trastevere
 tags:
 - Eating in Trastevere
 - day_guides

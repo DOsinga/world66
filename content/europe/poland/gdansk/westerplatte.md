@@ -1,6 +1,7 @@
 ---
 latitude: 54.4038
 longitude: 18.6683
+snippet: Where World War II began, now a solemn memorial
 tags:
 - things_to_do
 - landmark

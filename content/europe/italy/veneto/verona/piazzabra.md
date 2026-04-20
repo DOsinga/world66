@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.43828
 longitude: 10.993242
-snippet: "Verona's grand central square beside the Arena"
+snippet: Verona's grand central square beside the Arena
 tags:
 - things_to_do
 - landmark

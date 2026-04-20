@@ -5,6 +5,7 @@ story: King Anawrahta is said to have placed a sacred tooth relic of the Buddha 
   the back of a white elephant and ordered it to walk until it stopped of its own
   accord. Where the elephant halted, he built the Shwezigon. The elephant stopped
   here, at what is now Nyaung-U.
+snippet: Gold-domed prototype for all Burmese stupas, completed 1102
 tags:
 - things_to_do
 - landmark

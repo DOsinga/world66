@@ -5,6 +5,7 @@ latitude: 52.518647
 longitude: 13.295397
 opening_hours: Tue-Sun 10am-6pm
 phone: +49 30 32690600
+snippet: Art nouveau and art deco collection opposite Charlottenburg Palace
 tags:
 - things_to_do
 - museum

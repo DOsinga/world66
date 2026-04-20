@@ -1,8 +1,11 @@
 ---
 address: Parque de Castrelos, Vigo
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.2133
 longitude: -8.7296
 phone: (986) 295070
+snippet: Art and archaeology in a mansion set in Castrelos Park
 tags:
 - things_to_do
 - museum

@@ -1,7 +1,10 @@
 ---
 address: Kongsgårdsgata 2, 7013 Trondheim
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 63.4265
 longitude: 10.3969
+snippet: Scandinavia's oldest secular building, beside the cathedral
 tags:
 - things_to_do
 - landmark

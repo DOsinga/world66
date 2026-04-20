@@ -1,6 +1,7 @@
 ---
 latitude: 51.5052
 longitude: -0.0918
+snippet: "Pioneer of London's specialty coffee scene"
 tags:
 - bars_and_cafes
 title: Monmouth Coffee

@@ -1,6 +1,7 @@
 ---
 title: "Livre Service Rabat S.A."
 type: poi
+snippet: "Large multilingual bookshop with Moroccan literature and travel guides"
 tags:
   - shopping
   - bookshop

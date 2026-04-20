@@ -3,6 +3,7 @@ address: Torstraße 20, 06110 Halle (Saale)
 latitude: 51.4835
 longitude: 11.9742
 phone: +49 345 290 3888
+snippet: "Industrial-themed tavern in a former smithy with beer garden"
 tags:
 - eating_out
 title: Lokalität Spätschicht

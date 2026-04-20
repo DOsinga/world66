@@ -1,46 +1,19 @@
 ---
-title: "Moen Jo Daro"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 27.3242
+longitude: 68.1385
+snippet: Ruins of a 4,500-year-old Indus Valley city
+tags:
+- history
+title: Mohenjo-daro
 type: poi
-accessibility: "Air, road & Rail"
-address: "Suite 702 Panorama Center I Fatima Jinnah Road"
-email: "panhwar@gmail.com"
-opening_hours: "9-8"
-phone: "92215218098"
-type: "Hotspots"
-url: "www.travel-culture.com"
 ---
 
-**Moen Jo daro is the site of 5000 years **old Indus civilization. It is located 400 kilometers from Karachi and 26 Kilometers from the town of Larkana.
+Mohenjo-daro is one of the most important archaeological sites in the world -- the remains of a planned city built around 2500 BCE by the Indus Valley civilisation, contemporary with ancient Egypt and Mesopotamia. The site lies about 28 km from Larkana in Sindh province.
 
-There a 4 main archelogical areas to see in Moen Jo daro. SD are which was the administrative area, DK area which was rich residential area, VS area which was poor residential area and HR area which was the Industerial area.
+What survives is remarkably sophisticated: a grid street plan, a large public bath (the Great Bath), covered drainage systems, and clearly defined residential and administrative quarters. The citadel mound and lower town give a vivid sense of urban life four and a half thousand years ago.
 
-You can reach Moen Jo Daro by air from Karachi there are 3 flights a week to Moen Jo daro. You cal also take an overnight train from karachi to Moen Jo daro.
+There is a small museum at the site with pottery, seals, and other artefacts found during excavation. The famous Dancing Girl bronze and the Priest-King sculpture are in the National Museum in Karachi, but good replicas are on display here.
 
-There is a rest house and a small hotel in Moen Jo Daro.
-
-The favorable season is from September to may.
-
-More Info can be had at http://www.travel-culture.com
-
-**Contributors**
-September 01, 2007
-
-September 25, 2007
-
-type: Hotspots
-
-
-
-
-
-accessibility: Air, road & Rail
-
-tel: 92215218098
-
-openingHours: 9-8
-
-url: [www.travel-culture.com](http://www.travel-culture.com)
-
-address: Suite 702 Panorama Center I Fatima Jinnah Road
-
-email: panhwar@gmail.com
+The site is a UNESCO World Heritage Site. Visiting is best between October and March, when the Sindh heat is bearable. You can reach Larkana by train from Karachi (overnight) or by domestic flight. From Larkana, the site is a short drive. Basic accommodation is available at a rest house near the ruins.

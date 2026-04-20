@@ -7,6 +7,7 @@ phone: +1 602 268 1581
 tags:
 - things_to_do
 - palace
+snippet: Eccentric 18-room castle built from granite, bottles, and desert debris
 title: Mystery Castle
 type: poi
 ---

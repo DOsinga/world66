@@ -3,6 +3,7 @@ address: 1157 Orange Street, Redlands, CA
 latitude: 34.068063
 longitude: -117.182769
 phone: 909-793-3333
+snippet: "6,000 pieces of American glassware in a 1905 Victorian home"
 tags:
 - things_to_do
 - museum

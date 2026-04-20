@@ -4,6 +4,7 @@ longitude: 14.5114
 tags:
 - things_to_do
 - architecture
+snippet: "Neo-Gothic Protestant cathedral funded by Queen Adelaide"
 title: St Paul's Anglican Cathedral
 type: poi
 ---

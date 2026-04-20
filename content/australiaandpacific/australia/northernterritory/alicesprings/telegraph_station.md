@@ -1,6 +1,7 @@
 ---
 latitude: -23.6817
 longitude: 133.8769
+snippet: Historic 1872 station that gave Alice Springs its name
 tags:
 - things_to_do
 - sight

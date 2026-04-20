@@ -1,8 +1,10 @@
 ---
 latitude: 7.2018
 longitude: 100.5976
+snippet: Southern Thai artefacts in a Sino-Portuguese mansion
 tags:
 - things_to_do
+- museum
 title: Songkhla National Museum
 type: poi
 ---

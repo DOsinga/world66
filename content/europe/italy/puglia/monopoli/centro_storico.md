@@ -1,6 +1,7 @@
 ---
 title: "Centro Storico"
 type: poi
+snippet: Whitewashed lanes and a lively old fishing harbour
 tags: [things_to_do, neighbourhood]
 latitude: 40.9527
 longitude: 17.2990

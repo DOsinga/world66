@@ -1,6 +1,7 @@
 ---
 latitude: 38.881
 longitude: -6.9705
+snippet: Restored Mudéjar-arched square below the Alcazaba walls
 tags:
 - things_to_do
 - landmark

@@ -1,7 +1,10 @@
 ---
 title: "Georgian Bay Islands National Park"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - nature
+snippet: "Boat-access island park rich in reptiles and amphibians"
 latitude: 44.8667
 longitude: -79.8833
 ---

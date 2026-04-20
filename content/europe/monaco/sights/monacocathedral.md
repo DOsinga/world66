@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.7311
 longitude: 7.4218
-snippet: "Romanesque cathedral with princely tombs in Monaco-Ville"
+snippet: Romanesque cathedral with princely tombs in Monaco-Ville
 tags:
 - things_to_do
 - landmark

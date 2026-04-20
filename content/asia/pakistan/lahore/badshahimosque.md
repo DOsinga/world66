@@ -1,7 +1,10 @@
 ---
 title: "Badshahi Mosque"
 type: poi
-category: "Sight"
+snippet: "Aurangzeb's monumental 1673 Mughal mosque"
+tags:
+  - things_to_do
+  - landmark
 latitude: 31.588126
 longitude: 74.309353
 ---

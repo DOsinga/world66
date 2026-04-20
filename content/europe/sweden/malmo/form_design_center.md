@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.6048
 longitude: 13.0019
-snippet: "Free Scandinavian design exhibitions in historic grain warehouses"
+snippet: Free Scandinavian design exhibitions in historic grain warehouses
 tags:
 - things_to_do
 - museum

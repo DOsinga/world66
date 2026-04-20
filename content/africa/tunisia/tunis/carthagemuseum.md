@@ -1,6 +1,7 @@
 ---
 latitude: 36.8528
 longitude: 10.3234
+snippet: "Punic and Roman artefacts on Byrsa Hill"
 tags:
 - things_to_do
 - museum

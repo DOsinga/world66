@@ -1,8 +1,10 @@
 ---
 address: Off Constantia Road, Wynberg
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -34.030377
 longitude: 18.417646
-snippet: "Cape Town's oldest wine estate with manor house museum"
+snippet: Cape Town's oldest wine estate with manor house museum
 tags:
 - things_to_do
 - landmark

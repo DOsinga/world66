@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 25.719956
 longitude: 32.601441
-snippet: "Simple West Bank eatery near Medinet Habu temple"
+snippet: Simple West Bank eatery near Medinet Habu temple
 tags:
 - eating_out
 title: Happy Habou

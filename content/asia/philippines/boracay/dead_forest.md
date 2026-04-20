@@ -1,6 +1,7 @@
 ---
 latitude: 11.953
 longitude: 121.9305
+snippet: Eerie bleached tree skeletons standing in the shallows
 tags:
 - things_to_do
 - landmark

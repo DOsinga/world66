@@ -1,8 +1,11 @@
 ---
 address: Piazza Venezia, 00186 Rome
 admission: Free (exterior); rooftop lift €7
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8963
 longitude: 12.4823
+snippet: Rome's monumental crossroads with panoramic rooftop views
 tags:
 - things_to_do
 - palace

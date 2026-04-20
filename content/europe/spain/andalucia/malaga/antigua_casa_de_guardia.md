@@ -2,6 +2,7 @@
 address: Alameda Principal, 18
 latitude: 36.7188
 longitude: -4.4226
+snippet: Málaga's oldest tavern, standing since 1840, wine chalked on the bar
 tags:
 - bars_and_cafes
 title: Antigua Casa de Guardia

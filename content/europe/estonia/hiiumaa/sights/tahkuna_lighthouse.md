@@ -1,23 +1,22 @@
 ---
-title: "Tahkuna lighthouse"
+title: "Tahkuna Lighthouse"
 type: poi
-accessibility: "on opening hours"
-address: "tahkuna village, Hiiumaa"
-opening_hours: "Tue - Sun 10-19 (1.may to 15. sept)"
-phone: "0037253415285"
-type: "Landmarks"
+tags:
+- things_to_do
+- landmark
+- story
+snippet: "Paris-built iron lighthouse, possibly erected on the wrong cape"
+address: "Tahkuna village, Hiiumaa"
+opening_hours: "Tue–Sun 10:00–19:00 (May 1 – Sep 15)"
+phone: "+372 534 15285"
+latitude: 59.0903
+longitude: 22.5856
 ---
 
-The Tahkuna lighthouse has been continously serving as a navigational beacon here for over 100 years. It was built in Paris in 1874 and stands over 40 meters tall. If you would like to go to the top, it is usually open or you can get the key from the lighthouse keeper.Tahkuna lighthouse was brought to Hiiumaa by freighter along with its sister lighthouse that now stands on the western tip of Hiiumaa. It is believed that the two lighthouses were switched around and placed in the wrong locations by mistake. The Tahkuna lighthouse, which is slightly taller, should have been put in the west bacause it is the the first beacon ships would see coming from Europe. The slightly shorter Ristna lighthouse should have been erected in Tahkuna. The lighthouses warn ships away from the dangerous shallow areas off the northwest coast of Hiiumaa. This area is called Neckmansgrund and has claimed hundreds of ships over the past several centuries. These shipwrecks, though tragic, were a great economic benefit for the local population who made quite a profit off of salvaging the wrecks and rescuing passengers. The Tahkuna area was also the scene of a brief battle between German and Russian troops in World War Two. A dramatic memorial dedicated to the Russian troops who resisted the German takeover is next to the road a few hundred meters before the lighthouse. The Russian army constructed an elaborate network of gun emplacements and bunkers here in an effort to prevent a German takeover of the island in 1941. The German attack was expected to come from the north by sea and so the Russians placed their guns so they could fire at ships in the Baltic Sea. Unfortunately for them, the Germans landed near Emmaste in the southwest. After overcoming slight resistance, they moved rapidly north until they encountered the main force in Tahkuna. The Germans quickly overpowered the surprised Russians and some 2,000 of the soldiers were taken prisoner. The official Soviet version of this event tells that the Soviets fought to the last man and the last Russian defender climbed to the top of the lighthouse and continued to fire at the advancing Germans. Finally, after his ammunition ran out he flung himself from the lighthouse, preferring death to capture by the Germans.
+Tahkuna lighthouse stands over 40 metres tall on the northern tip of Hiiumaa, an iron tower built in Paris in 1874 and shipped to Estonia by freighter. Its sister lighthouse, Ristna, was delivered at the same time and placed on the western tip of the island. Local legend insists the two were switched by mistake — Tahkuna, the taller of the pair, should logically have gone west, where it would be the first beacon ships saw coming from Europe. Instead the shorter Ristna ended up there.
 
-type: Landmarks
+Both lighthouses warn ships away from Neckmansgrund, the treacherous shallows off Hiiumaa's northwest coast. Hundreds of ships have gone down here over the centuries. The wrecks were tragic but profitable for islanders, who made a living salvaging cargo and rescuing passengers.
 
+The area around Tahkuna also saw a brief, sharp battle in 1941. Soviet troops built gun emplacements and bunkers facing north, expecting a German naval assault. The Germans landed instead at Emmaste in the southwest, swept north, and overwhelmed the defenders. Some 2,000 Soviet soldiers were captured. A dramatic memorial to the fallen stands along the road a few hundred metres before the lighthouse.
 
-
-accessibility: on opening hours
-
-tel: 0037253415285
-
-openingHours: Tue - Sun 10-19 (1.may to 15. sept)
-
-address: tahkuna village, Hiiumaa
+You can climb to the top during opening hours — the views over the Baltic are worth the effort.

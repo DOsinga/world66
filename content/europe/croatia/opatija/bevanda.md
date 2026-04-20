@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.3358
 longitude: 14.3028
+snippet: Refined Adriatic seafood on a terrace jutting over the sea
 tags:
 - eating_out
 title: Bevanda

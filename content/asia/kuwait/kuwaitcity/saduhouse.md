@@ -1,8 +1,10 @@
 ---
 title: "Sadu House"
 type: poi
+snippet: Pre-oil Kuwaiti house showcasing Bedouin weaving traditions
 tags:
   - things_to_do
+  - museum
 latitude: 29.374000
 longitude: 47.967000
 ---

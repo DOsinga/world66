@@ -1,10 +1,14 @@
 ---
-title: "Piazza Grande"
-type: poi
-tags: [things_to_do, story]
-snippet: Hanging medieval square with valley views and a saint race
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.3502
 longitude: 12.5773
+snippet: Hanging medieval square with valley views and a saint race
+tags:
+- things_to_do
+- story
+title: Piazza Grande
+type: poi
 ---
 
 The emotional heart of Gubbio. Also called Piazza della Signoria, it is a "hanging" square — its open terrace extends over the valley below, held up by a massive retaining arch. Built from 1321 onward, it is one of the finest examples of medieval urban planning in Italy. The Palazzo dei Consoli and the Palazzo Pretorio face each other across the paving stones. On a clear day the views across the plain are exceptional.

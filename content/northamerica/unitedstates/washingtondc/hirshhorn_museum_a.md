@@ -1,47 +1,19 @@
 ---
-address: Independence Avenue & 7th Street
-latitude: 39.073732
-longitude: -108.560061
-opening_hours: 'Museum: 10 a.m. - 5:30 p.m., Plaza: 7:30 a.m. - 5:30 p.m., Sculpture
-  Garden: 7:30 a.m. - dusk'
-phone: 202 560 0350
+title: "Hirshhorn Museum and Sculpture Garden"
+type: poi
 tags:
 - things_to_do
 - museum
-title: Hirshhorn Museum and Sculpture Garden
-type: poi
-url: hirshhorn.si.edu
+snippet: "Smithsonian's bold modern and contemporary art collection"
+address: "Independence Avenue & 7th Street SW"
+phone: "202-633-1000"
+url: "hirshhorn.si.edu"
+latitude: 38.8882
+longitude: -77.0230
 ---
 
-The most modern of the Smithsonian museums, the Hirshhorn is when one
-can find contemporary artworks made in the last years. It's
-constantly changing exhibitions make it very different from the other
-museum, with their well established and rarely changed
-collections. Notable artists include Picasso, Giacometti, de Kooning, and Warhol.
+The Hirshhorn is the Smithsonian's dedicated modern and contemporary art museum, housed in a striking cylindrical building designed by Gordon Bunshaft that opened in 1974. Where the other Smithsonian museums tend toward permanent collections displayed in familiar arrangements, the Hirshhorn rotates its exhibitions frequently, so repeat visits rarely feel the same.
 
-The scuplture garden, directly across the mall from the new National
-Gallary of Art sculpture garden, is a sunken safehaven from the madness
-of downtown DC. Here one can relax on one the many benches an
-enjoy Calder or Rodin.
+The collection spans from the late nineteenth century to the present, with particular strengths in postwar American and European art. You will find work by Picasso, Giacometti, de Kooning, Warhol, and many others. The building itself is a landmark — a massive concrete drum elevated on pillars, with a central fountain courtyard that shoots water higher than the roofline.
 
-At the center of the donut shaped building is a very impressive water
-fountain shooting up over the height of the building itself.
-
-The Museum is named for Joseph Hirshorn who donated his vast collection
-on the behest of Lyndon B. Johnson, and construction of the museum
-began in 1969.
-
-**Contributors**
-October 15, 2005
-
-
-
-
-
-tel: 202 560 0350
-
-openingHours: Museum: 10 a.m. - 5:30 p.m., Plaza: 7:30 a.m. - 5:30 p.m., Sculpture Garden: 7:30 a.m. - dusk
-
-url: [hirshhorn.si.edu](http://hirshhorn.si.edu/)
-
-address: Independence Avenue & 7th Street
+Across the Mall, the sunken Sculpture Garden is one of the quieter spots on the National Mall. Pieces by Rodin, Calder, and other major sculptors are arranged around a reflecting pool. It is a good place to sit and decompress after a long day of museum-hopping. Admission is free.

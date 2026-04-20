@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.14
 longitude: -8.6093
+snippet: Iconic double-deck iron bridge with the best city views
 tags:
 - things_to_do
 - architecture

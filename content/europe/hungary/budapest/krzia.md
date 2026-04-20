@@ -7,7 +7,6 @@ snippet: Intimate Italian restaurant near the Opera House
 tags:
 - eating_out
 - restaurant
-- theatre
 title: Krizia
 type: poi
 ---

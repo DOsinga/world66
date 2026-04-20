@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-20'
 latitude: 46.418824
 longitude: -112.7427
 snippet: Working ranch preserving the Western cattle frontier era

@@ -3,6 +3,7 @@ address: Pier 8, The Quays, Salford M50 3AZ
 latitude: 53.4705
 longitude: -2.2937
 phone: 0343 208 6000
+snippet: Arts centre with the largest public L.S. Lowry collection
 tags:
 - things_to_do
 - museum

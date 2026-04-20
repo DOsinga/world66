@@ -1,7 +1,10 @@
 ---
 title: "Madras High Court"
 type: poi
-tags: [things_to_do]
+snippet: Extravagant 1892 Indo-Saracenic building with a lighthouse tower
+tags:
+- things_to_do
+- landmark
 address: "High Court Complex, Parry's Corner, Chennai"
 latitude: 13.087268
 longitude: 80.284984

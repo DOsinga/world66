@@ -1,6 +1,7 @@
 ---
 title: "Federal Courts"
 type: poi
+snippet: "Germany's constitutional and supreme courts, both headquartered here"
 tags: [things_to_do]
 latitude: 49.0072
 longitude: 8.3854

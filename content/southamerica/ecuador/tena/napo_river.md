@@ -1,7 +1,9 @@
 ---
 title: "Napo River"
 type: poi
-category: Sight
+snippet: Major Amazon tributary connecting Tena to the deep jungle
+tags:
+  - things_to_do
 latitude: -0.9707
 longitude: -77.7867
 ---

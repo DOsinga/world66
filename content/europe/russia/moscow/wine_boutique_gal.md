@@ -1,14 +1,11 @@
 ---
-title: "Wine boutique 'Gallery of Wines'"
+title: "Wine Boutique 'Gallery of Wines'"
 type: poi
-address: "Kutuzovsky pr-t, 1"
-type: "Speciality shops"
+snippet: "Moscow's first wine boutique, specializing in rare French bottles"
+latitude: 55.7407
+longitude: 37.5600
+tags:
+- shopping
 ---
 
-The first wine boutique in Russia. Only French, but refined wines. You can find rare, not popular sorts. Wine accessories are also presented.
-
-type: Speciality shops
-
-
-
-address: Kutuzovsky pr-t, 1
+Reportedly the first wine boutique in Russia, the Gallery of Wines stocks exclusively French wines with a focus on rare and lesser-known appellations rather than the usual suspects. The shop also carries wine accessories. Located at Kutuzovsky Prospekt 1, near the Ukraina hotel.

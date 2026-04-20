@@ -1,6 +1,7 @@
 ---
 title: "Museo de Arte de Sinaloa"
 type: poi
+snippet: Regional art museum with an early Diego Rivera self-portrait
 tags:
   - things_to_do
   - museum

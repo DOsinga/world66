@@ -2,6 +2,7 @@
 address: Place Foch, Ajaccio
 latitude: 41.92
 longitude: 8.7368
+snippet: "Central terrace café facing Place Foch's Napoleon statue"
 tags:
 - bars_and_cafes
 title: Café Napoléon

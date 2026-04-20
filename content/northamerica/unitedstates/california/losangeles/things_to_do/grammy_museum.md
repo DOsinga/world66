@@ -1,6 +1,7 @@
 ---
 title: "GRAMMY Museum"
 type: poi
+snippet: "Four floors of music history with interactive exhibits"
 category: "Museum"
 address: "800 W. Olympic Blvd., Los Angeles"
 phone: "213-765-6800"

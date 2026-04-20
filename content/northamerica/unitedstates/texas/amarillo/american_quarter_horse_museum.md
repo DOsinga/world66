@@ -1,6 +1,7 @@
 ---
 latitude: 35.2101
 longitude: -101.8158
+snippet: The breed that powered the American West, celebrated here
 tags:
 - things_to_do
 - museum

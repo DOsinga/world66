@@ -1,10 +1,13 @@
 ---
 address: Clarence Esplanade, Southsea
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.7814
 longitude: -1.0889
+snippet: D-Day museum with the vast Overlord Embroidery
 tags:
-- things_to_do
 - museum
+- history
 title: The D-Day Story
 type: poi
 ---

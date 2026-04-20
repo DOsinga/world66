@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Al-Qarawiyyin Mosque and University
 type: poi
+snippet: "World's oldest continuously operating university, founded 859"
 ---
 
 The spiritual heart of Fez and one of the most important religious complexes in the Islamic world. The mosque can hold up to 20,000 worshippers and was the most important centre of learning in the Maghreb for the better part of a thousand years. Non-Muslims cannot enter, but you can peer through the gates from the surrounding alleys to glimpse the great courtyard. The attached library — one of the oldest in the world — has been restored and now admits visitors with permission.

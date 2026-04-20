@@ -1,9 +1,12 @@
 ---
 address: Borgo Marinaro 1, Naples
+done:
+  poi_cleanup: '2026-04-20'
 email: info@ziteresanapoli.com
 latitude: 40.829167
 longitude: 14.248056
 phone: +39 081 764 2565
+snippet: Waterfront Neapolitan classic below Castel dell'Ovo
 tags:
 - eating_out
 - restaurant

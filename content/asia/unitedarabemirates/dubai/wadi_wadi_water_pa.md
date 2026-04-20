@@ -1,29 +1,14 @@
 ---
-category: Sight
-closing_time: 6pm
-phone: (9714)348 4444
+latitude: 25.1412
+longitude: 55.1888
+snippet: Thrilling waterpark with interconnected rides near Jumeirah Beach
+tags:
+- things_to_do
+- sport
 title: Wild Wadi Water Park
 type: poi
-url: www.wildwadi.com
 ---
 
-Wild Wadi Water Park is an exciting escape for anyone trying to get
-away from the heat. Originally opened as part of the Jumeirah Beach
-Park in 1999, the park has 24 rides-16 of which are interconnected.
-Among the many attractions, you will find the Summit Surge which uses
-high-powered water jets to transport up to four people uphill in a
-raft, and the Jumeirah Sceirah, the tallest and fastest freefall slide
-outside of the United States. Your sure to find some relief from the
-heat and a whole lot of fun when you visit Wild Wadi.
+Wild Wadi is a water park next to the Burj Al Arab and Jumeirah Beach Hotel, themed loosely around the tale of Juha, a character from Arabian folklore. Opened in 1999, it has 30 rides and attractions, 17 of which are interconnected — you can float from one to the next without getting out of the water.
 
-type: Sport stadiums
-
-
-
-
-
-ClosingTime: 6pm
-
-tel: (9714)348 4444
-
-url: [www.wildwadi.com](http://www.wildwadi.com)
+The standout rides include Jumeirah Sceirah, a 33-metre freefall speed slide, and the Tantrum Alley and Burj Surj tornado rides. For something gentler, the Breaker's Bay wave pool is one of the largest in the Middle East. The park is well-maintained and relatively uncrowded on weekday mornings.

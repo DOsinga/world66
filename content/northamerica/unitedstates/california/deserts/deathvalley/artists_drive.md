@@ -1,6 +1,7 @@
 ---
 latitude: 36.3131
 longitude: -116.8044
+snippet: One-way scenic loop through multicolored volcanic rock canyon
 tags:
 - things_to_do
 - landmark

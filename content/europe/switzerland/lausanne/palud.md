@@ -1,6 +1,7 @@
 ---
 latitude: 46.5218
 longitude: 6.6325
+snippet: "Medieval market square with animated clock and cathedral stairs"
 tags:
 - things_to_do
 - square

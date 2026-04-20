@@ -1,25 +1,15 @@
 ---
-address: Visakha Musuem,Beach Road,Near VUDA Park
+address: Beach Road, near VUDA Park
+latitude: 17.7215
+longitude: 83.3305
+snippet: "City museum with naval exhibits and British-era artifacts"
 tags:
 - things_to_do
 - museum
-title: Visakha Musuem
+title: Visakha Museum
 type: poi
 ---
 
-Visakha Musuem is run by the Municipal corporation and it has some of
-the presious past with it. Artifacts from the British Raj, Indian
-Kings, Antiques, they have good collection of them all.
+A municipal museum on Beach Road that traces the history of Visakhapatnam from its days as a trading port through the British Raj and into the modern era. The original building houses artifacts from the colonial period -- furniture, photographs, coins, and documents -- alongside pieces from the region's earlier kingdoms.
 
-A Recent Improvement Drive have resulted in Indian Navy moving into the Main Building with its Marine Musuem - A Collection of Past about the Sea Trade, Warfare Etc.
-
-A New Block have been constructed to whowcase Many artifacts, Paintings, Furniture from Palaces etc. Also noteworthy to se are the Vintage Photogrpahs
-
-**Contributors**
-August 07, 2006
-
-
-
-
-
-address: Visakha Musuem,Beach Road,Near VUDA Park
+The Indian Navy has moved into the main hall with a dedicated marine section covering naval warfare, sea trade routes, and ship models. A newer wing displays paintings, palace furniture, and a worthwhile collection of vintage photographs of the city before its rapid growth. Not a world-class museum, but a solid hour's visit that gives you context for everything else you'll see in Vizag.

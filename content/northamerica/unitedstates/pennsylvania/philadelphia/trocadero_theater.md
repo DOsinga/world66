@@ -2,6 +2,7 @@
 address: 1003 Arch Street
 latitude: 39.9537
 longitude: -75.1559
+snippet: "Former burlesque house turned mid-sized concert venue"
 tags:
 - bars_and_cafes
 title: Trocadero Theater

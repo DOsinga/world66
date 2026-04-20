@@ -6,12 +6,12 @@ tags:
 - beach
 - restaurant
 title: Coney Island
+snippet: "Iconic boardwalk, vintage amusements, and Nathan's hot dogs"
 type: poi
 ---
 
-Reachable by subway, Coney Island is a New York trademark. Although it needs to be renovated, it offers a great view into old New York and is always fun on a hot summer day.
+Reachable by subway from Manhattan in under an hour, Coney Island is a New York institution. The boardwalk stretches along the beach past Luna Park, where the Cyclone roller coaster has been rattling riders since 1927, and the Wonder Wheel has offered views across the Atlantic since 1920. Nathan's Famous, at the corner of Surf and Stillwell, has been serving hot dogs here since 1916 and hosts the annual Fourth of July eating contest.
 
-Walk to the end of the boardwalk and go to Brighton beach, known as little Odessa. This area is mainly Russian or people from the Former Soviet Union. There are many good restaurants at reasonable prices.Coney Island is in New York City. It is located in Brooklyn, one of the city's 5 boroughs.
+On a hot summer day the beach fills up fast, but there is room if you arrive early. Walk east along the boardwalk to Brighton Beach, known as Little Odessa for its large Russian-speaking community. The neighbourhood's restaurants serve hearty Georgian, Uzbek, and Ukrainian food at reasonable prices — a world away from the boardwalk's carnival fare.
 
-**Contributors**
-August 30, 2005
+The New York Aquarium, run by the Wildlife Conservation Society, sits right on the boardwalk and is worth a stop, especially with children. Coney Island is at its liveliest between Memorial Day and Labor Day, but the boardwalk and beach are open year-round.

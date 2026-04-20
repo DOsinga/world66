@@ -2,6 +2,7 @@
 address: Thiksey, Leh District, Ladakh
 latitude: 34.064
 longitude: 77.6669
+snippet: "Hilltop Gelug gompa often compared to Lhasa's Potala Palace"
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 24.0795
 longitude: 32.8892
+snippet: "Nubian civilisation from prehistory through the High Dam era"
 tags:
 - things_to_do
 - museum

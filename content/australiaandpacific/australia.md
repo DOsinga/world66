@@ -1,16 +1,17 @@
 ---
-title: Australia
-type: location
-latitude: -24.776109
-longitude: 134.755
-image: australia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_night.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="https://en.wikipedia.org/wiki/User:Diliff" class="extiw"
-  title="en:User:Diliff">Diliff</a>
 done:
   country_cleanup: 2026-03-30
+  poi_cleanup: '2026-04-19'
+image: australia.jpg
+image_attribution: <a href="https://en.wikipedia.org/wiki/User:Diliff" class="extiw"
+  title="en:User:Diliff">Diliff</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_night.jpg
+latitude: -24.776109
+longitude: 134.755
 score: 0.55
+title: Australia
+type: location
 ---
 
 Australia is the world's sixth-largest country and its only continent-nation — a place of extreme distances, extraordinary wildlife, and a culture that is at once deeply relaxed and quietly competitive. Most of it is empty. The population of 27 million clusters along the coastline, particularly the southeast, leaving vast interior regions to red desert, salt flats, and the occasional outback town.

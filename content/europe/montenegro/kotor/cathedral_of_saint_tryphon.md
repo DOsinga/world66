@@ -1,6 +1,7 @@
 ---
 latitude: 42.4243
 longitude: 18.7708
+snippet: "Romanesque cathedral with medieval treasury and relics from 809"
 story: 'When Venetian merchants brought Tryphon''s relics to Kotor in 809, they had
   intended to take them to Venice. A sudden calm at sea, which lifted only when they
   turned toward Kotor, was taken as a sign that the saint wanted to remain here.

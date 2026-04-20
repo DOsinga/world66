@@ -1,10 +1,9 @@
 ---
 latitude: 45.704038
 longitude: 9.662898
+snippet: Medieval square at the heart of Bergamo's upper town
 tags:
 - things_to_do
-- palace
-- tower
 - square
 title: Piazza Vecchia
 type: poi

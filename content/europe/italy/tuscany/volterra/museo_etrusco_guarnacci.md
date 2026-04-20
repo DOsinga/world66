@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.4007
 longitude: 10.8619
 snippet: One of Europe's oldest museums, rich in Etruscan art

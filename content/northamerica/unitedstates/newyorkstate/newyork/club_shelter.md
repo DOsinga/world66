@@ -3,6 +3,7 @@ address: 150 Varick Street
 latitude: 40.726195
 longitude: -74.005488
 phone: (646) 862-6117
+snippet: "Long-running after-hours house music club open Saturday into Sunday"
 tags:
 - bars_and_cafes
 - bar

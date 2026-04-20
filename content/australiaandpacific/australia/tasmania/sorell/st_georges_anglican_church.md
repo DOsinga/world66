@@ -1,8 +1,10 @@
 ---
 latitude: -42.7878
 longitude: 147.6674
+snippet: "National Estate-listed 1826 stone church with early settler cemetery"
 tags:
 - things_to_do
+- sight
 title: St George's Anglican Church
 type: poi
 ---

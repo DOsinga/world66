@@ -4,6 +4,7 @@ latitude: 45.441883
 longitude: 10.998302
 opening_hours: Tue-Sun 9am-7pm
 phone: +39 045 8034303
+snippet: "Gothic house with the famous balcony of Shakespeare's Juliet"
 tags:
 - things_to_do
 - landmark

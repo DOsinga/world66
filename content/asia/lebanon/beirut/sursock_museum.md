@@ -1,8 +1,10 @@
 ---
 latitude: 33.8882
 longitude: 35.5087
+snippet: "Ottoman-Venetian villa turned museum of modern art, damaged in 2020 blast"
 tags:
 - things_to_do
+- sight
 title: Sursock Museum
 type: poi
 ---

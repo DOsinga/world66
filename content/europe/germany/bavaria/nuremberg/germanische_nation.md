@@ -1,6 +1,7 @@
 ---
 latitude: 49.451389
 longitude: 11.071944
+snippet: Germany's largest museum of cultural history, spanning prehistory to present
 tags:
 - things_to_do
 - museum

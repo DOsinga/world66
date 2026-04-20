@@ -1,6 +1,7 @@
 ---
-title: "Lithuanian Open-Air Museum"
+title: Lithuanian Open-Air Museum
 type: poi
+snippet: "170-hectare museum of relocated farmsteads from four regions"
 tags:
   - things_to_do
   - museum

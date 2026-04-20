@@ -12,6 +12,7 @@ tags:
 - historic_site
 title: Ruinas de San Francisco
 type: poi
+snippet: "Earthquake ruins preserved as memorial to 1861 disaster"
 ---
 
 The ruins of a Jesuit mission church in the Ciudad Vieja neighbourhood are among the few remnants of pre-earthquake Mendoza. The 1861 quake levelled the city entirely; these walls survived in partial form and have been maintained ever since as a monument to the disaster. Beside the ruins stands a small chapel, and the surrounding streets preserve the old street pattern of colonial Mendoza. It is a sobering reminder of how completely the present-day city was rebuilt from scratch.

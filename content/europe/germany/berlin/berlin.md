@@ -7,6 +7,7 @@ tags:
 - books
 title: Berlin
 type: poi
+snippet: "Sweeping narrative history of Berlin between two unifications"
 ---
 
 **From Publishers Weekly**
@@ -29,27 +30,6 @@ with most Americans' "wonderful, terrible" opinion of New York City.
 But while its political history during the last century has been
 tumultuous and dangerous, the city's ability to influence the world in
 positive ways has been sustained by Berliners' adaptability in
-embracing the new, intellectually, artistically and culturally. Large
-cites examples including efforts to get rid of "the ghosts of Berlin"
-such as the Reichstag, "the war-scarred fossil... so laden with
-conflicting, mainly depressing, historical associations"Awhich was
-accomplished when the artist Christo was given permission to "wrap" the
-building completely. Large claims that the city's hosting of the April
-1999 European Union summit marked Berlin's "debut on the stage of
-international diplomacy," and that a renewed Berlin may be among the
-world's leaders in embracing an era of globalization. Readers
-interested in the history of Germany or of European culture in general
-will find much to enlighten them.
+embracing the new, intellectually, artistically and culturally.
 
 **Hardcover:** 608 pages **Publisher:** Basic Books (October 1, 2000)
-
-**Contributors**
-October 23, 2006
-
-[](http://www.amazon.com/exec/obidos/ASIN/046502646X/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: David Clay Large
-
-isbn: 046502646X

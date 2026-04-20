@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Hampstead Heath
 type: poi
+snippet: "Ancient heath with swimming ponds and skyline views"
 url: www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath
 ---
 

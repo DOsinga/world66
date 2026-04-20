@@ -1,8 +1,11 @@
 ---
 address: Via Giovanni Paladino 51, 80138 Naples
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.8502
 longitude: 14.2581
 opening_hours: Daily 12:00–15:00, 19:00–23:00
+snippet: Cult spot serving one dish — slow-cooked Neapolitan ragù
 tags:
 - 3 Days in Naples
 - eating_out

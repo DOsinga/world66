@@ -3,6 +3,7 @@ address: 44 North Water Street
 latitude: 41.3888
 longitude: -70.5117
 phone: 508-627-1387
+snippet: Tucked-away cocktail bar inside the Shiretown Inn
 tags:
 - bars_and_cafes
 - edgartown

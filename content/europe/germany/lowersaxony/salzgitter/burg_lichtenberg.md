@@ -2,6 +2,7 @@
 title: "Burg Lichtenberg"
 type: poi
 category: "Sight"
+snippet: "12th-century hilltop ruins built by Henry the Lion"
 address: "38228 Salzgitter-Lichtenberg"
 latitude: 52.1477
 longitude: 10.2772

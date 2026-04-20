@@ -1,6 +1,7 @@
 ---
 latitude: 31.7722
 longitude: 35.2036
+snippet: "National museum housing the Dead Sea Scrolls and a scale model of ancient Jerusalem"
 tags:
 - things_to_do
 - museum

@@ -1,7 +1,10 @@
 ---
 address: Shibpur, Howrah 711103
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.5563
 longitude: 88.3009
+snippet: India's oldest botanical garden, home to the vast Great Banyan Tree
 tags:
 - things_to_do
 - nature

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.1948
 longitude: 53.1685
+snippet: Private palace of Cyrus with early Achaemenid relief carvings
 tags:
 - things_to_do
 - architecture

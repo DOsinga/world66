@@ -1,8 +1,11 @@
 ---
 address: 3556 boulevard Saint-Laurent, Montréal, QC
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.513343
 longitude: -73.571834
 phone: 514-889-6589
+snippet: Large dance club on the Main with urban music nights
 tags:
 - bars_and_cafes
 title: Orchid Nightclub

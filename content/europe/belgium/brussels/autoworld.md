@@ -1,8 +1,11 @@
 ---
 address: Parc du Cinquantenaire 11, 1000 Brussels
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.839457
 longitude: 4.393554
 opening_hours: Daily 10:00–17:00 (Apr–Oct until 18:00)
+snippet: Over 300 vehicles in a grand iron-and-glass pavilion
 tags:
 - things_to_do
 - museum

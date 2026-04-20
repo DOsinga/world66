@@ -1,12 +1,15 @@
 ---
-title: Parque Internacional La Amistad
-type: poi
-tags:
-  - things_to_do
-  - park
-  - nature
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 9.0333
 longitude: -82.9333
+snippet: UNESCO wilderness spanning Costa Rica and Panama, serious hiking
+tags:
+- things_to_do
+- park
+- nature
+title: Parque Internacional La Amistad
+type: poi
 ---
 
 One of the largest protected areas in Central America, La Amistad spans roughly 400,000 hectares shared between Costa Rica and Panama and carries UNESCO World Heritage status. The Costa Rican side is accessed via several entry points, with Altamira (about 30 km from San Vito) being the most practical for visitors based in the town. The park protects a remarkable range of habitats from lowland forest to high-altitude páramo, and is home to tapirs, jaguars, quetzals, and hundreds of bird species. This is serious wilderness — trails are rough, conditions can change quickly, and a guide is strongly recommended.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.7844
 longitude: -5.8096
+snippet: Oldest American diplomatic property abroad, now a museum
 tags:
 - things_to_do
 - museum

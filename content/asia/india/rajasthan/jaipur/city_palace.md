@@ -1,9 +1,12 @@
 ---
 address: Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur
 admission: 500 INR
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 26.9258
 longitude: 75.8237
 opening_hours: 9:30-17:00 daily
+snippet: Sprawling royal complex blending Rajasthani and Mughal architecture
 tags:
 - things_to_do
 - landmark

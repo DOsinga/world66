@@ -1,26 +1,15 @@
 ---
-title: "Le Roi Ubu"
+address: 30 Grand Rue
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 46.2007
+longitude: 6.1477
+snippet: Lively Old Town bar with a summer terrace
+tags:
+- things_to_do
+- bar
+title: Le Roi Ubu
 type: poi
-address: "30 Grand Rue"
-closing_time: "2am everynight of the week"
-phone: "+41 (0)22 310 73 98"
-type: "Casinos"
-latitude: 43.297787
-longitude: 5.371644
 ---
 
-Le Roi Ubu is known for it's vibrant young clientele and it's location in the centre of the Old Town.
-
-In winter people stay inside the bar but in summer people sit on the terrace with their beverages.
-
-type: Casinos
-
-
-
-
-
-address: 30 Grand Rue
-
-tel: +41 (0)22 310 73 98
-
-ClosingTime: 2am everynight of the week
+A lively bar on the Grand Rue in Geneva's Old Town, Le Roi Ubu draws a young crowd with its relaxed atmosphere and central location. In winter the action stays inside; in summer everyone moves out to the terrace. A reliable spot for a late-night drink in the Vieille Ville.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.3214
 longitude: 9.3248
+snippet: Best introduction to Sardinia's interior culture and traditions
 tags:
 - things_to_do
 - museum

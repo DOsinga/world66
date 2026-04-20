@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.588047
 longitude: 7.650993
+snippet: Renzo Piano pavilion housing Switzerland's most-visited art collection
 tags:
 - things_to_do
 - museum
+- art
 title: Fondation Beyeler
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 title: "International African American Museum"
 type: poi
+snippet: Powerful museum on the site where enslaved Africans arrived
 tags:
   - things_to_do
   - museum

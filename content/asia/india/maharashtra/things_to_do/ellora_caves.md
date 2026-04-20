@@ -1,7 +1,11 @@
 ---
 title: "Ellora Caves"
 type: poi
-category: "Sight"
+snippet: "34 rock-cut temples spanning three religions, carved from a cliff"
+tags:
+  - things_to_do
+  - sight
+  - unesco
 latitude: 20.026753
 longitude: 75.177515
 ---

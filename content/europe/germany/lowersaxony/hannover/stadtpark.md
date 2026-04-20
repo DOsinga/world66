@@ -1,7 +1,10 @@
 ---
 title: "Stadtpark"
 type: poi
-category: "Sight"
+snippet: Formal garden show park connecting to Eilenriede forest
+tags:
+- things_to_do
+- park
 latitude: 52.378389
 longitude: 9.787306
 ---

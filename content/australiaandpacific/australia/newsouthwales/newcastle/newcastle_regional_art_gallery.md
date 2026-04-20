@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -32.9278
 longitude: 151.7764
+snippet: Free regional gallery with strong Australian art collection, free entry
 tags:
 - things_to_do
 title: Newcastle Art Gallery

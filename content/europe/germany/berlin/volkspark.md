@@ -1,7 +1,10 @@
 ---
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.5283
 longitude: 13.4325
+snippet: Berlin's oldest park, famous fountain, WWII rubble hills
 tags:
 - things_to_do
 - friedrichshain

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8382
 longitude: 44.7334
+snippet: 6th-century monastery on a promontory above Mtskheta's river confluence
 tags:
 - things_to_do
 - church

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.23
 longitude: -8.7239
+snippet: Wooded hilltop with panoramic views over Vigo's harbour and the Cíes Islands
 story: The Celtic castro at the hill's summit was occupied from the Iron Age through
   the Roman period. Excavations revealed the foundations of round stone houses, and
   the finds — now in the Municipal Museum — proved continuous habitation for over

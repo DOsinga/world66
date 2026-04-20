@@ -1,12 +1,15 @@
 ---
-title: 'The Alamo'
-type: poi
-tags:
-  - things_to_do
-  - historic_site
-address: '300 Alamo Plaza, San Antonio, TX 78205'
-latitude: 29.4260
+address: 300 Alamo Plaza, San Antonio, TX 78205
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 29.426
 longitude: -98.4861
+snippet: Iconic 1836 battle site and Texas independence symbol
+tags:
+- things_to_do
+- historic_site
+title: The Alamo
+type: poi
 ---
 
 The most famous site in Texas. This former Spanish mission was the scene of a legendary 13-day siege in 1836, when 189 Texas volunteers were overwhelmed by General Santa Anna's army of 3,000 Mexican troops. "Remember the Alamo" became the rallying cry that helped win Texas its independence at the Battle of San Jacinto weeks later. The small stone chapel is surprisingly modest given its outsized place in American history. Admission is free.

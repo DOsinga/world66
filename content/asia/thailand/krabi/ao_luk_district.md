@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 8.3681
 longitude: 98.7194
+snippet: Sea caves and prehistoric paintings kayakable through limestone tunnels
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -7.793
 longitude: 110.37
+snippet: Guided tours through a Javanese cigar factory operating since 1918
 tags:
 - things_to_do
 title: Taru Martani Cigar Factory

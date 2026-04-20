@@ -1,7 +1,10 @@
 ---
 address: St. Peter-Bezirk 1, 5020 Salzburg
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.7975
 longitude: 13.0447
+snippet: Salzburg's oldest monastery with a medieval cemetery and rock-cut catacombs
 story: In the cliffs behind the cemetery are the catacombs — a series of chambers
   hewn directly into the rock of the Mönchsberg as early as the 3rd century CE, possibly
   the oldest Christian site north of the Alps still in use.

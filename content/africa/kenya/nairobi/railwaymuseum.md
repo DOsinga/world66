@@ -1,10 +1,14 @@
 ---
-title: Railway Museum
-type: poi
-tags:
-  - things_to_do
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -1.293613
 longitude: 36.822641
+snippet: Colonial-era steam engines and the Uganda Railway's dramatic history
+tags:
+- things_to_do
+- museum
+title: Railway Museum
+type: poi
 ---
 
 The Railway Museum sits at the end of Station Road near the Haile Selassie Avenue roundabout, adjacent to Nairobi Railway Station. It traces the history of the Uganda Railway — the ambitious British colonial project that opened up the interior of East Africa — through original rolling stock, photographs, and historical artefacts.

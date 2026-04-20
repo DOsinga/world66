@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.7074
 longitude: 13.2017
+snippet: Seven hectares of university gardens with 7,000 species
 tags:
 - things_to_do
 - landmark

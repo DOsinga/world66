@@ -1,6 +1,7 @@
 ---
 latitude: 34.0425
 longitude: -4.9981
+snippet: Popular Ville Nouvelle café with excellent pastries
 tags:
 - bars_and_cafes
 - cafe

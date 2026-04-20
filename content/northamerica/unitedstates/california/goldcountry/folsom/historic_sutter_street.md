@@ -1,9 +1,6 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 38.6782
 longitude: -121.1733
-snippet: Gold Rush-era main street lined with antique shops and restaurants
 tags:
 - things_to_do
 - sight

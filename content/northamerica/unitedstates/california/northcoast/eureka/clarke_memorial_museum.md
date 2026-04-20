@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.8022
 longitude: -124.1624
+snippet: Native American basketry and Victorian-era history in a 1912 bank
 tags:
 - things_to_do
 - museum

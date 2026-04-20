@@ -1,11 +1,15 @@
 ---
 address: Moffett Field, Mountain View, CA 94035
 category: Sight
+snippet: "Massive NASA facility with legendary Hangar One visible for miles"
 latitude: 37.4085
 longitude: -122.0643
 story: Hangar One, completed in 1933 to house the USS Macon rigid airship, is 1,133
   feet long and so vast that it used to generate its own interior weather — fog and
   light rain would form inside the structure on humid days.
+tags:
+  - things_to_do
+  - story
 title: NASA Ames Research Center
 type: poi
 ---

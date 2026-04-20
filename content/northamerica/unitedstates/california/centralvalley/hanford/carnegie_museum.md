@@ -1,6 +1,7 @@
 ---
 title: "Hanford Carnegie Museum"
 type: poi
+snippet: Local history museum in an original 1905 Carnegie Library building.
 tags:
   - things_to_do
   - museum

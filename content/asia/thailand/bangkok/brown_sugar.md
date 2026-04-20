@@ -1,10 +1,10 @@
 ---
 latitude: 13.7399
 longitude: 100.5408
+snippet: One of Bangkok's best jazz bars, with live music from 10pm nightly.
 tags:
 - bars_and_cafes
 - bar
-- park
 title: Brown Sugar
 type: poi
 ---

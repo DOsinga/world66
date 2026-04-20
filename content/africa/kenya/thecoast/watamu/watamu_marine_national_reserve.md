@@ -1,6 +1,7 @@
 ---
 latitude: -3.36
 longitude: 40.025
+snippet: UNESCO biosphere reef with turtles, rays, and 600 fish species.
 tags:
 - things_to_do
 - marine_reserve

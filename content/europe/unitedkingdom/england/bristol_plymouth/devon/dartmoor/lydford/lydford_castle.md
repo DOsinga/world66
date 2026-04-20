@@ -1,6 +1,7 @@
 ---
 title: "Lydford Castle"
 type: poi
+snippet: Free-entry Norman keep with a grim reputation for rough Stannary justice.
 tags: [things_to_do, sight, castle]
 latitude: 50.6462
 longitude: -4.0832

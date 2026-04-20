@@ -3,10 +3,10 @@ address: 2516 Market Avenue
 latitude: 41.484394
 longitude: -81.704487
 phone: 216.771.4404
+snippet: Award-winning brewery pub near the West Side Market with a historic Eliot Ness bar
 tags:
 - bars_and_cafes
 - bar
-- market
 title: Great Lakes Brewing Company
 type: poi
 url: www.greatlakesbrewing.com

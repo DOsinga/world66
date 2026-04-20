@@ -1,8 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-20'
 latitude: 51.1767
 longitude: -115.5712
+snippet: Laid-back local bar with pool, darts, and happy hour
 tags:
 - bars_and_cafes
 - bar

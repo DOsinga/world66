@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.512
 longitude: 36.3095
+snippet: Eight-hundred-year-old bathhouse in the Old City
 tags:
 - things_to_do
 - landmark

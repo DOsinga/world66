@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 6.9
 longitude: -5.15
+snippet: Rhinos and giraffes on a West African savanna
 tags:
 - things_to_do
 - sight

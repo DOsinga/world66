@@ -1,6 +1,9 @@
 ---
-latitude: 29.998151
-longitude: 31.216644
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 30.0058
+longitude: 31.2302
+snippet: Egypt's finest collection of early Christian art and relics
 tags:
 - things_to_do
 - museum

@@ -1,10 +1,14 @@
 ---
 address: Via VIII Febbraio 15
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.4074
 longitude: 11.8773
+snippet: Neoclassical landmark café, famously open since 1831
 tags:
 - things_to_do
 - sight
+- story
 title: Caffè Pedrocchi
 type: poi
 ---

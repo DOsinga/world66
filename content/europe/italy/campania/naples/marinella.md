@@ -3,6 +3,7 @@ address: Riviera di Chiaia 287, Naples
 latitude: 40.833177
 longitude: 14.240859
 phone: +39 081 245 1182
+snippet: Legendary Neapolitan tie maker since 1914
 tags:
 - shopping
 - shop

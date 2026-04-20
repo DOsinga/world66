@@ -1,13 +1,15 @@
 ---
-title: The Kampong
-type: poi
-tags:
-  - things_to_do
-  - sight
 address: 4013 Douglas Road, Coconut Grove
 latitude: 25.7135
 longitude: -80.2501
 neighbourhood: Coconut Grove
+tags:
+- things_to_do
+- coconut_grove
+- sight
+- garden
+title: The Kampong
+type: poi
 ---
 
 A nine-acre tropical botanical garden on Biscayne Bay that was once the home of plant explorer David Fairchild, the man responsible for introducing mangoes, avocados, nectarines, and hundreds of other plants to the United States. The gardens are lush and wild-feeling, with rare tropical fruit trees, palms, and flowering plants from around the world. The house itself is a charming 1920s Mediterranean villa. Visits are by advance reservation only, Tuesday through Friday, which keeps the crowds away and makes it feel like a private garden.

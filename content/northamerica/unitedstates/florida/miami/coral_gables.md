@@ -1,11 +1,14 @@
 ---
-title: Coral Gables
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 25.7215
 longitude: -80.2684
+tags:
+- things_to_do
+- neighbourhood
+- architecture
+- restaurant
+- swimming
+title: Coral Gables
+type: poi
 ---
 
 Coral Gables is Miami's most architecturally cohesive neighbourhood — a planned "City Beautiful" developed in the 1920s by George Merrick with Mediterranean Revival buildings, broad tree-lined boulevards, and ornamental gateways. The Biltmore Hotel, a 1926 landmark with a tower modelled on the Giralda in Seville, dominates the skyline and is worth a visit even if you are not staying there — take the free Sunday tour.

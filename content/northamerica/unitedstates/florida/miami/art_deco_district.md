@@ -1,13 +1,15 @@
 ---
-title: Art Deco Historic District
-type: poi
-tags:
-  - things_to_do
-  - architecture
 address: Ocean Drive, Miami Beach
 latitude: 25.7811
 longitude: -80.1308
 neighbourhood: South Beach
+tags:
+- things_to_do
+- south_beach
+- architecture
+- art_deco
+title: Art Deco Historic District
+type: poi
 ---
 
 The largest collection of Art Deco architecture in the world stretches along Ocean Drive, Collins Avenue, and Washington Avenue between 5th and 23rd Streets. Over 800 buildings survive from the 1930s and 40s, their pastel facades, porthole windows, racing stripes, and neon signs forming a coherent streetscape unlike anything else in the United States.

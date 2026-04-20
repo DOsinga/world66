@@ -1,11 +1,15 @@
 ---
-title: Wynwood
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 25.8101
 longitude: -80.1993
+tags:
+- things_to_do
+- neighbourhood
+- art
+- gallery
+- restaurant
+- bar
+title: Wynwood
+type: poi
 ---
 
 Wynwood's transformation from neglected warehouse district to Miami's most vibrant arts neighbourhood is one of the great urban turnarounds in American cities. It started with the Wynwood Walls — a curated outdoor museum of street art murals on the walls of former warehouses — and has spread outward to cover dozens of blocks with murals, galleries, breweries, restaurants, and shops.

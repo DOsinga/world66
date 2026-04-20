@@ -1,12 +1,16 @@
 ---
-title: Bass Museum of Art
-type: poi
-tags:
-  - things_to_do
-  - museum
 address: 2100 Collins Avenue, Miami Beach
 latitude: 25.7977
 longitude: -80.1302
+neighbourhood: South Beach
+tags:
+- things_to_do
+- south_beach
+- museum
+- art
+- art_deco
+title: Bass Museum of Art
+type: poi
 ---
 
 The Bass is Miami Beach's contemporary art museum, housed in a 1930s Art Deco building expanded by architect Arata Isozaki. The permanent collection spans European Old Masters through to contemporary photography and new media, but the rotating exhibitions are the real draw — the Bass has a knack for staging ambitious, site-specific installations that fill the building's dramatic central gallery.

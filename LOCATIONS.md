@@ -19,14 +19,7 @@ Every location has sections as children. Sections are ordered alphabetically by 
 
 All sights, museums, galleries, and notable neighbourhoods go in a single `things_to_do` section. Do not use separate `sights` and `museums` sections.
 
-The filter bar (All / Sight / Museum / Architecture / Neighbourhood) is rendered automatically from tags on each POI. The following tags are recognised as filterable categories:
-
-| Tag | Use for |
-|-----|---------|
-| `sight` | Monuments, squares, churches, ancient sites, viewpoints |
-| `museum` | Art galleries, history museums, science museums |
-| `architecture` | Buildings valued primarily for their design (not open as museums) |
-| `neighbourhood` | Districts and areas worth wandering — canals, market streets, etc. |
+The filter bar is rendered automatically from POI tags. See [How tags work](#how-tags-work) below for details.
 
 #### POI stories
 
@@ -40,15 +33,9 @@ story: "The hooded figure dominating the square is the philosopher Giordano Brun
 
 For longer text, use a YAML block scalar (`story: >`).
 
-#### Neighbourhood POIs
-
-For large cities, add `Neighbourhood` POIs for the most characterful districts — typically 3–5 per city. Other POIs tagged with `neighbourhood: "Name"` are automatically listed on the neighbourhood page, so a visitor reading the Trastevere page sees all restaurants and bars in Trastevere without Trastevere being a separate location in the hierarchy.
-
-The `neighbourhood:` value must match the neighbourhood POI's `title` exactly (case-sensitive).
-
 ### Eating Out (`eating_out.md`)
 
-Specific restaurants, trattorias, street food stalls. Each POI in `eating_out/`.
+Specific restaurants, trattorias, street food stalls.
 
 ### Bars and Cafes (`bars_and_cafes.md`)
 
@@ -117,6 +104,76 @@ The first of Ferrante's four Neapolitan novels...
 - `top_5_must_dos.md`, `budget_travel_idea.md`, `family_travel_idea.md`
 - `festivals.md` — content belongs in `when_to_go`
 - `cybercafs.md`, `webcams.md`
+
+## How tags work
+
+Tags are the central organising mechanism for POIs. Every POI has a `tags` list in its frontmatter, and tags serve three purposes simultaneously:
+
+1. **Section membership** — a tag matching a section slug puts the POI on that section's page
+2. **Neighbourhood membership** — a tag matching a neighbourhood slug puts the POI on that neighbourhood's page
+3. **Filter categories** — certain tags become buttons in the filter bar on section pages
+
+A single POI typically carries several tags. For example, a museum in South Beach that is housed in an Art Deco building:
+
+```yaml
+tags:
+  - things_to_do
+  - south_beach
+  - museum
+  - art_deco
+```
+
+This POI will appear on the Things to Do page, on the South Beach neighbourhood page, and can be filtered by Museum. The `art_deco` tag links it to the Art Deco District POI's page if one exists.
+
+### Section tags
+
+The first tag usually determines which section the POI belongs to. Use the slug of the section file:
+
+| Tag | Section |
+|-----|---------|
+| `things_to_do` | Things to Do |
+| `eating_out` | Eating Out |
+| `bars_and_cafes` | Bars and Cafes |
+| `shopping` | Shopping |
+
+### Category tags
+
+These tags become filter buttons on section pages. The recognised category tags are:
+
+| Tag | Use for |
+|-----|---------|
+| `sight` | Monuments, squares, churches, viewpoints, parks, memorials |
+| `museum` | Art galleries, history museums, science museums |
+| `architecture` | Buildings valued primarily for their design |
+| `neighbourhood` | Districts and areas worth wandering |
+| `restaurant` | On eating_out POIs |
+| `bar` | On bars_and_cafes POIs |
+| `market` | Markets, farmers markets |
+
+### Neighbourhood tags
+
+For large cities, create neighbourhood POIs (with `type: neighbourhood` in the tags). Then tag other POIs with the neighbourhood's **slug** to make them appear on the neighbourhood page. For example, if you have a `south_beach.md` neighbourhood POI, tag restaurants and sights in that area with `south_beach`.
+
+The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page.
+
+```yaml
+# A restaurant in South Beach
+tags:
+  - eating_out
+  - south_beach
+  - restaurant
+neighbourhood: South Beach    # display label in listings
+```
+
+### Descriptive tags
+
+Beyond section, category, and neighbourhood tags, add descriptive tags for any notable characteristic of the POI. If a POI with that slug exists, the tag becomes a link. Common examples:
+
+- Architectural styles: `art_deco`, `mediterranean_revival`
+- Activities: `swimming`, `cycling`, `wildlife`
+- What you'll find: `restaurant`, `bar`, `cafe`, `gallery`, `garden`, `park`, `theatre`, `sport`
+
+Be generous with tags — they help visitors discover POIs through multiple paths. A neighbourhood POI for Wynwood might carry `things_to_do`, `neighbourhood`, `art`, `restaurant`, `bar`, `gallery` because those are what define the area.
 
 ## Coordinates
 

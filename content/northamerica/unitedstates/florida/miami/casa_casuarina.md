@@ -1,13 +1,15 @@
 ---
-title: Casa Casuarina
-type: poi
-tags:
-  - things_to_do
-  - architecture
 address: 1116 Ocean Drive, Miami Beach
-latitude: 25.7810
+latitude: 25.781
 longitude: -80.1302
 neighbourhood: South Beach
+tags:
+- things_to_do
+- south_beach
+- architecture
+- art_deco
+title: Casa Casuarina
+type: poi
 ---
 
 The ornate Mediterranean Revival mansion on Ocean Drive, modelled after the Alcázar de Colón in Santo Domingo, was built in 1930 and became internationally known as the Versace Mansion after fashion designer Gianni Versace bought it in 1992. Versace spent $33 million renovating and expanding the property, adding a south wing, a mosaic-tiled swimming pool lined with 24-karat gold, and lush gardens hidden behind the coral rock facade.

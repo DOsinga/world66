@@ -4,6 +4,7 @@ email: tuyyo@comcast.net
 latitude: 42.4009
 longitude: -71.1158
 phone: 617-623-5411
+snippet: Top-rated Mexican fonda with mole and chiles en nogada
 tags:
 - eating_out
 - restaurant

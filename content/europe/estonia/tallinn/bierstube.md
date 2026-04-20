@@ -1,8 +1,10 @@
 ---
-address: Süda 7
-latitude: 59.429314
-longitude: 24.74648
-phone: '6461847'
+address: Süda 7, Tallinn
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 59.4293
+longitude: 24.7465
+snippet: German-style beer bar near the Old Town
 tags:
 - bars_and_cafes
 title: Bierstube

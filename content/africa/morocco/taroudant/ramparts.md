@@ -1,6 +1,7 @@
 ---
 latitude: 30.4706
 longitude: -8.8779
+snippet: Six kilometres of intact Saadian-era city walls
 story: 'In the 16th century Taroudant served as the Saadian capital before the dynasty
   moved its seat to Marrakesh. The walls the Saadians built have outlasted their empire
   by four centuries.

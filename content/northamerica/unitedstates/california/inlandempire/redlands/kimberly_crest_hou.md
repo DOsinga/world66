@@ -1,8 +1,11 @@
 ---
 address: 1325 Prospect Drive, Redlands, CA 92373
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.037376
 longitude: -117.173435
 phone: 909-792-2111
+snippet: Victorian French chateau and gardens overlooking Redlands
 tags:
 - things_to_do
 - architecture
@@ -11,6 +14,8 @@ type: poi
 url: www.kimberlycrest.org
 ---
 
-Kimberly Crest is modeled after a French chateau and has been lived in by only three families since being built in 1897 by Mrs. Cornelia Hill. It was subsequently owned by Mrs. Helen Kimberly and then Mrs. Elizabeth Shirk. For those familiar with Hollywood, the Magic Castle is an exact mirror image of Kimberly Crest.
+A Victorian estate modelled after a French chateau, built in 1897 and set on six acres of Italian-style gardens with views across the San Bernardino Valley. The house has been lived in by only three families and retains much of its original furnishing -- carved wood, stained glass, period wallpaper. The last owner, Mrs. Elizabeth Shirk, left the property to the city.
 
-Open Thursday through Sunday, 1:00 to 4:00 PM. Groups of 10 or more and school groups may schedule tours on other days by contacting the Kimberly Shirk Association directly.
+If the building looks oddly familiar, there's a reason: Hollywood's Magic Castle is an exact mirror image of it.
+
+Open Thursday through Sunday, 1:00 to 4:00 PM. Guided tours of the interior run on the hour. The gardens are worth a stroll even without the house tour.

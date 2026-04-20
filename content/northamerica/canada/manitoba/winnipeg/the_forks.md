@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 49.8879
 longitude: -97.1305
+snippet: Historic river junction with market, museum, and winter skating
 tags:
 - things_to_do
 - neighbourhood

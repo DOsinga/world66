@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 27.22
 longitude: 33.831
+snippet: Modern museum spanning pharaonic to Islamic eras with Red Sea finds
 tags:
 - things_to_do
+- museum
 title: Hurghada National Museum
 type: poi
 ---

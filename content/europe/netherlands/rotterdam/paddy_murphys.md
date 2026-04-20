@@ -5,6 +5,7 @@ longitude: 4.4814
 phone: +31 10 411 0078
 tags:
 - bars_and_cafes
+snippet: Lively Irish pub with live music and sports screens
 title: Paddy Murphy's
 type: poi
 url: www.paddymurphys.nl

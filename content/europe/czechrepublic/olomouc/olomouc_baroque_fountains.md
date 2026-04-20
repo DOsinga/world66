@@ -1,6 +1,7 @@
 ---
 latitude: 49.594
 longitude: 17.2512
+snippet: Six mythological fountains scattered across the old town
 tags:
 - things_to_do
 - sight

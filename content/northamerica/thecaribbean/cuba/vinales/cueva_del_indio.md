@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.6694
 longitude: -83.7073
+snippet: underground river cave with a motorboat ride through stalactites
 tags:
 - things_to_do
 - landmark

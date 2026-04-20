@@ -2,6 +2,7 @@
 address: 2600 Benjamin Franklin Parkway
 latitude: 39.9656
 longitude: -75.181
+snippet: World-class art collections and the famous Rocky steps
 tags:
 - things_to_do
 - museum

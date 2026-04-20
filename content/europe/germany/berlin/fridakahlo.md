@@ -1,11 +1,8 @@
 ---
 address: Lychenerstraße 37
 connections: U Eberswalder Str
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 52.543621
 longitude: 13.417245
-snippet: Cheerful Tex-Mex spot with big portions in Prenzlauer Berg
 tags:
 - eating_out
 - prenzlauerberg
@@ -13,4 +10,14 @@ title: Frida Kahlo
 type: poi
 ---
 
-Named after the Mexican painter, Frida Kahlo is a cheerful Tex-Mex restaurant on Lychener Straße where it always feels like summer. The portions are generous, the prices are fair, and the crowd skews young. It sits in one of Prenzlauer Berg's most characterful corners, near the U Eberswalder Straße station.
+This really nice restaurant is named after the Mexican cult figure, the painter Frida Kahlo. It always seems to be sumer here. Cheap, top quality Texmex in huge portions and a mainly young crowd in one of the most original corners of P'berg.
+
+type: Mexican
+
+
+
+
+
+address: Lychenerstraße 37
+
+connection: U Eberswalder Str

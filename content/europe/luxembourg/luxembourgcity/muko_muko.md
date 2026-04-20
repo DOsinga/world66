@@ -1,7 +1,10 @@
 ---
 address: 14, avenue de la Faïencerie
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.617115
 longitude: 6.121602
+snippet: Intimate two-room club with RnB and house nights
 tags:
 - bars_and_cafes
 title: Muko Muko

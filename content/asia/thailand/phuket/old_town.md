@@ -1,7 +1,10 @@
 ---
 address: Thalang Road, Phuket City
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 7.8826
 longitude: 98.3877
+snippet: Pastel Sino-Portuguese shophouses, cafes, and a Sunday market
 tags:
 - things_to_do
 - neighbourhood

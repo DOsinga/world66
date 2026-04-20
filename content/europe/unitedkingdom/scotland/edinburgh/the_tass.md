@@ -1,7 +1,10 @@
 ---
 address: 1 High Street, Edinburgh EH1 1SR
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.950708
 longitude: -3.184422
+snippet: Royal Mile pub with live traditional music sessions
 tags:
 - bars_and_cafes
 - old_town

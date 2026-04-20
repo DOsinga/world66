@@ -1,12 +1,16 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.1347
 longitude: 106.8132
+snippet: Colonial-era square at the heart of Old Batavia
 tags:
 - things_to_do
-- church
 - square
 title: Taman Fatahillah
 type: poi
 ---
 
-The old Dutch colonial heart used to beat at this spot. You can find some old and ancient architecture at and around this square. Nearby, you can find the oldest church in Jakarta, the *Gereja Sion*, and also *Si Jagur*, the cannon that symbolized fertility. Check out the Chinatown in the nearby Glodok area.
+The cobblestoned central square of Kota Tua (Old Town), once the administrative heart of Dutch Batavia. The former City Hall, now the Jakarta History Museum, dominates the south side; the Wayang Museum and Fine Arts Museum flank the other edges. Street performers and vendors fill the square on weekends, and you can rent colorful bikes to ride around the area.
+
+Nearby, look for *Si Jagur*, the old Portuguese cannon said to be a fertility symbol, and the *Gereja Sion*, Jakarta's oldest surviving church (1695). The Glodok Chinatown district is a short walk south — worth combining into the same half-day.

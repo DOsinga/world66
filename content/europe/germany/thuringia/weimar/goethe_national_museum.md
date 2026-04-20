@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.9793
 longitude: 11.3286
+snippet: Goethe's home for fifty years, preserved with his collections
 tags:
 - things_to_do
 - museum

@@ -1,9 +1,12 @@
 ---
 address: Nieuwe Doelenstraat 20–22
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.36806
 longitude: 4.895347
 neighbourhood: Rembrandtplein
 phone: 020-6255771
+snippet: Grand cafe with riverside terraces on the Amstel
 tags:
 - bars_and_cafes
 - rembrandtplein

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.7992
 longitude: 10.1802
+snippet: Tree-lined boulevard for evening promenades and sidewalk cafes
 tags:
 - things_to_do
 - landmark

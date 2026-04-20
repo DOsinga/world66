@@ -1,6 +1,8 @@
 ---
 address: Prinsengracht 263–267
 category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 image: anne_frank_house.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Anne-Frank-Huis_--_2015_--_7185.jpg
@@ -8,6 +10,7 @@ latitude: 52.375156
 longitude: 4.884081
 neighbourhood: The Jordaan
 opening_hours: Daily 9:00–22:00 (varies by season). Closed Yom Kippur
+snippet: Walk through the actual rooms where Anne Frank hid
 tags:
 - things_to_do
 - jordaan

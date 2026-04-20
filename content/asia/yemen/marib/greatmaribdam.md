@@ -1,9 +1,14 @@
 ---
-title: "Great Marib Dam"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 15.387
+longitude: 45.275
+snippet: Ancient Sabean dam that once irrigated seventy square kilometres
+tags:
+- things_to_do
+- sight
+title: Great Marib Dam
 type: poi
-tags: [things_to_do]
-latitude: 15.3870
-longitude: 45.2750
 ---
 
 The Great Marib Dam is the most famous ancient ruin in Yemen. Located 8 km south-west of the city of Marib, between the northern and central Balaq mountains, it collected water flowing from the eastern highlands and irrigated an estimated 70 square kilometres of the Marib valley -- one of the largest ancient irrigation systems in the world.

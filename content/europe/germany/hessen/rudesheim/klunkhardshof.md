@@ -1,9 +1,14 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.9785
 longitude: 7.9221
+snippet: Early 16th-century half-timbered house in the Old Town
 tags:
 - things_to_do
 - landmark
+- architecture
+- history
 title: Klunkhardshof
 type: poi
 ---

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.2694
 longitude: 11.3936
+snippet: Baroque cathedral with Asam frescoes and a Cranach altarpiece
 tags:
 - things_to_do
 - sight

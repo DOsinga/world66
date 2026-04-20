@@ -1,11 +1,13 @@
 ---
-title: "Kata Beach Phuket"
+title: Kata Beach
 type: poi
-address: "Kata Beach"
-url: "www.beachsiam.com"
-zipcode: "Phuket Island"
 latitude: 7.81936
 longitude: 98.29805
+snippet: Relaxed crescent of sand on Phuket's quieter west coast
+tags:
+- beaches
 ---
 
-Kata Beach on Phuket island is a quiet and relaxing beach area that offers an excellent soft sandy beach and clear waters. Although Kata Beach is quiet in relation to some other beaches on Phuket island it offers a choice of many restaurants, local shopping plus activities. Kata beach Hotels and Resorts offer accommodation from budget to luxury. An ideal beach for those wishing to rest and relax and enjoy fine accommodation in a quieter beach area on Phuket Island.
+A wide crescent of soft sand on Phuket's southwest coast, calmer and less frenetic than Patong but with enough restaurants and shops to keep you fed and entertained. The surf picks up from May to October — good enough for beginners to learn on, not serious enough to scare anyone off.
+
+The southern end (Kata Noi) is a separate smaller beach, usually less crowded. Between the two, a rocky headland offers decent snorkelling when the water is clear. The village behind the beach has Thai food stalls that are considerably cheaper than the beachfront places.

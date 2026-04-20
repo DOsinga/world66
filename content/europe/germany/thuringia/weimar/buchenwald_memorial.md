@@ -1,4 +1,5 @@
 ---
+snippet: "Sobering Nazi concentration camp memorial on the ridge above Weimar"
 latitude: 51.0219
 longitude: 11.2476
 story: After the war, the Soviet occupiers used the site as Special Camp No. 2, imprisoning

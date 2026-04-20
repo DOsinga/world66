@@ -1,6 +1,7 @@
 ---
 latitude: 18.268158
 longitude: 102.943205
+snippet: Karst landscape with river caves, 5-6 hours from Vientiane
 tags:
 - day_trips
 title: Hinboun Stone Forest

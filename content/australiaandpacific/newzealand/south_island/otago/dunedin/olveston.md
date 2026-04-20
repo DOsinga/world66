@@ -1,6 +1,7 @@
 ---
 latitude: -45.8686
 longitude: 170.5032
+snippet: "Edwardian time capsule house left exactly as it was"
 tags:
 - things_to_do
 - museum

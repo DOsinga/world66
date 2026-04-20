@@ -1,6 +1,7 @@
 ---
 latitude: 43.3998
 longitude: 10.8585
+snippet: Third-century BC Etruscan gate with carved stone heads
 story: 'The three dark stone heads carved into the arch are Etruscan — they represent
   gods whose names are now lost. The gate itself dates to the third century BC, making
   it one of the oldest surviving Etruscan structures in Tuscany. During the Second

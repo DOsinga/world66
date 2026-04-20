@@ -1,18 +1,15 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 7.770281
 longitude: 98.319305
+snippet: Southeastern Phuket beach known for fresh seafood and fishing boats.
 tags:
 - beaches
 title: Rawai Beach
 type: poi
 ---
 
-While this beach isn't the best for swimming at, it has some of the best seafood on the island. It can be reached by tuk tuk from anywhere on the island.
+Rawai Beach sits on the southeast tip of Phuket, well away from the crowds of Patong. The swimming is mediocre — the beach is shallow and rocky at low tide — but that's not why you come. The waterfront is lined with cheap seafood restaurants where the catch arrives daily from the fishing boats moored offshore. Pull up a plastic chair, point at what looks good, and eat Thai-style.
 
-Rawai Beach is set away from the touristy areas of [Patong](/asia/thailand/phuket/patong), on the southeast side of the island. There are many cheap seafood restaurants where you can eat Thai style on the beach.
-All the seafood is caught fresh each day, which can be seen from the beach by the numerous fishing boats offshore.
-
-There are also boats for parasailing, fishing, snorkelling or cruising. Just talk to the drivers to arrange a price and custom journey.
-
-**Contributors**
-December 11, 2005
+Fishing trips, snorkelling excursions, and boat charters to nearby islands can be arranged directly with the boat operators on the beach. Prices are negotiable.

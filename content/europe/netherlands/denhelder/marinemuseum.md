@@ -1,7 +1,13 @@
 ---
-tags: [things_to_do, museum]
+address: Hoofd 3, 1781 AA Den Helder
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.9622
 longitude: 4.7856
+snippet: Four centuries of Dutch naval history, with historic warships you can board
+tags:
+- things_to_do
+- museum
 title: Marinemuseum
 type: poi
 ---

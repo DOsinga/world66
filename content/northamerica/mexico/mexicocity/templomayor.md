@@ -1,6 +1,7 @@
 ---
 latitude: 19.435
 longitude: -99.1314
+snippet: Excavated Aztec pyramid rediscovered beneath the cathedral in 1978
 tags:
 - things_to_do
 - landmark

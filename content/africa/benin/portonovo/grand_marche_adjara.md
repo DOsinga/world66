@@ -1,6 +1,7 @@
 ---
 latitude: 6.4902
 longitude: 2.659
+snippet: "Traditional rotating market on a centuries-old four-day cycle"
 tags:
 - things_to_do
 - sight

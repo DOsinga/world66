@@ -1,9 +1,6 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 39.9999
 longitude: 116.2755
-snippet: Imperial garden with Kunming Lake and the painted Long Corridor
 tags:
 - things_to_do
 - landmark

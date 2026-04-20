@@ -2,6 +2,7 @@
 title: "Minar-e-Pakistan"
 type: poi
 category: "Sight"
+snippet: "62-metre tower marking Pakistan's founding resolution"
 latitude: 31.5925
 longitude: 74.3098
 ---

@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 6.1255
 longitude: 102.243
+snippet: Popular Indian restaurant with curries and fresh roti
 tags:
 - eating_out
+- restaurant
 title: Meena Curry House
 type: poi
 ---

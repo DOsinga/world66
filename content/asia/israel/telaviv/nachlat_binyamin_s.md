@@ -1,23 +1,19 @@
 ---
-title: "Nachlat Binyamin street bars"
-type: poi
-tags:
-  - bars_and_cafes
-  - bar
-address: "Nachlat Binyamin street"
+address: Nachlat Binyamin Street, Tel Aviv
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 32.0661
 longitude: 34.7733
+snippet: Laid-back bar-hopping strip off the artisan market
+tags:
+- bars_and_cafes
+- bar
+title: Nachlat Binyamin Street Bars
+type: poi
 ---
 
-Many people know the Nachlat Binyamin pedestrian alley, with it's artesanel market. Not many know the street called Nachlat Binyamin. Just of the pedestrian alley, the street with the same name begins.
-The street features many nice bars. The atmosphere can be sexy at some places, but no place is an aggresive pick up, as you find in Lilenblum or Alenby streets. You can just go bar hopping. Everything is close by.
+Most visitors know the Nachlat Binyamin pedestrian mall for its twice-weekly artisan market. Fewer discover the street of the same name running just off the pedestrian zone, lined with bars that make for easy, low-key bar-hopping.
 
-Here are some of the places:
-**Dinitz **starts the street, on the corner. During daytime, its more of a cafe, with tables outside. Durign the night, it becomes a nice bar.
-**Tahel **is mostly a restaurant featuring seafood, but at night it becomes a romantic bar, especially on it's second floor.
-**Betty Ford** is a popular bar, and a good place for a date. It also functions as a pickup bar, but as said before, it isn't aggressive.
-**Brown **is a place with a big variety of beers and whiskeys. It has rock and blues music and the soft brown colors make it a very nice place.
-**Mecca **is decorated with oriental style. It is a more fancy and crowded place on weekends, and it is better on weekdays, when there are live shows from time to time.
+The mood here is more relaxed than the pickup scene on Lilienblum or Allenby. You can drift from one place to the next — everything is within a short walk.
 
-**Contributors**
-August 12, 2006
+**Dinitz** anchors the corner. Sidewalk-cafe energy by day, proper bar at night. **Betty Ford** is popular for dates and casual drinks. **Brown** specializes in beers and whiskeys, with rock and blues on the speakers and warm, dim lighting. **Mecca** goes for ornate Middle Eastern decor and hosts occasional live shows on weekday evenings, when it's less packed than the weekend crush.

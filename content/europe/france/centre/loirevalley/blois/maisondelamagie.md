@@ -1,45 +1,16 @@
 ---
 title: "Maison de la Magie"
 type: poi
-address: "accross from the Castle"
-type: "Hotspots"
+tags:
+- things_to_do
+- sight
+- museum
+address: "1 Place du Château, Blois"
+latitude: 47.5860
+longitude: 1.3338
+snippet: "Magic museum opposite the château, built around hometown magician Robert-Houdin"
 ---
 
-The Maison de la Magie was dedicated to Houdin - whom Houdini was named after - a famous French magician, diplomat and inventor. Even if you don't go in, it is worthwhile to wait outside until the dragon comes out of the window.
+The Maison de la Magie occupies a building directly across from Blois's royal château and is dedicated to Jean Eugène Robert-Houdin, the 19th-century conjuror, inventor, and diplomat from whom Harry Houdini took his stage name. Robert-Houdin was born in Blois in 1805 and went on to become the most celebrated magician of his age — his automata, mechanical illusions, and theatrical innovations changed conjuring permanently.
 
-**Contributors**
-May 07, 2005
-
-September 14, 2005
-
-type: Hotspots
-
-
-
-
-
-address: accross from the Castle
-
-##
-
--
-
--
-
--
-
-[](/lib/map/handle?loc=europe|france)
-
-[](/lib/map/handle?loc=europe|france|centre|loirevalley|blois)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Inside, six rooms trace the history of magic from early sleight-of-hand to modern stage illusions, with original automata and equipment from Robert-Houdin's collection. Even if you skip the interior, linger outside on the hour: six mechanical dragon heads emerge from the building's upper windows at regular intervals. Admission is combined with the château for a discount.

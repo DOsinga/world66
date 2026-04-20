@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.1347
 longitude: 106.8132
 snippet: Colonial-era square at the heart of Old Batavia

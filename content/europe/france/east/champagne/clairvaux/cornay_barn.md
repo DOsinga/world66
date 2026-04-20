@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.1553
 longitude: 4.8411
+snippet: Sixteenth-century Cistercian grain barn near Clairvaux Abbey
 tags:
 - things_to_do
 - sight

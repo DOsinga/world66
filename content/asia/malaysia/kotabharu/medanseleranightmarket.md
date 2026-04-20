@@ -2,6 +2,7 @@
 address: Jalan Pintu Pong
 latitude: 6.127
 longitude: 102.2438
+snippet: 'Best cheap street food in Kota Bharu: ayam percik, blue rice, nasi kerabu'
 tags:
 - eating_out
 title: Medan Selera Night Market

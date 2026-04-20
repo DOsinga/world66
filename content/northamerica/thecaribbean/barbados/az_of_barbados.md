@@ -1,13 +1,16 @@
 ---
-title: "A-Z of Barbados"
-type: poi
-tags:
-  - books
-  - book
-author: "Sean Carrington, Henry Fraser, John Gilmore, Addington Forde"
-isbn: "0333920686"
+author: Sean Carrington, Henry Fraser, John Gilmore, Addington Forde
+done:
+  poi_cleanup: '2026-04-20'
+isbn: 0333920686
 latitude: 13.1939
 longitude: -59.5432
+snippet: Comprehensive illustrated reference to Barbadian history and culture
+tags:
+- books
+- book
+title: A-Z of Barbados
+type: poi
 ---
 
 Macmillan Caribbean A-Z's are a comprehensive series of reference books that provide an invaluable and entertaining source of information to the countries that comprise the Caribbean region. Highly-illustrated and in full-colour throughout, they are a unique "one-stop" resource to the cultural heritage of a fascinating and richly diverse part of the world.

@@ -1,14 +1,16 @@
 ---
-latitude: 21.017474
-longitude: 105.784295
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 10.7769
+longitude: 106.7032
+snippet: Stylish cocktail bar opposite the Opera House
 tags:
 - bars_and_cafes
 - bar
-- market
 title: Q Bar
 type: poi
 ---
 
-Not as good as its original incarnation, but not bad regardless. Suffers a certain synthetic cache from being right opposite the Caravelle Hotel, and certainly reflects this in the drink prices, but is nonetheless one of the most thoughtfully laid out bars in the central area. Music is acceptable and laid back.
+A sleek lounge bar set in the basement opposite the Opera House on Lam Son Square, Q Bar has been a fixture of Saigon's nightlife scene since the late 1990s. The interior is minimalist and moody, with low lighting and comfortable seating that draws a mix of expats and well-heeled locals.
 
-It's a good place to meet upmarket expats and five star tourists, but, aside from the odd glamour puss, most of the vietnamese traffic is either post '75 wealthy, or pre/post Apocalypse Now rough trade... As with any generalisation, there are exceptions.
+Drinks are pricier than average for the city, but the cocktails are well-made and the music stays on the right side of laid-back. It fills up on weekends, especially after 10pm.

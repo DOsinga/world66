@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 4.5981
 longitude: -74.0758
+snippet: Bogota's historic heart, ringed by cathedral and congress
 tags:
-- things_to_do
-- landmark
+- history
+- architecture
 title: Plaza Bolivar
 type: poi
 ---

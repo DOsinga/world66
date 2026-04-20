@@ -1,12 +1,14 @@
 ---
 address: Jalan Kemang Raya no 5
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.2552
 longitude: 106.8108
 phone: 7179 0151
+snippet: Kemang expat hangout with curries, pies, and a beer garden
 tags:
-- bars_and_cafes
-- bar
-- park
+- nightlife
+- food
 title: Eastern Promise
 type: poi
 ---

@@ -1,9 +1,9 @@
 ---
 latitude: 13.7712
 longitude: 100.5025
+snippet: Quiet canal-side flower and plant market, a local Bangkok alternative
 tags:
 - shopping
-- shop
 - market
 title: Thewet Market
 type: poi

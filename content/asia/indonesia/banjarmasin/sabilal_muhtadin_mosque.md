@@ -1,6 +1,7 @@
 ---
 latitude: -3.3233
 longitude: 114.5917
+snippet: "South Kalimantan's largest mosque on the Martapura River"
 tags:
 - things_to_do
 title: Sabilal Muhtadin Grand Mosque

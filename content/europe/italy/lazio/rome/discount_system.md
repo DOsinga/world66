@@ -1,12 +1,14 @@
 ---
 address: Via Panisperna 209
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8963
 longitude: 12.4904
 phone: +39 06 4746545
+snippet: Designer Italian fashion at up to half off
 tags:
 - shopping
 - shop
-- club
 title: Discount System
 type: poi
 ---

@@ -2,6 +2,7 @@
 title: "Alaska State Museum"
 type: poi
 category: Museum
+snippet: "Major collection of Alaska Native art and state history"
 latitude: 58.3010
 longitude: -134.4146
 ---

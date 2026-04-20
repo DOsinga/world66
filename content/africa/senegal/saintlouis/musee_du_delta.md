@@ -1,6 +1,7 @@
 ---
 latitude: 16.0215
 longitude: -16.491
+snippet: "Colonial-era history museum in a restored island house"
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,7 @@
 ---
 latitude: 28.1318
 longitude: -15.4318
+snippet: "Reliable Italian near Mesa y López shopping street"
 tags:
 - eating_out
 title: Casa Italia

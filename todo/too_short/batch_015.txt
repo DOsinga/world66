@@ -1,0 +1,7 @@
+/northamerica/unitedstates/washington/moclips
+/southamerica/chile/travelfacts/businesshours
+/southamerica/paraguay/santan
+/southamerica/peru/pisco
+/southamerica/venezuela/maracaibo/maracaibolake
+/tmp
+/travelwise/safetyandsecurity/naxalism

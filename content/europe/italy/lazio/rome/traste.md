@@ -6,6 +6,7 @@ phone: 06 5894430
 tags:
 - bars_and_cafes
 - bar
+snippet: Cocktail bar and tea room in the heart of Trastevere
 title: Traste
 type: poi
 url: www.traste.it

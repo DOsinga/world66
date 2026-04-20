@@ -1,6 +1,7 @@
 ---
 title: "Snack Bar Tinvoglia"
 type: poi
+snippet: "Cheap panini and tramezzini with friendly service"
 tags:
   - eating_out
   - restaurant

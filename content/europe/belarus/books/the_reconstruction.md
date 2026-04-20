@@ -1,24 +1,9 @@
 ---
 title: "The Reconstruction of Nations: Poland, Ukraine, Lithuania, Belarus, 1569-1999"
 type: poi
+snippet: "Scholarly history of nationhood in Eastern Europe"
 author: "Timothy Snyder"
 isbn: "030010586X"
 ---
 
-Reviews
-
-Timothy Garton Ash, St. Antony's College, University of Oxford
-A work of profound scholarship and considerable importance.
-
-Samuel P. Huntington, Harvard Academy for International and Area Studies
-A brilliant and fascinating analysis of the subtleties, complexities, and paradoxes of the evolution of nations in Eastern Europe.
-
-Source:amazon.com
-
-[](http://www.amazon.com/exec/obidos/ASIN/030010586X /osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: Timothy Snyder
-
-isbn: 030010586X
+Timothy Snyder traces how four modern nations emerged from territories that were once part of a single political entity — the Polish-Lithuanian Commonwealth. The book covers the tangled processes of nation-building from 1569 through the end of the twentieth century, showing how borders, languages, and identities shifted across centuries of partition, war, and Soviet rule. It is dense but rewarding, and essential reading if you want to understand why the region's politics remain so complex. Particularly useful as context before visiting Belarus, where much of this history is still contested.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8892
 longitude: 12.4874
+snippet: Rome's founding hill, covered in imperial palace ruins above the Forum
 tags:
 - things_to_do
 - palace

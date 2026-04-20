@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.331
 longitude: 91.828
+snippet: Chittagong's ancient riverside quarter, busy with ferries and fishing boats
 tags:
 - things_to_do
 title: Sadarghat

@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Cathedral of Santa Marta
 type: poi
+snippet: "One of the oldest churches in the Americas, facing the sea"
 ---
 
 One of the oldest churches in the Americas, the Cathedral sits on the main plaza facing the sea. Its white colonial facade is a Santa Marta landmark. Simon Bolivar's remains were kept here before being transferred to Caracas.

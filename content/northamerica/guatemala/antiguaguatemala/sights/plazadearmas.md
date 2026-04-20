@@ -1,11 +1,14 @@
 ---
-title: "Plaza de Armas"
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 14.5592
+longitude: -90.7338
+snippet: Antigua's colonial main plaza with an 18th-century mermaid fountain
+title: Plaza de Armas
 type: poi
-type: "Hotspots"
 ---
 
-In the center of the Plaza de Armas stands this famous fountain. Designed in 1739 by Miguel Porras, one of the city's renowned colonial architects, the Fuente de las Sirenas (Fountain of the Sirens) is one of many gracing Antigua's principal plazas and courtyards. These fountains were more than just ornamental. Although piped water reached important buildings and dwellings in the seventeenth century, fountains served as water supplies for humble dwellings, even into the present century.
+The heart of Antigua, and one of the finest colonial squares in Central America. At its centre stands the Fuente de las Sirenas (Fountain of the Sirens), designed in 1739 by Miguel Porras — the sinuous mermaid figures have become a symbol of the city. The fountain wasn't purely ornamental: it served as a water source for households without private supply well into the 20th century.
 
-  The Plaza de Armas Museum is located in the same building as City Hall. It has a beautiful patio and colonial fountain. There is an exhibition of colonial weapons, which includes artillery pieces, articles of colonial dress, and works of art. It is open to the public daily from 9:00 a.m. to 12:00 a.m. and from 2:00 p.m. to 6:00 p.m.
-
-type: Hotspots
+On the north side of the plaza, the City Hall building contains a small museum of colonial weapons, period dress, and artwork from the Spanish colonial era. It's open daily 9am–noon and 2–6pm, and free to enter. The courtyard itself, with its colonial fountain and stone arches, is worth seeing even if you skip the exhibits.

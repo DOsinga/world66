@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 21.8939
 longitude: 96.0572
 snippet: World's longest teak bridge, stunning at sunset

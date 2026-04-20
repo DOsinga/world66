@@ -1,10 +1,13 @@
 ---
 address: 55 5th St S, St. Petersburg, FL 33701
 admission: $16 adults, $14 seniors, $8 students, under 6 free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 27.7713
 longitude: -82.6371
 opening_hours: Daily 10:00am–5:00pm
 phone: +1 727-820-0100
+snippet: One of America's largest Holocaust museums, with a replica deportation railcar
 tags:
 - things_to_do
 - museum

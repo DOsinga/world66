@@ -1,6 +1,7 @@
 ---
 latitude: 9.0579
 longitude: 7.4891
+snippet: Nigeria's main ceremonial plaza, heart of the capital
 tags:
 - things_to_do
 - sight

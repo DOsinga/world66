@@ -1,6 +1,7 @@
 ---
 latitude: 27.6742
 longitude: 85.3244
+snippet: Gold and silver repoussé Buddhist monastery near Durbar Square
 story: The temple's name means 'Golden-Coloured Monastery' in Sanskrit. According
   to tradition, it was founded in the 12th century by King Bhaskar Varma. A small
   army of priests carries out an elaborate daily ritual cycle that has continued largely

@@ -1,7 +1,8 @@
 ---
 title: "Bogyoke Market"
 type: poi
-category: "Sight"
+snippet: "Yangon's sprawling colonial-era covered market"
+tags: [things_to_do, market]
 latitude: 16.7834
 longitude: 96.1499
 ---

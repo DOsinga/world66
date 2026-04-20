@@ -1,11 +1,12 @@
 ---
-latitude: 54.9375
-longitude: 23.8744
-tags:
-- things_to_do
-- museum
 title: Ninth Fort
 type: poi
+tags:
+  - things_to_do
+  - museum
+snippet: "WWII mass execution site where tens of thousands were killed by Nazis"
+latitude: 54.9375
+longitude: 23.8744
 ---
 
 Originally part of Kaunas's ring of 19th-century defensive fortifications, the Ninth Fort earned the grim name "Fort of Death" during WWII when the Nazis used it as an execution site. Tens of thousands of people — most of them Jewish — were killed here. The museum documents these crimes with sobering exhibits and archival material. A monumental concrete sculpture marks the site. Allow at least two hours.

@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.4412
 longitude: 103.8586
-snippet: "Walled city with 200 enigmatic stone faces at the Bayon"
+snippet: Walled city with 200 enigmatic stone faces at the Bayon
 tags:
 - things_to_do
 - temple

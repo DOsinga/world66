@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.0943
 longitude: 74.8056
-snippet: "Grand 14th-century mosque built from 378 deodar cedar pillars"
+snippet: Grand 14th-century mosque built from 378 deodar cedar pillars
 tags:
 - things_to_do
 - architecture

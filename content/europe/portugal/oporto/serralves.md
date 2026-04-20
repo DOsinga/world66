@@ -1,7 +1,10 @@
 ---
 address: Rua Dom João de Castro 210
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.159042
 longitude: -8.659354
+snippet: Siza-designed contemporary art museum in parkland
 tags:
 - things_to_do
 - museum

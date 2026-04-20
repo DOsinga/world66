@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.1065
 longitude: 9.8265
+snippet: Seafood and Italian staples in a friendly setting
 tags:
 - eating_out
 title: All'Inferno

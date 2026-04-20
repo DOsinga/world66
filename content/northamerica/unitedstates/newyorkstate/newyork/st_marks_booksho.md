@@ -1,8 +1,11 @@
 ---
 address: 31 Third Avenue, East Village
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.72904
 longitude: -73.98934
 phone: 212-260-7853
+snippet: East Village indie bookshop for literary fiction and theory
 tags:
 - shopping
 - shop

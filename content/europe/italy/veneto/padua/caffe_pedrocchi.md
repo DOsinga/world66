@@ -2,9 +2,11 @@
 address: Via VIII Febbraio 15
 latitude: 45.4074
 longitude: 11.8773
+snippet: "The café without doors" — neoclassical landmark since 1831
 tags:
 - things_to_do
 - sight
+- story
 title: Caffè Pedrocchi
 type: poi
 ---

@@ -3,6 +3,7 @@ latitude: -16.0377
 longitude: -67.8176
 tags:
 - day_trips
+snippet: "Remote village with pre-Columbian rock drawings nearby"
 title: Santa Rosa de Kilo Kilo
 type: poi
 ---

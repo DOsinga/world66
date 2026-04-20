@@ -1,6 +1,7 @@
 ---
 latitude: 33.591638
 longitude: -7.619841
+snippet: "Grand colonial square ringed by art deco-Moorish buildings"
 tags:
 - things_to_do
 - architecture

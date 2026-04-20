@@ -1,6 +1,7 @@
 ---
 title: "Deogad Fort"
 type: poi
+snippet: "Maratha-era fort on a wave-battered peninsula"
 tags:
   - things_to_do
   - fort

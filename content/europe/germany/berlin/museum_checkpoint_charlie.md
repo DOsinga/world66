@@ -1,6 +1,8 @@
 ---
+title: Checkpoint Charlie Museum
+type: poi
+snippet: "Escape stories and Cold War artifacts at the former crossing"
 address: Friedrichstraße 43-45, Mitte
-category: Museum
 latitude: 52.507628
 longitude: 13.390364
 opening_hours: Daily 9am-10pm
@@ -8,8 +10,6 @@ phone: +49 30 2537250
 tags:
 - things_to_do
 - museum
-title: Checkpoint Charlie Museum
-type: poi
 url: www.mauermuseum.de
 ---
 

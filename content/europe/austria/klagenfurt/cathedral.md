@@ -4,6 +4,7 @@ longitude: 14.3086
 tags:
 - things_to_do
 - sight
+snippet: "16th-century cathedral with Baroque ceiling frescoes"
 title: Klagenfurt Cathedral
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: -6.1763
 longitude: 106.8218
+snippet: "Indonesia's finest museum spanning millennia of civilisation"
 tags:
 - things_to_do
 - museum

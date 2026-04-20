@@ -1,29 +1,16 @@
 ---
-accessibility: “Arbatskaya” metro station
-address: Moscow, Nikitsky Boulevard, 7a
-category: Museum
-email: museum@domgogolya.ru
-opening_hours: Open every day, except Tuesday and the last day of every month, 12am
-  - 7pm (ticket office closes at 6pm), weekends 12am – 5pm.
-phone: (495) 690-58-81, (495) 695-92-56
 title: Gogol Museum
 type: poi
+snippet: “Gogol's final home, with the fireplace that burned Dead Souls”
+address: Nikitsky Boulevard 7a, Moscow
+latitude: 55.7528
+longitude: 37.5982
+opening_hours: “Wed-Sun 12pm-7pm, closed Tuesdays and last day of each month”
+phone: “+7 495 690-58-81”
+tags:
+- things_to_do
+- museum
 url: www.domgogolya.ru
 ---
 
-Gogol`s house in Nikitsky Boulevard is the only place in Moscow that keeps memory of the last years of Nikolai Gogol.
-The Gogol Museum underwent renovation in 2009 and now visitors can see the fireplace where Gogol burnt one of his famous manuscripts of Dead Souls and see the rooms where he passed his final hours.
-
-
-
-accessibility: “Arbatskaya” metro station
-
-tel: (495) 690-58-81, (495) 695-92-56
-
-openingHours: Open every day, except Tuesday and the last day of every month, 12am - 7pm (ticket office closes at 6pm), weekends 12am – 5pm.
-
-url: [www.domgogolya.ru](http://www.domgogolya.ru/en)
-
-address: Moscow, Nikitsky Boulevard, 7a
-
-email: museum@domgogolya.ru
+The house on Nikitsky Boulevard is where Nikolai Gogol spent his last years, and it is the only place in Moscow that preserves that connection. The museum underwent a thorough renovation in 2009, and the rooms are presented with a theatrical flair that suits their subject. The centrepiece is the fireplace where Gogol, in a fit of religious despair, burned the manuscript of the second part of Dead Souls just days before his death in 1852. You can also see the study where he worked and the bedroom where he died. The nearest metro is Arbatskaya.

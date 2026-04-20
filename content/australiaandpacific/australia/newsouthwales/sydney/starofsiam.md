@@ -6,6 +6,7 @@ phone: (02) 9212 6717
 tags:
 - eating_out
 - restaurant
+snippet: "Quick, reliable Thai food in Chinatown"
 title: Star of Siam
 type: poi
 ---

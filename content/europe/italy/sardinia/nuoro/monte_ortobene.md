@@ -1,6 +1,7 @@
 ---
 latitude: 40.335
 longitude: 9.355
+snippet: "Mountain summit with bronze Redeemer and sweeping valley views"
 tags:
 - things_to_do
 - sight

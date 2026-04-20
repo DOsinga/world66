@@ -1,10 +1,11 @@
 ---
 latitude: 0.4045
 longitude: 9.4425
+snippet: Gabonese masks, carvings, and musical instruments
 tags:
 - things_to_do
 - museum
-title: Musee des Arts et Traditions
+title: Musée des Arts et Traditions du Gabon
 type: poi
 ---
 

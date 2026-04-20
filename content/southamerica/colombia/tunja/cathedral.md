@@ -6,6 +6,7 @@ tags:
 - sight
 - landmark
 - architecture
+snippet: "Colombia's oldest cathedral, a colonial blend of Gothic, Mudejar, and Renaissance"
 title: Cathedral Basilica of Santiago de Tunja
 type: poi
 ---

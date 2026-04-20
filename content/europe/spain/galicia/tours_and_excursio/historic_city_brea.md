@@ -1,8 +1,13 @@
 ---
-title: "Historic City Break in Santiago de Compostela"
-type: poi
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.8805
 longitude: -8.5457
+snippet: Santiago makes an excellent base for Galicia day trips
+tags:
+- things_to_do
+title: Day Trips from Santiago de Compostela
+type: poi
 ---
 
-A short break package centered on Santiago de Compostela, with hotel near the historic centre and daily guided excursions by coach. Departures cover the Rías Altas on Mondays, Rías Baixas on Tuesdays and Saturdays, Finisterre on Wednesdays and Sundays, the Camino and Lugo on Thursdays, and Vigo and northern Portugal on Fridays. A good option if you want to base yourself in Santiago and take day trips rather than drive.
+Santiago de Compostela works well as a base for exploring wider Galicia without needing a car. Organized coach excursions run daily, covering different routes depending on the day: the Rías Altas to the north, the Rías Baixas to the south, Finisterre on the wild Atlantic coast, the Camino route through Lugo, and Vigo with a cross into northern Portugal. If you prefer to drive yourself, the same routes are easily done independently — the Rías Baixas (Pontevedra, Cambados, O Grove) and Finisterre are the highlights.

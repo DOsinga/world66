@@ -1,10 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.005556
 longitude: 31.228889
+snippet: Ancient churches and a synagogue inside Roman fortress ruins
 tags:
 - things_to_do
 - church
-- palace
 - neighbourhood
 title: Coptic Quarter
 type: poi

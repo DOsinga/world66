@@ -1,6 +1,10 @@
 ---
+address: Herrengasse 35
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.1385
 longitude: 9.5235
+snippet: Liechtenstein's oldest inn, over 600 years of history
 tags:
 - eating_out
 title: Gasthof Löwen

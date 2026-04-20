@@ -1,23 +1,15 @@
 ---
-address: Parallel Boulevard 208 - 2202 HT Noordwijk
-email: beach@flyingpig.nl
-latitude: 52.24615
-longitude: 4.43297
-phone: +31 (0)71 362 25 33
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 52.2362
+longitude: 4.4412
+snippet: Wide sandy beach and dunes north of Leiden
 tags:
 - beaches
 title: Noordwijk
 type: poi
-url: www.beachhostel.nl
 ---
 
-The Noordwijk Beach is the home to sun, fun, golden sand, surfing of all kinds; especially kite surfing: The worlds number two kitesurfer calls Noordwijk home. The local surf clubs can teach you how to kitesurf or rent you all the surf gear you could ever want.
+Noordwijk aan Zee is one of the best beach towns on the Dutch North Sea coast, about 40 minutes from Amsterdam by car. A wide, clean stretch of sand backed by high dunes draws surfers, kite surfers, and sunbathers from spring through autumn. Beach pavilions (strandtenten) line the shore from April to October, serving drinks and food with your feet in the sand.
 
-Noordwijk is also a party town, in season and out its easy to meet people and be merry in the local bars.
-
-Its easy to stay out at the beach too, The Flying Pig Beach Hostel ( www.beachhostel.nl) is affordable and the perfect place to chill after some craziness in Amsterdam - not only do they have a happenin' surf bar but being right in the center of Noordwijk and less than a minute to the beach - perfect place to call base for the rest of the area, whether it be to see the beach itself, visit neighbouring city Leiden (where the weed is cheaper than Amsterdam, not to mention the historical and artistic signifigance of the city), massive multicloloured tulip fields nearby, bike rides through the dunes/country side/neighbouring towns, the options are only limited to your imagination. On top of all this if your staying at The Flying Pig Beach Hostel you can utilise the free pick up service from Amsterdam.
-
-One of the best things about Noordwijk is how you can chill if you want but if you want, there is always a party somewhere, generally at the Pig, the towns only centrally located hostel.
-
-**Contributors**
-January 20, 2006
+The town itself is compact and walkable, with enough bars and restaurants to keep an evening interesting. It makes a good day trip from Amsterdam or [Leiden](/europe/netherlands/leiden), which is only 15 minutes away by bus. The bulb fields between Noordwijk and Lisse explode with color in April and May.

@@ -1,6 +1,7 @@
 ---
 latitude: 29.657568
 longitude: 91.117019
+snippet: Towering hilltop palace, former seat of the Dalai Lama
 tags:
 - things_to_do
 - palace

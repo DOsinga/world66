@@ -2,6 +2,7 @@
 address: 'Calle 7 # 4-69'
 latitude: 3.4519
 longitude: -76.534
+snippet: "Pre-Columbian Calima goldwork in a free museum"
 tags:
 - things_to_do
 - museum

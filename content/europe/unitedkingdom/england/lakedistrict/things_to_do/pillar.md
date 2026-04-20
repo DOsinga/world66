@@ -1,9 +1,14 @@
 ---
-title: 'Pillar'
+title: Pillar
 type: poi
-category: 'hiking'
+snippet: Craggy fell with dramatic rock pinnacle and airy traverse
+tags:
+- things_to_do
+- hiking
 latitude: 54.497481
 longitude: -3.281181
 ---
 
-Pillar is a justifiably popular hill. The northern side is craggy and carries the pinnacle of Pillar Rock which is sufficiently separated from the parent peak to feature in most lists of Lakeland two-thousanders although not in the Marilyn list. The best route on Pillar is undoubtedly the traverse which contours along the northern side of the hill to Robinson's cairn and hence through dramatic rocky terrain to the col between Pillar Rock and the main summit. Pillar Rock itself is a 'moderate' rock climb by the easiest route and not advisable for unroped scramblers.
+Pillar is one of the Lake District's most rewarding fells. At 892 metres it ranks among the highest in Ennerdale, and its northern face is steep and craggy, dominated by the great pinnacle of Pillar Rock — a separate summit significant enough to appear in most lists of Lakeland two-thousanders, though not in the Marilyn list.
+
+The best route is the High Level Traverse, which contours along the northern flank from Black Sail Pass to Robinson's Cairn, then threads through dramatic rocky terrain to the col between Pillar Rock and the main summit. The views into Ennerdale and across to Great Gable are outstanding. Pillar Rock itself requires a 'moderate' grade rock climb by the easiest route and should not be attempted without ropes.

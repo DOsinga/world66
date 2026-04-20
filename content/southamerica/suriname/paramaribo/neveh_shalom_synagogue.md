@@ -1,6 +1,7 @@
 ---
 title: "Neveh Shalom Synagogue"
 type: poi
+snippet: "Historic Sephardic synagogue standing beside a mosque"
 tags:
   - things_to_do
   - synagogue

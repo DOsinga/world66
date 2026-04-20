@@ -6,6 +6,7 @@ phone: (39) 011 4369741
 tags:
 - shopping
 - market
+snippet: Monthly flea market with antiques, silverware, and curiosities
 title: Gran Balon
 type: poi
 ---

@@ -1,21 +1,11 @@
 ---
-title: "Language"
+snippet: Spanish dominates; English less common than expected
+tags:
+- practical_information
+title: Language
 type: poi
-type: "Tourist information"
 ---
 
-The official language in Panama is Spanish. Due to the US influence
-in Panama throughout its history a lot of people think English is
-spoken by most Panamanians. That's NOT the case. Allthough many
-former "zonian's" are bilingual and those working in the international
-banking sector obviously speak foreign languages, surprisingly few
-average Panamanians speak English.
+Spanish is the official language of Panama. Despite the long American presence in the Canal Zone, English is far less widely spoken than most visitors expect. Former "Zonians" and people in international banking tend to be bilingual, but the average Panamanian on the street speaks little or no English.
 
-The Spanish spoken in Panama is pretty fast and people tend to
-swallow the 's' a lot. Like all countries in Central and South
-America, there's a lot of slang expressions.
-
-**Contributors**
-February 13, 2006
-
-type: Tourist information
+Panamanian Spanish is fast, with a habit of swallowing the letter 's' — a feature shared with several Caribbean-influenced dialects. Slang runs deep, as it does across Central and South America, so even fluent Spanish speakers may need a little adjustment time. If your Spanish is rusty, a few key phrases will go a long way outside Panama City's tourist areas.

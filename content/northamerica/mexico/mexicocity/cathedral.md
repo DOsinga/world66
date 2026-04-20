@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 19.4342
 longitude: -99.1331
+snippet: Largest cathedral in the Americas, slowly sinking into ancient lake-bed
 tags:
 - things_to_do
 - architecture

@@ -1,7 +1,10 @@
 ---
 address: 49 Shotover Street
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -45.0319
 longitude: 168.6585
+snippet: Lively backpacker bar for cheap drinks and meeting people
 tags:
 - bars_and_cafes
 - bar

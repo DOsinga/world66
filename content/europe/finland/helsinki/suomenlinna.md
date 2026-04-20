@@ -2,6 +2,7 @@
 title: "Suomenlinna"
 type: poi
 tags: [things_to_do]
+snippet: UNESCO sea fortress on six islands, a short ferry ride away
 url: "suomenlinna.fi"
 latitude: 60.144388
 longitude: 24.985405

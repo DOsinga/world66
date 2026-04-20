@@ -1,6 +1,7 @@
 ---
 latitude: -7.166
 longitude: 107.4021
+snippet: Turquoise volcanic crater lake in the highlands south of Bandung
 tags:
 - day_trips
 title: Kawah Putih

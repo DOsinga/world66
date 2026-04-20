@@ -2,9 +2,11 @@
 address: 858 rue Sainte-Catherine Est, Montréal, QC H2L 2E3
 done:
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-20'
 latitude: 45.515999
 longitude: -73.55812
 phone: (514) 286-0325
+snippet: Legendary afterhours club with world-class sound system
 tags:
 - bars_and_cafes
 title: Stereo

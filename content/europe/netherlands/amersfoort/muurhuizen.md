@@ -1,6 +1,7 @@
 ---
 latitude: 52.1558
 longitude: 5.392
+snippet: "Grand houses built into the medieval city wall along quiet canals"
 tags:
 - things_to_do
 - neighbourhood

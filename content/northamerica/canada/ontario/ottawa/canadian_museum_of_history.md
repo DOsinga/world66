@@ -1,6 +1,7 @@
 ---
 latitude: 45.4302
 longitude: -75.7088
+snippet: Canada's most-visited museum with totem poles and river views
 tags:
 - things_to_do
 - museum

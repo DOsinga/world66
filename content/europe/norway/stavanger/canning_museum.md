@@ -1,7 +1,10 @@
 ---
 address: Øvre Strandgate 88, 4005 Stavanger
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 58.9724
 longitude: 5.7281
+snippet: World's only sardine cannery museum in a 1916 factory
 story: On the first Sunday of each month, the museum fires up the old sardine-smoking
   ovens and hands out smoked brisling to visitors — the same snack that made Stavanger
   famous and fed Allied soldiers through two world wars.

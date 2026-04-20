@@ -3,6 +3,14 @@ title: "Chandni Chowk"
 type: poi
 latitude: 28.655983
 longitude: 77.232194
+snippet: "Old Delhi's chaotic, sensory-overload Mughal-era bazaar"
+tags:
+- things_to_do
+- shopping
 ---
 
-Chandni Chowk was the eyes and ears of the Mughal's commercial instincts and is today one of the country's best known wholesale markets for textiles, electronic goods and watches. The entire area was designed by Jahanara Begum, Shah Jahan's favourite daughter and was then inhabited by the well-to-do families oft he time. There is however a word of caution and that is that there are several elements who are believed to be selling duplicate goods and the tourist needs to be careful about this. Just before one enteres the Chandni Chowk area one cannot miss seeing the charity bird's hospital located within the precincts of a temple. Bird lovers bring their pets here for treatment free of cost. So if one of your pets is in trouble then this is the place you need to go to.
+Chandni Chowk is Old Delhi at its most intense — a sprawling Mughal-era bazaar stretching from the Red Fort to the Fatehpuri Mosque. Laid out in the 1650s by Jahanara Begum, Shah Jahan's daughter, it was once a grand canal-lined avenue for the city's wealthiest families. Today it's a heaving maze of narrow lanes, each specialising in something different: textiles in one alley, spices in the next, electronics around the corner, wedding cards down the way.
+
+The real draw is the street food. Paranthe Wali Gali serves stuffed parathas that have been fried in ghee since the 1870s. Natraj Dahi Bhalle Wala has been dishing out chaat from the same spot for over a century. Come hungry.
+
+Near the entrance on Nai Sarak, the Jain Bird Hospital inside the Digambara Jain Temple treats injured birds brought in by locals — a genuinely unusual sight. The recently pedestrianised main stretch has made walking slightly less harrowing, but the side lanes remain gloriously chaotic. Visit in the morning before the crowds peak.

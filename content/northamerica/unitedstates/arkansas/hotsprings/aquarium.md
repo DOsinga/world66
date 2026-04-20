@@ -1,7 +1,10 @@
 ---
 address: 847 Whittington Avenue
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.519
 longitude: -93.053
+snippet: 300-plus gators and a petting zoo in classic roadside style
 tags:
 - things_to_do
 - sight

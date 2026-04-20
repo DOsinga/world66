@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 26.994901
 longitude: 88.285331
+snippet: Pre-dawn sunrise viewpoint over Kanchenjunga and Everest
 tags:
 - things_to_do
 title: Tiger Hill

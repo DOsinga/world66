@@ -2,6 +2,7 @@
 address: 3895 boulevard Saint-Laurent, Montréal, QC H2W 1X9
 latitude: 45.516
 longitude: -73.5815
+snippet: Legendary smoked meat deli unchanged since 1928
 tags:
 - eating_out
 title: Schwartz's Deli

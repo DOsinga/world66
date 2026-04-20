@@ -1,9 +1,12 @@
 ---
 title: "Bar Marmont"
 type: poi
+snippet: "Dark, glamorous cocktail bar beside the legendary Chateau Marmont"
+tags:
+- things_to_do
+- nightlife
 address: "8171 West Sunset Boulevard"
 opening_hours: "Daily 6pm-2am"
-email: "agrandinetti@chateaumarmont.com"
 phone: "323-650-0575"
 url: "www.chateaumarmont.com"
 latitude: 34.098195

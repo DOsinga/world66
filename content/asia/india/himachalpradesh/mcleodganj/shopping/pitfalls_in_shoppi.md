@@ -1,5 +1,8 @@
 ---
-title: 'Pitfalls in Shopping'
+snippet: Bargaining tips for McLeodganj's silver jewellery shops
+tags:
+- shopping
+title: Pitfalls in Shopping
 type: poi
 ---
 

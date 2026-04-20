@@ -1,6 +1,7 @@
 ---
 latitude: -3.065
 longitude: 37.925
+snippet: "Short hike up a cinder cone with views over lava flows"
 tags:
 - things_to_do
 - sight

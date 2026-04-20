@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -38.4881
 longitude: 145.2323
-snippet: "Famous nightly Penguin Parade and rugged coastal scenery"
+snippet: Famous nightly Penguin Parade and rugged coastal scenery
 tags:
 - day_trips
 title: Phillip Island

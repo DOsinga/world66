@@ -1,8 +1,11 @@
 ---
 address: Parkhaven 20
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.9054
 longitude: 4.4666
 phone: +31 10 436 4811
+snippet: 185-metre observation tower with revolving glass elevator
 tags:
 - things_to_do
 - landmark

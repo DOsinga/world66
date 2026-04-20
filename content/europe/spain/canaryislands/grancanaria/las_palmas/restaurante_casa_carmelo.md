@@ -1,6 +1,7 @@
 ---
 latitude: 28.1484
 longitude: -15.4312
+snippet: Canarian grill on the Las Canteras promenade
 tags:
 - eating_out
 title: Casa Carmelo

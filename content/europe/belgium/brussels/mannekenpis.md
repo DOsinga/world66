@@ -2,6 +2,7 @@
 address: Corner of Rue de l'Étuve and Rue du Chêne
 latitude: 50.844986
 longitude: 4.349993
+snippet: Brussels' irreverent peeing boy statue since 1619
 tags:
 - things_to_do
 - landmark

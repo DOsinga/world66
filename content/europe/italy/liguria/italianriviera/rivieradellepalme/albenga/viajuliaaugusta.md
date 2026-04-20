@@ -1,6 +1,7 @@
 ---
 latitude: 44.055
 longitude: 8.23
+snippet: Ancient Roman road walk between Albenga and Alassio
 tags:
 - things_to_do
 - sight

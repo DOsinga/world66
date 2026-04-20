@@ -1,6 +1,7 @@
 ---
 latitude: 38.5609
 longitude: 68.7787
+snippet: Traditional Tajik crafts and daily life exhibits
 tags:
 - things_to_do
 title: Ethnographic Museum

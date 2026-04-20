@@ -1,6 +1,7 @@
 ---
 latitude: 30.202
 longitude: 53.178
+snippet: Ruins of Cyrus the Great royal palaces and gardens
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 43.7886
 longitude: 4.8315
+snippet: Provençal art museum with Van Gogh documentation room
 tags:
 - things_to_do
 - museum

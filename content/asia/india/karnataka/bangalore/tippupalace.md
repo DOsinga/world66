@@ -1,11 +1,15 @@
 ---
+address: Albert Victor Road, Chamrajpet, Bangalore
 latitude: 12.959647
 longitude: 77.573684
+snippet: Tipu Sultan's ornate wooden summer palace
 tags:
 - things_to_do
+- landmark
 title: Tippu Palace
 type: poi
 ---
 
-Bangalore's Fort was built by Kempe Gowda and expanded by Tippu Sultan. Within its walls is the well preserved 16th century Ganapathi Temple. Nearby is The Palace Hyder Ali began and Tippu completed. Resembling the Daria Daulat Palace in Srirangapatanam, this summer palace has been constructed largely of wood and is famous for its carving and paintings.
- ** giri:**
+Tipu Sultan's Summer Palace sits within the walls of the Bangalore Fort, originally built by Kempe Gowda in the 16th century. The two-story structure is built almost entirely of wood, with ornate pillars, arches, and balconies decorated with floral motifs. Inside, you'll find paintings depicting Tipu's military campaigns and court life.
+
+The palace resembles the Daria Daulat Bagh in Srirangapatna and gives a good sense of the ambition and taste of the "Tiger of Mysore." Nearby within the fort walls is the well-preserved Ganapathi Temple, worth a quick visit on the same stop.

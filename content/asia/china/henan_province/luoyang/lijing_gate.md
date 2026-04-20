@@ -1,6 +1,7 @@
 ---
 latitude: 34.631
 longitude: 112.454
+snippet: Old town gate tower with street food and evening strolls
 tags:
 - things_to_do
 title: Lijing Gate

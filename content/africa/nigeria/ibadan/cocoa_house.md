@@ -1,6 +1,7 @@
 ---
 latitude: 7.3855
 longitude: 3.8814
+snippet: Africa's first skyscraper and Ibadan landmark
 tags:
 - things_to_do
 - architecture

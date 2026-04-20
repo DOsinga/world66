@@ -1,11 +1,18 @@
 ---
-title: "Cagsawa Ruins"
-type: poi
 latitude: 13.1373
 longitude: 123.6896
-tags: [things_to_do, ruins]
-story: >
-  On February 1, 1814, Mayon Volcano erupted with catastrophic force. Thousands of people sheltered inside the Cagsawa church — and were buried alive when the lava flows reached it. Only the bell tower survived above the ash. The disaster killed over 1,200 people and remains one of the deadliest eruptions in Philippine history.
+snippet: Volcanic ruins with iconic Mayon Volcano backdrop
+story: 'On February 1, 1814, Mayon Volcano erupted with catastrophic force. Thousands
+  of people sheltered inside the Cagsawa church — and were buried alive when the lava
+  flows reached it. Only the bell tower survived above the ash. The disaster killed
+  over 1,200 people and remains one of the deadliest eruptions in Philippine history.
+
+  '
+tags:
+- things_to_do
+- ruins
+title: Cagsawa Ruins
+type: poi
 ---
 
 The most photographed sight in the Bicol region: the ruined bell tower of the 18th-century Cagsawa church, rising from green fields with Mayon Volcano as its backdrop. The church was destroyed in the great 1814 eruption that buried the surrounding village entirely — the tower is all that remains above ground.

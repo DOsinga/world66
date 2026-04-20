@@ -1,6 +1,7 @@
 ---
 latitude: 17.913889
 longitude: 102.765278
+snippet: Surreal sculpture garden with 200+ Buddhist and Hindu statues
 tags:
 - things_to_do
 - landmark

@@ -3,6 +3,7 @@ address: Angol, White Beach (near boat station 3)
 latitude: 11.9595
 longitude: 121.9255
 phone: 036 288 5767
+snippet: Laid-back beach bar with sunset views and sailing trips
 tags:
 - bars_and_cafes
 title: Red Pirates

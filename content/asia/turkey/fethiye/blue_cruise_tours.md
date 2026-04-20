@@ -1,16 +1,18 @@
 ---
-title: "Blue Cruise Tours - Olympos to Fethiye"
-type: poi
-tags:
-  - day_trips
-  - boat_tour
-  - blue_cruise
-address: "Olympos departure"
-email: "info@onenationtravel.net"
-phone: "+90 2124582191"
-url: "www.onenationtravel.net"
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.622
 longitude: 29.116
+snippet: Four-day gulet cruise from Olympos tree houses to Fethiye harbour
+tags:
+- day_trips
+- boat_tour
+title: 'Blue Cruise: Olympos to Fethiye'
+type: poi
 ---
 
-A four-day gulet cruise in reverse: pick-up from the tree houses at Olympos, with a bus transfer to Myra and the St Nicholas Church at Demre before boarding. The route heads north via the sunken city of Kekova, Simena, Kas, Butterfly Valley, Oludeniz, and St Nicholas Island, arriving at Fethiye Harbour on day four. All meals, harbour fees, and snorkelling equipment included.
+The classic gulet cruise in reverse — starting from the tree houses at Olympos rather than the usual Fethiye end — gives you a fresh perspective on one of Turkey's most-travelled stretches of coastline. Most tours include a bus transfer to Myra and the Church of St Nicholas at Demre before boarding.
+
+From there the route works north: Kekova and its sunken Lycian city visible through the clear water, the castle village of Simena, the bohemian harbour town of Kas, and Butterfly Valley's steep canyon accessible only by sea. The final stretch passes Oludeniz's famous blue lagoon and St Nicholas Island before arriving at Fethiye Harbour on day four.
+
+Four days gives you enough time to swim at every stop without feeling rushed. Meals are typically cooked on board by the crew, and snorkelling equipment is usually included.

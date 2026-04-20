@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.4566
 longitude: -2.6048
 tags:
 - things_to_do
 - museum
+snippet: Free museum with mummies, dinosaurs, fine art, and a Banksy installation
 title: Bristol Museum & Art Gallery
 type: poi
 ---

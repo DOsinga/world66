@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.7599
 longitude: 107.6097
+snippet: Accessible active volcano you can drive to the crater rim
 tags:
 - day_trips
 title: Tangkuban Perahu

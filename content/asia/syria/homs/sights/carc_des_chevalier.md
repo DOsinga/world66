@@ -1,9 +1,11 @@
 ---
-title: "Carc des Chevaliers (Qal'at al-Hosn)"
+title: "Crac des Chevaliers (Qal'at al-Hosn)"
 type: poi
+snippet: Greatest surviving Crusader castle, a UNESCO World Heritage Site
 address: "65 km west of Homs"
-opening_hours: "0800 am to 0600pm"
-type: "Castles"
+opening_hours: "0800-1800"
+latitude: 34.7569
+longitude: 36.2939
 ---
 
 The most famous medieval citadel in the
@@ -128,16 +130,3 @@ The Mameluks
 later used it to attack Acre
 in 1291 .
 Written by Akef D. Sibai.
-
-**Contributors**
-March 05, 2007
-
-type: Castles
-
-
-
-
-
-openingHours: 0800 am to 0600pm
-
-address: 65 km west of Homs

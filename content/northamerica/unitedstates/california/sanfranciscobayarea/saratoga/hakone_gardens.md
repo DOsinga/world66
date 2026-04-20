@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.2523
 longitude: -122.0418
+snippet: Oldest Japanese-style garden in the Western Hemisphere
 tags:
-- things_to_do
-- sight
+- nature
+- park
+- history
 title: Hakone Estate and Gardens
 type: poi
 ---

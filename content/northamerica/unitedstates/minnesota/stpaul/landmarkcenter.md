@@ -1,15 +1,17 @@
 ---
-title: "Landmark Center"
-type: poi
-snippet: "Romanesque Revival courthouse turned cultural centre"
-tags:
-  - things_to_do
-  - landmark
-  - story
-address: "75 W 5th St, Saint Paul"
-phone: "(651) 292-3228"
+address: 75 W 5th St, Saint Paul
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.945659
 longitude: -93.097131
+phone: (651) 292-3228
+snippet: Romanesque Revival courthouse turned cultural centre
+tags:
+- things_to_do
+- landmark
+- story
+title: Landmark Center
+type: poi
 ---
 
 An imposing Romanesque Revival federal courthouse built in 1902, now a cultural centre hosting performing arts, exhibitions, and civic events. The ornate interior — turrets, a central courtyard, and grand staircases — is worth seeing in its own right. Free guided tours on Thursdays and Sundays.

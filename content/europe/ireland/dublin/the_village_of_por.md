@@ -1,37 +1,16 @@
 ---
-title: "The village of Portmarnock"
+title: "Portmarnock"
 type: poi
-address: "Carrickhill"
-email: "webma@portmarnockwaves.com"
-phone: "00499277468"
-url: "www.portmarnockwaves.com"
 latitude: 53.431347
 longitude: -6.131639
+snippet: "Coastal village with a long beach and a famous 1930 transatlantic flight"
+tags:
+- things_to_do
+- neighbourhood
 ---
 
-Thevillage of Portmarnock is without a port yet! However, does have a station, that in the1850's at a leisurely 40.m.p.h. brought thousands to the beach, connecting station and strand by horse drawn cariage. These days the old pleasure train has become the "sardine-line" to "Banklin"!
+Portmarnock sits on a peninsula north of Dublin, named after the fifth-century missionary St Marnock, who converted the local Celts to Christianity and blessed the Druid Well, which became the Holy Well. The ruins of his church are still visible in the graveyard off Strand Road.
 
-Portmarnock, the name coming from St.Marnock who arrived there in the fifth century. Marnock a missionary of St.Patrick, converted the local Celts from worshiping Water, Trees,and Wells, to Christianity. (Tendencies that are still prevalent today if you observe the inhabitants fancy gardens!) Being politically correct Marnock blessed the Druid Well and it became the Holy Well. The ruins of Marnock's church are still to be seen in the graveyard - off the Strand Road.
+The village is best known for its Velvet Strand, a long sandy beach that was the takeoff point for Kingsford Smith's 1930 transatlantic flight. On 24 June of that year, the Southern Cross lifted off from here, crossed to Newfoundland and continued to New York, arriving on Independence Day. A globe-shaped sculpture on the beachfront commemorates the historic journey.
 
-**Famous events:**
-
-The Transatlantic stretch of the Circumnavigation of the Globe.
-
-The Southern Cross on the 24th of June 1930 from the Velvet Strand of Portmarnock - Australian, Kingford Smith flew to Newfoundland, and on to New York arriving with his four man crew including Irish Navigator Captain Paddy Saul to a massive welcome in City Hall on Independence Day.
-
-A sculpture remembering the historic flight is to be seen on Portmarnock Beachfront, it is in the shape of the globe with all the continents on it and the historic flight.
-
-**Contributors**
-June 26, 2006
-
-
-
-
-
-tel: 00499277468
-
-url: [www.portmarnockwaves.com](http://www.portmarnockwaves.com)
-
-address: Carrickhill
-
-email: webma@portmarnockwaves.com
+The DART line connects Portmarnock to Dublin city centre in around 25 minutes.

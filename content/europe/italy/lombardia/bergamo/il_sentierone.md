@@ -1,6 +1,7 @@
 ---
 latitude: 45.6978
 longitude: 9.6692
+snippet: Lower city promenade, best at aperitivo hour
 tags:
 - things_to_do
 - theatre

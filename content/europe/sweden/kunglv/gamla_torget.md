@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 57.8711
 longitude: 11.9796
+snippet: Historic wooden square hosting classic car meets on summer Thursday evenings
 tags:
 - things_to_do
 - landmark

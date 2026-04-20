@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.8625
 longitude: 100.5178
+snippet: Important Nonthaburi temple with Ayutthaya Buddha and royal pavilion
 tags:
 - things_to_do
 - landmark

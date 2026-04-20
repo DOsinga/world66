@@ -1,8 +1,12 @@
 ---
 address: 37–39 Oxford Street, Southampton SO14 3DP
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.8979
 longitude: -1.398
 phone: 023 8022 1585
+snippet: Southampton's long-running Bangladeshi restaurant on Oxford Street since
+  1980s
 tags:
 - eating_out
 title: Kuti's Brasserie

@@ -1,7 +1,11 @@
 ---
 address: Arnhemsestraat 1-3
+category: Bar
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.1539
 longitude: 5.3872
+snippet: Amersfoort's best live jazz café with a summer garden
 tags:
 - bars_and_cafes
 title: Lazy Louis Jazz Café

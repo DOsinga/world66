@@ -1,10 +1,15 @@
 ---
-title: "Provincial Museum"
-type: poi
-category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.0095
 longitude: -7.5555
-url: "http://www.museolugo.org"
+snippet: Free museum in a former convent with Roman mosaics and prehistoric gold
+tags:
+- things_to_do
+- museum
+title: Provincial Museum
+type: poi
+url: http://www.museolugo.org
 ---
 
 Housed in a former convent, the Provincial Museum of Lugo covers the region's long history

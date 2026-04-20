@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.7925
 longitude: -5.9197
+snippet: Where the Mediterranean meets the Atlantic, Africa's northwest tip
 tags:
 - things_to_do
 - landmark

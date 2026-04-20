@@ -1,21 +1,18 @@
 ---
-title: "Zouk"
-type: poi
-address: "MM Alam Rd"
-phone: "92-42-571-2731"
+address: MM Alam Road, Gulberg III, Lahore
+category: Restaurant
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.522609
 longitude: 74.350038
+phone: 92-42-571-2731
+snippet: Buzzy MM Alam Road café blending food, cocktails, and world music
+tags:
+- restaurants
+title: Café Zouk
+type: poi
 ---
 
-Zouk means the beginning of a Rhythm or the beginning of something new. It is a style of rhythmic music originating from the Caribbean islands of Guadeloupe and Martinique. It has its roots in Cadence music from Dominica popularizes by Grammacks and Exile. One Zouk means “Party” in the local Creole of French with English and African influences, all three of which contribute to the sound.
+Café Zouk sits on MM Alam Road, Lahore's restaurant strip in Gulberg, and has been a fixture of the city's dining scene for years. The music is a deliberate part of the experience — Caribbean-inflected rhythms and global beats play at a volume that keeps the energy up without killing conversation.
 
-Music therefore is a very essential component of the Café Zouk dining experience. The music is carefully selected and is adjusted according to the customer mix in the restaurant at any particular time. The ambiance which is now so unique to Café Zouk was basically designed to begin a new trend in food and entertainment, a new theme, hitherto non existent in the country.
-
-http://cafezouk.com.pk/
-info@cafezouk.com.pk
-
-
-
-tel: 92-42-571-2731
-
-address: MM Alam Rd
+The menu leans toward continental and fusion dishes. The vibe suits a long evening out with friends more than a quick meal.

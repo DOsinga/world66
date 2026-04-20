@@ -2,9 +2,11 @@
 address: High Street, Southampton SO14 2BY
 latitude: 50.9025
 longitude: -1.4042
+snippet: "Grand medieval gatehouse from 1180, now standing alone in a square"
 tags:
 - things_to_do
 - architecture
+- historic_site
 title: Bargate
 type: poi
 ---

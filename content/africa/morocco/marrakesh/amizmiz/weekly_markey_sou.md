@@ -1,6 +1,7 @@
 ---
-latitude: 31.221
-longitude: -8.228
+latitude: 31.2213
+longitude: -8.2280
+snippet: "Authentic Tuesday Berber market in the foothills"
 tags:
 - things_to_do
 - market

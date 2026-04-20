@@ -1,10 +1,11 @@
 ---
 title: "Tulum"
 type: poi
+snippet: "Cliffside Mayan ruins above the Caribbean, an hour south"
 tags:
   - things_to_do
   - archaeological_site
-  - day_trip
+  - day_trips
 latitude: 20.2114
 longitude: -87.4654
 ---

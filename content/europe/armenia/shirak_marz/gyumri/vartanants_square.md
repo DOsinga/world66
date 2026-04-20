@@ -1,6 +1,7 @@
 ---
 latitude: 40.7868
 longitude: 43.8462
+snippet: Grand central square flanked by tufa churches and cafes
 tags:
 - things_to_do
 title: Vartanants Square

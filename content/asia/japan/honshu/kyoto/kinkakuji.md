@@ -3,6 +3,7 @@ title: "Kinkaku-ji (Golden Pavilion)"
 type: poi
 latitude: 35.039529
 longitude: 135.729537
+snippet: Gold-leafed Zen pavilion mirrored in a still pond
 tags: [things_to_do, temple]
 story: "The present pavilion is a 1955 reconstruction — the original survived almost six centuries before being burned to the ground in 1950 by a 22-year-old novice monk of the temple, an event Yukio Mishima turned into his 1956 novel *The Temple of the Golden Pavilion*."
 ---

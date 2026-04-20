@@ -2,6 +2,7 @@
 address: Plaza de la Merced, 15
 latitude: 36.7232
 longitude: -4.4175
+snippet: "Picasso's birthplace on Plaza de la Merced"
 tags:
 - things_to_do
 - museum

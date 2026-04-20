@@ -1,9 +1,10 @@
 ---
 title: 'Diving and Snorkelling'
 type: poi
+snippet: "Clear reefs, manta rays, and a Dutch shipwreck"
 tags:
   - things_to_do
-  - sight
+  - nature
 latitude: -5.8100
 longitude: 110.3500
 ---

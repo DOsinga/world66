@@ -1,6 +1,7 @@
 ---
 title: "Tuareg Camps"
 type: poi
+snippet: "Camel rides to desert camps outside Timbuktu"
 tags:
   - things_to_do
   - sight

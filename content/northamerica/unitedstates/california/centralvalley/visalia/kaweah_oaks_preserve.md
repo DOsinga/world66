@@ -2,6 +2,7 @@
 title: "Kaweah Oaks Preserve"
 type: poi
 category: Sight
+snippet: "Ancient valley oak woodland with trails along the Kaweah River"
 latitude: 36.3567
 longitude: -119.1920
 ---

@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.7936
 longitude: -124.1534
-snippet: "California's oldest zoo set among old-growth redwoods"
+snippet: California's oldest zoo set among old-growth redwoods
 tags:
 - things_to_do
 - landmark

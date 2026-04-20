@@ -1,9 +1,11 @@
 ---
 address: Via della Paglia, 1
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8892
 longitude: 12.4695
 phone: +39 06 5806404
-snippet: "Classic Trastevere trattoria with outdoor seating"
+snippet: Classic Trastevere trattoria with outdoor seating
 tags:
 - eating_out
 - restaurant

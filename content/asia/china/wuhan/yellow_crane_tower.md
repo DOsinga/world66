@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.547081
 longitude: 114.297047
-snippet: "Ancient tower immortalized by Tang Dynasty poets"
+snippet: Ancient tower immortalized by Tang Dynasty poets
 tags:
 - sights
 - story

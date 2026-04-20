@@ -1,9 +1,11 @@
 ---
 address: Tower Bridge Road, London SE1 2UP
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.505516
 longitude: -0.075367
 phone: +44 20 7403 3761
-snippet: "Iconic Victorian bascule bridge with glass walkway views"
+snippet: Iconic Victorian bascule bridge with glass walkway views
 tags:
 - things_to_do
 - bridge

@@ -1,9 +1,11 @@
 ---
 address: Wörther Str. 36
 connections: U Senefelderplatz
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.523983
-longitude: 13.4160
-snippet: "Laid-back Prenzlauer Berg bar with tapas and cocktails"
+longitude: 13.416
+snippet: Laid-back Prenzlauer Berg bar with tapas and cocktails
 tags:
 - eating_out
 - prenzlauerberg

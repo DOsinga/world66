@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.22136
 longitude: 4.39919
-snippet: "Renaissance town hall blending Flemish and Italian styles"
+snippet: Renaissance town hall blending Flemish and Italian styles
 tags:
 - things_to_do
 - architecture

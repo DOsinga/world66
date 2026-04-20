@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - park
 - neighbourhood
+snippet: Quiet neighbourhood park with Arabian Sea views
 title: Mazagon Gardens
 type: poi
 ---

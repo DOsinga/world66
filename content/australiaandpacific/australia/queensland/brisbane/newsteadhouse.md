@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -27.44267
 longitude: 153.04618
+snippet: Brisbane's oldest surviving home, now a colonial-era museum
 tags:
 - things_to_do
 - landmark
+- museum
 title: Newstead House
 type: poi
 ---

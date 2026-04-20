@@ -1,23 +1,14 @@
 ---
-email: info@dezander.be
+latitude: 45.6736
+longitude: 9.7042
 tags:
 - getting_around
 title: Airport Shuttle Buses
 type: poi
-url: www.autostradale.it
+url: https://www.atb.bergamo.it
+snippet: "Bus connections between Orio al Serio Airport and city centre"
 ---
 
-There are shuttle buses between the Orio al Serio Airport and Milan or Brescia. Go outside the arrivals area at the Orio al Serio (Bergamo) Airport and the Zani ticket office is to the right - outdoors.
+Orio al Serio (BGY) is connected to Bergamo city centre by city bus number 1C, which stops at the Bergamo railway station, Porta Nuova, and continues up to the High Town (Città Alta). Tickets cost around €1.50 for a single journey, valid for 90 minutes on any urban bus. One standard suitcase is carried free. Service runs roughly 6am to midnight, every 30 minutes.
 
-To go to the Bergamo railway station or Porta Nuova (city centre) or all the way to the High Town there is city bus number 1C. Tickets are sold in the airport for €1.55 for one way and may be used on any "urban zone" bus within 90 minutes of validation on the bus. One 20x40x60 cm. suitcase may be taken on the bus for free. The service runs from 6am to midnight. Buses leave every half hour. http://www.atb.bergamo.it/oggetti/3663.pdf See [City Buses](/europe/italy/lombardia/bergamo/getting_around/city_buses).
-
-**Contributors**
-February 20, 2008
-
-
-
-
-
-url: www.autostradale.it
-
-email: info@dezander.be
+For Milan, Autostradale and other operators run coaches from outside the arrivals hall directly to Milan's central bus station. There's also a service to Brescia.

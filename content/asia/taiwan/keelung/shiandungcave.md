@@ -3,6 +3,7 @@ title: "Xiandongyuan (Fairy Cave)"
 type: poi
 latitude: 25.1188
 longitude: 121.7508
+snippet: "Sea-eroded cave temple lined with carvings of the 18 Buddhist Arhats"
 tags: [things_to_do, temple]
 ---
 

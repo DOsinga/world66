@@ -1,7 +1,11 @@
 ---
 title: St. Lazarus Church
 type: poi
-tags: [things_to_do]
+snippet: "9th-century Byzantine church built over the tomb of St. Lazarus"
+tags:
+- things_to_do
+- landmark
+address: Agiou Lazarou Street, Larnaca
 latitude: 34.91118
 longitude: 33.634892
 ---

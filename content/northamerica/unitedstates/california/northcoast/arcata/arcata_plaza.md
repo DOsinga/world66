@@ -1,9 +1,12 @@
 ---
-title: "Arcata Plaza"
+title: Arcata Plaza
 type: poi
-category: Neighbourhood
+tags:
+- things_to_do
+- sight
 latitude: 40.8665
 longitude: -124.0828
+snippet: "Grassy town square lined with bookshops, co-ops, and the 1857 courthouse"
 story: "The statue at the center of the Plaza is William McKinley, the 25th US President — an odd choice for one of the most progressive small cities in America. Efforts to remove it have been debated for decades, and it remains, a peculiar landmark in a town that has elected the Green Party to city council."
 ---
 

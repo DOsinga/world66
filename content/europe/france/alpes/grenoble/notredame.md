@@ -2,6 +2,7 @@
 address: Place Notre-Dame
 latitude: 45.1924
 longitude: 5.7316
+snippet: "13th-century cathedral with rare carved stone ciborium and bishop's palace museum"
 tags:
 - things_to_do
 - landmark

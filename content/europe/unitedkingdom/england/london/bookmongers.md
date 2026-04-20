@@ -3,6 +3,7 @@ address: 439 Coldharbour Lane, Brixton, London SW9 8LN
 latitude: 51.461477
 longitude: -0.113849
 phone: 020 7738 4225
+snippet: "Beloved Brixton second-hand bookshop, books in every corner"
 tags:
 - shopping
 - shop

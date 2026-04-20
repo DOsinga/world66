@@ -1,6 +1,7 @@
 ---
 latitude: 34.2654
 longitude: 108.9385
+snippet: "Tang-dynasty mosque built in Chinese pavilion style, founded 742 AD"
 tags:
 - things_to_do
 - landmark

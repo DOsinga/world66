@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 29.97
 longitude: 31.115
+snippet: Desert stables near the Pyramids for sunset rides with pyramid views
 tags:
 - things_to_do
 title: Horseback Riding

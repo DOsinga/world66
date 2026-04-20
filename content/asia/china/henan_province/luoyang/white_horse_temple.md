@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.6793
 longitude: 112.5344
+snippet: China's first Buddhist temple, founded 68 AD when monks arrived by white
+  horse
 tags:
 - things_to_do
 title: White Horse Temple

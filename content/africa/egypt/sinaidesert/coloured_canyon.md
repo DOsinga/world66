@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 29.0333
 longitude: 34.5667
+snippet: Sinai slot canyon with mineral-stained sandstone walls in vivid colour
 tags:
 - things_to_do
 - sight

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.6008
 longitude: -5.5706
+snippet: Gothic cathedral with 1,800 square metres of medieval stained glass
 tags:
 - things_to_do
 - architecture

@@ -1,11 +1,14 @@
 ---
+address: Bow Valley Parkway (Hwy 1A), 26 km west of Banff
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.253612
 longitude: -115.837955
+snippet: Gorge trail to bubbling ink-pot springs, 26 km west of Banff
 tags:
 - things_to_do
-title: Johnston Canyon .
+title: Johnston Canyon
 type: poi
 ---
 
-Follow the self-guided interpretative trail along Johnston Creek for views of water erosion in action. A 5.6 km (3.5 mi) walk will take you to the Ink Pots. Six cool springs bubble out of the ground year-round. The glacial sediments in the springs create beautiful aqua colours. 
- Address: 26 km (16.25 mi) W of Banff on Hwy 1A.
+A self-guided interpretive trail follows Johnston Creek through a narrow limestone gorge, passing two dramatic waterfalls before opening onto the Upper Canyon. The full return walk to the Ink Pots is 11.2 km (7 mi). Six cold springs bubble out of the earth year-round, their glacial sediment turning the pools a vivid aquamarine. Can be busy in summer — early morning is the best time to go.

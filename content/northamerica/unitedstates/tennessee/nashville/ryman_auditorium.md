@@ -10,6 +10,7 @@ story: 'The Ryman was built in 1892 as a tabernacle for religious revivals by ri
   music when the Grand Ole Opry moved in, in 1943.
 
   '
+snippet: The Mother Church of Country Music, home of the Grand Ole Opry 1943–1974
 tags:
 - things_to_do
 - sight

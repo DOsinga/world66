@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.029711
 longitude: 1.60664
-snippet: "Ibiza's only black sand beach, quiet and local"
+snippet: Ibiza's only black sand beach, quiet and local
 tags:
 - beaches
 title: Cala de Boix

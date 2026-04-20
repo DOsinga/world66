@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.0481
 longitude: -76.1544
-snippet: "Upscale Thai and Asian fusion in Armory Square"
+snippet: Upscale Thai and Asian fusion in Armory Square
 tags:
 - eating_out
 - restaurant

@@ -1,11 +1,11 @@
 ---
 title: "Sibelius"
 type: poi
-author: "<font face='arial, helvetica, sans-serif' siz.."
+author: "Robert Layton"
 isbn: "0711916837"
-subject: "culture"
-latitude: 60.171708
-longitude: 24.932409
+snippet: "Concise biography of Finland's defining composer"
+tags:
+- books
 ---
 
-[](http://www.amazon.com/exec/obidos/ASIN/0711916837/osingacom?creative=125581&camp=2321&link_code=as1)
+Robert Layton's compact biography traces Jean Sibelius from his childhood in Hämeenlinna through the triumphant symphonies that made him Finland's national voice, to the long silence of his final decades at Ainola. It's a good primer if you're visiting Finland and want to understand why Sibelius is everywhere — in concert halls, on banknotes, in the monument at Sibelius Park. Layton, a longtime BBC producer and Nordic music specialist, keeps it readable without skimping on the musical analysis.

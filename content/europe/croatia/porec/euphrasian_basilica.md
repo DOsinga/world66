@@ -1,6 +1,7 @@
 ---
 latitude: 45.2282
 longitude: 13.5932
+snippet: "UNESCO-listed 6th-century basilica with Byzantine mosaics"
 tags:
 - things_to_do
 - landmark

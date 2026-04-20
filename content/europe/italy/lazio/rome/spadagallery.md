@@ -1,9 +1,12 @@
 ---
 address: Piazza Capodiferro 13, 00186 Rome
 admission: €5
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8944
 longitude: 12.4709
 opening_hours: Tue–Sun 08:30–19:30; closed Mon
+snippet: Borromini's trick-perspective colonnade in a quiet palazzo
 tags:
 - things_to_do
 - museum

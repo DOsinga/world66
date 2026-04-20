@@ -1,6 +1,7 @@
 ---
 latitude: 20.6286
 longitude: 92.3207
+snippet: "Bangladesh's only coral island in the Bay of Bengal"
 tags:
 - things_to_do
 title: St. Martin's Island

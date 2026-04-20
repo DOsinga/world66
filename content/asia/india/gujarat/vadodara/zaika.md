@@ -1,8 +1,11 @@
 ---
 address: Ground Floor, Saran Building, Opp. Tube Co., Old Padra Road, Vadodara
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.3026
 longitude: 73.1693
 phone: +91 265 3254477
+snippet: Taj-trained chef serving Mughlai and Punjabi classics
 tags:
 - eating_out
 title: Zaika

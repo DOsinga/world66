@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.33747
 longitude: 31.62585
+snippet: Colossal rock-cut temple with four 20-metre pharaoh statues
 tags:
 - things_to_do
 - sight

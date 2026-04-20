@@ -1,7 +1,10 @@
 ---
 address: Grandagarður, Reykjavik
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 64.1543
 longitude: -21.9525
+snippet: Former harbour warehouses reborn as breweries and galleries
 tags:
 - things_to_do
 - neighbourhood

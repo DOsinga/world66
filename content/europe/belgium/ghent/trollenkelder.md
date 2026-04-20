@@ -1,20 +1,16 @@
 ---
-address: Bij Sint Jacobs 17
+address: Bij Sint Jacobs 17, 9000 Ghent
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.056062
 longitude: 3.727232
+snippet: Atmospheric beer bar with rare Belgian brews
 tags:
 - bars_and_cafes
 title: Trollenkelder
 type: poi
 ---
 
-Exclusive Belgian Beerhouse entails the finest *ancient hop- and grainjuice* Belgium has to offer. Ask for Westvleteren Extra or for advice. In a medieval setting, so mind the gallow.
-
-**Contributors**
-January 06, 2005
-
-
-
-
+A dimly lit beer bar in a vaulted medieval cellar near Sint-Jacobs. The list leans heavily toward Trappist and abbey beers, including Westvleteren when they can get it. The staff know their beer and will steer you well if you ask. The cellar atmosphere is genuine -- low ceilings, stone walls, a decorative gallows -- and the crowd is mostly locals rather than tourists.
 
 address: Bij Sint Jacobs 17

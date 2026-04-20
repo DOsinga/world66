@@ -1,6 +1,7 @@
 ---
 latitude: 9.7627
 longitude: 1.3413
+snippet: Practical border crossing into Benin via taxi-brousse
 tags:
 - getting_there
 title: Crossing the border to Benin

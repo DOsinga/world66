@@ -1,7 +1,8 @@
 ---
 title: "Temppeliaukio Church"
 type: poi
-tags: [things_to_do]
+snippet: "Church carved from solid rock with a copper dome"
+tags: [things_to_do, church]
 address: "Lutherinkatu 3, 00100 Helsinki"
 latitude: 60.17296
 longitude: 24.925227

@@ -1,11 +1,12 @@
 ---
+title: Dachau Castle
+type: poi
 latitude: 48.2614
-longitude: 11.434
+longitude: 11.4340
+snippet: Renaissance castle with baroque gardens and Alpine views
 tags:
 - things_to_do
 - castle
-title: Dachau Castle
-type: poi
 ---
 
 Only one wing survives from the original four-wing Renaissance castle, rebuilt in baroque style in the early 18th century by court architect Joseph Effner. Inside, the great hall preserves a remarkable Renaissance casket ceiling by cabinet maker Hans Wisreuther and monochrome paintings by Hans Thonauer.

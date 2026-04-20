@@ -1,6 +1,7 @@
 ---
 latitude: 53.2481
 longitude: 10.4087
+snippet: "Salt-merchant square with a famously leaning church tower"
 story: The square's unusual shape — long, narrow, and slightly curved — follows the
   outline of what was once a sandy common outside the medieval town walls. The name
   simply means 'at the sand.'

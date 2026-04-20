@@ -5,6 +5,7 @@ latitude: 51.498613
 longitude: -0.203161
 opening_hours: Wed-Mon 10am-5:30pm (closed Tuesday)
 phone: +44 20 7602 3316
+snippet: Victorian painter's lavish studio with a stunning Arab Hall
 tags:
 - things_to_do
 - museum

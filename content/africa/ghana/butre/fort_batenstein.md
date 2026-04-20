@@ -1,6 +1,7 @@
 ---
 latitude: 4.8243
 longitude: -1.9178
+snippet: "Crumbling 1652 Dutch fort with panoramic coastal views"
 story: 'Fort Batenstein was built by the Dutch West India Company in 1652, making
   it one of the oldest European structures on the Ghanaian coast. It changed hands
   between the Dutch and the British several times before finally being ceded to the

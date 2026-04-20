@@ -1,8 +1,11 @@
 ---
 address: 26930 Barton Road, Redlands, CA
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.048903
 longitude: -117.216706
 phone: 909-793-5402
+snippet: 1830 mission outpost with a turbulent history from Spanish to Mormon hands
 tags:
 - things_to_do
 - landmark

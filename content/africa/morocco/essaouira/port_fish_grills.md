@@ -1,6 +1,7 @@
 ---
 latitude: 31.5114
 longitude: -9.7728
+snippet: Numbered port-side stalls grilling the morning catch over charcoal at lunch.
 tags:
 - eating_out
 title: Port Fish Grills

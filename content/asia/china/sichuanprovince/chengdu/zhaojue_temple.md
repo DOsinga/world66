@@ -1,6 +1,7 @@
 ---
 latitude: 30.7103
 longitude: 104.1036
+snippet: Tang dynasty Zen monastery next to the zoo
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 45.3368
 longitude: 14.3049
+snippet: Casino and nightclub in the Grand Hotel Adriatic
 tags:
 - bars_and_cafes
 title: Casino Opatija

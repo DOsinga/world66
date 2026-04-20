@@ -1,6 +1,7 @@
 ---
 latitude: 36.893
 longitude: 22.224
+snippet: "Grey pebble beach with crystal-clear water and shady tamarisks"
 tags:
 - things_to_do
 - sight

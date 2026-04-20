@@ -1,6 +1,7 @@
 ---
 latitude: 21.1584
 longitude: 94.871
+snippet: Superb 12th-century temple with original interior frescoes
 tags:
 - things_to_do
 - landmark

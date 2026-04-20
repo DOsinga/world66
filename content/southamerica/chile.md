@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-29
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: chile.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/mtchm/">mtchm</a>
   from -

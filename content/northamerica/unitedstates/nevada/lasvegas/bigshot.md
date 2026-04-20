@@ -1,6 +1,9 @@
 ---
 address: The Stratosphere, 2000 Las Vegas Blvd. South
+latitude: 36.1474
+longitude: -115.1556
 phone: 702-380-7777
+snippet: "Thrill ride launching riders skyward from atop the 1,081-foot Stratosphere tower"
 tags:
 - things_to_do
 - tower

@@ -1,7 +1,8 @@
 ---
 title: "Royal Tombs"
 type: poi
-tags: [things_to_do, historic_site, royalty, monument]
+snippet: "Fenced burial site of Tongan royalty since 1893"
+tags: [things_to_do, historic_site]
 latitude: -21.1359
 longitude: -175.2041
 ---

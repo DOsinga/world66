@@ -1,6 +1,7 @@
 ---
-title: "Grand Marche"
+title: "Grand Marché"
 type: poi
+snippet: "Covered market with rooftop views over Timbuktu"
 tags:
   - things_to_do
   - sight

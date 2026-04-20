@@ -1,10 +1,13 @@
 ---
 address: Ratto della Pileria 43, Trieste
 admission: Free; audio guide €3.50
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.634234
 longitude: 13.769912
 opening_hours: Apr–Sep 09:00–19:00 (last entry 18:30); Oct–Mar 09:00–17:00 (last entry
   16:30). Closed 25 Dec and 1 Jan.
+snippet: Italy's only Nazi concentration camp, now a sobering national monument
 tags:
 - One Day in Trieste
 - things_to_do

@@ -3,12 +3,11 @@ address: Via della Madonna dei Monti 28, 00184 Rome
 latitude: 41.8947
 longitude: 12.4868
 opening_hours: Daily 12:00–01:00
+snippet: "Natural wine bar with great outdoor tables in Monti"
 tags:
-- Eating in Monti
+- eating_out
 - bars_and_cafes
-- monti
 - bar
-- neighbourhood
 title: Fafiuche
 type: poi
 ---

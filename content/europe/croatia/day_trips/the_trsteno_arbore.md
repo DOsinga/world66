@@ -1,25 +1,19 @@
 ---
-title: "The Trsteno Arboretum"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 42.8397
+longitude: 17.8547
+snippet: One of Europe's finest Renaissance gardens, 20km north of Dubrovnik
+tags:
+- things_to_do
+title: The Trsteno Arboretum
 type: poi
 ---
 
-More than 300 species of trees and numerous
-plants from around The Mediterranean and the world set around architecture from
-the Gothic-Renaissance period onwards makes The Trsteno Arboretum widely
-acknowledged as one of the finest gardens in this part of Europe.
+More than 300 species of trees and plants from across the Mediterranean and beyond, set around architecture spanning the Gothic-Renaissance period onwards. The Trsteno Arboretum is widely considered one of the finest gardens in this part of Europe.
 
-The botanical
-gardens at Trsteno North of Dubrovnik were founded in 1492 by the
-Gucetic-family who resided in the splendid 15th century summer residence in the
-centre of the gardens until it was nationalised by the communists.
+The botanical gardens were founded in 1492 by the Gučetić family, who lived in the splendid 15th-century summer residence at the centre of the grounds until it was nationalised after World War II.
 
-Being able to
-see the gardens today can be considered somewhat of a miracle. During the civil
-war Serbian Navy ships and airplanes shelled the gardens with phosphorus bombs
-on the 2. and 3. of November 1991. Phosphorus burns - and burned it did. 80
-percent of the gardens went up in flames but luckily the oldest area was
-saved..
+That the gardens survive at all is something of a miracle. During the 1991 war, Serbian Navy ships and aircraft shelled them with phosphorus bombs on 2 and 3 November. Eighty percent of the gardens burned, but the oldest section was saved.
 
-You can’t
-miss the gardens when you drive through Trsteno about 20 kilometres North of
-Dubrovnik. There is a splendid view from the “bottom” of the park.
+The arboretum is hard to miss when driving through Trsteno, about 20 kilometres north of Dubrovnik. There's a fine view from the lower end of the park looking back up toward the residence.

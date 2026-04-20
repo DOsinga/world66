@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.407302
 longitude: 8.932631
+snippet: Striped Gothic cathedral with a treasury claiming the Holy Grail
 tags:
 - things_to_do
 - architecture

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.3723
 longitude: -124.2218
+snippet: Lakeside park with arboretum and lit fountains at night
 tags:
 - things_to_do
 - sight

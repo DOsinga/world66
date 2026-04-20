@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 26.2719
 longitude: 73.0473
+snippet: Indo-Deco palace with museum, vintage cars, and royal wing
 tags:
 - things_to_do
 - architecture

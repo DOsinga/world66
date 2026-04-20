@@ -1,9 +1,11 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 41.8933
+longitude: 12.4828
+snippet: Food-focused three-day Rome itinerary with specific restaurant picks
 tags:
-- 3 Days in Rome
 - day_guides
-- restaurant
-- neighbourhood
 title: Three Days in Rome — Anna Carwile
 type: poi
 url: www.annacarwile.com/travel-blog/three-days-in-rome-itinerary

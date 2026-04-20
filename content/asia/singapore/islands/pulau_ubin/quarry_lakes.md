@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 1.4078
 longitude: 103.9714
+snippet: Flooded granite quarries ringed by forest, great for cycling
 tags:
 - things_to_do
 title: Quarry Lakes

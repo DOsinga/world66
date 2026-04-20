@@ -1,7 +1,10 @@
 ---
 category: Street
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3532
 longitude: 4.8935
+snippet: Leafy De Pijp boulevard with neighbourhood cafes and bookshops
 tags:
 - de_pijp
 title: Ceintuurbaan

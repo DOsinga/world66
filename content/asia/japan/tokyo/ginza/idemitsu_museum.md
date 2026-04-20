@@ -7,6 +7,7 @@ tags:
 - museum
 title: Idemitsu Museum of Arts
 type: poi
+snippet: "East Asian art with Imperial Palace garden views"
 ---
 
 Founded by oil magnate Idemitsu Sazo, this museum on the ninth floor of the Teigeki Building has a superb collection of East Asian art — Japanese and Chinese ceramics, calligraphy, and painting. The gallery overlooking the Imperial Palace gardens is one of the most serene museum views in Tokyo.

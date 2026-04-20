@@ -2,6 +2,7 @@
 title: "Spodek Arena"
 type: poi
 tags: [things_to_do, poi]
+snippet: "Iconic flying saucer arena and Katowice landmark"
 latitude: 50.2678
 longitude: 19.0200
 story: >

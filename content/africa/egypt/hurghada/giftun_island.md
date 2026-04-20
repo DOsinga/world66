@@ -1,6 +1,7 @@
 ---
 latitude: 27.1667
 longitude: 33.9167
+snippet: "Protected island with superb snorkeling off Hurghada"
 tags:
 - things_to_do
 title: Giftun Island National Park

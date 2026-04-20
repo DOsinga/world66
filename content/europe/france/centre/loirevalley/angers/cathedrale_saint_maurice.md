@@ -2,6 +2,7 @@
 address: Place Monseigneur Chappoulie
 latitude: 47.4726
 longitude: -0.5542
+snippet: Pioneering Plantagenet Gothic cathedral with medieval glass
 tags:
 - things_to_do
 - sight

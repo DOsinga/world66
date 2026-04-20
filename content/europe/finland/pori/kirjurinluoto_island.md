@@ -1,7 +1,10 @@
 ---
 title: "Kirjurinluoto Island"
 type: poi
-category: "Sight"
+snippet: River island park and home of the jazz festival
+tags:
+- things_to_do
+- park
 latitude: 61.4935
 longitude: 21.7985
 ---

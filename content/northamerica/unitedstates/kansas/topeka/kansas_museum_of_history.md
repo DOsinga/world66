@@ -1,6 +1,7 @@
 ---
 latitude: 39.0381
 longitude: -95.6919
+snippet: State history museum from Indigenous peoples to the Dust Bowl
 tags:
 - things_to_do
 - museum

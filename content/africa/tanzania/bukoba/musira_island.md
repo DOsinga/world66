@@ -2,6 +2,7 @@
 address: Lake Victoria, Bukoba, Tanzania
 latitude: -1.322
 longitude: 31.801
+snippet: "Peaceful Lake Victoria island reachable by local boat"
 tags:
 - things_to_do
 - landmark

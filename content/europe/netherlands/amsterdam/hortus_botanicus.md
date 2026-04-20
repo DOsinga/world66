@@ -11,6 +11,7 @@ opening_hours: Weekdays 9:00–17:00, weekends 11:00–17:00 (closes 16:00 in wi
 tags:
 - things_to_do
 - plantage
+snippet: "One of the world's oldest botanical gardens, founded in 1638"
 title: Hortus Botanicus
 type: poi
 ---

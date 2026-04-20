@@ -3,6 +3,7 @@ address: 400 N Saint Paul St, Ste 105
 latitude: 32.787
 longitude: -96.7985
 phone: 214-740-1114
+snippet: "Downtown urban fashion and streetwear shop"
 tags:
 - shopping
 - shop

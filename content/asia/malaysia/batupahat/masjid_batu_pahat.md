@@ -1,6 +1,7 @@
 ---
 title: "Masjid Batu Pahat"
 type: poi
+snippet: Main mosque and landmark of Batu Pahat town
 category: "Architecture"
 latitude: 1.8536
 longitude: 102.9322

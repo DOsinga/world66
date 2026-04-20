@@ -4,6 +4,7 @@ longitude: -16.5746
 tags:
 - things_to_do
 - sight
+snippet: "Sprawling covered market selling fabrics, spices, and crafts"
 title: Albert Market
 type: poi
 ---

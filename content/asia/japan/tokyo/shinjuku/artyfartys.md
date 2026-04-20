@@ -2,6 +2,7 @@
 address: 2-11-7 Shinjuku, Ni-chome
 latitude: 35.691
 longitude: 139.7095
+snippet: "Welcoming gay bar in Ni-chome with a small dance floor"
 tags:
 - bars_and_cafes
 title: Arty Farty

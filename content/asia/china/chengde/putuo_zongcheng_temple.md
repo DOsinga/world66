@@ -1,6 +1,7 @@
 ---
 latitude: 41.0175
 longitude: 117.9305
+snippet: "Qing-era replica of the Potala Palace with gilded halls and mountain views"
 story: The temple was built in 1767 to mark the Qianlong Emperor's 60th birthday and
   the 80th birthday of his mother. Tibetan and Mongolian leaders were invited to the
   celebrations — the architecture deliberately spoke their political language.

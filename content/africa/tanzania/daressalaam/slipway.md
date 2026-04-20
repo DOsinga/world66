@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.7595
 longitude: 39.2657
+snippet: waterfront complex on Msasani Peninsula with bars, craft market
 tags:
 - bars_and_cafes
 title: The Slipway

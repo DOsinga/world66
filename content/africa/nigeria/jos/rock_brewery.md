@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 9.925
 longitude: 8.8917
+snippet: guided tours with tastings at Jos's classic brewery
 tags:
 - things_to_do
 - sight

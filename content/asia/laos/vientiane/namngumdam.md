@@ -1,6 +1,9 @@
 ---
-latitude: 18.530606
-longitude: 102.547621
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 18.5306
+longitude: 102.5476
+snippet: large reservoir with islands, 90 km north of Vientiane
 tags:
 - day_trips
 title: Nam Ngum Dam

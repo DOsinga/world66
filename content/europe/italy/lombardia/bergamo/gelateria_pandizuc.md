@@ -1,24 +1,18 @@
 ---
 address: Via Locatelli 32, Almè, Bergamo
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.739451
 longitude: 9.620987
 phone: 035 639 415
+snippet: legendary gelato parlour in Almè drawing queues of cars and devotees
 tags:
 - bars_and_cafes
 - bar
-- park
 title: Gelateria Pandizucchero
 type: poi
 ---
 
-One of the best ice cream bars around Bergamo, it has a line of people in front of it and another line of cars parked all around. You'll see it in Almè on the road from Bergamo to Brembana Valley (bus 9 A/B) and if you want to drool over the pictures of what the Italians have invented in the way of ice cream, ice cream cakes and semi cold cakes, and single portions or group portions with decorations then check out their products on the internet. [gelateriapandizucchero.it](/europe/italy/lombardia/bergamo/things_to_do/eat_ice_cream)
+One of the best ice cream bars around Bergamo, it has a line of people in front of it and another line of cars parked all around. You'll find it in Almè on the road from Bergamo to Brembana Valley (bus 9 A/B). The range covers gelato, ice cream cakes, semi-cold cakes, and single or group portions dressed up with decorations — the kind of thing that makes Italians very serious about ice cream indeed.
 
-If you want them to deliver then from 3 December to 26 February this ice cream parlour has "legs": order over the internet or phone before 3 pm for a minimum of one kilo (service is €1 per kilo) and they'll deliver between 17:00 and 20:00 every day except Monday. But I'd advise you to order more because this is one of the best parts of Italy!
-
-
-
-
-
-tel: 035 639 415
-
-address: Via Locatelli 32, Almè, Bergamo
+From early December to late February the gelateria delivers: order online or by phone before 3pm for a minimum of one kilo (service charge of €1 per kilo) and they'll drop it off between 17:00 and 20:00 every day except Monday. Order more than the minimum — you'll be glad you did.

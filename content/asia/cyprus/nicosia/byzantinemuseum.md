@@ -1,11 +1,14 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 35.1734
+longitude: 33.3673
+snippet: rich collection of icons and sacred art spanning eight centuries of Cyprus
+tags:
+- things_to_do
+- museum
 title: Byzantine Museum
 type: poi
-tags:
-  - things_to_do
-  - museum
-latitude: 35.1733707
-longitude: 33.3672769
 ---
 
-The Byzantine Museum is housed by the Centre of the Archbishop Makarios III Foundation east of Laiki Ytonia. It exhibits a very rich collection of statues, paintings and fragments. They date from a period ranging from the 8th to the 18th century. It depicts the development of decorative arts in Cyprus from their crudest Early Middle Age expression to their 12th century peak. The influence of European Crusaders, and later of Venetian traders, is evident. During the Ottoman period (16th - 19th century) the figurative arts, and specially sculpture, were neglected and practically abandoned. Opening Hours: Mon - Fri 9am - 1pm and 2pm - 5pm (Sat 9am - 1pm), Tel. 02 - 366 985.
+The Byzantine Museum, housed in the Archbishop Makarios III Foundation east of Laiki Ytonia, holds one of the finest collections of Byzantine art in the eastern Mediterranean. The exhibits span from the 8th to the 18th century and trace the arc of decorative arts in Cyprus — from austere Early Medieval forms through the refinement of the 12th-century peak, showing the influence first of European Crusaders and later of Venetian traders. Figurative sculpture effectively disappeared during the Ottoman period, and the collection reflects that absence. The icon collection in particular is outstanding. Opening hours: Mon–Fri 9am–1pm and 2pm–5pm, Sat 9am–1pm.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.8583
 longitude: 13.9563
+snippet: traditional flat-bottomed boat rides through Spreewald's forest channels
 tags:
 - things_to_do
 - sight

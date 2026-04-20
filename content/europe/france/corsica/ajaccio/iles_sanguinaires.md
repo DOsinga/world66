@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8569
 longitude: 8.6028
+snippet: red-glowing granite islands at sunset, Daudet's inspiration
 tags:
 - things_to_do
-- landmark
+- sight
 title: Îles Sanguinaires
 type: poi
 ---

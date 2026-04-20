@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 7.4966
 longitude: 3.8986
+snippet: Research campus with forest park, birding, and golf
 tags:
 - things_to_do
 - landmark

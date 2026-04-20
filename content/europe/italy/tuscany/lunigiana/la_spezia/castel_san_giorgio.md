@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.107
 longitude: 9.8252
+snippet: Hilltop castle with archaeological museum and gulf views
 tags:
 - things_to_do
 - landmark

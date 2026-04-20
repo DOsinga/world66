@@ -1,7 +1,10 @@
 ---
 address: 4777 Avenue Pierre-De Coubertin, Montréal, QC H1V 1B3
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.559682
 longitude: -73.54957
+snippet: Four Americas ecosystems in a converted Olympic velodrome
 tags:
 - things_to_do
 - museum

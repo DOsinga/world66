@@ -1,10 +1,12 @@
 ---
 address: Friedrichstraße 43-45, Mitte
-category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.507628
 longitude: 13.390364
 opening_hours: Daily 9am-10pm
 phone: +49 30 2537250
+snippet: Escape stories and Cold War artifacts at the former crossing
 tags:
 - things_to_do
 - museum

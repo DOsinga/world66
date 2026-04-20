@@ -1,14 +1,19 @@
 ---
-title: "Teatro alla Scala"
-type: poi
-category: "Sight"
-address: "Via Filodrammatici 2, 20121 Milan"
-url: "www.teatroallascala.org"
-opening_hours: "Museum: daily 09:00–17:30; performances vary"
-admission: "Museum €9; performance tickets from €15"
+address: Via Filodrammatici 2, 20121 Milan
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4674
 longitude: 9.1895
-tags: ["48 Hours in Milan", "3 Days in Milan"]
+opening_hours: 'Museum: daily 09:00–17:30; performances vary'
+snippet: World-famous opera house, home to Verdi and Puccini premieres
+tags:
+- things_to_do
+- landmark
+- 48 Hours in Milan
+- 3 Days in Milan
+title: Teatro alla Scala
+type: poi
+url: www.teatroallascala.org
 ---
 
 One of the world's most famous opera houses, opened in 1778 and home to legendary premieres by Verdi, Puccini, and others. The season traditionally opens on December 7 (Sant'Ambrogio day, Milan's patron saint) with a major performance. Getting tickets for headline operas requires booking months in advance through the official site.

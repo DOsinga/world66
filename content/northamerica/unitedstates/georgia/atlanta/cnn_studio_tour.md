@@ -1,8 +1,11 @@
 ---
 address: One CNN Center, Marietta St NW & Techwood Dr, Atlanta, GA
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.7584
 longitude: -84.3963
 phone: (404) 827-2300
+snippet: Behind-the-scenes look at a live news operation
 tags:
 - things_to_do
 - landmark

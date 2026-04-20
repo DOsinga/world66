@@ -1,6 +1,7 @@
 ---
 latitude: -6.8167
 longitude: 39.2895
+snippet: WWI bronze monument honoring African askari soldiers, city's symbolic centre
 tags:
 - things_to_do
 - landmark

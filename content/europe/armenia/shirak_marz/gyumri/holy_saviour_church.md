@@ -8,6 +8,7 @@ story: 'Legend has it that an Armenian believer was kicked out of the Greek chur
   either side.
 
   '
+snippet: Black tufa church, deliberately built to outshine all others
 tags:
 - things_to_do
 title: Holy Saviour Church (Amenaprkitch)

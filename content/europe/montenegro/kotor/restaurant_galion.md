@@ -1,6 +1,7 @@
 ---
 latitude: 42.4238
 longitude: 18.7735
+snippet: Waterfront fish restaurant facing the old walls
 tags:
 - eating_out
 title: Restaurant Galion

@@ -1,8 +1,10 @@
 ---
 latitude: 41.3714
 longitude: 19.9019
+snippet: Cable car ride to panoramic views above Tirana
 tags:
 - things_to_do
+- nature
 title: Mount Dajti
 type: poi
 ---

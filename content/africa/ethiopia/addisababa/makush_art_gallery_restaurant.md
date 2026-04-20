@@ -1,6 +1,7 @@
 ---
 title: "Makush Art Gallery and Restaurant"
 type: poi
+snippet: Italian food and Ethiopian art in a gallery-restaurant hybrid
 tags:
   - eating_out
   - restaurant

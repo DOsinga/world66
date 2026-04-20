@@ -1,6 +1,7 @@
 ---
 latitude: 25.699617
 longitude: 32.638931
+snippet: Elegant Nile-side temple, spectacular when floodlit at night
 tags:
 - things_to_do
 - landmark

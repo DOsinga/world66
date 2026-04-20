@@ -1,5 +1,6 @@
 ---
 tags: [things_to_do, museum, literary_landmark]
+snippet: "Riverside tower where poet Holderlin spent his last 36 years"
 latitude: 48.5193
 longitude: 9.0557
 title: Holderlinturm

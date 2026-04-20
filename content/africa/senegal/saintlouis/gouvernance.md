@@ -1,6 +1,7 @@
 ---
 latitude: 16.0224
 longitude: -16.4905
+snippet: "Grand colonial governor's palace, centrepiece of the island"
 tags:
 - things_to_do
 - architecture

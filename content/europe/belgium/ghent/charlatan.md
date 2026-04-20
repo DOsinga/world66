@@ -1,14 +1,15 @@
 ---
-address: vlasmarkt
-latitude: 50.825662
-longitude: 3.26802
-phone: www.charlatan.be
+address: Vlasmarkt 6, Ghent
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 51.0553
+longitude: 3.7178
+snippet: Alternative music bar and dancehall with frequent free live performances
 tags:
 - bars_and_cafes
 title: Charlatan
 type: poi
+url: www.charlatan.be
 ---
 
-Brown pub combined with dancehall with alternative music, it frequently has free live performances. The hippest bar in town according to reliable sources.
-
-It's near Sint-Jacobs and Vlasmarkt along with other slightly less bit still hip places.
+A pub and dancehall on the Vlasmarkt that leans toward alternative music and live acts. The crowd is young and local, the prices are reasonable, and there is often no cover for the live performances. Nearby Sint-Jacobs and the rest of the Vlasmarkt strip have a similar energy, making this a good starting point for a Ghent evening out.

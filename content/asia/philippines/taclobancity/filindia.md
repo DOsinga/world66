@@ -4,6 +4,7 @@ cuisine: Indian
 latitude: 11.2389
 longitude: 125.0019
 price: PHP 150-250
+snippet: "Rare good Indian kitchen in Eastern Visayas, known for curries and biryanis"
 tags:
 - eating_out
 title: Fil-India Indian Restaurant

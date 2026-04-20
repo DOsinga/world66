@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.5125
 longitude: -9.7691
+snippet: Ethnographic museum in a pasha's house covering Gnaoua music and Berber crafts
 tags:
 - things_to_do
 - museum

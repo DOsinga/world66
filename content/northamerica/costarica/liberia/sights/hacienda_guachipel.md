@@ -1,23 +1,16 @@
 ---
-title: "Hacienda Guachipelin"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 10.7264
+longitude: -85.3489
+snippet: Adventure ranch with zip lines, hot springs, and canyon trails
+tags:
+- things_to_do
+- sight
+title: Hacienda Guachipelín
 type: poi
-email: "info@guachipelin.com"
-phone: "(506) 2256 8195 / (506) 2256 3600"
-type: "Hotspots"
-url: "www.guachipelin.com"
 ---
 
-Hacienda Guachipelin is a sprawling property, about 30 minutes to an hour from Liberia city center. It offers some eco tours that include the following activities: (1) ziplining, (2) rapeling, (3) rock climbing, and (4) horseback riding. There are different variations of tour packages which may take up to a day to complete. (see their website for more tour package information). It offers beautiful sceneries including canyons, waterfalls, and rivers. The Hacienda also operates it's own hotel/lodging house (Hotel Hacienda Guachipelin).
+A working cattle ranch turned adventure hub on the slopes of Rincón de la Vieja volcano, about 45 minutes northeast of Liberia. The property offers zip-lining across volcanic canyons, rappelling down waterfalls, horseback riding through dry tropical forest, and tubing on the Río Negro. Several combo packages bundle multiple activities into a full day.
 
-**Contributors**
-December 30, 2008
-
-type: Hotspots
-
-
-
-tel: (506) 2256 8195 / (506) 2256 3600
-
-url: [www.guachipelin.com](http://www.guachipelin.com/english/hotel.php)
-
-email: info@guachipelin.com
+The ranch also has natural volcanic hot springs and mud baths fed by geothermal activity from the nearby volcano. Between activities, the surrounding landscape of canyons, waterfalls, and rivers is worth exploring on foot.

@@ -1,10 +1,13 @@
 ---
 title: "DEET"
 type: poi
+snippet: "Essential insect repellent guide for tropical travel"
+tags:
+- things_to_do
 ---
 
-[TravelWise](/world/travelwise) **>** [Health](/world/travelwise/health) **>** [DEET](/world/travelwise/health/deet)
+DEET (N,N-diethyl-meta-toluamide) remains the most effective and widely available insect repellent for travelers heading to mosquito-heavy destinations. A concentration of 30-35% provides about four hours of protection and is sufficient for most situations -- you don't need the 95% formulations unless you're deep in the jungle.
 
-Here's what the CDC (see below) advises on the use of DEET-containing insect repellents:
+Apply it sparingly to exposed skin or clothing, not under clothing. Keep it away from eyes, mouth, wounds, and irritated skin. Wash it off when you come indoors. For children, apply it to your own hands first, then rub it on the child, avoiding their hands (which inevitably end up in mouths and eyes).
 
-[...] "The actual concentration of DEET varies among repellents and can be as high as 95%. Repellents with DEET concentrations of 30%-35% are quite effective, and the effect should last for about 4 hours. Rarely, children exposed to DEET have had toxic encephalopathy. The possibility of adverse reactions to DEET will be minimized if the following precautions are taken: apply repellent sparingly and only to exposed skin or clothing; avoid applying high-concentration products to the skin; do not inhale or ingest repellents or get them in the eyes; avoid applying repellents to portions of children’s hands that are likely to have contact with eyes or mouth; never use repellents on wounds or irritated skin; wash repellent-treated skin after coming indoors. If a reaction to insect repellent is suspected, wash treated skin and seek medical attention." [...]
+Alternatives like picaridin (also sold as icaridin) and oil of lemon eucalyptus work reasonably well for lower-risk areas. In high-malaria or high-dengue zones, though, DEET is still the CDC's first recommendation. Combine it with permethrin-treated clothing for the best protection.

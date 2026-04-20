@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.2874
 longitude: 104.2793
+snippet: Tree-lined riverside promenade past historic churches and Soviet architecture
 tags:
 - things_to_do
 - neighbourhood

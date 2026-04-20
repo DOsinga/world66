@@ -3,6 +3,7 @@ address: Anker koz 3
 latitude: 47.4981
 longitude: 19.0558
 opening_hours: 18:00-3:00 daily
+snippet: Tiny, buzzing cocktail bar near Deak ter
 tags:
 - bars_and_cafes
 - bar

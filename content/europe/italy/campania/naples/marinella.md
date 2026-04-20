@@ -1,5 +1,7 @@
 ---
 address: Riviera di Chiaia 287, Naples
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.833177
 longitude: 14.240859
 phone: +39 081 245 1182

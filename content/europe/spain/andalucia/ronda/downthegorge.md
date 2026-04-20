@@ -1,6 +1,7 @@
 ---
 title: "Down the Gorge"
 type: poi
+snippet: "Dramatic trail through Ronda's Tajo gorge"
 tags: [things_to_do, walk]
 latitude: 36.7413
 longitude: -5.1663

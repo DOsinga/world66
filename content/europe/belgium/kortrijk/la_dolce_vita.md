@@ -4,6 +4,10 @@ type: poi
 category: "Restaurant"
 address: "Stationsstraat 10, Kortrijk"
 phone: "+32 56 20 36 30"
+snippet: Cosy Italian near the station with excellent tagliatelle
+tags:
+- eating_out
+- restaurant
 latitude: 50.8235
 longitude: 3.2622
 ---

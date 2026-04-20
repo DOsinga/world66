@@ -1,7 +1,10 @@
 ---
 title: "Treasury of Atreus"
 type: poi
-category: Sight
+snippet: Massive beehive tomb that held the world's dome record for a millennium
+tags:
+- things_to_do
+- landmark
 latitude: 37.7277
 longitude: 22.7540
 story: >

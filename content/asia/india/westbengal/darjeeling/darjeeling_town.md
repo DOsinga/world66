@@ -1,6 +1,7 @@
 ---
 latitude: 27.049524
 longitude: 88.267006
+snippet: "Ridge-top promenade with mountain views and town walk"
 tags:
 - things_to_do
 title: Chowrasta and the Town Walk

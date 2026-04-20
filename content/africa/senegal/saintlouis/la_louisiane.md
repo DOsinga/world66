@@ -1,6 +1,7 @@
 ---
 latitude: 16.0222
 longitude: -16.4912
+snippet: Dependable Senegalese cooking in a colonial-house terrace
 tags:
 - eating_out
 title: La Louisiane

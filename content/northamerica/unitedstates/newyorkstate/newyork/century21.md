@@ -2,6 +2,7 @@
 address: 22 Cortlandt Street, Lower Manhattan
 latitude: 40.710697
 longitude: -74.01094
+snippet: Chaotic discount designer clothing store in Lower Manhattan
 tags:
 - shopping
 - shop

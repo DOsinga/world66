@@ -1,16 +1,14 @@
 ---
-title: "Karon Beach Phuket"
+title: Karon Beach
 type: poi
-address: "Karon Beach Phuket Island Thailand"
-url: "www.beachsiam.com"
+latitude: 7.843957
+longitude: 98.293425
+snippet: Long, wide beach on Phuket's west coast, quieter than Patong
+tags:
+- things_to_do
+- beach
 ---
 
-Karon Beach on Phuket island is located on the popular west coast of Phuket south of Patong Beach and north of Kata beach. Karon Beach on Phuket island offers a wide stretch of beach that is several km long. Almost all hotels and resorts are set back across from the Karon Beach Road.
+Karon is Phuket's second longest beach — a broad sweep of fine white sand stretching about three kilometres along the island's west coast. It sits between Patong to the north and Kata to the south, and has considerably less noise and nightlife than Patong while still having a full range of restaurants and guesthouses along the main road.
 
-
-
-
-
-url: [www.beachsiam.com](http://www.beachsiam.com/karon_beach.html)
-
-address: Karon Beach Phuket Island Thailand
+The beach itself is the draw: wide enough that it never feels crowded, with strong surf in the monsoon season (May–October) when red flags are up and swimming is unsafe. The rest of the year the water is calm and clear. A small lake at the northern end of the beach makes for a quiet spot away from the main strip.

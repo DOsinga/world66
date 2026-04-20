@@ -1,6 +1,10 @@
 ---
 latitude: 36.6284
 longitude: 127.4567
+snippet: Club-feel bar near Chungdae with dance floor, pool table, and all-you-can-drink weekends
+tags:
+- things_to_do
+- bar
 title: Attic Bar
 type: poi
 ---

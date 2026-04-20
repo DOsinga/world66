@@ -1,6 +1,7 @@
 ---
 latitude: 42.2048
 longitude: -8.7703
+snippet: Maritime museum tracing Vigo's seafaring past in a converted canning factory
 tags:
 - things_to_do
 - museum

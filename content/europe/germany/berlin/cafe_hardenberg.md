@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 - charlottenburg
 title: Café Hardenberg
+snippet: Long-running student café near TU Berlin, cheap and unhurried
 type: poi
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "US Olympic and Paralympic Training Center"
 type: poi
+snippet: "Free tours of a year-round elite Olympic and Paralympic training facility"
 tags:
   - things_to_do
   - sight

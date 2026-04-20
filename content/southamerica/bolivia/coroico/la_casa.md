@@ -1,6 +1,7 @@
 ---
 latitude: -16.1888
 longitude: -67.7278
+snippet: "Cozy fondue restaurant with meat, cheese, and chocolate options"
 tags:
 - eating_out
 title: La Casa

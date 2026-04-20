@@ -1,6 +1,7 @@
 ---
 title: "Torres de Oeste"
 type: poi
+snippet: "Medieval Viking-watch towers with raucous annual Festa Vikinga"
 tags:
   - things_to_do
   - sight

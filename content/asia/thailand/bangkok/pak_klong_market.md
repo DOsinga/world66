@@ -1,12 +1,10 @@
 ---
 latitude: 13.7399
 longitude: 100.497
+snippet: Frenetic wholesale flower market best visited before dawn
 tags:
 - shopping
-- shop
 - market
-- monument
-- bridge
 title: Pak Klong Market
 type: poi
 ---

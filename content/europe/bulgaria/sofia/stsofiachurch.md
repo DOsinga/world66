@@ -1,6 +1,7 @@
 ---
 title: "St. Sofia Basilica"
 type: poi
+snippet: "Sixth-century basilica that gave the city its name"
 tags: [things_to_do]
 latitude: 42.696557
 longitude: 23.331391

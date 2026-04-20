@@ -1,6 +1,7 @@
 ---
 latitude: 50.733
 longitude: 7.105
+snippet: "Old bastion terrace with panoramic Rhine and Siebengebirge views"
 tags:
 - things_to_do
 - landmark

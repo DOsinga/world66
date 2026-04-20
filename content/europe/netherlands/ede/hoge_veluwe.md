@@ -3,6 +3,7 @@ address: Houtkampweg 6, 6731 AW Otterlo
 email: park@hogeveluwe.nl
 latitude: 52.096224
 longitude: 5.817664
+snippet: Vast national park with free white bikes and a world-class art museum
 tags:
 - things_to_do
 - landmark

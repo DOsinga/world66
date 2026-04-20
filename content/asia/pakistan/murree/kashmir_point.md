@@ -1,6 +1,7 @@
 ---
 latitude: 33.9141
 longitude: 73.4047
+snippet: Ridge-top viewpoint looking across the Jhelum Valley into Kashmir
 tags:
 - things_to_do
 - landmark

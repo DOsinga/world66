@@ -1,22 +1,14 @@
 ---
-title: "Regional Museum"
+latitude: 39.5536
+longitude: 44.9819
+snippet: Small local museum covering Sharur district history and archaeology
+tags:
+- things_to_do
+- museum
+title: Regional Museum
 type: poi
-address: "26 Shakh Ismail street, Sharur city."
-phone: "2-21-69"
 ---
 
-****Sharur district history - in 1978
-having been established by social requirements that museum started its
-activity as a state entity since February 1, 1982. The museum consists
-of 9 divisions where nearly 6000 exponents are staying under security.
-While carrying out investigating works in the territory of Region, a
-certain numbers of discovered samples are being stored in that museum.
+A small regional museum on Shakh Ismail Street documenting the history and archaeology of the Sharur district. Founded in 1978 and operating as a state institution since 1982, the collection holds around 6,000 items including archaeological finds from excavations in the surrounding area. Exhibits cover the region from ancient times through the medieval period.
 
-**Contributors**
-April 18, 2006
-
-
-
-tel: 2-21-69
-
-address: 26 Shakh Ismail street, Sharur city.
+The museum is modest and labeling is mostly in Azerbaijani, but staff are generally happy to walk visitors through the highlights. Worth a quick stop if you are already in Sharur.

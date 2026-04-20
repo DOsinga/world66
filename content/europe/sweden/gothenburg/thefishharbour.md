@@ -1,6 +1,7 @@
 ---
 latitude: 57.7118
 longitude: 11.937
+snippet: Early-morning fish auctions where a careless nod could buy you a crate
 tags:
 - things_to_do
 - landmark

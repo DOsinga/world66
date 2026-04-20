@@ -1,6 +1,7 @@
 ---
 latitude: 37.9392
 longitude: 27.3412
+snippet: "Iconic reconstructed Roman library facade from AD 117"
 tags:
 - things_to_do
 - architecture

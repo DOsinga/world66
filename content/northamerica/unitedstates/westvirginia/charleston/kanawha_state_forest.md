@@ -2,6 +2,7 @@
 title: "Kanawha State Forest"
 type: poi
 category: Sight
+snippet: "9,300-acre wooded retreat minutes from downtown Charleston"
 latitude: 38.2876
 longitude: -81.6548
 ---

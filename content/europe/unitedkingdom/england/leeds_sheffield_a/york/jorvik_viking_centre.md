@@ -1,4 +1,5 @@
 ---
+snippet: "Ride-through reconstruction of Viking-age York built over original dig site"
 latitude: 53.9575
 longitude: -1.0797
 story: During construction of the Coppergate shopping centre in 1976, archaeologists

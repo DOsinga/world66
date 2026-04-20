@@ -1,9 +1,12 @@
 ---
 address: Piazza Museo 19, 80135 Naples
 admission: €15
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.852
 longitude: 14.2503
 opening_hours: Wed–Mon 09:00–19:30; closed Tue
+snippet: World-class Roman and Pompeii collections, essential pre-Pompeii visit
 tags:
 - 48 Hours in Naples
 - 3 Days in Naples

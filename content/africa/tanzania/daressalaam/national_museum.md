@@ -1,6 +1,7 @@
 ---
 latitude: -6.8159
 longitude: 39.2876
+snippet: Laetoli footprints and Leakey fossils in a colonial-era building
 tags:
 - things_to_do
 - museum

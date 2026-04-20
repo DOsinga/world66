@@ -2,6 +2,7 @@
 category: Street
 latitude: 52.3718
 longitude: 4.8836
+snippet: The most photogenic of Amsterdam's three great canals
 tags:
 - canal_ring
 title: Keizersgracht

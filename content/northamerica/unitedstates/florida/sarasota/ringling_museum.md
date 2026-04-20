@@ -1,6 +1,7 @@
 ---
 latitude: 27.3897
 longitude: -82.5632
+snippet: "Circus magnate's Baroque art collection and Venetian Gothic mansion"
 tags:
 - things_to_do
 - museum

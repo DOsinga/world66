@@ -1,6 +1,10 @@
 ---
 title: "La Manga Del Mar Menor"
 type: poi
+snippet: "22km sand strip separating the warm Mar Menor lagoon from the Mediterranean"
+tags:
+  - beaches
+  - beach
 latitude: 37.645922
 longitude: -0.71747
 ---

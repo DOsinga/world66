@@ -1,14 +1,11 @@
 ---
 title: "Cafe Milano"
 type: poi
-latitude: 38.906166
-longitude: -77.06366
+snippet: "Long-running Berkeley espresso bar across from UC campus, popular with students and faculty"
+address: "2522 Bancroft Way, Berkeley"
+phone: "(510) 644-3100"
+latitude: 37.8694
+longitude: -122.2590
 ---
 
-One of the best cafes in Berkeley-- and given how crowded Berkeley is with great cafes, that's saying a lot. Across the street from the U.C. Berkeley campus, Milano is a favorite with students, faculty, and others who are part of the area's intellectual public culture.
-
-PC: 94704
-
-tel: (510) 644-3100
-
-address: 2522 Bancroft Way
+One of the better cafes in Berkeley — and given how crowded Berkeley is with great cafes, that's saying something. Directly across from the UC Berkeley campus on Bancroft Way, Milano has been a fixture of the area's intellectual cafe culture for decades. Students, professors, and neighbourhood regulars fill the place at all hours. Good espresso, reliable pastries, and enough noise to make you feel like something interesting might be happening nearby.

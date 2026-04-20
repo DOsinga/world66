@@ -1,6 +1,7 @@
 ---
 latitude: 13.4573
 longitude: -16.5726
+snippet: "Ceremonial gateway marking the 1994 coup, with rooftop views"
 story: Arch 22 was built to mark the date of the 1994 military coup that brought Yahya
   Jammeh to power — 22 July. The arch stands 35 metres high and contains a small museum
   to the coup, which gives an unusually candid view into how the regime chose to commemorate

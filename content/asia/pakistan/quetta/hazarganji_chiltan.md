@@ -1,6 +1,7 @@
 ---
 latitude: 30.05
 longitude: 66.85
+snippet: "Protected home of Pakistan's iconic straight-horned markhor"
 tags:
 - things_to_do
 - landmark

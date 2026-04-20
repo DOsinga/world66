@@ -1,6 +1,7 @@
 ---
 latitude: -22.956
 longitude: -43.165
+snippet: "Tranquil bay-side neighbourhood at the foot of Sugar Loaf Mountain"
 tags:
 - things_to_do
 - beach

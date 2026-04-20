@@ -1,6 +1,10 @@
 ---
 title: "Laeiszhalle"
 type: poi
+tags:
+  - things_to_do
+  - music
+snippet: "Hamburg's grand 1908 neo-baroque concert hall, home to the Symphoniker"
 address: "Johannes-Brahms-Platz"
 url: "laeiszhalle.de"
 latitude: 53.5557

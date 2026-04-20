@@ -1,9 +1,11 @@
 ---
 address: Sæbraut, by the harbour
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 64.1475
-snippet: "Steel dream-boat sculpture on Reykjavik's seafront"
 longitude: -21.9223
+snippet: Steel dream-boat sculpture on Reykjavik's seafront
 tags:
 - things_to_do
 - landmark

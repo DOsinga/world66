@@ -1,11 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.695502
 longitude: 44.806873
+snippet: Tbilisi's oldest surviving church, built in the 6th century
 tags:
 - things_to_do
 title: Anchiskhati Basilica
 type: poi
-snippet: "Tbilisi's oldest surviving church, built in the 6th century"
 ---
 
 The Anchiskhati Basilica is the oldest surviving church in Tbilisi, built in the 6th century during the reign of King Dachi. Its name comes from the Anchi icon of the Saviour, a precious medieval work that was moved here from the Anchi fortress in southern Georgia for safekeeping.

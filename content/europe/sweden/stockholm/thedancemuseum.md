@@ -1,9 +1,11 @@
 ---
 address: Gustav Adolfs torg 22-24
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 59.329544
 longitude: 18.069326
 phone: +46 (0)8 10 82 43
-snippet: "World's only museum dedicated entirely to dance"
+snippet: World's only museum dedicated entirely to dance
 tags:
 - things_to_do
 - museum

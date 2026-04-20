@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.7948
 longitude: 129.3493
+snippet: UNESCO-listed stone Buddha in an artificial grotto above the East Sea
 tags:
 - day_trips
 title: Seokguram Grotto
@@ -72,6 +75,3 @@ Getting there: Use the same methods as if visiting
 Bulguksa Temple. The shuttle bus for the Grotto leaves from the temple
 car park. Ask at the tourist information booth (next to the terminus
 for the 10/11 buses) for more specific details.
-
-**Contributors**
-October 12, 2006

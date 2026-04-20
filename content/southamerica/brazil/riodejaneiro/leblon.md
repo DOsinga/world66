@@ -1,6 +1,7 @@
 ---
 latitude: -22.983461
 longitude: -43.224966
+snippet: Quieter extension of Ipanema with upscale dining on Rua Dias Ferreira
 tags:
 - beaches
 - beach

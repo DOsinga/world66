@@ -1,8 +1,8 @@
 ---
-category: Architecture
 latitude: 52.379629
 longitude: 4.886399
 neighbourhood: The Jordaan
+snippet: Dutch Reformed church whose Saturday market is the Jordaan's best
 tags:
 - things_to_do
 - jordaan

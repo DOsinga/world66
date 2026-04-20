@@ -1,20 +1,17 @@
 ---
 title: "Cafe Noir"
 type: poi
+snippet: All-day Bauhaus-neighbourhood spot famous for schnitzel
 tags:
   - bars_and_cafes
   - cafe
   - bar
+  - restaurant
 address: "Echad Ha'am 43 (corner of Nachmani)"
 latitude: 32.0625
 longitude: 34.7742
 ---
 
-This place is also a cafe during the morning, later on more like a restaurant, and late at night it's more of a bar.
-It is located south of the center, in an area packed with other cafes and restaurants, an area which features Bauhaus buildings.
-It is known in town for it's Schnitzels, but you can find other various things in the menu. It is an excellent place for a romantic date, due to it's soft and dark lighting at night.
-Since it's popular, when it's packed, the service tends to be somewhat slower.
-All in all, a great place, at any time of day.
+A Tel Aviv institution that shifts register through the day: coffee and pastries in the morning, proper lunches at midday, and a dim, candle-lit bar scene after dark. The neighbourhood — south of the old centre, dense with Bauhaus-era apartment blocks — gives it more local feel than the tourist strips to the north.
 
-**Contributors**
-July 17, 2006
+The schnitzels are the reason most people come. They're oversized, properly breaded, and reliably good. The menu runs broader than that, but the schnitzel is what regulars order and what first-timers should try. The low lighting that makes evening dining atmospheric also means the place can feel slow when it's crowded — service stretches at peak hours.

@@ -1,7 +1,10 @@
 ---
 title: "Krka National Park"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - nature
+snippet: "Travertine waterfalls and river gorge, an easy day trip from Split"
 latitude: 43.918919
 longitude: 15.978529
 ---

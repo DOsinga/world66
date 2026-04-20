@@ -1,6 +1,7 @@
 ---
 title: Edam
 type: poi
+snippet: "Quiet 17th-century canal town with summer cheese market, 30 minutes away"
 tags:
 - day_trips
 latitude: 52.5089

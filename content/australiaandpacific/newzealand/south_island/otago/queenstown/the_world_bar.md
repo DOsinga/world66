@@ -2,6 +2,7 @@
 address: 27 Shotover Street
 latitude: -45.031
 longitude: 168.66
+snippet: Cocktails served in teapots for a relaxed evening out
 tags:
 - bars_and_cafes
 - bar

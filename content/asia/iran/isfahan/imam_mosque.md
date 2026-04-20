@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 32.6549
 longitude: 51.6773
+snippet: Masterpiece of Safavid architecture with seven-echo dome
 story: 'The mosque was built at Shah Abbas I''s command in a remarkable hurry â€” he
   feared he would not live to see it completed. To speed construction, the architects
   used seven-brick tile panels rather than the traditional single-tile approach, shaving
@@ -10,6 +13,8 @@ story: 'The mosque was built at Shah Abbas I''s command in a remarkable hurry â€
 tags:
 - things_to_do
 - landmark
+- historic
+- mosque
 title: Imam Mosque
 type: poi
 ---

@@ -1,11 +1,8 @@
 ---
 address: 562 West 4th Street, San Bernardino
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 34.106785
 longitude: -117.295468
 phone: 909-885-5152
-snippet: 1928 Spanish-Moorish theater with Will Rogers mural
 tags:
 - things_to_do
 - architecture

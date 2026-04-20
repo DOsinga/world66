@@ -1,10 +1,7 @@
 ---
 address: 169b De Tham Street
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 10.768044
 longitude: 106.693639
-snippet: Late-night backpacker bar with indie and rock music
 tags:
 - bars_and_cafes
 - bar
@@ -12,8 +9,16 @@ title: Cloudburst Bar
 type: poi
 ---
 
-A late-night bar on De Tham Street in the heart of Saigon's backpacker district. The music leans toward indie, rock, and dance, and the atmosphere is relaxed and welcoming. Drinks are cheap by District 1 standards, with generous pours.
+Cloudburst Bar is a low-budget late-night British/Canadian/Vietnamese-run bar in Saigon's backpacker central. At night-time, it is primarily geared towards sophisticated (alternative/indie/rock/dance) music lovers, but caters to a wide range of customers. Early on in the evening and the week, it tends to be dominated by locals and tourists, but late and at the weekend there is a much heavier expat presence. Whilst the presence of "bar girls" is seemingly ubiquitous in Saigon,
+this is definitely a female-friendly bar and, whilst not geared towards
+this, it also appears to be gay/lesbian-friendly too. It feels much less threatening than some of the busier and more aggressive bars on Pham Ngu Lao.
 
-The crowd shifts through the evening — locals and tourists earlier on, more expats as the night wears on. It is a mellower alternative to the louder, pushier bars on nearby Pham Ngu Lao.
+The drinks menu is fairly limited, but the measures are generous and it's one of the cheaper "true bars" in the area. Food is available, but only by ordering in which the owners seem happy to do when local restaurants are open. There is a website at www.cloudburst.freewebsitehosting.com
+
+It tends to play better music when one of the western bosses is in the bar, at other times it operates at the same low level (musically) as other vietnamese cafes. Most of the vietnamese, for all their many positives, do not understand western music.
+
+
+
+
 
 address: 169b De Tham Street

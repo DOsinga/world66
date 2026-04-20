@@ -4,6 +4,7 @@ latitude: -33.8836
 longitude: 151.2003
 phone: (02) 9280 0956
 price: $7-10 AUD per dish
+snippet: Tiny, cheap Thai takeaway spot near Central Station
 tags:
 - eating_out
 - restaurant

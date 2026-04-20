@@ -1,12 +1,14 @@
 ---
 address: Piet Heinkade 3
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.377969
 longitude: 4.912886
 neighbourhood: Plantage
 phone: 020 788 2188
+snippet: World-class jazz venue in a glass box over the IJ
 tags:
-- bars_and_cafes
-- plantage
+- nightlife
 title: Bimhuis
 type: poi
 url: bimhuis.nl

@@ -1,6 +1,7 @@
 ---
 latitude: 40.6378
 longitude: 22.9361
+snippet: Thessaloniki's lively warehouse district turned nightlife quarter
 tags:
 - things_to_do
 - neighbourhood

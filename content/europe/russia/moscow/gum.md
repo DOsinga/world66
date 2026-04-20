@@ -1,23 +1,15 @@
 ---
 title: "GUM"
 type: poi
-address: "Red square, 3"
-type: "Shopping centers and malls"
-url: "www.gum.ru"
+tags:
+- shopping
+snippet: "Ornate 19th-century department store on Red Square"
 latitude: 55.754703
 longitude: 37.621438
 ---
 
-GUM is ***the*** first shopping center in Moscow. Now, you can find shops there such as: Sisley, Benetton, Yve Roche, Morgan, 4You, Levi's, Escada, Christian Dior, Clinique, Naf Naf, Puma, and ect. There are also a lot of cafes, restaurants, and a cinema.
+GUM (short for Glavny Universalny Magazin, or Main Universal Store) is the grand department store that takes up the entire eastern side of Red Square. The building itself is the main attraction -- three parallel arcades connected by walkways under a soaring glass roof, designed by Alexander Pomerantsev and completed in 1893. Even if you have no intention of shopping, the architecture alone is worth a walk through.
 
-Open: mon-saturday 9:00 - 21:00, sunday 11:00 - 20:00
+The store houses high-end international brands (Dior, Escada, Puma) alongside Russian labels, but prices are steep and the clientele tends toward the well-heeled. The ground-floor ice cream counter, serving the same recipe since Soviet times, is a Moscow institution and costs almost nothing. There are cafes and restaurants scattered throughout, and the fountain at the centre of the main arcade is a classic meeting spot.
 
-type: Shopping centers and malls
-
-
-
-
-
-url: [www.gum.ru](http://www.gum.ru)
-
-address: Red square, 3
+In winter, an ice rink is set up on Red Square directly in front of GUM, and the building's facade is lit up spectacularly.

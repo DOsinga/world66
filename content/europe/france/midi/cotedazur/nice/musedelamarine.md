@@ -3,6 +3,7 @@ address: Place du 8 Mai, Nice
 latitude: 43.6955
 longitude: 7.286
 phone: 04.93.80.47.61
+snippet: Maritime history museum near the port
 tags:
 - things_to_do
 - museum

@@ -1,11 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
 latitude: 49.6946
 longitude: -112.8331
+score: 0.39
 title: Lethbridge
 type: location
-score: 0.39
 ---
 
 Lethbridge sits in the sunny heart of southern Alberta, claiming more hours of sunshine than anywhere else in Canada. It is a prairie city through and through -- flat agricultural land stretches in every direction, growing grain and sugar beets, with oil and gas operations dotting the landscape between the farms.

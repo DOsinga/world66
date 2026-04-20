@@ -5,6 +5,7 @@ latitude: 11.251
 longitude: 125.0037
 phone: 053-5239488
 price: PHP 120-200
+snippet: Laid-back cafe-bar for coffee, cocktails, and Wi-Fi
 tags:
 - eating_out
 title: Zaibatsu Cafe Bar

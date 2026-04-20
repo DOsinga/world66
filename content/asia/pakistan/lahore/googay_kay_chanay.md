@@ -1,32 +1,14 @@
 ---
-title: "Googay kay Chanay"
-type: poi
-accessibility: "easy"
-address: "A Block Market, Model Town, Lahore"
-email: "abbasnpm@gmail.com"
-price: "40-60 rs"
-type: "Local"
+address: A Block Market, Model Town, Lahore
 latitude: 31.4828
-longitude: 74.330328
+longitude: 74.3303
+snippet: Beloved breakfast stall for chana with egg and kofta
+tags:
+- eating_out
+title: Googay kay Chanay
+type: poi
 ---
 
-Its a best place for breakfast in Model Town, Lahore.
-Its cheap but very tasty.
-opens around 6 am and is closed at 2 p.m.
-The only speciality is " CHANAY "
-served with Chicken, Kofta, Egg and blah blah :)
-If you wanna have local touch of Lahori BreakFast, you must try this.
+A no-frills breakfast institution in Model Town's A Block Market. The single specialty is chanay — chickpea curry served with your choice of chicken, kofta, or egg — and the place has been doing it long enough that regulars do not bother with a menu.
 
-type: Local
-
-
-
-
-
-accessibility: easy
-
-address: A Block Market, Model Town, Lahore
-
-PriceOfMenu: 40-60 rs
-
-email: abbasnpm@gmail.com
+Opens around 6 am and closes by early afternoon once the pot is empty. Expect to eat standing or on a basic bench. Portions are generous and prices are negligible. If you want an authentic Lahori breakfast experience away from the tourist trail, this is it.

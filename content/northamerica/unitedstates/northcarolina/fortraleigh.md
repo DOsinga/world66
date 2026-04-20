@@ -4,6 +4,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 35.93531
 longitude: -75.711828
+snippet: Site of America's Lost Colony mystery
 title: Fort Raleigh
 type: poi
 ---

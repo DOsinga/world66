@@ -3,10 +3,11 @@ address: Castillejos 388
 latitude: 41.412422
 longitude: 2.170818
 phone: 93-347-66-44
+snippet: Barcelona gym chain; the Horta-Guinardó flagship has pools, saunas, squash
 tags:
 - things_to_do
 title: DiR
 type: poi
 ---
 
-Some people call DiR an oasis, others can't say enough about the clubs soothing sauna and invigorating swimming pool. But one thing is clear, DiR is the best place in Barcelona to workout, steam away stress or take a swim. DiR has numerous locations throughout Barcelona, but the largest facility, in Horta-Guinardo, features more than 32,000 square feet of space, a bar-restaurant, three saunas and 2 steam rooms, a squash court, beauty treatments, and state-of-the-art fitness equipment. A day pass costs around 11E.
+Barcelona's main gym chain, with locations across the city. The flagship in Horta-Guinardó is the largest: over 3,000 square metres with a pool, three saunas, two steam rooms, a squash court, and a bar-restaurant. A day pass runs around €11.

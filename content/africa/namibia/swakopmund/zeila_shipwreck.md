@@ -1,6 +1,7 @@
 ---
 latitude: -22.6097
 longitude: 14.4873
+snippet: Rusting 2008 cargo wreck stranded on the Skeleton Coast surf
 tags:
 - things_to_do
 - landmark

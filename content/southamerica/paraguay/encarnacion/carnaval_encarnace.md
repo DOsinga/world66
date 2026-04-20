@@ -1,7 +1,10 @@
 ---
 title: "Carnaval Encarnaceno"
 type: poi
-tags: [when_to_go, festival]
+snippet: Paraguay's largest carnival, rivalling its Argentine neighbours
+tags:
+- when_to_go
+- festival
 latitude: -27.3306
 longitude: -55.8669
 ---

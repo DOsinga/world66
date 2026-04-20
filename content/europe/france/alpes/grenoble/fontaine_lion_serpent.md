@@ -2,6 +2,7 @@
 address: Jardin de Ville
 latitude: 45.192
 longitude: 5.7278
+snippet: Symbolic fountain in the Jardin de Ville representing Grenoble's two rivers
 tags:
 - things_to_do
 - landmark

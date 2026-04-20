@@ -1,8 +1,12 @@
 ---
+latitude: 40.7704
+longitude: -111.8910
+phone: (801) 240-6279
+snippet: Free open-air trolley tour of Temple Square, summer only
 tags:
 - sights
 title: Pioneer Trolley
 type: poi
 ---
 
-Take a free 15-minute ride on an open-air trolley while hostesses present an overview of sites to visit and things to do on beautiful Temple Square and vicinity. 6 on/off stops. Monday thru Saturday 10 am to 4 pm. Summer only. (801) 240-6279
+A free 15-minute open-air trolley ride around Temple Square and its surroundings, with a hostess pointing out sites of interest along the way. Six stops where you can hop on and off. Runs Monday through Saturday, 10am to 4pm, summers only.

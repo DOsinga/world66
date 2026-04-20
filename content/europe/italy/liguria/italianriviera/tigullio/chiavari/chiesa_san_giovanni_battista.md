@@ -1,6 +1,7 @@
 ---
 latitude: 44.3165
 longitude: 9.3228
+snippet: Chiavari's 17th-century Baroque cathedral on the main square
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 title: "Black Paradise Flycatcher Reserve"
 type: poi
+snippet: Last stronghold of the Seychelles black paradise flycatcher
 tags:
   - things_to_do
   - sight

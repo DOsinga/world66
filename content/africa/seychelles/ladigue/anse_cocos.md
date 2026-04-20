@@ -3,7 +3,7 @@ title: "Anse Cocos"
 type: poi
 tags:
   - beaches
-  - sight
+snippet: "Remote granite-backed cove reached by a rewarding 30-minute walk"
 latitude: -4.3553
 longitude: 55.8601
 ---

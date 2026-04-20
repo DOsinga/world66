@@ -3,6 +3,7 @@ address: Salisbury Road, Tsim Sha Tsui
 latitude: 22.2948
 longitude: 114.1737
 phone: 2920 2888
+snippet: Hong Kong's grand dame hotel; the lobby tea is a genuine institution
 tags:
 - kowloon
 - eating_out

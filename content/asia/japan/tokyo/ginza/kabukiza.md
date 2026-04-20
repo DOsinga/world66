@@ -2,6 +2,7 @@
 address: 4-12-15 Ginza, Chuo-ku
 latitude: 35.6696
 longitude: 139.7677
+snippet: Tokyo's main kabuki theatre; single-act tickets available daily
 tags:
 - things_to_do
 - landmark

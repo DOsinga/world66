@@ -1,6 +1,7 @@
 ---
 latitude: 34.0644
 longitude: -4.9748
+snippet: Fez's holiest shrine; non-Muslims can view but not enter
 tags:
 - things_to_do
 - fes_el_bali

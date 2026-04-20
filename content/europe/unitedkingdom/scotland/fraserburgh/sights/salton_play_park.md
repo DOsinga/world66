@@ -1,16 +1,13 @@
 ---
-title: "Salton play park"
+title: "Salton Play Park"
 type: poi
-address: "Salton place"
-type: "Hotspots"
-latitude: 45.269545
-longitude: 4.888741
+snippet: "Children's play park with an ornate 1904 fountain bearing Fraserburgh's coat of arms"
+tags:
+  - things_to_do
+  - park
+address: "Salton Place, Fraserburgh"
+latitude: 57.6948
+longitude: -2.0044
 ---
 
-If you have children with you don't miss this park with a beautiful old fountain (1904), depicting the town's coat of arms and ostrach with a key in it's mouth, signifying that the people of the town can swallow anything. This park really is beautiful in the summer when the flowers are in full bloom, and the kids can have lots of fun at the play park.
-
-type: Hotspots
-
-
-
-address: Salton place
+A pleasant green space on Salton Place with a children's play area and a fine old fountain dating from 1904. The fountain depicts Fraserburgh's coat of arms, including an ostrich with a key in its mouth — the town's traditional symbol. It's a good spot if you need a break or have kids in tow, particularly in summer when the flower beds are in bloom.

@@ -1,6 +1,7 @@
 ---
 latitude: 39.0497
 longitude: -95.6849
+snippet: Landmark school desegregation case museum
 tags:
 - things_to_do
 - museum

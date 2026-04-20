@@ -1,6 +1,7 @@
 ---
 latitude: 45.5263
 longitude: -122.6846
+snippet: Upscale Peruvian restaurant in the Pearl District
 tags:
 - eating_out
 - restaurant

@@ -1,10 +1,14 @@
 ---
-title: "Museum Insel Hombroich"
-type: poi
-category: "Museum"
+address: Minkel 2, 41472 Neuss-Holzheim
+category: Museum
 latitude: 51.141632
 longitude: 6.655372
-address: "Minkel 2, 41472 Neuss-Holzheim"
+snippet: Art pavilions scattered through meadows and woodland
+tags:
+- things_to_do
+- museum
+title: Museum Insel Hombroich
+type: poi
 ---
 
 In a lush garden setting on a small island in a river, art and nature meet. The artist Erwin Heerich designed 11 walk-in pavilions scattered through meadows and woodland, each presenting works without labels or explanations — you encounter the art directly.

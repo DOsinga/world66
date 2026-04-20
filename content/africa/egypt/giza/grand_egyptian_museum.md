@@ -1,6 +1,7 @@
 ---
 latitude: 29.9937
 longitude: 31.1196
+snippet: World's largest archaeological museum near the pyramids
 tags:
 - things_to_do
 - museum

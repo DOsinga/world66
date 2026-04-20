@@ -1,6 +1,7 @@
 ---
 latitude: 32.639
 longitude: 51.6645
+snippet: Iconic 33-arch Safavid bridge over the Zayandeh
 tags:
 - things_to_do
 - landmark

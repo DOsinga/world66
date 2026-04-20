@@ -1,8 +1,10 @@
 ---
 latitude: 33.67
 longitude: 73.66
+snippet: Sulfur hot springs on the Poonch River
 tags:
 - things_to_do
+- nature
 title: Tatta Pani Hot Springs
 type: poi
 ---

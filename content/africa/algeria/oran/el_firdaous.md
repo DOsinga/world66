@@ -2,6 +2,7 @@
 address: Miramar, Oran
 latitude: 35.7018
 longitude: -0.6328
+snippet: Upscale Algerian-French dining near the coast
 tags:
 - eating_out
 - restaurant

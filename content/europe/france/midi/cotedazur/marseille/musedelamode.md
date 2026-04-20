@@ -1,5 +1,7 @@
 ---
 address: 11 La Canebière, 1er arrondissement
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.2965
 longitude: 5.3756
 snippet: Fashion museum with rotating exhibits on La Canebière

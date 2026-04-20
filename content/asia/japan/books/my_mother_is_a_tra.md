@@ -1,25 +1,13 @@
 ---
-title: "My Mother is a Tractor"
+author: Nicholas Klar
+done:
+  poi_cleanup: '2026-04-20'
+isbn: '1412048974'
+snippet: witty memoir of teaching English in rural Japan
+tags:
+- books
+title: My Mother is a Tractor
 type: poi
-author: "Nicholas Klar"
-isbn: "1412048974"
 ---
 
-An English teacher writes from [Niigata](/asia/japan/honshu/niigata) in the depths of [rural Japan](/asia/japan/honshu/niigata) - a witty and informative take on Japanese society. The Rough Guide to [Japan](/asia/japan/honshu) wrote, “*My Mother is a Tractor*
-contains the wry insights of a former JET- Nicholas Klar who has
-written about his experiences. Required reading..." This book is for
-anyone contemplating life in Japan on the JET Program or thinking
-of teaching English there.
-
-Info at: http://klarbooks.com/mmiat
-
-**Contributors**
-November 04, 2005
-
-[](http://www.amazon.com/exec/obidos/ASIN/1412048974/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: Nicholas Klar
-
-isbn: 1412048974
+A wry, entertaining account of life as an English teacher on the JET Programme in [Niigata](/asia/japan/honshu/niigata), deep in rural Japan. Nicholas Klar captures the daily absurdities, cultural collisions, and quiet revelations of small-town Japanese life with warmth and sharp observation. The Rough Guide to Japan called it "required reading" for anyone contemplating the JET Programme or teaching English in Japan.

@@ -1,9 +1,11 @@
 ---
-title: Iran
-type: location
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 32.647531
 longitude: 54.564352
 score: 0.33
+title: Iran
+type: location
 ---
 
 Known as **Persia** until 1935, **Iran** became an Islamic republic in 1979. This country has nearly 10% of the world's known oil and the second biggest gas reserves.

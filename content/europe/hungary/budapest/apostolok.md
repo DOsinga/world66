@@ -5,7 +5,7 @@ longitude: 19.056
 tags:
 - eating_out
 - restaurant
-- church
+snippet: "Grand church-like interior with traditional Hungarian cuisine"
 title: Apostolok
 type: poi
 ---

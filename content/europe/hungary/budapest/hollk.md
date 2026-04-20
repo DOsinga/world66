@@ -1,10 +1,11 @@
 ---
 latitude: 47.996
 longitude: 19.5889
+snippet: UNESCO village with castle, folk customs, and Easter festival
 tags:
 - day_trips
-- palace
-title: Holloko
+- village
+title: Hollókő
 type: poi
 ---
 

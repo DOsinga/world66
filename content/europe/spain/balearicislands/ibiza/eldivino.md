@@ -4,6 +4,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 38.9083
 longitude: 1.447
+snippet: Upscale marina nightclub with yacht shuttle from town
 tags:
 - bars_and_cafes
 - nightclub

@@ -5,6 +5,7 @@ longitude: -74.0726
 tags:
 - things_to_do
 - museum
+snippet: "Free art museum next to Museo Botero in La Candelaria"
 title: Museo de Arte del Banco de la Republica
 type: poi
 ---

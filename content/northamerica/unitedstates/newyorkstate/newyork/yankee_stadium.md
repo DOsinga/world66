@@ -4,6 +4,7 @@ latitude: 40.829583
 longitude: -73.926521
 tags:
 - things_to_do
+snippet: "Iconic Bronx ballpark and quintessential New York experience"
 title: Yankee Stadium
 type: poi
 ---

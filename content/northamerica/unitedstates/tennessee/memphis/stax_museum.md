@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.1151
 longitude: -90.0284
+snippet: Where Otis Redding and Isaac Hayes recorded soul history
 tags:
 - things_to_do
 - museum

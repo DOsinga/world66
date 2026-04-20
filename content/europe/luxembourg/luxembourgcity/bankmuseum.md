@@ -4,6 +4,7 @@ latitude: 49.607289
 longitude: 6.128535
 opening_hours: Mon-Fri 10-17:30
 phone: (+352) 4015-2450
+snippet: Luxembourg's financial history in a grand bank building
 tags:
 - things_to_do
 - museum

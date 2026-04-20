@@ -1,6 +1,8 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.1636
-longitude: -115.5400
+longitude: -115.54
 snippet: Wind-carved rock pillars above the Bow River valley
 tags:
 - things_to_do

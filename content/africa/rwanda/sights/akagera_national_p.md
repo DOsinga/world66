@@ -1,6 +1,10 @@
 ---
 title: "Akagera National Park"
 type: poi
+snippet: "Rehabilitated Big Five park east of Kigali, once lost to genocide's aftermath"
+tags:
+- things_to_do
+- nature
 latitude: -1.646305
 longitude: 30.744764
 ---

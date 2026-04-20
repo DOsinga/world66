@@ -1,7 +1,10 @@
 ---
-category: Sight
 latitude: 48.4477
 longitude: 1.4873
+snippet: The most complete Gothic cathedral in the world, with original medieval stained glass
+tags:
+- things_to_do
+- landmark
 title: Chartres Cathedral
 type: poi
 ---

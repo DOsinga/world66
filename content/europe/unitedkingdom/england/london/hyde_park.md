@@ -4,6 +4,7 @@ admission: Free
 latitude: 51.507489
 longitude: -0.162207
 opening_hours: Daily 5am-midnight
+snippet: "250-hectare royal park with the Serpentine and Speakers' Corner"
 tags:
 - things_to_do
 - park

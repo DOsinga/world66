@@ -1,6 +1,7 @@
 ---
 latitude: 20.6112
 longitude: -105.2338
+snippet: Sculpture-lined beachfront promenade perfect at sunset
 tags:
 - things_to_do
 - landmark

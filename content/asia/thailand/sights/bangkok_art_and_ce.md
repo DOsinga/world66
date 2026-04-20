@@ -1,33 +1,16 @@
 ---
-title: "Bangkok Art and Centre"
+latitude: 13.7463
+longitude: 100.5301
+snippet: Contemporary arts hub with free exhibitions and rooftop cafes
+tags:
+- things_to_do
+- museum
+title: Bangkok Art and Culture Centre
 type: poi
-accessibility: "BTS Sky Train - National Stadium Station"
-address: "939 Rama I Road, Wangmai, Bangkok, Thailand"
-email: "prbacc@hotmail.com"
-opening_hours: "Tuesday-Sunday, 10 a.m. to 9 p.m."
-phone: "(66)22146630-8"
-type: "Hotspots"
-url: "bacc.or.th"
 ---
 
-The Bangkok Art and Culture Centre (BACC) is a mid-town facility for the contemporary arts. Open in 2008, it serves as the exhibition place for art, music, theatre, film, design, and cultural/educational events.
+The Bangkok Art and Culture Centre (BACC) is a striking eleven-storey building right at the National Stadium BTS station. Since 2008 it has served as the city's main venue for contemporary art, film, theatre, and design exhibitions. The spiralling interior walkway connects gallery floors with small independent bookshops, cafes, and artist-run spaces.
 
-It is renowned for a friendly and recreational atmosphere - with cafe, restaurants,bookshops, and an art library being part of the facility.
+Admission to most exhibitions is free. The upper floors host rotating shows while the ground-level shops lean toward Thai design and illustration. It's air-conditioned, well-curated, and a welcome break from temple fatigue.
 
-No admission charge.
-
-type: Hotspots
-
-
-
-accessibility: BTS Sky Train - National Stadium Station
-
-tel: (66)22146630-8
-
-openingHours: Tuesday-Sunday, 10 a.m. to 9 p.m.
-
-url: [bacc.or.th](http://bacc.or.th)
-
-address: 939 Rama I Road, Wangmai, Bangkok, Thailand
-
-email: prbacc@hotmail.com
+Open Tuesday to Sunday, 10am to 9pm.

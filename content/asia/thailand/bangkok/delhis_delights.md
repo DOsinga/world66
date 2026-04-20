@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Delhi's Delights
 type: poi
+snippet: "Reliable North Indian food in the Patpong area"
 ---
 
 A classic Indian restaurant in the Patpong area, decorated in North Indian style. Good value and reliable. A solid option when you want a break from Thai food in the Silom area.

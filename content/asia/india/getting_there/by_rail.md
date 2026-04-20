@@ -1,24 +1,17 @@
 ---
 title: "By Rail"
 type: poi
-type: "By Road"
-latitude: 31.03859
-longitude: 77.376033
+snippet: "Vast rail network — the best way to meet India and cross the country"
 ---
 
-India boasts the biggest network of railway lines in the world, and the rail system is surprisingly efficient. Luxurious it is not, but India's railways are perhaps the best way to get to know the country and its people. A few important tips regarding rail travel:
+India has one of the world's largest rail networks, and the system is surprisingly efficient given its scale. Luxurious it is not, but the railways are arguably the best way to get to know the country and its people.
 
-Train tickets are in high demand, especially during the summer and winter breaks. This means that without careful planning, it may be next to impossible to get tickets for long distance travel (for example from New Delhi to Bombay). However foreigners can get tickets from a quota reserved for them. In big cities, you have a specific counter or even a special office for them. If you plan to travel in 1st Class A/C (see below) tickets should be easier to get - they are in less demand. In New Delhi, you can pay your tickets in US dollars. In this case, you will pay a higher rate. For air tickets, you have to pay the "foreigner" price. Rail passes are also available, and are called Indrail passes. There is more information at http://www.indianrail.gov.in/intert.html .
+Train tickets are in high demand, especially during summer and winter school breaks. Without planning ahead, long-distance routes — say, New Delhi to Mumbai — can be fully booked. Foreigners can access a quota reserved for them; in big cities there is often a dedicated counter or office. First Class A/C is easier to book than lower classes, since fewer people use it. Rail passes called Indrail passes are available; more information at indianrail.gov.in. Tickets can also be booked online at irctc.co.in.
 
-The tickets could be booked online at www.irctc.co.in
+For overnight trips, Sleeper class is usually the best value — request an upper inside bunk. 2 A/C or 3 A/C gives you a compartment with 4 or 6 berths and proper air conditioning. Second class (unreserved) is often wildly overcrowded and best avoided for long journeys. The A/C in upper classes can be extreme — bring a layer.
 
-Always watch your bags, especially in and around train stations. Once on a train, lock your bags to your bunk-- under the bunk if you are on the bottom, or at your head. Make sure to also lock any exterior pockets (keep your TP and anything else you'll want on the outside). While you may be tempted to travel 2nd class to save money, those cars are often overcrowded and you may not even be able to sit for more than a day at a time. Sleeper is usually your best option, ask for an "upper inside bunk" for overnight trips. 1st Class 3 A/C or 2 A/C (meaning 6 or 4 people in a compartment) is, of course even better, if you can afford it, but the A/C can be extreme. In Sleeper Class some people ignore the classes and try to get into your compartment.
+Indian trains are slow. Don't judge distance by looking at a map. Bring food and water for the full journey including delays: bananas, bread, and snacks are sensible basics. At stations hawkers sell chai and peanuts, but don't rely on them for an 18- or 40-hour trip. In 1st Class, you can order meals from train staff.
 
-Indian trains take a long time to go anywhere. Don't just look at a map and assume a short trip - these trains don't move fast. Bathrooms on Indian trains leave a lot to be desired. Shower and use the toilet elsewhere if at all possible. Bring enough food and water for the journey (including delays): Bananas, bread, and candy bars are good basics to have. At some stations hawkers selling tea or peanuts will go up and down the train, but don't count on this being enough for a 18 or 40 hour journey. On 1st Class you can order all 3 meals from the train workers. Enjoy the train! You'll meet fascinating, wonderful people.
+Always watch your bags. At stations and in lower classes, keep bags locked to your bunk — under the bunk if you're on the bottom, at your head if you're on top. Lock exterior pockets too.
 
-The only international train connection is from Pakistan. See Overland Europe to South-Asia.
-
-**Contributors**
-May 12, 2005
-
-type: By Road
+The only international rail connection is from Pakistan. See Overland Europe to South Asia for details.

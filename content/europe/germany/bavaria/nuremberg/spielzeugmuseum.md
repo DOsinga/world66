@@ -1,6 +1,7 @@
 ---
 latitude: 49.454606
 longitude: 11.074262
+snippet: "Five centuries of toys from the world's toy-making capital"
 tags:
 - things_to_do
 - museum

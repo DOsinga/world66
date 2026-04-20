@@ -1,10 +1,14 @@
 ---
 address: Plaza Roma, Intramuros
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.591511
 longitude: 120.973638
+snippet: Principal cathedral of the Philippines, rebuilt eight times
 tags:
-- things_to_do
-- landmark
+- religious
+- architecture
+- history
 title: Manila Cathedral
 type: poi
 ---

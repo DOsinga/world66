@@ -1,7 +1,9 @@
 ---
 title: "Saadian Tombs"
 type: poi
-category: "Sight"
+snippet: 16th-century royal necropolis with exceptional carved plasterwork and zellige
+tags:
+- things_to_do
 latitude: 31.617259
 longitude: -7.988555
 ---

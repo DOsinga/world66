@@ -1,6 +1,7 @@
 ---
 title: "Restaurant Rupa"
 type: poi
+snippet: Unpretentious Slovenian home cooking near Lake Bohinj
 tags:
   - eating_out
   - restaurant

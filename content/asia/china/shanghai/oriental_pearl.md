@@ -1,8 +1,10 @@
 ---
 title: "Oriental Pearl Tower"
 type: poi
-category: "Architecture"
-neighbourhood: "Pudong"
+snippet: Iconic 1990s TV tower with observation deck and history museum
+tags:
+- things_to_do
+- landmark
 address: "1 Century Avenue, Lujiazui, Pudong"
 latitude: 31.2397
 longitude: 121.4998

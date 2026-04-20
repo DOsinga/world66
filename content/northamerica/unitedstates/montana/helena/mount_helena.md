@@ -1,6 +1,7 @@
 ---
 title: "Mount Helena City Park"
 type: poi
+snippet: "Summit hike with big views, right from downtown"
 tags:
   - things_to_do
   - sight

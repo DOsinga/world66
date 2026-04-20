@@ -1,6 +1,7 @@
 ---
 latitude: 53.2492
 longitude: 10.407
+snippet: "Medieval town hall complex spanning five centuries of architecture"
 tags:
 - things_to_do
 - architecture

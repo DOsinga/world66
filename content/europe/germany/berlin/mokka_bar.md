@@ -3,6 +3,7 @@ address: Gneisenaustraße 93, Kreuzberg
 latitude: 52.492202
 longitude: 13.393933
 opening_hours: Daily 10am-2am
+snippet: Spacious café bar with Oriental touch and mixed crowd in Kreuzberg
 tags:
 - bars_and_cafes
 - kreuzberg

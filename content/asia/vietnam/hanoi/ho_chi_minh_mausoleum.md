@@ -1,10 +1,13 @@
 ---
 address: 2 Hung Vuong, Ba Dinh
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 21.0369
 longitude: 105.8347
 opening_hours: Tue–Thu, Sat–Sun 07:30–10:30 (summer until 11:00); closed Mon, Fri,
   and Sep–Nov for maintenance
+snippet: Granite mausoleum housing Ho Chi Minh's embalmed body on Ba Dinh Square
 tags:
 - things_to_do
 - landmark

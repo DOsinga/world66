@@ -1,6 +1,7 @@
 ---
 latitude: 55.7042
 longitude: 13.193
+snippet: Open-air museum of relocated Scanian buildings, founded 1882
 tags:
 - things_to_do
 - museum

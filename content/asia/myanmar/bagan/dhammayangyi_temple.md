@@ -1,6 +1,7 @@
 ---
 latitude: 21.1582
 longitude: 94.8636
+snippet: Bagan's largest and most forbidding temple, built by a murderous king
 story: The temple was built by King Narathu (1167–1170), who seized the throne by
   murdering his father and brother. According to tradition, he forced workers to build
   with such precision that no pin could be passed between the bricks — and executed

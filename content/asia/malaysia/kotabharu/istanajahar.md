@@ -1,6 +1,7 @@
 ---
-latitude: 6.124
+latitude: 6.1247
 longitude: 102.2434
+snippet: Carved wooden palace housing royal customs museum
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,7 @@
 ---
 title: "Haedong Yonggungsa Temple"
 type: poi
+snippet: Rare seaside Buddhist temple built on ocean cliffs
 tags:
   - things_to_do
 latitude: 35.188007

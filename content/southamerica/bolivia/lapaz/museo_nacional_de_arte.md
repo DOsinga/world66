@@ -1,6 +1,7 @@
 ---
 latitude: -16.496
 longitude: -68.1333
+snippet: Colonial and modern Bolivian art in a baroque palace
 tags:
 - things_to_do
 - museum

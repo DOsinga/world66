@@ -1,6 +1,7 @@
 ---
 latitude: 13.8611
 longitude: 100.5147
+snippet: Express boat day trip to temples and a riverside market
 tags:
 - day_trips
 - museum

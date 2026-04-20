@@ -3,6 +3,7 @@ category: Street
 latitude: 52.358
 longitude: 4.8812
 neighbourhood: Oud-Zuid
+snippet: Amsterdam's premier luxury fashion shopping street
 tags:
 - shopping
 - oud_zuid

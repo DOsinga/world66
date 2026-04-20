@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 28.101
 longitude: -15.4145
+snippet: Classic Canarian food in a 16th-century mansion courtyard
 tags:
 - eating_out
 title: Casa Montesdeoca

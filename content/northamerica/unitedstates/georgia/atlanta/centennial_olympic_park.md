@@ -1,10 +1,14 @@
 ---
 address: 265 Park Ave W NW, Atlanta, GA 30313
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.760349
 longitude: -84.392283
 opening_hours: Daily 7am–11pm
+snippet: 1996 Olympics park flanked by Atlanta's top museums
 tags:
 - things_to_do
+- sight
 title: Centennial Olympic Park
 type: poi
 url: www.centennialpark.com

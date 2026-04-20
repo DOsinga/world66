@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 16.4539
 longitude: 107.554
+snippet: Iconic seven-story pagoda overlooking the Perfume River
 tags:
 - things_to_do
 - sight

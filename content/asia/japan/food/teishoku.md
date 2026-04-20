@@ -1,21 +1,16 @@
 ---
-title: "Teishoku"
+done:
+  poi_cleanup: '2026-04-20'
+snippet: The Japanese set meal — balanced, filling, and great value
+tags:
+- things_to_do
+- food
+title: Teishoku
 type: poi
-type: "Japanese"
-latitude: 35.009214
-longitude: 135.768793
 ---
 
-The* teishoku*, or set meal, is a standard part of the Japanese
-eating experience. Virtually every Japanese restaurant (except,
-in most cases,* izakayas*) will have a selection of *teishoku* available, and usually they are a good deal. A *teishoku*
-is usually composed of a main item, a bowl of rice, some miso soup, and
-a bowl of Japanese pickles. Sometimes these will all be served
-together on a square platter, and sometimes they will come separately,
-as courses. What the main item is depends largely on the
-establishment serving it – *katsu-ya* will serve various *teishoku* featuring *tonkatsu* and other fried items, *unagi-ya* will have *anago* and *unagi teishoku*, etc.
+The *teishoku*, or set meal, is a staple of everyday Japanese dining. Nearly every restaurant (except most *izakayas*) will have a selection, and they're almost always a good deal.
 
-**Contributors**
-October 07, 2006
+A typical teishoku arrives as a main dish, a bowl of rice, miso soup, and a small dish of pickles. Sometimes everything comes together on a square tray; sometimes the courses arrive separately. The main dish depends on where you're eating — a *katsu-ya* serves various *tonkatsu* sets, an *unagi-ya* offers grilled eel, a *tempura-ya* does tempura, and so on.
 
-type: Japanese
+For travelers, teishoku are ideal: you get a complete, balanced meal without needing to navigate a complicated menu. Look for the word 定食 on signs outside restaurants, often with plastic food models in the window showing exactly what you'll get. Lunch sets are particularly good value, often running 800–1,200 yen.

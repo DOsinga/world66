@@ -1,8 +1,11 @@
 ---
 address: 5 Silver Arcade, JBS Haldane Ave, EM Bypass, Kolkata
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.5274
 longitude: 88.3963
 phone: +(91)-(33)-22517031
+snippet: Smoky North Indian and Mughlai food cooked over charcoal
 tags:
 - eating_out
 title: Sigree

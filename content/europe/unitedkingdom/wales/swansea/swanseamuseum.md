@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.617695
 longitude: -3.938081
+snippet: Wales's oldest museum, free admission, eclectic Victorian collection
 tags:
 - things_to_do
 - museum

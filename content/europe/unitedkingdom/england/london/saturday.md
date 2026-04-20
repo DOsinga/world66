@@ -1,6 +1,9 @@
 ---
 author: Ian McEwan
+done:
+  poi_cleanup: '2026-04-20'
 isbn: 978-0385662789
+snippet: A neurosurgeon's London Saturday during the Iraq war march
 tags:
 - books
 title: Saturday

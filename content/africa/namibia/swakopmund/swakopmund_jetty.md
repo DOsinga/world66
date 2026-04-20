@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.6801
 longitude: 14.5202
+snippet: 640-metre iron jetty stretching into the cold Atlantic
 story: The original wooden jetty was already derelict by 1910. The replacement — an
   iron structure designed by two firms from Mannheim — was completed in 1914, just
   in time to become strategically irrelevant when the German colonial period ended

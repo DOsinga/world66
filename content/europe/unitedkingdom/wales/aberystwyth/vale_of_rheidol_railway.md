@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.4148
 longitude: -4.0837
+snippet: Steam railway climbing through the Rheidol Valley to Devil's Bridge
 story: The Vale of Rheidol Railway was the last steam railway operated by British
   Rail — it wasn't privatised until 1989, making it something of a national curiosity
   for decades.

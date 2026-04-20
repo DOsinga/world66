@@ -7,6 +7,7 @@ tags:
 - dunes
 - natural_sight
 - day_trip
+snippet: Morocco's wilder, less-visited great sand-dune sea
 title: Erg Chegaga
 type: poi
 ---

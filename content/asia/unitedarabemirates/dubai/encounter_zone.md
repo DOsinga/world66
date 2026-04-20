@@ -1,9 +1,14 @@
 ---
-category: Sight
+address: Wafi Mall, Oud Metha, Dubai
+latitude: 25.2285
+longitude: 55.3131
+snippet: Family entertainment centre inside Wafi Mall with rides and simulators.
+tags:
+- things_to_do
 title: Encounter Zone
 type: poi
 ---
 
-Located in the Wafi shopping mall, this is an entertainment center with attractions for all ages. A horror chamber, fascinating 3-D movies, a Crystal Maze, and a roller coaster simulator that feels like the real thing are just some of the fun and exciting things you'll find here. A wide variety of children's rides are also found here so your kids won't get tired of waiting for you to stop having fun!
+An entertainment centre inside the Wafi Mall with a mix of rides, simulators, and attractions aimed at families and children. Features include a roller coaster simulator, 3-D cinema, and a Crystal Maze-style challenge area.
 
-type: Casinos
+Wafi Mall itself, built to resemble an Egyptian pyramid complex, is worth visiting for the architecture alone.

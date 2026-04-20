@@ -1,10 +1,13 @@
 ---
-title: Kangemi Slum Tour
-type: poi
-tags:
-  - things_to_do
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -1.2631
 longitude: 36.7338
+snippet: Resident-led community tour focused on resilience, not poverty
+tags:
+- things_to_do
+title: Kangemi Slum Tour
+type: poi
 ---
 
 Kangemi is an informal settlement on the western edge of Nairobi, home to some of the city's most tight-knit communities. Unlike the better-known Kibera, it sees few visitors, which makes for a more genuine encounter with everyday Nairobi life.

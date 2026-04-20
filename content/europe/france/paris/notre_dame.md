@@ -1,9 +1,13 @@
 ---
 address: 6 Parvis Notre-Dame, Île de la Cité, 75004 Paris
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.852937
 longitude: 2.35005
+snippet: Gothic masterpiece at the heart of Paris, reopened after the 2019 fire
 tags:
 - things_to_do
+- story
 title: Notre-Dame Cathedral
 type: poi
 ---

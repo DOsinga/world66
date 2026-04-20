@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.2647
 longitude: -99.1037
+snippet: Aztec-era floating gardens explored by colourful canal boats
 tags:
 - things_to_do
 - landmark

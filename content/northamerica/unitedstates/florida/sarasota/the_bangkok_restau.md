@@ -3,6 +3,7 @@ address: 4691 Swift Rd
 latitude: 27.2873
 longitude: -82.5141
 phone: (941) 922-0703
+snippet: Popular Thai spot known for whole fried snapper
 tags:
 - eating_out
 - restaurant

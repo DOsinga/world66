@@ -1,27 +1,14 @@
 ---
 address: Royal Hospital, Military Road, Kilmainham
-category: Museum
 latitude: 53.343883
 longitude: -6.296987
+snippet: "Ireland's national museum for modern and contemporary art"
+tags:
+- things_to_do
+- museum
 title: Irish Museum of Modern Art
 type: poi
-url: www.modernart.ie
+url: https://www.modernart.ie
 ---
 
-The Irish Museum of Modern Art is Ireland's leading national
-institution for the collection and presentation of modern and
-contemporary art. The Museum presents a wide variety of art in a
-dynamic programme of exhibitions, which regularly includes bodies of
-work from its own Collection and its award-winning Education and
-Community Department.
-
-**Contributors**
-February 07, 2006
-
-
-
-
-
-url: [www.modernart.ie](http://www.modernart.ie/)
-
-address: Royal Hospital, Military Road, Kilmainham
+IMMA occupies the Royal Hospital Kilmainham, a 17th-century building that was Ireland's oldest classical public building before it became a gallery in 1991. The collection spans Irish and international modern art, with a rotating programme of temporary exhibitions alongside works from the permanent collection. The building itself is worth the visit -- its formal courtyard and surrounding gardens are a quiet escape from the city. Free admission.

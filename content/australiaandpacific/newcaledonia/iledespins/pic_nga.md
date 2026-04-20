@@ -2,6 +2,7 @@
 title: "Pic N'Ga"
 type: poi
 tags: [things_to_do]
+snippet: Island high point with panoramic lagoon views
 latitude: -22.5900
 longitude: 167.4983
 ---

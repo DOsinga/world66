@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.1842
 longitude: 3.0028
+snippet: Narbonne's 19th-century iron market hall, awarded best market in France
 tags:
 - things_to_do
-- neighbourhood
+- market
 title: Les Halles
 type: poi
 ---

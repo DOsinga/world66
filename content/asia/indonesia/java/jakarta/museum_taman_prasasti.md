@@ -2,6 +2,7 @@
 address: Jalan Tanah Abang I
 latitude: -6.1693
 longitude: 106.8192
+snippet: Open-air museum of colonial-era tombstones and funeral carriages
 tags:
 - things_to_do
 - museum

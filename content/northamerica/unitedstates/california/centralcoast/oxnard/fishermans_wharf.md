@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.1755
 longitude: -119.2219
-snippet: "Waterfront dining and whale-watching charters at Channel Islands Harbor"
+snippet: Waterfront dining and whale-watching charters at Channel Islands Harbor
 tags:
 - things_to_do
 - sight

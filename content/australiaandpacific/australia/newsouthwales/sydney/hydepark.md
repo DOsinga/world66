@@ -1,10 +1,7 @@
 ---
 address: Elizabeth St, Sydney CBD
-done:
-  poi_cleanup: '2026-04-20'
 latitude: -33.8731
 longitude: 151.2112
-snippet: Sydney's oldest park with fig-lined avenues and Anzac Memorial
 tags:
 - things_to_do
 - park

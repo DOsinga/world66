@@ -1,6 +1,7 @@
 ---
 latitude: 20.6742
 longitude: -103.3725
+snippet: French bistro with live string quartet in the evenings
 tags:
 - eating_out
 title: Piaf

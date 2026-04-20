@@ -1,8 +1,11 @@
 ---
 address: 15 Celestial Avenue, Chinatown
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -37.8119
 longitude: 144.9662
 phone: +61 3 9663 4759
+snippet: Late-night Chinatown BYO with excellent seafood and spicy tofu
 tags:
 - eating_out
 title: Supper Inn

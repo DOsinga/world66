@@ -1,6 +1,7 @@
 ---
 latitude: 13.8612
 longitude: 100.5098
+snippet: Riverside temple reached by ferry among breadfruit trees
 tags:
 - things_to_do
 - landmark

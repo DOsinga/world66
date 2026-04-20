@@ -1,6 +1,7 @@
 ---
 latitude: 38.8719
 longitude: -77.0563
+snippet: 184 illuminated benches honoring September 11 victims
 tags:
 - things_to_do
 - sight

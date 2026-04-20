@@ -1,6 +1,7 @@
 ---
 latitude: -3.05
 longitude: 37.9333
+snippet: Vast black lava field from a 500-year-old eruption
 story: The name shetani — Swahili for devil — was given by local communities who witnessed
   the eruption around 500 years ago. The landscape was so alien and destructive that
   no natural explanation seemed adequate.

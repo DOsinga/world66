@@ -1,6 +1,7 @@
 ---
 title: "Jinja Sailing Club"
 type: poi
+snippet: "Terrace over the Nile with grilled fish and sunset views"
 tags:
   - eating_out
 latitude: 0.4193

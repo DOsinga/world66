@@ -1,11 +1,12 @@
 ---
-latitude: 51.043323
-longitude: -114.071531
+latitude: 51.0370
+longitude: -114.0715
 tags:
 - shopping
 - shop
-title: 4 Street SW .
+title: "4th Street SW"
 type: poi
+snippet: "Eclectic indie shops and boutiques south of 17th Ave"
 ---
 
-This area stretching south of 17th Ave SW, up to the Elbow River is full of art stores, trinket shops, one-of-a-kind stores and boutiques. Also shop for interior designs, dried flowers, clothing and fine crafts.
+The stretch of 4th Street SW running south from 17th Avenue down to the Elbow River is one of Calgary's best walkable shopping strips. Independent boutiques, art galleries, vintage shops, and home design stores line both sides of the street. It is a good antidote to the big-box chains elsewhere in the city, with a neighbourhood feel and plenty of cafes to duck into between shops.

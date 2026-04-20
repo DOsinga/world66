@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.0505
 longitude: 8.2115
+snippet: Roman shipwreck finds in a medieval palazzo by the sea
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.048938
 longitude: 31.261338
+snippet: Cairo's ancient bazaar — a warren of alleys, brass, spice, and perfume
 tags:
 - shopping
 - shop

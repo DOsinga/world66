@@ -1,11 +1,14 @@
 ---
 address: 401 East Jefferson Street Phoenix, AZ 85004
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.446158
 longitude: -112.067911
 phone: +1 602 462 6000
+snippet: Diamondbacks' retractable-roof stadium with a pool in center field
 tags:
 - things_to_do
-- park
+- sport
 title: Chase Field
 type: poi
 ---

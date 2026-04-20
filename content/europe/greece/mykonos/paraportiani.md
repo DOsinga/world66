@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.4471
 longitude: 25.3257
+snippet: Five fused whitewashed chapels, Mykonos's architectural icon
 tags:
 - things_to_do
 - architecture

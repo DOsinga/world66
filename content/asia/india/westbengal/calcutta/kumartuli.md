@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.596437
 longitude: 88.357254
+snippet: Ancient potters' quarter where clay festival idols take shape
 tags:
 - things_to_do
 title: Kumartuli

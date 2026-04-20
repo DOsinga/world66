@@ -1,13 +1,15 @@
 ---
 address: Piazzale Giuseppe Garibaldi, 00152 Rome
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8924
 longitude: 12.4626
+snippet: Best panoramic view of Rome, with a daily noon cannon
 tags:
 - 48 Hours in Rome
 - things_to_do
-- palace
-- tower
+- viewpoint
 title: Janiculum Hill
 type: poi
 ---

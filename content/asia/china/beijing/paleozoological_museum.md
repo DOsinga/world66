@@ -1,7 +1,10 @@
 ---
 address: 142 Xi-Zhi-Men-Wai St.
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 39.939789
 longitude: 116.430133
+snippet: Asia's largest fossil museum, opposite Beijing Zoo
 tags:
 - things_to_do
 - museum

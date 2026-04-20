@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 39.8636
 longitude: 20.0222
+snippet: Ottoman hilltop fort with sunset views over the bay
 tags:
 - things_to_do
 - landmark

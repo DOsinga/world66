@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 18.0117
 longitude: -66.614
+snippet: Birthplace museum of Puerto Rico's famed opera tenor
 tags:
 - things_to_do
 - museum

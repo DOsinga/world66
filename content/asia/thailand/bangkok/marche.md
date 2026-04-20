@@ -1,9 +1,12 @@
 ---
 address: 99/397 Ground floor, President Park Complex, Sukhumvit 24
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 13.7256
 longitude: 100.5649
 opening_hours: 4 pm - midnight
 phone: +66-2-6611111
+snippet: Microbrewery and multi-cuisine bistro on Sukhumvit 24
 tags:
 - eating_out
 - restaurant

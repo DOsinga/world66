@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 25.5417
 longitude: 94.075
+snippet: High-altitude valley famous for seasonal Dzukou lily blooms
 tags:
 - things_to_do
 title: Dzukou Valley

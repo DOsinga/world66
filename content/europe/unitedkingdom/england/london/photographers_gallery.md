@@ -1,10 +1,13 @@
 ---
 address: 16-18 Ramillies Street, London W1F 7LW
 admission: Free (some exhibitions charged)
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.515278
 longitude: -0.140556
 opening_hours: Mon-Sat 10am-6pm, Thu until 8pm, Sun 11am-6pm
 phone: +44 20 7087 9300
+snippet: UK's largest public gallery dedicated to photography
 tags:
 - things_to_do
 - museum

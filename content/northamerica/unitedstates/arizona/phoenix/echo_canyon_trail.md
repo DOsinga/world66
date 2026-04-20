@@ -4,6 +4,7 @@ latitude: 33.521403
 longitude: -111.974247
 opening_hours: 'May 1-Sept 30: 6a-7:30p, Oct 1-April 30: 7a-5:30p'
 phone: +1 866 275 5816
+snippet: Demanding Camelback Mountain hike with panoramic Phoenix views
 tags:
 - things_to_do
 - park

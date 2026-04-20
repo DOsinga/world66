@@ -1,10 +1,7 @@
 ---
 address: Kornhausplatz, 3011 Bern
-done:
-  poi_cleanup: '2026-04-20'
 latitude: 46.948
 longitude: 7.4479
-snippet: Medieval clock tower with hourly mechanical figure show
 tags:
 - things_to_do
 - sight

@@ -1,20 +1,13 @@
 ---
 title: "La Genovese"
 type: poi
-address: "14 ave. A 3-36 zona 1"
-email: "joedelbusto@gmail.com"
+snippet: "Italian pasta and wine two blocks from the Municipal Theater"
+tags:
+  - eating_out
+address: "14 Ave A 3-36, Zona 1"
 phone: "59153231"
-type: "Italian"
+latitude: 14.8453
+longitude: -91.5175
 ---
 
-located two block south of the Municipal Teater you will find the best Italian cuisine with dishes such as the famous Penne with black trouffles and smoked salmon, Penne alla Gorbachov, Spaghetti Amatriciana, fettucinni Alfredo, gnocchi pomodoro, Lasana bolognese, and we can't forget the delicious Tiramisu cake. There is also a good variety of fine wines, home baked bread, fresh salads, and the best of it is the reasonable prices.
-
-type: Italian
-
-
-
-tel: 59153231
-
-address: 14 ave. A 3-36 zona 1
-
-email: joedelbusto@gmail.com
+A proper Italian restaurant in the middle of Xela — not something you'd expect to find this far into the highlands. The menu leans on pasta: penne with black truffles and smoked salmon, spaghetti amatriciana, fettuccine alfredo, gnocchi al pomodoro, lasagne bolognese. Tiramisu to finish. The wine list is decent, the bread is baked in-house, and the prices are reasonable by any standard. Two blocks south of the Municipal Theater.

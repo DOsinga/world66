@@ -3,6 +3,7 @@ address: Enter on Lincoln Road or Flatbush Avenue at Empire Boulevard, Brooklyn
 latitude: 40.660645
 longitude: -73.969414
 phone: 718-287-3400
+snippet: "Only urban Audubon Center in the US, 200+ bird species"
 tags:
 - things_to_do
 - park

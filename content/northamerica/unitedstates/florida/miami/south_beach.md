@@ -4,10 +4,6 @@ longitude: -80.1293
 tags:
 - things_to_do
 - neighbourhood
-- beach
-- art_deco
-- restaurant
-- bar
 title: South Beach
 type: poi
 ---

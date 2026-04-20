@@ -4,9 +4,6 @@ longitude: -80.2684
 tags:
 - things_to_do
 - neighbourhood
-- architecture
-- restaurant
-- swimming
 title: Coral Gables
 type: poi
 ---

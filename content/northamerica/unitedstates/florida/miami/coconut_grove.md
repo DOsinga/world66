@@ -4,9 +4,6 @@ longitude: -80.242
 tags:
 - things_to_do
 - neighbourhood
-- restaurant
-- bar
-- park
 title: Coconut Grove
 type: poi
 ---

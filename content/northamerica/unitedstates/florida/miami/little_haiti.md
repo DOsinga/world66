@@ -4,7 +4,6 @@ longitude: -80.1952
 tags:
 - things_to_do
 - neighbourhood
-- restaurant
 title: Little Haiti
 type: poi
 ---

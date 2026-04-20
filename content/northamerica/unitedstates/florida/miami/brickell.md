@@ -4,8 +4,6 @@ longitude: -80.1918
 tags:
 - things_to_do
 - neighbourhood
-- restaurant
-- bar
 title: Brickell
 type: poi
 ---

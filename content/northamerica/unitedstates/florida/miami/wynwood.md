@@ -4,10 +4,6 @@ longitude: -80.1993
 tags:
 - things_to_do
 - neighbourhood
-- art
-- gallery
-- restaurant
-- bar
 title: Wynwood
 type: poi
 ---

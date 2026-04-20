@@ -167,13 +167,16 @@ neighbourhood: South Beach    # display label in listings
 
 ### Descriptive tags
 
-Beyond section, category, and neighbourhood tags, add descriptive tags for any notable characteristic of the POI. If a POI with that slug exists, the tag becomes a link. Common examples:
+Beyond section, category, and neighbourhood tags, add descriptive tags to POIs for any notable characteristic. If a POI with that slug exists, the tag becomes a link. Common examples:
 
 - Architectural styles: `art_deco`, `mediterranean_revival`
 - Activities: `swimming`, `cycling`, `wildlife`
-- What you'll find: `restaurant`, `bar`, `cafe`, `gallery`, `garden`, `park`, `theatre`, `sport`
+- Cuisine: `cuban`, `seafood`, `peruvian`
+- What the place is: `cafe`, `gallery`, `garden`, `park`, `theatre`, `sport`, `historic_house`
 
-Be generous with tags — they help visitors discover POIs through multiple paths. A neighbourhood POI for Wynwood might carry `things_to_do`, `neighbourhood`, `art`, `restaurant`, `bar`, `gallery` because those are what define the area.
+Be generous with tags on POIs — they help visitors discover places through multiple paths.
+
+**Neighbourhood POIs themselves should only carry `things_to_do` and `neighbourhood` as tags.** The neighbourhood page collects its content from other POIs that carry the neighbourhood's slug as a tag. Do not put descriptive tags like `restaurant` or `bar` on the neighbourhood POI — those belong on the actual restaurant and bar POIs within the neighbourhood.
 
 ## Coordinates
 

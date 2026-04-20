@@ -4,9 +4,6 @@ longitude: -80.2194
 tags:
 - things_to_do
 - neighbourhood
-- restaurant
-- bar
-- music
 title: Little Havana
 type: poi
 ---

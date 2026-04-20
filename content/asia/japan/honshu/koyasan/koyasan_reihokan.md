@@ -1,8 +1,10 @@
 ---
 latitude: 34.213
 longitude: 135.5812
+snippet: Twelve centuries of esoteric Buddhist art and treasures
 tags:
 - things_to_do
+- museum
 title: Koyasan Reihokan Museum
 type: poi
 ---

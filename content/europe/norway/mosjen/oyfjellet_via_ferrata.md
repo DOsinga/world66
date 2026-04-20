@@ -1,6 +1,7 @@
 ---
 latitude: 65.8415
 longitude: 13.205
+snippet: World's northernmost via ferrata with 700m zipline descent into town
 tags:
 - things_to_do
 - sight

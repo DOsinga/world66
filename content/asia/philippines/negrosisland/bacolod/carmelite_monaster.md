@@ -1,10 +1,15 @@
 ---
 title: 'Carmelite Monastery'
 type: poi
-category: 'Sight'
+snippet: Cloistered monastery offering quiet retreat on busy Lacson Street
+tags:
+- things_to_do
+- sight
 address: 'Lacson Street, Bacolod City'
 latitude: 10.6696
 longitude: 122.950352
 ---
 
-A quiet monastery on Lacson Street that offers visitors a glimpse into the contemplative life of cloistered nuns. A peaceful stop in the middle of the city.
+The Carmelite Monastery sits on Lacson Street, one of Bacolod's busiest thoroughfares, yet feels a world apart. The compound is home to cloistered Carmelite nuns and includes a small chapel open to visitors. You can buy baked goods and religious items through a revolving wooden window — a traditional way the sisters interact with the outside world without breaking enclosure.
+
+It's a genuinely peaceful stop if you need a break from the city's heat and traffic.

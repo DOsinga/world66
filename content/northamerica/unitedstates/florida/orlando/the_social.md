@@ -4,6 +4,7 @@ latitude: 28.5425
 longitude: -81.3792
 tags:
 - bars_and_cafes
+snippet: Intimate downtown venue for indie and underground live music
 title: The Social
 type: poi
 url: https://www.thesocial.org

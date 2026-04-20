@@ -2,6 +2,7 @@
 category: Museum
 latitude: -35.1134
 longitude: 173.264
+snippet: Combined museum, library, and cultural hub for the Far North
 title: Te Ahu Centre
 type: poi
 ---

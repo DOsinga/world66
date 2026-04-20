@@ -2,6 +2,7 @@
 address: Changspa, Leh, Ladakh
 latitude: 34.1627
 longitude: 77.5741
+snippet: Japanese-built white stupa with sweeping sunset views over Leh
 tags:
 - things_to_do
 - landmark

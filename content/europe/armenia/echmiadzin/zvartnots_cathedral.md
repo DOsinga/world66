@@ -1,6 +1,7 @@
 ---
 title: Zvartnots Cathedral
 type: poi
+snippet: Seventh-century cathedral ruins with Mount Ararat views
 tags: [things_to_do, ruins, archaeology, unesco, historic_site]
 done:
   location_cleanup: '2026-04-09'

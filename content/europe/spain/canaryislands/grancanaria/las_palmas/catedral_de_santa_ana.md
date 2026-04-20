@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 28.1008
 longitude: -15.4147
+snippet: Las Palmas cathedral built over four centuries in the old Vegueta quarter
 tags:
 - things_to_do
 - landmark

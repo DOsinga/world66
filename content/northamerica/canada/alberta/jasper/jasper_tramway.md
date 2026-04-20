@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.8518
 longitude: -118.0793
+snippet: Seven-minute aerial ride to summit views of six ranges
 tags:
 - things_to_do
 - landmark

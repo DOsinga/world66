@@ -1,16 +1,18 @@
 ---
-title: "Carnival"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 10.6549
+longitude: -61.5019
+snippet: The Caribbean’s biggest party before Ash Wednesday
+tags:
+- things_to_do
+- festival
+title: Carnival
 type: poi
-url: "www.visittnt.com"
 ---
 
-Music, dance, fun and excitement bring together both locals and tourists in what is said to be one of the most important and heated events taking place in Trinidad & Tobago; in fact, it’s one of the country’s main highlights, attracting people from all over the globe.
+Trinidad Carnival is one of the greatest street festivals in the world and the model for every Caribbean carnival that came after it. Celebrations build through January and February with calypso tents, soca fetes, and steel pan competitions, then explode in the two days before Ash Wednesday.
 
-Carnival celebrations begin right after Christmas and culminate in the two days preceding Ash Wednesday. They include non-stop large open-air parties or concerts (*fetes*), parades, theatrical performances, costume displays and contests and, of course, the national music, *calypso* and *soca*.
+J’Ouvert kicks off before dawn on Monday morning — expect paint, mud, and chocolate smeared on everyone in sight, all moving to the rhythm of massive sound trucks. On Tuesday the masquerade bands take over, with thousands of costumed revellers crossing the stage at the Queen’s Park Savannah in Port of Spain.
 
-Bear in mind that this is the peak season and that rooms should be booked well in advance for this period, particularly if you wish to attend the final Carnival celebrations.
-
-For more information and Carnival dates, please consult http://www.visittnt.com.
-
-**Contributors**
-August 05, 2005
+The music is the backbone of the whole thing. Calypso competitions crown a new Monarch each year, while soca — its faster, danceable offspring — drives the road marches. If you go, pick a band well in advance and get your costume sorted early. This is peak season, and the whole country is in on it.

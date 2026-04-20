@@ -1,6 +1,7 @@
 ---
 latitude: 47.141
 longitude: 9.5209
+snippet: Prince's winery with tastings and vineyard tours
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 author: Patrick Leigh Fermor
 isbn: 978-1590171363
+snippet: Leigh Fermor's companion volume covering northern Greece
 tags:
 - books
 title: 'Roumeli: Travels in Northern Greece'

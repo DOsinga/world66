@@ -1,6 +1,7 @@
 ---
 latitude: 43.6412
 longitude: 19.6711
+snippet: Three village grill houses known for serious Serbian meat
 tags:
 - eating_out
 - restaurant

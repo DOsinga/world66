@@ -7,9 +7,9 @@ tags:
 - shopping
 title: Bloemenmarkt
 type: poi
-url: www.keesbevaart.nl
+snippet: "Amsterdam's floating flower market on the Singel canal"
 ---
 
-The Bloemenmarkt or flowermarket in on the Singel has a wide selection of flowers, plants and herbs for home, garden or balcony. It is nice to look around and check out the great selection. You might consider picking up a sack of seeds to grow those wonderfull Dutch flowers at home. The time you could buy Marihana seeds here seems to have gone though. **:** This is really a nice site to just walk past. You don't have to buy flowers to enjoy them. You can also just sit on one of the terracces and just marvel the colors for a while. Just beautifull colors all around you! Buy bulbs in the season only, so from july till christmass. Loose bulbs are better than packed bulbs. At the corner Singel and Koningsplein there 2 flowerstalls that sell the best fresh flowers of Amsterdam.
+The Bloemenmarkt floats on barges along the Singel between Koningsplein and Muntplein, and has been selling flowers here since 1862. The stalls carry cut flowers, potted plants, herbs, and — most usefully for visitors — packaged bulbs you can take home through customs. Tulips, hyacinths, and dahlias are the main draw. The corner where Singel meets Koningsplein has the freshest cut flower stalls.
 
-type: Markets
+Buy bulbs in season (July through Christmas) and choose loose bulbs over pre-packaged ones where possible — you can inspect them properly. Even if you're not buying, it's a pleasant stretch to walk through on the way between the Rijksmuseum area and the city centre.

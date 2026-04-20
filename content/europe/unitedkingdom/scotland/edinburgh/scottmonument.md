@@ -4,11 +4,9 @@ latitude: 55.9525
 longitude: -3.193056
 opening_hours: Mon-Sat 9am-6pm
 phone: 0131 529 4068
+snippet: "Victorian Gothic tower honouring Walter Scott, 287 steps to the top"
 tags:
 - things_to_do
-- new_town
-- palace
-- park
 - monument
 title: Scott Monument
 type: poi

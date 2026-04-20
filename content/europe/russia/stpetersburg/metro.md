@@ -4,6 +4,10 @@ type: poi
 address: "Ligovsky Prospekt 174"
 latitude: 59.9138
 longitude: 30.3520
+snippet: "Three-floor mega-club on Ligovsky with something for every taste"
+tags:
+- bars_and_cafes
+- nightlife
 ---
 
 A massive three-floor club that draws a young crowd (mostly under 25) on weekend nights. Each floor has its own dance floor and music style — Russian pop, international hits, and techno. The post-industrial decor is impressive, the sound system is top-notch, and the security is professional. Dress with some style to fit in. Entrance is around $10.

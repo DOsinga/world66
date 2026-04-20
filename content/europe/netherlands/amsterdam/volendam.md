@@ -5,19 +5,9 @@ tags:
 - day_trips
 title: Volendam
 type: poi
-url: www.vvvvolendam.nl
+snippet: "Traditional Dutch fishing village on the Markermeer, 30 min from Amsterdam"
 ---
 
-Legend has it that the Volendam coat of arms is a compliment to the
-beauty of the Volendam girls ! No wonder that a famous singer sang the
-praise of this characteristic Dutch fishing village in the words: As a
-result of its completely insulated location, this village preserved its
-character for six centuries, also because of the tough vitality of the
-fishermen. The characteristic small houses, which together with the
-canals and the drawbridges form the most picturesque spots, present the
-visitor an atmosphere of geniality and romance.
+Volendam is a former fishing village on the Markermeer, about 20 km northeast of Amsterdam. It has preserved much of its traditional character — wooden houses along narrow canals, a busy harbour, and locals who still occasionally wear the regional costume of black-and-white aprons and wooden clogs. The harbour front is the main draw, lined with fish stalls selling smoked eel and herring.
 
-It's about 30 minutes by public transport from Amsterdam Central Station
-
-**Contributors**
-May 02, 2006
+The village is touristy but not unpleasant. Skip the souvenir shops on the main strip and walk a few streets back into the older residential lanes. The fish is genuinely good. From Amsterdam Central Station, take bus 314 (Edam/Volendam) — about 30 minutes.

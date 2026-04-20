@@ -1,6 +1,7 @@
 ---
 latitude: 43.9497
 longitude: 4.8076
+snippet: "Five kilometres of intact 14th-century walls ringing the old town"
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 47.015476
 longitude: 8.799598
+snippet: Ski area reachable from Zurich in ninety minutes
 tags:
 - day_trips
 title: Hoch Ybrig

@@ -1,9 +1,10 @@
 ---
-title: "Swimming Pigs at Big Major Cay"
-type: poi
-category: "Sight"
+category: Sight
 latitude: 24.1797
 longitude: -76.4561
+snippet: Feral pigs that swim out to greet visiting boats
+title: Swimming Pigs at Big Major Cay
+type: poi
 ---
 
 The swimming pigs of Big Major Cay — known universally as Pig Beach — are probably the most photographed animals in the Caribbean. A colony of feral pigs lives on this uninhabited cay and has learned to paddle out to visiting boats in hopes of food. They are surprisingly strong swimmers and not at all shy.

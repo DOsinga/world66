@@ -1,6 +1,7 @@
 ---
 latitude: 47.2566
 longitude: 11.4352
+snippet: "Renaissance castle housing Europe's oldest cabinet of curiosities"
 tags:
 - things_to_do
 - museum

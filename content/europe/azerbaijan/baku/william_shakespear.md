@@ -1,6 +1,7 @@
 ---
 latitude: 40.369
 longitude: 49.8386
+snippet: "Expat basement pub with live music and big-screen sports"
 tags:
 - bars_and_cafes
 - bar

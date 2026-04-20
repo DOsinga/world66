@@ -3,6 +3,7 @@ address: 9400 West Maryland Avenue, Glendale, AZ 85305
 latitude: 33.531967
 longitude: -112.261318
 phone: 623-772-3200
+snippet: Major West Valley concert and events arena
 tags:
 - things_to_do
 title: Desert Diamond Arena

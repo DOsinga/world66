@@ -1,16 +1,17 @@
 ---
-title: Albania
-type: location
-latitude: 41.000028
-longitude: 19.999962
-image: albania.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Valbona.jpg
-image_license: CC BY-SA 2.5
-image_attribution: <a href="https://de.wikipedia.org/wiki/Benutzer:Albinfo" class="extiw"
-  title="de:Benutzer:Albinfo">Albinfo</a>
 done:
   country_cleanup: 2026-03-30
+  poi_cleanup: '2026-04-19'
+image: albania.jpg
+image_attribution: <a href="https://de.wikipedia.org/wiki/Benutzer:Albinfo" class="extiw"
+  title="de:Benutzer:Albinfo">Albinfo</a>
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Valbona.jpg
+latitude: 41.000028
+longitude: 19.999962
 score: 0.58
+title: Albania
+type: location
 ---
 
 Albania is a small country on the southeastern Adriatic coast, wedged between Montenegro, Kosovo, North Macedonia, and Greece. It spent 45 years under one of the most extreme communist regimes in the world, sealed off from outside contact until 1991. That isolation left the country economically behind its neighbours but also, paradoxically, preserved things: landscapes unmarked by mass tourism, cities with genuine character, villages where the old ways held.

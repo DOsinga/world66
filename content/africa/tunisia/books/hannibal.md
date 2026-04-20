@@ -1,6 +1,7 @@
 ---
 title: "Hannibal"
 type: poi
+snippet: "Bradford's vivid biography of Carthage's greatest general"
 author: "Ernle Bradford"
 isbn: "0880296674"
 ---

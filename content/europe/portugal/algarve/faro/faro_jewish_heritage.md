@@ -2,6 +2,7 @@
 title: "Faro Jewish Heritage Centre"
 type: poi
 tags: [things_to_do, sight]
+snippet: "Rare post-Inquisition Sephardi cemetery with over a hundred graves"
 address: "Rua Leão Penedo"
 phone: "289829525"
 latitude: 37.023905

@@ -7,6 +7,10 @@ email: "webmaster@forevernetwork.com"
 opening_hours: "Daily 8am-5pm"
 phone: "323-469-1181"
 url: "www.hollywoodforever.com"
+snippet: Celebrity graves and summer outdoor film screenings
+tags:
+- things_to_do
+- sight
 latitude: 34.090502
 longitude: -118.319779
 ---

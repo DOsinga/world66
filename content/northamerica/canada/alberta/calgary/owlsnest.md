@@ -1,17 +1,14 @@
 ---
-latitude: 48.921759
-longitude: -123.71684
+title: "Owl's Nest"
+type: poi
 tags:
 - eating_out
 - restaurant
-title: Owl's Nest .
-type: poi
+snippet: "Upscale French dining inside the Westin Hotel"
+latitude: 51.0480
+longitude: -114.0700
 ---
 
-Specializing in fine French continental cuisine with professional service including tableside preparations and flambées. Lunch wkdys 11:30 am - 2:30 pm, dinner 5:30 - 10:30 pm, Sat 5:30 - 10:30 pm.
- 
- Tel: 1 403 266-1611 
- Address: The Westin Hotel, 4 Ave and 3 St SW Calgary Alberta 
- 
+The Owl's Nest was Calgary's go-to for special-occasion French dining, tucked inside the Westin Hotel at 4th Avenue and 3rd Street SW. The restaurant built its reputation on tableside preparations and flambees -- old-school continental service done properly, with waiters who knew how to debone a fish and set brandy on fire without flinching.
 
-Owl's Nest . facts:
+Note: The Owl's Nest has closed. The Westin still operates downtown, but the restaurant space has been repurposed.

@@ -1,6 +1,7 @@
 ---
 latitude: 35.7786
 longitude: -5.7768
+snippet: "Long city beach with views across to Gibraltar"
 tags:
 - beaches
 title: Beach of Tangier

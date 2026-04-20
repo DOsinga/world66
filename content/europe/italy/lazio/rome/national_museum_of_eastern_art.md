@@ -1,5 +1,7 @@
 ---
 address: Via Merulana 248
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8945
 longitude: 12.5004
 phone: +39 06 4874415

@@ -1,7 +1,9 @@
 ---
+latitude: 14.35
+longitude: 80.15
+snippet: Quiet beach village with a historic Velankani Church
 tags:
 - beaches
-- beach
 title: Kotha Koduru Beach
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: -0.205
 longitude: 36.07
+snippet: One of the world's largest calderas, steaming and walkable from Nakuru.
 tags:
 - things_to_do
 - landmark

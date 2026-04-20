@@ -2,6 +2,7 @@
 address: 46th Street at 1st Avenue
 latitude: 40.748941
 longitude: -73.968285
+snippet: International territory on the East River with daily tours
 tags:
 - things_to_do
 title: United Nations

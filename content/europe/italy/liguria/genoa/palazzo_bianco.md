@@ -2,6 +2,7 @@
 address: Via Garibaldi 11
 latitude: 44.411476
 longitude: 8.932767
+snippet: Flemish and Italian masters in a UNESCO-listed Renaissance palace
 tags:
 - things_to_do
 - museum

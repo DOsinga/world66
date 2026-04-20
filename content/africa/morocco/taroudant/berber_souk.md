@@ -6,6 +6,7 @@ tags:
 - sight
 title: Berber Souk
 type: poi
+snippet: "Unhurried medina market with saffron, silver, and argan oil"
 ---
 
 Taroudant has two connected souks inside the medina — the Arab souk and the Berber souk — and both feel like working markets rather than tourist theatre. The Berber souk is the more interesting of the two: silver jewelry, locally-made leather sandals, saffron from the Souss valley, and argan oil in various forms. Prices are lower here than in Marrakesh or Agadir, and the hard-sell is considerably more relaxed.

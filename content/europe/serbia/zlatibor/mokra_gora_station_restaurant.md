@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Mokra Gora Station Restaurant
 type: poi
+snippet: "Hearty mixed grill at the station after the Sargan Eight ride"
 ---
 
 The restaurant at Mokra Gora railway station is one of the best in the region. The mešano meso (mixed grill) is the thing to order — a generous plate of grilled meats that rewards pairing with a glass of Montenegrin Vranac Pro Corde. Come here after the Sargan Eight train ride, when you will have earned it.

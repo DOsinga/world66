@@ -1,7 +1,10 @@
 ---
 title: "Awam Temple (Mahram Bilqis)"
 type: poi
-tags: [things_to_do]
+snippet: "Ancient Sabaean moon-god temple, largest in the region"
+tags:
+- things_to_do
+- sight
 latitude: 15.4020
 longitude: 45.3510
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 1.1486
 longitude: 104.0085
+snippet: Ornate Chinese temple in Batam's Nagoya district
 tags:
 - things_to_do
 - landmark

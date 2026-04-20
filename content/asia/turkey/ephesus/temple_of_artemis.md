@@ -1,6 +1,7 @@
 ---
 latitude: 37.9499
 longitude: 27.3641
+snippet: "One of the Seven Wonders, now just a single column"
 tags:
 - things_to_do
 - sight

@@ -1,6 +1,7 @@
 ---
 latitude: 45.3983
 longitude: 11.8764
+snippet: One of Europe's largest squares, ringed by canal and 78 statues
 tags:
 - things_to_do
 - sight

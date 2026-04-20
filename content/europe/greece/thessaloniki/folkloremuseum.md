@@ -2,6 +2,7 @@
 address: Vasilissis Olgas 68, Thessaloniki
 latitude: 40.6022
 longitude: 22.9528
+snippet: "Greece's best folklore museum in a grand mansion"
 tags:
 - things_to_do
 - museum

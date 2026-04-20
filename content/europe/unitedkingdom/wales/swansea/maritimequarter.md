@@ -1,6 +1,7 @@
 ---
 latitude: 51.6137
 longitude: -3.9382
+snippet: Revived docklands with marina, museum, and Dylan Thomas Theatre
 tags:
 - things_to_do
 - neighbourhood

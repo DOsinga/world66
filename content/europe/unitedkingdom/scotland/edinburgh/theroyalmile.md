@@ -1,8 +1,10 @@
 ---
 address: Lawnmarket / High Street / Canongate
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.950335
 longitude: -3.183057
-snippet: "Medieval spine from Edinburgh Castle to Holyroodhouse"
+snippet: Medieval spine from Edinburgh Castle to Holyroodhouse
 tags:
 - things_to_do
 - old_town

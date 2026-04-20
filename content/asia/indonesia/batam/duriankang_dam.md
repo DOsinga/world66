@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 1.0667
 longitude: 104.0833
+snippet: Reservoir with quiet walking and cycling trails
 tags:
 - things_to_do
 - landmark

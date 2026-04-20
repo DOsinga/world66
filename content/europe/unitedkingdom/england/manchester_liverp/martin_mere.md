@@ -2,8 +2,13 @@
 category: Sight
 done:
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-20'
 latitude: 53.623422
 longitude: -2.865352
+snippet: Wetland reserve with wintering swans from Siberia
+tags:
+- things_to_do
+- sight
 title: Martin Mere
 type: poi
 ---

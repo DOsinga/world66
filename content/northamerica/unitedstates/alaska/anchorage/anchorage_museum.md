@@ -1,7 +1,10 @@
 ---
 address: 625 C St, Anchorage, AK 99501
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 61.2168
 longitude: -149.8995
+snippet: Alaska's flagship museum of art, history, and indigenous cultures
 tags:
 - things_to_do
 - museum

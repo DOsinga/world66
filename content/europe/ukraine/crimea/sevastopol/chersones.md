@@ -1,9 +1,14 @@
 ---
-title: "Chersonesus"
-type: poi
-category: "Sight"
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.583323
 longitude: 33.378866
+snippet: Ancient Greek colony and UNESCO site where Kievan Rus was baptised
+tags:
+- things_to_do
+- sight
+title: Chersonesus
+type: poi
 ---
 
 Chersonesus (Khersones) is an ancient Greek city on the outskirts of [Sevastopol](/europe/ukraine/crimea/sevastopol), founded in the fifth century BC as a Doric colony. For nearly a thousand years it was the most important city on the Crimean peninsula — a wealthy trading port, a Roman outpost, and later a Byzantine stronghold.

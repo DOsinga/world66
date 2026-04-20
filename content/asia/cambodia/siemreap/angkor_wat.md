@@ -1,16 +1,22 @@
 ---
-title: "Angkor Wat"
-type: poi
-tags:
-  - things_to_do
-  - temple
-  - unesco_world_heritage
-  - historic_site
-  - landmark
-opening_hours: "Pre-dawn to dusk"
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.412438
 longitude: 103.866588
-story: "The enormous temple is oriented to the west rather than the east like almost all other Khmer temples, a quirk that has led scholars to conclude it was probably built as a tomb for King Suryavarman II (r. 1113–1150), and it may encode in its architecture a map of the Hindu cosmos on the day of his death."
+opening_hours: Pre-dawn to dusk
+snippet: Largest religious monument ever built, symbol of Cambodia
+story: The enormous temple is oriented to the west rather than the east like almost
+  all other Khmer temples, a quirk that has led scholars to conclude it was probably
+  built as a tomb for King Suryavarman II (r. 1113–1150), and it may encode in its
+  architecture a map of the Hindu cosmos on the day of his death.
+tags:
+- things_to_do
+- temple
+- unesco_world_heritage
+- historic_site
+- landmark
+title: Angkor Wat
+type: poi
 ---
 
 **Angkor Wat** — literally "Temple City" — is the largest religious monument ever built and the centrepiece of the Angkor Archaeological Park. Commissioned by King **Suryavarman II** in the early 12th century as his state temple and eventual mausoleum, it was originally dedicated to the Hindu god Vishnu and converted to a Buddhist temple in the late 13th century. Its five lotus-bud towers, rising from a huge rectangular moat, have become the symbol of modern Cambodia and appear on the national flag.

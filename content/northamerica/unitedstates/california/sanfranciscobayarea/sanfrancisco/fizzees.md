@@ -1,8 +1,11 @@
 ---
 address: 3954 Geary Blvd
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.7814
 longitude: -122.4617
 phone: (415) 221-7300
+snippet: Laid-back Richmond bar with pool and pinball
 tags:
 - bars_and_cafes
 - bar

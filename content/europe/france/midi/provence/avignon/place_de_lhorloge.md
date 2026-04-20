@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.9494
 longitude: 4.8094
 snippet: Main square with cafés and Festival d'Avignon fringe performances

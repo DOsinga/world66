@@ -1,13 +1,15 @@
 ---
-title: "The Cathedral"
-type: poi
-snippet: "Renaissance cathedral built to rival the Alhambra"
-tags:
-  - things_to_do
-  - sight
-  - religious
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.1761
 longitude: -3.5986
+snippet: Renaissance cathedral built to rival the Alhambra
+tags:
+- things_to_do
+- sight
+- religious
+title: The Cathedral
+type: poi
 ---
 
 Granada Cathedral was built in the 16th century to celebrate the conquest of the city by the Catholic forces of King Fernando and Queen Isabel, and to trump the Muslim architecture of the Alhambra. Since the Alhambra already commanded the best spot in town, this was always going to be an uphill battle — and despite employing the new Renaissance style, the cathedral never quite eclipsed its predecessor.

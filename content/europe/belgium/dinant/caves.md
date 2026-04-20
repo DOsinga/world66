@@ -1,8 +1,13 @@
 ---
-latitude: 50.2560
-longitude: 4.9150
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 50.256
+longitude: 4.915
 snippet: Underground waterfalls and stalactites near the station
-tags: [things_to_do, cave, nature]
+tags:
+- things_to_do
+- cave
+- nature
 title: La Merveilleuse
 type: poi
 ---

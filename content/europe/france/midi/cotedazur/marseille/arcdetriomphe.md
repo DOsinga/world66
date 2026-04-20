@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.3022
 longitude: 5.3825
 snippet: Neoclassical triumphal arch at Marseille’s old city gate

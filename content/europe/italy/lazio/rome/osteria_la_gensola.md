@@ -1,5 +1,7 @@
 ---
 address: Piazza della Gensola 15, 00153 Rome
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8883
 longitude: 12.4694
 opening_hours: Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun

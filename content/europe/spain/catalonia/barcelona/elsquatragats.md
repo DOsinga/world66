@@ -1,5 +1,7 @@
 ---
 address: c/Montsió 5
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.38579
 longitude: 2.173826
 snippet: Modernista café where Picasso held his first exhibition

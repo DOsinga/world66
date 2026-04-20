@@ -1,8 +1,10 @@
 ---
 address: Carrer de les Carolines 18-24
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.403648
 longitude: 2.151316
-snippet: "Gaudi’s exuberant first house, all tiles and colour"
+snippet: Gaudi’s exuberant first house, all tiles and colour
 tags:
 - things_to_do
 - sights

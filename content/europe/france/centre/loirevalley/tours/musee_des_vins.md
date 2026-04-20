@@ -1,5 +1,7 @@
 ---
 address: 16, rue Nationale
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.3936
 longitude: 0.6876
 phone: 02 47 61 07 93

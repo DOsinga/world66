@@ -1,5 +1,7 @@
 ---
 address: Kantstraße 148, Charlottenburg
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.505492
 longitude: 13.324232
 opening_hours: Open around the clock

@@ -1,11 +1,13 @@
 ---
-title: Kata Beach
-type: poi
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 7.81936
 longitude: 98.29805
 snippet: Relaxed crescent of sand on Phuket's quieter west coast
 tags:
 - beaches
+title: Kata Beach
+type: poi
 ---
 
 A wide crescent of soft sand on Phuket's southwest coast, calmer and less frenetic than Patong but with enough restaurants and shops to keep you fed and entertained. The surf picks up from May to October — good enough for beginners to learn on, not serious enough to scare anyone off.

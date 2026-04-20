@@ -1,5 +1,7 @@
 ---
 address: G3, 2, 68159 Mannheim
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 49.487
 longitude: 8.4633
 snippet: All-day cafe popular with students and freelancers

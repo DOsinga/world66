@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.1163
 longitude: -122.9574
 snippet: Healthy bowls and wraps in Whistler Village

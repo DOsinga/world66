@@ -1,6 +1,8 @@
 ---
 address: Via Ricasoli 58-60, 50122 Florence
 admission: €16 standard, €2 reduced (EU 18–25), free under 18
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.7769
 longitude: 11.2587
 opening_hours: Tue–Sun 08:15–18:50; closed Mon

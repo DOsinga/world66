@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 59.8612
 longitude: 17.6375
 snippet: Linnaeus's own 18th-century botanical garden, preserved intact

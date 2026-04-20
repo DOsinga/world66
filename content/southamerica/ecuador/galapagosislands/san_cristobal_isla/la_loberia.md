@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -0.9233
 longitude: -89.6283
 snippet: Sea lion colony you can sit among, a short walk from town

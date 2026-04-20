@@ -1,7 +1,9 @@
 ---
 author: Donald Westlake
+done:
+  poi_cleanup: '2026-04-19'
 isbn: 978-0743422116
-snippet: "Wry account of Anguilla's absurd 1967 revolution"
+snippet: Wry account of Anguilla's absurd 1967 revolution
 tags:
 - books
 title: Under an English Heaven

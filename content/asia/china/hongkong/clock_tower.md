@@ -1,8 +1,10 @@
 ---
 address: Waterfront Promenade, Tsim Sha Tsui
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.2954
 longitude: 114.1676
-snippet: "Last remnant of the old Kowloon railway terminus"
+snippet: Last remnant of the old Kowloon railway terminus
 tags:
 - kowloon
 - things_to_do

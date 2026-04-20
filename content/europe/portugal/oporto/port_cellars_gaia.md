@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.1369
 longitude: -8.6134
 snippet: Port wine cellars across the river with tours and tastings

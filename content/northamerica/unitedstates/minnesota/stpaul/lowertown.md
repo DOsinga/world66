@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.949041
 longitude: -93.087066
 snippet: Revived warehouse district turned arts and entertainment hub

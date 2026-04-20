@@ -7,4 +7,4 @@ title: Madraza
 type: poi
 ---
 
-In front of the Royal Chapel King Yusef I instituted this Arab University in the 14th century. Even though it now has a 18th century Baroque façade, the building is older than its late gothic neighbour. You should visit the patio with its colonnade and the Twenty-Four Knights´ Room for a real good impression of the building.
+Standing opposite the Royal Chapel, this was Granada's Arab university, founded by King Yusuf I in the 14th century. The current Baroque facade dates from the 18th century, but the building is older than its late Gothic neighbour. Step inside to find a quiet patio with a colonnade and the ornate Salon de Caballeros XXIV (Hall of the Twenty-Four Knights), with its carved stucco ceiling -- one of the finest surviving Nasrid interiors in the city.

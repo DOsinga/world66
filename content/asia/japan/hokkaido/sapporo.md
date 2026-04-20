@@ -1,11 +1,12 @@
 ---
-title: Sapporo
-type: location
-latitude: 43.062
-longitude: 141.3544
 done:
   location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-19'
+latitude: 43.062
+longitude: 141.3544
 score: 0.71
+title: Sapporo
+type: location
 ---
 
 Sapporo is the capital of [Hokkaido](/asia/japan/hokkaido) and Japan's fifth-largest city, a modern grid-plan metropolis surrounded by mountains on three sides. It feels nothing like the dense, ancient cities of Honshu. Sapporo was purpose-built in the 1870s as a frontier capital, modelled on American city planning, and that open, spacious character still defines it today.

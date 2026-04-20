@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.613038
 longitude: -3.981013
+snippet: Swansea's largest park with botanical gardens and boating lake
 tags:
 - things_to_do
 - landmark

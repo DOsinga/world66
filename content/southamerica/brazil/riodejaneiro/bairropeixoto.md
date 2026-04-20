@@ -1,6 +1,7 @@
 ---
 latitude: -22.966579
 longitude: -43.190371
+snippet: Quiet art deco pocket of Copacabana with chess players and a playground
 tags:
 - things_to_do
 - square

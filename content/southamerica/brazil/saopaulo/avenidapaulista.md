@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -23.557202
 longitude: -46.661039
+snippet: São Paulo's main boulevard with MASP and the best Western art in Latin America
 tags:
 - things_to_do
 - neighbourhood

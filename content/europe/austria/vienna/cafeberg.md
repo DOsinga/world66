@@ -4,6 +4,7 @@ latitude: 48.218
 longitude: 16.359
 tags:
 - bars_and_cafes
+snippet: "Relaxed university-district cafe with attached bookshop"
 title: Cafe Berg
 type: poi
 ---

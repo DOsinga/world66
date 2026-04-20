@@ -1,7 +1,10 @@
 ---
 address: Calle Compañía, 10
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.7211
 longitude: -4.4222
+snippet: 19th-century Spanish painting in a Renaissance palace
 tags:
 - things_to_do
 - museum

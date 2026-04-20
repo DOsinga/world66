@@ -1,6 +1,7 @@
 ---
 latitude: 54.3487
 longitude: 18.6541
+snippet: Gothic amber street linking the waterfront to St Mary's Church
 tags:
 - things_to_do
 - neighbourhood

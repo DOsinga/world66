@@ -1,6 +1,7 @@
 ---
 latitude: -42.7841
 longitude: 147.7041
+snippet: Pick-your-own berries and stone fruit in season
 tags:
 - things_to_do
 title: Sorell Fruit Farm

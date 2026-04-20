@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.472
 longitude: -8.8766
+snippet: Taroudant's unhurried main square lined with cafe terraces
 tags:
-- things_to_do
-- sight
+- history
+- viewpoint
 title: Place Assarag
 type: poi
 ---

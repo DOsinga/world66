@@ -1,6 +1,7 @@
 ---
 latitude: 41.6395
 longitude: 41.6282
+snippet: Batumi's oldest park with a lake, zoo, and dolphin shows
 tags:
 - things_to_do
 - landmark

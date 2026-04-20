@@ -5,6 +5,7 @@ longitude: 11.9698
 phone: +49 345 202 4191
 tags:
 - eating_out
+snippet: Italian restaurant on Halle's market square
 title: Ristorante Rialto
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Potter's Square"
 type: poi
+snippet: Open-air square where potters work at their wheels daily
 tags:
   - things_to_do
   - crafts

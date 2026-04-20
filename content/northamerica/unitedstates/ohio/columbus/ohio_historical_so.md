@@ -1,6 +1,7 @@
 ---
 latitude: 40.001613
 longitude: -83.025946
+snippet: State museum covering Ohio's Native American, natural, and social history.
 tags:
 - things_to_do
 - museum

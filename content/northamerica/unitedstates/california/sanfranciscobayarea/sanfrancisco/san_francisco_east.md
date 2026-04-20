@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.8041
 longitude: -122.4646
+snippet: Bay-side beach in the Presidio popular with families and dogs
 tags:
 - beaches
 - beach

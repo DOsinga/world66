@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.0583
 longitude: 48.2875
+snippet: Ancient basilica turned mosque, one of oldest in Russia
 story: The building began life as a Christian basilica in the 6th century. When the
   Arabs captured Derbent in 654 AD and brought Islam to the Caucasus, they converted
   the basilica into a mosque — one of the oldest in the former Soviet Union. The 15th-century

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.6687
 longitude: 135.5013
+snippet: Neon-lit canal strip, Osaka's nightly eating circus
 tags:
 - things_to_do
 title: Dotonbori

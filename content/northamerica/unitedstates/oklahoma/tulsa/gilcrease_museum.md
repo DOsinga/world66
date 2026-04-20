@@ -1,7 +1,10 @@
 ---
 address: 1400 N. Gilcrease Museum Road
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.1847
 longitude: -96.0261
+snippet: World's largest collection of American West art
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.3167
 longitude: 9.3232
+snippet: Garibaldi, Mazzini, and Liguria's role in unifying Italy
 tags:
 - things_to_do
 - museum

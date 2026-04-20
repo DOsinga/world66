@@ -1,8 +1,11 @@
 ---
 address: 9785 Santa Monica Blvd., Beverly Hills 90210
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.067634
 longitude: -118.40852
 phone: (310) 278-1845
+snippet: Old-school red-sauce Italian with celebrity regulars
 tags:
 - restaurants
 title: La Dolce Vita

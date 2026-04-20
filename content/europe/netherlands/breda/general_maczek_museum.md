@@ -1,6 +1,7 @@
 ---
 latitude: 51.5876
 longitude: 4.7777
+snippet: Polish WWII liberation museum honouring General Maczek
 tags:
 - things_to_do
 - museum

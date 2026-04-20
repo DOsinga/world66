@@ -1,9 +1,12 @@
 ---
-category: parks_and_nature
 done:
   location_cleanup: '2026-04-10'
 latitude: 46.418824
 longitude: -112.7427
+snippet: Working ranch preserving the Western cattle frontier era
+tags:
+- things_to_do
+- parks_and_nature
 title: Grant-Kohrs Ranch National Historic Site
 type: poi
 ---

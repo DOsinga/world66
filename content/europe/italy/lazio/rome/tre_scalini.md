@@ -1,5 +1,7 @@
 ---
 address: Piazza Navona
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8989
 longitude: 12.4731
 snippet: Piazza Navona institution famous for its chocolate tartufo

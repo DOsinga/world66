@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.5239
 longitude: -122.6712
-snippet: "Affordable conveyor-belt sushi near Burnside"
+snippet: Affordable conveyor-belt sushi near Burnside
 tags:
 - eating_out
 - restaurant

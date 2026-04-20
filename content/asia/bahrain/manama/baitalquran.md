@@ -1,6 +1,7 @@
 ---
 title: "Beit al-Qur'an"
 type: poi
+snippet: "Rare Qur'anic manuscripts and Islamic calligraphy in Andalusian-style complex"
 tags:
   - things_to_do
   - museum

@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 28.42
 longitude: 70.35
+snippet: Ancient ruins near Rahim Yar Khan, possibly Ashokan-era or Buddhist
 tags:
 - things_to_do
+- sight
 title: Pattan Minar
 type: poi
 ---

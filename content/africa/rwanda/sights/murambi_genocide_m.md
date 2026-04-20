@@ -3,6 +3,11 @@ title: "Murambi Genocide Memorial"
 type: poi
 latitude: -2.455224
 longitude: 29.567702
+snippet: "Devastating hilltop memorial where preserved bodies bear witness to the 1994 massacre"
+tags:
+- things_to_do
+- sight
+- story
 ---
 
 One of the most disturbing of Rwanda's genocide memorials. At Murambi, a hilltop technical school near Gikongoro, tens of thousands of Tutsi sought refuge in April 1994 after being told by local authorities they would be protected. They were massacred over two days. The bodies have been exhumed from mass graves, preserved, and placed in the classrooms where the killings took place.

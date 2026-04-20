@@ -1,6 +1,7 @@
 ---
 latitude: 22.2867
 longitude: 114.15
+snippet: Old Hong Kong neighbourhood with antique shops, temples, and dried seafood lanes
 tags:
 - things_to_do
 - neighbourhood

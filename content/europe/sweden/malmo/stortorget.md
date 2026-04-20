@@ -1,6 +1,7 @@
 ---
 latitude: 55.6059
 longitude: 13.0003
+snippet: Malmö's grand medieval main square, once Scandinavia's largest market
 tags:
 - things_to_do
 - sight

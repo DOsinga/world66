@@ -1,6 +1,7 @@
 ---
 latitude: 42.6414
 longitude: 18.1094
+snippet: Powerful photojournalism gallery documenting the human cost of conflict
 tags:
 - things_to_do
 - museum

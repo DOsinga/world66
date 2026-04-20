@@ -1,6 +1,10 @@
 ---
 title: "Mecki's"
 type: poi
+snippet: "Candle-lit jazz cave with live music most nights"
+tags:
+  - bars_and_cafes
+  - nightlife
 address: "Roscherstrasse 7, 30175 Hannover"
 opening_hours: "Daily except Sunday, 21:00-05:00"
 phone: "+49 511 33 16 06"

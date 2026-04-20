@@ -1,7 +1,10 @@
 ---
 address: Kota
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -6.1375
 longitude: 106.8133
+snippet: Colonial-era Dutch quarter with museums, squares, and old warehouses
 tags:
 - things_to_do
 - museum

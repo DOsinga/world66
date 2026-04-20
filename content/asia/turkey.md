@@ -2,7 +2,7 @@
 done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-07'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: turkey.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Serhio_Magpie" title="User:Serhio
   Magpie">Serhio Magpie</a>

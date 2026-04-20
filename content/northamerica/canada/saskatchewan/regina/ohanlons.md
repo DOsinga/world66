@@ -1,6 +1,7 @@
 ---
 title: "O'Hanlon's"
 type: poi
+snippet: "Regina's best Irish pub with outdoor deck"
 tags:
   - eating_out
   - pub

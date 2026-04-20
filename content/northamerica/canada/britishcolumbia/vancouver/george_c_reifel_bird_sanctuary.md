@@ -1,10 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.1025
 longitude: -123.1836
+snippet: Premier waterfowl sanctuary with 230 species on Westham Island
 tags:
 - things_to_do
-- delta
-- landmark
+- nature
+- wildlife
 title: George C. Reifel Bird Sanctuary
 type: poi
 ---

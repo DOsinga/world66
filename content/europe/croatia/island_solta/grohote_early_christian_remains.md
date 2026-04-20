@@ -1,7 +1,9 @@
 ---
 title: "Early Christian Basilica, Grohote"
 type: poi
-category: Sight
+snippet: "Fifth-century basilica ruins woven into village life"
+tags:
+- sights
 latitude: 43.3748
 longitude: 16.2924
 ---

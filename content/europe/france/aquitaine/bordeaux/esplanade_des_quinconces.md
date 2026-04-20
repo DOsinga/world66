@@ -1,7 +1,10 @@
 ---
 title: "Esplanade des Quinconces"
 type: poi
-category: Sight
+snippet: "Europe's largest public square with dramatic Girondins monument"
+tags:
+- things_to_do
+- sight
 latitude: 44.8456
 longitude: -0.5735
 ---

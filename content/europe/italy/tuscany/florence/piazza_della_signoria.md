@@ -1,5 +1,7 @@
 ---
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.7684
 longitude: 11.2535
 tags:

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.337
 longitude: 25.133
+snippet: Walkable 4 km Venetian fortifications with Kazantzakis's grave
 tags:
 - things_to_do
 - architecture

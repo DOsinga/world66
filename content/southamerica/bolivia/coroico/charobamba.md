@@ -1,6 +1,7 @@
 ---
 latitude: -16.1927
 longitude: -67.753
+snippet: Village with WWII Jewish refugee history near Coroico
 tags:
 - day_trips
 title: Charobamba

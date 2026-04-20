@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.2688
 longitude: 11.4688
+snippet: First Nazi concentration camp, now a sober and essential memorial
 story: 'Dachau was the first concentration camp opened by the Nazi regime, on 22 March
   1933, just weeks after Hitler came to power. It served as a model for all subsequent
   camps and as a training ground for SS officers. Over 200,000 prisoners were held

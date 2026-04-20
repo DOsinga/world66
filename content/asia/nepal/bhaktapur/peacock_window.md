@@ -1,6 +1,7 @@
 ---
 title: "Peacock Window"
 type: poi
+snippet: Nepal's most famous carved wooden window, tucked down an alley
 tags:
   - things_to_do
   - architecture

@@ -1,6 +1,7 @@
 ---
 latitude: 34.983
 longitude: 34.074
+snippet: Speedboat trip along eastern Cyprus with swimming stops
 tags:
 - things_to_do
 title: Raptor Boat Safari

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.37
 longitude: -8.3958
+snippet: old town Galician shellfish restaurant with a strong Albariño list
 tags:
 - eating_out
 title: La Penela

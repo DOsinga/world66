@@ -1,13 +1,18 @@
 ---
-title: "Pinacoteca di Brera"
-type: poi
-category: "Museum"
-address: "Via Brera 28, 20121 Milan"
-opening_hours: "Tue–Sun 08:30–19:15; closed Mon"
-admission: "€15 full, €2 reduced (EU 18–25), free under 18"
+address: Via Brera 28, 20121 Milan
+admission: €15 full, €2 reduced (EU 18–25), free under 18
+category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4718
-longitude: 9.1880
-tags: ["48 Hours in Milan", "3 Days in Milan"]
+longitude: 9.188
+opening_hours: Tue–Sun 08:30–19:15; closed Mon
+snippet: Milan's finest art gallery with Italian masters across centuries
+tags:
+- museums
+- art
+title: Pinacoteca di Brera
+type: poi
 ---
 
 Milan's foremost art gallery, housed in a Baroque palazzo in the Brera neighbourhood. The collection covers Italian painting from the 13th to 20th centuries, with particular strength in northern Italian Renaissance work — Mantegna's Dead Christ, Raphael's Marriage of the Virgin, and Caravaggio are all here. Hayez's The Kiss (1859), the painting that became a symbol of Italian Risorgimento, is one of the most visited works.

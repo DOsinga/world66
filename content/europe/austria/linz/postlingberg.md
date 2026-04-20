@@ -10,6 +10,7 @@ story: 'The Pöstlingbergbahn opened in 1898 and was engineered to climb a 10.5%
   of Culture.
 
   '
+snippet: "Hilltop pilgrimage church reached by historic tram"
 tags:
 - things_to_do
 - sight

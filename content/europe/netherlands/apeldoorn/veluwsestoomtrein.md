@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.173
 longitude: 5.959
+snippet: Heritage steam railway through the Veluwe with railway museum
 tags:
 - things_to_do
 - landmark

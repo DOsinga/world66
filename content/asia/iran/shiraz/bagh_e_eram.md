@@ -4,6 +4,7 @@ longitude: 52.5182
 tags:
 - things_to_do
 - landmark
+snippet: UNESCO-listed Persian garden with cypresses and Qajar pavilion
 title: Bagh-e Eram
 type: poi
 ---

@@ -2,6 +2,7 @@
 address: Piazza Santa Trinita, 50123 Florence
 latitude: 43.77
 longitude: 11.2509
+snippet: Gothic church with Ghirlandaio's Sassetti Chapel frescoes
 tags:
 - things_to_do
 - church

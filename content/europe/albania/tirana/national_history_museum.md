@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.3283
 longitude: 19.8179
+snippet: Albania's vast national museum on Skanderbeg Square
 tags:
 - things_to_do
 title: National History Museum

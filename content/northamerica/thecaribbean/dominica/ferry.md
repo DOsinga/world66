@@ -1,7 +1,7 @@
 ---
+snippet: Fast ferry connections to Guadeloupe, Martinique, St. Lucia
 tags:
 - getting_there
-- sight
 title: By Ferry
 type: poi
 ---

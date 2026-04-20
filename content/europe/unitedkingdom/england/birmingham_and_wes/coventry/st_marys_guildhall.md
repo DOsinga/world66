@@ -8,6 +8,7 @@ story: 'Mary Queen of Scots was held prisoner in St Mary''s Guildhall in 1565, d
   along with Henry VI, who was also entertained here.
 
   '
+snippet: Superbly preserved 14th-century guildhall with medieval tapestry
 tags:
 - things_to_do
 - architecture

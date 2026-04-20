@@ -1,6 +1,7 @@
 ---
 latitude: 4.6057
 longitude: -74.0556
+snippet: Mountain church with panoramic views over Bogota
 tags:
 - things_to_do
 - landmark

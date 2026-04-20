@@ -2,6 +2,7 @@
 address: Kirilla i Mefodiya 3, Minsk
 latitude: 53.9033
 longitude: 27.5626
+snippet: Blue-domed Orthodox cathedral with a miraculous icon
 tags:
 - things_to_do
 - sight

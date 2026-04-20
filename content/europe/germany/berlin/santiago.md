@@ -3,6 +3,7 @@ address: Wörther Str. 36
 connections: U Senefelderplatz
 latitude: 52.523983
 longitude: 13.4160
+snippet: "Laid-back Prenzlauer Berg bar with tapas and cocktails"
 tags:
 - eating_out
 - prenzlauerberg
@@ -10,4 +11,4 @@ title: Santiago
 type: poi
 ---
 
-Friendly pub with good menu, tasty cocktails, a tapas selection for late-night hunger, and occasional parties. Breakfast brunch on Sundays 9am -4pm.
+A laid-back neighborhood bar on Wörther Strasse in Prenzlauer Berg with a relaxed, friendly vibe. The menu covers solid pub fare alongside a decent tapas selection for when late-night hunger strikes. Cocktails are well-made and reasonably priced. Sunday brunch runs from 9am to 4pm and draws a loyal local crowd. On weekends the place occasionally morphs into a low-key party spot.

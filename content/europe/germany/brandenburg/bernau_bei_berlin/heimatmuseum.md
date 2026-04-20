@@ -2,6 +2,7 @@
 tags: [things_to_do, museum, historic_site]
 address: "Berliner Straße, Steintor, 16321 Bernau bei Berlin"
 phone: "+49 3338 2924"
+snippet: "Local history museum inside a medieval town gate"
 latitude: 52.6793
 longitude: 13.5862
 title: Heimatmuseum (Steintor)

@@ -1,7 +1,10 @@
 ---
 title: 'Mt Hotham'
 type: poi
-category: 'Skiing'
+snippet: "Victoria's highest ski resort with reliable snow"
+tags:
+  - things_to_do
+  - attraction
 latitude: -36.9753
 longitude: 147.1281
 ---

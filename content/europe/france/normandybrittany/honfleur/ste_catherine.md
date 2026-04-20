@@ -1,6 +1,7 @@
 ---
 title: "Église Sainte-Catherine"
 type: poi
+snippet: "France's largest wooden church, built by shipwrights"
 tags: [things_to_do]
 address: "Place Sainte-Catherine"
 latitude: 49.4185

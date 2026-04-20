@@ -7,6 +7,7 @@ tags:
 - historical_site
 title: Gooty Fort
 type: poi
+snippet: "Ancient hilltop fort with 15 gateways and panoramic views"
 ---
 
 Gooty Fort is one of the oldest hill forts in Andhra Pradesh, perched 300m above the plains at Gooty town, 52km from Anantapur. The earliest inscriptions date to around the 7th century, with Kannada and Sanskrit texts. The Vijayanagara monarch Bukka called it the "King of Forts." It subsequently passed through Qutb Shahi, Maratha (under Murari Rao), Mysore (Hyder Ali, 1773), and British hands.

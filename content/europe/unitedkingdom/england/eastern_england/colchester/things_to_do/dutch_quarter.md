@@ -1,7 +1,11 @@
 ---
 title: Dutch Quarter
 type: poi
-category: Neighbourhood
+snippet: Tudor streets built by Flemish weavers in the 1560s
+tags:
+- things_to_do
+- sight
+- historic_district
 latitude: 51.8897
 longitude: 0.8990
 ---

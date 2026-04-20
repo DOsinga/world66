@@ -1,6 +1,7 @@
 ---
 latitude: 53.6273
 longitude: 11.4131
+snippet: Brick Gothic basilica with 117-metre spire and city views
 tags:
 - things_to_do
 - sight

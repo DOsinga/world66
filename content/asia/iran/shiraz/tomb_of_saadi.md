@@ -1,6 +1,7 @@
 ---
 latitude: 29.6307
 longitude: 52.5535
+snippet: Garden mausoleum of the great Persian poet
 tags:
 - things_to_do
 - landmark

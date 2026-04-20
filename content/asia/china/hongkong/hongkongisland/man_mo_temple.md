@@ -2,6 +2,7 @@
 address: 124-126 Hollywood Road, Sheung Wan
 latitude: 22.285
 longitude: 114.1491
+snippet: "Incense-filled 1847 temple to the gods of literature and war"
 tags:
 - things_to_do
 - landmark

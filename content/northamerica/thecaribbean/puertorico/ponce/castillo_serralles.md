@@ -1,6 +1,7 @@
 ---
 latitude: 18.017
 longitude: -66.6175
+snippet: "1930s Spanish Revival mansion of the Don Q rum family with panoramic city views"
 tags:
 - things_to_do
 - museum

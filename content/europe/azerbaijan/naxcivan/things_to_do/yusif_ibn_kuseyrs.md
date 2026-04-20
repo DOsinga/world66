@@ -1,12 +1,10 @@
 ---
-category: Sight
-title: Yusif Ibn Kuseyr's Tomb
+title: "Yusif Ibn Kuseyr's Tomb"
 type: poi
+category: Sight
+snippet: "12th-century mausoleum built by master architect Ajami Nakhchivani"
+latitude: 39.2090
+longitude: 45.4044
 ---
 
-Yusif Ibn Kuseyr's Tomb – one of the most ancient monuments in Nakhchivan. People call it also Atababa tomb. On the epitaph of the tomb, it was written that the tomb was built by the architect Ajami Nakhchivani son of Abubakr in 1162, and the name of the person who buried there is written on the stone as well. The ayahs (sentences) from Koran are written on the wall of the monument. The tomb consists of underground and eight-pointed surface. The underground is the tomb, and the surface is of monumental type like memorial monument. The ornaments are made of small bricks, and were fixed to the surfaces by means of cement substances.
-
-**Contributors**
-April 18, 2006
-
-type: Graves and Cemeteries
+One of the oldest surviving monuments in Nakhchivan, this octagonal mausoleum was built in 1162 by the architect Ajami ibn Abubakr Nakhchivani, the greatest builder of medieval Azerbaijan. The tomb is dedicated to Yusif ibn Kuseyr, also known locally as Atababa. The structure rises in two parts: an underground burial chamber and an elegant eight-sided tower above ground, its exterior covered in intricate geometric brickwork and Quranic inscriptions. It stands as one of the earliest examples of the distinctive Nakhchivani school of architecture that Ajami would bring to its peak in nearby Momina Khatun.

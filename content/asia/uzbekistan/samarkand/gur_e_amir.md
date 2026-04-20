@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.6494
 longitude: 66.9683
+snippet: Timur's mausoleum with its iconic azure dome and cursed tomb
 story: When Soviet archaeologists opened Timur's tomb in June 1941, they found an
   inscription warning that whoever disturbed the grave would unleash an invader more
   terrible than Timur. Germany invaded the Soviet Union the next day.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.4125
 longitude: -4.0883
+snippet: Britain's longest cliff railway with stunning Cardigan Bay views
 tags:
 - things_to_do
 - sight

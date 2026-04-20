@@ -1,6 +1,10 @@
 ---
+address: 1 Place Hans Jean Arp, Strasbourg
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.5786
 longitude: 7.7451
+snippet: Riverside modern art museum strong on Alsatian artists
 tags:
 - things_to_do
 - museum
@@ -9,5 +13,3 @@ type: poi
 ---
 
 A purpose-built glass-and-steel museum on the bank of the Ill, opened in 1998. The collection runs from Impressionism through to contemporary art, with particular strength in works connected to Alsace: Jean Arp, who was born in Strasbourg, is well represented, as is Gustave Doré. Other highlights include pieces by Monet, Rodin, Klimt, and Klee.
-
-address: 1 Place Hans Jean Arp

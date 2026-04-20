@@ -1,7 +1,10 @@
 ---
 address: Corso Vittorio Emanuele, 166
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8966
 longitude: 12.4718
+snippet: Intimate collection of ancient sculpture in a Renaissance palazzo
 tags:
 - things_to_do
 - museum

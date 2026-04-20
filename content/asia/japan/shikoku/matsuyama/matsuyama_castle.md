@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.8467
 longitude: 132.7659
+snippet: Original 17th-century castle with panoramic Inland Sea views
 tags:
 - things_to_do
 title: Matsuyama Castle

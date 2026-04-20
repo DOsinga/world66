@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.6187
 longitude: -3.9432
+snippet: Medieval church rebuilt after the 1941 Blitz in perpendicular Gothic style
 tags:
 - things_to_do
 - architecture

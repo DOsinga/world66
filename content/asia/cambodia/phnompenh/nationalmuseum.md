@@ -1,7 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.565
 longitude: 104.9257
 opening_hours: Daily 08:00–17:00
+snippet: Superb collection of Khmer sculpture in a striking terracotta building
 tags:
 - things_to_do
 title: National Museum

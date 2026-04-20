@@ -1,6 +1,7 @@
 ---
 latitude: 35.0108
 longitude: -85.328
+snippet: "World's steepest passenger railway up Lookout Mountain"
 tags:
 - things_to_do
 - landmark

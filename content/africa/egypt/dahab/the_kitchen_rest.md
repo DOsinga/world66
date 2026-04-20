@@ -3,6 +3,7 @@ address: Masbat, Dahab, South Sinai
 latitude: 28.4975
 longitude: 34.5161
 phone: 0020195959764
+snippet: Three-floor Asian-inspired restaurant with sea and mountain views
 tags:
 - eating_out
 - restaurant

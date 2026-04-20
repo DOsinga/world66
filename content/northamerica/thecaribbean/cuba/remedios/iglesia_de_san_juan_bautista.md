@@ -3,6 +3,7 @@ title: "Iglesia de San Juan Bautista"
 type: poi
 latitude: 22.4950
 longitude: -79.5456
+snippet: Cuba's finest baroque gilded altar in a rarely-visited colonial church
 story: >
   The church's main altar is covered in gold leaf and took craftsmen more than a decade to complete. It is considered one of the finest baroque altarpieces in Cuba, yet Remedios is so little visited that you may well have it entirely to yourself.
 tags:

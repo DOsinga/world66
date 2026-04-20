@@ -1,6 +1,7 @@
 ---
 latitude: 52.8538
 longitude: -117.7526
+snippet: Lake that vanishes each autumn through underground drainage
 tags:
 - things_to_do
 - landmark

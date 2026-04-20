@@ -1,6 +1,7 @@
 ---
 latitude: 27.4842
 longitude: 89.6374
+snippet: Bhutan's seat of government and summer home of 2,000 monks
 story: Tashicho Dzong was originally built in 1641 by Zhabdrung Ngawang Namgyal, the
   Tibetan Buddhist lama who unified Bhutan. After being destroyed and rebuilt several
   times, it was completely reconstructed in the 1960s without nails, using traditional

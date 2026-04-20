@@ -1,12 +1,13 @@
 ---
 address: 6605 Las Vegas Blvd. South
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.067547
 longitude: -115.177939
 phone: 702-269-5005
+snippet: Open-air mall at the south end of the Strip with cinema and dining.
 tags:
 - shopping
-- shop
-- square
 - restaurant
 title: Town Square Las Vegas
 type: poi

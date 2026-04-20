@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 46.944727
 longitude: -71.475826
+snippet: Rebuilt from snow and ice every January, melts by March
 tags:
 - things_to_do
 title: Hôtel de Glace (Ice Hotel)

@@ -1,8 +1,11 @@
 ---
 address: 9646 Little Santa Monica Blvd., Beverly Hills 90210
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.0721
 longitude: -118.4013
 phone: +1-310-205-8990
+snippet: Vietnamese-French glamour with a secret kitchen and famous garlic noodles
 tags:
 - restaurants
 title: Crustacean

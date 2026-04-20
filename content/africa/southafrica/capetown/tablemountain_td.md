@@ -1,27 +1,23 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -33.959063
 longitude: 18.403872
+snippet: Cape Town's iconic flat-topped mountain with cable car
 tags:
 - things_to_do
 - landmark
+- story
 title: Table Mountain
 type: poi
 ---
 
-The first thing that springs to mind when thinking of Cape Town is perhaps Table Mountain. This remarkable lump of rock right in the middle of town is hard to miss. There are several myths connected with Table Mountain. For example, legend tells of an old pirate, Jan van Hunks, who after ritiring spent most of his time smoking his pipe outside his house on Devil's peak. One night a mysterious stranger came up to him and asked for some tobacco. After bragging a bit about their pipe smoking talents, they started a smoking contest thet lasted for four days. Van Hunks eventually beat the stranger. Unfortunately, that stranger turned out to be the devil, and they both dissapeared in a puff of smoke. The thick layer of smoke left over from their contest still covers Table Mountain on a regular basis and is called the Table Cloth.
+The first thing that springs to mind when thinking of Cape Town is Table Mountain. This remarkable flat-topped massif right in the middle of the city is hard to miss — and hard to tire of.
 
+Legend tells of an old pirate, Jan van Hunks, who after retiring spent most of his time smoking his pipe on Devil's Peak. One night a mysterious stranger appeared and asked for tobacco. After boasting about their pipe-smoking prowess, they started a contest that lasted four days. Van Hunks eventually won, but the stranger turned out to be the devil, and both disappeared in a puff of smoke. The thick layer of cloud that still drapes Table Mountain on many days is called the Tablecloth, supposedly the residue of that marathon contest.
 
- 
- The best way to get a great view over Cape Town and its surroundings is to climb Table Mountain. There is an easy way and a harder way to do this.
+The easy way up is the revolving cable car from the lower station on Tafelberg Road. It takes about five minutes and the views on the way are spectacular. Buy tickets online to skip the queue.
 
+If you want the physical challenge, several hiking routes lead to the top. The Skeleton Gorge trail starts behind Kirstenbosch Botanical Gardens and is a steep but well-marked climb through forest and fynbos — allow one to two hours depending on fitness. Platteklip Gorge from the front face is more direct and fully exposed, so bring sun protection and plenty of water.
 
- The easy way is to take the cable lift up. It's relatively fast, and sweat free.
-
-
- If you want a phisical challange as well as a good view, you can take one of the hiking tracks up the mountain. They can be found in several places, one of them right behind the Kirstenbosch Botanical Gardens. It's a pretty steep climb, but the path is very clear, and you won't easily get lost. Because it's so steep you will have a beautifull view of the city and the sea for most of the way up. Depending on how fit you are, it's a 1-2 hour climb.
-
-
- On top of Table Mountain, you can enjoy a cold drink from the bar, look at the 'klipdassies' (hyraxes, small rodents) and take in the view.
- 
-
-address: Cape Town
+At the summit you'll find a café, easy walking paths, and the inevitable dassies (rock hyraxes) sunning themselves on the rocks. On a clear day, the views stretch from Robben Island to the Hottentots Holland Mountains.

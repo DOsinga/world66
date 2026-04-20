@@ -1,6 +1,7 @@
 ---
 title: "Lake Fort Gibson"
 type: poi
+snippet: Large reservoir popular for bass fishing, camping, and watersports
 tags:
   - things_to_do
   - sight

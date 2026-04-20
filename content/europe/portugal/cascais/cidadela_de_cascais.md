@@ -1,6 +1,7 @@
 ---
 title: "Cidadela de Cascais"
 type: poi
+snippet: "16th-century harbour fortress turned hotel and artists' studios"
 tags: [things_to_do, castle]
 latitude: 38.6976
 longitude: -9.4215

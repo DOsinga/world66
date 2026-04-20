@@ -1,12 +1,11 @@
 ---
 latitude: 37.7936
 longitude: -122.4836
+snippet: "Presidio beach with stunning Golden Gate Bridge views"
 tags:
 - beaches
 - beach
 - park
-- market
-- bridge
 title: Baker Beach
 type: poi
 ---

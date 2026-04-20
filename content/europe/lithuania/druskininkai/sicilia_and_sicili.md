@@ -1,6 +1,7 @@
 ---
 title: "Sicilia"
 type: poi
+snippet: "Busy Lithuanian-Italian eatery on Taikos gatve"
 tags:
   - eating_out
   - restaurant

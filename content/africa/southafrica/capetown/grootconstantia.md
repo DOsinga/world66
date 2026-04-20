@@ -1,24 +1,15 @@
 ---
+address: Off Constantia Road, Wynberg
 latitude: -34.030377
 longitude: 18.417646
+snippet: "Cape Town's oldest wine estate with manor house museum"
 tags:
 - things_to_do
 - landmark
-title: GROOT CONSTANTIA
+title: Groot Constantia
 type: poi
 ---
 
-This is the oldest homestead in the Cape.
- The Manor House on the farm which was originally allocated to Governor Simon van der Stel portrays life on a farm in the 1800's.
- The collection consists of Cape furniture from the mid-1700's and Chinese, Japanese, Rhenish and Delft porcelain.
- The Wine Museum has wine drinking and storage vessels in glass, silver, copper and stoneware from 500 BC to the 19th century.
- Daily 10h00 - 17h00. Closed Christmas and Good Friday.
- Admission charged.
- Wine sales: Mon - Sun 10h00 - 17h00.
- Cellar tours daily on the hour from 11h00 - 15h00. From November every hour from 10h00 - 16h00.
- Tel: 794 5128. Tavern Tel: 794 1144. Art gallery: Tel: 794 3806.
- 
+The oldest wine estate in South Africa, Groot Constantia dates back to 1685 when Governor Simon van der Stel was granted the land. The Manor House is furnished with Cape Dutch furniture from the mid-1700s alongside Chinese, Japanese, Rhenish, and Delft porcelain, offering a vivid picture of colonial farm life.
 
-address: Off Constantia Road, Wynberg. M41
-
-tel: ++27 (0)21 794 5067.
+The Wine Museum traces the history of winemaking through drinking and storage vessels in glass, silver, copper, and stoneware spanning from 500 BC to the 19th century. Cellar tours run on the hour most of the day, and the tasting room pours the estate's own wines. The grounds are beautiful for a stroll, especially on a sunny afternoon.

@@ -1,6 +1,7 @@
 ---
 title: "UN Memorial Cemetery"
 type: poi
+snippet: "World's only UN cemetery, honoring Korean War fallen"
 tags:
   - things_to_do
 latitude: 35.136944

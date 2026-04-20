@@ -2,6 +2,7 @@
 address: Steiner St & Hayes St
 latitude: 37.7762
 longitude: -122.4346
+snippet: "Iconic Painted Ladies Victorians against the city skyline"
 tags:
 - things_to_do
 - square

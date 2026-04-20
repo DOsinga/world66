@@ -6,6 +6,7 @@ tags:
   - park
   - lake
   - historic_site
+snippet: "Legendary lake park with pavilions and Ming tombs"
 latitude: 32.038375
 longitude: 118.758244
 ---

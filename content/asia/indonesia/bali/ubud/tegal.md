@@ -2,6 +2,7 @@
 title: "Tegal"
 type: poi
 tags: [bars_and_cafes]
+snippet: "Laid-back neighbourhood cafe off the tourist strip"
 address: "Jalan Padang Tegal, Ubud"
 latitude: -8.5185
 longitude: 115.2635

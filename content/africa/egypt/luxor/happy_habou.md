@@ -1,6 +1,7 @@
 ---
 latitude: 25.719956
 longitude: 32.601441
+snippet: "Simple West Bank eatery near Medinet Habu temple"
 tags:
 - eating_out
 title: Happy Habou

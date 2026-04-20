@@ -1,8 +1,11 @@
 ---
-title: "Chele La Pass"
-type: poi
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 27.369877
 longitude: 89.346673
+snippet: Bhutan's highest motorable pass with Himalayan panoramas
+title: Chele La Pass
+type: poi
 ---
 
 At 3,988 metres, Chele La is the highest motorable road pass in Bhutan, reached by a 1.5-hour drive west from Paro town. On a clear morning the views are extraordinary: a long sweep of Himalayan peaks including Jomolhari (7,329 m) dominating the skyline to the north. In late March and April the slopes are covered with rhododendrons in bloom.

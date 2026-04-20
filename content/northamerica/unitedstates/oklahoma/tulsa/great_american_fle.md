@@ -1,6 +1,11 @@
 ---
 address: 9210-9244 East Admiral Place
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 36.1712
+longitude: -95.8732
 phone: (918) 834-6363
+snippet: One of the Midwest's largest indoor flea markets, 500+ dealers
 tags:
 - shopping
 title: Great American Flea Market

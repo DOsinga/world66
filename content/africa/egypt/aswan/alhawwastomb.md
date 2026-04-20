@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.1
 longitude: 32.8862
+snippet: Pharaonic noble tombs topped by a saint's domed tomb
 tags:
 - things_to_do
 - sight

@@ -1,7 +1,10 @@
 ---
 address: 900 North Third Street, Baton Rouge
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.4577
 longitude: -91.1873
+snippet: Tallest US state capitol, built by Huey Long, bullet holes included
 tags:
 - things_to_do
 - architecture

@@ -2,7 +2,12 @@
 address: Carrer de la Marina, Port Olimpic
 category: nightlife
 closing_time: 5 a.m.
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 41.388062
+longitude: 2.197744
 phone: 93-225-78-78
+snippet: Casino and nightclub in Port Olympic, open until 5am
 tags:
 - bars_and_cafes
 - nightlife
@@ -11,4 +16,4 @@ type: poi
 url: www.casino-barcelona.com
 ---
 
-Gran Casino de Barcelona is located under the Hotel Arts Barcelona and it is much, much more than just a casino. The venue also features entertaining floor shows and an energetic disco. Expect to find the usual suspects ranging from slot machines to roulette. Gran Casino de Barcelona is open from 1:00 p.m.-5:00 a.m.
+The Gran Casino de Barcelona sits at the base of the Hotel Arts in Port Olympic, right on the waterfront. Slots, roulette, blackjack, and poker on the main floor; floor shows and a disco upstairs. Dress code is smart-casual; bring your passport for entry. Open daily from 1pm until 5am.

@@ -1,8 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.245984
 longitude: 120.143132
+snippet: Hangzhou's iconic lake with causeways and islands
 tags:
 - things_to_do
+- nature
+- park
 title: West Lake (Xihu)
 type: poi
 ---

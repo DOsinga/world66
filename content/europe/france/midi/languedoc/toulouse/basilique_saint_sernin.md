@@ -1,6 +1,7 @@
 ---
 latitude: 43.6088
 longitude: 1.4416
+snippet: Europe's largest surviving Romanesque church
 tags:
 - things_to_do
 - church

@@ -1,9 +1,11 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -16.0377
 longitude: -67.8176
+snippet: Remote village with pre-Columbian rock drawings nearby
 tags:
 - day_trips
-snippet: "Remote village with pre-Columbian rock drawings nearby"
 title: Santa Rosa de Kilo Kilo
 type: poi
 ---

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -23.6333
 longitude: -65.8833
+snippet: Vast white salt flat at 3,450m, still actively worked by hand by local cooperatives
 tags:
 - things_to_do
 - sight

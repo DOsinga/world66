@@ -1,15 +1,17 @@
 ---
-title: Gogol Museum
-type: poi
-snippet: “Gogol's final home, with the fireplace that burned Dead Souls”
 address: Nikitsky Boulevard 7a, Moscow
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.7528
 longitude: 37.5982
 opening_hours: “Wed-Sun 12pm-7pm, closed Tuesdays and last day of each month”
 phone: “+7 495 690-58-81”
+snippet: “Gogol's final home, with the fireplace that burned Dead Souls”
 tags:
 - things_to_do
 - museum
+title: Gogol Museum
+type: poi
 url: www.domgogolya.ru
 ---
 

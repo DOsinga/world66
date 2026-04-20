@@ -5,9 +5,10 @@ latitude: 51.521667
 longitude: -0.160457
 opening_hours: Daily 9am-5pm (hours vary, check website)
 phone: +44 871 894 3000
+snippet: "Waxwork celebrities and royals, London's tourist institution since 1884"
 tags:
 - things_to_do
-- square
+- sight
 title: Madame Tussauds
 type: poi
 url: www.madametussauds.com/london

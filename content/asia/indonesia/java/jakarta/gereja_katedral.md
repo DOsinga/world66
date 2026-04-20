@@ -1,12 +1,14 @@
 ---
 address: In front of Istiqlal Mosque
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.1694
 longitude: 106.8316
+snippet: Neo-Gothic cathedral facing Istiqlal Mosque, a symbol of unity
 tags:
 - things_to_do
 - church
 - monument
-- tower
 title: Gereja Katedral
 type: poi
 ---

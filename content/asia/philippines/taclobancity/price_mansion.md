@@ -1,7 +1,10 @@
 ---
 address: Justice Romualdez Street, Tacloban City
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.2433
 longitude: 125.0019
+snippet: MacArthur's wartime HQ, now a small museum of Leyte history
 tags:
 - things_to_do
 - architecture

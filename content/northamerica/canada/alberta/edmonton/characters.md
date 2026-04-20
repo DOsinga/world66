@@ -1,12 +1,15 @@
 ---
-latitude: 43.897866
-longitude: -78.863515
+address: 10257 - 105 Street, Edmonton, Alberta T5J 1E3
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 53.5417
+longitude: -113.5089
+phone: +1 780 421-4100
+snippet: Upscale seasonal dining in a brick-and-hardwood room
 tags:
 - eating_out
-title: Characters .
+title: Characters
 type: poi
 ---
 
-This elegant dining room boasts freshly scrubbed brick walls, polished hardwood and a glimmering open kitchen. The menu includes a variety of seasonal offerings, among them pan-seared shark served atop a sweet corn flan; beef tenderloin wrapped in bacon, goat cheese and foie gras with a madeira wine sauce and venison baked in puff pastry with wild mushrooms, brussels sprouts and raspberry jus. Open Mon to Fri for lunch at11:30 am; Tues to Sat for dinner at 5:30 pm. (AE, MC, V) 
- Tel: 1 780 421-4100 
- Address: 10257 - 105 Street Edmonton Alberta T5J 1E3
+An elegant dining room with exposed brick walls, polished hardwood floors, and an open kitchen. The menu leans into seasonal ingredients with dishes like pan-seared shark on sweet corn flan, bacon-wrapped beef tenderloin with foie gras and madeira sauce, and venison in puff pastry with wild mushrooms and raspberry jus. Open Monday to Friday for lunch from 11:30 am; Tuesday to Saturday for dinner from 5:30 pm.

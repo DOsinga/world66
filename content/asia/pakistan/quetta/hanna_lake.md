@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.2453
 longitude: 67.1075
+snippet: Turquoise reservoir in bare hills with rowing boats for hire
 tags:
 - things_to_do
 - landmark

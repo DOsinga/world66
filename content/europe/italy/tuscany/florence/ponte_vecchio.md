@@ -1,13 +1,15 @@
 ---
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.768
 longitude: 11.2531
+snippet: Medieval bridge lined with goldsmiths' shops over the Arno
 tags:
 - One Day in Florence
 - 24 Hours in Florence
 - 3 Days in Florence
 - things_to_do
-- palace
 - bridge
 title: Ponte Vecchio
 type: poi

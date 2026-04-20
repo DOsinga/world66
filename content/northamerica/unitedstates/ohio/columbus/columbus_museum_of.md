@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.9644
 longitude: -82.98778
+snippet: Regional art museum spanning old masters to modern, with a great kids' wing
 tags:
 - things_to_do
 - museum

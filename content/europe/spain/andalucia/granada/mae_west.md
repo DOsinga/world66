@@ -1,31 +1,14 @@
 ---
-title: "Mae West"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 37.1692
+longitude: -3.5988
+snippet: Long-running Granada nightclub in the Centro Comercial Neptuno
+tags:
+- going_out
+- bar
+title: Mae West
 type: poi
-address: "Centro Comercial Neptuno"
-closing_time: "6 am"
-type: "Clubs and dancing"
-latitude: 37.398253
-longitude: -5.926647
 ---
 
-Think TGI Fridays in a mall but with dance music. Very fun, i think its where the locals go.
-
-type: Clubs and dancing
-
-
-
-ClosingTime: 6 am
-
-address: Centro Comercial Neptuno
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A nightclub inside the Centro Comercial Neptuno shopping centre that has been part of Granada's nightlife scene for years. The crowd is mostly local university students and the music leans toward mainstream dance and pop. Doors typically open late and the place stays going until around 6 am. It is not fancy, but it is reliably busy on weekends.

@@ -1,8 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-20'
 latitude: 44.025
 longitude: 8.198
+snippet: Protected island with Roman shipwreck and monastery ruins
 tags:
 - things_to_do
 - sight

@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - museum
+snippet: "World's first museum dedicated to the 1947 Partition"
 latitude: 31.6198
 longitude: 74.8760
 ---

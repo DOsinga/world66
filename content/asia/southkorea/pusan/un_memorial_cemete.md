@@ -1,11 +1,13 @@
 ---
-title: "UN Memorial Cemetery"
-type: poi
-snippet: "World's only UN cemetery, honoring Korean War fallen"
-tags:
-  - things_to_do
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.136944
 longitude: 129.09528
+snippet: World's only UN cemetery, honoring Korean War fallen
+tags:
+- things_to_do
+title: UN Memorial Cemetery
+type: poi
 ---
 
 The only UN cemetery in the world, and the resting place of over 2,300 soldiers from 16 nations who died during the Korean War (1950–53). Busan was the last major South Korean city never captured by North Korean forces, which is why so many of the fallen are buried here.

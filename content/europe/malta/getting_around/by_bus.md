@@ -1,20 +1,15 @@
 ---
-title: "By bus"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 35.8997
+longitude: 14.5147
+snippet: Public buses cover most of Malta for a flat fare
+title: By bus
 type: poi
-url: "www.atp.com.mt"
 ---
 
-The site of the Public Transport Association, or as it is known in Maltese: Assocjazzjoni Trasport Pubbliku ATP , is very useful for finding bus routes, bus fares and timetables.
+Malta has a single integrated bus network operated by Malta Public Transport, covering Valletta, the Three Cities, Sliema, St Julian's, Mdina, and the main resort areas in the south. Valletta's bus terminus outside the City Gate is the hub for most routes.
 
-All busses have a relegious icon at the front to which passengers cross themselves before taking a seat. The reasons why will become apparent should you decide to catch the bus!
+Fares are flat-rate and very cheap — a standard journey costs around €1.50 (€2.00 in summer). The Tallinja card gives a discount on each ride and can be topped up at the terminus or online. Timetables and route maps are on the Malta Public Transport website and app.
 
-**Contributors**
-September 05, 2006
-
-August 09, 2006
-
-August 09, 2006
-
-
-
-url: [www.atp.com.mt](http://www.atp.com.mt/index.html)
+Buses run frequently on the main corridors during the day; evening services thin out after 21:00. Gozo has its own separate network with the same pricing.

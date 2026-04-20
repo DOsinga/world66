@@ -1,10 +1,10 @@
 ---
 latitude: 30.045858
 longitude: 31.262871
+snippet: "World's oldest university, founded 970 AD, and active mosque"
 tags:
 - things_to_do
-- church
-- theatre
+- mosque
 title: Al-Azhar Mosque
 type: poi
 ---

@@ -1,10 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.758926
 longitude: -43.109199
+snippet: Car-free island escape in Guanabara Bay by ferry
 tags:
 - things_to_do
-- bridge
-title: Ilha de Paqueta
+title: Ilha de Paquetá
 type: poi
 ---
 

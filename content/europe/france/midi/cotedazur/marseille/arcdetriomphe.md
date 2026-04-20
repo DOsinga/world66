@@ -1,10 +1,11 @@
 ---
-latitude: 48.873779
-longitude: 2.295037
+latitude: 43.3022
+longitude: 5.3825
+snippet: Neoclassical triumphal arch at Marseille’s old city gate
 tags:
 - things_to_do
-title: Arc de Triomphe
+title: Porte d’Aix
 type: poi
 ---
 
-The Porte d’Aix stands at the entrance of the city ; built in 1825, a triumphal arch erected by Penchaud to the glory of the Republic, the Consulate and the Empire.
+Marseille’s own triumphal arch, the Porte d’Aix, stands where the old road from Aix-en-Provence entered the city. Built in 1839 by architect Michel-Robert Penchaud, it commemorates French military victories. The arch is modeled on Roman examples and decorated with reliefs depicting the battles of Austerlitz and Marengo. It marks the top of the Cours Belsunce and makes a useful landmark for orienting yourself in the city center.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.3866
 longitude: -89.2455
+snippet: Outstanding contemporary Indigenous art collection
 tags:
 - things_to_do
 - museum

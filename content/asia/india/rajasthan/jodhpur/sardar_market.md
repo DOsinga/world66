@@ -1,6 +1,10 @@
 ---
+category: sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 26.2929
 longitude: 73.024
+snippet: Bustling clock tower bazaar at the heart of old Jodhpur
 tags:
 - things_to_do
 - neighbourhood

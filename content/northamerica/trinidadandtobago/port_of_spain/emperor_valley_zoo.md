@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - zoo
   - family
+snippet: Small Caribbean zoo with native wildlife by the Savannah
 latitude: 10.6652
 longitude: -61.5176
 story: "The zoo's name comes from the Emperor butterfly (Morpho peleides), which used to be abundant in this area. The zoo opened in 1952 and houses many animals native to Trinidad, including the rare and endangered ocelot."

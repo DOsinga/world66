@@ -1,4 +1,5 @@
 ---
+snippet: Expressway and bus routes into Ulsan from Seoul and Gwangju
 tags:
 - getting_there
 title: By Road

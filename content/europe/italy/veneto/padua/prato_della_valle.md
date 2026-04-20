@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.3983
 longitude: 11.8764
 snippet: One of Europe's largest squares, ringed by canal and 78 statues

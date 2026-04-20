@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 54.8957
 longitude: -2.9378
 snippet: Small, intimate cathedral with a stunning painted medieval ceiling

@@ -1,5 +1,7 @@
 ---
 address: Via V. Emanuele II
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.703056
 longitude: 9.662778
 snippet: Cable car ride up to Bergamo's medieval upper town

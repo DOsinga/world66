@@ -1,5 +1,7 @@
 ---
 address: Via Monte di Testaccio
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8757
 longitude: 12.474
 phone: +39 06 5742975

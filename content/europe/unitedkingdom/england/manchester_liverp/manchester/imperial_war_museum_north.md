@@ -1,5 +1,7 @@
 ---
 address: The Quays, Trafford Wharf Road, Manchester M17 1TZ
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.4697
 longitude: -2.2984
 phone: 0161 836 4000

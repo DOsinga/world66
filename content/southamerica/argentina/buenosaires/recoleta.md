@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -34.587358
 longitude: -58.39157
 snippet: Grand European-style neighbourhood home to Buenos Aires' famous cemetery

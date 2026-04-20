@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.9441
 longitude: 1.2909
 snippet: Circular Napoleonic fort with summer volunteer-led tours

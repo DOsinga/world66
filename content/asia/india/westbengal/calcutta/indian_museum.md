@@ -1,6 +1,8 @@
 ---
 address: 27 Jawaharlal Nehru Rd, Chowringhee, Kolkata 700016
 admission: ₹50 Indians, ₹500 foreigners
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.557705
 longitude: 88.351049
 opening_hours: 10:00-17:00, closed Monday

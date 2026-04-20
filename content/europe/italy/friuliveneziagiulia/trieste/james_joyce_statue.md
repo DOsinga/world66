@@ -1,5 +1,7 @@
 ---
 address: Ponte Rosso, Canal Grande, Trieste
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.651239
 longitude: 13.772905
 snippet: Bronze of Joyce mid-stride on the bridge where he once walked

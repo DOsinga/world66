@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -0.9002
 longitude: -89.6101
 snippet: Free museum covering Galápagos geology, wildlife, and conservation

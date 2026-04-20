@@ -1,12 +1,14 @@
 ---
-title: "Merced Church"
-type: poi
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 14.5612
 longitude: -90.7367
 snippet: Ornate yellow-and-white baroque facade, built to withstand earthquakes
 tags:
 - things_to_do
 - church
+title: Merced Church
+type: poi
 ---
 
 The Mercedarian order arrived in Guatemala in 1538 and had a church in Antigua by 1546. Earthquakes destroyed it in 1565, and its rebuilt successor fell again in 1717. The present Iglesia de La Merced was completed in 1767 — just six years before the Santa Marta earthquake that led to Antigua's abandonment as capital.

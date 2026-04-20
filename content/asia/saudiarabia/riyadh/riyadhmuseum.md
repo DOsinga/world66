@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.6471
 longitude: 46.7107
 snippet: Arabia from prehistory to the modern kingdom

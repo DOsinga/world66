@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.8415
 longitude: 28.6363
 snippet: Ancient temple-front tombs carved into the cliff above the river

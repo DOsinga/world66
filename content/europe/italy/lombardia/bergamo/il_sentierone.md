@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.6978
 longitude: 9.6692
 snippet: Lower city promenade, best at aperitivo hour

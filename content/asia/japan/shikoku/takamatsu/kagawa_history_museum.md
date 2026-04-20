@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.3571
 longitude: 134.0513
 snippet: Prefecture history from Jomon to Edo beside Tamamo-koen

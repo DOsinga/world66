@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.2965
 longitude: 5.3698
 snippet: Grand 18th-century hospital reborn as a luxury hotel and public space

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.1765
 longitude: -115.5722
 snippet: Laid-back Tex-Mex cantina on Banff's main strip

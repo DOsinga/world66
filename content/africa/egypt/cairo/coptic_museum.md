@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.0058
 longitude: 31.2302
 snippet: Egypt's finest collection of early Christian art and relics

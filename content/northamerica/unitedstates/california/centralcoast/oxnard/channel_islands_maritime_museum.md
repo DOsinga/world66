@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.1668
 longitude: -119.2197
 snippet: Ship models, maritime paintings, and 350 years of seafaring history

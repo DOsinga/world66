@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.0142
 longitude: -118.5066
 snippet: Clifftop park with sweeping Pacific views from Palos Verdes to Malibu

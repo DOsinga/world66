@@ -1,18 +1,19 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-tags:
-  - things_to_do
-  - castle
+  poi_cleanup: '2026-04-19'
 latitude: 45.8158
 longitude: 14.1268
+snippet: Castle built into a 123-metre cliff above a cave system
 story: 'During a medieval siege, the knight Erasmus of Lueg held out for over a year
   thanks to a secret passage through the cave behind the castle — allowing food to
   be smuggled in while the besieging army waited outside. He was eventually killed,
   legend says, while using the latrine.
 
   '
-snippet: Castle built into a 123-metre cliff above a cave system
+tags:
+- things_to_do
+- castle
 title: Predjama Castle
 type: poi
 ---

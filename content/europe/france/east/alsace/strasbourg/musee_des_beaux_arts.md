@@ -1,5 +1,7 @@
 ---
 address: 2 Place du Château
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.5797
 longitude: 7.751
 snippet: Raphael, Rubens, and Goya inside a Baroque prince-bishop's palace

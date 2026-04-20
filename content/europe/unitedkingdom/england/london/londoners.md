@@ -1,6 +1,7 @@
 ---
 author: Craig Taylor
 isbn: 978-0062004246
+snippet: Oral history capturing the real voices of modern London
 tags:
 - books
 title: 'Londoners: The Days and Nights of London Now'

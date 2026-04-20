@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -3.1019
-longitude: -60.0250
-snippet: "Large modern mall between two major Manaus avenues"
+longitude: -60.025
+snippet: Large modern mall between two major Manaus avenues
 tags:
 - shopping
 title: Millennium Center

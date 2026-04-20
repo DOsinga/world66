@@ -1,8 +1,15 @@
 ---
-title: "Ntarama Genocide Memorial"
-type: poi
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -2.076
 longitude: 30.053
+snippet: Preserved church memorial to the 1994 genocide
+tags:
+- things_to_do
+- story
+title: Ntarama Genocide Memorial
+type: poi
 ---
 
 The Ntarama memorial, about 20 minutes' drive from Nyamata, is a church where several thousand people were killed in April 1994. Like the nearby Nyamata memorial, the building has been preserved as it was found after the genocide: victims' clothing, bones, and personal effects remain visible inside.

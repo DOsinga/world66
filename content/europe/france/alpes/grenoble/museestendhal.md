@@ -3,6 +3,7 @@ address: 1 rue Hector Berlioz
 latitude: 45.1917
 longitude: 5.727
 phone: 04 76 54 44 14
+snippet: "Intimate museum for Grenoble's famous novelist in a historic hôtel."
 tags:
 - things_to_do
 - museum

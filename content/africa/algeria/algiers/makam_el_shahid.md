@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.7472
 longitude: 3.07
+snippet: towering independence memorial visible across the city
 tags:
 - things_to_do
 - landmark

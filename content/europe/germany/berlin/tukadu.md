@@ -1,10 +1,12 @@
 ---
 address: Rosenthaler Str. 46/47
 connections: U Weinmeisterstr.
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.524594
 longitude: 13.403242
 opening_hours: Mo-Fr 11am-7pm, Sa 11am-3pm
-snippet: "Handmade bead jewelry near Hackesche Höfe"
+snippet: Handmade bead jewelry near Hackesche Höfe
 tags:
 - shopping
 - berlinmitte

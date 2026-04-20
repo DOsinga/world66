@@ -1,8 +1,11 @@
 ---
 address: Via degli Orfani 84, 00186 Rome
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.899
 longitude: 12.4769
 opening_hours: Mon–Sat 07:00–20:00; Sun 10:30–19:30
+snippet: Iconic Roman coffee bar famous for its granita di caffè
 tags:
 - 3 Days in Rome
 - bars_and_cafes

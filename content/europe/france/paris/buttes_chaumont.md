@@ -1,9 +1,12 @@
 ---
 address: 1 Rue Botzaris, 75019 Paris
 admission: Free
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.878396
 longitude: 2.381201
 opening_hours: Daily 7am–10pm (summer), 7am–dusk (winter)
+snippet: Dramatic cliffs, waterfalls, and a hilltop temple in a quarry-turned-park
 tags:
 - things_to_do
 title: Parc des Buttes-Chaumont

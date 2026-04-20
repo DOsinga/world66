@@ -1,9 +1,12 @@
 ---
 address: 10919 South Central Avenue Phoenix, AZ 85042
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.34703
 longitude: -112.084448
 opening_hours: 5:30a-8p daily, seasonal hours vary
 phone: +1 602 495 0222
+snippet: Massive desert preserve with trails and valley panoramas
 tags:
 - things_to_do
 - park

@@ -1,8 +1,11 @@
 ---
 address: 246 N. Cañon Dr., Beverly Hills
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.068801
 longitude: -118.398793
 phone: 310-888-8782
+snippet: Classic Beverly Hills steakhouse with live piano upstairs
 tags:
 - restaurants
 title: Mastro's

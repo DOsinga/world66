@@ -1,15 +1,15 @@
 ---
 address: 1979 West 25th St.
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.484659
 longitude: -81.703
 opening_hours: 'Mon, Wed: 7AM-4PM; Fri, Sat: 7AM-6PM'
 phone: (216) 664-3387
+snippet: Cleveland's century-old public market in a Beaux-Arts hall
 tags:
 - things_to_do
-- park
 - market
-- tower
-- square
 title: West Side Market
 type: poi
 url: www.westsidemarket.com

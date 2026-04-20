@@ -2,10 +2,10 @@
 address: Piazza Navona
 latitude: 41.8989
 longitude: 12.4731
+snippet: Piazza Navona institution famous for its chocolate tartufo
 tags:
 - eating_out
 - restaurant
-- square
 title: Tre Scalini
 type: poi
 ---

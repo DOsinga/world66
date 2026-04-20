@@ -1,8 +1,11 @@
 ---
 address: Paota-B Road, Jodhpur
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 26.283
 longitude: 73.022
 phone: 09783831313
+snippet: No-frills Punjabi dhaba with generous portions
 tags:
 - eating_out
 title: Guru Nanak Vaishnav Dhaba

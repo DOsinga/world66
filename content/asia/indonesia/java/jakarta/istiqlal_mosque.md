@@ -1,10 +1,13 @@
 ---
 address: NE of Merdeka Square
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.17
 longitude: 106.8313
+snippet: Southeast Asia's largest mosque near Merdeka Square
 tags:
 - things_to_do
-- church
+- mosque
 title: Istiqlal Mosque
 type: poi
 ---

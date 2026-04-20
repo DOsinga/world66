@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.2436
 longitude: -74.1992
+snippet: Santa Marta's main nightlife strip with local music
 tags:
 - bars_and_cafes
+- nightlife
 title: Calle 18
 type: poi
 ---

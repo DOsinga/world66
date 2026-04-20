@@ -1,6 +1,7 @@
 ---
 latitude: 49.461944
 longitude: 11.060278
+snippet: Renaissance cemetery where Albrecht Dürer and Veit Stoss are buried
 tags:
 - things_to_do
 - landmark

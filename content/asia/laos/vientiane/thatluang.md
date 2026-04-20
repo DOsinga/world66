@@ -1,6 +1,7 @@
 ---
 latitude: 17.976664
 longitude: 102.63649
+snippet: "Laos's gold-covered national stupa, symbol of the nation"
 tags:
 - things_to_do
 - landmark

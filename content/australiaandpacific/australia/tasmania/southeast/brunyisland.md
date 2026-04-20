@@ -2,7 +2,7 @@
 title: "Bruny Island"
 type: poi
 tags: [things_to_do, island, nature, hiking]
-description: "A wild, sparsely populated island off the Channel coast, split by a narrow isthmus — worth a weekend if you can manage it."
+snippet: "Wild island off Tasmania's Channel coast, split by a narrow isthmus"
 latitude: -43.2899
 longitude: 147.2891
 ---

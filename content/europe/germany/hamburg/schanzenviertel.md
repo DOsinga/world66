@@ -2,6 +2,7 @@
 title: "Schanzenviertel"
 type: poi
 category: Neighbourhood
+snippet: "Alternative quarter with bars, the Rote Flora squat, and May Day demos"
 latitude: 53.5631
 longitude: 9.9628
 ---

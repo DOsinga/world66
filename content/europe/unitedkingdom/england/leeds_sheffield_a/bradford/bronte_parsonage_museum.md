@@ -1,6 +1,7 @@
 ---
 latitude: 53.8314
 longitude: -1.9573
+snippet: Family home of the Brontë sisters, now a museum with manuscripts and moorland views
 tags:
 - things_to_do
 - museum

@@ -1,9 +1,12 @@
 ---
 address: Campo dei Frari, San Polo 3072, 30125 Venice
 admission: €5
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4371
 longitude: 12.3269
 opening_hours: Mon–Sat 09:00–18:00; Sun 13:00–18:00
+snippet: Gothic church with Titian's Assumption and Bellini triptych
 tags:
 - things_to_do
 - church

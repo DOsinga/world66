@@ -1,7 +1,9 @@
 ---
 title: "Torquay Museum"
 type: poi
-category: Museum
+tags:
+  - sights
+snippet: "Devon's oldest museum with Agatha Christie collection"
 latitude: 50.4629
 longitude: -3.5179
 ---

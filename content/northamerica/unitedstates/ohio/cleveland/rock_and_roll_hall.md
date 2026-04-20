@@ -1,7 +1,10 @@
 ---
 address: 751 Erieside Ave
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.508518
 longitude: -81.695617
+snippet: Massive rock memorabilia collection in an I.M. Pei landmark
 tags:
 - things_to_do
 title: Rock and Roll Hall of Fame

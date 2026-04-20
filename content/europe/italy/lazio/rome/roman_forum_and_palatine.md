@@ -4,12 +4,10 @@ admission: Covered by Colosseum combined ticket (€16)
 latitude: 41.892464
 longitude: 12.485325
 opening_hours: Daily from 9:00am, closing time varies by season
+snippet: 'Ancient heart of Rome: temples, arches, and imperial palaces'
 tags:
 - things_to_do
-- church
-- palace
-- market
-- monument
+- sight
 title: Roman Forum and Palatine Hill
 type: poi
 ---

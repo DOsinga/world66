@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 2.446
 longitude: -76.6107
+snippet: Pre-Columbian earth mound with panoramic views over Popayan.
 tags:
 - things_to_do
 - landmark

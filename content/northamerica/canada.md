@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: canada.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Traveler100" title="User:Traveler100">Traveler100</a>
 image_license: CC BY-SA 4.0

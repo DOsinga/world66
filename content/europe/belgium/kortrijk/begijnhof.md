@@ -1,7 +1,10 @@
 ---
 title: "Begijnhof"
 type: poi
-category: "Sight"
+snippet: "Tranquil 13th-century béguinage, still inhabited by nuns"
+tags:
+- things_to_do
+- sight
 latitude: 50.8264
 longitude: 3.2655
 story: >

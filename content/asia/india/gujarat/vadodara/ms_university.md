@@ -2,6 +2,7 @@
 address: Pratapgunj, Vadodara
 latitude: 22.3193
 longitude: 73.183
+snippet: "Indo-Saracenic campus with once-largest dome in Asia"
 tags:
 - things_to_do
 - architecture

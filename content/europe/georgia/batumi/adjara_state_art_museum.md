@@ -2,6 +2,7 @@
 address: 8 Z. Gorgiladze Street, Batumi
 latitude: 41.6464
 longitude: 41.6375
+snippet: "Pirosmani and other Georgian masters by the Black Sea"
 phone: +995 222 73894
 tags:
 - things_to_do

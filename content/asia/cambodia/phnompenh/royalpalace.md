@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Royal Palace and Silver Pagoda
 type: poi
+snippet: Cambodia's royal compound with a floor of 5,000 silver tiles
 ---
 
 The Royal Palace complex dates from 1866 and remains the official residence of the King of Cambodia. The Throne Hall, with its soaring spire and elaborate murals, is the centrepiece. Most of the palace grounds are open to visitors, though the royal residence itself is off limits.

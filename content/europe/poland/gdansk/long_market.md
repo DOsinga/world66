@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 54.3484
 longitude: 18.6528
+snippet: Gdansk's grand pedestrian centrepiece, rebuilt perfectly after wartime destruction
 tags:
 - things_to_do
 - landmark

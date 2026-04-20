@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -42.774
 longitude: 147.624
+snippet: Ramsar-listed wetland for migratory shorebird watching
 tags:
 - things_to_do
 title: Orielton Lagoon

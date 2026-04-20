@@ -1,7 +1,10 @@
 ---
 title: "Staatliche Kunsthalle"
 type: poi
-tags: [things_to_do]
+snippet: "Major art gallery with Grünewald's striking Crucifixion"
+tags:
+  - things_to_do
+  - museum
 latitude: 49.0079
 longitude: 8.3964
 ---

@@ -1,8 +1,12 @@
 ---
 address: 2712 N.W. 10th Street, just off May Avenue
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.481
 longitude: -97.524
 phone: (405) 942-4744
+snippet: Pop culture collectibles shop crammed with character items and advertising
+  memorabilia
 tags:
 - shopping
 title: Pack Rats

@@ -4,6 +4,7 @@ admission: €16 standard, €2 reduced (EU 18–25), free under 18
 latitude: 43.7769
 longitude: 11.2587
 opening_hours: Tue–Sun 08:15–18:50; closed Mon
+snippet: Home to Michelangelo's original David
 tags:
 - 3 Days in Florence
 - things_to_do

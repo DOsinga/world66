@@ -1,7 +1,10 @@
 ---
 admission: Free
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8989
 longitude: 12.473
+snippet: Rome's grandest Baroque square on an ancient stadium
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

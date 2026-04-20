@@ -1,6 +1,7 @@
 ---
 latitude: 45.3371
 longitude: 14.306
+snippet: "Traditional Kvarner cooking — grilled fish and brodet at honest prices"
 tags:
 - eating_out
 title: Konoba Opatija

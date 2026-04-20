@@ -3,6 +3,7 @@ address: The Quays, Trafford Wharf Road, Manchester M17 1TZ
 latitude: 53.4697
 longitude: -2.2984
 phone: 0161 836 4000
+snippet: Libeskind-designed war museum with immersive projections on the Quays
 tags:
 - things_to_do
 - museum

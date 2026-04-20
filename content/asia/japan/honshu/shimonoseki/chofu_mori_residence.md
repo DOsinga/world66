@@ -1,6 +1,7 @@
 ---
 latitude: 33.9961
 longitude: 130.9891
+snippet: Meiji-era villa of the Mori clan with formal Japanese garden
 tags:
 - things_to_do
 - architecture

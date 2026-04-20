@@ -1,6 +1,7 @@
 ---
 latitude: 55.9475
 longitude: -3.195556
+snippet: Historic cobbled square with pubs beneath Edinburgh Castle
 tags:
 - things_to_do
 - palace

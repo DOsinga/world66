@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.8929
 longitude: 73.3794
+snippet: Ridge-top viewpoint with chairlift and valley panoramas
 tags:
 - things_to_do
 - landmark

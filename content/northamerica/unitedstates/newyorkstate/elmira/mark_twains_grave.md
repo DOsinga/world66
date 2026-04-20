@@ -1,13 +1,15 @@
 ---
-title: "Mark Twain's Grave"
-type: poi
+address: Woodlawn Cemetery, 1200 Walnut Street, Elmira, NY 14905
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.1063
 longitude: -76.8259
-address: "Woodlawn Cemetery, 1200 Walnut Street, Elmira, NY 14905"
-snippet: "Simple headstone of America's greatest humorist"
+snippet: Simple headstone of America's greatest humorist
 tags:
 - things_to_do
 - sight
+title: Mark Twain's Grave
+type: poi
 ---
 
 Mark Twain is buried in the Langdon family plot at Woodlawn Cemetery on the north side of Elmira. The grave is modest -- a simple headstone among the family markers, with no particular fanfare. His wife Olivia, all four of his children, and his only grandchild are also buried here. The cemetery is open during daylight hours.

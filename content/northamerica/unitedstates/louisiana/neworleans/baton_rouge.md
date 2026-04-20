@@ -1,36 +1,15 @@
 ---
-address: Baton Rouge Area Chamber of Commerce, 564 Laurel Street, Baton Rouge LA,
-  70801
-email: info@brac.org
-phone: 225-381-7125
+latitude: 30.4494
+longitude: -91.187
+snippet: Louisiana's capital, 80 miles upriver from New Orleans
 tags:
 - day_trips
 title: Baton Rouge
 type: poi
-url: www.brac.org
 ---
 
-If you can manage it, please do visit the State Capitol -- Baton Rouge, during your visit to New Orleans. Located roughly 80 miles northwest of New Orleans, Baton Rouge features beautiful state capitol grounds and an educational planetarium to explore, the Louisiana State Museum, the *USS Kidd*, the Old State Capitol, the Shaw Center for the Arts, Rural Life Museum and Windrush Gardens, and much more. If you're planning an overnight visit, the Marriot Baton Rouge (www.marriott.com) and Embassy Suites (www.embassysuites.com) are excellent places to stay.
+Baton Rouge is an easy day trip from New Orleans, about 80 miles northwest on I-10. The drive takes around 90 minutes each way.
 
-The Louisiana State Museum: 600 N. Fourth Street, Baton Rouge LA, 800-568-6968.
+The main draw is the **New State Capitol**, a 34-storey Art Deco tower completed in 1932 under Governor Huey Long — the tallest state capitol building in the US. Long was assassinated inside the building in 1935, and the bullet holes are still visible in the marble walls. The observation deck on the 27th floor offers views over the Mississippi. Nearby, the **Old State Capitol** is a Gothic Revival castle on the river bluff that Mark Twain once called a "monstrosity"; it now houses a museum of Louisiana political history.
 
-The *USS Kidd: www.usskidd.com*
-
-Old State Capitol: www.sec.state.la.us/osc
-
-Shaw Center for the Arts: www.shawcenter.org
-
-Rural Life Museum and Windrush Gardens: 4650 Essen Lane, Baton Rouge LA, 225-465-2437
-
-**Contributors**
-June 07, 2008
-
-
-
-tel: 225-381-7125
-
-url: [www.brac.org](http://www.brac.org)
-
-address: Baton Rouge Area Chamber of Commerce, 564 Laurel Street, Baton Rouge LA, 70801
-
-email: info@brac.org
+The *USS Kidd*, a World War II Fletcher-class destroyer, is permanently moored on the riverfront and open for tours. The **Rural Life Museum** on the outskirts of town re-creates plantation-era buildings and rural Louisiana life. If you time it right, the LSU campus is worth a walk — especially on a fall football Saturday, when the tailgating scene is a spectacle in itself.

@@ -2,6 +2,7 @@
 address: Sterkfontein, 50 km NW of Johannesburg
 latitude: -26.0167
 longitude: 27.7333
+snippet: UNESCO fossil caves with 40% of world's hominid finds
 tags:
 - things_to_do
 title: Cradle of Humankind

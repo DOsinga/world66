@@ -1,12 +1,13 @@
 ---
+title: Temple Street Night Market
+type: poi
+snippet: "Kowloon's bustling after-dark market with street food and fortune tellers"
 address: Temple Street, Yau Ma Tei, Kowloon
 latitude: 22.3042
 longitude: 114.1697
 tags:
 - kowloon
 - things_to_do
-title: Temple Street Night Market
-type: poi
 ---
 
 Temple Street comes alive after dark, when vendors set up stalls selling watches, clothing, electronics, and miscellaneous goods along several blocks of the street between Jordan Road and Kansu Street. The market officially opens around 2pm but only becomes worth visiting after sundown, around 7pm, when it fills with noise, light, and crowds.

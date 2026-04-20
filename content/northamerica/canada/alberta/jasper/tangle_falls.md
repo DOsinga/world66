@@ -1,9 +1,11 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.2675
 longitude: -117.2882
+snippet: Roadside cascades on the Icefields Parkway with bighorn sheep
 tags:
-- things_to_do
-- landmark
+- nature
 title: Tangle Falls
 type: poi
 ---

@@ -2,6 +2,7 @@
 title: "St. Pauli"
 type: poi
 category: Neighbourhood
+snippet: "Hamburg's Reeperbahn district, live music, nightlife, Beatles history"
 latitude: 53.5500
 longitude: 9.9633
 ---

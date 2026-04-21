@@ -4,6 +4,7 @@ longitude: 139.703
 tags:
 - things_to_do
 - neighbourhood
+snippet: "Tokyo's neon-drenched entertainment district east of Shinjuku"
 title: Kabukicho
 type: poi
 ---

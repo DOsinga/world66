@@ -1,7 +1,10 @@
 ---
 address: 4 Westmoreland Pl, Pasadena, CA 91103
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 34.1572
 longitude: -118.162
+snippet: Greene and Greene's 1908 masterpiece of American Craftsman design
 tags:
 - things_to_do
 - architecture

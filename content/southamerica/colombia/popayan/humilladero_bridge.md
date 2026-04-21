@@ -1,6 +1,7 @@
 ---
 latitude: 2.4395
 longitude: -76.6089
+snippet: Colonial brick bridge over the Rio Molino
 tags:
 - things_to_do
 - landmark

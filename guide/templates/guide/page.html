@@ -415,12 +415,14 @@
   var walkRoute = {{ walk_route }};
   var walkWaypoints = [{% for wp in walk_waypoints %}{"lat":{% if wp.meta.latitude %}{{ wp.meta.latitude }}{% else %}null{% endif %},"lng":{% if wp.meta.longitude %}{{ wp.meta.longitude }}{% else %}null{% endif %},"title":"{{ wp.title|escapejs }}"}{% if not forloop.last %},{% endif %}{% endfor %}];
   var sideMap = initWalkMap('sidebar-map', walkRoute, walkWaypoints);
+  var fullMarkers = null;
   {% else %}
   var fullMarkers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
   }
+  {% endif %}
 
   // Expand / collapse the sidebar map
   var expandBtn = document.getElementById('sidebar-map-expand');
@@ -430,18 +432,15 @@
       var expanded = mapCard.classList.toggle('sidebar-map-expanded');
       expandBtn.innerHTML = expanded ? '&#x2715;' : '&#x26F6;';
       expandBtn.title     = expanded ? 'Collapse map' : 'Expand map';
-      if (expanded) {
-        var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
-        mapCard.style.top = navH + 'px';
+      var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
+      mapCard.style.top = expanded ? navH + 'px' : '';
+      if (fullMarkers) {
         sideMap._setMarkers(fullMarkers);
       } else {
-        mapCard.style.top = '';
-        sideMap._setMarkers(fullMarkers);
+        sideMap.invalidateSize();
       }
     });
   }
-
-  {% endif %}
 })();
 </script>
 {% endblock %}

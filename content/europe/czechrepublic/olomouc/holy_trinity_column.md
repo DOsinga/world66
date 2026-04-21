@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 49.5937
 longitude: 17.251
-snippet: "UNESCO-listed Baroque column, largest in Central Europe"
+snippet: UNESCO-listed Baroque column, largest in Central Europe
 tags:
 - things_to_do
 - sight

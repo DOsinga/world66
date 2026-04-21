@@ -2,6 +2,7 @@
 address: 3-16-4 Shinjuku
 latitude: 35.6924
 longitude: 139.7063
+snippet: Legendary basement jazz venue running since 1966
 tags:
 - bars_and_cafes
 title: Pit Inn

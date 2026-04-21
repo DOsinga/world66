@@ -2,6 +2,7 @@
 address: Via degli Uffici del Vicario, 40
 latitude: 41.9003
 longitude: 12.4786
+snippet: Grand old-school gelateria near the Pantheon
 tags:
 - eating_out
 - restaurant

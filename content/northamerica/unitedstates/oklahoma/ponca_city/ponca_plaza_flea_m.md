@@ -1,6 +1,7 @@
 ---
 title: 'Ponca Plaza Flea Market'
 type: poi
+snippet: Sunday outdoor flea market running spring through fall
 tags:
   - shopping
   - market

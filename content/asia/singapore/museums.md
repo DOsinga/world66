@@ -1,6 +1,6 @@
 ---
 done:
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 title: Museums
 type: section
 ---

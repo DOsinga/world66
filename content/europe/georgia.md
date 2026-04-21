@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: georgia.jpg
 image_attribution: Lodian
 image_license: CC BY 2.0

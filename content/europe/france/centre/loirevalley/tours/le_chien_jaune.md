@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Le Chien Jaune
 type: poi
+snippet: "Informal bistro on rue Colbert good for easy lunches"
 ---
 
 Named after the Georges Simenon novel, a popular and informal place on rue Colbert with good atmosphere. Works well for an easy lunch or a relaxed dinner without a reservation.

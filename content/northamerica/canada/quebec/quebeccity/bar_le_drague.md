@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Bar Le Drague
 type: poi
+snippet: "Québec City's main LGBTQ+ bar with multi-level layout"
 url: www.ledrague.com
 ---
 

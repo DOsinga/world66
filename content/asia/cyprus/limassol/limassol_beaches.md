@@ -1,22 +1,14 @@
 ---
-email: phivos.ioannides@natureofcyprus.org
 tags:
 - beaches
-title: Limassol beaches - Pentakomo to Pissouri
+- things_to_do
+title: Limassol Beaches
 type: poi
+latitude: 34.6833
+longitude: 33.0500
+snippet: "Long coast with calm city beaches and wilder western coves"
 ---
 
-I would divide Limassol beaches into 2 groups. Those closer to the city, which invariably have wave breakers, and are well organised, and those further away, which are relatively untouched and may have more interest for those of use looking for a more natural environment and variety.
+Limassol's beach options split naturally into two zones. Close to the city, the beaches have wave breakers, organized facilities, and sun lounger rentals. Further out, particularly toward Pissouri to the west and along the road toward Pentakomo to the east, the coast gets quieter and more varied.
 
-In the east you will see beaches with dark sand and white rock formations, while in the (far) west you will see rougher seas, some of them even dangerous, pebble or pebble with sand and cliffs. A number of these beaches have few visitors even during the hottest summer days. Lady's mile closer to the west of Limassol is a relatively undeveloped long sandy stretch, just opposite the salt lake of Akrotiri, which is very important for migrating birds.
-
-For indepth info on Limassol beaches, as well as other nature related attractions near Limassol (eg walking trails, wetlands and dams) you can explore www.natureofcyprus.org .
-
-**Contributors**
-May 01, 2008
-
-
-
-
-
-email: phivos.ioannides@natureofcyprus.org
+Eastern beaches show dark sand against white limestone formations. The far west brings rougher seas, pebble shores, and dramatic cliffs — some spots see barely anyone even in August. Lady's Mile, just west of the city opposite the Akrotiri salt lake, is a long, relatively undeveloped sandy stretch popular with windsurfers and good for birdwatching during migration season.

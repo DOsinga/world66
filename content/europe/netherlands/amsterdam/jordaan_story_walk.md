@@ -1,6 +1,8 @@
 ---
 title: "The Jordaan Stories Walk"
 type: walk
+story: >
+  Rembrandt van Rijn spent the last eleven years of his life at Rozengracht 184, after bankruptcy forced the sale of his grand house on the Jodenbreestraat. His partner Hendrickje Stoffels died here in 1663. His son Titus died here in 1668. A year later, Rembrandt died here too, at 63, with 50 items left to his name and 26 unfinished paintings. He was buried in a rented pauper's grave at the Westerkerk — visible from his front door. No one knows exactly where.
 tags:
   - city_walks
 latitude: 52.372654

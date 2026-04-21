@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: amsterdam.jpg
 image_attribution: Patrick Nouhailler's…
 image_license: CC BY-SA 3.0

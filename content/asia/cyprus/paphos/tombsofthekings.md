@@ -4,6 +4,7 @@ longitude: 32.405035
 tags:
 - things_to_do
 - landmark
+snippet: "Monumental Ptolemaic rock-cut tombs, UNESCO-listed"
 title: Tombs of the Kings
 type: poi
 ---

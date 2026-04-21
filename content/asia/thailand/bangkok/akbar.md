@@ -3,10 +3,10 @@ address: 1/4 Soi 3 Nana Nua, Sukhumvit Road
 latitude: 13.7448
 longitude: 100.5539
 phone: 255-6935
+snippet: "Long-running North Indian restaurant on Sukhumvit"
 tags:
 - eating_out
 - restaurant
-- bar
 title: Akbar
 type: poi
 ---

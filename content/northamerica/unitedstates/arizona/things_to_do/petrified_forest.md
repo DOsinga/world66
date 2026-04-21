@@ -2,6 +2,7 @@
 title: "Petrified Forest National Park"
 type: poi
 category: "Sight"
+snippet: "225-million-year-old logs turned to colorful crystal"
 latitude: 34.9828
 longitude: -109.7785
 ---

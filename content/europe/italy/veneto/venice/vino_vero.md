@@ -1,8 +1,11 @@
 ---
 address: Fondamenta della Misericordia 2497, Cannaregio, 30121 Venice
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.444
 longitude: 12.3331
 opening_hours: Mon–Sat 17:00–23:30; closed Sun
+snippet: Natural-wine bar with cicchetti on the Cannaregio canal
 tags:
 - One Day in Venice
 - bars_and_cafes

@@ -12,6 +12,11 @@ longitude: 134.755
 score: 0.55
 title: Australia
 type: location
+quick_facts:
+  Population: "27 million"
+  Born Overseas: "30%"
+  Great Barrier Reef Length: "2,300 km"
+  Indigenous Culture: "65,000+ years old"
 ---
 
 Australia is the world's sixth-largest country and its only continent-nation — a place of extreme distances, extraordinary wildlife, and a culture that is at once deeply relaxed and quietly competitive. Most of it is empty. The population of 27 million clusters along the coastline, particularly the southeast, leaving vast interior regions to red desert, salt flats, and the occasional outback town.

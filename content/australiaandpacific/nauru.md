@@ -10,6 +10,11 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Zaher</a> from Melbourne, Australia
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "11,000"
+  Area: "21 km² — world's 3rd smallest country"
+  Interior Landscape: Moonscape from phosphate mining
+  Tourists Per Year: A few hundred
 score: 0.36
 ---
 

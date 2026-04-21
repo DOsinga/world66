@@ -3,6 +3,11 @@ latitude: 13.7942
 longitude: -88.8965
 title: El Salvador
 type: location
+quick_facts:
+  Population: "6.3 million"
+  Currency: US dollar (adopted 2001)
+  Smallest Central American Country: "21,041 km²"
+  Volcanoes: "23, including several active ones"
 score: 0.36
 ---
 

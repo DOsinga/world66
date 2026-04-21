@@ -9,6 +9,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Kokoda_airstrip_2008.jpg
 latitude: -6.314993
 longitude: 143.95555
+quick_facts:
+  Population: "10 million"
+  English: "Official language (plus Tok Pisin)"
+  Languages Spoken: "Over 800"
+  Highland Contact: "Some communities first contacted in the 1930s"
 score: 0.43
 title: Papua New Guinea
 type: location

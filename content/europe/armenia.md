@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Khor_Virap_Monastery_and_Mount_Ararat,_Armenia.jpg
 latitude: 40.769627
 longitude: 44.673665
+quick_facts:
+  Population: "2.8 million"
+  Religion: "97% Armenian Apostolic Christian"
+  First Christian Nation: "Adopted in 301 AD"
+  Chess: "Compulsory school subject since 2011"
 score: 0.41
 title: Armenia
 type: location

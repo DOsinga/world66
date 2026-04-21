@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Ngorongoro_2012_05_29_2253
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/10299779@N03">Harvey
   Barrison</a> from Massapequa, NY, USA
+quick_facts:
+  Population: "65 million"
+  Budget Safari: "$70+/day in park fees alone"
+  Kilimanjaro: "Africa's highest peak, 5,895 m"
+  Wildebeest Migration: "1.5 million"
 done:
   country_cleanup: 2026-03-31
 score: 0.46

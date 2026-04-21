@@ -3,6 +3,11 @@ title: Mexico
 type: location
 latitude: 23.6345
 longitude: -102.5528
+quick_facts:
+  Population: "129 million"
+  Spanish: "Essential outside tourist zones"
+  UNESCO World Heritage Sites: "35 — most in the Americas"
+  Cenotes in the Yucatan: "~6,000 natural sinkholes"
 done:
   country_cleanup: 2026-03-29
 score: 0.36

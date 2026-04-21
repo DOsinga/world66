@@ -30,4 +30,10 @@ The four facts should be a mix of practical and surprising:
 
 For the Netherlands, "Below Sea Level: 26%" and "Bicycles: 23 million" say more about the country than any generic statistic could. Every location has something like this — a ratio, a record, a quirk of geography or culture that captures its character in a single number.
 
-Avoid generic or forgettable facts. "Area: 41,543 km²" tells you nothing interesting. "Below Sea Level: 26%" tells you everything.
+## How to write them
+
+Each fact must read as a complete, self-contained statement when you see the label and value together. The label is the subject, the value is the fact. Bad: `Largest Landlocked: in the world` (not a fact by itself). Good: `Largest Landlocked Country: Yes` or better, pick a different fact entirely like `Area: 9× the size of UK`.
+
+Similarly, avoid values that require context to understand. Bad: `Issyk-Kul: 2nd largest alpine lake` (the label is just a name — meaningless to someone who hasn't been there). Good: `Alpine Lake Issyk-Kul: Never freezes` (now both label and value tell you something).
+
+Avoid generic or forgettable facts. "Area: 41,543 km²" tells you nothing interesting. "Below Sea Level: 26%" tells you everything. "Official Language: Portuguese" is equally flat — every country has an official language. Pick something that makes the place *different*.

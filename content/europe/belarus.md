@@ -8,6 +8,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Miensk_-_Plac_Niezaležnaści.jpg
 latitude: 53.425061
 longitude: 27.697136
+quick_facts:
+  Population: "9.2 million"
+  Visa: "30-day visa-free via Minsk airport"
+  Forest Cover: "40% of the country"
+  Białowieża Forest: "Last primeval lowland forest in Europe"
 score: 0.33
 title: Belarus
 type: location

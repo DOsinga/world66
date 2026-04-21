@@ -1,0 +1,205 @@
+africa/algeria: {"Population": "45 million", "Language": "Arabic & French", "Sahara Coverage": "80%", "Roman Ruins": "7 UNESCO sites"}
+africa/angola: {"Population": "36 million", "Cost Level": "Very expensive", "Coastline": "1,650 km", "Oil Producer": "2nd in Africa"}
+africa/benin: {"Population": "13.7 million", "Language": "French essential", "Birthplace of Voodoo": "West African origin", "Ethnic Groups": "42"}
+africa/botswana: {"Population": "2.6 million", "Cost Level": "High-value, high-cost safaris", "Kalahari Coverage": "70%", "Elephants": "130,000"}
+africa/burkinafaso: {"Population": "23 million", "Language": "French essential", "Meaning of Name": "Land of Upright People", "FESPACO": "Africa's largest film festival"}
+africa/burundi: {"Population": "13 million", "Languages": "French & Kirundi", "Nile Source Claim": "Southernmost", "Drumming Tradition": "UNESCO heritage"}
+africa/cameroon: {"Population": "28 million", "Languages": "French and English", "Nicknamed": "Africa in miniature", "Mount Cameroon": "Only active volcano in West Africa"}
+africa/capeverde: {"Population": "600,000", "Language": "Portuguese (Creole spoken)", "Islands": "10", "Diaspora": "Larger than population"}
+africa/chad: {"Population": "18 million", "Languages": "100+", "Highest Saharan Peak": "Emi Koussi, 3,445 m", "Lake Chad": "Shrunk 90% since 1960s"}
+africa/comoros: {"Population": "900,000", "Religion": "98% Sunni Muslim", "Coups Since 1975": "20+", "Known As": "The Perfume Islands"}
+africa/congokinshasa: {"Population": "105 million", "Language": "French", "Congo River": "Deepest in the world", "Land Area": "Larger than all of Western Europe combined"}
+africa/djibouti: {"Population": "1 million", "Languages": "French & Arabic", "Lake Assal": "155 m below sea level", "Foreign Military Bases": "6"}
+africa/egypt: {"Population": "105 million", "Currency": "Egyptian Pound", "Pyramids Age": "4,500+ years", "Nile Dependency": "95% live along it"}
+africa/eritrea: {"Population": "3.6 million", "Access": "Travel permits required outside Asmara", "Asmara": "UNESCO Art Deco capital", "Dahlak Islands": "200+"}
+africa/ethiopia: {"Population": "126 million", "Calendar": "13 months", "Never Colonized": "Only country in Africa", "Coffee Origin": "Born here"}
+africa/gabon: {"Population": "2.4 million", "Language": "French", "Rainforest Cover": "88%", "National Parks": "13"}
+africa/gambia: {"Population": "2.7 million", "Language": "English (rare in West Africa)", "Bird Species": "540+", "Width at Widest": "48 km"}
+africa/ghana: {"Population": "34 million", "Language": "English widely spoken", "Cocoa Production": "2nd globally", "Lake Volta": "largest man-made lake by area"}
+africa/guineabissau: {"Population": "2.1 million", "Language": "Portuguese (Creole spoken)", "Bijagos Islands": "88 islands", "Top Export": "Cashew nuts (90% of exports)"}
+africa/guineeconakry: {"Population": "14 million", "Language": "French", "Bauxite Reserves": "largest in the world", "Source of Niger River": "Fouta Djallon highlands"}
+africa/ivorycoast: {"Population": "29 million", "Language": "French", "Cocoa Production": "1st globally", "Basilica of Yamoussoukro": "larger than St Peter's"}
+africa/kenya: {"Population": "56 million", "Languages": "English & Swahili", "Ethnic Groups": "40+", "Great Rift Valley": "runs the full length of the country"}
+africa/lesotho: {"Population": "2.3 million", "Currency": "Loti (pegged to South African Rand)", "Lowest Point": "1,400 m \u2014 highest of any country"}
+africa/liberia: {"Capital": "Monrovia", "Currency": "Liberian Dollar (USD widely used)", "Founded": "1822 by freed American slaves", "First African Republic": "independence in 1847"}
+africa/libya: {"Population": "7 million", "Access": "Visa extremely difficult to obtain", "Desert Coverage": "90% Sahara", "Coastline": "1,770 km on the Mediterranean"}
+africa/madagascar: {"Population": "30 million", "Language": "French & Malagasy", "Endemic Wildlife": "90% found nowhere else", "Lemur Species": "100+"}
+africa/malawi: {"Population": "20 million", "Language": "English widely spoken", "Lake Malawi": "20% of the country's area", "Fish Species in Lake": "1,000+ (most endemic)"}
+africa/mali: {"Population": "23 million", "Language": "French", "Size": "twice the size of France", "Great Mosque of Djenn\u00e9": "largest mud-brick building in the world"}
+africa/mauritania: {"Population": "4.9 million", "Religion": "99% Muslim", "Sahara Coverage": "90%", "Slavery Criminalised": "2007"}
+africa/mauritius: {"Population": "1.3 million", "Drives On": "Left", "Languages Spoken": "3 (English, French, Creole)", "Dodo": "endemic, extinct since 1681"}
+africa/morocco: {"Population": "37 million", "Currency": "Moroccan dirham (MAD)", "Imperial Cities": "4", "Distance to Europe": "14 km"}
+africa/mozambique: {"Population": "33 million", "Language": "Portuguese", "Coastline": "2,470 km", "Bazaruto Archipelago": "Africa's largest marine park"}
+africa/namibia: {"Population": "2.6 million", "Drives On": "Left", "Cheetahs": "Largest population on Earth", "Population Density": "3 people per km\u00b2"}
+africa/niger: {"Population": "27 million", "Language": "French (official)", "Sahara Coverage": "80% of territory", "Median Age": "15 years"}
+africa/nigeria: {"Population": "220 million", "Language": "English (lingua franca)", "Languages": "500+", "Nollywood Films per Year": "~2,500"}
+africa/reunion: {"Population": "900,000", "Currency": "Euro (EUR)", "Highest Peak": "3,071 m (Piton des Neiges)", "Active Volcano": "Piton de la Fournaise"}
+africa/rwanda: {"Population": "14 million", "Languages": "English, French & Kinyarwanda", "Women in Parliament": "61%", "Gorilla Permit": "$1,500"}
+africa/senegal: {"Population": "18 million", "Language": "French (Wolof widely spoken)", "Westernmost Point": "Cap Vert peninsula", "Military Coups": "0"}
+africa/seychelles: {"Population": "100,000", "Languages": "English, French & Creole", "Islands": "115", "Origin": "Granitic (unique worldwide)"}
+africa/sierraleone: {"Population": "8.6 million", "Language": "English (Krio widely spoken)", "Capital Founded": "1792 (by freed slaves)", "Rainy Season Rainfall": "~3,000 mm"}
+africa/somalia: {"Population": "18 million", "Access": "Do not travel (all advisories)", "Coastline": "3,025 km (longest in Africa)", "One Language": "Somali (rare in Africa)"}
+africa/somaliland: {"Population": "4.5 million", "Visa": "On arrival for most nationalities", "International Recognition": "0 countries", "Cave Paintings at Laas Geel": "~5,000 years old"}
+africa/southafrica: {"Population": "62 million", "Currency": "Rand (ZAR)", "Official Languages": "11", "Capitals": "3"}
+africa/southsudan: {"Population": "11 million", "Independence": "2011 (world's youngest country)", "Paved Roads": "Less than 2%", "White Nile": "Flows through the country north to south"}
+africa/sudan: {"Population": "48 million", "Language": "Arabic", "Pyramids": "~255 (more than Egypt)", "Nile Confluence": "Blue + White Nile meet at Khartoum"}
+africa/swaziland: {"Population": "1.2 million", "Currency": "Lilangeni (= ZAR)", "Absolute Monarchy": "Last in Africa", "Umhlanga Dancers": "40,000+"}
+africa/tanzania: {"Population": "65 million", "Budget Safari": "$70+/day in park fees alone", "Kilimanjaro": "Africa's highest peak, 5,895 m", "Wildebeest Migration": "1.5 million"}
+africa/togo: {"Population": "8.8 million", "Currency": "West African CFA", "East to West": "Only 115 km wide", "Voodoo Birthplace": "Togoville"}
+africa/tunisia: {"Population": "12 million", "Languages": "Arabic & French", "UNESCO Sites": "8", "Star Wars Filmed": "Matmata"}
+africa/uganda: {"Population": "48 million", "English": "Widely spoken", "Mountain Gorillas": "~half the world's", "Source of the Nile": "Jinja"}
+africa/zambia: {"Population": "20 million", "English": "Official language", "Victoria Falls Height": "108 m", "Walking Safari": "Invented here"}
+africa/zimbabwe: {"Capital": "Harare", "Currency": "US Dollar (adopted)", "Great Zimbabwe": "Built ~1100 AD", "Hwange Elephants": "40,000+"}
+asia/afghanistan: {"Population": "42 million", "Languages": "Dari & Pashto", "Hindu Kush": "Reaches 7,708 m \u2014 higher than any peak in Europe or the Americas", "Rumi's Birthplace": "Balkh"}
+asia/bahrain: {"Population": "1.5 million", "Alcohol": "Available (rare for the Gulf)", "Island Nation": "33 islands connected by causeways", "Tree of Life": "400+ years old"}
+asia/bangladesh: {"Population": "170 million", "Drives On": "Left", "Pop. Density": "1,265/km\u00b2", "Cox's Bazar Beach": "120 km long"}
+asia/bhutan: {"Population": "780,000", "Drives On": "Left", "Forest Cover": "71%", "Tourist Fee": "$100/night"}
+asia/brunei: {"Population": "450,000", "Currency": "Brunei Dollar", "Palace Rooms": "1,788", "Alcohol": "Banned"}
+asia/cambodia: {"Population": "17 million", "Currency": "Riel (USD widely used)", "Angkor Temples": "1,000+", "Tonle Sap": "Reverses flow yearly"}
+asia/china: {"Population": "1.4 billion", "Time Zone": "UTC+8 (one zone)", "High-Speed Rail": "45,000 km", "Great Wall Length": "21,196 km"}
+asia/cyprus: {"Population": "1.2 million", "Currency": "Euro (south)", "Divided Since": "1974", "Sunshine Days": "340/year"}
+asia/easttimor: {"Population": "1.3 million", "Currency": "US Dollar", "Coral Reef Species": "1,000+", "Independence": "2002 (youngest in Asia)"}
+asia/india: {"Population": "1.44 billion", "Budget Meal": "~$1-2", "Languages": "22 official", "Railway Network": "68,000 km"}
+asia/indonesia: {"Population": "270 million", "Drives On": "Left", "Islands": "17,000+", "Languages Spoken": "700+"}
+asia/iran: {"Population": "88 million", "Alcohol": "Banned (Islamic republic)", "UNESCO World Heritage Sites": "27 \u2014 3rd most in Asia", "Oil Reserves": "~10% of world"}
+asia/iraq: {"Population": "44 million", "Languages": "Arabic & Kurdish", "Mesopotamia": "Cradle of civilization, 6,000+ years", "Tigris & Euphrates": "Both rivers flow through the country"}
+asia/israel: {"Population": "9.8 million", "Currency": "New Israeli Shekel", "Dead Sea": "430 m below sea level", "Holy Sites": "3 major religions"}
+asia/japan: {"Population": "125 million", "Currency": "Yen", "Islands": "~7,000", "Vending Machines": "5.5 million"}
+asia/jordan: {"Population": "11 million", "Visa": "On arrival for most nationalities", "Dead Sea Elevation": "-430 m", "Petra Age": "2,300+ years"}
+asia/kazakhstan: {"Population": "20 million", "Visa-Free": "Most nationalities, 30 days", "Area": "9\u00d7 the size of the UK", "Baikonur Cosmodrome": "First human spaceflight launched here"}
+asia/kuwait: {"Population": "4.3 million", "Best Months": "Nov\u2013Mar (cool enough to be outside)", "Summer Heat": "50\u00b0C+", "Alcohol": "Completely banned"}
+asia/kyrgyzstan: {"Population": "7 million", "Visa-Free": "60 days for most nationalities", "Above 1,500 m": "90% of the country", "Lake Issyk-Kul": "Never freezes despite the altitude"}
+asia/laos: {"Population": "8 million", "Budget Meal": "~$1-2", "Forest Cover": "~50%", "UXO Contamination": "most bombed country"}
+asia/lebanon: {"Population": "5.5 million", "Languages": "Arabic, French, English", "Skiing to Beach": "Under 1 hour \u2014 mountains meet the Mediterranean", "Byblos": "~7,000 years old"}
+asia/malaysia: {"Population": "34 million", "Drives On": "Left", "Oldest Rainforest": "130 million years", "Street Food Meal": "under $2"}
+asia/maldives: {"Population": "520,000", "Religion": "100% Muslim (alcohol on resort islands only)", "Islands": "1,190", "Highest Point": "~2 metres"}
+asia/mongolia: {"Population": "3.4 million", "Best Season": "Jun\u2013Sep (harsh winters reach -40\u00b0C)", "Horses per Capita": "13 horses per 10 people", "Land Area": "4\u00d7 the size of Germany, 99% empty"}
+asia/myanmar: {"Population": "55 million", "Currency": "Kyat (cash only)", "Buddhist Pagodas": "Over 10,000 in Bagan alone", "Driving Side": "Right (switched from left in 1970)"}
+asia/nepal: {"Population": "30 million", "Best Trekking": "Oct\u2013Nov (clear skies, dry trails)", "Peaks Over 8,000m": "8 of the world's 14", "Elevation Range": "60m to 8,849m"}
+asia/northkorea: {"Population": "26 million", "Currency": "Won (unusable by tourists)", "Domestic Internet": "Fewer than 30 websites on a closed intranet", "Independent Travel": "Not permitted \u2014 government guides mandatory"}
+asia/oman: {"Population": "4.6 million", "Visa": "On arrival for most nationalities", "Frankincense Trade": "Active for 5,000+ years", "Coastline": "3,165 km"}
+asia/pakistan: {"Population": "240 million", "Visa": "e-Visa available for most nationalities", "8,000m Peaks": "5 of the world's 14, including K2", "Karakoram Highway": "World's highest paved international road"}
+asia/papuanewguinea: {"Population": "10 million", "English": "Official language (plus Tok Pisin)", "Languages Spoken": "Over 800", "Highland Contact": "Some communities first contacted in the 1930s"}
+asia/philippines: {"Population": "115 million", "English": "Widely spoken (official language)", "Islands": "7,641", "Text Messages Sent Daily": "Over 400 million (texting capital of the world)"}
+asia/qatar: {"Population": "3 million (only 12% Qatari citizens)", "Alcohol": "Licensed hotels only", "GDP per Capita": "Among the highest in the world", "Country Size": "About the size of Connecticut"}
+asia/saudiarabia: {"Population": "36 million", "Alcohol": "Completely banned", "Tourist Visas": "Only available since 2019", "Empty Quarter": "Largest sand desert on earth"}
+asia/singapore: {"Population": "6 million", "Currency": "Singapore Dollar (SGD)", "Land Area": "730 km\u00b2 (and still growing via reclamation)", "Hawker Centres": "UNESCO-recognised street food culture"}
+asia/southkorea: {"Population": "52 million", "Transit": "World-class metro and KTX high-speed rail", "Internet Speed": "Consistently ranked fastest in the world", "DMZ from Seoul": "Just 50 km"}
+asia/srilanka: {"Population": "22 million", "Drives On": "Left", "Leopard Density at Yala": "Highest of any national park in the world", "Country Size": "About the size of Ireland"}
+asia/syria: {"Population": "23 million (pre-war; millions displaced)", "Travel Advice": "Most governments advise against all travel", "Damascus": "Among the oldest continuously inhabited cities on earth", "Alphabet Origin": "The first alphabet was invented here"}
+asia/taiwan: {"Population": "23.5 million", "Budget Meal": "~$3-5", "Peaks Over 3,000m": "Over 200", "Night Markets": "300+ across the island"}
+asia/tajikistan: {"Population": "10 million", "Visa": "E-visa available for most nationalities", "Mountains Above 3,000m": "93% of the country", "Pamir Highway Elevation": "Up to 4,655m"}
+asia/thailand: {"Population": "72 million", "Budget Meal": "~$1.50 from street vendors", "Buddhist Temples": "Over 40,000", "Street Food Vendors in Bangkok": "About 300,000"}
+asia/turkey: {"Population": "85 million", "Driving Side": "Right", "Continents Spanned": "2 (Europe and Asia)", "Daily Tea Consumption": "Highest per capita in the world"}
+asia/turkmenistan: {"Population": "6.3 million", "Visa": "Letter of invitation required \u2014 no independent travel", "Karakum Desert Coverage": "70% of the country", "Darvaza Gas Crater": "Burning since 1971"}
+asia/uzbekistan: {"Population": "36 million", "Budget Meal": "~$2\u20133", "Silk Road UNESCO Sites": "5", "Aral Sea Shrinkage": "90% lost since 1960"}
+asia/vietnam: {"Population": "100 million", "Budget Meal": "~$1.50 for pho on the street", "Motorbikes Registered": "Over 70 million", "Coastline": "3,400 km"}
+asia/yemen: {"Population": "34 million", "Ancient Name": "Arabia Felix (\"Happy Arabia\")", "Socotra Island": "A third of its plants exist nowhere else", "Tower Houses of Shibam": "Up to 11 stories, built in the 16th century"}
+australiaandpacific/americansamoa: {"Population": "About 49,000", "Currency": "US dollar", "Number of Islands": "7", "National Park Visitors per Year": "Fewer than 30,000"}
+australiaandpacific/antarctica: {"Permanent Population": "0", "Ice Sheet Thickness": "Up to 4 km", "Coldest Recorded Temperature": "-89.2 C", "Visiting Season": "November to March"}
+australiaandpacific/australia: {"Population": "27 million", "Born Overseas": "30%", "Great Barrier Reef Length": "2,300 km", "Indigenous Culture": "65,000+ years old"}
+australiaandpacific/australia/newsouthwales/sydney: {"Population": "5.3 million", "Driving Side": "Left", "Harbour Coastline": "240 km", "Opera House Tiles": "1,056,006"}
+australiaandpacific/bakerisland: {"Permanent Population": "0", "Size": "1.6 km long", "Breeding Seabirds": "Over 1 million", "Public Access": "Prohibited without special permit"}
+australiaandpacific/cookislands: {"Population": "About 17,000", "Currency": "New Zealand dollar", "Ocean-to-Land Ratio": "2 million km\u00b2 of ocean for 237 km\u00b2 of land", "Cook Islanders Abroad": "More live in NZ and Australia than on the islands"}
+australiaandpacific/fiji: {"Population": "930,000", "Number of Islands": "333", "English": "Widely spoken \u2014 one of three official languages", "Greeting": "Bula (said to everyone, everywhere)"}
+australiaandpacific/frenchpolynesia: {"Population": "280,000", "Ocean Area": "Larger than Western Europe", "Number of Islands": "118", "Nuclear Tests Conducted": "193 (1966-1996)"}
+australiaandpacific/guam: {"Population": "170,000", "US Military Land": "27% of the island", "Chamorro Settlement": "3,500+ years", "Closest Major City": "Manila (2,500 km)"}
+australiaandpacific/kiribati: {"Population": "120,000", "Currency": "Australian Dollar", "Time Zones Spanned": "3", "Spans All 4 Hemispheres": "Only country to do so"}
+australiaandpacific/marshallislands: {"Population": "38,000", "Currency": "US Dollar", "Nuclear Tests at Bikini Atoll": "67", "Average Elevation": "2 metres above sea level"}
+australiaandpacific/midwayislands: {"Population": "~40 staff and contractors", "Public Access": "Closed since 2013", "Nesting Seabirds Per Year": "3 million", "Oldest Known Wild Bird": "Wisdom the albatross, banded 1956"}
+australiaandpacific/nauru: {"Population": "11,000", "Area": "21 km\u00b2 \u2014 world's 3rd smallest country", "Interior Landscape": "Moonscape from phosphate mining", "Tourists Per Year": "A few hundred"}
+australiaandpacific/newcaledonia: {"Population": "265,000", "Language": "French \u2014 limited English outside resorts", "Coral Lagoon": "UNESCO-listed, one of world's largest", "Nickel Reserves": "~25% of world's known supply"}
+australiaandpacific/newzealand: {"Population": "5 million", "Driving Side": "Left", "Sheep-to-People Ratio": "5 to 1", "First Country to Grant Women the Vote": "1893"}
+australiaandpacific/niue: {"Population": "1,700", "Currency": "New Zealand Dollar", "Ocean Visibility": "Up to 100 metres", "Niueans in New Zealand": "~25,000 \u2014 15\u00d7 the home population"}
+australiaandpacific/norfolkisland: {"Population": "~2,200", "Currency": "Australian Dollar", "Bounty Mutineer Descendants": "Most of the population", "Phone Book": "World's only one listing nicknames"}
+australiaandpacific/palau: {"Population": "18,000", "Currency": "US Dollar", "Rock Islands": "300+ mushroom-shaped limestone islets", "Marine Protected Area": "80% of its ocean territory"}
+australiaandpacific/pitcairnislands: {"Population": "~40", "Nearest Airport": "32 hours away by boat", "Settled By": "Bounty mutineers in 1790", "Alcohol Sold on Island": "None"}
+australiaandpacific/solomonislands: {"Population": "720,000", "English": "Official language \u2014 Pijin widely spoken", "Languages Spoken": "70+", "WWII Wrecks in Iron Bottom Sound": "200+"}
+australiaandpacific/tonga: {"Population": "100,000", "Religion": "Deeply Christian \u2014 everything closes on Sundays", "Never Colonised": "Only Pacific island nation", "Sundays": "Everything closes \u2014 by law"}
+australiaandpacific/tuvalu: {"Population": "11,000", "Currency": "Australian Dollar and Tuvaluan Dollar", "Total Land Area": "26 km\u00b2", "Highest Point": "4.6 metres above sea level"}
+australiaandpacific/vanuatu: {"Population": "320,000", "Drives On": "Left", "Languages": "~140 \u2014 most per capita on Earth", "Land Diving on Pentecost": "The original bungee jumping"}
+australiaandpacific/wakeisland: {"Civilian Population": "0", "Access": "Military only \u2014 no public visits", "Coral Species": "100+", "Battle of Wake Island": "Marines held out 15 days after Pearl Harbor"}
+australiaandpacific/westernsamoa: {"Population": "200,000", "Drives On": "Left", "Date Line Switch": "Jumped forward a whole day in 2011", "Volcanic Islands": "Only 2 of 9 are inhabited"}
+europe/albania: {"Population": "2.8 million", "Budget Meal": "~$3\u20135", "Bunkers": "Over 170,000 built during communist era", "UNESCO Ottoman Towns": "2 \u2014 Berat and Gjirokast\u00ebr"}
+europe/andorra: {"Population": "80,000", "No Income Tax": "One of the few countries in Europe", "Capital Altitude": "1,023 m \u2014 highest capital in Europe", "Heads of State": "2 \u2014 the French President and a Spanish bishop"}
+europe/armenia: {"Population": "2.8 million", "Religion": "97% Armenian Apostolic Christian", "First Christian Nation": "Adopted in 301 AD", "Chess": "Compulsory school subject since 2011"}
+europe/austria: {"Population": "9.1 million", "Currency": "Euro (\u20ac)", "Alpine Coverage": "62% of the country", "Coffee Houses": "Viennese caf\u00e9 culture is UNESCO Intangible Heritage"}
+europe/azerbaijan: {"Population": "10.2 million", "Religion": "~97% Muslim, but alcohol is widely available", "Mud Volcanoes": "More than any other country \u2014 about 350", "Land of Fire": "Natural gas flames have burned for millennia at Yanar Dag"}
+europe/belarus: {"Population": "9.2 million", "Visa": "30-day visa-free via Minsk airport", "Forest Cover": "40% of the country", "Bia\u0142owie\u017ca Forest": "Last primeval lowland forest in Europe"}
+europe/belgium: {"Population": "11.7 million", "Currency": "Euro (\u20ac)", "Beer Varieties": "Over 1,500 distinct beers", "Official Languages": "3 \u2014 Dutch, French, and German"}
+europe/bulgaria: {"Population": "6.5 million", "Currency": "Euro (\u20ac, adopted Jan 2026)", "Rose Oil": "Produces 85% of the world's supply", "Yoghurt": "Contains a unique bacteria named after the country"}
+europe/channelislands: {"Population": "175,000", "Distance to France": "Just 14 miles", "Sark": "No cars allowed \u2014 last feudal state in Europe until 2008", "Status": "British Crown dependencies, not part of the UK"}
+europe/croatia: {"Population": "3.9 million", "Currency": "Euro (\u20ac, adopted 2023)", "Islands": "Over 1,200 \u2014 only 48 inhabited", "Coastline": "1,777 km along the Adriatic"}
+europe/czechrepublic: {"Population": "10.9 million", "Budget Beer": "~$2 for a half-litre in a pub", "Beer Consumption": "Highest per capita in the world", "Castles": "Over 2,000 \u2014 more per square km than anywhere"}
+europe/denmark: {"Population": "5.9 million", "Cost Level": "Expensive \u2014 coffee costs ~$6", "Inhabited Islands": "About 70 of 400+", "Highest Point": "Just 171 m \u2014 one of the flattest countries on Earth"}
+europe/estonia: {"Population": "1.3 million", "Currency": "Euro (\u20ac)", "Forest Cover": "Over 50% of the country", "E-Residency": "First country to offer digital citizenship to non-residents"}
+europe/faroeislands: {"Population": "54,000", "Islands": "18, all inhabited", "Sheep": "About 70,000 \u2014 outnumber the people", "Tunnels": "Subsea road tunnels connect most islands"}
+europe/finland: {"Population": "5.5 million", "Currency": "Euro (\u20ac)", "Saunas": "3.3 million (1 per household)", "Forest Cover": "73% of land area"}
+europe/france: {"Population": "68 million", "Drives On": "Right", "Cheese Varieties": "Over 1,200 named", "Most-Visited Country": "100 million tourists/year"}
+europe/georgia: {"Population": "3.7 million", "Budget Meal": "~$3\u20135", "Winemaking Tradition": "8,000 years old", "Unique Alphabet": "One of only 14 in the world"}
+europe/germany: {"Population": "84 million", "Currency": "Euro", "Beer Varieties": "~7,000", "Castles": "~25,000"}
+europe/gibraltar: {"Population": "34,000", "Currency": "Gibraltar Pound (\u00a3)", "Total Area": "6.5 km\u00b2 \u2014 smaller than most airports", "Barbary Macaques": "Only wild monkeys in Europe"}
+europe/greece: {"Population": "10.4 million", "Currency": "Euro (\u20ac)", "Islands": "6,000+ (fewer than 200 inhabited)", "Coastline": "Longest in the Mediterranean"}
+europe/hungary: {"Population": "9.6 million", "Budget Meal": "~$5\u20137", "Thermal Springs": "Over 1,000 natural hot springs", "Rubik's Cube": "Invented in Budapest in 1974"}
+europe/iceland: {"Population": "380,000", "Cost Level": "A beer costs ~$12", "Glaciers": "Cover 11% of the country", "No Surnames": "Icelanders use patronymics"}
+europe/ireland: {"Population": "5.1 million", "Currency": "Euro (\u20ac)", "Pubs": "Over 7,000 across the country", "Bog Cover": "17% of land area"}
+europe/isleofman: {"Population": "85,000", "Currency": "Manx Pound (\u00a3)", "Tynwald Parliament": "Founded 979 AD \u2014 still sitting", "TT Race Top Speed": "Over 330 km/h on public roads"}
+europe/italy: {"Population": "59 million", "Currency": "Euro (\u20ac)", "UNESCO Sites": "59 \u2014 most of any country", "Pasta Shapes": "Over 350 named varieties"}
+europe/kosovo: {"Population": "1.8 million", "Currency": "Euro (\u20ac, adopted unilaterally)", "Median Age": "30 \u2014 youngest population in Europe", "Independence": "Declared 2008"}
+europe/latvia: {"Population": "1.8 million", "Currency": "Euro (\u20ac)", "Forest Cover": "Over 50% of land area", "Art Nouveau in Riga": "800+ buildings \u2014 Europe's densest"}
+europe/liechtenstein: {"Population": "40,000", "Currency": "Swiss Franc (CHF)", "Total Area": "160 km\u00b2 \u2014 smaller than Washington D.C.", "Doubly Landlocked": "One of only two countries in the world"}
+europe/lithuania: {"Population": "2.8 million", "Currency": "Euro (\u20ac)", "Hill of Crosses": "Over 250,000 crosses and counting", "Medieval Grand Duchy": "Once stretched from the Baltic to the Black Sea"}
+europe/luxembourg: {"Population": "680,000", "Public Transport": "Free since 2020", "Non-Luxembourgish Residents": "Nearly 50%", "Languages in Daily Use": "3 \u2014 Luxembourgish, French, German"}
+europe/macedonia: {"Population": "2.1 million", "Budget Meal": "~$3\u20134", "Lake Ohrid": "1.4 million years old", "Orthodox Churches": "Over 1,000"}
+europe/malta: {"Population": "516,000", "Currency": "Euro", "Megalithic Temples": "Older than the Pyramids", "Population Density": "1,680 per km\u00b2"}
+europe/moldova: {"Population": "2.6 million", "Cost Level": "Europe's cheapest \u2014 meal ~$3", "Mile\u0219tii Mici Wine Cellar": "200 km of tunnels", "Wine Per Capita": "Among the highest in the world"}
+europe/monaco: {"Population": "38,000", "Currency": "Euro", "Area": "2.1 km\u00b2 \u2014 world's 2nd smallest country", "Millionaires": "1 in 3 residents"}
+europe/montenegro: {"Population": "620,000", "Currency": "Euro (non-EU)", "Tara River Canyon": "1,300 m deep \u2014 Europe's deepest", "Coastline": "294 km with 117 beaches"}
+europe/netherlands: {"Population": "17.9 million", "Capital": "Amsterdam", "Below Sea Level": "26%", "Bicycles": "23 million"}
+europe/norway: {"Population": "5.5 million", "Cost Level": "A beer costs ~$12", "Coastline": "25,000 km including fjords", "Midnight Sun": "Up to 76 days in the north"}
+europe/poland: {"Population": "38 million", "Budget Meal": "~$5\u20137", "Wieliczka Salt Mine": "Carved chapels 135 m underground", "European Bison": "Last wild herd in Bia\u0142owie\u017ca Forest"}
+europe/portugal: {"Population": "10.3 million", "Currency": "Euro", "Cork Production": "50% of world supply", "Oldest Bookshop": "Livraria Bertrand, open since 1732"}
+europe/romania: {"Population": "19 million", "Budget Meal": "~$4\u20136", "Danube Delta": "5,165 km\u00b2 wetland wilderness", "Painted Monasteries": "UNESCO-listed frescoed churches from the 1400s"}
+europe/russia: {"Population": "144 million", "Time Zones": "11", "Lake Baikal": "20% of the world's fresh water", "Trans-Siberian Railway": "9,289 km \u2014 world's longest"}
+europe/sanmarino: {"Population": "33,000", "Founded": "AD 301 \u2014 world's oldest republic", "Area": "61 km\u00b2", "Cars Per Capita": "More cars than people"}
+europe/serbia: {"Population": "6.6 million", "Budget Meal": "~$4\u20135", "Belgrade Fortress": "Besieged by 115 armies", "Rakija": "National spirit, homemade in most households"}
+europe/slovakia: {"Population": "5.4 million", "Currency": "Euro", "Castles Per Capita": "Among the highest in Europe", "Spi\u0161 Castle": "Largest castle complex in Central Europe"}
+europe/slovenia: {"Population": "2.1 million", "Currency": "Euro", "Forest Cover": "60% of the country", "Tap Water Quality": "Constitutional right since 2016"}
+europe/spain: {"Population": "48 million", "Currency": "Euro", "Olive Oil": "World's largest producer", "Dinner Time": "Typically 9\u201310 PM"}
+europe/sweden: {"Population": "10.5 million", "Cost Level": "A beer costs ~$9", "Lakes": "roughly 100,000", "Daylight in Midsummer": "~19 hours in Stockholm"}
+europe/switzerland: {"Population": "8.9 million", "Official Languages": "4 (German, French, Italian, Romansh)", "Rail Tunnels": "Gotthard Base is world's longest at 57 km", "Direct Democracy": "Citizens vote on policy ~4 times a year"}
+europe/ukraine: {"Population": "~37 million (pre-war 44 million)", "Travel Warning": "Active war zone since Feb 2022", "Largest Country Entirely in Europe": "603,550 km\u00b2", "Sunflower Oil Production": "Largest exporter in the world"}
+europe/unitedkingdom: {"Population": "68 million", "Driving Side": "Left", "Pubs": "~40,000 across the country", "Countries Within a Country": "4 (England, Scotland, Wales, N. Ireland)"}
+europe/vaticancity: {"Population": "~800", "Area": "44 hectares (world's smallest state)", "Vatican Museums": "54 galleries, 70,000+ works", "Annual Visitors": "~5 million to the Museums alone"}
+northamerica/bahamas: {"Population": "~410,000", "Currency": "Bahamian dollar (pegged 1:1 to USD)", "Islands and Cays": "~700 islands, only 30 inhabited", "Dean's Blue Hole": "World's deepest at 202 m"}
+northamerica/belize: {"Population": "~430,000", "Currency": "Belize dollar (BZD), pegged 2:1 to USD", "Barrier Reef": "Second longest in the world", "Language": "Only English-speaking country in Central America"}
+northamerica/bermuda: {"Population": "~64,000", "No Rental Cars": "Visitors must use scooters, taxis, or buses", "Shipwrecks": "300+ wrecks in surrounding waters", "Location": "1,070 km east of North Carolina \u2014 not Caribbean"}
+northamerica/canada: {"Population": "40 million", "Currency": "Canadian dollar (CAD)", "Coastline": "Longest in the world at 243,000 km", "Lakes": "More than all other countries combined"}
+northamerica/costarica: {"Population": "5.2 million", "USD Accepted": "Widely accepted alongside local col\u00f3n", "No Army": "Abolished in 1948", "Biodiversity": "~5% of world's species on 0.03% of its land"}
+northamerica/elsalvador: {"Population": "6.3 million", "Currency": "US dollar (adopted 2001)", "Smallest Central American Country": "21,041 km\u00b2", "Volcanoes": "23, including several active ones"}
+northamerica/greenland: {"Population": "~56,000", "Ice Sheet Coverage": "~80% of the island", "World's Largest Island": "836,000 square miles", "Population Density": "0.03 people per km\u00b2 (Earth's lowest)"}
+northamerica/guatemala: {"Population": "17 million", "Currency": "Quetzal (named after the national bird)", "Volcanoes": "37", "Living Maya Languages": "21 still spoken today"}
+northamerica/honduras: {"Population": "10.4 million", "Budget Meal": "~$3\u20134", "Mesoamerican Barrier Reef": "World's second-largest, off the Bay Islands", "Cop\u00e1n Stelae": "Carved Maya portraits unlike any other site"}
+northamerica/jamaica: {"Population": "2.8 million", "Drives On": "Left", "Fastest Sprinters": "Most 100 m world records of any nation", "Blue Mountain Coffee": "Grown above 900 m, among world's priciest"}
+northamerica/mexico: {"Population": "129 million", "Spanish": "Essential outside tourist zones", "UNESCO World Heritage Sites": "35 \u2014 most in the Americas", "Cenotes in the Yucatan": "~6,000 natural sinkholes"}
+northamerica/montserrat: {"Population": "~5,000", "Access": "Fly via Antigua \u2014 no direct international flights", "Capital Plymouth": "Buried by volcano in 1997", "Irish Heritage": "St. Patrick's Day is a public holiday"}
+northamerica/nicaragua: {"Population": "7 million", "Budget Meal": "~$2\u20133", "Isla Ometepe": "Two volcanoes forming one island in a lake", "Cheapest in Central America": "Budget meals under $3"}
+northamerica/panama: {"Population": "4.4 million", "Currency": "US dollar (and balboa)", "Panama Canal": "~14,000 ships per year", "Dari\u00e9n Gap": "Only break in the 30,000 km Pan-American Highway"}
+northamerica/saintlucia: {"Population": "~180,000", "Drives On": "Left", "Nobel Laureates Per Capita": "2 \u2014 highest ratio in the world", "The Pitons": "Twin volcanic peaks rising 770 m from the sea"}
+northamerica/turks__caicos_isl: {"Population": "~46,000", "Cost Level": "Surprisingly expensive \u2014 budget $150+/night", "Islands and Cays": "40 \u2014 only 8 inhabited", "Coral Reef System": "3rd largest in the world"}
+northamerica/unitedstates: {"Population": "335 million", "Time Zones": "6 (continental + Alaska/Hawaii)", "National Parks": "63", "Appalachian Trail": "3,500 km from Georgia to Maine"}
+northamerica/unitedstates/florida: {"Population": "22 million", "Coastline": "1,350 miles", "Natural Springs": "700+", "Lightning Strikes": "Most in the US"}
+southamerica/argentina: {"Population": "46 million", "Blue Dollar": "Parallel exchange rate \u2014 bring USD cash", "Beef Consumption": "~50 kg per person per year", "Highest Peak Outside Asia": "Aconcagua, 6,961 m"}
+southamerica/bolivia: {"Population": "12 million", "Capital La Paz": "Highest capital city at ~3,640 m", "Salar de Uyuni": "World's largest salt flat \u2014 10,582 km\u00b2", "Indigenous Population": "~40% \u2014 highest share in the Americas"}
+southamerica/brazil: {"Population": "215 million", "Language": "Portuguese \u2014 Spanish not understood", "Amazon Rainforest": "60% of it is in Brazil", "Coastline": "7,491 km \u2014 longest in the Atlantic"}
+southamerica/chile: {"Population": "19.5 million", "Climate Span": "Atacama desert to Patagonian glaciers", "Length North to South": "4,300 km \u2014 but only 175 km wide on average", "Atacama Desert": "Driest place on Earth \u2014 some spots with no recorded rain"}
+southamerica/colombia: {"Population": "52 million", "Budget Meal": "~$2\u20134", "Bird Species": "~1,960 \u2014 most of any country", "Bogot\u00e1 Altitude": "2,640 m \u2014 bring a jacket"}
+southamerica/ecuador: {"Population": "18 million", "Currency": "US dollar (since 2000)", "Birds Per km\u00b2": "Most of any country \u2014 over 1,600 species", "Gal\u00e1pagos Islands": "1,000 km offshore \u2014 inspired Darwin's theory"}
+southamerica/falklandislands: {"Population": "~3,400", "Access": "Flights from UK or Chile only", "Penguins": "~1 million \u2014 five species nest here", "Sheep-to-People Ratio": "~170 to 1"}
+southamerica/frenchguiana: {"Population": "~310,000", "Currency": "Euro (part of France)", "Rainforest Cover": "~90% of the territory", "Guiana Space Centre": "Europe's spaceport \u2014 launches Ariane rockets"}
+southamerica/guyana: {"Population": "800,000", "Drives On": "Left", "Language": "Only English-speaking country in South America", "Kaieteur Falls": "5\u00d7 higher than Niagara"}
+southamerica/paraguay: {"Population": "6.8 million", "Budget Meal": "~$2\u20133", "Bilingual Nation": "Spanish and Guaran\u00ed both official", "Largest Hydroelectric Dam": "Itaip\u00fa supplies 86% of electricity"}
+southamerica/peru: {"Population": "34 million", "Altitude Warning": "Cusco is at 3,400 m \u2014 acclimatize", "Potato Varieties": "3,000+ native cultivars", "Nazca Lines": "visible only from the air"}
+southamerica/suriname: {"Population": "620,000", "Language": "Dutch official \u2014 English and Sranan Tongo widely spoken", "Forest Cover": "93% tropical rainforest", "Official Language": "Dutch \u2014 unique in South America"}
+southamerica/uruguay: {"Population": "3.4 million", "Cost Level": "Priciest in South America", "Cattle-to-People Ratio": "4 cows per person", "Renewable Energy": "98% of electricity"}
+southamerica/venezuela: {"Population": "28 million", "Travel Advisory": "Most governments advise against travel", "Angel Falls": "979 m \u2014 world's highest waterfall", "Bird Species": "1,400+ recorded"}

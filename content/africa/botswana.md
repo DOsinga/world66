@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036_.JPG
 image_license: CC BY-SA 2.5
 image_attribution: Winfried Bruenken (<a href="//commons.wikimedia.org/wiki/User:Amrum"
   title="User:Amrum">Amrum</a>)
+quick_facts:
+  Population: "2.6 million"
+  Cost Level: "High-value, high-cost safaris"
+  Kalahari Coverage: "70%"
+  Elephants: "130,000"
 score: 0.59
 ---
 

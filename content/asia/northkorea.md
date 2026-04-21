@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Party_Foundation_Monument_
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="http://www.uritours.com">Uri
   Tours</a>
+quick_facts:
+  Population: "26 million"
+  Currency: Won (unusable by tourists)
+  Domestic Internet: "Fewer than 30 websites on a closed intranet"
+  Independent Travel: "Not permitted — government guides mandatory"
 done:
   country_cleanup: 2026-03-29
 score: 0.19

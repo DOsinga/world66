@@ -1,7 +1,10 @@
 ---
 title: "Mariacka Street"
 type: poi
-tags: [bars_and_cafes, poi]
+snippet: "Katowice's lively pedestrian bar strip with craft beer and terraces"
+tags:
+- things_to_do
+- bars_and_cafes
 latitude: 50.2590
 longitude: 19.0270
 ---

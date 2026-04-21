@@ -1,6 +1,7 @@
 ---
 latitude: 48.5818
 longitude: 7.7507
+snippet: "330 steps to panoramic views over Strasbourg and the Rhine"
 tags:
 - things_to_do
 - landmark

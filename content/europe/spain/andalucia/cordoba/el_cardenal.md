@@ -3,6 +3,7 @@ address: Calle Torrijos 10
 latitude: 37.8783
 longitude: -4.78
 phone: 957 48 31 12
+snippet: Established flamenco tablao in a 16th-century house by the Mezquita
 tags:
 - bars_and_cafes
 title: Tablao Flamenco El Cardenal

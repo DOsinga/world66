@@ -2,6 +2,7 @@
 title: "Deutsches Bergbaumuseum"
 type: poi
 tags: [things_to_do, museum]
+snippet: "World's largest mining museum with real underground demonstration tunnels"
 address: "Am Bergbaumuseum 28, 44791 Bochum"
 opening_hours: "Tue–Fri 08:30–17:00, Sat–Sun 10:00–17:00; closed Monday"
 admission: "Adults €12, concessions €7"

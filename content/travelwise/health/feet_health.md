@@ -1,8 +1,11 @@
 ---
-title: "Feet health"
+snippet: Simple tips for keeping your feet healthy on the road
+title: Feet health
 type: poi
 ---
 
-[TravelWise](/world/travelwise) **>** [Health](/world/travelwise/health) **>** [Feet health](/world/travelwise/health/feet_health)
+Your feet take a beating when you travel — long days of walking on unfamiliar surfaces, cheap shoes, communal showers. A few simple habits help.
 
-Having good healthy feet is essential when travelling. Some ways to assist in maintaining healthy feet are: use rubber flip flops when showering, always fully dry between toes, powder feet and toes, a foot massage is helpful and fun. It is very easy to pick up such things as tinea when travelling but the above tips will help keep feet healthy.
+Wear rubber flip flops in hostel showers and around pool areas to avoid picking up tinea or other fungal infections. After swimming or showering, dry thoroughly between your toes — it takes thirty seconds and prevents most problems. A light dusting of foot powder helps in humid climates.
+
+If you're walking a lot, change socks at midday when you get the chance. Blisters are easier to prevent than to treat: spot hot spots early and cover them with moleskin before they fully form. A foot massage at the end of a heavy day is also genuinely useful, not just indulgent.

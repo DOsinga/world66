@@ -1,7 +1,8 @@
 ---
-title: "Getting There"
-type: section
-type: "By Sea"
+done:
+  poi_cleanup: '2026-04-21'
+title: Getting There
+type: By Sea
 ---
 
 Choose one of the three entirely different crossings to get to the Dutch Wadden Islands

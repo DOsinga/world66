@@ -1,6 +1,7 @@
 ---
 latitude: 47.1376
 longitude: 9.5224
+snippet: National history and a world-class stamp collection
 tags:
 - things_to_do
 - museum

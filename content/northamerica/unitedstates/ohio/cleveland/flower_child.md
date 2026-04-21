@@ -1,5 +1,7 @@
 ---
 address: 11508 Clifton Blvd.
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.487331
 longitude: -81.766596
 phone: (216) 939-9933

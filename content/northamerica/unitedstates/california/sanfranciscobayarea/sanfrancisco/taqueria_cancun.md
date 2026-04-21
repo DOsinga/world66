@@ -1,5 +1,7 @@
 ---
 address: 2288 Mission St
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.7601
 longitude: -122.4191
 phone: (415) 252-9560

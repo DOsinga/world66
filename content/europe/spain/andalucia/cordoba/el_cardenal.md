@@ -1,5 +1,7 @@
 ---
 address: Calle Torrijos 10
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.8783
 longitude: -4.78
 phone: 957 48 31 12

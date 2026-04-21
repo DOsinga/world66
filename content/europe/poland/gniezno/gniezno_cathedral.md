@@ -1,5 +1,7 @@
 ---
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.5368
 longitude: 17.5926
 snippet: Poland's oldest cathedral with stunning 12th-century bronze doors

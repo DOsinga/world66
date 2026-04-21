@@ -1,5 +1,7 @@
 ---
 address: Bonngasse 20, 53111 Bonn
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.7369
 longitude: 7.1013
 phone: +49-228-9817525

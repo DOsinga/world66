@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.182467
 longitude: -3.593773
 snippet: Granada's ancient Moorish quarter facing the Alhambra

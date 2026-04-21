@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 23.43
 longitude: -75.895
 snippet: Beachfront grill on Little Exuma with legendary lobster

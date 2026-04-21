@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.3228
 longitude: 9.3262
 snippet: Birthplace museum of Nobel laureate Grazia Deledda

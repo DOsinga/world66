@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -15.665001
 longitude: -69.710661
 snippet: Remote Titicaca island with traditional homestays and hilltop sunsets

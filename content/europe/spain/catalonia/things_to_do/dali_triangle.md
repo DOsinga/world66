@@ -1,5 +1,7 @@
 ---
 category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.2671
 longitude: 2.9601
 snippet: Three Dalí sites across Catalonia — Figueres, Púbol, and Portlligat

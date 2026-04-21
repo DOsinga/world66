@@ -1,5 +1,7 @@
 ---
 address: 4 Rue des Grands Augustins, 75006 Paris
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.855258
 longitude: 2.34032
 opening_hours: Mon–Fri noon–2:30pm and 7pm–11pm; Sat 7pm–11pm; closed Sun

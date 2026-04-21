@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 4.5975
 longitude: 101.079
 snippet: Historic shophouse district and white coffee heartland

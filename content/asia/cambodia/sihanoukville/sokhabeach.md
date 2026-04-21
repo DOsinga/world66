@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 10.6083
 longitude: 103.5133
 snippet: Wide white-sand crescent with calm swimming water

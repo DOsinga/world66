@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 snippet: Prevention and treatment advice for travelers
 title: Typhoid Fever
 type: article

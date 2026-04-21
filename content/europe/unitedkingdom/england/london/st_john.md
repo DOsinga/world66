@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.5204
 longitude: -0.102
 snippet: Fergus Henderson's iconic nose-to-tail restaurant

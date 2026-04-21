@@ -1,6 +1,8 @@
 ---
 address: 800 2nd Ave NE, St. Petersburg, FL 33701
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 27.7776
 longitude: -82.6258
 opening_hours: Sun–Thu 11:00am–9:00pm, Fri–Sat 11:00am–10:00pm

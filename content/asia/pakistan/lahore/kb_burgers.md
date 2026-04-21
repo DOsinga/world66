@@ -1,5 +1,7 @@
 ---
 address: 6-Pounch Road, Islamia Park, Lahore.
+done:
+  poi_cleanup: '2026-04-20'
 email: kbburgers@gmail.com
 latitude: 31.5204
 longitude: 74.3587

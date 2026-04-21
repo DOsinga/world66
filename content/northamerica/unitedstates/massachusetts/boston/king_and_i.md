@@ -1,5 +1,7 @@
 ---
 address: 145 Charles St.
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.3589
 longitude: -71.0703
 phone: 617-227-3320

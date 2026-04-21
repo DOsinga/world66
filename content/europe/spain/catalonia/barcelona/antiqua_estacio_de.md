@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.3929
 longitude: 2.1866
 snippet: Ornate 1861 rail terminus turned cultural venue

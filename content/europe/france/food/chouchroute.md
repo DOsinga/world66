@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 snippet: Alsatian sauerkraut dish with pork and potatoes
 tags:
 - food

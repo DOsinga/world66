@@ -1,5 +1,7 @@
 ---
 address: Toompea Hill
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 59.4359
 longitude: 24.7378
 snippet: Medieval castle now home to Estonia's parliament

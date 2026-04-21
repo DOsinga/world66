@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -32.8875
 longitude: -68.834
 snippet: Colonial ruins under glass walkways tell Mendoza's earthquake story

@@ -1,5 +1,7 @@
 ---
 address: 5801 Wilshire Boulevard, Los Angeles
+done:
+  poi_cleanup: '2026-04-20'
 email: info@tarpits.org
 latitude: 34.062581
 longitude: -118.355074

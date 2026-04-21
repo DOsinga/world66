@@ -1,5 +1,7 @@
 ---
 address: Piazza Bra, 37121 Verona
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4383
 longitude: 10.9932
 opening_hours: Mon 1:30pm–7:30pm, Tue–Sun 9am–7pm (reduced hours during opera season)

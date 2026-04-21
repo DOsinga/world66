@@ -95,7 +95,7 @@ def location_or_section(request, path):
     _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
     if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
-    body_html = md.markdown(page.body) if page.body else ""
+    body_html = md.markdown(page.body, extensions=["admonition"]) if page.body else ""
     nav_pages, locations, pois = page.children()
 
     # Separate neighbourhood pages from nav pages so they render inline under

@@ -2,6 +2,7 @@
 address: Santa Cruz, Manila
 latitude: 14.6373
 longitude: 120.9828
+snippet: Elaborate tombs with kitchens and air conditioning
 tags:
 - things_to_do
 - landmark

@@ -1,7 +1,10 @@
 ---
 title: "Elbphilharmonie"
 type: poi
-category: Architecture
+snippet: "Hamburg's wave-roofed concert hall atop a harbour warehouse"
+tags:
+- things_to_do
+- architecture
 latitude: 53.5413
 longitude: 9.9842
 ---

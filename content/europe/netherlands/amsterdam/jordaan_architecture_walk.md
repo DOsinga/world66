@@ -1,6 +1,8 @@
 ---
 title: "The Jordaan Architecture Walk"
 type: walk
+story: >
+  Rembrandt was buried in the Westerkerk churchyard in 1669 — in a rented pauper's grave, the exact location now lost. He died three years after bankruptcy had forced the auction of his house, his collection, and his printing press; his inventory at the Westerkerk was a few unpaid studio debts. The tower you start this walk beside, which he painted from the windows of his house on the Jodenbreestraat, is his only monument. No one has ever found his grave.
 tags:
   - city_walks
 latitude: 52.374233

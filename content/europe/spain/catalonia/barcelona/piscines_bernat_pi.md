@@ -1,10 +1,14 @@
 ---
-address: 'Piscines Bernat Picornell: Av. del Estadi 30-40, Montjuic'
-phone: 93-423-40-41
+title: "Piscines Bernat Picornell"
+type: poi
+category: Sport
+snippet: "Olympic swimming complex on Montjuic with city views"
+address: "Av. de l'Estadi 30-40, Montjuic"
+phone: "93-423-40-41"
+latitude: 41.3644
+longitude: 2.1530
 tags:
 - things_to_do
-title: Piscines Bernat Picornell
-type: poi
 ---
 
-If you're looking for plenty of options for swimming during the hot summer months in Barcelona, look no further than Piscines Bernat Picornell. This massive facility offers both indoor and outdoor swimming pools as well as a gym, a sauna, and plenty of fitness equipment to keep you busy. Another excellent (and scenic) complex with a swimming pool is **Club Natacio de Barceloneta**. This complex overlooks the beach. Address: Passeig Joan de Borbo, Ph: 93-221-00-10.
+Barcelona's main public swimming complex, built for the 1992 Olympics and still going strong on the slopes of Montjuic. The facility has both indoor and outdoor pools, a gym, and a sauna. The outdoor pool is the real draw — the views over the city from up here are excellent, especially on a clear day. Open year-round, though the outdoor pool closes in winter.

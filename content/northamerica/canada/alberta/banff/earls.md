@@ -1,11 +1,13 @@
 ---
-latitude: 51.081034
-longitude: -114.00272
+title: "Earl's"
+type: poi
 tags:
 - eating_out
 - restaurant
-title: Earl's .
-type: poi
+address: "SW corner, Banff Ave and Wolf St (upstairs), Banff"
+latitude: 51.1762
+longitude: -115.5708
+snippet: "Canadian chain restaurant with a broad crowd-pleasing menu"
 ---
 
-Fresh certified Angus beef, chicken, fish and vegetable dishes are moderately priced. Earl's "eat a little, eat a lot" philosophy and 50-selection menu satisfies all. Caesar and chicken salads, finger foods, burgers and sandwiches, pastas, fresh BC salmon, prawns, and baked-on-site desserts. Gourmet pizza and tender chicken from a clay-built wood-burning forno oven. Many recipes reflect Thai, North American and Oriental influences. Lunch and dinner, $7-$17. Tel: 1 403 762-4414 Address: SW corner, Banff Ave and Wolf St (upstairs), Banff Alberta T0L 0C0
+A branch of the well-known Canadian casual dining chain, occupying an upstairs spot at the corner of Banff Ave and Wolf Street. The menu is wide-ranging: burgers, pastas, salads, BC salmon, Thai-influenced dishes, and pizza from a wood-burning oven. Portions are generous and prices moderate for Banff. A reliable if unsurprising option when the group can't agree on a cuisine.

@@ -410,12 +410,16 @@
   {% endif %}
 
   {% if is_continent %}
-  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
+  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {% if continent_bounds %}{{ continent_bounds }}{% else %}null{% endif %});
+  {% elif page.page_type == "walk" %}
+  var walkRoute = {{ walk_route }};
+  var walkWaypoints = [{% for wp in walk_waypoints %}{"lat":{% if wp.meta.latitude %}{{ wp.meta.latitude }}{% else %}null{% endif %},"lng":{% if wp.meta.longitude %}{{ wp.meta.longitude }}{% else %}null{% endif %},"title":"{{ wp.title|escapejs }}"}{% if not forloop.last %},{% endif %}{% endfor %}];
+  var sideMap = initWalkMap('sidebar-map', walkRoute, walkWaypoints);
   {% else %}
-  var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  var fullMarkers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
-    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
+    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
   }
 
   // Expand / collapse the sidebar map

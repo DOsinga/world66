@@ -1,6 +1,7 @@
 ---
 latitude: 47.1661
 longitude: 0.2398
+snippet: Medieval old town with tufa-stone houses below the fortress
 tags:
 - things_to_do
 - neighbourhood

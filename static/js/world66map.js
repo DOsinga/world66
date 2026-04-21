@@ -178,10 +178,11 @@ function initLocationMap(elementId, markers, options) {
     var _allMarkers = markers.slice();
 
     function _makeTipHtml(m) {
-        var nameHtml = '<span class="map-tip-name">' + (m.name || '') + '</span>';
-        return m.snippet
-            ? nameHtml + '<div class="map-tip-snippet">' + m.snippet + '</div>'
-            : nameHtml;
+        if (!m.snippet) return m.name || '';
+        return '<div style="white-space:normal;width:260px">'
+            + '<span class="map-tip-name">' + (m.name || '') + '</span>'
+            + '<div class="map-tip-snippet">' + m.snippet + '</div>'
+            + '</div>';
     }
 
     function _addDotMarker(m) {

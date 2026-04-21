@@ -1,9 +1,9 @@
 ---
 title: "Hersheypark"
 type: poi
+snippet: "Chocolate-themed amusement park with dozen-plus roller coasters"
 tags:
   - things_to_do
-  - sight
   - amusement_park
 latitude: 40.2876
 longitude: -76.6582

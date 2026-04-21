@@ -1,6 +1,7 @@
 ---
 latitude: 45.3369
 longitude: 14.3051
+snippet: Bronze statue stolen in 1990, Opatija's enduring symbol
 tags:
 - things_to_do
 - landmark

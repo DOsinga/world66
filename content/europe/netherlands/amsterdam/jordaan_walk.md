@@ -1,6 +1,8 @@
 ---
 title: The Jordaan Walk
 type: walk
+story: >
+  On Westermarkt, three pink granite triangles set into the paving mark the Homomonument — unveiled in 1987, it was the first monument in the world dedicated to LGBTQ+ people persecuted by the Nazis. On 4 May each year, the square fills with people laying flowers here alongside the other war memorials. A few streets further into the Jordaan, a single linden tree planted on 5 May 1945 marks the liberation of Amsterdam. It is easy to walk past both without noticing.
 tags:
   - city_walks
 latitude: 52.3762

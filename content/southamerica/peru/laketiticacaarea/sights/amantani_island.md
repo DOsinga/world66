@@ -1,21 +1,18 @@
 ---
-title: "Amantani Island"
-type: poi
-type: "Hotspots"
 latitude: -15.665001
 longitude: -69.710661
+snippet: Remote Titicaca island with traditional homestays and hilltop sunsets
+tags:
+- things_to_do
+- sights
+title: Amantani Island
+type: poi
 ---
 
-Amantani Island is a beautiful island, more than 3 hours by boat from Puno. Its rather remote location makes it less touristic. The community that lives there maintains traditional agricultural life. It seems like not much has changed during time.
-The island is not very large, so one can hike around it. A hot spot is the highest hilltop on the island. It is both a sacred place, and a great place to see sunsets. The 300 meter elevation from the lake level could be hard if visitors are not acclimitized. Otherwise, it is a very straightforward and smooth path.
+A quiet island on Lake Titicaca, about three hours by boat from Puno. Amantani sees far fewer tourists than nearby Taquile, and the community maintains a traditional agricultural way of life that feels genuinely unchanged.
 
-More interesting, are the locals. As aforementioned, they seem quite authentic. Staying at a local's house is a wonderful experience. They are very hospitable and kind. Their warm welcome broke the language barrier (Also Spanish is not so trivial). A meal consists of local produce such as quinua and various types of corn. When coming on a tour, the family will take vistors to a hall were music is played and one is obliged to dance. Very fun !
+The island is small enough to walk around in a few hours. The highest hilltop is both a sacred site and the best sunset viewpoint on the lake — the 300-metre climb from the water can be tough if you haven't acclimatised to the altitude, but the path is smooth and straightforward.
 
-It can be reached on a tour (more than one day) or independently.
+The real draw is staying overnight with a local family. Homestays are simple but welcoming — expect meals of quinoa, potatoes, and local corn varieties. In the evening your host family will likely take you to a communal hall for music and dancing. Spanish helps but isn't essential; the warmth transcends the language barrier.
 
-**Contributors**
-July 22, 2006
-
-February 15, 2008
-
-type: Hotspots
+You can visit on a multi-day tour from Puno or arrange the boat independently.

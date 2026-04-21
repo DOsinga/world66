@@ -1,6 +1,7 @@
 ---
 latitude: 9.1894
 longitude: 124.7097
+snippet: Volcanic hot spring pools in lush forest above Mambajao
 tags:
 - things_to_do
 - landmark

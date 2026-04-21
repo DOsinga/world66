@@ -1,7 +1,8 @@
 ---
 title: "Mc Neloy's La Cavitena"
 type: poi
-tags: [eating_out, poi]
+tags: [eating_out]
+snippet: "Affordable grilled seafood and barbecue near the Boulevard"
 address: "Silliman Ave., Dumaguete City"
 phone: "0352254502"
 latitude: 9.310203

@@ -1912,6 +1912,17 @@ img { max-width: 100%; height: auto; }
   justify-content: center;
 }
 
+.walk-stop-label {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--red);
+  margin-right: 6px;
+  opacity: 0.75;
+}
+
 .walk-marker {
   background: var(--red);
   color: #fff;

@@ -1,4 +1,5 @@
 import json
+import re
 import sqlite3
 import subprocess
 from pathlib import Path
@@ -130,9 +131,18 @@ def location_or_section(request, path):
         walk_route = page.meta.get("route", [])
         city_path = _find_city_path(page.path)
         if city_path:
+            seen_paths = set()
             for wp_slug in page.meta.get("waypoints", []):
                 wp = load_page(city_path + "/" + wp_slug)
-                if wp:
+                if wp and wp.path not in seen_paths:
+                    seen_paths.add(wp.path)
+                    walk_waypoints.append(wp)
+            # Also include POIs linked in the body text that aren't already waypoints
+            for link_path in re.findall(r'\]\((/[^)]+)\)', page.body or ''):
+                link_path = link_path.strip('/')
+                wp = load_page(link_path)
+                if wp and wp.page_type == 'poi' and wp.path not in seen_paths:
+                    seen_paths.add(wp.path)
                     walk_waypoints.append(wp)
 
     # Map context

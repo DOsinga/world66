@@ -3,6 +3,7 @@ address: 356 West 58th Street
 latitude: 40.768134
 longitude: -73.984347
 phone: 212 554 6000
+snippet: "Theatrical hotel bar near Columbus Circle and Lincoln Center"
 tags:
 - bars_and_cafes
 - bar

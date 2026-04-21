@@ -2,7 +2,7 @@
 done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-10'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: france.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Benh" title="User:Benh">Benh
   LIEU SONG</a>

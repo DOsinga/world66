@@ -2,6 +2,7 @@
 address: 2226 Highland Avenue South, Birmingham, AL 35205
 latitude: 33.4997
 longitude: -86.789
+snippet: Reliable Indian restaurant with standout tandoori dishes
 tags:
 - eating_out
 - indian

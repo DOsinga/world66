@@ -4,6 +4,7 @@ admission: Free
 latitude: 27.7776
 longitude: -82.6258
 opening_hours: Sun–Thu 11:00am–9:00pm, Fri–Sat 11:00am–10:00pm
+snippet: Rebuilt waterfront promenade with sunset views over Tampa Bay
 tags:
 - things_to_do
 - landmark

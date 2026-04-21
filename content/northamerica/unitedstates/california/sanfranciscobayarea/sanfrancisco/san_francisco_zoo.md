@@ -3,6 +3,7 @@ address: Sloat Blvd at the Pacific Ocean
 latitude: 37.7327
 longitude: -122.503
 phone: (415) 753-7080
+snippet: 250-plus species on the Pacific edge of the city, strong on lemurs
 tags:
 - things_to_do
 title: San Francisco Zoo

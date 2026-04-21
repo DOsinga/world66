@@ -3,6 +3,7 @@ address: 15 Osman Ibn Affan Square, Mohandiseen
 latitude: 30.058056
 longitude: 31.200278
 phone: +20 2 3411194
+snippet: "Italian-French dining with weekend karaoke in Mohandiseen"
 tags:
 - eating_out
 - restaurant

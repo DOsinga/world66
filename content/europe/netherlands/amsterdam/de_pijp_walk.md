@@ -1,6 +1,8 @@
 ---
 title: "The De Pijp Walk"
 type: walk
+story: >
+  André Hazes began singing at the Albert Cuypmarkt at the age of eight — his father barely worked, there was no money, and he sang for coins to buy his mother a birthday present. On Liberation Day 1959, a comedian heard him here and brought him on national television that same evening. When Hazes died of a heart attack in 2004, 48,000 people came to Amsterdam Arena to say goodbye, and eight million watched live on television.
 tags:
   - city_walks
 latitude: 52.357917

@@ -1,6 +1,7 @@
 ---
 latitude: -34.587183
 longitude: -58.455151
+snippet: Working-class cemetery where Carlos Gardel is buried
 tags:
 - things_to_do
 - neighbourhood

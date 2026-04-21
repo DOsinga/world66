@@ -3,6 +3,7 @@ address: Fell & Stanyan Sts
 latitude: 37.7694
 longitude: -122.4862
 phone: (415) 831-2700
+snippet: Thousand-acre park with museums, bison, and Sunday roller skaters
 tags:
 - things_to_do
 - museum

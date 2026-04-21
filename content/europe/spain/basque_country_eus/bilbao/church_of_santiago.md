@@ -2,6 +2,7 @@
 address: Plaza de Santiago, Casco Viejo, Bilbao
 latitude: 43.259
 longitude: -2.9243
+snippet: Bilbao's oldest building and a stop on the Camino de Santiago
 tags:
 - things_to_do
 - sight

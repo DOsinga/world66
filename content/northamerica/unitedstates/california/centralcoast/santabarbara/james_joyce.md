@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: The James Joyce
 type: poi
+snippet: "Reliable Irish pub on State Street with good beer"
 ---
 
 A well-established Irish pub on lower State Street. Good beer selection, friendly staff, and one of the more consistent venues on the strip. Popular with locals and visitors alike.

@@ -1,6 +1,7 @@
 ---
 latitude: 50.291
 longitude: 2.7766
+snippet: "Stunning square with 155 matching Flemish baroque facades"
 tags:
 - things_to_do
 - sight

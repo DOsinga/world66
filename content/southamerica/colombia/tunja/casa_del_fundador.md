@@ -6,6 +6,7 @@ story: The painted ceiling in the main room was hidden under a later false ceili
   original beams covered in detailed depictions of animals from Africa, Asia, and the
   Americas — painted within a few years of Tunja's founding, by artists who had never
   seen most of the creatures they depicted.
+snippet: Last surviving founder's house in Latin America with hidden murals
 tags:
 - things_to_do
 - museum

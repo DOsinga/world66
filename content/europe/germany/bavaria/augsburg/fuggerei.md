@@ -1,6 +1,7 @@
 ---
 latitude: 48.369
 longitude: 10.9037
+snippet: World's oldest social housing complex, still inhabited since 1516
 story: 'The annual rent for a Fuggerei apartment has remained unchanged since 1521:
   one Rhenish guilder, equivalent to €0.88. Residents are also required to pray three
   times daily for the souls of the Fugger family.'

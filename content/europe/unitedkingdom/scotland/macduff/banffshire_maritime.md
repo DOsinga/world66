@@ -2,6 +2,7 @@
 latitude: 57.6699
 longitude: -2.4962
 opening_hours: Friday to Monday, 1pm to 5pm (subject to volunteers)
+snippet: Free volunteer-run museum of Macduff's fishing and shipbuilding heritage
 tags:
 - things_to_do
 - museum

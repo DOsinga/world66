@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -8.9372
 longitude: 13.2173
+snippet: "Sunday handicraft market south of Luanda near Mussulo Bay"
 ---
 
-One of the largest handicraft markets in Angola is the Futungo market, just south of Luanda. It is the main hub of the handicraft trade for tourists and expatriates. The market is open only on Sunday. Most of the handicraft traders are Kikongo, although the craftsmen themselves hail from many different ethno-linguistic groups. Futungo also has the added advantage of being near the beautiful beaches to the south of Luanda, where many of Luanda's residents spend their weekends enjoying the sun and sand of Mussulo bay.
+The main handicraft market serving Luanda's tourist and expat community, held on Sundays at Futungo de Belas south of the city centre. Most vendors are Kikongo traders, though the craftsmen themselves come from a wide range of ethnic groups across Angola. The market sits close to the beaches of Mussulo Bay, so it fits naturally into a Sunday that ends at the water.

@@ -1,8 +1,6 @@
 ---
 title: "The De Pijp Stories Walk"
 type: walk
-story: >
-  On 19 February 1941, German police raided an ice cream parlour called Koco on Van Woustraat. The owner, Ernst Cahn — a German-Jewish refugee who had fled Nazi Germany — was arrested and tortured for the name of whoever had rigged the ammonia trap at the entrance. He never gave it up. The crackdown that followed — house raids across the Jewish Quarter, hundreds of young Jewish men deported — triggered the February Strike: 300,000 Amsterdam workers stopped work on 25 February in the only mass popular protest against Nazi persecution of Jews in occupied Europe. Cahn was shot on 3 March 1941, the first person executed in the Netherlands under occupation. He was 33.
 tags:
   - city_walks
 latitude: 52.357917
@@ -185,7 +183,10 @@ Start at the [Heineken Experience](/europe/netherlands/amsterdam/heineken_experi
 
 Ferdinand Bolstraat is named for Ferdinand Bol, one of Rembrandt's pupils. The cross-streets are named for Frans Hals, Jan Steen, Jacob van Ruisdael, and Gerard Dou. The neighbourhood was built so fast in the 1870s that the city ran out of inspiration and simply named everything after Dutch Golden Age painters. It was not a tribute; it was a filing system.
 
-[Albert Cuypmarkt](/europe/netherlands/amsterdam/albert_cuypmarkt) begins where Ferdinand Bolstraat ends: 300 metres of stalls selling cheese, raw herring, stroopwafels, fabric, spices, and produce from Suriname, Turkey, and Morocco. Near the western entrance, there is a bronze statue of André Hazes, who was born a few streets south and grew up here. He began singing on this market at the age of eight — his father was violent and barely employed, and there was no money, and he sang for coins to buy his mother a birthday present. On Liberation Day 1959, the comedian Johnny Kraaykamp Sr. heard him here and brought him on national television that same evening. When Hazes died of a heart attack in 2004, at 53, 48,000 people attended his public farewell at Amsterdam Arena. Eight million watched live on television.
+[Albert Cuypmarkt](/europe/netherlands/amsterdam/albert_cuypmarkt) begins where Ferdinand Bolstraat ends: 300 metres of stalls selling cheese, raw herring, stroopwafels, fabric, spices, and produce from Suriname, Turkey, and Morocco. Near the western entrance, there is a bronze statue of André Hazes, who was born a few streets south and grew up here.
+
+!!! story
+    Hazes began singing on this market at the age of eight — his father was violent and barely employed, and there was no money, and he sang for coins to buy his mother a birthday present. On Liberation Day 1959, the comedian Johnny Kraaykamp Sr. heard him here and brought him on national television that same evening. When Hazes died of a heart attack in 2004, at 53, 48,000 people attended his public farewell at Amsterdam Arena. Eight million watched live on television.
 
 Walk east through the full length of the market to [Gerard Douplein](/europe/netherlands/amsterdam/gerard_douplein), the small square where Gerard Doustraat crosses the market. From here, turn south. The street you are walking away from is named for Gerard Dou — Rembrandt's first pupil, a meticulous painter of candlelit interiors who was among the most expensive artists in Europe during his lifetime and almost entirely forgotten within a generation of his death. His name now marks a square, a street, and a market junction in a neighbourhood that did not exist when he was alive.
 
@@ -193,14 +194,21 @@ Walk south on Gerard Doustraat past the market, then turn west along the back st
 
 From Ferdinand Bolstraat, turn east along the back streets toward Van Woustraat. At [Van Woustraat 149](/europe/netherlands/amsterdam/koco_ijssalon), there is a memorial plaque on the wall. The building was once an ice cream parlour called Koco, run by Ernst Cahn and Alfred Kohn — German-Jewish refugees who had come to Amsterdam to escape Nazi Germany and opened a business here. After Nazi Germany occupied the Netherlands in May 1940, the ice cream parlour was repeatedly attacked by Dutch Nazi sympathisers. The regulars quietly rigged an industrial ammonia canister at the entrance as a trap.
 
-On 19 February 1941, German police raided Koco. The ammonia trap discharged. Cahn was arrested and taken away for interrogation. He was tortured for the name of the person who had built the device. He never gave it up. On 3 March 1941, he was shot — the first person executed in the Netherlands under Nazi occupation. He was 33.
+!!! story
+    On 19 February 1941, German police raided Koco. The ammonia trap discharged. Cahn was arrested and taken away for interrogation. He was tortured for the name of the person who had built the device. He never gave it up. On 3 March 1941, he was shot — the first person executed in the Netherlands under Nazi occupation. He was 33.
 
-The crackdown that followed Cahn's arrest — house raids across the Jewish Quarter, hundreds of young Jewish men rounded up and deported — triggered the February Strike. On 25 and 26 February 1941, 300,000 Amsterdam workers stopped work and took to the streets: the dockworkers, the tram drivers, the factory workers. It was the only mass popular strike against the persecution of Jews in occupied Europe. The German authorities suppressed it within two days. The memorial plaque on the wall marks the site where it started.
+    The crackdown that followed Cahn's arrest — house raids across the Jewish Quarter, hundreds of young Jewish men rounded up and deported — triggered the February Strike. On 25 and 26 February 1941, 300,000 Amsterdam workers stopped work and took to the streets: the dockworkers, the tram drivers, the factory workers. It was the only mass popular strike against the persecution of Jews in occupied Europe. The German authorities suppressed it within two days. The memorial plaque on the wall marks the site where it started.
 
-Walk west through the streets toward [Sarphatipark](/europe/netherlands/amsterdam/sarphatipark). The park was designed in 1885 and named for Samuel Sarphati, a Jewish physician who transformed Amsterdam through public health initiatives, a factory that produced affordable bread for the poor, and major building projects. He died in 1866, before De Pijp was built; the neighbourhood grew up around his legacy. In 1942, the German occupation renamed the park Bollandpark — because Sarphati was Jewish. The original name was restored in 1945. The monument at the park's centre commemorates Sarphati. Ernst Cahn was shot in March 1941; by 1942, the man who gave his name to the neighbourhood's park had been erased from the street signs. The occupation was systematic.
+Walk west through the streets toward [Sarphatipark](/europe/netherlands/amsterdam/sarphatipark). The park was designed in 1885 and named for Samuel Sarphati, a Jewish physician who transformed Amsterdam through public health initiatives, a factory that produced affordable bread for the poor, and major building projects. He died in 1866, before De Pijp was built; the neighbourhood grew up around his legacy.
 
-The walk ends at [Ruysdaelkade 75](/europe/netherlands/amsterdam/mondrian_house), on the canal along De Pijp's western edge. The canal is named for Jacob van Ruisdael, who painted Dutch landscapes in the 17th century and died in obscurity. His reputation was only rehabilitated by art historians in the 19th century. Piet Mondrian lived at this address from 1908 to 1911, while he was 36 and painting conventional Dutch landscapes — windmills, flat horizons, grey skies, the genre that Ruisdael had defined 250 years earlier. In 1911, Mondrian attended an exhibition at the Stedelijk Museum where he saw Cubist works by Picasso and Braque for the first time. He left for Paris that year, dropped an "a" from his name, and spent the next three decades moving toward the red-yellow-blue grid paintings that made him famous. He abandoned Dutch landscape painting while living on a street named after a Dutch landscape painter, and he never came back.
+!!! story
+    In 1942, the German occupation renamed the park Bollandpark — because Sarphati was Jewish. The original name was restored in 1945. Ernst Cahn was shot in March 1941; by 1942, the man who gave his name to the neighbourhood's park had been erased from the street signs. The occupation was systematic.
 
-There is no plaque on the building.
+The walk ends at [Ruysdaelkade 75](/europe/netherlands/amsterdam/mondrian_house), on the canal along De Pijp's western edge. The canal is named for Jacob van Ruisdael, who painted Dutch landscapes in the 17th century and died in obscurity. His reputation was only rehabilitated by art historians in the 19th century.
+
+!!! story
+    Piet Mondrian lived at this address from 1908 to 1911, while he was 36 and painting conventional Dutch landscapes — windmills, flat horizons, grey skies, the genre that Ruisdael had defined 250 years earlier. In 1911, Mondrian attended an exhibition at the Stedelijk Museum where he saw Cubist works by Picasso and Braque for the first time. He left for Paris that year, dropped an "a" from his name, and spent the next three decades moving toward the red-yellow-blue grid paintings that made him famous. He abandoned Dutch landscape painting while living on a street named after a Dutch landscape painter, and he never came back.
+
+    There is no plaque on the building.
 
 The walk is approximately 3.5 kilometres and takes about 90 minutes at a comfortable pace, longer if you walk slowly through the market.

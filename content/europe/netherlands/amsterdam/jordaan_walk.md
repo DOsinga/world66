@@ -3,11 +3,13 @@ tags:
 - things_to_do
 title: Jordaan Walk
 type: poi
+latitude: 52.3752
+longitude: 4.8818
+snippet: "Self-guided stroll through Amsterdam's most charming neighborhood"
 ---
 
-This 1.5 hour walk starts at Dam Square -- considered the Times Square of Amsterdam, and ends at by Egelantiers canal – the center of Jordaan. During the walk you will travel past Anne Frank’s House and through the charming Jordaan neighborhood to explore the exteriors of quaint structures and homes as well as some of the city’s most attractive canal scenery. Other attractions along the route include: Torensluis Bridge, Homomonument, St. Andrew’s Hof, and Electric Ladyland – the world’s first and only museum of fluorescent art. St. Andrew’s Hall of Fame, located at Egelantiersgracht 107, is free and it is open to the public Monday-Saturday 8 a.m.-6:00 p.m., closed Sunday. Electric Ladyland is located at Tweede Leliedwarsstraat 5, 1015 TB. Visit: www.electric-lady-land.com for updated information about pricing and hours.
+A 90-minute walk from Dam Square into the heart of the Jordaan, one of Amsterdam's most photogenic neighborhoods. Head west along the canals, passing the Anne Frank House on Prinsengracht, then wander into the narrow streets and along the smaller canals that define the Jordaan.
 
-**Contributors**
-May 13, 2008
+Highlights along the way include the Torensluis Bridge (the city's widest), the Homomonument on Westermarkt, and the peaceful courtyard of Sint-Andrieshof at Egelantiersgracht 107 (open weekdays). Nearby, Electric Ladyland at Tweede Leliedwarsstraat 5 claims to be the world's only museum of fluorescent art -- a genuinely weird little place worth a look.
 
-type: Other
+The walk ends around Egelantiersgracht, a quieter canal lined with houseboats and leaning brick facades. From here you're well placed to duck into one of the Jordaan's many brown cafes for a beer.

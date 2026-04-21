@@ -1,6 +1,7 @@
 ---
 latitude: 22.3757
 longitude: 114.1891
+snippet: Well-preserved 1840s Hakka walled village in Sha Tin
 tags:
 - newterritories
 - things_to_do

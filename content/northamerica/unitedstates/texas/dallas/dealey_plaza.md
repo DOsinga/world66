@@ -1,6 +1,7 @@
 ---
 latitude: 32.7791
 longitude: -96.8082
+snippet: "Site of the Kennedy assassination with a thorough museum above"
 tags:
 - things_to_do
 - sight

@@ -1,5 +1,7 @@
 ---
 address: Via Castel San Pietro, 37129 Verona
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 45.4455
 longitude: 11.0045
 snippet: Hilltop terrace with the definitive panoramic view of Verona

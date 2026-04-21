@@ -1,6 +1,7 @@
 ---
 latitude: 31.778
 longitude: 35.2354
+snippet: "Golden-domed 7th-century shrine on the Temple Mount"
 tags:
 - things_to_do
 - landmark

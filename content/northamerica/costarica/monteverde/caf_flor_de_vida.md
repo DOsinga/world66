@@ -1,6 +1,7 @@
 ---
 title: "Cafe Flor de Vida"
 type: poi
+snippet: "Monteverde's best vegetarian and vegan cafe"
 tags:
   - eating_out
   - cafe

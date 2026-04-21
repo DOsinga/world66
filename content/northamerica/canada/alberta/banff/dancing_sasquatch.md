@@ -2,6 +2,7 @@
 address: 120 Banff Avenue
 latitude: 51.1755
 longitude: -115.5705
+snippet: Banff's main nightclub with DJs and a late-night dance floor
 tags:
 - bars_and_cafes
 - bar

@@ -1,6 +1,7 @@
 ---
 latitude: 45.7836
 longitude: -108.5092
+snippet: Popular steakhouse with straightforward cuts and burgers
 tags:
 - eating_out
 title: Jake's Downtown

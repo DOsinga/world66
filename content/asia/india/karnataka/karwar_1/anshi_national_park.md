@@ -3,6 +3,7 @@ latitude: 15.0833
 longitude: 74.2833
 tags:
 - things_to_do
+snippet: "Western Ghats forest with elephants, hornbills and river rafting"
 title: Dandeli-Anshi Tiger Reserve
 type: poi
 ---

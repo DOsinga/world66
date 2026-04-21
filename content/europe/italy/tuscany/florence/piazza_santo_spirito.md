@@ -12,6 +12,7 @@ tags:
 - restaurant
 - bar
 - neighbourhood
+snippet: "Oltrarno's lively square with Brunelleschi church and aperitivo bars"
 title: Piazza Santo Spirito
 type: poi
 ---

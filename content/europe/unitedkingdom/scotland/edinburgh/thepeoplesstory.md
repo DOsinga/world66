@@ -9,6 +9,7 @@ tags:
 - old_town
 - museum
 - palace
+snippet: "Free museum of working-class Edinburgh in the Canongate Tolbooth"
 title: The People's Story Museum
 type: poi
 ---

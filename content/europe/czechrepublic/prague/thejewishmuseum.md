@@ -1,8 +1,11 @@
 ---
 address: U Starého hřbitova 3/1, Prague 1
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.0901
 longitude: 14.4186
 opening_hours: Sun–Fri 09:00–18:00; closed Sat and Jewish holidays
+snippet: Six historic sites across the old Jewish quarter
 tags:
 - things_to_do
 - museum

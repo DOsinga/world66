@@ -141,6 +141,7 @@ const COUNTRY_SLUGS = {
     "Saudi Arabia": "saudiarabia",
     "Senegal": "senegal",
     "Serbia": "serbia",
+    "Republic of Serbia": "serbia",
     "Sierra Leone": "sierraleone",
     "Singapore": "singapore",
     "Slovakia": "slovakia",

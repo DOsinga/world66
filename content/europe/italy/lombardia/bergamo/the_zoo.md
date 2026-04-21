@@ -4,26 +4,12 @@ email: cornelle@lecornelle.it
 latitude: 45.716977
 longitude: 9.596851
 phone: 035 527422
+snippet: "Family-friendly wildlife park with hundreds of species"
 tags:
 - day_trips
-title: The Zoo
+title: Le Cornelle Wildlife Park
 type: poi
 url: www.lecornelle.it
 ---
 
-Parco Faunistico LE CORNELLE is a zoo that has hundreds of animals such as mammals, birds and reptiles.
-
-**Contributors**
-July 06, 2005
-
-
-
-
-
-tel: 035 527422
-
-url: [www.lecornelle.it](http://www.lecornelle.it)
-
-address: Via Cornelle, 16, 24030 Valbrembo (BG)
-
-email:
+Parco Faunistico Le Cornelle sits in Valbrembo, a short drive north of Bergamo. The park is home to hundreds of animals — big cats, primates, flamingos, reptiles and birds of prey among them — spread across landscaped enclosures along the Brembo river. A good half-day outing for families, with picnic areas and a small cafe on site.

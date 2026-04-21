@@ -5,6 +5,7 @@ longitude: 22.9533
 tags:
 - things_to_do
 - landmark
+snippet: Roman-era cylindrical monument with stunning mosaics
 title: Rotunda
 type: poi
 ---

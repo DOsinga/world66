@@ -6,6 +6,7 @@ opening_hours: Daily 5pm-4am, Fri-Sat until 6am
 tags:
 - bars_and_cafes
 - kreuzberg
+snippet: "Kreuzberg late-night bar with pinball and themed parties"
 title: Milchbar
 type: poi
 ---

@@ -5,6 +5,7 @@ longitude: 31.0224
 phone: (031) 309-6019
 tags:
 - bars_and_cafes
+snippet: "Arty cocktail lounge and cigar bar in Morningside"
 title: Beanbag Bohemia
 type: poi
 ---

@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - coyoacán
 - museum
+snippet: "The iconic blue house where Frida lived, painted, and died"
 title: Museo Frida Kahlo
 type: poi
 ---

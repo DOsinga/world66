@@ -4,6 +4,7 @@ longitude: 14.56
 tags:
 - things_to_do
 - landmark
+snippet: "Hurtle down Namib dune faces on a board or a quad bike"
 title: Sandboarding and Quad Biking
 type: poi
 ---

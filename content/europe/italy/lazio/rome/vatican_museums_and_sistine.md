@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - church
+snippet: "World-class art collection culminating in Michelangelo's ceiling"
 title: Vatican Museums and Sistine Chapel
 type: poi
 url: www.museivaticani.va

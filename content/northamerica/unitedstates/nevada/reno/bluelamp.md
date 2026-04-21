@@ -6,4 +6,4 @@ title: Blue Lamp
 type: location
 ---
 
-A larger, "classier" reincarnation of a bar that closed at the end of the 90's, this was for a brief time the hippest freakin' bar in Reno (with plenty of pretension to go along.) Good spot for live bands and DJ's- probably the closest thing to the casinos that can be considered non-casino nightlife. Watch out for ridiculous cover charges midweek...
+The Blue Lamp was a [Reno](/northamerica/unitedstates/nevada/reno) nightlife staple, a live music venue and bar that positioned itself as an alternative to the casino entertainment scene. The venue hosted local and touring bands across a range of genres and was one of the better spots in town for catching live music outside the casino circuit. Cover charges could be steep, particularly on weeknights when the lineup did not always justify the price.

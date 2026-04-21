@@ -12,6 +12,7 @@ story: 'Van Gogh checked himself into the asylum here in May 1889, a few months 
 tags:
 - things_to_do
 - sight
+snippet: "Monastery asylum where Van Gogh painted The Starry Night"
 title: Saint-Paul-de-Mausole
 type: poi
 ---

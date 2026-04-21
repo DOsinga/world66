@@ -8,4 +8,8 @@ type: location
 score: 0.41
 ---
 
-Tucked away in a forest in the Charente countryside, the Château de Rochebrune has been the seat of the Lords of Chabanais since the 11th century. The castle sits between [Limoges](/europe/france/centre/limousin/limoges) and Poitiers, in the kind of quiet, green landscape that makes this part of France feel a long way from anywhere.
+Rochebrune is a tiny hamlet in the Charente countryside, halfway between [Limoges](/europe/france/centre/limousin/limoges) and Poitiers. The main draw is the Chateau de Rochebrune, seat of the Lords of Chabanais since the 11th century, set in woodland that makes this part of France feel a long way from anywhere. The castle is privately owned but occasionally opens for visits during the Journees du Patrimoine in September.
+
+The surrounding landscape is classic Limousin: rolling green pastures, quiet lanes, and very few other tourists. If you are driving between Limoges and the Atlantic coast, Rochebrune makes a worthwhile stop for a picnic and a look at the castle's impressive fortified exterior. The nearby village of Chabanais, about five kilometres away, has a couple of restaurants and a small weekly market.
+
+This is not a destination in itself so much as a pleasant detour through deep rural France. The appeal is precisely that nothing much happens here — just old stone, old trees, and the kind of silence that city dwellers cross continents for.

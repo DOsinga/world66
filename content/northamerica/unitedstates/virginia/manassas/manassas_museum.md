@@ -1,6 +1,10 @@
 ---
+address: 9101 Prince William Street, Manassas, VA 20110
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 38.7507
 longitude: -77.4755
+snippet: Local history museum covering Civil War and railroad heritage
 tags:
 - things_to_do
 - museum

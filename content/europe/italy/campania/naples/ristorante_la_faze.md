@@ -6,6 +6,7 @@ phone: +39 081 575 7420
 tags:
 - eating_out
 - restaurant
+snippet: "Affordable seafood and pasta on the Marechiaro waterfront"
 title: Ristorante La Fazenda
 type: poi
 ---

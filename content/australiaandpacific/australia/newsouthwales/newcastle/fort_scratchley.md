@@ -6,6 +6,7 @@ story: In June 1942, Fort Scratchley became the only Australian mainland fortifi
   submarine that surfaced to shell Newcastle Harbour.
 tags:
 - things_to_do
+snippet: "Coastal fort that fired back at a Japanese submarine in 1942"
 title: Fort Scratchley
 type: poi
 ---

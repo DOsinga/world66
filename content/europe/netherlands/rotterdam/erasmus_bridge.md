@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.9096
 longitude: 4.4855
+snippet: Rotterdam's iconic Swan-shaped cable-stayed bridge
 tags:
 - things_to_do
 - architecture

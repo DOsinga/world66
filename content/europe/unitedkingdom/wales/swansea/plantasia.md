@@ -4,6 +4,7 @@ longitude: -3.938375
 tags:
 - things_to_do
 - landmark
+snippet: "Glass pyramid greenhouse with 5,000 plants and free-flying butterflies"
 title: Plantasia
 type: poi
 ---

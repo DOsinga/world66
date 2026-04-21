@@ -1,10 +1,13 @@
 ---
 address: Augustinergasse 9, 8001 Zürich
 admission: Free
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.374703
 longitude: 8.539372
 opening_hours: Mon–Fri 10:00–17:00 (reading room); check website for events
 phone: +41 44 211 83 01
+snippet: World-class Joyce research centre with legendary Ulysses readings
 tags:
 - James Joyce
 - Literature

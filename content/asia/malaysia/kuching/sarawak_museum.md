@@ -1,7 +1,8 @@
 ---
 title: "Sarawak Museum"
 type: poi
-tags: [things_to_do]
+snippet: Outstanding ethnographic and natural history collection since 1891
+tags: [things_to_do, museum]
 latitude: 1.5571
 longitude: 110.3475
 ---

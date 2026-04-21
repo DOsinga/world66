@@ -1,6 +1,7 @@
 ---
 latitude: 42.431041
 longitude: -8.645118
+snippet: Roofless Gothic convent ruins housing medieval artifacts
 tags:
 - things_to_do
 - landmark

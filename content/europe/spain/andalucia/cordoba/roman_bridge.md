@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.8767
 longitude: -4.778
+snippet: Ancient sixteen-arch bridge across the Guadalquivir
 tags:
 - things_to_do
 - landmark

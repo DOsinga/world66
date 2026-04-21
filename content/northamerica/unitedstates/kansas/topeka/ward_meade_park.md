@@ -6,6 +6,7 @@ tags:
 - sight
 - nature
 - park
+snippet: "Victorian mansion, pioneer buildings and botanical gardens"
 title: Historic Ward-Meade Park and Botanical Gardens
 type: poi
 ---

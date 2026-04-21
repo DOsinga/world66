@@ -4,6 +4,7 @@ latitude: 43.639607
 longitude: -79.381946
 tags:
 - things_to_do
+snippet: "Free waterfront concerts, workshops and film screenings all summer"
 title: Harbourfront Centre
 type: poi
 ---

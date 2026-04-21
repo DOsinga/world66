@@ -2,18 +2,14 @@
 title: "Siong Lim Temple"
 type: poi
 address: "184E Jalan Toa Payoh"
-type: "Hotspots"
+tags:
+- things_to_do
+- temple
 latitude: 1.330012
 longitude: 103.864253
+snippet: "Singapore's oldest Buddhist temple, built 1898 in monastery style"
 ---
 
-This is the oldest Buddhist Temple in Singapore. Built in 1898, 79 years after the founding of modern Singapore. The building of Siong Lim was initiated by a local business Mr. Low Kim Pong. Donations for its construction came from all over south east asia. It is built in the style of a cong lin monastery. The layout is similiar to most Chinese Mahayana monastery so visiting this place offers a blueprint to understand Buddhist monasteries in general.
+The oldest Buddhist temple in Singapore, built in 1898 — 79 years after the founding of modern Singapore. Construction was initiated by local businessman Low Kim Pong, with donations from across Southeast Asia. Built in the style of a cong lin monastery, its layout follows the standard Chinese Mahayana plan, making it a useful blueprint for understanding Buddhist monasteries in general.
 
-There is even an inscription by the Imperial Tutor to the Last emperor of China (Puyi). It has underwent extensive restoration with the help of experts from China. It continues to function as a monastery today so visitors can experience it as a living institution.
-
-There is a free tour **** during weekends. At the end of the tour, if any visitors give a contribution, the money goes to charity. The tours are managed by volunteer anthropologist and all visitors get a free set of postcards.****
-
-**Contributors**
-September 05, 2006
-
-type: Hotspots
+The temple holds an inscription by the Imperial Tutor to China's last emperor, Puyi. It has undergone extensive restoration with the help of experts from China and continues to function as a living monastery today. Free guided tours by volunteer guides run on weekends.

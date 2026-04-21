@@ -1,6 +1,7 @@
 ---
 latitude: 7.4012
 longitude: 3.9056
+snippet: Green oasis with gardens and zoo in Ibadan
 tags:
 - things_to_do
 - landmark

@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 - bar
 - club
+snippet: Legendary intimate rock venue since 1977
 title: Paradise Rock Club
 type: poi
 ---

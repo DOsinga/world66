@@ -1,10 +1,13 @@
 ---
 address: One Tramway Road, Palm Springs, CA 92262
 admission: Adults $31.95; Seniors $29.95; Children (3–10) $21.95
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.8774
 longitude: -116.6341
 opening_hours: Mon–Fri from 10:00; Sat–Sun from 08:00; last car up 20:00
 phone: (888) 515-8726
+snippet: Rotating gondola climbing from desert floor to alpine wilderness
 story: The tramway opened in 1963 after 26 years of lobbying by James Outman, a Riverside
   judge who dreamed of making Mount San Jacinto accessible. The rotating cars — which
   complete a full 360° revolution during the 10-minute ride — were introduced in 2000

@@ -1,6 +1,9 @@
 ---
 address: Prinsengracht 263–267
 category: Museum
+image: anne_frank_house.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Anne-Frank-Huis_--_2015_--_7185.jpg
 latitude: 52.375156
 longitude: 4.884081
 neighbourhood: The Jordaan

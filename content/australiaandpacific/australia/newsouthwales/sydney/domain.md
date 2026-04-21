@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - museum
 - park
+snippet: "Sweeping parkland next to the Botanic Garden and art gallery"
 title: The Domain
 type: poi
 ---

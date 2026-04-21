@@ -4,6 +4,7 @@ longitude: -5.5601
 tags:
 - things_to_do
 - architecture
+snippet: "Quiet 17th-century gate with green tilework and plains views"
 title: Bab Berdayin
 type: poi
 ---

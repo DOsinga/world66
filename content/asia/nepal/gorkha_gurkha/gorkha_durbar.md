@@ -9,6 +9,7 @@ tags:
   - historic_site
 latitude: 28.0033
 longitude: 84.6291
+snippet: "Hilltop fortress-palace with stunning Himalayan panorama"
 story: >
   Prithvi Narayan Shah was born in the Durbar in 1723 and spent decades planning his campaign to unify Nepal's fragmented hill kingdoms. He captured Kathmandu in 1768 during the Indra Jatra festival, when the city's defenders were distracted by celebrations. Within a few years he had united the entire region into a single kingdom — the foundation of modern Nepal.
 ---

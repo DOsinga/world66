@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-19'
+image: deathvalley.jpg
+image_attribution: Tuxyso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Death_Valley_exit_SR190_view_Panamint_Butt_flash_flood_2013.jpg
 latitude: 36.4614
 longitude: -116.8672
 score: 0.57
 title: Death Valley
 type: location
-image: deathvalley.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Death_Valley_exit_SR190_view_Panamint_Butt_flash_flood_2013.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Tuxyso
 ---
 
 Death Valley is the hottest, driest, and lowest national park in the United States — and one of the most dramatic landscapes on earth. The valley floor sits 86 metres below sea level at Badwater Basin, surrounded by mountains that trap summer heat until the air itself seems to shimmer. The record high here is 56.7°C (134°F), set in 1913. It is not a place you visit casually.

@@ -2,15 +2,16 @@
 done:
   country_cleanup: 2026-03-31
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
 image: kenya.jpg
 image_attribution: <a href="//www.flickr.com/people/40098061@N00" class="extiw" title="flickruser:40098061@N00">saragoldsmith</a>
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Mt_Kenya_landscape.jpg
 latitude: 0.0236
 longitude: 37.9062
+score: 0.44
 title: Kenya
 type: location
-score: 0.44
 ---
 
 *Africa > Kenya*

@@ -1,4 +1,7 @@
 ---
+image: trevi_fountain.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg
 latitude: 41.901
 longitude: 12.4833
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Australia and Pacific"
+title: "Australia, Pacific & Antarctica"
 type: location
 image: australiaandpacific.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Uluru-Kata_Tjuta_National_Park,_Uluru,_Kuniya_Walk_--_2019_--_3615.jpg"
@@ -16,3 +16,5 @@ This is a vast and varied part of the world — a continent-sized country, a sma
 The Pacific islands are another thing entirely. [Fiji](/australiaandpacific/fiji), [Tonga](/australiaandpacific/tonga), [French Polynesia](/australiaandpacific/frenchpolynesia), [Vanuatu](/australiaandpacific/vanuatu), the Samoas — each has its own character, but they share a pace of life that's hard to find elsewhere. Things happen slowly here, communities are tight-knit, and the ocean is everywhere. That can feel like paradise or like frustration, depending on what you're after.
 
 Getting around this region takes planning. Distances are enormous and flights between island nations are expensive. But for travelers willing to slow down and let the journey unfold, Australia and the Pacific offer experiences that are genuinely hard to replicate anywhere else.
+
+[Antarctica](/australiaandpacific/antarctica) sits at the edge of the world and beyond the edge of normal travel. Almost the entire continent is buried under ice, it has no permanent population, and the only way to get there is by expedition cruise or charter flight from the southern tip of South America. It is listed here not because it is a country but because it belongs to no other region — and because the travelers who do go say it is unlike anything else on earth.

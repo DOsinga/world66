@@ -1,12 +1,11 @@
 ---
 title: "Hua Hin Beach"
 type: poi
-address: "Hua Hin Beaches"
-phone: "Thailand"
-url: "www.huahinwhatson.com"
-zipcode: "Hua Hin"
+tags:
+- beaches
 latitude: 12.555521
 longitude: 99.963929
+snippet: "Long stretch of soft sand from town centre to Chopstick Mountain"
 ---
 
-Hua Hin has several beach areas stretching both north and south of Hua Hin. The beaches are of soft sand. Width of beaches varies from quite narrow to very wide and the tide also affacts the width of beach. The main beach are of Hua hin stretches from the town center south to Khao Takiab ( Chopstick Mountain ) and the famous Golden Buddha. North from Hua Hin is the Cha Am Beach area. South from the town center of Hua Hin and just beyond Khao Takiab beach is Khao Takiab bay and Suan Son Beach.
+Hua Hin has several beach areas stretching both north and south of town. The beaches are of soft sand, varying from quite narrow to very wide depending on the tide. The main beach runs from the town centre south to Khao Takiab (Chopstick Mountain) and its famous Golden Buddha. North of Hua Hin lies the Cha Am beach area. South of town, just beyond Khao Takiab beach, is Khao Takiab Bay and the quieter Suan Son Beach.

@@ -4,6 +4,7 @@ longitude: -7.6794
 tags:
 - things_to_do
 - neighbourhood
+snippet: "Five-kilometre seafront promenade with beach clubs and fish restaurants"
 title: Ain Diab Corniche
 type: poi
 ---

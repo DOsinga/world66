@@ -1,6 +1,7 @@
 ---
 latitude: 26.347
 longitude: 73.0392
+snippet: Ancient Marwar capital with cenotaphs and the painted Hall of Heroes
 tags:
 - things_to_do
 - landmark

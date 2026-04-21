@@ -2,6 +2,7 @@
 address: Kleine Spui 18
 latitude: 52.1585
 longitude: 5.3856
+snippet: Amersfoort's last brewery, with local beers and pub atmosphere
 tags:
 - bars_and_cafes
 title: De Drie Ringen

@@ -1,7 +1,8 @@
 ---
 address: Sariab Road, near Balochistan University
-latitude: 30.15
-longitude: 67.0167
+latitude: 30.1881
+longitude: 66.9917
+snippet: "Free museum with dinosaur fossils and the giant hornless rhino"
 opening_hours: 9:00 - 15:00 Mon-Sat
 tags:
 - things_to_do

@@ -8,6 +8,7 @@ tags:
 - nature
 title: Pine Tree State Arboretum
 type: poi
+snippet: "Free 224-acre arboretum spectacular in autumn leaf colour"
 url: https://www.pinetreestatearboretum.org
 ---
 

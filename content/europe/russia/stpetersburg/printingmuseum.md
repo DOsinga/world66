@@ -1,6 +1,7 @@
 ---
 title: "Printing Museum"
 type: poi
+snippet: "Small museum of printing history on the Moyka"
 category: Museum
 latitude: 59.9383
 longitude: 30.3200

@@ -3,29 +3,14 @@ address: Uhlandstrasse 20-25
 email: info@antik-stilbruch.de
 latitude: 52.504261
 longitude: 13.325343
-phone: ++49 30 312 83 04
+phone: "+49 30 312 83 04"
+snippet: "Polished Biedermeier furniture and vintage jewellery in Charlottenburg"
 tags:
 - shopping
-title: Stilbruch Antiquitäten & Schmuck
+title: "Stilbruch Antiquit\xE4ten & Schmuck"
 type: poi
 url: www.antik-stilbruch.de
 zipcode: '10623'
 ---
 
 It's far from being the largest antiques store in Berlin, but something about its dense inventories of Biedermeier-era furniture, tableware, and jewelry might appeal to your sense of schmaltz and nostalgia. Owner Margareta Wojcieszak makes sure that objects are waxed and polished to a high sheen. Everything seems to evoke a story about other places, other priorities, and other eras.
-
-type: Antiques
-
-
-
-
-
-zipcode: 10623
-
-email: info@antik-stilbruch.de
-
-address: Uhlandstrasse 20-25
-
-url: [www.antik-stilbruch.de](http://www.antik-stilbruch.de)
-
-tel: ++49 30 312 83 04

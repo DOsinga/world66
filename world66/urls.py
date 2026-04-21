@@ -9,5 +9,6 @@ urlpatterns = [
     path("tags/<str:tag>", views.tag_index, name="tag_index"),
     path("content-image/<path:path>", views.content_image, name="content_image"),
     path("review", views.review, name="review"),
+    path("<path:path>.gpx", views.walk_gpx, name="walk_gpx"),
     path("<path:path>", views.location_or_section, name="location_or_section"),
 ]

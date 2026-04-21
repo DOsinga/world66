@@ -132,6 +132,10 @@
 </div>
 {% endif %}
 
+{% if page.page_type == "walk" %}
+<a class="gpx-download" href="/{{ page.path }}.gpx" download>&#8595; Download GPX</a>
+{% endif %}
+
 {% if page.meta.quote %}
 <blockquote class="pull-quote">{{ page.meta.quote }}</blockquote>
 {% endif %}

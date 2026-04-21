@@ -379,6 +379,59 @@ def content_image(request, path):
     return FileResponse(open(file_path, 'rb'))
 
 
+def walk_gpx(request, path):
+    """Generate and serve a GPX file for a walk page."""
+    page = load_page(path)
+    if not page or page.page_type != 'walk':
+        raise Http404
+
+    from django.http import HttpResponse
+    import xml.etree.ElementTree as ET
+
+    gpx = ET.Element('gpx', {
+        'version': '1.1',
+        'creator': 'World66',
+        'xmlns': 'http://www.topografix.com/GPX/1/1',
+        'xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance',
+        'xsi:schemaLocation': 'http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd',
+    })
+
+    # Waypoints — load each POI for title, snippet, coords
+    city_path = '/'.join(path.split('/')[:-1])
+    for wp_slug in page.meta.get('waypoints', []):
+        wp = load_page(city_path + '/' + wp_slug)
+        if not wp:
+            continue
+        lat = _safe_float(wp.meta.get('latitude'))
+        lng = _safe_float(wp.meta.get('longitude'))
+        if lat is None or lng is None:
+            continue
+        wpt = ET.SubElement(gpx, 'wpt', {'lat': str(lat), 'lon': str(lng)})
+        ET.SubElement(wpt, 'name').text = wp.title
+        desc = wp.meta.get('snippet') or (wp.body[:300].strip() if wp.body else '')
+        if desc:
+            ET.SubElement(wpt, 'desc').text = desc
+
+    # Track from route coordinates
+    route = page.meta.get('route', [])
+    if route:
+        trk = ET.SubElement(gpx, 'trk')
+        ET.SubElement(trk, 'name').text = page.title
+        if page.body:
+            import re
+            plain = re.sub(r'<[^>]+>', '', page.body)
+            ET.SubElement(trk, 'desc').text = plain[:500].strip()
+        seg = ET.SubElement(trk, 'trkseg')
+        for pt in route:
+            ET.SubElement(seg, 'trkpt', {'lat': str(pt[0]), 'lon': str(pt[1])})
+
+    xml_bytes = b'<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(gpx, encoding='unicode').encode('utf-8')
+    filename = path.split('/')[-1] + '.gpx'
+    response = HttpResponse(xml_bytes, content_type='application/gpx+xml')
+    response['Content-Disposition'] = f'attachment; filename="{filename}"'
+    return response
+
+
 def _safe_float(value):
     if value is None:
         return None

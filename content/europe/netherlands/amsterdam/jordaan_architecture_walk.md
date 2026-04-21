@@ -1,8 +1,6 @@
 ---
 title: "The Jordaan Architecture Walk"
 type: walk
-story: >
-  Rembrandt was buried in the Westerkerk churchyard in 1669 — in a rented pauper's grave, the exact location now lost. He died three years after bankruptcy had forced the auction of his house, his collection, and his printing press; his inventory at the Westerkerk was a few unpaid studio debts. The tower you start this walk beside, which he painted from the windows of his house on the Jodenbreestraat, is his only monument. No one has ever found his grave.
 tags:
   - city_walks
 latitude: 52.374233
@@ -86,7 +84,10 @@ The Jordaan was built between 1612 and the 1650s, mostly in one sustained push o
 
 Start at the [Westerkerk](/europe/netherlands/amsterdam/things_to_do/westerkerk) on Westermarkt — Hendrick de Keyser's masterpiece and the tallest church tower in Amsterdam at 87 metres. De Keyser was the city's most important architect in the early 17th century, and the Westerkerk, begun in 1620 and consecrated in 1631, is his mature statement on what a Protestant church should look like.
 
-Stand back and look at the tower, the Westertoren. The structure is essentially Gothic: a tall stone tower built in the medieval tradition, with buttresses that carry the weight of the walls outward. But the surface is covered in Renaissance ornament — pilasters, cornices, and classical mouldings stacked in decorating bands up the shaft. This mixing of Gothic engineering and Renaissance dress is what de Keyser called "Amsterdam Renaissance." The city never went fully classical in the Italian sense — it adapted the vocabulary to what it already knew how to build. At the very top, the Imperial Crown of Austria sits in blue and gold: a gift from Maximilian I, who granted Amsterdam the right to use it in 1489 as thanks for commercial support. Rembrandt was buried somewhere in the churchyard here in 1669, in a rented pauper's grave, the exact location now lost.
+Stand back and look at the tower, the Westertoren. The structure is essentially Gothic: a tall stone tower built in the medieval tradition, with buttresses that carry the weight of the walls outward. But the surface is covered in Renaissance ornament — pilasters, cornices, and classical mouldings stacked in decorating bands up the shaft. This mixing of Gothic engineering and Renaissance dress is what de Keyser called "Amsterdam Renaissance." The city never went fully classical in the Italian sense — it adapted the vocabulary to what it already knew how to build. At the very top, the Imperial Crown of Austria sits in blue and gold: a gift from Maximilian I, who granted Amsterdam the right to use it in 1489 as thanks for commercial support.
+
+!!! story
+    Rembrandt was buried somewhere in the churchyard here in 1669, in a rented pauper's grave, the exact location now lost. He had moved out of his grand house on the Jodenbreestraat eleven years earlier after bankruptcy; the tower visible from his last address on Rozengracht was likely the last landmark he could name. No one has ever found the grave.
 
 The church itself is built on what de Keyser called a "double Greek cross" plan — two equal-armed crosses connected to form a long nave. The three-aisled basilica, 58 metres long and 29 metres wide, was at consecration the largest Protestant church in the Netherlands. The nave is taller than the aisles; this is the basilica section visible from outside in the stepped roofline. Keep this form in mind — the Noorderkerk at the end of this walk takes a completely different approach.
 

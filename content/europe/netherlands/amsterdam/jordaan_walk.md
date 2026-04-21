@@ -6,13 +6,13 @@ tags:
 latitude: 52.3762
 longitude: 4.8808
 waypoints:
-  - things_to_do/westerkerk
+  - westerkerk
   - homomonument
   - bloemgracht
   - egelantiersgracht
   - sint_andrieshofje
   - bevrijdingslinde
-  - things_to_do/noorderkerk
+  - noorderkerk
 route:
   - [52.374234, 4.883959]
   - [52.374246, 4.883452]

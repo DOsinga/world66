@@ -6,12 +6,12 @@ tags:
 latitude: 52.374233
 longitude: 4.883983
 waypoints:
-  - things_to_do/westerkerk
+  - westerkerk
   - de_drie_hendricken
   - sint_andrieshofje
   - karthuizerhof
   - lindengracht_houses
-  - things_to_do/noorderkerk
+  - noorderkerk
   - brouwersgracht_warehouses
 route:
   - [52.374233, 4.883983]

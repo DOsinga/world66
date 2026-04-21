@@ -135,11 +135,7 @@
 {% if page.page_type == "walk" and walk_waypoints %}
 <ol class="walk-waypoints">
   {% for wp in walk_waypoints %}
-  <li>
-    {% if forloop.first %}<span class="walk-stop-label">Start</span>{% endif %}
-    {% if forloop.last %}<span class="walk-stop-label">End</span>{% endif %}
-    <a href="{{ wp.get_absolute_url }}">{{ wp.title }}</a>
-  </li>
+  <li><a href="{{ wp.get_absolute_url }}">{{ wp.title }}</a></li>
   {% endfor %}
 </ol>
 {% endif %}

@@ -11,7 +11,7 @@ waypoints:
   - sint_andrieshofje
   - karthuizerhof
   - lindengracht_riots
-  - things_to_do/noorderkerk
+  - noorderkerk
 route:
   - [52.372654, 4.877698]
   - [52.372836, 4.878424]

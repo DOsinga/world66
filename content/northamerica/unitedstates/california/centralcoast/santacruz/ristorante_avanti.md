@@ -3,6 +3,7 @@ address: 1711 Mission St, Santa Cruz, CA 95060
 latitude: 36.9651
 longitude: -122.0413
 phone: 831.427.0135
+snippet: Seasonal California-Italian cooking with a good wine bar
 tags:
 - eating_out
 - restaurant

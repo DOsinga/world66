@@ -1,7 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 45.4294
 longitude: -75.6989
-snippet: "Canada's premier art collection, from Group of Seven to contemporary Indigenous work"
+snippet: Canada's premier art collection, from Group of Seven to contemporary Indigenous
+  work
 tags:
 - things_to_do
 - museum

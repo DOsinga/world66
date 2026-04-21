@@ -1,6 +1,7 @@
 ---
 latitude: 31.2855
 longitude: 29.9727
+snippet: Pass-only beach in the Montazah complex, quieter than most
 tags:
 - beaches
 - beach

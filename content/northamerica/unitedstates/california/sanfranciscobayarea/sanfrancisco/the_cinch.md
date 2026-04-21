@@ -7,6 +7,7 @@ tags:
 - bar
 title: The Cinch
 type: poi
+snippet: "Western-themed gay bar with saloon doors on Polk"
 ---
 
 A western-themed gay bar on Polk Street, complete with saloon doors and a friendly mixed crowd mostly in their thirties. Do not miss the refrigerator door entrance to the men's room. The Cinch has a relaxed, unpretentious vibe that makes it a favorite among locals.

@@ -1,6 +1,7 @@
 ---
 latitude: 23.584
 longitude: 58.389
+snippet: "Oman's grand mosque with the world's largest hand-woven carpet"
 tags:
 - things_to_do
 - landmark

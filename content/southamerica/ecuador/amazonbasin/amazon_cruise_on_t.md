@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -0.4833
 longitude: -76.9833
 snippet: Multi-day riverboat cruise into primary Napo River rainforest

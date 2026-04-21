@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 59.35
 longitude: 6.05
-snippet: "Deep fjord region north of Stavanger with fishing villages and mountains"
+snippet: Deep fjord region north of Stavanger with fishing villages and mountains
 tags:
 - things_to_do
 - landmark

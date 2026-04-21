@@ -1,9 +1,11 @@
 ---
-title: "Vladimir"
-type: poi
-snippet: "Ancient golden-ring city with 12th-century cathedrals, 200km from Moscow"
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 56.12889
 longitude: 40.40752
+snippet: Ancient golden-ring city with 12th-century cathedrals, 200km from Moscow
+title: Vladimir
+type: poi
 ---
 
 Vladimir is one of the oldest cities in Russia and a highlight of the Golden Ring — the arc of medieval towns northeast of Moscow. Founded in 1108, it was the de facto capital of medieval Russia before Moscow rose to prominence. The centerpiece is the Assumption Cathedral, a white-stone UNESCO-listed church from 1158 that contains frescoes by Andrei Rublev. The nearby Golden Gate, a triumphal arch from 1164, still straddles the main road into the old city.

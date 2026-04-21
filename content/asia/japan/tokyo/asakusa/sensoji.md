@@ -1,10 +1,12 @@
 ---
-title: "Sensoji Temple"
-type: poi
-category: "Sight"
-snippet: "Tokyo's oldest temple, founded 628 AD, dedicated to Kannon"
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.7148
 longitude: 139.7967
+snippet: Tokyo's oldest temple, founded 628 AD, dedicated to Kannon
+title: Sensoji Temple
+type: poi
 ---
 
 Tokyo's oldest temple, founded in 628 AD according to legend, when two fishermen pulled a small golden statue of Kannon from the Sumida River. The main hall is dedicated to Kannon, the goddess of mercy, and remains a working place of worship despite the crowds. The grounds include a striking five-storey pagoda, the Asakusa Shinto shrine, and a bronze incense burner in the courtyard where visitors wave smoke over themselves for good health.

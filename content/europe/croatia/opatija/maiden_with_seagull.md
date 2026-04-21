@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.3369
 longitude: 14.3051
 snippet: Bronze statue stolen in 1990, Opatija's enduring symbol

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 29.5613
 longitude: 106.4897
 snippet: WWII-era Communist offices where Zhou Enlai lived and worked

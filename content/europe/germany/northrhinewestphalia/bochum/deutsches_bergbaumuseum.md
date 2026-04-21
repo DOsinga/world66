@@ -1,13 +1,17 @@
 ---
-title: "Deutsches Bergbaumuseum"
-type: poi
-tags: [things_to_do, museum]
-snippet: "World's largest mining museum with real underground demonstration tunnels"
-address: "Am Bergbaumuseum 28, 44791 Bochum"
-opening_hours: "Tue–Fri 08:30–17:00, Sat–Sun 10:00–17:00; closed Monday"
-admission: "Adults €12, concessions €7"
+address: Am Bergbaumuseum 28, 44791 Bochum
+admission: Adults €12, concessions €7
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.4876
 longitude: 7.2153
+opening_hours: Tue–Fri 08:30–17:00, Sat–Sun 10:00–17:00; closed Monday
+snippet: World's largest mining museum with real underground demonstration tunnels
+tags:
+- things_to_do
+- museum
+title: Deutsches Bergbaumuseum
+type: poi
 ---
 
 The German Mining Museum is the largest mining museum in the world and one of the best industrial museums anywhere in Europe. The collection covers over 10,000 years of mining history, from stone-age flint extraction to modern mechanised coalfaces. The headframe above the building — 71 metres tall — is a Bochum landmark and the observation platform at the top gives a clear view across the Ruhr.

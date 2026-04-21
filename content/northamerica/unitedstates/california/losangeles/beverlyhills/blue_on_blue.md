@@ -1,5 +1,7 @@
 ---
 address: 9400 Olympic Blvd., Beverly Hills
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.0594
 longitude: -118.39
 phone: 310-277-5221

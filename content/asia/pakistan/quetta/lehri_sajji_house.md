@@ -1,5 +1,7 @@
 ---
 address: Jinnah Road, Town Centre, Quetta 87300
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.185
 longitude: 66.999
 snippet: Quetta's best-known spot for slow-roasted whole lamb sajji

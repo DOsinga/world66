@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.8435
 longitude: 4.3631
 snippet: Habsburg-laid hilltop quarter with major museums and palace

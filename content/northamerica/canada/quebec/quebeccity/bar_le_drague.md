@@ -1,14 +1,16 @@
 ---
 address: 804 rue Saint-Joachim, Québec City, QC
 closing_time: 3am
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 46.810936
 longitude: -71.21681
 phone: (418) 649-7212
+snippet: Québec City's main LGBTQ+ bar with multi-level layout
 tags:
 - bars_and_cafes
 title: Bar Le Drague
 type: poi
-snippet: "Québec City's main LGBTQ+ bar with multi-level layout"
 url: www.ledrague.com
 ---
 

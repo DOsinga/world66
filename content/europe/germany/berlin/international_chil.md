@@ -1,10 +1,12 @@
 ---
-address: "Choriner Str. 49"
+address: Choriner Str. 49
+done:
+  poi_cleanup: '2026-04-20'
 email: kontakt@mundoazul.de
 latitude: 52.536595
 longitude: 13.410217
-phone: "(030)49853834"
-snippet: "Independent multilingual children's bookshop in Prenzlauer Berg"
+phone: (030)49853834
+snippet: Independent multilingual children's bookshop in Prenzlauer Berg
 tags:
 - shopping
 title: International Children's Book Shop

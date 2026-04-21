@@ -1,6 +1,8 @@
 ---
 address: 302 P. Burgos Street, Tacloban City
 cuisine: Filipino
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.2436
 longitude: 125.0001
 snippet: Open-air grill in a hotel garden, good grilled tuna

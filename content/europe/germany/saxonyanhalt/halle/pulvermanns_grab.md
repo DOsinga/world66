@@ -1,5 +1,7 @@
 ---
 address: Howorkastraße 20, 06118 Halle (Saale)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.492
 longitude: 11.978
 phone: +49 345 532 2288

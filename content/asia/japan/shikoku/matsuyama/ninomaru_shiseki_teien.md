@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.8448
 longitude: 132.7628
 snippet: Tranquil garden on castle hill with matcha teahouse

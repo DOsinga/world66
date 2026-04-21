@@ -1,6 +1,7 @@
 ---
 latitude: 37.4459
 longitude: 25.3264
+snippet: "18th-century captains' houses overhanging the sea at sunset"
 tags:
 - things_to_do
 - neighbourhood

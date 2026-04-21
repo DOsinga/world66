@@ -1,6 +1,7 @@
 ---
 latitude: -21.0853
 longitude: 167.2441
+snippet: Freshwater cave pools hidden in limestone behind the beach
 tags:
 - things_to_do
 - landmark

@@ -177,6 +177,14 @@ function initLocationMap(elementId, markers, options) {
     // All markers available — starts as full pool; caller may expand via _setMarkers
     var _allMarkers = markers.slice();
 
+    function _makeTipHtml(m) {
+        var nameHtml = m.url
+            ? '<a class="map-tip-name" href="' + m.url + '">' + (m.name || '') + '</a>'
+            : '<span class="map-tip-name">' + (m.name || '') + '</span>';
+        return m.snippet
+            ? nameHtml + '<div class="map-tip-snippet">' + m.snippet + '</div>'
+            : nameHtml;
+    }
 
     function _addDotMarker(m) {
         var highlight = !!m.highlight;
@@ -191,8 +199,8 @@ function initLocationMap(elementId, markers, options) {
             zIndexOffset: -500,
         });
         if (m.name) {
-            mk.bindTooltip(m.name, {
-                className: 'map-name-tip',
+            mk.bindTooltip(_makeTipHtml(m), {
+                className: 'map-name-tip' + (m.snippet ? ' map-name-tip--rich' : ''),
                 direction: 'top',
                 offset: [0, -10],
                 sticky: false,
@@ -207,14 +215,23 @@ function initLocationMap(elementId, markers, options) {
         var inner = m.url
             ? '<a href="' + m.url + '">' + (m.name || '') + '</a>'
             : '<span>' + (m.name || '') + '</span>';
-        L.marker([m.lat, m.lng], {
+        var mk = L.marker([m.lat, m.lng], {
             icon: L.divIcon({
                 className: 'map-label' + cls,
                 html: '<i class="map-dot' + (highlight ? ' map-dot--highlight' : '') + '"></i>' + inner,
                 iconSize: [0, 0], iconAnchor: [0, 0],
             }),
             zIndexOffset: 1000,
-        }).addTo(group);
+        });
+        if (m.name) {
+            mk.bindTooltip(_makeTipHtml(m), {
+                className: 'map-name-tip' + (m.snippet ? ' map-name-tip--rich' : ''),
+                direction: 'top',
+                offset: [0, -10],
+                sticky: false,
+            });
+        }
+        mk.addTo(group);
     }
 
     // Greedy deconfliction — walk pool top-down, place label only if it doesn't overlap.

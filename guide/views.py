@@ -296,7 +296,8 @@ def _marker_from_page(page, highlight=False):
     if lat is not None and lng is not None:
         return {"lat": lat, "lng": lng, "name": page.title,
                 "url": page.get_absolute_url(), "highlight": highlight,
-                "score": float(page.meta.get("score", 0) or 0)}
+                "score": float(page.meta.get("score", 0) or 0),
+                "snippet": page.meta.get("snippet", "")}
     return None
 
 

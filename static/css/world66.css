@@ -882,6 +882,19 @@ img { max-width: 100%; height: auto; }
   margin: 0 0 28px;
 }
 
+/* Snippet — short one-liner shown prominently on POI pages */
+.page-snippet {
+  font-family: var(--display-font);
+  font-style: italic;
+  font-weight: 300;
+  font-variation-settings: "opsz" 144;
+  font-size: clamp(17px, 1.8vw, 22px);
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  color: var(--mute);
+  margin: -4px 0 24px;
+}
+
 /* Drop cap on first paragraph when a tagline is present */
 .body-text--dropcap > p:first-of-type::first-letter {
   float: left;
@@ -1136,6 +1149,29 @@ img { max-width: 100%; height: auto; }
   white-space: nowrap;
 }
 .map-name-tip::before { display: none !important; }
+
+.map-name-tip--rich {
+  white-space: normal;
+  max-width: 220px;
+  padding: 8px 11px !important;
+}
+
+.map-tip-name {
+  display: block;
+  font-weight: 600;
+  color: #111;
+}
+
+a.map-tip-name:hover { text-decoration: underline; }
+
+.map-tip-snippet {
+  font-family: var(--body-font);
+  font-size: 11px;
+  font-weight: 400;
+  color: #555;
+  margin-top: 4px;
+  line-height: 1.45;
+}
 
 .country-tooltip {
   font-family: var(--body-font);

@@ -124,6 +124,8 @@
 
 {% if page.meta.tagline %}
 <p class="page-tagline">{{ page.meta.tagline }}</p>
+{% elif page.meta.snippet %}
+<p class="page-snippet">{{ page.meta.snippet }}</p>
 {% endif %}
 
 {% if body_html %}
@@ -218,7 +220,7 @@
         <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
         <div class="poi-meat">
           <div class="poi-name">{{ poi.title }}</div>
-          {% if poi.body %}<div class="poi-blurb">{{ poi.body|truncatewords:24 }}</div>{% endif %}
+          {% if poi.meta.snippet %}<div class="poi-blurb">{{ poi.meta.snippet }}</div>{% elif poi.body %}<div class="poi-blurb">{{ poi.body|truncatewords:24 }}</div>{% endif %}
         </div>
         <div class="poi-tag">
           {% if poi.category %}{{ poi.category }}{% endif %}

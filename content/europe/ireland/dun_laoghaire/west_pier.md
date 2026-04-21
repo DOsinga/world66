@@ -2,6 +2,7 @@
 title: "West Pier"
 type: poi
 tags: [things_to_do, sight]
+snippet: "Salt-sprayed harbour pier with Victorian yacht club"
 latitude: 53.2960
 longitude: -6.1388
 ---

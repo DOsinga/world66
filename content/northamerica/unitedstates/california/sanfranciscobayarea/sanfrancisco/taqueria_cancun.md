@@ -4,6 +4,7 @@ latitude: 37.7601
 longitude: -122.4191
 phone: (415) 252-9560
 price: $2-6 per item
+snippet: Mission District burrito institution at rock-bottom prices
 tags:
 - eating_out
 - restaurant

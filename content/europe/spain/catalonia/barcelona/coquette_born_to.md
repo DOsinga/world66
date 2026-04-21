@@ -1,7 +1,10 @@
 ---
 address: Calle Rec 65 (Born), Barcelona 08003
 email: coquettecollection@yahoo.com
+latitude: 41.3847
+longitude: 2.183
 phone: +34 933192976
+snippet: Curated women's fashion boutique in the Born quarter
 tags:
 - shopping
 title: Coquette, Born to Be Beautiful
@@ -9,4 +12,4 @@ type: poi
 url: www.coquettebcn.com
 ---
 
-A beautiful store in super trendy Borne offering a fantastic choice of elegant and feminine brands such as Vanessa Bruno, See by Chloe, Erva, Isabel Marant and Sienna Miller's designs. One of the "must see" places in Barcelona.
+A well-curated women's fashion boutique in Barcelona's Born quarter, carrying a mix of established European designers and smaller independent labels. The shop has a clean, inviting layout and helpful staff who know their stock. Worth a stop if you are browsing the Born neighborhood's many small shops.

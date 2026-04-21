@@ -2,6 +2,7 @@
 address: Colon 47, between Ayacucho and Ingavi
 latitude: -17.7838
 longitude: -63.1812
+snippet: Bolivian snack bar three blocks from the plaza
 tags:
 - eating_out
 - restaurant

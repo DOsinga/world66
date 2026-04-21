@@ -1,6 +1,7 @@
 ---
 title: "Charles M. Schulz Museum"
 type: poi
+snippet: "Original Peanuts artwork in Schulz's longtime hometown"
 tags:
   - things_to_do
   - museum

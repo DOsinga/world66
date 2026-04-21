@@ -6,6 +6,7 @@ address: "Naviglio Grande, 20144 Milan"
 admission: "Free"
 latitude: 45.4509
 longitude: 9.1716
+snippet: Leonardo-designed canals lined with aperitivo bars and restaurants
 tags: ["48 Hours in Milan", "3 Days in Milan"]
 ---
 

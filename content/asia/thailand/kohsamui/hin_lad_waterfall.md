@@ -1,7 +1,10 @@
 ---
 title: "Hin Lad Waterfall"
 type: poi
-category: "Sight"
+tags:
+- things_to_do
+- sight
+snippet: "Quiet jungle waterfall with swimmable pools near Nathon"
 latitude: 9.4862
 longitude: 99.9644
 ---

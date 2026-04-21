@@ -158,6 +158,19 @@ img { max-width: 100%; height: auto; }
   text-shadow: none;
 }
 
+.hero-snippet {
+  font-family: var(--display-font);
+  font-style: italic;
+  font-weight: 300;
+  font-variation-settings: "opsz" 144;
+  font-size: clamp(16px, 1.8vw, 22px);
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  color: rgba(255, 255, 255, 0.88);
+  text-shadow: 0 1px 10px rgba(0,0,0,0.4);
+  margin-top: 8px;
+}
+
 /* ==========================================================================
    Content-area map / photo preview box
    ========================================================================== */

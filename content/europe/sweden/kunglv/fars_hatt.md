@@ -4,6 +4,7 @@ email: info@farshatt.se
 latitude: 57.8711
 longitude: 11.9796
 phone: +46 (0)303 10970
+snippet: Hotel restaurant with terrace views of Bohus Fortress
 tags:
 - eating_out
 title: Fars Hatt

@@ -1,6 +1,7 @@
 ---
-latitude: 6.8781
-longitude: 81.0561
+latitude: 6.8745
+longitude: 81.0465
+snippet: "Stone railway viaduct; spectacular with a train crossing"
 tags:
 - things_to_do
 - sight

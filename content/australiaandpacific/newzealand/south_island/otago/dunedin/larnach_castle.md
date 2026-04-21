@@ -3,9 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: -45.8465
 longitude: 170.6663
+snippet: New Zealand's only castle, with a dramatic family history
 tags:
 - things_to_do
 - architecture
+- story
 title: Larnach Castle
 type: poi
 ---

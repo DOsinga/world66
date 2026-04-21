@@ -1,12 +1,13 @@
 ---
-title: "R. E. Olds Transportation Museum"
+title: R. E. Olds Transportation Museum
 type: poi
-category: "Museum"
 latitude: 42.7335
 longitude: -84.5520
-address: "240 Museum Dr."
-phone: "(517) 372-0422"
-url: "www.reoldsmuseum.org"
+address: 240 Museum Dr., Lansing
+snippet: Birthplace of the Oldsmobile, with the original 1897 model
+tags:
+- things_to_do
+- museum
 ---
 
-A tribute to Lansing's most prominent industrialist, Ransom Eli Olds. The very first Oldsmobile, built in 1897, is on display alongside antique REOs, Stars, and a collection of automotive advertising and memorabilia.
+Ransom Eli Olds built his first car in Lansing in 1897, and this museum tells that story well. The centerpiece is that original Oldsmobile curved-dash runabout, which looks startlingly frail for something that launched one of America's great car brands. Also on display are early REO trucks, Stars, and a large collection of automotive advertising art that doubles as a record of American consumer culture from the 1900s onward. The museum is modest in size — an hour is plenty — but the density of actual early vehicles makes it worth the stop if you have any interest in automotive history.

@@ -3,10 +3,10 @@ address: 11508 Clifton Blvd.
 latitude: 41.487331
 longitude: -81.766596
 phone: (216) 939-9933
+snippet: Beloved vintage shop for retro clothing and collectibles
 tags:
 - shopping
 - shop
-- neighbourhood
 title: Flower Child
 type: poi
 ---

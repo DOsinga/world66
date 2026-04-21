@@ -2,6 +2,7 @@
 title: "Vestingmuseum Naarden"
 type: poi
 category: Museum
+snippet: "Fortress museum in original 1680s casemates with underground tunnels"
 latitude: 52.2960
 longitude: 5.1614
 ---

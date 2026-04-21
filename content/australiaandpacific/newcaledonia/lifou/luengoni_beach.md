@@ -1,6 +1,7 @@
 ---
 latitude: -21.0838
 longitude: 167.2461
+snippet: White sand crescent with reef snorkeling and nesting sea turtles
 tags:
 - beaches
 title: Luengoni Beach

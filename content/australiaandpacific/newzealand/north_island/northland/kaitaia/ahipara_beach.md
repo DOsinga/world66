@@ -1,6 +1,10 @@
 ---
 latitude: -35.1716
 longitude: 173.1522
+snippet: Surf beach at the southern end of Ninety Mile Beach
+tags:
+- beaches
+- beach
 title: Ahipara Beach
 type: poi
 ---

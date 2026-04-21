@@ -1,31 +1,17 @@
 ---
-address: epelenberg 139 C
+address: Al Fahidi Street, Bur Dubai
 category: Museum
-latitude: 51.592687
-longitude: 4.808872
-title: Dubai museum
+latitude: 25.2634
+longitude: 55.2972
+snippet: Pre-oil Dubai life recreated inside the city's oldest fort
+title: Dubai Museum
 type: poi
+tags:
+- things_to_do
 ---
 
-Al Fahidi Fort, which houses the Dubai Museum, is another imposing
-building. It once guarded the city’s landward approaches. Built around
-1799, it has served variously as palace, garrison and prison.
+Al Fahidi Fort, which houses the Dubai Museum, is the oldest surviving building in the city, built around 1799. It served at various points as a palace, garrison, and prison before being converted into a museum in 1970 and substantially expanded in 1995.
 
-It
-was renovated in 1970 for use as a museum; further restoration and the
-addition of galleries was completed in 1995. Colourful and evocative
-dioramas, complete with life-size figures and sound and lighting
-effects, vividly depict everyday life in pre-oil days. Galleries
-rescenes from the Creek, traditional Arab houses, mosques, the souk,
-date gardens, desert and marine life.
+The museum does a good job of evoking what Dubai looked like before oil changed everything — atmospheric dioramas with life-size figures and sound effects recreate the Creek, traditional coral-and-gypsum houses, mosques, the souk, date gardens, and desert and marine life. The pearl-diving exhibit is a highlight, showing the weights, scales, and equipment of the trade that sustained the city for centuries.
 
-One of the most
-spectacular exhibits portrays the underwater world of pearl-diving, and
-is accompanied by sets of pearl merchants’ weights, scales and sieves.
-
-Also
-on display are artefacts such as fine copper, alabaster and pottery
-objects found in 3,000–4,000 year-old graves at Al Ghusais. The main
-fort is a fascinating military museum.
-
-type: Palaces
+Also worth seeing are the archaeological finds from graves at Al Ghusais dating back 3,000 to 4,000 years — evidence of a very long human presence in this part of the Gulf. Admission is inexpensive and the museum is one of the more worthwhile stops in the city.

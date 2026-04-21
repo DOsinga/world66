@@ -2,6 +2,7 @@
 address: 'Carrera 9 # 2-13, San Antonio'
 latitude: 3.4475
 longitude: -76.5414
+snippet: Bohemian cafe in San Antonio with good coffee and Márquez on the walls
 tags:
 - bars_and_cafes
 - cafe

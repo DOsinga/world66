@@ -1,6 +1,6 @@
 ---
 done:
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: asia.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/24046097@N00">Romain
   Guy</a> from San Francisco, USA

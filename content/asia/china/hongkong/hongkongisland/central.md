@@ -1,6 +1,7 @@
 ---
 latitude: 22.2819
 longitude: 114.1582
+snippet: Hong Kong's financial heart and original colonial settlement
 tags:
 - things_to_do
 - neighbourhood

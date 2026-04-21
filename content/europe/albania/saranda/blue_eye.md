@@ -1,6 +1,7 @@
 ---
 latitude: 39.9244
 longitude: 20.1844
+snippet: Mesmerising deep-blue natural spring of unknown depth
 tags:
 - things_to_do
 - landmark

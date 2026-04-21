@@ -1,0 +1,15 @@
+content/europe/finland.md
+content/europe/france.md
+content/europe/georgia.md
+content/europe/gibraltar.md
+content/europe/greece.md
+content/europe/hungary.md
+content/europe/iceland.md
+content/europe/ireland.md
+content/europe/isleofman.md
+content/europe/italy.md
+content/europe/kosovo.md
+content/europe/latvia.md
+content/europe/liechtenstein.md
+content/europe/lithuania.md
+content/europe/luxembourg.md

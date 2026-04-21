@@ -1,0 +1,15 @@
+content/asia/easttimor.md
+content/asia/india.md
+content/asia/indonesia.md
+content/asia/iran.md
+content/asia/iraq.md
+content/asia/israel.md
+content/asia/japan.md
+content/asia/jordan.md
+content/asia/kazakhstan.md
+content/asia/kuwait.md
+content/asia/kyrgyzstan.md
+content/asia/laos.md
+content/asia/lebanon.md
+content/asia/malaysia.md
+content/asia/maldives.md

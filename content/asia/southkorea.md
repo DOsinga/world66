@@ -7,6 +7,11 @@ image: southkorea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Seoul_subway_peak_hour.jpg
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a>
+quick_facts:
+  Population: "52 million"
+  Transit: "World-class metro and KTX high-speed rail"
+  Internet Speed: "Consistently ranked fastest in the world"
+  DMZ from Seoul: "Just 50 km"
 done:
   country_cleanup: 2026-03-30
 score: 0.74

@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Franzfoto" title="User:Franzfoto">Franzfoto</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "10.2 million"
+  Religion: "~97% Muslim, but alcohol is widely available"
+  Mud Volcanoes: "More than any other country — about 350"
+  Land of Fire: "Natural gas flames have burned for millennia at Yanar Dag"
 score: 0.32
 ---
 

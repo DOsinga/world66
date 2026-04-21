@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:MégalitheSénégal.jpg
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/gbaku/">John
   Atherton</a>
+quick_facts:
+  Population: "18 million"
+  Language: "French (Wolof widely spoken)"
+  Westernmost Point: Cap Vert peninsula
+  Military Coups: "0"
 done:
   country_cleanup: 2026-03-31
 score: 0.49

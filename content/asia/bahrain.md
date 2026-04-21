@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Tree_of_Life,_Bahrain_-_ജീവന്റെ_മരം,_ബഹ്റൈൻ_02.JPG
 latitude: 26.0667
 longitude: 50.5577
+quick_facts:
+  Population: "1.5 million"
+  Alcohol: "Available (rare for the Gulf)"
+  Island Nation: "33 islands connected by causeways"
+  Tree of Life: "400+ years old"
 title: Bahrain
 type: location
 score: 0.54

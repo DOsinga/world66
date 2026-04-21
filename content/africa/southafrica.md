@@ -9,6 +9,11 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Kimberley_seen_from_the_west_2015.JPG
 latitude: -28.816624
 longitude: 24.991639
+quick_facts:
+  Population: "62 million"
+  Currency: Rand (ZAR)
+  Official Languages: "11"
+  Capitals: "3"
 score: 0.48
 title: South Africa
 type: location

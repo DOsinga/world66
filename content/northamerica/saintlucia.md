@@ -1,6 +1,11 @@
 ---
 title: Saint Lucia
 type: location
+quick_facts:
+  Population: "~180,000"
+  Drives On: Left
+  Nobel Laureates Per Capita: "2 — highest ratio in the world"
+  The Pitons: Twin volcanic peaks rising 770 m from the sea
 image: saintlucia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kreuzf-Hafen-st-lucia.jpg
 image_license: CC BY-SA 3.0

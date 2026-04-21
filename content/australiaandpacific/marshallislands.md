@@ -11,6 +11,11 @@ latitude: 7.131474
 longitude: 171.184478
 title: Marshall Islands
 type: location
+quick_facts:
+  Population: "38,000"
+  Currency: US Dollar
+  Nuclear Tests at Bikini Atoll: "67"
+  Average Elevation: "2 metres above sea level"
 score: 0.52
 ---
 

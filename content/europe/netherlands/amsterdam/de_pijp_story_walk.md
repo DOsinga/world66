@@ -1,6 +1,8 @@
 ---
 title: "The De Pijp Stories Walk"
 type: walk
+story: >
+  On 19 February 1941, German police raided an ice cream parlour called Koco on Van Woustraat. The owner, Ernst Cahn — a German-Jewish refugee who had fled Nazi Germany — was arrested and tortured for the name of whoever had rigged the ammonia trap at the entrance. He never gave it up. The crackdown that followed — house raids across the Jewish Quarter, hundreds of young Jewish men deported — triggered the February Strike: 300,000 Amsterdam workers stopped work on 25 February in the only mass popular protest against Nazi persecution of Jews in occupied Europe. Cahn was shot on 3 March 1941, the first person executed in the Netherlands under occupation. He was 33.
 tags:
   - city_walks
 latitude: 52.357917

@@ -1,6 +1,7 @@
 ---
-title: "Typhoid Fever"
-type: poi
+snippet: Prevention and treatment advice for travelers
+title: Typhoid Fever
+type: article
 ---
 
 [TravelWise](/world/travelwise) **>** [Health](/world/travelwise/health) **>** [Typhoid Fever](/world/travelwise/health/typhoid)

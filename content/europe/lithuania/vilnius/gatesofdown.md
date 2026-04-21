@@ -1,4 +1,7 @@
 ---
+latitude: 54.6741
+longitude: 25.2891
+snippet: Renaissance city gate with a miracle-working icon of the Virgin
 title: Gates of Dawn
 type: poi
 tags: [sights, landmark]

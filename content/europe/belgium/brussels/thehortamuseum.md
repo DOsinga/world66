@@ -3,6 +3,7 @@ address: Rue Américaine 25, 1060 Saint-Gilles
 latitude: 50.8268
 longitude: 4.3603
 opening_hours: Tue–Sun 14:00–17:30; closed Mon
+snippet: Victor Horta's Art Nouveau home and studio, UNESCO-listed
 tags:
 - things_to_do
 - museum

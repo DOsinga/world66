@@ -405,12 +405,33 @@ def content_image(request, path):
 
 def walk_gpx(request, path):
     """Generate and serve a GPX file for a walk page."""
+    import re
+    import xml.etree.ElementTree as ET
+    from django.http import HttpResponse
+
     page = load_page(path)
     if not page or page.page_type != 'walk':
         raise Http404
 
-    from django.http import HttpResponse
-    import xml.etree.ElementTree as ET
+    # Load waypoint POIs for names and descriptions
+    city_path = '/'.join(path.split('/')[:-1])
+    waypoints = []
+    for wp_slug in page.meta.get('waypoints', []):
+        wp = load_page(city_path + '/' + wp_slug)
+        if not wp:
+            continue
+        lat = _safe_float(wp.meta.get('latitude'))
+        lng = _safe_float(wp.meta.get('longitude'))
+        desc = wp.meta.get('snippet') or (wp.body[:200].strip() if wp.body else '')
+        waypoints.append({'title': wp.title, 'lat': lat, 'lng': lng, 'desc': desc})
+
+    # Build description: walk intro + numbered stop list
+    plain_body = re.sub(r'<[^>]+>', '', page.body or '').strip()
+    stops_text = '\n'.join(
+        f"{i+1}. {wp['title']}" + (f" — {wp['desc']}" if wp['desc'] else '')
+        for i, wp in enumerate(waypoints)
+    )
+    full_desc = (plain_body[:400] + '\n\n' if plain_body else '') + stops_text
 
     gpx = ET.Element('gpx', {
         'version': '1.1',
@@ -420,31 +441,15 @@ def walk_gpx(request, path):
         'xsi:schemaLocation': 'http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd',
     })
 
-    # Waypoints — load each POI for title, snippet, coords
-    city_path = '/'.join(path.split('/')[:-1])
-    for wp_slug in page.meta.get('waypoints', []):
-        wp = load_page(city_path + '/' + wp_slug)
-        if not wp:
-            continue
-        lat = _safe_float(wp.meta.get('latitude'))
-        lng = _safe_float(wp.meta.get('longitude'))
-        if lat is None or lng is None:
-            continue
-        wpt = ET.SubElement(gpx, 'wpt', {'lat': str(lat), 'lon': str(lng)})
-        ET.SubElement(wpt, 'name').text = wp.title
-        desc = wp.meta.get('snippet') or (wp.body[:300].strip() if wp.body else '')
-        if desc:
-            ET.SubElement(wpt, 'desc').text = desc
+    meta = ET.SubElement(gpx, 'metadata')
+    ET.SubElement(meta, 'name').text = page.title
+    if full_desc:
+        ET.SubElement(meta, 'desc').text = full_desc
 
-    # Track from route coordinates
     route = page.meta.get('route', [])
     if route:
         trk = ET.SubElement(gpx, 'trk')
         ET.SubElement(trk, 'name').text = page.title
-        if page.body:
-            import re
-            plain = re.sub(r'<[^>]+>', '', page.body)
-            ET.SubElement(trk, 'desc').text = plain[:500].strip()
         seg = ET.SubElement(trk, 'trkseg')
         for pt in route:
             ET.SubElement(seg, 'trkpt', {'lat': str(pt[0]), 'lon': str(pt[1])})

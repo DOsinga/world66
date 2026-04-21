@@ -2,6 +2,10 @@
 category: Sight
 latitude: -34.9823
 longitude: 173.2564
+snippet: Preserved kauri gum-digging site with ancient buried logs
+tags:
+- things_to_do
+- sight
 title: Gumdiggers Park
 type: poi
 ---

@@ -5,6 +5,7 @@ story: Maria Reiche, a German mathematician, spent over 50 years measuring and m
   the Nazca Lines, sleeping on the desert plain to protect them from vehicle damage.
   She proved that many of the lines align with solar and stellar events, though the
   purpose of the figures remains disputed.
+snippet: Ancient geoglyphs visible only from the air
 tags:
 - things_to_do
 - sight

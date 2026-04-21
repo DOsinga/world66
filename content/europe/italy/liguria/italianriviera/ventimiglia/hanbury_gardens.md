@@ -1,9 +1,10 @@
 ---
-title: "Hanbury Gardens"
-type: poi
-category: "Sight"
+category: Sight
 latitude: 43.7836
-longitude: 7.5540
+longitude: 7.554
+snippet: Clifftop botanical gardens with exotic plants from five continents
+title: Hanbury Gardens
+type: poi
 ---
 
 Created in 1867 by the English merchant Sir Thomas Hanbury, these botanical gardens sprawl across eighteen hectares of clifftop at Capo Mortola, sloping down toward the sea. Hanbury had traveled extensively in the Far East and enlisted his brother Daniel, a pharmacologist, to help assemble a collection of exotic plants from around the world. The sheltered position — mountains on three sides, the Mediterranean to the south — creates a microclimate where species from the tropics, Australia, and southern Africa thrive alongside native Mediterranean flora.

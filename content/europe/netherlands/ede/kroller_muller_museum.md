@@ -5,6 +5,7 @@ latitude: 52.096224
 longitude: 5.817664
 opening_hours: Tue–Sun 10.00–17.00; closed Mondays
 phone: +31 (0)318 591 241
+snippet: World's second-largest Van Gogh collection with a superb sculpture garden
 tags:
 - things_to_do
 - museum

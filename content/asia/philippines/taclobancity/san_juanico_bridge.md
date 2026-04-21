@@ -1,6 +1,7 @@
 ---
 latitude: 11.3211
 longitude: 124.9722
+snippet: Iconic two-kilometre bridge linking Leyte and Samar
 tags:
 - things_to_do
 - architecture

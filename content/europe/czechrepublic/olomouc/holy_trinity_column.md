@@ -1,6 +1,7 @@
 ---
 latitude: 49.5937
 longitude: 17.251
+snippet: "UNESCO-listed Baroque column, largest in Central Europe"
 tags:
 - things_to_do
 - sight

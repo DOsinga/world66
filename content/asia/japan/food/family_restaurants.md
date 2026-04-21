@@ -1,58 +1,25 @@
 ---
-title: "Family Restaurants"
+title: “Family Restaurants”
 type: poi
-type: "Japanese"
+snippet: “Japan’s ubiquitous chain diners serving mixed Western-Japanese menus”
+tags:
+  - eating_out
 latitude: 35.733836
 longitude: 139.747893
 ---
 
-The various establishments known collectively as “Family Restaurants”
-are Japan’s answer to the American chain-restaurant. Housed in
-large buildings, often with substantial parking lots, well lit, and
-sometimes even open twenty-four hours, Family Restaurants bear little
-resemblance to more traditional establishments. Given that the
-traditional Japanese eatery has a nearly invisible storefront, no
-parking, and rather limited hours, this is a large part of their
-appeal.
+The various establishments known collectively as “family restaurants” are Japan’s answer to the American chain restaurant. Housed in large buildings with substantial parking lots, well lit, and sometimes open twenty-four hours, they bear little resemblance to more traditional Japanese eateries. Given that the traditional Japanese restaurant has a nearly invisible storefront, no parking, and rather limited hours, this is a large part of their appeal.
 
-Family restaurants generally serve a mis-mash of Western, faux-Western, and Japanese cuisine, featuring both* teishoku* set meals and individual items (*tanpin*).
-The quality is what you would expect for a national chain – nothing
-terrible, but nothing very good, either. They tend to be a little
-more expensive than the smaller, independent establishments, especially
-considering the quality of the food. But, given the diversity of
-the menus, they do make a good compromise for groups with differing
-tastes. One thing on which the Family Restaurant has a
-near-monopoly in Japan is the drink bar – they are just about the only
-place in the country where you can find soda and juice served on an
-all-you-can-drink basis. Family Restaurants are quite popular
-with high-school students.
+Family restaurants serve a mix of Western, faux-Western, and Japanese cuisine, featuring both *teishoku* set meals and individual items (*tanpin*). The quality is what you would expect from a national chain -- nothing terrible, but nothing very good either. They tend to be a little more expensive than smaller independent establishments, especially considering the food quality. But the diverse menus make them a good compromise for groups with differing tastes.
 
-Family Restaurants are common around train stations, and on major
-highways. They are almost all owned by a few regional or national
-chains. Here are some of the more common ones –
+One thing the family restaurant has a near-monopoly on in Japan is the drink bar -- they are just about the only place in the country where you can find soda and juice served on an all-you-can-drink basis. They are quite popular with high-school students.
 
-Denny’s – Japanese Denny’s is a cut above it’s American progenitor, and
-it’s one of the VERY few places you can find something approaching an
-American breakfast. Aside from that, there is no resemblance at
-all.
+Family restaurants are common around train stations and on major highways. They are almost all owned by a few regional or national chains. Here are some of the more common ones:
 
-Skylark/Gusto/Skylark-Gusto – A set of inter-related chains, all of
-which very closely resemble each other. Skylark features a
-seasonally-varied Japanese menu, and a fairly consistent Western menu
-with actual steak, hamburger-steak, and a chicken item or two.
-They also have the family-restaurant standards – fried potato (French
-Fries), kara-age (Japanese fried chicken), and various gratin-dishes.
+**Denny’s** -- Japanese Denny’s is a cut above its American progenitor, and one of the very few places you can find something approaching an American breakfast. Aside from that, there is no resemblance at all.
 
-Jonathan’s – Jonathan’s has a somewhat more extensive Japanese menu
-than Skylark, and a correspondingly smaller Western menu.
-Otherwise, they are much the same.
+**Skylark/Gusto** -- A set of interrelated chains that closely resemble each other. Skylark features a seasonally varied Japanese menu and a fairly consistent Western menu with actual steak, hamburger steak, and a chicken item or two. They also have the family restaurant standards: fried potato, karaage (Japanese fried chicken), and various gratin dishes.
 
-Bikkuri-Donki – I have not yet discovered whether this is supposed to
-mean “Surprising Donkey,” “Donkey Surprise,” or something else
-entirely. In any case, the menu is almost entirely made up of
-hamburger-steak. Hopefully, not made from donkeys.
+**Jonathan’s** -- Jonathan’s has a somewhat more extensive Japanese menu than Skylark, and a correspondingly smaller Western menu. Otherwise, they are much the same.
 
-**Contributors**
-October 01, 2006
-
-type: Japanese
+**Bikkuri Donkey** -- The menu is almost entirely made up of hamburger steak, served on a sizzling iron plate. A solid bet if you want a filling, affordable meal and do not need variety.

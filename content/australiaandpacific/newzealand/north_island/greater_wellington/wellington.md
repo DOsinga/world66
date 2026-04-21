@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-06
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 latitude: -41.288795
 longitude: 174.777211
 score: 0.67

@@ -1,5 +1,7 @@
 ---
-title: 'Bars and Cafes'
+done:
+  poi_cleanup: '2026-04-20'
+title: Bars and Cafes
 type: section
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: "Getting There"
-type: section
-type: "By Air"
+done:
+  poi_cleanup: '2026-04-20'
+title: Getting There
+type: By Air
 ---
 
 Most likely if one wants to go to Yangshuo they will have to go to Guiling first. From Guilin it is easy to find buses Yangshuo. You shouldn't pay any more than 10 yuan apiece. It is approximately a one hour ride from Guilin to Yangshuo. The bus will either stop at the bus station or drop you off at West St.

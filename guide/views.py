@@ -1,4 +1,5 @@
 import json
+import re
 import sqlite3
 import subprocess
 from pathlib import Path
@@ -94,7 +95,7 @@ def location_or_section(request, path):
     _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
     if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
-    body_html = md.markdown(page.body) if page.body else ""
+    body_html = md.markdown(page.body, extensions=["admonition"]) if page.body else ""
     nav_pages, locations, pois = page.children()
 
     # Separate neighbourhood pages from nav pages so they render inline under
@@ -122,6 +123,27 @@ def location_or_section(request, path):
     poi_categories = []
     if page.page_type in NAV_TYPES and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
+
+    # Walk: load route coordinates and waypoint pages
+    walk_route = []
+    walk_waypoints = []
+    if page.page_type == "walk":
+        walk_route = page.meta.get("route", [])
+        city_path = _find_city_path(page.path)
+        if city_path:
+            seen_paths = set()
+            for wp_slug in page.meta.get("waypoints", []):
+                wp = load_page(city_path + "/" + wp_slug)
+                if wp and wp.path not in seen_paths:
+                    seen_paths.add(wp.path)
+                    walk_waypoints.append(wp)
+            # Also include POIs linked in the body text that aren't already waypoints
+            for link_path in re.findall(r'\]\((/[^)]+)\)', page.body or ''):
+                link_path = link_path.strip('/')
+                wp = load_page(link_path)
+                if wp and wp.page_type == 'poi' and wp.path not in seen_paths:
+                    seen_paths.add(wp.path)
+                    walk_waypoints.append(wp)
 
     # Map context
     lat = _safe_float(page.meta.get("latitude"))
@@ -224,6 +246,8 @@ def location_or_section(request, path):
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
+        "walk_route": mark_safe(json.dumps(walk_route)),
+        "walk_waypoints": walk_waypoints,
         "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,

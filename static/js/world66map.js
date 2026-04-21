@@ -125,6 +125,55 @@ function initCountryMap(elementId, continentSlug, bounds) {
 }
 
 
+/* ---- Walk map: route polyline + numbered waypoint markers ---- */
+
+function initWalkMap(elementId, route, waypoints) {
+    const map = L.map(elementId, {
+        zoomControl: false,
+        attributionControl: false,
+        scrollWheelZoom: false,
+    });
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        maxZoom: 18,
+    }).addTo(map);
+
+    L.control.zoom({position: 'topleft'}).addTo(map);
+
+    if (route.length) {
+        L.polyline(route, {color: W66_RED, weight: 4, opacity: 0.8, interactive: false}).addTo(map);
+    }
+
+    waypoints.forEach(function(wp, i) {
+        if (wp.lat == null || wp.lng == null) return;
+        var icon = L.divIcon({
+            className: 'walk-marker',
+            html: String(i + 1),
+            iconSize: [24, 24],
+            iconAnchor: [12, 12],
+        });
+        L.marker([wp.lat, wp.lng], {icon: icon})
+            .bindTooltip(wp.title, {direction: 'top', offset: [0, -14]})
+            .addTo(map);
+    });
+
+    var bounds = route.length ? L.polyline(route).getBounds() : null;
+    if (bounds) {
+        map.fitBounds(bounds.pad(0.15));
+    } else if (waypoints.length) {
+        var pts = waypoints.filter(function(w) { return w.lat != null; })
+                           .map(function(w) { return [w.lat, w.lng]; });
+        if (pts.length) map.fitBounds(L.polyline(pts).getBounds().pad(0.15));
+    }
+
+    L.control.attribution({position: 'bottomright', prefix: false})
+        .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
+        .addTo(map);
+
+    return map;
+}
+
+
 /* ---- Shared helpers ---- */
 
 /* Pan the background map so a single marker sits in the middle of the hero

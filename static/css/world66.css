@@ -951,7 +951,35 @@ img { max-width: 100%; height: auto; }
   margin: 0;
 }
 
-/* Story box — historical anecdote on POI pages */
+/* Story box — historical anecdote, inline in body text via !!! story admonition */
+.admonition.story {
+  background: #fdf8f0;
+  border-left: 3px solid #c8a55a;
+  padding: 14px 18px;
+  margin: 20px 0;
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+.admonition.story .admonition-title {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #9a7030;
+  margin-bottom: 6px;
+}
+
+.admonition.story p {
+  margin: 0 0 8px;
+}
+
+.admonition.story p:last-child {
+  margin-bottom: 0;
+}
+
+/* Story box — historical anecdote on POI pages (frontmatter) */
 .story-box {
   background: #fdf8f0;
   border-left: 3px solid #c8a55a;
@@ -1893,6 +1921,59 @@ img { max-width: 100%; height: auto; }
     overflow-x: auto;
     white-space: nowrap;
   }
+}
+
+/* Walk page */
+.walk-waypoints {
+  margin: 20px 0;
+  padding-left: 0;
+  list-style: none;
+  counter-reset: waypoint;
+}
+
+.walk-waypoints li {
+  counter-increment: waypoint;
+  padding: 6px 0 6px 36px;
+  position: relative;
+  border-bottom: 1px solid var(--border);
+}
+
+.walk-waypoints li::before {
+  content: counter(waypoint);
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  background: var(--red);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.walk-marker {
+  background: var(--red);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: bold;
+  width: 24px !important;
+  height: 24px !important;
+  line-height: 24px;
+  text-align: center;
+}
+
+/* POI table on section pages */
+.poi-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 14px;
 }
 
 /* ---- POI image inspiration strip ---- */

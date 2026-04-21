@@ -1,6 +1,7 @@
 ---
 title: "Sint Andrieshofje"
 type: poi
+category: Historic Site
 latitude: 52.3755820
 longitude: 4.8803577
 ---

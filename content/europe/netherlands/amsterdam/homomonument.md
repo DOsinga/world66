@@ -1,8 +1,9 @@
 ---
 title: Homomonument
 type: poi
-latitude: 52.3733
-longitude: 4.8840
+category: Monument
+latitude: 52.374453
+longitude: 4.884731
 tags:
 - things_to_do
 - sight

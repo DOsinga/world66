@@ -136,6 +136,14 @@
 <a class="gpx-download" href="/{{ page.path }}.gpx" download>&#8595; Download GPX</a>
 {% endif %}
 
+{% if page.page_type == "walk" and walk_waypoints %}
+<ol class="walk-waypoints">
+  {% for wp in walk_waypoints %}
+  <li><a href="{{ wp.get_absolute_url }}">{{ wp.title }}</a></li>
+  {% endfor %}
+</ol>
+{% endif %}
+
 {% if page.meta.quote %}
 <blockquote class="pull-quote">{{ page.meta.quote }}</blockquote>
 {% endif %}
@@ -349,14 +357,76 @@
 {% block extra_js %}
 <script>
 (function() {
+  var hero = document.getElementById('hero');
+  var heroExpandBtn = document.getElementById('hero-expand-btn');
+  var heroExpanded = false;
+  var bgMapEl = document.getElementById('background-map');
+
+  {% if not is_continent %}
+  var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
+  {% endif %}
+  var bgMap = null;
+  var bgInited = false;
+
+  function initBgMap() {
+    if (bgInited || !bgMapEl) return;
+    void bgMapEl.offsetHeight; // force reflow so Leaflet measures real dimensions
+    {% if is_continent %}
+    bgMap = initCountryMap('background-map', '{{ continent_slug|escapejs }}');
+    {% else %}
+    {% if page.page_type == "walk" %}
+    var walkRoute = {{ walk_route }};
+    var walkWaypoints = [{% for wp in walk_waypoints %}{"lat":{% if wp.meta.latitude %}{{ wp.meta.latitude }}{% else %}null{% endif %},"lng":{% if wp.meta.longitude %}{{ wp.meta.longitude }}{% else %}null{% endif %},"title":"{{ wp.title|escapejs }}"}{% if not forloop.last %},{% endif %}{% endfor %}];
+    bgMap = initWalkMap('background-map', walkRoute, walkWaypoints);
+    {% else %}
+    if (markers.length) bgMap = initLocationMap('background-map', markers, mapOptions);
+    {% endif %}
+    {% endif %}
+    bgInited = true;
+  }
+
+  {% if hero_image_url %}
+  // Photo/Map toggle — background-map starts hidden
+  var heroBtnPhoto = document.getElementById('hero-btn-photo');
+  var heroBtnMap   = document.getElementById('hero-btn-map');
+
+  function setMapMode() {
+    if (!bgMapEl) return;
+    bgMapEl.style.display = 'block';
+    document.body.style.backgroundImage = 'none';
+    if (heroBtnMap)   heroBtnMap.classList.add('hero-toggle-active');
+    if (heroBtnPhoto) heroBtnPhoto.classList.remove('hero-toggle-active');
+    if (!bgInited) { initBgMap(); } else if (bgMap) { bgMap.invalidateSize(); }
+  }
+
+  function setPhotoMode() {
+    if (!bgMapEl) return;
+    bgMapEl.style.display = 'none';
+    document.body.style.backgroundImage = '';
+    if (heroBtnPhoto) heroBtnPhoto.classList.add('hero-toggle-active');
+    if (heroBtnMap)   heroBtnMap.classList.remove('hero-toggle-active');
+  }
+
+  if (heroBtnMap)   heroBtnMap.addEventListener('click', setMapMode);
+  if (heroBtnPhoto) heroBtnPhoto.addEventListener('click', setPhotoMode);
+
+  {% endif %}
+
   {% if is_continent %}
-  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
+  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {% if continent_bounds %}{{ continent_bounds }}{% else %}null{% endif %});
+  {% elif page.page_type == "walk" %}
+  var walkRoute = {{ walk_route }};
+  var walkWaypoints = [{% for wp in walk_waypoints %}{"lat":{% if wp.meta.latitude %}{{ wp.meta.latitude }}{% else %}null{% endif %},"lng":{% if wp.meta.longitude %}{{ wp.meta.longitude }}{% else %}null{% endif %},"title":"{{ wp.title|escapejs }}"}{% if not forloop.last %},{% endif %}{% endfor %}];
+  var sideMap = initWalkMap('sidebar-map', walkRoute, walkWaypoints);
+  var fullMarkers = null;
   {% else %}
-  var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  var fullMarkers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
-    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
+    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}});
   }
+  {% endif %}
 
   // Expand / collapse the sidebar map
   var expandBtn = document.getElementById('sidebar-map-expand');
@@ -366,18 +436,15 @@
       var expanded = mapCard.classList.toggle('sidebar-map-expanded');
       expandBtn.innerHTML = expanded ? '&#x2715;' : '&#x26F6;';
       expandBtn.title     = expanded ? 'Collapse map' : 'Expand map';
-      if (expanded) {
-        var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
-        mapCard.style.top = navH + 'px';
+      var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
+      mapCard.style.top = expanded ? navH + 'px' : '';
+      if (fullMarkers) {
         sideMap._setMarkers(fullMarkers);
       } else {
-        mapCard.style.top = '';
-        sideMap._setMarkers(fullMarkers);
+        sideMap.invalidateSize();
       }
     });
   }
-
-  {% endif %}
 })();
 </script>
 {% endblock %}

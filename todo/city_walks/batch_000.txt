@@ -1,0 +1,5 @@
+europe/italy/lazio/rome
+europe/france/ilede_france/paris
+europe/uk/england/london
+europe/spain/catalonia/barcelona
+europe/italy/tuscany/florence

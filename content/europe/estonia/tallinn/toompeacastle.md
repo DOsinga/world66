@@ -2,6 +2,7 @@
 address: Toompea Hill
 latitude: 59.4359
 longitude: 24.7378
+snippet: Medieval castle now home to Estonia's parliament
 tags:
 - things_to_do
 - landmark

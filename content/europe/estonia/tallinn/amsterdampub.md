@@ -1,5 +1,7 @@
 ---
 address: Pärnu mnt. 16
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 59.432299
 longitude: 24.745419
 phone: '6313215'

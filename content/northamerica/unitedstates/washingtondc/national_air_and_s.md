@@ -1,5 +1,7 @@
 ---
 address: 7th St. and Independence Ave., S.W.
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.8882
 longitude: -77.0199
 opening_hours: 10:00 am - 5:30 pm

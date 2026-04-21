@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -1.3743
 longitude: 36.7516
 snippet: Hand-feed endangered Rothschild's giraffes from a raised platform

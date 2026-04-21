@@ -1,5 +1,7 @@
 ---
 address: La Rambla 74
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.3808
 longitude: 2.1741
 snippet: Stylish art-nouveau cafe on the Ramblas opposite the Liceu

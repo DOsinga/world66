@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 8.1333
 longitude: -77.7167
 snippet: The only break in the road from Alaska to Patagonia

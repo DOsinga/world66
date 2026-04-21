@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -18.149702
 longitude: 178.425605
 snippet: Lapita pottery to the HMS Bounty rudder in Thurston Gardens

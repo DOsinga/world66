@@ -1,6 +1,8 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.3605
-longitude: 0.0710
+longitude: 0.071
 snippet: Ornate Norman villa, the showpiece of Deauville's resort architecture
 tags:
 - things_to_do

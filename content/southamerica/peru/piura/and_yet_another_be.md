@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -5.280444
 longitude: -81.12274
 snippet: Secluded beach village with a hidden cave and seabird colony

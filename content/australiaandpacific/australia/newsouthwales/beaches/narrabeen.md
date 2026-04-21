@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -33.71357
 longitude: 151.297816
 snippet: Long surf beach backed by a coastal lagoon

@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.9575
 longitude: -3.2075
 snippet: Village-like neighbourhood with indie shops and a Sunday farmers' market

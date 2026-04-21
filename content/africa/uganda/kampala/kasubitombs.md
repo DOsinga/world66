@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 0.329312
 longitude: 32.552979
 snippet: Royal burial grounds of the Buganda kings

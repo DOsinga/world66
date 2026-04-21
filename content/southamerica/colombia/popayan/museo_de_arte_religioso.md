@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 2.4418
 longitude: -76.6081
 snippet: Colonial religious art with gold monstrances and liturgical silver

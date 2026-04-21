@@ -1,5 +1,7 @@
 ---
 address: Komp. New Holiday E-5, Batam (behind Harmoni Hotel)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 1.1487
 longitude: 104.0094
 phone: +62 778 7500910

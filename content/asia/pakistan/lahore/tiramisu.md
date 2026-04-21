@@ -1,5 +1,7 @@
 ---
 address: Mazang Chowk
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.5504
 longitude: 74.3287
 snippet: Legendary fried fish stall with long queues

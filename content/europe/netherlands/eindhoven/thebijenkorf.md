@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.443
 longitude: 5.4785
 snippet: Upmarket department store near the central station

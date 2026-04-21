@@ -1,6 +1,8 @@
 ---
 address: Place du Panthéon, 75005 Paris
 admission: €13; free for under-18s and EU residents under 26
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.846195
 longitude: 2.346051
 opening_hours: Daily 10am–6pm (Oct–Mar), 10am–6:30pm (Apr–Sep)

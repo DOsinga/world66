@@ -1,5 +1,7 @@
 ---
 address: The Weighbridge, St Helier
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.1847
 longitude: -2.1105
 snippet: Island history from Jèrriais culture to cider-making and the Jersey cow

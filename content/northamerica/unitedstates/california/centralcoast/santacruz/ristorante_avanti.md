@@ -1,5 +1,7 @@
 ---
 address: 1711 Mission St, Santa Cruz, CA 95060
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.9651
 longitude: -122.0413
 phone: 831.427.0135

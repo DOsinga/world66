@@ -1,5 +1,7 @@
 ---
 address: Erich-Weinert-Str. 55
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.550092
 longitude: 13.422373
 phone: +49 30 446 4135

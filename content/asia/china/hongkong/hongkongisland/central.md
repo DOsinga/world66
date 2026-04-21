@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.2819
 longitude: 114.1582
 snippet: Hong Kong's financial heart and original colonial settlement

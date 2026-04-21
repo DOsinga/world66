@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -34.587183
 longitude: -58.455151
 snippet: Working-class cemetery where Carlos Gardel is buried

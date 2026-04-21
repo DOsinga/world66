@@ -1,5 +1,7 @@
 ---
 address: Paseo de las Delicias 61
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.399322
 longitude: -3.692149
 snippet: Historic locomotives and carriages in a grand 19th-century station

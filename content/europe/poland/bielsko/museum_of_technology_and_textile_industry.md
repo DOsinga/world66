@@ -1,6 +1,8 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.8218
-longitude: 19.0470
+longitude: 19.047
 snippet: Documents the wool industry that made the city prosperous
 tags:
 - things_to_do

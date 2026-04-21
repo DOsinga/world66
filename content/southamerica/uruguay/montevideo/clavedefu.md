@@ -1,5 +1,7 @@
 ---
 address: 26 de Marzo 1125, Pocitos
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -34.910425
 longitude: -56.150387
 opening_hours: starts at 22:00 hours

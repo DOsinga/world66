@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -35.1716
 longitude: 173.1522
 snippet: Surf beach at the southern end of Ninety Mile Beach

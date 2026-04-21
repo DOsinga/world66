@@ -1,6 +1,8 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.1698539
-longitude: 33.3622530
+longitude: 33.362253
 snippet: Award-winning restored old-town quarter with craft shops and galleries
 tags:
 - things_to_do

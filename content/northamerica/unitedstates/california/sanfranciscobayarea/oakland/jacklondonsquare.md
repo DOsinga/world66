@@ -1,5 +1,7 @@
 ---
 address: Foot of Broadway, Oakland, CA 94607
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.7955
 longitude: -122.2789
 snippet: Oakland's waterfront with restaurants, a ferry, and a Gold Rush cabin

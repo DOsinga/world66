@@ -1,6 +1,8 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 58.5222
-longitude: 31.2760
+longitude: 31.276
 opening_hours: 10am-6pm, closed Tuesday and last Thursday of each month
 snippet: Novgorod School icons and archaeological finds inside the Kremlin
 tags:

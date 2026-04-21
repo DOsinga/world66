@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 26.347
 longitude: 73.0392
 snippet: Ancient Marwar capital with cenotaphs and the painted Hall of Heroes

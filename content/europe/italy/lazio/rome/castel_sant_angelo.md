@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - palace
 - bridge
+snippet: "Hadrian's mausoleum turned papal fortress on the Tiber"
 title: Castel Sant'Angelo
 type: poi
 url: www.castelsantangelo.beniculturali.it

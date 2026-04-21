@@ -1,6 +1,7 @@
 ---
 latitude: 20.4635
 longitude: -12.3665
+snippet: "Family-held libraries with illuminated Arabic manuscripts from 13th century"
 tags:
 - things_to_do
 - museum

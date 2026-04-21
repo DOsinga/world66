@@ -1,23 +1,16 @@
 ---
-address: Vicolo Sant'Agata 19, Citta Alta, Bergamo
+address: Vicolo Sant'Agata 19, Città Alta, Bergamo
 latitude: 45.705153
 longitude: 9.661618
-phone: 0039 035 21 85 68
+phone: "+39 035 218568"
+snippet: "Beer garden in Città Alta with a laid-back local crowd"
 tags:
 - bars_and_cafes
 - bar
-- park
-- theatre
-title: Circolino Bar - Coperativa Città Alta
+title: Circolino Bar - Cooperativa Città Alta
 type: poi
 ---
 
-One of the most popular bars is the **Circolino,** a pub with a spacious beer garden and casual atmosphere.
+Tucked into a narrow lane in Città Alta, the Circolino is a cooperativa-run bar with one of the best beer gardens in Bergamo's upper town. The vibe is firmly local and unpretentious - students, families, and old-timers sharing long tables under the trees. Draft beers, wine by the glass, and simple snacks at cooperative prices.
 
-
-
-
-
-tel: 0039 035 21 85 68
-
-address: Vicolo Sant'Agata 19, Citta Alta, Bergamo
+In summer the garden fills up quickly after sundown, so arrive early if you want a table. In winter the indoor space is cozy but compact. A good place to end a day of wandering the old town.

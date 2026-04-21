@@ -1,6 +1,7 @@
 ---
 latitude: 35.456
 longitude: -97.53
+snippet: Working cattle market and Old West shopping district
 tags:
 - things_to_do
 - neighbourhood

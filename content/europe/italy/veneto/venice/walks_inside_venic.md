@@ -1,23 +1,15 @@
 ---
 address: 'Lido Tourist Office: Gran Viale 6'
-latitude: 45.40942
-longitude: 12.36462
+latitude: 45.3808
+longitude: 12.3585
+snippet: Venice's beach island with public swimming, film festival, and golf
 tags:
 - day_trips
 - beach
-- restaurant
-- bar
 title: Lido Island
 type: poi
 ---
 
-This 11-mile long sandbar has two large public beaches as well as hotels, shops, and restaurants. The beaches and this area of the Adriatic Sea are clean and the water is warm. Swimming is safe enough for small children. Other areas of the island comprise private beaches, three settlements, and roughly 20,000 lucky residents. Lido is also home to the Venice Film Festival ( *www.labiennale.org*) which takes place during the first week of September and it is also home to the only golf course in Venice - The Venice Golf Club ( *www.circologolfvenezia.it*). Other highlights include: the Grand Hotel des Bains, the Venice Casino, and the Grand Hotel Excelsior. To get to Lido, you will find many water buses that service the Island. From Venice, take the 1, 6, 11, 52 or 82. Lido Tourist Office: Gran Viale 6.
+This 11-mile long sandbar has two large public beaches as well as shops and restaurants. The beaches and this stretch of the Adriatic are clean and the water is warm enough for comfortable swimming. Other parts of the island are private beaches, three small settlements, and roughly 20,000 residents.
 
-**Contributors**
-May 25, 2008
-
-
-
-
-
-address: Lido Tourist Office: Gran Viale 6
+Lido hosts the Venice Film Festival during the first week of September and is home to the only golf course in Venice, the Venice Golf Club. To get there, take vaporetto lines 1, 5.1, or 6 from central Venice. The ride takes about fifteen minutes.

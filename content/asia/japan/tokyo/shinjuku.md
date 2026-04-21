@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-21'
 image: shinjuku.jpg
 image_attribution: Basile Morin
 image_license: CC BY-SA 4.0

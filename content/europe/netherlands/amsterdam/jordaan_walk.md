@@ -1,8 +1,6 @@
 ---
 title: The Jordaan Walk
 type: walk
-story: >
-  On Westermarkt, three pink granite triangles set into the paving mark the Homomonument — unveiled in 1987, it was the first monument in the world dedicated to LGBTQ+ people persecuted by the Nazis. On 4 May each year, the square fills with people laying flowers here alongside the other war memorials. A few streets further into the Jordaan, a single linden tree planted on 5 May 1945 marks the liberation of Amsterdam. It is easy to walk past both without noticing.
 tags:
   - city_walks
 latitude: 52.3762
@@ -71,13 +69,19 @@ The Jordaan is the most carefully preserved of Amsterdam's 17th-century working-
 
 Start at the [Westerkerk](/europe/netherlands/amsterdam/things_to_do/westerkerk), the largest Protestant church in the Netherlands and the one under whose shadow Anne Frank spent two years of hiding. Climb the tower if the weather is clear — the view over the canal ring explains Amsterdam's geometry in a way that no map quite does.
 
-Before crossing into the Jordaan, look down at Westermarkt. The three pink granite triangles set into the paving are the [Homomonument](/europe/netherlands/amsterdam/homomonument), unveiled in 1987 — the first monument in the world dedicated to LGBTQ+ people persecuted by the Nazis. On 4 May, the square fills with people who lay flowers here alongside the other war memorials.
+Before crossing into the Jordaan, look down at Westermarkt. The three pink granite triangles set into the paving are the [Homomonument](/europe/netherlands/amsterdam/homomonument).
+
+!!! story
+    Unveiled in 1987, it was the first monument in the world dedicated to LGBTQ+ people persecuted by the Nazis. The campaign to build it took over a decade; opposition came from the church, from politicians, and from residents who objected to the location. On 4 May each year, the square fills with people who lay flowers here alongside the other war memorials.
 
 Head west across the Prinsengracht into the Jordaan. [Bloemgracht](/europe/netherlands/amsterdam/bloemgracht) — the Flower Canal — is often called the most beautiful of the smaller canals. It runs parallel to the main ring canals but at a different scale: quieter, narrower, with houseboats and small bridges and none of the tourist traffic. Walk along it, then turn north along one of the small cross-streets into the tighter grid of the Jordaan interior.
 
 Two short blocks north brings you to [Egelantiersgracht](/europe/netherlands/amsterdam/egelantiersgracht), one of the quieter cross-canals, where the Jordaan's *hofjes* — small courtyard almshouses built by wealthy 17th-century merchants for the city's poor — are most concentrated. The [Sint Andrieshofje](/europe/netherlands/amsterdam/sint_andrieshofje) at number 107 is usually open during the day; step through the gate and the noise of the street disappears into a small courtyard with gardens and complete stillness.
 
-Continue north through the cross-streets — Tweede Leliedwarsstraat, Derde Leliedwarsstraat — that are characteristic of the Jordaan at its most itself. On Eerste Leliedwarsstraat you will find the [Bevrijdingslinde](/europe/netherlands/amsterdam/bevrijdingslinde): a single linden tree planted on 5 May 1945 to mark the liberation of Amsterdam. It is easy to walk past without noticing. Worth stopping for.
+Continue north through the cross-streets — Tweede Leliedwarsstraat, Derde Leliedwarsstraat — that are characteristic of the Jordaan at its most itself. On Eerste Leliedwarsstraat you will find the [Bevrijdingslinde](/europe/netherlands/amsterdam/bevrijdingslinde): a single linden tree planted on 5 May 1945 to mark the liberation of Amsterdam.
+
+!!! story
+    The tree was planted the day German forces surrendered in the Netherlands. In a neighbourhood that had lived under occupation for five years — that had seen the February Strike suppressed, its Jewish residents deported, its streets patrolled — someone planted a linden tree. It is easy to walk past without noticing. Worth stopping for.
 
 End at Noordermarkt, the square in front of the [Noorderkerk](/europe/netherlands/amsterdam/things_to_do/noorderkerk). Look for the small bronze sculpture on the corner — the *Jordaan Oproer* monument, commemorating the 1934 riots when Jordaan residents took to the streets to protest cuts to unemployment benefits. The neighbourhood has always known how to fight back. On Monday mornings there is a flea market in the square; on Saturday mornings, a farmers' market.
 

@@ -1,6 +1,7 @@
 ---
 latitude: 28.4115
 longitude: -81.4618
+snippet: "Marine theme park with top-tier roller coasters"
 tags:
 - things_to_do
 - landmark

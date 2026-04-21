@@ -3,6 +3,7 @@ address: 9400 Olympic Blvd., Beverly Hills
 latitude: 34.0594
 longitude: -118.39
 phone: 310-277-5221
+snippet: Pool-side restaurant and bar at the Avalon Hotel
 tags:
 - restaurants
 title: Blue on Blue

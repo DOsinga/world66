@@ -1,6 +1,7 @@
 ---
 latitude: 19.3464
 longitude: -99.1898
+snippet: Colonial village with Saturday art market and Rivera-Kahlo studio
 tags:
 - things_to_do
 - neighbourhood

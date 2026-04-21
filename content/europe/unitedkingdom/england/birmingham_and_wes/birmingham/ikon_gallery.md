@@ -8,6 +8,7 @@ tags:
 - museum
 title: Ikon Gallery
 type: poi
+snippet: "Free contemporary art gallery in a converted Victorian school"
 url: www.ikon-gallery.org
 ---
 

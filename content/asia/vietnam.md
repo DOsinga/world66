@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: vietnam.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/48600082269@N01">upyernoz</a>
 image_license: CC BY 2.0

@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
+  poi_cleanup: '2026-04-21'
 image: hillerod.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Frederiksborg_Castle_from_the_south.jpg

@@ -1,6 +1,7 @@
 ---
 title: "Sanahin Monastery"
 type: poi
+snippet: "UNESCO medieval monastery rivalling neighbouring Haghpat"
 tags: [things_to_do, monastery, unesco, historic_site, religious_site]
 latitude: 41.0918
 longitude: 44.6570

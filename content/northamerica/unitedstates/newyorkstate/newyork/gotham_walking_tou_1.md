@@ -1,9 +1,10 @@
 ---
-address: 400 Chambers Street, Suite 8E
+address: "400 Chambers Street, Suite 8E"
 email: lina@walkingnyctours.com
 latitude: 40.7156
 longitude: -74.009
 phone: 646-645-5782
+snippet: "Deeply researched neighbourhood walks of Manhattan and Brooklyn"
 tags:
 - things_to_do
 - neighbourhood

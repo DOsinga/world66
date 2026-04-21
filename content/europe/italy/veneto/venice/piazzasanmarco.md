@@ -1,11 +1,10 @@
 ---
 latitude: 45.434257
 longitude: 12.338672
+snippet: "Venice's grand square with basilica, campanile, and Doge's Palace"
 tags:
 - things_to_do
-- church
-- palace
-- tower
+- landmark
 - square
 title: Piazza San Marco
 type: poi

@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 49.448611
 longitude: 11.083333
-snippet: "Three-floor rock and metal club with live music"
+snippet: Three-floor rock and metal club with live music
 tags:
 - bars_and_cafes
 - nightlife

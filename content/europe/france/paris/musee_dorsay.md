@@ -4,6 +4,7 @@ admission: €16; free first Sun of the month
 latitude: 48.859918
 longitude: 2.326585
 opening_hours: Tue–Sun 9:30am–6pm (Thu until 9:45pm); closed Mon
+snippet: World-class Impressionist art in a grand railway station
 tags:
 - things_to_do
 title: Musée d'Orsay

@@ -1,6 +1,7 @@
 ---
 title: "Augusto"
 type: poi
+snippet: Long-standing Deauville institution known for its lobster
 tags:
   - eating_out
 latitude: 49.3604

@@ -6,6 +6,7 @@ tags:
 - sight
 title: James Thurber House
 type: poi
+snippet: "Restored childhood home of cartoonist James Thurber"
 ---
 
 The childhood home of cartoonist and writer James Thurber, partially restored to its late 19th-century condition. A self-guided tour includes anecdotes from Thurber's time attending Ohio State. It sits on a cul-de-sac of several restored Victorian houses, a quiet and charming detour from downtown.

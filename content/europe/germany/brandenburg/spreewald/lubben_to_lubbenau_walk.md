@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.9428
 longitude: 13.9046
+snippet: Flat 13 km riverside trail through alder forest and meadows
 tags:
 - things_to_do
 - sight

@@ -1,24 +1,14 @@
 ---
-address: Ibiza - Eivissa
+address: Sant Antoni de Portmany, Ibiza
 latitude: 38.97439
 longitude: 1.419746
+snippet: Sheltered pine-fringed cove with crystal-clear water
 tags:
 - beaches
 title: Cala Salada
 type: poi
-url: www.yatoo-ibiza.com
 ---
 
-One is an ideal cove to enjoy its landscape and its multiple corners that offer to pass a day's halt, baths without no danger and places where to as much take the sun from sand as of rock.
+A beautiful sheltered cove on Ibiza's western coast, about 5 km north of Sant Antoni. Pine-covered cliffs frame a small sandy beach with shallow turquoise water that's calm enough for children. A short scramble over the rocks to the north leads to Cala Saladeta, a smaller and quieter neighbor with even clearer water.
 
-The set mainly presents/displays a spectacular and charming landscape by the beauty and coloration that offer their bottoms.
-
-One of the most wonderful beaches of Ibiza.
-
-
-
-
-
-url: [www.yatoo-ibiza.com](http://www.yatoo-ibiza.com/)
-
-address: Ibiza - Eivissa
+Arrive early in summer — the small parking area fills up fast and the road is sometimes closed to traffic by mid-morning. The local bus from Sant Antoni runs during peak season and saves the hassle. There's a simple chiringuito for drinks and snacks, but bringing your own picnic is half the fun.

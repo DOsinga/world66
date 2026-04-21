@@ -7,6 +7,7 @@ tags:
 - museum
 title: Canadian Museum for Human Rights
 type: poi
+snippet: "World's first museum dedicated exclusively to human rights"
 ---
 
 Daniel Libeskind's 2014 museum — stone, glass, and winding alabaster ramps — at The Forks. The first national museum of Canada built outside the capital, and the first in the world dedicated exclusively to human rights. Eleven galleries climb the building on a journey from darkness to light. Allow three hours at minimum.

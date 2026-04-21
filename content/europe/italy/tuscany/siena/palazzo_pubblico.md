@@ -1,6 +1,7 @@
 ---
 title: "Palazzo Pubblico"
 type: poi
+snippet: Gothic town hall with Siena's finest medieval frescoes
 tags: [things_to_do, sight, museum]
 latitude: 43.3178
 longitude: 11.3319

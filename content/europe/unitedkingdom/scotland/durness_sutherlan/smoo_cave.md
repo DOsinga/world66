@@ -1,6 +1,7 @@
 ---
 title: "Smoo Cave"
 type: poi
+snippet: Vast sea cave near Durness with an 80-foot underground waterfall
 tags:
   - things_to_do
   - sight

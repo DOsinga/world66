@@ -3,10 +3,10 @@ address: 350 Massachusetts Ave., Cambridge, MA
 latitude: 42.3593
 longitude: -71.0939
 phone: 617-577-9100
+snippet: "Solid Irish pub with generous portions near MIT"
 tags:
 - eating_out
 - restaurant
-- bridge
 - bar
 title: The Asgard
 type: poi

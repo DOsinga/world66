@@ -1,7 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 47.1323
 longitude: 9.5221
-snippet: "Traditional inn with käsknöpfle and a pleasant terrace"
+snippet: Traditional inn with käsknöpfle and a pleasant terrace
 tags:
 - eating_out
 title: Gasthof Au

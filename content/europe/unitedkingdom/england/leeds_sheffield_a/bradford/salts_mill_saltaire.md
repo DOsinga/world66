@@ -1,6 +1,7 @@
 ---
 latitude: 53.8361
 longitude: -1.7893
+snippet: UNESCO-listed Victorian mill turned David Hockney gallery and cultural space
 tags:
 - things_to_do
 - architecture

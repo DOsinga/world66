@@ -1,10 +1,12 @@
 ---
-snippet: "Historic opera and ballet theatre on Bolshaya Dmitrovka"
+done:
+  poi_cleanup: '2026-04-21'
+latitude: 55.7614
+longitude: 37.6118
+snippet: Historic opera and ballet theatre on Bolshaya Dmitrovka
 tags:
 - things_to_do
 - theatre
-latitude: 55.7614
-longitude: 37.6118
 title: Stanislavsky and Nemirovich-Danchenko Music Theatre
 type: poi
 ---

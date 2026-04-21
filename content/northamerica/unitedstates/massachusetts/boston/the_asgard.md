@@ -1,9 +1,11 @@
 ---
 address: 350 Massachusetts Ave., Cambridge, MA
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 42.3593
 longitude: -71.0939
 phone: 617-577-9100
-snippet: "Solid Irish pub with generous portions near MIT"
+snippet: Solid Irish pub with generous portions near MIT
 tags:
 - eating_out
 - restaurant

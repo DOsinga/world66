@@ -8,6 +8,7 @@ story: 'The city chose to preserve the Roman fortifications rather than demolish
   argument.
 
   '
+snippet: Unfinished Gothic cathedral with one of France's tallest choirs
 tags:
 - things_to_do
 - sight

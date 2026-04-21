@@ -1,17 +1,22 @@
 ---
-title: Mumbai
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+image: mumbai.jpg
+image_attribution: iMahesh
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Middle_Ground_Coastal_Battery,_Arabian_Sea,_Mumbai,_India.jpg
 latitude: 19.054999
 longitude: 72.869203
 score: 0.66
+title: Mumbai
+type: location
 ---
 
-**Mumbai** (Bombay), the cosmopolitan capital of Maharashtra, is located in the west of India. Not in the least because of its location and the mark the British left on the city, it changed from a fairly isolated town into a major commercial city with over a million inhabitants. Recently, the government changed the city's former, Anglicised name Bombay, into Mumbai. But what's in a name? Mumbai still is a must for travelers and is, to a certain extent, a match for cities such as Paris and London. 
+Mumbai is India's commercial and financial capital, a city of roughly 20 million people built on a peninsula that juts into the Arabian Sea. It was the British-era Bombay — a name still in common use — and the transformation from colonial port to global megacity happened faster here than almost anywhere. The result is a city of extremes: extraordinary wealth alongside the Dharavi slum, Art Deco cinemas beside Victorian Gothic railway stations, a cosmopolitan energy that makes it feel like no other city in India.
 
+The southern tip, where the colonial fabric is most concentrated, rewards slow exploration. The Gateway of India on the waterfront, the Gothic Revival bulk of Chhatrapati Shivaji Maharaj Terminus (formerly Victoria Terminus), the Crawford Market bazaar, and the elegant streets of the Fort area are all within walking distance of each other. The Elephanta Caves — UNESCO-listed rock-cut Hindu temples on an island in the harbour — make for an excellent half-day trip.
 
+The film industry, which produces more films annually than any other city on earth, is headquartered here. The studios are in the northern suburbs and tours are possible, though access to actual sets is limited. The industry's presence shapes the city's cultural life, from the enormous street-level fanfare around releases to the galleries and music venues that cater to a wealthy, creative class.
 
-Although not everyone is pleased with its nickname, Bollywood, the film industry in Mumbai produces over 300 films a year and is therefore, in this respect, second after Hollywood. The actors enjoy their god-like statuses and dwell in exclusive mansions on Malabar Hill, the area that holds its own with Beverly Hills. Although not may people are permitted to actually see the ins and outs of the film shooting process, there are some tours to the film studies and if that doesn't work, there is always a place where you can bathe in the typical mélange of Indian dance, songs, optional violence and melodrama. 
-
-Don't let yourself be overwhelmed by the big city character because there are plenty of nice things to see and do. There are museums, such as the Gandhi Museum (in one of the Mahatma's former residences- it's light on history and heavy on memorabilia), art galleries, bazaars (check out Jhavari Bazaar, where bargaining is done comfortably on piles of pillows), parks (the hanging gardens are a must) and temples. Especially in the Hutatma Chawk area, you'll find a large concentration of impressive and important historical buildings, such as the fabulous Town Hall in neo-classical style. Marine Drive nearby the seaside, which is also called the Queen's Necklace because of its sparkling nightlights, is a nice area to stroll and relax in the evening hours. 
-
-However, you haven't actually been to Bombay if you haven't seen the Gateway to India. This monument was built to commemorate the visit of king George the V and Queen Mary in 1911. At the same time, it's the place where you can catch a boat to the Elephanta Island, a UNESCO world heritage site where you can see rock-cut temples and caves dating
+Mumbai's food is among the most varied in India — street food from the city's many communities, Konkan coastal seafood, and a restaurant scene that spans everything from no-menu thalis to high-end tasting menus. Marine Drive, the curving seafront boulevard, is where people come in the evening to breathe sea air and watch the city wind down.

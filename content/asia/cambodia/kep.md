@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 10.4822
 longitude: 104.3167
+score: 0.52
 title: Kep
 type: location
-score: 0.52
 ---
 
 Before the Khmer Rouge, Kep was Cambodia's glamour resort. In the 1960s, Phnom Penh's elite and visiting foreign dignitaries came here for weekends by the sea — the Gulf of Thailand side, sheltered and warm, with whitewashed villas and shaded terraces. Pol Pot's regime drove everyone out and left the buildings to the jungle. The shells are still there: roofless mansions draped in vines, swimming pools filled with nothing, a bullet-pocked Mercedes in a driveway that locals say once belonged to Pol Pot himself.

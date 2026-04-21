@@ -1,11 +1,12 @@
 ---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 38.8816
 longitude: -77.091
+score: 0.45
 title: Arlington
 type: location
-done:
-  location_cleanup: 2026-04-07
-score: 0.45
 ---
 
 Arlington is a county in northern Virginia, directly across the Potomac River from Washington, D.C. Though often considered part of the capital's orbit, Arlington has its own distinct character — a mix of monumental landmarks, walkable urban neighborhoods, and one of the best Metro connections in the region.

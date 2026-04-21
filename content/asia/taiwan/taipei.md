@@ -1,15 +1,16 @@
 ---
-title: Taipei
-type: location
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: 2026-04-05
+image: taipei.jpg
+image_attribution: Chensiyuan, edit by DXR
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg
 latitude: 25.03752
 longitude: 121.56368
-done:
-  location_cleanup: 2026-04-05
 score: 0.74
-image: taipei.jpg
-image_source: https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Chensiyuan, edit by DXR
+title: Taipei
+type: location
 ---
 
 Taipei is the capital and by far the largest city in [Taiwan](/asia/taiwan), home to about 2.6 million people in the city proper and around 7 million in the greater metropolitan area. It sits in a basin surrounded by low mountains, with the Danshui River running along its western edge. The city has rebuilt itself almost entirely since 1949 and is thoroughly modern, though older temple districts and Japanese colonial buildings survive in pockets throughout.

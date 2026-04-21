@@ -1,6 +1,7 @@
 ---
 title: "Harihareshwar"
 type: poi
+category: "Sight"
 latitude: 17.99509
 longitude: 73.024531
 ---

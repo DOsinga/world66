@@ -1,11 +1,12 @@
 ---
-title: Abuja
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 9.064331
 longitude: 7.489297
-done:
-  location_cleanup: 2026-04-07
 score: 0.38
+title: Abuja
+type: location
 ---
 
 Abuja is Nigeria's purpose-built federal capital, conceived in 1975 and officially inaugurated in 1991 to replace the overcrowded Lagos. Sitting at the geographic centre of the country, the city was designed from scratch on a blank plateau — wide boulevards, modern government ministries, and an orderliness unusual for West African capitals. It is cleaner, quieter, and more expensive than Lagos, and noticeably more relaxed.

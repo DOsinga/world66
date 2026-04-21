@@ -1,11 +1,12 @@
 ---
-title: Valletta
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 35.899
 longitude: 14.5137
-done:
-  location_cleanup: 2026-04-07
 score: 0.69
+title: Valletta
+type: location
 ---
 
 Malta's capital is one of the smallest and most densely historic cities in Europe. Built from scratch in the 1560s by the Knights of St John after their famous defence of Malta against the Ottoman siege, Valletta was one of the continent's first planned cities — laid out on a grid with building codes, drainage, and a hospital that admitted patients of any religion. It holds an astonishing concentration of Baroque architecture for a city of roughly 6,000 residents, and was named European Capital of Culture in 2018.

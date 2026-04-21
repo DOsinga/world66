@@ -1,11 +1,12 @@
 ---
-title: Culiacan
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 24.7978
 longitude: -107.3934
-done:
-  location_cleanup: 2026-04-06
 score: 0.29
+title: Culiacan
+type: location
 ---
 
 Culiacan is the capital of Sinaloa and a city most travelers pass through rather than linger in. That is understandable — it lacks the colonial charm of nearby Mazatlan or the beach appeal of the Pacific coast — but the city has more going on than its reputation suggests. The food alone is worth a stop. Sinaloa is one of Mexico's agricultural powerhouses, and Culiacan eats exceptionally well as a result.

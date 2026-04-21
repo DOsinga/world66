@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 39.049011
 longitude: -95.677556
+score: 0.34
 title: Topeka
 type: location
-score: 0.34
 ---
 
 Topeka is the capital of Kansas — a mid-sized city on the Kansas River that doesn't get much attention from travelers passing through the Great Plains, but rewards those who stop. It's a political and administrative city first, which means its most interesting sites tend to be civic and historical rather than culinary or cultural.

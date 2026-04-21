@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 53.3807
 longitude: -1.4702
+score: 0.46
 title: Sheffield
 type: location
-score: 0.46
 ---
 
 Sheffield is a city built on steel — and on hills. England's fourth-largest city sits where the River Don meets the Sheaf, at the edge of the Peak District, and the combination of industrial grit and wild moorland is part of what makes it distinctive. The steelworks that once filled the Don Valley are mostly gone, but their legacy runs through the city's museums, its architecture, and its character.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-09'
 latitude: 49.594057
 longitude: 17.251143
+score: 0.59
 title: Olomouc
 type: location
-score: 0.59
 ---
 
 Olomouc is one of the most underrated cities in Czechia. The historic center rivals Brno and even parts of Prague for architectural beauty, but it sees a fraction of the tourists. It was the capital of Moravia until the Thirty Years' War and retains a strong sense of its own history.

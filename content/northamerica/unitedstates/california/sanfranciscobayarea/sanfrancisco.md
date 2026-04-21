@@ -1,20 +1,21 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
-latitude: 37.7749
-longitude: -122.4194
-title: San Francisco
-type: location
-score: 0.78
 image: sanfrancisco.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_and_San_Francisco_skyline_from_Hawk_Hill_at_Blue_Hour_dllu.jpg
-image_license: CC BY-SA 4.0
 image_attribution: 'Daniel L. Lu (user:dllu)
 
 
 
   Camera location37° 49′ 39.52″ N, 122° 29′ 56.17″ W View this and other nearby images
   on: OpenStreetMap 37.827644; -122.498935'
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_and_San_Francisco_skyline_from_Hawk_Hill_at_Blue_Hour_dllu.jpg
+latitude: 37.7749
+longitude: -122.4194
+score: 0.78
+title: San Francisco
+type: location
 ---
 
 San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for weeks. The fog rolling through the Golden Gate, the pastel Victorians stacked up steep hillsides, the glittering Bay stretching out to Alcatraz -- it all looks like someone designed it for a postcard, except it is real and people actually live here.

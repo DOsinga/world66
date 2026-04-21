@@ -1,11 +1,13 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
 latitude: 42.431888
 longitude: -8.643159
+score: 0.61
 title: Pontevedra
 type: location
-score: 0.61
 ---
 
 Pontevedra is the capital of the province of the same name in [Galicia](/europe/spain/galicia), and connoisseurs often rate it the most charming city in southern Galicia. It lacks a single mega-attraction like the cathedral of [Santiago de Compostela](/europe/spain/galicia/santiagodecompostela), but the old town is immensely pleasing — a maze of narrow granite streets opening onto hidden squares, each with its own character.

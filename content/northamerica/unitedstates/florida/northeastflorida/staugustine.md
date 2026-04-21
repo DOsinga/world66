@@ -1,11 +1,12 @@
 ---
-title: St. Augustine
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 29.8943
 longitude: -81.3145
-done:
-  location_cleanup: 2026-04-06
 score: 0.65
+title: St. Augustine
+type: location
 ---
 
 St. Augustine is the oldest continuously occupied European settlement in the United States — founded by the Spanish in 1565, forty-two years before the English landed at Jamestown. That history is not just marketing; it's visible at every turn in the narrow streets of the old city, the coquina-shell fort on Matanzas Bay, the Spanish colonial architecture, and the Catholic cathedral that has stood here since the 18th century.

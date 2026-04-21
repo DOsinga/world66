@@ -1,11 +1,12 @@
 ---
-title: Belgrade
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 44.8153
 longitude: 20.4457
-done:
-  location_cleanup: 2026-04-05
 score: 0.59
+title: Belgrade
+type: location
 ---
 
 Belgrade is the capital of Serbia, a city of around 1.3 million people perched on the confluence of the Sava and the Danube — one of the most strategic river junctions in Europe, and one that has been fought over and rebuilt so often (forty-odd times, by most counts) that the layered, slightly battered character of the old city is part of its identity. It is neither as pretty as Prague nor as polished as Vienna, and it doesn't pretend to be. It is gritty, raucous, fiercely proud, and has one of the best nightlife scenes in Europe. It has become, in the last decade or so, one of the more compelling city breaks in the Balkans.

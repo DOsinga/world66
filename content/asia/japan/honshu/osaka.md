@@ -1,4 +1,6 @@
 ---
+done:
+  city_tag_migration: '2026-04-17'
 image_attribution: Laitche
 latitude: 34.693757
 longitude: 135.501454

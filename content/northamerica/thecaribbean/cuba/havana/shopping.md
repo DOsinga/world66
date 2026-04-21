@@ -1,7 +1,6 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
-type: "Antiques"
 ---
 
 Wholesale Carpet Store Home

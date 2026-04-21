@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: -21.456444
 longitude: 47.085149
+score: 0.4
 title: Fianarantsoa
 type: location
-score: 0.4
 ---
 
 Fianarantsoa is the largest town in the southern highlands of Madagascar and the capital of the province of the same name. Like all of Madagascar's highland towns it is steeply hilly, built across ridges that rise sharply from the surrounding plateau — so be prepared for some serious climbs.

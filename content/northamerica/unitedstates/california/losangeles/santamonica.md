@@ -1,11 +1,12 @@
 ---
-title: Santa Monica
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 34.01947
 longitude: -118.491227
-done:
-  location_cleanup: 2026-04-05
 score: 0.65
+title: Santa Monica
+type: location
 ---
 
 West of the 405 Freeway is Santa Monica. A huge sprawling city itself of immense economic diversity with its own neighborhoods.

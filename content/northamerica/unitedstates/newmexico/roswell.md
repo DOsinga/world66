@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 33.3943
 longitude: -104.523
+score: 0.49
 title: Roswell
 type: location
-score: 0.49
 ---
 
 Roswell is famous for one thing: the 1947 incident when something crashed in the desert nearby, and the U.S. military's explanation — a weather balloon — convinced almost nobody. The town has leaned into it ever since. Lampposts are shaped like alien heads, storefronts have alien murals, and the **International UFO Museum and Research Center** on Main Street is the main draw.

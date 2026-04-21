@@ -1,15 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
+image: mykonos.jpg
+image_attribution: GattoCeliaco
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Mykonos_(2).jpg
 latitude: 37.4454
 longitude: 25.3287
 score: 0.88
 title: Mykonos
 type: location
-image: mykonos.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Mykonos_(2).jpg
-image_license: CC BY-SA 4.0
-image_attribution: GattoCeliaco
 ---
 
 Mykonos is the most famous party island in Greece, but it is also one of the most photogenic. The main town (Chora) is a maze of whitewashed alleys, blue-domed churches, and bougainvillea-draped balconies tumbling down to a harbour where fishing boats and superyachts share the waterfront. The Cycladic architecture is gorgeous and strictly protected — no neon, no tower blocks, everything dazzling white with splashes of colour.

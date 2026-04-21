@@ -1,13 +1,6 @@
 ---
-title: "Sights"
+title: Sights
 type: section
-address: "2800 E. Observatory Ave."
-opening_hours: "12 p.m. to 10 p.m. Tuesday to Friday and 10 a.m. to 10 p.m. Saturday and Sunday"
-phone: "(323) 660-7827"
-type: "Landmarks"
-url: "www.griffithobs.org"
-latitude: 34.113638
-longitude: -118.284438
 ---
 
 Hollywood is one of the most well known

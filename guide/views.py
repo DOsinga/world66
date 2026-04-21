@@ -18,7 +18,30 @@ SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 
 def home(request):
-    return render(request, "guide/home.html")
+    from .models import load_continents
+    continents_raw = load_continents()
+    continents = []
+    for cont, countries in continents_raw:
+        sorted_countries = sorted(
+            countries,
+            key=lambda l: float(l.meta.get('score', 0) or 0),
+            reverse=True,
+        )
+        # Use the continent's own image; fall back to top-scored country
+        img = _image_path(cont)
+        if not img:
+            for country in sorted_countries[:10]:
+                img = _image_path(country)
+                if img:
+                    break
+        image_url = f'/content-image/{img}' if img else None
+        continents.append({
+            'page': cont,
+            'countries': sorted_countries[:8],
+            'total': len(countries),
+            'image_url': image_url,
+        })
+    return render(request, "guide/home.html", {'continents': continents})
 
 
 def location_or_section(request, path):
@@ -80,8 +103,12 @@ def location_or_section(request, path):
     nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
 
     # Build the city tag index once so all tagged_pois() calls reuse it.
+    # Only build for actual city-level pages: nav pages (sections), or location
+    # pages that have sections but no child locations (cities, not countries/continents).
     city_tag_index = None
-    _cpath = _city_path if page.page_type in NAV_TYPES else (page.path if nav_pages else None)
+    _cpath = _city_path if page.page_type in NAV_TYPES else (
+        page.path if nav_pages and not locations else None
+    )
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
@@ -115,8 +142,8 @@ def location_or_section(request, path):
     path_parts = page.path.split("/")
     continent_slug = path_parts[0] if path_parts else None
     is_continent = len(path_parts) == 1 and page.page_type == "location"
-
-    markers = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+    continent_bounds = page.meta.get("map_bounds") if is_continent else None
+    page_map_bounds = page.meta.get("map_bounds") if not is_continent else None
 
     image_path = _image_path(page, branch)
     branch_qs = f'?branch={branch}' if branch else ''
@@ -124,11 +151,70 @@ def location_or_section(request, path):
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
 
+    # Attach image_url to each neighbourhood for card display
+    for nb in neighbourhoods:
+        nb_img = _image_path(nb, branch)
+        nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
+
+    # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
+    locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
+    for loc in locations:
+        loc_img = _image_path(loc, branch)
+        loc.image_url = f'/content-image/{loc_img}{branch_qs}' if loc_img else None
+        loc.card_children = []
+        loc.card_children_total = 0
+        if not loc.image_url:
+            child_navs, child_locs, child_pois = loc.children()
+            scored_locs = sorted(child_locs, key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True)
+            # Inherit image from highest-scoring child that has one
+            for cl in scored_locs:
+                cl_img = _image_path(cl, branch)
+                if cl_img:
+                    loc.image_url = f'/content-image/{cl_img}{branch_qs}'
+                    loc.card_children = scored_locs[:5]
+                    loc.card_children_total = len(scored_locs)
+                    break
+            # If still no image, build word cloud
+            if not loc.image_url:
+                children = (child_locs + child_pois)[:25]
+                if len(children) >= 4:
+                    top = max(children, key=lambda p: float(p.meta.get('score', 0) or 0))
+                    rest = [p.title for p in children if p is not top][:24]
+                    mid = len(rest) // 2
+                    loc.word_cloud_center = top.title
+                    loc.word_cloud_top = rest[:mid]
+                    loc.word_cloud_bottom = rest[mid:]
+                else:
+                    loc.word_cloud_center = loc.title
+                    loc.word_cloud_top = []
+                    loc.word_cloud_bottom = [p.title for p in children]
+    top_locations = locations[:9]
+    more_locations = sorted(locations, key=lambda loc: loc.title)
+
+    # Inspiration image strip for section pages — up to 12 POI images
+    poi_images = []
+    if page.page_type in NAV_TYPES:
+        for poi in pois:
+            img_path = _image_path(poi, branch)
+            if img_path:
+                href = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
+                poi_images.append({'url': f'/content-image/{img_path}{branch_qs}', 'title': poi.title, 'href': href})
+            if len(poi_images) >= 12:
+                break
+
+    # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
+    markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
+    markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+
+    breadcrumbs = page.breadcrumbs()
+
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
         "sections": nav_pages,           # child nav pages of current page (location sidebar)
         "locations": locations,
+        "top_locations": top_locations,
+        "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
@@ -138,12 +224,15 @@ def location_or_section(request, path):
         "context_nav": context_nav,
         "nav_siblings": nav_siblings,
         "body_html": body_html,
-        "breadcrumbs": page.breadcrumbs(),
+        "breadcrumbs": breadcrumbs,
         "lat": lat,
         "lng": lng,
         "continent_slug": continent_slug,
         "is_continent": is_continent,
+        "continent_bounds": mark_safe(json.dumps(continent_bounds)) if continent_bounds else "null",
+        "page_map_bounds": mark_safe(json.dumps(page_map_bounds)) if page_map_bounds else "null",
         "markers_json": mark_safe(json.dumps(markers)),
+        "markers_full_json": mark_safe(json.dumps(markers_full)),
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
@@ -153,6 +242,7 @@ def location_or_section(request, path):
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
+        "poi_images": poi_images,
     })
 
 
@@ -211,7 +301,7 @@ def tag_index(request, tag):
     return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
 
 
-_SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks", "things_to_do"}
+_SIGHT_SLUGS = {"sights", "museums", "attractions", "landmarks", "things_to_do"}
 
 
 def _marker_from_page(page, highlight=False):
@@ -219,7 +309,8 @@ def _marker_from_page(page, highlight=False):
     lng = _safe_float(page.meta.get("longitude"))
     if lat is not None and lng is not None:
         return {"lat": lat, "lng": lng, "name": page.title,
-                "url": page.get_absolute_url(), "highlight": highlight}
+                "url": page.get_absolute_url(), "highlight": highlight,
+                "score": float(page.meta.get("score", 0) or 0)}
     return None
 
 
@@ -235,15 +326,25 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     for loc in locations:
         add(_marker_from_page(loc))
 
+    page_is_sight = page.slug in _SIGHT_SLUGS
     for poi in pois:
-        add(_marker_from_page(poi))
-
-    for nav in nav_pages:
-        if nav.page_type == "section_group":
+        poi_tags = set(poi.meta.get("tags") or [])
+        if page.page_type == "location" and not poi_tags & _SIGHT_SLUGS:
             continue
-        is_sight = nav.slug in _SIGHT_SLUGS
-        for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
-            add(_marker_from_page(poi, highlight=is_sight))
+        add(_marker_from_page(poi, highlight=page_is_sight))
+
+    # Only collect POIs from nav sections when there are no child locations.
+    # On continent/country/region pages the nav sections span the whole
+    # hierarchy and would pull in POIs from cities across the entire region.
+    # On city pages, restrict to sightseeing sections only so the map stays focused.
+    if not locations:
+        for nav in nav_pages:
+            if nav.page_type == "section_group":
+                continue
+            if nav.slug not in _SIGHT_SLUGS:
+                continue
+            for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
+                add(_marker_from_page(poi, highlight=True))
 
     return markers
 

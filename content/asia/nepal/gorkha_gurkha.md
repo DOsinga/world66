@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 28.0
 longitude: 84.6333
+score: 0.51
 title: Gorkha
 type: location
-score: 0.51
 ---
 
 Gorkha is the town that gave the world the Gurkhas. Perched on a dramatic hillside in central Nepal, roughly halfway between Kathmandu and Pokhara, it is where the Shah dynasty built their fortress-palace in the 18th century and from where Prithvi Narayan Shah set out to unify Nepal's warring kingdoms. The courage of the hill fighters who served the Shah kings so impressed the British during the Anglo-Nepalese War of 1814–1816 that they began recruiting them into the British Army — a tradition that continues to this day. The name Gurkha comes directly from this town.

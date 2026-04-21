@@ -1,11 +1,12 @@
 ---
-title: Outer Banks
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 35.566904
 longitude: -75.468837
-done:
-  location_cleanup: 2026-04-05
 score: 0.62
+title: Outer Banks
+type: location
 ---
 
 The Outer Banks is a chain of narrow barrier islands stretching along the North Carolina coast, connected to the mainland by bridges and ferries. These windswept islands are where the Wright Brothers first flew at Kitty Hawk, where Blackbeard prowled the inlets, and where the mysterious Lost Colony of Roanoke vanished without a trace.

@@ -1,8 +1,11 @@
 ---
-title: "Basil"
-type: poi
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 44.4029
 longitude: 8.9436
+snippet: The fragrant heart of Ligurian pesto
+title: Basil
+type: poi
 ---
 
 Ligurian basil — *baxiaicò* in the local dialect — grown on the coast in the bracing sea air, is the fundamental ingredient in classic pesto sauce. Thanks to greenhouse cultivation it is available year-round, but connoisseurs say the best time to taste it is in winter, made with basil from a hothouse or grown on a balcony in the slanting rays of a Ligurian alley. The small, pale green leaves have an intoxicating, unique scent.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-09'
 latitude: 53.394717
 longitude: 5.28768
+score: 0.55
 title: Terschelling
 type: location
-score: 0.55
 ---
 
 Terschelling is the second-largest of the Dutch [Wadden Islands](/europe/netherlands/waddenislands), a long, narrow strip of dunes, forests, and salt marshes between the North Sea and the Wadden Sea. The island is about 30 km long but rarely more than 4 km wide, and most of it is nature reserve.

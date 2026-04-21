@@ -1,15 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+image: london.jpg
+image_attribution: Rafa Esteve
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_Tower_of_London.jpg
 latitude: 51.5074
 longitude: -0.1278
+score: 0.91
 title: London
 type: location
-score: 0.91
-image: london.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Aerial_Tower_of_London.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Rafa Esteve
 ---
 
 London is one of the great world cities — a place where you can eat Ethiopian in Brixton, see a West End show, walk through a Roman fort, and end the evening in a Georgian pub all in a single day. It is vast, expensive, and occasionally exhausting, but it repays effort in a way that few cities can match.

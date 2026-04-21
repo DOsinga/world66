@@ -33,8 +33,8 @@ For every POI `.md` file in a section subdirectory, add a `tags:` field that inc
 - The **section slug** it belongs to (e.g. `things_to_do`, `shopping`, `eating_out`, `bars_and_cafes`), 
   based on the folder you find it in, or assign if no folder is available.
 - Any **neighbourhood slug** from the existing `neighbourhood:` field — convert it to a
-  tag. If a poi is in a neighborhood folder, do the same. Drop the neighbourhood: field
-  when done.
+  tag. If a poi is in a neighborhood folder, do the same. Drop the `neighbourhood:` field
+  when done. Also drop the `category:` field if present — tags now drive the filter bar.
 - Any other relevant cross-cutting tags, indicating aspects of this poi you know, including the type
   of place like restaurant, bar, museum, castle, park etc. Use your best judgment for type tags 
   we'll normalize these in a follow-up pass after seeing what the full distribution     
@@ -65,12 +65,23 @@ type: neighbourhood
 Brief intro to the neighbourhood.
 ```
 
-### 5. Move the pois
+### 4. Move the pois
 
 Once correctly annotated, move the pois to the root of the city and delete the now empty section and
 neighborhood folders. Make sure you end up with the same number of pois, not counting dupes of course.
 
-### 4. Commit
+### 5. Page layout
+
+Take a good look at the page layout and make sure it's nicely readable. 
+E.g. replace markers like ** with the appropriate bold text.
+
+### 6. Image
+
+If the city page does not have an `image:` field in its frontmatter, run the find-photo skill
+to find and assign a suitable image before committing. Do not skip this step — every city
+must have an image when done.
+
+### 7. Commit
 
 One commit per city: `Tag migration: City Name`
 

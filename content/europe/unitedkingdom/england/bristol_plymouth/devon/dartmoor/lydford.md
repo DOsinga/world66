@@ -1,11 +1,13 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-19'
 latitude: 50.646
 longitude: -4.0828
+score: 0.51
 title: Lydford
 type: location
-score: 0.51
 ---
 
 Lydford is a small village on the north-western edge of [Dartmoor](/europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor), tucked into a fold of the moor above the River Lyd. It's not a touring base or a destination for a long stay, but it has three things that make it worth the detour: a dramatic river gorge, a well-preserved Norman castle, and a handsome medieval church.

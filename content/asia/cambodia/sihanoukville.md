@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 10.622
 longitude: 103.5223
+score: 0.43
 title: Sihanoukville
 type: location
-score: 0.43
 ---
 
 Sihanoukville — also known as Kompong Som — is Cambodia's main beach town, sitting on a headland overlooking the Gulf of Thailand. It is the country's only deep-water port, but for most visitors the draw is the string of beaches along the coast: Otres, Ochheuteal, Sokha, and Independence Beach each have their own character.

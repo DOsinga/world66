@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 54.5185
 longitude: 9.5653
+score: 0.43
 title: Schleswig
 type: location
-score: 0.43
 ---
 
 Schleswig is one of northern Germany's most quietly rewarding towns — small (around 25,000 people), but historically substantial. It sits at the head of the Schlei, a long, narrow fjord that cuts inland from the Baltic, and for centuries it was the most important city in the Danish-German borderlands. That layered past — Viking, medieval, Danish, Prussian — is visible everywhere you look.

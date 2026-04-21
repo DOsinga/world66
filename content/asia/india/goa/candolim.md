@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 15.520153
 longitude: 73.765942
+score: 0.57
 title: Candolim
 type: location
-score: 0.57
 ---
 
 Candolim is one of the quieter beach stretches along North Goa's coast, sitting between the busier Calangute to the south and the walls of Fort Aguada to the north. The beach is long and wide, backed by a mix of shacks, guesthouses, and the occasional colonial-era villa half-hidden behind palm trees.

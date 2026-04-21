@@ -1,15 +1,16 @@
 ---
-title: Udaipur
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+image: udaipur.jpg
+image_attribution: Jakub Hałun
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20191207_Lake_Pichola,_City_Palace,_Udaipur,_1516_7254.jpg
 latitude: 24.5787
 longitude: 73.6863
-done:
-  location_cleanup: 2026-04-07
 score: 0.76
-image: udaipur.jpg
-image_source: https://commons.wikimedia.org/wiki/File:20191207_Lake_Pichola,_City_Palace,_Udaipur,_1516_7254.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Jakub Hałun
+title: Udaipur
+type: location
 ---
 
 Udaipur is the most romantic city in Rajasthan, built around the clear waters of Lake Pichola and backed by the ancient Aravalli hills. The white-walled buildings, the Lake Palace seemingly floating in the middle of the water, and the massive City Palace complex lining the eastern shore create a scene that has earned it the nickname "Venice of the East" — an overstatement, perhaps, but the city genuinely charms.

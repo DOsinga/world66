@@ -1,11 +1,12 @@
 ---
-title: Lori Marz
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 40.907832
 longitude: 44.120832
-done:
-  location_cleanup: 2026-04-05
 score: 0.43
+title: Lori Marz
+type: location
 ---
 
 The Lori region of Armenia is in the very north, in the center of

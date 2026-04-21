@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 33.5037
 longitude: 11.1097
+score: 0.42
 title: Zarzis
 type: location
-score: 0.42
 ---
 
 Zarzis is a laid-back fishing town at the southern end of the Gulf of Gabès, close to the Libyan border. It has long, sandy beaches, a working port, and an olive oil industry that goes back centuries. It is not a polished resort — that's part of the appeal. People come here for the quiet, the sea, and the sense that tourism hasn't quite taken over.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: -24.1858
 longitude: -65.2995
+score: 0.57
 title: Jujuy
 type: location
-score: 0.57
 ---
 
 San Salvador de Jujuy — known simply as Jujuy — is the capital of Argentina's northernmost province, a city of roughly 300,000 that straddles the junction of two Andean rivers. You feel the change from the rest of Argentina the moment you arrive: the Quechua heritage is unmistakable in the faces on the street, the music drifting from shops, and the chewing of coca leaves by vendors in the market. This is genuinely intercultural Argentina, where Andean tradition and colonial history sit side by side on the same plaza.

@@ -1,11 +1,15 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-16'
+image: sicily.jpg
+image_attribution: sikeliakali
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:20101207-etna-full_(14213006863).jpg
 latitude: 37.5994
 longitude: 14.0154
+score: 0.77
 title: Sicily
 type: location
-score: 0.77
 ---
 
 Sicily is not just another Italian region. The largest island in the Mediterranean has been invaded and reinvented so many times that it feels like its own country, one where Greek temples, Arab domes, Norman castles, and Baroque palaces share the same skyline. The food is different, the light is different, and the pace is slower.

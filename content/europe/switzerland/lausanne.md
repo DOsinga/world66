@@ -1,11 +1,12 @@
 ---
-title: Lausanne
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 46.5218
 longitude: 6.6327
-done:
-  location_cleanup: 2026-04-07
 score: 0.68
+title: Lausanne
+type: location
 ---
 
 Lausanne tumbles down three steep hills to the shore of Lake Geneva, and that verticality shapes everything about the city. You are always climbing or descending, catching sudden views of the lake and the French Alps beyond. It is a compact place — walkable in theory, breathless in practice — with a medieval old town stacked above a lakefront that feels almost Mediterranean on a summer evening.

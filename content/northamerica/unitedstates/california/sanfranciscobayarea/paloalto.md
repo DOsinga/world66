@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 37.4419
 longitude: -122.143
+score: 0.49
 title: Palo Alto
 type: location
-score: 0.49
 ---
 
 Palo Alto sits at the heart of Silicon Valley, a prosperous, leafy city of about 65,000 that punches well above its weight in global influence. Stanford University dominates the western edge of town, its sandstone arcades and red-tile roofs anchoring a campus that has launched more startup companies than almost anywhere else on earth. The city that grew up around it has the coffee shops, bookstores, and restaurants to match.

@@ -1,15 +1,16 @@
 ---
-title: Salzburg
-type: location
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: 2026-04-05
+image: salzburg.jpg
+image_attribution: Uoaei1
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Salzburg_Altstadt_Panorama_20170409_01.jpg
 latitude: 47.798135
 longitude: 13.046481
-done:
-  location_cleanup: 2026-04-05
 score: 0.79
-image: salzburg.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Salzburg_Altstadt_Panorama_20170409_01.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Uoaei1
+title: Salzburg
+type: location
 ---
 
 Salzburg is the fourth-largest city in Austria and the country's most improbably perfect baroque ensemble — a UNESCO World Heritage old town of marble fountains, painted churches, and narrow arcaded lanes, wrapped around a fast-flowing Alpine river at the foot of the mountains. For a thousand years, from the 8th century until 1803, Salzburg was not an Austrian city at all but an independent **prince-archbishopric**, ruled by a succession of powerful and ambitious prince-bishops who spent the city's salt revenues on building projects, Italian architects, and the musical establishment that later produced **Mozart**. The name itself means "salt castle", and it was salt mined in the mountains above the city that made the archbishops rich enough to do all this.

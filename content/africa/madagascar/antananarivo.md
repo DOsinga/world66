@@ -1,11 +1,12 @@
 ---
-title: Antananarivo
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-04
 latitude: -18.910012
 longitude: 47.525581
-done:
-  location_cleanup: 2026-04-04
 score: 0.46
+title: Antananarivo
+type: location
 ---
 
 Antananarivo, thankfully shortened to Tana by tourists and locals alike, is the bustling capital of Madagascar.

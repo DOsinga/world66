@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 36.835018
 longitude: 28.642391
+score: 0.63
 title: Dalyan
 type: location
-score: 0.63
 ---
 
 Dalyan is a small resort town on the Dalyan River in southwest Turkey, sitting between the ruins of the ancient city of Caunos and the long stretch of Iztuzu Beach — one of the most important nesting sites for loggerhead sea turtles (Caretta caretta) on the Mediterranean. The beach is protected: from May to October, access is restricted after dark so the turtles can nest undisturbed.

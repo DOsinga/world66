@@ -1,0 +1,11 @@
+---
+latitude: 22.330108
+longitude: 114.174792
+tags:
+- things_to_do
+- landmark
+title: Orchid Garden
+type: poi
+---
+
+Located on the west of Liuhu Lake, it is a small park featuring orchids. The garden grows more than 10,000 pots of orchids in over 100 varieties. With trees and flowers and winding paths, the park presents a scene as beautiful as a painting.

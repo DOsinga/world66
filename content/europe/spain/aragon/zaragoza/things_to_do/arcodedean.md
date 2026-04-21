@@ -1,9 +1,0 @@
----
-title: "Arco del Deán"
-type: poi
-category: Architecture
-latitude: 41.654251
-longitude: -0.875113
----
-
-A covered Gothic arch that spans a narrow lane beside the Catedral de la Seo, connecting the old chapter house to the dean's residence. A small detail, but one of those corners of Zaragoza's old town that rewards a detour down a side street.

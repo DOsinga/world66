@@ -1,11 +1,12 @@
 ---
-title: Santa Fe
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 35.6876
 longitude: -105.9385
-done:
-  location_cleanup: 2026-04-05
 score: 0.65
+title: Santa Fe
+type: location
 ---
 
 Santa Fe is the oldest state capital in the United States, founded in 1610, and it wears those four centuries with effortless style. The entire downtown is built in adobe -- by law -- giving the city a warm, earth-toned character unlike any other American city. Add world-class art galleries on Canyon Road, the celebrated Santa Fe Opera, and some of the best restaurants in the Southwest, and you have a place that punches far above its weight.

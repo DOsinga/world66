@@ -1,11 +1,16 @@
 ---
-title: Kashmir
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 34.083656
 longitude: 74.797371
-done:
-  location_cleanup: 2026-04-07
 score: 0.65
+title: Kashmir
+type: location
+image: kashmir.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Horses_grazing_at_Trunkol_meadow,_Jammu_and_Kashmir,_India_(crop).jpg
+image_license: CC BY 4.0
+image_attribution: UnpetitproleX
 ---
 
 The Kashmir Valley is a broad, lake-studded bowl between the Himalayas and the Pir Panjal range — one of the most beautiful landscapes in Asia, and one of the most politically complicated. At around 1,600 m, the valley runs roughly 135 km from northwest to southeast, its floor intensively cultivated and its edges rising steeply to snow-covered peaks. The Mughal emperors called it Paradise on Earth and built gardens here to prove the point. It is hard to argue with them.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 39.920776
 longitude: 32.85405
+score: 0.48
 title: Ankara
 type: location
-score: 0.48
 ---
 
 Ankara is a very old city; but it does not have a lot to show for that fact. Founded in 2 000 BC the city gained its modern prominence only in 1923 when it became the capital of Turkey. 

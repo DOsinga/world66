@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-05'
 latitude: 41.258746
 longitude: -95.938376
+score: 0.45
 title: Omaha
 type: location
-score: 0.45
 ---
 
 Omaha sits on the western bank of the Missouri River and has been a transit and trade hub since the mid-19th century, when it served as the eastern terminus of the first transcontinental railroad. Today it's Nebraska's largest city, home to several Fortune 500 companies (including Berkshire Hathaway) and a quietly confident place that rewards visitors who spend more than a day.

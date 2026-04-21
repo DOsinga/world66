@@ -8,6 +8,7 @@ image_license: CC BY-SA 3.0 nl
 image_source: https://commons.wikimedia.org/wiki/File:The_windmills_of_Kinderdijk.JPG
 latitude: 52.243498
 longitude: 5.634323
+map_bounds: [[51.2, 3.9], [53.2, 7.1]]
 title: Netherlands
 type: location
 score: 0.39

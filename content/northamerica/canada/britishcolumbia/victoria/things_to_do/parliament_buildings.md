@@ -1,9 +1,0 @@
----
-title: "Parliament Buildings"
-type: poi
-category: "Architecture"
-latitude: 48.4197
-longitude: -123.3704
----
-
-The seat of the BC Legislature, designed by 25-year-old Francis Rattenbury in a competition in 1892 and finished in 1898. The pale stone domes and copper roofs face the Inner Harbour, and at night the entire facade is outlined in thousands of light bulbs — a tradition that started for the visit of the Duke and Duchess of York in 1901 and was never discontinued. Free guided tours run on weekdays when the legislature is sitting.

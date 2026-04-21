@@ -1,19 +1,18 @@
 ---
-title: Karachi
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
 latitude: 24.854684
 longitude: 67.020706
 score: 0.33
+title: Karachi
+type: location
 ---
 
-Karachi is the capital of the Sindh Province and is the largest city in Pakistan. It is the number one business city in Pakistan as well. Although for touristic reasons it is not the most interesting place in Pakistan, the fast paced life Pakistani style of this mega-city will have a big impact on you. There is a lot to do and see in the field of shopping, nightlife and eating out, more than anywhere else in Pakistan. With its wide sunny beaches, deep-sea fishing, yachting, golf and horse racing all-year round you do not have to be bored here.
+Karachi is Pakistan's largest city and its commercial capital, a sprawling metropolis of some 15 million people on the Arabian Sea coast. It is a city of extreme contrasts — immense wealth and deep poverty, a historic old town and vast new suburbs, beaches facing one of the world's busiest shipping lanes. It is not a conventional tourist destination, but travellers who engage with it find a city of enormous energy and genuine hospitality.
 
+The colonial centre, around Saddar and the old administrative district, contains the main Victorian-era buildings: Frere Hall, the Empress Market, and the old city courts. Kharadar, one of the oldest residential neighbourhoods, is where Jinnah was born. His mausoleum — the Mazar-e-Quaid — is the city's defining monument, a gleaming white marble structure that draws visitors from across the country. The National Museum on Dr Ziauddin Ahmed Road is the best single introduction to Pakistan's history.
 
- As Karachi faces the Arabian sea, it is also a major port, which along with its international Airport act as a hub for international trade, transport, manufacturing and commerce. Karachi is the center of commerce and although Islamabad is the new capital of Pakistan, Karachi was the previous one (until 1963) and all major banks have their headquarters in Karachi which even has its own stock exchange the KSI (Karachi Stock Exchange).
+Clifton and the Defence Housing Authority to the south are where most of the restaurants, cafés, and shopping are concentrated. The Karsaz Road strip further east has the Pakistan Air Force Museum and Maritime Museum, both worth a morning. The beaches west of the city — Sandspit, Hawke's Bay, French Beach, Paradise Point — are popular weekend escapes, and Sandspit and Hawke's Bay are internationally significant nesting grounds for sea turtles.
 
-
- 
- Karachi Harbour, due to its geographical and strategic location was known as gateway to Asia. Considered as a safe Harbour since time immemorial. An Ancient settlement, Karachi was a small fishing village in early Nineteenth Century. Historians identify it with its proximity to a place from where a part of Alexander's Army, boarded the Greek Flotilla in 326 B.C.
-
-
- Near Karachi are many old cities with more hsitoric sights that can be visited as daytrips.
+Karachi's climate is warm year-round; the coolest months are December to February. The monsoon brings heavy rains from July to September. Security conditions vary and it is worth checking current advice before visiting.

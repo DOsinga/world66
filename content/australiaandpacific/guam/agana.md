@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: 13.4745
 longitude: 144.7488
+score: 0.48
 title: Hagåtña (Agana)
 type: location
-score: 0.48
 ---
 
 Hagåtña — the old colonial name was Agana — is the capital of Guam, though you might not guess it from its size. Only around 1,100 people actually live here, making it one of the smallest capital cities in the world. Yet it has been the centre of island life for centuries: first as a Chamorro settlement, then as the seat of Spanish colonial government, then as a modern American city levelled completely during the Battle of Guam in 1944 and rebuilt from scratch.

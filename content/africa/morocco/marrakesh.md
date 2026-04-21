@@ -1,39 +1,21 @@
 ---
-title: Marrakesh
-type: location
+done:
+  location_cleanup: '2026-04-16'
+image: marrakesh.jpg
+image_attribution: Petar Milošević
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Arabian_shepherd_selling_sheep_in_Ramadan_month_(street_of_Marrakesh).jpg
 latitude: 31.625826
 longitude: -7.989161
 score: 0.77
-image: marrakesh.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Artisan_coloring_a_lamp,_Medina_Marrakesh_(Morocco).jpg
-image_license: CC BY-SA 4.0
-image_attribution: Petar Milošević
+title: Marrakesh
+type: location
 ---
 
-Known as the "Red City" Marrakesh is the capital of the
- south. The atmosphere is distinctly more African than
- that of the other Imperial cities, [Fez](/africa/morocco/fez), [Rabat](/africa/morocco/rabat) and [Meknes](/africa/morocco/meknes). The setting of the city is stunning with ochre stucco buildings surrounded by the snow-peaked Atlas mountains. If you have the time, Marrakesh is definitely
- worth a stay of several days.
+Marrakesh is the most visceral of Morocco's imperial cities — an ochre-walled medina at the foot of the snow-capped Atlas Mountains where the medieval and the contemporary collide in spectacularly chaotic fashion. The city has been pulling in visitors for decades, and the tourist infrastructure is well-developed, but the medina retains enough of its original character to reward serious exploration.
 
+The gravitational centre is Jemaa el-Fna, the great market square in front of the Koutoubia mosque. By day it is juice stalls, storytellers, and acrobats; by night it becomes one of the world's great open-air dining experiences, with hundreds of food stalls serving harira soup, snails, and grilled meats by firelight. The souks extend north of the square in a labyrinth of lanes sorted by trade — dyers, leatherworkers, spice merchants, metalworkers — and the tanneries near the Bab Debbagh are unlike anything else in the city.
 
- 
- The Jma-l-Fna is an unbelievable experience. It is a
- market scene straight out of the movies with snake
- charmers, musicians, dancing bears, acrobats and
- storytellers. Around the square there are numbered stalls
- that sell very cheap freshly-squeezed orange juice in the morning and afternoon. At night
- there are tables set up that you can eat at for a very reasonable price. Other sights include the
- impressive Koutoubia minaret and the Ben Youssef Medersa and the Saadian Dynasty
- tombs, the ruined 16th-century El Badi Palace the Dar Si Said Museum.
+The great monuments are close together and all worth visiting: the ruins of El Badi Palace, the Saadian Tombs, and the Bahia Palace. Outside the medina walls, the Majorelle Garden — intensely blue, intensely planted — has become Morocco's most visited attraction. The food scene has improved dramatically over the past decade, with a growing number of good restaurants that go beyond tourist tagine.
 
-
- 
- The artistic colors of the museum and beautiful gardens donated by Yves St. Laurent are a refreshing break from the heat of the city. 
- Spring is a good time to visit.
- 
-
-This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
-
-Webdesign and logo (c) World66.com B.V.
-
-World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)
+Spring and autumn are the best times to visit. Summer heat in Marrakesh is genuinely extreme.

@@ -1,11 +1,12 @@
 ---
-title: Charleston
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 32.788436
 longitude: -79.939931
-done:
-  location_cleanup: 2026-04-05
 score: 0.69
+title: Charleston
+type: location
 ---
 
 Charleston is one of the most beautiful and best-preserved cities in the United States — a 17th-century Atlantic port on a peninsula between the Ashley and Cooper rivers, laid out around pastel stucco townhouses, wrought-iron gates, palm-shaded cobbled streets and the long row of waterfront mansions along the Battery. Founded in 1670 and briefly the wealthiest city in colonial North America thanks to rice, indigo and the slave trade that produced it, Charleston declined slowly in the 20th century and, short of capital, preserved its old buildings instead of tearing them down. The result is a historic centre of extraordinary architectural coherence and a city that rewards slow wandering on foot.

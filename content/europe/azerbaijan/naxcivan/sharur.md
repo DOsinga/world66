@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 39.589265
 longitude: 45.036218
+score: 0.29
 title: Sharur
 type: location
-score: 0.29
 ---
 
 Travel Guide

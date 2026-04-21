@@ -1,11 +1,12 @@
 ---
-title: Sitiawan
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 4.2167
 longitude: 100.7
-done:
-  location_cleanup: 2026-04-02
 score: 0.39
+title: Sitiawan
+type: location
 ---
 
 Sitiawan is a quiet Fuzhou Chinese settlement town in the Manjung district of Perak, about three hours north of Kuala Lumpur. Founded by Chinese immigrants from Fujian province in the early 1900s, it retains a strong Fuzhou cultural identity that sets it apart from most Malaysian towns. The dialect, the food, and the architecture all carry traces of that heritage.

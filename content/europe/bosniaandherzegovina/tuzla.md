@@ -1,11 +1,12 @@
 ---
-title: Tuzla
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 44.5384
 longitude: 18.6735
-done:
-  location_cleanup: 2026-04-06
 score: 0.43
+title: Tuzla
+type: location
 ---
 
 Tuzla is a city built on salt. Its name comes from the Turkish word *tuz* (salt), and its salt springs have drawn settlers continuously for over 6,000 years, making it one of the oldest continuously inhabited places in Europe. Today it is the third-largest city in Bosnia and Herzegovina, after Sarajevo and Banja Luka, and the seat of the Tuzla Canton.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 16.720456
 longitude: -22.938676
+score: 0.61
 title: Sal
 type: location
-score: 0.61
 ---
 
 Sal is a a pretty flat and desert like island. It's the most visited island of the archipelago due to the fact that the international airport is located on it and European package-tours are dropped off here. 

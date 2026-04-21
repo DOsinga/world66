@@ -1,0 +1,13 @@
+---
+address: 280 William Street
+latitude: -37.8121
+longitude: 144.9571
+phone: +61 3 9670 1219
+tags:
+- things_to_do
+- museum
+title: Old Royal Mint
+type: poi
+---
+
+The Royal Mint operated here from 1872 to 1967, producing gold sovereigns and later Australia's decimal coins. The heritage-listed building now houses exhibitions on the gold rush era and the history of currency in Australia.

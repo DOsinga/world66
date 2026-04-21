@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 63.0958
 longitude: 21.6158
+score: 0.44
 title: Vaasa
 type: location
-score: 0.44
 ---
 
 Vaasa is a mid-sized coastal city on Finland's west coast, facing the Gulf of Bothnia across narrow straits toward Sweden. It is a bilingual city — Finnish and Swedish — and the Swedish-speaking community has a strong presence here, giving the city a slightly different character from the inland Finnish towns.

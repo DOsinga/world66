@@ -1,11 +1,12 @@
 ---
-title: Malvan
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 16.0606
 longitude: 73.467
-done:
-  location_cleanup: 2026-04-06
 score: 0.45
+title: Malvan
+type: location
 ---
 
 Malvan is a small fishing port on the Konkan coast of Maharashtra's Sindhudurg district, known for its white sand beaches and the imposing Sindhudurg Fort just offshore. The town has a distinctly unhurried feel — fishing boats line the waterfront, the air smells of salt and drying fish, and the pace of life runs on its own clock.

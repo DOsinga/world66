@@ -17,6 +17,3 @@ The consumption and sale of alcohol is not allowed in Jeddah, and perhaps becaus
 There are many different beach resorts that offer luxurious amenities to the tourists who visit Jeddah. Because the resorts own part of the beaches, the guests are usually isolated from the local population and given more private stretches of beach. The resorts offer amenities such as separate pools for ladies and gentlemen, restaurants, and villas.
 
 Tourists should note that in Jeddah, women do not dress in bikinis like in the West. Women are not allowed to wear revealing clothing in Saudi Arabia, not even when they are visiting the local beaches. Some of the beaches and pools are even segregated according to gender.
-
-**Contributors**
-April 06, 2010

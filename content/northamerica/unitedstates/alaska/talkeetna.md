@@ -1,11 +1,12 @@
 ---
-title: Talkeetna
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 62.3209
 longitude: -150.1066
-done:
-  location_cleanup: 2026-04-06
 score: 0.57
+title: Talkeetna
+type: location
 ---
 
 Talkeetna is a small Alaskan town with an outsized personality. Sitting at the confluence of three rivers with Denali towering to the north, it serves as the staging point for climbers attempting North America's highest peak. But you do not need to be a mountaineer to appreciate this place. Talkeetna runs on bush planes, local characters, and a cheerful disregard for convention.

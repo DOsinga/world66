@@ -1,5 +1,6 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
 image: ede.jpg
 image_attribution: Michielverbeek
@@ -7,9 +8,9 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ede,_de_Keetmolen_RM14468_IMG_5023_2020-04-26_10.20.jpg
 latitude: 52.071683
 longitude: 5.745511
+score: 0.4
 title: Ede
 type: location
-score: 0.4
 ---
 
 Ede is a quiet Dutch town of around 120,000 people on the western edge of the **Veluwe**, the largest area of woodland and heath in the Netherlands. Most visitors do not come for the town itself — Ede is pleasant, tidy, and unexceptional, as Dutch provincial towns often are — but for what lies just to the east. A few kilometres from the town centre begins the **Hoge Veluwe National Park**, 5,500 hectares of pine forest, heather moor, drift sand and small lakes, with red deer, wild boar, moufflon, and a kind of landscape you don't really expect to find in the Netherlands.

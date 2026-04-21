@@ -21,24 +21,3 @@ The country is an archipelago of nearly 7,000 islands stretching roughly 3,000 k
 The deeper Japan — Tohoku's mountain shrines and traditional villages, Shikoku's pilgrimage circuit, [Hokkaido's](/asia/japan/hokkaido) vast national parks, the ancient stones of the Kumano mountains — requires more time and more effort, but is well worth both.
 
 A note on cost: Japan is not as expensive as its reputation suggests, especially in 2025 with the yen at historically weak levels against most Western currencies. Budget travel is genuinely feasible; the main costs are accommodation and intercity transport.
-
-## Destinations in Japan
-
-[Tokyo](/asia/japan/tokyo)
-[Honshu](/asia/japan/honshu)
-[Kyoto](/asia/japan/honshu/kyoto)
-[Osaka](/asia/japan/honshu/osaka)
-[Nara](/asia/japan/honshu/nara)
-[Kobe](/asia/japan/honshu/kobe)
-[Hiroshima](/asia/japan/honshu/hiroshima)
-[Nikko](/asia/japan/honshu/nikko)
-[Takayama](/asia/japan/honshu/takayama)
-[Hokkaido](/asia/japan/hokkaido)
-[Sapporo](/asia/japan/hokkaido/sapporo)
-[Kyushu](/asia/japan/kyushu)
-[Fukuoka](/asia/japan/kyushu/fukuoka)
-[Nagasaki](/asia/japan/kyushu/nagasaki)
-[Shikoku](/asia/japan/shikoku)
-[Ryukyu Islands](/asia/japan/ryukyuislands)
-[Tohoku](/asia/japan/tohoku)
-[Kansai](/asia/japan/kansai)

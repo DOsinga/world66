@@ -1,13 +1,15 @@
 ---
-title: Milan
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+image: milan.jpg
+image_attribution: Daniel Case
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Full_Milan_skyline_from_Duomo_roof.jpg
 latitude: 45.464194
 longitude: 9.189635
 score: 0.75
-image: milan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Full_Milan_skyline_from_Duomo_roof.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Daniel Case
+title: Milan
+type: location
 ---
 
 Milan is the biggest city of North Italy. The powerhouse of the country and one of the most stylish cities of the polanet. 

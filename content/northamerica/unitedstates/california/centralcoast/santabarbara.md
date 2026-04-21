@@ -1,11 +1,12 @@
 ---
-title: Santa Barbara
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 34.422132
 longitude: -119.702667
-done:
-  location_cleanup: 2026-04-05
 score: 0.68
+title: Santa Barbara
+type: location
 ---
 
 Santa Barbare is just one of those places that seems to have it all. It's beautiful, has a lot of history, a great climate, good beaches and some of America's best vineyards are only miles away. Santa Barbara has a number of sights that are historically and culturally significant. 

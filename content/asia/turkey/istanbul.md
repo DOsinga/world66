@@ -1,15 +1,16 @@
 ---
-title: Istanbul
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+image: istanbul.jpg
+image_attribution: A.Savin
+image_license: FAL
+image_source: https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img12_Sirkeci_Terminal.jpg
 latitude: 41.006381
 longitude: 28.975872
-done:
-  location_cleanup: 2026-04-05
 score: 0.83
-image: istanbul.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img12_Sirkeci_Terminal.jpg
-image_license: FAL
-image_attribution: A.Savin
+title: Istanbul
+type: location
 ---
 
 No city in the world has been a capital of two empires for so long, on two continents, straddling a strait that separates Europe from Asia. Istanbul is overwhelming in the best possible sense — the kind of place that makes other cities feel thin.

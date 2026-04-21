@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 51.340632
 longitude: 12.374733
+score: 0.61
 title: Leipzig
 type: location
-score: 0.61
 ---
 
 Leipzig is one of the most dynamic cities in eastern Germany — a place with a musical heritage to rival Vienna, a pivotal role in the fall of the Berlin Wall, and a creative energy that has made it a magnet for artists and students since reunification.

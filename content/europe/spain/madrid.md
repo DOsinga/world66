@@ -1,13 +1,15 @@
 ---
-title: Madrid
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+image: madrid.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_la_Almudena,_Madrid,_Espa%C3%B1a,_2014-12-27,_DD_23.JPG
 latitude: 40.416782
 longitude: -3.703507
 score: 0.75
-image: madrid.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_la_Almudena,_Madrid,_Espa%C3%B1a,_2014-12-27,_DD_23.JPG
-image_license: CC BY-SA 4.0
-image_attribution: Diego Delso
+title: Madrid
+type: location
 ---
 
 Spain's capital is a lively city - nobody is exactly sure when the Madrilenos sleep. It may be the afternoon siesta that gives them the endurance to keep things going well into the night. Try it. 

@@ -1,9 +1,8 @@
 ---
-title: "Eating Out in Port Harcourt"
+address: 130 Abuloma Road Portharcourt
+phone: 08065886127
+title: Eating Out in Port Harcourt
 type: section
-address: "130 Abuloma Road Portharcourt"
-phone: "08065886127"
-type: "African"
 ---
 
 bretheren assembly

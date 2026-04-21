@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 48.1031
 longitude: 20.79
+score: 0.49
 title: Miskolc
 type: location
-score: 0.49
 ---
 
 Miskolc is Hungary's third-largest city, tucked into the foothills of the Bükk Mountains in the northeast of the country. It is an industrial city that does not pretend to be a tourist magnet, but the surrounding area has genuine appeal — most notably Miskolctapolca, a suburb where you can swim through a natural cave system fed by thermal springs.

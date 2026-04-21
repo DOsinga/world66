@@ -1,11 +1,12 @@
 ---
-title: Trondheim
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 63.430447
 longitude: 10.395212
-done:
-  location_cleanup: 2026-04-07
 score: 0.63
+title: Trondheim
+type: location
 ---
 
 Trondheim is Norway's third city and its historical soul. Founded around 997 AD by the Viking king Olav Tryggvason, it served as the country's capital through the Middle Ages and remained the spiritual heart of Norway long after political power moved south. The Gothic Nidaros Cathedral, built over the grave of Saint Olav, drew pilgrims from across northern Europe for centuries and still consecrates Norwegian monarchs today. Arriving in Trondheim and not visiting the cathedral is like going to Paris without seeing Notre-Dame — possible, but you've missed the point.

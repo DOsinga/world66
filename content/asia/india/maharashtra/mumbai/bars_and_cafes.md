@@ -3,8 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-CAKE SHOPS
-
-We currently have no Bars and Cafes listed in Mumbai.
-
-If you do know any Bars and Cafes in Mumbai, please [Add].
+The Colaba neighbourhood, around Causeway and the waterfront, is the traditional starting point for a drink in Mumbai — Leopold Cafe being the most famous landmark. The city's bar scene extends into Bandra and Lower Parel for a more contemporary crowd.

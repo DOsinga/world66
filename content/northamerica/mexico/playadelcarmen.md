@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: 20.6461
 longitude: -87.0806
+score: 0.7
 title: Playa del Carmen
 type: location
-score: 0.70
 ---
 
 Playa del Carmen is the main town of the Riviera Maya, about 68 km south of Cancun along the Caribbean coast of the Yucatan Peninsula. It started as a small fishing village and departure point for ferries to Cozumel, and while it has grown considerably since the 1990s, it retains a more manageable scale than Cancun. The beach is excellent — long, white-sand, with clear water — and the reef offshore is part of the Great Maya Reef, the second-largest in the world.

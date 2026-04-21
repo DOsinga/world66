@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
 latitude: 38.1113
 longitude: 13.3524
+score: 0.73
 title: Palermo
 type: location
-score: 0.73
 ---
 
 Palermo is the capital of [Sicily](/europe/italy/sicily) and its largest city, set in the Conca d'Oro — a wide bay between the sea and a ring of limestone mountains, with Monte Pellegrino rising dramatically to the north. It is fast, brash, and unlike anywhere else in Italy. The mix of Arab and Norman influences is one of the city's strangest and most rewarding surprises, visible in buildings from the 11th and 12th centuries that blend Islamic geometry with Christian iconography.

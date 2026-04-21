@@ -1,0 +1,20 @@
+---
+address: Heilige Geeststraat 7
+latitude: 51.218852
+longitude: 4.397995
+tags:
+- bars_and_cafes
+title: Limonada
+type: poi
+---
+
+Fancy loungy hip chill-out cocktailbar. Beginnig around 5 euro for a cocktail it must be cheap by European standards.
+
+**Contributors**
+January 08, 2005
+
+
+
+
+
+address: Heilige Geeststraat 7

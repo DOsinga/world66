@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 38.1806
 longitude: -99.0987
+score: 0.29
 title: Larned
 type: location
-score: 0.29
 ---
 
 Larned is a small town on the Arkansas River in central Kansas, best known as the site of [Fort Larned National Historic Site](https://www.nps.gov/fola/index.htm). The fort was established in 1859 to protect traffic along the Santa Fe Trail and serve as a military post during the Indian Wars. It survives as one of the most intact examples of a frontier fort from that era — nine original stone buildings, including barracks, officers' quarters and a commissary, are preserved and furnished to their 1860s appearance. There is no other fort of this period in better condition.

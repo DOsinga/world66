@@ -1,11 +1,10 @@
 ---
-title: "Things to do"
+address: http://www.bookyourgolf.net
+email: info@bookyourgolf.net
+phone: 44 087147 411 93
+title: Things to do
 type: section
-address: "http://www.bookyourgolf.net"
-email: "info@bookyourgolf.net"
-phone: "44 087147 411 93"
-type: "Golf"
-url: "www.bookyourgolf.net"
+url: www.bookyourgolf.net
 ---
 
 Golf in the Dubai is unique. Where else can you play a desert course where you play on 'browns' not greens? Or play at nightime under floodlights to avoid the soaring daytime temperatures? The whole experience can seem highly surreal given you can play in the desert, sustained only through a miracle and a small fortune that waters the course.

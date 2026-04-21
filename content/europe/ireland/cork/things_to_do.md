@@ -1,29 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-address: "24 Baile an Tooreen"
-email: "info@audioexplore.com"
-type: "Other"
-url: "www.audioexplore.com"
 ---
 
-Audio Guides
-
-### [Cork - Rebel Rock - an audio guide by AudioExplore](/europe/ireland/cork/things_to_do/cork__rebel_rock)
-
-**AudioExplore** offers you the freedom to discover new places at your own pace at the press of your mp3 player "Play" button.
-Download **Cork - Rebel Rock** audioguide into your mp3 player. Discover "People Republic of Cork": find out why Computer Industry owes everything to it's University, admire the impressive St Finbarrs Cathedral and walk it's lovely streets, once canals.
-
-Plan your trip at www.audioexplore.com
-
-type: Other
-
-
-
-[[rate it]](/europe/ireland/cork/things_to_do/cork__rebel_rock)
-
-url: www.audioexplore.com
-
-address: 24 Baile an Tooreen
-
-email:
+Cork's main sights are concentrated in the old city centre and on the hills above it. The English Market, St Fin Barre's Cathedral, and St Anne's Church in Shandon are the three landmarks that most visitors seek out. University College Cork, on the western side of the city, is worth a walk through for its Victorian Gothic buildings and the Lewis Glucksman Gallery.

@@ -1,15 +1,16 @@
 ---
-title: Giza
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+image: giza.jpg
+image_attribution: Vincent Brown
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Giza_Plateau_(31762565191).jpg
 latitude: 29.987075
 longitude: 31.211806
-done:
-  location_cleanup: 2026-04-05
 score: 0.76
-image: giza.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Giza_Plateau_(31762565191).jpg
-image_license: CC BY 2.0
-image_attribution: Vincent Brown
+title: Giza
+type: location
 ---
 
 Giza is the western half of greater Cairo — a teeming city in its own right of over eight million people, sprawling up to the desert edge where the **Great Pyramids** stand on their plateau. The pyramids are what everyone comes for, and they deserve it: these are the last surviving Wonder of the ancient world, the **Pyramid of Khufu** (Cheops) alone containing more than two million limestone blocks and older than almost anything else still standing on earth. The Sphinx crouches just below, weather-eaten and half the height of its pyramid, staring east toward the Nile.

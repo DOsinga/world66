@@ -1,11 +1,12 @@
 ---
-title: York
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 53.965658
 longitude: -1.074305
-done:
-  location_cleanup: 2026-04-07
 score: 0.71
+title: York
+type: location
 ---
 
 Two thousand years of history packed into a walkable city centre, and over 200 pubs to recover in afterwards. York is one of England’s finest cities, layering Roman foundations, Viking heritage, and medieval streets into a place that rewards every visit.

@@ -1,11 +1,12 @@
 ---
-title: Jaisalmer
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 26.9117
 longitude: 70.9125
-done:
-  location_cleanup: 2026-04-07
 score: 0.72
+title: Jaisalmer
+type: location
 ---
 
 Jaisalmer rises from the Thar Desert like a sandcastle come to life. The massive fort, built of golden-yellow sandstone, is a living citadel -- about a quarter of the old city's population still lives within its walls, along with Jain temples, havelis, and guest houses. Seen from a distance across the desert, especially at sunset, it is one of the most striking sights in India.

@@ -1,13 +1,15 @@
 ---
-title: Sintra
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+image: sintra.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros,_Sintra,_Portugal,_2019-05-25,_DD_112-121_PAN.jpg
 latitude: 38.835545
 longitude: -9.352237
 score: 0.77
-image: sintra.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros,_Sintra,_Portugal,_2019-05-25,_DD_112-121_PAN.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Diego Delso
+title: Sintra
+type: location
 ---
 
 Sintra is a small town that looks straight out of a fairy tale. Made famous by Lord Byron, Sintra was once the royal town of Portugal, and many castles and palaces can be found in its vicinity. One of them is Pena Castle, perched on a steep hill and straight out of Disney Land. It is a yellow heap of small domes and turrets filled with a wide array of decorative arts. The most notable palace is the Sintra National Palace, whose white twin towers are the most distinctive landmark in Sinta. It is a combination of Moorish, Gothic and Manuelin styles. Inside is a beautiful collection of ancient and rare tiles and murals.

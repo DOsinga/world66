@@ -1,11 +1,10 @@
 ---
-title: "Shopping"
+address: Palazzo Lardarel Via Tornabuoni 19
+email: info@officinadetornabuoni.com
+phone: '055.210628'
+title: Shopping
 type: section
-address: "Palazzo Lardarel Via Tornabuoni 19"
-email: "info@officinadetornabuoni.com"
-phone: "055.210628"
-type: "Speciality shops"
-url: "www.officinadetornabuoni.com"
+url: www.officinadetornabuoni.com
 ---
 
 a

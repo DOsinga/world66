@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 38.5762
 longitude: 68.7864
+score: 0.43
 title: Dushanbe
 type: location
-score: 0.43
 ---
 
 Dushanbe is one of those capitals that surprises you by being more pleasant than expected. Its name means Monday in Tajik — a reference to the weekly bazaar that once defined the place — and until the Soviet railroad arrived in the 1920s, it was little more than a market village. The Soviets built it into a proper city: wide tree-lined boulevards, grand Stalinist facades, a leafy central park. The bones of that plan are still there, and on a sunny day the city is genuinely agreeable.

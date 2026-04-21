@@ -1,11 +1,12 @@
 ---
-title: Ferrara
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 44.8353
 longitude: 11.6197
-done:
-  location_cleanup: 2026-04-07
 score: 0.63
+title: Ferrara
+type: location
 ---
 
 Ferrara is a wonderful Renaissance city in [Emilia-Romagna](/europe/italy/emiliaromagna) on the banks of the river Po. Its history can be seen in both the sumptuous palazzos and the narrow medieval streets. The entire city centre is a UNESCO World Heritage Site.

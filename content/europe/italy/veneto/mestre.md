@@ -1,11 +1,12 @@
 ---
-title: Mestre
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 45.4903
 longitude: 12.2381
-done:
-  location_cleanup: 2026-04-02
 score: 0.4
+title: Mestre
+type: location
 ---
 
 Mestre is the mainland half of Venice -- a working Italian city where locals actually live and go about their business, rather than a museum piece preserved in amber. It sits just across the Liberty Bridge from the lagoon, and most visitors pass through without a second glance. That is a mistake.

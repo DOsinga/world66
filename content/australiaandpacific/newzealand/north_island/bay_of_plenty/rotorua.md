@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-08'
 latitude: -38.136073
 longitude: 176.252543
+score: 0.7
 title: Rotorua
 type: location
-score: 0.7
 ---
 
 Rotorua sits in the middle of the North Island's volcanic plateau, and you will know you have arrived before you see it — the smell of sulphur hangs in the air like a permanent reminder that the ground here is not entirely stable. Geysers erupt on schedule, mud pools bubble at the roadside, and hot springs steam in suburban back gardens. It is one of the most geothermally active places on earth, and the landscape is genuinely otherworldly.

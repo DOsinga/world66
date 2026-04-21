@@ -1,11 +1,12 @@
 ---
-title: Tirana
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 41.328148
 longitude: 19.818444
-done:
-  location_cleanup: 2026-04-05
 score: 0.55
+title: Tirana
+type: location
 ---
 
 Tirana is the capital and by far the largest city in Albania, home to about a third of the country's population. It is compact enough to explore on foot, and in the last two decades has reinvented itself from a grey post-communist city into one of the more energetic capitals in the Balkans.

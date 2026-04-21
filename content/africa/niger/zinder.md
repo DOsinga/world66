@@ -1,11 +1,12 @@
 ---
-title: Zinder
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 13.8063
 longitude: 8.9892
-done:
-  location_cleanup: 2026-04-06
 score: 0.26
+title: Zinder
+type: location
 ---
 
 Zinder was founded in the early 17th century by Hausa tradesmen from [Kano](/africa/nigeria/kano) and grew into a major trading hub on the route between Nigeria and [Agadez](/africa/niger/agadez). When the French arrived, they made it their administrative capital until 1926, when it was replaced by [Niamey](/africa/niger/niamey). Zinder is still Niger's second-largest city, and it has the best market in the country.

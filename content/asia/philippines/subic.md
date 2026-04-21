@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 14.87748
 longitude: 120.23447
+score: 0.42
 title: Subic
 type: location
-score: 0.42
 ---
 
 Subic Bay Freeport Zone occupies the former US Naval Base on the west coast of Luzon, about two and a half hours' drive north of Manila. Since the Americans left in 1992, the base has been converted into a mixed-use zone with beaches, forest reserves, diving, and family attractions — a popular weekend escape from Manila.

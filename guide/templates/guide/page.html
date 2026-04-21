@@ -8,11 +8,13 @@
 <nav class="breadcrumbs">
   <a href="/">World</a>
   {% for name, path in breadcrumbs %}
+    {% if not forloop.last or not parent %}
     <span class="sep">&rsaquo;</span>
-    {% if forloop.last and not parent %}
+    {% if forloop.last %}
       <span class="current">{{ name }}</span>
     {% else %}
       <a href="/{{ path }}">{{ name }}</a>
+    {% endif %}
     {% endif %}
   {% endfor %}
   {% if parent %}
@@ -24,122 +26,87 @@
 
 {% block sidebar %}
 <aside id="sidebar">
-  {% if sections or parent_sections %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      Sections
-    </h3>
-    <ul class="sidebar-nav">
-      {% if parent %}
-      <li><a href="{{ parent.get_absolute_url }}"><strong>General</strong></a></li>
+  {% if markers_full_json != "[]" or lat and lng %}
+  <div class="sidebar-map-card" id="sidebar-map-card">
+    <div class="sidebar-map-head">
+      <span class="sidebar-map-title">Map</span>
+      <button class="sidebar-map-expand" id="sidebar-map-expand" title="Expand map" aria-label="Expand map">&#x26F6;</button>
+    </div>
+    <div class="sidebar-map-canvas" id="sidebar-map"></div>
+  </div>
+  {% endif %}
+
+  {% if parent_sections %}
+  <nav class="section-sidenav">
+    {% if parent %}
+    <a href="{{ parent.get_absolute_url }}" class="section-sidenav-parent">
+      <span class="section-sidenav-back">&#8592;</span>{{ parent.title }}
+    </a>
+    {% endif %}
+    <div class="section-sidenav-current">
+      {% for s in parent_sections %}{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %}{{ s.title }}{% endif %}{% endfor %}
+    </div>
+    <ul class="section-sidenav-list" id="section-sidenav-list">
       {% for s in parent_sections %}
-      <li{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} class="active"{% endif %}>
-        <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
-      </li>
-      {% endfor %}
-      {% else %}
-      <li class="active"><a href="{{ page.get_absolute_url }}"><strong>General</strong></a></li>
-      {% for s in sections %}
-      <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
-      {% endfor %}
-      {% endif %}
-    </ul>
-  </div>
-  {% endif %}
-
-  {% if locations or parent_locations %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      Places in {% if parent_locations %}{{ parent.title }}{% else %}{{ page.title }}{% endif %}
-    </h3>
-    <ul class="sidebar-nav">
-      {% if parent_locations %}
-        {% for child in parent_locations|slice:":30" %}
-        <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
-        {% endfor %}
-        {% if parent_locations|length > 30 %}
-        <li class="more"><a href="#">Show all {{ parent_locations|length }} &rarr;</a></li>
-        {% endif %}
-      {% else %}
-        {% for child in locations|slice:":30" %}
-        <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
-        {% endfor %}
-        {% if locations|length > 30 %}
-        <li class="more"><a href="#">Show all {{ locations|length }} &rarr;</a></li>
-        {% endif %}
-      {% endif %}
-    </ul>
-  </div>
-  {% endif %}
-
-  {% if nav_siblings %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      {{ context_nav.title }}
-    </h3>
-    <ul class="sidebar-nav">
-      {% for poi in nav_siblings %}
-      <li{% if poi.slug == page.slug %} class="active"{% endif %}>
-        <a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a>
+      <li>
+        <a href="{{ s.get_absolute_url }}"
+           class="section-sidenav-link{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} is-active{% endif %}">
+          {{ s.title }}
+        </a>
       </li>
       {% endfor %}
     </ul>
-  </div>
-  {% elif pois %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{{ page.title }}{% else %}Highlights{% endif %}
-    </h3>
-    <ul class="sidebar-nav">
-      {% for poi in pois %}
-      <li><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
+    <button class="section-sidenav-toggle" id="section-sidenav-toggle" aria-expanded="false">
+      All sections <span class="section-sidenav-toggle-arrow">&#8595;</span>
+    </button>
+  </nav>
+  <script>
+  (function() {
+    var list = document.getElementById('section-sidenav-list');
+    var btn  = document.getElementById('section-sidenav-toggle');
+    if (!list || !btn) return;
+    function open() {
+      list.classList.add('is-open');
+      btn.setAttribute('aria-expanded', 'true');
+      btn.innerHTML = 'Close <span class="section-sidenav-toggle-arrow" style="display:inline-block;transform:rotate(180deg)">&#8595;</span>';
+    }
+    function close() {
+      list.classList.remove('is-open');
+      btn.setAttribute('aria-expanded', 'false');
+      btn.innerHTML = 'All sections <span class="section-sidenav-toggle-arrow">&#8595;</span>';
+    }
+    btn.addEventListener('click', function() {
+      list.classList.contains('is-open') ? close() : open();
+    });
+  })();
+  </script>
   {% endif %}
+
 </aside>
 {% endblock %}
 
-{% block background %}
-{% if hero_image_url %}
-<div id="background-map" style="display:none"></div>
-{% elif is_continent or markers_json != "[]" or lat and lng %}
-<div id="background-map"></div>
-{% endif %}
-{% endblock %}
+{% block background %}{% endblock %}
 
 {% block hero %}
-{% if is_continent or hero_image_url or markers_json != "[]" or lat and lng %}
+{% if hero_image_url %}
 <div id="hero" class="hero">
-  {% if hero_image_url %}
-  {% if hero_image_source %}
-  <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
-  {% endif %}
-  {% if markers_json != "[]" or lat and lng %}
-  <div class="hero-toggle-bar">
-    <button class="hero-toggle-btn hero-toggle-active" id="hero-btn-photo">Photo</button>
-    <button class="hero-toggle-btn" id="hero-btn-map">Map</button>
+  <div class="hero-card">
+    <img src="{{ hero_image_url }}" alt="{{ page.title }}">
+    {% if hero_image_source %}
+    <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
+    {% endif %}
+    <div class="hero-title-block">
+      <div class="hero-title">{{ page.title }}</div>
+    </div>
   </div>
-  {% endif %}
-  {% endif %}
-  <div class="hero-title">{{ page.title }}</div>
-  <button class="hero-expand-btn" id="hero-expand-btn" title="Show more">&#8964;</button>
 </div>
 {% endif %}
 {% endblock %}
 
-{% block body_style %}
-{% if hero_image_url %}<style>
-body{background-image:url('{{ hero_image_url }}');background-size:cover;background-position:center top;}
-</style>{% endif %}
-{% endblock %}
+{% block body_style %}{% endblock %}
 
 {% block content %}
-<h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
+<h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
 
 {% if page.properties %}
@@ -155,8 +122,12 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
+{% if page.meta.tagline %}
+<p class="page-tagline">{{ page.meta.tagline }}</p>
+{% endif %}
+
 {% if body_html %}
-<div class="body-text">
+<div class="body-text body-text--dropcap">
   {{ body_html|safe }}
 </div>
 {% endif %}
@@ -169,76 +140,15 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </ol>
 {% endif %}
 
-{% if neighbourhood_items %}
-<div class="neighbourhoods-section">
-  <h2>Neighbourhoods</h2>
-  <ul class="neighbourhood-list">
-    {% for nb in neighbourhood_items %}
-    <li><a href="{{ nb.get_absolute_url }}">{{ nb.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+{% if page.meta.quote %}
+<blockquote class="pull-quote">{{ page.meta.quote }}</blockquote>
 {% endif %}
 
-{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
-{% if poi_categories %}
-<div class="poi-filter-bar">
-  <button class="poi-filter-btn poi-filter-active" data-filter="">All</button>
-  {% for cat in poi_categories %}
-  <button class="poi-filter-btn" data-filter="{{ cat }}">{{ cat }}</button>
-  {% endfor %}
+{% if page.meta.tip %}
+<div class="tip-box">
+  <div class="tip-box-label">Local tip</div>
+  <p class="tip-box-body">{{ page.meta.tip }}</p>
 </div>
-{% endif %}
-<table class="poi-table">
-  <thead>
-    <tr><th>Place</th><th>Details</th></tr>
-  </thead>
-  <tbody>
-    {% for poi in pois %}
-    <tr{% if poi.category %} data-category="{{ poi.category }}"{% endif %}>
-      <td class="poi-table-name"><a href="{% if poi_context_prefix %}{{ poi_context_prefix }}{{ poi.slug }}{% else %}{{ poi.get_absolute_url }}{% endif %}">{{ poi.title }}</a></td>
-      <td class="poi-table-details">
-        {% if poi.category %}<span class="poi-category-badge">{{ poi.category }}</span>{% endif %}
-        {% for key, value in poi.properties.items %}
-        <span class="poi-detail">
-          <span class="poi-detail-key">{{ key }}</span>
-          {% if key == "Website" %}
-          <a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>
-          {% elif key == "Email" %}
-          <a href="mailto:{{ value }}">{{ value }}</a>
-          {% else %}
-          {{ value }}
-          {% endif %}
-        </span>
-        {% endfor %}
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-{% if poi_categories %}
-<script>
-(function () {
-  var bar = document.querySelector('.poi-filter-bar');
-  if (!bar) return;
-  bar.addEventListener('click', function (e) {
-    var btn = e.target.closest('.poi-filter-btn');
-    if (!btn) return;
-    bar.querySelectorAll('.poi-filter-btn').forEach(function (b) { b.classList.remove('poi-filter-active'); });
-    btn.classList.add('poi-filter-active');
-    var filter = btn.getAttribute('data-filter');
-    document.querySelectorAll('.poi-table tbody tr').forEach(function (row) {
-      if (!filter || row.getAttribute('data-category') === filter) {
-        row.classList.remove('hidden');
-      } else {
-        row.classList.add('hidden');
-      }
-    });
-  });
-})();
-</script>
-{% endif %}
-{% endif %}
 {% endif %}
 
 {% if tags %}
@@ -256,14 +166,186 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
-{% if locations and page.page_type == "location" and locations|length > 30 %}
-<div class="destinations-section">
-  <h2>All {{ locations|length }} Destinations</h2>
-  <div class="destination-columns">
-    {% for child in locations %}
-    <a href="{{ child.get_absolute_url }}">{{ child.title }}</a>
+{% if poi_images %}
+<p class="poi-strip-label">Visual inspiration</p>
+<div class="poi-strip-wrap">
+  <button class="poi-strip-arrow poi-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
+  <div class="poi-strip" id="poi-strip">
+    {% for img in poi_images %}
+    <a href="{{ img.href }}" class="poi-strip-item" title="{{ img.title }}">
+      <img src="{{ img.url }}" alt="{{ img.title }}">
+    </a>
     {% endfor %}
   </div>
+  <button class="poi-strip-arrow poi-strip-arrow--next" aria-label="Scroll right">&#8250;</button>
+</div>
+<script>
+(function() {
+  var wrap = document.querySelector('.poi-strip-wrap');
+  var strip = document.getElementById('poi-strip');
+  var prev = wrap.querySelector('.poi-strip-arrow--prev');
+  var next = wrap.querySelector('.poi-strip-arrow--next');
+  if (!strip) return;
+  function update() {
+    prev.style.opacity = strip.scrollLeft > 4 ? '1' : '0';
+    prev.style.pointerEvents = strip.scrollLeft > 4 ? '' : 'none';
+    var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 4;
+    next.style.opacity = atEnd ? '0' : '1';
+    next.style.pointerEvents = atEnd ? 'none' : '';
+  }
+  var step = 320;
+  prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
+  next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
+  strip.addEventListener('scroll', update);
+  update();
+})();
+</script>
+{% endif %}
+
+{% endblock %}
+
+{% block wide_content %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
+<div class="wide-block poi-section">
+  <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
+  <div class="poi-section-head">
+    <h2 class="poi-section-title">{{ page.title }}</h2>
+    {% if poi_categories %}
+    <div class="poi-filter-bar">
+      <button class="poi-filter-btn poi-filter-active" data-filter="">All</button>
+      {% for cat in poi_categories %}
+      <button class="poi-filter-btn" data-filter="{{ cat }}">{{ cat }}</button>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  <ul class="poi-list">
+    {% for poi in pois %}
+    <li data-category="{{ poi.category }}">
+      <a href="{% if poi_context_prefix %}{{ poi_context_prefix }}{{ poi.slug }}{% else %}{{ poi.get_absolute_url }}{% endif %}" class="poi-list-link">
+        <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
+        <div class="poi-meat">
+          <div class="poi-name">{{ poi.title }}</div>
+          {% if poi.body %}<div class="poi-blurb">{{ poi.body|truncatewords:24 }}</div>{% endif %}
+        </div>
+        <div class="poi-tag">
+          {% if poi.category %}{{ poi.category }}{% endif %}
+          {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% if poi_categories %}
+<script>
+(function () {
+  var bar = document.querySelector('.poi-filter-bar');
+  if (!bar) return;
+  bar.addEventListener('click', function (e) {
+    var btn = e.target.closest('.poi-filter-btn');
+    if (!btn) return;
+    bar.querySelectorAll('.poi-filter-btn').forEach(function (b) { b.classList.remove('poi-filter-active'); });
+    btn.classList.add('poi-filter-active');
+    var filter = btn.getAttribute('data-filter');
+    document.querySelectorAll('.poi-list li').forEach(function (row) {
+      if (!filter || row.getAttribute('data-category') === filter) {
+        row.style.display = '';
+      } else {
+        row.style.display = 'none';
+      }
+    });
+  });
+})();
+</script>
+{% endif %}
+{% endif %}{% endif %}
+
+{% if page.page_type == "location" and top_locations %}
+<div class="wide-block destinations-section">
+  <span class="section-kicker">Destinations</span>
+  <h2 class="section-block-heading">{{ page.title }}</h2>
+  {% if top_locations %}
+  <div class="dest-grid">
+    {% for loc in top_locations %}
+    <a href="{{ loc.get_absolute_url }}" class="dest-card{% if not loc.image_url %} dest-card--no-image{% endif %}">
+      {% if loc.image_url %}
+      <img src="{{ loc.image_url }}" alt="{{ loc.title }}">
+      {% else %}
+      <div class="dest-card-cloud">
+        <div class="dest-card-cloud-words">{% for w in loc.word_cloud_top %}<span>{{ w }}</span>{% endfor %}</div>
+        <div class="dest-card-cloud-name">{{ loc.word_cloud_center }}</div>
+        <div class="dest-card-cloud-words">{% for w in loc.word_cloud_bottom %}<span>{{ w }}</span>{% endfor %}</div>
+      </div>
+      {% endif %}
+      <div class="dest-veil"></div>
+      <div class="dest-txt">
+        <div class="dest-idx">{{ forloop.counter|stringformat:"02d" }}</div>
+        <div class="dest-name">{{ loc.title }}</div>
+        {% if loc.card_children %}
+        <ul class="dest-card-children">
+          {% for child in loc.card_children %}<li>{{ child.title }}</li>{% endfor %}
+          {% if loc.card_children_total > 5 %}<li class="dest-card-children-more">+{{ loc.card_children_total|add:"-5" }} more</li>{% endif %}
+        </ul>
+        {% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% if more_locations %}
+  <div class="dest-more">
+    {% for loc in more_locations %}
+    <a href="{{ loc.get_absolute_url }}" class="dest-more-link">{{ loc.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if page.page_type == "location" and sections %}
+<div class="wide-block sections-row-wrap">
+  <span class="section-kicker">Guide</span>
+  <h2 class="section-block-heading">Sections</h2>
+<div class="sections-row">
+  {% for s in sections %}
+  <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
+    <div class="section-card-icon"></div>
+    <div class="section-card-name">{{ s.title }}</div>
+    <span class="section-card-arrow">&#8594;</span>
+  </a>
+  {% endfor %}
+</div>
+</div>
+{% endif %}
+
+{% if neighbourhood_items %}
+<div class="wide-block neighbourhoods-section">
+  <span class="section-kicker">Areas</span>
+  <h2 class="section-block-heading">Neighbourhoods</h2>
+  <div class="nbhd-grid">
+    {% for nb in neighbourhood_items %}
+    <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
+      {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
+      <div class="nbhd-veil"></div>
+      <div class="nbhd-txt">
+        <div class="nbhd-idx">NB — {{ forloop.counter|stringformat:"02d" }}</div>
+        <div class="nbhd-name">{{ nb.title }}</div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if nav_siblings %}
+<div class="wide-block poi-elsewhere">
+  <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>
+  <ul class="poi-elsewhere-list">
+    {% for poi in nav_siblings %}{% if poi.slug != page.slug %}
+    <li><a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a></li>
+    {% endif %}{% endfor %}
+  </ul>
 </div>
 {% endif %}
 {% endblock %}
@@ -325,20 +407,37 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   if (heroBtnMap)   heroBtnMap.addEventListener('click', setMapMode);
   if (heroBtnPhoto) heroBtnPhoto.addEventListener('click', setPhotoMode);
 
-  {% else %}
-  // No photo — init map immediately
-  initBgMap();
   {% endif %}
 
-  // Expand/collapse hero strip
-  if (hero && heroExpandBtn) {
-    heroExpandBtn.addEventListener('click', function() {
-      heroExpanded = !heroExpanded;
-      hero.classList.toggle('hero-expanded', heroExpanded);
-      heroExpandBtn.innerHTML = heroExpanded ? '&#8963;' : '&#8964;';
-      heroExpandBtn.title = heroExpanded ? 'Show less' : 'Show more';
+  {% if is_continent %}
+  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
+  {% else %}
+  var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  var sideMap = null;
+  if (fullMarkers.length && document.getElementById('sidebar-map')) {
+    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
+  }
+
+  // Expand / collapse the sidebar map
+  var expandBtn = document.getElementById('sidebar-map-expand');
+  var mapCard   = document.getElementById('sidebar-map-card');
+  if (expandBtn && mapCard && sideMap) {
+    expandBtn.addEventListener('click', function() {
+      var expanded = mapCard.classList.toggle('sidebar-map-expanded');
+      expandBtn.innerHTML = expanded ? '&#x2715;' : '&#x26F6;';
+      expandBtn.title     = expanded ? 'Collapse map' : 'Expand map';
+      if (expanded) {
+        var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
+        mapCard.style.top = navH + 'px';
+        sideMap._setMarkers(fullMarkers);
+      } else {
+        mapCard.style.top = '';
+        sideMap._setMarkers(fullMarkers);
+      }
     });
   }
+
+  {% endif %}
 })();
 </script>
 {% endblock %}

@@ -1,15 +1,16 @@
 ---
-title: Sorrento
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+image: sorrento.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Sorrento,_Italia,_2023-03-26,_DD_09.jpg
 latitude: 40.624906
 longitude: 14.374836
-done:
-  location_cleanup: 2026-04-07
 score: 0.83
-image: sorrento.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Sorrento,_Italia,_2023-03-26,_DD_09.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Diego Delso
+title: Sorrento
+type: location
 ---
 
 *Europe > Italy > Campania > Sorrento*

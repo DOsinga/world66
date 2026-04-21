@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 40.866517
 longitude: -124.08284
+score: 0.45
 title: Arcata
 type: location
-score: 0.45
 ---
 
 Arcata is a small university town on Humboldt Bay — progressive, a little quirky, and genuinely pleasant to spend time in. It's home to Cal Poly Humboldt (formerly Humboldt State University), which gives the town its energy and its politics: Arcata has been governed by the Green Party and has declared itself a sanctuary city, banned Styrofoam, and built one of the country's first ecological wastewater treatment wetlands. For a place of 18,000 people, it has an outsized sense of itself, and mostly lives up to it.

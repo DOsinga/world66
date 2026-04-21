@@ -19,14 +19,14 @@ Every location has sections as children. Sections are ordered alphabetically by 
 
 All sights, museums, galleries, and notable neighbourhoods go in a single `things_to_do` section. Do not use separate `sights` and `museums` sections.
 
-The filter bar (All / Sight / Museum / Architecture / Neighbourhood) is rendered automatically from the `category` field on each POI. Recommended values:
+The filter bar (All / Sight / Museum / Architecture / Neighbourhood) is rendered automatically from tags on each POI. The following tags are recognised as filterable categories:
 
-| Category | Use for |
-|----------|---------|
-| `Sight` | Monuments, squares, churches, ancient sites, viewpoints |
-| `Museum` | Art galleries, history museums, science museums |
-| `Architecture` | Buildings valued primarily for their design (not open as museums) |
-| `Neighbourhood` | Districts and areas worth wandering — canals, market streets, etc. |
+| Tag | Use for |
+|-----|---------|
+| `sight` | Monuments, squares, churches, ancient sites, viewpoints |
+| `museum` | Art galleries, history museums, science museums |
+| `architecture` | Buildings valued primarily for their design (not open as museums) |
+| `neighbourhood` | Districts and areas worth wandering — canals, market streets, etc. |
 
 #### POI stories
 

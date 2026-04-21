@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-08'
 latitude: 49.493898
 longitude: 0.107973
+score: 0.47
 title: Le Havre
 type: location
-score: 0.47
 ---
 
 Le Havre is France's second-largest port and one of the country's most architecturally distinctive cities. Bombed almost flat in September 1944, it was rebuilt from scratch by the modernist architect Auguste Perret between 1945 and 1964 — a singular act of urban planning that earned it UNESCO World Heritage status in 2005. Most visitors pass through on their way to or from Britain; that's a mistake.

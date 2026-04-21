@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 20.9237
 longitude: 96.6693
+score: 0.49
 title: Pindaya
 type: location
-score: 0.49
 ---
 
 **Pindaya** is a small, unhurried town in the Shan Hills of central Myanmar, set around a lake called Nattamiekan (Angels Lake). It is worth a stop on the route between [Bagan](/asia/myanmar/bagan) or [Mandalay](/asia/myanmar/mandalay) and [Inle Lake](/asia/myanmar/inlelake), and many travellers pass through in a day — though the town rewards an overnight stay.

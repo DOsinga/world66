@@ -1,9 +1,11 @@
 ---
-title: Paramaribo
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 5.8242
 longitude: -55.1561
 score: 0.51
+title: Paramaribo
+type: location
 ---
 
 Paramaribo is one of the most unusual capitals in the Americas — a Dutch colonial city transplanted into the tropics, where wooden plantation houses line broad avenues and the sound of church bells, mosque calls, and Hindu temple music can all be heard from the same street corner. The historic inner city, a UNESCO World Heritage Site, is a testament to Suriname's improbable mix of cultures: Dutch, Creole, Javanese, Hindustani, Chinese, and indigenous communities have coexisted here for centuries, and the architecture, food, and faces of the city reflect every one of them.

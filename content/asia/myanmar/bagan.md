@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 21.1717
 longitude: 94.8585
+score: 0.68
 title: Bagan
 type: location
-score: 0.68
+image: bagan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20160731_Bagan_temples_6746.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jakub Hałun
 ---
 
 Few places in Asia stop you in your tracks the way Bagan does. Spread across a dusty plain beside the Ayeyarwady River, more than 2,000 temples, pagodas, and monasteries rise from the earth — the remains of a city that was once the capital of the first Burmese empire and one of the great cities of medieval Asia.

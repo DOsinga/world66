@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 7.8994
 longitude: 98.3087
+score: 0.68
 title: Patong
 type: location
-score: 0.68
 ---
 
 Patong is [Phuket](/asia/thailand/phuket)'s busiest and most developed beach resort, a long crescent of sand facing the Andaman Sea backed by a wall of hotels, restaurants, and shops. It is loud, commercial, and unapologetically geared toward mass tourism — and for many visitors, that is exactly the point.

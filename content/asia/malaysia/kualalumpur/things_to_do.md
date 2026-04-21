@@ -1,7 +1,6 @@
 ---
-title: "Things to do"
+title: Things to do
 type: section
-type: "Spa and Sauna"
 ---
 
 Make sure you zip your pockets up at chinatown and petaling street.

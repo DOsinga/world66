@@ -1,9 +1,11 @@
 ---
-title: Hartford
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 41.7646
 longitude: -72.6908
 score: 0.37
+title: Hartford
+type: location
 ---
 
 Hartford is the capital of Connecticut, sitting in the north-central part of the state along the Connecticut River. Founded as a Dutch trading post and established as an English settlement in the 1630s by the Reverend Thomas Hooker, it grew into one of New England's most important cities — the insurance and financial capital of the region, a role it has held since the 19th century.

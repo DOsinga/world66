@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 3.151696
 longitude: 101.694237
 score: 0.66
 title: Kuala Lumpur
 type: location
+image: kualalumpur.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Butorides_striata_javanica_@_Kuala_Lumpur,_Malaysia_(1).jpg
+image_license: CC BY-SA 4.0
+image_attribution: GerifalteDelSabana
 ---
 
 Kuala Lumpur — KL — is the capital of Malaysia and one of Southeast Asia's most underrated cities. It began as a muddy tin-mining camp at the confluence of the Klang and Gombak rivers in the 1850s (the name means "muddy confluence"), and grew into a colonial administrative centre under the British, and then, after independence in 1957, into the rapidly modernising city you see today. KL is visibly a city of layers: Islamic, Chinese, and Indian communities side by side, colonial mock-Tudor next to glass-skinned skyscrapers, rainforest parks still clinging to the edges of downtown.

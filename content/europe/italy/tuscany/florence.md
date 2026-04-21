@@ -1,33 +1,23 @@
 ---
-title: Florence
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
+image: florence.jpg
+image_attribution: Infrogmation
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:FlorenceSkyline.jpg
 latitude: 43.769796
 longitude: 11.25564
 score: 0.92
-image: florence.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Florence_Duomo_from_Michelangelo_hill.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Petar Milošević
+title: Florence
+type: location
 ---
 
-Florence (pop. 417 000) is the one city few visitors allow enough time to see. It lays in Tuscany a stunning province of hills and mountains, which has produced such famous sons as Leonardo, Dante, Machiavelli and Michelangelo. Ever since the 19th century revival of interest in the art of the Renaissance, *Firenze* has been a shrine to the cult of the beautiful.
+Florence is a small city with an outsized claim on Western civilization. In the 15th and 16th centuries, the Medici-funded Renaissance concentrated more art and architecture here than almost anywhere else on earth, and the results are still on view in a compact historic centre that you can walk across in twenty minutes. The Uffizi holds the world's greatest collection of Renaissance painting. The Accademia has Michelangelo's David. The Duomo, designed by Brunelleschi with an engineering audacity that was unmatched for a century, still dominates the skyline.
 
+But Florence rewards those who go beyond the famous. The Bargello, Florence's sculpture museum in a medieval palace, is less crowded than the big names and contains Donatello's bronze David and the competition panels by Ghiberti and Brunelleschi — two of the pivotal works of the Renaissance. San Miniato al Monte, the Romanesque basilica on the hill above the Piazzale Michelangelo, has Benedictine monks singing Gregorian vespers at 17:30 most evenings, free and extraordinary. Santa Croce has Giotto and the tombs of Michelangelo, Galileo, and Machiavelli.
 
- 
- The world famous Duomo with the Brunelleschi cupola and the marble clad baptistry are simply stupendous, but not all the monuments are like this. The streets of the historic town centre are often narrow and dark, the palaces robust and intimidating. But have a look at the squares - wonderful mediterranean places where you like to spend hours with sittung down, having a caffe and just watch people passing by.
+The Oltrarno, on the south bank of the Arno, is a different city. The Palazzo Pitti and Boboli Gardens are here, as is Pontormo's Deposition in Santa Felicita, and the neighbourhood around Piazza Santo Spirito has a local character that the north bank has largely lost to tourism.
 
-
- 
- However, Florence is a city of incomparable pleasure concerning churches, monasteries, museums, galleries and palaces. Among the things you can't afford to miss are the Uffizi Galleries, one of the best art museums in the world, the cathedral with the baptistry, the Santo Spirito church and the Ponte Vecchio. To get a great overview of the city, head for Piazza Michelangelo in Oltrarno (other side of river Arno).
-
-
- 
- The surroundings of Florence have many things to offer to the visitor as well as does the whole [Florence Province](/europe/italy/tuscany/florenceprovince). You can explore this region for weeks without being bored. For these day trips the city of Florence is the perfect starting point. 
-
-
- 
-
-With Courtesy of **APT Firenze**
-
-
- Si ringrazia la APT FIRENZE, proprietaria di gran parte del materiale pubblicato in queste pagine, per averlo messo a disposizione.
+Florence's food is straightforward and excellent. Bistecca alla Fiorentina — thick-cut T-bone, grilled rare over charcoal — is the signature. The Mercato Centrale has some of the best ingredients in the city, and the food hall upstairs is a reasonable place to eat. For gelato, look for places where the product is kept in metal containers with lids rather than piled in colourful towers — the latter is usually a sign of artificial additives.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-05'
 latitude: 35.6628
 longitude: 139.732
+score: 0.64
 title: Roppongi
 type: location
-score: 0.64
 ---
 
 Roppongi is Tokyo's most international district — a dense mix of nightclubs, jazz bars, upscale restaurants, and world-class art museums. The neighbourhood has long attracted expats, tourists, and Tokyo's nightlife crowd, which gives it a different energy from the rest of the city. It can be loud and brash after dark, but it also has a serious cultural side that most visitors overlook.

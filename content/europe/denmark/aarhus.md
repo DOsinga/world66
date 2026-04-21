@@ -1,11 +1,12 @@
 ---
-title: Aarhus
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 56.1496
 longitude: 10.2134
-done:
-  location_cleanup: 2026-04-07
 score: 0.59
+title: Aarhus
+type: location
 ---
 
 Aarhus is Denmark's second city and the capital of Jutland, a university town with a well-preserved old centre, excellent museums, and a lively bar and restaurant scene. It has the cultural weight of a much larger city — ARoS, the art museum topped with Olafur Eliasson's rainbow panorama walkway, is genuinely world-class — but keeps the easy, walkable scale of a place where everything is within reach.

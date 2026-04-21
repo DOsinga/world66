@@ -1,11 +1,12 @@
 ---
-title: Guadalajara
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 20.6597
 longitude: -103.3496
-done:
-  location_cleanup: 2026-04-02
 score: 0.57
+title: Guadalajara
+type: location
 ---
 
 Guadalajara is Mexico's second city and the capital of Jalisco -- the birthplace of mariachi music, tequila, and the wide-brimmed charro hat. It wears its cultural identity proudly, and visitors notice right away: this is a city that feels deeply, unapologetically Mexican.

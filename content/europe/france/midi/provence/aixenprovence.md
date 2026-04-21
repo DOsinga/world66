@@ -1,11 +1,12 @@
 ---
-title: Aix-en-Provence
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 43.529842
 longitude: 5.447474
-done:
-  location_cleanup: 2026-04-07
 score: 0.73
+title: Aix-en-Provence
+type: location
 ---
 
 Aix is the ancient capital of Provence, and it still carries itself that way. Elegant townhouses line plane-tree-shaded boulevards, fountains splash on every other corner, and cafe terraces fill with students from one of France's oldest universities.

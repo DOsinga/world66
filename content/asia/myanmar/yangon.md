@@ -1,9 +1,11 @@
 ---
-title: Yangon
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 16.796713
 longitude: 96.160992
 score: 0.57
+title: Yangon
+type: location
 ---
 
 Yangon is Myanmar's largest city and commercial capital, a sprawling place of lakes, pagodas, and crumbling colonial buildings set against a backdrop of street vendors and trishaws. It is not as frantic as Bangkok or as clean as Singapore, but it has a character all its own — slow-moving and atmospheric in a way that most of Southeast Asia no longer is.

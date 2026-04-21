@@ -1,0 +1,33 @@
+---
+address: Av. Jose Pardo 485, Miraflores, Peru
+email: reservasweb@starperu.com
+latitude: -12.119004
+longitude: -77.033039
+phone: 'Reservations: (511) 705-9000'
+tags:
+- getting_there
+title: Star Peru
+type: By Air
+url: www.starperu.com
+---
+
+Flights on Star Peru from Lima to Tarapoto are generally scheduled for 2:30 p.m. each day, and the flight is about one hour long. Passengers are required to check in at the airport two hours ahead of the scheduled time of the flight.
+
+Star Peru states that if a passenger doesn't check in at least 60 minutes prior to departure, the passenger gives up any rights to the flight, and Star can rebook the flight to someone else. Also, passengers are required to call not less than 24 hours before the flight to confirm, or their ticket might be resold.
+
+**Contributors**
+December 14, 2006
+
+type: By Air
+
+
+
+
+
+tel: Reservations: (511) 705-9000
+
+url: www.starperu.com
+
+address: Av. Jose Pardo 485, Miraflores, Peru
+
+email: reservasweb@starperu.com

@@ -1,11 +1,12 @@
 ---
-title: Luanda
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: -8.82727
 longitude: 13.243951
-done:
-  location_cleanup: 2026-04-05
 score: 0.3
+title: Luanda
+type: location
 ---
 
 Luanda is Angola's capital and largest city, set on a sweeping natural bay on the Atlantic coast. Founded by Portuguese colonists in 1576, it served for centuries as a major hub of the transatlantic slave trade — a history the city confronts honestly at the National Slavery Museum. The city has grown enormously since independence in 1975 and through the end of the civil war in 2002; today it is one of Africa's larger capitals, a chaotic, energetic place that has rebuilt itself rapidly on oil wealth.

@@ -1,6 +1,9 @@
 ---
 address: Paulus Potterstraat 7
 category: Museum
+image: vangogh_museum.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Van_Gogh_Museum_Amsterdam_2017.jpg
 latitude: 52.358435
 longitude: 4.881197
 neighbourhood: Museum Quarter

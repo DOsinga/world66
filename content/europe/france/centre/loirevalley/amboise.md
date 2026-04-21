@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 47.411
 longitude: 0.9837
+score: 0.69
 title: Amboise
 type: location
-score: 0.69
 ---
 
 Amboise sits on the Loire 25 km east of [Tours](/europe/france/centre/loirevalley/tours), a small town with an outsized history. The chateau looms over everything — one of the first true Renaissance buildings in France, built by Louis XII and later used by Francois I, who invited Leonardo da Vinci to spend his final years here. Leonardo is buried in the castle's Saint-Hubert chapel.

@@ -1,12 +1,11 @@
 ---
-title: "Eating Out"
-type: section
-address: "The Fort, Bonifacio Global City, Manila"
-phone: "+632.8893963"
-type: "Italian"
-url: "www.loperagroup.com"
+address: The Fort, Bonifacio Global City, Manila
 latitude: 14.556726
 longitude: 121.054268
+phone: '+632.8893963'
+title: Eating Out
+type: section
+url: www.loperagroup.com
 ---
 
 A budget accommodation in Las Pinas Philippines.

@@ -1,15 +1,17 @@
 ---
-title: St Petersburg
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
+  poi_cleanup: '2026-04-19'
+image: stpetersburg.jpg
+image_attribution: Florstein (Telegram:WikiPhoto.Space)
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Courtyards_of_SPB_03.jpg
 latitude: 59.9343
 longitude: 30.3351
-done:
-  location_cleanup: 2026-04-02
 score: 0.8
-image: stpetersburg.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Courtyards_of_SPB_03.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Florstein (Telegram:WikiPhoto.Space)
+title: St Petersburg
+type: location
 ---
 
 St Petersburg is Russia's cultural capital and one of Europe's most beautiful cities. Founded in 1703 by Peter the Great as a window to the West, it was designed from scratch on the marshy banks of the Neva delta — a grand experiment in urban planning that produced an extraordinary cityscape of baroque palaces, neoclassical facades, and canals that invite easy comparisons to Venice and Amsterdam.

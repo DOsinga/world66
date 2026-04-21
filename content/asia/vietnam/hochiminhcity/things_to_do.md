@@ -1,11 +1,10 @@
 ---
-title: "Things to do"
+address: 187B Hai Ba Trung, District 3, Ho Chi Minh City
+email: info@spatropic.com
+phone: (848) 822-8895
+title: Things to do
 type: section
-address: "187B Hai Ba Trung, District 3, Ho Chi Minh City"
-email: "info@spatropic.com"
-phone: "(848) 822-8895"
-type: "Spa and Sauna"
-url: "www.spatropic.com"
+url: www.spatropic.com
 ---
 
 Things To Do....

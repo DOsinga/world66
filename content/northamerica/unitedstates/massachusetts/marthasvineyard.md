@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: 41.392046
 longitude: -70.620814
+score: 0.65
 title: Martha's Vineyard
 type: location
-score: 0.65
 ---
 
 Martha's Vineyard is an island roughly 11 kilometres off the southern coast of [Cape Cod](/northamerica/unitedstates/massachusetts/capecod), accessible by ferry from Woods Hole. About 25 kilometres long and 16 kilometres wide, it has been one of New England's most popular summer destinations for over a century, drawing both old-money families and more recent celebrity residents — Barack Obama, the Clintons, and various Hollywood figures have all spent summers here.

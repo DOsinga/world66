@@ -1,0 +1,17 @@
+---
+address: River Guadalvir, nearby Torro del Oro
+tags:
+- things_to_do
+title: Puente de Triana
+type: Architecture
+---
+
+The Bridge of Triana built by the French architects Steinacher and Bernadet.
+
+type: Architecture
+
+
+
+
+
+address: River Guadalvir, nearby Torro del Oro

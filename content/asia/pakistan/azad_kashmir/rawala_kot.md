@@ -1,11 +1,12 @@
 ---
-title: Rawalakot
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 33.8577
 longitude: 73.7615
-done:
-  location_cleanup: 2026-04-07
 score: 0.42
+title: Rawalakot
+type: location
 ---
 
 Rawalakot is the district headquarters of Poonch in Azad Kashmir, sitting in a saucer-shaped valley at around 1,600 meters. The town itself is small and functional, but the surrounding landscape is the real draw — green ridges, pine forests, and mountain views in every direction.

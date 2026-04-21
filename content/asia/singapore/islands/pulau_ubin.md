@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 1.405
 longitude: 103.96
+score: 0.5
 title: Pulau Ubin
 type: location
-score: 0.5
 ---
 
 Pulau Ubin is one of the last places in Singapore where you can genuinely forget you are in one of Asia's most relentlessly modern cities. The island — about 10 square kilometres of secondary forest, mangrove, and granite — sits just off Changi Point and takes roughly ten minutes to reach by bumboat. Once there, the pace drops completely. The roads are mostly unpaved, cars are rare, and the main village at the pier still looks much as it did forty years ago.

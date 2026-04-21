@@ -1,26 +1,21 @@
 ---
+done:
+  location_cleanup: '2026-04-16'
+image: washington.jpg
+image_attribution: Steve Shook from Moscow, Idaho, USA
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Greetings_from_Washington,_%22The_Evergreen_State%22_-_Large_Letter_Postcard_(5171598140).jpg
+latitude: 47.5001
+longitude: -120.5015
+score: 0.67
 title: Washington
 type: location
-latitude: 38.895037
-longitude: -77.036543
-score: 0.67
 ---
 
-[Seattle](/northamerica/unitedstates/washington/seattle) is one of the nicest cities to spend some time. Its location is really great and it is an excellent base for exploring the state. If you're into coffee, this is the place. Many a funky little coffee shop, including The Hurricane, on Seventh downtown. Highly recommended. 
+Washington state occupies the northwest corner of the continental United States, with the Pacific Ocean to the west, Oregon to the south, Idaho to the east, and Canada to the north. It is a state of dramatic contrasts: the rainy, mountainous coast and the wet Puget Sound lowlands to the west; the dry, sunny Columbia Plateau to the east; and the volcanic Cascade Range dividing them, with Mount Rainier (4,392m) dominating the skyline.
 
-Just across the Sound (Puget Sound, to be specific) from Seattle, a relatively short ferry ride away, you get the Kitsap Penninsula. It's right by the city, but it's rural enough to have character (read: cows). The entire area is full of great trees and enough incredible hidden beaches to keep you busy for weeks. 
+Seattle is the obvious starting point — a city of genuine character, strong coffee culture, and outstanding food, set between Puget Sound and Lake Washington with mountains visible in every direction on clear days. The ferry network from Seattle reaches the Olympic Peninsula and the San Juan Islands, both worth the journey. Mount Rainier National Park, two hours south, offers some of the most accessible alpine wilderness in the Pacific Northwest. The North Cascades to the north are wilder and less visited.
 
-NE Washington.. Kettle Falls and Colville area has many things to offer to someone who enjoys the great outdoors, Hunting, Camping, Hiking, Fishing, Boating, and so much more to list. Franklin Roosevelt Lake, Part of the Columbia river Is the largest of the lakes. 
+East of the Cascades, the Yakima Valley is Washington's major wine region, producing Riesling and Cabernet in a semi-arid landscape that feels entirely different from the coast. Spokane, in the east, is the state's second city and a gateway to the Idaho panhandle. The Palouse — rolling wheat fields in the southeast — is one of the most distinctive agricultural landscapes in America.
 
-## Destinations in Washington
-
-[Mt. Rainier NP](/northamerica/unitedstates/washington/mtrainiernp)
-[Seattle](/northamerica/unitedstates/washington/seattle)
-[Spokane](/northamerica/unitedstates/washington/spokane)
-[Kirkland](/northamerica/unitedstates/washington/kirkland)
-[Tacoma](/northamerica/unitedstates/washington/tacoma)
-[Bellingham](/northamerica/unitedstates/washington/bellingham)
-[Bellevue](/northamerica/unitedstates/washington/bellevue)
-[Clarkston](/northamerica/unitedstates/washington/clarkston)
-[North Cascades NP](/northamerica/unitedstates/washington/northcascadesnp)
-[University of Washington](/northamerica/unitedstates/washington/seattle/universityofwashington)
+The western side of the state sees significant rainfall; the eastern side is much drier. Summer is reliably good throughout; winter brings snow to the mountains and grey skies to the coast.

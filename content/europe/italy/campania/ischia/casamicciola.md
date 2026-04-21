@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 40.7481
 longitude: 13.8997
-title: Casamicciola Terme
-type: location
 score: 0.57
+title: Casamicciola Terme
+type: neighbourhood
 ---
 
 Casamicciola Terme is the oldest spa town on Ischia, sitting on the island's northern coast with its back against the wooded slopes of Monte Epomeo. The mineral springs here were used therapeutically from ancient times, and by the 19th century the town was drawing distinguished visitors from across Europe — Henrik Ibsen wrote much of *Peer Gynt* during a stay here in 1867.

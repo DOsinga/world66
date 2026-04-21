@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-08'
 latitude: 53.6288
 longitude: 11.4148
+score: 0.52
 title: Schwerin
 type: location
-score: 0.52
 ---
 
 Schwerin is the smallest state capital in Germany and one of the most beautiful. The city spreads across a landscape of seven lakes and dense forests in the heart of Mecklenburg-Vorpommern, and its centrepiece is a fairytale castle on an island in the Schweriner See that looks like it belongs in a Disney film rather than northern Germany.

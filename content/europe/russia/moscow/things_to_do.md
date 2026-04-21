@@ -1,10 +1,9 @@
 ---
-title: "Things to do"
+address: st. Petrovka, 11/20. Hotel Marriot
+phone: +7(095) 937-10-81
+title: Things to do
 type: section
-address: "st. Petrovka, 11/20. Hotel Marriot"
-phone: "+7(095) 937-10-81"
-type: "Spa and Sauna"
-url: "www.beautystudio.ru"
+url: www.beautystudio.ru
 ---
 
 Here are a few suggested activities.

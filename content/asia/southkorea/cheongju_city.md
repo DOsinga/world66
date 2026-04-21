@@ -1,11 +1,12 @@
 ---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 36.642117
 longitude: 127.489174
+score: 0.43
 title: Cheongju City
 type: location
-done:
-  location_cleanup: 2026-04-07
-score: 0.43
 ---
 
 Cheongju is a mid-sized city of around 800,000 people in central Korea and the capital of North Chungcheong Province. It sits roughly equidistant between Seoul and Daejeon, and makes a practical base for exploring the region — buses to Seoul take about 90 minutes, Daejeon 30 minutes.

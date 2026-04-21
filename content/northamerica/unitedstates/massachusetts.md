@@ -6,6 +6,10 @@ longitude: -71.3824
 title: Massachusetts
 type: location
 score: 0.49
+image: massachusetts.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Boston_-Massachusetts_State_House_(48718911666).jpg
+image_license: CC BY 2.0
+image_attribution: Ajay Suresh from New York, NY, USA
 ---
 
 Massachusetts packs an outsized amount of American history, natural beauty, and cultural life into a small state. The Pilgrims landed at [Plymouth](/northamerica/unitedstates/massachusetts/plymouth) in 1620, the American Revolution started in [Lexington](/northamerica/unitedstates/massachusetts/lexington) and [Concord](/northamerica/unitedstates/massachusetts/concord), and [Boston](/northamerica/unitedstates/massachusetts/boston) remains one of the most historically rich cities in the country.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: -23.646374
 longitude: -70.398003
+score: 0.44
 title: Antofagasta
 type: location
-score: 0.44
 ---
 
 Antofagasta is the largest city in northern Chile and the capital of the region that bears its name. It is a functional, modern port city built on copper wealth — not a destination in itself, but a practical hub for exploring the Atacama Desert and the northern coast.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 45.3369
 longitude: 14.3053
+score: 0.62
 title: Opatija
 type: location
-score: 0.62
 ---
 
 Opatija is Croatia's grandest old resort town, draped across a hillside above the Kvarner Gulf and still wearing its Austro-Hungarian finery with considerable pride. Where Dubrovnik has medieval walls and Split has a Roman palace, Opatija has Belle Epoque villas, formal gardens, and a promenade that once drew emperors and composers. Franz Joseph I, Kaiser Wilhelm II, Gustav Mahler, and Anton Chekhov all came here to take the sea air. The style they came for survives remarkably intact.

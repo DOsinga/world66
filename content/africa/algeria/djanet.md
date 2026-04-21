@@ -2,9 +2,8 @@
 done:
   location_cleanup: '2026-04-15'
 image: djanet.jpg
-image_attribution: Ghiles.toubal
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Djanet_-_2019.jpg
+image_attribution: Douwe Osinga
+image_license: Public Domain
 latitude: 24.5547
 longitude: 9.4842
 score: 0.51

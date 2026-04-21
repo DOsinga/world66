@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 37.8709
 longitude: -122.2728
+score: 0.55
 title: Berkeley
 type: location
-score: 0.55
 ---
 
 Berkeley sits on the eastern shore of San Francisco Bay, dominated by the University of California campus and by a political culture that has been left-of-centre for so long it has become a self-parody — but an endearing one. The university brings intellectual life, good bookshops, and excellent food. The hills behind the city offer some of the best bay views in the region.

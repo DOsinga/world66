@@ -1,13 +1,14 @@
 ---
-title: Tafraoute
-type: location
 description: A laid-back Berber town in Morocco's Anti-Atlas mountains, surrounded
   by spectacular granite landscapes and the palm-filled Ameln Valley.
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 29.7205
 longitude: -8.9745
-done:
-  location_cleanup: 2026-04-06
 score: 0.51
+title: Tafraoute
+type: location
 ---
 
 Tafraoute is a laid-back mountain town in Morocco's Anti-Atlas, east of Tiznit and southeast of Agadir. After hours of barren landscape, the cool air drifting up from the palm grove at the edge of town feels like a reward. The granite peaks and lunar rock formations surrounding the town are spectacular — pink and orange at sunset, otherworldly at any hour.

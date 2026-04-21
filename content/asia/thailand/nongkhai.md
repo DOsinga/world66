@@ -1,11 +1,12 @@
 ---
-title: Nong Khai
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 17.8783
 longitude: 102.745
-done:
-  location_cleanup: 2026-04-07
 score: 0.53
+title: Nong Khai
+type: location
 ---
 
 Nong Khai sits right on the Mekong River, 630 km northeast of [Bangkok](/asia/thailand/bangkok), staring across the water at [Laos](/asia/laos). It is one of Thailand's most atmospheric border towns -- unhurried, friendly, and with a stretch of riverfront that turns golden at sunset.

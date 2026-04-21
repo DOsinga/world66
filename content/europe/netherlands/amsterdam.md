@@ -10,6 +10,9 @@ image: amsterdam.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_,_Netherlands_-_panoramio_(140).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Patrick Nouhailler's…
+tagline: "Seventeen canals, twelve million tulips, and the world's most visited painting."
+quote: "Amsterdam makes more sense on two wheels than on foot."
+tip: "Hire a bike on your first full day. Every neighbourhood is within 20 minutes of every other by bicycle, and the tram lanes and narrow pavements make walking feel slow and peripheral. Lock it to something immovable — theft is endemic and even expensive locks get cut."
 ---
 
 Amsterdam is one of the most walkable cities in Europe, and the canal ring at its centre is genuinely as beautiful as advertised. Seventeen canals, 1,200 bridges, and rows of narrow gabled houses built during the 17th-century Golden Age when this was the wealthiest city on earth — it adds up to a place that rewards slow wandering more than any itinerary can capture.

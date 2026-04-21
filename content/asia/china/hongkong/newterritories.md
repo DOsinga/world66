@@ -1,11 +1,12 @@
 ---
-title: New Territories
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 22.4301
 longitude: 114.0724
-done:
-  location_cleanup: 2026-04-07
 score: 0.57
+title: New Territories
+type: neighbourhood
 ---
 
 The New Territories is the largest part of Hong Kong — the mainland peninsula north of [Kowloon](/asia/china/hongkong/kowloon) and a number of nearby islands, leased by Britain from China in 1898 for 99 years. The 1997 handover was driven largely by the expiry of this lease, since the colony couldn't survive without the New Territories' land and water supply.

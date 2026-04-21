@@ -1,0 +1,20 @@
+---
+address: Via V. Emanuele II
+latitude: 45.773897
+longitude: 9.57659
+tags:
+- getting_around
+- market
+- square
+title: Funicular to Città Alta Upper Town
+type: poi
+url: www.stefanomolinari.com
+---
+
+Take the funicular up to the High Town. It's a cable car as you can hear it working during the ride. From the end of Bus 1 that goes from the train station down Viale Vittorio Emanuele II, get off at the curve and use the same ticket to go up the funicular. The funicular goes under Viale delle Mura and comes out in Piazza Mercato delle Scarpe. Then you will need another ticket if you decide to come back down.
+
+
+
+url: [www.stefanomolinari.com](http://www.stefanomolinari.com/funicolar-bergamo-italy-1483-photo)
+
+address: Via V. Emanuele II

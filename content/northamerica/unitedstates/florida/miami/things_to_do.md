@@ -1,10 +1,9 @@
 ---
-title: "Things to do"
+address: Everglades National Park, 40001 State Road 9336
+phone: 305-242-7700
+title: Things to do
 type: section
-address: "Everglades National Park, 40001 State Road 9336"
-phone: "305-242-7700"
-type: "Hiking"
-url: "www.nps.gov"
+url: www.nps.gov
 ---
 
 You won't have any problems at all finding plenty of things to do during your Miami vacation. What you *will *have a problem with is deciding what to do first! With so many beaches, parks, museums, and historic sites, you will have something exciting to do each and every day of your Miami trip. You can hang out at sexy Miami Beach and people watch or you can go biking through Shark Valley in the Everglades National Park. Whatever you decide to do, is up to you -- so continue reading to check out some of the top things to do in Miami!

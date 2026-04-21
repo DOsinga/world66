@@ -1,5 +1,6 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 image: haarlem.jpg
 image_attribution: Fryslan0109 at English Wikipedia

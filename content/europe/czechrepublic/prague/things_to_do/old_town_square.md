@@ -1,9 +1,0 @@
----
-title: "Old Town Square"
-type: poi
-category: "Sight"
-latitude: 50.087445
-longitude: 14.420971
----
-
-The heart of Staré Město, unchanged in shape since the 12th century. The square is framed by the twin spires of the Gothic **Týn Church**, the baroque **Church of St Nicholas**, and the pastel townhouses of the Old Town Hall. On the hour, every hour, a crowd gathers to watch the 15th-century **Astronomical Clock** perform its procession of the apostles — a slightly anticlimactic but much-photographed piece of Prague theatre. A Jan Hus monument stands in the centre.

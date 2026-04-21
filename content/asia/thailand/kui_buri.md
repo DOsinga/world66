@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 12.069553
 longitude: 99.872073
+score: 0.48
 title: Kui Buri
 type: location
-score: 0.48
 ---
 
 Kui Buri is a quiet coastal district south of [Hua Hin](/asia/thailand/huahin), well off the main tourist trail along the Gulf of Thailand. The town itself is small and unremarkable, but the area draws visitors for two reasons: the wild elephants of Kui Buri National Park and the empty beaches along the so-called Sunrise Coast.

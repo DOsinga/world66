@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 7.84752
 longitude: 98.298114
+score: 0.65
 title: Karon
 type: location
-score: 0.65
 ---
 
 Karon is [Phuket](/asia/thailand/phuket)'s second-largest beach after Patong, stretching about three kilometres along the Andaman Sea coast. It sits between [Kata](/asia/thailand/phuket/kata) to the south and Patong to the north, and strikes a middle ground between the two — livelier than Kata, calmer than Patong.

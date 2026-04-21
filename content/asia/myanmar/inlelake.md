@@ -1,11 +1,12 @@
 ---
-title: Inle Lake
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 20.5399
 longitude: 96.9172
-done:
-  location_cleanup: 2026-04-06
 score: 0.65
+title: Inle Lake
+type: location
 ---
 
 Inle Lake is one of Myanmar's most captivating destinations — a vast freshwater lake in the Shan Hills where life happens almost entirely on water. Villages stand on stilts, gardens float on the surface, and fishermen balance on one leg while rowing with the other, a technique found nowhere else in the world.

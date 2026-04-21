@@ -1,5 +1,6 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
 image_attribution: Quintin Soloviev
 latitude: 37.173499

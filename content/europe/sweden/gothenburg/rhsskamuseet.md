@@ -1,0 +1,12 @@
+---
+address: Vasagatan 37-39
+latitude: 57.7
+longitude: 11.9735
+tags:
+- things_to_do
+- museum
+title: Rohsska Museet
+type: poi
+---
+
+Sweden's only museum of design and applied art, with a large collection of crafts from the 17th century to the present. The 20th-century section focuses on Swedish design. Sub-collections include East Asian ceramics, metalwork, furniture, and historical textiles.

@@ -1,11 +1,15 @@
 ---
-title: Texas
-type: location
+done:
+  location_cleanup: '2026-04-16'
+image: texas.jpg
+image_attribution: Steve Shook from Moscow, Idaho, USA
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Greetings_from_Texas,_The_Lone_Star_State_-_Large_Letter_Postcard_(12084494683).jpg
 latitude: 31.2639
 longitude: -98.5456
-done:
-  location_cleanup: 2026-04-04
 score: 0.54
+title: Texas
+type: location
 ---
 
 Texas is enormous, and it knows it. The second-largest state in the US stretches from the pine forests of East Texas to the desert canyons of Big Bend, from the Gulf Coast beaches of South Padre Island to the high plains of the Panhandle. It would take twelve hours to drive from one end to the other, and you would pass through landscapes that look nothing alike.

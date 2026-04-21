@@ -1,11 +1,12 @@
 ---
-title: Mainz
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 49.9995
 longitude: 8.2736
-done:
-  location_cleanup: 2026-04-07
 score: 0.58
+title: Mainz
+type: location
 ---
 
 Mainz is a 2,000-year-old city on the Rhine, the capital of [Rhineland-Palatinate](/europe/germany/rhinelandpalatinate) and one of those German cities that is vastly more interesting than its reputation suggests. Founded as a Roman military camp, it became the seat of powerful medieval archbishops and the city where Johannes Gutenberg invented the printing press. The massive Romanesque cathedral, begun in 975, still dominates the skyline.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 45.14391
 longitude: 13.908675
+score: 0.46
 title: Žminj
 type: location
-score: 0.46
 ---
 
 Žminj is a small hilltop town in central [Istria](/europe/croatia/istria), about 15 kilometres south of Pazin. First mentioned in 1177, it sits on the old road between Pazin and Pula and has the quiet, unhurried feel of inland Istria — stone houses, a parish church, and views over rolling countryside.

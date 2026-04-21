@@ -1,16 +1,6 @@
 ---
 title: "Things to do"
 type: section
-address: "713 South US Highway 24"
-phone: "(719) 395-2634"
-type: "general"
-url: "www.bongobillys.com"
-latitude: 39.071992
-longitude: -94.523601
 ---
 
-### Bongo Billy's Buena Vista Cafe
-
-Fresh baked goods, salads, soups, sandwiches, quiche, desserts, teas, juices, and of course great Bongo Billy's Coffees beverages & bulk beans. A great hangout that encompasses the Buena Vista feel to it. No trip is complete to Buena Vista without going to Bongo Billy's.
-
-type: general
+Buena Vista sits in a stunning mountain setting with plenty to keep you busy outdoors. The Arkansas River is one of Colorado's premier rafting destinations, and the surrounding peaks offer excellent hiking and mountain biking.

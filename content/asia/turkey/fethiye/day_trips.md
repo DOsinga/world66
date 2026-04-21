@@ -1,35 +1,6 @@
 ---
 title: "Day Trips"
 type: section
-address: "Sultanahmet"
-email: "info@turkeytravelservice.com"
-phone: "+90 532 340 01 52"
-url: "www.turkeytravelservice.com"
 ---
 
-**Blue Cruise Tours - Fethiye to Olympos
-**Turkey, Blue Cruise Fethiye to Olympos - 3 Night / 4 Days holiday package - available daily **more details http://www.turkeytravelservice.com**
-
-**Contributors**
-September 26, 2008
-
-### [Blue Cruise Fethiye to Olympos](/asia/turkey/fethiye/day_trips/blue_cruise_fethiy)
-
-**DAY 01**
-**Departure from Fethiye (Fethiye harbour)
-**Departure from Fethiye Harbour between 11 and 12 a.m. to Samanlik Bay for swimming & lunch or depending on the sea conditions to Butterfly Valley for lunch, a swim & optional visit of this natural reserve, hosting 136 kinds of different butterflies and moths.
-Afterwards we cruise to Oludeniz (The Blue Lagoon) again sea conditions permitting.
-Option for paragliding available.
-Last stop of the day is St.Nicholas Island. Byzantine ruins, swim, dinner. 1st [more..](/asia/turkey/fethiye/day_trips/blue_cruise_fethiy)
-
-
-
-[[rate it]](/asia/turkey/fethiye/day_trips/blue_cruise_fethiy)
-
-tel: +90 532 340 01 52
-
-url: www.turkeytravelservice.com
-
-address: Sultanahmet
-
-email: info@turkeytravelservice.com
+The most popular excursion from Fethiye is the Blue Cruise — a multi-day gulet trip along the Turquoise Coast taking in secluded bays, Lycian ruins, and the sunken city of Kekova. Day trips by boat to Oludeniz, Butterfly Valley, and the Twelve Islands are also widely available from the harbour. Inland, the ancient Lycian rock tombs above the town and the ghost village of Kayaköy are easy half-day outings.

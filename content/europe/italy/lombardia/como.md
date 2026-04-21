@@ -1,11 +1,12 @@
 ---
-title: Como
-type: location
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: 2026-04-07
 latitude: 45.9075
 longitude: 9.1599
-done:
-  location_cleanup: 2026-04-07
 score: 0.7
+title: Como
+type: location
 ---
 
 Como occupies the southern tip of the lake that bears its name, a compact city wedged between water and steep wooded hills. Most visitors treat it as a launching pad for the lake — an understandable mistake. The city itself has a rich historic centre that rewards a day's exploration: narrow medieval streets, a cathedral four centuries in the making, two magnificent Romanesque basilicas, and a lakefront promenade lined with neoclassical villas.

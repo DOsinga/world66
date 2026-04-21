@@ -1,24 +1,9 @@
 ---
 title: "Kashid Beach"
 type: poi
-address: "Kashid Beach"
-email: "saipalace@rediffmail.com"
-phone: "95-2144-278629"
+category: "Beach"
 latitude: 18.444568
 longitude: 72.904006
 ---
 
-135 kms from Mumbai on the North Konkan coast lies this beach between two rocky hills.This is by far the best beach in North Konkan and miles ahead of the ones in Alibag,Kihim and Murud.The beach is usually deserted on weekdays and sparsely populated on week-ends.If you don;t want to take the trouble of going to Goa,try this one out.
-
-**Contributors**
-May 03, 2007
-
-
-
-
-
-tel: 95-2144-278629
-
-address: Kashid Beach
-
-email: saipalace@rediffmail.com
+A long, clean beach 135km from Mumbai on the North Konkan coast, set between rocky headlands. Considerably less developed than the beaches closer to Mumbai, and generally quiet on weekdays. A good alternative if you want a beach without the crowds of Alibag.

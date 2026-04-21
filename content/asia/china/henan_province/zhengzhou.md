@@ -1,11 +1,12 @@
 ---
-title: Zhengzhou
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 34.7473
 longitude: 113.6193
-done:
-  location_cleanup: 2026-04-07
 score: 0.44
+title: Zhengzhou
+type: location
 ---
 
 Zhengzhou is the capital of [Henan Province](/asia/china/henan_province), a sprawling transport hub and industrial city that most travellers pass through on the way to somewhere else. The city itself is not beautiful, but it sits at a crossroads of Chinese history — Shang Dynasty ruins lie beneath the modern streets, and some of China's most important ancient sites are within day-trip distance.

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 36.3302
 longitude: -119.2921
+score: 0.33
 title: Visalia
 type: location
-score: 0.33
 ---
 
 Visalia is the largest city in the Central Valley between Fresno and Bakersfield, and one of the oldest in the San Joaquin Valley. It's the kind of place travelers pass through on their way to Sequoia and Kings Canyon national parks — but it's worth slowing down for. Downtown has a walkable main street, a handful of good restaurants, and a historic Fox Theatre that's been restored to its 1930s glory.

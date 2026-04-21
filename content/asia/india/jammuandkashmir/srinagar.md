@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
 latitude: 34.083656
 longitude: 74.797371
+score: 0.62
 title: Srinagar
 type: location
-score: 0.62
 ---
 
 Srinagar is the summer capital of Jammu and Kashmir, a city built around lakes and waterways in a broad mountain valley at 1,585 m. It has been called "Paradise on Earth" since the Mughal emperors chose it as their summer retreat, and the combination of Dal Lake, the old city's carved wooden mosques, and the snow-capped peaks visible from almost everywhere does justify the reputation.

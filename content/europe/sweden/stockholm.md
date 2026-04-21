@@ -1,13 +1,15 @@
 ---
-title: Stockholm
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+image: stockholm.jpg
+image_attribution: Martin Falbisoner
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Stockholm_-_August_2020.jpg
 latitude: 59.325117
 longitude: 18.071093
 score: 0.8
-image: stockholm.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Stockholm_-_August_2020.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Martin Falbisoner
+title: Stockholm
+type: location
 ---
 
 Many travellers visit Stockholm, the Swedish capital, because of its natural beauty. Called the "Beauty on Water", the city is situated on 14 islands. Its water is so pure you can both swim and fish right in the heart of town as well as partake of boat tours offering such treats as live music and shrimp buffets. Stockholm has an abundance of parks and fascinating museums, a rich cultural life and many excellent restaurants.

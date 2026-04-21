@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
 latitude: 54.1761
 longitude: 15.5766
+score: 0.46
 title: Kołobrzeg
 type: location
-score: 0.46
 ---
 
 Kołobrzeg is Poland's most popular Baltic resort — a spa town, a historic fortress city, and a seaside playground rolled into one. Its long sandy beach draws Polish families in summer, while the old harbour and cathedral quarter give the town a depth that purely seasonal resorts rarely have.

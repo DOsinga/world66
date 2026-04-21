@@ -8,7 +8,7 @@ type: location
 score: 0.21
 ---
 
-Borj Mokhtar is a remote desert outpost on the Algerian side of the border with [Mali](/africa/mali), roughly 650 km south of [Reggane](/africa/algeria/) and 1,400 km south of [Adrar](/africa/algeria/adrar). It barely qualifies as a town — the military presence is the main reason it exists at all — but for overlanders crossing between Algeria and Mali, it is an important waypoint.
+Borj Mokhtar is a remote desert outpost on the Algerian side of the border with [Mali](/africa/mali), roughly 650 km south of Reggane and 1,400 km south of [Adrar](/africa/algeria/adrar). It barely qualifies as a town — the military presence is the main reason it exists at all — but for overlanders crossing between Algeria and Mali, it is an important waypoint.
 
 The town has a small airstrip with occasional flights to and from Adrar. If you are travelling in this direction, it is worth checking whether a flight is running — the stretches of empty desert on either side are formidable. Expect around 500 km between fuel stops, with food and water equally scarce, so plan provisions carefully before setting out in either direction.
 

@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 29.4336
 longitude: 48.321
+score: 0.39
 title: Failaka Island
 type: location
-score: 0.39
 ---
 
 Failaka is an island about 20 km off the coast of [Kuwait City](/asia/kuwait/kuwaitcity), and it is the most historically significant site in the country. The island has been inhabited since the Bronze Age — its tells contain layers from the Dilmun civilisation that controlled Gulf trade four thousand years ago — and later became a Hellenistic outpost known as Ikaros, named by Alexander the Great's fleet. Danish and French archaeologists have worked here for decades, uncovering Greek temples, Dilmun stamp seals, and occupation layers that stretch across four millennia.

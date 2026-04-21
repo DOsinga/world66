@@ -1,9 +1,11 @@
 ---
-title: Agadez
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 16.972556
 longitude: 7.990739
 score: 0.35
+title: Agadez
+type: location
 ---
 
 Agadez is the Nigerien sister of [Timbuktu](/africa/mali/timbuktu) in Mali. Their history is alike, their structure is alike, and the fascination they have on travelers is alike as well. If you approach overland you’ll see it rise right out of the desert.

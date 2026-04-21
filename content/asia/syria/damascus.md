@@ -1,11 +1,12 @@
 ---
-title: Damascus
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 33.5138
 longitude: 36.2765
-done:
-  location_cleanup: 2026-04-02
 score: 0.12
+title: Damascus
+type: location
 ---
 
 Damascus is the capital of Syria and one of the oldest continuously inhabited cities in the world. It is big, lively, and a little rough around the edges, with a sprawling old centre of narrow winding streets and one of the great covered souks of the Middle East.

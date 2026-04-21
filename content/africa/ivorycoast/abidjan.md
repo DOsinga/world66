@@ -1,11 +1,12 @@
 ---
-title: Abidjan
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 5.3204
 longitude: -4.0161
-done:
-  location_cleanup: 2026-04-05
 score: 0.37
+title: Abidjan
+type: location
 ---
 
 Abidjan is the economic capital of Côte d'Ivoire, a city of contrasts with a population of around 4 million. Le Plateau, the central business district on a peninsula in the Ébrié Lagoon, has one of the most striking skylines in West Africa — glass towers and wide boulevards that would not look out of place in a French provincial city. Cocody and Les Deux Plateaux, to the north, are where the wealthy Ivorian middle class and expatriate community live, in guarded compounds with well-tended gardens.

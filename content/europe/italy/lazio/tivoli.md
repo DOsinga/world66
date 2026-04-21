@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 41.960922
 longitude: 12.798884
+score: 0.68
 title: Tivoli
 type: location
-score: 0.68
 ---
 
 Tivoli sits in the hills about 30 kilometres east of [Rome](/europe/italy/lazio/rome) and has been a retreat from the capital's heat and noise since antiquity. The Emperor Hadrian built his enormous villa complex here; Renaissance cardinals followed with the Villa d'Este and its famous water gardens. The town itself is pleasant enough, perched on a ridge above the Aniene river, but the villas are why you come.

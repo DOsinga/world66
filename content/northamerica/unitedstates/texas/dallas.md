@@ -1,9 +1,11 @@
 ---
-title: Dallas
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 32.7767
 longitude: -96.797
 score: 0.45
+title: Dallas
+type: location
 ---
 
 Dallas is big, bold, and unapologetic about it. The second-largest city in Texas and seventh-largest in the US, it has the skyline, the sports teams, and the shopping to back up its swagger. This is the birthplace of Neiman Marcus, home to the Dallas Cowboys, Mavericks, and Stars, and a city where people dress up just to go to the grocery store.

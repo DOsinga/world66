@@ -1,11 +1,12 @@
 ---
-title: Phnom Penh
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 11.5564
 longitude: 104.9282
-done:
-  location_cleanup: 2026-04-06
 score: 0.63
+title: Phnom Penh
+type: location
 ---
 
 Phnom Penh is one of Southeast Asia's most compelling capitals — a city where gilded spires rise above the confluence of the Mekong and Tonle Sap rivers, and French colonial architecture lines broad boulevards still shaded by tamarind trees. It is chaotic, noisy, and utterly alive.

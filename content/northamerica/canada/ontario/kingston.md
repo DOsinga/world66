@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 44.2312
 longitude: -76.486
+score: 0.49
 title: Kingston
 type: location
-score: 0.49
 ---
 
 Kingston sits at the point where Lake Ontario meets the St. Lawrence River, with the mouth of the Rideau Canal just above it — a geography that made it strategically vital and historically rich. It was Canada's first capital city after Confederation in 1841, and the limestone buildings from that era give downtown a solidity and grandeur unusual for a mid-sized Ontario city.

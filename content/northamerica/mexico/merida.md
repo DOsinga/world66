@@ -1,11 +1,12 @@
 ---
-title: Mérida
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 20.9674
 longitude: -89.6234
-done:
-  location_cleanup: 2026-04-06
 score: 0.67
+title: Mérida
+type: location
 ---
 
 Mérida is the capital of Yucatán state and the largest city on the peninsula, built on the site of the ancient Maya city of T'hó. The Spanish founded their city here in 1542, and the evidence of both civilisations is still visible: the Cathedral on the Plaza Mayor was partly built from stones taken from the Maya temples it replaced. The city was named for Mérida in Spain because the Roman ruins there reminded the conquistadors of the Maya structures they were demolishing.

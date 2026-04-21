@@ -1,10 +1,9 @@
 ---
-title: "Eating Out"
+email: sales@aflowersgift.com
+phone: 00919897064001
+title: Eating Out
 type: section
-email: "sales@aflowersgift.com"
-phone: "00919897064001"
-type: "Indian and Pakistani"
-url: "www.aflowersgift.com"
+url: www.aflowersgift.com
 ---
 
 http://www.aflowersgift.com/dubai-uae.htm

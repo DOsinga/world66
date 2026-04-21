@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 22.2783
 longitude: 114.1747
 score: 0.77
 title: Hong Kong Island
-type: location
+type: neighbourhood
 ---
 
 Hong Kong Island is the original city — the place where Captain Charles Elliot raised the Union Jack in 1841, where the banks and government departments still sit, and where most visitors spend most of their time. On a map it looks small, about 80 square kilometres. In practice it contains a startling number of different Hong Kongs stacked on top of each other: the financial towers of Central, the neon and tailors of Wan Chai, the shopping crush of Causeway Bay, the hiking trails of the country parks that cover most of the south side, and, above all of it, the Peak.

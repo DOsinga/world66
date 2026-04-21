@@ -45,7 +45,7 @@ Read these before writing or editing content:
 - **[STYLE.md](STYLE.md)** — voice, tone, and writing conventions for all content
 - **[CONTINENTS.md](CONTINENTS.md)** — how continent pages should be structured
 - **[COUNTRIES.md](COUNTRIES.md)** — how country pages should be structured
-- **[LOCATIONS.md](LOCATIONS.md)** — how city/location pages should be structured: section ordering, the `things_to_do` category-filter approach, curated itineraries, coordinates, day trips
+- **[LOCATIONS.md](LOCATIONS.md)** — how city/location pages should be structured: section ordering, the `things_to_do` tag-based filter approach, curated itineraries, coordinates, day trips
 
 These documents are the source of truth for their respective content types. If this file and a type-specific doc disagree, the type-specific doc wins.
 

@@ -1,5 +1,8 @@
 ---
 category: Architecture
+image: westerkerk.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Westerkerk_--_2015_--_7186.jpg
 latitude: 52.374527
 longitude: 4.883978
 neighbourhood: The Jordaan

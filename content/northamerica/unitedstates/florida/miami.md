@@ -1,11 +1,16 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 25.774157
 longitude: -80.193597
+score: 0.67
 title: Miami
 type: location
-score: 0.67
+image: miami.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Miami_aerial_2008.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Marc Averette
 ---
 
 Welcome to Miami. The sunny capital of the sunny state of Florida. Most people who haven't visited Miami, just think of Sonny Crocket and Ricardo Tubbs in a speedboat chasing some drug dealers. Be your own judge and come over to find out what Miami really is like: a melting pot of cultures, a warm and friendly city on one of the most beautiful spots in the world, a city of great architecture and the perfect starting point for exploring the rich variety of sights and things to do of Florida.

@@ -1,11 +1,12 @@
 ---
-title: North Cape
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
 latitude: 71.169951
 longitude: 25.785889
-done:
-  location_cleanup: 2026-04-05
 score: 0.6
+title: North Cape
+type: location
 ---
 
 The North Cape (Nordkapp) is a 307-metre cliff on the island of Magerøya, long advertised as the northernmost point of continental Europe — a claim that is geographically debatable but impossible to disprove once you are standing there, looking at the Arctic Ocean with nothing between you and the ice except grey sea. A road, a tunnel under the sea, and a visitor centre built into the cliff (Nordkapphallen) bring several hundred thousand tourists up here every summer. The famous steel globe monument on the clifftop is one of those places that looks the same in every photograph and somehow still feels like a pilgrimage.

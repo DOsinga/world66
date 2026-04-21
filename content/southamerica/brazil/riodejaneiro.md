@@ -1,20 +1,21 @@
 ---
-title: Rio de Janeiro
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+image: riodejaneiro.jpg
+image_attribution: Chensiyuan
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:1_rocinha_night_2014_panorama.jpg
 latitude: -22.911014
 longitude: -43.209373
-done:
-  location_cleanup: 2026-04-04
 score: 0.87
-image: riodejaneiro.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Contrasts_of_Rio_de_Janeiro_-_Rocinha,_Ipanema,_and_Mountains_at_Sunrise.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Donatas Dabravolskas
+title: Rio de Janeiro
+type: location
 ---
 
-**Rio de Janeiro** is one of the most spectacular cities in the world. A natural harbour ringed by steep green mountains, with golden beaches curving along the coast and the iconic Christ the Redeemer statue presiding over it all from the peak of Corcovado. No photograph does it justice -- you have to stand on **Sugar Loaf Mountain** and take in the 360-degree panorama of Guanabara Bay, the city sprawling between jungle-covered peaks, and the Atlantic stretching to the horizon.
+Rio de Janeiro is one of the most spectacular cities in the world. A natural harbour ringed by steep green mountains, with golden beaches curving along the coast and the iconic Christ the Redeemer statue presiding over it all from the peak of Corcovado. No photograph does it justice — you have to stand on Sugar Loaf Mountain and take in the 360-degree panorama of Guanabara Bay, the city sprawling between jungle-covered peaks, and the Atlantic stretching to the horizon.
 
-Rio is divided by a mountain range into two zones. The **Zona Sul** (South Zone) is where most visitors spend their time -- this is where you will find [Copacabana](/southamerica/brazil/riodejaneiro/beaches/copacabana), [Ipanema](/southamerica/brazil/riodejaneiro/beaches/ipanema), [Leblon](/southamerica/brazil/riodejaneiro/beaches/leblon), and the city's most famous landmarks. The **Zona Norte** (North Zone) has the Maracana stadium and the Sambadrome where Carnival parades thunder through each February. The **Zona Oeste** (West Zone) is home to [Barra da Tijuca](/southamerica/brazil/riodejaneiro/beaches/barra_da_tijuca), a sprawling modern district with long beaches and mega-malls.
+Rio is divided by a mountain range into two zones. The Zona Sul (South Zone) is where most visitors spend their time — this is where you will find [Copacabana](/southamerica/brazil/riodejaneiro/beaches/copacabana), [Ipanema](/southamerica/brazil/riodejaneiro/beaches/ipanema), [Leblon](/southamerica/brazil/riodejaneiro/beaches/leblon), and the city's most famous landmarks. The Zona Norte (North Zone) has the Maracana stadium and the Sambadrome where Carnival parades thunder through each February. The Zona Oeste (West Zone) is home to [Barra da Tijuca](/southamerica/brazil/riodejaneiro/beaches/barra_da_tijuca), a sprawling modern district with long beaches and mega-malls.
 
 But one of Rio's most precious resources is its people. Brazil is a melting pot of races, colours and creeds, and Cariocas -- as Rio's residents are known -- are famously warm, fun-loving and welcoming. The city runs on music, from bossa nova born in Ipanema's bars to samba thundering through Lapa's streets every weekend.
 

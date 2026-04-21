@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 34.2746
 longitude: -119.229
+score: 0.48
 title: Ventura
 type: location
-score: 0.48
 ---
 
 Ventura (officially San Buenaventura) is a low-key coastal city between Los Angeles and Santa Barbara, with a long beach, a revitalised downtown, and a working harbour. It has much of the appeal of Santa Barbara at lower prices and without the crowds.

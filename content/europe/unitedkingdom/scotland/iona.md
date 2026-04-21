@@ -1,11 +1,12 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 56.3289
 longitude: -6.4084
+score: 0.61
 title: Iona
 type: location
-score: 0.61
 ---
 
 Iona is a small island off the south-west tip of [Mull](/europe/unitedkingdom/scotland/isle_of_mull), reached by a short ferry crossing from Fionnphort. Despite being barely five kilometres long, it carries more history per square mile than almost anywhere in Scotland — this is where St Columba landed from Ireland in 563 AD and established the monastic community that spread Christianity across Scotland and northern England.

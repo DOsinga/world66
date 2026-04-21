@@ -1,11 +1,12 @@
 ---
-title: Manchester
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: 53.4808
 longitude: -2.2426
-done:
-  location_cleanup: 2026-04-06
 score: 0.52
+title: Manchester
+type: location
 ---
 
 Manchester is the great industrial city of northern England — the place where the modern world, for better and worse, was largely invented. The first passenger railway ran from here to Liverpool in 1830. The first programmable computer was built here in 1948. The cotton mills that powered the Industrial Revolution lined every river and canal in the city, and the wealth they generated built the grand Victorian warehouses, exchanges, and civic buildings that still define the centre. The mills are gone, but Manchester has reinvented itself as successfully as any post-industrial city in Europe: the music scene (Joy Division, The Smiths, Oasis, The Stone Roses), the football (two of the biggest clubs in the world, United and City), and a nightlife that regularly outpaces London's have made it the de facto second city of England.

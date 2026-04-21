@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-**general**
-
-**Volterra**
-
-I visited this town high in the nearby hills of Seina and found it very interesting. Also was intrigued with the beautifull Allabaster in the shops and factory shops. Worth a visit by bus from Siena
+San Gimignano has no train station. The nearest rail connection is Poggibonsi, about 12 kilometres away, which has frequent buses to San Gimignano (roughly 25 minutes). Poggibonsi is on the Siena-Empoli line, so arriving from Florence or Siena by train is straightforward. By car, San Gimignano is well signposted from the superstrada connecting Siena to Florence. Parking is outside the walls -- the town centre is pedestrian-only.

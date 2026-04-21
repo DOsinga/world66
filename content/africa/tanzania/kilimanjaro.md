@@ -1,11 +1,12 @@
 ---
-title: Kilimanjaro
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
 latitude: -3.078653
 longitude: 37.419856
-done:
-  location_cleanup: 2026-04-06
 score: 0.68
+title: Kilimanjaro
+type: location
 ---
 
 **Part of history**

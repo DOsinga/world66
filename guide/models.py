@@ -93,9 +93,19 @@ class Page:
             return [t.strip() for t in raw.split(",") if t.strip()]
         return []
 
+    # Tags that serve as filterable categories on section pages.
+    _CATEGORY_TAGS = {"sight", "museum", "architecture", "neighbourhood", "restaurant", "bar", "market"}
+
     @property
     def category(self):
-        return self.meta.get("category", "")
+        """Derive display category from tags, falling back to legacy field."""
+        explicit = self.meta.get("category", "")
+        if explicit:
+            return explicit
+        for t in self.tags:
+            if t in self._CATEGORY_TAGS:
+                return t.replace("_", " ").title()
+        return ""
 
     @property
     def nav_tag(self):
@@ -386,7 +396,7 @@ def load_continents():
     """Load top-level locations with their children (countries)."""
     continents = []
     CONTINENT_SLUGS = {
-        "africa", "antarctica", "asia", "australiaandpacific",
+        "africa", "asia", "australiaandpacific",
         "europe", "northamerica", "southamerica",
     }
     for entry in sorted(CONTENT_DIR.iterdir()):

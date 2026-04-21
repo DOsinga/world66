@@ -1,11 +1,12 @@
 ---
-title: Crans-Montana
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-08
 latitude: 46.3069
 longitude: 7.469
-done:
-  location_cleanup: 2026-04-08
 score: 0.65
+title: Crans-Montana
+type: location
 ---
 
 Crans-Montana sits on a wide sunny plateau at 1,500 metres above the Rhône Valley in the canton of Valais, looking south across a panorama that takes in the Weisshorn, the Matterhorn, and half a dozen other great Alpine peaks. It is one of Switzerland's most famous ski resorts, and it knows it. The place has a well-heeled, confident air — good restaurants, international crowd, designer boutiques alongside ski shops. This is not a rustic village that stumbled into tourism. It is a purpose-built resort that has been doing this for a century and does it well.

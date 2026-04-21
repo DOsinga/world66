@@ -1,11 +1,12 @@
 ---
-title: Girne (Kyrenia)
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 35.339629
 longitude: 33.320529
-done:
-  location_cleanup: 2026-04-07
 score: 0.59
+title: Girne (Kyrenia)
+type: location
 ---
 
 Girne — known to Greeks and in older literature as Kyrenia — is the most picturesque town in northern Cyprus, built around a small Ottoman-era harbour backed by a Byzantine and Lusignan castle. The town sits at the foot of the Kyrenia Range, a spine of limestone mountains that runs along the northern coast of the island, and the combination of harbour, castle, and mountain backdrop makes it an appealing base.

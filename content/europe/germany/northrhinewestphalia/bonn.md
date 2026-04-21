@@ -1,11 +1,12 @@
 ---
-title: Bonn
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
 latitude: 50.7374
 longitude: 7.0982
-done:
-  location_cleanup: 2026-04-02
 score: 0.54
+title: Bonn
+type: location
 ---
 
 Bonn spent half a century as West Germany's unlikely capital -- a small Rhineland city thrust into the spotlight after the war, then quietly returned to civilian life when the government moved to Berlin in 1999. The result is a place with outsized cultural institutions and a relaxed university-town feel that catches visitors off guard.

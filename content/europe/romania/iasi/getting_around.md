@@ -3,6 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-We currently have no Getting Around listed in Iasi.
-
-If you do know any Getting Around in Iasi, please [Add].
+Iasi has a tramway and bus network run by the local transport authority. The city centre is walkable, with most sights within a 20-minute walk of the Palace of Culture. Taxis are cheap and widely available; use apps like Bolt or Uber for reliable pricing.

@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: newzealand.jpg
 image_attribution: 'User: (WT-shared) Plug at  wts wikivoyage'
 image_license: Public domain

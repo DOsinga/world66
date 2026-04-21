@@ -1,11 +1,17 @@
 ---
-title: "Europe"
-type: location
+done:
+  poi_cleanup: '2026-04-21'
 image: europe.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "Jorge Royan"
-map_bounds: [[34, -12], [58, 25]]
+image_attribution: Jorge Royan
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
+map_bounds:
+- - 34
+  - -12
+- - 58
+  - 25
+title: Europe
+type: location
 ---
 
 Europe is old in the best possible way. Every town has a cathedral, a castle, or a Roman ruin. Empires rose and fell here over two millennia, and the traces are everywhere — not in museums but in the streets, the food, the languages, and the stubborn local pride that makes every country feel genuinely distinct from its neighbors.

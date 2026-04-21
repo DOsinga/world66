@@ -108,6 +108,9 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
+{% if page.meta.snippet %}
+<p class="page-snippet">{{ page.meta.snippet }}</p>
+{% endif %}
 
 {% if page.properties %}
 <div class="info-box">
@@ -124,8 +127,6 @@
 
 {% if page.meta.tagline %}
 <p class="page-tagline">{{ page.meta.tagline }}</p>
-{% elif page.meta.snippet %}
-<p class="page-snippet">{{ page.meta.snippet }}</p>
 {% endif %}
 
 {% if body_html %}

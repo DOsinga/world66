@@ -888,11 +888,11 @@ img { max-width: 100%; height: auto; }
   font-style: italic;
   font-weight: 300;
   font-variation-settings: "opsz" 144;
-  font-size: clamp(17px, 1.8vw, 22px);
-  line-height: 1.4;
-  letter-spacing: -0.01em;
+  font-size: clamp(20px, 2.2vw, 28px);
+  line-height: 1.35;
+  letter-spacing: -0.02em;
   color: var(--mute);
-  margin: -4px 0 24px;
+  margin: 2px 0 28px;
 }
 
 /* Drop cap on first paragraph when a tagline is present */
@@ -1151,9 +1151,9 @@ img { max-width: 100%; height: auto; }
 .map-name-tip::before { display: none !important; }
 
 .map-name-tip--rich {
-  white-space: normal;
-  max-width: 220px;
-  padding: 8px 11px !important;
+  white-space: normal !important;
+  max-width: 280px !important;
+  padding: 7px 11px !important;
 }
 
 .map-tip-name {
@@ -1161,8 +1161,6 @@ img { max-width: 100%; height: auto; }
   font-weight: 600;
   color: #111;
 }
-
-a.map-tip-name:hover { text-decoration: underline; }
 
 .map-tip-snippet {
   font-family: var(--body-font);

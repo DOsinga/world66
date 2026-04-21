@@ -2,6 +2,9 @@
 latitude: 52.475053
 longitude: 4.817976
 snippet: Historic windmill hamlet on the river Zaan, 45 minutes from Amsterdam
+image: Zaanse_Schans_panoramic.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Zaanse_Schans_panoramic.jpg"
+image_license: "CC BY-SA 4.0"
 tags:
 - day_trips
 title: Zaanse Schans

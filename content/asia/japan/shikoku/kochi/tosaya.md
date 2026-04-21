@@ -1,6 +1,7 @@
 ---
 title: "Tosaya"
 type: poi
+snippet: Cozy izakaya near the castle serving Tosa cuisine
 tags:
   - eating_out
 latitude: 33.5591

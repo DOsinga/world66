@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: Ortakoy
 type: poi
+snippet: "Baroque waterfront mosque, kumpir vendors, and Bosphorus views"
 ---
 
 Ortakoy is one of the liveliest waterfront neighbourhoods along the Bosphorus. The centrepiece is the Ortakoy Mosque, built in 1854 in a distinctly European Baroque style — Corinthian columns for minarets, ornate capitals, more palace than prayer hall. It sits right on the water with the Bosphorus Bridge looming behind it, making it one of the most photographed spots in Istanbul.

@@ -1,7 +1,10 @@
 ---
 title: "La Quebrada Cliff Divers"
 type: poi
-category: "Sight"
+snippet: "Divers leap 35 metres into a narrow sea channel"
+tags:
+- things_to_do
+- sight
 latitude: 16.8452
 longitude: -99.9111
 story: "The dives have been running since 1934, when local youths began leaping from the cliff for coins thrown by cruise-ship passengers. Each diver prays at a small shrine on the cliff before jumping."

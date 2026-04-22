@@ -353,8 +353,55 @@
 {% endif %}
 {% endblock %}
 
+{% block feedback %}
+<div class="footer-feedback">
+  <a href="#" id="feedback-btn" class="footer-feedback-link">Suggest an edit</a>
+  <div id="feedback-form" class="footer-feedback-form" hidden>
+    <form id="feedback-submit-form">
+      <input type="hidden" name="page_path" value="{{ page.path }}">
+      <input type="text" name="website" style="display:none" tabindex="-1" autocomplete="off">
+      <textarea name="feedback" maxlength="2000" rows="3"
+        placeholder="What would you like to suggest? Corrections, additions, new places..."></textarea>
+      <div class="footer-feedback-actions">
+        <button type="submit">Submit</button>
+        <button type="button" id="feedback-cancel">Cancel</button>
+      </div>
+      <div id="feedback-status" class="footer-feedback-status" hidden></div>
+    </form>
+  </div>
+</div>
+{% endblock %}
+
 {% block extra_js %}
 <script>
+(function() {
+  var fbBtn = document.getElementById('feedback-btn');
+  var fbForm = document.getElementById('feedback-form');
+  var fbCancel = document.getElementById('feedback-cancel');
+  var fbSubmit = document.getElementById('feedback-submit-form');
+  if (fbBtn && fbForm) {
+    fbBtn.addEventListener('click', function(e) { e.preventDefault(); fbForm.hidden = false; fbBtn.hidden = true; });
+    fbCancel.addEventListener('click', function() { fbForm.hidden = true; fbBtn.hidden = false; });
+    fbSubmit.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var status = document.getElementById('feedback-status');
+      status.hidden = false;
+      status.textContent = 'Submitting...';
+      fetch('/api/feedback', { method: 'POST', body: new FormData(fbSubmit) })
+        .then(function(r) { return r.json().then(function(d) { return {ok: r.ok, data: d}; }); })
+        .then(function(res) {
+          if (res.ok) {
+            status.textContent = 'Thanks! We\u2019ll review your suggestion.';
+            fbSubmit.querySelector('textarea').value = '';
+            setTimeout(function() { fbForm.hidden = true; fbBtn.hidden = false; status.hidden = true; }, 3000);
+          } else {
+            status.textContent = res.data.error || 'Something went wrong. Please try again.';
+          }
+        })
+        .catch(function() { status.textContent = 'Network error. Please try again.'; });
+    });
+  }
+})();
 (function() {
   {% if is_continent %}
   initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});

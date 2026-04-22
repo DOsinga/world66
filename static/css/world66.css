@@ -2209,3 +2209,47 @@ img { max-width: 100%; height: auto; }
     font-size: 20px;
   }
 }
+
+/* --- Feedback (in footer) --- */
+.footer-feedback { margin-top: 0.75rem; }
+.footer-feedback-link {
+  font-size: 13px;
+  color: var(--mute);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.footer-feedback-link:hover { color: var(--ink); }
+.footer-feedback-form {
+  margin-top: 0.5rem;
+  max-width: 480px;
+}
+.footer-feedback-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid var(--line-2);
+  border-radius: 4px;
+  font-family: var(--body-font);
+  font-size: 14px;
+  resize: vertical;
+  background: var(--paper);
+  color: var(--ink);
+}
+.footer-feedback-actions { margin-top: 0.4rem; display: flex; gap: 0.5rem; }
+.footer-feedback-actions button {
+  padding: 0.3rem 0.75rem;
+  font-size: 13px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.footer-feedback-actions button[type="submit"] {
+  background: var(--accent);
+  color: white;
+  border: none;
+}
+.footer-feedback-actions button[type="submit"]:hover { opacity: 0.9; }
+.footer-feedback-actions button[type="button"] {
+  background: transparent;
+  border: 1px solid var(--line-2);
+  color: var(--mute);
+}
+.footer-feedback-status { margin-top: 0.4rem; font-size: 13px; color: var(--mute); }

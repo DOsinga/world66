@@ -341,51 +341,6 @@
 </div>
 {% endif %}
 
-{% if page.page_type != "continent" %}
-<div class="wide-block feedback-section">
-  <p class="feedback-label">Know something about {{ page.title }}?</p>
-  <form id="feedback-form" method="post" action="/api/feedback">
-    {% csrf_token %}
-    <input type="hidden" name="page_path" value="/{{ page.path }}">
-    <div style="display:none"><input type="text" name="website" tabindex="-1" autocomplete="off"></div>
-    <textarea name="feedback" rows="3" maxlength="2000" placeholder="Share a tip, correction, or suggestion..." required></textarea>
-    <button type="submit">Send feedback</button>
-    <span class="feedback-msg" id="feedback-msg"></span>
-  </form>
-</div>
-<script>
-(function() {
-  var form = document.getElementById('feedback-form');
-  var msg = document.getElementById('feedback-msg');
-  if (!form) return;
-  form.addEventListener('submit', function(e) {
-    e.preventDefault();
-    var btn = form.querySelector('button');
-    btn.disabled = true;
-    msg.textContent = '';
-    fetch(form.action, {method: 'POST', body: new FormData(form)})
-      .then(function(r) { return r.json().then(function(d) { return {ok: r.ok, data: d}; }); })
-      .then(function(res) {
-        if (res.ok) {
-          msg.textContent = 'Thanks for your feedback!';
-          msg.className = 'feedback-msg feedback-msg--ok';
-          form.querySelector('textarea').value = '';
-        } else {
-          msg.textContent = res.data.error || 'Something went wrong.';
-          msg.className = 'feedback-msg feedback-msg--err';
-        }
-        btn.disabled = false;
-      })
-      .catch(function() {
-        msg.textContent = 'Something went wrong.';
-        msg.className = 'feedback-msg feedback-msg--err';
-        btn.disabled = false;
-      });
-  });
-})();
-</script>
-{% endif %}
-
 {% if nav_siblings %}
 <div class="wide-block poi-elsewhere">
   <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>
@@ -398,8 +353,55 @@
 {% endif %}
 {% endblock %}
 
+{% block feedback %}
+<div class="footer-feedback">
+  <a href="#" id="feedback-btn" class="footer-feedback-link">Suggest an edit</a>
+  <div id="feedback-form" class="footer-feedback-form" hidden>
+    <form id="feedback-submit-form">
+      <input type="hidden" name="page_path" value="{{ page.path }}">
+      <input type="text" name="website" style="display:none" tabindex="-1" autocomplete="off">
+      <textarea name="feedback" maxlength="2000" rows="3"
+        placeholder="What would you like to suggest? Corrections, additions, new places..."></textarea>
+      <div class="footer-feedback-actions">
+        <button type="submit">Submit</button>
+        <button type="button" id="feedback-cancel">Cancel</button>
+      </div>
+      <div id="feedback-status" class="footer-feedback-status" hidden></div>
+    </form>
+  </div>
+</div>
+{% endblock %}
+
 {% block extra_js %}
 <script>
+(function() {
+  var fbBtn = document.getElementById('feedback-btn');
+  var fbForm = document.getElementById('feedback-form');
+  var fbCancel = document.getElementById('feedback-cancel');
+  var fbSubmit = document.getElementById('feedback-submit-form');
+  if (fbBtn && fbForm) {
+    fbBtn.addEventListener('click', function(e) { e.preventDefault(); fbForm.hidden = false; fbBtn.hidden = true; });
+    fbCancel.addEventListener('click', function() { fbForm.hidden = true; fbBtn.hidden = false; });
+    fbSubmit.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var status = document.getElementById('feedback-status');
+      status.hidden = false;
+      status.textContent = 'Submitting...';
+      fetch('/api/feedback', { method: 'POST', body: new FormData(fbSubmit) })
+        .then(function(r) { return r.json().then(function(d) { return {ok: r.ok, data: d}; }); })
+        .then(function(res) {
+          if (res.ok) {
+            status.textContent = 'Thanks! We\u2019ll review your suggestion.';
+            fbSubmit.querySelector('textarea').value = '';
+            setTimeout(function() { fbForm.hidden = true; fbBtn.hidden = false; status.hidden = true; }, 3000);
+          } else {
+            status.textContent = res.data.error || 'Something went wrong. Please try again.';
+          }
+        })
+        .catch(function() { status.textContent = 'Network error. Please try again.'; });
+    });
+  }
+})();
 (function() {
   {% if is_continent %}
   initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});

@@ -2198,17 +2198,6 @@ img { max-width: 100%; height: auto; }
   flex-wrap: wrap;
 }
 
-/* Feedback form */
-.feedback-section { border-top: 1px solid #e0ddd5; padding-top: 2rem; margin-top: 2rem; }
-.feedback-label { font-size: 1.05rem; font-weight: 600; margin-bottom: .5rem; }
-.feedback-section textarea { width: 100%; padding: .6rem; border: 1px solid #ccc; border-radius: 4px; font: inherit; resize: vertical; }
-.feedback-section button { margin-top: .5rem; padding: .5rem 1.2rem; background: #2a5a3a; color: #fff; border: none; border-radius: 4px; cursor: pointer; font: inherit; }
-.feedback-section button:hover { background: #1e4a2e; }
-.feedback-section button:disabled { opacity: .5; cursor: default; }
-.feedback-msg { margin-left: .75rem; font-size: .9rem; }
-.feedback-msg--ok { color: #2a5a3a; }
-.feedback-msg--err { color: #b33; }
-
 @media (max-width: 480px) {
   .logo-ribbon { display: none; }
 
@@ -2220,3 +2209,47 @@ img { max-width: 100%; height: auto; }
     font-size: 20px;
   }
 }
+
+/* --- Feedback (in footer) --- */
+.footer-feedback { margin-top: 0.75rem; }
+.footer-feedback-link {
+  font-size: 13px;
+  color: var(--mute);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.footer-feedback-link:hover { color: var(--ink); }
+.footer-feedback-form {
+  margin-top: 0.5rem;
+  max-width: 480px;
+}
+.footer-feedback-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid var(--line-2);
+  border-radius: 4px;
+  font-family: var(--body-font);
+  font-size: 14px;
+  resize: vertical;
+  background: var(--paper);
+  color: var(--ink);
+}
+.footer-feedback-actions { margin-top: 0.4rem; display: flex; gap: 0.5rem; }
+.footer-feedback-actions button {
+  padding: 0.3rem 0.75rem;
+  font-size: 13px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.footer-feedback-actions button[type="submit"] {
+  background: var(--accent);
+  color: white;
+  border: none;
+}
+.footer-feedback-actions button[type="submit"]:hover { opacity: 0.9; }
+.footer-feedback-actions button[type="button"] {
+  background: transparent;
+  border: 1px solid var(--line-2);
+  color: var(--mute);
+}
+.footer-feedback-status { margin-top: 0.4rem; font-size: 13px; color: var(--mute); }

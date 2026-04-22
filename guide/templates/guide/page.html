@@ -341,6 +341,51 @@
 </div>
 {% endif %}
 
+{% if page.page_type != "continent" %}
+<div class="wide-block feedback-section">
+  <p class="feedback-label">Know something about {{ page.title }}?</p>
+  <form id="feedback-form" method="post" action="/api/feedback">
+    {% csrf_token %}
+    <input type="hidden" name="page_path" value="/{{ page.path }}">
+    <div style="display:none"><input type="text" name="website" tabindex="-1" autocomplete="off"></div>
+    <textarea name="feedback" rows="3" maxlength="2000" placeholder="Share a tip, correction, or suggestion..." required></textarea>
+    <button type="submit">Send feedback</button>
+    <span class="feedback-msg" id="feedback-msg"></span>
+  </form>
+</div>
+<script>
+(function() {
+  var form = document.getElementById('feedback-form');
+  var msg = document.getElementById('feedback-msg');
+  if (!form) return;
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var btn = form.querySelector('button');
+    btn.disabled = true;
+    msg.textContent = '';
+    fetch(form.action, {method: 'POST', body: new FormData(form)})
+      .then(function(r) { return r.json().then(function(d) { return {ok: r.ok, data: d}; }); })
+      .then(function(res) {
+        if (res.ok) {
+          msg.textContent = 'Thanks for your feedback!';
+          msg.className = 'feedback-msg feedback-msg--ok';
+          form.querySelector('textarea').value = '';
+        } else {
+          msg.textContent = res.data.error || 'Something went wrong.';
+          msg.className = 'feedback-msg feedback-msg--err';
+        }
+        btn.disabled = false;
+      })
+      .catch(function() {
+        msg.textContent = 'Something went wrong.';
+        msg.className = 'feedback-msg feedback-msg--err';
+        btn.disabled = false;
+      });
+  });
+})();
+</script>
+{% endif %}
+
 {% if nav_siblings %}
 <div class="wide-block poi-elsewhere">
   <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>

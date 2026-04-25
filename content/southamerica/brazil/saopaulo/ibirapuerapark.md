@@ -1,6 +1,7 @@
 ---
 latitude: -23.587713
 longitude: -46.658521
+snippet: "São Paulo's vast green lung with Niemeyer museums"
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 37.7877
 longitude: -122.5063
+snippet: Rugged coastal trail with Golden Gate views
 tags:
 - beaches
 - beach

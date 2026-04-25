@@ -1,10 +1,13 @@
 ---
 address: Papas Beach, Sakkala, Hurghada
 closing_time: 5am
+done:
+  poi_cleanup: '2026-04-19'
 email: Info@MinistryofSoundEgypt.com
 latitude: 27.2119
 longitude: 33.8365
 phone: +20 168 833550
+snippet: Beachside superclub with international DJs on the sand
 tags:
 - bars_and_cafes
 title: Ministry of Sound Beach Club

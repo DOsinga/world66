@@ -2,6 +2,7 @@
 address: 30 W Pershing Rd, Kansas City, MO 64108
 latitude: 39.0842
 longitude: -94.5847
+snippet: Restored Beaux-Arts station housing Science City and a notorious crime history.
 story: 'In June 1933, FBI agent Raymond Caffrey and three police officers were shot
   dead in the station''s parking lot by Pretty Boy Floyd and associates attempting
   to free a federal prisoner. The Union Station Massacre prompted Congress to pass

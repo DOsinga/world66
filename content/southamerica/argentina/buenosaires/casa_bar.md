@@ -4,10 +4,11 @@ email: casabar1150@gmail.com
 latitude: -34.5963
 longitude: -58.393
 phone: (+5411) 4816-2712
+snippet: Recoleta bar in a three-story house, open until the small hours.
 tags:
 - bars_and_cafes
 title: Casa Bar
 type: poi
 ---
 
-A bar in the heart of Recoleta, set in a three-story classic petite-style house at Santa Fe and Rodriguez Peña. International-themed with an Argentine flavor, Casa Bar opens at 7 PM for happy hour (2-for-1 beers, double-shot drinks, free food) and runs until 4 AM or later. The drinks list covers a large selection of imported beers, Heineken on tap, and a solid spirits shelf. Theme and live music nights, private event hosting, limited in-house food, and 42-inch LCD screens for international sports. Free WiFi and a smoking section available.
+A bar in the Recoleta neighbourhood, set in a three-story house at the corner of Santa Fe and Rodriguez Peña. Opens at 7 PM, runs until 4 AM or later. Happy hour deals in the early evening, imported beers and Heineken on tap, live music nights, and screens showing international sports.

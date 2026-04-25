@@ -1,10 +1,11 @@
 ---
 address: Tower Bridge Road, London SE1 2UP
-admission: £11.40 adults, £4.90 children
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.505516
 longitude: -0.075367
-opening_hours: Daily 9:30am-6pm (last entry 5pm)
 phone: +44 20 7403 3761
+snippet: Iconic Victorian bascule bridge with glass walkway views
 tags:
 - things_to_do
 - bridge

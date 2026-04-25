@@ -1,7 +1,10 @@
 ---
 address: Philippine-Welser-Strasse 24
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.366
 longitude: 10.8975
+snippet: Renaissance city museum with exceptional Augsburg goldsmith and silverwork
 tags:
 - things_to_do
 - museum

@@ -2,6 +2,7 @@
 category: Museum
 latitude: 47.0869
 longitude: 13.1318
+snippet: Local history museum covering the town's spa resort heyday
 title: Gastein Museum
 type: poi
 ---

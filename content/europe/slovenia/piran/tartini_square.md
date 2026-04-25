@@ -1,7 +1,10 @@
 ---
 title: "Tartini Square"
 type: poi
-category: "Sight"
+snippet: Piran's elegant Venetian piazza with a statue of the devil's violinist
+tags:
+- things_to_do
+- landmark
 latitude: 45.5286
 longitude: 13.5682
 story: >

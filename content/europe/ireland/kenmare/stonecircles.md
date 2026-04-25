@@ -1,7 +1,10 @@
 ---
 title: "Kenmare Stone Circle"
 type: poi
-category: "Sight"
+snippet: "3,000-year-old stone circle at the edge of town"
+tags:
+- things_to_do
+- landmark
 latitude: 51.8770
 longitude: -9.5830
 ---

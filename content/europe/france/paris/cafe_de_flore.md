@@ -1,9 +1,12 @@
 ---
 address: 172 Boulevard Saint-Germain, 75006 Paris
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.854144
 longitude: 2.332631
 opening_hours: Daily 7:30am–1:30am
 phone: +33 1 45 48 55 26
+snippet: Iconic Saint-Germain literary cafe since the 1940s
 tags:
 - bars_and_cafes
 title: Café de Flore

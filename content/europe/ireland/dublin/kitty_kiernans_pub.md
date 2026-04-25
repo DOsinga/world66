@@ -1,21 +1,14 @@
 ---
-title: "Kitty Kiernans Pub"
+title: Kitty Kiernan's Pub
 type: poi
-accessibility: "Accross the road from Almara B&B Dublin (see map on www.almarabb.com)"
-address: "Collins Avenue West, Whitehall, Dublin 9."
-phone: "00353 1 8378316"
+snippet: "Traditional local pub in Whitehall with live music most nights"
+tags:
+- things_to_do
+- nightlife
+address: Collins Avenue West, Whitehall, Dublin 9
+phone: "+353 1 837 8316"
 latitude: 53.383605
 longitude: -6.24758
 ---
 
-Traditional Irish Pub on a leafy avenue halfway between Dublin Airport and Dublin City Centre (8 minutes from both) - meet Irish locals in a great atmosphere. Live shows nightly - entry free. Local B&B Almara B&B Dublin two minutes walk away highly recommended.
-
-
-
-
-
-accessibility: Accross the road from Almara B&B Dublin (see map on www.almarabb.com)
-
-tel: 00353 1 8378316
-
-address: Collins Avenue West, Whitehall, Dublin 9.
+A no-frills traditional pub on Collins Avenue West in the Whitehall neighbourhood, about halfway between Dublin Airport and the city centre. It draws a local crowd rather than tourists, which is part of the appeal. Live music most evenings, no cover charge. Handy stop if you're passing through the north side and want something unpretentious.

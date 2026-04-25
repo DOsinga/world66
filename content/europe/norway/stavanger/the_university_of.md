@@ -2,6 +2,7 @@
 address: Kristine Bonnevies vei 22, 4021 Stavanger
 latitude: 58.9367
 longitude: 5.6904
+snippet: "Norway's fifth university, known for petroleum engineering and broad programmes"
 tags:
 - things_to_do
 - architecture

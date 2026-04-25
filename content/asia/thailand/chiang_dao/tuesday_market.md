@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.3696
 longitude: 98.9627
+snippet: Weekly hill tribe market near the bus station, genuinely local
 tags:
 - things_to_do
 - neighbourhood

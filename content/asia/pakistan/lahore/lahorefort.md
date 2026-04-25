@@ -2,6 +2,9 @@
 title: "Lahore Fort"
 type: poi
 category: "Sight"
+snippet: "UNESCO Mughal citadel with the Sheesh Mahal mirror palace"
+tags:
+- things_to_do
 latitude: 31.588203
 longitude: 74.315
 ---

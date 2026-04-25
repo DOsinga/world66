@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.5233
 longitude: -122.6816
+snippet: A city-block independent bookstore with over a million new, used, and rare
+  books
 tags:
 - things_to_do
 - landmark

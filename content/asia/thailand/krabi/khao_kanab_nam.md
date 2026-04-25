@@ -1,6 +1,7 @@
 ---
 latitude: 8.0876
 longitude: 98.9065
+snippet: Twin limestone peaks at Krabi's estuary mouth, reached by long-tail boat.
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,9 @@
 ---
-latitude: -3.1917
-longitude: 37.6517
+done:
+  poi_cleanup: '2026-04-19'
+latitude: -2.972
+longitude: 37.644
+snippet: Crystalline springs in Tsavo West with an underwater hippo-viewing chamber
 tags:
 - things_to_do
 - sight

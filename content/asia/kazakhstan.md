@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Kazakhstan_Altay_2.jpg
 image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Dmottl" title="User:Dmottl">Dmitry
   A. Mottl</a>
+quick_facts:
+  Population: "20 million"
+  Visa-Free: "Most nationalities, 30 days"
+  Area: "9× the size of the UK"
+  Baikonur Cosmodrome: "First human spaceflight launched here"
 done:
   country_cleanup: 2026-03-30
 score: 0.42

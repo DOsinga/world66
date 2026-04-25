@@ -1,8 +1,10 @@
 ---
 done:
   location_cleanup: 2026-04-09
+  poi_cleanup: '2026-04-20'
 latitude: -17.9268
 longitude: 25.8399
+snippet: Small reptile park with live feeding sessions of southern African snakes
 tags:
 - things_to_do
 - sight

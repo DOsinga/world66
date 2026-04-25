@@ -1,6 +1,7 @@
 ---
 latitude: 34.0693
 longitude: -118.3978
+snippet: "Luxury shopping spectacle immortalised by Pretty Woman"
 tags:
 - things_to_do
 - landmark

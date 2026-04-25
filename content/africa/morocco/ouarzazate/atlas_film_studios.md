@@ -2,6 +2,7 @@
 address: Route de Marrakech, Ouarzazate
 latitude: 30.9337
 longitude: -6.9513
+snippet: Massive film studios with walkable sets from Hollywood epics
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,7 @@
 address: Veteranenstraße 21, Mitte
 latitude: 52.533659
 longitude: 13.400815
+snippet: Cheap and cheerful cultural centre with club, cinema, and gallery
 tags:
 - bars_and_cafes
 - berlinmitte

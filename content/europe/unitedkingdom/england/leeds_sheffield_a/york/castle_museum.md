@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.9542
 longitude: -1.0785
+snippet: folk museum in a former prison with a Victorian street
 tags:
 - things_to_do
 - museum

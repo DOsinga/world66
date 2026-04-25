@@ -1,7 +1,10 @@
 ---
 address: Exchange Square
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.48415
 longitude: -2.24444
+snippet: Tudor-era timber pub, moved intact after the 1996 IRA bombing
 tags:
 - things_to_do
 - architecture

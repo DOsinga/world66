@@ -1,6 +1,7 @@
 ---
 latitude: -37.8497
 longitude: 144.9734
+snippet: Lakeside park hosting the Australian Formula 1 Grand Prix
 tags:
 - things_to_do
 - landmark

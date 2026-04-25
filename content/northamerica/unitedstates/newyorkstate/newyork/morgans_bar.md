@@ -3,6 +3,7 @@ address: 237 Madison Avenue
 latitude: 40.74979
 longitude: -73.981086
 phone: 212 686 0300
+snippet: "Surrealist underground bar in Murray Hill"
 tags:
 - bars_and_cafes
 - bar

@@ -1,15 +1,21 @@
 ---
-title: Costa Rica
-type: location
-latitude: 9.7489
-longitude: -83.7534
-image: costarica.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cartago,_costa_rica_-_panoramio.jpg
-image_license: CC BY 3.0
-image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161013191001/http://www.panoramio.com/user/956839?with_photo_id=27765369">belemita@gmail.com</a>
 done:
   country_cleanup: 2026-03-30
+  poi_cleanup: '2026-04-19'
+image: costarica.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161013191001/http://www.panoramio.com/user/956839?with_photo_id=27765369">belemita@gmail.com</a>
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cartago,_costa_rica_-_panoramio.jpg
+latitude: 9.7489
+longitude: -83.7534
+quick_facts:
+  Population: "5.2 million"
+  USD Accepted: "Widely accepted alongside local colón"
+  No Army: Abolished in 1948
+  Biodiversity: "~5% of world's species on 0.03% of its land"
 score: 0.64
+title: Costa Rica
+type: location
 ---
 
 Costa Rica punches well above its weight. This small Central American country — roughly the size of West Virginia — holds around 5% of the world's biodiversity, has two coastlines, a spine of volcanic mountains, and no army. It abolished its military in 1948 and put the money into education and healthcare instead. That unusual history has shaped a confident, stable society that welcomes visitors without much fuss.

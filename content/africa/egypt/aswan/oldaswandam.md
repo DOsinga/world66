@@ -1,6 +1,7 @@
 ---
 latitude: 24.0236
 longitude: 32.8789
+snippet: "British-era masonry dam with sweeping Nile views"
 tags:
 - things_to_do
 - sight

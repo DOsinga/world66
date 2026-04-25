@@ -1,6 +1,7 @@
 ---
 latitude: 18.0121
 longitude: -66.6131
+snippet: "Iconic red-and-black striped 1882 firehouse, now a free museum"
 tags:
 - things_to_do
 - landmark

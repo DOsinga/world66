@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.2514
 longitude: 10.4049
+snippet: Riverside harbour quarter with old salt warehouses turned bars
 tags:
 - things_to_do
 - neighbourhood

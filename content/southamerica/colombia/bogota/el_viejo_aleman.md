@@ -1,7 +1,10 @@
 ---
 address: Carrera 5, Calle 13-14
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 4.599
 longitude: -74.073
+snippet: Intimate tango bar open only Thursdays and Saturdays
 tags:
 - bars_and_cafes
 title: El Viejo Aleman

@@ -1,6 +1,7 @@
 ---
 latitude: 56.1572
 longitude: 15.5811
+snippet: Best-preserved 18th-century artisan quarter from Sweden's naval heyday
 tags:
 - things_to_do
 - neighbourhood

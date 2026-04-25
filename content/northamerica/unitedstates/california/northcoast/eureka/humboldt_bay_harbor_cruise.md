@@ -1,6 +1,7 @@
 ---
 latitude: 40.803
 longitude: -124.165
+snippet: Historic 1910 vessel cruising California's second-largest coastal bay
 tags:
 - things_to_do
 - landmark

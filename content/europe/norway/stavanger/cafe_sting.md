@@ -1,7 +1,10 @@
 ---
 address: Valberget 3, Stavanger
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 58.9698
 longitude: 5.7342
+snippet: Stavanger institution blending café, restaurant, and gallery since 1984
 tags:
 - eating_out
 title: Cafe Sting

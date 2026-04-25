@@ -1,7 +1,8 @@
 ---
 title: "Regional Historical Museum"
 type: poi
-category: "Museum"
+snippet: "Strong Roman-era collection in a handsome 19th-century building."
+tags: [things_to_do, museum, history]
 latitude: 43.8430
 longitude: 25.9521
 ---

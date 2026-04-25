@@ -7,8 +7,9 @@ tags:
 - bars_and_cafes
 title: Bar Del Pi
 type: poi
+snippet: "Classic Barri Gòtic bar on a pretty square, with a terrace and a piano"
 ---
 
-One of the oldest and most loved bars in Barcelona, Bar del Pi offers everything from coffees to typical wines, from wonderful tapas to fresh made-rolls. It is famous because a lot of bohemienne artists used to meet at the bar. Still now a lot of musicians and visitors gather around here.
-Beware because it is very little but it is one of the most charming places in the Barri Gotic. There is a piano available for the people who want to entertain the other clients. Modernist architecture.
-Try the tapa called "bomba": simply delicious.
+Bar del Pi has been a fixture on Plaça de Sant Josep Oriol since the 1950s, and the square it faces — shaded by a large plane tree and overlooked by the church of Santa Maria del Pi — is one of the nicest spots in the Barri Gòtic. The bar is small and fills up fast, but a table on the terrace is worth waiting for.
+
+It has long attracted a mix of artists, musicians, and neighbourhood regulars. There's a piano inside that the occasional customer still plays. Order a glass of house wine, try the bombas (potato-and-meat croquettes, not the Barcelona version), and watch the square go by.

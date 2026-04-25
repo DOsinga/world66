@@ -4,6 +4,7 @@ latitude: 64.1441
 longitude: -21.9392
 opening_hours: Mon–Fri 10:00–18:00, Sat 11:00–17:00
 phone: +354 552 2500
+snippet: "Contemporary Icelandic paintings and works on paper"
 tags:
 - shopping
 title: Gallery Reykjavík

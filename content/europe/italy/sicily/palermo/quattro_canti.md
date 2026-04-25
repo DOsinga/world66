@@ -1,11 +1,14 @@
 ---
 address: Piazza Vigliena, 90133 Palermo
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.1153
 longitude: 13.3617
+snippet: Baroque crossroads at the heart of old Palermo
 tags:
-- things_to_do
-- landmark
+- architecture
+- history
 title: Quattro Canti
 type: poi
 ---

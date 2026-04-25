@@ -3,6 +3,7 @@ address: 3, rue du Plébiscite
 latitude: 49.60475
 longitude: 6.129327
 phone: +352-492486
+snippet: Basement club with pool table, disco and funk
 tags:
 - bars_and_cafes
 title: Byblos

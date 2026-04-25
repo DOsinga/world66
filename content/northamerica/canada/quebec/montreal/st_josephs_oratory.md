@@ -2,6 +2,7 @@
 address: 3800 Queen Mary Road, Montréal, QC H3V 1H6
 latitude: 45.491697
 longitude: -73.587164
+snippet: Canada's largest church with a massive dome on Mount Royal
 tags:
 - things_to_do
 - landmark

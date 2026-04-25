@@ -1,7 +1,8 @@
 ---
 title: "Fathom Five National Marine Park"
 type: poi
-category: "Sight"
+tags: [things_to_do]
+snippet: Shipwreck diving and glass-bottom boats on Georgian Bay
 latitude: 45.2833
 longitude: -81.6667
 ---

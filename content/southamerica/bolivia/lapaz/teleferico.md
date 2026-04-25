@@ -1,6 +1,7 @@
 ---
 latitude: -16.5042
 longitude: -68.1273
+snippet: Urban cable car network with dramatic canyon views
 tags:
 - things_to_do
 - sight

@@ -1,6 +1,7 @@
 ---
 title: 'Cafe Dulce'
 type: poi
+snippet: "Coffee and desserts on Worcester's Shrewsbury Street"
 tags: [eating_out, cafe, dessert]
 address: 'Shrewsbury St., Worcester, MA'
 latitude: 42.2690

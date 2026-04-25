@@ -3,6 +3,11 @@ title: Argentina
 type: location
 latitude: -34.996496
 longitude: -64.967282
+quick_facts:
+  Population: "46 million"
+  Blue Dollar: "Parallel exchange rate — bring USD cash"
+  Beef Consumption: "~50 kg per person per year"
+  Highest Peak Outside Asia: "Aconcagua, 6,961 m"
 image: argentina.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG
 image_license: CC BY-SA 2.5

@@ -1,34 +1,16 @@
 ---
-title: "Butt Murgh Chanay"
+address: Near Badami Bagh, Lahore Railway Station
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 31.582
+longitude: 74.3395
+phone: +92 321 8401358
+price: Around Rs 50 per plate with boti
+snippet: Famous murgh chanay near Lahore Railway Station since 1980s
+tags:
+- eat
+title: Butt Murgh Chanay
 type: poi
-accessibility: "24 hours"
-address: "butt_muzammal@yahoo.com"
-email: "butt_muzammal@yahoo.com"
-phone: "00923218401358"
-price: "50 per plate with boti"
-type: "Indian and Pakistani"
-url: "www.bmijeans.com"
 ---
 
-Butt Mugh Chanay Resturant is one the tasted murgh chanay resturant situated near Badami Bagh, Lahore Railway Station. Is rich taste is renowed all over Lahore and punjab.
-
-**Contributors**
-January 22, 2007
-
-type: Indian and Pakistani
-
-
-
-
-
-accessibility: 24 hours
-
-tel: 00923218401358
-
-url: [www.bmijeans.com](http://www.bmijeans.com)
-
-address: butt_muzammal@yahoo.com
-
-PriceOfMenu: 50 per plate with boti
-
-email: butt_muzammal@yahoo.com
+A long-standing Lahore institution near Badami Bagh, just outside the railway station. The speciality is murgh chanay — tender chicken simmered with chickpeas in a spiced gravy — and the recipe has changed little over the decades. Simple setup, fast service, popular with travellers catching early trains and locals who know to come here specifically for this dish.

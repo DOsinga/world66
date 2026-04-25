@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -36.8294
 longitude: 175.7842
+snippet: Iconic sea arch connecting two white-sand beaches
 tags:
 - things_to_do
 title: Cathedral Cove

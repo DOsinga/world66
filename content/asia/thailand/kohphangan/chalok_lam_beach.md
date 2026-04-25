@@ -5,6 +5,7 @@ tags:
 - beaches
 title: Chalok Lam Beach
 type: poi
+snippet: "Laid-back fishing village bay on Koh Phangan's north coast"
 ---
 
 Chalok Lam is a wide, natural bay at the northern tip of Koh Phangan, backed by jungle hills and still anchored by a working fishing village. The atmosphere is far more relaxed than the south coast — people tend to come here to decompress after the Full Moon Party. There are Thai-style restaurants along the seafront, a few good bars, a diving school, and longtail boats for hire to explore nearby beaches. A cooking school operates on the edge of the village.

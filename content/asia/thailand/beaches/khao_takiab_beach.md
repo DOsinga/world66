@@ -1,9 +1,13 @@
 ---
-title: "Khao Takiab Beach and Bay"
+address: Khao Takiab, Hua Hin District, Prachuap Khiri Khan
+latitude: 12.5167
+longitude: 99.9667
+snippet: Quieter beach south of Hua Hin, anchored by a temple-topped headland.
+tags:
+- things_to_do
+- beach
+title: Khao Takiab Beach
 type: poi
-address: "Khao Takiab Bay"
-url: "www.khao-takiab.com"
-zipcode: "Hua Hin area"
 ---
 
-Khao Takiab beach and Khao Takiab Bay in the Hua Hin area offer a choice of beaches, swimmings, sailing, bopat trips and fishing at offshore islands. Also temples, elephant rides, horse cart rides, off orad all terrain rides and nearby golf. The busy town of Hua hin is just 10 minutes for restaurants and entertainment plus markets and shopping. All just over 2 hrs 30 mins from Bangkok by highway.
+Khao Takiab — "Chopstick Hill" — is a beach and headland about 7 kilometres south of Hua Hin. The beach is calmer and less crowded than the main Hua Hin stretch, with a colony of monkeys living on the wooded hill above. A Buddhist temple sits at the top, with views along the coast. The bay has opportunities for swimming and local fishing boats offer trips out to nearby islands. Hua Hin itself is a short drive north for restaurants, markets, and night life.

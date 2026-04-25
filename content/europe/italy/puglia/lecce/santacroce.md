@@ -1,9 +1,17 @@
 ---
-title: "Santa Croce"
+address: Piazza Castro Mediano
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 40.3538
+longitude: 18.1737
+opening_hours: 9am–1pm, 5:30–7:30pm
+snippet: Lecce's most spectacular Baroque façade, a riot of stone carvings
+tags:
+- things_to_do
+- sight
+- church
+title: Santa Croce
 type: poi
-address: "Piazza Castro Mediano"
-opening_hours: "9 am - 1pm, 5:30 - 7:30"
-tags: [things_to_do, sight, church]
 ---
 
-The most exuberant example of Leccese baroque. Fantastic monsters amd caryatids adorn the facade. Inside the altar by Zimbalo sr. is wonderful.
+The most exuberant example of Leccese Baroque. Fantastic monsters and caryatids crowd the façade in a seemingly uncontrolled explosion of local sandstone carving. Work began in 1549 and took well over a century to complete, which explains the variety of hands at work. Inside, the altar by Zimbalo is worth close attention.

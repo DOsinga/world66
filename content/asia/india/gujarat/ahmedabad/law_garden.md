@@ -4,6 +4,7 @@ latitude: 23.026394
 longitude: 72.561057
 tags:
 - shopping
+snippet: Evening street market for Gujarati textiles and handicrafts
 title: Law Garden
 type: poi
 ---

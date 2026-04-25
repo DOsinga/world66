@@ -3,6 +3,7 @@ address: Corniche Road, Hurghada
 latitude: 27.213
 longitude: 33.836
 phone: +20 65 445080
+snippet: Creative seafood on the Hurghada Corniche
 tags:
 - eating_out
 title: The Catch

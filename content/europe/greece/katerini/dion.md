@@ -1,7 +1,11 @@
 ---
 title: "Ancient Dion"
 type: poi
+snippet: "Sacred Macedonian sanctuary at the foot of Mount Olympus"
 category: "Sight"
+tags:
+- things_to_do
+- sight
 latitude: 40.1731
 longitude: 22.4922
 ---

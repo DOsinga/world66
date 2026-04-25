@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 25.3048
 longitude: 51.531
+snippet: Seven-kilometre waterfront promenade along Doha Bay
 tags:
 - things_to_do
 - landmark
+- walking
 title: The Corniche
 type: poi
 ---

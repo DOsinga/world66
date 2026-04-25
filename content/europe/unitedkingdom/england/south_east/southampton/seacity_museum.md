@@ -2,6 +2,7 @@
 address: Havelock Road, Southampton SO14 7FY
 latitude: 50.9079
 longitude: -1.4083
+snippet: "Southampton's maritime museum centred on the Titanic's crew"
 story: 'More than 500 of the Titanic''s 899 crew members came from Southampton — stokers,
   stewards, engineers, cooks. When the ship sank on 15 April 1912, the news hit the
   city like a local disaster. Whole streets lost several men at once. The SeaCity

@@ -1,6 +1,7 @@
 ---
 title: "Octopus"
 type: poi
+snippet: Creative French cuisine by a Meilleur Ouvrier de France
 tags: [eating_out, restaurant, fine_dining, french]
 address: "12 rue Boieldieu, 34500 Beziers"
 phone: "0467 499 000"

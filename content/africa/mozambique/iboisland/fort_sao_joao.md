@@ -1,13 +1,12 @@
 ---
 latitude: -12.3441
 longitude: 40.5998
-story: 'Fort São João was completed in 1791, making it one of the largest Portuguese
+snippet: Star-shaped Portuguese fort with sweeping channel views
+story: Fort São João was completed in 1791, making it one of the largest Portuguese
   fortifications on the East African coast. During the 19th century it served as a
   prison — shackles and cells are still visible — and later as a customs post. At
-  its height, Ibo was one of the busiest slave-trading ports on the coast; the fort''s
+  its height, Ibo was one of the busiest slave-trading ports on the coast; the fort's
   dungeons held captives before their shipment across the Indian Ocean.
-
-  '
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,7 @@
 title: "Tomb of King Kongmin"
 type: poi
 category: Sight
+snippet: "UNESCO-listed Koryo royal tomb with striking stone guardians"
 latitude: 37.9874
 longitude: 126.4951
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 9.9178
 longitude: 8.8855
+snippet: Open-air museum of full-scale traditional buildings from across Nigeria
 tags:
 - things_to_do
 - museum

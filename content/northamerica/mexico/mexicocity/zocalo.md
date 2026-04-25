@@ -1,6 +1,7 @@
 ---
 latitude: 19.4326
 longitude: -99.1332
+snippet: "One of the world's largest city squares, heart of Mexico City"
 tags:
 - things_to_do
 - landmark

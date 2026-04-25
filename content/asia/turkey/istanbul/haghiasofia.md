@@ -1,7 +1,10 @@
 ---
 title: "Hagia Sophia"
 type: poi
-category: "Sight"
+snippet: "Justinian's 6th-century masterpiece with a floating dome"
+tags:
+- things_to_do
+- landmark
 latitude: 41.008583
 longitude: 28.980175
 ---

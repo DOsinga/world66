@@ -1,13 +1,16 @@
 ---
 address: Piazza di Trevi, 00187 Rome
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.9009
 longitude: 12.4833
+snippet: Baroque masterpiece where a tossed coin promises your return
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome
 - things_to_do
-- theatre
+- sight
 title: Trevi Fountain
 type: poi
 ---

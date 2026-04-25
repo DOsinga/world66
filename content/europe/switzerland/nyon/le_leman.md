@@ -1,6 +1,7 @@
 ---
 title: "Le Leman"
 type: poi
+snippet: "Traditional fondue spot on Rue de Rive"
 tags: [eating_out, restaurant]
 latitude: 46.3830
 longitude: 6.2388

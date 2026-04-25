@@ -1,13 +1,19 @@
 ---
-title: "Castello Sforzesco"
-type: poi
-category: "Sight"
-address: "Piazza Castello, 20121 Milan"
-opening_hours: "Castle grounds daily 07:00–19:30; museums Tue–Sun 09:00–17:30; closed Mon"
-admission: "Grounds free; museums €5 full, €3 reduced"
+address: Piazza Castello, 20121 Milan
+admission: Grounds free; museums €5 full, €3 reduced
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4706
 longitude: 9.1797
-tags: ["48 Hours in Milan", "3 Days in Milan"]
+opening_hours: Castle grounds daily 07:00–19:30; museums Tue–Sun 09:00–17:30; closed
+  Mon
+snippet: 15th-century fortress with Michelangelo's final unfinished Pietà
+tags:
+- 48 Hours in Milan
+- 3 Days in Milan
+title: Castello Sforzesco
+type: poi
 ---
 
 A vast 15th-century red-brick fortress built by the Sforza duchy, now housing several civic museums. The most important is the Museo d'Arte Antica, which contains Michelangelo's unfinished Pietà Rondanini — his last work, left incomplete at his death in 1564, and one of the most moving sculptures in Italy.

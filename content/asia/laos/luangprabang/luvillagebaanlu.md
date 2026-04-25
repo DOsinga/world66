@@ -1,6 +1,7 @@
 ---
 latitude: 19.882
 longitude: 102.155
+snippet: Lu weaving village 3km east, buy silk and cotton direct from the loom
 tags:
 - things_to_do
 title: Ban Phanom Weaving Village

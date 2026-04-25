@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 3.143795
 longitude: 101.684817
+snippet: Sprawling urban parkland with a lake, birds, and orchids
 tags:
 - things_to_do
 - landmark
@@ -8,6 +11,6 @@ title: Lake Gardens
 type: poi
 ---
 
-As in most Asia cities you can find a green belt. KL maintains a 92 hectares (227 acres) of parkland. Lake Gardens is located in the west of the city. The central point is a nice lake (Tasik Perdana) where you can hire paddle boats. All Attractions in the park can be reached either on-foot, or by regular shuttle buses. Lake Gardens is also the home of Bird Park and and nearby Orchid Garden, where 800 species of flower can be found. There are also sections of the gardens dedicated to tame deer and butterflies.
+Kuala Lumpur's largest public park, 92 hectares of green space west of the city centre. The centrepiece is Tasik Perdana, a pleasant artificial lake where you can hire paddle boats. Walking paths wind through rolling lawns, rain trees, and flowering shrubs.
 
-type: Parks, Gardens and Zoo's
+The park also contains the KL Bird Park, one of the world's largest free-flight aviaries, and the nearby Orchid Garden with around 800 species. A Deer Park and Butterfly Park round out the attractions. Regular shuttle buses loop through the grounds, but most of it is easily walkable.

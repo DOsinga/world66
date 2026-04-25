@@ -1,12 +1,15 @@
 ---
-category: Sight
-title: Farhad Evi (Farhad's House)
+address: Batabat plain, Shahbuz, Nakhchivan
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 39.605
+longitude: 45.578
+snippet: Medieval caravanserai ruins on the Batabat plain
+tags:
+- things_to_do
+- historic
+title: Farhad Evi (Farhad’s House)
 type: poi
 ---
 
-Farhad Evi (Farhad's House) is an archeological monument in Batabat palin, in the east of Bichenek village in Shahbuz region. It is on the right of Nakhchivan-Lachin-Yevlakh highway, and about 1 km to the east from Zorbulag. There is a caravan way from Nakhchivan to Farhad evi. The station was built in Batabat plain that known as Farhad evi. In the Middle Ages as the traffic became more tense between Nakhchivan-Batabat, that’s why one more caravanserai was constructed a little bit far in the north from Farhad evi. The local population called this place Shah Abbas caravanserai
-
-**Contributors**
-April 18, 2006
-
-type: Landmarks
+An archaeological site on the Batabat plain east of Bichenek village in the Shahbuz district. Farhad Evi was a caravanserai — a roadside inn for travellers along the Nakhchivan-Lachin-Yevlakh highway. As trade traffic grew during the medieval period, a second caravanserai was built nearby, known locally as the Shah Abbas caravanserai. The ruins sit about a kilometre east of Zorbulag, in open steppe landscape.

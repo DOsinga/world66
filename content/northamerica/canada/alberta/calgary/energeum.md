@@ -6,6 +6,7 @@ tags:
 - museum
 title: Energeum
 type: poi
+snippet: "Former energy museum in downtown Calgary, closed 2017"
 ---
 
-A small downtown museum focused on Alberta's energy industry, with hands-on displays explaining oil, gas, and the geology of the province. Located in the Energy Resources Building on 5th Avenue SW.
+The Energeum was a small museum in the Energy Resources Building on 5th Avenue SW, with hands-on displays explaining Alberta's oil, gas, and geological history. It closed permanently in 2017. The building remains, but the museum is no longer operating.

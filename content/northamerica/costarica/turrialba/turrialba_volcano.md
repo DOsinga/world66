@@ -1,7 +1,10 @@
 ---
 title: "Turrialba Volcano"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - sight
+snippet: "Active stratovolcano with crater rim hikes when open"
 latitude: 10.0256
 longitude: -83.7672
 ---

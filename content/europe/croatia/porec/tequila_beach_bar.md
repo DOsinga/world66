@@ -5,6 +5,7 @@ longitude: 13.5938
 tags:
 - bars_and_cafes
 title: Tequila Beach Bar
+snippet: Beachfront bar with DJ sets and sunset views over the Adriatic
 type: poi
 ---
 

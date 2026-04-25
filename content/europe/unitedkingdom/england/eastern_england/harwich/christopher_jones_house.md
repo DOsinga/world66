@@ -1,6 +1,7 @@
 ---
 latitude: 51.9456
 longitude: 1.2878
+snippet: "Home of the Mayflower's captain before the 1620 voyage"
 tags:
 - things_to_do
 - sight

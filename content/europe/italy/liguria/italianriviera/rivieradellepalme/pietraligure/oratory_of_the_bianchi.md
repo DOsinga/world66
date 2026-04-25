@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, church]
 latitude: 44.1525
 longitude: 8.2858
+snippet: "10th-century oratory on Piazza Vecchia, now a baroque-era auditorium"
 story: "The bell in the campanile is said to have been rung by the hand of St. Nicholas himself to announce the end of Pietra Ligure's plague outbreak in 1525 — a tradition the town has maintained ever since."
 ---
 

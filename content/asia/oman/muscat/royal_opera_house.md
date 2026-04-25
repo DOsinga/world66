@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 23.6109
 longitude: 58.4411
+snippet: Sultan Qaboos's marble opera house with daytime tours
 tags:
 - things_to_do
 - architecture

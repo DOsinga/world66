@@ -1,7 +1,8 @@
 ---
 title: "Noosa Junction"
 type: poi
-category: do
+snippet: "The practical commercial strip serving Noosa Heads."
+tags: [things_to_do, shopping]
 latitude: -26.396876
 longitude: 153.089382
 done:

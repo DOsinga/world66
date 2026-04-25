@@ -1,7 +1,13 @@
 ---
-latitude: 44.5400
-longitude: 18.6710
-tags: [things_to_do, lake, nature]
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 44.54
+longitude: 18.671
+snippet: Urban salt lakes from centuries of underground mining
+tags:
+- things_to_do
+- lake
+- nature
 title: Pannonica Salt Lakes
 type: poi
 ---

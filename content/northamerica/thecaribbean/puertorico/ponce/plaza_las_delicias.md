@@ -1,6 +1,7 @@
 ---
 latitude: 18.0123
 longitude: -66.6133
+snippet: Ponce's graceful main square with fountain and firehouse
 tags:
 - things_to_do
 - landmark

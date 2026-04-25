@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.779
 longitude: -5.8127
+snippet: Beat Generation watering hole where Burroughs and Ginsberg drank
 tags:
 - bars_and_cafes
+- story
 title: Tangier Inn
 type: poi
 ---

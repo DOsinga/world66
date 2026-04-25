@@ -1,7 +1,12 @@
 ---
 title: "Salahley Savanna"
 type: poi
+latitude: 9.73
+longitude: 44.08
 getting_there: "About 90km west of Hargeisa, accessible by shared taxi or hired vehicle."
+snippet: "Nomadic pastoralist culture on working savanna grasslands"
+tags:
+- things_to_do
 ---
 
 The area around Salahley gives a genuine introduction to the nomadic pastoralist culture that underpins Somali society. The savanna landscape here supports camel, sheep, and goat herding, and it is possible to visit traditional aqal — portable dome-shaped dwellings made from bent branches and woven mats that nomadic families carry with them.

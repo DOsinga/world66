@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.7699
 longitude: -4.4614
+snippet: Dylan Thomas's favourite pub in Laugharne
 tags:
 - bars_and_cafes
 title: Brown's Hotel

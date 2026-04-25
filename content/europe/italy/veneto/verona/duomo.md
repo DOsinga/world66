@@ -3,6 +3,7 @@ address: Piazza Duomo 21, 37121 Verona
 latitude: 45.4482
 longitude: 11.0007
 opening_hours: Mon–Sat 10am–5:30pm, Sun 1:30pm–5:30pm (winter hours shorter)
+snippet: Romanesque-Gothic cathedral with a Titian altarpiece
 tags:
 - things_to_do
 - landmark

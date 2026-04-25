@@ -1,4 +1,5 @@
 ---
+snippet: Long-running Thai staple on University Avenue
 title: "Siam Royal"
 type: poi
 tags:

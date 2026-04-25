@@ -1,5 +1,7 @@
 ---
-title: "Practical Information"
+done:
+  poi_cleanup: '2026-04-20'
+title: Practical Information
 type: section
 ---
 

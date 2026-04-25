@@ -1,10 +1,14 @@
 ---
 address: Knaackstraße 97, Prenzlauer Berg
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.540292
 longitude: 13.414078
+snippet: Sprawling former brewery turned cultural village
 tags:
-- things_to_do
-- prenzlauerberg
+- nightlife
+- history
+- architecture
 title: Kulturbrauerei
 type: poi
 url: www.kulturbrauerei.de

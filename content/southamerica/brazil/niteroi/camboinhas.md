@@ -1,6 +1,7 @@
 ---
 latitude: -22.955
 longitude: -43.0555
+snippet: Sheltered family beach with lagoon and ocean sides
 tags:
 - beaches
 - sight

@@ -1,37 +1,18 @@
 ---
-address: Kalamb, Nallasopara West
-email: thedoors.pranav@gmail.com
-phone: '9323410092'
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 19.4175
+longitude: 72.792
+snippet: Quiet local beach north of Mumbai for a low-key escape
 tags:
-- beaches
+- things_to_do
 - beach
-title: Kalamb
+title: Kalamb Beach
 type: poi
 ---
 
-How to get here:
+Kalamb is a quiet, relatively uncrowded beach about 60 km north of central Mumbai, near Nallasopara on the Western Railway line. It's not a glamorous destination — think dark sand, fishing boats, and local families rather than resort vibes — but that's the appeal. When you want a beach day without the chaos of Juhu or the long drive to Alibaug, Kalamb works.
 
-Come to any western railway suburb, and catch a train heading for Virar. Catch the train from Borivli, Andheri, Bandra or Dadar. Preferably come here arnd 10 am.
-Get off at Nallasopara station.
-On the West(very close to the station).. there is a bus depot. Board the bus(fare Rs. 7 as of may 2006) heading for Kalamb-Rajodi. Or you could take a private rickshaw(bargain and pay maximum Rs. 70-100) to reach the beach.
+To get here, take a Western line train toward Virar and get off at Nallasopara station. From the west exit, local buses and auto-rickshaws run to Kalamb village, a short ride away. The beach stretches for a couple of kilometres, backed by casuarina trees and dotted with small food stalls selling fresh coconut water and fried fish.
 
-If you take the bus, then get off at the Kalamb stop and walk towards the beach (narrow road).
-
-If you want to laze just chill on the beach itself or are interested you can visit a place called Sheetal Samudra. This shack is absolute paradise.
-
-Fall asleep on a hammock, when you wake up u will feel u have woken up in a new month altogether.
-
-Also recommended is the "Special Soup" at Matoshree Chinese Centre.
-
-**Contributors**
-May 05, 2006
-
-
-
-
-
-tel: 9323410092
-
-address: Kalamb, Nallasopara West
-
-email: thedoors.pranav@gmail.com
+It's best visited on weekdays when the crowds thin out. Weekends and holidays bring families from the suburbs. Swimming is possible but watch the currents — there are no lifeguards here.

@@ -1,8 +1,11 @@
 ---
 address: Zürichbergstrasse 189, 8044 Zürich
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.375823
 longitude: 8.573139
 opening_hours: Daily, dawn to dusk
+snippet: Literary pilgrimage to the Ulysses author's resting place
 tags:
 - James Joyce
 - Literature

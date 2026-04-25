@@ -1,6 +1,7 @@
 ---
 latitude: 46.6249
 longitude: 14.3072
+snippet: Carinthian provincial museum with strong Roman collections
 tags:
 - things_to_do
 - museum

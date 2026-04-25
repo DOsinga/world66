@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.8773
 longitude: -6.974
+snippet: Twin-towered 16th-century gateway facing the old bridge to Portugal
 tags:
 - things_to_do
 - landmark

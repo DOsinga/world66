@@ -1,6 +1,7 @@
 ---
 latitude: -23.6978
 longitude: 133.8361
+snippet: Central Australia wildlife in naturalistic desert habitats
 tags:
 - things_to_do
 - sight

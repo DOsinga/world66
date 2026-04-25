@@ -2,6 +2,7 @@
 address: Rue Forcioli Conti, Ajaccio
 latitude: 41.9189
 longitude: 8.7352
+snippet: Renaissance cathedral where Napoleon was baptised
 story: Napoleon was baptised here on 21 July 1771, two years after his birth — a delay
   that was unremarkable by 18th-century standards. A copy of the baptismal register
   is displayed inside.

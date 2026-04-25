@@ -1,16 +1,22 @@
 ---
-title: Gibraltar
-type: location
-latitude: 36.128593
-longitude: -5.347476
-image: gibraltar.jpg
-image_source: https://commons.wikimedia.org/wiki/File:View_of_the_Rock_of_Gibraltar_from_the_Strait.jpg
-image_license: CC BY 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/46198971@N06">rob
-  Stoeltje</a>
 done:
   country_cleanup: 2026-03-30
+  poi_cleanup: '2026-04-19'
+image: gibraltar.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/46198971@N06">rob
+  Stoeltje</a>
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:View_of_the_Rock_of_Gibraltar_from_the_Strait.jpg
+latitude: 36.128593
+longitude: -5.347476
+quick_facts:
+  Population: "34,000"
+  Currency: Gibraltar Pound (£)
+  Total Area: "6.5 km² — smaller than most airports"
+  Barbary Macaques: Only wild monkeys in Europe
 score: 0.62
+title: Gibraltar
+type: location
 ---
 
 Gibraltar is one of those places that shouldn't quite exist — a 6.5-square-kilometre British territory on the southern tip of Spain, within sight of Morocco, fiercely proud of its identity and stubbornly resistant to the obvious logic that it should belong to someone else. The Rock of Gibraltar, that massive limestone ridge rising 426 metres from the narrow isthmus, has defined the territory's history and still dominates everything about it.

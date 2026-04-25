@@ -1,6 +1,7 @@
 ---
 address: Linnankatu 80, Turku
 category: Sight
+snippet: "Medieval castle with a history museum and royal intrigue"
 latitude: 60.4346
 longitude: 22.2289
 opening_hours: Daily 10am–6pm (reduced hours in winter)

@@ -1,6 +1,7 @@
 ---
 latitude: 45.7172
 longitude: -108.4339
+snippet: Ancient rock art in caves south of Billings
 tags:
 - things_to_do
 - landmark

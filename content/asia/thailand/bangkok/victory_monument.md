@@ -4,6 +4,7 @@ longitude: 100.5383
 tags:
 - things_to_do
 - monument
+snippet: "War memorial turned busy transit hub with great street food"
 title: Victory Monument
 type: poi
 ---

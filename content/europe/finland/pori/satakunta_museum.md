@@ -1,7 +1,10 @@
 ---
 title: "Satakunta Museum"
 type: poi
-category: "Museum"
+snippet: "Regional history museum covering Pori and Satakunta"
+tags:
+  - things_to_do
+  - museum
 address: "Hallituskatu 11"
 phone: "+358 2 6211 078"
 latitude: 61.4882

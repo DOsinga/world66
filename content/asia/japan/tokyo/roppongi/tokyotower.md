@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.658449
 longitude: 139.745536
+snippet: Tokyo's iconic 333-metre red-and-white broadcasting tower
 tags:
 - things_to_do
 - landmark

@@ -8,6 +8,7 @@ tags:
 - market
 - monument
 - square
+snippet: Downtown hub with one of NYC's best farmers markets
 title: Union Square Park
 type: poi
 ---

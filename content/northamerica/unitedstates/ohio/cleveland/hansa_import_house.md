@@ -3,6 +3,7 @@ address: 2701 Lorain Ave
 latitude: 41.483466
 longitude: -81.704739
 phone: (216) 281-3177
+snippet: German import shop near West Side Market
 tags:
 - shopping
 - shop

@@ -10,6 +10,11 @@ latitude: 20.254
 longitude: -10.9408
 title: Mauritania
 type: location
+quick_facts:
+  Population: "4.9 million"
+  Religion: "99% Muslim"
+  Sahara Coverage: "90%"
+  Slavery Criminalised: "2007"
 score: 0.23
 ---
 

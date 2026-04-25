@@ -1,6 +1,7 @@
 ---
 latitude: -0.3017
 longitude: 36.11
+snippet: Neolithic and Iron Age site excavated by Mary Leakey
 tags:
 - things_to_do
 - landmark

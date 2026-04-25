@@ -3,10 +3,9 @@ address: Dorsoduro, past Campo Santa Margherita
 latitude: 45.4342
 longitude: 12.3228
 phone: +39 041 710227
+snippet: Late-night Dorsoduro bar near Campo Santa Margherita
 tags:
 - bars_and_cafes
-- bar
-- cafe
 title: Cafe Blue
 type: poi
 ---

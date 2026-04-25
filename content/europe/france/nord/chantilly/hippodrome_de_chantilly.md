@@ -1,7 +1,10 @@
 ---
 title: "Hippodrome de Chantilly"
 type: poi
-category: "Sight"
+snippet: "Scenic racecourse beside the chateau, home to the French Derby"
+tags:
+- things_to_do
+- sight
 address: "Rue du Connétable, 60500 Chantilly"
 url: "www.france-galop.com"
 latitude: 49.1975

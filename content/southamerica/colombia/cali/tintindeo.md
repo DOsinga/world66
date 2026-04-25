@@ -1,7 +1,10 @@
 ---
 address: 'Calle 5 # 38-71, Barrio San Fernando'
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 3.4253
 longitude: -76.5418
+snippet: Cali's legendary salsa club with serious dancers since the 1980s
 tags:
 - bars_and_cafes
 - nightclub

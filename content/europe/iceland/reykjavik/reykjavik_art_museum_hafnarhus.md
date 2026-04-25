@@ -1,9 +1,12 @@
 ---
 address: Tryggvagata 17
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 64.1494
 longitude: -21.9408
 opening_hours: 10:00–17:00 daily (Thur until 22:00)
 phone: +354 411 6400
+snippet: Contemporary art museum with major Erró collection
 tags:
 - things_to_do
 - museum

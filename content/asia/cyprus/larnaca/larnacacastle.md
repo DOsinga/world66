@@ -1,9 +1,15 @@
 ---
-title: Larnaca Castle
-type: poi
-tags: [things_to_do]
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.910276
 longitude: 33.637666
+snippet: Seafront castle turned archaeological museum
+tags:
+- things_to_do
+title: Larnaca Castle
+type: poi
 ---
 
-Along the beach, near Ankara Street you will immediately see Larnaca Castle. It was built in 1625 and originally served as a prison. From its promenade walls, enjoy a view of the Scala Quarter with its Buyuk Kebir Cami (mosque) - formerly one of Larnaca's Turkish neighbourhoods. Today the castle houses an impressive archaeological museum, built like a labyrinth and dedicated to ancient Kition and later periods. Open: Mon - Fri 7.30am to 2.30pm. Tel. (04) 630 169
+The castle sits right on the seafront near the southern end of the promenade. Built in 1625 during Ottoman rule, it originally served as a prison and garrison. The walls offer good views over the Scala Quarter and its Buyuk Kebir Cami mosque, once the heart of Larnaca's Turkish community.
+
+Today the interior houses the Larnaca District Medieval Museum, a labyrinthine collection spanning finds from ancient Kition through the medieval period. The displays are modest but the building itself is worth the visit.

@@ -1,9 +1,11 @@
 ---
 latitude: 43.3858
 longitude: -8.4083
+snippet: "Oldest working Roman lighthouse in the world, UNESCO-listed"
 tags:
 - things_to_do
 - landmark
+- story
 title: Torre de Hércules
 type: poi
 ---
@@ -12,4 +14,4 @@ The Torre de Hércules is the oldest working Roman lighthouse in the world. Buil
 
 You can climb to the top for views over the city and, on clear days, far out to sea. The UNESCO designation came in 2009. Allow an hour, and arrive at opening time to avoid queues in summer.
 
-story: "According to legend, the tower was built by Hercules after he slew the giant Geryon and buried his head beneath the foundations. The tower was to stand for as long as the head remained buried — a story the Romans likely inherited from an older Celtiberian myth about the site."
+According to legend, the tower was built by Hercules after he slew the giant Geryon and buried his head beneath the foundations. The tower was to stand for as long as the head remained buried -- a story the Romans likely inherited from an older Celtiberian myth about the site.

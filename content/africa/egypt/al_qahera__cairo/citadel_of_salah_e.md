@@ -1,38 +1,16 @@
 ---
-address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
-email: info@egyptlastminute.com
-phone: +2 01005759364
-tags:
-- day_trips
 title: Citadel of Salah El Din
 type: poi
-url: egyptlastminute.com
+latitude: 30.0288
+longitude: 31.2599
+snippet: Medieval fortress dominating Cairo's skyline from Moqattam hills
+tags:
+- things_to_do
+- landmark
 ---
 
-Egypt last minute guide will pick you from your hotel. You will get to
+The Citadel of Saladin has watched over Cairo from the Moqattam hills since 1183, when Salah El Din built it to defend the city against Crusader armies. For nearly 700 years it served as the seat of Egyptian government, and even today its massive walls and towers dominate the eastern skyline.
 
-visit Salah El Din Citadel which was constructed by Salah
+Inside the complex, the Muhammad Ali Mosque is the centrepiece — its Ottoman domes and slender minarets are visible from across the city. The alabaster-clad interior is vast and cool, with an ornate clock in the courtyard gifted by France in exchange for the Luxor Obelisk now standing in Paris. Nearby, the Al-Nasir Muhammad Mosque dates back to the 14th century and has a more restrained beauty.
 
-El Din on the Moqattam hills in 1183 AD to defend Cairo
-
-from the armies of Crusaders. After that visit Mohamed
-
-Ali Alabaster Mosque which was designed by the
-
-architect Yousif Boushnaq, a Turkish man who came
-
-specially from Istanbuland built this great mosque for
-
-Mohamed Ali, the ruler of Egypt (1805-1849) who ruled
-
-Over 45 years.
-
-Then proceed to Visit
-
-Old Cairo where you will enjoy, the Hanging Church, Ben
-
-Ezra Synagogue, Church of St. Barbara, Church of Abu
-
-Serga and address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
-
-email: info@egyptlastminute.com
+The Citadel also houses several museums, including the National Military Museum and a Police Museum. But the real draw beyond the mosques is the terrace view — on a clear day you can see from the Pyramids of Giza in the west to the Muqattam cliffs in the east, with the sprawl of Cairo laid out below. Allow two to three hours. The Citadel is easiest to reach by taxi or ride-share; combine it with a visit to the Sultan Hassan Mosque just below.

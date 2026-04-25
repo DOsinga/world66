@@ -1,11 +1,10 @@
 ---
-title: "Albania"
+title: "Albania (Insight Guides)"
 type: poi
 author: "Insight Guides"
 isbn: "0841607001"
 subject: "travel"
-latitude: 41.000028
-longitude: 19.999962
+snippet: "Comprehensive illustrated travel guide to Albania"
 ---
 
-[](http://www.amazon.com/exec/obidos/ASIN/0841607001/osingacom?creative=125581&camp=2321&link_code=as1)
+A thorough illustrated guide covering Albania's history, culture, and main destinations. Insight Guides are known for their strong photography and contextual essays alongside practical information — this volume provides useful background on a country that was largely closed to outside visitors until the early 1990s and remains less documented than its Balkan neighbours.

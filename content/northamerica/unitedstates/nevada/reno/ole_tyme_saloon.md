@@ -5,6 +5,7 @@ done:
 latitude: 39.392244
 longitude: -119.723164
 phone: 775-851-8963
+snippet: Friendly neighbourhood bar on the Virginia City road
 tags:
 - bars_and_cafes
 title: Ole Tyme Saloon

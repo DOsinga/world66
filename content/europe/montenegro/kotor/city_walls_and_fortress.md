@@ -1,6 +1,7 @@
 ---
 latitude: 42.4272
 longitude: 18.7699
+snippet: "Steep climb to a hilltop fortress with stunning bay views"
 tags:
 - things_to_do
 - landmark

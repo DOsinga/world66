@@ -1,7 +1,10 @@
 ---
 category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.4966
 longitude: -0.1722
+snippet: World-class collection of art and design across centuries
 tags:
 - things_to_do
 - museum

@@ -1,7 +1,10 @@
 ---
 title: "Kunsthalle"
 type: poi
-category: Museum
+snippet: Major art museum from medieval altarpieces to contemporary
+tags:
+- things_to_do
+- museum
 latitude: 53.5567
 longitude: 10.0036
 ---

@@ -1,8 +1,11 @@
 ---
 address: Duff House, Banff AB45 3SX
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 57.6584
 longitude: -2.5261
 phone: 01261 818181
+snippet: Baroque William Adam mansion housing old master paintings
 tags:
 - things_to_do
 - museum

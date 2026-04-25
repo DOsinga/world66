@@ -1,6 +1,7 @@
 ---
 latitude: 53.6244
 longitude: 11.4179
+snippet: Fairy-tale island castle housing the state parliament and museum
 tags:
 - things_to_do
 - sight

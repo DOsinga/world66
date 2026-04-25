@@ -1,6 +1,7 @@
 ---
 latitude: 35.7799
 longitude: -5.8125
+snippet: Colonial-era bar from 1937, once expat haunt, now a locals' institution
 tags:
 - bars_and_cafes
 title: Dean's Bar

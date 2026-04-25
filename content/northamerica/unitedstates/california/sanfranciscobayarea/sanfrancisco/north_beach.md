@@ -2,6 +2,7 @@
 address: Broadway & Columbus Ave
 latitude: 37.7998
 longitude: -122.4083
+snippet: "San Francisco's Italian quarter and Beat Generation heartland"
 tags:
 - things_to_do
 - park

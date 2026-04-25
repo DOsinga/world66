@@ -1,6 +1,7 @@
 ---
 latitude: 17.2222
 longitude: -89.624
+snippet: 38-metre Maya temple facing the Grand Jaguar across the plaza
 tags:
 - things_to_do
 - landmark

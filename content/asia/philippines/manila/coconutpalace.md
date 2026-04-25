@@ -1,7 +1,10 @@
 ---
 address: Cultural Center Complex, Pasay
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 14.555187
 longitude: 120.979797
+snippet: Imelda Marcos's opulent palace built almost entirely from coconut
 story: Imelda Marcos commissioned it in 1978 for Pope John Paul II's planned 1981
   visit. The pope, informed of the US$37 million price tag when half the country lived
   in poverty, refused to set foot in it.

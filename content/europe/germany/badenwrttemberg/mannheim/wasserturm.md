@@ -2,6 +2,7 @@
 address: Friedrichsplatz, 68165 Mannheim
 latitude: 49.4843
 longitude: 8.4774
+snippet: Art Nouveau water tower and Mannheim civic symbol since 1889
 tags:
 - things_to_do
 - landmark

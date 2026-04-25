@@ -1,10 +1,16 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.8628
-longitude: 2.3470
+longitude: 2.347
+snippet: Major shopping complex on the site of Paris's old markets
 tags:
 - shopping
+- things_to_do
 title: Les Halles
 type: poi
 ---
 
-Built at the places where the markets were held in earlier days, the shopping mall of Les Halles has an ideal location right in the center of Paris, between the Louvre and the Notre Dame. In Les Halles you can find almost anything. There is a huge bookstore, called FNAC, there are several possibilities to have lunch, there is an indoor swimming pool, there are loads of clothings shops and there is a Haagen Dasz. All of this is to be found underground! On top of the mall is a garden where children can play.
+For centuries this was the beating heart of Parisian commerce — the great central food market that Émile Zola called "the belly of Paris." The old iron-and-glass market pavilions were demolished in the 1970s and replaced by an underground shopping complex, the Forum des Halles, which was itself rebuilt between 2010 and 2016 with a swooping glass-and-steel canopy designed by Patrick Berger.
+
+Today the complex holds over a hundred shops, a large Fnac bookstore, cinemas, and a swimming pool, all spread across several underground levels above the massive Châtelet–Les Halles metro hub. The surface-level Jardin Nelson-Mandela is a pleasant green space where you can rest your feet. The surrounding streets are lively with restaurants and bars, especially along Rue Montorgueil to the north — one of the best market streets left in central Paris.

@@ -1,8 +1,11 @@
 ---
 address: Overblaak 70
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.9201
 longitude: 4.4903
 phone: +31 10 414 2285
+snippet: Piet Blom's iconic tilted cubes near Blaak station
 tags:
 - things_to_do
 - architecture

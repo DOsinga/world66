@@ -1,6 +1,7 @@
 ---
 latitude: -37.8053
 longitude: 144.9714
+snippet: "Victorian gardens with UNESCO-listed Royal Exhibition Building"
 tags:
 - things_to_do
 - landmark

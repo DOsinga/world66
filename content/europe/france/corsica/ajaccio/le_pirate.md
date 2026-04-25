@@ -2,6 +2,7 @@
 address: Quai de la Citadelle, Ajaccio
 latitude: 41.9177
 longitude: 8.736
+snippet: "Harbourside restaurant with generous Corsican seafood and bouillabaisse"
 tags:
 - eating_out
 title: Le Pirate

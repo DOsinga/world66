@@ -5,6 +5,7 @@ latitude: 51.478067
 longitude: -0.295478
 opening_hours: Daily 10am-7pm (summer), 10am-4pm (winter)
 phone: +44 20 8332 5655
+snippet: 132 hectares of botanical wonder with Victorian glasshouses
 tags:
 - things_to_do
 - park

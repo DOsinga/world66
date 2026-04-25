@@ -1,6 +1,9 @@
 ---
 author: Patrick Leigh Fermor
+done:
+  poi_cleanup: '2026-04-19'
 isbn: 978-1590171356
+snippet: Fermor's classic account of travels through the wild Mani
 tags:
 - books
 title: 'Mani: Travels in the Southern Peloponnese'

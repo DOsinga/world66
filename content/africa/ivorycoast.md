@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Rond-point_Libert√©_Adjam√
 image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://secure.flickr.com/people/willstephe/">Willy
   Stephane Awaho</a>
+quick_facts:
+  Population: "29 million"
+  Language: "French"
+  Cocoa Production: "1st globally"
+  Basilica of Yamoussoukro: larger than St Peter's
 done:
   country_cleanup: 2026-03-31
 score: 0.35

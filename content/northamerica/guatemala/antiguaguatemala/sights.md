@@ -1,5 +1,7 @@
 ---
-title: "Sights"
+done:
+  poi_cleanup: '2026-04-20'
+title: Sights
 type: section
 ---
 

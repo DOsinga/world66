@@ -3,6 +3,7 @@ address: Harbour Beach, Ayia Napa
 latitude: 34.9865
 longitude: 33.999
 phone: +357 23 721882
+snippet: Harbour-side fish meze with 20-plus courses
 tags:
 - eating_out
 title: Karousos Beach Restaurant

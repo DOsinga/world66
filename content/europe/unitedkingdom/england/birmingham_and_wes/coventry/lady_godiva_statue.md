@@ -1,6 +1,7 @@
 ---
 latitude: 52.4075
 longitude: -1.5104
+snippet: Bronze equestrian statue in Coventry's main square
 tags:
 - things_to_do
 - landmark

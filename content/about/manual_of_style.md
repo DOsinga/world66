@@ -1,5 +1,8 @@
 ---
-title: "Manual of Style"
+done:
+  poi_cleanup: '2026-04-19'
+snippet: Writing and editing guidelines for World66 contributors
+title: Manual of Style
 type: poi
 ---
 

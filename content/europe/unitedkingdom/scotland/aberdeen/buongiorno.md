@@ -3,6 +3,7 @@ address: Esplanade, Sea Beach, Aberdeen AB24 5NS
 latitude: 57.159
 longitude: -2.085
 phone: 01224 211647
+snippet: Italian cafe on the beach esplanade for coffee and ice cream
 tags:
 - bars_and_cafes
 title: Buongiorno

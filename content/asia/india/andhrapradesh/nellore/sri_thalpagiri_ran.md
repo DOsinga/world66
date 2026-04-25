@@ -1,6 +1,9 @@
 ---
 address: Ranganayakula Peta, Nellore
+latitude: 14.4400
+longitude: 79.9730
 opening_hours: All days
+snippet: "Riverside temple dedicated to Lord Ranganath on the Pennar"
 tags:
 - things_to_do
 - landmark

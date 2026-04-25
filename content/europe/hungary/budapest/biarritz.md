@@ -2,6 +2,7 @@
 address: Kossuth Lajos ter 18
 latitude: 47.5096
 longitude: 19.0465
+snippet: Buzzy Hungarian restaurant popular with locals near Parliament
 tags:
 - eating_out
 - restaurant

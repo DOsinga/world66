@@ -1,31 +1,15 @@
 ---
-accessibility: 'yes'
-address: 555 Pennsylvania Ave, Washington, DC 2001
+address: 555 Pennsylvania Ave, Washington, DC 20001
 latitude: 38.893063
 longitude: -77.019205
-opening_hours: 9 AM to 5 PM Daily except Thanksgiving, Christmas, and New Year's Day
-phone: (202) 292-6100
+snippet: Landmark press-freedom museum that closed in 2019
 tags:
 - things_to_do
 - museum
 title: Newseum
 type: poi
-url: www.newseum.org
 ---
 
-Washington, DC’s Newseum is one of the most interactive museums in the world. Besides viewing the news of the day as it pops up on large screens, visitors can play reporters and create their own news stories in the interactive newsroom. On the walls of this museum are front pages that document the world’s history through print media. The many different exhibits trace crises in America’s history, such as the exhibit “Manhunt” that shows how the assassination of Abraham Lincoln by John Wilkes Booth was covered through the media of that time. There’s even a lock of the President’s hair that was preserved after his death.
+The Newseum was one of Washington’s most ambitious museums — seven floors dedicated to the history of news, press freedom, and journalism. Exhibits ranged from front pages documenting major world events to a section of the Berlin Wall, to Pulitzer Prize-winning photography. An interactive newsroom let visitors experience what it’s like to report and broadcast the news.
 
-**Contributors**
-April 21, 2009
-
-
-
-accessibility: yes
-
-tel: (202) 292-6100
-
-url: [www.newseum.org](http://www.newseum.org)
-
-address: 555 Pennsylvania Ave, Washington, DC 2001
-
-openinghours: 9 AM to 5 PM Daily except Thanksgiving, Christmas, and New Year's Day
+The museum closed permanently in December 2019 after struggling with finances for years. The building at 555 Pennsylvania Avenue has since been repurposed. If you’re interested in press freedom, the First Amendment is still engraved on the building’s facade — one of the largest displays of the amendment in the country.

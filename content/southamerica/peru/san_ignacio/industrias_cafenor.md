@@ -3,6 +3,7 @@ address: Calle Marulanda 269, San Ignacio
 latitude: -5.1244
 longitude: -78.8956
 phone: 0051(0) 76 356354
+snippet: "Small roastery producing coffee liquors from local beans"
 tags:
 - things_to_do
 - sight

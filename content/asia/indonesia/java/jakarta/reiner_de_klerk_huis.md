@@ -2,8 +2,10 @@
 address: Jalan Gajah Mada, Kota
 latitude: -6.1646
 longitude: 106.82
+snippet: Colonial VOC mansion turned National Archive Building
 tags:
 - things_to_do
+- architecture
 title: Reiner de Klerk Huis
 type: poi
 ---

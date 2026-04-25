@@ -1,6 +1,7 @@
 ---
 latitude: 49.4944
 longitude: 0.106
+snippet: "UNESCO-listed post-war boulevard, 100m wide, heart of Perret's rebuilt city"
 tags:
 - things_to_do
 - neighbourhood

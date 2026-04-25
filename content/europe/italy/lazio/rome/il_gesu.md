@@ -1,6 +1,7 @@
 ---
 latitude: 41.8963
 longitude: 12.4797
+snippet: "Mother church of the Jesuits with spectacular ceiling frescoes"
 tags:
 - things_to_do
 - church

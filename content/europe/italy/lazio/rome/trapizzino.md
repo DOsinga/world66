@@ -1,8 +1,11 @@
 ---
 address: Via Giovanni Branca 88, 00153 Rome
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8814
 longitude: 12.4759
 opening_hours: Daily 12:00–24:00
+snippet: Pizza-dough pockets stuffed with Roman braises
 tags:
 - Katie Parla Rome
 - Budget Dining Rome

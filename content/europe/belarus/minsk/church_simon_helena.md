@@ -2,6 +2,7 @@
 address: Sovetskaya 15, Minsk
 latitude: 53.8998
 longitude: 27.5487
+snippet: The Red Church, a striking neo-Romanesque memorial built by a grieving family
 tags:
 - things_to_do
 - sight

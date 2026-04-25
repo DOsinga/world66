@@ -4,6 +4,7 @@ longitude: 41.8003
 tags:
 - things_to_do
 - landmark
+snippet: "Lush Colchic rainforest on the 'crying mountain' near Batumi"
 title: Mtirala National Park
 type: poi
 ---

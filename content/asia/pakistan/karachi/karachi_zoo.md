@@ -1,6 +1,7 @@
 ---
 latitude: 24.869293
 longitude: 67.022684
+snippet: Historic zoo with shaded grounds in central Karachi
 tags:
 - things_to_do
 - park

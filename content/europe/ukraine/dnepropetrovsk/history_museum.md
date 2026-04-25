@@ -1,7 +1,10 @@
 ---
 title: "Dnipro History Museum"
 type: poi
-category: "Museum"
+snippet: "Vast collection spanning prehistory to the Soviet era"
+tags:
+  - things_to_do
+  - museum
 latitude: 48.4644
 longitude: 35.0478
 ---

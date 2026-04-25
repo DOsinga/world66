@@ -1,6 +1,8 @@
 ---
 title: "Jolly Hall Beach"
 type: poi
+snippet: "Shallow, shaded family beach on Great Exuma's west side"
+tags: [things_to_do, beach, nature, family]
 latitude: 23.5200
 longitude: -75.7950
 ---

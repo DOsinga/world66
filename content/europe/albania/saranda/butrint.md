@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.7458
 longitude: 20.0203
+snippet: UNESCO ancient city with Greek, Roman, Byzantine and Venetian remains
 story: Virgil writes in the Aeneid that Butrint was founded by refugees from Troy.
   Archaeology has found nothing Trojan, but the Greek amphitheatre, Roman forum, 6th-century
   baptistery, and Venetian triangle fortress all make the layered case for Virgil's

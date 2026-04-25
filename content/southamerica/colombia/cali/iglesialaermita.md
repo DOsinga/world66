@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 3.4546
 longitude: -76.5326
+snippet: Neo-Gothic riverbank church modelled on Cologne Cathedral
 tags:
 - things_to_do
 - architecture

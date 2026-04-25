@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 15.3352
 longitude: 76.4601
+snippet: Hampi's living Shiva temple, active since the 7th century, elephant blessed.
 tags:
 - things_to_do
 - landmark

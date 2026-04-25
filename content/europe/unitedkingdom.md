@@ -9,6 +9,11 @@ image_license: CC BY 2.0
 image_attribution: Andrew Colin
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "68 million"
+  Driving Side: Left
+  Pubs: "~40,000 across the country"
+  Countries Within a Country: "4 (England, Scotland, Wales, N. Ireland)"
 score: 0.42
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Majorelle Garden"
 type: poi
+snippet: "Vivid blue botanical garden restored by Yves Saint Laurent"
 category: "Sight"
 address: "Rue Yacoub el Mansour"
 latitude: 31.641667

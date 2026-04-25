@@ -3,6 +3,7 @@ address: 3950 South Las Vegas Boulevard, Mandalay Bay Resort & Casino
 latitude: 36.092338
 longitude: -115.174819
 phone: 702-632-7403
+snippet: Upscale Mexican by the Two Hot Tamales chefs
 tags:
 - eating_out
 - restaurant

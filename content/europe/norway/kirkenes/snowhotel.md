@@ -1,8 +1,8 @@
 ---
 title: "Kirkenes Snow Hotel"
 type: poi
+snippet: Hotel rebuilt from lake ice each winter, open December to April
 tags: [things_to_do, sight]
-url: "www.snowhotelkirkenes.com"
 latitude: 69.7406
 longitude: 29.9853
 ---

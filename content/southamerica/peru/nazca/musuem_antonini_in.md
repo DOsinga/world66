@@ -3,6 +3,7 @@ address: Av. De la Cultura 600
 latitude: -14.8254
 longitude: -74.9292
 phone: 0051 56 523100
+snippet: Nazca's main archaeology museum with mummies, ceramics, and a real aqueduct
 tags:
 - things_to_do
 - museum

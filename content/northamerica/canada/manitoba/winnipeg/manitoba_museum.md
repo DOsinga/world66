@@ -2,6 +2,7 @@
 address: 190 Rupert Avenue
 latitude: 49.9004
 longitude: -97.1389
+snippet: Provincial history museum with a full-sized 17th-century ketch replica
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.9762
 longitude: 11.3322
+snippet: Goethe-designed riverside park through the heart of Weimar
 tags:
 - things_to_do
 - sight

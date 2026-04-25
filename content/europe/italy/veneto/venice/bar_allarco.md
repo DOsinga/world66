@@ -1,8 +1,11 @@
 ---
 address: Calle dell'Ochialer, San Polo 436, 30125 Venice
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.439
 longitude: 12.3348
 opening_hours: Mon–Sat 08:00–14:30; closed Sun
+snippet: Tiny Rialto bacaro famous for its baccalà mantecato cicchetti
 tags:
 - 48 Hours in Venice
 - bars_and_cafes

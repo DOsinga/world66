@@ -2,6 +2,7 @@
 address: Jalan Dusun Raja, Lot 346
 latitude: 6.1265
 longitude: 102.241
+snippet: Swiss-run wood-fired pizza in the heart of Kelantan
 tags:
 - eating_out
 title: Pizzeria Traudi

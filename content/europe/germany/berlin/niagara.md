@@ -3,6 +3,7 @@ address: Gneisenaustr. 58
 connections: U Südstern
 latitude: 52.489864
 longitude: 13.404289
+snippet: Kreuzberg cult pub for musicians with live weekend concerts
 tags:
 - bars_and_cafes
 - kreuzberg

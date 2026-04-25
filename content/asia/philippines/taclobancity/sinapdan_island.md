@@ -1,8 +1,11 @@
 ---
 address: Sinapdan Island, San Juanico Strait, off Tacloban City
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 11.2711
 longitude: 124.9813
 phone: '+639296716015'
+snippet: Tiny strait island with clear water and San Juanico Bridge views
 tags:
 - beaches
 title: Sinapdan Island

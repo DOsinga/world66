@@ -4,6 +4,7 @@ type: poi
 category: Sight
 latitude: 29.4362
 longitude: 48.3375
+snippet: "Hellenistic temple ruins from Alexander's Persian Gulf outpost"
 story: >
   When Alexander the Great's fleet explored the Persian Gulf around 325 BC, his admiral Nearchus named this island Ikaros after an Aegean island of similar shape. Alexander reportedly ordered the establishment of a garrison and a sanctuary to Artemis here — making it one of the easternmost outposts of Hellenistic civilization ever found.
 ---

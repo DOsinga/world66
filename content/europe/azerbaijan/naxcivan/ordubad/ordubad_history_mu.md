@@ -1,7 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.9063
 longitude: 46.0229
-tags: [things_to_do, museum]
+snippet: Regional history museum housed in a former mosque
+tags:
+- things_to_do
+- museum
 title: Ordubad History Museum
 type: poi
 ---

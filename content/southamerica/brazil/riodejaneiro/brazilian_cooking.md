@@ -2,9 +2,10 @@
 address: Rua Ronald de Carvalho 154, Copacabana
 latitude: -22.964274
 longitude: -43.17728
+snippet: "Hands-on classes in moqueca, caipirinhas, and brigadeiros for small groups"
 tags:
+- eating_out
 - things_to_do
-- theatre
 title: Brazilian Cooking Classes
 type: poi
 ---

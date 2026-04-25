@@ -2,7 +2,9 @@
 category: Square
 latitude: 52.4024
 longitude: 4.8999
+snippet: "Former shipyard turned sprawling arts and festival complex"
 tags:
+- things_to_do
 - ndsm
 title: NDSM Plein
 type: poi

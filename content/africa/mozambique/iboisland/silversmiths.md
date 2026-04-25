@@ -1,6 +1,7 @@
 ---
 latitude: -12.3452
 longitude: 40.6005
+snippet: Traditional filigree silver jewellery workshops
 tags:
 - things_to_do
 - sight

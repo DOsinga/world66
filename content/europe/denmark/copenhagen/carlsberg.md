@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Carlsberg
+snippet: "Historic 1847 brewery with world's largest bottle collection"
 type: poi
 ---
 

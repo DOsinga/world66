@@ -1,6 +1,7 @@
 ---
 latitude: 34.710932
 longitude: 135.580695
+snippet: Large park with Japan's biggest greenhouse complex
 tags:
 - things_to_do
 title: Tsurumi Ryokuchi Park

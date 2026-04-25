@@ -2,6 +2,7 @@
 title: "Jade Buddha Temple"
 type: poi
 category: "Sight"
+snippet: "Active monastery housing two exquisite Burmese jade Buddhas"
 address: "170 Anyuan Road, Putuo District"
 opening_hours: "8 am – 4:30 pm, daily"
 latitude: 31.2461

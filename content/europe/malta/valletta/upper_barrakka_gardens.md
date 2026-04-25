@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.8955
 longitude: 14.5076
+snippet: Valletta's iconic terrace with panoramic Grand Harbour views
 story: The gardens were originally built as a private recreation area for the Italian
   Knights of the Order of St John in the 16th century. The Saluting Battery below
   fires a cannon at noon every day — a tradition that was observed by the Royal Navy

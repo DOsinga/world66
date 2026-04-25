@@ -3,6 +3,7 @@ address: 151 Third St
 latitude: 37.7857
 longitude: -122.4011
 phone: (415) 357-4000
+snippet: One of the US's largest modern art museums, greatly expanded in 2016
 tags:
 - things_to_do
 - museum

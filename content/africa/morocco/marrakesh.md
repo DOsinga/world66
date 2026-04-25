@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-21'
 image: marrakesh.jpg
 image_attribution: Petar Milošević
 image_license: CC BY-SA 4.0

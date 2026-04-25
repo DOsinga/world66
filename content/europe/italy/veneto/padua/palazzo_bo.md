@@ -2,6 +2,7 @@
 address: Via VIII Febbraio 2
 latitude: 45.4069
 longitude: 11.8783
+snippet: "Medieval university with the world's oldest anatomical theatre, built 1594"
 tags:
 - things_to_do
 - sight

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 20.6738
 longitude: -103.342
+snippet: Neoclassical theatre with Dante ceiling fresco and folklorico shows
 tags:
 - things_to_do
 - architecture

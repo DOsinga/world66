@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.049
 longitude: 74.3921
+snippet: One of the world's highest cable cars, views to Nanga Parbat
 tags:
 - things_to_do
 - landmark

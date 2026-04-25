@@ -1,9 +1,12 @@
 ---
 address: Rue de Rivoli, 75001 Paris
 admission: €22; free first Fri of the month 6–9:45pm for under-26s
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.861147
 longitude: 2.338028
 opening_hours: Mon, Thu, Sat–Sun 9am–6pm; Wed, Fri 9am–9:45pm; closed Tue
+snippet: The world's largest and most visited art museum
 tags:
 - things_to_do
 title: Louvre Museum

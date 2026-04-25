@@ -3,6 +3,7 @@ address: Calle 17, Avenida 1–2, San José
 latitude: 9.9329
 longitude: -84.075
 opening_hours: Mon–Sat 8:30–16:30, Sun 9:00–16:30
+snippet: Costa Rican history in a bullet-scarred colonial fortress
 tags:
 - things_to_do
 - museum

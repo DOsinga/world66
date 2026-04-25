@@ -1,15 +1,18 @@
 ---
-title: "Harvest Coffee & Book"
-type: poi
-tags:
-  - bars_and_cafes
-  - cafe
-address: "191 Ying Shui Dao Hua Yuan Jiu Hua Li, Nankai Dist"
-phone: "(86-22)2373-3461"
+address: 191 Ying Shui Dao Hua Yuan Jiu Hua Li, Nankai Dist
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 39.1255
 longitude: 117.1488
+phone: (86-22)2373-3461
+snippet: Smoke-free café and bookshop in Nankai with expat crowd
+tags:
+- bars_and_cafes
+- cafe
+title: Harvest Coffee & Book
+type: poi
 ---
 
-Harvest Coffee is a great little SMOKE FREE coffee shop in the Hua Yuan Residential Area in Nankai District. Beautiful cozy little shop that serves up great coffee, smoothies, Belgian Waffles with strawberries and even Chicken Burritos! Staff speaks English and menu is in both English and Chinese. Fridays are billed as "College Night" and the shop gets packed with local Chinese college students and Expats. Often Friday nights also include free Chinese calligraphy lessons or other classes in the "Culture Corner". Harvest is also a book store! While the selection isn't very large there are a number of hard to find books in English as well as some titles in Korean and Chinese. A wonderful neighborhood Coffee Shop with an International Atmosphere
+A smoke-free coffee shop and small bookstore in Nankai District's Hua Yuan residential area. The menu covers coffee, smoothies, Belgian waffles, and even chicken burritos. Staff speaks English and the menu is bilingual.
 
-Don't miss the Saturday Breakfast Special which includes a Jumbo Belgian Waffle with Strawberry Sauce and whipped cream!
+Friday nights draw a mix of local college students and expats, sometimes with free Chinese calligraphy lessons or other classes in the "Culture Corner." The bookshop side stocks a small but useful selection of English-language titles alongside some Korean and Chinese books.

@@ -1,7 +1,10 @@
 ---
 address: 1 Rue des Halles, Ajaccio
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.9197
 longitude: 8.736
+snippet: Corsican classics near the market with a good wine list
 tags:
 - eating_out
 title: Le Bilboq

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 20.641
 longitude: -103.314
+snippet: Guadalajara's artisan quarter with blown glass and ceramics
 tags:
 - things_to_do
 - neighbourhood

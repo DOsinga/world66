@@ -4,6 +4,7 @@ longitude: 79.837
 tags:
 - things_to_do
 - neighbourhood
+snippet: "Colonial-era waterway perfect for cycling or boating"
 title: Dutch Canal
 type: poi
 ---

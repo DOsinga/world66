@@ -4,6 +4,7 @@ latitude: 22.3094
 longitude: 73.1731
 tags:
 - eating_out
+snippet: "Live grill-at-your-table chain restaurant with buffet"
 title: Barbeque Nation
 type: poi
 ---

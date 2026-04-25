@@ -1,6 +1,7 @@
 ---
 title: "Myrnaki Greek-Filipino Restaurant"
 type: poi
+snippet: Greek-Filipino fusion in a nipa hut at bargain prices
 tags:
   - eating_out
   - restaurant

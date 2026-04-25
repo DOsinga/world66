@@ -1,7 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 27.051105
 longitude: 88.258533
 opening_hours: 8:00-17:00, closed Monday and during monsoon
+snippet: Oldest working tea garden near Darjeeling, factory tours
 tags:
 - things_to_do
 title: Happy Valley Tea Estate

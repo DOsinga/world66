@@ -1,9 +1,12 @@
 ---
 address: Königin-Luise-Str. 49, Dahlem
 category: Museum
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.459421
 longitude: 13.289041
 phone: +49 30 8325000
+snippet: Working farm estate and open-air agriculture museum
 tags:
 - things_to_do
 - museum

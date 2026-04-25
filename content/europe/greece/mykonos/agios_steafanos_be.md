@@ -1,6 +1,7 @@
 ---
 latitude: 37.46
 longitude: 25.322
+snippet: Calm, sheltered family beach north of town
 tags:
 - beaches
 title: Agios Stefanos Beach

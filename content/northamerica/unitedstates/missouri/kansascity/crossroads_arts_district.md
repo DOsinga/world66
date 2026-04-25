@@ -1,6 +1,7 @@
 ---
 latitude: 39.0897
 longitude: -94.587
+snippet: Kansas City's creative warehouse district with monthly First Fridays
 tags:
 - things_to_do
 - neighbourhood

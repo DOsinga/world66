@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-21'
+image: palmsprings.jpg
+image_attribution: Patrick Pelster
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Palm_Springs_CA.JPG
 latitude: 33.8245
 longitude: -116.5403
 score: 0.61
 title: Palm Springs
 type: location
-image: palmsprings.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Downtown_Palm_Springs_CA.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Patrick Pelster
 ---
 
 Palm Springs sits in the Coachella Valley at the foot of the San Jacinto Mountains — a desert resort city that has drawn visitors since the early 20th century with its reliable sunshine, natural hot springs, and dramatic mountain backdrop. It became a Hollywood playground in the mid-century era, and the legacy shows: the city has one of the finest concentrations of mid-century modern architecture in the United States, from the Kaufmann Desert House to the rows of steel-and-glass estates that line the residential streets.

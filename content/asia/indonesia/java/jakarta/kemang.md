@@ -1,9 +1,11 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.2607
 longitude: 106.8136
+snippet: South Jakarta's expat neighbourhood with bars, live music, and restaurants
 tags:
 - things_to_do
-- museum
 - restaurant
 - neighbourhood
 title: Kemang

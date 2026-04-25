@@ -2,6 +2,7 @@
 address: Place François Sicard
 latitude: 47.3948
 longitude: 0.6934
+snippet: Gothic cathedral with exceptional medieval stained glass
 tags:
 - things_to_do
 - landmark

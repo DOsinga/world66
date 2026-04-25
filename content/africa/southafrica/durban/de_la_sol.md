@@ -3,6 +3,7 @@ address: 258 Florida Road, Morningside
 latitude: -29.8281
 longitude: 31.0106
 phone: +27 31 312 9436
+snippet: Cocktail bar and late-night spot on Florida Road
 tags:
 - bars_and_cafes
 title: De La Sol

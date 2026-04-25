@@ -1,7 +1,10 @@
 ---
 title: "Haus Wahnfried (Richard Wagner Museum)"
 type: poi
-category: Museum
+snippet: "Wagner's villa turned museum with his garden grave"
+tags:
+  - things_to_do
+  - museums
 latitude: 49.9457
 longitude: 11.5700
 ---

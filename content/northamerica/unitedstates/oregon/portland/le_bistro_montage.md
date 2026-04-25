@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.5156
 longitude: -122.6623
+snippet: Late-night Cajun joint under the Morrison Bridge with legendary mac and cheese
 tags:
 - eating_out
 - restaurant

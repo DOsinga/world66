@@ -1,6 +1,7 @@
 ---
 latitude: 19.3496
 longitude: -99.1622
+snippet: "Colonial village neighbourhood, home of Frida Kahlo's Casa Azul"
 tags:
 - things_to_do
 - neighbourhood

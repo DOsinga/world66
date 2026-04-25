@@ -3,6 +3,7 @@ address: Pasantería, 10, Pontevedra
 latitude: 42.432372
 longitude: -8.64333
 phone: (986) 851455
+snippet: Outstanding provincial museum spanning art and archaeology
 tags:
 - things_to_do
 - landmark

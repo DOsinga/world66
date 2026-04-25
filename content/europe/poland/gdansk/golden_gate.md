@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 54.3492
 longitude: 18.6488
+snippet: Renaissance gateway adorned with allegorical figures marking Gdansk's Royal
+  Way
 tags:
 - things_to_do
 - architecture

@@ -1,23 +1,16 @@
 ---
-category: Museum
-latitude: 44.215926
-longitude: 2.985908
+latitude: 43.6114
+longitude: 3.8803
+snippet: "Major French art collection from Delacroix to Soulages"
+tags:
+- things_to_do
+- museum
 title: Fabre Museum
 type: poi
 ---
 
-You acceed to it through the inner courtyard of the former Jesuit college. Created by Montpellier 
- painter François Xavier Fabre in 1825, it is now one of France's most famous museums. It houses 
- Flemish, Dutch, Italian, Spanish and French collections, featuring works from painters of the main 
- Western European schools of painting of the 16th and 18th centuries (Zurbaran, Reynolds, Tenier, 
- Véronèse...) as well as from many famous French painters (Greuze, Ingres, Delacroix, Courbet, 
- Bazille,...). You will also find find ceramics, scuptures and contemporary paintings. 
+One of France's most important art museums outside Paris, founded in 1825 by the Montpellier-born painter François-Xavier Fabre. The collection spans European painting from the 16th century to the present, with notable works by Zurbaran, Reynolds, Veronese, Greuze, Ingres, Delacroix, and Courbet. A highlight is the extensive collection of paintings by Frédéric Bazille, the Impressionist born in Montpellier who died young in the Franco-Prussian War.
 
+The museum underwent a major renovation completed in 2007, which added a contemporary wing devoted to Pierre Soulages, whose monumental black paintings fill several rooms. The building itself is worth seeing — part 17th-century Jesuit college, part sleek modern extension.
 
- Location : Boulevard Sarrail 
-
-Tel : (33) 04 67 14 83 00 
-
-Opening Hours : From Tuesday to Friday from 9:00 to 17:30. Saturdays and Sundays from 9:30 to 
- 17:00. Closed : Mondays, May 1, November 11, December 12, and January 1st 
- plus August 15 and July 14 depending on the year.
+Located on Boulevard Sarrail at the edge of the Esplanade Charles-de-Gaulle. Open Tuesday to Sunday; closed Mondays and major holidays.

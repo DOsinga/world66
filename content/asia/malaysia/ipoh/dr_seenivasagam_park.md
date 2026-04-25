@@ -1,10 +1,14 @@
 ---
 address: Jalan Raja Musa Aziz
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 4.6024
 longitude: 101.0832
+snippet: City park with one of the last surviving ipoh trees
 tags:
 - things_to_do
 - landmark
+- story
 title: D. R. Seenivasagam Park
 type: poi
 ---

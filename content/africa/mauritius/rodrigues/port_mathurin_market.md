@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -19.6681
 longitude: 63.4228
+snippet: Authentic Saturday market with local produce and dried octopus
 tags:
 - things_to_do
 - sight

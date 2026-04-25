@@ -1,9 +1,12 @@
 ---
 address: Via Sacra, 00186 Rome
 admission: Included in Colosseum combined ticket
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8892
 longitude: 12.4875
 opening_hours: Daily from 09:00; closing varies by season (17:00–19:30)
+snippet: Legendary founding hill of Rome with imperial palace ruins
 tags:
 - 3 Days in Rome
 - things_to_do

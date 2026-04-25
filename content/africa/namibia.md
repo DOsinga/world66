@@ -7,6 +7,11 @@ image: namibia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Robbenkolonie_Sklelettküste_anagoria.JPG
 image_license: CC BY 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Anagoria" title="User:Anagoria">Anagoria</a>
+quick_facts:
+  Population: "2.6 million"
+  Drives On: Left
+  Cheetahs: "Largest population on Earth"
+  Population Density: "3 people per km²"
 done:
   country_cleanup: 2026-03-29
 score: 0.69

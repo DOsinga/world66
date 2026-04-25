@@ -2,6 +2,7 @@
 title: "Puijo Tower"
 type: poi
 tags: [things_to_do, observation_tower, viewpoint]
+snippet: Revolving restaurant with panoramic lake district views
 latitude: 62.9094
 longitude: 27.6553
 ---

@@ -1,25 +1,15 @@
 ---
 address: Poelestraat 20
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.218381
 longitude: 6.570037
 phone: 050-3604905
+snippet: Latin-themed bar on Poelestraat popular with international students
 tags:
 - bars_and_cafes
 title: Rumba
 type: poi
 ---
 
-When you visit Groningen, you should check* Rumba* in the Poelestraat 20, known for it's latin music(2 CDs played non stop- always the same), cocktails(cheep beer witout taste- after 4th it starts to be funny) and beautifull and trendy people( international students that came to meet other international students, and if they didnt came very drunk already then they are hearing music, tasting drink and regreting that they didn't get drunk before- amaizingly boring).
-
-**Contributors**
-June 02, 2005
-
-June 03, 2005
-
-
-
-
-
-tel: 050-3604905
-
-address: Poelestraat 20
+Rumba is a Latin-themed bar on the Poelestraat, one of Groningen's main nightlife streets. It draws a young, international crowd — the city's large student population gives it a reliably lively atmosphere most evenings. Expect loud music, cocktails, and a busy dance floor as the night goes on.

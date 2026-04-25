@@ -1,6 +1,7 @@
 ---
 latitude: 42.4246
 longitude: 18.7712
+snippet: Kotor's seafaring heritage in a baroque palace
 tags:
 - things_to_do
 - museum

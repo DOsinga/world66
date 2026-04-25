@@ -2,6 +2,7 @@
 address: Agias Sofias Square, Thessaloniki
 latitude: 40.6334
 longitude: 22.9462
+snippet: 8th-century Byzantine church with stunning dome mosaics
 tags:
 - things_to_do
 - landmark

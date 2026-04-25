@@ -4,6 +4,7 @@ admission: €16–€22; combined ticket with Roman Forum and Palatine Hill; bo
 latitude: 41.8902
 longitude: 12.4922
 opening_hours: Daily from 09:00; closing varies by season (17:00–19:30)
+snippet: "Ancient Rome's 50,000-seat amphitheatre, the largest ever built"
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

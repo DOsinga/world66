@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -6.1953
 longitude: 106.8326
+snippet: Leafy colonial neighbourhood with embassies and cafes
 tags:
 - things_to_do
 - park

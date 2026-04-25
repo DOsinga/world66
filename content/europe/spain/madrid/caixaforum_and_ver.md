@@ -2,31 +2,14 @@
 address: Paseo del Prado, 36
 latitude: 40.41114
 longitude: -3.693568
-opening_hours: 10 am-8 pm
-phone: +34 91 330 7300
+snippet: "Free cultural centre with a five-storey vertical garden"
 tags:
 - things_to_do
 - architecture
 title: CaixaForum and Vertical Garden
 type: poi
-url: www.esmadrid.com
 ---
 
-The CaixaForum (sic) is a free cultural centre. It has no permanent exhibitions but two floors consist of very large halls for trmporary exhibitons and there is a fine auditorium for concerts and theatrical ventures.
+CaixaForum Madrid is a free cultural centre housed in a striking converted power station on Paseo del Prado. The building appears to float above street level, with its brick facade cantilevered over an open ground floor. Inside, two floors of large exhibition halls host rotating temporary shows -- the programming is consistently strong and always free.
 
-There is a wall five storeys high adjacent to it that exhibits a vertical garden by Patrick Blanc containing 15,000 plants of 250 different species.
-
-**Contributors**
-November 01, 2009
-
-type: Public Buildings
-
-
-
-tel: +34 91 330 7300
-
-openingHours: 10 am-8 pm
-
-url: [www.esmadrid.com](http://www.esmadrid.com/en/portal.do?TR=C&IDR=641)
-
-address: Paseo del Prado, 36
+Next to the building, a five-storey vertical garden designed by Patrick Blanc covers an entire wall with 15,000 plants of 250 species. It is one of the most photographed spots on the Paseo del Arte. There is also a fine auditorium hosting concerts and lectures.

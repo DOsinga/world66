@@ -1,7 +1,10 @@
 ---
-title: "Inle Lake Boat Tour"
+title: Inle Lake Boat Tour
 type: poi
-tags: [things_to_do, poi]
+snippet: Full-day boat circuit past floating markets, stilt villages, and one-legged fishermen
+tags:
+- things_to_do
+- outdoor_activity
 latitude: 20.5500
 longitude: 96.9000
 ---

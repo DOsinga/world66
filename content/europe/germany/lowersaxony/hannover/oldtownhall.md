@@ -1,7 +1,10 @@
 ---
 title: "Old Town Hall"
 type: poi
-category: "Architecture"
+tags:
+  - things_to_do
+  - sight
+snippet: "Brick-Gothic survivor from 1410, saved from demolition by a citizens' campaign"
 address: "Kobelingerstrasse, 30159 Hannover"
 latitude: 52.371037
 longitude: 9.735841

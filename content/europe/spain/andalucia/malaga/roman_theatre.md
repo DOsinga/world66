@@ -5,6 +5,7 @@ longitude: -4.4163
 tags:
 - things_to_do
 - landmark
+snippet: "1st-century BC theatre rediscovered beneath the Alcazaba"
 title: Roman Theatre
 type: poi
 ---

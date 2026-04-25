@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -19.7356
 longitude: 63.5072
+snippet: Secluded crescent beach with turquoise water and good snorkelling
 tags:
 - beaches
 - sight

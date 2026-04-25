@@ -1,6 +1,7 @@
 ---
 latitude: 51.2752
 longitude: 0.5207
+snippet: "Free county museum in an Elizabethan manor with an Egyptian mummy"
 tags:
 - things_to_do
 - museum

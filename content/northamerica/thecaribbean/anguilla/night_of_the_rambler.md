@@ -1,6 +1,9 @@
 ---
 author: Montague Kobbe
+done:
+  poi_cleanup: '2026-04-21'
 isbn: 978-1617751578
+snippet: Novel about Anguilla's 1967 revolution against Kittitian rule
 tags:
 - books
 title: Night of the Rambler

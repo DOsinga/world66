@@ -1,6 +1,7 @@
 ---
 latitude: 48.293
 longitude: 24.556
+snippet: 18th-century Hutsul wooden church with three cupolas
 tags:
 - things_to_do
 - church

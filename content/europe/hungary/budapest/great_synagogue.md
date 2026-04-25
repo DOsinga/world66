@@ -10,6 +10,7 @@ tags:
 - monument
 title: Great Synagogue
 type: poi
+snippet: "Europe's largest synagogue with Holocaust memorial garden"
 url: www.dohanystreetsynagogue.hu
 ---
 

@@ -1,13 +1,18 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-21'
+  poi_cleanup: '2026-04-19'
 image: italy.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jebulon" title="User:Jebulon">Jebulon</a>
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Vue_des_toits_depuis_la_Sainte-Trinité-des-Monts,_Rome,_Italy.jpg
 latitude: 42.638426
 longitude: 12.674297
+quick_facts:
+  Population: "59 million"
+  Currency: Euro (€)
+  UNESCO Sites: "59 — most of any country"
+  Pasta Shapes: "Over 350 named varieties"
 score: 0.9
 title: Italy
 type: location

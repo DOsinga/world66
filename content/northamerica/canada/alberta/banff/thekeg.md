@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 51.1762
 longitude: -115.5712
+snippet: "Lodge-style steakhouse bar with fireplaces and mountain vibes"
 tags:
 - bars_and_cafes
 - bar

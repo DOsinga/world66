@@ -1,26 +1,13 @@
 ---
-address: 3841 NE 2nd Avenue
-latitude: 25.812658
-longitude: -80.191188
-phone: 305-531-8700
+address: NE 2nd Avenue at NE 40th Street
+latitude: 25.8167
+longitude: -80.2
 tags:
 - shopping
+- gallery
+- architecture
 title: Miami Design District
-type: Speciality shops
-url: www.miamidesigndistrict.net
+type: poi
 ---
 
-One of the great things about the Miami Design District is that you can walk in thinking you've seen it all and walk out realizing you haven't even seen half of it. The fashions, furnishings, art, and lighting that you will view at the Miami Design District will literally blow you away, so be prepared. The Miami Design District features 200 showrooms and galleries to explore as well as a number of establishments ranging from Ethiopian restaurants and French bistros to trendy lounges and hip restaurant/bars.
-
-**Contributors**
-June 01, 2008
-
-type: Speciality shops
-
-
-
-tel: 305-531-8700
-
-url: [www.miamidesigndistrict.net](http://www.miamidesigndistrict.net)
-
-address: 3841 NE 2nd Avenue
+What was once a pineapple-packing neighbourhood is now an open-air luxury shopping and art district. The Design District is home to flagship stores for Louis Vuitton, Prada, Dior, and dozens more, interspersed with galleries, public art installations, and restaurants. The Institute of Contemporary Art (ICA Miami), free to enter, anchors the cultural side. The architecture itself is part of the attraction — buildings by Sou Fujimoto, Aranda/Lasch, and others make this worth wandering even if you are not shopping.

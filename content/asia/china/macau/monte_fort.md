@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.1976
 longitude: 113.5423
+snippet: 17th-century fort above São Paulo ruins with city views
 tags:
 - things_to_do
 - landmark

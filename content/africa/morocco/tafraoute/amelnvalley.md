@@ -1,6 +1,7 @@
 ---
 latitude: 29.735
 longitude: -8.92
+snippet: Scenic Berber valley with 26 villages amid granite boulders
 tags:
 - things_to_do
 - sight

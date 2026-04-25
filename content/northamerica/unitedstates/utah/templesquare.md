@@ -4,6 +4,11 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 40.7704
 longitude: -111.8925
+snippet: Heart of Salt Lake City and the Mormon faith
+tags:
+- things_to_do
+- landmark
+- sights
 title: Temple Square
 type: poi
 ---

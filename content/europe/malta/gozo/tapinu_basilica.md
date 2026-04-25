@@ -2,6 +2,7 @@
 address: Triq Ta' Pinu, Gharb, Gozo
 latitude: 36.0619
 longitude: 14.2149
+snippet: "Malta's foremost pilgrimage church, built after a reported apparition"
 tags:
 - things_to_do
 - sight

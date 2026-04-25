@@ -1,6 +1,7 @@
 ---
 latitude: 29.9753
 longitude: 31.1376
+snippet: Ancient limestone sphinx with a lion body and pharaoh head
 tags:
 - things_to_do
 - landmark

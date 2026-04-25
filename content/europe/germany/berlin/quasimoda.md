@@ -1,38 +1,15 @@
 ---
-address: Hackescher Markt.
-connections: U Weinmeisterstr.
+address: Hackescher Markt, Fountain Courtyard
 latitude: 52.522681
 longitude: 13.402342
-opening_hours: Mo-Fr 11am -8pm, Sa 11am -5pm
+opening_hours: Mon-Fri 11am-8pm, Sat 11am-5pm
 tags:
 - shopping
+- fashion
 - berlinmitte
 title: quasi moda
 type: poi
+snippet: "Avant-garde women's fashion at Hackescher Markt"
 ---
 
-Avant-garde Berlin fashions for women in the Fountain Courtyard in the Hackescher Markt.
-
-type: Fashion
-
-
-
-
-
-connections: U Weinmeisterstr.
-
-openings: Mo-Fr 11am -8pm, Sa 11am -5pm
-
-address: Hackescher Markt.
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A small boutique in the Fountain Courtyard at Hackescher Markt selling avant-garde Berlin fashions for women. The kind of place where the designs are bold enough that you'll know immediately whether it's your thing or not.

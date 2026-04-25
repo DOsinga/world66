@@ -3,18 +3,14 @@ address: Via delle Ghiaie 3, Valbrembo, Bergamo
 latitude: 45.7245
 longitude: 9.6412
 phone: 035 528093
+snippet: "Gliding school and aeroclub with scenic flights over Bergamo"
 tags:
 - things_to_do
-- restaurant
-- club
 title: Volo a Vela Aeroclub
 type: poi
 url: www.ava-valbrembo.it
 ---
 
-This is the airport and club for gliding airplanes and a school for an International and Italian Gliding Pilot License. The clubhouse has a swimming pool, tennis courts, dressing rooms with showers, bar, restaurant, a children's play area, aeronautic video library, weather satellite, television and general lounge.
+A gliding aeroclub in Valbrembo, just north of Bergamo, offering introductory flights and courses for both Italian and international glider pilot licences. The club operates from a small grass airfield with views toward the Orobie Alps -- on a clear day, the panorama from a glider is spectacular.
 
-**Contributors**
-July 04, 2006
-
-type: Other
+The clubhouse has a pool, tennis courts, a bar and restaurant, making it a pleasant spot even if you're just watching the gliders come and go.

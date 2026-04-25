@@ -4,6 +4,7 @@ latitude: 22.278
 longitude: 114.1653
 tags:
 - shopping
+snippet: "Upmarket Admiralty mall with Lane Crawford and luxury brands"
 title: Pacific Place
 type: poi
 ---

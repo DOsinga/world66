@@ -1,11 +1,10 @@
 ---
 title: "Mountaineering"
 type: poi
+snippet: "Tirich Mir and the Hindu Kush peaks above Chitral"
 tags:
   - things_to_do
-  - mountaineering
   - outdoor_activity
-  - mountain
 latitude: 35.8509
 longitude: 71.7902
 ---

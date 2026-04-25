@@ -1,0 +1,17 @@
+/europe/netherlands/hellevoetsluis
+/europe/netherlands/hengelo
+/europe/netherlands/tjuchum
+/europe/norway/lofotenislands/skomvr
+/europe/norway/northcape/skarsvg_the_nort
+/europe/portugal/algarve/odelouca
+/europe/portugal/valena_do_minho
+/europe/romania/otopeni
+/europe/russia/belgorod_1
+/europe/spain/andalucia/arroyodelamiel
+/europe/spain/andalucia/zufre
+/europe/spain/catalonia/reus
+/europe/spain/northernspain/lacorua
+/europe/sweden/karesuando
+/europe/switzerland/schiers
+/europe/unitedkingdom/england/birmingham_and_wes/worcester
+/europe/unitedkingdom/england/bristol_plymouth/stonehenge

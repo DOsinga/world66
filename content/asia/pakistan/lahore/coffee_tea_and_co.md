@@ -1,7 +1,9 @@
 ---
-title: "Coffee, Tea and Company"
+address: Hussain Chowk Gulberg III, Lahore
+done:
+  poi_cleanup: '2026-04-20'
+title: Coffee, Tea and Company
 type: poi
-address: "Hussain Chowk Gulberg III, Lahore"
 ---
 
 Best known for its sandwiches

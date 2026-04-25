@@ -1,10 +1,12 @@
 ---
 address: 120 Central Ave SW, Albuquerque, NM
 latitude: 35.0841
-longitude: -106.649
+longitude: -106.6490
 phone: (505) 764-0249
+snippet: Intimate historic venue for live music on Central Ave
 tags:
-- bars_and_cafes
+- things_to_do
+- nightlife
 title: Sunshine Theatre
 type: poi
 ---

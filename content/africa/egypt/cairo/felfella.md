@@ -2,6 +2,7 @@
 address: 15 Hoda Shaarawy St, Downtown Cairo
 latitude: 30.044722
 longitude: 31.2375
+snippet: "Beloved Downtown Cairo institution for cheap Egyptian classics"
 tags:
 - eating_out
 - restaurant

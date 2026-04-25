@@ -1,0 +1,17 @@
+/africa/angola/lubango
+/africa/ivorycoast/tainationalpark
+/africa/kenya/lakes/lakeelmenteita
+/africa/libya/al_khums
+/africa/mali/dogoncountry/bankas
+/africa/mauritania/amogar
+/africa/mauritius/chamarel
+/africa/mauritius/moka
+/africa/mauritius/montchoisi
+/africa/morocco/errachidia
+/africa/nigeria/yola/hong
+/africa/nigeria/yola/mubi
+/africa/tunisia/sidibousaid
+/asia/brunei/seria
+/asia/india/andhrapradesh/nizamabad
+/asia/india/andhrapradesh/ramadugu
+/asia/india/andhrapradesh/visakhapatnam

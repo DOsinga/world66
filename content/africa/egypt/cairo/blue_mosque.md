@@ -1,10 +1,13 @@
 ---
-latitude: 30.036158
-longitude: 31.260357
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 30.0362
+longitude: 31.2604
+snippet: tiled Ottoman mosque in the atmospheric medieval quarter of Bab Zuweila
 tags:
 - things_to_do
-- church
-- neighbourhood
+- sight
+- architecture
 title: Blue Mosque
 type: poi
 ---

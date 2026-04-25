@@ -1,9 +1,12 @@
 ---
 address: 58 Quoc Tu Giam, Dong Da
 admission: 30,000 VND
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 21.0294
 longitude: 105.8355
 opening_hours: Daily 08:00–17:00 (winter 08:30–17:00)
+snippet: Vietnam's first university, founded in 1070
 tags:
 - things_to_do
 - landmark

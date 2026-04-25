@@ -1,25 +1,16 @@
 ---
-title: "KB Burgers"
+address: 6-Pounch Road, Islamia Park, Lahore.
+done:
+  poi_cleanup: '2026-04-20'
+email: kbburgers@gmail.com
+latitude: 31.5204
+longitude: 74.3587
+phone: 0423-7594021 0322-4040373
+snippet: Iconic Lahore burger joint serving beef burgers since 1983
+tags:
+- eating_out
+title: KB Burgers
 type: poi
-address: "6-Pounch Road, Islamia Park, Lahore."
-email: "kbburgers@gmail.com"
-phone: "0423-7594021 0322-4040373"
-price: "Rs.: 60/- to Rs.: 180/-"
-type: "Fast food"
 ---
 
-One of the oldest burger shops in Lahore. Since 1983, serving quality beef burgers. Currently serving a verity of chicken burgers and chicken sandwiches. Menu also includes mutton and vegetable burgers.
-
-type: Fast food
-
-
-
-
-
-tel: 0423-7594021 0322-4040373
-
-address: 6-Pounch Road, Islamia Park, Lahore.
-
-PriceOfMenu: Rs.: 60/- to Rs.: 180/-
-
-email: kbburgers@gmail.com
+One of the oldest burger shops in Lahore, serving quality beef burgers since 1983. The menu has expanded over the decades to include chicken burgers, chicken sandwiches, and mutton and vegetable options, but the original beef burger is still the thing to order. Prices are very low even by Lahore standards.

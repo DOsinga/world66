@@ -1,9 +1,13 @@
 ---
 address: The Park Hotel, 17 Park Street, Kolkata 700016
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.553
 longitude: 88.3517
+snippet: Kolkata's best live music pub on Park Street
 tags:
 - bars_and_cafes
+- bar
 title: Someplace Else
 type: poi
 ---

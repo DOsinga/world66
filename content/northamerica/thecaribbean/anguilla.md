@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-19'
 image: anguilla.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161022085958/http://www.panoramio.com/user/6498943?with_photo_id=62739735">onj</a>
 image_license: CC BY 3.0

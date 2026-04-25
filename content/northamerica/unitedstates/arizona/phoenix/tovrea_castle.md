@@ -1,8 +1,11 @@
 ---
 address: 5041 East Van Buren Street Phoenix, AZ 85008
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.451271
 longitude: -112.003104
 phone: +1 602 262 6412
+snippet: Wedding-cake castle rising from a cactus garden
 tags:
 - things_to_do
 - palace

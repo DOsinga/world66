@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.902
 longitude: 4.453
+snippet: historic harbour where the Pilgrim Fathers set sail
 tags:
 - things_to_do
 - neighbourhood

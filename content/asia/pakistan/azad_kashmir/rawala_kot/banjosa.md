@@ -1,6 +1,7 @@
 ---
 latitude: 33.798
 longitude: 73.754
+snippet: Small mountain lake ringed by forest near Rawalakot
 tags:
 - things_to_do
 title: Banjosa Lake

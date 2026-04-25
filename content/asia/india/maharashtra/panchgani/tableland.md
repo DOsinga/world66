@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 17.9206
 longitude: 73.8002
+snippet: Asia's second-largest volcanic plateau with Ghats views
 tags:
 - things_to_do
 - nature

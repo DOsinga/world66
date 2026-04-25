@@ -1,6 +1,7 @@
 ---
 latitude: -22.6758
 longitude: 14.5261
+snippet: German-style pub with schnitzel, sausage, and Namibian lager
 tags:
 - bars_and_cafes
 title: Swakopmund Brauhaus

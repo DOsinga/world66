@@ -1,6 +1,7 @@
 ---
 latitude: 11.2013
 longitude: -74.2248
+snippet: Offshore aquarium and maritime museum reached by motorboat
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,7 @@
 ---
 title: "Bahrain National Museum"
 type: poi
+snippet: "Best introduction to 6,000 years of Dilmun history and pearl diving culture"
 tags:
   - things_to_do
   - museum

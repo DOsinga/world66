@@ -1,7 +1,10 @@
 ---
 title: "Canyon de Chelly National Monument"
 type: poi
-category: "Sight"
+snippet: Navajo canyon with cliff dwellings and guided tours
+tags:
+- things_to_do
+- landmark
 latitude: 36.14335
 longitude: -109.441643
 ---

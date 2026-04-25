@@ -8,6 +8,7 @@ story: 'Eugène Boudin was born in Honfleur just across the Seine estuary and sp
   see exactly why Monet listened.
 
   '
+snippet: "Second-largest Impressionist collection in France, with the world's finest Boudin holdings"
 tags:
 - things_to_do
 - museum

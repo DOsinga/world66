@@ -2,6 +2,7 @@
 address: Vancouver, BC V6G 1Z4
 latitude: 49.3017
 longitude: -123.1417
+snippet: "1,000-acre rainforest park with a world-class seawall walk"
 tags:
 - things_to_do
 - landmark

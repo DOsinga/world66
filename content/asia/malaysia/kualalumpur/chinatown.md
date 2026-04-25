@@ -1,12 +1,14 @@
 ---
-latitude: 5.339062
-longitude: 100.30841
+latitude: 3.1432
+longitude: 101.6975
+snippet: Bustling market streets and hawker stalls centred on Jalan Petaling
 tags:
 - things_to_do
 - neighbourhood
-title: China Town
+title: Chinatown
 type: poi
 ---
 
-Chinatown is located about 300m south-east of Merdeka Square. It is a crowded, active and colourful area. The central section, Jalan Petaling, is a frantically busy market that is closed to traffic. It is most spectacular at night, when the combination of street stalls, food, haggling and bright lights makes impressions on all five senses. 
- You'll find old shophouses selling everything from traditional Chinese herbs and medicines to jewelry and baskets. Fortune tellers, flower sellers, sign painters, haberdashers all display their wares on the pavements.
+Chinatown sits about 300 metres south-east of Merdeka Square, centred on Jalan Petaling — a car-free market street that's at its best after dark, when stalls, food vendors, and bright lights take over. You'll find old shophouses selling Chinese herbs, jewellery, and baskets alongside fortune tellers, flower sellers, and sign painters spreading their wares across the pavements.
+
+Come hungry. The hawker stalls around Jalan Petaling and Jalan Hang Lekir serve some of KL's best street food: hokkien mee, roast duck, and freshly made popiah. The Sri Mahamariamman Temple and the ornate Chan See Shu Yuen clan house are both within easy walking distance.

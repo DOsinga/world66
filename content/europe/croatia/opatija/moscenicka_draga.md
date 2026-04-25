@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.2706
 longitude: 14.2481
+snippet: Sandy bay 13 km south of Opatija, quieter and good for children
 tags:
 - beaches
+- things_to_do
 title: Mošćenička Draga Beach
 type: poi
 ---

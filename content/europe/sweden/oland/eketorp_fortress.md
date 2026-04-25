@@ -1,6 +1,7 @@
 ---
 latitude: 56.3574
 longitude: 16.4685
+snippet: Reconstructed Iron Age ring fort with living-history demonstrations
 story: Eketorp was excavated in the 1960s and 70s, revealing three distinct phases
   of occupation spanning from the 4th to the 11th century. Archaeologists found that
   the innermost ring of houses had been burnt and rebuilt multiple times — evidence

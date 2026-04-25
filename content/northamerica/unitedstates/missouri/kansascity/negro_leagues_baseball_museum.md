@@ -1,7 +1,10 @@
 ---
 address: 1616 E 18th St, Kansas City, MO 64108
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.0942
 longitude: -94.5567
+snippet: Moving tribute to Black baseball history with life-sized bronzes
 tags:
 - things_to_do
 - museum

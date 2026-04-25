@@ -1,8 +1,10 @@
 ---
 latitude: 38.5591
 longitude: 68.7741
+snippet: Dushanbe's bustling central covered market
 tags:
 - things_to_do
+- shopping
 title: Barakat Bazaar
 type: poi
 ---

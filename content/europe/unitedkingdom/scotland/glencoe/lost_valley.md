@@ -1,7 +1,10 @@
 ---
 title: "Lost Valley (Coire Gabhail)"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - hiking
+snippet: "Hidden MacDonalds hideaway valley, a rewarding half-day walk"
 latitude: 56.6724
 longitude: -5.0663
 story: "The MacDonalds used this hidden corrie to conceal cattle rustled from neighbouring clans. The valley floor is flat and invisible from below — a natural hiding place that served them well until it couldn't."

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.4197
 longitude: -116.8124
+snippet: Iconic overlook above golden eroded badlands at sunrise
 story: Michelangelo Antonioni chose this spot for the climactic scene of his 1970
   film *Zabriskie Point*, drawn by the badlands' surreal, lunar quality. The scene
   where the desert villa explodes in slow motion, repeated from a dozen angles, was

@@ -1,6 +1,11 @@
 ---
+address: 2501 Wall Avenue, Ogden, UT 84401
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.223
 longitude: -111.9708
+snippet: Beaux Arts rail depot housing railroad and automotive museums
 tags:
 - things_to_do
 - museum

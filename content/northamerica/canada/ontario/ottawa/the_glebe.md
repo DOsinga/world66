@@ -1,6 +1,7 @@
 ---
 latitude: 45.4017
 longitude: -75.6889
+snippet: "Edwardian neighbourhood along the canal with independent shops."
 tags:
 - things_to_do
 - neighbourhood

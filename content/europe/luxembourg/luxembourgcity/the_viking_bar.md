@@ -1,8 +1,11 @@
 ---
 address: 19, rue de Hollerich
+done:
+  poi_cleanup: '2026-04-20'
 email: info@theviking.lu
 latitude: 49.59823
 longitude: 6.128736
+snippet: Nordic-themed pub popular with expats near the station
 tags:
 - bars_and_cafes
 title: The Viking Bar

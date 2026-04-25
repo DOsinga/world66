@@ -2,6 +2,7 @@
 title: "Le Sentier des Toblerones"
 type: poi
 tags: [day_trips, walk]
+snippet: "Walk along WWII anti-tank barriers through forests and fields"
 latitude: 46.3983
 longitude: 6.2268
 ---

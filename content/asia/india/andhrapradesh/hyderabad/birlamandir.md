@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 17.4062
 longitude: 78.4691
+snippet: White marble hilltop temple overlooking Hussain Sagar
 tags:
 - things_to_do
+- sight
 title: Birla Mandir
 type: poi
 ---

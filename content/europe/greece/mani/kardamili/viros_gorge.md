@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.912
 longitude: 22.205
+snippet: Dramatic gorge hike into the Taygetos mountains
 story: 'Patrick Leigh Fermor walked these mountains for weeks in the 1950s, sleeping
   in remote towers and drinking with shepherds who could trace their lineage back
   to Byzantine chieftains. His account of those journeys, published as Mani in 1958,

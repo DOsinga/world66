@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 13.512
 longitude: 75.085
+snippet: Easy monsoon-season trek to a swimmable waterfall pool
 tags:
 - things_to_do
+- nature
 title: Jogigundi Falls
 type: poi
 ---

@@ -1,12 +1,14 @@
 ---
 address: 24 North 2nd Street Phoenix, AZ 85004
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.4489
 longitude: -112.0714
 phone: 602-253-0118
 price: fair
+snippet: NBA star Dan Majerle's sports bar a block from the Suns arena
 tags:
 - eating_out
-- restaurant
 title: Majerle's Sports Grill
 type: poi
 ---

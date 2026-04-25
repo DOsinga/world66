@@ -4,6 +4,7 @@ admission: €4
 latitude: 35.3428
 longitude: 25.1388
 opening_hours: Tue–Sun 8:30am–3:30pm
+snippet: Venetian sea fortress guarding the old harbour entrance
 tags:
 - things_to_do
 - landmark

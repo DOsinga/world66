@@ -1,9 +1,13 @@
 ---
 title: "Kent's Cavern"
 type: poi
-category: Sight
+snippet: "Prehistoric limestone caves occupied by humans for 400,000 years"
+tags:
+- things_to_do
+- sight
 latitude: 50.4683
 longitude: -3.5031
+address: Ilsham Road, Torquay TQ1 2JF
 ---
 
 One of the most important prehistoric sites in Britain, Kent's Cavern is a network of limestone caves that have been continuously occupied — by animals and humans alike — for at least 400,000 years. Flint tools, animal bones, and early human remains found here helped overturn Victorian assumptions about the age of humanity in Britain. Today you can walk through the illuminated chambers on a guided tour, past stalactites and stalagmites that took millions of years to form.

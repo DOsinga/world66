@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.6571
 longitude: -0.8776
+snippet: Renaissance exchange hall with free temporary exhibitions
 tags:
 - things_to_do
 - architecture

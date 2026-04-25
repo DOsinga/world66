@@ -1,9 +1,12 @@
 ---
 address: 54, rue de Hollerich
+done:
+  poi_cleanup: '2026-04-20'
 email: info@atelier.lu
 latitude: 49.598758
 longitude: 6.126101
 phone: +352-495466
+snippet: Luxembourg's main live music venue near the train station
 tags:
 - bars_and_cafes
 title: Den Atelier

@@ -1,6 +1,7 @@
 ---
 latitude: 45.649143
 longitude: 13.767547
+snippet: "One of Europe's largest sea-facing squares"
 tags:
 - One Day in Trieste
 - things_to_do

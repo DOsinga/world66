@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-20'
+image: hamilton.jpg
+image_attribution: HamOntPoliFiend
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Hamilton,_Ontario_2018_Ward_10_City_Councillor_Election_results_by_poll.png
 latitude: 43.25608
 longitude: -79.872858
 score: 0.43
 title: Hamilton
 type: location
-image: hamilton.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Hamilton,_Ontario_2018_Ward_10_City_Councillor_Election_results_by_poll.png
-image_license: CC BY-SA 4.0
-image_attribution: HamOntPoliFiend
 ---
 
 Hamilton is a mid-sized city at the western end of Lake Ontario, about an hour from Toronto. It built its identity on steel — Stelco and Dofasco still dominate the eastern waterfront — but has diversified considerably since the industry's decline, with a growing arts scene and revitalized downtown.

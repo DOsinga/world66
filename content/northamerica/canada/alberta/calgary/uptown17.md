@@ -1,14 +1,12 @@
 ---
 latitude: 51.0393
 longitude: -114.074
+snippet: "Eclectic shopping and dining strip south of downtown"
 tags:
 - shopping
-- shop
 - restaurant
-title: Uptown 17 .
+title: Uptown 17th Avenue
 type: poi
 ---
 
-A street of shops, services, restaurants and galleries just south of downtown, and encompassing the shops of Mount Royal Village. Everything from gourmet foods to fashion, arts and crafts. 
- Tel: 1 403 245-1703 
- Address: Between 14 St SW and 2 St SW Calgary Alberta -
+A lively stretch of 17th Avenue SW between 14th Street and 2nd Street, just south of downtown Calgary. The strip mixes independent boutiques, galleries, and restaurants with enough variety to fill an afternoon of browsing. Mount Royal Village anchors the western end with fashion and gourmet food shops. On warm evenings the restaurant patios spill onto the sidewalks and the street takes on a relaxed, neighbourhood feel.

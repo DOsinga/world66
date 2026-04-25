@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.9393
 longitude: 27.3408
+snippet: Lavish Roman townhouses with intact mosaics and frescoes
 tags:
 - things_to_do
 - sight

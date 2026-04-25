@@ -1,7 +1,10 @@
 ---
 address: 140 Pearl Street
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.8864
 longitude: -78.8774
+snippet: Sullivan and Adler's 1896 terracotta skyscraper masterpiece
 tags:
 - things_to_do
 - architecture

@@ -1,6 +1,7 @@
 ---
-latitude: 37.41
-longitude: 25.353
+latitude: 37.4100
+longitude: 25.3530
+snippet: "Mykonos party beach with clubs pumping from sunset to dawn"
 tags:
 - beaches
 title: Paradise Beach

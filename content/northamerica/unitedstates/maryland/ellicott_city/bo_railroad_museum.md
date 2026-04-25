@@ -1,6 +1,7 @@
 ---
 title: "B&O Railroad Station Museum"
 type: poi
+snippet: Oldest surviving railroad station in the United States
 tags:
   - things_to_do
   - museum

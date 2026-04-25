@@ -3,6 +3,7 @@ address: Badger Creek Road, Healesville
 latitude: -37.6688
 longitude: 145.53
 phone: 03-5957 2800
+snippet: Native wildlife park with koalas, platypus, and raptor shows
 tags:
 - day_trips
 title: Healesville Sanctuary

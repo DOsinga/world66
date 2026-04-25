@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 39.8822
 longitude: 116.4066
+snippet: Ming-era temple complex and the best park for morning people-watching
 tags:
 - things_to_do
 - landmark

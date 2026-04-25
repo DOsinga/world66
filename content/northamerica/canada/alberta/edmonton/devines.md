@@ -1,12 +1,13 @@
 ---
-latitude: 43.166142
-longitude: -79.229992
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 53.5364
+longitude: -113.5186
+snippet: French-Canadian fine dining in a converted hilltop house
 tags:
 - eating_out
-title: De Vine's .
+title: De Vine's
 type: poi
 ---
 
-This renovated house on a hilltop overlooking the river valley is a cozy place for innovative hors d'oeuvre and intimate lunches and dinners. Cuisine is a blend of Canadian and French. Offerings from the dinner menu include steamed Atlantic mussels, rack of lamb and a variety of home made pâtés. Patios off the lounge and main dining area offer a stunning view. Sun to Thu 11 am - 11 pm; Fri & Sat 11 am - midnight. (AE, DC, MC,V) 
- Tel: 1 780 482-6402 
- Address: 9712 - 111 Street Edmonton Alberta
+A converted house perched on the edge of the North Saskatchewan River valley, De Vine's has long been one of Edmonton's more refined dining spots. The cooking leans French-Canadian — expect dishes like rack of lamb, steamed Atlantic mussels, and house-made pâtés — served in intimate rooms that feel more like a dinner party than a restaurant. In summer, the patio overlooking the river valley is the real draw. The address is 9712 111 Street, in the Garneau neighbourhood south of the university.

@@ -1,7 +1,10 @@
 ---
 address: Laxmi Vilas Palace Grounds, Vadodara
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.2856
 longitude: 73.1939
+snippet: Gaekwad royal art collection with Raja Ravi Varma paintings
 tags:
 - things_to_do
 - museum

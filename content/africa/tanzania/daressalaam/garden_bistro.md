@@ -1,6 +1,7 @@
 ---
 latitude: -6.7619
 longitude: 39.275
+snippet: "Open-air Msasani bar-restaurant with Indian food and late-night outdoor dancing"
 tags:
 - bars_and_cafes
 title: Garden Bistro

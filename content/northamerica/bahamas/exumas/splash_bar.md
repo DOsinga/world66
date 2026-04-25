@@ -1,6 +1,8 @@
 ---
 title: "Splash Bar and Grill"
 type: poi
+tags: [things_to_do, restaurant]
+snippet: "Waterfront bar with swing seats and conch fritters"
 latitude: 23.5200
 longitude: -75.7950
 ---

@@ -1,11 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-20'
 latitude: 15.5
 longitude: -89.1667
+score: 0.49
 title: Lake Izabal
 type: location
-score: 0.49
 ---
 
 Lake Izabal is Guatemala's largest lake, a broad expanse of freshwater hemmed in by the Sierra de las Minas to the south and the Santa Cruz range to the north. The lake empties east through the Rio Dulce gorge, one of the most dramatic stretches of waterway in Central America, before reaching the Caribbean at Livingston.

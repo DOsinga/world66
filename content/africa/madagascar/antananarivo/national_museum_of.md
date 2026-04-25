@@ -1,5 +1,5 @@
 ---
-address: Direction Générale des Mines et de la Géologie Ampandrianomby 101 Antananarivo
+address: Direction Générale des Mines et de la Géologie, Ampandrianomby, 101 Antananarivo
 latitude: -18.9137
 longitude: 47.5266
 opening_hours: Office hours
@@ -9,8 +9,9 @@ tags:
 - museum
 title: National Museum of Geology
 type: poi
+snippet: "27,000 minerals and fossils from across Madagascar"
 ---
 
-The National Museum of Geology is located in the grounds of the General Directorate of Mines and Geology in Ampandrianomby.
+Tucked inside the grounds of the General Directorate of Mines and Geology in Ampandrianomby, this museum holds a serious collection of over 27,000 specimens — ores, minerals, silicified fossils, and timber samples gathered from across Madagascar and beyond.
 
-Visitors will be greeted by knowledgeable guides with much knowledge of the country in this area. There you will discover over 27,000 species of ores and minerals, timber and silicified fossils collected in every corner of the island and even beyond. In the room, geological maps of Madagascar (one in relief) show the richness of his underground. The tour was set to international standards with the assistance of the International Council of Museum (ICOM). The museum has a souvenir shop items such as postcards, mineralogical collections, gemstones and ornamental worked.
+Knowledgeable guides walk you through the exhibits, including detailed geological maps of the island (one in relief) that illustrate how extraordinarily rich the country's underground resources are. The tour was developed with assistance from the International Council of Museums. There's a small souvenir shop selling postcards, gemstones, and mineralogical collections.

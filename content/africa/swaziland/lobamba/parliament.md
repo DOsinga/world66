@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -26.447
 longitude: 31.2075
+snippet: Modest legislature in an absolute monarchy's royal seat
 story: 'Eswatini''s Parliament sits in Lobamba rather than the administrative capital
   Mbabane because Lobamba is the seat of the royal house — and in this absolute monarchy,
   the proximity of the legislature to the king is not coincidental. The Parliament

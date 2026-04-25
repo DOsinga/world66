@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 44.431
 longitude: 26.101
+snippet: Medieval palace ruins linked to Vlad the Impaler
 tags:
 - things_to_do
 - sight

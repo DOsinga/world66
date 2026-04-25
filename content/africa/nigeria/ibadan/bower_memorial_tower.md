@@ -1,6 +1,7 @@
 ---
 latitude: 7.3876
 longitude: 3.8878
+snippet: Ibadan's highest monument with sweeping city panorama
 tags:
 - things_to_do
 - landmark

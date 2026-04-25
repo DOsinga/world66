@@ -11,6 +11,7 @@ tags:
 title: Museum of Fine Arts
 type: poi
 url: www.mfastpete.org
+snippet: "Encyclopedic collection from Dutch masters to French Impressionists"
 ---
 
 A broad encyclopedic collection housed in a Mediterranean Revival building on Beach Drive, with works spanning American, European, Asian, and pre-Columbian art. The European holdings include Dutch and Flemish masters, French Impressionist paintings, and a respectable spread of decorative arts. The American galleries cover the 18th through 20th centuries. The museum also holds a significant photography collection that is regularly featured in temporary exhibitions.

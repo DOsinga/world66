@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 31.9514
 longitude: 35.9394
+snippet: 2nd-century theatre seating 6,000, still used for live performances today
 tags:
 - things_to_do
 title: Roman Theatre

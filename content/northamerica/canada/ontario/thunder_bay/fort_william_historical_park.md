@@ -9,6 +9,7 @@ story: 'The original Fort William was the inland headquarters of the North West 
   almost overnight.
 
   '
+snippet: Largest living-history fur trade post in North America
 tags:
 - things_to_do
 - museum

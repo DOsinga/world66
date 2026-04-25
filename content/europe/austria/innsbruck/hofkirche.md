@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.2681
 longitude: 11.396
+snippet: Gothic church housing Maximilian I's bronze cenotaph flanked by 28 giant
+  statues
 tags:
 - things_to_do
 - sight

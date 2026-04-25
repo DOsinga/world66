@@ -1,7 +1,10 @@
 ---
 address: N7, 12, 68161 Mannheim
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.4901
 longitude: 8.4697
+snippet: Reliable Mediterranean-international dining in Mannheim's grid
 tags:
 - eating_out
 title: Restaurant Central

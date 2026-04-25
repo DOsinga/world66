@@ -3,8 +3,11 @@ title: 'Wat Phu'
 type: poi
 address: 'Champasak'
 opening_hours: '8am - 4.30pm'
-latitude: 14.882847
-longitude: 105.842079
+snippet: "Ancient Khmer temple complex predating Angkor Wat"
+latitude: 14.8828
+longitude: 105.8421
+tags:
+- things_to_do
 ---
 
 Wat Phu is a ruined Khmer Hindu temple complex at the base of Phu Kao mountain in Champasak province, about 45 kilometres south of Pakse. The oldest structures date from the 6th century, predating Angkor Wat by several hundred years. The site climbs a forested hillside in three terraced levels, with carved lintels, galleries, and a sanctuary at the top where a holy spring emerges from the rock.

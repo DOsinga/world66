@@ -1,6 +1,7 @@
 ---
 latitude: 26.2945
 longitude: 73.0254
+snippet: Restored 250-year-old stepwell in the heart of the old city
 tags:
 - things_to_do
 - landmark

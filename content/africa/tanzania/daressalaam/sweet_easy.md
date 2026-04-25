@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.756
 longitude: 39.2783
+snippet: Oyster Bay bar packed on Thursday nights with Afro-house
 tags:
 - bars_and_cafes
 title: Sweet Easy

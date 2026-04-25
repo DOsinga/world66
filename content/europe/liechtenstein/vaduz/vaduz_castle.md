@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.137
 longitude: 9.5213
+snippet: Hilltop royal residence with Rhine valley views
 tags:
 - things_to_do
 - landmark

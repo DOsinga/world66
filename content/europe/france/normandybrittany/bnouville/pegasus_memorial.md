@@ -1,7 +1,10 @@
 ---
 title: "Pegasus Memorial"
 type: poi
-category: Museum
+snippet: D-Day museum with the original Pegasus Bridge you can walk across
+tags:
+- things_to_do
+- museum
 latitude: 49.2437
 longitude: -0.2757
 ---

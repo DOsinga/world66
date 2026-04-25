@@ -1,6 +1,7 @@
 ---
 latitude: 51.436
 longitude: 5.4795
+snippet: Leading modern art museum with Picasso and Kandinsky
 tags:
 - things_to_do
 - museum

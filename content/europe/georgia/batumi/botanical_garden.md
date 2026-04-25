@@ -1,6 +1,7 @@
 ---
 latitude: 41.7078
 longitude: 41.6494
+snippet: Vast hillside garden above the Black Sea with plants from nine world regions
 tags:
 - things_to_do
 - landmark

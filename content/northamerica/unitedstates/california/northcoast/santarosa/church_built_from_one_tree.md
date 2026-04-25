@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - sight
   - historic_site
+snippet: "Chapel built entirely from a single redwood tree in 1875"
 latitude: 38.4468
 longitude: -122.7129
 address: "492 Sonoma Avenue"

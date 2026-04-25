@@ -1,6 +1,7 @@
 ---
-latitude: 28.3
-longitude: 70.7
+latitude: 28.0833
+longitude: 70.3333
+snippet: Ruined Cholistan fort built for a Raj's mother
 tags:
 - things_to_do
 title: Mau Mubarik Fort

@@ -1,10 +1,13 @@
 ---
 title: "Hannover Zoo"
 type: poi
-category: "Sight"
+snippet: "Themed naturalistic zoo with boat rides and immersive enclosures"
+tags:
+- things_to_do
+- landmark
 address: "Adenauerallee 3, 30175 Hannover"
 phone: "+49 511 28074-0"
-url: "www.zoo-hannover.de"
+url: "https://www.zoo-hannover.de"
 latitude: 52.382429
 longitude: 9.770205
 ---

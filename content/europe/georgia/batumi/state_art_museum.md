@@ -1,8 +1,11 @@
 ---
 address: 8 Z. Gorgiladze str
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.6456
 longitude: 41.6381
 phone: +995 222 73894
+snippet: Batumi's main art gallery, with works by Pirosmani and other Georgian masters
 tags:
 - things_to_do
 - museum

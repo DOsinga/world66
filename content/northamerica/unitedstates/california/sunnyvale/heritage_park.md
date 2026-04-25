@@ -3,6 +3,10 @@ address: 570 E Remington Dr, Sunnyvale, CA 94087
 category: Museum
 latitude: 37.3708
 longitude: -122.0467
+snippet: Historic buildings and museum covering Silicon Valley origins
+tags:
+- things_to_do
+- museum
 title: Heritage Park & Sunnyvale Historical Museum
 type: poi
 ---

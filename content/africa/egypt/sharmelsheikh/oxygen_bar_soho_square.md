@@ -1,8 +1,11 @@
 ---
 address: Soho Square, ground floor below Pangaea nightclub, Sharm el-Sheikh
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 27.9075
 longitude: 34.3275
 phone: +20 10 160 95 44
+snippet: Quirky bar with an oxygen counter at Soho Square
 tags:
 - bars_and_cafes
 - bar

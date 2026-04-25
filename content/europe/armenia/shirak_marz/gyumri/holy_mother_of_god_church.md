@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.7866
 longitude: 43.8456
+snippet: Gyumri's oldest church, spiritual heart of the city since the 17th century
 story: 'During the Soviet era, when nearly every church in Armenia was shuttered,
   Yot Verk was one of only two churches in the entire country allowed to remain open
   — the other being the mother cathedral at Echmiadzin. Its vestries served Catholics

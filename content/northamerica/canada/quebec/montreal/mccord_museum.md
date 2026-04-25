@@ -1,8 +1,11 @@
 ---
 address: 690 rue Sherbrooke Ouest, Montréal, QC H3A 1E9
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.504295
 longitude: -73.573394
 phone: 514 398-7100
+snippet: social history museum with million-image photo archive
 tags:
 - things_to_do
 - museum

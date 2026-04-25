@@ -1,6 +1,7 @@
 ---
 latitude: 33.7672
 longitude: 72.8583
+snippet: Hilltop Buddhist monastery with remarkably preserved stucco sculptures
 tags:
 - things_to_do
 title: Jaulian

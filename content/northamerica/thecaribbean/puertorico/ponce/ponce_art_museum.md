@@ -1,6 +1,7 @@
 ---
 latitude: 18.0098
 longitude: -66.618
+snippet: Caribbean's finest art collection in a striking modernist building
 tags:
 - things_to_do
 - museum

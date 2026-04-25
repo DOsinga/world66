@@ -1,9 +1,12 @@
 ---
 address: Rosenthaler Str. 46/47
 connections: U Weinmeisterstr.
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.524594
 longitude: 13.403242
-opening_hours: Mo-Fr 11am -7pm, Sa 11am -3pm
+opening_hours: Mo-Fr 11am-7pm, Sa 11am-3pm
+snippet: Handmade bead jewelry near Hackesche Höfe
 tags:
 - shopping
 - berlinmitte
@@ -11,28 +14,4 @@ title: Tukadu
 type: poi
 ---
 
-Lovely beads and fun jewelry oposite the Hackesche Höfe.
-
-type: Funshopping
-
-
-
-
-
-connections: U Weinmeisterstr.
-
-openings: Mo-Fr 11am -7pm, Sa 11am -3pm
-
-address: Rosenthaler Str. 46/47
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A small shop selling handmade bead jewelry and accessories opposite the Hackesche Höfe. The selection is colourful and inventive, and prices are reasonable for one-of-a-kind pieces. A good place to pick up an unusual gift.

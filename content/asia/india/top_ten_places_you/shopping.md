@@ -1,12 +1,13 @@
 ---
-title: "Shopping in Top Ten Places You Must See in Varanasi,India"
-type: section
-accessibility: "round the clock"
-address: "c-1,804,eldeco garden estate afeem kothi kanpur"
-email: "rajesh_wahi2000@yahoo.com"
-phone: "9450154733"
-type: "Speciality shops"
-url: "www.kanpurflorist.com"
+accessibility: round the clock
+address: c-1,804,eldeco garden estate afeem kothi kanpur
+done:
+  poi_cleanup: '2026-04-19'
+email: rajesh_wahi2000@yahoo.com
+phone: '9450154733'
+title: Shopping in Top Ten Places You Must See in Varanasi,India
+type: Speciality shops
+url: www.kanpurflorist.com
 ---
 
 Send Cakes,Flowers,Chocolates to Kanpur from.Puneet Flowers

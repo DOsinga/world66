@@ -1,12 +1,13 @@
 ---
 address: 'Lido Tourist Office: Gran Viale 6'
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 45.40942
 longitude: 12.36462
+snippet: Venice's beach island and home of the Film Festival
 tags:
 - things_to_do
 - beach
-- restaurant
-- bar
 title: Lido Island
 type: poi
 ---

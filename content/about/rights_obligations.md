@@ -1,5 +1,7 @@
 ---
-title: "Contributors' rights and obligations"
+done:
+  poi_cleanup: '2026-04-20'
+title: Contributors' rights and obligations
 type: poi
 ---
 

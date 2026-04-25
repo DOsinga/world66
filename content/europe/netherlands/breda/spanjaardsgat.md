@@ -1,4 +1,6 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.59
 longitude: 4.773
 tags:

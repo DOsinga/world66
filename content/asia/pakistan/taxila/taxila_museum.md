@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.7462
 longitude: 72.8397
+snippet: Essential first stop for Taxila's Gandhara sculptures
 tags:
 - things_to_do
 title: Taxila Museum

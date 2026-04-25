@@ -1,6 +1,9 @@
 ---
 address: 2035 E. 4th St.
+latitude: 41.4991
+longitude: -81.6889
 phone: 216.241.7425
+snippet: Comedy club and bar complex on E. 4th Street
 tags:
 - bars_and_cafes
 - bar

@@ -1,7 +1,10 @@
 ---
 address: Plaza de Armas
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -13.5164
 longitude: -71.9785
+snippet: colonial cathedral with Cuzco School art and guinea pig Last Supper
 tags:
 - things_to_do
 - landmark

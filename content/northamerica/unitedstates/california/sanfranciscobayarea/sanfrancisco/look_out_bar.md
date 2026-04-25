@@ -2,10 +2,10 @@
 address: 3600 16th St
 latitude: 37.7644
 longitude: -122.4333
+snippet: "Castro bar with a balcony perfect for people-watching"
 tags:
 - bars_and_cafes
 - bar
-- market
 title: Look Out Bar
 type: poi
 ---

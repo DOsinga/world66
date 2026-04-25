@@ -1,6 +1,7 @@
 ---
 latitude: -25.7458
 longitude: 28.1872
+snippet: Historic civic plaza with Kruger statue and colonial-era buildings
 tags:
 - things_to_do
 - sight

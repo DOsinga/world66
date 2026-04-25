@@ -1,6 +1,10 @@
 ---
+address: Calle Colón 1, Vegueta, Las Palmas
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 28.1014
 longitude: -15.4143
+snippet: Columbus's 1492 lodgings, now a museum on Atlantic exploration
 story: Columbus stopped here in 1492 to repair the Pinta's rudder before continuing
   west. He may never have reached America if Las Palmas had not had the tools and
   craftsmen to fix his ship.

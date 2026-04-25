@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.4326
 longitude: -99.1316
+snippet: Mexico's seat of government, famous for Diego Rivera's monumental murals
 tags:
 - things_to_do
 - landmark

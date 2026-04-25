@@ -1,6 +1,7 @@
 ---
 latitude: 23.6186
 longitude: 58.565
+snippet: "Ancient covered market for frankincense, silver, and daggers"
 tags:
 - things_to_do
 - landmark

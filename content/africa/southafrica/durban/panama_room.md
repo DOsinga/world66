@@ -3,6 +3,7 @@ address: 178 Stamford Hill Road
 latitude: -29.8316
 longitude: 31.0226
 phone: +27 31 312 5630
+snippet: Chic all-white club in Durban with strict over-25s door policy
 tags:
 - bars_and_cafes
 title: Panama Room

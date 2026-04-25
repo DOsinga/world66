@@ -1,4 +1,5 @@
 ---
+snippet: Triple fortress where Joan of Arc met the Dauphin
 latitude: 47.1685
 longitude: 0.2375
 story: 'On 6 March 1429, Joan of Arc arrived at the fortress after a twelve-day ride

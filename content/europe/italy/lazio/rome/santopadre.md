@@ -1,8 +1,11 @@
 ---
 address: Via Collina, 18
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.908019
 longitude: 12.493842
 phone: +39 06 4745405
+snippet: Small upscale Roman restaurant near Via Veneto, dinner only
 tags:
 - eating_out
 - restaurant

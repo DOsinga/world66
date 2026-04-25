@@ -9,6 +9,7 @@ story: 'John Steuart Curry painted his murals of abolitionist John Brown inside 
   1946.
 
   '
+snippet: Neoclassical capitol with confrontational abolitionist murals
 tags:
 - things_to_do
 - sight

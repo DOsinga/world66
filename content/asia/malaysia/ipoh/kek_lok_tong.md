@@ -1,10 +1,14 @@
 ---
 address: Gunung Rapat, accessible via the housing estate
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 4.5549
 longitude: 101.1161
+snippet: Scenic limestone cave temple with Buddha statues and gardens
 tags:
 - things_to_do
 - landmark
+- temple
 title: Kek Lok Tong
 type: poi
 ---

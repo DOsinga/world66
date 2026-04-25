@@ -1,6 +1,7 @@
 ---
 latitude: 53.5913
 longitude: -1.735
+snippet: Narrow-gauge steam railway through Pennine countryside
 tags:
 - things_to_do
 - sight

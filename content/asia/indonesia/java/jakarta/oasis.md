@@ -3,10 +3,10 @@ address: Jl. Raden Saleh Raya 47
 latitude: -6.1967
 longitude: 106.8451
 phone: 62-21-326397
+snippet: Colonial-era mansion restaurant with rijstaffel and Raden Saleh art
 tags:
 - eating_out
 - restaurant
-- monument
 title: Oasis
 type: poi
 ---

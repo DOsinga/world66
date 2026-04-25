@@ -1,15 +1,15 @@
 ---
+title: "Jil Sander"
+type: poi
+snippet: "Minimalist German fashion on the Ku'damm"
 tags:
 - shopping
 - charlottenburg
-title: Jil Sanders
-type: poi
+address: "Kurfürstendamm 185, Berlin"
+latitude: 52.5013
+longitude: 13.3070
 ---
 
-Not only the ladies of Charlottenburg dream of that little black number from the grande dame of the German fashion scene. Also young trendy fashions. 
+The flagship store of Germany's most celebrated fashion designer sits on the Ku'damm in Charlottenburg. Jil Sander's signature minimalism -- clean lines, impeccable tailoring, muted palettes -- fills two floors. Beyond the famous little black dresses, the store carries the full ready-to-wear collections for women and men, plus accessories.
 
-connection: U Adenauerplatz
-
-address: Kurfürstendamm 185
-
-openings: Mo-Fr 10am -7pm, Sa 10am -4pm
+Nearest U-Bahn: Adenauerplatz. Open Monday to Friday 10am--7pm, Saturday 10am--4pm.

@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 16.4698
 longitude: 107.579
+snippet: Massive Nguyen dynasty fortress with moat, palaces, and a haunted history
 tags:
 - things_to_do
-- sight
+- landmark
 title: Imperial Citadel
 type: poi
 ---

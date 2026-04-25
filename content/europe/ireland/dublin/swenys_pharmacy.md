@@ -1,10 +1,14 @@
 ---
 address: 1 Lincoln Place, Dublin 2
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.339084
 longitude: -6.251139
 opening_hours: Mon–Sat 10:00–17:00
+snippet: Victorian pharmacy unchanged since Leopold Bloom's famous lemon soap purchase
 tags:
+- things_to_do
 - James Joyce
 - Literature
 title: Sweny's Pharmacy

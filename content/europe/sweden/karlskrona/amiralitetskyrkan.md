@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - sight
 title: Amiralitetskyrkan Ulrica Pia
+snippet: "Sweden's largest wooden church, built for naval dockworkers"
 type: poi
 ---
 

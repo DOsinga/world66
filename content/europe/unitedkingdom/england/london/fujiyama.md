@@ -4,6 +4,7 @@ latitude: 51.461339
 longitude: -0.111674
 phone: 020 7737 2369
 price: £6–8 mains
+snippet: Unpretentious Japanese noodle bar popular with Brixton locals
 tags:
 - eating_out
 - restaurant

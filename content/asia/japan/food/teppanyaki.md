@@ -1,8 +1,13 @@
 ---
-title: "Teppanyaki"
+done:
+  poi_cleanup: '2026-04-19'
+snippet: Theatrical iron-griddle cooking, from wagyu to seafood
+tags:
+- food
+title: Teppanyaki
 type: poi
-latitude: 35.668723
-longitude: 139.76565
 ---
 
-Food cooked on a steel grill. In upscale restaurants the cook will come to your tableand cook it right before your eyes. If you are on a budget and like the taste of Teppanyaki, head for okonomiyaki (cheap) restaurants where you can do the hard work yourself.
+Teppanyaki means "grilled on an iron plate" — a flat steel surface where a chef cooks meat, seafood, and vegetables right in front of you. At high-end places, this becomes theatre: the chef slices wagyu with surgical precision, flips shrimp tails into his hat pocket, and builds your meal course by course. Expect to pay accordingly — a proper teppanyaki dinner in Tokyo or Kobe can run well above 10,000 yen per person.
+
+If you want the same hot-plate flavour without the price tag, head to an okonomiyaki restaurant instead. You get a griddle built into your table and do the cooking yourself, usually involving batter, cabbage, pork, and generous amounts of sauce. Same principle, tenth of the cost, and arguably more fun.

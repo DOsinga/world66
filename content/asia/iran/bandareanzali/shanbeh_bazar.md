@@ -1,6 +1,10 @@
 ---
-latitude: 37.471155
-longitude: 49.456316
+address: Bandar-e Anzali
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 37.4712
+longitude: 49.4563
+snippet: Lively Saturday market with fresh Caspian fish
 tags:
 - shopping
 - market

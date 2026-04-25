@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 3.447
 longitude: -76.5414
+snippet: Bohemian hilltop neighbourhood with colonial charm and sunset views
 tags:
 - things_to_do
 - neighbourhood

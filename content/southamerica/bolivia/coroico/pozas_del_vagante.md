@@ -1,6 +1,7 @@
 ---
 latitude: -16.1794
 longitude: -67.688
+snippet: "Crystal-clear natural pools and waterfalls in cloudforest near Coroico"
 tags:
 - day_trips
 title: Pozas del Vagante

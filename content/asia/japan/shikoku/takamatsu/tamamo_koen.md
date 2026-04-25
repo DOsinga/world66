@@ -1,6 +1,7 @@
 ---
 latitude: 34.3564
 longitude: 134.0489
+snippet: Coastal castle ruins with seawater moats in central Takamatsu
 tags:
 - things_to_do
 title: Tamamo-koen

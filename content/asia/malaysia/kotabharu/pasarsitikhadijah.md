@@ -1,6 +1,7 @@
 ---
 latitude: 6.1262
 longitude: 102.2434
+snippet: Women-run central market and Kota Bharu's social hub
 tags:
 - things_to_do
 - landmark

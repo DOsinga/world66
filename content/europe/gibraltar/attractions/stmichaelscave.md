@@ -4,6 +4,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 36.1261
 longitude: -5.3455
+snippet: Spectacular grotto inside the Rock used as a concert venue
 title: St Michael's Cave
 type: poi
 ---

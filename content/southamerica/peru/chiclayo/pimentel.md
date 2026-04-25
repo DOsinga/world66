@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.8358
 longitude: -79.9358
+snippet: Coastal beach town with a crumbling pier and caballito boats
 tags:
 - beaches
 - beach

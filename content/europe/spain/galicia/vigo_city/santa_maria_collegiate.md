@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.2376
 longitude: -8.7248
+snippet: Neoclassical church with a turbulent Drake-to-Napoleon history
 tags:
 - things_to_do
 - architecture

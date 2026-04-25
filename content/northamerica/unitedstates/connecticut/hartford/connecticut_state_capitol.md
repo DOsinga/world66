@@ -2,6 +2,7 @@
 address: 210 Capitol Avenue, Hartford, CT
 latitude: 41.7644
 longitude: -72.6825
+snippet: "Gold-domed Gothic Revival capitol with free tours"
 tags:
 - things_to_do
 - architecture

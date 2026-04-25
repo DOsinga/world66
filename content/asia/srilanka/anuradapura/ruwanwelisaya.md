@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 8.3508
 longitude: 80.3958
+snippet: Great white 2nd-century BC dagoba, one of Sri Lanka's holiest sites
 story: 'King Dutugemunu, who built the Ruwanwelisaya in the 2nd century BC, is said
   to have died before its completion. His attendants finished construction around
   him, erecting screens to create the illusion that it was complete so he could die

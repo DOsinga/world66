@@ -1,7 +1,10 @@
 ---
-title: "Koreatown"
+title: Koreatown
 type: poi
-category: "Neighbourhood"
+snippet: "Dense 24-hour neighbourhood of Korean BBQ and karaoke"
+tags:
+- things_to_do
+- neighbourhood
 latitude: 34.059372
 longitude: -118.300118
 ---

@@ -3,11 +3,9 @@ address: Piazza dei Martiri, Naples
 latitude: 40.836111
 longitude: 14.243889
 phone: +39 081 240 5411
+snippet: Three-floor bookshop and music store in Chiaia with regular deep discounts.
 tags:
 - shopping
-- shop
-- club
-- neighbourhood
 title: La Feltrinelli
 type: poi
 url: www.lafeltrinelli.it

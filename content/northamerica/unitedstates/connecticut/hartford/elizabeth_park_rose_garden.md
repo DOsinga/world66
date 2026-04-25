@@ -2,6 +2,7 @@
 address: Prospect Avenue, Hartford, CT
 latitude: 41.7773
 longitude: -72.7219
+snippet: Historic rose garden with 15,000 plants in 800 varieties
 tags:
 - things_to_do
 - landmark

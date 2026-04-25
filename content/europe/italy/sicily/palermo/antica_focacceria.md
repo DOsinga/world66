@@ -1,8 +1,11 @@
 ---
 address: Via Alessandro Paternostro 58, 90133 Palermo
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.1153
 longitude: 13.3676
 opening_hours: Daily 11:00–23:00
+snippet: Palermo's oldest street food counter, open since 1834
 tags:
 - eating_out
 - street_food

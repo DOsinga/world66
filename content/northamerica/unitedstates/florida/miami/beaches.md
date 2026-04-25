@@ -1,7 +1,6 @@
 ---
-title: "Beaches"
+title: Beaches
 type: section
 ---
 
-The good problem with Miami beaches is that its beaches characteristics are as varied as the city's population. There you can find a beach for swimming, socializing, serenity, for family, seniors, gays, or even a beach to make you forget you're in the city. But rest assured whatever kind of beach vacation you're looking for, you'll find it either in Miami Beach or Key Biscayne, which is half an hour outside of Miami Beach.
-Whenever on the beach, you get a nice view from the shoreline because you look
+Miami's beaches stretch for miles along the barrier islands that separate Biscayne Bay from the Atlantic. South Beach gets the crowds and the fame, but the sand improves as you head north — Mid-Beach and Surfside are wider, quieter, and just as pretty. Key Biscayne, across the Rickenbacker Causeway, has two excellent beach parks: Crandon Park with its calm, shallow water, and Bill Baggs Cape Florida State Park at the island's southern tip, with a historic lighthouse and some of the best snorkeling accessible from shore.

@@ -1,20 +1,14 @@
 ---
-address: Heilige Geeststraat 7
-latitude: 51.218852
-longitude: 4.397995
+address: Heilige Geeststraat 7, Ghent
+latitude: 51.0543
+longitude: 3.7234
+snippet: "Lounge cocktail bar near Sint-Baafskathedraal"
 tags:
 - bars_and_cafes
 title: Limonada
 type: poi
 ---
 
-Fancy loungy hip chill-out cocktailbar. Beginnig around 5 euro for a cocktail it must be cheap by European standards.
+A sleek cocktail lounge on a quiet side street just off the cathedral square. The interior leans toward the trendy side - low lighting, comfortable seating, house music at a conversational volume. Cocktails start around five to seven euros, which is reasonable for a place like this in central Ghent.
 
-**Contributors**
-January 08, 2005
-
-
-
-
-
-address: Heilige Geeststraat 7
+Good for a relaxed evening drink before or after dinner. Gets busier later on weekends.

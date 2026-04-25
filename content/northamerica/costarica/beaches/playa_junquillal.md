@@ -1,24 +1,16 @@
 ---
-title: "Playa Junquillal, Guanacaste"
+title: Playa Junquillal
 type: poi
-address: "Playa Junquillal"
-email: "coopermays@racsa.co.cr"
-phone: "506-2658-7018"
-url: "coopermays.blogspot.com"
+latitude: 10.1333
+longitude: -85.7667
+snippet: "Quiet surf beach on Guanacaste's coast, still largely undeveloped"
+tags:
+- things_to_do
+- beach
 ---
 
-The province of Guanacaste, the north west coast of Costa Rica, called the "gold coast" is made of a string of lovely beaches. Each offers a unique tropical experience.
-Playa Junquillal is a still undeveloped beach recently connected with paved roads. Frequented by surfers for many years, now a destination for families and vacationers seeking quiet, natural beauty. Long sandy beaches and small villages of fine hotels and dining. Junquillal has an international community blended into the local Costa Rican population and has attracted several artists who provide interesting shopping for remembrances of their Costa Rican adventure.
+Playa Junquillal is one of the quieter stretches of Guanacaste's Pacific coast, a long grey-sand beach backed by dry tropical forest rather than high-rise resorts. The surf is consistent and manageable — good for intermediate surfers, though beginners should watch for rip currents at the northern end.
 
-**Contributors**
-January 26, 2009
+The village behind the beach is small: a handful of hotels, a few restaurants serving fresh ceviche and casados, and not much else. That's the appeal. Unlike nearby Tamarindo or Nosara, Junquillal hasn't been swallowed by development. The international community here is a mix of surfers, retirees, and artists who came for the quiet and stayed.
 
-
-
-tel: 506-2658-7018
-
-url: [coopermays.blogspot.com](http://coopermays.blogspot.com)
-
-address: Playa Junquillal
-
-email: coopermays@racsa.co.cr
+At the southern end of the beach, a wildlife refuge protects nesting olive ridley sea turtles between October and March. The sunsets over the Pacific are reliably spectacular. Stock up on supplies before arriving — the nearest proper supermarket is in Santa Cruz, about 40 minutes inland.

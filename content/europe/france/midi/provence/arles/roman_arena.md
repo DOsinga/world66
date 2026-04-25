@@ -1,6 +1,7 @@
 ---
 latitude: 43.6777
 longitude: 4.631
+snippet: "Still-active Roman amphitheatre built in 90 AD for 20,000 spectators"
 tags:
 - things_to_do
 - sight

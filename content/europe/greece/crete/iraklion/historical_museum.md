@@ -4,6 +4,7 @@ admission: €5
 latitude: 35.3423
 longitude: 25.129
 opening_hours: Mon–Sat 9:00am–5:00pm
+snippet: Byzantine to modern Crete, with two El Grecos
 tags:
 - things_to_do
 - museum

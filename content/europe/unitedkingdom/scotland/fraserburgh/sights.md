@@ -1,5 +1,7 @@
 ---
-title: "Sights in Fraserburgh"
+done:
+  poi_cleanup: '2026-04-20'
+title: Sights in Fraserburgh
 type: section
 ---
 

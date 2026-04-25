@@ -1,7 +1,11 @@
 ---
 title: "Iona Abbey"
 type: poi
+snippet: "Restored medieval monastery on Columba's sacred island"
 category: Sight
+tags:
+- things_to_do
+- sight
 latitude: 56.3336
 longitude: -6.4062
 ---

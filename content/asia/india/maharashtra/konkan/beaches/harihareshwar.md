@@ -1,12 +1,14 @@
 ---
 title: "Harihareshwar"
 type: poi
-category: "Sight"
+tags:
+  - sights
+  - beach
 latitude: 17.99509
 longitude: 73.024531
+snippet: "Sacred Konkan beach town with temple perched on seaside cliffs"
 ---
 
-Harihareshwar is one of the finest places in Konkan. It is just 230 Kms. from Pune. It is famous for a temple on the seashore as well as the beach and the natural beauties here. Harihareshwar is only 25 Kms for Shri Vardhan. If one wants to enjoy travelling by sea, the launches are also available between the two towns. The temple here is one of the major attractions. Harihareshwar is known as Kashi of Southern India . The hill on the seashore at Harihareshwar is also known as 'Harihar' or 'Pushpadri'.
-The temple is old and the construction period of this temple can not be easily said. The temple might be constructed in Shivaji's Period as one can find such sculptures. But was re-constructed by First Bajirao Peshawa in 1723. The temple consists of idols of Brahma - Vishnu - Mahesh and Devi Parvati. The other temples in the premises are of Shri Kalbhairav and Shri Yogeshwari.
+Harihareshwar sits where the Savitri, Kundalika, and Vashishti rivers meet the Arabian Sea, about 230 km south of Pune. The town is known as the "Kashi of Southern India" — a centre of pilgrimage built around the Harihareshwar temple, which crowns a dark basalt headland jutting into the sea.
 
-Truly, Harihareshwar is a place of temples and beautiful seashore. The atmosphere here is very auspicious and creates pleasure. The seashore, beach , the dark woods near the sea and the temple are worth to visit.
+The temple complex dates to the Peshwa era, rebuilt by Bajirao I in 1723, and holds idols of Brahma, Vishnu, and Mahesh alongside Devi Parvati. Smaller shrines to Kalbhairav and Yogeshwari are scattered around the grounds. Beyond the temple, the beaches here are quieter than better-known Konkan spots, backed by forested hills. A local boat service connects Harihareshwar to Shrivardhan, about 25 km up the coast.

@@ -1,7 +1,8 @@
 ---
 title: "Government Museum Chennai"
 type: poi
-tags: [things_to_do]
+tags: [things_to_do, museum]
+snippet: "Outstanding Chola bronzes and Amaravati Buddhist sculptures"
 address: "Pantheon Road, Egmore, Chennai"
 latitude: 13.071281
 longitude: 80.257043

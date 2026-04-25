@@ -1,8 +1,11 @@
 ---
 address: Hauptplatz, 4020 Linz
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.3061
 longitude: 14.2858
+snippet: Massive medieval square with Baroque facades and Trinity Column
 tags:
 - things_to_do
 - sight

@@ -1,10 +1,10 @@
 ---
 address: Olympischer Platz, Charlottenburg
-category: Sight
 latitude: 52.515255
 longitude: 13.245845
 opening_hours: Daily, summer 9am-7pm
 phone: 030 306300
+snippet: "1936 Olympic stadium, now home to Hertha BSC"
 tags:
 - things_to_do
 - sight

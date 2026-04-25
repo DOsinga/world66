@@ -1,9 +1,12 @@
 ---
 address: Kennington Oval, London SE11 5SS
 admission: From £25 (county matches), £60–180 (international fixtures)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.484893
 longitude: -0.110508
 phone: +44 20 7820 5700
+snippet: Historic south London cricket ground hosting Test matches since 1880
 tags:
 - things_to_do
 - club

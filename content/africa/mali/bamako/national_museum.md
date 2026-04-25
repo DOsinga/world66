@@ -1,6 +1,7 @@
 ---
 latitude: 12.6548
 longitude: -8.0026
+snippet: One of West Africa's best museums covering Niger Valley civilizations
 tags:
 - things_to_do
 - museum

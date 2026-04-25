@@ -3,6 +3,7 @@ address: 600 East Monroe Street Phoenix, AZ 85004
 latitude: 33.45048
 longitude: -112.06686
 phone: +1 602 262 5071
+snippet: "Phoenix's original town centre with Victorian-era homes"
 tags:
 - things_to_do
 - museum

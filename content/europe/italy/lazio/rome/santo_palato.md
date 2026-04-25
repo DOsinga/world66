@@ -1,11 +1,12 @@
 ---
 address: Piazza Tarquinia 4a, 00183 Rome
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.879
 longitude: 12.5063
 opening_hours: Tue–Sun 12:30–14:30, 19:30–22:30; closed Mon
+snippet: Roman trattoria by MasterChef winner Sarah Cicolini, offal as fine dining
 tags:
-- The Infatuation Rome
-- Eater Rome
 - eating_out
 - restaurant
 title: Santo Palato

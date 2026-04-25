@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.4197
 longitude: -123.3704
+snippet: Rattenbury's 1898 stone domes lit up nightly on the harbour
 tags:
 - things_to_do
 - architecture

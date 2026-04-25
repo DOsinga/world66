@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.6571
 longitude: 104.0656
+snippet: Chengdu's central plaza with Mao statue and dancing fountains
 tags:
 - things_to_do
 - neighbourhood

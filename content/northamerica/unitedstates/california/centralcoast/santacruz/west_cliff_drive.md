@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.9516
 longitude: -122.058
+snippet: Scenic coastal path from the boardwalk to Natural Bridges
 tags:
 - things_to_do
 - sight

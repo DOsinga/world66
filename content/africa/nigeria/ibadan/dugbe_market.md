@@ -1,6 +1,7 @@
 ---
 latitude: 7.382
 longitude: 3.8753
+snippet: Ibadan's sprawling market with 200-plus specialist stalls
 tags:
 - things_to_do
 - neighbourhood

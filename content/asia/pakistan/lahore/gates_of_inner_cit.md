@@ -2,6 +2,7 @@
 title: "Gates of the Walled City"
 type: poi
 category: "Sight"
+snippet: Historic gates marking the edges of old Lahore
 latitude: 31.5876
 longitude: 74.3218
 ---

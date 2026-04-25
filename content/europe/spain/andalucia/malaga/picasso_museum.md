@@ -2,6 +2,7 @@
 address: Palacio de Buenavista, Calle San Agustín, 8
 latitude: 36.7212
 longitude: -4.418
+snippet: 200 works spanning Picasso's career in a Renaissance palace
 tags:
 - things_to_do
 - museum

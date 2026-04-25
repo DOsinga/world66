@@ -10,6 +10,7 @@ tags:
 latitude: 38.9833
 longitude: -114.3000
 story: "The bristlecone pines near Wheeler Peak include some of the oldest living organisms on earth — trees that were already ancient when Rome was founded. One specimen, felled in 1964 for a research project, turned out to be 4,900 years old."
+snippet: "Remote park with ancient bristlecone pines and Lehman Caves"
 ---
 
 Great Basin National Park lies about 70 miles east of Ely on US-50, and is one of the least visited national parks in the country. That is one of its virtues. On summer weekends when Yellowstone is gridlocked, you can hike the Wheeler Peak trail — rising to 13,063 feet, the second-highest summit in Nevada — with almost no one else on the mountain.

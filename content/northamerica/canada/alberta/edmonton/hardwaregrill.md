@@ -1,12 +1,14 @@
 ---
+address: 9698 Jasper Avenue, Edmonton, Alberta
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 53.542393
 longitude: -113.485255
+snippet: Acclaimed seasonally inspired Canadian cuisine in a heritage building
 tags:
 - eating_out
-title: Hardware Grill .
+title: Hardware Grill
 type: poi
 ---
 
-Locally owned and operated by Larry and Melinda Stewart,his elegant restaurant in the historic Goodridge Block is acclaimed for its seasonally inspired Canadian cuisine. Specialties include beef tenderloin in a goat cheese crust, cedar-planked Pacific salmon and Smoky Lake bison. Hardware Grill has been featured in Where to Eat in Canada, awarded Wine Spectator's Award of Excellence (1997 & 1998) and named one of Canada's top 100 restaurants by enRoute magazine. Lunch entrées from $8 to $14 and evening entrées from $20 to $28. Mon to Fri lunch 11:30 am - 2 pm; Mon to Sat dinner from 5 pm. (AE, DC, MC, V) Reservations recommended. 
- Tel: 1 780 423-0969 Fax: 780-423-4739 
- Address: 9698 Jasper Avenue Edmonton Alberta T5H 3V5
+An elegant restaurant in the historic Goodridge Block on Jasper Avenue, Hardware Grill built its reputation on seasonally inspired Canadian cuisine. Specialties lean toward western Canadian ingredients -- beef tenderloin, cedar-planked Pacific salmon, and Smoky Lake bison have been long-standing favourites. The dining room is refined without being stuffy, and the wine list has earned repeated recognition. Reservations are recommended, especially on weekends.

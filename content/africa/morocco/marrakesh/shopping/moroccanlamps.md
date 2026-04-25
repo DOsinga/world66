@@ -1,8 +1,15 @@
 ---
-title: "Moroccan Lamps"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 31.6315
+longitude: -7.986
+snippet: Handcrafted brass and copper lanterns from the souk workshops
+tags:
+- shopping
+title: Moroccan Lamps
 type: poi
 ---
 
-Moroccan lamps have become en vogue over the last past years. You can buy them pretty much all over the place, but to get better prices it is worthwhile to venture a bit deeper in the Souqs. Starting from the Jma al Fna, head for the Ben Youssef Medersa and turn left. Now you are close to the area where the lamps are made and in the workplaces you can get the best prices.
+The pierced-metal lanterns and coloured-glass lamps are among the most tempting things to buy in Marrakesh. You will find them everywhere in the souks, but for better prices head deeper in — from the Jemaa el-Fna, walk toward the Ben Youssef Medersa and turn left into the metalworkers' quarter. Here the lamps are actually made, and buying from the workshops cuts out the middleman.
 
-It's pretty hard to give a more accurate description of how to get there, but getting lost a bit is quite nice in itself.
+Expect to negotiate. A decent hanging lantern starts around 200-300 MAD in the workshops, compared to double or triple that at the tourist-facing stalls. Getting lost on the way is half the fun.

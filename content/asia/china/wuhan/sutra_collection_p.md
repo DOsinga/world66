@@ -1,8 +1,16 @@
 ---
+latitude: 30.5478
+longitude: 114.2697
+snippet: "Qing-dynasty pavilion in Guiyuan Temple housing 7,000 Buddhist sutras and a white jade Buddha"
 tags:
 - sights
+- temple
 title: Sutra Collection Pavilion
 type: poi
 ---
 
-Built in 1696AD during the reign of Emperor Kangxi in the Qing dynasty, this structure is an indicative building in the temple for collecting Buddhist scriptures and art treasure. In this hall, a statue of Sakyamuni carved from a single block of white jade is most attractive. The statue, harmonizing well with the tranquility of the chambers and pavilions, companying with the incense smoke filtering through the sky, gives the temple a majestic magic. Besides, over 7000 Buddhist sutras and sutras from Japan, India, Burma, Thailand, etc are all stored in this hall.
+The Sutra Collection Pavilion sits within Guiyuan Temple (归元寺) in Wuhan's Hanyang district, one of the best-preserved Buddhist temple complexes in central China. The pavilion was built in 1696 during the reign of the Kangxi Emperor and serves as the temple's repository for sacred texts — over 7,000 Buddhist sutras, including rare manuscripts from Japan, India, Burma, and Thailand.
+
+The centrepiece is a Sakyamuni statue carved from a single block of white jade, serene in the dim interior. Guiyuan Temple is most famous for its Hall of 500 Arhats, but the Sutra Collection Pavilion is quieter and worth the extra few minutes.
+
+Getting there: Guiyuan Temple is in Hanyang, about 20 minutes by metro from Hankou station. Take Line 6 to Guiyuansi station.

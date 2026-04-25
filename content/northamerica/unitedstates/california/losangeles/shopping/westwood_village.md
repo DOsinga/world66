@@ -1,23 +1,17 @@
 ---
-title: "Westwood Village"
+address: Westwood Boulevard, Los Angeles, CA 90024
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 34.0617
+longitude: -118.4461
+snippet: Pedestrian-friendly village shopping district next to UCLA campus
+tags:
+- shopping
+title: Westwood Village
 type: poi
-address: "Take Westwood Boulevard or Gayley Avenue to enter Westwood Village"
-phone: "310-203-1870"
-type: "Shopping centers and malls"
-url: "www.westwoodblvd.com"
+url: https://www.westwoodblvd.com
 ---
 
-If you're planning an extended stay, there are literally dozens of mega malls and shopping districts in the areas surrounding Los Angeles that are well worth a visit. These include Westwood Village (www.westwoodblvd.com), beautiful 3rd Street Promenade in Santa Monica (www.thirdstreetpromenade.org) and Main Street, also in Santa Monica (www.mainstreetsm.com). Westwood Village features everythign from electronics and music to shoes and designer fashiosn and Street Promenade features stores such as Benetton, Diesel, Express, Armani, Ferd Segal, and Urban Outfitters, to name a few. And on Main Street in Santa Monica you can find dozens of specialty shops, restaurants, and cafes.
+Westwood Village is a compact, walkable shopping and dining district tucked between Beverly Hills and Brentwood, right on the edge of the UCLA campus. It has a genuine neighbourhood feel unusual for Los Angeles — you can actually park once and walk between shops.
 
-**Contributors**
-May 20, 2008
-
-type: Shopping centers and malls
-
-
-
-tel: 310-203-1870
-
-url: [www.westwoodblvd.com](http://www.westwoodblvd.com)
-
-address: Take Westwood Boulevard or Gayley Avenue to enter Westwood Village
+The main strip along Westwood Boulevard has bookshops, clothing stores, cafes, and a handful of cinemas. It's a good spot for an afternoon wander if you're visiting the Hammer Museum, which is right in the village.

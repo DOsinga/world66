@@ -2,6 +2,7 @@
 admission: Free
 latitude: 45.438
 longitude: 12.3359
+snippet: Venice's most iconic bridge with a lively fish and produce market below
 tags:
 - things_to_do
 - market

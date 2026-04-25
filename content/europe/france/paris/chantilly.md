@@ -4,6 +4,7 @@ admission: Château and park from €17
 latitude: 49.194094
 longitude: 2.481993
 opening_hours: Wed–Mon 10am–6pm (park until 8pm); closed Tue
+snippet: Stunning chateau with France's second-best old master collection
 tags:
 - day_trips
 title: Chantilly

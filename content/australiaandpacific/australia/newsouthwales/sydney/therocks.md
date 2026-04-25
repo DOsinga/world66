@@ -1,10 +1,9 @@
 ---
 latitude: -33.86
 longitude: 151.2083
+snippet: "Sydney's oldest neighbourhood of cobbled lanes and harbour views"
 tags:
 - things_to_do
-- market
-- restaurant
 - neighbourhood
 title: The Rocks
 type: poi

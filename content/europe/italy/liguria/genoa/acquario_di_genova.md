@@ -1,7 +1,10 @@
 ---
 address: Ponte Spinola, Porto Antico
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.406778
 longitude: 8.921533
+snippet: Europe's largest aquarium in a Renzo Piano ship-shaped building
 tags:
 - things_to_do
 - landmark

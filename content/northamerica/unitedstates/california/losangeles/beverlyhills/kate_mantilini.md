@@ -2,11 +2,13 @@
 address: 9101 Wilshire Blvd., Beverly Hills
 latitude: 34.067132
 longitude: -118.38982
-phone: 310-278-3699
+snippet: Iconic Beverly Hills diner featured in Heat (closed 2014)
 tags:
-- restaurants
+- eating_out
 title: Kate Mantilini
 type: poi
 ---
 
-A Beverly Hills diner-style classic, open from breakfast through late night, serving an extensive menu of American comfort food. Known for its scene in the film Heat (Al Pacino and Robert De Niro's famous coffee shop confrontation was filmed here). Daily specials are reliable; the menu is large and varied. A Los Angeles institution.
+Kate Mantilini was a Beverly Hills institution for over two decades, serving American comfort food from breakfast through late night in a striking high-ceilinged space designed by Morphosis architects. The restaurant gained wider fame as the location of the coffee shop scene in Michael Mann's Heat (1995), where Al Pacino and Robert De Niro sat across from each other for the first time on screen.
+
+The restaurant closed in 2014 after a rent dispute. The building still stands on Wilshire Boulevard and remains a recognizable piece of LA architectural history, even if you can no longer get a booth there.

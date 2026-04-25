@@ -5,6 +5,7 @@ latitude: 51.508308
 longitude: -0.076099
 opening_hours: Tue-Sat 9am-5:30pm, Sun-Mon 10am-5:30pm
 phone: +44 20 3166 6000
+snippet: Nine centuries of royal history, Crown Jewels, and Beefeater tours
 tags:
 - things_to_do
 - palace

@@ -1,9 +1,13 @@
 ---
 title: "SkyBar"
 type: poi
+snippet: Mondrian's iconic rooftop pool bar with city views
 address: "8440 Sunset Boulevard (Mondrian Hotel)"
 phone: "323-650-8999"
 url: "www.mondrianhotel.com"
+tags:
+- bars_and_cafes
+- nightlife
 latitude: 34.094383
 longitude: -118.374365
 ---

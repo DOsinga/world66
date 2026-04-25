@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 image: piazza_navona.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Piazza_Navona_(Rome)_at_night.jpg
 latitude: 41.8989
 longitude: 12.4731
+snippet: Baroque piazza built on a Roman stadium
 tags:
 - things_to_do
 - church

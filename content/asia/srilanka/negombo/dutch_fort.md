@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 7.2094
 longitude: 79.8365
+snippet: Remnants of a 1672 Dutch cinnamon-trading fort
 tags:
 - things_to_do
 - architecture

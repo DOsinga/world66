@@ -1,6 +1,7 @@
 ---
 latitude: 35.0605
 longitude: -85.3059
+snippet: Riverfront park with hand-carved carousel and fountain
 tags:
 - things_to_do
 - landmark

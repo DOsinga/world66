@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.413
 longitude: 25.348
+snippet: Relaxed beach south of Mykonos Town, less frantic than Paradise Beach.
 tags:
 - beaches
 title: Paraga Beach

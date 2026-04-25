@@ -4,8 +4,9 @@ type: poi
 tags:
   - things_to_do
   - attraction
-latitude: 34.3482
+latitude: 34.2975
 longitude: -79.9059
+snippet: NASCAR's oldest superspeedway, shaped around a minnow pond
 story: >
   The track's odd egg shape — wider at one end than the other — is a direct result of Harold Ramsay refusing to let the builders drain his minnow pond. Rather than fight him, Harold Brasington designed around it. That quirk has tormented drivers for 75 years.
 ---

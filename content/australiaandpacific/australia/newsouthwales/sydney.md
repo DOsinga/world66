@@ -1,13 +1,18 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
-  poi_cleanup: '2026-04-21'
+  poi_cleanup: '2026-04-19'
 image: sydney.jpg
 image_attribution: W. Bulach
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:00_3178_Sydney,_Australia.jpg
 latitude: -33.8698
 longitude: 151.2083
+quick_facts:
+  Population: "5.3 million"
+  Driving Side: Left
+  Harbour Coastline: "240 km"
+  Opera House Tiles: "1,056,006"
 score: 0.84
 title: Sydney
 type: location

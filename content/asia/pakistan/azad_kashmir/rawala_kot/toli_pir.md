@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.92
 longitude: 73.68
+snippet: Mountain summit with panoramic views near Rawalakot
 tags:
 - things_to_do
+- nature
 title: Toli Pir
 type: poi
 ---

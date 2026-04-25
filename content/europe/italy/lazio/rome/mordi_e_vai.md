@@ -3,11 +3,8 @@ address: Mercato di Testaccio, Box 15, Via Beniamino Franklin 12, 00153 Rome
 latitude: 41.8797
 longitude: 12.4762
 opening_hours: Mon–Sat 08:00–15:00; closed Sun
+snippet: Legendary sandwich counter inside Testaccio Market
 tags:
-- Katie Parla Rome
-- Budget Dining Rome
-- Eating in Testaccio
-- Testaccio Food Tour
 - eating_out
 - testaccio
 - restaurant

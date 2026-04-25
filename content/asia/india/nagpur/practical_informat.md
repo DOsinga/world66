@@ -1,8 +1,9 @@
 ---
-title: "Practical Information in Nagpur"
-type: section
-type: "Tourist information"
-url: "www.indiandestination.com"
+done:
+  poi_cleanup: '2026-04-20'
+title: Practical Information in Nagpur
+type: Tourist information
+url: www.indiandestination.com
 ---
 
 Tour Operator

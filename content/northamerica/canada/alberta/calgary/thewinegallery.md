@@ -1,11 +1,15 @@
 ---
+address: Bankers Hall, 315 8th Ave SW, Calgary
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 51.0465
+longitude: -114.0632
+snippet: European-style wine bar in Bankers Hall downtown
 tags:
 - eating_out
-- museum
-- cafe
 - bar
-title: The Wine Gallery .
+title: The Wine Gallery
 type: poi
 ---
 
-This European-style wine bar’s signature appetizer is a quesadilla of duckling. Also fresh Atlantic salmon. Wines served by the glass. Mona’s Kitchen is an elegant cafeteria, eat in or take out. Mon 11:30 am - 6 pm, Tues to Thur to 9 pm, Fri and Sat 11:30 am - mid.   Tel: 1 403 290-1091  Address: Bankers Hall, 315 - 8 Ave SW Calgary Alberta
+A European-style wine bar in the Bankers Hall complex downtown. Wines by the glass and a short food menu that leans upscale — the duck quesadilla is a local favourite. A good spot for a civilized drink after work.

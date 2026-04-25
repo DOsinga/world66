@@ -1,14 +1,15 @@
 ---
-title: "Palace of the Olu of Warri"
-type: poi
-tags:
-  - things_to_do
-  - palace
-  - architecture
-  - history
-  - cultural_heritage
 latitude: 5.5178
-longitude: 5.7460
+longitude: 5.746
+snippet: Ceremonial seat of the ancient Itsekiri kingdom
+tags:
+- things_to_do
+- palace
+- architecture
+- history
+- cultural_heritage
+title: Palace of the Olu of Warri
+type: poi
 ---
 
 The palace of the Olu of Warri, the traditional ruler of the Itsekiri people and one of Nigeria's first-class traditional chiefs, is in the centre of town. The Olu is an ancient institution — the Itsekiri kingdom predates the Portuguese arrival in the 15th century. The palace is not normally open to casual tourists but is a significant landmark and the ceremonial centre of traditional Warri.

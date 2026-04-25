@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -34.603
 longitude: -58.376
+snippet: Pedestrian shopping street from Plaza de Mayo northward
 tags:
 - things_to_do
 - landmark

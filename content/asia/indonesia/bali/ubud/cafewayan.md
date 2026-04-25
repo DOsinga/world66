@@ -1,7 +1,9 @@
 ---
 title: "Cafe Wayan"
 type: poi
-tags: [bars_and_cafes]
+snippet: "Established Ubud garden cafe with Indonesian and Western food"
+tags:
+- bars_and_cafes
 address: "Jalan Monkey Forest, Ubud"
 phone: "+62 361 975447"
 latitude: -8.5182

@@ -1,10 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -23.04
 longitude: -43.505
+snippet: Wild surf beach tucked between green hills west of Barra
 tags:
 - beaches
 - beach
-- park
 title: Prainha
 type: poi
 ---

@@ -1,7 +1,10 @@
 ---
 address: Michaelerkuppel, 1010 Wien
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.206329
 longitude: 16.365626
+snippet: Habsburg imperial palace with museums and riding school
 tags:
 - things_to_do
 - landmark

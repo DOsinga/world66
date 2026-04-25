@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 12.6573
 longitude: -7.9981
+snippet: Hilltop viewpoint with sweeping views over Bamako and the Niger River
 tags:
 - things_to_do
 - sight

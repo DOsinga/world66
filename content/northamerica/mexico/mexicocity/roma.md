@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 19.415
 longitude: -99.1622
+snippet: Art-deco neighbourhood packed with restaurants and mezcalerías
 tags:
 - things_to_do
 - neighbourhood

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.4204
 longitude: -99.182
+snippet: Massive city park with castle, museums, and lake
 tags:
 - things_to_do
 - landmark

@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.6035
 longitude: -7.6207
+snippet: Historic walled quarter wedged between port and modern city
 tags:
-- things_to_do
-- neighbourhood
+- history
+- architecture
 title: Old Medina
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 28.1008
 longitude: -15.4147
+snippet: "Las Palmas's oldest quarter, founded 1478, with colonial mansions and carved balconies"
 tags:
 - things_to_do
 - neighbourhood

@@ -1,8 +1,11 @@
 ---
 address: Koninklijk Park 1
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.234
 longitude: 5.9458
 phone: +31 55 577 2400
+snippet: Royal baroque palace with magnificent restored gardens, now a museum
 tags:
 - things_to_do
 - museum

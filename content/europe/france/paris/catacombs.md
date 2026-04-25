@@ -1,9 +1,12 @@
 ---
 address: 1 Avenue du Colonel Henri Rol-Tanguy, 75014 Paris
 admission: €29 (with audio guide); book online — often sold out weeks ahead
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.833801
 longitude: 2.332409
 opening_hours: Tue–Sun 9:45am–8:30pm; closed Mon
+snippet: Six million Parisians' bones arranged in underground quarry tunnels
 tags:
 - things_to_do
 title: The Catacombs

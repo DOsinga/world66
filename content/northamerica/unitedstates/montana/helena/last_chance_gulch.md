@@ -1,10 +1,12 @@
 ---
 title: "Last Chance Gulch"
 type: poi
+snippet: Historic pedestrian mall tracing Helena's 1864 gold strike
 tags:
   - things_to_do
   - sight
   - historic_district
+  - story
 latitude: 46.5955
 longitude: -112.0272
 ---

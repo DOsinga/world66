@@ -2,6 +2,7 @@
 address: Ait Benhaddou, 32km from Ouarzazate
 latitude: 31.0472
 longitude: -7.1315
+snippet: UNESCO fortified village and iconic film location
 tags:
 - things_to_do
 - sight

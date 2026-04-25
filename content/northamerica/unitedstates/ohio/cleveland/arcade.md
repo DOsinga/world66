@@ -1,12 +1,15 @@
 ---
 address: 401 Euclid Avenue
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.499
 longitude: -81.6905
 phone: 216 696 1408
+snippet: America's first indoor shopping mall with soaring atrium
 tags:
 - things_to_do
-- museum
-- tower
+- landmark
+- historic_building
 title: The Arcade
 type: poi
 url: www.thearcade-cleveland.com

@@ -2,6 +2,7 @@
 title: "Apparition Hill (Podbrdo)"
 type: poi
 category: "Sight"
+snippet: "Rocky hillside where 1981 Marian visions began"
 latitude: 43.1883
 longitude: 17.6842
 ---

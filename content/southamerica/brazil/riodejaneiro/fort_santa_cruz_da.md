@@ -1,10 +1,13 @@
 ---
 address: Niteroi
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.934
 longitude: -43.128
+snippet: Historic bay-mouth fort with views back to Sugar Loaf
 tags:
 - things_to_do
-- palace
+- landmark
 title: Fort Santa Cruz da Barra
 type: poi
 ---

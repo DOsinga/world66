@@ -1,6 +1,7 @@
 ---
 title: 'Tanjung Gelam'
 type: poi
+snippet: Palm-fringed beach with decent snorkelling at the island's tip
 tags:
   - beaches
   - sight

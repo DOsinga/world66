@@ -1,6 +1,7 @@
 ---
 latitude: 55.174989
 longitude: 30.213601
+snippet: "Small city zoo behind the WWII Museum, modest conditions"
 tags: [things_to_do, zoo]
 title: Vitebsk Zoo
 type: poi

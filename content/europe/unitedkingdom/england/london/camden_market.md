@@ -1,8 +1,11 @@
 ---
 address: Camden High Street and Chalk Farm Road, London NW1
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.543611
 longitude: -0.147222
 opening_hours: Daily 10am-6pm
+snippet: London's iconic canal-side market for street food and subculture
 tags:
 - shopping
 - shop

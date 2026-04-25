@@ -1,13 +1,14 @@
 ---
 address: 143 Strand, London WC2R 1JA
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.511394
 longitude: -0.118403
 price: Budget
+snippet: Unchanged 1951 canteen serving homely Indian food on the Strand
 tags:
 - eating_out
 - restaurant
-- church
-- club
 title: India Club
 type: poi
 ---

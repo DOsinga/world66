@@ -2,6 +2,7 @@
 address: To Tei Wan, Shek O, Hong Kong Island
 latitude: 22.2358
 longitude: 114.2308
+snippet: Ridgeline hike with sweeping South China Sea views
 tags:
 - things_to_do
 title: Dragon's Back Trail

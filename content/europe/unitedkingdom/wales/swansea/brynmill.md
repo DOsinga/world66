@@ -1,6 +1,7 @@
 ---
 latitude: 51.612524
 longitude: -3.970864
+snippet: "Swansea's oldest park with a serpentine lake and bowling green"
 tags:
 - things_to_do
 - landmark

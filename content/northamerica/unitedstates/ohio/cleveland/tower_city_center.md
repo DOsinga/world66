@@ -1,12 +1,13 @@
 ---
 address: 50 Public Square
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 41.4993
+longitude: -81.6944
 phone: 216-771-0033
+snippet: Downtown Cleveland's transit hub mall connected to Terminal Tower
 tags:
 - shopping
-- shop
-- park
-- tower
-- theatre
 title: The Avenue at Tower City Center
 type: poi
 url: www.towercitycenter.com

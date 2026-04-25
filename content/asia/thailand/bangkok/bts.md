@@ -1,9 +1,9 @@
 ---
 latitude: 13.7453
 longitude: 100.534
+snippet: Elevated rail that beats Bangkok's notorious traffic
 tags:
 - getting_around
-- square
 title: BTS Skytrain
 type: poi
 ---

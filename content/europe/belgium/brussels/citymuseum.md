@@ -1,7 +1,10 @@
 ---
 address: Grand-Place
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.846976
 longitude: 4.352781
+snippet: Brussels history museum with Manneken Pis's enormous wardrobe
 tags:
 - things_to_do
 - museum

@@ -1,15 +1,16 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-21'
+image: paris.jpg
+image_attribution: Kainet
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_HDR_2007.jpg
 latitude: 48.8566
 longitude: 2.3522
+score: 1.0
 title: Paris
 type: location
-score: 1.0
-image: paris.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_HDR_2007.jpg
-image_license: CC BY 2.0
-image_attribution: Kainet
 ---
 
 Paris is the most visited city on earth, and familiarity with its image makes it easy to underestimate. You arrive knowing the Eiffel Tower, Notre-Dame, and the Louvre from a thousand photographs, but the city constantly surprises. The quartiers you didn't plan to visit, the food market you stumbled into, the view down a Haussmann boulevard at dusk — these are what stay with you.

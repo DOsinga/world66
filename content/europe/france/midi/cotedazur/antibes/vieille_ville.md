@@ -1,6 +1,7 @@
 ---
 latitude: 43.5798
 longitude: 7.1263
+snippet: Ochre lanes, morning market, and Vauban's seawall
 tags:
 - things_to_do
 - neighbourhood

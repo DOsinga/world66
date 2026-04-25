@@ -1,7 +1,8 @@
 ---
 title: "Melissani Cave"
 type: poi
-category: Sight
+tags: [things_to_do, sight]
+snippet: "Underground lake glowing electric blue at midday"
 latitude: 38.2543
 longitude: 20.6228
 ---

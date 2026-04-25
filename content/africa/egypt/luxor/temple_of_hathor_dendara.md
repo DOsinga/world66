@@ -1,6 +1,7 @@
 ---
 latitude: 26.1451
 longitude: 32.6717
+snippet: Superbly preserved Ptolemaic temple with vivid ceiling reliefs
 tags:
 - things_to_do
 - landmark

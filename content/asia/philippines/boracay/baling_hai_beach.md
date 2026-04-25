@@ -1,6 +1,7 @@
 ---
 latitude: 11.9795
 longitude: 121.9095
+snippet: Quiet northwest cove where food arrives by basket on a cliff pulley
 tags:
 - beaches
 title: Baling Hai Beach

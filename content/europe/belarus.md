@@ -1,15 +1,21 @@
 ---
-latitude: 53.425061
-longitude: 27.697136
-title: Belarus
-type: location
-image: belarus.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Miensk_-_Plac_Niezaležnaści.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Zedlik" title="User:Zedlik">Zedlik</a>
 done:
   country_cleanup: 2026-03-30
+  poi_cleanup: '2026-04-19'
+image: belarus.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Zedlik" title="User:Zedlik">Zedlik</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Miensk_-_Plac_Niezaležnaści.jpg
+latitude: 53.425061
+longitude: 27.697136
+quick_facts:
+  Population: "9.2 million"
+  Visa: "30-day visa-free via Minsk airport"
+  Forest Cover: "40% of the country"
+  Białowieża Forest: "Last primeval lowland forest in Europe"
 score: 0.33
+title: Belarus
+type: location
 ---
 
 The very word Belarus should inspire visions of beauty and kindness, if it does not, then most likely you have not been there. Belarus has retained its mystery, it has remained virtually closed and unexplored since the fall of Communism. Belarus is little known, little understood, and even less traveled. It is one of the few countries in the former Soviet Union where Lenin still stands and the Soviet symbol, the sickle and hammer, can be found in abundance. It is the only country that still uses the KGB. Powerful forces in Belarus are guiding it forward and forcing it backward at the same time.

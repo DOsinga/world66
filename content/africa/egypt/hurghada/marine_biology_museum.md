@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 27.278
 longitude: 33.814
+snippet: Walk-through aquarium showcasing Red Sea coral and marine life
 tags:
 - things_to_do
 title: Marine Biology Museum

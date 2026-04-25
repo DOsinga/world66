@@ -1,6 +1,7 @@
 ---
 title: "Les Grandes Écuries"
 type: poi
+snippet: Monumental 18th-century stables housing a living horse museum
 category: "Museum"
 address: "Rue du Connétable, 60500 Chantilly"
 url: "www.domainedechantilly.com"

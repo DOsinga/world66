@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Jantar Mantar
 type: poi
+snippet: "18th-century open-air observatory with world's largest sundial"
 ---
 
 An 18th-century open-air astronomical observatory built by Maharaja Jai Singh II, and one of five he built across north India. Nineteen large instruments of stone and brass — including the world's largest sundial (27 metres), accurate to 2 seconds. UNESCO World Heritage. Take a guide or the audio tour to make sense of what you're looking at.

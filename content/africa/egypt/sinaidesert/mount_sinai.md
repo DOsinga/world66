@@ -1,6 +1,7 @@
 ---
 latitude: 28.5392
 longitude: 33.975
+snippet: Sacred summit with stunning sunrise over granite peaks
 tags:
 - things_to_do
 - sight

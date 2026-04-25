@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - castle
   - sight
+snippet: "Moated 14th-century fortress with frescoed halls and grim dungeons"
 address: 'Largo Castello, 1'
 opening_hours: '9:30-17:30, closed on Monday'
 latitude: 44.8376

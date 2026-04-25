@@ -1,6 +1,7 @@
 ---
 latitude: 38.8818
 longitude: -6.9712
+snippet: Massive 9th-century Moorish fortress overlooking the Guadiana valley
 tags:
 - things_to_do
 - landmark

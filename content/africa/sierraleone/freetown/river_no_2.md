@@ -1,6 +1,7 @@
 ---
 title: "River No. 2"
 type: poi
+snippet: "Pristine jungle-lined white-sand beach where a river meets the Atlantic"
 tags:
   - beaches
   - beach

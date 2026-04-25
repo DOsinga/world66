@@ -1,8 +1,11 @@
 ---
 address: Campo de' Fiori, 00186 Rome
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8955
 longitude: 12.4722
+snippet: Morning market square that becomes Rome's liveliest evening nightlife spot
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

@@ -1,6 +1,7 @@
 ---
 title: Nairobi National Park
 type: poi
+snippet: "Wildlife reserve with Big Five views against the city skyline"
 tags:
   - things_to_do
   - day_trips

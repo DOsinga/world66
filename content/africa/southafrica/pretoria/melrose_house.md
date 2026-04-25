@@ -1,7 +1,10 @@
 ---
 address: 275 Jeff Masemola Street, Pretoria Central
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -25.7555
 longitude: 28.1925
+snippet: Victorian villa where the Treaty of Vereeniging ending the Boer War was signed
 tags:
 - things_to_do
 - museum

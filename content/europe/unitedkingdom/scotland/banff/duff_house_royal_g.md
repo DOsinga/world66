@@ -2,6 +2,7 @@
 address: The Barnyards, Banff AB45 3SX
 latitude: 57.6573
 longitude: -2.5207
+snippet: "Riverside parkland course beside an Adam mansion"
 tags:
 - things_to_do
 - landmark

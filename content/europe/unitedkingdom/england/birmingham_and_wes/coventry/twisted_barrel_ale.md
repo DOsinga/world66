@@ -1,6 +1,7 @@
 ---
 latitude: 52.4124
 longitude: -1.4979
+snippet: Craft brewery and taproom in FarGo Village's railway arches
 tags:
 - bars_and_cafes
 title: Twisted Barrel Ale

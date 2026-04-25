@@ -1,5 +1,8 @@
 ---
 address: 71 rue Saint-Paul, Québec City, QC G1K 3V8
+latitude: 46.8131
+longitude: -71.2023
+snippet: All-you-can-eat mussels bistro in Lower Town
 tags:
 - eating_out
 title: L'Ardoise

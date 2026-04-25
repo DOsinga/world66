@@ -3,6 +3,7 @@ address: Yeouinaru
 latitude: 37.526853
 longitude: 126.932529
 phone: 02 789 5663 5
+snippet: Seoul's golden skyscraper with panoramic views from the 63rd floor.
 tags:
 - things_to_do
 - architecture
@@ -34,9 +35,4 @@ Admission & Operating Hours
 63Seaworld 10:00 – 21:00 (last admission 20:30)
 63IMAXTheatre (last show 20:10 except Sat, Holiday 21:10)
 
-http://www.63city.co.kr/english/ (All attractions are now open again).
-
 Getting There: Yeouinaru Stn. (Line5, Exit3) then a 10-minute walk.
-
-**Contributors**
-January 05, 2007

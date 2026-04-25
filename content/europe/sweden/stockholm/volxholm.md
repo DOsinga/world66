@@ -1,13 +1,17 @@
 ---
-address: 3825 South Olney Street, Indianapolis, Indiana 46237
-email: wecanbuild2@yahoo.com
-latitude: 39.711774
-longitude: -86.105385
-phone: 317.784.4567
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 59.4024
+longitude: 18.3504
+snippet: Charming archipelago town reachable by ferry from Stockholm
 tags:
 - day_trips
 title: Vaxholm
 type: poi
 ---
 
-A nice trip to see the wonderful waterways and archipelago is to take one of the Ferry's in front of the Grand Hotel to Vaxholm. Tickets are sold right there either in the concession booth in front of the Ferry or on the Ferry itself. The town of Vaxholm is about a 30 minute ride and the Ferry stops along the way to pick people up and drop them off (hence the word Ferry).. You can grab a nice drink or a beer and sit on top and watch the different places and you will notice the drastic difference between the aristocratic mansions as you are leaving Stockholm proper and the quaint village atmosphere with cotteges as you arrive Vaxholm. The village of Vaxholm has a lot of craft shops directly when you depart the Ferry and enough to keep you entertained for a few hours. There is some type of old Military museum you can see to the right (might be an old Fort) but we didn't take the time to explore that option. The hotel by the Ferry drop of has an excellent restaurant that you can sit in the glass windowed seating area and people watch the people coming to and fro below. A nice bottle of wine, some good cheese it was a nice way to spend the afternoon before returning
+Vaxholm is a small town on an island in the Stockholm archipelago, about 30 minutes by ferry from the city centre. Boats leave from in front of the Grand Hotel at Strandvagen; you can buy tickets at the dock or on board.
+
+The ride out is half the fun. Watch the scenery shift from the grand waterfront mansions near central Stockholm to the smaller, more modest cottages as you approach Vaxholm. The town itself is compact and walkable, with craft shops near the ferry landing and enough to keep you occupied for a few hours. Vaxholm Fortress, a 16th-century military installation on a small island just offshore, houses a museum and is worth a look if you have time.
+
+Several restaurants line the harbour. Grab a window seat, order some local fish, and watch the ferries come and go before heading back.

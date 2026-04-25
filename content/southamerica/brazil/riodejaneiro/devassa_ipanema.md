@@ -1,11 +1,13 @@
 ---
 address: Rua Prudente de Moraes, 416 - Ipanema
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.985613
 longitude: -43.2
+snippet: Lively craft-beer bar with house-brewed draughts in Ipanema
 tags:
-- bars_and_cafes
-- bar
-- neighbourhood
+- nightlife
+- food
 title: Devassa Ipanema
 type: poi
 ---

@@ -10,6 +10,11 @@ latitude: -0.8037
 longitude: 11.6094
 title: Gabon
 type: location
+quick_facts:
+  Population: "2.4 million"
+  Language: "French"
+  Rainforest Cover: "88%"
+  National Parks: "13"
 score: 0.36
 ---
 

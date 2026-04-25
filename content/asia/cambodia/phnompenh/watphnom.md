@@ -1,8 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.5761
 longitude: 104.9232
+snippet: Hilltop temple that gave Phnom Penh its name
 tags:
 - things_to_do
+- sights
+- story
 title: Wat Phnom
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 6.4975
 longitude: 2.6255
+snippet: Yoruba masks and local history in Porto-Novo
 tags:
 - things_to_do
 - museum

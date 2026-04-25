@@ -1,8 +1,11 @@
 ---
 address: Vicolo del Bologna 45, 00153 Rome
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8897
 longitude: 12.4688
 opening_hours: Daily 12:00–midnight
+snippet: Trastevere pizzeria known for chewy crust and Nutella dessert pizza
 tags:
 - 48 Hours in Rome
 - eating_out

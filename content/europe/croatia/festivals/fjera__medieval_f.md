@@ -1,29 +1,19 @@
 ---
-title: "Fjera - medieval fair"
-type: poi
-address: "Town Rab"
-date: "25-27.07."
-email: "info@kristofor.hr"
-url: "www.kristofor.hr"
+address: Town of Rab
+done:
+  poi_cleanup: '2026-04-20'
+email: info@kristofor.hr
 latitude: 44.775687
 longitude: 14.734712
+snippet: Three-day medieval fair with crafts and crossbow tournament
+tags:
+- things_to_do
+- festival
+title: Fjera - Medieval Fair
+type: poi
+url: www.kristofor.hr
 ---
 
-During the 3 days in July ( 25, 25th & 27th July) a medieval fair is held on island [Rab](/europe/croatia/festivals). People dress up in historical costumes and have open air workshops of the "medieval life"... Visitors can see traditional crafts; pottery, painting, fishing, coinage, stitching, basket weaving, carpentry, sculpting or learn the flower arrangements from the florists, see the honey makers, herbalists or even hear the stories from the cross-bow archers who will explain the technique and the history of the crossbow.
+Every July (typically the 25th to 27th), the town of Rab hosts Fjera, a three-day medieval fair. Locals dress in historical costumes and run open-air workshops demonstrating traditional crafts — pottery, coinage, basket weaving, carpentry, and sculpting. You can also watch honey makers, herbalists, and florists at work.
 
-The festival culminates with the parade and the crossbow archers tournament on the St. Christopher's square and the fireworks.
-
-**Contributors**
-June 14, 2005
-
-
-
-
-
-url: [www.kristofor.hr](http://www.kristofor.hr/english-archers.html)
-
-date: 25-27.07.
-
-address: Town Rab
-
-email: info@kristofor.hr
+The highlight is the crossbow archers' tournament on St. Christopher's Square, where archers explain the history and technique of the crossbow before competing. The festival closes with a parade and fireworks.

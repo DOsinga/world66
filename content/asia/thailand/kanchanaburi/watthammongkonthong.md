@@ -1,7 +1,10 @@
 ---
 title: "Wat Tham Mongkon Thong"
 type: poi
-tags: [things_to_do]
+snippet: "Cave temple with dragon stairway, known as the Floating Nun temple"
+tags:
+- things_to_do
+- temple
 latitude: 13.9878
 longitude: 99.5132
 ---

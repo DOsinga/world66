@@ -1,14 +1,11 @@
 ---
 title: "Uno"
 type: poi
-type: "African"
-latitude: 14.40184
-longitude: 120.928444
+snippet: "Popular pizza spot on Lahore's upscale M.M. Alam Road"
+tags:
+- restaurants
+latitude: 31.5204
+longitude: 74.3587
 ---
 
-Also on M.M. Alam Road, very yummie american pizza in lot of different types and in a nice surrounding.
-
-**Contributors**
-July 03, 2006
-
-type: African
+A popular pizza restaurant on M.M. Alam Road in Gulberg, Lahore's main strip for dining out. Uno serves American-style pizzas in a variety of toppings in a comfortable, modern setting. The road itself is lined with restaurants and cafes, making it a good area for an evening out.

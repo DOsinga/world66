@@ -1,7 +1,10 @@
 ---
 address: Opposite TDCP Tourist Information Centre, Mall Road
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.9072
 longitude: 73.394
+snippet: Multi-cuisine Mall Road staple since 1993
 tags:
 - eating_out
 title: Red Onion

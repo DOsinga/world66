@@ -1,8 +1,11 @@
 ---
 address: Rua Visconde de Piraja 112A - Ipanema
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.984037
 longitude: -43.208755
 phone: 2540-0870
+snippet: Popular expat Irish pub in Ipanema
 tags:
 - bars_and_cafes
 - bar

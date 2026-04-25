@@ -4,6 +4,7 @@ admission: €12, concessions €8; free for under-18s
 latitude: 49.4845
 longitude: 8.4782
 opening_hours: Tue–Sun 10:00–18:00, Wed until 20:00; closed Mon
+snippet: Strong Impressionist and Expressionist collection in Jugendstil building
 tags:
 - things_to_do
 - museum

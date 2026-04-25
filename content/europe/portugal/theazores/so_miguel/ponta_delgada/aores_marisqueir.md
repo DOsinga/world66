@@ -3,6 +3,7 @@ address: Rua Eng. José Cordeiro, 20, 9500-311 Ponta Delgada
 latitude: 37.7424
 longitude: -25.6572
 phone: 296 385 093
+snippet: Popular local seafood spot near the marina
 tags:
 - eating_out
 title: Açores Marisqueira

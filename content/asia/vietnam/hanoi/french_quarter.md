@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 21.0245
 longitude: 105.8562
+snippet: Colonial boulevards south of Hoan Kiem Lake with Opera House and cafes
 tags:
 - things_to_do
 - neighbourhood

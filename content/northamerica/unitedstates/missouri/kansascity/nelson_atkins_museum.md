@@ -2,6 +2,7 @@
 address: 4525 Oak St, Kansas City, MO 64111
 latitude: 39.044
 longitude: -94.5793
+snippet: World-class free art museum with giant shuttlecock sculptures
 tags:
 - things_to_do
 - museum

@@ -2,6 +2,7 @@
 category: Neighbourhood
 latitude: 51.5055
 longitude: -0.091
+snippet: "London's oldest food market, trading here since the twelfth century"
 tags:
 - things_to_do
 - neighbourhood

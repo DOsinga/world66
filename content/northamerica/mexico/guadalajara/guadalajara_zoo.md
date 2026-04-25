@@ -1,9 +1,10 @@
 ---
 latitude: 20.7005
 longitude: -103.3189
+snippet: "One of Mexico's largest zoos, set in a dramatic canyon"
 tags:
 - things_to_do
-- landmark
+- zoo
 title: Guadalajara Zoo
 type: poi
 ---

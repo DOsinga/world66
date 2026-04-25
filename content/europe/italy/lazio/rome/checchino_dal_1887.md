@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Checchino dal 1887
 type: poi
+snippet: "Rome's most serious quinto quarto restaurant, built into a hill of broken Roman amphorae"
 url: www.checchino-dal-1887.com
 ---
 

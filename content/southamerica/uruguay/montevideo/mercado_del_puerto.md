@@ -4,6 +4,7 @@ longitude: -56.2062
 tags:
 - things_to_do
 - sight
+snippet: "Iron-framed market hall filled with charcoal parrilla grills"
 title: Mercado del Puerto
 type: poi
 ---

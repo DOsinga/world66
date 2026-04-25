@@ -1,8 +1,11 @@
 ---
 address: 1 rue des Carrières, Québec City, QC G1R 4P5
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 46.811308
 longitude: -71.205054
 phone: 418 692-3861
+snippet: The iconic turreted railway hotel dominating Old Québec
 tags:
 - things_to_do
 title: Château Frontenac

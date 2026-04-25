@@ -1,6 +1,7 @@
 ---
 latitude: 33.7626
 longitude: -118.1965
+snippet: Major Pacific Ocean aquarium with shark lagoon
 tags:
 - things_to_do
 - sight

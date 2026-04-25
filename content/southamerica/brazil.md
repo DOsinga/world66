@@ -1,18 +1,22 @@
 ---
-done:
-  country_cleanup: 2026-03-29
-  poi_cleanup: '2026-04-21'
+title: Brazil
+type: location
+latitude: -10.333333
+longitude: -53.2
+quick_facts:
+  Population: "215 million"
+  Language: "Portuguese — Spanish not understood"
+  Amazon Rainforest: "60% of it is in Brazil"
+  Coastline: "7,491 km — longest in the Atlantic"
 image: brazil.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rio2009-2.JPG
+image_license: Public domain
 image_attribution: <a href="https://en.wikipedia.org/wiki/sr:User:%D0%88%D0%B0%D0%BA%D1%88%D0%B0"
   class="extiw" title="w:sr:User:Јакша">Јакша</a> at <a href="https://en.wikipedia.org/wiki/sr:"
   class="extiw" title="w:sr:">Serbian Wikipedia</a>
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Rio2009-2.JPG
-latitude: -10.333333
-longitude: -53.2
+done:
+  country_cleanup: 2026-03-29
 score: 0.36
-title: Brazil
-type: location
 ---
 
 Brazil is the largest country of South America. It borders every other country of the continent except Chile and Ecuador.

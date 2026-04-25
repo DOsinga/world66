@@ -1,23 +1,15 @@
 ---
-latitude: 52.71909
-longitude: 4.667371
+latitude: 52.3791
+longitude: 4.8994
 tags:
 - activities
 title: Climbing
 type: poi
+snippet: "Indoor climbing walls in a flat city — surprisingly good options"
 ---
 
-Climbing is not the first things that comes to mind when you think of Amsterdam. There are three indoor climbing halls however, and they offer good possibilities in a relaxed atmosphere.
- 
+Amsterdam is famously flat, but it has a handful of decent indoor climbing walls for when the weather turns grey. Gear rental is available at all of them, so you don't need to bring your own.
 
-**Recommendations**
+**Klimmuur Centraal** is the most convenient option if you're staying in the city centre. It sits at De Ruyterkade 16 near Central Station, tucked between the rail tracks heading east. There's a café on site worth stopping at.
 
-**Klimmuur Centraal**
-
-Near the Central Station, walk in the direction of the Bote (East) then it's between the tracks. Since the other climbing halls are located outside of the center, I would recommend this one. You can hire your gear here. you can also buy great food; try the BLT, for instance. 
-
-De Ruyterkade 16 [more..](/europe/netherlands/amsterdam/activities/climbing/klimmuurcentraal)
-
-**THEA**
-
-THEA is in the west of Amsterdam in an old Church. The name actually means between Heaven and Earth. You can rent equipment.
+**THEA** occupies a converted church in west Amsterdam — the name is a Dutch abbreviation meaning "between heaven and earth." The setting makes it worth a visit on its own terms.

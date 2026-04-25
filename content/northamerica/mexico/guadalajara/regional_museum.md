@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 20.6745
 longitude: -103.3436
+snippet: Jalisco history from mammoth bones to colonial art in a former seminary
 tags:
 - things_to_do
 - museum

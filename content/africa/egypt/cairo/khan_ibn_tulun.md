@@ -1,10 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.028889
 longitude: 31.249722
+snippet: Quality crafts shop behind Ibn Tulun Mosque with Bedouin jewellery and textiles
 tags:
 - shopping
 - shop
-- church
 - market
 title: Khan Ibn Tulun
 type: poi

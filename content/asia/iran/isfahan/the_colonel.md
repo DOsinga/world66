@@ -1,6 +1,9 @@
 ---
 author: Mahmoud Dowlatabadi
+done:
+  poi_cleanup: '2026-04-20'
 isbn: 978-1612191690
+snippet: Dowlatabadi's bleak masterpiece on Iran's revolutionary toll
 tags:
 - books
 title: The Colonel

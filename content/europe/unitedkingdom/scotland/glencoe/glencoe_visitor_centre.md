@@ -1,7 +1,10 @@
 ---
 title: "Glencoe Visitor Centre"
 type: poi
-category: Museum
+snippet: "NTS centre covering glen ecology and the 1692 massacre"
+tags:
+- things_to_do
+- museum
 latitude: 56.6926
 longitude: -5.1021
 ---

@@ -1,19 +1,13 @@
 ---
-title: "Elephant Ride"
+latitude: 27.5802
+longitude: 84.5023
+snippet: Elephant breeding center with ethical concerns about rides
+tags:
+- things_to_do
+title: Elephant Encounters
 type: poi
-address: "Sauraha"
-type: "Climbing"
-latitude: 27.580163
-longitude: 84.502306
 ---
 
-Taking a ride on one of the government-owned elephants was the best part of my trip! The mahouts are very knowledgable about where to see wildlife, though it helps to have someone who speaks Nepali. Early morning is the best time to go, as that's when the animals are about.
+Chitwan's government-run elephant breeding center at Sauraha offers elephant encounters, and some operators still run elephant-back safaris into the park. Be aware that animal welfare organizations widely discourage riding elephants, and the practice is declining across Nepal. Walking safaris and jeep safaris are better alternatives for wildlife viewing — you'll see just as much, often more, without the ethical baggage.
 
-**Contributors**
-September 02, 2004
-
-type: Climbing
-
-
-
-address: Sauraha
+If you do visit the breeding center, you can observe the elephants and learn about the conservation breeding program without riding. The center is free to enter and open daily.

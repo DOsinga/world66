@@ -2,6 +2,7 @@
 address: Broad and Market Streets
 latitude: 39.9526
 longitude: -75.1636
+snippet: "Largest US municipal building, topped by William Penn's statue"
 tags:
 - things_to_do
 - architecture

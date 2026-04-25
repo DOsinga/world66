@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.5334
 longitude: 36.2733
+snippet: Hilltop viewpoint overlooking Damascus with sunset cafes.
 tags:
 - things_to_do
 - landmark

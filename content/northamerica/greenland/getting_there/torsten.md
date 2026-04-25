@@ -1,12 +1,11 @@
 ---
-title: "Icelandair"
+done:
+  poi_cleanup: '2026-04-20'
+snippet: Fly to East Greenland via Reykjavik with Icelandair
+tags:
+- story
+title: Icelandair via Reykjavik
 type: poi
-type: "By Air"
 ---
 
-There' i also the possibility of flying from Reykjavik, Iceland (REK) to Kulusuk (KUS) taking Icelandair ( www.icelandair.is). Flights run once a week during winter, increased scheduled flight during summer. Fares start from ISK 15000 one way. This way you can combine your vacation in Iceland and Greenland...! There are great deals awailable for flights to Iceland either from Europe or the States.
-
-**Contributors**
-February 25, 2008
-
-type: By Air
+Icelandair operates flights from Reykjavik to Kulusuk in East Greenland. In winter there is typically one flight per week, with an increased schedule during summer. This route makes it easy to combine a trip to Iceland with a side visit to Greenland's dramatic east coast. Check current schedules and fares at icelandair.is.

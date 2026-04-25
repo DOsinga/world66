@@ -1,12 +1,14 @@
 ---
 address: Piazza Santa Maria Liberatrice, Testaccio
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.878319
 longitude: 12.477474
 phone: +39 06 5746270
+snippet: popular thin-crust pizzeria on Testaccio's local square
 tags:
 - eating_out
 - restaurant
-- neighbourhood
 title: San Remo Pizzeria
 type: poi
 ---

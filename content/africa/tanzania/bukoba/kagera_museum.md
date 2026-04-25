@@ -1,8 +1,11 @@
 ---
 address: Near Nyamukazi, Bukoba, Kagera, Tanzania
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -1.3375
 longitude: 31.8115
 phone: +255 28 222 0203
+snippet: Wildlife photography and regional history by the lake
 tags:
 - things_to_do
 - museum

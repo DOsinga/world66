@@ -1,7 +1,14 @@
 ---
 address: Intramuros, Manila
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.594462
 longitude: 120.97009
+snippet: Spanish citadel where Rizal spent his final hours
+story: Brass footprints embedded in the cobblestones trace the path José Rizal walked
+  from his cell to the firing squad on December 30, 1896. The route passes through
+  the gate and across the plaza — a pilgrimage path that Filipino schoolchildren still
+  follow today.
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 title: "West Virginia State Capitol"
 type: poi
+snippet: "Gold-domed 1932 capitol with free museum and grounds"
 category: Architecture
 latitude: 38.3365
 longitude: -81.6127

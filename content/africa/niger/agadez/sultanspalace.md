@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 16.973
 longitude: 7.991
+snippet: Audience with the centuries-old Sultan of Agadez
 tags:
 - things_to_do
 title: Sultan's Palace

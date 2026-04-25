@@ -1,6 +1,7 @@
 ---
 latitude: 37.8881
 longitude: -4.8678
+snippet: UNESCO-listed Umayyad palace city risen and destroyed within a single century
 story: Built by caliph Abd al-Rahman III in 936 as a statement of Umayyad power, the
   city was sacked and destroyed by Berber troops barely seventy years later. It vanished
   so completely that for centuries even its location was forgotten.

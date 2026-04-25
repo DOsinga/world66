@@ -4,23 +4,13 @@ tags:
 - go_karting
 - family_activity
 - outdoor_activity
-title: Karting and Beach Buggy racing
+title: Mombasa Motorsport Arena
 type: poi
-url: www.mombasa-gokart.com
+snippet: "Go-kart track under palm trees with camels, beach buggies, and kids' rides"
+latitude: -3.9943
+longitude: 39.7063
 ---
 
-A Go-Kart track with African charme. You drive under palm trees, and on which other Go-Kart track will you find camels and donkeys and turtles?
-But beside the African touch, the place is on top standard with well maintained and fast Swiss Hutless go-Karts, and state of the art timing system. The karts have remote controlled speed governors, so that the speed can be reduced for kids.
-Since a few month they added also an Off-Road Race Track where you can hire and drive with beach buggies. Really cool!
-Mombasa Motorsport Arena is the best family place at the coast. Beside racing there is also lots of other entertainment: Video-Games, a big garden with lots of animals, a real bulldozer(excavator) for hire for kids, a playground ... and an ample bar for the parents with direct view on all.
+Mombasa Motorsport Arena is one of the more unusual go-kart tracks in the world — you drive under palm trees while camels and donkeys watch from the sidelines. The Swiss-made karts are well maintained and fast, with remote-controlled speed governors so kids can race safely. An off-road beach buggy track rounds out the motorsport options.
 
-**Contributors**
-March 04, 2010
-
-type: Other
-
-
-
-
-
-url: [www.mombasa-gokart.com](http://www.mombasa-gokart.com)
+Beyond the racing, there's a large garden with animals, a proper children's playground, a bulldozer for kids to operate, and video games. The bar has a direct view of the tracks, which parents tend to appreciate. A solid half-day out on the Kenyan coast for families.

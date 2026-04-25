@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.1045
 longitude: 74.8376
+snippet: Srinagar's iconic lake with shikaras and floating gardens
 tags:
 - things_to_do
 - landmark

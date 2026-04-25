@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.3795
 longitude: 2.7732
+snippet: Haunting WWI memorial with preserved trenches on the ridge
 story: The two white pylons of the Canadian National Vimy Memorial represent Canada
   and France. The Battle of Vimy Ridge in April 1917 was the first time all four divisions
   of the Canadian Corps fought together — the victory is often described as a turning

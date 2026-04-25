@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.619
 longitude: -83.7421
+snippet: Vast revolutionary mural tracing evolution across a sheer mogote cliff face
 story: 'The mural was painted by Leovigildo González Morillo, a student of Diego Rivera,
   beginning in 1961 on the orders of Che Guevara as a statement of revolutionary creativity.
   It took 18 painters four years to complete on the sheer face of the Pita mogote.

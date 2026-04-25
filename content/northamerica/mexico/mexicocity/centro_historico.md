@@ -1,6 +1,7 @@
 ---
 latitude: 19.4338
 longitude: -99.1369
+snippet: UNESCO colonial grid built over the Aztec capital, endlessly walkable
 tags:
 - things_to_do
 - neighbourhood

@@ -1,6 +1,7 @@
 ---
 latitude: -23.014679
 longitude: -43.290608
+snippet: Secluded cove between Sao Conrado and Barra da Tijuca
 tags:
 - beaches
 - beach

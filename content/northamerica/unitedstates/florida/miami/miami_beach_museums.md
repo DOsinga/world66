@@ -1,5 +1,8 @@
 ---
 duration: 4h
+image: miami_beach_museums.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Miami_Beach_FL_Arch_Dist_Wolfsonian01.jpg
 neighbourhood: South Beach
 pois:
 - northamerica/unitedstates/florida/miami/wolfsonian

@@ -1,5 +1,8 @@
 ---
 duration: 3h
+image: museum_park_morning.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:PAMM_MRD_15.jpg
 neighbourhood: Downtown
 pois:
 - northamerica/unitedstates/florida/miami/perez_art_museum

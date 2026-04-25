@@ -1,5 +1,8 @@
 ---
 duration: 3h
+image: south_beach_morning.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ocean_Drive_in_the_Miami_Beach_Art_Deco_Historic_District.jpg
 neighbourhood: South Beach
 pois:
 - northamerica/unitedstates/florida/miami/art_deco_district

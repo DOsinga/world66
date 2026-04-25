@@ -1,5 +1,8 @@
 ---
 duration: 5h
+image: vizcaya_and_the_grove.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:On_Biscayne_Bay,_Vizcaya_Museum_and_Gardens_060524_DSC6660.jpg
 neighbourhood: Coconut Grove
 pois:
 - northamerica/unitedstates/florida/miami/vizcaya

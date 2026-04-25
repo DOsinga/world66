@@ -1,5 +1,8 @@
 ---
 duration: 4h
+image: wynwood_saturday.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Wynwood_Walls_Miami_Florida_October_2013.jpg
 neighbourhood: Wynwood
 pois:
 - northamerica/unitedstates/florida/miami/wynwood

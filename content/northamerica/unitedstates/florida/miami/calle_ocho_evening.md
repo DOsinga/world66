@@ -1,5 +1,8 @@
 ---
 duration: 4h
+image: calle_ocho_evening.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Calle_Ocho,_Little_Havana,_Miami,_Florida_2021_-_Gallo_de_Calle_Ocho.jpg
 neighbourhood: Little Havana
 pois:
 - northamerica/unitedstates/florida/miami/little_havana

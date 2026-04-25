@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "19 million"
+  Budget Meal: "~$4–6"
+  Danube Delta: "5,165 km² wetland wilderness"
+  Painted Monasteries: UNESCO-listed frescoed churches from the 1400s
 score: 0.54
 ---
 

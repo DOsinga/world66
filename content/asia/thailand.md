@@ -11,6 +11,11 @@ longitude: 100.83273
 score: 0.86
 title: Thailand
 type: location
+quick_facts:
+  Population: "72 million"
+  Budget Meal: "~$1.50 from street vendors"
+  Buddhist Temples: "Over 40,000"
+  Street Food Vendors in Bangkok: "About 300,000"
 ---
 
 More people visit Thailand than any other country in Southeast Asia, and it's not hard to see why. The country has excellent infrastructure, extraordinary food, a rich Buddhist culture, some of the best beaches in Asia, and a reputation for genuine hospitality. It ranges from the chaos and energy of [Bangkok](/asia/thailand/bangkok) to mountain forests, ruined ancient capitals, and remote islands. You can spend a week or a year and feel like you've barely started.

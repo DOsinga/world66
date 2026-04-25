@@ -11,6 +11,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Erik_Christensen" 
   class="extiw" title="w:da:Bruger:Erik Christensen">Contact at the Danish Wikipedia</a>)
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "54,000"
+  Islands: "18, all inhabited"
+  Sheep: "About 70,000 — outnumber the people"
+  Tunnels: "Subsea road tunnels connect most islands"
 score: 0.69
 ---
 

@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jp
 image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:HenriqueRosaFotografia"
   title="User:HenriqueRosaFotografia">HenriqueRosaFotografia</a>
+quick_facts:
+  Population: "600,000"
+  Language: "Portuguese (Creole spoken)"
+  Islands: "10"
+  Diaspora: Larger than population
 score: 0.62
 ---
 

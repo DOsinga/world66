@@ -1,16 +1,11 @@
 ---
-title: "Down Under - in a sunburned country"
+snippet: Bill Bryson's hilarious romp through Australia's dangers and delights
+tags:
+- books
+title: Down Under / In a Sunburned Country
 type: poi
 ---
 
-An often quirky travel writer, Bill Bryson has been famous for some time for picking out the funniest bits of travelling. His book on Australia *'Down Under / In a sunburned country'* starts with the hilarious but true story of how a nation lost its Prime Minister (in a surfing accident).
+Bill Bryson's book on Australia starts with the hilarious but true story of how a nation lost its Prime Minister in a surfing accident, and the tone never lets up from there. Barely a page goes by without a reference to poisonous spiders, lethal snakes, or killer jellyfish — and that is before mentioning crocodiles or sharks.
 
-Barely a page goes by without reference to a poisonous spiders, lethal snakes, killer jellyfish - and thats before mentioning crocodiles or sharks. This is certainly a country that you come to love (or just plain don't leave the hotel room!).
-
-Minor corrections on 26 August 04
-
-[](http://www.amazon.com/exec/obidos/ASIN/055299703X /osingacom?creative=125581&camp=2321&link_code=as1)
-
-author: Bill Bryson
-
-isbn: 055299703X
+But *Down Under* is more than a catalogue of things that can kill you. Bryson travels from Sydney to Perth, from the Outback to the Great Barrier Reef, capturing the vastness and strangeness of a continent that most of the world knows almost nothing about. He is genuinely fascinated by Australian history, wildlife, and the cheerful fatalism of the people who live alongside all those deadly creatures. Essential pre-trip reading — you will arrive expecting to be terrified and end up charmed.

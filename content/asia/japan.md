@@ -8,6 +8,11 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg
 latitude: 36.574844
 longitude: 139.239418
+quick_facts:
+  Population: "125 million"
+  Currency: Yen
+  Islands: "~7,000"
+  Vending Machines: "5.5 million"
 score: 0.92
 title: Japan
 type: location

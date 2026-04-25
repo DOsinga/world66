@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 13.905
 longitude: -4.5548
+snippet: Daily women's market for everyday goods without the crowds
 tags:
 - things_to_do
 - market

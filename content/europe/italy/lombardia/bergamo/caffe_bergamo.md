@@ -1,25 +1,14 @@
 ---
+title: Caffe Bergamo
+type: poi
+snippet: "Popular cafe on a central Bergamo piazza"
 address: Via Borfuro 6, Bergamo
 latitude: 45.6981
 longitude: 9.6702
-phone: 035 211556
+phone: "035 211556"
 tags:
 - bars_and_cafes
 - bar
-- square
-title: Caffe Bergamo
-type: poi
 ---
 
-Enter into the square for an indoor & outdoor delight. Open every day of the week. At 8:00 breakfast is served also buffet style. Lunch at 12:00 and Happy Hour from 18:00 to 21:00 with extraordinary cocktails and a tasty buffet of appetizers. Dinner by reservation. It is also ideal for business dinners, theme evenings and private parties in the gorgeous Italian style dinning room upstairs. Catering services. info@caffebergamo.it www.caffebergamo.it
-
-**Contributors**
-March 09, 2008
-
-
-
-accessibility: Car, Bus, on foot
-
-tel: 035.211556/Fax 035 4131474
-
-address: Via Borfuro, 6(in the Piazza), 24100 Bergamo
+A large cafe right on the piazza in Bergamo's lower town, with tables spilling out into the square. Open daily from early morning, it does breakfast buffets, lunch, and an aperitivo spread in the evening. The upstairs dining room has a faded grandeur that suits longer meals. Nothing extraordinary, but a solid spot to sit and watch the piazza go by.

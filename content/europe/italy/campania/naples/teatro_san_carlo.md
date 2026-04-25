@@ -4,6 +4,7 @@ admission: Tours €9; performance tickets from €30
 latitude: 40.8369
 longitude: 14.2495
 opening_hours: Tours daily 10:30–16:30 (except Sun); evening performances vary
+snippet: Oldest continuously active opera house in the world
 tags:
 - 3 Days in Naples
 - things_to_do

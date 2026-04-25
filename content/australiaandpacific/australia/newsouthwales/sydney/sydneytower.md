@@ -1,12 +1,14 @@
 ---
 address: Cnr Castlereagh and Market Streets, Centrepoint
+done:
+  poi_cleanup: '2026-04-21'
 latitude: -33.8706
 longitude: 151.209
 phone: (02) 9233 3722
+snippet: Revolving restaurant with panoramic harbour views
 tags:
 - eating_out
 - restaurant
-- tower
 title: Sydney Tower Restaurant
 type: poi
 ---

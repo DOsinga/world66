@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Melaka-Dutch-Square-2164.jpg
 latitude: 4.2105
 longitude: 101.9758
+quick_facts:
+  Population: "34 million"
+  Drives On: Left
+  Oldest Rainforest: "130 million years"
+  Street Food Meal: "under $2"
 score: 0.5
 title: Malaysia
 type: location

@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Traditional_medicine_in_Ou
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/72092071@N00">Ferdinand
   Reus</a> from Arnhem, Holland
+quick_facts:
+  Population: "23 million"
+  Language: "French essential"
+  Meaning of Name: Land of Upright People
+  FESPACO: Africa's largest film festival
 score: 0.22
 ---
 

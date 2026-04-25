@@ -1,10 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.68
 longitude: 12.5834
+snippet: Europe's longest pedestrian street, from City Hall to Kongens Nytorv
 tags:
 - things_to_do
 - neighbourhood
-title: Stroget
+title: Strøget
 type: poi
 ---
 

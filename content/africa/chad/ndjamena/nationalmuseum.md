@@ -1,6 +1,7 @@
 ---
 latitude: 12.1103
 longitude: 15.0445
+snippet: Sao civilization artifacts and Saharan archaeology
 tags:
 - things_to_do
 - museum

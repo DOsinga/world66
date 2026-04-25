@@ -1,6 +1,7 @@
 ---
 latitude: -22.256307
 longitude: 166.481842
+snippet: Renzo Piano's stunning showcase of Kanak art and culture
 tags:
 - things_to_do
 title: Tjibaou Cultural Centre

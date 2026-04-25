@@ -1,6 +1,7 @@
 ---
 latitude: 55.7047
 longitude: 13.1916
+snippet: "Scandinavia's oldest cathedral with a medieval astronomical clock"
 tags:
 - things_to_do
 - landmark

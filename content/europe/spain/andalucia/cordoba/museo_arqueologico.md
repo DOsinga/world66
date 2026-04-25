@@ -3,6 +3,7 @@ address: Plaza de Jerónimo Páez 7
 latitude: 37.8814
 longitude: -4.7755
 phone: 957 35 55 17
+snippet: Renaissance palace built over excavated Roman theatre ruins
 tags:
 - things_to_do
 - museum

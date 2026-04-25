@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:CHK46" class="mw-r
   title="User:CHK46">CHK46</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "18,000"
+  Currency: US Dollar
+  Rock Islands: "300+ mushroom-shaped limestone islets"
+  Marine Protected Area: "80% of its ocean territory"
 score: 0.78
 ---
 

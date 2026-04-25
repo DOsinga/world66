@@ -4,6 +4,7 @@ latitude: 45.1922
 longitude: 5.729
 tags:
 - bars_and_cafes
+snippet: Bookshop-cafe with coffee, pastries, and local art
 title: Librairie Café Decitre
 type: poi
 ---

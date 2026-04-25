@@ -1,6 +1,7 @@
 ---
 latitude: 43.2592
 longitude: -2.9239
+snippet: Medieval old quarter with pintxo bars and the Ribera market
 tags:
 - things_to_do
 - neighbourhood

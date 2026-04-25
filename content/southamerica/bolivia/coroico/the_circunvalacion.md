@@ -1,6 +1,7 @@
 ---
 latitude: -16.19
 longitude: -67.73
+snippet: Easy walk along an unfinished railway through plantations
 tags:
 - day_trips
 title: The Circunvalacion

@@ -1,11 +1,12 @@
 ---
 latitude: 47.7898
 longitude: 18.9718
+snippet: Hilltop citadel and royal ruins on the Danube Bend
 tags:
 - day_trips
 - palace
 - tower
-title: Visegrad
+title: Visegrád
 type: poi
 ---
 

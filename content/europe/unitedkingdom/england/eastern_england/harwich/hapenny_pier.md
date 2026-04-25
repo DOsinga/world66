@@ -1,6 +1,7 @@
 ---
 latitude: 51.9459
 longitude: 1.2876
+snippet: Victorian pier from 1853, with harbour ferry to Felixstowe
 tags:
 - things_to_do
 - sight

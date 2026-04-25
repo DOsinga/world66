@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jorchr" title="User:Jorchr">Jorchr</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "10.5 million"
+  Cost Level: "A beer costs ~$9"
+  Lakes: "roughly 100,000"
+  Daylight in Midsummer: "~19 hours in Stockholm"
 score: 0.56
 ---
 

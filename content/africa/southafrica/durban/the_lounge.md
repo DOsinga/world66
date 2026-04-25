@@ -2,6 +2,7 @@
 address: 226 Mathews Meyiwa (Stamford Hill) Road
 latitude: -29.8341
 longitude: 31.0223
+snippet: Durban's best-known LGBTQ+ venue, five bars across two floors
 tags:
 - bars_and_cafes
 title: The Lounge

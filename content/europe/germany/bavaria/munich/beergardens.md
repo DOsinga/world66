@@ -1,4 +1,8 @@
 ---
+category: Sight
+latitude: 48.1351
+longitude: 11.582
+snippet: Munich beer garden culture from sprawling parks to intimate courtyards
 tags:
 - bars_and_cafes
 - landmark
@@ -6,130 +10,16 @@ title: Beer Gardens
 type: poi
 ---
 
-Germans and especially residents of Munich are well known for their fondness of beer. Munich offers a couple of nice beergardens where people can enjoy drinking a beer the whole year round.  
+Munich's beer garden tradition dates back to the early 1800s, when breweries planted chestnut trees over their cellars to keep the beer cool. Today the city has dozens of beer gardens, most open from April through October, where you can bring your own food (but must buy the beer) and sit at long communal tables under the trees. A Mass (one-liter mug) typically costs around 10-12 euros.
 
-**Place to go outs**
+**Augustiner-Keller** on Arnulfstrasse is widely considered the most authentic. Locals swear by the Augustiner beer, tapped straight from wooden barrels, and the 5,000-seat garden under old chestnut trees fills up fast on warm evenings. This is where Munichers drink, not tourists.
 
-**St. Emmerams Mühle**
+**Chinesischer Turm** in the English Garden is the most famous, with 7,000 seats surrounding a wooden pagoda where a brass band plays on summer weekends. Touristy, yes, but the setting in the middle of one of Europe's largest urban parks is hard to beat.
 
-A wonderful but hidden beergarden, situated very picturesque in the meadows of the Isar. Outside of the rushing city you feel like on countryside, enjoy it. The house offers also rooms for wedding- and birthday-parties. 
+**Hirschgarten** near Nymphenburg Palace is the biggest, with 8,000 seats and a deer enclosure next door. Families love it for the space and the playground.
 
-fax: +49 (0)89 / 95 50 66
+**Seehaus** sits on the shore of Kleinhesseloher See in the English Garden. The lakeside tables are among the most scenic spots for a beer in the city.
 
-address: St. Emmeram 41, 81925 München - Oberföhring
+**Viktualienmarkt** in the city center is small and always busy, but its central location under the maypole makes it perfect for a quick Mass between sightseeing.
 
-openings: from 11 pm to 1 am
-
-tel: +49 (0)89 / 95 39 71
-
-**Chinesischer Turm (Chinese Tower) **
-
-
-
-address: Englischer Garten 3
-
-tel: +49 (0)89 9 50 28
-
-**Augustiner-Keller **
-
-** Martin Pugh:** This beer garden is the best if you want to drink with Muncheners and also drink what is regarded by the locals as the best beer in the city. Absolutely superb!
-
-address: Arnulfstraße 52
-
-tel: +49 (0)89 59 43 93
-
-**Schloßwirtschaft "Zur Schwaige" **
-
-
-
-address: Schloß Nymphenburg E.30
-
-tel: +49 (0)89 17 44 21
-
-**Menterschwaige-Gutshof **
-
-
-
-address: Menterschwaigstraße 4
-
-tel: +49 (0)89 64 07 32
-
-**Augustiner-Großgaststätte**
-
-
-
-address: Neuhauser Straße 16
-
-tel: +49 (0)89 2 60 41 06
-
-**Hirschgarten **
-
-
-
-address: Hirschgartenallee 1
-
-tel: +49 (0)89 17 25 91
-
-**Salvator-Keller **
-
-
-
-address: Hochstraße 77
-
-tel: +49 (0)89 48 32 74
-
-**Taxisgarten **
-
-
-
-address: Taxisstraße 12
-
-tel: +49 (0)89 15 68 27
-
-**Seehaus **
-
-
-
-address: Kleinhesselohe 3
-
-tel: +49 (0)89 3 81 61 30
-
-**Viktualienmarkt **
-
-
-
-address: Viktualienmarkt 6
-
-tel: +49 (0)89 29 75 45
-
-**Aumeister Freimann**
-
-
-
-address: Sondermeierstraße 1
-
-tel: +49 (0)89 32 52 24
-
-**Hofbräuhaus**
-
-** c:** a wonderful place to remember how to have fun! it's like a college cafeteria that serves endless huge mugs of beer. dancing on the tables, conga lines, and of course beer makes for a great evening. one of my favorite memories of europe.
-
-address: Am Platzl 9
-
-tel: +49 (0)89 22 16 76
-
-**Waldwirtschaft **
-
-
-
-address: Georg-Kalb-Straße 3
-
-tel: +49 (0)89 79 50 88
-
-**Löwenbräukeller**
-
-
-
-address: Nymphenburger Str. 2
-
-tel: +49 (0)89 52 60 21
+**Waldwirtschaft** in Grosshesselohe, south of the city along the Isar, draws crowds for its live jazz on summer evenings. Worth the S-Bahn ride.

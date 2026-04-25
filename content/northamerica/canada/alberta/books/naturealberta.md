@@ -1,22 +1,15 @@
 ---
-title: "Nature Alberta"
-type: poi
-author: "James Kavanagh"
-isbn: "0-919433-91-X"
-subject: "Natural History"
-type: "general"
+author: James Kavanagh
+done:
+  poi_cleanup: '2026-04-21'
+isbn: 0-919433-91-X
 latitude: 51.552727
 longitude: -114.093516
+snippet: Pocket field guide to Alberta's wildlife and ecosystems
+tags:
+- books
+title: Nature Alberta
+type: poi
 ---
 
-[](http://www.amazon.com/exec/obidos/ASIN/0-919433-91-X/osingacom?creative=125581&camp=2321&link_code=as1)
-
-type: general
-
-
-
-author: James Kavanagh
-
-isbn: 0-919433-91-X
-
-subject: Natural History
+A compact, pocket-sized field guide covering Alberta's major ecosystems and the wildlife found in each. James Kavanagh organizes the province's natural history by habitat — from the prairie grasslands to the boreal forest and the Rocky Mountain alpine — making it easy to identify plants, birds, mammals, and insects you encounter on the trail. Useful for day hikes and road trips alike, and small enough to carry in a jacket pocket.

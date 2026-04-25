@@ -1,6 +1,7 @@
 ---
 latitude: 24.809734
 longitude: 67.024757
+snippet: "Massive seafront park at Clifton Beach with evening atmosphere"
 tags:
 - beaches
 - beach

@@ -3,6 +3,11 @@ title: Cambodia
 type: location
 latitude: 12.543322
 longitude: 104.814491
+quick_facts:
+  Population: "17 million"
+  Currency: Riel (USD widely used)
+  Angkor Temples: "1,000+"
+  Tonle Sap: Reverses flow yearly
 score: 0.71
 ---
 

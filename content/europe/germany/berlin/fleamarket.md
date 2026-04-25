@@ -2,37 +2,14 @@
 address: Arkonaplatz
 latitude: 52.537198
 longitude: 13.402056
-opening_hours: U Bernauer Str., Su 10 am-5 pm
-phone: 03393 798755
+snippet: "Sunday flea market with DDR curiosities and 60s design bargains"
 tags:
 - shopping
 - berlinmitte
-title: Flea Market
+title: Arkonaplatz Flea Market
 type: poi
 ---
 
-One of the nicest flea markets is held every Sunday at Arkonaplatz in Mitte district. Old tenement houses with their working-class history surround the square. In the middle are several rows of market stands under the chestnut trees with their autumn colours. The selection ranges from bizarre household objects to gladden the hearts of people nostalgic for bygone East Germany, to a large assortment of books and the objects of 60s and 70s design that are so popular right now and cost three times as much in other places. Mostly young people come here, showing the effects of last night's long haul through the clubs, which means you can snap up real bargains if you get here early enough. Afterwards you can have a long relaxed breakfast at one of the cafés in the neighbouring square, Zionskirchplatz (e.g. Kapelle, Zionskirchplatz).
+One of Berlin's nicest flea markets fills Arkonaplatz every Sunday from 10 am to 5 pm. Old tenement houses with their working-class history surround the square, and rows of stalls spread out under the chestnut trees. The selection ranges from bizarre household objects that will gladden the hearts of anyone nostalgic for bygone East Germany, to books and 60s and 70s design pieces that cost three times as much elsewhere.
 
-type: Antiques
-
-
-
-
-
-address: Arkonaplatz
-
-openings: U Bernauer Str., Su 10 am-5 pm
-
-tel: 03393 798755
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Mostly young people come here, still showing the effects of the previous night's club marathon, which means you can snap up real bargains if you arrive early. Afterwards, settle in for a long breakfast at one of the cafes on neighbouring Zionskirchplatz.

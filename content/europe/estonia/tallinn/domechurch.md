@@ -3,6 +3,7 @@ address: Toom-Kooli 6
 latitude: 59.437039
 longitude: 24.739155
 phone: '6444140'
+snippet: Estonia's oldest church, with noble coats of arms lining the walls
 tags:
 - things_to_do
 - landmark

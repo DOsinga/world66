@@ -10,6 +10,11 @@ latitude: 41.9029
 longitude: 12.4534
 title: Vatican City
 type: location
+quick_facts:
+  Population: "~800"
+  Area: "44 hectares (world's smallest state)"
+  Vatican Museums: "54 galleries, 70,000+ works"
+  Annual Visitors: "~5 million to the Museums alone"
 score: 0.82
 ---
 

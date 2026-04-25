@@ -2,6 +2,7 @@
 address: Münsterplatz 1, 3011 Bern
 latitude: 46.9478
 longitude: 7.4516
+snippet: "Switzerland's tallest cathedral with panoramic tower views"
 tags:
 - things_to_do
 - sight

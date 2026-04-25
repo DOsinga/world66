@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.5944
 longitude: 17.2498
+snippet: Czech and Central European art from medieval to modern
 tags:
 - things_to_do
 - museum

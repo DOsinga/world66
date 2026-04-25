@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 34.776301
 longitude: 32.405035
+snippet: Monumental Ptolemaic rock-cut tombs, UNESCO-listed
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 41.7643
 longitude: -72.6826
+snippet: "America's first public park with a 1914 antique carousel"
 tags:
 - things_to_do
 - landmark

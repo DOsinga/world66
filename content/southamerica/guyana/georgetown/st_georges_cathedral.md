@@ -1,6 +1,7 @@
 ---
 title: "St. George's Cathedral"
 type: poi
+snippet: One of the world's tallest wooden buildings, Gothic and grand
 tags:
   - things_to_do
   - church

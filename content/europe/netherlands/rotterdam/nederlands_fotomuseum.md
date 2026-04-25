@@ -2,6 +2,7 @@
 address: Wilhelminakade 332
 latitude: 51.906
 longitude: 4.487
+snippet: National photography museum in a converted warehouse
 tags:
 - things_to_do
 - museum

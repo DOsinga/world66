@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 - bar
 - cafe
+snippet: "Political-themed cafe-bar with bookish student vibe"
 title: Kaffe Politik
 type: poi
 ---

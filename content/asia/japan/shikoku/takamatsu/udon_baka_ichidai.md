@@ -1,6 +1,7 @@
 ---
 latitude: 34.3406
 longitude: 134.0453
+snippet: "Takamatsu institution famous for silky kama-tama udon"
 tags:
 - eating_out
 title: Udon Baka Ichidai

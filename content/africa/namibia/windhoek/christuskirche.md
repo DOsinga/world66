@@ -1,6 +1,7 @@
 ---
 title: "Christuskirche"
 type: poi
+snippet: German Lutheran church and Windhoek's most recognisable landmark
 tags:
   - things_to_do
   - church

@@ -3,6 +3,7 @@ address: Gamla Torget 4, SE-44231 Kungälv
 latitude: 57.8711
 longitude: 11.9796
 phone: +46 303 10101
+snippet: Restaurant on the old square with 96-brand beer cellar
 tags:
 - eating_out
 title: Gamla Torget 4

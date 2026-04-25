@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -20.9205
 longitude: 167.0489
+snippet: Calm white-sand beach with turtles and a headland chapel
 tags:
 - beaches
 title: Easo Beach

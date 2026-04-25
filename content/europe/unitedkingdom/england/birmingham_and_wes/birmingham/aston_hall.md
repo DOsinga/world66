@@ -3,6 +3,7 @@ address: Aston Park, Trinity Road, Birmingham B6 6JD
 latitude: 52.5054
 longitude: -1.8711
 opening_hours: Check Birmingham Museums website for current seasonal hours
+snippet: Intact Jacobean mansion from the 1620s in Aston Park
 tags:
 - things_to_do
 - sight

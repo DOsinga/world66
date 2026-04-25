@@ -1,26 +1,18 @@
 ---
-address: Lido Ve
-email: info@lidodivenezia.it
-latitude: 45.416459
-longitude: 12.370612
-phone: 00393454599249
+latitude: 45.4165
+longitude: 12.3706
+snippet: "Venice's barrier island — beach resort, film festival, and car-free calm"
 tags:
 - beaches
-- beach
-- theatre
+- landmark
 title: Lido di Venezia
 type: poi
-url: www.lidodivenezia.it
 ---
 
-Lido di Venezia is a new website that provides information about the island of Lido Venice. Events, Concerts, theatre. It has also an hotel online reservation system
+The Lido is the long, narrow barrier island that shields the Venice lagoon from the Adriatic. Only a short vaporetto ride from San Marco, it feels like a different world — wide streets with actual cars, Liberty-style villas behind garden hedges, and a proper sandy beach facing the open sea.
 
+In summer the beach is divided between free public sections and the grand stabilimenti — private beach clubs with striped cabanas and loungers that have been drawing well-heeled visitors since the Belle Époque. The grandest of these, the Excelsior and the Hotel des Bains, were immortalised in Thomas Mann's *Death in Venice*.
 
+Every September the island hosts the Venice International Film Festival, the world's oldest. The Palazzo del Cinema fills with film crews and critics, red-carpet arrivals happen along the seafront, and the atmosphere is electric.
 
-tel: 00393454599249
-
-url: [www.lidodivenezia.it](http://www.lidodivenezia.it)
-
-address: Lido Ve
-
-email: info@lidodivenezia.it
+The eastern side of the Lido, facing the lagoon, is quieter — a good place to walk or cycle along the waterfront with views back toward Venice. The island is long enough that a bicycle is the sensible way to explore it.

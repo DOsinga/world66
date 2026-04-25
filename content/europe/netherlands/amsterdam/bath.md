@@ -1,32 +1,16 @@
 ---
-latitude: 51.401245
-longitude: 4.209013
+address: Zaanstraat 88, 1013 RW Amsterdam
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 52.386
+longitude: 4.871
+phone: +31-20-681 48 18
+snippet: Turkish bathhouse on Zaanstraat with massage and steam rooms
 tags:
 - activities
-title: Bath
+- spa
+title: Hamam Amsterdam
 type: poi
 ---
 
-It is one of these rainy days again, cold and windy, and you don't know what to do today ... Have you ever been to a Hamam, a Turkish bath house? None of the disreputable stories you might have heard are true: a bath house is a bath house and nothing else. On the other hand that is already a lot. Very relaxing, good for your nerves, a great waste of time on one of the above mentioned days. Just give it a try ...
-
-**Recommendations**
-
-**Hamam**
-
-Turkish bath with full service, massage, peeling, olive soap, towel, tea room, snacks, ... 
-
-
-
-
-
-Monday 16:00-22:00h for men, 
-
-Tuesday till Sunday for women (12:00 to 20:00h) 
-
-Zaanstraat 88 
-
-1013 RW Amsterdam 
-
-+31-20-681 48 18
-
-Address: amsterdam
+A Turkish bathhouse in the Westerpark neighbourhood, offering the full hamam experience: steam room, scrub, olive soap wash, and massage. Women-only most of the week; men get Monday evenings. Towels provided, tea and snacks in the rest area after.

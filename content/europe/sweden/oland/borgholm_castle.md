@@ -1,6 +1,7 @@
 ---
 latitude: 56.8775
 longitude: 16.6536
+snippet: Scandinavia's largest castle ruin, burned in 1806
 tags:
 - things_to_do
 - sight

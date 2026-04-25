@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.1881
 longitude: 4.8197
+snippet: 12th-century Cistercian monastic barn, austere and beautifully proportioned
 tags:
 - things_to_do
 - sight
+- architecture
 title: Cistercian Cellar at Colombé-le-Sec
 type: poi
 ---

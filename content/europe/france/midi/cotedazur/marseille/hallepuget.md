@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.299681
 longitude: 5.375264
+snippet: 17th-century covered market designed by sculptor Pierre Puget
 tags:
 - things_to_do
 - market
@@ -8,4 +11,4 @@ title: Halle Puget
 type: poi
 ---
 
-Place Bertas – Designed by P. Puget, the market dates from 1672. After designing the market, Pierre Puget, who was then living in Toulon, entrusted the project to his brother Jean, his legal representative. Built along traditional lines, it was a market for both meat and fish.
+One of the oldest covered markets in Marseille, Halle Puget sits on the small Place Bertas and dates from 1672. It was designed by Pierre Puget, the Marseille-born sculptor and architect, though his brother Jean oversaw the actual construction while Pierre was living in Toulon. The traditional stone market hall now hosts a small daily flower and produce market surrounded by cafe terraces. It's a quiet spot away from the busier Vieux-Port area, worth a stop if you're exploring the Belsunce quarter.

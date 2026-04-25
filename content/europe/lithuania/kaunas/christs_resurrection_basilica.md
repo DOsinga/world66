@@ -1,6 +1,7 @@
 ---
 latitude: 54.8962
 longitude: 23.9178
+snippet: Hilltop church with rooftop terrace offering panoramic city views
 tags:
 - things_to_do
 - landmark

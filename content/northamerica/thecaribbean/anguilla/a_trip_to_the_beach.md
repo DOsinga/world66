@@ -1,6 +1,9 @@
 ---
 author: Melinda and Robert Blanchard
+done:
+  poi_cleanup: '2026-04-19'
 isbn: 978-0609806791
+snippet: Charming memoir of opening a restaurant on Anguilla
 tags:
 - books
 title: A Trip to the Beach

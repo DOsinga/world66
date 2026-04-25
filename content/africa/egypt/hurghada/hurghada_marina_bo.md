@@ -2,6 +2,7 @@
 address: Hurghada Marina Boulevard, Hurghada
 latitude: 27.208
 longitude: 33.837
+snippet: "Waterfront shopping complex with brands and a haggle-friendly souk"
 tags:
 - shopping
 title: Hurghada Marina Boulevard

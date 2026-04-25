@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, castle]
 latitude: 45.8846
 longitude: 22.8978
+snippet: Dramatic hilltop ruins with funicular and rare vipers
 ---
 
 The ruined citadel crowning Citadel Hill (Dealul Cetății, 371 m) was first built in the thirteenth century to resist Mongol incursions, on earlier Roman foundations. It changed hands repeatedly through the centuries — Hungarian, Ottoman, and Habsburg — and was finally blown up in 1849 when the powder magazine caught fire during a siege. The ruins are striking precisely because of their incompleteness: broken towers and crumbled walls set against a sky that drops down to the Mureș valley below.

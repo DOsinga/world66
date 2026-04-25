@@ -2,6 +2,7 @@
 address: Shiv Heera Path, Chomu House, Jaipur
 latitude: 26.9218
 longitude: 75.7987
+snippet: Fixed-price Rajasthani leather shoe emporium, reliably good quality
 tags:
 - shopping
 title: Mojari

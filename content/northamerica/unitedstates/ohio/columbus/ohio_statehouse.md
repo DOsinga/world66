@@ -1,6 +1,7 @@
 ---
 latitude: 39.961194
 longitude: -83.000267
+snippet: "Greek Revival capitol with a distinctive drum-shaped dome"
 tags:
 - things_to_do
 - sight

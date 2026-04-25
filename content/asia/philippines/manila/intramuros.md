@@ -1,6 +1,7 @@
 ---
 latitude: 14.590959
 longitude: 120.974654
+snippet: Walled Spanish colonial core of Manila, ravaged in 1945, partly restored.
 tags:
 - things_to_do
 - neighbourhood

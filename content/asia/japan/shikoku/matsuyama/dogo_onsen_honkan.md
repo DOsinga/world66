@@ -1,6 +1,8 @@
 ---
+address: 5-6 Dogoyunomachi, Matsuyama
 latitude: 33.8519
 longitude: 132.7855
+snippet: Atmospheric 1894 wooden bathhouse, Japan's most famous onsen
 tags:
 - things_to_do
 title: Dogo Onsen Honkan

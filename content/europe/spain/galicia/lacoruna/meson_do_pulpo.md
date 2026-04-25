@@ -1,6 +1,7 @@
 ---
 latitude: 43.3695
 longitude: -8.3971
+snippet: Classic old-town pulpería for Galician octopus
 tags:
 - eating_out
 title: Mesón do Pulpo

@@ -1,6 +1,7 @@
 ---
 latitude: 22.3457
 longitude: 91.8195
+snippet: Immaculate WWII cemetery honoring 755 Allied servicemen
 story: The cemetery contains 755 graves of Allied servicemen who died in the Burma
   campaign and in the defence of Chittagong against Japanese attack in 1942. It is
   one of the best-maintained Commonwealth War Graves Commission sites in South Asia.

@@ -2,6 +2,7 @@
 address: Piazza Navona, 28–32
 latitude: 41.898928
 longitude: 12.473118
+snippet: Piazza Navona gelateria famous for its dense chocolate tartufo
 tags:
 - eating_out
 - restaurant

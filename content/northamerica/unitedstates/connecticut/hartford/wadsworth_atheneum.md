@@ -3,6 +3,7 @@ address: 600 Main Street, Hartford, CT
 latitude: 41.7638
 longitude: -72.6726
 phone: (860) 278-2760
+snippet: America's oldest public art museum, founded 1842
 tags:
 - things_to_do
 - museum

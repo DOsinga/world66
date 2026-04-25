@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - beach
 title: Cliff House
+snippet: Historic clifftop landmark overlooking Seal Rocks and the Sutro Baths ruins
 type: poi
 ---
 

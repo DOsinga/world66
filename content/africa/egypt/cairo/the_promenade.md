@@ -3,6 +3,7 @@ address: Cairo Marriott Hotel, Zamalek
 latitude: 30.060278
 longitude: 31.221389
 phone: +20 2 340 8888
+snippet: "Relaxed garden bar at the Marriott in Zamalek"
 tags:
 - bars_and_cafes
 - bar

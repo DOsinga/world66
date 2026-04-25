@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Laguun
 type: poi
+snippet: "Old Town seafood spot specializing in Baltic fish"
 ---
 
-Seafood restaurant in the Old Town specialising in Baltic fish. Open daily noon to 11pm.
+Seafood restaurant in the Old Town specializing in Baltic fish. Open daily noon to 11pm.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 6.8051
 longitude: -58.1601
+snippet: Victorian cast-iron market hall, Georgetown's chaotic beating heart
 story: "The market's distinctive cast-iron clocktower, built in 1881, was designed to be visible from ships arriving on the Demerara River — a landmark for sailors as well as shoppers."
 ---
 

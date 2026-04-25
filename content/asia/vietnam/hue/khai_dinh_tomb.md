@@ -1,6 +1,7 @@
 ---
 latitude: 16.399
 longitude: 107.5903
+snippet: Most ornate royal tomb blending Vietnamese and European styles
 tags:
 - things_to_do
 - sight

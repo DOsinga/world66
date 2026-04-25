@@ -1,12 +1,15 @@
 ---
 address: Piazza del Carmine, 90134 Palermo
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.1128
 longitude: 13.3568
 opening_hours: Mon–Sat approx 07:00–14:00
+snippet: Palermo's oldest and most vibrant street food market
 tags:
 - things_to_do
-- neighbourhood
+- market
 title: Mercato di Ballarò
 type: poi
 ---

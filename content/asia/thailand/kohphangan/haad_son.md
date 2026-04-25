@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 9.7479
 longitude: 99.9707
+snippet: Quiet sheltered cove on Koh Phangan's west coast
 tags:
 - beaches
 title: Haad Son

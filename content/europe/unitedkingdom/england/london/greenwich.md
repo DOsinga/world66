@@ -1,10 +1,13 @@
 ---
 address: Royal Observatory, Blackheath Avenue, Greenwich SE10 8XJ
 admission: £16 adults, £8 children (Cutty Sark and Planetarium sold separately)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.476823
 longitude: -0.001468
 opening_hours: Daily 10am-5pm
 phone: +44 20 8858 4422
+snippet: Royal Observatory, Prime Meridian, and Thames views
 tags:
 - things_to_do
 - museum

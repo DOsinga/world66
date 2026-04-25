@@ -9,6 +9,7 @@ tags:
 - waterlooplein
 title: Rembrandt House
 type: poi
+snippet: "Rembrandt's home and studio, with nearly all his etchings"
 ---
 
 The house on Jodenbreestraat where Rembrandt lived and worked from 1639 to 1658, now restored to period condition. The collection of his etchings — nearly all 250 of them — is what makes a visit worthwhile, exhibited in the rooms where they were made.

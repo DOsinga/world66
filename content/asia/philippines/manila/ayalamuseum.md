@@ -1,7 +1,10 @@
 ---
 address: Makati Avenue corner De la Rosa Street, Makati
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.553583
 longitude: 121.023245
+snippet: Manila's best private museum with exceptional pre-colonial gold collection
 tags:
 - things_to_do
 - museum

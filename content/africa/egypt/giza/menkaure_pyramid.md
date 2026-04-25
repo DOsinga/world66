@@ -1,6 +1,7 @@
 ---
 latitude: 29.9724
 longitude: 31.1284
+snippet: Smallest Great Pyramid, often less crowded, interior open to visitors
 tags:
 - things_to_do
 - landmark

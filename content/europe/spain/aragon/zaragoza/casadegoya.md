@@ -3,6 +3,7 @@ address: Calle Alta 3, Fuendetodos
 latitude: 41.1528
 longitude: -0.9486
 opening_hours: Tue–Sun 11am–2pm and 4pm–7pm, Mon closed
+snippet: "Goya's modest birthplace village, 44km south of Zaragoza"
 tags:
 - things_to_do
 - museum

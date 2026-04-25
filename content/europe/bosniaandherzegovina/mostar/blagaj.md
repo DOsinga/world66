@@ -1,6 +1,7 @@
 ---
 latitude: 43.2567
 longitude: 17.8847
+snippet: 16th-century Dervish monastery built into a cliff at a karst spring.
 tags: [things_to_do, monastery, historic_site]
 title: Blagaj Tekke
 type: poi

@@ -1,6 +1,7 @@
 ---
 title: "The Serra Verde Express to Paranaguá"
 type: poi
+snippet: "Spectacular mountain train descending through Atlantic Forest to the coast"
 tags:
   - day_trips
 latitude: -25.4296

@@ -1,8 +1,11 @@
 ---
 address: 140 George St, The Rocks
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -33.8599
 longitude: 151.2088
 phone: (02) 9245 2400
+snippet: Free contemporary art museum with harbour-view rooftop
 tags:
 - things_to_do
 - museum

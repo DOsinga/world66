@@ -1,7 +1,10 @@
 ---
 title: "Karlovac City Museum"
 type: poi
-category: Museum
+tags:
+- things_to_do
+- sight
+snippet: "Baroque palace museum covering fortress-town history and the Homeland War"
 latitude: 45.4891
 longitude: 15.5486
 ---

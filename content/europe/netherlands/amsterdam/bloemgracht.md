@@ -1,7 +1,9 @@
 ---
-category: Street
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.3746
 longitude: 4.884
+snippet: Jordaan's prettiest canal, quieter than the famous three
 tags:
 - jordaan
 title: Bloemgracht

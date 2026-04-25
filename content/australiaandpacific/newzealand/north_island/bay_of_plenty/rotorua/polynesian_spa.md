@@ -1,6 +1,7 @@
 ---
 latitude: -38.1375
 longitude: 176.2575
+snippet: Lakeside hot springs with dual mineral waters
 tags:
 - things_to_do
 - sight

@@ -8,6 +8,7 @@ tags:
 - theatre
 title: Hungarian State Opera House
 type: poi
+snippet: "Neo-Renaissance opera house with affordable performances"
 url: www.opera.hu
 ---
 

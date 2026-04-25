@@ -1,6 +1,7 @@
 ---
 latitude: 30.1985
 longitude: 53.172
+snippet: "Massive fortified citadel of Cyrus with sweeping views across the plain"
 tags:
 - things_to_do
 - landmark

@@ -6,6 +6,11 @@ latitude: 0.196
 longitude: -176.4781
 title: Baker Island
 type: location
+quick_facts:
+  Permanent Population: "0"
+  Size: "1.6 km long"
+  Breeding Seabirds: "Over 1 million"
+  Public Access: Prohibited without special permit
 score: 0.13
 ---
 

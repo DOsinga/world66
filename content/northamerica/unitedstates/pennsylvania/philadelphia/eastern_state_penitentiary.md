@@ -2,6 +2,7 @@
 address: 2027 Fairmount Avenue
 latitude: 39.9685
 longitude: -75.1725
+snippet: Haunting ruins of America's most influential prison
 tags:
 - things_to_do
 - landmark

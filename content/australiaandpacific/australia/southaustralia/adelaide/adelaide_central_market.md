@@ -2,6 +2,7 @@
 address: 44-60 Gouger Street
 latitude: -34.9294
 longitude: 138.5988
+snippet: Sprawling food market with 70-plus stalls
 tags:
 - things_to_do
 - sight

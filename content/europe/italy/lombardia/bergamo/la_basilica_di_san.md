@@ -2,6 +2,7 @@
 address: Piazza del Duomo, Città Alta
 latitude: 45.703726
 longitude: 9.662543
+snippet: "Romanesque gem with Lotto frescoes and medieval measuring bars"
 tags:
 - things_to_do
 - church

@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 9.1578
 longitude: 124.7356
+snippet: 70-metre waterfall plunging into a swimmable jungle pool
 tags:
 - things_to_do
-- landmark
+- nature
 title: Katibawasan Falls
 type: poi
 ---

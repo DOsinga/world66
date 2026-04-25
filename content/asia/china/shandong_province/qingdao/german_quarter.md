@@ -5,6 +5,7 @@ story: Germany seized Qingdao in 1897 after the murder of two German missionarie
   and held it until 1914. In those 17 years the Germans built an entire Bavarian-style
   city — breweries, churches, hospitals, a railway — that still stands largely intact.
   The Chinese call Qingdao 'China's Switzerland'.
+snippet: "Bavarian villas and churches from Germany's 17-year colonial era"
 tags:
 - things_to_do
 title: German Concession District

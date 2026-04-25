@@ -2,6 +2,7 @@
 latitude: 35.5427
 longitude: 129.3118
 phone: 052 211 4224
+snippet: Budget-friendly Italian pasta in central Ulsan
 tags:
 - eating_out
 title: Viva

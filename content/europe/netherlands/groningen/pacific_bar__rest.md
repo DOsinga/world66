@@ -1,20 +1,12 @@
 ---
 address: Oosterstraat 65
-latitude: 52.159015
-longitude: 4.507468
+latitude: 53.2167
+longitude: 6.5683
+snippet: Australian-themed bar and restaurant on a lively street
 tags:
 - bars_and_cafes
 title: Pacific Bar & Restaurant
 type: poi
 ---
 
-New hotspot in Groningen. Enjoy the laidback atmosphere of the outback. All types of Aussie food and drinks, as well as brilliant coctails.
-
-**Contributors**
-November 09, 2006
-
-
-
-
-
-address: Oosterstraat 65
+An Australian-themed bar and restaurant on one of Groningen's busiest going-out streets. The interior channels outback vibes with laid-back decor, and the menu covers burgers, steaks, and cocktails. Popular with students looking for a relaxed evening out.

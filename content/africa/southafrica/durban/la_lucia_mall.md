@@ -2,6 +2,7 @@
 address: 90 William Campbell Drive, La Lucia
 latitude: -29.7666
 longitude: 31.0729
+snippet: "Relaxed suburban shopping centre north of Durban"
 tags:
 - shopping
 title: La Lucia Mall

@@ -2,6 +2,7 @@
 address: Comuna 13, San Javier
 latitude: 6.2614
 longitude: -75.6147
+snippet: "Once most dangerous neighbourhood, now a vibrant open-air gallery"
 tags:
 - things_to_do
 - neighbourhood

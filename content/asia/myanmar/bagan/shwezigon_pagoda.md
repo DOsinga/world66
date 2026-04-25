@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 21.1877
 longitude: 94.8759
+snippet: Gold-domed prototype for all Burmese stupas, completed 1102
 story: King Anawrahta is said to have placed a sacred tooth relic of the Buddha on
   the back of a white elephant and ordered it to walk until it stopped of its own
   accord. Where the elephant halted, he built the Shwezigon. The elephant stopped

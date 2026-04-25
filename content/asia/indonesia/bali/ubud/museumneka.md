@@ -1,7 +1,8 @@
 ---
 title: "Museum Neka"
 type: poi
-tags: [things_to_do]
+tags: [things_to_do, museum]
+snippet: "Ubud's best art museum spanning five centuries of Balinese painting"
 latitude: -8.4918
 longitude: 115.2536
 ---

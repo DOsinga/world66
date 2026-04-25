@@ -1,9 +1,18 @@
 ---
-title: "Mekong River Cruise"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 10.3601
+longitude: 106.36
+snippet: Boat through mangrove tunnels and delta waterways from HCMC
+tags:
+- day_trips
+- nature
+title: Mekong River Cruise
 type: poi
 ---
 
-Another nice day trip from the busy city is a river cruise of some of the waterways in the Mekong Delta. It's generally much cooler here than in Ho Chi Minh City, which is a very welcome break! Meandering through the dense mangroves is a very eerie experience, but the scenery is beautiful. The further you proceed along, the fronds hang over the channels until it appears that you're traveling through a "tunnel" in the foliage... Very cool! You can go with an organized tour, or just go it on your own and hire a small boat when you get there. Package tours often come with a trip to a coconut candy factory and a local cafe. It sometimes includes a visit to a local house where you will be entertained with traditional dancing and music. Be sure to check out Unicorn Island, the home of the coconut Monk... long story... but make sure you ask; it's a pretty good one!
+A river cruise through the Mekong Delta is one of the best day trips from Ho Chi Minh City, and noticeably cooler than the city itself. The delta's maze of channels and tributaries is dense with mangroves — paddle far enough in and the fronds close overhead, turning the waterway into a green tunnel.
 
-**Contributors**
-June 04, 2007
+Most tours depart from My Tho, about 70km southwest of HCMC, and work their way through the islands of the delta. Organised tours typically include stops at a coconut candy factory and a local home with traditional music. If you prefer independence, take a bus to My Tho and hire a small boat from the riverside.
+
+Don't miss Unicorn Island (Con Lan) and, if you can, ask your guide about the Coconut Monk — a Vietnamese ascetic who built an eccentric waterside compound on Phoenix Island and attracted a following in the 1960s and 70s. The story is worth the detour.

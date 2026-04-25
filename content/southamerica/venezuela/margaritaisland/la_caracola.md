@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 10.958
 longitude: -63.851
+snippet: convenient town beach near Porlamar with beach clubs
 tags:
 - beaches
 - sight

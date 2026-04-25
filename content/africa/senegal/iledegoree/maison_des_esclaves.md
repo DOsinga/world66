@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 14.668
 longitude: -17.3995
+snippet: Haunting slave trade memorial with the infamous Door of No Return
 tags:
 - things_to_do
 - sight
+- story
 title: Maison des Esclaves
 type: poi
 ---

@@ -1,7 +1,10 @@
 ---
 title: "Osu"
 type: poi
-category: "Neighbourhood"
+snippet: Accra's main expat strip with restaurants, bars, and street vendors
+tags:
+- things_to_do
+- neighbourhood
 latitude: 5.5570
 longitude: -0.1820
 ---

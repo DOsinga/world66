@@ -2,6 +2,7 @@
 address: 6393 NW Marine Dr, Vancouver, BC V6T 1Z2
 latitude: 49.2697
 longitude: -123.2589
+snippet: World-class Northwest Coast First Nations art collection
 tags:
 - things_to_do
 - museum

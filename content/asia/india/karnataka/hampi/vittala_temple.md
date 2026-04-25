@@ -1,7 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 15.3423
 longitude: 76.4755
 opening_hours: 08:30-18:30
+snippet: Hampi's greatest temple, famed for its musical stone pillars
 tags:
 - things_to_do
 - landmark

@@ -1,12 +1,14 @@
 ---
-title: "Prince of Wales - Backpacker Pub"
+address: 101 Dunlop Street, Little India
+category: Bar
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 1.3065
+longitude: 103.8519
+phone: +65 9828 9829
+snippet: Boisterous Australian backpacker pub in the heart of Little India
+title: Prince of Wales
 type: poi
 ---
 
-**What makes POW unique?** - The only backpacker pub in Singapore - A 45% discount on all drinks for card carrying Backpackers (VIP, STA, YHA, EURO 26) - The only real pub in Little India - Four draught beers on tap (John Smith's Extra Smooth, Newcastle Brown Ale, Beamish Irish Stout, and FOSTER'S)  - A pub that an Australian would walk into and know its Australian with out the "cringe factor" (i.e. no pictures of the Harbour Bridge, Opera house, kangaroos, etc). - The main bar is non-smoking, while the large Beer Garden and front porch is smoker friendly. - The music is contemporary modern rock - The staff are young Australians - The web site: www.pow.com.sg
-
-PC: Little India, Singapore
-
-tel: +65 9828 9829
-
-address: 101 Dunlop Street
+The Prince of Wales is an Australian-run backpacker pub on Dunlop Street in Little India — a lively, unpretentious spot that feels genuinely lived-in rather than themed. Four draught beers on tap, a beer garden out back, and a front porch that catches the street life of the neighbourhood. The main bar is non-smoking. Card-carrying hostel members (YHA, VIP, STA) get a significant discount on drinks, making it popular with the budget-travel crowd. A long way from the polished cocktail bars of the CBD, and all the better for it.

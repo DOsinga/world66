@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 9.7143
 longitude: 100.0586
+snippet: Long peaceful south-coast beach far from Haad Rin's party scene
 tags:
 - beaches
 title: Ban Tai Beach

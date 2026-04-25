@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.1962
 longitude: 53.1701
+snippet: Ruins of Cyrus the Great's ceremonial reception hall
 tags:
 - things_to_do
 - architecture

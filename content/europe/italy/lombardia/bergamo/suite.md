@@ -1,28 +1,15 @@
 ---
-accessibility: Bus 1
-address: VIALE PAPA GIOVANNI XXIII 66 24121  BERGAMO
+address: Viale Papa Giovanni XXIII 66, 24121 Bergamo
 latitude: 45.692869
 longitude: 9.671936
-phone: '+39.035.212459 Fax: +39.035.3830385'
+phone: '+39 035 212459'
 tags:
 - bars_and_cafes
 - bar
 - cafe
 title: Suite
 type: poi
+snippet: "Cafe-bar with house-baked pastries using natural yeast"
 ---
 
-Traditional cafe & American bar. The bakery is under the bar and the first one in Italy to use a machine to produce natural yeast. Fresh bakery products, both sweet and salty, are available at the bar and they will do catering for private parties and events.
-
-**Contributors**
-February 19, 2008
-
-
-
-
-
-accessibility: Bus 1
-
-tel: +39.035.212459 Fax: +39.035.3830385
-
-address: VIALE PAPA GIOVANNI XXIII 66 24121 BERGAMO
+Traditional cafe and American bar on Bergamo's main boulevard in the lower town. The bakery operates directly below the bar and was one of the first in Italy to use a machine for producing natural yeast. Fresh pastries, both sweet and savory, are baked daily and available at the counter. They also offer catering for private events.

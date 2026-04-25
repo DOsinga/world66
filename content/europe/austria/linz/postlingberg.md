@@ -1,8 +1,11 @@
 ---
 address: Pöstlingberg, 4040 Linz
 admission: Free (tram fare applies)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.3267
 longitude: 14.2508
+snippet: Hilltop pilgrimage church reached by historic tram
 story: 'The Pöstlingbergbahn opened in 1898 and was engineered to climb a 10.5% gradient
   — steeper than virtually any adhesion railway in the world at the time. It originally
   ran on a different track gauge than the city trams below, requiring passengers to

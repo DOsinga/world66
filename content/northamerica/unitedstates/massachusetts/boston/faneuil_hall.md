@@ -1,11 +1,13 @@
 ---
 address: Faneuil Hall Square
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.36
 longitude: -71.0561
+snippet: Historic meeting hall and bustling food market
 tags:
 - things_to_do
 - market
-- club
 title: Faneuil Hall and Quincy Market
 type: poi
 ---

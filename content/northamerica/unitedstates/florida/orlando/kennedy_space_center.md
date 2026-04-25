@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 28.5243
 longitude: -80.6819
+snippet: Where every crewed US spaceflight has launched
 tags:
 - things_to_do
 - landmark

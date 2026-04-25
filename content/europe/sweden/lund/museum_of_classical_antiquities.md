@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.7078
 longitude: 13.2008
+snippet: Free university collection of Greek and Roman artifacts
 tags:
 - things_to_do
 - museum

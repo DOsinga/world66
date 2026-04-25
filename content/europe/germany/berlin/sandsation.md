@@ -1,10 +1,14 @@
 ---
 address: Near Hauptbahnhof, Berlin
+done:
+  poi_cleanup: '2026-04-19'
 email: info@sandsation.de
 latitude: 52.5251
 longitude: 13.3692
+snippet: Summer sand sculpture festival near the Hauptbahnhof
 tags:
 - things_to_do
+- festival
 title: Sandsation
 type: poi
 url: www.sandsation.de

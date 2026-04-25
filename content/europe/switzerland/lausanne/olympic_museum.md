@@ -4,6 +4,7 @@ longitude: 6.634
 tags:
 - things_to_do
 - museum
+snippet: "World's largest Olympic archive on the Lausanne lakefront"
 title: Olympic Museum
 type: poi
 ---

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.1028
 longitude: 9.8222
+snippet: Candlelit wine bar with views on Piazza Matteotti
 tags:
 - bars_and_cafes
 title: Enoteca Eliseo

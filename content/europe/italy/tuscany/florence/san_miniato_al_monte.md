@@ -4,6 +4,7 @@ admission: Free
 latitude: 43.7598
 longitude: 11.2647
 opening_hours: Mon–Sat 08:00–19:30; Sun 08:30–19:30
+snippet: "Romanesque basilica above Florence with Gregorian vespers at sunset"
 tags:
 - 3 Days in Florence
 - things_to_do

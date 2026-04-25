@@ -1,6 +1,7 @@
 ---
 latitude: -7.1191
 longitude: -34.8813
+snippet: Baroque masterpiece with a stunning trompe-l'oeil ceiling
 tags:
 - things_to_do
 - sight

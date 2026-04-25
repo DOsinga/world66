@@ -1,7 +1,10 @@
 ---
 title: "Margravial Opera House"
 type: poi
-category: Architecture
+tags:
+- things_to_do
+- sight
+snippet: Lavish UNESCO-listed Baroque court theatre from the 1740s
 latitude: 49.9452
 longitude: 11.5763
 ---

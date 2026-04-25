@@ -1,6 +1,7 @@
 ---
 latitude: 31.1806
 longitude: -7.9167
+snippet: "Half-day walks through Berber villages and walnut orchards"
 tags:
 - things_to_do
 - sight

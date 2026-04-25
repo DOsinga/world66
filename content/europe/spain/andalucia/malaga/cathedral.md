@@ -1,7 +1,10 @@
 ---
 address: Calle Molina Lario, 9
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.7196
 longitude: -4.4197
+snippet: Renaissance cathedral famously missing its south tower, nicknamed La Manquita.
 tags:
 - things_to_do
 - landmark

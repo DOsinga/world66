@@ -1,6 +1,7 @@
 ---
 latitude: 40.9376
 longitude: 24.4042
+snippet: Regional finds from Neapolis, Philippi, and Amphipolis
 tags:
 - things_to_do
 - museum

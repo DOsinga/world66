@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.9198
 longitude: 40.2285
+snippet: Neolithic to Ottoman artifacts from the upper Tigris valley
 tags:
 - things_to_do
 title: Diyarbakır Arkeoloji Müzesi

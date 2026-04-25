@@ -1,25 +1,18 @@
 ---
-title: "Kings and Queens"
+title: "Royal Tombs at Curtea de Argeș Monastery"
 type: poi
-type: "Graves and Cemeteries"
+snippet: "Monastery church holding the tombs of Romania's kings and queens"
+tags:
+- things_to_do
+- landmark
+latitude: 45.1422
+longitude: 24.6819
 ---
 
-In the Cathedral of Curtea de Arges Monastery the visitors can see the tombs of Romanian kings and queens.
-The first Romanian queen was Queen Elizabeth 1 (29 dec. 1843 - 18 feb. 1916), wife of King Carol I of Hohenzollern-Sigmaringen. She was a real protector of arts and she also wrote under the name of CARMEN SYLVA. Inspired by the work of Florence Nightingale, she helped a great number of people, especially the war wounded.
-The second was Queen Mary- "the diplomat queen". She was married to King Ferdinand of Hohenzollern. She was both beautiful and smart, playing an important diplomatic role in achieving the independence of Romania, before Romanian provinces became one big country. She was the mother of the next king, Carol II. Before she died, legend says that she required her body to be burried in Curtea de Arges Monastery, but her heart, in her residence from Balcic. Unfortunately, her wish was never accomplished, the heart was burried near the Castle Bran. During the communist period, in 1968, the authorities have broken into the marble sarcofagus where the heart was and they carelessly put it into the National Museum of History. Nowadays, the heart of the Queen is still waiting to be restored to its beloved place, Balcic.
+Inside the Cathedral of Curtea de Argeș Monastery lie the tombs of Romania's royal family — a remarkable collection of sarcophagi that makes this one of the most historically charged sites in the country.
 
-type: Graves and Cemeteries
+Queen Elizabeth (1843–1916), wife of King Carol I, was the first to be interred here. She was a patron of the arts who wrote poetry and prose under the pen name Carmen Sylva, and a tireless philanthropist inspired by Florence Nightingale's work among the war-wounded.
 
+Queen Marie (1875–1938) is perhaps the more dramatic figure. Granddaughter of both Queen Victoria and Tsar Alexander II, she married King Ferdinand and became one of Romania's most effective diplomats — her personal lobbying at the Paris Peace Conference in 1919 helped secure the unification of Romanian-speaking territories into Greater Romania. She had a characteristic final wish: to be buried here, but for her heart to be placed separately in her beloved residence at Balcic (now in Bulgaria). The heart was moved after Balcic passed to Bulgaria, eventually ending up — during the communist period — at the National History Museum in Bucharest, where it remains. The story of the displaced heart has become part of Romanian legend.
 
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The monastery itself is extraordinary: a 16th-century church with Wallachian and Byzantine decorative elements so elaborate they verge on the fantastical. Legend says the master builder Manole was walled into the structure by Prince Neagoe Basarab to prevent him ever building anything finer.

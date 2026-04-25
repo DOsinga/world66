@@ -1,13 +1,18 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: newzealand.jpg
 image_attribution: 'User: (WT-shared) Plug at  wts wikivoyage'
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_02.jpg
 latitude: -41.500083
 longitude: 172.834408
+quick_facts:
+  Population: "5 million"
+  Driving Side: Left
+  Sheep-to-People Ratio: "5 to 1"
+  First Country to Grant Women the Vote: "1893"
 score: 0.8
 title: New Zealand
 type: location

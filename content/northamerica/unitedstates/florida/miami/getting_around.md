@@ -1,12 +1,14 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-Many deeply discounted tickets to Miami plop you down in the shimmering new terminal at Fort Lauderdale/Hollywood International Airport. It's a great airport and there are plenty of rental car agencies, shuttle buses, taxis and limos ready to whisk you into Miami. These are more expensive, but definitely more convenient, than the two-hours'-drive by public bus. There's a regular Metrobus service between the airport and downtown Miami and Miami Beach. You can also take a Metrobus to the Greyhound station at the airport. From there Greyhound makes the 20-minute journey to the sleazy downtown station several times a day. 
+Miami is a car city. The distances are large, public transport coverage is patchy, and the weather makes walking any distance uncomfortable for much of the year. If you can rent a car, do — but be prepared for aggressive drivers and expensive parking, especially on South Beach.
 
-If you're over 25 and have a major credit card, the easiest way to get to Miami Beach, Coral Gables, or Miami, and explore it, is to rent a car. Some of the rental agencies offer an hourly rate with no minimum charges. But be prepared; driving in Miami is not a day at the beach. Watch out for lots of traffic and extremely aggressive drivers. 
+That said, the Metrorail elevated train connects the airport to downtown, Coconut Grove, Coral Gables, and points south. The free Metromover loops around downtown and Brickell, which is useful if you are staying in that area. Metrobus covers the rest, though routes can be slow and infrequent.
 
-Metro-Dade Transit's buses and the metro cover a healthy amount of the city. The 'Omni Metro-mover' and 'Government Center Terminal' in downtown Miami are the main bus depots. Using the metro is a good way to get a cheap tour of the downtown area. 
+For getting between South Beach and the mainland, rideshares are the easiest option. The causeways connect the Beach to downtown, but traffic on the MacArthur and Julia Tuttle causeways can be terrible during rush hour and on weekend nights.
 
-The Metrorail is a heavy rail system with one line running through downtown Miami and then connecting with Tri-Rail Metro-mover and the Metrobus at the Government Center in the southern part. Tri-Rail is a commuter rail system that runs between three counties: Dade, Broward, and Palm Beach. The double-decker trains are a marvel of cleanliness and at least for the time being they're very cheap. However,longer trips take about four times longer to take Tri-Rail than to drive
+Tri-Rail is a commuter rail line running north through Broward and Palm Beach counties — useful if you are heading to Fort Lauderdale or flew into FLL.
+
+Citi Bike operates bike-share stations across Miami Beach, downtown, Wynwood, and Coconut Grove. The flat terrain makes cycling practical, though bike lanes are limited and drivers are not always attentive.

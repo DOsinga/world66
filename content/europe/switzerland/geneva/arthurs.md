@@ -1,24 +1,12 @@
 ---
-title: "Arthur's"
+title: "Arthur's Club"
 type: poi
-address: "Route de Pré-Bois 20"
-email: "arthurs@arthurs.ch"
-type: "Clubs and dancing"
-url: "www.arthurs.ch"
+snippet: "Former mega-club near the airport, now replaced by Casino du Lac."
+tags: [things_to_do, nightlife]
 latitude: 46.22567
 longitude: 6.101813
 ---
 
-The Arthur's Club was the biggest night-club of Switzerland (now Casino du Lac). The three dance floors with different music styles attracted trendy people from all over the town. Just go to **www.arthurs.ch** to revive the legend and discover the Arthur's World.
+Arthur's Club was for years the largest nightclub in Switzerland, a sprawling venue near Geneva's airport with three dance floors and a reputation for pulling crowds from across the region. It closed and was replaced by Casino du Lac on the same site.
 
-type: Clubs and dancing
-
-
-
-
-
-address: Route de Pré-Bois 20
-
-email: arthurs@arthurs.ch
-
-url: [www.arthurs.ch](http://www.arthurs.ch)
+If you're looking for nightlife in Geneva today, the lakefront and the Pâquis neighbourhood have the most going on.

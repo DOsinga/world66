@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -45.772
 longitude: 170.7289
+snippet: World's only mainland royal albatross breeding colony
 tags:
 - things_to_do
 - landmark

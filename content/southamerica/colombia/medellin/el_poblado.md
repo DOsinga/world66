@@ -1,6 +1,7 @@
 ---
 latitude: 6.210556
 longitude: -75.568333
+snippet: "Upscale hillside district with Medellín's best bars and restaurants"
 tags:
 - things_to_do
 - neighbourhood

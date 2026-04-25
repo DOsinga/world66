@@ -4,6 +4,7 @@ latitude: 52.370253
 longitude: 4.888719
 neighbourhood: Centrum
 phone: +31 (0)20 626 6645
+snippet: "Tiny beer cafe with 100+ Belgian and craft brews"
 tags:
 - bars_and_cafes
 - centrum

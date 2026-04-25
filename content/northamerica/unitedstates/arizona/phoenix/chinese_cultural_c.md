@@ -3,6 +3,7 @@ address: 668 North 44th Street Phoenix, AZ 85008
 latitude: 33.45598
 longitude: -111.98724
 phone: +1 602 273 7268
+snippet: "Traditional Chinese architecture, gardens, shops, and restaurants off the interstate"
 tags:
 - things_to_do
 - park

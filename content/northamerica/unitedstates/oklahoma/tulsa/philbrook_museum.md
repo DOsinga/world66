@@ -2,6 +2,7 @@
 address: 2727 S. Rockford Road
 latitude: 36.1283
 longitude: -95.9624
+snippet: Art museum in a 1927 Italianate villa with formal gardens
 tags:
 - things_to_do
 - museum

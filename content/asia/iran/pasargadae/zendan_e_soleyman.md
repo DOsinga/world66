@@ -1,6 +1,7 @@
 ---
 latitude: 30.2005
 longitude: 53.1745
+snippet: Mysterious stone tower near the Tomb of Cyrus
 tags:
 - things_to_do
 - landmark

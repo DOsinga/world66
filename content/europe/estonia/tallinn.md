@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-19'
+image: tallinn.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_de_Tallinn,_Estonia,_2012-08-05,_DD_03.JPG
 latitude: 59.437242
 longitude: 24.757269
 score: 0.73
 title: Tallinn
 type: location
-image: tallinn.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_de_Tallinn,_Estonia,_2012-08-05,_DD_03.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Diego Delso
 ---
 
 Tallinn is the capital of Estonia and one of the best-preserved medieval cities in Northern Europe. Since the collapse of the Soviet Union it has transformed from a provincial town in a vast empire into the busy, wired, forward-looking capital of a small Baltic country — and it has done so without losing the cobbled streets, red roofs, and stone towers that made it famous in the first place.

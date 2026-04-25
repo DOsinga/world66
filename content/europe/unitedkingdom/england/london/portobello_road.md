@@ -1,8 +1,11 @@
 ---
 address: Portobello Road, Notting Hill, London W11
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.517918
 longitude: -0.206629
 opening_hours: 'Antiques: Sat 5:30am-3pm. General market: Mon-Wed, Fri-Sat.'
+snippet: London's famous Saturday antiques and street market
 tags:
 - shopping
 - shop

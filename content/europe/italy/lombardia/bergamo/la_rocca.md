@@ -2,12 +2,10 @@
 address: Via Rocca, Città Alta, Bergamo
 latitude: 45.703362
 longitude: 9.665431
+snippet: Medieval hilltop fortress with sweeping views over Bergamo
 tags:
 - things_to_do
-- museum
-- palace
-- market
-- square
+- landmark
 title: La Rocca
 type: poi
 ---

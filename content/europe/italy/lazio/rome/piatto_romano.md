@@ -3,6 +3,7 @@ address: Via G. B. Bodoni 62, 00153 Rome
 latitude: 41.8808
 longitude: 12.4769
 opening_hours: Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun
+snippet: Vegetable-and-offal-focused Testaccio trattoria
 tags:
 - Testaccio Food Tour
 - Roman Cucina Povera

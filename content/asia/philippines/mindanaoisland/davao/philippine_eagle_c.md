@@ -1,32 +1,15 @@
 ---
-address: Baguio District
+address: Baguio District, Calinan, Davao City
 latitude: 7.17091
 longitude: 125.321074
+snippet: Sanctuary dedicated to breeding the critically endangered Philippine Eagle
 tags:
 - things_to_do
-- neighbourhood
+- nature
 title: Philippine Eagle Conservation Centre
 type: poi
 ---
 
-****A must for all conservationists and nature lovers to visit!
+Established in 1987 in the forested highlands of Baguio District, about 36 kilometres from central Davao, this centre is the main facility working to save the Philippine Eagle from extinction. The bird — the country's national symbol — is one of the world's largest eagles, with a wingspan reaching over two metres. Fewer than 800 are estimated to remain in the wild.
 
-Located in the highlands of Baguio District is this centre dedicated to
-the conservation of the very rare Philippine Eagle. In the wild, these
-eagles are found in the forests around Mount Apo. In the centre, you
-will see various Philippine Eagles bred in
-captivity. This centre employs various methods of artificial
-ensemination to try and save the eagle from extinction. There are
-also other species of "raptors" on display, plus a host of other
-animals in an open air zoo.
-
-**Contributors**
-October 23, 2005
-
-type: Hotspots
-
-
-
-
-
-address: Baguio District
+The centre runs a captive breeding programme using artificial insemination and has achieved successful hatching of chicks. Visitors can see several eagles in large enclosures along with other Philippine raptors and a small open-air zoo with native wildlife. The birds are impressive up close — they're enormous, and the centre does a good job of explaining the habitat destruction that has pushed them toward extinction.

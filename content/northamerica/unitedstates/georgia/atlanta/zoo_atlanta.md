@@ -3,6 +3,7 @@ address: 800 Cherokee Ave SE, Atlanta, GA 30315
 latitude: 33.7336
 longitude: -84.3714
 phone: (404) 624-5678
+snippet: One of only four US zoos with giant pandas
 tags:
 - things_to_do
 - landmark

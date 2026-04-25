@@ -1,6 +1,7 @@
 ---
 title: "Pemayangtse Monastery"
 type: poi
+snippet: "17th-century Nyingma gompa with stunning Kanchenjunga views and a remarkable celestial palace model"
 tags:
   - things_to_do
   - monastery

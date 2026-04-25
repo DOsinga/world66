@@ -1,7 +1,10 @@
 ---
 address: Albert Dock, Liverpool, L3 4AA
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.3997
 longitude: -2.9919
+snippet: Restored Victorian dock complex housing Tate Liverpool and museums
 tags:
 - things_to_do
 - landmark

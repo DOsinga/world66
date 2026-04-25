@@ -1,6 +1,7 @@
 ---
 latitude: 29.9761
 longitude: 31.1308
+snippet: "Only pyramid at Giza still wearing its original casing stones"
 tags:
 - things_to_do
 - landmark

@@ -1,26 +1,13 @@
 ---
-address: Matina Aplaya, Davao City
-latitude: 7.04447
-longitude: 125.56873
+title: "Sea Wall of Davao (Bay Walk)"
+type: poi
 tags:
 - things_to_do
 - monument
-- tower
-title: Sea Wall of Davao, a.k.a Davao's Bay Walk
-type: poi
+snippet: "Waterfront promenade with kitsch statues and good sunset views"
+address: Matina Aplaya, Davao City
+latitude: 7.04447
+longitude: 125.56873
 ---
 
-Located at the length of the Matina Coast is the lovely Sea Wall that offers some of the most spectacular sunsets in Davao as well as beautifully adorned grounds to stroll around. It is here where the famous golden replica of Michaelangelo's David stands at a height of over 30 feet tall. The towering statue is fronted by a pretty, lengthy pool of baby sharks and other tropical fishes. Further down is the iconic statue of the Harbour of Denmark, a sculpture crafted in the image of the original Little Mermaid. The water-front park offers lovely white benches ornamented with vines, a mini-zoo featuring rare animals including ostriches and the musang or local mouse-deer, and a drive through the grounds and into some parts of the sea. The Sea Wall was constructed through initiative and was funded by the nearby Queensland Lodge.
-
-To see more photos, visit http://awengmoralbasco.blogspot.com/2008/01/davaos-controversial-baywalk.html
-
-**Contributors**
-May 14, 2008
-
-type: Landmarks
-
-
-
-
-
-address: Matina Aplaya, Davao City
+A long waterfront promenade along the Matina Coast, popular with locals in the evenings for the sunsets over the Davao Gulf. The park features an oversized golden replica of Michelangelo's David, a copy of Copenhagen's Little Mermaid, and a small zoo with ostriches and other animals. It's eccentric and a little ramshackle, but the atmosphere is genuinely lively — vendors, families, and couples out for an evening stroll. A good place to stretch your legs and watch the sun go down.

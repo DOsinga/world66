@@ -1,6 +1,7 @@
 ---
 latitude: 8.031092
 longitude: 98.821883
+snippet: "Krabi's main beach and jumping-off point for the islands"
 tags:
 - beaches
 - landmark

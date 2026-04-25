@@ -2,6 +2,7 @@
 address: Kiriku plats 1
 latitude: 59.437043
 longitude: 24.74035
+snippet: "Grand neo-Renaissance palace of the Baltic German nobility"
 tags:
 - things_to_do
 - architecture

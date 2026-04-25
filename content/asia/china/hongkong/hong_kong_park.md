@@ -2,6 +2,7 @@
 address: 19 Cotton Tree Drive, Central
 latitude: 22.2774
 longitude: 114.1615
+snippet: "Lush urban park with walk-in aviary and colonial tea museum"
 tags:
 - hongkongisland
 - things_to_do

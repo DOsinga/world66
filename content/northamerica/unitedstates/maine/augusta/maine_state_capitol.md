@@ -1,7 +1,10 @@
 ---
 address: 210 State Street, Augusta, ME 04333
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.3076
 longitude: -69.7819
+snippet: Bulfinch-designed granite capitol with free tours
 tags:
 - things_to_do
 - sight

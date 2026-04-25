@@ -3,6 +3,7 @@ address: Corso Vannucci 43
 latitude: 43.110754
 longitude: 12.388376
 opening_hours: 7am–midnight
+snippet: Historic cafe on the main corso, famous for chocolate drinks
 tags:
 - bars_and_cafes
 - bar

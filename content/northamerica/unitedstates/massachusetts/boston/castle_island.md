@@ -1,11 +1,14 @@
 ---
 address: Day Boulevard, South Boston
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.3388
 longitude: -71.0187
 phone: 617-268-5744
+snippet: Historic fort on a South Boston peninsula with harbor views
 tags:
 - things_to_do
-- palace
+- fort
 title: Castle Island
 type: poi
 url: www.mass.gov

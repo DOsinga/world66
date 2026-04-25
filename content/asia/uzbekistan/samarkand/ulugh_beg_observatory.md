@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 39.6716
 longitude: 66.9784
+snippet: Remains of a 15th-century observatory with giant sextant
 tags:
 - things_to_do
 - landmark
+- story
 title: Ulugh Beg Observatory
 type: poi
 ---

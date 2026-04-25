@@ -1,6 +1,7 @@
 ---
 latitude: -20.7824
 longitude: 167.2271
+snippet: "Dramatic limestone sea cliffs with turtle views"
 tags:
 - things_to_do
 - landmark

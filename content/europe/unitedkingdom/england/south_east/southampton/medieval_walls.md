@@ -1,7 +1,10 @@
 ---
 address: Western Esplanade, Southampton
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.8985
 longitude: -1.4078
+snippet: One of England's finest surviving medieval wall circuits
 tags:
 - things_to_do
 - architecture

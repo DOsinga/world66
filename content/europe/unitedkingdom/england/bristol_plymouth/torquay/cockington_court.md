@@ -1,9 +1,12 @@
 ---
-title: "Cockington Court"
-type: poi
 category: Sight
 latitude: 50.4639
 longitude: -3.5642
+snippet: Thatched village and manor house with craft studios
+tags:
+- things_to_do
+title: Cockington Court
+type: poi
 ---
 
 Cockington is a thatched village that has somehow survived intact on the edge of a busy resort town. The country park around Cockington Court — a Grade II* listed manor house — covers around 460 acres of parkland, gardens, and working farm. The village itself, with its forge, mill, and cluster of thatched cottages, looks much as it did in the seventeenth century.

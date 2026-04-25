@@ -1,6 +1,7 @@
 ---
 title: "Habesha 2000 Restaurant"
 type: poi
+snippet: "Traditional Ethiopian food with live music and regional dances"
 tags:
   - eating_out
   - restaurant

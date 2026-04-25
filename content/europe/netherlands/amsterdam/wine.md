@@ -1,6 +1,7 @@
 ---
-latitude: 52.950947
-longitude: 6.052004
+latitude: 52.3676
+longitude: 4.9041
+snippet: Independent wine shops with exceptional global selections
 tags:
 - shopping
 title: Wine

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.0116
 longitude: -114.9805
+snippet: Surprisingly rich wetland birding spot near Las Vegas
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,7 @@
 address: Munkegata 23, 7011 Trondheim
 latitude: 63.4307
 longitude: 10.3951
+snippet: "Royal residence and largest wooden mansion in Scandinavia, built in the 1770s"
 story: Built in the 1770s by a wealthy widow, Stiftsgården is the largest wooden building
   in Scandinavia and one of the largest in all of northern Europe — an extraordinary
   achievement for a private residence in a provincial town.

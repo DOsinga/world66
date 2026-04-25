@@ -1,6 +1,7 @@
 ---
 latitude: -34.59462
 longitude: -58.375737
+snippet: Leafy square flanked by grand palaces and the Malvinas War memorial
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.3737
 longitude: 10.8961
+snippet: Romanesque-Gothic cathedral with Germany's oldest surviving bronze doors
 tags:
 - things_to_do
 - landmark

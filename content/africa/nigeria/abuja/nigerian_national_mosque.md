@@ -1,6 +1,8 @@
 ---
+address: Independence Avenue, Central Business District, Abuja
 latitude: 9.058
 longitude: 7.4846
+snippet: "Federal capital's gold-domed mosque, striking from the exterior"
 tags:
 - things_to_do
 - sight

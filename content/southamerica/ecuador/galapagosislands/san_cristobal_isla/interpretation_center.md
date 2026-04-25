@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -0.9002
 longitude: -89.6101
+snippet: Free museum covering Galápagos geology, wildlife, and conservation
 story: Darwin arrived at San Cristóbal on 17 September 1835 and spent his first days
   collecting specimens along the shore near what is now Puerto Baquerizo Moreno. He
   initially found the islands 'not very attractive' — the black lava and scrubby vegetation

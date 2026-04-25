@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.8945
 longitude: -5.557
+snippet: Rare mosque open to non-Muslims with stunning tilework
 story: Moulay Ismail, who ruled Morocco from 1672 to 1727, used 25,000 Christian captives
   and enslaved labourers to build his imperial capital. The mausoleum he built for
   himself is one of only a handful of religious buildings in Morocco that non-Muslims

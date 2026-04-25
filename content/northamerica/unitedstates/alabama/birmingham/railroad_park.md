@@ -1,7 +1,11 @@
 ---
 address: 1600 1st Avenue South, Birmingham, AL 35233
+category: Park
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.5095
 longitude: -86.8098
+snippet: 19-acre downtown green space with skyline views and events
 tags:
 - things_to_do
 - landmark

@@ -2,6 +2,7 @@
 address: 93 Front Street East, Toronto, ON M5E 1C3
 latitude: 43.6487
 longitude: -79.3716
+snippet: "Historic 1850 food market with outstanding lunch options"
 tags:
 - things_to_do
 - market

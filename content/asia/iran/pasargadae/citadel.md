@@ -1,6 +1,7 @@
 ---
 latitude: 30.206
 longitude: 53.181
+snippet: Enormous Achaemenid stone platform with plateau-wide views
 tags:
 - things_to_do
 - landmark

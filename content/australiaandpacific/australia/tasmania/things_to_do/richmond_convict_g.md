@@ -1,39 +1,14 @@
 ---
-title: "Richmond Convict Gaol-Historic Site"
+latitude: -42.735
+longitude: 147.4381
+snippet: Australia's oldest surviving colonial gaol from 1825
+tags:
+- things_to_do
+- history
+title: Richmond Gaol
 type: poi
-accessibility: "9am-5pm 7 days"
-address: "3Bathurst Street, Richmond,Tasmania Australia 7025"
-email: "richmondgaol@yahoo.com.au"
-phone: "03 62602127"
-type: "Spa and Sauna"
 ---
 
-Visit the Richmond Convict Gaol, Australia's oldest existing and best preserved colonial gaol. The Gaol was built between 1825-1840 and housed both male and female prisoners.
+Australia's oldest existing colonial gaol, built between 1825 and 1840 in the small town of Richmond, about 25 km northeast of Hobart. The gaol held both men and women and is remarkably well preserved, with solitary confinement cells, a flogging yard, and the original cookhouse oven still intact.
 
-Features : Solitary confinement cells (Mens and womens)
-
-Punishment cell
-
-Flogging yard and privy
-
-Cookhouse with original oven
-
-Gaol model
-
-Souvenir and craft shop
-
-Sound effects.
-
-Be part of Tasmania's historyand experience the sights and sounds of early prison life.
-
-type: Spa and Sauna
-
-
-
-accessibility: 9am-5pm 7 days
-
-tel: 03 62602127
-
-address: 3Bathurst Street, Richmond,Tasmania Australia 7025
-
-email: richmondgaol@yahoo.com.au
+The site is compact but atmospheric. Walking through the narrow cells and punishment areas gives a visceral sense of how harsh convict life was in early Tasmania. Richmond itself is a pretty Georgian village worth combining with the visit. Open daily 9am to 5pm.

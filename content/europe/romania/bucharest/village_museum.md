@@ -1,6 +1,7 @@
 ---
 latitude: 44.4705
 longitude: 26.0819
+snippet: "Open-air museum with traditional buildings from every region of Romania"
 tags:
 - things_to_do
 - museum

@@ -1,7 +1,10 @@
 ---
 title: "Binhe Park"
 type: poi
-category: Sight
+snippet: Riverside Green Travel Corridor with Silk Road sculptures
+tags:
+- things_to_do
+- sight
 latitude: 36.4897
 longitude: 103.7512
 ---

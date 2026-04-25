@@ -1,6 +1,7 @@
 ---
 latitude: 16.443
 longitude: 107.552
+snippet: Most romantic royal tomb; an emperor's retreat of lotus ponds and poetry
 tags:
 - things_to_do
 - sight

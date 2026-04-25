@@ -1,6 +1,7 @@
 ---
 latitude: -45.8765
 longitude: 170.5048
+snippet: "Ornate 1906 Flemish Renaissance station, New Zealand's most photographed building"
 tags:
 - things_to_do
 - architecture

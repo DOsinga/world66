@@ -2,6 +2,7 @@
 title: "Navajo National Monument"
 type: poi
 category: "Sight"
+snippet: "Three superbly preserved Ancestral Puebloan cliff dwellings"
 latitude: 36.684258
 longitude: -110.536259
 ---

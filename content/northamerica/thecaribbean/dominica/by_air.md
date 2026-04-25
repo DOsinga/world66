@@ -1,7 +1,7 @@
 ---
+snippet: "Two small airports with inter-island connections, no direct long-haul flights"
 tags:
 - getting_there
-- sight
 title: By Air
 type: poi
 ---

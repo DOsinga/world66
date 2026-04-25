@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.4245
 longitude: 18.771
+snippet: UNESCO-listed marble-lane maze with cats and Romanesque churches
 tags:
 - things_to_do
 - neighbourhood

@@ -2,6 +2,7 @@
 address: 1616 E 18th St, Kansas City, MO 64108
 latitude: 39.0942
 longitude: -94.5565
+snippet: Kansas City jazz history told well, with a live music club attached
 story: 'Charlie Parker — ''Bird'' — grew up in Kansas City and got his start in the
   clubs along 12th Street. He was famously booed off stage at a jam session aged 15
   when he couldn''t keep up. He went home, practiced for a year, came back, and the

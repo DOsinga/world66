@@ -1,7 +1,10 @@
 ---
 address: Geirsgata, Reykjavik
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 64.1505
 longitude: -21.9421
+snippet: Working waterfront with whale-watching boats and seafood shacks
 tags:
 - things_to_do
 - neighbourhood

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.7622
 longitude: 4.8222
+snippet: Byzantine-Romanesque basilica with panoramic views over Lyon
 tags:
 - things_to_do
 - sight

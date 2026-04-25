@@ -3,6 +3,7 @@ address: Mittlere Strasse 17
 latitude: 47.560367
 longitude: 7.579261
 opening_hours: Tue–Sun 10am–5pm
+snippet: Plaster cast collection of ancient Greek and Roman sculpture
 tags:
 - things_to_do
 - museum

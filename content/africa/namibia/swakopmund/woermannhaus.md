@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.6763
 longitude: 14.5258
+snippet: German colonial landmark with tower views over Swakopmund
 story: Built in 1905 as the headquarters of the Damara & Namaqua Trading Company,
   the building passed to the Woermann & Brock Trading Company four years later, and
   the name stuck. The tower — called the Damara Tower — was used as a lookout point

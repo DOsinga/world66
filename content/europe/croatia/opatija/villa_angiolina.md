@@ -1,6 +1,7 @@
 ---
 latitude: 45.3374
 longitude: 14.3065
+snippet: Neoclassical villa with botanical gardens and Croatia's tourism museum
 tags:
 - things_to_do
 - architecture

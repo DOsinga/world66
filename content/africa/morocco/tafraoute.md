@@ -4,6 +4,7 @@ description: A laid-back Berber town in Morocco's Anti-Atlas mountains, surround
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  poi_cleanup: '2026-04-19'
 latitude: 29.7205
 longitude: -8.9745
 score: 0.51

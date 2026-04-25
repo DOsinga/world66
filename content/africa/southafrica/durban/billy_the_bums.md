@@ -1,8 +1,11 @@
 ---
 address: 504 Windermere Rd, Morningside
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -29.8194
 longitude: 31.0224
 phone: (031) 303-1988
+snippet: Long-running Morningside cocktail bar, consistently good drinks and atmosphere
 tags:
 - bars_and_cafes
 title: Billy the BUM's

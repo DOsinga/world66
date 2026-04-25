@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 image: st_peters_basilica.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg
 latitude: 41.9022
 longitude: 12.4539
+snippet: Michelangelo's dome over the center of the Catholic world
 tags:
 - things_to_do
 - church

@@ -7,6 +7,7 @@ story: 'Chek Jawa narrowly escaped being reclaimed for development in 2001. A la
   movement stopped a major infrastructure project cold.
 
   '
+snippet: Six ecosystems meet at Ubin's eastern tip
 tags:
 - things_to_do
 title: Chek Jawa Wetlands

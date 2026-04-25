@@ -3,6 +3,7 @@ latitude: -20.8573
 longitude: 167.1016
 tags:
 - beaches
+snippet: "West-facing Lifou beach, quieter than Easo and best for sunsets"
 title: Peng Beach
 type: poi
 ---

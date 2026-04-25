@@ -9,6 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:The_windmills_of_Kinderdij
 latitude: 52.243498
 longitude: 5.634323
 map_bounds: [[51.2, 3.9], [53.2, 7.1]]
+quick_facts:
+  Population: "17.9 million"
+  Capital: Amsterdam
+  Below Sea Level: "26%"
+  Bicycles: "23 million"
 title: Netherlands
 type: location
 score: 0.39

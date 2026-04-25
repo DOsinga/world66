@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.0862
 longitude: -9.585
+snippet: Massive ancient stone fort on the island's highest point
 tags:
 - things_to_do
 - landmark

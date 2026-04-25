@@ -1,11 +1,14 @@
 ---
-title: "Lithuania"
+author: Rupert Brooke,William-Alan Landes (Editor)
+done:
+  poi_cleanup: '2026-04-20'
+isbn: 0887343414
+snippet: Classic cultural guide to Lithuania by Rupert Brooke
+subject: culture
+tags:
+- story
+title: Lithuania
 type: poi
-author: "Rupert Brooke,William-Alan Landes (Editor)"
-isbn: "0887343414"
-subject: "culture"
-latitude: 55.35
-longitude: 23.75
 ---
 
-[](http://www.amazon.com/exec/obidos/ASIN/0887343414/osingacom?creative=125581&camp=2321&link_code=as1)
+A cultural guide to Lithuania edited by William-Alan Landes, drawing on Rupert Brooke's observations. The book covers Lithuanian history, traditions, and daily life, offering context that helps make sense of the country beyond the usual tourist trail. Useful background reading before a visit, particularly if you're heading beyond Vilnius into the countryside.

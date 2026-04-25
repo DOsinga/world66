@@ -1,8 +1,15 @@
 ---
-title: "Mustafa Center"
+address: 145 Syed Alwi Road, Little India
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 1.3065
+longitude: 103.8557
+snippet: sprawling 24-hour emporium in Little India selling almost everything
+tags:
+- things_to_do
+- sight
+title: Mustafa Centre
 type: poi
 ---
 
-It famous department store, supermarket, pharmacy, jeweller, money changer, hotelier, travel agency and post office all rolled into one. From its early days in 1971 when it was only retailing garments, Mustafa Center sure has come a long way. In contrast to its relatively modest blue-glass exterior, you can get almost anything you want here from over 90,000 items displayed on four levels, commanding a total retail space of 70,000 square feet. With a wealth of offering at some of the lowest prices in Singapore, it's no wonder that this outlet is popular with tourists and locals looking for the best bargains. And if by some coincidence you can't find what you need, just inform the management and they'll do the favour of sourcing it for you. **Seema:** This is the only departmental store that provides goods of almost every kind. Large varieties of foodstuffs have you drooling as you walk by the aisles and the range of cosmetics and electronic items are enormous. Best part of it all, they are cheap and of good quality! There is a cafe, a travel agency, baggage department, CDs and VCDs department, a hotel and many more. It's got to be Mustaffas!
-
-address: 145 Syed Alwi Roads
+A Singapore institution and a genuine sensory experience. Mustafa Centre occupies a large block in Little India and sells an extraordinary range of goods across multiple floors — electronics, gold jewellery, cosmetics, groceries, clothing, luggage, currency exchange, and much more, all at competitive prices. It stays open 24 hours a day, which makes it a useful last resort for anything forgotten before a flight, and a favourite destination for residents doing bulk shopping. The place is always busy and slightly chaotic, but that's part of its appeal. The grocery section in particular is excellent for South Asian and Southeast Asian ingredients unavailable elsewhere.

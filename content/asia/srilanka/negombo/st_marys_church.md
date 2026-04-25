@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 7.2088
 longitude: 79.8386
+snippet: Grand Catholic church with vivid painted ceiling
 tags:
-- things_to_do
-- sight
+- religious
+- architecture
 title: St. Mary's Church
 type: poi
 ---

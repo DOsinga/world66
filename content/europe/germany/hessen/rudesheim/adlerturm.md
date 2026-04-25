@@ -1,6 +1,7 @@
 ---
 latitude: 49.9784
 longitude: 7.9215
+snippet: Medieval Rhine tower where Goethe once stayed
 tags:
 - things_to_do
 - landmark

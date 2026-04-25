@@ -2,6 +2,10 @@
 title: "Huaca Arco Iris"
 type: poi
 category: Sight
+snippet: "Best-preserved Chimú ceremonial mound with rainbow and serpent friezes"
+tags:
+- things_to_do
+- sight
 latitude: -8.0901
 longitude: -79.0508
 story: "The name — Rainbow Temple — comes from the repeated rainbow-shaped friezes that wrap around the outer walls. Each arch frames a pair of figures, possibly priests or mythological beings, in a design unlike anything else on the Peruvian coast."

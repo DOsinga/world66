@@ -1,6 +1,7 @@
 ---
 latitude: 39.87192
 longitude: 45.338159
+snippet: Dramatic hilltop fortress reached by scenic hike
 tags: [things_to_do, fortress, historic_site]
 title: Smbataberd Fortress
 type: poi

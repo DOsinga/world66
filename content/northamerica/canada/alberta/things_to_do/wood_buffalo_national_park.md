@@ -1,7 +1,8 @@
 ---
 title: "Wood Buffalo National Park"
 type: poi
-category: "Sight"
+tags: [things_to_do]
+snippet: Canada's largest park with free-roaming bison herds
 latitude: 59.383333
 longitude: -112.883333
 ---

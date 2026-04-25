@@ -2,8 +2,13 @@
 category: Sight
 done:
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-20'
 latitude: 57.7747
 longitude: -5.3433
+snippet: Gulf Stream-warmed walled garden with exotic plants at 57°N.
+tags:
+- things_to_do
+- nature
 title: Inverewe Garden
 type: poi
 ---

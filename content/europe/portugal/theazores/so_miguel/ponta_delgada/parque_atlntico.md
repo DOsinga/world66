@@ -3,6 +3,7 @@ address: Rua da Juventude, 9500-211
 latitude: 37.7475
 longitude: -25.6762
 phone: 296 307 575
+snippet: "Main shopping mall with high-street chains and cinema"
 tags:
 - shopping
 title: Parque Atlântico

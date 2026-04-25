@@ -1,6 +1,7 @@
 ---
 title: "Noah's Ark"
 type: poi
+snippet: "Live music bar with electronic and mixed music nights"
 tags:
   - bars_and_cafes
   - bar

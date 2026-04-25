@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.5191
 longitude: 74.3254
+snippet: Om-shaped beach with surf, shacks, and cliff walks
 tags:
 - beaches
 title: Om Beach

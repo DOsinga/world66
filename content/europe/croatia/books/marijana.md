@@ -1,18 +1,11 @@
 ---
 title: "The Practical Guide To Croatia's Archaeological Sites"
 type: poi
+snippet: "Comprehensive guide to Illyrian, Greek, and Roman sites"
 author: "Ante Susnjara"
 isbn: "9789535507703"
 ---
 
 *By Ante Susnjara*
 
-is an archaeological guide book, covering the entire territory of Croatia. Ideal for any tourist or archaeology enthusiast who is interested in seeking and exploring the ancient sites of Croatia. The book covers Illyrian, Greek, Roman, Celtic sites as well as legends, mysteries, underwater localities etc... modern place names are provided together with their ancient names. The book is self published, A5 format, 222 pages. The book can be purchased at www.croatia-archaeology.com.
-
-[](http://www.amazon.com/exec/obidos/ASIN/9789535507703/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: Ante Susnjara
-
-isbn: 9789535507703
+A compact guide covering archaeological sites across Croatia, from Illyrian hillforts and Greek colonies to Roman amphitheatres and Celtic settlements. The book pairs modern place names with their ancient equivalents and includes underwater sites along the Adriatic coast. At 222 pages in A5 format, it's portable enough to carry on day trips. Useful if you want to go beyond the headline attractions like Diocletian's Palace and explore lesser-visited ruins scattered through the countryside.

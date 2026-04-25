@@ -1,8 +1,14 @@
 ---
-title: "Tropic of Cancer Beach"
-type: poi
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 23.4372
 longitude: -75.8819
+snippet: Mile-long white sand arc on Little Exuma, rarely crowded
+tags:
+- things_to_do
+- beach
+title: Tropic of Cancer Beach
+type: poi
 ---
 
 The best beach in the Exumas and one of the best in the Bahamas. A mile-long arc of white sand on the south coast of Little Exuma, backed by low dunes and facing a sheltered bay. The water is shallow, calm, and an almost unreal shade of turquoise. Offshore, small islands like Turtle Island break the waves and keep things gentle.

@@ -2,6 +2,7 @@
 address: Onikan, Lagos Island
 latitude: 6.4464
 longitude: 3.3967
+snippet: Nok terracottas and Benin bronzes spanning millennia
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.8691
 longitude: -118.0555
+snippet: Short loop trail with panoramic Athabasca valley views
 tags:
 - things_to_do
 - landmark

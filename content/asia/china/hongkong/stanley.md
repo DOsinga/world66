@@ -1,6 +1,7 @@
 ---
 latitude: 22.2188
 longitude: 114.2092
+snippet: "Former fishing village with market, seafood, and colonial waterfront"
 tags:
 - hongkongisland
 - things_to_do

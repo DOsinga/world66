@@ -1,8 +1,11 @@
 ---
 address: Albertinaplatz 1, 1010 Wien
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.204636
 longitude: 16.368261
 phone: +43 1 53483
+snippet: World-class print collection from Dürer to Picasso
 tags:
 - things_to_do
 - museum

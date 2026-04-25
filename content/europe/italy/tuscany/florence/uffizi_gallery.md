@@ -12,6 +12,7 @@ tags:
 - museum
 - palace
 title: Uffizi Gallery
+snippet: World's finest Renaissance collection with Botticelli, Leonardo, and Michelangelo
 type: poi
 url: www.uffizi.it
 ---

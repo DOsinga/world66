@@ -1,14 +1,17 @@
 ---
-title: "Garden of the Master of the Nets"
-type: poi
-tags:
-  - things_to_do
-  - garden
-  - classical_garden
-  - unesco_world_heritage
-  - historic_site
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 31.3178
 longitude: 120.6273
+snippet: Suzhou's smallest classical garden, exquisitely refined
+tags:
+- things_to_do
+- garden
+- classical_garden
+- unesco_world_heritage
+- historic_site
+title: Garden of the Master of the Nets
+type: poi
 ---
 
 The smallest of Suzhou's classical gardens is also the most refined. Every rock, pond, and pavilion has been placed with obsessive care, and the effect is of extraordinary space compressed into a very small area. It served as the model for the Astor Court garden at the Metropolitan Museum of Art in New York — a fair testament to its quality.

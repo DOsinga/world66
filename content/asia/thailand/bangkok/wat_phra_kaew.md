@@ -1,6 +1,7 @@
 ---
 latitude: 13.7515
 longitude: 100.4927
+snippet: Thailand's most sacred temple, home of the Emerald Buddha
 tags:
 - things_to_do
 - church

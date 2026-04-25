@@ -1,10 +1,10 @@
 ---
 latitude: 13.7463
 longitude: 100.4927
+snippet: "Huge reclining Buddha and birthplace of Thai massage"
 tags:
 - things_to_do
-- church
-- palace
+- sight
 title: Wat Pho
 type: poi
 ---

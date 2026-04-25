@@ -1,12 +1,13 @@
 ---
 address: Champ de Mars, 75007 Paris
-admission: €29.40 (top by lift), €19.10 (2nd floor by lift), €11.80 (stairs to 2nd
-  floor)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.85826
 longitude: 2.294501
-opening_hours: Daily 9am–12:45am (lifts), 9am–midnight (stairs)
+snippet: Iron lattice icon of Paris with sweeping city views
 tags:
-- things_to_do
+- sight
+- landmark
 title: Eiffel Tower
 type: poi
 url: www.tour-eiffel.fr

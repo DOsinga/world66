@@ -1,6 +1,7 @@
 ---
 title: "Fujiazhuang Beach"
 type: poi
+snippet: "Dalian's best swimming beach with clean sand"
 tags:
   - things_to_do
   - sight

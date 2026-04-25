@@ -1,29 +1,20 @@
 ---
 address: Prinsengracht 267
-category: Other
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.375156
 longitude: 4.884081
-phone: 020 5567100
+snippet: The preserved hiding place where Anne Frank wrote her diary
 tags:
-- activities
-title: Anne Frankhuis Tour
+- museums
+- museum
+title: Anne Frank House
 type: poi
-url: www.annefrank.org
+url: https://www.annefrank.org
 ---
 
-For the cost of a cup of coffee and a muffin, visitors to Amsterdam can purchase a ticket for the unforgettable Anne Frankhuis (Anne Frank House) tour. Located in the center of Amsterdam, The Anne Frank House is the former place where Anne Frank wrote her diary. Now a museum, the featured texts and displays recount the history of the eight people in hiding and the story of those who helped them during the war. Collections, exhibitions, and a virtual display (to show pieces that could not be displayed) are all a part of The Anne Frank House experience. The museum is open daily from 9 a.m. and tours are roughly an hour long.
+The Anne Frank House is the canal-side building where Anne Frank, her family, and four others hid from the Nazis for over two years during World War II. The secret annex behind the bookcase is still there, and walking through those small rooms — seeing the magazine clippings Anne pasted on the walls, the marks tracking the children's height — is genuinely moving.
 
-**Contributors**
-May 13, 2008
+The museum presents the story through original documents, photographs, and fragments from the diary. The rooms are kept empty, as Otto Frank wished, which somehow makes them more powerful.
 
-type: Other
-
-
-
-
-
-tel: 020 5567100
-
-url: [www.annefrank.org](http://www.annefrank.org)
-
-address: Prinsengracht 267
+Tickets are timed-entry only and must be booked online in advance — they sell out weeks ahead, so plan early. A limited number are released each Tuesday for the following week. The visit takes about an hour. Go expecting crowds even with timed entry; this is one of Amsterdam's most visited sites for good reason.

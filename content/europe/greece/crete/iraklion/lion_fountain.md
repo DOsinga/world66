@@ -1,7 +1,10 @@
 ---
 address: Plateia Eleftherias (Lions Square), Iraklion
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.3402
 longitude: 25.1326
+snippet: Venetian fountain from 1628 at the heart of Iraklion
 tags:
 - things_to_do
 - landmark

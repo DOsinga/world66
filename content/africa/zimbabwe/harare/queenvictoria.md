@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -17.8748
 longitude: 31.0291
+snippet: Natural history museum with wildlife and geology displays
 tags:
 - things_to_do
 - museum

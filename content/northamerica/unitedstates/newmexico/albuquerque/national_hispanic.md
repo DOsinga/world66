@@ -4,6 +4,7 @@ latitude: 35.0725
 longitude: -106.6516
 opening_hours: Tues-Sun 10:00 a.m. - 5:00 p.m.
 phone: 505-246-2261
+snippet: Major center for Latino art, theater, and music
 tags:
 - things_to_do
 - museum

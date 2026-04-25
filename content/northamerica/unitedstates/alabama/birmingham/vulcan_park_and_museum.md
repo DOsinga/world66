@@ -1,7 +1,10 @@
 ---
 address: 1701 Valley View Drive, Birmingham, AL 35209
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.4909
 longitude: -86.7963
+snippet: World's largest cast-iron statue with city panorama
 tags:
 - things_to_do
 - landmark

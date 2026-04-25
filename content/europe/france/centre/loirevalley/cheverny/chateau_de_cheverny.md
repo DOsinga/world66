@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, chateau, museum, history]
 latitude: 47.4997
 longitude: 1.4611
+snippet: Elegant Loire chateau that inspired Tintin's Moulinsart
 story: >
   Hergé used Château de Cheverny as the model for Moulinsart — the ancestral home of Captain Haddock in the Tintin series. The resemblance is unmistakable, and the chateau now has a permanent Tintin exhibition, "The Secrets of Moulinsart," in the outbuildings.
 ---

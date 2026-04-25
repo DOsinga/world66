@@ -3,6 +3,7 @@ address: Taman Ria Senayan
 latitude: -6.2195
 longitude: 106.802
 phone: +62 21 5745591
+snippet: "Dutch-style brown cafe with live jazz and expat crowd"
 tags:
 - bars_and_cafes
 - bar

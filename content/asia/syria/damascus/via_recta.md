@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.5112
 longitude: 36.3122
+snippet: Ancient Roman road bisecting Damascus's Old City for 2,000 years
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: -22.677
 longitude: 14.5268
+snippet: Legendary German bakery and cafe on the Swakopmund seafront
 tags:
 - bars_and_cafes
 title: Café Anton

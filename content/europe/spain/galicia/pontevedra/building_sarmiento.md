@@ -1,6 +1,7 @@
 ---
 latitude: 42.4319
 longitude: -8.6432
+snippet: Baroque palace with Galician art and Roman foundations
 tags:
 - things_to_do
 - architecture

@@ -3,6 +3,7 @@ address: Calle 4, San José
 latitude: 9.9396
 longitude: -84.0808
 opening_hours: Tue–Fri 9:00–12:00 and 14:00–17:00, Sat–Sun 10:00–17:00
+snippet: Interactive science museum housed in a 19th-century prison
 tags:
 - things_to_do
 - museum

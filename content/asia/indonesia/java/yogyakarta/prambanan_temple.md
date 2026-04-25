@@ -1,6 +1,7 @@
 ---
 latitude: -7.752
 longitude: 110.4915
+snippet: "Stunning 9th-century Hindu temple complex and UNESCO World Heritage Site"
 tags:
 - day_trips
 title: Prambanan Temple

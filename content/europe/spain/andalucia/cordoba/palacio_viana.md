@@ -1,7 +1,10 @@
 ---
 address: Plaza de Don Gome 2
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.8895
 longitude: -4.772
+snippet: Aristocratic mansion with twelve stunning courtyards and gardens
 tags:
 - things_to_do
 - landmark

@@ -1,10 +1,13 @@
 ---
 address: Am Köllnischen Park 5, Mitte
 category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.513531
 longitude: 13.414606
 opening_hours: Tue-Sun 10am-6pm
 phone: +49 30 308660
+snippet: Berlin's city history museum in a neo-Gothic Spree-side building
 tags:
 - things_to_do
 - museum

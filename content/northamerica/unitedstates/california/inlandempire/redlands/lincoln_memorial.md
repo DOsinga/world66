@@ -1,6 +1,11 @@
 ---
 address: 125 West Vine Street, Redlands, CA 92373
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 34.0563
+longitude: -117.1825
 phone: 909-798-7632
+snippet: Civil War museum with rare Lincoln artifacts and marble bust
 tags:
 - things_to_do
 - landmark

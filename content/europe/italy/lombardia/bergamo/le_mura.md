@@ -1,9 +1,14 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.7035
 longitude: 9.663
+snippet: Massive Venetian walls with panoramic views over Bergamo
 tags:
 - things_to_do
-- park
+- landmark
+- historic
+- walking
 title: Le Mura
 type: poi
 ---

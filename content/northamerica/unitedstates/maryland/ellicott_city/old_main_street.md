@@ -1,12 +1,15 @@
 ---
-title: "Historic Main Street"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - historic_district
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.2745
 longitude: -76.8318
+snippet: Steep historic mill-town street with antique shops and gorge views
+tags:
+- things_to_do
+- sight
+- historic
+title: Historic Main Street
+type: poi
 ---
 
 Main Street runs steeply downhill from the ridge into the Patapsco gorge, lined on both sides with stone and brick buildings from the 18th and 19th centuries. Most are now antique shops, independent restaurants, and galleries, but the bones of the mill-town architecture are intact. The street was seriously flooded in 2016 and again in 2018 — the high-water marks are sometimes still visible — and not all businesses recovered, but enough remains to make a walking tour satisfying.

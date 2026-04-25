@@ -4,6 +4,7 @@ email: info@bacarojazz.com
 latitude: 45.438308
 longitude: 12.337076
 phone: +39 041 5285249
+snippet: Late-night cicchetti bar near the Rialto with cocktails and jazz until 2am.
 tags:
 - bars_and_cafes
 - bar

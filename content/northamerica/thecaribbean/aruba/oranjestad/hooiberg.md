@@ -1,4 +1,5 @@
 ---
+snippet: Volcanic hill with sweeping views to Venezuela
 title: "Hooiberg"
 type: poi
 latitude: 12.4972

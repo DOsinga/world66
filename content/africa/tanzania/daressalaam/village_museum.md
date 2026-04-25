@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: -6.7585
 longitude: 39.2378
+snippet: Open-air homesteads from 16 Tanzanian ethnic groups
 tags:
 - things_to_do
 - museum

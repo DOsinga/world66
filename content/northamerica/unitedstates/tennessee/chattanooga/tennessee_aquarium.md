@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.0559
 longitude: -85.3111
+snippet: World-class freshwater aquarium tracing water from mountain streams to the
+  ocean
 tags:
 - things_to_do
 - museum

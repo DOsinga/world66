@@ -1,6 +1,7 @@
 ---
 latitude: 19.3862
 longitude: 98.9062
+snippet: Thailand's third-highest peak, a serious guided trek through wild cloud forest
 story: In 2021, UNESCO designated Doi Chiang Dao a World Biosphere Reserve — one of
   only a handful in Thailand. The mountain shelters clouded leopards, Asiatic black
   bears, and over 300 bird species, including several found nowhere else in Thailand.

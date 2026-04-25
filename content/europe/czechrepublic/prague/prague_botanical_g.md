@@ -1,10 +1,13 @@
 ---
 address: Nádvorní 134, Prague 7 (Troja)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.118172
 longitude: 14.412831
+snippet: Hillside gardens with tropical greenhouse and vineyard views
 tags:
 - things_to_do
-- landmark
+- garden
 title: Prague Botanical Gardens
 type: poi
 url: botgarden.cz

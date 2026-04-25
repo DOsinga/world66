@@ -1,6 +1,7 @@
 ---
 latitude: 53.959299
 longitude: -1.080033
+snippet: "Medieval butchers' street with overhanging timber frames, York's most famous"
 tags:
 - things_to_do
 - sight

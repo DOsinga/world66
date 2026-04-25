@@ -4,6 +4,7 @@ type: poi
 address: "20 Avenida, 1-2 Calle NO, Colonia Moderna"
 latitude: 15.5065
 longitude: -88.0310
+snippet: "Longstanding fine dining with three decades of Latin-European cuisine"
 tags:
   - eating_out
   - restaurant

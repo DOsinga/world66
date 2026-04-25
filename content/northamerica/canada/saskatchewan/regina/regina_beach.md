@@ -2,10 +2,10 @@
 title: "Regina Beach"
 type: poi
 tags:
-  - beaches
   - beach
-latitude: 50.7903
-longitude: -104.9975
+snippet: Small lakeside town on Last Mountain Lake, popular for summer swimming
+latitude: 50.7878
+longitude: -105.0083
 ---
 
-Windsor Park Beach is a family-friendly spot just a few kilometres west of the city. Bring bread for the ducks — if you are lucky you might spot ducklings. There is a bar, ice cream, and a small arcade nearby. The five-star beachside resort offers a prime lakeside location.
+Regina Beach is a small resort village on the eastern shore of Last Mountain Lake, about 45 minutes northwest of [Regina](/northamerica/canada/saskatchewan/regina). In summer the sandy beach draws families from across southern Saskatchewan for swimming, picnics, and lazy afternoons by the water. The main drag has a few casual restaurants and ice cream shops. It is a pleasant day trip from the city when the prairie heat sets in.

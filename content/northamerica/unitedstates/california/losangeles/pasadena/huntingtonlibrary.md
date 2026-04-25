@@ -2,11 +2,10 @@
 address: 1151 Oxford Rd, San Marino, CA 91108
 latitude: 34.1292
 longitude: -118.1147
+snippet: "Rare books, world-class art, and 120 acres of gardens"
 story: 'The Huntington owns one of only twelve surviving vellum copies of the Gutenberg
   Bible, printed around 1455. It also holds a first folio of Shakespeare and the manuscript
-  of Thoreau''s Walden.
-
-  '
+  of Thoreau''s Walden.'
 tags:
 - things_to_do
 - museum

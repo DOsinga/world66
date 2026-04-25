@@ -1,7 +1,10 @@
 ---
 title: "Fort of San Diego"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - museum
+snippet: "Star fort turned museum of Manila Galleon trade history"
 latitude: 16.8473
 longitude: -99.8948
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 48.149304
 longitude: 11.580714
+snippet: "King Ludwig I's grand 19th-century boulevard from arch to hall"
 tags:
 - things_to_do
 - landmark

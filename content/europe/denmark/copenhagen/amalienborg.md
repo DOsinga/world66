@@ -1,6 +1,9 @@
 ---
-latitude: 55.684
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 55.6841
 longitude: 12.5931
+snippet: Four rococo palaces forming the Danish royal winter residence
 tags:
 - things_to_do
 - landmark

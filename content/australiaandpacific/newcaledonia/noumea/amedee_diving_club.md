@@ -1,6 +1,7 @@
 ---
 latitude: -22.4822
 longitude: 166.4694
+snippet: PADI dive centre on Amédée Island with reef and wreck diving
 tags:
 - things_to_do
 title: Amédée Diving Club

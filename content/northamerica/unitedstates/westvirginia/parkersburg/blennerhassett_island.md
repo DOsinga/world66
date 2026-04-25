@@ -1,6 +1,7 @@
 ---
 latitude: 39.2715
 longitude: -81.6093
+snippet: Historic island park with mansion and sternwheeler ferry
 tags:
 - things_to_do
 - sight

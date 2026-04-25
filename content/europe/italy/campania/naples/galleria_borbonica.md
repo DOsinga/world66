@@ -4,6 +4,7 @@ admission: €10–€15 depending on tour type
 latitude: 40.8374
 longitude: 14.2463
 opening_hours: Wed–Mon 10:00–17:00; closed Tue
+snippet: "Secret royal escape tunnel turned WWII shelter, now a haunting museum"
 tags:
 - 3 Days in Naples
 - things_to_do

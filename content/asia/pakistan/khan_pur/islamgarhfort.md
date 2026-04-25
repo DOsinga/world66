@@ -1,8 +1,10 @@
 ---
 latitude: 28.25
 longitude: 70.85
+snippet: Remote Cholistan desert fort reached only by sand tracks
 tags:
 - things_to_do
+- landmark
 title: Islam Garh Fort
 type: poi
 ---

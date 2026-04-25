@@ -1,6 +1,7 @@
 ---
 latitude: 55.6133
 longitude: 12.9755
+snippet: Calatrava's twisting skyscraper defining the Malmo skyline
 tags:
 - things_to_do
 - architecture

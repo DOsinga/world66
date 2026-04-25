@@ -1,17 +1,14 @@
 ---
 title: "Nis Concentration Camp"
 type: poi
-type: "Memorials"
+snippet: "WWII Nazi camp memorial, now a museum and monument"
+latitude: 43.3147
+longitude: 21.9036
+tags:
+- things_to_do
+- memorial
 ---
 
-**Crveni krst** was a concentration camp located in the Serbian city of Niš, and operated by the Nazi Germans during the Second World War.
+The Red Cross concentration camp (Crveni Krst) in Nis was one of the main Nazi detention camps in occupied Serbia during World War II. Operated from 1941 until the city's liberation by Yugoslav Partisans in 1944, the camp held an estimated 30,000 prisoners over its years of operation. Around 12,000 were executed at the nearby Bubanj hill execution site. Victims included Jews, Roma, communist party members, partisan prisoners of war, and their families. Many others were transferred to camps elsewhere in Europe.
 
-It is estimated that around 30,000 persons went through this camp,
-and an estimated 12,000 persons where executed on the location of Bubanj. Many of the other inmates were transferred to other camps like Sajmište concentration camp or other camps around Europe. The camp victims included the Jews, Roma, but mostly members of the Yugoslav Communist Party and their sympathisers, partisan POWs, and members of their families.
-
-The camp was operated from 1941 until the liberation of Niš by the Yugoslav Partisans in 1945.
-
-**Contributors**
-June 09, 2007
-
-type: Memorials
+The camp buildings have been preserved as a memorial museum. The exhibits include original cells, guard towers, and documentation of camp life and the February 1942 mass escape, one of the first successful breakouts from a Nazi camp. The Bubanj Memorial Park, a few kilometers away, marks the execution site with a striking monument of three clenched fists.

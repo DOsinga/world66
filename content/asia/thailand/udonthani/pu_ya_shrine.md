@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 17.4123
 longitude: 102.7889
+snippet: Lakeside Chinese shrine honouring grandfather-grandmother deities
 tags:
 - things_to_do
 title: Pu-ya Shrine

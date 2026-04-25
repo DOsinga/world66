@@ -1,6 +1,7 @@
 ---
 latitude: 0.8333
 longitude: 104.1833
+snippet: Six-bridge highway linking Batam to neighboring islands
 tags:
 - things_to_do
 - landmark

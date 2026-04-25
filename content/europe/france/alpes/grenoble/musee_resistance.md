@@ -1,7 +1,10 @@
 ---
 address: 14 rue Hébert
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.1897
 longitude: 5.7285
+snippet: Moving WWII museum on the Resistance and deportation of Jews
 tags:
 - things_to_do
 - museum

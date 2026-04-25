@@ -2,6 +2,7 @@
 title: "Galleria Estense"
 type: poi
 tags: [things_to_do, museum]
+snippet: Renaissance art collection with works by Velazquez, Correggio, and Bernini
 latitude: 44.6458
 longitude: 10.9222
 ---

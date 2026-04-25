@@ -1,6 +1,7 @@
 ---
 title: "Old Vaasa Ruins"
 type: poi
+snippet: "Haunting remnants of the town that burned in 1852"
 tags: [things_to_do, ruins, history, outdoor]
 latitude: 63.0731
 longitude: 21.5992

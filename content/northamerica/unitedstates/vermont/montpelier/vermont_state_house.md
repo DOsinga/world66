@@ -2,6 +2,7 @@
 address: 115 State Street, Montpelier, VT 05633
 latitude: 44.2622
 longitude: -72.5804
+snippet: "Gold-domed 1859 state capitol with free tours, one of New England's finest"
 tags:
 - things_to_do
 - sight

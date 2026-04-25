@@ -1,6 +1,7 @@
 ---
 title: "Thu Maung"
 type: poi
+snippet: "No-frills Burmese curry house with $2 feasts"
 address: "Kalaw highway, opposite the market"
 price: "$2-5"
 latitude: 20.6656

@@ -1,9 +1,12 @@
 ---
-title: "Stocking Island"
-type: poi
-category: "Sight"
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 23.5522
 longitude: -75.7822
+snippet: Pristine beaches and snorkelling across Elizabeth Harbour
+title: Stocking Island
+type: poi
 ---
 
 A long, narrow island across Elizabeth Harbour from George Town, Stocking Island is where most visitors spend their beach days. The harbour side has calm turquoise water and the famous Chat 'N' Chill beach bar; the ocean side has wilder surf and miles of empty sand. You can hike across the island in about fifteen minutes.

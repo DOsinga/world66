@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:%D0%AE%D1%80%D0%B8
   title="User:Юрий Д.К.">Юрий Д.К.</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "144 million"
+  Time Zones: "11"
+  Lake Baikal: "20% of the world's fresh water"
+  Trans-Siberian Railway: "9,289 km — world's longest"
 score: 0.25
 ---
 

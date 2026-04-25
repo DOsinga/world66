@@ -1,8 +1,12 @@
 ---
-latitude: 33.889
-longitude: 35.48
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 33.869
+longitude: 35.473
+snippet: Iconic natural sea arches off the Raouche cliffs
 tags:
 - things_to_do
+- landmark
 title: Pigeon Rocks (Raouche)
 type: poi
 ---

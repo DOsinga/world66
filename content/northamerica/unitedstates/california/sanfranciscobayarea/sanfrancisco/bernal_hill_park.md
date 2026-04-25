@@ -3,6 +3,7 @@ address: 1 Andover St, San Francisco, CA
 latitude: 37.7418
 longitude: -122.4162
 opening_hours: Dawn to dusk
+snippet: Quiet hilltop with 360-degree city views, far from the tour bus crowds
 tags:
 - things_to_do
 - park

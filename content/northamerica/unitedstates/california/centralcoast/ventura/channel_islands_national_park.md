@@ -1,6 +1,7 @@
 ---
 latitude: 34.0069
 longitude: -119.7785
+snippet: Five wild islands off the coast with sea caves and wildlife
 tags:
 - things_to_do
 - park

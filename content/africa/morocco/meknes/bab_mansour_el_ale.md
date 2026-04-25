@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.8942
 longitude: -5.5523
+snippet: Morocco's grandest city gate, clad in zellige tilework
 tags:
 - things_to_do
 - architecture

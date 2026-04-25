@@ -4,6 +4,7 @@ email: info@rushdahab.com
 latitude: 28.4975
 longitude: 34.5161
 phone: 002 069 364 1867
+snippet: Dahab's go-to nightclub with Full Moon beach parties
 tags:
 - bars_and_cafes
 - bar

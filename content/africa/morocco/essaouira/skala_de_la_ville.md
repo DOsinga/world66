@@ -1,6 +1,7 @@
 ---
 latitude: 31.5132
 longitude: -9.7708
+snippet: "Sea ramparts with 18th-century cannons and sweeping Atlantic views"
 tags:
 - things_to_do
 - landmark

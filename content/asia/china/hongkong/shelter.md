@@ -5,6 +5,7 @@ longitude: 114.1836
 phone: 2577-1668
 tags:
 - bars_and_cafes
+snippet: "27th-floor lounge bar with views over Causeway Bay"
 title: Shelter
 type: poi
 ---

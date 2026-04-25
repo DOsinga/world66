@@ -1,6 +1,7 @@
 ---
 title: "Bab Rouah"
 type: poi
+snippet: Almohad gate turned contemporary art gallery
 tags:
   - things_to_do
   - shopping

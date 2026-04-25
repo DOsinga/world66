@@ -1,7 +1,10 @@
 ---
 address: Carrera 2 Oeste, Calle 14
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 3.4592
 longitude: -76.5339
+snippet: Top-rated South American zoo focused on Colombian fauna
 tags:
 - things_to_do
 - landmark

@@ -2,6 +2,7 @@
 address: Río Verde, Marbella
 latitude: 36.5054
 longitude: -4.9774
+snippet: Roman villa with rare kitchen-themed mosaics
 tags:
 - things_to_do
 - landmark

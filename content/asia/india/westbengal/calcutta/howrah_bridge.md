@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.5851
 longitude: 88.3468
+snippet: Iconic cantilever bridge over the Hooghly, carrying three million people
+  daily.
 tags:
 - things_to_do
 - landmark

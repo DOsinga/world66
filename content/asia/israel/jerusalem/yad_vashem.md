@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.7743
 longitude: 35.1754
+snippet: Israel's Holocaust memorial and museum on Mount of Remembrance
 tags:
 - things_to_do
 - museum

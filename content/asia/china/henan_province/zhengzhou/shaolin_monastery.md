@@ -1,6 +1,7 @@
 ---
 latitude: 34.5034
 longitude: 112.9226
+snippet: Birthplace of Chan Buddhism and Shaolin kung fu
 story: During the early Tang Dynasty, thirteen warrior monks from Shaolin helped the
   emperor Li Shimin defeat his enemies. In gratitude, the emperor allowed the monks
   to drink wine and eat meat — exceptional privileges for a Buddhist monastery.

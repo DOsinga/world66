@@ -1,38 +1,13 @@
 ---
 title: "Gensan's Tuna Festival"
 type: poi
-address: "general santos city, Philippines"
-date: "February 14, 2009"
-email: "harlemjudeferolino@yahoo.com"
-phone: "304- 0275"
+address: "General Santos City, Philippines"
 latitude: 6.112222
 longitude: 125.172189
+tags:
+- things_to_do
+- festival
+snippet: "Annual September festival celebrating General Santos City's tuna industry"
 ---
 
-**General Santos City** celebrated Tuna Festival during the month of September. Every year, lots of events gives life to the *GENERALS*, including:
-
-*Street Dancing*
-
-*Cheerdancing*
-
-*Singing Contests*
-
-*Dance Sport*
-
-Tuna related Games and Competitions
-
-Events and Competitions surely bring the people into its fullest enjoyment.
-
-**Gensan's Tuna Festival** is the only "**TUNA FESTIVAL"** in the whole world!!!
-
-
-
-
-
-tel: 304- 0275
-
-date: February 14, 2009
-
-address: general santos city, Philippines
-
-email: harlemjudeferolino@yahoo.com
+General Santos City is the tuna capital of the Philippines — its port handles a huge share of the country's yellowfin tuna catch — and the Tuna Festival each September is the city's biggest celebration of that identity. Events sprawl across a week or more: street dancing competitions, a trade fair, cooking demonstrations, and fishing contests. The highlight for visitors is usually the tuna-related events down at the fishing port, where you can watch the catch come in and eat exceptionally fresh sashimi and grilled fish at stalls that set up along the waterfront. The city itself is modern and functional rather than scenic, but the festival gives it real energy.

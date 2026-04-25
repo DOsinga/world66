@@ -2,24 +2,12 @@
 address: Plaza de Murillo 2
 latitude: 40.4109
 longitude: -3.6901
+snippet: Eighteenth-century botanical garden next door to the Prado
 tags:
 - things_to_do
 - landmark
-title: Botanic Garden
+title: Real Jardín Botánico
 type: poi
 ---
 
-Located nearby the Prado Museum, this is one of the oldest European Botanic gardens. Especially during spring, it’s a must to spend some time here when the plants from almost every climatic zone flower. There ist not much to see during autumn or winter, better try Retiro Park in this season.
-
-Entrance fee: 2€, 1€ reduced price.
-
-**Contributors**
-January 07, 2006
-
-type: Parks, Gardens and Zoos
-
-
-
-
-
-address: Plaza de Murillo 2
+Right next to the Prado, Madrid's Royal Botanic Garden dates to 1755 and holds around 5,000 plant species arranged across three terraced levels. Spring is the best time to visit, when the rose garden and the medicinal plant beds are in full bloom, but the greenhouse collection — tropical and desert plants — rewards a visit year-round. The garden is compact enough to cover in an hour, making it a natural break between museum visits. Autumn and winter are quieter and less colourful; you might prefer Retiro Park in those months.

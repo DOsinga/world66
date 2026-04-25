@@ -2,6 +2,7 @@
 address: Auf dem Rain 7
 latitude: 48.3668
 longitude: 10.8907
+snippet: "Birthplace of playwright Bertolt Brecht, now a small memorial museum"
 tags:
 - things_to_do
 - museum

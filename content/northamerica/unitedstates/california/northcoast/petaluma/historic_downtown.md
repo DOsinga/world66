@@ -1,6 +1,7 @@
 ---
 latitude: 38.2325
 longitude: -122.6365
+snippet: Beautifully preserved Victorian commercial district from American Graffiti
 tags:
 - things_to_do
 - neighbourhood

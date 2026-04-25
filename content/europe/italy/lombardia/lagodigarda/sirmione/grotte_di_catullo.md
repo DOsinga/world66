@@ -2,6 +2,7 @@
 title: "Grotte di Catullo"
 type: poi
 tags: [things_to_do, sight]
+snippet: "Vast Roman villa ruins at the tip of the Sirmione peninsula"
 latitude: 45.5002
 longitude: 10.6073
 story: >

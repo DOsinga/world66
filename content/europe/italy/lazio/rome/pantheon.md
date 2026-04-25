@@ -1,12 +1,15 @@
 ---
 address: Piazza della Rotonda, 00186 Rome
 admission: €5
+done:
+  poi_cleanup: '2026-04-20'
 image: pantheon.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg
 latitude: 41.8986
 longitude: 12.4769
 opening_hours: Mon–Sat 09:00–19:00; Sun 09:00–18:00; closed public holidays
+snippet: Best-preserved ancient building in the world, with Rome's most perfect dome
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

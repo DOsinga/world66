@@ -1,6 +1,7 @@
 ---
 latitude: 11.9847
 longitude: 121.9279
+snippet: Highest point on Boracay with sweeping island views
 tags:
 - things_to_do
 - landmark

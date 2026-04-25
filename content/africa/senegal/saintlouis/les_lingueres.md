@@ -1,8 +1,10 @@
 ---
 latitude: 16.024
 longitude: -16.4918
+snippet: Riverside terrace restaurant with French-Senegalese fusion near Pont Faidherbe
 tags:
 - eating_out
+- restaurant
 title: Les Linguères
 type: poi
 ---

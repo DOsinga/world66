@@ -1,7 +1,10 @@
 ---
 address: 124-126 Hollywood Road, Sheung Wan
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 22.285
 longitude: 114.1491
+snippet: Hong Kong's oldest temple, thick with incense smoke
 tags:
 - hongkongisland
 - things_to_do

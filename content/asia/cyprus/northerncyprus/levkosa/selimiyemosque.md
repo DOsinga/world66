@@ -1,12 +1,13 @@
 ---
 latitude: 35.176496
 longitude: 33.364556
+snippet: Gothic cathedral turned Ottoman mosque with surviving medieval carvings
 tags:
 - things_to_do
 title: Selimiye Mosque
 type: poi
 ---
 
-The Selimiye Mosque was built as the St. Sophie Cathedral in the Lusignans period (13th century) in French gothic style fashionable at the time. It was a joint project of Queen Alix de Champagne and of Archbishop Thiryx. After its consecration, it was used for the coronation ceremonies of the de Lusignan kings. 
- 
- The Ottoman conquerors in 16th century transformed it into a mosque, adding three minarets to it and an offering table. Fortunately the 14th century statues and reliefs of saints and angels on its doors and panels have survived, even if the mosque is used daily for Moslem rituals - a strange feeling and unusual mixture, if you are used to french or english cathedrals.
+Originally built as the Cathedral of Saint Sophia during the Lusignan period in the 13th century, this is one of the finest examples of French Gothic architecture in the eastern Mediterranean. Queen Alix de Champagne and Archbishop Thiryx oversaw the project, and after its consecration the cathedral served as the coronation church of the Lusignan kings.
+
+When the Ottomans took the city in the 16th century, they converted it into a mosque, adding two minarets and a mihrab. The 14th-century reliefs of saints and angels on the doors and panels survived the conversion and are still visible today -- an unusual blend of Gothic Christian art and active Muslim worship that you won't find anywhere else.

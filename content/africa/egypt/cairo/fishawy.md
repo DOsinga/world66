@@ -1,7 +1,10 @@
 ---
 address: Khan al-Khalili, Islamic Cairo
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.047778
 longitude: 31.2625
+snippet: Cairo's oldest ahwa, open continuously since 1773
 tags:
 - bars_and_cafes
 - bar

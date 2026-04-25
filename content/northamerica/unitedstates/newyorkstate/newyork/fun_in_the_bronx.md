@@ -1,34 +1,15 @@
 ---
 tags:
 - day_trips
-- church
-- park
 title: Fun in the Bronx
 type: poi
-url: www.mta.info; www.nybg.org; www.bronxzoo.com; www.arthuravenue.com
+snippet: "Day trip combining the Botanical Garden, Zoo, and Arthur Avenue"
+latitude: 40.8623
+longitude: -73.8764
 ---
 
-Normal
-0
+For a day trip that doesn't require leaving the city, head up to the Bronx. From Grand Central Terminal, take the Metro North Harlem line to the Botanical Garden stop -- it's only a twenty-minute ride. Buy your ticket before boarding to avoid the surcharge.
 
-MicrosoftInternetExplorer4
+The **New York Botanical Garden** is a genuinely beautiful escape, with 250 acres of old-growth forest, manicured gardens, and the landmark Enid A. Haupt Conservatory. From there, it's a short walk south to the **Bronx Zoo**, one of the largest urban zoos in the country. Wednesday is pay-what-you-wish day, though expect crowds in summer.
 
-st1\:*behavior:url(#ieooui)
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
-
-For a day trip that is not too far from Manhattan,
-take a short train ride up to the Bronx and fun New
-York City activities. From the beautiful Grand
-Central Terminal get on the Metro North Harlem line to the Botanical Garden
-stop, only a 20 minute ride. Be sure to buy your ticket ahead of time to
-avoid paying higher prices on board the train.
-After strolling through the beautiful New York Botanical Gardens, you
-can take a short walk to the Bronx Zoo just down the street, which has
-pay-what-you-wish donations on Wednesdays (though can draw huge crowds on
-summer days). To finish your day trip,
-grab dinner on Arthur Avenue,
-the real Little Italy of New York City. The
-Fordham Metro North stop is near this Italian neighborhood and will bring you
+Finish with dinner on **Arthur Avenue**, the real Little Italy of New York. The Fordham Metro North stop is nearby. Forget the tourist version in Manhattan -- this is where you'll find proper Italian delis, bakeries turning out fresh bread, and old-school red-sauce restaurants that have been here for generations.

@@ -1,6 +1,7 @@
 ---
 latitude: 33.8452
 longitude: 132.7685
+snippet: "Shinto shrine famous for torch-lit Noh in April"
 tags:
 - things_to_do
 title: Shinonome-jinja

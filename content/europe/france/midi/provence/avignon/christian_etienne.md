@@ -1,6 +1,7 @@
 ---
 latitude: 43.9511
 longitude: 4.8079
+snippet: Fine dining in a frescoed medieval house by the Papal Palace
 tags:
 - eating_out
 title: Christian Etienne

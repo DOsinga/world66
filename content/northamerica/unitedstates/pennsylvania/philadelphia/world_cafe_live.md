@@ -2,6 +2,7 @@
 address: 3025 Walnut Street
 latitude: 39.954128
 longitude: -75.195556
+snippet: Live music venue connected to WXPN public radio, two stages
 tags:
 - bars_and_cafes
 title: World Cafe Live

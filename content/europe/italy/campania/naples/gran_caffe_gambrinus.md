@@ -1,8 +1,11 @@
 ---
 address: Piazza Trieste e Trento 1, 80132 Naples
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 40.8368
 longitude: 14.2485
 opening_hours: Daily 07:00–23:00
+snippet: Historic Belle Époque cafe, serving espresso since 1860
 tags:
 - 48 Hours in Naples
 - 3 Days in Naples

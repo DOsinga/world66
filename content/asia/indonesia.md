@@ -1,13 +1,18 @@
 ---
 done:
   country_cleanup: 2026-03-31
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: indonesia/indonesia.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Midori" title="User:Midori">Midori</a>
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Java_man_National_Museum_Indonesia.JPG
 latitude: -2.548926
 longitude: 118.0148634
+quick_facts:
+  Population: "270 million"
+  Drives On: Left
+  Islands: "17,000+"
+  Languages Spoken: "700+"
 score: 0.42
 title: Indonesia
 type: location

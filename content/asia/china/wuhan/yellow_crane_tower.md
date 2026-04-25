@@ -1,40 +1,20 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.547081
 longitude: 114.297047
+snippet: Ancient tower immortalized by Tang Dynasty poets
 tags:
 - sights
-title: Yellow crane tower
+- story
+title: Yellow Crane Tower
 type: poi
 ---
 
-Huanghelou (Yellow Crane Tower), located near the southern end of the Yangtze River Bridge in Wuhan, is one of China's most famous towers. The tower inspired many ancient poets and artists. Following is one example, written by Li Bai during the Tang Dynasty:
+Huanghelou (Yellow Crane Tower), perched on Snake Hill near the southern end of the Yangtze River Bridge, is one of the Four Great Towers of China and the foremost symbol of Wuhan. The original is said to have stood here since the 3rd century, though it has been destroyed and rebuilt many times over — last destroyed in 1884, with the current five-story reconstruction completed in 1986.
 
-My old friend
+The tower inspired centuries of poetry. Li Bai wrote one of his most famous farewell poems here during the Tang Dynasty:
 
-Bids farewell to me
+> My old friend bids farewell to me / In the west at Yellow Crane Tower. / Amid April's mist and flowers / He goes down to Yang-jou. / The distant image of his lonely sail / Disappears in blue emptiness, / And all I see is the Long River / Flowing to the edge of the sky.
 
-In the west at Yellow Crane Tower.
-
-Amid April's mist and flowers
-
-He goes down to Yang-jou.
-
-The distant image
-
-Of his lonely sail
-
-Disappears in blue emptiness,
-
-And all I see
-
-Is the Long River
-
-Flowing to the edge of the sky.
-
-This foremost symbol of Wuhan, the original Yellow Crane Tower is said to have existed in the 3rd century. It has been destroyed and rebuilt several times. It was destroyed last in 1884; the current reconstruction was completed in 1986.
-
-The Tower complex consists of the tower, a garden, and a promenade with shops--along with several other buildings.
-
-bring to you by: www.wuhantime.com
-
-email: tutta@wuhantime.com
+The complex includes the tower itself, landscaped gardens, a promenade with shops, and several smaller pavilions. Climb to the top floor for sweeping views over the Yangtze and the city on both banks. It gets crowded on weekends and holidays, so aim for a weekday morning if you can.

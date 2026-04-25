@@ -1,6 +1,7 @@
 ---
 latitude: 24.873056
 longitude: 67.102778
+snippet: Naval history with submarines, ships, and a whale skeleton
 tags:
 - things_to_do
 - museum

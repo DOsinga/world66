@@ -1,6 +1,7 @@
 ---
 latitude: 36.0656
 longitude: 120.3797
+snippet: Regional museum with ancient Buddhas in a 1931 colonial building
 tags:
 - things_to_do
 title: Qingdao Museum

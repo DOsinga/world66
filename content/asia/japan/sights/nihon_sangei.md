@@ -1,18 +1,16 @@
 ---
 title: "Nihon Sankei"
 type: poi
-type: "Hotspots"
+snippet: "Japan's three most celebrated scenic views"
+tags:
+- things_to_do
+- landmark
 ---
 
-The Three Views of Japan: they are Miyajima, Amanohashidate and Matsushima. Don't expect majestic scenery, for the beauty is much more subtle.
+The Nihon Sankei are the Three Views of Japan, a designation dating back to 1643. They are Miyajima, Amanohashidate, and Matsushima. Don't expect majestic scenery — the beauty is much more subtle.
 
-Miyajima is famous for the floating red torii gate. Of course, depending on the timeeee you visit, you might find it lodged in the mud. You get to the island by taking a ferry from Miyajima-guchi, which is on the local line from [Hiroshima](/asia/japan/honshu/hiroshima).
+Miyajima is famous for the floating red torii gate of Itsukushima Shrine. Depending on the tide, you might find it standing in water or lodged in the mud. You reach the island by ferry from Miyajima-guchi, on the local line from [Hiroshima](/asia/japan/honshu/hiroshima).
 
-Amanohashidate is the pine tree-lined sand-spit. You are meant to see it, by bending over, and seeing it framed by your legs. The "bridge to heaven" then floats, as you try to achieve some stability. You can get there by train from [Kyoto](/asia/japan/honshu/kyoto) station. JR Rail Pass holders will note that there is an additional supplement for the private leg of the train journey.
+Amanohashidate is a pine tree-lined sand spit in northern Kyoto Prefecture. Tradition says you should view it by bending over and looking through your legs — the "bridge to heaven" then appears to float in the sky. You can get there by train from [Kyoto](/asia/japan/honshu/kyoto) station, though JR Rail Pass holders should note there is an additional supplement for the private leg of the journey.
 
-Matsushima is a collection of pine laden islets, sitting on a bay. You get there by taking the local train from Sendai to Matsuhima Kaigan station.
-
-**Contributors**
-October 27, 2005
-
-type: Hotspots
+Matsushima is a collection of pine-covered islets dotting a bay near Sendai. Take the local train from Sendai to Matsushima Kaigan station, then walk along the waterfront or take a boat cruise through the islands.

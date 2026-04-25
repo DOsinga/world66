@@ -1,6 +1,7 @@
 ---
 title: "Palmentuin"
 type: poi
+snippet: "Royal palm garden with capuchin monkeys beside the Presidential Palace"
 tags:
   - things_to_do
   - park

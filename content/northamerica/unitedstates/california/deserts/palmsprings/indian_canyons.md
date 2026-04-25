@@ -1,10 +1,9 @@
 ---
 address: Palm Canyon Drive, Palm Springs, CA 92264
-admission: Adults $12; Seniors $8; Children (6–12) $6
 latitude: 33.7707
 longitude: -116.5476
-opening_hours: Daily 08:00–17:00
 phone: (800) 790-3398
+snippet: Desert palm oases on Cahuilla tribal land
 tags:
 - things_to_do
 - landmark

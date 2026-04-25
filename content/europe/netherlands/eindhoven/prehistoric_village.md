@@ -1,6 +1,7 @@
 ---
 latitude: 51.4222
 longitude: 5.4755
+snippet: Open-air museum with reconstructed settlements from Stone Age onward
 tags:
 - things_to_do
 - museum

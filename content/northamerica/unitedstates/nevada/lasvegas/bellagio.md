@@ -2,6 +2,7 @@
 address: 3600 Las Vegas Blvd South
 latitude: 36.113115
 longitude: -115.177007
+snippet: Iconic Las Vegas casino with choreographed fountain shows
 tags:
 - things_to_do
 title: Bellagio

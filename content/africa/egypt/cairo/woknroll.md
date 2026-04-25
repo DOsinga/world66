@@ -1,11 +1,13 @@
 ---
 address: 21 Gameat El Dowal El Arabia, Mohandiseen
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.058056
 longitude: 31.200278
 phone: +20 2 7490092
+snippet: Asian wok dishes in Mohandiseen with a diverse menu
 tags:
 - eating_out
-- restaurant
 title: Wok-n-Roll
 type: poi
 ---

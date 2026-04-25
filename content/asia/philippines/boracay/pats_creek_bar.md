@@ -3,6 +3,7 @@ address: Beachfront central Boracay, near D'Mall
 latitude: 11.9665
 longitude: 121.9225
 phone: 036 288 5668
+snippet: Long-running beachfront reggae bar with nightly acoustic sets
 tags:
 - bars_and_cafes
 title: Pat's Creek Bar

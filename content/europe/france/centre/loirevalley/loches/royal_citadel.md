@@ -1,7 +1,10 @@
 ---
 title: "Royal Citadel of Loches"
 type: poi
-category: Sight
+snippet: Imposing medieval fortress with dungeons and valley views
+tags:
+- sights
+- sight
 latitude: 47.1270
 longitude: 0.9989
 ---

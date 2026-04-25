@@ -1,6 +1,7 @@
 ---
 title: "Dominica: Nature Island of the Caribbean"
 type: poi
+snippet: Definitive history of Dominica by its foremost historian
 author: "Lennox Honychurch"
 isbn: "978-0333930960"
 ---

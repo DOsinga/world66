@@ -1,6 +1,7 @@
 ---
 latitude: 40.6447
 longitude: 22.9519
+snippet: Ottoman-era upper town with panoramic views over the gulf
 tags:
 - things_to_do
 - neighbourhood

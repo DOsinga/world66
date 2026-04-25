@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -21.4571
 longitude: 47.0842
+snippet: Handmade bark paper embedded with pressed flowers
 tags:
 - things_to_do
 - sight

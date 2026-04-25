@@ -3,6 +3,7 @@ latitude: 39.6555
 longitude: 66.962
 tags:
 - bars_and_cafes
+snippet: "Walk-through beer keg entrance, fresh brews, watch your bill"
 title: Praga Beer Factory
 type: poi
 ---

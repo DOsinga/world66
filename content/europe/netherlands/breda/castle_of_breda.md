@@ -1,6 +1,7 @@
 ---
 latitude: 51.5895
 longitude: 4.7738
+snippet: Medieval castle and military academy with a legendary watergate
 story: In 1590, seventy soldiers hid inside a peat barge and were smuggled through
   the Spanjaardsgat watergate into the castle, recapturing Breda from the Spanish.
   The trick earned the name het Turfschip van Breda -- the Dutch Trojan Horse.

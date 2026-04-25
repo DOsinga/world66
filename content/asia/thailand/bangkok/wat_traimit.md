@@ -1,10 +1,10 @@
 ---
 latitude: 13.738
 longitude: 100.5137
+snippet: "Five-ton solid gold Buddha discovered hidden beneath plaster"
 tags:
 - things_to_do
-- church
-- club
+- temple
 title: Wat Traimit
 type: poi
 ---

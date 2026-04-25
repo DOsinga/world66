@@ -1,7 +1,8 @@
 ---
 address: Hadaba, cliff overlooking the lighthouse, Sharm el-Sheikh
-latitude: 27.86
-longitude: 34.31
+latitude: 27.8617
+longitude: 34.3135
+snippet: "Fairy-tale cliffside cafe with Red Sea views and shisha"
 tags:
 - bars_and_cafes
 - cafe

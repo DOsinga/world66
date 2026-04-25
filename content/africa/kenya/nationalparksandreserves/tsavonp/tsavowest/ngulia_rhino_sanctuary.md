@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -3.0833
 longitude: 38.0167
+snippet: Fenced sanctuary protecting Kenya's recovering black rhino population
 story: When the sanctuary was established in 1986, fewer than 20 black rhinos remained
   in the whole of Tsavo — the result of catastrophic poaching in the 1970s and 80s
   that wiped out an estimated 95% of the park's population. The sanctuary's success,

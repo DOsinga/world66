@@ -1,7 +1,10 @@
 ---
 address: Odos 1866, Iraklion
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.3388
 longitude: 25.1335
+snippet: Iraklion's souk-like covered lane with Cretan honey, oils, and cheese
 tags:
 - things_to_do
 - neighbourhood

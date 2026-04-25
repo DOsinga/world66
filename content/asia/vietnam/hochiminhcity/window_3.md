@@ -1,31 +1,13 @@
 ---
-address: 43 Nguyen Dinh Chieu, D1
-phone: 84-8222425
+address: 43 Nguyen Dinh Chieu, District 1
+latitude: 10.7808
+longitude: 106.6922
+snippet: Lavish multi-level cafe with garden terrace in District 1
 tags:
 - bars_and_cafes
-- bar
-- park
 - cafe
 title: Window’s Garden Cafe
 type: poi
 ---
 
-No expense has been spared in ensuring this well-known watering hole
-has all the trimmings of a good supercafé. Water features aplenty, a
-terrace festooned with lush greenery, a sound system to blast out music
-at a volume so loud it makes your toes curl and a rabbit warren’s worth
-of different rooms on different floors with different decors. Prices
-render this place the reserve of successful Saigon businessman (coffee
-starts at VND35,000) who brings his lady friend(s) to an elaborate
-treat of ice-cream sundae at VND55,000.
-
-**Contributors**
-June 27, 2005
-
-
-
-
-
-tel: 84-8222425
-
-address: 43 Nguyen Dinh Chieu, D1
+An elaborately decorated cafe spread across multiple floors, each with a different theme. The ground-floor terrace is lush with greenery and water features. Upstairs rooms range from minimalist to ornate. The menu runs to coffee, smoothies, and ice-cream sundaes at prices above the Saigon average, but you are paying for the setting. Popular with local professionals for afternoon meetings and dates.

@@ -2,6 +2,7 @@
 address: Ramla Bay, Xaghra, Gozo
 latitude: 36.0607
 longitude: 14.2795
+snippet: "Mythical Odyssey cave with views over Ramla Bay"
 tags:
 - things_to_do
 - sight

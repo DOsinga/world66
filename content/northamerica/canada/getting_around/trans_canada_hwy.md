@@ -1,17 +1,15 @@
 ---
-title: "Trans Canada HWY"
+title: "Trans-Canada Highway"
 type: poi
-latitude: 46.191523
-longitude: -63.777203
+snippet: "The world's longest national highway, coast to coast"
+tags:
+- getting_around
+latitude: 49.2827
+longitude: -96.4835
 ---
 
-A cross country national highway. Canada's Main Street, the Trans
-Canada Highway, links all 10 Canadian Provinces from coast to coast
-(Victoria, BC to St. John's, NF). It is billed as the world's longest
-highway, and its length varies from 7,205 Kilometers ( 4,477
-Miles) according to the "distance calculator" tool on the web-site of a
-national moving company to 7,821 km (4,860 mi) on the inofficial Trans
-Canada Highway web-site (www.TransCanadaHighway.com).
+The Trans-Canada Highway stretches roughly 7,800 km from Victoria, British Columbia to St. John's, Newfoundland, linking all ten provinces and earning its reputation as Canada's Main Street. It is one of the longest national highways in the world.
 
-**Contributors**
-December 11, 2005
+The route crosses almost every landscape Canada has to offer: the Rockies in British Columbia and Alberta, the vast prairies of Saskatchewan and Manitoba, the Canadian Shield of Ontario, the St. Lawrence lowlands of Quebec, and the rolling hills and coastlines of the Maritime provinces. Driving the full length takes about a week if you push it, but two or three weeks is more reasonable if you want to stop and explore along the way.
+
+The highway was officially completed in 1962, though stretches of it have been upgraded and twinned over the decades. In some provinces it is a modern divided highway; in others, particularly through northern Ontario and parts of Newfoundland, it narrows to two lanes through genuinely remote territory. Gas stations can be far apart in these sections, so fill up when you can.

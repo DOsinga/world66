@@ -1,9 +1,12 @@
 ---
 title: "Old Town (Stare Miasto)"
 type: poi
-category: "Neighbourhood"
 latitude: 52.2496
 longitude: 21.0122
+snippet: UNESCO-listed historic core, rebuilt brick by brick after wartime destruction
+tags:
+- things_to_do
+- neighbourhood
 story: "By January 1945, Warsaw had been so systematically destroyed that German engineers estimated it would take decades to clear the rubble. Polish architects and citizens rebuilt the Old Town brick by brick, using 18th-century vedute paintings by Bernardo Bellotto as blueprints. The completed reconstruction was declared a UNESCO World Heritage Site in 1980."
 ---
 

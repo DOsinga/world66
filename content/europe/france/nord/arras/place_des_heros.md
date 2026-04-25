@@ -1,6 +1,7 @@
 ---
 latitude: 50.2902
 longitude: 2.7781
+snippet: "Gothic belfry and arcaded Flemish square rebuilt after WWI bombardment"
 story: The square was known as the Petite Place for centuries, but was renamed Place
   des Héros after the First World War to honour the soldiers who died defending the
   city. Much of the original square had to be rebuilt from photographs — the entire

@@ -1,16 +1,18 @@
 ---
-category: Sight
-title: Archeological Researches
+latitude: 39.2
+longitude: 45.4
+snippet: Bronze Age settlements and Paleolithic caves across the region
+tags:
+- things_to_do
+- sight
+title: Archaeological Sites
 type: poi
 ---
 
-– the Middle Ages settlement in the southwest of Sust village of Babek region. It was studied by Nakhchivan archeological expedition in 1979. Total area is about 3 ha. Some of the construction materials are left in the settlement area. The cultural layer is rich with ceramic products. The surface materials consist of pink colored common and lion pot pieces. The discoveries belong to XV-XVII centuries. Kohnegala – the Middle Ages settlement far from Shapurgala, near to Shahbuzkend in Shahbuz region. It was registered in 1990. Area is more than 10 ha. It is surrounded with precipitous cliffs. During the archeological exploration the clay pots pieces were discovered. The stonewall pieces in the southeast part of Kohnegala may be observed far from 150 km. The surface materials are iron, lion-off and lion earthenware pots and pieces of glass dishes. The settlements are supposed to belong to XIV-XVIII centuries
+Naxcivan is rich in archaeological sites spanning from the Paleolithic to the Middle Ages. Several are accessible to visitors, though facilities are minimal.
 
-*Kultepe* - the Bronze Age settlement near Sadarak village in Sadarak region, has the total are of about 5 ha. The ceramic products pieces and stone labor tools were discovered in the area. The cultural layer consists of clay layer mixed with ashes, flint and obsidian pieces; the ashes pile and fireplaces were also discovered. The airbrick pieces, river stones and other construction materials were also discovered in the layer. A number of ceramic products – specially grey and red burnt clay pots patterns, colored pots with red ungobe cover and black decorations and so on were found out. According to discoveries Kultepe settlement is supposed to belong to III-I millenniums.
+**Kultepe** is a Bronze Age settlement near Sadarak village covering about five hectares. Excavations have uncovered ceramic products, stone tools, obsidian pieces, and fireplaces dating from the third to first millennium BC. The grey and red burnt clay pots found here are particularly notable.
 
-*Gazma cave* – is the Paleolithic period camp on 1500 meters above the sea level, on the left bank of Arpachay River, in 3 km far in the south-east from Tenenem village in Sharur region. The length of the cave is 22m, width 1.0-6.5m. It was discovered in 1987-90s with six layers. The total thickness of the deposits equals 3 m. As a result of excavations in 20 m 2 territories, more than 12000 hunted animal bones and about 1000 obsidians, flints and labor tools of stone have been discovered in the area. Besides stone tools, bone awls, knives and carving tools were also discovered. Several fireplaces were noted in V and VI layers.
+**Gazma Cave** sits at 1,500 metres above sea level on the left bank of the Arpachay River, about three kilometres from Tenenem village in Sharur. This Paleolithic camp was excavated in the late 1980s across six layers, yielding over 12,000 hunted animal bones and around 1,000 stone tools made from obsidian and flint, plus bone awls, knives, and carving tools.
 
-**Contributors**
-April 18, 2006
-
-type: Landmarks
+Several medieval settlements in the Babek and Shahbuz regions have also been documented, with surface finds of ceramic fragments and glassware dating from the fourteenth to eighteenth centuries.

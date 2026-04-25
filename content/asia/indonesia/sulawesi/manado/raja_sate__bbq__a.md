@@ -1,7 +1,12 @@
 ---
 address: Jalan Boulevard, near Mega Mall
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 1.4748
+longitude: 124.8421
 phone: +62 431 3327380
 price: Budget
+snippet: budget satay and BBQ seafood on the boulevard
 tags:
 - eating_out
 title: Raja Sate BBQ & Asian Resto

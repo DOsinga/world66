@@ -1,7 +1,10 @@
 ---
 title: "Alexander Nevsky Cathedral"
 type: poi
-tags: [things_to_do]
+snippet: Gold-domed cathedral and Bulgaria's finest icon collection
+tags:
+- things_to_do
+- landmark
 latitude: 42.695812
 longitude: 23.332793
 ---

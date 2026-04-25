@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 25.737543
 longitude: 32.607231
+snippet: Colonnaded temple carved into dramatic West Bank cliffs
 tags:
 - things_to_do
 - landmark

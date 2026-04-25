@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 7.3919
 longitude: 3.8646
+snippet: Four galleries covering Nigerian instruments, Yoruba artifacts, pottery,
+  and masquerades
 tags:
 - things_to_do
 - museum

@@ -7,6 +7,11 @@ image: angola.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mini_oasis_in_the_namibe_desert,_Angola.JPG
 image_license: CC0
 image_attribution: Paulo César Santos
+quick_facts:
+  Population: "36 million"
+  Cost Level: "Very expensive"
+  Coastline: "1,650 km"
+  Oil Producer: "2nd in Africa"
 score: 0.27
 ---
 

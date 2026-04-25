@@ -1,6 +1,7 @@
 ---
 title: "Sunday Market (Nichiyō-ichi)"
 type: poi
+snippet: "300-year-old open-air market stretching a kilometre along the boulevard"
 tags:
   - things_to_do
 latitude: 33.5590

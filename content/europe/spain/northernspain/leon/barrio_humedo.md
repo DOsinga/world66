@@ -1,6 +1,7 @@
 ---
 latitude: 42.5993
 longitude: -5.5714
+snippet: Leon's old-town tapas quarter with free pinchos at every bar
 tags:
 - things_to_do
 - neighbourhood

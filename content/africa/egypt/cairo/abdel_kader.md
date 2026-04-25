@@ -1,5 +1,7 @@
 ---
 address: 156, 26th July St., Zamalek
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.059407
 longitude: 31.223722
 phone: +20 2 7359640

@@ -1,10 +1,11 @@
 ---
-category: Architecture
-done:
-  location_cleanup: '2026-04-09'
 latitude: 53.121944
 longitude: -2.245278
-title: Little Moreton Old Hall
+snippet: Spectacularly crooked half-timbered Tudor manor house
+tags:
+- things_to_do
+- landmark
+title: Little Moreton Hall
 type: poi
 ---
 

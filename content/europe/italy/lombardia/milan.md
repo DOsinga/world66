@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
 image: milan.jpg
 image_attribution: Daniel Case
 image_license: CC BY-SA 3.0

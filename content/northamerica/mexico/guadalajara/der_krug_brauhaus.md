@@ -1,6 +1,7 @@
 ---
 latitude: 20.676
 longitude: -103.387
+snippet: German-style brewpub with locally brewed beer
 tags:
 - bars_and_cafes
 title: Der Krug Brauhaus

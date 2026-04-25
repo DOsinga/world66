@@ -1,6 +1,7 @@
 ---
 latitude: 19.4352
 longitude: -99.1413
+snippet: Art nouveau opera house with Rivera murals and Tiffany curtain
 tags:
 - things_to_do
 - architecture

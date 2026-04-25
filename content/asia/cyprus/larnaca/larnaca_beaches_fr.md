@@ -1,14 +1,12 @@
 ---
-title: "Larnaca beaches from Dekeleia to Alaminos"
+title: "Larnaca Beaches"
 type: poi
 tags: [beaches]
-email: "phivos.ioannides@natureofcyprus.org"
+snippet: "Dark sand beaches and salt lake birdwatching"
 latitude: 34.923609
 longitude: 33.623618
 ---
 
-Larnaca beaches are characterised by darker sand and relatively calm waters (there are a few dangerous spots that should be avoided just west of the airport). East of the airport the beaches are quite organised, a number having been awarded Blue flags and have wavebreakers. To the west the beaches are less organised.
+Larnaca's beaches stretch along the coast in both directions from the airport. The sand here is darker than the white strands of Ayia Napa — coarser and more natural-looking. East of the airport, beaches like Finikoudes and Mackenzie are well-organised with sunbeds, Blue Flag ratings, and wavebreakers that keep the water calm. West of the airport, the shore is less developed and quieter.
 
-Larnaca is characterised by the presence of a system of salt lakes in the west and the swamp like Voroklini lake in the east. They usually dry out in summer, but otherwise they can be excellent for birdwatching.
-
-For in depth information on Larnaca beaches and other related natural attractions (eg. walking trails, the mentioned wetlands, ancient trees) you can explorer www.natureofcyprus.org .
+The real surprise is inland. A system of salt lakes sits just west of the city, and the swamp-like Voroklini Lake lies to the east. Both dry out in summer, but from autumn through spring they fill with water and migrating flamingos — the birdwatching can be exceptional. The Larnaca Salt Lake trail is an easy walk with good viewing points.

@@ -2,8 +2,10 @@
 category: Sight
 done:
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-20'
 latitude: 44.1205
 longitude: 8.1147
+snippet: Hilltop castle ruins with sweeping Neva valley views
 title: The Castle above Zuccarello
 type: poi
 ---

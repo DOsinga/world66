@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.3228
 longitude: 9.3262
+snippet: Birthplace museum of Nobel laureate Grazia Deledda
 story: 'Grazia Deledda won the Nobel Prize in Literature in 1926 — the first Italian
   woman to do so. When the prize was announced, she reportedly told a journalist:
   ''I have not done anything extraordinary. I have only written about my people.'''

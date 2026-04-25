@@ -1,9 +1,18 @@
 ---
-tags: [things_to_do, castle, historic_site]
-latitude: 50.1460
-longitude: 7.1670
-story: >
-  The castle was almost entirely destroyed by French troops in 1689 and lay in ruins for nearly two centuries. In 1868 a Berlin businessman named Louis Ravené bought the ruins and rebuilt the castle in the neo-Gothic style, carefully furnishing it with Renaissance and Baroque pieces he collected across Europe. The town has owned it since 1978.
+latitude: 50.146
+longitude: 7.167
+snippet: Neo-Gothic castle towering over the Mosel valley
+story: 'The castle was almost entirely destroyed by French troops in 1689 and lay
+  in ruins for nearly two centuries. In 1868 a Berlin businessman named Louis Ravené
+  bought the ruins and rebuilt the castle in the neo-Gothic style, carefully furnishing
+  it with Renaissance and Baroque pieces he collected across Europe. The town has
+  owned it since 1978.
+
+  '
+tags:
+- things_to_do
+- castle
+- historic_site
 title: Reichsburg Cochem
 type: poi
 ---

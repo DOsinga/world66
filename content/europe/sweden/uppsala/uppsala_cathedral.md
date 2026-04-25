@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 59.8581
 longitude: 17.6327
+snippet: Scandinavia's largest cathedral, home to Linnaeus's tomb
 tags:
 - things_to_do
 - sight

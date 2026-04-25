@@ -1,7 +1,9 @@
 ---
 title: "Tell Says (Bronze Age Tell)"
 type: poi
-category: Sight
+snippet: "Four-thousand-year-old Dilmun trading post on Failaka Island"
+tags:
+- things_to_do
 latitude: 29.4410
 longitude: 48.3260
 ---

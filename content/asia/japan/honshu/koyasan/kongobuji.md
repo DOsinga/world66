@@ -1,8 +1,10 @@
 ---
 latitude: 34.2133
 longitude: 135.5847
+snippet: Head temple of Shingon Buddhism with Japan's largest rock garden
 tags:
 - things_to_do
+- temple
 title: Kongobuji Temple
 type: poi
 ---

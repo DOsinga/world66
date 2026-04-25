@@ -1,0 +1,17 @@
+/northamerica/canada/novascotia/guysborough
+/northamerica/canada/quebec/saintetherese
+/northamerica/costarica/atenas_costa_rica
+/northamerica/dominicanrepublic/puertoplata/playabergantin
+/northamerica/mexico/sanjosedelcabo
+/northamerica/nicaragua/elcastillo
+/northamerica/nicaragua/masachapa
+/northamerica/thecaribbean/guadeloupe/basseterre
+/northamerica/thecaribbean/martinique/latrinite
+/northamerica/thecaribbean/puertorico/carolina
+/northamerica/thecaribbean/puertorico/gurabo
+/northamerica/unitedstates/alabama/phenix_city
+/northamerica/unitedstates/arkansas/springdale
+/northamerica/unitedstates/california/losangeles/newhall
+/northamerica/unitedstates/california/sandiego/coronado
+/northamerica/unitedstates/california/sandiego/downtown
+/northamerica/unitedstates/california/sanfranciscobayarea/santaclara

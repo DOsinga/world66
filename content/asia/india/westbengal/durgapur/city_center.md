@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 23.534948
 longitude: 87.303368
+snippet: Steel town's main social hub with malls, cineplex, and restaurants
 tags:
 - things_to_do
 - shopping

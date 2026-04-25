@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.0502
 longitude: 8.212
+snippet: Surviving tower houses from Albenga's powerful medieval families
 tags:
 - things_to_do
-- neighbourhood
+- landmark
 title: Medieval Tower Houses
 type: poi
 ---

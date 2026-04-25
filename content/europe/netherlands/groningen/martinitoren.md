@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.219402
 longitude: 6.568197
+snippet: Climb 260 steps for views across the northern polders
 tags:
 - things_to_do
 - landmark

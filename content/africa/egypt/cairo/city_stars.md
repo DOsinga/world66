@@ -2,6 +2,7 @@
 address: Sharia Umar Ibn-Il Khattab, Heliopolis, Cairo
 latitude: 30.088333
 longitude: 31.340556
+snippet: Massive Heliopolis mall with cinema and crafts
 tags:
 - shopping
 - shop

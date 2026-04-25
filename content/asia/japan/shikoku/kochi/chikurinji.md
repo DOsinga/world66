@@ -1,10 +1,14 @@
 ---
-title: "Chikurin-ji"
-type: poi
-tags:
-  - things_to_do
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.5101
 longitude: 133.5534
+snippet: Temple 31 on the Shikoku Pilgrimage, set in mossy forest
+tags:
+- things_to_do
+- sight
+title: Chikurin-ji
+type: poi
 ---
 
 Chikurin-ji is the 31st temple on the Shikoku 88-Temple Pilgrimage (*Shikoku Henro*) and one of the most atmospheric in the prefecture. Founded in 724 — according to tradition by the monk Gyōki, who had a vision of the bodhisattva Manjushri on the hill — it sits on Godaisan, a forested ridge about 5km east of the city centre, next to the **Kōchi Prefectural Makino Botanical Garden**.

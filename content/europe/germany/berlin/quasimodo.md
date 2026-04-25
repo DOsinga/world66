@@ -1,8 +1,11 @@
 ---
 address: Kantstraße 12a, Charlottenburg
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.506069
 longitude: 13.328471
 opening_hours: Café daily from 5pm; concerts from 10pm
+snippet: Legendary basement jazz club since 1975
 tags:
 - bars_and_cafes
 - charlottenburg

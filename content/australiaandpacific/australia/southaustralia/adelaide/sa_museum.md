@@ -2,6 +2,7 @@
 address: North Terrace
 latitude: -34.9207
 longitude: 138.6036
+snippet: World-class Aboriginal Cultures gallery with free entry
 tags:
 - things_to_do
 - museum

@@ -1,8 +1,11 @@
 ---
 address: Taman Kantor Unit A1, Mega Kuningan E3.3, Jakarta
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.2285
 longitude: 106.823
 phone: +62 21 5764582
+snippet: Expat sports bar with live music weekends
 tags:
 - bars_and_cafes
 - bar

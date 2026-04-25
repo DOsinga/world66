@@ -1,6 +1,7 @@
 ---
 latitude: 41.6562
 longitude: -0.8763
+snippet: Mudejar masterpiece and UNESCO-listed older cathedral of Zaragoza
 tags:
 - things_to_do
 - architecture

@@ -1,6 +1,7 @@
 ---
 latitude: 6.128
 longitude: 102.245
+snippet: Chinese-Malaysian restaurant good for group dinners
 tags:
 - eating_out
 title: Four Seasons Restaurant

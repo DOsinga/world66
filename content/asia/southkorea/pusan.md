@@ -1,11 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-05'
+  poi_cleanup: '2026-04-19'
 latitude: 35.179953
 longitude: 129.075236
+score: 0.72
 title: Busan
 type: location
-score: 0.72
 ---
 
 Busan is South Korea's second city — a sprawling port of nearly four million people wedged between steep hills and the sea. It's louder, saltier, and more working-class than Seoul: container ships crowd the horizon, the fish market starts before dawn, and the mountains drop so abruptly into the coastline that entire neighbourhoods cling to the cliffs.

@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.2759
 longitude: 114.1455
+snippet: Hong Kong Island's 552m summit with spectacular harbour views
 tags:
 - things_to_do
+- sight
 title: Victoria Peak
 type: poi
 ---

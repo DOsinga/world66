@@ -2,6 +2,7 @@
 category: Neighbourhood
 latitude: 51.5231
 longitude: -0.0784
+snippet: "East London's creative hub of street art, markets, and curry houses"
 tags:
 - things_to_do
 - neighbourhood

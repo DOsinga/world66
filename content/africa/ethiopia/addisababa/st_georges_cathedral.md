@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - church
+snippet: "Octagonal church built in 1896 to celebrate victory over Italy at Adwa"
 latitude: 9.0310
 longitude: 38.7489
 ---

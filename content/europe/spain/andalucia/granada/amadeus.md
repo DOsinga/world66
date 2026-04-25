@@ -1,28 +1,13 @@
 ---
-title: "Amadeus"
-type: poi
-address: "c/ Pintor López Mezquita"
-type: "Bars & Cafes"
+address: c/ Pintor López Mezquita, Granada
+category: Bar
 latitude: 37.177275
 longitude: -3.607484
+snippet: Laid-back bar on a quiet street near Plaza Nueva
+tags:
+- bars_and_cafes
+title: Amadeus
+type: poi
 ---
 
-type: Bars & Cafes
-
-
-
-
-
-address: c/ Pintor López Mezquita
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A small, unpretentious bar on Calle Pintor López Mezquita, just off the tourist circuit near Plaza Nueva. Amadeus draws a mixed crowd of locals and visitors with its relaxed atmosphere and reliable free tapas with every drink — standard practice in Granada, but done well here. Good spot to start an evening before heading uphill toward the Albaicín.

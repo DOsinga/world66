@@ -9,6 +9,7 @@ story: 'Saint Bernard founded Clairvaux in 1115 in a clearing so pestilential â€
   in medieval Europe.
 
   '
+snippet: "Bernard's founding abbey, now a prison you can tour"
 tags:
 - things_to_do
 - church

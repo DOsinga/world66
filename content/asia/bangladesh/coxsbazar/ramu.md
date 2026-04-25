@@ -1,6 +1,7 @@
 ---
 latitude: 21.4483
 longitude: 92.1131
+snippet: Buddhist village with monasteries, pagodas, and handmade cigars
 tags:
 - things_to_do
 title: Ramu

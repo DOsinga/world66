@@ -1,6 +1,7 @@
 ---
 latitude: 48.4021
 longitude: -89.2463
+snippet: "Seasonal menu of locally sourced ingredients with a solid northern wine list"
 tags:
 - eating_out
 title: Caribou Restaurant and Wine Bar

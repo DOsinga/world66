@@ -1,28 +1,16 @@
 ---
 address: Rachel, Nevada
-email: kayemedlin@yahoo.com
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.646366
 longitude: -115.746461
-phone: 'Inquires can be directed to A''Le''Inn: 775-729-2515'
+snippet: “Tiny desert town beside America’s most famous secret base”
 tags:
 - day_trips
-- restaurant
 title: Area 51 & Rachel Nevada
 type: poi
-url: www.rachel-nevada.com
 ---
 
-This infamous “secret” air base is believed to house UFO’s and aliens recovered from the famous Roswell, New Mexico flying saucers crash. Located right off the Extraterrestrial Highway is the town of Rachel, Nevada, which also houses Area 51 Research Center. The town of Rachel has roughly 100 residents and one restaurant/bar/hotel -- A'Le'Inn (775-729-2515). Area 51, also known as “Groom Lake,” is located roughly 90 miles north of Las Vegas.
+About 150 km north of Las Vegas along the Extraterrestrial Highway (State Route 375), the tiny town of Rachel sits at the edge of the Nevada Test and Training Range -- home to the classified facility commonly known as Area 51 or Groom Lake. The base itself is off-limits and heavily guarded, but the surrounding desert has become a pilgrimage site for UFO enthusiasts and the simply curious.
 
-**Contributors**
-May 21, 2008
-
-
-
-tel: Inquires can be directed to A'Le'Inn: 775-729-2515
-
-url: [www.rachel-nevada.com](http://www.rachel-nevada.com)
-
-address: Rachel, Nevada
-
-email:
+Rachel has a population of roughly 100 and one commercial establishment: the A’Le’Inn, a combination restaurant, bar, and motel decorated with alien memorabilia. It makes a good pit stop for a burger and a look at the guest book. The drive from Las Vegas takes about two hours on mostly empty highway through stark, beautiful basin-and-range country.

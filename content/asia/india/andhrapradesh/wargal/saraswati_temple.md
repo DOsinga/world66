@@ -1,7 +1,10 @@
 ---
 address: Wargal, Medak District, Telangana
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 17.7753
 longitude: 78.6151
+snippet: Hilltop temple to the goddess of learning
 tags:
 - things_to_do
 - temple

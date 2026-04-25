@@ -2,6 +2,7 @@
 address: Rue Saint-Charles, Ajaccio
 latitude: 41.9193
 longitude: 8.735
+snippet: Napoleon's birthplace, now a furnished period museum
 tags:
 - things_to_do
 - museum

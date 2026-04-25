@@ -1,6 +1,7 @@
 ---
 latitude: 25.72407
 longitude: 32.577041
+snippet: Quiet Coptic monastery with rock-cut catacombs behind Medinat Habu
 tags:
 - things_to_do
 - landmark

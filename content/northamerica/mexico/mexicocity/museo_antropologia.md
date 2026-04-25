@@ -1,6 +1,7 @@
 ---
 latitude: 19.426
 longitude: -99.1862
+snippet: World-class collection of pre-Columbian art and artifacts
 tags:
 - things_to_do
 - museum

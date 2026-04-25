@@ -1,7 +1,8 @@
 ---
 title: "Henry Doorly Zoo"
 type: poi
-category: Sight
+snippet: "World-class zoo with the largest indoor desert and rainforest"
+tags: [things_to_do, nature, family]
 address: "3701 South 10th St., Omaha, NE 68107"
 phone: "(402) 733-8400"
 url: "www.omahazoo.com"

@@ -1,8 +1,11 @@
 ---
 address: Via dei Tavolini 19/r, 50122 Florence
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.7714
 longitude: 11.2553
 opening_hours: Daily 11:00–23:00
+snippet: Florence's oldest surviving gelateria, open since 1939 near the Duomo
 tags:
 - One Day in Florence
 - 3 Days in Florence

@@ -1,6 +1,10 @@
 ---
+address: Strada Izvor 2-4, Sector 5, Bucharest
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.4275
 longitude: 26.0877
+snippet: Colossal Ceausescu-era palace, second largest building on Earth
 tags:
 - things_to_do
 - sight

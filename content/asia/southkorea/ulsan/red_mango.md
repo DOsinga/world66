@@ -1,4 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 35.5443
+longitude: 129.3327
+snippet: Low-fat frozen yoghurt chain with two Ulsan locations
 tags:
 - eating_out
 title: Red Mango

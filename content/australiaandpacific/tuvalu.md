@@ -12,6 +12,11 @@ image_attribution: '<ul><li>Original: Stefan Lins</li> <li>Modifications: The or
   class="extiw" title="w:lb:">Luxembourgish Wikipedia</a>.</li></ul>'
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "11,000"
+  Currency: Australian Dollar and Tuvaluan Dollar
+  Total Land Area: "26 km²"
+  Highest Point: "4.6 metres above sea level"
 score: 0.44
 ---
 

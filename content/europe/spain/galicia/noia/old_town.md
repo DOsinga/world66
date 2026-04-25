@@ -1,6 +1,7 @@
 ---
 title: "Old Town and Arcades"
 type: poi
+snippet: "Medieval stone arcades built to shelter from Galicia's persistent rain"
 tags: [things_to_do, neighbourhood, old_town]
 latitude: 42.7849
 longitude: -8.8878

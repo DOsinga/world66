@@ -2,6 +2,7 @@
 address: Castlefield, Manchester M3 4LZ
 latitude: 53.4749
 longitude: -2.2555
+snippet: "Roman fort ruins, Victorian canals, and waterside bars"
 tags:
 - things_to_do
 - neighbourhood

@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 46.0486
 longitude: 14.5005
+snippet: Reliable weekend nightclub with strong mojitos
 tags:
 - bars_and_cafes
+- nightlife
 title: AS Club
 type: poi
 ---

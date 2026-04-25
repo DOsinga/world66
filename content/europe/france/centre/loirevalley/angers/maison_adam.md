@@ -5,6 +5,7 @@ longitude: -0.5537
 story: The house takes its name from the carved wooden figures of Adam and Eve flanking
   the 'Tree of Life' post — an unusual survival of medieval street-corner symbolism
   on what was, around 1500, one of Angers' most prominent dwelling-houses.
+snippet: Ornate 1500s half-timbered house with carved Adam and Eve
 tags:
 - things_to_do
 - architecture

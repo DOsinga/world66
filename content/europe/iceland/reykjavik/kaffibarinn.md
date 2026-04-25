@@ -1,8 +1,11 @@
 ---
 address: Bergstaðastræti 1
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 64.1463
 longitude: -21.9367
 opening_hours: 16:00–01:00 (Sun–Thu), 16:00–04:30 (Fri–Sat)
+snippet: Iconic Reykjavik bar with London Underground sign and local DJs
 tags:
 - bars_and_cafes
 title: Kaffibarinn

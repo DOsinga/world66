@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.2714
 longitude: 166.4431
+snippet: Zoo and botanical park with cagou birds and lagoon views
 tags:
 - things_to_do
 title: Parc Forestier

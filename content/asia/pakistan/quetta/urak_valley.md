@@ -1,6 +1,7 @@
 ---
 latitude: 30.2667
 longitude: 67.2167
+snippet: Lush fruit-orchard valley east of Quetta, known locally as Samaristan
 tags:
 - things_to_do
 - landmark

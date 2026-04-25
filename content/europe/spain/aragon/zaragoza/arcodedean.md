@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.654251
 longitude: -0.875113
+snippet: Gothic arch bridging a lane beside the Catedral de la Seo
 tags:
 - things_to_do
 - architecture

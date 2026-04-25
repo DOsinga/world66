@@ -1,7 +1,13 @@
 ---
 title: "Laas Geel"
 type: poi
+latitude: 9.5300
+longitude: 44.4000
+snippet: Remarkably preserved 10,000-year-old prehistoric rock art in Somaliland
 getting_there: "About 55km northeast of Hargeisa; 4WD recommended for the final stretch. A car, driver, and guide can be hired in Hargeisa for around US$80–120 for a day trip."
+tags:
+- things_to_do
+- sight
 ---
 
 One of the most significant collections of prehistoric rock art in Africa. These natural rock shelters — laas geel means "watering place for camels" in Somali — contain paintings estimated to be between 9,000 and 11,000 years old. The images are remarkable for their preservation: cattle with elaborately decorated hides, human figures, and wild animals rendered in ochre, red, white, and brown.

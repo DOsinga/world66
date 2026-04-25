@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 2.4376
 longitude: -76.6046
+snippet: Colonial hilltop chapel with panoramic city views
 tags:
 - things_to_do
 - landmark

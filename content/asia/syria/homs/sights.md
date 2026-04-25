@@ -1,7 +1,8 @@
 ---
-title: "Sights"
-type: section
-type: "Hotspots"
+done:
+  poi_cleanup: '2026-04-19'
+title: Sights
+type: Hotspots
 ---
 
 Below is a selection of Homs sights

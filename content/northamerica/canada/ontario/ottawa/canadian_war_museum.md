@@ -1,6 +1,7 @@
 ---
 latitude: 45.417
 longitude: -75.7169
+snippet: Canada's national military history museum on the river
 tags:
 - things_to_do
 - museum

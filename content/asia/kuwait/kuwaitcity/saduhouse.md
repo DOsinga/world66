@@ -1,10 +1,14 @@
 ---
-title: "Sadu House"
-type: poi
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 29.374
+longitude: 47.967
+snippet: Pre-oil Kuwaiti house showcasing Bedouin weaving traditions
 tags:
-  - things_to_do
-latitude: 29.374000
-longitude: 47.967000
+- things_to_do
+- museum
+title: Sadu House
+type: poi
 ---
 
 Located near the National Museum on the Seif, Sadu House (the House of Weaving) is a fine example of a pre-oil era Kuwaiti house. It exhibits traditional Bedouin textiles -- camel bags, tent dividers, carpets, and cushions -- and hosts weaving demonstrations that show the techniques still practised by Bedouin women.

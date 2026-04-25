@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.4019
 longitude: -84.3583
+snippet: Outdoor history museum with native wildlife and cypress swamp
 tags:
 - things_to_do
 - museum

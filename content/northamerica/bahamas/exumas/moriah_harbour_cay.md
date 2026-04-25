@@ -2,6 +2,7 @@
 title: "Moriah Harbour Cay National Park"
 type: poi
 category: "Sight"
+snippet: "Mangrove-lined national park ideal for kayaking"
 latitude: 23.4917
 longitude: -75.7750
 ---

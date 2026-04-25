@@ -4,9 +4,11 @@ longitude: -77.0725
 tags:
 - things_to_do
 - sight
+- story
 title: Arlington House
 type: poi
 url: https://www.nps.gov/arho
+snippet: "Robert E. Lee's mansion, now overlooking his cemetery"
 ---
 
 Arlington House, also known as the Custis-Lee Mansion, stands on a hill within Arlington National Cemetery, offering one of the finest views of Washington across the Potomac. Built between 1803 and 1818 by George Washington Parke Custis (stepgrandson of George Washington), it became the home of Robert E. Lee after his marriage to Custis's daughter.

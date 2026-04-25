@@ -1,6 +1,7 @@
 ---
 latitude: 40.715751
 longitude: -73.997031
+snippet: "America's largest Chinatown, packed with great food"
 tags:
 - things_to_do
 title: Chinatown

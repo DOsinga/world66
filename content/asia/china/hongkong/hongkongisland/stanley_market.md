@@ -2,6 +2,7 @@
 address: Stanley Market Road, Stanley
 latitude: 22.2183
 longitude: 114.2125
+snippet: Covered market with silks, linens, and souvenirs by the waterfront
 tags:
 - shopping
 title: Stanley Market

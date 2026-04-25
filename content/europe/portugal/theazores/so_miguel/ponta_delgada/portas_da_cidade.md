@@ -1,6 +1,7 @@
 ---
 latitude: 37.7393
 longitude: -25.6694
+snippet: "Baroque basalt archways that are the symbol of Ponta Delgada"
 tags:
 - things_to_do
 - architecture

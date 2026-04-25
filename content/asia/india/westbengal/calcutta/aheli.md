@@ -2,6 +2,7 @@
 address: Peerless Inn, 12 Jawaharlal Nehru Road, Kolkata 700013
 latitude: 22.5597
 longitude: 88.3513
+snippet: "Traditional Bengali cuisine in an old-world setting"
 tags:
 - eating_out
 title: Aheli

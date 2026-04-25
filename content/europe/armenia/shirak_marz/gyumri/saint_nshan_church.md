@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.7845
 longitude: 43.843
+snippet: The "Black Church," built in dark tufa, once an observatory
 story: 'During the Soviet period the church was converted into an astronomical observatory,
   inaugurated in the presence of the famous astrophysicist Viktor Hambardzumyan. Lightning
   repeatedly struck the dome, damaging the equipment and bending the cross — but each

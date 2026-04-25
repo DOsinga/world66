@@ -1,7 +1,10 @@
 ---
-title: "Arts Centre for National Culture"
+title: Arts Centre for National Culture
 type: poi
-category: "Sight"
+snippet: "Main craft market for carvings, kente cloth, and beads"
+tags:
+- things_to_do
+- shopping
 address: "28th February Road"
 latitude: 5.5471
 longitude: -0.2065

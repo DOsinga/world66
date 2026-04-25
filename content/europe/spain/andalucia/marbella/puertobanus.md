@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.488927
 longitude: -4.956839
+snippet: Marbella's flashy marina with super-yachts and designer shops
 tags:
 - things_to_do
 - neighbourhood

@@ -1,6 +1,7 @@
 ---
 title: "Grand Marché"
 type: poi
+snippet: "Huge textile market run by the legendary Nana Benz"
 tags:
   - things_to_do
   - market

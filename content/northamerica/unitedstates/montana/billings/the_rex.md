@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.7808
 longitude: -108.4888
+snippet: upscale Montana Avenue steakhouse with aged beef and game
 tags:
 - eating_out
 title: The Rex

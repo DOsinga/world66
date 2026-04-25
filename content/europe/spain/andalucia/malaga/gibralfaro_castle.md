@@ -1,7 +1,12 @@
 ---
 address: Camino Gibralfaro, 11
+admission: €3.50; combined ticket with Alcazaba €5.50
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.7232
 longitude: -4.4108
+snippet: 14th-century hilltop castle with panoramic views over Málaga and Africa
 tags:
 - things_to_do
 - landmark

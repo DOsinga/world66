@@ -1,6 +1,7 @@
 ---
 latitude: -33.4374
 longitude: -70.6513
+snippet: "Santiago's colonial central square, lively with street performers"
 tags:
 - things_to_do
 - sight

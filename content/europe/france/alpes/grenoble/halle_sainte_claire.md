@@ -2,9 +2,10 @@
 address: Place Sainte-Claire
 latitude: 45.1903
 longitude: 5.7305
+snippet: "Covered market with Savoyard cheeses, charcuterie, and regional wines"
 tags:
 - things_to_do
-- landmark
+- market
 title: Halle Sainte-Claire
 type: poi
 ---

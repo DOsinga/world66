@@ -1,6 +1,7 @@
 ---
 latitude: 19.3958
 longitude: 98.922
+snippet: Mountain-view resort restaurant with Thai and Western dishes
 tags:
 - eating_out
 title: Chiang Dao Nest Restaurant

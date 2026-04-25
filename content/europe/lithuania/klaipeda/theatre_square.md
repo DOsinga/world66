@@ -1,6 +1,7 @@
 ---
 title: "Theatre Square"
 type: poi
+snippet: "Klaipeda's historic old town square with neoclassical theatre"
 tags: [things_to_do, sight]
 latitude: 55.7077
 longitude: 21.1387

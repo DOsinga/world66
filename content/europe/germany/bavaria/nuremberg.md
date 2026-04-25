@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-05'
+  poi_cleanup: '2026-04-21'
+image: nuremberg.jpg
+image_attribution: Hubertl
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Nuremberg,_Hauptmarkt_and_Frauenkirche_4648.jpg
 latitude: 49.453872
 longitude: 11.077298
 score: 0.65
 title: Nuremberg
 type: location
-image: nuremberg.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Nuremberg,_Hauptmarkt_and_Frauenkirche_4648.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Hubertl
 ---
 
 Nuremberg (pop. 520,000) was one of the most powerful cities of the Holy Roman Empire and, seven centuries later, the chosen stage for the Nazi Party's mass rallies — a history the city confronts directly rather than sidesteps. The medieval Altstadt sits inside a circuit of 15th-century walls, its red-roofed skyline dominated by the Kaiserburg, the imperial castle that loomed over the city for a thousand years. Much of the old centre was bombed to rubble in January 1945 and rebuilt stone by stone from salvaged material; the streets now look genuinely medieval even where the fabric is post-war.

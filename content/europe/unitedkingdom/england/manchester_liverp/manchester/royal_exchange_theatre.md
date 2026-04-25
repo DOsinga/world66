@@ -1,8 +1,12 @@
 ---
 address: St Ann's Square, Manchester M2 7DH
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.4825
 longitude: -2.2455
 phone: 0161 833 9833
+snippet: Theatre-in-the-round inside a Victorian cotton exchange — a glass pod inside
+  grand stone
 tags:
 - things_to_do
 - landmark

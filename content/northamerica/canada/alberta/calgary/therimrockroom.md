@@ -1,9 +1,14 @@
 ---
+address: 133 9 Ave SW, Calgary, Alberta
+latitude: 51.0456
+longitude: -114.0634
+phone: +1 403-262-1234
+snippet: Elegant dining in Calgary's historic Palliser Hotel
 tags:
 - eating_out
 - restaurant
-title: The Rimrock Room .
+title: The Rimrock Room
 type: poi
 ---
 
-Enjoy the elegant ambience and surroundings in Calgary’s historic Palliser Hotel. Featuring Canadian cuisine with a focus on local ingredients and offering a fine selection of wines and Sun brunch. Daily 6:30 am - 10 pm.  Tel: 1 403 262-1234  Address: 9 Ave and 1 St SW Calgary Alberta
+The Rimrock Room occupies the ground floor of the Fairmont Palliser, Calgary's grand railway hotel dating from 1914. The dining room keeps the old-world feel — dark wood, white linen, attentive service — while the menu focuses on Canadian ingredients: Alberta beef, Pacific salmon, and prairie-grown grains. The Sunday brunch is a local institution. Reservations recommended for dinner.

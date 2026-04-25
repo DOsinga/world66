@@ -3,6 +3,7 @@ address: Via di San Vito 13a, 00185 Rome
 latitude: 41.8961
 longitude: 12.5046
 opening_hours: Tue–Sat 12:45–14:45, 19:45–22:30; Sun 12:45–14:45; closed Mon
+snippet: "Family-run Le Marche kitchen beloved for its vincisgrassi"
 tags:
 - Eater Rome
 - Katie Parla Rome

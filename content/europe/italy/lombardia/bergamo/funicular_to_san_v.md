@@ -1,14 +1,16 @@
 ---
-tags:
-- getting_around
-- church
-- cafe
-- bar
 title: Funicular to San Vigilio
 type: poi
+snippet: "Short funicular ride to panoramic views over Città Alta"
+tags:
+- things_to_do
+- viewpoint
+latitude: 45.7085
+longitude: 9.6580
 ---
 
-Take the Funicular up to San Vigilio for a breath-taking view of Città Alta Upper Town. Once in Città Alta go to Colle Aperto near La Marianna Ristorante and pass through the giant open door Porta Sant'Alessandro gate of the City Walls. The funicular and cafe bar are on the right. The funicular goes up along the outside of the City Walls to San Vigilio where you can find three restaurants with bars and one with an outside bar in the summer time with a view of the Upper Town. There is a church, a castle and many beautiful walks to take.
+From Colle Aperto in Città Alta, a small funicular climbs the outside of the Venetian city walls to the hilltop village of San Vigilio. The ride takes only a couple of minutes, but the view that opens up at the top -- across the rooftops of the Upper Town, down to the plain of Lombardy -- is one of the best in Bergamo.
 
-**Contributors**
-February 01, 2008
+At the top you will find the ruins of a small castle, a church, and a handful of restaurants with terrace seating. In summer one of the bars sets up outside tables overlooking the town, which makes for a memorable spot to have a drink as the light fades. The quiet lanes around San Vigilio are good for a short walk before riding back down.
+
+The funicular entrance is just past the Porta Sant'Alessandro gate, on the right.

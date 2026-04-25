@@ -1,8 +1,11 @@
 ---
 address: Romanou 4, Thessaloniki
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.628
 longitude: 22.9476
 phone: 2310 287 788
+snippet: Long-running student bar with draft beer near the White Tower
 tags:
 - bars_and_cafes
 title: Lotos Bar

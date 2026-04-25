@@ -1,6 +1,7 @@
 ---
 latitude: -16.2116
 longitude: -67.7133
+snippet: "Cloudforest mountain hike with views above the clouds"
 tags:
 - day_trips
 title: Uchumachi

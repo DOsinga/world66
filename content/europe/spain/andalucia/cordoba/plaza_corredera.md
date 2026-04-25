@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.8836
 longitude: -4.7745
+snippet: Rare Castilian-style enclosed plaza with arcaded tapas bars
 tags:
 - things_to_do
 - landmark

@@ -2,6 +2,7 @@
 address: 429 New South Head Rd, Double Bay
 latitude: -33.8773
 longitude: 151.2433
+snippet: Popular Double Bay pub with pool tables and good food
 tags:
 - bars_and_cafes
 - bar

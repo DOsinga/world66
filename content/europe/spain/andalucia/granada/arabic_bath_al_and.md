@@ -1,23 +1,13 @@
 ---
 title: "Arabic Bath Al Andalus"
 type: poi
+snippet: "Atmospheric Arab baths beneath the Alhambra"
 address: "Santa Ana, 16"
-email: "reservasgranada@hammamspain.com "
 phone: "+34 958 229978"
-type: "Spa and Sauna"
-url: "www.hammamspain.com"
-zipcode: "18009"
-latitude: -11.948411
-longitude: -77.09287
+tags:
+  - things_to_do
+latitude: 37.1760
+longitude: -3.5890
 ---
 
-**Hammam - Arab Baths**
-
-Seductive atmosphere, with its surrounding waters and Arabian inspired decoration, see the magical culture "Al Andalus". A place of dream in the historical surroundings of Arab
-Spain.
-
-The Arab baths are located in the romantic district of the Albaicín,
-under the Alhambra and the Generalife, to very little distance of
-downtown of Granada. The Hammam is one of the places that the tourists to the city of Granada would have to visit.
-
-type: Spa and Sauna
+A hammam tucked into the Albaicin quarter, just below the Alhambra. The restored bathhouse has hot, warm, and cold pools beneath brick arches and star-shaped skylights, with the sound of water echoing off tiled walls. Sessions last about ninety minutes and include a massage option. Book ahead — it fills up quickly, especially on weekends. The atmosphere after dark, with candlelight reflecting off the water, is particularly good.

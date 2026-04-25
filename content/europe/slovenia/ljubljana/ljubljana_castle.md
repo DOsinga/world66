@@ -1,6 +1,7 @@
 ---
 latitude: 46.0488
 longitude: 14.5083
+snippet: Hilltop castle with funicular and panoramic city views
 tags:
 - things_to_do
 - landmark

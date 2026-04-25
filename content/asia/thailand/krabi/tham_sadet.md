@@ -4,6 +4,7 @@ longitude: 98.8726
 tags:
 - things_to_do
 - landmark
+snippet: Limestone cave visited by a future Thai king in 1909
 title: Tham Sadet
 type: poi
 ---

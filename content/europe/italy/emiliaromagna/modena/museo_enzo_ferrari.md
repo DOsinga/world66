@@ -1,6 +1,7 @@
 ---
 title: "Museo Enzo Ferrari"
 type: poi
+snippet: "Enzo's birthplace turned sleek automotive museum"
 tags: [things_to_do, museum]
 latitude: 44.6483
 longitude: 10.9196

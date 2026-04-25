@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.6548
 longitude: 66.9758
+snippet: Three grand madrasas around Central Asia's most famous square
 tags:
 - things_to_do
+- sights
 - landmark
 title: The Registan
 type: poi

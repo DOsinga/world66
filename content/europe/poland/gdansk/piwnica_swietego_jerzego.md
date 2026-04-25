@@ -2,6 +2,7 @@
 address: Targ Weglowy 27, Gdansk
 latitude: 54.3497
 longitude: 18.6481
+snippet: Budget Polish cellar restaurant outside the Golden Gate
 tags:
 - eating_out
 title: Piwnica Swietego Jerzego

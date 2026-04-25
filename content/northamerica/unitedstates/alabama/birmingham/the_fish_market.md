@@ -1,7 +1,10 @@
 ---
 address: 612 22nd Street South, Birmingham, AL 35233
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.5072
 longitude: -86.8099
+snippet: Birmingham's go-to for fresh seafood and big portions
 tags:
 - eating_out
 - seafood

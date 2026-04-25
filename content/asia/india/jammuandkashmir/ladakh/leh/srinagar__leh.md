@@ -1,6 +1,7 @@
 ---
 latitude: 34.149064
 longitude: 77.574455
+snippet: "434 km highway over Zoji La pass, open June to October only"
 tags:
 - getting_there
 title: Srinagar - Leh

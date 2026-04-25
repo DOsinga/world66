@@ -1,6 +1,7 @@
 ---
 title: "Public Buildings (Law Courts)"
 type: poi
+snippet: "Rare cast-iron colonial parliament on Brickdam canal"
 tags:
   - things_to_do
   - architecture

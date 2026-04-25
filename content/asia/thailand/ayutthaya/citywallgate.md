@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.353
 longitude: 100.5575
+snippet: Reconstructed fortification hinting at Ayutthaya's former scale
 tags:
 - things_to_do
 - landmark

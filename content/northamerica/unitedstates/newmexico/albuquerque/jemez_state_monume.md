@@ -1,10 +1,13 @@
 ---
 accessibility: Wheelchair accessible
 address: 18160 NM 4, Jemez Springs, NM
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.7795
 longitude: -106.6877
 opening_hours: 8:30 a.m. - 5:30 p.m. Wednesday through Monday, closed Tuesday
 phone: 505-829-3530
+snippet: Ruins of a 17th-century mission and ancient Jemez pueblo
 tags:
 - things_to_do
 - landmark

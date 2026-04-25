@@ -3,6 +3,7 @@ address: 11 Odyssea Eliti Street, Ayia Napa
 latitude: 34.989
 longitude: 33.996
 phone: +357 23 721838
+snippet: "Intimate fine dining restaurant open since 1986, away from the strip"
 tags:
 - eating_out
 title: Love Bites

@@ -2,6 +2,7 @@
 address: Oxford, Oxfordshire
 latitude: 51.752
 longitude: -1.258
+snippet: Historic university city, one hour from Paddington
 tags:
 - day_trips
 - museum

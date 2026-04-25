@@ -1,6 +1,6 @@
 ---
 done:
-  poi_cleanup: '2026-04-21'
+  poi_cleanup: '2026-04-19'
 title: Practical Information
 type: section
 ---

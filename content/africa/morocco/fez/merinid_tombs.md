@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.0717
 longitude: -4.9799
+snippet: Hilltop ruins with the best panoramic view of the medina
 tags:
 - things_to_do
 - landmark

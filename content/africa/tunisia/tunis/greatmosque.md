@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.7978
 longitude: 10.1709
+snippet: Tunis medina's oldest mosque, founded 732 CE, with courtyard open to visitors
 tags:
 - things_to_do
 - landmark

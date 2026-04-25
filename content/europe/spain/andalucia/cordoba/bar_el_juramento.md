@@ -2,6 +2,7 @@
 address: Calle Juramento 6
 latitude: 37.8838
 longitude: -4.7735
+snippet: Honest neighbourhood tapas bar near the Mezquita with Montilla wines
 tags:
 - bars_and_cafes
 title: Bar El Juramento

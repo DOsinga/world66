@@ -3,6 +3,7 @@ address: Temple Newsam Road, Leeds LS15 0AE
 latitude: 53.7935
 longitude: -1.4715
 phone: 0113 264 7321
+snippet: "Tudor-Jacobean mansion with Chippendale furniture and vast parkland"
 tags:
 - things_to_do
 - sight

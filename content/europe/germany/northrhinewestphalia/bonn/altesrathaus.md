@@ -1,7 +1,10 @@
 ---
 address: Markt 2, 53111 Bonn
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.7353
 longitude: 7.1008
+snippet: Baroque town hall where Kennedy and de Gaulle spoke
 tags:
 - things_to_do
 - architecture

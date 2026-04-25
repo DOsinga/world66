@@ -1,26 +1,13 @@
 ---
-title: "Niyaz Restaurant (Hotel)"
+title: "Niyaz Restaurant"
 type: poi
-accessibility: "very easy"
-address: "near bus station"
-price: "average.. fits most budgets"
-type: "Indian and Pakistani"
-latitude: 40.443866
-longitude: -79.992055
+address: "Near Central Bus Station, Belgaum"
+snippet: Popular biryani joint opposite Belgaum's bus station
+tags:
+- eating_out
+- restaurant
+latitude: 15.8520
+longitude: 74.5047
 ---
 
-Lovely biryani. Opposite the main bus station in Belgaum. Cant miss it.
-
-Enjoy
-
-type: Indian and Pakistani
-
-
-
-
-
-accessibility: very easy
-
-address: near bus station
-
-PriceOfMenu: average.. fits most budgets
+A busy local restaurant right opposite the central bus station in Belgaum, Niyaz is known for its biryani — fragrant, generously portioned, and very affordable. The menu covers North Indian and Mughlai staples: kebabs, curries, rotis, and a solid range of rice dishes. It fills up at lunchtime with bus passengers and office workers alike. No-frills setting, quick service, and a reliable stop if you're passing through.

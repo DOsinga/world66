@@ -1,6 +1,7 @@
 ---
 latitude: 35.686
 longitude: 139.6903
+snippet: Kenzo Tange skyscraper housing the Park Hyatt and its famous rooftop bar
 tags:
 - things_to_do
 - architecture

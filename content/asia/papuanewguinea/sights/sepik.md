@@ -1,8 +1,15 @@
 ---
-title: "Sepik"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: -4.2876
+longitude: 142.2514
+snippet: Vast river system rich in tribal art and culture
+tags:
+- things_to_do
+title: Sepik River
 type: poi
-latitude: -4.287613
-longitude: 142.251363
 ---
 
-Perhaps no region in PNG is as beautiful and fascinating as the Sepik. It is a region full of open coastline, islands, good beaches and rugged mountain ranges, not to forget the Sepik River. This 1,126-km-long oily brown river with its serpentine flow of water meanders through the region. Other attractions in the region include beaches and diving experience at Cape Moem, Abalem culture in Maprik area, the white, sandy beaches of Vanimo, and Chambri Lakes.
+The Sepik is Papua New Guinea's longest river at 1,126 km, a serpentine brown waterway that carves through some of the most culturally rich territory in the Pacific. Villages along the river are famous for their spirit houses and elaborate wood carvings — the art tradition here rivals anything in Oceania.
+
+Travel is by motorized canoe, and most visitors arrange multi-day trips upriver from Wewak. Along the way you pass through landscapes that shift from coastal mangroves to swampy lowlands backed by rugged mountain ranges. The Chambri Lakes, a series of ox-bow lakes off the main river, are particularly worth the detour for birdwatching and visiting stilt villages.

@@ -2,6 +2,7 @@
 address: 1 Lane 28, Zhongzheng Road, Tamsui District, New Taipei
 latitude: 25.1756
 longitude: 121.4329
+snippet: Colonial-era fortress in Tamsui with Spanish, Dutch, and British layers
 tags:
 - things_to_do
 - sight

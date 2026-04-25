@@ -5,6 +5,7 @@ longitude: -122.4352
 tags:
 - bars_and_cafes
 - bar
+snippet: Friendly Castro bar and restaurant named after Harvey Milk
 title: Harvey's
 type: poi
 ---

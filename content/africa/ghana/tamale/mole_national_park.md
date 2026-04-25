@@ -1,6 +1,7 @@
 ---
 latitude: 9.2667
 longitude: -1.85
+snippet: "Ghana's largest wildlife reserve, famed for walking safaris with elephants"
 tags:
 - things_to_do
 - national_park

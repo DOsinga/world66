@@ -1,5 +1,7 @@
 ---
 address: The Headrow, Leeds LS1 3AA
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.8006
 longitude: -1.548
 phone: 0113 378 8801

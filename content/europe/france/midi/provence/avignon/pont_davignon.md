@@ -5,6 +5,7 @@ story: The well-known song "Sur le pont d'Avignon" began as "Sous le pont d'Avig
   — the festivals were held on the island beneath the bridge, not on it. A 19th-century
   operetta changed "sous" to "sur," presumably because dancing under a bridge sounded
   less romantic.
+snippet: Four surviving arches of a famous medieval bridge
 tags:
 - things_to_do
 - landmark

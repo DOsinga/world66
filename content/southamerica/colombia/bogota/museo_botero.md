@@ -1,7 +1,8 @@
 ---
-address: Calle 11 No 4-41
+address: Calle 11 No 4-41, La Candelaria, Bogotá
 latitude: 4.5968
 longitude: -74.0729
+snippet: "Free museum with Botero's voluptuous art plus Picasso and Dalí"
 tags:
 - things_to_do
 - museum

@@ -1,8 +1,10 @@
 ---
 latitude: 34.053552
 longitude: -117.184918
+snippet: Free outdoor concerts every summer since 1924
 tags:
-- bars_and_cafes
+- things_to_do
+- entertainment
 title: Redlands Bowl
 type: poi
 ---

@@ -2,6 +2,7 @@
 address: Flower Market Road, Prince Edward, Mong Kok
 latitude: 22.3254
 longitude: 114.1716
+snippet: "Dense strip of wholesale flower shops, spectacular before Lunar New Year"
 tags:
 - kowloon
 - shopping

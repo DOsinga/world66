@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.3697
 longitude: -8.3973
+snippet: Medieval old town with Romanesque churches and cobbled squares
 tags:
 - things_to_do
 - neighbourhood

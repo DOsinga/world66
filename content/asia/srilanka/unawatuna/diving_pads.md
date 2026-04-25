@@ -1,6 +1,7 @@
 ---
 title: "Scuba Diving"
 type: poi
+snippet: Reef dives and shipwrecks off the south coast
 tags:
   - things_to_do
   - diving

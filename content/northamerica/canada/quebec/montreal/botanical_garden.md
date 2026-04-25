@@ -2,6 +2,7 @@
 address: 4101 rue Sherbrooke Est, Montréal, QC H1X 2B2
 latitude: 45.559325
 longitude: -73.556261
+snippet: "Vast botanical garden with serene Chinese and Japanese sections"
 tags:
 - things_to_do
 - landmark

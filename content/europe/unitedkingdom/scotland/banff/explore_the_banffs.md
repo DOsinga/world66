@@ -2,6 +2,7 @@
 address: Banffshire Coast, Aberdeenshire
 latitude: 57.69
 longitude: -2.65
+snippet: Dramatic cliffs, fishing villages, and seabird colonies
 tags:
 - things_to_do
 - landmark

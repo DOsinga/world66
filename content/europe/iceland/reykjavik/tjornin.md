@@ -1,8 +1,11 @@
 ---
 address: Central Reykjavik
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 64.145
 longitude: -21.9425
+snippet: Central lake ringed by colourful houses and birdlife
 tags:
 - things_to_do
 - landmark

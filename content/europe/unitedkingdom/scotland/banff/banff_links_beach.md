@@ -1,7 +1,10 @@
 ---
 address: Banff Links, Banff AB45
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 57.6728
 longitude: -2.5404
+snippet: half-mile of golden sand with dunes and a coastal path
 tags:
 - beaches
 - landmark

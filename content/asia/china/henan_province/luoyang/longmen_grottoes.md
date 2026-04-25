@@ -1,6 +1,7 @@
 ---
 latitude: 34.5633
 longitude: 112.4739
+snippet: UNESCO Buddhist caves with 100,000 stone figures
 story: During the 19th and early 20th centuries, Western collectors and dealers systematically
   removed hundreds of carved heads and relief panels from the caves. Many are now
   in museums and private collections in Europe and North America.

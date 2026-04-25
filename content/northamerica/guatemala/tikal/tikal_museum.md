@@ -4,6 +4,7 @@ longitude: -89.6114
 tags:
 - things_to_do
 - museum
+snippet: Excavated jade, pottery, and a reconstructed royal burial
 title: Tikal Museum (Sylvanus G. Morley Museum)
 type: poi
 ---

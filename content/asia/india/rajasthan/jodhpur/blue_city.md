@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 26.2952
 longitude: 73.0203
+snippet: Indigo-washed old town below Mehrangarh, one of India's iconic views
 tags:
 - things_to_do
 - neighbourhood

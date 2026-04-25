@@ -1,6 +1,7 @@
 ---
 latitude: 4.8167
 longitude: -75.68
+snippet: Dramatic cable-stayed bridge linking Pereira and Dosquebradas
 tags:
 - landmark
 - things_to_do

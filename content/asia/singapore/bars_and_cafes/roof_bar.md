@@ -1,11 +1,13 @@
 ---
-title: "Roof Bar"
-type: poi
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 1.280781
 longitude: 103.84582
+snippet: Rooftop bar in Chinatown with skyline views after dark
+tags:
+- bars_and_cafes
+title: Roof Bar
+type: poi
 ---
 
-Located on the roof of a three storey building in the Chinatown district, this small bar offers a nice view of the city skyline, especially after sunset. Look for the sign hanging on the side of the building with "Roof Bar" spray painted on it :)
-
-**Contributors**
-May 05, 2005
+A small rooftop bar on top of a three-storey shophouse in Chinatown, marked by a "Roof Bar" sign sprayed on the side of the building. Unpretentious and low-key, it rewards the climb with good views of the city skyline, especially after sunset when the lights come on. Best visited on a dry evening.

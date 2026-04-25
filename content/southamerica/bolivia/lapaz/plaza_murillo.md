@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -16.4956
 longitude: -68.1332
+snippet: Bolivia's political heart with cathedral and presidential palace
 tags:
 - things_to_do
 - sight

@@ -5,6 +5,7 @@ longitude: -2.9799
 tags:
 - things_to_do
 - museum
+snippet: "Outstanding Pre-Raphaelite and old master collection"
 title: Walker Art Gallery
 type: poi
 ---

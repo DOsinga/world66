@@ -1,6 +1,7 @@
 ---
 title: "Odori Park"
 type: poi
+snippet: "Central park and Snow Festival venue with TV Tower views"
 tags:
   - things_to_do
   - sight

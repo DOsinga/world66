@@ -4,6 +4,7 @@ longitude: 4.3565
 tags:
 - things_to_do
 - neighbourhood
+snippet: Antiques quarter with weekend market, chocolatiers, and galleries
 title: Sablon / Zavel District
 type: poi
 ---

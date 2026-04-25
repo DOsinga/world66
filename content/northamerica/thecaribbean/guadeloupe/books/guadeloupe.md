@@ -1,6 +1,9 @@
 ---
 title: "Guadeloupe (Ulysses Travel Guide)"
 type: poi
+snippet: French-language guide to the islands
+tags:
+- books
 author: "Pascale Couture"
 isbn: "2894642822"
 ---

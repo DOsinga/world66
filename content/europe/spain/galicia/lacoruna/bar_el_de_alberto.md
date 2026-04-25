@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.3698
 longitude: -8.3968
+snippet: La Coruña tapas street with Galician wine and free tapas tradition
 tags:
 - bars_and_cafes
 title: Calle da Franja

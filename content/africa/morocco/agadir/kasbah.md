@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.4564
 longitude: -9.5921
+snippet: Hilltop fortress with sweeping views over Agadir bay
 tags:
 - things_to_do
 - sight

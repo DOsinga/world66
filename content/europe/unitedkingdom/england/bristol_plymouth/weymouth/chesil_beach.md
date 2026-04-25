@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.623
 longitude: -2.553
+snippet: Eighteen-mile shingle bank; pebbles grade by size along its length
 tags:
 - things_to_do
 - beach

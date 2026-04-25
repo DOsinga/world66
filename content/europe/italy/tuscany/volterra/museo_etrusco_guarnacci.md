@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.4007
 longitude: 10.8619
+snippet: One of Europe's oldest museums, rich in Etruscan art
 story: 'Among the museum''s 600 funerary urns is the Urna degli Sposi — the "Urn of
   the Spouses" — showing an elderly couple reclining together, carved with a realism
   and tenderness unusual for Etruscan art. The American writer D.H. Lawrence, who

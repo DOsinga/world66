@@ -1,14 +1,13 @@
 ---
 address: Via dei Vascellari 29, 00153 Rome
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8888
 longitude: 12.4714
 opening_hours: Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun
+snippet: Beloved Trastevere trattoria for Roman classics
 tags:
-- Eating in Trastevere
-- The Infatuation Rome
-- Time Out Rome
 - eating_out
-- trastevere
 - restaurant
 title: Trattoria Da Enzo al 29
 type: poi

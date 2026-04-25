@@ -3,6 +3,7 @@ address: 224 South Beverly Drive, Beverly Hills 90212
 latitude: 34.063916
 longitude: -118.3989
 phone: +1-310-859-8744
+snippet: Upscale chain steakhouse on Beverly Drive
 tags:
 - restaurants
 title: Ruth's Chris Steak House

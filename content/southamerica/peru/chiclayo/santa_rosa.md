@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -6.8536
 longitude: -79.9456
+snippet: Working fishing village with traditional reed boats on the beach
 tags:
 - beaches
 - beach

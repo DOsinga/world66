@@ -2,6 +2,7 @@
 address: Grotestraat 58, 6711 AN Ede
 latitude: 52.046065
 longitude: 5.671338
+snippet: "12th-century Gothic parish church at the heart of old Ede"
 tags:
 - things_to_do
 - landmark

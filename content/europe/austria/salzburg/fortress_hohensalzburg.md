@@ -1,7 +1,10 @@
 ---
 address: Mönchsberg 34, 5020 Salzburg
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.7949
 longitude: 13.0477
+snippet: Central Europe's largest preserved medieval fortress above the old town
 tags:
 - things_to_do
 - sight

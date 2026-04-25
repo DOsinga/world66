@@ -1,7 +1,10 @@
 ---
 address: Town Quay, Southampton SO14 2NY
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 50.8964
 longitude: -1.4029
+snippet: Medieval artillery tower turned archaeology museum on the quay
 tags:
 - things_to_do
 - architecture

@@ -5,8 +5,9 @@ tags:
   - eating_out
   - cafe
   - coffee
-email: "kitt4107@gmail.com"
-phone: "0818873379"
+snippet: Local café near Wat Yai with Thai coffee and rice dishes
+latitude: 16.8211
+longitude: 100.2659
 ---
 
-The shop is near Wat Yai and Topland Hotel on Jakarnboon Street. A five-hundred-metre walk from the Topland Hotel. Serves 100% arabica coffee including espresso, cappuccino, latte, and mocha, plus roast bread, Thai old-style coffee, and simple main dishes such as fried rice and spicy chicken rice with eggs. Fresh juices also available.
+A small local café on Jakarnboon Street, about a five-minute walk from the Topland Hotel and close to Wat Yai. They serve proper arabica coffee — espresso, cappuccino, latte — alongside old-style Thai coffee, fresh juices, and simple mains like fried rice and spicy chicken rice with egg. Nothing fancy, but a good spot to refuel between temples.

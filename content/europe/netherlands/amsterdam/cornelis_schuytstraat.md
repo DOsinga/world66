@@ -2,7 +2,9 @@
 category: Street
 latitude: 52.3516
 longitude: 4.8751
+snippet: Oud-Zuid neighbourhood street with cheese, flowers, and local cafes
 tags:
+- things_to_do
 - oud_zuid
 title: Cornelis Schuytstraat
 type: poi

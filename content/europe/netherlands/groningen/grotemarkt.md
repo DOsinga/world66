@@ -1,6 +1,8 @@
 ---
 latitude: 53.218802
 longitude: 6.567291
+snippet: Groningen's central square beneath the Martini Tower, market days Tuesday
+  and Saturday.
 tags:
 - things_to_do
 - neighbourhood

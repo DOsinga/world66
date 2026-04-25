@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
+image: luangprabang.jpg
+image_attribution: Basile Morin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Landscape_with_rainbow_and_the_Old_Bridge_over_the_Nam_Khan_river_in_Luang_Prabang_Laos.jpg
 latitude: 19.888744
 longitude: 102.135898
 score: 0.72
 title: Luang Prabang
 type: location
-image: luangprabang.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Landscape_with_rainbow_and_the_Old_Bridge_over_the_Nam_Khan_river_in_Luang_Prabang_Laos.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Basile Morin
 ---
 
 Luang Prabang is quite possibly the most beautiful small city in Southeast Asia. Set on a peninsula where the Nam Khan meets the Mekong, the UNESCO World Heritage old town is a tapestry of gilded temples, French colonial buildings, and traditional wooden houses shaded by frangipani trees.

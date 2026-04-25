@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.8133
 longitude: -1.7606
+snippet: Working wool-textile mill with preserved workers' cottages in Eccleshill
 tags:
 - things_to_do
 - museum

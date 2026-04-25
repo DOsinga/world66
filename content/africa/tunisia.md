@@ -1,16 +1,22 @@
 ---
-title: Tunisia
-type: location
-latitude: 33.843941
-longitude: 9.400138
-image: tunisia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:TunisiaCoins.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Sudar.sam&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Sudar.sam (page does not exist)">Sam Sudar</a>
 done:
   country_cleanup: 2026-03-31
+  poi_cleanup: '2026-04-19'
+image: tunisia.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Sudar.sam&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Sudar.sam (page does not exist)">Sam Sudar</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:TunisiaCoins.jpg
+latitude: 33.843941
+longitude: 9.400138
+quick_facts:
+  Population: "12 million"
+  Languages: "Arabic & French"
+  UNESCO Sites: "8"
+  Star Wars Filmed: Matmata
 score: 0.45
+title: Tunisia
+type: location
 ---
 
 Tunisia is more than an excellent place to play golf in the winter: on a small surface you can find real deserts with beuatiful oasis, old cities, lots of carpets and fine beaches. Combined with the good climate, warm people and good opportunities for a relaxed holiday makes Tunisia a popular destination. 

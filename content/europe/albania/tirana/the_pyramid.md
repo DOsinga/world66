@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.3245
 longitude: 19.8183
+snippet: Brutalist landmark turned youth tech hub
 tags:
 - things_to_do
 title: The Pyramid (Piramida)

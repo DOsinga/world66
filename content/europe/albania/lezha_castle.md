@@ -1,7 +1,14 @@
 ---
-title: "Lezha Castle"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 41.7833
+longitude: 19.6436
+snippet: Castle ruins with sweeping views of coast and mountains
+tags:
+- things_to_do
+- sight
+title: Lezha Castle
 type: poi
-coordinates: [41.7833, 19.6436]
 ---
 
 Before you spend the afternoon on the beach in Shengjin, take the

@@ -1,6 +1,7 @@
 ---
 title: "Sam Son Beach"
 type: poi
+snippet: Popular Hanoi escape with mountain-backed sandy beach
 tags: [things_to_do, beach, sights]
 latitude: 19.7440
 longitude: 105.9067

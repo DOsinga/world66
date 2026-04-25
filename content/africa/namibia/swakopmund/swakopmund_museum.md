@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.6791
 longitude: 14.5237
+snippet: Namibia's largest private museum, strong on Namib Desert natural history
 tags:
 - things_to_do
 - museum

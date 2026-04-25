@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.48
 longitude: -84.25
+snippet: Oak-canopied roads draped in Spanish moss
 tags:
 - things_to_do
 - sight

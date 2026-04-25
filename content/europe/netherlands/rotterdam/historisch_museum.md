@@ -1,7 +1,10 @@
 ---
 address: Rodezand 26
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.9213
 longitude: 4.4804
+snippet: City history museum in a rare surviving 17th-century building
 tags:
 - things_to_do
 - museum

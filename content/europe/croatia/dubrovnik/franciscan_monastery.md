@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.6417
 longitude: 18.1069
+snippet: Medieval monastery with Europe's oldest pharmacy and a serene Romanesque
+  cloister.
 tags:
 - things_to_do
 - sight

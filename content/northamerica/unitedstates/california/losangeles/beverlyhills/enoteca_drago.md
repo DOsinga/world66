@@ -3,8 +3,10 @@ address: 410 N. Canon Dr., Beverly Hills
 latitude: 34.070933
 longitude: -118.401072
 phone: 310-786-8236
+snippet: Italian wine bar with small plates on Canon Drive
 tags:
-- restaurants
+- eating_out
+- restaurant
 title: Enoteca Drago
 type: poi
 ---

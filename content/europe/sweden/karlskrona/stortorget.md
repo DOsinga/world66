@@ -1,6 +1,7 @@
 ---
 latitude: 56.1607
 longitude: 15.5862
+snippet: Grand baroque square flanked by twin churches, planned by King Karl XI in 1680
 story: The square was designed wide enough to muster the entire navy garrison for
   inspection — standing at its centre, flanked by two baroque churches, you get a
   visceral sense of what Sweden's military ambitions once demanded.

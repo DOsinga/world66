@@ -1,6 +1,7 @@
 ---
 title: "Henequen Haciendas"
 type: poi
+snippet: Restored sisal estates showing Yucatan's henequen-boom wealth
 tags:
   - things_to_do
   - historical_site

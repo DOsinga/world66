@@ -1,6 +1,7 @@
 ---
 latitude: 18.2376
 longitude: -63.0196
+snippet: "Anguilla's most famous beach, powdery white sand and turquoise water"
 tags:
 - things_to_do
 - landmark

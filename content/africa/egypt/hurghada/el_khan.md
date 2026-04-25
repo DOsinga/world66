@@ -1,8 +1,11 @@
 ---
 address: Safaga Road, Hurghada
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 27.208
 longitude: 33.83
 phone: +20 65 443251
+snippet: No-frills Egyptian food popular with locals
 tags:
 - eating_out
 title: El Khan

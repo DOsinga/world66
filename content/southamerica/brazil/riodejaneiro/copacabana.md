@@ -8,6 +8,7 @@ tags:
 - palace
 title: Copacabana
 type: poi
+snippet: "Rio's iconic four-kilometre beach and vibrant neighbourhood"
 ---
 
 Perhaps the most famous beach in the world, Copacabana stretches four kilometres in a wide arc along Rio's Zona Sul. The distinctive Portuguese wave-pattern pavement along Avenida Atlantica is an icon in its own right. The beach is divided into *postos* (sections marked by lifeguard stations), each known for a different crowd -- families, athletes, artists.

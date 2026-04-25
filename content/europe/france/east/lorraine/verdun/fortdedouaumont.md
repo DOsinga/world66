@@ -1,7 +1,12 @@
 ---
 title: "Fort de Douaumont"
 type: poi
-tags: [things_to_do, fort, history, wwi]
+snippet: "Largest WWI fort at Verdun, captured by Germany in 1916"
+tags:
+- things_to_do
+- fort
+- history
+- wwi
 address: "Douaumont, 55100 Verdun"
 latitude: 49.2221
 longitude: 5.4304

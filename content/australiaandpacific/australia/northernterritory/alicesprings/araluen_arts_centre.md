@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -23.7139
 longitude: 133.8742
+snippet: Aboriginal art galleries and the Namatjira collection
 tags:
 - things_to_do
 - museum

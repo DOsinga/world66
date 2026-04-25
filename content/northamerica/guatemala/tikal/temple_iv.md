@@ -1,6 +1,7 @@
 ---
 latitude: 17.2236
 longitude: -89.6272
+snippet: Tallest pre-Columbian structure with jungle canopy views
 tags:
 - things_to_do
 - landmark

@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
-  poi_cleanup: '2026-04-21'
+  poi_cleanup: '2026-04-19'
 image: popayan.jpg
 image_attribution: Junior Segura fotografía
 image_license: CC0

@@ -1,14 +1,16 @@
 ---
-title: "Alibabas World Famous Bar & Restaurant"
-type: poi
-tags:
-  - bars_and_cafes
-  - bar
-address: "Tong Ad Road"
-phone: "(86-22)2351-3976"
+address: Tong Ad Road
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 39.1077
 longitude: 117.1782
+phone: (86-22)2351-3976
+snippet: Expat institution near the university, cheap beer
+tags:
+- bars_and_cafes
+- bar
+title: Alibabas World Famous Bar & Restaurant
+type: poi
 ---
 
-Alibabas has always been at the top of the heap for nightlife in guidebooks until this year when they over looked it thinking that it was out of business. Truth be told, the old building was demolished and Alibabas moved across from the University in a small Alley. Still same ownership and employees. Now they offer free internet access and have a "take a book / leave a book" program. Beer is still the best deal in town at 8 RMB ($1) per 600ml bottle! Food is cheap but service can be very slow. Still the most lively place in town for expats on friday and saturday nights.
-'Baba's prides itself on the ragged appearance of its customers. As long as it covers your feet and your privates you will be welcome
+Alibabas has long been the top of the heap for nightlife among Tianjin expats. The original building was demolished and Alibabas relocated across from the university, tucked into a small alley — same ownership, same employees, same spirit. Beer is the best deal in town at 8 RMB a 600ml bottle, food is cheap, and on Friday and Saturday nights it's the liveliest gathering spot for foreigners in the city. They've added free internet and a take-a-book/leave-a-book shelf. Service can be slow. Dress code is non-existent — as long as it covers your feet and your privates, you're welcome.

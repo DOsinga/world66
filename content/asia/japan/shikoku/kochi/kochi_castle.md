@@ -1,12 +1,22 @@
 ---
-title: "Kōchi Castle"
-type: poi
-tags:
-  - things_to_do
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.5614
 longitude: 133.5311
-story: >
-  Of the twelve original Japanese castles that survive — meaning never burned down and rebuilt — Kōchi-jo is the only one that retains its complete inner citadel, including the lord's residential quarters (*goten*) alongside the keep. Most castles lost the residential buildings long ago. Walking through the goten, you get an unusually domestic sense of what castle life was actually like.
+snippet: one of Japan's twelve surviving original castles, fully intact
+story: 'Of the twelve original Japanese castles that survive — meaning never burned
+  down and rebuilt — Kōchi-jo is the only one that retains its complete inner citadel,
+  including the lord''s residential quarters (*goten*) alongside the keep. Most castles
+  lost the residential buildings long ago. Walking through the goten, you get an unusually
+  domestic sense of what castle life was actually like.
+
+  '
+tags:
+- things_to_do
+- sight
+- architecture
+title: Kōchi Castle
+type: poi
 ---
 
 Kōchi Castle is the city's defining landmark and one of the finest original castles in Japan. Built in the early 17th century and completed in its current form in 1753 after a fire, it sits on Kōtaka Hill at the centre of the city — a short walk from the tram stop at Kōchi-jo-mae. The keep is small by the standards of Osaka or Nagoya, but the setting is beautiful: stone walls rising in stages through the trees, white plaster walls gleaming above.

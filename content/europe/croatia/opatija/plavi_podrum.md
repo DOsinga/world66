@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.3447
 longitude: 14.3103
+snippet: Celebrated harbourside restaurant for Adriatic seafood
 tags:
 - eating_out
+- restaurant
 title: Plavi Podrum
 type: poi
 ---

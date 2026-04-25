@@ -2,9 +2,12 @@
 address: Viale Miramare, Trieste
 admission: Park free; castle interior €15 adults, €2 reduced (EU citizens 18–25),
   free under 18
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.704138
 longitude: 13.713103
 opening_hours: Check website for current hours
+snippet: White seaside castle built for a Habsburg archduke
 tags:
 - One Day in Trieste
 - things_to_do

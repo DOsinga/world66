@@ -1,9 +1,10 @@
 ---
 latitude: 13.751
 longitude: 100.4942
+snippet: Bangkok's city pillar shrine where wishes are granted
 tags:
 - things_to_do
-- palace
+- temple
 title: Lak Muang
 type: poi
 ---

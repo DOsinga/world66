@@ -3,6 +3,7 @@ address: Sukhumvit Soi 3/1
 latitude: 13.7447
 longitude: 100.5539
 opening_hours: Daily 9 am to 2 am
+snippet: Arabic and Yemeni food on Sukhumvit's Middle Eastern strip
 tags:
 - eating_out
 - restaurant

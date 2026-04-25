@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.2648
 longitude: -81.5652
+snippet: Regional history museum covering the Ohio Valley and Burr conspiracy
 tags:
 - things_to_do
 - museum

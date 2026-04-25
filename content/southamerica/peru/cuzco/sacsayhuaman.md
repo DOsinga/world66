@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -13.4783
 longitude: -71.9823
+snippet: Inca fortress with 125-tonne stones still perfectly fitted
 tags:
 - things_to_do
 - landmark

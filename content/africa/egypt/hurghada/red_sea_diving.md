@@ -1,6 +1,7 @@
 ---
 latitude: 27.2222
 longitude: 33.8307
+snippet: Warm, clear water with exceptional reef diving
 tags:
 - things_to_do
 title: Red Sea Diving

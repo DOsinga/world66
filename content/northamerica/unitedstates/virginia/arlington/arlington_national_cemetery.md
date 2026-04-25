@@ -1,6 +1,7 @@
 ---
 latitude: 38.8786
 longitude: -77.0694
+snippet: Over 400,000 graves, the Tomb of the Unknown Soldier
 story: The Tomb of the Unknown Soldier has been guarded continuously since 1937 —
   through hurricanes, blizzards, and even a 2003 ice storm when the sentinels requested
   permission to remain at their post despite the dangerous conditions.

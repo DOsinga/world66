@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Cattle_of_the_Dinka_people
 image_license: CC BY-SA 2.0
 image_attribution: Ranjit Bhaskar, <i>via</i> <a rel="nofollow" class="external text"
   href="https://www.flickr.com/people/32834977@N03">Al Jazeera English</a>.
+quick_facts:
+  Population: "11 million"
+  Independence: "2011 (world's youngest country)"
+  Paved Roads: "Less than 2%"
+  White Nile: "Flows through the country north to south"
 done:
   country_cleanup: 2026-03-31
 score: 0.18

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 1.4039
 longitude: 103.9607
+snippet: Rustic kampong hub with bike hire and seafood at the pier
 tags:
 - things_to_do
 title: Ubin Village

@@ -1,8 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.9548
 longitude: 35.9342
+snippet: hilltop ruins spanning Roman, Byzantine and Umayyad civilisations
 tags:
 - things_to_do
+- sight
+- architecture
 title: Amman Citadel
 type: poi
 ---

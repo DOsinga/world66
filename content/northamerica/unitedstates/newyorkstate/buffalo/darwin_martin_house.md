@@ -2,6 +2,7 @@
 address: 125 Jewett Parkway
 latitude: 42.933
 longitude: -78.8585
+snippet: "Frank Lloyd Wright's finest Prairie Style complex, meticulously restored"
 tags:
 - things_to_do
 - architecture

@@ -1,9 +1,12 @@
 ---
 title: "Brest Fortress"
 type: poi
-category: Sight
+tags:
+- things_to_do
+- history
 latitude: 52.087148
 longitude: 23.654722
+snippet: "Haunting WWII memorial where defenders held out against the German invasion"
 story: >
   When the German attack came at dawn on 22 June 1941, the fortress garrison was
   completely surrounded within hours. Outnumbered and cut off, defenders held out

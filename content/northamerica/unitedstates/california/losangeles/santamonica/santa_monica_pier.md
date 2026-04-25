@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.0083
 longitude: -118.4985
+snippet: Iconic century-old pleasure pier with Ferris wheel and carousel
 tags:
 - things_to_do
 - sight

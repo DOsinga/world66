@@ -1,6 +1,7 @@
 ---
 latitude: 59.8554
 longitude: 17.634
+snippet: Gustav Vasa's pink hilltop fortress where Queen Christina abdicated in 1654.
 tags:
 - things_to_do
 - sight

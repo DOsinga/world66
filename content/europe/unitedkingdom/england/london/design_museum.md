@@ -1,10 +1,13 @@
 ---
 address: 224-238 Kensington High Street, London W8 6AG
 admission: Free (special exhibitions charged)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.499722
 longitude: -0.200833
 opening_hours: Daily 10am-6pm
 phone: +44 20 3862 5900
+snippet: World-class design collection in a striking Kensington building
 tags:
 - things_to_do
 - museum

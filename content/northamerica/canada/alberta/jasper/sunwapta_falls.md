@@ -1,6 +1,7 @@
 ---
-latitude: 52.5323
-longitude: -117.6446
+latitude: 52.1572
+longitude: -117.6391
+snippet: "Powerful falls where a river plunges into a narrow limestone canyon"
 tags:
 - things_to_do
 - landmark

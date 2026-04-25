@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 34.274
 longitude: 109.048
+snippet: 6,000-year-old Neolithic village excavation site
 tags:
 - things_to_do
 - museum

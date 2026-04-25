@@ -2,6 +2,7 @@
 admission: Free
 latitude: 41.8893
 longitude: 12.4703
+snippet: "Rome's most atmospheric neighbourhood — cobblestones, medieval alleys, and trattorias west of the Tiber"
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

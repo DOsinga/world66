@@ -1,4 +1,5 @@
 ---
+snippet: "Kerouac's dark novel of breakdown on the Big Sur coast"
 title: "Big Sur"
 type: poi
 author: "Jack Kerouac"

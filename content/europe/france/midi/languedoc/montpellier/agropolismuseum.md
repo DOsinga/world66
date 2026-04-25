@@ -1,18 +1,14 @@
 ---
-category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.646294
 longitude: 3.867941
-title: AGROPOLIS MUSEUM
+snippet: Former food and agriculture museum, now permanently closed
+tags:
+- things_to_do
+- museum
+title: Agropolis Museum
 type: poi
 ---
 
-It is the cultural way of expression of Agropolis' scientific community. It presents the History and 
- Future of Food in the world. 
-
-Location : 951, avenue d'Agropolis 
-
-Tel : (33) 04 67 04 75 04 
-
-Visits : Daily from 14:00 to 18:00. Closed : Tuesdays. 
-
-Admission Fee (21 FF) . Under 10 : Free. Unemployed, retired persons,... : 15 FF.
+The Agropolis Museum was dedicated to the history of food and agriculture worldwide, run by the Agropolis scientific community on avenue d'Agropolis in Montpellier's northern university district. The museum permanently closed in 2010 due to funding cuts. The building still houses Agropolis International, a research association, but is no longer open to visitors.

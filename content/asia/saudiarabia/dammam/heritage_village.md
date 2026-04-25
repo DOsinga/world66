@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - museum
   - historic_site
+snippet: Traditional museum of Eastern Province life before and during oil
 address: "Old City, Dammam, Eastern Province"
 latitude: 26.4282
 longitude: 50.0972

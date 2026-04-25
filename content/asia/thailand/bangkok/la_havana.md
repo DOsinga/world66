@@ -1,7 +1,10 @@
 ---
 address: 6/5/6 Sukhumvit Soi 22
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.7227
 longitude: 100.5658
+snippet: 'Bangkok''s best Latin venue: Cuban food, salsa, and Chilean hosts.'
 tags:
 - bars_and_cafes
 - bar

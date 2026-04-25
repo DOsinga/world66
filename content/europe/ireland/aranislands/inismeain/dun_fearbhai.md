@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.0821
 longitude: -9.572
+snippet: Unusual square-shaped stone fort on Inis Meáin's eastern cliffs
 tags:
 - things_to_do
 - landmark

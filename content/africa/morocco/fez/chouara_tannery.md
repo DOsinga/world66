@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - fes_el_bali
 - landmark
+snippet: "Medieval tannery with stone dye vats in operation since the 11th century"
 title: Chouara Tannery
 type: poi
 ---

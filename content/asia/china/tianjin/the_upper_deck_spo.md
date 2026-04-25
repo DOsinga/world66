@@ -8,8 +8,9 @@ address: "No. 107 MeiJiang Road, Hexi District"
 phone: "(86-22)8836-9177"
 latitude: 39.067054
 longitude: 117.208599
+snippet: "Tianjin's go-to sports bar with big screens and food"
 ---
 
-The Upper Deck, or TUD, is the only Sports Bar & Grill in town. Food is excellent and atmosphere is very up to date and comfortable. Offers a segregated non-smoking section (very rare in China) and a kids room. Very popular with professionals and families. Big Screen TV for sporting events. TUD also sponsors an International Golf Club with free membership! May be a little pricey for backpackers and students. Below is a blurb from their web site: The Upper Deck is Tianjin's Best Sports Bar & Grill. Not only do we provide a great atmosphere and excellent food, we also host a variety of special events. From Super Bowl and World Series Parties to Holiday Celebrations. The Upper Deck is your home away from home in Tianjin!
+The Upper Deck is a long-standing sports bar and grill in the Hexi District, popular with expats, professionals, and families. Big screens cover the major sporting events, and the kitchen turns out reliable Western food. There's a non-smoking section — a genuine rarity in China — and a kids' room.
 
-Casual dress is fine. Some customers on their way home from work may be sporting a business suit but it is not expected or required.
+Not the cheapest night out in Tianjin, but the atmosphere is easy and the service friendly. Casual dress is fine.

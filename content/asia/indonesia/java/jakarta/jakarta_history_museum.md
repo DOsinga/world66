@@ -1,14 +1,14 @@
 ---
 latitude: -6.1352
 longitude: 106.8133
+snippet: Dutch colonial town hall on Fatahillah Square, now Jakarta's history museum.
 story: The building served as the Batavia town hall and later as a prison. Prisoners
   were shackled in the flooded basement cells at high tide — conditions that gave
   it one of the darkest reputations in colonial Southeast Asia.
 tags:
 - things_to_do
 - museum
-- square
-- neighbourhood
+- history
 title: Jakarta History Museum
 type: poi
 ---

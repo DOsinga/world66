@@ -1,6 +1,7 @@
 ---
 title: "Cherokee National Capitol"
 type: poi
+snippet: "1867 Cherokee government seat, now a National Historic Landmark"
 tags:
   - things_to_do
   - sight

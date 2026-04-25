@@ -1,7 +1,10 @@
 ---
 title: "Celtic Hill-fort of Castro de Baroña"
 type: poi
-category: "Sight"
+snippet: "Best-preserved Celtic castro in Galicia, on a dramatic Atlantic peninsula"
+tags:
+- things_to_do
+- sight
 latitude: 42.7383
 longitude: -8.9968
 ---

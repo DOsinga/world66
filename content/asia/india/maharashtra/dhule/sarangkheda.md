@@ -1,6 +1,7 @@
 ---
 latitude: 21.433671
 longitude: 74.527866
+snippet: "Dattatreya shrine and one of India's largest horse fairs"
 tags:
 - things_to_do
 - temple

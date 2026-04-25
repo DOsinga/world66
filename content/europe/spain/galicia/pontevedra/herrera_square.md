@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.432054
 longitude: -8.644763
+snippet: Arcaded old-town square with the scallop-shell chapel
 tags:
 - things_to_do
 - landmark

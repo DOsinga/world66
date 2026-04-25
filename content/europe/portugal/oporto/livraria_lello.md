@@ -5,6 +5,7 @@ longitude: -8.6147
 story: The twisting red staircase and gothic-fantasy interior supposedly inspired
   J.K. Rowling during her years teaching English in Porto. The shop charges a small
   entry fee — redeemable against book purchases — because of the queues.
+snippet: Stunning neo-gothic bookshop with iconic twisting red staircase
 tags:
 - things_to_do
 - landmark

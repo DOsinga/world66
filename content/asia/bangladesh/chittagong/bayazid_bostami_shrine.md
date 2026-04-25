@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.4001
 longitude: 91.788
+snippet: Sufi shrine famous for its sacred soft-shelled turtles
 tags:
 - things_to_do
 title: Bayazid Bostami Shrine

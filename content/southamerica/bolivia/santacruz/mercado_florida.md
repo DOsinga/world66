@@ -1,10 +1,13 @@
 ---
 address: Florida, just within the first anillo
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -17.787
 longitude: -63.176
+snippet: Bustling market with saltenas, fresh juices, and barbecued fish
 tags:
-- eating_out
-- restaurant
+- food
+- market
 title: Mercado Florida
 type: poi
 ---

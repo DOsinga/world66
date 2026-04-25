@@ -1,6 +1,7 @@
 ---
 latitude: 30.4217
 longitude: -9.6002
+snippet: Central covered market for spices, fruit, and crafts
 tags:
 - things_to_do
 - sight

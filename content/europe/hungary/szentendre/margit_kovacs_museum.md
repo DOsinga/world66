@@ -1,5 +1,6 @@
 ---
 title: "Margit Kovács Museum"
+snippet: "Celebrated Hungarian ceramic artist's life work in one collection"
 type: poi
 tags: [things_to_do, museum]
 address: "Vastagh György u. 1"

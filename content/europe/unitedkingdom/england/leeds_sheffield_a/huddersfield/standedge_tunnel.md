@@ -5,6 +5,7 @@ story: When the tunnel opened in 1811, boatmen had to 'leg' their narrowboats th
   by lying on the roof and walking against the tunnel ceiling — a three-hour journey
   in complete darkness, 196 metres underground. The horses were walked over the Pennine
   hills to meet the boats on the other side.
+snippet: Britain's longest and highest canal tunnel under the Pennines
 tags:
 - things_to_do
 - sight

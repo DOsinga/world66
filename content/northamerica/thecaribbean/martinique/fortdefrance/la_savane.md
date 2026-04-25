@@ -1,6 +1,7 @@
 ---
 title: "La Savane"
 type: poi
+snippet: "Waterfront park with a headless statue of Empress Josephine"
 tags:
   - things_to_do
   - park

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.7789
 longitude: -1.7514
+snippet: Medieval manor house museum with Tudor panelling and ghost lore
 tags:
 - things_to_do
 - museum

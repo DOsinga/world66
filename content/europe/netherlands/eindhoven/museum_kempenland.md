@@ -1,6 +1,7 @@
 ---
 latitude: 51.4393
 longitude: 5.477
+snippet: Regional history museum inside a converted church
 tags:
 - things_to_do
 - museum

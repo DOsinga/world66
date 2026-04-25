@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.6463
 longitude: 104.0489
+snippet: Lantern-lit Qing-dynasty street with Sichuan street food
 tags:
 - things_to_do
 - neighbourhood

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.4396
 longitude: -84.2814
+snippet: Free state museum with mastodon skeleton and deep Florida history
 tags:
 - things_to_do
 - museum

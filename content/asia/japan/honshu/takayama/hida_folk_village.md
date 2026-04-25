@@ -2,6 +2,7 @@
 title: "Hida Folk Village (Hida no Sato)"
 type: poi
 address: "1-590 Kamiokamoto-machi, Takayama"
+snippet: Open-air museum of 30-plus traditional gassho-zukuri thatched farmhouses
 tags: [things_to_do, museum]
 url: "www.hidanosato.jp"
 latitude: 36.148601

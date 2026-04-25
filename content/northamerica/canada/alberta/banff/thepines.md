@@ -1,14 +1,14 @@
 ---
-latitude: 56.232595
-longitude: -117.310045
+address: Rundlestone Lodge, 537 Banff Ave, Banff
+latitude: 51.1801
+longitude: -115.5688
+phone: "+1 403 760-6690"
+snippet: Canadian fine dining with game and regional wines
 tags:
 - eating_out
 - restaurant
-- theatre
-title: The Pines .
+title: The Pines
 type: poi
 ---
 
-Creative Canadian cuisine and select Canadian wines and beers at this elegant new restaurant operated by the well-regarded Ticino group. Rack of venison, Alberta beef tenderloin, sesame camembert chicken, yogurt morel lamb, gingered tuna, crayfish and mussels in broth, and cilantro rigatoni (entrées $15-$32). Continental breakfast buffet ($6), full buffet ($9) or order a la carte. Daily 7-10:30 am and 5:30-10:30 pm. Banquet room and lounge adjacent. 
- Tel: 1 403 760-6690 
- Address: Rundlestone Lodge, 537 Banff Ave, Banff AB T0L 0C0
+A fine-dining restaurant at the Rundlestone Lodge on Banff Avenue, serving creative Canadian cuisine with an emphasis on regional ingredients. The menu leans toward game and Alberta beef, paired with Canadian wines and craft beers. A good option for a proper sit-down dinner after a day in the mountains.

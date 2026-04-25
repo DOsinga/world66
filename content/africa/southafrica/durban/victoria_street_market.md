@@ -1,6 +1,7 @@
 ---
 latitude: -29.8568
 longitude: 31.0156
+snippet: Bustling Indian quarter market for spices, fabric, and brassware
 tags:
 - things_to_do
 - landmark

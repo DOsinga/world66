@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.0240
 longitude: -6.8215
+snippet: "Unfinished 12th-century minaret surrounded by hundreds of mosque columns"
 story: "Sultan Yacoub al-Mansour intended it to be the minaret of the largest mosque in the world. He died in 1199 before it was finished; at 44 metres, it stands at less than half its planned height. The earthquake of 1755 toppled what was built of the mosque itself, leaving only the columns."
 ---
 

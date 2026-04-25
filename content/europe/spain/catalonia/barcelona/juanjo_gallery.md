@@ -1,31 +1,13 @@
 ---
-accessibility: 'monday-saturday: from 11.00 to 20.30'
-address: Elisabets 20. BCN 08011
-email: laura@juan-jo.com
+address: Elisabets 20, Barcelona 08011
 latitude: 41.383082
 longitude: 2.168099
 phone: '933928900'
+snippet: Handcrafted leather jackets and bags in El Raval
 tags:
 - shopping
 title: Juan-Jo Gallery
 type: poi
-url: www.juan-jo.com
 ---
 
-Juan-Jo Gallery is at Elisabets 20 in El Raval. They design, make and sell wonderful jackets and leather complements. You can't find similar quality in BCN. Also they have very good prices. The point is these people are working in leather for more than 40 years and they know very well their job.
-
-What To Buy: Jackets, bags and hats. Also different buckles & belts you can combine at your choice.
-
-What To Pay: 95 euros for a magnificent bag in Spanish leather. Jackets betwen 250 and 450 euros.
-
-Phone: 933028900
-Address: Elisabets 20 Barcelona
-Directions: The shop is in El Raval, at 50 meters from MACBA Museum. Is surrounded by other interesting shops: Camper, Twiggy, Vialis...
-
-type: Speciality shops
-
-
-
-
-
-accessibility: monday-saturday: from 11.00 to 20.30
+A leather workshop and shop on Carrer d'Elisabets in El Raval, steps from the MACBA. Juan-Jo has been crafting leather goods here for over 40 years — jackets, bags, belts, and hats, all made on-site. The quality is high and the prices are fair for handmade work. Worth a browse if you're in the neighbourhood.

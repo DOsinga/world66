@@ -4,11 +4,10 @@ email: mail@operabar.com.au
 latitude: -33.8568
 longitude: 151.2153
 phone: +61 2 9247 1666
+snippet: Outdoor bar beneath the Opera House, stunning harbour views
 tags:
 - bars_and_cafes
 - bar
-- bridge
-- theatre
 title: Opera Bar
 type: poi
 url: www.operabar.com.au

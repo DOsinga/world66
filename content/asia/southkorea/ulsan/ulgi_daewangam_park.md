@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.4953
 longitude: 129.4315
+snippet: Coastal park with legendary dragon rock and cherry blossoms
 tags:
 - things_to_do
 - nature

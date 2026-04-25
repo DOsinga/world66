@@ -2,6 +2,7 @@
 address: Rua D. Manuel II
 latitude: 41.1474
 longitude: -8.6232
+snippet: Hilltop gardens with peacocks and sweeping river views
 tags:
 - things_to_do
 - landmark

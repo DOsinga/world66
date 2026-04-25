@@ -1,4 +1,5 @@
 ---
+snippet: Train connections from Seoul, Gyeongju, and Busan
 tags:
 - getting_there
 title: By Train

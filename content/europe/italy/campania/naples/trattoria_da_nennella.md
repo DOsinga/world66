@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - neighbourhood
+snippet: "Boisterous Spanish Quarter trattoria with theatrical waiters"
 title: Trattoria da Nennella
 type: poi
 ---

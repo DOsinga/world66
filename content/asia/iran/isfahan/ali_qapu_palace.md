@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 32.6574
 longitude: 51.6766
+snippet: Six-storey royal grandstand overlooking Naqsh-e Jahan Square
 tags:
 - things_to_do
 - landmark

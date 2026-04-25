@@ -2,6 +2,7 @@
 address: Nikis Avenue, Thessaloniki
 latitude: 40.6264
 longitude: 22.9484
+snippet: Iconic Ottoman tower with panoramic bay views
 tags:
 - things_to_do
 - landmark

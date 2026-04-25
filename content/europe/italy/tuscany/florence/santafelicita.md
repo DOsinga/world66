@@ -1,7 +1,10 @@
 ---
 address: Piazza Santa Felicita, 50125 Florence
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.7672
 longitude: 11.2523
+snippet: Home to Pontormo's extraordinary Mannerist Deposition
 tags:
 - things_to_do
 - church

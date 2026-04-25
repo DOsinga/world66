@@ -1,30 +1,13 @@
 ---
-address: warmoesstraat 12
-email: +31(0)20 4217000
-latitude: 52.380429
-longitude: 4.636409
-phone: '0031'
+address: Warmoesstraat 12
+latitude: 52.377465
+longitude: 4.898425
+phone: +31 20 421 7000
+snippet: "Large smartshop near Central Station with broad selection"
 tags:
 - drugs
-title: Kokopelli, conscious dreams
+title: Kokopelli, Conscious Dreams
 type: poi
-url: www.consciousdreams.nl
 ---
 
-' The Good Mood Smart-shop '
-
-Following the success of the first Conscious Dreams shop in the Kerkstraat, Conscious Dreams Kokopelli opened her doors in May 1997. A unique big smart-warehouse in the middle of the Amsterdam Red Light District, only 1 minute walk away from Central Station. You will find a broad spectrum of smart products like magic mushrooms, herbal ecstacies, aphrodisiacs, herbs and all kinds of rare plants.
-Kokopelli carries a specialised range of psychedelic books & cds and a changing collection of native art expressions.
-You can use the Internet facilities to expand your knowledge on psychedelic and spiritual topics.
-
-
-
-
-
-tel: 0031
-
-url: [www.consciousdreams.nl](http://www.consciousdreams.nl/shops/kokopelli/)
-
-address: warmoesstraat 12
-
-email: +31(0)20 4217000
+One of Amsterdam's bigger smartshops, located on Warmoesstraat just a minute from Central Station in the Red Light District. Kokopelli stocks the usual range of truffles, herbal supplements, aphrodisiacs, and ethnobotanical plants, plus a selection of psychedelic literature and art. The staff are knowledgeable and happy to advise first-timers on dosage and effects. Open since 1997.

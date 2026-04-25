@@ -1,7 +1,9 @@
 ---
 title: "Ironstone Vineyards"
 type: poi
-category: Sight
+snippet: Winery with wine caves and a Gold Rush museum
+tags:
+- things_to_do
 latitude: 38.1297
 longitude: -120.4831
 ---

@@ -2,6 +2,7 @@
 title: "La Caleta de Vélez"
 type: poi
 tags: [things_to_do, sight, harbour]
+snippet: "Working fishing harbour with great fresh seafood restaurants"
 latitude: 36.7469
 longitude: -4.0694
 ---

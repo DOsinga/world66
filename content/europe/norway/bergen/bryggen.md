@@ -2,14 +2,11 @@
 title: "Bryggen"
 type: poi
 tags: [things_to_do, sight]
-latitude: 60.397726
-longitude: 5.322933
+snippet: "UNESCO-listed Hanseatic wharf with colourful timber facades"
+latitude: 60.3977
+longitude: 5.3229
 ---
 
-Facing the water from the market, you will see the impressive old buildings of Bryggen to your right across the water. These are reminiscent of the days when Bergen was an important port of the Hanseatic League.
+The row of colourful wooden buildings along Bergen's harbour is Bryggen, a UNESCO World Heritage Site and the most photographed spot in the city. These narrow timber structures date back to the Hanseatic period, when German merchants ran a trading empire in dried fish from this wharf. Several devastating fires have swept through over the centuries, but the buildings were always rebuilt in the same style.
 
-Now the buildings form museums, restaurants and expensive shops.
-
-Usually these buildings are photographed from the front [as in the website below] but the rear is also worth seeing.
-
-url: [www.globosapiens.net](http://www.globosapiens.net/voyager/ picture-old-bryggen)
+Today the facades house museums, galleries, and shops. The Hanseatic Museum inside one of the original buildings gives a vivid sense of how the merchants lived — cramped quarters, no heating allowed because of fire risk. Walk around the back of the buildings too; the narrow alleyways between the wooden structures are atmospheric and far less crowded than the waterfront.

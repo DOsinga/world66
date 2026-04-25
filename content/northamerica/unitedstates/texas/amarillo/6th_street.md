@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - neighbourhood
 - shopping
+snippet: Route 66 antique and vintage district with neon-lit storefronts
 title: Historic 6th Street
 type: poi
 ---

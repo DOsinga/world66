@@ -1,6 +1,7 @@
 ---
 latitude: 35.6982
 longitude: 139.7709
+snippet: Major Akihabara electronics store with tax-free shopping
 tags:
 - shopping
 title: Laox

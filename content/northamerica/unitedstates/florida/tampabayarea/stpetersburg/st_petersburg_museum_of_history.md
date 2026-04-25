@@ -5,6 +5,7 @@ latitude: 27.7751
 longitude: -82.631
 opening_hours: Mon–Sat 10:00am–5:00pm, Sun 12:00pm–5:00pm
 phone: +1 727-894-1052
+snippet: Local history from railroad days to baseball culture
 tags:
 - things_to_do
 - museum

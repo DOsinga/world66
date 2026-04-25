@@ -7,6 +7,7 @@ story: 'Kusturica built Drvengrad as the setting for his 2004 film Life is a Mir
   which draws filmmakers from around the world each January.
 
   '
+snippet: Kusturica's hand-built wooden village turned film festival venue
 tags:
 - things_to_do
 - sight

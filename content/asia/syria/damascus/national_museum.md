@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.5125
-longitude: 36.29
+longitude: 36.2903
+snippet: Major collection spanning Aramaic, Roman and Islamic periods
 tags:
 - things_to_do
 - museum

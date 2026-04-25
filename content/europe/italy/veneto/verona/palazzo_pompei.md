@@ -3,6 +3,7 @@ address: Lungadige Porta Vittoria 9, 37129 Verona
 latitude: 45.4355
 longitude: 11.0028
 opening_hours: Mon–Thu 9am–5pm, Sat–Sun 2pm–6pm; closed Fri
+snippet: "Renaissance palazzo housing world-class Eocene fossil fish collection"
 tags:
 - things_to_do
 - architecture

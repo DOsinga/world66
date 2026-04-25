@@ -1,9 +1,12 @@
 ---
 address: Stiftsplatz 1, 3400 Klosterneuburg
+done:
+  poi_cleanup: '2026-04-20'
 email: tickets@stift-klosterneuburg.at
 latitude: 48.307203
 longitude: 16.326158
 phone: '02243411212'
+snippet: 900-year-old monastery with wine cellars and the Verdun Altar
 tags:
 - day_trips
 title: Klosterneuburg Abbey
@@ -21,24 +24,4 @@ The **Wine Cellar Tour**, conducted daily at 3pm except during wine harvest in a
 
 Another way to discover the monastery's art treasures is through a workshop in the newly built **studio.** Qualified guides and art experts lead special tours through the monastery which conclude with a workshop in the studio where the participants have the chance to try some of the techniques used in the artwork they just saw themselves.
 
-Three excellent **restaurants** right on site offer traditional Austrian cuisine. The whole complex is **wheel-chair-accessible**.
-
-**English tours** are conducted on weekends and public holidays at 2pm or by special appointment.
-
-**Prices:**
-
-€ 9,- per tour
-
-€ 14,- for combination tickets (valid for all tours offered that day)
-
-reduced ticktes for children, students, civil servants, seniors and handicapped people
-
-
-
-tel: 02243411212
-
-url: [www.stift-klosterneuburg.at](http://www.stift-klosterneuburg.at)
-
-address: Stiftsplatz 1, 3400 Klosterneuburg
-
-email: tickets@stift-klosterneuburg.at
+Three excellent **restaurants** right on site offer traditional Austrian cuisine. The whole complex is wheelchair-accessible. English tours run on weekends and public holidays at 2pm, or by appointment.

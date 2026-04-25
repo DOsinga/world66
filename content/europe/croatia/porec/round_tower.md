@@ -1,7 +1,10 @@
 ---
 address: Narodni trg
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.2276
 longitude: 13.592
+snippet: 15th-century fortification tower with harbour views from the top
 tags:
 - things_to_do
 - architecture

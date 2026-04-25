@@ -1,6 +1,7 @@
 ---
 title: "Nyamata Genocide Memorial"
 type: poi
+snippet: "Church where thousands were killed, left as found"
 latitude: -2.148958
 longitude: 30.093763
 ---

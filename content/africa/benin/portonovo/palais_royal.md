@@ -1,6 +1,7 @@
 ---
 latitude: 6.4967
 longitude: 2.6281
+snippet: Former royal palace preserving Yoruba dynasty court treasures
 tags:
 - things_to_do
 - museum

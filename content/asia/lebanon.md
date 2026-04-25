@@ -11,6 +11,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sahel_Al-koura.JPG
 latitude: 33.8547
 longitude: 35.8623
+quick_facts:
+  Population: "5.5 million"
+  Languages: Arabic, French, English
+  Skiing to Beach: "Under 1 hour — mountains meet the Mediterranean"
+  Byblos: "~7,000 years old"
 title: Lebanon
 type: location
 score: 0.5

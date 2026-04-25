@@ -4,6 +4,11 @@ done:
 latitude: 27.756767
 longitude: -81.463983
 score: 0.56
+quick_facts:
+  Population: "22 million"
+  Coastline: "1,350 miles"
+  Natural Springs: "700+"
+  Lightning Strikes: Most in the US
 title: Florida
 type: location
 ---

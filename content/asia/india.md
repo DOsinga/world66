@@ -9,6 +9,11 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Back_view_of_Rashtrapati_Bhavan.jpg
 latitude: 20.593684
 longitude: 78.96288
+quick_facts:
+  Population: "1.44 billion"
+  Budget Meal: "~$1-2"
+  Languages: "22 official"
+  Railway Network: "68,000 km"
 score: 0.31
 title: India
 type: location

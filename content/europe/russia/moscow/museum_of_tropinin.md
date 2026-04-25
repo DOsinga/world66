@@ -2,22 +2,17 @@
 accessibility: 'metro station: ''Tretyakovskaya'''
 address: Schetininsky per., 10
 category: Museum
+latitude: 55.738
+longitude: 37.6262
 opening_hours: Monday, Thursday, Friday 12:00-18:00; Saturday, Sunday 10:00-16:00
+snippet: Russian portraiture from the 18th and 19th centuries
+tags:
+- things_to_do
+- museum
 title: Museum of Tropinin and Moscow Artists of His Time
 type: poi
 ---
 
-Small but interesting art museum with collection of paintings, water-coloursand other items. Main theme is "Russian portraits of the 17-18th centuries". Works by famous russian artists such as V. A. Tropinin, F. S. Rokotov, V. L. Borovikovsky, D. G. Levitsky are represented here.
+Small but worthwhile art museum focused on Russian portraiture from the 18th and 19th centuries. The collection centers on Vasily Tropinin, known for his warm, naturalistic portraits, and includes works by Rokotov, Borovikovsky, and Levitsky. The building itself, a quiet mansion in the Zamoskvorechye district, adds to the atmosphere.
 
-**Contributors**
-July 04, 2006
-
-
-
-
-
-accessibility: metro station: "Tretyakovskaya"
-
-openingHours: Monday, Thursday, Friday 12:00-18:00; Saturday, Sunday 10:00-16:00
-
-address: Schetininsky per., 10
+Nearest metro station is Tretyakovskaya, making it easy to combine with a visit to the Tretyakov Gallery nearby.

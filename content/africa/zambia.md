@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Zambian_Tribal_Dance.jpg
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Tsidoti&amp;action=edit&amp;redlink=1"
   class="new" title="User:Tsidoti (page does not exist)">Tsidoti</a>
+quick_facts:
+  Population: "20 million"
+  English: Official language
+  Victoria Falls Height: "108 m"
+  Walking Safari: Invented here
 done:
   country_cleanup: 2026-03-30
 score: 0.48

@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: Unknown
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "17 million"
+  Currency: Quetzal (named after the national bird)
+  Volcanoes: "37"
+  Living Maya Languages: "21 still spoken today"
 score: 0.6
 ---
 

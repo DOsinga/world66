@@ -3,6 +3,11 @@ title: Sudan
 type: location
 latitude: 14.584444
 longitude: 29.491769
+quick_facts:
+  Population: "48 million"
+  Language: "Arabic"
+  Pyramids: "~255 (more than Egypt)"
+  Nile Confluence: Blue + White Nile meet at Khartoum
 score: 0.22
 ---
 

@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: Graham Crumb
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "320,000"
+  Drives On: Left
+  Languages: "~140 — most per capita on Earth"
+  Land Diving on Pentecost: The original bungee jumping
 score: 0.6
 ---
 

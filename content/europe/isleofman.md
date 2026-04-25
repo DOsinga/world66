@@ -10,6 +10,11 @@ image_attribution: No machine-readable author provided. <a href="//commons.wikim
   title="User:Smurrayinchester">Smurrayinchester</a> assumed (based on copyright claims).
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "85,000"
+  Currency: Manx Pound (£)
+  Tynwald Parliament: "Founded 979 AD — still sitting"
+  TT Race Top Speed: "Over 330 km/h on public roads"
 score: 0.56
 ---
 

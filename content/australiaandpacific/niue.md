@@ -11,6 +11,11 @@ latitude: -19.054
 longitude: -169.861
 title: Niue
 type: location
+quick_facts:
+  Population: "1,700"
+  Currency: New Zealand Dollar
+  Ocean Visibility: Up to 100 metres
+  Niueans in New Zealand: "~25,000 — 15× the home population"
 score: 0.55
 ---
 

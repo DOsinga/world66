@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Road_between_Burundi_Giteg
 image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/23442653@N00">Dave
   Proffer</a>
+quick_facts:
+  Population: "13 million"
+  Languages: "French & Kirundi"
+  Nile Source Claim: Southernmost
+  Drumming Tradition: UNESCO heritage
 score: 0.25
 ---
 

@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:
   Gagnon</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "34 million"
+  Ancient Name: Arabia Felix ("Happy Arabia")
+  Socotra Island: "A third of its plants exist nowhere else"
+  Tower Houses of Shibam: "Up to 11 stories, built in the 16th century"
 score: 0.16
 ---
 

@@ -8,6 +8,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Amz-plake_province_Tiznite.JPG
 latitude: 28.334772
 longitude: -10.371338
+quick_facts:
+  Population: "37 million"
+  Currency: Moroccan dirham (MAD)
+  Imperial Cities: "4"
+  Distance to Europe: "14 km"
 score: 0.78
 title: Morocco
 type: location

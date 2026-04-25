@@ -8,6 +8,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:WikiAir_IL-13-06_035_-_Old_City_(Jerusalem).JPG
 latitude: 30.812425
 longitude: 34.859476
+quick_facts:
+  Population: "9.8 million"
+  Shabbat: "Fri sunset–Sat: most transport stops"
+  Dead Sea: "430 m below sea level"
+  Holy Sites: "3 major religions"
 score: 0.58
 title: Israel
 type: location

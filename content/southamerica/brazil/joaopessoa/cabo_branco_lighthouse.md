@@ -1,6 +1,7 @@
 ---
 latitude: -7.1495
 longitude: -34.7928
+snippet: Dramatic white cliffs at the easternmost point of the Americas
 tags:
 - things_to_do
 - sight

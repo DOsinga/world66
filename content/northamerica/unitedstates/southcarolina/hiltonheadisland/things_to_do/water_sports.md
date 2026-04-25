@@ -1,38 +1,20 @@
 ---
-title: "Water Sports"
+done:
+  poi_cleanup: '2026-04-21'
+latitude: 32.1574
+longitude: -80.7526
+snippet: Parasailing, fishing, and kayaking on the Carolina coast
+tags:
+- things_to_do
+- sport
+title: Water Sports
 type: poi
-type: "Surfing"
-latitude: 18.35361
-longitude: -64.755587
 ---
 
-Swift-flowing tributaries, turbulent sounds, and the open Atlantic
-make for more than just sunbathing. In the heart of Sea Pines, host to
-the PGA Heritage Classic, Harbour Town charters yachts, sailing,
-fishing, speed boats, wave runners - you name it. Parasailing at a
-hundred feet over Calibogue Sound is a rush for the whole family.
-Reserve a speed boat or sign up for a wave runner ahead of time, so
-that, after your fun at the beach, you have thrills to look forward to.
+Hilton Head Island sits where tidal creeks, brackish estuaries, and the open Atlantic converge, making it one of the better spots on the South Carolina coast for getting on the water. Harbour Town, Shelter Cove Marina, and Palmetto Bay Marina all charter boats and rent equipment.
 
-Fish abound in Hilton Head Island's fresh water ponds, brackish
-estuaries, and the sea. Inshore fishers have 19 miles of solid sandy
-beaches, rivers, and creeks to seek out sea trout, flounder, shark and
-more. Fly anglers seek out Spanish mackerel, bluefish, cobia and other
-species. Seventy miles from the Gulf Stream, with reefs and ship
-channels nearer shore, Hilton Head Island has many locations-Harbour
-Town, Shelter Cove Marina, Palmetto Bay Marina-that charter boats for
-some of the best deep sea fishing. White marlin, dolphin, and sailfish
-are just a few sought-after fish in the fathomless ocean.
+Parasailing over Calibogue Sound gives you a bird's-eye view of the island and is more accessible than you might think — operators take beginners daily. Wave runners and speed boats can be reserved at most marinas, but book ahead in summer when demand spikes.
 
-And for the extremists, boogie boarding, surfing, windsurfing, and
-kite surfing are mean on the restless sea. If you don't already have
-all the gear, you can find whatever you need for rent or purchase
-somewhere on Hilton Head Island. If you're already certified, scuba
-excursions shove off daily from Harbour Town and other ports, offering
-the experienced diver an opportunity to explore the reefs and wrecks in
-local waters.
+Fishing is varied here. Inshore anglers cast from 19 miles of sandy beaches and tidal creeks for sea trout, flounder, and redfish. Offshore charters head toward the Gulf Stream for white marlin, dolphin (mahi-mahi), and sailfish. Fly fishing for Spanish mackerel and bluefish is popular in the sound.
 
-**Contributors**
-October 27, 2005
-
-type: Surfing
+Surfers and kiteboarders head to Folly Field Beach or the north end of the island where the waves have more energy. Scuba excursions depart daily from Harbour Town for reef and wreck dives in the warm local waters — you will need your certification card.

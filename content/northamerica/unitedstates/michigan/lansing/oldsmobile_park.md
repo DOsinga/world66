@@ -1,12 +1,16 @@
 ---
-title: "Oldsmobile Park"
-type: poi
-category: "Sight"
-latitude: 42.7330
+address: 505 E. Michigan Ave.
+done:
+  poi_cleanup: '2026-04-21'
+latitude: 42.733
 longitude: -84.5484
-address: "505 E. Michigan Ave."
-phone: "(517) 483-7400"
-url: "www.oldsmobilepark.com"
+phone: (517) 483-7400
+snippet: Minor league ballpark with downtown Lansing skyline views
+tags:
+- things_to_do
+- sport
+title: Jackson Field
+type: poi
 ---
 
-Home of the Lansing Lugnuts, a minor league baseball team. Catching a game here is a fun and affordable evening out, with the downtown skyline as a backdrop.
+Home of the Lansing Lugnuts, a Single-A affiliate in the Oakland Athletics system. The park opened in 1996 as Oldsmobile Park, went through a stint as Cooley Law School Stadium, and is now Jackson Field. The setting is the real draw — the downtown skyline fills the view beyond the outfield wall, and the Grand River runs just behind. Tickets are cheap, the crowd is relaxed, and the between-inning promotions are entertainingly absurd. Grab a Coney dog and a local craft beer from the concourse. Games run from April through September.

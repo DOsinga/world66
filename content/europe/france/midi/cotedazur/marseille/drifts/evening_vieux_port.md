@@ -1,6 +1,9 @@
 ---
 category: evening
 duration: 3–4h
+image: evening_vieux_port.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Marseille_Vallon_des_Auffes_Panorama.jpg
 neighbourhood: Vieux-Port & Corniche
 snippet: Aperitif at a tiny fishing port, sunset from the Pharo terrace, dinner at the old port
 time_of_day: evening

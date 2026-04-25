@@ -1,6 +1,9 @@
 ---
 category: afternoon
 duration: 3h
+image: afternoon_longchamp.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Palais_Longchamp_3.jpg
 neighbourhood: Longchamp & Cours Julien
 snippet: A baroque fountain palace, two museums, then street art and terrace wine
 time_of_day: afternoon

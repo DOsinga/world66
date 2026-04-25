@@ -1,6 +1,9 @@
 ---
 category: afternoon
 duration: 4h
+image: afternoon_calanques.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Calanque_d%27En_Vau-Cassis.jpg
 neighbourhood: Calanques
 snippet: Turquoise water, white limestone cliffs, and a swim you'll think about for years
 time_of_day: afternoon

@@ -1,6 +1,9 @@
 ---
 category: morning
 duration: 2–3h
+image: morning_panier.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Marseille,_Le_Panier_(14822420736).jpg
 neighbourhood: Le Panier
 snippet: Steep alleys, a baroque courtyard, and the cathedral at the edge of the sea
 time_of_day: morning

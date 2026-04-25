@@ -1,6 +1,7 @@
 ---
 latitude: 57.4052
 longitude: -2.3524
+snippet: Ruined Gordon tower house, birthplace of Lord Byron's mother
 tags:
 - things_to_do
 - castle

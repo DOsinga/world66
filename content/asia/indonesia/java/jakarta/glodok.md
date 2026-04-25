@@ -3,7 +3,8 @@ latitude: -6.145
 longitude: 106.8159
 tags:
 - things_to_do
-- church
+- culture
+snippet: "Jakarta's centuries-old Chinatown with temples and street food"
 title: Glodok (Chinatown)
 type: poi
 ---

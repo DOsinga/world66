@@ -1,21 +1,17 @@
 ---
 title: "Projeto TAMAR"
 type: poi
-type: "Parks, Gardens and Zoos"
-url: "www.praiadoforte.com"
-latitude: -12.915368
-longitude: -38.334671
+tags:
+  - things_to_do
+  - wildlife
+snippet: Sea turtle conservation center funding protection through tourism
+latitude: -12.575
+longitude: -38.003
+url: "www.tamar.org.br"
 ---
 
-Conservation center for the sea turtles that nest at Praia do Forte. Great for kids but fascinating for adults too, and your admission fee goes to a good cause.
+Brazil's pioneering sea turtle conservation project, headquartered right on Praia do Forte's beach. TAMAR has been protecting nesting sites along the Brazilian coast since 1980, and the visitor center here is their flagship.
 
-**Contributors**
-January 29, 2007
+The open-air facility has large pools with rescued turtles, rays, and reef fish. During nesting season (September to March), staff lead evening beach walks to watch hatchlings make their dash to the ocean — a genuinely moving experience. Outside of season, the tanks and exhibits still make it worthwhile, especially with kids.
 
-type: Parks, Gardens and Zoos
-
-
-
-
-
-url: [www.praiadoforte.com](http://www.praiadoforte.com/tamar/tamar.htm)
+Your admission fee (around R$30) goes directly to conservation work. There's a small gift shop and cafe on site. Allow about an hour for a visit, more if you're there for a hatchling release.

@@ -2,6 +2,7 @@
 address: Third floor, one block from the town square, Thimphu
 latitude: 27.4716
 longitude: 89.6388
+snippet: Go-to spot for authentic ema datshi and buckwheat pancakes
 tags:
 - eating_out
 title: The Bhutan Kitchen

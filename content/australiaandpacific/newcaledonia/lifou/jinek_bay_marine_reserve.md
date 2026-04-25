@@ -1,6 +1,7 @@
 ---
 latitude: -20.8863
 longitude: 167.0441
+snippet: "Outstanding snorkeling with 2,000 fish species from shore"
 tags:
 - things_to_do
 - landmark

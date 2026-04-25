@@ -1,6 +1,7 @@
 ---
 latitude: 52.4089
 longitude: -1.508
+snippet: Pre-Norman Benedictine priory ruins with free visitor centre
 tags:
 - things_to_do
 - landmark

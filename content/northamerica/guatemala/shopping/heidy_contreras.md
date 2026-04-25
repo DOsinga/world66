@@ -1,27 +1,13 @@
 ---
-title: "Heidy Contreras"
+title: "El Curandero Gallery"
 type: poi
-address: "La Antigua Guatemala"
-email: "elcuranderogallery@gmail.com"
-phone: "7832-4955"
-type: "Art Galleries"
-url: "www.elcurandero.com"
+tags:
+- shopping
+snippet: "Antigua gallery specializing in Guatemalan antiques and masks"
+latitude: 14.5586
+longitude: -90.7340
 ---
 
-The best source for
-Guatemalan Antiques such as masks, slingshots, wooden figures, santos and
-santitos, majolica pottery, ceramics, and silver. www.elcurandero.com
+El Curandero, run by Heidy Contreras, is an antiques and folk art gallery in Antigua Guatemala focused on traditional Guatemalan pieces. The stock leans toward ceremonial dance masks, carved wooden santos and santitos, majolica pottery, old silver, and wooden figures -- the kind of pieces that take some knowledge to source well.
 
-type: Art Galleries
-
-
-
-
-
-tel: 7832-4955
-
-url: [www.elcurandero.com](http://www.elcurandero.com)
-
-address: La Antigua Guatemala
-
-email: elcuranderogallery@gmail.com
+If you are interested in Guatemalan folk art beyond the mass-produced market goods, this is a worthwhile stop. The gallery is small and the owner knowledgeable about the provenance of what she sells.

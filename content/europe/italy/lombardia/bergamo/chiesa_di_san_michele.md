@@ -4,6 +4,7 @@ latitude: 45.7055
 longitude: 9.6642
 opening_hours: Daily 8-12, 14-18
 phone: 035 247651
+snippet: "Ancient church with Lorenzo Lotto frescoes from 1525"
 tags:
 - things_to_do
 - church

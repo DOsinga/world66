@@ -1,6 +1,7 @@
 ---
 latitude: 19.398
 longitude: 98.9195
+snippet: "Jungle temple reached by 500 steps with valley views"
 tags:
 - things_to_do
 - landmark

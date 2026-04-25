@@ -1,13 +1,12 @@
 ---
-title: "Raw Bar"
+title: "Cafe Neto"
 type: poi
 tags:
   - bars_and_cafes
-  - bar
-address: "12 Hasharon Street Tel Aviv"
-phone: "+972-3-"
+  - cafe
+snippet: Neighborhood cafe with strong coffee and local regulars
 latitude: 32.0794
 longitude: 34.7834
 ---
 
-Best place in Tel Aviv for a beer. Excellent selection of alcohol, great music and very hip.
+A solid neighborhood cafe in Tel Aviv, popular with locals for its strong coffee and relaxed atmosphere. Not the flashiest spot on the block, but the kind of place where you can settle in with a book, people-watch, and feel like you're part of the city rather than visiting it.

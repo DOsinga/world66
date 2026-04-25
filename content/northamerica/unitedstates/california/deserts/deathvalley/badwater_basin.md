@@ -1,6 +1,7 @@
 ---
 latitude: 36.2303
 longitude: -116.7679
+snippet: "Lowest point in North America at 86m below sea level"
 tags:
 - things_to_do
 - landmark

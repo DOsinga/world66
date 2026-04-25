@@ -2,6 +2,7 @@
 address: Calle del Pozo, Centro Historico
 latitude: 11.2441
 longitude: -74.2012
+snippet: "Rock and blues bar in a red colonial house"
 tags:
 - bars_and_cafes
 title: Crab's Bar

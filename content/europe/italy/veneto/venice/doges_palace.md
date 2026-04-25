@@ -10,6 +10,7 @@ tags:
 - church
 - palace
 - bridge
+snippet: Gothic seat of Venetian power with Tintoretto masterpieces
 title: Doge's Palace
 type: poi
 url: www.visitmuve.it

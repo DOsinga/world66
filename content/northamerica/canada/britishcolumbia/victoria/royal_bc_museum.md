@@ -1,6 +1,7 @@
 ---
 latitude: 48.4197
 longitude: -123.3676
+snippet: "BC's flagship museum with outstanding First Peoples gallery"
 tags:
 - things_to_do
 - museum

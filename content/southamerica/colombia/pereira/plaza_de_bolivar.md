@@ -7,6 +7,7 @@ story: When sculptor Rodrigo Arenas Betancur unveiled his statue of a completely
 tags:
 - landmark
 - things_to_do
+snippet: Central square with famously nude Bolivar statue
 title: Plaza de Bolivar
 type: poi
 ---

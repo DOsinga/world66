@@ -1,6 +1,7 @@
 ---
 latitude: -33.8438
 longitude: 151.2414
+snippet: "Harbourside zoo with spectacular city skyline views"
 tags:
 - things_to_do
 title: Taronga Zoo

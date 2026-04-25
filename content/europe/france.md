@@ -2,7 +2,7 @@
 done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-10'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: france.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Benh" title="User:Benh">Benh
   LIEU SONG</a>
@@ -10,6 +10,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Gorges_Verdon_Barrage_Sainte_Croix.jpg
 latitude: 46.603354
 longitude: 1.888334
+quick_facts:
+  Population: "68 million"
+  Drives On: Right
+  Cheese Varieties: "Over 1,200 named"
+  Most-Visited Country: "100 million tourists/year"
 score: 0.95
 title: France
 type: location

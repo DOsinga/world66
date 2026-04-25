@@ -3,6 +3,11 @@ title: Reunion
 type: location
 latitude: -21.130933
 longitude: 55.526577
+quick_facts:
+  Population: "900,000"
+  Currency: Euro (EUR)
+  Highest Peak: "3,071 m (Piton des Neiges)"
+  Active Volcano: Piton de la Fournaise
 score: 0.7
 ---
 

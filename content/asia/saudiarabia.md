@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Rub_al_khali_sunset_Nov_2007.jpg
 latitude: 24.0
 longitude: 45.0
+quick_facts:
+  Population: "36 million"
+  Alcohol: Completely banned
+  Tourist Visas: "Only available since 2019"
+  Empty Quarter: "Largest sand desert on earth"
 title: Saudi Arabia
 type: location
 score: 0.22

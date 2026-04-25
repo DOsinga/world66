@@ -1,9 +1,12 @@
 ---
-title: "Vestingmuseum Naarden"
-type: poi
 category: Museum
-latitude: 52.2960
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 52.296
 longitude: 5.1614
+snippet: Fortress museum in original 1680s casemates with underground tunnels
+title: Vestingmuseum Naarden
+type: poi
 ---
 
 The fortress museum occupies two of the original casemates — the arched brick chambers built into the ramparts in the 1680s. You can walk through the underground passages, see the original artillery, and climb onto the walls for a proper view of the star-shaped moat system below. It gives a clear sense of how these defences actually worked: the overlapping fields of fire from the angled bastions meant there was no dead ground for an attacker to shelter in.

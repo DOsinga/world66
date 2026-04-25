@@ -4,6 +4,7 @@ email: bungycentre@ajhackett.co.nz
 latitude: -45.0319
 longitude: 168.6613
 phone: +64 3 442 4007
+snippet: Where commercial bungy jumping was born in 1988
 story: 'The Kawarau Bridge, just outside Queenstown, became the world''s first commercial
   bungy site in 1988 when AJ Hackett leapt from it. Hackett had previously bungy-jumped
   from the Eiffel Tower in Paris — uninvited — which got him arrested and made him

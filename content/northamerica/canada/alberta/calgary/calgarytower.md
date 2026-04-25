@@ -1,16 +1,15 @@
 ---
 latitude: 51.044294
 longitude: -114.063132
+snippet: "Panoramic views from a 190-metre observation tower"
 tags:
-- eating_out
-- restaurant
+- things_to_do
 - tower
-- bar
-title: Calgary Tower .
+- landmark
+title: Calgary Tower
 type: poi
 ---
 
-The revolving Panorama Dining Room offers a beautiful view of the city and mountains. Wkdys breakfast served 8 - 11 am, lunch from 11 am; dinner daily from 5 pm. Sat breakfast 8 - 11 am, Sun buffet brunch 9 am - 1:30 pm. Sip a pre-dinner cocktail in Tops lounge. Mon to Sat 11:30 am - mid. 
- 
- Tel: 1 403 266-7171 
- Address: 9 Ave and Centre St S Calgary Alberta
+Standing 190 metres tall at the corner of 9th Avenue and Centre Street, the Calgary Tower has been a city landmark since 1968. The observation deck offers 360-degree views of the downtown skyline, the prairies stretching east, and the Rocky Mountain foothills to the west. On a clear day you can see individual peaks over 100 kilometres away.
+
+The glass floor section on the observation deck is not for the faint of heart -- you are looking straight down to the street below. The revolving Panorama Dining Room serves breakfast, lunch, and dinner with those same views rotating slowly past your table, and the Tops lounge is a good spot for a pre-dinner cocktail. The tower is lit in different colours for holidays and events throughout the year.

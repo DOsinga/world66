@@ -2,6 +2,7 @@
 address: 2 Lower Albert Road, Central
 latitude: 22.2816
 longitude: 114.1567
+snippet: Arts venue in a Victorian dairy building since 1913
 tags:
 - things_to_do
 - landmark

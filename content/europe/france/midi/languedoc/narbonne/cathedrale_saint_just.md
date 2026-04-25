@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.1851
 longitude: 3.0042
+snippet: Unfinished Gothic cathedral with one of France's tallest choirs
 story: 'The city chose to preserve the Roman fortifications rather than demolish them
   to extend the cathedral. Construction halted in the 14th century and the nave was
   never built — making Narbonne''s cathedral the only major Gothic church in France

@@ -1,6 +1,7 @@
 ---
 title: "National Taiwan Museum of Fine Arts"
 type: poi
+snippet: "Taiwan's largest fine arts museum with free admission"
 category: "Museum"
 address: "2, Sec. 1, Wuquan W. Rd., Taichung"
 latitude: 24.1412

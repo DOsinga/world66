@@ -7,6 +7,11 @@ image: madagascar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Katta_család.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Veszprémi Állatkert
+quick_facts:
+  Population: "30 million"
+  Language: "French & Malagasy"
+  Endemic Wildlife: "90% found nowhere else"
+  Lemur Species: "100+"
 done:
   country_cleanup: 2026-03-31
 score: 0.62

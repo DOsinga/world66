@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-20'
 latitude: 21.237191
 longitude: -86.735
 score: 0.67

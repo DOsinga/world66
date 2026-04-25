@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: Maurice Chédel
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "6.8 million"
+  Budget Meal: "~$2–3"
+  Bilingual Nation: Spanish and Guaraní both official
+  Largest Hydroelectric Dam: Itaipú supplies 86% of electricity
 score: 0.42
 ---
 

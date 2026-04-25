@@ -4,6 +4,7 @@ longitude: 8.5211
 tags:
 - things_to_do
 - museum
+snippet: "15th-century palace with Hausa history and crafts"
 title: Gidan Makama Museum
 type: poi
 ---

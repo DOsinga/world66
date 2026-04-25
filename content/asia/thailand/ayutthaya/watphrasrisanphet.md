@@ -1,11 +1,10 @@
 ---
 latitude: 14.3563
 longitude: 100.5586
+snippet: Three royal chedis and the ruins of Ayutthaya's grandest temple
 story: 'The temple once housed a 16-metre standing Buddha covered in 250 kilograms
   of gold. When the Burmese sacked Ayutthaya in 1767, they melted the gold off the
-  statue by setting it on fire.
-
-  '
+  statue by setting it on fire.'
 tags:
 - things_to_do
 - landmark

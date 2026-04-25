@@ -1,6 +1,7 @@
 ---
 latitude: 35.7019
 longitude: 139.7677
+snippet: 8th-century shrine hosting one of Tokyo's three great festivals
 tags:
 - things_to_do
 title: Kanda Myojin

@@ -1,6 +1,7 @@
 ---
 latitude: 52.4082
 longitude: -1.5087
+snippet: WWII ruins and Basil Spence's new cathedral, side by side
 story: 'After the November 1940 bombing raid, the cathedral''s provost, Richard Howard,
   had two charred roof timbers bound together in the shape of a cross and set in the
   ruins. He also had the words "Father Forgive" inscribed on the wall behind the altar

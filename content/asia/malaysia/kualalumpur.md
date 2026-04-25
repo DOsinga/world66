@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-20'
+  poi_cleanup: '2026-04-21'
 image: kualalumpur.jpg
 image_attribution: GerifalteDelSabana
 image_license: CC BY-SA 4.0

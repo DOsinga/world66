@@ -1,6 +1,7 @@
 ---
 latitude: 30.5833
 longitude: 66.9833
+snippet: Fruit-growing valley irrigated by ancient karez channels
 tags:
 - things_to_do
 - landmark

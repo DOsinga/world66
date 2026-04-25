@@ -3,6 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 35.000074
 longitude: 104.999927
+quick_facts:
+  Population: "1.4 billion"
+  Time Zone: "UTC+8 (one zone)"
+  High-Speed Rail: "45,000 km"
+  Great Wall Length: "21,196 km"
 score: 0.57
 title: China
 type: location

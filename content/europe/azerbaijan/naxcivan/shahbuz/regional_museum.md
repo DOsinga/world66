@@ -1,7 +1,10 @@
 ---
 latitude: 39.4384
 longitude: 45.6076
-tags: [sights, museum]
+snippet: District history museum with 3,500 exhibits and local crafts
+tags:
+- sights
+- museum
 title: Shahbuz Regional Museum
 type: poi
 ---

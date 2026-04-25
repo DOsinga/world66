@@ -2,11 +2,10 @@
 address: Jalan MH Thamrin, Sarinah Building
 latitude: -6.1862
 longitude: 106.8234
+snippet: 24-hour restaurant in the Sarinah Building near Jalan Jaksa
 tags:
 - eating_out
 - restaurant
-- square
-- club
 title: Hot Planet
 type: poi
 ---

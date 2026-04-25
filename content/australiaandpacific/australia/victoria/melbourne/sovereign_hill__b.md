@@ -3,6 +3,7 @@ address: Bradshaw Street, Ballarat
 latitude: -37.5749
 longitude: 143.8685
 phone: (03) 5337 1100
+snippet: Living gold rush museum where you pan for real gold
 tags:
 - day_trips
 title: Sovereign Hill

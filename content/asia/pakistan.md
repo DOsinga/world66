@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Moenjodaro(a)_by_Usman_Ghani.jpg
 latitude: 30.3753
 longitude: 69.3451
+quick_facts:
+  Population: "240 million"
+  Visa: "e-Visa available for most nationalities"
+  8,000m Peaks: "5 of the world's 14, including K2"
+  Karakoram Highway: "World's highest paved international road"
 title: Pakistan
 type: location
 score: 0.27

@@ -7,6 +7,11 @@ image: algeria.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Timgad_Trajan.jpg
 image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/phr61/">PhR61</a>
+quick_facts:
+  Population: "45 million"
+  Language: "Arabic & French"
+  Sahara Coverage: "80%"
+  Roman Ruins: "7 UNESCO sites"
 score: 0.31
 ---
 

@@ -1,11 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-20'
 latitude: 20.463434
 longitude: -12.366484
+score: 0.45
 title: Chinguetti
 type: location
-score: 0.45
 ---
 
 Chinguetti is one of the most atmospheric towns in the Sahara, and Mauritanians consider it the seventh holy city of Islam. Whether or not that claim holds strictly to orthodoxy, the town did have a genuine reputation as a centre of Islamic learning, and the evidence is still very much present: a 13th-century mosque with a distinctive ostrich-egg-topped tower, a labyrinth of mud-brick houses slowly being swallowed by sand dunes, and a handful of private libraries preserving thousands of Arabic manuscripts on mathematics, astronomy, law, and theology.

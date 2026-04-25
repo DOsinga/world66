@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 29.9792
 longitude: 31.1342
+snippet: The oldest Wonder of the Ancient World, still standing
 tags:
 - things_to_do
 - landmark

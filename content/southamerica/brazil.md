@@ -3,6 +3,11 @@ title: Brazil
 type: location
 latitude: -10.333333
 longitude: -53.2
+quick_facts:
+  Population: "215 million"
+  Language: "Portuguese — Spanish not understood"
+  Amazon Rainforest: "60% of it is in Brazil"
+  Coastline: "7,491 km — longest in the Atlantic"
 image: brazil.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rio2009-2.JPG
 image_license: Public domain

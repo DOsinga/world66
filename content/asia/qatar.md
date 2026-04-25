@@ -9,6 +9,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Doha_Karwa_public_bus.jpg
 latitude: 25.3548
 longitude: 51.1839
+quick_facts:
+  Population: "3 million (only 12% Qatari citizens)"
+  Alcohol: "Licensed hotels only"
+  GDP per Capita: "Among the highest in the world"
+  Country Size: "About the size of Connecticut"
 title: Qatar
 type: location
 score: 0.52

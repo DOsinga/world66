@@ -1,11 +1,14 @@
 ---
 address: Allatkerti korut 9-11
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.5189
 longitude: 19.0823
 opening_hours: 6:00-22:00 daily
+snippet: Europe's largest thermal bath complex in City Park
 tags:
 - things_to_do
-- park
+- bath
 title: Szechenyi Thermal Bath
 type: poi
 url: www.szechenyifurdo.hu

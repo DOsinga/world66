@@ -7,6 +7,11 @@ image: afghanistan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:View_of_Herat_in_2009.jpg
 image_license: Public domain
 image_attribution: Employee of the U.S. State Department
+quick_facts:
+  Population: "42 million"
+  Languages: Dari & Pashto
+  Hindu Kush: "Reaches 7,708 m — higher than any peak in Europe or the Americas"
+  Rumi's Birthplace: Balkh
 done:
   country_cleanup: 2026-03-30
 score: 0.1

@@ -1,6 +1,6 @@
 ---
 done:
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 title: Sights
 type: Monasteries
 ---

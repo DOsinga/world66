@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Derzsi_Elekes_Ando
   title="User:Derzsi Elekes Andor">Derzsi Elekes Andor</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "9.6 million"
+  Budget Meal: "~$5–7"
+  Thermal Springs: "Over 1,000 natural hot springs"
+  Rubik's Cube: Invented in Budapest in 1974
 score: 0.44
 ---
 

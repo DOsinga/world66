@@ -3,6 +3,11 @@ title: Nicaragua
 type: location
 latitude: 12.8654
 longitude: -85.2072
+quick_facts:
+  Population: "7 million"
+  Budget Meal: "~$2–3"
+  Isla Ometepe: Two volcanoes forming one island in a lake
+  Cheapest in Central America: Budget meals under $3
 image: nicaragua.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Col_Universitaria,_León,_Nicaragua_-_panoramio_-_Juan_José_Mendoza_(5).jpg
 image_license: CC BY-SA 3.0

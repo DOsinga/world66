@@ -7,6 +7,11 @@ image: gambia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tourist_Craft_Store,_Banjul,_Gambia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 'Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wikivoyage'
+quick_facts:
+  Population: "2.7 million"
+  Language: "English (rare in West Africa)"
+  Bird Species: "540+"
+  Width at Widest: "48 km"
 done:
   country_cleanup: 2026-03-30
 score: 0.47

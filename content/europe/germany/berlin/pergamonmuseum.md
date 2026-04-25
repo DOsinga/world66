@@ -10,6 +10,7 @@ tags:
 - museum
 title: Pergamon Museum
 type: poi
+snippet: "Ancient world reconstructions including the Ishtar Gate"
 url: www.smb.museum/pergamonmuseum
 ---
 

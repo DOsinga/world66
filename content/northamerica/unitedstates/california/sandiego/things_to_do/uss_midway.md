@@ -1,7 +1,10 @@
 ---
 title: "USS Midway Museum"
 type: poi
-category: "Museum"
+snippet: Walk the flight deck of a retired aircraft carrier
+tags:
+- things_to_do
+- museum
 address: "910 N Harbor Dr, San Diego, CA 92101"
 url: "https://www.midway.org"
 latitude: 32.7137

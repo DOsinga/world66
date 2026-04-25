@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
+  poi_cleanup: '2026-04-20'
 image: cadiz.jpg
 image_attribution: Dicklyon
 image_license: CC BY-SA 4.0

@@ -1,6 +1,6 @@
 ---
 done:
-  poi_cleanup: '2026-04-20'
+  poi_cleanup: '2026-04-21'
 title: Things to Do
 type: section
 ---

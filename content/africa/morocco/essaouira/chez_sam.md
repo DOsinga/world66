@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.5108
 longitude: -9.774
+snippet: Harbour-end seafood institution in a leaning wooden building
 tags:
 - eating_out
 title: Chez Sam

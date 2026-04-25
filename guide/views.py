@@ -64,7 +64,7 @@ def location_or_section(request, path):
         parent_path = page.path.rsplit("/", 1)[0]
         parent = load_page(parent_path)
 
-    # Build sidebar nav: nav_pages from the parent (city or section_group).
+    # Build sidebar nav: nav_pages from the parent (city or section).
     # For POIs the immediate parent is the section, which has no nav children —
     # walk up one more level to the city so the sidebar shows all city sections.
     parent_nav = []
@@ -92,7 +92,7 @@ def location_or_section(request, path):
     # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.
     poi_context_prefix = None
     _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
-    if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
+    if page.page_type in NAV_TYPES and _city_path:
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
 
@@ -125,10 +125,8 @@ def location_or_section(request, path):
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
-    # Nav pages collect their POIs by tag; section_groups collect their child nav pages
-    if page.page_type == "section_group":
-        pois = nav_pages
-    elif page.page_type in NAV_TYPES:
+    # Nav pages collect their POIs by tag
+    if page.page_type in NAV_TYPES:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
 
     # Collect distinct categories from POIs (for filter UI)
@@ -361,8 +359,6 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     # On city pages, restrict to sightseeing sections only so the map stays focused.
     if not locations:
         for nav in nav_pages:
-            if nav.page_type == "section_group":
-                continue
             if nav.slug not in _SIGHT_SLUGS:
                 continue
             for poi in nav.tagged_pois(_city_tag_index=city_tag_index):

@@ -254,7 +254,7 @@
 {% endblock %}
 
 {% block wide_content %}
-{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" %}{% if pois %}
 <div class="wide-block poi-section">
   <span class="section-kicker">{% if page.meta.kicker %}{{ page.meta.kicker }}{% elif page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
   <div class="poi-section-head">

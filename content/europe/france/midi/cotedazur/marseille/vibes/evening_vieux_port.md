@@ -12,7 +12,12 @@ pois:
 snippet: Aperitif at a tiny fishing port, sunset from the Pharo terrace, dinner at the old port
 time_of_day: evening
 title: Vallon des Auffes
-type: drift
+type: vibe
+vibe_tags:
+- food
+- seafood
+- sunset
+- waterfront
 ---
 
 Start at the [Vallon des Auffes](/europe/france/midi/cotedazur/marseille/vallondesauffes). This is Marseille's best-kept open secret — a small natural harbour just below the Corniche Kennedy, invisible from the road, reached down a staircase between two apartment blocks. Traditional wooden fishing boats called pointus are moored on the water; the houses around the harbour are painted white and blue; a viaduct arch frames the sky above. Three or four fish restaurants crowd the quay. Arrive around six and take a table outside for the pastis ritual: a glass, a jug of cold water, pour slowly and watch it go cloudy. This is the aperitif of the south.

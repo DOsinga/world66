@@ -6,13 +6,13 @@ Uses the `type` field to classify pages:
 
   location      — continent, country, region, city
   section       — top-level navigable collection within a city (things_to_do, shopping, …)
-  section_group — groups related nav pages in the sidebar (neighbourhoods, themes, drifts)
+  section_group — groups related nav pages in the sidebar (neighbourhoods, themes, vibes)
   neighbourhood — a district; appears under its section_group in the nav
   theme         — a cross-cutting theme (lgbtq, cold_war, …); appears under its section_group
-  drift         — a half-day itinerary (morning/afternoon/evening/night); appears under a drifts section_group
+  vibe          — a half-day itinerary (morning/afternoon/evening/night); appears under a vibes section_group
   poi           — individual point of interest
 
-All of section / section_group / neighbourhood / theme / drift are "nav pages": they appear
+All of section / section_group / neighbourhood / theme / vibe are "nav pages": they appear
 in the city sidebar and each collects POIs by tag.  When a POI carries `tags: [de_pijp]`
 and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears under De Pijp.
 
@@ -30,7 +30,7 @@ from django.conf import settings
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
 
 # Page types that participate in city navigation and collect POIs by tag.
-NAV_TYPES = {"section", "section_group", "neighbourhood", "theme", "drift"}
+NAV_TYPES = {"section", "section_group", "neighbourhood", "theme", "vibe"}
 
 DISPLAY_PROPERTIES = {
     "address": "Address",

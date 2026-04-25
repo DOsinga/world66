@@ -13,7 +13,12 @@ time_of_day:
 - morning
 - afternoon
 title: The Calanques
-type: drift
+type: vibe
+vibe_tags:
+- outdoor
+- nature
+- swim
+- hiking
 ---
 
 The Calanques are the thing people who live in Marseille miss most when they leave — narrow limestone inlets carved into the coast south of the city, with water so clear and so blue it looks implausible. Getting there requires a bus and a walk, but the effort is the point.

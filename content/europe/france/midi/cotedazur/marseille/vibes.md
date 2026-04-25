@@ -1,7 +1,7 @@
 ---
-kicker: Drifts
+kicker: Vibes
 snippet: How to spend a morning, an afternoon, an evening, or a night in Marseille
-title: Drifts
+title: Vibes
 type: section_group
 ---
 

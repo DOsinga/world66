@@ -96,16 +96,16 @@ def location_or_section(request, path):
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
 
-    # Normalise drift time slots to a list; load any referenced POIs
-    drift_time_slots = []
-    drift_pois = []
-    if page.page_type == "drift":
+    # Normalise vibe time slots to a list; load any referenced POIs
+    vibe_time_slots = []
+    vibe_pois = []
+    if page.page_type == "vibe":
         tday = page.meta.get("time_of_day", "")
-        drift_time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
+        vibe_time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
         for poi_path in page.meta.get("pois", []):
             poi_page = load_page(poi_path)
             if poi_page:
-                drift_pois.append(poi_page)
+                vibe_pois.append(poi_page)
 
     nav_pages, locations, pois = page.children()
 
@@ -156,14 +156,14 @@ def location_or_section(request, path):
         nb_img = _image_path(nb, branch)
         nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
 
-    # Extract individual drifts from the drifts section_group (if present) for city-page display
-    drift_items = []
+    # Extract individual vibes from the vibes section_group (if present) for city-page display
+    vibe_items = []
     if page.page_type == "location":
         for sg in nav_pages:
-            if sg.page_type == "section_group" and sg.slug == "drifts":
-                drift_nav, _, _ = sg.children()
-                drift_items = [p for p in drift_nav if p.page_type == "drift"]
-                for d in drift_items:
+            if sg.page_type == "section_group" and sg.slug == "vibes":
+                vibe_nav, _, _ = sg.children()
+                vibe_items = [p for p in vibe_nav if p.page_type == "vibe"]
+                for d in vibe_items:
                     d_img = _image_path(d, branch)
                     d.image_url = f'/content-image/{d_img}{branch_qs}' if d_img else None
                     tday = d.meta.get("time_of_day", "")
@@ -208,8 +208,8 @@ def location_or_section(request, path):
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
-    if page.page_type == "drift":
-        for poi in drift_pois:
+    if page.page_type == "vibe":
+        for poi in vibe_pois:
             img_path = _image_path(poi, branch)
             if img_path:
                 poi_images.append({'url': f'/content-image/{img_path}{branch_qs}', 'title': poi.title, 'href': poi.get_absolute_url()})
@@ -226,14 +226,14 @@ def location_or_section(request, path):
     markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
-    # For drift pages, build markers from the referenced POIs
-    if page.page_type == "drift" and drift_pois:
-        drift_markers = [m for m in (_marker_from_page(p, highlight=True) for p in drift_pois) if m]
-        markers = drift_markers
-        markers_full = drift_markers
-        if lat is None and lng is None and drift_markers:
-            lat = drift_markers[0]["lat"]
-            lng = drift_markers[0]["lng"]
+    # For vibe pages, build markers from the referenced POIs
+    if page.page_type == "vibe" and vibe_pois:
+        vibe_markers = [m for m in (_marker_from_page(p, highlight=True) for p in vibe_pois) if m]
+        markers = vibe_markers
+        markers_full = vibe_markers
+        if lat is None and lng is None and vibe_markers:
+            lat = vibe_markers[0]["lat"]
+            lng = vibe_markers[0]["lng"]
 
     breadcrumbs = page.breadcrumbs()
 
@@ -245,8 +245,8 @@ def location_or_section(request, path):
         "top_locations": top_locations,
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
-        "drift_items": drift_items,
-        "drift_time_slots": drift_time_slots,
+        "vibe_items": vibe_items,
+        "vibe_time_slots": vibe_time_slots,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,

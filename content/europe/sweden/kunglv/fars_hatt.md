@@ -1,9 +1,12 @@
 ---
 address: Torget 2, SE-44231 Kungälv
+done:
+  poi_cleanup: '2026-04-20'
 email: info@farshatt.se
 latitude: 57.8711
 longitude: 11.9796
 phone: +46 (0)303 10970
+snippet: Hotel restaurant with terrace views of Bohus Fortress
 tags:
 - eating_out
 title: Fars Hatt

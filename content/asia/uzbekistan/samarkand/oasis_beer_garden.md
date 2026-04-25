@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 39.653
 longitude: 66.959
+snippet: Laid-back outdoor beer garden with tree-stump seating
 tags:
 - bars_and_cafes
 title: Oasis Beer Garden

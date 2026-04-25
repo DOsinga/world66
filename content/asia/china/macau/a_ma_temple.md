@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.1866
 longitude: 113.5316
+snippet: Macau's oldest temple, namesake of the territory
 tags:
 - things_to_do
 - landmark

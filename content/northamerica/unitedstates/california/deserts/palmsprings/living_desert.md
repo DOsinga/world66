@@ -4,6 +4,7 @@ latitude: 33.7373
 longitude: -116.3676
 opening_hours: Daily 09:00–17:00 (last entry 16:00)
 phone: (760) 346-5694
+snippet: "Zoo and botanical garden dedicated to desert ecosystems worldwide"
 tags:
 - things_to_do
 - landmark

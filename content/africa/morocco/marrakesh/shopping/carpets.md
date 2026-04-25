@@ -1,8 +1,13 @@
 ---
-title: "Carpets"
+latitude: 31.6295
+longitude: -7.9811
+snippet: Haggling for Berber rugs is a half-day ritual with mint tea
+tags:
+- shopping
+title: Carpets
 type: poi
-latitude: 31.140942
-longitude: -4.025038
 ---
 
-Generally speaking Morocco is a good place to buy a carpet, but Marrakesh isn't the best place in Morocco. Smaller, less touristy places have lower prices, but Marrakesh has the advantage of having the biggest choice. Buying a carpet is an experience. Allow at least half a day to sip tea, discuss the price, discuss everything else in life, before you dicuss the price again. Sellers claim all carpets are old. In fact most of them, aren't.
+Morocco is a great place to buy a carpet, though Marrakesh is not the cheapest spot in the country. Smaller, less touristy towns offer lower prices, but the medina here has the biggest selection you will find anywhere. Expect Berber kilims, thick pile rugs from the Middle Atlas, and everything in between.
+
+Buying a carpet is a ritual. Allow at least half a day to sit, drink mint tea, discuss life, and only then talk price. Sellers will claim every carpet is antique. Most are not. Start at about a third of the asking price and work from there. The souk des tapis near the north side of the medina has the highest concentration of dealers.

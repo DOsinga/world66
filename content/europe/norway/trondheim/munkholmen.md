@@ -1,6 +1,7 @@
 ---
 latitude: 63.4511
 longitude: 10.3361
+snippet: Island fortress turned summer hangout in Trondheim Fjord
 tags:
 - things_to_do
 - landmark

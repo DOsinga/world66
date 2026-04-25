@@ -11,6 +11,11 @@ latitude: 9.9456
 longitude: -9.6966
 title: Guinea
 type: location
+quick_facts:
+  Population: "14 million"
+  Language: French
+  Bauxite Reserves: largest in the world
+  Source of Niger River: Fouta Djallon highlands
 score: 0.22
 ---
 

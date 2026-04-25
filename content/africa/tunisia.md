@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:TunisiaCoins.jpg
 latitude: 33.843941
 longitude: 9.400138
+quick_facts:
+  Population: "12 million"
+  Languages: "Arabic & French"
+  UNESCO Sites: "8"
+  Star Wars Filmed: Matmata
 score: 0.45
 title: Tunisia
 type: location

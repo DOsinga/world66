@@ -9,6 +9,11 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Spa_So1JPG.jpg
 latitude: 50.640281
 longitude: 4.666715
+quick_facts:
+  Population: "11.7 million"
+  Currency: Euro (€)
+  Beer Varieties: "Over 1,500 distinct beers"
+  Official Languages: "3 — Dutch, French, and German"
 score: 0.38
 title: Belgium
 type: location

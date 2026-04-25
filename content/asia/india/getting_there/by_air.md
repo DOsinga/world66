@@ -1,35 +1,13 @@
 ---
-title: "By Air"
+latitude: 28.5562
+longitude: 77.1000
+snippet: Major international gateways and domestic airline options
+title: By Air
 type: poi
-type: "By Air"
-latitude: 32.562422
-longitude: 76.180594
 ---
 
-Almost every big city in this country has an airport. Some major points-of-entry are:
+Almost every big city in India has an airport. The major international points of entry are Delhi, Mumbai, Chennai, Hyderabad, Bengaluru, and Kochi.
 
-- New Delhi
+India has homegrown international airlines, including Air India, but many travelers find it more convenient to reach the country via carriers like Singapore Airlines, Thai Airways, or British Airways, all of which fly into Delhi, Mumbai, and other cities.
 
-- Bombay (Mumbai)
-
-- Chennai
-
-- Hyderabad
-
-- Cochin
-
-India has homegrown international airlines (Air India, Indian
-Airlines), but perhaps more convenient method of reaching India is via
-a non-Indian carrier like Singapore Airlines, Thai or British Airways,
-all of which fly into Delhi, Bombay and other locations.
-
-Within India, the state run airline, Indian Airlines, is widely
-considered substandard to the privately run Jet Airways, which operates
-modern aircraft across much of the country. There are other private
-airlines as well. Tickets are generally reasonable, although far more
-expensive than rail travel.
-
-**Contributors**
-May 12, 2005
-
-type: By Air
+Within India, a growing number of private airlines — IndiGo, SpiceJet, Vistara, and others — operate modern aircraft across the country. Domestic flights are generally affordable, though still more expensive than rail travel. For long distances, flying saves enormous amounts of time: Delhi to Kochi by train takes over 40 hours, but just three hours by air.

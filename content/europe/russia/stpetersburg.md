@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
   poi_cleanup: '2026-04-21'
+  poi_cleanup: '2026-04-19'
 image: stpetersburg.jpg
 image_attribution: Florstein (Telegram:WikiPhoto.Space)
 image_license: CC BY-SA 4.0

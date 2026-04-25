@@ -1,9 +1,16 @@
 ---
-category: Sight
-latitude: 59.955081
-longitude: 30.310457
-title: Music Theatre
+done:
+  poi_cleanup: '2026-04-21'
+latitude: 55.7614
+longitude: 37.6118
+snippet: Historic opera and ballet theatre on Bolshaya Dmitrovka
+tags:
+- things_to_do
+- theatre
+title: Stanislavsky and Nemirovich-Danchenko Music Theatre
 type: poi
 ---
 
-Dmitry Bryantsev, the Chief Choreographer of the Music Theatre named after Stanislavsky and Nemirovich-Danchenko ( Bolshaya Dmitrovka, 17), is especially popular with the admirers of modern ballet-dancing. All performances including classical ballets, such as Don Quixote and The Swan Lake, and typical avant-garde ballets, e.g. The Taming of The Shrew (music composed by Bronner), staged by this popular ballet-master, attract a lot of people to the theatre located in the city center, on Bolshaya Dmitrovka street.
+The Stanislavsky and Nemirovich-Danchenko Music Theatre on Bolshaya Dmitrovka 17 is Moscow's other great opera and ballet house — less famous than the Bolshoi just down the road, but with a strong reputation for adventurous programming and modern choreography. The company performs both classical repertoire (Swan Lake, Don Quixote) and contemporary works, and tickets are considerably easier to get than at the Bolshoi.
+
+The theatre itself is a handsome early-20th-century building with a recently renovated interior. Performances tend to draw a knowledgeable local audience rather than tourist crowds, which makes for a more relaxed atmosphere. Check the schedule in advance — the ballet programme in particular is worth watching for.

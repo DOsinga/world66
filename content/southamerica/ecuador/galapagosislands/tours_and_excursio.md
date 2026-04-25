@@ -1,5 +1,7 @@
 ---
-title: "Tours and Excursions"
+done:
+  poi_cleanup: '2026-04-21'
+title: Tours and Excursions
 type: section
 ---
 

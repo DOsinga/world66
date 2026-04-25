@@ -10,6 +10,11 @@ latitude: 12.0
 longitude: -15.0
 title: Guinea-Bissau
 type: location
+quick_facts:
+  Population: "2.1 million"
+  Language: "Portuguese (Creole spoken)"
+  Bijagos Islands: "88 islands"
+  Top Export: Cashew nuts (90% of exports)
 score: 0.24
 ---
 

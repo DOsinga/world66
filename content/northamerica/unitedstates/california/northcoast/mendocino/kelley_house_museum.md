@@ -1,6 +1,7 @@
 ---
 title: "Kelley House Museum"
 type: poi
+snippet: "1861 Victorian home chronicling Mendocino's redwood lumber era"
 tags:
   - things_to_do
   - museum

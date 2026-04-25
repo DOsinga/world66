@@ -1,8 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-20'
 latitude: 28.355
 longitude: -81.4019
+snippet: Old-school gator park and antidote to the mega parks
 tags:
 - things_to_do
 - landmark

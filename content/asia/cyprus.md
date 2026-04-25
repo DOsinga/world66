@@ -9,6 +9,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Near_Trodos,_Cyprus_(8132780501).jpg
 latitude: 34.917416
 longitude: 32.889903
+quick_facts:
+  Population: "1.2 million"
+  Currency: Euro (south)
+  Divided Since: "1974"
+  Sunshine Days: "340/year"
 score: 0.66
 title: Cyprus
 type: location

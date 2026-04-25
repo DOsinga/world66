@@ -1,0 +1,15 @@
+content/europe/sweden.md
+content/europe/switzerland.md
+content/europe/ukraine.md
+content/europe/unitedkingdom.md
+content/europe/vaticancity.md
+content/northamerica/bahamas.md
+content/northamerica/belize.md
+content/northamerica/bermuda.md
+content/northamerica/canada.md
+content/northamerica/costarica.md
+content/northamerica/elsalvador.md
+content/northamerica/greenland.md
+content/northamerica/guatemala.md
+content/northamerica/honduras.md
+content/northamerica/jamaica.md

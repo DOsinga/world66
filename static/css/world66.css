@@ -784,6 +784,40 @@ img { max-width: 100%; height: auto; }
   height: calc(100% - 41px);
 }
 
+/* Quick facts grid in sidebar */
+.sidebar-quick-facts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.quick-fact-card {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 14px 12px 12px;
+  text-align: center;
+}
+
+.quick-fact-value {
+  font-family: var(--display-font);
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 4px;
+}
+
+.quick-fact-label {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--mute);
+}
+
 /* Sidebar toggle — hidden on desktop */
 .sidebar-toggle {
   display: none;

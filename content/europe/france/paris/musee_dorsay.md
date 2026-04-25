@@ -1,9 +1,12 @@
 ---
 address: 1 Rue de la Légion d'Honneur, 75007 Paris
 admission: €16; free first Sun of the month
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.859918
 longitude: 2.326585
 opening_hours: Tue–Sun 9:30am–6pm (Thu until 9:45pm); closed Mon
+snippet: World-class Impressionist art in a grand railway station
 tags:
 - things_to_do
 title: Musée d'Orsay

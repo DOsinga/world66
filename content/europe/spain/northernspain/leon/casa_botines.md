@@ -1,6 +1,7 @@
 ---
 latitude: 42.5991
 longitude: -5.5714
+snippet: Rare Gaudí building outside Catalonia, now a museum
 story: 'Casa Botines was designed by Antoni Gaudí in 1892, one of only three buildings
   he built outside Catalonia. The client was a textile merchant who had worked with
   Gaudí''s patron Eusebi Güell. Locals were apparently skeptical of the eccentric

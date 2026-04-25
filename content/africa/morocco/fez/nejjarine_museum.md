@@ -1,6 +1,7 @@
 ---
 latitude: 34.0651
 longitude: -4.9743
+snippet: Carved cedar collection in a restored caravanserai with rooftop views
 tags:
 - things_to_do
 - fes_el_bali

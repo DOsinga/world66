@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:EEIM" title="User:EEIM">EEIM</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "28 million"
+  Travel Advisory: "Most governments advise against travel"
+  Angel Falls: "979 m — world's highest waterfall"
+  Bird Species: "1,400+ recorded"
 score: 0.34
 ---
 

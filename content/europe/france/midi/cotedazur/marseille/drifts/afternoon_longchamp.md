@@ -5,8 +5,13 @@ image: afternoon_longchamp.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Palais_Longchamp_3.jpg
 neighbourhood: Longchamp & Cours Julien
+pois:
+- europe/france/midi/cotedazur/marseille/palaislongchamp
+- europe/france/midi/cotedazur/marseille/musecantini
 snippet: A baroque fountain palace, two museums, then street art and terrace wine
-time_of_day: afternoon
+time_of_day:
+- morning
+- afternoon
 title: Palais Longchamp & Cours Julien
 type: drift
 ---

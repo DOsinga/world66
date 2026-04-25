@@ -5,9 +5,13 @@ image: evening_cours_julien.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cours_Julien_%C3%A0_Marseille_(France).jpg
 neighbourhood: Cours Julien & La Plaine
+pois:
+- europe/france/midi/cotedazur/marseille/lacrie
+- europe/france/midi/cotedazur/marseille/fontainecantini
+- europe/france/midi/cotedazur/marseille/palaisdesarts
 snippet: Street art, a cheap dinner, live music or theatre, and a late drink under the plane trees
 time_of_day: evening
-title: Cours Julien Evening
+title: Cours Julien
 type: drift
 ---
 

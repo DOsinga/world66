@@ -95,6 +95,18 @@ def location_or_section(request, path):
     if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
+
+    # Normalise drift time slots to a list; load any referenced POIs
+    drift_time_slots = []
+    drift_pois = []
+    if page.page_type == "drift":
+        tday = page.meta.get("time_of_day", "")
+        drift_time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
+        for poi_path in page.meta.get("pois", []):
+            poi_page = load_page(poi_path)
+            if poi_page:
+                drift_pois.append(poi_page)
+
     nav_pages, locations, pois = page.children()
 
     # Separate neighbourhood pages from nav pages so they render inline under
@@ -154,6 +166,9 @@ def location_or_section(request, path):
                 for d in drift_items:
                     d_img = _image_path(d, branch)
                     d.image_url = f'/content-image/{d_img}{branch_qs}' if d_img else None
+                    tday = d.meta.get("time_of_day", "")
+                    d.time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
+                    d.primary_time = d.time_slots[0] if d.time_slots else ""
                 break
 
     # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
@@ -193,7 +208,12 @@ def location_or_section(request, path):
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
-    if page.page_type in NAV_TYPES:
+    if page.page_type == "drift":
+        for poi in drift_pois:
+            img_path = _image_path(poi, branch)
+            if img_path:
+                poi_images.append({'url': f'/content-image/{img_path}{branch_qs}', 'title': poi.title, 'href': poi.get_absolute_url()})
+    elif page.page_type in NAV_TYPES:
         for poi in pois:
             img_path = _image_path(poi, branch)
             if img_path:
@@ -206,6 +226,15 @@ def location_or_section(request, path):
     markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
+    # For drift pages, build markers from the referenced POIs
+    if page.page_type == "drift" and drift_pois:
+        drift_markers = [m for m in (_marker_from_page(p, highlight=True) for p in drift_pois) if m]
+        markers = drift_markers
+        markers_full = drift_markers
+        if lat is None and lng is None and drift_markers:
+            lat = drift_markers[0]["lat"]
+            lng = drift_markers[0]["lng"]
+
     breadcrumbs = page.breadcrumbs()
 
     return render(request, "guide/page.html", {
@@ -217,6 +246,7 @@ def location_or_section(request, path):
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
         "drift_items": drift_items,
+        "drift_time_slots": drift_time_slots,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,

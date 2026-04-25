@@ -2432,10 +2432,15 @@ img { max-width: 100%; height: auto; }
   background: linear-gradient(180deg, rgba(0,0,0,0.08) 0%, transparent 35%, rgba(0,0,0,0.65) 100%);
 }
 
-.drift-city-badge {
+.drift-city-badges {
   position: absolute;
   top: 12px;
   left: 12px;
+  display: flex;
+  gap: 4px;
+}
+
+.drift-city-badge {
   padding: 0.22em 0.7em;
   border-radius: 2em;
   font-family: var(--label-font);
@@ -2494,6 +2499,61 @@ img { max-width: 100%; height: auto; }
   .drift-city-grid {
     grid-template-columns: 1fr;
   }
+}
+
+/* ---- Drift sidebar card ---- */
+
+.drift-sidebar-card {
+  margin-top: 14px;
+  background: var(--paper);
+  border: 1px solid var(--line-2);
+  border-radius: 3px;
+  padding: 14px 16px 16px;
+  position: relative;
+  overflow: hidden;
+}
+
+.drift-sidebar-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), #e0a060);
+}
+
+.drift-sidebar-badges {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 11px;
+}
+
+.drift-sidebar-duration {
+  font-family: var(--display-font);
+  font-size: 34px;
+  font-weight: 400;
+  line-height: 1;
+  color: var(--ink);
+  margin-bottom: 3px;
+  letter-spacing: -0.02em;
+}
+
+.drift-sidebar-meta {
+  font-family: var(--label-font);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--mute);
+  margin-bottom: 0;
+}
+
+.drift-sidebar-snippet {
+  font-size: 13px;
+  font-style: italic;
+  line-height: 1.55;
+  color: var(--ink);
+  border-top: 1px solid var(--line);
+  padding-top: 11px;
+  margin-top: 12px;
 }
 
 /* ---- Drifts — individual page header ---- */

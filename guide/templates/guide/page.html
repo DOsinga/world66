@@ -71,6 +71,17 @@
   </div>
   {% endif %}
 
+  {% if page.page_type == "vibe" %}
+  <div class="drift-sidebar-card">
+    <div class="drift-sidebar-badges">
+      {% for t in drift_time_slots %}<span class="drift-badge drift-badge--{{ t }}">{{ t|capfirst }}</span>{% endfor %}
+    </div>
+    {% if page.meta.duration %}<div class="drift-sidebar-duration">{{ page.meta.duration }}</div>{% endif %}
+    {% if page.meta.neighbourhood %}<div class="drift-sidebar-meta">{{ page.meta.neighbourhood }}</div>{% endif %}
+    {% if page.meta.snippet %}<p class="drift-sidebar-snippet">{{ page.meta.snippet }}</p>{% endif %}
+  </div>
+  {% endif %}
+
   {% if parent_sections|length > 1 %}
   <nav class="section-sidenav">
     {% if parent %}
@@ -145,7 +156,7 @@
 
 {% if page.page_type == "drift" %}
 <div class="drift-header">
-  {% if page.meta.time_of_day %}<span class="drift-badge drift-badge--{{ page.meta.time_of_day }}">{{ page.meta.time_of_day|capfirst }}</span>{% endif %}
+  {% for t in drift_time_slots %}<span class="drift-badge drift-badge--{{ t }}">{{ t|capfirst }}</span>{% endfor %}
   {% if page.meta.duration %}<span class="drift-duration">{{ page.meta.duration }}</span>{% endif %}
   {% if page.meta.neighbourhood %}<span class="drift-neighbourhood">&middot; {{ page.meta.neighbourhood }}</span>{% endif %}
 </div>
@@ -404,12 +415,12 @@
   <h2 class="section-block-heading">How to spend your time</h2>
   <div class="drift-city-grid">
     {% for drift in drift_items %}
-    <a href="{{ drift.get_absolute_url }}" class="drift-city-card{% if not drift.image_url %} drift-city-card--no-image{% endif %}" {% if drift.meta.time_of_day %}data-time="{{ drift.meta.time_of_day }}"{% endif %}>
+    <a href="{{ drift.get_absolute_url }}" class="drift-city-card{% if not drift.image_url %} drift-city-card--no-image{% endif %}" {% if drift.primary_time %}data-time="{{ drift.primary_time }}"{% endif %}>
       {% if drift.image_url %}
       <img src="{{ drift.image_url }}" alt="{{ drift.title }}">
       {% endif %}
       <div class="drift-city-veil"></div>
-      {% if drift.meta.time_of_day %}<span class="drift-city-badge drift-badge--{{ drift.meta.time_of_day }}">{{ drift.meta.time_of_day|capfirst }}</span>{% endif %}
+      <div class="drift-city-badges">{% for t in drift.time_slots %}<span class="drift-city-badge drift-badge--{{ t }}">{{ t|capfirst }}</span>{% endfor %}</div>
       <div class="drift-city-txt">
         <div class="drift-city-name">{{ drift.title }}</div>
         {% if drift.meta.snippet %}<div class="drift-city-snippet">{{ drift.meta.snippet }}</div>{% endif %}

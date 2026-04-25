@@ -5,9 +5,12 @@ image: morning_fish_market.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:March%C3%A9_poisson_Marseille_022.jpg
 neighbourhood: Vieux-Port & Noailles
+pois:
+- europe/france/midi/cotedazur/marseille/hallepuget
+- europe/france/midi/cotedazur/marseille/hteldecabre
 snippet: Fish on the quay at eight, spices and sfenj in Noailles, coffee on a terrace in the sun
 time_of_day: morning
-title: Fish Market Morning
+title: The Fish Market
 type: drift
 ---
 

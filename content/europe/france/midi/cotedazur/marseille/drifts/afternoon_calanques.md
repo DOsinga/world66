@@ -5,9 +5,14 @@ image: afternoon_calanques.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Calanque_d%27En_Vau-Cassis.jpg
 neighbourhood: Calanques
+pois:
+- europe/france/midi/cotedazur/marseille/calanques
+- europe/france/midi/cotedazur/marseille/vallondesauffes
 snippet: Turquoise water, white limestone cliffs, and a swim you'll think about for years
-time_of_day: afternoon
-title: Calanques Afternoon
+time_of_day:
+- morning
+- afternoon
+title: The Calanques
 type: drift
 ---
 

@@ -3,11 +3,15 @@ category: evening
 duration: 3–4h
 image: evening_vieux_port.jpg
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Marseille_Vallon_des_Auffes_Panorama.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Marseille_Vallon_des_Auffes_08.jpg
 neighbourhood: Vieux-Port & Corniche
+pois:
+- europe/france/midi/cotedazur/marseille/vallondesauffes
+- europe/france/midi/cotedazur/marseille/palaisdupharo
+- europe/france/midi/cotedazur/marseille/lacrie
 snippet: Aperitif at a tiny fishing port, sunset from the Pharo terrace, dinner at the old port
 time_of_day: evening
-title: Vieux-Port Sunset Evening
+title: Vallon des Auffes
 type: drift
 ---
 

@@ -143,6 +143,13 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
+{% if page.page_type == "drift" %}
+<div class="drift-header">
+  {% if page.meta.time_of_day %}<span class="drift-badge drift-badge--{{ page.meta.time_of_day }}">{{ page.meta.time_of_day|capfirst }}</span>{% endif %}
+  {% if page.meta.duration %}<span class="drift-duration">{{ page.meta.duration }}</span>{% endif %}
+  {% if page.meta.neighbourhood %}<span class="drift-neighbourhood">&middot; {{ page.meta.neighbourhood }}</span>{% endif %}
+</div>
+{% endif %}
 
 {% if page.properties %}
 <div class="info-box">
@@ -234,7 +241,7 @@
 {% block wide_content %}
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
 <div class="wide-block poi-section">
-  <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
+  <span class="section-kicker">{% if page.meta.kicker %}{{ page.meta.kicker }}{% elif page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
   <div class="poi-section-head">
     <h2 class="poi-section-title">{{ page.title }}</h2>
     {% if poi_categories %}
@@ -255,7 +262,7 @@
           <div class="poi-name">{{ poi.title }}</div>
           <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
-        <div class="poi-tag">
+        <div class="poi-tag"{% if poi.page_type == "drift" and poi.meta.time_of_day %} data-time="{{ poi.meta.time_of_day }}"{% endif %}>
           {% if poi.category %}{{ poi.category }}{% endif %}
           {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
         </div>

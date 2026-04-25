@@ -2385,6 +2385,45 @@ img { max-width: 100%; height: auto; }
   flex-wrap: wrap;
 }
 
+/* ---- Drifts ---- */
+
+.drift-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0 0 1.6rem;
+  flex-wrap: wrap;
+}
+
+.drift-badge {
+  display: inline-block;
+  padding: 0.22em 0.75em;
+  border-radius: 2em;
+  font-family: var(--label-font);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.drift-badge--morning   { background: #fff3cd; color: #856404; }
+.drift-badge--afternoon { background: #cfe2ff; color: #0a3675; }
+.drift-badge--evening   { background: #ffe5d0; color: #7c3a1a; }
+.drift-badge--night     { background: #1e1e35; color: #b0b0d8; }
+
+.drift-duration,
+.drift-neighbourhood {
+  font-family: var(--label-font);
+  font-size: 0.82rem;
+  color: var(--mute);
+}
+
+/* Time-of-day colour on poi-tag in drift lists */
+.poi-tag[data-time="morning"]   { color: #856404; }
+.poi-tag[data-time="afternoon"] { color: #0a3675; }
+.poi-tag[data-time="evening"]   { color: #7c3a1a; }
+.poi-tag[data-time="night"]     { color: #6060b0; }
+
 @media (max-width: 480px) {
   .logo-ribbon { display: none; }
 

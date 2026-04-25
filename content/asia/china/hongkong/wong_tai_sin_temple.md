@@ -3,6 +3,7 @@ address: Wong Tai Sin Estate, Kowloon
 latitude: 22.3443
 longitude: 114.2009
 opening_hours: Daily 7:00–17:30
+snippet: Hong Kong's busiest Taoist temple, famous for fortune-telling
 tags:
 - kowloon
 - things_to_do

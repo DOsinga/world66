@@ -1,6 +1,6 @@
 ---
-title: China
-type: location
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.000074
 longitude: 104.999927
 quick_facts:
@@ -9,6 +9,8 @@ quick_facts:
   High-Speed Rail: "45,000 km"
   Great Wall Length: "21,196 km"
 score: 0.57
+title: China
+type: location
 ---
 
 China is one of the most varied countries on earth. Within its borders you get the Tibetan Plateau, the Gobi Desert, the karst mountains of Guilin, the subtropical forests of Yunnan, and some of the world's most dynamic cities. The sheer scale of the place means no single trip covers it all — and that's part of the appeal.

@@ -1,6 +1,7 @@
 ---
 title: "Te Papa Tongarewa"
 type: poi
+snippet: "Free national museum with Maori taonga and a colossal squid"
 tags: [things_to_do]
 latitude: -41.2904
 longitude: 174.7820

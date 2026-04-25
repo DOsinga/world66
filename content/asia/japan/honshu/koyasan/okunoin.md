@@ -11,6 +11,7 @@ tags:
 - things_to_do
 title: Okunoin Cemetery
 type: poi
+snippet: "Two-kilometre cedar-lined path past 200,000 graves"
 ---
 
 The sacred path to Okunoin runs for two kilometres through a forest of ancient cryptomeria cedars, flanked on both sides by over 200,000 stone graves, stupas, and memorial lanterns. The graves include feudal lords, daimyo, samurai, and eventually modern corporations who have erected monuments here to commemorate their employees. Walking the path in the early morning, before tour groups arrive, is one of the most affecting experiences in Japan.

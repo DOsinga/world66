@@ -1,15 +1,10 @@
 ---
 title: "One Two Cafe"
 type: poi
-address: "Temple Road"
-latitude: 51.498528
-longitude: -0.308244
+address: "Temple Road, McLeod Ganj"
+latitude: 32.2426
+longitude: 76.3213
+snippet: "Relaxed cafe on Temple Road near Tsuglagkhang Complex"
 ---
 
-Truly place of coffee taste and hangout place. Great place for relaxation, next to the main temple of His Holiness.
-
-
-
-
-
-address: Temple Road
+A small cafe on Temple Road, just steps from the Tsuglagkhang Complex (the Dalai Lama's temple). It draws a mix of travelers and locals looking for a quiet coffee stop between visits to the temple and the surrounding Tibetan market stalls. The menu covers the usual McLeod Ganj range of Indian, Tibetan, and Western dishes alongside decent coffee.

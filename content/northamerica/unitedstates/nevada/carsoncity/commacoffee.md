@@ -1,6 +1,7 @@
 ---
 latitude: 39.162106
 longitude: -119.767182
+snippet: Charming coffee shop with live music and patio
 tags:
 - bars_and_cafes
 - bar

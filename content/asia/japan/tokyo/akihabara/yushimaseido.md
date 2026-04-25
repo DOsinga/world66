@@ -1,6 +1,7 @@
 ---
 latitude: 35.7004
 longitude: 139.7666
+snippet: "Rare Confucian temple and birthplace of Japanese public education"
 tags:
 - things_to_do
 title: Yushima Seido

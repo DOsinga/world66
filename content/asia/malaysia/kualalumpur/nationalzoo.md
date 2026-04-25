@@ -1,6 +1,7 @@
 ---
 latitude: 3.210663
 longitude: 101.757762
+snippet: Large zoo with Malaysian wildlife and aquarium
 tags:
 - things_to_do
 - landmark
@@ -8,25 +9,6 @@ title: National Zoo
 type: poi
 ---
 
-The zoo, located at Jalan Hulu Kelang, is an oasis in the midst of concrete buildings. Therefore it might be a nice break from walking in the midst of a megapolis. At the national zoo you can see about about 400 species of Malaysian and exotic mammals, reptiles and birds. One highlight is the Sumatran tiger. Other exotic (and endangered) animals on display are orang utans and gibbons. Admission is about 6 Malaysian Ringgit for adults and 2 RM for children. The Zoo is open daily from 9 am to 5 pm.
+Zoo Negara sits on 45 hectares along Jalan Hulu Kelang, a welcome break from central KL's concrete and traffic. Around 400 species of mammals, reptiles, and birds are on show, with the emphasis on Southeast Asian wildlife. The Sumatran tigers and orangutans are the headline draws, and the gibbon enclosure is worth lingering at.
 
-
- Located at the grounds of the National Zoo is the Tunku Abdul Rahman Aquarium. Admission is free.
-
-type: Parks, Gardens and Zoo's
-
-
-
-
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The Tunku Abdul Rahman Aquarium is on the grounds and included with admission. The zoo is open daily from 9 am to 5 pm. Getting there is easiest by Grab or taxi from the city centre, about 20 minutes depending on traffic.

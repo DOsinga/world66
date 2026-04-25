@@ -3,6 +3,7 @@ address: 1906 Van Ness Ave
 latitude: 37.7934
 longitude: -122.4225
 phone: (415) 885-4605
+snippet: Tableside-carved prime rib institution since 1949
 tags:
 - eating_out
 - restaurant

@@ -109,10 +109,11 @@ def location_or_section(request, path):
 
     nav_pages, locations, pois = page.children()
 
-    # Separate neighbourhood pages from nav pages so they render inline under
-    # the article body rather than in the sidebar sections list.
+    # Separate neighbourhood and vibe pages from nav pages so they render as
+    # dedicated strips on the city page rather than in the sidebar sections list.
     neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
-    nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
+    vibe_items = [p for p in nav_pages if p.page_type == "vibe"]
+    nav_pages = [p for p in nav_pages if p.page_type not in ("neighbourhood", "vibe")]
 
     # Build the city tag index once so all tagged_pois() calls reuse it.
     # Only build for actual city-level pages: nav pages (sections), or location
@@ -156,20 +157,12 @@ def location_or_section(request, path):
         nb_img = _image_path(nb, branch)
         nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
 
-    # Extract individual vibes from the vibes section_group (if present) for city-page display
-    vibe_items = []
-    if page.page_type == "location":
-        for sg in nav_pages:
-            if sg.page_type == "section_group" and sg.slug == "vibes":
-                vibe_nav, _, _ = sg.children()
-                vibe_items = [p for p in vibe_nav if p.page_type == "vibe"]
-                for d in vibe_items:
-                    d_img = _image_path(d, branch)
-                    d.image_url = f'/content-image/{d_img}{branch_qs}' if d_img else None
-                    tday = d.meta.get("time_of_day", "")
-                    d.time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
-                    d.primary_time = d.time_slots[0] if d.time_slots else ""
-                break
+    for d in vibe_items:
+        d_img = _image_path(d, branch)
+        d.image_url = f'/content-image/{d_img}{branch_qs}' if d_img else None
+        tday = d.meta.get("time_of_day", "")
+        d.time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
+        d.primary_time = d.time_slots[0] if d.time_slots else ""
 
     # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
     locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)

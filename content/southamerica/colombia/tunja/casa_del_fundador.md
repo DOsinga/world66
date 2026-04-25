@@ -1,16 +1,19 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 5.5354
 longitude: -73.3672
-story: The painted ceiling in the main room was hidden under a later false ceiling for
-  generations. When that ceiling collapsed in the 20th century, conservators found the
-  original beams covered in detailed depictions of animals from Africa, Asia, and the
-  Americas — painted within a few years of Tunja's founding, by artists who had never
-  seen most of the creatures they depicted.
+snippet: Last surviving founder's house in Latin America with hidden murals
+story: The painted ceiling in the main room was hidden under a later false ceiling
+  for generations. When that ceiling collapsed in the 20th century, conservators found
+  the original beams covered in detailed depictions of animals from Africa, Asia,
+  and the Americas — painted within a few years of Tunja's founding, by artists who
+  had never seen most of the creatures they depicted.
 tags:
 - things_to_do
 - museum
 - landmark
-title: "Casa del Fundador Gonzalo Su\xE1rez Rend\xF3n"
+title: Casa del Fundador Gonzalo Suárez Rendón
 type: poi
 ---
 

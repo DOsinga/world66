@@ -9,6 +9,11 @@ image_license: Public domain
 image_attribution: Man vyi
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "175,000"
+  Distance to France: "Just 14 miles"
+  Sark: "No cars allowed — last feudal state in Europe until 2008"
+  Status: "British Crown dependencies, not part of the UK"
 score: 0.59
 ---
 

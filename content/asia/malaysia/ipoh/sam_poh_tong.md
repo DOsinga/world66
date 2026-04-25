@@ -1,7 +1,10 @@
 ---
 address: Gunung Rapat, 5 km south of Ipoh
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 4.5595
 longitude: 101.1075
+snippet: Ipoh's largest cave temple with stalactite-framed Buddhist statues
 tags:
 - things_to_do
 - landmark

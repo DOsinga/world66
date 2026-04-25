@@ -1,5 +1,7 @@
 ---
-title: "Budget Travel Ideas"
+done:
+  poi_cleanup: '2026-04-21'
+title: Budget Travel Ideas
 type: section
 ---
 

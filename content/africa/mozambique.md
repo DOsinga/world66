@@ -7,6 +7,11 @@ image: mozambique.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Church_in_Monapo,_Mozambique.jpg
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jcornelius" title="User:Jcornelius">Jcornelius</a>
+quick_facts:
+  Population: "33 million"
+  Language: "Portuguese"
+  Coastline: "2,470 km"
+  Bazaruto Archipelago: "Africa's largest marine park"
 done:
   country_cleanup: 2026-03-29
 score: 0.4

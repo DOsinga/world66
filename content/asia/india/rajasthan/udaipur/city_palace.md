@@ -4,6 +4,7 @@ admission: ₹300 for foreigners, ₹30 for Indians; extra for Crystal Gallery
 latitude: 24.5764
 longitude: 73.6843
 opening_hours: Daily 09:30–17:30
+snippet: Rajasthan's largest palace complex overlooking Lake Pichola
 tags:
 - things_to_do
 - landmark

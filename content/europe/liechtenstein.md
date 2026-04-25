@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161014183619/http://www.panoramio.com/user/861544?with_photo_id=39485038">trolvag</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "40,000"
+  Currency: Swiss Franc (CHF)
+  Total Area: "160 km² — smaller than Washington D.C."
+  Doubly Landlocked: One of only two countries in the world
 score: 0.6
 ---
 

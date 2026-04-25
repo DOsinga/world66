@@ -8,6 +8,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg
 latitude: -6.86997
 longitude: -75.045851
+quick_facts:
+  Population: "34 million"
+  Altitude Warning: "Cusco is at 3,400 m — acclimatize"
+  Potato Varieties: "3,000+ native cultivars"
+  Nazca Lines: visible only from the air
 score: 0.49
 title: Peru
 type: location

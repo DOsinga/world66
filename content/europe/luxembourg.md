@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Libreravi" title="
   Dwivedi</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "680,000"
+  Public Transport: Free since 2020
+  Non-Luxembourgish Residents: "Nearly 50%"
+  Languages in Daily Use: "3 — Luxembourgish, French, German"
 score: 0.64
 ---
 

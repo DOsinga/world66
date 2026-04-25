@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ypsilon_from_Finla
   title="User:Ypsilon from Finland">Ypsilon from Finland</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "3.4 million"
+  Cost Level: "Priciest in South America"
+  Cattle-to-People Ratio: "4 cows per person"
+  Renewable Energy: "98% of electricity"
 score: 0.54
 ---
 

@@ -11,6 +11,11 @@ latitude: -14.297124
 longitude: -170.713148
 title: American Samoa
 type: location
+quick_facts:
+  Population: "About 49,000"
+  Currency: US dollar
+  Number of Islands: "7"
+  National Park Visitors per Year: "Fewer than 30,000"
 score: 0.49
 ---
 

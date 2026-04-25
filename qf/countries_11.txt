@@ -1,0 +1,15 @@
+content/europe/macedonia.md
+content/europe/malta.md
+content/europe/moldova.md
+content/europe/monaco.md
+content/europe/montenegro.md
+content/europe/norway.md
+content/europe/poland.md
+content/europe/portugal.md
+content/europe/romania.md
+content/europe/russia.md
+content/europe/sanmarino.md
+content/europe/serbia.md
+content/europe/slovakia.md
+content/europe/slovenia.md
+content/europe/spain.md

@@ -1,4 +1,9 @@
 ---
+quick_facts:
+  Population: "~3,400"
+  Access: "Flights from UK or Chile only"
+  Penguins: "~1 million — five species nest here"
+  Sheep-to-People Ratio: "~170 to 1"
 done:
   country_cleanup: 2026-03-29
   location_cleanup: '2026-04-08'

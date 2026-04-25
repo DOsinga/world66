@@ -1,7 +1,10 @@
 ---
 category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.5368
 longitude: 17.5926
+snippet: Poland's oldest cathedral with stunning 12th-century bronze doors
 story: The bronze doors were cast around 1170, possibly in Magdeburg or Saxony, and
   smuggled back to Gniezno — they are among the oldest narrative bronze doors in Europe
   and have survived eight centuries of war, looting, and fire essentially intact.

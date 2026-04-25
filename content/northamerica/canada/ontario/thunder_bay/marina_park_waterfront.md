@@ -1,6 +1,7 @@
 ---
 latitude: 48.4019
 longitude: -89.2453
+snippet: Lakefront park with Sleeping Giant views and summer concerts
 tags:
 - things_to_do
 - neighbourhood

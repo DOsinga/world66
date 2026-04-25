@@ -2,6 +2,7 @@
 address: 536 avenue Duluth Est, Montréal, QC H2L 1A9
 latitude: 45.5209
 longitude: -73.5742
+snippet: Martin Picard's legendary temple of Québécois excess
 tags:
 - eating_out
 title: Au Pied de Cochon

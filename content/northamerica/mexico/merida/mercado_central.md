@@ -1,6 +1,7 @@
 ---
 title: "Mercado Lucas de Galvez"
 type: poi
+snippet: "Sensory-overload market with Yucatecan street food and hammock shops"
 tags:
   - things_to_do
   - market

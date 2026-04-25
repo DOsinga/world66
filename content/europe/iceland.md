@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ypsilon_from_Finla
   title="User:Ypsilon from Finland">Ypsilon from Finland</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "380,000"
+  Cost Level: "A beer costs ~$12"
+  Glaciers: "Cover 11% of the country"
+  No Surnames: Icelanders use patronymics
 score: 0.81
 ---
 

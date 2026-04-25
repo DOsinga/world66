@@ -15,6 +15,11 @@ image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Simisa" title="Us
   decoding="async" width="22" height="22" class="mw-file-element" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Commonist.svg/60px-Commonist.svg.png
   2x" data-file-width="512" data-file-height="512"></a></span> This   file was uploaded  with
   <a href="//commons.wikimedia.org/wiki/Commons:Commonist" title="Commons:Commonist">Commonist</a>.</div>'
+quick_facts:
+  Population: "8.8 million"
+  Currency: West African CFA
+  East to West: "Only 115 km wide"
+  Voodoo Birthplace: Togoville
 done:
   country_cleanup: 2026-03-31
 score: 0.32

@@ -3,6 +3,11 @@ title: Colombia
 type: location
 latitude: 4.099917
 longitude: -72.908813
+quick_facts:
+  Population: "52 million"
+  Budget Meal: "~$2–4"
+  Bird Species: "~1,960 — most of any country"
+  Bogotá Altitude: "2,640 m — bring a jacket"
 image: colombia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:San_Felix_surroundings.JPG
 image_license: Public domain

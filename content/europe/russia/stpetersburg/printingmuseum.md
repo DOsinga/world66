@@ -1,10 +1,12 @@
 ---
-title: "Printing Museum"
-type: poi
-snippet: "Small museum of printing history on the Moyka"
 category: Museum
 latitude: 59.9383
-longitude: 30.3200
+longitude: 30.32
+snippet: Small museum of printing history on the Moyka
+tags:
+- things_to_do
+title: Printing Museum
+type: poi
 ---
 
 Housed in a 1905 printing house on the Moyka River embankment, this small museum is devoted to the history of printing in St Petersburg. The collection includes restored interiors, printing equipment from the mid-19th to early 20th century, and copies of newspapers and magazines from the period. A niche interest, but well presented.

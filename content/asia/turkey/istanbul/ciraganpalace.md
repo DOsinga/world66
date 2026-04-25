@@ -2,6 +2,8 @@
 category: Architecture
 latitude: 41.0441
 longitude: 29.0168
+tags:
+- things_to_do
 title: Çırağan Palace
 type: poi
 ---

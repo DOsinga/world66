@@ -1,6 +1,8 @@
 ---
 latitude: 48.1372
 longitude: 11.5755
+tags:
+- things_to_do
 title: Altstadt
 type: neighbourhood
 ---

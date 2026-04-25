@@ -1,6 +1,8 @@
 ---
 latitude: 31.6295
 longitude: -7.9811
+tags:
+- things_to_do
 title: Medina
 type: neighbourhood
 ---

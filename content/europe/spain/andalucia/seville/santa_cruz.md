@@ -1,6 +1,8 @@
 ---
 latitude: 37.3853
 longitude: -5.9875
+tags:
+- things_to_do
 title: Santa Cruz
 type: neighbourhood
 ---

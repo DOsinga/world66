@@ -3,6 +3,8 @@ category: Historical Sight
 latitude: 37.176077
 longitude: -3.598148
 snippet: Fourteenth-century Arab university with Baroque facade
+tags:
+- things_to_do
 title: Madraza
 type: poi
 ---

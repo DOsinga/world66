@@ -1,6 +1,8 @@
 ---
 latitude: 47.498
 longitude: 19.061
+tags:
+- things_to_do
 title: Jewish Quarter
 type: neighbourhood
 ---

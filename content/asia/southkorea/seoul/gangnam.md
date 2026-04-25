@@ -1,6 +1,8 @@
 ---
 latitude: 37.4979
 longitude: 127.0276
+tags:
+- things_to_do
 title: Gangnam
 type: neighbourhood
 ---

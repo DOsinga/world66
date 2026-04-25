@@ -1,5 +1,4 @@
 ---
-hide_from_city: true
 title: "NDSM"
 type: neighbourhood
 latitude: 52.4024

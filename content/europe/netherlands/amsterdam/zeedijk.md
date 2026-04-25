@@ -3,7 +3,7 @@ category: Street
 latitude: 52.3741
 longitude: 4.9003
 tags:
-- canal_ring
+- de_wallen
 title: Zeedijk
 type: poi
 snippet: "Amsterdam's oldest street, heart of the Chinese quarter"

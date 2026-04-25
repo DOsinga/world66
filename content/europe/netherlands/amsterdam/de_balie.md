@@ -10,7 +10,6 @@ snippet: Cultural centre with cafe, cinema, and debate space near Leidseplein
 tags:
 - bars_and_cafes
 - leidseplein
-- museum_quarter
 title: De Balie
 type: poi
 ---

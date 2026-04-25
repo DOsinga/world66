@@ -7,7 +7,6 @@ longitude: 4.897434
 snippet: Touristy coffeeshop near the Red Light District
 tags:
 - drugs
-- canal_ring
 title: De Grasshopper
 type: poi
 ---

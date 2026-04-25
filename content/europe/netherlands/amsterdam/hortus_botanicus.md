@@ -6,12 +6,12 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:De_Plantage_(17).jpg
 latitude: 52.366806
 longitude: 4.907778
-neighbourhood: Plantage
+neighbourhood: Oost
 opening_hours: Weekdays 9:00–17:00, weekends 11:00–17:00 (closes 16:00 in winter)
+snippet: "One of the world's oldest botanical gardens, founded in 1638"
 tags:
 - things_to_do
-- plantage
-snippet: "One of the world's oldest botanical gardens, founded in 1638"
+- oost
 title: Hortus Botanicus
 type: poi
 ---

@@ -7,6 +7,7 @@ neighbourhood: Centrum
 tags:
 - things_to_do
 - centrum
+- canal_ring
 title: Beurs van Berlage
 type: poi
 snippet: "Founding monument of modern Dutch architecture, now a concert venue"

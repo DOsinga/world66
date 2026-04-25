@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - centrum
+- canal_ring
 story: >
   The upstairs anatomy theatre is where Rembrandt painted "The Anatomy Lesson of
   Dr. Nicolaes Tulp" in 1632 — one of his most famous works. Public dissections were

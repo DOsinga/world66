@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - centrum
+- canal_ring
 story: >
   Legend has it that the coachman of the Trip brothers, who built the enormous
   Trippenhuis across the canal, once sighed that he would be happy with a house

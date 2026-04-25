@@ -8,6 +8,7 @@ snippet: Irish pub with near-nightly live music on Amstel
 tags:
 - bars_and_cafes
 - rembrandtplein
+- canal_ring
 title: Mulligan's
 type: poi
 url: mulligans.nl

@@ -5,6 +5,7 @@ longitude: 4.9323
 snippet: "Award-winning residential docklands with inventive low-rise architecture"
 tags:
 - eastern_docklands
+- oost
 title: Sporenburg
 type: poi
 ---

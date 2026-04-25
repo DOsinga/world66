@@ -8,6 +8,7 @@ snippet: Converted gasworks park with restaurants, cinema, and festivals
 tags:
 - things_to_do
 - park
+- oud_west
 title: Westerpark
 type: poi
 ---

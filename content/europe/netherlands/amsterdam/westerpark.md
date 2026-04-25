@@ -1,4 +1,5 @@
 ---
+hide_from_city: true
 image: westerpark.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Gustaaf%20Oosterhuis%2C%20Afb%20OSIM00008005927.jpg

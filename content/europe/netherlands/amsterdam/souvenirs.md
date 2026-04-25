@@ -4,6 +4,7 @@ longitude: 4.890357
 snippet: 'Cigars, diamonds, and Delftware: Amsterdam''s classic buys'
 tags:
 - shopping
+- canal_ring
 title: Souvenirs
 type: poi
 ---

@@ -5,6 +5,7 @@ longitude: 4.9138
 snippet: "Tree-lined avenue linking Artis zoo and Hortus Botanicus"
 tags:
 - plantage
+- oost
 title: Plantage Kerklaan
 type: poi
 ---

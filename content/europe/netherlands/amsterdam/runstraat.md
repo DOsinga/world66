@@ -7,6 +7,7 @@ longitude: 4.8839
 snippet: Antique shops and boutiques in the Negen Straatjes canal district
 tags:
 - negen_straatjes
+- canal_ring
 title: Runstraat
 type: poi
 ---

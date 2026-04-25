@@ -1,16 +1,9 @@
 ---
-title: "Moon South Pacific"
+author: David Stanley
+isbn: '1566914116'
+snippet: Comprehensive guide to Pacific island travel
+title: Moon South Pacific
 type: poi
-author: "David Stanley"
-isbn: "1566914116"
 ---
 
-The original travel guide to the Pacific islands.
-
-[](http://www.amazon.com/exec/obidos/ASIN/1566914116/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: David Stanley
-
-isbn: 1566914116
+The original travel guide to the Pacific islands by David Stanley, covering Fiji, Tonga, Samoa, Tahiti, the Cook Islands, and dozens of smaller island groups. First published in the 1980s and updated through multiple editions, it remains one of the few guidebooks to treat the South Pacific as a single region rather than cherry-picking a few resort islands. Practical and opinionated, with good coverage of budget travel by inter-island ferry and small plane.

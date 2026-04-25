@@ -1,6 +1,7 @@
 ---
 latitude: 22.2819
 longitude: 114.1582
+snippet: Financial heart and colonial core of Hong Kong Island
 tags:
 - hongkongisland
 - things_to_do

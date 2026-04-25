@@ -1,9 +1,11 @@
 ---
-title: "Beaches"
+address: Kashid Beach
+done:
+  poi_cleanup: '2026-04-21'
+email: saipalace@rediffmail.com
+phone: 95-2144-278629
+title: Beaches
 type: section
-address: "Kashid Beach"
-email: "saipalace@rediffmail.com"
-phone: "95-2144-278629"
 ---
 
 The sea coast approximately 330 mi (530 km) from the Daman Ganga River north of Mumbai to the Terekhol River between Maharashtra and Goa. there are many beaches in Konkan range, where the public can spend there time for picnic in the beauty of nature. Here is a list of the main beaches.

@@ -1,6 +1,10 @@
 ---
+address: Jalan Perdana, Kuala Lumpur
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 3.142054
 longitude: 101.691793
+snippet: Modernist mosque with star-shaped roof and 73-metre minaret
 tags:
 - things_to_do
 - landmark
@@ -8,36 +12,8 @@ title: National Mosque
 type: poi
 ---
 
-The National Mosque is located Jalan Sultan Hishamuddin surrounded by beautiful gardens. It was completed in 1965 after 3 years of construction. Its roof, designed in the shape of an eighteen-pointed star, has the appearance of a partly opened umbrella roof. 
+The National Mosque sits on Jalan Sultan Hishamuddin, surrounded by landscaped gardens near the old railway station. Completed in 1965, its roof takes the shape of an eighteen-pointed star, resembling a partly opened umbrella. The design is considered one of the finest examples of modern Islamic architecture in Malaysia.
 
+The Grand Hall accommodates up to 8,000 worshippers. A 73-metre minaret rises above the complex, and at the rear, a mausoleum within a circular reflecting pool serves as the resting place of several Malaysian national heroes.
 
- It is rated as one of the finest pieces of modern Islamic architecture in Malaysia. The Grand Hall can accommodate 8.000 people. The hall about 500 people. Another impressive feature is a 73 m minaret. A Mausoleum at the rear of the main building stands within a circular pool, and serves as the last resting place for Malaysia's illustrious sons.
-
-
- Do not forget: Visitors are required to remove their shoes before entering the mosque and women should wear decent clothes.
-
-type: Mosques
-
-
-
-
-
-##
-
--
-
--
-
--
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Visitors must remove shoes before entering, and women should dress modestly — robes are available at the entrance if needed.

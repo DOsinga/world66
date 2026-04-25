@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: estonia.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Abrget47j" title="User:Abrget47j">Abrget47j</a>
 image_license: CC BY-SA 3.0

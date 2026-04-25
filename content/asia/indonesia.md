@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-31
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: indonesia/indonesia.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Midori" title="User:Midori">Midori</a>
 image_license: CC BY 3.0

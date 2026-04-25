@@ -1,6 +1,7 @@
 ---
 latitude: 23.6141
 longitude: 58.5933
+snippet: Sultan's ceremonial palace flanked by Portuguese forts
 tags:
 - things_to_do
 - landmark

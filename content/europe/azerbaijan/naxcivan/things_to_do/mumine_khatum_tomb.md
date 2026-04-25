@@ -1,12 +1,17 @@
 ---
 category: Sight
+latitude: 39.2089
+longitude: 45.4115
+snippet: Twelfth-century tomb and masterpiece of Azerbaijani architecture
+tags:
+- things_to_do
+- sight
 title: Mumine Khatum Tomb
 type: poi
 ---
 
-Mumine Khatum Tomb – the huge monument of Azerbaijan national architecture, one of the Oriental pearls – Mumine Khatun tomb was built (architect Ajami Nakhchivani son of Abubakr) in 1186 in the western part of Nakhchivan. The founder of the Azerbaijani state of Eldenizler, Shamsaddin Eldeniz decided to built tomb on the grave of his wife Mumine Khatun, and his son Muhammed Jahan Pahlavan finished the construction work in Muharrem (month) in hijri 582 (the beginning of Moslem era from the 16th of June 622, that’s). The local people also call it Atabeyler monument. On the head of the monument, the following words are written: “We are going, and only wind is left. We die, and only the work is kept.” The total height of the monument was 34 m, and then 8 m out of its surface cover was destroyed. The tomb consists of the surface and underground parts. The tomb part is of ten-pointed shape. According to some other researchers, the tombs of the Head of Atabeyler state- Shamsaddin Eldeniz, his wife Mumine Khatun and his son Muhammed Jahan Pahlavan are all together placed in he monument. The tombstones of those buried there were robbed away. The tomb is of original structure, and is rich in design. Arcs are made from the central column to each of the corners. The same structure of the tomb lately was used in gothic architecture in the West. The outside of the tomb is of ten-pointed shape (each point surrounded with inscriptions), but inside it is round. Inside the dome of the tomb, there four round medallions with the names of the caliphs. The corners of the Mumine Khatun tomb made of burnt brick are of protuberance form, and the surface of the tomb is worked out like hollow.
+The Momine Khatun Tomb is one of the finest examples of medieval Azerbaijani architecture, built in 1186 by the architect Ajami Nakhchivani. The ten-sided tower rises 25 metres above Nakhchivan's western quarter, its exterior covered in intricate geometric brickwork and Kufic inscriptions. The structure was commissioned by Shamsaddin Eldeniz, founder of the Atabeg state, as a mausoleum for his wife Momine Khatun; his son Muhammed Jahan Pahlavan completed the work.
 
-**Contributors**
-April 18, 2006
+The tomb consists of above-ground and underground chambers. Inside, the round interior contrasts with the decagonal exterior, with arched ribs radiating from a central column to each corner — a structural technique that later appeared in European Gothic architecture. Four medallions inside the dome bear the names of the caliphs. The original height was 34 metres, though the upper eight metres of decorative facing have been lost over time.
 
-type: Graves and Cemeteries
+An inscription on the monument reads: "We are going, and only wind is left. We die, and only the work is kept."

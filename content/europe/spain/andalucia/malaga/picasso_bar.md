@@ -2,6 +2,7 @@
 address: Plaza de la Merced, 20
 latitude: 36.7235
 longitude: -4.4169
+snippet: Friendly bar on the square where Picasso was born
 tags:
 - bars_and_cafes
 title: Picasso Bar

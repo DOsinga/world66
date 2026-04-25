@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: albania.jpg
 image_attribution: <a href="https://de.wikipedia.org/wiki/Benutzer:Albinfo" class="extiw"
   title="de:Benutzer:Albinfo">Albinfo</a>

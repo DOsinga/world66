@@ -4,9 +4,11 @@ email: info@brandi.it
 latitude: 40.836944
 longitude: 14.244444
 phone: +39 081 416 6928
+snippet: Claims to have invented the pizza Margherita in 1889
 tags:
 - eating_out
 - restaurant
+- story
 title: Pizzeria Brandi
 type: poi
 url: www.brandi.it

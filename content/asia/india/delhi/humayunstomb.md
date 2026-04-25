@@ -1,9 +1,12 @@
 ---
-category: Sight
 latitude: 28.593286
 longitude: 77.250647
+snippet: Mughal garden tomb and prototype for the Taj Mahal
+tags:
+- things_to_do
+- landmark
 title: Humayun's Tomb
 type: poi
 ---
 
-This tomb, which was built by emperor Humayun's wife, took eight years to complete and is regarded as an example of the early Mughat archetecture. The emperor's wife, Begai Begum, was buried in the tomb and the structure is the first of its kind built in the centre of a well-planned garden. The combination of white marble and red sandstone was a great influence on later Mughal architecure. It is generally regarded as a prototype of the famed Taj Mahal of Agra.
+Commissioned in 1565 by Humayun's widow Bega Begum, this was the first major Mughal garden tomb and took eight years to complete. The design -- a central domed mausoleum set in a symmetrical char bagh garden -- set the template that would eventually lead to the Taj Mahal over a century later. The combination of red sandstone and white marble is striking, and the surrounding gardens are a welcome escape from Delhi's chaos. The complex contains over a hundred tombs in all, including those of later Mughal emperors. Go early to beat the crowds; the light is best in late afternoon.

@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-29
-  poi_cleanup: '2026-04-20'
+  poi_cleanup: '2026-04-21'
 image: morocco.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Lucyin" title="User:Lucyin">Lucyin</a>
 image_license: CC BY-SA 3.0

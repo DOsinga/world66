@@ -10,7 +10,12 @@ quick_facts:
   Cenotes in the Yucatan: "~6,000 natural sinkholes"
 done:
   country_cleanup: 2026-03-29
+  poi_cleanup: '2026-04-21'
+latitude: 23.6345
+longitude: -102.5528
 score: 0.36
+title: Mexico
+type: location
 ---
 
 Mexico rewards travelers who look beyond the all-inclusive resorts. It is the 14th largest country in the world, spanning deserts, jungles, mountains, and two coastlines, with a history that runs from ancient Mesoamerican civilizations through Spanish colonialism to a thriving contemporary culture. The food alone justifies the trip.

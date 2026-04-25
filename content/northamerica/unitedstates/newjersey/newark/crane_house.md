@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.7357
 longitude: -74.1724
+snippet: Birthplace of Stephen Crane, author of The Red Badge of Courage
 tags:
 - things_to_do
 - sight

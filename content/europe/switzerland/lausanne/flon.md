@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 46.5198
 longitude: 6.6298
+snippet: Former industrial quarter turned Lausanne's liveliest bar district
 tags:
 - things_to_do
 - neighbourhood

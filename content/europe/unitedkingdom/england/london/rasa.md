@@ -4,10 +4,10 @@ latitude: 51.562778
 longitude: -0.073889
 phone: 020 7249 0344
 price: Moderate
+snippet: Authentic Keralan cuisine in Stoke Newington
 tags:
 - eating_out
 - restaurant
-- church
 title: Rasa
 type: poi
 url: www.rasarestaurants.com

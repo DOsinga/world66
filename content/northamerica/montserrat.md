@@ -1,4 +1,9 @@
 ---
+quick_facts:
+  Population: "~5,000"
+  Access: "Fly via Antigua — no direct international flights"
+  Capital Plymouth: Buried by volcano in 1997
+  Irish Heritage: St. Patrick's Day is a public holiday
 done:
   country_cleanup: 2026-03-29
   location_cleanup: '2026-04-08'

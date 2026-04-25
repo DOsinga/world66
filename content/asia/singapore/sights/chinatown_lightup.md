@@ -1,7 +1,16 @@
 ---
-title: "Chinatown Lightup"
+title: "Chinatown Light-Up"
 type: poi
-url: "www.singaporesights.com"
+snippet: "Annual Chinese New Year light display along festive streets"
+latitude: 1.2836
+longitude: 103.8444
+tags:
+- things_to_do
+- sight
 ---
 
-Chinatown will come alive on 15/1/05 to usher the Year of the Rooster. The road will be lighted up with colorful lighting and stalls are selling New Year goodies. On the eve of 8th Feb, firecrackers will be fired at midnite and the place will be jammed pack with people like sardine to do a last minutes shopping and great bargain. Just immerse yourself in the festive moods and an experience will last you a lifetime. Make your date then.
+Every year around Chinese New Year, the streets of Chinatown blaze with elaborate light installations stretching along Eu Tong Sen Street, New Bridge Road, and South Bridge Road. The designs change annually, typically featuring the zodiac animal of the year alongside lanterns, dragons, and traditional motifs.
+
+The light-up runs for about six weeks starting in mid-January, and the streets fill with market stalls selling New Year goodies, mandarin oranges, bak kwa (dried meat), and decorations. On the eve of Chinese New Year, the area packs out with crowds doing last-minute shopping and soaking in the atmosphere. Firecrackers are set off at midnight and the energy is infectious.
+
+Even outside the festival period, Singapore's Chinatown is worth a wander for its shophouses, temples, and hawker centres. But if you time your visit right, the light-up transforms the neighbourhood into something truly festive.

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.6613
 longitude: -117.5281
+snippet: Largest natural lake in the Rockies, famous Spirit Island boat cruise
 tags:
 - things_to_do
 - landmark

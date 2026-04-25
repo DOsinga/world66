@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.8779
 longitude: 35.5141
+snippet: Premier archaeological collection, famously protected during civil war
 tags:
 - things_to_do
+- story
 title: National Museum of Beirut
 type: poi
 ---

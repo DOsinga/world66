@@ -9,6 +9,11 @@ image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Commonists" title="User:Commonists">Commonists</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "33,000"
+  Founded: AD 301 — world's oldest republic
+  Area: "61 km²"
+  Cars Per Capita: More cars than people
 score: 0.63
 ---
 

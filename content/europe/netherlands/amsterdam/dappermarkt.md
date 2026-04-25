@@ -2,6 +2,7 @@
 category: Street
 latitude: 52.3619
 longitude: 4.9278
+snippet: Multicultural daily street market in Amsterdam Oost
 tags:
 - oost
 title: Dappermarkt

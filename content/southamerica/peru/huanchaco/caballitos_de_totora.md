@@ -1,6 +1,7 @@
 ---
 title: "Caballitos de Totora"
 type: poi
+snippet: "Ancient reed boats still ridden by local fishermen"
 category: Sight
 latitude: -8.0788
 longitude: -79.1218

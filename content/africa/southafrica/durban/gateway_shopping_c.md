@@ -2,6 +2,7 @@
 address: 1 Palm Boulevard, Umhlanga Ridge
 latitude: -29.73
 longitude: 31.0828
+snippet: Massive mall with surfing wave and climbing wall
 tags:
 - shopping
 title: Gateway Shopping Centre

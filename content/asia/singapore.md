@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: singapore.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Basile_Morin" title="User:Basile
   Morin">Basile Morin</a>
@@ -9,6 +9,11 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Skylines_of_the_Central_Business_District,_Singapore_at_dusk.jpg
 latitude: 1.357107
 longitude: 103.819499
+quick_facts:
+  Population: "6 million"
+  Currency: Singapore Dollar (SGD)
+  Land Area: "730 km² (and still growing via reclamation)"
+  Hawker Centres: "UNESCO-recognised street food culture"
 score: 0.84
 title: Singapore
 type: location

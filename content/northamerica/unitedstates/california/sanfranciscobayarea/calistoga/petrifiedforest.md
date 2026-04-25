@@ -1,6 +1,7 @@
 ---
 title: "Petrified Forest"
 type: poi
+snippet: "Ancient redwoods turned to stone by volcanic ash"
 tags:
   - things_to_do
   - sight

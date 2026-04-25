@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.6959
 longitude: 139.756
+snippet: Broad shopping street linking electronics to secondhand books
 tags:
 - shopping
 title: Yasukuni Dori

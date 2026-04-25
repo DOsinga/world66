@@ -7,6 +7,11 @@ image: somalia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:On_a_desserted_beach_in_Mogadishu,_Somalia_in_Dec_2024.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Drew Binsky
+quick_facts:
+  Population: "18 million"
+  Access: "Do not travel (all advisories)"
+  Coastline: "3,025 km (longest in Africa)"
+  One Language: Somali (rare in Africa)
 done:
   country_cleanup: 2026-03-31
 score: 0.11

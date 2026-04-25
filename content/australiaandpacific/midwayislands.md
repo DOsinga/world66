@@ -10,6 +10,11 @@ image_attribution: <a rel="nofollow" class="external text" href="http://www.hear
   &amp; Kim Starr</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "~40 staff and contractors"
+  Public Access: Closed since 2013
+  Nesting Seabirds Per Year: "3 million"
+  Oldest Known Wild Bird: Wisdom the albatross, banded 1956
 score: 0.4
 ---
 

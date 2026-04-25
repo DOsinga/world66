@@ -1,6 +1,7 @@
 ---
 latitude: 27.4747
 longitude: 89.6374
+snippet: Bhutan's largest market selling chillies, cheese, and produce
 tags:
 - things_to_do
 - landmark

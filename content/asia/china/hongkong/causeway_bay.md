@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.28
 longitude: 114.1855
+snippet: Hong Kong Island's densest shopping and dining district
 tags:
 - hongkongisland
 - things_to_do

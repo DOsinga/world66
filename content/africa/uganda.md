@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Entebbe_Aerial_view.jpg
 latitude: 1.3733
 longitude: 32.2903
+quick_facts:
+  Population: "48 million"
+  English: Widely spoken
+  Mountain Gorillas: "~half the world's"
+  Source of the Nile: Jinja
 title: Uganda
 type: location
 score: 0.38

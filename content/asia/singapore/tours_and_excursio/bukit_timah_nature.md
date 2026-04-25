@@ -1,12 +1,14 @@
 ---
 title: "Bukit Timah Nature Reserve"
 type: poi
-url: "www.singaporesights.com"
+snippet: "Primary rainforest and Singapore's highest point in the city centre"
+tags:
+- things_to_do
+- walk
 latitude: 1.354078
 longitude: 103.77944
 ---
 
-If you like the nature part of Singapore, then do visit the Bukit Timah Nature Reserve. It is managed by the National Parks Board and it is protected and experience the primary vegetation with a rich diversity of flora and fauna. It is part of the Central Catchment Areas and do take a leisure walk to the hill about 163m above MSL if not do take a virtual eco-tour at www.singaporesights.com. See u there and do bring your insect repellent along.
+One of the only patches of primary tropical rainforest left in Singapore, Bukit Timah Nature Reserve packs a remarkable amount of biodiversity into its 163 hectares. The reserve contains more tree species than the entire North American continent. Macaques are common, and if you are quiet you may spot flying lemurs, pangolins, or the reticulated python.
 
-**Contributors**
-May 05, 2005
+The main trail climbs to the summit of Bukit Timah Hill at 163 metres — Singapore's highest natural point. The walk takes about 30 minutes each way and is paved most of the distance, though steeper side trails offer a more rugged experience. The heat and humidity are intense, so bring water and go early. Insect repellent is essential.

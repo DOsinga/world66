@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 4.6026
 longitude: -74.0629
+snippet: Bolivar's colonial estate with gardens and battlefield relics
 tags:
 - things_to_do
 - landmark

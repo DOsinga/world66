@@ -1,6 +1,7 @@
 ---
 latitude: -6.819
 longitude: 39.2895
+snippet: "Gothic-revival German colonial cathedral with harbour-facing spire"
 tags:
 - things_to_do
 - architecture

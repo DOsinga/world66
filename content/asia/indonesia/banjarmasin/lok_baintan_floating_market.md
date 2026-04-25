@@ -1,6 +1,7 @@
 ---
 latitude: -3.35
 longitude: 114.7167
+snippet: Authentic morning floating market an hour upriver
 tags:
 - things_to_do
 title: Lok Baintan Floating Market

@@ -7,6 +7,11 @@ image: srilanka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nuwara_Eliya_2013_01.JPG
 image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Cherubino" title="User:Cherubino">Cherubino</a>
+quick_facts:
+  Population: "22 million"
+  Drives On: Left
+  Leopard Density at Yala: Highest of any national park in the world
+  Country Size: "About the size of Ireland"
 done:
   country_cleanup: 2026-03-30
 score: 0.69

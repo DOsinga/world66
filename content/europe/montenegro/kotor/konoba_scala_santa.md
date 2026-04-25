@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.4248
 longitude: 18.7706
+snippet: No-fuss old town tavern with grilled fish and Montenegrin lamb
 tags:
 - eating_out
 title: Konoba Scala Santa

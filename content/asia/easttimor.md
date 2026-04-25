@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Sanan_Rai_(Earthenware)_2.
 image_license: CC BY-SA 3.0
 image_attribution: <a rel="nofollow" class="external text" href="http://www.tatolibakultura.org">David
   Palazón, Tatoli Ba Kultura</a>
+quick_facts:
+  Population: "1.3 million"
+  Currency: US Dollar
+  Coral Reef Species: "1,000+"
+  Independence: "2002 (youngest in Asia)"
 done:
   country_cleanup: 2026-03-31
 score: 0.45

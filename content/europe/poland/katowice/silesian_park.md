@@ -1,7 +1,8 @@
 ---
 title: "Silesian Park"
 type: poi
-tags: [things_to_do, poi]
+tags: [things_to_do]
+snippet: Vast urban park with zoo, planetarium, and open-air museum
 latitude: 50.2983
 longitude: 18.9767
 ---

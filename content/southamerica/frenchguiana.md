@@ -3,6 +3,11 @@ title: French Guiana
 type: location
 latitude: 4.003988
 longitude: -52.999998
+quick_facts:
+  Population: "~310,000"
+  Currency: Euro (part of France)
+  Rainforest Cover: "~90% of the territory"
+  Guiana Space Centre: Europe's spaceport — launches Ariane rockets
 image: frenchguiana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Plateformerochambeau.jpg
 image_license: CC BY-SA 3.0

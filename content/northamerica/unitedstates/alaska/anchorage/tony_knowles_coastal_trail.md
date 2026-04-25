@@ -1,6 +1,7 @@
 ---
 latitude: 61.2195
 longitude: -149.9041
+snippet: "11-mile shoreline trail with views of Denali and frequent moose"
 tags:
 - things_to_do
 - sight

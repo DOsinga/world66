@@ -1,6 +1,7 @@
 ---
 title: "Marina del Rey Fisherman's Village"
 type: poi
+snippet: "Relaxed waterfront harbor with kayaks and sunset cruises"
 category: "Sight"
 address: "13755 Fiji Way, Marina del Rey"
 phone: "310-822-6866"

@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Parque Eduardo VII
 type: poi
+snippet: "Lisbon's largest central park with city views and tropical glasshouses"
 ---
 
 Lisbon's largest central park, named for the British king who visited in 1903, rises from the top of Avenida da Liberdade to offer views over the city and the Tagus. The Estufas (glasshouses) at the upper end contain extensive collections of tropical plants and are worth visiting in their own right. The park hosts concerts and open-air events, and the café at the top has good views.

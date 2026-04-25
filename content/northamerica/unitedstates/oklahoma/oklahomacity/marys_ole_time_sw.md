@@ -3,6 +3,7 @@ address: 7925 Northeast 23rd -- corner of 23rd and Midwest
 latitude: 35.485
 longitude: -97.455
 phone: (405) 427-0051
+snippet: Sprawling outdoor flea market open every weekend
 tags:
 - shopping
 title: Mary's Ole Time Swap Meet

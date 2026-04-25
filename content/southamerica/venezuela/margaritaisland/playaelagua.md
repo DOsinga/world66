@@ -1,6 +1,7 @@
 ---
 latitude: 11.1482
 longitude: -63.8662
+snippet: 'Margarita Island''s most famous beach: four kilometres of white sand'
 tags:
 - beaches
 - beach

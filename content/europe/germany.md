@@ -10,6 +10,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg
 latitude: 51.163818
 longitude: 10.447831
+quick_facts:
+  Population: "84 million"
+  Currency: Euro
+  Beer Varieties: "~7,000"
+  Castles: "~25,000"
 score: 0.44
 title: Germany
 type: location

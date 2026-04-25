@@ -1,6 +1,7 @@
 ---
 latitude: 49.4525
 longitude: 11.077222
+snippet: Gothic masterpiece with Veit Stoss carved Annunciation
 tags:
 - things_to_do
 - landmark

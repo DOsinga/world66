@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagan,_Myanmar,_Htilominlo
 image_license: CC BY 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Argenberg" title="User:Argenberg">Vyacheslav
   Argenberg</a>
+quick_facts:
+  Population: "55 million"
+  Currency: Kyat (cash only)
+  Buddhist Pagodas: "Over 10,000 in Bagan alone"
+  Driving Side: "Right (switched from left in 1970)"
 done:
   country_cleanup: 2026-03-29
 score: 0.37

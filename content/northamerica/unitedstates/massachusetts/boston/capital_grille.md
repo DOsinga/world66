@@ -8,7 +8,7 @@ tags:
 - restaurant
 title: Capital Grille
 type: poi
-url: www.thecapitalgrille.com
+snippet: "Upscale steakhouse on Newbury Street, dry-aged porterhouse"
 ---
 
-This award-winning steakhouse chain serves traditional steaks including a special oversized dry-aged porterhouse, hearty seafood dishes, and some excellent vegetarian entrees. The atmosphere is upscale and sophisticated and the prices match. A second Massachusetts location is in Chestnut Hill.
+Capital Grille on Newbury Street is a reliable upscale steakhouse with a dry-aged porterhouse that regulars return for. The room is formal — dark wood, white tablecloths, jacket-optional — and the service is attentive without being hovering. Prices are high but in line with the Back Bay neighborhood. Worth it for a serious steak dinner; there's a second Massachusetts location in Chestnut Hill.

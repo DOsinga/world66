@@ -5,6 +5,7 @@ tags:
 - eating_out
 title: La Lucciola
 type: poi
+snippet: "Seafront restaurant with views toward Portovenere"
 ---
 
 A seafront restaurant with panoramic views toward Portovenere. The spaghetti alle vongole and fried fish are reliable, and the setting on the water makes up for any rough edges. Good for a long lunch.

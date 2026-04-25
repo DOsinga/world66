@@ -3,6 +3,8 @@ latitude: 37.3922
 longitude: -5.9936
 tags:
 - things_to_do
+- sight
+- macarena
 title: Palace of the Countess of Lebrija
 type: poi
 ---

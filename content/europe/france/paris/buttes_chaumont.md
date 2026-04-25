@@ -9,6 +9,8 @@ opening_hours: Daily 7am–10pm (summer), 7am–dusk (winter)
 snippet: Dramatic cliffs, waterfalls, and a hilltop temple in a quarry-turned-park
 tags:
 - things_to_do
+- sight
+- belleville
 title: Parc des Buttes-Chaumont
 type: poi
 ---

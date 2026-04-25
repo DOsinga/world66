@@ -4,6 +4,8 @@ longitude: -7.9811
 snippet: Haggling for Berber rugs is a half-day ritual with mint tea
 tags:
 - shopping
+- market
+- medina
 title: Carpets
 type: poi
 ---

@@ -6,6 +6,7 @@ snippet: Vintage and Hungarian designer boutique in the Jewish Quarter
 tags:
 - shopping
 - shop
+- jewish_quarter
 title: Szputnyik Shop
 type: poi
 url: www.szputnyikshop.hu

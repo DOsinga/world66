@@ -1,8 +1,11 @@
 ---
 latitude: 47.4997
-longitude: 19.0480
+longitude: 19.048
 tags:
 - things_to_do
+- sight
+- architecture
+- castle_district
 title: Gresham Palace
 type: poi
 ---

@@ -7,6 +7,7 @@ snippet: Seoul's golden skyscraper with panoramic views from the 63rd floor.
 tags:
 - things_to_do
 - architecture
+- sight
 title: 63 Building
 type: poi
 url: www.63city.co.kr

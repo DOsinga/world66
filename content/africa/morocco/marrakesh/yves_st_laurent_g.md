@@ -6,6 +6,9 @@ longitude: -8.0031
 snippet: Vivid blue botanical garden restored by Yves Saint Laurent
 tags:
 - things_to_do
+- museum
+- sight
+- gueliz
 title: Majorelle Garden
 type: poi
 ---

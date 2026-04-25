@@ -7,6 +7,7 @@ latitude: 21.2766
 longitude: -157.8278
 tags:
 - things_to_do
+- neighbourhood
 title: Waikiki
 type: neighbourhood
 ---

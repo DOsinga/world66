@@ -7,6 +7,7 @@ latitude: 59.338
 longitude: 18.083
 tags:
 - things_to_do
+- neighbourhood
 title: Östermalm
 type: neighbourhood
 ---

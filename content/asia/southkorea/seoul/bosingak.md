@@ -3,6 +3,8 @@ latitude: 37.5699
 longitude: 126.9834
 tags:
 - things_to_do
+- sight
+- insadong
 title: Bosingak
 type: poi
 ---

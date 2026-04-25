@@ -7,6 +7,7 @@ latitude: 37.5636
 longitude: 126.986
 tags:
 - things_to_do
+- neighbourhood
 title: Myeongdong
 type: neighbourhood
 ---

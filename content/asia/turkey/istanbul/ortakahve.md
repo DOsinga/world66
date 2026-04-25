@@ -8,6 +8,7 @@ snippet: Modern kıraathane with nargile and backgammon in Beyoğlu
 tags:
 - cafes
 - things_to_do
+- beyoglu
 title: Ortakahve
 type: poi
 ---

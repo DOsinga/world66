@@ -7,6 +7,7 @@ latitude: 37.5345
 longitude: 126.9946
 tags:
 - things_to_do
+- neighbourhood
 title: Itaewon
 type: neighbourhood
 ---

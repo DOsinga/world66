@@ -7,6 +7,8 @@ longitude: -3.596311
 snippet: Laid-back tea house and cocktail bar near Plaza Nueva
 tags:
 - bars_and_cafes
+- sight
+- albaicin
 title: Papalagi
 type: poi
 ---

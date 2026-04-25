@@ -3,6 +3,10 @@ latitude: 50.0792
 longitude: 14.4308
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- vinohrady
 title: State Opera Prague
 type: poi
 ---

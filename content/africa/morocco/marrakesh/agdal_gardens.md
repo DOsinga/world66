@@ -3,6 +3,8 @@ latitude: 31.6061
 longitude: -7.9797
 tags:
 - things_to_do
+- sight
+- mellah
 title: Agdal Gardens
 type: poi
 ---

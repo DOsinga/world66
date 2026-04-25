@@ -5,6 +5,7 @@ snippet: UNESCO village with castle, folk customs, and Easter festival
 tags:
 - day_trips
 - village
+- sight
 title: Hollókő
 type: poi
 ---

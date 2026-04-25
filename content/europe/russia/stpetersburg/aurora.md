@@ -7,6 +7,8 @@ story: On the night of 25 October 1917, the Aurora fired a blank shot that signa
 tags:
 - things_to_do
 - landmark
+- museum
+- petrogradsky
 title: Aurora Cruiser
 type: poi
 ---

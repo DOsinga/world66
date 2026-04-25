@@ -3,6 +3,8 @@ latitude: 31.6315
 longitude: -7.9872
 tags:
 - things_to_do
+- mosque
+- medina
 title: Almoravid Qubba
 type: poi
 ---

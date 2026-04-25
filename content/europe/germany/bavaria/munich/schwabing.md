@@ -3,6 +3,7 @@ latitude: 48.1621
 longitude: 11.5853
 tags:
 - things_to_do
+- neighbourhood
 title: Schwabing
 type: neighbourhood
 ---

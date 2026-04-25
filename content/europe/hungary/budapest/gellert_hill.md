@@ -7,6 +7,7 @@ latitude: 47.4858
 longitude: 19.0471
 tags:
 - things_to_do
+- neighbourhood
 title: Gellért Hill
 type: neighbourhood
 ---

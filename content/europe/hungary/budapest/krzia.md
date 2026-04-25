@@ -7,6 +7,8 @@ snippet: Intimate Italian restaurant near the Opera House
 tags:
 - eating_out
 - restaurant
+- sight
+- andrassy_avenue
 title: Krizia
 type: poi
 ---

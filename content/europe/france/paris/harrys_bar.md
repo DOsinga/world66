@@ -7,6 +7,7 @@ phone: +33 1 42 61 71 14
 snippet: Legendary 1911 cocktail bar that invented the Bloody Mary
 tags:
 - bars_and_cafes
+- leshalles
 title: Harry's New York Bar
 type: poi
 url: www.harrysbar.fr

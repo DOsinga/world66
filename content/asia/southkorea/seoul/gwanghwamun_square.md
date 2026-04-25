@@ -1,8 +1,10 @@
 ---
-latitude: 37.5720
+latitude: 37.572
 longitude: 126.9769
 tags:
 - things_to_do
+- sight
+- insadong
 title: Gwanghwamun Square
 type: poi
 ---

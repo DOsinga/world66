@@ -9,6 +9,9 @@ snippet: Wittelsbach royal palace with 130 lavishly decorated rooms
 tags:
 - things_to_do
 - museum
+- sight
+- architecture
+- altstadt
 title: Residenz Museum
 type: poi
 ---

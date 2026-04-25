@@ -1,10 +1,11 @@
 ---
 latitude: 37.422793
 longitude: 127.022671
-snippet: "Large zoo inside Seoul Grand Park, easily reached by subway"
+snippet: Large zoo inside Seoul Grand Park, easily reached by subway
 tags:
 - things_to_do
 - landmark
+- museum
 title: Seoul Zoo
 type: poi
 ---

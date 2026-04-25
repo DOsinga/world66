@@ -4,6 +4,7 @@ latitude: 41.0328
 longitude: 28.9791
 tags:
 - things_to_do
+- beyoglu
 title: 45'lik
 type: poi
 ---

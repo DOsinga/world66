@@ -7,6 +7,7 @@ latitude: 40.9927
 longitude: 29.023
 tags:
 - things_to_do
+- neighbourhood
 title: Kadikoy
 type: neighbourhood
 ---

@@ -16,6 +16,8 @@ tags:
 - things_to_do
 - landmark
 - story
+- museum
+- sight
 title: The 4.19 Cemetery
 type: poi
 ---

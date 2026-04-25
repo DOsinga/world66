@@ -1,9 +1,10 @@
 ---
 latitude: 48.8682
 longitude: 2.3297
-snippet: "Iconic French fashion house at the heart of Place Vendôme"
+snippet: Iconic French fashion house at the heart of Place Vendôme
 tags:
 - shopping
+- leshalles
 title: Chanel
 type: poi
 ---

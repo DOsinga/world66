@@ -5,6 +5,8 @@ snippet: 3,500 shops across 60 covered streets since the Ottoman conquest
 tags:
 - shopping
 - sight
+- market
+- sultanahmet
 title: Grand Bazaar
 type: poi
 ---

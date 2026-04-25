@@ -1,8 +1,10 @@
 ---
-latitude: 59.9330
-longitude: 30.3430
+latitude: 59.933
+longitude: 30.343
 tags:
 - things_to_do
+- sight
+- nevskiyprospekt
 title: Anichkov Bridge
 type: poi
 ---

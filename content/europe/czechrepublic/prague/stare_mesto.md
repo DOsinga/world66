@@ -7,6 +7,7 @@ latitude: 50.0875
 longitude: 14.4213
 tags:
 - things_to_do
+- neighbourhood
 title: Staré Město
 type: neighbourhood
 ---

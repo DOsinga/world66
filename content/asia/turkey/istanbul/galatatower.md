@@ -5,6 +5,7 @@ snippet: Medieval Genoese tower with panoramic city views
 tags:
 - things_to_do
 - sight
+- beyoglu
 title: Galata Tower
 type: poi
 ---

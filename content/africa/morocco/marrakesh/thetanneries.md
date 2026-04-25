@@ -7,6 +7,7 @@ snippet: Open-air leather dyeing vats, centuries-old tradition
 tags:
 - things_to_do
 - sight
+- medina
 title: The Tanneries
 type: poi
 ---

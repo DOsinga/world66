@@ -3,6 +3,10 @@ latitude: 48.2086
 longitude: 16.3692
 tags:
 - things_to_do
+- sight
+- architecture
+- market
+- innere_stadt
 title: The Graben
 type: poi
 ---

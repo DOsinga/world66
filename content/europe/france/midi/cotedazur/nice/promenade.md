@@ -7,6 +7,7 @@ latitude: 43.6945
 longitude: 7.256
 tags:
 - things_to_do
+- neighbourhood
 title: Promenade des Anglais
 type: neighbourhood
 ---

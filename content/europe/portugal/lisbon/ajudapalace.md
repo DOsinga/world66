@@ -6,6 +6,9 @@ snippet: Unfinished neoclassical royal palace with outstanding decorative arts c
 tags:
 - things_to_do
 - landmark
+- sight
+- architecture
+- belem
 title: Ajuda Palace
 type: poi
 ---

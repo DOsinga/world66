@@ -3,6 +3,8 @@ latitude: 38.7139
 longitude: -9.1394
 tags:
 - things_to_do
+- sight
+- baixa
 title: Rossio Square
 type: poi
 ---

@@ -10,6 +10,9 @@ tags:
 - things_to_do
 - museum
 - park
+- sight
+- market
+- djurgarden
 title: Skansen
 type: poi
 ---

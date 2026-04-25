@@ -8,6 +8,8 @@ snippet: University botanical garden with Nordic and tropical plants
 tags:
 - things_to_do
 - park
+- museum
+- sight
 title: The Bergian Garden
 type: poi
 ---

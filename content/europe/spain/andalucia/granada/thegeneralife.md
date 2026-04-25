@@ -3,6 +3,8 @@ latitude: 37.1769
 longitude: -3.5853
 tags:
 - things_to_do
+- sight
+- sacromonte
 title: The Generalife
 type: poi
 ---

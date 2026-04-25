@@ -7,6 +7,7 @@ latitude: 50.0872
 longitude: 14.4038
 tags:
 - things_to_do
+- neighbourhood
 title: Malá Strana
 type: neighbourhood
 ---

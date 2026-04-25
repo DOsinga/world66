@@ -7,6 +7,7 @@ latitude: 37.5727
 longitude: 126.9857
 tags:
 - things_to_do
+- neighbourhood
 title: Insadong
 type: neighbourhood
 ---

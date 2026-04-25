@@ -3,6 +3,9 @@ latitude: 50.0786
 longitude: 14.4244
 tags:
 - things_to_do
+- sight
+- architecture
+- stare_mesto
 title: Lucerna Palace
 type: poi
 ---

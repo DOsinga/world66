@@ -3,6 +3,8 @@ latitude: 37.1771
 longitude: -3.5893
 tags:
 - things_to_do
+- sight
+- albaicin
 title: Court of the Lions
 type: poi
 ---

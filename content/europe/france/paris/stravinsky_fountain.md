@@ -3,6 +3,8 @@ latitude: 48.8598
 longitude: 2.3513
 tags:
 - things_to_do
+- sight
+- leshalles
 title: Stravinsky Fountain
 type: poi
 ---

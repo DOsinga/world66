@@ -7,6 +7,8 @@ snippet: Marrakesh's legendary square of food stalls and storytellers
 tags:
 - things_to_do
 - sight
+- market
+- mellah
 title: Jemaa el-Fna
 type: poi
 ---

@@ -9,6 +9,7 @@ phone: +33 1 45 48 63 80
 snippet: Pure cashmere boutique in Saint-Germain-des-Prés
 tags:
 - shopping
+- saint_germain
 title: La Cachemirerie Paris
 type: poi
 url: www.lacachemirerie.com

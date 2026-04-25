@@ -1,8 +1,9 @@
 ---
 latitude: 34.7053
-longitude: 135.4900
+longitude: 135.49
 tags:
 - things_to_do
+- sight
 title: Umeda Sky Building
 type: poi
 ---

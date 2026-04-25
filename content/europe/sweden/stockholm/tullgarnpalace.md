@@ -10,6 +10,8 @@ snippet: Royal summer palace in lakeside forest, one hour from Stockholm
 tags:
 - things_to_do
 - palace
+- sight
+- architecture
 title: Tullgarn Palace
 type: poi
 ---

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+- mellah
 title: Bahia Palace
 type: poi
 ---

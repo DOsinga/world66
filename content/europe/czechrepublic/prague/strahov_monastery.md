@@ -7,6 +7,9 @@ snippet: 12th-century monastery with two spectacular baroque library halls
 tags:
 - things_to_do
 - landmark
+- sight
+- architecture
+- hradcany
 title: Strahov Monastery
 type: poi
 ---

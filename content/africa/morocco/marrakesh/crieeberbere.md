@@ -9,6 +9,8 @@ tags:
 - market
 - shopping
 - things_to_do
+- sight
+- medina
 title: Criée Berbère
 type: poi
 ---

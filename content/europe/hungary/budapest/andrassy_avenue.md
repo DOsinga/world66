@@ -7,6 +7,7 @@ latitude: 47.5065
 longitude: 19.0653
 tags:
 - things_to_do
+- neighbourhood
 title: Andrássy Avenue
 type: neighbourhood
 ---

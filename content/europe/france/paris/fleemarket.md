@@ -6,6 +6,8 @@ longitude: 2.3431
 snippet: World's largest flea market at Porte de Clignancourt
 tags:
 - shopping
+- market
+- montmartre
 title: Marché aux Puces de Saint-Ouen
 type: poi
 ---

@@ -3,6 +3,8 @@ latitude: 37.3813
 longitude: -5.9905
 tags:
 - things_to_do
+- sight
+- santa_cruz
 title: Royal Tobacco Factory
 type: poi
 ---

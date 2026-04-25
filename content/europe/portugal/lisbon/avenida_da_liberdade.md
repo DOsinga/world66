@@ -3,6 +3,8 @@ latitude: 38.7203
 longitude: -9.1458
 tags:
 - things_to_do
+- sight
+- bairro_alto
 title: Avenida da Liberdade
 type: poi
 ---

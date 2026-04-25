@@ -7,6 +7,7 @@ latitude: 50.0911
 longitude: 14.3986
 tags:
 - things_to_do
+- neighbourhood
 title: Hradčany
 type: neighbourhood
 ---

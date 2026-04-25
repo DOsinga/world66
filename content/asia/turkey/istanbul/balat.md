@@ -7,6 +7,7 @@ latitude: 41.0296
 longitude: 28.9487
 tags:
 - things_to_do
+- neighbourhood
 title: Balat
 type: neighbourhood
 ---

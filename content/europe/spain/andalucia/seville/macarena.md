@@ -7,6 +7,7 @@ latitude: 37.4
 longitude: -5.992
 tags:
 - things_to_do
+- neighbourhood
 title: Macarena
 type: neighbourhood
 ---

@@ -4,11 +4,14 @@ admission: €14; free first Sun of the month
 latitude: 48.859741
 longitude: 2.362292
 opening_hours: Tue–Fri 10:30am–6pm, Sat–Sun 9:30am–6pm; closed Mon
+snippet: World's largest public Picasso collection, in a splendid 17th-century Marais
+  mansion
 tags:
 - things_to_do
+- museum
+- le_marais
 title: Musée Picasso Paris
 type: poi
-snippet: "World's largest public Picasso collection, in a splendid 17th-century Marais mansion"
 url: www.museepicassoparis.fr
 ---
 

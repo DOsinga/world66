@@ -7,6 +7,7 @@ latitude: 21.284
 longitude: -157.815
 tags:
 - things_to_do
+- neighbourhood
 title: Kaimuki
 type: neighbourhood
 ---

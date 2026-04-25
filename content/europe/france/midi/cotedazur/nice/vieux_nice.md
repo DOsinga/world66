@@ -7,6 +7,7 @@ latitude: 43.6961
 longitude: 7.276
 tags:
 - things_to_do
+- neighbourhood
 title: Vieux Nice
 type: neighbourhood
 ---

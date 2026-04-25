@@ -7,6 +7,7 @@ latitude: 48.8539
 longitude: 2.3338
 tags:
 - things_to_do
+- neighbourhood
 title: Saint-Germain-des-Prés
 type: neighbourhood
 ---

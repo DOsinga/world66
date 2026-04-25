@@ -3,6 +3,8 @@ latitude: 31.7758
 longitude: 35.2169
 tags:
 - things_to_do
+- sight
+- nachlaot
 title: Jerusalem Great Synagogue
 type: poi
 ---

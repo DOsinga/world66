@@ -3,6 +3,9 @@ latitude: 48.1394
 longitude: 11.5794
 tags:
 - things_to_do
+- sight
+- architecture
+- altstadt
 title: National Theatre Munich
 type: poi
 ---

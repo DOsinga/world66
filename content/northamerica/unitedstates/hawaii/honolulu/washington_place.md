@@ -3,6 +3,7 @@ latitude: 21.3088
 longitude: -157.8568
 tags:
 - things_to_do
+- chinatown
 title: Washington Place
 type: poi
 ---

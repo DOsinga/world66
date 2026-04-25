@@ -6,6 +6,8 @@ longitude: 18.3504
 snippet: Charming archipelago town reachable by ferry from Stockholm
 tags:
 - day_trips
+- museum
+- sight
 title: Vaxholm
 type: poi
 ---

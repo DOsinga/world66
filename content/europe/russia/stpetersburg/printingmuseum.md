@@ -5,6 +5,8 @@ longitude: 30.32
 snippet: Small museum of printing history on the Moyka
 tags:
 - things_to_do
+- museum
+- nevskiyprospekt
 title: Printing Museum
 type: poi
 ---

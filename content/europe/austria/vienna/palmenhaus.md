@@ -2,9 +2,11 @@
 address: Burggarten, 1010 Wien
 latitude: 48.204384
 longitude: 16.365935
-snippet: "Cocktails under glass domes in a Jugendstil greenhouse"
+snippet: Cocktails under glass domes in a Jugendstil greenhouse
 tags:
 - bars_and_cafes
+- sight
+- museumsquartier
 title: Palmenhaus
 type: poi
 ---

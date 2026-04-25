@@ -6,6 +6,8 @@ snippet: Craft beer bar with rotating Swedish and international taps
 tags:
 - eating_out
 - bar
+- sight
+- ostermalm
 title: Garden of Hops
 type: poi
 ---

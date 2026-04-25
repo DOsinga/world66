@@ -7,6 +7,8 @@ snippet: Eccentric museum dedicated to Munich's beloved absurdist comedian Karl 
 tags:
 - things_to_do
 - museum
+- sight
+- altstadt
 title: Valentin Musäum
 type: poi
 ---

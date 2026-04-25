@@ -1,6 +1,7 @@
 ---
 tags:
 - shopping
+- market
 title: Flea Market (Feira da Ladra)
 type: poi
 url: www.lisboacultural.pt

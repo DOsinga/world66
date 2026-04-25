@@ -3,6 +3,10 @@ latitude: 37.5661
 longitude: 126.975
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- myeongdong
 title: Deoksugung Palace
 type: poi
 ---

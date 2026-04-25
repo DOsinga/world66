@@ -1,8 +1,11 @@
 ---
-latitude: 48.2070
-longitude: 16.3750
+latitude: 48.207
+longitude: 16.375
 tags:
 - things_to_do
+- sight
+- architecture
+- innere_stadt
 title: Winter Palace of Prince Eugene
 type: poi
 ---

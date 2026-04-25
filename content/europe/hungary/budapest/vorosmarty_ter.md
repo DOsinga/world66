@@ -3,6 +3,9 @@ latitude: 47.4966
 longitude: 19.0507
 tags:
 - things_to_do
+- sight
+- market
+- jewish_quarter
 title: Vörösmarty tér
 type: poi
 ---

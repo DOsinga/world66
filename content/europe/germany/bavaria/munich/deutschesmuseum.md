@@ -7,6 +7,7 @@ snippet: World's largest science and technology museum
 tags:
 - things_to_do
 - museum
+- altstadt
 title: Deutsches Museum
 type: poi
 url: www.deutsches-museum.de

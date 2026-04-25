@@ -3,6 +3,8 @@ latitude: 47.4989
 longitude: 19.0436
 tags:
 - things_to_do
+- sight
+- castle_district
 title: Széchenyi Chain Bridge
 type: poi
 ---

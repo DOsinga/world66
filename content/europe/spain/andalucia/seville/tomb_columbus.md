@@ -3,6 +3,8 @@ latitude: 37.3862
 longitude: -5.9929
 tags:
 - things_to_do
+- sight
+- santa_cruz
 title: Tomb of Christopher Columbus
 type: poi
 ---

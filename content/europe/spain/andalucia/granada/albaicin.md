@@ -7,6 +7,7 @@ latitude: 37.1813
 longitude: -3.5925
 tags:
 - things_to_do
+- neighbourhood
 title: Albaicín
 type: neighbourhood
 ---

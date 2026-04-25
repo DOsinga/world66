@@ -5,6 +5,7 @@ longitude: -3.835787
 opening_hours: Mon-Fri 11 a.m. to 5 p.m., Sat 11 a.m. to 4 p.m., Sun 2 p.m. to 4 p.m.
 tags:
 - things_to_do
+- sight
 title: Cathedral
 type: poi
 ---

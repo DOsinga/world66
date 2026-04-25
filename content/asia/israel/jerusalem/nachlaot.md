@@ -7,6 +7,7 @@ latitude: 31.7825
 longitude: 35.2155
 tags:
 - things_to_do
+- neighbourhood
 title: Nachlaot
 type: neighbourhood
 ---

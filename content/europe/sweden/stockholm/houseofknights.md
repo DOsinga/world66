@@ -7,6 +7,9 @@ longitude: 18.0685
 snippet: Ornate 17th-century assembly hall for Swedish nobility
 tags:
 - things_to_do
+- sight
+- architecture
+- gamla_stan
 title: House of Knights
 type: poi
 ---

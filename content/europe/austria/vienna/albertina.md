@@ -9,6 +9,8 @@ snippet: World-class print collection from Dürer to Picasso
 tags:
 - things_to_do
 - museum
+- architecture
+- innere_stadt
 title: Albertina
 type: poi
 url: www.albertina.at

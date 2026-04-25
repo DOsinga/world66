@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 - bar
 - market
+- jewish_quarter
 title: Szimpla Kert
 type: poi
 url: szimpla.hu

@@ -5,6 +5,8 @@ longitude: 7.2755
 tags:
 - things_to_do
 - museum
+- architecture
+- vieux_nice
 title: Palais Lascaris
 type: poi
 ---

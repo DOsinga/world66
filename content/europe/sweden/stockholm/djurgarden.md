@@ -7,6 +7,7 @@ latitude: 59.3268
 longitude: 18.1136
 tags:
 - things_to_do
+- neighbourhood
 title: Djurgården
 type: neighbourhood
 ---

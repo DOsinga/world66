@@ -4,6 +4,7 @@ longitude: 135.580695
 snippet: Large park with Japan's biggest greenhouse complex
 tags:
 - things_to_do
+- sight
 title: Tsurumi Ryokuchi Park
 type: poi
 ---

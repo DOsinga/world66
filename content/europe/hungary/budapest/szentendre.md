@@ -6,6 +6,7 @@ tags:
 - day_trips
 - museum
 - church
+- sight
 title: Szentendre
 type: poi
 ---

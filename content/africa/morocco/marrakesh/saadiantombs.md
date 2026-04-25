@@ -4,6 +4,9 @@ longitude: -7.988555
 snippet: 16th-century royal necropolis with exceptional carved plasterwork and zellige
 tags:
 - things_to_do
+- mosque
+- sight
+- mellah
 title: Saadian Tombs
 type: poi
 ---

@@ -9,6 +9,10 @@ opening_hours: Wed–Mon 11am–9pm (Thu until 11pm); closed Tue
 snippet: Europe's largest modern art museum in an inside-out building
 tags:
 - things_to_do
+- museum
+- sight
+- market
+- leshalles
 title: Centre Pompidou
 type: poi
 url: www.centrepompidou.fr

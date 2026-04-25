@@ -1,8 +1,10 @@
 ---
-latitude: 31.7650
-longitude: 35.2180
+latitude: 31.765
+longitude: 35.218
 tags:
 - things_to_do
+- sight
+- german_colony
 title: Liberty Bell Park
 type: poi
 ---

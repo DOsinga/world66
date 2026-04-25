@@ -6,6 +6,7 @@ snippet: Royal tomb of Joseon King Gyeongjong in quiet Seongbuk hills
 tags:
 - things_to_do
 - landmark
+- sight
 title: Uireung
 type: poi
 ---

@@ -8,6 +8,7 @@ tags:
 - bar
 - park
 - cafe
+- sight
 title: Café Lyran
 type: poi
 ---

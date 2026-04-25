@@ -3,6 +3,9 @@ latitude: 41.0071
 longitude: 28.9767
 tags:
 - things_to_do
+- mosque
+- sight
+- sultanahmet
 title: German Fountain
 type: poi
 ---

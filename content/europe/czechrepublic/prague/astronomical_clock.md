@@ -3,6 +3,8 @@ latitude: 50.087
 longitude: 14.4208
 tags:
 - things_to_do
+- sight
+- stare_mesto
 title: Astronomical Clock
 type: poi
 ---

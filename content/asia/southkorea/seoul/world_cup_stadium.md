@@ -5,6 +5,9 @@ snippet: Asia's largest football-only stadium, built for the 2002 World Cup
 tags:
 - things_to_do
 - architecture
+- museum
+- sight
+- market
 title: World Cup Stadium
 type: poi
 ---

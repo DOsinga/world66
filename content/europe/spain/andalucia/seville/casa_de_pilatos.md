@@ -3,6 +3,9 @@ latitude: 37.3899
 longitude: -5.9871
 tags:
 - things_to_do
+- sight
+- architecture
+- santa_cruz
 title: Casa de Pilatos
 type: poi
 ---

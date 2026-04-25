@@ -9,6 +9,8 @@ opening_hours: Tue–Sun 9:30am–6pm (Thu until 9:45pm); closed Mon
 snippet: World-class Impressionist art in a grand railway station
 tags:
 - things_to_do
+- museum
+- saint_germain
 title: Musée d'Orsay
 type: poi
 url: www.musee-orsay.fr

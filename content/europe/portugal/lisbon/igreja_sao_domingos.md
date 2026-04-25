@@ -3,7 +3,9 @@ latitude: 38.7155
 longitude: -9.1402
 tags:
 - things_to_do
-title: "Igreja de São Domingos"
+- sight
+- baixa
+title: Igreja de São Domingos
 type: poi
 ---
 

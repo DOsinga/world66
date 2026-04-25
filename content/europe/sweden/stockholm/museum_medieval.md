@@ -3,6 +3,9 @@ latitude: 59.3279
 longitude: 18.0697
 tags:
 - things_to_do
+- museum
+- sight
+- gamla_stan
 title: Museum of Medieval Stockholm
 type: poi
 ---

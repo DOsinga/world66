@@ -3,6 +3,10 @@ latitude: 59.9386
 longitude: 30.3322
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- nevskiyprospekt
 title: Russian Museum
 type: poi
 ---

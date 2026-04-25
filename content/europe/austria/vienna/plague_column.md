@@ -3,6 +3,9 @@ latitude: 48.2087
 longitude: 16.3698
 tags:
 - things_to_do
+- sight
+- architecture
+- innere_stadt
 title: Plague Column
 type: poi
 ---

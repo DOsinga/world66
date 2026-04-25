@@ -3,6 +3,8 @@ latitude: 41.0064
 longitude: 28.9758
 tags:
 - things_to_do
+- sight
+- sultanahmet
 title: Hippodrome
 type: poi
 ---

@@ -8,6 +8,8 @@ tags:
 - things_to_do
 - sight
 - religious
+- architecture
+- albaicin
 title: The Cathedral
 type: poi
 ---

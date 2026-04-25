@@ -1,9 +1,12 @@
 ---
-latitude: 59.9340
-longitude: 30.3400
+latitude: 59.934
+longitude: 30.34
 tags:
 - things_to_do
-title: "Faberg\u00e9 Museum"
+- museum
+- sight
+- nevskiyprospekt
+title: Fabergé Museum
 type: poi
 ---
 

@@ -7,6 +7,7 @@ latitude: 48.8494
 longitude: 2.347
 tags:
 - things_to_do
+- neighbourhood
 title: Latin Quarter
 type: neighbourhood
 ---

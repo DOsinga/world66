@@ -3,6 +3,7 @@ latitude: 48.128
 longitude: 11.5957
 tags:
 - things_to_do
+- neighbourhood
 title: Haidhausen
 type: neighbourhood
 ---

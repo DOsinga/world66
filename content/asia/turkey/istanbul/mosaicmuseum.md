@@ -6,6 +6,9 @@ snippet: Byzantine palace floor mosaics steps from the Blue Mosque
 tags:
 - things_to_do
 - museum
+- mosque
+- sight
+- sultanahmet
 title: Mosaic Museum
 type: poi
 ---

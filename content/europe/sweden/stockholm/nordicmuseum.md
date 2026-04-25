@@ -10,6 +10,9 @@ snippet: Sweeping survey of Nordic life and culture from the 16th century to tod
 tags:
 - things_to_do
 - museum
+- sight
+- architecture
+- djurgarden
 title: Nordic Museum
 type: poi
 ---

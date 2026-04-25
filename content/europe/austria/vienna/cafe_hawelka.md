@@ -4,7 +4,9 @@ longitude: 16.3694
 tags:
 - things_to_do
 - bars_and_cafes
-title: "Café Hawelka"
+- sight
+- innere_stadt
+title: Café Hawelka
 type: poi
 ---
 

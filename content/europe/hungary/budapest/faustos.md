@@ -6,6 +6,7 @@ snippet: Upscale Italian dining with kitsch Venetian decor
 tags:
 - eating_out
 - restaurant
+- jewish_quarter
 title: Fausto's
 type: poi
 ---

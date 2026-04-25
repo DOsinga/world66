@@ -1,8 +1,10 @@
 ---
-latitude: 31.7650
-longitude: 35.2130
+latitude: 31.765
+longitude: 35.213
 tags:
 - things_to_do
+- museum
+- german_colony
 title: L.A. Mayer Museum for Islamic Art
 type: poi
 ---

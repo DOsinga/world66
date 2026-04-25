@@ -3,6 +3,9 @@ latitude: 37.1786
 longitude: -3.5917
 tags:
 - things_to_do
+- museum
+- architecture
+- albaicin
 title: Archaeological Museum of Granada
 type: poi
 ---

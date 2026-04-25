@@ -7,6 +7,7 @@ latitude: 59.3258
 longitude: 18.0716
 tags:
 - things_to_do
+- neighbourhood
 title: Gamla Stan
 type: neighbourhood
 ---

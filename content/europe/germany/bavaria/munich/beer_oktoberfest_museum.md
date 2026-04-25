@@ -3,6 +3,8 @@ latitude: 48.1358
 longitude: 11.5797
 tags:
 - things_to_do
+- museum
+- altstadt
 title: Beer and Oktoberfest Museum
 type: poi
 ---

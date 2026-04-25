@@ -3,6 +3,7 @@ latitude: 38.6969
 longitude: -9.2064
 tags:
 - things_to_do
+- neighbourhood
 title: Belém
 type: neighbourhood
 ---

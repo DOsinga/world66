@@ -7,6 +7,7 @@ latitude: 47.4961
 longitude: 19.0394
 tags:
 - things_to_do
+- neighbourhood
 title: Castle District
 type: neighbourhood
 ---

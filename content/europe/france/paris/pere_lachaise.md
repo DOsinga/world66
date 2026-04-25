@@ -9,6 +9,8 @@ opening_hours: Mon–Fri 8am–6pm, Sat from 8:30am, Sun from 9am (closes 5:30pm
 snippet: Paris's famous cemetery with Wilde, Morrison, and Chopin
 tags:
 - things_to_do
+- sight
+- oberkampf
 title: Père Lachaise Cemetery
 type: poi
 ---

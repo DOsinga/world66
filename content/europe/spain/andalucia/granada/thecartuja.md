@@ -7,6 +7,9 @@ snippet: Extravagant Baroque Carthusian monastery north of Granada's centre
 tags:
 - historic sites
 - churches
+- sight
+- architecture
+- albaicin
 title: La Cartuja
 type: poi
 ---

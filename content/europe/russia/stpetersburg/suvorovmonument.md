@@ -5,6 +5,7 @@ snippet: 1818 statue of General Suvorov as Mars near the Troitsky Bridge
 tags:
 - things_to_do
 - sight
+- nevskiyprospekt
 title: Suvorov Monument
 type: poi
 ---

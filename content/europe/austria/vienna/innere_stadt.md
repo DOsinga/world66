@@ -7,6 +7,7 @@ latitude: 48.2082
 longitude: 16.3738
 tags:
 - things_to_do
+- neighbourhood
 title: Innere Stadt
 type: neighbourhood
 ---

@@ -3,6 +3,7 @@ latitude: 21.3128
 longitude: -157.8625
 tags:
 - things_to_do
+- neighbourhood
 title: Chinatown
 type: neighbourhood
 ---

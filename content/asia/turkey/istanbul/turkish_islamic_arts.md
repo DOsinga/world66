@@ -3,6 +3,10 @@ latitude: 41.0063
 longitude: 28.9746
 tags:
 - things_to_do
+- mosque
+- museum
+- sight
+- sultanahmet
 title: Turkish and Islamic Arts Museum
 type: poi
 ---

@@ -8,6 +8,9 @@ snippet: Baroque triumph blending dome, colonnade, and Trajan columns
 tags:
 - things_to_do
 - landmark
+- sight
+- architecture
+- museumsquartier
 title: Karlskirche
 type: poi
 ---

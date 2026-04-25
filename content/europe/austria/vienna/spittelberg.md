@@ -10,8 +10,8 @@ latitude: 48.2034
 longitude: 16.3515
 snippet: Lively pub quarter with outdoor seating in the 7th district
 tags:
-- bars_and_cafes
 - things_to_do
+- neighbourhood
 title: Spittelberg
 type: neighbourhood
 ---

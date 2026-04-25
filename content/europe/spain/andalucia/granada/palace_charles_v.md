@@ -3,6 +3,10 @@ latitude: 37.1769
 longitude: -3.5894
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- albaicin
 title: Palace of Charles V
 type: poi
 ---

@@ -7,6 +7,8 @@ snippet: Only royal palace on American soil, built 1882
 tags:
 - things_to_do
 - sight
+- museum
+- chinatown
 title: Iolani Palace
 type: poi
 ---

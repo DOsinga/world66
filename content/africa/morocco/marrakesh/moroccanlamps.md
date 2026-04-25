@@ -6,6 +6,8 @@ longitude: -7.986
 snippet: Handcrafted brass and copper lanterns from the souk workshops
 tags:
 - shopping
+- market
+- medina
 title: Moroccan Lamps
 type: poi
 ---

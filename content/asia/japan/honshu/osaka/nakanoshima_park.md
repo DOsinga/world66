@@ -1,8 +1,9 @@
 ---
-latitude: 34.6920
-longitude: 135.5020
+latitude: 34.692
+longitude: 135.502
 tags:
 - things_to_do
+- sight
 title: Nakanoshima Park
 type: poi
 ---

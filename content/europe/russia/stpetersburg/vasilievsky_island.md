@@ -3,6 +3,7 @@ latitude: 59.942
 longitude: 30.27
 tags:
 - things_to_do
+- neighbourhood
 title: Vasilievsky Island
 type: neighbourhood
 ---

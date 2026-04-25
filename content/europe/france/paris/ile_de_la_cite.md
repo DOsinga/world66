@@ -3,6 +3,9 @@ latitude: 48.8547
 longitude: 2.3475
 tags:
 - things_to_do
+- sight
+- market
+- latin_quarter
 title: Île de la Cité
 type: poi
 ---

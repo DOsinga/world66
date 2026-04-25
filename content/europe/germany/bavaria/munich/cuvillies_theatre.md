@@ -1,9 +1,13 @@
 ---
-latitude: 48.1400
+latitude: 48.14
 longitude: 11.5789
 tags:
 - things_to_do
-title: "Cuvilliés Theatre"
+- museum
+- sight
+- architecture
+- altstadt
+title: Cuvilliés Theatre
 type: poi
 ---
 

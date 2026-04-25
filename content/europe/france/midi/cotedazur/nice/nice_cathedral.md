@@ -3,6 +3,9 @@ latitude: 43.6972
 longitude: 7.2758
 tags:
 - things_to_do
+- sight
+- architecture
+- vieux_nice
 title: Nice Cathedral
 type: poi
 ---

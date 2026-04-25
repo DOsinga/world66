@@ -1,8 +1,10 @@
 ---
 latitude: 47.4945
-longitude: 19.0480
+longitude: 19.048
 tags:
 - things_to_do
+- sight
+- castle_district
 title: Danube Promenade
 type: poi
 ---

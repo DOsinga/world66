@@ -2,10 +2,13 @@
 address: Prannerstraße 10
 latitude: 48.141449
 longitude: 11.572386
-snippet: "Siemens technology museum, now closed — once covered electrical engineering history"
+snippet: Siemens technology museum, now closed — once covered electrical engineering
+  history
 tags:
 - things_to_do
 - museum
+- sight
+- altstadt
 title: SiemensForum
 type: poi
 ---

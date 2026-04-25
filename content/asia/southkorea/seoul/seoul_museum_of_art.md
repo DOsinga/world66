@@ -3,6 +3,9 @@ latitude: 37.5641
 longitude: 126.9738
 tags:
 - things_to_do
+- museum
+- sight
+- myeongdong
 title: Seoul Museum of Art
 type: poi
 ---

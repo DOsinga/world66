@@ -9,6 +9,9 @@ phone: +33 1 45 48 55 26
 snippet: Iconic Saint-Germain literary cafe since the 1940s
 tags:
 - bars_and_cafes
+- sight
+- architecture
+- saint_germain
 title: Café de Flore
 type: poi
 url: www.cafedeflore.fr

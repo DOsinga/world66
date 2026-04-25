@@ -7,6 +7,9 @@ longitude: 28.938955
 snippet: Finest surviving Byzantine mosaics in Istanbul, far from the tourist crowds
 tags:
 - things_to_do
+- mosque
+- sight
+- balat
 title: Chora Church (Kariye)
 type: poi
 ---

@@ -7,6 +7,7 @@ latitude: 48.2035
 longitude: 16.3585
 tags:
 - things_to_do
+- neighbourhood
 title: MuseumsQuartier
 type: neighbourhood
 ---

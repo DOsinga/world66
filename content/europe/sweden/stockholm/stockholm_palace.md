@@ -3,6 +3,10 @@ latitude: 59.3267
 longitude: 18.0711
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- gamla_stan
 title: Stockholm Palace
 type: poi
 ---

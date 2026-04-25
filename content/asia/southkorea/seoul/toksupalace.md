@@ -6,6 +6,9 @@ tags:
 - things_to_do
 - landmark
 - historic_site
+- museum
+- sight
+- myeongdong
 title: Deoksugung (Toksu Palace)
 type: poi
 ---

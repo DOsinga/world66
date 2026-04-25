@@ -7,6 +7,8 @@ snippet: Bohemian tearoom on the Albaicín's main drag
 tags:
 - eating_out
 - cafe
+- sight
+- albaicin
 title: Bagdad Café
 type: poi
 ---

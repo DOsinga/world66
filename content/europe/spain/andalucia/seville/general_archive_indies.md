@@ -3,6 +3,8 @@ latitude: 37.384
 longitude: -5.992
 tags:
 - things_to_do
+- architecture
+- santa_cruz
 title: General Archive of the Indies
 type: poi
 ---

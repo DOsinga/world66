@@ -6,6 +6,7 @@ snippet: National museum housing the Dead Sea Scrolls and a scale model of ancie
 tags:
 - things_to_do
 - museum
+- nachlaot
 title: Israel Museum
 type: poi
 ---

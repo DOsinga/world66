@@ -7,6 +7,9 @@ snippet: Granada's ancient Moorish quarter facing the Alhambra
 tags:
 - things_to_do
 - sights
+- mosque
+- sight
+- albaicin
 title: The Albaicín
 type: poi
 ---

@@ -7,6 +7,7 @@ latitude: 38.7139
 longitude: -9.1456
 tags:
 - things_to_do
+- neighbourhood
 title: Bairro Alto
 type: neighbourhood
 ---

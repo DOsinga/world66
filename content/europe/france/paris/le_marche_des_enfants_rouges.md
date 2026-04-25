@@ -7,6 +7,9 @@ opening_hours: Tue–Sat 8:30am–8pm (closes 1pm Tue–Wed afternoons); Sun 8:3
 snippet: Paris's oldest covered market, stellar multicultural lunch spot
 tags:
 - eating_out
+- sight
+- market
+- le_marais
 title: Marché des Enfants Rouges
 type: poi
 ---

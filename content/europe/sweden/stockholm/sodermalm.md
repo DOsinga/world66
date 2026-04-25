@@ -7,6 +7,7 @@ latitude: 59.3154
 longitude: 18.0745
 tags:
 - things_to_do
+- neighbourhood
 title: Södermalm
 type: neighbourhood
 ---

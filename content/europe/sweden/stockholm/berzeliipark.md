@@ -2,10 +2,12 @@
 address: Nybroplan, Stockholm
 latitude: 59.3311
 longitude: 18.0789
-snippet: "Small central park beside Nybroplan and Berns"
+snippet: Small central park beside Nybroplan and Berns
 tags:
 - things_to_do
 - park
+- sight
+- gamla_stan
 title: Berzelii Park
 type: poi
 ---

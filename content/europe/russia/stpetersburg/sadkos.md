@@ -8,6 +8,8 @@ snippet: Live-music bistro bar off Nevsky Prospekt
 tags:
 - bars_and_cafes
 - bar
+- sight
+- nevskiyprospekt
 title: Sadko's
 type: poi
 ---

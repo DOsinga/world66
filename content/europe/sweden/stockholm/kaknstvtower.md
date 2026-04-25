@@ -3,10 +3,13 @@ address: Ladugårdsgärdet
 latitude: 59.344243
 longitude: 18.09089
 phone: +46 (0)8 78 92 435
-snippet: "Panoramic Stockholm views from Scandinavia's tallest tower"
+snippet: Panoramic Stockholm views from Scandinavia's tallest tower
 tags:
 - things_to_do
 - tower
+- museum
+- sight
+- ostermalm
 title: Kaknäs TV-Tower
 type: poi
 ---

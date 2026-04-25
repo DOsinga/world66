@@ -2,9 +2,10 @@
 address: Berggasse 8, 1090 Wien
 latitude: 48.218
 longitude: 16.359
+snippet: Relaxed university-district cafe with attached bookshop
 tags:
 - bars_and_cafes
-snippet: "Relaxed university-district cafe with attached bookshop"
+- innere_stadt
 title: Cafe Berg
 type: poi
 ---

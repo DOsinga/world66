@@ -8,6 +8,7 @@ snippet: Old Masters from Durer to Rubens in a grand gallery
 tags:
 - things_to_do
 - museum
+- maxvorstadt
 title: Alte Pinakothek
 type: poi
 ---

@@ -6,6 +6,8 @@ snippet: Shady Victorian-era garden, a cool escape near Príncipe Real
 tags:
 - things_to_do
 - landmark
+- sight
+- bairro_alto
 title: Botanical Gardens
 type: poi
 ---

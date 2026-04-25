@@ -7,6 +7,9 @@ snippet: Historic zoo with stunning Art Nouveau architecture
 tags:
 - things_to_do
 - park
+- sight
+- architecture
+- andrassy_avenue
 title: Budapest Zoo
 type: poi
 ---

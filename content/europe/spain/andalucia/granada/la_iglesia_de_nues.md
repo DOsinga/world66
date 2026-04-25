@@ -7,6 +7,9 @@ longitude: -3.5988
 snippet: Ornate baroque church dedicated to Granada's patron saint
 tags:
 - things_to_do
+- sight
+- architecture
+- albaicin
 title: La Iglesia de Nuestra Señora de las Angustias
 type: poi
 ---

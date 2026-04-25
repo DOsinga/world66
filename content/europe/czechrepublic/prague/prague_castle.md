@@ -10,6 +10,9 @@ snippet: World's largest castle complex, home to St Vitus Cathedral
 tags:
 - things_to_do
 - landmark
+- sight
+- architecture
+- hradcany
 title: Prague Castle
 type: poi
 url: hrad.cz

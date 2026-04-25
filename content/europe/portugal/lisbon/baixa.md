@@ -7,6 +7,7 @@ latitude: 38.7117
 longitude: -9.139
 tags:
 - things_to_do
+- neighbourhood
 title: Baixa
 type: neighbourhood
 ---

@@ -3,6 +3,9 @@ latitude: 47.5019
 longitude: 19.0342
 tags:
 - things_to_do
+- museum
+- sight
+- castle_district
 title: Matthias Church
 type: poi
 ---

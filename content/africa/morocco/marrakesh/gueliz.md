@@ -7,6 +7,7 @@ latitude: 31.6375
 longitude: -8.01
 tags:
 - things_to_do
+- neighbourhood
 title: Guéliz
 type: neighbourhood
 ---

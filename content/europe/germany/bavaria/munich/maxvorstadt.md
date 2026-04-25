@@ -7,6 +7,7 @@ latitude: 48.1497
 longitude: 11.5661
 tags:
 - things_to_do
+- neighbourhood
 title: Maxvorstadt
 type: neighbourhood
 ---

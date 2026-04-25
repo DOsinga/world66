@@ -5,6 +5,7 @@ longitude: 11.532822
 phone: +49 (0)89 15 68 27
 tags:
 - bars_and_cafes
+- sight
 title: Taxisgarten
 type: poi
 ---

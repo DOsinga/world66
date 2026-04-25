@@ -3,7 +3,9 @@ latitude: 21.3043
 longitude: -157.8579
 tags:
 - things_to_do
-title: "Kawaiaha\u02BBo Church"
+- sight
+- chinatown
+title: Kawaiahaʻo Church
 type: poi
 ---
 

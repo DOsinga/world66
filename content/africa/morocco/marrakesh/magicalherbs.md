@@ -4,6 +4,8 @@ longitude: -7.9863
 snippet: Traditional herbalists and healers at Rahba Kedima
 tags:
 - shopping
+- sight
+- medina
 title: Magical Herbs
 type: poi
 ---

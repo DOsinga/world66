@@ -3,6 +3,9 @@ latitude: 43.7094
 longitude: 7.2622
 tags:
 - things_to_do
+- sight
+- market
+- promenade
 title: Gare du Sud
 type: poi
 ---

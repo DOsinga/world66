@@ -3,6 +3,8 @@ latitude: 43.7039
 longitude: 7.2539
 tags:
 - things_to_do
+- sight
+- promenade
 title: Russian Orthodox Cathedral
 type: poi
 ---

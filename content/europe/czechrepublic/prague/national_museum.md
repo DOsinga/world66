@@ -1,8 +1,12 @@
 ---
 latitude: 50.0794
-longitude: 14.4310
+longitude: 14.431
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- vinohrady
 title: National Museum
 type: poi
 ---

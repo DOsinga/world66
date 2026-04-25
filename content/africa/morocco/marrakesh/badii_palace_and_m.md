@@ -8,6 +8,8 @@ snippet: Ruined Saadian palace with sunken gardens and stork nests
 tags:
 - things_to_do
 - sight
+- mosque
+- mellah
 title: El Badi Palace
 type: poi
 ---

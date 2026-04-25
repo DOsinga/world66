@@ -3,6 +3,9 @@ latitude: 59.9342
 longitude: 30.3322
 tags:
 - shopping
+- sight
+- architecture
+- nevskiyprospekt
 title: Great Gostiny Dvor
 type: poi
 ---

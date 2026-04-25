@@ -6,6 +6,8 @@ snippet: Munich beer garden culture from sprawling parks to intimate courtyards
 tags:
 - bars_and_cafes
 - landmark
+- sight
+- altstadt
 title: Beer Gardens
 type: poi
 ---

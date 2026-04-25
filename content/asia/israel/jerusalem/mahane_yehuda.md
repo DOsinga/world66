@@ -7,6 +7,7 @@ latitude: 31.7853
 longitude: 35.2124
 tags:
 - things_to_do
+- neighbourhood
 title: Mahane Yehuda
 type: neighbourhood
 ---

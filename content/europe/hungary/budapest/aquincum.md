@@ -1,13 +1,15 @@
 ---
 address: Szentendrei ut 139
 latitude: 47.5335
-longitude: 19.0450
+longitude: 19.045
 opening_hours: 10:00-18:00 Tue-Sun, Apr-Oct
-snippet: Roman garrison town ruins in northern Budapest, with a rare 3rd-century water organ
+snippet: Roman garrison town ruins in northern Budapest, with a rare 3rd-century water
+  organ
 tags:
 - things_to_do
 - museum
 - theatre
+- sight
 title: Aquincum
 type: poi
 ---

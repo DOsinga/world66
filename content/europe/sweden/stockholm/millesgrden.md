@@ -8,6 +8,8 @@ snippet: Sculptor Carl Milles' hilltop studio and sculpture garden
 tags:
 - things_to_do
 - museum
+- sight
+- architecture
 title: Millesgården
 type: poi
 url: https://www.millesgarden.se

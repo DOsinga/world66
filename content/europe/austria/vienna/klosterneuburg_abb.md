@@ -9,6 +9,9 @@ phone: '02243411212'
 snippet: 900-year-old monastery with wine cellars and the Verdun Altar
 tags:
 - day_trips
+- museum
+- sight
+- architecture
 title: Klosterneuburg Abbey
 type: poi
 url: www.stift-klosterneuburg.at

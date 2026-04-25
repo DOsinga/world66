@@ -1,8 +1,12 @@
 ---
-latitude: 37.3860
+latitude: 37.386
 longitude: -5.9983
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- triana
 title: Plaza de Toros de la Maestranza
 type: poi
 ---

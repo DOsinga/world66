@@ -1,13 +1,14 @@
 ---
-title: Yeonghwiwon
-type: poi
-snippet: "Royal tombs of King Gojong's concubine and son in a wooded park"
 address: Jongno-gu, Seoul
 latitude: 37.5883
 longitude: 127.0024
+snippet: Royal tombs of King Gojong's concubine and son in a wooded park
 tags:
 - things_to_do
 - landmark
+- sight
+title: Yeonghwiwon
+type: poi
 ---
 
 A small, wooded royal tomb site tucked into the hillside near Changgyeonggung Palace. Yeonghwiwon holds the tomb of Lady Sunheon (Sunsheon-gwibi), a concubine of King Gojong, and alongside it sits Sunginwon, the tomb of their son Crown Prince Uimin (Yi Un), the last crown prince of the Joseon dynasty.

@@ -10,6 +10,8 @@ tags:
 - museum
 - history
 - religious
+- sight
+- jewish_quarter
 title: Jewish Museum
 type: poi
 ---

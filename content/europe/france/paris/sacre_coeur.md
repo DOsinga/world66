@@ -9,6 +9,8 @@ opening_hours: Basilica daily 6am–10:30pm; dome 9am–8:30pm (May–Sep), 9am�
 snippet: White-domed basilica with Paris's best hilltop views
 tags:
 - things_to_do
+- sight
+- montmartre
 title: Sacré-Cœur Basilica
 type: poi
 ---

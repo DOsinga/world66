@@ -1,8 +1,11 @@
 ---
 latitude: 37.3771
-longitude: -5.9870
+longitude: -5.987
 tags:
 - things_to_do
+- sight
+- architecture
+- santa_cruz
 title: Plaza de España
 type: poi
 ---

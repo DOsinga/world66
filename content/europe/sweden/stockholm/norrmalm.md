@@ -7,6 +7,7 @@ latitude: 59.3326
 longitude: 18.0649
 tags:
 - things_to_do
+- neighbourhood
 title: Norrmalm
 type: neighbourhood
 ---

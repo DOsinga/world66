@@ -10,6 +10,8 @@ price_per_night: €200+ per person
 snippet: Historic rooftop restaurant famous for its numbered pressed duck
 tags:
 - eating_out
+- sight
+- latin_quarter
 title: La Tour d'Argent
 type: poi
 url: www.tourdargent.com

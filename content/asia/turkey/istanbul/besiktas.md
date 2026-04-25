@@ -7,6 +7,7 @@ latitude: 41.043
 longitude: 29.0056
 tags:
 - things_to_do
+- neighbourhood
 title: Besiktas
 type: neighbourhood
 ---

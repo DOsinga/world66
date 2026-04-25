@@ -3,6 +3,9 @@ latitude: 48.8555
 longitude: 2.3548
 tags:
 - things_to_do
+- sight
+- architecture
+- le_marais
 title: Church of Saint-Gervais-et-Saint-Protais
 type: poi
 ---

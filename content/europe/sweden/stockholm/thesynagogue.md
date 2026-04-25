@@ -7,6 +7,9 @@ longitude: 18.077821
 snippet: 1870 Moorish-style synagogue on the Stockholm waterfront
 tags:
 - things_to_do
+- sight
+- architecture
+- gamla_stan
 title: The Great Synagogue
 type: poi
 ---

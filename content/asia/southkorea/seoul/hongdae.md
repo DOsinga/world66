@@ -7,6 +7,7 @@ latitude: 37.5563
 longitude: 126.9237
 tags:
 - things_to_do
+- neighbourhood
 title: Hongdae
 type: neighbourhood
 ---

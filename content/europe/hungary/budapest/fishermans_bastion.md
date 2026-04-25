@@ -3,6 +3,9 @@ latitude: 47.5027
 longitude: 19.0344
 tags:
 - things_to_do
+- sight
+- architecture
+- castle_district
 title: Fisherman's Bastion
 type: poi
 ---

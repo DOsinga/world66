@@ -7,6 +7,7 @@ latitude: 59.956
 longitude: 30.31
 tags:
 - things_to_do
+- neighbourhood
 title: Petrogradsky
 type: neighbourhood
 ---

@@ -7,6 +7,7 @@ latitude: 48.219
 longitude: 16.388
 tags:
 - things_to_do
+- neighbourhood
 title: Leopoldstadt
 type: neighbourhood
 ---

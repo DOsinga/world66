@@ -2,8 +2,11 @@
 latitude: 41.0096
 longitude: 28.9788
 tags:
-- things_to_do
-title: "Cafera\u011Fa Medrese"
+- sight
+- bars_and_cafes
+- bar
+- sultanahmet
+title: Caferağa Medrese
 type: poi
 ---
 

@@ -7,6 +7,8 @@ snippet: Tomb of Ferdinand and Isabella, the Catholic Monarchs
 tags:
 - things_to_do
 - sight
+- architecture
+- albaicin
 title: The Royal Chapel (La Capilla Real)
 type: poi
 ---

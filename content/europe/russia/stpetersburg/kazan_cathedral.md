@@ -1,8 +1,11 @@
 ---
-latitude: 59.9340
+latitude: 59.934
 longitude: 30.3244
 tags:
 - things_to_do
+- museum
+- sight
+- nevskiyprospekt
 title: Kazan Cathedral
 type: poi
 ---

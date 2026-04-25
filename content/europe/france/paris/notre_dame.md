@@ -8,6 +8,9 @@ snippet: Gothic masterpiece at the heart of Paris, reopened after the 2019 fire
 tags:
 - things_to_do
 - story
+- sight
+- architecture
+- latin_quarter
 title: Notre-Dame Cathedral
 type: poi
 ---

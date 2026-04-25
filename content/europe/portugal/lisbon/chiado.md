@@ -7,6 +7,7 @@ latitude: 38.7108
 longitude: -9.1421
 tags:
 - things_to_do
+- neighbourhood
 title: Chiado
 type: neighbourhood
 ---

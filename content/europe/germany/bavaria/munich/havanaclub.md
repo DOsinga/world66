@@ -4,6 +4,7 @@ latitude: 48.136106
 longitude: 11.583011
 tags:
 - bars_and_cafes
+- altstadt
 title: Havana Club
 type: poi
 ---

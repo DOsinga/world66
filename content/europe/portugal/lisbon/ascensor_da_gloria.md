@@ -3,7 +3,9 @@ latitude: 38.7161
 longitude: -9.1428
 tags:
 - things_to_do
-title: "Ascensor da Glória"
+- sight
+- bairro_alto
+title: Ascensor da Glória
 type: poi
 ---
 

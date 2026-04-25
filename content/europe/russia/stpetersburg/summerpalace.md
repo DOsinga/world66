@@ -7,6 +7,9 @@ longitude: 30.3361
 snippet: Peter the Great's modest Dutch-style house in the Summer Garden
 tags:
 - things_to_do
+- sight
+- architecture
+- nevskiyprospekt
 title: Summer Palace
 type: poi
 ---

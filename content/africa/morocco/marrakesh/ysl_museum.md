@@ -3,6 +3,9 @@ latitude: 31.6428
 longitude: -8.0031
 tags:
 - things_to_do
+- museum
+- sight
+- gueliz
 title: Yves Saint Laurent Museum
 type: poi
 ---

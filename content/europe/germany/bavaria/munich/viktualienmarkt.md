@@ -6,6 +6,8 @@ phone: +49 (0)89 29 75 45
 tags:
 - things_to_do
 - landmark
+- sight
+- altstadt
 title: Viktualienmarkt
 type: poi
 ---

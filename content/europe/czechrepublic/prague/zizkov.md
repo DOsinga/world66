@@ -7,6 +7,7 @@ latitude: 50.0833
 longitude: 14.45
 tags:
 - things_to_do
+- neighbourhood
 title: Žižkov
 type: neighbourhood
 ---

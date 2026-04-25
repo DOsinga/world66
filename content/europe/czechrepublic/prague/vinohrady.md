@@ -7,6 +7,7 @@ latitude: 50.0755
 longitude: 14.444
 tags:
 - things_to_do
+- neighbourhood
 title: Vinohrady
 type: neighbourhood
 ---

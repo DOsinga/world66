@@ -8,6 +8,8 @@ snippet: Romanesque fortress-church from 1147, Lisbon's oldest
 tags:
 - things_to_do
 - architecture
+- sight
+- alfama
 title: Lisbon Cathedral (Sé)
 type: poi
 ---

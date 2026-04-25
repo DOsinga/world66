@@ -7,6 +7,7 @@ latitude: 37.383
 longitude: -6.0065
 tags:
 - things_to_do
+- neighbourhood
 title: Triana
 type: neighbourhood
 ---

@@ -8,6 +8,8 @@ snippet: Sweden's parliament building on its own island in central Stockholm
 tags:
 - things_to_do
 - sight
+- architecture
+- gamla_stan
 title: Riksdag Building
 type: poi
 ---

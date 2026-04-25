@@ -3,6 +3,7 @@ latitude: 59.9222
 longitude: 30.287
 tags:
 - things_to_do
+- neighbourhood
 title: Kolomna
 type: neighbourhood
 ---

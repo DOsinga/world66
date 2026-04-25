@@ -3,6 +3,9 @@ latitude: 37.3824
 longitude: -5.9965
 tags:
 - things_to_do
+- museum
+- sight
+- santa_cruz
 title: Torre del Oro
 type: poi
 ---

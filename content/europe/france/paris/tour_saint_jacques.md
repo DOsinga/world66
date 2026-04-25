@@ -3,6 +3,9 @@ latitude: 48.858
 longitude: 2.3489
 tags:
 - things_to_do
+- sight
+- architecture
+- leshalles
 title: Tour Saint-Jacques
 type: poi
 ---

@@ -9,6 +9,8 @@ snippet: World's only museum dedicated entirely to dance
 tags:
 - things_to_do
 - museum
+- sight
+- norrmalm
 title: The Dance Museum
 type: poi
 ---

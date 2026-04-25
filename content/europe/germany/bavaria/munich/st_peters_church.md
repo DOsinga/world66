@@ -3,6 +3,10 @@ latitude: 48.1365
 longitude: 11.5755
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- altstadt
 title: St. Peter's Church
 type: poi
 ---

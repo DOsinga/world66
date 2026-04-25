@@ -3,6 +3,9 @@ latitude: 38.7148
 longitude: -9.1398
 tags:
 - things_to_do
+- sight
+- architecture
+- baixa
 title: D. Maria II National Theatre
 type: poi
 ---

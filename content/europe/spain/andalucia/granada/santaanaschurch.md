@@ -6,6 +6,8 @@ snippet: Elegant 16th-century church overlooking Plaza Nueva
 tags:
 - things_to_do
 - architecture
+- sight
+- albaicin
 title: Iglesia de Santa Ana
 type: poi
 ---

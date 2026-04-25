@@ -7,6 +7,9 @@ snippet: Neo-Renaissance opera house with affordable performances
 tags:
 - things_to_do
 - theatre
+- sight
+- architecture
+- jewish_quarter
 title: Hungarian State Opera House
 type: poi
 url: www.opera.hu

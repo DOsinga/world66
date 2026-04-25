@@ -7,6 +7,7 @@ latitude: 48.8649
 longitude: 2.3775
 tags:
 - things_to_do
+- neighbourhood
 title: Oberkampf
 type: neighbourhood
 ---

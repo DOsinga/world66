@@ -3,6 +3,9 @@ latitude: 48.2065
 longitude: 16.3695
 tags:
 - things_to_do
+- museum
+- sight
+- innere_stadt
 title: Jewish Museum Vienna
 type: poi
 ---

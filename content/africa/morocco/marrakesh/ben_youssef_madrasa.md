@@ -3,6 +3,8 @@ latitude: 31.6319
 longitude: -7.9862
 tags:
 - things_to_do
+- sight
+- medina
 title: Ben Youssef Madrasa
 type: poi
 ---

@@ -7,6 +7,8 @@ tags:
 - landmark
 - history
 - architecture
+- sight
+- sacromonte
 title: Alhambra
 type: poi
 ---

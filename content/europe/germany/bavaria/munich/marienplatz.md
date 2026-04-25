@@ -3,6 +3,8 @@ latitude: 48.1375
 longitude: 11.5756
 tags:
 - things_to_do
+- sight
+- altstadt
 title: Marienplatz
 type: poi
 ---

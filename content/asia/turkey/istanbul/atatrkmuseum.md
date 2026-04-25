@@ -8,6 +8,7 @@ snippet: Atatürk's pre-independence residence preserved as a museum
 tags:
 - things_to_do
 - museum
+- besiktas
 title: Atatürk Museum
 type: poi
 ---

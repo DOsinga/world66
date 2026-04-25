@@ -7,6 +7,7 @@ latitude: 48.8867
 longitude: 2.3431
 tags:
 - things_to_do
+- neighbourhood
 title: Montmartre
 type: neighbourhood
 ---

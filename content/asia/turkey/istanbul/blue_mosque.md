@@ -3,6 +3,9 @@ latitude: 41.0054
 longitude: 28.9768
 tags:
 - things_to_do
+- mosque
+- sight
+- sultanahmet
 title: Blue Mosque
 type: poi
 ---

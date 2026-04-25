@@ -9,6 +9,8 @@ snippet: Six historic sites across the old Jewish quarter
 tags:
 - things_to_do
 - museum
+- sight
+- stare_mesto
 title: Jewish Museum
 type: poi
 url: jewishmuseum.cz

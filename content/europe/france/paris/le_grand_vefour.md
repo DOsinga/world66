@@ -9,6 +9,8 @@ phone: +33 1 42 96 56 27
 snippet: Two-starred Empire-era restaurant beneath the Palais-Royal arcades
 tags:
 - eating_out
+- sight
+- leshalles
 title: Le Grand Véfour
 type: poi
 url: www.grand-vefour.com

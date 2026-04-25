@@ -5,6 +5,7 @@ longitude: 29.023349
 snippet: "Kadıköy restaurant in an old house, daily-changing menu"
 tags:
 - things_to_do
+- besiktas
 title: Hercai
 type: poi
 ---

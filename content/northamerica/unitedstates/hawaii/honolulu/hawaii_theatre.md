@@ -1,8 +1,11 @@
 ---
-latitude: 21.3120
+latitude: 21.312
 longitude: -157.8618
 tags:
 - things_to_do
+- sight
+- architecture
+- chinatown
 title: Hawaii Theatre
 type: poi
 ---

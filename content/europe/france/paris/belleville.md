@@ -7,6 +7,7 @@ latitude: 48.8719
 longitude: 2.3769
 tags:
 - things_to_do
+- neighbourhood
 title: Belleville
 type: neighbourhood
 ---

@@ -7,6 +7,7 @@ latitude: 37.1808
 longitude: -3.5835
 tags:
 - things_to_do
+- neighbourhood
 title: Sacromonte
 type: neighbourhood
 ---

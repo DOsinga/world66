@@ -3,6 +3,9 @@ latitude: 31.6312
 longitude: -7.9868
 tags:
 - things_to_do
+- museum
+- sight
+- medina
 title: Marrakech Museum
 type: poi
 ---

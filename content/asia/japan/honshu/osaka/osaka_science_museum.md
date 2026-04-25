@@ -3,6 +3,7 @@ latitude: 34.6912
 longitude: 135.4915
 tags:
 - things_to_do
+- museum
 title: Osaka Science Museum
 type: poi
 ---

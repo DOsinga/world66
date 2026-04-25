@@ -7,6 +7,7 @@ latitude: 41.0054
 longitude: 28.9768
 tags:
 - things_to_do
+- neighbourhood
 title: Sultanahmet
 type: neighbourhood
 ---

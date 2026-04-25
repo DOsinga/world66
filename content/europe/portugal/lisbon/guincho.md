@@ -4,6 +4,7 @@ longitude: -9.4736
 snippet: Wild Atlantic beach popular with surfers and windsurfers
 tags:
 - beaches
+- sight
 title: Guincho
 type: poi
 ---

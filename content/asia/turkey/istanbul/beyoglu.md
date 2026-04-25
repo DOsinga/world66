@@ -7,6 +7,7 @@ latitude: 41.0335
 longitude: 28.977
 tags:
 - things_to_do
+- neighbourhood
 title: Beyoglu
 type: neighbourhood
 ---

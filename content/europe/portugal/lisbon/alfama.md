@@ -7,6 +7,7 @@ latitude: 38.7114
 longitude: -9.1302
 tags:
 - things_to_do
+- neighbourhood
 title: Alfama
 type: neighbourhood
 ---

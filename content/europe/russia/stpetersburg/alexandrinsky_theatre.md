@@ -3,6 +3,8 @@ latitude: 59.9328
 longitude: 30.3372
 tags:
 - things_to_do
+- sight
+- nevskiyprospekt
 title: Alexandrinsky Theatre
 type: poi
 ---

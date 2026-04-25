@@ -7,6 +7,8 @@ snippet: Baroque chateau with Czech sculpture and quiet gardens
 tags:
 - things_to_do
 - museum
+- sight
+- architecture
 title: Zbraslav Chateau
 type: poi
 ---

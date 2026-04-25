@@ -1,8 +1,11 @@
 ---
-latitude: 59.3290
-longitude: 18.0680
+latitude: 59.329
+longitude: 18.068
 tags:
 - things_to_do
+- sight
+- market
+- gamla_stan
 title: Gustav Adolfs torg
 type: poi
 ---

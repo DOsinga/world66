@@ -3,6 +3,10 @@ latitude: 47.4961
 longitude: 19.0394
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- castle_district
 title: Buda Castle
 type: poi
 ---

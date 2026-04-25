@@ -7,6 +7,7 @@ longitude: 28.977
 snippet: Reggae and world music bar in the heart of Beyoğlu
 tags:
 - bars_and_cafes
+- beyoglu
 title: Riddim Café & Bar
 type: poi
 ---

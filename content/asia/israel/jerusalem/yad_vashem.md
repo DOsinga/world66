@@ -7,6 +7,7 @@ snippet: Israel's Holocaust memorial and museum on Mount of Remembrance
 tags:
 - things_to_do
 - museum
+- sight
 title: Yad Vashem
 type: poi
 ---

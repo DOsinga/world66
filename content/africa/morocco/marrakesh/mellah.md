@@ -7,6 +7,7 @@ latitude: 31.6225
 longitude: -7.981
 tags:
 - things_to_do
+- neighbourhood
 title: Mellah
 type: neighbourhood
 ---

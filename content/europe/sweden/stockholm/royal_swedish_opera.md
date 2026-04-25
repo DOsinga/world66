@@ -3,6 +3,9 @@ latitude: 59.3297
 longitude: 18.0706
 tags:
 - things_to_do
+- sight
+- architecture
+- gamla_stan
 title: Royal Swedish Opera
 type: poi
 ---

@@ -3,6 +3,9 @@ latitude: 41.0097
 longitude: 28.9811
 tags:
 - things_to_do
+- mosque
+- sight
+- sultanahmet
 title: Hagia Irene
 type: poi
 ---

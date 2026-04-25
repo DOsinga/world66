@@ -7,6 +7,7 @@ latitude: 31.7623
 longitude: 35.2197
 tags:
 - things_to_do
+- neighbourhood
 title: German Colony
 type: neighbourhood
 ---

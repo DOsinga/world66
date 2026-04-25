@@ -8,6 +8,9 @@ snippet: Habsburg imperial palace with museums and riding school
 tags:
 - things_to_do
 - landmark
+- museum
+- sight
+- museumsquartier
 title: Hofburg Palace
 type: poi
 ---

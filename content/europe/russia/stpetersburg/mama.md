@@ -7,6 +7,7 @@ longitude: 30.3175
 snippet: Small, sweaty late-night techno club on the Petrograd Side
 tags:
 - nightlife
+- petrogradsky
 title: Mama
 type: poi
 ---

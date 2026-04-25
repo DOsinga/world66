@@ -7,6 +7,8 @@ snippet: UNESCO-listed Joseon palace with a stunning secret garden
 tags:
 - things_to_do
 - landmark
+- sight
+- insadong
 title: Changdeokgung Palace
 type: poi
 ---

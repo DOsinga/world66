@@ -7,6 +7,9 @@ longitude: 28.954167
 snippet: Istanbul's historic European side, from Sultanahmet to Beyoglu
 tags:
 - things_to_do
+- mosque
+- sight
+- balat
 title: European Part
 type: poi
 ---

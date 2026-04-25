@@ -1,8 +1,12 @@
 ---
-latitude: 47.4960
+latitude: 47.496
 longitude: 19.0395
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- castle_district
 title: Hungarian National Gallery
 type: poi
 ---

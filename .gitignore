@@ -12,6 +12,7 @@ staticfiles/
 __pycache__/
 *.pyc
 *.pyo
+*.swp
 .DS_Store
 .idea/
 .claude/

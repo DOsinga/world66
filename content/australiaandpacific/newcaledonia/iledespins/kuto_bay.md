@@ -2,6 +2,7 @@
 title: "Kuto Bay"
 type: poi
 tags: [things_to_do]
+snippet: "White sand arc with calm reef-protected swimming"
 latitude: -22.6178
 longitude: 167.4478
 ---

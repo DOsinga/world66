@@ -1,5 +1,6 @@
 ---
 address: Piazza Unità d'Italia 7, Trieste
+snippet: "Historic 1839 café with mirrors, marble, and sea views"
 latitude: 45.649243
 longitude: 13.767681
 opening_hours: Daily 08:00–23:00

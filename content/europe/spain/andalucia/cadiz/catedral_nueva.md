@@ -1,7 +1,9 @@
 ---
 title: "Catedral Nueva"
 type: poi
-category: "Sight"
+snippet: "Baroque-neoclassical cathedral with tower views and composer's crypt"
+tags:
+  - sights
 latitude: 36.5295
 longitude: -6.2938
 ---

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
 image: newsouthwales.jpg
 image_attribution: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space
   Center

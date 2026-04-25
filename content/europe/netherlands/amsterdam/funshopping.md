@@ -1,20 +1,15 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 52.3591
+longitude: 4.8954
+snippet: Antique dealers and art galleries near the Rijksmuseum.
 tags:
 - shopping
-title: Funshopping
+title: Spiegelkwartier
 type: poi
 ---
 
-**Shops**
+The Spiegelkwartier is a cluster of antique shops and art galleries concentrated on Nieuwe Spiegelstraat, running from the Herengracht toward the Rijksmuseum. Dealers here specialise in everything from old masters and Delftware to Art Deco furniture, pre-Columbian artefacts, and Asian antiquities.
 
-**Spiegelkwartier, world of fine art and antiques**
-
-Spiegelkwartier is an area close to the Rijksmuseum with many antique shops and art galeries. From old masters, silver, delfts blauw, prints, modern art, art deco, archeology, precolombian, asian you name it, they sell it.  
-
-**Bloemenmarkt**
-
-The Bloemenmarkt or flowermarket in on the Singel has a wide selection of flowers, plants and herbs for home, garden or balcony. Though not extremely cheap, it is nice to look around and check out the great selection. You might consider picking up a sack of seeds to grow those wonderfull Dutch fl [more..](/europe/netherlands/amsterdam/shopping/funshopping/bloemenmarkt)
-
-**Frozen Fountain**
-
-A very cool interior ***design shop on the Prinsengracht, next to the library. They don't really sell souvenirs, but the do have*** some small thingies that could serve as such.
+Prices are serious rather than bargain-market, and quality is generally high. Even if you're not buying, it's worth a walk — the window displays alone are a visual education in European decorative arts.

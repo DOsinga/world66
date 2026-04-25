@@ -3,6 +3,7 @@ address: Prinsens gate 32, Trondheim
 latitude: 63.4314
 longitude: 10.3988
 phone: +47 73 50 27 05
+snippet: Eclectic corner restaurant mixing Balkan and Nordic dishes
 tags:
 - eating_out
 title: Posepilten

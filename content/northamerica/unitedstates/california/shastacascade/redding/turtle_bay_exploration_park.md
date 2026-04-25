@@ -1,6 +1,7 @@
 ---
 latitude: 40.5878
 longitude: -122.3749
+snippet: "Riverside science center with Sundial Bridge and arboretum"
 tags:
 - things_to_do
 - museum

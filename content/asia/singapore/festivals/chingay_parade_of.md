@@ -1,34 +1,17 @@
 ---
-title: "Chingay Parade Of Dreams"
+done:
+  poi_cleanup: '2026-04-19'
+snippet: Singapore's annual street parade celebrating multicultural diversity
+tags:
+- festivals
+- things_to_do
+title: Chingay Parade
 type: poi
-url: "www.chingay.org.sg"
+url: https://www.chingay.org.sg
 ---
 
-Chingay began in Singapore as an expression of communal unity and
-celebration in 1973 to replace the absence of the traditional
-firecrackers released every Chinese Year after its ban in 1972. The
-first procession was totally Chinese with a potpourri of stilt walkers,
-big-headed dolls, pugisitic groups, mini opera, prancing lion and
-dragon dancers and flag bearers.
+Singapore's biggest street parade, held annually on the Friday and Saturday after Chinese New Year. It began in 1973 to replace the firecracker celebrations banned the year before, and has since grown into one of Asia's largest processions.
 
-Today, Chingay has evolved to be the grandest street parade in
-Asia showcasing the rich, vibrant multi-culturalsim of Singapore, and
-the exotic and exciting cultures from all over the world. The parade
-features not only the best local and international performers but also
-many of Asia's most beautiful and specticular floats.
+The parade runs along a fixed route through the city and features elaborate floats, acrobats, stilt walkers, lion and dragon dancers, and performers from Singapore's various cultural communities as well as international acts. The multicultural mix — Chinese, Malay, Indian, and foreign groups all participating — reflects Singapore's broader identity as the organizers see it.
 
-This year's event will be held on Saturday, 19th February from
-7p.m to 11p.m with street party and floats procession. It will be
-the most colourful parade of the year because it's Chingay's 30th
-Birthday!!!
-
-**Contributors**
-January 30, 2005
-
-September 21, 2005
-
-
-
-
-
-url: [www.chingay.org.sg](http://www.chingay.org.sg)
+Expect large crowds. The event is free to watch from the street, though grandstand tickets are sold for better views.

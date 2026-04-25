@@ -1,6 +1,7 @@
 ---
 latitude: 42.5728
 longitude: -83.3962
+snippet: Saarinen-designed campus with science and art museums
 tags:
 - things_to_do
 - museum

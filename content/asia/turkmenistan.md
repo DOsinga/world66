@@ -10,6 +10,11 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Krasowski</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "6.3 million"
+  Visa: "Letter of invitation required — no independent travel"
+  Karakum Desert Coverage: "70% of the country"
+  Darvaza Gas Crater: Burning since 1971
 score: 0.35
 ---
 

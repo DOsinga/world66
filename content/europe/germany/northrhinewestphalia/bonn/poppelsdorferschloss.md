@@ -2,6 +2,7 @@
 address: Meckenheimer Allee 171, 53115 Bonn
 latitude: 50.7234
 longitude: 7.0908
+snippet: Baroque palace with a vast botanical garden
 tags:
 - things_to_do
 - landmark

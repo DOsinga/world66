@@ -1,8 +1,11 @@
 ---
 address: Saadiyat Island
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.5338
 longitude: 54.3981
 opening_hours: Tue-Sun 10:00-20:00, Fri-Sat 10:00-21:00
+snippet: Jean Nouvel's domed museum with cross-cultural art collection
 tags:
 - things_to_do
 title: Louvre Abu Dhabi

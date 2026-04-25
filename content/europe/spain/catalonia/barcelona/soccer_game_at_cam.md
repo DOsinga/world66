@@ -2,12 +2,15 @@
 address: Aristides Maillol, Les Corts
 latitude: 41.378348
 longitude: 2.12125
-phone: 93-496-36-08
+snippet: "Europe's largest football stadium and FC Barcelona's home ground"
 tags:
 - things_to_do
+- sport
 title: Soccer Game at Camp Nou
 type: poi
 url: www.fcbarcelona.com
 ---
 
-If you're lucky, you will be in Barcelona when FC Barcelona plays Real Madrid at spectacular **Camp Nou**. This colossal stadium holds a whopping 98,000 screaming futbol (soccer) fans and it is also home to a museum. Tours of the stadium, sports complex, and museum take place Monday-Saturday from 10:00 a.m.-6:00 p.m. and Sunday from 10:00 a.m.-2:00 p.m. To purchase tickets to a FC Barcelona, Real Madrid game, call 93-496-36-08 or visit the stadium ticket office at Aristides Maillol, Les Corts.
+Camp Nou is one of football's great cathedrals — a colossal stadium seating nearly 100,000 fans that has hosted some of the sport's most memorable nights. Even if you can't catch a match, the stadium tour and museum are worth a visit, covering FC Barcelona's history from its founding in 1899 through its modern dominance.
+
+Tickets for big matches (especially El Clasico against Real Madrid) sell out fast through the club website. For league games against smaller teams, you can sometimes buy seats at the ticket office on Aristides Maillol in Les Corts. Match day atmosphere in the surrounding streets starts building hours before kickoff.

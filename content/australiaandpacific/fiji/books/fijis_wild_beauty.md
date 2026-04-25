@@ -1,6 +1,9 @@
 ---
 title: "Fiji's Wild Beauty: A Photographic Guide to Coral Reefs of the South Pacific"
 type: poi
+snippet: "Stunning photo book of Fiji's coral reefs"
+tags:
+- book
 author: "Achim Nimmerfroh"
 isbn: "978-3-925919-82-4"
 ---

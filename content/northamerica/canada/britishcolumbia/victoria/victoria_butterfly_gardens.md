@@ -1,6 +1,7 @@
 ---
 latitude: 48.5783
 longitude: -123.4692
+snippet: Tropical greenhouse with free-flying butterflies and birds
 tags:
 - things_to_do
 - landmark

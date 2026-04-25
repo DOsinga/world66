@@ -7,6 +7,11 @@ image: mongolia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:USMC-100903-M-1294R-001.jpg
 image_license: Public domain
 image_attribution: Corporal Brandon Rodriguez
+quick_facts:
+  Population: "3.4 million"
+  Best Season: "Jun–Sep (harsh winters reach -40°C)"
+  Horses per Capita: "13 horses per 10 people"
+  Land Area: "4× the size of Germany, 99% empty"
 done:
   country_cleanup: 2026-03-29
 score: 0.58

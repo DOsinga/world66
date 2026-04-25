@@ -1,8 +1,11 @@
 ---
 address: 2301 North Central Avenue Phoenix, AZ 85004
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.471598
 longitude: -112.072199
 phone: +1 602 252 8848
+snippet: Outstanding collection of Native American art and living culture
 tags:
 - things_to_do
 - museum

@@ -1,6 +1,7 @@
 ---
 title: "Catedral de Culiacan"
 type: poi
+snippet: "Neoclassical cathedral anchoring Culiacan's historic plaza"
 tags:
   - things_to_do
   - church

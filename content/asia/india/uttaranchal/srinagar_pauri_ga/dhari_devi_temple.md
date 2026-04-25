@@ -1,7 +1,10 @@
 ---
 address: Kaliya Saur, 19km from Srinagar on Badrinath Highway, Uttarakhand
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.2611
 longitude: 78.7972
+snippet: Open-sky riverside temple on the road to Badrinath
 tags:
 - things_to_do
 - temple

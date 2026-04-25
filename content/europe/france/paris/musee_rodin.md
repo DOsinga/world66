@@ -1,9 +1,12 @@
 ---
 address: 77 Rue de Varenne, 75007 Paris
 admission: €14; garden only €4; free first Sun of the month
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 48.855399
 longitude: 2.315765
 opening_hours: Tue–Sun 10am–6:30pm; closed Mon
+snippet: The Thinker and monumental bronzes in an elegant mansion garden
 tags:
 - things_to_do
 title: Musée Rodin

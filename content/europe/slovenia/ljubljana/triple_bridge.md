@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 46.0512
 longitude: 14.5059
+snippet: Plečnik's iconic triple crossing at the entrance to Ljubljana old town
 tags:
 - things_to_do
 - architecture

@@ -4,6 +4,7 @@ latitude: 33.8336
 longitude: -116.5071
 opening_hours: Daily 10:00–17:00
 phone: (760) 778-6262
+snippet: Major collection of airworthy WWII combat aircraft
 tags:
 - things_to_do
 - museum

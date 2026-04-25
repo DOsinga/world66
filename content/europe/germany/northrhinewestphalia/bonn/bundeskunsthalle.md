@@ -3,6 +3,7 @@ address: Helmut-Kohl-Allee 4, 53113 Bonn
 latitude: 50.7161
 longitude: 7.1214
 phone: +49-228-9171200
+snippet: "Federal art hall with rotating major exhibitions and rooftop garden"
 tags:
 - things_to_do
 - museum

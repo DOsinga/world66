@@ -3,6 +3,7 @@ address: Khalid bin Al Waleed St
 latitude: 24.4876
 longitude: 54.3589
 opening_hours: Mon-Thu 9:00-19:30, Fri 14:30-19:30, Sat-Sun 9:00-19:30
+snippet: "Abu Dhabi's oldest building, now a heritage museum"
 tags:
 - things_to_do
 title: Qasr Al Hosn

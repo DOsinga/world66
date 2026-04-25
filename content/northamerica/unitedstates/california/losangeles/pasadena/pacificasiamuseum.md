@@ -2,6 +2,7 @@
 address: 46 N Los Robles Ave, Pasadena, CA 91101
 latitude: 34.1479
 longitude: -118.1408
+snippet: Small Asian art museum in a Chinese palace building
 tags:
 - things_to_do
 - museum

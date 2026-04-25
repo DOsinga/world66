@@ -1,8 +1,11 @@
 ---
 address: 2025 Broadway, Oakland, CA 94612
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.8122
 longitude: -122.2684
 phone: 510-465-6400
+snippet: Restored 1931 Art Deco movie palace with Wurlitzer organ
 tags:
 - things_to_do
 - architecture

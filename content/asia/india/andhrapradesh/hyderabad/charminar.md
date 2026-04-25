@@ -1,8 +1,12 @@
 ---
-latitude: 17.361602
-longitude: 78.474642
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 17.3616
+longitude: 78.4746
+snippet: Iconic four-minaret arch and gateway to Hyderabad's Old City
 tags:
 - things_to_do
+- landmark
 title: Charminar
 type: poi
 ---

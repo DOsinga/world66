@@ -2,6 +2,7 @@
 address: Calle 11 No 6-94, Plaza Bolivar
 latitude: 4.5977
 longitude: -74.0754
+snippet: "Birthplace of Colombian independence on Plaza Bolivar"
 tags:
 - things_to_do
 - museum

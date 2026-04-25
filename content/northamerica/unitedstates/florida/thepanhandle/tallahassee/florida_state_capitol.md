@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.4382
 longitude: -84.2809
+snippet: Old and new capitols side by side with 22nd-floor views
 tags:
 - things_to_do
 - sight

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 7.1971
 longitude: 100.5958
+snippet: Songkhla's oldest temple with vivid historical frescoes and museum
 tags:
 - things_to_do
 title: Wat Matchimawat

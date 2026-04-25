@@ -1,7 +1,10 @@
 ---
 address: Stadium Shopping Centre - Bay 2A 1941 Uxbridge Drive NW  Calgary Alberta
 email: info@thecathouseinc.com
+latitude: 51.0643
+longitude: -114.1148
 phone: 1-403-228-2287 (spells 'CAT-CATS'
+snippet: "Calgary's only store devoted entirely to cats and cat lovers"
 tags:
 - shopping
 - shop

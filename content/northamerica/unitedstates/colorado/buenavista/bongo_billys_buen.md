@@ -1,7 +1,10 @@
 ---
 title: "Bongo Billy's Buena Vista Cafe"
 type: poi
-tags: [activities, cafe, coffee]
+snippet: "Local coffee roaster and community hangout"
+tags:
+- restaurants
+- cafe
 address: "713 South US Highway 24, Buena Vista, CO"
 phone: "(719) 395-2634"
 url: "https://www.bongobillys.com"
@@ -9,4 +12,4 @@ latitude: 38.8397
 longitude: -106.1340
 ---
 
-Fresh baked goods, salads, soups, sandwiches, quiche, desserts, teas, juices, and of course great Bongo Billy's Coffees beverages & bulk beans. A great hangout that encompasses the Buena Vista feel to it. No trip is complete to Buena Vista without going to Bongo Billy's.
+A Buena Vista fixture that roasts its own beans and serves them alongside fresh baked goods, sandwiches, soups, and quiche. The vibe is pure mountain town -- locals linger over coffee, river guides refuel between runs, and the bulletin board tells you everything happening in the Arkansas Valley. They sell bulk beans too, if you want to take the habit home.

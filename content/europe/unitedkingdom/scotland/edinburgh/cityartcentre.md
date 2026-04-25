@@ -1,8 +1,11 @@
 ---
 address: 2 Market Street, Edinburgh EH1 1DE
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.951953
 longitude: -3.190208
 phone: 0131 529 3993
+snippet: Six-floor gallery with Scottish art and changing touring exhibitions
 tags:
 - things_to_do
 - old_town

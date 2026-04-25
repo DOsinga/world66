@@ -3,6 +3,7 @@ address: Blijdorplaan 8
 latitude: 51.9267
 longitude: 4.4516
 phone: +31 10 443 1431
+snippet: Top-tier zoo with an impressive underwater Oceanium tunnel
 tags:
 - things_to_do
 - landmark

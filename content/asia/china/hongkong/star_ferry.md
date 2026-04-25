@@ -2,6 +2,7 @@
 address: Star Ferry Pier, Tsim Sha Tsui, Kowloon
 latitude: 22.2935
 longitude: 114.1686
+snippet: Iconic harbour ferry with unbeatable skyline views since 1888
 tags:
 - kowloon
 - things_to_do

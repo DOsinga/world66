@@ -1,15 +1,16 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
+image: bradford.jpg
+image_attribution: Tim Green
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Bradford_Flickr_2016.jpg
 latitude: 53.794423
 longitude: -1.751919
 score: 0.4
 title: Bradford
 type: location
-image: bradford.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bradford_Flickr_2016.jpg
-image_license: CC BY 2.0
-image_attribution: Tim Green
 ---
 
 Bradford made its fortune on wool. By the mid-19th century it was the wool capital of the world, a grimy, prosperous mill town that drew workers from across Europe and, later, from South Asia. The industry unravelled after World War II, and Bradford has been reinventing itself ever since — with mixed but often interesting results.

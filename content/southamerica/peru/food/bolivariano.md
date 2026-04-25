@@ -1,14 +1,13 @@
 ---
-title: "Bolivariano"
+address: Pueblo Libre, Lima
+latitude: -12.0731
+longitude: -77.0636
+snippet: Sunday buffet of twenty classic Peruvian dishes in Pueblo Libre
+tags:
+- eating_out
+- restaurant
+title: Bolivariano
 type: poi
-latitude: -13.539393
-longitude: -71.931588
 ---
 
-This is an excellent option for anyone who wants to try the best of Peruvian food all at once. Go on Sundays when they offer a buffet with no less than 20 dishes. I strongly recommend it
-
-PriceOfMenu: $12
-
-address: Pueblo Libre close to the museum
-
-priceofmenu: $12
+A Lima institution in the Pueblo Libre district, close to the Larco Herrera museum. The restaurant draws people in with a Sunday buffet of around twenty dishes — a good way to work through the breadth of Peruvian cooking in a single sitting, from *ceviche* and *causa* to *seco de res* and *anticuchos*. Weekday lunch menus offer a shorter but similarly traditional selection. Prices are modest by the standards of Lima's tourist circuit.

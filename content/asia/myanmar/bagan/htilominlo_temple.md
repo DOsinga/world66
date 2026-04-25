@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 21.181
 longitude: 94.8686
+snippet: Four-storey temple with rare surviving stucco decoration
 tags:
-- things_to_do
-- landmark
+- architecture
+- religious
+- history
 title: Htilominlo Temple
 type: poi
 ---

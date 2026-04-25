@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.5693
 longitude: 73.6803
+snippet: Island palace on Lake Pichola where Shah Jahan took refuge
 tags:
 - things_to_do
 - landmark

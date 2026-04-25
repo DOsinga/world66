@@ -4,6 +4,7 @@ type: poi
 category: "Sight"
 latitude: 13.4774
 longitude: 144.7465
+snippet: "Last standing Spanish fort in Hagåtña with panoramic bay views"
 story: "During the Japanese occupation, the fort served as a lookout post. American forces could see it from their ships as they approached in July 1944 — for the Chamorros watching from the hill, the sight of the fleet was the moment they knew liberation was coming."
 ---
 

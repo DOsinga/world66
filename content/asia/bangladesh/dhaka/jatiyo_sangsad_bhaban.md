@@ -1,6 +1,7 @@
 ---
 latitude: 23.7625
 longitude: 90.3784
+snippet: "Louis Kahn's monumental parliament building, a modernist masterpiece"
 tags:
 - things_to_do
 title: Jatiyo Sangsad Bhaban (National Assembly)

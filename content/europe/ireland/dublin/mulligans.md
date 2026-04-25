@@ -1,21 +1,18 @@
 ---
-title: "Mulligans"
-type: poi
-address: "Poolbeg St."
+address: Poolbeg St.
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 53.346837
 longitude: -6.256141
+snippet: Legendary no-frills Dublin pub, perfect Guinness guaranteed
+tags:
+- bars_and_cafes
+- bar
+- pub
+title: Mulligans
+type: poi
 ---
 
-A stones throw from College Green on Poolbeg St, (off Tara St.) this
-pub is steeped in tradition, history and the Black Stuff. There is no
-loud music, no mobiles allowed, few 'beautiful' people but instead much
-chin wagging and colourful conversation. Former regulars have included
-James Joyce.
+A short walk from College Green on Poolbeg Street, off Tara Street, Mulligans is one of Dublin's most storied pubs. No loud music, no mobile phones, and very few beautiful people — just proper chin-wagging and colourful conversation. James Joyce was once a regular.
 
-Enjoy a perfect pint here.
-
-
-
-
-
-address: Poolbeg St.
+Come for the perfect pint of Guinness and nothing else. It is one of the few places left in Dublin that has resisted every temptation to modernise.

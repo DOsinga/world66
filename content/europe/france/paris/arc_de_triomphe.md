@@ -4,8 +4,10 @@ admission: €13; free for under-18s and EU residents under 26
 latitude: 48.873779
 longitude: 2.295037
 opening_hours: Daily 10am–11pm (Apr–Sep), 10am–10:30pm (Oct–Mar)
+snippet: Napoleon's triumphal arch with panoramic views over twelve converging avenues
 tags:
 - things_to_do
+- landmark
 title: Arc de Triomphe
 type: poi
 url: www.paris-arc-de-triomphe.fr

@@ -1,9 +1,14 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 51.0459
+longitude: -114.0675
+snippet: Upscale steakhouse and lounge on Stephen Avenue
 tags:
 - eating_out
 - restaurant
-title: Martin's on Eighth .
+title: Martin's on Eighth
 type: poi
 ---
 
-New to Stephen Avenue, the menu here includes grilled mussels with garlic, New York steak with peppercorn sauce, maple syrup cedar baked salmon and crème brulee. Lounge upstairs and extensive wine list. Mon to Wed 11:30 - 10 pm, Thur and Fri to 11 pm; Sat 5 pm - 11 pm.  Tel: 403-232-8080  Address: 121 - 8 Ave SW T2P 1B4
+An upscale restaurant on Stephen Avenue serving steaks, grilled mussels, cedar-baked salmon, and a solid wine list. The dining room is on the main floor with a lounge upstairs. A good choice for a proper sit-down dinner in the downtown core.

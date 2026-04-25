@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -14.68
 longitude: -74.38
+snippet: Andean plateau reserve with Peru's largest vicuña population
 tags:
 - things_to_do
 - sight

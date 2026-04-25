@@ -1,6 +1,7 @@
 ---
 latitude: 51.422
 longitude: 5.473
+snippet: Green oasis with Van Gogh watermill and open-air museum
 tags:
 - things_to_do
 - landmark

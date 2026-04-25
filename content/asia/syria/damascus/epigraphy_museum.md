@@ -1,6 +1,7 @@
 ---
 latitude: 33.5115
 longitude: 36.306
+snippet: "Arabic script history in a domed 15th-century madrassa"
 tags:
 - things_to_do
 - museum

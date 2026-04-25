@@ -1,7 +1,10 @@
 ---
 address: Av. Javier Prado Este 2465, San Borja
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -12.08674
 longitude: -77.001884
+snippet: Sweeping survey of Peru's pre-Columbian cultures across four floors
 tags:
 - things_to_do
 - museum

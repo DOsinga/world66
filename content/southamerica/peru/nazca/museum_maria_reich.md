@@ -2,6 +2,7 @@
 address: Panamericana Sur km 418
 latitude: -14.771
 longitude: -74.9237
+snippet: Home and instruments of the woman who dedicated her life to the Nazca Lines
 tags:
 - things_to_do
 - museum

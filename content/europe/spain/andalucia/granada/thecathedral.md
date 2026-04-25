@@ -1,18 +1,19 @@
 ---
-title: "The Cathedral"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 37.1761
+longitude: -3.5986
+snippet: Renaissance cathedral built to rival the Alhambra
+tags:
+- things_to_do
+- sight
+- religious
+title: The Cathedral
 type: poi
-type: "Religious Buildings"
-latitude: 37.387264
-longitude: -5.99333
 ---
 
-The Granada Cathedral was build in the 15th century to celebrate the conquest of the city by catholic forces of King Fernando and Queen Isabel and to trump the Muslim architecture of the Alhambra. As the Alhambra already took the best place in town, this attempt was rather futile to begin with and really did not succeed anyway, even though the new stile of the renaissance was employed. 
- 
+Granada Cathedral was built in the 16th century to celebrate the conquest of the city by the Catholic forces of King Fernando and Queen Isabel, and to trump the Muslim architecture of the Alhambra. Since the Alhambra already commanded the best spot in town, this was always going to be an uphill battle — and despite employing the new Renaissance style, the cathedral never quite eclipsed its predecessor.
 
-One can clearly see the transition between the gothic and renaissance era in the interior, which combines elements from both stiles. Typically gothic is the height of the naves, even though this height was largely accomplished with split columns on pedestals, topped with a classic capital and upper entablature.
- 
- The main attraction of this cathedral is the gilded Main Chapel by Diego de Siloé, and its beautiful stained Flemish glass windows from the 16th century.
- 
- Granada is famous for its Holy Week's Processions, when the religious crowds take the holy images out the street. During this week, the Cathedral is in fact the city center
+The interior shows a clear transition between Gothic and Renaissance eras. The naves reach a typically Gothic height, achieved through split columns on pedestals topped with classical capitals and upper entablature. The main attraction is the gilded Main Chapel by Diego de Siloé, along with beautiful 16th-century Flemish stained glass windows.
 
-type: Religious Buildings
+During Semana Santa (Holy Week), the cathedral becomes the spiritual heart of the city as religious processions carry holy images through the surrounding streets — one of the most atmospheric times to visit.

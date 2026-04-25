@@ -1,6 +1,7 @@
 ---
 latitude: 45.4714
 longitude: -108.5622
+snippet: Preserved home of the last principal Crow chief
 tags:
 - things_to_do
 - landmark

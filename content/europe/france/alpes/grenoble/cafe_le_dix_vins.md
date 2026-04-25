@@ -2,6 +2,7 @@
 address: 2 Avenue Félix Viallet
 latitude: 45.1881
 longitude: 5.7197
+snippet: Wine bar and bistro with terrace and good desserts
 tags:
 - bars_and_cafes
 title: Café Le Dix Vins

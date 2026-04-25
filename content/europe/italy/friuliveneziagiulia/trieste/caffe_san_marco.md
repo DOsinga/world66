@@ -1,9 +1,12 @@
 ---
 address: Via Cesare Battisti 18, Trieste
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.651899
 longitude: 13.777903
 opening_hours: Mon, Wed–Sat 08:00–23:00; Sun 09:00–23:00; closed Tue
 phone: +39 040 363 538
+snippet: Grand 1914 literary café where Joyce once held court
 tags:
 - James Joyce
 - Literature

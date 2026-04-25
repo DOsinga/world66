@@ -1,7 +1,9 @@
 ---
 title: "Chandi Mata Temple"
 type: poi
-category: Sight
+tags:
+  - sights
+snippet: "Hilltop Hindu temple and pilgrimage site with mountain views"
 latitude: 33.3090
 longitude: 75.7650
 ---

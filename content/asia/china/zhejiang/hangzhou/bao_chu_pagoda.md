@@ -1,6 +1,8 @@
 ---
 latitude: 30.262178
 longitude: 120.1487
+snippet: Slender hilltop pagoda overlooking West Lake, rebuilt 1933, origins from
+  968 AD
 tags:
 - things_to_do
 title: Bao Chu Pagoda

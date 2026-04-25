@@ -2,11 +2,10 @@
 address: Piazza Cittadella, Città Alta, Bergamo
 latitude: 45.7031
 longitude: 9.661
+snippet: "Free natural history museum in Città Alta with a mammoth skeleton as its centrepiece"
 tags:
 - things_to_do
 - museum
-- church
-- square
 title: Museum of Natural Science
 type: poi
 url: www.museoscienzebergamo.it

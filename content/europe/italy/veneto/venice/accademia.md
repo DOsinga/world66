@@ -1,12 +1,15 @@
 ---
 address: Campo della Carità, Dorsoduro 1050, 30123 Venice
 admission: €12 full, €2 reduced
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4315
 longitude: 12.3281
 opening_hours: Mon 08:15–14:00; Tue–Sun 08:15–19:15
+snippet: Five centuries of Venetian painting, from Bellini to Canaletto
 tags:
 - things_to_do
-- church
+- museum
 title: Gallerie dell'Accademia
 type: poi
 url: www.gallerieaccademia.it

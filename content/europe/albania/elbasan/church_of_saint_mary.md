@@ -1,6 +1,7 @@
 ---
 latitude: 41.1124
 longitude: 20.0826
+snippet: Elbasan's oldest church, Byzantine origins with surviving Ottoman-era frescoes
 tags:
 - things_to_do
 title: Church of Saint Mary

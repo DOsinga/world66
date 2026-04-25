@@ -1,8 +1,11 @@
 ---
 address: 1000 Oak St, Oakland, CA 94607
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.7986
 longitude: -122.2644
 phone: 510-318-8400
+snippet: Art, history, and natural science museum in a rooftop-garden building.
 tags:
 - things_to_do
 - museum

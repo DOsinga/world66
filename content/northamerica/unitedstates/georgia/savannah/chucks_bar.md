@@ -1,6 +1,7 @@
 ---
 title: "Chuck's Bar"
 type: poi
+snippet: "No-frills River Street dive with a local crowd"
 address: "305 W River St, Savannah, GA 31401"
 phone: "(912) 232-1005"
 latitude: 32.080497

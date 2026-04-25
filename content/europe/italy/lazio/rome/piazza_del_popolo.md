@@ -1,6 +1,7 @@
 ---
 latitude: 41.9107
 longitude: 12.4764
+snippet: Grand piazza with obelisk, twin churches, and Caravaggio
 tags:
 - things_to_do
 - church

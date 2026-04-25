@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.0145
 longitude: 75.3285
+snippet: Kashmir's premier trekking base with glaciers and alpine meadows
 tags:
 - things_to_do
 - landmark

@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - museum
+snippet: "Ethiopia's finest museum, housed in Haile Selassie's former palace"
 latitude: 9.0356
 longitude: 38.7631
 ---

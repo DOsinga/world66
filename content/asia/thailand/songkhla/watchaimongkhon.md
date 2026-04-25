@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 7.1994
 longitude: 100.598
+snippet: Temple with pagoda enshrining a Sri Lankan Buddha relic
 tags:
 - things_to_do
 title: Wat Chai Mongkhon

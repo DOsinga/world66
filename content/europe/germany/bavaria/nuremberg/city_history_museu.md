@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.456944
 longitude: 11.079722
+snippet: Renaissance merchant's house turned city museum with 1930s Nuremberg scale
+  model
 tags:
 - things_to_do
 - museum

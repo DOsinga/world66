@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.0022
 longitude: -114.988
+snippet: Heritage Street outdoor village of restored historic Nevada buildings
 tags:
 - things_to_do
 - museum

@@ -2,6 +2,7 @@
 address: Musievagen 1, Lodose
 latitude: 58.0346
 longitude: 12.1525
+snippet: Medieval archaeology museum at Gothenburg's predecessor town
 tags:
 - things_to_do
 - museum

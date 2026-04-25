@@ -1,7 +1,10 @@
 ---
 address: Plaza Maimónides s/n
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.8794
 longitude: -4.7843
+snippet: Bullfighting museum in the Judería honouring Córdoba's legendary matadors
 tags:
 - things_to_do
 - museum

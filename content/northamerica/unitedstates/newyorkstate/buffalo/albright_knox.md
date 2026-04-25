@@ -2,6 +2,7 @@
 address: 1285 Elmwood Avenue
 latitude: 42.93
 longitude: -78.8781
+snippet: Major art museum strong on Abstract Expressionism
 tags:
 - things_to_do
 - museum

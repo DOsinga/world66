@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.1457
 longitude: 113.5593
+snippet: Reclaimed land packed with enormous themed casino resorts
 tags:
 - things_to_do
 - neighbourhood

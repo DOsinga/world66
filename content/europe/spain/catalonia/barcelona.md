@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-04
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: barcelona.jpg
 image_attribution: Ralf Roletschek
 image_license: GFDL 1.2

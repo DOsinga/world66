@@ -4,6 +4,7 @@ latitude: 59.434703
 longitude: 24.741266
 opening_hours: Tue–Fri 10:30–17:30, Sat–Sun 11:30–16:30, closed Mon
 phone: '6446686'
+snippet: "Medieval artillery tower with fortification museum and bastion tunnels"
 tags:
 - things_to_do
 - museum

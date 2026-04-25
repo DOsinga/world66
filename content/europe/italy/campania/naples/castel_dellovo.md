@@ -8,6 +8,7 @@ tags:
 - palace
 title: Castel dell'Ovo
 type: poi
+snippet: "Naples' oldest castle, free to enter, with sweeping bay views"
 ---
 
 The oldest castle in Naples sits on the tiny islet of Megaride at the edge of the harbour. Built on the site believed to be the original Greek settlement of Parthenope, the castle is 2,000 years old in its foundations. The exterior and ramparts are open for free; the interior is used for private events. The views across the Bay of Naples are excellent. Open most mornings from 9 a.m.

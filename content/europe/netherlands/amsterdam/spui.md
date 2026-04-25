@@ -1,7 +1,10 @@
 ---
 category: Square
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.3684
 longitude: 4.8912
+snippet: Bookish square with Friday market and hidden Begijnhof
 tags:
 - centrum
 title: Spui

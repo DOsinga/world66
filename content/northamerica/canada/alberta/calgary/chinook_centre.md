@@ -1,18 +1,13 @@
 ---
 address: 6455 Macleod Trail SW
-email: chiinfo@cadillacfairview.com
 latitude: 50.995659
 longitude: -114.074648
-phone: 403.259.2022
+snippet: Calgary's largest shopping mall with 200-plus stores
 tags:
 - shopping
-- shop
-- theatre
-- restaurant
 title: Chinook Centre
 type: poi
 url: www.chinookcentre.com
-zipcode: T2H 0K8
 ---
 
-Shopping, Movies, and all kinds of Entertainment are available to you at Chinook Centre! Over *200* retail stores, with 3 major department stores. 5 restaurants for fine dining, and 19 restaurants in the expansive Food Court for good, quick eats! A Famous Players theatre completes this ample mall, making it the perfect place to go for shopping and a great day out! Easily the best mall in Calgary.
+Calgary's biggest mall sits on Macleod Trail in the south end of the city. Over 200 stores anchor the complex, including major department stores, a large food court, and a cinema. It's busy on weekends but manageable on weekday afternoons. The CTrain's Chinook station is right next to the parking lot, making it easy to reach without a car.

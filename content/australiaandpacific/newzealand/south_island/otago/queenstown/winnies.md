@@ -2,6 +2,7 @@
 address: 7-9 The Mall
 latitude: -45.0314
 longitude: 168.6608
+snippet: "Wood-fired pizza restaurant that morphs into a lively late-night bar"
 tags:
 - bars_and_cafes
 - bar

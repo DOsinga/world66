@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.8267
 longitude: -122.4228
+snippet: Infamous island prison with excellent audio-guided tours
 tags:
 - things_to_do
+- landmark
 title: Alcatraz Island
 type: poi
 ---

@@ -1,7 +1,10 @@
 ---
 address: Laugavegur, Reykjavik
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 64.1432
 longitude: -21.9303
+snippet: Reykjavik's main street for shopping, dining, bars, and the weekend bar crawl
 tags:
 - things_to_do
 - neighbourhood

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.0608
 longitude: -4.9809
+snippet: Hispano-Moorish palace housing Fez's finest ceramics and crafts
 tags:
 - things_to_do
 - fes_el_bali

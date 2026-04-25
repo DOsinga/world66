@@ -2,6 +2,7 @@
 title: "Chiricahua National Monument"
 type: poi
 category: "Sight"
+snippet: Eroded rhyolite columns and quiet trails in southeast Arizona
 latitude: 32.0141
 longitude: -109.3429
 ---

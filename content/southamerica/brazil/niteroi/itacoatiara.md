@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.9772
 longitude: -43.0292
+snippet: Dramatic surf beach backed by forested hills and cliff trails
 tags:
 - beaches
 - sight

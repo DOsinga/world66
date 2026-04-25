@@ -1,6 +1,7 @@
 ---
 latitude: -3.3
 longitude: 114.55
+snippet: River island of macaques and a small Chinese temple
 tags:
 - things_to_do
 title: Kembang Island

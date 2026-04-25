@@ -1,6 +1,7 @@
 ---
 latitude: 51.9462
 longitude: 1.2872
+snippet: "Britain's only surviving man-powered treadwheel crane"
 tags:
 - things_to_do
 - sight

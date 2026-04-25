@@ -1,6 +1,7 @@
 ---
 latitude: 33.9567
 longitude: 130.9431
+snippet: Japan's oldest active post office, a Meiji brick landmark
 tags:
 - things_to_do
 - architecture

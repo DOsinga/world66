@@ -1,7 +1,10 @@
 ---
 address: K Rotundě, Vyšehrad, Prague 2
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.0651
 longitude: 14.4196
+snippet: 11th-century Romanesque chapel in Vyšehrad fortress park
 tags:
 - things_to_do
 - landmark

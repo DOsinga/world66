@@ -1,6 +1,7 @@
 ---
 title: "Ten Napel Cafe"
 type: poi
+snippet: "Best coffee in town with fresh bagels and croissants"
 latitude: 14.7714
 longitude: -88.7798
 tags:

@@ -1,7 +1,10 @@
 ---
 title: "Mount Tsukuba"
 type: poi
-category: "Sight"
+tags:
+- things_to_do
+- landmark
+snippet: "Twin-peaked sacred mountain with panoramic Kanto Plain views"
 latitude: 36.2253
 longitude: 140.1065
 ---

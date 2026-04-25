@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.1593
 longitude: 24.5004
+snippet: Ukraine's highest peak at 2061m, demanding trail from Vorokhta
 story: President Viktor Yushchenko climbed Hoverla during his 2004 election campaign
   as a symbol of his pledge to clean up Ukraine — and literally cleaned up the trail
   on the way down, removing litter left by previous visitors.

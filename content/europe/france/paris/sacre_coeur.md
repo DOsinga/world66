@@ -1,9 +1,12 @@
 ---
 address: 35 Rue du Chevalier de la Barre, 75018 Paris
 admission: Basilica free; dome €8
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.886806
 longitude: 2.343015
 opening_hours: Basilica daily 6am–10:30pm; dome 9am–8:30pm (May–Sep), 9am–5pm (Oct–Apr)
+snippet: White-domed basilica with Paris's best hilltop views
 tags:
 - things_to_do
 title: Sacré-Cœur Basilica

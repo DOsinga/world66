@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 31.3564
 longitude: 120.5601
+snippet: "Leaning 10th-century pagoda on an ancient royal burial hill"
 story: "The hill is said to be the burial site of He Lu, King of Wu, who died in 496 BC. According to legend, a white tiger appeared on the hill three days after his burial to guard the tomb."
 ---
 

@@ -9,6 +9,11 @@ image_license: Public domain
 image_attribution: Kongsvoll
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "~64,000"
+  No Rental Cars: Visitors must use scooters, taxis, or buses
+  Shipwrecks: "300+ wrecks in surrounding waters"
+  Location: "1,070 km east of North Carolina — not Caribbean"
 score: 0.69
 ---
 

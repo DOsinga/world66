@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 49.4958
 longitude: 0.1066
+snippet: Perret's soaring concrete tower with 12,768 stained glass panels
 tags:
 - things_to_do
 - architecture

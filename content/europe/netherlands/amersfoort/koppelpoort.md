@@ -1,6 +1,7 @@
 ---
 latitude: 52.159
 longitude: 5.3853
+snippet: Rare medieval gate controlling both land and water traffic since 1425
 tags:
 - things_to_do
 - landmark

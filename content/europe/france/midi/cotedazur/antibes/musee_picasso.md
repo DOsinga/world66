@@ -8,6 +8,7 @@ story: 'In the summer of 1946, Picasso was given use of the Château Grimaldi as
   to hold a focused body of work from a single intense period of an artist''s life.
 
   '
+snippet: "Picasso's 1946 summer output in a seaside castle"
 tags:
 - things_to_do
 - museum

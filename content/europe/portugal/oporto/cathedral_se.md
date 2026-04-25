@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.1432
 longitude: -8.6112
+snippet: Fortress-like cathedral with stunning azulejo cloister
 tags:
 - things_to_do
 - landmark

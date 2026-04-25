@@ -4,6 +4,7 @@ longitude: 100.5607
 tags:
 - things_to_do
 - landmark
+snippet: "Famous Buddha head entwined in banyan tree roots"
 title: Wat Mahathat
 type: poi
 ---

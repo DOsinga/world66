@@ -1,6 +1,7 @@
 ---
 latitude: 31.5117
 longitude: -9.7724
+snippet: Daily fish auction where fresh catches are weighed and bid on aloud
 tags:
 - things_to_do
 - landmark

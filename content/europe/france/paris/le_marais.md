@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.860382
 longitude: 2.360742
+snippet: Medieval neighbourhood of courtyards, museums, and falafel
 tags:
 - things_to_do
 - shopping

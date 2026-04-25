@@ -1,7 +1,10 @@
 ---
-category: Park
+category: sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3599
 longitude: 4.9244
+snippet: Victorian-era park and community hub in Amsterdam Oost
 tags:
 - oost
 title: Oosterpark

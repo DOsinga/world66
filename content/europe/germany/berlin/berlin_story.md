@@ -1,7 +1,10 @@
 ---
 address: Unter den Linden 10, Berlin
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.517451
 longitude: 13.39042
+snippet: Bookstore and exhibition on Berlin's dramatic history
 tags:
 - shopping
 - berlinmitte
@@ -11,34 +14,8 @@ url: www.BerlinStory.de
 zipcode: '10117'
 ---
 
-On one of Berlin's most famous boulevards, the bookstore Berlin Story offers books that delve into everything from Prussian and Third Reich history to the latest modern architecture and where to party the latest.
+On one of Berlin's most famous boulevards, Berlin Story is part bookstore, part crash course in the city's past. The shelves hold around 2,500 titles covering everything from Prussian history and the Third Reich to modern architecture and nightlife, with some 250 in English and many in other languages.
 
-Palm-size maps trace the course of where the Wall once stood and oversize posters capture images of the cold war, expressionist film history, and the city's 45-mile east-west expanse. For a whirlwind introduction to Berlin's dramatic past and ongoing evolution, take a seat in front of the on-going 25-minute film.
+Beyond the books, palm-size maps trace where the Wall once stood, oversize posters capture Cold War scenes and expressionist film history, and a looping 25-minute film offers a whirlwind introduction to the city's dramatic arc. The staff are friendly and knowledgeable.
 
-The friendly, English-speaking staff includes owner Wieland Giebel, author and editor of several books on Berlin. Of the 2.500 titles in stock, 250 are in English, many other languages are available.
-
-Berlin Story is open daily, 10am-7pm
-
-type: Books & Records
-
-
-
-
-
-address: Unter den Linden 10, Berlin
-
-url: [www.BerlinStory.de](http://www.BerlinStory.de)
-
-zipcode: 10117
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Open daily, 10am to 7pm.

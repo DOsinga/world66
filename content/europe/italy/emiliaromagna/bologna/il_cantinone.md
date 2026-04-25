@@ -1,9 +1,13 @@
 ---
 address: Via del Pratello 56A
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.495439
 longitude: 11.331764
+snippet: Cosy after-dinner spot for fragolino wine and live music
 tags:
 - food
+- nightlife
 title: Il Cantinone
 type: poi
 ---

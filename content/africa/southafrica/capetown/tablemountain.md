@@ -2,8 +2,13 @@
 category: Sight
 done:
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
 latitude: -33.959
 longitude: 18.4039
+snippet: Flat-topped icon of Cape Town with cable car and hiking trails
+tags:
+- things_to_do
+- sight
 title: Table Mountain
 type: poi
 ---

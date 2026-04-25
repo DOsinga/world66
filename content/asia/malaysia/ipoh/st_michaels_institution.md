@@ -1,7 +1,10 @@
 ---
 address: Jalan S.P. Seenivasagam
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 4.5959
 longitude: 101.0797
+snippet: Grand 1912 colonial school with a central clock tower
 tags:
 - things_to_do
 - architecture

@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.4338
 longitude: -99.1929
+snippet: Mexico City's upscale neighbourhood with world-class restaurants and free
+  museums
 tags:
 - things_to_do
 - neighbourhood

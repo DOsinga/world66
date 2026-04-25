@@ -1,8 +1,11 @@
 ---
 address: Kantstraße 17, 10623 Berlin, Charlottenburg
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.506994
 longitude: 13.322756
 phone: 030 310 10 906
+snippet: Late-night live jazz and soul bar in Charlottenburg
 tags:
 - bars_and_cafes
 title: Ultra Lounge Berlin

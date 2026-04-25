@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-19'
 image: taipei.jpg
 image_attribution: Chensiyuan, edit by DXR
 image_license: CC BY-SA 4.0

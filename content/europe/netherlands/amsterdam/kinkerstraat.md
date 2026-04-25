@@ -1,9 +1,13 @@
 ---
 category: Street
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3673
 longitude: 4.8701
+snippet: Busy Oud-West street with a converted tram depot turned food and flea market
 tags:
 - oud_west
+- neighbourhood
 title: Kinkerstraat
 type: poi
 ---

@@ -1,8 +1,12 @@
 ---
-latitude: 46.813
-longitude: -71.206
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 46.8133
+longitude: -71.2074
+snippet: Only walled city in North America, UNESCO World Heritage since 1985
 tags:
 - things_to_do
+- landmark
 title: Vieux-Québec (Old City)
 type: poi
 ---

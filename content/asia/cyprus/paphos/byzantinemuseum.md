@@ -2,6 +2,7 @@
 address: 25 Martiou Street
 latitude: 34.7758
 longitude: 32.4275
+snippet: Outstanding icon collection including Cyprus's oldest surviving icon
 tags:
 - things_to_do
 - museum

@@ -1,14 +1,14 @@
 ---
 title: "Castle Garden"
 type: poi
-latitude: 49.375965
-longitude: 10.173758
+snippet: Renaissance terraced gardens with views over Heidelberg's Old Town
+tags:
+- things_to_do
+- sight
+latitude: 49.4107
+longitude: 8.7153
 ---
 
-The Castle Garden (hortus palatinus) was designed by the famous garden architect
- Salomon de Caus, who built several terraces around the castle, giving a great view onto
- the castle, the Old Town and even into the Rhine Valley. Do not be surprised, if you
- meet a young couple taking wedding photos in the garden.
- Map
+The Hortus Palatinus, the castle garden, was designed in the early 17th century by the French garden architect Salomon de Caus for Elector Frederick V. Terraces step down the hillside around the castle ruins, offering wide views over Heidelberg's Altstadt, the Neckar River, and the Rhine plain beyond.
 
-Admission: Free.
+Much of de Caus's original layout was never completed — the Thirty Years' War intervened — but what remains is still impressive. Don't be surprised to see wedding couples posing among the arches and balustrades. Admission to the gardens is free.

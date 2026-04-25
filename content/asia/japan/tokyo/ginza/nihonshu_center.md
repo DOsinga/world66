@@ -2,6 +2,7 @@
 address: 1-6-15 Nishi-Shinbashi, Minato-ku
 latitude: 35.6678
 longitude: 139.753
+snippet: Cheap sake tastings from breweries across Japan
 tags:
 - bars_and_cafes
 title: Japan Sake and Shochu Information Center

@@ -1,7 +1,10 @@
 ---
 address: Maximilianstrasse 46
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.366
 longitude: 10.899
+snippet: Rococo palace with Dürer, Holbein, and Baroque art
 tags:
 - things_to_do
 - museum

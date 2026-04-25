@@ -1,13 +1,15 @@
 ---
 address: Via Orazio 116, Naples
+done:
+  poi_cleanup: '2026-04-20'
 email: info@lasacrestia.it
 latitude: 40.822222
 longitude: 14.208333
 phone: +39 081 664 186
+snippet: Elegant Posillipo restaurant with signature truffle macaroni
 tags:
 - eating_out
 - restaurant
-- neighbourhood
 title: La Sacrestia
 type: poi
 ---

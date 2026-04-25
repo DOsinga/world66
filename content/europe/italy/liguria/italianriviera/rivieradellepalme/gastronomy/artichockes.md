@@ -1,5 +1,10 @@
 ---
-title: "Artichokes"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 44.0506
+longitude: 8.2131
+snippet: Local spiny artichoke variety eaten raw in olive oil or fried
+title: Artichokes
 type: poi
 ---
 

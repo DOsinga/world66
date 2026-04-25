@@ -1,6 +1,7 @@
 ---
 latitude: 27.3834
 longitude: -82.5584
+snippet: "Italian court theatre reassembled on the Ringling estate"
 tags:
 - things_to_do
 - sight

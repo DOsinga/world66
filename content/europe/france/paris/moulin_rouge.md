@@ -1,10 +1,13 @@
 ---
 address: 82 Boulevard de Clichy, 75018 Paris
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.884109
 longitude: 2.332356
 opening_hours: Shows at 9pm and 11pm nightly
 phone: +33 1 53 09 82 82
 price: Show only from €87; dinner and show from €195
+snippet: the original Belle Époque cabaret, still spectacular
 tags:
 - things_to_do
 title: Moulin Rouge

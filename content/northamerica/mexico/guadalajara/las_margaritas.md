@@ -1,8 +1,10 @@
 ---
 latitude: 20.677
 longitude: -103.348
+snippet: "Vegetarian takes on Guadalajara flavours, open breakfast to evening"
 tags:
 - eating_out
+- restaurant
 title: Las Margaritas
 type: poi
 ---

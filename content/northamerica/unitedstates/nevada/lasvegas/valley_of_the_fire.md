@@ -1,29 +1,18 @@
 ---
-address: Overton, Nevada
-email: vof@mvdsl.com
-latitude: 36.538072
-longitude: -114.443627
-phone: 702-397-2088
+address: 29450 Valley of Fire Road, Overton, Nevada
+latitude: 36.4407
+longitude: -114.5131
+snippet: Blazing red sandstone formations an hour from the Strip
 tags:
 - day_trips
-- museum
 - park
-title: Valley of the Fire State Park
+title: Valley of Fire State Park
 type: poi
-url: parks.nv.gov
+url: https://parks.nv.gov/parks/valley-of-fire-overview
 ---
 
-Located 60 miles northeast of Las Vegas and 65 miles from Hoover Dam is the 36,000-acre Valley of Fire State Park. The major attraction here are the bright red rock formations that you just won't find anywhere else in the world. Some of the formations resemble shapes such as beehives, elephants, and ducks. Rock climbing, hiking trails, and educational tours are on the menu here as well as camping, picnics, and a visit to the Lost City Museum or Archaeology. The Lost City Museum, established in 1935, is located at 721 S. Moapa Valley Boulevard in Overton, Nevada, Ph: 702-397-2193.
+Nevada's oldest and largest state park sits about 50 miles northeast of Las Vegas, and the drive alone — past the northern tip of Lake Mead — is worth the trip. The park covers 46,000 acres of Mojave Desert, but the star attractions are the Aztec sandstone formations that glow in shades of red, pink, and orange, especially at sunrise and sunset.
 
-**Contributors**
-May 21, 2008
+The short hike to Fire Wave is the most photographed spot — bands of swirling colour in the rock that look almost painted. White Domes trail takes you through a narrow slot canyon and past old movie-set ruins. Petroglyph panels at Atlatl Rock and Mouse's Tank trail date back thousands of years and are remarkably well preserved.
 
-
-
-tel: 702-397-2088
-
-url: [parks.nv.gov](http://parks.nv.gov/vf.htm)
-
-address: Overton, Nevada
-
-email:
+The visitor center has good exhibits on the geology and the Ancestral Puebloan people who lived here. Camping is available at two developed campgrounds, but summer temperatures regularly top 45 degrees Celsius, so spring and autumn are the sensible seasons to visit.

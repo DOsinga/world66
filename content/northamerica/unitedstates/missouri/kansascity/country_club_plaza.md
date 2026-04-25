@@ -1,6 +1,7 @@
 ---
 latitude: 39.0381
 longitude: -94.5934
+snippet: Spanish-style shopping district from the 1920s
 tags:
 - things_to_do
 - neighbourhood

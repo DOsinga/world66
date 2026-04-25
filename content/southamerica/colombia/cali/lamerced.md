@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 3.4525
 longitude: -76.5345
+snippet: Cali's oldest church with colonial and pre-Columbian museums
 tags:
 - things_to_do
 - landmark

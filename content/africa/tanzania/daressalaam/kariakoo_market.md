@@ -1,9 +1,10 @@
 ---
 latitude: -6.82
 longitude: 39.2716
+snippet: "Dar's biggest, loudest market in a WWI-era Carrier Corps site"
 tags:
 - things_to_do
-- landmark
+- market
 title: Kariakoo Market
 type: poi
 ---

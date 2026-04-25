@@ -1,9 +1,10 @@
 ---
 latitude: 13.7439
 longitude: 100.4885
+snippet: "Porcelain-encrusted riverside temple, stunning at sunset"
 tags:
 - things_to_do
-- church
+- temple
 title: Wat Arun
 type: poi
 ---

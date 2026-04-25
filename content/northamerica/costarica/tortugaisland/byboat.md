@@ -1,6 +1,7 @@
 ---
 title: "By Boat"
 type: poi
+snippet: Catamaran day trips and independent boats from the mainland
 tags:
   - getting_there
   - transport

@@ -2,6 +2,7 @@
 title: "Trebbio Castle"
 type: poi
 tags: [things_to_do, sight, castle]
+snippet: "Medici fortress by Michelozzo in the Mugello hills"
 latitude: 43.9833
 longitude: 11.3000
 ---

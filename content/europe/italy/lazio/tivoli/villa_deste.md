@@ -1,7 +1,10 @@
 ---
 title: "Villa d'Este"
 type: poi
-category: "Sight"
+tags:
+- things_to_do
+- sight
+snippet: Renaissance palace with spectacular terraced fountain gardens
 latitude: 41.962967
 longitude: 12.79599
 ---

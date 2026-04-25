@@ -1,6 +1,7 @@
 ---
 latitude: 57.8698
 longitude: 11.9738
+snippet: "Medieval fortress that survived fourteen sieges across three nations"
 tags:
 - things_to_do
 - landmark

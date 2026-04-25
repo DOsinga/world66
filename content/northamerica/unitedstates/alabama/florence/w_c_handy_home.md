@@ -1,8 +1,9 @@
 ---
 title: 'W. C. Handy Home, Museum & Library'
 type: poi
+snippet: "Birthplace museum of W.C. Handy, the Father of the Blues"
 tags:
-  - museums
+  - things_to_do
   - museum
 address: '620 West College Street, Florence, AL 35630'
 phone: '(256) 760-6379'

@@ -1,17 +1,16 @@
 ---
-title: Cyprus Museum
-type: poi
-tags:
-  - things_to_do
-  - museum
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.1717327
 longitude: 33.3557526
+snippet: Island's premier archaeological museum, spanning 8,000 years
+tags:
+- things_to_do
+- museum
+title: Cyprus Museum
+type: poi
 ---
 
-Near the Pafos Gate (west of the old city), inside the city gardens, you will find the Cyprus Museum. Built in 1908, the Cyprus Museum is the most important archeological museum on the island, and it is highly recommended. It exhibits stone jars of the 6th millenium BC, a marble statue of Aphrodite (from Soli, 1st century BC) and a gold sceptre (11th century BC).
+The most important archaeological museum on the island, housed in a colonial-era building near the Pafos Gate just west of the old city. The collection spans from Neolithic stone vessels of the 6th millennium BC through to the Roman period, with highlights including a marble statue of Aphrodite from Soli (1st century BC) and a gold sceptre from the 11th century BC.
 
-Address: Stylianos Lenas Square, corner of Museum Street and Homer Ave.
-
-Tel. 02 - 302 189
-
-Opening Hours: Mon - Sat 9am - 5pm and Sun 10am - 1pm.
+The museum sits inside the municipal gardens on Stylianos Lenas Square, at the corner of Museum Street and Homer Avenue. Allow about an hour for a thorough visit.

@@ -3,6 +3,7 @@ address: G/F 53-55 Lockhart Rd, Wan Chai
 latitude: 22.2779
 longitude: 114.174
 phone: 2866 6289
+snippet: Late-night Wan Chai pub with dancing on the bar
 tags:
 - bars_and_cafes
 title: Carnegie's Bar

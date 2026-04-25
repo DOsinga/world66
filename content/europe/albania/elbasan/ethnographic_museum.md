@@ -1,8 +1,10 @@
 ---
 latitude: 41.112
 longitude: 20.0821
+snippet: "Ottoman-era house with period interiors showing Elbasan's pre-industrial life"
 tags:
 - things_to_do
+- museum
 title: Ethnographic Museum
 type: poi
 ---

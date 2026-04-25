@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4006
 longitude: -75.7269
+snippet: Ottawa's best stretch of independent restaurants and cafes
 tags:
 - things_to_do
 - neighbourhood

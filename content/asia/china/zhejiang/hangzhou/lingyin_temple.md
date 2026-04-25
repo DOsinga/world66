@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.241667
 longitude: 120.097222
+snippet: Ancient Hangzhou temple with 20m Buddha and cliffside rock carvings
 tags:
 - things_to_do
 title: Lingyin Si (Temple of Inspired Seclusion)

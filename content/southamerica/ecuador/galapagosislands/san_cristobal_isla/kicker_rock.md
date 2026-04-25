@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -0.7672
 longitude: -89.5361
+snippet: Twin volcanic columns and top snorkelling spot for sharks and rays
 tags:
 - things_to_do
 - sight

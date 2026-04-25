@@ -1,7 +1,9 @@
 ---
 title: Interurban Railway Museum
 type: poi
-category: Museum
+tags:
+  - sights
+snippet: "Restored 1908 depot documenting Dallas-area electric railways"
 latitude: 33.0133
 longitude: -96.6976
 ---

@@ -1,25 +1,15 @@
 ---
-title: "Catalina Island"
-type: poi
-address: "Catalina Island, California"
-email: "info@visitcatalina.org"
-phone: "310-510-1520"
-url: "www.catalina.com"
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.388904
 longitude: -118.423929
+snippet: Rugged island getaway just an hour by ferry from LA
+tags:
+- day_trips
+title: Catalina Island
+type: poi
 ---
 
-Catalina Island’s "Airport-In-The-Sky" is approximately 37 miles SSW of Los Angeles International Airport. You can also drive to Newport Beach, which is roughly 50 miles south of Los Angeles and catch one of several boats or ferries that make the trip to Catalina Island daily. If you have money to spare, you can even spring for a helicopter ride to Catalina from Long Beach or San Pedro. Area activities include animal watching, birding, fishing, golfing, scuba diving, rafting, snorkeling, parasailing, kayaking, camping, hiking, eco-tours, and more. If you find that you just don't want to leave Catalina Island and you want to stay for just one more night, the area has more than 20 gorgeous hotels to choose from as well as numerous waterfront vacation home rentals.
+Catalina Island sits about 22 miles off the coast and feels a world away from Los Angeles. Most visitors arrive by ferry from Long Beach, San Pedro, or Newport Beach — the crossing takes about an hour. The main town, Avalon, is small and walkable, with a Mediterranean feel and the landmark Casino building (not actually a casino) overlooking the harbour.
 
-**Contributors**
-May 20, 2008
-
-
-
-tel: 310-510-1520
-
-url: [www.catalina.com](http://www.catalina.com)
-
-address: Catalina Island, California
-
-email: info@visitcatalina.org
+The real draw is the outdoors. The interior is rugged and largely undeveloped, home to a herd of bison introduced for a 1920s film shoot that never left. You can hike the Trans-Catalina Trail, snorkel in clear water at Lover’s Cove, kayak along the coast, or take a glass-bottom boat tour. Two Harbors on the west end is quieter and popular with campers and boaters. Catalina works as a day trip, but staying overnight lets you catch the island at its emptiest — mornings and evenings, when the ferries aren’t running.

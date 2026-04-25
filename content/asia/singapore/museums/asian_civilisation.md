@@ -1,22 +1,14 @@
 ---
-title: "Asian Civilisations Museum"
+title: Asian Civilisations Museum
 type: poi
-address: "Empress Place"
-opening_hours: "9 am to 7 pm (Tue to Sun), 1 pm to 7 pm (Mon)"
-url: "www.acm.org.sg"
-latitude: 51.487113
-longitude: -0.197466
+snippet: "Pan-Asian cultural survey in a grand colonial building"
+address: 1 Empress Place, Singapore
+opening_hours: Sat–Thu 10:00–19:00, Fri 10:00–21:00
+latitude: 1.2876
+longitude: 103.8514
+tags:
+- things_to_do
+- museum
 ---
 
-The ACM is the first museum in the region to present the broad prespective of the different Asian cultures and civilisations.
-
-**Contributors**
-June 04, 2008
-
-
-
-openingHours: 9 am to 7 pm (Tue to Sun), 1 pm to 7 pm (Mon)
-
-url: [www.acm.org.sg](http://www.acm.org.sg/)
-
-address: Empress Place
+Housed in the neoclassical Empress Place Building on the Singapore River, the ACM is the first museum in the region to present a broad survey of the cultures and civilisations of Asia. The permanent galleries cover trade and exchange across the continent, Chinese ceramics and calligraphy, Islamic art, and Southeast Asian sculpture. The building itself, dating to 1867, is worth seeing for its riverfront setting alone.

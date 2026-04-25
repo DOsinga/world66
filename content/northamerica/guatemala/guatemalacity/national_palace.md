@@ -1,6 +1,7 @@
 ---
 title: "Palacio Nacional de la Cultura"
 type: poi
+snippet: "Green volcanic stone palace with history murals"
 category: "Architecture"
 address: "6a Calle, Zona 1, Plaza de la Constitución, Guatemala City"
 latitude: 14.6416

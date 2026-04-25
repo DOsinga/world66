@@ -1,6 +1,7 @@
 ---
 latitude: 8.3612
 longitude: 80.3963
+snippet: Ancient monastery with massive stupa and Samadhi Buddha
 tags:
 - things_to_do
 - sight

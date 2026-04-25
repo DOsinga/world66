@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -3.31
 longitude: 114.57
+snippet: Morning floating market on the Barito and Kuin rivers
 tags:
 - things_to_do
 title: Pasar Kuin Floating Market

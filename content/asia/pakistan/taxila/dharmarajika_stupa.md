@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.7536
 longitude: 72.8514
+snippet: Ashoka-era Buddhist stupa, oldest and most sacred monument in Taxila
 tags:
 - things_to_do
 title: Dharmarajika Stupa

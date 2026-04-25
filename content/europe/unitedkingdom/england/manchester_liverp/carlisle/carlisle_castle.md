@@ -1,6 +1,7 @@
 ---
 latitude: 54.8977
 longitude: -2.9407
+snippet: "900-year-old border fortress with a turbulent military history"
 story: 'During the Jacobite rising of 1745, Bonnie Prince Charlie captured Carlisle
   Castle with barely a fight — the garrison surrendered within days. The following
   year, after the Jacobite defeat at Culloden, the castle was used to hold hundreds

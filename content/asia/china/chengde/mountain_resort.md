@@ -1,6 +1,7 @@
 ---
 latitude: 40.996
 longitude: 117.929
+snippet: Vast imperial park with palaces, lakes, and grassland
 tags:
 - things_to_do
 title: Mountain Resort

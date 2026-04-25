@@ -2,6 +2,7 @@
 title: "Kashid Beach"
 type: poi
 category: "Beach"
+snippet: "Quiet white-sand beach between rocky headlands near Mumbai"
 latitude: 18.444568
 longitude: 72.904006
 ---

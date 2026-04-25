@@ -1,6 +1,7 @@
 ---
 latitude: 29.975281
 longitude: 31.137512
+snippet: Iconic half-lion, half-human limestone monument at Giza
 tags:
 - things_to_do
 title: Sphinx

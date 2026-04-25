@@ -7,6 +7,11 @@ image: congokinshasa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aéroport_International_de_N'djili_Kinshasa.JPG
 image_license: Public domain
 image_attribution: Humprey J. L. Boyelo
+quick_facts:
+  Population: "105 million"
+  Language: "French"
+  Congo River: Deepest in the world
+  Land Area: "Larger than all of Western Europe combined"
 score: 0.15
 ---
 

@@ -2,6 +2,7 @@
 address: Zionskirchplatz 22-24, Mitte
 latitude: 52.534603
 longitude: 13.403797
+snippet: Relaxed neighbourhood café on Zionskirchplatz, good for Sunday breakfast.
 tags:
 - bars_and_cafes
 - berlinmitte

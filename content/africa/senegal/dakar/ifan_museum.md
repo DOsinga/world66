@@ -1,6 +1,7 @@
 ---
 latitude: 14.6689
 longitude: -17.4336
+snippet: "West Africa's oldest art museum: masks, sculpture, textiles from across the region"
 tags:
 - things_to_do
 - museum

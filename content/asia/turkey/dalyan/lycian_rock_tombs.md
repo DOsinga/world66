@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.8415
 longitude: 28.6363
+snippet: Ancient temple-front tombs carved into the cliff above the river
 story: 'The façade tombs are designed to mimic the fronts of wooden temples — columns,
   pediments, and all — even though they''re carved directly into sheer rock. They
   date from around the 4th century BC, when Caunos was part of the Lycian cultural
@@ -9,6 +12,7 @@ story: 'The façade tombs are designed to mimic the fronts of wooden temples —
   '
 tags:
 - things_to_do
+- sight
 title: Lycian Rock Tombs
 type: poi
 ---

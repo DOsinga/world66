@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Benin_-_Aeroporto_de_Coton
 image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Vitorabdala&amp;action=edit&amp;redlink=1"
   class="new" title="User:Vitorabdala (page does not exist)">Vitorabdala</a>
+quick_facts:
+  Population: "13.7 million"
+  Language: "French essential"
+  Birthplace of Voodoo: "West African origin"
+  Ethnic Groups: "42"
 score: 0.38
 ---
 

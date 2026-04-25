@@ -1,7 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.955
 longitude: -43.282
 phone: (21) 2492-5407
+snippet: World's largest urban forest, replanted after 19th-century deforestation
 tags:
 - things_to_do
 - park

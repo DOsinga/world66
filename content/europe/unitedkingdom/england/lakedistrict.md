@@ -1,11 +1,12 @@
 ---
-title: Lake District
-type: location
-latitude: 54.4609
-longitude: -3.0886
 done:
   location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-19'
+latitude: 54.4609
+longitude: -3.0886
 score: 0.68
+title: Lake District
+type: location
 ---
 
 The Lake District is England's only real mountain country: sixteen lakes and more than 200 peaks squeezed into 900 square miles of the north-western corner of the country. It is small by the standards of the Alps or the Rockies — you can drive across it in under an hour — and tame compared to the Scottish Highlands, but the compression is part of the appeal. Valleys open onto lakes, fells rise straight out of the water, stone walls climb impossibly steep pastures, and the whole landscape has a worn, glaciated beauty that has been attracting walkers and writers for more than two centuries.

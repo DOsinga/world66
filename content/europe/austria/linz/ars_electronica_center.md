@@ -1,9 +1,12 @@
 ---
 address: Ars-Electronica-Straße 1, 4040 Linz
 admission: €16, reduced €10
+done:
+  poi_cleanup: '2026-04-20'
 hours: Tue–Fri 09:00–17:00, Sat–Sun 10:00–18:00, closed Mon
 latitude: 48.3083
 longitude: 14.2858
+snippet: Futuristic museum of digital art and technology on the Danube
 tags:
 - things_to_do
 - museum

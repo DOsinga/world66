@@ -4,6 +4,7 @@ latitude: 36.7218
 longitude: -4.4178
 tags:
 - bars_and_cafes
+snippet: "Sprawling landmark bar near the Picasso Museum"
 title: El Pimpi
 type: poi
 ---

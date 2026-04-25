@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 19.4118
 longitude: -99.174
+snippet: Tree-lined neighbourhood built around oval parks on a former racetrack
 tags:
 - things_to_do
 - neighbourhood

@@ -1,16 +1,14 @@
 ---
-address: Hua Hin Beach Photos
+title: Hua Hin Beach
+type: poi
+snippet: Long sandy beach with seafood vendors and ponies
 tags:
 - beaches
 - beach
-title: Hua Hin Beach
-type: poi
+latitude: 12.5684
+longitude: 99.9576
 ---
 
-Hua Hin has a very long beach for several km along the coast. The beach is soft sandy beach. There are many beach hotels and beach resorts. You may enjoy the fun at the beach and also the quiet relaxation of the beach in Hua Hin Thailand. Ideal beach near Bangkok to enjoy a good beach near Bangkok. Hua Hin is 180 km south of Bangkok. The beach is near the town also so you may walk from the town onto the sandy beach.
+Hua Hin's main beach stretches for several kilometers along the coast, from the fishing pier in the north down past the Hilton and beyond. The sand is firm and wide, good for walking. Vendors sell grilled squid and corn on the cob, and you can rent a pony ride for the kids.
 
-
-
-
-
-address: Hua Hin Beach Photos
+Weekdays are quiet, but the beach fills up on weekends when Bangkok families make the three-hour drive south. The water is calm and shallow, though not crystal clear -- this is the Gulf of Thailand, not the Andaman side. For swimming, head south past the Sofitel where the beach is less crowded and the water a bit cleaner.

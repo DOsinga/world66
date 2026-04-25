@@ -1,8 +1,11 @@
 ---
 address: Stephansplatz, 1010 Wien
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.208084
 longitude: 16.371517
 opening_hours: Mon-Sat 9am-noon and 1pm-5pm, Sun 12:30-5pm
+snippet: Gothic cathedral dominating Vienna's centre, with a famously tiled roof.
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: 12.114
 longitude: 15.052
+snippet: Popular nightlife spot with live music
 tags:
 - bars_and_cafes
 - bar

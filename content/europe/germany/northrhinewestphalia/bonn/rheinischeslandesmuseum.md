@@ -1,8 +1,11 @@
 ---
 address: Colmantstrasse 14-16, 53115 Bonn
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.7317
 longitude: 7.0966
 phone: +49-228-20700
+snippet: Rhineland history from Neanderthals to the modern age
 tags:
 - things_to_do
 - museum

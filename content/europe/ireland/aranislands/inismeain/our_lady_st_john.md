@@ -1,6 +1,7 @@
 ---
 latitude: 53.0855
 longitude: -9.587
+snippet: Catholic church with stained glass by the Harry Clarke Studios
 tags:
 - things_to_do
 - landmark

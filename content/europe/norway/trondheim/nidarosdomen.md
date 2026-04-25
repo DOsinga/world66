@@ -1,7 +1,10 @@
 ---
 address: Bispegata 7, 7012 Trondheim
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 63.4269
 longitude: 10.3964
+snippet: World's northernmost medieval cathedral, built over a saint's grave
 tags:
 - things_to_do
 - landmark

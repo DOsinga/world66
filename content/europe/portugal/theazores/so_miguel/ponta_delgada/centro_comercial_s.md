@@ -1,7 +1,10 @@
 ---
 address: Avenida Infante Dom Henrique, 9500 Ponta Delgada
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.7375
 longitude: -25.663
+snippet: Waterfront mall with a supermarket and local shops
 tags:
 - shopping
 title: Centro Comercial Solmar

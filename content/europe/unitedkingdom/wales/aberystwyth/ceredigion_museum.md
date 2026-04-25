@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.4151
 longitude: -4.0832
+snippet: County history in a restored Edwardian theatre, free admission
 tags:
-- things_to_do
 - museum
+- history
 title: Ceredigion Museum
 type: poi
 ---

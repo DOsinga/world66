@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 14.6672
 longitude: -17.3984
+snippet: Slave trade memorial island, twenty minutes by ferry from Dakar
 tags:
 - things_to_do
 - sight
+- unesco
 title: Île de Gorée
 type: poi
 ---

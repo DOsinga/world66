@@ -1,6 +1,7 @@
 ---
 latitude: 35.5837
 longitude: 129.312
+snippet: Ridge hike with city views and a Buddhist temple
 tags:
 - things_to_do
 - hiking

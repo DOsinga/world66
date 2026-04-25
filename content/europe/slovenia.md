@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Meho29" title="Use
   Grmek</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "2.1 million"
+  Currency: Euro
+  Forest Cover: "60% of the country"
+  Tap Water Quality: Constitutional right since 2016
 score: 0.69
 ---
 

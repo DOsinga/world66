@@ -3,8 +3,10 @@ address: 1 avenue Wolfe-Montcalm, Québec City, QC G1R 5H3
 latitude: 46.8
 longitude: -71.224
 phone: 418 643-2150
+snippet: "Québécois art from colonial times to the present"
 tags:
 - things_to_do
+- museum
 title: Musée national des beaux-arts du Québec
 type: poi
 url: www.mnbaq.org

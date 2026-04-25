@@ -1,10 +1,9 @@
 ---
 latitude: 41.9165
 longitude: 12.4858
+snippet: Rome's grand park with zoo, galleries, and Bernini sculptures
 tags:
 - things_to_do
-- museum
-- church
 - park
 title: Bioparco and Villa Borghese
 type: poi

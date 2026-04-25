@@ -7,6 +7,7 @@ story: 'Caltech''s student body is tiny — around 2,300 — but the university 
   the real-life inspiration for the university in The Big Bang Theory.
 
   '
+snippet: Compact, walkable campus behind 46 Nobel Prizes
 tags:
 - things_to_do
 - landmark

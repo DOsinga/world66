@@ -1,12 +1,15 @@
 ---
-address: oude beestenmarkt
+address: Oude Beestenmarkt, Ghent
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.054282
 longitude: 3.731467
-phone: http://www.club-69.be/
+snippet: Late-night house and electro club on Oude Beestenmarkt
 tags:
 - bars_and_cafes
 title: Suite 16
 type: poi
+url: http://www.club-69.be/
 ---
 
-This used to be club 69 wich was the litle Brother club of the Culture Club, more in the city center. One of the former bartenders took over the place, repainted the whole interior and made it even more exclusiv then it already was. it starts realy late , around 1 am up untill 7 am, the hiphop, dance style from club 69 is now repaced with a more house and electro focused style (for hiphop and R&B you can go nextdoor to Chocolate). The music is still loud. Not the best place for a pleasant chat. The people have a trashy trendy typical "Ghent scene" clothing style: vintage combined with exclusive fashion. Be yourself but don't look like a tourist.
+This club on the Oude Beestenmarkt used to be known as Club 69, the little brother of Culture Club. After a change of ownership it was repainted and rebranded as Suite 16, with a tighter door and a shifted music policy — house and electro replaced the old hip-hop and R&B (for the latter, the place next door, Chocolate, still fills that need). It opens late, around 1am, and runs until 7am. Loud music, not ideal for conversation. The crowd dresses in the Ghent fashion of vintage mixed with deliberate style.

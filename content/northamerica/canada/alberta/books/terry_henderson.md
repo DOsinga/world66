@@ -3,36 +3,9 @@ title: "MUTE"
 type: poi
 author: "Brad Steel"
 isbn: "0973642106"
-latitude: 46.519514
-longitude: -76.43683
+snippet: "Thriller set in Alberta involving cattle mutilations"
 ---
 
-**Set largely in the province of Alberta**, Brad Steel's MUTE is a
-world-class work of fiction.
-Katherine "Kat" Francis, a charming and gifted animal doctor, has just
-watched her life turned upside-down after a series of deaths, including
-the demise of her six-year marriage. But when a mysterious package
-shows up at her clinic-filled with gruesome photos of mutilated
-cattle-things are about to get a whole lot worse.
+Set largely in Alberta, Brad Steel's *MUTE* follows Katherine "Kat" Francis, a veterinarian whose life unravels after a series of deaths, including the end of her six-year marriage. When a mysterious package of photos showing mutilated cattle arrives at her clinic, she is drawn into a conspiracy linking the Mad Cow crisis to a shadowy geopolitical plot.
 
-It soon becomes evident the sender is not a stranger, but in fact
-someone with whom Kat was once very intimate. A hobby investigator of
-mysterious animal mutilations, he has stumbled upon a link between the
-Mad Cow outbreak and a desperate plot to win the war on terror. One
-that would touch off a holocaust of unprecedented scale.
-
-Kat's quest for answers draws her into the lives of several
-unforgettable characters in Canada and Europe, while entangling her in
-a deadly maelstrom of world politics, greed and fear. Perhaps the
-greatest truth she learns is about herself-facing secrets she's kept
-hidden from even those closest to her...
-
-Author site: http://www.BradSteel.com
-
-[](http://www.amazon.com/exec/obidos/ASIN/0973642106/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: Brad Steel
-
-isbn: 0973642106
+The novel moves between rural Alberta and Europe, weaving together cattle ranching, veterinary science, and political intrigue. Steel, who has Alberta roots, captures the province's landscape and agricultural anxieties with an insider's eye.

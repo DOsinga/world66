@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.6816
 longitude: 12.5761
+snippet: 17th-century church with the Round Tower observatory
 tags:
 - things_to_do
 - landmark

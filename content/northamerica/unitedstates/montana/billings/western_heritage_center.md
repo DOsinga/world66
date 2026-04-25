@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.7818
 longitude: -108.5043
+snippet: Regional museum of Yellowstone Valley ranching and Native American life
 tags:
 - things_to_do
 - museum

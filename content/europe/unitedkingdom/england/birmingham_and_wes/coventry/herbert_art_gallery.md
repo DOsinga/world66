@@ -1,6 +1,7 @@
 ---
 latitude: 52.4083
 longitude: -1.5079
+snippet: Free museum covering Coventry's Blitz history and Lady Godiva legend
 tags:
 - things_to_do
 - museum

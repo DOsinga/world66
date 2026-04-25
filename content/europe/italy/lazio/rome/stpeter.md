@@ -1,10 +1,13 @@
 ---
 address: Piazza San Pietro, 00120 Vatican City
 admission: Basilica free; dome €6 stairs/€8 lift; Vatican Museums €17–€20 (book online)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.9013
 longitude: 12.452
 opening_hours: Basilica daily 07:00–19:00; dome 08:00–18:00 (17:00 in winter); Vatican
   Museums Tue–Sun 09:00–18:00
+snippet: Christendom's largest church, crowned by Michelangelo's dome
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

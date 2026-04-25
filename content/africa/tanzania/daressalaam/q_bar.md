@@ -1,6 +1,7 @@
 ---
 latitude: -6.7536
 longitude: 39.2762
+snippet: Expat-favourite Oyster Bay bar with live music and cold beers
 tags:
 - bars_and_cafes
 title: Q-Bar

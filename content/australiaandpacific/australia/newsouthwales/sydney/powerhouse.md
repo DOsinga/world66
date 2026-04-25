@@ -1,8 +1,11 @@
 ---
 address: 500 Harris Street, Ultimo
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -33.8785
 longitude: 151.1994
 phone: (02) 9217 0111
+snippet: Australia's largest museum of science, design and technology
 tags:
 - things_to_do
 - museum

@@ -4,6 +4,7 @@ longitude: 104.0563
 tags:
 - things_to_do
 - neighbourhood
+snippet: Restored Qing-dynasty alleys with teahouses, food and performances
 title: Kuanzhai Xiangzi
 type: poi
 ---

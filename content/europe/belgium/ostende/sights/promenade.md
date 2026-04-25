@@ -1,10 +1,14 @@
 ---
-title: "Promenade"
+title: "Promenade Albert I"
 type: poi
-latitude: 50.639073
-longitude: 6.037833
+latitude: 51.2296
+longitude: 2.9170
+tags:
+- things_to_do
+- sight
+snippet: "Traffic-free seafront promenade along Ostend's sandy beach"
 ---
 
-In Ostend the promenade, named after King Albert I, is the sunniest part. It would be a sin to leave Ostend without taking a walk on the traffic-free promenade. Our late King Leopold II and his family gave us the example to follow. Next to the many tearooms with terraces there is also a sandy beach. During the Summer there’s a marked out area to sunbathe in, where children can play and where various sports are organized. This is known as the “ Lido”. 
- 
- At the Kemmelbergstraat there is a little tower , with a clock on top. Many people make an appointment at this place, because you do not need a watch and it is a well known landmark. A little bit further along you pass by the “Drie Gapers” (the three yawners), an arcade with three arches . Further on you can take a walk in the “Oostendse Gaanderijen” and pass by the Royal Villa, built by our late King Leopold I.
+The Albert I Promenade runs the length of Ostend's seafront, a wide, traffic-free walkway between the beach and a row of cafes and tearooms with terraces. On a clear day you can watch the ferries and container ships moving through the Channel. In summer the adjacent beach fills up with families; the stretch known as the Lido has a designated area for sunbathing and beach sports.
+
+A few small landmarks punctuate the walk: a clock tower at Kemmelbergstraat serves as a classic meeting point, and the covered arcade of the Oostendse Gaanderijen — three arched bays — runs alongside. At the western end, the Royal Villa built for King Leopold I is worth a glance. The promenade is pleasant year-round but best enjoyed on a blustery off-season afternoon when most visitors have gone home.

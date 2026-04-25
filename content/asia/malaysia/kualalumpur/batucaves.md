@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 3.237796
 longitude: 101.681376
+snippet: Limestone caves with a towering golden statue, 13 km north of KL
 tags:
 - things_to_do
 - landmark
@@ -8,6 +11,6 @@ title: Batu Caves
 type: poi
 ---
 
-The huge Batu Caves are located 13km out of the city and are among KL's best known tourist attractions. Now used for Hindu festivals and pilgrimages, the caves also form an intense backdrop to the spectacularly masochistic feats performed annually by Thaipusam devotees. The main cave, a vast open space known as the Temple Cave - is reached by a 272-step climb. Beyond the stairs is the main temple. There are several other smaller caves in the same formation, including one with elaborately painted Hindu figures. 
- 
- Inside the caves are monkeys that swing through caverns filled with statues of Hindu gods and goddesses. The Batu Caves also host the interesting (and notorious) Hindu festival Thaipusam. During the festival the faithful pierce their flesh with an array of sharp objects ranging from hooks on the
+A series of limestone caves 13 km north of KL, Batu Caves is Malaysia's most visited Hindu shrine and one of the country's most striking natural landmarks. The golden statue of Lord Murugan at the base stands 42 metres tall. From there, a climb of 272 steps — painted in rainbow colours — leads to the Temple Cave, a vast cathedral-like cavern filled with shrines and statues. A separate cave houses elaborately painted murals depicting Hindu mythology.
+
+The site is at its most intense during Thaipusam, when hundreds of thousands of devotees undertake the climb carrying kavadi — ornate metal frames attached to the body by hooks and skewers. Outside festival time the caves are busy but manageable; macaques roam freely and will snatch food, so keep bags closed. Entrance is free though some inner caves charge admission. Take the KTM Komuter train from KL Sentral to Batu Caves station (30 minutes).

@@ -1,6 +1,7 @@
 ---
 latitude: -19.7203
 longitude: 63.3941
+snippet: Limestone caves and 2,000 free-roaming giant tortoises
 tags:
 - things_to_do
 - sight

@@ -4,6 +4,10 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 51.1484
 longitude: 6.6573
+snippet: Unlabelled art scattered through meadows and woodland pavilions
+tags:
+- things_to_do
+- museum
 title: Insel Hombroich
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Birmingham Civil Rights Institute
 type: poi
+snippet: "The essential reason to visit Birmingham, Alabama."
 ---
 
 The city's most important museum and the essential reason to visit Birmingham. The permanent exhibitions walk you through the civil rights struggle with power and restraint -- a replica segregated streetcar, a freedom bus, a "shotgun" house, and the story of how Birmingham became "Bombingham." The 16th Street Baptist Church, where four young girls were killed in a 1963 bombing, stands directly across the street.

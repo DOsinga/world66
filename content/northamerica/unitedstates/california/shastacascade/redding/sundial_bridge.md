@@ -1,6 +1,7 @@
 ---
 latitude: 40.5905
 longitude: -122.3777
+snippet: Calatrava-designed pedestrian bridge that doubles as a working sundial
 tags:
 - things_to_do
 - sight

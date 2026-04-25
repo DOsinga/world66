@@ -1,11 +1,13 @@
 ---
 address: Avenida Lineu de Paula Machado, 696
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.962717
 longitude: -43.212218
+snippet: Craft brewery branch in a leafy spot near the Botanical Garden
 tags:
 - bars_and_cafes
 - bar
-- park
 title: Devassa Jardim Botanico
 type: poi
 ---

@@ -1,8 +1,11 @@
 ---
 address: Via dei Tribunali 32, 80138 Naples
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.8508
 longitude: 14.2563
 opening_hours: Mon–Sat 12:00–15:30, 19:00–23:00; closed Sun
+snippet: Legendary Neapolitan pizzeria on the city's historic pizza street
 tags:
 - 48 Hours in Naples
 - 3 Days in Naples

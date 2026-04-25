@@ -2,6 +2,7 @@
 address: Gotaplatsen
 latitude: 57.697
 longitude: 11.9794
+snippet: "Nordic and European art in a grand neoclassical setting"
 tags:
 - things_to_do
 - museum

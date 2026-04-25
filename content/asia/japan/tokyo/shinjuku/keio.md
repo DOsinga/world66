@@ -1,7 +1,10 @@
 ---
 address: 1-1-4 Nishi-Shinjuku
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 35.6904
 longitude: 139.6984
+snippet: Station-connected department store with excellent basement food hall
 tags:
 - shopping
 title: Keio Department Store

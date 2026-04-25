@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.2379
 longitude: -8.7251
+snippet: Vigo's historic main square with Francisco Leiro's striking fish-man sculpture
 tags:
 - things_to_do
 - landmark

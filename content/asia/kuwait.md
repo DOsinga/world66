@@ -10,6 +10,11 @@ latitude: 29.3759
 longitude: 47.9774
 title: Kuwait
 type: location
+quick_facts:
+  Population: "4.3 million"
+  Best Months: "Nov–Mar (cool enough to be outside)"
+  Summer Heat: "50°C+"
+  Alcohol: Completely banned
 score: 0.37
 ---
 

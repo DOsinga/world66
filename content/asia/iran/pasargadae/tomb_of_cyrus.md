@@ -1,6 +1,7 @@
 ---
 latitude: 30.1942
 longitude: 53.167
+snippet: Stepped stone tomb of the Achaemenid founder, 2,500 years old
 tags:
 - things_to_do
 - landmark

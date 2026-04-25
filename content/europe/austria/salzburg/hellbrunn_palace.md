@@ -6,6 +6,7 @@ story: Prince-Archbishop Markus Sittikus had hidden water jets installed in the 
   benches, tables and pathways of his gardens, so he could soak his dinner guests
   without warning while he himself — by virtue of rank — was the only one at the table
   with a dry seat.
+snippet: Baroque pleasure palace with trick fountains that soak visitors
 tags:
 - things_to_do
 - sight

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.6413
 longitude: 18.1083
+snippet: Two-kilometre medieval circuit with rooftop and sea views
 tags:
 - things_to_do
 - sight

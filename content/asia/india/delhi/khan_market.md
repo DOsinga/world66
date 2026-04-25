@@ -1,22 +1,13 @@
 ---
-title: "Khan Market"
-type: poi
-type: "Music"
 latitude: 28.599514
 longitude: 77.225978
+snippet: Upmarket shopping enclave popular with Delhi's diplomats
+tags:
+- shopping
+title: Khan Market
+type: poi
 ---
 
-Khan Market is one of the more upmarket and expensive places to shop in Delhi. It is located in the city center, surrounded by residential complexes and the greenery of Lodhi Gardens.
+One of Delhi's most upmarket shopping areas, Khan Market sits in the city centre between residential colonies and the greenery of Lodhi Gardens. It's long been a favourite of the diplomatic community and well-off Delhiites, and the rents here are among the highest in India.
 
-Khan Market is popular with the diplomatic community. It offers a wide variety of stores, it also has some of the best tailors in Delhi. Several shops have a range of excellent materials and will have a tailor on hand to make a suit, dress or shirt, usually within a period of one week.
-
-Cafes : Barista , Cafe turtle, Market Cafe (great view, great food), Fab Cafe.
-
-Others :Khan chacha (great chiken tikka rolls)
-
- 
-
-**Contributors**
-July 08, 2006
-
-type: Music
+Beyond the brand-name shops, the real draws are the excellent tailors — several shops carry fine fabrics and have tailors on hand who can turn out a bespoke suit or shirt in about a week. The bookshops (Bahrisons, Full Circle) are among the best in the city. For food, Khan Chacha does legendary chicken tikka rolls from a tiny counter, and there are good cafes scattered through both lanes.

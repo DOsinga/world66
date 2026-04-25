@@ -3,6 +3,7 @@ address: Prince Centre, Thomas Street, Sydney
 latitude: -33.8811
 longitude: 151.2034
 price: AU$8-12 a dish
+snippet: Hand-pulled northern Chinese noodles, Chinatown legend.
 tags:
 - eating_out
 - restaurant

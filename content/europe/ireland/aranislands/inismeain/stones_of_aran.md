@@ -1,6 +1,7 @@
 ---
 author: Tim Robinson
 isbn: 978-1874675501
+snippet: Deeply layered exploration of Aran's geology, folklore, and history
 tags:
 - books
 title: 'Stones of Aran: Labyrinth'

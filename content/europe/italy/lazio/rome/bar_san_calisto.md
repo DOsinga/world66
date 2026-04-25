@@ -3,6 +3,7 @@ address: Piazza di San Calisto 3, 00153 Rome
 latitude: 41.8896
 longitude: 12.4713
 opening_hours: Mon–Sat 06:00–02:00; closed Sun
+snippet: No-frills Trastevere institution with cheap spritzes
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

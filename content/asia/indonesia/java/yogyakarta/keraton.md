@@ -1,6 +1,7 @@
 ---
 latitude: -7.8053
 longitude: 110.3642
+snippet: Living sultan's palace with gamelan and dance performances
 tags:
 - things_to_do
 - landmark

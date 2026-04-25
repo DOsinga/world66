@@ -1,6 +1,7 @@
 ---
 latitude: 24.874445
 longitude: 67.030861
+snippet: White marble mausoleum of Pakistan's founder, Jinnah
 tags:
 - things_to_do
 - museum

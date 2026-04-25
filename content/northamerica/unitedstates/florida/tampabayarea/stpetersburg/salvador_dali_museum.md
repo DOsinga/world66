@@ -5,6 +5,7 @@ latitude: 27.7692
 longitude: -82.6316
 opening_hours: Mon–Sat 10:00am–5:30pm, Thu until 8:00pm, Sun 12:00pm–5:30pm
 phone: +1 727-823-3767
+snippet: Largest Dalí collection outside Europe in striking modern building
 story: 'The collection came to St. Petersburg through a friendship between Dalí and
   Cleveland industrialist A. Reynolds Morse, who began buying Dalí''s work in 1943.
   By the 1970s the Morses owned nearly 100 paintings and over 2,000 works on paper

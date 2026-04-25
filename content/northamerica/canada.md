@@ -8,6 +8,11 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:MoraineLakeP01.jpg
 latitude: 61.066692
 longitude: -107.991707
+quick_facts:
+  Population: "40 million"
+  Currency: Canadian dollar (CAD)
+  Coastline: Longest in the world at 243,000 km
+  Lakes: "More than all other countries combined"
 score: 0.44
 title: Canada
 type: location

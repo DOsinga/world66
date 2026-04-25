@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
+image: ginza.jpg
+image_attribution: Kakidai
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ginza-WAKO_at_night.jpg
 latitude: 35.672
 longitude: 139.7647
 score: 0.68
 title: Ginza
 type: location
-image: ginza.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Ginza-WAKO_at_night.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Kakidai
 ---
 
 Ginza is [Tokyo](/asia/japan/tokyo)'s most famous upscale district, a grid of broad avenues lined with flagship department stores, luxury boutiques, and some of the city's best restaurants. It has been the centre of fashionable commerce since the Meiji era, when the area was rebuilt in brick by an English architect after a devastating fire in 1872. The Wako department store on the main Chuo-dori crossing, with its iconic clock tower, is one of the few pre-war buildings still standing.

@@ -1,7 +1,10 @@
 ---
 address: Bath, Somerset
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.381
 longitude: -2.359
+snippet: Georgian city built around ancient Roman hot springs
 tags:
 - day_trips
 title: Bath

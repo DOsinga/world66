@@ -1,6 +1,7 @@
 ---
 latitude: 53.8693
 longitude: -1.9128
+snippet: Free Victorian mansion museum with natural history collections
 tags:
 - things_to_do
 - museum

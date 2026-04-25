@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 51.4547
 longitude: -2.6056
+snippet: 1790 sugar merchant's townhouse exposing Bristol's slave trade wealth
 tags:
 - things_to_do
 - museum

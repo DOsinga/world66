@@ -1,10 +1,7 @@
 ---
-title: "An act of terror"
+title: "An Act of Terror"
 type: poi
+snippet: "Andre Brink's thriller exploring violence and apartheid South Africa"
 ---
 
-A fascinating novel about the morality of violence in modern South Africa.This book by Andre Brink is also one vivid description of the country,its people and the Apartheid.Along with being a novel about politics and terrorism,"An act of terror" does not cease to be a great action story.For those who wish to know a little bit more about South Africa and its late history. 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-author: Andre Brink
+A gripping novel by Andre Brink about the morality of violence in modern South Africa. It is also a vivid portrait of the country, its people, and the apartheid system. Along with being a novel about politics and terrorism, *An Act of Terror* works as a great action story — recommended for anyone who wants to understand South Africa and its recent history.

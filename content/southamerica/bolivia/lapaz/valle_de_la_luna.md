@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -16.5572
 longitude: -68.1159
+snippet: Surreal eroded clay spires and canyons south of the city
 tags:
 - things_to_do
 - sight

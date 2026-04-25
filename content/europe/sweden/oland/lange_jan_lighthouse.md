@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 56.1935
 longitude: 16.3918
+snippet: Historic Baltic lighthouse and prime birdwatching spot
 tags:
-- things_to_do
-- sight
+- history
+- nature
+- viewpoint
 title: Lange Jan Lighthouse
 type: poi
 ---

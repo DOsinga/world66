@@ -3,10 +3,10 @@ address: 2516 Market Avenue
 latitude: 41.484394
 longitude: -81.704487
 phone: 216.771.4404
+snippet: "Award-winning Ohio City brewery in the bar Eliot Ness used to frequent"
 tags:
 - bars_and_cafes
 - bar
-- market
 title: Great Lakes Brewing Company
 type: poi
 url: www.greatlakesbrewing.com

@@ -1,9 +1,13 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.7424
 longitude: -25.6712
+snippet: Azorean natural history and ethnographic collections in two buildings
 tags:
 - things_to_do
 - museum
+- history
 title: Museu Carlos Machado
 type: poi
 ---

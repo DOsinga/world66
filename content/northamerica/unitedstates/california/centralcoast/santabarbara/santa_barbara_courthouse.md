@@ -1,6 +1,7 @@
 ---
 latitude: 34.4265
 longitude: -119.7052
+snippet: Stunning 1929 Spanish-Moorish courthouse with clock tower views
 tags:
 - things_to_do
 - architecture

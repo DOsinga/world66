@@ -1,6 +1,7 @@
 ---
 latitude: 25.730308
 longitude: 32.656141
+snippet: "Relaxed Nile-side dining at the Hilton resort"
 tags:
 - eating_out
 title: Olives

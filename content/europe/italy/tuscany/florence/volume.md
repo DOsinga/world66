@@ -1,8 +1,11 @@
 ---
 address: Piazza Santo Spirito 5/r, 50125 Florence
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 43.7673
 longitude: 11.2426
 opening_hours: Daily 09:00–02:00
+snippet: Bookshop-bar with Negronis on Piazza Santo Spirito
 tags:
 - 24 Hours in Florence
 - 3 Days in Florence

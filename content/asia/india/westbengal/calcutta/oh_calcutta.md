@@ -2,6 +2,7 @@
 address: The Forum, 10/3 Elgin Road, Kolkata 700020
 latitude: 22.5385
 longitude: 88.3504
+snippet: Upscale Bengali fusion cuisine in an elegant setting
 tags:
 - eating_out
 title: Oh! Calcutta

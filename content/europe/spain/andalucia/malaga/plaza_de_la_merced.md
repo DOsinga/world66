@@ -1,6 +1,7 @@
 ---
 latitude: 36.7232
 longitude: -4.4178
+snippet: "Picasso's birthplace square, ringed by cafes and late-night tapas bars"
 tags:
 - things_to_do
 - landmark

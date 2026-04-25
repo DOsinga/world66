@@ -2,6 +2,7 @@
 address: Plaza Campo Santo de los Mártires
 latitude: 37.877
 longitude: -4.7817
+snippet: Medieval fortress where Columbus pitched his voyage to the royals
 story: It was in this Alcázar in 1486 that Christopher Columbus first met Ferdinand
   and Isabella to pitch his westward voyage. They turned him down. He waited six years
   and asked again, after Granada had fallen, and got his ships.

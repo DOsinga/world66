@@ -4,6 +4,7 @@ admission: ₹80; additional charge for vehicles entering the reserve
 latitude: 24.5803
 longitude: 73.6503
 opening_hours: Daily 09:00–18:00
+snippet: "Hilltop palace with panoramic sunset views over Udaipur and its lakes"
 tags:
 - things_to_do
 - landmark

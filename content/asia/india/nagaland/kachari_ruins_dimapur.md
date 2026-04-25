@@ -1,6 +1,7 @@
 ---
 latitude: 25.9065
 longitude: 93.7264
+snippet: Medieval stone pillars from a pre-colonial Naga kingdom
 tags:
 - things_to_do
 title: Kachari Ruins, Dimapur

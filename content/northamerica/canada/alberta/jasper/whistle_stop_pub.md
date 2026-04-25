@@ -1,6 +1,7 @@
 ---
 latitude: 52.8755
 longitude: -118.0815
+snippet: Cozy inn pub with ten ales and a fireplace
 tags:
 - bars_and_cafes
 title: Whistle Stop Pub

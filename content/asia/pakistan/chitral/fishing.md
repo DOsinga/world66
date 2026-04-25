@@ -1,10 +1,11 @@
 ---
-title: "Fishing"
+title: Fishing
 type: poi
+snippet: Brown trout streams in the Hindu Kush, permits from the Fisheries Department
 tags:
-  - things_to_do
-  - fishing
-  - outdoor_activity
+- things_to_do
+- fishing
+- outdoor_activity
 latitude: 35.8509
 longitude: 71.7902
 ---

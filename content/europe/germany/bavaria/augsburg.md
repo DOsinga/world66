@@ -5,6 +5,7 @@ description: One of Germany's oldest cities, founded by the Romans and shaped by
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  poi_cleanup: '2026-04-19'
 latitude: 48.3691
 longitude: 10.8978
 score: 0.6

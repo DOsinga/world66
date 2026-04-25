@@ -3,6 +3,7 @@ address: Slottsparken
 latitude: 59.917607
 longitude: 10.727915
 opening_hours: no public access
+snippet: "Neoclassical royal residence with open grounds and daily guard change"
 tags:
 - things_to_do
 title: Royal Palace

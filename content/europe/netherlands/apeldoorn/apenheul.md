@@ -1,8 +1,11 @@
 ---
 address: J.C. Wilslaan 21-31
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.2167
 longitude: 5.9275
 phone: +31 55 357 5757
+snippet: Primates roam free among visitors in forest park
 tags:
 - things_to_do
 - landmark

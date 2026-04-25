@@ -1,6 +1,7 @@
 ---
 latitude: 43.29698
 longitude: 5.369376
+snippet: Renaissance palace with diamond-cut stone facade
 tags:
 - things_to_do
 - museum
@@ -9,10 +10,6 @@ title: Maison Diamantée
 type: poi
 ---
 
-This was built in 1570 and owes its name to the " diamond point " stones making up the façade it houses the Museum of Marseilles Traditions. 
+Built in 1570 in the old quarter of Marseille, the Maison Diamantée takes its name from the faceted "diamond point" stones that make up its striking facade. It is one of the oldest surviving secular buildings in the city and a fine example of Provencal Renaissance architecture.
 
-
-
-
-
-Lodged in a Renaissance palace (Maison Diamantée) in the old Marseilles, the museum is devoted to local arts and crafts. When the firm of Camoin ceased activities in 1970 they presented their old stocks, blocks, plates, tools, and an impressive display furniture to the museum, all of which illustrate daily life in the Marseille of the 18C and 19C. Most of the cards and printing blocks are exhibited in the Camoin room upstairs.
+The building housed the Musee du Vieux Marseille for decades, displaying local arts, crafts, and objects illustrating daily life in 18th- and 19th-century Marseille. The Camoin room upstairs held an impressive collection of printing blocks and cards donated by the Camoin playing card firm when it closed in 1970. The museum has since closed and the building's future use is under discussion, but the facade alone is worth a look if you are passing through the Panier district.

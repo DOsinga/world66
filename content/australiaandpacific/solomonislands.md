@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Pohop
   class="new" title="User:Pohopetch (page does not exist)">Pohopetch</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "720,000"
+  English: "Official language — Pijin widely spoken"
+  Languages Spoken: "70+"
+  WWII Wrecks in Iron Bottom Sound: "200+"
 score: 0.46
 ---
 

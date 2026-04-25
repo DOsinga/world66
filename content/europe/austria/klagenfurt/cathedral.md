@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 46.6229
 longitude: 14.3086
+snippet: 16th-century cathedral with Baroque ceiling frescoes
 tags:
 - things_to_do
 - sight

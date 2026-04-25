@@ -5,6 +5,7 @@ longitude: 11.97
 phone: +49 345 520 0033
 tags:
 - eating_out
+snippet: Traditional gasthaus opposite medieval castle Giebichenstein
 title: Gasthof zum Moor
 type: poi
 ---

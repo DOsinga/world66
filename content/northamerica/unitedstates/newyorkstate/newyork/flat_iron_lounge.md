@@ -3,6 +3,7 @@ address: 37 West 19th Street
 latitude: 40.740067
 longitude: -73.993167
 phone: 212-727-7741
+snippet: "Art Deco cocktail bar with seasonal menus until 4am"
 tags:
 - bars_and_cafes
 - bar

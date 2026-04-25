@@ -1,12 +1,14 @@
 ---
 address: Piazza Vecchia, Città Alta
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.704038
 longitude: 9.662898
+snippet: 12th-century town hall with frescoes and sun meridian
 tags:
 - things_to_do
 - palace
 - monument
-- square
 title: Palazzo della Ragione
 type: poi
 ---

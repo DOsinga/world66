@@ -1,7 +1,10 @@
 ---
 address: Grotekerkplein 27
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 51.9214
 longitude: 4.4877
+snippet: Rotterdam's sole surviving medieval building, bombed but rebuilt
 tags:
 - things_to_do
 - landmark

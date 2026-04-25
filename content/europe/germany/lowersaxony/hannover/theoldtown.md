@@ -1,9 +1,15 @@
 ---
-title: "The Old Town"
+category: Neighbourhood
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 52.3716
+longitude: 9.7335
+snippet: Hannover's reconstructed medieval quarter, forty half-timbered survivors.
+tags:
+- things_to_do
+- sights
+title: The Old Town
 type: poi
-category: "Neighbourhood"
-latitude: 52.371600
-longitude: 9.733500
 ---
 
 Before the Second World War, the elliptical core of Hannover was a dense warren of half-timbered houses dating back to the Middle Ages — narrow lanes, poor housing and, by reputation, plenty of crime. The bombing raids of 1943 reduced almost all of it to rubble: only forty old half-timbered buildings survived, twelve of them in Knochenhauer-, Kramer- and Burgstrasse.

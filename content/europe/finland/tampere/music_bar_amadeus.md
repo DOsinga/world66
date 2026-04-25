@@ -1,6 +1,7 @@
 ---
 title: "Music Bar Amadeus"
 type: poi
+snippet: Rock-oriented live music bar in Tammela neighbourhood
 tags: [bars_and_cafes, bar, live_music, rock]
 address: "Tammelan puistokatu 34"
 latitude: 61.499481

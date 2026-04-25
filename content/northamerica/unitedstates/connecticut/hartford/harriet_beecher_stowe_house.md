@@ -1,8 +1,11 @@
 ---
 address: 77 Forest Street, Hartford, CT
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.7577
 longitude: -72.6999
 phone: (860) 522-9258
+snippet: Victorian home of the Uncle Tom's Cabin author, next door to Mark Twain
 tags:
 - things_to_do
 - museum

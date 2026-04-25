@@ -1,6 +1,7 @@
 ---
 latitude: 55.949167
 longitude: -3.190833
+snippet: Medieval ridge from castle to Holyrood, full of character
 tags:
 - things_to_do
 - palace

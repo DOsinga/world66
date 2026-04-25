@@ -4,6 +4,7 @@ email: info@orangebar.it
 latitude: 45.434293
 longitude: 12.323715
 phone: +39 041 5234740
+snippet: Terrace bar on Campo Santa Margherita with champagnes and cocktails
 tags:
 - bars_and_cafes
 - bar

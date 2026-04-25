@@ -1,6 +1,7 @@
 ---
 title: Pszczyna Palace Museum
 type: poi
+snippet: Remarkably intact Baroque palace with original 19th-century aristocratic furnishings.
 tags: [things_to_do, museum]
 latitude: 49.9781
 longitude: 18.9421

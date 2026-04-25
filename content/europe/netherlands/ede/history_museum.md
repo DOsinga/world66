@@ -5,6 +5,7 @@ latitude: 52.043143
 longitude: 5.668141
 opening_hours: Tue–Sat 14.00–17.00; Sun 14.00–16.00; closed Mondays
 phone: +31 (0)318 619 554
+snippet: Local history museum in a restored 1902 railway station
 tags:
 - things_to_do
 - museum

@@ -11,6 +11,11 @@ latitude: 7.9465
 longitude: -1.0232
 title: Ghana
 type: location
+quick_facts:
+  Population: "34 million"
+  Language: "English widely spoken"
+  Cocoa Production: "2nd globally"
+  Lake Volta: "largest man-made lake by area"
 score: 0.36
 ---
 

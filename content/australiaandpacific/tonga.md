@@ -11,6 +11,11 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/User:Pseudopanax" clas
   class="extiw" title="wikipedia:">English Wikipedia</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "100,000"
+  Religion: "Deeply Christian — everything closes on Sundays"
+  Never Colonised: Only Pacific island nation
+  Sundays: Everything closes — by law
 score: 0.57
 ---
 

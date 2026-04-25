@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.7797
 longitude: 35.2353
+snippet: Jesus's traditional route to Calvary, fourteen stations through the Old City.
 tags:
 - things_to_do
 - landmark

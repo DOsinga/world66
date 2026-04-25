@@ -1,7 +1,10 @@
 ---
 address: Jalan Kuala Kangsar, Gunung Tasek
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 4.739584
 longitude: 101.11872
+snippet: Ipoh's grandest cave temple with 385-step hilltop lookout
 tags:
 - things_to_do
 - landmark

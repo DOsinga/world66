@@ -1,6 +1,7 @@
 ---
 latitude: 17.96934
 longitude: 102.614006
+snippet: "Sprawling covered market for silk, jewelry, and street food"
 tags:
 - things_to_do
 - neighbourhood

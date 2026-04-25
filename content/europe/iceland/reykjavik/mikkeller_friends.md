@@ -3,6 +3,7 @@ address: Hverfisgata 12
 latitude: 64.1472
 longitude: -21.9322
 opening_hours: 16:00–01:00 (Sun–Thu), 16:00–03:00 (Fri–Sat)
+snippet: Danish craft beer bar with twenty rotating taps
 tags:
 - bars_and_cafes
 title: Mikkeller & Friends

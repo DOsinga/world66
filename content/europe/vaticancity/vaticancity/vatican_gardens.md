@@ -1,6 +1,7 @@
 ---
 title: Vatican Gardens
 type: poi
+snippet: "Renaissance gardens covering half of Vatican City"
 address: "Vatican City"
 url: "www.museivaticani.va"
 admission: "Guided tour only; book via Vatican Museums website"

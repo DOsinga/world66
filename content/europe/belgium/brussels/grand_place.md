@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.846729
 longitude: 4.352408
+snippet: Brussels's gilded Gothic square, UNESCO-listed and best at dawn
 tags:
 - things_to_do
 - landmark

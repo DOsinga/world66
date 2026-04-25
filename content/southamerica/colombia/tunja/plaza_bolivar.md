@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 5.5353
 longitude: -73.3674
+snippet: Colonial founding square ringed by historic buildings
 tags:
 - things_to_do
 - sight

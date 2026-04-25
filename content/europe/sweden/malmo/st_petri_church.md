@@ -1,6 +1,7 @@
 ---
 latitude: 55.6069
 longitude: 13.0007
+snippet: Malmö's oldest building, a 14th-century Baltic Gothic church with a giant altarpiece
 tags:
 - things_to_do
 - sight

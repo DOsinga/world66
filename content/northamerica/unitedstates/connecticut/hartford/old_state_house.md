@@ -1,8 +1,11 @@
 ---
 address: 800 Main Street, Hartford, CT
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.7661
 longitude: -72.6727
 phone: (860) 522-6766
+snippet: Bulfinch's 1796 Federal masterpiece, home to a two-headed calf
 story: 'The two-headed calf on display upstairs has been a Hartford landmark since
   1797, when artist Joseph Steward opened his museum of curiosities in the same building
   where the state legislature was meeting — one of the more improbable cohabitations

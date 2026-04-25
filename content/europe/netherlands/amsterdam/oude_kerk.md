@@ -1,8 +1,10 @@
 ---
-category: Architecture
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.374362
 longitude: 4.898073
 neighbourhood: De Wallen
+snippet: Amsterdam's oldest building, a Gothic church in the red-light district
 tags:
 - things_to_do
 - de_wallen

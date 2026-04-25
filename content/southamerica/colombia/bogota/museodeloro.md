@@ -1,7 +1,10 @@
 ---
 address: Carrera 6 No 15-82
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 4.6018
 longitude: -74.0719
+snippet: World's largest pre-Columbian gold collection
 tags:
 - things_to_do
 - museum

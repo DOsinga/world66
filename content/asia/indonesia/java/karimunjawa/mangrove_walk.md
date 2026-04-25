@@ -1,6 +1,7 @@
 ---
 title: 'Mangrove Walk'
 type: poi
+snippet: "Shaded boardwalk through mangroves with birdlife"
 tags:
   - things_to_do
   - sight

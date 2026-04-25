@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.7788
 longitude: 28.6278
+snippet: Pristine turtle nesting beach where the Dalyan River meets the sea
 tags:
 - things_to_do
 title: Iztuzu Beach

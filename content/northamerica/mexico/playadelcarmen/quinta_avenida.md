@@ -1,4 +1,5 @@
 ---
+snippet: "Lively pedestrian avenue lined with shops and nightlife"
 title: "Quinta Avenida (5th Avenue)"
 type: poi
 tags:

@@ -1,21 +1,18 @@
 ---
+address: Carl Milles väg 2, Lidingö
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 59.359006
 longitude: 18.121267
+snippet: Sculptor Carl Milles' hilltop studio and sculpture garden
 tags:
 - things_to_do
-- park
+- museum
 title: Millesgården
 type: poi
+url: https://www.millesgarden.se
 ---
 
-This is sited on the coast of one of the larger islands, Lidingö, with fine views back over the city. It has indoor exhibits, mostly of paintings, but the outdoor sculptures are what you will remember. These are both works by Carl Milles and works that he colllected.
+Perched on a cliff on Lidingö island, Millesgården was the home and studio of sculptor Carl Milles and his wife, artist Olga Milles. The terraced sculpture garden is the highlight — dramatic bronze figures seem to leap and float against the backdrop of the Stockholm waterfront. Inside, galleries hold Milles' own work alongside his personal collection of medieval and Renaissance art.
 
-email: info@millesgarden.se
-
-address: Carl Milles väg 2, SE 181 34 LIDINGÖ
-
-url: [www.millesgarden.se](http://www.millesgarden.se/uksubs.html)
-
-openings: see site below
-
-tel: + 46 8 446 75 90. Also +46 8 446 75 80
+The garden is beautiful in any season, but summer is best for lingering on the terraces. Allow a couple of hours. Easily reached by metro and bus from central Stockholm.

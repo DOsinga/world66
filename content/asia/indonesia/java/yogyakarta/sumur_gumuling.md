@@ -1,7 +1,10 @@
 ---
 address: Pasar Ngasem, Yogyakarta
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -7.8102
 longitude: 110.358
+snippet: Underground mosque with circular tunnels beneath Taman Sari
 tags:
 - things_to_do
 - landmark

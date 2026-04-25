@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 17.2228
 longitude: -89.6256
+snippet: Tikal's last great temple, still wrapped in vegetation
 tags:
 - things_to_do
 - landmark

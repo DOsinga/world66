@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: Mstyslav Chernov
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "10.4 million"
+  Currency: Euro (€)
+  Islands: "6,000+ (fewer than 200 inhabited)"
+  Coastline: "Longest in the Mediterranean"
 score: 0.68
 ---
 

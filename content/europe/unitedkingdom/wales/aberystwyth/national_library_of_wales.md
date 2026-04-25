@@ -1,6 +1,7 @@
 ---
 latitude: 52.4162
 longitude: -4.069
+snippet: "Holds the oldest surviving manuscript written in Welsh"
 tags:
 - things_to_do
 - museum

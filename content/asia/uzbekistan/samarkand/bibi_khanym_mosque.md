@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 39.6601
 longitude: 66.9791
+snippet: Timur's colossal 14th-century mosque, restored from ruins
 tags:
 - things_to_do
 - landmark

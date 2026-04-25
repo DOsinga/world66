@@ -1,6 +1,7 @@
 ---
 title: "Schloss Puchberg"
 type: poi
+snippet: "Renaissance castle with baroque chapel on the edge of town"
 category: Architecture
 address: "Puchberg 1, A-4600 Wels"
 latitude: 48.190044

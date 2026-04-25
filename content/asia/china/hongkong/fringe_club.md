@@ -1,7 +1,10 @@
 ---
 address: 2 Lower Albert Road, Central
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.2816
 longitude: 114.1567
+snippet: Arts venue in a heritage Victorian building with rooftop bar
 tags:
 - hongkongisland
 - things_to_do

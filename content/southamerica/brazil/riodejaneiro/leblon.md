@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -22.983461
 longitude: -43.224966
+snippet: Quieter extension of Ipanema with upscale dining on Rua Dias Ferreira
 tags:
 - beaches
 - beach

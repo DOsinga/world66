@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.8498
 longitude: 100.5162
+snippet: evening dinner cruises along the Chao Phraya from Nonthaburi
 tags:
 - eating_out
 title: Dairy Queen Riverside

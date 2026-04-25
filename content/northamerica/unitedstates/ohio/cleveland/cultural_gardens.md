@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.519
 longitude: -81.618
+snippet: Outdoor monuments honoring nearly 40 nationalities in Rockefeller Park
 tags:
 - things_to_do
 - park

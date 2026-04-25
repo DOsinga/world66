@@ -1,7 +1,10 @@
 ---
-address: Veemarkt
-latitude: 50.826287
-longitude: 3.271524
+address: Veemarkt 13
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 51.2228
+longitude: 4.401
+snippet: Late Gothic church with Baroque interior and Rubens paintings
 tags:
 - things_to_do
 - church
@@ -9,4 +12,6 @@ title: St Pauluskerk
 type: poi
 ---
 
-Open May-September 2-5pm. This is a late Gothic church with some interesting carvings.
+A late Gothic church built between the 15th and 17th centuries, originally part of a Dominican monastery. The exterior is relatively plain, but inside you'll find an extraordinary Baroque interior with more than fifty paintings, including works by Rubens, Van Dyck, and Jordaens. The carved wooden confessionals are particularly fine.
+
+Outside, a curious 19th-century Calvary garden at the back of the church recreates the road to Golgotha with life-size statues. The church is open to visitors from May through September, generally in the afternoons.

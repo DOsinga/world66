@@ -1,6 +1,7 @@
 ---
 latitude: 21.6206
 longitude: 91.976
+snippet: Tidal island with a hilltop pagoda and Shiva shrine side by side
 tags:
 - things_to_do
 title: Maheshkhali Island

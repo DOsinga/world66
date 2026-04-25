@@ -1,8 +1,11 @@
 ---
 address: Weizenbergi 28, Kadriorg
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 59.437467
 longitude: 24.791459
 phone: '6015844'
+snippet: European and Russian art in Kadriorg Palace's old kitchen
 tags:
 - things_to_do
 - museum

@@ -1,10 +1,15 @@
 ---
-title: "Zoobic Safari"
-type: poi
-address: "Ilanin Forest, Subic Bay Freeport Zone"
-tags: [things_to_do, park]
+address: Ilanin Forest, Subic Bay Freeport Zone
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 14.8133
 longitude: 120.2827
+snippet: Wildlife park with tigers in a converted naval jungle
+tags:
+- things_to_do
+- park
+title: Zoobic Safari
+type: poi
 ---
 
 A wildlife park set deep in the old Naval Magazine jungle. The highlight is the Tiger Safari — you ride through a tiger enclosure in a mesh-windowed jeepney while guides lure the animals close with food. There is also a reptile house in a converted ammunition bunker, ostriches, a petting zoo with carabao and monkeys, and a close encounter walk past a dozen full-grown Bengal tigers. The whole tour takes about two hours. Popular with families on weekends.

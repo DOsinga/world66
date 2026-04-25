@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -36.753
 longitude: 175.4987
+snippet: Hand-built narrow-gauge railway through regenerating kauri forest
 tags:
 - things_to_do
+- railway
 title: Driving Creek Railway
 type: poi
 ---

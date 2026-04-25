@@ -1,9 +1,14 @@
 ---
-title: "The Cathedral"
-type: poi
-category: "Architecture"
-latitude: 44.8680
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 44.868
 longitude: 13.8444
+snippet: Early Christian cathedral with a bell tower built from amphitheatre stone
+tags:
+- things_to_do
+- sight
+title: Cathedral of the Assumption
+type: poi
 ---
 
-The construction of the Cathedral started in the 4th century but it got its present shape in the 5th century. The floor mosaics, columns, and facade have been changed and renewed many times from the 4th to the 14th century. The bell tower was built in the 17th century using stone from the Amphitheatre. In summer, classical music concerts are held here.
+Pula's cathedral has roots going back to the 4th century, making it one of the earliest Christian buildings in the Adriatic. The basic structure took its current form in the 5th and 6th centuries, and the floor mosaics, columns, and facade were modified repeatedly right through to the 14th century. The bell tower, added in the 17th century, was built using stone taken directly from the nearby Roman amphitheatre — a practical repurposing that gives the tower its distinctive patched appearance. In summer, the cathedral hosts classical music concerts that make good use of the acoustics.

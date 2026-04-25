@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 31.18
 longitude: -7.9161
+snippet: Trekkers' hub with guides and trail info for Toubkal
 tags:
 - things_to_do
 - sight

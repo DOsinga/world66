@@ -1,9 +1,14 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-19'
 latitude: 50.834645
 longitude: 2.947232
-tags: [things_to_do, war_memorial, museum]
+snippet: Preserved WWI trenches and museum in Sanctuary Wood
+tags:
+- things_to_do
+- war_memorial
+- museum
 title: Hill 62 (Sanctuary Wood)
 type: poi
 ---

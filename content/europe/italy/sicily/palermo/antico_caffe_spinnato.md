@@ -1,8 +1,11 @@
 ---
 address: Via Principe di Belmonte 107, 90139 Palermo
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 38.1196
 longitude: 13.3604
 opening_hours: Daily 07:30–21:00
+snippet: Palermo institution since 1860 for granita, cannoli, and Sicilian pastries
 tags:
 - bars_and_cafes
 - cafe

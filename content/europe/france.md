@@ -1,17 +1,23 @@
 ---
-latitude: 46.603354
-longitude: 1.888334
-title: France
-type: location
-image: france.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Gorges_Verdon_Barrage_Sainte_Croix.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Benh" title="User:Benh">Benh
-  LIEU SONG</a>
 done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-19'
+image: france.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Benh" title="User:Benh">Benh
+  LIEU SONG</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Gorges_Verdon_Barrage_Sainte_Croix.jpg
+latitude: 46.603354
+longitude: 1.888334
+quick_facts:
+  Population: "68 million"
+  Drives On: Right
+  Cheese Varieties: "Over 1,200 named"
+  Most-Visited Country: "100 million tourists/year"
 score: 0.95
+title: France
+type: location
 ---
 
 France is the number one tourist destination in the world. It has everything that you could ever want to see on your holidays: a great city like [Paris](/europe/france/paris) , good beaches, more monuments than any other country, lovely nature, incredible mountain scenery, need I go on. France is also a very pleasant place to stay. It has good food, great wines and people enjoy their lives. And the best thing is, maybe apart from Paris, living in France does not have to be expensive.

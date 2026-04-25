@@ -1,6 +1,7 @@
 ---
 latitude: 35.0474
 longitude: -90.0234
+snippet: Elvis Presley's preserved home and final resting place
 tags:
 - things_to_do
 - sight

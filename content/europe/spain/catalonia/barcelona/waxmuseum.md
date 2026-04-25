@@ -1,25 +1,13 @@
 ---
-address: Ptge Banca  5
 latitude: 41.377101
 longitude: 2.177456
-opening_hours: 'Mon-Frid: 10-13:30/16- 19:30. Sat/Sun/Bank holidays: 11-14:00/16:30-20:30.'
-phone: 93 31 72 649
+snippet: Over 300 wax figures in a theatrical neoclassical setting
 tags:
 - things_to_do
 title: Wax Museum
 type: poi
 ---
 
-You can see over 300 famous figures in ‘real life’, accompanied by a light and sound system.
+The Museo de Cera on Passatge de la Banca, just off La Rambla, displays over 300 wax figures of historical and fictional characters. The setting is worth a look in its own right — the museum occupies a nineteenth-century neoclassical building that once housed a bank. The interior is theatrical, with dramatic lighting and period decor framing the figures.
 
-type: Museums
-
-
-
-
-
-tel: 93 31 72 649
-
-address: Ptge Banca 5
-
-open: Mon-Frid: 10-13:30/16- 19:30. Sat/Sun/Bank holidays: 11-14:00/16:30-20:30.
+It is a minor attraction compared to Barcelona's heavyweights, but fun if you are passing by or travelling with children.

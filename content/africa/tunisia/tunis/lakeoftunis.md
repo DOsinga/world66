@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.788
 longitude: 10.21
+snippet: Shallow lagoon with winter flamingos beside the city
 tags:
-- things_to_do
-- landmark
+- sight
+- nature
 title: Lake of Tunis
 type: poi
 ---

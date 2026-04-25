@@ -1,8 +1,12 @@
 ---
 address: 310 Cambie Street, Vancouver
+category: bars_and_cafes
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.2831
 longitude: -123.1091
 phone: 604 684 6466
+snippet: No-frills Gastown pub with cheap pitchers and backpacker crowd
 tags:
 - goingout
 title: The Cambie

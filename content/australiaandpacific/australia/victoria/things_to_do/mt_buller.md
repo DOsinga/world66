@@ -1,7 +1,10 @@
 ---
 title: 'Mt Buller'
 type: poi
-category: 'Skiing'
+snippet: Victoria's biggest ski resort, three hours from Melbourne
+tags:
+  - things_to_do
+  - day_trip
 latitude: -37.1455
 longitude: 146.4386
 ---

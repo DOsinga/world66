@@ -1,11 +1,16 @@
 ---
-title: "The Merchant General Store"
+address: 216 Main Street, Black River Falls, WI
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 44.294
+longitude: -90.852
+phone: 715-284-5700
+snippet: Antique and general store with vintage goods and local items on Main Street
+tags:
+- shopping
+title: The Merchant General Store
 type: poi
-address: "216 Main Street, Black River Falls, WI"
-phone: "715-284-5700"
-url: "http://www.themerchantgeneralstore.com"
-latitude: 44.2940
-longitude: -90.8520
+url: http://www.themerchantgeneralstore.com
 ---
 
 An antique and general store on Main Street carrying a mix of vintage goods, collectibles, and locally made items.

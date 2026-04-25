@@ -3,6 +3,7 @@ address: West Esplanade, Manly
 latitude: -33.7988
 longitude: 151.2836
 phone: (02) 8251 7877
+snippet: "Small aquarium with sharks, rays, and turtles on Manly Cove"
 tags:
 - things_to_do
 title: Sea Life Sanctuary Manly

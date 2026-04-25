@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 title: Oakland Zoo
+snippet: Mid-sized zoo with California native animals and gondola bay views
 type: poi
 ---
 

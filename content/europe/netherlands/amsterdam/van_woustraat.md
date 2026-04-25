@@ -2,6 +2,7 @@
 category: Street
 latitude: 52.3564
 longitude: 4.9001
+snippet: Quiet De Pijp street with neighbourhood restaurants
 tags:
 - de_pijp
 title: Van Woustraat

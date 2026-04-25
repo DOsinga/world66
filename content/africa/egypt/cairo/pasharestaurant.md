@@ -6,6 +6,7 @@ opening_hours: Daily 5pm–2am
 tags:
 - eating_out
 - restaurant
+snippet: Egyptian cuisine on a moored Nile boat in Zamalek
 title: Pasha Restaurant
 type: poi
 ---

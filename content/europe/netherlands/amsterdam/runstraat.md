@@ -1,7 +1,10 @@
 ---
 category: Street
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3681
 longitude: 4.8839
+snippet: Antique shops and boutiques in the Negen Straatjes canal district
 tags:
 - negen_straatjes
 title: Runstraat

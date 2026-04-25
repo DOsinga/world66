@@ -3,6 +3,7 @@ address: 118 Main Street, Montpelier, VT 05602
 latitude: 44.2609
 longitude: -72.575
 phone: 802-223-3188
+snippet: Culinary school training restaurant; ambitious food at fair prices
 tags:
 - eating_out
 - restaurant

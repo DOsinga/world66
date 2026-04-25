@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.499647
 longitude: -81.693667
+snippet: Downtown park framed by Terminal Tower and city landmarks
 tags:
 - things_to_do
 - park

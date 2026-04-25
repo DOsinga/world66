@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 22.28
 longitude: 114.1855
+snippet: Hong Kong Island's relentless shopping and dining hub
 tags:
-- things_to_do
-- neighbourhood
+- shopping
+- food
 title: Causeway Bay
 type: poi
 ---

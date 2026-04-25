@@ -1,6 +1,7 @@
 ---
 latitude: 4.8138
 longitude: -75.739
+snippet: Colombia's largest zoo with 800 animals and botanical garden
 tags:
 - zoo
 - things_to_do

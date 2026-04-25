@@ -1,18 +1,17 @@
 ---
-address: Varvarka Street, 10; Metro station 'Kitai Gorod'
-category: Museum
+address: Varvarka Street 10, Moscow
+latitude: 55.7527
+longitude: 37.6280
+snippet: "Recreated boyar house interiors from the 16th–17th centuries"
+tags:
+- things_to_do
+- museum
 title: Chambers of the 16th-17th Centuries in Zaryadye
 type: poi
 ---
 
-"**Chambers of the 16th-17th Cen&shy;turies in Zaryadye**" is a branch of [the State Historical Museum](/europe/russia/moscow/museums/thestatehistoricalmuseum).
-It is housed in the so-called Chambers of the Romanov Boyars on the [Varvarka Street](/europe/russia/moscow/sights/varvarka_st_barb).
+A branch of the State Historical Museum housed in the Chambers of the Romanov Boyars on Varvarka Street, just steps from Red Square. The building itself dates to the 15th century and is one of the oldest surviving civil structures in Moscow.
 
-Here, in small rooms with low, vaulted ceilings is recreated the de&shy;cor of a boyar house of that period. Assembled here are household arti&shy;cles, needlework, cold steel and firearms, and books from a per&shy;sonal library. Among the most in&shy;teresting exhibits are peasant rain&shy;wear of woven birchbark and a tile stove with a different scene painted on each tile.
+Inside, small rooms with low vaulted ceilings have been furnished to recreate the living quarters of a wealthy boyar family. You'll find household articles, needlework, weaponry, and books from a personal library. Among the more unusual exhibits are peasant rainwear woven from birch bark and a tiled stove where every tile carries a different painted scene.
 
-**Contributors**
-July 08, 2006
-
-
-
-address: Varvarka Street, 10; Metro station "Kitai Gorod"
+The museum is compact — a visit takes about 30 to 45 minutes. Nearest metro: Kitay-Gorod.

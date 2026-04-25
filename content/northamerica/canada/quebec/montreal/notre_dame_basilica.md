@@ -1,7 +1,10 @@
 ---
 address: 110 rue Notre-Dame Ouest, Montréal, QC H2Y 1T1
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.504436
 longitude: -73.55599
+snippet: Stunning 1829 basilica with a blazing interior of blue, gold, and woodcarving.
 tags:
 - things_to_do
 - landmark

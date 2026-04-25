@@ -1,8 +1,14 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 2.194338
 longitude: 102.249455
+snippet: Dutch colonial church from 1753 with jointless timber beams
 tags:
-- sights
+- things_to_do
+- church
+- history
+- architecture
 title: Christ Church
 type: poi
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Regent Theatre"
 type: poi
-category: Sight
+snippet: Restored 1920s cinema showing arthouse films and live music
+tags:
+- nightlife_and_entertainment
 latitude: 44.0093
 longitude: -77.1385
 ---

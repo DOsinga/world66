@@ -1,9 +1,14 @@
 ---
-title: "King Crab Safari"
-type: poi
-tags: [things_to_do, tour]
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 69.7271
 longitude: 30.0449
+snippet: catch giant Barents Sea king crabs by snowmobile or RIB, then eat them
+tags:
+- things_to_do
+- tour
+title: King Crab Safari
+type: poi
 ---
 
 The Barents Sea king crab is an invasive giant — a two-metre legspan is not unusual — and half a dozen local operators run safaris to catch and eat them. In winter you go out by snowmobile onto the sea ice, drill through, and haul up crabs caught in baited pots; in summer by RIB boat. Either way the trip ends with the crabs steamed on the spot and eaten at a trestle table.

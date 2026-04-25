@@ -1,7 +1,10 @@
 ---
 category: Street
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.3762
 longitude: 4.9448
+snippet: Waterfront promenade on KNSM Island with harbour views
 tags:
 - eastern_docklands
 title: Looskade

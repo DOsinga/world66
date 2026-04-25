@@ -5,6 +5,7 @@ longitude: -118.1676
 tags:
 - things_to_do
 - landmark
+snippet: "Historic Pasadena stadium hosting the Rose Bowl Game and giant flea market"
 title: Rose Bowl Stadium
 type: poi
 ---

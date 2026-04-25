@@ -1,6 +1,7 @@
 ---
 latitude: 30.22861
 longitude: 120.105
+snippet: Source village of China's finest green tea, west of West Lake.
 tags:
 - things_to_do
 title: Longjing Village (Dragon Well Tea)

@@ -1,10 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.028889
 longitude: 31.259722
+snippet: Ottoman alabaster mosque crowning Cairo's medieval Citadel
 tags:
 - things_to_do
-- church
-- palace
+- mosque
 title: Mohammed Ali Mosque
 type: poi
 ---

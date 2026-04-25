@@ -1,6 +1,7 @@
 ---
 title: "Senate Square"
 type: poi
+snippet: "Neoclassical civic heart dominated by the white Lutheran Cathedral"
 tags: [things_to_do]
 latitude: 60.169511
 longitude: 24.952269

@@ -1,10 +1,11 @@
 ---
 latitude: 2.197969
 longitude: 102.245141
+snippet: "Melaka's famous antique and night market street"
 tags:
 - sights
 title: Jonker Street
 type: poi
 ---
 
-A definite haven for antique collectors and bargain hunters. Authentic artifacts and relics, some dating as far back as 300 years, can be found among a host of interesting collectibles, each with its own history, and mystery. Jalan Hang Jebat, formerly known as Jonker Street is known world wide among famous antique collectors as on of the best places to hunt and bargain for antique.
+Jalan Hang Jebat, still widely known as Jonker Street, is the heart of Melaka's Chinatown and one of Southeast Asia's best-known antique hunting grounds. The shophouses lining both sides sell everything from 300-year-old Peranakan ceramics and Dutch colonial furniture to vintage tin signs and old coins. On Friday and Saturday evenings the road closes to traffic for a bustling night market with street food stalls, live music, and craft vendors. During the day it's quieter — a good time to poke around the antique shops and stop for Nyonya laksa or cendol at one of the old shopfront restaurants.

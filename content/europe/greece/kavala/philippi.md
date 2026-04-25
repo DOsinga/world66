@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.0131
 longitude: 24.2878
+snippet: Ancient city where Caesar's assassins fell and Paul founded Europe's first
+  church
 tags:
 - things_to_do
 - sight

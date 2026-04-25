@@ -1,6 +1,7 @@
 ---
 title: "Kauppatori (Market Square)"
 type: poi
+snippet: Harbourside open-air market with fish, berries, and salmon soup
 tags: [things_to_do]
 latitude: 60.167653
 longitude: 24.952925

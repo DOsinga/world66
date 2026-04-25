@@ -1,9 +1,11 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 30.020197
 longitude: 31.222585
+snippet: Rent a traditional felucca for an hour drifting past Cairo's riverbanks
 tags:
 - things_to_do
-- park
 title: Felucca Sailing on the Nile
 type: poi
 ---

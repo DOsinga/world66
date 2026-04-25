@@ -1,6 +1,7 @@
 ---
 latitude: 36.2199
 longitude: -116.7282
+snippet: "Panoramic overlook spanning the full length of Death Valley"
 tags:
 - things_to_do
 - landmark

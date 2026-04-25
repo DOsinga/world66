@@ -1,9 +1,11 @@
 ---
 latitude: 57.6514
 longitude: -3.3097
+snippet: Burned medieval ruin known as the Lantern of the North.
 tags:
 - things_to_do
 - church
+- ruins
 title: Elgin Cathedral
 type: poi
 ---

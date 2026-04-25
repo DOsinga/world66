@@ -1,12 +1,14 @@
 ---
 address: 375 Greenwich Street at Franklin Street
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.71859
 longitude: -74.00951
 phone: 212.941.3900
+snippet: Robert De Niro's TriBeCa institution in a converted warehouse
 tags:
 - bars_and_cafes
 - bar
-- neighbourhood
 title: Tribeca Grill
 type: poi
 ---

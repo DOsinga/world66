@@ -1,11 +1,14 @@
 ---
 address: Barcelona
 date: 24th September
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.38258
 longitude: 2.177073
+snippet: Barcelona's biggest street festival, late September
 tags:
 - when_to_go
-title: La Merce
+title: La Mercè
 type: poi
 ---
 

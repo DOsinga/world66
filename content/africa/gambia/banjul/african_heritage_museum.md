@@ -1,6 +1,7 @@
 ---
 latitude: 13.4543
 longitude: -16.5762
+snippet: Contemporary Gambian and West African art gallery
 tags:
 - things_to_do
 - museum

@@ -5,8 +5,10 @@ latitude: 40.861944
 longitude: 14.271389
 opening_hours: 9:00-14:00 daily
 phone: +39 081 449 759
+snippet: Napoleonic-era botanical garden, free and peaceful
 tags:
 - things_to_do
+- sight
 title: Orto Botanico
 type: poi
 ---

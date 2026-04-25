@@ -1,6 +1,7 @@
 ---
 latitude: 9.082
 longitude: 7.496
+snippet: Massive granite monolith towering over Abuja's government zone
 tags:
 - things_to_do
 - sight

@@ -5,6 +5,7 @@ longitude: 11.879518
 opening_hours: Feb-Oct 9am-7pm; Nov-Jan 9am-6pm. Closed Christmas, New Year's Day,
   1 May, 15 Aug.
 phone: +39 049 8204550
+snippet: "Giotto's 14th-century frescoes covering every inch of a small chapel"
 tags:
 - things_to_do
 - sight

@@ -1,8 +1,10 @@
 ---
 latitude: -22.972
 longitude: -43.212
+snippet: "Scenic lagoon behind Ipanema with a 7.5 km cycling path"
 tags:
 - things_to_do
+- sight
 title: Lagoa Rodrigo de Freitas
 type: poi
 ---

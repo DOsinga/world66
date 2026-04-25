@@ -1,23 +1,9 @@
 ---
 title: "Adventure Armenia: Hiking and Rock Climbing"
 type: poi
+snippet: "Practical hiking and climbing guide to Armenia's mountains"
 author: "Carine Bachmann, Jeffrey Tufenkian"
 isbn: "9993078549"
 ---
 
-This is one of the most user-friendly hiking guides I've ever
-used...it's laid out well, provides great resource information, the
-descriptions are clear and overall it makes what can be a difficult
-area to access very accessible. It's without a doubt made my time in
-the country more enjoyable and interesting.
-
-**Contributors**
-November 11, 2008
-
-[](http://www.amazon.com/exec/obidos/ASIN/9993078549/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: Carine Bachmann, Jeffrey Tufenkian
-
-isbn: 9993078549
+One of the most user-friendly hiking guides to Armenia available. The layout is clear, the route descriptions are precise, and the resource information covers everything you need to plan independently. It opens up areas that would otherwise be hard to access without a local guide. If you're planning to hike or climb in Armenia, this is the book to carry.

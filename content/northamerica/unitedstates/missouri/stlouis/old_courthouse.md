@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 38.6257
 longitude: -90.1893
+snippet: Historic courthouse where Dred Scott sued for his freedom
 tags:
 - things_to_do
 - sight

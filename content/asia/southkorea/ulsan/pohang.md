@@ -1,6 +1,7 @@
 ---
 latitude: 36.0189
 longitude: 129.3429
+snippet: "Steel city day trip with compact downtown and good beaches"
 tags:
 - day_trips
 title: Pohang

@@ -1,7 +1,13 @@
 ---
-tags: [things_to_do, thermal_bath, natural_attraction]
-latitude: 48.0680
-longitude: 20.7270
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 48.068
+longitude: 20.727
+snippet: Thermal swimming through natural limestone caves
+tags:
+- things_to_do
+- thermal_bath
+- natural_attraction
 title: Cave Bath (Barlangfürdő)
 type: poi
 ---

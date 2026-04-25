@@ -1,6 +1,7 @@
 ---
 latitude: 40.9349
 longitude: 24.4185
+snippet: Byzantine fortress with sweeping views over the bay
 tags:
 - things_to_do
 - architecture

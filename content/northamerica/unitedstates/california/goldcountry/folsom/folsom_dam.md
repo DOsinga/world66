@@ -1,6 +1,7 @@
 ---
 latitude: 38.7108
 longitude: -121.1553
+snippet: "Massive 1955 concrete dam with tours through its tunnels"
 tags:
 - things_to_do
 - sight

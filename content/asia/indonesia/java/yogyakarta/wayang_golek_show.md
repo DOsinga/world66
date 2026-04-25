@@ -1,8 +1,11 @@
 ---
 address: Jl. Rotowijayan No. 1
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -7.8053
 longitude: 110.3642
 phone: +62 274 373721
+snippet: Free Wednesday morning wooden puppet shows at the Keraton
 tags:
 - things_to_do
 title: Wayang Golek Show

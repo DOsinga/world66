@@ -1,19 +1,15 @@
 ---
-title: "HALLO CLUB GAY BAR"
+address: Ramon Chavez St, Brgy 30, Cagayan de Oro
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 8.4778
+longitude: 124.6465
+phone: 09265465880
+snippet: Gay bar on Ramon Chavez Street open nightly until 3am
+tags:
+- nightlife
+title: Hallo Club Gay Bar
 type: poi
-address: "Ramon Chavez St. Brgy 30 Cagayan de oro city"
-phone: "09265465880"
 ---
 
-**HALLO CLUB **new gay bar in cagayan de oro city. Model from cebu,iloilo,bacolod and davao visit us located at Ramon chaves street beside vacation hotel and bahay kubo
-Open Mon- to - sunday 9:00 pm until 3:00 am
-
-
-
-
-
-accessibility: None
-
-tel: 09265465880
-
-address: Ramon Chavez St. Brgy 30 Cagayan de oro city
+A gay bar on Ramon Chavez Street, beside Vacation Hotel. Open Monday to Sunday, 9pm to 3am.

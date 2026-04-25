@@ -2,6 +2,7 @@
 address: Red Beach, Palo, Leyte
 latitude: 11.1581
 longitude: 125.0086
+snippet: "Bronze figures mark MacArthur's 1944 'I shall return' landing"
 tags:
 - things_to_do
 - landmark

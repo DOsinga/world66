@@ -4,6 +4,7 @@ admission: Free
 hours: Daily 07:30–19:00
 latitude: 48.2983
 longitude: 14.2867
+snippet: Austria's largest church with exceptional stained glass
 story: 'Emperor Franz Joseph imposed a condition on its construction: the New Cathedral
   must not exceed the height of St. Stephen''s Cathedral in Vienna. The architects
   obeyed the letter but not the spirit — the building is taller than St. Stephen''s

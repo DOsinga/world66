@@ -1,9 +1,12 @@
 ---
 address: D5, 68159 Mannheim
 admission: €8, concessions €5
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.4876
 longitude: 8.465
 opening_hours: Tue–Sun 11:00–18:00; closed Mon
+snippet: Four-museum complex covering archaeology, photography, and world cultures
 tags:
 - things_to_do
 - museum

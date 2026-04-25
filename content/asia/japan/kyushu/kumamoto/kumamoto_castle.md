@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 32.6596
 longitude: 130.6994
+snippet: One of Japan's three great castles, still being restored after 2016 earthquakes
 story: 'During the Satsuma Rebellion of 1877, the castle withstood a 53-day siege
   by Saigo Takamori''s forces before they were pushed back — one of the last battles
   of the samurai era. A fire destroyed the main keep just before the siege ended,

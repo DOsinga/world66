@@ -3,6 +3,7 @@ address: Via Lepanto 53, Naples
 latitude: 40.827143
 longitude: 14.198138
 phone: +39 081 239 6087
+snippet: Antique books, old maps, and prints of southern Italy
 tags:
 - shopping
 - shop

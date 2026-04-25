@@ -1,6 +1,7 @@
 ---
 title: "Bridge Cafe"
 type: poi
+snippet: "Riverside cafe at the start of the Campuhan Ridge Walk."
 tags: [bars_and_cafes]
 address: "Jalan Campuhan, Ubud"
 phone: "+62 361 975"

@@ -5,6 +5,7 @@ latitude: 51.517894
 longitude: -0.127178
 opening_hours: Daily 10am-5pm, Fri until 8:30pm
 phone: +44 20 7323 8000
+snippet: Eight million objects spanning two million years of human history
 tags:
 - things_to_do
 - museum

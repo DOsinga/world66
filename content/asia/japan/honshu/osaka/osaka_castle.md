@@ -1,6 +1,7 @@
 ---
 latitude: 34.6873
 longitude: 135.5262
+snippet: "Reconstructed castle with museum and cherry blossom park"
 tags:
 - things_to_do
 title: Osaka Castle

@@ -1,15 +1,15 @@
 ---
 address: Via Sacra (entrance near the Colosseum)
 admission: Covered by Colosseum combined ticket (€16)
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.892464
 longitude: 12.485325
 opening_hours: Daily from 9:00am, closing time varies by season
+snippet: 'Ancient heart of Rome: temples, arches, and imperial palaces'
 tags:
 - things_to_do
-- church
-- palace
-- market
-- monument
+- sight
 title: Roman Forum and Palatine Hill
 type: poi
 ---

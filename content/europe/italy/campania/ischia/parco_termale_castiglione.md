@@ -1,6 +1,7 @@
 ---
 title: "Parco Termale Castiglione"
 type: poi
+snippet: "Ten cascading thermal pools in wooded hills above the bay"
 category: "Sight"
 address: "Via Castiglione 62, 80074 Casamicciola Terme"
 phone: "+39 081 98 25 51"

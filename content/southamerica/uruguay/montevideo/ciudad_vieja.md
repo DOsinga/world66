@@ -1,6 +1,7 @@
 ---
 latitude: -34.9072
 longitude: -56.2127
+snippet: Colonial quarter on the promontory with galleries and plazas
 tags:
 - things_to_do
 - neighbourhood

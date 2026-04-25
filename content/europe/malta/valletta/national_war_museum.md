@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.9022
 longitude: 14.5183
+snippet: Malta's WWII story and the famous George Cross
 tags:
 - things_to_do
 - museum

@@ -1,18 +1,15 @@
 ---
-title: "Koh Phangan Beaches"
+title: "Koh Phangan"
 type: poi
-address: "Koh Phangan Island Thailand"
-url: "www.beachsiam.com"
-latitude: 9.73495
-longitude: 100.030571
+tags:
+  - beaches
+  - beach
+  - island
+snippet: "Gulf island beyond the Full Moon Party, with quiet northern beaches"
+latitude: 9.7350
+longitude: 100.0306
 ---
 
-Koh Phangan has been popular for many years as a budget beach island destination in Thailand. Koh Phangan now is becoming more popular with all travelers as more and more mid price and top end resorts and accommodations open. There are still lots of cheap places to stay and budget accommodation at the beaches but the choice is much greater now. Koh Phangan can be reached by boat from Koh Samui.
+Koh Phangan sits in the Gulf of Thailand, a short ferry ride from Koh Samui. It's best known for the Full Moon Party at Haad Rin, but the rest of the island is far quieter. The northern and eastern coasts — Thong Nai Pan, Bottle Beach, Haad Khuat — have the kind of empty sand that Samui lost decades ago.
 
-
-
-
-
-url: [www.beachsiam.com](http://www.beachsiam.com/koh_phangan.html)
-
-address: Koh Phangan Island Thailand
+Getting around requires a motorbike or songthaew; the interior roads are steep and partly unpaved. The west coast has the best sunsets and a growing number of yoga retreats. Ferries run frequently from Surat Thani (via Donsak pier) and from Koh Samui's Big Buddha pier.

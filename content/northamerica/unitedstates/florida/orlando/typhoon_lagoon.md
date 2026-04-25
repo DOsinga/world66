@@ -1,6 +1,7 @@
 ---
 latitude: 28.3656
 longitude: -81.5297
+snippet: Disney water park with massive wave pool and snorkelling reef
 tags:
 - things_to_do
 - landmark

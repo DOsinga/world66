@@ -7,6 +7,11 @@ image: taiwan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alishan_Forest_Staircase2.JPG
 image_license: CC BY-SA 4.0
 image_attribution: 'User: (WT-shared) Jpatokal at  wts wikivoyage'
+quick_facts:
+  Population: "23.5 million"
+  Budget Meal: "~$3-5"
+  Peaks Over 3,000m: "Over 200"
+  Night Markets: "300+ across the island"
 done:
   country_cleanup: 2026-03-30
 score: 0.71

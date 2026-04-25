@@ -1,6 +1,7 @@
 ---
 title: "Aqua Park"
 type: poi
+snippet: Gulf's first water park beside the Kuwait Towers
 tags:
   - things_to_do
 address: "Arab Gulf Street, Kuwait City"

@@ -1,6 +1,7 @@
 ---
 latitude: 42.0607
 longitude: 48.2867
+snippet: "Ancient Sassanid citadel crowning Derbent, part of a UNESCO World Heritage Site"
 tags:
 - things_to_do
 - sight

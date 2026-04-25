@@ -1,8 +1,11 @@
 ---
 address: 82 Kintore Avenue
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -34.919704
 longitude: 138.602067
 phone: +61 (0)8 8207 7580
+snippet: Free museum tracing South Australia's immigration story
 tags:
 - things_to_do
 - museum

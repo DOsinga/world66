@@ -1,6 +1,7 @@
 ---
 latitude: 65.8347
 longitude: 13.1892
+snippet: "Largest concentration of 19th-century wooden buildings in northern Norway"
 tags:
 - things_to_do
 - neighbourhood

@@ -1,6 +1,7 @@
 ---
 title: "Cyprus - DK Eyewitness Travel Guide"
 type: poi
+snippet: "Visual travel guide with maps and archaeological site coverage"
 author: "DK Publishing"
 isbn: "9780756615857"
 ---

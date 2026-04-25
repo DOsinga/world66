@@ -4,6 +4,7 @@ latitude: 45.43828
 longitude: 10.993242
 opening_hours: 9am-7pm (9am-3:30pm during opera season)
 phone: +39 045 8003204
+snippet: Ancient Roman amphitheatre still hosting summer opera
 tags:
 - things_to_do
 - landmark

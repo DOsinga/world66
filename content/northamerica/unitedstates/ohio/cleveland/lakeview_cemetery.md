@@ -10,6 +10,7 @@ tags:
 title: Lakeview Cemetery
 type: poi
 url: www.lakeviewcemetery.com
+snippet: "Victorian garden cemetery where Rockefeller, Garfield, and Eliot Ness are buried"
 ---
 
 One of the great Victorian garden cemeteries of America, and still in active use. John D. Rockefeller is buried here, as is President James Garfield (with a monument worth climbing) and Eliot Ness. Surrounded by University Circle, Little Italy, and Coventry Village, it's a surprisingly beautiful and peaceful place for a walk.

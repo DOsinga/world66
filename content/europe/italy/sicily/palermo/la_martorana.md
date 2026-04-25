@@ -1,9 +1,12 @@
 ---
 address: Piazza Bellini 3, 90133 Palermo
 admission: €2
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 38.1147
 longitude: 13.3629
 opening_hours: Mon–Sat 09:30–13:00 & 15:30–17:30; Sun 09:00–10:30
+snippet: Norman church with stunning 12th-century Byzantine mosaics intact
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.344
 longitude: -118.325
+snippet: Art deco landmark with a grand ballroom and movie theatre
 tags:
 - things_to_do
 - architecture

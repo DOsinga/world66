@@ -1,6 +1,7 @@
 ---
 latitude: 53.6481
 longitude: -1.7833
+snippet: Surprisingly strong collection with Bacon, Lowry, and Moore
 tags:
 - things_to_do
 - museum

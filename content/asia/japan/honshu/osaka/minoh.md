@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 34.826955
 longitude: 135.470462
+snippet: "Wooded waterfall hike and autumn colours near Osaka"
 tags:
 - aroundosaka
 title: Minoh

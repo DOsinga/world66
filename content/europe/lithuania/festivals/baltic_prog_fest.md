@@ -2,18 +2,15 @@
 title: "Baltic Prog Fest"
 type: poi
 address: "Arvydo Sodyba, Kernave"
-date: "July 25th - 26th"
+date: "Late July"
 url: "www.balticprogfest.com"
+latitude: 54.8833
+longitude: 24.8333
+tags:
+- things_to_do
+- festival
+- music
+snippet: "Open-air progressive rock festival in a riverside meadow"
 ---
 
-International Progressive Rock festival
-
-
-
-
-
-url: [www.balticprogfest.com](http://www.balticprogfest.com)
-
-date: July 25th - 26th
-
-address: Arvydo Sodyba, Kernave
+A two-day open-air progressive rock festival held each July in a riverside meadow near Kernave, Lithuania's medieval capital. The setting — low hills, forest edge, and the Neris valley — is as atmospheric as you could ask for. The line-up draws bands from across the Baltic states and further afield in Europe, covering everything from classic 1970s-style prog to modern art rock and metal. The crowd is small, good-humoured, and almost exclusively there for the music. Camping is available on site.

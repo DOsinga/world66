@@ -2,6 +2,7 @@
 title: "San Diego Zoo"
 type: poi
 category: "Sight"
+snippet: "World-class zoo with 4,000 animals in Balboa Park"
 address: "2920 Zoo Dr, San Diego, CA 92101"
 url: "https://zoo.sandiegozoo.org"
 latitude: 32.7353

@@ -1,13 +1,16 @@
 ---
-latitude: 51.17242
-longitude: -115.563645
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 51.1724
+longitude: -115.5636
+snippet: Arts campus with mountain film and book festivals
 tags:
 - things_to_do
-- club
-title: Banff Centre .
+- culture
+title: Banff Centre
 type: poi
 ---
 
-The Banff Centre is dedicated to the professional development of artists and managers. The Banff Centre is home to the Banff Centre for Arts, Banff Centre for Management, Mountain Culture, Festivals and Performances, and the Banff Centre for Conferences. For festivals and performances at the Banff Centre see the Entertainment and Events listings in Discover Banff. 
- Tel: 1 403 762-6204 Fax: 1 403 762-6388 
- Address: Box 1020, Station 11 Banff Alberta T0L 0C0 Map
+The Banff Centre for Arts and Creativity sits on Tunnel Mountain and is one of Canada's most important arts institutions. Founded in 1933, it hosts residencies for artists, writers, and musicians from around the world, set against a backdrop of Rocky Mountain peaks.
+
+The centre is best known for its annual Banff Mountain Film and Book Festival, which draws outdoor enthusiasts every autumn. Year-round, it stages concerts, theatre, and exhibitions that are open to the public. The campus itself is worth a wander for the mountain views alone.

@@ -3,6 +3,7 @@ address: Pier 9, 658 Catharine Street North, Hamilton
 latitude: 43.2681
 longitude: -79.8672
 phone: 905-526-0911
+snippet: World's last surviving Tribal-class destroyer, now a National Historic Site
 tags:
 - things_to_do
 - landmark

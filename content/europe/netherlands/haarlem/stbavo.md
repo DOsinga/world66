@@ -1,7 +1,10 @@
 ---
 address: Grote Markt 22
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3815
 longitude: 4.6363
+snippet: Gothic church with Mozart's favourite organ and free Tuesday recitals
 tags:
 - things_to_do
 - landmark

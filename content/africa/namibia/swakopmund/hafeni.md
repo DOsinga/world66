@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -22.6751
 longitude: 14.5274
+snippet: Traditional Namibian dishes like oshifima and kapana
 tags:
 - eating_out
 title: Hafeni Traditional Restaurant

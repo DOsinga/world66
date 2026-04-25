@@ -2,6 +2,7 @@
 address: Parc Paul Mistral
 latitude: 45.1852
 longitude: 5.733
+snippet: "Grenoble's largest park with mountain views and Perret Tower"
 tags:
 - things_to_do
 - landmark

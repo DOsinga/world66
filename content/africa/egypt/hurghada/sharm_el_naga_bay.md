@@ -1,6 +1,7 @@
 ---
 latitude: 26.9714
 longitude: 33.9336
+snippet: Protected bay with a walkable house reef and far fewer crowds than Giftun
 tags:
 - things_to_do
 title: Sharm El Naga Bay

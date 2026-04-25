@@ -11,6 +11,7 @@ story: The wooden muqarnas ceiling — the honeycomb-like stalactite carving cov
   it in 1130, was fluent in Arabic and employed Muslim, Byzantine, and Norman artists
   simultaneously — the ceiling is the most visible proof of what that actually looked
   like.
+snippet: Norman chapel with Byzantine mosaics and Islamic painted ceiling
 tags:
 - things_to_do
 - landmark

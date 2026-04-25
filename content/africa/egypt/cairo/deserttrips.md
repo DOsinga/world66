@@ -1,9 +1,10 @@
 ---
 latitude: 30.044388
 longitude: 31.235726
+snippet: Jeep safaris and horseback rides into the Western Desert
 tags:
 - things_to_do
-- theatre
+- activity
 title: Desert Trips
 type: poi
 ---

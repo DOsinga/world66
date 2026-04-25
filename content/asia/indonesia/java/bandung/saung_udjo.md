@@ -1,6 +1,7 @@
 ---
 latitude: -6.9007
 longitude: 107.6508
+snippet: "Sundanese bamboo music school with nightly cultural performances"
 tags:
 - things_to_do
 - landmark

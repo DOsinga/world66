@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 31.4892
 longitude: -9.7755
+snippet: Surf-battered gun fort linked to Hendrix legend
 tags:
 - things_to_do
 - landmark

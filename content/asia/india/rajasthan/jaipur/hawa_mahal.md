@@ -1,8 +1,11 @@
 ---
 address: Hawa Mahal Rd, Badi Choupad, Pink City, Jaipur
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 26.9239
 longitude: 75.8267
 opening_hours: 9:00-17:00 daily
+snippet: Five-storey pink sandstone façade with 953 latticed windows, best at dawn
 tags:
 - things_to_do
 - architecture

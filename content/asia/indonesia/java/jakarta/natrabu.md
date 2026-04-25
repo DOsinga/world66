@@ -3,6 +3,7 @@ address: Jl. H. Agus Salim
 latitude: -6.1904
 longitude: 106.8252
 phone: 62-21-335668
+snippet: "Classic Padang restaurant where dishes come to you"
 tags:
 - eating_out
 - restaurant

@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - sight
+snippet: "La Digue's summit with panoramic views and rare flycatchers"
 latitude: -4.3530
 longitude: 55.8434
 story: "The name means Eagle's Nest, though the eagle in question — the Madagascar fish eagle — is a rare visitor. The Seychelles black paradise flycatcher is far more likely to be spotted in the forest below the summit."

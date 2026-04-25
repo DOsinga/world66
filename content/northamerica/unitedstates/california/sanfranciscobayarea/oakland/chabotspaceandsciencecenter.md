@@ -3,6 +3,7 @@ address: 10000 Skyline Blvd, Oakland, CA 94619
 latitude: 37.8188
 longitude: -122.1808
 phone: 510-336-7300
+snippet: Bay Area observatory with public telescope nights
 tags:
 - things_to_do
 - museum

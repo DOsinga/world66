@@ -9,6 +9,7 @@ longitude: 4.884463
 neighbourhood: Museum Quarter
 opening_hours: Daily 9:00–18:00 (closed 1 January)
 phone: +31 (0)20 6747047
+snippet: "Dutch Golden Age masterworks in a grand 1885 building"
 tags:
 - things_to_do
 - museum_quarter

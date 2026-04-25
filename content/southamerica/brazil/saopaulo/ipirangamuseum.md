@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -23.585581
 longitude: -46.609716
+snippet: Neoclassical independence museum in Versailles-style gardens, reopened 2022.
 tags:
 - things_to_do
 - museum

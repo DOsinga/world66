@@ -1,24 +1,13 @@
 ---
-address: westerstraat
-email: wainerster@gmail.com
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.378921
 longitude: 4.886274
-phone: 0207771408
+snippet: Chain of stylish coffeeshops across the city
 tags:
 - drugs
-title: sean
+title: De Rokerij
 type: poi
-url: none
 ---
 
-The rokerij (smokery translated but sounds a bit naf) has a few "outlets" theres a smaller one on the elandsgracht that has a reallt cool inetrior. Their chai tea is good too. These guys have great taste and all the shops are cool. The one on the leidsestraat has a cool huge conversation pit with cushions Moroccan style, its a real young busy crown tho i find.
-
-
-
-tel: 0207771408
-
-url: [none](http://none)
-
-address: westerstraat
-
-email: wainerster@gmail.com
+De Rokerij is a small chain of coffeeshops with several locations around Amsterdam, each with its own character. The Westerstraat branch in the Jordaan is the original. The Elandsgracht location is smaller but has a striking interior, while the one on Leidsestraat draws a younger crowd with a sunken Moroccan-style conversation pit lined with cushions. All of them share a focus on design and atmosphere — these are among the better-looking coffeeshops in the city. The chai tea is worth trying alongside whatever you're smoking.

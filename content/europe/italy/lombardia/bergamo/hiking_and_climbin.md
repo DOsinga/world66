@@ -1,24 +1,12 @@
 ---
 latitude: 45.85
 longitude: 9.7
+snippet: "Week-long Tour of the Refuges through dramatic Alpine terrain"
 tags:
 - things_to_do
-- museum
-- restaurant
+- outdoor
 title: Hiking and Climbing in the Mountains
 type: poi
-url: www.bergamonet.com
 ---
 
-Breathtaking views, trails and mountain refuges are abundant. The hiking trip called "The Tour of the Refuges" takes about a week and covers many different refuges. Reservations are necessary for sleeping and there is restaurant service also.
-
-**Contributors**
-July 10, 2005
-
-type: Hiking
-
-
-
-
-
-url: [www.bergamonet.com](http://www.bergamonet.com/modules.php?set_albumName=montagna&op=modload&name=gallery&file=index&include=view_album.php&page=1)
+The mountains above Bergamo offer some of the best accessible Alpine hiking in Lombardy. The centrepiece is the "Tour of the Refuges," a multi-day route that links a series of mountain huts (rifugi) across the Orobie Alps. The full circuit takes around a week; most walkers go hut-to-hut, carrying only a daypack. Book sleeping places at the refuges well in advance in summer — they fill up. Trails range from moderate valley walks to more demanding ridge routes with some exposed sections. The views back down toward Lake Como and the Po Plain on clear days are outstanding.

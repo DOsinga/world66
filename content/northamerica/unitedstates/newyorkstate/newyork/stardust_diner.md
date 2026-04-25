@@ -2,10 +2,10 @@
 address: 1650 Broadway at 51st Street
 latitude: 40.7621
 longitude: -73.9835
+snippet: "Broadway-hopeful waitstaff sing show tunes between orders"
 tags:
 - bars_and_cafes
-- bar
-- square
+- restaurant
 title: Ellen's Stardust Diner
 type: poi
 ---

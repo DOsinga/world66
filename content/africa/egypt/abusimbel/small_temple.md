@@ -1,6 +1,7 @@
 ---
 latitude: 22.33793
 longitude: 31.62602
+snippet: "Ramses II's temple to Nefertari, where queen and pharaoh stand as equals"
 tags:
 - things_to_do
 - sight

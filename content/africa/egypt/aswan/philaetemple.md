@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 24.0253
 longitude: 32.8842
+snippet: Isis temple relocated to an island to escape the High Dam
 tags:
 - things_to_do
 - sight

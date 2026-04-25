@@ -1,7 +1,9 @@
 ---
 title: "Gorky Library"
 type: poi
-category: "Sight"
+snippet: Grand colonnaded library holding over a million volumes
+tags:
+- things_to_do
 latitude: 48.5680
 longitude: 39.3012
 ---

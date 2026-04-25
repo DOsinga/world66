@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 11.135
 longitude: -63.859
+snippet: Margarita Island's best surf beach with laid-back vibe
 tags:
 - beaches
 - beach

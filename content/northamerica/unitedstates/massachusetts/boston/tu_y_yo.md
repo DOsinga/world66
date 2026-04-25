@@ -1,9 +1,12 @@
 ---
 address: 858 Broadway, Somerville, MA
+done:
+  poi_cleanup: '2026-04-19'
 email: tuyyo@comcast.net
 latitude: 42.4009
 longitude: -71.1158
 phone: 617-623-5411
+snippet: Top-rated Mexican fonda with mole and chiles en nogada
 tags:
 - eating_out
 - restaurant

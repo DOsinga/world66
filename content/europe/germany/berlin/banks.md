@@ -1,6 +1,9 @@
 ---
-latitude: 53.545054
-longitude: 10.011435
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 52.52
+longitude: 13.405
+snippet: Practical banking hours and currency exchange info
 tags:
 - practical_information
 title: Banks

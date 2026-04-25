@@ -6,6 +6,7 @@ tags:
   - architecture
   - library
   - landmark
+snippet: "Ornate iron library built for the 1889 Paris World's Fair, shipped to Martinique"
 latitude: 14.6027
 longitude: -61.0625
 story: >

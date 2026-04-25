@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 31.4825
 longitude: -9.7632
+snippet: Ruined palace with sweeping views back to Essaouira
 tags:
 - things_to_do
 - landmark

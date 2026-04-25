@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 47.1672
 longitude: 0.2381
+snippet: Medieval wine caves celebrated by Rabelais, still used for Chinon tastings
 tags:
 - things_to_do
 - winery

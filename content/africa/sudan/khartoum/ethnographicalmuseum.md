@@ -1,6 +1,7 @@
 ---
 latitude: 15.588
 longitude: 32.5374
+snippet: "Small museum illuminating Sudan's diverse cultural traditions"
 tags:
 - things_to_do
 - museum

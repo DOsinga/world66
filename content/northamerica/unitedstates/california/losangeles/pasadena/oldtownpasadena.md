@@ -1,6 +1,7 @@
 ---
 latitude: 34.1459
 longitude: -118.149
+snippet: Walkable historic district with shops and restaurants
 tags:
 - things_to_do
 - neighbourhood

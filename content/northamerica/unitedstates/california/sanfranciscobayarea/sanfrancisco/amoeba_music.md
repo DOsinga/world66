@@ -1,11 +1,15 @@
 ---
 address: 1855 Haight St
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.7689
 longitude: -122.4526
 phone: (415) 831-1200
+snippet: Massive independent record store in a converted bowling alley
 tags:
 - shopping
 - shop
+- things_to_do
 title: Amoeba Music
 type: poi
 url: www.amoebamusic.com

@@ -1,6 +1,7 @@
 ---
 latitude: 31.5132
 longitude: -9.7705
+snippet: Fragrant wood workshops carved into the sea wall
 tags:
 - shopping
 title: Thuya Wood Workshops

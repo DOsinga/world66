@@ -8,14 +8,8 @@ tags:
 - kreuzberg
 title: Ararat
 type: poi
+snippet: Eclectic paper shop with postcards and unusual gifts
 ---
 
-Paper shop with a huge selection of postcards and unusual presents. Picture frames and art reproductions also at the branch at Mo-Fr 10am -8pm, Sa 10am -4pm
 
-type: general
-
-
-
-address: Bergmannstr. 9
-
-connection: U Gneisenaustr
+A paper and stationery shop on Bergmannstrasse in Kreuzberg with a huge selection of postcards, unusual gifts, picture frames, and art reproductions. A good stop for picking up something distinctive to send home or to remember the neighbourhood by.

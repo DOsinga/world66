@@ -5,6 +5,7 @@ category: "Sight"
 address: "189 The Grove Drive, Los Angeles"
 opening_hours: "Mon-Thu 10am-9pm; Fri-Sat 10am-10pm; Sun 11am-8pm"
 phone: "(323) 900-8080"
+snippet: Polished open-air mall beside LA's beloved 1934 Farmers Market
 url: "www.thegrovela.com"
 latitude: 34.073082
 longitude: -118.358415

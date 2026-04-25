@@ -1,6 +1,7 @@
 ---
 latitude: 35.7878
 longitude: -5.8109
+snippet: Moroccan arts and antiquities in a former sultan's palace
 tags:
 - things_to_do
 - museum

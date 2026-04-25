@@ -1,6 +1,7 @@
 ---
 latitude: 45.7439
 longitude: -108.5833
+snippet: 70-acre zoo focused on northern-latitude animals
 tags:
 - things_to_do
 - landmark

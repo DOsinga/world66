@@ -1,16 +1,16 @@
 ---
-title: "Kuan Yin Temple in Waterloo Street"
+title: "Kuan Yin Temple"
 type: poi
-type: "Monasteries"
+latitude: 1.2990
+longitude: 103.8519
+snippet: Singapore's most popular Chinese temple since 1884
+tags:
+- things_to_do
+- sight
 ---
 
-The most popular temple in Singapore. This temple is situated in Waterloo Street and was built on 28 May 1884.The temple attracts large numbers of worshippers, many of them from Malaysia, Thailand, China etc The Kuan Yin Birthdays fall on 19 Feb, 19 June and 19 Sept in the Lunar months. The temple is especially very crowded on these days.
+The Kuan Yin Temple on Waterloo Street is Singapore's most popular Chinese temple, dedicated to the Goddess of Mercy. Built in 1884, it draws steady streams of worshippers throughout the year, with many coming from Malaysia, Thailand, and China.
 
-If you are in Singapore on the Chinese New Year Eve, 8th Feb, the temple will open in the night till the next day, hundreds of worshippers would squeeze their way to worship the goddness of Mercy for a properous year ahead, so be there and you will be blessed!!!
+The temple is busiest during the three Kuan Yin birthday celebrations (19th day of the 2nd, 6th, and 9th lunar months) and especially on Chinese New Year's Eve, when it stays open through the night and hundreds queue to pray for prosperity. Even on ordinary days the courtyard is fragrant with incense and the atmosphere is genuinely devotional rather than performative.
 
-If not, take a walk around the street, you will be amused by the activities. Tell you more then..
-
-**Contributors**
-February 01, 2005
-
-type: Monasteries
+Waterloo Street itself is worth a stroll. The Sri Krishnan Temple sits just next door, and the street is pedestrianized with fortune tellers and flower sellers lining the pavement.

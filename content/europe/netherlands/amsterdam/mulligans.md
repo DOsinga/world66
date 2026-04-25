@@ -4,6 +4,7 @@ latitude: 52.366965
 longitude: 4.896764
 neighbourhood: Rembrandtplein
 phone: +31 (0)20 6221330
+snippet: Irish pub with near-nightly live music on Amstel
 tags:
 - bars_and_cafes
 - rembrandtplein

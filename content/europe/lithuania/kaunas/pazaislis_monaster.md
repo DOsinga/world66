@@ -1,6 +1,7 @@
 ---
 latitude: 54.876
 longitude: 24.0227
+snippet: Finest Italian Baroque monastery complex in Eastern Europe
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,7 @@
 ---
 latitude: -22.9547
 longitude: -43.0861
+snippet: Wide sandy beach backed by a kitesurfing lagoon
 tags:
 - beaches
 - sight

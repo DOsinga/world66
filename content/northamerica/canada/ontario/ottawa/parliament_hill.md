@@ -1,6 +1,10 @@
 ---
+category: Landmark
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 45.4236
 longitude: -75.7009
+snippet: Gothic Revival seat of Canadian government above the Ottawa River
 tags:
 - things_to_do
 - landmark

@@ -1,7 +1,10 @@
 ---
 address: Vyse Street, Birmingham B18
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.4884
 longitude: -1.9147
+snippet: Working jewellery district with preserved factory museum
 tags:
 - things_to_do
 - sight

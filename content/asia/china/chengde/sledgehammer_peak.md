@@ -1,6 +1,7 @@
 ---
 latitude: 40.9704
 longitude: 118.0057
+snippet: Striking 59-metre rock column with cable car and panoramic views
 tags:
 - things_to_do
 title: Sledgehammer Peak

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 49.977878
 longitude: 14.392294
+snippet: Baroque chateau with Czech sculpture and quiet gardens
 tags:
 - things_to_do
 - museum

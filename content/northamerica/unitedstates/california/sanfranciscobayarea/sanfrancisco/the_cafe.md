@@ -1,12 +1,14 @@
 ---
 address: 2367 Market St
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 37.7633
 longitude: -122.4346
 phone: (415) 861-3846
+snippet: Popular mixed gay bar at the head of the Castro
 tags:
 - bars_and_cafes
 - bar
-- market
 - cafe
 title: The Cafe
 type: poi

@@ -1,6 +1,7 @@
 ---
 latitude: 30.7333
 longitude: 104.1467
+snippet: World's best place to see giant pandas up close
 tags:
 - things_to_do
 - landmark

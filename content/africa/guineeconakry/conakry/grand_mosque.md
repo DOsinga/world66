@@ -1,6 +1,7 @@
 ---
 latitude: 9.5355
 longitude: -13.6775
+snippet: "One of West Africa's largest mosques with twin minarets"
 tags:
 - things_to_do
 - sight

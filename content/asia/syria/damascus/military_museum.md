@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 33.513
 longitude: 36.2912
+snippet: Five thousand years of regional military history, from Qadesh to modern era
 tags:
 - things_to_do
 - museum

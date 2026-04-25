@@ -1,6 +1,7 @@
 ---
 title: "Manhyia Palace Museum"
 type: poi
+snippet: "Ashanti royal palace turned museum, with ceremonial regalia and guided tours"
 tags:
   - things_to_do
   - museum

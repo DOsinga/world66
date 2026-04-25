@@ -1,6 +1,7 @@
 ---
 latitude: 42.057
 longitude: 48.288
+snippet: 18th-century tomb from Derbent's brief era as an independent khanate
 tags:
 - things_to_do
 - sight

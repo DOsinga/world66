@@ -1,6 +1,7 @@
 ---
 latitude: 7.2043
 longitude: 100.5987
+snippet: "Hilltop panorama over Songkhla's lake, gulf, and old town"
 tags:
 - things_to_do
 title: Khao Noi

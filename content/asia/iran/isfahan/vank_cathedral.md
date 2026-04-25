@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 32.648
 longitude: 51.6713
+snippet: Isfahan's Armenian cathedral with frescoed interior and manuscript museum
 tags:
 - things_to_do
 - landmark

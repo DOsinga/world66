@@ -1,6 +1,7 @@
 ---
 latitude: 56.1613
 longitude: 15.5996
+snippet: Sweden's naval museum with a walkable Cold War submarine
 tags:
 - things_to_do
 - museum

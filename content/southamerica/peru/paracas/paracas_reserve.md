@@ -1,6 +1,7 @@
 ---
 title: "Paracas National Reserve"
 type: poi
+snippet: "Desert peninsula where red cliffs meet the Pacific"
 tags: [things_to_do, sight, nature_reserve, wildlife]
 latitude: -14.123244
 longitude: -76.26315

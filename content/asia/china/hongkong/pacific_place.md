@@ -2,6 +2,7 @@
 address: 88 Queensway, Admiralty
 latitude: 22.278
 longitude: 114.1653
+snippet: Upscale mall connected to Admiralty MTR with Lane Crawford
 tags:
 - hongkongisland
 - shopping

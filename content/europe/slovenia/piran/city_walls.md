@@ -1,7 +1,10 @@
 ---
 title: "City Walls"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - landmark
+snippet: "Intact medieval walls with the best elevated view over Piran's peninsula"
 latitude: 45.5299
 longitude: 13.5677
 ---

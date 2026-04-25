@@ -3,6 +3,7 @@ address: Avenida 2, Calle 3-5, San José
 latitude: 9.9325
 longitude: -84.0795
 opening_hours: Mon–Sat 9:00–17:00
+snippet: "Gilded 1897 opera house funded by Costa Rica's coffee barons"
 story: The theater was financed by a coffee export tax — Costa Rican coffee growers
   agreed to pay a levy on every bag exported to Europe to fund the construction, ensuring
   the country had a stage worthy of the touring companies they wanted to attract.

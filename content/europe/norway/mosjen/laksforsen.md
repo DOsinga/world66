@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 65.6178
 longitude: 13.4012
+snippet: Powerful 17-metre waterfall where salmon leap in summer
 tags:
 - things_to_do
 - sight

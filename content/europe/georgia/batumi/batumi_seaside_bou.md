@@ -1,6 +1,7 @@
 ---
 latitude: 41.651
 longitude: 41.636
+snippet: "Seven-kilometre Black Sea promenade lined with century-old pines"
 tags:
 - things_to_do
 - landmark

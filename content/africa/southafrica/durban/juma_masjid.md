@@ -1,6 +1,7 @@
 ---
 latitude: -29.858
 longitude: 31.02
+snippet: "Largest mosque in the southern hemisphere with free guided tours"
 tags:
 - things_to_do
 - architecture

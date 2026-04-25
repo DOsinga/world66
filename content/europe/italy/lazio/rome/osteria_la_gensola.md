@@ -1,17 +1,15 @@
 ---
 address: Piazza della Gensola 15, 00153 Rome
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8883
 longitude: 12.4694
 opening_hours: Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun
 phone: 06 581 6312
+snippet: Sicilian-inflected fish restaurant on a quiet Trastevere square
 tags:
-- Eating in Trastevere
 - eating_out
-- trastevere
 - restaurant
-- square
-- bar
-- club
 title: Osteria La Gensola
 type: poi
 ---

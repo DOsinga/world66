@@ -1,7 +1,10 @@
 ---
 address: Jojos Building, Changlam, Thimphu
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 27.472
 longitude: 89.6398
+snippet: Thimphu's main expat bar, lively on weekend nights
 tags:
 - bars_and_cafes
 title: OM Bar

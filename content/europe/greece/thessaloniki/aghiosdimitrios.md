@@ -2,6 +2,7 @@
 address: Agiou Dimitriou Street, Thessaloniki
 latitude: 40.6386
 longitude: 22.9468
+snippet: "Greece's largest church, with 7th-century mosaics and Roman crypt"
 tags:
 - things_to_do
 - landmark

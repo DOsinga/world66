@@ -1,9 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.7525
 longitude: 100.492
+snippet: Meditation retreats and daily sessions at Buddhist temples
 tags:
 - things_to_do
-- church
+- wellness
 title: Meditation
 type: poi
 ---

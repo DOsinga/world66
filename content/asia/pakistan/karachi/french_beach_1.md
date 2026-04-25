@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.843023
 longitude: 66.813222
+snippet: Secluded rocky bay west of Karachi, good for snorkelling, BYO everything
 tags:
 - beaches
 - beach

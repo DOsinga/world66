@@ -2,15 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  poi_cleanup: '2026-04-19'
+image: badajoz.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Archivo_Hist%C3%B3rico_Provincial_de_Badajoz,_Badajoz,_Espa%C3%B1a,_2020-07-22,_DD_03.jpg
 latitude: 38.878187
 longitude: -6.970111
 score: 0.47
 title: Badajoz
 type: location
-image: badajoz.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Archivo_Hist%C3%B3rico_Provincial_de_Badajoz,_Badajoz,_Espa%C3%B1a,_2020-07-22,_DD_03.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Diego Delso
 ---
 
 Badajoz is one of those Spanish cities where you might be the only tourist in town. Sitting on the banks of the Guadiana River just six kilometres from the Portuguese border, the capital of Extremadura's largest province has an Andalusian warmth mixed with Portuguese influence, a Moorish fortress overlooking the old quarter, and tapas bars where a beer still comes with a free plate of food.

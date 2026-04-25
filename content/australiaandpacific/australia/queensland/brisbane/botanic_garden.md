@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: -27.4726
 longitude: 153.0292
+snippet: Heritage riverside gardens on a Brisbane River peninsula
 tags:
 - things_to_do
 - landmark

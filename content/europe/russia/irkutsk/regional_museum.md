@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.2862
 longitude: 104.2833
+snippet: One of Siberia's oldest museums with Baikal and Decembrist collections
 tags:
 - things_to_do
 - museum

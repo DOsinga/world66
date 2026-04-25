@@ -1,6 +1,7 @@
 ---
 latitude: 13.5085
 longitude: 75.096
+snippet: Heritage home offering pay-what-you-wish vegetarian meals
 tags:
 - eating_out
 title: Dodda Mane

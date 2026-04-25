@@ -2,6 +2,7 @@
 address: Xinyi District, Taipei
 latitude: 25.033345
 longitude: 121.566896
+snippet: "Former world's tallest, with a visible tuned mass damper"
 story: Taipei 101 was the tallest building in the world from 2004 until it was overtaken
   by the Burj Khalifa in 2010. It sits just 200 metres from an active fault line,
   and houses an enormous 660-tonne steel tuned mass damper — the largest in any building

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.086799
 longitude: 14.40898
+snippet: Gothic 14th-century bridge over the Vltava lined with 30 Baroque statues
 tags:
 - things_to_do
 - landmark

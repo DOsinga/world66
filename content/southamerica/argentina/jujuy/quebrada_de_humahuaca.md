@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -23.1978
 longitude: -65.3498
+snippet: UNESCO-listed canyon of technicolor rock and adobe villages
 story: 'The Cerro de los Siete Colores above Purmamarca gets its name from the seven
   distinct mineral colours visible in the rock — red from iron oxide, yellow from
   limonite, green from copper, white from limestone. The best light falls in the late

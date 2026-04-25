@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 42.0579
 longitude: 48.286
+snippet: Massive Sassanid walls stretching from the Caucasus to the Caspian Sea.
 tags:
 - things_to_do
 - architecture

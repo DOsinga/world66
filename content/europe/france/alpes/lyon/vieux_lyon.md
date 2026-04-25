@@ -1,6 +1,7 @@
 ---
 latitude: 45.7618
 longitude: 4.8272
+snippet: "UNESCO-listed Renaissance quarter with hidden traboule passageways"
 tags:
 - things_to_do
 - neighbourhood

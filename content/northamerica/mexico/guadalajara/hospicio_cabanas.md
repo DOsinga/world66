@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 20.6748
 longitude: -103.3389
+snippet: UNESCO World Heritage orphanage with Orozco's stunning murals
 story: Jose Clemente Orozco painted the Hospicio's murals between 1937 and 1939. His
   'Man of Fire' on the chapel dome is designed so the figure appears to rise into
   the sky from any angle you view it.

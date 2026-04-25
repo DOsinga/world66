@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 25.2879
 longitude: 51.5335
+snippet: Restored old souq with spices, falconers, and shisha cafes
 tags:
 - things_to_do
 - neighbourhood

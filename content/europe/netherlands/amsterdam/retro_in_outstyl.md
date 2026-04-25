@@ -1,24 +1,12 @@
 ---
-address: Twede Constantijn, Huygensstraat 57
-category: Speciality shops
-phone: (020) - 6834180
+address: Tweede Constantijn Huygensstraat 57
+latitude: 52.3581
+longitude: 4.8697
+snippet: "Vintage 1960s and 70s fashion at friendly prices"
 tags:
 - shopping
 title: Retro In-& Outstyles
 type: poi
 ---
 
-There’s no way you can leave Amsterdam without picking up some authentic flower power gear. Retro features wild fashions from the 1960s and 1970s at reasonable prices. Retro is open from 12:00 p.m.-6:00 p.m. Monday-Friday and weekends from 12:00 p.m.-5:00 p.m.
-
-**Contributors**
-May 12, 2008
-
-type: Speciality shops
-
-
-
-
-
-tel: (020) - 6834180
-
-address: Twede Constantijn, Huygensstraat 57
+A treasure trove of authentic flower power gear in the Oud-West neighbourhood. Retro stocks wild fashions from the 1960s and 1970s — think bold prints, leather jackets, and platform boots — all at reasonable prices. The shop is small but well-curated, and the owners know their stock inside out. Open Monday to Friday noon to 6 p.m., weekends noon to 5 p.m.

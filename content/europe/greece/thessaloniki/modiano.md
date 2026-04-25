@@ -1,10 +1,13 @@
 ---
 address: Ermou Street, Thessaloniki
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 40.6357
 longitude: 22.9419
+snippet: Restored 1920s covered market with food stalls and ouzeries
 tags:
 - things_to_do
-- neighbourhood
+- market
 title: Modiano Market
 type: poi
 ---

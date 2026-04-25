@@ -1,6 +1,7 @@
 ---
 latitude: 54.3598
 longitude: 18.6478
+snippet: "World-class museum of the Solidarity movement's birth"
 story: 'Gate No. 2 of the shipyard, where the striking workers posted their 21 demands
   in August 1980, still stands outside the museum. Lech Walesa signed the Gdansk Agreement
   at a table inside the shipyard — the table is on display, complete with the souvenir

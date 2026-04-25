@@ -1,6 +1,7 @@
 ---
 latitude: 57.149717
 longitude: -2.093989
+snippet: "Aberdeen's medieval civic heart with a 1686 Mercat Cross"
 tags:
 - things_to_do
 - landmark

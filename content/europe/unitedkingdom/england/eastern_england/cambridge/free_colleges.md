@@ -1,15 +1,14 @@
 ---
-address: central Cambridge
 latitude: 52.2054
 longitude: 0.1175
+snippet: Several historic colleges open their courtyards at no charge
 tags:
 - things_to_do
 - sight
-title: '''Free'' Colleges'
+title: Free Colleges
 type: poi
 ---
 
-There may well be more than this - or one or more of these may start
-charging - but as at 22August 2004 there was no charge for entry to
-Pembroke College [lovely gardens and Wren's first building - the
-chapel], Trinity Hall and Peterhouse.
+Several Cambridge colleges open their courtyards and grounds to visitors free of charge. Pembroke College is a highlight, with its lovely gardens and chapel — Christopher Wren's first completed building. Trinity Hall and Peterhouse, the university's oldest college, are also free to enter.
+
+Opening times and policies change, so check at the porter's lodge before walking in. Some colleges close to visitors during exam periods (late May to mid-June). Even when a college charges for entry, you can often peek into the main court from the gate.

@@ -6,6 +6,7 @@ story: During the Blitz in December 1940, the dome of St Paul's was photographed
   above the smoke of burning buildings all around it — a symbol of resistance that
   Churchill reportedly insisted be preserved at all costs. The surrounding area was
   devastated; St Paul's survived almost unscathed.
+snippet: Wren's iconic dome with Whispering Gallery and panoramic views
 tags:
 - things_to_do
 - architecture

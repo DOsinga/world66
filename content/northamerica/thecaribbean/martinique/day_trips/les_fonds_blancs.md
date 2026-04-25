@@ -1,12 +1,16 @@
 ---
-title: "Les fonds blancs, baignoire de Joséphine"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 14.6167
+longitude: -60.8833
+snippet: Shallow sandbars where you wade in warm turquoise water
+tags:
+- things_to_do
+- nature
+title: Les Fonds Blancs
 type: poi
-email: "vedette.evasion@wanadoo.fr"
-phone: "0596549626"
 ---
 
-Unforgettable day tour with offshore bath, rum degustation, creole lunch and dance with local zouk music.
+Off the east coast of Martinique, between Le François and Le Vauclin, patches of white sand rise just below the surface of the Caribbean, creating waist-deep pools of clear turquoise water in the middle of the sea. The most famous of these sandbars is called the Baignoire de Joséphine — legend says Empress Joséphine herself used to bathe here, though the story is almost certainly invented.
 
-On the East coast, between Le Francois and Le Vauclin, departure every morning if good weather from Baie du Simon. Reserve before: Vedette Evasion, Mr Jean Lheureux, tel: 0596549626 or 0596549687 or vedette.evasion@wanadoo.fr.
-
-Minor corrections on 17 January 05
+Boat operators run morning trips from the Baie du Simon when the weather cooperates. A typical outing includes a long soak on the sandbar, a ti'punch or three, and a Creole lunch on board with zouk playing from the speakers. It is as close to doing nothing in paradise as Martinique gets.

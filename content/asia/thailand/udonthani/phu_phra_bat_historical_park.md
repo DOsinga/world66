@@ -1,6 +1,7 @@
 ---
 latitude: 17.6814
 longitude: 102.4897
+snippet: "Prehistoric sandstone formations turned into Buddhist shrines"
 tags:
 - things_to_do
 title: Phu Phra Bat Historical Park

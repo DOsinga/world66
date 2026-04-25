@@ -1,6 +1,7 @@
 ---
 latitude: -13.0103
 longitude: -38.5329
+snippet: Historic lighthouse fort with legendary sunsets
 tags:
 - things_to_do
 - sight

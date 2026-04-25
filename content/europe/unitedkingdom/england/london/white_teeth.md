@@ -1,6 +1,9 @@
 ---
 author: Zadie Smith
+done:
+  poi_cleanup: '2026-04-19'
 isbn: 978-0375703867
+snippet: Zadie Smith's multigenerational novel set in multicultural north London
 tags:
 - books
 title: White Teeth

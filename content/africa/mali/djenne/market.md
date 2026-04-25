@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.9054
 longitude: -4.5553
+snippet: Vibrant weekly market in front of the Great Mosque
 tags:
 - things_to_do
 - market

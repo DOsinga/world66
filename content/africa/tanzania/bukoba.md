@@ -2,9 +2,10 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-19'
 image: 01020039.jpg
-image_source: HP Harmsen
 image_license: CC BY-SA 4.0
+image_source: HP Harmsen
 latitude: -1.3312
 longitude: 31.8126
 score: 0.4

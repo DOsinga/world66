@@ -5,6 +5,7 @@ longitude: -123.1342
 tags:
 - things_to_do
 - neighbourhood
+snippet: Public market and artisan hub under the Granville Bridge
 title: Granville Island
 type: poi
 ---

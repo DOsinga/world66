@@ -1,6 +1,7 @@
 ---
 latitude: 37.7403
 longitude: -25.6692
+snippet: "Late-15th-century parish church with Manueline carved doorway"
 tags:
 - things_to_do
 - landmark

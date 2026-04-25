@@ -1,12 +1,13 @@
 ---
 address: 875 S. Grand Central Parkway
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.164775
 longitude: -115.157648
 phone: 702-474-7500
+snippet: Huge outdoor outlet mall with designer brands at deep discounts
 tags:
 - shopping
-- shop
-- park
 title: Las Vegas Premium Outlets
 type: poi
 url: www.premiumoutlets.com

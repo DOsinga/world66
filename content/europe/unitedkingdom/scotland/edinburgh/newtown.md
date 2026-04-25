@@ -1,11 +1,10 @@
 ---
 latitude: 55.955833
 longitude: -3.199167
+snippet: "UNESCO-listed Georgian grid of terraces, crescents and squares"
 tags:
 - things_to_do
-- palace
-- park
-- square
+- neighbourhood
 title: New Town
 type: poi
 ---

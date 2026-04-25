@@ -3,6 +3,7 @@ address: 9280 Airport Road, Mount Hope, ON
 latitude: 43.1598
 longitude: -79.9249
 phone: (905) 679-4183
+snippet: Home to one of two airworthy Lancaster bombers in the world
 tags:
 - things_to_do
 - museum

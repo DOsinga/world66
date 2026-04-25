@@ -1,31 +1,18 @@
 ---
 title: "Hwaseong Fortress"
 type: poi
-address: "Suwon"
+snippet: "UNESCO-listed 18th-century fortress encircling Suwon's old city"
+tags:
+  - things_to_do
+  - sight
+address: "Suwon, Gyeonggi-do"
 phone: "(031) 228-2766"
-type: "Palaces"
-url: "eng.suwon.ne.kr"
 latitude: 37.263332
 longitude: 127.028747
 ---
 
-"Hwaseong is a military building of the early modern times, fully equipped with the most advanced and scientific features in the oriental and occidental world. " (Execution Board of World Heritage Committee) 
+Hwaseong is an 18th-century fortress wall that loops nearly six kilometres around the old centre of Suwon. Built between 1794 and 1796 by King Jeongjo to honour his father — who died after being locked in a rice chest by political rivals — it combines Korean, Chinese, and European fortification techniques in a way that was remarkably advanced for its time. The walls incorporate watchtowers, floodgates, command posts, and a beacon tower, all connected by a walkable parapet.
 
-"Hwaseong has a unique historic significance as it was built combined with features of castle types both in Europe and in far-eastern Asia, It is representative of 18th century military building."(International Monument Relics Association) 
+Walking the full circuit takes about two hours and offers views over Suwon's dense modern city contrasting with the restored gates and pavilions below. The Janganmun and Paldalmun gates are the most impressive sections. A small archery range near the northern stretch lets you try your hand with a traditional Korean bow for a few thousand won.
 
-"Hwaseong has only 200 years history, but each building of the castle has a distinctive artistic value. (Prof. Nimal De Silva)
-
-**Contributors**
-January 19, 2005
-
-type: Palaces
-
-
-
-
-
-address: Suwon
-
-url: eng.suwon.ne.kr
-
-tel: (031) 228-2766
+Hwaseong became a UNESCO World Heritage Site in 1997. Much of it was damaged during the Korean War and rebuilt using the detailed construction records kept in the *Hwaseong Seongyeok Uigwe*, an illustrated manual compiled during the original build — one of the reasons the reconstruction is considered unusually faithful.

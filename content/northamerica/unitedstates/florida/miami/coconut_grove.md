@@ -1,29 +1,11 @@
 ---
-accessibility: Totally Wheelchair Accessible
-address: 3015 Grand Avenue
-latitude: 25.728644
-longitude: -80.242038
-phone: 305-444-0777
+latitude: 25.7167
+longitude: -80.25
 tags:
 - things_to_do
 - neighbourhood
 title: Coconut Grove
-type: Streets
+type: poi
 ---
 
-Coconut Grove is South Miami’s oldest settlement, but it is also one of Miami’s hottest places for shopping and hanging out. While the area is considered upscale, the shops and boutiques at the shopping village called “CocoWalk” and the “Streets of Mayfair” (228,000 square feet of shopping and dining) attract a young crowd of college kids and teenagers as well as tourists. Coconut Grove is also home to several outdoor lounges, restaurants, and bars located at Commodore Plaza. CocoWalk: 38 shops, 3015 Grand Avenue, Ph: 305-444-0777. Streets of Mayfair: 38 shops, 2911 Grand Avenue, Ph: 305-448-1700.
-
-**Contributors**
-May 31, 2008
-
-type: Streets
-
-
-
-
-
-accessibility: Totally Wheelchair Accessible
-
-tel: 305-444-0777
-
-address: 3015 Grand Avenue
+Miami's oldest continuously inhabited neighbourhood has a leafy, village-like feel that stands apart from the rest of the city. The main drag along Grand Avenue and CocoWalk has restaurants, cafes, and shops, but the real charm is in the side streets — canopied by banyans, lined with bougainvillea, and quiet enough that you forget you are in a major city. The waterfront is the highlight: Peacock Park and the [Barnacle Historic State Park](/northamerica/unitedstates/florida/miami/things_to_do/barnacle_historic) both offer bay views, and the Coconut Grove Sailing Club gives the area a laid-back nautical character.

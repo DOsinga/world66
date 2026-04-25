@@ -2,15 +2,21 @@
 done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-07'
+  poi_cleanup: '2026-04-19'
 image: malaysia.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Vmenkov" title="User:Vmenkov">User:Vmenkov</a>
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Melaka-Dutch-Square-2164.jpg
 latitude: 4.2105
 longitude: 101.9758
+quick_facts:
+  Population: "34 million"
+  Drives On: Left
+  Oldest Rainforest: "130 million years"
+  Street Food Meal: "under $2"
+score: 0.5
 title: Malaysia
 type: location
-score: 0.5
 ---
 
 Malaysia is one of Southeast Asia's most rewarding destinations -- a country where Malay, Chinese, Indian and indigenous cultures have blended into something distinct and endlessly interesting. The food alone is worth the trip, and the natural landscapes range from ancient rainforest to coral-fringed islands to cool highland tea plantations.

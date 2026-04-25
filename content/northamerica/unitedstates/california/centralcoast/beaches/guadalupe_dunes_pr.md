@@ -1,6 +1,14 @@
 ---
-title: "Guadalupe Dunes Preserve"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 34.9212
+longitude: -120.6494
+snippet: wild windswept dunes and remote beach with whale sightings
+tags:
+- things_to_do
+- sight
+title: Guadalupe Dunes Preserve
 type: poi
 ---
 
-Guadalupe Dunes Preserve, accessed from Highway 166 west of Guadalupe in Santa Barbara County, offers fantastic opportunities for solitude, but very dangerous swimming conditions. Visitors enjoy long walks on this windswept beach where crashing waves are particularly picturesque shortly before winter storms. Whale sightings off the beach are not uncommon. A kiosk at the end of Highway 166 seeks donations, but there is no required fee to access this stretch of beach. The road is closed once the beach lot is full. Wait for someone to come out or take a logn walk along the paved road to the beach. This beach is not accessible after dark.
+A remote stretch of coastline in Santa Barbara County, accessed via Highway 166 west of Guadalupe. The dunes here are among the tallest on the Pacific Coast, and the beach beyond them is wide, wild, and usually nearly empty. Swimming is dangerous — the surf is powerful and rip currents are common — but it's a superb place for long walks in the wind, with views up and down an unspoiled shoreline. Whale sightings from the beach are not uncommon, particularly in winter. There's no entrance fee, though a donation kiosk sits at the end of Highway 166. The road closes once the beach parking lot fills; the beach is not accessible after dark.

@@ -11,6 +11,11 @@ latitude: 49.8175
 longitude: 15.473
 title: Czech Republic
 type: location
+quick_facts:
+  Population: "10.9 million"
+  Budget Beer: "~$2 for a half-litre in a pub"
+  Beer Consumption: "Highest per capita in the world"
+  Castles: "Over 2,000 — more per square km than anywhere"
 score: 0.51
 ---
 

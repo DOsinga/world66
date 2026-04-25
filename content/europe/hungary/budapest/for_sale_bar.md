@@ -3,6 +3,7 @@ address: Vamhaz korut 2
 latitude: 47.4876
 longitude: 19.0582
 phone: +36 1 267 0276
+snippet: "Rustic bar papered with decades of visitor graffiti"
 tags:
 - bars_and_cafes
 - bar

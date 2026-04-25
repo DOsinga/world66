@@ -1,11 +1,13 @@
 ---
 address: 3200 Las Vegas Boulevard South
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.127228
 longitude: -115.1718
 phone: 702-784-7000
+snippet: Strip mega-mall with six department stores and 250 shops
 tags:
 - shopping
-- shop
 - restaurant
 title: Fashion Show Mall
 type: poi

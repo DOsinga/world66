@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.616482
 longitude: 6.139425
+snippet: Fortress museum in Luxembourg's iconic Three Acorns tower
 tags:
 - things_to_do
 - historical_site

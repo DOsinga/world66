@@ -1,14 +1,17 @@
 ---
-latitude: 45.489189
-longitude: -73.585849
+address: 506 - 24 Ave SW, Calgary
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 51.037
+longitude: -114.0695
+snippet: French-influenced bistro on Calgary's 4th Street
 tags:
 - eating_out
 - restaurant
-title: Bizou .
+title: Bizou
 type: poi
 ---
 
-Located on 4th Street, this restaurant features cuisine with French influences. Try the lamb burger or flambée: a thin baked crust with an assortment of toppings. Mon to Thur 11 am - 11 pm, Fri and Sat to mid. Brunch Sat and Sun 10 am - 3 pm. 
- 
- Tel: 1 403 209-0363 
- Address: 506 - 24 Ave SW
+A French-influenced bistro on 4th Street in Calgary's Mission district. The lamb burger is a standout, and the flambée — a thin baked crust loaded with toppings, essentially a tarte flambée — is worth trying. The atmosphere leans casual, and the weekend brunch draws a steady crowd from the neighbourhood.
+
+Open Monday to Thursday 11 am to 11 pm, Friday and Saturday until midnight. Brunch Saturday and Sunday 10 am to 3 pm. Tel: 1 403 209-0363.

@@ -1,8 +1,12 @@
 ---
 address: Bornheimer Strasse 96, 53119 Bonn
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.7375
 longitude: 7.0863
 phone: +49-228-655531
+snippet: Home and studio of Expressionist painter August Macke, preserved as museum
 tags:
 - things_to_do
 - museum

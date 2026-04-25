@@ -1,8 +1,11 @@
 ---
-title: "Beaches South of Neretva Delta"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 43.073
+longitude: 17.601
+snippet: Pebble and rock beaches along the coast south of the Neretva Delta
+title: Beaches South of Neretva Delta
 type: poi
-email: "jan@komarna.com"
-url: "www.komarna.com"
 ---
 
 Komarna : There is a pebble beach just south of the

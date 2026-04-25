@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 6.4972
 longitude: 2.624
+snippet: Brazilian-built church turned mosque, a trace of the slave trade
 story: The building was erected by the Aguda community — Beninese descendants of freed
   Brazilian slaves who returned to Porto-Novo in the 19th century, bringing with them
   Portuguese-Baroque building styles, a taste for elaborate dress, and festival traditions

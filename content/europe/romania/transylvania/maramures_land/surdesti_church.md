@@ -1,7 +1,10 @@
 ---
 title: "Șurdești Church"
 type: poi
-tags: [things_to_do, church]
+snippet: Once the tallest wooden structure in the world, at 72 metres
+tags:
+- things_to_do
+- church
 latitude: 47.6000
 longitude: 23.7667
 ---

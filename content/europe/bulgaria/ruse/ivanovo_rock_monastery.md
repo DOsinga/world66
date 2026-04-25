@@ -1,9 +1,11 @@
 ---
 title: "Ivanovo Rock Monastery"
 type: poi
-category: "Sight"
 latitude: 43.7003
 longitude: 25.9633
+snippet: "UNESCO rock-cut monastery with extraordinary medieval frescoes"
+tags:
+- things_to_do
 story: >
   The frescoes at Ivanovo were painted in the 13th and 14th centuries by artists of the Turnovo School — the most sophisticated school of Byzantine painting in medieval Bulgaria. When the Ottoman conquest came in 1396, the monks hid and the monastery was forgotten. It wasn't rediscovered by scholars until the 19th century, which is partly why the paintings survived in such good condition.
 ---

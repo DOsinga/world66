@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -26.4481
 longitude: 31.2057
+snippet: Eswatini's main sports venue and independence day site
 story: 'The stadium is named after King Somhlolo (also known as Sobhuza I), who ruled
   in the early 19th century. According to Swazi tradition, Somhlolo had a vision foreseeing
   the arrival of people with pale skin and a book — interpreted as European missionaries
@@ -10,8 +13,7 @@ story: 'The stadium is named after King Somhlolo (also known as Sobhuza I), who 
 
   '
 tags:
-- things_to_do
-- sight
+- history
 title: Somhlolo National Stadium
 type: poi
 ---

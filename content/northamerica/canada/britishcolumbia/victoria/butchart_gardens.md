@@ -1,6 +1,7 @@
 ---
 latitude: 48.5631
 longitude: -123.4668
+snippet: Century-old floral showpiece in a reclaimed quarry
 tags:
 - things_to_do
 - landmark

@@ -2,6 +2,7 @@
 address: Domplein 21, 3512 JE
 latitude: 52.090617
 longitude: 5.121432
+snippet: Tallest church tower in the Netherlands, 465 steps to the top
 tags:
 - things_to_do
 - sight

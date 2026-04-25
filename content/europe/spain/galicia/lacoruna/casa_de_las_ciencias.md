@@ -1,6 +1,7 @@
 ---
 latitude: 43.3651
 longitude: -8.4117
+snippet: "Hands-on science museum with planetarium in a mock-castle setting"
 tags:
 - things_to_do
 - museum

@@ -1,7 +1,10 @@
 ---
 title: "Dover Castle"
 type: poi
-category: "Sight"
+snippet: Mighty medieval fortress with WWII tunnels and Roman lighthouse
+tags:
+- things_to_do
+- sight
 latitude: 51.1281
 longitude: 1.3225
 ---

@@ -1,6 +1,7 @@
 ---
 latitude: 34.0636
 longitude: -4.976
+snippet: "Medieval walled medina with 9,000 car-free lanes since 789"
 tags:
 - things_to_do
 - neighbourhood

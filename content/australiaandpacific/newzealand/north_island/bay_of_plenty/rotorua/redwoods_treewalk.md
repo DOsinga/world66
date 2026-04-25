@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: -38.1577
 longitude: 176.2777
+snippet: Suspension bridges between century-old redwoods, magical at night
 tags:
 - things_to_do
 - sight

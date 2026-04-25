@@ -26,6 +26,17 @@
 
 {% block sidebar %}
 <aside id="sidebar">
+  {% if page.meta.quick_facts %}
+  <div class="sidebar-quick-facts">
+    {% for label, value in page.meta.quick_facts.items %}
+    <div class="quick-fact-card">
+      <div class="quick-fact-label">{{ label }}</div>
+      <div class="quick-fact-value">{{ value }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
   {% if markers_full_json != "[]" or lat and lng %}
   <div class="sidebar-map-card" id="sidebar-map-card">
     <div class="sidebar-map-head">

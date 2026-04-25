@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Oasis_in_Lybia.JPG
 image_license: Public domain
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Sfivat&amp;action=edit&amp;redlink=1"
   class="new" title="User:Sfivat (page does not exist)">Sfivat</a>
+quick_facts:
+  Population: "7 million"
+  Access: "Visa extremely difficult to obtain"
+  Desert Coverage: "90% Sahara"
+  Coastline: "1,770 km on the Mediterranean"
 done:
   country_cleanup: 2026-03-31
 score: 0.14

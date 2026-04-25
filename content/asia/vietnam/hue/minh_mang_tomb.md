@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 16.3884
 longitude: 107.5643
+snippet: Most architecturally grand of Hue's royal tombs
 tags:
 - things_to_do
 - sight

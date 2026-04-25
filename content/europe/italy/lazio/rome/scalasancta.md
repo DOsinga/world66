@@ -1,9 +1,12 @@
 ---
 address: Piazza di San Giovanni in Laterano 14, 00184 Rome
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.9015
 longitude: 12.4589
 opening_hours: Daily 06:00–13:30, 15:00–18:30
+snippet: Holy stairs climbed on knees, said to be from Pilate's palace
 tags:
 - things_to_do
 - church

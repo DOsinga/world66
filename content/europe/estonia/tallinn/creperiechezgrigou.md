@@ -3,6 +3,7 @@ address: Müürivahe 23
 latitude: 59.4367
 longitude: 24.7486
 phone: '6314337'
+snippet: French-run creperie tucked against Tallinn's Old Town wall
 tags:
 - eating_out
 title: Creperie Chez Grigou

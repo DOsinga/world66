@@ -1,14 +1,17 @@
 ---
-title: "Harriet Tubman Home"
-type: poi
-tags:
-  - things_to_do
-  - museum
-  - historic_site
-address: "180 South Street, Auburn, NY"
-phone: "315-252-2081"
+address: 180 South Street, Auburn, NY
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 42.9226
 longitude: -76.5503
+phone: 315-252-2081
+snippet: Where Harriet Tubman lived and cared for the elderly
+tags:
+- things_to_do
+- museum
+- historic_site
+title: Harriet Tubman Home
+type: poi
 ---
 
 The Harriet Tubman Home preserves the legacy of "The Moses of Her People" on 26 acres of land in Auburn. The site, now part of the Harriet Tubman National Historical Park, includes the home where Tubman lived and the Home for the Aged that she established for elderly African Americans.

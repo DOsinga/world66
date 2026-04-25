@@ -1,6 +1,7 @@
 ---
 latitude: 24.853174
 longitude: 66.881069
+snippet: Sandy beach and green sea turtle nesting site
 tags:
 - beaches
 - beach

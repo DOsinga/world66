@@ -1,6 +1,7 @@
 ---
 latitude: 51.769674
 longitude: -4.462146
+snippet: "Medieval castle ruin where Dylan Thomas wrote early work"
 tags:
 - things_to_do
 - sight

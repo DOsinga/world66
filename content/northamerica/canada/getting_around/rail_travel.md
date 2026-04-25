@@ -1,35 +1,19 @@
 ---
-title: "Rail Travel"
+latitude: 49.8951
+longitude: -97.1384
+snippet: Cross-country trains and key tourist routes
+tags:
+- getting_around
+title: Rail Travel
 type: poi
-latitude: 49.510673
-longitude: -115.774115
 ---
 
-More than 100 years ago construction of the Canadian Pacific Railway
-opened access to the majestic Canadian Rocky Mountains and the West.
-However, the speed of travel and the frequency of passenger service
-seem not to have improved much since then. But, to be fair, the dimension of
-Canada, as the second largest country in the world, paired with its low
-population numbers doesn’t sustain the necessary infrastructure
-investments.
+More than a century ago, construction of the Canadian Pacific Railway opened access to the Rocky Mountains and the West. Train travel in Canada remains more about the journey than efficiency — the country is vast and sparsely populated, and passenger rail reflects that reality.
 
-Therefore most services are limited to the densely populated areas in
-the Toronto - Quebec corridor, while Canada's transcontinental rail
-connection "**The Canadian**" travels only three times a week between *Toronto* and *Vancouver*
-(or vice versa), a journey of almost 4,466 km / 2,765 miles, taking
-three days and nights. Despite the slow travel time, this service,
-particular the famous "silver & blue" service class that offers
-bunkbed-style 'berths' and single, double & triple bedroom sleeping
-accommodation, is often sold out months ahead for the busy summer
-tourist season.
+Most frequent services run in the Toronto-Quebec corridor, where population density supports regular schedules. Beyond that, services are infrequent but scenic.
 
-Other **VIA-Rail** services popular with tourists are the **Hudson Bay Express** to the Polar Bears of *Churchill, Manitoba*, and VIA-Rails "**Skeena**" from *Jasper* to *Prince Rupert*.
+**The Canadian** is VIA Rail's flagship: a three-day, three-night journey covering 4,466 km between Toronto and Vancouver, running three times a week. The sleeping car classes — from open berths to private bedrooms — book out months ahead in summer.
 
-Unfortunately VIA-Rail, in charge of passenger train service in Canada,
-discontinued the service through the most scenic part of the Rocky
-Mountains, the *Kicking Horse Canyon*, about 15 years ago. But a
-private enterprise quickly saw the potential and started offering a
-two-day, daylight only tourist train service between *Vancouver* and *Banff/Calgary*. Now the "**Rocky Mountaineer**" also brings tourists to *Jasper* via the *Yellowhead Route* and will start in 2006 a new service, connecting *Whistler* and *Jasper* via the *Fraser Discovery Route* through the *Cariboo* region of *British Columbia*.
+Other popular VIA Rail routes include the **Hudson Bay** service to Churchill, Manitoba (famous for polar bears), and the **Skeena** from Jasper to Prince Rupert through northern British Columbia.
 
-**Contributors**
-December 13, 2005
+The privately run **Rocky Mountaineer** offers daylight-only tourist trains through the most dramatic mountain scenery, with routes connecting Vancouver to Banff, Calgary, Jasper, and Whistler. It's pricier than VIA Rail but the scenery-to-comfort ratio is hard to beat.

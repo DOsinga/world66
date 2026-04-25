@@ -4,6 +4,7 @@ admission: ₹60 adults, ₹40 children (additional charges for some exhibits)
 latitude: 22.518636
 longitude: 88.393204
 opening_hours: 09:00-21:00 daily
+snippet: Sprawling interactive science museum with dinosaur park
 tags:
 - things_to_do
 title: Science City

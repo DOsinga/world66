@@ -1,14 +1,16 @@
 ---
+latitude: 24.87
+longitude: 66.735
+snippet: Secluded beach west of Karachi with clear water and seafood
 tags:
 - beaches
 - beach
-- club
-title: French Beach - SURF PAKISTAN!
+title: French Beach
 type: poi
 ---
 
-Stretching from French Beach all the way to Gwardar are some of Asia most beautiful stretches of beach. Where the desert meets the Arabian Sea, are a multitude of water sports including scuba diving, snorkeling, boating, wind surfing, kayaking, deep sea game fishing and this regions best SURF. During monsoon season, after April till October, some of the best untouched, undiscovered surfing waters in the world await to be ridden by boards from Australia, Hawaii, the US and Indonesia.
+A secluded stretch of sand about 40 km west of Karachi along the Makran Coastal Highway. French Beach is one of the few clean, swimmable beaches near the city, with clear water and rocky coves. The beach is privately managed, so you'll pay a small entry fee, but that keeps it less crowded than Hawke's Bay or Sandspit.
 
-Self contained huts are available for surfing enthusiast with boards available from the local village hippy surfer but it is recommended to BYO.
+Locals run small operations serving freshly caught fish, lobster, and prawns cooked on the spot. Snorkeling is decent close to the rocks. During the monsoon months (roughly June to September), waves pick up enough for surfing, though you'll want to bring your own board. Basic huts are available for overnight stays.
 
-Everything from freshly caught lobster, oysters and fish are available upon request. You order, they catch and cook it for you - for basically next to nothing.
+The drive out from Karachi takes about an hour and passes several other beaches along the coast. It's a popular weekend escape for Karachiites.

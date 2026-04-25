@@ -1,12 +1,16 @@
 ---
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.8776
 longitude: 12.4772
+snippet: Working-class neighbourhood built on ancient potsherd hill, Rome's best eating
 tags:
 - 3 Days in Rome
 - things_to_do
 - market
 - neighbourhood
+- story
 title: Testaccio
 type: poi
 ---

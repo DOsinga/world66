@@ -1,12 +1,14 @@
 ---
 address: 25001 Cedar Rd.
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.501363
 longitude: -81.500184
 phone: 216.382.3871
+snippet: upscale open-air shopping center in Lyndhurst
 tags:
 - shopping
 - shop
-- beach
 title: Legacy Village
 type: poi
 url: www.legacy-village.com

@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - museum
 - church
+snippet: "Papal art collection culminating in the Sistine Chapel"
 title: Vatican Museums & Sistine Chapel
 type: poi
 url: www.museivaticani.va

@@ -3,6 +3,7 @@ title: "Beomeosa Temple"
 type: poi
 tags:
   - things_to_do
+snippet: "1,500-year-old mountain temple that feels far from the city"
 latitude: 35.281988
 longitude: 129.07111
 ---

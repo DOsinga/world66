@@ -1,7 +1,10 @@
 ---
 address: Erzsebet korut 9-11
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 47.4986
 longitude: 19.0707
+snippet: Budapest's most opulent fin-de-siecle coffeehouse, built 1894
 tags:
 - bars_and_cafes
 - bar

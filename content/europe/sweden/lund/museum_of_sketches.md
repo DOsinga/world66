@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 55.706
 longitude: 13.1955
+snippet: Preparatory sketches and models for public art worldwide
 tags:
 - things_to_do
 - museum

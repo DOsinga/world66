@@ -1,6 +1,7 @@
 ---
 latitude: -20.9139
 longitude: 167.0541
+snippet: "Headland chapel with sweeping views over Santal Bay"
 tags:
 - things_to_do
 - landmark

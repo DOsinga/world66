@@ -1,6 +1,7 @@
 ---
 latitude: 46.5259
 longitude: 6.6238
+snippet: Outsider art museum in the Château de Beaulieu
 story: The collection was assembled by the French artist Jean Dubuffet, who coined
   the term 'Art Brut' in 1945 for works created outside the mainstream art world —
   by psychiatric patients, prisoners, and self-taught visionaries. He donated his

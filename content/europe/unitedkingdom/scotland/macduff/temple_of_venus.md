@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 57.6698
 longitude: -2.5013
+snippet: Hilltop folly with sunset views over Banff Bay
 tags:
 - things_to_do
 - sight

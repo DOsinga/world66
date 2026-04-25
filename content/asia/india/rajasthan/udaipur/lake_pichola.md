@@ -1,6 +1,10 @@
 ---
+category: Sight
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 24.572
 longitude: 73.6785
+snippet: 'Udaipur''s heart: island palaces, City Palace reflections, boat rides'
 tags:
 - things_to_do
 - landmark

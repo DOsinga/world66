@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 13.52
 longitude: 75.07
+snippet: Jungle waterfall best visited post-monsoon for dawn rainbows in the mist.
 tags:
 - things_to_do
 title: Onke Abbi Falls

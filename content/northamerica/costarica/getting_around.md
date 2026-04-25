@@ -1,5 +1,7 @@
 ---
-title: "Getting Around"
+done:
+  poi_cleanup: '2026-04-19'
+title: Getting Around
 type: section
 ---
 

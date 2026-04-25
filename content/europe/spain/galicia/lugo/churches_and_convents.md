@@ -1,9 +1,13 @@
 ---
-title: "Churches and Convents"
-type: poi
 category: Sight
 latitude: 43.0108
 longitude: -7.5563
+snippet: Gothic, Baroque and Romanesque churches across Lugo
+tags:
+- things_to_do
+- church
+title: Churches and Convents
+type: poi
 ---
 
 Lugo's old town contains several churches worth a detour. The parish church of San Pedro

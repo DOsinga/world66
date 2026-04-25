@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 38.2147
 longitude: -122.6631
+snippet: Surviving adobe of General Vallejo's vast 66,000-acre California rancho
 tags:
 - things_to_do
 - sight

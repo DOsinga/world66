@@ -1,6 +1,7 @@
 ---
 title: "Queen's Park Savannah"
 type: poi
+snippet: "Vast city oval ringed by grand colonial mansions and evening food stalls"
 tags:
   - things_to_do
   - park

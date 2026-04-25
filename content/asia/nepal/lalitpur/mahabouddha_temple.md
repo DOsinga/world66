@@ -1,6 +1,10 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 27.6718
 longitude: 85.3263
+snippet: Shikhara tower with 9,000 Buddha-image terracotta tiles, rebuilt after 1934
+  quake
 tags:
 - things_to_do
 title: Mahabouddha Temple

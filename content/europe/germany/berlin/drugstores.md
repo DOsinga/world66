@@ -1,4 +1,7 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
+snippet: Look for the red 'A' sign — Apotheke sells medicine, Drogerie does not
 tags:
 - practical_information
 title: Drugstores

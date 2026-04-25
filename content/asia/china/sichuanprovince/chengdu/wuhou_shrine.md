@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.6471
 longitude: 104.0471
+snippet: Three Kingdoms shrine with atmospheric courtyards beside Jinli Street
 tags:
 - things_to_do
 - landmark

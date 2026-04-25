@@ -1,10 +1,13 @@
 ---
 address: 3500 Pinellas Bayway S, Tierra Verde, FL 33715
 admission: $5 per vehicle
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 27.6208
 longitude: -82.7326
 opening_hours: Daily 8:00am–sunset
 phone: +1 727-582-2267
+snippet: Top-rated island beaches and kayaking at Tampa Bay's mouth
 tags:
 - things_to_do
 - landmark

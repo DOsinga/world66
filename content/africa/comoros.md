@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Volcan_Karthala_vue_de_la_
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Lolodevenelles&amp;action=edit&amp;redlink=1"
   class="new" title="User:Lolodevenelles (page does not exist)">Lolodevenelles</a>
+quick_facts:
+  Population: "900,000"
+  Religion: "98% Sunni Muslim"
+  Coups Since 1975: "20+"
+  Known As: The Perfume Islands
 score: 0.42
 ---
 

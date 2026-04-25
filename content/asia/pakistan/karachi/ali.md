@@ -1,10 +1,10 @@
 ---
 latitude: 24.801721
 longitude: 67.025712
+snippet: "Karachi's main urban beach with food stalls and camel rides"
 tags:
 - beaches
 - beach
-- market
 - neighbourhood
 title: Clifton Beach
 type: poi

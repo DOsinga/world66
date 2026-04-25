@@ -1,9 +1,12 @@
 ---
 address: Edeseweg 124, 6721 KE Bennekom
+done:
+  poi_cleanup: '2026-04-20'
 email: kasteelhoekelum@tref.nl
 latitude: 52.015529
 longitude: 5.676759
 phone: +31 (0)318 632 124
+snippet: 14th-century estate with English-style parkland open for walks
 tags:
 - things_to_do
 - landmark

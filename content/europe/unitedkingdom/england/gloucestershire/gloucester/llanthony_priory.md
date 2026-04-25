@@ -1,6 +1,7 @@
 ---
 title: "Llanthony Secunda Priory"
 type: poi
+snippet: "Ruined 12th-century Augustinian priory near the docks, now a nature reserve"
 tags: [things_to_do, sight, ruins]
 latitude: 51.8548
 longitude: -2.2574

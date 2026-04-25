@@ -1,8 +1,10 @@
 ---
 latitude: 37.9087
 longitude: 40.2333
+snippet: "Minaret balanced on four basalt pillars over a passageway"
 tags:
 - things_to_do
+- sight
 title: Dört Ayaklı Minare (Four-Legged Minaret)
 type: poi
 ---

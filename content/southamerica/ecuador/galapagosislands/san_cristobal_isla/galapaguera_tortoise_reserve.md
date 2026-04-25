@@ -1,6 +1,7 @@
 ---
 latitude: -0.8427
 longitude: -89.3683
+snippet: Walk among free-roaming giant tortoises in scrubland
 tags:
 - things_to_do
 - sight

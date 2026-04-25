@@ -1,6 +1,7 @@
 ---
 latitude: 45.3444
 longitude: 14.31
+snippet: Old fishing village just north of Opatija, now prized for its seafood restaurants.
 tags:
 - things_to_do
 - neighbourhood

@@ -1,10 +1,11 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 41.8925
 longitude: 12.4853
+snippet: Sprawling ruins at the civic heart of ancient Rome
 tags:
 - things_to_do
-- church
-- market
 title: Roman Forum
 type: poi
 ---

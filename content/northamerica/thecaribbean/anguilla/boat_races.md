@@ -1,6 +1,7 @@
 ---
 latitude: 18.2206
 longitude: -63.0686
+snippet: Traditional wooden sailing boat regattas on public holidays
 tags:
 - things_to_do
 - landmark

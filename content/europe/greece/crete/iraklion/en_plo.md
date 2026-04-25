@@ -1,7 +1,10 @@
 ---
 address: Koumbes, Old Harbour, Iraklion
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 35.343
 longitude: 25.137
+snippet: Harbourfront cafe-bar beside the Koules fortress, coffee to evening drinks
 tags:
 - bars_and_cafes
 title: En Plo

@@ -1,11 +1,14 @@
 ---
 address: One Blue Jays Way, Toronto, ON M5V 1J1
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 43.6422
 longitude: -79.3909
 phone: (416) 341-1707
+snippet: Blue Jays stadium with retractable roof and behind-the-scenes tours
 tags:
 - things_to_do
-- tower
+- stadium
 title: Rogers Centre
 type: poi
 url: https://www.rogerscentre.com

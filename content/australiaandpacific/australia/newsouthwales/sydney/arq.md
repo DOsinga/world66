@@ -2,6 +2,7 @@
 address: 16 Flinders St, Darlinghurst
 latitude: -33.881
 longitude: 151.217
+snippet: Popular multi-level gay nightclub in Darlinghurst
 tags:
 - bars_and_cafes
 - bar

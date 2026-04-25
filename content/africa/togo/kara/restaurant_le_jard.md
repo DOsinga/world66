@@ -1,6 +1,7 @@
 ---
 latitude: 9.549
 longitude: 1.1863
+snippet: Garden restaurant with French, African, and Asian dishes
 tags:
 - eating_out
 title: Restaurant Le Jardin

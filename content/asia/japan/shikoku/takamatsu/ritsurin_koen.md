@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.3203
 longitude: 134.0481
+snippet: Masterful Edo-era landscape garden with borrowed mountain scenery
 tags:
 - things_to_do
 title: Ritsurin-koen

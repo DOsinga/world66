@@ -2,6 +2,7 @@
 address: Piazza Giacomo Carrara, 82, Bergamo
 latitude: 45.703805
 longitude: 9.675949
+snippet: Bergamo's fine art museum, strong on Renaissance northern Italian masters.
 tags:
 - things_to_do
 - museum

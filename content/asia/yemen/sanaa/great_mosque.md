@@ -1,9 +1,12 @@
 ---
-title: "Great Mosque of Sana'a"
+title: Great Mosque of Sana'a
 type: poi
-category: Sight
+snippet: "One of the world's oldest mosques, founded in Muhammad's lifetime"
 latitude: 15.3543
 longitude: 44.2071
+tags:
+- things_to_do
+- landmark
 ---
 
 One of the oldest mosques in the world, said to have been founded in the lifetime of the Prophet Muhammad. Non-Muslims are not permitted inside, but the exterior — and the sight of the minarets rising above the old city roofscape — is part of any walk through the old quarter. The Friday market held nearby draws traders from across the region.

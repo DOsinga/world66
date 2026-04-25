@@ -1,7 +1,10 @@
 ---
 title: "Lysaya Gora Memorial"
 type: poi
-category: "Sight"
+snippet: "Quieter Stalingrad battlefield hilltop with somber obelisk"
+tags:
+- things_to_do
+- sight
 latitude: 48.4722
 longitude: 44.4428
 ---

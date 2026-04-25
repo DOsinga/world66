@@ -1,6 +1,7 @@
 ---
 latitude: 43.6034
 longitude: 1.4408
+snippet: Stunning palm-tree Gothic vaults and the tomb of Aquinas
 tags:
 - things_to_do
 - church

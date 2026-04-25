@@ -1,6 +1,9 @@
 ---
 author: Hanif Kureishi
+done:
+  poi_cleanup: '2026-04-20'
 isbn: 978-0143115748
+snippet: Sharp 1970s coming-of-age novel set in south London
 tags:
 - books
 title: The Buddha of Suburbia

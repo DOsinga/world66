@@ -1,6 +1,7 @@
 ---
 latitude: 33.7575
 longitude: 72.8272
+snippet: Greek-planned ancient city with multicultural temple ruins
 tags:
 - things_to_do
 title: Sirkap

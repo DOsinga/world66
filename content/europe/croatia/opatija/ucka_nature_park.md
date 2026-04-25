@@ -1,6 +1,7 @@
 ---
 latitude: 45.2954
 longitude: 14.2005
+snippet: Beech-forested mountain massif rising steeply behind Opatija
 tags:
 - things_to_do
 - landmark

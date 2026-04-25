@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 29.721
 longitude: -8.975
+snippet: Friendly gift shop doubling as a local info hub
 tags:
 - shopping
 title: Meeting Place of Nomads

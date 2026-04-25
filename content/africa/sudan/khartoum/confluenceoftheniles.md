@@ -1,6 +1,7 @@
 ---
 latitude: 15.6127
 longitude: 32.5028
+snippet: Where the Blue Nile and White Nile merge into one
 tags:
 - things_to_do
 - sight

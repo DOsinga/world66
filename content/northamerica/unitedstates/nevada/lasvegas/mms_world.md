@@ -1,12 +1,14 @@
 ---
 address: 3785 Las Vegas Boulevard
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 36.103164
 longitude: -115.172377
 phone: 702-736-7611
+snippet: Four-story candy store and entertainment venue on the Strip
 tags:
 - things_to_do
-- monument
-- square
+- shop
 title: M&M's World Las Vegas
 type: poi
 url: www.mymms.com

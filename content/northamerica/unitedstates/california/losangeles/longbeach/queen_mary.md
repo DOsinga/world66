@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.7525
 longitude: -118.1901
+snippet: Retired Cunard ocean liner with tours, restaurants, and hotel
 tags:
 - things_to_do
 - sight

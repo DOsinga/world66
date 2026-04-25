@@ -1,9 +1,12 @@
 ---
 address: Waterlooplein 1
 category: Architecture
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 52.369102
 longitude: 4.900853
 neighbourhood: Waterlooplein
+snippet: Combined city hall and opera house on the Amstel
 tags:
 - things_to_do
 - waterlooplein

@@ -1,6 +1,7 @@
 ---
 latitude: 35.6933
 longitude: 139.6993
+snippet: Van Gogh's Sunflowers on the 42nd floor with city views
 tags:
 - things_to_do
 - museum

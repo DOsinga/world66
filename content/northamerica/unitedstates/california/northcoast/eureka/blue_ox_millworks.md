@@ -1,6 +1,7 @@
 ---
 latitude: 40.7962
 longitude: -124.1731
+snippet: "Working Victorian mill producing hand-crafted gingerbread trim"
 tags:
 - things_to_do
 - landmark

@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-19'
 latitude: 30.6776
 longitude: 104.0742
+snippet: Tang-dynasty Buddhist temple with a great vegetarian restaurant
 tags:
 - things_to_do
 - landmark

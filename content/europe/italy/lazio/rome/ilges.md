@@ -4,6 +4,7 @@ admission: Free
 latitude: 41.8952
 longitude: 12.4769
 opening_hours: Daily 07:00–12:30, 16:00–19:45
+snippet: "Jesuit mother church with jaw-dropping ceiling fresco"
 tags:
 - things_to_do
 - church

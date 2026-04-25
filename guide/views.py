@@ -144,6 +144,18 @@ def location_or_section(request, path):
         nb_img = _image_path(nb, branch)
         nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
 
+    # Extract individual drifts from the drifts section_group (if present) for city-page display
+    drift_items = []
+    if page.page_type == "location":
+        for sg in nav_pages:
+            if sg.page_type == "section_group" and sg.slug == "drifts":
+                drift_nav, _, _ = sg.children()
+                drift_items = [p for p in drift_nav if p.page_type == "drift"]
+                for d in drift_items:
+                    d_img = _image_path(d, branch)
+                    d.image_url = f'/content-image/{d_img}{branch_qs}' if d_img else None
+                break
+
     # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
     locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
     for loc in locations:
@@ -204,6 +216,7 @@ def location_or_section(request, path):
         "top_locations": top_locations,
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
+        "drift_items": drift_items,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,

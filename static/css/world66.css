@@ -2385,7 +2385,118 @@ img { max-width: 100%; height: auto; }
   flex-wrap: wrap;
 }
 
-/* ---- Drifts ---- */
+/* ---- Drifts — city-page card grid ---- */
+
+.drift-city-section {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.drift-city-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.drift-city-card {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: 4px;
+  background: var(--paper-3);
+  text-decoration: none;
+  display: block;
+}
+
+/* No-image fallback: tint by time of day */
+.drift-city-card--no-image[data-time="morning"]   { background: #fff8e1; }
+.drift-city-card--no-image[data-time="afternoon"] { background: #e3eeff; }
+.drift-city-card--no-image[data-time="evening"]   { background: #fff1e6; }
+.drift-city-card--no-image[data-time="night"]     { background: #1e1e35; }
+
+.drift-city-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.drift-city-card:hover img {
+  transform: scale(1.04);
+}
+
+.drift-city-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.08) 0%, transparent 35%, rgba(0,0,0,0.65) 100%);
+}
+
+.drift-city-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  padding: 0.22em 0.7em;
+  border-radius: 2em;
+  font-family: var(--label-font);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+.drift-city-txt {
+  position: absolute;
+  bottom: 14px;
+  left: 14px;
+  right: 14px;
+  color: #fff;
+}
+
+.drift-city-name {
+  font-family: var(--display-font);
+  font-weight: 400;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  margin-bottom: 4px;
+}
+
+.drift-city-snippet {
+  font-size: 11px;
+  line-height: 1.4;
+  opacity: 0.82;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.drift-city-duration {
+  font-family: var(--label-font);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0.65;
+  margin-top: 5px;
+}
+
+@media (max-width: 768px) {
+  .drift-city-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .drift-city-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---- Drifts — individual page header ---- */
 
 .drift-header {
   display: flex;

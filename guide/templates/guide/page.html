@@ -398,6 +398,29 @@
 </script>
 {% endif %}
 
+{% if drift_items %}
+<div class="wide-block drift-city-section">
+  <span class="section-kicker">Drifts</span>
+  <h2 class="section-block-heading">How to spend your time</h2>
+  <div class="drift-city-grid">
+    {% for drift in drift_items %}
+    <a href="{{ drift.get_absolute_url }}" class="drift-city-card{% if not drift.image_url %} drift-city-card--no-image{% endif %}" {% if drift.meta.time_of_day %}data-time="{{ drift.meta.time_of_day }}"{% endif %}>
+      {% if drift.image_url %}
+      <img src="{{ drift.image_url }}" alt="{{ drift.title }}">
+      {% endif %}
+      <div class="drift-city-veil"></div>
+      {% if drift.meta.time_of_day %}<span class="drift-city-badge drift-badge--{{ drift.meta.time_of_day }}">{{ drift.meta.time_of_day|capfirst }}</span>{% endif %}
+      <div class="drift-city-txt">
+        <div class="drift-city-name">{{ drift.title }}</div>
+        {% if drift.meta.snippet %}<div class="drift-city-snippet">{{ drift.meta.snippet }}</div>{% endif %}
+        {% if drift.meta.duration %}<div class="drift-city-duration">{{ drift.meta.duration }}</div>{% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 {% if nav_siblings %}
 <div class="wide-block poi-elsewhere">
   <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>

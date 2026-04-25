@@ -3,10 +3,8 @@ address: Piazza di Santa Maria Liberatrice 44, 00153 Rome
 latitude: 41.881
 longitude: 12.4764
 opening_hours: Mon–Sat 19:00–midnight; closed Sun
+snippet: Legendary thin-crust Roman pizza in Testaccio since the 1960s
 tags:
-- Eating in Testaccio
-- Time Out Rome
-- Roman Cucina Povera
 - eating_out
 - testaccio
 - restaurant

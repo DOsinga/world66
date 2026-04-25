@@ -5,6 +5,7 @@ done:
 latitude: 57.1512
 longitude: -2.0781
 phone: 01224 596531
+snippet: No-frills seafront cafe serving hearty Scottish breakfasts
 tags:
 - bars_and_cafes
 title: Inversnecky Cafe

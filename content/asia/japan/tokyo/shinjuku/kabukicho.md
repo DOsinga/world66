@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 35.6946
 longitude: 139.703
+snippet: Tokyo's neon-drenched entertainment district east of Shinjuku
 tags:
 - things_to_do
 - neighbourhood

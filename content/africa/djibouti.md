@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Assal_3-Djibouti.jpg
 image_license: Public domain
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Fishercd&amp;action=edit&amp;redlink=1"
   class="new" title="User:Fishercd (page does not exist)">Fishercd</a>
+quick_facts:
+  Population: "1 million"
+  Languages: "French & Arabic"
+  Lake Assal: "155 m below sea level"
+  Foreign Military Bases: "6"
 score: 0.41
 ---
 

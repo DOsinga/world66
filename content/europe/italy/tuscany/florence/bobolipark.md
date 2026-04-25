@@ -3,10 +3,9 @@ address: Piazza Pitti 1, 50125 Florence
 latitude: 43.764947
 longitude: 11.250018
 phone: +39 055 2388786
+snippet: Renaissance gardens behind Palazzo Pitti with grottos and views
 tags:
 - things_to_do
-- museum
-- palace
 - park
 title: Giardino di Boboli
 type: poi

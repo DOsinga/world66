@@ -3,6 +3,11 @@ title: Turks and Caicos Islands
 type: location
 latitude: 21.694
 longitude: -71.797
+quick_facts:
+  Population: "~46,000"
+  Cost Level: "Surprisingly expensive — budget $150+/night"
+  Islands and Cays: "40 — only 8 inhabited"
+  Coral Reef System: 3rd largest in the world
 image: turks__caicos_isl.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Turk_beach.JPG
 image_license: CC BY-SA 3.0

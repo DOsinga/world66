@@ -9,6 +9,11 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg
 latitude: 23.684994
 longitude: 90.356331
+quick_facts:
+  Population: "170 million"
+  Drives On: Left
+  Pop. Density: "1,265/km²"
+  Cox's Bazar Beach: "120 km long"
 title: Bangladesh
 type: location
 score: 0.31

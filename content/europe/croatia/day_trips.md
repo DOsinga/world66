@@ -1,5 +1,7 @@
 ---
-title: "Day Trips"
+done:
+  poi_cleanup: '2026-04-21'
+title: Day Trips
 type: section
 ---
 

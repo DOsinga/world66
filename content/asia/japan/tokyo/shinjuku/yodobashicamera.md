@@ -2,6 +2,7 @@
 address: 1-11-1 Nishi-Shinjuku
 latitude: 35.6936
 longitude: 139.6979
+snippet: Enormous multi-building electronics emporium near Shinjuku station
 tags:
 - shopping
 title: Yodobashi Camera

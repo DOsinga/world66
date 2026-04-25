@@ -7,6 +7,11 @@ image: liberia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Andrew_Cartwright_A.M.E._Zion_Minsionary_American_Colonization_Society.jpg
 image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/65193799@N00">dbking</a>
+quick_facts:
+  Capital: Monrovia
+  Currency: "Liberian Dollar (USD widely used)"
+  Founded: "1822 by freed American slaves"
+  First African Republic: "independence in 1847"
 done:
   country_cleanup: 2026-03-31
 score: 0.22

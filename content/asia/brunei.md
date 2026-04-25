@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI.jpg
 latitude: 4.5353
 longitude: 114.7277
+quick_facts:
+  Population: "450,000"
+  Currency: "Brunei Dollar (= Singapore Dollar)"
+  Palace Rooms: "1,788"
+  Alcohol: Banned
 title: Brunei
 type: location
 score: 0.5

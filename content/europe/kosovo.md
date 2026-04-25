@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:ShkelzenRexha" title="User:ShkelzenRexha">ShkelzenRexha</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "1.8 million"
+  Currency: Euro (€, adopted unilaterally)
+  Median Age: "30 — youngest population in Europe"
+  Independence: Declared 2008
 score: 0.44
 ---
 

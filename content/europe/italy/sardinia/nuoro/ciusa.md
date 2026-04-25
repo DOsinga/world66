@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 40.322
 longitude: 9.3265
+snippet: Affordable local pizzeria on Via Ciusa
 tags:
 - eating_out
 - restaurant

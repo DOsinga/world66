@@ -1,6 +1,7 @@
 ---
 latitude: 22.2381
 longitude: 114.1963
+snippet: Hong Kong Island's most popular and accessible beach
 tags:
 - beaches
 title: Repulse Bay

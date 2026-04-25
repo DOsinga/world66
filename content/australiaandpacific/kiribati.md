@@ -1,6 +1,11 @@
 ---
 title: Kiribati
 type: location
+quick_facts:
+  Population: "120,000"
+  Currency: Australian Dollar
+  Time Zones Spanned: "3"
+  Spans All 4 Hemispheres: "Only country to do so"
 latitude: 0.344861
 longitude: 173.664177
 score: 0.45

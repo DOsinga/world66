@@ -2,6 +2,7 @@
 address: Cockle Bay Wharf, Darling Harbour
 latitude: -33.8737
 longitude: 151.2012
+snippet: Waterside bar and restaurant with Darling Harbour views
 tags:
 - bars_and_cafes
 - bar

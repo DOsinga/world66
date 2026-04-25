@@ -1,6 +1,7 @@
 ---
 latitude: 52.2795
 longitude: 104.2889
+snippet: "Finest 18th-century baroque church surviving in Siberia"
 tags:
 - things_to_do
 - sight

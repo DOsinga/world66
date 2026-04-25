@@ -1,6 +1,7 @@
 ---
 latitude: -23.7086
 longitude: 133.8847
+snippet: Visitor centre for Australia's iconic outback aerial medical service
 tags:
 - things_to_do
 - sight

@@ -9,6 +9,11 @@ image_license: CC BY-SA 4.0
 image_attribution: 'User: (WT-shared) Velorian at  wts wikivoyage'
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "10.4 million"
+  Budget Meal: "~$3–4"
+  Mesoamerican Barrier Reef: "World's second-largest, off the Bay Islands"
+  Copán Stelae: Carved Maya portraits unlike any other site
 score: 0.44
 ---
 

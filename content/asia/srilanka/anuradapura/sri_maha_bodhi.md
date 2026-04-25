@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 8.3472
 longitude: 80.3972
+snippet: World's oldest documented tree, grown from Buddha's Bodhi tree
 tags:
 - things_to_do
 - sight

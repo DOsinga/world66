@@ -9,6 +9,11 @@ image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Harold" title="User:Harold">Harold</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "2.6 million"
+  Cost Level: "Europe's cheapest — meal ~$3"
+  Mileștii Mici Wine Cellar: "200 km of tunnels"
+  Wine Per Capita: Among the highest in the world
 score: 0.37
 ---
 

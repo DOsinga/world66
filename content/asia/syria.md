@@ -7,6 +7,11 @@ image: syria.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Overview_of_Damascus.jpg
 image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/upyernoz/">upyernoz</a>
+quick_facts:
+  Population: "23 million (pre-war; millions displaced)"
+  Travel Advice: "Most governments advise against all travel"
+  Damascus: "Among the oldest continuously inhabited cities on earth"
+  Alphabet Origin: "The first alphabet was invented here"
 done:
   country_cleanup: 2026-03-30
 score: 0.14

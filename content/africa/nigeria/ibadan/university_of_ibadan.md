@@ -1,6 +1,7 @@
 ---
 latitude: 7.4441
 longitude: 3.9003
+snippet: Nigeria's oldest university with African art museum
 tags:
 - things_to_do
 - landmark

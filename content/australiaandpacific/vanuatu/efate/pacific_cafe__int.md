@@ -1,6 +1,7 @@
 ---
 title: "Pacific Cafe & Internet"
 type: poi
+snippet: Cheap eats and internet in central Port Vila
 tags: [eating_out, restaurant, cafe, budget]
 latitude: -17.7416
 longitude: 168.3120

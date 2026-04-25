@@ -2,6 +2,7 @@
 address: Triq Gnien Xibla, Xaghra, Gozo
 latitude: 36.0472
 longitude: 14.2691
+snippet: "Megalithic temples older than the pyramids and Stonehenge"
 tags:
 - things_to_do
 - sight

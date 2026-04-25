@@ -8,6 +8,11 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cartago,_costa_rica_-_panoramio.jpg
 latitude: 9.7489
 longitude: -83.7534
+quick_facts:
+  Population: "5.2 million"
+  USD Accepted: "Widely accepted alongside local colón"
+  No Army: Abolished in 1948
+  Biodiversity: "~5% of world's species on 0.03% of its land"
 score: 0.64
 title: Costa Rica
 type: location

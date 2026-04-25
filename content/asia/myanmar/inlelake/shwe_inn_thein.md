@@ -3,6 +3,7 @@ title: "Shwe Inn Thein"
 type: poi
 latitude: 20.4631
 longitude: 96.8856
+snippet: Hundreds of crumbling ancient stupas on a quiet hillside
 tags: [things_to_do, temple]
 ---
 

@@ -11,6 +11,11 @@ latitude: 9.5595
 longitude: 44.0769
 title: Somaliland
 type: location
+quick_facts:
+  Population: "4.5 million"
+  Visa: "On arrival for most nationalities"
+  International Recognition: "0 countries"
+  Cave Paintings at Laas Geel: "~5,000 years old"
 score: 0.12
 ---
 

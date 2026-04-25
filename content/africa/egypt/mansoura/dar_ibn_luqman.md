@@ -1,6 +1,7 @@
 ---
 latitude: 31.0383
 longitude: 31.3814
+snippet: Medieval house-museum where Louis IX was imprisoned
 tags:
 - things_to_do
 - museum

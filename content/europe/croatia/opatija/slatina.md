@@ -1,6 +1,7 @@
 ---
 latitude: 45.3343
 longitude: 14.3015
+snippet: Opatija's main town beach with sun loungers and calm, clear water
 tags:
 - beaches
 title: Slatina Beach

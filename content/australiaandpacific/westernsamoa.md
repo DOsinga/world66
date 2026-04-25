@@ -10,6 +10,11 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Kelemen</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "200,000"
+  Drives On: Left
+  Date Line Switch: "Jumped forward a whole day in 2011"
+  Volcanic Islands: "Only 2 of 9 are inhabited"
 score: 0.53
 ---
 

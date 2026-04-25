@@ -9,6 +9,11 @@ image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/90999000@N05">wiltshirespotter</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "10.3 million"
+  Currency: Euro
+  Cork Production: "50% of world supply"
+  Oldest Bookshop: Livraria Bertrand, open since 1732
 score: 0.58
 ---
 

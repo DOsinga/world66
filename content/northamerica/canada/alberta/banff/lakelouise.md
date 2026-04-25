@@ -3,9 +3,10 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 51.415
 longitude: -116.2134
+snippet: Iconic turquoise lake backed by Victoria Glacier
 tags:
 - things_to_do
-- palace
+- nature
 title: Lake Louise
 type: poi
 ---

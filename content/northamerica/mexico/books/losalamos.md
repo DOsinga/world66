@@ -1,11 +1,11 @@
 ---
 title: "Los Alamos"
 type: poi
-author: "Joseph Kanon,Designed by Terry Karydes"
+author: "Joseph Kanon"
 isbn: "0737290595"
-subject: "history"
-latitude: 29.871667
-longitude: -109.809167
+snippet: Cold War thriller set at the birthplace of the bomb
+tags:
+- books
 ---
 
-[](http://www.amazon.com/exec/obidos/ASIN/0737290595/osingacom?creative=125581&camp=2321&link_code=as1)
+Joseph Kanon's 1997 debut novel is a murder mystery set inside the Manhattan Project compound at Los Alamos during the final months of World War II. A security officer investigates the death of a young scientist while the race to build the atomic bomb accelerates around him. Kanon captures the paranoia, secrecy, and moral weight of the place with real skill — the New Mexico landscape and the claustrophobic compound come alive. A smart, atmospheric thriller that works both as history and as fiction.

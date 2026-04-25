@@ -1,25 +1,13 @@
 ---
-address: Oosterstraat 33
-latitude: 52.08592
-longitude: 5.131924
-phone: 050-3118039
+title: Sally O'Briens
+type: poi
 tags:
 - bars_and_cafes
-title: Sally'o Briens
-type: poi
+snippet: "Irish pub popular with international students"
+address: Oosterstraat 33, Groningen
+phone: 050-3118039
+latitude: 53.2162
+longitude: 6.5665
 ---
 
-Another international "hangout", especially at mondays a lot of students. Sallys is one of the best bars in town to meet new people.
-
-**Contributors**
-June 02, 2005
-
-July 11, 2006
-
-
-
-
-
-tel: 050-3118039
-
-address: Oosterstraat 33
+An Irish pub on the Oosterstraat that draws a steady crowd of international students, especially on Monday nights. It is a reliable spot for meeting people, with a relaxed atmosphere and the usual selection of beers on tap.

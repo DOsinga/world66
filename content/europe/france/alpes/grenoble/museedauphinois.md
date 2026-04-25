@@ -3,6 +3,7 @@ address: 30 rue Maurice Gignoux
 latitude: 45.1952
 longitude: 5.7271
 phone: 04 76 85 19 01
+snippet: Alpine history museum in a hillside 17th-century convent
 tags:
 - things_to_do
 - museum

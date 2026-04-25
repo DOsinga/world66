@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 41.5333
 longitude: 41.5697
+snippet: Roman-era fortress tied to the myth of the Argonauts
 tags:
 - things_to_do
 - landmark

@@ -1,7 +1,10 @@
 ---
 address: Camino del Jardín Botánico, 3
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.7544
 longitude: -4.4189
+snippet: 150-year-old subtropical garden with spectacular spring wisteria pergola
 tags:
 - things_to_do
 - landmark

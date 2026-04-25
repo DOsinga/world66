@@ -1,6 +1,7 @@
 ---
 latitude: 44.4413
 longitude: 26.0973
+snippet: Neoclassical concert hall with stunning domed interior
 tags:
 - things_to_do
 - architecture

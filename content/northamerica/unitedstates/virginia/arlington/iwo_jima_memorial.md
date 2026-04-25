@@ -1,6 +1,7 @@
 ---
 latitude: 38.8893
 longitude: -77.0694
+snippet: Iconic flag-raising statue and largest cast-bronze work in the world
 tags:
 - things_to_do
 - sight

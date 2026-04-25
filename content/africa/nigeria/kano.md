@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: kano.jpg
 image_attribution: Shiraz Chakera
 image_license: CC BY-SA 2.0

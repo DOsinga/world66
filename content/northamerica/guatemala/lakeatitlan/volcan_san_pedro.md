@@ -1,12 +1,13 @@
 ---
-title: "Volcan San Pedro"
-type: poi
-tags:
-  - things_to_do
-  - hiking
-  - volcano
 latitude: 14.6411
 longitude: -91.2722
+snippet: Accessible 3,020m volcano with stunning caldera views
+tags:
+- things_to_do
+- hiking
+- volcano
+title: Volcan San Pedro
+type: poi
 ---
 
 The most accessible of the three volcanoes surrounding the lake, rising to 3,020 metres above the south-western shore. The hike from San Pedro La Laguna takes 4-5 hours return and requires a registered local guide (both for safety and because the entrance is controlled by the community). Views from the top across the caldera are exceptional on clear mornings. Go early; clouds typically build by mid-morning.

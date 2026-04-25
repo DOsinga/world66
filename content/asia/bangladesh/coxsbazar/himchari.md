@@ -1,6 +1,7 @@
 ---
 latitude: 21.3535
 longitude: 92.0475
+snippet: Forested headland with waterfall and Bay of Bengal views
 tags:
 - things_to_do
 title: Himchari

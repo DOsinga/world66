@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Euros
   class="new" title="User:Eurostarshoteles (page does not exist)">Eurostarshoteles</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "48 million"
+  Currency: Euro
+  Olive Oil: World's largest producer
+  Dinner Time: "Typically 9–10 PM"
 score: 0.48
 ---
 

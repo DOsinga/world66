@@ -1,11 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 37.808
 longitude: -122.4177
+snippet: Touristy but fun waterfront with sea lions and fresh crab
 tags:
 - things_to_do
-- park
-- square
-- bar
+- landmark
 title: Fisherman's Wharf
 type: poi
 ---

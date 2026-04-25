@@ -1,4 +1,7 @@
 ---
+latitude: 10.4997
+longitude: -66.9015
+snippet: Bolivar birthplace, contemporary art, and a children's science museum
 tags:
 - things_to_do
 - museum
@@ -6,25 +9,8 @@ title: Museums
 type: poi
 ---
 
-**Sights**
+Caracas has a cluster of worthwhile museums concentrated around Parque Central and the old city centre.
 
-**Banco Central**
+The **Casa Natal de Simón Bolívar** (birthplace of the Liberator) is the most visited, a well-preserved colonial house in the historic centre. Nearby, the **Museo Bolivariano** holds Bolívar's personal effects, weapons, and correspondence. Both are free or very cheap and run by the state.
 
-The Banco Central has a museum that displays old coins, jewels and Bolivar’s sword. 
- 
-
-**Casa Natal de Simón Bolívar**
-
-Casa Natal means *birthplace*: it can only refer to the place where Simon Bolivar was born. It's a typical colonial house, there you'll find how venezuelans lived in the past. Simon Bolivar was named The Liberator (*El Libertador*) and his figure is practically devoted by everyone. [more..](/southamerica/venezuela/caracas/sights/museums/casanatal)
-
-**Museo Bolivariano**
-
-Another museum dedicated to Simon Bolivar, *El Libertador*.
-
-**Museo de Arte Contemporáneo MACCSI**
-
-This museum of contemporary art is one if the most important of the world, and it has the biggest collection of Latin America in its speciallity. Latin American artist are specially important in this collection.
-
-address: Complejo de Parque Central
-
-**Museo de los Ninos **
+For contemporary art, the **Museo de Arte Contemporáneo de Caracas** (MACC) at Parque Central has one of the strongest Latin American collections on the continent, with works by Picasso alongside Venezuelan modernists. The **Museo de los Niños**, also at Parque Central, is an interactive science museum popular with families — expect crowds on weekends.

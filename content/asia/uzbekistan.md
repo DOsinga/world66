@@ -10,6 +10,11 @@ latitude: 41.377491
 longitude: 64.585262
 title: Uzbekistan
 type: location
+quick_facts:
+  Population: "36 million"
+  Budget Meal: "~$2–3"
+  Silk Road UNESCO Sites: "5"
+  Aral Sea Shrinkage: "90% lost since 1960"
 score: 0.55
 ---
 

@@ -3,6 +3,7 @@ address: 590 Lt Bourke Street
 latitude: -37.8155
 longitude: 144.9548
 phone: +61 3 9606 0330
+snippet: Cosy Little Bourke Street bar for a quiet drink
 tags:
 - bars_and_cafes
 title: The Pod

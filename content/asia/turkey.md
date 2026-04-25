@@ -13,6 +13,11 @@ longitude: 35.0
 score: 0.53
 title: Turkey
 type: location
+quick_facts:
+  Population: "85 million"
+  Driving Side: Right
+  Continents Spanned: "2 (Europe and Asia)"
+  Daily Tea Consumption: Highest per capita in the world
 ---
 
 Turkey — or Türkiye, as it has officially styled itself internationally since 2022 — is one of the most rewarding countries to travel in. It sits at the intersection of Europe and Asia, and that geographical fact plays out in everything: the food, the architecture, the people's self-understanding, the politics. You can stand on the Bosphorus in [Istanbul](/asia/turkey/istanbul) and watch tankers cross from one continent to the other. The effect never quite wears off.

@@ -2,6 +2,7 @@
 address: Münsterplatz 13
 latitude: 47.555873
 longitude: 7.591445
+snippet: Red-sandstone cathedral with Rhine views and Erasmus tomb
 tags:
 - things_to_do
 - architecture

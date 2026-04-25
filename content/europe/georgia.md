@@ -8,6 +8,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:The_alpine_landscapes_of_northwestern_Georgia,_southeastern_Europe.jpg
 latitude: 42.315407
 longitude: 43.356892
+quick_facts:
+  Population: "3.7 million"
+  Budget Meal: "~$3–5"
+  Winemaking Tradition: "8,000 years old"
+  Unique Alphabet: "One of only 14 in the world"
 score: 0.48
 title: Georgia
 type: location

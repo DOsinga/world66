@@ -1,10 +1,19 @@
 ---
-title: "The Cathedral"
+category: Sight
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 37.9838
+longitude: -1.1282
+snippet: Baroque masterpiece with a 90-metre tower over the city
+tags:
+- things_to_do
+- sight
+title: Cathedral of Murcia
 type: poi
-latitude: 37.387264
-longitude: -5.99333
 ---
 
-This is dedicated to Santa María. It is the monument which most represents Murcia and is surprising because of its originality and decorative richness. The main facade, which was built between 1736 and 1754, looks onto the Plaza del Cardenal Belluga. In this outstanding example of baroque stonemasonry, where architecture and sculpture are perfectly combined, the work resembles a huge altarpiece and among its columns, arches and niches many saints appear.
- The interior of the Cathedral is Mediterranean Gothic style (similar to the Cathedral of Valencia) and was started towards the end of the 15th century. The choir El Coro and the main chapel La Capilla Mayor are dedicated to Santa María de Gracia and this area is sectioned off by magnificent wrought iron gates. Among the minor chapels within the Cathedral two of de most outstanding are: La Capilla de los Vélez - Gothic style, built between 1491 and 1505 - and La Capilla de los Junterones, Spanish renaissance, built between 1515 and 1529.
- The steeple was started in 1519 yet unfinished until 1782. It reaches a height of 90 metres and from the top one can enjoy splendid views of the city and the surrounding Huerta.
+The Cathedral of Santa María dominates the centre of Murcia and is the city's most important monument. Its main facade, built between 1736 and 1754, faces the Plaza del Cardenal Belluga and is one of Spain's finest examples of Baroque stonemasonry — columns, arches, and niches packed with sculpted saints, the whole thing resembling a giant altarpiece in stone.
+
+Inside, the style shifts to Mediterranean Gothic, similar to Valencia's cathedral. The nave dates from the late fifteenth century, and the choir and main chapel (dedicated to Santa María de Gracia) are separated by magnificent wrought iron gates. Two side chapels stand out: the Gothic Capilla de los Vélez (1491-1505) and the Renaissance Capilla de los Junterones (1515-1529), both worth seeking out.
+
+The bell tower took over 250 years to complete — started in 1519, finished in 1782 — and rises 90 metres. Climb to the top for sweeping views across the city and the surrounding huerta farmland.

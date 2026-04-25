@@ -9,6 +9,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Paro_Dzong_(15656348118).jpg
 latitude: 27.5142
 longitude: 90.4336
+quick_facts:
+  Population: "780,000"
+  Drives On: Left
+  Forest Cover: "71%"
+  Tourist Fee: "$100/night"
 title: Bhutan
 type: location
 score: 0.81

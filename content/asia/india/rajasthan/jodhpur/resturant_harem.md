@@ -1,8 +1,11 @@
 ---
 address: Durag Niwas Guest House, Near KN Hall Girls College, Raikabagh, Jodhpur
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 26.2875
 longitude: 73.019
 phone: '9828089293'
+snippet: Home-cooked Rajasthani meals by the family inside a guesthouse
 tags:
 - eating_out
 title: Restaurant Harem

@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Interior_of_Bet_Debre_Sina
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/41000732@N04">Adam
   Jones</a> from Kelowna, BC, Canada
+quick_facts:
+  Population: "126 million"
+  Calendar: "13 months"
+  Never Colonized: Only country in Africa
+  Coffee Origin: Born here
 score: 0.44
 ---
 

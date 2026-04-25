@@ -2,6 +2,7 @@
 address: 1631 4th Avenue North, Birmingham, AL 35203
 latitude: 33.5148
 longitude: -86.8095
+snippet: "Jazz heritage museum in the historic Carver Theatre"
 tags:
 - things_to_do
 - museum

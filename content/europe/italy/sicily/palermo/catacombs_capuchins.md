@@ -13,6 +13,7 @@ story: 'The most famous occupant is Rosalia Lombardo, a two-year-old who died in
 tags:
 - things_to_do
 - landmark
+snippet: "8,000 mummified bodies displayed in underground corridors"
 title: Catacombs of the Capuchin Monks
 type: poi
 ---

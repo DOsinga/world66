@@ -1,7 +1,9 @@
 ---
-category: Museum
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 53.2488
 longitude: 10.4062
+snippet: Local history and natural history near the Rathaus
 tags:
 - things_to_do
 - museum

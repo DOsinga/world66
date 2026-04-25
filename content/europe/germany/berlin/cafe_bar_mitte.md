@@ -3,6 +3,7 @@ address: Oranienburger Str. 46, Mitte
 latitude: 52.526044
 longitude: 13.389277
 opening_hours: Daily 10am-late
+snippet: Lively late-night bar on Oranienburger Straße with weekend dancing
 tags:
 - bars_and_cafes
 - berlinmitte

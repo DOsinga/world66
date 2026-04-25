@@ -7,6 +7,11 @@ image: austria.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Innsbruck_Flusspromenade.jpg
 image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ikiwaner" title="User:Ikiwaner">Ikiwaner</a>
+quick_facts:
+  Population: "9.1 million"
+  Currency: Euro (€)
+  Alpine Coverage: "62% of the country"
+  Coffee Houses: "Viennese café culture is UNESCO Intangible Heritage"
 score: 0.67
 ---
 

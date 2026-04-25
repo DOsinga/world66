@@ -1,6 +1,10 @@
 ---
+address: Marktstraße 21, 65385 Rüdesheim am Rhein
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.9782
 longitude: 7.9224
+snippet: Medieval parish church with crusader history on the market square
 tags:
 - things_to_do
 - landmark

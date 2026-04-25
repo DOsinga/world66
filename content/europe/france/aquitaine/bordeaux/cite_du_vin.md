@@ -1,7 +1,10 @@
 ---
-title: "Cite du Vin"
+title: "Cité du Vin"
+snippet: Interactive wine museum with panoramic tasting belvedere
 type: poi
-category: Museum
+tags:
+- things_to_do
+- museum
 latitude: 44.8625
 longitude: -0.5501
 ---

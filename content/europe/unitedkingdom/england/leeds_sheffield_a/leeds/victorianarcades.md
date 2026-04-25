@@ -2,6 +2,7 @@
 address: City Centre, Leeds
 latitude: 53.7989
 longitude: -1.5425
+snippet: Britain's finest collection of Victorian and Edwardian shopping arcades
 tags:
 - things_to_do
 - sight

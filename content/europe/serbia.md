@@ -11,6 +11,11 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Subotica,_radnice.jpg
 latitude: 44.024323
 longitude: 21.076574
+quick_facts:
+  Population: "6.6 million"
+  Budget Meal: "~$4–5"
+  Belgrade Fortress: Besieged by 115 armies
+  Rakija: National spirit, homemade in most households
 score: 0.48
 title: Serbia
 type: location

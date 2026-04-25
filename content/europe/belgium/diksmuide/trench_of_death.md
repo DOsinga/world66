@@ -1,6 +1,7 @@
 ---
 title: Trench of Death (Dodengang)
 type: poi
+snippet: "Preserved WWI Belgian frontline trench along the IJzer"
 category: Sight
 latitude: 51.0292
 longitude: 2.8481

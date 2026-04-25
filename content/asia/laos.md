@@ -10,6 +10,11 @@ latitude: 19.8563
 longitude: 102.4955
 title: Laos
 type: location
+quick_facts:
+  Population: "8 million"
+  Budget Meal: "~$1-2"
+  Forest Cover: "~50%"
+  UXO Contamination: "most bombed country"
 score: 0.61
 ---
 

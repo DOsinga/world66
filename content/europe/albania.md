@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: albania.jpg
 image_attribution: <a href="https://de.wikipedia.org/wiki/Benutzer:Albinfo" class="extiw"
   title="de:Benutzer:Albinfo">Albinfo</a>
@@ -9,6 +9,11 @@ image_license: CC BY-SA 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Valbona.jpg
 latitude: 41.000028
 longitude: 19.999962
+quick_facts:
+  Population: "2.8 million"
+  Budget Meal: "~$3–5"
+  Bunkers: "Over 170,000 built during communist era"
+  UNESCO Ottoman Towns: "2 — Berat and Gjirokastër"
 score: 0.58
 title: Albania
 type: location

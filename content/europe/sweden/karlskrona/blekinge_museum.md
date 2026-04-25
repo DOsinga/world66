@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-21'
 latitude: 56.1612
 longitude: 15.5851
+snippet: Regional history museum in an 18th-century house
 tags:
 - things_to_do
 - museum

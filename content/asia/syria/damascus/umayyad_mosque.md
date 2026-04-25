@@ -1,6 +1,7 @@
 ---
 latitude: 33.5113
 longitude: 36.3066
+snippet: One of the oldest and grandest mosques in the world
 tags:
 - things_to_do
 - landmark

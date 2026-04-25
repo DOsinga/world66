@@ -1,7 +1,10 @@
 ---
 title: "Illes Medes Marine Reserve"
 type: poi
-category: Sight
+snippet: Protected island archipelago with top Mediterranean diving
+tags:
+- things_to_do
+- nature
 latitude: 42.0492
 longitude: 3.2163
 ---

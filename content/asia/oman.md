@@ -7,6 +7,11 @@ image: oman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nizwa_Fort_and_Minaret_of_Friday_Mosque.JPG
 image_license: CC BY-SA 4.0
 image_attribution: <bdi>Martin Falbisoner</bdi>
+quick_facts:
+  Population: "4.6 million"
+  Visa: "On arrival for most nationalities"
+  Frankincense Trade: "Active for 5,000+ years"
+  Coastline: "3,165 km"
 done:
   country_cleanup: 2026-03-30
 score: 0.65

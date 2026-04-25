@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Fishing_boat_in_Port_Loko_
 image_license: CC BY-SA 3.0
 image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161113094008/http://www.panoramio.com/user/2371979?with_photo_id=48573206">Ghassan
   Mroue</a>
+quick_facts:
+  Population: "8.6 million"
+  Language: "English (Krio widely spoken)"
+  Capital Founded: "1792 (by freed slaves)"
+  Rainy Season Rainfall: "~3,000 mm"
 done:
   country_cleanup: 2026-03-31
 score: 0.26

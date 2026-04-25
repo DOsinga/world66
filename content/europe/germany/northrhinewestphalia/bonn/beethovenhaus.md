@@ -1,8 +1,11 @@
 ---
 address: Bonngasse 20, 53111 Bonn
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 50.7369
 longitude: 7.1013
 phone: +49-228-9817525
+snippet: Beethoven's birthplace museum with manuscripts and instruments
 story: Ludwig van Beethoven was born in the modest back rooms of this house in December
   1770. His family lived here in cramped quarters -- his father, a court musician
   with a drinking problem, would wake the young Ludwig in the middle of the night

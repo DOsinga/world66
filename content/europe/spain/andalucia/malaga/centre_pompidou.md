@@ -2,6 +2,7 @@
 address: Pasaje Doctor Carrillo Casaux, Muelle Uno
 latitude: 36.7167
 longitude: -4.4156
+snippet: First Pompidou branch outside France, in a rainbow cube on the port
 tags:
 - things_to_do
 - museum

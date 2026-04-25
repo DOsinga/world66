@@ -9,6 +9,11 @@ image_license: FAL
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Roman.b" title="User:Roman.b">Roman.b</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "265,000"
+  Language: "French — limited English outside resorts"
+  Coral Lagoon: UNESCO-listed, one of world's largest
+  Nickel Reserves: "~25% of world's known supply"
 score: 0.62
 ---
 

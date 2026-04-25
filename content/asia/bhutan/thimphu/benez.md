@@ -2,6 +2,7 @@
 address: One block north of the town square, Thimphu
 latitude: 27.4718
 longitude: 89.6392
+snippet: Casual local hangout popular with expats and NGO workers
 tags:
 - eating_out
 title: Benez

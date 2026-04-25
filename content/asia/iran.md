@@ -3,6 +3,11 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 32.647531
 longitude: 54.564352
+quick_facts:
+  Population: "88 million"
+  Alcohol: "Banned (Islamic republic)"
+  UNESCO World Heritage Sites: "27 — 3rd most in Asia"
+  Oil Reserves: "~10% of world"
 score: 0.33
 title: Iran
 type: location

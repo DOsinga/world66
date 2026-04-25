@@ -2,6 +2,7 @@
 address: Tremont St.
 latitude: 42.3551
 longitude: -71.0657
+snippet: America's oldest public park, in the heart of Boston
 tags:
 - things_to_do
 - park

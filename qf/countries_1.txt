@@ -1,0 +1,15 @@
+content/africa/algeria.md
+content/africa/angola.md
+content/africa/benin.md
+content/africa/botswana.md
+content/africa/burkinafaso.md
+content/africa/burundi.md
+content/africa/cameroon.md
+content/africa/capeverde.md
+content/africa/chad.md
+content/africa/comoros.md
+content/africa/congokinshasa.md
+content/africa/djibouti.md
+content/africa/egypt.md
+content/africa/eritrea.md
+content/africa/ethiopia.md

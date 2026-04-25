@@ -1,8 +1,11 @@
 ---
 address: Schönhauser Allee 36
 connections: U Eberswalder Str
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.539424
 longitude: 13.413668
+snippet: Bar-restaurant in the Kulturbrauerei complex
 tags:
 - eating_out
 - prenzlauerberg
@@ -10,14 +13,4 @@ title: Soda
 type: poi
 ---
 
-Newly-opened at the turn of the millenium in the grounds of the Kulturbrauerei -a mixture of restaurant, salon in the style of the 1920s and club. The idea is to set a trend in Prenzlauer Berg for upmarket amusement. Fr+Sa 11pm -open end, admission: 10DM.
-
-type: Cafes
-
-
-
-
-
-address: Schönhauser Allee 36
-
-connection: U Eberswalder Str
+A bar and restaurant inside the Kulturbrauerei complex in Prenzlauer Berg. The space has a 1920s salon feel and doubles as a club on weekends. It's a solid spot for a drink or a meal before exploring the rest of the Kulturbrauerei's courtyard venues.

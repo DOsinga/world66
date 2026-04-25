@@ -1,9 +1,13 @@
 ---
 category: Park
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.3876
 longitude: 4.8695
+snippet: Converted gasworks park with restaurants, cinema, and festivals
 tags:
-- westerpark
+- things_to_do
+- park
 title: Westerpark
 type: poi
 ---

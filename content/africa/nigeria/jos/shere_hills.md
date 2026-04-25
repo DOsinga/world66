@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 9.8833
 longitude: 8.95
+snippet: Granite outcrops with plateau views and picnic streams
 tags:
 - things_to_do
 - sight

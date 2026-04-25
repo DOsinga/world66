@@ -8,6 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Lesotho_snow_-_panoramio.j
 image_license: CC BY-SA 3.0
 image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161015141217/http://www.panoramio.com/user/2308917?with_photo_id=39370343">Paramente
   Phamotse</a>
+quick_facts:
+  Population: "2.3 million"
+  Currency: "Loti (pegged to South African Rand)"
+  Lowest Point: "1,400 m — highest of any country"
 done:
   country_cleanup: 2026-03-31
 score: 0.41

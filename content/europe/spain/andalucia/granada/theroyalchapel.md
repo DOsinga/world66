@@ -1,13 +1,18 @@
 ---
-title: "The Royal Chapel (La Capilla Real)"
+done:
+  poi_cleanup: '2026-04-21'
+latitude: 37.176
+longitude: -3.5986
+snippet: Tomb of Ferdinand and Isabella, the Catholic Monarchs
+tags:
+- things_to_do
+- sight
+title: The Royal Chapel (La Capilla Real)
 type: poi
-type: "Hotspots"
 ---
 
-This late gothic chapel is absolutely beautiful, and equally humbling. Here, the Catholic Kings, Ferdinand and Isabella were buried, along with Felipe, King of Castile and the Queen Juana (la Loca), who were buried by order of the Emperor Carlos V. It was build by Enrique Egas, who also worked on the Cathedral. You can find the same mixture of gothic and renaissance elements in both buildings.
+This late Gothic chapel adjoining Granada Cathedral is the final resting place of the Catholic Monarchs, Ferdinand and Isabella, along with their daughter Juana and her husband Felipe. Built by Enrique Egas between 1505 and 1517, it blends Gothic and early Renaissance elements in a way that mirrors the cathedral next door.
 
-It is an awe-inspiring experience to realize that you are within 3 feet of the final resting place of Ferdinand and Isabella (you know, the rulers who united Spain, drove out the Arabs, expelled the Jews, and sent Columbus on his infamous journey...) No trip to Granada should be complete without a trip to this site. Savor its beauty and its historical significance, for only 3 Euros.
+The marble tombs are striking, but the real draw is the crypt below, where you stand within arm's reach of the simple lead coffins. For three euros, you get an unexpectedly intimate encounter with the rulers who united Spain, completed the Reconquista, and sent Columbus west.
 
-Another very nice experience is to be able to watch five or six Memling panels in a place where one would not expect them!
-
-type: Hotspots
+The sacristy holds a small but fine collection of Flemish paintings, including several panels by Hans Memling and Rogier van der Weyden — a surprise in southern Spain and worth lingering over.

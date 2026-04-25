@@ -1,6 +1,9 @@
 ---
-title: "Typhoid Fever"
-type: poi
+done:
+  poi_cleanup: '2026-04-20'
+snippet: Prevention and treatment advice for travelers
+title: Typhoid Fever
+type: article
 ---
 
 [TravelWise](/world/travelwise) **>** [Health](/world/travelwise/health) **>** [Typhoid Fever](/world/travelwise/health/typhoid)

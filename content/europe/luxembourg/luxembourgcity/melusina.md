@@ -1,8 +1,11 @@
 ---
 address: 145, rue de la Tour Jacob, Clausen
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 49.607714
 longitude: 6.136089
 phone: +352-435922
+snippet: Long-running nightclub and weekend restaurant since 1984
 tags:
 - bars_and_cafes
 title: Melusina

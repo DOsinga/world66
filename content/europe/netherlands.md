@@ -2,21 +2,21 @@
 done:
   country_cleanup: 2026-03-29
   location_cleanup: '2026-04-10'
-  poi_cleanup: '2026-04-20'
 image: netherlands.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Tarod" title="User:Tarod">Tarod</a>
 image_license: CC BY-SA 3.0 nl
 image_source: https://commons.wikimedia.org/wiki/File:The_windmills_of_Kinderdijk.JPG
 latitude: 52.243498
 longitude: 5.634323
-map_bounds:
-- - 51.2
-  - 3.9
-- - 53.2
-  - 7.1
-score: 0.39
+map_bounds: [[51.2, 3.9], [53.2, 7.1]]
+quick_facts:
+  Population: "17.9 million"
+  Capital: Amsterdam
+  Below Sea Level: "26%"
+  Bicycles: "23 million"
 title: Netherlands
 type: location
+score: 0.39
 ---
 
 The Netherlands is a small, flat, densely populated country in the northwest corner of Europe, wedged between [Germany](/europe/germany) and [Belgium](/europe/belgium) with its face turned towards the North Sea. It is far more interesting than the stereotype of windmills and tulips suggests — though the windmills and tulips are genuinely worth seeing.

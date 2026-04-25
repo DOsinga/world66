@@ -9,6 +9,11 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:AlexanderNevskyCathedral-Sofia-6.jpg
 latitude: 42.607397
 longitude: 25.485662
+quick_facts:
+  Population: "6.5 million"
+  Currency: Euro (€, adopted Jan 2026)
+  Rose Oil: "Produces 85% of the world's supply"
+  Yoghurt: "Contains a unique bacteria named after the country"
 score: 0.53
 title: Bulgaria
 type: location

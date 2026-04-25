@@ -8,6 +8,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sudika_Golden_Bay.jpg
 latitude: 35.931144
 longitude: 14.395163
+quick_facts:
+  Population: "516,000"
+  Currency: Euro
+  Megalithic Temples: Older than the Pyramids
+  Population Density: "1,680 per km²"
 score: 0.6
 title: Malta
 type: location

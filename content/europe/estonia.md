@@ -8,6 +8,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Purekkari_neemel.jpg
 latitude: 58.752378
 longitude: 25.331908
+quick_facts:
+  Population: "1.3 million"
+  Currency: Euro (€)
+  Forest Cover: "Over 50% of the country"
+  E-Residency: "First country to offer digital citizenship to non-residents"
 score: 0.39
 title: Estonia
 type: location

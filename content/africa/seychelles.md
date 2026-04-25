@@ -13,6 +13,11 @@ image_attribution: <b>NOTE:</b> This image is a panorama of Seychelles consistin
   As a result of these adjustments, the image content may be slightly different from
   reality at the points where multiple images were combined. This manipulation is
   often required due to lens, perspective, and parallax distortions.
+quick_facts:
+  Population: "100,000"
+  Languages: "English, French & Creole"
+  Islands: "115"
+  Origin: Granitic (unique worldwide)
 done:
   country_cleanup: 2026-03-31
 score: 0.81

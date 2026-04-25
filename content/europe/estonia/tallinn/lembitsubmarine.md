@@ -2,6 +2,7 @@
 address: Vesilennuki 6, Seaplane Harbour
 latitude: 59.45
 longitude: 24.7419
+snippet: World's oldest preserved submarine, star of the Seaplane Harbour museum
 tags:
 - things_to_do
 - museum

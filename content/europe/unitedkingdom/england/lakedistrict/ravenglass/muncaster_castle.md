@@ -1,18 +1,21 @@
 ---
-title: 'Muncaster Castle'
-type: poi
-tags:
-  - things_to_do
-  - castle
-  - historic_site
-address: 'Ravenglass, Cumbria'
-phone: '01229 717 614'
-url: 'www.muncaster.co.uk'
-zipcode: 'CA18 1RQ'
+address: Ravenglass, Cumbria
 latitude: 54.3523
 longitude: -3.3832
+phone: 01229 717 614
+snippet: Medieval castle with gardens, owl centre, and fell views
+tags:
+- things_to_do
+- castle
+- historic_site
+title: Muncaster Castle
+type: poi
+url: www.muncaster.co.uk
+zipcode: CA18 1RQ
 ---
 
-Muncaster Castle's earliest parts date from the 14th century and it has been home to the Pennington family ever since. The interior has many works of art and the gardens contain a number of exotic plants, the Gulf Stream facilitating the cultivation of species from distant parts. There is also an Owl Centre and a children's maze.
+Muncaster Castle has been home to the Pennington family since the 1200s, with the oldest parts of the current building dating from the 14th century. It sits on a hillside above Ravenglass with views across Eskdale to the Scafell range — on a clear day the panorama alone justifies the visit.
 
-This is not a cheap visit and is possibly only worth the entrance price if you plan to spend some hours there.
+The interior is furnished with family portraits, tapestries, and silver accumulated over eight centuries. Outside, the gardens benefit from mild Gulf Stream air and contain rhododendrons, azaleas, and Himalayan species that have no business thriving this far north. The World Owl Trust runs a breeding centre in the grounds with around forty species, and there are daily flying displays in the afternoon.
+
+Children get a hedge maze and an interactive trail through the gardens. Allow at least half a day if you want to see the castle interior, gardens, and owl centre together.

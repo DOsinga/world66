@@ -1,6 +1,7 @@
 ---
 latitude: 52.4126
 longitude: -4.0834
+snippet: 13th-century ruined castle on the seafront, free entry
 tags:
 - things_to_do
 - sight

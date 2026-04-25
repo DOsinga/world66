@@ -11,6 +11,11 @@ image_attribution: Original by <a rel="nofollow" class="external text" href="htt
   title="User:Imzadi1979">Imzadi1979</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "170,000"
+  US Military Land: "27% of the island"
+  Chamorro Settlement: "3,500+ years"
+  Closest Major City: Manila (2,500 km)
 score: 0.54
 ---
 

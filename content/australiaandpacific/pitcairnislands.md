@@ -12,6 +12,11 @@ latitude: -25.065772
 longitude: -130.101782
 title: Pitcairn Islands
 type: location
+quick_facts:
+  Population: "~40"
+  Nearest Airport: "32 hours away by boat"
+  Settled By: Bounty mutineers in 1790
+  Alcohol Sold on Island: None
 score: 0.41
 ---
 

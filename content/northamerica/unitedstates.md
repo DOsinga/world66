@@ -3,6 +3,11 @@ title: United States
 type: location
 latitude: 39.78373
 longitude: -100.445882
+quick_facts:
+  Population: "335 million"
+  Time Zones: "6 (continental + Alaska/Hawaii)"
+  National Parks: "63"
+  Appalachian Trail: "3,500 km from Georgia to Maine"
 image: unitedstates.jpg
 image_source: https://commons.wikimedia.org/wiki/File:USA-NYC-Statue_of_Liberty.jpg
 image_license: CC BY-SA 3.0

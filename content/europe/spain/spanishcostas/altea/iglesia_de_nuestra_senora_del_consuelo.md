@@ -1,7 +1,10 @@
 ---
 title: "Iglesia de Nuestra Señora del Consuelo"
 type: poi
-category: Sight
+snippet: Blue-domed church with sweeping bay views
+tags:
+- things_to_do
+- landmark
 latitude: 38.5997
 longitude: -0.0507
 ---

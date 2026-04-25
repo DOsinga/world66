@@ -1,8 +1,11 @@
 ---
 address: 1141 Soquel Ave, Santa Cruz, CA 95062
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 36.9799
 longitude: -122.0109
 phone: (831) 471-2609
+snippet: Fast organic Asian bowls loved by locals
 tags:
 - eating_out
 - restaurant

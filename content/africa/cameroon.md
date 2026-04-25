@@ -7,6 +7,11 @@ image: cameroon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bismarck-Brunnen_in_Buea.jpg
 image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Daina" title="User:Daina">Daina</a>
+quick_facts:
+  Population: "28 million"
+  Languages: French and English
+  Nicknamed: "Africa in miniature"
+  Mount Cameroon: "Only active volcano in West Africa"
 score: 0.35
 ---
 

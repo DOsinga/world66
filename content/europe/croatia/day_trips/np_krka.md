@@ -1,51 +1,17 @@
 ---
-title: "Np Krka"
+title: "Krka National Park"
 type: poi
-address: "Nelipića b.b"
-email: "info@travel49.com"
-url: "www.travel49.com"
+snippet: "Travertine waterfalls you can swim beneath in a karst river canyon"
+tags:
+- things_to_do
+- nature
+- day_trip
+latitude: 43.8011
+longitude: 15.9614
 ---
 
-Krka, a river in Dalmatia, belongs to the county of Šibenik and Knin.
-It is limited by Knin-Zadar-Split triangle, whose main route goes
-through the towns of Knin-Drniš-Šibenik. River Krka springs at the foot
-of mountain Dinara, three and a half kilometres northeast of the town
-of Knin at the foot of 22 m high the Topoljski slap Falls, which is
-deafening in winter and dry in summer. It flows through very craggy
-part of Dalmatia and like a umbilical cord it closely connects Knin and
-Šibenik.
+Krka National Park protects a stretch of the Krka River in central Dalmatia, about an hour north of Split and just inland from Sibenik. The main draw is Skradinski Buk, a series of seventeen travertine cascades dropping over 45 metres into a wide turquoise pool. A wooden boardwalk loops around the falls past old watermills and swimming spots -- though swimming at the falls has been increasingly restricted in recent years, so check current rules before you go.
 
-That magnificent river abounds in beauty of nature, scientific
-mysteries, important cultural and historic sights and ways of using its
-inexhaustible water sources in a rocky and, in summer, dry country.
+The park has more to offer than just the famous waterfall. Upstream, Roski Slap is a quieter set of falls with far fewer visitors. The tiny island of Visovac sits in the middle of the river canyon, home to a Franciscan monastery since the 15th century, reachable by boat excursion from Skradinski Buk.
 
-Thanks to travertine barriers and the constant process of
-calcification, river Krka today, with its 7 travertine falls,
-represents a natural Karst phenomenon and in 1985 it was proclaimed
-National Park.
-.
-
-Sailing out from Šibenik at 10:00 a.m., passing through the Šibenik
-port along the old town and cathedral, passing beneath the Šibenik
-Bridge, sailing by river Krka via the Sv. Josip Strait, entering the
-Prukljansko jezero lake and again entering the Skradin Strait and
-arriving at Skradin, one of the oldest towns in Europe with at least
-2000 years of history. After Skradin the ship enters the National Park
-via river Krka. Once the boat puts in at the base of the Skradinski buk
-Falls, lunch is served and then the visitors can see the falls,
-travertine cascades and take a walk through pathways and bridges.
-Excursionists can see the ethnographic collection, old mills and
-original contrivances for washing fabrics.
-In 1895 on the Skradinski buk falls, Ante Šupuk made the first system
-for production, transfer and distribution of alternating current in the
-world.
-
-
-
-
-
-url: [www.travel49.com](http://www.travel49.com)
-
-address: Nelipića b.b
-
-email: info@travel49.com
+Most visitors arrive via Skradin, a small harbour town at the park entrance where you catch the boat upriver to the falls. The boat ride itself is part of the experience, passing through a narrow canyon with steep limestone walls. You can also enter from Lozovac, closer to Split, where a shuttle bus runs down to Skradinski Buk. Come early in summer -- by mid-morning the boardwalks are packed with day-trippers from the coast.

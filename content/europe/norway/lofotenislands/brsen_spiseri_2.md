@@ -1,16 +1,13 @@
 ---
-title: "'Bacalao Seafood bar'"
+title: Bacalao Seafood Bar
 type: poi
-address: "Svolvær, Havnepromenaden 2"
-email: "bacalao_pub@hotmail.com"
+address: Havnepromenaden 2, Svolvær
+latitude: 68.2342
+longitude: 14.5686
 phone: "+47 760 79400"
-price: "From nok 100"
-type: "Seafood"
-url: "www.svinoya.no"
+snippet: Harbourside seafood bar in the heart of Svolvær
+tags:
+- bars_and_cafes
 ---
 
-Located on the quay side in the heart of Svolvær.
-
-Lunch, dinner, bar, night club.
-
-type: Seafood
+A seafood-focused bar and restaurant right on the quayside in the centre of Svolvær, the unofficial capital of the Lofoten Islands. The menu leans heavily on local catches — stockfish, cod and other Arctic seafood — and the harbourfront location means views over the fishing boats and surrounding peaks. Open for lunch and dinner, it doubles as a bar and occasional nightspot later in the evening.

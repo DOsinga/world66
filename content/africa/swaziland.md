@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Mlilwane_Wildlife_Sanctuar
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:Bgag">Bernard
   Gagnon</a>
+quick_facts:
+  Population: "1.2 million"
+  Currency: Lilangeni (= ZAR)
+  Absolute Monarchy: Last in Africa
+  Umhlanga Dancers: "40,000+"
 done:
   country_cleanup: 2026-03-31
 score: 0.46

@@ -1,6 +1,7 @@
 ---
 latitude: 46.4858
 longitude: 30.7405
+snippet: Iconic 192-step staircase immortalized in Eisenstein's Battleship Potemkin
 story: 'Sergei Eisenstein staged the massacre scene in his 1925 silent film Battleship
   Potemkin on these very steps — although the real 1905 uprising saw no such massacre
   here. The sequence was so powerful that the stairs have been inseparable from the

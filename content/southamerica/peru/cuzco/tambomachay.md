@@ -1,6 +1,7 @@
 ---
 latitude: -13.4646
 longitude: -71.9439
+snippet: Inca ceremonial baths with aqueducts that still flow
 tags:
 - things_to_do
 - landmark

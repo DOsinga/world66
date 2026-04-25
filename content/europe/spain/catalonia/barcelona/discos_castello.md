@@ -1,6 +1,9 @@
 ---
 address: Calle Tallers
+latitude: 41.3839
+longitude: 2.1669
 phone: 93 318 20 41
+snippet: Barcelona's biggest record store chain, open since 1934
 tags:
 - shopping
 title: Discos Castello

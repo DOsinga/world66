@@ -1,6 +1,7 @@
 ---
 latitude: 30.047966
 longitude: 31.233609
+snippet: Tutankhamun's gold mask and 5,000 years of Egyptian history on Tahrir Square
 tags:
 - things_to_do
 - museum

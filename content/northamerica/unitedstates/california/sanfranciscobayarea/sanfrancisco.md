@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: sanfrancisco.jpg
 image_attribution: 'Daniel L. Lu (user:dllu)
 

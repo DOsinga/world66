@@ -1,5 +1,7 @@
 ---
-title: "Things to do in Mae Hong Son"
+done:
+  poi_cleanup: '2026-04-21'
+title: Things to do in Mae Hong Son
 type: section
 ---
 

@@ -3,29 +3,17 @@ address: Via Vittorio Veneto 52, Capriate San Gervasio, Bergamo
 latitude: 45.5924
 longitude: 9.5448
 phone: +39 02 9090169
+snippet: Theme park combining miniature Italy with rides and an aquarium
 tags:
 - day_trips
 - park
-- monument
 title: Minitalia Leolandia Park
 type: poi
 url: www.leolandiapark.it
 ---
 
-At the Minitalia Leolandia Park you can tour all of Italy, visiting its monuments even by sea, see hundreds of fish from all over the world, a fantastic shell exhibition, 250 kinds of reptiles (even the scariest ones!), 200 types of parrots and farm animals, too. And don't forget the Kids' Corner, the breathtaking flume rides on the Mississippi Boats, the Petroleum evolutions, the dizzy feats of Aladdin's Carpet and the Cannibals' Cauldrons. Directions: Minitalia Leolandia Park is located 300 meters from the Capriate highway exit tollbooth (highway A4, halfway between Bergamo and Milan). The Autostradale Bergamo ® Milano Bus lines also reach it (Capriate San Gervasio stop). The Società autostrade buslines offer discounted transportation to the park through advance sales tickets at these offices: - Piazza Castello (Milan), Piazzale Marconi (Bergamo). The Leonardo Exhibit Aquarium Terrarium Farm Minitalia Minitalia Leolandia: 14 new attractions Live shows Food courts and nature areasThe park is divided into two themes:
-Minitalia, dedicated to Edutainment (educational amusement). Leolandia, dedicated to Amusement.
+A family theme park located just off the A4 motorway at the Capriate exit, roughly halfway between Bergamo and Milan. The park is split into two sections: **Minitalia**, which features scale models of Italy's major monuments and landmarks, and **Leolandia**, the rides-and-entertainment side with flume rides, carousels, and shows aimed at younger children.
 
-**Contributors**
-November 09, 2009
+The miniature Italy section is the original draw — detailed scale replicas of the Colosseum, St Mark's Basilica, and dozens of other monuments spread across the grounds, some accessible by small boat. There's also an aquarium and a terrarium with reptiles.
 
-
-
-
-
-tel: (+39) 02 90.90.169
-
-url: [www.leolandiapark.it](http://www.leolandiapark.it/english.html)
-
-address: Via Vittorio Veneto 52, Capriate S. Gervasio(Bergamo)24042
-
-email: info@minitalia.com
+Getting here without a car is possible via the Autostradale bus service from both Milan (Piazza Castello) and Bergamo (Piazzale Marconi) — advance tickets are available at those offices.

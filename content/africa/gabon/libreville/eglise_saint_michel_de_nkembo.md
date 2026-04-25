@@ -1,6 +1,7 @@
 ---
 latitude: 0.4042
 longitude: 9.4295
+snippet: Catholic church with striking Gabonese-style carved wooden columns
 tags:
 - things_to_do
 - sight

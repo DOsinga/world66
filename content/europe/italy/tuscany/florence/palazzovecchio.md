@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - palace
 - tower
+snippet: Medieval civic palace with tower views over Florence
 title: Palazzo Vecchio
 type: poi
 ---

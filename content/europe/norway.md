@@ -9,6 +9,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Atlanterhavsvegen4.jpg
 latitude: 61.152939
 longitude: 8.787665
+quick_facts:
+  Population: "5.5 million"
+  Cost Level: "A beer costs ~$12"
+  Coastline: "25,000 km including fjords"
+  Midnight Sun: Up to 76 days in the north
 score: 0.45
 title: Norway
 type: location

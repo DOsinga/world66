@@ -1,6 +1,7 @@
 ---
 title: "The Mercato"
 type: poi
+snippet: Sprawling open-air market reputed to be Africa's largest
 tags:
   - things_to_do
   - market

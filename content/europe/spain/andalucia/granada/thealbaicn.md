@@ -1,15 +1,18 @@
 ---
-title: "The Albaicín"
-type: poi
-type: "Hotspots"
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.182467
 longitude: -3.593773
+snippet: Granada's ancient Moorish quarter facing the Alhambra
+tags:
+- things_to_do
+- sights
+title: The Albaicín
+type: poi
 ---
 
-This is the old Arabic quarter on the hill opposite the Alhambra. It has white washed houses and cobble stoned streets, but most characteristic are the numerous exotic shops, teahouses and restaurants. There are many terraces that give excellent view over the Alhambra on the opposite hill.
+The old Moorish quarter sprawls across the hill opposite the Alhambra, a UNESCO World Heritage Site in its own right. Whitewashed houses line narrow cobblestone streets that wind uphill past exotic shops, North African teahouses, and small restaurants.
 
+Head to the Mirador de San Nicolás for the classic Alhambra view — it's especially magical at sunset when the palace glows against the Sierra Nevada. Nearby, the church of San Salvador sits on the site of the Great Mosque of Granada, and San Juan de los Reyes still has its 13th-century minaret, a reminder of the quarter's layered history.
 
- The best souvenirs to be gotten here is the typical granadino pottery with its white background and strong blue shapes. Also make sure to visit the famous rose gardens and the church of San Nicolás and the church of San Salvador located on the site of the Great Mosque of Granada. The religious hassle around Granada can be seen also at the church of San Juan de los Reyes, with its 13th century minaret.
- **Justin :** This is the area to go to when the sun sets! Lots of fun places to eat & drink.
-
-type: Hotspots
+For souvenirs, look for traditional Granadino pottery — white glazed ceramics decorated with bold blue patterns. The rose gardens tucked between the houses are worth seeking out. After dark the Albaicín comes alive with terrace bars and intimate flamenco venues.

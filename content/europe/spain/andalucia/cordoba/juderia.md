@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 37.88
 longitude: -4.782
+snippet: Medieval lanes, rare synagogue, and Maimonides' birthplace
 tags:
 - things_to_do
 - neighbourhood

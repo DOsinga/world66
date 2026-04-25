@@ -9,6 +9,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:View_of_the_Rock_of_Gibraltar_from_the_Strait.jpg
 latitude: 36.128593
 longitude: -5.347476
+quick_facts:
+  Population: "34,000"
+  Currency: Gibraltar Pound (£)
+  Total Area: "6.5 km² — smaller than most airports"
+  Barbary Macaques: Only wild monkeys in Europe
 score: 0.62
 title: Gibraltar
 type: location

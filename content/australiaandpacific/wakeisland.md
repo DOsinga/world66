@@ -5,6 +5,11 @@ latitude: 19.296086
 longitude: 166.626978
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Civilian Population: "0"
+  Access: Military only — no public visits
+  Coral Species: "100+"
+  Battle of Wake Island: Marines held out 15 days after Pearl Harbor
 score: 0.23
 ---
 

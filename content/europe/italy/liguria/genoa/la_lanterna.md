@@ -1,6 +1,7 @@
 ---
 latitude: 44.408386
 longitude: 8.903533
+snippet: Genoa's 12th-century lighthouse, symbol of the city, climbable on weekends
 tags:
 - things_to_do
 - landmark

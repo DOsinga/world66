@@ -3,6 +3,7 @@ address: Via dei Tavolini 18/r, 50122 Florence
 latitude: 43.7716
 longitude: 11.2558
 opening_hours: Mon–Sat 08:00–21:00; closed Sun
+snippet: Chianti winery bakery with focaccia and estate wines
 tags:
 - 24 Hours in Florence
 - eating_out

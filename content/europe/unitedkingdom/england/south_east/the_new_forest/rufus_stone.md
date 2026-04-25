@@ -1,7 +1,10 @@
 ---
 title: Rufus Stone
 type: poi
-category: Sight
+snippet: "Iron marker where King William II was killed hunting in 1100"
+tags:
+- things_to_do
+- landmark
 latitude: 50.9116
 longitude: -1.6327
 story: >

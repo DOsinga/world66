@@ -1,6 +1,7 @@
 ---
 latitude: 34.9735
 longitude: -85.3502
+snippet: Garden trail through ancient rock formations on Lookout Mountain
 tags:
 - things_to_do
 - landmark

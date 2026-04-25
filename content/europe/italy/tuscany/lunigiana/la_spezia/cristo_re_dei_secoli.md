@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 44.1025
 longitude: 9.819
+snippet: Bold modernist cathedral with striking circular design
 tags:
 - things_to_do
 - architecture

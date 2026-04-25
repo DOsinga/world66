@@ -10,6 +10,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Gorges_Verdon_Barrage_Sainte_Croix.jpg
 latitude: 46.603354
 longitude: 1.888334
+quick_facts:
+  Population: "68 million"
+  Drives On: Right
+  Cheese Varieties: "Over 1,200 named"
+  Most-Visited Country: "100 million tourists/year"
 score: 0.95
 title: France
 type: location

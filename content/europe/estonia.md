@@ -1,13 +1,18 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: estonia.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Abrget47j" title="User:Abrget47j">Abrget47j</a>
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Purekkari_neemel.jpg
 latitude: 58.752378
 longitude: 25.331908
+quick_facts:
+  Population: "1.3 million"
+  Currency: Euro (€)
+  Forest Cover: "Over 50% of the country"
+  E-Residency: "First country to offer digital citizenship to non-residents"
 score: 0.39
 title: Estonia
 type: location

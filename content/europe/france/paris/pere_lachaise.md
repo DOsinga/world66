@@ -1,9 +1,12 @@
 ---
 address: 16 Rue du Repos, 75020 Paris
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.86113
 longitude: 2.394009
 opening_hours: Mon–Fri 8am–6pm, Sat from 8:30am, Sun from 9am (closes 5:30pm Nov–Mar)
+snippet: Paris's famous cemetery with Wilde, Morrison, and Chopin
 tags:
 - things_to_do
 title: Père Lachaise Cemetery

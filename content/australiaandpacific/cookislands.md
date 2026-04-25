@@ -10,6 +10,11 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Johnson</a> from Tokyo, Japan
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "About 17,000"
+  Currency: New Zealand dollar
+  Ocean-to-Land Ratio: "2 million km² of ocean for 237 km² of land"
+  Cook Islanders Abroad: More live in NZ and Australia than on the islands
 score: 0.76
 ---
 

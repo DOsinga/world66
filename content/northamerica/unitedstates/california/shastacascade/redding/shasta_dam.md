@@ -1,6 +1,9 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 40.7196
 longitude: -122.4186
+snippet: Massive Depression-era dam with free interior tours
 tags:
 - things_to_do
 - sight

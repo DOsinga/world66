@@ -2,6 +2,7 @@
 address: Lungadige Porta Vittoria 9
 latitude: 45.4345
 longitude: 10.9931
+snippet: Sanmicheli Renaissance palace, now natural history museum
 tags:
 - things_to_do
 - architecture

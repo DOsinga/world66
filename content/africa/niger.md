@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Niamey_from_the_sky.jpg
 image_license: CC BY 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jeanot" title="User:Jeanot">Jean
   Rebiffé</a>
+quick_facts:
+  Population: "27 million"
+  Language: French (official)
+  Sahara Coverage: "80% of territory"
+  Median Age: "15 years"
 done:
   country_cleanup: 2026-03-29
 score: 0.29

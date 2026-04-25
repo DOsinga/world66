@@ -3,6 +3,11 @@ title: Ecuador
 type: location
 latitude: -1.831239
 longitude: -78.183406
+quick_facts:
+  Population: "18 million"
+  Currency: US dollar (since 2000)
+  Birds Per km²: Most of any country — over 1,600 species
+  Galápagos Islands: "1,000 km offshore — inspired Darwin's theory"
 image: ecuador.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mitad_del_Mundo_Blick_vom_Monument.JPG
 image_license: CC BY-SA 3.0

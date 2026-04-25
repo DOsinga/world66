@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Island_lagoon_in_Bacuit_Ba
 image_license: CC BY 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Argenberg" title="User:Argenberg">Vyacheslav
   Argenberg</a>
+quick_facts:
+  Population: "115 million"
+  English: "Widely spoken (official language)"
+  Islands: "7,641"
+  Text Messages Sent Daily: "Over 400 million (texting capital of the world)"
 done:
   country_cleanup: 2026-03-30
 score: 0.41

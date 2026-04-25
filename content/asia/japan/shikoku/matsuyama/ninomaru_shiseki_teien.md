@@ -1,8 +1,12 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 33.8448
 longitude: 132.7628
+snippet: Tranquil garden on castle hill with matcha teahouse
 tags:
 - things_to_do
+- garden
 title: Ninomaru Shiseki Teien
 type: poi
 ---

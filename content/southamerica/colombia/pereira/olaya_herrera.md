@@ -1,6 +1,7 @@
 ---
 latitude: 4.8085
 longitude: -75.6918
+snippet: "Hilltop park with panoramic views over the coffee valleys"
 tags:
 - park
 - things_to_do

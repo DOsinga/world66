@@ -2,6 +2,7 @@
 title: "West Virginia Independence Hall"
 type: poi
 category: Museum
+snippet: "Birthplace of West Virginia, where secession was rejected"
 latitude: 40.0636
 longitude: -80.7197
 story: >

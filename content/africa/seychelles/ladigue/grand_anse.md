@@ -1,6 +1,7 @@
 ---
 title: "Grand Anse"
 type: poi
+snippet: "Wild, empty beach with rough surf and granite boulders"
 tags:
   - beaches
   - sight

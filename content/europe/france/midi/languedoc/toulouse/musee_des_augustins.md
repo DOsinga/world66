@@ -1,6 +1,7 @@
 ---
 latitude: 43.6019
 longitude: 1.4441
+snippet: Outstanding medieval sculpture in a Gothic monastery
 tags:
 - things_to_do
 - museum

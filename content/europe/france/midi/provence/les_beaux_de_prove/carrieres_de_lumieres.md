@@ -1,7 +1,11 @@
 ---
 title: "Carrières de Lumières"
 type: poi
-category: Sight
+snippet: "Immersive art projections inside a former bauxite quarry"
+tags:
+  - things_to_do
+  - sight
+  - story
 latitude: 43.7410
 longitude: 4.7887
 story: >

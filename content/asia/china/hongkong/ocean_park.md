@@ -4,8 +4,10 @@ latitude: 22.2348
 longitude: 114.1708
 opening_hours: 10:00–22:00 daily (check website for seasonal variations)
 phone: (852) 3923 2323
+snippet: Theme park and marine attraction sprawling above the South China Sea
 tags:
 - things_to_do
+- family
 title: Ocean Park
 type: poi
 url: www.oceanpark.com.hk

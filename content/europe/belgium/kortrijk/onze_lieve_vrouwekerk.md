@@ -1,7 +1,11 @@
 ---
 title: "Onze-Lieve-Vrouwekerk"
 type: poi
-category: "Sight"
+snippet: "Gothic church with a Van Dyck masterpiece inside"
+tags:
+  - things_to_do
+  - sight
+  - church
 latitude: 50.8270
 longitude: 3.2647
 ---

@@ -1,12 +1,11 @@
 ---
-address: 190 Terracina Blvd, Redlands, CA 92373
+title: "Morey Mansion"
+type: poi
+tags: [things_to_do, architecture]
+snippet: "Ornate 1890s Queen Anne mansion turned bed and breakfast"
+address: "190 Terracina Blvd, Redlands, CA 92373"
 latitude: 34.038794
 longitude: -117.207993
-tags:
-- things_to_do
-- architecture
-title: Morey Mansion
-type: poi
 ---
 
 Dubbed "America's Favorite Victorian House," this Queen Anne-style home has appeared in countless commercials, television shows, and movies. David Morey arrived in Redlands in 1882 to retire from carpentry and shipbuilding. His wife Sarah fronted the money for the house, and his building expertise is apparent throughout. Actress Carole Lombard, a relative of Mrs. Helen Kimberly, is reported to have spent time here, and one of the rooms is called "The Lombard Room."

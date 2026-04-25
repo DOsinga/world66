@@ -1,6 +1,7 @@
 ---
 latitude: 30.4169
 longitude: -9.5981
+snippet: Large walled market with spices, leather, and clothing
 tags:
 - things_to_do
 - sight

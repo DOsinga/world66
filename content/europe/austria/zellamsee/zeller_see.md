@@ -1,7 +1,10 @@
 ---
 title: "Zeller See"
 type: poi
-category: Sight
+snippet: Clean Alpine lake with swimming, boat hire, and a shoreline loop walk
+tags:
+- things_to_do
+- nature
 latitude: 47.3160
 longitude: 12.7910
 ---

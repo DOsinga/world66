@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: costarica.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161013191001/http://www.panoramio.com/user/956839?with_photo_id=27765369">belemita@gmail.com</a>
 image_license: CC BY 3.0

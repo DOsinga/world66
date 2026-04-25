@@ -1,6 +1,7 @@
 ---
 latitude: 42.6413
 longitude: 18.1117
+snippet: "13th-century monastery with Renaissance cloister and art museum"
 tags:
 - things_to_do
 - sight

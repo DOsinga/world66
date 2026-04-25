@@ -8,6 +8,11 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Zumarock.jpg
 latitude: 9.0765
 longitude: 7.3986
+quick_facts:
+  Population: "220 million"
+  Language: "English (lingua franca)"
+  Languages: "500+"
+  Nollywood Films per Year: "~2,500"
 title: Nigeria
 type: location
 score: 0.25

@@ -8,6 +8,11 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_02.jpg
 latitude: -41.500083
 longitude: 172.834408
+quick_facts:
+  Population: "5 million"
+  Driving Side: Left
+  Sheep-to-People Ratio: "5 to 1"
+  First Country to Grant Women the Vote: "1893"
 score: 0.8
 title: New Zealand
 type: location

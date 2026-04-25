@@ -1,11 +1,14 @@
 ---
+address: Vermilion Lakes Road, Banff, Alberta
 latitude: 51.184337
 longitude: -115.590649
+snippet: Scenic marshland lakes with wildlife and mountain reflections
 tags:
 - things_to_do
-title: Vermilion Lakes .
+title: Vermilion Lakes
 type: poi
 ---
 
-This 4.5 km (2.8 mi) drive branches off Mt. Norquay just before the Banff/Norquay overpass and takes you along the three Vermilion Lakes. This drive provides an opportunity to see a variety of flora and fauna common to marshland areas and is popular for bird watchers, nature enthusiasts, photographers and cyclists. 
- Address: branches off Mt. Norquay just before the Banff/Norquay overpass
+A 4.5 km scenic drive branches off Mount Norquay Road just before the Banff/Norquay overpass and runs along three shallow lakes backed by the Sundance Range. The marshland setting draws a good variety of birds and wildlife — elk, muskrat, and the occasional osprey. At dawn and dusk the lakes mirror Mount Rundle almost perfectly, making this one of the most photographed spots in the park.
+
+The road is also popular with cyclists and walkers. In winter the lakes freeze and the drive becomes quieter, but the mountain views are just as good.

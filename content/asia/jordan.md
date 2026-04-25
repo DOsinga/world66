@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:As_Salt_Castle.JPG
 latitude: 31.166705
 longitude: 36.941628
+quick_facts:
+  Population: "11 million"
+  Visa: "On arrival for most nationalities"
+  Dead Sea Elevation: "-430 m"
+  Petra Age: "2,300+ years"
 score: 0.67
 title: Jordan
 type: location

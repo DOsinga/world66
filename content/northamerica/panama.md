@@ -1,6 +1,11 @@
 ---
 title: Panama
 type: location
+quick_facts:
+  Population: "4.4 million"
+  Currency: US dollar (and balboa)
+  Panama Canal: "~14,000 ships per year"
+  Darién Gap: Only break in the 30,000 km Pan-American Highway
 image: panama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aduana_de_Portobelo,_Panama.jpg
 image_license: CC BY-SA 3.0

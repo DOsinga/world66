@@ -9,6 +9,11 @@ image_license: CC BY 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Galileo01" title="User:Galileo01">Galileo01</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "~37 million (pre-war 44 million)"
+  Travel Warning: "Active war zone since Feb 2022"
+  Largest Country Entirely in Europe: "603,550 km²"
+  Sunflower Oil Production: "Largest exporter in the world"
 score: 0.32
 ---
 

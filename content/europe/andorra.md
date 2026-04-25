@@ -10,6 +10,11 @@ image_attribution: <bdi><a href="https://www.wikidata.org/wiki/Q28147777" class=
   title="d:Q28147777"><span title="Spanish photographer">Diego Delso</span></a></bdi>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "80,000"
+  No Income Tax: "One of the few countries in Europe"
+  Capital Altitude: "1,023 m — highest capital in Europe"
+  Heads of State: "2 — the French President and a Spanish bishop"
 score: 0.58
 ---
 

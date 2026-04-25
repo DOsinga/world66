@@ -10,6 +10,11 @@ latitude: 72.0
 longitude: -40.0
 title: Greenland
 type: location
+quick_facts:
+  Population: "~56,000"
+  Ice Sheet Coverage: "~80% of the island"
+  World's Largest Island: "836,000 square miles"
+  Population Density: "0.03 people per km² (Earth's lowest)"
 score: 0.49
 ---
 

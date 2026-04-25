@@ -1,6 +1,7 @@
 ---
 latitude: 14.3533
 longitude: 100.5594
+snippet: Ayutthaya's main museum with centuries-old bronzes and royal gold
 tags:
 - things_to_do
 - museum

@@ -3,6 +3,7 @@ address: Devisinghpura, Amer, Jaipur
 latitude: 26.9855
 longitude: 75.8513
 opening_hours: 8:00-17:30 daily
+snippet: Hilltop Rajput-Mughal palace with dazzling Mirror Room
 tags:
 - things_to_do
 - landmark

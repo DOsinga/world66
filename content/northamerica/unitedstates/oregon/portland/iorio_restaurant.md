@@ -1,6 +1,7 @@
 ---
 latitude: 45.5121
 longitude: -122.6564
+snippet: Organic southern Italian in a cozy Hawthorne storefront
 tags:
 - eating_out
 - restaurant

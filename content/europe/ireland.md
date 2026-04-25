@@ -10,6 +10,11 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:B%C3%A4rwinkel,Kla
   title="User:Bärwinkel,Klaus">Bärwinkel,Klaus</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "5.1 million"
+  Currency: Euro (€)
+  Pubs: "Over 7,000 across the country"
+  Bog Cover: "17% of land area"
 score: 0.48
 ---
 

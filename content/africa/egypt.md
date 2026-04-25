@@ -8,6 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW
 image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Berthold_Werner" title="User:Berthold
   Werner">Berthold Werner</a>
+quick_facts:
+  Population: "105 million"
+  Currency: Egyptian Pound
+  Pyramids Age: "4,500+ years"
+  Nile Dependency: "95% live along it"
 score: 0.77
 ---
 

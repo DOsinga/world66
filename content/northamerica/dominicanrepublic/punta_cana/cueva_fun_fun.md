@@ -1,5 +1,6 @@
 ---
 title: "Cueva Fun Fun"
+snippet: Massive Caribbean cave system with rappelling and underground rivers
 type: poi
 tags:
   - day_trips

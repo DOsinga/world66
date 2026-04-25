@@ -3,6 +3,11 @@ title: Bolivia
 type: location
 latitude: -17.05687
 longitude: -64.991229
+quick_facts:
+  Population: "12 million"
+  Capital La Paz: Highest capital city at ~3,640 m
+  Salar de Uyuni: World's largest salt flat — 10,582 km²
+  Indigenous Population: "~40% — highest share in the Americas"
 image: bolivia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni_Décembre_2007_-_Panorama_1_edit.jpg
 image_license: CC BY-SA 3.0

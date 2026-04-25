@@ -7,6 +7,11 @@ image: maldives.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bathala_(Maldives)_6.jpg
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Gzzz" title="User:Gzzz">Gzzz</a>
+quick_facts:
+  Population: "520,000"
+  Religion: "100% Muslim (alcohol on resort islands only)"
+  Islands: "1,190"
+  Highest Point: "~2 metres"
 done:
   country_cleanup: 2026-03-29
 score: 0.9

@@ -10,6 +10,11 @@ latitude: 42.708678
 longitude: 19.37439
 title: Montenegro
 type: location
+quick_facts:
+  Population: "620,000"
+  Currency: Euro (non-EU)
+  Tara River Canyon: "1,300 m deep — Europe's deepest"
+  Coastline: "294 km with 117 beaches"
 score: 0.7
 ---
 

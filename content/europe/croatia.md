@@ -9,6 +9,11 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Estación_Principal_de_FF.CC.,_Zagreb,_Croacia,_2014-04-20,_DD_03.JPG
 latitude: 45.1
 longitude: 15.2
+quick_facts:
+  Population: "3.9 million"
+  Currency: Euro (€, adopted 2023)
+  Islands: "Over 1,200 — only 48 inhabited"
+  Coastline: "1,777 km along the Adriatic"
 score: 0.57
 title: Croatia
 type: location

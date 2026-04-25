@@ -3,6 +3,11 @@ title: Suriname
 type: location
 latitude: 4.141303
 longitude: -56.077119
+quick_facts:
+  Population: "620,000"
+  Language: "Dutch official — English and Sranan Tongo widely spoken"
+  Forest Cover: "93% tropical rainforest"
+  Official Language: Dutch — unique in South America
 score: 0.47
 ---
 

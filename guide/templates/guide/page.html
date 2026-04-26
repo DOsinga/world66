@@ -74,13 +74,14 @@
   {% if city_walk_items %}
   <div class="sidebar-walks">
     <div class="sidebar-walks-head">City Walks</div>
-    {% for walk in city_walk_items %}
-    <a href="{{ walk.get_absolute_url }}" class="sidebar-walk-card">
-      <span class="sidebar-walk-num">{{ forloop.counter }}</span>
-      <span class="sidebar-walk-name">{{ walk.title }}</span>
-      <span class="sidebar-walk-arrow">&#8594;</span>
-    </a>
-    {% endfor %}
+    <div class="sidebar-walks-strip" id="sidebar-walks-strip">
+      {% for walk in city_walk_items %}
+      <a href="{{ walk.get_absolute_url }}" class="sidebar-walk-card">
+        <span class="sidebar-walk-num">{{ forloop.counter }}</span>
+        <span class="sidebar-walk-name">{{ walk.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
   </div>
   {% endif %}
 
@@ -379,7 +380,7 @@
   <h2 class="section-block-heading">Sections</h2>
 <div class="sections-row">
   {% for s in sections %}
-  {% if s.slug != "vibes" and s.slug != "neighbourhoods" %}
+  {% if s.slug != "vibes" and s.slug != "neighbourhoods" and s.slug != "city_walks" %}
   <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
     <div class="section-card-icon"></div>
     <div class="section-card-name">{{ s.title }}</div>

@@ -149,10 +149,8 @@ class Page:
                     continue
                 if page.page_type in NAV_TYPES:
                     nav_pages.append(page)
-                elif page.page_type == "poi":
+                elif page.meta.get("type") == "poi":
                     pois.append(page)
-                elif page.page_type == "walk":
-                    pass  # walks surface via city_walks section, not as locations
                 else:
                     locations.append(page)
 
@@ -234,7 +232,7 @@ def build_city_tag_index(city_path):
         if not result:
             continue
         meta, _ = result
-        if meta.get("type") not in ("poi", "walk"):
+        if meta.get("type") not in ("poi", "walk", "vibe", "neighbourhood"):
             continue
         raw_tags = meta.get("tags", [])
         if isinstance(raw_tags, str):
@@ -273,7 +271,14 @@ def _load_page_from_file(file_path, url_path):
     meta, body = result
     slug = file_path.stem
     title = meta.get("title", slug)
-    page_type = meta.get("type", "location")
+    raw_type = meta.get("type", "location")
+    # POIs with a category of walk/vibe/neighbourhood/theme use the category as
+    # their effective page_type so all existing template/view logic still works.
+    category = meta.get("category", "")
+    if raw_type == "poi" and category in ("walk", "vibe", "neighbourhood", "theme"):
+        page_type = category
+    else:
+        page_type = raw_type
     return Page(
         slug=slug, path=url_path, title=title,
         page_type=page_type, body=body, meta=meta,

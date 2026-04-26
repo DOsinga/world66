@@ -110,10 +110,10 @@ def location_or_section(request, path):
 
     nav_pages, locations, pois = page.children()
 
-    # Separate neighbourhood, vibe, and walk pages from nav pages so they render as
-    # dedicated strips on the city page rather than in the sidebar sections list.
+    # Separate neighbourhood and legacy vibe pages from nav pages.
+    # New-style vibes/walks are type:poi so they're already in pois, not nav_pages.
     neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
-    vibe_items = [p for p in nav_pages if p.page_type == "vibe"]
+    legacy_vibe_items = [p for p in nav_pages if p.page_type == "vibe"]
     nav_pages = [p for p in nav_pages if p.page_type not in ("neighbourhood", "vibe")]
 
     # Build the city tag index once so all tagged_pois() calls reuse it.
@@ -125,6 +125,11 @@ def location_or_section(request, path):
     )
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
+
+    # Merge legacy nav-based vibes (type:vibe) with new tag-indexed vibes (type:poi+category:vibe)
+    tag_vibe_items = city_tag_index.get("vibes", []) if city_tag_index else []
+    seen_vibe_paths = {p.path for p in legacy_vibe_items}
+    vibe_items = legacy_vibe_items + [p for p in tag_vibe_items if p.path not in seen_vibe_paths]
 
     # Walks tagged city_walks — shown as sidebar cards on the city page
     city_walk_items = city_tag_index.get("city_walks", []) if city_tag_index else []

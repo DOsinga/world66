@@ -1,8 +1,8 @@
 ---
 duration: 2h
 image: twin_peaks_sunset.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:San_Francisco_from_Twin_Peaks.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Twin_peaks_San_Francisco_Golden_Hour.jpg
 neighbourhood: Twin Peaks
 pois:
 - northamerica/unitedstates/california/sanfrancisco/twin_peaks

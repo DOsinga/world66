@@ -1,8 +1,8 @@
 ---
 duration: 2h
 image: chinatown_morning.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:San_Francisco_Chinatown.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dragon_Gate,_Chinatown,_SF_front.JPG
 neighbourhood: Chinatown
 pois:
 - northamerica/unitedstates/california/sanfrancisco/golden_gate_fortune_cookie_factory

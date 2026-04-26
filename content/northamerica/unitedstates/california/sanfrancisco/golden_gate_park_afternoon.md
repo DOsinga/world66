@@ -1,8 +1,8 @@
 ---
 duration: 4h
 image: golden_gate_park_afternoon.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:De_Young_Museum.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Japanese_Tea_Garden,_San_Francisco.jpg
 neighbourhood: Golden Gate Park
 pois:
 - northamerica/unitedstates/california/sanfrancisco/golden_gate_park

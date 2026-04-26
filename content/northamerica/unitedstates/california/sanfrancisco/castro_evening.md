@@ -2,7 +2,7 @@
 duration: 4h
 image: castro_evening.jpg
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Castro_Theatre,_San_Francisco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Castro_Theatre_in_San_Francisco.JPG
 neighbourhood: Castro District
 pois:
 - northamerica/unitedstates/california/sanfrancisco/castro_district

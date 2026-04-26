@@ -2,7 +2,7 @@
 duration: 3h
 image: haight_wander.jpg
 image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Haight-Ashbury_street,_San_Francisco.jpg
 neighbourhood: Haight-Ashbury
 pois:
 - northamerica/unitedstates/california/sanfrancisco/haight_ashbury

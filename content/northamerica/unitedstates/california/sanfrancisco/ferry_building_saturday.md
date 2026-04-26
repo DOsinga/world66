@@ -2,7 +2,7 @@
 duration: 3h
 image: ferry_building_saturday.jpg
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:San_Francisco_Ferry_Building.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ferry_Building_-_San_Francisco_-_California.jpg
 neighbourhood: Embarcadero
 pois:
 - northamerica/unitedstates/california/sanfrancisco/ferry_building

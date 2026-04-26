@@ -167,6 +167,14 @@
 </div>
 {% endif %}
 
+{% if page.page_type == "walk" and walk_waypoints %}
+<ol class="walk-waypoints">
+  {% for wp in walk_waypoints %}
+  <li><a href="{{ wp.get_absolute_url }}">{{ wp.title }}</a></li>
+  {% endfor %}
+</ol>
+{% endif %}
+
 {% if page.meta.quote %}
 <blockquote class="pull-quote">{{ page.meta.quote }}</blockquote>
 {% endif %}
@@ -408,12 +416,18 @@
 (function() {
   {% if is_continent %}
   initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
+  {% elif page.page_type == "walk" %}
+  var walkRoute = {{ walk_route }};
+  var walkWaypoints = [{% for wp in walk_waypoints %}{"lat":{% if wp.meta.latitude %}{{ wp.meta.latitude }}{% else %}null{% endif %},"lng":{% if wp.meta.longitude %}{{ wp.meta.longitude }}{% else %}null{% endif %},"title":"{{ wp.title|escapejs }}"}{% if not forloop.last %},{% endif %}{% endfor %}];
+  var sideMap = initWalkMap('sidebar-map', walkRoute, walkWaypoints);
+  var fullMarkers = null;
   {% else %}
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
   }
+  {% endif %}
 
   // Expand / collapse the sidebar map
   var expandBtn = document.getElementById('sidebar-map-expand');
@@ -423,18 +437,15 @@
       var expanded = mapCard.classList.toggle('sidebar-map-expanded');
       expandBtn.innerHTML = expanded ? '&#x2715;' : '&#x26F6;';
       expandBtn.title     = expanded ? 'Collapse map' : 'Expand map';
-      if (expanded) {
-        var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
-        mapCard.style.top = navH + 'px';
+      var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
+      mapCard.style.top = expanded ? navH + 'px' : '';
+      if (fullMarkers) {
         sideMap._setMarkers(fullMarkers);
       } else {
-        mapCard.style.top = '';
-        sideMap._setMarkers(fullMarkers);
+        sideMap.invalidateSize();
       }
     });
   }
-
-  {% endif %}
 })();
 </script>
 {% endblock %}

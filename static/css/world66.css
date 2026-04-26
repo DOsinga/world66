@@ -2100,6 +2100,52 @@ img { max-width: 100%; height: auto; }
   }
 }
 
+/* ---- Walk page ---- */
+
+.walk-waypoints {
+  margin: 20px 0;
+  padding-left: 0;
+  list-style: none;
+  counter-reset: waypoint;
+}
+
+.walk-waypoints li {
+  counter-increment: waypoint;
+  padding: 6px 0 6px 36px;
+  position: relative;
+  border-bottom: 1px solid var(--border);
+}
+
+.walk-waypoints li::before {
+  content: counter(waypoint);
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  background: var(--red);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.walk-marker {
+  background: var(--red);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: bold;
+  width: 24px !important;
+  height: 24px !important;
+  line-height: 24px;
+  text-align: center;
+}
+
 /* ---- POI image inspiration strip ---- */
 
 .poi-strip-label {

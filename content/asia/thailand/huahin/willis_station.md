@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Willi's Station
-type: European
+type: poi
 url: www.willys-station.ch
 ---
 

@@ -1,11 +1,10 @@
 ---
-title: "Eating Out"
-type: section
-address: "rua 3 Setembro"
-phone: "00351262990091"
-type: "Portuguese"
+address: rua 3 Setembro
 latitude: -2.522559
 longitude: -44.23924
+phone: 00351262990091
+title: Eating Out
+type: poi
 ---
 
 ### [O Remo](/europe/portugal/nazare/eatingout/o_remo)

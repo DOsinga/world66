@@ -1,10 +1,9 @@
 ---
-title: "Eating Out"
-type: section
-accessibility: "main road kampala"
-address: "opp city sq, next crane bank"
-price: "as above"
-type: "African"
+accessibility: main road kampala
+address: opp city sq, next crane bank
+price: as above
+title: Eating Out
+type: poi
 ---
 
 1. **Kampala Carnivos - Crocodile Meat

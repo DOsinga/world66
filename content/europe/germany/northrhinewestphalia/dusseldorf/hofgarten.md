@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Hofgarten
-type: Parks, Gardens and Zoos
+type: poi
 ---
 
 The largest of Dusseldorf's parks is the Hofgarten, shaped like a great

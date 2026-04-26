@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - museum
 title: Museo de los Ninos
-type: Museums
+type: poi
 ---
 
 type: Museums

@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - museum
 title: RUGBY MUSEUM
-type: general
+type: poi
 ---
 
 The largest rugby museum in the world housing a valuable collection of momentos dating

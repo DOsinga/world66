@@ -5,7 +5,7 @@ phone: (520)628-5774
 tags:
 - sights
 title: Arizona Historical Society
-type: Hotspots
+type: poi
 ---
 
 Arizona Historical Society

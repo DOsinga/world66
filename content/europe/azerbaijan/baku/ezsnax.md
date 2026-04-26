@@ -8,7 +8,7 @@ tags:
 - eating_out
 - restaurant
 title: Ez-Snax
-type: Fast food
+type: poi
 url: ez-snax.com
 ---
 

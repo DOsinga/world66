@@ -2,7 +2,7 @@
 tags:
 - shopping
 title: Landmark Plaza
-type: Shopping centers and malls
+type: poi
 ---
 
 Located in the northen side of the city, near the ASIAN GAMES new stadioum ... its nice and has a lot of the worlds brands ... many coffee shops.

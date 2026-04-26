@@ -2,7 +2,7 @@
 tags:
 - sights
 title: Pasupathinath Temple
-type: Landmarks
+type: poi
 ---
 
 The holiest of all The Pashupathinath Temple where Pashu means

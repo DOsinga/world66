@@ -2,7 +2,7 @@
 tags:
 - sights
 title: Blowing Hole
-type: Hotspots
+type: poi
 ---
 
 A natural geyser carved in the rock, it can shoot stream of water of up to 15 meters depending on how hard the waves hit the shore

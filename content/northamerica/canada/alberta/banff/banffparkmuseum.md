@@ -6,7 +6,7 @@ tags:
 - museum
 - park
 title: Banff Park Museum .
-type: general
+type: poi
 ---
 
 Western Canada's oldest natural history museum presents wildlife displays of the birds and mammals found in Banff National Park. The building itself, a designated Canadian historic site, illustrates an unusual style of architecture called "e;railroad pagoda"e;. Open year-round. 

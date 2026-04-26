@@ -5,7 +5,7 @@ price: as above
 tags:
 - eating_out
 title: cafe viva
-type: African
+type: poi
 ---
 
 ** Uganda : Café Viva's New Look And Service **

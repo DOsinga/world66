@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - landmark
 title: Highlights of Ancient Ephesus
-type: Hotspots
+type: poi
 url: www.turkeytravelservice.com
 ---
 

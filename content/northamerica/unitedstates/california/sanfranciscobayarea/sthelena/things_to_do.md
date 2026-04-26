@@ -1,7 +1,6 @@
 ---
-title: "Things to do in St. Helena"
-type: section
-type: "general"
+title: Things to do in St. Helena
+type: poi
 ---
 
 ### [Charles Krug Winery](/northamerica/unitedstates/california/sanfranciscobayarea/sthelena/thingstodo/charleskrugwinery)

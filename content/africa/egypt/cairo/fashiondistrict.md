@@ -8,7 +8,6 @@ tags:
 - shopping
 - shop
 - market
-- neighbourhood
 title: Fashion District
 type: poi
 ---

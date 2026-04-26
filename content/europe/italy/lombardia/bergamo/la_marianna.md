@@ -8,7 +8,7 @@ tags:
 - park
 - cafe
 title: La Marianna
-type: Italian
+type: poi
 url: www.lamarianna.it
 ---
 

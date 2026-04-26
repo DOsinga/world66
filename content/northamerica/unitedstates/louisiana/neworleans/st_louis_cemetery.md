@@ -4,7 +4,7 @@ phone: 504-525-3377 or 888-721-7493
 tags:
 - things_to_do
 title: St. Louis Cemetery Tours
-type: Other
+type: poi
 url: www.saveourcemeteries.org
 ---
 

@@ -6,7 +6,6 @@ longitude: 8.5195
 snippet: Centuries-old trading hub in Kano's Old City
 tags:
 - things_to_do
-- neighbourhood
 title: Kurmi Market
 type: poi
 ---

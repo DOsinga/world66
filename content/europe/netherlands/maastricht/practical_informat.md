@@ -1,6 +1,6 @@
 ---
 title: Practical Information
-type: neighbourhood
+type: section
 ---
 
 There is a site with all kind of usefull/es info in English on Maastricht, and you can add and change everything tourself too, the address is http://www.wikimaas.tk

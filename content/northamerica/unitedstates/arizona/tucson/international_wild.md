@@ -4,7 +4,7 @@ phone: (520) 629-0100
 tags:
 - sights
 title: International Wildlife Museum
-type: Parks, Gardens and Zoos
+type: poi
 url: www.thewildlifemuseum.org
 ---
 

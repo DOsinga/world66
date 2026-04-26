@@ -1,7 +1,7 @@
 ---
 category: Sight
 title: Red Square (Krasnaya Ploshchad)
-type: Squares
+type: poi
 ---
 
 Everyone visiting Moscow has to visit it's heart - Red Square. It is one of most famous places not only in Moscow but in Russia.

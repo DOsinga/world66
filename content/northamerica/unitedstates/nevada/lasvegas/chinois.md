@@ -8,7 +8,7 @@ tags:
 - restaurant
 - palace
 title: Chinois
-type: Japanese
+type: poi
 url: www.wolfgangpuck.com
 ---
 

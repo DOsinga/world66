@@ -6,7 +6,7 @@ phone: 504-581-4629 or 800-774-7394
 tags:
 - things_to_do
 title: Audubon Zoo
-type: Other
+type: poi
 url: www.auduboninstitute.org
 ---
 

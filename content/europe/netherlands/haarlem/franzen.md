@@ -6,7 +6,7 @@ phone: 023-53328730
 tags:
 - eating_out
 title: Franzen
-type: general
+type: poi
 ---
 
 One of the nicest French style restuarants in the center. On fridays you should reserve.

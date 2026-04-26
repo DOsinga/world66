@@ -4,7 +4,7 @@ longitude: 83.872959
 tags:
 - sights
 title: Old Royal Palace
-type: general
+type: poi
 ---
 
 the old Royal Palace has the best view of the city.

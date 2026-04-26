@@ -9,7 +9,7 @@ tags:
 - eating_out
 - restaurant
 title: Da Vittorio a Brusaporto
-type: Italian
+type: poi
 url: davittorio.com
 ---
 

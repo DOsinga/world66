@@ -8,7 +8,7 @@ tags:
 - shop
 - neighbourhood
 title: Gucci Headquarters
-type: Speciality shops
+type: poi
 url: www.gucci.com
 ---
 

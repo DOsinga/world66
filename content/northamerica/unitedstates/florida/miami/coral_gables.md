@@ -11,9 +11,8 @@ story: 'Developer George Merrick spent $100 million in 1920s dollars to build Co
   '
 tags:
 - things_to_do
-- neighbourhood
 title: Coral Gables
-type: poi
+type: neighbourhood
 ---
 
 Coral Gables is Miami's most architecturally cohesive neighbourhood — a planned "City Beautiful" developed in the 1920s by George Merrick with Mediterranean Revival buildings, broad tree-lined boulevards, and ornamental gateways. The Biltmore Hotel, a 1926 landmark with a tower modelled on the Giralda in Seville, dominates the skyline and is worth a visit even if you are not staying there — take the free Sunday tour.

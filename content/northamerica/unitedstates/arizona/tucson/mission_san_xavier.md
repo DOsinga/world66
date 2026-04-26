@@ -7,7 +7,7 @@ phone: (520) 294-2624
 tags:
 - sights
 title: Mission San Xavier del Bac
-type: Memorials
+type: poi
 url: www.sanxaviermission.org
 ---
 

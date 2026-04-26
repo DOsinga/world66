@@ -4,7 +4,7 @@ tags:
 - shopping
 - shop
 title: Broadway Shopping Centre
-type: Shopping centers and malls
+type: poi
 url: www.broadway-centre.com.au
 zipcode: '2007'
 ---

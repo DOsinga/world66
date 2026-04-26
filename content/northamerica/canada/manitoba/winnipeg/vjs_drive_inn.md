@@ -6,7 +6,7 @@ phone: 1 (204) 943-2655
 tags:
 - eating_out
 title: VJ's Drive Inn
-type: Fast food
+type: poi
 ---
 
 Classic hamburger joint. Sloppy and delicious.

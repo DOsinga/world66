@@ -9,7 +9,7 @@ tags:
 - ibizatown
 - shopping
 title: Bite Me de Ibiza
-type: Speciality shops
+type: poi
 ---
 
 Delicious gift boutique ...

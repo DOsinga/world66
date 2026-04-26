@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Boulder's Beach
-type: Landmarks
+type: poi
 ---
 
 This is a wonderful place to visit penguins. Enjoy it!!

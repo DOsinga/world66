@@ -9,7 +9,7 @@ tags:
 - beach
 - bar
 title: Let's Sea
-type: Thai
+type: poi
 url: www.letussea.com
 ---
 

@@ -1,12 +1,29 @@
 ---
+address: 34 Le Duan St., Ho Chi Minh City, Vietnam
+latitude: 11.059565
+longitude: 106.684622
+opening_hours: 10:00am - 9:00pm
+phone: 08/822-7897
+tags:
+- things_to_do
+- square
+- restaurant
 title: Diamond Plaza
 type: poi
-snippet: "Modern department store with shopping and entertainment"
-address: 34 Le Duan St., District 1, Ho Chi Minh City
-latitude: 10.7828
-longitude: 106.6990
-tags:
-- shopping
 ---
 
-A modern department store on Le Duan Boulevard in District 1, close to the Notre-Dame Cathedral and the Central Post Office. Three floors of shopping plus restaurants, a bowling alley, and a cinema. Not the most characterful shopping in Saigon — for that, head to Ben Thanh Market — but it's air-conditioned and convenient when you need a break from the heat. Open daily 10am to 9pm.
+Department Store, District 1
+
+Diamond Plaza, a shiny, modern department store complex, has three floors of shopping as well as restaurants, a bowling alley, and Saigon's first Western-style cinema.
+
+type: Hotspots
+
+
+
+
+
+tel: 08/822-7897
+
+openingHours: 10:00am - 9:00pm
+
+address: 34 Le Duan St., Ho Chi Minh City, Vietnam

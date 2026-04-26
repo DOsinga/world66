@@ -2,7 +2,7 @@
 tags:
 - sights
 title: Jagnath Temple
-type: general
+type: poi
 ---
 
 Be sure to stop at the Jagnath Temple to see the erotic carvings.

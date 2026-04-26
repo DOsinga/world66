@@ -8,7 +8,7 @@ price: from 45 to 90 euro's
 tags:
 - eating_out
 title: De Bokkedoorns
-type: First Class
+type: poi
 url: www.bokkedoorns.nl
 ---
 

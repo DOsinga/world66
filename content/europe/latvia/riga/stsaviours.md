@@ -2,7 +2,7 @@
 tags:
 - things_to_do
 title: St. Saviour's.
-type: Churches
+type: poi
 ---
 
 Anglikanu 2a.

@@ -8,7 +8,7 @@ price: $17 to $34 dinner
 tags:
 - eating_out
 title: Restaurant La Vieille Gare
-type: French
+type: poi
 url: www.lavieillegare.com
 ---
 

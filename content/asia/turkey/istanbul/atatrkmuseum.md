@@ -2,8 +2,8 @@
 address: Halaskargazi Cd. No:250, Şişli, Istanbul
 done:
   poi_cleanup: '2026-04-20'
-latitude: 41.045
-longitude: 29.005
+latitude: 41.049
+longitude: 28.987
 snippet: Atatürk's pre-independence residence preserved as a museum
 tags:
 - things_to_do

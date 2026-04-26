@@ -7,7 +7,7 @@ phone: 379 3878
 tags:
 - bars_and_cafes
 title: Parnell
-type: Clubs and dancing
+type: poi
 ---
 
 Parnell is a very happening place to be late on a wednesday evening. Best club to date is the Vanilla Bar. Drink specials, superb RnB music to move to. Open 9pm till 3am. Not too shabby! Bullfish was once the place to be, George Bar was good but now also closed.

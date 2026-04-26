@@ -6,7 +6,6 @@ snippet: Friendly Castro neighbourhood bar, lively on weekends
 tags:
 - bars_and_cafes
 - bar
-- neighbourhood
 title: Moby Dick
 type: poi
 ---

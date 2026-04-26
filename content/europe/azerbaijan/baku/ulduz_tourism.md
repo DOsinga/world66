@@ -3,7 +3,7 @@ phone: +98-912-6905440
 tags:
 - things_to_do
 title: ulduz tourism
-type: Hotspots
+type: poi
 url: WWW.ULDUZTOURISM.COM
 ---
 

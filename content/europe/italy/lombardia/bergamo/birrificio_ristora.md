@@ -9,7 +9,7 @@ tags:
 - restaurant
 - bar
 title: Birrificio Ristorante Pizzeria Maivisto
-type: Italian
+type: poi
 url: www.maivisto.info
 ---
 

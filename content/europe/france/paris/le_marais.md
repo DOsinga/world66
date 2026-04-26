@@ -8,7 +8,11 @@ tags:
 - things_to_do
 - shopping
 title: Le Marais
-type: poi
+type: neighbourhood
+image: le_marais.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Chez_Marianne_(Le_Marais_Paris)_01.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Zantastik
 ---
 
 Le Marais is Paris's most rewarding neighbourhood for an unstructured afternoon of wandering. Centred on the 3rd and 4th arrondissements, it escaped Haussmann's 19th-century demolitions almost entirely, so its medieval street pattern survives intact: narrow lanes, Renaissance mansions (hôtels particuliers), and quiet courtyards around every corner.

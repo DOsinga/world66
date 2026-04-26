@@ -4,7 +4,7 @@ longitude: -78.496328
 tags:
 - sights
 title: Monumento Rocafuerte
-type: Memorials
+type: poi
 ---
 
 Is a great place to visit and take nice pictures.

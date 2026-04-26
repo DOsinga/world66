@@ -10,7 +10,7 @@ tags:
 - market
 - neighbourhood
 title: St. Lawrence Market
-type: Markets
+type: poi
 url: www.stlawrencemarket.com
 ---
 

@@ -6,7 +6,7 @@ phone: 351. 052. 642814
 tags:
 - eating_out
 title: Crisupa
-type: general
+type: poi
 ---
 
 Quality cuisine with personalized attention, Crisupa is the preferred restaurant of the locals.

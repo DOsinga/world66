@@ -5,7 +5,7 @@ tags:
 - shopping
 - shop
 title: flower
-type: Shopping centers and malls
+type: poi
 ---
 
 ** Gifts to Hyderabad, Flowers to Hyderabad, Cakes to Hyderabad,Same Day delivery all over Hyderabad**

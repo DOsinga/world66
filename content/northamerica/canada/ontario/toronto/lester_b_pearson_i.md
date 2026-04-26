@@ -2,7 +2,7 @@
 tags:
 - getting_there
 title: Lester B Pearson International Airport
-type: By Air
+type: poi
 url: www.gtaa.com
 ---
 

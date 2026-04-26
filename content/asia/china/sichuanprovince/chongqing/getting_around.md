@@ -1,7 +1,6 @@
 ---
-title: "Getting Around"
-type: section
-type: "general"
+title: Getting Around
+type: poi
 ---
 
 ### Bicycle

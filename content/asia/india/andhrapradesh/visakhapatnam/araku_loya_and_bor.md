@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - landmark
 title: ARAKU LOYA and BORRA CAVES
-type: Hotspots
+type: poi
 ---
 
 ARAKU LOYA and BORRA CAVES - One of the familiar places in VISAKHAPATNAM. Both are really a mind-blowing locations. Nice Handicraft works can be seen in Araku Loya and Slow Water Falls can be found in Borra Caves and ofcourse, inside Borra Caves, we can find RESOUND attraction as well nice scenary.

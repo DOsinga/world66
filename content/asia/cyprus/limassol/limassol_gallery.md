@@ -9,7 +9,7 @@ tags:
 - things_to_do
 - museum
 title: Silks Gallery
-type: Landmarks
+type: poi
 url: www.SILKSGALLERY.com
 zipcode: '4047'
 ---

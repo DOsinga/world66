@@ -1,7 +1,6 @@
 ---
-title: "Getting There"
-type: section
-type: "By Road"
+title: Getting There
+type: poi
 ---
 
 Gulbarga does not have an airport of its own.

@@ -1,11 +1,10 @@
 ---
-title: Old Town
-type: poi
-latitude: 24.5530
-longitude: 9.4870
+latitude: 24.553
+longitude: 9.487
 tags:
 - things_to_do
-- neighbourhood
+title: Old Town
+type: neighbourhood
 ---
 
 Djanet's old quarter sits at the base of the dark sandstone cliffs, a cluster of traditional Tuareg and Saharan houses built from stone and earth. The narrow streets are quieter than the modern part of town, and the gardens here — irrigated by ancient channels from the springs — produce dates, vegetables, and fruit in the middle of the desert.

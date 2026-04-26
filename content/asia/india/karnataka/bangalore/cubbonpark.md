@@ -4,7 +4,7 @@ longitude: 77.592191
 tags:
 - things_to_do
 title: Cubbon park
-type: Parks
+type: poi
 ---
 
 Both worth a visit for its natural richness and the buildings in the park, this place is worth a visit. See also the section on Museums.

@@ -4,7 +4,7 @@ longitude: 118.789295
 tags:
 - things_to_do
 title: Zheng He Park
-type: Around Kunming
+type: poi
 ---
 
 Located in Kunyang of Jinning County, Zheng He Park is 60 kilometers south of Kunming. The park, built in 1980, covers an area of 250 hectares. It is a memorial garden built in honor of Zheng He, the great navigator of the Ming Dynasty. 

@@ -1,9 +1,8 @@
 ---
-title: "Sights in San Miguel de Allende"
-type: section
-accessibility: "Everyone"
-type: "Hotspots"
-url: "www.sanmigueldeallende.com"
+accessibility: Everyone
+title: Sights in San Miguel de Allende
+type: poi
+url: www.sanmigueldeallende.com
 ---
 
 Sights for San Miguel de Allende coming soon.

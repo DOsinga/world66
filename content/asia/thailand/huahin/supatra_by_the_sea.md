@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Supatra by the Sea
-type: Thai
+type: poi
 url: www.supatraresort.com
 ---
 

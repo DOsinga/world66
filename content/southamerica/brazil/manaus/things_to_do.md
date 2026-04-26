@@ -1,11 +1,10 @@
 ---
-title: "Things to do"
-type: section
-address: "Rua dos Andrade 464, first floor, Manaus-Center"
-email: "eco-discovery@bol.com.br"
-phone: "55-(92) xx 3082 4732"
-type: "Trekking"
-url: "wikitravel.org"
+address: Rua dos Andrade 464, first floor, Manaus-Center
+email: eco-discovery@bol.com.br
+phone: 55-(92) xx 3082 4732
+title: Things to do
+type: poi
+url: wikitravel.org
 ---
 
 hi From Manaus you can start programs to the four main points of the Amazon area. In the south Mamori, Juma e Janauacá. In the extreme north Presidente Figueiredo. In the east the national park Jaú and Rio Negro. In the west Rio Urubu, represented by a vegetation bulk, being composed for dense tropical forest or open forests.

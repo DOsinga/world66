@@ -9,7 +9,6 @@ phone: 646-645-5782
 snippet: Deeply researched neighbourhood walks of Manhattan and Brooklyn
 tags:
 - things_to_do
-- neighbourhood
 title: Gotham Walking Tours
 type: poi
 url: www.walkingnyctours.com

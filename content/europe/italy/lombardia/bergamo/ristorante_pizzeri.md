@@ -9,7 +9,7 @@ tags:
 - eating_out
 - restaurant
 title: Ristorante Pizzeria 'Da Franco'
-type: Italian
+type: poi
 url: www.dafrancobergamo.it
 ---
 

@@ -11,7 +11,6 @@ tags:
 - bar
 - theatre
 - cafe
-- neighbourhood
 title: Emerson's Cafe
 type: poi
 ---

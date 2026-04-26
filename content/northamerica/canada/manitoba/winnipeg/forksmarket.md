@@ -4,7 +4,7 @@ longitude: -97.130454
 tags:
 - eating_out
 title: Forks Market
-type: African
+type: poi
 ---
 
 Grazer's heaven; numerous specialty kiosks feature a variety of food delights. Six of the city's top restaurants are also here.

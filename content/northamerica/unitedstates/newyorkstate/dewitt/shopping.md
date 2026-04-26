@@ -5,7 +5,7 @@ done:
 latitude: 43.052621
 longitude: -76.111288
 title: Shopping
-type: Shopping centers and malls
+type: poi
 zipcode: '13214'
 ---
 

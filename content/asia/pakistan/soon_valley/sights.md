@@ -1,12 +1,11 @@
 ---
-title: "Sights in Soon Valley"
-type: section
-address: "Gulfishan Colony"
-email: "mallick101@gmail.com"
-phone: "04126050342"
-type: "Hotspots"
+address: Gulfishan Colony
+email: mallick101@gmail.com
 latitude: 31.546556
 longitude: 74.292981
+phone: '04126050342'
+title: Sights in Soon Valley
+type: poi
 ---
 
 **UCHHALI**

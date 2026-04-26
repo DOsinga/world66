@@ -1,12 +1,11 @@
 ---
-title: "Eating Out"
-type: section
-address: "7772 Regional Street"
-phone: "(925) 803-8485"
-type: "Italian"
-url: "ww6.pastaprimaveracafe.com"
+address: 7772 Regional Street
 latitude: 37.704413
 longitude: -121.934432
+phone: (925) 803-8485
+title: Eating Out
+type: poi
+url: ww6.pastaprimaveracafe.com
 ---
 
 There are many fine choices:

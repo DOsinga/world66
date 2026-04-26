@@ -2,7 +2,7 @@
 tags:
 - eating_out
 title: Commensal, Le.
-type: general
+type: poi
 ---
 
 Vegetarian restaurant

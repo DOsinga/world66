@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Pasta Factory
-type: International
+type: poi
 url: www.pasta-factory-huahin.com
 ---
 

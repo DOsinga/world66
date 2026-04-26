@@ -8,7 +8,7 @@ tags:
 - eating_out
 - restaurant
 title: San Vigilio Restaurant and Pizzeria
-type: Italian
+type: poi
 ---
 
 Beautiful view and located at the top of the funicular from Città Alta to San Vigilio. Closed Wednesday.

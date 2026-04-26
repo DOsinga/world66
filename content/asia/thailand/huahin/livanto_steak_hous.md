@@ -7,7 +7,7 @@ tags:
 - cafe
 - bar
 title: Livanto Thai & European Restaurant
-type: European
+type: poi
 url: www.livantohuahin.com
 ---
 

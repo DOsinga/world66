@@ -4,7 +4,7 @@ longitude: 103.751245
 tags:
 - things_to_do
 title: Alu Ancient Cave
-type: Around Kunming
+type: poi
 ---
 
 Located 200 kilometers southeast of Kunming, the Alu Ancient Caves is an amazing natural labyrinth formed over a 100 million years ago. The area was originally covered by sea and became a landmass during the formation of the earth's crust. As a result, the rich calcium deposits from the sea turned into lime. Rainwater containing carbon dioxide eroded the lime and formed numerous holes and fractures. Over the time, these holes and fractures expanded, and through millions of years of weathering, they finally turned into caves and passages of varied shapes. 

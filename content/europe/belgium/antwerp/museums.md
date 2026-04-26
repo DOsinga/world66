@@ -1,11 +1,10 @@
 ---
-title: "Museums"
-type: section
-address: "Suikerrui 19"
-phone: "03.220.8600"
-type: "Hotspots"
+address: Suikerrui 19
 latitude: 51.221109
 longitude: 4.398273
+phone: 03.220.8600
+title: Museums
+type: poi
 ---
 
 There are many great museums in Antwerp.

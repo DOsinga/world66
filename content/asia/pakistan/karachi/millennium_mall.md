@@ -7,7 +7,7 @@ tags:
 - shop
 - park
 title: Millennium Mall
-type: Shopping centers and malls
+type: poi
 ---
 
 Centrally Air Conditioned: Sometimes

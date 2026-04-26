@@ -9,7 +9,6 @@ snippet: Lively Ipanema bar with nightly live music
 tags:
 - bars_and_cafes
 - bar
-- neighbourhood
 title: Waxy's Bar
 type: poi
 ---

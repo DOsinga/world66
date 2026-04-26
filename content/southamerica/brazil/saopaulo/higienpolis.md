@@ -5,7 +5,7 @@ longitude: -53.08595
 tags:
 - shopping
 title: Higienópolis
-type: Shopping centers and malls
+type: poi
 ---
 
 flowers

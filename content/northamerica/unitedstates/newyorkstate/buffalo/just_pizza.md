@@ -4,7 +4,7 @@ price: variable, depending on what you order
 tags:
 - eating_out
 title: Just Pizza
-type: Italian
+type: poi
 url: artvoice.com
 ---
 

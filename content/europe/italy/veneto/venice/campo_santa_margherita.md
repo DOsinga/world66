@@ -10,9 +10,8 @@ tags:
 - market
 - square
 - cafe
-- neighbourhood
 title: Campo Santa Margherita
-type: poi
+type: neighbourhood
 ---
 
 The large, lively square in Dorsoduro that functions as Venice's neighbourhood living room — lined with market stalls in the morning, cafes and student bars through the day and evening. Less touristic than San Marco and more animated than most of the city after dark. The surrounding streets contain some of the best independent restaurants in Venice.

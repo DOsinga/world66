@@ -1,11 +1,10 @@
 ---
-title: "Practical Information"
-type: section
-address: "Monterrico, Guatemala"
-email: "casapelicanos@yahoo.com"
-phone: "57079465-56461765"
-type: "Tourist information"
-url: "www.pelicanosguatemala.com"
+address: Monterrico, Guatemala
+email: casapelicanos@yahoo.com
+phone: 57079465-56461765
+title: Practical Information
+type: poi
+url: www.pelicanosguatemala.com
 ---
 
 **Hotel "Café del Sol"**

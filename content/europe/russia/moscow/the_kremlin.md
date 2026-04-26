@@ -4,7 +4,7 @@ category: Sight
 latitude: 55.751621
 longitude: 37.618122
 title: The Kremlin
-type: Landmarks
+type: poi
 url: www.kreml.ru
 ---
 

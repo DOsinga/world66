@@ -7,7 +7,7 @@ phone: +34 94 4396 060
 tags:
 - things_to_do
 title: Museo de Bellas Artes (Museum of Fine Arts)
-type: Hotspots
+type: poi
 url: www.museobilbao.com
 ---
 

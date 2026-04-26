@@ -6,7 +6,6 @@ longitude: 98.9627
 snippet: Weekly hill tribe market near the bus station, genuinely local
 tags:
 - things_to_do
-- neighbourhood
 title: Tuesday Market
 type: poi
 ---

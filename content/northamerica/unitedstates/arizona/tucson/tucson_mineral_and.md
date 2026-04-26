@@ -4,7 +4,7 @@ phone: 520-883-0682
 tags:
 - sights
 title: Tucson Mineral and Gem World
-type: Parks, Gardens and Zoos
+type: poi
 url: www.tucsonmineral.com
 ---
 

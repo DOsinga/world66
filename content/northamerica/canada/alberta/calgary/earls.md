@@ -6,7 +6,7 @@ tags:
 - restaurant
 - bar
 title: Earls
-type: Lunch
+type: poi
 ---
 
 FOOOD! Has a great variety of foods to fit your needs.Is equipped with

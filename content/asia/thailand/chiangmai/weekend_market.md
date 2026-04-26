@@ -5,7 +5,7 @@ longitude: 98.99327
 tags:
 - shopping
 title: Weekend Market
-type: Markets
+type: poi
 ---
 
 Held on Sundays just outside Tapae Gate, this weekend market brings the

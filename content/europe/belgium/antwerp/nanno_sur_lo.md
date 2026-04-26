@@ -5,7 +5,7 @@ tags:
 - bar
 - club
 title: Nanno sur L'o
-type: Clubs and dancing
+type: poi
 url: www.nanno.be
 ---
 

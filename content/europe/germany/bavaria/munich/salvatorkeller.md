@@ -6,7 +6,7 @@ phone: +49 (0)89 48 32 74
 tags:
 - bars_and_cafes
 title: Salvator-Keller
-type: Beer Gardens
+type: poi
 ---
 
 type: Beer Gardens

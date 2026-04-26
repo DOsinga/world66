@@ -4,7 +4,7 @@ longitude: 103.324581
 tags:
 - things_to_do
 title: Stone Forest
-type: Around Kunming
+type: poi
 ---
 
 Located in Lunan County, 86 km southeast of Kunming, the Stone Forest is known as "the First Wonder of the World" for its natural landscape and a collection of stone pillars that resemble trees. As the local saying goes, "It is wasted trip if you visit Kunming without going to the Stone Forest ".

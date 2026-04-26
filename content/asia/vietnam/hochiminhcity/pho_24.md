@@ -7,7 +7,7 @@ tags:
 - restaurant
 - neighbourhood
 title: Pho 24
-type: Vietnamese
+type: poi
 ---
 
 takes the country's beloved beef or chicken noodle soup (*pho*),

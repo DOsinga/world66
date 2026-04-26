@@ -1,7 +1,7 @@
 ---
 address: Calçada da Ajuda, Belém
-latitude: 38.699338
-longitude: -9.199729
+latitude: 38.7075
+longitude: -9.1963
 snippet: Unfinished neoclassical royal palace with outstanding decorative arts collection
 tags:
 - things_to_do

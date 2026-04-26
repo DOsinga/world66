@@ -4,7 +4,7 @@ tags:
 - getting_there
 - theatre
 title: Airport Shuttle and Transfers
-type: By Air
+type: poi
 url: bergamo.airports-shuttle.com
 ---
 

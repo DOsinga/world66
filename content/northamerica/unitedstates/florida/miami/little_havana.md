@@ -3,9 +3,8 @@ latitude: 25.7726
 longitude: -80.2146
 tags:
 - things_to_do
-- neighbourhood
 title: Little Havana
-type: poi
+type: neighbourhood
 ---
 
 Little Havana along SW 8th Street — Calle Ocho — is the cultural heart of Miami's Cuban exile community. The main strip runs from about 12th to 27th Avenues, with cigar shops, fruit stands, and ventanitas (walk-up coffee windows) serving cafecitos and cortaditos. Máximo Gómez Park, known as Domino Park, is the iconic spot — elderly Cuban men play dominoes under a shaded pavilion while tourists photograph them.

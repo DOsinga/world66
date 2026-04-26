@@ -8,7 +8,7 @@ tags:
 - shopping
 - shop
 title: PUNEET FLOWERS
-type: Antiques
+type: poi
 ---
 
 **SEND CAKE , FLOWERS, GIFTS TO MUMBAI WITH PUNEET FLOWERS.**

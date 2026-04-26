@@ -13,7 +13,7 @@ tags:
 - park
 - square
 title: Ristorante Lio Pellegrini with One Suite
-type: Italian
+type: poi
 url: www.liopellegrini.it
 ---
 

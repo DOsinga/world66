@@ -8,7 +8,7 @@ phone: +1 520 624 1817
 tags:
 - sights
 title: Edward Nye Fish House
-type: Landmarks
+type: poi
 ---
 
 The Edward Nye Fish House is a prime example of early 19th century Tucson architecture. The home is classically made of adobe (a mixture of mud and bricks) and functions as a museum during normal business hours. Adobe homes are traditional to the southwest and were developed for their cooling effect in this hot desert climate. Specifically, the Edward Nye Fish House houses the Tucson Museum of Art’s Western Art collection. The combination of the unique design of this home with the southwest art on the inside, makes this a must visit for art and culture fans alike. Tucson activities usually involve a direct encounter with an Adobe home!

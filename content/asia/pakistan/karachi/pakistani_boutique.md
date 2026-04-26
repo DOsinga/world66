@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Pakistani Boutique Shop Lehenga & Shalwar Kameez Fashion
-type: Shopping centers and malls
+type: poi
 url: www.fashno.com
 ---
 

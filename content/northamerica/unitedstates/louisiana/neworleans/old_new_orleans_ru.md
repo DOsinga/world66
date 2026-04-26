@@ -8,7 +8,7 @@ phone: '5049459400'
 tags:
 - things_to_do
 title: Old New Orleans Rum Tour
-type: Other
+type: poi
 url: www.neworleansrum.com
 ---
 

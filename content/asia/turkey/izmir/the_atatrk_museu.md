@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: The Ataturk Museum
-type: Hotspots
+type: poi
 ---
 
 The museum is on 1st Kordon ( Atatürk Street ) and it was established as a house by carpet merchant Takfor between 1875-1880. The building was deserted by its owner on September 9th, 1922 and transferred to the ownership of the Treasury. The Turkish army who entered to İzmir used this place as headquarters.

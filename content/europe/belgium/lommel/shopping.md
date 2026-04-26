@@ -1,13 +1,12 @@
 ---
-title: "Shopping in Lommel"
-type: section
-accessibility: "Thursday - Sunday 13:00 -17:00"
-address: "Leuken 14"
-phone: "+32 11665535"
-type: "Antiques"
-url: "www.antiek-anresto.be"
+accessibility: Thursday - Sunday 13:00 -17:00
+address: Leuken 14
 latitude: 51.233408
 longitude: 5.365376
+phone: +32 11665535
+title: Shopping in Lommel
+type: poi
+url: www.antiek-anresto.be
 ---
 
 Antiques

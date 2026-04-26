@@ -6,7 +6,7 @@ phone: 51-26550601
 tags:
 - eating_out
 title: Iffi's
-type: International
+type: poi
 ---
 
 Restaurant/ Bakery

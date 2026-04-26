@@ -8,7 +8,7 @@ longitude: -6.307954
 opening_hours: 09.00 - 17.30
 phone: +353 1 453 5984
 title: Kilmainham Gaol
-type: Hotspots
+type: poi
 url: www.heritageireland.ie
 ---
 

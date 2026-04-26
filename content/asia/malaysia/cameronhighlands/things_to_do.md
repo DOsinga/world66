@@ -2,7 +2,7 @@
 done:
   poi_cleanup: '2026-04-19'
 title: Things to do
-type: Other
+type: poi
 ---
 
 Cameron Highlands is one of those places that you either hate or love. It mainly depends on your expectations of the place.

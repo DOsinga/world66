@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - museum
 title: ARCHIVES
-type: general
+type: poi
 ---
 
 Contains collections of documents and pictures dating

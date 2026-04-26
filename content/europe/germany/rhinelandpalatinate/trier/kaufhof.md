@@ -5,7 +5,7 @@ longitude: 11.079592
 tags:
 - shopping
 title: kaufhof
-type: Shopping centers and malls
+type: poi
 ---
 
 Opening hours and days for the 26th May & 27th May & 28th May

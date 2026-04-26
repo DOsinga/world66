@@ -6,7 +6,7 @@ phone: 408.293.5335
 tags:
 - eating_out
 title: La Victoria Taqueria
-type: Mexican
+type: poi
 url: www.lavicsj.com
 ---
 

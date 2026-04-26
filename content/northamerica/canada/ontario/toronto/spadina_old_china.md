@@ -8,7 +8,7 @@ tags:
 - market
 - restaurant
 title: Spadina (old Chinatown)
-type: Markets
+type: poi
 ---
 
 During the fall and spring seasons, the Old Chinatown (Spadina Street) has enough to do to sieze anyones senses.

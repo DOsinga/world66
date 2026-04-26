@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Indira Gandhi Zoological Park
-type: Parks, Gardens and Zoos
+type: poi
 ---
 
 This 625 Acres Zoological Park by Named after The Former Prime Minister

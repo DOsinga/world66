@@ -10,7 +10,7 @@ tags:
 - eating_out
 - restaurant
 title: Officina Dei Sapori
-type: Italian
+type: poi
 url: www.officinaesapori.it
 ---
 

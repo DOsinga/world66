@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - landmark
 title: Viktualienmarkt
-type: Beer Gardens
+type: poi
 ---
 
 type: Beer Gardens

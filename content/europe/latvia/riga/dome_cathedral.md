@@ -5,7 +5,7 @@ longitude: 24.10477
 tags:
 - things_to_do
 title: Dome cathedral
-type: Churches and Cathedrals
+type: poi
 ---
 
 One of the oldests structures in Riga contains one of the biggest organs in the world with 6718 pipes.

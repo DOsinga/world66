@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "Local"
+title: Eating Out
+type: poi
 ---
 
 There are only a couple of resturants, if u want to find any indian food,

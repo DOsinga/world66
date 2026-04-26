@@ -7,7 +7,7 @@ tags:
 - restaurant
 - tower
 title: Zakoya Japanese Restaurant
-type: Japanese
+type: poi
 url: www.zakoya.co.nr
 ---
 

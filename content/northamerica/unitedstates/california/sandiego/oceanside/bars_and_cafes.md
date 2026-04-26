@@ -1,11 +1,10 @@
 ---
-title: "Nightlife and Entertainment"
-type: section
-address: "207 N. Tremont"
-type: "Pool and billiards"
-url: "www.osidealive.com"
+address: 207 N. Tremont
 latitude: 44.40991
 longitude: 0.89877
+title: Nightlife and Entertainment
+type: poi
+url: www.osidealive.com
 ---
 
 Although known primarily as a veritable playground for sun-loving visitors in search of watery fun, Oceanside also has a thriving nightlife located mostly in the downtown area. With 7 bars in a 3 block radius Oceanside offers a wide variety of entertainment, from the laid back Haunted Head Saloon to the clubby Margarita Rocks, from karaoke night at McCabes to the local's hangout at OMTI. More information on Oceanside nightlife can be found online at http://www.osidealive.com.

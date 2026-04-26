@@ -4,7 +4,7 @@ phone: 504 400 5468
 tags:
 - things_to_do
 title: New Orleans Bicycle Tour
-type: Cycling
+type: poi
 url: confederacyofcruisers.com
 ---
 

@@ -5,7 +5,7 @@ tags:
 - eating_out
 - restaurant
 title: Luz Kinilaw
-type: Seafood
+type: poi
 ---
 
 Luz Kinilaw is authentic Davao cuisine! It's a seaside restaurant

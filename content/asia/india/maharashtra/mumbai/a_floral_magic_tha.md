@@ -8,7 +8,7 @@ tags:
 - shopping
 - shop
 title: A floral magic that rocks your event
-type: Antiques
+type: poi
 url: www.flowerdeliverymumbai.com
 ---
 

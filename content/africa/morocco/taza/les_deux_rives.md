@@ -5,7 +5,7 @@ price: between 25 and 50 Dirhams
 tags:
 - eating_out
 title: Les Deux Rives
-type: Local
+type: poi
 ---
 
 A freshly renowated and very clean little restaurant in mediterranean style with prettily decorated tables. They offer amongst others salads, tajines, pastilla, pizza and soups. The prices were between 25 and 50 Dirhams (2,50 - 5,00 Euro).

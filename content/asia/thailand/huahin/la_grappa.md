@@ -4,7 +4,7 @@ tags:
 - eating_out
 - restaurant
 title: La Grappa
-type: Italian
+type: poi
 url: www.lagrappa-ristorante.com
 ---
 

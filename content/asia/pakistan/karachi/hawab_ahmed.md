@@ -7,7 +7,7 @@ tags:
 - shop
 - park
 title: Dolmen Mall Hyderi
-type: Speciality shops
+type: poi
 ---
 
 Dolmen Mall Hyderi, situated in the hub of North Nazimabad, a denely populated area of Karachi, is spread out over 1,547 sq. meters. It is a shopping mall catering to the needs of customers in this part of the city

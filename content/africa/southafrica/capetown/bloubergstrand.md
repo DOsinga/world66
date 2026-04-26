@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Bloubergstrand
-type: general
+type: poi
 ---
 
 For the most beautiful view of Table Mountain you must go to the Cape

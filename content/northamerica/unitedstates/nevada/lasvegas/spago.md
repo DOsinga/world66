@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Spago
-type: American
+type: poi
 url: www.wolfgangpuck.com
 ---
 

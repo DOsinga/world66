@@ -6,7 +6,7 @@ price: P395
 tags:
 - eating_out
 title: Aussie Cafe and Resto
-type: International
+type: poi
 url: aussiecafe.multiply.com
 ---
 

@@ -1,11 +1,10 @@
 ---
-title: "Shopping in Bhatpara"
-type: section
-address: "c-1,804,eldeco garden estate afeem kothi kanpur"
-email: "rajesh_wahi2000@yahoo.com"
-phone: "9450154733/9336174753"
-type: "Antiques"
-url: "www.kanpurflorist.com"
+address: c-1,804,eldeco garden estate afeem kothi kanpur
+email: rajesh_wahi2000@yahoo.com
+phone: 9450154733/9336174753
+title: Shopping in Bhatpara
+type: poi
+url: www.kanpurflorist.com
 ---
 
 FRESH FLOWERS

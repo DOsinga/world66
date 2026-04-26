@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: La Mer Restaurant
-type: Seafood
+type: poi
 zipcode: Khao Takiab Hua Hin
 ---
 

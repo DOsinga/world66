@@ -7,7 +7,7 @@ tags:
 - shop
 - market
 title: Satrangi House of Fashion
-type: Speciality shops
+type: poi
 url: www.facebook.com
 ---
 

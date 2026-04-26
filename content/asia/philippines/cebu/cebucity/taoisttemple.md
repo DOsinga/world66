@@ -4,7 +4,7 @@ longitude: 124.994104
 tags:
 - sights
 title: Taoist Temple
-type: general
+type: poi
 ---
 
 The Cebuano's Chinese heritage is very visible and one of the more popular destinations in the city is the Taoist Temple, located at the highest elevation of the Beverly Hills Subdivision. 

@@ -7,7 +7,7 @@ price: $10.00 and Up
 tags:
 - eating_out
 title: Leonardi's Pizza
-type: Italian
+type: poi
 ---
 
 This is an authentic Italian made Buffalo Grown and made pizza. The peperoni is home made and so is the sauce. As well, they use a combination of cheeses on the pizza for a fantastic taste. If you are looking for a Pizza that is the best Buffalo has to offer, drop by and give them a try. You will be glad you did!

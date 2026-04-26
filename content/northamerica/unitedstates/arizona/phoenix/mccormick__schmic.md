@@ -9,7 +9,7 @@ tags:
 - eating_out
 - restaurant
 title: McCormick & Schmick's Seafood
-type: Seafood
+type: poi
 ---
 
 McCormick & Schmick's Seafood is one of the premiere Seafood places in Phoenix. Offering up an amazing array of surf and turf, McCormick & Schmick's Seafood caters to the complete dining experience. You can even make reservations online and skip the hassle of long waits and phone conversations. The restaurant has been a round since the 70’s and the menu depends on what is fresh in the region. In addition to delicious food, McCormick & Schmick's Seafood offers up amazing blend free coctail drinks as well as a food menu for the bar. Oyster’s, salmon and other seafood classics are all available at this wonderful restaurant.

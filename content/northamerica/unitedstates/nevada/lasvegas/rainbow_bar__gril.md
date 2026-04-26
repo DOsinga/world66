@@ -8,7 +8,7 @@ tags:
 - restaurant
 - bar
 title: Rainbow Bar & Grill
-type: American
+type: poi
 url: www.rainbowbarandgrillv.com
 ---
 

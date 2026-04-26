@@ -4,7 +4,7 @@ tags:
 - things_to_do
 - landmark
 title: Capitolio
-type: Castles
+type: poi
 ---
 
 The Capitolio is located in the quarted called Centro Habana, just next to the old city. The building is almost an exact replica of the Washington DC Capitol building only just a bit bigger and more nicely decorated.

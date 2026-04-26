@@ -6,7 +6,7 @@ longitude: 114.186509
 tags:
 - shopping
 title: IKEA
-type: Speciality shops
+type: poi
 url: www.ikea.com
 ---
 

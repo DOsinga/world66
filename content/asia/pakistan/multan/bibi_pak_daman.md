@@ -4,7 +4,7 @@ longitude: 74.339913
 tags:
 - things_to_do
 title: Bibi Pak Daman
-type: Memorials
+type: poi
 ---
 
 Princess FarGaNa a Muslim & Islamic Ideologist women. She is the daughter of Sultan Jamal-ud-Din the emperor of FarGaNa. She met Hazrat Saddar-ud-Din Arif the 8th son of Hazrat Bahauddin- Zakariya at Khana Kaba. Hazrat Saddar-ud-Din Arif was also the great Islamic Scholar.

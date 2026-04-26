@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Sjokkel
-type: Speciality shops
+type: poi
 ---
 
 Small children shop in the Wijngaardstraat, lots of good wooden toys.

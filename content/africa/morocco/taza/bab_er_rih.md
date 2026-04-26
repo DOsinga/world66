@@ -3,7 +3,7 @@ address: Taza-Haut, Medina
 tags:
 - sights
 title: Bab Er Rih
-type: Hotspots
+type: poi
 ---
 
 From the *Bab Er Rih* ("Gate of the winds"), above the Medina, you have a beautiful view over the whole valley and the olive groves below. On one side you see the Middle Atlas and on the other the Rif-Mountains. As the name indicates, it might be a bit windy at times, but in the summer-time that's a welcome refreshment.

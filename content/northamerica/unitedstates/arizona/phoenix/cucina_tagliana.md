@@ -10,7 +10,7 @@ tags:
 - restaurant
 - club
 title: Cucina Tagliana
-type: Italian
+type: poi
 ---
 
 Cucina Tagliana is an excellent restaurant to go to if you are looking for fine Italian fare from a Phoenix restaurant. In addition to having all the classic Italian dishes you know and love, Cucina Tagliani puts its own fresh spin on old world classics. Cucina Tagliana offers private parties on its grounds as well as a frequent diner club that allows for great discounts for returning customers. In addition, their online site offers recipes for some of their amazing dishes. Their great food has one a wide variety of local awards, making this a place that is delicious and well respected throughout the state of Arizona.

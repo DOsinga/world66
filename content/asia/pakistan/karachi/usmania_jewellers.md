@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Usmania Jewellers
-type: Speciality shops
+type: poi
 url: '-'
 ---
 

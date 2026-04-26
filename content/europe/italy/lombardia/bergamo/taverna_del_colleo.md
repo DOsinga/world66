@@ -13,7 +13,7 @@ tags:
 - square
 - bar
 title: Taverna del Colleoni Dell'Angelo
-type: Italian
+type: poi
 url: www.colleonidellangelo.com
 ---
 

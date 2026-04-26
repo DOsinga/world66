@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - landmark
 title: Paragliding
-type: Other
+type: poi
 url: www.emac.pk
 ---
 

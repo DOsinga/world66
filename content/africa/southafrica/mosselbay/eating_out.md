@@ -1,10 +1,9 @@
 ---
-title: "Eating Out in Mossel Bay"
-type: section
-address: "(Point Village) Mossel Bay"
-phone: "044 690 5247"
-type: "Local"
-url: "www.delfinos.co.za"
+address: (Point Village) Mossel Bay
+phone: 044 690 5247
+title: Eating Out in Mossel Bay
+type: poi
+url: www.delfinos.co.za
 ---
 
 ### [Delfino's](/africa/southafrica/mosselbay/eatingout/delfinos)

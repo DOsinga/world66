@@ -4,7 +4,7 @@ longitude: 96.090801
 tags:
 - eating_out
 title: BBB
-type: European
+type: poi
 ---
 
 The BBB has excellent European food. The steak with mushrooms (the

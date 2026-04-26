@@ -5,7 +5,7 @@ price: Attractive
 tags:
 - eating_out
 title: MTR (Mavalli Tiffin Rooms)
-type: Vegetarian
+type: poi
 ---
 
 Mavalli Tiffin Rooms (or MTR for short) is one of the oldest Restaurants in Bangalore , the silicon valley of India . The word hotel is many a time referred to as restaurant in India . So, don’t be confused it to be a Hotel!

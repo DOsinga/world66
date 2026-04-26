@@ -2,7 +2,7 @@
 done:
   poi_cleanup: '2026-04-20'
 title: Practical Information in Nagpur
-type: Tourist information
+type: poi
 url: www.indiandestination.com
 ---
 

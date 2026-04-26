@@ -4,7 +4,7 @@ longitude: -7.454476
 tags:
 - bars_and_cafes
 title: Bar da Vila
-type: general
+type: poi
 zipcode: http://bardavila.web.pt/
 ---
 

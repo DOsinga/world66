@@ -2,7 +2,7 @@
 tags:
 - things_to_do
 title: Jamal-ud-Din Syed 'Shah Yousaf Gardez'
-type: Memorials
+type: poi
 ---
 
 Shrine of Muhammad Yousaf Gardezi commonly known as Shah Gardez just inside the Bohar Gate. It is a rectangular domeless building decorated with glazed tiles, a work of considerable beauty.

@@ -1,12 +1,12 @@
 ---
 latitude: 28.1008
 longitude: -15.4147
-snippet: "Las Palmas's oldest quarter, founded 1478, with colonial mansions and carved balconies"
+snippet: Las Palmas's oldest quarter, founded 1478, with colonial mansions and carved
+  balconies
 tags:
 - things_to_do
-- neighbourhood
 title: Vegueta
-type: poi
+type: neighbourhood
 ---
 
 The oldest part of Las Palmas, founded in 1478 and largely intact. The neighbourhood is compact enough to walk in an hour, but there is enough to look at — carved balconies, shaded courtyards, colonial mansions, the cathedral square — to fill an afternoon. It feels genuinely lived-in rather than museumified: people still work and shop here, and there are cafés and small restaurants among the cultural institutions. Come on a weekend morning when the streets are quiet.

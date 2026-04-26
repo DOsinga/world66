@@ -6,7 +6,7 @@ phone: 202/483-3971.
 tags:
 - bars_and_cafes
 title: Vegas Lounge
-type: Live Music
+type: poi
 ---
 
 type: Live Music

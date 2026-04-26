@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Izmir Museum
-type: Museums
+type: poi
 ---
 
 type: Museums

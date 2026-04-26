@@ -6,7 +6,7 @@ phone: '963384563'
 tags:
 - bars_and_cafes
 title: Girls Caffé
-type: general
+type: poi
 zipcode: ricsilva1@mail.telepac.pt
 ---
 

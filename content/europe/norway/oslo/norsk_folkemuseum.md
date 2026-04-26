@@ -6,7 +6,7 @@ phone: (+47) 22 12 37 00
 tags:
 - things_to_do
 title: Norsk Folkemuseum
-type: Museums
+type: poi
 zipcode: www.norskfolkemuseum.no
 ---
 

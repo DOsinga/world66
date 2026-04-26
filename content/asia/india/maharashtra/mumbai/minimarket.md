@@ -8,7 +8,7 @@ tags:
 - shop
 - market
 title: Mini Market
-type: Antiques
+type: poi
 ---
 
 Dealing in old glass wares, brasswares, wooden carvings, old paintings, antiques, silver coins, ivory jewellery and figures.

@@ -12,7 +12,6 @@ tags:
 - Eater Rome
 - eating_out
 - restaurant
-- neighbourhood
 title: Da Cesare al Casaletto
 type: poi
 ---

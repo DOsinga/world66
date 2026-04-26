@@ -1,11 +1,10 @@
 ---
-title: "Sights in Mandi Bahauddin"
-type: section
-address: "mian waheed ud din park"
-opening_hours: "5 AM To 10 PM"
-type: "Parks, Gardens and Zoos"
+address: mian waheed ud din park
 latitude: 32.585167
 longitude: 73.494992
+opening_hours: 5 AM To 10 PM
+title: Sights in Mandi Bahauddin
+type: poi
 ---
 
 1. Mian waheed-u-deen park

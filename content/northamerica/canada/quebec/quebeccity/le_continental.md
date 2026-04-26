@@ -5,7 +5,7 @@ longitude: -90.511684
 tags:
 - eating_out
 title: Le Continental
-type: French
+type: poi
 ---
 
 Outstanding restaurant in every way. The decor is elegant but not "posh". Service is up to par.

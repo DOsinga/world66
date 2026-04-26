@@ -6,7 +6,7 @@ phone: +64 9 379 6811
 tags:
 - bars_and_cafes
 title: Deschlers Jazz Bar
-type: Jazz
+type: poi
 url: www.deschlers.co.nz
 ---
 

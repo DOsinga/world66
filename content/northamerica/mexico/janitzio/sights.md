@@ -1,7 +1,6 @@
 ---
-title: "Sights in Janitzio"
-type: section
-type: "Landmarks"
+title: Sights in Janitzio
+type: poi
 ---
 
 For 51 weeks out of the year, the main tourist attraction in Janitzio is the statue at the summit of the island.

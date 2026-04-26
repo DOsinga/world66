@@ -5,7 +5,7 @@ category: Sight
 latitude: 25.225155
 longitude: 55.257922
 title: Wild Wadi Water Park
-type: Swimming
+type: poi
 url: www.sigmahotels-dubai.com
 ---
 

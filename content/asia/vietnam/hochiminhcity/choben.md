@@ -6,7 +6,7 @@ tags:
 - shop
 - market
 title: Cho Ben Thanh
-type: Markets
+type: poi
 ---
 
 Very lively and colourful market.

@@ -9,7 +9,7 @@ tags:
 - restaurant
 - bar
 title: Ye Olde Buffalo Tavern Hua Hin
-type: International
+type: poi
 url: www.buffalobillshuahin.com
 ---
 

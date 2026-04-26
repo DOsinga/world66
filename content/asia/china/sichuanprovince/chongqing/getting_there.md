@@ -1,7 +1,6 @@
 ---
-title: "Getting There"
-type: section
-type: "By Air"
+title: Getting There
+type: poi
 ---
 
 ### Air

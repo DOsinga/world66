@@ -6,7 +6,7 @@ phone: +351 252 631 119
 tags:
 - eating_out
 title: Restaurant «Le Villageois»
-type: French
+type: poi
 ---
 
 Cuisine: French and Portuguese Ambience. All debit and credit cards accepted. Closed Monday.

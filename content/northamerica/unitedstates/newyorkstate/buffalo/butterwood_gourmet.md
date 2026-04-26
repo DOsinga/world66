@@ -7,7 +7,7 @@ price: can be pricey
 tags:
 - eating_out
 title: Butterwood Gourmet Desserts
-type: First Class
+type: poi
 ---
 
 Butterwood Gourmet Desserts is located in the charming village of Williamsville, out Main Street from the City of Buffalo.

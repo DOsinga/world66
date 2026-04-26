@@ -7,7 +7,7 @@ longitude: -122.310717
 opening_hours: 12:00,14:00,16:00,18:00
 phone: +353 1 620 3929
 title: Dublin's Rock N Roll, Writers Bus Tour
-type: Hotspots
+type: poi
 url: www.dublinrocktour.ie
 ---
 

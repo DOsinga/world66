@@ -1,12 +1,7 @@
 ---
 category: Architecture
-latitude: 41.043467
-longitude: 29.015314
-snippet: Ottoman Baroque palace on the Bosphorus, now a luxury hotel
-tags:
-- things_to_do
-- sight
-- architecture
+latitude: 41.0441
+longitude: 29.0168
 title: Çırağan Palace
 type: poi
 ---

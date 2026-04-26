@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Kordonboyu
-type: Hotspots
+type: poi
 ---
 
 Kordonboyu is a coastal promenade with many restaurants and bars.

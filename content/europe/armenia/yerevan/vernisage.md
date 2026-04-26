@@ -3,7 +3,7 @@ address: Hanrapetucyan str. in the Circle park (near Republic square)
 tags:
 - shopping
 title: Vernisage
-type: Antiques
+type: poi
 ---
 
 It's an open air market of arts, crafts and antiques in the very center of yerevan, starting from Republic square, and ending at Republic stadium. It works on saturdays and sundays. You will find there all trditional Armenian souvenirs at reasonable prices, though you can bargain some.

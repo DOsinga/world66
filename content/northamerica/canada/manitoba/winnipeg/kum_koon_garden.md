@@ -6,7 +6,7 @@ phone: 1 204 943 4655
 tags:
 - eating_out
 title: Kum Koon Garden
-type: Chinese
+type: poi
 ---
 
 Cantonese.Spacious Chinese restaurant in the true Asian style.You could be in Taiwan.Highly rated and reasonably priced.

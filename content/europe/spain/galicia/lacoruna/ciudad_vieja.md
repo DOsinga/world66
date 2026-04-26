@@ -6,9 +6,8 @@ longitude: -8.3973
 snippet: Medieval old town with Romanesque churches and cobbled squares
 tags:
 - things_to_do
-- neighbourhood
 title: Ciudad Vieja
-type: poi
+type: neighbourhood
 ---
 
 The old town occupies the landward end of the peninsula, a compact grid of narrow streets lined with medieval churches, Baroque mansions, and small squares. The Romanesque church of Santa María del Campo is the finest building, its carved west portal showing a mix of biblical scenes and Galician folk imagery. Nearby, the Colegiata de Santa María del Campo dates from the 12th century.

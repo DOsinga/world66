@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Hisar Mosque
-type: Mosques
+type: poi
 ---
 
 Built in 1592 the Hisar Mosque is a charming place where you can find all kinds of flowers for quite low prices.

@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - neighbourhood
 title: Judengasse
-type: Synagogues
+type: poi
 ---
 
 The old jewish quarter is one of the oldest streets in Germany. You will find it shortly before the market, Jews' Alley (Judengasse) on the right leads into the former medieval Jewish Quarter. Locally produced weights with Hebrew inscriptions show that there were Jews in Trier as early as the first or second century. Starting with the eleventh century, we have records of a Jewish community in Trier, and in 1235 four Jews had four houses built on the left of the later Judengasse. The cellars are still the original ones; in the Pub "Abwärts", you can still see the walled-up entrance to a flight tunnel leading to the Cathedral Close.

@@ -4,7 +4,7 @@ tags:
 - shopping
 - shop
 title: Send Flowers To Mumbai
-type: Shopping centers and malls
+type: poi
 url: www.sendflowerstomumbai.com
 ---
 

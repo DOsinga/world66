@@ -2,7 +2,7 @@
 tags:
 - bars_and_cafes
 title: All around the Viaduct Harbour
-type: Clubs and dancing
+type: poi
 url: www.viaduct.co.nz
 ---
 

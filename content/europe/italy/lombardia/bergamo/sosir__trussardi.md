@@ -8,7 +8,7 @@ tags:
 - shop
 - club
 title: Trussardi Factory Outlet (ex Sosir)
-type: Speciality shops
+type: poi
 url: www.network-partners.it
 ---
 

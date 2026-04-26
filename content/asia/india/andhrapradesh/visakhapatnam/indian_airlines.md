@@ -4,7 +4,7 @@ longitude: 72.870824
 tags:
 - getting_there
 title: Indian Airlines
-type: By Rail
+type: poi
 url: www.indian-airlines.nic.in
 ---
 

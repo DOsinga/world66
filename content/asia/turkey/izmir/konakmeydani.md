@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Konak Meydani
-type: Hotspots
+type: poi
 ---
 
 Right in the center, the place where it all happens.

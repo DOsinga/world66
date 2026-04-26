@@ -2,7 +2,7 @@
 done:
   poi_cleanup: '2026-04-19'
 title: Sights
-type: Hotspots
+type: poi
 ---
 
 Below is a selection of Homs sights

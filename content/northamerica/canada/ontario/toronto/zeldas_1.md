@@ -9,7 +9,7 @@ tags:
 - church
 - bar
 title: Zelda's
-type: Local
+type: poi
 ---
 
 Kind of kitschy, this interesting bar located on Church Street in the "gay village" of Toronto has some of the most interesting theme nights each weekend during the summer.

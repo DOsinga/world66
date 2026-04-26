@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "Local"
+title: Eating Out
+type: poi
 ---
 
 The Mulberry countryside is famous for the fried chicken houses. Namely Gebhardt's Chicken, Chicken Annie's, and Chicken Mary's.

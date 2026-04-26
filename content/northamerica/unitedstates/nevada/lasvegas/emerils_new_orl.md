@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Emeril’s New Orleans Fish House
-type: Seafood
+type: poi
 url: www.emerils.com
 ---
 

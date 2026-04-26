@@ -1,7 +1,6 @@
 ---
-title: "Eating Out in Banff"
-type: section
-type: "European"
+title: Eating Out in Banff
+type: poi
 ---
 
 Below are some of Banff's places to eat.

@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "Local"
+title: Eating Out
+type: poi
 ---
 
 Some of the world's finest and freshest cuisine, including an array of seafood delicacies and award-winning wines, are found in the city and environs. 

@@ -2,7 +2,7 @@
 tags:
 - getting_there
 title: Intercity Buses
-type: By Road
+type: poi
 url: www.autostradale.it
 ---
 

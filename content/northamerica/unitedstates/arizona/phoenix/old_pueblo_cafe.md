@@ -8,7 +8,7 @@ tags:
 - cafe
 - bar
 title: Old Pueblo Cafe
-type: Mexican
+type: poi
 ---
 
 The Old Pueblo Café is a local and intimate Café, which offers a bar among a delightful a la carte menu. The food is based in the traditional Mexican style and the menu offers everything rom potato tacos to refried beans. Offering exquisite tacos, burritos, enchiladas and other traditional dishes, the Old Pueblo Café is a small gem in the large Phoenix dining landscape. The food is more than affordable and the portions are more than generous. Fast and friendly service only enhances this already charming establishment. In addition, the Old Pueblo Café offers catering and a delightful take out menu. There is outdoor dining and a full bar on site.

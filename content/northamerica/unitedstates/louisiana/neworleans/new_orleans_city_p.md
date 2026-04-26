@@ -5,7 +5,7 @@ phone: 504-482-4888
 tags:
 - things_to_do
 title: New Orleans City Park
-type: Cycling
+type: poi
 url: www.neworleanscitypark.com
 ---
 

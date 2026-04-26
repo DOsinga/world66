@@ -13,7 +13,6 @@ tags:
 - eating_out
 - testaccio
 - restaurant
-- neighbourhood
 title: Felice a Testaccio
 type: poi
 ---

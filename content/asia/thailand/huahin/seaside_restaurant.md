@@ -6,7 +6,7 @@ tags:
 - eating_out
 - restaurant
 title: Seaside Restaurant
-type: Thai
+type: poi
 url: www.seaside-restaurant.com
 ---
 

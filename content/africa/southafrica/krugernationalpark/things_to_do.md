@@ -1,10 +1,9 @@
 ---
-title: "Things to do"
-type: section
-email: "info@safaritravelguide.com"
-phone: "0034 952 928 877"
-type: "Trekking"
-url: "www.safaritravelguide.com"
+email: info@safaritravelguide.com
+phone: 0034 952 928 877
+title: Things to do
+type: poi
+url: www.safaritravelguide.com
 ---
 
 What to do in Kruger National Park... was there ever a question with a more obvious answer ?

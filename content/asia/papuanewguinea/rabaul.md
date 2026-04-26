@@ -3,9 +3,11 @@ done:
   location_cleanup: '2026-04-09'
 latitude: -4.198459
 longitude: 152.172829
+score: 0.48
+tags:
+- sights
 title: Rabaul
 type: location
-score: 0.48
 ---
 
 Rabaul sits at the edge of one of the world's most active volcanic calderas, on the northeastern tip of New Britain island. It was once the most elegant colonial town in the South Pacific — broad avenues, leafy gardens, and a magnificent deepwater harbour that made it the administrative centre of German New Guinea and later Australian-governed PNG. On 19 September 1994, two volcanoes erupted simultaneously and buried much of the town under a metre of ash. Rabaul has never fully rebuilt, and that half-buried, end-of-days quality is now one of its most compelling features.

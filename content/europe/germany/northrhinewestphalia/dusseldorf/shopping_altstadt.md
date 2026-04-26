@@ -4,7 +4,7 @@ longitude: 9.99778
 tags:
 - shopping
 title: Altstadt
-type: Markets
+type: poi
 ---
 
 The Old Town (Altstadt), known to most for its cheek-by-jowl line-up of

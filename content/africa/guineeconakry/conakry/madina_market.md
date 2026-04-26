@@ -4,7 +4,6 @@ longitude: -13.66
 snippet: Conakry's sprawling, chaotic main market selling everything imaginable
 tags:
 - things_to_do
-- neighbourhood
 title: Madina Market
 type: poi
 ---

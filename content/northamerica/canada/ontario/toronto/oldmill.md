@@ -5,7 +5,7 @@ tags:
 - eating_out
 - restaurant
 title: Old Mill .
-type: general
+type: poi
 ---
 
 Tel: 1 416 236-2641 Fax: 1 416 236-2749 

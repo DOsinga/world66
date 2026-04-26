@@ -6,7 +6,7 @@ tags:
 - shop
 - market
 title: Centro Commerciale Curno
-type: Shopping centers and malls
+type: poi
 url: www.centrocommercialecurno.it
 ---
 

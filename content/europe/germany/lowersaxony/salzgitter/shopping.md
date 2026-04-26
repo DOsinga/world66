@@ -1,10 +1,9 @@
 ---
-title: "Shopping in Salzgitter"
-type: section
-address: "38226 Salzgitter-Lebenstedt"
-type: "Shopping centers and malls"
+address: 38226 Salzgitter-Lebenstedt
 latitude: 52.15826
 longitude: 10.328073
+title: Shopping in Salzgitter
+type: poi
 ---
 
 When the younger Salzgitter residents feel like making a shopping spree, they usually prefer the larger cities like Wolfenbüttel, Braunschweig or Hannover. For smaller purchases however, like a pair of shoes or a T-shirt, they stay in Salzgitter-Bad or Salzgitter-Lebenstedt.

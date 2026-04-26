@@ -6,7 +6,7 @@ longitude: -8.750879
 tags:
 - bars_and_cafes
 title: Café, Snack Bar,Gelataría, Oásis.
-type: general
+type: poi
 ---
 
 Café, Snack Bar, Gelataria Oásis is an ice cream parlor as well as a coffee house and snack bar. Woks with breakfasts, meals, snacks and bar service ( coctails, shots, sangrías and much more).

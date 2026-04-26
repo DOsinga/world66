@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - museum
 title: Folk Art Museum
-type: general
+type: poi
 ---
 
 This museum houses a large selection of authentic Cypriotic crafts. You will find the museum if you follow Agiou Andreou Street northwards.

@@ -7,7 +7,6 @@ tags:
 - day_guides
 - restaurant
 - bar
-- neighbourhood
 title: Eating & Walking in Trastevere — Elizabeth Minchilli
 type: poi
 url: elizabethminchilli.com/2015/09/eating-walking-in-trastevere-rome/

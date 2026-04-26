@@ -1,8 +1,7 @@
 ---
-title: "Practical Information"
-type: section
-type: "Tourist information"
-url: "www.ci.dublin.ca.us"
+title: Practical Information
+type: poi
+url: www.ci.dublin.ca.us
 ---
 
 Dublin at a Glance

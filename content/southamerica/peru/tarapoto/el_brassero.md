@@ -6,7 +6,7 @@ price: Cheap
 tags:
 - eating_out
 title: El Brassero
-type: International
+type: poi
 ---
 
 El Brassero is a small restaurant just a block and a half up the street from the Plaza de Armas -- located on the right hand side of the street at Jr. San Pablo de la Cruz #254.

@@ -11,7 +11,7 @@ tags:
 - square
 - bar
 title: Alice Cooper'stown Sports Bar & Grill
-type: American
+type: poi
 ---
 
 Alice Cooper'stown Sports Bar & Grill offers a unique twist on your average American sports bar and grill. Combining sports with the exciting theme of rock n’ roll, the bar shows nothing but sports on their numerous TV’s. Despite this, the atmosphere is fun and exciting, getting rock n’ rollers and jocks to unite for a common cause. The space is 6000 square feet and the menu has everything from tasty burgers to amazing fries. Alice Cooper'stown Sports Bar & Grill also offers a wonderful online store that sells shot glasses, t shirts and many other products. Come join in on the fun!

@@ -6,7 +6,7 @@ phone: 1-877-778-8977
 tags:
 - eating_out
 title: Ozone Hôtel-Bar (Sainte-Foy)
-type: Local
+type: poi
 url: www.global-reservation.com
 ---
 

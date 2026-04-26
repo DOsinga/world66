@@ -4,7 +4,7 @@ phone: '9290511'
 tags:
 - things_to_do
 title: Beauty Salon 263
-type: Spa and Sauna
+type: poi
 ---
 
 Hair Cutting, Shampooing, Dye, & Ear-Wa....

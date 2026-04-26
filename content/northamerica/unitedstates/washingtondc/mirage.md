@@ -6,7 +6,7 @@ phone: (202)488-4462
 tags:
 - bars_and_cafes
 title: Mirage
-type: Night Clubs
+type: poi
 ---
 
 type: Night Clubs

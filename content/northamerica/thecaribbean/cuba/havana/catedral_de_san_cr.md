@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Catedral de San Cristóbal
-type: Churches and Cathedrals
+type: poi
 ---
 
 The **Catedral de San Cristóbal** was built between 1748 and 1777. It is dedicated to Christopher Columbus himself becuase his body is believed to have rested there. There's never been proof of this claim though.

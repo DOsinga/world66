@@ -5,7 +5,7 @@ phone: + 47 23 49 37 00
 tags:
 - things_to_do
 title: The Vigeland Park
-type: Parks, Gardens and Zoos
+type: poi
 url: www.museumsnett.no
 ---
 

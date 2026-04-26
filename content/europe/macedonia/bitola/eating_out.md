@@ -1,12 +1,11 @@
 ---
-title: "Eating Out"
-type: section
-accessibility: "very good"
-address: "Magnolia Square"
-price: "$10-20pp"
-type: "Local"
+accessibility: very good
+address: Magnolia Square
 latitude: 41.030186
 longitude: 21.334697
+price: $10-20pp
+title: Eating Out
+type: poi
 ---
 
 Bitola, a turn-of-the-century center for diplomacy as Macedonia’s

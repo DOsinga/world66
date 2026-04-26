@@ -7,7 +7,7 @@ tags:
 - shop
 - market
 title: garima
-type: Markets
+type: poi
 url: www.goaonlinegifts.com
 ---
 

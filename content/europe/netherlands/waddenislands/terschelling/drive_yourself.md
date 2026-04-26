@@ -5,7 +5,7 @@ phone: 'for  car  bookings at:  +31 517 491 500 (English spoken)'
 tags:
 - getting_there
 title: Drive yourself
-type: By Road
+type: poi
 ---
 
 **Ijsselmeer Dam route** (also called Closing dike or Afsluitdijk route).

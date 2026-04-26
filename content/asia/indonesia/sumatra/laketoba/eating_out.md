@@ -1,9 +1,8 @@
 ---
-title: "Eating Out in Lake Toba"
-type: section
-address: "Next to Anju"
-phone: "+62 625451093"
-type: "Indonesian"
+address: Next to Anju
+phone: +62 625451093
+title: Eating Out in Lake Toba
+type: poi
 ---
 
 If you are going to [Indonesia](/asia/indonesia), Lake Toba is definitely a place you want to visit. The best form of local [transportation](/asia/indonesia/sumatra/laketoba/getting_around) is boats, but you can hire motorcycles for the day and explore the island. While exploring the island, you will find that there are quite a few interesting and satisfying options for eating out.

@@ -8,7 +8,11 @@ tags:
 - shopping
 - things_to_do
 title: Les Halles
-type: poi
+type: neighbourhood
+image: leshalles.jpg
+image_source: https://www.flickr.com/photos/10404073@N05/50590333186
+image_license: CC BY 2.0
+image_attribution: Carl Campbell on Flickr
 ---
 
 For centuries this was the beating heart of Parisian commerce — the great central food market that Émile Zola called "the belly of Paris." The old iron-and-glass market pavilions were demolished in the 1970s and replaced by an underground shopping complex, the Forum des Halles, which was itself rebuilt between 2010 and 2016 with a swooping glass-and-steel canopy designed by Patrick Berger.

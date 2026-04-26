@@ -9,7 +9,7 @@ tags:
 - eating_out
 - restaurant
 title: Osteria della Brughiera
-type: Italian
+type: poi
 url: www.acena.it
 ---
 

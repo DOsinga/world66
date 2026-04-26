@@ -3,7 +3,7 @@ tags:
 - things_to_do
 - landmark
 title: Plaza de Armas
-type: Squares
+type: poi
 ---
 
 Plaza de Armas is a nice square located in the east part of the old city, close to the harbour.

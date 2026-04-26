@@ -2,7 +2,7 @@
 tags:
 - eating_out
 title: Restaurant L'Ardoise
-type: French
+type: poi
 ---
 
 One word sums it up: Excellent!

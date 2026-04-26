@@ -6,7 +6,6 @@ longitude: -65.3006
 snippet: Andean market with coca leaves, peppers, and empanadas
 tags:
 - things_to_do
-- neighbourhood
 - market
 title: Mercado Municipal
 type: poi

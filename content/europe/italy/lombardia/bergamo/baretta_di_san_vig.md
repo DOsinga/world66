@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Baretto di San Vigilio
-type: Italian
+type: poi
 url: www.baretto.it
 ---
 

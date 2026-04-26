@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Barney's New York
-type: Shopping centers and malls
+type: poi
 url: www.barneys.com
 ---
 

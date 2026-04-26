@@ -5,7 +5,7 @@ phone: 08040917163
 tags:
 - eating_out
 title: AliBaba Cafe and Restaurant
-type: Middle East
+type: poi
 ---
 
 Alibaba Cafe n Restaurant is basically themed on "Alibaba and the forty thieves," based on which it holds a 40-seating capacity.

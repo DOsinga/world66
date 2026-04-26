@@ -8,7 +8,7 @@ tags:
 - restaurant
 - bar
 title: Corleone's
-type: American
+type: poi
 url: www.corleones.net
 ---
 

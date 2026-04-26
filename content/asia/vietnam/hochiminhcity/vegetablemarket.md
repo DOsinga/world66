@@ -7,7 +7,7 @@ tags:
 - shop
 - market
 title: Vegetable Market
-type: Markets
+type: poi
 ---
 
 type: Markets

@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Bottega Veneta
-type: Speciality shops
+type: poi
 url: www.bottegaveneta.com
 ---
 

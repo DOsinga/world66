@@ -1,8 +1,7 @@
 ---
-title: "Sights"
-type: section
-type: "Parks, Gardens and Zoos"
-url: "www.praiadoforte.com"
+title: Sights
+type: poi
+url: www.praiadoforte.com
 ---
 
 Check these out if you can tear yourself away from the beach.

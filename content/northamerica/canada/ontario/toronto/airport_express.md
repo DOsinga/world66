@@ -5,7 +5,7 @@ tags:
 - getting_there
 - theatre
 title: Airport Express
-type: By Road
+type: poi
 url: www.torontoairportexpress.com
 ---
 

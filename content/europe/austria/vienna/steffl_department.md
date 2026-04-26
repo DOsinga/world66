@@ -7,7 +7,7 @@ phone: +43 1 930 56 - 0
 tags:
 - shopping
 title: Steffl Department Store Vienna
-type: Shopping centers and malls
+type: poi
 url: www.steffl-vienna.at
 ---
 

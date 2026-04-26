@@ -1,13 +1,13 @@
 ---
-title: HafenCity
-type: poi
-snippet: "Europe's largest inner-city development, built on former dockland south of Hamburg's old town"
-tags:
-- things_to_do
-- neighbourhood
 category: Neighbourhood
 latitude: 53.5418
 longitude: 9.9989
+snippet: Europe's largest inner-city development, built on former dockland south of
+  Hamburg's old town
+tags:
+- things_to_do
+title: HafenCity
+type: neighbourhood
 ---
 
 Europe's largest inner-city urban development, built since 2000 on 157 hectares of former dockland just south of Hamburg's old town. The Speicherstadt — a UNESCO-listed district of red-brick warehouse buildings from the 1880s — forms the northern edge; new residential towers, offices, the Elbphilharmonie concert hall, the International Maritime Museum and the Überseequartier shopping district fill the rest.

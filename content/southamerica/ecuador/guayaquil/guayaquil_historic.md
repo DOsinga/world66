@@ -5,7 +5,7 @@ phone: 283 3807
 tags:
 - sights
 title: Guayaquil Historic Park
-type: Hotspots
+type: poi
 url: www.parquehistorico.com
 ---
 

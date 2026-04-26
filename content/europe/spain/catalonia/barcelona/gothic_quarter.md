@@ -1,12 +1,11 @@
 ---
 latitude: 41.383395
 longitude: 2.176912
-snippet: "Medieval lanes and Roman walls in Barcelona's historic core"
+snippet: Medieval lanes and Roman walls in Barcelona's historic core
 tags:
 - things_to_do
-- neighbourhood
 title: Gothic Quarter
-type: poi
+type: neighbourhood
 ---
 
 The Barri Gòtic is the oldest part of Barcelona, a tangle of narrow medieval lanes built on top of the Roman settlement of Barcino. Fragments of the squared Roman wall are still visible along Tapineria and Sots-Tinent Navarro to the north, and around Plaça Nova to the west.

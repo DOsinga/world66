@@ -2,7 +2,7 @@
 done:
   poi_cleanup: '2026-04-20'
 title: Sights
-type: Graves and Cemeteries
+type: poi
 ---
 
 Both Romanian and foreign tourist visiting Arges County may be delighted to visit Curtea de Arges, one of the most important medieval constructions in Romania. Only 150 km away from Bucharest, near the Carpathians, Curtea de Arges has been the first capital of the country in 1330 and holds valuable art monuments, like a living museum of Romanian history.

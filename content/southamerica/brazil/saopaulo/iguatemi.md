@@ -3,7 +3,7 @@ address: Brigadeiro Faria Lima Avenue
 tags:
 - shopping
 title: Iguatemi
-type: Shopping centers and malls
+type: poi
 ---
 
 Pretty expensive mall with the world's most famous 'griffes'.

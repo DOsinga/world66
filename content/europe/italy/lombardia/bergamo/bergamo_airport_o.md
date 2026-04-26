@@ -7,7 +7,7 @@ phone: 0039 035 326323
 tags:
 - getting_there
 title: Bergamo Airport - Orio al Serio
-type: By Air
+type: poi
 url: www.sacbo.it
 ---
 

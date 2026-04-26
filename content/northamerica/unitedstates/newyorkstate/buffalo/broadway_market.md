@@ -3,7 +3,7 @@ address: 999 Broadway (nr Fillmore Avenue) Buffalo
 tags:
 - shopping
 title: Broadway Market
-type: Markets
+type: poi
 url: www.broadwaymarket.com
 ---
 

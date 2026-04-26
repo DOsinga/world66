@@ -4,7 +4,7 @@ phone: (537) 867 1374
 tags:
 - eating_out
 title: La Bodeguita del Medio
-type: African
+type: poi
 ---
 
 Havana's La Bodeguita del Medio has long been known as a wonderful gathering place for cocktails, cigars, and the local cuisine.

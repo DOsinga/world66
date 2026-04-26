@@ -6,7 +6,7 @@ tags:
 - eating_out
 - restaurant
 title: Taj Mahal Restaurant Hua Hin
-type: Indian and Pakistani
+type: poi
 zipcode: Hua Hin
 ---
 

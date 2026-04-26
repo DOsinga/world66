@@ -1,12 +1,11 @@
 ---
-title: "Shopping in Oberammergau"
-type: section
-address: "1540 Stanford Place Charlotte NC 28207"
-email: "dcates2@carolina.rr.com"
-phone: "704-376-3867"
-type: "Speciality shops"
+address: 1540 Stanford Place Charlotte NC 28207
+email: dcates2@carolina.rr.com
 latitude: 35.190714
 longitude: -80.83624
+phone: 704-376-3867
+title: Shopping in Oberammergau
+type: poi
 ---
 
 The city center of Obermmergau is filled with all kinds of

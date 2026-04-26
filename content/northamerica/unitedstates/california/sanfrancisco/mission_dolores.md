@@ -1,8 +1,10 @@
 ---
+latitude: 37.764353
+longitude: -122.4269535
+tags:
+- mission_district
 title: Mission Dolores
 type: poi
-latitude: 37.7643530
-longitude: -122.4269535
 ---
 
 The oldest intact building in San Francisco, and the reason the neighbourhood exists. Mission San Francisco de Asís — universally known as Mission Dolores, after the creek that once ran nearby — was founded on 29 June 1776, just five days before the American Declaration of Independence was signed on the other side of the continent. The adobe walls of the chapel were completed in 1791 and have stood through every earthquake since, including the catastrophic one of 1906 that levelled most of the city around it.

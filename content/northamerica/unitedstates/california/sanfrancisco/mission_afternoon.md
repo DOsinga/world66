@@ -15,7 +15,6 @@ snippet: Mission murals, the best burrito in the city, and a sunny afternoon in 
   Park
 tags:
 - vibes
-- mission
 - mission_district
 time_of_day: afternoon
 title: The Mission in the Afternoon

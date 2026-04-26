@@ -1,8 +1,10 @@
 ---
-title: Galería de la Raza
-type: poi
 latitude: 37.7527001
 longitude: -122.4093553
+tags:
+- mission_district
+title: Galería de la Raza
+type: poi
 ---
 
 Founded in 1970 at the height of the Chicano civil rights movement, Galería de la Raza is one of the oldest continuously operating Chicano and Latino arts organisations in the United States. It has occupied its current address at 2857 24th Street since 1972, making it one of the anchor institutions of the Calle 24 cultural district.

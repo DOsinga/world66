@@ -1,8 +1,10 @@
 ---
-title: Clarion Alley
-type: poi
 latitude: 37.7629853
 longitude: -122.4206648
+tags:
+- mission_district
+title: Clarion Alley
+type: poi
 ---
 
 A one-block alley running between Mission and Valencia Streets, parallel to 17th and 18th. Every surface — walls, garage doors, fences, utility boxes — is covered in murals that change continuously. The Clarion Alley Mural Project, known as CAMP, was founded here in 1992 by six residents and artists who were inspired by Balmy Alley's example a dozen blocks to the south. Unlike Balmy, where murals are often preserved and restored, Clarion operates on a principle of constant renewal: old murals are painted over, new commissions go up, artists respond to current events within weeks of them happening.

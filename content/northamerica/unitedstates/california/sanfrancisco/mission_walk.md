@@ -605,7 +605,6 @@ route:
   - -122.418448
 tags:
 - city_walks
-- mission
 - mission_district
 title: The Mission Walk
 type: poi

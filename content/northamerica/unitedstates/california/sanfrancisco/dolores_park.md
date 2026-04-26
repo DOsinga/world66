@@ -1,8 +1,10 @@
 ---
-title: Dolores Park
-type: poi
 latitude: 37.7597203
 longitude: -122.4271323
+tags:
+- mission_district
+title: Dolores Park
+type: poi
 ---
 
 Mission Dolores Park sits on two blocks of former Jewish cemetery land that the city converted to a park in 1905, a year before the earthquake. On a clear day — and the Mission, sheltered from the Pacific fog by Noe Valley's hills, gets more clear days than most of San Francisco — the park offers one of the city's most satisfying urban panoramas: the downtown skyline to the north, the Bay glinting behind it, the Castro's rainbow flag visible in the middle distance.

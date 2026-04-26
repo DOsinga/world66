@@ -1,8 +1,10 @@
 ---
-title: The Women's Building
-type: poi
 latitude: 37.7614267
 longitude: -122.4226102
+tags:
+- mission_district
+title: The Women's Building
+type: poi
 ---
 
 The building itself is a converted meeting hall from the 1910s at 3543 18th Street. What makes it impossible to miss is MaestraPeace, the five-storey mural that covers every exterior surface and is one of the largest and most visited murals in the United States.

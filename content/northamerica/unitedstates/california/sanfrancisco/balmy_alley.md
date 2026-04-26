@@ -1,8 +1,10 @@
 ---
+latitude: 37.751774
+longitude: -122.4124056
+tags:
+- mission_district
 title: Balmy Alley
 type: poi
-latitude: 37.7517740
-longitude: -122.4124056
 ---
 
 A residential alley one block east of Mission Street between 24th and 25th Streets, and the origin point of the Mission mural movement. The first murals appeared here in 1972, painted by artists connected to the Galería de la Raza. In the mid-1980s, a collective of artists and activists including Patricia Rodriguez and Miranda Bergman covered the alley's fences and garage doors with murals responding to US military intervention in Central America — a conflict that was filling the Mission with Salvadoran, Guatemalan, and Nicaraguan refugees who had nowhere else to go.

@@ -1,8 +1,10 @@
 ---
+latitude: 37.7522559
+longitude: -122.418449
+tags:
+- mission_district
 title: Calle 24 — 24th Street BART
 type: poi
-latitude: 37.7522559
-longitude: -122.4184490
 ---
 
 The stretch of 24th Street running from Valencia Street east to Potrero Avenue is officially recognised as the Calle 24 Latino Cultural District — one of the first state-designated Latino cultural districts in California. The designation, formalised by the Board of Supervisors in 2014 after years of community campaigning, was intended to give the neighbourhood tools to resist the commercial displacement that had already reshaped Valencia Street and was moving south.

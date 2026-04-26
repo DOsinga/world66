@@ -110,7 +110,7 @@ def location_or_section(request, path):
 
     nav_pages, locations, pois = page.children()
 
-    # Separate neighbourhood and vibe pages from nav pages so they render as
+    # Separate neighbourhood, vibe, and walk pages from nav pages so they render as
     # dedicated strips on the city page rather than in the sidebar sections list.
     neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
     vibe_items = [p for p in nav_pages if p.page_type == "vibe"]
@@ -125,6 +125,9 @@ def location_or_section(request, path):
     )
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
+
+    # Walks tagged city_walks — shown as sidebar cards on the city page
+    city_walk_items = city_tag_index.get("city_walks", []) if city_tag_index else []
 
     # Nav pages collect their POIs by tag
     if page.page_type in NAV_TYPES:
@@ -259,6 +262,7 @@ def location_or_section(request, path):
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
         "vibe_items": vibe_items,
+        "city_walk_items": city_walk_items,
         "vibe_time_slots": vibe_time_slots,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)

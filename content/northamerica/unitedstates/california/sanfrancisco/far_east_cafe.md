@@ -7,6 +7,7 @@ snippet: Cantonese institution with curtained booths since 1920
 tags:
 - eating_out
 - cafe
+neighbourhood: Chinatown
 title: Far East Cafe
 type: poi
 ---

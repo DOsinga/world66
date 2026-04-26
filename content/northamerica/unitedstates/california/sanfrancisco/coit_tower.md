@@ -6,7 +6,9 @@ phone: (415) 362-0808
 snippet: Art Deco tower on Telegraph Hill with panoramic city views
 tags:
 - things_to_do
+- north_beach
 - tower
+neighbourhood: North Beach
 title: Coit Tower
 type: poi
 ---

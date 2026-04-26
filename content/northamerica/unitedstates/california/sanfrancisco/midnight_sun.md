@@ -6,6 +6,8 @@ snippet: Castro video bar known for camp music screenings
 tags:
 - bars_and_cafes
 - bar
+- castro_district
+neighbourhood: Castro District
 title: Midnight Sun
 type: poi
 ---

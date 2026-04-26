@@ -9,7 +9,8 @@ snippet: Popular mixed gay bar at the head of the Castro
 tags:
 - bars_and_cafes
 - bar
-- cafe
+- castro_district
+neighbourhood: Castro District
 title: The Cafe
 type: poi
 ---

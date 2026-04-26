@@ -9,7 +9,9 @@ snippet: Massive independent record store in a converted bowling alley
 tags:
 - shopping
 - shop
+- haight_ashbury
 - things_to_do
+neighbourhood: Haight-Ashbury
 title: Amoeba Music
 type: poi
 url: www.amoebamusic.com

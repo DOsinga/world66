@@ -6,6 +6,7 @@ snippet: Dark Chinatown dive bar with a cave-like basement and potent Chinese ma
 tags:
 - bars_and_cafes
 - bar
+neighbourhood: Chinatown
 title: Li Po Cocktail Lounge
 type: poi
 ---

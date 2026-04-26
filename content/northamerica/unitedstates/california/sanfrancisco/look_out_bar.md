@@ -6,6 +6,8 @@ snippet: "Castro bar with a balcony perfect for people-watching"
 tags:
 - bars_and_cafes
 - bar
+- castro_district
+neighbourhood: Castro District
 title: Look Out Bar
 type: poi
 ---

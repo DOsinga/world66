@@ -9,6 +9,8 @@ snippet: Low-key Castro bar with pool table, pinball, and great patio
 tags:
 - bars_and_cafes
 - bar
+- castro_district
+neighbourhood: Castro District
 title: Pilsner Inn
 type: poi
 ---

@@ -6,6 +6,7 @@ snippet: Tiny Chinatown alley shop where fortune cookies are still folded by han
 tags:
 - things_to_do
 - sight
+neighbourhood: Chinatown
 title: Golden Gate Fortune Cookie Factory
 type: poi
 ---

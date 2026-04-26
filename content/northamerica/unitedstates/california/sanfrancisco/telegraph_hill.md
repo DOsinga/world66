@@ -6,8 +6,10 @@ longitude: -122.4041
 snippet: Steep stairway gardens, wild parrots, and Coit Tower views
 tags:
 - things_to_do
+- north_beach
 - park
 - tower
+neighbourhood: North Beach
 title: Telegraph Hill
 type: poi
 ---

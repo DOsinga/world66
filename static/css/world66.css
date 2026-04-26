@@ -823,6 +823,11 @@ img { max-width: 100%; height: auto; }
   display: none;
 }
 
+/* Mobile-only nav in sidebar — hidden on desktop */
+.sidebar-mobile-nav {
+  display: none;
+}
+
 /* ==========================================================================
    Main content area
    ========================================================================== */
@@ -1809,19 +1814,53 @@ img { max-width: 100%; height: auto; }
    ========================================================================== */
 
 @media (max-width: 768px) {
+  /* --- Top nav --- */
+  .topnav-inner {
+    gap: 8px 12px;
+    padding: 10px 16px;
+    flex-wrap: wrap;
+  }
+
+  .site-search-wrap {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .logo small {
+    display: none;
+  }
+
+  .breadcrumbs {
+    order: 10;
+    flex-basis: 100%;
+    padding: 0 0 4px;
+    margin-top: -4px;
+    white-space: normal;
+    flex-wrap: wrap;
+    overflow: visible;
+  }
+
+  /* --- Hero --- */
   .hero {
-    padding-top: 16px;
+    padding: 12px 16px 0;
   }
 
   .hero-card {
     height: 60vw;
   }
 
+  .hero-title-block {
+    bottom: 16px;
+    left: 16px;
+    right: 16px;
+  }
+
+  /* --- Content grid --- */
   #content {
     grid-template-columns: 1fr;
     grid-template-areas: "main" "sidebar";
     gap: 32px;
-    padding: 24px 20px 48px;
+    padding: 24px 16px 48px;
   }
 
   #sidebar {
@@ -1839,13 +1878,73 @@ img { max-width: 100%; height: auto; }
     top: 0;
     right: 0;
     bottom: 0;
-    z-index: 9998;
+    z-index: 9999;
     background: var(--paper);
     overflow-y: auto;
     width: 280px;
     box-shadow: -2px 0 8px rgba(0,0,0,0.15);
     border-left: 1px solid var(--line);
-    padding: 16px 0;
+    padding: 60px 0 16px;
+  }
+
+  /* Hide map and quick facts in mobile menu — focus on navigation */
+  #sidebar .sidebar-map-card {
+    display: none;
+  }
+
+  #sidebar .sidebar-quick-facts {
+    display: none;
+  }
+
+  /* Mobile nav links in sidebar */
+  .sidebar-mobile-nav {
+    display: block;
+    padding: 16px 20px;
+  }
+
+  /* Section sidenav — expand by default on mobile, add padding */
+  .section-sidenav {
+    padding: 16px 20px;
+  }
+
+  .section-sidenav-list {
+    max-height: none;
+    overflow: visible;
+  }
+
+  .section-sidenav-toggle {
+    display: none;
+  }
+
+  .sidebar-mobile-heading {
+    font-family: var(--label-font);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--mute);
+    margin-bottom: 8px;
+    margin-top: 16px;
+  }
+
+  .sidebar-mobile-heading:first-child {
+    margin-top: 0;
+  }
+
+  .sidebar-mobile-list {
+    list-style: none;
+  }
+
+  .sidebar-mobile-list li a {
+    display: block;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--line);
+    font-size: 15px;
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .sidebar-mobile-list li a:hover {
+    color: var(--accent);
   }
 
   .sidebar-toggle {
@@ -1884,7 +1983,7 @@ img { max-width: 100%; height: auto; }
   }
 
   #main {
-    padding: 16px;
+    padding: 0;
   }
 
   .content-image {
@@ -1893,10 +1992,70 @@ img { max-width: 100%; height: auto; }
     margin: 0 0 16px 0;
   }
 
+  /* --- Sections grid --- */
+  .sections-row {
+    grid-template-columns: 1fr;
+  }
+
+  .section-card {
+    border-right: none;
+    border-bottom: 1px solid var(--line);
+    padding: 16px 0;
+  }
+
+  .section-card:last-child {
+    border-bottom: none;
+  }
+
+  .sections-row-wrap {
+    padding-top: 32px;
+  }
+
+  /* --- POI list --- */
+  .poi-list-link {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 16px 0;
+  }
+
+  .poi-num {
+    display: none;
+  }
+
+  .poi-tag {
+    text-align: left;
+    font-size: 11px;
+  }
+
+  .poi-name {
+    font-size: 18px;
+  }
+
+  .poi-blurb {
+    max-width: none;
+  }
+
+  .poi-section {
+    padding-bottom: 32px;
+  }
+
+  /* --- Filter bar --- */
+  .poi-filter-bar {
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .poi-section-head {
+    gap: 12px;
+  }
+
+  /* --- Destination columns --- */
   .destination-columns {
     column-count: 2;
   }
 
+  /* --- Home page --- */
   .home-hero {
     margin: -16px -16px 20px;
     padding: 20px 16px;
@@ -1906,10 +2065,17 @@ img { max-width: 100%; height: auto; }
     grid-template-columns: 1fr;
   }
 
-  .breadcrumbs {
-    padding: 8px 16px;
-    overflow-x: auto;
-    white-space: nowrap;
+  /* --- Breadcrumbs (moved to own row via flex-wrap above) --- */
+
+  /* --- Content preview (map/photo box) --- */
+  .content-preview {
+    height: 180px;
+  }
+
+  /* --- POI strip --- */
+  .poi-strip-item {
+    width: 120px;
+    height: 120px;
   }
 }
 
@@ -2201,11 +2367,60 @@ img { max-width: 100%; height: auto; }
 @media (max-width: 480px) {
   .logo-ribbon { display: none; }
 
+  .topnav-inner {
+    gap: 8px;
+    padding: 8px 12px;
+  }
+
   .destination-columns {
     column-count: 1;
   }
 
   #main h1 {
     font-size: 20px;
+  }
+
+  .hero {
+    padding: 8px 12px 0;
+  }
+
+  #content {
+    padding: 16px 12px 32px;
+  }
+
+  .home-continent-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .poi-name {
+    font-size: 18px;
+  }
+}
+
+/* --- Mobile overrides for styles defined after the main responsive block --- */
+@media (max-width: 768px) {
+  .wide-block {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .poi-list-link {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 16px 0;
+  }
+
+  .poi-num {
+    display: none;
+  }
+
+  .poi-tag {
+    text-align: left;
+    font-size: 11px;
+  }
+
+  .poi-blurb {
+    max-width: none;
   }
 }

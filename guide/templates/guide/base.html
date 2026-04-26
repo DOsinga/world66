@@ -76,7 +76,7 @@
   // Create overlay for closing sidebar on mobile
   var overlay = document.createElement('div');
   overlay.className = 'sidebar-overlay';
-  document.body.appendChild(overlay);
+  (document.getElementById('page') || document.body).appendChild(overlay);
 
   function openSidebar() {
     sidebar.classList.add('sidebar-open');

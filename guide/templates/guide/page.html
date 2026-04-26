@@ -26,6 +26,30 @@
 
 {% block sidebar %}
 <aside id="sidebar">
+  {% if sections or top_locations %}
+  <nav class="sidebar-mobile-nav">
+    {% if sections %}
+    <div class="sidebar-mobile-heading">Sections</div>
+    <ul class="sidebar-mobile-list">
+      {% for s in sections %}
+      <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% if top_locations %}
+    <div class="sidebar-mobile-heading">Destinations</div>
+    <ul class="sidebar-mobile-list">
+      {% for loc in top_locations %}
+      <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
+      {% endfor %}
+      {% for loc in more_locations %}
+      <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </nav>
+  {% endif %}
+
   {% if page.meta.quick_facts %}
   <div class="sidebar-quick-facts">
     {% for label, value in page.meta.quick_facts.items %}

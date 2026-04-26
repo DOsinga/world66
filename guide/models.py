@@ -6,15 +6,13 @@ Uses the `type` field to classify pages:
 
   location      — continent, country, region, city
   section       — top-level navigable collection within a city (things_to_do, shopping, …)
-  neighbourhood — a district; lives at city level, rendered as a scroll strip
   theme         — a cross-cutting theme (lgbtq, cold_war, …)
-  vibe          — a half-day itinerary; lives at city level, rendered as a scroll strip
-  poi           — individual point of interest
+  poi           — individual point of interest; use `category` to sub-type:
+                    walk        — city walk with route + waypoints
+                    vibe        — half-day itinerary; tag with `vibes` to show on city page
+                    neighbourhood — district; tag with `neighbourhoods` to show on city page
 
-All of section / neighbourhood / theme / vibe are "nav pages": they appear
-in the city sidebar and each collects POIs by tag.  When a POI carries `tags: [de_pijp]`
-and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears under De Pijp.
-
+Section and theme are "nav pages": they appear in the city sidebar and collect POIs by tag.
 A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter to override.
 """
 
@@ -29,7 +27,7 @@ from django.conf import settings
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
 
 # Page types that participate in city navigation and collect POIs by tag.
-NAV_TYPES = {"section", "neighbourhood", "theme", "vibe"}
+NAV_TYPES = {"section", "theme"}
 
 DISPLAY_PROPERTIES = {
     "address": "Address",
@@ -232,7 +230,7 @@ def build_city_tag_index(city_path):
         if not result:
             continue
         meta, _ = result
-        if meta.get("type") not in ("poi", "walk", "vibe", "neighbourhood"):
+        if meta.get("type") != "poi":
             continue
         raw_tags = meta.get("tags", [])
         if isinstance(raw_tags, str):

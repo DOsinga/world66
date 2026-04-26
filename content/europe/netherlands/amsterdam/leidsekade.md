@@ -5,7 +5,6 @@ snippet: "Quiet canalside escape from the bustle of Leidseplein"
 tags:
 - things_to_do
 - leidseplein
-- museum_quarter
 title: Leidsekade
 type: poi
 ---

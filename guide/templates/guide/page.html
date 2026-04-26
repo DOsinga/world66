@@ -71,6 +71,20 @@
   </div>
   {% endif %}
 
+  {% if page.page_type == "vibe" %}
+  <div class="vibe-sidebar-card">
+    {% if page.meta.duration %}<div class="vibe-sidebar-duration">{{ page.meta.duration }}</div>{% endif %}
+    {% if page.meta.neighbourhood %}<div class="vibe-sidebar-meta">{{ page.meta.neighbourhood }}</div>{% endif %}
+    {% if page.meta.snippet %}<p class="vibe-sidebar-snippet">{{ page.meta.snippet }}</p>{% endif %}
+    {% if vibe_time_slots or page.meta.vibe_tags %}
+    <div class="vibe-tags">
+      {% for t in vibe_time_slots %}<span class="vibe-tag">{{ t|capfirst }}</span>{% endfor %}
+      {% for tag in page.meta.vibe_tags %}<span class="vibe-tag">{{ tag }}</span>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+
   {% if parent_sections|length > 1 %}
   <nav class="section-sidenav">
     {% if parent %}
@@ -143,6 +157,14 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
+{% if page.page_type == "vibe" %}
+<div class="vibe-header">
+  {% for t in vibe_time_slots %}<span class="vibe-header-tag">{{ t|capfirst }}</span>{% endfor %}
+  {% if page.meta.vibe_tags %}{% for tag in page.meta.vibe_tags %}<span class="vibe-header-tag">{{ tag }}</span>{% endfor %}{% endif %}
+  {% if page.meta.duration %}<span class="vibe-duration">{{ page.meta.duration }}</span>{% endif %}
+  {% if page.meta.neighbourhood %}<span class="vibe-neighbourhood">&middot; {{ page.meta.neighbourhood }}</span>{% endif %}
+</div>
+{% endif %}
 
 {% if page.properties %}
 <div class="info-box">
@@ -232,9 +254,9 @@
 {% endblock %}
 
 {% block wide_content %}
-{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" %}{% if pois %}
 <div class="wide-block poi-section">
-  <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
+  <span class="section-kicker">{% if page.meta.kicker %}{{ page.meta.kicker }}{% elif page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
   <div class="poi-section-head">
     <h2 class="poi-section-title">{{ page.title }}</h2>
     {% if poi_categories %}
@@ -255,7 +277,7 @@
           <div class="poi-name">{{ poi.title }}</div>
           <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
-        <div class="poi-tag">
+        <div class="poi-tag"{% if poi.page_type == "vibe" and poi.meta.time_of_day %} data-time="{{ poi.meta.time_of_day }}"{% endif %}>
           {% if poi.category %}{{ poi.category }}{% endif %}
           {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
         </div>
@@ -336,7 +358,7 @@
   <h2 class="section-block-heading">Sections</h2>
 <div class="sections-row">
   {% for s in sections %}
-  {% if s.slug != "neighbourhoods" %}
+  {% if s.slug != "vibes" and s.slug != "neighbourhoods" %}
   <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
     <div class="section-card-icon"></div>
     <div class="section-card-name">{{ s.title }}</div>
@@ -383,6 +405,53 @@
     next.style.pointerEvents = atEnd ? 'none' : '';
   }
   var step = 280;
+  prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
+  next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
+  strip.addEventListener('scroll', update);
+  update();
+})();
+</script>
+{% endif %}
+
+{% if vibe_items %}
+<div class="wide-block vibe-city-section">
+  <span class="section-kicker">Vibes</span>
+  <h2 class="section-block-heading">How to spend your time</h2>
+  <div class="vibe-strip-wrap">
+    <button class="vibe-strip-arrow vibe-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
+    <div class="vibe-strip" id="vibe-strip">
+      {% for vibe in vibe_items %}
+      <a href="{{ vibe.get_absolute_url }}" class="vibe-city-card{% if not vibe.image_url %} vibe-city-card--no-image{% endif %}">
+        {% if vibe.image_url %}
+        <img src="{{ vibe.image_url }}" alt="{{ vibe.title }}">
+        {% endif %}
+        <div class="vibe-city-veil"></div>
+        <div class="vibe-city-txt">
+          <div class="vibe-city-name">{{ vibe.title }}</div>
+          {% if vibe.meta.snippet %}<div class="vibe-city-snippet">{{ vibe.meta.snippet }}</div>{% endif %}
+          {% if vibe.time_slots or vibe.meta.vibe_tags %}<div class="vibe-city-tags">{% for t in vibe.time_slots %}<span>{{ t|capfirst }}</span>{% endfor %}{% for tag in vibe.meta.vibe_tags %}<span>{{ tag }}</span>{% endfor %}</div>{% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    <button class="vibe-strip-arrow vibe-strip-arrow--next" aria-label="Scroll right">&#8250;</button>
+  </div>
+</div>
+<script>
+(function() {
+  var wrap = document.querySelector('.vibe-strip-wrap');
+  var strip = document.getElementById('vibe-strip');
+  if (!wrap || !strip) return;
+  var prev = wrap.querySelector('.vibe-strip-arrow--prev');
+  var next = wrap.querySelector('.vibe-strip-arrow--next');
+  function update() {
+    prev.style.opacity = strip.scrollLeft > 4 ? '1' : '0';
+    prev.style.pointerEvents = strip.scrollLeft > 4 ? '' : 'none';
+    var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 4;
+    next.style.opacity = atEnd ? '0' : '1';
+    next.style.pointerEvents = atEnd ? 'none' : '';
+  }
+  var step = 340;
   prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
   next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
   strip.addEventListener('scroll', update);

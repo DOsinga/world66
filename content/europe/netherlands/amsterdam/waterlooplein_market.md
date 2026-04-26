@@ -7,7 +7,6 @@ snippet: Daily flea market on the old Jewish quarter square since 1886
 tags:
 - things_to_do
 - shopping
-- canal_ring
 title: Waterlooplein Market
 type: poi
 ---

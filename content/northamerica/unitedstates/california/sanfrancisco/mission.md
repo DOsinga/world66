@@ -1,11 +1,14 @@
 ---
-title: Mission District
-type: neighbourhood
+category: neighbourhood
+image: mission.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Mission_Mural_-_Political_Art_-_28295632829.jpg
 latitude: 37.7599
 longitude: -122.4148
-image: mission.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Mission_Mural_-_Political_Art_-_28295632829.jpg"
-image_license: "CC BY-SA 2.0"
+tags:
+- neighbourhoods
+title: Mission District
+type: poi
 ---
 
 The Mission is the oldest neighbourhood in San Francisco and, depending on who you ask, still its most alive. It takes its name from Mission Dolores, the adobe chapel built by Spanish Franciscans in 1776 that still stands on Dolores Street — the oldest intact building in the city. Everything that has happened here since flows from that founding moment: the waves of immigrants who arrived and remade the neighbourhood in their own image, the political movements that erupted from its streets, the artists who covered its walls.

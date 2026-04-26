@@ -1,16 +1,18 @@
 ---
 address: Mission St and 24th St
+category: neighbourhood
 image: mission_district.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Dolores_Park_in_San_Francisco_(TK2).JPG
-latitude: 37.7600
-longitude: -122.4200
+latitude: 37.76
+longitude: -122.42
 snippet: Murals, taquerias, Dolores Park, and the sunniest weather in the city
 tags:
+- neighbourhoods
 - things_to_do
 - neighbourhood
 title: Mission District
-type: neighbourhood
+type: poi
 ---
 
 The Mission is San Francisco's most vibrant and complex neighbourhood -- a place where century-old murals cover entire alleyways, legendary taquerias serve burritos the size of your forearm, and Dolores Park fills with thousands of people on every sunny afternoon. It is also the warmest part of the city, sheltered from the fog by Twin Peaks, which makes it the default destination when the rest of San Francisco is socked in.

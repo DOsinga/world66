@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Goossens Bakery
-type: Speciality shops
+type: poi
 ---
 
 Great small bakery in the center. People line up on the streets to get bread here.

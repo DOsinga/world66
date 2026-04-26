@@ -8,7 +8,7 @@ tags:
 - eating_out
 - restaurant
 title: Abacanto
-type: Italian
+type: poi
 url: www.acena.it
 ---
 

@@ -6,6 +6,7 @@ snippet: Buzzy Hungarian restaurant popular with locals near Parliament
 tags:
 - eating_out
 - restaurant
+- andrassy_avenue
 title: Biarritz
 type: poi
 ---

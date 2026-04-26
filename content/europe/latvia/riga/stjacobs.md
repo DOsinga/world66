@@ -4,7 +4,7 @@ longitude: 24.137879
 tags:
 - things_to_do
 title: St. Jacob's.
-type: Churches
+type: poi
 ---
 
 Klostera 2.

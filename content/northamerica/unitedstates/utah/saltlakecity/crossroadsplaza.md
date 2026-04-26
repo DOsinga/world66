@@ -4,7 +4,7 @@ longitude: -111.912724
 tags:
 - shopping
 title: Crossroads Plaza
-type: general
+type: poi
 ---
 
 Nordstrom, Mervyn's, and over 145 specialty stores, services, restaurants and theaters. Across from Temple Square. Open daily (except selected holidays). Free validated parking; park free on Sundays.

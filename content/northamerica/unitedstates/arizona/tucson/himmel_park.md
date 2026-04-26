@@ -7,7 +7,7 @@ phone: +1 521 791 3276
 tags:
 - sights
 title: Himmel Park
-type: Parks, Gardens and Zoos
+type: poi
 ---
 
 Himmel Park is so much more than just a traditional Tucson park. With three unique playgrounds in the park, Himmel park also offers a pool, slides, swings and a climbing structure for all of its guests. While it is geared towards kids, Himmel park is the perfect place to go with the whole family. Each playground is geared towards a specific age group so make sure to look at which area is best for you and your kids. Nearby picnic areas make for a fun lunch time picnic and it is free to enter the park. The parks operating hours are from dawn to dusk so you can feel free to spend your entire day there.

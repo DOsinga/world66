@@ -7,7 +7,7 @@ tags:
 - restaurant
 - park
 title: Mandarin Tea Garden
-type: Chinese
+type: poi
 ---
 
 This is one of the first Chinese Restaurants in Davao City and it is known for its affordable prices and well-cooked meals!

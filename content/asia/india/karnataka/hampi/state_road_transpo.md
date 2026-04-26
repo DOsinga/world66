@@ -5,7 +5,7 @@ phone: '9008999236'
 tags:
 - getting_there
 title: State Road Transport Corporation
-type: By Road
+type: poi
 ---
 
 Hampi is 350 kms from Bangalore. KSRTC Buses ply regularly between Bangalore and Hospet, and between Hospet and Hampi. You can chose from a wide variety of classes on the Bangalore Hospet route. Semi-deluxe, Deluxe, and the most comfortable Volvo buses.

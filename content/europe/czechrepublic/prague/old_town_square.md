@@ -7,6 +7,9 @@ snippet: Medieval square with the Astronomical Clock and Tyn Church
 tags:
 - things_to_do
 - landmark
+- sight
+- architecture
+- stare_mesto
 title: Old Town Square
 type: poi
 ---

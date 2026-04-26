@@ -1,12 +1,14 @@
 ---
-title: "The Generalife"
-type: poi
-snippet: Summer palace of the Nasrid sultans with spectacular water gardens
+latitude: 37.1769
+longitude: -3.5853
 tags:
-  - things_to_do
-  - sight
-latitude: 37.1775
-longitude: -3.5883
+- things_to_do
+- sight
+- sacromonte
+title: The Generalife
+type: poi
 ---
 
-The summer retreat of the Nasrid rulers sits just above the Alhambra on the slopes of the Cerro del Sol. Built in the 13th century and expanded in the 14th, it's less a grand palace than a series of gardens and pavilions connected by water channels and fountains. The Patio de la Acequia — a long reflecting pool flanked by jets of water — is the centrepiece, and in a region where water was precious, the abundance of it here was an unmistakable display of wealth. The Patio de la Sultana, with its ancient cypresses, is quieter and easier to linger in. Included in the Alhambra ticket; book the whole complex well in advance.
+This summer residence of the Nazaries’ monarchs was built in the 13th century, and again rebuilt in the 14th. It’s actually a small palace with lovely gardens on the slopes of the Cerro del Sol or Hill of the Sun, next to the Alhambra. The Patio de la Acequia is the most impressive part, especially if you imagine you’re from a country were water is a scarce an valuable substance, essential for life. You should also visit the Patio de la Sultana with its cypresses.
+
+type: Historical Sights

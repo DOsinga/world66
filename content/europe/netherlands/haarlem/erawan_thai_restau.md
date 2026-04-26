@@ -8,7 +8,7 @@ price: Euro 10,15 and up
 tags:
 - eating_out
 title: Erawan Thai restaurant
-type: Thai
+type: poi
 url: www.erawan.nl
 ---
 

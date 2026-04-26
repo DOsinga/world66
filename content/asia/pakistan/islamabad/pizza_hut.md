@@ -3,7 +3,7 @@ address: Jinnah Super Market in Islamabad
 tags:
 - eating_out
 title: PIZZA HUT
-type: American
+type: poi
 ---
 
 Pizza Hut.!! A great place for Pizza Lovers..

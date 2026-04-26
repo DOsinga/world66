@@ -4,7 +4,7 @@ tags:
 - things_to_do
 - landmark
 title: Statue of Máximo Gómez
-type: Fountains and statues
+type: poi
 ---
 
 In the north part of the old city you will find the Parque Martires del 71 with the the huge statue of Máximo Gómez.

@@ -7,7 +7,7 @@ tags:
 - restaurant
 - beach
 title: Rak Talay Beach Restaurant
-type: Thai
+type: poi
 url: www.worabura.com
 ---
 

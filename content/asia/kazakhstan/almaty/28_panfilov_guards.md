@@ -2,7 +2,7 @@
 tags:
 - sights
 title: 28 Panfilov Guardsmen Park
-type: Parks, Gardens and Zoos
+type: poi
 ---
 
 Located just across from the Otrar Hotel. The park fathers

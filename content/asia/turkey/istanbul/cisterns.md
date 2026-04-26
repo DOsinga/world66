@@ -1,11 +1,13 @@
 ---
-title: "Basilica Cistern"
-type: poi
-snippet: "Byzantine underground cathedral with 336 columns over water"
-tags:
-- things_to_do
 latitude: 41.008464
 longitude: 28.977876
+snippet: Byzantine underground cathedral with 336 columns over water
+tags:
+- things_to_do
+- sight
+- sultanahmet
+title: Basilica Cistern
+type: poi
 ---
 
 The Yerebatan Sarayi -- Underground Palace -- is a 6th-century cistern the size of a cathedral, with 336 columns rising from the water. Built under Justinian to supply the Great Palace, it's cool, dim, and quietly spectacular. Two columns in the far corner stand on Medusa heads, repurposed from older Roman buildings. Open daily from 9am.

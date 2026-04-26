@@ -8,7 +8,7 @@ phone: (780) 496-8735
 tags:
 - things_to_do
 title: Muttart Conservatory
-type: Parks, Gardens and Zoos
+type: poi
 url: www.edmonton.ca
 ---
 

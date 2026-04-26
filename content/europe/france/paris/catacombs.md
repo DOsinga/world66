@@ -9,6 +9,8 @@ opening_hours: Tue–Sun 9:45am–8:30pm; closed Mon
 snippet: Six million Parisians' bones arranged in underground quarry tunnels
 tags:
 - things_to_do
+- museum
+- sight
 title: The Catacombs
 type: poi
 url: www.catacombes.paris.fr

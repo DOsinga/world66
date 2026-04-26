@@ -6,7 +6,7 @@ tags:
 - restaurant
 - market
 title: St. Lawrence Market
-type: Local
+type: poi
 url: www.stlawrencemarket.com
 ---
 

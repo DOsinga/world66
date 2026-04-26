@@ -7,6 +7,8 @@ opening_hours: Wed–Mon 10am–6pm (park until 8pm); closed Tue
 snippet: Stunning chateau with France's second-best old master collection
 tags:
 - day_trips
+- museum
+- architecture
 title: Chantilly
 type: poi
 url: www.domainedechantilly.com

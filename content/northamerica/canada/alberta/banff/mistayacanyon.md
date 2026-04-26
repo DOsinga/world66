@@ -4,7 +4,7 @@ longitude: -116.721296
 tags:
 - things_to_do
 title: Mistaya Canyon .
-type: general
+type: poi
 ---
 
 A short ten-minute trail leads to the canyon, where visitors can see the waters of the Mistaya River which have delicately sculpted this gorge, leaving many circular "potholes" in the canyon walls. 

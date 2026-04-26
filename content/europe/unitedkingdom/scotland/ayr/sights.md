@@ -1,7 +1,6 @@
 ---
-title: "Sights in Ayr"
-type: section
-type: "Parks, Gardens and Zoos"
+title: Sights in Ayr
+type: poi
 ---
 
 Ayr is famous for her association with Rabbie Burns who was born here. So all around the town you'll see pubs and shops with photos of the great Burns. Rabbie even has his own heritage park which a visit to is a must for any of his fans.

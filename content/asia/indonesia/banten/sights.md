@@ -2,7 +2,7 @@
 done:
   poi_cleanup: '2026-04-20'
 title: Sights
-type: Monasteries
+type: poi
 ---
 
 Locals going to visit Banten in order to pilgrimage to the great Mosque of Banten. But also passing through on direction Carita beach or Labuan.

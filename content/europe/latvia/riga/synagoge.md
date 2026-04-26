@@ -2,7 +2,7 @@
 tags:
 - things_to_do
 title: Synagoge.
-type: Churches
+type: poi
 ---
 
 Peitavas 6/8.

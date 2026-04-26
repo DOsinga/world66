@@ -5,7 +5,7 @@ tags:
 - shopping
 - shop
 title: Flowers to India
-type: Shopping centers and malls
+type: poi
 url: www.aflowersgift.com
 ---
 

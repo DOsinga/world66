@@ -6,7 +6,7 @@ phone: 92-021-9213500
 tags:
 - getting_there
 title: Pakistan Railway
-type: By Rail
+type: poi
 url: www.pakrail.com
 ---
 

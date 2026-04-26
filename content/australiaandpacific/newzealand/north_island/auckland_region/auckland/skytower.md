@@ -7,7 +7,7 @@ phone: (0800 759 2489)
 tags:
 - things_to_do
 title: Skytower
-type: Public Buildings
+type: poi
 url: www.skycityauckland.co.nz
 ---
 

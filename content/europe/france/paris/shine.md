@@ -8,6 +8,7 @@ phone: +33 (0)1 48 05 80 10
 snippet: Boutique in a converted 19th-century pharmacy carrying international designers
 tags:
 - shopping
+- le_marais
 title: Shine
 type: poi
 ---

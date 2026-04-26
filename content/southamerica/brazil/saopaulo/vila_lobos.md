@@ -3,7 +3,7 @@ address: Marginal Pinheiros, Nações Unidas Avenue
 tags:
 - shopping
 title: Villa Lobos
-type: Speciality shops
+type: poi
 ---
 
 A recently built mall at 'Marginal Pinheiros' nearby Villa Lobos park and University of Sao Paulo.

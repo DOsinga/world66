@@ -4,7 +4,7 @@ email: jamalv@yahoo.com
 tags:
 - eating_out
 title: a submission about food in uganda. i just couldn't see where i should do this?
-type: African
+type: poi
 ---
 
 ****

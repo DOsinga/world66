@@ -7,6 +7,9 @@ longitude: 2.3418
 snippet: Art Nouveau department store with stunning rooftop views
 tags:
 - shopping
+- architecture
+- market
+- leshalles
 title: Samaritaine
 type: poi
 ---

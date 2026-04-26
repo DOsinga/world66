@@ -6,6 +6,8 @@ longitude: -3.607484
 snippet: Laid-back bar on a quiet street near Plaza Nueva
 tags:
 - bars_and_cafes
+- sight
+- albaicin
 title: Amadeus
 type: poi
 ---

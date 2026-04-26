@@ -7,7 +7,7 @@ opening_hours: 8:00 a.m
 tags:
 - sights
 title: Kawasan Falls
-type: Hotspots
+type: poi
 url: kawasanfalls.blogspot.com
 ---
 

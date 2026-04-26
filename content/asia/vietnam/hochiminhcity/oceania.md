@@ -8,7 +8,7 @@ tags:
 - market
 - neighbourhood
 title: Oceania
-type: Seafood
+type: poi
 ---
 
 Garish exterior belies excellent upmarket fresh seafood inside,

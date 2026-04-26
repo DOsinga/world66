@@ -4,7 +4,7 @@ longitude: 85.307958
 tags:
 - sights
 title: Taleju Temple
-type: general
+type: poi
 ---
 
 16th-century pagoda-style Taleju Temple

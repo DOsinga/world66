@@ -6,7 +6,7 @@ phone: 520.299.9191
 tags:
 - sights
 title: Degrazia Gallery in the sun
-type: Landmarks
+type: poi
 url: degrazia.org
 ---
 

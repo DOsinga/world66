@@ -4,7 +4,7 @@ phone: (51)-26505503
 tags:
 - eating_out
 title: Papasallis
-type: International
+type: poi
 ---
 
 Very well known place for steaks and pizzas since 1999. Prices are quite high for Pakistani standards, but from a Western perspective still very cheap.

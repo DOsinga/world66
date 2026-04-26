@@ -6,7 +6,7 @@ tags:
 - square
 - restaurant
 title: Cascade Plaza
-type: Shopping centers and malls
+type: poi
 ---
 
 Promoted as "Banff's Great Indoors", this is the largest retail complex in the Canadian Rockies. Inside is a diverse range of over 50 shops, restaurants, food court and other services on four levels. The architecturally interesting interior features a spacious multi-storey atrium crowned by an impressive domed roof. A terrific place to browse.

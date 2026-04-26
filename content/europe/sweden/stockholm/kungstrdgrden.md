@@ -8,6 +8,8 @@ snippet: Stockholm's royal garden — ice rink in winter, cherry blossoms in spr
 tags:
 - things_to_do
 - park
+- sight
+- norrmalm
 title: Kungsträdgården
 type: poi
 ---

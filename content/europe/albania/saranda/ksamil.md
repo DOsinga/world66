@@ -7,7 +7,7 @@ phone: 00355-692539586
 tags:
 - beaches
 title: TANI'S BAR & GUESTHOUSE
-type: general
+type: poi
 url: www.united-albania.com
 zipcode: '9706'
 ---

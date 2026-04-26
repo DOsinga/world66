@@ -1,10 +1,9 @@
 ---
-title: "Things to do"
-type: section
-address: "41-202 Kalanian‘ole Hwy., #7, Waimanalo"
-phone: "(808) 259-2500"
-type: "Other"
-url: "www.sealifeparkhawaii.com"
+address: '41-202 Kalanian‘ole Hwy., #7, Waimanalo'
+phone: (808) 259-2500
+title: Things to do
+type: poi
+url: www.sealifeparkhawaii.com
 ---
 
 There's more to do and see on Oahu than bars and beaches. From hiking and horseback riding to entertaining and/or educational theme parks, you'll find something for everyone on the most crowded - er, populated - island in Hawaii.

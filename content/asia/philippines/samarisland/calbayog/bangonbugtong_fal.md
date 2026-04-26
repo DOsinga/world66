@@ -2,7 +2,7 @@
 tags:
 - sights
 title: Bangon-Bugtong Falls
-type: Hotspots
+type: poi
 ---
 
 Located a

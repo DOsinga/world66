@@ -5,6 +5,9 @@ longitude: 28.983611
 snippet: World-class antiquities including the Alexander Sarcophagus
 tags:
 - things_to_do
+- museum
+- sight
+- sultanahmet
 title: Archaeological Museum
 type: poi
 ---

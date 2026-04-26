@@ -9,6 +9,9 @@ opening_hours: Tue–Sun 10am–6:30pm; closed Mon
 snippet: The Thinker and monumental bronzes in an elegant mansion garden
 tags:
 - things_to_do
+- museum
+- sight
+- saint_germain
 title: Musée Rodin
 type: poi
 url: www.musee-rodin.fr

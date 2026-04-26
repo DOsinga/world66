@@ -5,7 +5,7 @@ phone: 22 43 06 45
 tags:
 - things_to_do
 title: Oslo City Museum
-type: Museums
+type: poi
 ---
 
 Here you will see a permanent exhibition about the people in Oslo and the city history.

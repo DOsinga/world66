@@ -12,7 +12,6 @@ tags:
 - bars_and_cafes
 - bar
 - square
-- neighbourhood
 title: Volume
 type: poi
 ---

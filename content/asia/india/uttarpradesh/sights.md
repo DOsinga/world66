@@ -1,12 +1,11 @@
 ---
-title: "Sights"
-type: section
-email: "info@allindiaflorist.com"
-phone: "00919897064001"
-type: "Hotspots"
-url: "www.allindiaflorist.com"
+email: info@allindiaflorist.com
 latitude: -20.190009
 longitude: 57.481837
+phone: 00919897064001
+title: Sights
+type: poi
+url: www.allindiaflorist.com
 ---
 
 http://www.allindiaflorist.com

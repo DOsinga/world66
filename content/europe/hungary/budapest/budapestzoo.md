@@ -1,12 +1,15 @@
 ---
 address: Allatkerti ut 6-12
-latitude: 47.5183
-longitude: 19.0782
+latitude: 47.5153
+longitude: 19.0784
 opening_hours: 9:00-18:00 daily
 snippet: Historic zoo with stunning Art Nouveau architecture
 tags:
 - things_to_do
 - park
+- sight
+- architecture
+- andrassy_avenue
 title: Budapest Zoo
 type: poi
 ---

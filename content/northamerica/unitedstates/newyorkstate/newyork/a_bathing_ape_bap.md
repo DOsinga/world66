@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: A Bathing Ape (Bape)
-type: Speciality shops
+type: poi
 url: www.bapestas.net
 ---
 

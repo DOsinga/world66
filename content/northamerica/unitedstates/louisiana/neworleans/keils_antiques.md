@@ -6,7 +6,7 @@ phone: 504-522-4552
 tags:
 - shopping
 title: Keil’s Antiques
-type: Antiques
+type: poi
 url: www.keilsantiques.com
 ---
 

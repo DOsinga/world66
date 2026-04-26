@@ -4,7 +4,7 @@ phone: 51 2650792
 tags:
 - eating_out
 title: Arizona Grill
-type: Italian
+type: poi
 ---
 
 Arizona Grill is one of most popular restaurants of Islamabad. It is well known because of its pleasing decor and good service. It serves continental dishes as well as grills. Mexican and Italian food are the specialty. Prices are above average.

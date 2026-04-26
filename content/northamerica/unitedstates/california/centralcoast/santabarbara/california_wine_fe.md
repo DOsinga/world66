@@ -7,7 +7,7 @@ phone: 805-223-1880
 tags:
 - activities
 title: California Wine Festival
-type: Spa and Sauna
+type: poi
 url: www.californiawinefestival.com
 ---
 

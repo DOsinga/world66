@@ -1,12 +1,11 @@
 ---
-title: "Sights in Ganish"
-type: section
-address: "P/O Box # 2994 Islamabad Pakistan"
-email: "arifkke@yahoo.co.uk"
-opening_hours: "24 HOURS"
-phone: "+92514441258"
-type: "Palaces"
-url: "www.karakorumexplorers.com"
+address: 'P/O Box # 2994 Islamabad Pakistan'
+email: arifkke@yahoo.co.uk
+opening_hours: 24 HOURS
+phone: '+92514441258'
+title: Sights in Ganish
+type: poi
+url: www.karakorumexplorers.com
 ---
 
 **TOURISM**

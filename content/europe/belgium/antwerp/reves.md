@@ -10,7 +10,7 @@ tags:
 - bar
 - club
 title: Reve's
-type: Clubs
+type: poi
 zipcode: http://www.thereves.be
 ---
 

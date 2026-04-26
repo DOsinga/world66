@@ -6,7 +6,7 @@ tags:
 - eating_out
 - restaurant
 title: Hagi Japanese Restaurant
-type: Japanese
+type: poi
 url: www.hua-hin-travel.com
 ---
 

@@ -1,7 +1,6 @@
 ---
-title: "Things to do in Santa Clara"
-type: section
-type: "Spa and Sauna"
+title: Things to do in Santa Clara
+type: poi
 ---
 
 ### [Paramount's Great America](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/thingstodo/paramountsgreatamerica)

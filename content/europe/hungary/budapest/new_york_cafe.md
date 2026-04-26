@@ -10,6 +10,8 @@ tags:
 - bar
 - monument
 - cafe
+- sight
+- jewish_quarter
 title: New York Cafe
 type: poi
 ---

@@ -5,7 +5,7 @@ longitude: 123.891678
 tags:
 - sights
 title: Magellan's Cross
-type: Palaces
+type: poi
 ---
 
 Cebu's most famous historical landmark; planted by Magellan in 1521 to commemorate the celebration of the first Catholic mass in the Phlippines

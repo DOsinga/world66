@@ -1,5 +1,7 @@
 ---
-title: "Oosterend"
+latitude: 53.405
+longitude: 5.435
+title: Oosterend
 type: neighbourhood
 ---
 

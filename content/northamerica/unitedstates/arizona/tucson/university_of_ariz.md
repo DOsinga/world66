@@ -6,7 +6,7 @@ phone: (520) 621-7567
 tags:
 - sights
 title: University of Arizona Museum of Art
-type: Memorials
+type: poi
 url: artmuseum.arizona.edu
 ---
 

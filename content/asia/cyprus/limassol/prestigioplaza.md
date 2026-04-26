@@ -5,7 +5,7 @@ phone: +357-70006011
 tags:
 - shopping
 title: PrestigioPlaza
-type: Shopping centers and malls
+type: poi
 url: www.prestigioplaza.com
 ---
 

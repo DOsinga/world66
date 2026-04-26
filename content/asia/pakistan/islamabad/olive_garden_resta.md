@@ -8,7 +8,7 @@ price: normal
 tags:
 - eating_out
 title: Olive Garden Restaurant
-type: Italian
+type: poi
 url: www.olivegareden.com.pk
 ---
 

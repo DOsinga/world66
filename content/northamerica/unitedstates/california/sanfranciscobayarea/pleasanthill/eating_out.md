@@ -1,14 +1,13 @@
 ---
-title: "Eating Out in Pleasant Hill"
-type: section
-address: "1922 Oak Park Blvd"
-email: "daniel@nibblerseatery.com"
-phone: "944-0402"
-price: "$2-12"
-type: "International"
-url: "www.nibblerseatery.com"
+address: 1922 Oak Park Blvd
+email: daniel@nibblerseatery.com
 latitude: 30.203305
 longitude: -93.194516
+phone: 944-0402
+price: $2-12
+title: Eating Out in Pleasant Hill
+type: poi
+url: www.nibblerseatery.com
 ---
 
 ### [Nibblers Eatery & Wine Bar](/northamerica/unitedstates/california/sanfranciscobayarea/pleasanthill/eatingout/nibblers_eatery)

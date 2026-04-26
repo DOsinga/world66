@@ -7,6 +7,8 @@ snippet: Christianity's holiest site, shared by six rival denominations
 tags:
 - things_to_do
 - landmark
+- sight
+- old_city
 title: Church of the Holy Sepulchre
 type: poi
 ---

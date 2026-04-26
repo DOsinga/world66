@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - landmark
 title: Gran Teatro
-type: Public Buildings
+type: poi
 ---
 
 The old Gran Teatro, is where it all happened in the past. Now it´s still an exceptional venue for ballet and opera performances, old world horseshoe layout, meaning you must try to get tickets in the center or slight off-center sections.

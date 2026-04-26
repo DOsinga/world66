@@ -5,7 +5,7 @@ longitude: -76.155121
 tags:
 - shopping
 title: Razzberry
-type: Speciality shops
+type: poi
 ---
 
 So cool! Kind of expensive, so sooo neat [ for girls ].

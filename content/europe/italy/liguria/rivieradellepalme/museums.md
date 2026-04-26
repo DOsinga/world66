@@ -1,9 +1,8 @@
 ---
-title: "Museums in Riviera delle Palme"
-type: section
-type: "general"
 latitude: 39.868249
 longitude: 16.526308
+title: Museums in Riviera delle Palme
+type: poi
 ---
 
 ### [MUSEO DEL VETRO E DELL’ARTE](/europe/italy/liguria/rivieradellepalme/museums/museodelvetroedellarte)

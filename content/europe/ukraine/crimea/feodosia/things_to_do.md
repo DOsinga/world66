@@ -1,13 +1,12 @@
 ---
-title: "Things to do"
-type: section
-accessibility: "24/7"
-address: "Poltava"
-email: "fragov@gmail.com"
-type: "Other"
-url: "www.poltavaforum.com"
+accessibility: 24/7
+address: Poltava
+email: fragov@gmail.com
 latitude: 49.860781
 longitude: 33.749879
+title: Things to do
+type: poi
+url: www.poltavaforum.com
 ---
 
 Go to Koktebel

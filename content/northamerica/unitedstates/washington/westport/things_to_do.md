@@ -1,8 +1,7 @@
 ---
-title: "Things to do in Westport"
-type: section
-type: "Hunting and Fishing"
-url: "charterwestport.com"
+title: Things to do in Westport
+type: poi
+url: charterwestport.com
 ---
 
 There are many things to do during a visit to Westport

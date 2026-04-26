@@ -8,6 +8,9 @@ snippet: Stockholm's 13th-century cathedral with the famous St George sculpture
 tags:
 - things_to_do
 - church
+- sight
+- architecture
+- gamla_stan
 title: The Cathedral
 type: poi
 ---

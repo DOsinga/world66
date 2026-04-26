@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "Fast food"
+title: Eating Out
+type: poi
 ---
 
 **Take Aways**

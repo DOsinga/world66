@@ -2,7 +2,7 @@
 tags:
 - getting_there
 title: Flights to and from Bergamo
-type: By Air
+type: poi
 url: web4.myair.com
 ---
 

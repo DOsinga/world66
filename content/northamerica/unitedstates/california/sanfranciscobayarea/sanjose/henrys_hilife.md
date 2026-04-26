@@ -6,7 +6,7 @@ phone: 408-295-5414
 tags:
 - eating_out
 title: Henry's Hi-Life
-type: American
+type: poi
 url: www.henryshilife.com
 ---
 

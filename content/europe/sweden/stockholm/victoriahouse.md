@@ -3,9 +3,11 @@ address: Frescati
 latitude: 59.363295
 longitude: 18.056058
 phone: +46 (0)8 16 28 53
-snippet: "Tropical greenhouse in Stockholm's Bergianska botanical garden"
+snippet: Tropical greenhouse in Stockholm's Bergianska botanical garden
 tags:
 - things_to_do
+- museum
+- sight
 title: Victoria House
 type: poi
 ---

@@ -3,9 +3,14 @@ done:
   location_cleanup: '2026-04-08'
 latitude: -28.002373
 longitude: 153.414599
+score: 0.63
+tags:
+- things_to_do
+- beach
+- sight
+- beaches
 title: Gold Coast
 type: location
-score: 0.63
 ---
 
 The Gold Coast stretches for about 40 kilometres of white sand beach from Coolangatta in the south to South Stradbroke Island in the north, backed by high-rise towers, theme parks, and some of Australia's best surfing breaks. It has been popular since the early 20th century, and the strip around Surfers Paradise in particular has turned into a full-blown resort city — hotels, restaurants, nightclubs, and tourist operators crowd every block.

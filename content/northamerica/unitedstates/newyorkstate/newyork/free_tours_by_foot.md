@@ -9,7 +9,6 @@ phone: (646) 450-6831
 snippet: Pay-what-you-wish walking tours of Manhattan and Brooklyn
 tags:
 - things_to_do
-- neighbourhood
 title: Free Tours by Foot
 type: poi
 url: www.freetoursbyfoot.com

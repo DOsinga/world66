@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Soul 2 Soul
-type: African
+type: poi
 ---
 
 Soul 2 Soul - Southern-Cajun-Caribbean Fusion

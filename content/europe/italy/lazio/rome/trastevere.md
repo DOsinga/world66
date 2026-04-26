@@ -2,7 +2,8 @@
 admission: Free
 latitude: 41.8893
 longitude: 12.4703
-snippet: "Rome's most atmospheric neighbourhood — cobblestones, medieval alleys, and trattorias west of the Tiber"
+snippet: Rome's most atmospheric neighbourhood — cobblestones, medieval alleys, and
+  trattorias west of the Tiber
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome
@@ -10,9 +11,8 @@ tags:
 - church
 - restaurant
 - bar
-- neighbourhood
 title: Trastevere
-type: poi
+type: neighbourhood
 ---
 
 Rome's most atmospheric neighbourhood — a tangle of cobblestone alleys, ivy-draped medieval buildings, and ochre-and-terracotta facades west of the Tiber. It was Rome's working-class neighbourhood for centuries (the name means "across the Tiber") and is now dense with restaurants, bars, and trattorias. The Basilica di Santa Maria in Trastevere, with its 12th-century mosaics, is the architectural centrepiece.

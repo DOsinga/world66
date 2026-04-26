@@ -3,11 +3,13 @@ address: Largo da Sé, Alfama
 done:
   poi_cleanup: '2026-04-20'
 latitude: 38.7099
-longitude: -9.133381
+longitude: -9.1325
 snippet: Romanesque fortress-church from 1147, Lisbon's oldest
 tags:
 - things_to_do
 - architecture
+- sight
+- alfama
 title: Lisbon Cathedral (Sé)
 type: poi
 ---

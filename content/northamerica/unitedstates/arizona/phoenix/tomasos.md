@@ -10,7 +10,7 @@ tags:
 - restaurant
 - bar
 title: Tomaso's
-type: Italian
+type: poi
 ---
 
 Phoenix restaurants are often known for their regional fare, often including Mexican and southwest influences in all of their dishes. For Tomaso’s Italian restaurant, Phoenix is merely jumping off point for their delicious Italian food, including seafood, steak and an amazing wine list. For over 30 years, Tomaso’s has been cooking up delicious meals complete with a full bar and spacious dining room on the grounds. Tomaso’s also offers catering for interested parties. The dress code at Tomaso’s is often upscale, so make sure to wear you best threads when you have a night out at Tomaso’s.

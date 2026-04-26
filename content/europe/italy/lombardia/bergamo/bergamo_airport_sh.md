@@ -4,7 +4,7 @@ email: ticket@orioshuttle.com Information
 tags:
 - getting_there
 title: Bergamo Airport Shuttle Bus
-type: By Road
+type: poi
 url: www.orioshuttle.com
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: "Practical Information in South County Dublin"
-type: section
-address: "Dublin"
-email: "dublinaccommodations@gmail.com"
-phone: "0035318510512"
-type: "Tourist information"
-url: "www.hidden-dublin.com"
+address: Dublin
+email: dublinaccommodations@gmail.com
 latitude: 53.349379
 longitude: -6.260559
+phone: 0035318510512
+title: Practical Information in South County Dublin
+type: poi
+url: www.hidden-dublin.com
 ---
 
 A useful website for South County Dublin visitors is http://www.hidden-dublin.com

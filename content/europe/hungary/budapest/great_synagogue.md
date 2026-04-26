@@ -2,15 +2,17 @@
 address: Dohany utca 2
 latitude: 47.4961
 longitude: 19.0609
+snippet: Europe's largest synagogue with Holocaust memorial garden
 tags:
 - things_to_do
 - museum
 - church
 - park
 - monument
+- sight
+- jewish_quarter
 title: Great Synagogue
 type: poi
-snippet: "Europe's largest synagogue with Holocaust memorial garden"
 url: www.dohanystreetsynagogue.hu
 ---
 

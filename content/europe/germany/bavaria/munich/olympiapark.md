@@ -6,6 +6,7 @@ snippet: Iconic 1972 Olympic grounds with sweeping tent-roof architecture
 tags:
 - things_to_do
 - landmark
+- sight
 title: Olympiapark
 type: poi
 ---

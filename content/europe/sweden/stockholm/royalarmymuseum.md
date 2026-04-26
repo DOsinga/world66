@@ -9,6 +9,7 @@ snippet: Five centuries of Swedish military history in a Djurgården arsenal
 tags:
 - things_to_do
 - museum
+- ostermalm
 title: Royal Army Museum
 type: poi
 ---

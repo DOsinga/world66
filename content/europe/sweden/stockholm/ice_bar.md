@@ -5,7 +5,7 @@ tags:
 - bars_and_cafes
 - bar
 title: Ice Bar
-type: Hotspots
+type: poi
 ---
 
 Neat place to see a bar constructed entirely out of ice. Touristy but well worth the visit.

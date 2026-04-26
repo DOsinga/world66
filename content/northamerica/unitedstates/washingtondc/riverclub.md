@@ -6,7 +6,7 @@ phone: 202-298-8222.
 tags:
 - bars_and_cafes
 title: River Club
-type: Dancing
+type: poi
 ---
 
 type: Dancing

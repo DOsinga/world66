@@ -4,7 +4,7 @@ longitude: 24.110632
 tags:
 - things_to_do
 title: St. John's.
-type: Churches
+type: poi
 ---
 
 Jana7, tel.: 7224028/7225171. Open 11-18.

@@ -7,7 +7,7 @@ phone: 035 251171/fax 035 4329388
 tags:
 - things_to_do
 title: Swimming Pool Centro Sportivo Italcementi
-type: Other
+type: poi
 url: www.bergamosportspa.it
 ---
 

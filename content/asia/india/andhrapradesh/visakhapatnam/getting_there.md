@@ -1,8 +1,7 @@
 ---
-title: "Getting There"
-type: section
-type: "By Rail"
-url: "www.indianrail.gov.in"
+title: Getting There
+type: poi
+url: www.indianrail.gov.in
 ---
 
 Here are a few suggestions to reach Visakhapatnam.

@@ -9,7 +9,6 @@ snippet: Laid-back Richmond bar with pool and pinball
 tags:
 - bars_and_cafes
 - bar
-- neighbourhood
 title: Fizzees
 type: poi
 ---

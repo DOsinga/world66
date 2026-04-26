@@ -4,9 +4,8 @@ longitude: 0.2398
 snippet: Medieval old town with tufa-stone houses below the fortress
 tags:
 - things_to_do
-- neighbourhood
 title: Vieux Chinon
-type: poi
+type: neighbourhood
 ---
 
 The old town below the fortress is compact and largely unspoilt. Rue Voltaire is the main street — a long straight run of medieval and Renaissance buildings, mostly in the warm tufa limestone that characterises this part of the Loire. Look for the Maison Rouge (a 15th-century half-timbered house) and the Grand Carroi, the old crossroads at the town's heart.

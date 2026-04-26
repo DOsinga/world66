@@ -6,6 +6,7 @@ tags:
 - day_trips
 - palace
 - tower
+- sight
 title: Visegrád
 type: poi
 ---

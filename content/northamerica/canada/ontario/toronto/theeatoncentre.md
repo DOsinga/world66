@@ -8,7 +8,7 @@ tags:
 - shop
 - restaurant
 title: The Eaton Centre
-type: Shopping centers and malls
+type: poi
 url: www.torontoeatoncentre.com
 ---
 

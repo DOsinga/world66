@@ -8,7 +8,7 @@ tags:
 - beach
 - bar
 title: Platoo Restaurant
-type: Thai
+type: poi
 url: www.platoorestaurant.com
 ---
 

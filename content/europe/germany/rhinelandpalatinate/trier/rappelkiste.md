@@ -4,7 +4,7 @@ longitude: 7.928905
 tags:
 - shopping
 title: Rappelkiste
-type: general
+type: poi
 ---
 
 Toys and puppets, games and children books - this is a paradise for both children and adults.

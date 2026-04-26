@@ -8,7 +8,6 @@ phone: +20 2 7359640
 tags:
 - bars_and_cafes
 - bar
-- neighbourhood
 title: Abdel Kader
 type: poi
 ---

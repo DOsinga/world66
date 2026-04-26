@@ -6,9 +6,8 @@ longitude: 12.6105
 snippet: Self-governing commune in a former military base since 1971
 tags:
 - things_to_do
-- neighbourhood
 title: Christiania
-type: poi
+type: neighbourhood
 ---
 
 A self-proclaimed "free state" on a former military base, Christiania has been home to a commune since 1971. The area is full of hand-built houses, workshops, music venues, and organic eateries. It remains one of Copenhagen's most distinctive and controversial neighbourhoods, with its future perpetually under political debate.

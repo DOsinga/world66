@@ -4,8 +4,9 @@ latitude: 48.136106
 longitude: 11.583011
 tags:
 - bars_and_cafes
+- altstadt
 title: Havana Club
-type: Bars
+type: poi
 ---
 
 How to experience Cuban life the way it was back in the 1950s? Go and check out the Havana Club.

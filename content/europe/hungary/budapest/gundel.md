@@ -8,6 +8,8 @@ snippet: Budapest's grand Hungarian restaurant since 1894
 tags:
 - eating_out
 - restaurant
+- sight
+- andrassy_avenue
 title: Gundel
 type: poi
 url: gundel.hu

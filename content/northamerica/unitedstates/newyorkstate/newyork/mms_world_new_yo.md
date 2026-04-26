@@ -9,7 +9,7 @@ tags:
 - shop
 - square
 title: M&M's World New York
-type: Speciality shops
+type: poi
 url: www.mmsworld.com
 ---
 

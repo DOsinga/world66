@@ -7,6 +7,7 @@ snippet: South Korea's postal history from royal couriers to modern stamps
 tags:
 - things_to_do
 - museum
+- myeongdong
 title: Postal Museum
 type: poi
 ---

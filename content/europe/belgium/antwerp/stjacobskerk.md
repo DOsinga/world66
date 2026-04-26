@@ -6,7 +6,7 @@ tags:
 - things_to_do
 - church
 title: St Jacobskerk
-type: Churches & Cathedrals
+type: poi
 ---
 
 Open April-October Mon-Sat 2-5pm, November-March Mon-Sat 9am-noon. This is the church where Rubens was buried, and his close relatives, when he died in 1640.

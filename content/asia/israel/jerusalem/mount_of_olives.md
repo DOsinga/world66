@@ -7,6 +7,8 @@ snippet: Biblical ridge with sweeping views over the Old City
 tags:
 - things_to_do
 - landmark
+- sight
+- old_city
 title: Mount of Olives
 type: poi
 ---

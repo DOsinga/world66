@@ -1,13 +1,12 @@
 ---
-title: "Getting There"
-type: section
-address: "14 New Orleans Rd"
-email: "info@hiltonheadislander.com"
-phone: "1-800-368-5975"
-type: "By Road"
-url: "www.hiltonheadislander.com"
+address: 14 New Orleans Rd
+email: info@hiltonheadislander.com
 latitude: 32.157781
 longitude: -80.754368
+phone: 1-800-368-5975
+title: Getting There
+type: poi
+url: www.hiltonheadislander.com
 ---
 
 Located along the southeastern coast of South Carolina, Hilton Head Island features an excellent climate for relaxation, just 35 minutes from Savannah, 45 minutes from Beaufort, and 1.5 hours from Charleston.

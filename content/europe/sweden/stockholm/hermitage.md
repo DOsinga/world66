@@ -6,6 +6,7 @@ phone: 08-411 95 00
 snippet: Popular vegetarian spot in Gamla Stan
 tags:
 - restaurants
+- gamla_stan
 title: Hermitage
 type: poi
 ---

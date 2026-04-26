@@ -4,7 +4,7 @@ phone: 905-526-0911
 tags:
 - things_to_do
 title: HMCS Haida National Historic Site of Canada
-type: Landmarks
+type: poi
 url: www.pc.gc.ca
 ---
 

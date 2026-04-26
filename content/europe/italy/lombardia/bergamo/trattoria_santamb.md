@@ -10,7 +10,7 @@ tags:
 - restaurant
 - square
 title: Trattoria Sant'Ambroeus
-type: Local
+type: poi
 url: www.trattoriasantambroeus.it
 ---
 

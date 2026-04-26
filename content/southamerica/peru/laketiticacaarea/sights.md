@@ -5,7 +5,7 @@ done:
 latitude: -15.721654
 longitude: -70.15899
 title: Sights
-type: Graves and Cemeteries
+type: poi
 ---
 
 The main tourist attraction in Lake Titicaca is the Uros Islands -- also known as the floating islands. These islands are made from reed that grows in the lake's waters. It is very touristic.

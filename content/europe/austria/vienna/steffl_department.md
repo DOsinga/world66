@@ -6,8 +6,10 @@ longitude: 16.372121
 phone: +43 1 930 56 - 0
 tags:
 - shopping
+- sight
+- innere_stadt
 title: Steffl Department Store Vienna
-type: Shopping centers and malls
+type: poi
 url: www.steffl-vienna.at
 ---
 

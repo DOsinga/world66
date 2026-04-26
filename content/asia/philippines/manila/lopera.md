@@ -6,7 +6,7 @@ phone: '+632.8893963'
 tags:
 - eating_out
 title: L'Opera
-type: Italian
+type: poi
 url: www.loperagroup.com
 ---
 

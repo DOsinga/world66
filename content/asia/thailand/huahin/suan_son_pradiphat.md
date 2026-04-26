@@ -6,7 +6,7 @@ tags:
 - park
 - beach
 title: Suan Son Pradiphat Beach
-type: Hotspots
+type: poi
 ---
 
 Fringed with pine trees, Suan Son Pradiphat is a peaceful, lovely beach, where you can get away from it all.

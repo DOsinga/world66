@@ -10,7 +10,7 @@ tags:
 - shop
 - park
 title: Patioline - Hot Tubs, Patio and More
-type: Speciality shops
+type: poi
 url: www.patioline.ca
 ---
 

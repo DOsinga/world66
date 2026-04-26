@@ -7,7 +7,7 @@ phone: +47 23 - 24 14 00
 tags:
 - things_to_do
 title: Munch Museum
-type: Museums
+type: poi
 url: www.munch.museum.no
 ---
 

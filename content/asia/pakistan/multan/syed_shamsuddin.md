@@ -2,7 +2,7 @@
 tags:
 - things_to_do
 title: Syed Shams-ud-din 'Shah Shams Sabzwari'
-type: Memorials
+type: poi
 ---
 
 The mazar of Shams-ud-Din, commonly known as Shah Shams Tabrez is located about half a mile to the east of the Fort Site, on the high bank of the old bed of the river Ravi. He passed away in 1276 AD and the shrine was built by his grandson in 1 330 AD It was rebuilt by one of his followers in 171 8 AD The Tomb is square, 30 feet in height surmounted by a hemispherical dome. It is decorated with ornamental glazed tiles.

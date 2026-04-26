@@ -9,6 +9,9 @@ snippet: Baroque royal palace with 600 rooms and daily changing of the guard
 tags:
 - things_to_do
 - palace
+- sight
+- architecture
+- gamla_stan
 title: Royal Palace
 type: poi
 ---

@@ -1,14 +1,25 @@
 ---
-title: Crocodile Farm and Davao Wild Water Adventure
-type: poi
+address: Davao Crocodile Park, River Front, Corporate City Diversion Highway
 tags:
 - things_to_do
-snippet: "Crocodile park and white-water rafting on the Davao River"
-address: Davao Crocodile Park, Riverfront Corporate City, Diversion Highway
-latitude: 7.1017
-longitude: 125.5553
+title: Crocodile Farm and Davao Wild Water Adventure
+type: poi
 ---
 
-The Davao Crocodile Park houses dozens of crocodiles, some pulled from the Davao River itself. The star resident is Pangil, roughly 20 feet long and impressively menacing behind glass.
+Here you'll find lots of crocodiles, a few taken from the Davao River. They
+come in different sizes, the largest one aptly named Pangil, is about 20
+feet long.
 
-Next door, the Davao Wild Water Adventure runs white-water rafting trips down the Davao River. The three-hour run starts in the highlands of Baguio District and finishes in the lowlands near Calinan, covering about 30 rapids of varying difficulty. Cliffside rappelling and other add-ons are available for those who want more adrenaline.
+One of Davao's newest attraction is white water rafting on the Davao
+River. The 3-hour run starts from the highlands of Baguio District,
+then down to Calinan, and then the lowlands. All in all there's about
+30 rapids of varying degrees of difficulty. There's also additional
+activities for the more adventurous, like cliffside rappelling.
+
+type: Hotspots
+
+
+
+
+
+address: Davao Crocodile Park, River Front, Corporate City Diversion Highway

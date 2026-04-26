@@ -6,7 +6,7 @@ phone: 202-232-6307
 tags:
 - bars_and_cafes
 title: Fox and Hounds
-type: Bars
+type: poi
 url: www.washingtonpost.com
 ---
 

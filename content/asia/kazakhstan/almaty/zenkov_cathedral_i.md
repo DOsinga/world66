@@ -2,7 +2,7 @@
 tags:
 - sights
 title: Zenkov Cathedral in the 28 Panfilov Guardsmen Park
-type: Public Buildings
+type: poi
 ---
 
 Svyato-Voznesenski Orthodox Cathedral, designed by a local architect A.Zenkov, was built in 1904. It is one of the eight most unique wooden buildings in the world. Its wall paintings, screens and interior decorations strike one’s imagination with its beauty and splendor. Of special interest is the fact that it survived the 1911 earthquake with a magnitude of 10 on Richter scale.

@@ -9,7 +9,7 @@ tags:
 - shopping
 - shop
 title: Send Flower India
-type: Shopping centers and malls
+type: poi
 url: www.sendflowerindia.com
 ---
 

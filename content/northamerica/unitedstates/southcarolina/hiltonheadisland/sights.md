@@ -1,14 +1,13 @@
 ---
-title: "Sights"
-type: section
-address: "14 New Orleans Road"
-email: "contact@hiltonheadrentals.com"
-opening_hours: "9 AM - 5 PM"
-phone: "843-671-4700"
-type: "Hotspots"
-url: "www.hiltonheadrentals.com"
+address: 14 New Orleans Road
+email: contact@hiltonheadrentals.com
 latitude: 32.157781
 longitude: -80.754368
+opening_hours: 9 AM - 5 PM
+phone: 843-671-4700
+title: Sights
+type: poi
+url: www.hiltonheadrentals.com
 ---
 
 Located at the southern end of Hilton Head Island, Sea Pines Plantation is the island's largest and oldest resort. Sea Pines is skirted by five miles of wide sandy beaches and intersected by salt marshes and winding fresh water lagoons.

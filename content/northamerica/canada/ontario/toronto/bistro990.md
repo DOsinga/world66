@@ -8,7 +8,7 @@ tags:
 - eating_out
 - restaurant
 title: Bistro 990
-type: French
+type: poi
 url: www.toronto.com
 zipcode: M5S 3A8
 ---

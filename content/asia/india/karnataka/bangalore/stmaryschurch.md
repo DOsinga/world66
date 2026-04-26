@@ -4,7 +4,7 @@ longitude: 76.56493
 tags:
 - things_to_do
 title: St. Mary's Church
-type: Hotspots
+type: poi
 ---
 
 This church is now a minor Basilica. The Virgin Mary's festival is

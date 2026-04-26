@@ -10,7 +10,7 @@ phone: 318-8440.
 tags:
 - sights
 title: Kitt Peak National Optical Astronomy Observatory
-type: Parks, Gardens and Zoos
+type: poi
 url: www.noao.edu
 ---
 

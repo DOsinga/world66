@@ -3,7 +3,7 @@ tags:
 - things_to_do
 - architecture
 title: Amphitheatre
-type: general
+type: poi
 ---
 
 Ruin of Roman arena for fights of gladiators and animals, built about AD 100, the ranks could hold 20.000 spectators.

@@ -7,7 +7,6 @@ snippet: Quiet hilltop with 360-degree city views, far from the tour bus crowds
 tags:
 - things_to_do
 - park
-- neighbourhood
 title: Bernal Hill Park
 type: poi
 ---

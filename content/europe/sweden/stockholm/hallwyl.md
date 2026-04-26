@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - museum
 - palace
+- sight
 title: Hallwyl
 type: poi
 ---

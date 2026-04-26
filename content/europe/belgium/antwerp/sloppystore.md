@@ -7,7 +7,7 @@ tags:
 - bar
 - club
 title: Sloppy Store
-type: Clubs
+type: poi
 ---
 
 Good club when you feel like dancing. Open Thurs.-Sat.

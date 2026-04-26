@@ -11,7 +11,6 @@ tags:
 - eating_out
 - restaurant
 - market
-- neighbourhood
 title: Taqueria Cancun
 type: poi
 ---

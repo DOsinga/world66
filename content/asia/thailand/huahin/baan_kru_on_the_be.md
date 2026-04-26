@@ -9,7 +9,7 @@ tags:
 - restaurant
 - beach
 title: Baan Kru on the Beach
-type: Seafood
+type: poi
 ---
 
 Thai seafood restaurant right on the beach at Khao Takiab Bay. Large and extensive seafood menu, cheap drinks, walk on the beach in moonlight, fun and relax atmosphere, live music at weekends.

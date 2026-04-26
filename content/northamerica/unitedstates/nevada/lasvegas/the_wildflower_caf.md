@@ -7,7 +7,7 @@ tags:
 - eating_out
 - cafe
 title: The Wildflower Cafe & Florist
-type: American
+type: poi
 ---
 
 Full service restaurant, offering breakfast, lunch and dinners menus. Located on the south end of the Meadows Mall.

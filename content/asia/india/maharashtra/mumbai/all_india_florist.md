@@ -5,7 +5,7 @@ tags:
 - shopping
 - shop
 title: All India Florist
-type: Antiques
+type: poi
 url: www.allindiaflorist.com
 ---
 

@@ -8,7 +8,7 @@ tags:
 - shopping
 - shop
 title: Freda's
-type: Speciality shops
+type: poi
 url: www.fredas.com
 ---
 

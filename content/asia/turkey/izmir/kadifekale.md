@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Kadifekale
-type: Hotspots
+type: poi
 ---
 
 Kadifekale is located south of Konak suquare which has the best view over looking the city.

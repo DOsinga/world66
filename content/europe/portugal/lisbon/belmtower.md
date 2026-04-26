@@ -1,7 +1,11 @@
 ---
 title: "Belém Tower"
 type: poi
-tags: [things_to_do, architecture]
+tags:
+- things_to_do
+- architecture
+- sight
+- belem
 snippet: "UNESCO-listed Manueline fortress on the Tagus riverbank"
 address: "Av. Brasília, Belém"
 latitude: 38.691667

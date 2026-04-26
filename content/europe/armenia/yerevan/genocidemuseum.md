@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - museum
 title: Genocide Museum
-type: Museums
+type: poi
 ---
 
 The Museum's testimony to the 1915 destruction of the Armenian communities of Eastern Anatolia is moving, and the monument itself is austere but powerful.

@@ -9,6 +9,9 @@ opening_hours: Daily 10am–6pm (Oct–Mar), 10am–6:30pm (Apr–Sep)
 snippet: Neoclassical mausoleum with Voltaire, Hugo, and Foucault's pendulum
 tags:
 - things_to_do
+- sight
+- architecture
+- latin_quarter
 title: The Panthéon
 type: poi
 url: www.paris-pantheon.fr

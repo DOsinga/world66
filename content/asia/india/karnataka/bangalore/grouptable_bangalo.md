@@ -5,7 +5,7 @@ phone: 080-67331000
 tags:
 - eating_out
 title: Grouptable Bangalore
-type: Indian and Pakistani
+type: poi
 url: www.grouptable.com
 ---
 

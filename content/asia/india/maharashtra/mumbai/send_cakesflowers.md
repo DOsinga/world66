@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Send Cakes,Flowers,Chocolates to Mumbai from MumbaiCakeShop.com
-type: Antiques
+type: poi
 url: www.mumbaicakeshop.com
 ---
 

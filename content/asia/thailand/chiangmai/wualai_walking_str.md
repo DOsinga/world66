@@ -3,7 +3,7 @@ address: Wualai street outside the Chaing Mai Gate
 tags:
 - shopping
 title: Wualai Walking Street
-type: Markets
+type: poi
 url: northernthailand.com
 ---
 

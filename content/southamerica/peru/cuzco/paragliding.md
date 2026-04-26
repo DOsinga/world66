@@ -3,7 +3,7 @@ address: Any travel agency in Cuzco
 tags:
 - things_to_do
 title: Paragliding
-type: Other
+type: poi
 ---
 
 Paragliding is a great experience in Cuzco. Thermals are strong, and the views are great.

@@ -10,6 +10,8 @@ tags:
 - things_to_do
 - museum
 - palace
+- sight
+- architecture
 title: Gripsholm Castle
 type: poi
 ---

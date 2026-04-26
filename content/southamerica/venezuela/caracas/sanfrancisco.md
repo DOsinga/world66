@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: San Francisco
-type: Churches
+type: poi
 ---
 
 Note the colonial altars in the Church of San Francisco.

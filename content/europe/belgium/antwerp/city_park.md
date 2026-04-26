@@ -7,7 +7,7 @@ tags:
 - bridge
 - neighbourhood
 title: City Park
-type: Parks, Gardens and Zoos
+type: poi
 ---
 
 The triangular shaped city park is okay for a stroll. There is a high

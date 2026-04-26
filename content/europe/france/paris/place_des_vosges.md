@@ -2,10 +2,13 @@
 address: Place des Vosges, 75004 Paris
 latitude: 48.855455
 longitude: 2.362468
-snippet: "Paris's oldest planned square, a Marais masterpiece since 1612"
+snippet: Paris's oldest planned square, a Marais masterpiece since 1612
 tags:
 - things_to_do
 - sight
+- museum
+- market
+- le_marais
 title: Place des Vosges
 type: poi
 ---

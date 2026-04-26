@@ -5,7 +5,7 @@ price: varies
 tags:
 - eating_out
 title: (Frank and Teressas) Anchor Bar
-type: Local
+type: poi
 url: www.anchorbar.com
 ---
 

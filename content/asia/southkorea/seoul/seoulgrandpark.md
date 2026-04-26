@@ -5,6 +5,8 @@ snippet: Massive park complex with zoo, gardens, and contemporary art museum
 tags:
 - things_to_do
 - landmark
+- museum
+- sight
 title: Seoul Grand Park
 type: poi
 ---

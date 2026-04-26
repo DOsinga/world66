@@ -7,7 +7,7 @@ phone: 504-680-0128
 tags:
 - things_to_do
 title: The New Orleans Historic Voodoo Museum
-type: Spa and Sauna
+type: poi
 url: www.voodoomuseum.com
 ---
 

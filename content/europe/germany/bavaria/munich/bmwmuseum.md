@@ -3,10 +3,12 @@ address: Petuelring 130
 latitude: 48.176912
 longitude: 11.560127
 phone: +49 (0)89 - 38 22-33 07
-snippet: "Striking bowl-shaped building tracing BMW's century of car and motorcycle design"
+snippet: Striking bowl-shaped building tracing BMW's century of car and motorcycle
+  design
 tags:
 - things_to_do
 - museum
+- sight
 title: BMW Museum
 type: poi
 ---

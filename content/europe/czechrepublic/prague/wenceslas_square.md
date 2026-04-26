@@ -1,10 +1,14 @@
 ---
 latitude: 50.081587
 longitude: 14.42717
-snippet: "Broad boulevard where Czechs gathered in 1968 and 1989 to change history"
+snippet: Broad boulevard where Czechs gathered in 1968 and 1989 to change history
 tags:
 - things_to_do
 - landmark
+- museum
+- sight
+- architecture
+- stare_mesto
 title: Wenceslas Square
 type: poi
 ---

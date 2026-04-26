@@ -3,7 +3,7 @@ address: Brescia or Verona
 tags:
 - getting_there
 title: Brescia & Verona Airports
-type: By Air
+type: poi
 url: www.aeroportoverona.it
 ---
 

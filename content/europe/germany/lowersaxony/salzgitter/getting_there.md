@@ -1,13 +1,12 @@
 ---
-title: "Getting There in Salzgitter"
-type: section
-address: "Konrad-Adenauer-Straße 1; 38226 Salzgitter"
-email: "info@TicketStation-Salzgitter.de"
-phone: "0049-5341-887502"
-type: "By Rail"
-url: "www.ticketstation-salzgitter.de"
+address: Konrad-Adenauer-Straße 1; 38226 Salzgitter
+email: info@TicketStation-Salzgitter.de
 latitude: 52.15287
 longitude: 10.346103
+phone: 0049-5341-887502
+title: Getting There in Salzgitter
+type: poi
+url: www.ticketstation-salzgitter.de
 ---
 
 Salzgitter Transportation

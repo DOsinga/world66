@@ -9,7 +9,7 @@ tags:
 - bar
 - club
 title: Temple Club
-type: Vietnamese
+type: poi
 ---
 
 his high-end restaurant, attached to an equally elegant bar and lounge,

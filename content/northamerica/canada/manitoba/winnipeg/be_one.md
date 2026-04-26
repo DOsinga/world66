@@ -7,7 +7,7 @@ price: 'Entrées: $9.99-$16.99'
 tags:
 - eating_out
 title: Be One
-type: International
+type: poi
 ---
 
 Be One is a traditinal **Korean** barbeque restaurant. The front entrance is very non-descript and hides what is waiting for you when you enter! Upon opening the front door, we were greeted by smiling wait staff who welcomed us. We were shown into a large dining area with traditional wood decor, nice music and a lovely aroma.

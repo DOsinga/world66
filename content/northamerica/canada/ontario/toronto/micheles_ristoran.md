@@ -8,7 +8,7 @@ tags:
 - eating_out
 - restaurant
 title: Michele's Ristorante
-type: Italian
+type: poi
 url: michelesristorante.com
 ---
 

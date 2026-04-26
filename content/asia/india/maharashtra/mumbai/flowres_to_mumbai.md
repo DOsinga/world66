@@ -6,7 +6,7 @@ tags:
 - shopping
 - shop
 title: Flowres to Mumbai - MumbaiFlowers.com
-type: Antiques
+type: poi
 url: www.mumbai-flowers.com
 ---
 

@@ -1,8 +1,6 @@
 ---
-done:
-  poi_cleanup: '2026-04-21'
 title: Practical Information in Kolkata
-type: Tourist information
+type: poi
 url: www.indiandestination.com
 ---
 

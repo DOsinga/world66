@@ -9,7 +9,7 @@ tags:
 - market
 - cafe
 title: Orio Center Centro Commerciale
-type: Shopping centers and malls
+type: poi
 url: www.oriocenter.it
 ---
 

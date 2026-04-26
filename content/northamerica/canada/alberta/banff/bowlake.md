@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - park
 title: Bow Lake .
-type: general
+type: poi
 ---
 
 The lake is the source of the Bow River. Across the lake is part of a very large icefield covering an area of the Great Divide. The Bow Glacier extends from this field over the cliffs. 

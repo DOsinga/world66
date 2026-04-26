@@ -10,6 +10,8 @@ price_per_night: €50–80 per person
 snippet: Michelin-starred French-Asian fusion on the Left Bank
 tags:
 - eating_out
+- museum
+- saint_germain
 title: Ze Kitchen Galerie
 type: poi
 url: www.zekitchengalerie.fr

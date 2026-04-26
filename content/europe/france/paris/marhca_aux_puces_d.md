@@ -2,9 +2,11 @@
 address: Avenue Marc Sangnier & Avenue Georges Lafenestre, 75014 Paris
 latitude: 48.8268
 longitude: 2.3057
-snippet: "Authentic weekend flea market in the 14th arrondissement"
+snippet: Authentic weekend flea market in the 14th arrondissement
 tags:
 - shopping
+- architecture
+- market
 title: Flea Market at Vanves
 type: poi
 ---

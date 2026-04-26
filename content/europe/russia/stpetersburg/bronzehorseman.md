@@ -1,13 +1,17 @@
 ---
-title: "Bronze Horseman"
-type: poi
 latitude: 59.9364
 longitude: 30.3022
 snippet: Peter the Great on horseback, St Petersburg's defining monument
+story: The pedestal is a single granite boulder weighing 1,600 tonnes, dragged from
+  a swamp near St Petersburg — it took nine months and hundreds of men to move it
+  to Senate Square.
 tags:
 - things_to_do
 - landmark
-story: "The pedestal is a single granite boulder weighing 1,600 tonnes, dragged from a swamp near St Petersburg — it took nine months and hundreds of men to move it to Senate Square."
+- sight
+- nevskiyprospekt
+title: Bronze Horseman
+type: poi
 ---
 
 The Bronze Horseman on Senate Square is St Petersburg's most iconic monument — a dramatic statue of Peter the Great on a rearing horse, its hind legs trampling a serpent. Commissioned by Catherine the Great and sculpted by Etienne Falconet, it was unveiled in 1782. Pushkin immortalized it in his 1833 poem of the same name.

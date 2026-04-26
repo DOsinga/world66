@@ -4,7 +4,7 @@ longitude: -43.531876
 tags:
 - shopping
 title: Rua Augusta
-type: Shopping centers and malls
+type: poi
 ---
 
 Leading off Avenida Paulista, chic to very chic.

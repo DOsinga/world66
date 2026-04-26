@@ -9,7 +9,7 @@ tags:
 - shop
 - market
 title: Auchan Shopping Center
-type: Shopping centers and malls
+type: poi
 url: www.bergamo.gallerieauchan.it
 ---
 

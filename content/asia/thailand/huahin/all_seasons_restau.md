@@ -6,7 +6,7 @@ tags:
 - eating_out
 - restaurant
 title: All Seasons Restaurant
-type: International
+type: poi
 url: www.all-seasons-restaurant.net
 ---
 

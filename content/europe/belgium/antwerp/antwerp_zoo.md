@@ -6,7 +6,7 @@ tags:
 - things_to_do
 - park
 title: Antwerp Zoo
-type: Parks, Gardens and Zoos
+type: poi
 url: www.zooantwerpen.be
 ---
 

@@ -3,10 +3,11 @@ address: Dongjak-dong, Dongjak-gu
 latitude: 37.502971
 longitude: 126.978203
 phone: +82 2 826 6237
-snippet: "Vast hillside memorial honouring Korea's war dead"
+snippet: Vast hillside memorial honouring Korea's war dead
 tags:
 - things_to_do
 - landmark
+- sight
 title: Seoul National Cemetery
 type: poi
 ---

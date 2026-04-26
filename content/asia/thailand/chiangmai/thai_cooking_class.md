@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Thai Cooking Classes
-type: Other
+type: poi
 url: www.cookingclass.asia
 ---
 

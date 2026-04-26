@@ -1,12 +1,11 @@
 ---
-title: "Eating Out"
-type: section
-address: "Blvd. Mijares 1357 col. centro"
-email: "reservaciones@restaurantelcomal.com"
-phone: "01 624 14 25508"
-price: "$8 usd- $28 usd"
-type: "Mexican"
-url: "www.restaurantelcomal.com"
+address: Blvd. Mijares 1357 col. centro
+email: reservaciones@restaurantelcomal.com
+phone: 01 624 14 25508
+price: $8 usd- $28 usd
+title: Eating Out
+type: poi
+url: www.restaurantelcomal.com
 ---
 
 ### ["El Comal" De la Buena comida Mexicana...

@@ -1,7 +1,6 @@
 ---
-title: "Things to do"
-type: section
-type: "Other"
+title: Things to do
+type: poi
 ---
 
 For those who follow the *"Holocaust"* and the history of the war etc, you might have come across one of the families who hid Jews from the Gestapo. This family lived in Haarlem, and owned and ran a clock/watch shop there. Thier family name was **Ten Boom** and you can go into thier home, now a museum and see, *"The Hiding Place"*.

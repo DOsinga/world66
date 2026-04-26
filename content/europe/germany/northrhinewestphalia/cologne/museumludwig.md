@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - museum
 title: Museum Ludwig
-type: Museums
+type: poi
 ---
 
 type: Museums

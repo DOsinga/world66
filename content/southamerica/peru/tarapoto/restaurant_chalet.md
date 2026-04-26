@@ -7,7 +7,7 @@ price: Inexpensive
 tags:
 - eating_out
 title: Restaurant Chalet Venicia
-type: Italian
+type: poi
 ---
 
 Restaurant Chalet Venicia has been a landmark on the corner of Jr. Alegria Arias de Morey and Jr. Leoncio Prado for many years. Probably the oldest and most respected of Italian restaurant in the Amazon Rainforest, Chalet Venicia is best known for amazing lazagna. Layers of lasagna noodles and meat sauce and mozzarela would make even Garfield the cartoon cat salivate.

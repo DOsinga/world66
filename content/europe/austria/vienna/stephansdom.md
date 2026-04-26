@@ -9,6 +9,9 @@ snippet: Gothic cathedral dominating Vienna's centre, with a famously tiled roof
 tags:
 - things_to_do
 - landmark
+- sight
+- architecture
+- innere_stadt
 title: Stephansdom
 type: poi
 ---

@@ -1,10 +1,9 @@
 ---
-title: "Practical Information"
-type: section
-address: "6 de Diciembre y el Telegrafo, Edif. Garcia Ayala, 2do piso Suite 402"
-email: "editor@southamericatour.net"
-type: "Tourist information"
-url: "Venezuela Travel Directory' rel='nofollow'>"
+address: 6 de Diciembre y el Telegrafo, Edif. Garcia Ayala, 2do piso Suite 402
+email: editor@southamericatour.net
+title: Practical Information
+type: poi
+url: Venezuela Travel Directory' rel='nofollow'>
 ---
 
 This information is basically up to date as of 1994-1995. The present government in Venezuela has caused a downturn in many industries so some of the production figures are now much lower.

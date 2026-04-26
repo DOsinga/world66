@@ -8,6 +8,7 @@ snippet: Atmospheric exhibition on Kafka's life and Prague connections
 tags:
 - things_to_do
 - museum
+- mala_strana
 title: Franz Kafka Museum
 type: poi
 url: kafkamuseum.cz

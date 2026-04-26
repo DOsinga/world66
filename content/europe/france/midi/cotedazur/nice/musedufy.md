@@ -3,10 +3,12 @@ address: 77 Quai des Etats-Unis, Nice
 latitude: 43.6953
 longitude: 7.2738
 phone: 04.93.62.31.24
+snippet: Raoul Dufy's bright Riviera watercolours on the seafront
 tags:
 - things_to_do
 - museum
-snippet: "Raoul Dufy's bright Riviera watercolours on the seafront"
+- sight
+- vieux_nice
 title: Musee Dufy
 type: poi
 ---

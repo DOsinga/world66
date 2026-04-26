@@ -1,11 +1,10 @@
 ---
-title: "Eating Out in Scottburgh"
-type: section
-accessibility: "Town Centre"
-address: "Shop 3, Coastline Centre, Scott St, Scottburgh (just behind Foshini's), 4180"
-email: "jclepront@skytec.co.za"
-phone: "0769041477"
-type: "French"
+accessibility: Town Centre
+address: Shop 3, Coastline Centre, Scott St, Scottburgh (just behind Foshini's), 4180
+email: jclepront@skytec.co.za
+phone: 0769041477
+title: Eating Out in Scottburgh
+type: poi
 ---
 
 ### [Le Rendez-Vous Restaurant](/africa/southafrica/scottburgh/eatingout/le_rendezvous_res)

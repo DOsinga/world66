@@ -6,7 +6,6 @@ snippet: South End neighborhood restaurant on Tremont Street
 tags:
 - eating_out
 - restaurant
-- neighbourhood
 title: Mildred's
 type: poi
 ---

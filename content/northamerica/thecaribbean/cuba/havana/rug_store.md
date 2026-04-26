@@ -2,7 +2,7 @@
 tags:
 - shopping
 title: '1'
-type: Antiques
+type: poi
 ---
 
 1

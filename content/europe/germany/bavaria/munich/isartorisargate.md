@@ -7,6 +7,9 @@ snippet: 14th-century city gate housing Karl Valentin's absurdist museum
 tags:
 - things_to_do
 - landmark
+- museum
+- sight
+- altstadt
 title: Isar Tor
 type: poi
 ---

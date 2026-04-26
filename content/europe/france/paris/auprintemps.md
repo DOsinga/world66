@@ -1,10 +1,13 @@
 ---
 address: 64, boulevard Haussmann, 8th Arrondissement
-latitude: 48.8750
-longitude: 2.3180
+latitude: 48.875
+longitude: 2.318
 snippet: Grand Haussmann-era department store with a stunning glass dome
 tags:
 - shopping
+- sight
+- architecture
+- market
 title: Au Printemps
 type: poi
 ---

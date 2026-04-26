@@ -8,7 +8,7 @@ tags:
 - restaurant
 - neighbourhood
 title: Cogels Osylei
-type: Squares
+type: poi
 zipcode: '2018'
 ---
 

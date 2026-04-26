@@ -2,10 +2,12 @@
 address: Kigyo utca 4-6
 latitude: 47.4936
 longitude: 19.056
+snippet: Grand church-like interior with traditional Hungarian cuisine
 tags:
 - eating_out
 - restaurant
-snippet: "Grand church-like interior with traditional Hungarian cuisine"
+- sight
+- jewish_quarter
 title: Apostolok
 type: poi
 ---

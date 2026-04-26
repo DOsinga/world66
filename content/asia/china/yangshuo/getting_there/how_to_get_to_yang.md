@@ -1,19 +1,17 @@
 ---
-latitude: 24.7736
-longitude: 110.4896
-snippet: Bus, train, or flight via Guilin to reach Yangshuo
-tags:
-- getting_there
-title: How to Get to Yangshuo
+title: How to get to Yangshuo?
 type: poi
 ---
 
-Yangshuo does not have its own airport or major railway station, so most travelers arrive via [Guilin](/asia/china/guilin), about 65 km to the north.
+Dear travelers,there are some diffrent ways to get to the beatiful village-Yangshuo as below:
 
-**By air:** Fly into Guilin Liangjiang International Airport. From the airport, direct buses run to Yangshuo in about ninety minutes. A taxi costs more but saves time if you arrive late.
+1: Fly from somewhere to the Guilin Airport. After take the bus or Taxi To Yangshuo and the drive will take around two between three hours.
 
-**By train:** Guilin has two main railway stations. Guilin North (the high-speed rail station) has fast connections from Guangzhou, Shenzhen, and Nanning. From either station, catch a bus from the adjacent bus terminal to Yangshuo -- the ride takes about an hour and a half.
+2: Take the train to the Guilin Railway station. After take the Bus or Taxi to Yangshuo and drive will take about two hours.
 
-**By bus:** Long-distance buses connect Yangshuo directly with Guangzhou (about eight hours) and Shenzhen (about ten hours). These overnight services drop you right in town.
+3: Take the bus from Canton(Guanzhou) or Shenzhen to Yangshuo. The bus will take about 10 hours(from Canton) or 12 hours(Shenzhen) to Yangshuo.
 
-**By river:** The classic approach is the Li River cruise from Guilin, a four-hour float past the karst peaks that made this landscape famous. It is the most scenic way to arrive and worth doing at least once.
+**Contributors**
+January 25, 2007
+
+type: By Air

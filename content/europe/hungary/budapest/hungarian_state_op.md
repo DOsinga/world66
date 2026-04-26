@@ -3,12 +3,15 @@ address: Andrassy ut 22
 latitude: 47.5024
 longitude: 19.0584
 phone: +36-1-353-0170
+snippet: Neo-Renaissance opera house with affordable performances
 tags:
 - things_to_do
 - theatre
+- sight
+- architecture
+- jewish_quarter
 title: Hungarian State Opera House
 type: poi
-snippet: "Neo-Renaissance opera house with affordable performances"
 url: www.opera.hu
 ---
 

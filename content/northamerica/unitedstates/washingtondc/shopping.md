@@ -1,9 +1,8 @@
 ---
-title: "Shopping"
-type: section
-type: "Antiques"
 latitude: 37.443192
 longitude: -122.170916
+title: Shopping
+type: poi
 ---
 
 Wholesale Carpet Store Home

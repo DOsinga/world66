@@ -9,6 +9,7 @@ tags:
 - going_out
 - bar
 - live_music
+- beyoglu
 title: Jazz Stop
 type: poi
 ---

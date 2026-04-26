@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "Local"
+title: Eating Out
+type: poi
 ---
 
 **saradagi**

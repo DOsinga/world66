@@ -6,7 +6,7 @@ phone: 504-940-2800
 tags:
 - things_to_do
 title: New Orleans Center for Creative Arts (NOCCA)
-type: Other
+type: poi
 url: www.nocca.com
 ---
 

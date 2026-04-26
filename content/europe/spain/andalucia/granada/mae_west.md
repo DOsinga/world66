@@ -7,6 +7,7 @@ snippet: Long-running Granada nightclub in the Centro Comercial Neptuno
 tags:
 - going_out
 - bar
+- albaicin
 title: Mae West
 type: poi
 ---

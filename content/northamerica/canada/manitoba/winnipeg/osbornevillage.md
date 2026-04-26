@@ -4,7 +4,7 @@ longitude: -97.146116
 tags:
 - eating_out
 title: Osborne Village
-type: African
+type: poi
 ---
 
 Winnipeg's Bohemian area offers an eclectic blend of delis, tea rooms and ethnic eateries amidst a charming neighbourhood of

@@ -6,6 +6,8 @@ longitude: 17.224
 snippet: Charming lakeside town with a Renaissance castle and steamboat ride
 tags:
 - day_trips
+- sight
+- architecture
 title: Mariefred & Gripsholms slott
 type: poi
 ---

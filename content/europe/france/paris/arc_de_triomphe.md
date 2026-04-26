@@ -8,6 +8,7 @@ snippet: Napoleon's triumphal arch with panoramic views over twelve converging a
 tags:
 - things_to_do
 - landmark
+- sight
 title: Arc de Triomphe
 type: poi
 url: www.paris-arc-de-triomphe.fr

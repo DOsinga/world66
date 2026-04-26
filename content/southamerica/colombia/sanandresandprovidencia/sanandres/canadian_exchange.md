@@ -4,7 +4,7 @@ longitude: -123.06573
 tags:
 - practical_informat
 title: Canadian Exchange
-type: Money matters
+type: poi
 ---
 
 Unlike most islands where it is more practical to change Canadian money into American money before you leave, the exchange rate from Canadian to Colombian is very favourable.

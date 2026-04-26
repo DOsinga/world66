@@ -7,7 +7,7 @@ phone: (520)621-6302
 tags:
 - sights
 title: Arizona State Museum
-type: Hotspots
+type: poi
 ---
 
 Arizona State Museum

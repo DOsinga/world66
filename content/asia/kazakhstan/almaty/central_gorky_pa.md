@@ -5,7 +5,7 @@ phone: 30 84 52,30 61 11
 tags:
 - sights
 title: Central (Gorky) Park
-type: Parks, Gardens and Zoos
+type: poi
 ---
 
 Almaty’s largest recreational area, is still known as Gorky Park.

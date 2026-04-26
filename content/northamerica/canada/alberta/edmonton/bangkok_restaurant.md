@@ -5,7 +5,7 @@ price: Adult--$10.95
 tags:
 - eating_out
 title: Bangkok Restaurant
-type: Thai
+type: poi
 url: www.bkkbuffet.com
 ---
 

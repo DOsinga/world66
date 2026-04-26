@@ -3,7 +3,7 @@ category: Sight
 latitude: 53.358888
 longitude: -6.30853
 title: Dublin Zoo
-type: Parks, Gardens and Zoos
+type: poi
 url: www.dublinzoo.ie
 ---
 

@@ -8,7 +8,7 @@ phone: +47 23 08 67 67
 tags:
 - things_to_do
 title: Kontiki Museum
-type: Museums
+type: poi
 zipcode: http://www.museumsnett.no/kon-tiki/Museum/
 ---
 

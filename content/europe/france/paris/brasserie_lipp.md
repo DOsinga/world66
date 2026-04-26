@@ -9,6 +9,8 @@ phone: +33 1 45 48 53 91
 snippet: Alsatian brasserie on Saint-Germain, unchanged since 1880
 tags:
 - bars_and_cafes
+- sight
+- saint_germain
 title: Brasserie Lipp
 type: poi
 url: www.brasserie-lipp.fr

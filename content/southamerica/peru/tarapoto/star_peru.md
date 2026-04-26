@@ -7,7 +7,7 @@ phone: 'Reservations: (511) 705-9000'
 tags:
 - getting_there
 title: Star Peru
-type: By Air
+type: poi
 url: www.starperu.com
 ---
 

@@ -8,6 +8,8 @@ snippet: Bohemia's oldest monastery with its own brewery since 993
 tags:
 - things_to_do
 - landmark
+- sight
+- architecture
 title: Břevnov Monastery
 type: poi
 ---

@@ -6,7 +6,7 @@ phone: +37410 527692
 tags:
 - shopping
 title: Nina Hovnanian Couture -Treasures of Armenia
-type: Speciality shops
+type: poi
 url: www.ninacouture.com
 ---
 

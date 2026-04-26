@@ -10,7 +10,7 @@ tags:
 - shop
 - church
 title: Indian Gifts Center
-type: Shopping centers and malls
+type: poi
 url: www.indiangiftscenter.com
 ---
 

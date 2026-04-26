@@ -8,6 +8,8 @@ snippet: Royal burial church on its own island since the 1200s
 tags:
 - things_to_do
 - church
+- sight
+- gamla_stan
 title: Riddarholm Church
 type: poi
 ---

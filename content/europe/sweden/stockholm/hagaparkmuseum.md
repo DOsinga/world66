@@ -2,12 +2,13 @@
 address: Hagaparken
 latitude: 59.363028
 longitude: 18.034587
-phone: "+46 (0)8 402 61 30"
-snippet: "Royal history exhibits inside an 18th-century parkland"
+phone: +46 (0)8 402 61 30
+snippet: Royal history exhibits inside an 18th-century parkland
 tags:
 - things_to_do
 - museum
 - park
+- sight
 title: Haga Park Museum
 type: poi
 ---

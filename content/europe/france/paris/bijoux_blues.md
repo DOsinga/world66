@@ -8,6 +8,7 @@ phone: 01 48 04 00 64
 snippet: Handmade Parisian jewelry in the Marais
 tags:
 - shopping
+- le_marais
 title: Bijoux Blues
 type: poi
 url: www.bijouxblues.com

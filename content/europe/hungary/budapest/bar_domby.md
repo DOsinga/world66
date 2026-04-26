@@ -9,6 +9,7 @@ snippet: Tiny, buzzing cocktail bar near Deak ter
 tags:
 - bars_and_cafes
 - bar
+- jewish_quarter
 title: Bar Domby
 type: poi
 ---

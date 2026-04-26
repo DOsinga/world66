@@ -6,7 +6,7 @@ tags:
 - eating_out
 - cafe
 title: Sunshine Restaurant & Bakery
-type: European
+type: poi
 url: www.sunshine-restaurant.com
 ---
 

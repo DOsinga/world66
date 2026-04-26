@@ -7,7 +7,7 @@ phone: 050/34 33 97
 tags:
 - shopping
 title: De Kaarsengieterij
-type: Speciality shops
+type: poi
 url: www.dekaarsengieterij.be
 ---
 

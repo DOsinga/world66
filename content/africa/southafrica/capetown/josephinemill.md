@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - museum
 title: JOSEPHINE MILL
-type: general
+type: poi
 ---
 
 Cape Town's only surviving water mill built in 1818.

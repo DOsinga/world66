@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Shivaji Park
-type: Parks, Gardens and Zoos
+type: poi
 url: www.visitvizag.in
 ---
 

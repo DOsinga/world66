@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Vino Buono
-type: Italian
+type: poi
 ---
 
 Comfortable atmosphere and a wide variety of wine to choose from. A place to go for a brief trip out of town away from the maddening crowd.

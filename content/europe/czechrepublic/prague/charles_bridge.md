@@ -7,6 +7,9 @@ snippet: Gothic 14th-century bridge over the Vltava lined with 30 Baroque statue
 tags:
 - things_to_do
 - landmark
+- sight
+- architecture
+- mala_strana
 title: Charles Bridge
 type: poi
 ---

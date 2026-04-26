@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Graze Grill
-type: Local
+type: poi
 url: www.grazegrill.com
 ---
 

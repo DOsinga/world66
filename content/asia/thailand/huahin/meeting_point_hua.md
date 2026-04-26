@@ -4,7 +4,7 @@ tags:
 - eating_out
 - restaurant
 title: Meeting Point Hua Hin
-type: International
+type: poi
 url: www.huahin-meeting-point.com
 ---
 

@@ -5,7 +5,7 @@ tags:
 - eating_out
 - restaurant
 title: Lotus Court
-type: Chinese
+type: poi
 url: marcopolohotels.scriptmania.com
 ---
 

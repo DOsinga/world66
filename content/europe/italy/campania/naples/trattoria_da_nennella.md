@@ -3,12 +3,11 @@ address: Vico Lungo Teatro Nuovo 105, 80134 Naples
 latitude: 40.8388
 longitude: 14.2459
 opening_hours: Mon–Sat 12:30–15:30; closed Sun; dinner by reservation only
+snippet: Boisterous Spanish Quarter trattoria with theatrical waiters
 tags:
 - 48 Hours in Naples
 - eating_out
 - restaurant
-- neighbourhood
-snippet: "Boisterous Spanish Quarter trattoria with theatrical waiters"
 title: Trattoria da Nennella
 type: poi
 ---

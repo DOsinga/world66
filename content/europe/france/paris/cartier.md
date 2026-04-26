@@ -6,6 +6,8 @@ longitude: 2.3297
 snippet: Legendary jeweller's flagship on Place Vendome
 tags:
 - shopping
+- museum
+- leshalles
 title: Cartier
 type: poi
 ---

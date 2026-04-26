@@ -6,7 +6,7 @@ tags:
 - things_to_do
 - landmark
 title: Jefferson Memorial
-type: Memorials
+type: poi
 url: www.nps.gov
 ---
 

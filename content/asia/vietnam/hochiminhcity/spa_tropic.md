@@ -5,7 +5,7 @@ phone: (848) 822-8895
 tags:
 - things_to_do
 title: Spa Tropic
-type: Spa and Sauna
+type: poi
 url: www.spatropic.com
 ---
 

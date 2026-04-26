@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Bargello Fashion Store
-type: Shopping centers and malls
+type: poi
 url: www.bargello.com
 ---
 

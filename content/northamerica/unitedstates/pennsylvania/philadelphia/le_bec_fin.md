@@ -6,7 +6,7 @@ phone: (215) 567-1000
 tags:
 - eating_out
 title: Le Bec Fin
-type: French
+type: poi
 url: www.lebecfin.com
 ---
 

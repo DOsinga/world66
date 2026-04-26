@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - landmark
 title: Goethe Museum
-type: Museums
+type: poi
 ---
 
 Schloss Jägerhof, a Baroque palace, has been refitted as the Goethe Museum. Germany's national poet was born in Düsseldorf, just like Heinrich Heine. Mostly interesting for lovers of literature.

@@ -10,7 +10,7 @@ tags:
 - park
 - theatre
 title: Sasi Garden Theatre
-type: Thai
+type: poi
 url: www.sasi-restaurant.com
 ---
 

@@ -5,7 +5,7 @@ phone: 520/749-2861
 tags:
 - sights
 title: Sabino Canyon
-type: Parks, Gardens and Zoos
+type: poi
 url: www.sabinocanyon.org
 ---
 

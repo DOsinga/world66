@@ -6,7 +6,7 @@ tags:
 - getting_there
 - square
 title: Bergamo Trains
-type: By Rail
+type: poi
 url: www.trenitalia.it
 ---
 

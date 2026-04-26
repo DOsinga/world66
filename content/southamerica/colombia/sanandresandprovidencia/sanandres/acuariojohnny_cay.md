@@ -2,7 +2,7 @@
 tags:
 - sights
 title: Acuario-Johnny Cay keys
-type: Hotspots
+type: poi
 ---
 
 Keys located around the island, you can only get there by boat.

@@ -6,7 +6,7 @@ tags:
 - things_to_do
 - landmark
 title: Chiang Mai Biking
-type: Cycling
+type: poi
 url: www.chiangmaibiking.com
 ---
 

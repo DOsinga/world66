@@ -3,10 +3,11 @@ address: Nagymezo utca 25
 latitude: 47.5047
 longitude: 19.0587
 opening_hours: 22:00-6:00 daily
-snippet: "Red velvet late-night bar on Budapest's Broadway"
+snippet: Red velvet late-night bar on Budapest's Broadway
 tags:
 - bars_and_cafes
 - bar
+- andrassy_avenue
 title: Piaf
 type: poi
 ---

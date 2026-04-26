@@ -4,7 +4,7 @@ price: less than $10.00 (most)
 tags:
 - eating_out
 title: Jims Steakout
-type: Local
+type: poi
 url: www.jimssteakout.com
 ---
 

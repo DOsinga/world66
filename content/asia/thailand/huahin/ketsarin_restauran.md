@@ -8,7 +8,7 @@ tags:
 - eating_out
 - restaurant
 title: Ketsarin Restaurant Hua Hin
-type: Seafood
+type: poi
 zipcode: Hua Hin
 ---
 

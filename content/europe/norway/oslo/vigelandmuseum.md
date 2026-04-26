@@ -4,7 +4,7 @@ phone: +47 22 -  54 25 30
 tags:
 - things_to_do
 title: Vigeland Museum
-type: Museums
+type: poi
 url: www.vigeland.museum.no
 ---
 

@@ -7,6 +7,9 @@ snippet: Budapest's most beautiful Art Nouveau thermal bath, opened in 1918
 tags:
 - things_to_do
 - bath
+- museum
+- architecture
+- gellert_hill
 title: Gellert Thermal Bath
 type: poi
 url: www.gellertbath.hu

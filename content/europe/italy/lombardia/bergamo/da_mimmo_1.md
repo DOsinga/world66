@@ -8,7 +8,7 @@ tags:
 - restaurant
 - park
 title: Da Mimmo
-type: Italian
+type: poi
 url: www.ristorantemimmo.com
 ---
 

@@ -7,6 +7,9 @@ snippet: Seoul's grandest Joseon dynasty palace with royal guard ceremony
 tags:
 - things_to_do
 - landmark
+- museum
+- sight
+- insadong
 title: Gyeongbokgung Palace
 type: poi
 ---

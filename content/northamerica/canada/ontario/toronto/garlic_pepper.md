@@ -6,7 +6,7 @@ tags:
 - eating_out
 - restaurant
 title: Garlic Pepper
-type: Chinese
+type: poi
 ---
 
 Well visited restaurant near the corner of Yonge and Wellesley.

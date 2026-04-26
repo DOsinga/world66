@@ -7,7 +7,6 @@ longitude: 25.1335
 snippet: Iraklion's souk-like covered lane with Cretan honey, oils, and cheese
 tags:
 - things_to_do
-- neighbourhood
 title: 1866 Street Market
 type: poi
 ---

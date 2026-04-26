@@ -6,8 +6,10 @@ opening_hours: Tuesday-Sunday from 10:00 a.m.-8:00 p.m., closed Mondays
 phone: +34 94 4396 060
 tags:
 - things_to_do
+- museum
+- sight
 title: Museo de Bellas Artes (Museum of Fine Arts)
-type: Hotspots
+type: poi
 url: www.museobilbao.com
 ---
 

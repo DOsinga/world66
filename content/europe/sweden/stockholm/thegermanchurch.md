@@ -8,6 +8,10 @@ snippet: Medieval church with copper spire in Gamla Stan
 tags:
 - things_to_do
 - church
+- museum
+- sight
+- architecture
+- gamla_stan
 title: The German Church
 type: poi
 ---

@@ -10,7 +10,7 @@ tags:
 - restaurant
 - bar
 title: Rivoli
-type: International
+type: poi
 url: rivoli.ca
 ---
 

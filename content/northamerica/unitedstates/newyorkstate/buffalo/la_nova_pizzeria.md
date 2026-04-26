@@ -4,7 +4,7 @@ price: variable, depending on item.
 tags:
 - eating_out
 title: La Nova Pizzeria
-type: Italian
+type: poi
 url: www.lanova.com
 ---
 

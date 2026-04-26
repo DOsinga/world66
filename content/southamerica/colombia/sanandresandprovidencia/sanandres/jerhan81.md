@@ -2,7 +2,7 @@
 tags:
 - practical_informat
 title: JerHan81
-type: Embassies and Consulates
+type: poi
 ---
 
 I don't think its that dangerous, most of the time people are just kinda paranoic because its a columbian island and all that, but actually, it is a nice place.

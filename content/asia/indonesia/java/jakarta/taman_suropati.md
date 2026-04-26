@@ -2,12 +2,11 @@
 address: Menteng area, central Jakarta
 latitude: -6.1892
 longitude: 106.8315
-snippet: "Quiet park with ASEAN sculptures in leafy Menteng"
+snippet: Quiet park with ASEAN sculptures in leafy Menteng
 tags:
 - things_to_do
 - park
 - monument
-- neighbourhood
 title: Taman Suropati
 type: poi
 ---

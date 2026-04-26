@@ -9,6 +9,10 @@ opening_hours: Mon, Thu, Sat–Sun 9am–6pm; Wed, Fri 9am–9:45pm; closed Tue
 snippet: The world's largest and most visited art museum
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- leshalles
 title: Louvre Museum
 type: poi
 url: www.louvre.fr

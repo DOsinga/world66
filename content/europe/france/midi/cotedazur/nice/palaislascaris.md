@@ -1,13 +1,12 @@
 ---
 address: 15 Rue Droite, Nice
-done:
-  poi_cleanup: '2026-04-20'
-latitude: 43.6976
-longitude: 7.2773
-snippet: Baroque palace with period rooms and an 18th-century pharmacy
+latitude: 43.6975
+longitude: 7.2755
 tags:
 - things_to_do
 - museum
+- architecture
+- vieux_nice
 title: Palais Lascaris
 type: poi
 ---

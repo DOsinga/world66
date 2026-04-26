@@ -11,7 +11,6 @@ tags:
 - eating_out
 - trastevere
 - restaurant
-- neighbourhood
 title: Dar Poeta
 type: poi
 ---

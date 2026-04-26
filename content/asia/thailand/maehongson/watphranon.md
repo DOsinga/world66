@@ -1,0 +1,13 @@
+---
+category: Sight
+latitude: 18.784806
+longitude: 98.948703
+tags:
+- things_to_do
+title: Wat Phra Non
+type: poi
+---
+
+At the foot of the windy road that leads to Wat Phra That Doi Kong Mu is another temple. It is containing a huge Burmese style reclining Buddha. The ashes of the Mae Hong Sorn's kings are housed in the temple, which has two giant stone lions standing guard at the base of the staircase.
+
+type: general

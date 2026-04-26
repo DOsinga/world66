@@ -4,7 +4,7 @@ tags:
 - cafe
 - bar
 title: Livanto Restaurant Hua Hin
-type: International
+type: poi
 url: www.livantohuahin.com
 ---
 

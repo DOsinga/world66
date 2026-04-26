@@ -4,10 +4,11 @@ latitude: 59.341455
 longitude: 18.043924
 opening_hours: Mon-Thu, Sun 12-16, Fri 12-14
 phone: +46 (0)8 31 01 43
-snippet: "Swedish Jewish history from the 18th century to the present"
+snippet: Swedish Jewish history from the 18th century to the present
 tags:
 - things_to_do
 - museum
+- norrmalm
 title: Jewish Museum
 type: poi
 ---

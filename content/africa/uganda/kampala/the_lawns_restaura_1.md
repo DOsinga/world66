@@ -9,7 +9,7 @@ price: $8 to $20
 tags:
 - eating_out
 title: The Lawns Restaurant
-type: International
+type: poi
 url: www.the.lawns.co.ug
 ---
 

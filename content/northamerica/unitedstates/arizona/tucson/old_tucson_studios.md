@@ -7,7 +7,7 @@ phone: 520 883 0100
 tags:
 - sights
 title: Old Tucson Studios
-type: Parks, Gardens and Zoos
+type: poi
 url: www.oldtucson.com
 ---
 

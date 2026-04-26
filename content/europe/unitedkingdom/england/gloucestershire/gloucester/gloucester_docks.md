@@ -7,10 +7,9 @@ longitude: -2.2492
 snippet: Britain's most inland dock, now home to canal museums and Victorian warehouses
 tags:
 - things_to_do
-- neighbourhood
 - harbour
 title: Gloucester Docks
-type: poi
+type: neighbourhood
 ---
 
 Britain's most inland commercial dock, connected to the Severn by a ship canal opened in 1827. The Victorian warehouses around the basin have been carefully restored and now house several museums, cafes, and shops. The National Waterways Museum here is particularly good — it covers the whole history of Britain's canal network, with a fleet of historic boats moored outside.

@@ -1,7 +1,6 @@
 ---
-title: "Things to do in Susanville"
-type: section
-type: "general"
+title: Things to do in Susanville
+type: poi
 ---
 
 ### [Railroad Depot](/northamerica/unitedstates/california/shastacascade/susanville/thingstodo/railroaddepot)

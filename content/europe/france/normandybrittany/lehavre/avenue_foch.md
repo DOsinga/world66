@@ -1,12 +1,11 @@
 ---
 latitude: 49.4944
 longitude: 0.106
-snippet: "UNESCO-listed post-war boulevard, 100m wide, heart of Perret's rebuilt city"
+snippet: UNESCO-listed post-war boulevard, 100m wide, heart of Perret's rebuilt city
 tags:
 - things_to_do
-- neighbourhood
 title: Avenue Foch and the Perret District
-type: poi
+type: neighbourhood
 ---
 
 The grand ceremonial axis of Perret's rebuilt city runs from the town hall west to the sea front — a boulevard 100 metres wide flanked by limestone-clad concrete buildings with the distinctive fluted columns that became Perret's signature. Walk it end to end in either direction to understand the scale of the reconstruction project. The town hall at the eastern end, with its 72-metre tower, anchors the composition; the sea front opens it up.

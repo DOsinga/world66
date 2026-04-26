@@ -8,8 +8,9 @@ tags:
 - bar
 - park
 - cafe
+- sight
 title: Café Lyran
-type: general
+type: poi
 ---
 
 Built in 1867 as a summerhouse, this yellow wooden house is now a café. It is possible to sit inside, in the garden, or on the veranda facing Mälaren.

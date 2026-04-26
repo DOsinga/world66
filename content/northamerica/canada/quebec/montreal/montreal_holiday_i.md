@@ -2,7 +2,7 @@
 tags:
 - getting_there
 title: Montreal Holiday Info by Travelpack.com
-type: By Air
+type: poi
 url: www.travelpack.com
 ---
 

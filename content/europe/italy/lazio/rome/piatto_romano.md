@@ -10,7 +10,6 @@ tags:
 - eating_out
 - testaccio
 - restaurant
-- neighbourhood
 title: Piatto Romano
 type: poi
 ---

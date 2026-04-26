@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - landmark
 title: Banco Central
-type: Museums
+type: poi
 ---
 
 The Banco Central has a museum that displays old coins, jewels and Bolivar’s sword.

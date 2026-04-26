@@ -7,7 +7,7 @@ tags:
 - shopping
 - shop
 title: Vosges Haut Chocolat
-type: Speciality shops
+type: poi
 url: www.vosgeschocolate.com
 ---
 

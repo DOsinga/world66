@@ -9,7 +9,7 @@ phone: (520) 883-2702
 tags:
 - sights
 title: Arizona-Sonora Desert Museum
-type: Parks, Gardens and Zoos
+type: poi
 url: www.desertmuseum.org
 ---
 

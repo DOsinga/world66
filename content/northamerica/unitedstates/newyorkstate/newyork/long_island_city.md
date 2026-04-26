@@ -4,9 +4,8 @@ longitude: -73.948499
 snippet: Art-filled Queens neighborhood one subway stop from Midtown
 tags:
 - day_trips
-- neighbourhood
 title: Long Island City
-type: poi
+type: neighbourhood
 ---
 
 Long Island City was its own independent city until it merged into New York in 1898, and it still feels like a distinct place. Sitting in western Queens just one stop from Midtown on the 7 train, LIC has become one of the city’s best neighborhoods for art and waterfront views.

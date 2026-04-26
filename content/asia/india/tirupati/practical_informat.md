@@ -1,8 +1,7 @@
 ---
-title: "Practical Information"
-type: section
-type: "Tourist information"
-url: "www.theincredibleindiatravel.com"
+title: Practical Information
+type: poi
+url: www.theincredibleindiatravel.com
 ---
 
 Incredible India Travel

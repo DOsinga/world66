@@ -4,7 +4,6 @@ longitude: 3.8753
 snippet: Ibadan's sprawling market with 200-plus specialist stalls
 tags:
 - things_to_do
-- neighbourhood
 title: Dugbe Market
 type: poi
 ---

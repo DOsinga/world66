@@ -1,12 +1,11 @@
 ---
-title: "Practical Information in Ust-Kamenogorsk"
-type: section
-address: "Ust-Kamenogorsk"
-email: "yerzhan.s@mail.ru"
-phone: "87778569092"
-type: "Embassies and Consulates"
+address: Ust-Kamenogorsk
+email: yerzhan.s@mail.ru
 latitude: 49.948444
 longitude: 82.627479
+phone: '87778569092'
+title: Practical Information in Ust-Kamenogorsk
+type: poi
 ---
 
 **Travel Tips for Ust-Kamenogorsk**

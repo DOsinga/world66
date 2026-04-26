@@ -3,7 +3,7 @@ address: Mametov &   PushkinMametov & Pushkin
 tags:
 - sights
 title: Central mosque
-type: Mosques
+type: poi
 ---
 
 It was founded in July, 1999.

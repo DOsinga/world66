@@ -5,6 +5,8 @@ snippet: "Golden-domed 7th-century shrine on the Temple Mount"
 tags:
 - things_to_do
 - landmark
+- sight
+- old_city
 title: Dome of the Rock
 type: poi
 ---

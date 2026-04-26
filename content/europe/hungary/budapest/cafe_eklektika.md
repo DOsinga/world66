@@ -8,6 +8,8 @@ tags:
 - bars_and_cafes
 - bar
 - cafe
+- sight
+- andrassy_avenue
 title: Cafe Eklektika
 type: poi
 ---

@@ -5,7 +5,7 @@ longitude: 19.0627
 tags:
 - bars_and_cafes
 - bar
-- neighbourhood
+- jewish_quarter
 title: Szoda Bar
 type: poi
 snippet: "Two-level bar in the Jewish Quarter, more local than the ruin bars"

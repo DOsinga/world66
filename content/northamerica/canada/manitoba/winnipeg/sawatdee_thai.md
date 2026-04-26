@@ -5,7 +5,7 @@ longitude: -76.562901
 tags:
 - eating_out
 title: Sawatdee Thai
-type: Thai
+type: poi
 ---
 
 Well prepared and reasonably priced Thai. Pleasant and unpretentious. Friendly service.

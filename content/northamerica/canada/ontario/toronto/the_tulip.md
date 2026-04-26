@@ -10,7 +10,7 @@ tags:
 - beach
 - neighbourhood
 title: The Tulip
-type: American
+type: poi
 ---
 
 Great steak, low price

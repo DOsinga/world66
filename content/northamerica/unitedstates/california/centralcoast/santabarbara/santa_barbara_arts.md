@@ -2,7 +2,7 @@
 tags:
 - activities
 title: Santa Barbara Arts and Craft Show
-type: Other
+type: poi
 url: www.sbaacs.com
 ---
 

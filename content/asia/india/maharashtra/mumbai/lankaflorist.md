@@ -8,7 +8,7 @@ tags:
 - shopping
 - shop
 title: lankaflorist
-type: Shopping centers and malls
+type: poi
 url: www.lankaflorist.com
 ---
 

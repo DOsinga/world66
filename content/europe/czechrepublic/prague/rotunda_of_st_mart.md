@@ -8,6 +8,7 @@ snippet: 11th-century Romanesque chapel in Vyšehrad fortress park
 tags:
 - things_to_do
 - landmark
+- sight
 title: Rotunda of St Martin, Vyšehrad
 type: poi
 ---

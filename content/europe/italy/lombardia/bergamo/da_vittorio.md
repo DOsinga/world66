@@ -10,7 +10,7 @@ tags:
 - eating_out
 - restaurant
 title: Da Vittorio
-type: First Class
+type: poi
 url: www.davittorio.com
 ---
 

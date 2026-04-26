@@ -1,13 +1,12 @@
 ---
-title: "Shopping"
-type: section
-accessibility: "24 HOURS"
-address: "16/96 the mall ,kanpur"
-email: "rajesh_wahi2000@yahoo.com"
-phone: "9450154733/9336174753"
-type: "Antiques"
+accessibility: 24 HOURS
+address: 16/96 the mall ,kanpur
+email: rajesh_wahi2000@yahoo.com
 latitude: 26.476497
 longitude: 80.338341
+phone: 9450154733/9336174753
+title: Shopping
+type: poi
 ---
 
 shopping

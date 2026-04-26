@@ -6,7 +6,7 @@ phone: 010 64653388x5542
 tags:
 - shopping
 title: Torana Gallery
-type: Speciality shops
+type: poi
 url: www.toranahouse.com
 ---
 

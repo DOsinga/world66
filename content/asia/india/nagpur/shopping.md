@@ -1,13 +1,12 @@
 ---
-title: "Shopping"
-type: section
-address: "India"
-email: "sales@allindiaflorist.com"
-phone: "00919897064001"
-type: "Shopping centers and malls"
-url: "www.allindiaflorist.com"
+address: India
+email: sales@allindiaflorist.com
 latitude: 22.351115
 longitude: 78.667743
+phone: 00919897064001
+title: Shopping
+type: poi
+url: www.allindiaflorist.com
 ---
 
 http://www.allindiaflorist.com/flowers-to-nagpur.htm

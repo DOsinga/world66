@@ -1,13 +1,12 @@
 ---
-title: "Eating Out"
-type: section
-address: "Nukha street"
-email: "farrukh@nuxa .az"
-phone: "+994557957489"
-price: "good price"
-type: "Local"
+address: Nukha street
+email: farrukh@nuxa .az
 latitude: 41.202435
 longitude: 47.171634
+phone: '+994557957489'
+price: good price
+title: Eating Out
+type: poi
 ---
 
 **Restaurants:**

@@ -9,7 +9,7 @@ tags:
 - tower
 - theatre
 title: Sensi
-type: International
+type: poi
 url: www.bellagio.com
 ---
 

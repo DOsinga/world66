@@ -6,7 +6,7 @@ tags:
 - shopping
 - shop
 title: Erboristeria Inglese
-type: Speciality shops
+type: poi
 url: www.officinadetornabuoni.com
 ---
 

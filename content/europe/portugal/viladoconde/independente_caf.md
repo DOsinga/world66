@@ -6,7 +6,7 @@ phone: '934163911'
 tags:
 - bars_and_cafes
 title: Independente café
-type: general
+type: poi
 zipcode: barnabe171@hotmail.com
 ---
 

@@ -5,7 +5,7 @@ tags:
 - eating_out
 - restaurant
 title: A1 Restaurant
-type: International
+type: poi
 ---
 
 A1 Restaurant for your dining pleasure to experience Thai and European cuisine in Hua Hin. Special daily menus. Cheap drink prices.

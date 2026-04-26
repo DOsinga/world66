@@ -4,7 +4,7 @@ longitude: 1.496365
 tags:
 - beaches
 title: Cala Xarraca
-type: general
+type: poi
 ---
 
 This beach, surrounded by impressive cliffs, houses only a few restaurants and houses. You can hire

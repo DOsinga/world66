@@ -8,6 +8,7 @@ snippet: Hillside gardens with tropical greenhouse and vineyard views
 tags:
 - things_to_do
 - garden
+- sight
 title: Prague Botanical Gardens
 type: poi
 url: botgarden.cz

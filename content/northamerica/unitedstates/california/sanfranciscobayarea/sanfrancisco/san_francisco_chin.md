@@ -5,7 +5,6 @@ snippet: Secluded Gold Rush-era cove beach tucked into the Seacliff bluffs
 tags:
 - beaches
 - beach
-- neighbourhood
 title: China Beach
 type: poi
 ---

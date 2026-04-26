@@ -1,11 +1,10 @@
 ---
-title: "Shopping"
-type: section
-address: "raj nagar, jhau talla"
-email: "manamika25@gmail.com"
-phone: "22236519"
-type: "Speciality shops"
-url: "www.spainflorist.com"
+address: raj nagar, jhau talla
+email: manamika25@gmail.com
+phone: '22236519'
+title: Shopping
+type: poi
+url: www.spainflorist.com
 ---
 
 Assured and guaranteed delivery of Gifts and flowers to Kolkata, Howrah, Calcutta.

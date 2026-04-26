@@ -4,7 +4,7 @@ tags:
 - shop
 - park
 title: Laraib sheikh
-type: Shopping centers and malls
+type: poi
 ---
 
 A modern mall in Tariq Road area of the city with a wide variety of shops including jewellery, handicrafts, clothing, shoes, cosmetics etc. The mall also has good dining facilities with different activities going on the ground floor.

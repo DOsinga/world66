@@ -2,7 +2,7 @@
 tags:
 - eating_out
 title: South End or Punta Sur
-type: African
+type: poi
 ---
 
 Great restaurant on the southest part of the island, they specialize on seafood mainly crab.

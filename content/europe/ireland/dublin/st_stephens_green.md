@@ -3,7 +3,7 @@ category: Sight
 latitude: 53.338052
 longitude: -6.259023
 title: St Stephen's Green
-type: Parks, Gardens and Zoos
+type: poi
 ---
 
 St Stephen's Green is a park in the city centre.

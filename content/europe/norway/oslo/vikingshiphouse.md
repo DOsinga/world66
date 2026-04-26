@@ -6,7 +6,7 @@ phone: +47 22 - 43 83 79
 tags:
 - things_to_do
 title: Vikingshiphouse
-type: Museums
+type: poi
 ---
 
 Contains three vikingships found at Oseberg, Gokstad and Tune and more.

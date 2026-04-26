@@ -1,13 +1,14 @@
 ---
-title: "Capella House"
-type: poi
 category: Architecture
+latitude: 59.939
+longitude: 30.3195
+snippet: Russia's oldest choir ensemble performs in a Moika embankment concert hall
 tags:
 - things_to_do
 - music
-latitude: 59.9390
-longitude: 30.3195
-snippet: Russia's oldest choir ensemble performs in a Moika embankment concert hall
+- nevskiyprospekt
+title: Capella House
+type: poi
 ---
 
 The Capella House on the Moyka River embankment is home to Russia's oldest professional choir, originally created in Moscow in 1479 and transferred to St Petersburg in 1703. The building was designed by L. Benua for the Imperial Court Choir. Today it hosts organ, choir, and solo concerts of sacred and classical music — a beautiful setting for an evening performance.

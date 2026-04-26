@@ -1,11 +1,10 @@
 ---
 latitude: 18.9616
 longitude: 72.8465
+snippet: Quiet neighbourhood park with Arabian Sea views
 tags:
 - things_to_do
 - park
-- neighbourhood
-snippet: Quiet neighbourhood park with Arabian Sea views
 title: Mazagon Gardens
 type: poi
 ---

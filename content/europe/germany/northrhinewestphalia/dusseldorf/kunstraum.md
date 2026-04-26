@@ -6,7 +6,7 @@ tags:
 - things_to_do
 - landmark
 title: Kunstraum
-type: Museums
+type: poi
 ---
 
 Modern art galery

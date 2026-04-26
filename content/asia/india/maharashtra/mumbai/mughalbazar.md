@@ -8,7 +8,7 @@ tags:
 - shop
 - monument
 title: Mughal Bazar
-type: Shopping centers and malls
+type: poi
 ---
 
 Dealing in 19th Century provisions, antiques, brasswares, wooden carvings, compass, telescopes, figures, paintings, and statues.

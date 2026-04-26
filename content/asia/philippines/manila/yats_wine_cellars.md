@@ -8,7 +8,7 @@ phone: (632) 637-5019   0917-520-4393
 tags:
 - bars_and_cafes
 title: Yats Wine Cellars Champagne Brunch Philippines
-type: Wine bars
+type: poi
 url: www.YatsWineCellars.com
 ---
 

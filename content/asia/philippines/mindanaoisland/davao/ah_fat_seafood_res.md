@@ -8,7 +8,7 @@ tags:
 - square
 - neighbourhood
 title: Ah Fat Seafood Restaurant
-type: Chinese
+type: poi
 ---
 
 Typical Chinese restaurant with very reasonable prices. The service is fast and the food is very good. Frequently you need to wait before being seated because of the many patrons. Because of this, they opened another branch.. Just behind the original! Yet, the 2 branches are never seen empty. That's how good their food is.

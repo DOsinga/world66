@@ -7,7 +7,7 @@ tags:
 - restaurant
 - square
 title: PALOVINCE PLACE
-type: Local
+type: poi
 ---
 
 MUST TRY THE MOUTHWATERING HOUSE SPECIALTY...

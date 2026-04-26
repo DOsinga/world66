@@ -7,6 +7,9 @@ snippet: Jesus's traditional route to Calvary, fourteen stations through the Old
 tags:
 - things_to_do
 - landmark
+- sight
+- market
+- old_city
 title: Via Dolorosa
 type: poi
 ---

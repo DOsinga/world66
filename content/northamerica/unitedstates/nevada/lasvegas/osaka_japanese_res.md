@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Osaka Japanese Restaurant
-type: Japanese
+type: poi
 url: www.activediner.com
 ---
 

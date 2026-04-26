@@ -2,9 +2,10 @@
 address: 37 Jaffa Road
 latitude: 31.783
 longitude: 35.2199
-snippet: "Lively expat bar with live music near the Russian Compound"
+snippet: Lively expat bar with live music near the Russian Compound
 tags:
 - bars_and_cafes
+- nachlaot
 title: Mike's Place
 type: poi
 ---

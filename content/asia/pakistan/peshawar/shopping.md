@@ -1,7 +1,6 @@
 ---
-title: "Shopping in Peshawar"
-type: section
-type: "Antiques"
+title: Shopping in Peshawar
+type: poi
 ---
 
 **Peshawar Shopping** gives tourists lots of excitement.

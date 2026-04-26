@@ -1,9 +1,8 @@
 ---
-title: "Eating Out in Fraserburgh"
-type: section
-accessibility: "off the main street"
-price: "very reasonable"
-type: "Local"
+accessibility: off the main street
+price: very reasonable
+title: Eating Out in Fraserburgh
+type: poi
 ---
 
 what can you do nothing

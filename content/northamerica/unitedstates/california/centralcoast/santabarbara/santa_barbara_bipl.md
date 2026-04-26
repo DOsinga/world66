@@ -7,7 +7,7 @@ phone: 805 453 8320
 tags:
 - activities
 title: Santa Barbara Biplane Tours
-type: Trekking
+type: poi
 url: www.santabarbarabiplanetours.com
 ---
 

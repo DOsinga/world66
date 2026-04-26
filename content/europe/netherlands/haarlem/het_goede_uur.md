@@ -3,7 +3,7 @@ address: Korte Houststraat
 tags:
 - eating_out
 title: Het Goede Uur
-type: general
+type: poi
 ---
 
 Specializes in cheese fondue.

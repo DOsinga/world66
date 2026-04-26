@@ -7,6 +7,7 @@ snippet: Maritime history museum near the port
 tags:
 - things_to_do
 - museum
+- vieux_nice
 title: Musee de la Marine
 type: poi
 ---

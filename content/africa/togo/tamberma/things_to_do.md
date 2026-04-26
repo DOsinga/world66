@@ -1,7 +1,6 @@
 ---
-title: "Things to do"
-type: section
-type: "Other"
+title: Things to do
+type: poi
 ---
 
 **Contributors**

@@ -6,7 +6,7 @@ tags:
 - shopping
 - shop
 title: Reiner de Ceulenaar
-type: Antiques
+type: poi
 ---
 
 Japanese and Chinese antiques - you may find some good deals here.

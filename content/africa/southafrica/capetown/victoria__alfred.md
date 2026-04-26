@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - neighbourhood
 title: Victoria & Alfred Waterfront
-type: Hotspots
+type: poi
 url: www.waterfront.co.za
 ---
 

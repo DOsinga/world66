@@ -10,7 +10,7 @@ tags:
 - restaurant
 - neighbourhood
 title: Mimosa, 88 Bui Vien, District !
-type: Local
+type: poi
 ---
 
 Mimosa is a locally run restaurant, very clean, with an excellent chef. I tried many dishes of different ethnicities and all were well prepared, Western and Asian.

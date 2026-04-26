@@ -5,7 +5,7 @@ phone: 51 220 6988, FAX 51 227 4147
 tags:
 - eating_out
 title: Cinnamon Restaurant / Cafe
-type: European
+type: poi
 url: www.cinnamon.com.pk
 ---
 

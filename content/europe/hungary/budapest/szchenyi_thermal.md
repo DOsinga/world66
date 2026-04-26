@@ -9,6 +9,8 @@ snippet: Europe's largest thermal bath complex in City Park
 tags:
 - things_to_do
 - bath
+- architecture
+- andrassy_avenue
 title: Szechenyi Thermal Bath
 type: poi
 url: www.szechenyifurdo.hu

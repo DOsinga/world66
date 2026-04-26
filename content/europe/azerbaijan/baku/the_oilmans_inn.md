@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: The Oilman's Inn
-type: International
+type: poi
 url: baku.oilmansinn.com
 ---
 

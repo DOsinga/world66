@@ -6,7 +6,7 @@ phone: +34 952 924 630
 tags:
 - eating_out
 title: Ruby's Bistro
-type: International
+type: poi
 url: www.rubysmarbella.com
 ---
 

@@ -3,7 +3,7 @@ tags:
 - eating_out
 - restaurant
 title: Sala Monsoon
-type: Thai
+type: poi
 url: www.putahracsa.com
 ---
 

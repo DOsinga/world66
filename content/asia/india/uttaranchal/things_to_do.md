@@ -1,12 +1,11 @@
 ---
-title: "Things to do"
-type: section
-email: "sales@dehradunflorist.com"
-phone: "919897064001"
-type: "Other"
-url: "www.dehradunflorist.com"
+email: sales@dehradunflorist.com
 latitude: 12.833965
 longitude: 79.714809
+phone: '919897064001'
+title: Things to do
+type: poi
+url: www.dehradunflorist.com
 ---
 
 Flowers to Dehradun

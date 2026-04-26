@@ -4,7 +4,6 @@ longitude: 47.0855
 snippet: Bustling highland market selling everything from spices to zebu
 tags:
 - things_to_do
-- neighbourhood
 - market
 title: Upper Town Market
 type: poi

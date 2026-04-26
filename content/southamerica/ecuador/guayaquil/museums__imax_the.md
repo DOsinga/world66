@@ -5,7 +5,7 @@ longitude: 151.201496
 tags:
 - sights
 title: Museums & IMAX theater on Guayaquil's harbor
-type: Hotspots
+type: poi
 url: www.imaxmalecon2000.com
 ---
 

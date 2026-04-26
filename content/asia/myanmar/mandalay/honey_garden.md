@@ -2,7 +2,7 @@
 tags:
 - eating_out
 title: Honey Garden
-type: Chinese
+type: poi
 ---
 
 The honey Garden has one of the best Chinese kitchens in Myanmar, especially the tofu.

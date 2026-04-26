@@ -1,7 +1,6 @@
 ---
-title: "Practical Information"
-type: section
-type: "Health and Safety"
+title: Practical Information
+type: poi
 ---
 
 Hilton Head Island is well known as an upscale destination and is not exactly meant for the budget conscious. However, the discriminating vacationer can find ways to enjoy the island without breaking the bank.

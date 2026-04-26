@@ -1,12 +1,16 @@
 ---
-title: "The Hermitage"
-type: poi
 category: Museum
 latitude: 59.9398
 longitude: 30.3146
 snippet: Vast Winter Palace museum spanning three million artworks
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- nevskiyprospekt
+title: The Hermitage
+type: poi
 ---
 
 The State Hermitage is one of the world's largest and oldest museums, housed in the baroque Winter Palace and four adjoining buildings on the Dvortsovaya Embankment. The collection spans over three million items — from Egyptian antiquities to Rembrandt, Leonardo da Vinci, and a vast collection of French Impressionists. You could spend days here and barely scratch the surface.

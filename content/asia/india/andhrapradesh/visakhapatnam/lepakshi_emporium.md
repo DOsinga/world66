@@ -5,7 +5,7 @@ longitude: 83.303004
 tags:
 - shopping
 title: Lepakshi Emporium
-type: Speciality shops
+type: poi
 ---
 
 **Lepakshi** is where you will find hand crafted wonders from all over the state. Run by the Governament Lepakshi offers wide variety of choice in hand crafted items not only from Andhra Pradesh but different parts of India too.

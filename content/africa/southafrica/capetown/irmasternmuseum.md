@@ -5,7 +5,7 @@ tags:
 - things_to_do
 - museum
 title: IRMA STERN MUSEUM
-type: general
+type: poi
 ---
 
 Houses a collection of works by this SA artist, antique furniture, art treasures from 600 BC and Congolese artefacts.

@@ -6,7 +6,7 @@ tags:
 - shopping
 - shop
 title: garima
-type: Shopping centers and malls
+type: poi
 url: www.goaonlinegifts.com
 ---
 

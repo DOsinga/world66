@@ -9,6 +9,8 @@ snippet: Classic cafe in a former crypt beneath St. Anne's Church
 tags:
 - bars_and_cafes
 - cafe
+- sight
+- castle_district
 title: Angelika
 type: poi
 ---

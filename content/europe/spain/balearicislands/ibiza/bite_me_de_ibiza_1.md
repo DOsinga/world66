@@ -9,7 +9,7 @@ tags:
 - ibizatown
 - shopping
 title: Bite Me de Ibiza
-type: Speciality shops
+type: poi
 url: Facebook Bite Me . de Ibiza
 ---
 

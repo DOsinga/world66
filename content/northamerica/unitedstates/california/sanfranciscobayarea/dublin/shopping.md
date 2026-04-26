@@ -6,7 +6,7 @@ latitude: 37.70418
 longitude: -121.935177
 phone: 925-479-0968
 title: Shopping
-type: Shopping centers and malls
+type: poi
 url: www.cafetapioca.com
 ---
 

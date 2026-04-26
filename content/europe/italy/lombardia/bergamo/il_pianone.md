@@ -7,7 +7,7 @@ tags:
 - eating_out
 - restaurant
 title: Il Pianone
-type: Local
+type: poi
 url: www.bergamoalta.it
 ---
 

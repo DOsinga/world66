@@ -2,7 +2,7 @@
 tags:
 - sights
 title: West View Natural Pool
-type: Hotspots
+type: poi
 ---
 
 This is a place to swim and feed the fish

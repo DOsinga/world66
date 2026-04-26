@@ -6,6 +6,7 @@ longitude: 2.336977
 snippet: Parisian designer known for effortless Bohemian style and easy-to-wear pieces
 tags:
 - shopping
+- saint_germain
 title: Isabel Marant
 type: poi
 ---

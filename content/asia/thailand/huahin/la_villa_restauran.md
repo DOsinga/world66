@@ -3,7 +3,7 @@ tags:
 - eating_out
 - restaurant
 title: La Villa Restaurant Hua Hin
-type: Italian
+type: poi
 url: www.la-villa-huahin.com
 ---
 

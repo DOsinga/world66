@@ -1,11 +1,10 @@
 ---
-title: "Eating Out in Salzgitter"
-type: section
-address: "Berliner Strasse 144, 38226 Salzgitter"
-phone: "0049-5341-62623"
-type: "Chinese"
+address: Berliner Strasse 144, 38226 Salzgitter
 latitude: 52.161648
 longitude: 10.336381
+phone: 0049-5341-62623
+title: Eating Out in Salzgitter
+type: poi
 ---
 
 Here is a small choice of cafés and restaurants in Salzgitter.

@@ -2,7 +2,7 @@
 done:
   poi_cleanup: '2026-04-19'
 title: Eating Out
-type: European
+type: poi
 ---
 
 If you've been in China for a while and are looking for a little Western cuisine, then Xi Jie (West St.) is the place to go. Restaurants and cafes line the street along with vendors of all sorts. If you would like Chinese food I recommend finding someplace on another street. They may or may not have English speakers, but everyplace on West St. will speak English.

@@ -1,8 +1,7 @@
 ---
-title: "Things to do"
-type: section
-address: "Any hotel will sell this tour to you"
-type: "Other"
+address: Any hotel will sell this tour to you
+title: Things to do
+type: poi
 ---
 
 The major attraction in Huacachina is the **giant dunes**. You can either hire a sand board or take a [buggie tour](/southamerica/peru/huacahina/things_to_do/buggie_tour).

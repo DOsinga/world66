@@ -8,7 +8,7 @@ tags:
 - eating_out
 - restaurant
 title: Fuze Finer Dining
-type: International
+type: poi
 url: www.fuzedining.com
 ---
 

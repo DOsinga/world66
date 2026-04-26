@@ -6,7 +6,7 @@ tags:
 - cafe
 - club
 title: Cafe d Anvers
-type: Clubs
+type: poi
 ---
 
 where Amsterdam and Brussels come to party... Cafe d Anvers is a classic!

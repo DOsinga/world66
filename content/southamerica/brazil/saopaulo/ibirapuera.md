@@ -4,7 +4,7 @@ longitude: -40.854628
 tags:
 - shopping
 title: Ibirapuera.
-type: general
+type: poi
 ---
 
 type: general

@@ -6,7 +6,7 @@ done:
 email: rajesh_wahi2000@yahoo.com
 phone: '9450154733'
 title: Shopping in Top Ten Places You Must See in Varanasi,India
-type: Speciality shops
+type: poi
 url: www.kanpurflorist.com
 ---
 

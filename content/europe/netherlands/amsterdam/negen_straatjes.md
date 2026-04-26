@@ -1,5 +1,4 @@
 ---
-hide_from_city: true
 image: negen_straatjes.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Brug_24_in_de_Hartenstraat_over_de_Herengracht_foto_2.jpg

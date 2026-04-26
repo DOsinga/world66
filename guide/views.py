@@ -65,7 +65,7 @@ def location_or_section(request, path):
         parent_path = page.path.rsplit("/", 1)[0]
         parent = load_page(parent_path)
 
-    # Build sidebar nav: nav_pages from the parent (city or section_group).
+    # Build sidebar nav: nav_pages from the parent (city or section).
     # For POIs the immediate parent is the section, which has no nav children —
     # walk up one more level to the city so the sidebar shows all city sections.
     parent_nav = []
@@ -93,15 +93,28 @@ def location_or_section(request, path):
     # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.
     poi_context_prefix = None
     _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
-    if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
+    if page.page_type in NAV_TYPES and _city_path:
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
+
+    # Normalise vibe time slots to a list; load any referenced POIs
+    vibe_time_slots = []
+    vibe_pois = []
+    if page.page_type == "vibe":
+        tday = page.meta.get("time_of_day", "")
+        vibe_time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
+        for poi_path in page.meta.get("pois", []):
+            poi_page = load_page(poi_path)
+            if poi_page:
+                vibe_pois.append(poi_page)
+
     nav_pages, locations, pois = page.children()
 
-    # Separate neighbourhood pages from nav pages so they render inline under
-    # the article body rather than in the sidebar sections list.
+    # Separate neighbourhood and vibe pages from nav pages so they render as
+    # dedicated strips on the city page rather than in the sidebar sections list.
     neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
-    nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
+    vibe_items = [p for p in nav_pages if p.page_type == "vibe"]
+    nav_pages = [p for p in nav_pages if p.page_type not in ("neighbourhood", "vibe")]
 
     # Build the city tag index once so all tagged_pois() calls reuse it.
     # Only build for actual city-level pages: nav pages (sections), or location
@@ -113,10 +126,8 @@ def location_or_section(request, path):
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
-    # Nav pages collect their POIs by tag; section_groups collect their child nav pages
-    if page.page_type == "section_group":
-        pois = nav_pages
-    elif page.page_type in NAV_TYPES:
+    # Nav pages collect their POIs by tag
+    if page.page_type in NAV_TYPES:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
 
     # Collect distinct categories from POIs (for filter UI)
@@ -166,6 +177,13 @@ def location_or_section(request, path):
         nb_img = _image_path(nb, branch)
         nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
 
+    for d in vibe_items:
+        d_img = _image_path(d, branch)
+        d.image_url = f'/content-image/{d_img}{branch_qs}' if d_img else None
+        tday = d.meta.get("time_of_day", "")
+        d.time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
+        d.primary_time = d.time_slots[0] if d.time_slots else ""
+
     # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
     locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
     for loc in locations:
@@ -203,7 +221,12 @@ def location_or_section(request, path):
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
-    if page.page_type in NAV_TYPES:
+    if page.page_type == "vibe":
+        for poi in vibe_pois:
+            img_path = _image_path(poi, branch)
+            if img_path:
+                poi_images.append({'url': f'/content-image/{img_path}{branch_qs}', 'title': poi.title, 'href': poi.get_absolute_url()})
+    elif page.page_type in NAV_TYPES:
         for poi in pois:
             img_path = _image_path(poi, branch)
             if img_path:
@@ -216,6 +239,15 @@ def location_or_section(request, path):
     markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
+    # For vibe pages, build markers from the referenced POIs
+    if page.page_type == "vibe" and vibe_pois:
+        vibe_markers = [m for m in (_marker_from_page(p, highlight=True) for p in vibe_pois) if m]
+        markers = vibe_markers
+        markers_full = vibe_markers
+        if lat is None and lng is None and vibe_markers:
+            lat = vibe_markers[0]["lat"]
+            lng = vibe_markers[0]["lng"]
+
     breadcrumbs = page.breadcrumbs()
 
     return render(request, "guide/page.html", {
@@ -226,6 +258,8 @@ def location_or_section(request, path):
         "top_locations": top_locations,
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
+        "vibe_items": vibe_items,
+        "vibe_time_slots": vibe_time_slots,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
@@ -349,8 +383,6 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     # On city pages, restrict to sightseeing sections only so the map stays focused.
     if not locations:
         for nav in nav_pages:
-            if nav.page_type == "section_group":
-                continue
             if nav.slug not in _SIGHT_SLUGS:
                 continue
             for poi in nav.tagged_pois(_city_tag_index=city_tag_index):

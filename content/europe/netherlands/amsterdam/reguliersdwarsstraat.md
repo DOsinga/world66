@@ -8,7 +8,6 @@ tags:
 - bars_and_cafes
 - things_to_do
 - rembrandtplein
-- canal_ring
 title: Reguliersdwarsstraat
 type: poi
 ---

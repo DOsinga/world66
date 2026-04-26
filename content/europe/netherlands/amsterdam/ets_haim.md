@@ -7,7 +7,6 @@ tags:
 - things_to_do
 - museum
 - waterlooplein
-- canal_ring
 story: >
   Founded in 1616 by Sephardic Jews who had fled the Spanish and Portuguese Inquisitions,
   Ets Haim ("Tree of Life") is a UNESCO Memory of the World site. Its collection

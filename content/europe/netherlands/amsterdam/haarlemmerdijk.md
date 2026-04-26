@@ -3,11 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.3841
 longitude: 4.8844
-neighbourhood: Oud-West
+neighbourhood: Westerpark
 snippet: Amsterdam's best street for independent food shops
 tags:
 - shopping
-- oud_west
+- westerpark
 title: Haarlemmerdijk & Haarlemmerstraat
 type: poi
 ---

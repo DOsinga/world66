@@ -114,7 +114,8 @@ def location_or_section(request, path):
     # Only build for actual city-level pages: nav pages (sections), or location
     # pages that have sections but no child locations (cities, not countries/continents).
     city_tag_index = None
-    _cpath = _city_path if page.page_type in NAV_TYPES else (
+    _COLLECTS_POIS = NAV_TYPES | {"neighbourhood"}
+    _cpath = _city_path if page.page_type in _COLLECTS_POIS else (
         page.path if nav_pages and not locations else None
     )
     if _cpath:
@@ -126,13 +127,13 @@ def location_or_section(request, path):
     vibe_items = city_tag_index.get("vibes", []) if city_tag_index else []
     city_walk_items = city_tag_index.get("city_walks", []) if city_tag_index else []
 
-    # Nav pages collect their POIs by tag
-    if page.page_type in NAV_TYPES:
+    # Nav pages and neighbourhood pages collect their POIs by tag
+    if page.page_type in _COLLECTS_POIS:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
-    if page.page_type in NAV_TYPES and pois:
+    if page.page_type in _COLLECTS_POIS and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
 
     # Walk: load route coordinates and waypoint pages

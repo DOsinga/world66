@@ -1,6 +1,5 @@
 ---
 address: Mission St and 24th St
-category: neighbourhood
 image: mission.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Mission_Mural_-_Political_Art_-_28295632829.jpg

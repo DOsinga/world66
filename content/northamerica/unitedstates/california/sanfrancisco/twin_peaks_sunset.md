@@ -1,5 +1,4 @@
 ---
-category: vibe
 duration: 2h
 image: twin_peaks_sunset.jpg
 image_license: CC BY-SA 4.0

@@ -1,5 +1,4 @@
 ---
-category: vibe
 duration: 4h
 image: golden_gate_park_afternoon.jpg
 image_license: CC BY-SA 3.0

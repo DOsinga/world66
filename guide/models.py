@@ -270,11 +270,18 @@ def _load_page_from_file(file_path, url_path):
     slug = file_path.stem
     title = meta.get("title", slug)
     raw_type = meta.get("type", "location")
-    # POIs with a category of walk/vibe/neighbourhood/theme use the category as
-    # their effective page_type so all existing template/view logic still works.
-    category = meta.get("category", "")
-    if raw_type == "poi" and category in ("walk", "vibe", "neighbourhood", "theme"):
-        page_type = category
+    if raw_type == "poi":
+        raw_tags = meta.get("tags", [])
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",")]
+        if "city_walks" in raw_tags:
+            page_type = "walk"
+        elif "vibes" in raw_tags:
+            page_type = "vibe"
+        elif "neighbourhoods" in raw_tags:
+            page_type = "neighbourhood"
+        else:
+            page_type = "poi"
     else:
         page_type = raw_type
     return Page(

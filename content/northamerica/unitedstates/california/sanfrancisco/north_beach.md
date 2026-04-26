@@ -1,6 +1,5 @@
 ---
 address: Broadway & Columbus Ave
-category: neighbourhood
 image: north_beach.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Columbus_Avenue,_North_Beach_(6017074936).jpg

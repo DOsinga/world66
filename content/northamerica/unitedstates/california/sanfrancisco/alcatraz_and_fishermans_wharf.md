@@ -1,5 +1,4 @@
 ---
-category: vibe
 duration: 5h
 image: alcatraz_and_fishermans_wharf.jpg
 image_license: CC BY-SA 3.0

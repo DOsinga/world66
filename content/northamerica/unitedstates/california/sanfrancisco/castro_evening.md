@@ -1,5 +1,4 @@
 ---
-category: vibe
 duration: 4h
 image: castro_evening.jpg
 image_license: CC BY-SA 4.0

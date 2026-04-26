@@ -1,6 +1,5 @@
 ---
 address: Castro St and 18th St
-category: neighbourhood
 image: castro_district.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Entering_the_Castro_district,_San_Francisco_(31984322697).jpg

@@ -1,6 +1,5 @@
 ---
 address: Fillmore St, between Jackson St and Golden Gate Ave
-category: neighbourhood
 image: fillmore_street.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Fillmore_and_Pine_Streets_(8543316875).jpg

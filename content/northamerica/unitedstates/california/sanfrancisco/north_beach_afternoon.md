@@ -1,5 +1,4 @@
 ---
-category: vibe
 duration: 3h
 image: north_beach_afternoon.jpg
 image_license: CC BY-SA 3.0

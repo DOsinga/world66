@@ -1,6 +1,5 @@
 ---
 address: Hyde St and Lombard St
-category: neighbourhood
 image: russian_hill.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Russian_Hill.jpg

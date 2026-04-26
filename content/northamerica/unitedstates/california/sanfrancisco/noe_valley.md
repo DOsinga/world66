@@ -1,6 +1,5 @@
 ---
 address: 24th St and Church St
-category: neighbourhood
 image: noe_valley.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Victorians_in_Noe_Valley.jpg

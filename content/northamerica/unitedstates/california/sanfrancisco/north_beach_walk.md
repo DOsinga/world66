@@ -1,5 +1,4 @@
 ---
-category: walk
 latitude: 37.7998
 longitude: -122.4083
 route:

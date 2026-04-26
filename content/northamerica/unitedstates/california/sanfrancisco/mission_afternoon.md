@@ -1,5 +1,4 @@
 ---
-category: vibe
 duration: 4h
 image: mission_afternoon.jpg
 image_license: CC BY 4.0

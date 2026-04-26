@@ -1,5 +1,4 @@
 ---
-category: vibe
 duration: 3h
 image: golden_gate_morning.jpg
 image_license: CC BY 3.0

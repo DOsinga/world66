@@ -1,5 +1,4 @@
 ---
-category: vibe
 duration: 2h
 image: chinatown_morning.jpg
 image_license: CC BY-SA 4.0

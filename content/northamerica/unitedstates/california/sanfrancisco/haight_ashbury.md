@@ -1,6 +1,5 @@
 ---
 address: Haight St and Ashbury St
-category: neighbourhood
 image: haight_ashbury.jpg
 image_license: CC BY-SA 2.5
 image_source: https://commons.wikimedia.org/wiki/File:SF_Haight_Ashbury_2_CA.jpg

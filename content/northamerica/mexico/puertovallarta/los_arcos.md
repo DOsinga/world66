@@ -1,8 +1,8 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
-latitude: 20.5478
-longitude: -105.2994
+latitude: 20.5452
+longitude: -105.2922
 snippet: Granite sea arches with the best snorkelling near town
 tags:
 - things_to_do

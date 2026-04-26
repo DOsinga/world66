@@ -3,11 +3,10 @@ title: "Getting Around"
 type: section
 ---
 
-**Buses**
-There are buses at every corner. If you see one, just wave it down. It will stop. The cost is $5MXP... about 50 cents. There is no air conditioning, but this is the way normal people get around.
+**Buses** are the cheapest way to get around and run frequently along the main coastal road. Wave one down at any corner — they will stop. No air conditioning, but they go everywhere you need for a few pesos.
 
-**"Rite" (aka hitch hike)
-**This requires a lot of the right elements. 1.) Bravery 2.) A friend 3.) Daylight. If you keep trying you can usually get picked up and taken as far as the car is going. I caught a rite from Puerto Vallarta to Guadalajara (5 hours) with some great people. Just make sure you take all the precautions before you get in a car. If you can, riding in the bed of a truck is safer.
+**Taxis** are plentiful, especially in the downtown area. Agree on a price before you get in — there are no meters. Short trips within the city centre should be inexpensive; rides to the airport or the Marina will cost more. If the first price sounds too high, negotiate or try another cab.
 
-**Taxis
-**You can get almost anywhere for $5. From the airport to downtown is $5. If they charge you higher than $8, you can get them to lower their price by speaking spanish. When you are in Downtown PV, you will notice the over-abundance of taxis.
+**Walking** is the best way to explore the Centro and Zona Romántica. The Malecón promenade connects the two, and most of the restaurants, shops, and sights are within easy walking distance of each other.
+
+**Water taxis** depart from Los Muertos Pier to beaches south along the coast — Yelapa, Las Ánimas, and Quimixto — that are only accessible by boat. A great way to spend a day.

@@ -71,7 +71,7 @@
   </div>
   {% endif %}
 
-  {% if parent_sections %}
+  {% if parent_sections|length > 1 %}
   <nav class="section-sidenav">
     {% if parent %}
     <a href="{{ parent.get_absolute_url }}" class="section-sidenav-parent">
@@ -253,7 +253,7 @@
         <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
         <div class="poi-meat">
           <div class="poi-name">{{ poi.title }}</div>
-          {% if poi.body %}<div class="poi-blurb">{{ poi.body|truncatewords:24 }}</div>{% endif %}
+          <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
         <div class="poi-tag">
           {% if poi.category %}{{ poi.category }}{% endif %}

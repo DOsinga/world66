@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 5h
 image: alcatraz_and_fishermans_wharf.jpg
 image_license: CC BY-SA 3.0
@@ -11,11 +12,14 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/uss_pampanito
 snippet: The island prison, the old waterfront, and the mechanical arcade that survived
   them both
+tags:
+- vibes
+- north_beach
 time_of_day:
 - morning
 - afternoon
 title: Alcatraz and the Waterfront
-type: vibe
+type: poi
 vibe_tags:
 - history
 - waterfront

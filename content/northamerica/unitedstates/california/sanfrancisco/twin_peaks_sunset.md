@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 2h
 image: twin_peaks_sunset.jpg
 image_license: CC BY-SA 4.0
@@ -8,9 +9,11 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/twin_peaks
 - northamerica/unitedstates/california/sanfrancisco/corona_heights_park
 snippet: The 360-degree view of the city at golden hour, without the tour buses
+tags:
+- vibes
 time_of_day: evening
 title: Twin Peaks at Sunset
-type: vibe
+type: poi
 vibe_tags:
 - views
 - walking

@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 3h
 image: golden_gate_morning.jpg
 image_license: CC BY 3.0
@@ -10,9 +11,11 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/fort_point
 snippet: Walk across the bridge at dawn, then loop back along the bay through Crissy
   Field
+tags:
+- vibes
 time_of_day: morning
 title: The Golden Gate at Dawn
-type: vibe
+type: poi
 vibe_tags:
 - walking
 - architecture

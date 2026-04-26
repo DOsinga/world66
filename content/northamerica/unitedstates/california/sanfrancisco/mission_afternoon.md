@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 4h
 image: mission_afternoon.jpg
 image_license: CC BY 4.0
@@ -12,9 +13,13 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/mission_dolores_park
 snippet: Mission murals, the best burrito in the city, and a sunny afternoon in Dolores
   Park
+tags:
+- vibes
+- mission
+- mission_district
 time_of_day: afternoon
 title: The Mission in the Afternoon
-type: vibe
+type: poi
 vibe_tags:
 - food
 - art

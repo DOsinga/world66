@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 3h
 image: haight_wander.jpg
 image_license: CC BY-SA 3.0
@@ -11,11 +12,14 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/painted_ladies
 snippet: Vintage shops, Amoeba Records, the neighbourhood that defined a generation,
   and a quiet park above it all
+tags:
+- vibes
+- haight_ashbury
 time_of_day:
 - morning
 - afternoon
 title: A Wander Through the Haight
-type: vibe
+type: poi
 vibe_tags:
 - walking
 - music

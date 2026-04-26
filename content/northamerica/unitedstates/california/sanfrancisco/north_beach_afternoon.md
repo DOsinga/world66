@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 3h
 image: north_beach_afternoon.jpg
 image_license: CC BY-SA 3.0
@@ -11,9 +12,12 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/jack_kerouac_alley
 snippet: City Lights, espresso, Coit Tower, and the best neighbourhood in San Francisco
   for an unhurried afternoon
+tags:
+- vibes
+- north_beach
 time_of_day: afternoon
 title: North Beach on a Slow Afternoon
-type: vibe
+type: poi
 vibe_tags:
 - books
 - walking

@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 2h
 image: chinatown_morning.jpg
 image_license: CC BY-SA 4.0
@@ -8,9 +9,11 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/golden_gate_fortune_cookie_factory
 - northamerica/unitedstates/california/sanfrancisco/far_east_cafe
 snippet: The oldest Chinatown in North America before the tourist coaches arrive
+tags:
+- vibes
 time_of_day: morning
 title: Chinatown Before the Crowds
-type: vibe
+type: poi
 vibe_tags:
 - food
 - walking

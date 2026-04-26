@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 4h
 image: castro_evening.jpg
 image_license: CC BY-SA 4.0
@@ -11,9 +12,12 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/moby_dick
 snippet: The Castro at night — a film at the theatre, a drink with the locals, and
   the neighbourhood's irreducible history
+tags:
+- vibes
+- castro_district
 time_of_day: evening
 title: An Evening in the Castro
-type: vibe
+type: poi
 vibe_tags:
 - neighbourhood
 - history

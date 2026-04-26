@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 3h
 image: ferry_building_saturday.jpg
 image_license: CC BY-SA 4.0
@@ -9,9 +10,11 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/exploratorium
 snippet: The Saturday farmers market, the bay breeze, oysters on the dock, and the
   city from the water
+tags:
+- vibes
 time_of_day: morning
 title: Saturday at the Ferry Building
-type: vibe
+type: poi
 vibe_tags:
 - food
 - market

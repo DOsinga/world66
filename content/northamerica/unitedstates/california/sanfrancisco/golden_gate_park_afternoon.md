@@ -1,4 +1,5 @@
 ---
+category: vibe
 duration: 4h
 image: golden_gate_park_afternoon.jpg
 image_license: CC BY-SA 3.0
@@ -12,9 +13,11 @@ pois:
 - northamerica/unitedstates/california/sanfrancisco/sf_botanical_garden
 snippet: Two world-class museums, a Japanese garden, and the park that makes San Francisco
   liveable
+tags:
+- vibes
 time_of_day: afternoon
 title: An Afternoon in Golden Gate Park
-type: vibe
+type: poi
 vibe_tags:
 - museums
 - gardens

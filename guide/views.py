@@ -113,6 +113,9 @@ def location_or_section(request, path):
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
+    # Walks tagged city_walks — shown as sidebar cards on the city page
+    city_walk_items = city_tag_index.get("city_walks", []) if city_tag_index else []
+
     # Nav pages collect their POIs by tag; section_groups collect their child nav pages
     if page.page_type == "section_group":
         pois = nav_pages
@@ -226,6 +229,7 @@ def location_or_section(request, path):
         "top_locations": top_locations,
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
+        "city_walk_items": city_walk_items,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,

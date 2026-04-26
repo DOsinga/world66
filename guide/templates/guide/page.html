@@ -71,6 +71,19 @@
   </div>
   {% endif %}
 
+  {% if city_walk_items %}
+  <div class="sidebar-walks">
+    <div class="sidebar-walks-head">City Walks</div>
+    {% for walk in city_walk_items %}
+    <a href="{{ walk.get_absolute_url }}" class="sidebar-walk-card">
+      <span class="sidebar-walk-num">{{ forloop.counter }}</span>
+      <span class="sidebar-walk-name">{{ walk.title }}</span>
+      <span class="sidebar-walk-arrow">&#8594;</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
   {% if parent_sections|length > 1 %}
   <nav class="section-sidenav">
     {% if parent %}

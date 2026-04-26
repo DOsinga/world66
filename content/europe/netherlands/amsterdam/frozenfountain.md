@@ -6,6 +6,7 @@ snippet: Curated Dutch design shop on the Prinsengracht
 tags:
 - shopping
 - design
+- canal_ring
 title: Frozen Fountain
 type: poi
 ---

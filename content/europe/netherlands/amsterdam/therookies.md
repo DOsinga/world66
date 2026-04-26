@@ -5,6 +5,8 @@ longitude: 4.885241
 snippet: Relaxed Leidseplein coffeeshop with terrace and pool table
 tags:
 - bars_and_cafes
+- drugs
+- museum_quarter
 title: The Rookies
 type: poi
 ---

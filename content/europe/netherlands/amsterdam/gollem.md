@@ -8,6 +8,7 @@ snippet: "Tiny beer cafe with 100+ Belgian and craft brews"
 tags:
 - bars_and_cafes
 - centrum
+- canal_ring
 title: Gollem
 type: poi
 ---

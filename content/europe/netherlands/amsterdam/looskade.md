@@ -7,6 +7,7 @@ longitude: 4.9448
 snippet: Waterfront promenade on KNSM Island with harbour views
 tags:
 - eastern_docklands
+- oost
 title: Looskade
 type: poi
 ---

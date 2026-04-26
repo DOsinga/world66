@@ -6,6 +6,7 @@ longitude: 4.896594
 snippet: Long-running smartshop on the Nieuwendijk selling herbs and supplements
 tags:
 - drugs
+- canal_ring
 title: La Canna
 type: poi
 ---

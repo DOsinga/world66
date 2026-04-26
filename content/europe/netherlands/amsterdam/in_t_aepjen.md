@@ -6,6 +6,7 @@ longitude: 4.9013
 tags:
 - bars_and_cafes
 - centrum
+- canal_ring
 story: >
   The name means "In the Monkeys." When the building served as a hostel for sailors
   in the 16th and 17th centuries, those who couldn't pay their bill sometimes settled

@@ -5,6 +5,7 @@ longitude: 4.891206
 snippet: Dedicated shop for all things Miffy in south Amsterdam
 tags:
 - shopping
+- de_pijp
 title: Miffy's Shop
 type: poi
 ---

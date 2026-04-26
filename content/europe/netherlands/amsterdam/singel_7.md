@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - centrum
+- canal_ring
 story: >
   The facade is barely a metre wide, though the house widens considerably behind
   the front wall. Amsterdam's 17th-century property taxes were based on canal frontage,

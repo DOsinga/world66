@@ -1330,26 +1330,62 @@ img { max-width: 100%; height: auto; }
   border-bottom: 1px solid rgba(184, 83, 43, 0.25);
 }
 
-/* Neighbourhoods cards — full-width block below content grid */
+/* Neighbourhoods scroll strip */
 .neighbourhoods-section {
   padding-top: 48px;
   padding-bottom: 48px;
 }
 
-.nbhd-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 14px;
+.nbhd-strip-wrap {
+  position: relative;
 }
+
+.nbhd-strip {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 4px;
+}
+
+.nbhd-strip::-webkit-scrollbar { display: none; }
+
+.nbhd-strip-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  background: var(--paper);
+  border: 1px solid var(--line-2);
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink);
+  transition: opacity 0.2s;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+}
+
+.nbhd-strip-arrow--prev { left: -17px; }
+.nbhd-strip-arrow--next { right: -17px; }
 
 .nbhd-card {
   position: relative;
-  aspect-ratio: 3 / 4;
+  flex: 0 0 200px;
+  aspect-ratio: 2 / 3;
   overflow: hidden;
   border-radius: 4px;
   background: var(--paper-3);
   text-decoration: none;
   display: block;
+  scroll-snap-align: start;
 }
 
 .nbhd-card img {
@@ -1367,38 +1403,23 @@ img { max-width: 100%; height: auto; }
 .nbhd-veil {
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.72) 100%);
+  background: linear-gradient(180deg, transparent 45%, rgba(0,0,0,0.75) 100%);
 }
 
 .nbhd-txt {
   position: absolute;
-  bottom: 18px;
-  left: 16px;
-  right: 16px;
+  bottom: 14px;
+  left: 13px;
+  right: 13px;
   color: #fff;
-}
-
-.nbhd-idx {
-  font-family: var(--label-font);
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: 0.2em;
-  opacity: 0.7;
-  margin-bottom: 5px;
 }
 
 .nbhd-name {
   font-family: var(--display-font);
   font-weight: 400;
-  font-size: 20px;
+  font-size: 17px;
   line-height: 1.1;
   letter-spacing: -0.01em;
-}
-
-@media (max-width: 768px) {
-  .nbhd-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
 }
 
 /* Destination cards — top 9 scored locations as image cards */

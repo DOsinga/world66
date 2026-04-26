@@ -99,7 +99,7 @@ def location_or_section(request, path):
 
     # Separate neighbourhood pages from nav pages so they render inline under
     # the article body rather than in the sidebar sections list.
-    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood"]
+    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
     nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
 
     # Build the city tag index once so all tagged_pois() calls reuse it.

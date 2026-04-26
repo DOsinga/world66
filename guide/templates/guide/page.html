@@ -336,11 +336,13 @@
   <h2 class="section-block-heading">Sections</h2>
 <div class="sections-row">
   {% for s in sections %}
+  {% if s.slug != "neighbourhoods" %}
   <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
     <div class="section-card-icon"></div>
     <div class="section-card-name">{{ s.title }}</div>
     <span class="section-card-arrow">&#8594;</span>
   </a>
+  {% endif %}
   {% endfor %}
 </div>
 </div>
@@ -350,19 +352,43 @@
 <div class="wide-block neighbourhoods-section">
   <span class="section-kicker">Areas</span>
   <h2 class="section-block-heading">Neighbourhoods</h2>
-  <div class="nbhd-grid">
-    {% for nb in neighbourhood_items %}
-    <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
-      {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
-      <div class="nbhd-veil"></div>
-      <div class="nbhd-txt">
-        <div class="nbhd-idx">NB — {{ forloop.counter|stringformat:"02d" }}</div>
-        <div class="nbhd-name">{{ nb.title }}</div>
-      </div>
-    </a>
-    {% endfor %}
+  <div class="nbhd-strip-wrap">
+    <button class="nbhd-strip-arrow nbhd-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
+    <div class="nbhd-strip" id="nbhd-strip">
+      {% for nb in neighbourhood_items %}
+      <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
+        {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
+        <div class="nbhd-veil"></div>
+        <div class="nbhd-txt">
+          <div class="nbhd-name">{{ nb.title }}</div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    <button class="nbhd-strip-arrow nbhd-strip-arrow--next" aria-label="Scroll right">&#8250;</button>
   </div>
 </div>
+<script>
+(function() {
+  var wrap = document.querySelector('.nbhd-strip-wrap');
+  var strip = document.getElementById('nbhd-strip');
+  if (!wrap || !strip) return;
+  var prev = wrap.querySelector('.nbhd-strip-arrow--prev');
+  var next = wrap.querySelector('.nbhd-strip-arrow--next');
+  function update() {
+    prev.style.opacity = strip.scrollLeft > 4 ? '1' : '0';
+    prev.style.pointerEvents = strip.scrollLeft > 4 ? '' : 'none';
+    var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 4;
+    next.style.opacity = atEnd ? '0' : '1';
+    next.style.pointerEvents = atEnd ? 'none' : '';
+  }
+  var step = 280;
+  prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
+  next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
+  strip.addEventListener('scroll', update);
+  update();
+})();
+</script>
 {% endif %}
 
 {% if nav_siblings %}

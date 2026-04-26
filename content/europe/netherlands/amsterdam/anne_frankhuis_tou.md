@@ -8,6 +8,7 @@ snippet: The preserved hiding place where Anne Frank wrote her diary
 tags:
 - museums
 - museum
+- jordaan
 title: Anne Frank House
 type: poi
 url: https://www.annefrank.org

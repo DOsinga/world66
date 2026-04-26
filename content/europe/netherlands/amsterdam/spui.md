@@ -7,6 +7,7 @@ longitude: 4.8912
 snippet: Bookish square with Friday market and hidden Begijnhof
 tags:
 - centrum
+- canal_ring
 title: Spui
 type: poi
 ---

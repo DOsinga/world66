@@ -1,4 +1,5 @@
 ---
+hide_from_city: true
 image: leidseplein.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Stadsschouwburg%2C_Amsterdam_2335.jpg

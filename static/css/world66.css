@@ -3122,28 +3122,79 @@ img { max-width: 100%; height: auto; }
 
 /* ── Plan add/remove buttons ─────────────────────────────────────────────── */
 
-.plan-add-bar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 0 0 20px;
-}
-.plan-add-form, .plan-remove-form { margin: 0; }
-.plan-add-btn {
-  font-size: 0.78rem;
-  font-weight: 600;
-  padding: 5px 12px;
-  border: 1.5px solid #c0392b;
-  border-radius: 20px;
-  color: #c0392b;
+.plan-add-form { margin: 0; }
+.plan-remove-form { margin: 0; }
+
+/* Floating + trigger button */
+.plan-add-trigger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  margin: 0 0 18px;
   background: transparent;
+  border: 1.5px solid #c0392b;
+  border-radius: 50%;
+  color: #c0392b;
+  font-size: 1.2rem;
+  line-height: 1;
   cursor: pointer;
-  white-space: nowrap;
   transition: background 0.15s, color 0.15s;
 }
-.plan-add-btn:hover {
+.plan-add-trigger:hover {
   background: #c0392b;
   color: #fff;
+}
+
+/* Pick-trip modal */
+.plan-add-modal {
+  position: absolute;
+  z-index: 200;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  min-width: 200px;
+  overflow: hidden;
+}
+.plan-add-modal[hidden] { display: none; }
+.plan-add-modal-inner { padding: 6px 0; }
+.plan-add-modal-head {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #aaa;
+  padding: 8px 14px 4px;
+}
+.plan-add-modal-plan {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #888;
+  padding: 8px 14px 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.plan-add-modal-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 9px 14px;
+  background: transparent;
+  border: none;
+  text-align: left;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #222;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+.plan-add-modal-btn:hover { background: #fdf0ef; color: #c0392b; }
+.plan-add-modal-dates {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #999;
 }
 .plan-remove-form {
   position: absolute;

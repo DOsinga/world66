@@ -171,18 +171,23 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
-{% if plan_stops %}
-<div class="plan-add-bar">
-  {% for plan in plan_stops %}
-  {% for stop in plan.stops %}
-  <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/add/" class="plan-add-form">
-    {% csrf_token %}
-    <input type="hidden" name="poi_path" value="{{ page.path }}">
-    <input type="hidden" name="next" value="{{ request.path }}">
-    <button type="submit" class="plan-add-btn" title="Add to {{ stop.city }} ({{ plan.title }})">+ {{ stop.city }}</button>
-  </form>
-  {% endfor %}
-  {% endfor %}
+{% if plan_stops and is_poi or plan_stops and sections %}
+<button class="plan-add-trigger" id="plan-add-trigger" aria-haspopup="dialog">+</button>
+<div class="plan-add-modal" id="plan-add-modal" role="dialog" aria-modal="true" hidden>
+  <div class="plan-add-modal-inner">
+    <div class="plan-add-modal-head">Add to trip</div>
+    {% for plan in plan_stops %}
+    {% if plan_stops|length > 1 %}<div class="plan-add-modal-plan">{{ plan.title }}</div>{% endif %}
+    {% for stop in plan.stops %}
+    <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/add/">
+      {% csrf_token %}
+      <input type="hidden" name="poi_path" value="{{ page.path }}">
+      <input type="hidden" name="next" value="{{ request.path }}">
+      <button type="submit" class="plan-add-modal-btn">{{ stop.city }}{% if stop.dates %} <span class="plan-add-modal-dates">{{ stop.dates }}</span>{% endif %}</button>
+    </form>
+    {% endfor %}
+    {% endfor %}
+  </div>
 </div>
 {% endif %}
 
@@ -544,6 +549,39 @@
       }
     });
   }
+})();
+</script>
+<script>
+(function() {
+  var trigger = document.getElementById('plan-add-trigger');
+  var modal = document.getElementById('plan-add-modal');
+  if (!trigger || !modal) return;
+
+  // Move modal to body so it's not clipped by overflow
+  document.body.appendChild(modal);
+
+  function openModal() {
+    var rect = trigger.getBoundingClientRect();
+    var scrollY = window.scrollY || window.pageYOffset;
+    modal.removeAttribute('hidden');
+    modal.style.top = (rect.bottom + scrollY + 6) + 'px';
+    modal.style.left = rect.left + 'px';
+  }
+
+  trigger.addEventListener('click', function(e) {
+    e.stopPropagation();
+    if (modal.hidden) { openModal(); } else { modal.setAttribute('hidden', ''); }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!modal.hidden && !modal.contains(e.target)) {
+      modal.setAttribute('hidden', '');
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') modal.setAttribute('hidden', '');
+  });
 })();
 </script>
 {% endblock %}

@@ -1688,6 +1688,21 @@ img { max-width: 100%; height: auto; }
   color: var(--mute);
 }
 
+.home-plan-btn {
+  display: inline-block;
+  margin-top: 28px;
+  padding: 11px 22px;
+  background: #c0392b;
+  color: #fff;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  transition: background 0.15s;
+}
+.home-plan-btn:hover { background: #a93226; }
+
 /* Continent cards section */
 .home-continents-section {
   padding-top: 56px;

@@ -2,10 +2,11 @@
 address: Steiner St & Hayes St
 latitude: 37.7756
 longitude: -122.4325
-snippet: "Row of Victorian houses framing the SF skyline, best seen from Alamo Square"
+snippet: Row of Victorian houses framing the SF skyline, best seen from Alamo Square
 tags:
 - things_to_do
 - sight
+- fillmore_street
 title: Painted Ladies
 type: poi
 ---

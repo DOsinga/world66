@@ -1,13 +1,133 @@
+import hashlib
 import json
+import os
+import re
+import secrets
 import sqlite3
 import subprocess
+from functools import wraps
 from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.http import FileResponse, Http404, JsonResponse
+from django.http import FileResponse, Http404, HttpResponseRedirect, JsonResponse
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
+
+_PASSWORDS_FILE = Path(settings.BASE_DIR) / "plans" / ".passwords.json"
+
+
+def _hash_password(password, salt=None):
+    if salt is None:
+        salt = secrets.token_hex(16)
+    h = hashlib.pbkdf2_hmac("sha256", password.encode(), salt.encode(), 260000)
+    return f"{salt}${h.hex()}"
+
+
+def _check_password(password, stored):
+    salt, _ = stored.split("$", 1)
+    return secrets.compare_digest(_hash_password(password, salt), stored)
+
+
+def _load_passwords():
+    if not _PASSWORDS_FILE.is_file():
+        return {}
+    return json.loads(_PASSWORDS_FILE.read_text())
+
+
+def _save_password(slug, password):
+    data = _load_passwords()
+    data[slug] = _hash_password(password)
+    _PASSWORDS_FILE.write_text(json.dumps(data))
+
+
+def _plan_authenticated(request, slug):
+    return slug in request.session.get("authenticated_plans", [])
+
+
+def _mark_plan_authenticated(request, slug):
+    plans = request.session.get("authenticated_plans", [])
+    if slug not in plans:
+        plans = plans + [slug]
+        request.session["authenticated_plans"] = plans
+
+
+def _require_plan_auth(view_fn):
+    @wraps(view_fn)
+    def wrapper(request, slug, *args, **kwargs):
+        passwords = _load_passwords()
+        if slug not in passwords:
+            return HttpResponseRedirect(f"/auth/signup/{slug}/")
+        if not _plan_authenticated(request, slug):
+            return HttpResponseRedirect(f"/auth/login/{slug}/?next={request.path}")
+        return view_fn(request, slug, *args, **kwargs)
+    return wrapper
+
+
+def auth_signup(request, slug):
+    passwords = _load_passwords()
+    if slug in passwords:
+        return HttpResponseRedirect(f"/auth/login/{slug}/")
+    # Check the plan actually exists
+    if not (Path(settings.BASE_DIR) / "plans" / f"{slug}.md").is_file():
+        raise Http404
+    error = None
+    if request.method == "POST":
+        pw = request.POST.get("password", "")
+        pw2 = request.POST.get("password2", "")
+        if len(pw) < 6:
+            error = "Choose at least 6 characters."
+        elif pw != pw2:
+            error = "Passwords don't match."
+        else:
+            _save_password(slug, pw)
+            _mark_plan_authenticated(request, slug)
+            return HttpResponseRedirect(f"/plans/{slug}/")
+    plan_title = _plan_title(slug)
+    return render(request, "guide/signup.html", {"error": error, "slug": slug, "plan_title": plan_title})
+
+
+def auth_login(request, slug):
+    passwords = _load_passwords()
+    if slug not in passwords:
+        return HttpResponseRedirect(f"/auth/signup/{slug}/")
+    error = None
+    next_url = request.GET.get("next", f"/plans/{slug}/")
+    if request.method == "POST":
+        next_url = request.POST.get("next", next_url)
+        if _check_password(request.POST.get("password", ""), passwords[slug]):
+            _mark_plan_authenticated(request, slug)
+            return HttpResponseRedirect(next_url)
+        error = "Wrong password."
+    plan_title = _plan_title(slug)
+    return render(request, "guide/login.html", {"error": error, "next": next_url, "slug": slug, "plan_title": plan_title})
+
+
+def auth_logout(request):
+    request.session.flush()
+    return HttpResponseRedirect("/")
+
+
+def _authenticated_plan_stops(request):
+    """Return list of {plan_slug, plan_title, stops:[{city, city_slug, url}]} for authenticated plans."""
+    result = []
+    for slug in request.session.get("authenticated_plans", []):
+        plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+        if plan:
+            result.append({
+                "slug": slug,
+                "title": plan["title"],
+                "stops": [{"city": s["city"], "city_slug": s["city_slug"], "url": s["url"]} for s in plan["stops"]],
+            })
+    return result
+
+
+def _plan_title(slug):
+    import frontmatter as fm
+    path = Path(settings.BASE_DIR) / "plans" / f"{slug}.md"
+    if not path.is_file():
+        return slug
+    return fm.load(path).metadata.get("title", slug)
 
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
@@ -64,7 +184,7 @@ def location_or_section(request, path):
         parent_path = page.path.rsplit("/", 1)[0]
         parent = load_page(parent_path)
 
-    # Build sidebar nav: nav_pages from the parent (city or section_group).
+    # Build sidebar nav: nav_pages from the parent (city or section).
     # For POIs the immediate parent is the section, which has no nav children —
     # walk up one more level to the city so the sidebar shows all city sections.
     parent_nav = []
@@ -92,36 +212,69 @@ def location_or_section(request, path):
     # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.
     poi_context_prefix = None
     _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
-    if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
+    if page.page_type in NAV_TYPES and _city_path:
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
-    nav_pages, locations, pois = page.children()
 
-    # Separate neighbourhood pages from nav pages so they render inline under
-    # the article body rather than in the sidebar sections list.
-    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
-    nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
+    # Normalise vibe time slots to a list; load any referenced POIs
+    vibe_time_slots = []
+    vibe_pois = []
+    if page.page_type == "vibe":
+        tday = page.meta.get("time_of_day", "")
+        vibe_time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
+        for poi_path in page.meta.get("pois", []):
+            poi_page = load_page(poi_path)
+            if poi_page:
+                vibe_pois.append(poi_page)
+
+    nav_pages, locations, pois = page.children()
 
     # Build the city tag index once so all tagged_pois() calls reuse it.
     # Only build for actual city-level pages: nav pages (sections), or location
     # pages that have sections but no child locations (cities, not countries/continents).
     city_tag_index = None
-    _cpath = _city_path if page.page_type in NAV_TYPES else (
+    _COLLECTS_POIS = NAV_TYPES | {"neighbourhood"}
+    _cpath = _city_path if page.page_type in _COLLECTS_POIS else (
         page.path if nav_pages and not locations else None
     )
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
-    # Nav pages collect their POIs by tag; section_groups collect their child nav pages
-    if page.page_type == "section_group":
-        pois = nav_pages
-    elif page.page_type in NAV_TYPES:
+    # Neighbourhoods, vibes and walks are type:poi with category + tags.
+    neighbourhoods = city_tag_index.get("neighbourhoods", []) if city_tag_index else []
+    neighbourhoods = [p for p in neighbourhoods if not p.meta.get("hide_from_city")]
+    vibe_items = city_tag_index.get("vibes", []) if city_tag_index else []
+    city_walk_items = city_tag_index.get("city_walks", []) if city_tag_index else []
+
+    # Nav pages and neighbourhood pages collect their POIs by tag
+    if page.page_type in _COLLECTS_POIS:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
-    if page.page_type in NAV_TYPES and pois:
+    if page.page_type in _COLLECTS_POIS and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
+
+    # Walk: load route coordinates and waypoint pages
+    walk_route = []
+    walk_waypoints = []
+    if page.page_type == "walk":
+        walk_route = page.meta.get("route", [])
+        city_path = _find_city_path(page.path)
+        if city_path:
+            seen_paths = set()
+            for wp_slug in page.meta.get("waypoints", []):
+                wp = load_page(city_path + "/" + wp_slug)
+                if wp and wp.path not in seen_paths:
+                    seen_paths.add(wp.path)
+                    walk_waypoints.append(wp)
+            # Also include POIs linked in the body text that aren't already waypoints
+            for link_path in re.findall(r'\]\((/[^)]+)\)', page.body or ''):
+                link_path = link_path.strip('/')
+                wp = load_page(link_path)
+                if wp and wp.page_type == 'poi' and wp.path not in seen_paths:
+                    seen_paths.add(wp.path)
+                    walk_waypoints.append(wp)
 
     # Map context
     lat = _safe_float(page.meta.get("latitude"))
@@ -143,6 +296,13 @@ def location_or_section(request, path):
     for nb in neighbourhoods:
         nb_img = _image_path(nb, branch)
         nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
+
+    for d in vibe_items:
+        d_img = _image_path(d, branch)
+        d.image_url = f'/content-image/{d_img}{branch_qs}' if d_img else None
+        tday = d.meta.get("time_of_day", "")
+        d.time_slots = tday if isinstance(tday, list) else ([tday] if tday else [])
+        d.primary_time = d.time_slots[0] if d.time_slots else ""
 
     # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
     locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
@@ -181,7 +341,12 @@ def location_or_section(request, path):
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
-    if page.page_type in NAV_TYPES:
+    if page.page_type == "vibe":
+        for poi in vibe_pois:
+            img_path = _image_path(poi, branch)
+            if img_path:
+                poi_images.append({'url': f'/content-image/{img_path}{branch_qs}', 'title': poi.title, 'href': poi.get_absolute_url()})
+    elif page.page_type in NAV_TYPES:
         for poi in pois:
             img_path = _image_path(poi, branch)
             if img_path:
@@ -194,6 +359,15 @@ def location_or_section(request, path):
     markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
+    # For vibe pages, build markers from the referenced POIs
+    if page.page_type == "vibe" and vibe_pois:
+        vibe_markers = [m for m in (_marker_from_page(p, highlight=True) for p in vibe_pois) if m]
+        markers = vibe_markers
+        markers_full = vibe_markers
+        if lat is None and lng is None and vibe_markers:
+            lat = vibe_markers[0]["lat"]
+            lng = vibe_markers[0]["lng"]
+
     breadcrumbs = page.breadcrumbs()
 
     return render(request, "guide/page.html", {
@@ -204,6 +378,9 @@ def location_or_section(request, path):
         "top_locations": top_locations,
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
+        "vibe_items": vibe_items,
+        "city_walk_items": city_walk_items,
+        "vibe_time_slots": vibe_time_slots,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
@@ -224,11 +401,14 @@ def location_or_section(request, path):
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
+        "walk_route": mark_safe(json.dumps(walk_route)),
+        "walk_waypoints": walk_waypoints,
         "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
+        "plan_stops": _authenticated_plan_stops(request),
     })
 
 
@@ -325,8 +505,6 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     # On city pages, restrict to sightseeing sections only so the map stays focused.
     if not locations:
         for nav in nav_pages:
-            if nav.page_type == "section_group":
-                continue
             if nav.slug not in _SIGHT_SLUGS:
                 continue
             for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
@@ -492,3 +670,284 @@ def _file_to_url_path(file_path):
     if len(parts) >= 2 and parts[-1] == parts[-2]:
         parts = parts[:-1]
     return '/'.join(parts)
+
+
+# ── Travel plans ──────────────────────────────────────────────────────────────
+
+PLANS_DIR = Path(settings.BASE_DIR) / "plans"
+
+
+def _parse_plan(path):
+    """Load and parse a plan markdown file. Returns a dict or None."""
+    import frontmatter as fm
+    if not path.is_file():
+        return None
+    post = fm.load(path)
+    slug = path.stem
+    title = post.metadata.get("title", slug)
+    stops = _parse_stops(post.content, slug)
+    return {"slug": slug, "title": title, "body": post.content, "stops": stops}
+
+
+def _parse_stops(body, plan_slug):
+    """Parse plan markdown into stops, enriching each item with page data."""
+    import re as _re
+    stops = []
+    current = None
+    for line in body.splitlines():
+        h2 = _re.match(r'^##\s+(.+)$', line)
+        if h2:
+            heading = h2.group(1)
+            if '|' in heading:
+                city, dates = heading.split('|', 1)
+            else:
+                city, dates = heading, ''
+            city = city.strip()
+            city_slug = city.lower().replace(' ', '-')
+            current = {
+                "city": city,
+                "city_slug": city_slug,
+                "dates": dates.strip(),
+                "url": f"/plans/{plan_slug}/{city_slug}/",
+                "items": [],
+            }
+            stops.append(current)
+            continue
+        if current is None:
+            continue
+        bullet = _re.match(r'^[-*]\s+(.+)$', line)
+        if bullet:
+            text = bullet.group(1).strip()
+            # Support internal paths, absolute URLs, and relative /paths
+            page = None
+            external_url = None
+            display_text = text
+            if _re.match(r'^https?://', text):
+                external_url = text
+            elif text.startswith('/'):
+                page = load_page(text.lstrip('/'))
+            elif _re.match(r'^[\w/_-]+$', text):
+                page = load_page(text)
+            image_url = None
+            if page:
+                img = _image_path(page)
+                if img:
+                    image_url = f'/content-image/{img}'
+            current["items"].append({
+                "text": text,
+                "page": page,
+                "external_url": external_url,
+                "image_url": image_url,
+            })
+
+    # Derive destination URL from the parent path of the first internal POI
+    for stop in stops:
+        dest_url = None
+        for item in stop["items"]:
+            if item["page"] and "/" in item["page"].path:
+                dest_url = "/" + item["page"].path.rsplit("/", 1)[0]
+                break
+        stop["destination_url"] = dest_url
+
+    return stops
+
+
+def _stop_markers(stop):
+    """Return JSON-serialisable marker list for a single stop."""
+    markers = []
+    for item in stop["items"]:
+        page = item["page"]
+        if page and page.meta.get("latitude") and page.meta.get("longitude"):
+            markers.append({
+                "lat": float(page.meta["latitude"]),
+                "lng": float(page.meta["longitude"]),
+                "title": page.title,
+                "url": page.get_absolute_url(),
+            })
+    return markers
+
+
+def plan_list(request):
+    import frontmatter as fm
+    passwords = _load_passwords()
+    authenticated = set(request.session.get("authenticated_plans", []))
+    plans = []
+    for f in sorted(PLANS_DIR.glob("*.md")):
+        post = fm.load(f)
+        slug = f.stem
+        plans.append({
+            "slug": slug,
+            "title": post.metadata.get("title", slug),
+            "locked": slug not in authenticated,
+        })
+    return render(request, "guide/plan_list.html", {"plans": plans})
+
+
+def plan_new(request):
+    error = None
+    if request.method == "POST":
+        title = request.POST.get("title", "").strip()
+        pw = request.POST.get("password", "")
+        pw2 = request.POST.get("password2", "")
+        if not title:
+            error = "Please enter a trip title."
+        elif len(pw) < 6:
+            error = "Choose at least 6 characters."
+        elif pw != pw2:
+            error = "Passwords don't match."
+        else:
+            import frontmatter as fm
+            slug = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')
+            path = PLANS_DIR / f"{slug}.md"
+            if path.exists():
+                error = f"A trip named '{slug}' already exists."
+            else:
+                post = fm.Post("", title=title)
+                with open(path, "wb") as fh:
+                    fm.dump(post, fh)
+                _save_password(slug, pw)
+                _mark_plan_authenticated(request, slug)
+                return HttpResponseRedirect(f"/plans/{slug}/edit/")
+    return render(request, "guide/plan_new.html", {"error": error})
+
+
+@_require_plan_auth
+def plan_detail(request, slug):
+    plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+    if not plan:
+        raise Http404
+
+    # One marker per stop — use centroid of its POIs
+    stop_markers = []
+    for stop in plan["stops"]:
+        pts = _stop_markers(stop)
+        if pts:
+            lat = sum(m["lat"] for m in pts) / len(pts)
+            lng = sum(m["lng"] for m in pts) / len(pts)
+            stop_markers.append({
+                "lat": lat, "lng": lng,
+                "title": stop["city"], "dates": stop["dates"],
+                "url": stop["url"],
+            })
+
+    return render(request, "guide/plan_detail.html", {
+        "plan": plan,
+        "stop_markers": mark_safe(json.dumps(stop_markers)),
+    })
+
+
+@_require_plan_auth
+def plan_stop(request, slug, city_slug):
+    plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+    if not plan:
+        raise Http404
+    stop = next((s for s in plan["stops"] if s["city_slug"] == city_slug), None)
+    if not stop:
+        raise Http404
+    markers = _stop_markers(stop)
+    return render(request, "guide/plan_stop.html", {
+        "plan": plan,
+        "stop": stop,
+        "markers": mark_safe(json.dumps(markers)),
+    })
+
+
+@_require_plan_auth
+def plan_edit(request, slug):
+    path = PLANS_DIR / f"{slug}.md"
+    if not path.is_file():
+        raise Http404
+    import frontmatter as fm
+    if request.method == "POST":
+        body = request.POST.get("body", "")
+        post = fm.load(path)
+        post.content = body
+        with open(path, "wb") as fh:
+            fm.dump(post, fh)
+        return HttpResponseRedirect(f"/plans/{slug}/")
+    post = fm.load(path)
+    return render(request, "guide/plan_edit.html", {
+        "plan": {"slug": slug, "title": post.metadata.get("title", slug)},
+        "body": post.content,
+    })
+
+
+def _plan_file_add(slug, city_slug, poi_path):
+    """Add poi_path as a bullet under the matching city heading."""
+    path = PLANS_DIR / f"{slug}.md"
+    import frontmatter as fm
+    post = fm.load(path)
+    lines = post.content.splitlines()
+    # Find the city heading and the end of its bullet block
+    insert_at = None
+    in_section = False
+    for i, line in enumerate(lines):
+        h2 = re.match(r'^##\s+(.+)$', line)
+        if h2:
+            heading = h2.group(1)
+            city = heading.split('|', 1)[0].strip().lower().replace(' ', '-')
+            in_section = (city == city_slug)
+            if in_section:
+                insert_at = i + 1  # default: right after heading
+            continue
+        if in_section:
+            if re.match(r'^[-*]\s+', line):
+                insert_at = i + 1  # keep advancing to end of bullets
+            elif line.strip() == '':
+                pass  # skip blank lines within section
+            else:
+                break  # hit something else, stop
+    if insert_at is None:
+        return False
+    # Check not already present
+    if any(l.strip().lstrip('-* ') == poi_path for l in lines):
+        return False
+    lines.insert(insert_at, f'- {poi_path}')
+    post.content = '\n'.join(lines)
+    with open(path, 'wb') as fh:
+        fm.dump(post, fh)
+    return True
+
+
+def _plan_file_remove(slug, poi_path):
+    """Remove the bullet line for poi_path from the plan."""
+    path = PLANS_DIR / f"{slug}.md"
+    import frontmatter as fm
+    post = fm.load(path)
+    lines = post.content.splitlines()
+    new_lines = [l for l in lines if l.strip().lstrip('-* ') != poi_path]
+    if len(new_lines) == len(lines):
+        return False
+    post.content = '\n'.join(new_lines)
+    with open(path, 'wb') as fh:
+        fm.dump(post, fh)
+    return True
+
+
+@_require_plan_auth
+def plan_poi_add(request, slug, city_slug=None):
+    if request.method != 'POST':
+        raise Http404
+    poi_path = request.POST.get('poi_path', '').strip()
+    if poi_path:
+        if city_slug is None:
+            # Auto-detect: find the stop whose city_slug appears in the poi path
+            plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+            if plan:
+                for stop in plan["stops"]:
+                    if stop["city_slug"] in poi_path.replace('/', '-').lower() or stop["city_slug"] in poi_path.lower():
+                        city_slug = stop["city_slug"]
+                        break
+        if city_slug:
+            _plan_file_add(slug, city_slug, poi_path)
+    return HttpResponseRedirect(request.POST.get('next', f'/plans/{slug}/'))
+
+
+@_require_plan_auth
+def plan_poi_remove(request, slug, city_slug):
+    if request.method != 'POST':
+        raise Http404
+    poi_path = request.POST.get('poi_path', '').strip()
+    if poi_path:
+        _plan_file_remove(slug, poi_path)
+    return HttpResponseRedirect(request.POST.get('next', f'/plans/{slug}/{city_slug}/'))

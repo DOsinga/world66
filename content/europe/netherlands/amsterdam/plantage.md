@@ -1,5 +1,4 @@
 ---
-hide_from_city: true
 image: plantage.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:De_Plantage_(17).jpg

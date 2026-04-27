@@ -1,0 +1,78 @@
+{% extends "guide/base.html" %}
+{% load static %}
+{% block title %}{{ stop.city }} — {{ plan.title }} — World66{% endblock %}
+
+{% block content %}
+<div class="plan-page">
+
+  <div class="plan-header">
+    <a href="/plans/{{ plan.slug }}/" class="plan-back">← {{ plan.title }}</a>
+    <h1>{{ stop.city }}</h1>
+    {% if stop.dates %}<div class="plan-stop-dates-large">{{ stop.dates }}</div>{% endif %}
+  </div>
+
+  <div class="plan-stop-layout">
+
+    <div id="plan-stop-map"></div>
+
+    <div class="plan-poi-list">
+      {% for item in stop.items %}
+      <div class="plan-poi-card">
+        {% if item.image_url %}
+        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
+        {% endif %}
+        <div class="plan-poi-body">
+          {% if item.page %}
+            <a class="plan-poi-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
+            {% if item.page.meta.snippet %}
+            <p class="plan-poi-snippet">{{ item.page.meta.snippet }}</p>
+            {% endif %}
+          {% elif item.external_url %}
+            <a class="plan-poi-title plan-poi-external" href="{{ item.external_url }}" target="_blank" rel="noopener">{{ item.external_url }}</a>
+          {% else %}
+            <span class="plan-poi-title plan-poi-note">{{ item.text }}</span>
+          {% endif %}
+        </div>
+        <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
+          {% csrf_token %}
+          <input type="hidden" name="poi_path" value="{{ item.text }}">
+          <input type="hidden" name="next" value="{{ request.path }}">
+          <button type="submit" class="plan-remove-btn" title="Remove from plan">−</button>
+        </form>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function() {
+  const markers = {{ markers }};
+  const map = L.map('plan-stop-map', {scrollWheelZoom: false, zoomControl: true});
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
+
+  const W66_RED = '#c0392b';
+  markers.forEach(function(m, i) {
+    const icon = L.divIcon({
+      className: 'plan-stop-marker',
+      html: '<span style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;">' + (i+1) + '</span>',
+      iconSize: [28, 28],
+      iconAnchor: [14, 14],
+    });
+    L.marker([m.lat, m.lng], {icon: icon})
+      .bindTooltip(m.title, {direction: 'top'})
+      .on('click', function() { window.location = m.url; })
+      .addTo(map);
+  });
+
+  if (markers.length) {
+    map.fitBounds(L.latLngBounds(markers.map(m => [m.lat, m.lng])).pad(0.25));
+  } else {
+    map.setView([20, 0], 2);
+  }
+})();
+</script>
+{% endblock %}

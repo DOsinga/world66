@@ -9,6 +9,7 @@ snippet: Intimate indie venue for discovering new live music
 tags:
 - bars_and_cafes
 - bar
+- fillmore_street
 title: The Independent
 type: poi
 url: www.independentsf.com

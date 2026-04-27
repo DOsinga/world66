@@ -6,15 +6,13 @@ Uses the `type` field to classify pages:
 
   location      — continent, country, region, city
   section       — top-level navigable collection within a city (things_to_do, shopping, …)
-  section_group — groups related nav pages in the sidebar (neighbourhoods, themes)
-  neighbourhood — a district; appears under its section_group in the nav
-  theme         — a cross-cutting theme (lgbtq, cold_war, …); appears under its section_group
-  poi           — individual point of interest
+  theme         — a cross-cutting theme (lgbtq, cold_war, …)
+  poi           — individual point of interest; use `category` to sub-type:
+                    walk        — city walk with route + waypoints
+                    vibe        — half-day itinerary; tag with `vibes` to show on city page
+                    neighbourhood — district; tag with `neighbourhoods` to show on city page
 
-All of section / section_group / neighbourhood / theme are "nav pages": they appear
-in the city sidebar and each collects POIs by tag.  When a POI carries `tags: [de_pijp]`
-and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears under De Pijp.
-
+Section and theme are "nav pages": they appear in the city sidebar and collect POIs by tag.
 A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter to override.
 """
 
@@ -29,7 +27,7 @@ from django.conf import settings
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
 
 # Page types that participate in city navigation and collect POIs by tag.
-NAV_TYPES = {"section", "section_group", "neighbourhood", "theme"}
+NAV_TYPES = {"section", "theme"}
 
 DISPLAY_PROPERTIES = {
     "address": "Address",
@@ -128,8 +126,7 @@ class Page:
         """Sub-pages in this page's directory, grouped by type.
 
         Returns (nav_pages, locations, pois).  nav_pages covers all NAV_TYPES
-        so the template can group them (sections at top, section_groups with
-        their members nested, etc.).
+        so the template can group them (sections, neighbourhoods, vibes, etc.).
         """
         dir_path = CONTENT_DIR / self.path
         if not dir_path.is_dir():
@@ -150,7 +147,7 @@ class Page:
                     continue
                 if page.page_type in NAV_TYPES:
                     nav_pages.append(page)
-                elif page.page_type == "poi":
+                elif page.meta.get("type") == "poi":
                     pois.append(page)
                 else:
                     locations.append(page)
@@ -272,7 +269,21 @@ def _load_page_from_file(file_path, url_path):
     meta, body = result
     slug = file_path.stem
     title = meta.get("title", slug)
-    page_type = meta.get("type", "location")
+    raw_type = meta.get("type", "location")
+    if raw_type == "poi":
+        raw_tags = meta.get("tags", [])
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",")]
+        if "city_walks" in raw_tags:
+            page_type = "walk"
+        elif "vibes" in raw_tags:
+            page_type = "vibe"
+        elif "neighbourhoods" in raw_tags:
+            page_type = "neighbourhood"
+        else:
+            page_type = "poi"
+    else:
+        page_type = raw_type
     return Page(
         slug=slug, path=url_path, title=title,
         page_type=page_type, body=body, meta=meta,
@@ -333,7 +344,7 @@ def resolve_tag_route(path):
 
     # Try each possible split: city = parts[:i], nav = parts[i], poi = parts[i+1:]
     # We only support one nav-slug level (not nested like neighbourhoods/de_pijp/poi)
-    # Nested case (section_group/nav/poi) is handled by trying i and i-1.
+    # Try each city_len to find the right split point.
     for city_len in range(len(parts) - 2, 0, -1):
         city_path = "/".join(parts[:city_len])
         nav_slug = parts[city_len]

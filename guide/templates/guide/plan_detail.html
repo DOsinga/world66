@@ -1,0 +1,71 @@
+{% extends "guide/base.html" %}
+{% load static %}
+{% block title %}{{ plan.title }} — World66{% endblock %}
+
+{% block content %}
+<div class="plan-page">
+
+  <div class="plan-header">
+    <h1>{{ plan.title }}</h1>
+    <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
+  </div>
+
+  <div class="plan-overview-layout">
+
+    <div id="plan-overview-map"></div>
+
+    <div class="plan-stops-list">
+      {% for stop in plan.stops %}
+      <a href="{{ stop.url }}" class="plan-stop-card">
+        <div class="plan-stop-card-body">
+          <div class="plan-stop-city">{{ stop.city }}</div>
+          {% if stop.dates %}<div class="plan-stop-dates">{{ stop.dates }}</div>{% endif %}
+          <div class="plan-stop-count">{{ stop.items|length }} place{% if stop.items|length != 1 %}s{% endif %}</div>
+        </div>
+        <div class="plan-stop-card-actions">
+          {% if stop.destination_url %}
+          <a href="{{ stop.destination_url }}" class="plan-stop-explore" title="Explore {{ stop.city }}" onclick="event.stopPropagation()">Explore</a>
+          {% endif %}
+          <span class="plan-stop-card-arrow">›</span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+
+  </div>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function() {
+  const stops = {{ stop_markers }};
+  const map = L.map('plan-overview-map', {scrollWheelZoom: false, zoomControl: true});
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
+
+  const W66_RED = '#c0392b';
+  stops.forEach(function(s, i) {
+    const icon = L.divIcon({
+      className: 'plan-stop-marker',
+      html: '<span style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;">' + (i+1) + '</span>',
+      iconSize: [28, 28],
+      iconAnchor: [14, 14],
+    });
+    L.marker([s.lat, s.lng], {icon: icon})
+      .bindTooltip('<strong>' + s.title + '</strong>' + (s.dates ? '<br>' + s.dates : ''), {direction: 'top'})
+      .on('click', function() { window.location = s.url; })
+      .addTo(map);
+  });
+
+  if (stops.length > 1) {
+    // Draw a line connecting the stops in order
+    L.polyline(stops.map(s => [s.lat, s.lng]), {color: W66_RED, weight: 2, opacity: 0.5, dashArray: '6,6'}).addTo(map);
+    map.fitBounds(L.latLngBounds(stops.map(s => [s.lat, s.lng])).pad(0.2));
+  } else if (stops.length === 1) {
+    map.setView([stops[0].lat, stops[0].lng], 12);
+  } else {
+    map.setView([20, 0], 2);
+  }
+})();
+</script>
+{% endblock %}

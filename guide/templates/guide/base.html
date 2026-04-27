@@ -36,6 +36,14 @@
         </form>
         <ul class="site-search-dropdown" id="header-search-dropdown"></ul>
       </div>
+      <div class="nav-auth">
+        {% if request.session.authenticated_plans %}
+          <a href="/plans/" class="nav-auth-link">My Plans</a>
+          <a href="/auth/logout/" class="nav-auth-btn">Sign out</a>
+        {% else %}
+          <a href="/plans/" class="nav-auth-btn">Plan your trip</a>
+        {% endif %}
+      </div>
     </div>
   </div>
 </nav>
@@ -65,7 +73,7 @@
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="{% static 'geo/mappings.js' %}"></script>
-<script src="{% static 'js/world66map.js' %}"></script>
+<script src="{% static 'js/world66map.js' %}?v=2"></script>
 <script>
 (function() {
   var toggle = document.querySelector('.sidebar-toggle');

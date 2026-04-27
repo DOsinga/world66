@@ -8,7 +8,6 @@ snippet: "One of Europe's oldest zoos, founded 1838, with a fine aquarium"
 tags:
 - things_to_do
 - plantage
-- oost
 title: Artis Zoo
 type: poi
 ---

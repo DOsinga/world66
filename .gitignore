@@ -26,3 +26,6 @@ __pycache__/
 clean
 /location_ratings.json
 design/
+/plans/*.md
+plans/.password
+plans/.passwords.json

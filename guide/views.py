@@ -1,5 +1,8 @@
+import hashlib
 import json
+import os
 import re
+import secrets
 import sqlite3
 import subprocess
 from functools import wraps
@@ -11,22 +14,63 @@ from django.http import FileResponse, Http404, HttpResponseRedirect, JsonRespons
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
 
+_PASSWORD_FILE = Path(settings.BASE_DIR) / "plans" / ".password"
+
+
+def _hash_password(password, salt=None):
+    if salt is None:
+        salt = secrets.token_hex(16)
+    h = hashlib.pbkdf2_hmac("sha256", password.encode(), salt.encode(), 260000)
+    return f"{salt}${h.hex()}"
+
+
+def _check_password(password, stored):
+    salt, _ = stored.split("$", 1)
+    return secrets.compare_digest(_hash_password(password, salt), stored)
+
+
+def _password_is_set():
+    return _PASSWORD_FILE.is_file()
+
 
 def _require_auth(view_fn):
     @wraps(view_fn)
     def wrapper(request, *args, **kwargs):
+        if not _password_is_set():
+            return HttpResponseRedirect("/auth/signup/")
         if not request.session.get("authenticated"):
             return HttpResponseRedirect(f"/auth/login/?next={request.path}")
         return view_fn(request, *args, **kwargs)
     return wrapper
 
 
+def auth_signup(request):
+    if _password_is_set():
+        return HttpResponseRedirect("/auth/login/")
+    error = None
+    if request.method == "POST":
+        pw = request.POST.get("password", "")
+        pw2 = request.POST.get("password2", "")
+        if len(pw) < 6:
+            error = "Choose at least 6 characters."
+        elif pw != pw2:
+            error = "Passwords don't match."
+        else:
+            _PASSWORD_FILE.write_text(_hash_password(pw))
+            request.session["authenticated"] = True
+            return HttpResponseRedirect("/plans/")
+    return render(request, "guide/signup.html", {"error": error})
+
+
 def auth_login(request):
+    if not _password_is_set():
+        return HttpResponseRedirect("/auth/signup/")
     error = None
     next_url = request.GET.get("next", "/plans/")
     if request.method == "POST":
         next_url = request.POST.get("next", next_url)
-        if request.POST.get("password") == settings.PLAN_PASSWORD:
+        stored = _PASSWORD_FILE.read_text().strip()
+        if _check_password(request.POST.get("password", ""), stored):
             request.session["authenticated"] = True
             return HttpResponseRedirect(next_url)
         error = "Wrong password."

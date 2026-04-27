@@ -48,7 +48,6 @@ SESSION_ENGINE = "django.contrib.sessions.backends.signed_cookies"
 SESSION_COOKIE_HTTPONLY = True
 SESSION_COOKIE_SAMESITE = "Lax"
 
-PLAN_PASSWORD = os.environ.get("PLAN_PASSWORD", "letmein")
 
 ROOT_URLCONF = "world66.urls"
 

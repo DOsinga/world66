@@ -3024,6 +3024,12 @@ img { max-width: 100%; height: auto; }
   margin-top: 4px;
 }
 .login-box button:hover { background: #a93226; }
+.login-intro {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0 0 20px;
+  line-height: 1.5;
+}
 .login-error {
   padding: 10px 12px;
   background: #fdf0ef;

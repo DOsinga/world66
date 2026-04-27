@@ -9,6 +9,7 @@ urlpatterns = [
     path("tags/<str:tag>", views.tag_index, name="tag_index"),
     path("content-image/<path:path>", views.content_image, name="content_image"),
     path("review", views.review, name="review"),
+    path("auth/signup/", views.auth_signup, name="auth_signup"),
     path("auth/login/", views.auth_login, name="auth_login"),
     path("auth/logout/", views.auth_logout, name="auth_logout"),
     path("plans/", views.plan_list, name="plan_list"),

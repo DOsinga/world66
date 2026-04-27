@@ -15,6 +15,7 @@
   <div class="plan-header">
     <h1>{{ stop.city }}</h1>
     {% if stop.dates %}<div class="plan-stop-dates-large">{{ stop.dates }}</div>{% endif %}
+    <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
   </div>
 
   <div class="plan-stop-layout">
@@ -65,6 +66,33 @@
         </form>
       </div>
       {% endfor %}
+
+      {% if suggestions %}
+      <div class="plan-suggestions">
+        <div class="plan-suggestions-heading">Suggestions for your trip</div>
+        <div class="plan-suggestions-strip-wrap">
+          <div class="plan-suggestions-strip">
+            {% for s in suggestions %}
+            <div class="plan-suggestion-tile{% if s.note_match %} plan-suggestion-tile--match{% endif %}">
+              {% if s.image_url %}
+              <div class="plan-suggestion-tile-img" style="background-image:url('{{ s.image_url }}')"></div>
+              {% endif %}
+              <div class="plan-suggestion-tile-body">
+                <a class="plan-suggestion-title" href="{{ s.page.get_absolute_url }}">{{ s.page.title }}</a>
+                {% if s.page.meta.snippet %}<p class="plan-suggestion-snippet">{{ s.page.meta.snippet }}</p>{% endif %}
+              </div>
+              <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/add/" class="plan-suggestion-add">
+                {% csrf_token %}
+                <input type="hidden" name="poi_path" value="{{ s.page.path }}">
+                <input type="hidden" name="next" value="{{ request.path }}">
+                <button type="submit" class="plan-suggestion-btn" title="Add to plan">+</button>
+              </form>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      {% endif %}
     </div>
 
   </div>

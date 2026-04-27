@@ -2869,19 +2869,64 @@ img { max-width: 100%; height: auto; }
   margin: 40px auto;
   padding: 0 24px;
 }
+.plan-list-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.plan-list-header h1 { margin: 0; }
+.plan-new-btn {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 7px 16px;
+  border: 1.5px solid #c0392b;
+  border-radius: 20px;
+  color: #c0392b;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+.plan-new-btn:hover { background: #c0392b; color: #fff; }
 .plan-list {
   list-style: none;
   padding: 0;
   margin: 24px 0;
 }
 .plan-list li {
-  padding: 8px 0;
   border-bottom: 1px solid #eee;
 }
-.plan-list a {
-  font-size: 1.1rem;
-  color: #c0392b;
+.plan-list-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 0;
   text-decoration: none;
+}
+.plan-list-title {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #c0392b;
+}
+.plan-list-locked .plan-list-title { color: #888; }
+.plan-list-lock { font-size: 0.85rem; }
+.plan-list-empty {
+  color: #888;
+  margin-top: 24px;
+  font-size: 0.95rem;
+}
+.login-box input[type="text"] {
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+.login-box input[type="text"]:focus {
+  outline: none;
+  border-color: #c0392b;
+  box-shadow: 0 0 0 3px rgba(192,57,43,0.1);
 }
 
 .plan-page {

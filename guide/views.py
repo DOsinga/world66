@@ -769,11 +769,46 @@ def _stop_markers(stop):
 
 def plan_list(request):
     import frontmatter as fm
+    passwords = _load_passwords()
+    authenticated = set(request.session.get("authenticated_plans", []))
     plans = []
     for f in sorted(PLANS_DIR.glob("*.md")):
         post = fm.load(f)
-        plans.append({"slug": f.stem, "title": post.metadata.get("title", f.stem)})
+        slug = f.stem
+        plans.append({
+            "slug": slug,
+            "title": post.metadata.get("title", slug),
+            "locked": slug not in authenticated,
+        })
     return render(request, "guide/plan_list.html", {"plans": plans})
+
+
+def plan_new(request):
+    error = None
+    if request.method == "POST":
+        title = request.POST.get("title", "").strip()
+        pw = request.POST.get("password", "")
+        pw2 = request.POST.get("password2", "")
+        if not title:
+            error = "Please enter a trip title."
+        elif len(pw) < 6:
+            error = "Choose at least 6 characters."
+        elif pw != pw2:
+            error = "Passwords don't match."
+        else:
+            import frontmatter as fm
+            slug = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')
+            path = PLANS_DIR / f"{slug}.md"
+            if path.exists():
+                error = f"A trip named '{slug}' already exists."
+            else:
+                post = fm.Post("", title=title)
+                with open(path, "wb") as fh:
+                    fm.dump(post, fh)
+                _save_password(slug, pw)
+                _mark_plan_authenticated(request, slug)
+                return HttpResponseRedirect(f"/plans/{slug}/edit/")
+    return render(request, "guide/plan_new.html", {"error": error})
 
 
 @_require_plan_auth

@@ -2,15 +2,29 @@
 {% block title %}Travel Plans — World66{% endblock %}
 {% block content %}
 <div class="plan-list-page">
-  <h1>Travel Plans</h1>
+  <div class="plan-list-header">
+    <h1>Travel Plans</h1>
+    <a href="/plans/new/" class="plan-new-btn">+ New trip</a>
+  </div>
   {% if plans %}
   <ul class="plan-list">
     {% for plan in plans %}
-    <li><a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a></li>
+    <li>
+      {% if plan.locked %}
+      <a href="/auth/login/{{ plan.slug }}/?next=/plans/{{ plan.slug }}/" class="plan-list-link plan-list-locked">
+        <span class="plan-list-title">{{ plan.title }}</span>
+        <span class="plan-list-lock">🔒</span>
+      </a>
+      {% else %}
+      <a href="/plans/{{ plan.slug }}/" class="plan-list-link">
+        <span class="plan-list-title">{{ plan.title }}</span>
+      </a>
+      {% endif %}
+    </li>
     {% endfor %}
   </ul>
   {% else %}
-  <p>No plans yet. Add a markdown file to the <code>plans/</code> directory.</p>
+  <p class="plan-list-empty">No trips yet. Create your first one above.</p>
   {% endif %}
 </div>
 {% endblock %}

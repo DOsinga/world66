@@ -1,14 +1,7 @@
 {% extends "guide/base.html" %}
-{% block title %}Travel Plans — World66{% endblock %}
+{% block title %}My Trips — World66{% endblock %}
 {% block content %}
-<div class="plan-list-page">
-  <div class="plan-list-header">
-    <h1>Travel Plans</h1>
-    <div class="plan-list-actions">
-      <a href="/plans/new/" class="plan-new-btn">+ New trip</a>
-      <button class="plan-new-btn plan-join-btn" type="button" onclick="document.getElementById('plan-join-modal').hidden=false;document.getElementById('plan-join-pw').focus()">Add existing trip</button>
-    </div>
-  </div>
+<div class="plan-page plan-list-page">
 
   <div id="plan-join-modal" class="plan-join-modal" hidden>
     <div class="plan-join-modal-box">
@@ -26,19 +19,49 @@
     </div>
   </div>
 
+  <div class="plan-list-header">
+    <h1>My Trips</h1>
+    <div class="plan-list-actions">
+      <button class="plan-list-action-btn plan-list-action-btn--ghost" type="button"
+        onclick="document.getElementById('plan-join-modal').hidden=false;document.getElementById('plan-join-pw').focus()">
+        Add existing trip
+      </button>
+      <a href="/plans/new/" class="plan-list-action-btn">+ New trip</a>
+    </div>
+  </div>
+
   {% if plans %}
-  <ul class="plan-list">
+  <div class="plan-cards">
     {% for plan in plans %}
-    <li>
-      <a href="/plans/{{ plan.slug }}/" class="plan-list-link">
-        <span class="plan-list-title">{{ plan.title }}</span>
-      </a>
-    </li>
+    <a href="/plans/{{ plan.slug }}/" class="plan-card"
+       {% if plan.cover_url %}style="--cover:url('{{ plan.cover_url }}')"{% endif %}>
+      <div class="plan-card-photo">
+        {% if plan.cover_url %}<div class="plan-card-photo-img"></div>{% else %}<div class="plan-card-photo-placeholder"></div>{% endif %}
+      </div>
+      <div class="plan-card-body">
+        <div class="plan-card-title">{{ plan.title }}</div>
+        {% if plan.date_range %}
+        <div class="plan-card-dates">{{ plan.date_range }}</div>
+        {% endif %}
+        {% if plan.cities %}
+        <div class="plan-card-cities">{{ plan.cities|join:", " }}</div>
+        {% endif %}
+        <div class="plan-card-stats">
+          <span class="plan-card-stat"><span class="plan-card-stat-num">{{ plan.stop_count }}</span> destination{% if plan.stop_count != 1 %}s{% endif %}</span>
+          <span class="plan-card-stat-dot">·</span>
+          <span class="plan-card-stat"><span class="plan-card-stat-num">{{ plan.place_count }}</span> place{% if plan.place_count != 1 %}s{% endif %}</span>
+        </div>
+      </div>
+    </a>
     {% endfor %}
-  </ul>
+  </div>
   {% else %}
-  <p class="plan-list-empty">No trips yet. Create your first one above.</p>
+  <div class="plan-list-empty-state">
+    <p>No trips yet.</p>
+    <a href="/plans/new/" class="plan-list-action-btn">+ Create your first trip</a>
+  </div>
   {% endif %}
+
 </div>
 {% if join_error %}
 <script>document.getElementById('plan-join-modal').hidden = false;</script>

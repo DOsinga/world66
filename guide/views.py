@@ -689,7 +689,49 @@ def _parse_plan(path):
     slug = path.stem
     title = post.metadata.get("title", slug)
     stops = _parse_stops(post.content, slug)
-    return {"slug": slug, "title": title, "body": post.content, "stops": stops}
+    # Keywords come from an "interests: ..." line in the body
+    keywords = []
+    for line in post.content.splitlines():
+        m = re.match(r'^interests:\s*(.+)$', line.strip(), re.IGNORECASE)
+        if m:
+            keywords = [k.strip().lower() for k in re.split(r'[,;]+', m.group(1)) if k.strip()]
+            break
+    return {"slug": slug, "title": title, "body": post.content, "stops": stops, "keywords": keywords}
+
+
+def _normalize(s):
+    """Lowercase, strip punctuation/spaces — used for fuzzy POI matching."""
+    return re.sub(r'[\s_\-]+', '', s.lower())
+
+
+def _find_poi_in_city(text, city_path):
+    """Try to find a POI under city_path matching text by slug or title."""
+    city_dir = CONTENT_DIR / city_path
+    if not city_dir.is_dir():
+        return None
+    needle = _normalize(text)
+    best = None
+    for md_file in city_dir.rglob("*.md"):
+        slug = md_file.stem
+        if _normalize(slug) == needle:
+            rel = str(md_file.relative_to(CONTENT_DIR).with_suffix(""))
+            page = load_page(rel)
+            if page and page.page_type == "poi":
+                return page
+        if best is None and needle in _normalize(slug):
+            rel = str(md_file.relative_to(CONTENT_DIR).with_suffix(""))
+            page = load_page(rel)
+            if page and page.page_type == "poi":
+                best = page
+    if best:
+        return best
+    # Try matching against page titles
+    for md_file in city_dir.rglob("*.md"):
+        rel = str(md_file.relative_to(CONTENT_DIR).with_suffix(""))
+        page = load_page(rel)
+        if page and page.page_type == "poi" and needle in _normalize(page.title):
+            return page
+    return None
 
 
 def _parse_stops(body, plan_slug):
@@ -762,6 +804,12 @@ def _parse_stops(body, plan_slug):
                 page = load_page(text.lstrip('/'))
             elif _re.match(r'^[\w/_-]+$', text):
                 page = load_page(text)
+                if not page and current.get("city_path"):
+                    page = _find_poi_in_city(text, current["city_path"])
+            else:
+                # Free text — try to match against POI titles/slugs in this city
+                if current.get("city_path"):
+                    page = _find_poi_in_city(text, current["city_path"])
             image_url = None
             if page:
                 img = _image_path(page)
@@ -889,7 +937,6 @@ def _stop_markers(stop):
 
 
 def plan_list(request):
-    import frontmatter as fm
     authenticated = set(request.session.get("authenticated_plans", []))
     join_error = request.session.pop("plan_join_error", None)
     plans = []
@@ -897,10 +944,37 @@ def plan_list(request):
         slug = f.stem
         if slug not in authenticated:
             continue
-        post = fm.load(f)
+        plan = _parse_plan(f)
+        if not plan:
+            continue
+        stops = plan["stops"]
+        total_places = sum(len(s["items"]) for s in stops)
+        # Find cover image: first city page image, then first POI image
+        cover_url = None
+        for stop in stops:
+            if cover_url:
+                break
+            city_page = load_page(stop["city_path"]) if stop.get("city_path") else None
+            img = _image_path(city_page) if city_page else None
+            if img:
+                cover_url = f"/content-image/{img}"
+            else:
+                for item in stop["items"]:
+                    if item.get("image_url"):
+                        cover_url = item["image_url"]
+                        break
+        # Date range: first start date to last end date across stops
+        all_dates = [s["dates"] for s in stops if s.get("dates")]
+        date_range = f"{all_dates[0].split('–')[0].strip()} – {all_dates[-1].split('–')[-1].strip()}" if len(all_dates) > 1 else (all_dates[0] if all_dates else None)
+        cities = [s["city"] for s in stops]
         plans.append({
             "slug": slug,
-            "title": post.metadata.get("title", slug),
+            "title": plan["title"],
+            "stop_count": len(stops),
+            "place_count": total_places,
+            "cities": cities,
+            "date_range": date_range,
+            "cover_url": cover_url,
         })
     return render(request, "guide/plan_list.html", {"plans": plans, "join_error": join_error})
 
@@ -967,7 +1041,36 @@ def plan_new(request):
                 error = f"A trip named '{slug}' already exists."
             else:
                 passphrase = _generate_passphrase()
-                post = fm.Post("", title=title)
+                keywords_raw = request.POST.get("keywords", "").strip()
+
+                # Build initial body: interests line + city headings from title
+                body_lines = []
+                if keywords_raw:
+                    body_lines.append(f"interests: {keywords_raw}\n")
+
+                # Extract city names from title (words that resolve to a location)
+                title_words = re.split(r'[\s,&+]+', title)
+                # Try progressively longer phrases from the title
+                city_headings = []
+                i = 0
+                while i < len(title_words):
+                    matched = False
+                    for length in range(min(4, len(title_words) - i), 0, -1):
+                        phrase = " ".join(title_words[i:i+length])
+                        if resolve_location_name(phrase):
+                            city_headings.append(f"## {phrase}")
+                            i += length
+                            matched = True
+                            break
+                    if not matched:
+                        i += 1
+                if city_headings:
+                    if body_lines:
+                        body_lines.append("")
+                    body_lines.extend(city_headings)
+
+                body = "\n".join(body_lines)
+                post = fm.Post(body, title=title)
                 with open(path, "wb") as fh:
                     fm.dump(post, fh)
                 _save_password(slug, passphrase)
@@ -992,7 +1095,18 @@ def plan_detail(request, slug):
     if not plan:
         raise Http404
 
-    # One marker per stop — use centroid of its POIs, fall back to city page coords
+    # Enrich stops with city image, then build map markers
+    for stop in plan["stops"]:
+        city_page = load_page(stop["city_path"]) if stop.get("city_path") else None
+        img = _image_path(city_page) if city_page else None
+        # Also try the first POI image as fallback
+        if not img:
+            for item in stop["items"]:
+                if item.get("image_url"):
+                    stop["city_image_url"] = item["image_url"]
+                    break
+        stop["city_image_url"] = f"/content-image/{img}" if img else stop.get("city_image_url")
+
     stop_markers = []
     for stop in plan["stops"]:
         pts = _stop_markers(stop)
@@ -1010,6 +1124,10 @@ def plan_detail(request, slug):
             "title": stop["city"], "dates": stop["dates"],
             "url": stop["url"],
         })
+
+    # Single destination: skip overview and go straight to the stop page
+    if len(plan["stops"]) == 1:
+        return HttpResponseRedirect(plan["stops"][0]["url"])
 
     return render(request, "guide/plan_detail.html", {
         "plan": plan,
@@ -1051,12 +1169,68 @@ def plan_stop(request, slug, city_slug):
         img = _image_path(city_page)
         if img:
             city_image_url = f"/content-image/{img}"
+    # Suggestions: POIs in the city not already in the plan.
+    # Boost score for POIs whose title/slug matches a free-text note.
+    suggestions = []
+    if stop.get("city_path"):
+        already_added = {item["text"] for item in stop["items"]}
+        already_added_paths = {item["page"].path for item in stop["items"] if item["page"]}
+        note_needles = [_normalize(item["text"]) for item in stop["items"]
+                        if not item["page"] and not item["external_url"]]
+        # Expand keywords to related tags so "art" matches "museum", "gallery" etc.
+        _KEYWORD_EXPANSIONS = {
+            "art": ["museum", "gallery", "art", "culture", "exhibition"],
+            "culture": ["museum", "theatre", "theater", "opera", "concert", "culture", "heritage", "history"],
+            "opera": ["opera", "concert", "music", "theatre", "theater"],
+            "music": ["music", "concert", "jazz", "opera", "nightlife"],
+            "food": ["restaurant", "food", "market", "cafe", "dining", "cuisine"],
+            "hiking": ["hiking", "nature", "walk", "park", "outdoors", "trail"],
+            "beaches": ["beach", "sea", "coast", "swimming", "waterfront"],
+            "history": ["history", "heritage", "museum", "monument", "cathedral", "church", "castle"],
+            "architecture": ["architecture", "building", "design"],
+            "nightlife": ["nightlife", "bar", "club", "music"],
+            "shopping": ["shopping", "market", "shop"],
+            "nature": ["nature", "park", "garden", "outdoors"],
+        }
+        expanded_keywords = set()
+        for k in plan.get("keywords", []):
+            kn = k.lower().strip()
+            expanded_keywords.add(_normalize(kn))
+            for exp in _KEYWORD_EXPANSIONS.get(kn, []):
+                expanded_keywords.add(_normalize(exp))
+
+        city_dir = CONTENT_DIR / stop["city_path"]
+        for md_file in sorted(city_dir.rglob("*.md")):
+            rel = str(md_file.relative_to(CONTENT_DIR).with_suffix(""))
+            if rel in already_added or rel in already_added_paths:
+                continue
+            page = load_page(rel)
+            if not page or page.page_type != "poi":
+                continue
+            img = _image_path(page)
+            slug_norm = _normalize(page.path.split('/')[-1])
+            title_norm = _normalize(page.title)
+            tags_norm = [_normalize(t) for t in page.tags]
+            poi_text = slug_norm + " " + title_norm + " " + " ".join(tags_norm)
+            note_match = any(n in poi_text or poi_text in n
+                             for n in note_needles) if note_needles else False
+            keyword_match = any(k in poi_text for k in expanded_keywords) if expanded_keywords else False
+            score = (2 if note_match else 0) + (2 if keyword_match else 0) + (1 if img else 0)
+            suggestions.append({
+                "page": page,
+                "image_url": f"/content-image/{img}" if img else None,
+                "_score": score,
+                "note_match": note_match or keyword_match,
+            })
+        suggestions.sort(key=lambda x: -x["_score"])
+
     return render(request, "guide/plan_stop.html", {
         "plan": plan,
         "stop": stop,
         "markers": mark_safe(json.dumps(markers)),
         "city_snippet": city_snippet,
         "city_image_url": city_image_url,
+        "suggestions": suggestions,
     })
 
 

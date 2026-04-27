@@ -33,9 +33,13 @@ ALLOWED_HOSTS = ["world66.ai", "www.world66.ai"] if _PRODUCTION else ["*"]
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django.contrib.sessions",
+    "world66_content",
     "guide",
     "plans_app",
 ]
+
+# Path to the world66 content directory — used by world66_content.models
+WORLD66_CONTENT_DIR = BASE_DIR / "content"
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",

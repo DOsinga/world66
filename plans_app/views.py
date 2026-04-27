@@ -11,7 +11,7 @@ from django.http import Http404, HttpResponseRedirect
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
 
-from guide.models import CONTENT_DIR, load_page, resolve_location_name
+from world66_content.models import CONTENT_DIR, load_page, resolve_location_name
 
 PLANS_DIR = Path(settings.BASE_DIR) / "plans"
 _PASSWORDS_FILE = PLANS_DIR / ".passwords.json"

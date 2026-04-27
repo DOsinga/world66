@@ -550,3 +550,82 @@ def _file_to_url_path(file_path):
     if len(parts) >= 2 and parts[-1] == parts[-2]:
         parts = parts[:-1]
     return '/'.join(parts)
+
+
+# ── Travel plans ──────────────────────────────────────────────────────────────
+
+PLANS_DIR = Path(settings.BASE_DIR) / "plans"
+
+
+def _parse_plan(path):
+    """Load and parse a plan markdown file. Returns a dict or None."""
+    import frontmatter
+    if not path.is_file():
+        return None
+    post = frontmatter.load(path)
+    slug = path.stem
+    title = post.metadata.get("title", slug)
+    stops = _parse_stops(post.content)
+    return {"slug": slug, "title": title, "body": post.content, "stops": stops}
+
+
+def _parse_stops(body):
+    """Parse plan markdown into stops: [{city, dates, items}]."""
+    stops = []
+    current = None
+    for line in body.splitlines():
+        h2 = re.match(r'^##\s+(.+)$', line)
+        if h2:
+            heading = h2.group(1)
+            if '|' in heading:
+                city, dates = heading.split('|', 1)
+            else:
+                city, dates = heading, ''
+            current = {"city": city.strip(), "dates": dates.strip(), "items": []}
+            stops.append(current)
+            continue
+        if current is None:
+            continue
+        bullet = re.match(r'^[-*]\s+(.+)$', line)
+        if bullet:
+            text = bullet.group(1).strip()
+            page = load_page(text) if re.match(r'^[\w/_-]+$', text) else None
+            current["items"].append({"text": text, "page": page})
+    return stops
+
+
+def plan_list(request):
+    plans = []
+    for f in sorted(PLANS_DIR.glob("*.md")):
+        import frontmatter
+        post = frontmatter.load(f)
+        plans.append({"slug": f.stem, "title": post.metadata.get("title", f.stem)})
+    return render(request, "guide/plan_list.html", {"plans": plans})
+
+
+def plan_detail(request, slug):
+    plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+    if not plan:
+        raise Http404
+    view = request.GET.get("view", "text")
+
+    # Build map markers for visual view
+    markers = []
+    if view == "visual":
+        for i, stop in enumerate(plan["stops"]):
+            for item in stop["items"]:
+                page = item["page"]
+                if page and page.meta.get("latitude") and page.meta.get("longitude"):
+                    markers.append({
+                        "lat": float(page.meta["latitude"]),
+                        "lng": float(page.meta["longitude"]),
+                        "title": page.title,
+                        "url": page.get_absolute_url(),
+                        "stop": stop["city"],
+                    })
+
+    return render(request, "guide/plan_detail.html", {
+        "plan": plan,
+        "view": view,
+        "markers": mark_safe(json.dumps(markers)),
+    })

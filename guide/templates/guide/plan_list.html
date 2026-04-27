@@ -1,0 +1,16 @@
+{% extends "guide/base.html" %}
+{% block title %}Travel Plans — World66{% endblock %}
+{% block content %}
+<div class="plan-list-page">
+  <h1>Travel Plans</h1>
+  {% if plans %}
+  <ul class="plan-list">
+    {% for plan in plans %}
+    <li><a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a></li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p>No plans yet. Add a markdown file to the <code>plans/</code> directory.</p>
+  {% endif %}
+</div>
+{% endblock %}

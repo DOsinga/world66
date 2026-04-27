@@ -1,0 +1,96 @@
+{% extends "guide/base.html" %}
+{% load static %}
+{% block title %}{{ plan.title }} — World66{% endblock %}
+
+{% block content %}
+<div class="plan-page">
+
+  <div class="plan-header">
+    <h1>{{ plan.title }}</h1>
+    <div class="plan-view-toggle">
+      {% if view == "text" %}
+        <span class="active">Plan</span>
+        <a href="?view=visual">Map</a>
+      {% else %}
+        <a href="?view=text">Plan</a>
+        <span class="active">Map</span>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if view == "text" %}
+
+    <div class="plan-stops">
+      {% for stop in plan.stops %}
+      <div class="plan-stop">
+        <h2 class="plan-stop-heading">
+          {{ stop.city }}{% if stop.dates %} <span class="plan-dates">{{ stop.dates }}</span>{% endif %}
+        </h2>
+        <ul class="plan-items">
+          {% for item in stop.items %}
+          <li>
+            {% if item.page %}
+              <a href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
+            {% else %}
+              {{ item.text }}
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+
+  {% else %}
+
+    <div class="plan-visual">
+      <div id="plan-map"></div>
+      <div class="plan-stops plan-stops-visual">
+        {% for stop in plan.stops %}
+        <div class="plan-stop">
+          <h2 class="plan-stop-heading">
+            {{ stop.city }}{% if stop.dates %} <span class="plan-dates">{{ stop.dates }}</span>{% endif %}
+          </h2>
+          <ul class="plan-items">
+            {% for item in stop.items %}
+            <li>
+              {% if item.page %}
+                <a href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
+              {% else %}
+                {{ item.text }}
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+    (function() {
+      const markers = {{ markers }};
+      const map = L.map('plan-map', {scrollWheelZoom: false});
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
+
+      const W66_RED = '#c0392b';
+      markers.forEach(function(m) {
+        L.circleMarker([m.lat, m.lng], {radius: 7, color: W66_RED, fillColor: W66_RED, fillOpacity: 0.85, weight: 2})
+          .bindTooltip(m.title + '<br><small>' + m.stop + '</small>', {direction: 'top'})
+          .addTo(map);
+      });
+
+      if (markers.length) {
+        const latlngs = markers.map(m => [m.lat, m.lng]);
+        map.fitBounds(L.latLngBounds(latlngs).pad(0.2));
+      } else {
+        map.setView([20, 0], 2);
+      }
+    })();
+    </script>
+
+  {% endif %}
+
+</div>
+{% endblock %}

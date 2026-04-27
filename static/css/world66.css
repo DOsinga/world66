@@ -2796,3 +2796,102 @@ img { max-width: 100%; height: auto; }
     max-width: none;
   }
 }
+
+
+/* ── Travel Plans ─────────────────────────────────────────────────────────── */
+
+.plan-list-page {
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 0 24px;
+}
+.plan-list {
+  list-style: none;
+  padding: 0;
+  margin: 24px 0;
+}
+.plan-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+.plan-list a {
+  font-size: 1.1rem;
+  color: #c0392b;
+  text-decoration: none;
+}
+
+.plan-page {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 24px;
+}
+.plan-header {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  margin-bottom: 32px;
+}
+.plan-header h1 {
+  margin: 0;
+  flex: 1;
+}
+.plan-view-toggle {
+  display: flex;
+  gap: 12px;
+  font-size: 0.9rem;
+}
+.plan-view-toggle .active {
+  font-weight: 600;
+  color: #c0392b;
+}
+.plan-view-toggle a {
+  color: #666;
+  text-decoration: none;
+}
+.plan-view-toggle a:hover { color: #c0392b; }
+
+.plan-stop {
+  margin-bottom: 32px;
+}
+.plan-stop-heading {
+  font-size: 1.3rem;
+  margin: 0 0 8px;
+  border-bottom: 2px solid #c0392b;
+  padding-bottom: 6px;
+}
+.plan-dates {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #666;
+  margin-left: 8px;
+}
+.plan-items {
+  margin: 8px 0 0 0;
+  padding-left: 20px;
+}
+.plan-items li {
+  padding: 4px 0;
+  font-size: 0.95rem;
+}
+.plan-items a {
+  color: #c0392b;
+  text-decoration: none;
+}
+.plan-items a:hover { text-decoration: underline; }
+
+/* Visual view */
+.plan-visual {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 24px;
+  align-items: start;
+}
+#plan-map {
+  height: 500px;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
+.plan-stops-visual {
+  max-height: 500px;
+  overflow-y: auto;
+}

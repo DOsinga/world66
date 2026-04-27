@@ -1,0 +1,25 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block body_style %}
+<link rel="stylesheet" href="{% static 'plans/css/tabbi.css' %}">
+{% endblock %}
+
+{% block topnav %}
+<nav class="topnav tabbi-topnav">
+  <div class="topnav-inner">
+    <a href="/plans/" class="tabbi-logo">
+      <span class="tabbi-logo-name">Tab<span class="tabbi-logo-dot">.</span>bi</span>
+    </a>
+    <div class="nav-right">
+      <div class="nav-auth">
+        {% if request.session.authenticated_plans %}
+          <a href="/auth/logout/" class="tabbi-nav-btn tabbi-nav-btn--ghost">Sign out</a>
+        {% else %}
+          <a href="/plans/new/" class="tabbi-nav-btn">+ New trip</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</nav>
+{% endblock topnav %}

@@ -525,3 +525,58 @@ body:has(.plan-page) {
 .plan-list-error {
   color: #EB424F;
 }
+
+/* ── Tab.bi top nav ─────────────────────────────────────────────────────────── */
+
+.tabbi-topnav {
+  background: #FFFFFF;
+  border-bottom: 1px solid #EAEAEA;
+  box-shadow: 0 2px 8px #EAEAEA;
+}
+
+.tabbi-logo {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.tabbi-logo-name {
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #180A0A;
+  letter-spacing: -0.03em;
+}
+
+.tabbi-logo-dot {
+  color: #F4B028;
+}
+
+.tabbi-nav-btn {
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 7px 18px;
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.15s;
+  white-space: nowrap;
+  box-shadow: 2px 2px 6px #EAEAEA;
+}
+.tabbi-nav-btn:hover {
+  background: #d99b1a;
+  color: #180A0A;
+}
+.tabbi-nav-btn--ghost {
+  background: none;
+  box-shadow: none;
+  border: 1.5px solid #DCDCDC;
+  color: #535050;
+}
+.tabbi-nav-btn--ghost:hover {
+  border-color: #F4B028;
+  background: none;
+  color: #180A0A;
+}

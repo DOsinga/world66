@@ -7,90 +7,59 @@
 
   <div class="plan-header">
     <h1>{{ plan.title }}</h1>
-    <div class="plan-view-toggle">
-      {% if view == "text" %}
-        <span class="active">Plan</span>
-        <a href="?view=visual">Map</a>
-      {% else %}
-        <a href="?view=text">Plan</a>
-        <span class="active">Map</span>
-      {% endif %}
-    </div>
   </div>
 
-  {% if view == "text" %}
+  <div class="plan-overview-layout">
 
-    <div class="plan-stops">
+    <div id="plan-overview-map"></div>
+
+    <div class="plan-stops-list">
       {% for stop in plan.stops %}
-      <div class="plan-stop">
-        <h2 class="plan-stop-heading">
-          {{ stop.city }}{% if stop.dates %} <span class="plan-dates">{{ stop.dates }}</span>{% endif %}
-        </h2>
-        <ul class="plan-items">
-          {% for item in stop.items %}
-          <li>
-            {% if item.page %}
-              <a href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
-            {% else %}
-              {{ item.text }}
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
+      <a href="{{ stop.url }}" class="plan-stop-card">
+        <div class="plan-stop-card-body">
+          <div class="plan-stop-city">{{ stop.city }}</div>
+          {% if stop.dates %}<div class="plan-stop-dates">{{ stop.dates }}</div>{% endif %}
+          <div class="plan-stop-count">{{ stop.items|length }} place{% if stop.items|length != 1 %}s{% endif %}</div>
+        </div>
+        <div class="plan-stop-card-arrow">›</div>
+      </a>
       {% endfor %}
     </div>
 
-  {% else %}
-
-    <div class="plan-visual">
-      <div id="plan-map"></div>
-      <div class="plan-stops plan-stops-visual">
-        {% for stop in plan.stops %}
-        <div class="plan-stop">
-          <h2 class="plan-stop-heading">
-            {{ stop.city }}{% if stop.dates %} <span class="plan-dates">{{ stop.dates }}</span>{% endif %}
-          </h2>
-          <ul class="plan-items">
-            {% for item in stop.items %}
-            <li>
-              {% if item.page %}
-                <a href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
-              {% else %}
-                {{ item.text }}
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script>
-    (function() {
-      const markers = {{ markers }};
-      const map = L.map('plan-map', {scrollWheelZoom: false});
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
-
-      const W66_RED = '#c0392b';
-      markers.forEach(function(m) {
-        L.circleMarker([m.lat, m.lng], {radius: 7, color: W66_RED, fillColor: W66_RED, fillOpacity: 0.85, weight: 2})
-          .bindTooltip(m.title + '<br><small>' + m.stop + '</small>', {direction: 'top'})
-          .addTo(map);
-      });
-
-      if (markers.length) {
-        const latlngs = markers.map(m => [m.lat, m.lng]);
-        map.fitBounds(L.latLngBounds(latlngs).pad(0.2));
-      } else {
-        map.setView([20, 0], 2);
-      }
-    })();
-    </script>
-
-  {% endif %}
+  </div>
 
 </div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function() {
+  const stops = {{ stop_markers }};
+  const map = L.map('plan-overview-map', {scrollWheelZoom: false, zoomControl: true});
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
+
+  const W66_RED = '#c0392b';
+  stops.forEach(function(s, i) {
+    const icon = L.divIcon({
+      className: 'plan-stop-marker',
+      html: String(i + 1),
+      iconSize: [28, 28],
+      iconAnchor: [14, 14],
+    });
+    L.marker([s.lat, s.lng], {icon: icon})
+      .bindTooltip('<strong>' + s.title + '</strong>' + (s.dates ? '<br>' + s.dates : ''), {direction: 'top'})
+      .on('click', function() { window.location = s.url; })
+      .addTo(map);
+  });
+
+  if (stops.length > 1) {
+    // Draw a line connecting the stops in order
+    L.polyline(stops.map(s => [s.lat, s.lng]), {color: W66_RED, weight: 2, opacity: 0.5, dashArray: '6,6'}).addTo(map);
+    map.fitBounds(L.latLngBounds(stops.map(s => [s.lat, s.lng])).pad(0.2));
+  } else if (stops.length === 1) {
+    map.setView([stops[0].lat, stops[0].lng], 12);
+  } else {
+    map.setView([20, 0], 2);
+  }
+})();
+</script>
 {% endblock %}

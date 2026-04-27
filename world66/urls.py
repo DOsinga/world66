@@ -11,5 +11,6 @@ urlpatterns = [
     path("review", views.review, name="review"),
     path("plans/", views.plan_list, name="plan_list"),
     path("plans/<slug:slug>/", views.plan_detail, name="plan_detail"),
+    path("plans/<slug:slug>/<slug:city_slug>/", views.plan_stop, name="plan_stop"),
     path("<path:path>", views.location_or_section, name="location_or_section"),
 ]

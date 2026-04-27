@@ -559,46 +559,79 @@ PLANS_DIR = Path(settings.BASE_DIR) / "plans"
 
 def _parse_plan(path):
     """Load and parse a plan markdown file. Returns a dict or None."""
-    import frontmatter
+    import frontmatter as fm
     if not path.is_file():
         return None
-    post = frontmatter.load(path)
+    post = fm.load(path)
     slug = path.stem
     title = post.metadata.get("title", slug)
-    stops = _parse_stops(post.content)
+    stops = _parse_stops(post.content, slug)
     return {"slug": slug, "title": title, "body": post.content, "stops": stops}
 
 
-def _parse_stops(body):
-    """Parse plan markdown into stops: [{city, dates, items}]."""
+def _parse_stops(body, plan_slug):
+    """Parse plan markdown into stops, enriching each item with page data."""
+    import re as _re
     stops = []
     current = None
     for line in body.splitlines():
-        h2 = re.match(r'^##\s+(.+)$', line)
+        h2 = _re.match(r'^##\s+(.+)$', line)
         if h2:
             heading = h2.group(1)
             if '|' in heading:
                 city, dates = heading.split('|', 1)
             else:
                 city, dates = heading, ''
-            current = {"city": city.strip(), "dates": dates.strip(), "items": []}
+            city = city.strip()
+            city_slug = city.lower().replace(' ', '-')
+            current = {
+                "city": city,
+                "city_slug": city_slug,
+                "dates": dates.strip(),
+                "url": f"/plans/{plan_slug}/{city_slug}/",
+                "items": [],
+            }
             stops.append(current)
             continue
         if current is None:
             continue
-        bullet = re.match(r'^[-*]\s+(.+)$', line)
+        bullet = _re.match(r'^[-*]\s+(.+)$', line)
         if bullet:
             text = bullet.group(1).strip()
-            page = load_page(text) if re.match(r'^[\w/_-]+$', text) else None
-            current["items"].append({"text": text, "page": page})
+            page = load_page(text) if _re.match(r'^[\w/_-]+$', text) else None
+            image_url = None
+            if page:
+                img = _image_path(page)
+                if img:
+                    image_url = f'/content-image/{img}'
+            current["items"].append({
+                "text": text,
+                "page": page,
+                "image_url": image_url,
+            })
     return stops
 
 
+def _stop_markers(stop):
+    """Return JSON-serialisable marker list for a single stop."""
+    markers = []
+    for item in stop["items"]:
+        page = item["page"]
+        if page and page.meta.get("latitude") and page.meta.get("longitude"):
+            markers.append({
+                "lat": float(page.meta["latitude"]),
+                "lng": float(page.meta["longitude"]),
+                "title": page.title,
+                "url": page.get_absolute_url(),
+            })
+    return markers
+
+
 def plan_list(request):
+    import frontmatter as fm
     plans = []
     for f in sorted(PLANS_DIR.glob("*.md")):
-        import frontmatter
-        post = frontmatter.load(f)
+        post = fm.load(f)
         plans.append({"slug": f.stem, "title": post.metadata.get("title", f.stem)})
     return render(request, "guide/plan_list.html", {"plans": plans})
 
@@ -607,25 +640,36 @@ def plan_detail(request, slug):
     plan = _parse_plan(PLANS_DIR / f"{slug}.md")
     if not plan:
         raise Http404
-    view = request.GET.get("view", "text")
 
-    # Build map markers for visual view
-    markers = []
-    if view == "visual":
-        for i, stop in enumerate(plan["stops"]):
-            for item in stop["items"]:
-                page = item["page"]
-                if page and page.meta.get("latitude") and page.meta.get("longitude"):
-                    markers.append({
-                        "lat": float(page.meta["latitude"]),
-                        "lng": float(page.meta["longitude"]),
-                        "title": page.title,
-                        "url": page.get_absolute_url(),
-                        "stop": stop["city"],
-                    })
+    # One marker per stop — use centroid of its POIs
+    stop_markers = []
+    for stop in plan["stops"]:
+        pts = _stop_markers(stop)
+        if pts:
+            lat = sum(m["lat"] for m in pts) / len(pts)
+            lng = sum(m["lng"] for m in pts) / len(pts)
+            stop_markers.append({
+                "lat": lat, "lng": lng,
+                "title": stop["city"], "dates": stop["dates"],
+                "url": stop["url"],
+            })
 
     return render(request, "guide/plan_detail.html", {
         "plan": plan,
-        "view": view,
+        "stop_markers": mark_safe(json.dumps(stop_markers)),
+    })
+
+
+def plan_stop(request, slug, city_slug):
+    plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+    if not plan:
+        raise Http404
+    stop = next((s for s in plan["stops"] if s["city_slug"] == city_slug), None)
+    if not stop:
+        raise Http404
+    markers = _stop_markers(stop)
+    return render(request, "guide/plan_stop.html", {
+        "plan": plan,
+        "stop": stop,
         "markers": mark_safe(json.dumps(markers)),
     })

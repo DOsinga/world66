@@ -718,7 +718,16 @@ def _parse_stops(body, plan_slug):
         bullet = _re.match(r'^[-*]\s+(.+)$', line)
         if bullet:
             text = bullet.group(1).strip()
-            page = load_page(text) if _re.match(r'^[\w/_-]+$', text) else None
+            # Support internal paths, absolute URLs, and relative /paths
+            page = None
+            external_url = None
+            display_text = text
+            if _re.match(r'^https?://', text):
+                external_url = text
+            elif text.startswith('/'):
+                page = load_page(text.lstrip('/'))
+            elif _re.match(r'^[\w/_-]+$', text):
+                page = load_page(text)
             image_url = None
             if page:
                 img = _image_path(page)
@@ -727,6 +736,7 @@ def _parse_stops(body, plan_slug):
             current["items"].append({
                 "text": text,
                 "page": page,
+                "external_url": external_url,
                 "image_url": image_url,
             })
     return stops
@@ -794,6 +804,26 @@ def plan_stop(request, slug, city_slug):
         "plan": plan,
         "stop": stop,
         "markers": mark_safe(json.dumps(markers)),
+    })
+
+
+@_require_plan_auth
+def plan_edit(request, slug):
+    path = PLANS_DIR / f"{slug}.md"
+    if not path.is_file():
+        raise Http404
+    import frontmatter as fm
+    if request.method == "POST":
+        body = request.POST.get("body", "")
+        post = fm.load(path)
+        post.content = body
+        with open(path, "wb") as fh:
+            fm.dump(post, fh)
+        return HttpResponseRedirect(f"/plans/{slug}/")
+    post = fm.load(path)
+    return render(request, "guide/plan_edit.html", {
+        "plan": {"slug": slug, "title": post.metadata.get("title", slug)},
+        "body": post.content,
     })
 
 

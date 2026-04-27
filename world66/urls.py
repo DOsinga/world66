@@ -14,6 +14,7 @@ urlpatterns = [
     path("auth/logout/", views.auth_logout, name="auth_logout"),
     path("plans/", views.plan_list, name="plan_list"),
     path("plans/<slug:slug>/", views.plan_detail, name="plan_detail"),
+    path("plans/<slug:slug>/edit/", views.plan_edit, name="plan_edit"),
     path("plans/<slug:slug>/<slug:city_slug>/", views.plan_stop, name="plan_stop"),
     path("plans/<slug:slug>/<slug:city_slug>/add/", views.plan_poi_add, name="plan_poi_add"),
     path("plans/<slug:slug>/<slug:city_slug>/remove/", views.plan_poi_remove, name="plan_poi_remove"),

@@ -1,0 +1,42 @@
+{% extends "guide/base.html" %}
+{% block title %}Edit — {{ plan.title }} — World66{% endblock %}
+{% block content %}
+<div class="plan-page plan-edit-page">
+
+  <div class="plan-header">
+    <a href="/plans/{{ plan.slug }}/" class="plan-back">← {{ plan.title }}</a>
+    <h1>Edit plan</h1>
+  </div>
+
+  <div class="plan-edit-layout">
+    <form method="post" action="/plans/{{ plan.slug }}/edit/" class="plan-edit-form">
+      {% csrf_token %}
+      <textarea name="body" class="plan-edit-textarea" spellcheck="false" autofocus>{{ body }}</textarea>
+      <div class="plan-edit-actions">
+        <button type="submit" class="plan-edit-save">Save</button>
+        <a href="/plans/{{ plan.slug }}/" class="plan-edit-cancel">Cancel</a>
+      </div>
+    </form>
+
+    <aside class="plan-edit-help">
+      <h3>Format</h3>
+      <pre class="plan-edit-example">## Hamburg | July 25–30
+- europe/germany/hamburg/speicherstadt
+- /europe/germany/hamburg/elbphilharmonie
+- https://www.elbphilharmonie.de
+
+## Lyon | August 4–5
+- europe/france/alpes/lyon/vieux_lyon
+- Any free text note</pre>
+      <ul class="plan-edit-hints">
+        <li><strong>## City | Dates</strong> — new destination</li>
+        <li><strong>content path</strong> — links to a World66 page</li>
+        <li><strong>/absolute/path</strong> — same, with leading slash</li>
+        <li><strong>https://…</strong> — external link</li>
+        <li><strong>free text</strong> — shown as a plain note</li>
+      </ul>
+    </aside>
+  </div>
+
+</div>
+{% endblock %}

@@ -27,8 +27,10 @@
             {% if item.page.meta.snippet %}
             <p class="plan-poi-snippet">{{ item.page.meta.snippet }}</p>
             {% endif %}
+          {% elif item.external_url %}
+            <a class="plan-poi-title plan-poi-external" href="{{ item.external_url }}" target="_blank" rel="noopener">{{ item.external_url }}</a>
           {% else %}
-            <span class="plan-poi-title">{{ item.text }}</span>
+            <span class="plan-poi-title plan-poi-note">{{ item.text }}</span>
           {% endif %}
         </div>
         <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">

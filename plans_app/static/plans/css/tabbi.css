@@ -1,0 +1,527 @@
+/*
+ * Tab.bi brand styles
+ * Overrides world66.css for all plan pages.
+ *
+ * Palette
+ *   Primary yellow  #F4B028
+ *   Yellow hover    #d99b1a
+ *   Light yellow    #FFD966
+ *   Warm black      #180A0A
+ *   Wannabe black   #535050
+ *   Muted           #A6A6A6
+ *   Border          #DCDCDC
+ *   Mid grey        #EAEAEA
+ *   Background      #F7F7F7
+ *   White           #FFFFFF
+ *   Pine green      #045C49   (accent)
+ *   Alarming red    #EB424F   (error/destructive only)
+ *
+ * Typography: Lexend Exa (Google Fonts)
+ * Radius: 11px cards, 999px pills/buttons
+ * Shadow: 4px 4px 9px #EAEAEA
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@300;400;500;600;700&display=swap');
+
+/* ── Global overrides for plan pages ───────────────────────────────────────── */
+
+.plan-page,
+.plan-page * {
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+/* Body background for plan pages */
+body:has(.plan-page) {
+  background: #F7F7F7;
+}
+
+/* ── Breadcrumb ─────────────────────────────────────────────────────────────── */
+
+.plan-breadcrumb {
+  color: #A6A6A6;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+}
+.plan-breadcrumb a {
+  color: #A6A6A6;
+}
+.plan-breadcrumb a:hover {
+  color: #180A0A;
+}
+
+/* ── Page header ────────────────────────────────────────────────────────────── */
+
+.plan-header h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #180A0A;
+  letter-spacing: -0.02em;
+}
+
+.plan-edit-link {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #535050;
+  border: 1.5px solid #DCDCDC;
+  border-radius: 999px;
+  padding: 5px 14px;
+}
+.plan-edit-link:hover {
+  border-color: #F4B028;
+  color: #180A0A;
+  background: #FFF8E6;
+}
+
+/* ── List page ──────────────────────────────────────────────────────────────── */
+
+.plan-list-action-btn {
+  background: #F4B028;
+  color: #180A0A;
+  border: none;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  box-shadow: 4px 4px 9px #EAEAEA;
+}
+.plan-list-action-btn:hover {
+  background: #d99b1a;
+  color: #180A0A;
+}
+.plan-list-action-btn--ghost {
+  background: #FFFFFF;
+  color: #535050;
+  border: 1.5px solid #DCDCDC;
+  box-shadow: none;
+}
+.plan-list-action-btn--ghost:hover {
+  border-color: #F4B028;
+  color: #180A0A;
+  background: #FFFFFF;
+}
+
+/* ── Trip cards ─────────────────────────────────────────────────────────────── */
+
+.plan-cards {
+  gap: 20px;
+}
+
+.plan-card {
+  border: none;
+  border-radius: 14px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 9px #EAEAEA;
+}
+.plan-card:hover {
+  box-shadow: 6px 6px 18px #DCDCDC;
+  transform: translateY(-2px);
+}
+
+.plan-card-photo {
+  border-radius: 14px 14px 0 0;
+}
+.plan-card-photo-placeholder {
+  background: linear-gradient(135deg, #FFD966 0%, #F4B028 100%);
+  border-radius: 14px 14px 0 0;
+}
+
+.plan-card-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #180A0A;
+}
+.plan-card-dates {
+  color: #A6A6A6;
+}
+.plan-card-cities {
+  color: #535050;
+}
+.plan-card-stats {
+  border-top: 1px solid #F0F0F0;
+}
+.plan-card-stat {
+  color: #A6A6A6;
+  font-size: 0.75rem;
+}
+.plan-card-stat-num {
+  color: #F4B028;
+  font-weight: 700;
+}
+.plan-card-stat-dot {
+  color: #DCDCDC;
+}
+
+/* ── Overview map + tile grid ───────────────────────────────────────────────── */
+
+#plan-overview-map {
+  border: none;
+  border-radius: 14px;
+  box-shadow: 4px 4px 9px #EAEAEA;
+}
+
+.plan-dest-tile {
+  border-radius: 14px;
+  box-shadow: 4px 4px 9px #EAEAEA;
+}
+.plan-dest-tile-num {
+  background: #F4B028;
+  color: #180A0A;
+  font-weight: 700;
+}
+.plan-dest-tile-explore {
+  background: rgba(244, 176, 40, 0.9);
+  color: #180A0A;
+  font-weight: 700;
+}
+.plan-dest-tile-explore:hover {
+  background: #F4B028;
+}
+.plan-dest-tile-city {
+  font-weight: 700;
+}
+
+/* ── Stop page map ──────────────────────────────────────────────────────────── */
+
+#plan-stop-map {
+  border: none;
+  border-radius: 14px;
+  box-shadow: 4px 4px 9px #EAEAEA;
+}
+
+/* ── POI cards ──────────────────────────────────────────────────────────────── */
+
+.plan-poi-card {
+  border: none;
+  border-radius: 11px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 9px #EAEAEA;
+}
+.plan-poi-card:hover {
+  box-shadow: 6px 6px 16px #DCDCDC;
+}
+
+.plan-poi-title {
+  color: #180A0A;
+  font-weight: 600;
+}
+.plan-poi-title:hover {
+  color: #F4B028;
+  text-decoration: none;
+}
+
+/* ── POI trip tags ──────────────────────────────────────────────────────────── */
+
+.plan-poi-tag {
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.7rem;
+  letter-spacing: 0.03em;
+}
+.plan-poi-tag:hover {
+  background: #d99b1a;
+  color: #180A0A;
+}
+
+/* ── Add to plan button (on POI pages) ─────────────────────────────────────── */
+
+.plan-add-trigger {
+  border-color: #DCDCDC;
+  color: #535050;
+  border-radius: 999px;
+}
+.plan-add-trigger:hover {
+  border-color: #F4B028;
+  background: #FFF8E6;
+  color: #180A0A;
+}
+.plan-add-modal-btn:hover {
+  background: #FFF8E6;
+  color: #180A0A;
+}
+
+/* ── City intro block ───────────────────────────────────────────────────────── */
+
+.plan-city-intro {
+  border-radius: 11px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 9px #EAEAEA;
+  border: none;
+}
+
+.plan-city-explore {
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 999px;
+  font-weight: 600;
+}
+.plan-city-explore:hover {
+  background: #d99b1a;
+  color: #180A0A;
+}
+
+/* ── Suggestions strip ──────────────────────────────────────────────────────── */
+
+.plan-suggestions-heading {
+  color: #535050;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.plan-suggestion-tile {
+  border-radius: 11px;
+  border: 1.5px solid #EAEAEA;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 9px #EAEAEA;
+}
+.plan-suggestion-tile--match {
+  border-color: #F4B028;
+}
+
+.plan-suggestion-title {
+  color: #180A0A;
+  font-weight: 600;
+}
+.plan-suggestion-title:hover {
+  color: #F4B028;
+}
+
+.plan-suggestion-btn {
+  background: #F7F7F7;
+  color: #535050;
+  border: 1.5px solid #DCDCDC;
+  border-radius: 999px;
+  font-size: 1.1rem;
+  width: 28px;
+  height: 28px;
+}
+.plan-suggestion-btn:hover {
+  background: #F4B028;
+  color: #180A0A;
+  border-color: #F4B028;
+}
+
+/* ── Map stop markers ───────────────────────────────────────────────────────── */
+
+.plan-stop-marker {
+  background: #F4B028 !important;
+  color: #180A0A !important;
+}
+
+/* ── Edit page ──────────────────────────────────────────────────────────────── */
+
+.plan-edit-textarea {
+  border: 1.5px solid #DCDCDC;
+  border-radius: 11px;
+  background: #FFFFFF;
+  color: #180A0A;
+  font-family: 'Lexend Exa', monospace;
+}
+.plan-edit-textarea:focus {
+  border-color: #F4B028;
+  box-shadow: 0 0 0 3px rgba(244, 176, 40, 0.15);
+  outline: none;
+}
+
+.plan-edit-save {
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  border: none;
+}
+.plan-edit-save:hover {
+  background: #d99b1a;
+}
+
+.plan-edit-cancel {
+  color: #A6A6A6;
+}
+.plan-edit-cancel:hover {
+  color: #180A0A;
+}
+
+.plan-edit-help h3 {
+  color: #535050;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+}
+.plan-edit-example {
+  background: #F7F7F7;
+  border: 1.5px solid #EAEAEA;
+  border-radius: 8px;
+}
+
+/* ── Join modal ─────────────────────────────────────────────────────────────── */
+
+.plan-join-modal-box {
+  border-radius: 16px;
+  box-shadow: 8px 8px 24px #DCDCDC;
+}
+.plan-join-modal-box h2 {
+  color: #180A0A;
+  font-weight: 700;
+}
+.plan-join-modal-box input[type=password] {
+  border: 1.5px solid #DCDCDC;
+  border-radius: 999px;
+  font-family: 'Lexend Exa', sans-serif;
+}
+.plan-join-modal-box input[type=password]:focus {
+  border-color: #F4B028;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(244, 176, 40, 0.15);
+}
+.plan-join-modal-actions button[type=submit] {
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 999px;
+  font-weight: 700;
+  border: none;
+}
+.plan-join-modal-actions button[type=submit]:hover {
+  background: #d99b1a;
+}
+.plan-join-modal-actions button[type=button] {
+  border: 1.5px solid #DCDCDC;
+  border-radius: 999px;
+  color: #535050;
+  background: none;
+}
+.plan-join-modal-actions button[type=button]:hover {
+  border-color: #F4B028;
+  color: #180A0A;
+}
+
+/* ── New trip / passphrase pages ────────────────────────────────────────────── */
+
+.login-box {
+  border-radius: 16px;
+  box-shadow: 8px 8px 24px #EAEAEA;
+}
+
+.login-box input[type=text],
+.login-box input[type=password] {
+  border: 1.5px solid #DCDCDC;
+  border-radius: 999px;
+  font-family: 'Lexend Exa', sans-serif;
+}
+.login-box input:focus {
+  border-color: #F4B028;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(244, 176, 40, 0.15);
+}
+
+.login-box button[type=submit] {
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 999px;
+  border: none;
+  font-weight: 700;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.9rem;
+}
+.login-box button[type=submit]:hover {
+  background: #d99b1a;
+}
+
+.login-logo {
+  color: #180A0A;
+  font-family: 'Lexend Exa', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.logo-dot {
+  color: #F4B028;
+}
+
+.plan-passphrase-box {
+  border: 1.5px solid #DCDCDC;
+  border-radius: 11px;
+  background: #F7F7F7;
+  font-family: 'Lexend Exa', monospace;
+  color: #180A0A;
+}
+.plan-passphrase-copy {
+  border: 1.5px solid #DCDCDC;
+  border-radius: 999px;
+  color: #535050;
+}
+.plan-passphrase-copy:hover {
+  border-color: #F4B028;
+  color: #180A0A;
+}
+
+.plan-passphrase-continue {
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 999px;
+  border: none;
+  font-weight: 700;
+}
+.plan-passphrase-continue:hover {
+  background: #d99b1a;
+}
+
+/* ── Note editing ───────────────────────────────────────────────────────────── */
+
+.plan-note-text {
+  color: #535050;
+  font-style: normal;
+}
+.plan-note-text:hover {
+  color: #180A0A;
+}
+.plan-note-input {
+  border-bottom: 2px solid #F4B028;
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+/* ── Remove button ──────────────────────────────────────────────────────────── */
+
+.plan-remove-btn {
+  color: #A6A6A6;
+  border-color: #EAEAEA;
+  border-radius: 999px;
+}
+.plan-remove-btn:hover {
+  background: #FFF3CD;
+  border-color: #F4B028;
+  color: #180A0A;
+}
+
+/* ── Stop dates ─────────────────────────────────────────────────────────────── */
+
+.plan-stop-dates-large {
+  color: #A6A6A6;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+/* ── External links ─────────────────────────────────────────────────────────── */
+
+.plan-external-label {
+  color: #180A0A;
+  font-weight: 500;
+}
+.plan-external-domain {
+  color: #A6A6A6;
+}
+.plan-external-link:hover .plan-external-label {
+  color: #F4B028;
+}
+
+/* ── List error ─────────────────────────────────────────────────────────────── */
+
+.plan-list-error {
+  color: #EB424F;
+}

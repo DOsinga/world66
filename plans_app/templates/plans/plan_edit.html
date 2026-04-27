@@ -1,4 +1,6 @@
 {% extends "guide/base.html" %}
+{% load static %}
+{% block body_style %}<link rel="stylesheet" href="{% static 'plans/css/tabbi.css' %}">{% endblock %}
 {% block title %}Edit — {{ plan.title }} — World66{% endblock %}
 {% block content %}
 <div class="plan-page plan-edit-page">

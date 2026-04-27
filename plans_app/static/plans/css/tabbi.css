@@ -1165,3 +1165,115 @@ body:has(.tabbi-page) {
   color: #A6A6A6;
   margin: 4px 0 10px;
 }
+
+/* ── Empty state animation ───────────────────────────────────────────────── */
+
+.plan-list-empty-state {
+  text-align: center;
+  padding: 40px 0 60px;
+}
+
+.tabbi-empty-stage {
+  position: relative;
+  width: 360px;
+  height: 280px;
+  margin: 0 auto 32px;
+}
+
+/* Ghost character */
+.tabbi-ghost {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: tabbi-float 3s ease-in-out infinite;
+}
+.tabbi-ghost-svg { width: 120px; height: 140px; }
+
+@keyframes tabbi-float {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50%       { transform: translateX(-50%) translateY(-14px); }
+}
+
+/* Shadow shrinks as ghost floats up */
+.tabbi-shadow {
+  animation: tabbi-shadow 3s ease-in-out infinite;
+  transform-origin: center;
+}
+@keyframes tabbi-shadow {
+  0%, 100% { rx: 28; opacity: 0.08; }
+  50%       { rx: 18; opacity: 0.04; }
+}
+
+/* Eyes track slightly */
+.tabbi-pupil--l { animation: tabbi-look 4s ease-in-out infinite; }
+.tabbi-pupil--r { animation: tabbi-look 4s ease-in-out infinite; }
+@keyframes tabbi-look {
+  0%, 40%, 100% { transform: translate(0, 0); }
+  50%            { transform: translate(2px, -1px); }
+  70%            { transform: translate(-1px, 1px); }
+}
+
+/* Tentacle wiggle */
+.tabbi-tentacle--1 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.0s; transform-origin: 28px 100px; }
+.tabbi-tentacle--2 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.2s; transform-origin: 42px 108px; }
+.tabbi-tentacle--3 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.4s; transform-origin: 58px 110px; }
+.tabbi-tentacle--4 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.6s; transform-origin: 74px 108px; }
+.tabbi-tentacle--5 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.8s; transform-origin: 88px 100px; }
+@keyframes tabbi-wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  30%       { transform: rotate(8deg); }
+  70%       { transform: rotate(-8deg); }
+}
+
+/* Arm holding pin bobs with the float */
+.tabbi-arm { animation: tabbi-float 3s ease-in-out infinite; transform-origin: 96px 68px; }
+.tabbi-held-pin { animation: tabbi-pin-bob 3s ease-in-out infinite; transform-origin: 108px 30px; }
+@keyframes tabbi-pin-bob {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50%       { transform: translateY(-14px) rotate(8deg); }
+}
+
+/* Floating place pins around the ghost */
+.tabbi-pin {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+.tabbi-pin svg { width: 32px; height: 38px; filter: drop-shadow(0 4px 8px rgba(24,10,10,0.15)); }
+.tabbi-pin span {
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: #535050;
+  white-space: nowrap;
+}
+
+.tabbi-pin--1 { top: 20px;  left: 20px;  animation: tabbi-pin-drift 4s ease-in-out infinite 0.0s; }
+.tabbi-pin--2 { top: 10px;  right: 30px; animation: tabbi-pin-drift 4s ease-in-out infinite 0.7s; }
+.tabbi-pin--3 { top: 80px;  left: 10px;  animation: tabbi-pin-drift 4s ease-in-out infinite 1.4s; }
+.tabbi-pin--4 { top: 60px;  right: 10px; animation: tabbi-pin-drift 4s ease-in-out infinite 2.1s; }
+
+@keyframes tabbi-pin-drift {
+  0%   { transform: translateY(0)    rotate(-4deg); }
+  25%  { transform: translateY(-8px) rotate(4deg); }
+  50%  { transform: translateY(-4px) rotate(-2deg); }
+  75%  { transform: translateY(-10px) rotate(3deg); }
+  100% { transform: translateY(0)    rotate(-4deg); }
+}
+
+.tabbi-empty-headline {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #180A0A;
+  letter-spacing: -0.03em;
+  margin: 0 0 10px;
+}
+.tabbi-empty-sub {
+  font-size: 0.85rem;
+  color: #A6A6A6;
+  line-height: 1.6;
+  margin: 0 0 28px;
+}

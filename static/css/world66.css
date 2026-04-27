@@ -2865,54 +2865,120 @@ img { max-width: 100%; height: auto; }
 /* ── Travel Plans ─────────────────────────────────────────────────────────── */
 
 .plan-list-page {
-  max-width: 640px;
-  margin: 40px auto;
-  padding: 0 24px;
+  margin-top: 16px;
 }
 .plan-list-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 8px;
+  margin-bottom: 28px;
 }
 .plan-list-header h1 { margin: 0; }
-.plan-new-btn {
+.plan-list-actions { display: flex; gap: 10px; align-items: center; }
+.plan-list-action-btn {
   font-size: 0.85rem;
   font-weight: 600;
-  padding: 7px 16px;
-  border: 1.5px solid #c0392b;
+  padding: 8px 18px;
+  background: #c0392b;
+  color: #fff;
+  border: none;
   border-radius: 20px;
-  color: #c0392b;
   text-decoration: none;
-  transition: background 0.15s, color 0.15s;
+  cursor: pointer;
+  transition: background 0.15s;
   white-space: nowrap;
 }
-.plan-new-btn:hover { background: #c0392b; color: #fff; }
-.plan-list {
-  list-style: none;
-  padding: 0;
-  margin: 24px 0;
+.plan-list-action-btn:hover { background: #a93226; color: #fff; }
+.plan-list-action-btn--ghost {
+  background: none;
+  color: #555;
+  border: 1.5px solid #ddd;
 }
-.plan-list li {
-  border-bottom: 1px solid #eee;
+.plan-list-action-btn--ghost:hover { border-color: #c0392b; color: #c0392b; background: none; }
+
+/* Trip cards grid */
+.plan-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
 }
-.plan-list-link {
+.plan-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #e8e8e8;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.18s, transform 0.18s;
+  background: #fff;
+}
+.plan-card:hover {
+  box-shadow: 0 6px 24px rgba(0,0,0,0.12);
+  transform: translateY(-2px);
+}
+.plan-card-photo {
+  height: 160px;
+  position: relative;
+  overflow: hidden;
+}
+.plan-card-photo-img {
+  position: absolute;
+  inset: 0;
+  background-image: var(--cover);
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.3s;
+}
+.plan-card:hover .plan-card-photo-img { transform: scale(1.04); }
+.plan-card-photo-placeholder {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, #e8e0d8 0%, #d4c8bc 100%);
+}
+.plan-card-body {
+  padding: 16px 18px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+}
+.plan-card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  line-height: 1.25;
+}
+.plan-card-dates {
+  font-size: 0.8rem;
+  color: #888;
+  margin-top: 2px;
+}
+.plan-card-cities {
+  font-size: 0.82rem;
+  color: #555;
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.plan-card-stats {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 12px 0;
-  text-decoration: none;
+  gap: 6px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #f0f0f0;
 }
-.plan-list-title {
-  font-size: 1.05rem;
-  font-weight: 500;
-  color: #c0392b;
+.plan-card-stat { font-size: 0.78rem; color: #888; }
+.plan-card-stat-num { font-weight: 700; color: #c0392b; }
+.plan-card-stat-dot { color: #ccc; font-size: 0.7rem; }
+
+.plan-list-empty-state {
+  text-align: center;
+  padding: 60px 0;
+  color: #888;
 }
-.plan-list-locked .plan-list-title { color: #888; }
-.plan-list-lock { font-size: 0.85rem; }
-.plan-list-actions { display: flex; gap: 8px; }
-.plan-join-btn { background: none; border: 1px solid #c0392b; color: #c0392b; cursor: pointer; }
-.plan-join-btn:hover { background: #c0392b; color: #fff; }
 .plan-join-modal {
   position: fixed;
   inset: 0;
@@ -3072,18 +3138,7 @@ img { max-width: 100%; height: auto; }
   margin-top: 4px;
 }
 
-/* Overview page: map + stop cards */
-.plan-overview-layout {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 24px;
-  align-items: start;
-}
-#plan-overview-map {
-  height: 520px;
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
-}
+/* Overview page: legacy stop cards (kept for reference) */
 .plan-stops-list {
   display: flex;
   flex-direction: column;
@@ -3144,6 +3199,110 @@ img { max-width: 100%; height: auto; }
   color: #ccc;
 }
 
+/* Overview page: map + tile grid side by side */
+.plan-overview-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: start;
+  min-width: 0;
+}
+.plan-overview-layout > * { min-width: 0; }
+#plan-overview-map {
+  height: calc(100vh - 120px);
+  min-height: 400px;
+  max-height: 700px;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  position: sticky;
+  top: 80px;
+}
+
+/* Destination photo tile grid */
+.plan-dest-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+.plan-dest-tile {
+  position: relative;
+  height: 220px;
+  border-radius: 10px;
+  background-color: #2c2c2c;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  overflow: hidden;
+  transition: transform 0.18s, box-shadow 0.18s;
+}
+.plan-dest-tile:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+}
+.plan-dest-tile-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.08) 0%, rgba(0,0,0,0.65) 100%);
+  padding: 14px 16px;
+}
+.plan-dest-tile-num {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 28px;
+  height: 28px;
+  background: #c0392b;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.8rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.plan-dest-tile-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.plan-dest-tile-city {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+  line-height: 1.2;
+}
+.plan-dest-tile-dates {
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.82);
+  margin-top: 3px;
+}
+.plan-dest-tile-count {
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.65);
+  margin-top: 2px;
+}
+.plan-dest-tile-explore {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #fff;
+  background: rgba(192,57,43,0.85);
+  border-radius: 4px;
+  padding: 3px 9px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+.plan-dest-tile-explore:hover {
+  background: #c0392b;
+}
+
 /* Numbered stop markers on map */
 .plan-stop-marker {
   background: #c0392b;
@@ -3195,26 +3354,108 @@ img { max-width: 100%; height: auto; }
 }
 .plan-city-explore:hover { background: #a93226; }
 
+/* Suggestions strip */
+.plan-suggestions { margin-top: 16px; padding-top: 16px; border-top: 1px solid #eee; }
+.plan-suggestions-heading {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #999;
+  margin: 0 0 8px;
+}
+.plan-suggestions-strip-wrap { position: relative; }
+.plan-suggestions-strip {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+}
+.plan-suggestion-tile {
+  flex-shrink: 0;
+  width: 150px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fff;
+  position: relative;
+}
+.plan-suggestion-tile--match { border-color: #c0392b; }
+.plan-suggestion-tile-img {
+  width: 100%;
+  height: 90px;
+  background-size: cover;
+  background-position: center;
+  background-color: #f0f0f0;
+}
+.plan-suggestion-tile-body {
+  padding: 6px 8px 26px;
+}
+.plan-suggestion-title {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #222;
+  text-decoration: none;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.3;
+  margin-bottom: 3px;
+}
+.plan-suggestion-title:hover { color: #c0392b; }
+.plan-suggestion-snippet {
+  font-size: 0.7rem;
+  color: #888;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin: 0;
+}
+.plan-suggestion-add {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  margin: 0;
+}
+.plan-suggestion-btn {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 1px solid #c0392b;
+  background: none;
+  color: #c0392b;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.plan-suggestion-btn:hover { background: #c0392b; color: #fff; }
+
 /* Stop detail page: map + POI cards */
 .plan-stop-layout {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 24px;
   align-items: start;
+  min-width: 0;
 }
+.plan-stop-layout > * { min-width: 0; }
 #plan-stop-map {
-  height: 600px;
+  height: calc(100vh - 120px);
   border-radius: 8px;
   border: 1px solid #e0e0e0;
   position: sticky;
-  top: 20px;
+  top: 80px;
 }
 .plan-poi-list {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  max-height: 600px;
-  overflow-y: auto;
 }
 .plan-poi-card {
   display: flex;
@@ -3284,6 +3525,7 @@ img { max-width: 100%; height: auto; }
   font-weight: 500;
   color: #555;
 }
+.plan-new-hint { font-weight: 400; color: #aaa; }
 .login-box input[type="password"] {
   padding: 10px 12px;
   border: 1px solid #ddd;

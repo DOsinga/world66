@@ -1,7 +1,6 @@
 ---
 title: "Lancaster Canal"
 type: poi
-category: Neighbourhood
 snippet: "Historic 18th-century towpath walk through stone warehouses and countryside"
 latitude: 54.0509
 longitude: -2.8075

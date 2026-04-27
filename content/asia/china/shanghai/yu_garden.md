@@ -2,6 +2,7 @@
 title: "Yu Garden"
 type: poi
 category: "Sight"
+snippet: "Exquisite Ming dynasty garden hidden inside the Old Town"
 neighbourhood: "Old Town and Yuyuan Bazaar"
 address: "218 Anren Street, Huangpu District"
 opening_hours: "8:30 am – 5 pm, daily"

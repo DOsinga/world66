@@ -1,7 +1,6 @@
 ---
 title: "Qissa Khwani Bazaar"
 type: poi
-category: "Neighbourhood"
 snippet: "Ancient Storytellers' Bazaar where Central Asian caravans traded tales"
 latitude: 34.0072
 longitude: 71.5709

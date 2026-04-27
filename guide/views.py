@@ -880,13 +880,22 @@ def _plan_file_remove(slug, poi_path):
 
 
 @_require_plan_auth
-def plan_poi_add(request, slug, city_slug):
+def plan_poi_add(request, slug, city_slug=None):
     if request.method != 'POST':
         raise Http404
     poi_path = request.POST.get('poi_path', '').strip()
     if poi_path:
-        _plan_file_add(slug, city_slug, poi_path)
-    return HttpResponseRedirect(request.POST.get('next', f'/plans/{slug}/{city_slug}/'))
+        if city_slug is None:
+            # Auto-detect: find the stop whose city_slug appears in the poi path
+            plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+            if plan:
+                for stop in plan["stops"]:
+                    if stop["city_slug"] in poi_path.replace('/', '-').lower() or stop["city_slug"] in poi_path.lower():
+                        city_slug = stop["city_slug"]
+                        break
+        if city_slug:
+            _plan_file_add(slug, city_slug, poi_path)
+    return HttpResponseRedirect(request.POST.get('next', f'/plans/{slug}/'))
 
 
 @_require_plan_auth

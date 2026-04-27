@@ -177,15 +177,12 @@
   <div class="plan-add-modal-inner">
     <div class="plan-add-modal-head">Add to trip</div>
     {% for plan in plan_stops %}
-    {% if plan_stops|length > 1 %}<div class="plan-add-modal-plan">{{ plan.title }}</div>{% endif %}
-    {% for stop in plan.stops %}
-    <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/add/">
+    <form method="post" action="/plans/{{ plan.slug }}/add/">
       {% csrf_token %}
       <input type="hidden" name="poi_path" value="{{ page.path }}">
       <input type="hidden" name="next" value="{{ request.path }}">
-      <button type="submit" class="plan-add-modal-btn">{{ stop.city }}{% if stop.dates %} <span class="plan-add-modal-dates">{{ stop.dates }}</span>{% endif %}</button>
+      <button type="submit" class="plan-add-modal-btn">{{ plan.title }}</button>
     </form>
-    {% endfor %}
     {% endfor %}
   </div>
 </div>

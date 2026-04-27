@@ -1,0 +1,16 @@
+{% extends "guide/base.html" %}
+{% block title %}{{ plan.title }} created — World66{% endblock %}
+{% block content %}
+<div class="login-page">
+  <div class="login-box">
+    <div class="login-logo">World<span class="logo-dot"></span>66</div>
+    <h1>{{ plan.title }}</h1>
+    <p style="color:#555;margin-bottom:8px;">Your trip was created. Save this passphrase — it's the only way to access this trip on another device.</p>
+    <div class="plan-passphrase-box">
+      <span id="passphrase-text">{{ passphrase }}</span>
+      <button type="button" class="plan-passphrase-copy" onclick="navigator.clipboard.writeText('{{ passphrase }}');this.textContent='Copied!'">Copy</button>
+    </div>
+    <a href="/plans/{{ plan.slug }}/edit/" class="plan-passphrase-continue">Start planning →</a>
+  </div>
+</div>
+{% endblock %}

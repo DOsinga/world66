@@ -98,7 +98,7 @@ def auth_login(request, slug):
         if _check_password(request.POST.get("password", ""), passwords[slug]):
             _mark_plan_authenticated(request, slug)
             return HttpResponseRedirect(next_url)
-        error = "Wrong password."
+        error = "Wrong passphrase."
     plan_title = _plan_title(slug)
     return render(request, "guide/login.html", {"error": error, "next": next_url, "slug": slug, "plan_title": plan_title})
 
@@ -109,15 +109,17 @@ def auth_logout(request):
 
 
 def _authenticated_plan_stops(request):
-    """Return list of {plan_slug, plan_title, stops:[{city, city_slug, url}]} for authenticated plans."""
+    """Return list of {slug, title, stops, poi_paths} for authenticated plans."""
     result = []
     for slug in request.session.get("authenticated_plans", []):
         plan = _parse_plan(PLANS_DIR / f"{slug}.md")
         if plan:
+            poi_paths = {item["text"] for s in plan["stops"] for item in s["items"]}
             result.append({
                 "slug": slug,
                 "title": plan["title"],
                 "stops": [{"city": s["city"], "city_slug": s["city_slug"], "url": s["url"]} for s in plan["stops"]],
+                "poi_paths": poi_paths,
             })
     return result
 
@@ -132,6 +134,7 @@ def _plan_title(slug):
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
     load_page, load_page_from_branch, load_tag_index, resolve_tag_route, _find_city_path,
+    resolve_location_name,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -699,14 +702,38 @@ def _parse_stops(body, plan_slug):
         if h2:
             heading = h2.group(1)
             if '|' in heading:
-                city, dates = heading.split('|', 1)
+                city_part, dates = heading.split('|', 1)
             else:
-                city, dates = heading, ''
-            city = city.strip()
-            city_slug = city.lower().replace(' ', '-')
+                # Auto-detect date: find first occurrence of a day number or month name.
+                # Month names must end at a word boundary to avoid matching city names
+                # like "Marseille" (starts with "Mar").
+                _months = (r'(?:january|february|march|april|may|june|july|august'
+                           r'|september|october|november|december'
+                           r'|jan|feb|mar|apr|jun|jul|aug|sep|oct|nov|dec)\b')
+                _date_re = _re.compile(
+                    rf'\b(\d{{1,2}}\s+{_months}|{_months}\s+\d{{1,2}})',
+                    _re.IGNORECASE,
+                )
+                _dm = _date_re.search(heading)
+                if _dm:
+                    city_part = heading[:_dm.start()]
+                    dates = heading[_dm.start():]
+                else:
+                    city_part, dates = heading, ''
+            city_part = city_part.strip()
+            # Resolve city name to a content path (e.g. "Palo Alto" → "northamerica/…/paloalto")
+            # If it already looks like a content path (contains /), use it directly
+            if '/' in city_part:
+                city_path = city_part
+                city_name = city_part.split('/')[-1].replace('_', ' ').title()
+            else:
+                city_name = city_part
+                city_path = resolve_location_name(city_part)
+            city_slug = city_name.lower().replace(' ', '-')
             current = {
-                "city": city,
+                "city": city_name,
                 "city_slug": city_slug,
+                "city_path": city_path,
                 "dates": dates.strip(),
                 "url": f"/plans/{plan_slug}/{city_slug}/",
                 "items": [],
@@ -721,9 +748,16 @@ def _parse_stops(body, plan_slug):
             # Support internal paths, absolute URLs, and relative /paths
             page = None
             external_url = None
-            display_text = text
+            display_label = None
+            display_domain = None
             if _re.match(r'^https?://', text):
                 external_url = text
+                from urllib.parse import urlparse as _urlparse
+                _p = _urlparse(text)
+                display_domain = _p.netloc.lstrip('www.')
+                display_path = (_p.path.rstrip('/').rsplit('/', 1)[-1].replace('-', ' ').replace('_', ' ').title()
+                                if _p.path and _p.path != '/' else '')
+                display_label = display_path or display_domain
             elif text.startswith('/'):
                 page = load_page(text.lstrip('/'))
             elif _re.match(r'^[\w/_-]+$', text):
@@ -737,64 +771,194 @@ def _parse_stops(body, plan_slug):
                 "text": text,
                 "page": page,
                 "external_url": external_url,
+                "display_label": display_label if external_url else None,
+                "display_domain": display_domain if external_url else None,
                 "image_url": image_url,
             })
 
-    # Derive destination URL from the parent path of the first internal POI
+    # Derive destination URL: prefer resolved city_path, fall back to first POI's parent
     for stop in stops:
-        dest_url = None
-        for item in stop["items"]:
-            if item["page"] and "/" in item["page"].path:
-                dest_url = "/" + item["page"].path.rsplit("/", 1)[0]
-                break
-        stop["destination_url"] = dest_url
+        if stop.get("city_path"):
+            stop["destination_url"] = "/" + stop["city_path"]
+        else:
+            dest_url = None
+            for item in stop["items"]:
+                if item["page"] and "/" in item["page"].path:
+                    dest_url = "/" + item["page"].path.rsplit("/", 1)[0]
+                    break
+            stop["destination_url"] = dest_url
 
     return stops
 
 
+_GEOCACHE_FILE = Path(settings.BASE_DIR) / "plans" / ".geocache.json"
+
+
+def _load_geocache():
+    if _GEOCACHE_FILE.exists():
+        try:
+            return json.loads(_GEOCACHE_FILE.read_text())
+        except Exception:
+            pass
+    return {}
+
+
+def _save_geocache(cache):
+    _GEOCACHE_FILE.write_text(json.dumps(cache, indent=2))
+
+
+def _geocode_nominatim(query):
+    """Return (lat, lng) from Nominatim, or None on failure."""
+    import urllib.request
+    import urllib.parse
+    params = urllib.parse.urlencode({"q": query, "format": "json", "limit": 1})
+    url = f"https://nominatim.openstreetmap.org/search?{params}"
+    req = urllib.request.Request(url, headers={"User-Agent": "World66/1.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=4) as r:
+            data = json.loads(r.read())
+        if data:
+            return float(data[0]["lat"]), float(data[0]["lon"])
+    except Exception:
+        pass
+    return None
+
+
+def _city_coords(stop):
+    """Return (lat, lng) for a stop's city, geocoding if necessary."""
+    city_path = stop.get("city_path")
+    city_name = stop.get("city", "")
+    cache_key = f"city:{city_path or city_name}"
+
+    if city_path:
+        city_page = load_page(city_path)
+        if city_page and city_page.meta.get("latitude") and city_page.meta.get("longitude"):
+            return float(city_page.meta["latitude"]), float(city_page.meta["longitude"])
+
+    geocache = _load_geocache()
+    if cache_key in geocache:
+        return tuple(geocache[cache_key]) if geocache[cache_key] else None
+
+    result = _geocode_nominatim(city_name)
+    geocache[cache_key] = list(result) if result else None
+    _save_geocache(geocache)
+    return result
+
+
 def _stop_markers(stop):
-    """Return JSON-serialisable marker list for a single stop."""
+    """Return JSON-serialisable marker list for a single stop.
+
+    Geocodes POIs that are missing coordinates via Nominatim and caches results.
+    """
+    geocache = _load_geocache()
+    cache_dirty = False
     markers = []
+    city_name = stop.get("city", "")
+
     for item in stop["items"]:
         page = item["page"]
-        if page and page.meta.get("latitude") and page.meta.get("longitude"):
+        if not page:
+            continue
+        lat = page.meta.get("latitude")
+        lng = page.meta.get("longitude")
+        if lat and lng:
             markers.append({
-                "lat": float(page.meta["latitude"]),
-                "lng": float(page.meta["longitude"]),
-                "title": page.title,
-                "url": page.get_absolute_url(),
+                "lat": float(lat), "lng": float(lng),
+                "title": page.title, "url": page.get_absolute_url(),
             })
+        elif page.path not in geocache:
+            # Try to geocode; store None on failure to avoid retrying
+            result = _geocode_nominatim(f"{page.title}, {city_name}")
+            geocache[page.path] = list(result) if result else None
+            cache_dirty = True
+            if result:
+                markers.append({
+                    "lat": result[0], "lng": result[1],
+                    "title": page.title, "url": page.get_absolute_url(),
+                })
+        elif geocache[page.path]:
+            lat, lng = geocache[page.path]
+            markers.append({
+                "lat": lat, "lng": lng,
+                "title": page.title, "url": page.get_absolute_url(),
+            })
+
+    if cache_dirty:
+        _save_geocache(geocache)
     return markers
 
 
 def plan_list(request):
     import frontmatter as fm
-    passwords = _load_passwords()
     authenticated = set(request.session.get("authenticated_plans", []))
+    join_error = request.session.pop("plan_join_error", None)
     plans = []
     for f in sorted(PLANS_DIR.glob("*.md")):
-        post = fm.load(f)
         slug = f.stem
+        if slug not in authenticated:
+            continue
+        post = fm.load(f)
         plans.append({
             "slug": slug,
             "title": post.metadata.get("title", slug),
-            "locked": slug not in authenticated,
         })
-    return render(request, "guide/plan_list.html", {"plans": plans})
+    return render(request, "guide/plan_list.html", {"plans": plans, "join_error": join_error})
+
+
+def plan_join(request):
+    """Try a passphrase against all plans and authenticate the matching one."""
+    if request.method != "POST":
+        return HttpResponseRedirect("/plans/")
+    pw = request.POST.get("password", "")
+    passwords = _load_passwords()
+    for slug, hashed in passwords.items():
+        if _check_password(pw, hashed):
+            _mark_plan_authenticated(request, slug)
+            return HttpResponseRedirect(f"/plans/{slug}/")
+    request.session["plan_join_error"] = "No trip found with that passphrase."
+    return HttpResponseRedirect("/plans/")
+
+
+_PASSPHRASE_WORDS = [
+    # places & landscapes
+    "canyon", "delta", "fjord", "glacier", "harbor", "lagoon", "meadow", "mesa",
+    "oasis", "rapids", "reef", "ridge", "steppe", "summit", "tundra", "valley",
+    # travel & movement
+    "atlas", "compass", "ferry", "lantern", "passage", "pilgrim", "rover", "voyage",
+    # nature
+    "amber", "birch", "cedar", "cobalt", "coral", "crimson", "dusk", "ember",
+    "falcon", "fern", "flint", "heron", "indigo", "jasper", "lemon", "lotus",
+    "maple", "marigold", "mist", "moonrise", "mossy", "ochre", "onyx", "pebble",
+    "pine", "pollen", "quartz", "saffron", "sage", "scarlet", "sienna", "slate",
+    "spruce", "sterling", "talon", "thistle", "thorn", "topaz", "umber", "wren",
+    # adjectives
+    "ancient", "azure", "bold", "bright", "calm", "distant", "golden", "hidden",
+    "ivory", "jade", "keen", "lofty", "lunar", "misty", "noble", "pale",
+    "quiet", "rugged", "serene", "silent", "silver", "slow", "solar", "spare",
+    "stone", "swift", "tall", "vast", "warm", "wild",
+]
+
+
+def _generate_passphrase():
+    """Generate a unique 3-word passphrase not already used by any plan."""
+    import random
+    passwords = _load_passwords()
+    existing = set(passwords.keys())
+    for _ in range(100):
+        words = random.sample(_PASSPHRASE_WORDS, 3)
+        phrase = "-".join(words)
+        if phrase not in existing:
+            return phrase
+    # Extremely unlikely fallback: add a number
+    return "-".join(random.sample(_PASSPHRASE_WORDS, 3)) + f"-{random.randint(10,99)}"
 
 
 def plan_new(request):
     error = None
     if request.method == "POST":
         title = request.POST.get("title", "").strip()
-        pw = request.POST.get("password", "")
-        pw2 = request.POST.get("password2", "")
         if not title:
             error = "Please enter a trip title."
-        elif len(pw) < 6:
-            error = "Choose at least 6 characters."
-        elif pw != pw2:
-            error = "Passwords don't match."
         else:
             import frontmatter as fm
             slug = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')
@@ -802,13 +966,24 @@ def plan_new(request):
             if path.exists():
                 error = f"A trip named '{slug}' already exists."
             else:
+                passphrase = _generate_passphrase()
                 post = fm.Post("", title=title)
                 with open(path, "wb") as fh:
                     fm.dump(post, fh)
-                _save_password(slug, pw)
+                _save_password(slug, passphrase)
                 _mark_plan_authenticated(request, slug)
-                return HttpResponseRedirect(f"/plans/{slug}/edit/")
+                request.session["new_plan_passphrase"] = passphrase
+                return HttpResponseRedirect(f"/plans/{slug}/created/")
     return render(request, "guide/plan_new.html", {"error": error})
+
+
+@_require_plan_auth
+def plan_created(request, slug):
+    passphrase = request.session.pop("new_plan_passphrase", None)
+    plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+    if not plan:
+        raise Http404
+    return render(request, "guide/plan_created.html", {"plan": plan, "passphrase": passphrase})
 
 
 @_require_plan_auth
@@ -817,18 +992,24 @@ def plan_detail(request, slug):
     if not plan:
         raise Http404
 
-    # One marker per stop — use centroid of its POIs
+    # One marker per stop — use centroid of its POIs, fall back to city page coords
     stop_markers = []
     for stop in plan["stops"]:
         pts = _stop_markers(stop)
         if pts:
             lat = sum(m["lat"] for m in pts) / len(pts)
             lng = sum(m["lng"] for m in pts) / len(pts)
-            stop_markers.append({
-                "lat": lat, "lng": lng,
-                "title": stop["city"], "dates": stop["dates"],
-                "url": stop["url"],
-            })
+        else:
+            coords = _city_coords(stop)
+            if coords:
+                lat, lng = coords
+            else:
+                continue
+        stop_markers.append({
+            "lat": lat, "lng": lng,
+            "title": stop["city"], "dates": stop["dates"],
+            "url": stop["url"],
+        })
 
     return render(request, "guide/plan_detail.html", {
         "plan": plan,
@@ -845,10 +1026,37 @@ def plan_stop(request, slug, city_slug):
     if not stop:
         raise Http404
     markers = _stop_markers(stop)
+    city_page = load_page(stop["city_path"]) if stop.get("city_path") else None
+    # Fall back to city coords (from content or geocoded) if no POI markers
+    if not markers:
+        coords = _city_coords(stop)
+        if coords:
+            markers = [{
+                "lat": coords[0], "lng": coords[1],
+                "title": stop["city"],
+                "url": stop.get("destination_url") or "",
+            }]
+    city_snippet = None
+    city_image_url = None
+    if city_page:
+        # Use explicit snippet, or extract first non-empty paragraph from body
+        city_snippet = city_page.meta.get("snippet") or ""
+        if not city_snippet and city_page.body:
+            import re as _re
+            first_para = _re.split(r'\n\n+', city_page.body.strip())[0]
+            # Strip markdown markup for plain text display
+            first_para = _re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', first_para)
+            first_para = _re.sub(r'[*_`#>]+', '', first_para).strip()
+            city_snippet = first_para[:300] + ("…" if len(first_para) > 300 else "")
+        img = _image_path(city_page)
+        if img:
+            city_image_url = f"/content-image/{img}"
     return render(request, "guide/plan_stop.html", {
         "plan": plan,
         "stop": stop,
         "markers": mark_safe(json.dumps(markers)),
+        "city_snippet": city_snippet,
+        "city_image_url": city_image_url,
     })
 
 
@@ -885,8 +1093,13 @@ def _plan_file_add(slug, city_slug, poi_path):
         h2 = re.match(r'^##\s+(.+)$', line)
         if h2:
             heading = h2.group(1)
-            city = heading.split('|', 1)[0].strip().lower().replace(' ', '-')
-            in_section = (city == city_slug)
+            city_raw = heading.split('|', 1)[0].strip()
+            # Support both city names ("Palo Alto") and content paths ("northamerica/…")
+            if '/' in city_raw:
+                heading_slug = city_raw.split('/')[-1].replace('_', ' ').lower().replace(' ', '-')
+            else:
+                heading_slug = city_raw.lower().replace(' ', '-')
+            in_section = (heading_slug == city_slug)
             if in_section:
                 insert_at = i + 1  # default: right after heading
             continue
@@ -931,16 +1144,45 @@ def plan_poi_add(request, slug, city_slug=None):
     poi_path = request.POST.get('poi_path', '').strip()
     if poi_path:
         if city_slug is None:
-            # Auto-detect: find the stop whose city_slug appears in the poi path
+            # Auto-detect: find the stop whose city_path is a prefix of the poi path
             plan = _parse_plan(PLANS_DIR / f"{slug}.md")
             if plan:
                 for stop in plan["stops"]:
-                    if stop["city_slug"] in poi_path.replace('/', '-').lower() or stop["city_slug"] in poi_path.lower():
+                    cp = stop.get("city_path")
+                    if cp and poi_path.startswith(cp + "/"):
                         city_slug = stop["city_slug"]
                         break
+                # Fall back: match city_slug in poi path string
+                if city_slug is None:
+                    for stop in plan["stops"]:
+                        cs = stop["city_slug"].replace('-', '')
+                        if cs in poi_path.replace('/', '').replace('_', '').lower():
+                            city_slug = stop["city_slug"]
+                            break
         if city_slug:
             _plan_file_add(slug, city_slug, poi_path)
     return HttpResponseRedirect(request.POST.get('next', f'/plans/{slug}/'))
+
+
+@_require_plan_auth
+def plan_note_edit(request, slug, city_slug):
+    if request.method != 'POST':
+        raise Http404
+    old_text = request.POST.get('old_text', '').strip()
+    new_text = request.POST.get('new_text', '').strip()
+    if old_text and new_text and old_text != new_text:
+        import frontmatter as fm
+        path = PLANS_DIR / f"{slug}.md"
+        post = fm.load(path)
+        lines = post.content.splitlines()
+        new_lines = [
+            re.sub(r'^([-*]\s+)' + re.escape(old_text) + r'$', r'\g<1>' + new_text, l)
+            for l in lines
+        ]
+        post.content = '\n'.join(new_lines)
+        with open(path, 'wb') as fh:
+            fm.dump(post, fh)
+    return HttpResponseRedirect(request.POST.get('next', f'/plans/{slug}/{city_slug}/'))
 
 
 @_require_plan_auth

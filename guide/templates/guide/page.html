@@ -172,7 +172,17 @@
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
 {% if plan_stops and is_poi or plan_stops and sections %}
-<button class="plan-add-trigger" id="plan-add-trigger" aria-haspopup="dialog">+</button>
+{% with plans_with_poi=plan_stops|dictsort:"title" %}
+{% comment %}Collect plans that already contain this POI{% endcomment %}
+<div class="plan-poi-tags">
+  {% for plan in plan_stops %}
+    {% if page.path in plan.poi_paths %}
+    <a href="/plans/{{ plan.slug }}/" class="plan-poi-tag">{{ plan.title }}</a>
+    {% endif %}
+  {% endfor %}
+  <button class="plan-add-trigger" id="plan-add-trigger" aria-haspopup="dialog">+</button>
+</div>
+{% endwith %}
 <div class="plan-add-modal" id="plan-add-modal" role="dialog" aria-modal="true" hidden>
   <div class="plan-add-modal-inner">
     <div class="plan-add-modal-head">Add to trip</div>

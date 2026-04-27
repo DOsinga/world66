@@ -16,19 +16,21 @@
 
     <div class="plan-stops-list">
       {% for stop in plan.stops %}
-      <a href="{{ stop.url }}" class="plan-stop-card">
+      <div class="plan-stop-card" onclick="window.location='{{ stop.url }}'">
         <div class="plan-stop-card-body">
           <div class="plan-stop-city">{{ stop.city }}</div>
           {% if stop.dates %}<div class="plan-stop-dates">{{ stop.dates }}</div>{% endif %}
           <div class="plan-stop-count">{{ stop.items|length }} place{% if stop.items|length != 1 %}s{% endif %}</div>
+          {% for item in stop.items %}{% if not item.page and not item.external_url %}
+          <div class="plan-stop-note">{{ item.text }}</div>
+          {% endif %}{% endfor %}
         </div>
+        {% if stop.destination_url %}
         <div class="plan-stop-card-actions">
-          {% if stop.destination_url %}
-          <a href="{{ stop.destination_url }}" class="plan-stop-explore" title="Explore {{ stop.city }}" onclick="event.stopPropagation()">Explore</a>
-          {% endif %}
-          <span class="plan-stop-card-arrow">›</span>
+          <a href="{{ stop.destination_url }}" class="plan-stop-explore" onclick="event.stopPropagation()">Explore</a>
         </div>
-      </a>
+        {% endif %}
+      </div>
       {% endfor %}
     </div>
 
@@ -62,7 +64,7 @@
     L.polyline(stops.map(s => [s.lat, s.lng]), {color: W66_RED, weight: 2, opacity: 0.5, dashArray: '6,6'}).addTo(map);
     map.fitBounds(L.latLngBounds(stops.map(s => [s.lat, s.lng])).pad(0.2));
   } else if (stops.length === 1) {
-    map.setView([stops[0].lat, stops[0].lng], 12);
+    map.setView([stops[0].lat, stops[0].lng], 8);
   } else {
     map.setView([20, 0], 2);
   }

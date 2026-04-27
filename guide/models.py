@@ -207,6 +207,31 @@ class Page:
         return self.tagged_pois()
 
 
+def resolve_location_name(name):
+    """Find a location's content path by display name (e.g. "Palo Alto" → "northamerica/…/paloalto").
+
+    Slugifies the name (lowercase, strips spaces/hyphens) and searches the content
+    tree for a matching directory that belongs to a 'location' type page.
+    Returns the path string, or None if not found.
+    """
+    slug = name.lower().replace(" ", "").replace("-", "").replace("_", "")
+    # Search for a directory with that exact slug name
+    for candidate_dir in sorted(CONTENT_DIR.rglob(slug)):
+        if not candidate_dir.is_dir():
+            continue
+        rel = str(candidate_dir.relative_to(CONTENT_DIR))
+        page = load_page(rel)
+        if page and page.page_type == "location":
+            return rel
+    # Fall back: look for a .md file
+    for candidate_md in sorted(CONTENT_DIR.rglob(f"{slug}.md")):
+        rel = str(candidate_md.relative_to(CONTENT_DIR).with_suffix(""))
+        page = load_page(rel)
+        if page and page.page_type == "location":
+            return rel
+    return None
+
+
 def _find_city_path(path):
     """Return the path of the nearest ancestor page with type 'location'."""
     parts = path.split("/")

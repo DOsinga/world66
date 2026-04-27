@@ -4,22 +4,35 @@
 <div class="plan-list-page">
   <div class="plan-list-header">
     <h1>Travel Plans</h1>
-    <a href="/plans/new/" class="plan-new-btn">+ New trip</a>
+    <div class="plan-list-actions">
+      <a href="/plans/new/" class="plan-new-btn">+ New trip</a>
+      <button class="plan-new-btn plan-join-btn" type="button" onclick="document.getElementById('plan-join-modal').hidden=false;document.getElementById('plan-join-pw').focus()">Add existing trip</button>
+    </div>
   </div>
+
+  <div id="plan-join-modal" class="plan-join-modal" hidden>
+    <div class="plan-join-modal-box">
+      <h2>Add existing trip</h2>
+      <form method="post" action="/plans/join/">
+        {% csrf_token %}
+        {% if join_error %}<div class="plan-list-error">{{ join_error }}</div>{% endif %}
+        <label for="plan-join-pw">Passphrase</label>
+        <input type="password" id="plan-join-pw" name="password" placeholder="Enter passphrase" autocomplete="current-password">
+        <div class="plan-join-modal-actions">
+          <button type="submit">Unlock</button>
+          <button type="button" onclick="document.getElementById('plan-join-modal').hidden=true">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
   {% if plans %}
   <ul class="plan-list">
     {% for plan in plans %}
     <li>
-      {% if plan.locked %}
-      <a href="/auth/login/{{ plan.slug }}/?next=/plans/{{ plan.slug }}/" class="plan-list-link plan-list-locked">
-        <span class="plan-list-title">{{ plan.title }}</span>
-        <span class="plan-list-lock">🔒</span>
-      </a>
-      {% else %}
       <a href="/plans/{{ plan.slug }}/" class="plan-list-link">
         <span class="plan-list-title">{{ plan.title }}</span>
       </a>
-      {% endif %}
     </li>
     {% endfor %}
   </ul>
@@ -27,4 +40,7 @@
   <p class="plan-list-empty">No trips yet. Create your first one above.</p>
   {% endif %}
 </div>
+{% if join_error %}
+<script>document.getElementById('plan-join-modal').hidden = false;</script>
+{% endif %}
 {% endblock %}

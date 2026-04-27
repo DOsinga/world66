@@ -5,8 +5,14 @@
 {% block content %}
 <div class="plan-page">
 
+  <nav class="plan-breadcrumb">
+    <a href="/plans/">Trips</a>
+    <span class="plan-breadcrumb-sep">›</span>
+    <a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a>
+    <span class="plan-breadcrumb-sep">›</span>
+    <span>{{ stop.city }}</span>
+  </nav>
   <div class="plan-header">
-    <a href="/plans/{{ plan.slug }}/" class="plan-back">← {{ plan.title }}</a>
     <h1>{{ stop.city }}</h1>
     {% if stop.dates %}<div class="plan-stop-dates-large">{{ stop.dates }}</div>{% endif %}
   </div>
@@ -16,8 +22,17 @@
     <div id="plan-stop-map"></div>
 
     <div class="plan-poi-list">
+      {% if city_snippet or city_image_url %}
+      <div class="plan-city-intro">
+        {% if city_image_url %}<img src="{{ city_image_url }}" alt="{{ stop.city }}" class="plan-city-intro-image">{% endif %}
+        <div>
+          {% if city_snippet %}<p class="plan-city-intro-text">{{ city_snippet }}</p>{% endif %}
+          {% if stop.destination_url %}<a href="{{ stop.destination_url }}" class="plan-city-explore">Explore {{ stop.city }}</a>{% endif %}
+        </div>
+      </div>
+      {% endif %}
       {% for item in stop.items %}
-      <div class="plan-poi-card">
+      <div class="plan-poi-card{% if not item.page and not item.external_url %} plan-poi-card-note{% endif %}">
         {% if item.image_url %}
         <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
         {% endif %}
@@ -28,9 +43,18 @@
             <p class="plan-poi-snippet">{{ item.page.meta.snippet }}</p>
             {% endif %}
           {% elif item.external_url %}
-            <a class="plan-poi-title plan-poi-external" href="{{ item.external_url }}" target="_blank" rel="noopener">{{ item.external_url }}</a>
+            <a class="plan-external-link" href="{{ item.external_url }}" target="_blank" rel="noopener">
+              <span class="plan-external-label">{{ item.display_label }}</span>
+              <span class="plan-external-domain">{{ item.display_domain }} ↗</span>
+            </a>
           {% else %}
-            <span class="plan-poi-title plan-poi-note">{{ item.text }}</span>
+            <span class="plan-note-text" title="Click to edit">{{ item.text }}</span>
+            <form class="plan-note-edit-form" method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/note/" hidden>
+              {% csrf_token %}
+              <input type="hidden" name="old_text" value="{{ item.text }}">
+              <input type="hidden" name="next" value="{{ request.path }}">
+              <input type="text" name="new_text" class="plan-note-input" value="{{ item.text }}">
+            </form>
           {% endif %}
         </div>
         <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
@@ -44,6 +68,7 @@
     </div>
 
   </div>
+
 
 </div>
 
@@ -68,11 +93,33 @@
       .addTo(map);
   });
 
-  if (markers.length) {
+  if (markers.length > 1) {
     map.fitBounds(L.latLngBounds(markers.map(m => [m.lat, m.lng])).pad(0.25));
+  } else if (markers.length === 1) {
+    map.setView([markers[0].lat, markers[0].lng], 11);
   } else {
     map.setView([20, 0], 2);
   }
 })();
+</script>
+<script>
+document.querySelectorAll('.plan-note-text').forEach(function(span) {
+  span.addEventListener('click', function() {
+    var form = span.nextElementSibling;
+    span.hidden = true;
+    form.hidden = false;
+    var input = form.querySelector('.plan-note-input');
+    input.focus();
+    input.select();
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); form.submit(); }
+      if (e.key === 'Escape') { form.hidden = true; span.hidden = false; }
+    });
+    input.addEventListener('blur', function() {
+      if (input.value.trim() && input.value !== span.textContent) form.submit();
+      else { form.hidden = true; span.hidden = false; }
+    });
+  });
+});
 </script>
 {% endblock %}

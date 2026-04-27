@@ -2964,3 +2964,80 @@ img { max-width: 100%; height: auto; }
   margin: 0;
   line-height: 1.4;
 }
+
+/* ── Login ────────────────────────────────────────────────────────────────── */
+
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+  padding: 40px 24px;
+}
+.login-box {
+  width: 100%;
+  max-width: 360px;
+}
+.login-logo {
+  font-family: 'Fraunces', serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #c0392b;
+  margin-bottom: 16px;
+}
+.login-box h1 {
+  font-size: 1.5rem;
+  margin: 0 0 24px;
+}
+.login-box form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.login-box label {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #555;
+}
+.login-box input[type="password"] {
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+.login-box input[type="password"]:focus {
+  outline: none;
+  border-color: #c0392b;
+  box-shadow: 0 0 0 3px rgba(192,57,43,0.1);
+}
+.login-box button {
+  padding: 10px;
+  background: #c0392b;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 4px;
+}
+.login-box button:hover { background: #a93226; }
+.login-error {
+  padding: 10px 12px;
+  background: #fdf0ef;
+  border: 1px solid #e8b4b0;
+  border-radius: 6px;
+  color: #a93226;
+  font-size: 0.9rem;
+}
+
+.nav-plans-link, .nav-signout-link {
+  font-size: 0.85rem;
+  color: #666;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.nav-plans-link { margin-right: 4px; }
+.nav-plans-link:hover, .nav-signout-link:hover { color: #c0392b; }

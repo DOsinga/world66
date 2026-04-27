@@ -2,13 +2,40 @@ import json
 import re
 import sqlite3
 import subprocess
+from functools import wraps
 from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.http import FileResponse, Http404, JsonResponse
+from django.http import FileResponse, Http404, HttpResponseRedirect, JsonResponse
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
+
+
+def _require_auth(view_fn):
+    @wraps(view_fn)
+    def wrapper(request, *args, **kwargs):
+        if not request.session.get("authenticated"):
+            return HttpResponseRedirect(f"/auth/login/?next={request.path}")
+        return view_fn(request, *args, **kwargs)
+    return wrapper
+
+
+def auth_login(request):
+    error = None
+    next_url = request.GET.get("next", "/plans/")
+    if request.method == "POST":
+        next_url = request.POST.get("next", next_url)
+        if request.POST.get("password") == settings.PLAN_PASSWORD:
+            request.session["authenticated"] = True
+            return HttpResponseRedirect(next_url)
+        error = "Wrong password."
+    return render(request, "guide/login.html", {"error": error, "next": next_url})
+
+
+def auth_logout(request):
+    request.session.flush()
+    return HttpResponseRedirect("/")
 
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
@@ -627,6 +654,7 @@ def _stop_markers(stop):
     return markers
 
 
+@_require_auth
 def plan_list(request):
     import frontmatter as fm
     plans = []
@@ -636,6 +664,7 @@ def plan_list(request):
     return render(request, "guide/plan_list.html", {"plans": plans})
 
 
+@_require_auth
 def plan_detail(request, slug):
     plan = _parse_plan(PLANS_DIR / f"{slug}.md")
     if not plan:
@@ -660,6 +689,7 @@ def plan_detail(request, slug):
     })
 
 
+@_require_auth
 def plan_stop(request, slug, city_slug):
     plan = _parse_plan(PLANS_DIR / f"{slug}.md")
     if not plan:

@@ -1,0 +1,19 @@
+{% extends "guide/base.html" %}
+{% load static %}
+{% block title %}Sign in — World66{% endblock %}
+{% block content %}
+<div class="login-page">
+  <div class="login-box">
+    <div class="login-logo">World<span class="logo-dot"></span>66</div>
+    <h1>Sign in</h1>
+    <form method="post" action="/auth/login/">
+      {% csrf_token %}
+      <input type="hidden" name="next" value="{{ next }}">
+      {% if error %}<div class="login-error">{{ error }}</div>{% endif %}
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" autofocus autocomplete="current-password">
+      <button type="submit">Sign in</button>
+    </form>
+  </div>
+</div>
+{% endblock %}

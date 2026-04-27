@@ -2,9 +2,11 @@
 {% load static %}
 {% block title %}New trip — World66{% endblock %}
 {% block content %}
-<div class="login-page">
+<div class="tabbi-page login-page">
   <div class="login-box">
-    <div class="login-logo">World<span class="logo-dot"></span>66</div>
+    <div class="login-logo">
+      <img src="{% static 'plans/tabbi-logo.svg' %}" alt="Tab.bi" style="width:48px;height:48px;border-radius:50%;vertical-align:middle;margin-right:10px;">Tab<span class="logo-dot">.</span>bi
+    </div>
     <h1>New trip</h1>
     <form method="post" action="/plans/new/">
       {% csrf_token %}

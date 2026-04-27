@@ -1277,3 +1277,21 @@ body:has(.tabbi-page) {
   line-height: 1.6;
   margin: 0 0 28px;
 }
+
+.tabbi-empty-join {
+  margin-top: 16px;
+  font-size: 0.8rem;
+  color: #A6A6A6;
+}
+.tabbi-empty-join-btn {
+  background: none;
+  border: none;
+  color: #F4B028;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.15s;
+}
+.tabbi-empty-join-btn:hover { color: #d99b1a; }

@@ -20,6 +20,7 @@
     </div>
   </div>
 
+  {% if plans %}
   <div class="plan-list-header">
     <h1>My Trips</h1>
     <div class="plan-list-actions">
@@ -30,6 +31,7 @@
       <a href="/plans/new/" class="plan-list-action-btn">+ New trip</a>
     </div>
   </div>
+  {% endif %}
 
   {% if plans %}
   <div class="plan-cards">
@@ -135,6 +137,7 @@
     <h2 class="tabbi-empty-headline">No tabs yet? The world is waiting!</h2>
     <p class="tabbi-empty-sub">Our little friend has been collecting places to visit.<br>Time to steal some ideas and make them yours.</p>
     <a href="/plans/new/" class="tabbi-btn">+ Start your first trip</a>
+    <p class="tabbi-empty-join">Already have a trip? <button class="tabbi-empty-join-btn" type="button" onclick="document.getElementById('plan-join-modal').hidden=false;document.getElementById('plan-join-pw').focus()">Join with a passphrase →</button></p>
   </div>
   {% endif %}
 

@@ -623,6 +623,7 @@ body:has(.tabbi-page) {
   display: flex;
   gap: 12px;
   overflow-x: auto;
+  padding-top: 4px;
   padding-bottom: 8px;
   scrollbar-width: thin;
   scrollbar-color: #DCDCDC transparent;
@@ -1173,96 +1174,76 @@ body:has(.tabbi-page) {
   padding: 40px 0 60px;
 }
 
+/* Cityscape stage */
 .tabbi-empty-stage {
   position: relative;
-  width: 360px;
-  height: 280px;
+  width: 100%;
+  max-width: 600px;
+  height: 220px;
   margin: 0 auto 32px;
+  overflow: hidden;
+  border-radius: 20px;
+  background: linear-gradient(180deg, #F4B028 0%, #E8A020 100%);
 }
 
-/* Ghost character */
-.tabbi-ghost {
+/* Scrolling city track — two copies of buildings for seamless loop */
+.tabbi-cityscape {
   position: absolute;
   bottom: 0;
+  left: 0;
+  right: 0;
+  height: 160px;
+  overflow: hidden;
+}
+
+.tabbi-city-track {
+  display: flex;
+  width: max-content;
+  animation: tabbi-city-scroll 18s linear infinite;
+}
+
+@keyframes tabbi-city-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-900px); }
+}
+
+.tabbi-buildings {
+  width: 900px;
+  height: 160px;
+  flex-shrink: 0;
+}
+
+/* Strip all fills/strokes from building shapes — white outline only */
+.tabbi-buildings rect,
+.tabbi-buildings polygon,
+.tabbi-buildings ellipse,
+.tabbi-buildings circle,
+.tabbi-buildings path,
+.tabbi-buildings line {
+  fill: none;
+  stroke: rgba(255, 255, 255, 0.75);
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* Ghost floats above the city */
+.tabbi-ghost {
+  position: absolute;
+  bottom: 50px;
   left: 50%;
   transform: translateX(-50%);
   animation: tabbi-float 3s ease-in-out infinite;
+  z-index: 2;
+  filter: drop-shadow(0 8px 24px rgba(180, 90, 0, 0.35));
 }
-.tabbi-ghost-svg { width: 120px; height: 140px; }
+.tabbi-ghost-svg { width: 120px; height: 130px; }
 
 @keyframes tabbi-float {
   0%, 100% { transform: translateX(-50%) translateY(0); }
   50%       { transform: translateX(-50%) translateY(-14px); }
 }
 
-/* Shadow shrinks as ghost floats up */
-.tabbi-shadow {
-  animation: tabbi-shadow 3s ease-in-out infinite;
-  transform-origin: center;
-}
-@keyframes tabbi-shadow {
-  0%, 100% { rx: 28; opacity: 0.08; }
-  50%       { rx: 18; opacity: 0.04; }
-}
-
-/* Eyes track slightly */
-.tabbi-pupil--l { animation: tabbi-look 4s ease-in-out infinite; }
-.tabbi-pupil--r { animation: tabbi-look 4s ease-in-out infinite; }
-@keyframes tabbi-look {
-  0%, 40%, 100% { transform: translate(0, 0); }
-  50%            { transform: translate(2px, -1px); }
-  70%            { transform: translate(-1px, 1px); }
-}
-
-/* Tentacle wiggle */
-.tabbi-tentacle--1 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.0s; transform-origin: 28px 100px; }
-.tabbi-tentacle--2 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.2s; transform-origin: 42px 108px; }
-.tabbi-tentacle--3 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.4s; transform-origin: 58px 110px; }
-.tabbi-tentacle--4 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.6s; transform-origin: 74px 108px; }
-.tabbi-tentacle--5 { animation: tabbi-wiggle 2.4s ease-in-out infinite 0.8s; transform-origin: 88px 100px; }
-@keyframes tabbi-wiggle {
-  0%, 100% { transform: rotate(0deg); }
-  30%       { transform: rotate(8deg); }
-  70%       { transform: rotate(-8deg); }
-}
-
-/* Arm holding pin bobs with the float */
-.tabbi-arm { animation: tabbi-float 3s ease-in-out infinite; transform-origin: 96px 68px; }
-.tabbi-held-pin { animation: tabbi-pin-bob 3s ease-in-out infinite; transform-origin: 108px 30px; }
-@keyframes tabbi-pin-bob {
-  0%, 100% { transform: translateY(0) rotate(0deg); }
-  50%       { transform: translateY(-14px) rotate(8deg); }
-}
-
-/* Floating place pins around the ghost */
-.tabbi-pin {
-  position: absolute;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4px;
-}
-.tabbi-pin svg { width: 32px; height: 38px; filter: drop-shadow(0 4px 8px rgba(24,10,10,0.15)); }
-.tabbi-pin span {
-  font-family: 'Lexend Exa', sans-serif;
-  font-size: 0.65rem;
-  font-weight: 700;
-  color: #535050;
-  white-space: nowrap;
-}
-
-.tabbi-pin--1 { top: 20px;  left: 20px;  animation: tabbi-pin-drift 4s ease-in-out infinite 0.0s; }
-.tabbi-pin--2 { top: 10px;  right: 30px; animation: tabbi-pin-drift 4s ease-in-out infinite 0.7s; }
-.tabbi-pin--3 { top: 80px;  left: 10px;  animation: tabbi-pin-drift 4s ease-in-out infinite 1.4s; }
-.tabbi-pin--4 { top: 60px;  right: 10px; animation: tabbi-pin-drift 4s ease-in-out infinite 2.1s; }
-
-@keyframes tabbi-pin-drift {
-  0%   { transform: translateY(0)    rotate(-4deg); }
-  25%  { transform: translateY(-8px) rotate(4deg); }
-  50%  { transform: translateY(-4px) rotate(-2deg); }
-  75%  { transform: translateY(-10px) rotate(3deg); }
-  100% { transform: translateY(0)    rotate(-4deg); }
-}
 
 .tabbi-empty-headline {
   font-size: 1.4rem;

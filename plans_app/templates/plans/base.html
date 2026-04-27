@@ -5,6 +5,11 @@
 <link rel="stylesheet" href="{% static 'plans/css/tabbi.css' %}">
 {% endblock %}
 
+{% block head_extra %}
+<link rel="icon" type="image/svg+xml" href="{% static 'plans/tabbi-logo.svg' %}">
+<link rel="apple-touch-icon" href="{% static 'plans/tabbi-logo.svg' %}">
+{% endblock %}
+
 {% block topnav %}
 <nav class="tabbi-nav">
   <a href="/plans/" class="tabbi-nav-logo">

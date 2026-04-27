@@ -2901,14 +2901,16 @@ img { max-width: 100%; height: auto; }
   background: #c0392b;
   color: #fff;
   border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
   font-size: 12px;
   font-weight: 700;
+  line-height: 1;
   border: 2px solid #fff;
   box-shadow: 0 1px 4px rgba(0,0,0,0.3);
   cursor: pointer;
+  text-align: center;
 }
 
 /* Stop detail page: map + POI cards */
@@ -2932,12 +2934,13 @@ img { max-width: 100%; height: auto; }
 }
 .plan-poi-card {
   display: flex;
+  flex-direction: row-reverse;
   border: 1px solid #e8e8e8;
   border-radius: 8px;
   overflow: hidden;
 }
 .plan-poi-image {
-  width: 100px;
+  width: 110px;
   flex-shrink: 0;
   background-size: cover;
   background-position: center;

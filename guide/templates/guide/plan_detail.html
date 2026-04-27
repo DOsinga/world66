@@ -41,7 +41,7 @@
   stops.forEach(function(s, i) {
     const icon = L.divIcon({
       className: 'plan-stop-marker',
-      html: String(i + 1),
+      html: '<span style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;">' + (i+1) + '</span>',
       iconSize: [28, 28],
       iconAnchor: [14, 14],
     });

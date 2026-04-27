@@ -1152,3 +1152,16 @@ body:has(.tabbi-page) {
   font-weight: 700;
 }
 .tabbi-footer-w66:hover { color: #FFD966; }
+
+/* ── Passphrase in edit sidebar ──────────────────────────────────────────── */
+
+.plan-edit-passphrase {
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 2px solid #F7F7F7;
+}
+.plan-edit-passphrase-hint {
+  font-size: 0.75rem;
+  color: #A6A6A6;
+  margin: 4px 0 10px;
+}

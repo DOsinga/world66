@@ -26,6 +26,16 @@
     </form>
 
     <aside class="plan-edit-help">
+      {% if passphrase %}
+      <div class="plan-edit-passphrase">
+        <h3>Passphrase</h3>
+        <p class="plan-edit-passphrase-hint">Share this with friends so they can join your trip.</p>
+        <div class="plan-passphrase-box">
+          <span id="plan-pp-text">{{ passphrase }}</span>
+          <button class="plan-passphrase-copy" onclick="navigator.clipboard.writeText('{{ passphrase }}');this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',1500);return false">Copy</button>
+        </div>
+      </div>
+      {% endif %}
       <h3>Format</h3>
       <pre class="plan-edit-example">interests: food, art, hiking
 

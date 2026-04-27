@@ -470,7 +470,7 @@ def plan_new(request):
                         body_lines.append("")
                     body_lines.extend(city_headings)
                 body = "\n".join(body_lines)
-                post = fm.Post(body, title=title)
+                post = fm.Post(body, title=title, passphrase=passphrase)
                 with open(path, "wb") as fh:
                     fm.dump(post, fh)
                 _save_password(slug, passphrase)
@@ -637,6 +637,7 @@ def plan_edit(request, slug):
     return render(request, "plans/plan_edit.html", {
         "plan": {"slug": slug, "title": post.metadata.get("title", slug)},
         "body": post.content,
+        "passphrase": post.metadata.get("passphrase"),
     })
 
 

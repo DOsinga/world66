@@ -29,11 +29,7 @@
     </a>
     {% block breadcrumbs %}{% endblock %}
     <div class="nav-right">
-      {% if request.session.authenticated %}
-      <a href="/plans/" class="nav-plans-link">My Plans</a>
-      <a href="/auth/logout/" class="nav-signout-link">Sign out</a>
-      {% endif %}
-      <div class="site-search-wrap">
+<div class="site-search-wrap">
         <form class="site-search" action="/search" method="get" role="search">
           <input type="search" name="q" placeholder="Search destinations&hellip;" value="{{ request.GET.q|default:'' }}" autocomplete="off" aria-label="Search destinations">
           <button type="submit" aria-label="Search">&#128269;</button>

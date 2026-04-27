@@ -28,3 +28,4 @@ clean
 design/
 /plans/*.md
 plans/.password
+plans/.passwords.json

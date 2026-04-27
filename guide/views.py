@@ -14,7 +14,7 @@ from django.http import FileResponse, Http404, HttpResponseRedirect, JsonRespons
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
 
-_PASSWORD_FILE = Path(settings.BASE_DIR) / "plans" / ".password"
+_PASSWORDS_FILE = Path(settings.BASE_DIR) / "plans" / ".passwords.json"
 
 
 def _hash_password(password, salt=None):
@@ -29,24 +29,48 @@ def _check_password(password, stored):
     return secrets.compare_digest(_hash_password(password, salt), stored)
 
 
-def _password_is_set():
-    return _PASSWORD_FILE.is_file()
+def _load_passwords():
+    if not _PASSWORDS_FILE.is_file():
+        return {}
+    return json.loads(_PASSWORDS_FILE.read_text())
 
 
-def _require_auth(view_fn):
+def _save_password(slug, password):
+    data = _load_passwords()
+    data[slug] = _hash_password(password)
+    _PASSWORDS_FILE.write_text(json.dumps(data))
+
+
+def _plan_authenticated(request, slug):
+    return slug in request.session.get("authenticated_plans", [])
+
+
+def _mark_plan_authenticated(request, slug):
+    plans = request.session.get("authenticated_plans", [])
+    if slug not in plans:
+        plans = plans + [slug]
+        request.session["authenticated_plans"] = plans
+
+
+def _require_plan_auth(view_fn):
     @wraps(view_fn)
-    def wrapper(request, *args, **kwargs):
-        if not _password_is_set():
-            return HttpResponseRedirect("/auth/signup/")
-        if not request.session.get("authenticated"):
-            return HttpResponseRedirect(f"/auth/login/?next={request.path}")
-        return view_fn(request, *args, **kwargs)
+    def wrapper(request, slug, *args, **kwargs):
+        passwords = _load_passwords()
+        if slug not in passwords:
+            return HttpResponseRedirect(f"/auth/signup/{slug}/")
+        if not _plan_authenticated(request, slug):
+            return HttpResponseRedirect(f"/auth/login/{slug}/?next={request.path}")
+        return view_fn(request, slug, *args, **kwargs)
     return wrapper
 
 
-def auth_signup(request):
-    if _password_is_set():
-        return HttpResponseRedirect("/auth/login/")
+def auth_signup(request, slug):
+    passwords = _load_passwords()
+    if slug in passwords:
+        return HttpResponseRedirect(f"/auth/login/{slug}/")
+    # Check the plan actually exists
+    if not (Path(settings.BASE_DIR) / "plans" / f"{slug}.md").is_file():
+        raise Http404
     error = None
     if request.method == "POST":
         pw = request.POST.get("password", "")
@@ -56,30 +80,40 @@ def auth_signup(request):
         elif pw != pw2:
             error = "Passwords don't match."
         else:
-            _PASSWORD_FILE.write_text(_hash_password(pw))
-            request.session["authenticated"] = True
-            return HttpResponseRedirect("/plans/")
-    return render(request, "guide/signup.html", {"error": error})
+            _save_password(slug, pw)
+            _mark_plan_authenticated(request, slug)
+            return HttpResponseRedirect(f"/plans/{slug}/")
+    plan_title = _plan_title(slug)
+    return render(request, "guide/signup.html", {"error": error, "slug": slug, "plan_title": plan_title})
 
 
-def auth_login(request):
-    if not _password_is_set():
-        return HttpResponseRedirect("/auth/signup/")
+def auth_login(request, slug):
+    passwords = _load_passwords()
+    if slug not in passwords:
+        return HttpResponseRedirect(f"/auth/signup/{slug}/")
     error = None
-    next_url = request.GET.get("next", "/plans/")
+    next_url = request.GET.get("next", f"/plans/{slug}/")
     if request.method == "POST":
         next_url = request.POST.get("next", next_url)
-        stored = _PASSWORD_FILE.read_text().strip()
-        if _check_password(request.POST.get("password", ""), stored):
-            request.session["authenticated"] = True
+        if _check_password(request.POST.get("password", ""), passwords[slug]):
+            _mark_plan_authenticated(request, slug)
             return HttpResponseRedirect(next_url)
         error = "Wrong password."
-    return render(request, "guide/login.html", {"error": error, "next": next_url})
+    plan_title = _plan_title(slug)
+    return render(request, "guide/login.html", {"error": error, "next": next_url, "slug": slug, "plan_title": plan_title})
 
 
 def auth_logout(request):
     request.session.flush()
     return HttpResponseRedirect("/")
+
+
+def _plan_title(slug):
+    import frontmatter as fm
+    path = Path(settings.BASE_DIR) / "plans" / f"{slug}.md"
+    if not path.is_file():
+        return slug
+    return fm.load(path).metadata.get("title", slug)
 
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
@@ -698,7 +732,6 @@ def _stop_markers(stop):
     return markers
 
 
-@_require_auth
 def plan_list(request):
     import frontmatter as fm
     plans = []
@@ -708,7 +741,7 @@ def plan_list(request):
     return render(request, "guide/plan_list.html", {"plans": plans})
 
 
-@_require_auth
+@_require_plan_auth
 def plan_detail(request, slug):
     plan = _parse_plan(PLANS_DIR / f"{slug}.md")
     if not plan:
@@ -733,7 +766,7 @@ def plan_detail(request, slug):
     })
 
 
-@_require_auth
+@_require_plan_auth
 def plan_stop(request, slug, city_slug):
     plan = _parse_plan(PLANS_DIR / f"{slug}.md")
     if not plan:

@@ -1,12 +1,12 @@
 {% extends "guide/base.html" %}
-{% block title %}Choose your passphrase — World66{% endblock %}
+{% block title %}Set passphrase — {{ plan_title }} — World66{% endblock %}
 {% block content %}
 <div class="login-page">
   <div class="login-box">
     <div class="login-logo">World<span class="logo-dot"></span>66</div>
-    <h1>Choose your passphrase</h1>
-    <p class="login-intro">This is your personal World66. Pick a passphrase to protect your travel plans.</p>
-    <form method="post" action="/auth/signup/">
+    <h1>{{ plan_title }}</h1>
+    <p class="login-intro">Choose a passphrase to protect this plan.</p>
+    <form method="post" action="/auth/signup/{{ slug }}/">
       {% csrf_token %}
       {% if error %}<div class="login-error">{{ error }}</div>{% endif %}
       <label for="password">Passphrase</label>

@@ -108,6 +108,20 @@ def auth_logout(request):
     return HttpResponseRedirect("/")
 
 
+def _authenticated_plan_stops(request):
+    """Return list of {plan_slug, plan_title, stops:[{city, city_slug, url}]} for authenticated plans."""
+    result = []
+    for slug in request.session.get("authenticated_plans", []):
+        plan = _parse_plan(PLANS_DIR / f"{slug}.md")
+        if plan:
+            result.append({
+                "slug": slug,
+                "title": plan["title"],
+                "stops": [{"city": s["city"], "city_slug": s["city_slug"], "url": s["url"]} for s in plan["stops"]],
+            })
+    return result
+
+
 def _plan_title(slug):
     import frontmatter as fm
     path = Path(settings.BASE_DIR) / "plans" / f"{slug}.md"
@@ -394,6 +408,7 @@ def location_or_section(request, path):
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
+        "plan_stops": _authenticated_plan_stops(request),
     })
 
 
@@ -780,3 +795,75 @@ def plan_stop(request, slug, city_slug):
         "stop": stop,
         "markers": mark_safe(json.dumps(markers)),
     })
+
+
+def _plan_file_add(slug, city_slug, poi_path):
+    """Add poi_path as a bullet under the matching city heading."""
+    path = PLANS_DIR / f"{slug}.md"
+    import frontmatter as fm
+    post = fm.load(path)
+    lines = post.content.splitlines()
+    # Find the city heading and the end of its bullet block
+    insert_at = None
+    in_section = False
+    for i, line in enumerate(lines):
+        h2 = re.match(r'^##\s+(.+)$', line)
+        if h2:
+            heading = h2.group(1)
+            city = heading.split('|', 1)[0].strip().lower().replace(' ', '-')
+            in_section = (city == city_slug)
+            if in_section:
+                insert_at = i + 1  # default: right after heading
+            continue
+        if in_section:
+            if re.match(r'^[-*]\s+', line):
+                insert_at = i + 1  # keep advancing to end of bullets
+            elif line.strip() == '':
+                pass  # skip blank lines within section
+            else:
+                break  # hit something else, stop
+    if insert_at is None:
+        return False
+    # Check not already present
+    if any(l.strip().lstrip('-* ') == poi_path for l in lines):
+        return False
+    lines.insert(insert_at, f'- {poi_path}')
+    post.content = '\n'.join(lines)
+    with open(path, 'wb') as fh:
+        fm.dump(post, fh)
+    return True
+
+
+def _plan_file_remove(slug, poi_path):
+    """Remove the bullet line for poi_path from the plan."""
+    path = PLANS_DIR / f"{slug}.md"
+    import frontmatter as fm
+    post = fm.load(path)
+    lines = post.content.splitlines()
+    new_lines = [l for l in lines if l.strip().lstrip('-* ') != poi_path]
+    if len(new_lines) == len(lines):
+        return False
+    post.content = '\n'.join(new_lines)
+    with open(path, 'wb') as fh:
+        fm.dump(post, fh)
+    return True
+
+
+@_require_plan_auth
+def plan_poi_add(request, slug, city_slug):
+    if request.method != 'POST':
+        raise Http404
+    poi_path = request.POST.get('poi_path', '').strip()
+    if poi_path:
+        _plan_file_add(slug, city_slug, poi_path)
+    return HttpResponseRedirect(request.POST.get('next', f'/plans/{slug}/{city_slug}/'))
+
+
+@_require_plan_auth
+def plan_poi_remove(request, slug, city_slug):
+    if request.method != 'POST':
+        raise Http404
+    poi_path = request.POST.get('poi_path', '').strip()
+    if poi_path:
+        _plan_file_remove(slug, poi_path)
+    return HttpResponseRedirect(request.POST.get('next', f'/plans/{slug}/{city_slug}/'))

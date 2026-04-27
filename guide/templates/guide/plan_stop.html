@@ -31,6 +31,12 @@
             <span class="plan-poi-title">{{ item.text }}</span>
           {% endif %}
         </div>
+        <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
+          {% csrf_token %}
+          <input type="hidden" name="poi_path" value="{{ item.text }}">
+          <input type="hidden" name="next" value="{{ request.path }}">
+          <button type="submit" class="plan-remove-btn" title="Remove from plan">−</button>
+        </form>
       </div>
       {% endfor %}
     </div>

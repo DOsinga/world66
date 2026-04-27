@@ -3103,3 +3103,48 @@ img { max-width: 100%; height: auto; }
   font-size: 0.9rem;
 }
 
+
+/* ── Plan add/remove buttons ─────────────────────────────────────────────── */
+
+.plan-add-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 20px;
+}
+.plan-add-form, .plan-remove-form { margin: 0; }
+.plan-add-btn {
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 5px 12px;
+  border: 1.5px solid #c0392b;
+  border-radius: 20px;
+  color: #c0392b;
+  background: transparent;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s;
+}
+.plan-add-btn:hover {
+  background: #c0392b;
+  color: #fff;
+}
+.plan-remove-btn {
+  align-self: stretch;
+  width: 36px;
+  flex-shrink: 0;
+  background: transparent;
+  border: none;
+  border-left: 1px solid #eee;
+  font-size: 1.3rem;
+  color: #ccc;
+  cursor: pointer;
+  transition: color 0.15s, background 0.15s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.plan-remove-btn:hover {
+  color: #c0392b;
+  background: #fdf0ef;
+}

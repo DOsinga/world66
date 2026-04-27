@@ -171,6 +171,21 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
+{% if plan_stops %}
+<div class="plan-add-bar">
+  {% for plan in plan_stops %}
+  {% for stop in plan.stops %}
+  <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/add/" class="plan-add-form">
+    {% csrf_token %}
+    <input type="hidden" name="poi_path" value="{{ page.path }}">
+    <input type="hidden" name="next" value="{{ request.path }}">
+    <button type="submit" class="plan-add-btn" title="Add to {{ stop.city }} ({{ plan.title }})">+ {{ stop.city }}</button>
+  </form>
+  {% endfor %}
+  {% endfor %}
+</div>
+{% endif %}
+
 {% if page.page_type == "vibe" %}
 <div class="vibe-header">
   {% for t in vibe_time_slots %}<span class="vibe-header-tag">{{ t|capfirst }}</span>{% endfor %}

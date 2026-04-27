@@ -2995,12 +2995,12 @@ img { max-width: 100%; height: auto; }
 /* Stop detail page: map + POI cards */
 .plan-stop-layout {
   display: grid;
-  grid-template-columns: 1fr 340px;
+  grid-template-columns: 1fr 1fr;
   gap: 24px;
   align-items: start;
 }
 #plan-stop-map {
-  height: 520px;
+  height: 600px;
   border-radius: 8px;
   border: 1px solid #e0e0e0;
   position: sticky;
@@ -3010,6 +3010,8 @@ img { max-width: 100%; height: auto; }
   display: flex;
   flex-direction: column;
   gap: 12px;
+  max-height: 600px;
+  overflow-y: auto;
 }
 .plan-poi-card {
   display: flex;

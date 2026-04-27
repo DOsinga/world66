@@ -22,7 +22,12 @@
           {% if stop.dates %}<div class="plan-stop-dates">{{ stop.dates }}</div>{% endif %}
           <div class="plan-stop-count">{{ stop.items|length }} place{% if stop.items|length != 1 %}s{% endif %}</div>
         </div>
-        <div class="plan-stop-card-arrow">›</div>
+        <div class="plan-stop-card-actions">
+          {% if stop.destination_url %}
+          <a href="{{ stop.destination_url }}" class="plan-stop-explore" title="Explore {{ stop.city }}" onclick="event.stopPropagation()">Explore</a>
+          {% endif %}
+          <span class="plan-stop-card-arrow">›</span>
+        </div>
       </a>
       {% endfor %}
     </div>

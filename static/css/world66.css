@@ -2969,10 +2969,30 @@ img { max-width: 100%; height: auto; }
   color: #aaa;
   margin-top: 2px;
 }
+.plan-stop-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+.plan-stop-explore {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #888;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 3px 9px;
+  white-space: nowrap;
+  transition: border-color 0.15s, color 0.15s;
+}
+.plan-stop-card:hover .plan-stop-explore {
+  border-color: #c0392b;
+  color: #c0392b;
+}
 .plan-stop-card-arrow {
   font-size: 1.4rem;
   color: #ccc;
-  margin-left: 8px;
 }
 
 /* Numbered stop markers on map */

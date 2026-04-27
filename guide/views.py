@@ -739,6 +739,16 @@ def _parse_stops(body, plan_slug):
                 "external_url": external_url,
                 "image_url": image_url,
             })
+
+    # Derive destination URL from the parent path of the first internal POI
+    for stop in stops:
+        dest_url = None
+        for item in stop["items"]:
+            if item["page"] and "/" in item["page"].path:
+                dest_url = "/" + item["page"].path.rsplit("/", 1)[0]
+                break
+        stop["destination_url"] = dest_url
+
     return stops
 
 

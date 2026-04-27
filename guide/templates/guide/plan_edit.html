@@ -3,8 +3,14 @@
 {% block content %}
 <div class="plan-page plan-edit-page">
 
+  <nav class="plan-breadcrumb">
+    <a href="/plans/">Trips</a>
+    <span class="plan-breadcrumb-sep">›</span>
+    <a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a>
+    <span class="plan-breadcrumb-sep">›</span>
+    <span>Edit</span>
+  </nav>
   <div class="plan-header">
-    <a href="/plans/{{ plan.slug }}/" class="plan-back">← {{ plan.title }}</a>
     <h1>Edit plan</h1>
   </div>
 
@@ -20,16 +26,18 @@
 
     <aside class="plan-edit-help">
       <h3>Format</h3>
-      <pre class="plan-edit-example">## Hamburg | July 25–30
-- europe/germany/hamburg/speicherstadt
+      <pre class="plan-edit-example">interests: food, art, hiking
+
+## Hamburg | July 25–30
+- Speicherstadt
 - https://www.elbphilharmonie.de
 
 ## Palo Alto | May 1–4
-- northamerica/unitedstates/california/paloalto/university_avenue
 - Any free text note</pre>
       <ul class="plan-edit-hints">
-        <li><strong>## City Name | Dates</strong> — new destination (city resolved by name)</li>
-        <li><strong>content path</strong> — links to a World66 page</li>
+        <li><strong>interests: …</strong> — comma-separated interests for suggestions</li>
+        <li><strong>## City Name | Dates</strong> — new destination</li>
+        <li><strong>POI name or path</strong> — matched to World66 page</li>
         <li><strong>https://…</strong> — external link</li>
         <li><strong>free text</strong> — shown as a plain note</li>
       </ul>

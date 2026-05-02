@@ -3,7 +3,7 @@ title: De Flint Amersfoort
 poi: europe/netherlands/amersfoort
 url: https://www.deflint.nl/agenda
 interval_days: 7
-last_checked: null
+last_checked: 2026-05-02
 ---
 De Flint is Amersfoort's main theatre and event venue, hosting musicals,
 cabaret, concerts, dance and stand-up comedy.

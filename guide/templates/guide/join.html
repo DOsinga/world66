@@ -1,0 +1,545 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}Contribute to World66 — Help Build the World's Best Travel Guide{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+
+  /* ── Hero ──────────────────────────────────────────── */
+  .join-hero {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 100px 40px 80px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .join-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 60% at 50% 120%, rgba(184,83,43,0.35) 0%, transparent 70%),
+      radial-gradient(ellipse 60% 40% at 20% 0%, rgba(184,83,43,0.12) 0%, transparent 60%);
+    pointer-events: none;
+  }
+  .join-hero-inner {
+    position: relative;
+    max-width: 780px;
+    margin: 0 auto;
+  }
+  .join-hero-eyebrow {
+    display: inline-block;
+    font-family: var(--label-font);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid rgba(184,83,43,0.4);
+    border-radius: 20px;
+    padding: 5px 14px;
+    margin-bottom: 28px;
+  }
+  .join-hero-title {
+    font-family: var(--display-font);
+    font-size: clamp(40px, 5.5vw, 72px);
+    font-weight: 300;
+    line-height: 1.05;
+    letter-spacing: -0.03em;
+    font-variation-settings: "opsz" 72;
+    color: var(--paper);
+    margin-bottom: 24px;
+  }
+  .join-hero-title em {
+    font-style: italic;
+    color: #e8a07a;
+  }
+  .join-hero-sub {
+    font-size: 19px;
+    line-height: 1.6;
+    color: rgba(243,238,228,0.72);
+    max-width: 580px;
+    margin: 0 auto 40px;
+  }
+  .join-hero-cta {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--paper);
+    font-family: var(--label-font);
+    font-size: 15px;
+    font-weight: 600;
+    padding: 14px 32px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.15s, transform 0.1s;
+    box-shadow: 0 4px 20px rgba(184,83,43,0.4);
+  }
+  .join-hero-cta:hover {
+    background: #a04620;
+    color: var(--paper);
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  /* ── Why section ───────────────────────────────────── */
+  .join-section {
+    padding: 80px 40px;
+  }
+  .join-section-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .join-section-label {
+    font-family: var(--label-font);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 14px;
+  }
+  .join-section-title {
+    font-family: var(--display-font);
+    font-size: clamp(28px, 3.5vw, 46px);
+    font-weight: 300;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    font-variation-settings: "opsz" 48;
+    color: var(--ink);
+    margin-bottom: 20px;
+    max-width: 700px;
+  }
+  .join-section-lead {
+    font-size: 18px;
+    line-height: 1.65;
+    color: var(--mute);
+    max-width: 640px;
+    margin-bottom: 56px;
+  }
+
+  /* ── Three pillars ─────────────────────────────────── */
+  .join-pillars {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 80px;
+  }
+  .join-pillar {
+    background: var(--paper);
+    padding: 36px 32px;
+  }
+  .join-pillar-icon {
+    font-size: 28px;
+    margin-bottom: 16px;
+    display: block;
+  }
+  .join-pillar-title {
+    font-family: var(--display-font);
+    font-size: 20px;
+    font-weight: 500;
+    font-variation-settings: "opsz" 20;
+    margin-bottom: 10px;
+    color: var(--ink);
+  }
+  .join-pillar-body {
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--mute);
+  }
+
+  /* ── Problem / contrast block ──────────────────────── */
+  .join-contrast {
+    background: var(--paper-2);
+    border-radius: 16px;
+    padding: 48px 56px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    align-items: start;
+    margin-bottom: 80px;
+  }
+  .join-contrast-col h3 {
+    font-family: var(--display-font);
+    font-size: 18px;
+    font-weight: 600;
+    font-variation-settings: "opsz" 18;
+    margin-bottom: 16px;
+  }
+  .join-contrast-col.bad h3 { color: var(--mute); }
+  .join-contrast-col.good h3 { color: var(--accent-ink); }
+  .join-contrast-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .join-contrast-list li {
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--ink);
+    padding: 8px 0;
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+  }
+  .join-contrast-list li:last-child { border-bottom: none; }
+  .join-contrast-list li::before {
+    flex-shrink: 0;
+    font-size: 13px;
+  }
+  .bad .join-contrast-list li::before { content: '✕'; color: #999; }
+  .good .join-contrast-list li::before { content: '✓'; color: var(--accent); font-weight: 700; }
+
+  /* ── How AI helps ──────────────────────────────────── */
+  .join-ai-section {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 80px 40px;
+  }
+  .join-ai-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .join-ai-label {
+    font-family: var(--label-font);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 14px;
+  }
+  .join-ai-title {
+    font-family: var(--display-font);
+    font-size: clamp(26px, 3vw, 42px);
+    font-weight: 300;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    font-variation-settings: "opsz" 42;
+    color: var(--paper);
+    margin-bottom: 16px;
+    max-width: 680px;
+  }
+  .join-ai-sub {
+    font-size: 17px;
+    line-height: 1.65;
+    color: rgba(243,238,228,0.65);
+    max-width: 600px;
+    margin-bottom: 52px;
+  }
+  .join-ai-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .join-ai-card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 10px;
+    padding: 28px 24px;
+  }
+  .join-ai-card-title {
+    font-family: var(--label-font);
+    font-size: 13px;
+    font-weight: 600;
+    color: #e8a07a;
+    margin-bottom: 8px;
+    letter-spacing: 0.02em;
+  }
+  .join-ai-card-body {
+    font-size: 14px;
+    line-height: 1.6;
+    color: rgba(243,238,228,0.65);
+  }
+
+  /* ── Steps ─────────────────────────────────────────── */
+  .join-steps-section {
+    padding: 80px 40px;
+    background: var(--paper);
+  }
+  .join-steps-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .join-steps {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px 64px;
+    counter-reset: steps;
+    margin-top: 48px;
+  }
+  .join-step {
+    counter-increment: steps;
+    position: relative;
+    padding-left: 56px;
+  }
+  .join-step::before {
+    content: counter(steps);
+    position: absolute;
+    left: 0;
+    top: 2px;
+    width: 36px;
+    height: 36px;
+    background: var(--accent);
+    color: var(--paper);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--display-font);
+    font-size: 16px;
+    font-weight: 500;
+    font-variation-settings: "opsz" 16;
+    flex-shrink: 0;
+  }
+  .join-step-title {
+    font-family: var(--display-font);
+    font-size: 19px;
+    font-weight: 500;
+    font-variation-settings: "opsz" 19;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+  .join-step-body {
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--mute);
+  }
+  .join-step-body code {
+    background: var(--paper-2);
+    border: 1px solid var(--line-2);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 13px;
+    color: var(--accent-ink);
+  }
+  .join-step-body a {
+    color: var(--accent-ink);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  /* ── Final CTA ─────────────────────────────────────── */
+  .join-final {
+    background: var(--paper-3);
+    padding: 80px 40px;
+    text-align: center;
+  }
+  .join-final-inner {
+    max-width: 620px;
+    margin: 0 auto;
+  }
+  .join-final-title {
+    font-family: var(--display-font);
+    font-size: clamp(28px, 3.5vw, 46px);
+    font-weight: 300;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    font-variation-settings: "opsz" 46;
+    color: var(--ink);
+    margin-bottom: 16px;
+  }
+  .join-final-sub {
+    font-size: 17px;
+    line-height: 1.6;
+    color: var(--mute);
+    margin-bottom: 36px;
+  }
+  .join-final-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .join-btn-primary {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--paper);
+    font-family: var(--label-font);
+    font-size: 15px;
+    font-weight: 600;
+    padding: 13px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.15s;
+    box-shadow: 0 4px 16px rgba(184,83,43,0.3);
+  }
+  .join-btn-primary:hover {
+    background: #a04620;
+    color: var(--paper);
+    text-decoration: none;
+  }
+  .join-btn-secondary {
+    display: inline-block;
+    background: transparent;
+    color: var(--ink);
+    font-family: var(--label-font);
+    font-size: 15px;
+    font-weight: 500;
+    padding: 13px 28px;
+    border-radius: 8px;
+    border: 1.5px solid var(--line-2);
+    text-decoration: none;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .join-btn-secondary:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  /* ── Responsive ─────────────────────────────────────── */
+  @media (max-width: 900px) {
+    .join-hero { padding: 64px 24px 56px; }
+    .join-section { padding: 56px 24px; }
+    .join-pillars { grid-template-columns: 1fr; }
+    .join-contrast { grid-template-columns: 1fr; padding: 32px 24px; gap: 32px; }
+    .join-ai-section { padding: 56px 24px; }
+    .join-ai-grid { grid-template-columns: 1fr; gap: 16px; }
+    .join-steps-section { padding: 56px 24px; }
+    .join-steps { grid-template-columns: 1fr; gap: 36px; }
+    .join-final { padding: 56px 24px; }
+  }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+
+<!-- Hero -->
+<div class="join-hero">
+  <div class="join-hero-inner">
+    <span class="join-hero-eyebrow">Open since 1998 · Now with AI</span>
+    <h1 class="join-hero-title">The best travel guide<br>is written by <em>people who<br>actually go there.</em></h1>
+    <p class="join-hero-sub">AI can summarise the internet. It can't tell you about the back table at that café in Oaxaca, or why you should skip the famous viewpoint and take the road one block west. That's yours to give.</p>
+    <a href="#how-to-contribute" class="join-hero-cta">Start contributing</a>
+  </div>
+</div>
+
+<!-- Why human + AI -->
+<div class="join-section">
+  <div class="join-section-inner">
+    <div class="join-section-label">Why World66</div>
+    <h2 class="join-section-title">In the age of AI, human knowledge matters more — not less.</h2>
+    <p class="join-section-lead">Every LLM was trained on the same web. They all produce the same advice. The only way to be different is to know something real. World66 is built on that difference.</p>
+
+    <div class="join-pillars">
+      <div class="join-pillar">
+        <span class="join-pillar-icon">🧠</span>
+        <div class="join-pillar-title">You bring the knowledge</div>
+        <p class="join-pillar-body">You've been there. You know which neighbourhood to stay in, which market to avoid, and what's worth the detour. That can't be generated.</p>
+      </div>
+      <div class="join-pillar">
+        <span class="join-pillar-icon">🤖</span>
+        <div class="join-pillar-title">AI does the heavy lifting</div>
+        <p class="join-pillar-body">Claude Code acts as your co-author: it researches facts, formats content, finds opening hours, and sends PRs — so you can focus on what only you know.</p>
+      </div>
+      <div class="join-pillar">
+        <span class="join-pillar-icon">🌍</span>
+        <div class="join-pillar-title">Together we build something new</div>
+        <p class="join-pillar-body">The result is a living guide: constantly updated, deeply human, and built by people who actually care about the places they write about.</p>
+      </div>
+    </div>
+
+    <div class="join-contrast">
+      <div class="join-contrast-col bad">
+        <h3>Pure AI travel content</h3>
+        <ul class="join-contrast-list">
+          <li>Generic advice synthesised from millions of identical sources</li>
+          <li>Confident hallucinations about places that have closed or never existed</li>
+          <li>No point of view — no one is responsible for being wrong</li>
+          <li>Optimised for search rankings, not for the traveller reading it</li>
+        </ul>
+      </div>
+      <div class="join-contrast-col good">
+        <h3>World66 — human + AI</h3>
+        <ul class="join-contrast-list">
+          <li>Local and traveller knowledge that isn't anywhere else online</li>
+          <li>Verified by people who have walked the streets, not scraped them</li>
+          <li>Opinionated — someone stands behind every recommendation</li>
+          <li>AI handles research and formatting; humans handle truth and taste</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- How AI helps -->
+<div class="join-ai-section">
+  <div class="join-ai-inner">
+    <div class="join-ai-label">Agentic AI</div>
+    <h2 class="join-ai-title">One person with an AI agent can do more than a team could in 2010.</h2>
+    <p class="join-ai-sub">We use Claude Code as an agentic co-author. It can browse sources, write descriptions, geocode venues, and submit pull requests. You point it at a city; it does the groundwork.</p>
+    <div class="join-ai-grid">
+      <div class="join-ai-card">
+        <div class="join-ai-card-title">Research at scale</div>
+        <p class="join-ai-card-body">The agent finds event listings, exhibition schedules, venue details, and local sources — across dozens of cities simultaneously.</p>
+      </div>
+      <div class="join-ai-card">
+        <div class="join-ai-card-title">Consistent formatting</div>
+        <p class="join-ai-card-body">Every page follows the same structure: YAML frontmatter, markdown body, standardised categories. The agent enforces it so you don't have to.</p>
+      </div>
+      <div class="join-ai-card">
+        <div class="join-ai-card-title">You stay in control</div>
+        <p class="join-ai-card-body">Everything goes through Git and pull requests. You review what the agent produced, edit anything that feels wrong, and merge when it's right.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- How to contribute -->
+<div class="join-steps-section" id="how-to-contribute">
+  <div class="join-steps-inner">
+    <div class="join-section-label">How to contribute</div>
+    <h2 class="join-section-title">From zero to your first contribution in an afternoon.</h2>
+    <p class="join-section-lead">The full workflow runs through Git and GitHub. You write markdown, AI helps where useful, and everything is reviewed before it goes live.</p>
+
+    <div class="join-steps">
+      <div class="join-step">
+        <div class="join-step-title">Fork and clone the repo</div>
+        <p class="join-step-body">Head to <a href="https://github.com/DOsinga/world66" target="_blank" rel="noopener">github.com/DOsinga/world66</a>, fork it, and clone your fork locally. All content lives in the <code>content/</code> folder as plain markdown files.</p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Pick a place you know</div>
+        <p class="join-step-body">Find the city, neighbourhood, or point of interest in <code>content/</code>. If it doesn't exist yet, create it. The folder structure mirrors the world: <code>content/europe/netherlands/amsterdam/</code></p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Read CLAUDE.md and STYLE.md</div>
+        <p class="join-step-body">These two files explain exactly how pages should be structured and how to write in the World66 voice. Read them once and you'll know what good looks like.</p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Write or improve the content</div>
+        <p class="join-step-body">Edit the markdown directly, or open the repo in <a href="https://claude.ai/code" target="_blank" rel="noopener">Claude Code</a> and ask it to help. It knows the style guide and can draft, research, and format for you.</p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Run the site locally to preview</div>
+        <p class="join-step-body">Install dependencies with <code>pip install -r requirements.txt</code>, then run <code>python manage.py runserver 8066</code>. Visit <code>localhost:8066</code> to see exactly how your changes will look.</p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Submit a pull request</div>
+        <p class="join-step-body">Push your branch and open a PR on GitHub. Describe what you changed and why. We review, give feedback if needed, and merge. Your contribution goes live on the next deploy.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Final CTA -->
+<div class="join-final">
+  <div class="join-final-inner">
+    <h2 class="join-final-title">The world's best travel guide doesn't exist yet. Help us build it.</h2>
+    <p class="join-final-sub">World66 has been open since 1998. Every good page was written by someone who cared. We'd like yours to be next.</p>
+    <div class="join-final-actions">
+      <a href="https://github.com/DOsinga/world66" target="_blank" rel="noopener" class="join-btn-primary">View on GitHub</a>
+      <a href="/" class="join-btn-secondary">Explore the guide</a>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

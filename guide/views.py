@@ -153,6 +153,10 @@ def home(request):
     return render(request, "guide/home.html", {'continents': continents})
 
 
+def join(request):
+    return render(request, "guide/join.html")
+
+
 def location_or_section(request, path):
     path = path.strip("/")
     branch = request.GET.get('branch')

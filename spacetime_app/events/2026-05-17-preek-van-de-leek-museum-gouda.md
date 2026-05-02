@@ -1,6 +1,6 @@
 ---
 title: "Preek van de Leek x Museum Gouda – Dace Satre Sietina"
-poi: europe/netherlands/gouda
+poi: spacetime/europe/netherlands/gouda/museum-gouda
 date: 2026-05-17
 category: other
 url: https://www.museumgouda.nl/activiteit/preek-van-de-leek-dace/

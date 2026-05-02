@@ -33,9 +33,19 @@
     {% if event.venue %}
     <aside class="st-detail-venue">
       <h3 class="st-detail-venue-title">Venue</h3>
-      <p class="st-detail-venue-name"><a href="/{{ event.venue.path }}">{{ event.venue.title }}</a></p>
+      <p class="st-detail-venue-name">
+        {% if event.venue.w66_url %}
+        <a href="{{ event.venue.w66_url }}">{{ event.venue.title }}</a>
+        {% else %}
+        {{ event.venue.title }}
+        {% endif %}
+      </p>
+      <p class="st-detail-venue-city">{{ event.venue.city }}</p>
       {% if event.venue.snippet %}
       <p class="st-detail-venue-snippet">{{ event.venue.snippet }}</p>
+      {% endif %}
+      {% if event.venue.w66_url %}
+      <a href="{{ event.venue.w66_url }}" class="st-detail-venue-w66">World66 ↗</a>
       {% endif %}
       <div id="st-detail-map"></div>
     </aside>

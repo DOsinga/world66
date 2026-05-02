@@ -1,6 +1,6 @@
 ---
 title: "Offline Ligconcert met Rositha Rikkers"
-poi: europe/netherlands/gouda
+poi: spacetime/europe/netherlands/gouda/museum-gouda
 date: 2026-06-26
 time_start: "20:00"
 category: concert

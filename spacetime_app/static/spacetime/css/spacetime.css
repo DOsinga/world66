@@ -1,17 +1,18 @@
 /* ══════════════════════════════════════════════════════════════════════════
    TimeSpace — stylesheet
-   Dark theme, accent: #7B5CFF (purple) + #00C2FF (cyan)
+   Dark theme, accent: #8B6FFF (purple) + #00D4FF (cyan)
    ══════════════════════════════════════════════════════════════════════════ */
 
 /* ── Tokens ──────────────────────────────────────────────────────────────── */
 :root {
-  --st-bg:        #0D0D14;
-  --st-surface:   #16161F;
-  --st-border:    #2A2A3A;
-  --st-text:      #E8E8F0;
-  --st-muted:     #6B6B8A;
-  --st-accent:    #7B5CFF;
-  --st-cyan:      #00C2FF;
+  --st-bg:        #111118;
+  --st-surface:   #1E1E2A;
+  --st-surface2:  #28283A;
+  --st-border:    #3A3A52;
+  --st-text:      #F0F0F8;
+  --st-muted:     #9898B8;
+  --st-accent:    #8B6FFF;
+  --st-cyan:      #00D4FF;
   --st-radius:    12px;
 }
 
@@ -25,6 +26,23 @@ body {
 /* Hide World66 nav/footer entirely */
 .topnav, footer { display: none !important; }
 
+/* Override world66 global ink/paper colours and layout */
+#page, #content, #main { background: var(--st-bg) !important; color: var(--st-text) !important; }
+
+/* Break the 3fr/2fr grid so st-page content fills the full width */
+#content:has(.st-page) {
+  display: block !important;
+  padding: 0 !important;
+  max-width: none !important;
+}
+#main:has(.st-page) {
+  padding: 0 !important;
+  max-width: none !important;
+  width: 100% !important;
+}
+
+#page h1, #page h2, #page h3, #page h4, #page p, #page li, #page span, #page a { color: var(--st-text) !important; }
+
 /* ── Nav ─────────────────────────────────────────────────────────────────── */
 .st-nav {
   position: fixed;
@@ -35,7 +53,7 @@ body {
   gap: 24px;
   padding: 0 20px;
   height: 52px;
-  background: rgba(13, 13, 20, 0.92);
+  background: rgba(17, 17, 24, 0.95);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--st-border);
 }
@@ -53,6 +71,7 @@ body {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+.st-nav-dot { color: var(--st-accent); }
 
 .st-nav-links { display: flex; gap: 4px; margin-left: auto; }
 .st-nav-link {
@@ -64,8 +83,8 @@ body {
   text-decoration: none;
   transition: color 0.15s, background 0.15s;
 }
-.st-nav-link:hover { color: var(--st-text); background: var(--st-surface); }
-.st-nav-link--active { color: var(--st-text); background: var(--st-surface); }
+.st-nav-link:hover { color: var(--st-text); background: var(--st-surface2); }
+.st-nav-link--active { color: var(--st-text); background: var(--st-surface2); }
 
 /* ── Map page layout ─────────────────────────────────────────────────────── */
 
@@ -116,6 +135,7 @@ body:has(.st-map-page) { overflow: hidden; }
   line-height: 1.2;
   margin: 0 0 6px;
   letter-spacing: -0.02em;
+  color: var(--st-text);
 }
 .st-sidebar-sub {
   font-size: 0.78rem;
@@ -129,16 +149,13 @@ body:has(.st-map-page) { overflow: hidden; }
   align-items: center;
   gap: 10px;
   padding: 14px 16px;
-  background: var(--st-bg);
+  background: var(--st-surface2);
   border-radius: var(--st-radius);
   border: 1px solid var(--st-border);
 }
 .st-radius-label { font-size: 0.75rem; color: var(--st-muted); white-space: nowrap; }
-.st-radius-slider {
-  flex: 1;
-  accent-color: var(--st-accent);
-}
-.st-radius-val { font-size: 0.75rem; color: var(--st-text); white-space: nowrap; }
+.st-radius-slider { flex: 1; accent-color: var(--st-accent); }
+.st-radius-val { font-size: 0.75rem; color: var(--st-text); white-space: nowrap; font-weight: 600; }
 
 /* ── Section headings ────────────────────────────────────────────────────── */
 .st-section-title {
@@ -151,16 +168,20 @@ body:has(.st-map-page) { overflow: hidden; }
 }
 
 /* ── Event list (sidebar) ────────────────────────────────────────────────── */
-.st-event-list, .st-venue-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.st-event-list, .st-venue-list {
+  list-style: none; margin: 0; padding: 0;
+  display: flex; flex-direction: column; gap: 6px;
+}
 
 .st-event-item, .st-venue-item {
   border-radius: var(--st-radius);
   border: 1px solid var(--st-border);
+  background: var(--st-surface2);
   transition: border-color 0.15s, background 0.15s;
 }
 .st-event-item:hover, .st-venue-item:hover {
   border-color: var(--st-accent);
-  background: rgba(123, 92, 255, 0.06);
+  background: rgba(139, 111, 255, 0.1);
 }
 
 .st-event-link, .st-venue-link {
@@ -193,15 +214,16 @@ body:has(.st-map-page) { overflow: hidden; }
   letter-spacing: 0.08em;
   width: fit-content;
 }
-.st-cat--concert   { background: rgba(255, 99,  132, 0.15); color: #FF6384; }
-.st-cat--music     { background: rgba(255, 99,  132, 0.15); color: #FF6384; }
-.st-cat--festival  { background: rgba(255, 159,  64, 0.15); color: #FF9F40; }
-.st-cat--market    { background: rgba(75,  192, 192, 0.15); color: #4BC0C0; }
-.st-cat--museum    { background: rgba(54,  162, 235, 0.15); color: #36A2EB; }
-.st-cat--exhibition{ background: rgba(54,  162, 235, 0.15); color: #36A2EB; }
-.st-cat--food      { background: rgba(255, 205,  86, 0.15); color: #FFCD56; }
-.st-cat--sport     { background: rgba(75,  192, 100, 0.15); color: #4BC064; }
-.st-cat--other     { background: rgba(107,  107, 138, 0.15); color: #6B6B8A; }
+.st-cat--concert    { background: rgba(255, 99,  132, 0.2); color: #FF8099; }
+.st-cat--music      { background: rgba(255, 99,  132, 0.2); color: #FF8099; }
+.st-cat--festival   { background: rgba(255, 159,  64, 0.2); color: #FFB060; }
+.st-cat--market     { background: rgba(75,  192, 192, 0.2); color: #5DCCCC; }
+.st-cat--museum     { background: rgba(54,  162, 235, 0.2); color: #60B8F5; }
+.st-cat--exhibition { background: rgba(54,  162, 235, 0.2); color: #60B8F5; }
+.st-cat--theatre    { background: rgba(180, 100, 255, 0.2); color: #C080FF; }
+.st-cat--food       { background: rgba(255, 205,  86, 0.2); color: #FFD060; }
+.st-cat--sport      { background: rgba(75,  192, 100, 0.2); color: #60C878; }
+.st-cat--other      { background: rgba(152, 152, 184, 0.2); color: #B0B0D0; }
 
 /* ── Empty state ─────────────────────────────────────────────────────────── */
 .st-empty {
@@ -220,32 +242,143 @@ body:has(.st-map-page) { overflow: hidden; }
 .st-marker--event {
   background: var(--st-accent);
   width: 14px; height: 14px;
-  box-shadow: 0 0 10px rgba(123, 92, 255, 0.7);
+  box-shadow: 0 0 10px rgba(139, 111, 255, 0.8);
 }
 .st-marker--venue {
   background: var(--st-muted);
   width: 10px; height: 10px;
-  border-color: rgba(255,255,255,0.4);
+  border-color: rgba(255,255,255,0.5);
+}
+
+/* ── Filter rows ─────────────────────────────────────────────────────────── */
+.st-filters {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+.st-filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+.st-filter-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--st-muted);
+  min-width: 42px;
+}
+/* ── City filter strip ───────────────────────────────────────────────────── */
+.st-city-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+.st-city-pill {
+  padding: 6px 16px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--st-muted);
+  background: var(--st-surface2);
+  border: 1px solid var(--st-border);
+  text-decoration: none;
+  transition: color 0.15s, background 0.15s, border-color 0.15s;
+}
+.st-city-pill:hover {
+  color: var(--st-text);
+  border-color: var(--st-accent);
+}
+.st-city-pill--active {
+  color: var(--st-text);
+  background: rgba(139, 111, 255, 0.2);
+  border-color: var(--st-accent);
+}
+
+/* ── Venue filter strip ──────────────────────────────────────────────────── */
+.st-venue-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 24px;
+  padding: 14px 16px;
+  background: var(--st-surface);
+  border: 1px solid var(--st-border);
+  border-radius: var(--st-radius);
+}
+.st-venue-pill {
+  font-size: 0.72rem;
+}
+
+/* ── Venue card (inline with event) ─────────────────────────────────────── */
+.st-venue-card {
+  flex-shrink: 0;
+  width: 148px;
+  background: var(--st-surface2);
+  border: 1px solid var(--st-border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-self: flex-start;
+}
+.st-venue-card-name {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--st-text);
+  margin: 0;
+  line-height: 1.3;
+}
+.st-venue-card-city {
+  font-size: 0.68rem;
+  color: var(--st-accent);
+  margin: 0;
+  font-weight: 500;
+}
+.st-venue-card-snippet {
+  font-size: 0.68rem;
+  color: var(--st-muted);
+  margin: 4px 0 0;
+  line-height: 1.4;
+}
+.st-venue-card-tag {
+  display: inline-block;
+  margin-top: 4px;
+  margin-right: 3px;
+  padding: 1px 6px;
+  border-radius: 999px;
+  font-size: 0.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: rgba(139, 111, 255, 0.15);
+  color: var(--st-accent);
 }
 
 /* ── Full event list page ────────────────────────────────────────────────── */
 .st-page {
-  max-width: 720px;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 80px 24px 60px;
+  padding: 80px 40px 60px;
 }
-.st-page-header { margin-bottom: 32px; }
-.st-page-header h1 { font-size: 2rem; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.03em; }
+.st-page-header { margin-bottom: 24px; }
+.st-page-header h1 { font-size: 2rem; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.03em; color: var(--st-text); }
 .st-page-sub { color: var(--st-muted); font-size: 0.85rem; margin: 0; }
 
-.st-full-event-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.st-full-event-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 4px; }
 
 .st-full-event-item {
   border-radius: var(--st-radius);
   border: 1px solid var(--st-border);
+  background: var(--st-surface);
   transition: border-color 0.15s, background 0.15s;
 }
-.st-full-event-item:hover { border-color: var(--st-accent); background: rgba(123, 92, 255, 0.05); }
+.st-full-event-item:hover { border-color: var(--st-accent); background: var(--st-surface2); }
 .st-full-event-item--today { border-color: var(--st-cyan); }
 
 .st-full-event-link {
@@ -264,16 +397,17 @@ body:has(.st-map-page) { overflow: hidden; }
   min-width: 40px;
   padding-top: 2px;
 }
-.st-full-event-day { font-size: 1.4rem; font-weight: 800; line-height: 1; }
+.st-full-event-day { font-size: 1.4rem; font-weight: 800; line-height: 1; color: var(--st-text); }
 .st-full-event-month { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--st-muted); }
 
-.st-full-event-body { flex: 1; display: flex; flex-direction: column; gap: 4px; }
-.st-full-event-title { font-size: 1rem; font-weight: 700; margin: 4px 0 2px; }
+.st-full-event-body { flex: 1; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.st-full-event-title { font-size: 1rem; font-weight: 700; margin: 4px 0 2px; color: var(--st-text); }
+.st-full-event-time { font-size: 0.78rem; color: var(--st-cyan); margin: 0; font-weight: 500; }
 .st-full-event-venue { font-size: 0.8rem; color: var(--st-muted); margin: 0; }
-.st-full-event-snippet { font-size: 0.78rem; color: var(--st-muted); margin: 0; }
+.st-full-event-snippet { font-size: 0.78rem; color: var(--st-muted); margin: 0; line-height: 1.5; }
 
 .st-no-events { text-align: center; padding: 60px 0; color: var(--st-muted); }
-.st-no-events code { background: var(--st-surface); padding: 2px 6px; border-radius: 4px; font-size: 0.85em; }
+.st-no-events code { background: var(--st-surface2); padding: 2px 6px; border-radius: 4px; font-size: 0.85em; color: var(--st-text); }
 
 /* ── Event detail page ───────────────────────────────────────────────────── */
 .st-breadcrumb {
@@ -288,10 +422,10 @@ body:has(.st-map-page) { overflow: hidden; }
 .st-breadcrumb a:hover { color: var(--st-text); }
 
 .st-detail-header { margin-bottom: 32px; }
-.st-detail-title { font-size: 2rem; font-weight: 800; margin: 8px 0 6px; letter-spacing: -0.03em; }
+.st-detail-title { font-size: 2rem; font-weight: 800; margin: 8px 0 6px; letter-spacing: -0.03em; color: var(--st-text); }
 .st-detail-when { color: var(--st-muted); font-size: 0.88rem; margin: 0; }
 
-.st-detail-layout { display: grid; grid-template-columns: 1fr 280px; gap: 40px; align-items: start; }
+.st-detail-layout { display: grid; grid-template-columns: 1fr 320px; gap: 48px; align-items: start; }
 
 .st-detail-description { font-size: 0.95rem; line-height: 1.7; color: var(--st-text); }
 .st-detail-cta {
@@ -306,37 +440,73 @@ body:has(.st-map-page) { overflow: hidden; }
   text-decoration: none;
   transition: background 0.15s;
 }
-.st-detail-cta:hover { background: #6348e0; }
+.st-detail-cta:hover { background: #7258e0; }
 
 .st-detail-venue {
-  background: var(--st-surface);
+  background: var(--st-surface2);
   border: 1px solid var(--st-border);
   border-radius: var(--st-radius);
   padding: 20px;
 }
 .st-detail-venue-title { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--st-muted); margin: 0 0 8px; }
-.st-detail-venue-name { font-size: 0.95rem; font-weight: 700; margin: 0 0 6px; }
+.st-detail-venue-name { font-size: 0.95rem; font-weight: 700; margin: 0 0 6px; color: var(--st-text); }
 .st-detail-venue-name a { color: var(--st-cyan); text-decoration: none; }
-.st-detail-venue-snippet { font-size: 0.78rem; color: var(--st-muted); margin: 0 0 16px; }
-#st-detail-map { height: 180px; border-radius: 8px; overflow: hidden; }
+.st-detail-venue-city { font-size: 0.75rem; color: var(--st-accent); font-weight: 500; margin: 0 0 8px; }
+.st-detail-venue-snippet { font-size: 0.78rem; color: var(--st-muted); margin: 0 0 16px; line-height: 1.5; }
+.st-detail-venue-w66 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 14px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--st-border);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--st-muted) !important;
+  text-decoration: none;
+  transition: border-color 0.15s, color 0.15s;
+}
+.st-detail-venue-w66:hover {
+  border-color: var(--st-cyan);
+  color: var(--st-cyan) !important;
+  text-decoration: none;
+}
+#st-detail-map { height: 320px; border-radius: 8px; overflow: hidden; }
 
 /* ── Map tile invert-to-dark ─────────────────────────────────────────────── */
-/* Inverts CARTO Voyager (high-contrast light tiles) into a readable dark map */
 #st-map .leaflet-tile-pane,
 #st-detail-map .leaflet-tile-pane {
   filter: invert(1) hue-rotate(200deg) brightness(0.85) contrast(0.95);
 }
 
+/* ── Leaflet zoom controls dark ──────────────────────────────────────────── */
+.leaflet-control-zoom a {
+  background: var(--st-surface2) !important;
+  color: var(--st-text) !important;
+  border-color: var(--st-border) !important;
+}
+.leaflet-control-zoom a:hover {
+  background: var(--st-surface) !important;
+  color: var(--st-accent) !important;
+}
+.leaflet-bar {
+  border: 1px solid var(--st-border) !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4) !important;
+}
+
 /* ── Leaflet popup dark override ─────────────────────────────────────────── */
 .leaflet-popup-content-wrapper {
-  background: var(--st-surface);
+  background: var(--st-surface2);
   color: var(--st-text);
   border: 1px solid var(--st-border);
   border-radius: var(--st-radius);
-  box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.6);
 }
-.leaflet-popup-tip { background: var(--st-surface); }
+.leaflet-popup-tip { background: var(--st-surface2); }
 .leaflet-popup-content a { color: var(--st-cyan); }
+.leaflet-popup-content strong { color: var(--st-text); }
 
 /* ── Responsive ──────────────────────────────────────────────────────────── */
 @media (max-width: 700px) {

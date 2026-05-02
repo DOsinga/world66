@@ -53,6 +53,18 @@ def _pois_dir() -> Path:
 
 # ── Dataclasses ──────────────────────────────────────────────────────────────
 
+def _city_from_path(poi_path: str) -> str:
+    """Extract city slug from a poi path, e.g. 'europe/netherlands/rotterdam/bird' → 'rotterdam'."""
+    path = poi_path.removeprefix("spacetime/")
+    parts = path.split("/")
+    return parts[2] if len(parts) >= 3 else ""
+
+
+def city_display(slug: str) -> str:
+    """'den-haag' → 'Den Haag', 'rotterdam' → 'Rotterdam'."""
+    return slug.replace("-", " ").replace("_", " ").title()
+
+
 @dataclass
 class Venue:
     """A W66 POI used as an event venue."""
@@ -64,6 +76,20 @@ class Venue:
     image: str = ""
     image_url: str = ""
     tags: list = field(default_factory=list)
+
+    @property
+    def city_slug(self) -> str:
+        return _city_from_path(self.path)
+
+    @property
+    def city(self) -> str:
+        return city_display(self.city_slug)
+
+    @property
+    def w66_url(self) -> str:
+        if self.path.startswith("spacetime/"):
+            return ""
+        return f"/{self.path}"
 
 
 @dataclass
@@ -132,12 +158,13 @@ def _load_shadow_venue(poi_path: str) -> Optional[Venue]:
     if lat is None or lng is None:
         return None
 
+    snippet = post.get("snippet", "") or post.content.strip()
     return Venue(
         path=poi_path,
         title=post.get("title", slug),
         lat=float(lat),
         lng=float(lng),
-        snippet=post.get("snippet", ""),
+        snippet=snippet,
         tags=post.get("tags", []) or [],
     )
 

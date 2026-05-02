@@ -1,6 +1,6 @@
 ---
 title: "Workshop 'De kunst van het ritueel'"
-poi: europe/netherlands/gouda
+poi: spacetime/europe/netherlands/gouda/museum-gouda
 date: 2026-06-07
 category: other
 url: https://www.museumgouda.nl/activiteit/workshop-de-kunst-van-het-ritueel/

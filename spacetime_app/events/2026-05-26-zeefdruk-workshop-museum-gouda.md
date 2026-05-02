@@ -1,6 +1,6 @@
 ---
 title: "Zeefdruk jouw houvast – Screen Printing Workshop"
-poi: europe/netherlands/gouda
+poi: spacetime/europe/netherlands/gouda/museum-gouda
 date: 2026-05-26
 category: other
 url: https://www.museumgouda.nl/activiteit/zeefdruk-jouw-houvast/

@@ -1,6 +1,6 @@
 ---
 title: "Goudse Keramiekdagen 2026"
-poi: europe/netherlands/gouda
+poi: spacetime/europe/netherlands/gouda/museum-gouda
 date: 2026-05-14
 category: other
 url: https://www.museumgouda.nl/activiteit/verhaal-op-zaal-goudse-keramiekdagen-2026/

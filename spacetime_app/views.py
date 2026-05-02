@@ -15,8 +15,57 @@ def map_view(request):
 
 
 def event_list(request):
-    events = load_all_events(include_past=False)
-    return render(request, "spacetime/event_list.html", {"events": events})
+    from datetime import date, timedelta
+    from .models import city_display
+    all_events = load_all_events(include_past=False)
+
+    # Date filter — default 7 days
+    try:
+        days = int(request.GET.get("days", 7))
+    except ValueError:
+        days = 7
+    if days > 0:
+        cutoff = date.today() + timedelta(days=days)
+        all_events = [e for e in all_events if e.date <= cutoff]
+
+    # Build city list from venue city slugs
+    city_slugs = sorted({e.venue.city_slug for e in all_events if e.venue and e.venue.city_slug})
+    cities = [{"slug": s, "label": city_display(s)} for s in city_slugs]
+
+    active_city = request.GET.get("city", "")
+    active_venue = request.GET.get("venue", "")
+
+    events = all_events
+    venues_in_city = []
+
+    if active_city:
+        events = [e for e in events if e.venue and e.venue.city_slug == active_city]
+        seen = {}
+        for e in events:
+            if e.venue and e.venue.title not in seen:
+                seen[e.venue.title] = e.venue
+        venues_in_city = sorted(seen.values(), key=lambda v: v.title)
+
+    if active_venue:
+        events = [e for e in events if e.venue and e.venue.title == active_venue]
+
+    date_options = [
+        {"days": 7,  "label": "Next 7 days"},
+        {"days": 14, "label": "Next 2 weeks"},
+        {"days": 30, "label": "Next month"},
+        {"days": 0,  "label": "All upcoming"},
+    ]
+
+    return render(request, "spacetime/event_list.html", {
+        "events": events,
+        "cities": cities,
+        "active_city": active_city,
+        "active_city_label": city_display(active_city) if active_city else "",
+        "venues_in_city": venues_in_city,
+        "active_venue": active_venue,
+        "active_days": days,
+        "date_options": date_options,
+    })
 
 
 def event_detail(request, slug):

@@ -389,7 +389,7 @@
     background: var(--paper);
   }
   .join-platform-inner {
-    max-width: 1100px;
+    max-width: 1200px;
     margin: 0 auto;
   }
   .join-platform-intro {
@@ -405,24 +405,192 @@
     color: var(--mute);
     margin-bottom: 14px;
   }
-  .join-platform-apps {
+
+  /* Big visual app cards */
+  .join-app-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2px;
-    background: var(--line);
-    border: 1px solid var(--line);
-    border-radius: 12px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+  .join-app-card {
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.18s, box-shadow 0.18s;
+    box-shadow: 0 2px 12px rgba(19,18,17,0.08);
+  }
+  .join-app-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 32px rgba(19,18,17,0.14);
+    text-decoration: none;
+  }
+  .join-app-card-visual {
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .join-app-card-visual-inner {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  /* World66 visual */
+  .app-visual-world66 {
+    background: #1a2e1a;
+    background: linear-gradient(135deg, #1a2e1a 0%, #2d4a1e 50%, #1a3a2a 100%);
+  }
+  .app-visual-world66 .app-visual-map {
+    position: absolute;
+    inset: 0;
+    background-image:
+      radial-gradient(circle at 30% 55%, rgba(184,83,43,0.5) 0%, transparent 30%),
+      radial-gradient(circle at 70% 40%, rgba(100,180,100,0.3) 0%, transparent 35%),
+      radial-gradient(circle at 55% 70%, rgba(184,83,43,0.3) 0%, transparent 25%);
+  }
+  .app-visual-world66 .app-visual-label {
+    position: relative;
+    font-family: var(--display-font);
+    font-size: 52px;
+    font-weight: 300;
+    font-variation-settings: "opsz" 52;
+    color: rgba(255,255,255,0.9);
+    letter-spacing: -0.03em;
+    line-height: 1;
+    text-align: center;
+  }
+  .app-visual-world66 .app-visual-label span {
+    display: block;
+    font-size: 12px;
+    font-family: var(--label-font);
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.5);
+    margin-top: 8px;
+  }
+  /* TimeSpace visual */
+  .app-visual-timespace {
+    background: #111118;
+  }
+  .app-visual-timespace .app-visual-dots {
+    position: absolute;
+    inset: 0;
+    background-image:
+      radial-gradient(circle at 25% 60%, rgba(100,160,255,0.35) 0%, transparent 40%),
+      radial-gradient(circle at 75% 35%, rgba(184,83,43,0.4) 0%, transparent 35%),
+      radial-gradient(circle at 50% 80%, rgba(100,200,160,0.2) 0%, transparent 25%);
+  }
+  .app-visual-timespace .app-visual-label {
+    position: relative;
+    font-family: var(--display-font);
+    font-size: 48px;
+    font-weight: 300;
+    font-variation-settings: "opsz" 48;
+    color: rgba(240,240,248,0.92);
+    letter-spacing: -0.03em;
+    line-height: 1;
+    text-align: center;
+  }
+  .app-visual-timespace .app-visual-label span {
+    display: block;
+    font-size: 12px;
+    font-family: var(--label-font);
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(240,240,248,0.45);
+    margin-top: 8px;
+  }
+  /* Tabbi visual */
+  .app-visual-tabbi {
+    background: #1a1040;
+    background: linear-gradient(135deg, #1a1040 0%, #2a1060 50%, #3a1830 100%);
+  }
+  .app-visual-tabbi .app-visual-glow {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(circle at 50% 50%, rgba(232,163,40,0.35) 0%, transparent 55%);
+  }
+  .app-visual-tabbi .app-visual-logo {
+    position: relative;
+    width: 72px;
+    height: 72px;
+  }
+  .app-visual-tabbi .app-visual-name {
+    position: relative;
+    font-family: var(--display-font);
+    font-size: 44px;
+    font-weight: 300;
+    font-variation-settings: "opsz" 44;
+    color: rgba(255,255,255,0.92);
+    letter-spacing: -0.02em;
+    margin-left: 14px;
+    line-height: 1;
+  }
+  .app-visual-tabbi .app-visual-name span {
+    display: block;
+    font-size: 12px;
+    font-family: var(--label-font);
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(232,163,40,0.7);
+    margin-top: 6px;
+  }
+  /* City walks visual */
+  .app-visual-walks {
+    background: #1a1410;
+    background: linear-gradient(135deg, #261a10 0%, #1a2010 50%, #101818 100%);
+  }
+  .app-visual-walks .app-visual-path {
+    position: absolute;
+    inset: 0;
     overflow: hidden;
   }
-  .join-platform-app {
-    background: var(--paper);
-    padding: 32px 28px;
-    position: relative;
+  .app-visual-walks .app-visual-path svg {
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
   }
-  .join-platform-app.is-idea {
+  .app-visual-walks .app-visual-label {
+    position: relative;
+    font-family: var(--display-font);
+    font-size: 42px;
+    font-weight: 300;
+    font-variation-settings: "opsz" 42;
+    color: rgba(243,238,228,0.9);
+    letter-spacing: -0.03em;
+    line-height: 1.05;
+    text-align: center;
+  }
+  .app-visual-walks .app-visual-label span {
+    display: block;
+    font-size: 11px;
+    font-family: var(--label-font);
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: rgba(243,238,228,0.4);
+    margin-top: 8px;
+  }
+
+  .join-app-card-body {
+    background: var(--paper);
+    padding: 24px 28px 28px;
+    flex: 1;
+    border-top: none;
+  }
+  .join-app-card.is-idea .join-app-card-body {
     background: var(--paper-2);
   }
-  .join-platform-app-tag {
+  .join-app-card-tag {
     display: inline-block;
     font-family: var(--label-font);
     font-size: 10px;
@@ -431,18 +599,11 @@
     text-transform: uppercase;
     padding: 3px 8px;
     border-radius: 4px;
-    margin-bottom: 14px;
+    margin-bottom: 10px;
   }
-  .join-platform-app-tag.live {
-    background: #dff2dc;
-    color: #2a6b25;
-  }
-  .join-platform-app-tag.idea {
-    background: var(--paper-3);
-    color: var(--mute);
-    border: 1px dashed var(--line-2);
-  }
-  .join-platform-app-name {
+  .tag-live { background: #dff2dc; color: #2a6b25; }
+  .tag-idea { background: var(--paper-3); color: var(--mute); border: 1px dashed var(--line-2); }
+  .join-app-card-name {
     font-family: var(--display-font);
     font-size: 22px;
     font-weight: 500;
@@ -450,22 +611,23 @@
     color: var(--ink);
     margin-bottom: 8px;
   }
-  .join-platform-app-body {
+  .join-app-card-desc {
     font-size: 14px;
-    line-height: 1.6;
+    line-height: 1.65;
     color: var(--mute);
+    margin-bottom: 16px;
   }
-  .join-platform-app-link {
-    display: inline-block;
-    margin-top: 14px;
+  .join-app-card-link {
+    font-family: var(--label-font);
     font-size: 13px;
-    font-weight: 500;
+    font-weight: 600;
     color: var(--accent-ink);
-    text-decoration: underline;
-    text-underline-offset: 2px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
   }
   .join-platform-cta {
-    margin-top: 40px;
+    margin-top: 8px;
     padding: 28px 32px;
     background: var(--paper-2);
     border-radius: 10px;
@@ -557,7 +719,7 @@
     .join-open-inner { grid-template-columns: 1fr; gap: 36px; }
     .join-platform-section { padding: 56px 24px; }
     .join-platform-intro { grid-template-columns: 1fr; gap: 24px; }
-    .join-platform-apps { grid-template-columns: 1fr; }
+    .join-app-grid { grid-template-columns: 1fr; }
     .join-steps-section { padding: 56px 24px; }
     .join-steps { grid-template-columns: 1fr; gap: 36px; }
     .join-final { padding: 56px 24px; }
@@ -694,28 +856,85 @@
       </div>
       <div>
         <p>The content in <code style="background:var(--paper-2);border:1px solid var(--line-2);padding:1px 6px;border-radius:4px;font-size:13px;color:var(--accent-ink)">content/</code> is structured, geocoded, and open. That makes it a data layer any app can read from — not just this website.</p>
-        <p>We've already built two apps on top of it. Both are open source. Neither required rebuilding the content from scratch. That's the point: contribute once, power many things.</p>
+        <p>We've already built three apps on top of it. All open source. None required rebuilding the content from scratch. That's the point: contribute once, power many things.</p>
       </div>
     </div>
 
-    <div class="join-platform-apps">
-      <div class="join-platform-app">
-        <span class="join-platform-app-tag live">Live</span>
-        <div class="join-platform-app-name">World66</div>
-        <p class="join-platform-app-body">The travel guide itself. 20,000+ destinations, browsable by continent, country, city, and neighbourhood. Built entirely from the <code style="font-size:12px">content/</code> folder.</p>
-        <a href="/" class="join-platform-app-link">Explore the guide →</a>
-      </div>
-      <div class="join-platform-app">
-        <span class="join-platform-app-tag live">Live</span>
-        <div class="join-platform-app-name">TimeSpace</div>
-        <p class="join-platform-app-body">A local events and venues layer on top of World66 POIs. Browse concerts, exhibitions, and theatre across Dutch cities — updated weekly by AI agents fetching live schedules.</p>
-        <a href="/timespace/" class="join-platform-app-link">See what's on →</a>
-      </div>
-      <div class="join-platform-app is-idea">
-        <span class="join-platform-app-tag idea">Your idea</span>
-        <div class="join-platform-app-name">City walks</div>
-        <p class="join-platform-app-body">Turn W66 POIs into a guided walk app. Street-level routes, offline maps, audio cues. The geocoded content is already there — it just needs a front-end.</p>
-      </div>
+    <div class="join-app-grid">
+
+      <!-- World66 -->
+      <a href="/apps/world66/" class="join-app-card">
+        <div class="join-app-card-visual app-visual-world66">
+          <div class="app-visual-map"></div>
+          <div class="join-app-card-visual-inner">
+            <div class="app-visual-label">World66<span>Travel guide</span></div>
+          </div>
+        </div>
+        <div class="join-app-card-body">
+          <span class="join-app-card-tag tag-live">Live</span>
+          <div class="join-app-card-name">World66</div>
+          <p class="join-app-card-desc">The travel guide itself — 20,000+ destinations from continents to hidden side streets, entirely powered by the <code style="font-size:12px;background:var(--paper-2);padding:1px 5px;border-radius:3px">content/</code> folder.</p>
+          <span class="join-app-card-link">Explore the guide →</span>
+        </div>
+      </a>
+
+      <!-- TimeSpace -->
+      <a href="/apps/timespace/" class="join-app-card">
+        <div class="join-app-card-visual app-visual-timespace">
+          <div class="app-visual-dots"></div>
+          <div class="join-app-card-visual-inner">
+            <div class="app-visual-label">TimeSpace<span>Local events</span></div>
+          </div>
+        </div>
+        <div class="join-app-card-body">
+          <span class="join-app-card-tag tag-live">Live</span>
+          <div class="join-app-card-name">TimeSpace</div>
+          <p class="join-app-card-desc">A local events layer on top of World66 POIs. Concerts, exhibitions, theatre across Dutch cities — updated weekly by AI agents reading venue schedules.</p>
+          <span class="join-app-card-link">See what's on →</span>
+        </div>
+      </a>
+
+      <!-- Tabbi -->
+      <a href="/apps/tabbi/" class="join-app-card">
+        <div class="join-app-card-visual app-visual-tabbi">
+          <div class="app-visual-glow"></div>
+          <div class="join-app-card-visual-inner" style="gap:0">
+            <img class="app-visual-logo" src="{% static 'plans/tabbi-logo.svg' %}" alt="Tabbi">
+            <div class="app-visual-name">Tab.bi<span>Trip planner</span></div>
+          </div>
+        </div>
+        <div class="join-app-card-body">
+          <span class="join-app-card-tag tag-live">Live</span>
+          <div class="join-app-card-name">Tab.bi</div>
+          <p class="join-app-card-desc">A collaborative trip planner. Build day-by-day itineraries from World66 destinations and POIs, share with travel companions, and plan without signing up.</p>
+          <span class="join-app-card-link">Start planning →</span>
+        </div>
+      </a>
+
+      <!-- City walks -->
+      <a href="/apps/city-walks/" class="join-app-card is-idea">
+        <div class="join-app-card-visual app-visual-walks">
+          <div class="app-visual-path">
+            <svg viewBox="0 0 400 220" preserveAspectRatio="xMidYMid slice">
+              <path d="M-20 110 Q80 40 140 110 T300 90 T440 130" stroke="rgba(184,83,43,0.6)" stroke-width="2.5" fill="none" stroke-dasharray="6 4"/>
+              <circle cx="80" cy="72" r="5" fill="rgba(184,83,43,0.8)"/>
+              <circle cx="200" cy="100" r="5" fill="rgba(184,83,43,0.8)"/>
+              <circle cx="310" cy="82" r="5" fill="rgba(184,83,43,0.8)"/>
+              <path d="M40 180 Q100 120 180 160 T360 140" stroke="rgba(243,238,228,0.15)" stroke-width="1.5" fill="none"/>
+            </svg>
+          </div>
+          <div class="join-app-card-visual-inner">
+            <div class="app-visual-label">City Walks<span>Your idea</span></div>
+          </div>
+        </div>
+        <div class="join-app-card-body">
+          <span class="join-app-card-tag tag-idea">Concept</span>
+          <div class="join-app-card-name">City Walks</div>
+          <p class="join-app-card-desc">Turn World66 POIs into guided walking routes. Street-level navigation, offline maps, curated neighbourhood tours. The geocoded content is already there — it needs a builder.</p>
+          <span class="join-app-card-link">Read more →</span>
+        </div>
+      </a>
+
     </div>
 
     <div class="join-platform-cta">

@@ -1,4 +1,4 @@
-from django.urls import include, path
+from django.urls import path
 
 from guide import views
 
@@ -9,6 +9,5 @@ urlpatterns = [
     path("tags/<str:tag>", views.tag_index, name="tag_index"),
     path("content-image/<path:path>", views.content_image, name="content_image"),
     path("review", views.review, name="review"),
-    path("timespace/", include("spacetime_app.urls")),
     path("<path:path>", views.location_or_section, name="location_or_section"),
 ]

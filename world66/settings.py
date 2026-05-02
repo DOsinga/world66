@@ -33,7 +33,6 @@ ALLOWED_HOSTS = ["world66.ai", "www.world66.ai"] if _PRODUCTION else ["*"]
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "guide",
-    "spacetime_app",
 ]
 
 MIDDLEWARE = [

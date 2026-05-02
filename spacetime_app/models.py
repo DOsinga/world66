@@ -244,7 +244,7 @@ def load_event(path: Path) -> Optional[Event]:
 def load_all_events(include_past: bool = False) -> list[Event]:
     """Load all events, sorted by date ascending. Drops events with no venue."""
     events = []
-    for path in sorted(_events_dir().glob("*.md")):
+    for path in sorted(_events_dir().rglob("*.md")):
         event = load_event(path)
         if event is None or event.venue is None:
             continue

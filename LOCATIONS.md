@@ -2,6 +2,57 @@
 
 Location pages cover cities, towns, and regions. They are where travelers find specific, actionable information: what to see, where to eat, how to get around. This document defines what a good location page looks like.
 
+## City tiers
+
+Not every city deserves the same depth of coverage. A city's tier determines how much content to create. Set it once in the city's main markdown frontmatter:
+
+```yaml
+city_tier: 1
+```
+
+| Tier | Scale | Examples |
+|------|-------|---------|
+| 1 | Top ~100 — world-class destinations that draw millions of visitors | New York, Paris, Bangkok, Shanghai, Florence, Montreal |
+| 2 | Top ~1,000 — major cities worth a multi-day visit | Bordeaux, Krakow, Porto, Chiang Mai |
+| 3 | Top ~5,000 — smaller cities and towns worth a stop | Ghent, Siena, Plovdiv |
+| — | Everything else — small towns, villages | no tier field needed |
+
+### What each tier means for content
+
+**Tier 1 — Major cities**
+
+- `things_to_do`: 25–50 POIs — sights, museums, squares, parks, zoos, activities. Add a `story:` field to the most important ones.
+- `eating_out`: 10–25 POIs — landmark restaurants, places famous for a local dish, streets or squares with diverse options, food and night markets.
+- `bars_and_cafes`: 10–25 POIs — iconic cafes (Les Deux Magots), bars with local identity (Ye Olde Cheshire Cheese), clubs with a reputation (Berghain), local specialties (jazz clubs, karaoke bars), streets lined with bars.
+- `shopping`: 5–15 POIs — only major shops that are sights in themselves, historic arcades, famous markets, major shopping streets with longer write-ups, streets with specialty shops.
+- `beaches`: only if the city itself has them.
+- `day_trips`: use `linked_locations:` to link nearby cities worth a visit. Do not create these as POIs.
+- Writeup-only sections (body text, no POI list): `getting_there`, `getting_around`, `when_to_go` (include festivals), `books`. History goes in the overview, not a separate section.
+
+**Tier 2 — Second-tier cities**
+
+- `things_to_do`: 5–10 POIs covering the main sights.
+- `eating_out` and `bars_and_cafes`: add POIs only for genuinely well-known or distinctive places. If nothing clears that bar, a solid writeup is enough.
+- Writeup-only sections: `getting_there`, `getting_around`, `when_to_go`, `beaches` (if coastal), `shopping`.
+
+**Tier 3 — Smaller cities and towns**
+
+- Writeup-only sections (no POI lists): `things_to_do`, `eating_out`, `bars_and_cafes`, `shopping`, `getting_there`.
+
+**Unclassified / The rest**
+
+- A good overview paragraph is enough. Don't add sections.
+
+### City tags
+
+Beyond the tier, tag the city's main markdown file with characteristics that describe what kind of destination it is. These help surface cities in filtered lists at the country and continent level:
+
+```yaml
+tags: [culture, museums, skiing]
+```
+
+Common city tags: `culture`, `museums`, `art`, `history`, `skiing`, `hiking`, `beach`, `nightlife`, `food`, `architecture`, `nature`, `shopping`.
+
 ## The overview page
 
 The overview is the most important page. It should make someone want to visit — or at least understand the place. See STYLE.md for detailed guidance, but in short:

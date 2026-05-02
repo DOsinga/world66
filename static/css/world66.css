@@ -1643,7 +1643,7 @@ img { max-width: 100%; height: auto; }
   align-items: flex-end;
   min-height: 260px;
   text-decoration: none;
-  background: #2a1a0e url('/content-image/asia/jordan/petra.jpg') center/cover;
+  background: #1a100a url('/content-image/southamerica/ecuador/otavaloimbabura.jpg') center 50%/cover;
 }
 
 .home-join-card-overlay {
@@ -1800,7 +1800,7 @@ img { max-width: 100%; height: auto; }
 .home-continent-card {
   position: relative;
   display: block;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 3 / 4;
   overflow: hidden;
   border-radius: 4px;
   background: var(--ink);
@@ -1826,10 +1826,9 @@ img { max-width: 100%; height: auto; }
   position: absolute;
   inset: 0;
   background: linear-gradient(180deg,
-    rgba(0,0,0,0.08) 0%,
-    rgba(0,0,0,0.10) 30%,
-    rgba(0,0,0,0.65) 70%,
-    rgba(0,0,0,0.82) 100%);
+    rgba(0,0,0,0.52) 0%,
+    rgba(0,0,0,0.18) 35%,
+    rgba(0,0,0,0.10) 100%);
 }
 
 .home-continent-overlay {
@@ -1837,7 +1836,7 @@ img { max-width: 100%; height: auto; }
   inset: 0;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: flex-start;
   padding: 20px 20px 22px;
 }
 

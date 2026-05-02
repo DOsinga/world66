@@ -1,7 +1,9 @@
 ---
+city_tier: 2
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-02'
   poi_cleanup: '2026-04-19'
 image: utrecht.jpg
 image_attribution: Pedro Nuno Caetano on Flickr
@@ -10,6 +12,12 @@ image_source: https://www.flickr.com/photos/12962905@N05/49438549761
 latitude: 52.090701
 longitude: 5.121563
 score: 0.65
+tags:
+- culture
+- museums
+- history
+- cycling
+- student_city
 title: Utrecht
 type: location
 ---

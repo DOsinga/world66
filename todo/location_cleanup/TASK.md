@@ -51,19 +51,11 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
    - Verify coordinates are plausible for the location (wrong-country coords are common in old World66 data)
    - Update clearly outdated content (prices in lire, defunct businesses) where obvious
 
-7. **Set the city tier** — determine the city's tier and add `city_tier` to the location's frontmatter if it's tier 1, 2, or 3. Leave unset for everything else. Also add city-level `tags` (e.g. `[culture, museums, skiing]`) describing what kind of destination it is. See the tier table in LOCATIONS.md.
-
-   The tier determines how much content to create — calibrate the number of sections and POIs accordingly before doing any writing:
-   - **Tier 1**: full section set with POI targets (25–50 things_to_do, 10–25 eating_out, 10–25 bars_and_cafes, 5–15 shopping)
-   - **Tier 2**: things_to_do with 5–10 POIs; eating_out and bars_and_cafes writeups unless a POI is genuinely standout; other sections as writeups
-   - **Tier 3**: writeup-only sections — no POI lists
-   - **Unclassified**: overview paragraph only, no sections
-
-8. **Main section**
+7. **Main section***
    - The main section, the markdown with the name of the location, make sure that it is a good intro for
      the location. Use the STYLE.md suggestions on how to write. Make it clear why people need to visit
      this place.
    - Add `latitude` and `longitude` to the location file if missing
    - Don't force sections on a small town — an overview alone is fine
 
-9. **Add hero image** — if the location file has no `image` field, use the `find-photo` skill to find and assign one.
+8. **Add hero image** — if the location file has no `image` field, use the `find-photo` skill to find and assign one.

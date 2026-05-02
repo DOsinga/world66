@@ -1,0 +1,56 @@
+{% extends "guide/base.html" %}
+{% load static %}
+{% block title %}TimeSpace — Local Events on the World66 Map{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+<div style="background:#111118 url('/content-image/europe/netherlands/amsterdam/leidseplein.jpg') center/cover; height:520px; position:relative; overflow:hidden; display:flex; align-items:flex-end;">
+  <div style="position:absolute;inset:0;background:linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0.5) 100%);pointer-events:none;"></div>
+  <div style="position:relative;padding:0 56px 52px;max-width:900px;">
+    <span style="display:inline-block;font-family:var(--label-font);font-size:11px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:rgba(255,255,255,0.7);margin-bottom:14px;">Platform app · Open source</span>
+    <h1 style="font-family:var(--display-font);font-size:clamp(52px,7vw,96px);font-weight:300;line-height:0.95;letter-spacing:-0.04em;font-variation-settings:'opsz' 96;color:#fff;text-shadow:0 2px 20px rgba(0,0,0,0.3);margin:0;">TimeSpace</h1>
+  </div>
+</div>
+
+<div style="max-width:1100px;margin:0 auto;padding:64px 40px;">
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:start;margin-bottom:48px;">
+    <div>
+      <h2 style="font-family:var(--display-font);font-size:clamp(26px,3vw,38px);font-weight:300;line-height:1.1;letter-spacing:-0.02em;font-variation-settings:'opsz' 38;color:var(--ink);margin-bottom:16px;">Local events, connected to the places you already know.</h2>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:14px;">TimeSpace sits on top of the World66 POI database. Every concert venue, museum, and theatre is already geocoded in World66 — TimeSpace adds a time dimension: what's happening there this week?</p>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:14px;">AI agents run weekly, fetching schedules from venue websites. Events are stored as markdown files and committed via pull requests. You review; the agent fetches.</p>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:32px;">Currently covering Amsterdam, Rotterdam, Utrecht, The Hague, Amersfoort, Gouda — with more cities easy to add by dropping a source file.</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;">
+        <a href="/timespace/" style="display:inline-block;background:var(--accent);color:#f3eee4;font-family:var(--label-font);font-size:15px;font-weight:600;padding:13px 28px;border-radius:8px;text-decoration:none;box-shadow:0 4px 20px rgba(184,83,43,0.3);">See what's on</a>
+        <a href="https://github.com/richardosinga/timespace" target="_blank" rel="noopener" style="display:inline-block;background:transparent;color:var(--ink);font-family:var(--label-font);font-size:15px;font-weight:500;padding:13px 28px;border-radius:8px;border:1.5px solid var(--line-2);text-decoration:none;">View on GitHub</a>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Agentic event fetching</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Source files define a URL, venue POI, and refresh interval. An AI agent reads each source, scrapes events, and submits a PR — no manual copy-pasting.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Events as markdown</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Each event is a <code style="font-size:12px;background:var(--paper-3);padding:1px 4px;border-radius:3px">YYYY-MM-DD-slug.md</code> file with YAML frontmatter — date, category, venue POI path, URL.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Standalone or embedded</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Runs inside World66 at <code style="font-size:12px;background:var(--paper-3);padding:1px 4px;border-radius:3px">/timespace/</code>, or as a fully standalone Django app.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Add a city in minutes</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Drop a source file pointing at a venue's agenda URL. The agent does the rest.</div>
+      </div>
+    </div>
+  </div>
+  <div style="border-top:1px solid var(--line);padding-top:32px;">
+    <a href="/join" style="display:inline-block;font-family:var(--label-font);font-size:14px;font-weight:500;color:var(--mute);text-decoration:none;">← Back to all apps</a>
+  </div>
+</div>
+{% endblock %}

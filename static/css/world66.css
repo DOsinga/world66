@@ -2445,3 +2445,447 @@ img { max-width: 100%; height: auto; }
     max-width: none;
   }
 }
+
+
+/* ==========================================================================
+   City Walks app
+   ========================================================================== */
+
+/* ── Homepage hero map ───────────────────────────────────────────────────── */
+.cw-hero {
+  position: relative;
+  height: 56vh;
+  min-height: 380px;
+  max-height: 600px;
+  overflow: hidden;
+}
+
+.cw-map {
+  width: 100%;
+  height: 100%;
+}
+
+.cw-hero-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom,
+    rgba(0,0,0,0) 0%,
+    rgba(0,0,0,0) 50%,
+    rgba(0,0,0,0.55) 100%);
+  pointer-events: none;
+}
+
+.cw-hero-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0 48px 36px;
+}
+
+.cw-hero-title {
+  font-family: var(--display-font);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 96;
+  font-size: clamp(48px, 6vw, 88px);
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+  color: #fff;
+  text-shadow: 0 2px 24px rgba(0,0,0,0.25);
+  margin: 0 0 16px;
+}
+
+.cw-hero-stats {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.cw-hero-stat {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+}
+
+.cw-hero-stat-n {
+  font-family: var(--display-font);
+  font-size: 18px;
+  font-weight: 400;
+  font-variation-settings: 'opsz' 24;
+  color: #fff;
+  letter-spacing: -0.02em;
+}
+
+.cw-hero-stat-l {
+  font-family: var(--label-font);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.72);
+}
+
+.cw-hero-sep {
+  color: rgba(255,255,255,0.4);
+  font-size: 16px;
+}
+
+/* ── Map popup ───────────────────────────────────────────────────────────── */
+.cw-map-popup { min-width: 140px; }
+.cw-map-popup-city {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--mute);
+  margin-bottom: 3px;
+}
+.cw-map-popup-title {
+  font-family: var(--display-font);
+  font-size: 15px;
+  font-weight: 400;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+.cw-map-popup-link {
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* ── Walk grid ───────────────────────────────────────────────────────────── */
+.cw-body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 56px 40px 80px;
+}
+
+.cw-city {
+  margin-bottom: 56px;
+}
+
+.cw-city-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.cw-city-name {
+  font-family: var(--display-font);
+  font-size: clamp(22px, 2.5vw, 30px);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 36;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin: 0;
+}
+
+.cw-city-count {
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--mute);
+  letter-spacing: 0.04em;
+}
+
+.cw-walk-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+/* ── Walk card ───────────────────────────────────────────────────────────── */
+.cw-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+  border: 1px solid var(--line);
+  overflow: hidden;
+  text-decoration: none;
+  background: var(--paper);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.cw-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 4px 20px rgba(184,83,43,0.12);
+}
+
+.cw-card-route {
+  height: 120px;
+  background: var(--paper-2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+  padding: 16px;
+}
+
+.cw-card-route svg {
+  width: 100%;
+  height: 100%;
+  max-width: 180px;
+}
+
+.cw-card-route--empty {
+  background: linear-gradient(135deg, var(--paper-2) 0%, var(--paper-3) 100%);
+}
+
+.cw-card-body {
+  padding: 14px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.cw-card-title {
+  font-family: var(--display-font);
+  font-size: 18px;
+  font-weight: 400;
+  font-variation-settings: 'opsz' 24;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  line-height: 1.25;
+}
+
+.cw-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+/* ── Meta pills ──────────────────────────────────────────────────────────── */
+.cw-meta-pill {
+  font-family: var(--label-font);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  border-radius: 3px;
+  padding: 2px 7px;
+}
+
+.cw-meta-pill--muted {
+  color: var(--mute);
+  background: var(--paper-2);
+}
+
+/* ── Empty state ─────────────────────────────────────────────────────────── */
+.cw-empty {
+  text-align: center;
+  padding: 64px 0;
+  color: var(--mute);
+}
+.cw-empty-link {
+  display: inline-block;
+  margin-top: 16px;
+  font-family: var(--label-font);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* ── Walk detail page ────────────────────────────────────────────────────── */
+.cw-walk-hero {
+  position: relative;
+  height: 44vh;
+  min-height: 300px;
+  max-height: 480px;
+}
+
+.cw-walk-map {
+  width: 100%;
+  height: 100%;
+}
+
+.cw-walk-hero-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255,255,255,0.92);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid var(--line);
+}
+
+.cw-walk-hero-bar-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.cw-walk-back {
+  font-family: var(--label-font);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--mute);
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.cw-walk-back:hover { color: var(--ink); }
+
+.cw-walk-hero-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.cw-walk-city {
+  font-family: var(--label-font);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+
+.cw-gpx-btn {
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink);
+  border: 1.5px solid var(--line-2);
+  border-radius: 4px;
+  padding: 4px 10px;
+  text-decoration: none;
+  margin-left: 4px;
+}
+.cw-gpx-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+.cw-walk-layout {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 48px 40px 80px;
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 56px;
+  align-items: start;
+}
+
+/* ── Waypoints sidebar ───────────────────────────────────────────────────── */
+.cw-waypoints {
+  position: sticky;
+  top: 24px;
+}
+
+.cw-waypoints-title {
+  font-family: var(--label-font);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--mute);
+  margin: 0 0 16px;
+}
+
+.cw-waypoints-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.cw-waypoint {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+.cw-waypoint:first-child { border-top: 1px solid var(--line); }
+
+.cw-waypoint-num {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-family: var(--label-font);
+  font-size: 11px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1px;
+}
+
+.cw-waypoint-name {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.3;
+}
+
+.cw-waypoint-snippet {
+  font-size: 12px;
+  color: var(--mute);
+  line-height: 1.5;
+  margin-top: 2px;
+}
+
+/* ── Walk article ────────────────────────────────────────────────────────── */
+.cw-walk-title {
+  font-family: var(--display-font);
+  font-size: clamp(28px, 3.5vw, 48px);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 48;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+  line-height: 1.05;
+  margin: 0 0 32px;
+}
+
+.cw-walk-body {
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--mute);
+  max-width: 680px;
+}
+
+.cw-walk-body p { margin-bottom: 1.2em; }
+.cw-walk-body p:last-child { margin-bottom: 0; }
+
+/* ── Walk map marker ─────────────────────────────────────────────────────── */
+.cw-walk-marker {
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-family: var(--label-font);
+  font-size: 11px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.25);
+}
+
+/* ── Responsive ──────────────────────────────────────────────────────────── */
+@media (max-width: 900px) {
+  .cw-hero-content { padding: 0 24px 28px; }
+  .cw-body { padding: 32px 20px 56px; }
+  .cw-walk-layout {
+    grid-template-columns: 1fr;
+    padding: 32px 20px 56px;
+    gap: 32px;
+  }
+  .cw-waypoints { position: static; }
+  .cw-walk-hero-bar-inner { padding: 10px 20px; }
+}

@@ -9,7 +9,7 @@ from .models import load_all_events, load_event, nearby_events, nearby_venue_poi
 def map_view(request):
     """
     Main map view. On first load the browser requests location, then JS calls
-    /spacetime/api/nearby/ with lat/lng to get events + venues as GeoJSON.
+    /timespace/api/nearby/ with lat/lng to get events + venues as GeoJSON.
     """
     return render(request, "spacetime/map.html")
 
@@ -61,7 +61,7 @@ def api_nearby(request):
                 "time_start": e.time_start,
                 "category": e.category,
                 "url": e.url,
-                "detail_url": f"/spacetime/events/{e.slug}/",
+                "detail_url": f"/timespace/events/{e.slug}/",
                 "distance_km": round(haversine_km(lat, lng, v.lat, v.lng), 1),
             },
         })

@@ -4,9 +4,9 @@
 {% block content %}
 <div class="st-page st-detail-page">
   <nav class="st-breadcrumb">
-    <a href="/spacetime/">Map</a>
+    <a href="/timespace/">Map</a>
     <span>›</span>
-    <a href="/spacetime/events/">Events</a>
+    <a href="/timespace/events/">Events</a>
     <span>›</span>
     <span>{{ event.title }}</span>
   </nav>
@@ -48,8 +48,9 @@
 {% if event.venue %}
 <script>
 const map = L.map("st-detail-map").setView([{{ event.venue.lat }}, {{ event.venue.lng }}], 15);
-L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
-  attribution: '© <a href="https://carto.com/">CARTO</a>', maxZoom: 19
+L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
+  attribution: '© <a href="https://carto.com/">CARTO</a> © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  maxZoom: 20,
 }).addTo(map);
 L.circleMarker([{{ event.venue.lat }}, {{ event.venue.lng }}], {
   radius: 10, color: "#fff", weight: 2, fillColor: "#7B5CFF", fillOpacity: 1

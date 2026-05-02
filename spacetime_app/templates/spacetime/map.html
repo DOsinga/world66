@@ -39,13 +39,13 @@
 
 {% block extra_js %}
 <script>
-const NEARBY_API = "/spacetime/api/nearby/";
+const NEARBY_API = "/timespace/api/nearby/";
 const map = L.map("st-map", { zoomControl: false });
 L.control.zoom({ position: "bottomright" }).addTo(map);
 
-L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
-  attribution: '© <a href="https://carto.com/">CARTO</a>',
-  maxZoom: 19,
+L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
+  attribution: '© <a href="https://carto.com/">CARTO</a> © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  maxZoom: 20,
 }).addTo(map);
 
 // Custom marker icons

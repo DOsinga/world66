@@ -13,7 +13,7 @@
   <ul class="st-full-event-list">
     {% for e in events %}
     <li class="st-full-event-item {% if e.is_today %}st-full-event-item--today{% endif %}">
-      <a href="/spacetime/events/{{ e.slug }}/" class="st-full-event-link">
+      <a href="/timespace/events/{{ e.slug }}/" class="st-full-event-link">
         <div class="st-full-event-date">
           <span class="st-full-event-day">{{ e.date|date:"j" }}</span>
           <span class="st-full-event-month">{{ e.date|date:"M" }}</span>

@@ -68,10 +68,28 @@ body {
 .st-nav-link--active { color: var(--st-text); background: var(--st-surface); }
 
 /* ── Map page layout ─────────────────────────────────────────────────────── */
+
+/* Break out of World66's constrained #content grid when map is present */
+body:has(.st-map-page) { overflow: hidden; }
+#content:has(.st-map-page) {
+  display: block !important;
+  padding: 0 !important;
+  max-width: none !important;
+  margin: 0 !important;
+}
+#main:has(.st-map-page) {
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: none !important;
+}
+
 .st-map-page {
+  position: fixed;
+  top: 52px;
+  left: 0;
+  right: 0;
+  bottom: 0;
   display: flex;
-  height: 100vh;
-  padding-top: 52px;
 }
 
 #st-map {
@@ -301,6 +319,13 @@ body {
 .st-detail-venue-name a { color: var(--st-cyan); text-decoration: none; }
 .st-detail-venue-snippet { font-size: 0.78rem; color: var(--st-muted); margin: 0 0 16px; }
 #st-detail-map { height: 180px; border-radius: 8px; overflow: hidden; }
+
+/* ── Map tile invert-to-dark ─────────────────────────────────────────────── */
+/* Inverts CARTO Voyager (high-contrast light tiles) into a readable dark map */
+#st-map .leaflet-tile-pane,
+#st-detail-map .leaflet-tile-pane {
+  filter: invert(1) hue-rotate(200deg) brightness(0.85) contrast(0.95);
+}
 
 /* ── Leaflet popup dark override ─────────────────────────────────────────── */
 .leaflet-popup-content-wrapper {

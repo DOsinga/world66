@@ -1,4 +1,4 @@
-# Space Time Events
+# TimeSpace Events
 
 Events are plain markdown files. One file = one event.
 

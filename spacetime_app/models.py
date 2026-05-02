@@ -1,5 +1,5 @@
 """
-Space Time — event and venue loading from the filesystem.
+TimeSpace — event and venue loading from the filesystem.
 
 Events live in spacetime_app/events/*.md with frontmatter:
 

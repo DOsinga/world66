@@ -1,0 +1,158 @@
+{% extends "spacetime/base.html" %}
+{% load static %}
+{% block title %}TimeSpace — What's happening near you{% endblock %}
+{% block nav_map %}st-nav-link--active{% endblock %}
+
+{% block content %}
+<div class="st-map-page">
+  <div id="st-map"></div>
+
+  <div class="st-sidebar" id="st-sidebar">
+    <div class="st-sidebar-header">
+      <h1 class="st-sidebar-title">What's happening<br>near you</h1>
+      <p class="st-sidebar-sub" id="st-status">Locating you…</p>
+    </div>
+
+    <div class="st-radius-row">
+      <label class="st-radius-label" for="st-radius">Radius</label>
+      <input type="range" id="st-radius" min="1" max="50" value="25" class="st-radius-slider">
+      <span class="st-radius-val" id="st-radius-val">25 km</span>
+    </div>
+
+    <div id="st-results">
+      <div class="st-section" id="st-events-section" hidden>
+        <h2 class="st-section-title">Events</h2>
+        <ul class="st-event-list" id="st-event-list"></ul>
+      </div>
+      <div class="st-section" id="st-venues-section" hidden>
+        <h2 class="st-section-title">Likely venues nearby</h2>
+        <ul class="st-venue-list" id="st-venue-list"></ul>
+      </div>
+      <div class="st-empty" id="st-empty" hidden>
+        <p>No events found within this radius.</p>
+        <p class="st-empty-sub">We're showing interesting nearby venues instead.</p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+const NEARBY_API = "/spacetime/api/nearby/";
+const map = L.map("st-map", { zoomControl: false });
+L.control.zoom({ position: "bottomright" }).addTo(map);
+
+L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+  attribution: '© <a href="https://carto.com/">CARTO</a>',
+  maxZoom: 19,
+}).addTo(map);
+
+// Custom marker icons
+const eventIcon = L.divIcon({ className: "st-marker st-marker--event", iconSize: [14, 14], iconAnchor: [7, 7] });
+const venueIcon = L.divIcon({ className: "st-marker st-marker--venue", iconSize: [10, 10], iconAnchor: [5, 5] });
+
+let eventLayer = L.layerGroup().addTo(map);
+let venueLayer = L.layerGroup().addTo(map);
+let userMarker = null;
+let currentLat = null, currentLng = null;
+
+const radiusSlider = document.getElementById("st-radius");
+const radiusVal = document.getElementById("st-radius-val");
+radiusSlider.addEventListener("input", () => {
+  radiusVal.textContent = radiusSlider.value + " km";
+});
+radiusSlider.addEventListener("change", () => {
+  if (currentLat !== null) fetchNearby(currentLat, currentLng);
+});
+
+function setStatus(msg) {
+  document.getElementById("st-status").textContent = msg;
+}
+
+function fetchNearby(lat, lng) {
+  const radius = radiusSlider.value;
+  setStatus("Loading…");
+  fetch(`${NEARBY_API}?lat=${lat}&lng=${lng}&radius=${radius}`)
+    .then(r => r.json())
+    .then(data => render(data))
+    .catch(() => setStatus("Failed to load nearby data."));
+}
+
+function render(data) {
+  eventLayer.clearLayers();
+  venueLayer.clearLayers();
+
+  const events = data.events.features;
+  const venues = data.venues.features;
+
+  setStatus(`${events.length} event${events.length !== 1 ? "s" : ""} · ${venues.length} venue${venues.length !== 1 ? "s" : ""} within ${data.radius_km} km`);
+
+  // Events
+  const eventList = document.getElementById("st-event-list");
+  eventList.innerHTML = "";
+  events.forEach(f => {
+    const p = f.properties;
+    const [lng, lat] = f.geometry.coordinates;
+    const marker = L.marker([lat, lng], { icon: eventIcon }).addTo(eventLayer);
+    marker.bindPopup(`<strong>${p.title}</strong><br>${p.venue}<br>${p.date}${p.time_start ? " · " + p.time_start : ""}<br><a href="${p.detail_url}">Details →</a>`);
+
+    const li = document.createElement("li");
+    li.className = "st-event-item";
+    li.innerHTML = `
+      <a href="${p.detail_url}" class="st-event-link">
+        <span class="st-event-cat st-cat--${p.category}">${p.category}</span>
+        <span class="st-event-title">${p.title}</span>
+        <span class="st-event-meta">${p.venue} · ${p.date}${p.time_start ? " " + p.time_start : ""} · ${p.distance_km} km</span>
+      </a>`;
+    li.addEventListener("mouseenter", () => marker.openPopup());
+    eventList.appendChild(li);
+  });
+
+  // Venues
+  const venueList = document.getElementById("st-venue-list");
+  venueList.innerHTML = "";
+  venues.forEach(f => {
+    const p = f.properties;
+    const [lng, lat] = f.geometry.coordinates;
+    const marker = L.marker([lat, lng], { icon: venueIcon }).addTo(venueLayer);
+    marker.bindPopup(`<strong>${p.title}</strong>${p.snippet ? "<br>" + p.snippet : ""}<br><a href="${p.w66_url}" target="_blank">World66 →</a>`);
+
+    const li = document.createElement("li");
+    li.className = "st-venue-item";
+    li.innerHTML = `
+      <a href="${p.w66_url}" class="st-venue-link" target="_blank">
+        <span class="st-venue-title">${p.title}</span>
+        <span class="st-venue-meta">${p.snippet ? p.snippet.slice(0, 60) + "…" : ""} · ${p.distance_km} km</span>
+      </a>`;
+    li.addEventListener("mouseenter", () => marker.openPopup());
+    venueList.appendChild(li);
+  });
+
+  document.getElementById("st-events-section").hidden = events.length === 0;
+  document.getElementById("st-venues-section").hidden = venues.length === 0;
+  document.getElementById("st-empty").hidden = events.length > 0 || venues.length > 0;
+}
+
+// Get location
+if ("geolocation" in navigator) {
+  navigator.geolocation.getCurrentPosition(pos => {
+    currentLat = pos.coords.latitude;
+    currentLng = pos.coords.longitude;
+    map.setView([currentLat, currentLng], 13);
+
+    userMarker = L.circleMarker([currentLat, currentLng], {
+      radius: 8, color: "#fff", weight: 2, fillColor: "#00C2FF", fillOpacity: 1
+    }).addTo(map).bindPopup("You are here");
+
+    fetchNearby(currentLat, currentLng);
+  }, err => {
+    setStatus("Location unavailable — showing world map.");
+    map.setView([20, 0], 2);
+  });
+} else {
+  setStatus("Geolocation not supported by your browser.");
+  map.setView([20, 0], 2);
+}
+</script>
+{% endblock %}

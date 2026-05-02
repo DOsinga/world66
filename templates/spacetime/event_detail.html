@@ -1,0 +1,59 @@
+{% extends "spacetime/base.html" %}
+{% block title %}{{ event.title }} — TimeSpace{% endblock %}
+
+{% block content %}
+<div class="st-page st-detail-page">
+  <nav class="st-breadcrumb">
+    <a href="/spacetime/">Map</a>
+    <span>›</span>
+    <a href="/spacetime/events/">Events</a>
+    <span>›</span>
+    <span>{{ event.title }}</span>
+  </nav>
+
+  <div class="st-detail-header">
+    <span class="st-event-cat st-cat--{{ event.category }}">{{ event.category }}</span>
+    <h1 class="st-detail-title">{{ event.title }}</h1>
+    <p class="st-detail-when">
+      {{ event.date|date:"l j F Y" }}
+      {% if event.time_start %}· {{ event.time_start }}{% if event.time_end %}–{{ event.time_end }}{% endif %}{% endif %}
+    </p>
+  </div>
+
+  <div class="st-detail-layout">
+    <div class="st-detail-main">
+      {% if event.description %}
+      <div class="st-detail-description">{{ event.description|linebreaks }}</div>
+      {% endif %}
+      {% if event.url %}
+      <a href="{{ event.url }}" class="st-detail-cta" target="_blank" rel="noopener">More info / tickets →</a>
+      {% endif %}
+    </div>
+
+    {% if event.venue %}
+    <aside class="st-detail-venue">
+      <h3 class="st-detail-venue-title">Venue</h3>
+      <p class="st-detail-venue-name"><a href="/{{ event.venue.path }}">{{ event.venue.title }}</a></p>
+      {% if event.venue.snippet %}
+      <p class="st-detail-venue-snippet">{{ event.venue.snippet }}</p>
+      {% endif %}
+      <div id="st-detail-map"></div>
+    </aside>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+{% if event.venue %}
+<script>
+const map = L.map("st-detail-map").setView([{{ event.venue.lat }}, {{ event.venue.lng }}], 15);
+L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+  attribution: '© <a href="https://carto.com/">CARTO</a>', maxZoom: 19
+}).addTo(map);
+L.circleMarker([{{ event.venue.lat }}, {{ event.venue.lng }}], {
+  radius: 10, color: "#fff", weight: 2, fillColor: "#7B5CFF", fillOpacity: 1
+}).addTo(map).bindPopup("{{ event.venue.title }}").openPopup();
+</script>
+{% endif %}
+{% endblock %}

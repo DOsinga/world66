@@ -1,0 +1,33 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block body_style %}
+<link rel="stylesheet" href="{% static 'spacetime/css/spacetime.css' %}">
+{% endblock %}
+
+{% block head_extra %}
+<link rel="icon" type="image/svg+xml" href="{% static 'spacetime/spacetime-icon.svg' %}">
+<title>{% block title %}TimeSpace{% endblock %}</title>
+{% endblock %}
+
+{% block topnav %}
+<nav class="st-nav">
+  <a href="/spacetime/" class="st-nav-logo">
+    <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="14" cy="14" r="13" stroke="currentColor" stroke-width="1.5"/>
+      <circle cx="14" cy="14" r="5" fill="currentColor"/>
+      <line x1="14" y1="1" x2="14" y2="6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="14" y1="22" x2="14" y2="27" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="1" y1="14" x2="6" y2="14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="22" y1="14" x2="27" y2="14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <span class="st-nav-wordmark">Time<span class="st-nav-dot">S</span>pace</span>
+  </a>
+  <div class="st-nav-links">
+    <a href="/spacetime/" class="st-nav-link {% block nav_map %}{% endblock %}">Map</a>
+    <a href="/spacetime/events/" class="st-nav-link {% block nav_events %}{% endblock %}">Events</a>
+  </div>
+</nav>
+{% endblock topnav %}
+
+{% block footer %}{% endblock footer %}

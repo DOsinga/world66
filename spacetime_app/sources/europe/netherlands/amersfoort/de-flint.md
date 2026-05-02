@@ -1,6 +1,6 @@
 ---
 title: De Flint Amersfoort
-poi: spacetime/de-flint-amersfoort
+poi: spacetime/europe/netherlands/amersfoort/de-flint
 url: https://www.deflint.nl/agenda
 interval_days: 7
 last_checked: null

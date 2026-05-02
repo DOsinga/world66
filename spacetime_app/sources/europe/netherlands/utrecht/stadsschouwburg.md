@@ -1,6 +1,6 @@
 ---
 title: Stadsschouwburg Utrecht
-poi: spacetime/stadsschouwburg-utrecht
+poi: spacetime/europe/netherlands/utrecht/stadsschouwburg
 url: https://www.stadsschouwburg-utrecht.nl/agenda
 interval_days: 7
 last_checked: null

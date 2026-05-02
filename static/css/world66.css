@@ -2100,6 +2100,129 @@ img { max-width: 100%; height: auto; }
   }
 }
 
+/* ---- Sidebar walk strip (city page) ---- */
+
+.sidebar-walks {
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.sidebar-walks-head {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--mute);
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+  background: var(--paper);
+}
+
+.sidebar-walks-strip {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  gap: 1px;
+  background: var(--line);
+}
+
+.sidebar-walks-strip::-webkit-scrollbar {
+  display: none;
+}
+
+.sidebar-walk-card {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 12px 10px;
+  width: 90px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--paper-2);
+  transition: background 0.1s;
+}
+
+.sidebar-walk-card:hover {
+  background: var(--paper-3);
+}
+
+.sidebar-walk-num {
+  width: 22px;
+  height: 22px;
+  background: var(--red);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 10px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.sidebar-walk-name {
+  font-size: 11px;
+  line-height: 1.3;
+  color: var(--text);
+}
+
+/* ---- Walk page ---- */
+
+.walk-waypoints {
+  margin: 20px 0;
+  padding-left: 0;
+  list-style: none;
+  counter-reset: waypoint;
+}
+
+.walk-waypoints li {
+  counter-increment: waypoint;
+  padding: 6px 0 6px 36px;
+  position: relative;
+  border-bottom: 1px solid var(--border);
+}
+
+.walk-waypoints li::before {
+  content: counter(waypoint);
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  background: var(--red);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.walk-marker {
+  background: var(--red);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: bold;
+  width: 24px !important;
+  height: 24px !important;
+  line-height: 24px;
+  text-align: center;
+}
+
 /* ---- POI image inspiration strip ---- */
 
 .poi-strip-label {

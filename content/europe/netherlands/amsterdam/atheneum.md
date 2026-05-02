@@ -1,6 +1,5 @@
 ---
 address: Spui 14–16
-category: Shop
 done:
   poi_cleanup: '2026-04-20'
 latitude: 52.3699
@@ -8,7 +7,6 @@ longitude: 4.8901
 snippet: Amsterdam's best independent bookshop, strong on literature
 tags:
 - shopping
-- canal_ring
 title: Atheneum Boekhandel
 type: poi
 ---

@@ -11,7 +11,6 @@ tags:
 - bars_and_cafes
 - nightlife
 - leidseplein
-- museum_quarter
 title: Paradiso
 type: poi
 url: paradiso.nl

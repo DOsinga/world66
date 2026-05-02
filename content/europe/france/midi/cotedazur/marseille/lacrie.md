@@ -11,4 +11,4 @@ title: La Criée
 type: poi
 ---
 
-The Théâtre National de Marseille occupies the old Criée aux poissons (fish auction hall) built in 1909, right on the Vieux-Port. Converted into a theatre in 1981, it houses two stages seating 800 and 250 respectively. The programme leans toward contemporary drama and dance, with a strong focus on Mediterranean voices. The building itself is worth a look — its harbourside façade is a reminder of Marseille's commercial past, and the location makes it easy to combine a show with dinner along the quay.
+La Criée — the name means the fish auction — opened as the Théâtre National de Marseille in 1981, when the old fish-auction building on the Quai de Rive Neuve was converted by Marcel Maréchal. It is one of France's national theatres, with a main stage of 800 seats and a smaller space for 250. The programme mixes contemporary French drama with touring productions and occasional opera and dance. The building preserves the industrial bones of its former life — high ceilings, cast-iron pillars — which gives it a rawness that suits the city.

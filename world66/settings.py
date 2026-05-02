@@ -32,14 +32,28 @@ ALLOWED_HOSTS = ["world66.ai", "www.world66.ai"] if _PRODUCTION else ["*"]
 
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
+    "django.contrib.sessions",
+    "world66_content",
     "guide",
+    "plans_app",
+    "spacetime_app",
 ]
+
+# Path to the world66 content directory — used by world66_content.models
+WORLD66_CONTENT_DIR = BASE_DIR / "content"
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
+    "django.middleware.csrf.CsrfViewMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
+
+SESSION_ENGINE = "django.contrib.sessions.backends.signed_cookies"
+SESSION_COOKIE_HTTPONLY = True
+SESSION_COOKIE_SAMESITE = "Lax"
+
 
 ROOT_URLCONF = "world66.urls"
 

@@ -1,0 +1,22 @@
+{% extends "plans/base.html" %}
+{% load static %}
+{% block title %}New trip — Tab.bi{% endblock %}
+{% block content %}
+<div class="tabbi-page login-page">
+  <div class="login-box">
+    <div class="login-logo">
+      <img src="{% static 'plans/tabbi-logo.svg' %}" alt="Tab.bi" style="width:48px;height:48px;border-radius:50%;vertical-align:middle;margin-right:10px;">Tab<span class="logo-dot">.</span>bi
+    </div>
+    <h1>New trip</h1>
+    <form method="post" action="/plans/new/">
+      {% csrf_token %}
+      {% if error %}<div class="login-error">{{ error }}</div>{% endif %}
+      <label for="title">Trip name</label>
+      <input type="text" id="title" name="title" autofocus autocomplete="off" placeholder="e.g. Summer in France">
+      <label for="keywords">Interests <span class="plan-new-hint">(optional — used for suggestions)</span></label>
+      <input type="text" id="keywords" name="keywords" autocomplete="off" placeholder="e.g. food, art, hiking, beaches">
+      <button type="submit">Create trip</button>
+    </form>
+  </div>
+</div>
+{% endblock %}

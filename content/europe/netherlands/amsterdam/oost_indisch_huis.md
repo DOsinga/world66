@@ -7,7 +7,6 @@ tags:
 - things_to_do
 - sight
 - centrum
-- canal_ring
 story: >
   The VOC (Dutch East India Company), founded in 1602, is often called history's first
   multinational corporation. At its peak it employed 50,000 people, maintained a private

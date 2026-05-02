@@ -16,11 +16,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..400&family=Inter:wght@300;400;500;600&display=swap">
   {% block body_style %}{% endblock %}
+  {% block head_extra %}{% endblock %}
 </head>
 <body>
 
 {% block background %}{% endblock %}
 
+{% block topnav %}
 <nav class="topnav">
   <div class="topnav-inner">
     <a href="/" class="logo">
@@ -36,9 +38,18 @@
         </form>
         <ul class="site-search-dropdown" id="header-search-dropdown"></ul>
       </div>
+      <div class="nav-auth">
+        {% if request.session.authenticated_plans %}
+          <a href="/plans/" class="nav-auth-link">My Plans</a>
+          <a href="/auth/logout/" class="nav-auth-btn">Sign out</a>
+        {% else %}
+          <a href="/plans/" class="nav-auth-btn">Plan your trip</a>
+        {% endif %}
+      </div>
     </div>
   </div>
 </nav>
+{% endblock topnav %}
 
 <div id="page">
 
@@ -54,18 +65,20 @@
 
   {% block wide_content %}{% endblock %}
 
+  {% block footer %}
   <footer id="footer">
     <div class="footer-cc">
       <a href="https://creativecommons.org/licenses/by-sa/1.0/" class="cc-badge" title="Creative Commons BY-SA 1.0">CC</a>
       <p>This work is licensed under a <a href="https://creativecommons.org/licenses/by-sa/1.0/">Creative Commons Attribution-ShareAlike 1.0</a> license.</p>
     </div>
   </footer>
+  {% endblock footer %}
 
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="{% static 'geo/mappings.js' %}"></script>
-<script src="{% static 'js/world66map.js' %}"></script>
+<script src="{% static 'js/world66map.js' %}?v=2"></script>
 <script>
 (function() {
   var toggle = document.querySelector('.sidebar-toggle');

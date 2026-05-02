@@ -6,6 +6,7 @@ snippet: The first purpose-built jazz venue in America
 tags:
 - bars_and_cafes
 - bar
+- fillmore_street
 title: SFJAZZ Center
 type: poi
 ---

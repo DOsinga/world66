@@ -7,7 +7,6 @@ tags:
 - things_to_do
 - architecture
 - rembrandtplein
-- canal_ring
 story: >
   Abraham Tuschinski, a Polish-Jewish immigrant, opened the theatre in 1921 and
   envisioned it as a palace where everyone — rich and poor — could experience beauty.

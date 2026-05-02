@@ -1,7 +1,9 @@
 ---
+city_tier: 3
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-02'
   poi_cleanup: '2026-04-20'
 image: amersfoort.jpg
 image_attribution: acediscovery
@@ -10,6 +12,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Amersfoort-Panorama.jpg
 latitude: 52.16377
 longitude: 5.408885
 score: 0.51
+tags:
+- history
+- medieval
+- cycling
+- day_trip
 title: Amersfoort
 type: location
 ---

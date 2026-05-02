@@ -1,7 +1,9 @@
 ---
+city_tier: 1
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
+  location_enrich: '2026-05-02'
   poi_cleanup: '2026-04-19'
 image: rotterdam.jpg
 image_attribution: Martin Falbisoner
@@ -10,6 +12,12 @@ image_source: https://commons.wikimedia.org/wiki/File:AIDAperla_in_Rotterdam_-_S
 latitude: 51.9225
 longitude: 4.4792
 score: 0.6
+tags:
+- architecture
+- culture
+- museums
+- port_city
+- modern
 title: Rotterdam
 type: location
 ---

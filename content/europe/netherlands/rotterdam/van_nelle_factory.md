@@ -3,6 +3,13 @@ title: Van Nelle Factory
 type: poi
 latitude: 51.9247
 longitude: 4.4325
+story: >
+  Le Corbusier called the Van Nelle Factory "the most beautiful spectacle of the
+  modern age". In an era when factories were dark, airless, and dangerous, Van Nelle
+  was designed around the health and productivity of its workers: a canteen, a sports
+  field, medical facilities, and light flooding every workroom. The architects Brinkman
+  and Van der Vlugt visited American factories and ignored them — they looked instead
+  at what workers actually needed.
 tags:
 - things_to_do
 - architecture

@@ -21,15 +21,12 @@
       <div class="home-hero-stat"><span class="home-hero-stat-n">25 yrs</span><span class="home-hero-stat-l">Of travel writing</span></div>
     </div>
   </div>
-  <div class="home-map-wrap">
-    <div id="world-map" class="home-map"></div>
-  </div>
 </div>
 {% endblock %}
 
 {% block wide_content %}
 <div class="wide-block home-continents-section">
-<div class="home-continent-grid">
+  <div class="home-continent-grid">
     {% for c in continents %}
     <a href="{{ c.page.get_absolute_url }}" class="home-continent-card">
       {% if c.image_url %}<img src="{{ c.image_url }}" alt="{{ c.page.title }}" class="home-continent-img">{% endif %}
@@ -50,16 +47,14 @@
     </a>
     {% endfor %}
   </div>
+
+  <div class="home-join-cta">
+    <div class="home-join-cta-text">
+      <h2 class="home-join-cta-title">Help build the best travel guide ever.</h2>
+      <p class="home-join-cta-body">World66 is open content, open source, and always free. Every edit you make — or every AI agent you point at it — improves the guide for everyone.</p>
+    </div>
+    <a href="/join" class="home-join-cta-btn">How to contribute →</a>
+  </div>
 </div>
 {% endblock %}
 
-{% block extra_js %}
-<script>
-var W66_CONTINENTS = [
-  {% for c in continents %}
-  {slug: "{{ c.page.slug }}", title: "{{ c.page.title|escapejs }}", url: "{{ c.page.get_absolute_url }}"},
-  {% endfor %}
-];
-initContinentMap('world-map', W66_CONTINENTS);
-</script>
-{% endblock %}

@@ -154,7 +154,23 @@ def home(request):
 
 
 def join(request):
-    return render(request, "guide/join.html")
+    import urllib.request, json as _json
+    contributors = []
+    try:
+        url = "https://api.github.com/repos/DOsinga/world66/contributors?per_page=30&anon=false"
+        req = urllib.request.Request(url, headers={"User-Agent": "world66-site"})
+        with urllib.request.urlopen(req, timeout=3) as resp:
+            for c in _json.loads(resp.read()):
+                if c.get("type") == "User":
+                    contributors.append({
+                        "login": c["login"],
+                        "avatar": c["avatar_url"],
+                        "url": c["html_url"],
+                        "contributions": c["contributions"],
+                    })
+    except Exception:
+        pass
+    return render(request, "guide/join.html", {"contributors": contributors})
 
 
 def app_world66(request):

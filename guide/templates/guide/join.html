@@ -428,7 +428,7 @@
     text-decoration: none;
   }
   .join-app-card-visual {
-    height: 220px;
+    height: 260px;
     position: relative;
     overflow: hidden;
     flex-shrink: 0;
@@ -443,15 +443,11 @@
   /* World66 visual */
   .app-visual-world66 {
     background: #1a2e1a;
-    background: linear-gradient(135deg, #1a2e1a 0%, #2d4a1e 50%, #1a3a2a 100%);
   }
   .app-visual-world66 .app-visual-map {
     position: absolute;
     inset: 0;
-    background-image:
-      radial-gradient(circle at 30% 55%, rgba(184,83,43,0.5) 0%, transparent 30%),
-      radial-gradient(circle at 70% 40%, rgba(100,180,100,0.3) 0%, transparent 35%),
-      radial-gradient(circle at 55% 70%, rgba(184,83,43,0.3) 0%, transparent 25%);
+    background: linear-gradient(to bottom, rgba(10,30,10,0.35) 0%, rgba(10,30,10,0.65) 100%);
   }
   .app-visual-world66 .app-visual-label {
     position: relative;
@@ -481,10 +477,7 @@
   .app-visual-timespace .app-visual-dots {
     position: absolute;
     inset: 0;
-    background-image:
-      radial-gradient(circle at 25% 60%, rgba(100,160,255,0.35) 0%, transparent 40%),
-      radial-gradient(circle at 75% 35%, rgba(184,83,43,0.4) 0%, transparent 35%),
-      radial-gradient(circle at 50% 80%, rgba(100,200,160,0.2) 0%, transparent 25%);
+    background: linear-gradient(to bottom, rgba(10,10,30,0.3) 0%, rgba(10,10,30,0.72) 100%);
   }
   .app-visual-timespace .app-visual-label {
     position: relative;
@@ -510,13 +503,11 @@
   /* Tabbi visual */
   .app-visual-tabbi {
     background: #1a1040;
-    background: linear-gradient(135deg, #1a1040 0%, #2a1060 50%, #3a1830 100%);
   }
   .app-visual-tabbi .app-visual-glow {
     position: absolute;
     inset: 0;
-    background:
-      radial-gradient(circle at 50% 50%, rgba(232,163,40,0.35) 0%, transparent 55%);
+    background: linear-gradient(to bottom, rgba(20,10,50,0.4) 0%, rgba(20,10,50,0.75) 100%);
   }
   .app-visual-tabbi .app-visual-logo {
     position: relative;
@@ -547,17 +538,19 @@
   /* City walks visual */
   .app-visual-walks {
     background: #1a1410;
-    background: linear-gradient(135deg, #261a10 0%, #1a2010 50%, #101818 100%);
   }
   .app-visual-walks .app-visual-path {
     position: absolute;
     inset: 0;
     overflow: hidden;
+    background: linear-gradient(to bottom, rgba(20,15,10,0.25) 0%, rgba(20,15,10,0.65) 100%);
   }
   .app-visual-walks .app-visual-path svg {
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
-    opacity: 0.5;
+    opacity: 0.7;
   }
   .app-visual-walks .app-visual-label {
     position: relative;
@@ -864,7 +857,7 @@
 
       <!-- World66 -->
       <a href="/apps/world66/" class="join-app-card">
-        <div class="join-app-card-visual app-visual-world66">
+        <div class="join-app-card-visual app-visual-world66" style="background-image:url('/content-image/southamerica/peru/machupicchu.jpg');background-size:cover;background-position:center;">
           <div class="app-visual-map"></div>
           <div class="join-app-card-visual-inner">
             <div class="app-visual-label">World66<span>Travel guide</span></div>
@@ -880,7 +873,7 @@
 
       <!-- TimeSpace -->
       <a href="/apps/timespace/" class="join-app-card">
-        <div class="join-app-card-visual app-visual-timespace">
+        <div class="join-app-card-visual app-visual-timespace" style="background-image:url('/content-image/europe/netherlands/amsterdam/de_pijp_evening.jpg');background-size:cover;background-position:center;">
           <div class="app-visual-dots"></div>
           <div class="join-app-card-visual-inner">
             <div class="app-visual-label">TimeSpace<span>Local events</span></div>
@@ -896,7 +889,7 @@
 
       <!-- Tabbi -->
       <a href="/apps/tabbi/" class="join-app-card">
-        <div class="join-app-card-visual app-visual-tabbi">
+        <div class="join-app-card-visual app-visual-tabbi" style="background-image:url('/content-image/asia/japan/tokyo/shibuya.jpg');background-size:cover;background-position:center;">
           <div class="app-visual-glow"></div>
           <div class="join-app-card-visual-inner" style="gap:0">
             <img class="app-visual-logo" src="{% static 'plans/tabbi-logo.svg' %}" alt="Tabbi">
@@ -913,7 +906,7 @@
 
       <!-- City walks -->
       <a href="/apps/city-walks/" class="join-app-card is-idea">
-        <div class="join-app-card-visual app-visual-walks">
+        <div class="join-app-card-visual app-visual-walks" style="background-image:url('/content-image/europe/netherlands/amsterdam/jordaan.jpg');background-size:cover;background-position:center;">
           <div class="app-visual-path">
             <svg viewBox="0 0 400 220" preserveAspectRatio="xMidYMid slice">
               <path d="M-20 110 Q80 40 140 110 T300 90 T440 130" stroke="rgba(184,83,43,0.6)" stroke-width="2.5" fill="none" stroke-dasharray="6 4"/>
@@ -978,6 +971,33 @@
     </div>
   </div>
 </div>
+
+<!-- Contributors -->
+{% if contributors %}
+<div style="padding: 72px 40px; background: var(--paper-2);">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <div class="join-section-label">The people building this</div>
+    <h2 class="join-section-title" style="margin-bottom: 40px;">Contributors on GitHub</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
+      {% for c in contributors %}
+      <a href="{{ c.url }}" target="_blank" rel="noopener"
+         style="display:flex;align-items:center;gap:10px;background:var(--paper);border:1px solid var(--line);border-radius:40px;padding:8px 16px 8px 8px;text-decoration:none;transition:border-color 0.15s,box-shadow 0.15s;"
+         onmouseover="this.style.borderColor='var(--accent)';this.style.boxShadow='0 2px 8px rgba(184,83,43,0.15)'"
+         onmouseout="this.style.borderColor='var(--line)';this.style.boxShadow='none'">
+        <img src="{{ c.avatar }}&s=48" alt="{{ c.login }}" width="32" height="32"
+             style="border-radius:50%;display:block;">
+        <span style="font-family:var(--label-font);font-size:13px;font-weight:500;color:var(--ink);">{{ c.login }}</span>
+        <span style="font-family:var(--label-font);font-size:11px;color:var(--mute);">{{ c.contributions }}</span>
+      </a>
+      {% endfor %}
+      <a href="https://github.com/DOsinga/world66/graphs/contributors" target="_blank" rel="noopener"
+         style="display:flex;align-items:center;gap:8px;background:transparent;border:1.5px dashed var(--line-2);border-radius:40px;padding:8px 20px;text-decoration:none;font-family:var(--label-font);font-size:13px;font-weight:500;color:var(--mute);">
+        + you?
+      </a>
+    </div>
+  </div>
+</div>
+{% endif %}
 
 <!-- Final CTA -->
 <div class="join-final">

@@ -12,25 +12,23 @@
   .join-hero {
     background: #1a0e08 url('/content-image/asia/jordan/petra.jpg') center 40%/cover;
     color: var(--paper);
-    padding: 120px 40px 100px;
-    text-align: center;
+    height: 560px;
     position: relative;
     overflow: hidden;
+    display: flex;
+    align-items: flex-end;
   }
   .join-hero::before {
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(to bottom,
-      rgba(10,5,2,0.42) 0%,
-      rgba(10,5,2,0.55) 60%,
-      rgba(10,5,2,0.72) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0.52) 100%);
     pointer-events: none;
   }
   .join-hero-inner {
     position: relative;
-    max-width: 780px;
-    margin: 0 auto;
+    padding: 0 56px 56px;
+    max-width: 960px;
   }
   .join-hero-eyebrow {
     display: inline-block;
@@ -47,17 +45,18 @@
   }
   .join-hero-title {
     font-family: var(--display-font);
-    font-size: clamp(40px, 5.5vw, 72px);
+    font-size: clamp(44px, 6.5vw, 88px);
     font-weight: 300;
-    line-height: 1.05;
-    letter-spacing: -0.03em;
-    font-variation-settings: "opsz" 72;
-    color: var(--paper);
-    margin-bottom: 24px;
+    line-height: 1.0;
+    letter-spacing: -0.04em;
+    font-variation-settings: "opsz" 88;
+    color: #fff;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+    margin: 0;
   }
   .join-hero-title em {
     font-style: italic;
-    color: #e8a07a;
+    color: #f0c090;
   }
   .join-hero-sub {
     font-size: 19px;
@@ -719,7 +718,8 @@
 
   /* ── Responsive ─────────────────────────────────────── */
   @media (max-width: 900px) {
-    .join-hero { padding: 64px 24px 56px; }
+    .join-hero { height: 420px; }
+    .join-hero-inner { padding: 0 24px 40px; }
     .join-section { padding: 56px 24px; }
     .join-pillars { grid-template-columns: 1fr; }
     .join-contrast { grid-template-columns: 1fr; padding: 32px 24px; gap: 32px; }
@@ -745,14 +745,15 @@
   <div class="join-hero-inner">
     <span class="join-hero-eyebrow">Open since 1998 · Now with AI</span>
     <h1 class="join-hero-title">The best travel guide<br>is written by <em>people who<br>actually go there.</em></h1>
-    <p class="join-hero-sub">AI can summarise the internet. It can't tell you about the back table at that café in Oaxaca, or why you should skip the famous viewpoint and take the road one block west. That's yours to give.</p>
-    <a href="#how-to-contribute" class="join-hero-cta">Start contributing</a>
   </div>
 </div>
 
 <!-- Why human + AI -->
 <div class="join-section">
   <div class="join-section-inner">
+    <p class="join-hero-sub" style="margin-bottom:28px;">AI can summarise the internet. It can't tell you about the back table at that café in Oaxaca, or why you should skip the famous viewpoint and take the road one block west. That's yours to give.</p>
+    <a href="#how-to-contribute" class="join-hero-cta" style="margin-bottom:56px;display:inline-block;">Start contributing</a>
+
     <div class="join-section-label">Why World66</div>
     <h2 class="join-section-title">In the age of AI, human knowledge matters more — not less.</h2>
     <p class="join-section-lead">Every LLM was trained on the same web. They all produce the same advice. The only way to be different is to know something real. World66 is built on that difference.</p>

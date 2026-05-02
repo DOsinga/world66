@@ -47,6 +47,10 @@ def _events_dir() -> Path:
     return Path(settings.BASE_DIR) / "spacetime_app" / "events"
 
 
+def _pois_dir() -> Path:
+    return Path(settings.BASE_DIR) / "spacetime_app" / "pois"
+
+
 # ── Dataclasses ──────────────────────────────────────────────────────────────
 
 @dataclass
@@ -96,7 +100,50 @@ class Event:
 # ── Loaders ──────────────────────────────────────────────────────────────────
 
 def load_venue(poi_path: str) -> Optional[Venue]:
-    """Load a W66 POI and return a Venue, or None if not found / no coords."""
+    """
+    Load a venue by path. Checks in order:
+    1. Shadow POI (spacetime/<slug>) — path starts with 'spacetime/'
+    2. W66 content tree
+    Returns None if not found or no coordinates.
+    """
+    if poi_path.startswith("spacetime/"):
+        return _load_shadow_venue(poi_path)
+    return _load_w66_venue(poi_path)
+
+
+def _load_shadow_venue(poi_path: str) -> Optional[Venue]:
+    """Load a venue from the spacetime shadow POI list."""
+    slug = poi_path.removeprefix("spacetime/")
+    path = _pois_dir() / f"{slug}.md"
+    if not path.exists():
+        return None
+    try:
+        post = frontmatter.load(str(path))
+    except Exception:
+        return None
+
+    # If this shadow POI has been claimed by W66, redirect transparently
+    w66_path = post.get("w66_path")
+    if w66_path:
+        return _load_w66_venue(w66_path)
+
+    lat = post.get("latitude") or post.get("lat")
+    lng = post.get("longitude") or post.get("lng")
+    if lat is None or lng is None:
+        return None
+
+    return Venue(
+        path=poi_path,
+        title=post.get("title", slug),
+        lat=float(lat),
+        lng=float(lng),
+        snippet=post.get("snippet", ""),
+        tags=post.get("tags", []) or [],
+    )
+
+
+def _load_w66_venue(poi_path: str) -> Optional[Venue]:
+    """Load a venue from the W66 content tree."""
     try:
         page = load_page(poi_path)
     except Exception:
@@ -108,11 +155,9 @@ def load_venue(poi_path: str) -> Optional[Venue]:
     if lat is None or lng is None:
         return None
 
-    # Build image URL if available
     image = page.meta.get("image", "")
     image_url = ""
     if image:
-        # Images live alongside the content file
         from world66_content.models import CONTENT_DIR
         content_path = CONTENT_DIR / poi_path
         for candidate in [content_path.parent / image, content_path / image]:

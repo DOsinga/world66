@@ -1,6 +1,6 @@
 ---
 title: TivoliVredenburg Utrecht
-poi: europe/netherlands/utrecht
+poi: spacetime/tivoli-vredenburg-utrecht
 url: https://www.tivolivredenburg.nl/agenda/
 interval_days: 7
 last_checked: null

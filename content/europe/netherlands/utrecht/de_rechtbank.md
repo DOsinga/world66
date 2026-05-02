@@ -4,10 +4,10 @@ type: poi
 tags:
   - eating_out
   - restaurant
-address: Hamburgerstraat 28, Utrecht
-latitude: 52.0919
-longitude: 5.1202
-snippet: Grand café in a former courthouse, good Dutch-European menu
+address: Korte Nieuwstraat 14, 3512 NM Utrecht
+latitude: 52.0917
+longitude: 5.1228
+snippet: Hotel-brasserie in a converted courthouse — one of the grander rooms in Utrecht
 ---
 
-An old courthouse converted into a grand café and restaurant — the high ceilings, arched windows, and original wooden furniture have been kept, giving the place a gravitas that most Utrecht restaurants can't match. The food is honest Dutch-European: stamppot in winter, grilled fish in summer, and a decent wine list. Good for lunch or an unhurried dinner before a concert at Tivoli Vredenburg, which is a short walk away.
+A brasserie and restaurant inside a former courthouse building, now part of the Court Hotel. The conversion has preserved the architecture well — the high ceilings and monumental proportions give the room a weight that most Utrecht restaurants can't match. Good for a sit-down lunch or dinner; the location near the Neude and a short walk from Tivoli Vredenburg makes it a practical choice before an evening out.

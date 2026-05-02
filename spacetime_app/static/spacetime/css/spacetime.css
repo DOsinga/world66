@@ -1,0 +1,322 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   Space Time — stylesheet
+   Dark theme, accent: #7B5CFF (purple) + #00C2FF (cyan)
+   ══════════════════════════════════════════════════════════════════════════ */
+
+/* ── Tokens ──────────────────────────────────────────────────────────────── */
+:root {
+  --st-bg:        #0D0D14;
+  --st-surface:   #16161F;
+  --st-border:    #2A2A3A;
+  --st-text:      #E8E8F0;
+  --st-muted:     #6B6B8A;
+  --st-accent:    #7B5CFF;
+  --st-cyan:      #00C2FF;
+  --st-radius:    12px;
+}
+
+/* ── Reset for app pages ─────────────────────────────────────────────────── */
+body {
+  background: var(--st-bg);
+  color: var(--st-text);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Hide World66 nav/footer entirely */
+.topnav, footer { display: none !important; }
+
+/* ── Nav ─────────────────────────────────────────────────────────────────── */
+.st-nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 0 20px;
+  height: 52px;
+  background: rgba(13, 13, 20, 0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--st-border);
+}
+
+.st-nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--st-text);
+  text-decoration: none;
+}
+.st-nav-wordmark {
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.st-nav-links { display: flex; gap: 4px; margin-left: auto; }
+.st-nav-link {
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--st-muted);
+  text-decoration: none;
+  transition: color 0.15s, background 0.15s;
+}
+.st-nav-link:hover { color: var(--st-text); background: var(--st-surface); }
+.st-nav-link--active { color: var(--st-text); background: var(--st-surface); }
+
+/* ── Map page layout ─────────────────────────────────────────────────────── */
+.st-map-page {
+  display: flex;
+  height: 100vh;
+  padding-top: 52px;
+}
+
+#st-map {
+  flex: 1;
+  height: 100%;
+  z-index: 1;
+}
+
+.st-sidebar {
+  width: 340px;
+  flex-shrink: 0;
+  background: var(--st-surface);
+  border-left: 1px solid var(--st-border);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 20px;
+  gap: 20px;
+}
+
+.st-sidebar-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 6px;
+  letter-spacing: -0.02em;
+}
+.st-sidebar-sub {
+  font-size: 0.78rem;
+  color: var(--st-muted);
+  margin: 0;
+}
+
+/* ── Radius slider ───────────────────────────────────────────────────────── */
+.st-radius-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  background: var(--st-bg);
+  border-radius: var(--st-radius);
+  border: 1px solid var(--st-border);
+}
+.st-radius-label { font-size: 0.75rem; color: var(--st-muted); white-space: nowrap; }
+.st-radius-slider {
+  flex: 1;
+  accent-color: var(--st-accent);
+}
+.st-radius-val { font-size: 0.75rem; color: var(--st-text); white-space: nowrap; }
+
+/* ── Section headings ────────────────────────────────────────────────────── */
+.st-section-title {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--st-muted);
+  margin: 0 0 10px;
+}
+
+/* ── Event list (sidebar) ────────────────────────────────────────────────── */
+.st-event-list, .st-venue-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+
+.st-event-item, .st-venue-item {
+  border-radius: var(--st-radius);
+  border: 1px solid var(--st-border);
+  transition: border-color 0.15s, background 0.15s;
+}
+.st-event-item:hover, .st-venue-item:hover {
+  border-color: var(--st-accent);
+  background: rgba(123, 92, 255, 0.06);
+}
+
+.st-event-link, .st-venue-link {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 10px 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.st-event-title, .st-venue-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--st-text);
+}
+.st-event-meta, .st-venue-meta {
+  font-size: 0.72rem;
+  color: var(--st-muted);
+}
+
+/* ── Category badges ─────────────────────────────────────────────────────── */
+.st-event-cat {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  width: fit-content;
+}
+.st-cat--concert   { background: rgba(255, 99,  132, 0.15); color: #FF6384; }
+.st-cat--music     { background: rgba(255, 99,  132, 0.15); color: #FF6384; }
+.st-cat--festival  { background: rgba(255, 159,  64, 0.15); color: #FF9F40; }
+.st-cat--market    { background: rgba(75,  192, 192, 0.15); color: #4BC0C0; }
+.st-cat--museum    { background: rgba(54,  162, 235, 0.15); color: #36A2EB; }
+.st-cat--exhibition{ background: rgba(54,  162, 235, 0.15); color: #36A2EB; }
+.st-cat--food      { background: rgba(255, 205,  86, 0.15); color: #FFCD56; }
+.st-cat--sport     { background: rgba(75,  192, 100, 0.15); color: #4BC064; }
+.st-cat--other     { background: rgba(107,  107, 138, 0.15); color: #6B6B8A; }
+
+/* ── Empty state ─────────────────────────────────────────────────────────── */
+.st-empty {
+  padding: 20px 0;
+  font-size: 0.82rem;
+  color: var(--st-muted);
+  line-height: 1.6;
+}
+.st-empty-sub { font-size: 0.75rem; }
+
+/* ── Map markers ─────────────────────────────────────────────────────────── */
+.st-marker {
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+.st-marker--event {
+  background: var(--st-accent);
+  width: 14px; height: 14px;
+  box-shadow: 0 0 10px rgba(123, 92, 255, 0.7);
+}
+.st-marker--venue {
+  background: var(--st-muted);
+  width: 10px; height: 10px;
+  border-color: rgba(255,255,255,0.4);
+}
+
+/* ── Full event list page ────────────────────────────────────────────────── */
+.st-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 80px 24px 60px;
+}
+.st-page-header { margin-bottom: 32px; }
+.st-page-header h1 { font-size: 2rem; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.03em; }
+.st-page-sub { color: var(--st-muted); font-size: 0.85rem; margin: 0; }
+
+.st-full-event-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+
+.st-full-event-item {
+  border-radius: var(--st-radius);
+  border: 1px solid var(--st-border);
+  transition: border-color 0.15s, background 0.15s;
+}
+.st-full-event-item:hover { border-color: var(--st-accent); background: rgba(123, 92, 255, 0.05); }
+.st-full-event-item--today { border-color: var(--st-cyan); }
+
+.st-full-event-link {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  padding: 16px 20px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.st-full-event-date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 40px;
+  padding-top: 2px;
+}
+.st-full-event-day { font-size: 1.4rem; font-weight: 800; line-height: 1; }
+.st-full-event-month { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--st-muted); }
+
+.st-full-event-body { flex: 1; display: flex; flex-direction: column; gap: 4px; }
+.st-full-event-title { font-size: 1rem; font-weight: 700; margin: 4px 0 2px; }
+.st-full-event-venue { font-size: 0.8rem; color: var(--st-muted); margin: 0; }
+.st-full-event-snippet { font-size: 0.78rem; color: var(--st-muted); margin: 0; }
+
+.st-no-events { text-align: center; padding: 60px 0; color: var(--st-muted); }
+.st-no-events code { background: var(--st-surface); padding: 2px 6px; border-radius: 4px; font-size: 0.85em; }
+
+/* ── Event detail page ───────────────────────────────────────────────────── */
+.st-breadcrumb {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 0.78rem;
+  color: var(--st-muted);
+  margin-bottom: 28px;
+}
+.st-breadcrumb a { color: var(--st-muted); text-decoration: none; }
+.st-breadcrumb a:hover { color: var(--st-text); }
+
+.st-detail-header { margin-bottom: 32px; }
+.st-detail-title { font-size: 2rem; font-weight: 800; margin: 8px 0 6px; letter-spacing: -0.03em; }
+.st-detail-when { color: var(--st-muted); font-size: 0.88rem; margin: 0; }
+
+.st-detail-layout { display: grid; grid-template-columns: 1fr 280px; gap: 40px; align-items: start; }
+
+.st-detail-description { font-size: 0.95rem; line-height: 1.7; color: var(--st-text); }
+.st-detail-cta {
+  display: inline-block;
+  margin-top: 24px;
+  padding: 12px 24px;
+  background: var(--st-accent);
+  color: #fff;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+.st-detail-cta:hover { background: #6348e0; }
+
+.st-detail-venue {
+  background: var(--st-surface);
+  border: 1px solid var(--st-border);
+  border-radius: var(--st-radius);
+  padding: 20px;
+}
+.st-detail-venue-title { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--st-muted); margin: 0 0 8px; }
+.st-detail-venue-name { font-size: 0.95rem; font-weight: 700; margin: 0 0 6px; }
+.st-detail-venue-name a { color: var(--st-cyan); text-decoration: none; }
+.st-detail-venue-snippet { font-size: 0.78rem; color: var(--st-muted); margin: 0 0 16px; }
+#st-detail-map { height: 180px; border-radius: 8px; overflow: hidden; }
+
+/* ── Leaflet popup dark override ─────────────────────────────────────────── */
+.leaflet-popup-content-wrapper {
+  background: var(--st-surface);
+  color: var(--st-text);
+  border: 1px solid var(--st-border);
+  border-radius: var(--st-radius);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+}
+.leaflet-popup-tip { background: var(--st-surface); }
+.leaflet-popup-content a { color: var(--st-cyan); }
+
+/* ── Responsive ──────────────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .st-map-page { flex-direction: column; }
+  #st-map { height: 50vh; }
+  .st-sidebar { width: 100%; border-left: none; border-top: 1px solid var(--st-border); height: 50vh; }
+  .st-detail-layout { grid-template-columns: 1fr; }
+}

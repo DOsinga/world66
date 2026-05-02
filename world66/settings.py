@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     "world66_content",
     "guide",
     "plans_app",
+    "spacetime_app",
 ]
 
 # Path to the world66 content directory — used by world66_content.models

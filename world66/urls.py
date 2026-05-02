@@ -13,5 +13,6 @@ urlpatterns = [
     path("auth/login/<slug:slug>/", views.auth_login, name="auth_login"),
     path("auth/logout/", views.auth_logout, name="auth_logout"),
     path("plans/", include("plans_app.urls")),
+    path("spacetime/", include("spacetime_app.urls")),
     path("<path:path>", views.location_or_section, name="location_or_section"),
 ]

@@ -1,0 +1,42 @@
+{% extends "spacetime/base.html" %}
+{% block title %}Events — Space Time{% endblock %}
+{% block nav_events %}st-nav-link--active{% endblock %}
+
+{% block content %}
+<div class="st-page">
+  <div class="st-page-header">
+    <h1>Upcoming events</h1>
+    <p class="st-page-sub">Added via pull requests on GitHub. No accounts, no forms — just files.</p>
+  </div>
+
+  {% if events %}
+  <ul class="st-full-event-list">
+    {% for e in events %}
+    <li class="st-full-event-item {% if e.is_today %}st-full-event-item--today{% endif %}">
+      <a href="/spacetime/events/{{ e.slug }}/" class="st-full-event-link">
+        <div class="st-full-event-date">
+          <span class="st-full-event-day">{{ e.date|date:"j" }}</span>
+          <span class="st-full-event-month">{{ e.date|date:"M" }}</span>
+        </div>
+        <div class="st-full-event-body">
+          <span class="st-event-cat st-cat--{{ e.category }}">{{ e.category }}</span>
+          <h2 class="st-full-event-title">{{ e.title }}</h2>
+          {% if e.venue %}
+          <p class="st-full-event-venue">{{ e.venue.title }}{% if e.time_start %} · {{ e.time_start }}{% if e.time_end %}–{{ e.time_end }}{% endif %}{% endif %}</p>
+          {% endif %}
+          {% if e.description %}
+          <p class="st-full-event-snippet">{{ e.description|truncatechars:120 }}</p>
+          {% endif %}
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <div class="st-no-events">
+    <p>No upcoming events yet.</p>
+    <p class="st-no-events-sub">Events are added as <code>.md</code> files via GitHub pull requests.</p>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

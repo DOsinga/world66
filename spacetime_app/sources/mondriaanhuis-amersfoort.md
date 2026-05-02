@@ -3,7 +3,7 @@ title: Mondriaanhuis Amersfoort
 poi: europe/netherlands/amersfoort/mondriaanhuis
 url: https://www.mondriaanhuis.nl/bezoek/activiteiten
 interval_days: 14
-last_checked: null
+last_checked: 2026-05-02
 ---
 Mondrian's birthplace in Amersfoort, now a museum tracing his path to
 abstract art. Hosts lectures, guided tours, special openings and

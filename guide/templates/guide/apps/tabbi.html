@@ -1,0 +1,59 @@
+{% extends "guide/base.html" %}
+{% load static %}
+{% block title %}Tab.bi — Trip Planner Built on World66{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+<div style="background:#1a1040 url('/content-image/asia/japan/honshu/osaka/dotonbori.jpg') center/cover; height:520px; position:relative; overflow:hidden; display:flex; align-items:flex-end;">
+  <div style="position:absolute;inset:0;background:linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0.5) 100%);pointer-events:none;"></div>
+  <div style="position:relative;padding:0 56px 52px;max-width:900px;display:flex;align-items:flex-end;gap:20px;">
+    <img src="{% static 'plans/tabbi-logo.svg' %}" alt="Tab.bi" style="width:64px;height:64px;flex-shrink:0;margin-bottom:6px;filter:drop-shadow(0 2px 8px rgba(0,0,0,0.4));">
+    <div>
+      <span style="display:inline-block;font-family:var(--label-font);font-size:11px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:rgba(255,255,255,0.7);margin-bottom:14px;">Platform app · Open source</span>
+      <h1 style="font-family:var(--display-font);font-size:clamp(52px,7vw,96px);font-weight:300;line-height:0.95;letter-spacing:-0.04em;font-variation-settings:'opsz' 96;color:#fff;text-shadow:0 2px 20px rgba(0,0,0,0.3);margin:0;">Tab.bi</h1>
+    </div>
+  </div>
+</div>
+
+<div style="max-width:1100px;margin:0 auto;padding:64px 40px;">
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:start;margin-bottom:48px;">
+    <div>
+      <h2 style="font-family:var(--display-font);font-size:clamp(26px,3vw,38px);font-weight:300;line-height:1.1;letter-spacing:-0.02em;font-variation-settings:'opsz' 38;color:var(--ink);margin-bottom:16px;">From World66 page to day-by-day itinerary in minutes.</h2>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:14px;">Tab.bi lets you build a trip directly from World66 content. Browse a city page, pin destinations and POIs to a plan, arrange them by day — then share the whole thing with a passphrase instead of a login.</p>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:14px;">Plans can be collaborative. Give the passphrase to your travel companion and you're both editing the same itinerary.</p>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:32px;">Better World66 content means better trip plans — every stop traces back to a page in <code style="font-size:14px;background:var(--paper-2);padding:1px 6px;border-radius:3px">content/</code>.</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;">
+        <a href="/plans/" style="display:inline-block;background:var(--accent);color:#f3eee4;font-family:var(--label-font);font-size:15px;font-weight:600;padding:13px 28px;border-radius:8px;text-decoration:none;box-shadow:0 4px 20px rgba(184,83,43,0.3);">Start planning</a>
+        <a href="https://github.com/DOsinga/world66" target="_blank" rel="noopener" style="display:inline-block;background:transparent;color:var(--ink);font-family:var(--label-font);font-size:15px;font-weight:500;padding:13px 28px;border-radius:8px;border:1.5px solid var(--line-2);text-decoration:none;">View on GitHub</a>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">No account required</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Plans are protected by a passphrase, not a login. Share the phrase with your travel companion — that's it.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Powered by W66 content</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Every stop is a World66 page. As the content improves, your plans get richer automatically.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Day-by-day structure</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Organise stops into days with notes per stop. Reorder by drag-and-drop. Print or share a clean itinerary view.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Open source</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">The plans_app lives in the World66 repo. Fork it, extend it, run your own instance.</div>
+      </div>
+    </div>
+  </div>
+  <div style="border-top:1px solid var(--line);padding-top:32px;">
+    <a href="/join" style="display:inline-block;font-family:var(--label-font);font-size:14px;font-weight:500;color:var(--mute);text-decoration:none;">← Back to all apps</a>
+  </div>
+</div>
+{% endblock %}

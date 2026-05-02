@@ -44,6 +44,42 @@ def home(request):
     return render(request, "guide/home.html", {'continents': continents})
 
 
+def join(request):
+    import urllib.request, json as _json
+    contributors = []
+    try:
+        url = "https://api.github.com/repos/DOsinga/world66/contributors?per_page=30&anon=false"
+        req = urllib.request.Request(url, headers={"User-Agent": "world66-site"})
+        with urllib.request.urlopen(req, timeout=3) as resp:
+            for c in _json.loads(resp.read()):
+                if c.get("type") == "User":
+                    contributors.append({
+                        "login": c["login"],
+                        "avatar": c["avatar_url"],
+                        "url": c["html_url"],
+                        "contributions": c["contributions"],
+                    })
+    except Exception:
+        pass
+    return render(request, "guide/join.html", {"contributors": contributors})
+
+
+def app_world66(request):
+    return render(request, "guide/apps/world66.html")
+
+
+def app_timespace(request):
+    return render(request, "guide/apps/timespace.html")
+
+
+def app_tabbi(request):
+    return render(request, "guide/apps/tabbi.html")
+
+
+def app_city_walks(request):
+    return render(request, "guide/apps/city_walks.html")
+
+
 def location_or_section(request, path):
     path = path.strip("/")
     branch = request.GET.get('branch')

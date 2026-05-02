@@ -1,0 +1,65 @@
+{% extends "guide/base.html" %}
+{% load static %}
+{% block title %}City Walks — A Concept App on World66{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+<div style="background:#261a10 url('/content-image/europe/netherlands/amsterdam/jordaan.jpg') center/cover; height:520px; position:relative; overflow:hidden; display:flex; align-items:flex-end;">
+  <div style="position:absolute;inset:0;background:linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0.5) 100%);pointer-events:none;"></div>
+  <div style="position:relative;padding:0 56px 52px;max-width:900px;">
+    <span style="display:inline-block;font-family:var(--label-font);font-size:11px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:rgba(255,255,255,0.7);margin-bottom:14px;">Platform app · Open source</span>
+    <h1 style="font-family:var(--display-font);font-size:clamp(52px,7vw,96px);font-weight:300;line-height:0.95;letter-spacing:-0.04em;font-variation-settings:'opsz' 96;color:#fff;text-shadow:0 2px 20px rgba(0,0,0,0.3);margin:0;">City Walks</h1>
+  </div>
+</div>
+
+<div style="max-width:1100px;margin:0 auto;padding:64px 40px;">
+
+  <div style="background:var(--paper-2);border:1px solid var(--line);border-radius:12px;padding:24px 28px;margin-bottom:48px;display:flex;gap:14px;align-items:flex-start;">
+    <span style="font-size:22px;flex-shrink:0">💡</span>
+    <div>
+      <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:5px;text-transform:uppercase;">This is a concept, not a finished app</div>
+      <p style="font-size:15px;line-height:1.65;color:var(--mute);margin:0;">City Walks doesn't exist yet. This page describes what it could be. If you want to build it on the World66 platform, we'd love to hear from you.</p>
+    </div>
+  </div>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:start;margin-bottom:48px;">
+    <div>
+      <h2 style="font-family:var(--display-font);font-size:clamp(26px,3vw,38px);font-weight:300;line-height:1.1;letter-spacing:-0.02em;font-variation-settings:'opsz' 38;color:var(--ink);margin-bottom:16px;">20,000 geocoded POIs. Already in a folder. Waiting for a walking app.</h2>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:14px;">World66 contains tens of thousands of points of interest — museums, cafés, viewpoints, street art, markets — each with latitude, longitude, description, and category. That's exactly the data a city walk app needs.</p>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:14px;">The guide already has curated neighbourhood sections. Each one is a natural walking route: pick five to eight POIs, add turn-by-turn context, render it on a map.</p>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:32px;">Because the content is CC BY-SA and the code is open source, you could fork World66 and ship a walk app in a weekend.</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;">
+        <a href="https://github.com/richardosinga/city-walks" target="_blank" rel="noopener" style="display:inline-block;background:var(--accent);color:#f3eee4;font-family:var(--label-font);font-size:15px;font-weight:600;padding:13px 28px;border-radius:8px;text-decoration:none;box-shadow:0 4px 20px rgba(184,83,43,0.3);">View on GitHub</a>
+        <a href="/join" style="display:inline-block;background:transparent;color:var(--ink);font-family:var(--label-font);font-size:15px;font-weight:500;padding:13px 28px;border-radius:8px;border:1.5px solid var(--line-2);text-decoration:none;">Other ways to contribute</a>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Ready-made content</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Every city in World66 has neighbourhood sections with curated POIs. Convert each section to a walk: start, stop, waypoints, and descriptions already written.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Offline-first</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Walks are just markdown + GeoJSON. Bundle a city at install time. No cell signal needed once the route is on the device.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">AI-generated routes</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">A Claude Code agent could read a city's POIs, cluster them geographically, and propose walk routes — then write them back into the content folder for review.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Same licence, same stack</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">CC BY-SA content, Python/Django backend, Leaflet maps. The same technologies as World66 and TimeSpace — no new infrastructure to learn.</div>
+      </div>
+    </div>
+  </div>
+  <div style="border-top:1px solid var(--line);padding-top:32px;">
+    <a href="/join" style="display:inline-block;font-family:var(--label-font);font-size:14px;font-weight:500;color:var(--mute);text-decoration:none;">← Back to all apps</a>
+  </div>
+</div>
+{% endblock %}

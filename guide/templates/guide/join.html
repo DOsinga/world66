@@ -1,0 +1,1039 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}Contribute to World66 — Help Build the World's Best Travel Guide{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+
+  /* ── Hero ──────────────────────────────────────────── */
+  .join-hero {
+    background: #111118 url('/content-image/europe/france/paris/oberkampf.jpg') center 50%/cover;
+    color: var(--paper);
+    height: 560px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-end;
+  }
+  .join-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0.52) 100%);
+    pointer-events: none;
+  }
+  .join-hero-inner {
+    position: relative;
+    padding: 0 56px 56px;
+    max-width: 960px;
+  }
+  .join-hero-eyebrow {
+    display: inline-block;
+    font-family: var(--label-font);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid rgba(184,83,43,0.4);
+    border-radius: 20px;
+    padding: 5px 14px;
+    margin-bottom: 28px;
+  }
+  .join-hero-title {
+    font-family: var(--display-font);
+    font-size: clamp(44px, 6.5vw, 88px);
+    font-weight: 300;
+    line-height: 1.0;
+    letter-spacing: -0.04em;
+    font-variation-settings: "opsz" 88;
+    color: #fff;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+    margin: 0;
+  }
+  .join-hero-title em {
+    font-style: italic;
+    color: #f0c090;
+  }
+  .join-hero-sub {
+    font-size: 19px;
+    line-height: 1.6;
+    color: rgba(243,238,228,0.72);
+    max-width: 580px;
+    margin: 0 auto 40px;
+  }
+  .join-hero-cta {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--paper);
+    font-family: var(--label-font);
+    font-size: 15px;
+    font-weight: 600;
+    padding: 14px 32px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.15s, transform 0.1s;
+    box-shadow: 0 4px 20px rgba(184,83,43,0.4);
+  }
+  .join-hero-cta:hover {
+    background: #a04620;
+    color: var(--paper);
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  /* ── Why section ───────────────────────────────────── */
+  .join-section {
+    padding: 80px 40px;
+  }
+  .join-section-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .join-section-label {
+    font-family: var(--label-font);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 14px;
+  }
+  .join-section-title {
+    font-family: var(--display-font);
+    font-size: clamp(28px, 3.5vw, 46px);
+    font-weight: 300;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    font-variation-settings: "opsz" 48;
+    color: var(--ink);
+    margin-bottom: 20px;
+    max-width: 700px;
+  }
+  .join-section-lead {
+    font-size: 18px;
+    line-height: 1.65;
+    color: var(--mute);
+    max-width: 640px;
+    margin-bottom: 56px;
+  }
+
+  /* ── Three pillars ─────────────────────────────────── */
+  .join-pillars {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 80px;
+  }
+  .join-pillar {
+    background: var(--paper);
+    padding: 36px 32px;
+  }
+  .join-pillar-icon {
+    font-size: 28px;
+    margin-bottom: 16px;
+    display: block;
+  }
+  .join-pillar-title {
+    font-family: var(--display-font);
+    font-size: 20px;
+    font-weight: 500;
+    font-variation-settings: "opsz" 20;
+    margin-bottom: 10px;
+    color: var(--ink);
+  }
+  .join-pillar-body {
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--mute);
+  }
+
+  /* ── Problem / contrast block ──────────────────────── */
+  .join-contrast {
+    background: var(--paper-2);
+    border-radius: 16px;
+    padding: 48px 56px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    align-items: start;
+    margin-bottom: 80px;
+  }
+  .join-contrast-col h3 {
+    font-family: var(--display-font);
+    font-size: 18px;
+    font-weight: 600;
+    font-variation-settings: "opsz" 18;
+    margin-bottom: 16px;
+  }
+  .join-contrast-col.bad h3 { color: var(--mute); }
+  .join-contrast-col.good h3 { color: var(--accent-ink); }
+  .join-contrast-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .join-contrast-list li {
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--ink);
+    padding: 8px 0;
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+  }
+  .join-contrast-list li:last-child { border-bottom: none; }
+  .join-contrast-list li::before {
+    flex-shrink: 0;
+    font-size: 13px;
+  }
+  .bad .join-contrast-list li::before { content: '✕'; color: #999; }
+  .good .join-contrast-list li::before { content: '✓'; color: var(--accent); font-weight: 700; }
+
+  /* ── How AI helps ──────────────────────────────────── */
+  .join-ai-section {
+    background: var(--ink) url('/content-image/asia/cambodia/angkorwat.jpg') center 30%/cover;
+    color: var(--paper);
+    height: 480px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+  }
+  .join-ai-section::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0.52) 100%);
+    pointer-events: none;
+  }
+  .join-ai-inner {
+    position: relative;
+    max-width: 1100px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 40px 52px;
+  }
+  .join-ai-label {
+    font-family: var(--label-font);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.7);
+    margin-bottom: 14px;
+  }
+  .join-ai-title {
+    font-family: var(--display-font);
+    font-size: clamp(36px, 5vw, 72px);
+    font-weight: 300;
+    line-height: 1.0;
+    letter-spacing: -0.03em;
+    font-variation-settings: "opsz" 72;
+    color: #fff;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+    margin: 0;
+    max-width: 800px;
+  }
+  .join-ai-sub {
+    font-size: 17px;
+    line-height: 1.65;
+    color: var(--mute);
+    max-width: 600px;
+    margin-bottom: 40px;
+  }
+  .join-ai-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .join-ai-card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 10px;
+    padding: 28px 24px;
+  }
+  .join-ai-card-title {
+    font-family: var(--label-font);
+    font-size: 13px;
+    font-weight: 600;
+    color: #e8a07a;
+    margin-bottom: 8px;
+    letter-spacing: 0.02em;
+  }
+  .join-ai-card-body {
+    font-size: 14px;
+    line-height: 1.6;
+    color: rgba(243,238,228,0.65);
+  }
+
+  /* ── Steps ─────────────────────────────────────────── */
+  .join-steps-section {
+    padding: 80px 40px;
+    background: var(--paper);
+  }
+  .join-steps-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .join-steps {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px 64px;
+    counter-reset: steps;
+    margin-top: 48px;
+  }
+  .join-step {
+    counter-increment: steps;
+    position: relative;
+    padding-left: 56px;
+  }
+  .join-step::before {
+    content: counter(steps);
+    position: absolute;
+    left: 0;
+    top: 2px;
+    width: 36px;
+    height: 36px;
+    background: var(--accent);
+    color: var(--paper);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--display-font);
+    font-size: 16px;
+    font-weight: 500;
+    font-variation-settings: "opsz" 16;
+    flex-shrink: 0;
+  }
+  .join-step-title {
+    font-family: var(--display-font);
+    font-size: 19px;
+    font-weight: 500;
+    font-variation-settings: "opsz" 19;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+  .join-step-body {
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--mute);
+  }
+  .join-step-body code {
+    background: var(--paper-2);
+    border: 1px solid var(--line-2);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 13px;
+    color: var(--accent-ink);
+  }
+  .join-step-body a {
+    color: var(--accent-ink);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  /* ── Open & Free ───────────────────────────────────── */
+  .join-open-section {
+    padding: 80px 40px;
+    background: var(--paper-2);
+  }
+  .join-open-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 64px;
+    align-items: start;
+  }
+  .join-open-text .join-section-title { margin-bottom: 16px; }
+  .join-open-text p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--mute);
+    margin-bottom: 16px;
+  }
+  .join-open-text p strong { color: var(--ink); font-weight: 600; }
+  .join-open-commitments {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 8px;
+  }
+  .join-open-commitment {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    background: var(--paper);
+    border-radius: 10px;
+    padding: 20px 22px;
+    border: 1px solid var(--line);
+  }
+  .join-open-commitment-icon {
+    font-size: 22px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .join-open-commitment-title {
+    font-family: var(--label-font);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--ink);
+    margin-bottom: 4px;
+    text-transform: uppercase;
+  }
+  .join-open-commitment-body {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--mute);
+  }
+
+  /* ── Platform ───────────────────────────────────────── */
+  .join-platform-section {
+    padding: 80px 40px;
+    background: var(--paper);
+  }
+  .join-platform-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .join-platform-intro {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 64px;
+    align-items: start;
+    margin-bottom: 56px;
+  }
+  .join-platform-intro p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--mute);
+    margin-bottom: 14px;
+  }
+
+  /* Big visual app cards */
+  .join-app-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+  .join-app-card {
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.18s, box-shadow 0.18s;
+    box-shadow: 0 2px 12px rgba(19,18,17,0.08);
+  }
+  .join-app-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 32px rgba(19,18,17,0.14);
+    text-decoration: none;
+  }
+  .join-app-card-visual {
+    height: 260px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .join-app-card-visual-inner {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0 24px 22px;
+  }
+  /* World66 visual */
+  .app-visual-world66 {
+    background: #1a2e1a;
+  }
+  .app-visual-world66 .app-visual-map {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 45%, rgba(0,0,0,0.48) 100%);
+  }
+  .app-visual-world66 .app-visual-label {
+    position: relative;
+    font-family: var(--display-font);
+    font-size: 28px;
+    font-weight: 400;
+    font-variation-settings: "opsz" 28;
+    color: #fff;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.5);
+  }
+  .app-visual-world66 .app-visual-label span {
+    display: block;
+    font-size: 11px;
+    font-family: var(--label-font);
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.65);
+    margin-top: 5px;
+  }
+  /* TimeSpace visual */
+  .app-visual-timespace {
+    background: #111118;
+  }
+  .app-visual-timespace .app-visual-dots {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 45%, rgba(0,0,0,0.48) 100%);
+  }
+  .app-visual-timespace .app-visual-label {
+    position: relative;
+    font-family: var(--display-font);
+    font-size: 28px;
+    font-weight: 400;
+    font-variation-settings: "opsz" 28;
+    color: #fff;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.5);
+  }
+  .app-visual-timespace .app-visual-label span {
+    display: block;
+    font-size: 11px;
+    font-family: var(--label-font);
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.65);
+    margin-top: 5px;
+  }
+  /* Tabbi visual */
+  .app-visual-tabbi {
+    background: #1a1040;
+  }
+  .app-visual-tabbi .app-visual-glow {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 45%, rgba(0,0,0,0.48) 100%);
+  }
+  .app-visual-tabbi .app-visual-logo {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+  }
+  .app-visual-tabbi .app-visual-name {
+    position: relative;
+    font-family: var(--display-font);
+    font-size: 28px;
+    font-weight: 400;
+    font-variation-settings: "opsz" 28;
+    color: #fff;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.5);
+  }
+  .app-visual-tabbi .app-visual-name span {
+    display: block;
+    font-size: 11px;
+    font-family: var(--label-font);
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.65);
+    margin-top: 5px;
+  }
+  /* City walks visual */
+  .app-visual-walks {
+    background: #1a1410;
+  }
+  .app-visual-walks .app-visual-path {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 45%, rgba(0,0,0,0.48) 100%);
+  }
+  .app-visual-walks .app-visual-path svg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+  }
+  .app-visual-walks .app-visual-label {
+    position: relative;
+    font-family: var(--display-font);
+    font-size: 28px;
+    font-weight: 400;
+    font-variation-settings: "opsz" 28;
+    color: #fff;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.5);
+  }
+  .app-visual-walks .app-visual-label span {
+    display: block;
+    font-size: 11px;
+    font-family: var(--label-font);
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: rgba(243,238,228,0.4);
+    margin-top: 8px;
+  }
+
+  .join-app-card-body {
+    background: var(--paper);
+    padding: 24px 28px 28px;
+    flex: 1;
+    border-top: none;
+  }
+  .join-app-card.is-idea .join-app-card-body {
+    background: var(--paper-2);
+  }
+  .join-app-card-tag {
+    display: inline-block;
+    font-family: var(--label-font);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  .tag-live { background: #dff2dc; color: #2a6b25; }
+  .tag-idea { background: var(--paper-3); color: var(--mute); border: 1px dashed var(--line-2); }
+  .join-app-card-name {
+    font-family: var(--display-font);
+    font-size: 22px;
+    font-weight: 500;
+    font-variation-settings: "opsz" 22;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+  .join-app-card-desc {
+    font-size: 14px;
+    line-height: 1.65;
+    color: var(--mute);
+    margin-bottom: 16px;
+  }
+  .join-app-card-link {
+    font-family: var(--label-font);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--accent-ink);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .join-platform-cta {
+    margin-top: 8px;
+    padding: 28px 32px;
+    background: var(--paper-2);
+    border-radius: 10px;
+    border: 1px solid var(--line);
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--mute);
+  }
+  .join-platform-cta strong { color: var(--ink); }
+
+  /* ── Final CTA ─────────────────────────────────────── */
+  .join-final {
+    background: var(--paper-3);
+    padding: 80px 40px;
+    text-align: center;
+  }
+  .join-final-inner {
+    max-width: 620px;
+    margin: 0 auto;
+  }
+  .join-final-title {
+    font-family: var(--display-font);
+    font-size: clamp(28px, 3.5vw, 46px);
+    font-weight: 300;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    font-variation-settings: "opsz" 46;
+    color: var(--ink);
+    margin-bottom: 16px;
+  }
+  .join-final-sub {
+    font-size: 17px;
+    line-height: 1.6;
+    color: var(--mute);
+    margin-bottom: 36px;
+  }
+  .join-final-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .join-btn-primary {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--paper);
+    font-family: var(--label-font);
+    font-size: 15px;
+    font-weight: 600;
+    padding: 13px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.15s;
+    box-shadow: 0 4px 16px rgba(184,83,43,0.3);
+  }
+  .join-btn-primary:hover {
+    background: #a04620;
+    color: var(--paper);
+    text-decoration: none;
+  }
+  .join-btn-secondary {
+    display: inline-block;
+    background: transparent;
+    color: var(--ink);
+    font-family: var(--label-font);
+    font-size: 15px;
+    font-weight: 500;
+    padding: 13px 28px;
+    border-radius: 8px;
+    border: 1.5px solid var(--line-2);
+    text-decoration: none;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .join-btn-secondary:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  /* ── Responsive ─────────────────────────────────────── */
+  @media (max-width: 900px) {
+    .join-hero { height: 420px; }
+    .join-hero-inner { padding: 0 24px 40px; }
+    .join-section { padding: 56px 24px; }
+    .join-pillars { grid-template-columns: 1fr; }
+    .join-contrast { grid-template-columns: 1fr; padding: 32px 24px; gap: 32px; }
+    .join-ai-section { height: 360px; }
+    .join-ai-inner { padding: 0 24px 40px; }
+    .join-ai-grid { grid-template-columns: 1fr; gap: 16px; }
+    .join-open-section { padding: 56px 24px; }
+    .join-open-inner { grid-template-columns: 1fr; gap: 36px; }
+    .join-platform-section { padding: 56px 24px; }
+    .join-platform-intro { grid-template-columns: 1fr; gap: 24px; }
+    .join-app-grid { grid-template-columns: 1fr; }
+    .join-steps-section { padding: 56px 24px; }
+    .join-steps { grid-template-columns: 1fr; gap: 36px; }
+    .join-final { padding: 56px 24px; }
+  }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+
+<!-- Hero -->
+<div class="join-hero">
+  <div class="join-hero-inner">
+    <span class="join-hero-eyebrow">Open since 1998 · Now with AI</span>
+    <h1 class="join-hero-title">The best travel guide<br>is written by <em>people who<br>actually go there.</em></h1>
+  </div>
+</div>
+
+<!-- Why human + AI -->
+<div class="join-section">
+  <div class="join-section-inner">
+    <p class="join-section-lead" style="margin-bottom:28px;">AI can summarise the internet. It can't tell you about the back table at that café in Oaxaca, or why you should skip the famous viewpoint and take the road one block west. That's yours to give.</p>
+    <a href="#how-to-contribute" class="join-hero-cta" style="margin-bottom:56px;display:inline-block;">Start contributing</a>
+
+    <div class="join-section-label">Why World66</div>
+    <h2 class="join-section-title">In the age of AI, human knowledge matters more — not less.</h2>
+    <p class="join-section-lead">Every LLM was trained on the same web. They all produce the same advice. The only way to be different is to know something real. World66 is built on that difference.</p>
+
+    <div class="join-pillars">
+      <div class="join-pillar">
+        <span class="join-pillar-icon">🧠</span>
+        <div class="join-pillar-title">You bring the knowledge</div>
+        <p class="join-pillar-body">You've been there. You know which neighbourhood to stay in, which market to avoid, and what's worth the detour. That can't be generated.</p>
+      </div>
+      <div class="join-pillar">
+        <span class="join-pillar-icon">🤖</span>
+        <div class="join-pillar-title">AI does the heavy lifting</div>
+        <p class="join-pillar-body">Claude Code acts as your co-author: it researches facts, formats content, finds opening hours, and sends PRs — so you can focus on what only you know.</p>
+      </div>
+      <div class="join-pillar">
+        <span class="join-pillar-icon">🌍</span>
+        <div class="join-pillar-title">Together we build something new</div>
+        <p class="join-pillar-body">The result is a living guide: constantly updated, deeply human, and built by people who actually care about the places they write about.</p>
+      </div>
+    </div>
+
+    <div class="join-contrast">
+      <div class="join-contrast-col bad">
+        <h3>Pure AI travel content</h3>
+        <ul class="join-contrast-list">
+          <li>Generic advice synthesised from millions of identical sources</li>
+          <li>Confident hallucinations about places that have closed or never existed</li>
+          <li>No point of view — no one is responsible for being wrong</li>
+          <li>Optimised for search rankings, not for the traveller reading it</li>
+        </ul>
+      </div>
+      <div class="join-contrast-col good">
+        <h3>World66 — human + AI</h3>
+        <ul class="join-contrast-list">
+          <li>Local and traveller knowledge that isn't anywhere else online</li>
+          <li>Verified by people who have walked the streets, not scraped them</li>
+          <li>Opinionated — someone stands behind every recommendation</li>
+          <li>AI handles research and formatting; humans handle truth and taste</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- How AI helps — hero -->
+<div class="join-ai-section">
+  <div class="join-ai-inner">
+    <div class="join-ai-label">Agentic AI</div>
+    <h2 class="join-ai-title">One person with an AI agent can do more than a team could in 2010.</h2>
+  </div>
+</div>
+
+<!-- How AI helps — body -->
+<div style="background: var(--paper); padding: 72px 40px;">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <p class="join-ai-sub">We use Claude Code as an agentic co-author. It can browse sources, write descriptions, geocode venues, and submit pull requests. You point it at a city; it does the groundwork.</p>
+    <div class="join-ai-grid">
+      <div class="join-ai-card" style="background:var(--paper-2);border:1px solid var(--line);">
+        <div class="join-ai-card-title" style="color:var(--accent-ink);">Research at scale</div>
+        <p class="join-ai-card-body" style="color:var(--mute);">The agent finds event listings, exhibition schedules, venue details, and local sources — across dozens of cities simultaneously.</p>
+      </div>
+      <div class="join-ai-card" style="background:var(--paper-2);border:1px solid var(--line);">
+        <div class="join-ai-card-title" style="color:var(--accent-ink);">Consistent formatting</div>
+        <p class="join-ai-card-body" style="color:var(--mute);">Every page follows the same structure: YAML frontmatter, markdown body, standardised categories. The agent enforces it so you don't have to.</p>
+      </div>
+      <div class="join-ai-card" style="background:var(--paper-2);border:1px solid var(--line);">
+        <div class="join-ai-card-title" style="color:var(--accent-ink);">You stay in control</div>
+        <p class="join-ai-card-body" style="color:var(--mute);">Everything goes through Git and pull requests. You review what the agent produced, edit anything that feels wrong, and merge when it's right.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Open & Free -->
+<div class="join-open-section">
+  <div class="join-open-inner">
+    <div class="join-open-text">
+      <div class="join-section-label">Open content · Open source</div>
+      <h2 class="join-section-title">Everything here is free. Forever.</h2>
+      <p>World66 was one of the first open-content travel guides on the web, launched in 1998 under a Creative Commons licence. That hasn't changed. <strong>Every word you write here is free for anyone to read, share, and build on.</strong></p>
+      <p>The code is open source too. There are no investors to satisfy, no paywall to build toward, no acquisition strategy. The only goal is a great travel guide that stays independent.</p>
+      <p>When you contribute, your work joins a commons that anyone — a student in Nairobi, a developer in Seoul, a traveller in Peru — can use without asking permission or paying a fee.</p>
+    </div>
+    <div class="join-open-commitments">
+      <div class="join-open-commitment">
+        <span class="join-open-commitment-icon">📖</span>
+        <div>
+          <div class="join-open-commitment-title">CC BY-SA — always</div>
+          <p class="join-open-commitment-body">All content is published under Creative Commons Attribution-ShareAlike. Read it, quote it, translate it, build on it — just give credit and keep it open.</p>
+        </div>
+      </div>
+      <div class="join-open-commitment">
+        <span class="join-open-commitment-icon">💻</span>
+        <div>
+          <div class="join-open-commitment-title">Open source code</div>
+          <p class="join-open-commitment-body">The entire site — Django app, templates, tools, agent workflows — is on GitHub. Fork it, study it, run your own instance.</p>
+        </div>
+      </div>
+      <div class="join-open-commitment">
+        <span class="join-open-commitment-icon">🚫</span>
+        <div>
+          <div class="join-open-commitment-title">No paywalls. No ads. No tracking.</div>
+          <p class="join-open-commitment-body">World66 has never charged for access and never will. The guide exists to be useful, not to monetise your attention.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Platform -->
+<div class="join-platform-section">
+  <div class="join-platform-inner">
+    <div class="join-platform-intro">
+      <div>
+        <div class="join-section-label">A platform, not just a guide</div>
+        <h2 class="join-section-title">World66 is the foundation. What gets built on it is up to you.</h2>
+      </div>
+      <div>
+        <p>The content in <code style="background:var(--paper-2);border:1px solid var(--line-2);padding:1px 6px;border-radius:4px;font-size:13px;color:var(--accent-ink)">content/</code> is structured, geocoded, and open. That makes it a data layer any app can read from — not just this website.</p>
+        <p>We've already built three apps on top of it. All open source. None required rebuilding the content from scratch. That's the point: contribute once, power many things.</p>
+      </div>
+    </div>
+
+    <div class="join-app-grid">
+
+      <!-- World66 -->
+      <a href="/apps/world66/" class="join-app-card">
+        <div class="join-app-card-visual app-visual-world66" style="background-image:url('/content-image/australiaandpacific/frenchpolynesia/borabora.jpg');background-size:cover;background-position:center;">
+          <div class="app-visual-map"></div>
+          <div class="join-app-card-visual-inner">
+            <div class="app-visual-label">World66<span>Travel guide</span></div>
+          </div>
+        </div>
+        <div class="join-app-card-body">
+          <span class="join-app-card-tag tag-live">Live</span>
+          <div class="join-app-card-name">World66</div>
+          <p class="join-app-card-desc">The travel guide itself — 20,000+ destinations from continents to hidden side streets, entirely powered by the <code style="font-size:12px;background:var(--paper-2);padding:1px 5px;border-radius:3px">content/</code> folder.</p>
+          <span class="join-app-card-link">Explore the guide →</span>
+        </div>
+      </a>
+
+      <!-- TimeSpace -->
+      <a href="/apps/timespace/" class="join-app-card">
+        <div class="join-app-card-visual app-visual-timespace" style="background-image:url('/content-image/europe/france/paris/oberkampf.jpg');background-size:cover;background-position:center;">
+          <div class="app-visual-dots"></div>
+          <div class="join-app-card-visual-inner">
+            <div class="app-visual-label">TimeSpace<span>Local events</span></div>
+          </div>
+        </div>
+        <div class="join-app-card-body">
+          <span class="join-app-card-tag tag-live">Live</span>
+          <div class="join-app-card-name">TimeSpace</div>
+          <p class="join-app-card-desc">A local events layer on top of World66 POIs. Concerts, exhibitions, theatre — updated weekly by AI agents reading venue schedules.</p>
+          <span class="join-app-card-link">See what's on →</span>
+        </div>
+      </a>
+
+      <!-- Tabbi -->
+      <a href="/apps/tabbi/" class="join-app-card">
+        <div class="join-app-card-visual app-visual-tabbi" style="background-image:url('/content-image/asia/japan/honshu/osaka/dotonbori.jpg');background-size:cover;background-position:center;">
+          <div class="app-visual-glow"></div>
+          <div class="join-app-card-visual-inner" style="gap:0">
+            <img class="app-visual-logo" src="{% static 'plans/tabbi-logo.svg' %}" alt="Tabbi">
+            <div class="app-visual-name">Tab.bi<span>Trip planner</span></div>
+          </div>
+        </div>
+        <div class="join-app-card-body">
+          <span class="join-app-card-tag tag-live">Live</span>
+          <div class="join-app-card-name">Tab.bi</div>
+          <p class="join-app-card-desc">A collaborative trip planner. Build day-by-day itineraries from World66 destinations and POIs, share with travel companions, and plan without signing up.</p>
+          <span class="join-app-card-link">Start planning →</span>
+        </div>
+      </a>
+
+      <!-- City walks -->
+      <a href="/apps/city-walks/" class="join-app-card is-idea">
+        <div class="join-app-card-visual app-visual-walks" style="background-image:url('/content-image/europe/netherlands/amsterdam/jordaan.jpg');background-size:cover;background-position:center;">
+          <div class="app-visual-path">
+            <svg viewBox="0 0 400 220" preserveAspectRatio="xMidYMid slice">
+              <path d="M-20 110 Q80 40 140 110 T300 90 T440 130" stroke="rgba(184,83,43,0.6)" stroke-width="2.5" fill="none" stroke-dasharray="6 4"/>
+              <circle cx="80" cy="72" r="5" fill="rgba(184,83,43,0.8)"/>
+              <circle cx="200" cy="100" r="5" fill="rgba(184,83,43,0.8)"/>
+              <circle cx="310" cy="82" r="5" fill="rgba(184,83,43,0.8)"/>
+              <path d="M40 180 Q100 120 180 160 T360 140" stroke="rgba(243,238,228,0.15)" stroke-width="1.5" fill="none"/>
+            </svg>
+          </div>
+          <div class="join-app-card-visual-inner">
+            <div class="app-visual-label">City Walks<span>Your idea</span></div>
+          </div>
+        </div>
+        <div class="join-app-card-body">
+          <span class="join-app-card-tag tag-idea">Concept</span>
+          <div class="join-app-card-name">City Walks</div>
+          <p class="join-app-card-desc">Turn World66 POIs into guided walking routes. Street-level navigation, offline maps, curated neighbourhood tours. The geocoded content is already there — it needs a builder.</p>
+          <span class="join-app-card-link">Read more →</span>
+        </div>
+      </a>
+
+    </div>
+
+    <div class="join-platform-cta">
+      <strong>Want to build something?</strong> Fork the repo, read the content structure in <code style="background:var(--paper);border:1px solid var(--line-2);padding:1px 5px;border-radius:4px;font-size:13px;color:var(--accent-ink)">CLAUDE.md</code>, and open an issue describing what you're making. The content, the tooling, and the community are here.
+    </div>
+  </div>
+</div>
+
+<!-- How to contribute -->
+<div class="join-steps-section" id="how-to-contribute">
+  <div class="join-steps-inner">
+    <div class="join-section-label">How to contribute</div>
+    <h2 class="join-section-title">From zero to your first contribution in an afternoon.</h2>
+    <p class="join-section-lead">The full workflow runs through Git and GitHub. You write markdown, AI helps where useful, and everything is reviewed before it goes live.</p>
+
+    <div class="join-steps">
+      <div class="join-step">
+        <div class="join-step-title">Fork and clone the repo</div>
+        <p class="join-step-body">Head to <a href="https://github.com/DOsinga/world66" target="_blank" rel="noopener">github.com/DOsinga/world66</a>, fork it, and clone your fork locally. All content lives in the <code>content/</code> folder as plain markdown files.</p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Pick a place you know</div>
+        <p class="join-step-body">Find the city, neighbourhood, or point of interest in <code>content/</code>. If it doesn't exist yet, create it. The folder structure mirrors the world: <code>content/europe/netherlands/amsterdam/</code></p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Read CLAUDE.md and STYLE.md</div>
+        <p class="join-step-body">These two files explain exactly how pages should be structured and how to write in the World66 voice. Read them once and you'll know what good looks like.</p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Write or improve the content</div>
+        <p class="join-step-body">Edit the markdown directly, or open the repo in <a href="https://claude.ai/code" target="_blank" rel="noopener">Claude Code</a> and ask it to help. It knows the style guide and can draft, research, and format for you.</p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Run the site locally to preview</div>
+        <p class="join-step-body">Install dependencies with <code>pip install -r requirements.txt</code>, then run <code>python manage.py runserver 8066</code>. Visit <code>localhost:8066</code> to see exactly how your changes will look.</p>
+      </div>
+      <div class="join-step">
+        <div class="join-step-title">Submit a pull request</div>
+        <p class="join-step-body">Push your branch and open a PR on GitHub. Describe what you changed and why. We review, give feedback if needed, and merge. Your contribution goes live on the next deploy.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Contributors -->
+{% if contributors %}
+<div style="padding: 72px 40px; background: var(--paper-2);">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <div class="join-section-label">The people building this</div>
+    <h2 class="join-section-title" style="margin-bottom: 40px;">Contributors on GitHub</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
+      {% for c in contributors %}
+      <a href="{{ c.url }}" target="_blank" rel="noopener"
+         style="display:flex;align-items:center;gap:10px;background:var(--paper);border:1px solid var(--line);border-radius:40px;padding:8px 16px 8px 8px;text-decoration:none;transition:border-color 0.15s,box-shadow 0.15s;"
+         onmouseover="this.style.borderColor='var(--accent)';this.style.boxShadow='0 2px 8px rgba(184,83,43,0.15)'"
+         onmouseout="this.style.borderColor='var(--line)';this.style.boxShadow='none'">
+        <img src="{{ c.avatar }}&s=48" alt="{{ c.login }}" width="32" height="32"
+             style="border-radius:50%;display:block;">
+        <span style="font-family:var(--label-font);font-size:13px;font-weight:500;color:var(--ink);">{{ c.login }}</span>
+        <span style="font-family:var(--label-font);font-size:11px;color:var(--mute);">{{ c.contributions }}</span>
+      </a>
+      {% endfor %}
+      <a href="https://github.com/DOsinga/world66/graphs/contributors" target="_blank" rel="noopener"
+         style="display:flex;align-items:center;gap:8px;background:transparent;border:1.5px dashed var(--line-2);border-radius:40px;padding:8px 20px;text-decoration:none;font-family:var(--label-font);font-size:13px;font-weight:500;color:var(--mute);">
+        + you?
+      </a>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Final CTA -->
+<div class="join-final">
+  <div class="join-final-inner">
+    <h2 class="join-final-title">The world's best travel guide doesn't exist yet. Help us build it.</h2>
+    <p class="join-final-sub">World66 has been open since 1998. Every good page was written by someone who cared. We'd like yours to be next.</p>
+    <div class="join-final-actions">
+      <a href="https://github.com/DOsinga/world66" target="_blank" rel="noopener" class="join-btn-primary">View on GitHub</a>
+      <a href="/" class="join-btn-secondary">Explore the guide</a>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

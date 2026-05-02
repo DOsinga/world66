@@ -1,0 +1,55 @@
+{% extends "guide/base.html" %}
+{% load static %}
+{% block title %}World66 — The Open Travel Guide{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+<div style="background:#1a2e1a url('/content-image/australiaandpacific/frenchpolynesia/borabora.jpg') center/cover; height:520px; position:relative; overflow:hidden; display:flex; align-items:flex-end;">
+  <div style="position:absolute;inset:0;background:linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0.5) 100%);pointer-events:none;"></div>
+  <div style="position:relative;padding:0 56px 52px;max-width:900px;">
+    <span style="display:inline-block;font-family:var(--label-font);font-size:11px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:rgba(255,255,255,0.7);margin-bottom:14px;">Platform app · Open source</span>
+    <h1 style="font-family:var(--display-font);font-size:clamp(52px,7vw,96px);font-weight:300;line-height:0.95;letter-spacing:-0.04em;font-variation-settings:'opsz' 96;color:#fff;text-shadow:0 2px 20px rgba(0,0,0,0.3);margin:0;">World66</h1>
+  </div>
+</div>
+
+<div style="max-width:1100px;margin:0 auto;padding:64px 40px;">
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:start;margin-bottom:48px;">
+    <div>
+      <h2 style="font-family:var(--display-font);font-size:clamp(26px,3vw,38px);font-weight:300;line-height:1.1;letter-spacing:-0.02em;font-variation-settings:'opsz' 38;color:var(--ink);margin-bottom:16px;">A travel guide that reads like a book, built like Wikipedia.</h2>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:14px;">World66 started in 1998 as one of the first open-content travel guides on the web. All content lives in a folder of markdown files — no database, no CMS. Anyone with a GitHub account can contribute.</p>
+      <p style="font-size:16px;line-height:1.7;color:var(--mute);margin-bottom:32px;">The site is served by a lightweight Django app that reads directly from the filesystem. It's fast, transparent, and easy to run locally.</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;">
+        <a href="/" style="display:inline-block;background:var(--accent);color:#f3eee4;font-family:var(--label-font);font-size:15px;font-weight:600;padding:13px 28px;border-radius:8px;text-decoration:none;box-shadow:0 4px 20px rgba(184,83,43,0.3);">Explore the guide</a>
+        <a href="https://github.com/DOsinga/world66" target="_blank" rel="noopener" style="display:inline-block;background:transparent;color:var(--ink);font-family:var(--label-font);font-size:15px;font-weight:500;padding:13px 28px;border-radius:8px;border:1.5px solid var(--line-2);text-decoration:none;">View on GitHub</a>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Filesystem as database</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Every destination is a markdown file with YAML frontmatter. No migrations, no ORM. Git is the version history.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">CC BY-SA licence</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">All content is Creative Commons Attribution-ShareAlike. Read it, build on it, share it — no permission required.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">AI-assisted editing</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Claude Code can read, write, and submit PRs to the content folder. You define the task; the agent does the fieldwork.</div>
+      </div>
+      <div style="background:var(--paper-2);border-radius:10px;padding:20px 22px;border:1px solid var(--line);">
+        <div style="font-family:var(--label-font);font-size:12px;font-weight:700;letter-spacing:0.05em;color:var(--ink);margin-bottom:4px;text-transform:uppercase;">Hierarchical structure</div>
+        <div style="font-size:14px;line-height:1.6;color:var(--mute);">Continent → Country → Region → City → Section → POI. The folder structure mirrors the world.</div>
+      </div>
+    </div>
+  </div>
+  <div style="border-top:1px solid var(--line);padding-top:32px;">
+    <a href="/join" style="display:inline-block;font-family:var(--label-font);font-size:14px;font-weight:500;color:var(--mute);text-decoration:none;">← Back to all apps</a>
+  </div>
+</div>
+{% endblock %}

@@ -6,6 +6,13 @@ latitude: 51.9201
 longitude: 4.4903
 phone: +31 10 414 2285
 snippet: Piet Blom's iconic tilted cubes near Blaak station
+story: >
+  Piet Blom's design brief was to create "a village within a city". Each cube
+  represents a tree, and the forest of cubes is meant to form a village. Of the 38
+  cubes, two were reserved for public functions and the rest were sold as homes.
+  When the first residents moved in, they discovered that roughly a third of each
+  floor area was unusable due to the tilted walls — but found the floor-to-ceiling
+  windows with their vertiginous views more than compensation.
 tags:
 - things_to_do
 - architecture

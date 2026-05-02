@@ -52,6 +52,10 @@ Add new content to locations that have already been cleaned up (see `location_cl
 
 See STYLE.md and LOCATIONS.md. Practical, opinionated, concise. Research destinations using web search — don't invent details.
 
+## Do not invent
+
+**Never fabricate a POI.** Every restaurant, bar, cafe, shop, or attraction you add must be a real, verifiable place. Use web search to confirm it exists before writing it up. If you cannot verify a place exists, do not add it — a shorter list of real places is far better than a longer list with invented ones. This applies equally to names, addresses, and descriptions: do not guess at details you are not certain of.
+
 ## Batch files
 
 Each file contains ~5 locations. Process all in a batch, commit each separately.

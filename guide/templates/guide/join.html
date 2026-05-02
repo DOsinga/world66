@@ -203,20 +203,24 @@
   .join-ai-section {
     background: var(--ink) url('/content-image/asia/cambodia/angkorwat.jpg') center 30%/cover;
     color: var(--paper);
-    padding: 80px 40px;
+    height: 480px;
     position: relative;
+    display: flex;
+    align-items: flex-end;
   }
   .join-ai-section::before {
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.5) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0.52) 100%);
     pointer-events: none;
   }
   .join-ai-inner {
     position: relative;
     max-width: 1100px;
     margin: 0 auto;
+    width: 100%;
+    padding: 0 40px 52px;
   }
   .join-ai-label {
     font-family: var(--label-font);
@@ -224,26 +228,27 @@
     font-weight: 600;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--accent);
+    color: rgba(255,255,255,0.7);
     margin-bottom: 14px;
   }
   .join-ai-title {
     font-family: var(--display-font);
-    font-size: clamp(26px, 3vw, 42px);
+    font-size: clamp(36px, 5vw, 72px);
     font-weight: 300;
-    line-height: 1.1;
-    letter-spacing: -0.02em;
-    font-variation-settings: "opsz" 42;
-    color: var(--paper);
-    margin-bottom: 16px;
-    max-width: 680px;
+    line-height: 1.0;
+    letter-spacing: -0.03em;
+    font-variation-settings: "opsz" 72;
+    color: #fff;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+    margin: 0;
+    max-width: 800px;
   }
   .join-ai-sub {
     font-size: 17px;
     line-height: 1.65;
-    color: rgba(243,238,228,0.65);
+    color: var(--mute);
     max-width: 600px;
-    margin-bottom: 52px;
+    margin-bottom: 40px;
   }
   .join-ai-grid {
     display: grid;
@@ -718,7 +723,8 @@
     .join-section { padding: 56px 24px; }
     .join-pillars { grid-template-columns: 1fr; }
     .join-contrast { grid-template-columns: 1fr; padding: 32px 24px; gap: 32px; }
-    .join-ai-section { padding: 56px 24px; }
+    .join-ai-section { height: 360px; }
+    .join-ai-inner { padding: 0 24px 40px; }
     .join-ai-grid { grid-template-columns: 1fr; gap: 16px; }
     .join-open-section { padding: 56px 24px; }
     .join-open-inner { grid-template-columns: 1fr; gap: 36px; }
@@ -792,24 +798,30 @@
   </div>
 </div>
 
-<!-- How AI helps -->
+<!-- How AI helps — hero -->
 <div class="join-ai-section">
   <div class="join-ai-inner">
     <div class="join-ai-label">Agentic AI</div>
     <h2 class="join-ai-title">One person with an AI agent can do more than a team could in 2010.</h2>
+  </div>
+</div>
+
+<!-- How AI helps — body -->
+<div style="background: var(--paper); padding: 72px 40px;">
+  <div style="max-width: 1100px; margin: 0 auto;">
     <p class="join-ai-sub">We use Claude Code as an agentic co-author. It can browse sources, write descriptions, geocode venues, and submit pull requests. You point it at a city; it does the groundwork.</p>
     <div class="join-ai-grid">
-      <div class="join-ai-card">
-        <div class="join-ai-card-title">Research at scale</div>
-        <p class="join-ai-card-body">The agent finds event listings, exhibition schedules, venue details, and local sources — across dozens of cities simultaneously.</p>
+      <div class="join-ai-card" style="background:var(--paper-2);border:1px solid var(--line);">
+        <div class="join-ai-card-title" style="color:var(--accent-ink);">Research at scale</div>
+        <p class="join-ai-card-body" style="color:var(--mute);">The agent finds event listings, exhibition schedules, venue details, and local sources — across dozens of cities simultaneously.</p>
       </div>
-      <div class="join-ai-card">
-        <div class="join-ai-card-title">Consistent formatting</div>
-        <p class="join-ai-card-body">Every page follows the same structure: YAML frontmatter, markdown body, standardised categories. The agent enforces it so you don't have to.</p>
+      <div class="join-ai-card" style="background:var(--paper-2);border:1px solid var(--line);">
+        <div class="join-ai-card-title" style="color:var(--accent-ink);">Consistent formatting</div>
+        <p class="join-ai-card-body" style="color:var(--mute);">Every page follows the same structure: YAML frontmatter, markdown body, standardised categories. The agent enforces it so you don't have to.</p>
       </div>
-      <div class="join-ai-card">
-        <div class="join-ai-card-title">You stay in control</div>
-        <p class="join-ai-card-body">Everything goes through Git and pull requests. You review what the agent produced, edit anything that feels wrong, and merge when it's right.</p>
+      <div class="join-ai-card" style="background:var(--paper-2);border:1px solid var(--line);">
+        <div class="join-ai-card-title" style="color:var(--accent-ink);">You stay in control</div>
+        <p class="join-ai-card-body" style="color:var(--mute);">Everything goes through Git and pull requests. You review what the agent produced, edit anything that feels wrong, and merge when it's right.</p>
       </div>
     </div>
   </div>

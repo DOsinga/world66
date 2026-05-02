@@ -327,6 +327,155 @@
     text-underline-offset: 2px;
   }
 
+  /* ── Open & Free ───────────────────────────────────── */
+  .join-open-section {
+    padding: 80px 40px;
+    background: var(--paper-2);
+  }
+  .join-open-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 64px;
+    align-items: start;
+  }
+  .join-open-text .join-section-title { margin-bottom: 16px; }
+  .join-open-text p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--mute);
+    margin-bottom: 16px;
+  }
+  .join-open-text p strong { color: var(--ink); font-weight: 600; }
+  .join-open-commitments {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 8px;
+  }
+  .join-open-commitment {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    background: var(--paper);
+    border-radius: 10px;
+    padding: 20px 22px;
+    border: 1px solid var(--line);
+  }
+  .join-open-commitment-icon {
+    font-size: 22px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .join-open-commitment-title {
+    font-family: var(--label-font);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--ink);
+    margin-bottom: 4px;
+    text-transform: uppercase;
+  }
+  .join-open-commitment-body {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--mute);
+  }
+
+  /* ── Platform ───────────────────────────────────────── */
+  .join-platform-section {
+    padding: 80px 40px;
+    background: var(--paper);
+  }
+  .join-platform-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .join-platform-intro {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 64px;
+    align-items: start;
+    margin-bottom: 56px;
+  }
+  .join-platform-intro p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--mute);
+    margin-bottom: 14px;
+  }
+  .join-platform-apps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .join-platform-app {
+    background: var(--paper);
+    padding: 32px 28px;
+    position: relative;
+  }
+  .join-platform-app.is-idea {
+    background: var(--paper-2);
+  }
+  .join-platform-app-tag {
+    display: inline-block;
+    font-family: var(--label-font);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 4px;
+    margin-bottom: 14px;
+  }
+  .join-platform-app-tag.live {
+    background: #dff2dc;
+    color: #2a6b25;
+  }
+  .join-platform-app-tag.idea {
+    background: var(--paper-3);
+    color: var(--mute);
+    border: 1px dashed var(--line-2);
+  }
+  .join-platform-app-name {
+    font-family: var(--display-font);
+    font-size: 22px;
+    font-weight: 500;
+    font-variation-settings: "opsz" 22;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+  .join-platform-app-body {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--mute);
+  }
+  .join-platform-app-link {
+    display: inline-block;
+    margin-top: 14px;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--accent-ink);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .join-platform-cta {
+    margin-top: 40px;
+    padding: 28px 32px;
+    background: var(--paper-2);
+    border-radius: 10px;
+    border: 1px solid var(--line);
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--mute);
+  }
+  .join-platform-cta strong { color: var(--ink); }
+
   /* ── Final CTA ─────────────────────────────────────── */
   .join-final {
     background: var(--paper-3);
@@ -404,6 +553,11 @@
     .join-contrast { grid-template-columns: 1fr; padding: 32px 24px; gap: 32px; }
     .join-ai-section { padding: 56px 24px; }
     .join-ai-grid { grid-template-columns: 1fr; gap: 16px; }
+    .join-open-section { padding: 56px 24px; }
+    .join-open-inner { grid-template-columns: 1fr; gap: 36px; }
+    .join-platform-section { padding: 56px 24px; }
+    .join-platform-intro { grid-template-columns: 1fr; gap: 24px; }
+    .join-platform-apps { grid-template-columns: 1fr; }
     .join-steps-section { padding: 56px 24px; }
     .join-steps { grid-template-columns: 1fr; gap: 36px; }
     .join-final { padding: 56px 24px; }
@@ -490,6 +644,82 @@
         <div class="join-ai-card-title">You stay in control</div>
         <p class="join-ai-card-body">Everything goes through Git and pull requests. You review what the agent produced, edit anything that feels wrong, and merge when it's right.</p>
       </div>
+    </div>
+  </div>
+</div>
+
+<!-- Open & Free -->
+<div class="join-open-section">
+  <div class="join-open-inner">
+    <div class="join-open-text">
+      <div class="join-section-label">Open content · Open source</div>
+      <h2 class="join-section-title">Everything here is free. Forever.</h2>
+      <p>World66 was one of the first open-content travel guides on the web, launched in 1998 under a Creative Commons licence. That hasn't changed. <strong>Every word you write here is free for anyone to read, share, and build on.</strong></p>
+      <p>The code is open source too. There are no investors to satisfy, no paywall to build toward, no acquisition strategy. The only goal is a great travel guide that stays independent.</p>
+      <p>When you contribute, your work joins a commons that anyone — a student in Nairobi, a developer in Seoul, a traveller in Peru — can use without asking permission or paying a fee.</p>
+    </div>
+    <div class="join-open-commitments">
+      <div class="join-open-commitment">
+        <span class="join-open-commitment-icon">📖</span>
+        <div>
+          <div class="join-open-commitment-title">CC BY-SA — always</div>
+          <p class="join-open-commitment-body">All content is published under Creative Commons Attribution-ShareAlike. Read it, quote it, translate it, build on it — just give credit and keep it open.</p>
+        </div>
+      </div>
+      <div class="join-open-commitment">
+        <span class="join-open-commitment-icon">💻</span>
+        <div>
+          <div class="join-open-commitment-title">Open source code</div>
+          <p class="join-open-commitment-body">The entire site — Django app, templates, tools, agent workflows — is on GitHub. Fork it, study it, run your own instance.</p>
+        </div>
+      </div>
+      <div class="join-open-commitment">
+        <span class="join-open-commitment-icon">🚫</span>
+        <div>
+          <div class="join-open-commitment-title">No paywalls. No ads. No tracking.</div>
+          <p class="join-open-commitment-body">World66 has never charged for access and never will. The guide exists to be useful, not to monetise your attention.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Platform -->
+<div class="join-platform-section">
+  <div class="join-platform-inner">
+    <div class="join-platform-intro">
+      <div>
+        <div class="join-section-label">A platform, not just a guide</div>
+        <h2 class="join-section-title">World66 is the foundation. What gets built on it is up to you.</h2>
+      </div>
+      <div>
+        <p>The content in <code style="background:var(--paper-2);border:1px solid var(--line-2);padding:1px 6px;border-radius:4px;font-size:13px;color:var(--accent-ink)">content/</code> is structured, geocoded, and open. That makes it a data layer any app can read from — not just this website.</p>
+        <p>We've already built two apps on top of it. Both are open source. Neither required rebuilding the content from scratch. That's the point: contribute once, power many things.</p>
+      </div>
+    </div>
+
+    <div class="join-platform-apps">
+      <div class="join-platform-app">
+        <span class="join-platform-app-tag live">Live</span>
+        <div class="join-platform-app-name">World66</div>
+        <p class="join-platform-app-body">The travel guide itself. 20,000+ destinations, browsable by continent, country, city, and neighbourhood. Built entirely from the <code style="font-size:12px">content/</code> folder.</p>
+        <a href="/" class="join-platform-app-link">Explore the guide →</a>
+      </div>
+      <div class="join-platform-app">
+        <span class="join-platform-app-tag live">Live</span>
+        <div class="join-platform-app-name">TimeSpace</div>
+        <p class="join-platform-app-body">A local events and venues layer on top of World66 POIs. Browse concerts, exhibitions, and theatre across Dutch cities — updated weekly by AI agents fetching live schedules.</p>
+        <a href="/timespace/" class="join-platform-app-link">See what's on →</a>
+      </div>
+      <div class="join-platform-app is-idea">
+        <span class="join-platform-app-tag idea">Your idea</span>
+        <div class="join-platform-app-name">City walks</div>
+        <p class="join-platform-app-body">Turn W66 POIs into a guided walk app. Street-level routes, offline maps, audio cues. The geocoded content is already there — it just needs a front-end.</p>
+      </div>
+    </div>
+
+    <div class="join-platform-cta">
+      <strong>Want to build something?</strong> Fork the repo, read the content structure in <code style="background:var(--paper);border:1px solid var(--line-2);padding:1px 5px;border-radius:4px;font-size:13px;color:var(--accent-ink)">CLAUDE.md</code>, and open an issue describing what you're making. The content, the tooling, and the community are here.
     </div>
   </div>
 </div>

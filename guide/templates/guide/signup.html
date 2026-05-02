@@ -1,0 +1,20 @@
+{% extends "guide/base.html" %}
+{% block title %}Set passphrase — {{ plan_title }} — World66{% endblock %}
+{% block content %}
+<div class="login-page">
+  <div class="login-box">
+    <div class="login-logo">World<span class="logo-dot"></span>66</div>
+    <h1>{{ plan_title }}</h1>
+    <p class="login-intro">Choose a passphrase to protect this plan.</p>
+    <form method="post" action="/auth/signup/{{ slug }}/">
+      {% csrf_token %}
+      {% if error %}<div class="login-error">{{ error }}</div>{% endif %}
+      <label for="password">Passphrase</label>
+      <input type="password" id="password" name="password" autofocus autocomplete="new-password" placeholder="At least 6 characters">
+      <label for="password2">Confirm</label>
+      <input type="password" id="password2" name="password2" autocomplete="new-password" placeholder="Same again">
+      <button type="submit">Set passphrase</button>
+    </form>
+  </div>
+</div>
+{% endblock %}

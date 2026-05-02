@@ -6,6 +6,7 @@ snippet: Roller-skating rink inside a 19th-century church
 tags:
 - things_to_do
 - sight
+- fillmore_street
 title: Church of 8 Wheels
 type: poi
 ---

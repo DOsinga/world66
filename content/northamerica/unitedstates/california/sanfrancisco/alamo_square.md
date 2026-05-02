@@ -8,6 +8,7 @@ snippet: Iconic Painted Ladies Victorians against the city skyline
 tags:
 - things_to_do
 - square
+- fillmore_street
 title: Alamo Square
 type: poi
 ---

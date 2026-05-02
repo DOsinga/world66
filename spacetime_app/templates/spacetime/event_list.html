@@ -1,0 +1,82 @@
+{% extends "spacetime/base.html" %}
+{% block title %}Events — TimeSpace{% endblock %}
+{% block nav_events %}st-nav-link--active{% endblock %}
+
+{% block content %}
+<div class="st-page">
+  <div class="st-page-header">
+    <h1>Upcoming events</h1>
+    <p class="st-page-sub">Added via pull requests on GitHub. No accounts, no forms — just files.</p>
+  </div>
+
+  <div class="st-filters">
+    <div class="st-filter-row">
+      <span class="st-filter-label">When</span>
+      {% for opt in date_options %}
+      <a href="?{% if active_city %}city={{ active_city }}&{% endif %}{% if active_venue %}venue={{ active_venue|urlencode }}&{% endif %}days={{ opt.days }}"
+         class="st-city-pill {% if opt.days == active_days %}st-city-pill--active{% endif %}">{{ opt.label }}</a>
+      {% endfor %}
+    </div>
+    <div class="st-filter-row">
+      <span class="st-filter-label">City</span>
+      <a href="?days={{ active_days }}" class="st-city-pill {% if not active_city %}st-city-pill--active{% endif %}">All</a>
+      {% for city in cities %}
+      <a href="?city={{ city.slug }}&days={{ active_days }}" class="st-city-pill {% if city.slug == active_city %}st-city-pill--active{% endif %}">{{ city.label }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% if venues_in_city %}
+  <div class="st-venue-filter">
+    <span class="st-filter-label">Venue</span>
+    <a href="?city={{ active_city }}&days={{ active_days }}" class="st-city-pill st-venue-pill {% if not active_venue %}st-city-pill--active{% endif %}">All</a>
+    {% for v in venues_in_city %}
+    <a href="?city={{ active_city }}&venue={{ v.title|urlencode }}&days={{ active_days }}" class="st-city-pill st-venue-pill {% if v.title == active_venue %}st-city-pill--active{% endif %}">{{ v.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if events %}
+  <ul class="st-full-event-list">
+    {% for e in events %}
+    <li class="st-full-event-item {% if e.is_today %}st-full-event-item--today{% endif %}">
+      <a href="/timespace/events/{{ e.slug }}/" class="st-full-event-link">
+
+        <div class="st-full-event-date">
+          <span class="st-full-event-day">{{ e.date|date:"j" }}</span>
+          <span class="st-full-event-month">{{ e.date|date:"M" }}</span>
+        </div>
+
+        <div class="st-full-event-body">
+          <span class="st-event-cat st-cat--{{ e.category }}">{{ e.category }}</span>
+          <h2 class="st-full-event-title">{{ e.title }}</h2>
+          {% if e.time_start %}
+          <p class="st-full-event-time">{{ e.time_start }}{% if e.time_end %}–{{ e.time_end }}{% endif %}</p>
+          {% endif %}
+          {% if e.description %}
+          <p class="st-full-event-snippet">{{ e.description|truncatechars:100 }}</p>
+          {% endif %}
+        </div>
+
+        {% if e.venue %}
+        <div class="st-venue-card">
+          <p class="st-venue-card-name">{{ e.venue.title }}</p>
+          <p class="st-venue-card-city">{{ e.venue.city }}</p>
+          {% if e.venue.snippet %}
+          <p class="st-venue-card-snippet">{{ e.venue.snippet|truncatechars:60 }}</p>
+          {% endif %}
+        </div>
+        {% endif %}
+
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <div class="st-no-events">
+    <p>No upcoming events{% if active_venue %} at {{ active_venue }}{% elif active_city_label %} in {{ active_city_label }}{% endif %}.</p>
+    <p class="st-no-events-sub">Events are added as <code>.md</code> files via GitHub pull requests.</p>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

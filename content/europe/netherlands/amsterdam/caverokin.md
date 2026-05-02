@@ -6,7 +6,6 @@ phone: 020 625 0628
 snippet: Cellar wine shop on the Rokin with tastings
 tags:
 - shopping
-- canal_ring
 title: Cave Rokin
 type: poi
 zipcode: 1012 KV

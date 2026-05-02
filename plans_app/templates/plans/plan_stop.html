@@ -1,0 +1,153 @@
+{% extends "plans/base.html" %}
+{% load static %}
+{% block title %}{{ stop.city }} — {{ plan.title }} — Tab.bi{% endblock %}
+
+{% block content %}
+<div class="tabbi-page plan-page">
+
+  <nav class="plan-breadcrumb">
+    <a href="/plans/">Trips</a>
+    <span class="plan-breadcrumb-sep">›</span>
+    <a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a>
+    <span class="plan-breadcrumb-sep">›</span>
+    <span>{{ stop.city }}</span>
+  </nav>
+  <div class="plan-header">
+    <h1>{{ stop.city }}</h1>
+    {% if stop.dates %}<div class="plan-stop-dates-large">{{ stop.dates }}</div>{% endif %}
+    <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
+  </div>
+
+  <div class="plan-stop-layout">
+
+    <div id="plan-stop-map"></div>
+
+    <div class="plan-poi-list">
+      {% if city_snippet or city_image_url %}
+      <div class="plan-city-intro">
+        {% if city_image_url %}<img src="{{ city_image_url }}" alt="{{ stop.city }}" class="plan-city-intro-image">{% endif %}
+        <div>
+          {% if city_snippet %}<p class="plan-city-intro-text">{{ city_snippet }}</p>{% endif %}
+          {% if stop.destination_url %}<a href="{{ stop.destination_url }}" class="plan-city-explore">Explore {{ stop.city }}</a>{% endif %}
+        </div>
+      </div>
+      {% endif %}
+      {% for item in stop.items %}
+      <div class="plan-poi-card{% if not item.page and not item.external_url %} plan-poi-card-note{% endif %}">
+        {% if item.image_url %}
+        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
+        {% endif %}
+        <div class="plan-poi-body">
+          {% if item.page %}
+            <a class="plan-poi-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
+            {% if item.page.meta.snippet %}
+            <p class="plan-poi-snippet">{{ item.page.meta.snippet }}</p>
+            {% endif %}
+          {% elif item.external_url %}
+            <a class="plan-external-link" href="{{ item.external_url }}" target="_blank" rel="noopener">
+              <span class="plan-external-label">{{ item.display_label }}</span>
+              <span class="plan-external-domain">{{ item.display_domain }} ↗</span>
+            </a>
+          {% else %}
+            <span class="plan-note-text" title="Click to edit">{{ item.text }}</span>
+            <form class="plan-note-edit-form" method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/note/" hidden>
+              {% csrf_token %}
+              <input type="hidden" name="old_text" value="{{ item.text }}">
+              <input type="hidden" name="next" value="{{ request.path }}">
+              <input type="text" name="new_text" class="plan-note-input" value="{{ item.text }}">
+            </form>
+          {% endif %}
+        </div>
+        <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
+          {% csrf_token %}
+          <input type="hidden" name="poi_path" value="{{ item.text }}">
+          <input type="hidden" name="next" value="{{ request.path }}">
+          <button type="submit" class="plan-remove-btn" title="Remove from plan">−</button>
+        </form>
+      </div>
+      {% endfor %}
+
+      {% if suggestions %}
+      <div class="plan-suggestions">
+        <div class="plan-suggestions-heading">Suggestions for your trip</div>
+        <div class="plan-suggestions-strip-wrap">
+          <div class="plan-suggestions-strip">
+            {% for s in suggestions %}
+            <div class="plan-suggestion-tile{% if s.note_match %} plan-suggestion-tile--match{% endif %}">
+              {% if s.image_url %}
+              <div class="plan-suggestion-tile-img" style="background-image:url('{{ s.image_url }}')"></div>
+              {% endif %}
+              <div class="plan-suggestion-tile-body">
+                <a class="plan-suggestion-title" href="{{ s.page.get_absolute_url }}">{{ s.page.title }}</a>
+                {% if s.page.meta.snippet %}<p class="plan-suggestion-snippet">{{ s.page.meta.snippet }}</p>{% endif %}
+              </div>
+              <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/add/" class="plan-suggestion-add">
+                {% csrf_token %}
+                <input type="hidden" name="poi_path" value="{{ s.page.path }}">
+                <input type="hidden" name="next" value="{{ request.path }}">
+                <button type="submit" class="plan-suggestion-btn" title="Add to plan">+</button>
+              </form>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+
+  </div>
+
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function() {
+  const markers = {{ markers }};
+  const map = L.map('plan-stop-map', {scrollWheelZoom: false, zoomControl: true});
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
+
+  const W66_RED = '#c0392b';
+  markers.forEach(function(m, i) {
+    const icon = L.divIcon({
+      className: 'plan-stop-marker',
+      html: '<span style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;">' + (i+1) + '</span>',
+      iconSize: [28, 28],
+      iconAnchor: [14, 14],
+    });
+    L.marker([m.lat, m.lng], {icon: icon})
+      .bindTooltip(m.title, {direction: 'top'})
+      .on('click', function() { window.location = m.url; })
+      .addTo(map);
+  });
+
+  if (markers.length > 1) {
+    map.fitBounds(L.latLngBounds(markers.map(m => [m.lat, m.lng])).pad(0.25));
+  } else if (markers.length === 1) {
+    map.setView([markers[0].lat, markers[0].lng], 11);
+  } else {
+    map.setView([20, 0], 2);
+  }
+})();
+</script>
+<script>
+document.querySelectorAll('.plan-note-text').forEach(function(span) {
+  span.addEventListener('click', function() {
+    var form = span.nextElementSibling;
+    span.hidden = true;
+    form.hidden = false;
+    var input = form.querySelector('.plan-note-input');
+    input.focus();
+    input.select();
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); form.submit(); }
+      if (e.key === 'Escape') { form.hidden = true; span.hidden = false; }
+    });
+    input.addEventListener('blur', function() {
+      if (input.value.trim() && input.value !== span.textContent) form.submit();
+      else { form.hidden = true; span.hidden = false; }
+    });
+  });
+});
+</script>
+{% endblock %}

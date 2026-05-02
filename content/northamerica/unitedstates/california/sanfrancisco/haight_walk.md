@@ -1,0 +1,366 @@
+---
+latitude: 37.7689
+longitude: -122.4526
+route:
+- - 37.775609
+  - -122.432502
+- - 37.775579
+  - -122.432748
+- - 37.775595
+  - -122.432751
+- - 37.775646
+  - -122.432764
+- - 37.775699
+  - -122.432777
+- - 37.775714
+  - -122.432781
+- - 37.775724
+  - -122.432802
+- - 37.775722
+  - -122.432821
+- - 37.775716
+  - -122.432879
+- - 37.775707
+  - -122.432957
+- - 37.775705
+  - -122.43298
+- - 37.775701
+  - -122.432985
+- - 37.775715
+  - -122.433005
+- - 37.775735
+  - -122.433054
+- - 37.775758
+  - -122.433104
+- - 37.775785
+  - -122.433161
+- - 37.775845
+  - -122.433281
+- - 37.775917
+  - -122.433434
+- - 37.776008
+  - -122.433629
+- - 37.776029
+  - -122.433683
+- - 37.776043
+  - -122.433737
+- - 37.776051
+  - -122.433803
+- - 37.776053
+  - -122.433884
+- - 37.77605
+  - -122.433957
+- - 37.776058
+  - -122.434025
+- - 37.77607
+  - -122.434087
+- - 37.776083
+  - -122.434141
+- - 37.776086
+  - -122.434152
+- - 37.776107
+  - -122.434217
+- - 37.776194
+  - -122.434413
+- - 37.776223
+  - -122.434477
+- - 37.776281
+  - -122.434644
+- - 37.776261
+  - -122.434661
+- - 37.776243
+  - -122.434683
+- - 37.776188
+  - -122.434668
+- - 37.776243
+  - -122.434683
+- - 37.776223
+  - -122.434724
+- - 37.776213
+  - -122.434771
+- - 37.776214
+  - -122.434819
+- - 37.776162
+  - -122.434854
+- - 37.776086
+  - -122.434941
+- - 37.776016
+  - -122.435037
+- - 37.775946
+  - -122.435144
+- - 37.775865
+  - -122.435337
+- - 37.775835
+  - -122.435499
+- - 37.775821
+  - -122.435569
+- - 37.775806
+  - -122.435608
+- - 37.775787
+  - -122.435646
+- - 37.775764
+  - -122.43568
+- - 37.775733
+  - -122.43572
+- - 37.775702
+  - -122.435751
+- - 37.775666
+  - -122.435775
+- - 37.775628
+  - -122.435796
+- - 37.775574
+  - -122.435827
+- - 37.775506
+  - -122.435879
+- - 37.775445
+  - -122.435918
+- - 37.775394
+  - -122.435972
+- - 37.775363
+  - -122.436013
+- - 37.775341
+  - -122.436047
+- - 37.775314
+  - -122.43607
+- - 37.775316
+  - -122.436076
+- - 37.775307
+  - -122.436099
+- - 37.7753
+  - -122.436167
+- - 37.775291
+  - -122.436247
+- - 37.775288
+  - -122.436265
+- - 37.775276
+  - -122.43628
+- - 37.775262
+  - -122.436278
+- - 37.775201
+  - -122.436265
+- - 37.775153
+  - -122.436255
+- - 37.775137
+  - -122.436253
+- - 37.774946
+  - -122.437676
+- - 37.774935
+  - -122.437681
+- - 37.774933
+  - -122.437693
+- - 37.774928
+  - -122.437756
+- - 37.77492
+  - -122.437849
+- - 37.774915
+  - -122.437902
+- - 37.774912
+  - -122.437922
+- - 37.774919
+  - -122.437936
+- - 37.774737
+  - -122.439373
+- - 37.774728
+  - -122.439388
+- - 37.774726
+  - -122.439402
+- - 37.774717
+  - -122.439469
+- - 37.774706
+  - -122.43955
+- - 37.774704
+  - -122.439571
+- - 37.774709
+  - -122.439586
+- - 37.774529
+  - -122.440983
+- - 37.774519
+  - -122.441001
+- - 37.774516
+  - -122.441017
+- - 37.774503
+  - -122.44111
+- - 37.774487
+  - -122.441221
+- - 37.774484
+  - -122.441241
+- - 37.773719
+  - -122.441095
+- - 37.773566
+  - -122.44223
+- - 37.773532
+  - -122.44252
+- - 37.77353
+  - -122.442535
+- - 37.773524
+  - -122.4426
+- - 37.773518
+  - -122.442677
+- - 37.773516
+  - -122.442698
+- - 37.773508
+  - -122.442705
+- - 37.773314
+  - -122.444131
+- - 37.773317
+  - -122.444145
+- - 37.773315
+  - -122.444168
+- - 37.773314
+  - -122.444244
+- - 37.773305
+  - -122.444328
+- - 37.773302
+  - -122.444348
+- - 37.773289
+  - -122.444344
+- - 37.773202
+  - -122.444298
+- - 37.773144
+  - -122.444268
+- - 37.773131
+  - -122.444262
+- - 37.773119
+  - -122.444253
+- - 37.773048
+  - -122.444196
+- - 37.772987
+  - -122.444146
+- - 37.772785
+  - -122.444106
+- - 37.772771
+  - -122.44424
+- - 37.772694
+  - -122.444446
+- - 37.772562
+  - -122.444674
+- - 37.772413
+  - -122.444889
+- - 37.772304
+  - -122.445172
+- - 37.772267
+  - -122.445628
+- - 37.772222
+  - -122.44562
+- - 37.772215
+  - -122.445655
+- - 37.772201
+  - -122.445764
+- - 37.772188
+  - -122.445879
+- - 37.772186
+  - -122.445904
+- - 37.77216
+  - -122.445899
+- - 37.772075
+  - -122.445884
+- - 37.771996
+  - -122.445871
+- - 37.771991
+  - -122.445872
+- - 37.771819
+  - -122.447223
+- - 37.771809
+  - -122.447221
+- - 37.771807
+  - -122.447241
+- - 37.771799
+  - -122.447312
+- - 37.771789
+  - -122.447391
+- - 37.771794
+  - -122.447404
+- - 37.771013
+  - -122.447261
+- - 37.770829
+  - -122.448708
+- - 37.77081
+  - -122.448704
+- - 37.77075
+  - -122.448698
+- - 37.770696
+  - -122.448692
+- - 37.770681
+  - -122.448704
+- - 37.770672
+  - -122.448769
+- - 37.770662
+  - -122.448849
+- - 37.770659
+  - -122.448874
+- - 37.770464
+  - -122.450324
+- - 37.769685
+  - -122.45017
+- - 37.769683
+  - -122.450186
+- - 37.769676
+  - -122.450251
+- - 37.769667
+  - -122.450329
+- - 37.769664
+  - -122.450348
+- - 37.769626
+  - -122.450653
+- - 37.769479
+  - -122.45181
+- - 37.769464
+  - -122.451806
+- - 37.769396
+  - -122.451792
+- - 37.769338
+  - -122.45178
+- - 37.769329
+  - -122.451778
+- - 37.769319
+  - -122.451786
+- - 37.769316
+  - -122.451803
+- - 37.769308
+  - -122.451866
+- - 37.769299
+  - -122.451939
+- - 37.76929
+  - -122.451958
+- - 37.769296
+  - -122.451972
+- - 37.769243
+  - -122.452458
+- - 37.769219
+  - -122.45266
+tags:
+- city_walks
+- haight_ashbury
+title: The Haight Walk
+type: poi
+waypoints:
+- painted_ladies
+- alamo_square
+- amoeba_music
+---
+
+The Haight-Ashbury neighbourhood has been famous for fifty years, and it wears the attention awkwardly. The tourist shops and the head shops and the Ben & Jerry's do their thing on the main strip while the residential streets behind them carry on being a Victorian neighbourhood on the edge of a great park. This walk starts at the Painted Ladies on Alamo Square, moves through the park and the residential blocks south of the Panhandle, and arrives at Haight Street itself — where the Summer of Love happened in 1967 and where enough of the original fabric has survived to give the history some texture.
+
+The walk is approximately 3 km and takes about 2 hours at a comfortable pace.
+
+Start at **Alamo Square**, the six-acre park on the block bounded by Steiner, Scott, Fulton, and Hayes Streets. Climb to the upper path that runs along the eastern edge. From here the view looking east takes in the full row of six Victorian houses on Steiner Street — the Painted Ladies — with the downtown skyline rising immediately behind them. The juxtaposition has been photographed so many times that it has become its own kind of cliché, but standing here in person the scale is still surprising: the houses are small and the towers behind them are enormous, and the city managed to build both and have them make sense together. The houses date from 1892 to 1896 and are a textbook of the Queen Anne style: bay windows, decorative shingles, wraparound cornices, each one painted in three or more colours to pick out the ornamental detail.
+
+The park itself opened in 1857, one of the first public squares laid out in San Francisco. By 1906 the city had grown to surround it, and when the earthquake and fire came in April of that year, thousands of homeless residents camped here for weeks. The park also served as a refugee settlement during World War II. None of that history is marked on any sign, which is typical of San Francisco.
+
+Descend the park on the western side onto **Scott Street** and turn south toward Hayes Street. Walk one block west along **Hayes Street** into Hayes Valley. The neighbourhood immediately south of Alamo Square spent several decades blighted by the elevated Central Freeway, which ran overhead until the 1989 Loma Prieta earthquake damaged it beyond economic repair. The freeway came down in stages through the 1990s, and the land beneath and around it was gradually redeveloped. Hayes Valley is now a dense strip of independent restaurants, coffee shops, and design boutiques running along a few blocks of Hayes between Octavia and Webster — one of the more striking examples of what San Francisco did with the spaces left by demolishing its urban freeways.
+
+Turn right (north) on **Octavia Boulevard**, which was built directly over the old freeway alignment when it was removed, and walk north to Fell Street. Turn left on **Fell Street** and walk west. Fell Street runs directly into the **Panhandle**, the narrow strip of park that extends eight blocks east from Golden Gate Park like a handle from the main body. The Panhandle was part of the original park design by William Hammond Hall in the 1870s, intended as a carriage approach from downtown. On summer weekends in 1967, this strip of grass became an outdoor gathering place for tens of thousands of young people who had arrived in San Francisco from across the country. The Human Be-In, which drew somewhere between twenty and thirty thousand people to the nearby polo field in Golden Gate Park in January 1967, signalled what that summer would become.
+
+Walk west along the **Panhandle** path, with Fell Street on your right and Oak Street on the left. The neighbourhood immediately to the south and north of the Panhandle is made up of the same three-storey Victorians that fill most of the Haight: flats stacked two or three high, bay windows on every front, built in the 1880s and 1890s when the Western Addition was the frontier of the city's expansion. In 1967 these houses were renting cheaply — the neighbourhood had not recovered from the postwar white flight that had hollowed out the Fillmore District a few blocks north — and cheap rent is what made the Summer of Love geographically possible. Young people arrived and packed themselves into the Victorians at densities the houses were not built for.
+
+At **Ashbury Street**, leave the Panhandle and turn left (south). Walk one block south to **710 Ashbury Street**, a grey three-storey Victorian on the east side of the street. This was the house rented by the Grateful Dead from 1966 to 1968, the years when the band went from playing free concerts in the park to becoming one of the most influential live acts in American music. The Dead were not the only musicians living in the neighbourhood: Jefferson Airplane occupied a mansion at **2400 Fulton Street**, one block north of the Panhandle on the edge of the park, and Janis Joplin lived for a time at 635 Ashbury. The neighbourhood was small enough that the musicians, the activists, the Diggers — the anarchist group that ran free food programs and free stores throughout 1967 — and the thousands of visitors all moved through the same streets and the same shops. Haight Street was the main artery for all of it.
+
+Walk south on Ashbury to **Haight Street** and turn left (east). You are now on the main corridor of the 1967 Summer of Love. The intersection of **Haight and Ashbury** is the symbolic centre: the corner is still marked by the intersection sign that appears on a million photographs, and the neighbourhood still goes by the street names even though the streets cross everywhere. In the summer of 1967 this intersection was effectively ungovernable. The City of San Francisco sent a bus every hour to the Greyhound station downtown and put new arrivals on it; the bus brought them here. Estimates of the number of young people who came through the Haight that summer range from seventy-five thousand to a hundred thousand, living in various stages of accommodation ranging from crash pads in the Victorians to sleeping in the park.
+
+Walk east along Haight Street toward Clayton Street. The storefront at **1398 Haight Street** is now a Ben & Jerry's ice cream shop. In 1967 it was the Drugstore Café, an all-night diner that served as a social hub. It is not a meaningful landmark architecturally, but it is one of the few specific addresses that appears in multiple firsthand accounts of that summer. Around the corner at **1558 Clayton Street** is the original location of the **Haight-Ashbury Free Clinic**, which opened on 7 June 1967 as the neighbourhood's population exploded and no other medical care was available. The clinic provided free medical treatment to anyone who came in, without requiring identification, insurance, or money. It still operates today under the name HealthRight 360, and the Clayton Street site remains in use. The clinic's founding model — providing healthcare unconditionally — influenced free clinic movements across the United States for decades afterward.
+
+Continue east on Haight Street, climbing slightly as the street rises toward the eastern end of the corridor. On a clear day you can see downtown from the high point near Central Avenue. **Buena Vista Park** rises steeply on your left (north) along Central Avenue and extends several blocks uphill. The park is one of San Francisco's oldest, dating from 1867, and the summit is 570 feet above sea level. The trails through the eucalyptus are steep and often muddy, and the views from the top take in the Bay, the bridges, and the Marin hills. The park mostly attracts dog walkers and joggers; it is genuinely the overlooked green space of the neighbourhood, ten minutes from Haight Street and far less crowded than the Panhandle or the main park.
+
+Return to Haight Street and continue west. At **1855 Haight Street**, near the corner of Stanyan, is **Amoeba Music**. The store opened here in 1997 — the Berkeley original opened in 1990 — and occupies a former bowling alley, which gives it the unusual property of being a record store with enough floor space to actually stock the collection it claims to have. Amoeba carries new and used records, CDs, and DVDs across every genre, with a particular depth in jazz, soul, hip-hop, and the psychedelic rock that the neighbourhood itself produced in the 1960s. It is one of the last independent record stores of its scale anywhere in the United States; the Los Angeles branch opened in 2001 and the original Berkeley store remains open as well. The used bins repay time: the staff buy collections constantly, and the turnover is high enough that the stock is genuinely different each visit. Whatever you think you are looking for, spend an hour here.
+
+The walk ends at the western end of Haight Street where it meets **Stanyan Street** and **Golden Gate Park** begins. The park entrance at this point opens onto the eastern end of the main park, near the children's playground and the Sharon Building. The park stretches three miles west to the ocean from here; on a clear afternoon there is nothing to stop you from walking all the way through it.

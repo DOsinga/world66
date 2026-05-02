@@ -71,6 +71,34 @@
   </div>
   {% endif %}
 
+  {% if city_walk_items %}
+  <div class="sidebar-walks">
+    <div class="sidebar-walks-head">City Walks</div>
+    <div class="sidebar-walks-strip" id="sidebar-walks-strip">
+      {% for walk in city_walk_items %}
+      <a href="{{ walk.get_absolute_url }}" class="sidebar-walk-card">
+        <span class="sidebar-walk-num">{{ forloop.counter }}</span>
+        <span class="sidebar-walk-name">{{ walk.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if page.page_type == "vibe" %}
+  <div class="vibe-sidebar-card">
+    {% if page.meta.duration %}<div class="vibe-sidebar-duration">{{ page.meta.duration }}</div>{% endif %}
+    {% if page.meta.neighbourhood %}<div class="vibe-sidebar-meta">{{ page.meta.neighbourhood }}</div>{% endif %}
+    {% if page.meta.snippet %}<p class="vibe-sidebar-snippet">{{ page.meta.snippet }}</p>{% endif %}
+    {% if vibe_time_slots or page.meta.vibe_tags %}
+    <div class="vibe-tags">
+      {% for t in vibe_time_slots %}<span class="vibe-tag">{{ t|capfirst }}</span>{% endfor %}
+      {% for tag in page.meta.vibe_tags %}<span class="vibe-tag">{{ tag }}</span>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+
   {% if parent_sections|length > 1 %}
   <nav class="section-sidenav">
     {% if parent %}
@@ -143,6 +171,41 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
+{% if plan_stops and is_poi or plan_stops and sections %}
+{% with plans_with_poi=plan_stops|dictsort:"title" %}
+{% comment %}Collect plans that already contain this POI{% endcomment %}
+<div class="plan-poi-tags">
+  {% for plan in plan_stops %}
+    {% if page.path in plan.poi_paths %}
+    <a href="/plans/{{ plan.slug }}/" class="plan-poi-tag">{{ plan.title }}</a>
+    {% endif %}
+  {% endfor %}
+  <button class="plan-add-trigger" id="plan-add-trigger" aria-haspopup="dialog">+</button>
+</div>
+{% endwith %}
+<div class="plan-add-modal" id="plan-add-modal" role="dialog" aria-modal="true" hidden>
+  <div class="plan-add-modal-inner">
+    <div class="plan-add-modal-head">Add to trip</div>
+    {% for plan in plan_stops %}
+    <form method="post" action="/plans/{{ plan.slug }}/add/">
+      {% csrf_token %}
+      <input type="hidden" name="poi_path" value="{{ page.path }}">
+      <input type="hidden" name="next" value="{{ request.path }}">
+      <button type="submit" class="plan-add-modal-btn">{{ plan.title }}</button>
+    </form>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if page.page_type == "vibe" %}
+<div class="vibe-header">
+  {% for t in vibe_time_slots %}<span class="vibe-header-tag">{{ t|capfirst }}</span>{% endfor %}
+  {% if page.meta.vibe_tags %}{% for tag in page.meta.vibe_tags %}<span class="vibe-header-tag">{{ tag }}</span>{% endfor %}{% endif %}
+  {% if page.meta.duration %}<span class="vibe-duration">{{ page.meta.duration }}</span>{% endif %}
+  {% if page.meta.neighbourhood %}<span class="vibe-neighbourhood">&middot; {{ page.meta.neighbourhood }}</span>{% endif %}
+</div>
+{% endif %}
 
 {% if page.properties %}
 <div class="info-box">
@@ -165,6 +228,14 @@
 <div class="body-text body-text--dropcap">
   {{ body_html|safe }}
 </div>
+{% endif %}
+
+{% if page.page_type == "walk" and walk_waypoints %}
+<ol class="walk-waypoints">
+  {% for wp in walk_waypoints %}
+  <li><a href="{{ wp.get_absolute_url }}">{{ wp.title }}</a></li>
+  {% endfor %}
+</ol>
 {% endif %}
 
 {% if page.meta.quote %}
@@ -232,9 +303,9 @@
 {% endblock %}
 
 {% block wide_content %}
-{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" %}{% if pois %}
 <div class="wide-block poi-section">
-  <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
+  <span class="section-kicker">{% if page.meta.kicker %}{{ page.meta.kicker }}{% elif page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
   <div class="poi-section-head">
     <h2 class="poi-section-title">{{ page.title }}</h2>
     {% if poi_categories %}
@@ -255,7 +326,7 @@
           <div class="poi-name">{{ poi.title }}</div>
           <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
-        <div class="poi-tag">
+        <div class="poi-tag"{% if poi.page_type == "vibe" and poi.meta.time_of_day %} data-time="{{ poi.meta.time_of_day }}"{% endif %}>
           {% if poi.category %}{{ poi.category }}{% endif %}
           {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
         </div>
@@ -336,7 +407,7 @@
   <h2 class="section-block-heading">Sections</h2>
 <div class="sections-row">
   {% for s in sections %}
-  {% if s.slug != "neighbourhoods" %}
+  {% if s.slug != "vibes" and s.slug != "neighbourhoods" and s.slug != "city_walks" %}
   <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
     <div class="section-card-icon"></div>
     <div class="section-card-name">{{ s.title }}</div>
@@ -391,6 +462,53 @@
 </script>
 {% endif %}
 
+{% if vibe_items %}
+<div class="wide-block vibe-city-section">
+  <span class="section-kicker">Vibes</span>
+  <h2 class="section-block-heading">How to spend your time</h2>
+  <div class="vibe-strip-wrap">
+    <button class="vibe-strip-arrow vibe-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
+    <div class="vibe-strip" id="vibe-strip">
+      {% for vibe in vibe_items %}
+      <a href="{{ vibe.get_absolute_url }}" class="vibe-city-card{% if not vibe.image_url %} vibe-city-card--no-image{% endif %}">
+        {% if vibe.image_url %}
+        <img src="{{ vibe.image_url }}" alt="{{ vibe.title }}">
+        {% endif %}
+        <div class="vibe-city-veil"></div>
+        <div class="vibe-city-txt">
+          <div class="vibe-city-name">{{ vibe.title }}</div>
+          {% if vibe.meta.snippet %}<div class="vibe-city-snippet">{{ vibe.meta.snippet }}</div>{% endif %}
+          {% if vibe.time_slots or vibe.meta.vibe_tags %}<div class="vibe-city-tags">{% for t in vibe.time_slots %}<span>{{ t|capfirst }}</span>{% endfor %}{% for tag in vibe.meta.vibe_tags %}<span>{{ tag }}</span>{% endfor %}</div>{% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    <button class="vibe-strip-arrow vibe-strip-arrow--next" aria-label="Scroll right">&#8250;</button>
+  </div>
+</div>
+<script>
+(function() {
+  var wrap = document.querySelector('.vibe-strip-wrap');
+  var strip = document.getElementById('vibe-strip');
+  if (!wrap || !strip) return;
+  var prev = wrap.querySelector('.vibe-strip-arrow--prev');
+  var next = wrap.querySelector('.vibe-strip-arrow--next');
+  function update() {
+    prev.style.opacity = strip.scrollLeft > 4 ? '1' : '0';
+    prev.style.pointerEvents = strip.scrollLeft > 4 ? '' : 'none';
+    var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 4;
+    next.style.opacity = atEnd ? '0' : '1';
+    next.style.pointerEvents = atEnd ? 'none' : '';
+  }
+  var step = 340;
+  prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
+  next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
+  strip.addEventListener('scroll', update);
+  update();
+})();
+</script>
+{% endif %}
+
 {% if nav_siblings %}
 <div class="wide-block poi-elsewhere">
   <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>
@@ -408,12 +526,18 @@
 (function() {
   {% if is_continent %}
   initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
+  {% elif page.page_type == "walk" %}
+  var walkRoute = {{ walk_route }};
+  var walkWaypoints = [{% for wp in walk_waypoints %}{"lat":{% if wp.meta.latitude %}{{ wp.meta.latitude }}{% else %}null{% endif %},"lng":{% if wp.meta.longitude %}{{ wp.meta.longitude }}{% else %}null{% endif %},"title":"{{ wp.title|escapejs }}"}{% if not forloop.last %},{% endif %}{% endfor %}];
+  var sideMap = initWalkMap('sidebar-map', walkRoute, walkWaypoints);
+  var fullMarkers = null;
   {% else %}
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
   }
+  {% endif %}
 
   // Expand / collapse the sidebar map
   var expandBtn = document.getElementById('sidebar-map-expand');
@@ -423,18 +547,48 @@
       var expanded = mapCard.classList.toggle('sidebar-map-expanded');
       expandBtn.innerHTML = expanded ? '&#x2715;' : '&#x26F6;';
       expandBtn.title     = expanded ? 'Collapse map' : 'Expand map';
-      if (expanded) {
-        var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
-        mapCard.style.top = navH + 'px';
+      var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
+      mapCard.style.top = expanded ? navH + 'px' : '';
+      if (fullMarkers) {
         sideMap._setMarkers(fullMarkers);
       } else {
-        mapCard.style.top = '';
-        sideMap._setMarkers(fullMarkers);
+        sideMap.invalidateSize();
       }
     });
   }
+})();
+</script>
+<script>
+(function() {
+  var trigger = document.getElementById('plan-add-trigger');
+  var modal = document.getElementById('plan-add-modal');
+  if (!trigger || !modal) return;
 
-  {% endif %}
+  // Move modal to body so it's not clipped by overflow
+  document.body.appendChild(modal);
+
+  function openModal() {
+    var rect = trigger.getBoundingClientRect();
+    var scrollY = window.scrollY || window.pageYOffset;
+    modal.removeAttribute('hidden');
+    modal.style.top = (rect.bottom + scrollY + 6) + 'px';
+    modal.style.left = rect.left + 'px';
+  }
+
+  trigger.addEventListener('click', function(e) {
+    e.stopPropagation();
+    if (modal.hidden) { openModal(); } else { modal.setAttribute('hidden', ''); }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!modal.hidden && !modal.contains(e.target)) {
+      modal.setAttribute('hidden', '');
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') modal.setAttribute('hidden', '');
+  });
 })();
 </script>
 {% endblock %}

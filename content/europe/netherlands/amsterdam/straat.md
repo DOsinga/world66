@@ -1,8 +1,8 @@
 ---
 title: STRAAT
 type: poi
-latitude: 52.4024
-longitude: 4.8999
+latitude: 52.3918
+longitude: 4.8920
 tags:
 - things_to_do
 - museum

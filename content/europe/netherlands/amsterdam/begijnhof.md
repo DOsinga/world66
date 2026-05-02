@@ -7,7 +7,6 @@ tags:
 - things_to_do
 - sight
 - centrum
-- canal_ring
 ---
 
 A hidden medieval courtyard in the heart of Amsterdam, reached through an unmarked door off the Spui. Step through and the city noise disappears — you are in a tranquil garden surrounded by 17th- and 18th-century houses, a chapel, and one of the oldest wooden houses in the Netherlands (dating from around 1420).

@@ -7,7 +7,6 @@ neighbourhood: Waterlooplein
 tags:
 - things_to_do
 - waterlooplein
-- canal_ring
 title: Rembrandt House
 type: poi
 snippet: "Rembrandt's home and studio, with nearly all his etchings"

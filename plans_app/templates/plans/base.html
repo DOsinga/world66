@@ -1,0 +1,55 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block body_style %}
+<link rel="stylesheet" href="{% static 'plans/css/tabbi.css' %}">
+{% endblock %}
+
+{% block head_extra %}
+<link rel="icon" type="image/svg+xml" href="{% static 'plans/tabbi-logo.svg' %}">
+<link rel="apple-touch-icon" href="{% static 'plans/tabbi-logo.svg' %}">
+{% endblock %}
+
+{% block topnav %}
+<nav class="tabbi-nav">
+  <a href="/plans/" class="tabbi-nav-logo">
+    <img src="{% static 'plans/tabbi-logo.svg' %}" alt="Tab.bi" class="tabbi-nav-logo-img">
+    <span class="tabbi-nav-logo-text">Tab<span class="tabbi-nav-logo-dot">.</span>bi</span>
+  </a>
+  <div class="tabbi-nav-actions">
+    {% if request.session.authenticated_plans %}
+      <a href="/auth/logout/" class="tabbi-btn tabbi-btn--ghost">Sign out</a>
+    {% else %}
+      <a href="/plans/new/" class="tabbi-btn">+ New trip</a>
+    {% endif %}
+  </div>
+</nav>
+{% endblock topnav %}
+
+{% block footer %}
+<footer class="tabbi-footer">
+  <div class="tabbi-footer-inner">
+
+    <div class="tabbi-footer-logo">
+      <img src="{% static 'plans/tabbi-logo.svg' %}" alt="Tab.bi" class="tabbi-footer-logo-img">
+      <span class="tabbi-footer-logo-text">Tab<span class="tabbi-footer-logo-dot">.</span>bi</span>
+    </div>
+
+    <div class="tabbi-footer-tagline">
+      <p class="tabbi-footer-headline">The simplest way to keep tabs on where you plan to go.</p>
+      <p class="tabbi-footer-sub">No spreadsheets. No sticky notes on the fridge. No panicked "wait, was it the blue one or the yellow one?" moments. Just your trips, neatly tabbed, ready when you are. ✈️&nbsp;&nbsp;🗺️&nbsp;&nbsp;🐙</p>
+    </div>
+
+    <div class="tabbi-footer-cta">
+      <a href="/plans/new/" class="tabbi-btn">+ Start a trip</a>
+      <p class="tabbi-footer-fine">Free forever. No login required. We believe plans should be shared, not gatekept.</p>
+    </div>
+
+  </div>
+  <div class="tabbi-footer-bottom">
+    <span>Made with 💛 and a healthy obsession with organisation</span>
+    <span class="tabbi-footer-bottom-sep">·</span>
+    <span>Powered by <a href="/" class="tabbi-footer-w66">World66</a></span>
+  </div>
+</footer>
+{% endblock footer %}

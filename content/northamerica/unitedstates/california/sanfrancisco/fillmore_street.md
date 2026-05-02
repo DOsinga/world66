@@ -1,14 +1,18 @@
 ---
 address: Fillmore St, between Jackson St and Golden Gate Ave
+image: fillmore_street.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Fillmore_and_Pine_Streets_(8543316875).jpg
 latitude: 37.7969
 longitude: -122.4303
 snippet: Diverse street spanning Pacific Heights boutiques to the jazz-history Western
   Addition
 tags:
+- neighbourhoods
 - things_to_do
 - cafe
 title: Fillmore Street
-type: neighbourhood
+type: poi
 ---
 
 Fillmore Street cuts through some of San Francisco's most interesting neighborhoods. The stretch between Jackson and California in Pacific Heights is lined with upscale boutiques, bakeries, and cafes -- it feels like a small-town main street despite the city all around it. Further south, the Western Addition has a grittier, more diverse character and a deep connection to San Francisco's jazz and blues history.

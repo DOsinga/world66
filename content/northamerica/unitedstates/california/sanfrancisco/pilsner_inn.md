@@ -1,16 +1,15 @@
 ---
 address: 225 Church St
-category: Bar
 done:
   poi_cleanup: '2026-04-19'
 latitude: 37.7671
 longitude: -122.4288
+neighbourhood: Castro District
 snippet: Low-key Castro bar with pool table, pinball, and great patio
 tags:
 - bars_and_cafes
 - bar
 - castro_district
-neighbourhood: Castro District
 title: Pilsner Inn
 type: poi
 ---

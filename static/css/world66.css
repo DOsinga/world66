@@ -1629,29 +1629,36 @@ img { max-width: 100%; height: auto; }
 /* Join card — sits where the map used to be */
 .home-join-card {
   flex-shrink: 0;
-  width: 56%;
-  border-radius: 8px;
+  width: 52%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
   overflow: hidden;
+  border: 1px solid var(--line);
+}
+
+.home-join-card-photo {
   position: relative;
   display: flex;
   align-items: flex-end;
+  min-height: 260px;
   text-decoration: none;
-  background: #2a1a0e url('/content-image/middleeast/jordan/petra.jpg') center/cover;
+  background: #2a1a0e url('/content-image/asia/jordan/petra.jpg') center/cover;
 }
 
 .home-join-card-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0.62) 100%);
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,0.58) 100%);
   pointer-events: none;
 }
 
-.home-join-card-body {
+.home-join-card-photo-body {
   position: relative;
-  padding: 28px 32px;
+  padding: 24px 28px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 8px;
 }
 
 .home-join-card-label {
@@ -1667,31 +1674,67 @@ img { max-width: 100%; height: auto; }
   font-family: var(--display-font);
   font-weight: 300;
   font-variation-settings: 'opsz' 48;
-  font-size: clamp(22px, 2.4vw, 34px);
+  font-size: clamp(20px, 2.2vw, 30px);
   line-height: 1.1;
   letter-spacing: -0.025em;
   color: #fff;
   margin: 0;
   text-shadow: 0 1px 12px rgba(0,0,0,0.3);
-  max-width: 380px;
+}
+
+.home-join-card-text {
+  background: var(--paper-2);
+  padding: 22px 28px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--mute);
+}
+
+.home-join-card-text > p {
+  margin: 0;
+}
+
+.home-join-card-steps {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.home-join-card-steps li {
+  padding-left: 16px;
+  position: relative;
+  font-size: 13px;
+}
+
+.home-join-card-steps li::before {
+  content: '–';
+  position: absolute;
+  left: 0;
+  color: var(--accent);
 }
 
 .home-join-card-btn {
   display: inline-block;
+  align-self: flex-start;
   font-family: var(--label-font);
   font-size: 13px;
   font-weight: 600;
-  color: rgba(255,255,255,0.9);
-  border: 1.5px solid rgba(255,255,255,0.5);
+  color: var(--accent);
+  text-decoration: none;
+  border: 1.5px solid var(--accent);
   border-radius: 6px;
-  padding: 8px 18px;
-  align-self: flex-start;
-  transition: background 0.15s, border-color 0.15s;
+  padding: 8px 16px;
 }
 
-.home-join-card:hover .home-join-card-btn {
-  background: rgba(255,255,255,0.15);
-  border-color: rgba(255,255,255,0.8);
+.home-join-card-btn:hover {
+  background: var(--accent);
+  color: #f3eee4;
 }
 
 .home-hero-title {
@@ -1834,9 +1877,10 @@ img { max-width: 100%; height: auto; }
 
 /* Join CTA banner */
 @media (max-width: 900px) {
-  .home-hero { flex-direction: column; margin: 16px 16px 0; gap: 16px; }
+  .home-hero { flex-direction: column; margin: 16px 16px 0; gap: 24px; }
   .home-hero-text { padding: 24px 0 0; order: 1; }
-  .home-join-card { width: 100%; min-height: 220px; order: 2; }
+  .home-join-card { width: 100%; order: 2; }
+  .home-join-card-photo { min-height: 200px; }
   .home-continent-grid { grid-template-columns: repeat(2, 1fr); }
 }
 

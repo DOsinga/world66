@@ -1800,7 +1800,7 @@ img { max-width: 100%; height: auto; }
 .home-continent-card {
   position: relative;
   display: block;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 4 / 3;
   overflow: hidden;
   border-radius: 4px;
   background: var(--ink);
@@ -1845,7 +1845,7 @@ img { max-width: 100%; height: auto; }
   font-family: var(--display-font);
   font-weight: 400;
   font-variation-settings: "opsz" 144;
-  font-size: clamp(18px, 1.6vw, 24px);
+  font-size: clamp(24px, 2.4vw, 36px);
   letter-spacing: -0.02em;
   color: #fff;
   line-height: 1.1;

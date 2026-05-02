@@ -1,0 +1,121 @@
+{% extends "guide/base.html" %}
+{% block title %}{{ walk.title }} — City Walks{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+
+<!-- ── Walk hero ─────────────────────────────────────────────────────────── -->
+<div class="cw-walk-hero">
+  <div id="cw-walk-map" class="cw-walk-map"></div>
+  <div class="cw-walk-hero-bar">
+    <div class="cw-walk-hero-bar-inner">
+      <a href="/walks/" class="cw-walk-back">← All walks</a>
+      <div class="cw-walk-hero-meta">
+        <span class="cw-walk-city">{{ walk.city_name }}</span>
+        {% if walk.distance_km > 0 %}
+        <span class="cw-meta-pill">{{ walk.distance_km }} km</span>
+        {% endif %}
+        {% if walk.stops > 0 %}
+        <span class="cw-meta-pill">{{ walk.stops }} stop{{ walk.stops|pluralize }}</span>
+        {% endif %}
+        {% if walk.duration_min > 0 %}
+        <span class="cw-meta-pill cw-meta-pill--muted">~{{ walk.duration_min }} min</span>
+        {% endif %}
+        <a href="{{ walk.gpx_url }}" class="cw-gpx-btn" download>↓ GPX</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Walk content ───────────────────────────────────────────────────────── -->
+<div class="cw-walk-layout">
+
+  <!-- Waypoints sidebar -->
+  {% if waypoints %}
+  <aside class="cw-waypoints">
+    <h3 class="cw-waypoints-title">Stops</h3>
+    <ol class="cw-waypoints-list">
+      {% for wp in waypoints %}
+      <li class="cw-waypoint">
+        <span class="cw-waypoint-num">{{ forloop.counter }}</span>
+        <div class="cw-waypoint-info">
+          <div class="cw-waypoint-name">{{ wp.title }}</div>
+          {% if wp.snippet %}
+          <div class="cw-waypoint-snippet">{{ wp.snippet }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </aside>
+  {% endif %}
+
+  <!-- Walk body -->
+  <article class="cw-walk-article">
+    <h1 class="cw-walk-title">{{ walk.title }}</h1>
+    <div class="cw-walk-body">
+      {{ walk.body|safe }}
+    </div>
+  </article>
+
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function () {
+  var route = {{ route_json|safe }};
+  var waypoints = {{ waypoints_json|safe }};
+  var W66_RED = '#b8532b';
+
+  var map = L.map('cw-walk-map', {
+    scrollWheelZoom: false,
+    zoomControl: false,
+    attributionControl: false,
+  });
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    maxZoom: 19,
+  }).addTo(map);
+
+  L.control.zoom({ position: 'topright' }).addTo(map);
+  L.control.attribution({ position: 'bottomright', prefix: false })
+    .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
+    .addTo(map);
+
+  if (route.length) {
+    L.polyline(route, { color: W66_RED, weight: 4, opacity: 0.85, interactive: false }).addTo(map);
+  }
+
+  waypoints.forEach(function (wp, i) {
+    if (wp.lat == null || wp.lng == null) return;
+    var icon = L.divIcon({
+      className: 'cw-walk-marker',
+      html: String(i + 1),
+      iconSize: [26, 26],
+      iconAnchor: [13, 13],
+    });
+    L.marker([wp.lat, wp.lng], { icon: icon })
+      .bindTooltip(wp.title, { direction: 'top', offset: [0, -16] })
+      .addTo(map);
+  });
+
+  var bounds = route.length ? L.polyline(route).getBounds() : null;
+  if (bounds) {
+    map.fitBounds(bounds.pad(0.18));
+  } else if (waypoints.length) {
+    var pts = waypoints.filter(function (w) { return w.lat != null; }).map(function (w) { return [w.lat, w.lng]; });
+    if (pts.length) map.fitBounds(L.polyline(pts).getBounds().pad(0.18));
+  }
+}());
+</script>
+{% endblock %}

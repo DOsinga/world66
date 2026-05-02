@@ -1,0 +1,148 @@
+{% extends "guide/base.html" %}
+{% block title %}City Walks — World66{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+
+<!-- ── Hero map ─────────────────────────────────────────────────────────── -->
+<div class="cw-hero">
+  <div id="cw-world-map" class="cw-map"></div>
+  <div class="cw-hero-veil"></div>
+  <div class="cw-hero-content">
+    <h1 class="cw-hero-title">Walk the world.</h1>
+    <div class="cw-hero-stats">
+      <span class="cw-hero-stat">
+        <span class="cw-hero-stat-n">{{ total_walks }}</span>
+        <span class="cw-hero-stat-l">walks</span>
+      </span>
+      <span class="cw-hero-sep">·</span>
+      <span class="cw-hero-stat">
+        <span class="cw-hero-stat-n">{{ total_cities }}</span>
+        <span class="cw-hero-stat-l">cities</span>
+      </span>
+      {% if total_km > 0 %}
+      <span class="cw-hero-sep">·</span>
+      <span class="cw-hero-stat">
+        <span class="cw-hero-stat-n">{{ total_km }}</span>
+        <span class="cw-hero-stat-l">km of routes</span>
+      </span>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<!-- ── Walk grid ─────────────────────────────────────────────────────────── -->
+<div class="cw-body">
+  {% if not walks %}
+  <div class="cw-empty">
+    <p>No walks found yet. Walk content lives in <code>content/</code> as markdown files with <code>type: walk</code>.</p>
+    <a href="https://github.com/richardosinga/city-walks" class="cw-empty-link">Contribute on GitHub →</a>
+  </div>
+  {% endif %}
+
+  {% for city in cities %}
+  <section class="cw-city">
+    <div class="cw-city-header">
+      <h2 class="cw-city-name">{{ city.name }}</h2>
+      <span class="cw-city-count">{{ city.walks|length }} walk{{ city.walks|length|pluralize }}</span>
+    </div>
+    <div class="cw-walk-grid">
+      {% for walk in city.walks %}
+      <a href="{{ walk.absolute_url }}" class="cw-card">
+        <div class="cw-card-route{% if not walk.route %} cw-card-route--empty{% endif %}">
+          {{ walk.route_svg|safe }}
+        </div>
+        <div class="cw-card-body">
+          <div class="cw-card-title">{{ walk.title }}</div>
+          <div class="cw-card-meta">
+            {% if walk.distance_km > 0 %}
+            <span class="cw-meta-pill">{{ walk.distance_km }} km</span>
+            {% endif %}
+            {% if walk.stops > 0 %}
+            <span class="cw-meta-pill">{{ walk.stops }} stop{{ walk.stops|pluralize }}</span>
+            {% endif %}
+            {% if walk.duration_min > 0 %}
+            <span class="cw-meta-pill cw-meta-pill--muted">~{{ walk.duration_min }} min</span>
+            {% endif %}
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function () {
+  var allRoutes = {{ all_routes_json|safe }};
+
+  var map = L.map('cw-world-map', {
+    scrollWheelZoom: false,
+    zoomControl: false,
+    attributionControl: false,
+  });
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    maxZoom: 19,
+  }).addTo(map);
+
+  L.control.zoom({ position: 'topright' }).addTo(map);
+  L.control.attribution({ position: 'bottomright', prefix: false })
+    .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>')
+    .addTo(map);
+
+  var allPoints = [];
+
+  allRoutes.forEach(function (walk) {
+    if (!walk.route || walk.route.length < 2) return;
+
+    var line = L.polyline(walk.route, {
+      color: walk.color,
+      weight: 4,
+      opacity: 0.8,
+    });
+
+    var popup = L.popup({ closeButton: false, offset: [0, -4] }).setContent(
+      '<div class="cw-map-popup">' +
+        '<div class="cw-map-popup-city">' + walk.city + '</div>' +
+        '<div class="cw-map-popup-title">' + walk.title + '</div>' +
+        '<a class="cw-map-popup-link" href="/walks/' + walk.path + '">See walk →</a>' +
+      '</div>'
+    );
+
+    line.on('mouseover', function () {
+      this.setStyle({ weight: 6, opacity: 1 });
+      this.openPopup(this.getCenter());
+    });
+    line.on('mouseout', function () {
+      this.setStyle({ weight: 4, opacity: 0.8 });
+      this.closePopup();
+    });
+    line.on('click', function () {
+      window.location.href = '/walks/' + walk.path;
+    });
+    line.bindPopup(popup);
+    line.addTo(map);
+    allPoints = allPoints.concat(walk.route);
+  });
+
+  if (allPoints.length) {
+    map.fitBounds(L.polyline(allPoints).getBounds().pad(0.15));
+  } else {
+    map.setView([25, 15], 2);
+  }
+}());
+</script>
+{% endblock %}

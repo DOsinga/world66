@@ -291,8 +291,13 @@ def _parse_stops(body, plan_slug):
                 city_name = city_part.split("/")[-1].replace("_", " ").title()
             else:
                 city_name = city_part
+                # Try full name first, then strip country suffix after comma
                 city_path = resolve_location_name(city_part)
-            city_slug = city_name.lower().replace(" ", "-")
+                if not city_path and "," in city_part:
+                    city_name = city_part.split(",")[0].strip()
+                    city_path = resolve_location_name(city_name)
+            # Slug must be URL-safe: strip commas and other non-slug chars
+            city_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
             current = {
                 "city": city_name,
                 "city_slug": city_slug,

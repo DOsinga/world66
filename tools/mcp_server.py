@@ -35,12 +35,24 @@ import urllib.request
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
+# Load .env from repo root so secrets don't need to be in claude_desktop_config
+# ---------------------------------------------------------------------------
+REPO_PATH = Path(os.environ.get("W66_REPO_PATH", Path(__file__).resolve().parent.parent))
+
+_dotenv = REPO_PATH / ".env"
+if _dotenv.exists():
+    for _line in _dotenv.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _, _v = _line.partition("=")
+            os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
+
+# ---------------------------------------------------------------------------
 # MCP protocol — minimal stdio implementation (no external SDK required)
 # ---------------------------------------------------------------------------
 # The MCP protocol is JSON-RPC 2.0 over stdio (newline-delimited).
 # We handle: initialize, tools/list, tools/call
 
-REPO_PATH = Path(os.environ.get("W66_REPO_PATH", Path(__file__).resolve().parent.parent))
 W66_BASE_URL = os.environ.get("W66_BASE_URL", "http://localhost:8066").rstrip("/")
 
 TOOLS = [
@@ -137,9 +149,8 @@ def tool_plan_trip(destination: str, start_date: str, end_date: str, notes: str 
     city_path  = result.get("city_path")
     city_title = result.get("city_title", destination)
 
-    # 2. Launch research agent in background (non-blocking)
-    if city_path:
-        _launch_research_agent(city_path, city_title)
+    # 2. Launch research agent in background (non-blocking) — always, even if city_path unknown
+    _launch_research_agent(city_path or "", city_title)
 
     # 3. Format response
     lines = [
@@ -150,18 +161,9 @@ def tool_plan_trip(destination: str, start_date: str, end_date: str, notes: str 
         f"",
         f"Share this URL and passphrase with anyone joining the trip.",
         f"",
+        f"A research agent is running in the background to find missing places for {city_title} "
+        f"and open a pull request to world66. Check logs/ in the repo for progress.",
     ]
-    if city_path:
-        lines += [
-            f"A research agent has been started in the background to enrich the world66 guide "
-            f"for {city_title} — it will find missing attractions, restaurants, and landmarks "
-            f"and open a pull request. This may take a few minutes.",
-        ]
-    else:
-        lines += [
-            f"Note: {destination!r} was not found in the world66 guide. "
-            f"The research agent was not started — no content path could be resolved.",
-        ]
 
     return "\n".join(lines)
 
@@ -193,17 +195,27 @@ import urllib.parse
 
 def _launch_research_agent(city_path: str, city_title: str) -> None:
     """Launch the research agent as a background subprocess."""
+    from pathlib import Path as _Path
+    import time as _time
     python = sys.executable
     agent_script = str(REPO_PATH / "tools" / "research_agent.py")
-    if not Path(agent_script).exists():
+    if not _Path(agent_script).exists():
         return
-    subprocess.Popen(
-        [python, agent_script, "--city-path", city_path, "--city-title", city_title],
-        cwd=str(REPO_PATH),
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.DEVNULL,
-        start_new_session=True,
-    )
+    log_dir = REPO_PATH / "logs"
+    log_dir.mkdir(exist_ok=True)
+    slug = re.sub(r"[^a-z0-9]+", "-", city_title.lower()).strip("-")
+    log_file = log_dir / f"research-{slug}-{int(_time.time())}.log"
+    cmd = [python, agent_script, "--city-title", city_title]
+    if city_path:
+        cmd += ["--city-path", city_path]
+    with open(log_file, "w") as lf:
+        subprocess.Popen(
+            cmd,
+            cwd=str(REPO_PATH),
+            stdout=lf,
+            stderr=lf,
+            start_new_session=True,
+        )
 
 
 # ---------------------------------------------------------------------------

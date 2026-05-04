@@ -26,3 +26,5 @@ __pycache__/
 clean
 /location_ratings.json
 design/
+/logs/
+/.worktrees/

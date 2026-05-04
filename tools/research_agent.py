@@ -2,20 +2,21 @@
 """
 Tabbi Research Agent — enriches world66 content for a destination.
 
-Given a city path (e.g. europe/france/midi/cotedazur/marseille), the agent:
-1. Reads existing POI content for the city
-2. Uses the Anthropic API (Claude) to identify notable missing places
-3. Web-searches for each missing place to gather facts
-4. Writes new POI .md files following STYLE.md conventions
-5. Opens a GitHub PR
+Given a city name and optional content path, the agent:
+1. Reads existing POI content for the city (if path known)
+2. Uses Claude with web_search to research and write missing POIs
+3. Commits each POI file in a fresh git worktree
+4. Opens a GitHub PR
 
 Usage:
   python tools/research_agent.py --city-path europe/france/midi/cotedazur/marseille \
                                   --city-title Marseille
 
+  # city-path is optional — agent will still run for unknown cities
+  python tools/research_agent.py --city-title Dijon
+
 Environment variables:
-  ANTHROPIC_API_KEY   Required — Claude API key
-  GITHUB_TOKEN        Required — for opening the PR (uses gh CLI if not set)
+  ANTHROPIC_API_KEY   Required
 """
 
 from __future__ import annotations
@@ -32,11 +33,28 @@ import urllib.request
 from datetime import date
 from pathlib import Path
 
-import frontmatter
-
+# Load .env from repo root
 REPO = Path(__file__).resolve().parent.parent
+_dotenv = REPO / ".env"
+if _dotenv.exists():
+    for _line in _dotenv.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _, _v = _line.partition("=")
+            os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
+
 CONTENT_DIR = REPO / "content"
 STYLE_MD = (REPO / "STYLE.md").read_text() if (REPO / "STYLE.md").exists() else ""
+LOG_DIR = REPO / "logs"
+LOG_DIR.mkdir(exist_ok=True)
+
+
+def log(msg: str, logfile=None):
+    line = f"[tabbi-research] {msg}"
+    print(line, file=sys.stderr)
+    if logfile:
+        logfile.write(line + "\n")
+        logfile.flush()
 
 
 # ---------------------------------------------------------------------------
@@ -57,7 +75,7 @@ def geocode(query: str, city: str) -> tuple[float, float] | None:
             return float(results[0]["lat"]), float(results[0]["lon"])
     except Exception:
         pass
-    time.sleep(0.5)
+    time.sleep(0.3)
     return None
 
 
@@ -76,216 +94,191 @@ def slugify(text: str) -> str:
 # Read existing city content
 # ---------------------------------------------------------------------------
 
-def read_existing_pois(city_path: str) -> list[dict]:
+def read_existing_pois(city_path: str) -> list[str]:
+    """Return list of existing POI/location titles."""
+    import frontmatter as fm
     city_dir = CONTENT_DIR / city_path
-    pois = []
-    if not city_dir.is_dir():
-        # Try the .md file in parent + sibling dir
-        parts = city_path.rsplit("/", 1)
-        if len(parts) == 2:
-            city_dir = CONTENT_DIR / parts[0] / parts[1]
     if not city_dir.is_dir():
         return []
-
+    titles = []
     for md_file in sorted(city_dir.rglob("*.md")):
         try:
-            post = frontmatter.load(str(md_file))
-            if post.metadata.get("type") in ("poi", "section", "location"):
-                pois.append({
-                    "title": post.metadata.get("title", md_file.stem),
-                    "type":  post.metadata.get("type"),
-                    "path":  str(md_file.relative_to(CONTENT_DIR).with_suffix("")),
-                    "category": post.metadata.get("category", ""),
-                })
+            post = fm.load(str(md_file))
+            title = post.metadata.get("title", "")
+            if title:
+                titles.append(title)
         except Exception:
             continue
-    return pois
+    return titles
 
 
 # ---------------------------------------------------------------------------
-# Claude API helpers
+# Claude with web_search tool
 # ---------------------------------------------------------------------------
 
-def claude_complete(messages: list[dict], system: str = "", model: str = "claude-sonnet-4-6") -> str:
+def claude_research(city_title: str, city_path: str | None, existing_titles: list[str], logfile) -> list[dict]:
+    """
+    Ask Claude to research the city and return a list of POIs to write.
+    Uses the web_search tool so Claude can look things up itself.
+    Returns: [{"name", "category", "body", "latitude", "longitude"}, ...]
+    """
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
     if not api_key:
         raise RuntimeError("ANTHROPIC_API_KEY not set")
 
-    payload = {
-        "model": model,
-        "max_tokens": 4096,
-        "messages": messages,
-    }
-    if system:
-        payload["system"] = system
-
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
-        data=json.dumps(payload).encode(),
-        method="POST",
-        headers={
-            "x-api-key": api_key,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=60) as r:
-        data = json.load(r)
-    return data["content"][0]["text"]
-
-
-# ---------------------------------------------------------------------------
-# Web search (uses DuckDuckGo HTML scrape — no API key required)
-# ---------------------------------------------------------------------------
-
-def web_search(query: str, num_results: int = 5) -> list[dict]:
-    """Simple DuckDuckGo search returning titles + snippets."""
-    url = "https://html.duckduckgo.com/html/?" + urllib.parse.urlencode({"q": query})
-    req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (compatible; world66-research/1.0)",
-    })
-    try:
-        with urllib.request.urlopen(req, timeout=10) as r:
-            html = r.read().decode("utf-8", errors="replace")
-    except Exception:
-        return []
-
-    results = []
-    # Extract result titles and snippets from DDG HTML
-    for m in re.finditer(
-        r'class="result__title"[^>]*>.*?href="([^"]+)"[^>]*>([^<]+)</a>.*?class="result__snippet"[^>]*>(.*?)</span>',
-        html, re.DOTALL
-    ):
-        href    = m.group(1)
-        title   = re.sub(r"<[^>]+>", "", m.group(2)).strip()
-        snippet = re.sub(r"<[^>]+>", "", m.group(3)).strip()
-        if href.startswith("http"):
-            results.append({"url": href, "title": title, "snippet": snippet})
-        if len(results) >= num_results:
-            break
-    return results
-
-
-# ---------------------------------------------------------------------------
-# Core: identify missing places
-# ---------------------------------------------------------------------------
-
-def find_missing_places(city_title: str, city_path: str, existing_pois: list[dict]) -> list[dict]:
-    existing_titles = [p["title"] for p in existing_pois]
     existing_str = "\n".join(f"- {t}" for t in existing_titles) or "(none yet)"
 
-    prompt = f"""You are a knowledgeable travel editor for world66.ai, a restored open-content travel guide.
+    system = f"""You are a travel editor for world66.ai, a restored open-content travel guide.
 
-City: {city_title}
-Content path: {city_path}
-
-Existing entries in the guide for this city:
-{existing_str}
-
-Your task: identify up to 8 notable places, attractions, or experiences that are NOT yet in the guide and would genuinely interest a traveller visiting {city_title}.
+Writing style guide:
+{STYLE_MD[:2000]}
 
 Rules:
 - No hotels or accommodation
-- Focus on things with real cultural, historical, or culinary significance
-- Include a mix of categories: landmark, museum, restaurant/food, neighbourhood, market, park, viewpoint
-- Be specific — name the actual place, not generic categories
-- Only suggest places that actually exist and are well-known enough to find reliable information about
+- Write each POI description as 2-4 paragraphs of clean prose, no headings or bullets
+- Start directly with the place — no "This is..." or "Located in..." openers
+- Under 280 words per POI
+- Be factual and specific, like a well-edited printed travel guide"""
 
-Respond with a JSON array of objects:
+    user_message = f"""Research {city_title} and identify up to 6 notable places missing from our travel guide.
+
+Existing entries (do not duplicate):
+{existing_str}
+
+For each missing place:
+1. Use web_search to look up accurate details
+2. Write a complete POI entry
+
+When you have researched and written all POIs, respond with a JSON array:
 [
   {{
     "name": "Place Name",
-    "category": "Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery|Other",
-    "why": "One sentence on why it matters and what makes it distinctive"
+    "category": "Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery",
+    "body": "Full prose description (2-4 paragraphs)...",
+    "search_query": "what you searched for"
   }},
   ...
 ]
 
-Only JSON, no other text."""
+Only output the JSON array, nothing else."""
 
-    response = claude_complete([{"role": "user", "content": prompt}])
+    messages = [{"role": "user", "content": user_message}]
+    tools = [{
+        "type": "web_search_20250305",
+        "name": "web_search",
+    }]
 
-    try:
-        # Strip any markdown fences
-        response = re.sub(r"^```(?:json)?\s*|\s*```$", "", response.strip())
-        return json.loads(response)
-    except json.JSONDecodeError:
-        return []
+    # Agentic loop — Claude may call web_search multiple times
+    max_iterations = 15
+    for iteration in range(max_iterations):
+        payload = {
+            "model": "claude-sonnet-4-6",
+            "max_tokens": 8192,
+            "system": system,
+            "tools": tools,
+            "messages": messages,
+        }
+        req = urllib.request.Request(
+            "https://api.anthropic.com/v1/messages",
+            data=json.dumps(payload).encode(),
+            method="POST",
+            headers={
+                "x-api-key": api_key,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            },
+        )
+        with urllib.request.urlopen(req, timeout=120) as r:
+            response = json.load(r)
+
+        stop_reason = response.get("stop_reason")
+        content     = response.get("content", [])
+
+        log(f"Iteration {iteration+1}: stop_reason={stop_reason}, blocks={len(content)}", logfile)
+
+        if stop_reason == "end_turn":
+            # Extract the final text block
+            for block in content:
+                if block.get("type") == "text":
+                    text = block["text"].strip()
+                    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text)
+                    try:
+                        return json.loads(text)
+                    except json.JSONDecodeError:
+                        log(f"Failed to parse JSON response: {text[:200]}", logfile)
+                        return []
+            return []
+
+        if stop_reason == "tool_use":
+            # Add assistant message and tool results
+            messages.append({"role": "assistant", "content": content})
+            tool_results = []
+            for block in content:
+                if block.get("type") == "tool_use":
+                    tool_name = block.get("name")
+                    tool_id   = block.get("id")
+                    # web_search results come back in the response itself for server-side tools
+                    # For client-side tool_use we'd need to call the API ourselves,
+                    # but web_search_20250305 is a server-side tool — results are in the response
+                    log(f"  Tool call: {tool_name} (id={tool_id})", logfile)
+            # If stop_reason is tool_use but it's a server-side tool, the next turn
+            # should already have the results — just continue
+            if not tool_results:
+                # Server-side tools: just re-send with the assistant turn appended
+                continue
+            messages.append({"role": "user", "content": tool_results})
+            continue
+
+        # Any other stop reason — try to parse what we have
+        for block in content:
+            if block.get("type") == "text":
+                text = block["text"].strip()
+                text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text)
+                try:
+                    return json.loads(text)
+                except json.JSONDecodeError:
+                    pass
+        break
+
+    log("Max iterations reached without a final response", logfile)
+    return []
 
 
 # ---------------------------------------------------------------------------
-# Core: write a POI file
+# Write a POI file
 # ---------------------------------------------------------------------------
 
-def write_poi(
-    city_path: str,
-    city_title: str,
-    place: dict,
-    search_results: list[dict],
-) -> Path | None:
-    name     = place["name"]
-    category = place.get("category", "Landmark")
-    why      = place.get("why", "")
+def write_poi(city_path: str, city_title: str, poi: dict, work_dir: Path, logfile) -> Path | None:
+    import frontmatter as fm
+
+    name     = poi.get("name", "").strip()
+    category = poi.get("category", "Landmark")
+    body     = poi.get("body", "").strip()
+
+    if not name or not body:
+        return None
+
+    slug = slugify(name)
+    city_dir = work_dir / "content" / city_path if city_path else work_dir / "content" / "uncategorised" / slugify(city_title)
+    city_dir.mkdir(parents=True, exist_ok=True)
+    out_path = city_dir / f"{slug}.md"
+
+    if out_path.exists():
+        log(f"  Skipping {slug}.md — already exists", logfile)
+        return None
 
     # Geocode
     coords = geocode(name, city_title)
     time.sleep(0.3)
 
-    # Use Claude to write the POI description
-    search_context = "\n\n".join(
-        f"Source: {r['url']}\nTitle: {r['title']}\n{r['snippet']}"
-        for r in search_results
-    ) or f"No search results found — write based on general knowledge of {name} in {city_title}."
-
-    system_prompt = f"""You are a travel writer for world66.ai. Write in the voice described below.
-
-{STYLE_MD[:3000]}"""
-
-    user_prompt = f"""Write a POI entry for "{name}" in {city_title}.
-
-Category: {category}
-Editorial note: {why}
-
-Research gathered from web:
-{search_context}
-
-Write 2–4 paragraphs of clean, factual prose. No headings, no bullet points, no markdown formatting inside the body text. Start directly with the place — no "This is..." or "Located in..." openers. Write as if for a well-edited printed travel guide.
-
-Keep it under 300 words."""
-
-    try:
-        body = claude_complete(
-            [{"role": "user", "content": user_prompt}],
-            system=system_prompt,
-        )
-    except Exception as e:
-        print(f"  Claude error for {name}: {e}", file=sys.stderr)
-        return None
-
-    # Build frontmatter
-    slug = slugify(name)
-    meta = {
-        "title": name,
-        "type": "poi",
-        "category": category,
-    }
+    meta = {"title": name, "type": "poi", "category": category}
     if coords:
         meta["latitude"]  = round(coords[0], 7)
         meta["longitude"] = round(coords[1], 7)
 
-    post = frontmatter.Post(content=body.strip(), **meta)
-
-    # Write file
-    city_dir = CONTENT_DIR / city_path
-    city_dir.mkdir(parents=True, exist_ok=True)
-    out_path = city_dir / f"{slug}.md"
-
-    if out_path.exists():
-        print(f"  Skipping {slug}.md — already exists", file=sys.stderr)
-        return None
-
-    out_path.write_text(frontmatter.dumps(post))
-    print(f"  Written: {out_path.relative_to(REPO)}", file=sys.stderr)
+    post = fm.Post(content=body, **meta)
+    out_path.write_text(fm.dumps(post))
+    log(f"  Written: content/{city_path}/{slug}.md", logfile)
     return out_path
 
 
@@ -294,15 +287,13 @@ Keep it under 300 words."""
 # ---------------------------------------------------------------------------
 
 def git(args: list[str], cwd: Path = REPO) -> str:
-    result = subprocess.run(
-        ["git"] + args, cwd=str(cwd), capture_output=True, text=True
-    )
+    result = subprocess.run(["git"] + args, cwd=str(cwd), capture_output=True, text=True)
     if result.returncode != 0:
-        raise RuntimeError(f"git {' '.join(args)} failed: {result.stderr.strip()}")
+        raise RuntimeError(f"git {' '.join(args)} failed:\n{result.stderr.strip()}")
     return result.stdout.strip()
 
 
-def create_pr(branch: str, city_title: str, written: list[Path]) -> str:
+def create_pr(branch: str, city_title: str, written: list[Path], logfile) -> str:
     filelist = "\n".join(f"- `{p.relative_to(REPO)}`" for p in written)
     body = f"""## Tabbi Research: {city_title}
 
@@ -312,11 +303,10 @@ Added {len(written)} new POI entries identified as missing from the world66 guid
 {filelist}
 
 ### How these were generated
-1. Existing world66 content for {city_title} was read
-2. Claude identified notable missing places
-3. Web search gathered facts for each place
-4. Claude wrote descriptions following STYLE.md conventions
-5. Nominatim geocoded each location
+- Claude with `web_search` tool researched {city_title}
+- Identified places not yet in the guide
+- Wrote descriptions following STYLE.md conventions
+- Nominatim geocoded each location
 
 🤖 Generated by the Tabbi research agent
 """
@@ -329,7 +319,7 @@ Added {len(written)} new POI entries identified as missing from the world66 guid
         cwd=str(REPO), capture_output=True, text=True,
     )
     if result.returncode != 0:
-        raise RuntimeError(f"gh pr create failed: {result.stderr.strip()}")
+        raise RuntimeError(f"gh pr create failed:\n{result.stderr.strip()}")
     return result.stdout.strip()
 
 
@@ -339,80 +329,81 @@ Added {len(written)} new POI entries identified as missing from the world66 guid
 
 def main():
     parser = argparse.ArgumentParser(description="Tabbi research agent")
-    parser.add_argument("--city-path",  required=True, help="Content path, e.g. europe/france/midi/cotedazur/marseille")
+    parser.add_argument("--city-path",  default="", help="Content path, e.g. europe/france/midi/cotedazur/marseille")
     parser.add_argument("--city-title", required=True, help="Human-readable city name, e.g. Marseille")
     args = parser.parse_args()
 
-    city_path  = args.city_path
-    city_title = args.city_title
+    city_path  = args.city_path.strip()
+    city_title = args.city_title.strip()
 
-    print(f"[tabbi-research] Starting for {city_title} ({city_path})", file=sys.stderr)
+    today     = date.today().strftime("%Y%m%d")
+    branch    = f"tabbi-research-{slugify(city_title)}-{today}"
+    log_path  = LOG_DIR / f"research-{slugify(city_title)}-{today}.log"
 
-    # 1. Read existing content
-    existing = read_existing_pois(city_path)
-    print(f"[tabbi-research] Found {len(existing)} existing entries", file=sys.stderr)
+    with open(log_path, "w") as logfile:
+        log(f"Starting for {city_title} (path={city_path or 'unknown'})", logfile)
+        log(f"Log: {log_path}", logfile)
 
-    # 2. Identify missing places
-    print("[tabbi-research] Asking Claude for missing places...", file=sys.stderr)
-    try:
-        missing = find_missing_places(city_title, city_path, existing)
-    except Exception as e:
-        print(f"[tabbi-research] Failed to identify missing places: {e}", file=sys.stderr)
-        sys.exit(1)
+        # 1. Read existing content
+        existing = read_existing_pois(city_path) if city_path else []
+        log(f"Found {len(existing)} existing entries", logfile)
 
-    if not missing:
-        print("[tabbi-research] No missing places identified — done.", file=sys.stderr)
-        sys.exit(0)
+        # 2. Research with Claude + web_search
+        log("Asking Claude to research missing places...", logfile)
+        try:
+            pois = claude_research(city_title, city_path or None, existing, logfile)
+        except Exception as e:
+            log(f"Claude research failed: {e}", logfile)
+            sys.exit(1)
 
-    print(f"[tabbi-research] Found {len(missing)} missing places to add", file=sys.stderr)
+        if not pois:
+            log("No POIs returned — done.", logfile)
+            sys.exit(0)
 
-    # 3. Create branch
-    today = date.today().strftime("%Y%m%d")
-    branch = f"tabbi-research-{slugify(city_title)}-{today}"
-    try:
-        git(["checkout", "main"])
-        git(["pull", "--ff-only"])
-        git(["checkout", "-b", branch])
-    except RuntimeError as e:
-        print(f"[tabbi-research] Git branch error: {e}", file=sys.stderr)
-        sys.exit(1)
+        log(f"Got {len(pois)} POIs to write", logfile)
 
-    # 4. Write each POI
-    written = []
-    for place in missing:
-        name = place.get("name", "")
-        if not name:
-            continue
-        print(f"[tabbi-research] Researching: {name}", file=sys.stderr)
+        # 3. Create a worktree branched off origin/main (safe — doesn't touch current branch)
+        worktree_path = REPO / ".worktrees" / branch
+        worktree_path.parent.mkdir(exist_ok=True)
+        try:
+            git(["fetch", "origin", "main"])
+            git(["worktree", "add", "-b", branch, str(worktree_path), "origin/main"])
+        except RuntimeError as e:
+            log(f"Git worktree error: {e}", logfile)
+            sys.exit(1)
 
-        search_results = web_search(f"{name} {city_title} travel guide")
-        time.sleep(0.5)
+        # 4. Write POI files into the worktree
+        written = []
+        for poi in pois:
+            name = poi.get("name", "")
+            if not name:
+                continue
+            log(f"Writing: {name}", logfile)
+            path = write_poi(city_path, city_title, poi, worktree_path, logfile)
+            if path:
+                written.append(path)
+                git(["add", str(path)], cwd=worktree_path)
+                git(["commit", "-m", f"feat({slugify(city_title)}): add POI — {name}"], cwd=worktree_path)
 
-        path = write_poi(city_path, city_title, place, search_results)
-        if path:
-            written.append(path)
-            git(["add", str(path)])
-            git(["commit", "-m", f"feat({slugify(city_title)}): add POI — {name}"])
+        if not written:
+            log("Nothing written — removing worktree", logfile)
+            git(["worktree", "remove", "--force", str(worktree_path)])
+            git(["branch", "-D", branch])
+            sys.exit(0)
 
-        time.sleep(0.5)
+        # 5. Push and open PR
+        log(f"Pushing {len(written)} files...", logfile)
+        try:
+            git(["push", "-u", "origin", branch], cwd=worktree_path)
+            pr_url = create_pr(branch, city_title, written, logfile)
+            log(f"PR opened: {pr_url}", logfile)
+        except RuntimeError as e:
+            log(f"PR creation failed: {e}", logfile)
+            sys.exit(1)
+        finally:
+            git(["worktree", "remove", "--force", str(worktree_path)])
 
-    if not written:
-        print("[tabbi-research] Nothing written — cleaning up branch", file=sys.stderr)
-        git(["checkout", "main"])
-        git(["branch", "-D", branch])
-        sys.exit(0)
-
-    # 5. Push and open PR
-    print(f"[tabbi-research] Pushing {len(written)} files and opening PR...", file=sys.stderr)
-    try:
-        git(["push", "-u", "origin", branch])
-        pr_url = create_pr(branch, city_title, written)
-        print(f"[tabbi-research] PR opened: {pr_url}", file=sys.stderr)
-    except RuntimeError as e:
-        print(f"[tabbi-research] PR creation failed: {e}", file=sys.stderr)
-        sys.exit(1)
-
-    print(f"[tabbi-research] Done. {len(written)} POIs added for {city_title}.", file=sys.stderr)
+        log(f"Done. {len(written)} POIs added for {city_title}.", logfile)
 
 
 if __name__ == "__main__":

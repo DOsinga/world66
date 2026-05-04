@@ -16,6 +16,15 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+# Load .env from repo root (for local dev; production sets env vars directly)
+_dotenv = BASE_DIR / ".env"
+if _dotenv.exists():
+    for _line in _dotenv.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _, _v = _line.partition("=")
+            os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
+
 _PRODUCTION = os.environ.get("DJANGO_SECRET_KEY") is not None
 
 SECRET_KEY = os.environ.get(
@@ -33,13 +42,19 @@ ALLOWED_HOSTS = ["world66.ai", "www.world66.ai"] if _PRODUCTION else ["*"]
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "guide",
+    "plans_app",
 ]
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
     "django.middleware.common.CommonMiddleware",
+    "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
+
+SESSION_ENGINE = "django.contrib.sessions.backends.signed_cookies"
+SESSION_COOKIE_HTTPONLY = True
+SESSION_COOKIE_SAMESITE = "Lax"
 
 ROOT_URLCONF = "world66.urls"
 

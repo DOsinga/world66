@@ -1,0 +1,31 @@
+{% extends "plans/base.html" %}
+{% load static %}
+{% block title %}{{ title }} — Tab.bi{% endblock %}
+{% block content %}
+<div class="tabbi-page">
+  <div style="max-width:680px;margin:0 auto;padding:32px 20px;">
+    <nav style="font-size:0.85rem;color:#888;margin-bottom:24px;">
+      <a href="javascript:history.back()" style="color:#888;">← Back to plan</a>
+    </nav>
+    {% if category %}
+    <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#A8D5A2;margin-bottom:8px;">{{ category }}</div>
+    {% endif %}
+    <h1 style="font-size:1.8rem;font-weight:700;margin:0 0 24px;">{{ title }}</h1>
+    <div class="draft-poi-body" style="font-size:1rem;line-height:1.75;color:#333;">
+      {{ body|safe }}
+    </div>
+    {% if lat and lng %}
+    <div id="draft-poi-map" style="height:260px;border-radius:8px;margin-top:32px;"></div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+    (function() {
+      var map = L.map('draft-poi-map', {scrollWheelZoom: false});
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
+      L.marker([{{ lat }}, {{ lng }}]).addTo(map);
+      map.setView([{{ lat }}, {{ lng }}], 15);
+    })();
+    </script>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

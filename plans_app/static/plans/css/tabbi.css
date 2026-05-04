@@ -1,0 +1,1291 @@
+/*
+ * Tab.bi — full brand stylesheet
+ *
+ * Palette
+ *   Yellow      #F4B028   primary action, accents
+ *   Yellow dark #d99b1a   hover
+ *   Yellow pale #FFF8E6   hover backgrounds
+ *   Yellow bg   #FFD966   light fills
+ *   Warm black  #180A0A   headings, primary text
+ *   Body text   #535050
+ *   Muted       #A6A6A6
+ *   Border      #DCDCDC
+ *   Grey        #EAEAEA
+ *   Background  #F7F7F7
+ *   White       #FFFFFF
+ *   Error       #EB424F
+ *
+ * Font: Lexend Exa (Google Fonts)
+ * Radius: 16px cards, 999px buttons/pills, 12px inputs
+ * Shadow: 0 4px 16px rgba(24,10,10,0.08)
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@300;400;500;600;700;800&display=swap');
+
+/* ── Reset world66 styles for plan pages ─────────────────────────────────── */
+
+body:has(.tabbi-page) {
+  background: #F7F7F7;
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+/* Hide world66 nav fully (replaced by tabbi-nav) */
+.topnav { display: none !important; }
+
+.tabbi-page,
+.tabbi-page * {
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+/* Override the content grid width for plan pages */
+#content:has(.tabbi-page) {
+  grid-template-columns: 1fr;
+  grid-template-areas: "main";
+  max-width: 100%;
+}
+
+#content:has(.tabbi-page) #main {
+  max-width: 100%;
+  padding: 0 32px 64px;
+}
+
+/* ── Nav ──────────────────────────────────────────────────────────────────── */
+
+.tabbi-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
+  height: 64px;
+  background: #FFFFFF;
+  border-bottom: 1px solid #EAEAEA;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 12px rgba(24,10,10,0.06);
+}
+
+.tabbi-nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.tabbi-nav-logo-img {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}
+
+.tabbi-nav-logo-text {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: #180A0A;
+  letter-spacing: -0.04em;
+}
+
+.tabbi-nav-logo-dot {
+  color: #F4B028;
+}
+
+.tabbi-nav-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+/* ── Buttons ─────────────────────────────────────────────────────────────── */
+
+.tabbi-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 9px 20px;
+  background: #F4B028;
+  color: #180A0A;
+  border: none;
+  border-radius: 999px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s, box-shadow 0.15s;
+  box-shadow: 0 3px 10px rgba(244,176,40,0.35);
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+}
+.tabbi-btn:hover {
+  background: #d99b1a;
+  color: #180A0A;
+  transform: translateY(-1px);
+  box-shadow: 0 5px 16px rgba(244,176,40,0.4);
+}
+.tabbi-btn:active { transform: translateY(0); }
+
+.tabbi-btn--ghost {
+  background: transparent;
+  color: #535050;
+  border: 2px solid #DCDCDC;
+  box-shadow: none;
+}
+.tabbi-btn--ghost:hover {
+  border-color: #F4B028;
+  color: #180A0A;
+  background: #FFF8E6;
+  box-shadow: none;
+}
+
+.tabbi-btn--sm {
+  font-size: 0.75rem;
+  padding: 6px 14px;
+}
+
+/* ── Page scaffold ───────────────────────────────────────────────────────── */
+
+.tabbi-page {
+  max-width: 100%;
+  padding: 0;
+}
+
+/* ── Page header ─────────────────────────────────────────────────────────── */
+
+.plan-header {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.plan-header h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #180A0A;
+  letter-spacing: -0.04em;
+  margin: 0;
+  flex: 1;
+}
+
+/* ── Breadcrumb ──────────────────────────────────────────────────────────── */
+
+.plan-breadcrumb {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #A6A6A6;
+  margin-bottom: 10px;
+  letter-spacing: 0.02em;
+}
+.plan-breadcrumb a { color: #A6A6A6; text-decoration: none; }
+.plan-breadcrumb a:hover { color: #F4B028; }
+.plan-breadcrumb-sep { margin: 0 6px; }
+
+/* ── Edit link ───────────────────────────────────────────────────────────── */
+
+.plan-edit-link {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #A6A6A6;
+  border: 2px solid #EAEAEA;
+  border-radius: 999px;
+  padding: 5px 14px;
+  text-decoration: none;
+  transition: all 0.15s;
+}
+.plan-edit-link:hover {
+  border-color: #F4B028;
+  color: #180A0A;
+  background: #FFF8E6;
+}
+
+/* ── Trip list page ──────────────────────────────────────────────────────── */
+
+.plan-list-page { padding-top: 8px; }
+
+.plan-list-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 32px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.plan-list-header h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #180A0A;
+  letter-spacing: -0.04em;
+  margin: 0;
+}
+
+.plan-list-actions { display: flex; gap: 10px; align-items: center; }
+
+/* Override world66 list buttons */
+.plan-list-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 9px 20px;
+  background: #F4B028;
+  color: #180A0A;
+  border: none;
+  border-radius: 999px;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(244,176,40,0.35);
+  transition: background 0.15s, transform 0.1s;
+  white-space: nowrap;
+}
+.plan-list-action-btn:hover {
+  background: #d99b1a;
+  color: #180A0A;
+  transform: translateY(-1px);
+}
+.plan-list-action-btn--ghost {
+  background: #FFFFFF;
+  color: #535050;
+  border: 2px solid #DCDCDC;
+  box-shadow: none;
+}
+.plan-list-action-btn--ghost:hover {
+  border-color: #F4B028;
+  color: #180A0A;
+  background: #FFF8E6;
+  transform: none;
+}
+
+/* ── Trip cards ──────────────────────────────────────────────────────────── */
+
+.plan-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 24px;
+}
+
+.plan-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  overflow: hidden;
+  background: #FFFFFF;
+  border: none;
+  box-shadow: 0 4px 20px rgba(24,10,10,0.08);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.plan-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(24,10,10,0.14);
+}
+
+.plan-card-photo {
+  height: 180px;
+  position: relative;
+  overflow: hidden;
+}
+.plan-card-photo-img {
+  position: absolute;
+  inset: 0;
+  background-image: var(--cover);
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.35s;
+}
+.plan-card:hover .plan-card-photo-img { transform: scale(1.06); }
+.plan-card-photo-placeholder {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, #FFD966 0%, #F4B028 100%);
+}
+
+.plan-card-body {
+  padding: 20px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+}
+
+.plan-card-title {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #180A0A;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+.plan-card-dates { font-size: 0.75rem; color: #A6A6A6; margin-top: 4px; }
+.plan-card-cities {
+  font-size: 0.8rem;
+  color: #535050;
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.plan-card-stats {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 2px solid #F7F7F7;
+}
+.plan-card-stat { font-size: 0.75rem; color: #A6A6A6; font-weight: 500; }
+.plan-card-stat-num {
+  font-weight: 800;
+  color: #F4B028;
+  font-size: 0.9rem;
+}
+.plan-card-stat-dot { color: #DCDCDC; }
+
+.plan-list-empty-state {
+  text-align: center;
+  padding: 80px 0;
+  color: #A6A6A6;
+}
+
+/* ── Overview: map + tile grid ───────────────────────────────────────────── */
+
+.plan-overview-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: start;
+  min-width: 0;
+}
+.plan-overview-layout > * { min-width: 0; }
+
+#plan-overview-map {
+  height: calc(100vh - 120px);
+  min-height: 400px;
+  max-height: 700px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 4px 20px rgba(24,10,10,0.1);
+  position: sticky;
+  top: 72px;
+}
+
+.plan-dest-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.plan-dest-tile {
+  position: relative;
+  height: 200px;
+  border-radius: 20px;
+  background-color: #F4B028;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 4px 16px rgba(24,10,10,0.1);
+}
+.plan-dest-tile:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px rgba(24,10,10,0.16);
+}
+
+.plan-dest-tile-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background: linear-gradient(to bottom, rgba(24,10,10,0.05) 0%, rgba(24,10,10,0.65) 100%);
+  padding: 16px 18px;
+}
+
+.plan-dest-tile-num {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  width: 30px;
+  height: 30px;
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 50%;
+  font-size: 0.8rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(24,10,10,0.2);
+}
+
+.plan-dest-tile-city {
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -0.02em;
+  text-shadow: 0 1px 4px rgba(24,10,10,0.4);
+}
+.plan-dest-tile-dates { font-size: 0.75rem; color: rgba(255,255,255,0.8); margin-top: 2px; }
+.plan-dest-tile-count { font-size: 0.72rem; color: rgba(255,255,255,0.6); margin-top: 1px; }
+
+.plan-dest-tile-explore {
+  position: absolute;
+  bottom: 14px;
+  right: 14px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #180A0A;
+  background: #F4B028;
+  border-radius: 999px;
+  padding: 4px 12px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+.plan-dest-tile-explore:hover { background: #FFD966; }
+
+/* ── Stop page map ───────────────────────────────────────────────────────── */
+
+.plan-stop-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: start;
+  min-width: 0;
+}
+.plan-stop-layout > * { min-width: 0; }
+
+#plan-stop-map {
+  height: calc(100vh - 120px);
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 4px 20px rgba(24,10,10,0.1);
+  position: sticky;
+  top: 72px;
+}
+
+/* ── Map markers ─────────────────────────────────────────────────────────── */
+
+.plan-stop-marker {
+  background: #F4B028 !important;
+  color: #180A0A !important;
+  font-family: 'Lexend Exa', sans-serif !important;
+  font-weight: 800 !important;
+  box-shadow: 0 2px 8px rgba(24,10,10,0.25) !important;
+}
+
+/* ── City intro ──────────────────────────────────────────────────────────── */
+
+.plan-city-intro {
+  display: flex;
+  gap: 14px;
+  padding: 16px;
+  border-radius: 16px;
+  background: #FFFFFF;
+  border: none;
+  box-shadow: 0 4px 16px rgba(24,10,10,0.07);
+  margin-bottom: 16px;
+}
+.plan-city-intro-image {
+  width: 90px;
+  height: 90px;
+  border-radius: 12px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.plan-city-intro-text { font-size: 0.82rem; color: #535050; line-height: 1.55; }
+.plan-city-explore {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 10px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #180A0A;
+  background: #F4B028;
+  border-radius: 999px;
+  padding: 5px 14px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+.plan-city-explore:hover { background: #d99b1a; }
+
+/* ── POI list ────────────────────────────────────────────────────────────── */
+
+.plan-poi-list { display: flex; flex-direction: column; gap: 12px; }
+
+.plan-poi-card {
+  display: flex;
+  gap: 14px;
+  padding: 14px;
+  border-radius: 16px;
+  background: #FFFFFF;
+  border: none;
+  box-shadow: 0 3px 12px rgba(24,10,10,0.07);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.plan-poi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(24,10,10,0.11);
+}
+
+.plan-poi-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+  flex-shrink: 0;
+  background: linear-gradient(135deg, #FFD966, #F4B028);
+  background-size: cover;
+  background-position: center;
+}
+
+.plan-poi-body { flex: 1; min-width: 0; }
+
+.plan-poi-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #180A0A;
+  text-decoration: none;
+  display: block;
+  letter-spacing: -0.01em;
+}
+.plan-poi-title:hover { color: #F4B028; }
+
+.plan-poi-snippet { font-size: 0.78rem; color: #A6A6A6; margin-top: 3px; line-height: 1.45; }
+
+.plan-poi-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+.plan-poi-tag {
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  background: #F4B028;
+  color: #180A0A;
+  border-radius: 999px;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+.plan-poi-tag:hover { background: #d99b1a; }
+
+/* ── Note editing ────────────────────────────────────────────────────────── */
+
+.plan-poi-note { font-size: 0.8rem; color: #535050; font-style: normal; }
+.plan-note-text { cursor: text; transition: color 0.15s; }
+.plan-note-text:hover { color: #180A0A; }
+.plan-note-input {
+  border: none;
+  border-bottom: 2px solid #F4B028;
+  background: transparent;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.8rem;
+  color: #180A0A;
+  width: 100%;
+  outline: none;
+  padding: 2px 0;
+}
+
+/* ── Remove button ───────────────────────────────────────────────────────── */
+
+.plan-remove-btn {
+  font-size: 0.7rem;
+  color: #DCDCDC;
+  border: 1.5px solid #EAEAEA;
+  border-radius: 999px;
+  background: none;
+  cursor: pointer;
+  padding: 3px 9px;
+  transition: all 0.15s;
+}
+.plan-remove-btn:hover {
+  border-color: #EB424F;
+  color: #EB424F;
+  background: #fff0f0;
+}
+
+/* ── Suggestions strip ───────────────────────────────────────────────────── */
+
+.plan-suggestions { margin-top: 20px; padding-top: 20px; border-top: 2px solid #F7F7F7; }
+
+.plan-suggestions-heading {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #A6A6A6;
+  margin-bottom: 12px;
+}
+
+.plan-suggestions-strip {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  padding-top: 4px;
+  padding-bottom: 8px;
+  scrollbar-width: thin;
+  scrollbar-color: #DCDCDC transparent;
+}
+
+.plan-suggestion-tile {
+  flex-shrink: 0;
+  width: 160px;
+  border-radius: 14px;
+  border: 2px solid #EAEAEA;
+  background: #FFFFFF;
+  box-shadow: 0 3px 10px rgba(24,10,10,0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.plan-suggestion-tile:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(24,10,10,0.1);
+}
+.plan-suggestion-tile--match {
+  border-color: #F4B028;
+  box-shadow: 0 3px 10px rgba(244,176,40,0.2);
+}
+
+.plan-suggestion-tile-img {
+  height: 90px;
+  background-size: cover;
+  background-position: center;
+}
+
+.plan-suggestion-tile-body {
+  padding: 10px 10px 8px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.plan-suggestion-title {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #180A0A;
+  text-decoration: none;
+  line-height: 1.25;
+  display: block;
+}
+.plan-suggestion-title:hover { color: #F4B028; }
+
+.plan-suggestion-snippet { font-size: 0.7rem; color: #A6A6A6; line-height: 1.4; }
+
+.plan-suggestion-add { margin-top: auto; padding: 0 10px 10px; }
+.plan-suggestion-btn {
+  width: 100%;
+  height: 28px;
+  background: #F7F7F7;
+  border: 2px solid #EAEAEA;
+  border-radius: 999px;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #535050;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.plan-suggestion-btn:hover {
+  background: #F4B028;
+  border-color: #F4B028;
+  color: #180A0A;
+}
+.plan-suggestion-tile--draft { border-left: 3px solid #A8D5A2; }
+.plan-suggestion-draft-badge {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #fff;
+  background: #A8D5A2;
+  border-radius: 3px;
+  padding: 1px 5px;
+  margin-top: 4px;
+}
+
+/* ── External links ──────────────────────────────────────────────────────── */
+
+.plan-external-link { display: flex; align-items: center; gap: 6px; text-decoration: none; }
+.plan-external-label { font-size: 0.82rem; font-weight: 600; color: #180A0A; }
+.plan-external-domain { font-size: 0.72rem; color: #A6A6A6; }
+.plan-external-link:hover .plan-external-label { color: #F4B028; }
+
+/* ── Edit page ───────────────────────────────────────────────────────────── */
+
+.plan-edit-layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 32px;
+  align-items: start;
+}
+
+.plan-edit-textarea {
+  width: 100%;
+  min-height: 400px;
+  padding: 18px 20px;
+  border: 2px solid #EAEAEA;
+  border-radius: 16px;
+  background: #FFFFFF;
+  font-family: 'Lexend Exa', monospace;
+  font-size: 0.85rem;
+  color: #180A0A;
+  resize: vertical;
+  line-height: 1.7;
+  box-shadow: 0 3px 12px rgba(24,10,10,0.06);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.plan-edit-textarea:focus {
+  border-color: #F4B028;
+  box-shadow: 0 0 0 4px rgba(244,176,40,0.15);
+  outline: none;
+}
+
+.plan-edit-actions { display: flex; gap: 12px; margin-top: 14px; align-items: center; }
+
+.plan-edit-save {
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 10px 24px;
+  background: #F4B028;
+  color: #180A0A;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(244,176,40,0.35);
+  transition: background 0.15s, transform 0.1s;
+}
+.plan-edit-save:hover { background: #d99b1a; transform: translateY(-1px); }
+
+.plan-edit-cancel { font-size: 0.82rem; color: #A6A6A6; text-decoration: none; }
+.plan-edit-cancel:hover { color: #180A0A; }
+
+.plan-edit-help {
+  background: #FFFFFF;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 3px 12px rgba(24,10,10,0.06);
+  border: 2px solid #EAEAEA;
+}
+.plan-edit-help h3 {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #A6A6A6;
+  font-weight: 700;
+  margin: 0 0 12px;
+}
+.plan-edit-example {
+  background: #F7F7F7;
+  border-radius: 10px;
+  padding: 12px;
+  font-size: 0.75rem;
+  color: #535050;
+  line-height: 1.7;
+  border: 1.5px solid #EAEAEA;
+}
+.plan-edit-hints {
+  list-style: none;
+  padding: 0;
+  margin: 14px 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.plan-edit-hints li { font-size: 0.75rem; color: #535050; line-height: 1.5; }
+.plan-edit-hints strong { color: #180A0A; font-weight: 700; }
+
+/* ── Join modal ──────────────────────────────────────────────────────────── */
+
+.plan-join-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(24,10,10,0.4);
+  backdrop-filter: blur(4px);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.plan-join-modal[hidden] { display: none; }
+
+.plan-join-modal-box {
+  background: #FFFFFF;
+  border-radius: 24px;
+  padding: 36px 40px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 20px 60px rgba(24,10,10,0.18);
+}
+.plan-join-modal-box h2 {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: #180A0A;
+  letter-spacing: -0.03em;
+  margin: 0 0 24px;
+}
+.plan-join-modal-box label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #535050;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.plan-join-modal-box input[type=password] {
+  width: 100%;
+  padding: 12px 18px;
+  border: 2px solid #EAEAEA;
+  border-radius: 999px;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.9rem;
+  color: #180A0A;
+  background: #F7F7F7;
+  box-sizing: border-box;
+  transition: border-color 0.15s;
+}
+.plan-join-modal-box input[type=password]:focus {
+  border-color: #F4B028;
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(244,176,40,0.15);
+  background: #FFFFFF;
+}
+.plan-join-modal-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+.plan-join-modal-actions button[type=submit] {
+  flex: 1;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 11px;
+  background: #F4B028;
+  color: #180A0A;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(244,176,40,0.35);
+  transition: background 0.15s;
+}
+.plan-join-modal-actions button[type=submit]:hover { background: #d99b1a; }
+.plan-join-modal-actions button[type=button] {
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 11px 20px;
+  background: none;
+  border: 2px solid #EAEAEA;
+  border-radius: 999px;
+  color: #535050;
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+.plan-join-modal-actions button[type=button]:hover {
+  border-color: #F4B028;
+  color: #180A0A;
+}
+
+.plan-list-error { font-size: 0.82rem; color: #EB424F; margin-bottom: 14px; font-weight: 600; }
+
+/* ── New trip / login pages ──────────────────────────────────────────────── */
+
+.login-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - 64px);
+}
+
+.login-box {
+  background: #FFFFFF;
+  border-radius: 24px;
+  padding: 48px 44px;
+  width: 100%;
+  max-width: 420px;
+  box-shadow: 0 8px 40px rgba(24,10,10,0.1);
+  border: 2px solid #EAEAEA;
+}
+
+.login-logo {
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  color: #180A0A;
+  margin-bottom: 6px;
+}
+.logo-dot { color: #F4B028; }
+
+.login-box h1 {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #180A0A;
+  letter-spacing: -0.03em;
+  margin: 0 0 28px;
+}
+
+.login-box label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #535050;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-bottom: 7px;
+  margin-top: 16px;
+}
+.login-box label:first-of-type { margin-top: 0; }
+
+.login-box input[type=text],
+.login-box input[type=password] {
+  width: 100%;
+  padding: 12px 18px;
+  border: 2px solid #EAEAEA;
+  border-radius: 999px;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.88rem;
+  color: #180A0A;
+  background: #F7F7F7;
+  box-sizing: border-box;
+  transition: border-color 0.15s;
+}
+.login-box input:focus {
+  border-color: #F4B028;
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(244,176,40,0.15);
+  background: #FFFFFF;
+}
+
+.login-box button[type=submit] {
+  width: 100%;
+  margin-top: 24px;
+  padding: 13px;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+  background: #F4B028;
+  color: #180A0A;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(244,176,40,0.4);
+  letter-spacing: 0.01em;
+  transition: background 0.15s, transform 0.1s;
+}
+.login-box button[type=submit]:hover {
+  background: #d99b1a;
+  transform: translateY(-1px);
+}
+
+.login-error {
+  font-size: 0.8rem;
+  color: #EB424F;
+  font-weight: 600;
+  margin-bottom: 14px;
+  padding: 10px 14px;
+  background: #fff0f0;
+  border-radius: 10px;
+}
+
+.plan-new-hint {
+  font-weight: 400;
+  color: #A6A6A6;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+/* ── Passphrase page ─────────────────────────────────────────────────────── */
+
+.plan-passphrase-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 20px;
+  background: #FFF8E6;
+  border: 2px solid #F4B028;
+  border-radius: 14px;
+  font-family: 'Lexend Exa', monospace;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #180A0A;
+  letter-spacing: 0.04em;
+  margin: 20px 0;
+}
+.plan-passphrase-box span { flex: 1; }
+.plan-passphrase-copy {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 6px 14px;
+  border: 2px solid #DCDCDC;
+  border-radius: 999px;
+  background: #FFFFFF;
+  cursor: pointer;
+  color: #535050;
+  transition: all 0.15s;
+}
+.plan-passphrase-copy:hover { border-color: #F4B028; color: #180A0A; }
+
+.plan-passphrase-continue {
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.88rem;
+  font-weight: 700;
+  padding: 12px 28px;
+  background: #F4B028;
+  color: #180A0A;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(244,176,40,0.35);
+  transition: background 0.15s;
+  text-decoration: none;
+  display: inline-block;
+}
+.plan-passphrase-continue:hover { background: #d99b1a; }
+
+/* ── Stop dates ──────────────────────────────────────────────────────────── */
+
+.plan-stop-dates-large {
+  font-size: 0.88rem;
+  font-weight: 400;
+  color: #A6A6A6;
+  margin-top: 2px;
+}
+
+/* ── Add to plan (on POI pages — world66 side) ───────────────────────────── */
+
+.plan-add-trigger {
+  border-color: #EAEAEA;
+  color: #535050;
+  border-radius: 999px;
+}
+.plan-add-trigger:hover {
+  border-color: #F4B028;
+  background: #FFF8E6;
+  color: #180A0A;
+}
+.plan-add-modal-btn:hover {
+  background: #FFF8E6;
+  color: #180A0A;
+}
+
+/* ── Tab.bi footer ───────────────────────────────────────────────────────── */
+
+.tabbi-footer {
+  margin-top: 80px;
+  background: #180A0A;
+  color: #fff;
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+.tabbi-footer-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 56px 40px 48px;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 48px;
+  align-items: start;
+}
+
+.tabbi-footer-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.tabbi-footer-logo-img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 4px rgba(244,176,40,0.25);
+}
+.tabbi-footer-logo-text {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -0.04em;
+}
+.tabbi-footer-logo-dot { color: #F4B028; }
+
+.tabbi-footer-tagline {
+  padding-top: 4px;
+}
+.tabbi-footer-headline {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -0.03em;
+  line-height: 1.3;
+  margin: 0 0 12px;
+}
+.tabbi-footer-sub {
+  font-size: 0.82rem;
+  color: #A6A6A6;
+  line-height: 1.7;
+  margin: 0;
+  max-width: 480px;
+}
+
+.tabbi-footer-cta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+  padding-top: 4px;
+}
+.tabbi-footer-fine {
+  font-size: 0.7rem;
+  color: #535050;
+  line-height: 1.55;
+  margin: 0;
+  max-width: 200px;
+}
+
+.tabbi-footer-bottom {
+  border-top: 1px solid #2a1a1a;
+  padding: 16px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 0.72rem;
+  color: #535050;
+  font-family: 'Lexend Exa', sans-serif;
+}
+.tabbi-footer-bottom-sep { color: #2a1a1a; }
+.tabbi-footer-w66 {
+  color: #F4B028;
+  text-decoration: none;
+  font-weight: 700;
+}
+.tabbi-footer-w66:hover { color: #FFD966; }
+
+/* ── Passphrase in edit sidebar ──────────────────────────────────────────── */
+
+.plan-edit-passphrase {
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 2px solid #F7F7F7;
+}
+.plan-edit-passphrase-hint {
+  font-size: 0.75rem;
+  color: #A6A6A6;
+  margin: 4px 0 10px;
+}
+
+/* ── Empty state animation ───────────────────────────────────────────────── */
+
+.plan-list-empty-state {
+  text-align: center;
+  padding: 40px 0 60px;
+}
+
+/* Cityscape stage */
+.tabbi-empty-stage {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  height: 220px;
+  margin: 0 auto 32px;
+  overflow: hidden;
+  border-radius: 20px;
+  background: linear-gradient(180deg, #F4B028 0%, #E8A020 100%);
+}
+
+/* Scrolling city track — two copies of buildings for seamless loop */
+.tabbi-cityscape {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 160px;
+  overflow: hidden;
+}
+
+.tabbi-city-track {
+  display: flex;
+  width: max-content;
+  animation: tabbi-city-scroll 18s linear infinite;
+}
+
+@keyframes tabbi-city-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-900px); }
+}
+
+.tabbi-buildings {
+  width: 900px;
+  height: 160px;
+  flex-shrink: 0;
+}
+
+/* Strip all fills/strokes from building shapes — white outline only */
+.tabbi-buildings rect,
+.tabbi-buildings polygon,
+.tabbi-buildings ellipse,
+.tabbi-buildings circle,
+.tabbi-buildings path,
+.tabbi-buildings line {
+  fill: none;
+  stroke: rgba(255, 255, 255, 0.75);
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* Ghost floats above the city */
+.tabbi-ghost {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: tabbi-float 3s ease-in-out infinite;
+  z-index: 2;
+  filter: drop-shadow(0 8px 24px rgba(180, 90, 0, 0.35));
+}
+.tabbi-ghost-svg { width: 120px; height: 130px; }
+
+@keyframes tabbi-float {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50%       { transform: translateX(-50%) translateY(-14px); }
+}
+
+
+.tabbi-empty-headline {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #180A0A;
+  letter-spacing: -0.03em;
+  margin: 0 0 10px;
+}
+.tabbi-empty-sub {
+  font-size: 0.85rem;
+  color: #A6A6A6;
+  line-height: 1.6;
+  margin: 0 0 28px;
+}
+
+.tabbi-empty-join {
+  margin-top: 16px;
+  font-size: 0.8rem;
+  color: #A6A6A6;
+}
+.tabbi-empty-join-btn {
+  background: none;
+  border: none;
+  color: #F4B028;
+  font-family: 'Lexend Exa', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.15s;
+}
+.tabbi-empty-join-btn:hover { color: #d99b1a; }

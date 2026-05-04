@@ -89,6 +89,65 @@ The todo skill can be used to execute a task defined in the todo folder
 
 The `type` field in frontmatter is the source of truth. Directory filtering in the sidebar uses it: if a directory contains only `poi` type files, it's a section directory (containing POIs), not a sub-location.
 
+## Tabbi MCP Server
+
+The MCP server (`tools/mcp_server.py`) exposes two tools to any MCP-compatible LLM app:
+
+- **`plan_trip`** — creates a trip plan (a `plans/<slug>.md` file) and launches the research agent in the background
+- **`search_world66`** — searches the guide for a destination or POI
+
+### Adding to Claude Desktop
+
+Edit `~/Library/Application Support/Claude/claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "tabbi": {
+      "command": "/path/to/world66/venv/bin/python",
+      "args": ["/path/to/world66/tools/mcp_server.py"],
+      "env": {
+        "W66_BASE_URL": "https://world66.ai",
+        "W66_REPO_PATH": "/path/to/world66",
+        "ANTHROPIC_API_KEY": "sk-ant-..."
+      }
+    }
+  }
+}
+```
+
+### Adding to ChatGPT / Gemini
+
+Both support MCP via their tool/function-calling settings. Point them at the same stdio server using the same config format their platform provides.
+
+### The research agent
+
+`tools/research_agent.py` is launched automatically by the MCP server after plan creation. It can also be run manually:
+
+```bash
+python tools/research_agent.py \
+  --city-path europe/france/midi/cotedazur/marseille \
+  --city-title Marseille
+```
+
+It requires:
+- `ANTHROPIC_API_KEY` — for Claude calls
+- `gh` CLI — for opening the PR
+
+The agent reads existing city content, asks Claude for missing notable places, web-searches each one, writes POI `.md` files following `STYLE.md`, commits each file separately, and opens a PR.
+
+### Plan API endpoint
+
+`POST /api/plans/create` — called by the MCP server, also callable directly:
+
+```bash
+curl -X POST https://world66.ai/api/plans/create \
+  -H "Content-Type: application/json" \
+  -d '{"destination":"Marseille","start_date":"2026-07-06","end_date":"2026-07-12"}'
+```
+
+Returns `{url, slug, passphrase, city_path, city_title}`.
+
 ## Don't
 
 - Don't add accommodation or hotel content (deliberately excluded)

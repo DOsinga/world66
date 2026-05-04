@@ -53,6 +53,10 @@ def _hash_password(password, salt=None):
 
 
 def _check_password(password, stored):
+    if "$" not in stored:
+        # Legacy sha256 hash (no salt) from old stub views
+        import hashlib as _hl
+        return secrets.compare_digest(_hl.sha256(password.encode()).hexdigest(), stored)
     salt, _ = stored.split("$", 1)
     return secrets.compare_digest(_hash_password(password, salt), stored)
 
@@ -516,18 +520,19 @@ def plan_new(request):
                 with open(path, "wb") as fh:
                     fm.dump(post, fh)
                 _save_password(slug, passphrase)
-                _mark_plan_authenticated(request, slug)
-                request.session["new_plan_passphrase"] = passphrase
+                request.session[f"new_plan_passphrase_{slug}"] = passphrase
                 return HttpResponseRedirect(f"/plans/{slug}/created/")
     return render(request, "plans/plan_new.html", {"error": error})
 
 
-@_require_plan_auth
 def plan_created(request, slug):
-    passphrase = request.session.pop("new_plan_passphrase", None)
     plan = _parse_plan(PLANS_DIR / f"{slug}.md")
     if not plan:
         raise Http404
+    passphrase = request.session.pop(f"new_plan_passphrase_{slug}", None)
+    # Mark authenticated so the user can proceed directly to the plan
+    if passphrase:
+        _mark_plan_authenticated(request, slug)
     return render(request, "plans/plan_created.html", {"plan": plan, "passphrase": passphrase})
 
 
@@ -873,6 +878,7 @@ def api_plan_create(request):
 
     passphrase = _generate_passphrase(3)
     _save_password(slug, passphrase)
+    request.session[f"new_plan_passphrase_{slug}"] = passphrase
 
     # Write plan file
     import frontmatter as _fm
@@ -887,7 +893,7 @@ def api_plan_create(request):
 
     base_url = request.build_absolute_uri("/").rstrip("/")
     return JsonResponse({
-        "url":        f"{base_url}/plans/{slug}/",
+        "url":        f"{base_url}/plans/{slug}/created/",
         "slug":       slug,
         "passphrase": passphrase,
         "city_path":  city_path,

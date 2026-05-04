@@ -1,0 +1,59 @@
+{% extends "plans/base.html" %}
+{% load static %}
+{% block title %}Edit — {{ plan.title }} — Tab.bi{% endblock %}
+{% block content %}
+<div class="tabbi-page plan-page plan-edit-page">
+
+  <nav class="plan-breadcrumb">
+    <a href="/plans/">Trips</a>
+    <span class="plan-breadcrumb-sep">›</span>
+    <a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a>
+    <span class="plan-breadcrumb-sep">›</span>
+    <span>Edit</span>
+  </nav>
+  <div class="plan-header">
+    <h1>Edit plan</h1>
+  </div>
+
+  <div class="plan-edit-layout">
+    <form method="post" action="/plans/{{ plan.slug }}/edit/" class="plan-edit-form">
+      {% csrf_token %}
+      <textarea name="body" class="plan-edit-textarea" spellcheck="false" autofocus>{{ body }}</textarea>
+      <div class="plan-edit-actions">
+        <button type="submit" class="plan-edit-save">Save</button>
+        <a href="/plans/{{ plan.slug }}/" class="plan-edit-cancel">Cancel</a>
+      </div>
+    </form>
+
+    <aside class="plan-edit-help">
+      {% if passphrase %}
+      <div class="plan-edit-passphrase">
+        <h3>Passphrase</h3>
+        <p class="plan-edit-passphrase-hint">Share this with friends so they can join your trip.</p>
+        <div class="plan-passphrase-box">
+          <span id="plan-pp-text">{{ passphrase }}</span>
+          <button class="plan-passphrase-copy" onclick="navigator.clipboard.writeText('{{ passphrase }}');this.textContent='Copied!';setTimeout(()=>this.textContent='Copy',1500);return false">Copy</button>
+        </div>
+      </div>
+      {% endif %}
+      <h3>Format</h3>
+      <pre class="plan-edit-example">interests: food, art, hiking
+
+## Hamburg | July 25–30
+- Speicherstadt
+- https://www.elbphilharmonie.de
+
+## Palo Alto | May 1–4
+- Any free text note</pre>
+      <ul class="plan-edit-hints">
+        <li><strong>interests: …</strong> — comma-separated interests for suggestions</li>
+        <li><strong>## City Name | Dates</strong> — new destination</li>
+        <li><strong>POI name or path</strong> — matched to World66 page</li>
+        <li><strong>https://…</strong> — external link</li>
+        <li><strong>free text</strong> — shown as a plain note</li>
+      </ul>
+    </aside>
+  </div>
+
+</div>
+{% endblock %}

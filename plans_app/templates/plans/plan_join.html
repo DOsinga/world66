@@ -1,0 +1,16 @@
+{% extends "guide/base.html" %}
+{% block title %}Join a Plan — World66{% endblock %}
+
+{% block content %}
+<h1>Join a plan</h1>
+{% if error %}<p class="error">{{ error }}</p>{% endif %}
+<form method="post">
+  {% csrf_token %}
+  <input type="hidden" name="next" value="{{ next }}">
+  <label for="slug">Plan ID (from the URL)</label>
+  <input type="text" name="slug" id="slug" placeholder="e.g. marseille-2026-07-a1b2c3" required autofocus>
+  <label for="passphrase">Passphrase</label>
+  <input type="text" name="passphrase" id="passphrase" placeholder="word-word-word" required>
+  <button type="submit">Join</button>
+</form>
+{% endblock %}

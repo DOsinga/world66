@@ -1,16 +1,25 @@
-{% extends "guide/base.html" %}
-{% block title %}Join a Plan — World66{% endblock %}
-
+{% extends "plans/base.html" %}
+{% load static %}
+{% block title %}Join a trip — Tab.bi{% endblock %}
 {% block content %}
-<h1>Join a plan</h1>
-{% if error %}<p class="error">{{ error }}</p>{% endif %}
-<form method="post">
-  {% csrf_token %}
-  <input type="hidden" name="next" value="{{ next }}">
-  <label for="slug">Plan ID (from the URL)</label>
-  <input type="text" name="slug" id="slug" placeholder="e.g. marseille-2026-07-a1b2c3" required autofocus>
-  <label for="passphrase">Passphrase</label>
-  <input type="text" name="passphrase" id="passphrase" placeholder="word-word-word" required>
-  <button type="submit">Join</button>
-</form>
+<div class="tabbi-page login-page">
+  <div class="login-box">
+    <div class="login-logo">
+      <img src="{% static 'plans/tabbi-logo.svg' %}" alt="Tab.bi" style="width:48px;height:48px;border-radius:50%;vertical-align:middle;margin-right:10px;">Tab<span class="logo-dot">.</span>bi
+    </div>
+    <h1>Enter passphrase</h1>
+    <p style="color:#555;margin-bottom:16px;font-size:0.95rem;">Enter the passphrase that was shown when this trip was created.</p>
+    <form method="post" action="/plans/join/">
+      {% csrf_token %}
+      <input type="hidden" name="next" value="{{ next }}">
+      {% if error %}<div class="login-error">{{ error }}</div>{% endif %}
+      <label for="password">Passphrase</label>
+      <input type="text" id="password" name="password" autofocus autocomplete="off" placeholder="word-word-word">
+      <button type="submit">Open trip</button>
+    </form>
+    <p style="margin-top:16px;font-size:0.85rem;color:#888;">
+      Want to create a new trip? <a href="/plans/new/">Start here</a>
+    </p>
+  </div>
+</div>
 {% endblock %}

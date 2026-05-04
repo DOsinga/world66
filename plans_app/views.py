@@ -85,9 +85,10 @@ def _require_plan_auth(view_fn):
     def wrapper(request, slug, *args, **kwargs):
         passwords = _load_passwords()
         if slug not in passwords:
-            return HttpResponseRedirect(f"/auth/signup/{slug}/")
+            # Plan has no password yet — let the user set one via the new plan flow
+            return HttpResponseRedirect(f"/plans/new/?slug={slug}")
         if not _plan_authenticated(request, slug):
-            return HttpResponseRedirect(f"/auth/login/{slug}/?next={request.path}")
+            return HttpResponseRedirect(f"/plans/join/?next={request.path}")
         return view_fn(request, slug, *args, **kwargs)
     return wrapper
 
@@ -446,16 +447,32 @@ def plan_list(request):
 
 
 def plan_join(request):
-    if request.method != "POST":
-        return HttpResponseRedirect("/plans/")
-    pw = request.POST.get("password", "")
-    passwords = _load_passwords()
-    for slug, hashed in passwords.items():
-        if _check_password(pw, hashed):
-            _mark_plan_authenticated(request, slug)
-            return HttpResponseRedirect(f"/plans/{slug}/")
-    request.session["plan_join_error"] = "No trip found with that passphrase."
-    return HttpResponseRedirect("/plans/")
+    next_url = request.GET.get("next", "")
+    error = None
+    if request.method == "POST":
+        pw = request.POST.get("password", "").strip()
+        next_url = request.POST.get("next", "").strip()
+        # Extract slug from next_url if possible (e.g. /plans/<slug>/...)
+        slug_from_next = None
+        if next_url:
+            m = re.match(r"^/plans/([^/]+)/", next_url)
+            if m:
+                slug_from_next = m.group(1)
+        passwords = _load_passwords()
+        matched_slug = None
+        if slug_from_next and slug_from_next in passwords:
+            if _check_password(pw, passwords[slug_from_next]):
+                matched_slug = slug_from_next
+        if not matched_slug:
+            for slug, hashed in passwords.items():
+                if _check_password(pw, hashed):
+                    matched_slug = slug
+                    break
+        if matched_slug:
+            _mark_plan_authenticated(request, matched_slug)
+            return HttpResponseRedirect(next_url or f"/plans/{matched_slug}/")
+        error = "Wrong passphrase — check what was shown when the trip was created."
+    return render(request, "plans/plan_join.html", {"error": error, "next": next_url})
 
 
 def plan_new(request):

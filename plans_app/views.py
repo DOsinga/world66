@@ -1,8 +1,10 @@
 import hashlib
 import json
+import os
 import re
 import secrets
 import subprocess
+from dataclasses import dataclass, field
 from functools import wraps
 from pathlib import Path
 
@@ -12,6 +14,23 @@ from django.shortcuts import render
 from django.utils.safestring import mark_safe
 
 from guide.models import CONTENT_DIR, load_page
+
+
+@dataclass
+class DraftPage:
+    """A researched POI that lives in plans/pois/ — not yet published to content/."""
+    title: str
+    path: str       # e.g. ~pois/europe/france/marseille/vieux-port
+    body: str
+    category: str
+    meta: dict = field(default_factory=dict)
+    page_type: str = "poi"
+    tags: list = field(default_factory=list)
+
+    def get_absolute_url(self):
+        # path is like ~pois/europe/germany/berlin/brandenburger-tor
+        poi_rel = self.path[len("~pois/"):]  # strip ~pois/ prefix
+        return f"/plans/draft-poi/{poi_rel}/"
 
 import sqlite3
 from django.conf import settings as _settings
@@ -39,8 +58,37 @@ def resolve_location_name(name: str):
         conn.close()
 
 PLANS_DIR = Path(settings.BASE_DIR) / "plans"
+DRAFT_POIS_DIR = PLANS_DIR / "pois"
 _PASSWORDS_FILE = PLANS_DIR / ".passwords.json"
 _GEOCACHE_FILE = PLANS_DIR / ".geocache.json"
+
+
+def _load_draft_pois(city_path: str) -> list[DraftPage]:
+    """Load draft POIs for a city from plans/pois/<city_path>/."""
+    import frontmatter as fm
+    city_dir = DRAFT_POIS_DIR / city_path
+    if not city_dir.is_dir():
+        return []
+    pages = []
+    for md_file in sorted(city_dir.glob("*.md")):
+        try:
+            post = fm.load(str(md_file))
+            slug = md_file.stem
+            pages.append(DraftPage(
+                title=post.metadata.get("title", slug),
+                path=f"~pois/{city_path}/{slug}",
+                body=post.content,
+                category=post.metadata.get("category", ""),
+                meta={
+                    "snippet": post.content[:200].split("\n\n")[0],
+                    "latitude": post.metadata.get("latitude"),
+                    "longitude": post.metadata.get("longitude"),
+                },
+                tags=[post.metadata.get("category", "").lower()],
+            ))
+        except Exception:
+            continue
+    return pages
 
 
 # ── Auth helpers ──────────────────────────────────────────────────────────────
@@ -219,7 +267,7 @@ def _stop_markers(stop):
         if lat and lng:
             markers.append({
                 "lat": float(lat), "lng": float(lng),
-                "title": page.title, "url": page.get_absolute_url(),
+                "title": page.title, "url": page.get_absolute_url() or "",
             })
         elif page.path not in geocache:
             result = _geocode_nominatim(f"{page.title}, {city_name}")
@@ -325,6 +373,26 @@ def _parse_stops(body, plan_slug):
                 display_path = (_p.path.rstrip("/").rsplit("/", 1)[-1].replace("-", " ").replace("_", " ").title()
                                 if _p.path and _p.path != "/" else "")
                 display_label = display_path or display_domain
+            elif text.startswith("~pois/"):
+                # Draft POI from plans/pois/
+                draft_rel = text[len("~pois/"):]  # e.g. europe/france/marseille/vieux-port
+                parts = draft_rel.rsplit("/", 1)
+                if len(parts) == 2:
+                    draft_city, draft_slug = parts
+                    import frontmatter as _fm
+                    draft_file = DRAFT_POIS_DIR / draft_city / f"{draft_slug}.md"
+                    if draft_file.is_file():
+                        _post = _fm.load(str(draft_file))
+                        page = DraftPage(
+                            title=_post.metadata.get("title", draft_slug),
+                            path=text,
+                            body=_post.content,
+                            category=_post.metadata.get("category", ""),
+                            meta={"snippet": _post.content[:200].split("\n\n")[0],
+                                  "latitude": _post.metadata.get("latitude"),
+                                  "longitude": _post.metadata.get("longitude")},
+                            tags=[_post.metadata.get("category", "").lower()],
+                        )
             elif text.startswith("/"):
                 page = load_page(text.lstrip("/"))
             elif re.match(r"^[\w/_-]+$", text):
@@ -638,6 +706,7 @@ def plan_stop(request, slug, city_slug):
             for exp in _KEYWORD_EXPANSIONS.get(kn, []):
                 expanded_keywords.add(_normalize(exp))
 
+        # Real world66 POIs
         city_dir = CONTENT_DIR / stop["city_path"]
         for md_file in sorted(city_dir.rglob("*.md")):
             rel = str(md_file.relative_to(CONTENT_DIR).with_suffix(""))
@@ -659,8 +728,27 @@ def plan_stop(request, slug, city_slug):
                 "image_url": f"/content-image/{img}" if img else None,
                 "_score": score,
                 "note_match": note_match or keyword_match,
+                "is_draft": False,
             })
         suggestions.sort(key=lambda x: -x["_score"])
+
+        # Draft POIs researched for this city — appended after real w66 POIs
+        already_draft_paths = {item["text"] for item in stop["items"] if item["text"].startswith("~pois/")}
+        for draft in _load_draft_pois(stop["city_path"]):
+            if draft.path in already_draft_paths:
+                continue
+            title_norm = _normalize(draft.title)
+            cat_norm = _normalize(draft.category)
+            poi_text = title_norm + " " + cat_norm
+            note_match = any(n in poi_text or poi_text in n for n in note_needles) if note_needles else False
+            keyword_match = any(k in poi_text for k in expanded_keywords) if expanded_keywords else False
+            suggestions.append({
+                "page": draft,
+                "image_url": None,
+                "_score": (2 if note_match else 0) + (2 if keyword_match else 0) - 1,
+                "note_match": note_match or keyword_match,
+                "is_draft": True,
+            })
 
     return render(request, "plans/plan_stop.html", {
         "plan": plan,
@@ -801,6 +889,24 @@ def plan_poi_remove(request, slug, city_slug):
     return HttpResponseRedirect(request.POST.get("next", f"/plans/{slug}/{city_slug}/"))
 
 
+def draft_poi_detail(request, poi_path):
+    """Show a draft POI from plans/pois/<poi_path>.md"""
+    import frontmatter as fm
+    md_file = DRAFT_POIS_DIR / f"{poi_path}.md"
+    if not md_file.is_file():
+        raise Http404
+    post = fm.load(str(md_file))
+    import markdown as _md
+    body_html = _md.markdown(post.content) if post.content else ""
+    return render(request, "plans/draft_poi.html", {
+        "title":    post.metadata.get("title", poi_path.split("/")[-1]),
+        "category": post.metadata.get("category", ""),
+        "body":     body_html,
+        "lat":      post.metadata.get("latitude"),
+        "lng":      post.metadata.get("longitude"),
+    })
+
+
 # ── MCP API endpoint ──────────────────────────────────────────────────────────
 
 import secrets as _secrets
@@ -831,40 +937,25 @@ def _generate_passphrase(n=3):
     return "-".join(_secrets.choice(_WORDS) for _ in range(n))
 
 
-@csrf_exempt
-@require_POST
-def api_plan_create(request):
-    """
-    POST /api/plans/create
-    Body (JSON): { "destination", "start_date", "end_date", "notes" }
-    Returns: { "url", "slug", "passphrase", "city_path", "city_title" }
-    """
-    try:
-        body = json.loads(request.body)
-    except (json.JSONDecodeError, UnicodeDecodeError):
-        return JsonResponse({"error": "invalid JSON"}, status=400)
+def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) -> dict:
+    """Resolve one stop's destination to a city_path, city_title, date_str."""
+    import re as _re
+    from datetime import date as _date
 
-    destination = body.get("destination", "").strip()
-    start_date  = body.get("start_date", "").strip()
-    end_date    = body.get("end_date", "").strip()
-    notes       = body.get("notes", "").strip()
-
-    if not destination or not start_date:
-        return JsonResponse({"error": "destination and start_date are required"}, status=400)
-
-    # Resolve city path
-    if "/" in destination:
-        city_path  = destination
-        city_page  = load_page(destination)
-        city_title = city_page.title if city_page else destination.split("/")[-1].replace("_", " ").title()
+    dest = destination.strip()
+    if "/" in dest:
+        city_path  = dest
+        city_page  = load_page(dest)
+        city_title = city_page.title if city_page else dest.split("/")[-1].replace("_", " ").title()
     else:
-        city_path  = resolve_location_name(destination)
+        city_path = resolve_location_name(dest)
+        if not city_path and "," in dest:
+            dest      = dest.split(",")[0].strip()
+            city_path = resolve_location_name(dest)
         city_page  = load_page(city_path) if city_path else None
-        city_title = city_page.title if city_page else destination
+        city_title = city_page.title if city_page else dest
 
-    # Build date range string
     try:
-        from datetime import date as _date
         s = _date.fromisoformat(start_date)
         e = _date.fromisoformat(end_date) if end_date else s
         if s.month == e.month and s.year == e.year:
@@ -874,33 +965,198 @@ def api_plan_create(request):
     except ValueError:
         date_str = f"{start_date} – {end_date}" if end_date else start_date
 
-    # Build slug and passphrase
+    city_slug = _re.sub(r"[^a-z0-9]+", "-", city_title.lower()).strip("-")
+    return {
+        "city_title": city_title,
+        "city_path":  city_path or "",
+        "city_slug":  city_slug,
+        "date_str":   date_str,
+        "notes":      notes,
+        "start_date": start_date,
+    }
+
+
+@csrf_exempt
+@require_POST
+def api_plan_create(request):
+    """
+    POST /api/plans/create
+    Body (JSON): {
+      "title": "optional trip title",
+      "stops": [{"destination", "start_date", "end_date", "notes"}, ...]
+    }
+    Returns: { "url", "slug", "passphrase", "cities": [{city_title, city_path, city_slug}, ...] }
+    """
     import re as _re
-    base = _re.sub(r"[^\w\s-]", "", city_title.lower()).strip()
+    import frontmatter as _fm
+
+    try:
+        body = json.loads(request.body)
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return JsonResponse({"error": "invalid JSON"}, status=400)
+
+    raw_stops = body.get("stops") or []
+    if not raw_stops:
+        return JsonResponse({"error": "stops list is required"}, status=400)
+
+    # Resolve each stop
+    resolved = []
+    for s in raw_stops:
+        resolved.append(_resolve_stop(
+            destination=s.get("destination", ""),
+            start_date=s.get("start_date", ""),
+            end_date=s.get("end_date", ""),
+            notes=s.get("notes", ""),
+        ))
+
+    # Build plan slug from first city + first date
+    first = resolved[0]
+    trip_title = body.get("title", "").strip() or (
+        f"Trip to {', '.join(r['city_title'] for r in resolved)}"
+    )
+    base = _re.sub(r"[^\w\s-]", "", first["city_title"].lower()).strip()
     base = _re.sub(r"[\s_]+", "-", base)
-    month_part = start_date[:7]
+    month_part = first["start_date"][:7]
     slug = f"{base}-{month_part}-{_secrets.token_hex(3)}"
 
     passphrase = _generate_passphrase(3)
     _save_password(slug, passphrase)
     request.session[f"new_plan_passphrase_{slug}"] = passphrase
 
-    # Write plan file
-    import frontmatter as _fm
-    content_lines = [f"## {city_title} | {date_str}"]
-    if notes:
-        content_lines.append(f"- {notes}")
-    if city_path:
-        content_lines.append(f"- {city_path}")
-    post = _fm.Post("\n".join(content_lines) + "\n", title=f"Trip to {city_title}", created_by="tabbi-mcp")
+    # Build plan markdown with one ## section per stop
+    content_lines = []
+    for r in resolved:
+        content_lines.append(f"## {r['city_title']} | {r['date_str']}")
+        if r["notes"]:
+            content_lines.append(f"- {r['notes']}")
+        if r["city_path"]:
+            content_lines.append(f"- {r['city_path']}")
+        content_lines.append("")
+
+    post = _fm.Post("\n".join(content_lines), title=trip_title, created_by="tabbi-mcp")
     PLANS_DIR.mkdir(exist_ok=True)
     (PLANS_DIR / f"{slug}.md").write_text(_fm.dumps(post))
 
+    first_city_slug = resolved[0]["city_slug"]
     base_url = request.build_absolute_uri("/").rstrip("/")
     return JsonResponse({
-        "url":        f"{base_url}/plans/{slug}/created/",
+        "url":        f"{base_url}/plans/join/?next=/plans/{slug}/{first_city_slug}/",
         "slug":       slug,
         "passphrase": passphrase,
-        "city_path":  city_path,
-        "city_title": city_title,
+        "cities":     [{"city_title": r["city_title"],
+                        "city_path":  r["city_path"],
+                        "city_slug":  r["city_slug"]} for r in resolved],
     })
+
+
+@csrf_exempt
+@require_POST
+def api_plan_add_pois(request):
+    """
+    POST /api/plan/add-pois
+    Body: { "plan_slug", "city_slug", "poi_paths": [...], "secret" }
+    Adds existing w66 content paths directly to the plan file.
+    """
+    expected_secret = os.environ.get("RESEARCH_SUBMIT_SECRET", "")
+    try:
+        body = json.loads(request.body)
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return JsonResponse({"error": "invalid JSON"}, status=400)
+
+    if expected_secret and body.get("secret") != expected_secret:
+        return JsonResponse({"error": "unauthorized"}, status=403)
+
+    plan_slug = body.get("plan_slug", "").strip()
+    city_slug = body.get("city_slug", "").strip()
+    poi_paths = body.get("poi_paths", [])
+
+    if not plan_slug or not city_slug or not isinstance(poi_paths, list):
+        return JsonResponse({"error": "plan_slug, city_slug, and poi_paths are required"}, status=400)
+
+    added = 0
+    for path in poi_paths:
+        if isinstance(path, str) and path.strip():
+            if _plan_file_add(plan_slug, city_slug, path.strip()):
+                added += 1
+
+    return JsonResponse({"added": added})
+
+
+@csrf_exempt
+@require_POST
+def api_research_submit(request):
+    """
+    POST /api/research/submit
+    Body (JSON): {
+      "city_path": "europe/france/marseille",
+      "city_title": "Marseille",
+      "secret": "<RESEARCH_SUBMIT_SECRET>",
+      "pois": [{"name", "category", "body", "latitude", "longitude"}, ...]
+    }
+    Writes draft POI files to plans/pois/<city_path>/ and returns {"written": N}.
+    """
+    import frontmatter as _fm
+
+    expected_secret = os.environ.get("RESEARCH_SUBMIT_SECRET", "")
+    try:
+        body = json.loads(request.body)
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return JsonResponse({"error": "invalid JSON"}, status=400)
+
+    if expected_secret and body.get("secret") != expected_secret:
+        return JsonResponse({"error": "unauthorized"}, status=403)
+
+    city_path  = body.get("city_path", "").strip().strip("/")
+    city_title = body.get("city_title", "").strip()
+    pois       = body.get("pois", [])
+    plan_slug  = body.get("plan_slug", "").strip()
+    city_slug  = body.get("city_slug", "").strip()
+
+    if not isinstance(pois, list) or not city_title:
+        return JsonResponse({"error": "city_title and pois are required"}, status=400)
+
+    # If city isn't in the guide yet, store drafts under uncategorised/<slug>
+    if not city_path:
+        _slug = re.sub(r"[^a-z0-9]+", "-", city_title.lower()).strip("-")
+        city_path = f"uncategorised/{_slug}"
+
+    city_dir = DRAFT_POIS_DIR / city_path
+    city_dir.mkdir(parents=True, exist_ok=True)
+
+    def _slugify(text):
+        text = text.lower().strip()
+        text = re.sub(r"[^\w\s-]", "", text)
+        text = re.sub(r"[\s_]+", "-", text)
+        return text.strip("-")
+
+    written = 0
+    draft_paths = []
+    for poi in pois:
+        name     = poi.get("name", "").strip()
+        category = poi.get("category", "Landmark")
+        poi_body = poi.get("body", "").strip()
+        if not name or not poi_body:
+            continue
+        slug = _slugify(name)
+        out_path = city_dir / f"{slug}.md"
+        if out_path.exists():
+            draft_paths.append(f"~pois/{city_path}/{slug}")
+            continue
+        meta = {"title": name, "type": "poi", "category": category}
+        lat = poi.get("latitude")
+        lng = poi.get("longitude")
+        if lat is not None:
+            meta["latitude"]  = round(float(lat), 7)
+        if lng is not None:
+            meta["longitude"] = round(float(lng), 7)
+        post = _fm.Post(poi_body, **meta)
+        out_path.write_text(_fm.dumps(post))
+        draft_paths.append(f"~pois/{city_path}/{slug}")
+        written += 1
+
+    # Add draft POIs directly to the plan file if plan_slug and city_slug provided
+    if plan_slug and city_slug:
+        for draft_path in draft_paths:
+            _plan_file_add(plan_slug, city_slug, draft_path)
+
+    return JsonResponse({"written": written, "city_path": city_path})

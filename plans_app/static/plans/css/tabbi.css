@@ -694,6 +694,19 @@ body:has(.tabbi-page) {
   border-color: #F4B028;
   color: #180A0A;
 }
+.plan-suggestion-tile--draft { border-left: 3px solid #A8D5A2; }
+.plan-suggestion-draft-badge {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #fff;
+  background: #A8D5A2;
+  border-radius: 3px;
+  padding: 1px 5px;
+  margin-top: 4px;
+}
 
 /* ── External links ──────────────────────────────────────────────────────── */
 

@@ -494,7 +494,16 @@ def _parse_stops(body, plan_slug):
                     if not city_path and "," in city_part:
                         city_path = resolve_location_name(city_name)
             # Slug must be URL-safe: strip commas and other non-slug chars
-            city_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
+            base_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
+            # Deduplicate: if this slug already appears, append -2, -3, …
+            existing_slugs = {s["city_slug"] for s in stops}
+            if base_slug not in existing_slugs:
+                city_slug = base_slug
+            else:
+                n = 2
+                while f"{base_slug}-{n}" in existing_slugs:
+                    n += 1
+                city_slug = f"{base_slug}-{n}"
             current = {
                 "city": city_name,
                 "city_slug": city_slug,

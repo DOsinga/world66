@@ -1,4 +1,7 @@
 ---
+aliases:
+- Rantepao
+- Tana Toraja
 done:
   location_cleanup: '2026-04-09'
 latitude: -2.966619

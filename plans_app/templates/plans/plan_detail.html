@@ -36,24 +36,23 @@
       </div>
     </div>
     {% endfor %}
-    </div><!-- /.plan-dest-grid -->
-  </div><!-- /.plan-overview-layout -->
-
-  {% if total_budget.total %}
-  <div class="plan-total-budget">
-    <div class="plan-budget-heading">Trip budget estimate{% if total_budget.currency %} <span class="plan-budget-currency">({{ total_budget.currency }})</span>{% endif %}</div>
-    <div class="plan-budget-rows">
-      {% if total_budget.hotel %}<div class="plan-budget-row"><span class="plan-budget-label">Hotel</span><span class="plan-budget-value-static">{{ total_budget.hotel|floatformat:0 }}</span></div>{% endif %}
-      {% if total_budget.food %}<div class="plan-budget-row"><span class="plan-budget-label">Food</span><span class="plan-budget-value-static">{{ total_budget.food|floatformat:0 }}</span></div>{% endif %}
-      {% if total_budget.activities %}<div class="plan-budget-row"><span class="plan-budget-label">Activities</span><span class="plan-budget-value-static">{{ total_budget.activities|floatformat:0 }}</span></div>{% endif %}
-      {% if total_budget.travel %}<div class="plan-budget-row"><span class="plan-budget-label">Transport</span><span class="plan-budget-value-static">{{ total_budget.travel|floatformat:0 }}</span></div>{% endif %}
-      <div class="plan-budget-row plan-budget-total-row">
-        <span class="plan-budget-label">Total</span>
-        <span class="plan-budget-total">{% if total_budget.currency %}{{ total_budget.currency }} {% endif %}{{ total_budget.total|floatformat:0 }}</span>
+    {% if total_budget.total %}
+    <div class="plan-total-budget">
+      <div class="plan-budget-heading">Trip budget estimate{% if total_budget.currency %} <span class="plan-budget-currency">({{ total_budget.currency }})</span>{% endif %}</div>
+      <div class="plan-budget-rows">
+        {% if total_budget.hotel %}<div class="plan-budget-row"><span class="plan-budget-label">Hotel</span><span class="plan-budget-value-static">{{ total_budget.hotel|floatformat:0 }}</span></div>{% endif %}
+        {% if total_budget.food %}<div class="plan-budget-row"><span class="plan-budget-label">Food</span><span class="plan-budget-value-static">{{ total_budget.food|floatformat:0 }}</span></div>{% endif %}
+        {% if total_budget.activities %}<div class="plan-budget-row"><span class="plan-budget-label">Activities</span><span class="plan-budget-value-static">{{ total_budget.activities|floatformat:0 }}</span></div>{% endif %}
+        {% if total_budget.travel %}<div class="plan-budget-row"><span class="plan-budget-label">Transport</span><span class="plan-budget-value-static">{{ total_budget.travel|floatformat:0 }}</span></div>{% endif %}
+        <div class="plan-budget-row plan-budget-total-row">
+          <span class="plan-budget-label">Total</span>
+          <span class="plan-budget-total">{% if total_budget.currency %}{{ total_budget.currency }} {% endif %}{{ total_budget.total|floatformat:0 }}</span>
+        </div>
       </div>
     </div>
-  </div>
-  {% endif %}
+    {% endif %}
+    </div><!-- /.plan-dest-grid -->
+  </div><!-- /.plan-overview-layout -->
 
 </div>
 

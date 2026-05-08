@@ -1513,12 +1513,11 @@ body:has(.tabbi-page)::after {
 
 /* Trip overview total budget */
 .plan-total-budget {
-  margin: 24px 0 0;
+  margin: 16px 0 0;
   padding: 18px 20px;
   background: #FFFBF0;
   border: 1.5px dashed #F4B028;
   border-radius: 14px;
-  max-width: 320px;
 }
 .plan-budget-value-static {
   display: table-cell;

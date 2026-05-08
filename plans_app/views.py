@@ -1365,9 +1365,14 @@ def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) 
             city_name, hint_raw = dest.split(",", 1)
             region_hint = hint_raw.strip()
             dest = city_name.strip()
-        city_path = resolve_location_name(dest if not region_hint else f"{dest}, {region_hint}")
-        if not city_path:
-            city_path = _create_draft_location(dest, region_hint)
+        # Check draft locations first (user-created stubs take precedence over FTS)
+        draft_slug = re.sub(r"[^a-z0-9]+", "-", dest.lower()).strip("-")
+        if (DRAFT_LOCATIONS_DIR / f"{draft_slug}.md").is_file():
+            city_path = f"~locations/{draft_slug}"
+        else:
+            city_path = resolve_location_name(dest if not region_hint else f"{dest}, {region_hint}")
+            if not city_path:
+                city_path = _create_draft_location(dest, region_hint)
         city_page  = _load_city_page(city_path) if city_path else None
         city_title = city_page.title if city_page else dest
 

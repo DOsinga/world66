@@ -1582,7 +1582,7 @@ def api_mapillary_image(request):
     try:
         lat    = float(request.GET["lat"])
         lng    = float(request.GET["lng"])
-        radius = float(request.GET.get("radius", 50))  # metres
+        radius = float(request.GET.get("radius", 500))  # metres
     except (KeyError, ValueError):
         return JsonResponse({"url": None, "error": "lat and lng required"}, status=400)
 

@@ -571,9 +571,13 @@ def _parse_stops(body, plan_slug):
                 if "booking.com" in display_domain and "hotel" in path_parts:
                     hi = path_parts.index("hotel")
                     if hi + 2 < len(path_parts):
-                        raw = path_parts[hi + 2].replace("-", " ").replace("_", " ")
-                        raw = re.sub(r"\.[a-z]+$", "", raw)  # strip .html
+                        raw = path_parts[hi + 2]
+                        raw = re.sub(r"(\.[a-z]{2,4})+$", "", raw)  # strip .nl.html, .html, etc.
+                        raw = raw.replace("-", " ").replace("_", " ")
                         display_label = raw.title()
+                        # Include country code as subtitle hint
+                        if hi + 1 < len(path_parts):
+                            display_domain = f"booking.com · {path_parts[hi+1].upper()}"
                     else:
                         display_label = display_domain
                 # airbnb: /rooms/<id>

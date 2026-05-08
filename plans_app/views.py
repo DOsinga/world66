@@ -1034,7 +1034,7 @@ def plan_stop(request, slug, city_slug):
         "city_image_url": city_image_url,
         "suggestions": suggestions,
         "budget": stop_budget,
-        "budget_json": mark_safe(json.dumps(stop_budget)),
+        "budget_json": json.dumps(stop_budget),
         "prev_stop": prev_stop,
         "next_stop": next_stop,
     })
@@ -1387,6 +1387,10 @@ def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) 
             city_path = f"~locations/{draft_slug}"
         else:
             city_path = resolve_location_name(dest if not region_hint else f"{dest}, {region_hint}")
+            # Reject country/continent pages (depth < 2 segments) — too broad to be a stop
+            if city_path and city_path.count("/") < 2:
+                _search_logger.warning("RESOLVE_TOO_BROAD %r -> %r, creating draft instead", dest, city_path)
+                city_path = None
             if not city_path:
                 city_path = _create_draft_location(dest, region_hint)
         city_page  = _load_city_page(city_path) if city_path else None

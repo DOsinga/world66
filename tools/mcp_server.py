@@ -75,7 +75,7 @@ TOOLS = [
                     "items": {
                         "type": "object",
                         "properties": {
-                            "destination": {"type": "string", "description": "City name"},
+                            "destination": {"type": "string", "description": "City or town name — NEVER use a country or region name (e.g. use 'Queenstown', not 'New Zealand'; 'Tuscany' is ok if it's the base, but prefer the specific town like 'Siena')"},
                             "start_date":  {"type": "string", "description": "YYYY-MM-DD"},
                             "end_date":    {"type": "string", "description": "YYYY-MM-DD"},
                             "notes":       {"type": "string"},
@@ -85,7 +85,7 @@ TOOLS = [
                 },
                 "destination": {
                     "type": "string",
-                    "description": "Single destination (shorthand for one-city trips)",
+                    "description": "Single city or town name — never a country or region (e.g. 'Queenstown', not 'New Zealand')",
                 },
                 "start_date": {"type": "string", "description": "Start date YYYY-MM-DD (single city)"},
                 "end_date":   {"type": "string", "description": "End date YYYY-MM-DD (single city)"},

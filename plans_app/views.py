@@ -1415,7 +1415,7 @@ def api_plan_create(request):
     first_city_slug = resolved[0]["city_slug"]
     base_url = request.build_absolute_uri("/").rstrip("/")
     return JsonResponse({
-        "url":        f"{base_url}/plans/join/?next=/plans/{slug}/{first_city_slug}/",
+        "url":        f"{base_url}/plans/join/?next=/plans/{slug}/",
         "slug":       slug,
         "passphrase": passphrase,
         "cities":     [{"city_title": r["city_title"],

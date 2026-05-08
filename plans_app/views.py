@@ -52,6 +52,8 @@ def resolve_location_name(name: str):
     """Resolve a free-text city name to a content path via the search index.
 
     Prefers exact title matches at shallower depths (more prominent locations).
+    Understands "City, Country/Region" syntax — uses the part after the comma as a
+    path hint to boost results whose URL contains that region.
     US sub-state cities are deprioritised unless the name contains a US hint.
     """
     if not _SEARCH_DB.is_file():
@@ -60,25 +62,65 @@ def resolve_location_name(name: str):
     conn = sqlite3.connect(f"file:{_SEARCH_DB}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
     try:
-        words = name.split()
+        # Split "City, Region" into a search term and a path hint.
+        # "Lima, Peru" → search_term="Lima", path_hint="peru"
+        # "Sacred Valley, Peru" → search_term="Sacred Valley", path_hint="peru"
+        # "Nashville" → search_term="Nashville", path_hint=None
+        if "," in name:
+            search_term, hint_raw = name.split(",", 1)
+            search_term = search_term.strip()
+            path_hint = hint_raw.strip().lower().replace(" ", "")  # "Peru" → "peru"
+        else:
+            search_term = name.strip()
+            path_hint = None
+
+        words = search_term.split()
         parts = ['"' + w.replace('"', '""') + '"' for w in words[:-1]]
         parts.append('"' + words[-1].replace('"', '""') + '"*')
         fts_query = " ".join(parts)
-        rows = conn.execute(
+
+        fts_rows = conn.execute(
             """SELECT url_path, title FROM docs
                WHERE docs MATCH ? AND page_type='location'
                ORDER BY CASE WHEN lower(title)=lower(?) THEN 0 ELSE 1 END
                LIMIT 20""",
-            (fts_query, name),
+            (fts_query, search_term),
         ).fetchall()
+
+        # Always augment with a title-only LIKE query so that spelling variants
+        # (Cusco/Cuzco, Köln/Cologne) get a chance to surface with an exact-title score.
+        like_rows = conn.execute(
+            """SELECT url_path, title FROM docs
+               WHERE lower(title) LIKE ? AND page_type='location'
+               LIMIT 20""",
+            (f"%{search_term.lower()}%",),
+        ).fetchall()
+
+        # Merge, deduplicating by url_path (FTS results first, then LIKE extras)
+        seen = set()
+        rows = []
+        for r in list(fts_rows) + list(like_rows):
+            if r["url_path"] not in seen:
+                seen.add(r["url_path"])
+                rows.append(r)
 
         if not rows:
             _search_logger.info("QUERY %r  fts=%r  no_results", name, fts_query)
             return None
 
+        # If we have a path_hint and none of the candidates match it, the FTS is
+        # returning body-text noise (e.g. "Sacred Valley" mentioned in Bhutan pages).
+        # In that case, bail out rather than returning a confidently wrong result.
+        if path_hint and not any(path_hint in row["url_path"].lower() for row in rows):
+            _search_logger.info(
+                "QUERY %r  fts=%r  path_hint=%r  no_hint_match  returning None",
+                name, fts_query, path_hint,
+            )
+            return None
+
         name_lower = name.lower()
-        us_hint = any(h in name_lower for h in ("united states", ", usa", ", us", ", ohio",
-                      ", texas", ", california", ", florida", ", new york"))
+        us_hint = any(h in name_lower for h in ("united states", "usa", ", us,", "ohio",
+                      "texas", "california", "florida", "new york"))
 
         best_path = None
         best_score = None
@@ -87,11 +129,20 @@ def resolve_location_name(name: str):
             path = row["url_path"]
             title = row["title"]
             depth = path.count("/")
-            exact = 1 if title.lower() == name_lower else 0
+            exact = title.lower() == search_term.lower()
+
+            # Boost when the path contains the region hint (e.g. "peru" in path for "Lima, Peru")
+            hint_bonus = 0
+            if path_hint and path_hint not in path.lower():
+                hint_bonus = 5  # penalise results outside the hinted region
+
+            # Penalise US sub-state paths unless a US hint was given
             us_penalty = 0
             if not us_hint and path.startswith("northamerica/unitedstates/") and depth >= 4:
                 us_penalty = 10
-            score = (0 if exact else 2) + depth + us_penalty
+
+            # Lower score = better
+            score = (0 if exact else 2) + depth + hint_bonus + us_penalty
             scored.append((score, path, title))
             if best_score is None or score < best_score:
                 best_score = score
@@ -100,8 +151,8 @@ def resolve_location_name(name: str):
         scored.sort(key=lambda x: x[0])
         candidates = "  |  ".join(f"{p} ({t!r}, score={s})" for s, p, t in scored[:5])
         _search_logger.info(
-            "QUERY %r  fts=%r  us_hint=%s  winner=%r  candidates=[%s]",
-            name, fts_query, us_hint, best_path, candidates,
+            "QUERY %r  fts=%r  search_term=%r  path_hint=%r  us_hint=%s  winner=%r  candidates=[%s]",
+            name, fts_query, search_term, path_hint, us_hint, best_path, candidates,
         )
 
         return best_path

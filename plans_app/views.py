@@ -489,6 +489,11 @@ def _parse_stops(body, plan_slug):
                 if not city_path and "," in city_part:
                     city_name = city_part.split(",")[0].strip()
                     city_path = resolve_location_name(city_name)
+                # Fallback: check draft locations directory
+                if not city_path:
+                    draft_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
+                    if (DRAFT_LOCATIONS_DIR / f"{draft_slug}.md").is_file():
+                        city_path = f"~locations/{draft_slug}"
             # Slug must be URL-safe: strip commas and other non-slug chars
             city_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
             current = {

@@ -1,0 +1,65 @@
+{
+  "europe/france/midi/cotedazur/marseille/morning_panier": [
+    43.2995569,
+    5.368654
+  ],
+  "europe/france/midi/cotedazur/marseille/morning_fish_market": null,
+  "europe/france/midi/cotedazur/marseille/mucem_waterfront": null,
+  "europe/france/midi/cotedazur/marseille/afternoon_calanques": null,
+  "europe/france/midi/cotedazur/marseille/evening_cours_julien": [
+    43.2934991,
+    5.3836588
+  ],
+  "europe/france/midi/cotedazur/marseille/afternoon_longchamp": null,
+  "europe/france/midi/cotedazur/marseille/evening_vieux_port": [
+    43.2851317,
+    5.3522151
+  ],
+  "city:Tholen": [
+    51.5708501,
+    4.0761428
+  ],
+  "city:Avignon 15 July - 25 July": null,
+  "city:Nimes 26 July": null,
+  "city:Marseille 27 July - 10 August": null,
+  "city:Leusden": [
+    52.130355,
+    5.4286989
+  ],
+  "city:Bergen, Norway": [
+    60.3943055,
+    5.3259192
+  ],
+  "city:Dijon, France": [
+    47.3215806,
+    5.0414701
+  ],
+  "city:Dijon": [
+    47.3215806,
+    5.0414701
+  ],
+  "city:Rennes": [
+    48.1113387,
+    -1.6800198
+  ],
+  "city:Munich": [
+    48.1371079,
+    11.5753822
+  ],
+  "city:Bergen": [
+    60.3943055,
+    5.3259192
+  ],
+  "city:Salkantay Trek": [
+    -13.4758532,
+    -72.5552446
+  ],
+  "southamerica/peru/cuzco/paragliding": [
+    -13.3573815,
+    -72.1104842
+  ],
+  "city:~locations/salkantay-trek": [
+    -13.4727094,
+    -72.5535338
+  ]
+}

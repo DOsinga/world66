@@ -774,15 +774,24 @@ def plan_detail(request, slug):
     if not plan:
         raise Http404
 
+    import frontmatter as _fm2
+    _plan_file = PLANS_DIR / f"{slug}.md"
+    _stop_images = _fm2.load(str(_plan_file)).metadata.get("stop_images", {}) if _plan_file.is_file() else {}
+
     for stop in plan["stops"]:
         city_page = _load_city_page(stop.get("city_path"))
         img = _image_path(city_page) if city_page else None
-        if not img:
+        if img:
+            stop["city_image_url"] = f"/content-image/{img}"
+        elif _stop_images.get(stop["city_slug"]):
+            stop["city_image_url"] = f"/plans/image/{_stop_images[stop['city_slug']]}"
+        else:
             for item in stop["items"]:
                 if item.get("image_url"):
                     stop["city_image_url"] = item["image_url"]
                     break
-        stop["city_image_url"] = f"/content-image/{img}" if img else stop.get("city_image_url")
+            else:
+                stop["city_image_url"] = None
 
     stop_markers = []
     for stop in plan["stops"]:

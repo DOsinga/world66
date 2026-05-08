@@ -142,8 +142,11 @@ def resolve_location_name(name: str):
             if not us_hint and path.startswith("northamerica/unitedstates/") and depth >= 4:
                 us_penalty = 10
 
-            # Lower score = better
-            score = (0 if exact else 2) + depth + hint_bonus + us_penalty
+            # Lower score = better.
+            # Non-exact penalty must exceed max practical path depth (~6) so that an
+            # exact title match always beats a shallower body-text hit (e.g. "Auckland"
+            # mentioned in the Niue page body should never win over the Auckland page).
+            score = (0 if exact else 7) + depth + hint_bonus + us_penalty
             scored.append((score, path, title))
             if best_score is None or score < best_score:
                 best_score = score

@@ -165,6 +165,30 @@ def resolve_location_name(name: str):
 
 PLANS_DIR = Path(settings.BASE_DIR) / "plans"
 DRAFT_POIS_DIR = PLANS_DIR / "pois"
+DRAFT_LOCATIONS_DIR = PLANS_DIR / "locations"
+
+
+def _load_city_page(city_path: str):
+    """Load a city page from content/ or from plans/locations/ for draft locations."""
+    if not city_path:
+        return None
+    if city_path.startswith("~locations/"):
+        import frontmatter as _fmloc
+        slug = city_path[len("~locations/"):]
+        loc_file = DRAFT_LOCATIONS_DIR / f"{slug}.md"
+        if loc_file.is_file():
+            post = _fmloc.load(str(loc_file))
+            from guide.models import Page
+            return Page(
+                slug=slug,
+                path=city_path,
+                title=post.metadata.get("title", slug.replace("-", " ").title()),
+                body=post.content,
+                meta=post.metadata,
+                page_type="location",
+            )
+        return None
+    return load_page(city_path)
 _PASSWORDS_FILE = PLANS_DIR / ".passwords.json"
 _GEOCACHE_FILE = PLANS_DIR / ".geocache.json"
 
@@ -344,7 +368,7 @@ def _city_coords(stop):
     cache_key = f"city:{city_path or city_name}"
 
     if city_path:
-        city_page = load_page(city_path)
+        city_page = _load_city_page(city_path)
         if city_page and city_page.meta.get("latitude") and city_page.meta.get("longitude"):
             return float(city_page.meta["latitude"]), float(city_page.meta["longitude"])
 
@@ -490,6 +514,11 @@ def _parse_stops(body, plan_slug):
                 display_path = (_p.path.rstrip("/").rsplit("/", 1)[-1].replace("-", " ").replace("_", " ").title()
                                 if _p.path and _p.path != "/" else "")
                 display_label = display_path or display_domain
+            elif text.startswith("~locations/"):
+                # Draft location reference — set city_path on the stop, don't add as item
+                if current["city_path"] is None:
+                    current["city_path"] = text
+                continue
             elif text.startswith("~pois/"):
                 # Draft POI from plans/pois/
                 draft_rel = text[len("~pois/"):]  # e.g. europe/france/marseille/vieux-port
@@ -615,7 +644,7 @@ def plan_list(request):
         for stop in stops:
             if cover_url:
                 break
-            city_page = load_page(stop["city_path"]) if stop.get("city_path") else None
+            city_page = _load_city_page(stop.get("city_path"))
             img = _image_path(city_page) if city_page else None
             if img:
                 cover_url = f"/content-image/{img}"
@@ -733,7 +762,7 @@ def plan_detail(request, slug):
         raise Http404
 
     for stop in plan["stops"]:
-        city_page = load_page(stop["city_path"]) if stop.get("city_path") else None
+        city_page = _load_city_page(stop.get("city_path"))
         img = _image_path(city_page) if city_page else None
         if not img:
             for item in stop["items"]:
@@ -778,7 +807,7 @@ def plan_stop(request, slug, city_slug):
     if not stop:
         raise Http404
     markers = _stop_markers(stop)
-    city_page = load_page(stop["city_path"]) if stop.get("city_path") else None
+    city_page = _load_city_page(stop.get("city_path"))
     if not markers:
         coords = _city_coords(stop)
         if coords:
@@ -836,7 +865,7 @@ def plan_stop(request, slug, city_slug):
                 expanded_keywords.add(_normalize(exp))
 
         # Treks under this city — suggest before POIs
-        city_page_for_treks = load_page(stop["city_path"])
+        city_page_for_treks = _load_city_page(stop["city_path"])
         if city_page_for_treks:
             _, child_locs, _ = city_page_for_treks.children()
             for trek_page in child_locs:
@@ -1132,58 +1161,33 @@ def _copy_location_image(city_page, plan_slug: str) -> str | None:
     return f"images/{plan_slug}/{src.name}"
 
 
-def _create_stub_location(city_title: str, region_hint: str = "") -> str:
-    """Create a minimal location stub in content/ and register it in the search index.
+def _create_draft_location(city_title: str, region_hint: str = "") -> str:
+    """Create a draft location in plans/locations/ — NOT part of the w66 guide.
 
-    Returns the new url_path (e.g. 'southamerica/peru/sacredvalley').
-    Falls back to 'uncategorised/<slug>' when the region can't be resolved.
+    Works like draft POIs: lives in plans/, referenced as ~locations/<slug>,
+    only visible in a user's plan until a curator publishes it to content/.
+
+    Returns the draft path, e.g. '~locations/sacred-valley'.
     """
     import frontmatter as _fm2
 
-    slug = re.sub(r"[^a-z0-9]+", "", city_title.lower())
+    slug = re.sub(r"[^a-z0-9]+", "-", city_title.lower()).strip("-")
     if not slug:
         slug = "unknown"
 
-    # Find the parent path via the region hint (e.g. "peru" → "southamerica/peru")
-    parent_path = ""
-    if region_hint:
-        parent_path = resolve_location_name(region_hint.title()) or ""
-        # Only accept shallow paths (continent/country) as parents, not cities
-        if parent_path and parent_path.count("/") > 1:
-            parent_path = ""
-
-    if not parent_path:
-        parent_path = "uncategorised"
-
-    url_path = f"{parent_path}/{slug}"
-    file_path = CONTENT_DIR / parent_path / f"{slug}.md"
-    file_path.parent.mkdir(parents=True, exist_ok=True)
+    DRAFT_LOCATIONS_DIR.mkdir(parents=True, exist_ok=True)
+    file_path = DRAFT_LOCATIONS_DIR / f"{slug}.md"
 
     if not file_path.exists():
-        body = ""
-        post = _fm2.Post(body, title=city_title, type="location", tabbi_stub=True)
+        meta = {"title": city_title, "type": "location"}
+        if region_hint:
+            meta["region_hint"] = region_hint
+        post = _fm2.Post("", **meta)
         file_path.write_text(_fm2.dumps(post))
 
-    # Register directly in the search index so it's immediately findable
-    if _SEARCH_DB.is_file():
-        conn = sqlite3.connect(str(_SEARCH_DB))
-        try:
-            rel = str(file_path.relative_to(CONTENT_DIR))
-            conn.execute("DELETE FROM docs WHERE path=?", (rel,))
-            conn.execute(
-                "INSERT INTO docs(path, title, aliases, body, page_type, url_path, location) VALUES(?,?,?,?,?,?,?)",
-                (rel, city_title, "", "", "location", url_path, ""),
-            )
-            conn.execute(
-                "INSERT OR REPLACE INTO meta(path, mtime, hash) VALUES(?,?,?)",
-                (rel, file_path.stat().st_mtime, ""),
-            )
-            conn.commit()
-        finally:
-            conn.close()
-
-    _search_logger.info("STUB_CREATED %r  path=%r  hint=%r", city_title, url_path, region_hint)
-    return url_path
+    draft_path = f"~locations/{slug}"
+    _search_logger.info("DRAFT_LOCATION_CREATED %r  path=%r  hint=%r", city_title, draft_path, region_hint)
+    return draft_path
 
 
 def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) -> dict:
@@ -1205,8 +1209,8 @@ def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) 
             dest = city_name.strip()
         city_path = resolve_location_name(dest if not region_hint else f"{dest}, {region_hint}")
         if not city_path:
-            city_path = _create_stub_location(dest, region_hint)
-        city_page  = load_page(city_path) if city_path else None
+            city_path = _create_draft_location(dest, region_hint)
+        city_page  = _load_city_page(city_path) if city_path else None
         city_title = city_page.title if city_page else dest
 
     try:

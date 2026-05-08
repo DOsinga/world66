@@ -21,6 +21,7 @@
     <div class="plan-dest-grid">
     {% for stop in plan.stops %}
     <div class="plan-dest-tile" onclick="window.location='{{ stop.url }}'"
+         data-unsplash="{{ stop.city }}"
          {% if stop.city_image_url %}style="background-image:url('{{ stop.city_image_url }}')"{% endif %}>
       <div class="plan-dest-tile-overlay">
         <div class="plan-dest-tile-num">{{ forloop.counter }}</div>
@@ -42,7 +43,9 @@
 
 {% endblock %}
 
+{% load static %}
 {% block extra_js %}
+<script src="{% static 'plans/js/unsplash-slideshow.js' %}"></script>
 <script>
 (function() {
   const stops = {{ stop_markers }};

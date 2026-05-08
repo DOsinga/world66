@@ -1565,3 +1565,39 @@ def api_research_submit(request):
             _plan_file_add(plan_slug, city_slug, draft_path)
 
     return JsonResponse({"written": written, "city_path": city_path})
+
+
+def api_unsplash_images(request):
+    """GET /api/unsplash-images?query=Cuzco+Peru
+    Proxy to Unsplash search — keeps the access key server-side.
+    Returns {"urls": ["https://images.unsplash.com/...", ...]} (up to 6).
+    """
+    import urllib.request as _req
+    import urllib.parse as _up
+
+    key = os.environ.get("UNSPLASH_ACCESS_KEY", "")
+    if not key:
+        return JsonResponse({"urls": [], "error": "no key"}, status=503)
+
+    query = request.GET.get("query", "").strip()
+    if not query:
+        return JsonResponse({"urls": []})
+
+    params = _up.urlencode({
+        "query":       query,
+        "per_page":    6,
+        "orientation": "landscape",
+    })
+    api_url = f"https://api.unsplash.com/search/photos?{params}"
+    try:
+        req = _req.Request(api_url, headers={
+            "Authorization": f"Client-ID {key}",
+            "Accept-Version": "v1",
+        })
+        with _req.urlopen(req, timeout=5) as r:
+            data = json.loads(r.read())
+        urls = [p["urls"]["regular"] for p in data.get("results", []) if p.get("urls")]
+    except Exception:
+        urls = []
+
+    return JsonResponse({"urls": urls})

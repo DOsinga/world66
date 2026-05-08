@@ -105,6 +105,16 @@ class Page:
         return result
 
     @property
+    def vibe_stops(self):
+        """List of stop names/descriptions included in a vibe."""
+        raw = self.meta.get("stops", [])
+        if isinstance(raw, list):
+            return [str(s) for s in raw]
+        if isinstance(raw, str):
+            return [s.strip() for s in raw.splitlines() if s.strip()]
+        return []
+
+    @property
     def tags(self):
         raw = self.meta.get("tags", [])
         if isinstance(raw, list):
@@ -170,7 +180,7 @@ class Page:
                     continue
                 if page.page_type in NAV_TYPES:
                     nav_pages.append(page)
-                elif page.page_type == "poi":
+                elif page.page_type in ("poi", "vibe"):
                     pois.append(page)
                 else:
                     locations.append(page)

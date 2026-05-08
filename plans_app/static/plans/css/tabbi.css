@@ -523,6 +523,42 @@ body:has(.tabbi-page) {
   box-shadow: 0 6px 20px rgba(24,10,10,0.11);
 }
 
+/* ── Vibe card ───────────────────────────────────────────────────────────── */
+
+.plan-vibe-card {
+  display: flex;
+  gap: 14px;
+  padding: 14px 14px 14px 18px;
+  border-radius: 16px;
+  background: #FFFFFF;
+  border-left: 4px solid #7C4DFF;
+  box-shadow: 0 3px 12px rgba(24,10,10,0.07);
+}
+.plan-vibe-title { color: #7C4DFF !important; }
+.plan-vibe-meta {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #7C4DFF;
+  background: #EDE7FF;
+  border-radius: 4px;
+  padding: 1px 6px;
+  margin: 4px 4px 0 0;
+}
+.plan-vibe-stops {
+  margin: 8px 0 0;
+  padding-left: 18px;
+  font-size: 0.8rem;
+  color: #666;
+  line-height: 1.6;
+  list-style: disc;
+}
+.plan-suggestion-tile--vibe { border-top: 2px solid #7C4DFF; }
+.plan-suggestion-vibe-badge {
+  background: #EDE7FF !important;
+  color: #7C4DFF !important;
+}
+
 .plan-trek-card {
   display: flex;
   gap: 14px;

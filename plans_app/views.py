@@ -204,6 +204,7 @@ def _load_draft_pois(city_path: str) -> list[DraftPage]:
         try:
             post = fm.load(str(md_file))
             slug = md_file.stem
+            page_type = post.metadata.get("type", "poi")
             pages.append(DraftPage(
                 title=post.metadata.get("title", slug),
                 path=f"~pois/{city_path}/{slug}",
@@ -213,7 +214,10 @@ def _load_draft_pois(city_path: str) -> list[DraftPage]:
                     "snippet": post.content[:200].split("\n\n")[0],
                     "latitude": post.metadata.get("latitude"),
                     "longitude": post.metadata.get("longitude"),
+                    "duration_hours": post.metadata.get("duration_hours"),
+                    "stops": post.metadata.get("stops", []),
                 },
+                page_type=page_type,
                 tags=[post.metadata.get("category", "").lower()],
             ))
         except Exception:
@@ -882,8 +886,25 @@ def plan_stop(request, slug, city_slug):
                     "is_draft": False,
                 })
 
-        # Real world66 POIs
+        # Real world66 vibes — suggest before POIs (score 4, after treks)
         city_dir = CONTENT_DIR / stop["city_path"]
+        for md_file in sorted(city_dir.rglob("*.md")):
+            rel = str(md_file.relative_to(CONTENT_DIR).with_suffix(""))
+            if rel in already_added or rel in already_added_paths:
+                continue
+            page = load_page(rel)
+            if not page or page.page_type != "vibe":
+                continue
+            img = _image_path(page)
+            suggestions.append({
+                "page": page,
+                "image_url": f"/content-image/{img}" if img else None,
+                "_score": 4,
+                "note_match": False,
+                "is_draft": False,
+            })
+
+        # Real world66 POIs
         for md_file in sorted(city_dir.rglob("*.md")):
             rel = str(md_file.relative_to(CONTENT_DIR).with_suffix(""))
             if rel in already_added or rel in already_added_paths:
@@ -908,7 +929,7 @@ def plan_stop(request, slug, city_slug):
             })
         suggestions.sort(key=lambda x: -x["_score"])
 
-        # Draft POIs researched for this city — appended after real w66 POIs
+        # Draft POIs/vibes researched for this city — appended after real w66 content
         already_draft_paths = {item["text"] for item in stop["items"] if item["text"].startswith("~pois/")}
         for draft in _load_draft_pois(stop["city_path"]):
             if draft.path in already_draft_paths:
@@ -918,10 +939,11 @@ def plan_stop(request, slug, city_slug):
             poi_text = title_norm + " " + cat_norm
             note_match = any(n in poi_text or poi_text in n for n in note_needles) if note_needles else False
             keyword_match = any(k in poi_text for k in expanded_keywords) if expanded_keywords else False
+            is_vibe = draft.page_type == "vibe"
             suggestions.append({
                 "page": draft,
                 "image_url": None,
-                "_score": (2 if note_match else 0) + (2 if keyword_match else 0) - 1,
+                "_score": (3 if is_vibe else 0) + (2 if note_match else 0) + (2 if keyword_match else 0) - 1,
                 "note_match": note_match or keyword_match,
                 "is_draft": True,
             })
@@ -1474,9 +1496,10 @@ def api_research_submit(request):
     written = 0
     draft_paths = []
     for poi in pois:
-        name     = poi.get("name", "").strip()
-        category = poi.get("category", "Landmark")
-        poi_body = poi.get("body", "").strip()
+        name      = poi.get("name", "").strip()
+        poi_type  = poi.get("type", "poi")   # "poi" or "vibe"
+        category  = poi.get("category", "Landmark")
+        poi_body  = poi.get("body", "").strip()
         if not name or not poi_body:
             continue
         slug = _slugify(name)
@@ -1484,13 +1507,19 @@ def api_research_submit(request):
         if out_path.exists():
             draft_paths.append(f"~pois/{city_path}/{slug}")
             continue
-        meta = {"title": name, "type": "poi", "category": category}
-        lat = poi.get("latitude")
-        lng = poi.get("longitude")
-        if lat is not None:
-            meta["latitude"]  = round(float(lat), 7)
-        if lng is not None:
-            meta["longitude"] = round(float(lng), 7)
+        meta = {"title": name, "type": poi_type, "category": category}
+        if poi_type == "vibe":
+            if poi.get("duration_hours"):
+                meta["duration_hours"] = poi["duration_hours"]
+            if poi.get("stops"):
+                meta["stops"] = poi["stops"]
+        else:
+            lat = poi.get("latitude")
+            lng = poi.get("longitude")
+            if lat is not None:
+                meta["latitude"]  = round(float(lat), 7)
+            if lng is not None:
+                meta["longitude"] = round(float(lng), 7)
         post = _fm.Post(poi_body, **meta)
         out_path.write_text(_fm.dumps(post))
         draft_paths.append(f"~pois/{city_path}/{slug}")

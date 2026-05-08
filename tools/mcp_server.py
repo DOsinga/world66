@@ -157,17 +157,20 @@ TOOLS = [
                 },
                 "pois": {
                     "type": "array",
-                    "description": "List of POIs to submit",
+                    "description": "List of POIs and vibes to submit. Include at least one vibe per city.",
                     "items": {
                         "type": "object",
                         "properties": {
-                            "name":      {"type": "string", "description": "Place name"},
-                            "category":  {"type": "string", "description": "Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery"},
-                            "body":      {"type": "string", "description": "Prose description (2-4 paragraphs, under 280 words)"},
-                            "latitude":  {"type": "number"},
-                            "longitude": {"type": "number"},
+                            "name":           {"type": "string", "description": "Place or activity name"},
+                            "type":           {"type": "string", "description": "'poi' (default) or 'vibe' (multi-hour activity combining several spots)"},
+                            "category":       {"type": "string", "description": "Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery"},
+                            "body":           {"type": "string", "description": "Prose description (2-4 paragraphs, under 280 words)"},
+                            "latitude":       {"type": "number", "description": "For poi only"},
+                            "longitude":      {"type": "number", "description": "For poi only"},
+                            "duration_hours": {"type": "number", "description": "For vibe: approximate duration in hours"},
+                            "stops":          {"type": "array", "items": {"type": "string"}, "description": "For vibe: list of included places (names or short descriptions)"},
                         },
-                        "required": ["name", "category", "body"],
+                        "required": ["name", "body"],
                     },
                 },
                 "plan_slug": {
@@ -313,8 +316,9 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
     if style_file.exists():
         style_md = style_file.read_text()[:3000]
 
-    # Existing POIs and treks — collect title + path
+    # Existing POIs, vibes, and treks — collect title + path
     existing_pois = []
+    existing_vibes = []
     existing_treks = []
     if city_path:
         city_dir = REPO_PATH / "content" / city_path
@@ -330,31 +334,37 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
                     rel_path = str(md_file.relative_to(REPO_PATH / "content").with_suffix(""))
                     if "type: poi" in head or 'type: "poi"' in head:
                         existing_pois.append({"title": title, "path": rel_path})
+                    elif "type: vibe" in head or 'type: "vibe"' in head:
+                        existing_vibes.append({"title": title, "path": rel_path})
                     elif "type: trek" in head or 'type: "trek"' in head:
                         existing_treks.append({"title": title, "path": rel_path})
                 except Exception:
                     pass
 
-    poi_lines = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_pois) or "(none yet)"
-    trek_lines = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_treks)
+    poi_lines   = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_pois) or "(none yet)"
+    vibe_lines  = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_vibes)
+    trek_lines  = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_treks)
 
     sections = [
         f"## world66 content already in the guide for {city_title}",
     ]
     if existing_treks:
         sections.append(f"### Treks ({len(existing_treks)})\n{trek_lines}")
+    if existing_vibes:
+        sections.append(f"### Vibes ({len(existing_vibes)})\n{vibe_lines}")
     sections.append(f"### Places ({len(existing_pois)})\n{poi_lines}")
     sections.append(
         "## Instructions\n"
         f"1. Call add_pois_to_plan with ALL paths above (both treks and places) to add them to the plan.\n"
-        f"2. If fewer than 6 places exist, use web search to find notable missing places "
-        f"in {city_title} (not listed above).\n"
-        f"3. For each new place, write a description following the style guide below: "
-        f"2–4 paragraphs of clean prose, factual and specific, under 280 words, "
-        f"no headings or bullets, start directly with the place.\n"
-        f"4. Assign one category: Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery\n"
-        f"5. Include coordinates (latitude/longitude) if you know them.\n"
-        f"6. Call submit_pois with the new places."
+        f"2. Use web search to find what's notable or worth doing in {city_title}.\n"
+        f"3. Compose a good mix for the plan — **at least one vibe** plus individual POIs:\n"
+        f"   - **Vibe** (type: 'vibe'): a 2–4 hour activity that combines a few spots, "
+        f"e.g. 'Morning in the Old Town' or 'Street food crawl through the market district'. "
+        f"Include duration_hours and a stops list of 3–5 places visited together.\n"
+        f"   - **POI** (type: 'poi'): a single place with coordinates.\n"
+        f"4. For each item write 2–4 paragraphs of clean prose per the style guide, under 280 words.\n"
+        f"5. Assign one category: Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery\n"
+        f"6. Call submit_pois with the new items (vibes + pois together)."
     )
     sections.append("## Writing style guide\n" + style_md)
     return "\n\n".join(sections)

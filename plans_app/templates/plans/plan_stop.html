@@ -6,12 +6,12 @@
 <div class="tabbi-page plan-page">
 
   <nav class="plan-breadcrumb">
-    <a href="/plans/">Trips</a>
+    <a href="/plans/">✈️ Trips</a>
     <span class="plan-breadcrumb-sep">›</span>
     <a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a>
     <span class="plan-breadcrumb-sep">›</span>
-    <span>{{ stop.city }}</span>
-    <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
+    <span>📍 {{ stop.city }}</span>
+    <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">✏️ Edit</a>
   </nav>
   <div id="plan-stop-nav"
        data-prev="{% if prev_stop %}/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/{% endif %}"
@@ -52,8 +52,8 @@
         <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
         {% endif %}
         <div class="plan-poi-body">
-          <a class="plan-poi-title plan-vibe-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
-          {% if item.page.meta.duration_hours %}<span class="plan-vibe-meta">~{{ item.page.meta.duration_hours }}h</span>{% endif %}
+          <a class="plan-poi-title plan-vibe-title" href="{{ item.page.get_absolute_url }}">🌀 {{ item.page.title }}</a>
+          {% if item.page.meta.duration_hours %}<span class="plan-vibe-meta">⏱ ~{{ item.page.meta.duration_hours }}h</span>{% endif %}
           {% if item.page.meta.snippet %}<p class="plan-poi-snippet">{{ item.page.meta.snippet }}</p>{% endif %}
           {% if item.page.vibe_stops %}
           <ul class="plan-vibe-stops">
@@ -74,9 +74,9 @@
         <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
         {% endif %}
         <div class="plan-poi-body">
-          <a class="plan-poi-title plan-trek-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
-          {% if item.page.meta.distance_km %}<span class="plan-trek-meta">{{ item.page.meta.distance_km }} km</span>{% endif %}
-          {% if item.page.meta.duration_days %}<span class="plan-trek-meta">{{ item.page.meta.duration_days }} days</span>{% endif %}
+          <a class="plan-poi-title plan-trek-title" href="{{ item.page.get_absolute_url }}">🥾 {{ item.page.title }}</a>
+          {% if item.page.meta.distance_km %}<span class="plan-trek-meta">📏 {{ item.page.meta.distance_km }} km</span>{% endif %}
+          {% if item.page.meta.duration_days %}<span class="plan-trek-meta">🗓 {{ item.page.meta.duration_days }} days</span>{% endif %}
           {% if item.page.waypoints %}
           <ol class="plan-trek-waypoints">
             {% for wp in item.page.waypoints %}
@@ -119,6 +119,9 @@
         {% endif %}
         <div class="plan-poi-body">
           {% if item.page %}
+            {% with cat=item.page.meta.category %}
+            <span class="plan-poi-category">{% if cat == "Landmark" %}🏛{% elif cat == "Museum" %}🏺{% elif cat == "Restaurant" %}🍽{% elif cat == "Market" %}🛒{% elif cat == "Park" %}🌿{% elif cat == "Neighbourhood" %}🏘{% elif cat == "Viewpoint" %}🔭{% elif cat == "Bar" %}🍻{% elif cat == "Gallery" %}🖼{% elif cat == "Beach" %}🏖{% else %}📌{% endif %}</span>
+            {% endwith %}
             <a class="plan-poi-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
             {% if item.page.meta.snippet %}
             <p class="plan-poi-snippet">{{ item.page.meta.snippet }}</p>
@@ -269,12 +272,12 @@ document.querySelectorAll('.plan-note-text').forEach(function(span) {
   var saveUrl = el.dataset.saveUrl;
   var csrf = el.dataset.csrf;
   var FIELDS = [
-    ['hotel',      'Hotel / stay'],
-    ['food',       'Food & drinks'],
-    ['activities', 'Activities'],
-    ['travel',     'Transport'],
-    ['currency',   'Currency'],
-    ['notes',      'Notes'],
+    ['hotel',      '🛏️ Hotel / stay'],
+    ['food',       '🍜 Food & drinks'],
+    ['activities', '🎒 Activities'],
+    ['travel',     '🚌 Transport'],
+    ['currency',   '💱 Currency'],
+    ['notes',      '📝 Notes'],
   ];
 
   function calcTotal() {

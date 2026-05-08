@@ -209,33 +209,47 @@ body:has(.tabbi-page)::after {
 /* ── Breadcrumb ──────────────────────────────────────────────────────────── */
 
 .plan-breadcrumb {
-  font-size: 0.75rem;
-  font-weight: 500;
-  color: #A6A6A6;
-  margin-bottom: 10px;
-  letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex-wrap: wrap;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #9a8060;
+  margin-bottom: 16px;
+  padding: 10px 16px;
+  background: #FFFBF0;
+  border: 1.5px dashed #e0c87a;
+  border-radius: 12px;
+  letter-spacing: 0.01em;
 }
-.plan-breadcrumb a { color: #A6A6A6; text-decoration: none; }
-.plan-breadcrumb a:hover { color: #F4B028; }
-.plan-breadcrumb-sep { margin: 0 6px; }
+.plan-breadcrumb a {
+  color: #9a8060;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.plan-breadcrumb a:hover { color: #a07800; }
+.plan-breadcrumb-sep { margin: 0 4px; color: #d4b060; font-weight: 400; }
+.plan-breadcrumb span:last-of-type { color: #3a2a1a; font-weight: 700; }
 
 /* ── Edit link ───────────────────────────────────────────────────────────── */
 
 .plan-edit-link {
+  margin-left: auto;
   font-size: 0.72rem;
   font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: #A6A6A6;
-  border: 2px solid #EAEAEA;
+  letter-spacing: 0.04em;
+  color: #9a8060;
+  border: 1.5px dashed #e0c87a;
   border-radius: 999px;
-  padding: 5px 14px;
+  padding: 4px 12px;
   text-decoration: none;
   transition: all 0.15s;
+  background: transparent;
 }
 .plan-edit-link:hover {
-  border-color: #F4B028;
-  color: #180A0A;
+  border-color: #c89a0a;
+  color: #3a2a1a;
   background: #FFF8E6;
 }
 
@@ -554,6 +568,13 @@ body:has(.tabbi-page)::after {
 /* ── POI list ────────────────────────────────────────────────────────────── */
 
 .plan-poi-list { display: flex; flex-direction: column; gap: 12px; }
+
+.plan-poi-category {
+  font-size: 1.1rem;
+  line-height: 1;
+  flex-shrink: 0;
+  margin-right: 2px;
+}
 
 .plan-poi-card {
   display: flex;

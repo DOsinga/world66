@@ -558,16 +558,15 @@ body:has(.tabbi-page)::after {
 .plan-poi-card {
   display: flex;
   gap: 14px;
-  padding: 14px;
-  border-radius: 16px;
-  background: #FFFFFF;
-  border: none;
-  box-shadow: 0 3px 12px rgba(24,10,10,0.07);
-  transition: transform 0.15s, box-shadow 0.15s;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: #FFFBF0;
+  border: 1.5px dashed #F4B028;
+  box-shadow: none;
+  transition: background 0.15s;
 }
 .plan-poi-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(24,10,10,0.11);
+  background: #FFF6E0;
 }
 
 /* ── Vibe card ───────────────────────────────────────────────────────────── */
@@ -575,11 +574,11 @@ body:has(.tabbi-page)::after {
 .plan-vibe-card {
   display: flex;
   gap: 14px;
-  padding: 14px 14px 14px 18px;
-  border-radius: 16px;
-  background: #FFFFFF;
-  border-left: 4px solid #7C4DFF;
-  box-shadow: 0 3px 12px rgba(24,10,10,0.07);
+  padding: 14px 16px 14px 16px;
+  border-radius: 14px;
+  background: #FFFBF0;
+  border: 1.5px dashed #7C4DFF;
+  box-shadow: none;
 }
 .plan-vibe-title { color: #7C4DFF !important; }
 .plan-vibe-meta {
@@ -609,11 +608,11 @@ body:has(.tabbi-page)::after {
 .plan-trek-card {
   display: flex;
   gap: 14px;
-  padding: 14px 14px 14px 18px;
-  border-radius: 16px;
-  background: #FFFFFF;
-  border-left: 4px solid #1F726E;
-  box-shadow: 0 3px 12px rgba(24,10,10,0.07);
+  padding: 14px 16px 14px 16px;
+  border-radius: 14px;
+  background: #FFFBF0;
+  border: 1.5px dashed #1F726E;
+  box-shadow: none;
 }
 .plan-trek-title { color: #1F726E !important; }
 .plan-trek-meta {
@@ -709,6 +708,9 @@ body:has(.tabbi-page)::after {
   width: 100%;
   outline: none;
   padding: 2px 0;
+  resize: none;
+  overflow: hidden;
+  line-height: 1.5;
 }
 
 /* ── Remove button ───────────────────────────────────────────────────────── */
@@ -1507,6 +1509,23 @@ body:has(.tabbi-page)::after {
 @media (max-width: 600px) {
   .plan-stop-arrow { padding: 12px 8px; }
   .plan-stop-arrow-label { display: none; }
+}
+
+/* Trip overview total budget */
+.plan-total-budget {
+  margin: 24px 0 0;
+  padding: 18px 20px;
+  background: #FFFBF0;
+  border: 1.5px dashed #F4B028;
+  border-radius: 14px;
+  max-width: 320px;
+}
+.plan-budget-value-static {
+  display: table-cell;
+  font-size: 0.92rem;
+  color: #333;
+  padding: 4px 0;
+  vertical-align: middle;
 }
 
 /* Budget widget */

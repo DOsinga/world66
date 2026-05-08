@@ -828,9 +828,29 @@ def plan_detail(request, slug):
     if len(plan["stops"]) == 1:
         return HttpResponseRedirect(plan["stops"][0]["url"])
 
+    # Build total budget across all stops
+    import frontmatter as _fm3
+    _all_budgets = _fm3.load(str(_plan_file)).metadata.get("budgets") or {} if _plan_file.is_file() else {}
+    total_budget = {}
+    currency = None
+    for city_slug_b, b in _all_budgets.items():
+        if not isinstance(b, dict):
+            continue
+        if not currency and b.get("currency"):
+            currency = b["currency"]
+        for k in ("hotel", "food", "activities", "travel"):
+            try:
+                total_budget[k] = total_budget.get(k, 0) + float(b.get(k) or 0)
+            except (ValueError, TypeError):
+                pass
+    total_budget["currency"] = currency or ""
+    total_budget["total"] = sum(total_budget.get(k, 0) for k in ("hotel", "food", "activities", "travel"))
+
     return render(request, "plans/plan_detail.html", {
         "plan": plan,
         "stop_markers": mark_safe(json.dumps(stop_markers)),
+        "total_budget": total_budget,
+        "total_budget_json": mark_safe(json.dumps(total_budget)),
     })
 
 

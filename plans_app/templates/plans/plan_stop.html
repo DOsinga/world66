@@ -102,7 +102,7 @@
             {% csrf_token %}
             <input type="hidden" name="old_text" value="{{ item.text }}">
             <input type="hidden" name="next" value="{{ request.path }}">
-            <input type="text" name="new_text" class="plan-note-input" value="{{ item.text }}">
+            <textarea name="new_text" class="plan-note-input" rows="3">{{ item.text }}</textarea>
           </form>
         </div>
         <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
@@ -240,15 +240,21 @@ document.querySelectorAll('.plan-note-text').forEach(function(span) {
     var form = span.nextElementSibling;
     span.hidden = true;
     form.hidden = false;
-    var input = form.querySelector('.plan-note-input');
-    input.focus();
-    input.select();
-    input.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter') { e.preventDefault(); form.submit(); }
+    var ta = form.querySelector('.plan-note-input');
+    ta.style.height = 'auto';
+    ta.style.height = ta.scrollHeight + 'px';
+    ta.focus();
+    ta.setSelectionRange(ta.value.length, ta.value.length);
+    ta.addEventListener('input', function() {
+      ta.style.height = 'auto';
+      ta.style.height = ta.scrollHeight + 'px';
+    });
+    ta.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); form.submit(); }
       if (e.key === 'Escape') { form.hidden = true; span.hidden = false; }
     });
-    input.addEventListener('blur', function() {
-      if (input.value.trim() && input.value !== span.textContent) form.submit();
+    ta.addEventListener('blur', function() {
+      if (ta.value.trim() && ta.value !== span.textContent) form.submit();
       else { form.hidden = true; span.hidden = false; }
     });
   });

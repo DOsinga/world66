@@ -5,6 +5,7 @@ Reads markdown files with YAML frontmatter from content/.
 Uses the `type` field to classify pages:
 
   location      — continent, country, region, city
+  trek          — a multi-day hike or walk with ordered waypoints
   section       — top-level navigable collection within a city (things_to_do, shopping, …)
   section_group — groups related nav pages in the sidebar (neighbourhoods, themes)
   neighbourhood — a district; appears under its section_group in the nav
@@ -85,6 +86,25 @@ class Page:
         }
 
     @property
+    def waypoints(self):
+        """Ordered list of waypoints for trek pages. Each is a dict with name, lat, lng."""
+        raw = self.meta.get("waypoints", [])
+        if not isinstance(raw, list):
+            return []
+        result = []
+        for i, wp in enumerate(raw):
+            if not isinstance(wp, dict):
+                continue
+            result.append({
+                "name": wp.get("name", f"Stop {i+1}"),
+                "lat":  wp.get("lat") or wp.get("latitude"),
+                "lng":  wp.get("lng") or wp.get("longitude"),
+                "description": wp.get("description", ""),
+                "seq": i,
+            })
+        return result
+
+    @property
     def tags(self):
         raw = self.meta.get("tags", [])
         if isinstance(raw, list):
@@ -158,7 +178,7 @@ class Page:
             elif entry.is_dir():
                 child = load_page(self.path + "/" + entry.name)
                 if child:
-                    if child.page_type == "location":
+                    if child.page_type in ("location", "trek"):
                         locations.append(child)
                     elif child.page_type in NAV_TYPES:
                         nav_pages.append(child)

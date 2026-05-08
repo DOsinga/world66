@@ -534,6 +534,37 @@ body:has(.tabbi-page) {
   box-shadow: 0 6px 20px rgba(24,10,10,0.11);
 }
 
+.plan-trek-card {
+  display: flex;
+  gap: 14px;
+  padding: 14px 14px 14px 18px;
+  border-radius: 16px;
+  background: #FFFFFF;
+  border-left: 4px solid #1F726E;
+  box-shadow: 0 3px 12px rgba(24,10,10,0.07);
+}
+.plan-trek-title { color: #1F726E !important; }
+.plan-trek-meta {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #1F726E;
+  background: #E8F5F4;
+  border-radius: 4px;
+  padding: 1px 6px;
+  margin: 4px 4px 0 0;
+}
+.plan-trek-waypoints {
+  margin: 8px 0 0;
+  padding-left: 18px;
+  font-size: 0.8rem;
+  color: #555;
+  line-height: 1.6;
+}
+.plan-trek-waypoint { margin: 0; }
+.plan-trek-wp-desc { color: #999; }
+.plan-trek-marker { background: #1F726E !important; }
+
 .plan-poi-image {
   width: 80px;
   height: 80px;

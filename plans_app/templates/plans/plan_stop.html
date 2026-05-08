@@ -33,6 +33,31 @@
       </div>
       {% endif %}
       {% for item in stop.items %}
+      {% if item.page and item.page.page_type == "trek" %}
+      <div class="plan-trek-card">
+        {% if item.image_url %}
+        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
+        {% endif %}
+        <div class="plan-poi-body">
+          <a class="plan-poi-title plan-trek-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
+          {% if item.page.meta.distance_km %}<span class="plan-trek-meta">{{ item.page.meta.distance_km }} km</span>{% endif %}
+          {% if item.page.meta.duration_days %}<span class="plan-trek-meta">{{ item.page.meta.duration_days }} days</span>{% endif %}
+          {% if item.page.waypoints %}
+          <ol class="plan-trek-waypoints">
+            {% for wp in item.page.waypoints %}
+            <li class="plan-trek-waypoint">{{ wp.name }}{% if wp.description %}<span class="plan-trek-wp-desc"> — {{ wp.description }}</span>{% endif %}</li>
+            {% endfor %}
+          </ol>
+          {% endif %}
+        </div>
+        <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
+          {% csrf_token %}
+          <input type="hidden" name="poi_path" value="{{ item.text }}">
+          <input type="hidden" name="next" value="{{ request.path }}">
+          <button type="submit" class="plan-remove-btn" title="Remove from plan">−</button>
+        </form>
+      </div>
+      {% else %}
       <div class="plan-poi-card{% if not item.page and not item.external_url %} plan-poi-card-note{% endif %}">
         {% if item.image_url %}
         <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
@@ -65,6 +90,7 @@
           <button type="submit" class="plan-remove-btn" title="Remove from plan">−</button>
         </form>
       </div>
+      {% endif %}
       {% endfor %}
 
       {% if suggestions %}
@@ -110,10 +136,31 @@
 <script>
 (function() {
   const markers = {{ markers }};
+  const trekRoutes = {{ trek_routes }};
   const map = L.map('plan-stop-map', {scrollWheelZoom: false, zoomControl: true});
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
 
-  const W66_RED = '#c0392b';
+  const allLatLngs = [];
+
+  // Draw trek routes as polylines with numbered waypoint markers
+  trekRoutes.forEach(function(trek) {
+    const coords = trek.waypoints.map(wp => [wp.lat, wp.lng]);
+    L.polyline(coords, {color: '#1F726E', weight: 3, opacity: 0.8}).addTo(map);
+    trek.waypoints.forEach(function(wp, i) {
+      const icon = L.divIcon({
+        className: 'plan-stop-marker plan-trek-marker',
+        html: '<span style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;">' + (i+1) + '</span>',
+        iconSize: [24, 24],
+        iconAnchor: [12, 12],
+      });
+      L.marker([wp.lat, wp.lng], {icon: icon})
+        .bindTooltip(wp.name, {direction: 'top'})
+        .addTo(map);
+      allLatLngs.push([wp.lat, wp.lng]);
+    });
+  });
+
+  // Regular POI markers
   markers.forEach(function(m, i) {
     const icon = L.divIcon({
       className: 'plan-stop-marker',
@@ -123,14 +170,15 @@
     });
     L.marker([m.lat, m.lng], {icon: icon})
       .bindTooltip(m.title, {direction: 'top'})
-      .on('click', function() { window.location = m.url; })
+      .on('click', function() { if (m.url) window.location = m.url; })
       .addTo(map);
+    allLatLngs.push([m.lat, m.lng]);
   });
 
-  if (markers.length > 1) {
-    map.fitBounds(L.latLngBounds(markers.map(m => [m.lat, m.lng])).pad(0.25));
-  } else if (markers.length === 1) {
-    map.setView([markers[0].lat, markers[0].lng], 11);
+  if (allLatLngs.length > 1) {
+    map.fitBounds(L.latLngBounds(allLatLngs).pad(0.25));
+  } else if (allLatLngs.length === 1) {
+    map.setView(allLatLngs[0], 11);
   } else {
     map.setView([20, 0], 2);
   }

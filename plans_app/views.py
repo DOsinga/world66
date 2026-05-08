@@ -37,7 +37,11 @@ from django.conf import settings as _settings
 _SEARCH_DB = Path(_settings.BASE_DIR) / "search.db"
 
 def resolve_location_name(name: str):
-    """Resolve a free-text city name to a content path via the search index."""
+    """Resolve a free-text city name to a content path via the search index.
+
+    Prefers exact title matches at shallower depths (more prominent locations).
+    US sub-state cities are deprioritised unless the name contains a US hint.
+    """
     if not _SEARCH_DB.is_file():
         return None
     conn = sqlite3.connect(f"file:{_SEARCH_DB}?mode=ro", uri=True)
@@ -47,11 +51,38 @@ def resolve_location_name(name: str):
         parts = ['"' + w.replace('"', '""') + '"' for w in words[:-1]]
         parts.append('"' + words[-1].replace('"', '""') + '"*')
         rows = conn.execute(
-            """SELECT url_path FROM docs WHERE docs MATCH ? AND page_type='location'
-               ORDER BY CASE WHEN lower(title)=lower(?) THEN 0 ELSE 1 END LIMIT 1""",
+            """SELECT url_path, title FROM docs
+               WHERE docs MATCH ? AND page_type='location'
+               ORDER BY CASE WHEN lower(title)=lower(?) THEN 0 ELSE 1 END
+               LIMIT 20""",
             (" ".join(parts), name),
         ).fetchall()
-        return rows[0]["url_path"] if rows else None
+        if not rows:
+            return None
+
+        name_lower = name.lower()
+        us_hint = any(h in name_lower for h in ("united states", ", usa", ", us", ", ohio",
+                      ", texas", ", california", ", florida", ", new york"))
+
+        best_path = None
+        best_score = None
+        for row in rows:
+            path = row["url_path"]
+            title = row["title"]
+            depth = path.count("/")
+            exact = 1 if title.lower() == name_lower else 0
+            # Penalise US sub-state paths (depth ≥ 4 under northamerica/unitedstates)
+            # unless caller hinted at USA
+            us_penalty = 0
+            if not us_hint and path.startswith("northamerica/unitedstates/") and depth >= 4:
+                us_penalty = 10
+            # Lower score = better: reward exact match and shallower paths
+            score = (0 if exact else 2) + depth + us_penalty
+            if best_score is None or score < best_score:
+                best_score = score
+                best_path = path
+
+        return best_path
     except Exception:
         return None
     finally:
@@ -262,6 +293,17 @@ def _stop_markers(stop):
         page = item["page"]
         if not page:
             continue
+
+        # Trek: use its waypoints as markers
+        if getattr(page, "page_type", None) == "trek":
+            for wp in page.waypoints:
+                if wp["lat"] and wp["lng"]:
+                    markers.append({
+                        "lat": float(wp["lat"]), "lng": float(wp["lng"]),
+                        "title": wp["name"], "url": page.get_absolute_url() or "",
+                    })
+            continue
+
         lat = page.meta.get("latitude")
         lng = page.meta.get("longitude")
         if lat and lng:
@@ -679,6 +721,18 @@ def plan_stop(request, slug, city_slug):
         if img:
             city_image_url = f"/content-image/{img}"
 
+    # Fall back to plan-stored image if content image not found
+    if not city_image_url:
+        stop_images = plan.get("stop_images") if isinstance(plan, dict) else {}
+        if not stop_images:
+            import frontmatter as _fm2
+            _plan_file = PLANS_DIR / f"{plan['slug']}.md"
+            if _plan_file.is_file():
+                stop_images = _fm2.load(str(_plan_file)).metadata.get("stop_images", {})
+        stored = stop_images.get(city_slug)
+        if stored:
+            city_image_url = f"/plans/image/{stored}"
+
     suggestions = []
     if stop.get("city_path"):
         already_added = {item["text"] for item in stop["items"]}
@@ -705,6 +759,24 @@ def plan_stop(request, slug, city_slug):
             expanded_keywords.add(_normalize(kn))
             for exp in _KEYWORD_EXPANSIONS.get(kn, []):
                 expanded_keywords.add(_normalize(exp))
+
+        # Treks under this city — suggest before POIs
+        city_page_for_treks = load_page(stop["city_path"])
+        if city_page_for_treks:
+            _, child_locs, _ = city_page_for_treks.children()
+            for trek_page in child_locs:
+                if trek_page.page_type != "trek":
+                    continue
+                if trek_page.path in already_added or trek_page.path in already_added_paths:
+                    continue
+                img = _image_path(trek_page)
+                suggestions.append({
+                    "page": trek_page,
+                    "image_url": f"/content-image/{img}" if img else None,
+                    "_score": 5,
+                    "note_match": False,
+                    "is_draft": False,
+                })
 
         # Real world66 POIs
         city_dir = CONTENT_DIR / stop["city_path"]
@@ -750,10 +822,24 @@ def plan_stop(request, slug, city_slug):
                 "is_draft": True,
             })
 
+    # Extract trek routes from plan items so the template can draw polylines
+    trek_routes = []
+    for item in stop["items"]:
+        page = item["page"]
+        if page and getattr(page, "page_type", None) == "trek":
+            wps = [wp for wp in page.waypoints if wp["lat"] and wp["lng"]]
+            if wps:
+                trek_routes.append({
+                    "title": page.title,
+                    "url": page.get_absolute_url(),
+                    "waypoints": wps,
+                })
+
     return render(request, "plans/plan_stop.html", {
         "plan": plan,
         "stop": stop,
         "markers": mark_safe(json.dumps(markers)),
+        "trek_routes": mark_safe(json.dumps(trek_routes)),
         "city_snippet": city_snippet,
         "city_image_url": city_image_url,
         "suggestions": suggestions,
@@ -889,6 +975,21 @@ def plan_poi_remove(request, slug, city_slug):
     return HttpResponseRedirect(request.POST.get("next", f"/plans/{slug}/{city_slug}/"))
 
 
+def plan_image(request, image_path):
+    """Serve an image stored inside the plans/ directory."""
+    import mimetypes
+    from django.http import FileResponse
+    safe_path = image_path.lstrip("/")
+    # Only allow images/... paths to prevent directory traversal
+    if not safe_path.startswith("images/"):
+        raise Http404
+    file_path = PLANS_DIR / safe_path
+    if not file_path.is_file():
+        raise Http404
+    content_type, _ = mimetypes.guess_type(str(file_path))
+    return FileResponse(open(file_path, "rb"), content_type=content_type or "image/jpeg")
+
+
 def draft_poi_detail(request, poi_path):
     """Show a draft POI from plans/pois/<poi_path>.md"""
     import frontmatter as fm
@@ -937,6 +1038,25 @@ def _generate_passphrase(n=3):
     return "-".join(_secrets.choice(_WORDS) for _ in range(n))
 
 
+def _copy_location_image(city_page, plan_slug: str) -> str | None:
+    """Copy a city page's hero image into plans/images/<plan_slug>/ and return the relative path."""
+    import shutil
+    if not city_page:
+        return None
+    img_rel = _image_path(city_page)
+    if not img_rel:
+        return None
+    src = CONTENT_DIR / img_rel
+    if not src.is_file():
+        return None
+    dest_dir = PLANS_DIR / "images" / plan_slug
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest = dest_dir / src.name
+    if not dest.exists():
+        shutil.copy2(src, dest)
+    return f"images/{plan_slug}/{src.name}"
+
+
 def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) -> dict:
     """Resolve one stop's destination to a city_path, city_title, date_str."""
     import re as _re
@@ -970,6 +1090,7 @@ def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) 
         "city_title": city_title,
         "city_path":  city_path or "",
         "city_slug":  city_slug,
+        "city_page":  city_page,   # used by api_plan_create to copy image; not serialised
         "date_str":   date_str,
         "notes":      notes,
         "start_date": start_date,
@@ -1023,6 +1144,15 @@ def api_plan_create(request):
     _save_password(slug, passphrase)
     request.session[f"new_plan_passphrase_{slug}"] = passphrase
 
+    PLANS_DIR.mkdir(exist_ok=True)
+
+    # Copy city images into plans/images/<slug>/ and record in frontmatter
+    stop_images = {}
+    for r in resolved:
+        img_path = _copy_location_image(r.get("city_page"), slug)
+        if img_path:
+            stop_images[r["city_slug"]] = img_path
+
     # Build plan markdown with one ## section per stop
     content_lines = []
     for r in resolved:
@@ -1033,8 +1163,10 @@ def api_plan_create(request):
             content_lines.append(f"- {r['city_path']}")
         content_lines.append("")
 
-    post = _fm.Post("\n".join(content_lines), title=trip_title, created_by="tabbi-mcp")
-    PLANS_DIR.mkdir(exist_ok=True)
+    meta = {"title": trip_title, "created_by": "tabbi-mcp"}
+    if stop_images:
+        meta["stop_images"] = stop_images
+    post = _fm.Post("\n".join(content_lines), **meta)
     (PLANS_DIR / f"{slug}.md").write_text(_fm.dumps(post))
 
     first_city_slug = resolved[0]["city_slug"]

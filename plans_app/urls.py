@@ -3,6 +3,7 @@ from . import views
 
 urlpatterns = [
     path("draft-poi/<path:poi_path>/", views.draft_poi_detail, name="draft_poi_detail"),
+    path("image/<path:image_path>", views.plan_image, name="plan_image"),
     path("", views.plan_list, name="plan_list"),
     path("new/", views.plan_new, name="plan_new"),
     path("join/", views.plan_join, name="plan_join"),

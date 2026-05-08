@@ -306,33 +306,40 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
     if style_file.exists():
         style_md = style_file.read_text()[:3000]
 
-    # Existing POIs — collect title + path
-    existing = []
+    # Existing POIs and treks — collect title + path
+    existing_pois = []
+    existing_treks = []
     if city_path:
         city_dir = REPO_PATH / "content" / city_path
         if city_dir.is_dir():
             for md_file in sorted(city_dir.rglob("*.md")):
                 try:
                     head = md_file.read_text(encoding="utf-8", errors="ignore")[:512]
+                    title = ""
+                    for line in head.splitlines():
+                        if line.startswith("title:"):
+                            title = line.split(":", 1)[1].strip().strip('"').strip("'")
+                            break
+                    rel_path = str(md_file.relative_to(REPO_PATH / "content").with_suffix(""))
                     if "type: poi" in head or 'type: "poi"' in head:
-                        title = ""
-                        for line in head.splitlines():
-                            if line.startswith("title:"):
-                                title = line.split(":", 1)[1].strip().strip('"').strip("'")
-                                break
-                        rel_path = str(md_file.relative_to(REPO_PATH / "content").with_suffix(""))
-                        existing.append({"title": title, "path": rel_path})
+                        existing_pois.append({"title": title, "path": rel_path})
+                    elif "type: trek" in head or 'type: "trek"' in head:
+                        existing_treks.append({"title": title, "path": rel_path})
                 except Exception:
                     pass
 
-    existing_lines = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing) or "(none yet)"
-    existing_paths = [p["path"] for p in existing]
+    poi_lines = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_pois) or "(none yet)"
+    trek_lines = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_treks)
 
-    return "\n\n".join([
-        f"## world66 places already in the guide for {city_title} ({len(existing)} found)",
-        existing_lines,
+    sections = [
+        f"## world66 content already in the guide for {city_title}",
+    ]
+    if existing_treks:
+        sections.append(f"### Treks ({len(existing_treks)})\n{trek_lines}")
+    sections.append(f"### Places ({len(existing_pois)})\n{poi_lines}")
+    sections.append(
         "## Instructions\n"
-        f"1. Call add_pois_to_plan with the paths above to add existing places to the plan.\n"
+        f"1. Call add_pois_to_plan with ALL paths above (both treks and places) to add them to the plan.\n"
         f"2. If fewer than 6 places exist, use web search to find notable missing places "
         f"in {city_title} (not listed above).\n"
         f"3. For each new place, write a description following the style guide below: "
@@ -340,9 +347,10 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
         f"no headings or bullets, start directly with the place.\n"
         f"4. Assign one category: Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery\n"
         f"5. Include coordinates (latitude/longitude) if you know them.\n"
-        f"6. Call submit_pois with the new places.",
-        "## Writing style guide\n" + style_md,
-    ])
+        f"6. Call submit_pois with the new places."
+    )
+    sections.append("## Writing style guide\n" + style_md)
+    return "\n\n".join(sections)
 
 
 def tool_add_pois_to_plan(plan_slug: str, city_slug: str, poi_paths: list) -> str:

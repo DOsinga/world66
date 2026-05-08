@@ -557,6 +557,11 @@ def _parse_stops(body, plan_slug):
             else:
                 if current.get("city_path"):
                     page = _find_poi_in_city(text, current["city_path"])
+            # Skip location-type pages — they are the city/destination, not a POI
+            if page and page.page_type == "location":
+                page = None
+                if not external_url:
+                    continue
             image_url = None
             if page:
                 img = _image_path(page)
@@ -934,25 +939,6 @@ def plan_stop(request, slug, city_slug):
             })
         suggestions.sort(key=lambda x: -x["_score"])
 
-        # Draft POIs/vibes researched for this city — appended after real w66 content
-        already_draft_paths = {item["text"] for item in stop["items"] if item["text"].startswith("~pois/")}
-        for draft in _load_draft_pois(stop["city_path"]):
-            if draft.path in already_draft_paths:
-                continue
-            title_norm = _normalize(draft.title)
-            cat_norm = _normalize(draft.category)
-            poi_text = title_norm + " " + cat_norm
-            note_match = any(n in poi_text or poi_text in n for n in note_needles) if note_needles else False
-            keyword_match = any(k in poi_text for k in expanded_keywords) if expanded_keywords else False
-            is_vibe = draft.page_type == "vibe"
-            suggestions.append({
-                "page": draft,
-                "image_url": None,
-                "_score": (3 if is_vibe else 0) + (2 if note_match else 0) + (2 if keyword_match else 0) - 1,
-                "note_match": note_match or keyword_match,
-                "is_draft": True,
-            })
-
     # Extract trek routes from plan items so the template can draw polylines
     trek_routes = []
     for item in stop["items"]:
@@ -999,6 +985,11 @@ def plan_edit(request, slug):
 
 
 def _plan_file_add(slug, city_slug, poi_path):
+    # Don't add location-type pages — they are city headings, not POIs
+    if not poi_path.startswith("~"):
+        _page = load_page(poi_path.lstrip("/"))
+        if _page and _page.page_type == "location":
+            return False
     path = PLANS_DIR / f"{slug}.md"
     import frontmatter as fm
     post = fm.load(path)

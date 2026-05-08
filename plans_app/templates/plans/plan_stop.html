@@ -191,7 +191,7 @@
   const markers = {{ markers }};
   const trekRoutes = {{ trek_routes }};
   const map = L.map('plan-stop-map', {scrollWheelZoom: false, zoomControl: true});
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {maxZoom: 18}).addTo(map);
 
   const allLatLngs = [];
 

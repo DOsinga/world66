@@ -523,10 +523,24 @@ body:has(.tabbi-page)::after {
   margin-bottom: 10px;
 }
 .plan-stop-left-city {
-  font-size: 1.6rem;
-  font-weight: 700;
-  margin: 0;
-  color: #180A0A;
+  font-size: 2.4rem;
+  font-weight: 900;
+  font-style: italic;
+  margin: 0 0 4px;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  background: linear-gradient(135deg, #E8430A 0%, #F4B028 40%, #1F726E 75%, #E8430A 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  filter: drop-shadow(1px 2px 0px rgba(232,67,10,0.18));
+  animation: postcard-shimmer 6s linear infinite;
+}
+@keyframes postcard-shimmer {
+  0%   { background-position: 0% center; }
+  100% { background-position: 200% center; }
 }
 
 #plan-stop-map {
@@ -1495,43 +1509,32 @@ body:has(.tabbi-page)::after {
   top: 50%;
   transform: translateY(-50%);
   display: flex;
-  flex-direction: column;
   align-items: center;
-  gap: 6px;
-  padding: 14px 10px;
-  background: rgba(255,255,255,0.82);
+  justify-content: center;
+  padding: 12px 10px;
+  background: rgba(255,251,240,0.88);
   backdrop-filter: blur(8px);
-  border-radius: 14px;
+  border-radius: 50%;
+  border: 1.5px dashed #e0c87a;
   box-shadow: 0 2px 12px rgba(0,0,0,0.10);
   text-decoration: none;
-  color: #333;
+  color: #c89a0a;
   z-index: 100;
   transition: background 0.15s, box-shadow 0.15s;
-  max-width: 60px;
+  width: 44px;
+  height: 44px;
 }
 .plan-stop-arrow:hover {
-  background: rgba(255,255,255,0.97);
+  background: #FFF8E6;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
-  color: #111;
 }
-.plan-stop-arrow-prev { left: 10px; }
-.plan-stop-arrow-next { right: 10px; }
+.plan-stop-arrow-prev { left: 12px; }
+.plan-stop-arrow-next { right: 12px; }
 .plan-stop-arrow-icon {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   line-height: 1;
-  color: #F4B028;
 }
-.plan-stop-arrow-label {
-  font-size: 0.62rem;
-  text-align: center;
-  line-height: 1.3;
-  word-break: break-word;
-  color: #666;
-}
-@media (max-width: 600px) {
-  .plan-stop-arrow { padding: 12px 8px; }
-  .plan-stop-arrow-label { display: none; }
-}
+.plan-stop-arrow-label { display: none; }
 
 /* Trip overview total budget */
 .plan-total-budget {

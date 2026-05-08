@@ -976,6 +976,12 @@ def plan_stop(request, slug, city_slug):
                     "waypoints": wps,
                 })
 
+    # Load budget for this stop
+    import frontmatter as _fmb
+    _plan_file = PLANS_DIR / f"{plan['slug']}.md"
+    _plan_meta = _fmb.load(str(_plan_file)).metadata if _plan_file.is_file() else {}
+    stop_budget = (_plan_meta.get("budgets") or {}).get(city_slug) or {}
+
     return render(request, "plans/plan_stop.html", {
         "plan": plan,
         "stop": stop,
@@ -984,6 +990,8 @@ def plan_stop(request, slug, city_slug):
         "city_snippet": city_snippet,
         "city_image_url": city_image_url,
         "suggestions": suggestions,
+        "budget": stop_budget,
+        "budget_json": mark_safe(json.dumps(stop_budget)),
     })
 
 
@@ -1049,6 +1057,18 @@ def _plan_file_add(slug, city_slug, poi_path):
     with open(path, "wb") as fh:
         fm.dump(post, fh)
     return True
+
+
+def _plan_save_budget(slug, city_slug, budget_data):
+    """Save budget dict for a city stop into plan frontmatter."""
+    import frontmatter as fm
+    path = PLANS_DIR / f"{slug}.md"
+    post = fm.load(path)
+    budgets = dict(post.metadata.get("budgets") or {})
+    budgets[city_slug] = {k: v for k, v in budget_data.items() if v is not None}
+    post.metadata["budgets"] = budgets
+    with open(path, "wb") as fh:
+        fm.dump(post, fh)
 
 
 def _plan_file_remove(slug, poi_path):
@@ -1134,6 +1154,22 @@ def plan_image(request, image_path):
         raise Http404
     content_type, _ = mimetypes.guess_type(str(file_path))
     return FileResponse(open(file_path, "rb"), content_type=content_type or "image/jpeg")
+
+
+@_require_plan_auth
+def plan_budget_save(request, slug, city_slug):
+    """POST /plans/<slug>/<city_slug>/budget/ — save budget fields to plan frontmatter."""
+    if request.method != "POST":
+        raise Http404
+    try:
+        data = json.loads(request.body)
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return JsonResponse({"error": "invalid JSON"}, status=400)
+    allowed = {"hotel", "food", "activities", "travel", "currency", "notes"}
+    budget = {k: data[k] for k in allowed if k in data}
+    _plan_save_budget(slug, city_slug, budget)
+    total = sum(float(budget.get(k, 0) or 0) for k in ("hotel", "food", "activities", "travel"))
+    return JsonResponse({"ok": True, "total": total})
 
 
 def draft_poi_detail(request, poi_path):
@@ -1510,6 +1546,7 @@ def api_research_submit(request):
     city_title = body.get("city_title", "").strip()
     pois       = body.get("pois", [])
     intro      = body.get("intro", "").strip()
+    budget     = body.get("budget")
 
     if not isinstance(pois, list) or not city_title:
         return JsonResponse({"error": "city_title and pois are required"}, status=400)
@@ -1526,6 +1563,10 @@ def api_research_submit(request):
     poi_prefix = f"{plan_slug}/{city_path}" if plan_slug else city_path
     city_dir = DRAFT_POIS_DIR / poi_prefix
     city_dir.mkdir(parents=True, exist_ok=True)
+
+    # Save budget if provided
+    if budget and isinstance(budget, dict) and plan_slug and city_slug:
+        _plan_save_budget(plan_slug, city_slug, budget)
 
     # Save intro text if provided
     if intro and plan_slug and city_slug:
@@ -1613,3 +1654,87 @@ def api_unsplash_images(request):
         urls = []
 
     return JsonResponse({"urls": urls})
+
+
+LINK_META_DIR = PLANS_DIR / "link_meta"
+
+def api_link_preview(request):
+    """GET /api/link-preview?url=<url>
+    Fetches OG/meta tags from a URL, caches result in plans/link_meta/.
+    Returns {"title", "description", "image", "domain", "brand"}.
+    """
+    import urllib.request as _req
+    import urllib.parse as _up
+    import hashlib
+    import html
+
+    url = request.GET.get("url", "").strip()
+    if not url or not url.startswith(("http://", "https://")):
+        return JsonResponse({"error": "invalid url"}, status=400)
+
+    # Cache key based on URL
+    url_hash = hashlib.md5(url.encode()).hexdigest()
+    cache_file = LINK_META_DIR / f"{url_hash}.json"
+    LINK_META_DIR.mkdir(parents=True, exist_ok=True)
+
+    if cache_file.is_file():
+        return JsonResponse(json.loads(cache_file.read_text()))
+
+    parsed = _up.urlparse(url)
+    domain = parsed.netloc.lstrip("www.")
+
+    # Detect known booking brands
+    BRANDS = {
+        "booking.com": "booking",
+        "airbnb.com": "airbnb",
+        "airbnb.nl": "airbnb",
+        "airbnb.fr": "airbnb",
+        "hotels.com": "hotels",
+        "hostelworld.com": "hostelworld",
+        "expedia.com": "expedia",
+    }
+    brand = next((v for k, v in BRANDS.items() if domain.endswith(k)), None)
+
+    # Try to fetch OG tags
+    title = description = image = ""
+    try:
+        req = _req.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; Tabbi/1.0; +https://tab.bi)",
+            "Accept": "text/html",
+        })
+        with _req.urlopen(req, timeout=6) as r:
+            raw = r.read(65536).decode("utf-8", errors="ignore")
+
+        def _og(prop):
+            import re as _re
+            m = _re.search(
+                r'<meta[^>]+(?:property|name)=["\'](?:og:)?' + prop + r'["\'][^>]+content=["\']([^"\']+)',
+                raw, _re.I,
+            ) or _re.search(
+                r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:)?' + prop + r'["\']',
+                raw, _re.I,
+            )
+            return html.unescape(m.group(1).strip()) if m else ""
+
+        title       = _og("title") or _og("og:title")
+        description = _og("description") or _og("og:description")
+        image       = _og("image") or _og("og:image")
+
+        # Fallback: <title> tag
+        if not title:
+            import re as _re
+            m = _re.search(r"<title[^>]*>([^<]+)</title>", raw, _re.I)
+            if m:
+                title = html.unescape(m.group(1).strip())
+    except Exception:
+        pass
+
+    result = {
+        "title": title[:120] if title else "",
+        "description": description[:200] if description else "",
+        "image": image[:500] if image else "",
+        "domain": domain,
+        "brand": brand or "",
+    }
+    cache_file.write_text(json.dumps(result))
+    return JsonResponse(result)

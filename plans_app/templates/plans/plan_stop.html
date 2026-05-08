@@ -110,10 +110,10 @@
             <p class="plan-poi-snippet">{{ item.page.meta.snippet }}</p>
             {% endif %}
           {% elif item.external_url %}
-            <a class="plan-external-link" href="{{ item.external_url }}" target="_blank" rel="noopener">
+            <div class="plan-external-card" data-preview-url="{{ item.external_url }}">
               <span class="plan-external-label">{{ item.display_label }}</span>
               <span class="plan-external-domain">{{ item.display_domain }} ↗</span>
-            </a>
+            </div>
           {% endif %}
         </div>
         <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
@@ -155,6 +155,12 @@
       </div>
       {% endif %}
     </div>
+
+  <div class="plan-budget-section" id="plan-budget"
+       data-save-url="/plans/{{ plan.slug }}/{{ stop.city_slug }}/budget/"
+       data-csrf="{{ csrf_token }}"
+       data-budget="{{ budget_json }}">
+  </div>
 
   </div>  {# end plan-stop-layout #}
 
@@ -233,5 +239,134 @@ document.querySelectorAll('.plan-note-text').forEach(function(span) {
     });
   });
 });
+</script>
+<script>
+// Budget widget
+(function() {
+  var el = document.getElementById('plan-budget');
+  if (!el) return;
+  var budget = JSON.parse(el.dataset.budget || '{}');
+  var saveUrl = el.dataset.saveUrl;
+  var csrf = el.dataset.csrf;
+  var FIELDS = [
+    ['hotel',      'Hotel / stay'],
+    ['food',       'Food & drinks'],
+    ['activities', 'Activities'],
+    ['travel',     'Transport'],
+    ['currency',   'Currency'],
+    ['notes',      'Notes'],
+  ];
+
+  function calcTotal() {
+    return ['hotel','food','activities','travel'].reduce(function(s, k) {
+      return s + (parseFloat(budget[k]) || 0);
+    }, 0);
+  }
+
+  function render() {
+    var total = calcTotal();
+    var cur = budget.currency || '';
+    var html = '<div class="plan-budget-heading">Budget estimate' +
+      (cur ? ' <span class="plan-budget-currency">(' + cur + ')</span>' : '') + '</div>' +
+      '<div class="plan-budget-rows">';
+    FIELDS.forEach(function(f) {
+      var key = f[0], label = f[1];
+      var val = budget[key] || '';
+      html += '<div class="plan-budget-row">' +
+        '<span class="plan-budget-label">' + label + '</span>' +
+        '<span class="plan-budget-value" data-field="' + key + '" title="Click to edit">' +
+        (val ? escHtml(String(val)) : '<span class="plan-budget-empty">—</span>') +
+        '</span></div>';
+    });
+    if (total > 0) {
+      html += '<div class="plan-budget-row plan-budget-total-row">' +
+        '<span class="plan-budget-label">Total</span>' +
+        '<span class="plan-budget-total">' + (cur ? cur + ' ' : '') + total.toFixed(0) + '</span>' +
+        '</div>';
+    }
+    html += '</div>';
+    el.innerHTML = html;
+    el.querySelectorAll('.plan-budget-value').forEach(function(span) {
+      span.addEventListener('click', function() { startEdit(span); });
+    });
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function startEdit(span) {
+    var key = span.dataset.field;
+    var cur = budget[key] || '';
+    var input = document.createElement('input');
+    input.type = 'text';
+    input.className = 'plan-budget-input';
+    input.value = cur;
+    span.replaceWith(input);
+    input.focus();
+    input.select();
+    function commit() {
+      budget[key] = input.value.trim();
+      save();
+      render();
+    }
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); commit(); }
+      if (e.key === 'Escape') { budget[key] = cur; render(); }
+    });
+    input.addEventListener('blur', commit);
+  }
+
+  function save() {
+    fetch(saveUrl, {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json', 'X-CSRFToken': csrf},
+      body: JSON.stringify(budget),
+    });
+  }
+
+  render();
+})();
+
+// Link preview enrichment
+(function() {
+  var BRAND_ICONS = {
+    'booking': '<svg viewBox="0 0 24 24" width="18" height="18" fill="#003580"><text y="17" font-size="11" font-weight="bold" font-family="sans-serif">B.</text></svg>',
+    'airbnb':  '<svg viewBox="0 0 24 24" width="18" height="18" fill="#FF5A5F"><path d="M12 2C9.5 2 7.5 4.7 7.5 8c0 2 .8 3.8 2 5L12 22l2.5-9C15.7 11.8 16.5 10 16.5 8 16.5 4.7 14.5 2 12 2zm0 7.5a1.5 1.5 0 110-3 1.5 1.5 0 010 3z"/></svg>',
+    'hotels':  '<svg viewBox="0 0 24 24" width="18" height="18" fill="#d9232d"><rect x="3" y="10" width="18" height="11" rx="1"/><path d="M3 10V7a4 4 0 018 0v3"/></svg>',
+    'hostelworld': '<svg viewBox="0 0 24 24" width="18" height="18" fill="#f47920"><circle cx="12" cy="12" r="9" fill="none" stroke="#f47920" stroke-width="2"/></svg>',
+  };
+
+  document.querySelectorAll('.plan-external-card').forEach(function(card) {
+    var url = card.dataset.previewUrl;
+    if (!url) return;
+    fetch('/api/link-preview?url=' + encodeURIComponent(url))
+      .then(function(r) { return r.json(); })
+      .then(function(d) {
+        var brand = d.brand || '';
+        var icon = BRAND_ICONS[brand] || '';
+        var title = d.title || card.querySelector('.plan-external-label').textContent;
+        var desc = d.description || '';
+        var img = d.image || '';
+        var domain = d.domain || card.querySelector('.plan-external-domain').textContent;
+
+        var html = '';
+        if (img) html += '<div class="plan-link-thumb" style="background-image:url(\'' + img + '\')"></div>';
+        html += '<div class="plan-link-body">';
+        html += '<div class="plan-link-title">' + (icon ? '<span class="plan-link-icon">' + icon + '</span>' : '') +
+          '<a href="' + url + '" target="_blank" rel="noopener">' + escHtml(title) + ' <span class="plan-link-arrow">↗</span></a></div>';
+        if (desc) html += '<p class="plan-link-desc">' + escHtml(desc.substring(0,120)) + '</p>';
+        html += '<span class="plan-link-domain">' + escHtml(domain) + '</span>';
+        html += '</div>';
+        card.innerHTML = html;
+        card.classList.add('plan-link-enriched');
+      })
+      .catch(function() {});
+  });
+
+  function escHtml(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+})();
 </script>
 {% endblock %}

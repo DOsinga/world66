@@ -1417,3 +1417,93 @@ body:has(.tabbi-page) {
   transition: background-image 0.6s ease;
   cursor: pointer;
 }
+
+/* Budget widget */
+.plan-budget-section {
+  margin: 28px 0 8px;
+  padding: 18px 20px;
+  background: #faf9f7;
+  border: 1px solid #e8e4de;
+  border-radius: 12px;
+}
+.plan-budget-heading {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 12px;
+}
+.plan-budget-currency { font-weight: 400; }
+.plan-budget-rows { display: table; width: 100%; border-collapse: collapse; }
+.plan-budget-row { display: table-row; }
+.plan-budget-label,
+.plan-budget-value,
+.plan-budget-total { display: table-cell; padding: 4px 0; vertical-align: middle; }
+.plan-budget-label { color: #888; font-size: 0.85rem; width: 120px; }
+.plan-budget-value {
+  font-size: 0.92rem;
+  color: #333;
+  cursor: pointer;
+  border-bottom: 1px dashed transparent;
+}
+.plan-budget-value:hover { border-bottom-color: #bbb; }
+.plan-budget-empty { color: #ccc; }
+.plan-budget-input {
+  width: 100%;
+  font-size: 0.92rem;
+  border: none;
+  border-bottom: 1px solid #1F726E;
+  background: transparent;
+  outline: none;
+  padding: 1px 0;
+  color: #333;
+}
+.plan-budget-total-row .plan-budget-label { padding-top: 10px; font-weight: 600; color: #555; }
+.plan-budget-total {
+  padding-top: 10px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #1F726E;
+}
+
+/* Enriched external link card */
+.plan-external-card {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  cursor: default;
+}
+.plan-external-card .plan-external-label { font-weight: 500; color: #333; }
+.plan-external-card .plan-external-domain { font-size: 0.78rem; color: #999; }
+.plan-link-enriched {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+.plan-link-thumb {
+  flex-shrink: 0;
+  width: 72px;
+  height: 56px;
+  border-radius: 6px;
+  background-size: cover;
+  background-position: center;
+  background-color: #eee;
+}
+.plan-link-body { flex: 1; min-width: 0; }
+.plan-link-title {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: 500;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.plan-link-title a { color: #222; text-decoration: none; }
+.plan-link-title a:hover { text-decoration: underline; }
+.plan-link-arrow { color: #aaa; font-size: 0.75rem; }
+.plan-link-icon { display: flex; align-items: center; flex-shrink: 0; }
+.plan-link-desc { font-size: 0.78rem; color: #666; margin: 2px 0 3px; line-height: 1.4; }
+.plan-link-domain { font-size: 0.72rem; color: #bbb; }

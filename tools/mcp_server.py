@@ -163,6 +163,21 @@ TOOLS = [
                         "The pois array should be ordered to match the narrative order of this intro."
                     ),
                 },
+                "budget": {
+                    "type": "object",
+                    "description": (
+                        "Estimated daily budget per person for this city stop. "
+                        "All amounts in the same currency. Use realistic local prices."
+                    ),
+                    "properties": {
+                        "hotel":      {"type": "number", "description": "Per night (accommodation)"},
+                        "food":       {"type": "number", "description": "Per day (meals & drinks)"},
+                        "activities": {"type": "number", "description": "Per day (entrance fees, tours)"},
+                        "travel":     {"type": "number", "description": "Local transport per day"},
+                        "currency":   {"type": "string", "description": "Currency code, e.g. EUR, USD, PEN"},
+                        "notes":      {"type": "string", "description": "E.g. 'budget traveller' or 'mid-range'"},
+                    },
+                },
                 "pois": {
                     "type": "array",
                     "description": "List of POIs and vibes to submit. Include at least one vibe per city. Order them to match the intro narrative.",
@@ -373,7 +388,8 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
         f"4. For each item write 2–4 paragraphs of clean prose per the style guide, under 280 words.\n"
         f"5. Assign one category: Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery\n"
         f"6. Write a 2–4 sentence intro for the city that references the highlights in narrative order.\n"
-        f"7. Call submit_pois with: the intro, and the pois array ordered to match the intro narrative."
+        f"7. Estimate a realistic daily budget per person (hotel/night, food/day, activities/day, transport/day) with currency code.\n"
+        f"8. Call submit_pois with: the intro, the budget, and the pois array ordered to match the intro narrative."
     )
     sections.append("## Writing style guide\n" + style_md)
     return "\n\n".join(sections)
@@ -396,7 +412,7 @@ def tool_add_pois_to_plan(plan_slug: str, passphrase: str, city_slug: str, poi_p
 
 
 def tool_submit_pois(city_title: str, pois: list, plan_slug: str, passphrase: str,
-                     city_path: str = "", city_slug: str = "", intro: str = "") -> str:
+                     city_path: str = "", city_slug: str = "", intro: str = "", budget: dict = None) -> str:
     """POST researched POIs to the server and add them directly to the plan."""
     payload = {
         "city_path":  city_path,
@@ -406,6 +422,7 @@ def tool_submit_pois(city_title: str, pois: list, plan_slug: str, passphrase: st
         "plan_slug":  plan_slug,
         "city_slug":  city_slug,
         "intro":      intro,
+        "budget":     budget or {},
     }
     try:
         result = _http_post(f"{W66_BASE_URL}/api/research/submit", payload)
@@ -500,6 +517,7 @@ def _handle(message: dict) -> dict | None:
                     city_path=args.get("city_path", ""),
                     city_slug=args.get("city_slug", ""),
                     intro=args.get("intro", ""),
+                    budget=args.get("budget"),
                 )
             elif name == "search_world66":
                 text = tool_search_world66(query=args["query"])

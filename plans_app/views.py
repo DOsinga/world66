@@ -80,20 +80,20 @@ def resolve_location_name(name: str):
         fts_query = " ".join(parts)
 
         fts_rows = conn.execute(
-            """SELECT url_path, title FROM docs
+            """SELECT url_path, title, aliases FROM docs
                WHERE docs MATCH ? AND page_type='location'
                ORDER BY CASE WHEN lower(title)=lower(?) THEN 0 ELSE 1 END
                LIMIT 20""",
             (fts_query, search_term),
         ).fetchall()
 
-        # Always augment with a title-only LIKE query so that spelling variants
+        # Always augment with a title/alias LIKE query so that spelling variants
         # (Cusco/Cuzco, Köln/Cologne) get a chance to surface with an exact-title score.
         like_rows = conn.execute(
-            """SELECT url_path, title FROM docs
-               WHERE lower(title) LIKE ? AND page_type='location'
+            """SELECT url_path, title, aliases FROM docs
+               WHERE (lower(title) LIKE ? OR lower(aliases) LIKE ?) AND page_type='location'
                LIMIT 20""",
-            (f"%{search_term.lower()}%",),
+            (f"%{search_term.lower()}%", f"%{search_term.lower()}%"),
         ).fetchall()
 
         # Merge, deduplicating by url_path (FTS results first, then LIKE extras)
@@ -128,8 +128,9 @@ def resolve_location_name(name: str):
         for row in rows:
             path = row["url_path"]
             title = row["title"]
+            aliases = (row["aliases"] or "").lower().split()
             depth = path.count("/")
-            exact = title.lower() == search_term.lower()
+            exact = title.lower() == search_term.lower() or search_term.lower() in aliases
 
             # Boost when the path contains the region hint (e.g. "peru" in path for "Lima, Peru")
             hint_bonus = 0

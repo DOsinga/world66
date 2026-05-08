@@ -11,7 +11,7 @@ DB_PATH = Path("search.db")
 def init_db(conn):
     conn.executescript("""
         CREATE VIRTUAL TABLE IF NOT EXISTS docs USING fts5(
-            path UNINDEXED, title, body,
+            path UNINDEXED, title, aliases, body,
             page_type UNINDEXED, url_path UNINDEXED, location UNINDEXED
         );
         CREATE TABLE IF NOT EXISTS meta (path TEXT PRIMARY KEY, mtime REAL, hash TEXT);
@@ -66,7 +66,11 @@ def extract(path):
     meta, body = _load(path)
     title = meta.get("title", path.stem)
     page_type = meta.get("type", "location")
-    return title, body, page_type
+    raw_aliases = meta.get("aliases", [])
+    if isinstance(raw_aliases, str):
+        raw_aliases = [raw_aliases]
+    aliases = " ".join(raw_aliases)
+    return title, aliases, body, page_type
 
 def index_file(conn, path):
     rel = str(path.relative_to(CONTENT_DIR))
@@ -77,12 +81,12 @@ def index_file(conn, path):
     if row and row[0] == mtime and row[1] == h:
         return
 
-    title, body, page_type = extract(path)
+    title, aliases, body, page_type = extract(path)
     url_path = _url_path(path.relative_to(CONTENT_DIR))
     location = _find_parent_location(path)
     conn.execute("DELETE FROM docs WHERE path=?", (rel,))
-    conn.execute("INSERT INTO docs(path, title, body, page_type, url_path, location) VALUES(?,?,?,?,?,?)",
-                 (rel, title, body, page_type, url_path, location))
+    conn.execute("INSERT INTO docs(path, title, aliases, body, page_type, url_path, location) VALUES(?,?,?,?,?,?,?)",
+                 (rel, title, aliases, body, page_type, url_path, location))
     conn.execute("INSERT OR REPLACE INTO meta(path, mtime, hash) VALUES(?,?,?)", (rel, mtime, h))
 
 def remove_deleted(conn):

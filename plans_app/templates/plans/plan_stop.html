@@ -21,10 +21,6 @@
   <div class="plan-stop-layout">
 
     <div class="plan-stop-left">
-      <div class="plan-stop-hero{% if not city_image_url %} plan-poi-image--empty{% endif %}"
-        {% if city_image_url %}style="background-image:url('{{ city_image_url }}')"
-        {% elif city_coords %}data-lat="{{ city_coords.0 }}" data-lng="{{ city_coords.1 }}" data-radius="2000"{% endif %}
-      ></div>
       {% if city_snippet and stop.destination_url %}
       <p class="plan-city-intro-text">{{ city_snippet }} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more →</a></p>
       {% endif %}
@@ -35,7 +31,9 @@
       {% for item in stop.items %}
       {% if item.page and item.page.page_type == "vibe" %}
       <div class="plan-vibe-card">
-        <div class="plan-poi-image{% if not item.image_url %} plan-poi-image--empty{% endif %}"{% if item.image_url %} style="background-image: url('{{ item.image_url }}')"{% elif item.page.meta.latitude %} data-lat="{{ item.page.meta.latitude }}" data-lng="{{ item.page.meta.longitude }}"{% endif %}></div>
+        {% if item.image_url %}
+        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
+        {% endif %}
         <div class="plan-poi-body">
           <a class="plan-poi-title plan-vibe-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
           {% if item.page.meta.duration_hours %}<span class="plan-vibe-meta">~{{ item.page.meta.duration_hours }}h</span>{% endif %}
@@ -55,7 +53,9 @@
       </div>
       {% elif item.page and item.page.page_type == "trek" %}
       <div class="plan-trek-card">
-        <div class="plan-poi-image{% if not item.image_url %} plan-poi-image--empty{% endif %}"{% if item.image_url %} style="background-image: url('{{ item.image_url }}')"{% elif item.page.waypoints %} data-lat="{{ item.page.waypoints.0.lat }}" data-lng="{{ item.page.waypoints.0.lng }}"{% endif %}></div>
+        {% if item.image_url %}
+        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
+        {% endif %}
         <div class="plan-poi-body">
           <a class="plan-poi-title plan-trek-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
           {% if item.page.meta.distance_km %}<span class="plan-trek-meta">{{ item.page.meta.distance_km }} km</span>{% endif %}
@@ -97,7 +97,9 @@
       </div>
       {% else %}
       <div class="plan-poi-card">
-        <div class="plan-poi-image{% if not item.image_url %} plan-poi-image--empty{% endif %}"{% if item.image_url %} style="background-image: url('{{ item.image_url }}')"{% elif item.page and item.page.meta.latitude %} data-lat="{{ item.page.meta.latitude }}" data-lng="{{ item.page.meta.longitude }}"{% endif %}></div>
+        {% if item.image_url %}
+        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
+        {% endif %}
         <div class="plan-poi-body">
           {% if item.page %}
             <a class="plan-poi-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
@@ -209,53 +211,6 @@
 })();
 </script>
 <script>
-// Mapillary slideshow loader
-(function() {
-  var slots = document.querySelectorAll('[data-lat].plan-poi-image--empty, [data-lat].plan-stop-hero');
-  if (!slots.length) return;
-  slots.forEach(function(el) {
-    var lat = el.dataset.lat, lng = el.dataset.lng;
-    if (!lat || !lng) return;
-    var qs = '/api/mapillary-image?lat=' + lat + '&lng=' + lng;
-    if (el.dataset.radius) qs += '&radius=' + el.dataset.radius;
-    fetch(qs)
-      .then(function(r) { return r.json(); })
-      .then(function(data) {
-        var urls = data.urls || [];
-        if (!urls.length) return;
-        el.classList.remove('plan-poi-image--empty');
-        el.removeAttribute('data-lat'); el.removeAttribute('data-lng');
-        if (urls.length === 1) {
-          el.style.backgroundImage = "url('" + urls[0] + "')";
-          return;
-        }
-        // Slideshow
-        var idx = 0;
-        el.style.backgroundImage = "url('" + urls[0] + "')";
-        el.style.cursor = 'pointer';
-        // Dots
-        var dots = document.createElement('div');
-        dots.className = 'plan-poi-slide-dots';
-        urls.forEach(function(_, i) {
-          var d = document.createElement('span');
-          d.className = 'plan-poi-slide-dot' + (i === 0 ? ' active' : '');
-          dots.appendChild(d);
-        });
-        el.appendChild(dots);
-        function goTo(n) {
-          idx = (n + urls.length) % urls.length;
-          el.style.backgroundImage = "url('" + urls[idx] + "')";
-          dots.querySelectorAll('.plan-poi-slide-dot').forEach(function(d, i) {
-            d.classList.toggle('active', i === idx);
-          });
-        }
-        el.addEventListener('click', function() { goTo(idx + 1); });
-        setInterval(function() { goTo(idx + 1); }, 4000);
-      })
-      .catch(function() {});
-  });
-})();
-
 document.querySelectorAll('.plan-note-text').forEach(function(span) {
   span.addEventListener('click', function() {
     var form = span.nextElementSibling;

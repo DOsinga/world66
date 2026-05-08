@@ -971,13 +971,6 @@ def plan_stop(request, slug, city_slug):
                     "waypoints": wps,
                 })
 
-    # City coords for Mapillary hero fallback
-    city_coords = None
-    if not city_image_url:
-        coords = _city_coords(stop)
-        if coords:
-            city_coords = coords
-
     return render(request, "plans/plan_stop.html", {
         "plan": plan,
         "stop": stop,
@@ -985,7 +978,6 @@ def plan_stop(request, slug, city_slug):
         "trek_routes": mark_safe(json.dumps(trek_routes)),
         "city_snippet": city_snippet,
         "city_image_url": city_image_url,
-        "city_coords": city_coords,
         "suggestions": suggestions,
     })
 
@@ -1573,45 +1565,3 @@ def api_research_submit(request):
             _plan_file_add(plan_slug, city_slug, draft_path)
 
     return JsonResponse({"written": written, "city_path": city_path})
-
-
-def api_mapillary_image(request):
-    """GET /api/mapillary-image?lat=X&lng=Y[&radius=50]
-    Proxy to Mapillary Graph API — keeps the access token server-side.
-    Returns {"url": "<thumb_url>"} or {"url": null}.
-    """
-    import urllib.request as _req
-    import urllib.parse as _up
-
-    token = os.environ.get("MAPILLARY_ACCESS_TOKEN", "")
-    if not token:
-        return JsonResponse({"url": None, "error": "no token"}, status=503)
-
-    try:
-        lat    = float(request.GET["lat"])
-        lng    = float(request.GET["lng"])
-        radius = float(request.GET.get("radius", 500))  # metres
-    except (KeyError, ValueError):
-        return JsonResponse({"url": None, "error": "lat and lng required"}, status=400)
-
-    _math = __import__("math")
-
-    def _fetch(r):
-        dl = r / 111_320
-        dln = r / (111_320 * (_math.cos(_math.radians(lat)) or 0.001))
-        bb = f"{lng-dln},{lat-dl},{lng+dln},{lat+dl}"
-        p = _up.urlencode({"access_token": token, "fields": "id,thumb_256_url", "bbox": bb, "limit": 5})
-        req = _req.Request(f"https://graph.mapillary.com/images?{p}", headers={"User-Agent": "tabbi/1.0"})
-        with _req.urlopen(req, timeout=4) as resp:
-            return json.loads(resp.read()).get("data", [])
-
-    try:
-        items = _fetch(radius)
-        # Widen search if sparse coverage
-        if len(items) < 2:
-            items = _fetch(radius * 4) or items
-        urls = [it["thumb_256_url"] for it in items if it.get("thumb_256_url")]
-    except Exception:
-        urls = []
-
-    return JsonResponse({"urls": urls})

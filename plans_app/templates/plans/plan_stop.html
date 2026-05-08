@@ -176,13 +176,13 @@
       {% endif %}
     </div>
 
+  </div>  {# end plan-stop-layout #}
+
   <div class="plan-budget-section" id="plan-budget"
        data-save-url="/plans/{{ plan.slug }}/{{ stop.city_slug }}/budget/"
        data-csrf="{{ csrf_token }}"
        data-budget="{{ budget_json }}">
   </div>
-
-  </div>  {# end plan-stop-layout #}
 
 
 </div>

@@ -25,7 +25,14 @@
 /* ── Reset world66 styles for plan pages ─────────────────────────────────── */
 
 body:has(.tabbi-page) {
-  background: #F7F7F7;
+  background:
+    radial-gradient(ellipse 80% 60% at 10% 0%, #FFE0A0 0%, transparent 60%),
+    radial-gradient(ellipse 60% 50% at 95% 5%, #FFB3C6 0%, transparent 55%),
+    radial-gradient(ellipse 50% 40% at 80% 90%, #A8E6CF 0%, transparent 55%),
+    radial-gradient(ellipse 60% 50% at 0% 80%, #BAD7FF 0%, transparent 55%),
+    radial-gradient(ellipse 40% 35% at 50% 50%, #FFF0C2 0%, transparent 60%),
+    #FFF8F0;
+  background-attachment: fixed;
   font-family: 'Lexend Exa', sans-serif;
 }
 

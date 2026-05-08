@@ -18,14 +18,8 @@
     <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
   </div>
 
-  {% if city_snippet or city_image_url %}
-  <div class="plan-city-intro">
-    {% if city_image_url %}<div class="plan-city-intro-image" style="background-image:url('{{ city_image_url }}')"></div>{% endif %}
-    <div class="plan-city-intro-body">
-      {% if city_snippet %}<p class="plan-city-intro-text">{{ city_snippet }}</p>{% endif %}
-      {% if stop.destination_url %}<a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more on World66 →</a>{% endif %}
-    </div>
-  </div>
+  {% if city_snippet and stop.destination_url %}
+  <p class="plan-city-intro-text">{{ city_snippet }} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more →</a></p>
   {% endif %}
 
   <div class="plan-stop-layout">

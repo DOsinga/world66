@@ -1111,9 +1111,9 @@ def _plan_file_add(slug, city_slug, poi_path):
             heading = h2.group(1)
             city_raw = heading.split("|", 1)[0].strip()
             if "/" in city_raw:
-                heading_slug = city_raw.split("/")[-1].replace("_", " ").lower().replace(" ", "-")
+                heading_slug = re.sub(r"[^a-z0-9]+", "-", city_raw.split("/")[-1].replace("_", " ").lower()).strip("-")
             else:
-                heading_slug = city_raw.lower().replace(" ", "-")
+                heading_slug = re.sub(r"[^a-z0-9]+", "-", city_raw.lower()).strip("-")
             in_section = (heading_slug == city_slug)
             if in_section:
                 insert_at = i + 1

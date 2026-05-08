@@ -293,9 +293,10 @@ def tool_plan_trip(stops=None, title="", destination="", start_date="", end_date
     ]
     for city in cities:
         poi_count = _count_existing_pois(city.get("city_path", ""))
+        coverage = f"{poi_count} place(s) already in the guide" if poi_count else "ready to research"
         lines.append(
             f"- **{city['city_title']}**: city_path={city['city_path']!r}, "
-            f"city_slug={city['city_slug']!r}, {poi_count} existing w66 POI(s)"
+            f"city_slug={city['city_slug']!r} — {coverage}"
         )
     return "\n".join(lines)
 
@@ -364,32 +365,35 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
                 except Exception:
                     pass
 
-    poi_lines   = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_pois) or "(none yet)"
+    place_lines = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_pois)
     vibe_lines  = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_vibes)
     trek_lines  = "\n".join(f"- {p['title']} (`{p['path']}`)" for p in existing_treks)
 
     sections = [
-        f"## world66 content already in the guide for {city_title}",
+        f"## What we have for {city_title}",
     ]
     if existing_treks:
         sections.append(f"### Treks ({len(existing_treks)})\n{trek_lines}")
     if existing_vibes:
-        sections.append(f"### Vibes ({len(existing_vibes)})\n{vibe_lines}")
-    sections.append(f"### Places ({len(existing_pois)})\n{poi_lines}")
+        sections.append(f"### Experiences ({len(existing_vibes)})\n{vibe_lines}")
+    if existing_pois:
+        sections.append(f"### Places ({len(existing_pois)})\n{place_lines}")
+    if not existing_pois and not existing_vibes and not existing_treks:
+        sections.append(f"Nothing in the guide yet for {city_title} — great opportunity to add fresh content.")
     sections.append(
         "## Instructions\n"
-        f"1. Call add_pois_to_plan with ALL paths above (both treks and places) to add them to the plan.\n"
+        f"1. Call add_pois_to_plan with ALL paths above to add existing content to the plan.\n"
         f"2. Use web search to find what's notable or worth doing in {city_title}.\n"
-        f"3. Compose a good mix for the plan — **at least one vibe** plus individual POIs:\n"
-        f"   - **Vibe** (type: 'vibe'): a 2–4 hour activity that combines a few spots, "
+        f"3. Compose a good mix of new content — **at least one experience** plus individual places:\n"
+        f"   - **Experience** (type: 'vibe'): a 2–4 hour activity combining a few spots, "
         f"e.g. 'Morning in the Old Town' or 'Street food crawl through the market district'. "
         f"Include duration_hours and a stops list of 3–5 places visited together.\n"
-        f"   - **POI** (type: 'poi'): a single place with coordinates.\n"
+        f"   - **Place** (type: 'poi'): a single place with coordinates.\n"
         f"4. For each item write 2–4 paragraphs of clean prose per the style guide, under 280 words.\n"
         f"5. Assign one category: Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery\n"
         f"6. Write a 2–4 sentence intro for the city that references the highlights in narrative order.\n"
         f"7. Estimate a realistic daily budget per person (hotel/night, food/day, activities/day, transport/day) with currency code.\n"
-        f"8. Call submit_pois with: the intro, the budget, and the pois array ordered to match the intro narrative."
+        f"8. Call submit_pois with: the intro, the budget, and the places array ordered to match the intro narrative."
     )
     sections.append("## Writing style guide\n" + style_md)
     return "\n\n".join(sections)

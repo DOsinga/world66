@@ -1370,29 +1370,49 @@ def api_plan_create(request):
     })
 
 
+def _check_plan_auth(body: dict, plan_slug: str) -> bool:
+    """Return True if the request body carries valid auth for the given plan.
+
+    Accepts either:
+    - passphrase: the plan's own passphrase (preferred)
+    - secret: the server-wide RESEARCH_SUBMIT_SECRET (legacy / server-to-server)
+    """
+    passphrase = body.get("passphrase", "")
+    if passphrase:
+        passwords = _load_passwords()
+        hashed = passwords.get(plan_slug)
+        return bool(hashed and _check_password(passphrase, hashed))
+    server_secret = os.environ.get("RESEARCH_SUBMIT_SECRET", "")
+    if server_secret:
+        return secrets.compare_digest(body.get("secret", ""), server_secret)
+    return False
+
+
 @csrf_exempt
 @require_POST
 def api_plan_add_pois(request):
     """
     POST /api/plan/add-pois
-    Body: { "plan_slug", "city_slug", "poi_paths": [...], "secret" }
+    Body: { "plan_slug", "city_slug", "poi_paths": [...], "passphrase": "<plan passphrase>" }
     Adds existing w66 content paths directly to the plan file.
     """
-    expected_secret = os.environ.get("RESEARCH_SUBMIT_SECRET", "")
     try:
         body = json.loads(request.body)
     except (json.JSONDecodeError, UnicodeDecodeError):
         return JsonResponse({"error": "invalid JSON"}, status=400)
 
-    if expected_secret and body.get("secret") != expected_secret:
-        return JsonResponse({"error": "unauthorized"}, status=403)
-
     plan_slug = body.get("plan_slug", "").strip()
     city_slug = body.get("city_slug", "").strip()
-    poi_paths = body.get("poi_paths", [])
 
-    if not plan_slug or not city_slug or not isinstance(poi_paths, list):
-        return JsonResponse({"error": "plan_slug, city_slug, and poi_paths are required"}, status=400)
+    if not plan_slug or not city_slug:
+        return JsonResponse({"error": "plan_slug and city_slug are required"}, status=400)
+
+    if not _check_plan_auth(body, plan_slug):
+        return JsonResponse({"error": "unauthorized"}, status=403)
+
+    poi_paths = body.get("poi_paths", [])
+    if not isinstance(poi_paths, list):
+        return JsonResponse({"error": "poi_paths must be a list"}, status=400)
 
     added = 0
     for path in poi_paths:
@@ -1409,32 +1429,33 @@ def api_research_submit(request):
     """
     POST /api/research/submit
     Body (JSON): {
+      "plan_slug": "<slug>",
+      "passphrase": "<plan passphrase>",
+      "city_slug": "<city_slug>",
       "city_path": "europe/france/marseille",
       "city_title": "Marseille",
-      "secret": "<RESEARCH_SUBMIT_SECRET>",
       "pois": [{"name", "category", "body", "latitude", "longitude"}, ...]
     }
     Writes draft POI files to plans/pois/<city_path>/ and returns {"written": N}.
     """
     import frontmatter as _fm
 
-    expected_secret = os.environ.get("RESEARCH_SUBMIT_SECRET", "")
     try:
         body = json.loads(request.body)
     except (json.JSONDecodeError, UnicodeDecodeError):
         return JsonResponse({"error": "invalid JSON"}, status=400)
 
-    if expected_secret and body.get("secret") != expected_secret:
-        return JsonResponse({"error": "unauthorized"}, status=403)
-
+    plan_slug  = body.get("plan_slug", "").strip()
+    city_slug  = body.get("city_slug", "").strip()
     city_path  = body.get("city_path", "").strip().strip("/")
     city_title = body.get("city_title", "").strip()
     pois       = body.get("pois", [])
-    plan_slug  = body.get("plan_slug", "").strip()
-    city_slug  = body.get("city_slug", "").strip()
 
     if not isinstance(pois, list) or not city_title:
         return JsonResponse({"error": "city_title and pois are required"}, status=400)
+
+    if plan_slug and not _check_plan_auth(body, plan_slug):
+        return JsonResponse({"error": "unauthorized"}, status=403)
 
     # If city isn't in the guide yet, store drafts under uncategorised/<slug>
     if not city_path:

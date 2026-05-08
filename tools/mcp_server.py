@@ -102,15 +102,16 @@ TOOLS = [
         "inputSchema": {
             "type": "object",
             "properties": {
-                "plan_slug": {"type": "string", "description": "Plan slug from plan_trip"},
-                "city_slug": {"type": "string", "description": "City slug from plan_trip"},
+                "plan_slug":  {"type": "string", "description": "Plan slug from plan_trip"},
+                "passphrase": {"type": "string", "description": "Plan passphrase from plan_trip"},
+                "city_slug":  {"type": "string", "description": "City slug from plan_trip"},
                 "poi_paths": {
                     "type": "array",
                     "items": {"type": "string"},
                     "description": "List of w66 content paths (e.g. ['europe/france/brittany/rennes/old-town'])",
                 },
             },
-            "required": ["plan_slug", "city_slug", "poi_paths"],
+            "required": ["plan_slug", "passphrase", "city_slug", "poi_paths"],
         },
     },
     {
@@ -173,12 +174,16 @@ TOOLS = [
                     "type": "string",
                     "description": "Plan slug returned by plan_trip — used to add POIs directly to the plan",
                 },
+                "passphrase": {
+                    "type": "string",
+                    "description": "Plan passphrase returned by plan_trip — required to authorise writing to the plan",
+                },
                 "city_slug": {
                     "type": "string",
                     "description": "City slug returned by plan_trip — used to add POIs to the right city section",
                 },
             },
-            "required": ["city_title", "pois"],
+            "required": ["city_title", "pois", "plan_slug", "passphrase"],
         },
     },
     {
@@ -255,6 +260,8 @@ def tool_plan_trip(stops=None, title="", destination="", start_date="", end_date
         f"**Passphrase:** `{passphrase}`",
         f"",
         f"Share this URL and passphrase with anyone joining the trip.",
+        f"",
+        f"**Keep the passphrase** — you need it for add_pois_to_plan and submit_pois.",
         f"",
         f"Now call research_city for each stop, then add_pois_to_plan / submit_pois:",
     ]
@@ -353,14 +360,13 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
     return "\n\n".join(sections)
 
 
-def tool_add_pois_to_plan(plan_slug: str, city_slug: str, poi_paths: list) -> str:
+def tool_add_pois_to_plan(plan_slug: str, passphrase: str, city_slug: str, poi_paths: list) -> str:
     """Add existing w66 POI paths directly to a plan."""
-    submit_secret = os.environ.get("RESEARCH_SUBMIT_SECRET", "")
     payload = {
-        "plan_slug": plan_slug,
-        "city_slug": city_slug,
-        "poi_paths": poi_paths,
-        "secret":    submit_secret,
+        "plan_slug":  plan_slug,
+        "passphrase": passphrase,
+        "city_slug":  city_slug,
+        "poi_paths":  poi_paths,
     }
     try:
         result = _http_post(f"{W66_BASE_URL}/api/plan/add-pois", payload)
@@ -370,14 +376,13 @@ def tool_add_pois_to_plan(plan_slug: str, city_slug: str, poi_paths: list) -> st
         return f"Failed to add POIs: {e}"
 
 
-def tool_submit_pois(city_title: str, pois: list, city_path: str = "",
-                     plan_slug: str = "", city_slug: str = "") -> str:
+def tool_submit_pois(city_title: str, pois: list, plan_slug: str, passphrase: str,
+                     city_path: str = "", city_slug: str = "") -> str:
     """POST researched POIs to the server and add them directly to the plan."""
-    submit_secret = os.environ.get("RESEARCH_SUBMIT_SECRET", "")
     payload = {
         "city_path":  city_path,
         "city_title": city_title,
-        "secret":     submit_secret,
+        "passphrase": passphrase,
         "pois":       pois,
         "plan_slug":  plan_slug,
         "city_slug":  city_slug,
@@ -457,6 +462,7 @@ def _handle(message: dict) -> dict | None:
             elif name == "add_pois_to_plan":
                 text = tool_add_pois_to_plan(
                     plan_slug=args["plan_slug"],
+                    passphrase=args["passphrase"],
                     city_slug=args["city_slug"],
                     poi_paths=args["poi_paths"],
                 )
@@ -469,8 +475,9 @@ def _handle(message: dict) -> dict | None:
                 text = tool_submit_pois(
                     city_title=args["city_title"],
                     pois=args["pois"],
+                    plan_slug=args["plan_slug"],
+                    passphrase=args["passphrase"],
                     city_path=args.get("city_path", ""),
-                    plan_slug=args.get("plan_slug", ""),
                     city_slug=args.get("city_slug", ""),
                 )
             elif name == "search_world66":

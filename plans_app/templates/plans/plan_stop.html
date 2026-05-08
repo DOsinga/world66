@@ -37,8 +37,12 @@
   <div class="plan-stop-layout">
 
     <div class="plan-stop-left">
+      <div class="plan-stop-left-header">
+        <h2 class="plan-stop-left-city">{{ stop.city }}</h2>
+        {% if stop.dates %}<div class="plan-stop-left-dates">{{ stop.dates }}</div>{% endif %}
+      </div>
       {% if city_snippet %}
-      <p class="plan-city-intro-text">{{ city_snippet }}{% if stop.destination_url %} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more →</a>{% endif %}</p>
+      <p class="plan-city-intro-text">{{ city_snippet }}{% if stop.destination_url %} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more on w66 →</a>{% endif %}</p>
       {% endif %}
       <div id="plan-stop-map"></div>
     </div>

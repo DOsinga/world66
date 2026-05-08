@@ -505,6 +505,19 @@ body:has(.tabbi-page)::after {
   flex-direction: column;
   gap: 0;
 }
+.plan-stop-left-header {
+  margin-bottom: 10px;
+}
+.plan-stop-left-city {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 2px;
+  color: #180A0A;
+}
+.plan-stop-left-dates {
+  font-size: 0.8rem;
+  color: #888;
+}
 
 #plan-stop-map {
   height: calc(100vh - 120px);

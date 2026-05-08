@@ -1132,6 +1132,60 @@ def _copy_location_image(city_page, plan_slug: str) -> str | None:
     return f"images/{plan_slug}/{src.name}"
 
 
+def _create_stub_location(city_title: str, region_hint: str = "") -> str:
+    """Create a minimal location stub in content/ and register it in the search index.
+
+    Returns the new url_path (e.g. 'southamerica/peru/sacredvalley').
+    Falls back to 'uncategorised/<slug>' when the region can't be resolved.
+    """
+    import frontmatter as _fm2
+
+    slug = re.sub(r"[^a-z0-9]+", "", city_title.lower())
+    if not slug:
+        slug = "unknown"
+
+    # Find the parent path via the region hint (e.g. "peru" → "southamerica/peru")
+    parent_path = ""
+    if region_hint:
+        parent_path = resolve_location_name(region_hint.title()) or ""
+        # Only accept shallow paths (continent/country) as parents, not cities
+        if parent_path and parent_path.count("/") > 1:
+            parent_path = ""
+
+    if not parent_path:
+        parent_path = "uncategorised"
+
+    url_path = f"{parent_path}/{slug}"
+    file_path = CONTENT_DIR / parent_path / f"{slug}.md"
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+
+    if not file_path.exists():
+        body = ""
+        post = _fm2.Post(body, title=city_title, type="location", tabbi_stub=True)
+        file_path.write_text(_fm2.dumps(post))
+
+    # Register directly in the search index so it's immediately findable
+    if _SEARCH_DB.is_file():
+        conn = sqlite3.connect(str(_SEARCH_DB))
+        try:
+            rel = str(file_path.relative_to(CONTENT_DIR))
+            conn.execute("DELETE FROM docs WHERE path=?", (rel,))
+            conn.execute(
+                "INSERT INTO docs(path, title, aliases, body, page_type, url_path, location) VALUES(?,?,?,?,?,?,?)",
+                (rel, city_title, "", "", "location", url_path, ""),
+            )
+            conn.execute(
+                "INSERT OR REPLACE INTO meta(path, mtime, hash) VALUES(?,?,?)",
+                (rel, file_path.stat().st_mtime, ""),
+            )
+            conn.commit()
+        finally:
+            conn.close()
+
+    _search_logger.info("STUB_CREATED %r  path=%r  hint=%r", city_title, url_path, region_hint)
+    return url_path
+
+
 def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) -> dict:
     """Resolve one stop's destination to a city_path, city_title, date_str."""
     import re as _re
@@ -1143,10 +1197,15 @@ def _resolve_stop(destination: str, start_date: str, end_date: str, notes: str) 
         city_page  = load_page(dest)
         city_title = city_page.title if city_page else dest.split("/")[-1].replace("_", " ").title()
     else:
-        city_path = resolve_location_name(dest)
-        if not city_path and "," in dest:
-            dest      = dest.split(",")[0].strip()
-            city_path = resolve_location_name(dest)
+        # Extract region hint from "City, Region" before resolving
+        region_hint = ""
+        if "," in dest:
+            city_name, hint_raw = dest.split(",", 1)
+            region_hint = hint_raw.strip()
+            dest = city_name.strip()
+        city_path = resolve_location_name(dest if not region_hint else f"{dest}, {region_hint}")
+        if not city_path:
+            city_path = _create_stub_location(dest, region_hint)
         city_page  = load_page(city_path) if city_path else None
         city_title = city_page.title if city_page else dest
 

@@ -495,25 +495,15 @@ def _parse_stops(body, plan_slug):
                         city_path = resolve_location_name(city_name)
             # Slug must be URL-safe: strip commas and other non-slug chars
             city_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
-            # If this city already has a stop, reuse it (same destination, multiple visit segments)
-            existing = next((s for s in stops if s["city_slug"] == city_slug), None)
-            if existing:
-                current = existing
-                # Merge dates
-                if dates.strip() and existing["dates"] and dates.strip() not in existing["dates"]:
-                    existing["dates"] = existing["dates"] + ", " + dates.strip()
-                elif dates.strip() and not existing["dates"]:
-                    existing["dates"] = dates.strip()
-            else:
-                current = {
-                    "city": city_name,
-                    "city_slug": city_slug,
-                    "city_path": city_path,
-                    "dates": dates.strip(),
-                    "url": f"/plans/{plan_slug}/{city_slug}/",
-                    "items": [],
-                }
-                stops.append(current)
+            current = {
+                "city": city_name,
+                "city_slug": city_slug,
+                "city_path": city_path,
+                "dates": dates.strip(),
+                "url": f"/plans/{plan_slug}/{city_slug}/",
+                "items": [],
+            }
+            stops.append(current)
             continue
         if current is None:
             continue

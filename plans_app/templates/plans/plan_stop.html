@@ -18,20 +18,21 @@
     <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
   </div>
 
+  {% if city_snippet or city_image_url %}
+  <div class="plan-city-intro">
+    {% if city_image_url %}<div class="plan-city-intro-image" style="background-image:url('{{ city_image_url }}')"></div>{% endif %}
+    <div class="plan-city-intro-body">
+      {% if city_snippet %}<p class="plan-city-intro-text">{{ city_snippet }}</p>{% endif %}
+      {% if stop.destination_url %}<a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more on World66 →</a>{% endif %}
+    </div>
+  </div>
+  {% endif %}
+
   <div class="plan-stop-layout">
 
     <div id="plan-stop-map"></div>
 
     <div class="plan-poi-list">
-      {% if city_snippet or city_image_url %}
-      <div class="plan-city-intro">
-        {% if city_image_url %}<img src="{{ city_image_url }}" alt="{{ stop.city }}" class="plan-city-intro-image">{% endif %}
-        <div>
-          {% if city_snippet %}<p class="plan-city-intro-text">{{ city_snippet }}</p>{% endif %}
-          {% if stop.destination_url %}<a href="{{ stop.destination_url }}" class="plan-city-explore">Explore {{ stop.city }}</a>{% endif %}
-        </div>
-      </div>
-      {% endif %}
       {% for item in stop.items %}
       {% if item.page and item.page.page_type == "trek" %}
       <div class="plan-trek-card">
@@ -58,7 +59,27 @@
         </form>
       </div>
       {% else %}
-      <div class="plan-poi-card{% if not item.page and not item.external_url %} plan-poi-card-note{% endif %}">
+      {% if not item.page and not item.external_url %}
+      <div class="plan-note-card">
+        <span class="plan-note-icon">✏️</span>
+        <div class="plan-poi-body">
+          <span class="plan-note-text" title="Click to edit">{{ item.text }}</span>
+          <form class="plan-note-edit-form" method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/note/" hidden>
+            {% csrf_token %}
+            <input type="hidden" name="old_text" value="{{ item.text }}">
+            <input type="hidden" name="next" value="{{ request.path }}">
+            <input type="text" name="new_text" class="plan-note-input" value="{{ item.text }}">
+          </form>
+        </div>
+        <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
+          {% csrf_token %}
+          <input type="hidden" name="poi_path" value="{{ item.text }}">
+          <input type="hidden" name="next" value="{{ request.path }}">
+          <button type="submit" class="plan-remove-btn" title="Remove from plan">−</button>
+        </form>
+      </div>
+      {% else %}
+      <div class="plan-poi-card">
         {% if item.image_url %}
         <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
         {% endif %}
@@ -73,14 +94,6 @@
               <span class="plan-external-label">{{ item.display_label }}</span>
               <span class="plan-external-domain">{{ item.display_domain }} ↗</span>
             </a>
-          {% else %}
-            <span class="plan-note-text" title="Click to edit">{{ item.text }}</span>
-            <form class="plan-note-edit-form" method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/note/" hidden>
-              {% csrf_token %}
-              <input type="hidden" name="old_text" value="{{ item.text }}">
-              <input type="hidden" name="next" value="{{ request.path }}">
-              <input type="text" name="new_text" class="plan-note-input" value="{{ item.text }}">
-            </form>
           {% endif %}
         </div>
         <form method="post" action="/plans/{{ plan.slug }}/{{ stop.city_slug }}/remove/" class="plan-remove-form">
@@ -90,6 +103,7 @@
           <button type="submit" class="plan-remove-btn" title="Remove from plan">−</button>
         </form>
       </div>
+      {% endif %}
       {% endif %}
       {% endfor %}
 

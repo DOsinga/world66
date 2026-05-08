@@ -482,38 +482,39 @@ body:has(.tabbi-page) {
 /* ── City intro ──────────────────────────────────────────────────────────── */
 
 .plan-city-intro {
-  display: flex;
-  gap: 14px;
-  padding: 16px;
-  border-radius: 16px;
+  border-radius: 20px;
+  overflow: hidden;
   background: #FFFFFF;
-  border: none;
-  box-shadow: 0 4px 16px rgba(24,10,10,0.07);
-  margin-bottom: 16px;
+  box-shadow: 0 4px 20px rgba(24,10,10,0.09);
+  margin-bottom: 24px;
 }
 .plan-city-intro-image {
-  width: 90px;
-  height: 90px;
-  border-radius: 12px;
-  object-fit: cover;
-  flex-shrink: 0;
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
 }
-.plan-city-intro-text { font-size: 0.82rem; color: #535050; line-height: 1.55; }
-.plan-city-explore {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  margin-top: 10px;
-  font-size: 0.75rem;
+.plan-city-intro-body {
+  padding: 16px 20px 18px;
+}
+.plan-city-intro-text {
+  font-size: 0.88rem;
+  color: #444;
+  line-height: 1.6;
+  margin: 0 0 12px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.plan-city-readmore {
+  font-size: 0.8rem;
   font-weight: 700;
-  color: #180A0A;
-  background: #F4B028;
-  border-radius: 999px;
-  padding: 5px 14px;
+  color: #1F726E;
   text-decoration: none;
-  transition: background 0.15s;
+  letter-spacing: 0.01em;
 }
-.plan-city-explore:hover { background: #d99b1a; }
+.plan-city-readmore:hover { text-decoration: underline; }
 
 /* ── POI list ────────────────────────────────────────────────────────────── */
 
@@ -602,17 +603,37 @@ body:has(.tabbi-page) {
 }
 .plan-poi-tag:hover { background: #d99b1a; }
 
-/* ── Note editing ────────────────────────────────────────────────────────── */
+/* ── Note card ───────────────────────────────────────────────────────────── */
 
-.plan-poi-note { font-size: 0.8rem; color: #535050; font-style: normal; }
-.plan-note-text { cursor: text; transition: color 0.15s; }
+.plan-note-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: #FFFBF0;
+  border: 1.5px dashed #F4B028;
+  box-shadow: none;
+}
+.plan-note-icon {
+  font-size: 1rem;
+  flex-shrink: 0;
+  opacity: 0.7;
+}
+.plan-note-text {
+  font-size: 0.88rem;
+  color: #635000;
+  cursor: text;
+  line-height: 1.5;
+  transition: color 0.15s;
+}
 .plan-note-text:hover { color: #180A0A; }
 .plan-note-input {
   border: none;
   border-bottom: 2px solid #F4B028;
   background: transparent;
   font-family: 'Lexend Exa', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.88rem;
   color: #180A0A;
   width: 100%;
   outline: none;

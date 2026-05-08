@@ -4,7 +4,6 @@
 
   function buildSlideshow(el, urls) {
     var idx = 0;
-    var timer = null;
 
     // Dots
     var dots = document.createElement('div');
@@ -30,13 +29,10 @@
     }
 
     show(0);
-    timer = setInterval(function() { show(idx + 1); }, 5000);
 
     el.addEventListener('click', function(e) {
       if (e.target.closest('.plan-dest-tile-overlay, a')) return;
-      clearInterval(timer);
       show(idx + 1);
-      timer = setInterval(function() { show(idx + 1); }, 5000);
     });
   }
 

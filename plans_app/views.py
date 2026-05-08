@@ -1142,23 +1142,74 @@ def _generate_passphrase(n=3):
     return "-".join(_secrets.choice(_WORDS) for _ in range(n))
 
 
+def _fetch_wikipedia_image(city_title: str, dest_dir: Path) -> str | None:
+    """Fetch the main image for a Wikipedia article and save it to dest_dir.
+
+    Uses the Wikimedia REST API (no key needed). Returns the saved filename or None.
+    """
+    import urllib.request
+    import urllib.parse
+
+    title_encoded = urllib.parse.quote(city_title.replace(" ", "_"))
+    api_url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{title_encoded}"
+    try:
+        req = urllib.request.Request(api_url, headers={"User-Agent": "Tabbi/1.0 (travel planner)"})
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            data = json.loads(resp.read())
+    except Exception as exc:
+        _search_logger.warning("WIKIPEDIA_IMAGE_FETCH_FAILED %r: %s", city_title, exc)
+        return None
+
+    img_url = (data.get("originalimage") or data.get("thumbnail") or {}).get("source")
+    if not img_url:
+        return None
+
+    ext = img_url.rsplit(".", 1)[-1].split("?")[0].lower()
+    if ext not in ("jpg", "jpeg", "png", "webp"):
+        ext = "jpg"
+    slug = re.sub(r"[^a-z0-9]+", "-", city_title.lower()).strip("-")
+    filename = f"{slug}-wiki.{ext}"
+    dest = dest_dir / filename
+    if dest.exists():
+        return filename
+    try:
+        req = urllib.request.Request(img_url, headers={"User-Agent": "Tabbi/1.0 (travel planner)"})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            dest.write_bytes(resp.read())
+        _search_logger.info("WIKIPEDIA_IMAGE_SAVED %r → %s", city_title, filename)
+        return filename
+    except Exception as exc:
+        _search_logger.warning("WIKIPEDIA_IMAGE_DOWNLOAD_FAILED %r: %s", city_title, exc)
+        return None
+
+
 def _copy_location_image(city_page, plan_slug: str) -> str | None:
-    """Copy a city page's hero image into plans/images/<plan_slug>/ and return the relative path."""
+    """Copy a city page's hero image into plans/images/<plan_slug>/.
+
+    Falls back to fetching from Wikipedia when no content image exists.
+    Returns the relative path (e.g. 'images/<plan_slug>/<file>') or None.
+    """
     import shutil
-    if not city_page:
-        return None
-    img_rel = _image_path(city_page)
-    if not img_rel:
-        return None
-    src = CONTENT_DIR / img_rel
-    if not src.is_file():
-        return None
     dest_dir = PLANS_DIR / "images" / plan_slug
     dest_dir.mkdir(parents=True, exist_ok=True)
-    dest = dest_dir / src.name
-    if not dest.exists():
-        shutil.copy2(src, dest)
-    return f"images/{plan_slug}/{src.name}"
+
+    if city_page:
+        img_rel = _image_path(city_page)
+        if img_rel:
+            src = CONTENT_DIR / img_rel
+            if src.is_file():
+                dest = dest_dir / src.name
+                if not dest.exists():
+                    shutil.copy2(src, dest)
+                return f"images/{plan_slug}/{src.name}"
+
+    # No content image — try Wikipedia
+    if city_page:
+        filename = _fetch_wikipedia_image(city_page.title, dest_dir)
+        if filename:
+            return f"images/{plan_slug}/{filename}"
+
+    return None
 
 
 def _create_draft_location(city_title: str, region_hint: str = "") -> str:

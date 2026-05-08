@@ -18,13 +18,14 @@
     <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
   </div>
 
-  {% if city_snippet and stop.destination_url %}
-  <p class="plan-city-intro-text">{{ city_snippet }} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more →</a></p>
-  {% endif %}
-
   <div class="plan-stop-layout">
 
-    <div id="plan-stop-map"></div>
+    <div class="plan-stop-left">
+      {% if city_snippet and stop.destination_url %}
+      <p class="plan-city-intro-text">{{ city_snippet }} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more →</a></p>
+      {% endif %}
+      <div id="plan-stop-map"></div>
+    </div>
 
     <div class="plan-poi-list">
       {% for item in stop.items %}
@@ -135,7 +136,7 @@
       {% endif %}
     </div>
 
-  </div>
+  </div>  {# end plan-stop-layout #}
 
 
 </div>

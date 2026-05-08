@@ -155,7 +155,7 @@ body:has(.tabbi-page) {
   display: flex;
   align-items: baseline;
   gap: 16px;
-  margin-bottom: 24px;
+  margin-bottom: 6px;
   flex-wrap: wrap;
 }
 
@@ -460,13 +460,19 @@ body:has(.tabbi-page) {
 }
 .plan-stop-layout > * { min-width: 0; }
 
+.plan-stop-left {
+  position: sticky;
+  top: 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
 #plan-stop-map {
   height: calc(100vh - 120px);
   border-radius: 20px;
   border: none;
   box-shadow: 0 4px 20px rgba(24,10,10,0.1);
-  position: sticky;
-  top: 72px;
 }
 
 /* ── Map markers ─────────────────────────────────────────────────────────── */
@@ -485,7 +491,7 @@ body:has(.tabbi-page) {
   font-size: 0.82rem;
   color: #888;
   line-height: 1.55;
-  margin: 0 0 20px;
+  margin: 0 0 16px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;

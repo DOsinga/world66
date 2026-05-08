@@ -1574,7 +1574,7 @@ body:has(.tabbi-page)::after {
 .plan-budget-label,
 .plan-budget-value,
 .plan-budget-total { display: table-cell; padding: 4px 0; vertical-align: middle; }
-.plan-budget-label { color: #888; font-size: 0.85rem; width: 120px; }
+.plan-budget-label { color: #888; font-size: 0.85rem; width: 160px; }
 .plan-budget-value {
   font-size: 0.92rem;
   color: #333;

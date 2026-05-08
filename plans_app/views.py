@@ -483,17 +483,16 @@ def _parse_stops(body, plan_slug):
                 city_path = city_part
                 city_name = city_part.split("/")[-1].replace("_", " ").title()
             else:
-                city_name = city_part
-                # Try full name first, then strip country suffix after comma
-                city_path = resolve_location_name(city_part)
-                if not city_path and "," in city_part:
-                    city_name = city_part.split(",")[0].strip()
-                    city_path = resolve_location_name(city_name)
-                # Fallback: check draft locations directory
-                if not city_path:
-                    draft_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
-                    if (DRAFT_LOCATIONS_DIR / f"{draft_slug}.md").is_file():
-                        city_path = f"~locations/{draft_slug}"
+                city_name = city_part.split(",")[0].strip() if "," in city_part else city_part
+                # Check draft locations first — they are authoritative for user-created stops
+                draft_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
+                if (DRAFT_LOCATIONS_DIR / f"{draft_slug}.md").is_file():
+                    city_path = f"~locations/{draft_slug}"
+                else:
+                    # Fall back to FTS search
+                    city_path = resolve_location_name(city_part)
+                    if not city_path and "," in city_part:
+                        city_path = resolve_location_name(city_name)
             # Slug must be URL-safe: strip commas and other non-slug chars
             city_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
             current = {

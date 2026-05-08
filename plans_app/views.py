@@ -193,10 +193,11 @@ _PASSWORDS_FILE = PLANS_DIR / ".passwords.json"
 _GEOCACHE_FILE = PLANS_DIR / ".geocache.json"
 
 
-def _load_draft_pois(city_path: str) -> list[DraftPage]:
-    """Load draft POIs for a city from plans/pois/<city_path>/."""
+def _load_draft_pois(plan_slug: str, city_path: str) -> list[DraftPage]:
+    """Load draft POIs for a city from plans/pois/<plan_slug>/<city_path>/."""
     import frontmatter as fm
-    city_dir = DRAFT_POIS_DIR / city_path
+    poi_prefix = f"{plan_slug}/{city_path}" if plan_slug else city_path
+    city_dir = DRAFT_POIS_DIR / poi_prefix
     if not city_dir.is_dir():
         return []
     pages = []
@@ -207,7 +208,7 @@ def _load_draft_pois(city_path: str) -> list[DraftPage]:
             page_type = post.metadata.get("type", "poi")
             pages.append(DraftPage(
                 title=post.metadata.get("title", slug),
-                path=f"~pois/{city_path}/{slug}",
+                path=f"~pois/{poi_prefix}/{slug}",
                 body=post.content,
                 category=post.metadata.get("category", ""),
                 meta={
@@ -528,13 +529,13 @@ def _parse_stops(body, plan_slug):
                     current["city_path"] = text
                 continue
             elif text.startswith("~pois/"):
-                # Draft POI from plans/pois/
-                draft_rel = text[len("~pois/"):]  # e.g. europe/france/marseille/vieux-port
+                # Draft POI from plans/pois/<plan_slug>/<city_path>/<slug>
+                draft_rel = text[len("~pois/"):]  # e.g. lima-2026/southamerica/peru/cuzco/vieux-port
                 parts = draft_rel.rsplit("/", 1)
                 if len(parts) == 2:
-                    draft_city, draft_slug = parts
+                    draft_dir, draft_slug = parts
                     import frontmatter as _fm
-                    draft_file = DRAFT_POIS_DIR / draft_city / f"{draft_slug}.md"
+                    draft_file = DRAFT_POIS_DIR / draft_dir / f"{draft_slug}.md"
                     if draft_file.is_file():
                         _post = _fm.load(str(draft_file))
                         page = DraftPage(
@@ -826,20 +827,7 @@ def plan_stop(request, slug, city_slug):
     if not plan:
         raise Http404
     # Collect all stops for this city (same city may appear multiple times in a plan)
-    city_stops = [s for s in plan["stops"] if s["city_slug"] == city_slug]
-    if not city_stops:
-        raise Http404
-    stop = city_stops[0]
-    # Merge items from all same-city stops so /cuzco/ shows everything for Cuzco
-    if len(city_stops) > 1:
-        import copy
-        stop = copy.deepcopy(city_stops[0])
-        seen_texts = {item["text"] for item in stop["items"]}
-        for extra in city_stops[1:]:
-            for item in extra["items"]:
-                if item["text"] not in seen_texts:
-                    stop["items"].append(item)
-                    seen_texts.add(item["text"])
+    stop = next((s for s in plan["stops"] if s["city_slug"] == city_slug), None)
     if not stop:
         raise Http404
     markers = _stop_markers(stop)
@@ -1498,12 +1486,14 @@ def api_research_submit(request):
     if plan_slug and not _check_plan_auth(body, plan_slug):
         return JsonResponse({"error": "unauthorized"}, status=403)
 
-    # If city isn't in the guide yet, store drafts under uncategorised/<slug>
+    # If city isn't in the guide yet, use a slug based on the title
     if not city_path:
         _slug = re.sub(r"[^a-z0-9]+", "-", city_title.lower()).strip("-")
-        city_path = f"uncategorised/{_slug}"
+        city_path = _slug
 
-    city_dir = DRAFT_POIS_DIR / city_path
+    # Scope draft POIs to the plan: plans/pois/<plan_slug>/<city_path>/
+    poi_prefix = f"{plan_slug}/{city_path}" if plan_slug else city_path
+    city_dir = DRAFT_POIS_DIR / poi_prefix
     city_dir.mkdir(parents=True, exist_ok=True)
 
     def _slugify(text):
@@ -1524,7 +1514,7 @@ def api_research_submit(request):
         slug = _slugify(name)
         out_path = city_dir / f"{slug}.md"
         if out_path.exists():
-            draft_paths.append(f"~pois/{city_path}/{slug}")
+            draft_paths.append(f"~pois/{poi_prefix}/{slug}")
             continue
         meta = {"title": name, "type": poi_type, "category": category}
         if poi_type == "vibe":
@@ -1541,7 +1531,7 @@ def api_research_submit(request):
                 meta["longitude"] = round(float(lng), 7)
         post = _fm.Post(poi_body, **meta)
         out_path.write_text(_fm.dumps(post))
-        draft_paths.append(f"~pois/{city_path}/{slug}")
+        draft_paths.append(f"~pois/{poi_prefix}/{slug}")
         written += 1
 
     # Add draft POIs directly to the plan file if plan_slug and city_slug provided

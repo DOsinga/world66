@@ -155,9 +155,17 @@ TOOLS = [
                     "type": "string",
                     "description": "Human-readable city name",
                 },
+                "intro": {
+                    "type": "string",
+                    "description": (
+                        "A 2-4 sentence introduction to the city stop, written in your own words. "
+                        "This will appear at the top of the stop page. "
+                        "The pois array should be ordered to match the narrative order of this intro."
+                    ),
+                },
                 "pois": {
                     "type": "array",
-                    "description": "List of POIs and vibes to submit. Include at least one vibe per city.",
+                    "description": "List of POIs and vibes to submit. Include at least one vibe per city. Order them to match the intro narrative.",
                     "items": {
                         "type": "object",
                         "properties": {
@@ -364,7 +372,8 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
         f"   - **POI** (type: 'poi'): a single place with coordinates.\n"
         f"4. For each item write 2–4 paragraphs of clean prose per the style guide, under 280 words.\n"
         f"5. Assign one category: Landmark|Museum|Restaurant|Market|Park|Neighbourhood|Viewpoint|Bar|Gallery\n"
-        f"6. Call submit_pois with the new items (vibes + pois together)."
+        f"6. Write a 2–4 sentence intro for the city that references the highlights in narrative order.\n"
+        f"7. Call submit_pois with: the intro, and the pois array ordered to match the intro narrative."
     )
     sections.append("## Writing style guide\n" + style_md)
     return "\n\n".join(sections)
@@ -387,7 +396,7 @@ def tool_add_pois_to_plan(plan_slug: str, passphrase: str, city_slug: str, poi_p
 
 
 def tool_submit_pois(city_title: str, pois: list, plan_slug: str, passphrase: str,
-                     city_path: str = "", city_slug: str = "") -> str:
+                     city_path: str = "", city_slug: str = "", intro: str = "") -> str:
     """POST researched POIs to the server and add them directly to the plan."""
     payload = {
         "city_path":  city_path,
@@ -396,6 +405,7 @@ def tool_submit_pois(city_title: str, pois: list, plan_slug: str, passphrase: st
         "pois":       pois,
         "plan_slug":  plan_slug,
         "city_slug":  city_slug,
+        "intro":      intro,
     }
     try:
         result = _http_post(f"{W66_BASE_URL}/api/research/submit", payload)
@@ -489,6 +499,7 @@ def _handle(message: dict) -> dict | None:
                     passphrase=args["passphrase"],
                     city_path=args.get("city_path", ""),
                     city_slug=args.get("city_slug", ""),
+                    intro=args.get("intro", ""),
                 )
             elif name == "search_world66":
                 text = tool_search_world66(query=args["query"])

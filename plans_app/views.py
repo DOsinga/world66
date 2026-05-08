@@ -166,6 +166,7 @@ def resolve_location_name(name: str):
 PLANS_DIR = Path(settings.BASE_DIR) / "plans"
 DRAFT_POIS_DIR = PLANS_DIR / "pois"
 DRAFT_LOCATIONS_DIR = PLANS_DIR / "locations"
+PLAN_INTROS_DIR = PLANS_DIR / "intros"
 
 
 def _load_city_page(city_path: str):
@@ -847,7 +848,11 @@ def plan_stop(request, slug, city_slug):
             markers = [{"lat": coords[0], "lng": coords[1], "title": stop["city"], "url": stop.get("destination_url") or ""}]
     city_snippet = None
     city_image_url = None
-    if city_page:
+    # Check for LLM-written intro first
+    intro_file = PLAN_INTROS_DIR / plan["slug"] / f"{city_slug}.md"
+    if intro_file.is_file():
+        city_snippet = intro_file.read_text().strip()
+    elif city_page:
         city_snippet = city_page.meta.get("snippet") or ""
         if not city_snippet and city_page.body:
             first_para = re.split(r"\n\n+", city_page.body.strip())[0]
@@ -1504,6 +1509,7 @@ def api_research_submit(request):
     city_path  = body.get("city_path", "").strip().strip("/")
     city_title = body.get("city_title", "").strip()
     pois       = body.get("pois", [])
+    intro      = body.get("intro", "").strip()
 
     if not isinstance(pois, list) or not city_title:
         return JsonResponse({"error": "city_title and pois are required"}, status=400)
@@ -1520,6 +1526,12 @@ def api_research_submit(request):
     poi_prefix = f"{plan_slug}/{city_path}" if plan_slug else city_path
     city_dir = DRAFT_POIS_DIR / poi_prefix
     city_dir.mkdir(parents=True, exist_ok=True)
+
+    # Save intro text if provided
+    if intro and plan_slug and city_slug:
+        intro_dir = PLAN_INTROS_DIR / plan_slug
+        intro_dir.mkdir(parents=True, exist_ok=True)
+        (intro_dir / f"{city_slug}.md").write_text(intro)
 
     def _slugify(text):
         text = text.lower().strip()

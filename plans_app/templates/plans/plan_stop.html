@@ -21,8 +21,8 @@
   <div class="plan-stop-layout">
 
     <div class="plan-stop-left">
-      {% if city_snippet and stop.destination_url %}
-      <p class="plan-city-intro-text">{{ city_snippet }} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more →</a></p>
+      {% if city_snippet %}
+      <p class="plan-city-intro-text">{{ city_snippet }}{% if stop.destination_url %} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more →</a>{% endif %}</p>
       {% endif %}
       <div id="plan-stop-map"></div>
     </div>

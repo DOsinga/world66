@@ -509,14 +509,10 @@ body:has(.tabbi-page)::after {
   margin-bottom: 10px;
 }
 .plan-stop-left-city {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 700;
-  margin: 0 0 2px;
+  margin: 0;
   color: #180A0A;
-}
-.plan-stop-left-dates {
-  font-size: 0.8rem;
-  color: #888;
 }
 
 #plan-stop-map {

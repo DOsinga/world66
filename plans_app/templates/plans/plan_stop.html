@@ -12,12 +12,6 @@
     <span class="plan-breadcrumb-sep">›</span>
     <span>{{ stop.city }}</span>
   </nav>
-  <div class="plan-header">
-    <h1>{{ stop.city }}</h1>
-    {% if stop.dates %}<div class="plan-stop-dates-large">{{ stop.dates }}</div>{% endif %}
-    <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
-  </div>
-
   <div id="plan-stop-nav"
        data-prev="{% if prev_stop %}/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/{% endif %}"
        data-next="{% if next_stop %}/plans/{{ plan.slug }}/{{ next_stop.city_slug }}/{% endif %}"></div>
@@ -38,8 +32,7 @@
 
     <div class="plan-stop-left">
       <div class="plan-stop-left-header">
-        <h2 class="plan-stop-left-city">{{ stop.city }}</h2>
-        {% if stop.dates %}<div class="plan-stop-left-dates">{{ stop.dates }}</div>{% endif %}
+        <h1 class="plan-stop-left-city">{{ stop.city }}</h1>
       </div>
       {% if city_snippet %}
       <p class="plan-city-intro-text">{{ city_snippet }}{% if stop.destination_url %} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more on w66 →</a>{% endif %}</p>

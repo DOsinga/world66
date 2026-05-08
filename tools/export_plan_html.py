@@ -103,6 +103,22 @@ def inline_css_urls(css_text, css_url_path):
     return re.sub(r"url\(([^)]+)\)", replace_url, css_text)
 
 
+def extract_body(html):
+    """Extract the content between <body> and </body>, accounting for <body>
+    references inside CSS/script that would fool a naive regex."""
+    # Find </head> to skip past all head content (which may contain "<body>" in CSS comments)
+    head_end = html.lower().find("</head>")
+    search_from = head_end if head_end >= 0 else 0
+    body_open = re.search(r"<body[^>]*>", html[search_from:], re.IGNORECASE)
+    if not body_open:
+        return html
+    body_start = search_from + body_open.end()
+    body_close = html.lower().rfind("</body>")
+    if body_close < 0:
+        return html[body_start:]
+    return html[body_start:body_close]
+
+
 def process_html(html, base_url="/"):
     """Inline all CSS, JS, and images into the HTML."""
 
@@ -225,8 +241,10 @@ def build_standalone(slug, output_path):
         toc_items.append(f'<li><a href="#{anchor}">{title}</a></li>')
 
         # Extract body from inlined page, wrap in a div
-        body_m = re.search(r"<body[^>]*>(.*?)</body>", inlined, re.DOTALL | re.IGNORECASE)
-        body_content = body_m.group(1) if body_m else inlined
+        body_content = extract_body(inlined)
+
+        # Strip any <style> blocks that ended up in the body (e.g. from template rendering quirks)
+        body_content = re.sub(r"<style[^>]*>.*?</style>", "", body_content, flags=re.DOTALL)
 
         # Remove nav/footer for non-first sections to reduce repetition
         if i > 0:
@@ -253,9 +271,17 @@ def build_standalone(slug, output_path):
             f'</div>'
         )
 
-    # Get shared CSS/JS from first page
+    # Collect all <style> blocks from the first page (anywhere — head or body)
+    # and deduplicate by content so we don't repeat large CSS blobs.
     first_inlined = sections[0][2]
-    styles = "\n".join(re.findall(r"<style[^>]*>.*?</style>", first_inlined, re.DOTALL))
+    seen_styles = []
+    seen_hashes = set()
+    for m in re.finditer(r"<style[^>]*>(.*?)</style>", first_inlined, re.DOTALL):
+        h = hash(m.group(1).strip())
+        if h not in seen_hashes:
+            seen_hashes.add(h)
+            seen_styles.append(m.group(0))
+    styles = "\n".join(seen_styles)
 
     toc_html = f"""
     <div class="export-toc">

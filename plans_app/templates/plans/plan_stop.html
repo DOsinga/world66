@@ -11,6 +11,7 @@
     <a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a>
     <span class="plan-breadcrumb-sep">›</span>
     <span>{{ stop.city }}</span>
+    <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
   </nav>
   <div id="plan-stop-nav"
        data-prev="{% if prev_stop %}/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/{% endif %}"
@@ -167,15 +168,15 @@
         </div>
       </div>
       {% endif %}
+
+      <div class="plan-budget-section" id="plan-budget"
+           data-save-url="/plans/{{ plan.slug }}/{{ stop.city_slug }}/budget/"
+           data-csrf="{{ csrf_token }}"
+           data-budget="{{ budget_json }}">
+      </div>
     </div>
 
   </div>  {# end plan-stop-layout #}
-
-  <div class="plan-budget-section" id="plan-budget"
-       data-save-url="/plans/{{ plan.slug }}/{{ stop.city_slug }}/budget/"
-       data-csrf="{{ csrf_token }}"
-       data-budget="{{ budget_json }}">
-  </div>
 
 
 </div>

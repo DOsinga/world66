@@ -374,26 +374,13 @@ document.querySelectorAll('.plan-note-text').forEach(function(span) {
 // Link preview enrichment
 (function() {
   var BRANDS = {
-    'booking.com': {
-      color: '#003580', bg: '#e8f0fb',
-      label: 'Book on Booking.com',
-      icon: '<svg viewBox="0 0 32 32" width="28" height="28"><rect width="32" height="32" rx="6" fill="#003580"/><text x="5" y="23" font-size="16" font-weight="bold" font-family="sans-serif" fill="#fff">B.</text></svg>',
-    },
-    'airbnb.com': {
-      color: '#FF5A5F', bg: '#fff0f0',
-      label: 'View on Airbnb',
-      icon: '<svg viewBox="0 0 32 32" width="28" height="28"><rect width="32" height="32" rx="6" fill="#FF5A5F"/><path d="M16 5c-2 0-3.5 2.2-3.5 4.8 0 1.6.6 3 1.6 4L16 22l1.9-8.2c1-.9 1.6-2.4 1.6-4C19.5 7.2 18 5 16 5zm0 6a1.2 1.2 0 110-2.4A1.2 1.2 0 0116 11z" fill="#fff"/></svg>',
-    },
-    'hotels.com': {
-      color: '#d9232d', bg: '#fff0f0',
-      label: 'View on Hotels.com',
-      icon: '<svg viewBox="0 0 32 32" width="28" height="28"><rect width="32" height="32" rx="6" fill="#d9232d"/><rect x="6" y="13" width="20" height="12" rx="1" fill="#fff"/><path d="M6 13V10a5 5 0 0110 0v3" stroke="#fff" stroke-width="2" fill="none"/></svg>',
-    },
-    'hostelworld.com': {
-      color: '#f47920', bg: '#fff4ec',
-      label: 'View on Hostelworld',
-      icon: '<svg viewBox="0 0 32 32" width="28" height="28"><rect width="32" height="32" rx="6" fill="#f47920"/><circle cx="16" cy="16" r="8" fill="none" stroke="#fff" stroke-width="2"/></svg>',
-    },
+    'booking.com':    { label: 'Book on Booking.com',  icon: '🏨' },
+    'airbnb.com':     { label: 'View on Airbnb',       icon: '🏡' },
+    'airbnb.nl':      { label: 'View on Airbnb',       icon: '🏡' },
+    'airbnb.fr':      { label: 'View on Airbnb',       icon: '🏡' },
+    'hotels.com':     { label: 'View on Hotels.com',   icon: '🏨' },
+    'hostelworld.com':{ label: 'View on Hostelworld',  icon: '🎒' },
+    'expedia.com':    { label: 'View on Expedia',      icon: '✈️' },
   };
 
   function detectBrand(domain) {
@@ -449,11 +436,11 @@ document.querySelectorAll('.plan-note-text').forEach(function(span) {
   });
 
   function renderHotelCard(card, url, name, brand, desc, img) {
-    var html = '<div class="plan-hotel-card" style="--brand-color:' + brand.color + ';--brand-bg:' + brand.bg + '">';
+    var html = '<div class="plan-hotel-card">';
     if (img) {
       html += '<div class="plan-hotel-thumb" style="background-image:url(\'' + escHtml(img) + '\')"></div>';
     } else {
-      html += '<div class="plan-hotel-thumb plan-hotel-thumb-blank"><div class="plan-hotel-icon">' + brand.icon + '</div></div>';
+      html += '<div class="plan-hotel-thumb plan-hotel-thumb-blank"><span class="plan-hotel-icon">' + brand.icon + '</span></div>';
     }
     html += '<div class="plan-hotel-body">';
     html += '<div class="plan-hotel-name">' + escHtml(name) + '</div>';

@@ -61,5 +61,9 @@
   "city:~locations/salkantay-trek": [
     -13.4727094,
     -72.5535338
+  ],
+  "city:takeaway": [
+    41.3825802,
+    2.177073
   ]
 }

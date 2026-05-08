@@ -1565,3 +1565,46 @@ def api_research_submit(request):
             _plan_file_add(plan_slug, city_slug, draft_path)
 
     return JsonResponse({"written": written, "city_path": city_path})
+
+
+def api_mapillary_image(request):
+    """GET /api/mapillary-image?lat=X&lng=Y[&radius=50]
+    Proxy to Mapillary Graph API — keeps the access token server-side.
+    Returns {"url": "<thumb_url>"} or {"url": null}.
+    """
+    import urllib.request as _req
+    import urllib.parse as _up
+
+    token = os.environ.get("MAPILLARY_ACCESS_TOKEN", "")
+    if not token:
+        return JsonResponse({"url": None, "error": "no token"}, status=503)
+
+    try:
+        lat    = float(request.GET["lat"])
+        lng    = float(request.GET["lng"])
+        radius = float(request.GET.get("radius", 50))  # metres
+    except (KeyError, ValueError):
+        return JsonResponse({"url": None, "error": "lat and lng required"}, status=400)
+
+    # Convert radius to a tiny bbox
+    dlat = radius / 111_320
+    dlng = radius / (111_320 * abs(__import__("math").cos(__import__("math").radians(lat))) or 1)
+    bbox = f"{lng-dlng},{lat-dlat},{lng+dlng},{lat+dlat}"
+
+    params = _up.urlencode({
+        "access_token": token,
+        "fields":       "id,thumb_256_url",
+        "bbox":         bbox,
+        "limit":        1,
+    })
+    api_url = f"https://graph.mapillary.com/images?{params}"
+    try:
+        req = _req.Request(api_url, headers={"User-Agent": "tabbi/1.0"})
+        with _req.urlopen(req, timeout=4) as r:
+            data = json.loads(r.read())
+        items = data.get("data", [])
+        url = items[0]["thumb_256_url"] if items else None
+    except Exception:
+        url = None
+
+    return JsonResponse({"url": url})

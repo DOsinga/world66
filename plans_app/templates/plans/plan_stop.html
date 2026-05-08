@@ -31,9 +31,7 @@
       {% for item in stop.items %}
       {% if item.page and item.page.page_type == "vibe" %}
       <div class="plan-vibe-card">
-        {% if item.image_url %}
-        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
-        {% endif %}
+        <div class="plan-poi-image{% if not item.image_url %} plan-poi-image--empty{% endif %}"{% if item.image_url %} style="background-image: url('{{ item.image_url }}')"{% elif item.page.meta.latitude %} data-lat="{{ item.page.meta.latitude }}" data-lng="{{ item.page.meta.longitude }}"{% endif %}></div>
         <div class="plan-poi-body">
           <a class="plan-poi-title plan-vibe-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
           {% if item.page.meta.duration_hours %}<span class="plan-vibe-meta">~{{ item.page.meta.duration_hours }}h</span>{% endif %}
@@ -53,9 +51,7 @@
       </div>
       {% elif item.page and item.page.page_type == "trek" %}
       <div class="plan-trek-card">
-        {% if item.image_url %}
-        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
-        {% endif %}
+        <div class="plan-poi-image{% if not item.image_url %} plan-poi-image--empty{% endif %}"{% if item.image_url %} style="background-image: url('{{ item.image_url }}')"{% elif item.page.waypoints %} data-lat="{{ item.page.waypoints.0.lat }}" data-lng="{{ item.page.waypoints.0.lng }}"{% endif %}></div>
         <div class="plan-poi-body">
           <a class="plan-poi-title plan-trek-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
           {% if item.page.meta.distance_km %}<span class="plan-trek-meta">{{ item.page.meta.distance_km }} km</span>{% endif %}
@@ -97,9 +93,7 @@
       </div>
       {% else %}
       <div class="plan-poi-card">
-        {% if item.image_url %}
-        <div class="plan-poi-image" style="background-image: url('{{ item.image_url }}')"></div>
-        {% endif %}
+        <div class="plan-poi-image{% if not item.image_url %} plan-poi-image--empty{% endif %}"{% if item.image_url %} style="background-image: url('{{ item.image_url }}')"{% elif item.page and item.page.meta.latitude %} data-lat="{{ item.page.meta.latitude }}" data-lng="{{ item.page.meta.longitude }}"{% endif %}></div>
         <div class="plan-poi-body">
           {% if item.page %}
             <a class="plan-poi-title" href="{{ item.page.get_absolute_url }}">{{ item.page.title }}</a>
@@ -211,6 +205,25 @@
 })();
 </script>
 <script>
+// Mapillary lazy image loader
+(function() {
+  var slots = document.querySelectorAll('.plan-poi-image--empty[data-lat]');
+  if (!slots.length) return;
+  slots.forEach(function(el) {
+    var lat = el.dataset.lat, lng = el.dataset.lng;
+    if (!lat || !lng) return;
+    fetch('/api/mapillary-image?lat=' + lat + '&lng=' + lng)
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        if (data.url) {
+          el.style.backgroundImage = "url('" + data.url + "')";
+          el.classList.remove('plan-poi-image--empty');
+        }
+      })
+      .catch(function() {});
+  });
+})();
+
 document.querySelectorAll('.plan-note-text').forEach(function(span) {
   span.addEventListener('click', function() {
     var form = span.nextElementSibling;

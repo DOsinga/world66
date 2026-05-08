@@ -1,0 +1,344 @@
+/*
+ * Tab.bi — 50s Travel Poster Theme
+ * Toggle by adding class `poster-mode` to <body>
+ *
+ * Palette inspired by vintage lithographic travel posters:
+ *   Cream paper   #F5E6C2
+ *   Rust/Terra    #C4391C
+ *   Deep teal     #1A6B6B
+ *   Golden yellow #D4A017
+ *   Navy          #1A2744
+ *   Pale sky      #A8CADA
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Josefin+Sans:wght@400;600;700&display=swap');
+
+/* ── Root vars ───────────────────────────────────────────────────────────── */
+
+body.poster-mode {
+  background: #F5E6C2 !important;
+  font-family: 'Josefin Sans', 'Futura', sans-serif !important;
+  color: #1A2744 !important;
+}
+
+/* kill the animated blob background */
+body.poster-mode::before,
+body.poster-mode::after { display: none !important; }
+
+/* ── Toggle button ───────────────────────────────────────────────────────── */
+
+.poster-toggle {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 9999;
+  background: #C4391C;
+  color: #F5E6C2;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 0;
+  padding: 10px 18px;
+  cursor: pointer;
+  box-shadow: 3px 3px 0 #1A2744;
+  transition: none;
+}
+.poster-toggle:hover {
+  background: #1A2744;
+  box-shadow: 3px 3px 0 #C4391C;
+}
+
+/* ── Nav ─────────────────────────────────────────────────────────────────── */
+
+body.poster-mode .tabbi-nav {
+  background: #1A2744 !important;
+  border-bottom: 4px solid #C4391C !important;
+}
+body.poster-mode .tabbi-nav-logo-text { color: #D4A017 !important; }
+body.poster-mode .tabbi-nav-logo-dot  { color: #C4391C !important; }
+
+/* ── Page background ─────────────────────────────────────────────────────── */
+
+body.poster-mode .tabbi-page {
+  background: #F5E6C2 !important;
+}
+
+/* ── Breadcrumb ──────────────────────────────────────────────────────────── */
+
+body.poster-mode .plan-breadcrumb {
+  background: #1A2744 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  color: #A8CADA !important;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+body.poster-mode .plan-breadcrumb a { color: #D4A017 !important; }
+body.poster-mode .plan-breadcrumb a:hover { color: #F5E6C2 !important; }
+body.poster-mode .plan-breadcrumb-sep { color: #C4391C !important; }
+body.poster-mode .plan-breadcrumb span:last-of-type { color: #F5E6C2 !important; }
+body.poster-mode .plan-edit-link {
+  border: 2px solid #D4A017 !important;
+  color: #D4A017 !important;
+  border-radius: 0 !important;
+}
+body.poster-mode .plan-edit-link:hover { background: #D4A017 !important; color: #1A2744 !important; }
+
+/* ── Trip title / h1 ─────────────────────────────────────────────────────── */
+
+body.poster-mode .plan-header h1,
+body.poster-mode .plan-stop-left-city {
+  font-family: 'Alfa Slab One', Georgia, serif !important;
+  font-style: normal !important;
+  font-size: 3.2rem !important;
+  letter-spacing: -0.01em !important;
+  line-height: 1 !important;
+  background: none !important;
+  -webkit-text-fill-color: #C4391C !important;
+  color: #C4391C !important;
+  filter: none !important;
+  animation: none !important;
+  text-transform: uppercase !important;
+  text-shadow: 4px 4px 0 #1A2744 !important;
+}
+
+/* ── Destination tiles (overview grid) ───────────────────────────────────── */
+
+body.poster-mode .plan-dest-tile {
+  border-radius: 0 !important;
+  box-shadow: 6px 6px 0 #1A2744 !important;
+  overflow: hidden;
+  border: 3px solid #1A2744 !important;
+}
+body.poster-mode .plan-dest-tile::after {
+  display: none;
+}
+body.poster-mode .plan-dest-tile-overlay {
+  background: linear-gradient(to top, rgba(26,39,68,0.92) 40%, transparent 100%) !important;
+}
+body.poster-mode .plan-dest-tile-city {
+  font-family: 'Alfa Slab One', serif !important;
+  font-size: 1.3rem !important;
+  letter-spacing: 0.04em !important;
+  text-transform: uppercase !important;
+  color: #D4A017 !important;
+  text-shadow: 2px 2px 0 #1A2744 !important;
+}
+body.poster-mode .plan-dest-tile-dates,
+body.poster-mode .plan-dest-tile-count {
+  font-family: 'Josefin Sans', sans-serif !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  font-size: 0.7rem !important;
+  color: #A8CADA !important;
+}
+body.poster-mode .plan-dest-tile-num {
+  background: #C4391C !important;
+  border-radius: 0 !important;
+  font-family: 'Alfa Slab One', serif !important;
+  box-shadow: 2px 2px 0 #1A2744 !important;
+}
+body.poster-mode .plan-dest-tile-explore {
+  background: #D4A017 !important;
+  color: #1A2744 !important;
+  border-radius: 0 !important;
+  font-family: 'Josefin Sans', sans-serif !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  font-size: 0.7rem !important;
+}
+
+/* ── Images → illustration effect ───────────────────────────────────────── */
+
+body.poster-mode .plan-dest-tile-img,
+body.poster-mode .plan-poi-image,
+body.poster-mode .plan-hotel-thumb,
+body.poster-mode .plan-suggestion-tile-img {
+  filter: contrast(160%) saturate(30%) sepia(55%) brightness(0.95) !important;
+  mix-blend-mode: multiply;
+}
+body.poster-mode .plan-dest-tile-img::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(196,57,28,0.18);
+  mix-blend-mode: color;
+  pointer-events: none;
+}
+
+/* ── POI / vibe / trek cards ─────────────────────────────────────────────── */
+
+body.poster-mode .plan-poi-card,
+body.poster-mode .plan-vibe-card,
+body.poster-mode .plan-trek-card {
+  background: #F5E6C2 !important;
+  border: 2px solid #1A2744 !important;
+  border-radius: 0 !important;
+  box-shadow: 4px 4px 0 #1A2744 !important;
+}
+body.poster-mode .plan-poi-title,
+body.poster-mode .plan-vibe-title,
+body.poster-mode .plan-trek-title {
+  font-family: 'Alfa Slab One', serif !important;
+  font-size: 0.95rem !important;
+  letter-spacing: 0.02em !important;
+  color: #C4391C !important;
+  -webkit-text-fill-color: #C4391C !important;
+}
+body.poster-mode .plan-poi-snippet { color: #1A2744 !important; }
+body.poster-mode .plan-vibe-meta,
+body.poster-mode .plan-trek-meta {
+  background: #D4A017 !important;
+  color: #1A2744 !important;
+  border-radius: 0 !important;
+  font-family: 'Josefin Sans', sans-serif !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.08em !important;
+}
+
+/* ── Budget widget ───────────────────────────────────────────────────────── */
+
+body.poster-mode .plan-budget-section {
+  background: #1A2744 !important;
+  padding: 20px !important;
+  border: none !important;
+  box-shadow: 6px 6px 0 #C4391C !important;
+}
+body.poster-mode .plan-budget-heading {
+  font-family: 'Alfa Slab One', serif !important;
+  color: #D4A017 !important;
+  font-size: 0.9rem !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+}
+body.poster-mode .plan-budget-label { color: #A8CADA !important; }
+body.poster-mode .plan-budget-value,
+body.poster-mode .plan-budget-total { color: #F5E6C2 !important; }
+body.poster-mode .plan-budget-total-row { border-top: 1px solid #A8CADA !important; }
+body.poster-mode .plan-budget-currency { color: #D4A017 !important; }
+
+/* ── Hotel card ──────────────────────────────────────────────────────────── */
+
+body.poster-mode .plan-hotel-card {
+  background: #F5E6C2 !important;
+  border: 2px solid #1A2744 !important;
+  border-radius: 0 !important;
+  box-shadow: 4px 4px 0 #1A2744 !important;
+}
+body.poster-mode .plan-hotel-thumb-blank { background: #A8CADA !important; }
+body.poster-mode .plan-hotel-name { color: #1A2744 !important; }
+body.poster-mode .plan-hotel-cta {
+  color: #C4391C !important;
+  font-family: 'Josefin Sans', sans-serif !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+}
+
+/* ── Intro / city snippet ────────────────────────────────────────────────── */
+
+body.poster-mode .plan-city-intro {
+  background: #1A6B6B !important;
+  color: #F5E6C2 !important;
+  border-radius: 0 !important;
+  border: none !important;
+  border-left: 6px solid #D4A017 !important;
+  font-family: 'Josefin Sans', sans-serif !important;
+}
+body.poster-mode .plan-city-intro p { color: #F5E6C2 !important; }
+body.poster-mode .plan-city-readmore { color: #D4A017 !important; }
+
+/* ── Suggestions strip ───────────────────────────────────────────────────── */
+
+body.poster-mode .plan-suggestions { background: transparent !important; }
+body.poster-mode .plan-suggestions-heading {
+  font-family: 'Alfa Slab One', serif !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  color: #1A2744 !important;
+}
+body.poster-mode .plan-suggestion-tile {
+  border-radius: 0 !important;
+  border: 2px solid #1A2744 !important;
+  box-shadow: 3px 3px 0 #1A2744 !important;
+  background: #F5E6C2 !important;
+}
+body.poster-mode .plan-suggestion-title { color: #C4391C !important; }
+body.poster-mode .plan-suggestion-btn {
+  background: #D4A017 !important;
+  border-radius: 0 !important;
+  color: #1A2744 !important;
+  box-shadow: 2px 2px 0 #1A2744 !important;
+  font-weight: 700 !important;
+}
+
+/* ── Map ─────────────────────────────────────────────────────────────────── */
+
+body.poster-mode #plan-stop-map,
+body.poster-mode #plan-overview-map {
+  filter: sepia(70%) saturate(80%) contrast(110%) !important;
+  border: 4px solid #1A2744 !important;
+  border-radius: 0 !important;
+  box-shadow: 8px 8px 0 #C4391C !important;
+}
+
+/* ── Overview total budget ───────────────────────────────────────────────── */
+
+body.poster-mode .plan-total-budget {
+  background: #C4391C !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: 6px 6px 0 #1A2744 !important;
+  color: #F5E6C2 !important;
+}
+body.poster-mode .plan-budget-value-static { color: #F5E6C2 !important; }
+
+/* ── Prev/next arrows ────────────────────────────────────────────────────── */
+
+body.poster-mode .plan-stop-arrow {
+  background: #C4391C !important;
+  border: 2px solid #1A2744 !important;
+  border-radius: 0 !important;
+  box-shadow: 3px 3px 0 #1A2744 !important;
+  color: #F5E6C2 !important;
+}
+body.poster-mode .plan-stop-arrow-icon { color: #F5E6C2 !important; }
+
+/* ── Footer ──────────────────────────────────────────────────────────────── */
+
+body.poster-mode .tabbi-footer {
+  background: #1A2744 !important;
+  color: #F5E6C2 !important;
+  border-top: 4px solid #C4391C !important;
+}
+body.poster-mode .tabbi-footer-headline { color: #D4A017 !important; }
+body.poster-mode .tabbi-footer-sub,
+body.poster-mode .tabbi-footer-bottom { color: #A8CADA !important; }
+body.poster-mode .tabbi-footer-logo-text { color: #F5E6C2 !important; }
+body.poster-mode .tabbi-footer-logo-dot { color: #D4A017 !important; }
+body.poster-mode .tabbi-footer-fine { color: #A8CADA !important; }
+body.poster-mode .tabbi-footer-bottom { border-top: 1px solid #A8CADA !important; }
+body.poster-mode .tabbi-btn {
+  background: #C4391C !important;
+  color: #F5E6C2 !important;
+  border-radius: 0 !important;
+  box-shadow: 3px 3px 0 #F5E6C2 !important;
+}
+
+/* ── Decorative stamp element on tiles ──────────────────────────────────── */
+
+body.poster-mode .plan-dest-tile::before {
+  content: '✈';
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 5;
+  font-size: 1.4rem;
+  color: #D4A017;
+  text-shadow: 1px 1px 0 #1A2744;
+  pointer-events: none;
+}

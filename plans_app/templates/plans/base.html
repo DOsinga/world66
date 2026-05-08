@@ -3,6 +3,7 @@
 
 {% block body_style %}
 <link rel="stylesheet" href="{% static 'plans/css/tabbi.css' %}">
+<link rel="stylesheet" href="{% static 'plans/css/tabbi-poster.css' %}">
 {% endblock %}
 
 {% block head_extra %}
@@ -53,3 +54,16 @@
   </div>
 </footer>
 {% endblock footer %}
+
+<button class="poster-toggle" id="poster-toggle" title="Toggle 50s travel poster mode">🎨 Poster</button>
+<script>
+(function() {
+  var btn = document.getElementById('poster-toggle');
+  var key = 'tabbi-poster-mode';
+  if (localStorage.getItem(key) === '1') document.body.classList.add('poster-mode');
+  btn.addEventListener('click', function() {
+    var on = document.body.classList.toggle('poster-mode');
+    localStorage.setItem(key, on ? '1' : '0');
+  });
+})();
+</script>

@@ -379,7 +379,7 @@ def tool_research_city(city_title: str, city_path: str = "") -> str:
     if existing_pois:
         sections.append(f"### Places ({len(existing_pois)})\n{place_lines}")
     if not existing_pois and not existing_vibes and not existing_treks:
-        sections.append(f"Nothing in the guide yet for {city_title} — great opportunity to add fresh content.")
+        sections.append(f"Researching {city_title} now.")
     sections.append(
         "## Instructions\n"
         f"1. Call add_pois_to_plan with ALL paths above to add existing content to the plan.\n"

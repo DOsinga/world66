@@ -533,9 +533,25 @@ def _parse_stops(body, plan_slug):
                 from urllib.parse import urlparse as _urlparse
                 _p = _urlparse(text)
                 display_domain = _p.netloc.lstrip("www.")
-                display_path = (_p.path.rstrip("/").rsplit("/", 1)[-1].replace("-", " ").replace("_", " ").title()
-                                if _p.path and _p.path != "/" else "")
-                display_label = display_path or display_domain
+                # Parse hotel name from Booking/Airbnb URL paths
+                path_parts = [p for p in _p.path.rstrip("/").split("/") if p]
+                # booking.com: /hotel/<country>/<hotel-slug>.html
+                if "booking.com" in display_domain and "hotel" in path_parts:
+                    hi = path_parts.index("hotel")
+                    if hi + 2 < len(path_parts):
+                        raw = path_parts[hi + 2].replace("-", " ").replace("_", " ")
+                        raw = re.sub(r"\.[a-z]+$", "", raw)  # strip .html
+                        display_label = raw.title()
+                    else:
+                        display_label = display_domain
+                # airbnb: /rooms/<id>
+                elif "airbnb" in display_domain and "rooms" in path_parts:
+                    ri = path_parts.index("rooms")
+                    display_label = f"Airbnb #{path_parts[ri+1]}" if ri + 1 < len(path_parts) else "Airbnb listing"
+                else:
+                    display_path = (path_parts[-1].replace("-", " ").replace("_", " ").title()
+                                    if path_parts else "")
+                    display_label = display_path or display_domain
             elif text.startswith("~locations/"):
                 # Draft location reference — set city_path on the stop, don't add as item
                 if current["city_path"] is None:

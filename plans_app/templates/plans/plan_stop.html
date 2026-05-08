@@ -370,42 +370,95 @@ document.querySelectorAll('.plan-note-text').forEach(function(span) {
 
 // Link preview enrichment
 (function() {
-  var BRAND_ICONS = {
-    'booking': '<svg viewBox="0 0 24 24" width="18" height="18" fill="#003580"><text y="17" font-size="11" font-weight="bold" font-family="sans-serif">B.</text></svg>',
-    'airbnb':  '<svg viewBox="0 0 24 24" width="18" height="18" fill="#FF5A5F"><path d="M12 2C9.5 2 7.5 4.7 7.5 8c0 2 .8 3.8 2 5L12 22l2.5-9C15.7 11.8 16.5 10 16.5 8 16.5 4.7 14.5 2 12 2zm0 7.5a1.5 1.5 0 110-3 1.5 1.5 0 010 3z"/></svg>',
-    'hotels':  '<svg viewBox="0 0 24 24" width="18" height="18" fill="#d9232d"><rect x="3" y="10" width="18" height="11" rx="1"/><path d="M3 10V7a4 4 0 018 0v3"/></svg>',
-    'hostelworld': '<svg viewBox="0 0 24 24" width="18" height="18" fill="#f47920"><circle cx="12" cy="12" r="9" fill="none" stroke="#f47920" stroke-width="2"/></svg>',
+  var BRANDS = {
+    'booking.com': {
+      color: '#003580', bg: '#e8f0fb',
+      label: 'Book on Booking.com',
+      icon: '<svg viewBox="0 0 32 32" width="28" height="28"><rect width="32" height="32" rx="6" fill="#003580"/><text x="5" y="23" font-size="16" font-weight="bold" font-family="sans-serif" fill="#fff">B.</text></svg>',
+    },
+    'airbnb.com': {
+      color: '#FF5A5F', bg: '#fff0f0',
+      label: 'View on Airbnb',
+      icon: '<svg viewBox="0 0 32 32" width="28" height="28"><rect width="32" height="32" rx="6" fill="#FF5A5F"/><path d="M16 5c-2 0-3.5 2.2-3.5 4.8 0 1.6.6 3 1.6 4L16 22l1.9-8.2c1-.9 1.6-2.4 1.6-4C19.5 7.2 18 5 16 5zm0 6a1.2 1.2 0 110-2.4A1.2 1.2 0 0116 11z" fill="#fff"/></svg>',
+    },
+    'hotels.com': {
+      color: '#d9232d', bg: '#fff0f0',
+      label: 'View on Hotels.com',
+      icon: '<svg viewBox="0 0 32 32" width="28" height="28"><rect width="32" height="32" rx="6" fill="#d9232d"/><rect x="6" y="13" width="20" height="12" rx="1" fill="#fff"/><path d="M6 13V10a5 5 0 0110 0v3" stroke="#fff" stroke-width="2" fill="none"/></svg>',
+    },
+    'hostelworld.com': {
+      color: '#f47920', bg: '#fff4ec',
+      label: 'View on Hostelworld',
+      icon: '<svg viewBox="0 0 32 32" width="28" height="28"><rect width="32" height="32" rx="6" fill="#f47920"/><circle cx="16" cy="16" r="8" fill="none" stroke="#fff" stroke-width="2"/></svg>',
+    },
   };
+
+  function detectBrand(domain) {
+    for (var key in BRANDS) {
+      if (domain.endsWith(key)) return BRANDS[key];
+    }
+    return null;
+  }
+
+  function escHtml(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
 
   document.querySelectorAll('.plan-external-card').forEach(function(card) {
     var url = card.dataset.previewUrl;
     if (!url) return;
+    var fallbackLabel = (card.querySelector('.plan-external-label') || {}).textContent || '';
+    var fallbackDomain = (card.querySelector('.plan-external-domain') || {}).textContent || '';
+
+    // Detect brand immediately from URL for instant render
+    try {
+      var domain = new URL(url).hostname.replace(/^www\./, '');
+      var brand = detectBrand(domain);
+      if (brand) {
+        renderHotelCard(card, url, fallbackLabel, brand, null, null);
+      }
+    } catch(e) {}
+
+    // Then try to enrich with real data
     fetch('/api/link-preview?url=' + encodeURIComponent(url))
       .then(function(r) { return r.json(); })
       .then(function(d) {
-        var brand = d.brand || '';
-        var icon = BRAND_ICONS[brand] || '';
-        var title = d.title || card.querySelector('.plan-external-label').textContent;
+        var domain = d.domain || fallbackDomain;
+        var brand = detectBrand(domain);
+        var title = d.title || fallbackLabel;
         var desc = d.description || '';
         var img = d.image || '';
-        var domain = d.domain || card.querySelector('.plan-external-domain').textContent;
-
-        var html = '';
-        if (img) html += '<div class="plan-link-thumb" style="background-image:url(\'' + img + '\')"></div>';
-        html += '<div class="plan-link-body">';
-        html += '<div class="plan-link-title">' + (icon ? '<span class="plan-link-icon">' + icon + '</span>' : '') +
-          '<a href="' + url + '" target="_blank" rel="noopener">' + escHtml(title) + ' <span class="plan-link-arrow">↗</span></a></div>';
-        if (desc) html += '<p class="plan-link-desc">' + escHtml(desc.substring(0,120)) + '</p>';
-        html += '<span class="plan-link-domain">' + escHtml(domain) + '</span>';
-        html += '</div>';
-        card.innerHTML = html;
-        card.classList.add('plan-link-enriched');
+        if (brand) {
+          renderHotelCard(card, url, title, brand, desc, img);
+        } else {
+          // Generic enriched link
+          var html = '';
+          if (img) html += '<div class="plan-link-thumb" style="background-image:url(\'' + escHtml(img) + '\')"></div>';
+          html += '<div class="plan-link-body">';
+          html += '<div class="plan-link-title"><a href="' + escHtml(url) + '" target="_blank" rel="noopener">' + escHtml(title) + ' <span class="plan-link-arrow">↗</span></a></div>';
+          if (desc) html += '<p class="plan-link-desc">' + escHtml(desc.substring(0,120)) + '</p>';
+          html += '<span class="plan-link-domain">' + escHtml(domain) + '</span></div>';
+          card.innerHTML = html;
+          card.classList.add('plan-link-enriched');
+        }
       })
       .catch(function() {});
   });
 
-  function escHtml(s) {
-    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  function renderHotelCard(card, url, name, brand, desc, img) {
+    var html = '<div class="plan-hotel-card" style="--brand-color:' + brand.color + ';--brand-bg:' + brand.bg + '">';
+    if (img) {
+      html += '<div class="plan-hotel-thumb" style="background-image:url(\'' + escHtml(img) + '\')"></div>';
+    } else {
+      html += '<div class="plan-hotel-thumb plan-hotel-thumb-blank"><div class="plan-hotel-icon">' + brand.icon + '</div></div>';
+    }
+    html += '<div class="plan-hotel-body">';
+    html += '<div class="plan-hotel-name">' + escHtml(name) + '</div>';
+    if (desc) html += '<p class="plan-hotel-desc">' + escHtml(desc.substring(0, 100)) + '</p>';
+    html += '<a class="plan-hotel-cta" href="' + escHtml(url) + '" target="_blank" rel="noopener">' + brand.label + ' ↗</a>';
+    html += '</div></div>';
+    card.innerHTML = html;
+    card.classList.add('plan-hotel-enriched');
   }
 })();
 </script>

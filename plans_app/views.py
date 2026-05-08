@@ -1586,25 +1586,24 @@ def api_mapillary_image(request):
     except (KeyError, ValueError):
         return JsonResponse({"url": None, "error": "lat and lng required"}, status=400)
 
-    # Convert radius to a tiny bbox
-    dlat = radius / 111_320
-    dlng = radius / (111_320 * abs(__import__("math").cos(__import__("math").radians(lat))) or 1)
-    bbox = f"{lng-dlng},{lat-dlat},{lng+dlng},{lat+dlat}"
+    _math = __import__("math")
 
-    params = _up.urlencode({
-        "access_token": token,
-        "fields":       "id,thumb_256_url",
-        "bbox":         bbox,
-        "limit":        1,
-    })
-    api_url = f"https://graph.mapillary.com/images?{params}"
+    def _fetch(r):
+        dl = r / 111_320
+        dln = r / (111_320 * (_math.cos(_math.radians(lat)) or 0.001))
+        bb = f"{lng-dln},{lat-dl},{lng+dln},{lat+dl}"
+        p = _up.urlencode({"access_token": token, "fields": "id,thumb_256_url", "bbox": bb, "limit": 5})
+        req = _req.Request(f"https://graph.mapillary.com/images?{p}", headers={"User-Agent": "tabbi/1.0"})
+        with _req.urlopen(req, timeout=4) as resp:
+            return json.loads(resp.read()).get("data", [])
+
     try:
-        req = _req.Request(api_url, headers={"User-Agent": "tabbi/1.0"})
-        with _req.urlopen(req, timeout=4) as r:
-            data = json.loads(r.read())
-        items = data.get("data", [])
-        url = items[0]["thumb_256_url"] if items else None
+        items = _fetch(radius)
+        # Widen search if sparse coverage
+        if len(items) < 2:
+            items = _fetch(radius * 4) or items
+        urls = [it["thumb_256_url"] for it in items if it.get("thumb_256_url")]
     except Exception:
-        url = None
+        urls = []
 
-    return JsonResponse({"url": url})
+    return JsonResponse({"urls": urls})

@@ -205,7 +205,7 @@
 })();
 </script>
 <script>
-// Mapillary lazy image loader
+// Mapillary slideshow loader
 (function() {
   var slots = document.querySelectorAll('.plan-poi-image--empty[data-lat]');
   if (!slots.length) return;
@@ -215,10 +215,35 @@
     fetch('/api/mapillary-image?lat=' + lat + '&lng=' + lng)
       .then(function(r) { return r.json(); })
       .then(function(data) {
-        if (data.url) {
-          el.style.backgroundImage = "url('" + data.url + "')";
-          el.classList.remove('plan-poi-image--empty');
+        var urls = data.urls || [];
+        if (!urls.length) return;
+        el.classList.remove('plan-poi-image--empty');
+        if (urls.length === 1) {
+          el.style.backgroundImage = "url('" + urls[0] + "')";
+          return;
         }
+        // Slideshow
+        var idx = 0;
+        el.style.backgroundImage = "url('" + urls[0] + "')";
+        el.style.cursor = 'pointer';
+        // Dots
+        var dots = document.createElement('div');
+        dots.className = 'plan-poi-slide-dots';
+        urls.forEach(function(_, i) {
+          var d = document.createElement('span');
+          d.className = 'plan-poi-slide-dot' + (i === 0 ? ' active' : '');
+          dots.appendChild(d);
+        });
+        el.appendChild(dots);
+        function goTo(n) {
+          idx = (n + urls.length) % urls.length;
+          el.style.backgroundImage = "url('" + urls[idx] + "')";
+          dots.querySelectorAll('.plan-poi-slide-dot').forEach(function(d, i) {
+            d.classList.toggle('active', i === idx);
+          });
+        }
+        el.addEventListener('click', function() { goTo(idx + 1); });
+        setInterval(function() { goTo(idx + 1); }, 4000);
       })
       .catch(function() {});
   });

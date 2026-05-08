@@ -598,6 +598,29 @@ body:has(.tabbi-page) {
   background: linear-gradient(135deg, #FFD966, #F4B028);
   background-size: cover;
   background-position: center;
+  position: relative;
+  overflow: hidden;
+  transition: background-image 0.4s ease;
+}
+.plan-poi-image--empty {
+  background: #f0ede8;
+}
+.plan-poi-slide-dots {
+  position: absolute;
+  bottom: 4px;
+  left: 0; right: 0;
+  display: flex;
+  justify-content: center;
+  gap: 3px;
+  pointer-events: none;
+}
+.plan-poi-slide-dot {
+  width: 4px; height: 4px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.5);
+}
+.plan-poi-slide-dot.active {
+  background: #fff;
 }
 
 .plan-poi-body { flex: 1; min-width: 0; }

@@ -29,7 +29,7 @@ body:has(.tabbi-page) {
     radial-gradient(ellipse 80% 60% at 10% 0%, #FFE0A0 0%, transparent 60%),
     radial-gradient(ellipse 60% 50% at 95% 5%, #FFB3C6 0%, transparent 55%),
     radial-gradient(ellipse 50% 40% at 80% 90%, #A8E6CF 0%, transparent 55%),
-    radial-gradient(ellipse 60% 50% at 0% 80%, #BAD7FF 0%, transparent 55%),
+    radial-gradient(ellipse 60% 50% at 0% 80%, #B8F0D0 0%, transparent 55%),
     radial-gradient(ellipse 40% 35% at 50% 50%, #FFF0C2 0%, transparent 60%),
     #FFF8F0;
   background-attachment: fixed;
@@ -1425,32 +1425,49 @@ body:has(.tabbi-page) {
   cursor: pointer;
 }
 
-/* Stop prev/next navigation */
-.plan-stop-nav {
+/* Stop prev/next floating arrows */
+.plan-stop-arrow {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
   display: flex;
-  justify-content: space-between;
-  margin: 0 0 20px;
-  gap: 8px;
-}
-.plan-stop-nav-btn {
-  display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 5px;
-  padding: 7px 14px;
-  border-radius: 20px;
-  background: #f3f1ee;
-  color: #444;
-  font-size: 0.85rem;
+  gap: 6px;
+  padding: 14px 10px;
+  background: rgba(255,255,255,0.82);
+  backdrop-filter: blur(8px);
+  border-radius: 14px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.10);
   text-decoration: none;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 48%;
-  transition: background 0.15s;
+  color: #333;
+  z-index: 100;
+  transition: background 0.15s, box-shadow 0.15s;
+  max-width: 60px;
 }
-.plan-stop-nav-btn:hover { background: #e8e4de; color: #111; }
-.plan-stop-nav-disabled { color: #ccc; pointer-events: none; background: transparent; }
-.plan-stop-nav-next { margin-left: auto; }
+.plan-stop-arrow:hover {
+  background: rgba(255,255,255,0.97);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  color: #111;
+}
+.plan-stop-arrow-prev { left: 10px; }
+.plan-stop-arrow-next { right: 10px; }
+.plan-stop-arrow-icon {
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #F4B028;
+}
+.plan-stop-arrow-label {
+  font-size: 0.62rem;
+  text-align: center;
+  line-height: 1.3;
+  word-break: break-word;
+  color: #666;
+}
+@media (max-width: 600px) {
+  .plan-stop-arrow { padding: 12px 8px; }
+  .plan-stop-arrow-label { display: none; }
+}
 
 /* Budget widget */
 .plan-budget-section {

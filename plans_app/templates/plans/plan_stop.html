@@ -18,18 +18,21 @@
     <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
   </div>
 
-  <nav class="plan-stop-nav" id="plan-stop-nav"
+  <div id="plan-stop-nav"
        data-prev="{% if prev_stop %}/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/{% endif %}"
-       data-next="{% if next_stop %}/plans/{{ plan.slug }}/{{ next_stop.city_slug }}/{% endif %}">
-    <a class="plan-stop-nav-btn plan-stop-nav-prev{% if not prev_stop %} plan-stop-nav-disabled{% endif %}"
-       {% if prev_stop %}href="/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/"{% endif %}>
-      ‹ {% if prev_stop %}{{ prev_stop.city }}{% endif %}
-    </a>
-    <a class="plan-stop-nav-btn plan-stop-nav-next{% if not next_stop %} plan-stop-nav-disabled{% endif %}"
-       {% if next_stop %}href="/plans/{{ plan.slug }}/{{ next_stop.city_slug }}/"{% endif %}>
-      {% if next_stop %}{{ next_stop.city }}{% endif %} ›
-    </a>
-  </nav>
+       data-next="{% if next_stop %}/plans/{{ plan.slug }}/{{ next_stop.city_slug }}/{% endif %}"></div>
+  {% if prev_stop %}
+  <a class="plan-stop-arrow plan-stop-arrow-prev" href="/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/" title="{{ prev_stop.city }}">
+    <span class="plan-stop-arrow-icon">‹</span>
+    <span class="plan-stop-arrow-label">{{ prev_stop.city }}</span>
+  </a>
+  {% endif %}
+  {% if next_stop %}
+  <a class="plan-stop-arrow plan-stop-arrow-next" href="/plans/{{ plan.slug }}/{{ next_stop.city_slug }}/" title="{{ next_stop.city }}">
+    <span class="plan-stop-arrow-label">{{ next_stop.city }}</span>
+    <span class="plan-stop-arrow-icon">›</span>
+  </a>
+  {% endif %}
 
   <div class="plan-stop-layout">
 

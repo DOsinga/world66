@@ -32,9 +32,21 @@ class DraftPage:
         poi_rel = self.path[len("~pois/"):]  # strip ~pois/ prefix
         return f"/plans/draft-poi/{poi_rel}/"
 
+import logging
 import sqlite3
 from django.conf import settings as _settings
 _SEARCH_DB = Path(_settings.BASE_DIR) / "search.db"
+_SEARCH_LOG = Path(_settings.BASE_DIR) / "logs" / "search.log"
+_SEARCH_LOG.parent.mkdir(exist_ok=True)
+
+_search_logger = logging.getLogger("w66.search")
+if not _search_logger.handlers:
+    _h = logging.FileHandler(_SEARCH_LOG)
+    _h.setFormatter(logging.Formatter("%(asctime)s %(message)s", datefmt="%Y-%m-%d %H:%M:%S"))
+    _search_logger.addHandler(_h)
+    _search_logger.setLevel(logging.DEBUG)
+    _search_logger.propagate = False
+
 
 def resolve_location_name(name: str):
     """Resolve a free-text city name to a content path via the search index.
@@ -43,6 +55,7 @@ def resolve_location_name(name: str):
     US sub-state cities are deprioritised unless the name contains a US hint.
     """
     if not _SEARCH_DB.is_file():
+        _search_logger.warning("QUERY %r  db_missing", name)
         return None
     conn = sqlite3.connect(f"file:{_SEARCH_DB}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
@@ -50,14 +63,17 @@ def resolve_location_name(name: str):
         words = name.split()
         parts = ['"' + w.replace('"', '""') + '"' for w in words[:-1]]
         parts.append('"' + words[-1].replace('"', '""') + '"*')
+        fts_query = " ".join(parts)
         rows = conn.execute(
             """SELECT url_path, title FROM docs
                WHERE docs MATCH ? AND page_type='location'
                ORDER BY CASE WHEN lower(title)=lower(?) THEN 0 ELSE 1 END
                LIMIT 20""",
-            (" ".join(parts), name),
+            (fts_query, name),
         ).fetchall()
+
         if not rows:
+            _search_logger.info("QUERY %r  fts=%r  no_results", name, fts_query)
             return None
 
         name_lower = name.lower()
@@ -66,24 +82,31 @@ def resolve_location_name(name: str):
 
         best_path = None
         best_score = None
+        scored = []
         for row in rows:
             path = row["url_path"]
             title = row["title"]
             depth = path.count("/")
             exact = 1 if title.lower() == name_lower else 0
-            # Penalise US sub-state paths (depth ≥ 4 under northamerica/unitedstates)
-            # unless caller hinted at USA
             us_penalty = 0
             if not us_hint and path.startswith("northamerica/unitedstates/") and depth >= 4:
                 us_penalty = 10
-            # Lower score = better: reward exact match and shallower paths
             score = (0 if exact else 2) + depth + us_penalty
+            scored.append((score, path, title))
             if best_score is None or score < best_score:
                 best_score = score
                 best_path = path
 
+        scored.sort(key=lambda x: x[0])
+        candidates = "  |  ".join(f"{p} ({t!r}, score={s})" for s, p, t in scored[:5])
+        _search_logger.info(
+            "QUERY %r  fts=%r  us_hint=%s  winner=%r  candidates=[%s]",
+            name, fts_query, us_hint, best_path, candidates,
+        )
+
         return best_path
-    except Exception:
+    except Exception as exc:
+        _search_logger.exception("QUERY %r  error: %s", name, exc)
         return None
     finally:
         conn.close()

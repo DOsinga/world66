@@ -1418,6 +1418,33 @@ body:has(.tabbi-page) {
   cursor: pointer;
 }
 
+/* Stop prev/next navigation */
+.plan-stop-nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 20px;
+  gap: 8px;
+}
+.plan-stop-nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 7px 14px;
+  border-radius: 20px;
+  background: #f3f1ee;
+  color: #444;
+  font-size: 0.85rem;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 48%;
+  transition: background 0.15s;
+}
+.plan-stop-nav-btn:hover { background: #e8e4de; color: #111; }
+.plan-stop-nav-disabled { color: #ccc; pointer-events: none; background: transparent; }
+.plan-stop-nav-next { margin-left: auto; }
+
 /* Budget widget */
 .plan-budget-section {
   margin: 28px 0 8px;

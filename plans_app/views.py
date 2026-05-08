@@ -840,9 +840,13 @@ def plan_stop(request, slug, city_slug):
     if not plan:
         raise Http404
     # Collect all stops for this city (same city may appear multiple times in a plan)
-    stop = next((s for s in plan["stops"] if s["city_slug"] == city_slug), None)
-    if not stop:
+    stops = plan["stops"]
+    stop_index = next((i for i, s in enumerate(stops) if s["city_slug"] == city_slug), None)
+    if stop_index is None:
         raise Http404
+    stop = stops[stop_index]
+    prev_stop = stops[stop_index - 1] if stop_index > 0 else None
+    next_stop = stops[stop_index + 1] if stop_index < len(stops) - 1 else None
     markers = _stop_markers(stop)
     city_page = _load_city_page(stop.get("city_path"))
     if not markers:
@@ -995,6 +999,8 @@ def plan_stop(request, slug, city_slug):
         "suggestions": suggestions,
         "budget": stop_budget,
         "budget_json": mark_safe(json.dumps(stop_budget)),
+        "prev_stop": prev_stop,
+        "next_stop": next_stop,
     })
 
 

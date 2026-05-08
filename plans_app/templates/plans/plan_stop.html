@@ -18,6 +18,19 @@
     <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">Edit</a>
   </div>
 
+  <nav class="plan-stop-nav" id="plan-stop-nav"
+       data-prev="{% if prev_stop %}/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/{% endif %}"
+       data-next="{% if next_stop %}/plans/{{ plan.slug }}/{{ next_stop.city_slug }}/{% endif %}">
+    <a class="plan-stop-nav-btn plan-stop-nav-prev{% if not prev_stop %} plan-stop-nav-disabled{% endif %}"
+       {% if prev_stop %}href="/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/"{% endif %}>
+      ‹ {% if prev_stop %}{{ prev_stop.city }}{% endif %}
+    </a>
+    <a class="plan-stop-nav-btn plan-stop-nav-next{% if not next_stop %} plan-stop-nav-disabled{% endif %}"
+       {% if next_stop %}href="/plans/{{ plan.slug }}/{{ next_stop.city_slug }}/"{% endif %}>
+      {% if next_stop %}{{ next_stop.city }}{% endif %} ›
+    </a>
+  </nav>
+
   <div class="plan-stop-layout">
 
     <div class="plan-stop-left">
@@ -326,6 +339,26 @@ document.querySelectorAll('.plan-note-text').forEach(function(span) {
   }
 
   render();
+})();
+
+// Swipe left/right to navigate between stops
+(function() {
+  var nav = document.getElementById('plan-stop-nav');
+  if (!nav) return;
+  var prev = nav.dataset.prev;
+  var next = nav.dataset.next;
+  var startX = null;
+  document.addEventListener('touchstart', function(e) {
+    startX = e.touches[0].clientX;
+  }, {passive: true});
+  document.addEventListener('touchend', function(e) {
+    if (startX === null) return;
+    var dx = e.changedTouches[0].clientX - startX;
+    startX = null;
+    if (Math.abs(dx) < 60) return;
+    if (dx < 0 && next) window.location = next;   // swipe left → next
+    if (dx > 0 && prev) window.location = prev;   // swipe right → prev
+  }, {passive: true});
 })();
 
 // Link preview enrichment

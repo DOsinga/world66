@@ -825,7 +825,21 @@ def plan_stop(request, slug, city_slug):
     plan = _parse_plan(PLANS_DIR / f"{slug}.md")
     if not plan:
         raise Http404
-    stop = next((s for s in plan["stops"] if s["city_slug"] == city_slug), None)
+    # Collect all stops for this city (same city may appear multiple times in a plan)
+    city_stops = [s for s in plan["stops"] if s["city_slug"] == city_slug]
+    if not city_stops:
+        raise Http404
+    stop = city_stops[0]
+    # Merge items from all same-city stops so /cuzco/ shows everything for Cuzco
+    if len(city_stops) > 1:
+        import copy
+        stop = copy.deepcopy(city_stops[0])
+        seen_texts = {item["text"] for item in stop["items"]}
+        for extra in city_stops[1:]:
+            for item in extra["items"]:
+                if item["text"] not in seen_texts:
+                    stop["items"].append(item)
+                    seen_texts.add(item["text"])
     if not stop:
         raise Http404
     markers = _stop_markers(stop)
@@ -1374,7 +1388,8 @@ def api_plan_create(request):
         content_lines.append(f"## {r['city_title']} | {r['date_str']}")
         if r["notes"]:
             content_lines.append(f"- {r['notes']}")
-        if r["city_path"]:
+        # Only write ~locations/ bullets — real content paths are resolved at render time
+        if r["city_path"] and r["city_path"].startswith("~locations/"):
             content_lines.append(f"- {r['city_path']}")
         content_lines.append("")
 

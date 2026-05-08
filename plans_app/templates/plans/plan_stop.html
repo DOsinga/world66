@@ -21,6 +21,10 @@
   <div class="plan-stop-layout">
 
     <div class="plan-stop-left">
+      <div class="plan-stop-hero{% if not city_image_url %} plan-poi-image--empty{% endif %}"
+        {% if city_image_url %}style="background-image:url('{{ city_image_url }}')"
+        {% elif city_coords %}data-lat="{{ city_coords.0 }}" data-lng="{{ city_coords.1 }}" data-radius="2000"{% endif %}
+      ></div>
       {% if city_snippet and stop.destination_url %}
       <p class="plan-city-intro-text">{{ city_snippet }} <a href="{{ stop.destination_url }}" class="plan-city-readmore">Read more →</a></p>
       {% endif %}
@@ -207,17 +211,20 @@
 <script>
 // Mapillary slideshow loader
 (function() {
-  var slots = document.querySelectorAll('.plan-poi-image--empty[data-lat]');
+  var slots = document.querySelectorAll('[data-lat].plan-poi-image--empty, [data-lat].plan-stop-hero');
   if (!slots.length) return;
   slots.forEach(function(el) {
     var lat = el.dataset.lat, lng = el.dataset.lng;
     if (!lat || !lng) return;
-    fetch('/api/mapillary-image?lat=' + lat + '&lng=' + lng)
+    var qs = '/api/mapillary-image?lat=' + lat + '&lng=' + lng;
+    if (el.dataset.radius) qs += '&radius=' + el.dataset.radius;
+    fetch(qs)
       .then(function(r) { return r.json(); })
       .then(function(data) {
         var urls = data.urls || [];
         if (!urls.length) return;
         el.classList.remove('plan-poi-image--empty');
+        el.removeAttribute('data-lat'); el.removeAttribute('data-lng');
         if (urls.length === 1) {
           el.style.backgroundImage = "url('" + urls[0] + "')";
           return;

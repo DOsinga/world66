@@ -971,6 +971,13 @@ def plan_stop(request, slug, city_slug):
                     "waypoints": wps,
                 })
 
+    # City coords for Mapillary hero fallback
+    city_coords = None
+    if not city_image_url:
+        coords = _city_coords(stop)
+        if coords:
+            city_coords = coords
+
     return render(request, "plans/plan_stop.html", {
         "plan": plan,
         "stop": stop,
@@ -978,6 +985,7 @@ def plan_stop(request, slug, city_slug):
         "trek_routes": mark_safe(json.dumps(trek_routes)),
         "city_snippet": city_snippet,
         "city_image_url": city_image_url,
+        "city_coords": city_coords,
         "suggestions": suggestions,
     })
 

@@ -25,15 +25,46 @@
 /* ── Reset world66 styles for plan pages ─────────────────────────────────── */
 
 body:has(.tabbi-page) {
-  background:
-    radial-gradient(ellipse 80% 60% at 10% 0%, #FFE0A0 0%, transparent 60%),
-    radial-gradient(ellipse 60% 50% at 95% 5%, #FFB3C6 0%, transparent 55%),
-    radial-gradient(ellipse 50% 40% at 80% 90%, #A8E6CF 0%, transparent 55%),
-    radial-gradient(ellipse 60% 50% at 0% 80%, #B8F0D0 0%, transparent 55%),
-    radial-gradient(ellipse 40% 35% at 50% 50%, #FFF0C2 0%, transparent 60%),
-    #FFF8F0;
-  background-attachment: fixed;
+  background: #FFF8F0;
   font-family: 'Lexend Exa', sans-serif;
+}
+body:has(.tabbi-page)::before,
+body:has(.tabbi-page)::after {
+  content: '';
+  position: fixed;
+  inset: -50%;
+  width: 200%;
+  height: 200%;
+  z-index: -1;
+  pointer-events: none;
+}
+body:has(.tabbi-page)::before {
+  background:
+    radial-gradient(ellipse 45% 35% at 20% 20%, #FFE080 0%, transparent 55%),
+    radial-gradient(ellipse 40% 30% at 80% 15%, #FFCC66 0%, transparent 50%),
+    radial-gradient(ellipse 45% 35% at 75% 80%, #A8E6CF 0%, transparent 55%),
+    radial-gradient(ellipse 40% 30% at 15% 75%, #B8F4D8 0%, transparent 50%),
+    radial-gradient(ellipse 35% 30% at 50% 50%, #FFF0B0 0%, transparent 55%);
+  animation: tabbi-blob-a 12s ease-in-out infinite alternate;
+}
+body:has(.tabbi-page)::after {
+  background:
+    radial-gradient(ellipse 40% 30% at 65% 30%, #FFD060 0%, transparent 50%),
+    radial-gradient(ellipse 35% 28% at 30% 65%, #90E8C0 0%, transparent 50%),
+    radial-gradient(ellipse 38% 28% at 85% 60%, #C8F5A0 0%, transparent 50%);
+  animation: tabbi-blob-b 16s ease-in-out infinite alternate;
+}
+@keyframes tabbi-blob-a {
+  0%   { transform: translate(0, 0) rotate(0deg) scale(1); }
+  33%  { transform: translate(3%, 4%) rotate(4deg) scale(1.04); }
+  66%  { transform: translate(-4%, 2%) rotate(-3deg) scale(0.97); }
+  100% { transform: translate(2%, -3%) rotate(5deg) scale(1.03); }
+}
+@keyframes tabbi-blob-b {
+  0%   { transform: translate(0, 0) rotate(0deg) scale(1); }
+  33%  { transform: translate(-5%, -3%) rotate(-5deg) scale(1.05); }
+  66%  { transform: translate(3%, -5%) rotate(4deg) scale(0.96); }
+  100% { transform: translate(-2%, 4%) rotate(-4deg) scale(1.04); }
 }
 
 /* Hide world66 nav fully (replaced by tabbi-nav) */

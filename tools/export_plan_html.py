@@ -258,6 +258,19 @@ def build_standalone(slug, output_path):
         body_content = body_content.replace("'plan-stop-map'", f"'{map_id}'")
         body_content = body_content.replace("'plan-overview-map'", f"'{map_id}'")
 
+        # Register map instance in global registry so IntersectionObserver can
+        # call invalidateSize() when the section scrolls into view.
+        body_content = re.sub(
+            r"(const map = L\.map\('" + re.escape(map_id) + r"')",
+            r"window._exportMaps = window._exportMaps || {}; \1",
+            body_content,
+        )
+        body_content = re.sub(
+            r"(const map = L\.map\('" + re.escape(map_id) + r"'[^;]+;)",
+            r"\1 window._exportMaps['" + map_id + r"'] = map;",
+            body_content,
+        )
+
         # Remove duplicate Leaflet CDN script tags (keep only first)
         if i > 0:
             body_content = re.sub(
@@ -307,11 +320,37 @@ def build_standalone(slug, output_path):
 .export-section:first-child {{ border-top:none; margin-top:0; }}
 .export-section-divider {{ text-align:center; color:#b8960a; font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; font-family:'Lexend Exa',sans-serif; margin-bottom:8px; }}
 #plan-stop-map, #plan-overview-map {{ height:300px !important; }}
+[id^="map-section-"] {{ height:300px !important; }}
 </style>
 </head>
 <body>
 {toc_html}
 {''.join(page_divs)}
+<script>
+// Invalidate each Leaflet map when it first scrolls into view,
+// so tiles load correctly in the combined single-page export.
+(function() {{
+  var maps = window._exportMaps || {{}};
+  if (!window.IntersectionObserver) {{
+    // Fallback: just invalidate all immediately
+    Object.values(maps).forEach(function(m) {{ m.invalidateSize(); }});
+    return;
+  }}
+  var observer = new IntersectionObserver(function(entries) {{
+    entries.forEach(function(entry) {{
+      if (entry.isIntersecting) {{
+        var m = maps[entry.target.id];
+        if (m) {{ setTimeout(function() {{ m.invalidateSize(); }}, 50); }}
+        observer.unobserve(entry.target);
+      }}
+    }});
+  }}, {{ threshold: 0.01 }});
+  Object.keys(maps).forEach(function(id) {{
+    var el = document.getElementById(id);
+    if (el) observer.observe(el);
+  }});
+}})();
+</script>
 </body>
 </html>"""
 

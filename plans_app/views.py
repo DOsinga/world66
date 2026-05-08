@@ -495,7 +495,16 @@ def _parse_stops(body, plan_slug):
                     if not city_path and "," in city_part:
                         city_path = resolve_location_name(city_name)
             # Slug must be URL-safe: strip commas and other non-slug chars
-            city_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
+            base_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
+            # Deduplicate slugs for repeated visits: cuzco, cuzco-2, cuzco-3, …
+            used_slugs = {s["city_slug"] for s in stops}
+            if base_slug not in used_slugs:
+                city_slug = base_slug
+            else:
+                n = 2
+                while f"{base_slug}-{n}" in used_slugs:
+                    n += 1
+                city_slug = f"{base_slug}-{n}"
             current = {
                 "city": city_name,
                 "city_slug": city_slug,
@@ -1363,10 +1372,26 @@ def api_plan_create(request):
 
     PLANS_DIR.mkdir(exist_ok=True)
 
+    # Deduplicate city slugs (same city visited twice → cuzco, cuzco-2, …)
+    used_slugs: dict = {}
+    for r in resolved:
+        base = r["city_slug"]
+        if base not in used_slugs:
+            used_slugs[base] = 1
+        else:
+            used_slugs[base] += 1
+            r["city_slug"] = f"{base}-{used_slugs[base]}"
+
     # Copy city images into plans/images/<slug>/ and record in frontmatter
     stop_images = {}
+    seen_city_paths: set = set()
     for r in resolved:
-        img_path = _copy_location_image(r.get("city_page"), slug)
+        city_path_key = r.get("city_path") or r["city_slug"]
+        if city_path_key not in seen_city_paths:
+            img_path = _copy_location_image(r.get("city_page"), slug)
+            seen_city_paths.add(city_path_key)
+        else:
+            img_path = stop_images.get(r["city_slug"].rsplit("-", 1)[0])
         if img_path:
             stop_images[r["city_slug"]] = img_path
 

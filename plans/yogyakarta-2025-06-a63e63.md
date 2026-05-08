@@ -3,11 +3,9 @@ created_by: tabbi-mcp
 stop_images:
   komodo: images/yogyakarta-2025-06-a63e63/komodo.jpg
   makassar: images/yogyakarta-2025-06-a63e63/makassar-wiki.jpg
-  moni: images/yogyakarta-2025-06-a63e63/montserrat.jpg
-  rantepao: images/yogyakarta-2025-06-a63e63/makassar-wiki.jpg
-  wamena: images/yogyakarta-2025-06-a63e63/komodo.jpg
-  waikabubak: images/yogyakarta-2025-06-a63e63/komodo.jpg
-  waingapu: images/yogyakarta-2025-06-a63e63/komodo.jpg
+  moni: images/yogyakarta-2025-06-a63e63/kelimutu-wiki.jpg
+  rantepao: images/yogyakarta-2025-06-a63e63/tana-toraja-wiki.jpg
+  waikabubak: images/yogyakarta-2025-06-a63e63/waikabubak-wiki.jpg
   yogyakarta: images/yogyakarta-2025-06-a63e63/yogyakarta-wiki.jpg
 title: 4 Weeks Off-the-Beaten-Track Indonesia
 ---

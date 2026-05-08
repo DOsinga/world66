@@ -494,25 +494,26 @@ def _parse_stops(body, plan_slug):
                     if not city_path and "," in city_part:
                         city_path = resolve_location_name(city_name)
             # Slug must be URL-safe: strip commas and other non-slug chars
-            base_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
-            # Deduplicate: if this slug already appears, append -2, -3, …
-            existing_slugs = {s["city_slug"] for s in stops}
-            if base_slug not in existing_slugs:
-                city_slug = base_slug
+            city_slug = re.sub(r"[^a-z0-9]+", "-", city_name.lower()).strip("-")
+            # If this city already has a stop, reuse it (same destination, multiple visit segments)
+            existing = next((s for s in stops if s["city_slug"] == city_slug), None)
+            if existing:
+                current = existing
+                # Merge dates
+                if dates.strip() and existing["dates"] and dates.strip() not in existing["dates"]:
+                    existing["dates"] = existing["dates"] + ", " + dates.strip()
+                elif dates.strip() and not existing["dates"]:
+                    existing["dates"] = dates.strip()
             else:
-                n = 2
-                while f"{base_slug}-{n}" in existing_slugs:
-                    n += 1
-                city_slug = f"{base_slug}-{n}"
-            current = {
-                "city": city_name,
-                "city_slug": city_slug,
-                "city_path": city_path,
-                "dates": dates.strip(),
-                "url": f"/plans/{plan_slug}/{city_slug}/",
-                "items": [],
-            }
-            stops.append(current)
+                current = {
+                    "city": city_name,
+                    "city_slug": city_slug,
+                    "city_path": city_path,
+                    "dates": dates.strip(),
+                    "url": f"/plans/{plan_slug}/{city_slug}/",
+                    "items": [],
+                }
+                stops.append(current)
             continue
         if current is None:
             continue

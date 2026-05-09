@@ -258,18 +258,38 @@ def build_standalone(slug, output_path):
         body_content = body_content.replace("'plan-stop-map'", f"'{map_id}'")
         body_content = body_content.replace("'plan-overview-map'", f"'{map_id}'")
 
-        # Register map instance in global registry so IntersectionObserver can
-        # call invalidateSize() when the section scrolls into view.
-        body_content = re.sub(
-            r"(const map = L\.map\('" + re.escape(map_id) + r"')",
-            r"window._exportMaps = window._exportMaps || {}; \1",
-            body_content,
-        )
-        body_content = re.sub(
-            r"(const map = L\.map\('" + re.escape(map_id) + r"'[^;]+;)",
-            r"\1 window._exportMaps['" + map_id + r"'] = map;",
-            body_content,
-        )
+        # Defer map initialization until the container is visible.
+        # Leaflet caches wrong pixel dimensions if initialized off-screen,
+        # causing broken tile grids even after invalidateSize().
+        # Wrap the map init IIFE in an IntersectionObserver so it only runs
+        # once the container enters the viewport.
+        def defer_map_init(html, mid):
+            # Find the (function() { ... })(); block that contains L.map('mid')
+            pat = re.compile(
+                r'(<script[^>]*>)\s*'
+                r'(\(function\(\)\s*\{(?:[^{}]|\{[^{}]*\})*L\.map\(\'' + re.escape(mid) + r'\'.*?\}\)\(\);)'
+                r'\s*(</script>)',
+                re.DOTALL
+            )
+            def wrap(m):
+                inner = m.group(2)
+                return (
+                    m.group(1) +
+                    f"\n(function() {{\n"
+                    f"  var _el = document.getElementById('{mid}');\n"
+                    f"  if (!_el) return;\n"
+                    f"  var _obs = new IntersectionObserver(function(entries) {{\n"
+                    f"    if (!entries[0].isIntersecting) return;\n"
+                    f"    _obs.disconnect();\n"
+                    f"    {inner}\n"
+                    f"  }}, {{threshold: 0.01}});\n"
+                    f"  _obs.observe(_el);\n"
+                    f"}})();\n" +
+                    m.group(3)
+                )
+            return pat.sub(wrap, html)
+
+        body_content = defer_map_init(body_content, map_id)
 
         # Remove duplicate Leaflet CDN script tags (keep only first)
         if i > 0:
@@ -326,31 +346,6 @@ def build_standalone(slug, output_path):
 <body>
 {toc_html}
 {''.join(page_divs)}
-<script>
-// Invalidate each Leaflet map when it first scrolls into view,
-// so tiles load correctly in the combined single-page export.
-(function() {{
-  var maps = window._exportMaps || {{}};
-  if (!window.IntersectionObserver) {{
-    // Fallback: just invalidate all immediately
-    Object.values(maps).forEach(function(m) {{ m.invalidateSize(); }});
-    return;
-  }}
-  var observer = new IntersectionObserver(function(entries) {{
-    entries.forEach(function(entry) {{
-      if (entry.isIntersecting) {{
-        var m = maps[entry.target.id];
-        if (m) {{ setTimeout(function() {{ m.invalidateSize(); }}, 50); }}
-        observer.unobserve(entry.target);
-      }}
-    }});
-  }}, {{ threshold: 0.01 }});
-  Object.keys(maps).forEach(function(id) {{
-    var el = document.getElementById(id);
-    if (el) observer.observe(el);
-  }});
-}})();
-</script>
 </body>
 </html>"""
 

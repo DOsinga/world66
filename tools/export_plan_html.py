@@ -267,21 +267,16 @@ def build_standalone(slug, output_path):
             # Find the (function() { ... })(); block that contains L.map('mid')
             pat = re.compile(
                 r'(<script[^>]*>)\s*'
-                r'(\(function\(\)\s*\{(?:[^{}]|\{[^{}]*\})*L\.map\(\'' + re.escape(mid) + r'\'.*?\}\)\(\);)'
+                r'\(function\(\)\s*\{((?:[^{}]|\{[^{}]*\})*L\.map\(\'' + re.escape(mid) + r'\'.*?)\}\)\(\);'
                 r'\s*(</script>)',
                 re.DOTALL
             )
             def wrap(m):
-                # Rewrite `const map = L.map(...)` → `var _m = L.map(...)` so we can
-                # access the instance outside the IIFE to call invalidateSize() later.
-                inner = m.group(2)
-                inner_rewritten = re.sub(
-                    r'\bconst map = L\.map\(',
-                    'var _m = L.map(',
-                    inner, count=1
-                )
-                # Also rename map→_m references inside the IIFE
-                inner_rewritten = re.sub(r'\bmap\b', '_m', inner_rewritten)
+                # Extract the body of the IIFE (without the wrapper), rename map→_map
+                # so `_map` is declared in the rAF scope and we can call invalidateSize().
+                body = m.group(2)
+                body = re.sub(r'\bconst map\b', 'var _map', body, count=1)
+                body = re.sub(r'\bmap\.', '_map.', body)
                 return (
                     m.group(1) +
                     f"\n(function() {{\n"
@@ -292,10 +287,9 @@ def build_standalone(slug, output_path):
                     f"    _obs.disconnect();\n"
                     f"    requestAnimationFrame(function() {{\n"
                     f"      requestAnimationFrame(function() {{\n"
-                    f"        var _m;\n"
-                    f"        {inner_rewritten}\n"
-                    f"        // Force tile recalculation after fitBounds sets the view\n"
-                    f"        if (_m) {{ setTimeout(function() {{ _m.invalidateSize(); }}, 50); }}\n"
+                    f"        var _map;\n"
+                    f"        {body}\n"
+                    f"        setTimeout(function() {{ if (_map) _map.invalidateSize(); }}, 100);\n"
                     f"      }});\n"
                     f"    }});\n"
                     f"  }}, {{threshold: 0.01}});\n"

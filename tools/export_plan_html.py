@@ -253,53 +253,17 @@ def build_standalone(slug, output_path):
 
         # Make map IDs unique so Leaflet doesn't clash across sections
         map_id = f"map-section-{i}"
-        body_content = body_content.replace('id="plan-stop-map"', f'id="{map_id}"')
-        body_content = body_content.replace('id="plan-overview-map"', f'id="{map_id}"')
+        body_content = body_content.replace('id="plan-stop-map"', f'id="{map_id}" style="height:340px;width:100%;position:relative;"')
+        body_content = body_content.replace('id="plan-overview-map"', f'id="{map_id}" style="height:340px;width:100%;position:relative;"')
         body_content = body_content.replace("'plan-stop-map'", f"'{map_id}'")
         body_content = body_content.replace("'plan-overview-map'", f"'{map_id}'")
 
-        # Defer map initialization until the container is visible.
-        # Leaflet caches wrong pixel dimensions if initialized off-screen,
-        # causing broken tile grids even after invalidateSize().
-        # Wrap the map init IIFE in an IntersectionObserver so it only runs
-        # once the container enters the viewport.
-        def defer_map_init(html, mid):
-            # Find the (function() { ... })(); block that contains L.map('mid')
-            pat = re.compile(
-                r'(<script[^>]*>)\s*'
-                r'\(function\(\)\s*\{((?:[^{}]|\{[^{}]*\})*L\.map\(\'' + re.escape(mid) + r'\'.*?)\}\)\(\);'
-                r'\s*(</script>)',
-                re.DOTALL
-            )
-            def wrap(m):
-                # Extract the body of the IIFE (without the wrapper), rename map→_map
-                # so `_map` is declared in the rAF scope and we can call invalidateSize().
-                body = m.group(2)
-                body = re.sub(r'\bconst map\b', 'var _map', body, count=1)
-                body = re.sub(r'\bmap\.', '_map.', body)
-                return (
-                    m.group(1) +
-                    f"\n(function() {{\n"
-                    f"  var _el = document.getElementById('{mid}');\n"
-                    f"  if (!_el) return;\n"
-                    f"  var _obs = new IntersectionObserver(function(entries) {{\n"
-                    f"    if (!entries[0].isIntersecting) return;\n"
-                    f"    _obs.disconnect();\n"
-                    f"    requestAnimationFrame(function() {{\n"
-                    f"      requestAnimationFrame(function() {{\n"
-                    f"        var _map;\n"
-                    f"        {body}\n"
-                    f"        setTimeout(function() {{ if (_map) _map.invalidateSize(); }}, 100);\n"
-                    f"      }});\n"
-                    f"    }});\n"
-                    f"  }}, {{threshold: 0.01}});\n"
-                    f"  _obs.observe(_el);\n"
-                    f"}})();\n" +
-                    m.group(3)
-                )
-            return pat.sub(wrap, html)
-
-        body_content = defer_map_init(body_content, map_id)
+        # Register map instance in window._exportMaps so post-load invalidateSize works.
+        body_content = re.sub(
+            r"(const map = L\.map\('" + re.escape(map_id) + r"'[^;]+;)",
+            r"\1 (window._exportMaps = window._exportMaps || []).push(map);",
+            body_content,
+        )
 
         # Remove duplicate Leaflet CDN script tags (keep only first)
         if i > 0:
@@ -360,6 +324,20 @@ def build_standalone(slug, output_path):
 <body>
 {toc_html}
 {''.join(page_divs)}
+<script>
+// Call invalidateSize() on all export maps at 100ms, 500ms, 1500ms after load.
+// This fixes tile/marker desync when containers were off-screen at init time.
+window._exportMaps = window._exportMaps || [];
+window.addEventListener('load', function() {{
+  [100, 500, 1500].forEach(function(delay) {{
+    setTimeout(function() {{
+      window._exportMaps.forEach(function(m) {{
+        try {{ m.invalidateSize(); }} catch(e) {{}}
+      }});
+    }}, delay);
+  }});
+}});
+</script>
 </body>
 </html>"""
 

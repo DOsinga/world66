@@ -258,11 +258,14 @@ def build_standalone(slug, output_path):
         body_content = body_content.replace("'plan-stop-map'", f"'{map_id}'")
         body_content = body_content.replace("'plan-overview-map'", f"'{map_id}'")
 
-        # Register map instance in window._exportMaps so post-load invalidateSize works.
+
+        # Register map instance by container id so the IntersectionObserver
+        # at the bottom of the page can call invalidateSize() on scroll-into-view.
         body_content = re.sub(
-            r"(const map = L\.map\('" + re.escape(map_id) + r"'[^;]+;)",
-            r"\1 (window._exportMaps = window._exportMaps || []).push(map);",
+            r"(const map = L\.map\('" + re.escape(map_id) + r"'[\s\S]+?;)",
+            r"\1 (window._exportMaps = window._exportMaps || {})['" + map_id + r"'] = map;",
             body_content,
+            count=1,
         )
 
         # Remove duplicate Leaflet CDN script tags (keep only first)
@@ -324,18 +327,22 @@ def build_standalone(slug, output_path):
 {toc_html}
 {''.join(page_divs)}
 <script>
-// Call invalidateSize() on all export maps at 100ms, 500ms, 1500ms after load.
-// This fixes tile/marker desync when containers were off-screen at init time.
-window._exportMaps = window._exportMaps || [];
-window.addEventListener('load', function() {{
-  [100, 500, 1500].forEach(function(delay) {{
-    setTimeout(function() {{
-      window._exportMaps.forEach(function(m) {{
-        try {{ m.invalidateSize(); }} catch(e) {{}}
-      }});
-    }}, delay);
+// Call invalidateSize() on each map when its container first enters the viewport.
+// window._exportMaps maps container id → Leaflet map instance.
+(function() {{
+  var maps = window._exportMaps || {{}};
+  Object.keys(maps).forEach(function(id) {{
+    var el = document.getElementById(id);
+    if (!el) return;
+    var obs = new IntersectionObserver(function(entries) {{
+      if (entries[0].isIntersecting) {{
+        maps[id].invalidateSize();
+        obs.disconnect();
+      }}
+    }});
+    obs.observe(el);
   }});
-}});
+}})();
 </script>
 </body>
 </html>"""

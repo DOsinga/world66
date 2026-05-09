@@ -272,9 +272,16 @@ def build_standalone(slug, output_path):
                 re.DOTALL
             )
             def wrap(m):
+                # Rewrite `const map = L.map(...)` → `var _m = L.map(...)` so we can
+                # access the instance outside the IIFE to call invalidateSize() later.
                 inner = m.group(2)
-                # Double requestAnimationFrame ensures the browser has finished
-                # layout before Leaflet measures the container's pixel dimensions.
+                inner_rewritten = re.sub(
+                    r'\bconst map = L\.map\(',
+                    'var _m = L.map(',
+                    inner, count=1
+                )
+                # Also rename map→_m references inside the IIFE
+                inner_rewritten = re.sub(r'\bmap\b', '_m', inner_rewritten)
                 return (
                     m.group(1) +
                     f"\n(function() {{\n"
@@ -285,7 +292,10 @@ def build_standalone(slug, output_path):
                     f"    _obs.disconnect();\n"
                     f"    requestAnimationFrame(function() {{\n"
                     f"      requestAnimationFrame(function() {{\n"
-                    f"        {inner}\n"
+                    f"        var _m;\n"
+                    f"        {inner_rewritten}\n"
+                    f"        // Force tile recalculation after fitBounds sets the view\n"
+                    f"        if (_m) {{ setTimeout(function() {{ _m.invalidateSize(); }}, 50); }}\n"
                     f"      }});\n"
                     f"    }});\n"
                     f"  }}, {{threshold: 0.01}});\n"

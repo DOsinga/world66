@@ -313,12 +313,11 @@ def build_standalone(slug, output_path):
 .export-section {{ border-top: 2px dashed #e0c87a; padding-top:8px; margin-top:40px; }}
 .export-section:first-child {{ border-top:none; margin-top:0; }}
 .export-section-divider {{ text-align:center; color:#b8960a; font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; font-family:'Lexend Exa',sans-serif; margin-bottom:8px; }}
-/* Override sticky positioning and viewport-relative heights from the live site */
-#plan-stop-map, #plan-overview-map {{ position:static !important; height:340px !important; width:100% !important; }}
-[id^="map-section-"] {{ position:static !important; height:340px !important; width:100% !important; box-sizing:border-box; }}
+/* Override sticky positioning and viewport-relative heights from the live site.
+   NOTE: map containers need position:relative for Leaflet — do NOT set static on them. */
 .plan-stop-left {{ position:static !important; }}
 .plan-overview-layout {{ display:block !important; }}
-.plan-overview-layout > * {{ width:100% !important; }}
+.plan-overview-layout > * {{ width:100% !important; max-width:100% !important; }}
 </style>
 </head>
 <body>

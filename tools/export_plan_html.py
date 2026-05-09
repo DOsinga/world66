@@ -273,6 +273,8 @@ def build_standalone(slug, output_path):
             )
             def wrap(m):
                 inner = m.group(2)
+                # Double requestAnimationFrame ensures the browser has finished
+                # layout before Leaflet measures the container's pixel dimensions.
                 return (
                     m.group(1) +
                     f"\n(function() {{\n"
@@ -281,7 +283,11 @@ def build_standalone(slug, output_path):
                     f"  var _obs = new IntersectionObserver(function(entries) {{\n"
                     f"    if (!entries[0].isIntersecting) return;\n"
                     f"    _obs.disconnect();\n"
-                    f"    {inner}\n"
+                    f"    requestAnimationFrame(function() {{\n"
+                    f"      requestAnimationFrame(function() {{\n"
+                    f"        {inner}\n"
+                    f"      }});\n"
+                    f"    }});\n"
                     f"  }}, {{threshold: 0.01}});\n"
                     f"  _obs.observe(_el);\n"
                     f"}})();\n" +
@@ -339,8 +345,12 @@ def build_standalone(slug, output_path):
 .export-section {{ border-top: 2px dashed #e0c87a; padding-top:8px; margin-top:40px; }}
 .export-section:first-child {{ border-top:none; margin-top:0; }}
 .export-section-divider {{ text-align:center; color:#b8960a; font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; font-family:'Lexend Exa',sans-serif; margin-bottom:8px; }}
-#plan-stop-map, #plan-overview-map {{ height:300px !important; }}
-[id^="map-section-"] {{ height:300px !important; }}
+/* Override sticky positioning and viewport-relative heights from the live site */
+#plan-stop-map, #plan-overview-map {{ position:static !important; height:340px !important; width:100% !important; }}
+[id^="map-section-"] {{ position:static !important; height:340px !important; width:100% !important; box-sizing:border-box; }}
+.plan-stop-left {{ position:static !important; }}
+.plan-overview-layout {{ display:block !important; }}
+.plan-overview-layout > * {{ width:100% !important; }}
 </style>
 </head>
 <body>

@@ -1,0 +1,5 @@
+europe/france/paris
+europe/spain/catalonia/barcelona
+asia/japan/tokyo
+europe/unitedkingdom/england/london
+europe/italy/lazio/rome

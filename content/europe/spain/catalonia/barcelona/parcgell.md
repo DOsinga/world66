@@ -5,6 +5,8 @@ done:
 latitude: 41.413539
 longitude: 2.153315
 snippet: Gaudí's fantastical hilltop park of mosaics and curves
+story: >
+  Eusebi Güell commissioned the park in 1900 as a private garden city of sixty plots — only two houses were ever sold. Gaudí himself bought one of them and lived there for the last twenty years of his life. The project was a financial disaster: Güell died in 1918 with the scheme incomplete, and the family donated the park to the city of Barcelona in 1926. The mosaic salamander at the entrance, now Barcelona's most photographed lizard, was originally a functional feature — it drains water from the park's cistern below.
 tags:
 - things_to_do
 - sight

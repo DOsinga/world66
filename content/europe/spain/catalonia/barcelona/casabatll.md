@@ -4,6 +4,7 @@ category: sights
 latitude: 41.391545
 longitude: 2.164696
 snippet: Gaudí's most theatrical facade, inspired by the legend of Sant Jordi
+story: "The building's nickname, Casa dels Ossos — House of Bones — refers to the skeletal balconies on the facade, whose curved supports look like femurs and whose masks resemble skulls. Gaudí explicitly drew on the legend of Sant Jordi (Saint George) and the dragon: the roof is the dragon's scaly back, the tower is the saint's lance, and the cross at the top is the lance's point. The building won second prize in the city's annual facade competition in 1906; the winning entry no longer exists."
 tags:
 - things_to_do
 - sights

@@ -1,0 +1,5 @@
+europe/france/midi/cotedazur/nice
+europe/france/alpes/annecy
+europe/croatia/rovinj
+europe/austria/salzburg
+australiaandpacific/frenchpolynesia

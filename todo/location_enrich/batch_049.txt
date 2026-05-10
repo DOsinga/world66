@@ -1,0 +1,5 @@
+europe/norway/bergen
+europe/italy/tuscany/florenceprovince/chiantiregion
+europe/italy/sicily/palermo
+europe/italy/puglia/lecce
+europe/italy/campania/ravello

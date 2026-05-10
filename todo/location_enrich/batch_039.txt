@@ -1,0 +1,5 @@
+northamerica/turksandcaicosislands/providenciales
+northamerica/thecaribbean/aruba
+northamerica/mexico/teotihuacan
+northamerica/jamaica/negril
+northamerica/costarica/corcovado

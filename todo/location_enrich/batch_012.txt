@@ -1,0 +1,5 @@
+europe/vaticancity
+europe/spain/andalucia/granada
+europe/portugal/porto
+europe/italy/liguria/italianriviera/thecinqueterre/monterosso
+europe/france/normandybrittany/montsaintmichel

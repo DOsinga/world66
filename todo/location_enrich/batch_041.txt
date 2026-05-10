@@ -1,0 +1,5 @@
+europe/norway/lofotenislands/henningsvr
+europe/norway/flm
+europe/italy/tuscany/pienza
+europe/italy/sardinia/costasmeralda
+europe/italy/liguria/italianriviera

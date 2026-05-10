@@ -1,0 +1,5 @@
+australiaandpacific/cookislands/aitutaki
+asia/thailand/phuket
+africa/zimbabwe/victoriafalls
+northamerica/unitedstates/utah
+northamerica/unitedstates/california/sanfrancisco

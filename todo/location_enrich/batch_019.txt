@@ -1,0 +1,5 @@
+northamerica/unitedstates/hawaii/honolulu
+europe/italy/liguria/italianriviera/thecinqueterre
+europe/hungary/budapest
+europe/greece/crete
+europe/germany/bavaria/neuschwanstein

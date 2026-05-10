@@ -1,0 +1,5 @@
+europe/belgium/bruges
+asia/turkey/cappadocia/uchisar
+asia/taiwan/taipei
+asia/japan/ryukyuislands
+asia/indonesia/komodo

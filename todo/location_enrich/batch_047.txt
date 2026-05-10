@@ -1,0 +1,5 @@
+northamerica/mexico/rivieramaya
+northamerica/mexico/puertovallarta
+northamerica/guatemala/tikal
+northamerica/belize/barrierreef
+europe/unitedkingdom/scotland/edinburgh/newtown_1

@@ -1,0 +1,5 @@
+europe/italy/veneto/verona
+europe/italy/veneto/cortina_dampezzo
+europe/italy/sicily/siracusa
+europe/italy/lombardia/lake_garda
+europe/ireland/ringofkerry

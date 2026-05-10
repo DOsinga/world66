@@ -1,0 +1,5 @@
+australiaandpacific/frenchpolynesia/tahiti/papeete
+australiaandpacific/frenchpolynesia/rangiroa
+asia/turkey/pamukale
+asia/japan/kyushu/nagasaki
+asia/japan/hokkaido

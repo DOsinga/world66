@@ -1,0 +1,5 @@
+southamerica/argentina/patagonia/calafate
+southamerica/argentina/patagonia
+southamerica/argentina/buenosaires
+southamerica/argentina/bariloche
+northamerica/unitedstates/hawaii/kihei

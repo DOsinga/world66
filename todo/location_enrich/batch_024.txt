@@ -1,0 +1,5 @@
+asia/japan/honshu/takayama
+asia/india/rajasthan
+southamerica/chile/atacamadesert
+southamerica/bolivia/salar_of_uyuni
+northamerica/canada/alberta/lake_louise

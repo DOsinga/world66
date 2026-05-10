@@ -1,0 +1,5 @@
+asia/southkorea/seoul
+asia/japan/honshu/nikko
+asia/japan/honshu/nara
+asia/indonesia/komodo_island
+africa/seychelles/ladigue

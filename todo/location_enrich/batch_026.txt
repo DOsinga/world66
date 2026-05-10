@@ -1,0 +1,5 @@
+europe/italy/liguria/manarola
+europe/italy/campania/pompeii
+europe/italy/campania/capri
+europe/greece/kefalonia
+europe/france/midi/provence

@@ -1,0 +1,5 @@
+asia/indonesia/bali/ubud
+africa/seychelles/mahe
+europe/italy/campania/positano
+europe/italy/campania/amalfi
+europe/austria/hallstatt

@@ -1,0 +1,5 @@
+southamerica/venezuela/angelfalls
+southamerica/peru/colca_canyon
+southamerica/ecuador/galapagosislands/puerto_baquerizo_m
+northamerica/unitedstates/california/big_sur
+northamerica/unitedstates/alaska/denali_national_pa

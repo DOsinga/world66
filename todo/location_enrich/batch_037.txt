@@ -1,0 +1,5 @@
+asia/india/jammuandkashmir/ladakh
+asia/cambodia/siemreap
+africa/tanzania/zanzibar
+africa/morocco/chaouen
+africa/egypt/abusimbel

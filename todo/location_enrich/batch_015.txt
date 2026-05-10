@@ -1,0 +1,5 @@
+asia/maldives/male_atoll
+asia/jordan/petra
+asia/japan/kansai
+asia/bhutan
+southamerica/ecuador/galapagosislands/san_cristobal_isla

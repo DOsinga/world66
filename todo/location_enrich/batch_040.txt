@@ -1,0 +1,5 @@
+northamerica/canada/ontario/niagrafalls
+europe/unitedkingdom/england/south_east/oxford
+europe/portugal/theazores/so_miguel
+europe/portugal/theazores
+europe/norway/lofotenislands/svolvr_the_capi

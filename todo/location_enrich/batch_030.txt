@@ -1,0 +1,5 @@
+europe/montenegro/kotor
+europe/italy/sicily/cefalu
+europe/italy/puglia
+europe/croatia/split
+europe/croatia/hvar

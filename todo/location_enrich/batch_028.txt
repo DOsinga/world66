@@ -1,0 +1,5 @@
+africa/morocco/marrakesh
+southamerica/chile/easterisland
+northamerica/unitedstates/montana/glaciernp
+northamerica/canada/britishcolumbia/vancouver
+europe/switzerland/lauterbrunnen

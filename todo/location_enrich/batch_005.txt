@@ -1,0 +1,5 @@
+southamerica/brazil/riodejaneiro
+europe/france/around_paris/versailles
+europe/croatia/plitvice
+australiaandpacific/newzealand/south_island/otago/milford_sound
+asia/turkey/cappadocia/urgup

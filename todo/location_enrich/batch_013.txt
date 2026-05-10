@@ -1,0 +1,5 @@
+europe/france/midi/cotedazur
+europe/croatia/dubrovnik
+asia/maldives/ari_atoll
+africa/seychelles/praslin
+africa/egypt/cairo

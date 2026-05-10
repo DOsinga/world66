@@ -1,0 +1,5 @@
+northamerica/mexico/yucatan/chichen_itza
+northamerica/mexico/chichenitza
+europe/greece/rhodes/rhodescity
+europe/greece/rhodes
+europe/greece/naxos

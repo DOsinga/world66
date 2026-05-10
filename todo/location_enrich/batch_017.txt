@@ -1,0 +1,5 @@
+europe/norway/geirangerfjord
+europe/italy/campania
+europe/iceland/reykjavik
+europe/france/alpes
+europe/croatia/dalmatia

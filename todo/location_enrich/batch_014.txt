@@ -1,0 +1,5 @@
+northamerica/unitedstates/utah/bryce_canyon
+europe/france/alpes/chamonix
+europe/croatia/krka_national_park_1
+australiaandpacific/frenchpolynesia/tahiti
+australiaandpacific/cookislands/rarotonga

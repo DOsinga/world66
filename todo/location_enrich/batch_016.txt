@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/highsierra/yosemite
+europe/switzerland/murren
+europe/switzerland/grindelwald
+europe/spain/andalucia
+europe/russia/stpetersburg

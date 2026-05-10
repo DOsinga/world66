@@ -1,0 +1,5 @@
+europe/spain/canaryislands
+europe/spain/balearicislands/menorca
+europe/serbiaandmontenegro/bayofkotor
+europe/portugal/madeira
+europe/portugal/lisbon

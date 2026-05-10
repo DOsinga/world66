@@ -1,0 +1,5 @@
+europe/greece/thessaloniki
+europe/greece/skiathos
+europe/greece/delphi
+europe/greece/crete/hania
+europe/france/midi/languedoc/carcassone

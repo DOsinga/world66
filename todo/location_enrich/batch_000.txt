@@ -1,0 +1,5 @@
+europe/france/paris
+southamerica/ecuador/galapagosislands/theislands
+asia/japan/honshu/kyoto
+asia/japan/tokyo
+europe/france

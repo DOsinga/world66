@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/bristol_plymouth/bath
+europe/switzerland/stmoritz
+europe/switzerland/montreux
+europe/spain/balearicislands/mallorca/palma1
+europe/spain/andalucia/malaga

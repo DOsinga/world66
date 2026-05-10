@@ -1,0 +1,5 @@
+asia/india/jammuandkashmir/ladakh/leh
+asia/china/xian
+asia/china/sichuanprovince/jiuzhaigou
+southamerica/colombia/cartagena
+southamerica/argentina/patagonia/torresdelpaine

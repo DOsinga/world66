@@ -1,0 +1,5 @@
+europe/italy/tuscany/florence
+europe/italy/lazio/rome
+southamerica/peru/machupicchu
+southamerica/argentina/iguazufalls
+europe/unitedkingdom/england/london

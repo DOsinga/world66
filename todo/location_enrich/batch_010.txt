@@ -1,0 +1,5 @@
+europe/switzerland/interlaken
+europe/spain/andalucia/seville
+europe/slovenia/bled
+europe/netherlands/amsterdam
+europe/italy/campania/sorrento

@@ -1,0 +1,5 @@
+northamerica/unitedstates/wyoming/yellowstone
+northamerica/unitedstates/newyorkstate/newyork
+europe/switzerland/zermatt
+europe/greece/mykonos
+europe/austria/vienna

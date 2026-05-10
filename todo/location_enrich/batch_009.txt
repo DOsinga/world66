@@ -1,0 +1,5 @@
+australiaandpacific/newzealand/south_island/otago/queenstown
+asia/cambodia/angkorwat
+africa/kenya/nationalparksandreserves/masaimaranr
+northamerica/unitedstates/hawaii/oahu
+northamerica/unitedstates/hawaii/maui

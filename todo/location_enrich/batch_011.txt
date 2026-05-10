@@ -1,0 +1,5 @@
+australiaandpacific/frenchpolynesia/moorea
+asia/turkey/istanbul
+asia/philippines/palawanisland
+asia/maldives/south_male_atoll
+northamerica/unitedstates/hawaii/kauai

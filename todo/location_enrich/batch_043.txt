@@ -1,0 +1,5 @@
+europe/france/east/alsace/strasbourg
+europe/france/east/alsace/colmar
+europe/france/corsica
+europe/france/aquitaine/bordeaux
+europe/czechrepublic/ceskykrumlov

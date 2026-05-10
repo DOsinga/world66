@@ -1,0 +1,5 @@
+europe/spain/basque_country_eus/sansebastian
+europe/norway/lofotenislands/moskenes
+europe/italy/tuscany/sangimignano
+europe/italy/sicily/aeolianislands
+europe/italy/sicily

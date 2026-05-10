@@ -1,0 +1,5 @@
+northamerica/unitedstates/utah/canyonlands
+northamerica/mexico/yucatan
+northamerica/canada/alberta/jasper
+europe/poland/krakow
+europe/norway/tromso

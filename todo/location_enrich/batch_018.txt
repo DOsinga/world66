@@ -1,0 +1,5 @@
+australiaandpacific/palau/rockislands
+asia/thailand/phangngabay
+asia/taiwan/torokogorge
+asia/china/hongkong
+africa/egypt/luxor

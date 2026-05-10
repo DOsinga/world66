@@ -1,0 +1,5 @@
+asia/israel/jerusalem
+asia/indonesia/java/borobudur
+asia/india/rajasthan/udaipur
+africa/kenya/nationalparksandreserves/amobselinp
+africa/egypt/giza

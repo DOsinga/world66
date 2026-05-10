@@ -1,0 +1,5 @@
+europe/italy/liguria/portofino
+europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore
+asia/turkey/istanbul/thebosphorus
+asia/thailand/bangkok
+asia/japan/honshu/mount_fuji

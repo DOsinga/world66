@@ -5,6 +5,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg
 latitude: 41.9009
 longitude: 12.4833
 snippet: "Baroque icon — toss a coin for your return"
+story: "The Trevi Fountain took nearly 30 years to build and was completed in 1762, designed by Nicola Salvi. The coin-throwing tradition — roughly €3,000 is collected daily and donated to a Roman food bank — was popularised by the 1954 film Three Coins in the Fountain. In 2016 a man was arrested for diving in regularly to collect the coins at night; he had been doing it for 34 years."
 tags:
 - things_to_do
 - landmark

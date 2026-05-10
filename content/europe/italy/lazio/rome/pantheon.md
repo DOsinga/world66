@@ -10,6 +10,8 @@ latitude: 41.8986
 longitude: 12.4769
 opening_hours: Mon–Sat 09:00–19:00; Sun 09:00–18:00; closed public holidays
 snippet: Best-preserved ancient building in the world, with Rome's most perfect dome
+story: >
+  The Pantheon's concrete dome has never been surpassed in certain respects. It is unreinforced — no steel rebar, no post-tensioning — and has stood for nearly 1,900 years. Hadrian used an ingenious technique: the concrete gets lighter as it rises, with volcanic pumice near the top instead of the heavier aggregates used in the lower walls. The oculus, open to the sky, means the rain falls directly onto the marble floor and drains through holes disguised in the pattern beneath it.
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome

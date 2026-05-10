@@ -5,7 +5,10 @@ latitude: 20.9084
 longitude: 107.0683
 done:
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-09'
 score: 0.93
+tier: 2
+tags: [nature, diving, hiking, wildlife, culture]
 image: halongbay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_22.jpg
 image_license: CC BY-SA 4.0

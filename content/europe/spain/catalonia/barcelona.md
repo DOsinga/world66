@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-04
   poi_cleanup: '2026-04-21'
+  location_enrich: '2026-05-09'
 image: barcelona.jpg
 image_attribution: Ralf Roletschek
 image_license: GFDL 1.2
@@ -9,6 +10,8 @@ image_source: https://commons.wikimedia.org/wiki/File:14-08-05-barcelona-RalfR-0
 latitude: 41.38258
 longitude: 2.177073
 score: 0.9
+tier: 1
+tags: [culture, architecture, beaches, food, nightlife, museums]
 title: Barcelona
 type: location
 ---

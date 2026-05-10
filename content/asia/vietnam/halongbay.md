@@ -1,10 +1,20 @@
 ---
 title: Ha Long Bay
 type: location
+tier: 4
+tags:
+  - natural_wonder
+  - cruising
+  - kayaking
+  - caves
+  - limestone_karst
+  - unesco
+  - wildlife
 latitude: 20.9084
 longitude: 107.0683
 done:
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-09'
 score: 0.93
 image: halongbay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_22.jpg

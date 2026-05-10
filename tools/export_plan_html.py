@@ -251,28 +251,49 @@ def build_standalone(slug, output_path):
             body_content = re.sub(r"<nav[^>]*class=[\"'][^\"']*tabbi-nav[^\"']*[\"'][^>]*>.*?</nav>", "", body_content, flags=re.DOTALL)
             body_content = re.sub(r"<footer[^>]*>.*?</footer>", "", body_content, flags=re.DOTALL)
 
-        # Make map IDs unique so Leaflet doesn't clash across sections
+        # Make map IDs unique so Leaflet doesn't clash across sections.
+        # Force inline dimensions so Leaflet always sees correct size even off-screen.
         map_id = f"map-section-{i}"
-        body_content = body_content.replace('id="plan-stop-map"', f'id="{map_id}" style="height:340px;width:100%;position:relative;"')
+        body_content = body_content.replace('id="plan-stop-map"',    f'id="{map_id}" style="height:340px;width:100%;position:relative;"')
         body_content = body_content.replace('id="plan-overview-map"', f'id="{map_id}" style="height:340px;width:100%;position:relative;"')
-        body_content = body_content.replace("'plan-stop-map'", f"'{map_id}'")
+        body_content = body_content.replace("'plan-stop-map'",    f"'{map_id}'")
         body_content = body_content.replace("'plan-overview-map'", f"'{map_id}'")
 
-
-        # Register map instance by container id so the IntersectionObserver
-        # at the bottom of the page can call invalidateSize() on scroll-into-view.
-        body_content = re.sub(
-            r"(const map = L\.map\('" + re.escape(map_id) + r"'[\s\S]+?;)",
-            r"\1 (window._exportMaps = window._exportMaps || {})['" + map_id + r"'] = map;",
-            body_content,
-            count=1,
-        )
-
-        # Remove duplicate Leaflet CDN script tags (keep only first)
-        if i > 0:
-            body_content = re.sub(
-                r'<script[^>]+unpkg\.com/leaflet[^>]*></script>', '', body_content
+        # Defer the entire map init script until the container is visible.
+        # This is the only reliable fix: Leaflet must initialize when the
+        # container has correct pixel dimensions in the viewport.
+        def defer_map_script(html, mid):
+            # Match only a <script> block whose content contains L.map('mid').
+            # Use a non-greedy match that cannot cross </script>.
+            pat = re.compile(
+                r'(<script[^>]*>)'
+                r'((?:(?!</script>)[\s\S])*?L\.map\(\'' + re.escape(mid) + r'\'(?:(?!</script>)[\s\S])*?)'
+                r'(</script>)'
             )
+            def wrap(m):
+                inner = m.group(2).strip()
+                return (
+                    m.group(1) +
+                    f"\n(function() {{\n"
+                    f"  var _el = document.getElementById('{mid}');\n"
+                    f"  if (!_el) return;\n"
+                    f"  var _obs = new IntersectionObserver(function(entries) {{\n"
+                    f"    if (!entries[0].isIntersecting) return;\n"
+                    f"    _obs.disconnect();\n"
+                    f"    {inner}\n"
+                    f"  }});\n"
+                    f"  _obs.observe(_el);\n"
+                    f"}})();\n" +
+                    m.group(3)
+                )
+            return pat.sub(wrap, html, count=1)
+
+        body_content = defer_map_script(body_content, map_id)
+
+        # Remove duplicate Leaflet CDN tags (keep only first section's)
+        if i > 0:
+            body_content = re.sub(r'<script[^>]+unpkg\.com/leaflet[^>]*></script>', '', body_content)
+            body_content = re.sub(r'<link[^>]+leaflet[^>]*>', '', body_content)
 
         page_divs.append(
             f'<div id="{anchor}" class="export-section">'
@@ -283,6 +304,7 @@ def build_standalone(slug, output_path):
 
     # Collect all <style> blocks from the first page (anywhere — head or body)
     # and deduplicate by content so we don't repeat large CSS blobs.
+    # Also collect external <link rel="stylesheet"> tags (e.g. Leaflet CSS from CDN).
     first_inlined = sections[0][2]
     seen_styles = []
     seen_hashes = set()
@@ -292,6 +314,16 @@ def build_standalone(slug, output_path):
             seen_hashes.add(h)
             seen_styles.append(m.group(0))
     styles = "\n".join(seen_styles)
+
+    # Collect external stylesheet links (kept as-is by process_html, e.g. Leaflet CSS)
+    ext_links = []
+    seen_hrefs = set()
+    for m in re.finditer(r'<link[^>]+rel=["\']stylesheet["\'][^>]*href=["\']([^"\']+)["\'][^>]*/?>|<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\']stylesheet["\'][^>]*/?>', first_inlined):
+        href = m.group(1) or m.group(2)
+        if href and href.startswith("http") and href not in seen_hrefs:
+            seen_hrefs.add(href)
+            ext_links.append(f'<link rel="stylesheet" href="{href}">')
+    ext_links_html = "\n".join(ext_links)
 
     toc_html = f"""
     <div class="export-toc">
@@ -306,6 +338,7 @@ def build_standalone(slug, output_path):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{plan['title']} — Tab.bi</title>
+{ext_links_html}
 {styles}
 <style>
 .export-toc {{ background:#FFFBF0; border:1.5px dashed #e0c87a; border-radius:12px; padding:16px 24px; margin:24px auto; max-width:900px; font-family:'Lexend Exa',sans-serif; }}
@@ -319,31 +352,13 @@ def build_standalone(slug, output_path):
 /* Override sticky positioning and viewport-relative heights from the live site.
    NOTE: map containers need position:relative for Leaflet — do NOT set static on them. */
 .plan-stop-left {{ position:static !important; }}
-.plan-overview-layout {{ display:block !important; }}
-.plan-overview-layout > * {{ width:100% !important; max-width:100% !important; }}
+/* Un-sticky the overview map without breaking position:relative that Leaflet needs */
+#plan-overview-map {{ position:relative !important; height:340px !important; max-height:340px !important; top:auto !important; }}
 </style>
 </head>
 <body>
 {toc_html}
 {''.join(page_divs)}
-<script>
-// Call invalidateSize() on each map when its container first enters the viewport.
-// window._exportMaps maps container id → Leaflet map instance.
-(function() {{
-  var maps = window._exportMaps || {{}};
-  Object.keys(maps).forEach(function(id) {{
-    var el = document.getElementById(id);
-    if (!el) return;
-    var obs = new IntersectionObserver(function(entries) {{
-      if (entries[0].isIntersecting) {{
-        maps[id].invalidateSize();
-        obs.disconnect();
-      }}
-    }});
-    obs.observe(el);
-  }});
-}})();
-</script>
 </body>
 </html>"""
 

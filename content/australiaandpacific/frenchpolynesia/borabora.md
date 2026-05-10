@@ -1,15 +1,16 @@
 ---
-title: Bora Bora
-type: location
-latitude: -16.504347
-longitude: -151.736689
 done:
   location_cleanup: 2026-04-07
-score: 0.93
+  location_enrich: '2026-05-09'
 image: borabora.jpg
-image_source: https://commons.wikimedia.org/wiki/File:BoraBora_SEtienne.jpg
-image_license: CC BY-SA 3.0
 image_attribution: Samuel Etienne
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:BoraBora_SEtienne.jpg
+latitude: -16.504347
+longitude: -151.736689
+score: 0.93
+title: Bora Bora
+type: location
 ---
 
 Bora Bora is an almost absurdly beautiful island in French Polynesia, roughly 230 kilometres northwest of Tahiti. A jagged volcanic core — dominated by the extinct peaks of Mount Otemanu and Mount Pahia — rises sharply from a lagoon of implausible turquoise, enclosed by a coral reef and a string of low sandy motu. The combination of lush mountain interior and luminous lagoon is genuinely hard to better anywhere in the Pacific.

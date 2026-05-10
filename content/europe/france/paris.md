@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-09'
   poi_cleanup: '2026-04-21'
 image: paris.jpg
 image_attribution: Kainet

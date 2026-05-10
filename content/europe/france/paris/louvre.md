@@ -7,6 +7,8 @@ latitude: 48.861147
 longitude: 2.338028
 opening_hours: Mon, Thu, Sat–Sun 9am–6pm; Wed, Fri 9am–9:45pm; closed Tue
 snippet: The world's largest and most visited art museum
+story: >
+  The Mona Lisa was stolen from the Louvre in August 1911 by an Italian handyman named Vincenzo Peruggia, who had helped install the protective glass case around the painting. He hid in a broom cupboard overnight, walked out with the canvas tucked under his coat, and kept it under his bed in Paris for two years. The theft made the painting world-famous — before the heist, far more visitors came to see the empty space where it had hung.
 tags:
 - things_to_do
 - museum

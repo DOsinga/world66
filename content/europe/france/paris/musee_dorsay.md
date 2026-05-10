@@ -7,6 +7,8 @@ latitude: 48.859918
 longitude: 2.326585
 opening_hours: Tue–Sun 9:30am–6pm (Thu until 9:45pm); closed Mon
 snippet: World-class Impressionist art in a grand railway station
+story: >
+  The Gare d'Orsay was built for the 1900 World's Fair and was already obsolete by 1939 — its platforms were too short for modern trains. For four decades the building languished as a film set and temporary auction house. In 1962 Orson Welles shot parts of The Trial there. The French government considered demolishing it in the 1970s before the decision to convert it into a museum saved it; President Mitterrand opened the Musée d'Orsay in 1986 to international acclaim.
 tags:
 - things_to_do
 - museum

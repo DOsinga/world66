@@ -5,7 +5,10 @@ done:
 latitude: 48.85826
 longitude: 2.294501
 snippet: Iron lattice icon of Paris with sweeping city views
+story: >
+  When the tower was completed in 1889, a group of leading Parisian artists and writers — including Guy de Maupassant and Charles Garnier — published a furious open letter calling it a "metal asparagus" and a "blot on the city." Maupassant reportedly ate lunch in the tower restaurant regularly, claiming it was the only place in Paris from which he couldn't see the thing.
 tags:
+- things_to_do
 - sight
 - landmark
 title: Eiffel Tower

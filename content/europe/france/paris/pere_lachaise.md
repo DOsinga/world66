@@ -7,6 +7,7 @@ latitude: 48.86113
 longitude: 2.394009
 opening_hours: Mon–Fri 8am–6pm, Sat from 8:30am, Sun from 9am (closes 5:30pm Nov–Mar)
 snippet: Paris's famous cemetery with Wilde, Morrison, and Chopin
+story: "Oscar Wilde's tomb was designed by Jacob Epstein and erected in 1914. For decades it was covered in lipstick kisses left by admirers — a tradition that has bleached and damaged the stone. In 2011 the authorities installed a glass barrier to protect it, but the kisses migrated to the barrier instead. The tomb bears an epitaph from his poem The Ballad of Reading Gaol: 'And alien tears will fill for him / Pity's long-broken urn.'"
 tags:
 - things_to_do
 - sight

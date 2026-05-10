@@ -6,6 +6,8 @@ longitude: -0.127178
 opening_hours: Daily 10am-5pm, Fri until 8:30pm
 phone: +44 20 7323 8000
 snippet: Eight million objects spanning two million years of human history
+story: >
+  The Rosetta Stone was seized from French forces in Egypt in 1801 under the Treaty of Alexandria — it had been found by Napoleon's engineers in 1799. The race to decode it pitted Thomas Young against Jean-François Champollion for over twenty years. Champollion won, announcing his decipherment in 1822. Egypt has formally requested the stone's return. The British Museum has declined, though it has lent replicas and discussed long-term loans.
 tags:
 - things_to_do
 - museum

@@ -6,6 +6,8 @@ longitude: -0.076099
 opening_hours: Tue-Sat 9am-5:30pm, Sun-Mon 10am-5:30pm
 phone: +44 20 3166 6000
 snippet: Nine centuries of royal history, Crown Jewels, and Beefeater tours
+story: >
+  Ravens have lived at the Tower since at least the 17th century, and a legend — possibly invented by the Victorians — holds that if they ever leave, the Tower and the kingdom will fall. Six ravens are kept at all times, their wings partially clipped to prevent flight. They have names (Poppy, Harris, Jubilee), a designated Ravenmaster who feeds and monitors them, and have been formally dismissed for unsatisfactory conduct. During World War II only one raven survived the Blitz; Winston Churchill ordered the flock rebuilt immediately.
 tags:
 - things_to_do
 - palace

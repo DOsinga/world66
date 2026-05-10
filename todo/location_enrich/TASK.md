@@ -154,6 +154,7 @@ One commit per location: `"Enrich: City Name"`
 ## Rules
 
 - **Every POI must have `latitude` and `longitude`.** Do not publish a POI without coordinates.
+- **Verify coordinates are correct.** Look up each POI by name and cross-check the lat/lng against a map. Wrong-country and wrong-city coordinates are common in old World66 data. A museum in Berlin should not have coordinates in Texas. If you cannot verify coordinates confidently, leave the POI out rather than publishing bad data.
 - **Use web search for all facts.** Never invent details, stories, or book titles.
 - **Quality over completeness.** A great overview with 10 well-written POIs beats a thin list of 40.
 - **Don't force sections.** Only create a section if you have real content for it.

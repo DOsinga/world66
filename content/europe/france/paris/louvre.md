@@ -15,6 +15,13 @@ tags:
 - leshalles
 title: Louvre Museum
 type: poi
+story: >
+  The Mona Lisa is displayed behind bulletproof glass not because of theft —
+  though it was famously stolen in 1911 and missing for two years — but
+  because in 1956 a visitor threw acid at the lower half of the painting.
+  The thief, an Italian handyman named Vincenzo Peruggia, hid in a closet
+  overnight, walked out with the painting under his coat, and kept it in
+  his apartment in Florence for more than two years before being caught.
 url: www.louvre.fr
 ---
 

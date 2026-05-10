@@ -11,6 +11,13 @@ tags:
 - sight
 title: Arc de Triomphe
 type: poi
+story: >
+  Napoleon never passed through his own arch in triumph. He commissioned it
+  in 1806 after Austerlitz, but construction was slow and the arch was only
+  completed in 1836, fifteen years after his death on Saint Helena. When his
+  remains were brought back to Paris in 1840, the funeral cortège was
+  ceremonially routed through the completed arch — the only time Napoleon
+  ever passed beneath it.
 url: www.paris-arc-de-triomphe.fr
 ---
 

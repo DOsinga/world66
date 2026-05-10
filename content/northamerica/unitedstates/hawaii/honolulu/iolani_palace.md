@@ -11,6 +11,13 @@ tags:
 - chinatown
 title: Iolani Palace
 type: poi
+story: >
+  After the overthrow of the Hawaiian monarchy in 1893, Queen Liliuokalani was
+  imprisoned on the second floor of her own palace for nine months, accused of
+  treason for attempting to promulgate a new constitution. She was confined to
+  a single bedroom with one lady-in-waiting allowed during the day, but no
+  other visitors. During her imprisonment she composed music and embroidered a
+  quilt that is still displayed in the palace today.
 ---
 
 Iolani Palace is the only royal residence on United States territory. Built in 1882 by King David Kalakaua in an American Florentine style, it had electricity before the White House did. The palace served as the royal residence until Queen Liliuokalani was overthrown in 1893 by a group of American businessmen backed by US Marines.

@@ -5,7 +5,10 @@ latitude: 36.098041
 longitude: -112.096279
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-09'
 score: 0.93
+tier: 2
+tags: [nature, hiking, history, wildlife]
 image: grandcanyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg
 image_license: CC BY-SA 3.0

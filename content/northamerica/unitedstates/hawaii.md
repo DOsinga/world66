@@ -1,10 +1,20 @@
 ---
 title: Hawaii
 type: location
+tier: 2
+tags:
+  - islands
+  - beaches
+  - volcanoes
+  - snorkeling
+  - hiking
+  - surfing
+  - polynesian
 latitude: 19.593802
 longitude: -155.42837
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-09'
 score: 0.93
 image: hawaii.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hawaii,_United_States_(Unsplash).jpg

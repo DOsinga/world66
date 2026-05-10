@@ -5,6 +5,11 @@ done:
 latitude: 35.7148
 longitude: 139.7967
 snippet: Tokyo's oldest temple, founded 628 AD, dedicated to Kannon
+story: >
+  The great Kaminarimon Gate was originally built in 942 AD but burned down repeatedly over the centuries. The current gate, with its enormous 700-kilogram red lantern, was only rebuilt in 1960, funded by the Panasonic founder Konosuke Matsushita after he recovered from illness following a prayer at the temple. The lantern, replaced every decade, bears the inscription "Raijin" (Thunder God) on one side and "Fujin" (Wind God) on the other — the two deities represented by the statues flanking it.
+tags:
+- things_to_do
+- sight
 title: Sensoji Temple
 type: poi
 ---

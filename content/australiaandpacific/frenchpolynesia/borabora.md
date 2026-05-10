@@ -5,7 +5,10 @@ latitude: -16.504347
 longitude: -151.736689
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-09'
 score: 0.93
+tier: 2
+tags: [beaches, diving, nature, wildlife]
 image: borabora.jpg
 image_source: https://commons.wikimedia.org/wiki/File:BoraBora_SEtienne.jpg
 image_license: CC BY-SA 3.0

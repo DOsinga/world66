@@ -1,5 +1,0 @@
-northamerica/unitedstates/hawaii
-northamerica/unitedstates/arizona/grandcanyon
-northamerica/canada/alberta/banff
-australiaandpacific/frenchpolynesia/borabora
-asia/vietnam/halongbay

@@ -5,7 +5,10 @@ latitude: 19.593802
 longitude: -155.42837
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-09'
 score: 0.93
+tier: 1
+tags: [beaches, nature, hiking, diving, history, culture]
 image: hawaii.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hawaii,_United_States_(Unsplash).jpg
 image_license: CC0

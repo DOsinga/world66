@@ -1,5 +1,0 @@
-europe/italy/liguria/corniglia
-northamerica/canada/ontario/port_burwell
-northamerica/canada/ontario/kawartha_lakes
-asia/maldives/south_male_atoll
-europe/albania/shkoder

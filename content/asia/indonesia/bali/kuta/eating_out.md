@@ -3,6 +3,92 @@ title: "Eating Out"
 type: section
 ---
 
-Kuta will feed you anything you like, in any quantity, for any price. Most of it is aimed squarely at tourists — pizza, burgers, Australian-pub menus, and watered-down nasi goreng. The good news is that the real Indonesian food is still here if you know where to look. Local warungs hide on the side lanes, and a few long-running institutions on Poppies and Jalan Legian have survived since the surfer days.
+**Restaurants**
 
-For Indonesian, head to **Made's Warung** or any of the small warungs on Poppies II. For seafood, the **Jimbaran** fish market grills, twenty minutes south, are the local night out. For comfort food, the streets are full of options that will not surprise you in any direction.
+**Amigos Salsaria**
+
+
+
+address: Kuta Center, Kartika Plaza
+
+**Hard Rock Cafe**
+
+** Pete:** The Bali Hard Rock is unremarkably like every other Hard Rock Cafe around the world. It's a good place to go if you're feeling homesick or longing for some Western-style food. It's one of the few places in Kuta where you can eat beef and be reasonably confident you won't [more..](/asia/indonesia/bali/kuta/eatingout/hardrockcafe)
+
+address: Jl Pantai Kuta
+
+**All Star Surf Cafe**
+
+
+
+address: Jl Kartika Plaza
+
+**Tubes**
+
+
+
+address: Jl Poppies II
+
+**BB Discotheque**
+
+
+
+address: Ramada Bintang Bali Hotel
+
+**Ryoshi’s**
+
+
+
+address: Jl Melasti
+
+**Bounty Ship**
+
+
+
+address: Bounty Mall Kuta
+
+**Aroma’s **
+
+
+
+address: Jl Legian
+
+**Macaroni Club**
+
+
+
+address: Jl Legian
+
+tel: +62 361 754662
+
+**Kin Khao**
+
+
+
+address: Jl Kartika Plaza
+
+**Made’s Warung**
+
+
+
+address: Gang Poppies 2
+
+tel: +62 361 758605
+
+**O’Barrel Pub**
+
+
+
+address: Jl Melasti
+
+**Warung Made**
+
+
+
+address: Jl Pantai Kuta
+
+**Poppies **
+
+** Pete:** Poppies is a Kuta institution and is worth a visit, even if you don't have a full meal there. Don't forget there is now a Poppies 2, which is even harder to find!
+
+address: Poppies Lane I

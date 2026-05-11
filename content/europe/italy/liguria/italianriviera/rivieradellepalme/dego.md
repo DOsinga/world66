@@ -1,21 +1,37 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-05-11'
-image: dego.jpg
-image_attribution: F Ceragioli
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Bormida_di_spigno_a_dego.jpg
 latitude: 44.443038
-loc_type: city
 longitude: 8.305947
-score: 0.4
 title: Dego
 type: location
+score: 0.4
+loc_type: city
 ---
 
-Dego is a small agricultural village in the Bormida valley on the inland slopes of the Ligurian Apennines, surrounded by vineyards and hazelnut and chestnut groves. It first appears in a charter of Otto I in 967 and was held from 1142 by the Del Carretto marquises, who fortified the village and ran a mint here. It passed to Monferrato in 1419 and then to Savoy in the 17th century.
-
-In April 1796 it was the site of one of Napoleon's first major victories — the **Battle of Dego**, in which the young French general routed the Austrians on his way south to the Ligurian coast. The fighting and the looting that followed cost roughly four hundred civilian lives.
-
-The 13th-century **castle ruins** on the hill above the village mark the original Del Carretto stronghold, with two smaller castle remains in the outlying hamlets of Santa Giulia and Brovida. The **parish church of Sant'Ambrogio** was rebuilt in 1810; the small **church of San Rocco** is 17th-century. The local economy has long mixed agriculture with glassmaking, a tradition shared with the nearby town of [Altare](/europe/italy/liguria/italianriviera/rivieradellepalme/altare).
+An agricultural center on the slopes of the
+ Ligurian Appennines, it is set on an extensive
+ plain of the Bormida di Spigno and is
+ surrounded by vineyards and hazelnut and
+ chestnut groves. Mentioned in a diploma of
+ concession of Otto I (967), Dego was inherited
+ in 1142 by the marchesi Del Carretto, who
+ fortified the village and set up a mint there. In
+ 1214 the marchesi submitted to Genoa but
+ retained the investiture of the fief, over which
+ the bishop of Acqui had the right to tithes. In
+ 1419 Dego passed to the marchesi del
+ Monferrato and then to the Savoy (seventeenth
+ century). In April 1796 it was the site of a battle
+ at which Napoleon defeated the Austrians and
+ that cost the lives of 400 civilians. The ruins of
+ the medieval castle situated to the north of the
+ village date from the thirteenth century. There
+ are the ruins of two more medieval castles at
+ the localities of Santa Giulia and Brovida. The
+ parish church of Sant'Ambrogio was erected in
+ 1810 on the site of a preexisting building, while
+ the church of San Rocco is of seventeenth-century
+ origin. The local manufacturing
+ industry is based around a number of
+ glassworks.

@@ -16,7 +16,7 @@ quick_facts:
 score: 0.84
 title: Sydney
 type: location
-loc_type: region
+loc_type: city
 ---
 
 Sydney is built around one of the most beautiful natural harbours in the world, and that harbour shapes everything about the city. The Opera House and Harbour Bridge are the famous landmarks, but the real pleasure is in how water threads through daily life here -- ferries crisscrossing the harbour, coastal walks connecting beach after beach, and that particular quality of light bouncing off the Pacific.

@@ -21,6 +21,7 @@ asia/japan/honshu/osaka
 europe/netherlands/amersfoort
 europe/spain/catalonia/barcelona
 europe/italy/lombardia/bergamo
+europe/unitedkingdom/england/london
 northamerica/unitedstates/florida/miami
 africa/egypt/cairo
 asia/kazakhstan/almaty
@@ -75,6 +76,7 @@ northamerica/unitedstates/massachusetts/boston
 asia/indonesia/java/jakarta
 northamerica/canada/quebec/montreal
 asia/china/guangzhou
+australiaandpacific/australia/newsouthwales/sydney
 northamerica/canada/alberta/banff
 northamerica/canada/ontario/niagrafalls
 asia/india/delhi
@@ -239,6 +241,7 @@ northamerica/unitedstates/florida/orlando
 europe/italy/liguria/genoa
 northamerica/unitedstates/california/centralcoast/santabarbara
 europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham
+northamerica/unitedstates/tennessee/nashville
 asia/jordan/petra
 europe/italy/liguria/sestri_levante
 northamerica/unitedstates/florida/northeastflorida/staugustine
@@ -341,6 +344,7 @@ europe/norway/stavanger
 asia/china/wuhan
 europe/greece/kavala
 northamerica/unitedstates/missouri/kansascity
+northamerica/unitedstates/virginia/arlington
 europe/france/midi/provence/avignon
 northamerica/unitedstates/tennessee/memphis
 europe/slovenia/ljubljana
@@ -409,6 +413,7 @@ southamerica/colombia/tunja
 europe/malta/valletta
 northamerica/unitedstates/california/losangeles/pasadena
 southamerica/colombia/villadeleyva
+northamerica/unitedstates/wisconsin/milwaukee
 africa/libya/tripoli
 asia/saudiarabia/qatif
 northamerica/unitedstates/connecticut/hartford

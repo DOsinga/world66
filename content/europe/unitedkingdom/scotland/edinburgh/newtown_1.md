@@ -1,12 +1,14 @@
 ---
 title: New Town
-type: location
+type: neighbourhood
 latitude: 55.955458
 longitude: -3.199
 done:
   location_cleanup: 2026-04-06
 score: 0.73
-loc_type: neighbourhood
+tags:
+- neighbourhood
+- things_to_do
 ---
 
 The New Town is a highly planned Georgian-era expansion of Edinburgh as the rich classes finally decided to move across the festering Nor' Loch (now drained and become Princes St. Gardens and the rail yards of Waverly Station) and escape the squalor and over-crowding that characterised the Old Town in those days.

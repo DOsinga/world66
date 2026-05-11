@@ -4,9 +4,11 @@ done:
 latitude: 29.7459
 longitude: -95.394
 title: Montrose
-type: location
+type: neighbourhood
 score: 0.42
-loc_type: neighbourhood
+tags:
+- neighbourhood
+- things_to_do
 ---
 
 Montrose is [Houston](/northamerica/unitedstates/texas/houston)'s most bohemian neighbourhood — a walkable grid of bungalows, art galleries, vintage shops, and tattoo parlours that feels like a different city from the sprawling suburbs around it. It is the heart of Houston's LGBTQ+ community, with gay bars clustered along Pacific Street and Fairview.

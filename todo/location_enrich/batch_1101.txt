@@ -1,0 +1,5 @@
+africa/comoros/mayotte
+northamerica/greenland/tasiilaq
+northamerica/unitedstates/alaska/seward
+asia/brunei/bandarseribegawan
+asia/india/maharashtra/konkan/madhegaon_kond

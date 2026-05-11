@@ -1,0 +1,5 @@
+europe/france/normandybrittany/guilvinec
+northamerica/unitedstates/alabama/daviston
+europe/unitedkingdom/england/south_east/marlow
+europe/france/around_paris/rueilmalmaison
+northamerica/honduras/santarosadecop

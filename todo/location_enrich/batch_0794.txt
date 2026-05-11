@@ -1,0 +1,5 @@
+africa/saotomeandprincipe/saotome
+europe/greece/zakinthos/tsilivi
+africa/tanzania/arusha
+northamerica/unitedstates/minnesota/moorhead
+northamerica/unitedstates/california/centralvalley/fresno

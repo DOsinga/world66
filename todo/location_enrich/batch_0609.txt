@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/losangeles/newhall
+europe/france/midi/cotedazur/cannes
+northamerica/unitedstates/florida/gainesville
+asia/vietnam/vinh
+northamerica/unitedstates/california/highsierra/bishop

@@ -1,0 +1,5 @@
+europe/bosniaandherzegovina/rakitnica_canyon/neretva
+northamerica/unitedstates/california/kingsburg
+europe/estonia/haapsalu
+europe/germany/northrhinewestphalia/paderborn
+asia/india/meghalaya/cherrapunji

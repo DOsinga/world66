@@ -1,0 +1,5 @@
+europe/belgium/lier
+africa/mauritius/mahebourg
+africa/egypt/dahab
+europe/croatia/dubrovnik
+europe/italy/sicily/pelagianislands/lampedusa

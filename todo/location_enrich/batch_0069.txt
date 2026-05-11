@@ -1,0 +1,5 @@
+asia/philippines/cebu/cebucity
+asia/malaysia/langkawi
+europe/romania/suceava
+asia/vietnam/danang
+europe/germany/lowersaxony/braunschweig

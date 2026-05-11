@@ -1,0 +1,5 @@
+northamerica/panama/colon
+asia/india/westbengal/calcutta
+africa/kenya/centralhighlands/nanyuki
+southamerica/argentina/patagonia/calafate
+europe/norway/lofotenislands/moskenes

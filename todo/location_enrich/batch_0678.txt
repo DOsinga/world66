@@ -1,0 +1,5 @@
+northamerica/unitedstates/nevada/lasvegas
+northamerica/mexico/mexicali
+northamerica/unitedstates/newyorkstate/saranac_lake
+asia/philippines/samarisland/calbayog
+europe/estonia/kabli

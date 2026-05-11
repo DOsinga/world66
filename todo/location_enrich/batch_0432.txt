@@ -1,0 +1,5 @@
+europe/france/alpes/courthezon
+europe/unitedkingdom/england/south_east/dover
+europe/unitedkingdom/scotland/glasgow/renfrew
+europe/france/east/burgundy/autun
+africa/benin/abomey

@@ -1,0 +1,5 @@
+europe/italy/liguria/italianriviera/rivieradellepalme/testico
+europe/albania/tirana
+northamerica/unitedstates/california/sanfrancisco
+northamerica/unitedstates/florida/pasco_county/dade_city
+northamerica/canada/ontario/wawa

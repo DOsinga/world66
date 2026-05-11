@@ -1,0 +1,5 @@
+northamerica/unitedstates/missouri/sedalia
+asia/lebanon/cedarsoflebanon
+europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham
+northamerica/unitedstates/westvirginia/bluefield_wv
+southamerica/peru/pucallpa

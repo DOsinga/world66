@@ -1,0 +1,5 @@
+northamerica/unitedstates/florida/tampabayarea/fortdesoto
+europe/croatia/podgora
+europe/estonia/laulasmaa
+europe/italy/tuscany/saturnia
+europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness

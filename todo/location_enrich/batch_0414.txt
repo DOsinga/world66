@@ -1,0 +1,5 @@
+asia/india/orissa/bargarh
+northamerica/unitedstates/newmexico/datil
+asia/indonesia/java/purwokerto
+europe/germany/hessen/frankfurt
+europe/spain/canaryislands/lanzarote/puertodelcarmen

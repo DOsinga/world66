@@ -1,0 +1,5 @@
+asia/bhutan/paro
+asia/india/gujarat/rajkot
+europe/switzerland/nyon
+europe/unitedkingdom/scotland/shetland/unst
+asia/japan/shikoku/kotohira

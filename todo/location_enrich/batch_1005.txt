@@ -1,0 +1,5 @@
+africa/tanzania/kondoa
+northamerica/unitedstates/alabama/huntsville
+europe/unitedkingdom/scotland/handa_island
+europe/italy/puglia/brindisi
+africa/zimbabwe/gonarezhou

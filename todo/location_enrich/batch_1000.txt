@@ -1,0 +1,5 @@
+europe/portugal/chaves
+europe/switzerland/fribourg
+northamerica/unitedstates/florida/indialantic
+europe/unitedkingdom/england/south_east/hastings
+europe/unitedkingdom/england/south_east/chiswick

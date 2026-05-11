@@ -1,0 +1,5 @@
+europe/spain/andalucia/guadalteba
+europe/germany/lowersaxony/hildesheim
+southamerica/brazil/laguna
+europe/russia/chita
+northamerica/jamaica/spanishtown

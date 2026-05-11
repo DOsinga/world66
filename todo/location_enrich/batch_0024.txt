@@ -1,0 +1,5 @@
+europe/netherlands/tjuchum
+europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles
+europe/unitedkingdom/england/lakedistrict/bowness
+northamerica/unitedstates/maine/kittery
+asia/turkey/anamur

@@ -1,0 +1,5 @@
+northamerica/thecaribbean/haiti/portauprince
+europe/france/midi/languedoc/carcassonne
+southamerica/peru/cuzco
+europe/russia/vladimir
+northamerica/unitedstates/southcarolina/charleston

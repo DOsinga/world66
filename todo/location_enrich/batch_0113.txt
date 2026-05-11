@@ -1,0 +1,5 @@
+asia/india/maharashtra/nagpur
+asia/philippines/samarisland/borongan
+northamerica/unitedstates/montana/virginiacity
+africa/ethiopia/jimma
+europe/italy/liguria/italianriviera/sanremo

@@ -1,0 +1,5 @@
+asia/jordan/umm_qais
+europe/portugal/braga
+northamerica/honduras/siguatepeque
+asia/india/jammuandkashmir/gulmarg
+europe/azerbaijan/krasnayasloboda

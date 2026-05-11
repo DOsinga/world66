@@ -1,0 +1,5 @@
+africa/tanzania/dodoma
+asia/japan/kyushu/oita
+africa/somalia/dusa_mareb
+europe/malta/qrendi
+africa/kenya/centralhighlands/nyeri

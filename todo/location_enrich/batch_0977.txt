@@ -1,0 +1,5 @@
+africa/chad/wour
+asia/india/andhrapradesh/srikakulam
+asia/malaysia/kuala_terengganu
+europe/germany/northrhinewestphalia/siegen
+southamerica/argentina/cafayate

@@ -1,0 +1,5 @@
+southamerica/brazil/sao_luis
+europe/unitedkingdom/northernireland/belfast
+northamerica/unitedstates/massachusetts/yarmouth
+europe/spain/galicia/tui
+europe/italy/sardinia/sassari

@@ -1,0 +1,5 @@
+northamerica/unitedstates/missouri/rolla
+europe/italy/tuscany/lucignano
+europe/portugal/odemira
+europe/germany/rhinelandpalatinate/kaiserslautern
+northamerica/thecaribbean/puertorico/ponce

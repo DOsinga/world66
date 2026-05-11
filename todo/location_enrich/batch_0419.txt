@@ -1,0 +1,5 @@
+asia/japan/honshu/kawasaki
+europe/spain/andalucia/estepona
+northamerica/unitedstates/massachusetts/marblehead
+europe/lithuania/dzkija_national
+asia/malaysia/kuching

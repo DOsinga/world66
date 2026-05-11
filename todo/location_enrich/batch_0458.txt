@@ -1,0 +1,5 @@
+europe/norway/lofotenislands/vestvagoy
+europe/ukraine/lviv
+northamerica/unitedstates/arkansas/pearidge
+northamerica/canada/ontario/guelph_and_area
+asia/india/goa/mapusa

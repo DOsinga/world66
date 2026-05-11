@@ -1,0 +1,5 @@
+northamerica/unitedstates/newmexico/ojo_caliente
+northamerica/unitedstates/southdakota/siouxfalls
+africa/ethiopia/addisababa
+northamerica/unitedstates/california/orangecounty/buenapark
+europe/slovenia/lipica

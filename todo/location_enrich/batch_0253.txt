@@ -1,0 +1,5 @@
+northamerica/nicaragua/granada
+northamerica/thecaribbean/puertorico/arecibo
+europe/sweden/lvstabruk
+northamerica/thecaribbean/guadeloupe/lessaintes
+northamerica/unitedstates/colorado/winter_park

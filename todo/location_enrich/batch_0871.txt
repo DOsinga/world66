@@ -1,0 +1,5 @@
+asia/india/jammuandkashmir/srinagar
+southamerica/brazil/olinda
+europe/norway/flor
+asia/thailand/chiangrai
+africa/chad/ndjamena

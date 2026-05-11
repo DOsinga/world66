@@ -1,0 +1,5 @@
+northamerica/unitedstates/oklahoma/tulsa
+europe/russia/yaroslavl
+europe/unitedkingdom/wales/bangor_wales
+northamerica/unitedstates/mississippi/forest
+europe/russia/pyatigorsk

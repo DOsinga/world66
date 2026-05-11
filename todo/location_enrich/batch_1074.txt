@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/shastacascade/susanville
+asia/japan/honshu/tsukuba
+northamerica/unitedstates/georgia/valdosta
+northamerica/panama/portobelo
+northamerica/unitedstates/washington/okanogan

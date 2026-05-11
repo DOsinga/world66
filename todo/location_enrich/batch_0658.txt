@@ -1,0 +1,5 @@
+asia/lebanon/baalbek
+europe/netherlands/heerlen
+asia/indonesia/loksado
+europe/greece/chios
+europe/spain/canaryislands/lanzarote/playa_blanca

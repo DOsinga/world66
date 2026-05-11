@@ -1,0 +1,5 @@
+asia/pakistan/multan
+africa/algeria/inguezzam
+southamerica/guyana/baganara
+africa/angola/ondjiva
+europe/netherlands/almere

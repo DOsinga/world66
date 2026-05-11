@@ -1,0 +1,5 @@
+europe/sweden/karlskrona
+asia/afghanistan/balkh
+africa/botswana/ghanzi
+africa/algeria/biskra
+asia/japan/honshu/inuyama

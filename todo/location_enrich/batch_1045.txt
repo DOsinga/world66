@@ -1,0 +1,5 @@
+europe/denmark/skagen
+northamerica/unitedstates/wyoming/evanston
+africa/senegal/touba
+europe/spain/catalonia/salou
+europe/italy/sicily/erice

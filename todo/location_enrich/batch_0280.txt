@@ -1,0 +1,5 @@
+asia/iran/yazd
+northamerica/unitedstates/georgia/hiawassee_ga
+europe/hungary/visegrad
+northamerica/unitedstates/nebraska/minden
+southamerica/venezuela/falcn

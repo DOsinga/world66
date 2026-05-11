@@ -1,0 +1,5 @@
+europe/italy/campania/caserta
+southamerica/brazil/belem
+europe/finland/naantali
+northamerica/unitedstates/maine/fryeburg
+europe/netherlands/gouda

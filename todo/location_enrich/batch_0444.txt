@@ -1,0 +1,5 @@
+europe/sweden/gotland
+europe/serbia/kosovoprovince/ferizaj
+asia/china/huayang_village
+europe/spain/galicia/vigo_city
+northamerica/unitedstates/utah/buckskin_gulch

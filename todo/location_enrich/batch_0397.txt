@@ -1,0 +1,5 @@
+europe/spain/andalucia/whitevillages
+europe/unitedkingdom/manisleof/laxey
+europe/croatia/rijeka
+europe/germany/badenwrttemberg/neckargemuend
+europe/bulgaria/burgas

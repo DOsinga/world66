@@ -1,0 +1,5 @@
+northamerica/unitedstates/washington/bellevue
+northamerica/unitedstates/mississippi/biloxi
+europe/serbiaandmontenegro/kosovoprovince/peja
+northamerica/unitedstates/california/northcoast/sonoma
+asia/philippines/camiguinisland

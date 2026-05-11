@@ -1,0 +1,5 @@
+northamerica/canada/quebec/aylmer
+europe/bulgaria/belogradchik
+northamerica/unitedstates/washington/spokane
+europe/norway/flm
+asia/china/xinjiangprovince/altayprefecture

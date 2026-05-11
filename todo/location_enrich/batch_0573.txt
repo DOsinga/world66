@@ -1,0 +1,5 @@
+europe/poland/warsaw
+europe/germany/mecklenburgwesternpomerania/stralsund
+africa/chad/emikoussi
+europe/spain/castellon/morella
+africa/namibia/outjo

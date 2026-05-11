@@ -1,0 +1,5 @@
+northamerica/thecaribbean/puertorico/condado
+northamerica/unitedstates/virginia/wytheville
+asia/turkmenistan/chardzhou
+europe/portugal/theazores/angra_do_heroismo
+northamerica/unitedstates/nevada/carsoncity

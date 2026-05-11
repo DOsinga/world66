@@ -1,0 +1,5 @@
+europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino
+northamerica/unitedstates/missouri/boonville
+asia/india/haryana/hansi
+northamerica/mexico/jalapa
+europe/france/alpes/annecy

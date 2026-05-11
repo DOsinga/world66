@@ -1,0 +1,5 @@
+asia/turkmenistan/erbent
+northamerica/unitedstates/washington/bellingham
+europe/hungary/szeged
+northamerica/unitedstates/california/goldcountry/folsom
+northamerica/unitedstates/newyorkstate/new_paltz

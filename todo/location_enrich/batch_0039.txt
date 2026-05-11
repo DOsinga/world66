@@ -1,0 +1,5 @@
+europe/italy/veneto/lessinia
+europe/ukraine/chernobyl/pripiat
+europe/germany/lowersaxony/goslar
+europe/spain/andalucia/tarifa
+africa/tanzania/daressalaam

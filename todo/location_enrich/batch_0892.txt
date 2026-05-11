@@ -1,0 +1,5 @@
+europe/norway/ndalsnes
+europe/spain/galicia/sanxenxo
+europe/netherlands/alkmaar
+europe/netherlands/waddenislands/vlieland_island
+africa/nigeria/jos

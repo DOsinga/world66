@@ -1,0 +1,5 @@
+southamerica/brazil/arraial_da_ajuda
+asia/philippines/pagadiancity
+northamerica/unitedstates/illinois/streator
+europe/croatia/pasman_island/mrljane
+europe/malta/gozo

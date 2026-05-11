@@ -1,0 +1,5 @@
+europe/germany/badenwrttemberg/freiburg
+northamerica/unitedstates/maryland/rock_hall
+asia/thailand/chantaburi/chanta_buri
+europe/austria/hallein
+southamerica/chile/puertovaras

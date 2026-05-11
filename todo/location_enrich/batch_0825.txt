@@ -1,0 +1,5 @@
+northamerica/mexico/maruata
+europe/spain/galicia/baiona
+asia/china/sichuanprovince/leshan
+northamerica/unitedstates/alabama/tuscaloosa
+europe/ireland/westport

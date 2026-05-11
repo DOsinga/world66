@@ -1,0 +1,5 @@
+northamerica/canada/britishcolumbia/golden
+europe/croatia/plitvice
+europe/moldova/orheiul_vechi_2
+asia/papuanewguinea/rabaul
+australiaandpacific/australia/westernaustralia/kalbarri

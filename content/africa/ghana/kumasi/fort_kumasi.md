@@ -1,6 +1,6 @@
 ---
-latitude: 6.6959
-longitude: -1.6217
+latitude: 6.6914
+longitude: -1.6249
 snippet: Colonial-era fort turned military museum
 story: 'The original British fort was burned to the ground by Ashanti forces during
   the wars of resistance. The current structure was built after the British conquest

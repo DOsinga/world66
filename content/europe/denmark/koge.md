@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-11'
+image: koge.jpg
+image_attribution: Hubertus45
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:K%C3%B8ge_-_Kirkestr%C3%A6de.jpg
 latitude: 55.4565
+loc_type: city
 longitude: 12.1819
+score: 0.5
 title: Køge
 type: location
-score: 0.5
-loc_type: city
 ---
 
 **Køge** is one of the best-preserved medieval towns in Denmark, sitting on the shore of Køge Bay about 40 km south of Copenhagen. The old harbour town grew prosperous in the 15th century, and a walk through the cobbled streets today shows how well that prosperity has been maintained.

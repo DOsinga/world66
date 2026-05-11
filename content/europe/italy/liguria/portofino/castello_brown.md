@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - historic_house
-latitude: 44.3033
-longitude: 9.2090
+latitude: 44.3021
+longitude: 9.2143
 story: >
   The castle was sold to the British consul Montague Yeats-Brown in 1870 for 7,000 lire — a pittance for a medieval fortress. Yeats-Brown had first spotted it from the sea while sailing his vessel Black Tulip and was so captivated he simply bought it. Among his guests at the refurbished villa were Lord Carnarvon, the Egyptologist who would later finance the discovery of Tutankhamun's tomb.
 ---

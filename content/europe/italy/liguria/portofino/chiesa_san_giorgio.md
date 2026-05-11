@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 44.3034
-longitude: 9.2089
+latitude: 44.3014
+longitude: 9.2115
 story: >
   The church's relics of St George were brought to Portofino by sailors returning from the Crusades in the 12th century. The building was destroyed during World War II Allied bombardments in 1943 and completely rebuilt afterwards — so while the site is ancient, almost everything you see today dates from the postwar reconstruction.
 ---

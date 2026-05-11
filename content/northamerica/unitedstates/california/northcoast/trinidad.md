@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-11'
+image: trinidad.jpg
+image_source: https://www.flickr.com/photos/13612227@N02/51196088611
+image_license: CC BY-SA 2.0
+image_attribution: Dana L. Brown on Flickr
 latitude: 41.0594
 loc_type: city
 longitude: -124.1437

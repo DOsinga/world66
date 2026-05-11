@@ -926,7 +926,9 @@ def plan_stop(request, slug, city_slug):
     city_snippet = None
     city_image_url = None
     # Check for LLM-written intro first
-    intro_file = PLANS_DIR / plan["slug"] / "intros" / f"{city_slug}.md"
+    _stop_city_path = stop.get("city_path", "")
+    intro_file = (PLANS_DIR / plan["slug"] / _stop_city_path / "intro.md"
+                  if _stop_city_path else PLANS_DIR / plan["slug"] / "intros" / f"{city_slug}.md")
     if intro_file.is_file():
         city_snippet = intro_file.read_text().strip()
     elif city_page:
@@ -1225,8 +1227,8 @@ def plan_image(request, image_path):
     import mimetypes
     from django.http import FileResponse
     safe_path = image_path.lstrip("/")
-    # Only allow <plan_slug>/images/... paths to prevent directory traversal
-    if ".." in safe_path or "/images/" not in safe_path:
+    # Prevent directory traversal; only serve known image types
+    if ".." in safe_path or not re.search(r"\.(jpe?g|png|webp|gif)$", safe_path, re.I):
         raise Http404
     file_path = PLANS_DIR / safe_path
     if not file_path.is_file():
@@ -1340,14 +1342,15 @@ def _fetch_wikipedia_image(city_title: str, dest_dir: Path) -> str | None:
         return None
 
 
-def _copy_location_image(city_page, plan_slug: str) -> str | None:
-    """Copy a city page's hero image into plans/<plan_slug>/images/.
+def _copy_location_image(city_page, plan_slug: str, city_path: str = "") -> str | None:
+    """Copy a city page's hero image into plans/<plan_slug>/<city_path>/.
 
     Falls back to fetching from Wikipedia when no content image exists.
-    Returns the relative path (e.g. '<plan_slug>/images/<file>') or None.
+    Returns the relative path (e.g. '<plan_slug>/<city_path>/<file>') or None.
     """
     import shutil
-    dest_dir = PLANS_DIR / plan_slug / "images"
+    rel_dir = f"{plan_slug}/{city_path}" if city_path else plan_slug
+    dest_dir = PLANS_DIR / rel_dir
     dest_dir.mkdir(parents=True, exist_ok=True)
 
     if city_page:
@@ -1358,13 +1361,13 @@ def _copy_location_image(city_page, plan_slug: str) -> str | None:
                 dest = dest_dir / src.name
                 if not dest.exists():
                     shutil.copy2(src, dest)
-                return f"{plan_slug}/images/{src.name}"
+                return f"{rel_dir}/{src.name}"
 
     # No content image — try Wikipedia
     if city_page:
         filename = _fetch_wikipedia_image(city_page.title, dest_dir)
         if filename:
-            return f"{plan_slug}/images/{filename}"
+            return f"{rel_dir}/{filename}"
 
     return None
 
@@ -1517,7 +1520,7 @@ def api_plan_create(request):
     for r in resolved:
         city_path_key = r.get("city_path") or r["city_slug"]
         if city_path_key not in seen_city_paths:
-            img_path = _copy_location_image(r.get("city_page"), slug)
+            img_path = _copy_location_image(r.get("city_page"), slug, r.get("city_path", ""))
             seen_city_paths.add(city_path_key)
         else:
             img_path = stop_images.get(r["city_slug"].rsplit("-", 1)[0])
@@ -1658,9 +1661,9 @@ def api_research_submit(request):
 
     # Save intro text if provided
     if intro and plan_slug and city_slug:
-        intro_dir = PLANS_DIR / plan_slug / "intros"
+        intro_dir = PLANS_DIR / plan_slug / city_path
         intro_dir.mkdir(parents=True, exist_ok=True)
-        (intro_dir / f"{city_slug}.md").write_text(intro)
+        (intro_dir / "intro.md").write_text(intro)
 
     def _slugify(text):
         text = text.lower().strip()

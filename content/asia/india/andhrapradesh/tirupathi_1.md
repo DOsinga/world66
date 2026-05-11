@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
 latitude: 13.6288
+loc_type: city
 longitude: 79.4192
+score: 0.51
 title: Tirupati
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Tirupati is one of the most visited pilgrimage sites in the world. The Sri Venkateswara Temple at Tirumala, set on a hill 3,200 feet above the plains of [Andhra Pradesh](/asia/india/andhrapradesh), draws tens of millions of devotees each year — more than the Vatican or Mecca. The queues for darshan (viewing of the deity) can stretch for hours, sometimes an entire day, and the town's infrastructure is built around moving this extraordinary volume of people.

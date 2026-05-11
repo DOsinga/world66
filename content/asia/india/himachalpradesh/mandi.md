@@ -1,17 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-11'
-image: mandi.jpg
-image_attribution: Ms Sarah Welch
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:0042623_Trilokinatha_temple_group,_Mandi,_Himachal_Pradesh_018.jpg
-latitude: 31.706944
-loc_type: city
-longitude: 76.931666
-score: 0.51
+latitude: 31.651662
+longitude: 77.009254
 title: Mandi
 type: location
+score: 0.51
+loc_type: city
 ---
 
 Mandi sits at around 800 metres on the banks of the river Beas, a historic trading town where the plains of Punjab once met the hill kingdoms. Often called the "Varanasi of the Hills," Mandi is said to have 81 old stone temples, many of them built in the Nagari style with intricate carvings depicting scenes from Hindu mythology. The most important is the Bhootnath Temple near the town centre, dedicated to Shiva.

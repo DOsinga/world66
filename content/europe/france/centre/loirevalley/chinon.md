@@ -2,18 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-21'
-image: chinon.jpg
-image_attribution: fourthandfifteen on Flickr
-image_license: CC BY 2.0
-image_source: https://www.flickr.com/photos/29356515@N00/4927434678
 latitude: 47.1667
-loc_type: city
 longitude: 0.2402
 score: 0.63
 title: Chinon
 type: location
+loc_type: city
 ---
 
 Chinon sits on the south bank of the Vienne river, its medieval fortress looming over a compact old town of half-timbered houses and tufa-stone mansions. It's one of the most characterful towns in the Loire Valley — small enough to walk across in an hour, substantial enough to fill a full day.

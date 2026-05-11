@@ -5,7 +5,7 @@ longitude: 47.5266
 opening_hours: Office hours
 phone: +261 20 22 403 19
 tags:
-- museums
+- things_to_do
 - museum
 title: National Museum of Geology
 type: poi

@@ -1,0 +1,5 @@
+northamerica/mexico/mazatlan
+asia/uzbekistan/samarkand
+southamerica/brazil/saopaulo
+asia/turkmenistan/mary
+asia/maldives/ari_atoll/rasdhoo

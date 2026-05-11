@@ -1,0 +1,5 @@
+northamerica/unitedstates/michigan/warrendunes
+asia/philippines/binanlaguna
+europe/spain/galicia/valdeorras
+africa/somaliland/xiis
+europe/ireland/bray

@@ -6,6 +6,7 @@ longitude: -52.64242
 title: Kourou
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Kourou is a small, well-kept town on the coast of French Guiana, best known as the home of the Guiana Space Centre — Europe's spaceport, from which Ariane rockets are launched. The space centre dominates the local economy and gives the town a more modern, planned feel than most settlements in the region.

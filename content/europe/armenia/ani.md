@@ -6,6 +6,7 @@ longitude: 43.5728
 done:
   location_cleanup: 2026-04-05
 score: 0.52
+loc_type: feature
 ---
 
 **Note:** Ani is located in Turkey (Kars province), just across the Akhurian River from the Armenian border. It is not accessible from the Armenian side, as the Turkish-Armenian border remains closed. Visitors must reach it from [Kars](/asia/turkey/kars) in eastern Turkey.

@@ -6,6 +6,7 @@ longitude: -98.395228
 title: Lawton
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Lawton is southwestern Oklahoma's largest city, home to over 90,000 people and the gateway to some of the state's most striking landscapes. The **Wichita Mountains Wildlife Refuge** is the main draw, a 59,000-acre expanse of ancient granite peaks, prairie grasslands, and free-roaming bison just north of town. You can hike to the top of Mount Scott for panoramic views, spot longhorn cattle along the refuge roads, or fish in one of several lakes.

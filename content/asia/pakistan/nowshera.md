@@ -6,6 +6,7 @@ longitude: 71.981283
 done:
   location_cleanup: 2026-04-05
 score: 0.23
+loc_type: city
 ---
 
 Nowshera is a garrison town on the Kabul river in Khyber Pakhtunkhwa, about 40 km east of Peshawar. It was established by the British in the 19th century as a cantonment along the strategic road to the Khyber Pass, and it still functions primarily as the headquarters of a Pakistan Army division. For most travellers it is a place passed through on the N-5 highway between Peshawar and Islamabad rather than a destination in its own right.

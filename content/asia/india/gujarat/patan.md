@@ -6,6 +6,7 @@ longitude: 71.679858
 title: Patan
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Patan was the ancient capital of Gujarat, and its main attraction is the stunning **Rani ki Vav** (Queen's Stepwell), a UNESCO World Heritage Site. Built in the 11th century, this intricately carved stepwell descends seven stories underground, with over 800 sculptures depicting Hindu deities, apsaras, and scenes from mythology. It is one of the finest examples of stepwell architecture in India.

@@ -6,6 +6,7 @@ longitude: -96.0776
 title: Fergus Falls
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Fergus Falls is a small city of about 13,000 in west-central Minnesota, the county seat of Otter Tail County — which claims to have over a thousand lakes within its borders. Five of those lakes lie within the city limits itself. If you are driving between the Twin Cities and Fargo, Fergus Falls is the halfway point and a reasonable stop.

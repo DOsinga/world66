@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/pacific_groove
+northamerica/unitedstates/utah/mexican_hat
+europe/croatia/motovun
+africa/madagascar/antsirabe
+europe/italy/umbria/tuoro_sul_trasimeno

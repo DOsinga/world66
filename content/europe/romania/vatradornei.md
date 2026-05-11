@@ -6,6 +6,7 @@ longitude: 25.355764
 title: Vatra Dornei
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Vatra Dornei is a well-known spa and ski resort in the north of [Romania](/europe/romania), set in a valley of the Eastern Carpathians. The town has been a health resort since the Habsburg era, and the mineral springs and mountain air still draw visitors. In winter the surrounding mountains offer modest skiing; in summer the area is good for hiking.

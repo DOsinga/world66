@@ -5,6 +5,7 @@ latitude: 36.8658
 longitude: -87.489
 title: Hopkinsville
 type: location
+loc_type: city
 ---
 
 Hopkinsville is a city of about 35,000 in Christian County, western Kentucky, near the Tennessee border. It is the commercial centre of the Black Patch tobacco region and has a history connected to the Night Riders — a violent agrarian movement in the early 1900s in which tobacco farmers fought back against monopolistic buyers, resulting in raids and burnings that made this part of Kentucky genuinely lawless for a few years.

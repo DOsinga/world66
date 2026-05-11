@@ -7,6 +7,7 @@ longitude: -0.5792
 score: 0.74
 title: Bordeaux
 type: location
+loc_type: city
 ---
 
 Bordeaux is a wine city. Not just because the surrounding vineyards produce some of the most celebrated bottles on earth, but because wine shapes the rhythm of life here — the restaurants, the economy, the landscape, the conversations. If you care about wine at all, this is a pilgrimage.

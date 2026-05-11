@@ -6,6 +6,7 @@ longitude: -98.41332
 title: Watonga
 type: location
 score: 0.27
+loc_type: city
 ---
 
 Watonga is a small city in western Oklahoma, the county seat of Blaine County, set in the red-earth farm and ranch country between the Canadian River and the Glass Mountains to the north. The town was named after Arapaho chief Watonga and retains strong ties to the Cheyenne and Arapaho Tribes, whose headquarters are nearby in Concho.

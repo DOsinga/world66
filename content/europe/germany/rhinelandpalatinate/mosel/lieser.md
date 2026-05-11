@@ -6,6 +6,7 @@ longitude: 7.0208
 title: Lieser
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Lieser is a small wine village on the Mosel, tucked between steep vineyards just downstream from Bernkastel-Kues. The village takes its name from the Lieser stream, which tumbles down from the Eifel hills and meets the Mosel here. It is one of those places that perfectly captures the character of the Mosel valley — slate-roofed houses, terraced vineyards rising at improbable angles, and the river curving slowly past.

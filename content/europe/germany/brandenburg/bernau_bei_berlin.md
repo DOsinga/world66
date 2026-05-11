@@ -7,6 +7,7 @@ longitude: 13.588111
 score: 0.37
 title: Bernau bei Berlin
 type: location
+loc_type: city
 ---
 
 Bernau bei Berlin is a small historic town about 25km north of Berlin, easily reached by S-Bahn (line S2). It has a well-preserved medieval centre, including three of its original town gates — the Steintor, the Werdertor, and the Mühlentor — and a history dating back to the 13th century. It is a pleasant half-day or day trip from Berlin for those interested in Brandenburg's medieval past.

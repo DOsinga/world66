@@ -1,0 +1,5 @@
+northamerica/unitedstates/vermont/westmore
+northamerica/unitedstates/virginia/northern
+australiaandpacific/cookislands/manuae
+europe/netherlands/bergen
+europe/france/centre/loirevalley/amboise

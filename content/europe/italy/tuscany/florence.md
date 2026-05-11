@@ -13,6 +13,7 @@ longitude: 11.25564
 score: 0.92
 title: Florence
 type: location
+loc_type: city
 ---
 
 Florence is a small city with an outsized claim on Western civilization. In the 15th and 16th centuries, the Medici-funded Renaissance concentrated more art and architecture here than almost anywhere else on earth, and the results are still on view in a compact historic centre that you can walk across in twenty minutes. The Uffizi holds the world's greatest collection of Renaissance painting. The Accademia has Michelangelo's David. The Duomo, designed by Brunelleschi with an engineering audacity that was unmatched for a century, still dominates the skyline.

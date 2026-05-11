@@ -6,6 +6,7 @@ longitude: -7.461465
 title: Alcains
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Alcains is a small town a few kilometres north of Castelo Branco, in the Beira Baixa region of central Portugal. Tucked between gentle streams — with the Líria the main watercourse — the town sits in a quiet agricultural landscape typical of the interior Alentejo borderlands.

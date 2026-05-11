@@ -6,6 +6,7 @@ longitude: 8.3835
 score: 0.57
 title: Hemsedal
 type: location
+loc_type: city
 ---
 
 Hemsedal calls itself the Scandinavian Alps, which is marketing, but not entirely wrong. The ski area is one of Norway's largest and most reliable for snow, with terrain that ranges from gentle family slopes to serious off-piste above the treeline. It draws skiers from Oslo (three hours by car) and increasingly from abroad, though it remains far less crowded than the big Alpine resorts.

@@ -8,6 +8,7 @@ longitude: -6.260559
 score: 0.68
 title: Dublin
 type: location
+loc_type: region
 ---
 
 Dublin is a compact, walkable capital that is easy to underestimate. The city itself is smaller than most European capitals — the old centre can be crossed on foot in twenty minutes — but it has produced four Nobel laureates in literature, three of the most famous pubs in the world, and a cultural life that punches well above its weight. You come for the pubs, the books, and the people; most visitors leave wanting to come back.

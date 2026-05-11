@@ -6,6 +6,7 @@ longitude: 12.3705
 done:
   location_cleanup: 2026-04-10
 score: 0.41
+loc_type: city
 ---
 
 Quarto d'Altino is a small town in the Veneto, about 15 minutes by train from Venice and a few kilometres from Marco Polo International Airport. For most visitors it functions purely as a transit point, but the town has an ancient history worth knowing.

@@ -6,6 +6,7 @@ longitude: -111.8344
 title: Logan
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Logan is a university town tucked into the Cache Valley in northern Utah, surrounded by mountains on three sides. Utah State University gives it a youthful energy, and the setting — green farmland ringed by the Bear River and Wellsville ranges — is striking.

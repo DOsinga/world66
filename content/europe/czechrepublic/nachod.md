@@ -6,6 +6,7 @@ longitude: 16.162287
 title: Náchod
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Náchod is a pleasant town in northeastern Bohemia right on the Polish border. The surroundings are beautiful — rolling hills, forests, and a frontier feel. It's not a major destination but makes a good base for exploring the region, particularly for those interested in Czech WWI and WWII military history.

@@ -6,6 +6,7 @@ longitude: -117.176695
 title: Coronado
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Coronado is a small, affluent city on a peninsula across the bay from downtown [San Diego](/northamerica/unitedstates/california/sandiego), connected by the sweeping Coronado Bridge or, more enjoyably, by the ferry from the Embarcadero. The town has a distinct resort-village feel, with tree-lined streets, well-kept bungalows, and a walkable main drag along Orange Avenue lined with boutiques, restaurants, and ice cream shops.

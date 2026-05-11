@@ -12,6 +12,7 @@ longitude: 25.3287
 score: 0.88
 title: Mykonos
 type: location
+loc_type: city
 ---
 
 Mykonos is the most famous party island in Greece, but it is also one of the most photogenic. The main town (Chora) is a maze of whitewashed alleys, blue-domed churches, and bougainvillea-draped balconies tumbling down to a harbour where fishing boats and superyachts share the waterfront. The Cycladic architecture is gorgeous and strictly protected — no neon, no tower blocks, everything dazzling white with splashes of colour.

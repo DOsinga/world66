@@ -6,6 +6,7 @@ longitude: 19.705972
 title: Lushnjë
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Lushnjë is a town of central-west Albania, about halfway between Durrës and Fier on the main road south. It sits in a flat agricultural plain and serves as the main market town for the surrounding region, which is one of Albania's most fertile and a primary supplier of vegetables and grain to the rest of the country.

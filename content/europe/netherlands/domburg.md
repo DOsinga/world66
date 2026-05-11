@@ -8,6 +8,7 @@ longitude: 3.496728
 title: Domburg
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Domburg is a small seaside resort on the coast of Walcheren in the province of Zeeland, and one of the oldest beach destinations in the Netherlands. People have been coming here to bathe since the early nineteenth century, and the town has a refined, slightly old-fashioned charm that sets it apart from the livelier resorts further north.

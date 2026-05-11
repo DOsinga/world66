@@ -4,6 +4,7 @@ done:
 score: 0.7
 title: Bordeaux and the Atlantic Coast
 type: location
+loc_type: region
 ---
 
 [Bordeaux](/europe/france/aquitaine/bordeaux) is the undisputed capital of this region, a grand 18th-century port city built on wine money and recently transformed by an ambitious urban renewal that cleaned its limestone facades and added a stunning riverside promenade. The surrounding vineyards -- Saint-Emilion, Medoc, Graves, Pauillac -- produce some of the most celebrated wines in the world, and visiting the chateaux is easy as a day trip or a week-long obsession. Further north, [Cognac](/europe/france/aquitaine/cognac) does the same for brandy, with centuries-old distilleries open for tours along the Charente river.

@@ -1,0 +1,5 @@
+africa/southafrica/kwazulu_natal
+europe/switzerland/neuchatel
+europe/germany/bavaria/ettal
+australiaandpacific/vanuatu/ambrym
+australiaandpacific/australia/queensland/cardwell

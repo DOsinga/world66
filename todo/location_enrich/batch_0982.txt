@@ -1,0 +1,5 @@
+africa/cameroon/kribi
+europe/unitedkingdom/wales/caernarfon
+europe/netherlands/friesland/woudsend
+europe/germany/lowersaxony/east_frisian_islands/juist
+asia/china/yunnanprovince/kunming

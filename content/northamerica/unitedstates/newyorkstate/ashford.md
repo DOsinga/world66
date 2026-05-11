@@ -7,6 +7,7 @@ longitude: -78.59
 score: 0.31
 title: Ashford
 type: location
+loc_type: city
 ---
 
 Ashford is a tiny rural community in northern Cattaraugus County, nestled in the rolling Allegheny foothills of western [New York State](/northamerica/unitedstates/newyorkstate). The town sits along US-219, the main corridor running south toward Ellicottville and the Pennsylvania border.

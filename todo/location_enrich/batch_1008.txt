@@ -1,0 +1,5 @@
+asia/india/karnataka/gokarna
+asia/myanmar/taunggyi
+europe/germany/rhinelandpalatinate/trier
+asia/tajikistan/kurgantyube
+asia/kyrgyzstan/uzgen

@@ -16,6 +16,7 @@ quick_facts:
 score: 0.58
 title: Israel
 type: location
+loc_type: country
 ---
 
 Israel is a treat for travelers. The country has beautiful old cities, good beaches and more culture, history and holy places than any other country.

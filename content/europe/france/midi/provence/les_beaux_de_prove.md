@@ -8,6 +8,7 @@ longitude: 4.7952
 score: 0.68
 title: Les Baux-de-Provence
 type: location
+loc_type: city
 ---
 
 Few villages in France announce themselves quite so dramatically as Les Baux-de-Provence. The entire settlement — ruined castle, medieval streets, and all — sits on a narrow limestone ridge rising abruptly from the olive groves of Les Alpilles, its cliffs dropping sheer on three sides. In the Middle Ages that made it one of the most powerful strongholds in the south. Today it makes it one of the most photogenic.

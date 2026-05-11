@@ -8,6 +8,7 @@ longitude: 167.1658
 score: 0.64
 title: Lifou
 type: location
+loc_type: city
 ---
 
 Lifou is the largest of the Loyalty Islands — a raised coral atoll about 100 km east of the New Caledonian mainland. It sits at sea level with no rivers, no mountains, and no fresh water on its surface (rain soaks straight through the limestone into underground reserves). What it has instead is extraordinary coastline: sea cliffs that drop straight into deep blue water, white-sand beaches framed by tropical forest, and some of the best snorkeling in the Pacific.

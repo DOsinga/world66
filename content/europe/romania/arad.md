@@ -6,6 +6,7 @@ longitude: 21.319634
 title: Arad
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Arad is a handsome city on the Mures River in western Romania, just 50 km from the Hungarian border. It was one of the most prosperous cities of the Austro-Hungarian Empire, and the centre still shows it: wide boulevards lined with Secessionist, Baroque, and Neoclassical facades that rival anything in [Timisoara](/europe/romania/timisoara) or [Budapest](/europe/hungary/budapest).

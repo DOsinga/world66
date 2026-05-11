@@ -4,6 +4,7 @@ longitude: 8.063531
 score: 0.44
 title: Limburg an der Lahn
 type: location
+loc_type: city
 ---
 
 Limburg an der Lahn is one of those small German towns that make you stop the car and reach for your camera. The cathedral, perched dramatically on a rocky outcrop above the River Lahn, is visible for miles and looks almost too picturesque to be real. Built in the thirteenth century in a striking combination of Romanesque and early Gothic styles, it is painted in its original red and white color scheme, which gives it an appearance quite unlike the somber grey stone cathedrals you find elsewhere in Germany.

@@ -6,6 +6,7 @@ longitude: 24.153872
 score: 0.41
 title: Valcea
 type: location
+loc_type: city
 ---
 
 Vâlcea is a county in southern Romania where the Olt river cuts through the Carpathian foothills, creating a valley that has been a trade route and a place of retreat for centuries. The main draw is the painted monasteries of the Olt Valley — a string of Orthodox foundations that rival Bucovina's painted churches, though they are far less visited.

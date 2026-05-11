@@ -8,6 +8,7 @@ longitude: 4.352493
 score: 0.65
 title: Brussels
 type: location
+loc_type: city
 ---
 
 Brussels wears two hats. Politically, it is the de facto capital of the European Union — home to the European Commission, the Parliament, the Council, and a vast functional neighbourhood of glass-and-steel around Schuman that lives off EU business. Culturally, it is the bilingual capital of a country that is itself oddly constructed — every sign in French and Flemish, every official bureaucracy duplicated, a layer of dry self-aware humour about the whole arrangement.

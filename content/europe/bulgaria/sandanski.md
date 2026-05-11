@@ -6,6 +6,7 @@ longitude: 23.278643
 title: Sandanski
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Sandanski sits in the valley of the Sandanska Bistritsa river at the foot of the Pirin mountains in southwestern [Bulgaria](/europe/bulgaria). It has the warmest climate in the country — mild winters, long autumns, and over 2,400 hours of sunshine a year — and has been known as a health resort since antiquity.

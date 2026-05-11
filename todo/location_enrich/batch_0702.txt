@@ -1,0 +1,5 @@
+asia/nepal/phidim
+northamerica/unitedstates/massachusetts/beverly
+asia/india/andhrapradesh/warangal
+northamerica/guatemala/ceibal
+africa/uganda/entebbe

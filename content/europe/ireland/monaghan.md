@@ -6,6 +6,7 @@ longitude: -6.968885
 score: 0.43
 title: Monaghan
 type: location
+loc_type: city
 ---
 
 Monaghan is the county town of County Monaghan in the Republic of Ireland, sitting close to the Northern Ireland border in the drumlin-scattered landscape of the Ulster midlands. It is a compact market town built around a diamond-shaped central square — a layout common to Ulster plantation towns — with the 19th-century Gothic Revival St Macartan's Cathedral dominating the skyline from its hill. The town itself is quiet and unpretentious, the kind of place where the locals still do their shopping in the old streets.

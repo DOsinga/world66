@@ -6,6 +6,7 @@ longitude: 24.550955
 title: Yaremche
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Yaremche is a small mountain town of about 8,800 people in western Ukraine's Ivano-Frankivsk oblast, sitting right at the entrance to the Carpathian National Park. It is the main base for exploring the Ukrainian Carpathians — a region of forested ridges, alpine meadows, and Hutsul mountain culture that feels a world away from Ukraine's flat steppe heartland.

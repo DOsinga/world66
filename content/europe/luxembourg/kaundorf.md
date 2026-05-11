@@ -6,6 +6,7 @@ longitude: 5.9013
 title: Kaundorf
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Kaundorf is a small village in the Éislek region of northern Luxembourg, set in hilly, wooded countryside near the Upper Sûre lake. With just a handful of houses clustered around a quiet lane, it is the kind of place where the main activities are walking, cycling, and doing nothing at all -- which is exactly the point.

@@ -12,6 +12,7 @@ longitude: -124.1637
 score: 0.47
 title: Eureka
 type: location
+loc_type: city
 ---
 
 Eureka is the largest city on the California coast north of San Francisco, sitting on Humboldt Bay about 270 miles from the Golden Gate. It is a logging and fishing town that has never quite shaken that identity — and is better for it. The waterfront smells like salt and diesel, the Victorian architecture downtown is genuine rather than restored-for-tourists, and the fog rolls in most mornings without apology.

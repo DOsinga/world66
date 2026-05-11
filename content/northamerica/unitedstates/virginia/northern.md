@@ -6,6 +6,7 @@ longitude: -77.3064
 title: Northern Virginia
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Northern Virginia — "NoVA" to locals — is the sprawl of suburbs, historic towns, and edge cities across the Potomac from Washington DC. For visitors, it offers affordable accommodation within easy Metro reach of the capital, plus attractions of its own that rival anything on the National Mall.

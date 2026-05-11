@@ -6,6 +6,7 @@ longitude: -75.5663
 title: New Castle
 type: location
 score: 0.37
+loc_type: city
 ---
 
 New Castle is one of the oldest settlements in the Delaware Valley, founded in 1651 by Peter Stuyvesant as Fort Casimir to give the Dutch command of river traffic. Its strategic location meant the settlement changed hands constantly — the flags of the Netherlands, Sweden, and Great Britain all flew over New Castle before William Penn came ashore here in 1682 to take possession of his American lands.

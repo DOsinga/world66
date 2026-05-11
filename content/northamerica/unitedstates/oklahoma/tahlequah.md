@@ -8,6 +8,7 @@ longitude: -94.969956
 score: 0.35
 title: Tahlequah
 type: location
+loc_type: city
 ---
 
 Tahlequah carries more history than its modest size suggests. It is the capital of the Cherokee Nation — the seat of a tribal government that survived forced removal from the southeastern United States, a 1,200-mile ordeal known as the Trail of Tears that brought the Cherokee to Indian Territory in the 1830s. The tribal courthouse, built in 1867, still stands downtown.

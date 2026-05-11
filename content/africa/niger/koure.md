@@ -6,6 +6,7 @@ longitude: 2.57563
 title: Koure
 type: location
 score: 0.28
+loc_type: city
 ---
 
 Koure is important as the centre of an area roamed by the last remaining free-range giraffe herd in West Africa. The animals aren't fenced in — they simply move through the bush as they always have, and that's part of what makes seeing them so remarkable.

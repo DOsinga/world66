@@ -1,0 +1,5 @@
+northamerica/mexico/culiacan
+europe/russia/vyatka
+europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore
+northamerica/unitedstates/connecticut/danbury
+northamerica/unitedstates/vermont/stowe

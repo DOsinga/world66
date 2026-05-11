@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/losangeles/centurycity
+asia/india/rajasthan/bikaner
+europe/spain/caceres
+europe/netherlands/valkenburg
+europe/greece/kos

@@ -15,6 +15,7 @@ quick_facts:
   Hill of Crosses: "Over 250,000 crosses and counting"
   Medieval Grand Duchy: "Once stretched from the Baltic to the Black Sea"
 score: 0.51
+loc_type: country
 ---
 
 Lithuania is the southernmost of the three Baltic states, sandwiched between Latvia to the north, Belarus to the east, Poland to the south, and the Russian exclave of Kaliningrad to the southwest. It's a small country — about the size of Ireland — but one with outsized history and a genuinely distinct character.

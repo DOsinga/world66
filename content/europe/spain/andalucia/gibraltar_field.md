@@ -6,6 +6,7 @@ longitude: -5.4531
 title: Campo de Gibraltar
 type: location
 score: 0.5
+loc_type: region
 ---
 
 The Campo de Gibraltar is the southernmost region of [Andalucía](/europe/spain/andalucia), where Europe almost touches Africa. The capital is [Algeciras](/europe/spain/andalucia/algeciras), an industrial city with the second-busiest port in Europe and the gateway to Morocco by ferry.

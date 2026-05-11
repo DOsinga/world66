@@ -15,6 +15,7 @@ quick_facts:
   Lakes: "roughly 100,000"
   Daylight in Midsummer: "~19 hours in Stockholm"
 score: 0.56
+loc_type: country
 ---
 
 Being the largest of the Scandinavian countries, Sweden offers you many opportunities for cultural and outdoor activities. Visit the cities and explore the country's glorious past or the life in a cosmopolitan and modern society. If you need rest from the hectic city life, just leave for the countryside, and vast forests, 90000 lakes, mountains and the beautiful sea await you.

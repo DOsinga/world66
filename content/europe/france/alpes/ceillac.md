@@ -6,6 +6,7 @@ longitude: 6.778
 title: Ceillac
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Ceillac is one of the first villages you reach in the [Queyras](/europe/france/alpes/queyras) regional park, a quiet corner of the southern French Alps near the Italian border. There is a small ski resort, but it has been kept separate from and above the main village, so the settlement retains its mountain character.

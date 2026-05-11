@@ -6,6 +6,7 @@ longitude: 72.394136
 title: Kamra
 type: location
 score: 0.23
+loc_type: city
 ---
 
 Kamra is a small town in Attock District of Punjab province, about 70 kilometres northwest of Islamabad along the Grand Trunk Road. The town is best known as the site of the Pakistan Aeronautical Complex (PAC), one of the country's main military aviation facilities, which means parts of the area are restricted and photography can attract unwanted attention.

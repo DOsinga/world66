@@ -4,6 +4,7 @@ type: location
 latitude: 64.434792
 longitude: -50.271698
 score: 0.44
+loc_type: city
 ---
 
 The settlement Kapisillit is one of the very few fishing and hunting communities which is situated inland. Kapisillit is beautifully placed app. 75 kilometres from Nuuk, deep inside the mighty fjord system of Nuuk.

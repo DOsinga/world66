@@ -6,6 +6,7 @@ longitude: 16.232007
 title: Aliano
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Aliano is the village where Carlo Levi was exiled by the Fascist government in 1935, an experience he turned into *Christ Stopped at Eboli*, one of the great books about southern Italy. The village clings to a ridge above a dramatic landscape of calanchi — eroded clay badlands that look almost lunar in the afternoon light.

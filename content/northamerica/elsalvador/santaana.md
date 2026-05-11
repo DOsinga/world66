@@ -6,6 +6,7 @@ longitude: -89.5597
 title: Santa Ana
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Santa Ana is El Salvador's second city, about 65 km west of San Salvador. It sits in a fertile valley on the lower slopes of the Santa Ana Volcano, surrounded by coffee and sugar cane plantations. The city is smaller and considerably calmer than the capital, with a well-preserved historic center that rewards an afternoon of walking.

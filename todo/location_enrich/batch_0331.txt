@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/oakdale
+asia/china/dunhuang
+europe/unitedkingdom/wales/caerphilly
+northamerica/unitedstates/oklahoma/oklahomacity
+europe/slovenia/izola

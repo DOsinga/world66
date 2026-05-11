@@ -1,0 +1,5 @@
+northamerica/jamaica/oracabessa
+europe/spain/centralspain/salamanca
+northamerica/thecaribbean/virginislands/stjohn
+southamerica/brazil/bonito
+europe/germany/thuringia/oberhof

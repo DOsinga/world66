@@ -11,6 +11,7 @@ longitude: 14.490564
 score: 0.77
 title: Pompeii
 type: location
+loc_type: feature
 ---
 
 *Europe > Italy > Campania > Pompeii*

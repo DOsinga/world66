@@ -6,6 +6,7 @@ longitude: -42.493418
 title: Nova Friburgo
 type: location
 score: 0.43
+loc_type: city
 ---
 
 **Nova Friburgo** is a mountain resort some 2 hours by bus from [Rio de Janeiro](/southamerica/brazil/riodejaneiro) with a peculiar charm. The town was established by Swiss emigrants in the beginning of the 19-th century and is a curious mixture of Central European style buildings and a Brazilian lifestyle. 

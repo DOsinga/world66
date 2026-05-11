@@ -10,6 +10,7 @@ longitude: 5.8313
 title: Valkenburg
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Valkenburg aan de Geul is a small tourist town in the hilly south of the Netherlands (Limburg province), 10 km east of Maastricht. It is the only town in the Netherlands with a significant hill — the Cauberg — which has made it a regular finish in the Tour de France and Amstel Gold Race. Cycling fans come specifically to ride the climb.

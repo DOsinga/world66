@@ -7,6 +7,7 @@ longitude: -118.491227
 score: 0.65
 title: Santa Monica
 type: location
+loc_type: city
 ---
 
 West of the 405 Freeway is Santa Monica. A huge sprawling city itself of immense economic diversity with its own neighborhoods.

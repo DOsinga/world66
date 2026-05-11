@@ -15,6 +15,7 @@ quick_facts:
   Forest Cover: "Over 50% of land area"
   Art Nouveau in Riga: "800+ buildings — Europe's densest"
 score: 0.51
+loc_type: country
 ---
 
 Latvia sits in the middle of the three Baltic states, between [Lithuania](/europe/lithuania) to the south and [Estonia](/europe/estonia) to the north, with the Baltic Sea to the west and Russia and Belarus to the east. It's a small country — roughly the size of Ireland — and largely flat, with forests covering nearly half the land, a long sandy coastline, and a network of rivers draining into the Gulf of Riga.

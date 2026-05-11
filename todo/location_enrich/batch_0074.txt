@@ -1,0 +1,5 @@
+europe/russia/yakutsk
+europe/austria/ramsaudachstein
+asia/thailand/udonthani
+northamerica/unitedstates/missouri/hanibal_missouri
+africa/senegal/iledegoree

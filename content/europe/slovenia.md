@@ -16,6 +16,7 @@ quick_facts:
   Forest Cover: "60% of the country"
   Tap Water Quality: Constitutional right since 2016
 score: 0.69
+loc_type: country
 ---
 
 Slovenia is a small country that packs an extraordinary amount of diversity into its 20,000 square kilometers. Alpine peaks, turquoise lakes, underground caves, vineyards, and a short stretch of Adriatic coastline all lie within a couple of hours' drive of each other. It is one of Europe's most rewarding destinations, particularly for travelers who love the outdoors.

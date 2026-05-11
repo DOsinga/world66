@@ -16,6 +16,7 @@ quick_facts:
 title: Nigeria
 type: location
 score: 0.25
+loc_type: country
 ---
 
 *Africa > Nigeria*

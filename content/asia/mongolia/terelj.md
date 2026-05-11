@@ -6,6 +6,7 @@ longitude: 107.4181
 score: 0.59
 title: Terelj
 type: location
+loc_type: feature
 ---
 
 Terelj is the easiest taste of the Mongolian steppe you can get from Ulaanbaatar. Gorkhi-Terelj National Park starts barely an hour's drive northeast of the capital, and within minutes of leaving the city's concrete edges you are in a landscape of granite outcrops, larch forests, and wide river valleys where herders still move their ger camps with the seasons.

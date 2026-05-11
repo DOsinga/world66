@@ -6,6 +6,7 @@ longitude: 122.224018
 title: Broome
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Far out in the north-west of Western Australia lies Broome. Once isolated, it has now been discovered as a great getaway with beautiful sandy beaches and a relaxed atmosphere. The best time to visit is between April and September, when the heat is still within acceptable ranges.

@@ -6,6 +6,7 @@ longitude: 29.762
 title: Joensuu
 type: location
 score: 0.44
+loc_type: region
 ---
 
 Joensuu is the main city of North Karelia, sitting on the Pielisjoki river near Lake Pyhaselka in eastern Finland. It is a compact university town with a lively student population that keeps things affordable and gives the city more energy than its modest size suggests.

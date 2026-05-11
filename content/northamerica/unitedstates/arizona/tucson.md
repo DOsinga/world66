@@ -7,6 +7,7 @@ longitude: -110.974847
 score: 0.53
 title: Tucson
 type: location
+loc_type: city
 ---
 
 Tucson is Arizona's second largest city and the home of the University of Arizona. 

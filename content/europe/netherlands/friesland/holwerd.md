@@ -6,6 +6,7 @@ longitude: 5.9051
 title: Holwerd
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Holwerd is a small village on the Friesland coast, best known as the ferry port for [Ameland](/europe/netherlands/friesland/ameland). The crossing takes about 45 minutes and runs several times a day.

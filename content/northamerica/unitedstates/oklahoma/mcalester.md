@@ -6,6 +6,7 @@ longitude: -95.769793
 title: McAlester
 type: location
 score: 0.31
+loc_type: city
 ---
 
 McAlester is the commercial hub of southeastern Oklahoma, a city of nearly 18,000 people set in the wooded hills of Pittsburg County. Italian immigrants came here to work the coal mines in the late 1800s, and their influence lingers in the local food and the annual **Italian Festival** each May, a weekend of pasta, sausage, bocce, and grape stomping that draws tens of thousands of visitors.

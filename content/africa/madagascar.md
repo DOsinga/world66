@@ -15,6 +15,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-31
 score: 0.62
+loc_type: country
 ---
 
 *Africa > Madagascar*

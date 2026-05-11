@@ -1,0 +1,5 @@
+europe/italy/veneto/treviso
+southamerica/argentina/tucuman
+australiaandpacific/vanuatu/malakula
+southamerica/colombia/pasto
+europe/finland/oulu

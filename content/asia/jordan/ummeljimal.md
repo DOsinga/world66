@@ -6,6 +6,7 @@ longitude: 36.365952
 title: Umm el Jimal
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Umm el Jimal — "mother of the camel" in Arabic — is a remarkably preserved ruined city in northeastern Jordan, about 85 km north of [Amman](/asia/jordan/amman) near the Syrian border. It is known as the "black oasis" for its construction almost entirely from the dark volcanic basalt that covers this part of the Hauran plateau.

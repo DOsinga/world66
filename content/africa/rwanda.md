@@ -16,6 +16,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-31
 score: 0.56
+loc_type: country
 ---
 
 Rwanda is a small, landlocked country in East-Central Africa — roughly the size of Maryland — yet it packs in an extraordinary variety of landscapes. The "Land of a Thousand Hills" is exactly that: a country of steep green ridges, tea plantations, volcanic peaks, and deep crater lakes. Dense rainforest in the southwest gives way to open savanna in the east. It is one of the most densely populated countries in Africa.

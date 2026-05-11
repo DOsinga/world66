@@ -6,6 +6,7 @@ longitude: 85.779593
 title: Naraj
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Naraj sits at the point where the Mahanadi River divides, splitting into the Kathajodi and continuing its course toward the Bay of Bengal. The spot is about 12 km from [Cuttack](/asia/india/orissa/cuttack) and marks the head of the vast Mahanadi delta that defines the geography of coastal [Odisha](/asia/india/orissa).

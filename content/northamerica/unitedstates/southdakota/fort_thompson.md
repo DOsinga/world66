@@ -6,6 +6,7 @@ longitude: -99.409397
 title: Fort Thompson
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Fort Thompson sits along the banks of the Missouri River near the Big Bend Dam, in the middle of the Crow Creek Native American reservation of the Lakota tribe. It is one of the poorest counties in the nation, but what the area lacks in wealth it makes up for in stark beauty.

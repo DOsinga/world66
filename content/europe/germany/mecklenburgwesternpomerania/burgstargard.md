@@ -6,6 +6,7 @@ longitude: 13.309706
 score: 0.39
 title: Burg Stargard
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

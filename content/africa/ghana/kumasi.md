@@ -8,6 +8,7 @@ longitude: -1.623309
 score: 0.48
 title: Kumasi
 type: location
+loc_type: city
 ---
 
 Kumasi is the heart of the Ashanti kingdom and Ghana's second city. It is sprawling, busy, and culturally rich -- a place where traditional chieftaincy, gold, and kente cloth are not museum exhibits but part of everyday life.

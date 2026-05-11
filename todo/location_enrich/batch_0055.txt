@@ -1,0 +1,5 @@
+northamerica/unitedstates/virginia/manassas
+africa/libya/kufra
+europe/italy/liguria/lerici
+europe/italy/sicily/milazzo
+asia/india/andhrapradesh/vijayanagaram

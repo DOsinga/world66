@@ -7,6 +7,7 @@ longitude: 32.5349
 score: 0.3
 title: Khartoum
 type: location
+loc_type: city
 ---
 
 Khartoum sits at the confluence of the Blue Nile and White Nile, the spot where two great rivers merge into one. It is one of those rare capitals whose geography you can actually see working — stand on the bridge at the right time of day and you can watch the darker Blue Nile water push against the lighter White Nile in a visible seam.

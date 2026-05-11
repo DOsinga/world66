@@ -6,6 +6,7 @@ longitude: -4.477902
 title: Douglas
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Douglas is the capital of the Isle of Man, a self-governing Crown dependency in the Irish Sea between England and Ireland. The town curves around a wide bay, with a Victorian promenade running the length of the seafront and the horse-drawn trams that have been clopping along it since 1876.

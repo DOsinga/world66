@@ -7,6 +7,7 @@ longitude: -2.245819
 score: 0.52
 title: Gloucester
 type: location
+loc_type: city
 ---
 
 Gloucester is the county town of Gloucestershire, set in the flat Severn Vale. It is a working city rather than a showpiece, but it has two extraordinary assets: a Norman cathedral and a set of Victorian docks that have been restored intelligently rather than sanitised.

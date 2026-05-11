@@ -7,6 +7,7 @@ longitude: 11.4354
 score: 0.44
 title: Dachau
 type: location
+loc_type: city
 ---
 
 Most visitors come to Dachau for one reason: the memorial site at the former concentration camp, the first established by the Nazi regime in 1933. It is a sobering, essential place to visit, and the town takes its role as a site of remembrance seriously. But Dachau is more than its darkest chapter.

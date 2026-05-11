@@ -8,6 +8,7 @@ longitude: 106.8272
 score: 0.4
 title: Jakarta
 type: location
+loc_type: city
 ---
 
 Most travelers use Jakarta as a starting or ending point -- catch a flight at Soekarno-Hatta, take a ferry to another island, and spend as little time as possible in between. The city's reputation is chaotic traffic, oppressive heat, and not much to see. This is a shame, because Jakarta has more character than it gets credit for.

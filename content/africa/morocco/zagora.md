@@ -7,6 +7,7 @@ longitude: -5.836996
 score: 0.53
 title: Zagora
 type: location
+loc_type: city
 ---
 
 At first sight, Zagora is a dusty, single street town. However, its location and festivals save it from being just another dust-filled desert town. In many ways Zagora is the end of the line.If you follow the road from Ouarzazate through the gorgeous Draa Valley until the road ends, this is where you wind up. Zagora also used to be the beginning of

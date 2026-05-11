@@ -6,6 +6,7 @@ longitude: -8.8327
 done:
   location_cleanup: 2026-04-07
 score: 0.57
+loc_type: city
 ---
 
 Viana do Castelo sits where the Rio Lima meets the Atlantic, a handsome northern Portuguese city with medieval bones and a dramatic hilltop church watching over it all. Founded in 1258, it grew wealthy on cod fishing and colonial trade, and the old centre still shows it — ornate Manueline facades, wrought-iron balconies, and a compact web of streets that reward aimless wandering.

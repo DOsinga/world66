@@ -8,6 +8,7 @@ longitude: -122.391675
 score: 0.4
 title: Redding
 type: location
+loc_type: city
 ---
 
 Redding sits at the northern end of the Sacramento Valley, where Interstate 5 begins its long climb toward the Oregon border. It is not a glamorous destination, but it is the natural base for exploring some of the state's most dramatic landscape: Mount Shasta to the north, Lassen Volcanic National Park to the east, Shasta Lake and its massive dam nearby, and the wild Trinity Alps to the west. The city claims more miles of trail per capita than almost anywhere in the United States.

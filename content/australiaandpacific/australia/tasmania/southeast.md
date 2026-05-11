@@ -9,6 +9,7 @@ longitude: 147.3257
 score: 0.59
 title: Southeast Tasmania
 type: location
+loc_type: region
 ---
 
 Southeast Tasmania radiates outward from Hobart, the state capital, into some of the most varied landscape in Australia. Within a couple of hours' drive you can reach temperate rainforest, convict ruins, sheltered waterways, and wild ocean coastline. Everything here works as a day trip from the city, though several spots reward a longer stay.

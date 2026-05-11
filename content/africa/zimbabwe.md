@@ -17,6 +17,7 @@ quick_facts:
 title: Zimbabwe
 type: location
 score: 0.45
+loc_type: country
 ---
 
 Zimbabwe is one of southern Africa's most rewarding destinations, a country of staggering natural beauty and deep cultural heritage that has endured decades of economic turmoil with remarkable resilience. From the thundering curtain of [Victoria Falls](/africa/zimbabwe/victoriafalls) to the ancient stone ruins of [Great Zimbabwe](/africa/zimbabwe/greatzimbabwe), this is a place that stays with you.

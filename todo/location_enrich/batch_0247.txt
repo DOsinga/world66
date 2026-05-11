@@ -1,0 +1,5 @@
+asia/china/tashkorgan
+northamerica/unitedstates/nevada/goldfield
+asia/lebanon/aley
+southamerica/venezuela/margaritaisland/pampatar
+europe/ireland/limerick

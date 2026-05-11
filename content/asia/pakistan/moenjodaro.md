@@ -6,6 +6,7 @@ longitude: 68.1366
 title: Moenjodaro
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Moenjodaro is one of the great archaeological sites of the world — a 4,500-year-old city that was contemporary with ancient Egypt and Mesopotamia, and far larger than most people expect. The ruins sit in the flat plains of Sindh province, beside the Indus River, quietly extraordinary in their scale and sophistication.

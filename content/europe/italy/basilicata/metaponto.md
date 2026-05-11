@@ -6,6 +6,7 @@ longitude: 16.810096
 title: Metaponto
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Metaponto is a small coastal town in [Basilicata](/europe/italy/basilicata) where the Ionian Sea meets one of the richest Greek colonial landscapes in Italy. Founded in the 7th century BC by Greek settlers, it was here that Pythagoras spent the last years of his life after fleeing Croton. The town's archaeological legacy is exceptional — layers of Magna Graecia, Carthaginian, and Roman occupation are all visible.

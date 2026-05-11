@@ -6,6 +6,7 @@ longitude: 34.853666
 title: Avanos
 type: location
 score: 0.62
+loc_type: city
 ---
 
 Avanos is Cappadocia's pottery town, and it wears that identity without apology. The Kizilirmak — the Red River — runs right through it, depositing the red clay that potters here have been working for thousands of years. The colour of the river tells you everything about the place.

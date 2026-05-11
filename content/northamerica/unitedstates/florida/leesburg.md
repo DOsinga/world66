@@ -6,6 +6,7 @@ longitude: -81.8773
 title: Leesburg
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Leesburg is a small city in Lake County in central Florida, set among the chain of lakes that gives the county its name. It sits on a narrow strip of land between Lake Harris and Lake Griffin, and the waterfront is its most attractive feature — fishing, boating, and birdwatching are the main draws.

@@ -8,6 +8,7 @@ tags:
 - shopping
 - things_to_do
 - sight
+- beverlyhills
 title: Rodeo Drive
 type: poi
 ---

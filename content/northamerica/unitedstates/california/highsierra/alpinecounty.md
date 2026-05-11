@@ -6,6 +6,7 @@ longitude: -119.8345
 title: Alpine County
 type: location
 score: 0.53
+loc_type: region
 ---
 
 Alpine County is the least populated county in California, sitting south of Lake Tahoe in the Sierra Nevada. It is essentially one large mountain playground — fabulous hiking, fishing, and skiing in winter, with some of the most beautiful high-altitude scenery in the state.

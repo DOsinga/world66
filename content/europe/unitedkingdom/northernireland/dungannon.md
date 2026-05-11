@@ -6,6 +6,7 @@ longitude: -6.770362
 title: Dungannon
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Dungannon is a hilltop town in County Tyrone, [Northern Ireland](/europe/unitedkingdom/northernireland), historically significant as the ancient seat of the O'Neill clan, the most powerful Gaelic lords in Ulster. The O'Neills ruled from a fort on the hill where the town now stands for over 400 years, and it was from here that Hugh O'Neill led the last great Gaelic resistance to English rule before his defeat and the Flight of the Earls in 1607.

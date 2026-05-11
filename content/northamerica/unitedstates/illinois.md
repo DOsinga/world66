@@ -6,6 +6,7 @@ longitude: -89.433729
 score: 0.35
 title: Illinois
 type: location
+loc_type: region
 ---
 
 Illinois is [Chicago](/northamerica/unitedstates/illinois/chicago), and Chicago alone would be reason enough to come. The city's skyline is an open-air museum of American architecture, from the pioneering steel frames that rose after the Great Fire to Mies van der Rohe's glass towers along the lakefront. Add world-class blues and jazz clubs, deep-dish pizza, a food scene that ranges from Michelin-starred restaurants to legendary Italian beef stands, and 26 miles of Lake Michigan shoreline with public beaches, and you have one of the great American cities.

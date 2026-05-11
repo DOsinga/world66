@@ -6,6 +6,7 @@ longitude: 144.672611
 title: Merizo
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Merizo is a small village at the southern tip of Guam, one of the most traditional Chamorro communities on the island. It sits on a calm lagoon protected by a reef, with Cocos Island visible just offshore. The pace of life here is noticeably slower than in the tourist areas to the north.

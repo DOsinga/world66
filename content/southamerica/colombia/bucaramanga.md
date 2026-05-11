@@ -6,6 +6,7 @@ longitude: -73.104729
 score: 0.48
 title: Bucaramanga
 type: location
+loc_type: city
 ---
 
 Bucaramanga is the capital of Santander department, set on a plateau in the eastern Andes at about 960 metres. Known as the "city of parks" for its many green plazas, it has a pleasant climate year-round and a lively, youthful character driven by its large student population. The local food culture is strong — Santander is famous throughout Colombia for its ants (hormigas culonas, roasted leafcutter ants) eaten as a snack, and for its goat and cabro dishes.

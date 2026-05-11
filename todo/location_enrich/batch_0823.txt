@@ -1,0 +1,5 @@
+europe/spain/spanishcostas/altea
+northamerica/unitedstates/georgia/albany
+europe/germany/northrhinewestphalia/oberhausen
+africa/djibouti/tadjoura
+southamerica/bolivia/samaipata

@@ -6,6 +6,7 @@ longitude: -93.747784
 title: Shreveport
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Shreveport sits on the Red River in the northwest corner of Louisiana, paired with Bossier City on the opposite bank. Together they form the cultural and commercial hub of the Ark-La-Tex region, where Louisiana, Arkansas, and Texas meet.

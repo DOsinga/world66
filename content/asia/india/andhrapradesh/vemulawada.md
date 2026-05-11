@@ -6,6 +6,7 @@ longitude: 78.8699
 title: Vemulawada
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Travel Guide

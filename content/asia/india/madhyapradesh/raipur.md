@@ -6,6 +6,7 @@ longitude: 81.633699
 title: Raipur
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Raipur is the capital of Chhattisgarh, a state carved out of Madhya Pradesh in 2000. The city itself is a busy, rapidly growing commercial centre without major tourist sights, but it serves as the gateway to some of central India's most interesting destinations — the tribal heartlands, dense forests, and ancient temple complexes of Chhattisgarh.

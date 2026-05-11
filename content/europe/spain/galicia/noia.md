@@ -8,6 +8,7 @@ longitude: -8.8877
 score: 0.51
 title: Noia
 type: location
+loc_type: city
 ---
 
 Noia sits at the inland tip of the Ría de Muros e Noia, about 35 km southwest of [Santiago de Compostela](/europe/spain/galicia/santiagodecompostela) — close enough for a day trip, interesting enough to deserve longer. The town has a well-preserved medieval centre, a famous old church with an extraordinary graveyard, and the relaxed waterfront atmosphere of a Galician fishing town that also happens to have decent architecture.

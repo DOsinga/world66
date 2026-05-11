@@ -4,6 +4,7 @@ longitude: -87.9506
 score: 0.36
 title: Puerto Cortés
 type: location
+loc_type: city
 ---
 
 Puerto Cortes is Honduras's main Caribbean port, handling the majority of the country's international trade through its deep-water harbor. The town has a functional, working character that reflects this role -- container cranes and cargo ships dominate the waterfront rather than palm trees and beach bars. Yet the surrounding coastline holds some pleasant surprises for travelers willing to look beyond the port infrastructure.

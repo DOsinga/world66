@@ -11,6 +11,7 @@ longitude: 121.922734
 score: 0.75
 title: Boracay
 type: location
+loc_type: city
 ---
 
 Travel Guide

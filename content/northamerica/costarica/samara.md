@@ -6,6 +6,7 @@ longitude: -85.5296
 title: Samara
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Samara is a small beach town on the Nicoya Peninsula in Guanacaste province. The beach curves gently around a protected bay, making it calmer for swimming than many Pacific beaches — which is why it's popular with families. The surrounding waters are good for snorkeling and kayaking, and the reef just offshore breaks much of the wave energy, keeping the bay unusually tranquil.

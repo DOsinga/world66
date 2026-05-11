@@ -6,6 +6,7 @@ longitude: -174.002138
 title: Vava'u Island
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Vava'u is the main island of the [Vava'u Group](/australiaandpacific/tonga/vavau_group), a cluster of about fifty islands in northern [Tonga](/australiaandpacific/tonga). The island is hilly and green, rising steeply from the water, and its deeply indented coastline creates one of the finest natural harbours in the South Pacific. The port town of Neiafu, perched above the harbour, is the only real settlement and serves as the base for everything in the group.

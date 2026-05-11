@@ -7,6 +7,7 @@ longitude: -5.3743
 score: 0.59
 title: Tétouan
 type: location
+loc_type: city
 ---
 
 For people coming into Morocco through Ceuta, Tétouan is likely to be their first encounter with the country. Take a deep breath when you get out of the bus, because you will be besieged — students and touts will compete for your attention, and the street hustle here is more assertive than in most Moroccan cities. Once you have got used to it, though, Tétouan can be a very rewarding place.

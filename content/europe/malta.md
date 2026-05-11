@@ -16,6 +16,7 @@ quick_facts:
 score: 0.6
 title: Malta
 type: location
+loc_type: country
 ---
 
 By far the largest and most popular island historic Malta merits a minimum of four nights. Sun worshippers should know that the sandiest beaches in the nation are located on the northern coast..

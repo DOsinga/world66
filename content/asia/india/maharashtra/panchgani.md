@@ -7,6 +7,7 @@ longitude: 73.799268
 score: 0.49
 title: Panchgani
 type: location
+loc_type: city
 ---
 
 Panchgani — the name means "five hills" — is a small colonial-era hill station in the Western Ghats of Maharashtra, about 100 km southwest of Pune and 250 km from Mumbai. Set on a plateau at 1,334 m, surrounded by five flat-topped hills and thick forest, it was founded in the 1860s as a summer retreat for British colonials, and the legacy is still visible in the old bungalows, gabled boarding schools and mission churches that line its lanes. Today it is a weekend escape for Mumbai and Pune families, famous above all for its strawberries (April–May is peak season), its jam and syrup factories (Mapro, Mala's) and the fresh cool air.

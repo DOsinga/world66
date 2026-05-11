@@ -6,6 +6,7 @@ longitude: 44.5393
 title: Ararat Marz
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Ararat Marz is the province that dominates the view from Yerevan: a broad, hot, flat valley carved by the Arax river, with the double peak of Mount Ararat — now just across the border in Turkey — looming over everything on a clear day, impossibly large and impossibly close. The mountain gave the region its name even though Armenians can only look at it.

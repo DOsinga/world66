@@ -6,6 +6,7 @@ longitude: -5.942315
 title: Zamora
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Zamora is probably the least well known of Spain's grand old cities, overlooked in favour of nearby [Salamanca](/europe/spain/centralspain/salamanca) and León. That is a shame, because it is a handsome place on a hill above the Duero River with more Romanesque churches per square kilometre than anywhere else in Spain.

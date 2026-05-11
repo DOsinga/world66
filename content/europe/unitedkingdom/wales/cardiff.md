@@ -6,6 +6,7 @@ longitude: -3.179193
 title: Cardiff
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Cardiff only became the capital of [Wales](/europe/unitedkingdom/wales) in 1955, but it has grown into the role with impressive speed. The city has a genuinely European feel — compact, walkable, and with a cultural life that punches well above the weight of its 350,000 population.

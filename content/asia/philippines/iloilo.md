@@ -6,6 +6,7 @@ longitude: 122.5621
 score: 0.51
 title: Iloilo
 type: location
+loc_type: city
 ---
 
 Iloilo City sits at the southern tip of Panay island in the Western Visayas, a university town and regional capital that most travelers pass through on their way to Guimaras or Boracay. That is a mistake. Iloilo has genuine character — crumbling colonial churches, a lively waterfront, and what many Filipinos consider the best food scene outside Manila.

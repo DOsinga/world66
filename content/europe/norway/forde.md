@@ -6,6 +6,7 @@ longitude: 5.857172
 score: 0.49
 title: Forde
 type: location
+loc_type: city
 ---
 
 Førde is a small town in Sunnfjord, Vestland county, serving as a regional hub for the surrounding fjord and mountain landscape of western [Norway](/europe/norway). It is not a destination in itself, but it is a practical base for exploring some of the most dramatic scenery in the country.

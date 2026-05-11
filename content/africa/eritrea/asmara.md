@@ -6,6 +6,7 @@ longitude: 38.932676
 title: Asmara
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Asmara is one of Africa's most surprising capitals. Perched at 2,350 metres on the Eritrean plateau, it is cooler and more pleasant than the sweltering coast at [Massawa](/africa/eritrea/massawa), and its streets are lined with some of the finest Italian colonial architecture anywhere in the world. The city earned UNESCO World Heritage status in 2017 as a modernist African city.

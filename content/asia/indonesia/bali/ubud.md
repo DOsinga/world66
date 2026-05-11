@@ -11,6 +11,7 @@ longitude: 115.2618
 score: 0.85
 title: Ubud
 type: location
+loc_type: city
 ---
 
 Ubud is Bali's cultural heart, set in the hills above the southern beach resorts and surrounded by terraced rice paddies and river gorges. If you want to get beyond the sunbed-and-cocktail version of Bali, this is where you come. The town is famous for traditional Balinese arts — dance, painting, woodcarving, silverwork — and for the foreign artists who have settled here, drawn by the landscape and the atmosphere.

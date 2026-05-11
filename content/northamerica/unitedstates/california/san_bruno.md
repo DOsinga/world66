@@ -4,6 +4,7 @@ type: location
 latitude: 37.624854
 longitude: -122.414599
 score: 0.35
+loc_type: city
 ---
 
 Travel Guide

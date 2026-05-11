@@ -4,6 +4,7 @@ type: location
 latitude: 37.075356
 longitude: 127.054366
 score: 0.42
+loc_type: city
 ---
 
 Songtan is a neighbourhood within Pyeongtaek, [South Korea](/asia/southkorea), about an hour south of [Seoul](/asia/southkorea/seoul) by car or train. It exists largely because of Osan Air Base, the major American military installation next door, and the area outside the base's main gate has developed into a strip of shops, restaurants, and bars that cater to both service members and Korean locals.

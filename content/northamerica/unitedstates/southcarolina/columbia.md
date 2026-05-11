@@ -6,6 +6,7 @@ longitude: -81.035231
 title: Columbia
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Columbia is the capital of South Carolina, sitting in the centre of the state at the confluence of the Broad and Saluda rivers. It is a university city (the University of South Carolina campus anchors the downtown) with a growing food and arts scene that has developed considerably in recent years.

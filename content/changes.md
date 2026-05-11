@@ -126,7 +126,7 @@ type: poi
 [Liguria](/europe/italy/liguria)
 
 07-Feb-2004 12:49 (anonymous)
-[Bilbao](/europe/spain/basque_country_eus/bilbao)
+[Bilbao](/europe/spain/basque_country_euskadi/bilbao)
 
 07-Feb-2004 12:40 (anonymous)
 [Manila](/asia/philippines/manila)

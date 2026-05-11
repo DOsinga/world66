@@ -5,6 +5,7 @@ latitude: 29.2605
 longitude: 0.2286
 title: Timimoun
 type: location
+loc_type: city
 ---
 
 Timimoun is an oasis town in central Algeria, deep in the Sahara, built on the edge of a great salt flat called the Grand Erg Occidental. It is one of the most visually striking towns in the Algerian south: the buildings are painted in a deep, rust-red colour — a style called Soudano-Saharien architecture — set against the pale dunes and a vast palm grove below. The old ksar (fortified quarter) is a maze of arched alleyways and crumbling mud-brick towers.

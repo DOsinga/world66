@@ -6,6 +6,7 @@ longitude: 12.9479
 title: Hong
 type: location
 score: 0.22
+loc_type: city
 ---
 
 Hong is a small town in Adamawa State, northeast [Nigeria](/africa/nigeria), roughly 120 km north of [Yola](/africa/nigeria/yola). It sits on a plateau at the edge of the Mandara Mountains, surrounded by rocky hills and farmland, and serves as the headquarters of Hong Local Government Area.

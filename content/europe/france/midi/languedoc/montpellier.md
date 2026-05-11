@@ -7,6 +7,7 @@ longitude: 3.876734
 score: 0.64
 title: Montpellier
 type: location
+loc_type: city
 ---
 
 Montpellier is a lively, walkable Mediterranean city of around 300,000 that punches well above its weight. The university here — founded in 1220 and the oldest continuously operating medical faculty in the Western world — still shapes the city: roughly a quarter of the population are students, which gives the old town its year-round energy, cheap bars, and late-night crowds.

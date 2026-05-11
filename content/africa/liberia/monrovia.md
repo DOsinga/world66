@@ -6,6 +6,7 @@ longitude: -10.806049
 title: Monrovia
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Monrovia is the capital and largest city of Liberia, founded in 1822 by freed American slaves repatriated under the auspices of the American Colonization Society. It was named after US President James Monroe, who supported the colonization effort. That origin — the oldest republic in Africa, built by formerly enslaved people — gives the city a history unlike anywhere else on the continent.

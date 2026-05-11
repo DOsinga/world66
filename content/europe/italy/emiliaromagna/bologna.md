@@ -8,6 +8,7 @@ longitude: 11.342633
 score: 0.69
 title: Bologna
 type: location
+loc_type: city
 ---
 
 This fine city merits more than just a one-night visit. Bologna (pop. 422,000) has gardens, museums, parks, fine buildings, churches, and miles of shopping streets -- and don't forget the great food. Sometimes called "Bologna the fat," this city is a great place to indulge yourself.

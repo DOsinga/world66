@@ -8,6 +8,7 @@ longitude: -0.187
 score: 0.48
 title: Accra
 type: location
+loc_type: city
 ---
 
 *Africa > Ghana > Accra*

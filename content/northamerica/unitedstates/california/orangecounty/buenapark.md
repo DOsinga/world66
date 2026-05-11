@@ -7,6 +7,7 @@ longitude: -117.9962
 score: 0.4
 title: Buena Park
 type: location
+loc_type: city
 ---
 
 Buena Park is a city in northwestern Orange County, best known as the home of Knott's Berry Farm — the nation's oldest themed amusement park. What began in the 1920s as a roadside berry stand and ghost town attraction has grown into a full resort destination, drawing visitors from across Southern California and beyond.

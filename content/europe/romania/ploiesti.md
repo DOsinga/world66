@@ -4,6 +4,7 @@ longitude: 26.02365
 score: 0.33
 title: Ploiești
 type: location
+loc_type: city
 ---
 
 Ploiești has been synonymous with oil since the mid-19th century, when Romania became one of the world's first petroleum-producing nations. The city's refineries made it a strategic target in both World Wars -- the 1943 American bombing raid, Operation Tidal Wave, was one of the costliest air operations of the conflict. That industrial heritage still shapes the city's character, though modern Ploiești is working to diversify beyond petrochemicals.

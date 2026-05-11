@@ -6,6 +6,7 @@ longitude: -80.0364
 title: Palm Beach
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Palm Beach is one of the wealthiest small towns in America. Sitting on a narrow barrier island between the Atlantic Ocean and Lake Worth Lagoon, it faces its larger, scruffier sibling West Palm Beach across the water — and the contrast could not be more deliberate.

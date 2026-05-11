@@ -8,6 +8,7 @@ longitude: 102.288096
 score: 0.65
 title: Melaka
 type: location
+loc_type: region
 ---
 
 Travel Guide

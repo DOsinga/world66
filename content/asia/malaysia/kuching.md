@@ -7,6 +7,7 @@ longitude: 110.3453
 score: 0.64
 title: Kuching
 type: location
+loc_type: city
 ---
 
 Kuching is the capital of Sarawak, the Malaysian state that occupies the northern third of Borneo, and it is by a considerable margin the most pleasant and interesting city on the island. The name means "cat" in Malay, though the origin of the name is disputed. The city's character is shaped by its long history as the seat of the Brooke family — the White Rajahs who ruled Sarawak as a private kingdom from 1841 to 1941 — and by its layering of Malay, Chinese, and indigenous Dayak cultures that coexist with unusual ease.

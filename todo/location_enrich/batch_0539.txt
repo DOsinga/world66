@@ -1,0 +1,5 @@
+northamerica/unitedstates/utah/monticello
+asia/japan/shikoku/matsuyama
+asia/pakistan/azad_kashmir/muzaffar_abad
+europe/italy/emiliaromagna/porretta_terme
+australiaandpacific/australia/newsouthwales/bowral

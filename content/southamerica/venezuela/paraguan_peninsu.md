@@ -6,6 +6,7 @@ longitude: -70.052
 title: Paraguaná Peninsula
 type: location
 score: 0.4
+loc_type: city
 ---
 
 The Paraguaná Peninsula juts out from the northwest corner of Venezuela, connected to Falcón State only by a narrow land bridge near Coro. It's dry, windy, and flat — arid scrubland dotted with goats and cardón cacti, with a steady breeze blowing in from the Caribbean almost year round. The wind draws kitesurfers, and the warm-water beaches on the western and northern coasts are uncrowded by Venezuelan resort standards.

@@ -6,6 +6,7 @@ longitude: 43.876
 title: Samarra
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Samarra is a city on the Tigris about 125 km north of Baghdad. For most of the 9th century it served as the capital of the Abbasid Caliphate, and from that period survive some extraordinary monuments.

@@ -6,6 +6,7 @@ longitude: 8.029249
 title: Testico
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Testico sits high on a ridge between the Merula and Lerrone valleys, a quiet farming village that has been watching the world go by since Roman times. The views from up here are panoramic and the pace is unhurried — this is deep Ligurian hinterland, far from the beach crowds.

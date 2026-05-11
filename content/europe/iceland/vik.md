@@ -6,6 +6,7 @@ longitude: -19.005474
 title: Vik
 type: location
 score: 0.68
+loc_type: city
 ---
 
 Vík í Mýrdal — usually just called Vik — is a small village on Iceland's south coast, roughly 180km from Reykjavik. It sits beneath the Mýrdalsjökull glacier and the notoriously volatile Katla volcano, which lends the landscape a dramatic, slightly uneasy quality. Most people stop here as part of the Ring Road, and for good reason: the black sand beach at Reynisfjara, just west of town, is one of the most striking stretches of coastline in the country.

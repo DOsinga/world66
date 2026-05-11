@@ -8,6 +8,7 @@ longitude: -63.5859
 score: 0.56
 title: Halifax
 type: location
+loc_type: city
 ---
 
 Halifax is the largest city in Atlantic Canada and the capital of Nova Scotia. Built on a harbour that ranks among the finest natural ports in the world, it has been a naval and commercial hub since its founding in 1749.

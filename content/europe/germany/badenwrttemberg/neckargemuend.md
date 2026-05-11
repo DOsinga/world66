@@ -6,6 +6,7 @@ longitude: 8.796589
 title: Neckargemünd
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Neckargemund is a small town on the Neckar river, about 12 kilometres upstream from [Heidelberg](/europe/germany/badenwrttemberg/heidelberg). It sits at the confluence of the Neckar and the smaller Elsenz river, in a wooded valley that feels surprisingly rural given how close you are to the Heidelberg-Mannheim urban area. The old town is compact and well-preserved, with half-timbered houses, a Gothic church, and a couple of pleasant squares where you can sit with a coffee and watch the boats pass.

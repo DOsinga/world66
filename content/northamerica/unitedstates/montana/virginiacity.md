@@ -6,6 +6,7 @@ longitude: -111.9418
 title: Virginia City
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Virginia City, Montana is frozen in time. It was the site of one of the richest gold strikes in the American West — the Alder Gulch discovery of 1863 — and for a brief, furious period it was the most important town in the territory, serving as Montana's first territorial capital. When the gold petered out, there wasn't enough money left to modernize, so the town simply stopped. The Victorian storefronts, the wooden sidewalks, the hotel with its iron beds — all of it survived intact because nobody could afford to tear it down.

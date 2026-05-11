@@ -8,6 +8,7 @@ longitude: 9.180013
 score: 0.55
 title: Stuttgart
 type: location
+loc_type: city
 ---
 
 Beautifully set in the Swabian Mountains and at the edge of the Black Forest Stuttgart is the home of Mercedes Benz. Hardly suprising that one of the best visited museums is the Mercedes Benz Museum. 

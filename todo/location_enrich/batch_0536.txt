@@ -1,0 +1,5 @@
+australiaandpacific/australia/victoria/echuca
+europe/estonia/narvajesuu
+northamerica/unitedstates/oregon/salem
+northamerica/unitedstates/florida/tampabayarea/stpetersburg
+northamerica/thecaribbean/cuba/holguin

@@ -3,7 +3,7 @@ title: "Highlights"
 type: section
 ---
 
-Spain rewards broad exploration — most visitors who think they're just going to [Barcelona](/europe/spain/catalonia/barcelona) or [Madrid](/europe/spain/madrid) end up wanting to come back for [Seville](/europe/spain/andalucia/seville), the [Basque Country](/europe/spain/basque_country_eus), or [Galicia](/europe/spain/galicia).
+Spain rewards broad exploration — most visitors who think they're just going to [Barcelona](/europe/spain/catalonia/barcelona) or [Madrid](/europe/spain/madrid) end up wanting to come back for [Seville](/europe/spain/andalucia/seville), the [Basque Country](/europe/spain/basque_country_euskadi), or [Galicia](/europe/spain/galicia).
 
 **The Alhambra, Granada** — The Nasrid palaces of the Alhambra are the finest example of Moorish architecture in Europe. The intricate plasterwork, the reflecting pools, the gardens of the Generalife — it justifies every superlative. Tickets sell out weeks in advance; book online before you arrive.
 

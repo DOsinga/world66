@@ -1,0 +1,5 @@
+asia/india/karnataka/bangalore
+northamerica/mexico/veracruz
+asia/iran/tuz
+southamerica/argentina/patagonia/comodoro_rivadavia
+europe/france/midi/provence/roussillon

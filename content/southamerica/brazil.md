@@ -17,6 +17,7 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/sr:User:%D0%88%D0%B0%D
 done:
   country_cleanup: 2026-03-29
 score: 0.36
+loc_type: country
 ---
 
 Brazil is the largest country of South America. It borders every other country of the continent except Chile and Ecuador.

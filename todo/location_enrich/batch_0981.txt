@@ -1,0 +1,5 @@
+europe/switzerland/stmoritz
+europe/romania/sighisoara
+europe/belgium/oostende
+africa/nigeria/ikom
+northamerica/unitedstates/oklahoma/tahlequah

@@ -1,0 +1,5 @@
+southamerica/ecuador/atacames
+asia/thailand/tarutao
+africa/tanzania/mwanza
+europe/italy/tuscany/elba/portoferraio
+asia/turkey/troy

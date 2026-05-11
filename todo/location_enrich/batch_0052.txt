@@ -1,0 +1,5 @@
+northamerica/unitedstates/oklahoma/wewoka
+asia/india/goa/calangute
+europe/estonia/rakvere
+europe/ukraine/ivanofrankivsk
+europe/italy/liguria/manarola

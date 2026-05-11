@@ -6,6 +6,7 @@ longitude: -83.036
 title: Limon
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Limón province covers the entire Caribbean coast of Costa Rica, from the Nicaraguan border in the north to the Panamanian border in the south. It has a distinct character from the rest of the country — Afro-Caribbean culture, English Creole spoken alongside Spanish, reggae and calypso, coconut-based cooking, and a slower pace.
@@ -20,4 +21,4 @@ North of Limón, the Tortuguero canals cut through jungle lowlands to one of the
 
 [Cahuita](/northamerica/costarica/cahuita)
 
-[Puerto Viejo de Talamanca](/northamerica/costarica/puerto_viejo_de_ta)
+[Puerto Viejo de Talamanca](/northamerica/costarica/puerto_viejo_de_talamanca)

@@ -6,6 +6,7 @@ longitude: 59.61766
 title: Nukus
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Nukus is the capital of Karakalpakstan, an autonomous republic that makes up the western third of Uzbekistan. It is a Soviet-built city in a flat, arid landscape, not conventionally attractive, but it houses one of the most remarkable art collections in Central Asia.

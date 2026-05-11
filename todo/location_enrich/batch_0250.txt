@@ -1,0 +1,5 @@
+asia/vietnam/dalat
+europe/unitedkingdom/england/eastern_england/thetfordnorfolk
+asia/kyrgyzstan/norus
+europe/germany/lowersaxony/wolfenbuettel
+australiaandpacific/northernmarianaislands/tinian

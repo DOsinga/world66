@@ -6,6 +6,7 @@ longitude: -100.550616
 title: Valentine
 type: location
 score: 0.34
+loc_type: city
 ---
 
 Valentine is the gateway to the Nebraska Sand Hills and the Niobrara National Scenic River — one of the finest canoeing rivers on the Great Plains. This small ranch town in northcentral Nebraska sits where six distinct ecosystems overlap, creating a landscape unlike anywhere else in the Midwest.

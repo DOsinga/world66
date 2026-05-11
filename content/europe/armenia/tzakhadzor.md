@@ -6,6 +6,7 @@ longitude: 44.734297
 title: Tsaghkadzor
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Tsaghkadzor (also spelled Tzakhadzor) is Armenia's main ski resort, located about 50km north of [Yerevan](/europe/armenia/yerevan) in the Kotayk highlands. The name means "valley of flowers" in Armenian.

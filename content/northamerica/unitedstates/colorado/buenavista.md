@@ -7,6 +7,7 @@ longitude: -106.1311
 score: 0.5
 title: Buena Vista
 type: location
+loc_type: city
 ---
 
 Buena Vista sits in the heart of Colorado's Collegiate Peaks, surrounded by some of the state's highest fourteeners and the San Isabel National Forest. Originally a brawling mining supply town — it had 68 bars before its first church was built in 1879 — it has settled into a picturesque base for outdoor pursuits. The Arkansas River running through the valley offers some of Colorado's best whitewater rafting.

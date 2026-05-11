@@ -6,6 +6,7 @@ longitude: -122.29214
 title: Puyallup
 type: location
 score: 0.33
+loc_type: city
 ---
 
 **Puyallup** is a city in the shadow of Mount Rainier in Washington state, about 30 minutes south of Seattle and Tacoma. The name comes from the Puyallup people and is pronounced "pew-AL-up."

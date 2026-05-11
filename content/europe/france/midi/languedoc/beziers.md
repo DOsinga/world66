@@ -7,6 +7,7 @@ longitude: 3.213131
 score: 0.5
 title: Beziers
 type: location
+loc_type: city
 ---
 
 Béziers sits on a hill above the river Orb, about 15 kilometres from the Mediterranean coast, and it wears its age well. The Romans founded a colony here, the Canal du Midi passes through its outskirts, and the city gave rugby to the region — the local club, AS Béziers, was for decades the most powerful side in France. The old centre is compact and walkable, dominated by the Cathedral of Saint-Nazaire, whose terrace gives sweeping views across the plain toward the sea.

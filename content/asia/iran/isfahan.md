@@ -7,6 +7,7 @@ longitude: 51.665
 score: 0.71
 title: Isfahan
 type: location
+loc_type: city
 ---
 
 Isfahan — also spelled Esfahan — is one of Iran's great imperial cities, and many Iranians consider it the most beautiful city in the country. The Persian proverb "Isfahan nesf-e jahan ast" — Isfahan is half the world — captures something real: the city's central Naqsh-e Jahan Square alone is one of the largest public squares on earth, and the skyline of turquoise domes and minarets visible from its edges has barely changed since the Safavid era.

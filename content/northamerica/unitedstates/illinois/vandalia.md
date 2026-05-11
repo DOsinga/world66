@@ -6,6 +6,7 @@ longitude: -89.0937
 title: Vandalia
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Vandalia is a small town of fewer than 7,000 people on the Kaskaskia River in south-central Illinois, sitting at the intersection of I-70 and US 51. It served as the state capital of Illinois from 1819 to 1839, and that two-decade stretch of political importance left a mark that far outweighs the town's current size.

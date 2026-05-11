@@ -6,6 +6,7 @@ longitude: -6.400888
 title: Dundalk
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Dundalk sits roughly halfway between [Dublin](/europe/ireland/dublin) and [Belfast](/europe/unitedkingdom/northernireland/belfast), making it a natural stopping point on the Dublin–Belfast corridor. The town has a handsome 19th-century cathedral, St Patrick's, and a compact centre with good pubs.

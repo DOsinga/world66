@@ -6,6 +6,7 @@ longitude: 9.821931
 score: 0.53
 title: Bludenz
 type: location
+loc_type: city
 ---
 
 Bludenz is a small Alpine town in Vorarlberg, western Austria, where five valleys converge beneath the peaks of the Rätikon range. It is a natural crossroads — the Brandnertal, Klostertal, Montafon, Großes Walsertal, and Walgau all meet here — and a practical base for summer hiking and winter skiing in some of Austria's less crowded mountain terrain.

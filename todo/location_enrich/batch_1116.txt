@@ -1,0 +1,5 @@
+asia/iraq/babylon
+asia/kyrgyzstan/osh
+africa/burkinafaso/ouagadougou
+europe/croatia/zadar
+europe/finland/lahti

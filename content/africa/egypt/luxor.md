@@ -12,6 +12,7 @@ longitude: 32.647186
 score: 0.8
 title: Luxor
 type: location
+loc_type: city
 ---
 
 Luxor is built on top of ancient Thebes, and the weight of that history is everywhere. This was the capital of Egypt during the New Kingdom — arguably the most powerful civilization in the ancient world — and what remains is staggering: two enormous temple complexes on the East Bank, and across the Nile, an entire necropolis carved into the limestone cliffs of the West Bank. Few places on earth have this density of monumental architecture.

@@ -6,6 +6,7 @@ longitude: -73.454291
 done:
   location_cleanup: 2026-04-10
 score: 0.42
+loc_type: city
 ---
 
 Plattsburgh is a small city on the western shore of Lake Champlain in the northeastern corner of New York State, about 25 kilometres south of the Canadian border and 100 kilometres south of Montreal. It has a history that punches above its size.

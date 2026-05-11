@@ -15,6 +15,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ingfbruno" title="
 done:
   country_cleanup: 2026-03-29
 score: 0.29
+loc_type: country
 ---
 
 The land of the brave and the free, that's the States and it's certainly true for traveling. The USA offers a unique combination of bigger than big cities with their fast paced life and great outdoor opportunities.

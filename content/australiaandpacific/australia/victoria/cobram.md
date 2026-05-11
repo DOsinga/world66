@@ -6,6 +6,7 @@ longitude: 145.6484
 score: 0.35
 title: Cobram
 type: location
+loc_type: city
 ---
 
 A quiet Murray River town near the New South Wales border, Cobram is popular with families for its sandy river beaches and relaxed country atmosphere. Thompsons Beach, a stretch of white sand along the Murray, is the main attraction and one of the best inland beaches in [Victoria](/australiaandpacific/australia/victoria) — warm, shallow water surrounded by red gum forest, with barbecue facilities and plenty of shade. In summer, it feels more like a coastal holiday than a country town.

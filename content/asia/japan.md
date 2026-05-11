@@ -16,6 +16,7 @@ quick_facts:
 score: 0.92
 title: Japan
 type: location
+loc_type: country
 ---
 
 Japan is one of the most rewarding countries in the world to travel. It is modern and ancient simultaneously: bullet trains run on the second, while Buddhist monks chant in thousand-year-old temples. Streets are spotlessly clean and almost completely safe. The food is extraordinary. And despite the language barrier, Japan is surprisingly easy to get around.

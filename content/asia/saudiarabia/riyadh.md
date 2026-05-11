@@ -8,6 +8,7 @@ longitude: 45.333333
 score: 0.38
 title: Riyadh
 type: location
+loc_type: city
 ---
 
 Riyadh is the capital of Saudi Arabia and lies on the great limestone plateau of Nejd in the centre of the Arabian Peninsula, some 2500 feet above sea level. In arabic the name literally means 'Gardens'.

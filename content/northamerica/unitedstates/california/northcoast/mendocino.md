@@ -8,6 +8,7 @@ longitude: -123.7993
 score: 0.57
 title: Mendocino
 type: location
+loc_type: city
 ---
 
 Mendocino sits on a dramatic headland where the coastal bluffs drop straight into the Pacific, and the town looks like it was airlifted from Cape Cod and set down on the California coast — which is essentially what happened. New England whalers settled here in the 1850s and built the saltbox houses, white-steepled church, and water towers that still define the skyline. The entire village is on the National Register of Historic Places.

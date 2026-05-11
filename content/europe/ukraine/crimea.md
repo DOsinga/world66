@@ -6,6 +6,7 @@ longitude: 34.200819
 score: 0.46
 title: Crimea
 type: location
+loc_type: region
 ---
 
 > **Travel warning:** Crimea has been under Russian military occupation since 2014, in violation of international law, and has been a conflict zone since Russia's full invasion of Ukraine in 2022. Most governments advise strongly against travel. The content below describes Crimea as a travel destination in earlier times.

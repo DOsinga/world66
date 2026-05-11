@@ -7,6 +7,7 @@ longitude: 19.936856
 score: 0.75
 title: Krakow
 type: location
+loc_type: city
 ---
 
 Krakow was Poland's royal capital for five centuries, and walking its Old Town feels like the intervening years never happened. The vast Market Square — one of Europe's largest medieval plazas — is ringed by townhouses and churches that survived the Second World War intact, which puts Krakow in rare company on the continent. Wawel Castle looms over the river at the Old Town's southern edge, and the former Jewish quarter of Kazimierz, just a short walk away, has become one of the most atmospheric neighborhoods in Central Europe.

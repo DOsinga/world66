@@ -6,6 +6,7 @@ longitude: -110.745501
 title: Bullfrog Marina
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Bullfrog Marina is one of the main access points to Lake Powell in southern Utah, part of the Glen Canyon National Recreation Area — nearly 2 million acres of red rock canyon and reservoir country on the Utah–Arizona border. It's the busiest of the Utah marinas, particularly popular with powerboaters in summer.

@@ -10,6 +10,7 @@ longitude: 6.360008
 title: Ruinen
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Ruinen is a traditional brink village in Drenthe, one of those quiet Dutch settlements built around a village green where sheep once grazed. The surrounding landscape is all heathland, forest and cycling paths — this is the kind of place where you come to slow down.

@@ -8,6 +8,7 @@ longitude: 2.399125
 score: 0.55
 title: Bourges
 type: location
+loc_type: city
 ---
 
 Bourges sits near the geographic center of France, the historic capital of the Berry province. It is a city of art and history that most visitors to France never reach — which is a shame, because its Gothic cathedral alone is worth a detour of any length.

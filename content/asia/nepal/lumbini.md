@@ -6,6 +6,7 @@ longitude: 82.953185
 title: Lumbini
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Lumbini is the birthplace of Siddhartha Gautama — the Buddha — and one of the most sacred sites in the Buddhist world. It lies in the flat Terai lowlands of southern Nepal, near the border with India, in what was once a garden between the ancient kingdoms of Kapilavastu and Devadaha.

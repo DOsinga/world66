@@ -6,6 +6,7 @@ longitude: -93.298163
 title: Bloomington
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Bloomington is a southern suburb of Minneapolis best known as the home of Mall of America, the largest shopping mall in the United States. If mega-malls are your thing, this one delivers — it has an indoor amusement park, an aquarium, and over 500 stores spread across four floors.

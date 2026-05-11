@@ -6,6 +6,7 @@ longitude: 11.875678
 title: Skomvær
 type: location
 score: 0.52
+loc_type: city
 ---
 
 Skomvaer is the outermost island in the Rost archipelago, the very last scrap of land at the southwestern tip of the [Lofoten Islands](/europe/norway/lofotenislands) before the open Norwegian Sea. A proud lighthouse built in 1887 stands on the island, marking the edge of the coast for ships heading north. The island is tiny, lush, and windswept, surrounded by some of the richest seabird colonies in Norway.

@@ -19,6 +19,7 @@ done:
 score: 0.46
 title: Tanzania
 type: location
+loc_type: country
 ---
 
 Tanzania is one of the great travel destinations of Africa. It has the continent's highest mountain, its most famous wildlife migration, its most storied spice island, and a coastline that has drawn traders and explorers for over a thousand years. Most visitors come for the safari parks — and they are extraordinary — but the country rewards those who look further.

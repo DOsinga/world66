@@ -6,6 +6,7 @@ longitude: 80.387062
 title: Pinnawela
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Pinnawela is a small village in the Kegalle District best known as the home of the Pinnawela Elephant Orphanage, founded in 1975 to care for wild elephants that had been orphaned or injured in the jungle. It now houses one of the largest captive elephant herds in the world, and for many visitors it is the highlight of the drive between [Colombo](/asia/srilanka/colombo) and [Kandy](/asia/srilanka/kandy), about 90km from Colombo.

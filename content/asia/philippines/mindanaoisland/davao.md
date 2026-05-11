@@ -8,6 +8,7 @@ longitude: 125.608062
 score: 0.49
 title: Davao
 type: location
+loc_type: city
 ---
 
 Davao is Mindanao's largest city and the gateway to the Philippines' wild south. While Manila gets the headlines and Cebu gets the beach crowds, Davao draws a different kind of traveller — one looking for durian at midnight markets, white-water rafting on jungle rivers, and the country's highest peak looming on the horizon.

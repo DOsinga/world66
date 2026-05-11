@@ -6,6 +6,7 @@ longitude: 0.278155
 score: 0.49
 title: Eastbourne
 type: location
+loc_type: city
 ---
 
 Eastbourne sits on the Sussex coast where the South Downs meet the English Channel, a Victorian seaside resort that still feels like one — in the best possible way. The seafront is grand: a long promenade, carpet gardens, a bandstand, and a pier that has survived fires and storms since 1870.

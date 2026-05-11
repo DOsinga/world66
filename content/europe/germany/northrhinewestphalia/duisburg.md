@@ -6,6 +6,7 @@ longitude: 6.759562
 score: 0.38
 title: Duisburg
 type: location
+loc_type: city
 ---
 
 Duisburg is a Ruhr city that has reinvented its industrial heritage more creatively than most. The standout is the Landschaftspark Duisburg-Nord, a former ironworks and blast furnace complex converted into a public park. By day you can climb the ore bunkers and walk through the industrial ruins; by night the whole site is lit up with coloured lights by artist Jonathan Park. The old gasometer has been turned into a diving centre, and rock climbers scale the concrete walls of the ore storage bunkers.

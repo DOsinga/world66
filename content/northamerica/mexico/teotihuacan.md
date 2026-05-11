@@ -10,6 +10,7 @@ image: teotihuacan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:15-07-13-Teotihuacan-RalfR-WMA_0251.jpg
 image_license: GFDL 1.2
 image_attribution: Ralf Roletschek
+loc_type: city
 ---
 
 Teotihuacan is one of the most impressive ancient cities in the Americas, located about 50 km northeast of [Mexico City](/northamerica/mexico/mexicocity) — roughly an hour by road. At its peak between the first and seventh century AD, it was the largest city on the continent, home to perhaps 125,000 people, and its influence extended across Mesoamerica.

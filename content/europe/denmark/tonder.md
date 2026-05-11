@@ -6,6 +6,7 @@ longitude: 8.862941
 score: 0.46
 title: Tonder
 type: location
+loc_type: city
 ---
 
 Tønder is [Denmark's](/europe/denmark) oldest market town, sitting right on the German border in the flat, windswept marshlands of southern Jutland. For centuries it was famous for its lace — Tønder lace was exported across Europe, and the town museum still has a fine collection. Today it is a quiet, well-preserved town of old gabled houses and cobbled streets, pleasant to walk around but not heavily touristed.

@@ -7,6 +7,7 @@ longitude: 91.29991
 score: 0.59
 title: Meghalaya
 type: location
+loc_type: region
 ---
 
 Meghalaya — *abode of the clouds* in Sanskrit — is one of the wettest places on earth, a fact that shapes everything about it. The northeastern Indian state sits on a high plateau, coaxing rainfall out of the Bay of Bengal until the hills are smothered in mist and dense subtropical forest. Waterfalls cascade through jungle ravines, and ancient living-root bridges — grown over centuries from the roots of rubber fig trees — still carry people across mountain streams.

@@ -6,6 +6,7 @@ longitude: 57.5311
 title: Nizwa
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Nizwa was once the capital of Oman's interior — the seat of the imamate that governed the mountain heartland for much of Oman's history — and it still has an authority that the coastal cities lack. The 17th-century fort is one of the most imposing in the country, its great circular tower rising over the date palm groves and the old town. The attached souq sells silver khanjar daggers, copper vessels, pottery, and frankincense, and on Friday mornings a livestock market sets up in the shadow of the walls.

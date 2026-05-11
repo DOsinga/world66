@@ -6,6 +6,7 @@ longitude: 1.06323
 title: Le Blanc
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Le Blanc is a small market town in the southern Indre department, straddling the River Creuse on the edge of the Brenne regional nature park. The town itself is pleasant and unhurried, with a medieval old quarter climbing up from the river and a lively Saturday market where local producers sell goat cheese, honey, and seasonal fruit.

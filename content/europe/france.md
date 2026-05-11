@@ -18,6 +18,7 @@ quick_facts:
 score: 0.95
 title: France
 type: location
+loc_type: country
 ---
 
 France is the number one tourist destination in the world. It has everything that you could ever want to see on your holidays: a great city like [Paris](/europe/france/paris) , good beaches, more monuments than any other country, lovely nature, incredible mountain scenery, need I go on. France is also a very pleasant place to stay. It has good food, great wines and people enjoy their lives. And the best thing is, maybe apart from Paris, living in France does not have to be expensive.

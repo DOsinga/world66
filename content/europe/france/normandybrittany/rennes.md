@@ -6,6 +6,7 @@ longitude: -1.68002
 title: Rennes
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Rennes is the capital of Brittany and one of the most liveable cities in France — a university town with a young population, beautiful half-timbered medieval streets, and a food and bar scene that punches well above its size. The old town around Place des Lices and Rue Saint-Michel (known locally as Rue de la Soif — "Thirst Street") is packed with restaurants, crêperies, and bars that fill every evening.

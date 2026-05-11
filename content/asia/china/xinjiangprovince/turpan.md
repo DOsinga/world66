@@ -6,6 +6,7 @@ longitude: 89.179589
 title: Turpan
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Turpan was one of the most important oasis cities on the Silk Road — a key stopping point on the route between China and Central Asia. Today it is a small, unhurried town where donkey carts still share the streets with cars, and the surrounding desert landscape is extraordinary.

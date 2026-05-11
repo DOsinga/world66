@@ -6,6 +6,7 @@ longitude: -90.987592
 title: Donaldsonville
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Donaldsonville is known today as the "Gateway to Cajun and Plantation Country" because of its rich heritage and the numerous plantations along the Mississippi River and Bayou Lafourche. It is also home to Chef John Folse and his Four Star fine dining establishment Lafitte's Landing at Bittersweet Plantation.

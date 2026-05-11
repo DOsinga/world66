@@ -6,6 +6,7 @@ longitude: 44.452138
 title: Maku
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Maku is a town in northwestern Iran, some 22 km from the Turkish border. There is not much to see in Maku itself, but it is a useful overnight stop if you are crossing to or from [Doğubayazıt](/asia/turkey/dogubeyazit) in Turkey.

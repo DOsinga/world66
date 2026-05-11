@@ -12,6 +12,7 @@ longitude: 14.374836
 score: 0.83
 title: Sorrento
 type: location
+loc_type: city
 ---
 
 *Europe > Italy > Campania > Sorrento*

@@ -6,6 +6,7 @@ longitude: 98.262239
 title: Nias Selatan
 type: location
 score: 0.38
+loc_type: region
 ---
 
 South Nias (Nias Selatan) is the most visited part of Nias Island, off the west coast of Sumatra. The region draws surfers to the powerful waves at **Lagundri Bay** (Sorake Beach), widely considered one of the best right-handers in Indonesia. But South Nias has more to offer than surf.

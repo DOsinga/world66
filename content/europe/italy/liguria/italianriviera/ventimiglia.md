@@ -8,6 +8,7 @@ longitude: 7.603313
 score: 0.53
 title: Ventimiglia
 type: location
+loc_type: city
 ---
 
 **Ventimiglia** is the westernmost town on the Italian Riviera — so close to France that its train station is the last stop before the border, and the cross-border French influence is felt everywhere, from the shops selling to French day-trippers to the bilingual street signs and the boulangeries on the main street. It sits at the mouth of the **Roja** river, between the limestone cliffs of the coast and the steep inland valleys that climb up into the Ligurian Alps.

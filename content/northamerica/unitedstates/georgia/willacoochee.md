@@ -6,6 +6,7 @@ longitude: -83.045983
 done:
   location_cleanup: 2026-04-06
 score: 0.25
+loc_type: city
 ---
 
 Willacoochee is a tiny town in Atkinson County in south Georgia, where the Alapaha and Willacoochee rivers meet in a landscape of pine flatwoods and cypress swamps. With a population of around 1,200, it is the kind of rural Southern town that most travelers drive through on US 82 between Valdosta and Waycross without stopping.

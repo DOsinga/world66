@@ -13,6 +13,7 @@ image_attribution: <a rel="nofollow" class="external text" href="http://www.wiki
 done:
   country_cleanup: 2026-03-29
 score: 0.79
+loc_type: country
 ---
 
 One of the most beautiful islands of the Caribbean, St. Lucia has two easily recognizable features: the twin volcanic peaks of Petit Piton and Gros Piton which are are visible from far out to sea. Most of the islands is covered with thick greenery - from wild forests to banana plantations. 

@@ -6,6 +6,7 @@ longitude: 27.7339
 title: Kajaani
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Kajaani sits on the shore of Lake Oulujarvi in the Kainuu region of eastern Finland, a quiet town that still carries the rural character of the surrounding forests and lakes. It is small enough to walk around in an afternoon but has a few things worth stopping for.

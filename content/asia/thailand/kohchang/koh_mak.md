@@ -6,6 +6,7 @@ longitude: 102.492633
 title: Koh Mak
 type: location
 score: 0.65
+loc_type: city
 ---
 
 Koh Mak is a small, quiet island in the Gulf of Thailand, between the better-known islands of [Koh Chang](/asia/thailand/koh_chang) and Koh Kood. Most of the island is still owned by five families who have lived here for generations, and development has been deliberately kept small-scale — about 20 low-key resorts are spread along the four main beaches.

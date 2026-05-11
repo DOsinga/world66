@@ -6,6 +6,7 @@ longitude: 14.252243
 score: 0.8
 title: Campania
 type: location
+loc_type: region
 ---
 
 Campania is the region that has everything — volcanic history, Greek temples, the most extravagant coastline in Italy, and a city that operates entirely on its own rules. It cradles the Bay of Naples between Vesuvius and the Sorrentine Peninsula, and stretches south past the Amalfi Coast to the ancient ruins of Paestum and the wild Cilento.

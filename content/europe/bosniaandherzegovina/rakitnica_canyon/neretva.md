@@ -6,6 +6,7 @@ long: 17.5833
 title: Neretva
 type: location
 score: 0.45
+loc_type: city
 ---
 
 The village of Neretva sits in the upper Rakitnica Canyon area of Bosnia and Herzegovina, tucked into the rugged limestone landscape of the central Dinaric Alps. It takes its name from the Neretva River, which rises nearby in the mountains above Zelengora.

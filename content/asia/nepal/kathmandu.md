@@ -7,6 +7,7 @@ longitude: 85.320582
 score: 0.72
 title: Kathmandu
 type: location
+loc_type: city
 ---
 
 Travel Guide

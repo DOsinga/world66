@@ -10,6 +10,7 @@ image: positano.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Positano_(Italy)_02.jpg
 image_license: CC BY 4.0
 image_attribution: Bernard Gagnon
+loc_type: city
 ---
 
 *Europe > Italy > Campania > Positano*

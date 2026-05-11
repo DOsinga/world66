@@ -6,6 +6,7 @@ longitude: -115.3443
 title: Thompson Falls
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Thompson Falls sits in a tight river valley in far-western Montana, where the Clark Fork cuts through the Cabinet Mountains before crossing into Idaho. It is a small, unhurried town — county seat of Sanders County, population around 1,300 — that most travelers pass through on US-2, but it rewards a stop.

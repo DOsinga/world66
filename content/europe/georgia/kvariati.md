@@ -4,6 +4,7 @@ type: location
 latitude: 41.547606
 longitude: 41.563765
 score: 0.46
+loc_type: city
 ---
 
 Kvariati is a small Black Sea resort village in Adjara, about 15 kilometres south of [Batumi](/europe/georgia/batumi) and just a couple of kilometres from the Turkish border at [Sarpi](/europe/georgia/sarpi). The village sits in a natural cove backed by the green slopes of the Lesser Caucasus mountains, which drop steeply to the water. The combination of subtropical vegetation, warm sea, and mountain backdrop gives it a setting that rivals anywhere on the eastern Black Sea coast.

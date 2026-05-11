@@ -12,6 +12,7 @@ longitude: 31.235726
 score: 0.82
 title: Cairo
 type: location
+loc_type: city
 ---
 
 Travel Guide

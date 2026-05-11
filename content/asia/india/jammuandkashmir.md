@@ -6,6 +6,7 @@ longitude: 75.162958
 score: 0.68
 title: Jammu and Kashmir
 type: location
+loc_type: region
 ---
 
 India's northernmost state divides neatly into three very different worlds. Jammu in the south is a Hindu pilgrimage city and the jumping-off point for the mountains. The Kashmir Valley in the middle is one of the most beautiful places in Asia — lakes, Mughal gardens, snow-capped peaks — and one of the most politically fraught. Ladakh in the east is high-altitude desert, Buddhist monasteries on cliff-faces, and some of the most dramatic scenery on earth.

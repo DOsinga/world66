@@ -6,6 +6,7 @@ longitude: -6.9261
 title: Carlow
 type: location
 score: 0.45
+loc_type: region
 ---
 
 Carlow is one of Ireland's smallest counties, tucked into the southeast between Kilkenny, Wexford, and Wicklow. The county town, also called Carlow, sits on the River Barrow and is a compact, walkable place with a handful of things worth seeing.

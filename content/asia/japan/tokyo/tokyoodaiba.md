@@ -4,8 +4,11 @@ done:
 latitude: 35.626286
 longitude: 139.77078
 title: Odaiba
-type: location
+type: neighbourhood
 score: 0.61
+tags:
+- neighbourhood
+- things_to_do
 ---
 
 Odaiba is a large artificial island in Tokyo Bay, built on reclaimed land and connected to central [Tokyo](/asia/japan/tokyo) by the Yurikamome monorail and the Rinkai Line. Originally developed as a futuristic waterfront district in the 1990s, it has an oddly spacious, almost surreal feel — wide boulevards, vast shopping malls, and a full-scale replica of the Statue of Liberty facing Rainbow Bridge.

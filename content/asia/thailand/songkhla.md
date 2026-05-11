@@ -8,6 +8,7 @@ longitude: 100.5962
 score: 0.5
 title: Songkhla
 type: location
+loc_type: city
 ---
 
 Songkhla is one of southern Thailand's most atmospheric old towns — a quietly historic city perched on a narrow peninsula between the Gulf of Thailand and the vast Songkhla Lake. About 950 km south of Bangkok and just north of the Malaysian border, it sits at the edge of the deep south where Thai, Chinese, and Malay cultures have blended for centuries.

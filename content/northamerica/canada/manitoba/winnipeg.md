@@ -8,6 +8,7 @@ longitude: -97.138458
 score: 0.4
 title: Winnipeg
 type: location
+loc_type: city
 ---
 
 Winnipeg sits almost exactly in the longitudinal centre of North America, at the confluence of the Red and Assiniboine Rivers — a meeting place used by Indigenous peoples for six thousand years before the Hudson's Bay Company built a fort nearby in 1738. Today it is the capital of Manitoba, a city of 750,000, and the gateway to western Canada for travellers coming overland.

@@ -6,6 +6,7 @@ longitude: 34.998386
 title: Haifa
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Haifa is the third biggest city of Israel and the economic powerhouse of the country. As the people in Haifa say: [Jerusalem](/asia/israel/jerusalem) is for praying, Tel Aviv for partying, Haifa for working. 

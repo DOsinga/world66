@@ -8,6 +8,7 @@ longitude: 8.764784
 score: 0.56
 title: Ribe
 type: location
+loc_type: city
 ---
 
 Ribe is Denmark's oldest town, founded around 700 AD when the Vikings established a trading market here at the edge of the Jutland marshes. It is also the country's best-preserved medieval town: the entire centre is a maze of half-timbered houses, cobblestone streets, and centuries-old churches, presided over by the five-aisled Ribe Cathedral. The flat salt meadows and tidal flats of the Wadden Sea begin just outside the town.

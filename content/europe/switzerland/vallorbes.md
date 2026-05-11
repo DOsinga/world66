@@ -6,6 +6,7 @@ longitude: 6.948309
 title: Vallorbes
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Vallorbes is a small town in the Jura mountains northwest of Lausanne, sitting right on the French border. It has long been a crossing point between the two countries, and the railway tunnel linking Switzerland to France emerges here.

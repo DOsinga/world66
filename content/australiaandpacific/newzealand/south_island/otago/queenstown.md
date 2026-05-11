@@ -12,6 +12,7 @@ longitude: 168.661
 score: 0.84
 title: Queenstown
 type: location
+loc_type: city
 ---
 
 Queenstown sits at the edge of Lake Wakatipu on New Zealand's South Island, ringed by the jagged Remarkables mountain range. It is the country's undisputed adventure capital — the place where bungy jumping was commercialised, and where the adrenaline industry has never looked back.

@@ -6,6 +6,7 @@ longitude: 68.756353
 score: 0.1
 title: Kunduz
 type: location
+loc_type: city
 ---
 
 Kunduz is a major city in northeastern Afghanistan, sitting on the fertile plains where the Kunduz River flows toward the Amu Darya. Historically it was a prosperous trading centre on the routes between Central Asia and the Hindu Kush, and the surrounding area has significant archaeological sites from the Kushan and Greco-Buddhist periods.

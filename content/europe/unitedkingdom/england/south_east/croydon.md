@@ -4,6 +4,7 @@ longitude: -0.101957
 score: 0.3
 title: Croydon
 type: location
+loc_type: city
 ---
 
 Croydon is one of London's largest boroughs, a major commercial center in South London that has long been the butt of jokes from snobbier parts of the city. That reputation is increasingly unfair. While Croydon's skyline of 1960s office towers and concrete shopping centers will never win beauty prizes, the borough has developed a genuinely interesting cultural scene, driven in part by the artists and musicians priced out of inner London.

@@ -8,6 +8,7 @@ longitude: 44.2
 score: 0.17
 title: Sanaa
 type: location
+loc_type: city
 ---
 
 Sana'a is one of the most extraordinary cities in the Arab world — a place where the architecture has barely changed in a thousand years and where even the new quarters have the feel of somewhere very old. The city sits in a high valley at about 2,200 metres, ringed by rugged mountains, and the air is clear and cool by Arabian standards.

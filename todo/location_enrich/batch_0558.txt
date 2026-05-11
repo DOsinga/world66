@@ -1,0 +1,5 @@
+europe/france/east/burgundy/beaune
+northamerica/unitedstates/illinois/urbanachampaign
+southamerica/colombia/buga
+europe/spain/galicia/muros
+asia/iran/tehran

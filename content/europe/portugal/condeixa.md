@@ -6,6 +6,7 @@ longitude: -8.498632
 title: Condeixa
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Condeixa-a-Nova is a small town in central Portugal, about 15 kilometres south of Coimbra and easily reached by regular buses from there. The town itself is unremarkable, but it sits adjacent to the most important Roman archaeological site in Portugal.

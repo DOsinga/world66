@@ -6,6 +6,7 @@ longitude: -80.567988
 title: Indialantic
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Travel Guide

@@ -8,6 +8,7 @@ longitude: 24.105185
 score: 0.66
 title: Riga
 type: location
+loc_type: city
 ---
 
 Riga is the capital of Latvia and home to around a third of the country's population — a concentration that makes it the undisputed centre of Latvian life. It's one of the most architecturally impressive cities in the Baltic region, and for most visitors it's the reason to come to Latvia in the first place.

@@ -10,6 +10,7 @@ longitude: 34.845518
 score: 0.8
 title: Cappadocia
 type: location
+loc_type: region
 ---
 
 Cappadocia is one of the most exciting destinations within Turkey. This is the region where the famous "fairytale chimneys" are to be found, strange formations of a soft kind of rock in which houses, mosques and other buildings have been carved.

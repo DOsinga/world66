@@ -6,6 +6,7 @@ longitude: 14.7307
 title: Ragusa
 type: location
 score: 0.7
+loc_type: city
 ---
 
 Ragusa is really two towns in one. The upper town, Ragusa Superiore, is modern and orderly. The lower town, Ragusa Ibla, is the real draw: a maze of Baroque palaces, churches, and steep stairways rebuilt after the devastating earthquake of 1693. It is now a UNESCO World Heritage Site and one of the most photogenic towns in Sicily.

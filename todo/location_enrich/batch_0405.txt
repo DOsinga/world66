@@ -1,0 +1,5 @@
+europe/unitedkingdom/scotland/lochgilphead
+africa/malawi/lilongwe
+asia/china/hunan
+europe/austria/baden
+africa/mauritania/capetagarit

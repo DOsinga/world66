@@ -5,6 +5,7 @@ latitude: 27.7215
 longitude: 85.362
 todo_location_cleanup: done
 score: 0.63
+loc_type: city
 ---
 
 Bodnath (also spelled Boudhanath) is a suburb just northeast of Kathmandu and easily reached by taxi or shared vehicle. Although the area is small, it contains the largest stupa in Nepal — a massive white dome topped with a golden spire and the watchful eyes of the Buddha, surrounded by hundreds of prayer wheels and lines of fluttering prayer flags.

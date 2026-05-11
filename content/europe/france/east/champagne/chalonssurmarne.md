@@ -6,6 +6,7 @@ longitude: 4.362885
 title: Châlons-en-Champagne
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Châlons-en-Champagne — known as Châlons-sur-Marne until 1998 — was the administrative capital of the former Champagne-Ardenne region. It is a quiet, well-kept town threaded with canals, and its medieval religious architecture punches well above its weight for a city of its size.

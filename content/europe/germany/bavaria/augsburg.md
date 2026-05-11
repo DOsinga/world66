@@ -11,6 +11,7 @@ longitude: 10.8978
 score: 0.6
 title: Augsburg
 type: location
+loc_type: city
 ---
 
 Augsburg is one of Germany's oldest cities, founded by the Romans in 15 BC and named after Emperor Augustus. It rose to European prominence in the 15th and 16th centuries as the home of the Fugger and Welser banking dynasties, whose wealth financed emperors and shaped the Renaissance cityscape that still defines the centre today.

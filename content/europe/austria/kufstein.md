@@ -9,6 +9,7 @@ latitude: 47.583
 longitude: 12.1692
 title: Kufstein
 type: location
+loc_type: city
 ---
 
 Kufstein sits at the point where the Inn River cuts through a dramatic limestone gorge on the Austrian-German border, and the medieval fortress perched on the rock above the old town is visible for kilometres in every direction. It is one of the best-preserved fortresses in Tyrol and the natural centrepiece of a town that otherwise feels pleasantly unhurried — good cafes, a handful of wine bars, and streets lined with painted facades in the style typical of this corner of Austria.

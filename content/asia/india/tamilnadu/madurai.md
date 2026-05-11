@@ -6,6 +6,7 @@ longitude: 78.114098
 title: Madurai
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Madurai is one of the oldest continuously inhabited cities in the world — over 2,500 years old and still pulsing with the same intensity. The city is built around the Meenakshi Amman Temple, one of the great Hindu temples of south [India](/asia/india), and daily life here revolves around it. Step through one of the nine towering gopurams — the gateway towers encrusted with thousands of painted stucco figures — and you enter a complex that functions as temple, meeting place, market and pilgrimage destination all at once.

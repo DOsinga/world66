@@ -6,6 +6,7 @@ longitude: 117.1393
 title: Samarinda
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Samarinda is a major timber port on the Mahakam River and the main gateway for trips into the interior of East Kalimantan. The city itself is mostly a transit point, but what it offers is exceptional access to Dayak country upriver.

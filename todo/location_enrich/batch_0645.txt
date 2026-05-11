@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/mountain_view
+asia/thailand/phitsanulok
+northamerica/unitedstates/texas/arlington
+australiaandpacific/australia/westernaustralia/geraldton
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle

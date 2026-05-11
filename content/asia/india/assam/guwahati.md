@@ -6,6 +6,7 @@ longitude: 91.753943
 title: Guwahati
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Located on the southern bank of the Brahmaputra, Guwahati is the gateway to northeast India and the largest city in Assam. It is the main entry point by air and rail for most travellers heading into the region.

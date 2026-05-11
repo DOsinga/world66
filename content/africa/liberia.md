@@ -15,6 +15,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-31
 score: 0.22
+loc_type: country
 ---
 
 *Africa > Liberia*

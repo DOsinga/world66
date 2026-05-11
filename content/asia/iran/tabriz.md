@@ -8,6 +8,7 @@ longitude: 46.2979
 score: 0.46
 title: Tabriz
 type: location
+loc_type: city
 ---
 
 Tabriz sits in a broad valley in Iran's northwest, ringed by mountains and close to the Turkish border. It is one of the oldest continuously inhabited cities in the Middle East, and it feels it — this is a place with layers. Once a capital of the Persian and Safavid empires, Tabriz was a major stop on Silk Road trade routes, and its enormous covered bazaar remains the commercial heart of the city.

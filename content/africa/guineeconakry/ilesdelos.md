@@ -6,6 +6,7 @@ longitude: -13.826735
 title: Iles de Los
 type: location
 score: 0.4
+loc_type: city
 ---
 
 The Iles de Los are a small archipelago just south of [Conakry](/africa/guineeconakry/conakry), reachable by pirogue in about 30-45 minutes. The three main islands -- Tamara, Kassa, and Roume -- offer a welcome escape from the capital's noise and traffic.

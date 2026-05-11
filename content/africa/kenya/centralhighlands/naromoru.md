@@ -6,6 +6,7 @@ longitude: 37.023557
 title: Naro Moru
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Naro Moru is a small town on the western side of Mount Kenya, and the most common starting point for trekkers climbing the mountain via the Naro Moru route. There is little reason to linger in town itself — it exists almost entirely as a staging post for the mountain.

@@ -7,6 +7,7 @@ longitude: 35.923963
 score: 0.62
 title: Amman
 type: location
+loc_type: city
 ---
 
 Amman is the capital of Jordan and the country's gateway: almost every traveller passes through here, and most use it as a base for trips to Petra, the Dead Sea, Jerash and the desert castles. The city has grown from a small settlement of a few thousand people a century ago into a bustling metropolis of over four million, spread across a patchwork of hills (the classic seven have long since been outgrown) in the limestone uplands of the Eastern Desert. The contrasts are sharp. Traditional Bedouin culture in the cafes and souks of **Downtown** (Al Balad) sits beside the European-style boutiques and galleries of **Jabal Amman**; gleaming new suburbs like **Abdoun** and **Sweifieh** rise to the west; sprawling refugee-built quarters spread to the east. Arabic satellite television, Iraqi intellectuals and Syrian shopkeepers all find a corner here.

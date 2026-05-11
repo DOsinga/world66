@@ -6,6 +6,7 @@ longitude: 15.430556
 done:
   location_cleanup: 2026-04-05
 score: 0.39
+loc_type: city
 ---
 
 *Europe > Italy > Campania > Calitri*

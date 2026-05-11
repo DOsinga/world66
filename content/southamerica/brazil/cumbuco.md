@@ -6,6 +6,7 @@ longitude: -38.7256
 done:
   location_cleanup: 2026-04-07
 score: 0.51
+loc_type: city
 ---
 
 Cumbuco is a small fishing village 25 kilometres north of [Fortaleza](/southamerica/brazil/fortaleza), and one of the best kitesurfing destinations in [Brazil](/southamerica/brazil). The setting is dramatic: a long sandy beach with blue sea on one side and towering sand dunes on the other, with palm trees, a small town square, and a football pitch in between.

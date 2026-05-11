@@ -6,6 +6,7 @@ longitude: -57.516836
 title: New Amsterdam
 type: location
 score: 0.34
+loc_type: city
 ---
 
 New Amsterdam is Guyana's second-largest town, sitting on the east bank of the Berbice River near where it meets the Atlantic coast. It was founded by the Dutch in the 18th century and its colonial origins still show in the layout of the streets and in the older buildings along the waterfront.

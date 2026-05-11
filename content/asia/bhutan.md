@@ -17,6 +17,7 @@ quick_facts:
 title: Bhutan
 type: location
 score: 0.81
+loc_type: country
 ---
 
 Bhutan is the last great Himalayan kingdom, a country the size of Switzerland wedged between India and Tibet where Gross National Happiness is official policy and television arrived only in 1999. It is one of the most tightly controlled tourism destinations on earth, and that is exactly what makes it extraordinary.

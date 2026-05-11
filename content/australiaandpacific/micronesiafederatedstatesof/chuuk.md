@@ -6,6 +6,7 @@ longitude: 151.7833
 title: Chuuk
 type: location
 score: 0.49
+loc_type: city
 ---
 
 The islands within the Chuuk atoll are crowned with natural beauty. The outer barrier reef is punctuated with idyllic sand spits dotted with coconut palms. The high islands in the central lagoon rise into the blue island skies.

@@ -6,6 +6,7 @@ longitude: 10.659658
 score: 0.45
 title: Moss
 type: location
+loc_type: city
 ---
 
 Moss is a small industrial city on the eastern shore of the Oslofjord, about an hour south of [Oslo](/europe/norway/oslo) by train. It is not a typical tourist destination, but it has a few things worth stopping for if you are passing through or exploring the Østfold coast.

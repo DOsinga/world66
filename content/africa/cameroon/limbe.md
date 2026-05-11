@@ -6,6 +6,7 @@ longitude: 9.2071
 title: Limbe
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Limbe is a beach town on Cameroon's Atlantic coast, about an hour by road from [Douala](/africa/cameroon/douala). It fills up at weekends with city dwellers escaping the heat and traffic, but during the week it is a relaxed, low-key place.

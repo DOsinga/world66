@@ -1,0 +1,5 @@
+asia/myanmar/kengtung
+asia/oman/musandampeninsula/khasab
+europe/czechrepublic/brno
+northamerica/unitedstates/illinois/springfield
+australiaandpacific/australia/victoria/yackandandah

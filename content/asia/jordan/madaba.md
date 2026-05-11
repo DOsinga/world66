@@ -6,6 +6,7 @@ longitude: 35.794386
 title: Madaba
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Madaba is just 30 km south of [Amman](/asia/jordan/amman) and makes a perfect day trip. The town is famous for its stunningly beautiful Byzantine-era mosaics, above all the Madaba Map — a 6th-century mosaic map of Palestine and the Holy Land, the oldest surviving cartographic depiction of the region.

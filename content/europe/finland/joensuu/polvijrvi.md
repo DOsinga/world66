@@ -6,6 +6,7 @@ longitude: 29.366933
 title: Polvijärvi
 type: location
 score: 0.34
+loc_type: city
 ---
 
 Polvijärvi is a quiet rural municipality about 30km north of Joensuu in the North Karelia region of eastern Finland. It is lake country — forests, water, and small farms — the kind of place that draws Finnish families on summer holidays rather than international tourists. The pace is slow and intentionally so.

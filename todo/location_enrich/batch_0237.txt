@@ -1,0 +1,5 @@
+africa/tunisia/sousse
+australiaandpacific/fiji/taveuni
+europe/sweden/kunglv
+africa/somalia/garowe
+asia/vietnam/myson

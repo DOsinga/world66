@@ -6,6 +6,7 @@ longitude: 2.6
 title: Haut-Languedoc Regional Nature Park
 type: location
 score: 0.54
+loc_type: region
 ---
 
 The Parc Naturel Régional du Haut-Languedoc is one of France's least-known regional parks — and one of its most surprising. Straddling the border of the Hérault and Tarn departments north of Béziers, it covers a wide swathe of low mountains, deep valleys, and dense forest that feels genuinely remote despite being just a couple of hours from the Mediterranean coast.
@@ -17,6 +18,6 @@ This is not a park of dramatic gorges or alpine peaks. Its appeal is quieter —
 ## Destinations
 
 - [Fraisse-sur-Agout](/europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout)
-- [Monts de l'Espinouse](/europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou)
+- [Monts de l'Espinouse](/europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse)
 - [Le Sidobre](/europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre)
-- [St Pons de Thomière](/europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomi)
+- [St Pons de Thomière](/europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres)

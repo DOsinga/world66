@@ -17,6 +17,7 @@ quick_facts:
   Rail Tunnels: Gotthard Base is world's longest at 57 km
   Direct Democracy: Citizens vote on policy ~4 times a year
 score: 0.63
+loc_type: country
 ---
 
 Located in central Europe, Switzerland is bordered by [France](/europe/france) , [Germany](/europe/germany) , [Austria](/europe/austria) , [Liechtenstein](/europe/liechtenstein) , [Italy](/europe/italy) , and [France](/europe/france) . A small country, Switzerland's very name conjures up images of chocolates, cheese, watches, bankers, and snow-capped mountains. 

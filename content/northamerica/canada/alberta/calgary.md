@@ -12,6 +12,7 @@ longitude: -114.057541
 score: 0.51
 title: Calgary
 type: location
+loc_type: city
 ---
 
 Calgary sits where the prairies meet the foothills of the Canadian Rockies, with the Bow River running through a downtown of glass towers and pedestrian bridges. It is a prosperous, outdoorsy city — the oil industry wealth shows, but so does the proximity to the mountains. Banff National Park is ninety minutes west; the ski fields of Lake Louise and Sunshine Village are similarly close. The city is younger and more spread out than most Canadian cities of its size, and the pace is unhurried.

@@ -1,0 +1,5 @@
+northamerica/unitedstates/washington/kitsap_county
+europe/spain/la_mancha/albacete
+asia/malaysia/ipoh
+europe/unitedkingdom/england/eastern_england/hitchin
+northamerica/unitedstates/oklahoma/fairfax

@@ -8,6 +8,7 @@ longitude: 120.6208
 score: 0.65
 title: Suzhou
 type: location
+loc_type: city
 ---
 
 An hour by high-speed train from Shanghai, Suzhou has been China's city of gardens for a thousand years. The classical gardens here — ten of them listed as UNESCO World Heritage Sites — are the reason most people come, and they are worth the journey. Packed into small plots behind whitewashed walls, each one is an exercise in illusion: miniature hills, reflecting pools, and moon gates that make a quarter-acre feel like a landscape.

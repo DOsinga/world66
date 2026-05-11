@@ -6,6 +6,7 @@ longitude: 9.598
 score: 0.55
 title: Savognin
 type: location
+loc_type: city
 ---
 
 Savognin is a quiet village in the Surses valley of Graubünden, surrounded by mountains and largely overlooked by the international tourist crowd heading for St. Moritz an hour to the south. That is part of its appeal. The ski area is mid-sized — about 80 kilometres of runs, mostly red and blue — and family-friendly, with none of the glitz or the prices of the Engadin resorts.

@@ -16,6 +16,7 @@ quick_facts:
   Lake Baikal: "20% of the world's fresh water"
   Trans-Siberian Railway: "9,289 km — world's longest"
 score: 0.25
+loc_type: country
 ---
 
 Russia is the largest country on earth, stretching from the Baltic Sea to the Pacific Ocean across eleven time zones. It is a land of extremes -- vast Siberian wilderness, imperial cities of staggering grandeur, and a cultural heritage that produced Tolstoy, Tchaikovsky, and Tarkovsky. For travelers willing to navigate the bureaucracy, the rewards are immense.

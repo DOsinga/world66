@@ -6,6 +6,7 @@ longitude: -85.6602
 title: Panama City
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Panama City is the county seat of Bay County in Florida's Panhandle, sitting on the northern shore of St. Andrews Bay. Most visitors blow straight past it on their way to the beaches, which is a shame — the city has a modest downtown, a working waterfront, and a quieter character than its famous neighbour six miles to the south.

@@ -1,0 +1,5 @@
+europe/hungary/szentendre
+europe/unitedkingdom/england/lakedistrict/ravenglass
+europe/ireland/ennis
+northamerica/mexico/mexicocity
+europe/unitedkingdom/scotland/standrews

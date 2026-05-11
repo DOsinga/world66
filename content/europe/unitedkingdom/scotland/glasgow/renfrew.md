@@ -10,6 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Clyde_Link_Ferry_at_Renfre
 image_license: CC BY-SA 2.0
 image_attribution: M J Richardson
 score: 0.31
+loc_type: city
 ---
 
 Renfrew is a town of about 20,000 on the south bank of the River Clyde, sitting immediately west of Glasgow at the point where the White Cart Water meets the river. It was once a significant royal burgh and one of Scotland's oldest towns — Robert the Bruce held a parliament here — but centuries of industrial change have left it primarily a residential commuter town, its historic importance easy to miss.

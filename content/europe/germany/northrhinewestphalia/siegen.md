@@ -10,6 +10,7 @@ longitude: 8.0256
 score: 0.37
 title: Siegen
 type: location
+loc_type: city
 ---
 
 Siegen's main claim to fame is a big one: Peter Paul Rubens was born here in 1577. The city has leaned into that connection, and the Siegerlandmuseum in the Oberes Schloss (Upper Castle) holds a notable collection of Rubens paintings alongside exhibits on the region's iron-mining heritage. The hilltop castle itself, with its views over the wooded Siegerland hills, is worth the walk up.

@@ -6,6 +6,7 @@ longitude: 2.010049
 score: 0.47
 title: Terrassa
 type: location
+loc_type: city
 ---
 
 Terrassa is an industrial city in the Vallès Occidental, half an hour north of [Barcelona](/europe/spain/catalonia/barcelona) by train. Most visitors come for one reason: the Esglésies de Sant Pere, a group of three pre-Romanesque and Romanesque churches that form one of the most important early medieval ensembles in Catalonia. The churches date from the 5th to the 12th century and contain remarkable wall paintings and mosaics.

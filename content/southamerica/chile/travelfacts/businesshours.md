@@ -4,6 +4,7 @@ done:
 title: Business Hours
 type: location
 score: 0.22
+loc_type: feature
 ---
 
 Chile runs on its own clock, and understanding local business hours will save you frustration. The midday break is real — many offices and smaller shops close for lunch, and you should plan accordingly.

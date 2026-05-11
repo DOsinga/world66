@@ -6,6 +6,7 @@ longitude: 6.234636
 title: Digne-les-Bains
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Digne-les-Bains is the quiet capital of the Alpes-de-Haute-Provence, tucked into a valley well north of the coast. It is a thermal town first and foremost — people have been coming here for the hot springs since Roman times — but it also serves as a gateway to some of the most unspoiled mountain country in southern France. In August, the Corso de la Lavande takes over the streets with lavender-scented floats and processions, celebrating the crop that turns the surrounding hills purple each summer.

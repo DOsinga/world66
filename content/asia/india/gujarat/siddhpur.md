@@ -6,6 +6,7 @@ longitude: 72.368185
 title: Siddhpur
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Not popular with tourists, this quiet little town was once a capital of Gujarat. Its past grandeur is visible in the **Rudra Mahalaya**, now in ruins but once said to have been a seven-storey structure of stone and wood. The monument is not officially open, but you can usually walk inside with the guard's informal permission.

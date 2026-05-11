@@ -6,6 +6,7 @@ longitude: -2.026041
 title: Saint Malo
 type: location
 score: 0.67
+loc_type: city
 ---
 
 Saint Malo is a charming little town on the coast of Brittany. It was a major nest of pirates for centuries and the thick city walls date from that period. The pirates of Saint Malo would be seen on the coasts of Morocco, Brazil and Iceland.

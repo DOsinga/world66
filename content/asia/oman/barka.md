@@ -6,6 +6,7 @@ longitude: 57.88206
 title: Barka
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Barka is a small coastal town on the Batinah plain, about 80km west of Muscat and easily done as a day trip. The fort is well-preserved and sits right on the waterfront, which makes it more photogenic than many of Oman's inland fortifications. The sea is close enough that you can walk between the fort and the shore in a few minutes.

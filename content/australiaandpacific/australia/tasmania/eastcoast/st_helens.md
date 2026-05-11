@@ -5,6 +5,7 @@ latitude: -41.3231
 longitude: 148.2461
 done:
   location_cleanup: 2026-04-10
+loc_type: city
 ---
 
 St Helens is the largest town on Tasmania's east coast, sitting at the head of Georges Bay where the Blue Derby mountain bike trails end and the Bay of Fires begins. It functions as the practical hub for the whole region — fuel, food, accommodation — and makes a good base whether you're coming off the trails or heading north along the coast.

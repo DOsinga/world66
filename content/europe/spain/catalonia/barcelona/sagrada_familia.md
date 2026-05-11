@@ -1,28 +1,30 @@
 ---
-address: Carrer de Mallorca 401, Barcelona
-admission: €26 basic; tower visits extra
-latitude: 41.403629
-longitude: 2.174302
-opening_hours: Daily 9am–8pm (Oct–Mar closes 6pm); closed 25 Dec, 1 Jan
-snippet: Gaudí's unfinished cathedral, the greatest building project in the world
-story: >
-  Gaudí spent the last 16 years of his life living on site at the Sagrada
-  Família, sleeping in a small room in the crypt. In June 1926 he was struck
-  by a tram on his daily walk to vespers. He was so poorly dressed that
-  passersby initially assumed he was a beggar; only later was he recognised
-  as the most famous architect in Spain. He died three days later and was
-  buried in the crypt of his own unfinished cathedral.
-tags:
-- things_to_do
-- sight
-- architecture
 title: Sagrada Família
 type: poi
+tags:
+  - things_to_do
+  - sight
+  - architecture
+address: Carrer de Mallorca 401, Barcelona
+admission: €26 basic; tower visits extra
+opening_hours: Daily 9am–8pm (Oct–Mar closes 6pm); closed 25 Dec, 1 Jan
+latitude: 41.4036
+longitude: 2.1744
+snippet: Gaudí's unfinished cathedral — the defining building of Barcelona
+story: >
+  On 7 June 1926, Antoni Gaudí was crossing the Gran Via on his daily walk to
+  confession when he was struck by a tram. His clothes were so worn and shabby
+  that passers-by took him for a beggar and left him lying in the road. By the
+  time the chaplain of the Sagrada Família recognised him the following day,
+  his condition had deteriorated too far to recover. Gaudí died three days
+  later. He is buried in the crypt beneath the building he had devoted the last
+  forty years of his life to completing. On 20 February 2026, the basilica
+  reached its final height of 172.5 metres — one hundred years after his death.
 url: www.sagradafamilia.org
 ---
 
-The Sagrada Família is the defining image of Barcelona and one of the most astonishing works of architecture in the world — a Gothic cathedral built with Art Nouveau methods, started in 1882 and still rising. Gaudí took over the project in 1883 and worked on it until his death in 1926; at the current rate of progress, the cathedral is expected to be completed around 2033.
+Construction of the Sagrada Família began in 1882 under a different architect. Gaudí took over in 1883, completely changed the design, and spent the rest of his life on it — at the end, living on site and working exclusively on this project. He expected it to take several generations. He was right: when he died in 1926, less than a quarter was complete. The building was finally finished in February 2026.
 
-The exterior has two distinct facades: the Nativity façade, covered in organic sculptural detail that Gaudí designed himself, and the severe Passion façade, designed by Josep Maria Subirachs in a deliberately angular style that divides opinion. The interior, completed to Gaudí's specifications in recent decades, is extraordinary — a forest of branching columns rising to a canopy of geometric skylights, the light filtered through stained glass of warm amber and cool blue.
+The exterior is unlike any church ever built. The Nativity facade on the east — the only facade completed under Gaudí's direct supervision — is encrusted with figures from the natural world: turtles at the base of the columns, a cypress tree swarming with doves at the peak, the birth of Christ worked into every surface. The Passion facade on the west, designed by Josep Maria Subirachs, is starker, more angular, and deliberately shocking. The interior, completed over recent decades, is extraordinary: a forest of branching stone columns supporting a canopy of starred vaults, flooded with light from the stained glass windows.
 
-Book tickets and timed entry online well in advance, especially in summer. The tower visits (an additional charge) offer views across the roofscape to the sea, worth the extra if heights don't trouble you.
+Book tickets well in advance — this is the most-visited building in Spain. A timed entry with the audio guide is the standard option; add the tower lifts for the best views.

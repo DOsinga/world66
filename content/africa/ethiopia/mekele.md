@@ -7,6 +7,7 @@ longitude: 39.4769
 score: 0.31
 title: Mekele
 type: location
+loc_type: city
 ---
 
 Mekele is the capital of the Tigray region in northern Ethiopia, sitting at about 2,000 metres above sea level on a plateau east of the Ethiopian Highlands. It's a city shaped by imperial history — Emperor Yohannes IV made it his capital in the 1870s — and more recently by conflict; the city was at the centre of the Tigray war that devastated the region from 2020 to 2022.

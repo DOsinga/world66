@@ -1,0 +1,5 @@
+africa/mali/sikasso
+asia/indonesia/banten/pandeglang
+asia/bhutan/lhuntsi
+europe/italy/emiliaromagna/rimini
+northamerica/unitedstates/maine/portlandmaine

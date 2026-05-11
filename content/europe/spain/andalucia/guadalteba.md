@@ -6,6 +6,7 @@ longitude: -4.957831
 title: Guadalteba
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Guadalteba is an area of outstanding natural beauty tucked into the hills of Málaga province, where a chain of reservoirs lies surrounded by mountains and neat rows of olive trees. The lakes make for superb picnic spots, and several restaurants on the hilltops offer views that stretch across the whole comarca.

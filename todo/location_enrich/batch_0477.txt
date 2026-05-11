@@ -1,0 +1,5 @@
+africa/mozambique/maputo
+europe/romania/constanta
+asia/malaysia/perak
+northamerica/canada/britishcolumbia/kamploops
+asia/china/shanhaiguan

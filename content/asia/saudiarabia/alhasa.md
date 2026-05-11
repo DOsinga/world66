@@ -6,6 +6,7 @@ longitude: 49.5833
 title: Al-Ahsa
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Al-Ahsa (also Al-Hasa) in the Eastern Province is the world's largest oasis — a sprawling complex of date palm gardens, ancient forts, and historic towns fed by natural springs in the middle of the desert. It was inscribed as a UNESCO World Heritage Site in 2018, a recognition of both its agricultural landscape and its 7,000 years of continuous human settlement.

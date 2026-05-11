@@ -19,6 +19,7 @@ quick_facts:
 score: 0.58
 title: Andorra
 type: location
+loc_type: country
 ---
 
 Andorra is a tiny ministate between [France](/europe/france) and [Spain](/europe/spain). High up in the Pyrenee mountains it is a unique place to visit. In winter time Andorra has some fine ski slopes to explore. In summer it is an enjoyable stop when going from Spain to France. The capital, [Andorra la vella](/europe/andorra/andorralavella) is a nice town, with a few good museums and a relaxed atmosphere.

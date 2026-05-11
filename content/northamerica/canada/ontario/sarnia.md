@@ -4,6 +4,7 @@ longitude: -82.403533
 score: 0.34
 title: Sarnia
 type: location
+loc_type: city
 ---
 
 Sarnia sits at the southern tip of Lake Huron where it narrows into the St. Clair River, connected to Port Huron, Michigan by the Blue Water Bridge. The city is probably best known for Chemical Valley, the dense cluster of petrochemical refineries south of town that lights up dramatically at night. But Sarnia also has a surprisingly appealing waterfront and some of the best freshwater beaches in Ontario.

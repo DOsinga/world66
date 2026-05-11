@@ -1,0 +1,5 @@
+asia/japan/shikoku/hiwasa_tokushima
+africa/nigeria/kano
+northamerica/unitedstates/arizona/lakehavasucity
+europe/portugal/algarve/albufeira
+europe/france/nord/lille

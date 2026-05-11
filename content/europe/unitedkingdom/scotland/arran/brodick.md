@@ -6,6 +6,7 @@ longitude: -5.150686
 title: Brodick
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Brodick is [Arran](/europe/unitedkingdom/scotland/arran)'s main town and the point of arrival for most visitors, built around a broad sandy bay where the CalMac ferry from Ardrossan docks after its 55-minute crossing. The town stretches along the shore with the dramatic ridge of Goat Fell rising steeply behind it, and on a clear day the combination of mountain, bay, and sea is genuinely impressive.

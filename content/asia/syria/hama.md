@@ -6,6 +6,7 @@ longitude: 36.749628
 title: Hama
 type: location
 score: 0.26
+loc_type: city
 ---
 
 Hama is an ancient city on the Orontes River in central Syria, roughly 180 kilometres north of [Damascus](/asia/syria/damascus). It has been inhabited for at least 4,000 years, though much of the old city was destroyed in the devastating 1982 government crackdown on the Muslim Brotherhood, in which an estimated 20,000 people were killed.

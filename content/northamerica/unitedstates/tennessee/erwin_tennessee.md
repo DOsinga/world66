@@ -6,6 +6,7 @@ longitude: -82.4184
 title: Erwin
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Nestled in the Appalachian Mountains of northeastern Tennessee, Erwin sits in the Nolichucky River valley — a sun-drenched stretch of green that locals call "The Valley Beautiful." With a population under 6,000, it is small by any measure, but the surrounding mountains pack in more outdoor recreation than towns ten times its size.

@@ -11,6 +11,7 @@ quick_facts:
 score: 0.33
 title: Iran
 type: location
+loc_type: country
 ---
 
 Known as **Persia** until 1935, **Iran** became an Islamic republic in 1979. This country has nearly 10% of the world's known oil and the second biggest gas reserves.

@@ -8,6 +8,7 @@ longitude: 1.419746
 score: 0.71
 title: Ibiza
 type: location
+loc_type: region
 ---
 
 Ibiza, an island which is one in a thousand! It is undoubtedly popular within the international

@@ -8,6 +8,7 @@ longitude: 20.8628
 score: 0.52
 title: Nida
 type: location
+loc_type: city
 ---
 
 Nida is the kind of place that makes you wonder why it is not more famous. This tiny fishing village sits near the southern tip of the Curonian Spit, a UNESCO-listed sand peninsula that stretches 98 kilometers between the Lithuanian mainland and Kaliningrad. The spit itself is extraordinary, a narrow ribbon of enormous sand dunes, pine forest, and lagoon that feels like it belongs in the Sahara rather than the Baltic.

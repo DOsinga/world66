@@ -9,6 +9,7 @@ latitude: 58.9809
 longitude: -2.9605
 title: Kirkwall
 type: location
+loc_type: city
 ---
 
 Kirkwall is the capital of [Orkney](/europe/unitedkingdom/scotland/orkneys) and home to about ten thousand people — more than a third of the archipelago's entire population. It sits on a narrow neck of land on Mainland, the largest island, with a natural harbour that has made it a trading post since Norse times.

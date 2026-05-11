@@ -6,6 +6,7 @@ longitude: 34.835808
 title: Beira
 type: location
 score: 0.34
+loc_type: city
 ---
 
 Beira is Mozambique’s second city, sprawling across a flat peninsula where the Pungwe River meets the Indian Ocean. It is above all a port — and has been since the Portuguese founded it in 1891 as the main outlet for landlocked Central Africa. The Beira Corridor, a road and rail link running west to [Zimbabwe](/africa/zimbabwe), still carries freight from [Zimbabwe](/africa/zimbabwe), [Malawi](/africa/malawi), and [Zambia](/africa/zambia) to the sea.

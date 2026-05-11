@@ -6,6 +6,7 @@ longitude: -49.39754
 title: Lauro Müller
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Lauro Müller is a small city in the coal-mining heartland of southern Santa Catarina. It sits at the foot of the Serra Geral escarpment, which makes it the gateway to one of Brazil's most dramatic mountain roads.

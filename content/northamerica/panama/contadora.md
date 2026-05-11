@@ -5,6 +5,7 @@ latitude: 8.6275
 longitude: -79.0369
 title: Contadora
 type: location
+loc_type: city
 ---
 
 Contadora is the most developed island in the Perlas Archipelago, a scattered group of islands in the Gulf of Panama about 70 km from Panama City. Its name comes from the old pearl trade — this was where pearls from the archipelago were counted before export. Later the island became a retreat for the wealthy, and in 1979 it briefly served as refuge for the deposed Shah of Iran. Today it is a popular weekend escape from the capital and a growing draw for international visitors.

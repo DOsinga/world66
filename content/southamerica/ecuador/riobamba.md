@@ -6,6 +6,7 @@ longitude: -78.660742
 title: Riobamba
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Riobamba is a small town in the Andes. It is mainly popular with travelers because of its Indian markets. The town is filled every Saturday with woolen blankets pigs and produce. The market frequented by Amerindians from the neighboring villages sprawls through several town squares and streets.

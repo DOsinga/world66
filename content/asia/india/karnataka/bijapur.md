@@ -6,6 +6,7 @@ longitude: 75.71
 title: Bijapur
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Bijapur, now officially known as Vijayapura, is a historic city in northern Karnataka that was once the capital of the Adil Shahi sultanate. Between the 16th and 17th centuries the city accumulated some of the finest Islamic architecture in India, and what remains today is remarkable — a skyline of domes, minarets, and monumental gateways rising from the Deccan plain.

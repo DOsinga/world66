@@ -1,0 +1,5 @@
+asia/singapore/islands/pulauhantu
+europe/armenia/syunik
+europe/norway/lofotenislands/vaeroy
+asia/india/orissa/puri
+europe/netherlands/purmerend

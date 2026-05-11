@@ -6,6 +6,7 @@ longitude: -81.5775
 title: Matanzas
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Matanzas is the capital of Matanzas province, about 90 kilometers east of Havana and 30 minutes from [Varadero](/northamerica/thecaribbean/cuba/varadero). The city sits on a deep bay where three rivers meet and was once a prosperous sugar port; its 19th-century wealth is still visible in the Teatro Sauto, one of the finest small opera houses in the Americas.

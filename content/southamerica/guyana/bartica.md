@@ -6,6 +6,7 @@ longitude: -58.621426
 title: Bartica
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Bartica sits at the confluence of three great rivers — the Essequibo, the Mazaruni, and the Cuyuni — about 100km southwest of Georgetown. It is the main town of the interior and the traditional jumping-off point for the gold and diamond mining regions further west. As a result it has a rough, frontier quality: busy, noisy, and prosperous in a raw sort of way.

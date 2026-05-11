@@ -8,6 +8,7 @@ longitude: 74.314183
 score: 0.52
 title: Lahore
 type: location
+loc_type: city
 ---
 
 There is an old Punjabi saying that anyone who hasn't seen Lahore hasn't been born. The city is the historical and cultural capital of Pakistan — less frantic than Karachi, less bureaucratic than Islamabad, and by a distance the country's most atmospheric place to visit. It served as the capital of the Mughal Empire at its peak in the 16th and 17th centuries, and again as the capital of the Sikh Empire under Ranjit Singh in the early 19th century. The result is an unusually rich layering of monuments, from the fortress and gardens of the Mughals to the British-built Mall Road and the Minar-e-Pakistan.

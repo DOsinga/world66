@@ -12,6 +12,7 @@ longitude: -82.64
 score: 0.54
 title: St. Petersburg
 type: location
+loc_type: city
 ---
 
 St. Petersburg sits at the tip of the Pinellas Peninsula, wrapped on three sides by Tampa Bay and the Gulf of Mexico. It is warmer, sunnier, and more laid-back than its larger neighbor [Tampa](/northamerica/unitedstates/florida/tampabayarea/tampa) across the bay — and it has better beaches, a stronger arts scene, and a walkable downtown that Tampa has long envied.

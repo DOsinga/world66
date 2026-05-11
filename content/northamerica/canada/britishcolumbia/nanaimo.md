@@ -6,6 +6,7 @@ longitude: -123.9381
 title: Nanaimo
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Nanaimo is the second-largest city on Vancouver Island, set on the east coast looking across the Strait of Georgia to the mainland. It started as a coal-mining town and still has a slightly rough-around-the-edges feel compared to polished [Victoria](/northamerica/canada/britishcolumbia/victoria) to the south, but that is changing fast — the waterfront has been cleaned up, the old town has good restaurants and breweries, and the harbour is genuinely beautiful.

@@ -7,6 +7,7 @@ longitude: -98.4951
 score: 0.52
 title: San Antonio
 type: location
+loc_type: city
 ---
 
 San Antonio feels unlike any other American city. A remarkable blend of Native American, German, Mexican, Spanish, and Deep South cultures has created something singular. More than half the population is of Hispanic heritage, and the influence of Spain and Mexico is woven into everyday life, from the architecture to the food to the sound of the streets.

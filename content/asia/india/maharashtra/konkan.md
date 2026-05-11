@@ -11,6 +11,7 @@ longitude: 73.189508
 score: 0.45
 title: Konkan
 type: location
+loc_type: region
 ---
 
 Konkan is the coastal strip of Maharashtra between the Western Ghats and the Arabian Sea — a long, lush, largely undeveloped stretch of beach towns, fishing villages, and sea-forts that feels remote despite being only a few hours from Mumbai. The Konkan Railway, completed in the 1990s, opened the region to visitors without destroying its character; most of the coast still lacks the commercial infrastructure of Goa to the south.

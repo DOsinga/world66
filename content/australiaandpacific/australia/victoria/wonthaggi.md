@@ -6,6 +6,7 @@ longitude: 145.5913
 title: Wonthaggi
 type: location
 score: 0.38
+loc_type: city
 ---
 
 A former coal-mining town in South Gippsland, Wonthaggi is the main service centre for the Bass Coast region of [Victoria](/australiaandpacific/australia/victoria). It was founded in 1909 when black coal was discovered here, and the mining heritage still defines the town's character. The State Coal Mine, now a heritage site, offers underground tours that take you into the old workings with a guide who explains the harsh conditions the miners endured — it is one of the most interesting industrial heritage experiences in Victoria.

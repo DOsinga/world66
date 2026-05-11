@@ -8,6 +8,7 @@ longitude: -76.653466
 score: 0.47
 title: Hershey
 type: location
+loc_type: city
 ---
 
 Hershey is the town that chocolate built. Milton S. Hershey founded both the chocolate company and the town itself, and the scent of cocoa still drifts through the streets. Even the lampposts are shaped like Hershey Kisses.

@@ -8,6 +8,7 @@ longitude: 13.177792
 score: 0.27
 title: Tripoli
 type: location
+loc_type: city
 ---
 
 Tripoli is the capital of Libya and the seat of the internationally recognised Government of National Unity (GNU). It is a city of about 1.2 million people, built at the edge of the Sahara where it meets the Mediterranean. The old town retains genuine character despite the concrete sprawl of the oil-boom decades.

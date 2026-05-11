@@ -8,6 +8,7 @@ longitude: -38.5014
 score: 0.67
 title: Salvador
 type: location
+loc_type: city
 ---
 
 Salvador da Bahia — Salvador de Bahia de Todos os Santos, as the Portuguese formally christened it — is the oldest city in Brazil and, for many travellers, the most distinctive. Founded in 1549 as the first colonial capital, it was the point of arrival for nearly four million Africans brought to Brazil in chains, and its population today is overwhelmingly of African descent. The result is a city whose rhythms, food, music, and religion feel less like the rest of Brazil and more like a West African port that happens to face the Atlantic from the wrong side.

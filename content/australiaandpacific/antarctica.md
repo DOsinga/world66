@@ -10,6 +10,7 @@ quick_facts:
   Ice Sheet Thickness: Up to 4 km
   Coldest Recorded Temperature: "-89.2 C"
   Visiting Season: November to March
+loc_type: country
 ---
 
 Antarctica is the coldest, driest, windiest, and highest continent on earth. Almost the entire landmass lies buried under ice up to four kilometres thick. It has no permanent human population, no cities, no roads, and no government. What it has, in overwhelming abundance, is wildness.

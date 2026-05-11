@@ -6,6 +6,7 @@ longitude: 121.55486
 title: Lucban
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Lucban is a small town in Quezon Province, tucked into the foothills of Mount Banahaw on the island of Luzon. It is best known for the Pahiyas Festival, held every 15 May in honour of San Isidro Labrador, when houses along the main street are decorated with colourful rice wafers called kiping and displays of fruit, vegetables, and handicrafts. The festival draws visitors from across the Philippines and is one of the most visually spectacular fiestas in the country.

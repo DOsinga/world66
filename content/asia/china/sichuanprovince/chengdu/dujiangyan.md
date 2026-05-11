@@ -6,6 +6,7 @@ longitude: 103.614272
 title: Dujiangyan
 type: location
 score: 0.6
+loc_type: city
 ---
 
 Dujiangyan is a city northwest of [Chengdu](/asia/china/sichuanprovince/chengdu), easily reached by high-speed rail in about 30 minutes. It is best known for the ancient Dujiangyan Irrigation System, a UNESCO World Heritage Site built in 256 BC by the governor Li Bing. The system still functions today, channelling the Min River to irrigate the Chengdu Plain and making it one of the most productive agricultural regions in China.

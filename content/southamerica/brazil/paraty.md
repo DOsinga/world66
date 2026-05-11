@@ -6,6 +6,7 @@ longitude: -44.7154
 title: Paraty
 type: location
 score: 0.65
+loc_type: city
 ---
 
 Paraty is one of Brazil's finest colonial towns, a UNESCO World Heritage Site sitting on a dramatic stretch of coastline between Rio de Janeiro and São Paulo. Its historic center — entirely closed to motor traffic — preserves an extraordinary collection of 17th and 18th century Portuguese architecture, its cobblestone streets flooding at high tide as they always have, letting the sea wash gently through the lower alleys before retreating again.

@@ -10,6 +10,7 @@ image: grandjunction.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand-junction-skyline.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Eleaf
+loc_type: city
 ---
 
 Grand Junction is the largest city on Colorado's Western Slope, sitting in a wide valley where the Colorado and Gunnison rivers meet. It is not a tourist town in itself, but it is the gateway to some of the most dramatic landscape in the state — and an increasingly good wine region that surprises most visitors who think of Colorado as beer country only.

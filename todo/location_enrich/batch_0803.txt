@@ -1,0 +1,5 @@
+europe/netherlands/blaricum
+europe/unitedkingdom/england/lancashire/burnley
+northamerica/unitedstates/oklahoma/bartlesville
+northamerica/honduras/tegucigalpa
+europe/spain/northernspain/leon

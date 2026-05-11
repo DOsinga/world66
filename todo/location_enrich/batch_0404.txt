@@ -1,0 +1,5 @@
+northamerica/unitedstates/newhampshire/hanover
+southamerica/ecuador/portoviejo
+northamerica/thecaribbean/barbados/christchurch
+asia/china/yunnanprovince/lijiang
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate

@@ -6,6 +6,7 @@ longitude: 10.860269
 title: Steingaden
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Steingaden is a small village at the point where the Romantic Road crosses the Deutsche Alpenstrasse. The village itself is quiet, but two churches make it an essential stop.

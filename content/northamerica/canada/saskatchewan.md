@@ -6,6 +6,7 @@ longitude: -106.4509
 score: 0.4
 title: Saskatchewan
 type: location
+loc_type: region
 ---
 
 *Land of Living Skies*

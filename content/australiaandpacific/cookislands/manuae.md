@@ -6,6 +6,7 @@ longitude: -158.962403
 title: Manuae
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Manuae is an uninhabited atoll in the southern [Cook Islands](/australiaandpacific/cookislands), lying about 100 km southeast of [Aitutaki](/australiaandpacific/cookislands/aitutaki). It consists of two small islets — Te Au O Tu to the north and Manuae to the south — enclosed by a coral reef that forms a shallow turquoise lagoon. The total land area is barely 6 square kilometres, but the lagoon is considerably larger and stunningly beautiful.

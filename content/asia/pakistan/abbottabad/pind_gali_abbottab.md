@@ -4,6 +4,7 @@ type: location
 latitude: 34.1684
 longitude: 73.2344
 score: 0.28
+loc_type: city
 ---
 
 Pind Gali is a small settlement near [Abbottabad](/asia/pakistan/abbottabad) in the Hazara division of Khyber Pakhtunkhwa. The area sits in the foothills leading up toward the higher ranges of the Karakoram Highway region, at an elevation that keeps temperatures comfortable even in summer.

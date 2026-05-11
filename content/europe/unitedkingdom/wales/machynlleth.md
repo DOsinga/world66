@@ -6,6 +6,7 @@ longitude: -3.8518
 title: Machynlleth
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Machynlleth (pronounced roughly mak-UN-khleth) is a small market town in mid-Wales, sitting at the head of the Dyfi valley on the edge of Snowdonia National Park. It punches above its weight for a town of its size, with a clock tower at its centre, a Wednesday street market, and a genuinely interesting history: Owain Glyndŵr, the last native Prince of Wales, held his parliament here in 1404.

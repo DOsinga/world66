@@ -6,6 +6,7 @@ longitude: -46.255833
 score: 0.48
 title: Guarujá
 type: location
+loc_type: city
 ---
 
 Guarujá is a beach city on the São Paulo coast, the closest major beach destination to [São Paulo](/southamerica/brazil/saopaulo) — about 85 kilometres southeast via the Anchieta highway. Paulistanos flood here on weekends and holidays, which tells you both that the beaches are good and that the crowds can be intense.

@@ -8,6 +8,7 @@ longitude: -114.0364
 score: 0.42
 title: Guerrero Negro
 type: location
+loc_type: city
 ---
 
 Guerrero Negro is a small, windswept town on the Pacific coast of Baja California Sur, right at the border between the two Baja states. It is not much to look at — a flat grid of dusty streets centered around the world's largest salt-evaporation operation, run by Exportadora de Sal — but between January and April, it becomes one of the best places on Earth to see gray whales. The whales migrate from Alaska to the warm, shallow lagoons here to breed and nurse their calves, and Scammon's Lagoon (Laguna Ojo de Liebre) just south of town is the main event.

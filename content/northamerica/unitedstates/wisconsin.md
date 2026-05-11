@@ -6,6 +6,7 @@ longitude: -89.688464
 score: 0.41
 title: Wisconsin
 type: location
+loc_type: region
 ---
 
 Wisconsin is the dairy state and the Great Lakes state — a place of cheese, beer, lakes, forests, and a certain stubborn Upper Midwestern cheerfulness. It sits between Lake Michigan and the Mississippi River, with Lake Superior bordering the rugged north. Glaciers shaped most of the landscape, but missed a strip of the southwest: the **Driftless Area**, with its limestone bluffs, deep coulees, and trout streams, is one of the more beautiful and distinctive pockets of the Midwest.

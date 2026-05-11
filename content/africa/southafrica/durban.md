@@ -9,6 +9,7 @@ longitude: 31.0218
 score: 0.56
 title: Durban
 type: location
+loc_type: city
 ---
 
 Durban is South Africa's third-largest city and its warmest, sprawling along the Indian Ocean in the subtropical heart of KwaZulu-Natal. It's a beach town and a busy industrial port at the same time, and a place where Zulu, Indian, English and Afrikaans cultures live on top of one another in a way you don't quite see anywhere else in the country.

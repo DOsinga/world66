@@ -4,6 +4,7 @@ type: location
 latitude: 3.1166
 longitude: 35.6023
 score: 0.28
+loc_type: city
 ---
 
 Lodwar is the main town in Turkana County and the gateway to Lake Turkana from the west. It's a small, poor, dusty place — temperatures regularly exceed 40°C — but it's the essential overnight stop if you're heading to the lake. Expect persistent attention from vendors and children; it comes with the territory.

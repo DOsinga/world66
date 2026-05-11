@@ -6,6 +6,7 @@ longitude: -114.3774
 title: Yellowknife
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Yellowknife is the capital and only city of Canada's Northwest Territories, sitting on the north shore of Great Slave Lake just 400 kilometres south of the Arctic Circle. It is one of the best places on earth to see the northern lights — the aurora borealis is visible here on an average of 240 nights per year, and a small industry of viewing tours runs from late August through April.

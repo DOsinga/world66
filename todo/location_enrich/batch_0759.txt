@@ -1,0 +1,5 @@
+asia/indonesia/irianjaya/sorong
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/newtonabbot
+northamerica/unitedstates/nevada/bouldercity
+northamerica/unitedstates/pennsylvania/scranton
+africa/tanzania/swahilicoast

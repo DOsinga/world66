@@ -1,0 +1,5 @@
+africa/ghana/kumasi
+africa/sierraleone/freetown_peninsula
+northamerica/thecaribbean/puertorico/vieques
+europe/unitedkingdom/england/south_east/canterbury
+northamerica/unitedstates/newjersey/princeton

@@ -6,6 +6,7 @@ longitude: -62.9833
 title: St Eustatius
 type: location
 score: 0.45
+loc_type: city
 ---
 
 St Eustatius — known locally as Statia — is a small Dutch Caribbean island of about 21 square kilometres, lying between St Kitts and Saba in the northern Leeward Islands. It is one of the least-visited islands in the Caribbean, which is much of its appeal.

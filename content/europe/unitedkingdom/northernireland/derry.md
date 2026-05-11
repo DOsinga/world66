@@ -6,6 +6,7 @@ longitude: -7.321306
 title: Derry
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Derry — or Londonderry, depending on who you ask — is Northern Ireland's second city and one of the most compelling places on the island. The city is defined by its 17th-century walls, the best-preserved fortifications in Ireland or Britain, which you can walk in their entirety in about an hour. From the top you look down into the Bogside on one side and the old city centre on the other, and the layered history of the place is impossible to miss.

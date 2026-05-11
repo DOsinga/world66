@@ -6,6 +6,7 @@ longitude: 18.695369
 score: 0.48
 title: Osijek
 type: location
+loc_type: city
 ---
 
 Osijek is the largest city in Slavonia, eastern Croatia's agricultural heartland. It sits on the Drava river and feels quite different from the coastal cities that draw most visitors to Croatia — flatter, quieter, more Central European in character, with wide boulevards and Habsburg-era architecture.

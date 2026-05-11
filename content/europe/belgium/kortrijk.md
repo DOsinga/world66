@@ -8,6 +8,7 @@ longitude: 3.266
 score: 0.47
 title: Kortrijk
 type: location
+loc_type: city
 ---
 
 Kortrijk — known as Courtrai in French — is a compact Flemish city on the Leie River, about 40 kilometres southwest of [Ghent](/europe/belgium/ghent) and close to the French border. It punches above its weight: for a city of around 80,000 people, its historic centre is remarkably well-preserved, with medieval towers, a beautiful béguinage, and a fine Gothic church still anchoring daily life.

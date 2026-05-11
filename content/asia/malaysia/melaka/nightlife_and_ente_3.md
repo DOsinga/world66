@@ -4,6 +4,7 @@ done:
 title: Nightlife and Entertainment
 type: location
 score: 0.5
+loc_type: feature
 ---
 
 The drinking scene in [Melaka](/asia/malaysia/melaka) is modest but pleasant, and it suits the city's pace. Most of the action is along the river and in the streets around Jonker Walk, where old shophouses have been converted into bars and cafes.

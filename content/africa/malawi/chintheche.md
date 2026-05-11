@@ -6,6 +6,7 @@ longitude: 34.169301
 title: Chintheche
 type: location
 score: 0.26
+loc_type: city
 ---
 
 Chintheche is situated approximately half way up Lake Malawi, 40 km south of Nkhata Bay.

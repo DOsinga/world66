@@ -6,6 +6,7 @@ longitude: -107.2434
 title: Magdalena
 type: location
 score: 0.31
+loc_type: city
 ---
 
 A high desert semi-ghost town and genuine wild west icon, Magdalena sits in the shadow of the Magdalena Mountains about 27 miles west of Socorro. For decades it was the end of the "hoof highway" from Arizona — a busy railroad shipping point where hundreds of thousands of cattle were sold and loaded onto trains.

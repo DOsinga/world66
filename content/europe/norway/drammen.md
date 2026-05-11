@@ -6,6 +6,7 @@ longitude: 10.2045
 score: 0.44
 title: Drammen
 type: location
+loc_type: city
 ---
 
 Drammen sits where the Drammenselva river empties into the Drammensfjord, about forty minutes southwest of Oslo by train. For decades it had a reputation as an industrial town best driven past, but a sustained effort to clean up the riverfront and invest in public spaces has turned it into a surprisingly pleasant place. The river promenade, the pedestrian bridge Ypsilon, and the revitalised Papirbredden waterfront area are genuinely attractive.

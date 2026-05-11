@@ -10,6 +10,7 @@ longitude: -72.6509
 title: Middletown
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Middletown sits on a broad bend of the Connecticut River, roughly in the geographic center of the state. It is a university town — Wesleyan University has been here since 1831 — and that shapes almost everything about it: the bookshops, the cafes, the arts scene, the general sense that people here have opinions about things.

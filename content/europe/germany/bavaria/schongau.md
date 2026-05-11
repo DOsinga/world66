@@ -6,6 +6,7 @@ longitude: 10.897213
 score: 0.47
 title: Schongau
 type: location
+loc_type: city
 ---
 
 Schongau is a small Bavarian town on the Lech river, about 60 kilometres southwest of Munich, with one of the best-preserved medieval town walls in southern Germany. The old town sits on a hill above the river bend, ringed by towers and a largely intact circuit of walls that you can walk around in under an hour. It's not a major tourist destination — most visitors to the area head straight to Neuschwanstein — but it rewards a quiet morning or afternoon.

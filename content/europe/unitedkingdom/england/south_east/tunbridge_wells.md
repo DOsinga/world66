@@ -6,6 +6,7 @@ longitude: 0.267345
 title: Tunbridge Wells
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Royal Tunbridge Wells is a Georgian spa town in the Weald of Kent, surrounded by some of the most scenic countryside in south-east England. The town earned its "Royal" prefix from Edward VII and has been associated with genteel respectability ever since, famously lending its name to the letter-writing "Disgusted of Tunbridge Wells."

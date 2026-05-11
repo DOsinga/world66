@@ -6,6 +6,7 @@ longitude: -8.0789
 title: Ouirgane
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Ouirgane is a small valley town nestled in the High Atlas mountains, about 60 kilometres south of [Marrakech](/africa/morocco/marrakech). It makes a natural stopping point before or after driving the Tizi n'Test pass — a spectacular and terrifying sequence of hairpin bends over the mountains to [Taroudant](/africa/morocco/taroudant) and the Souss Valley.

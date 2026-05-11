@@ -6,6 +6,7 @@ longitude: 33.749879
 title: Poltava
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Poltava sits halfway between [Kharkiv](/europe/ukraine/kharkiv) and [Kyiv](/europe/ukraine/kyiv) in central Ukraine. The city is best known as the site of the 1709 Battle of Poltava, where Peter the Great's forces defeated the Swedish army of Charles XII and their Cossack allies under Hetman Mazepa — a turning point that established Russia as a European power and sealed Ukraine's fate for centuries.

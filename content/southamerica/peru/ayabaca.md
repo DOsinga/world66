@@ -8,6 +8,7 @@ longitude: -79.773997
 score: 0.42
 title: Ayabaca
 type: location
+loc_type: city
 ---
 
 Travel Guide

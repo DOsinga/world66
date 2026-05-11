@@ -6,6 +6,7 @@ longitude: -88.112482
 done:
   location_cleanup: 2026-04-05
 score: 0.43
+loc_type: city
 ---
 
 Dauphin Island is a quiet barrier island in the Gulf of Mexico, just off the coast south of [Mobile](/northamerica/unitedstates/alabama/mobile). It is a low-key alternative to the busier beaches at Gulf Shores, and one of the best birding destinations in the country.

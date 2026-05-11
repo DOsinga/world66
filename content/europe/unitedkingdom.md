@@ -15,6 +15,7 @@ quick_facts:
   Pubs: "~40,000 across the country"
   Countries Within a Country: "4 (England, Scotland, Wales, N. Ireland)"
 score: 0.42
+loc_type: country
 ---
 
 The United Kingdom brings together four countries — [England](/europe/unitedkingdom/england), [Scotland](/europe/unitedkingdom/scotland), [Wales](/europe/unitedkingdom/wales) and [Northern Ireland](/europe/unitedkingdom/northernireland) — each with a distinct identity, language tradition, and sense of place. A Welshman is not English, and a Scot will let you know the difference. That said, the countries share infrastructure, currency, and an enormous amount of history, and crossing between them rarely feels like crossing a border at all.

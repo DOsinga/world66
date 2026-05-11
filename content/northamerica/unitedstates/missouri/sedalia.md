@@ -6,6 +6,7 @@ longitude: -93.2296
 title: Sedalia
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Sedalia is a small city in west-central Missouri, roughly halfway between Kansas City and St. Louis on US-50. It is best known as the home of the Missouri State Fair, held every August, which draws hundreds of thousands of visitors for livestock shows, carnival rides, and concerts.

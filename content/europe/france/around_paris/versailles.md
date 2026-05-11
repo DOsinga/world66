@@ -10,6 +10,7 @@ image: versailles.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Myrabella
+loc_type: city
 ---
 
 Versailles is one of those places that earns its reputation. The Château de Versailles — built by Louis XIV, the Sun King, to project the absolute power of the French monarchy — is simply enormous, and walking through it you feel the full weight of that ambition. The Hall of Mirrors alone, 73 metres of gilded grandeur, stops most visitors in their tracks.

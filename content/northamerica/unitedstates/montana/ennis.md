@@ -6,6 +6,7 @@ longitude: -111.729
 title: Ennis
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Ennis sits in the Madison Valley of southwestern Montana, a broad stretch of ranch land between the Madison and Gravelly mountain ranges. The town exists, in large part, because of the Madison River, which runs right past it and is widely considered one of the best trout streams in North America. Fly-fishing is the main reason people come here, and the outfitters and guides along Main Street make that obvious.

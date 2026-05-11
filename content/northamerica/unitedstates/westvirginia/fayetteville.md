@@ -5,6 +5,7 @@ latitude: 38.0562
 longitude: -81.1043
 title: Fayetteville
 type: location
+loc_type: city
 ---
 
 Fayetteville is a small town in the New River Gorge region of West Virginia, sitting at the rim of one of the most spectacular gorges in the eastern United States. The New River Gorge National Park, designated a national park in 2020, draws rock climbers, whitewater rafters, and hikers to what is effectively Fayetteville's backyard. The town itself is small and unpretentious, but it has developed a real infrastructure for outdoor recreation over the decades.

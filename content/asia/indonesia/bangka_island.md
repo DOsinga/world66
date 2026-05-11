@@ -6,6 +6,7 @@ longitude: 106.028152
 title: Bangka Island
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Bangka is a large island off the east coast of Sumatra, separated from the mainland by the narrow Bangka Strait. Once one of the world's major tin-producing regions, the island has shifted toward tourism, with clean beaches and a relaxed pace that draws visitors from Jakarta and Singapore.

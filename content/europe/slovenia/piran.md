@@ -8,6 +8,7 @@ longitude: 13.5684
 score: 0.68
 title: Piran
 type: location
+loc_type: city
 ---
 
 Piran is the most beautiful town on the Slovenian coast — a compact Venetian peninsula jutting into the Adriatic with medieval streets so narrow two people can barely pass. It looks, feels, and smells like Italy, but remains gloriously Slovenian.

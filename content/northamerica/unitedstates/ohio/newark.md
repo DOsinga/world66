@@ -6,6 +6,7 @@ longitude: -82.4013
 done:
   location_cleanup: '2026-04-09'
 score: 0.28
+loc_type: city
 ---
 
 Newark is the county seat of Licking County, about 40 miles east of Columbus in central Ohio. It sits close enough to the capital to draw on its amenities — concerts, sports, restaurants — while retaining a small-city character of its own.

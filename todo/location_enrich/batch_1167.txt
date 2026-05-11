@@ -1,0 +1,5 @@
+europe/switzerland/yverdon
+northamerica/unitedstates/california/san_bruno
+africa/zambia/kalambofalls
+africa/malawi/mzuzu
+europe/macedonia/strumica

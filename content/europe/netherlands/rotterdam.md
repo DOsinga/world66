@@ -12,6 +12,7 @@ longitude: 4.4792
 score: 0.6
 title: Rotterdam
 type: location
+loc_type: city
 ---
 
 Rotterdam is the Netherlands' second city and its most architecturally daring. Levelled by German bombing in 1940, it rebuilt itself as a modernist experiment -- a skyline of bold towers, avant-garde housing, and bridges that have made it a pilgrimage site for architecture fans worldwide.

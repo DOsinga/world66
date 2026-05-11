@@ -6,6 +6,7 @@ longitude: -98.879814
 title: Waynoka
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Waynoka is a tiny town of about 1,000 people in the red plains of northwestern Oklahoma, and it punches well above its weight for outdoor adventure. **Little Sahara State Park**, just south of town, is the main attraction: 1,600 acres of sand dunes rising up to 75 feet, open for ATVs, dune buggies, dirt bikes, and sandboarding. The dunes are a surreal sight in the middle of the Oklahoma prairie, and the park draws off-road enthusiasts from across the region.

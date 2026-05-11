@@ -8,6 +8,7 @@ longitude: -76.249622
 score: 0.6
 title: Paracas
 type: location
+loc_type: city
 ---
 
 Paracas is a small coastal town south of [Pisco](/southamerica/peru/pisco), used mainly as a jumping-off point for two of Peru's best natural attractions: the Islas Ballestas and the Reserva Nacional de Paracas.

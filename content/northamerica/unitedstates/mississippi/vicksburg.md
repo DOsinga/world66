@@ -6,6 +6,7 @@ longitude: -90.8777
 title: Vicksburg
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Vicksburg is where the Civil War turned. The 47-day siege of 1863, ending with the city's surrender on the Fourth of July, gave the Union control of the Mississippi River and cut the Confederacy in two. The city has never forgotten it -- and neither should you, because the Vicksburg National Military Park is one of the most moving historical sites in the American South.

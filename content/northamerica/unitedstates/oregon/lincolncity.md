@@ -6,6 +6,7 @@ longitude: -124.015952
 title: Lincoln City
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Lincoln City stretches along seven miles of Oregon coastline, a string of small communities merged into one long beach town. It is not the most picturesque stop on the Oregon coast — the strip-mall character of Highway 101 through town sees to that — but the beach itself is wide and dramatic, with reliable wind for kite flying and a city-sponsored programme that hides hand-blown glass floats in the sand for visitors to find and keep.

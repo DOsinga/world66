@@ -16,6 +16,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-30
 score: 0.41
+loc_type: country
 ---
 
 Travel Guide

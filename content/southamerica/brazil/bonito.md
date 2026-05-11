@@ -6,6 +6,7 @@ longitude: -56.4836
 title: Bonito
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Bonito is a small town in Mato Grosso do Sul, about 260 km from Campo Grande, that has become one of Brazil's premier ecotourism destinations. The name means "beautiful" and the rivers here live up to it — the water in the Rio da Prata and Rio Sucuri is so clear that you can float downstream and watch dozens of fish species swimming around you as if you were in an aquarium.

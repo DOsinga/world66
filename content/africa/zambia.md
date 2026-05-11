@@ -16,6 +16,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-30
 score: 0.48
+loc_type: country
 ---
 
 Zambia is one of Africa's great safari destinations, yet it remains blissfully uncrowded compared to its neighbors. This is the country where the walking safari was invented, where Victoria Falls thunders on its southern border, and where vast national parks shelter some of the continent's densest wildlife populations. If you want an authentic African wilderness experience without the tourist buses, Zambia is it.

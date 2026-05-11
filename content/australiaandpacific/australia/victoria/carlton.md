@@ -6,6 +6,7 @@ longitude: 144.9684
 score: 0.42
 title: Carlton
 type: location
+loc_type: city
 ---
 
 Carlton is [Melbourne](/australiaandpacific/australia/victoria/melbourne)'s Italian quarter, a neighbourhood shaped by the wave of post-war migration that turned Lygon Street into one of Australia's most famous eating strips. The restaurants and gelato shops are still there — some of them tourist traps, others genuinely good — and on a warm evening the pavement tables fill up from Grattan Street all the way to Elgin Street.

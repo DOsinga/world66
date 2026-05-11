@@ -8,6 +8,7 @@ longitude: -76.147424
 score: 0.39
 title: Syracuse
 type: location
+loc_type: city
 ---
 
 Syracuse is the fourth-largest city in [New York State](/northamerica/unitedstates/newyorkstate) and regularly claims the title of snowiest large city in America, averaging over 120 inches per year thanks to lake-effect storms rolling off Lake Ontario. The city grew rich on salt mining in the 19th century -- it was known as "Salt City" -- and later became an industrial center. Today it is primarily a university town, anchored by Syracuse University on the hill above downtown.

@@ -8,6 +8,7 @@ longitude: 102.613371
 score: 0.55
 title: Vientiane
 type: location
+loc_type: city
 ---
 
 Southeast Asia's smallest and most laid-back capital sits on a bend in the Mekong, gazing across the river at Thailand. With around 800,000 people, Vientiane feels more like a large provincial town than a national capital -- and that is its charm. Tree-lined boulevards, crumbling French colonial mansions, and gilded Buddhist temples share space with rice paddies and vegetable gardens that somehow survive within the city limits.

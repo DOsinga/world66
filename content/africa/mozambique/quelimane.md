@@ -6,6 +6,7 @@ longitude: 36.890216
 title: Quelimane
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Quelimane is the capital of Zambezia province, sitting in the delta of the Bons Sinais River near the Indian Ocean coast. It's a working port city rather than a tourist destination — most travellers pass through on the way between Beira and Nampula.

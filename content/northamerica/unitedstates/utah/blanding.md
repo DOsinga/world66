@@ -6,6 +6,7 @@ longitude: -109.47802
 title: Blanding
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Blanding is a small town in San Juan County, in the remote canyon country of southeastern Utah. It is not a destination in itself, but it is the best-supplied town in a vast and empty region and makes a practical base for exploring some of the most rewarding archaeology and landscape in the American Southwest.

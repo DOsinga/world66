@@ -1,0 +1,5 @@
+northamerica/unitedstates/nebraska/lincoln
+europe/france/normandybrittany/lehavre
+asia/china/xinjiangprovince/kashgar
+northamerica/canada/ontario/oakville
+europe/ukraine/carpathian_mountains/vorokhta

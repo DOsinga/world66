@@ -6,6 +6,7 @@ longitude: -6.370266
 title: Norðoyggjar
 type: location
 score: 0.57
+loc_type: region
 ---
 
 Norðoyggjar — the Northern Islands — is the collective name for the six northeastern islands of the Faroe Islands: Borðoy, Viðoy, Kunoy, Kalsoy, Svínoy, and Fugloy. These are the most remote and least visited of the Faroese islands, and among the most dramatic.

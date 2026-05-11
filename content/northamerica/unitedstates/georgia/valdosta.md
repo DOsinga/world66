@@ -6,6 +6,7 @@ longitude: -83.278485
 title: Valdosta
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Valdosta is a mid-size city in the southernmost corner of Georgia, about 15 miles from the Florida border on I-75. It's primarily a stopover town for travelers heading to or from Florida. Valdosta State University gives it some student energy, and there are decent shopping and dining options for a rest stop.

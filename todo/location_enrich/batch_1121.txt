@@ -1,0 +1,5 @@
+europe/portugal/vianadocastelo
+northamerica/unitedstates/pennsylvania/bucks_county/lahaska
+northamerica/thecaribbean/martinique/fortdefrance
+europe/sweden/linkping
+europe/sweden/pajala

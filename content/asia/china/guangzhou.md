@@ -8,6 +8,7 @@ longitude: 113.259006
 score: 0.47
 title: Guangzhou
 type: location
+loc_type: city
 ---
 
 Guangzhou — the old Canton — is the sprawling capital of Guangdong province and the third-largest city in China after Beijing and Shanghai. It sits on the Pearl River delta close to [Hong Kong](/asia/china/hongkong) and [Macau](/asia/china/macau), and for most of the last two thousand years it has been China's most important southern gateway to the outside world. The semi-annual **Canton Fair** is still one of the largest trade fairs on earth. Most Western travellers arrive through Hong Kong by high-speed rail (just under an hour) and are often pleasantly surprised: Guangzhou is less polluted and much more livable than its reputation as an industrial megacity suggests, with excellent food, elegant riverside promenades, and a slower pace than either Beijing or Shanghai.

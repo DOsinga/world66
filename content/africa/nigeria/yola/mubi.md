@@ -4,6 +4,7 @@ type: location
 latitude: 10.2676
 longitude: 13.2644
 score: 0.18
+loc_type: city
 ---
 
 Mubi is the second largest city in Adamawa State, northeast [Nigeria](/africa/nigeria), sitting close to the Cameroon border at the foot of the Mandara Mountains. It is a busy commercial centre and one of the main crossing points into Cameroon, which gives it an energy and diversity that belies its modest size.

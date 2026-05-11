@@ -8,6 +8,7 @@ longitude: 14.248768
 score: 0.73
 title: Naples
 type: location
+loc_type: city
 ---
 
 *Europe > Italy > Campania > Naples*

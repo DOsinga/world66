@@ -8,6 +8,7 @@ longitude: 14.506929
 score: 0.69
 title: Ljubljana
 type: location
+loc_type: city
 ---
 
 Ljubljana is Slovenia's capital and largest city, with a population of around 300,000. It has the feel of a small Central European city that happens to be a national capital — compact, walkable, and genuinely pleasant without trying too hard. The Ljubljanica River flows through the old town, lined with outdoor cafes. A castle sits on the hill above.

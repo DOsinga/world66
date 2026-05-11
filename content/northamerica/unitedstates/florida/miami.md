@@ -12,6 +12,7 @@ longitude: -80.193597
 score: 0.67
 title: Miami
 type: location
+loc_type: city
 ---
 
 Miami is not quite like anywhere else in the United States. It is as much a Caribbean and Latin American city as it is a North American one — a place where Spanish is the first language in entire neighbourhoods, where the coffee is strong and sweet and served in tiny cups, and where the architecture ranges from pastel Art Deco to gleaming glass towers rising over Biscayne Bay.

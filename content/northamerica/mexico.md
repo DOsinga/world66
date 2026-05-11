@@ -16,6 +16,7 @@ longitude: -102.5528
 score: 0.36
 title: Mexico
 type: location
+loc_type: country
 ---
 
 Mexico rewards travelers who look beyond the all-inclusive resorts. It is the 14th largest country in the world, spanning deserts, jungles, mountains, and two coastlines, with a history that runs from ancient Mesoamerican civilizations through Spanish colonialism to a thriving contemporary culture. The food alone justifies the trip.

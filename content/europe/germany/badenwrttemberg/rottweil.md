@@ -6,6 +6,7 @@ longitude: 8.626979
 score: 0.48
 title: Rottweil
 type: location
+loc_type: city
 ---
 
 Rottweil is the oldest town in Baden-Württemberg, founded by the Romans in AD 73, and the place that gave the Rottweiler dog its name — the breed descends from the mastiffs that Roman legions used to drive cattle over the Alps. A fountain on the Hauptstrasse commemorates the connection.

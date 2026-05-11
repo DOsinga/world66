@@ -6,6 +6,7 @@ longitude: -98.582187
 score: 0.38
 title: Kansas
 type: location
+loc_type: region
 ---
 
 Kansas is an almost rectangular shaped state at the geographic center of the United States.

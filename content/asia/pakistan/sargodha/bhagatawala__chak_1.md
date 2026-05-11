@@ -6,6 +6,7 @@ longitude: 72.6581
 title: Bhagatawala (Chak 24 SB)
 type: location
 score: 0.18
+loc_type: city
 ---
 
 Bhagatawala, officially Chak 24 SB, is a small village about 25 km from [Sargodha](/asia/pakistan/sargodha) city in Punjab, [Pakistan](/asia/pakistan). It sits less than a kilometre from Sargodha's domestic airport and along the banks of the Lower Jhelum Canal, which irrigates the surrounding farmland. Like much of the Sargodha district, the area is defined by citrus farming, and the orange groves stretching out around the village are its main feature.

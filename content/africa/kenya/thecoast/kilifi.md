@@ -6,6 +6,7 @@ longitude: 39.675072
 title: Kilifi
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Kilifi is a small coastal town about halfway between Mombasa and [Malindi](/africa/kenya/thecoast/malindi), set on a beautiful creek that opens into the Indian Ocean. It is quieter and less developed than either of its neighbours, which is part of the appeal — the beach is good, the pace is slow, and the expat community has brought a handful of decent restaurants and bars.

@@ -6,6 +6,7 @@ longitude: 35.8564
 title: Arwad Island
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Arwad (also spelled Arwad or Ruad) is a small island just off the coast of [Tartus](/asia/syria/tartus), reachable by boat in about 15 minutes. It is the only permanently inhabited island on the Syrian coast, and one of the oldest continuously occupied islands in the world — Phoenician, Greek, Roman, and Crusader rulers each left their mark.

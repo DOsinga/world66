@@ -1,0 +1,5 @@
+africa/cameroon/foumban
+africa/mauritania/nema
+asia/india/rajasthan/dungarpur
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead
+africa/kenya/thecoast/lamu

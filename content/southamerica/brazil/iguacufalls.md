@@ -11,6 +11,7 @@ longitude: -54.436538
 score: 0.86
 title: Iguaçu Falls
 type: location
+loc_type: feature
 ---
 
 Iguaçu Falls — Cataratas do Iguaçu in Portuguese, Cataratas del Iguazú in Spanish — are one of the great natural spectacles on earth. The Iguaçu River drops over a basalt cliff edge in a horseshoe nearly three kilometres wide, splitting into roughly 275 individual falls that thunder into the gorge below. Rainbows hang permanently in the mist, and the roar carries for miles.

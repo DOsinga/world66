@@ -10,6 +10,7 @@ longitude: -9.15763
 score: 0.46
 title: Almada
 type: location
+loc_type: city
 ---
 
 Almada sits on the south bank of the Tagus estuary, directly across from [Lisbon](/europe/portugal/lisbon). Most visitors know it for the Cristo Rei statue -- a 28-metre figure of Christ standing on a 75-metre pedestal, arms outstretched towards Lisbon, inspired by the Cristo Redentor in Rio de Janeiro. The viewing platform at the top offers one of the best panoramas of Lisbon, the Tagus, and the Ponte 25 de Abril suspension bridge stretching across the river below.

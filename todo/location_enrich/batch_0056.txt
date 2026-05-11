@@ -1,0 +1,5 @@
+northamerica/unitedstates/minnesota/grandportage
+northamerica/unitedstates/newmexico/san_rafael
+northamerica/unitedstates/massachusetts/newburyport
+europe/ukraine/lugansk
+australiaandpacific/australia/westernaustralia/bussleton

@@ -6,6 +6,7 @@ longitude: -0.3763
 score: 0.71
 title: Valencia
 type: location
+loc_type: city
 ---
 
 Valencia is Spain's third-largest city but one of its most underrated. It has the Mediterranean climate, the beaches, and the nightlife of Barcelona without the crowds or the prices — and it is the birthplace of paella, which alone is reason enough to visit.

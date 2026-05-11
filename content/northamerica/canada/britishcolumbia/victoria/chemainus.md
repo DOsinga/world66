@@ -6,6 +6,7 @@ longitude: -123.718414
 title: Chemainus
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Chemainus is a small town on the east coast of Vancouver Island, about an hour's drive north of [Victoria](/northamerica/canada/britishcolumbia/victoria). When the local sawmill closed in 1983, the town reinvented itself by commissioning large-scale murals on its buildings — there are now over 50, and a self-guided walking tour takes you past scenes of the town's logging and First Nations history.

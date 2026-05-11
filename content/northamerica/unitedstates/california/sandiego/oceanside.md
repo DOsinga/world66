@@ -6,6 +6,7 @@ longitude: -117.379483
 title: Oceanside
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Oceanside, the perfect spot for surfing in San Diego county. You can view current surf conditions in realtime by accessing the internet. In addition there are two live web cams positioned on either side of the pier.

@@ -6,6 +6,7 @@ longitude: 6.50135
 title: Wasserbillig
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Wasserbillig sits at the confluence of the Sûre and Moselle rivers, right on the German border in eastern Luxembourg. It is a transit town at heart -- many Germans cross the bridge to fill up on cheaper fuel, and most travellers pass through on their way somewhere else. But the setting in the Moselle valley, with vineyard-covered slopes rising on both sides of the river, gives it more charm than its reputation suggests.

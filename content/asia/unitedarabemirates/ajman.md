@@ -6,6 +6,7 @@ longitude: 55.5136
 title: Ajman
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Ajman is the smallest of the seven [UAE](/asia/unitedarabemirates) emirates, squeezed between Sharjah and Umm Al Quwain along the Gulf coast. It has a fraction of the glitz of [Dubai](/asia/unitedarabemirates/dubai) — no towering skyscrapers or mega-malls — and that is precisely its appeal for visitors looking for a quieter, more affordable base.

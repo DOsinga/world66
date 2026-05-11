@@ -6,6 +6,7 @@ longitude: -92.172427
 title: Jefferson City
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Jefferson City is the capital of Missouri, a small city of about 43,000 on the bluffs above the Missouri River. It is one of the less glamorous state capitals in the country -- overshadowed by [St. Louis](/northamerica/unitedstates/missouri/stlouis) and [Kansas City](/northamerica/unitedstates/missouri/kansascity) -- but it has a handsome setting on the river and enough to fill a day if you are passing through.

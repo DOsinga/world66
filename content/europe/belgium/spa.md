@@ -7,6 +7,7 @@ longitude: 5.8628
 score: 0.54
 title: Spa
 type: location
+loc_type: city
 ---
 
 Spa is the town that named the world. Long before "spa" became a generic word for any wellness centre with a hot tub, it was this small Walloon town in the Ardennes hills that European royalty visited to drink the mineral-rich spring water and restore their constitutions. The word stuck, and it travelled everywhere — but there is only one original.

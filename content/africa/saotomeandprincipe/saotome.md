@@ -6,6 +6,7 @@ longitude: 6.61
 done:
   location_cleanup: 2026-04-10
 score: 0.48
+loc_type: city
 ---
 
 São Tomé is the larger of the two islands in the Gulf of Guinea, and shares its name with both the national capital and the highest peak. It sits almost exactly on the equator, which makes the light here extraordinary — everything is sharp and green.

@@ -6,6 +6,7 @@ longitude: -84.9167
 title: Tortuga Island
 type: location
 score: 0.58
+loc_type: feature
 ---
 
 Tortuga Island (Isla Tortuga) sits in the Gulf of Nicoya off the Pacific coast of [Costa Rica](/northamerica/costarica), a pair of uninhabited islands with white-sand beaches and clear water. Most visitors arrive on day-trip boats from Montezuma or Puntarenas — the crossing takes about an hour and a half.

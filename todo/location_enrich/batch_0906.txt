@@ -1,0 +1,5 @@
+europe/malta/mdina
+asia/turkey/kayseri
+asia/india/dadraandnagarhaveli/silvassa
+europe/denmark/mand
+europe/sweden/sveg

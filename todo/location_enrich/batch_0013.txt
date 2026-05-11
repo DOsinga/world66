@@ -1,0 +1,5 @@
+southamerica/venezuela/barquisimeto
+southamerica/argentina/reconquista
+europe/azerbaijan/agstafa
+asia/vietnam/vungtau
+europe/france/centre/loirevalley/chinon

@@ -6,6 +6,7 @@ longitude: 18.536958
 title: Gotland
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Gotland is Sweden's largest island and one of its most popular summer destinations — a flat limestone plateau in the Baltic Sea with a character quite different from the mainland. The landscape is open farmland, wildflower meadows, and dramatic sea stacks (raukar) along the coast.

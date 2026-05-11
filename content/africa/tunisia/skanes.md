@@ -6,6 +6,7 @@ longitude: 10.7774
 title: Skanes
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Skanes is a coastal suburb 8km south of [Monastir](/africa/tunisia/monastir), dominated by a string of large beach resort hotels. The beaches are well-maintained, the water clean, and watersports are widely available — but this is very much package-holiday Tunisia rather than local life. Beach vendors can be persistent.

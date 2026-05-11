@@ -1,0 +1,5 @@
+australiaandpacific/guam/agat
+europe/georgia/pankisi
+northamerica/canada/ontario/cobourg
+northamerica/unitedstates/arkansas/mountain_view
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage

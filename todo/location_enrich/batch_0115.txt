@@ -1,0 +1,5 @@
+asia/lebanon/sidon
+europe/italy/abruzzo/sulmona
+africa/tunisia/nefta
+northamerica/unitedstates/northcarolina/kinston
+africa/togo/tamberma

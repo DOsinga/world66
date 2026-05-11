@@ -6,6 +6,7 @@ longitude: 26.691671
 title: Ayvalik
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Ayvalık is a small Aegean port town on Turkey's northern Aegean coast, about 170 km south of Çanakkale. The town occupies a sheltered bay dotted with small islands, and its old Greek quarter — preserved from before the 1923 population exchange — has narrow cobbled streets lined with stone houses, many converted into boutiques, cafes, and small pensions.

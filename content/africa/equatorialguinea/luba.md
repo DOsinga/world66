@@ -6,6 +6,7 @@ longitude: 8.5544
 title: Luba
 type: location
 score: 0.22
+loc_type: city
 ---
 
 Less than 50 km from the capital [Malabo](/africa/equatorialguinea/malabo), Luba is the second-largest town on Bioko Island and a useful base for exploring the island's southern coast. The town itself is a quiet port with a small fishing community, but its surroundings are the real draw.

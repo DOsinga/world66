@@ -1,6 +1,5 @@
 ---
 address: Passeig de Gràcia 43
-category: sights
 latitude: 41.391545
 longitude: 2.164696
 snippet: Gaudí's most theatrical facade, inspired by the legend of Sant Jordi

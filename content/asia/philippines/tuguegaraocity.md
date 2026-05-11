@@ -6,6 +6,7 @@ longitude: 121.727
 done:
   location_cleanup: 2026-04-06
 score: 0.35
+loc_type: city
 ---
 
 Tuguegarao City is the capital of Cagayan province in the Cagayan Valley, the northernmost region of Luzon. While it's primarily a commercial and administrative hub rather than a tourist destination, it serves as the main gateway for travellers heading to the Callao Caves and the outdoor adventures of the Cagayan Valley.

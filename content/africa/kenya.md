@@ -17,6 +17,7 @@ quick_facts:
 score: 0.44
 title: Kenya
 type: location
+loc_type: country
 ---
 
 *Africa > Kenya*

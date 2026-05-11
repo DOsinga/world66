@@ -6,6 +6,7 @@ longitude: 74.808459
 title: Norus
 type: location
 score: 0.24
+loc_type: city
 ---
 
 Norus is a small ski area about 35 kilometers from [Bishkek](/asia/kyrgyzstan/bishkek), making it the most convenient option for a day on the slopes if you are based in the capital. It is not world-class skiing by any measure, but it is easy to reach and surprisingly enjoyable for what it is.

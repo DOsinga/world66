@@ -12,6 +12,7 @@ longitude: 5.121563
 score: 0.65
 title: Utrecht
 type: location
+loc_type: city
 ---
 
 Forget about The Hague, forget about Rotterdam, it's Utrecht you are heading for after visiting Amsterdam.

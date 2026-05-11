@@ -15,6 +15,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-30
 score: 0.47
+loc_type: country
 ---
 
 The Gambia is Africa's smallest mainland country, a slender ribbon of land following the Gambia River for 450 kilometres inland from the Atlantic coast, entirely surrounded by [Senegal](/africa/senegal). It is known as the Smiling Coast, and the nickname is earned -- Gambians are genuinely, disarmingly friendly.

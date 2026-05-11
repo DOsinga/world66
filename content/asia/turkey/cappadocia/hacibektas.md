@@ -6,6 +6,7 @@ longitude: 34.5609
 title: Hacıbektaş
 type: location
 score: 0.52
+loc_type: city
 ---
 
 Hacıbektaş is a small Anatolian town about an hour's drive north of Nevşehir, reached by taking a local minibus through the town of Gülşehir. It belongs on any serious Cappadocia itinerary because it illuminates a side of Turkey that most visitors never encounter: the Alevi-Bektaşi tradition of Islam, a humanist and syncretic strand that has shaped perhaps a quarter of all Turkish Muslims.

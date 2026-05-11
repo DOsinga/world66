@@ -8,6 +8,7 @@ longitude: 28.18791
 score: 0.5
 title: Pretoria
 type: location
+loc_type: city
 ---
 
 Pretoria is the capital of South Africa. Located just a few kilomets north of [Johannesburg](/africa/southafrica/johannesburg) it is an attractive city - but it doen't have the big city atmosphere of Jo'burg. 

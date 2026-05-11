@@ -8,6 +8,7 @@ longitude: 37.606392
 score: 0.57
 title: Moscow
 type: location
+loc_type: city
 ---
 
 Moscow is the beating heart of the Russian world — a medieval fortress-city that grew into the capital of the tsars, the seat of Soviet power, and today one of the largest and most expensive metropolises on earth. For all its scale, the centre is surprisingly compact, arranged as a series of concentric ring roads radiating out from the **Kremlin** and **Red Square**. An afternoon on foot covers the essentials; a week is not enough for everything the city contains.

@@ -16,6 +16,7 @@ quick_facts:
   Thermal Springs: "Over 1,000 natural hot springs"
   Rubik's Cube: Invented in Budapest in 1974
 score: 0.44
+loc_type: country
 ---
 
 Located in central Europe, Hungary is bordered by Austria, Slovakia, Ukraine, Romania, Yugoslavia, Croatia and Slovenia. Apart from its quality wines and Baroque towns, its strategic location in the continent also attracts thousands of tourists to the country.

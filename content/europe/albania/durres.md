@@ -6,6 +6,7 @@ longitude: 19.446235
 done:
   location_cleanup: 2026-04-06
 score: 0.45
+loc_type: city
 ---
 
 Durrës is Albania's second city and main port, founded by Greek colonists around 627 BC as Epidamnos (later renamed Dyrrachium by the Romans). It sits 38 km west of Tirana on the Adriatic coast and is the first stop for ferries arriving from Italy.

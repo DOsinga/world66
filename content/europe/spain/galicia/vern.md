@@ -7,6 +7,7 @@ longitude: -7.440603
 score: 0.47
 title: Verín
 type: location
+loc_type: city
 ---
 
 Verín is a small town in the Monterrei valley in southeastern [Galicia](/europe/spain/galicia), close to the Portuguese border. The town is known for its thermal springs and its carnival — the Entroido de Verín is one of the wildest in Galicia, with masked figures called cigarróns in brightly coloured costumes chasing people through the streets.

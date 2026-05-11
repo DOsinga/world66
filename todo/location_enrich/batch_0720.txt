@@ -1,0 +1,5 @@
+africa/sierraleone/bananaislands
+europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure
+northamerica/unitedstates/california/brentwood
+europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme
+asia/india/uttarpradesh/allahabad

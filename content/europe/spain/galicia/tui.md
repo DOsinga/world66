@@ -7,6 +7,7 @@ longitude: -8.646641
 score: 0.52
 title: Tui
 type: location
+loc_type: city
 ---
 
 Tui sits on a hill above the River Miño, right on the Portuguese border — you can walk across the old bridge to Valença do Minho on the other side. The town's streets wind harmoniously down toward the river, and the setting is one of the prettiest in [Galicia](/europe/spain/galicia).

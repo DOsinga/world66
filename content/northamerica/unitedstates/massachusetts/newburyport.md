@@ -6,6 +6,7 @@ longitude: -70.871927
 score: 0.53
 title: Newburyport
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

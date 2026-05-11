@@ -6,6 +6,7 @@ longitude: 23.891558
 score: 0.42
 title: Sighet
 type: location
+loc_type: city
 ---
 
 Sighetu Marmației — usually just Sighet — sits in the far north of Romania, pressed against the Ukrainian border in the heart of Maramureș. This is one of the most culturally distinct regions in Europe: wooden churches with impossibly tall steeples, carved gates, haystacks built by hand, and a rural way of life that has barely changed in centuries.

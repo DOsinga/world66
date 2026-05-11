@@ -6,6 +6,7 @@ longitude: -86.250007
 title: South Bend
 type: location
 score: 0.38
+loc_type: city
 ---
 
 South Bend sits on the St. Joseph River in northern Indiana, and it punches well above its size. The University of Notre Dame is the obvious draw — the golden dome, Touchdown Jesus, and the electricity of a home football weekend make it worth a visit even if you have no strong feelings about college sports. The broader campus is beautiful and open to visitors year-round.

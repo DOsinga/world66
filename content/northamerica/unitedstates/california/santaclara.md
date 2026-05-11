@@ -6,6 +6,7 @@ longitude: -121.955174
 score: 0.37
 title: Santa Clara
 type: location
+loc_type: city
 ---
 
 Santa Clara is a city in the heart of Silicon Valley, sandwiched between [San Jose](/northamerica/unitedstates/california/sanfranciscobayarea/sanjose) and Sunnyvale in the southern [San Francisco Bay Area](/northamerica/unitedstates/california/sanfranciscobayarea). It is home to the headquarters of Intel and countless other tech companies, but for visitors the main draws are California's Great America theme park and Levi's Stadium, where the San Francisco 49ers play their home games.

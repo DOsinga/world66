@@ -6,6 +6,7 @@ longitude: 9.875068
 title: Klosters
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Klosters is a small, unhurried alpine village in the Prättigau valley, 20 minutes from Davos but a world apart in character. While Davos has grown into a conference city, Klosters has stayed resolutely itself: a scatter of wooden chalets, church steeples, and flower-hung balconies backed by high peaks. The British royal family has been coming here for decades, which says something about the place — quiet, tasteful, and thoroughly alpine.

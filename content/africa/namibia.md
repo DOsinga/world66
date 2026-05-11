@@ -15,6 +15,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-29
 score: 0.69
+loc_type: country
 ---
 
 Namibia, a huge but sparsely populated country, is situated in southwestern Africa. Irt is known for its contrasting landscapes. There is the brooding desolate Namib Desert, said to be the oldest in the world, with its high dunes and awe inspiring sense of space. The central plateau, with its thornbush savanna and rugged mountains, rising abruptly from the plains, gives way to the majestic Fish River Canyon in the South. In the North of the country, landscapes range from dense bush and open plains of the great Etosha pan, to woodland savanna and lush riverine vegetation.

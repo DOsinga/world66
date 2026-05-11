@@ -6,6 +6,7 @@ longitude: 38.2593
 title: Palmyra
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Approaching Palmyra by road through the Syrian desert, you turn a corner and suddenly see a vast expanse of columns and arches rising from a green oasis. It is one of those moments that stops you cold.

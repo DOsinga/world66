@@ -6,6 +6,7 @@ longitude: 45.627
 title: Culfa (Julfa)
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Julfa is a border town on the southern edge of the Nakhchivan exclave, pleasantly set on the left bank of the Araz river, facing its sister town Jolfa across the water in Iran. It is a place where a remarkable history dwarfs the modest present.

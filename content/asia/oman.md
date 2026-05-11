@@ -15,6 +15,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-30
 score: 0.65
+loc_type: country
 ---
 
 Oman is the quiet one on the Arabian Peninsula. While its neighbours have gone all-in on glass towers and mega-malls, Oman kept the forts, the frankincense, and the sense that people here aren't in a hurry. It is one of the safest, most welcoming countries in the Middle East, and one of the least visited relative to what it offers.

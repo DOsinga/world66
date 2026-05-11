@@ -6,6 +6,7 @@ longitude: 106.058173
 done:
   location_cleanup: '2026-04-07'
 score: 0.5
+loc_type: city
 ---
 
 Kratie is a quiet provincial town on the upper Mekong, roughly halfway between Phnom Penh and the Laos border. Most travellers stop here for one reason: the Irrawaddy dolphins. A small, critically endangered freshwater population survives in the deep pools at Kampi, about 15km north, and watching them surface in the brown river light is genuinely memorable.

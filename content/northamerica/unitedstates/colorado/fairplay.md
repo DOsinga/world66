@@ -6,6 +6,7 @@ longitude: -106.001952
 title: Fairplay
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Travel Guide

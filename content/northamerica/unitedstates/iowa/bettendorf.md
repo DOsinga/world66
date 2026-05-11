@@ -6,6 +6,7 @@ longitude: -90.509864
 title: Bettendorf
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Bettendorf is one of the four cities that make up the Quad Cities metropolitan area, straddling the Mississippi River on the Iowa–Illinois border. It is the quieter, more residential half of the Iowa side — neighbouring [Davenport](/northamerica/unitedstates/iowa/davenport) is the commercial centre — but has its own appeal for visitors passing through.

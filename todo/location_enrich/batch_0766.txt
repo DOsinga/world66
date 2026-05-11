@@ -1,0 +1,5 @@
+northamerica/unitedstates/colorado/glenwood_springs
+europe/spain/catalonia/lleida
+europe/switzerland/champery
+northamerica/thecaribbean/guadeloupe/grandeterre
+africa/mauritius/chamarel

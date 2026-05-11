@@ -6,6 +6,7 @@ longitude: 173.949106
 score: 0.54
 title: Kerikeri
 type: location
+loc_type: city
 ---
 
 Kerikeri is a small town in the Bay of Islands in Northland, and one of the most historically significant places in New Zealand. The Stone Store, built in 1836, is the country's oldest surviving stone building, and the Kerikeri Mission Station nearby includes the oldest surviving building in New Zealand, the Kemp House from 1822. This is where early missionary contact with Māori was most intensive.

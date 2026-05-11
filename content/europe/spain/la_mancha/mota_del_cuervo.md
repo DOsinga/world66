@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-12'
+image: mota_del_cuervo.jpg
+image_attribution: Meson de Don Quijote
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Horno_alfarero_de_Mota_del_Cuervo_(Cuenca_-_1968).jpg
 latitude: 39.500934
+loc_type: city
 longitude: -2.871109
+score: 0.45
 title: Mota del Cuervo
 type: location
-score: 0.45
-loc_type: city
 ---
 
 Mota del Cuervo sits on a low hill in the province of Cuenca, about 160 km southeast of Madrid. The town calls itself the Balcón de la Mancha — the Balcony of La Mancha — and from the ridge where the windmills stand, you can see why: the plain stretches out in every direction, flat and enormous, the kind of landscape that makes Don Quixote's giants feel plausible. There are seven windmills up there, white and round-towered, and on a windy day they actually turn.

@@ -1,5 +1,0 @@
-africa/somalia/galdogob
-asia/turkey/antalya
-australiaandpacific/newzealand/north_island/whanganui_region/wanganui
-europe/netherlands/enschede
-northamerica/unitedstates/georgia/helen

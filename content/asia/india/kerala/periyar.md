@@ -6,8 +6,7 @@ longitude: 76.96566
 title: Periyar
 type: location
 score: 0.63
-loc_type: city
----
+loc_type: feature---
 
 The Periyar Wildlife Sanctuary at Thekkady is one of India's finest, covering 777 sq km of tropical forest in the Cardamom Hills. The drive there is part of the appeal, winding through tranquil countryside, spice plantations and thick jungle.
 

@@ -6,8 +6,7 @@ longitude: -174.0
 title: Vava'u Group
 type: location
 score: 0.63
-loc_type: city
----
+loc_type: region---
 
 Vava'u is the northern island group of Tonga and the destination most visitors come for. About 50 islands clustered around a deep natural harbour that has been sheltering yachts for decades — it's one of the finest anchorages in the South Pacific, which is why you'll always find a fleet of charter boats moored in the port of Neiafu.
 

@@ -10,8 +10,7 @@ image: chichenitza.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chichen_Itza_2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Daniel Schwen
-loc_type: city
----
+loc_type: feature---
 
 Chichen Itza is one of the largest and most impressive ancient Maya cities, located in the north-central Yucatan peninsula. The site's centrepiece is El Castillo (the Temple of Kukulcán), a step pyramid that dominates the main plaza. At the spring and autumn equinoxes, the play of light and shadow on the northern staircase creates the illusion of a serpent descending the pyramid.
 

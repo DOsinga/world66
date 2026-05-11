@@ -6,8 +6,7 @@ longitude: 55.940228
 title: Fregate Island
 type: location
 score: 0.7
-loc_type: city
----
+loc_type: feature---
 
 Fregate Island is the most remote of the Seychelles' granitic islands, a tiny speck of green rising from the Indian Ocean far from [Mahé](/africa/seychelles/mahe). Getting there requires a short flight, a helicopter ride, or a boat trip — and the isolation is the whole point.
 

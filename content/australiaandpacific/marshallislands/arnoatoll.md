@@ -6,8 +6,7 @@ longitude: 171.656269
 title: Arno Atoll
 type: location
 score: 0.44
-loc_type: city
----
+loc_type: region---
 
 Arno is the closest atoll to [Majuro](/australiaandpacific/marshallislands/majuro), lying just a short boat ride to the southeast, and it is one of the most accessible outer islands in the country. The atoll has over 130 islets enclosing a large, shallow lagoon with clear water and healthy coral.
 

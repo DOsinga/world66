@@ -6,8 +6,7 @@ longitude: -47.6842
 title: Chapada dos Veadeiros
 type: location
 score: 0.61
-loc_type: city
----
+loc_type: feature---
 
 Chapada dos Veadeiros is a high-altitude plateau in the state of Goiás, 230 km north of Brasília. The national park at its heart — a UNESCO World Heritage Site — protects the richest savanna on earth, a cerrado landscape of crystal-clear rivers, dramatic waterfalls, natural swimming pools, and canyon trails cutting through ancient quartzite rock.
 

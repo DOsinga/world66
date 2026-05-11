@@ -6,8 +6,7 @@ longitude: -117.58938
 title: Trabuco Canyon
 type: location
 score: 0.4
-loc_type: city
----
+loc_type: region---
 
 Trabuco Canyon received its name when members of the 1769 Portola Expedition trekked through and lost a blunderbuss (Spanish: *trabuco*). The weapon was never found.
 

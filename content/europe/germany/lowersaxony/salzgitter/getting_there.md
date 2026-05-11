@@ -1,36 +1,8 @@
 ---
-address: Konrad-Adenauer-Straße 1; 38226 Salzgitter
-email: info@TicketStation-Salzgitter.de
-latitude: 52.15287
-longitude: 10.346103
-phone: 0049-5341-887502
-title: Getting There in Salzgitter
-type: poi
-url: www.ticketstation-salzgitter.de
+title: "Getting There"
+type: section
 ---
 
-Salzgitter Transportation
+Salzgitter is accessible by train from Braunschweig roughly once an hour, arriving at **Salzgitter-Lebenstedt** station on Konrad-Adenauer-Strasse. The station is small — just a single track today, down from four in its heyday — but it gets the job done. It sits directly opposite the Citytorcenter shopping centre and a cinema.
 
-**Contributors**
-August 14, 2006
-
-### [Train Station Salzgitter-Lebenstedt](/europe/germany/lowersaxony/salzgitter/getting_there/train_station_salz)
-
-You can get to Salzgitter very comfortably by train.
-To Salzgitter-Lebenstedt for example, there is a train from Braunschweig about once every hour.
-
-The **train station** in Lebenstedt is tiny, with just one track, and has seen better days. In earlier days, there were four tracks and a hall, which has been torn down. The **station** located at Konrad-Adenauer-Straße 1, opposite the Citytorcenter and the cinema.
-
-You can buy your **tickets** at the " TicketStation ", a little container building in front of [more..](/europe/germany/lowersaxony/salzgitter/getting_there/train_station_salz)
-
-type: By Rail
-
-
-
-tel: 0049-5341-887502
-
-url: [www.ticketstation-salzgitter.de](http:// www.ticketstation-salzgitter.de)
-
-address: Konrad-Adenauer-Straße 1; 38226 Salzgitter
-
-email: info@TicketStation-Salzgitter.de
+By car, the A39 autobahn connects Salzgitter to Braunschweig and the broader Lower Saxon motorway network. The city itself is spread across several distinct districts, so check which part of Salzgitter your destination is in before setting out.

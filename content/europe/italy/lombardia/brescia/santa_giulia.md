@@ -3,6 +3,8 @@ address: Via dei Musei 81/b
 latitude: 45.5391
 longitude: 10.2258
 snippet: UNESCO monastery museum spanning Roman to Renaissance eras
+story: >
+  The Cross of Desiderius, the museum's centrepiece, is a 9th-century processional cross assembled from over 200 Roman cameos and intaglios — carved gems collected and repurposed by the Lombard king Desiderius as if setting a mosaic. Among them is a tiny portrait of a young Roman woman that scholars have tentatively identified as a likeness of Galla Placidia, the 5th-century empress. The cross was never meant to be read as a single image; it was designed to overwhelm with the accumulated weight of Roman prestige.
 tags:
 - things_to_do
 - museum

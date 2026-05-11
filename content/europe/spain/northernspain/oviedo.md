@@ -1,12 +1,17 @@
 ---
-title: Oviedo
-type: location
-latitude: 43.353345
-longitude: -5.87951
 done:
   location_cleanup: 2026-04-07
-score: 0.56
+  location_enrich: '2026-05-11'
+image: oviedo.jpg
+image_attribution: javier.losa
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Oviedo_2010.JPG
+latitude: 43.353345
 loc_type: city
+longitude: -5.87951
+score: 0.56
+title: Oviedo
+type: location
 ---
 
 Oviedo is the capital of Asturias, the green, Celtic-tinged region on Spain's Atlantic coast. It is a university city with a well-preserved historic centre and one of the finest concentrations of pre-Romanesque architecture in Europe — a style of great historical importance, predating the Romanesque and Moorish influences that shaped the rest of medieval Spain. The city itself is small, clean, and prosperous, with a relaxed pace and a strong culture of sidra (cider) drinking in the old quarter.

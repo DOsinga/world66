@@ -1,12 +1,10 @@
 ---
-title: "When to Go"
+title: 'When to Go'
 type: section
 ---
 
-The best times to visit Fez are **spring (March to May)** and **autumn (September to November)**. Temperatures are comfortable — 18–25°C — the light is excellent, and the city feels busy without being crushed. The medina is always crowded in summer, but the heat (often above 35°C in July and August) makes it genuinely exhausting.
+Spring (March to May) and autumn (September to November) are the best times to visit Fez. Temperatures are warm but manageable, the light is beautiful, and the city is not overwhelmed with visitors. April is particularly good — the surrounding hills are green, the orange trees in the riads are in blossom, and you can walk the medina all day without wilting.
 
-**Winter** (December to February) is cool and sometimes rainy, but Fez winters are mild compared to northern Europe and the crowds are thinnest. You will have the medina largely to yourself in January, which is its own reward. The Merenid Tombs and the hilltop viewpoints can be cold and windy.
+Summer is brutal. Fez sits in an inland basin and temperatures regularly exceed 40C in July and August. The narrow medina streets trap the heat, and the tanneries smell considerably worse. Winter is mild by European standards — daytime temperatures around 12-15C — but the nights are cold, the old buildings have no heating, and it rains enough to make the steep medina cobblestones treacherous. Bring layers.
 
-**Ramadan** transforms the city in ways that are worth experiencing if you understand what you are getting into. The medina slows dramatically during daylight hours — many restaurants are closed, shopkeepers are fasting and sometimes short-tempered — but after *iftar* (the sunset breaking of the fast) the city comes spectacularly alive. If you visit during Ramadan, respect the fast in public spaces and expect that business hours will be irregular.
-
-The **Festival of World Sacred Music** (Festival de Fès des Musiques Sacrées du Monde) takes place in June and is one of the most worthwhile cultural events in Morocco, drawing Sufi musicians, gospel choirs, and sacred music traditions from across the world for concerts in the medina and the Bab Makina square. Tickets are required; the festival fills accommodation quickly.
+If your visit falls during Ramadan, expect many restaurants to be closed during daylight hours, though tourist-oriented places in the medina and Ville Nouvelle usually stay open. The upside is that the evening iftar, when the fast is broken at sunset, is a remarkable experience — the entire city comes alive at once, and the atmosphere in the streets is electric. The Fez Festival of World Sacred Music, held in June, draws performers from across the globe to venues including the Bab Makina square and the gardens of Dar Batha; it is worth planning a trip around.

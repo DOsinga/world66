@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
+image: ribeira_grande.jpg
+image_attribution: Ajay Suresh from New York, NY, USA
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Azores-Day3-19_(34568123136).jpg
 latitude: 37.822523
+loc_type: city
 longitude: -25.519491
 score: 0.57
 title: Ribeira Grande
 type: location
-loc_type: city
 ---
 
 Ribeira Grande is the second largest town on [São Miguel](/europe/portugal/theazores/so_miguel), set on the island's north coast about 15 minutes by car from [Ponta Delgada](/europe/portugal/theazores/so_miguel/ponta_delgada). The town has a handsome historic centre with baroque churches and manor houses, centred on a striking eight-arched bridge over the Ribeira Grande river.

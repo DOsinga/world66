@@ -1,16 +1,13 @@
 ---
-latitude: 34.0647
-longitude: -4.9742
+latitude: 34.0650
+longitude: -4.9740
 tags:
-- things_to_do
+- shopping
 - fes_el_bali
-- sight
 - market
-title: Souk Attarine (Spice Market)
+snippet: 'Aromatic spice and perfume souk near Al-Qarawiyyin'
+title: 'Souk Attarine'
 type: poi
-snippet: "The perfumers' souk — spices, incense, and traditional remedies near Al-Qarawiyyin"
 ---
 
-The Souk Attarine — named for the *attars*, the perfumers and spice merchants — is the most aromatic stretch of the Fez medina, clustered around the entrance to the Attarine Madrasa near Al-Qarawiyyin. The stalls sell cumin, saffron, cinnamon, rose water, oud incense, dried herbs, medicinal roots, and the dozens of spice blends used in Fassi cooking. Many of the merchants will mix *ras el hanout* to order if you specify the dishes you cook at home.
-
-The smells shift dramatically from stall to stall — from the sharp clean note of dried ginger to the warm dark heaviness of oud, to the medicinal bitterness of herbs used in traditional Moroccan remedies. This part of the medina is less pressured than the leather and craft zones near Bab Boujeloud; the spice merchants have a calmer, more confident approach. A cone of hand-ground Fassi cumin makes one of the best and lightest souvenirs you can take home.
+The spice and perfume market just north of Al-Qarawiyyin mosque is one of the most photogenic corners of the medina. Stalls display neat pyramids of cumin, turmeric, saffron threads, and the complex spice blend ras el hanout — every vendor has his own recipe, and they will happily talk you through the ingredients. Alongside the spices you will find argan oil, orange blossom water, black soap, kohl, and small bottles of perfume. The quality of the saffron varies; the best comes from Taliouine in the south and is not cheap anywhere. This is a good place for small, packable gifts. The Attarine Madrasa is steps away, so combine the two.

@@ -1,13 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-05-11'
 latitude: 17.262183
-loc_type: city
 longitude: 105.574525
-score: 0.27
 title: Patong
 type: location
+score: 0.27
+loc_type: city
 ---
 
 Patong is a small village on Route 13 between [Vientiane](/asia/laos/vientiane) and [Luang Prabang](/asia/laos/luangprabang), north of [Vang Vieng](/asia/laos/vangvieng). Not to be confused with the beach resort in Thailand, this Patong is a quiet roadside settlement in the Lao mountains where the bus might stop long enough for you to buy a bag of sticky rice and stretch your legs.

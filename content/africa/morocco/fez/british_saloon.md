@@ -1,15 +1,16 @@
 ---
-latitude: 34.0392
-longitude: -5.0032
+title: 'British Saloon'
+type: poi
+address: 'Avenue Mohammed Es Slaoui, Ville Nouvelle'
+latitude: 34.0416
+longitude: -5.0012
+snippet: 'Former British consulate turned one of Fez''s best bars'
 tags:
 - bars_and_cafes
 - ville_nouvelle
 - bar
-title: British Saloon
-type: poi
-snippet: "Bar in a former British consulate — one of the most atmospheric in Fez"
 ---
 
-The British Saloon occupies what was once the British consulate in the Ville Nouvelle, and the building's former life gives it more character than most Moroccan bar interiors. Dark wood, old photographs, a long bar — it is a proper drinking place with a hint of colonial-era atmosphere, neither a tourist trap nor a grim local dive. Beer and spirits are both available; the Moroccan wines hold up.
+Set in a former British consulate from the colonial era, the British Saloon is probably the most atmospheric bar in Fez. Dark wood panelling, low lighting, and a vaguely clubby feel that sets it apart from the fluorescent-lit beer halls that pass for bars in most Moroccan cities. They serve beer, wine, and spirits, and the prices are reasonable by Fez standards.
 
-It is the kind of place that becomes a regular stop once you know it exists. The clientele is mixed — local businessmen, expats, the occasional traveller. An unmarked entrance on a Ville Nouvelle sidestreet means you have to ask where it is, which is part of the experience. Evening only; closes late by Fez standards.
+The crowd is mixed — young Moroccans, expats, and the occasional tourist who has done enough research to find the place. It is on Avenue Mohammed Es Slaoui in the [Ville Nouvelle](/africa/morocco/fez/ville_nouvelle), a short walk from [Es Saada](/africa/morocco/fez/es_saada) and the other drinking options on that street. The building itself is worth a look even if you are not a drinker — the consular architecture is a leftover from the days when Fez was Morocco's diplomatic capital.

@@ -1,15 +1,22 @@
 ---
-latitude: 34.0653
-longitude: -4.9728
+latitude: 34.0641
+longitude: -4.9729
+snippet: 'One of Morocco''s oldest working bathhouses, in daily use since the 1300s'
+story: 'Hammam Seffarine likely dates to the fourteenth century, making it one of
+  the oldest continuously operating public bathhouses in Morocco. It has never been
+  a tourist attraction — it is a neighbourhood hammam where local men and women come
+  to wash, as they have for seven hundred years. The wood-fired furnace still heats
+  the water the traditional way.
+
+  '
 tags:
 - things_to_do
 - fes_el_bali
 - sight
 title: Hammam Seffarine
 type: poi
-snippet: "One of the oldest hammams in Fez, probably dating to the 14th century"
 ---
 
-Just off Place Seffarine — the brassworkers' square, one of the most atmospheric corners of the medina — the Hammam Seffarine is believed to be among the oldest functioning bathhouses in Fez, its origins likely in the Merinid period. Hammams are a daily necessity in a neighbourhood where most homes have no private bathing facilities, and they run separate sessions for men and women throughout the day.
+This is not a spa. There is no reception desk, no fluffy towels, no aromatherapy menu. Hammam Seffarine is a real working bathhouse where neighbourhood residents come to scrub clean in steam rooms heated by a wood-burning furnace. If you want to understand what a hammam actually is — rather than a tourist version of one — this is where to come.
 
-For travellers, a hammam visit is one of the most honest ways to spend an hour in the medina — you pay a small entry fee, hand your clothes to an attendant, scrub with a kessa mitt and black soap, and bake yourself in progressively hotter steam rooms alongside local men. It is a social institution more than a spa. Soap and towel can usually be hired at the door; kessa mitts are cheap in any nearby souk.
+Bring your own soap, a change of underwear, and a plastic bag for your things. You pay a few dirhams at the door. Men and women bathe at separate hours — ask locally for the schedule, as it shifts. The hot room is seriously hot. You can pay one of the attendants for a vigorous scrub-down with a *kessa* glove, which will remove skin you did not know you had. The hammam sits right on [Place Seffarine](/africa/morocco/fez/place_seffarine), beside the coppersmiths.

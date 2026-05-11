@@ -6,6 +6,7 @@ longitude: -4.9874
 snippet: The medieval royal quarter with the Mellah and Royal Palace
 tags:
 - things_to_do
+- neighbourhood
 title: Fes el-Jdid
 type: neighbourhood
 ---

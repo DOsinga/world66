@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+image: mechelen.jpg
+image_attribution: Viktorhauk
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Het_Anker.jpg
 latitude: 51.028138
+loc_type: city
 longitude: 4.480345
+score: 0.59
 title: Mechelen
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Mechelen (Malines in French) sits halfway between [Brussels](/europe/belgium/brussels) and [Antwerp](/europe/belgium/antwerp) in Flanders, and is one of Belgium's most rewarding small cities. For centuries it was the ecclesiastical capital of the Low Countries and the seat of the Grand Council, and that history left it with a remarkable concentration of churches, palaces, and guild houses.

@@ -7,7 +7,7 @@ phone: "+49 351 4914 2000"
 latitude: 51.05283
 longitude: 13.73625
 tags:
-- museums
+- things_to_do
 - museum
 ---
 

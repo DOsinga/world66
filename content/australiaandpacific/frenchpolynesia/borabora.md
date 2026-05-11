@@ -1,10 +1,20 @@
 ---
 title: Bora Bora
 type: location
+tier: 4
+tags:
+  - islands
+  - beaches
+  - snorkeling
+  - diving
+  - lagoon
+  - overwater_bungalows
+  - polynesian
 latitude: -16.504347
 longitude: -151.736689
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-09'
 score: 0.93
 image: borabora.jpg
 image_source: https://commons.wikimedia.org/wiki/File:BoraBora_SEtienne.jpg

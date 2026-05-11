@@ -8,6 +8,10 @@ longitude: -0.896019
 score: 0.5
 title: Unst
 type: location
+image: unst.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Wick_of_scaw.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Unstphoto
 ---
 
 Unst is the northernmost inhabited island in the British Isles. If you want to be somewhere genuinely remote, this is the place. The island is reached by two short ferry crossings — Mainland to Yell, then Yell to Unst.

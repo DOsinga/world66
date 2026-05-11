@@ -109,9 +109,19 @@ def build_search_query(content_path: str, meta: dict) -> str:
 
     # For location pages below country level, append the country so common
     # city names (Paro, Florence, Springfield) don't pull unrelated images.
+    # Read the country page's frontmatter title so the search uses
+    # "United Kingdom" rather than the path slug "unitedkingdom".
     parts = content_path.strip('/').split('/')
     if len(parts) >= 3:
-        country = parts[1].replace('_', ' ')
+        country_md = CONTENT_DIR / parts[0] / f'{parts[1]}.md'
+        if country_md.exists():
+            try:
+                country = frontmatter.load(country_md).metadata.get('title') or parts[1]
+            except Exception:
+                country = parts[1]
+        else:
+            country = parts[1]
+        country = str(country).replace('_', ' ')
         return f'{title} {country}'.strip()
     return title
 

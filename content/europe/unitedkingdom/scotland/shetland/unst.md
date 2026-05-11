@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-10'
 latitude: 60.75952
+loc_type: city
 longitude: -0.896019
+score: 0.5
 title: Unst
 type: location
-score: 0.5
-loc_type: city
 ---
 
 Unst is the northernmost inhabited island in the British Isles. If you want to be somewhere genuinely remote, this is the place. The island is reached by two short ferry crossings — Mainland to Yell, then Yell to Unst.

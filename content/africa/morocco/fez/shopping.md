@@ -1,10 +1,10 @@
 ---
-title: 'Shopping'
+title: "Shopping"
 type: section
 ---
 
-The medina of Fez is one of the great shopping experiences in the world, and it has stayed that way precisely because the city gets fewer tourists than Marrakesh. Prices are lower, the sales pressure is a notch less intense, and the goods are often better — Fez is where much of Morocco's finest leather, ceramics, and metalwork is actually produced. The souks are still organized by trade the way they have been for centuries: a street of brass workers, a lane of fabric sellers, a square for henna and herbal remedies. Haggling is expected everywhere and is not optional; a good starting offer is roughly a third of the first price quoted.
+Fez is Morocco's craft capital and the best place in the country to buy quality handmade goods. The medina is divided into specialised souks — leather near the tanneries, spices around Souk Attarine, wood in the Nejjarine quarter, ceramics near Bab Boujeloud — and the work is genuinely produced here, not imported from China. Quality varies dramatically, and prices are not fixed.
 
-Leather is the city's signature product — bags, belts, jackets, and the soft babouche slippers that every Moroccan owns a pair of. The blue-and-white ceramics known as Fez blue are the other classic buy, along with hand-embroidered textiles, carved cedarwood, and ornate metalwork trays and lanterns. Carpets are a serious trade here, and the dealers in the medina have been doing this for generations; if you are genuinely interested, set aside time and be prepared for lengthy tea-and-carpet sessions.
+The classic purchases are **Fez blue pottery** (the distinctive cobalt-on-white earthenware produced in the kilns south of the city), **babouche slippers**, **leather bags**, **carved cedar**, **hand-knotted carpets**, **kilims**, and **embroidered tablecloths**. For ceramics, the wholesale kilns on the road toward Sefrou sell the same goods as the medina shops for a fraction of the price; a petit taxi there and back costs almost nothing.
 
-One warning: if a local "guide" steers you to a particular shop, the shopkeeper is paying him a commission that gets added to your price. You will get better deals shopping on your own, even if navigating the medina feels bewildering at first. The shops near the main tourist sights (Bab Boujeloud, Chouara Tannery) are the most expensive. Wander deeper into the souks and the prices drop.
+Haggling is expected and prices at tourist-facing stalls routinely start at three to five times the expected final price. The polite approach — express interest, ask the price, offer roughly half, settle somewhere in between — is accepted everywhere. Guides who take you to shops receive a commission on your purchases; this is understood and not necessarily a problem, but it is worth knowing. If you want to shop without a guide's influence, leave them at the door.

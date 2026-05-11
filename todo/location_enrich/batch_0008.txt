@@ -1,0 +1,5 @@
+asia/malaysia/bintulu
+northamerica/canada/britishcolumbia/salmonarm
+europe/unitedkingdom/wales/chepstow
+northamerica/unitedstates/virginia/chantilly
+europe/spain/northernspain/oviedo

@@ -1,23 +1,24 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-05-11'
-image: reconquista.jpg
-image_attribution: Phi-Gastrein
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Cathedral_reconquista.JPG
 latitude: -29.144348
-loc_type: city
 longitude: -59.643773
-score: 0.34
 title: Reconquista
 type: location
+score: 0.34
+loc_type: city
 ---
 
-Reconquista is not a city that pulls in tourists. There are no bright lights, no casinos, no street of restaurants, no theme park. What it offers is small-town Argentina without actually being small — about 70,000 people, in the far north of Santa Fe province, near the Río Paraná.
+Reconquista may not be the big tourist city you would jump at the chance of travelling to. No bright lights, casinos, streets of restaurants or theme parks here. But if you're looking to experience part of "small-town Argentina" while not going too small, Reconquista is a good place to check out.
 
-The town across the river, **Avellaneda**, adds another 25,000 to the local population. Reconquista — *Reco* to everyone who lives here — is laid out on the standard Argentine grid of parallel streets broken up by green plazas. The central one, **Plaza 25 de Mayo**, is where the city's youth congregate, especially during university holidays and *feriados* when students come home. The plaza fills up with friends sitting on car bonnets or the kerb drinking Quilmes and eating hamburgers from a parked food van, before heading out to a club later in the night.
+With a population of 70,000 people Reconquista is small without being scarily so. Nearby Avellaneda is 4km across the river and it's 25,000 residents add to the general population of the area.
 
-Choice is limited. **Chicano**, on the corner of Obligado and Habegger, is the city's main nightclub — recently moved over from Avellaneda. Some of the older clubbers think it has lost the original charm, but it remains the place to dance to cumbia and meet up with friends. **Pancho Villa**, two storeys and reliably packed, draws an older crowd Friday and Saturday and a younger one on Thursdays. The same intersection has a handful of bars and restaurants serving the usual Argentine staples — empanadas, milanesas, pizza — and is a pleasant place for a drink in the evening.
+Reco (as it's fondly known as to the locals) is located in the north of the province of Santa Fe, near the Rio Parana. It is a city traditionally designed with all streets parallel to eachother, interspersed with many green plazas (small squares). The main central plaza is a popular meeting point of the city's youths. In the university holidays and feriados (public holidays) when the students come home, the plaza is full of people doing laps in their cars along the narrow streets, friends sitting near their cars or on the curbside driking a Quilmes (beer) and eating hamburgers from the caravan parked nearby. It is here that they will come before heading out to one of the city's nightclubs.
 
-The stretch of road between Avellaneda and Reconquista fills with walkers and cyclists in summer. The humidity can be brutal, but the ritual is part of life here.
+Here there is little choice. Chicano, located on Calle Obligado and Habegger, is the city's main nightclub. Recently moved from Avellaneda, some of the older clubbers think it has lost it's orignal charm, but it is still a fun place to go to dance the night away and meet up with friends. Here, tourists will experience cumbia music and will learn the dance that is less complicated than salsa, but still a lot of fun. 
+
+Pancho Villa attracts an older crowd on Friday and Saturday nights, but gets very packed on Thursdays with the younger crowd. This two storey club is actually quite small and extremly hot, but is still a lot of fun.
+
+There are a few restaurants and bars around the intersection of Obligado and Habegger - near Chicano. It is nice to come here in the evening to have a drink or enjoy some traditional Argentinian food such as empanadas and milanesas.
+
+The stretch of highway between Avellaneda and Reconquista fills with walkers and cyclists in the summertime who make the most of the warm weather to get some exercise. At times the humidity can be very oppressive leaving anyone who dares go for a walk drenched in sweat, but it is a nice walk all the same.

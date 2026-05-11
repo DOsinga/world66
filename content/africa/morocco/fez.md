@@ -4,10 +4,6 @@ done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
-image: fez.jpg
-image_attribution: Wowan1978
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Leather_tanning_in_Fez,_Morocco.jpg
 latitude: 34.0181
 loc_type: city
 longitude: -5.0078

@@ -4,7 +4,6 @@ longitude: -5.0036
 snippet: French-built modern quarter with terraces, bars, and trains
 tags:
 - things_to_do
-- neighbourhood
 title: Ville Nouvelle
 type: neighbourhood
 ---

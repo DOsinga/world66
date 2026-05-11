@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
+image: torquay.jpg
+image_attribution: jason thomas jasonthomasphotography
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Passion_at_Torquay_(Unsplash).jpg
 latitude: 50.465239
+loc_type: city
 longitude: -3.521136
 score: 0.55
 title: Torquay
 type: location
-loc_type: city
 ---
 
 Torquay is the main resort of the so-called English Riviera, a stretch of South [Devon](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon) coast where the Gulf Stream keeps temperatures mild enough for palm trees to grow along the seafront. The town has nine sandy beaches, several of them holding European Blue Flag awards for water quality, and the harbour fills with sailing boats through the summer.

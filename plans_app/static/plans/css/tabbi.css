@@ -80,6 +80,7 @@ body:has(.tabbi-page)::after {
   grid-template-columns: 1fr;
   grid-template-areas: "main";
   max-width: 100%;
+  padding: 0;
 }
 
 #content:has(.tabbi-page) #main {
@@ -87,11 +88,6 @@ body:has(.tabbi-page)::after {
   padding: 0 32px 64px;
 }
 
-/* Stop pages: no bottom padding, layout fills viewport height */
-#content:has(.plan-stop-layout) #main {
-  padding-bottom: 0;
-  overflow: hidden;
-}
 
 /* ── Nav ──────────────────────────────────────────────────────────────────── */
 
@@ -514,18 +510,19 @@ body:has(.tabbi-page)::after {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 24px;
+  align-items: start;
   min-width: 0;
-  height: calc(100vh - 64px);  /* 64px = tabbi-nav height */
-  overflow: hidden;
 }
 .plan-stop-layout > * { min-width: 0; }
 
 .plan-stop-left {
+  position: sticky;
+  top: 64px;  /* tabbi-nav height */
+  height: calc(100vh - 64px);
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   gap: 0;
-  height: 100%;
-  overflow: hidden;
 }
 .plan-stop-left-header {
   margin-bottom: 10px;
@@ -555,7 +552,6 @@ body:has(.tabbi-page)::after {
   flex: 1;
   min-height: 200px;
   border-radius: 20px;
-  border: none;
   box-shadow: 0 4px 20px rgba(24,10,10,0.1);
 }
 
@@ -594,9 +590,6 @@ body:has(.tabbi-page)::after {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  height: 100%;
-  overflow-y: auto;
-  padding-right: 4px;
 }
 
 .plan-poi-category {

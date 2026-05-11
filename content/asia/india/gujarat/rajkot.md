@@ -1,12 +1,13 @@
 ---
-title: Rajkot
-type: location
-latitude: 22.305326
-longitude: 70.802838
 done:
   location_cleanup: 2026-04-07
-score: 0.36
+  location_enrich: '2026-05-10'
+latitude: 22.305326
 loc_type: city
+longitude: 70.802838
+score: 0.36
+title: Rajkot
+type: location
 ---
 
 Rajkot is the main city of the Saurashtra region, a busy commercial centre that served as the capital of a princely state during British rule. Mahatma Gandhi spent part of his childhood here, and the **Kaba Gandhi No Delo**, the house where he lived, is now a small museum.

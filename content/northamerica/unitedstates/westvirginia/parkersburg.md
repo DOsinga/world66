@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
+image: parkersburg.jpg
+image_attribution: WVhybrid
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Blennerhassett_Mansion_retouched.jpg
 latitude: 39.2667
+loc_type: city
 longitude: -81.5621
 score: 0.32
 title: Parkersburg
 type: location
-loc_type: city
 ---
 
 Parkersburg sits on the Ohio River in the far northwest corner of [West Virginia](/northamerica/unitedstates/westvirginia), where the Little Kanawha River joins the Ohio. It is a small industrial city with an outsized piece of American history anchored in the river beside it.

@@ -1,7 +1,7 @@
 ---
 address: 34 Rue Yves Toudic, 75010 Paris
-latitude: 48.868011
-longitude: 2.363051
+latitude: 48.8712
+longitude: 2.3629
 opening_hours: Mon–Fri 6:45am–8pm; closed Sat–Sun
 snippet: Paris's most celebrated bakery, worth a detour for the croissants alone
 tags:

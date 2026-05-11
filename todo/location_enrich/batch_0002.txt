@@ -1,5 +1,0 @@
-asia/vietnam/halongbay
-northamerica/unitedstates/california/orangecounty/danapoint
-asia/china/yunnanprovince/dali
-asia/india/andhrapradesh/tirupathi_1
-africa/egypt/alexandria

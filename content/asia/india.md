@@ -17,6 +17,7 @@ quick_facts:
 score: 0.31
 title: India
 type: location
+loc_type: country
 ---
 
 *Asia > India*

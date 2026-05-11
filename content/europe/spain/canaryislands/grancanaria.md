@@ -6,6 +6,7 @@ longitude: -15.5474
 title: Gran Canaria
 type: location
 score: 0.68
+loc_type: region
 ---
 
 Gran Canaria packs an unlikely amount of variety into 1,532 square kilometres: volcanic peaks, deep ravines, fertile valleys, and a southern coastline dominated by one of Europe's most famous beach resorts. The island is roughly circular, which means the interior mountains intercept northern clouds and keep the south perpetually sunny — you can swim in January.

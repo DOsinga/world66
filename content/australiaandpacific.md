@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Uluru-Kata_Tjuta_National_Park,_Uluru,_Kuniya_Walk_--_2019_--_3615.jpg
 title: "Australia, Pacific & Antarctica"
 type: location
+loc_type: continent
 ---
 
 This is a vast and varied part of the world — a continent-sized country, a small archipelago of adventure tourism, and dozens of Pacific island nations spread across the largest ocean on earth. What ties them together is distance. Everything here is far from everywhere else, which is precisely what has made it worth coming.

@@ -8,6 +8,7 @@ longitude: 4.821347
 score: 0.58
 title: Texel island
 type: location
+loc_type: region
 ---
 
 Texel is the largest and southernmost of the Dutch Wadden Islands — a 25-kilometre stretch of dunes, beach, heath, and farmland an hour and a half north of Amsterdam. A ferry runs every half hour from [Den Helder](/europe/netherlands/denhelder) across the 4 km Marsdiep channel; the crossing itself takes twenty minutes.

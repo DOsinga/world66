@@ -6,6 +6,7 @@ longitude: -123.7995
 score: 0.55
 title: North Coast
 type: location
+loc_type: region
 ---
 
 The North Coast of California runs from the wine country an hour above San Francisco up to the Oregon border — three hundred miles of cliffs, redwood forest, sea stacks and small fishing towns. It is one of the great drives in the United States: Highway 1 hugs the Pacific from Bodega Bay north, then turns inland to meet US-101, which carries on through the heart of redwood country.

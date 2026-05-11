@@ -7,6 +7,7 @@ longitude: 16.175236
 score: 0.8
 title: Dalmatia
 type: location
+loc_type: region
 ---
 
 Dalmatia is the name for the central and southern stretch of Croatia's Adriatic coast, running roughly from Zadar in the north to Dubrovnik in the south. It is one of the most visited parts of the Mediterranean: a long limestone coastline broken by peninsulas and dotted with hundreds of islands, fronted by clear warm water and backed by the Dinaric Alps.

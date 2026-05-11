@@ -17,6 +17,7 @@ quick_facts:
 title: Uganda
 type: location
 score: 0.38
+loc_type: country
 ---
 
 *Africa > Uganda*

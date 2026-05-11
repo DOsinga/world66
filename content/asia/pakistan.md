@@ -17,6 +17,7 @@ quick_facts:
 title: Pakistan
 type: location
 score: 0.27
+loc_type: country
 ---
 
 *Asia > Pakistan*

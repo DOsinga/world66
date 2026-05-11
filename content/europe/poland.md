@@ -15,6 +15,7 @@ quick_facts:
   Wieliczka Salt Mine: Carved chapels 135 m underground
   European Bison: Last wild herd in Białowieża Forest
 score: 0.55
+loc_type: country
 ---
 
 Poland is one of Europe's most underrated travel destinations — a large country with a rich, often painful history, remarkable cities, and landscapes that range from Baltic beaches to Tatra mountain peaks. It has been rebuilt, reinvented, and reopened to the world over the past few decades, and it rewards travelers who go beyond the obvious.

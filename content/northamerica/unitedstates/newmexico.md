@@ -6,6 +6,7 @@ longitude: -105.8701
 title: New Mexico
 type: location
 score: 0.56
+loc_type: region
 ---
 
 New Mexico calls itself the Land of Enchantment, and for once the tourism slogan is not an exaggeration. This is a state where ancient pueblo dwellings sit beneath enormous skies, where the desert erupts in volcanic lava fields and white gypsum dunes, and where the food will make you sweat in the best possible way. It is unlike anywhere else in the United States.

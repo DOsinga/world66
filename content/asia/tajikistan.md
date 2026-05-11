@@ -17,6 +17,7 @@ quick_facts:
   Mountains Above 3,000m: "93% of the country"
   Pamir Highway Elevation: "Up to 4,655m"
 score: 0.45
+loc_type: country
 ---
 
 Tajikistan is the smallest of the Central Asian republics, and the most mountainous. Over 90 percent of the country is covered by mountains, most of it above 3,000 meters. The Pamirs — the so-called Roof of the World — dominate the east, sharing borders with China and Afghanistan. It is wild, spectacular, and unlike anywhere else in the region.

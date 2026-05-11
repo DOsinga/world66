@@ -6,6 +6,7 @@ longitude: -16.621447
 score: 0.76
 title: Canary Islands
 type: location
+loc_type: region
 ---
 
 The Canary Islands are a Spanish archipelago of seven inhabited volcanic islands in the Atlantic, closer to Morocco than to mainland Spain. The latitude (28°N, about level with southern Florida) and the persistent trade winds give them the gentlest year-round climate in Europe — coastal temperatures bounce between 18°C in January and 25°C in August, with almost no rain on the south coasts of the big islands. That consistency, combined with cheap charter flights from northern Europe, has made the Canaries the continent's winter-sun destination of choice; more than twelve million visitors arrive each year.

@@ -13,6 +13,7 @@ quick_facts:
   Sahara Coverage: "80%"
   Roman Ruins: "7 UNESCO sites"
 score: 0.31
+loc_type: country
 ---
 
 Since the start of the violence, Algeria is not much of a tourist destination. Very few travels still head south over the big routes through the Sahara. These routes were always the main travel attraction, although Algeria has a lot more to offer. Some of the finest Roman ruins in the world, old Arabic cities, good beaches. If things clear up a bit, you should definitely consider going there. A stay in the country will make it easy to understand why the French wanted to stay there so desperately. 

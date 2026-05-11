@@ -19,6 +19,7 @@ quick_facts:
 score: 0.48
 title: Serbia
 type: location
+loc_type: country
 ---
 
 Serbia is a country where East meets West in the most literal sense. Shaped by Romans, Byzantines, Ottomans, and Austro-Hungarians, it has absorbed influences from all of them and turned them into something distinctly its own. The food blends Central European and Turkish traditions. The architecture ranges from Habsburg grandeur in the north to Ottoman mosques in the south. The people are famously hospitable, passionately opinionated, and always ready to pour you another glass of rakija.

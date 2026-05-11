@@ -6,6 +6,7 @@ longitude: -92.007126
 score: 0.54
 title: Louisiana
 type: location
+loc_type: region
 ---
 
 Louisiana is the most culturally distinctive of the fifty states — a place where French, Spanish, African, Native American, and Caribbean influences tangle together into something no other American state can match. It is also the only state whose legal system is based on Napoleonic civil code rather than English common law, a leftover from its time as a French and then Spanish colony before the 1803 Louisiana Purchase sold the whole lot to Jefferson's United States for less than 3 cents an acre.

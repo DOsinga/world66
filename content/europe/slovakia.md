@@ -16,6 +16,7 @@ quick_facts:
   Castles Per Capita: Among the highest in Europe
   Spiš Castle: Largest castle complex in Central Europe
 score: 0.59
+loc_type: country
 ---
 
 Slovakia is a small, landlocked country in the heart of Central Europe that consistently surprises visitors. Its capital [Bratislava](/europe/slovakia/bratislava) sits just 60 km from Vienna, making it one of the most accessible and affordable destinations in the region. But the real draw lies beyond the capital -- in the dramatic peaks of the High Tatras, the medieval mining towns of central Slovakia, and a countryside dotted with more castles per capita than almost anywhere in Europe.

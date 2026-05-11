@@ -14,6 +14,7 @@ quick_facts:
   Coups Since 1975: "20+"
   Known As: The Perfume Islands
 score: 0.42
+loc_type: country
 ---
 
 The Comoros islands sit in the Mozambique Channel between Madagascar and the African mainland, and they are one of the least visited countries on earth. That is a shame and also part of the appeal. This is a place where volcanic peaks rise from turquoise water, the air smells of ylang-ylang and cloves, and the culture is a fascinating blend of African, Arab, Malagasy, and French influences that you will not find anywhere else.

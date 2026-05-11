@@ -17,6 +17,7 @@ quick_facts:
   Number of Islands: "7"
   National Park Visitors per Year: "Fewer than 30,000"
 score: 0.49
+loc_type: country
 ---
 
 American Samoa is a small U.S. territory in the South Pacific — seven islands scattered between the equator and the Tropic of Capricorn, about halfway between Hawaii and New Zealand. It's remote, genuinely beautiful, and almost entirely off the tourist trail.

@@ -17,6 +17,7 @@ quick_facts:
   Bauxite Reserves: largest in the world
   Source of Niger River: Fouta Djallon highlands
 score: 0.22
+loc_type: country
 ---
 
 Guinea is one of West Africa's most rewarding and least visited countries. It has staggering natural beauty -- the sandstone plateaus and waterfalls of the Fouta Djallon highlands, the dense rainforests of the south, and a long Atlantic coastline -- but almost no tourist infrastructure. You come here for adventure, not comfort.

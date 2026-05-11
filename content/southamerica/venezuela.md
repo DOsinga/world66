@@ -15,6 +15,7 @@ quick_facts:
   Angel Falls: "979 m — world's highest waterfall"
   Bird Species: "1,400+ recorded"
 score: 0.34
+loc_type: country
 ---
 
 Venezuela is a country of extraordinary natural richness and profound human difficulty. It sits on the northern coast of South America, bordering [Colombia](/southamerica/colombia) to the west, [Brazil](/southamerica/brazil) to the south, and [Guyana](/southamerica/guyana) to the east, with a Caribbean coastline and over 70 offshore islands. The terrain runs from the Andes in the west through the vast Orinoco plains to ancient tepui highlands in the southeast and tropical delta in the east.

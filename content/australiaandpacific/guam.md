@@ -17,6 +17,7 @@ quick_facts:
   Chamorro Settlement: "3,500+ years"
   Closest Major City: Manila (2,500 km)
 score: 0.54
+loc_type: country
 ---
 
 Guam is the largest island in Micronesia and, in many ways, the odd one out — an American territory in the western Pacific, closer to Manila than to Honolulu, with an indigenous Chamorro culture that predates both. It draws visitors primarily from Japan and South Korea, who come for the beaches, the diving, and the duty-free shopping. The result is a place that feels simultaneously American, Japanese, and Pacific Islander, with a distinct Chamorro identity running underneath all of it.

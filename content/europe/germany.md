@@ -18,6 +18,7 @@ quick_facts:
 score: 0.44
 title: Germany
 type: location
+loc_type: country
 ---
 
 From the High Alps in the South, the Bavarian plain, and the flowing hills of central Germany to the coast of the North and Baltic Sea: it all looks like a miniature train landscape packed with the nicest of old towns, medieval houses, gothic churches and small villages.

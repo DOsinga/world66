@@ -6,6 +6,7 @@ longitude: 3.858481
 title: Cévennes
 type: location
 score: 0.58
+loc_type: region
 ---
 
 The Cévennes are a wild and beautiful mountain region in southern France, part of the Massif Central and protected as a national park. Steep valleys carved by rivers, chestnut forests, and empty uplands make this some of the least populated and most rewarding walking country in France.

@@ -15,6 +15,7 @@ quick_facts:
   Languages: "~140 — most per capita on Earth"
   Land Diving on Pentecost: The original bungee jumping
 score: 0.6
+loc_type: country
 ---
 
 Vanuatu is an archipelago of 83 islands strung across the South West Pacific, roughly midway between Australia and Fiji. It became independent in 1980 after nearly a century of joint British and French rule — an unusual arrangement called the New Hebrides Condominium that left the country with two official European languages, two separate education systems, and an abiding fondness for French bread and kava in equal measure.

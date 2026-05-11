@@ -15,6 +15,7 @@ quick_facts:
   Sark: "No cars allowed — last feudal state in Europe until 2008"
   Status: "British Crown dependencies, not part of the UK"
 score: 0.59
+loc_type: country
 ---
 
 The Channel Islands sit closer to the coast of Normandy than to England — just 14 miles from France at their nearest point — yet they are British Crown dependencies with their own parliaments, legal systems, and tax rules. They are not part of the United Kingdom and not part of the EU, which gives them an unusual autonomy that shapes everything from prices to alcohol policy.

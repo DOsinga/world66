@@ -6,6 +6,7 @@ longitude: -71.655399
 score: 0.5
 title: New Hampshire
 type: location
+loc_type: region
 ---
 
 New Hampshire is the granite-spined heart of northern New England — a small state that punches well above its weight in landscape, history, and stubborn independence. The state motto, "Live Free or Die," is not just stamped on the licence plates; it shows up in the absence of a sales tax, the famously contrarian first-in-the-nation primary every four years, and a general willingness to leave you alone if you return the favour.

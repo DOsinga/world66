@@ -11,6 +11,7 @@ quick_facts:
 score: 0.57
 title: China
 type: location
+loc_type: country
 ---
 
 China is one of the most varied countries on earth. Within its borders you get the Tibetan Plateau, the Gobi Desert, the karst mountains of Guilin, the subtropical forests of Yunnan, and some of the world's most dynamic cities. The sheer scale of the place means no single trip covers it all — and that's part of the appeal.

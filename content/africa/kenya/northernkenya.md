@@ -6,6 +6,7 @@ longitude: 37.5
 done:
   location_cleanup: 2026-04-07
 score: 0.47
+loc_type: region
 ---
 
 North of the equator, Kenya changes character entirely. The fertile highlands give way to semi-arid scrubland, then to true desert — a vast, sun-bleached expanse stretching toward the Ethiopian and Somali borders. This is one of the least-visited parts of Africa, and one of the most compelling for travellers willing to accept its challenges.

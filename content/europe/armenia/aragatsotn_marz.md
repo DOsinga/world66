@@ -6,6 +6,7 @@ longitude: 44.361
 done:
   location_cleanup: 2026-04-07
 score: 0.4
+loc_type: region
 ---
 
 Aragatsotn is dominated by the massive volcanic shield of Mount Aragats, Armenia's highest peak at 4,090 metres. The region stretches from the cool highland pastures where Yezidi shepherds graze their flocks in summer down to the deep Kasagh river gorge lined with medieval monasteries. It is close enough to [Yerevan](/asia/armenia/yerevan) for a day trip, but rich enough to reward a longer stay.

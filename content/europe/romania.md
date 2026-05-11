@@ -15,6 +15,7 @@ quick_facts:
   Danube Delta: "5,165 km² wetland wilderness"
   Painted Monasteries: UNESCO-listed frescoed churches from the 1400s
 score: 0.54
+loc_type: country
 ---
 
 In December 1989, Romania was reborn as a free nation. Now this multifaceted country is welcoming tourists to enjoy a wonderfully varied heritage of traditional culture, scnic splendour and leisure opportunities. A resurgence of endeavour and enthusiasm is reinvigorating the country's tourist facilities to create a holiday destination unique in southern Europe.

@@ -6,6 +6,7 @@ longitude: -3.660779
 score: 0.63
 title: Devon
 type: location
+loc_type: region
 ---
 
 Devon is situated in southern England and is a very beautiful county, famous for many picturesque and varied environments in both coastline and countryside.

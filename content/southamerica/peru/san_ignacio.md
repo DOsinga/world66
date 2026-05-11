@@ -7,6 +7,7 @@ longitude: -78.89563
 score: 0.3
 title: San Ignacio
 type: location
+loc_type: region
 ---
 
 Travel Guide

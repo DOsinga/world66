@@ -6,6 +6,7 @@ longitude: -1.613157
 score: 0.52
 title: Newcastle and North East
 type: location
+loc_type: region
 ---
 
 The North East offers miles of beautiful and unspoiled scenery, a rich

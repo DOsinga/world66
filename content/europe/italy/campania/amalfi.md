@@ -10,6 +10,7 @@ image: amalfi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Amalfi_veduta_dalla_barca.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Anna Nicoletta Menzella
+loc_type: region
 ---
 
 *Europe > Italy > Campania > Amalfi*

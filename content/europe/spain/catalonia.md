@@ -7,6 +7,7 @@ longitude: 1.5209
 score: 0.69
 title: Catalonia
 type: location
+loc_type: region
 ---
 
 Catalonia is the northeastern corner of Spain, pressed against the French border and the Mediterranean, and it feels like its own country — because in many ways it is. The language is Catalan, not Spanish, the culture is distinct, and the political identity is fiercely independent. Visitors who treat it like generic Spain miss the point.

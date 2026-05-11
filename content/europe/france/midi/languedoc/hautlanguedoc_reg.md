@@ -6,6 +6,7 @@ longitude: 2.6
 title: Haut-Languedoc Regional Nature Park
 type: location
 score: 0.54
+loc_type: region
 ---
 
 The Parc Naturel Régional du Haut-Languedoc is one of France's least-known regional parks — and one of its most surprising. Straddling the border of the Hérault and Tarn departments north of Béziers, it covers a wide swathe of low mountains, deep valleys, and dense forest that feels genuinely remote despite being just a couple of hours from the Mediterranean coast.

@@ -16,6 +16,7 @@ quick_facts:
 score: 0.33
 title: Belarus
 type: location
+loc_type: country
 ---
 
 The very word Belarus should inspire visions of beauty and kindness, if it does not, then most likely you have not been there. Belarus has retained its mystery, it has remained virtually closed and unexplored since the fall of Communism. Belarus is little known, little understood, and even less traveled. It is one of the few countries in the former Soviet Union where Lenin still stands and the Soviet symbol, the sickle and hammer, can be found in abundance. It is the only country that still uses the KGB. Powerful forces in Belarus are guiding it forward and forcing it backward at the same time.

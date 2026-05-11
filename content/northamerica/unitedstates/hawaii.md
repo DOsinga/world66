@@ -10,6 +10,7 @@ image: hawaii.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hawaii,_United_States_(Unsplash).jpg
 image_license: CC0
 image_attribution: Blake Wisz blakewisz
+loc_type: region
 ---
 
 Hawaii is unlike anywhere else in the United States. A chain of volcanic islands in the middle of the Pacific Ocean, more than 2,000 miles from the nearest continent, it has developed a culture and landscape that feel like another country entirely. The spirit of aloha is real -- a warmth and openness that comes from centuries of Polynesian tradition blended with waves of immigration from Japan, China, the Philippines, Portugal, and the American mainland.

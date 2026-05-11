@@ -7,6 +7,7 @@ longitude: -6.302346
 score: 0.74
 title: Skye
 type: location
+loc_type: region
 ---
 
 Skye is the largest of the Inner Hebrides, a deeply indented island of 1,650 sq km off the northwest coast of Scotland, connected to the mainland since 1995 by a bridge at Kyle of Lochalsh. The island has been inhabited since the Neolithic period; through most of recorded history it was contested between the MacLeod and MacDonald clans. Bonnie Prince Charlie hid here after Culloden in 1746.

@@ -6,6 +6,7 @@ longitude: -74.404162
 score: 0.36
 title: New Jersey
 type: location
+loc_type: region
 ---
 
 New Jersey is the small, densely populated state across the Hudson from [New York City](/northamerica/unitedstates/newyorkstate/newyork) — perpetually overshadowed by the Manhattan skyline visible from much of its northern half, and reflexively butt of New York jokes about turnpikes, refineries and accent. The clichés cover a state that is, in fact, surprisingly varied: the densest population in the country sharing a small landmass with farmland (the "Garden State" nickname is earned), 130 miles of Atlantic beaches (the "Jersey Shore"), the Pine Barrens (a million-acre coastal pine forest), and a slice of the Appalachian Trail in the northwest.

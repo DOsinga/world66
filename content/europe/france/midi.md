@@ -6,6 +6,7 @@ longitude: 1.434493
 score: 0.51
 title: Midi
 type: location
+loc_type: region
 ---
 
 A justifiably popular destination the region of Provence combines historic sites a warm climate striking scenery and some of the best restaurants in France.

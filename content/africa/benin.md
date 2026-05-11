@@ -14,6 +14,7 @@ quick_facts:
   Birthplace of Voodoo: "West African origin"
   Ethnic Groups: "42"
 score: 0.38
+loc_type: country
 ---
 
 Benin is one of West Africa's most fascinating small countries -- the birthplace of voodoo, the heart of the old Dahomey kingdom, and a major center of the Atlantic slave trade. It packs extraordinary history and culture into a slender strip of land between Togo and Nigeria, running from the palm-lined coast up through savanna to the Atakora mountains in the north.

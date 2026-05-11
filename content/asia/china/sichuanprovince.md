@@ -6,6 +6,7 @@ longitude: 102.5
 done:
   location_cleanup: 2026-04-02
 score: 0.62
+loc_type: region
 ---
 
 Sichuan province is located in the centre of China between [Tibet](/asia/china/tibet), [Yunnan Province](/asia/china/yunnanprovince) and [Xian](/asia/china/xian).

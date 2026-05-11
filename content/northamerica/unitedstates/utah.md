@@ -6,6 +6,7 @@ longitude: -111.714358
 score: 0.78
 title: Utah
 type: location
+loc_type: region
 ---
 
 Utah is a state of extraordinary landscapes and of a single religion. The **Mormon Church** — officially the Church of Jesus Christ of Latter-day Saints — was founded by Joseph Smith in New York in 1830, pushed across the Mid-West by violent persecution, and finally settled in the Salt Lake Valley in 1847 under Brigham Young. Its world headquarters remain in downtown [Salt Lake City](/northamerica/unitedstates/utah/saltlakecity), and Mormons still make up around 60% of the state's population. The effect on everyday life is real: liquor laws are complex, Sunday is quiet, coffee is relatively hard to find in small towns.

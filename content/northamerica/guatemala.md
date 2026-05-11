@@ -15,6 +15,7 @@ quick_facts:
   Volcanoes: "37"
   Living Maya Languages: "21 still spoken today"
 score: 0.6
+loc_type: country
 ---
 
 Guatemala is a small country — roughly the size of Tennessee — that packs in an astonishing range of landscapes, cultures, and history. There are 37 volcanoes, highland lakes of absurd beauty, lowland jungle containing some of the greatest Maya cities ever built, a Pacific coast of black volcanic sand, and a short stretch of Caribbean coast that feels like a different country entirely.

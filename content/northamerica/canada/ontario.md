@@ -7,6 +7,7 @@ longitude: -86.000977
 score: 0.41
 title: Ontario
 type: location
+loc_type: region
 ---
 
 Ontario is Canada's most populous province and, in many ways, its centre of gravity. It borders four of the five Great Lakes and Hudson Bay to the north, stretching from the densely urban south to boreal forest and genuine wilderness that most Canadians have never seen. Two of the country's most visited cities — Toronto and Ottawa — sit here, along with Niagara Falls, the Thousand Islands, and some of the best canoeing lakes on the continent.

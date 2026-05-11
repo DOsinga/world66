@@ -16,6 +16,7 @@ quick_facts:
   Tara River Canyon: "1,300 m deep — Europe's deepest"
   Coastline: "294 km with 117 beaches"
 score: 0.7
+loc_type: country
 ---
 
 Montenegro — meaning "Black Mountain" in Venetian Italian — packs an extraordinary amount of landscape into a country smaller than Connecticut. In a four-hour drive you can move from a medieval walled harbour town on the Adriatic, past a lake that straddles the Albanian border, and up into a high mountain plateau with glacial lakes and one of Europe's deepest river canyons.

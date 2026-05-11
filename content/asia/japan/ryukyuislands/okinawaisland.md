@@ -6,6 +6,7 @@ longitude: 127.911469
 done:
   location_cleanup: 2026-04-07
 score: 0.73
+loc_type: region
 ---
 
 Okinawa is the largest of the Ryukyu Islands and a place unlike anywhere else in Japan. Subtropical climate, turquoise water, coral reefs, and a distinct cultural identity shaped by centuries as the independent Ryukyu Kingdom set it apart from the mainland. The food is different, the music is different, and the pace of life is noticeably slower.

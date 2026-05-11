@@ -16,6 +16,7 @@ quick_facts:
   Nesting Seabirds Per Year: "3 million"
   Oldest Known Wild Bird: Wisdom the albatross, banded 1956
 score: 0.4
+loc_type: country
 ---
 
 Midway Atoll is a small American territory in the north-central Pacific, roughly 1,300 miles northwest of Honolulu. It sits near the far end of the Hawaiian archipelago and consists of three low-lying coral islands — Sand Island, Eastern Island, and Spit Island — surrounded by about 580,000 acres of reef and lagoon. The Hawaiian name for the atoll is Pihemanu, meaning "the loud din of birds," which tells you almost everything you need to know about the place.

@@ -18,6 +18,7 @@ quick_facts:
   Ocean Area: Larger than Western Europe
   Number of Islands: "118"
   Nuclear Tests Conducted: "193 (1966-1996)"
+loc_type: country
 ---
 
 French Polynesia is a scattering of 118 islands and atolls across a stretch of the South Pacific larger than Western Europe. Most of them are tiny, remote, and uninhabited. The ones that are inhabited are, in many cases, extraordinarily beautiful — mountains draped in jungle dropping into turquoise lagoons, encircled by coral reefs full of sharks and manta rays.

@@ -11,6 +11,7 @@ quick_facts:
   Coral Species: "100+"
   Battle of Wake Island: Marines held out 15 days after Pearl Harbor
 score: 0.23
+loc_type: country
 ---
 
 Wake Island is a tiny coral atoll in the central Pacific, about 2,100 nautical miles west of Honolulu. It consists of three islets — Wake, Peale, and Wilkes — arranged around a shallow lagoon. There is no civilian population and no public access. The island is run entirely by the U.S. military.

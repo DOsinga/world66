@@ -6,6 +6,7 @@ longitude: -1.54785
 score: 0.51
 title: Leeds, Sheffield and Yorkshire
 type: location
+loc_type: region
 ---
 
 Yorkshire is England's largest historic county and one of the most rewarding to explore — a combination of post-industrial cities reinventing themselves, expansive moor-and-dale national park country, and a string of small market towns that feel essentially medieval. The accent, the pride, the food (curd tart, Yorkshire pudding, Wensleydale cheese) and the sometimes-belligerent friendliness are all distinctively Yorkshire and not to be confused with anywhere else in England.

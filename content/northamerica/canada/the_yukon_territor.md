@@ -6,6 +6,7 @@ longitude: -138.901269
 title: The Yukon Territory
 type: location
 score: 0.54
+loc_type: region
 ---
 
 The wild, rough, beautiful northwest of [Canada](/northamerica/canada). Approximately 482,000 square kilometres of mountains, lakes, and forest, with a population of around 45,000 — one of the least densely populated places on earth.

@@ -16,6 +16,7 @@ quick_facts:
   Budget Meal: "~$1.50 for pho on the street"
   Motorbikes Registered: "Over 70 million"
   Coastline: "3,400 km"
+loc_type: country
 ---
 
 **Vietnam** is located in South-East Asia. The name of the country has become almost a synonym of the Vietnam War. The history of the country goes back a lot further than 'the war that wasn't won', as the Americans euphemistically call it. Vietnam is actually a country with a long history and ancient traditions. It has many historic sights and old temple.

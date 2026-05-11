@@ -17,6 +17,7 @@ quick_facts:
 title: Saudi Arabia
 type: location
 score: 0.22
+loc_type: country
 ---
 
 *Asia > Saudi Arabia*

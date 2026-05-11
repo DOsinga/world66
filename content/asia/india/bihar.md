@@ -6,6 +6,7 @@ longitude: 85.906508
 score: 0.33
 title: Bihar
 type: location
+loc_type: region
 ---
 
 Bihar is one of India's poorest and most overlooked states, sprawling across the Ganges plain in the country's east. Most travellers treat it as a corridor between Kolkata and Varanasi or a step on the way to Kathmandu — which is a shame, because this flat, densely populated stretch of north India is where Buddhism was born.

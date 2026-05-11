@@ -4,6 +4,7 @@ type: location
 latitude: 39.148
 longitude: 8.296
 score: 0.61
+loc_type: region
 ---
 
 The Isola di San Pietro is a small, beautiful island off the southwestern coast of Sardinia, connected to the mainland by ferry from Portovesme and from Calasetta on the adjacent Isola di Sant'Antioco. The island has one town: [Carloforte](/europe/italy/sardinia/isoladisanpietro/carloforte).

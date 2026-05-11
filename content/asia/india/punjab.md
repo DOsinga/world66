@@ -6,6 +6,7 @@ longitude: 75.500484
 score: 0.43
 title: Punjab
 type: location
+loc_type: region
 ---
 
 Punjab is the heartland of Sikhism and one of the most prosperous states in India. In the streets you will see turbaned, bearded men in traditional dress — a visibly different India from anywhere to the south. The state was partitioned in 1947: the western half, including the old capital of Lahore, became Pakistan, and the new Indian Punjab got a new capital, [Chandigarh](/asia/india/punjab/chandigarh) — a city designed from scratch by Le Corbusier in the 1950s and still one of the great modernist urban experiments in the world.

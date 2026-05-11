@@ -15,6 +15,7 @@ quick_facts:
   Shipwrecks: "300+ wrecks in surrounding waters"
   Location: "1,070 km east of North Carolina — not Caribbean"
 score: 0.69
+loc_type: country
 ---
 
 Bermuda is a small British Overseas Territory in the North Atlantic, about 1,070 km east of Cape Hatteras, North Carolina. It is not in the Caribbean — it sits well north of the Caribbean island chain — but it shares the warm, turquoise water and relaxed pace. The island chain stretches roughly 35 km from end to end and is just 3 km wide at its broadest. Everything is close together, and getting around is half the pleasure.

@@ -6,6 +6,7 @@ longitude: -1.2
 score: 0.45
 title: Leicester, Nottingham and East Midlands
 type: location
+loc_type: region
 ---
 
 The East Midlands is the part of England most travellers skip, which is exactly why it rewards a visit. The flat farmland and quiet market towns hide some of the country's strangest stories: a king found under a car park, a forest outlaw who refuses to die, and a sandstone honeycomb of caves running under a city centre. Add the moors and white-edged dales of the Peak District on the western edge and you have a region that earns its keep without ever shouting about it.

@@ -6,6 +6,7 @@ longitude: 9.95
 done:
   location_cleanup: 2026-04-02
 score: 0.54
+loc_type: region
 ---
 
 Lunigiana is the quiet, hilly corner of northern Tuscany that most visitors drive straight past on their way to Florence or the Cinque Terre. Their loss. The region is a patchwork of medieval hill villages, chestnut forests, and river valleys, with a food culture that owes as much to nearby Liguria and Emilia-Romagna as it does to Tuscany.

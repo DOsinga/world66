@@ -15,6 +15,7 @@ quick_facts:
   Mud Volcanoes: "More than any other country — about 350"
   Land of Fire: "Natural gas flames have burned for millennia at Yanar Dag"
 score: 0.32
+loc_type: country
 ---
 
 Azerbaijan is a small country on the Caspian Sea. Until 1991 it was part of the Soviet Union. It borders on [Armenia](/europe/armenia), [Georgia](/northamerica/unitedstates/georgia), [Russia](/europe/russia) and [Iran](/asia/iran), but culturally speaking it probably has the closest ties with Turkey. The Azeri language is a lot like an archaic form of Turkish. Iran has a large Azeri Community as well.

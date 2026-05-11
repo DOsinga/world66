@@ -6,6 +6,7 @@ longitude: 5.5
 score: 0.37
 title: East France
 type: location
+loc_type: region
 ---
 
 Eastern France gathers five historical provinces along the country's borders with Belgium, Luxembourg, Germany, and Switzerland. Each has a distinct landscape and a distinct identity, and together they form one of the most rewarding parts of France for travellers who want a slower, less-obvious trip.

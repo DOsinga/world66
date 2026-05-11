@@ -6,6 +6,7 @@ longitude: -1.333333
 title: Shetland
 type: location
 score: 0.56
+loc_type: region
 ---
 
 Shetland is an archipelago of over 100 islands at the very top of the British Isles, closer to Norway than to most of [Scotland](/europe/unitedkingdom/scotland). The landscape is treeless and windswept — low, rolling moorland meeting dramatic cliffs and white sand beaches. The light in summer, when it barely gets dark, is extraordinary.

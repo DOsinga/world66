@@ -6,6 +6,7 @@ longitude: 76.416456
 score: 0.47
 title: Maharashtra
 type: location
+loc_type: region
 ---
 
 Maharashtra is India's second most populous state and one of its most diverse — a vast territory that stretches from the frenetic energy of Mumbai on the Arabian Sea coast, east across the Deccan Plateau to the edge of Vidarbha. It has ancient cave temples, fort-studded hills, a long and dramatic coastline, and a culture that runs from Bollywood glamour to traditional Warli art.

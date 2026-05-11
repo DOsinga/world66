@@ -12,14 +12,14 @@
    - Smaller place: **the real highlights**, however many that is
 
 4. **Gather POI candidates** from all three sources — don't skip any of them:
-   - `python3 tools/wiki_geosearch.py <lat> <lng> --radius 5000 --limit 25` — Wikipedia geo-tagged articles near the city
-   - `python3 tools/grep_obscura.py <country> <city>` — Atlas Obscura entries (off the beaten track)
+   - `python3 tools/wiki_geosearch.py <lat> <lng> --radius 5000 --limit 25 --json` — Wikipedia geo-tagged articles near the city. **Use `--json`** so you get the `lat`/`lon` per result, not just distance. Use those coordinates when writing POIs.
+   - `python3 tools/grep_obscura.py <country> <city>` — Atlas Obscura entries (off the beaten track). **Use these for inspiration only** — they identify worthwhile places to cover, but do not copy or paraphrase Atlas Obscura prose. Write the POI text from your own knowledge or independent research. Atlas Obscura content is copyrighted.
    - Your own knowledge or a web search to fill remaining gaps to the target
 
 5. **Write POI files** at `content/<path>/<slug>.md` (flat — POIs live as siblings to the section files, not in section subdirectories, per LOCATIONS.md):
    - Each POI: at least two paragraphs of body text; longer for major sights
    - `tags:` includes the section tag (`things_to_do`, `eating_out`, etc.) and any category tags (`sight`, `museum`, `restaurant`, …)
-   - `latitude` and `longitude` set — cross-check coordinates against the Wikipedia search or OSM
+   - `latitude` and `longitude` set — **take them from the `wiki_geosearch --json` output** when the place appears there. Do not invent coordinates from memory: a wrong coordinate puts the POI in the wrong place on the map. If the place is not in the Wikipedia results, look it up on OpenStreetMap or skip the POI.
    - For major sights with the `things_to_do` tag, add a `story:` field — 2–4 sentences, specific, surprising, accurate
 
 6. **Add neighbourhood POIs** for large cities:

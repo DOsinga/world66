@@ -1465,6 +1465,7 @@ body:has(.tabbi-page)::after {
   width: 100%;
   height: 220px;
   border-radius: 14px;
+  margin-top: 48px;
   margin-bottom: 20px;
   background: #e8e4de;
   background-size: cover;

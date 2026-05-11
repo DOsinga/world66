@@ -6,6 +6,7 @@ longitude: -65.4401
 title: Vieques
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Vieques is a small island off the east coast of Puerto Rico, about a 30-minute ferry ride from Ceiba. For decades it was used as a US Navy bombing range, which kept most of the island undeveloped. Since the Navy left in 2003, large sections have been turned into the Vieques National Wildlife Refuge, and the island has become one of the Caribbean's most appealing low-key destinations.

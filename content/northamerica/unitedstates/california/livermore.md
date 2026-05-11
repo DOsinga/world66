@@ -6,6 +6,7 @@ longitude: -121.768053
 title: Livermore
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Livermore sits at the eastern edge of the San Francisco Bay Area, in a sun-baked valley that feels a world away from the fog and tech campuses to the west. It is best known for two things: wine and science. The Livermore Valley is one of California's oldest wine regions, with dozens of wineries open for tastings along Tesla Road and Mines Road — less crowded and less expensive than Napa, and producing increasingly good results.

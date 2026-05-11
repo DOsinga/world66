@@ -4,6 +4,7 @@ longitude: -90.176701
 score: 0.35
 title: Metairie
 type: location
+loc_type: city
 ---
 
 Metairie is the largest community in Jefferson Parish and the most populous suburb of New Orleans, sprawling along the southern shore of Lake Pontchartrain. It is not a destination in its own right for most travelers, but if you are visiting New Orleans, you may well find yourself here for the food. Many locals will tell you that some of the best restaurants in the metro area are actually in Metairie, where rents are lower and parking is easier.

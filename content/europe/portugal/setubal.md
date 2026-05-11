@@ -6,6 +6,7 @@ longitude: -8.893234
 title: Setúbal
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Setúbal is a working port city on the estuary of the River Sado, about 50 kilometres south of [Lisbon](/europe/portugal/lisbon). It lacks the postcard prettiness of the Algarve, but that is part of its appeal — this is a real Portuguese city where fishing boats still unload at the quay and the restaurants serve some of the best fresh fish in the country. The local speciality is choco frito (fried cuttlefish), and you will find it everywhere.

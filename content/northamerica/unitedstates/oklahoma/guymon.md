@@ -6,6 +6,7 @@ longitude: -101.481549
 title: Guymon
 type: location
 score: 0.28
+loc_type: city
 ---
 
 Guymon is the largest town in the Oklahoma Panhandle, with about 12,000 people, and serves as the commercial center for a vast stretch of flat, wind-scoured High Plains. Texas County, despite its name, is firmly in [Oklahoma](/northamerica/unitedstates/oklahoma), and Guymon sits roughly in its middle, surrounded by cattle feedlots and irrigated farmland.

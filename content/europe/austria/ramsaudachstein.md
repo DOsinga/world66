@@ -6,6 +6,7 @@ longitude: 13.619276
 title: Ramsau / Dachstein
 type: location
 score: 0.68
+loc_type: city
 ---
 
 Ramsau am Dachstein is a mountain village in the Styrian Alps, spread across a sunny plateau at around 1,100 metres with the massive Dachstein glacier looming behind it. The setting is spectacular — green meadows in front, sheer limestone walls behind — and the village has managed to stay genuinely Alpine without tipping into theme-park territory.

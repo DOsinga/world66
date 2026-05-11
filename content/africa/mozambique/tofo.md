@@ -6,6 +6,7 @@ longitude: 35.547171
 title: Tofo
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Tofo Beach, about 22 km east of [Inhambane](/africa/mozambique/inhambane), is one of Mozambique's most visited destinations and the undisputed capital of whale shark diving. The beach is a broad crescent of white sand, the surf is consistent, and the marine life in the bay is extraordinary.

@@ -6,6 +6,7 @@ longitude: 6.729707
 title: Asaba, Delta State
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Asaba is the capital of Delta State, perched on the western bank of the River Niger in southern Nigeria. The Niger Bridge connecting Asaba to Onitsha on the eastern bank is one of Nigeria's most important crossings — a landmark that links the west and east of the country.

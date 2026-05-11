@@ -6,6 +6,7 @@ longitude: -6.8278
 title: Mazagón
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Mazagón is a low-key beach resort 16 km southeast of Huelva, less developed than its neighbour Matalascañas and all the better for it. The coastline here runs along the edge of the Parque Nacional de Doñana, with long stretches of sand backed by pine woods.

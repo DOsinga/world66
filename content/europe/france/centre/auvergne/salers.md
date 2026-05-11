@@ -6,6 +6,7 @@ longitude: 2.494343
 title: Salers
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Salers, situated north and east of Aurillac, is an ancient town at the top of a hill. Visitors park below and walk up — certainly no hardship for the majority.

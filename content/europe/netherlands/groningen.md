@@ -12,6 +12,7 @@ longitude: 6.568008
 score: 0.54
 title: Groningen
 type: location
+loc_type: city
 ---
 
 Groningen is located in the North of the Netherlands. It is quite a charming city, although many the historic centre was scarred both in the second World War and in the rebuilding process that followed the war.

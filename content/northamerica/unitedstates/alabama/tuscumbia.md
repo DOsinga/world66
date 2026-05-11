@@ -7,6 +7,7 @@ longitude: -87.70253
 score: 0.34
 title: Tuscumbia
 type: location
+loc_type: city
 ---
 
 Tuscumbia is a small town in the Shoals area of northwest Alabama with a historic downtown full of family-owned shops and buildings that have stood for over a century. It is best known as the birthplace of Helen Keller.

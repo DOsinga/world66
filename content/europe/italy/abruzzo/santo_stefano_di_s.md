@@ -6,6 +6,7 @@ longitude: 13.6442
 title: Santo Stefano di Sessanio
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Santo Stefano di Sessanio is one of the most beautiful hill villages in Abruzzo, perched at about 1,250 metres on the slopes of the Gran Sasso massif, roughly 30 kilometres from L'Aquila. The village is built almost entirely of pale stone and has been carefully restored -- in places the streets narrow to barely a shoulder's width as they thread between medieval towers and arched passageways.

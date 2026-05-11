@@ -5,6 +5,7 @@ latitude: 21.5
 longitude: -71.52
 title: South Caicos
 type: location
+loc_type: city
 ---
 
 South Caicos is the fishing capital of the Turks and Caicos — a small, windswept island where the economy still revolves around conch and lobster rather than tourism. The main settlement, Cockburn Harbour, has a quiet, working-harbour feel that is rare in the modern Caribbean.

@@ -6,6 +6,7 @@ longitude: -70.697
 title: Santiago de los Caballeros
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Santiago de los Caballeros is the second largest city in the [Dominican Republic](/northamerica/dominicanrepublic) and the cultural capital of the Cibao valley. Set in the fertile northern interior, Santiago is the heart of Dominican tobacco country — the surrounding plantations produce some of the world's finest cigars, and you can visit factories to watch the process from leaf to finished product.

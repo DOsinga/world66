@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Blue Star Cafe
 type: location
+loc_type: city
 ---
 
 The Blue Star Cafe was a casual dining spot on South Virginia Street in [Reno](/northamerica/unitedstates/nevada/reno), serving a straightforward American menu. Located at 6350 S Virginia St, it was a neighborhood restaurant away from the casino strip, catering to locals rather than tourists.

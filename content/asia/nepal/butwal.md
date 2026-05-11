@@ -6,6 +6,7 @@ longitude: 83.465767
 score: 0.37
 title: Butwal
 type: location
+loc_type: city
 ---
 
 Butwal is a busy commercial city in the western Terai, the flat lowland strip along Nepal's southern border with India. It serves as the main transport hub for western Nepal and is the closest significant city to Lumbini, the birthplace of the Buddha, about 95 km to the southwest.

@@ -11,6 +11,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 done:
   country_cleanup: 2026-03-29
 score: 0.61
+loc_type: city
 ---
 
 Saint-Martin is the French half of a 37-square-mile island it shares peacefully with the Dutch territory of Sint Maarten. Together they form the smallest landmass in the world divided between two sovereign nations. The French side is slightly larger — 21 square miles to the Dutch 16 — and holds the capital Marigot and the gastronomic hub of Grand Case.

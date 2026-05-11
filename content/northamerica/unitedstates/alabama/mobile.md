@@ -6,6 +6,7 @@ longitude: -88.0438
 title: Mobile
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Mobile is Alabama's only port city and its oldest. It was the original capital of French Louisiana, and that heritage shows -- the city has a distinctly different feel from the rest of the state, part Southern, part Cajun, with wrought-iron balconies and live oaks draped in Spanish moss.

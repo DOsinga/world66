@@ -6,6 +6,7 @@ longitude: -103.348683
 title: Maruata
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Maruata is a tiny fishing village hidden along the Michoacan coast, known mainly to backpackers, campers, and Mexican students willing to trade comfort for one of the most beautiful and remote beaches on the Pacific coast of Mexico.

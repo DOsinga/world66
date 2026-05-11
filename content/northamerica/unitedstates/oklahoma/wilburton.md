@@ -6,6 +6,7 @@ longitude: -95.309781
 title: Wilburton
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Located in Latimer County in southeastern Oklahoma, Wilburton is a city of almost 3,000 people nestled at the end of the San Bois mountain range. It is home to Eastern Oklahoma State College.

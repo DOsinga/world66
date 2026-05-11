@@ -6,6 +6,7 @@ longitude: 8.5444
 title: Celle Ligure
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Celle Ligure is a small beach resort on the Ligurian Riviera di Ponente, about 30km west of Genoa, tucked into the bay between Cape Celle and Cape Olmo. The bay faces almost due south, which gives it sheltered water and a long sandy beach — rare on this stretch of coast, where most towns make do with pebbles.

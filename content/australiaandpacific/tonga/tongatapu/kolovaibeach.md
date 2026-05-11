@@ -6,6 +6,7 @@ longitude: -175.3552
 title: Kolovai Beach
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Kolovai Beach is a long stretch of sand on the western coast of [Tongatapu](/australiaandpacific/tonga/tongatapu), about 30 minutes' drive from Nuku'alofa. The beach is quieter than the more popular spots closer to the capital, with calm shallow water good for swimming and snorkelling over patches of reef. Sunsets from here are superb, looking out across open ocean toward nothing but Fiji, a thousand kilometres away.

@@ -8,6 +8,7 @@ longitude: 80.2475
 score: 0.63
 title: Unawatuna
 type: location
+loc_type: city
 ---
 
 Unawatuna is the beach that everyone in southern Sri Lanka will point you to first. A crescent of golden sand curves around a sheltered bay just five kilometres east of [Galle](/asia/srilanka/galle), protected by a reef that keeps the water calm enough for swimming most of the year. It is smaller and more laid-back than [Hikkaduwa](/asia/srilanka/hikkaduwa) further up the coast, and that is exactly the appeal.

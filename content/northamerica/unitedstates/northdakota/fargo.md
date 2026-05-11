@@ -6,6 +6,7 @@ longitude: -96.7898
 title: Fargo
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Fargo is far more interesting than its reputation suggests. The largest city in [North Dakota](/northamerica/unitedstates/northdakota) sits on the Red River across from Moorhead, [Minnesota](/northamerica/unitedstates/minnesota), and has grown into a genuinely lively mid-sized city — one that punches well above its weight in dining, nightlife, and arts for a place this far from anywhere.

@@ -6,6 +6,7 @@ longitude: -5.9277
 score: 0.59
 title: Belfast
 type: location
+loc_type: city
 ---
 
 Belfast has transformed itself from a city defined by conflict to one of the most interesting destinations in the British Isles. The Troubles left deep scars — the peace walls, the murals, the sectarian geography — but they also gave Belfast a resilience and dark humour that makes it unlike anywhere else in the UK or Ireland.

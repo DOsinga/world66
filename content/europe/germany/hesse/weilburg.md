@@ -6,6 +6,7 @@ longitude: 8.265925
 score: 0.45
 title: Weilburg
 type: location
+loc_type: city
 ---
 
 Weilburg is a small town on a dramatic loop of the Lahn river in Hesse, with a baroque Schloss perched on the ridge above the water. The palace, once the residence of the Counts of Nassau-Weilburg, has terraced gardens cascading down the hillside to the river and is one of the finest baroque ensembles in the region.

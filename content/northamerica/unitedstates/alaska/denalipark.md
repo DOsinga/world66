@@ -6,6 +6,7 @@ longitude: -148.719587
 title: Denali National Park
 type: location
 score: 0.69
+loc_type: city
 ---
 
 Denali National Park protects six million acres of Alaskan wilderness anchored by Denali itself — at 6,190 metres, the highest peak in North America. The scale is hard to overstate: the park is larger than the state of New Hampshire, and only a single road penetrates it.

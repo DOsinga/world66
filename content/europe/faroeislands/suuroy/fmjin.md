@@ -6,6 +6,7 @@ longitude: -6.87927
 title: Fámjin
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Fámjin is one of only two villages on the wild west coast of Suðuroy, the southernmost island in the Faroe Islands. The high vertical sea cliffs that line this coast make habitation almost impossible — Fámjin occupies one of the rare sheltered spots.

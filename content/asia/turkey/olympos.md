@@ -6,6 +6,7 @@ longitude: 30.473564
 title: Olympos
 type: location
 score: 0.6
+loc_type: city
 ---
 
 Olympos is a backpacker favourite on the Lycian coast of [Turkey](/asia/turkey), set in a forested valley that runs down to a long pebble beach. The ruins of ancient Olympos — Lycian tombs, a Roman theatre, bath houses — are scattered through the undergrowth along the stream, giving the place an Indiana Jones atmosphere.

@@ -6,6 +6,7 @@ longitude: -1.76165
 title: Hendaye
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Hendaye is the last town in France before Spain, sitting at the mouth of the Bidasoa river where it empties into the Bay of Biscay. It has one of the finest beaches on the French Basque coast — a long, wide crescent of sand that stretches for over three kilometres, shallow enough for families and sheltered enough that the waves rarely get rough.

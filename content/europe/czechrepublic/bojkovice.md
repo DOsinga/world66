@@ -6,6 +6,7 @@ longitude: 17.814835
 title: Bojkovice
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Bojkovice is a small town of about 4,000 people in the Zlín Region of eastern Moravia, tucked into the foothills of the White Carpathians near the Slovak border. The town's main landmark is Nový Světlov Castle, a neo-Gothic chateau perched on a wooded hill above the center. Built in the late 19th century on the ruins of a medieval fortress, it now serves as a cultural center and hosts exhibitions and events throughout the year.

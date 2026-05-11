@@ -6,6 +6,7 @@ longitude: 19.692085
 title: Kecskemét
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Kecskemét sits right in the heart of the Great Hungarian Plain, roughly halfway between Budapest and Szeged. It is the county seat of Bács-Kiskun, Hungary's largest county, and has long thrived as a market town surrounded by orchards and farmland. The city is famous for its apricot pálinka, a fiery fruit brandy that has been distilled here for centuries and remains a point of genuine local pride.

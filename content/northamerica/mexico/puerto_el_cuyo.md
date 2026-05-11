@@ -6,6 +6,7 @@ longitude: -87.674312
 title: Puerto El Cuyo
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Puerto El Cuyo is a small fishing village on the northern coast of the Yucatán Peninsula, about two hours from Cancún and Mérida. It sits on a narrow strip of land between the Gulf of Mexico and a series of coastal lagoons, with long, largely empty beaches that stretch in both directions.

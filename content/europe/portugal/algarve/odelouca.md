@@ -6,6 +6,7 @@ longitude: -8.513188
 title: Odelouca
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Odelouca is a rural area in the hills of the central [Algarve](/europe/portugal/algarve), far removed from the package-holiday coast. The Odelouca Dam, completed in 2012, created a large reservoir that supplies much of the Algarve's drinking water, and the valley around it has become one of the best birdwatching spots in southern Portugal. Bonelli's eagles, Egyptian vultures, and Iberian azure-winged magpies are all present in the area.

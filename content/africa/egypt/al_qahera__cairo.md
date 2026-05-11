@@ -8,6 +8,7 @@ longitude: 31.34535
 score: 0.65
 title: Al Qahera - Cairo
 type: location
+loc_type: city
 ---
 
 Travel Guide

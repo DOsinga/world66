@@ -6,6 +6,7 @@ longitude: -72.103319
 score: 0.45
 title: Chillán
 type: location
+loc_type: city
 ---
 
 Chillán is a mid-sized city in south-central Chile, the capital of Ñuble Region, known for two things: it was the birthplace of Bernardo O'Higgins, Chile's independence hero, and it is the gateway to the Termas de Chillán, one of Chile's best hot springs and ski resorts.

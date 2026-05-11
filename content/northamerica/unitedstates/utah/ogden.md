@@ -7,6 +7,7 @@ longitude: -111.973843
 score: 0.43
 title: Ogden
 type: location
+loc_type: city
 ---
 
 Ogden sits where the Wasatch Mountains meet the Great Basin, a railroad town that grew up rough and never quite smoothed out all its edges. For decades it was the junction where transcontinental trains changed crews, and that history of movement and commerce still shapes the place. Historic 25th Street, once notorious for its saloons and gambling dens, is now lined with restaurants, brewpubs, and shops — but the old brick buildings still have character the suburbs cannot match.

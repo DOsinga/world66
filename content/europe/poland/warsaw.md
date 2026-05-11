@@ -7,6 +7,7 @@ longitude: 21.071149
 score: 0.61
 title: Warsaw
 type: location
+loc_type: city
 ---
 
 Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, with a history so extreme that its traces are everywhere.

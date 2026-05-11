@@ -6,6 +6,7 @@ longitude: -74.736192
 title: Honda
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Honda is a small colonial town in central Colombia, in the department of Tolima. Sitting on the banks of the Magdalena River, it was once one of the country's most important trading ports — the point where goods were transferred between river boats and mule trains heading to Bogotá.

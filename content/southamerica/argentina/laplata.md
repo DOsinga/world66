@@ -6,6 +6,7 @@ longitude: -57.953764
 title: La Plata
 type: location
 score: 0.46
+loc_type: city
 ---
 
 La Plata is one of the great planned cities of the Americas. Founded in 1882 as the new capital of Buenos Aires province, it was laid out on a perfect grid of broad avenues intersected by diagonal boulevards, with a public park or plaza every six blocks. The result is a city that feels spacious and geometric in a way that Buenos Aires proper never does.

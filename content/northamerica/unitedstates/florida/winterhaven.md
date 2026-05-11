@@ -5,6 +5,7 @@ latitude: 28.0222
 longitude: -81.7329
 title: Winter Haven
 type: location
+loc_type: city
 ---
 
 Winter Haven is a city of about 50,000 in Polk County, Florida, situated in the heart of the state between Tampa and Orlando on the Chain of Lakes — a series of interconnected lakes linked by canals. The area was famous for water skiing tourism through much of the 20th century, and LEGOLAND Florida, which opened in 2011 on the former site of the Cypress Gardens theme park, is now the city's main attraction.

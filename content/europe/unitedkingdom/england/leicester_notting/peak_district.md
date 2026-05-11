@@ -6,6 +6,7 @@ longitude: -1.727034
 done:
   location_cleanup: 2026-04-10
 score: 0.59
+loc_type: feature
 ---
 
 The Peak District was England's first national park, designated in 1951, and it remains one of the most visited in the world — largely because it sits at the centre of a ring of major cities. Manchester, Sheffield, Derby, Nottingham, and Leicester all lie within an hour of the park boundary, which makes it the primary green escape for millions of people and, on summer weekends, notably crowded in the popular spots.

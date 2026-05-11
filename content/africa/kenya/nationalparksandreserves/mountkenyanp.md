@@ -6,6 +6,7 @@ longitude: 37.3084
 done:
   location_cleanup: 2026-04-05
 score: 0.66
+loc_type: city
 ---
 
 Mount Kenya, at 5,199 metres, is the second-highest peak in Africa, after Kilimanjaro across the border in Tanzania. Unlike Kili, it is a technical climb to its two summit peaks — Batian and Nelion — and only mountaineers reach them. But the third summit, Point Lenana at 4,985 metres, is a non-technical trek that anyone reasonably fit and acclimatised can do, and it is one of the great high-altitude walks in East Africa.

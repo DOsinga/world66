@@ -6,6 +6,7 @@ longitude: 7.686762
 title: Åndalsnes
 type: location
 score: 0.66
+loc_type: city
 ---
 
 Åndalsnes sits at the end of the Romsdal valley where the river meets the Romsdalsfjord, surrounded by some of Norway's most dramatic mountain scenery. It is a small town — more a base than a destination — but the surrounding landscape more than compensates.

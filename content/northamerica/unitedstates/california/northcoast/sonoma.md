@@ -6,6 +6,7 @@ longitude: -122.458
 title: Sonoma
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Sonoma County is California wine country without the polish and price tag of neighbouring [Napa](/northamerica/unitedstates/california/northcoast/napa). The landscape rolls from the Pacific coast through redwood forests and into sun-drenched valleys planted with pinot noir and chardonnay. Small towns like Healdsburg, Sebastopol, and Guerneville each have their own character, and the tasting rooms tend to be friendlier and less crowded than what you will find across the hills to the east.

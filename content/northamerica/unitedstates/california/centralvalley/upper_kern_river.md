@@ -6,6 +6,7 @@ longitude: -118.478468
 title: Upper Kern River
 type: location
 score: 0.44
+loc_type: feature
 ---
 
 The Upper Kern River runs south from the high Sierra Nevada through Sequoia National Forest before emptying into Lake Isabella. The canyon it carves — steep-walled and wild — is one of California's premier whitewater destinations, drawing kayakers and rafters throughout spring and early summer when snowmelt swells the river.

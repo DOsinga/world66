@@ -6,6 +6,7 @@ longitude: -75.49689
 title: Mont-Laurier
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Mont-Laurier is a small town about three hours' drive north of Montreal, serving as the administrative capital of the Hautes-Laurentides region in Quebec. Surrounded by boreal forest, lakes, and the Laurentian Mountains, it draws visitors who come for the outdoor life rather than urban attractions.

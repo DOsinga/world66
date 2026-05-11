@@ -6,6 +6,7 @@ longitude: 20.4183
 title: Novi Beograd
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Novi Beograd (New Belgrade) is the modern municipality across the Sava river from Belgrade's old centre. Built largely from the late 1940s onward as a planned socialist city, it is a grid of broad boulevards and monumental residential blocks that has been transformed in recent decades by commercial development — shopping malls, office towers, and the Arena, Belgrade's largest concert and sports venue.

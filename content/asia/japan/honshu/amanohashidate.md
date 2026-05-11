@@ -6,6 +6,7 @@ longitude: 135.190638
 title: Amanohashidate
 type: location
 score: 0.66
+loc_type: city
 ---
 
 Amanohashidate — the "Bridge to Heaven" — is one of the Nihon Sankei, the Three Great Views of [Japan](/asia/japan). It is a 3.6 km pine-covered sand spit stretching across Miyazu Bay on the northern coast of Kyoto Prefecture.

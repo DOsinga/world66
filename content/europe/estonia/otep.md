@@ -6,6 +6,7 @@ longitude: 26.49606
 title: Otepää
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Otepää is a small town in southern [Estonia](/europe/estonia) that bills itself as the country’s "winter capital." Set among the rolling hills of the Otepää Uplands — the highest ground in the Baltics, though still modest by most standards — it is Estonia’s main winter sports centre.

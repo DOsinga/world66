@@ -6,6 +6,7 @@ longitude: 72.0451
 title: Mardan
 type: location
 score: 0.28
+loc_type: city
 ---
 
 Mardan is a city in Khyber Pakhtunkhwa province, about 70 kilometres northeast of [Peshawar](/asia/pakistan/peshawar) on the Peshawar-Swat road. It is the second-largest city in the province after Peshawar and serves as a commercial hub for the surrounding agricultural plain.

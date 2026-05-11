@@ -6,6 +6,7 @@ longitude: 12.176448
 title: Pomposa
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Pomposa is a beautiful old Benedictine abbey in the Po Delta, about 50 km north of [Ravenna](/europe/italy/emiliaromagna/ravenna). Founded in the sixth century, the abbey became one of the most important centres of learning in medieval Italy. It was here that the monk Guido d'Arezzo developed the modern system of musical notation in the eleventh century, giving the world the do-re-mi scale that is still used today.

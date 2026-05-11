@@ -6,6 +6,7 @@ longitude: -61.0917
 title: Schoelcher
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Schoelcher is the first town you hit heading north along the coastal road from [Fort-de-France](/northamerica/martinique/fortdefrance), and it functions essentially as the capital's beach suburb. Named after Victor Schoelcher, who championed the abolition of slavery in the French colonies, the town is home to the University of the French West Indies and a string of small beaches that are popular with locals on weekends.

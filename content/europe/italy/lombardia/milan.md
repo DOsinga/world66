@@ -11,6 +11,7 @@ longitude: 9.189635
 score: 0.75
 title: Milan
 type: location
+loc_type: city
 ---
 
 Milan is the biggest city of North Italy. The powerhouse of the country and one of the most stylish cities of the polanet. 

@@ -10,6 +10,7 @@ longitude: -8.9745
 score: 0.51
 title: Tafraoute
 type: location
+loc_type: city
 ---
 
 Tafraoute is a laid-back mountain town in Morocco's Anti-Atlas, east of Tiznit and southeast of Agadir. After hours of barren landscape, the cool air drifting up from the palm grove at the edge of town feels like a reward. The granite peaks and lunar rock formations surrounding the town are spectacular — pink and orange at sunset, otherworldly at any hour.

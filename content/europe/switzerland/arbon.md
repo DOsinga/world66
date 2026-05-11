@@ -6,6 +6,7 @@ longitude: 9.430403
 title: Arbon
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Arbon is a small town on the southern shore of Lake Constance in the canton of Thurgau. Its old town sits on a promontory jutting into the lake, with the medieval Schloss Arbon and a cluster of half-timbered houses around it. The lakeside promenade is one of the prettiest on the Swiss side of the Bodensee.

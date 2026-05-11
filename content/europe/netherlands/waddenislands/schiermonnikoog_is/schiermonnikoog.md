@@ -11,6 +11,7 @@ longitude: 6.203772
 score: 0.52
 title: Schiermonnikoog
 type: location
+loc_type: city
 ---
 
 Schiermonnikoog is the smallest inhabited island in the Dutch Wadden chain and arguably the most peaceful. Cars are banned for visitors — you get around by bicycle or on foot, and the silence is striking after the ferry from Lauwersoog docks at the small harbour.

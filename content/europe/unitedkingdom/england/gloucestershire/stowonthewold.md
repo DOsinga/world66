@@ -6,6 +6,7 @@ longitude: -1.723015
 title: Stow-on-the-Wold
 type: location
 score: 0.62
+loc_type: city
 ---
 
 Stow-on-the-Wold is one of the most famous of the Cotswold towns, perched at the highest point on the ancient Fosse Way in northeastern Gloucestershire. The large market square — once used for huge sheep fairs that could see twenty thousand animals change hands in a day — is now ringed by antique shops, tea rooms, and honey-coloured stone buildings.

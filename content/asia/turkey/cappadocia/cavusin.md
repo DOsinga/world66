@@ -6,6 +6,7 @@ longitude: 34.839455
 title: Çavuşin
 type: location
 score: 0.66
+loc_type: city
 ---
 
 **Çavuşin** is one of the oldest settlements in [Cappadocia](/asia/turkey/cappadocia), a small village on the road between Goreme and Avanos. It is built around a dramatic cliff face riddled with cave dwellings that were inhabited until rockfalls forced evacuation in the 1960s.

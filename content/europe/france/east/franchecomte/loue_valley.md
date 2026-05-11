@@ -6,6 +6,7 @@ longitude: 6.1467
 title: Loue Valley
 type: location
 score: 0.55
+loc_type: city
 ---
 
 The Loue valley, in the Département of Doubs, is one of the most beautiful river valleys in France. The source of the Loue is immensely dramatic — pools and waterfalls in a limestone cirque — and from there the river winds through a gorge that is a delight at almost every turn.

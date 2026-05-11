@@ -6,6 +6,7 @@ longitude: 173.306509
 title: Nelson Bays
 type: location
 score: 0.62
+loc_type: city
 ---
 
 The Nelson Bays region sits at the top of the [South Island](/australiaandpacific/newzealand/south_island), blessed with the sunniest climate in [New Zealand](/australiaandpacific/newzealand). It is a fruit-growing region backed by forested hills, with long golden-sand beaches along Tasman Bay and a relaxed, outdoorsy character.

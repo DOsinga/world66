@@ -6,6 +6,7 @@ longitude: -1.181609
 score: 0.46
 title: Ancenis
 type: location
+loc_type: city
 ---
 
 Ancenis is a quiet Loire-side town between [Nantes](/europe/france/centre/loirevalley/nantes) and Angers, useful as a stop along the river rather than a destination in its own right. A ruined castle overlooks the Loire, and the old centre has a handful of pleasant streets with stone townhouses and a covered market.

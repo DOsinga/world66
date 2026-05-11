@@ -4,6 +4,7 @@ longitude: -1.207798
 score: 0.38
 title: Loughborough
 type: location
+loc_type: city
 ---
 
 Loughborough is a Leicestershire market town that runs largely on its university, which dominates the local economy and gives the place more energy than its size might suggest. Loughborough University is consistently rated among the best in the UK for sports, and the campus facilities were used as a training base for the 2012 Olympics. The student population keeps the town's pubs and restaurants ticking over, particularly along the high street and Baxter Gate.

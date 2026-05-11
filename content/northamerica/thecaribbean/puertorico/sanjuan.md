@@ -6,6 +6,7 @@ longitude: -66.10572
 done:
   location_cleanup: 2026-04-05
 score: 0.66
+loc_type: city
 ---
 
 San Juan is Puerto Rico's capital and the largest city in the Caribbean, with a population of about one million. It sits on the northeastern coast of the island, and the contrast between its parts is pronounced: Old San Juan — a 7-square-block walled city on a small peninsula — is one of the best-preserved Spanish colonial towns in the Americas, while the resort strip of Condado and Isla Verde is all high-rise hotels and beach clubs.

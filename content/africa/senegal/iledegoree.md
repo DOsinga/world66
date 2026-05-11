@@ -7,6 +7,7 @@ longitude: -17.398356
 score: 0.61
 title: Ile de Gorée
 type: location
+loc_type: city
 ---
 
 Gorée lies just 3 km off the Dakar waterfront, a 20-minute ferry ride from the Dakar port terminal. It is one of the first places European traders settled on the West African coast — the Portuguese arrived in the fifteenth century, followed by the Dutch, English, and French — and it played a significant role in the Atlantic slave trade from the sixteenth to the nineteenth centuries.

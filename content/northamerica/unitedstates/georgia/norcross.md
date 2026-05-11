@@ -6,6 +6,7 @@ longitude: -84.213531
 score: 0.33
 title: Norcross
 type: location
+loc_type: city
 ---
 
 Norcross is a small city in Gwinnett County, about 20 miles northeast of downtown [Atlanta](/northamerica/unitedstates/georgia/atlanta). It sits in the middle of metro Atlanta's sprawling suburbs but has managed to keep a distinct identity, centered on a compact historic downtown with tree-lined streets, Victorian-era buildings, and a town green that hosts community events throughout the year.

@@ -6,6 +6,7 @@ longitude: -117.8617
 done:
   location_cleanup: 2026-04-07
 score: 0.29
+loc_type: city
 ---
 
 Placentia is a small suburban city in Orange County, California, southeast of Los Angeles, with a population of around 50,000. The name comes from the Latin for "a pleasant place," bestowed in 1879.

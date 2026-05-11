@@ -6,6 +6,7 @@ longitude: 35.226128
 title: Kericho
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Kericho is a clean, prosperous town set in the wet highlands of the western Rift Valley, and the undisputed capital of Kenya's tea industry. The surrounding countryside is carpeted in tea for many kilometres in every direction — a rolling green landscape that gives the region a distinctive character found nowhere else in the country.

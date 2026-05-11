@@ -4,6 +4,7 @@ type: location
 latitude: 36.631099
 longitude: -4.56749
 score: 0.43
+loc_type: city
 ---
 
 Arroyo de la Miel is a lively town on the Costa del Sol, technically part of the municipality of Benalmadena but with its own distinct character. Where the coastal strip of Benalmadena Costa is all tourist apartments and beach bars, Arroyo de la Miel feels more like a real Spanish town — locals outnumber visitors, the tapas bars fill up after nine in the evening, and the weekly market on Fridays is worth a visit.

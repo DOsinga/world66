@@ -8,6 +8,7 @@ longitude: -1.496729
 score: 0.4
 title: Wakefield
 type: location
+loc_type: city
 ---
 
 Wakefield has quietly reinvented itself from a coal-and-cloth city into one of the most compelling art destinations in northern England. The Hepworth Wakefield, a stunning David Chipperfield gallery perched on the banks of the River Calder, opened in 2011 and put the city firmly on the cultural map. It houses an extraordinary collection of works by Barbara Hepworth, who was born here, alongside rotating contemporary exhibitions that regularly punch above what you would expect from a city this size.

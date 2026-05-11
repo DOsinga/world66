@@ -4,6 +4,7 @@ type: location
 latitude: 5.402553
 longitude: 100.303551
 score: 0.66
+loc_type: city
 ---
 
 Georgetown is the capital of Penang state and one of the most rewarding cities in [Malaysia](/asia/malaysia) for travellers. Its UNESCO-listed historic centre is a dense, walkable grid of shophouses, clan jetties, temples, mosques, and churches — a physical record of the centuries when this was one of the great trading ports of the Straits of Malacca.

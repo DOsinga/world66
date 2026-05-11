@@ -6,6 +6,7 @@ longitude: -96.615447
 title: McKinney
 type: location
 score: 0.35
+loc_type: city
 ---
 
 McKinney is the county seat of Collin County. It is characterized by rolling hills, mostly covered with trees, unlike the more southern cities in the county.

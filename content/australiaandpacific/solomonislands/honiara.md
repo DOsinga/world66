@@ -6,6 +6,7 @@ longitude: 159.955255
 score: 0.42
 title: Honiara
 type: location
+loc_type: city
 ---
 
 Honiara is the capital of the Solomon Islands, a sprawling, low-rise town on the north coast of Guadalcanal. It is not conventionally attractive — dusty, humid, and chaotic — but it is the gateway to one of the Pacific's most fascinating and least-visited island nations.

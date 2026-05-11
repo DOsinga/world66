@@ -6,6 +6,7 @@ longitude: -91.4667
 done:
   location_cleanup: 2026-04-05
 score: 0.43
+loc_type: city
 ---
 
 Huehuetenango ("Huehue") is a departmental capital in the far northwest highlands, a jumping-off point for the remote Cuchumatanes Mountains — the highest non-volcanic range in Central America, with peaks over 3,800 metres. The mountains are spectacular and largely off the tourist trail.

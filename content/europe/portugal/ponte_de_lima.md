@@ -6,6 +6,7 @@ longitude: -8.583099
 title: Ponte de Lima
 type: location
 score: 0.58
+loc_type: city
 ---
 
 The Romans are supposed to have thought the Lima was the mythical river Lethe, so beautiful it took men's memories away. The story goes that the legionaries would not cross until their commander swam to the far bank and proved he still remembered their names.

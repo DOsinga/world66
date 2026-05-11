@@ -4,6 +4,7 @@ longitude: -2.626462
 score: 0.35
 title: Wigan
 type: location
+loc_type: city
 ---
 
 Wigan is a town in Greater Manchester that most people know from George Orwell's 1937 book "The Road to Wigan Pier," a searing account of working-class life in industrial England. The pier itself, such as it was, was a coal-loading jetty on the Leeds and Liverpool Canal, not the seaside boardwalk the name implies. The area around it has been redeveloped into a pleasant waterside heritage quarter, and while the original pier is long gone, the Wigan Pier Experience tells the story of the town's industrial past.

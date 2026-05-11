@@ -6,6 +6,7 @@ longitude: 167.051071
 title: Espiritu Santo
 type: location
 score: 0.6
+loc_type: city
 ---
 
 Espiritu Santo is the largest island in [Vanuatu](/australiaandpacific/vanuatu), a rugged, mountainous place covered in dense rainforest. The main town, Luganville, was a massive American military base during World War II — at its peak, over 100,000 troops were stationed here, and the remnants of that era are one of the island's main draws.

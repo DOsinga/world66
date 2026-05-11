@@ -5,6 +5,7 @@ latitude: 51.9938
 longitude: -4.9768
 title: Fishguard
 type: location
+loc_type: city
 ---
 
 Fishguard is a small harbour town on the north Pembrokeshire coast, best known to most travellers as the ferry port for sailings to Rosslare in Ireland. But it is more interesting than its gateway-town reputation suggests. The town occupies two distinct levels: the main commercial street runs along the top of the cliffs, while Lower Fishguard — a cluster of fishermen's cottages around the old harbour — sits below, quiet enough now that it doubled as Llareggub in the 1971 film of Dylan Thomas's Under Milk Wood.

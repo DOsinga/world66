@@ -6,6 +6,7 @@ longitude: -66.1568
 title: Cochabamba
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Cochabamba sits in a broad valley in central Bolivia at around 2,500 metres — low enough that the climate is genuinely pleasant year-round, which is why locals call it the "City of Eternal Spring." It's Bolivia's third largest city and its gastronomic capital: Bolivians from La Paz and Santa Cruz make the trip just to eat here.

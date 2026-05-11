@@ -8,6 +8,7 @@ longitude: -97.0726
 score: 0.61
 title: Puerto Escondido
 type: location
+loc_type: city
 ---
 
 Puerto Escondido is the surf capital of Mexico's Pacific coast, a laid-back beach town on the Oaxacan coast that has grown from a sleepy fishing village into a magnet for surfers, backpackers, and increasingly, digital nomads and yoga enthusiasts. The main draw is Playa Zicatela, a powerful beach break that produces some of the heaviest waves in the Americas — the Mexican Pipeline, as it is known, hosts international surf competitions and is strictly for experienced surfers. The waves here are spectacular to watch even if you have no intention of getting in the water.

@@ -6,6 +6,7 @@ longitude: -6.943029
 title: Gjogv
 type: location
 score: 0.57
+loc_type: city
 ---
 
 In Faroese, gjogv means cleft, and it could not be more obvious how this village got its name. The gorge cuts deep into the basalt, and it is from stone steps at the bottom that boats set out for fishing and trips around the headland.

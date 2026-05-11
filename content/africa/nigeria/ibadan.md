@@ -9,6 +9,7 @@ longitude: 3.8963
 score: 0.32
 title: Ibadan
 type: location
+loc_type: city
 ---
 
 Ibadan is the capital of Oyo State and one of the largest cities in West Africa. Built across a rippling plain of eight rocky hills, it sits about 100 kilometers northeast of Lagos in southwestern Nigeria. The city is a striking study in contrasts: one side of a road can be home to modern concrete buildings, while the other is a dense cluster of traditional mud houses accessible only by footpaths.

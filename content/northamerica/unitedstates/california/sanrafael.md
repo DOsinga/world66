@@ -6,6 +6,7 @@ longitude: -122.531669
 title: San Rafael
 type: location
 score: 0.38
+loc_type: city
 ---
 
 San Rafael is the county seat of Marin County, just across the Golden Gate Bridge from San Francisco. The town itself is pleasant enough, but the real draw is its position as a base for exploring some of the Bay Area's finest outdoor spaces.

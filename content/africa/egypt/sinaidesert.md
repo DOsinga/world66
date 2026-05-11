@@ -8,6 +8,7 @@ longitude: 34.0
 score: 0.62
 title: Sinai Peninsula
 type: location
+loc_type: city
 ---
 
 The Sinai Peninsula is a triangular wedge of desert and mountains wedged between Africa and Asia, connecting the two continents while belonging fully to neither. To the west lies the Gulf of Suez; to the east, the Gulf of Aqaba. The Mediterranean closes it off in the north. It is a place of granite mountains, deep sandy wadis, turquoise water, and some of the world's best coral reefs — all packed into a relatively small area that rewards travellers willing to look beyond the beach resorts.

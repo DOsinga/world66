@@ -6,6 +6,7 @@ longitude: 92.295965
 score: 0.35
 title: Khovd
 type: location
+loc_type: city
 ---
 
 Khovd (also Hovd) is the largest city in western [Mongolia](/asia/mongolia), a dusty administrative capital on the Buyant River with the snow-capped Altai Mountains rising to the south and west. It is the main gateway for travellers heading into the Mongolian Altai — one of the most remote and spectacular mountain ranges in Central Asia.

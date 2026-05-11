@@ -6,6 +6,7 @@ longitude: 0.233889
 score: 0.65
 title: Honfleur
 type: location
+loc_type: city
 ---
 
 Honfleur is one of those Norman harbour towns that looks almost too picturesque to be real. The Vieux Bassin — a 17th-century enclosed harbour lined with tall, narrow slate-fronted houses — drew Impressionist painters like Boudin, Monet, and Jongkind, and it still draws crowds today.

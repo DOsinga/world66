@@ -8,6 +8,7 @@ longitude: 96.094874
 score: 0.56
 title: Mandalay
 type: location
+loc_type: city
 ---
 
 **Mandalay** is the second largest city after Yangoon with a population of over half a million. It doesn't look like a city, more like a big village. There's no skyline, and there are still some dirt roads. 

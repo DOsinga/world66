@@ -6,6 +6,7 @@ longitude: 10.7511
 title: Punta Ala
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Punta Ala is one of Tuscany's most exclusive seaside resorts, a manicured promontory jutting into the Tyrrhenian Sea with views toward the Island of Elba. Unlike the crowded Versilia coast further north, Punta Ala feels contained and unhurried — a place of pine-shaded paths, a well-kept marina, and long sandy beaches backed by Mediterranean scrub.

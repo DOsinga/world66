@@ -6,6 +6,7 @@ latitude: 51.2748
 longitude: 0.5217
 title: Maidstone
 type: location
+loc_type: city
 ---
 
 Maidstone is the county town of Kent, sitting in the Medway valley amid some of the prettiest countryside in south-east England. It's a working market town rather than a showpiece, but it has genuine things to offer: the Maidstone Museum is one of the best in the county, with an Egyptian gallery and strong local history collections, and the All Saints' Church and the adjacent Chillington Manor make for a handsome medieval group by the river.

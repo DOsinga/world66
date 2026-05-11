@@ -10,6 +10,7 @@ longitude: -2.39516
 score: 0.57
 title: La Baule
 type: location
+loc_type: city
 ---
 
 La Baule claims to have the finest beach in Europe, and while that is a bold assertion, the nine-kilometre sweep of sand curving along the Baie de la Baule is genuinely impressive. This is the French Atlantic coast at its most elegant — a long boulevard of Belle Époque villas, grand hotels, and pine-shaded promenades facing a broad, gently shelving beach.

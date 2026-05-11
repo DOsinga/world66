@@ -6,6 +6,7 @@ longitude: -95.3878
 title: Museum District
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Houston's Museum District is one of the best concentrations of cultural institutions in the United States, packing 19 museums into a walkable neighborhood just south of downtown along Main Street and Montrose Boulevard. You could spend several days here and not run out of things to see, and remarkably, many of the museums are free.

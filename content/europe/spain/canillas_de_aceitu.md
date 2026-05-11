@@ -6,6 +6,7 @@ longitude: -4.082126
 title: Canillas de Aceituno
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Canillas de Aceituno is a small white village in the Axarquía region of Málaga province, in the foothills of the Sierra de Tejeda. The road up from the coast winds through olive and almond groves before the village appears as a cluster of white-walled houses around a church and a couple of small squares.

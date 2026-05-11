@@ -6,6 +6,7 @@ longitude: -1.20937
 title: Hartlepool
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Hartlepool is a post-industrial port town on the Durham coast, about 30 kilometres south of Sunderland. It's not a place most visitors to northeast England seek out, but it has a genuinely interesting historic waterfront and makes a reasonable half-day stop if you're exploring the region.

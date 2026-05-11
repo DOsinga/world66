@@ -6,6 +6,7 @@ longitude: -110.8687
 title: Miami
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Miami is a small copper mining town in Gila County, Arizona, sitting in the rugged hill country between Phoenix and the White Mountains. It is a classic Western boomtown — the copper mines that built it are largely dormant now, but the town retains a certain faded charm.

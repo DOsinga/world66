@@ -10,6 +10,7 @@ longitude: 10.95872
 score: 0.43
 title: Fürth
 type: location
+loc_type: city
 ---
 
 Furth lives in the shadow of its bigger neighbour [Nuremberg](/europe/germany/bavaria/nuremberg), just seven kilometres to the east, but has its own distinct character. The two cities have grown together physically — the U-Bahn connects them in minutes — yet Furth feels quieter, more residential, and proudly independent.

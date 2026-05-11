@@ -6,6 +6,7 @@ longitude: 93.9836
 title: Kakching
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Kakching is the second largest town in Manipur, situated in the southeastern part of the state about 44 kilometres from [Imphal](/asia/india/manipur/imphal) and 70 kilometres from the border with Myanmar. The town has well-structured streets and a lively market culture, with goods imported from Myanmar alongside local handloom and handicraft products.

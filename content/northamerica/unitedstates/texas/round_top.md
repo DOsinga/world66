@@ -6,6 +6,7 @@ longitude: -96.695545
 title: Round Top
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Travel Guide

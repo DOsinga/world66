@@ -6,6 +6,7 @@ longitude: -119.7848
 done:
   location_cleanup: 2026-04-07
 score: 0.33
+loc_type: city
 ---
 
 Fresno sits in the heart of California's San Joaquin Valley, surrounded by some of the most productive farmland on earth. It's not a glamorous city, but it has real character — a working agricultural hub that also happens to be the gateway to the Sierra Nevada and [Yosemite National Park](/northamerica/unitedstates/california/yosemite), just 60 miles to the north on Highway 41.

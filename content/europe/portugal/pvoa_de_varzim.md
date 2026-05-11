@@ -8,6 +8,7 @@ longitude: -8.757
 score: 0.51
 title: Póvoa de Varzim
 type: location
+loc_type: city
 ---
 
 Situated 30 km north of [Porto](/europe/portugal/porto), Póvoa de Varzim is both a traditional fishing town and a cosmopolitan summer resort for northern Portugal. At one end is the port and picturesque fishermen's quarter, where brightly-painted boats line the harbour. The northern end is a lively strip of beach-side cafés, bars, restaurants, and a modern casino. The town's long sandy beach is good for bathing and surfing.

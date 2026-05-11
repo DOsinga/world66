@@ -6,6 +6,7 @@ longitude: -111.242188
 title: Tuba City
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Travel Guide

@@ -6,6 +6,7 @@ longitude: 34.4317
 title: Njombe
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Njombe sits at about 2,000 metres in the Southern Highlands of Tanzania, making it one of the coolest towns in the country — in June to August it can be genuinely cold by East African standards. The climate attracted missionaries in large numbers, and the town's single main street is lined with an unusual concentration of churches.

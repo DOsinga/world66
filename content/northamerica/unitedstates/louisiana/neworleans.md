@@ -8,6 +8,7 @@ longitude: -90.073393
 score: 0.71
 title: New Orleans
 type: location
+loc_type: city
 ---
 
 Practically everything in the New Orleans is different and special. It's a city that never ceases to amaze its visitors as well as its inhabitants, and Ryan Tamm.

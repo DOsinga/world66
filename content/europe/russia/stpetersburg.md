@@ -13,6 +13,7 @@ longitude: 30.3351
 score: 0.8
 title: St Petersburg
 type: location
+loc_type: city
 ---
 
 St Petersburg is Russia's cultural capital and one of Europe's most beautiful cities. Founded in 1703 by Peter the Great as a window to the West, it was designed from scratch on the marshy banks of the Neva delta — a grand experiment in urban planning that produced an extraordinary cityscape of baroque palaces, neoclassical facades, and canals that invite easy comparisons to Venice and Amsterdam.

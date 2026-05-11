@@ -6,6 +6,7 @@ longitude: -86.920691
 done:
   location_cleanup: 2026-04-05
 score: 0.72
+loc_type: city
 ---
 
 Cozumel is a small island just of the coast of

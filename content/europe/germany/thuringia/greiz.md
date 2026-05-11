@@ -10,6 +10,7 @@ longitude: 12.2004
 score: 0.37
 title: Greiz
 type: location
+loc_type: city
 ---
 
 Greiz calls itself the Pearl of the Vogtland, and for a small Thuringian town it has some substance behind the claim. The Sommerpalais, set in an English-style landscape park along the White Elster river, is considered the finest late-Baroque palace in Thuringia and houses a notable collection of satirical art and caricatures — one of the largest in Germany.

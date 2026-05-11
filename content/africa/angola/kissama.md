@@ -6,6 +6,7 @@ longitude: 13.922788
 score: 0.3
 title: Kissama
 type: location
+loc_type: city
 ---
 
 Kissama (Quiçama) is Angola's most accessible national park, about 70 km south of Luanda along the coast. The park was devastated during the civil war — its elephant and large mammal populations were almost entirely poached — but a remarkable restocking programme called Operation Noah's Ark brought elephants, zebras, and other animals from Botswana and South Africa in the early 2000s. The herds have slowly recovered.

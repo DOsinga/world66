@@ -10,6 +10,7 @@ longitude: 15.8697
 score: 0.44
 title: Bihać
 type: location
+loc_type: city
 ---
 
 Bihać sits in the far northwest corner of Bosnia and Herzegovina, where the emerald Una River curls through a limestone valley ringed by forested hills. It is one of the country's most scenically blessed towns and the main gateway to Una National Park, where the river drops over a series of spectacular travertine waterfalls and cascades.

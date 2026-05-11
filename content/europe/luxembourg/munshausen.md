@@ -6,6 +6,7 @@ longitude: 6.039484
 title: Munshausen
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Munshausen (Luxembourgish: Munzen) is a small commune in northern Luxembourg, bordering [Clervaux](/europe/luxembourg/clervaux) to the north. The old village of Munshausen has been recorded since the 9th century, and the commune also includes the villages of Drauffelt, Marnach, Roder, and Siebenaler. The landscape is classic Ardennes — rolling hills, steep valleys, and dense forest.

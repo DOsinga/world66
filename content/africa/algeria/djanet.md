@@ -9,6 +9,7 @@ longitude: 9.4842
 score: 0.51
 title: Djanet
 type: location
+loc_type: city
 ---
 
 Djanet is one of the most extraordinary places in Algeria -- a Saharan oasis town sitting at the foot of the Tassili n'Ajjer plateau, surrounded by some of the most dramatic desert landscapes on the continent. If you have any interest in the deep Sahara, this is where you come.

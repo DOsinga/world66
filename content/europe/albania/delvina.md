@@ -6,6 +6,7 @@ longitude: 20.096067
 title: Delvina
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Delvina is a small town in southern Albania, set on a hillside between [Saranda](/europe/albania/saranda) and [Gjirokastër](/europe/albania/gjirokaster). It is not a destination in its own right but a convenient stop on the road between the two major southern cities.

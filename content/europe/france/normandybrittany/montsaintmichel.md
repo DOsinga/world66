@@ -10,6 +10,7 @@ image: montsaintmichel.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridge_to_Mont_St_Michel_(2).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Lynx1211
+loc_type: city
 ---
 
 Mont-Saint-Michel is one of the most recognisable sights in Europe — a granite island topped by a medieval abbey, rising from vast tidal flats on the border of [Normandy](/europe/france/normandybrittany) and Brittany. At high tide the mount becomes an island; at low tide, the sea retreats to reveal kilometres of sand.

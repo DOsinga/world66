@@ -6,6 +6,7 @@ longitude: 107.0
 done:
   location_cleanup: '2026-04-10'
 score: 0.58
+loc_type: feature
 ---
 
 Stretching across southern Mongolia and northern China, the Gobi is one of the world's great deserts — and one of its most surprising. It's not the sea of sand you might picture: much of it is rocky steppe, dramatic cliffs, and gravel plains, with dunes appearing only in certain pockets like the famous Khongor Els. Summer days are scorching and nights are cold; winters are brutal. Spring brings fierce sandstorms.

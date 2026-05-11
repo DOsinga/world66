@@ -6,6 +6,7 @@ longitude: 12.706456
 title: Namibe
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Namibe is a port city on Angola's southern coast where the desert meets the Atlantic. The Portuguese arrived in 1485 and named the region Moçâmedes; it was the first district established in southern Angola and has been a fishing port ever since. Today it is Angola's third-largest harbour, exporting fish and agricultural produce from neighbouring Huila province.

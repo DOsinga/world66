@@ -9,6 +9,7 @@ image: vinales.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cuba_Vinales_Centro.jpg
 image_license: CC BY 2.5
 image_attribution: AxelF
+loc_type: city
 ---
 
 Viñales and its surrounding valley are among the absolute top attractions of Cuba. Set about 40 km north of [Pinar del Río](/northamerica/thecaribbean/cuba/pinardelrio) in the island's westernmost province, it is a place where the landscape alone justifies the journey.

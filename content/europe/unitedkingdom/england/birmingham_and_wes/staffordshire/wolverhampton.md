@@ -8,6 +8,7 @@ longitude: -2.127567
 score: 0.36
 title: Wolverhampton
 type: location
+loc_type: city
 ---
 
 Wolverhampton does not try to charm you, and that honesty is part of its appeal. This is a big, sprawling Black Country city with deep industrial roots, a proud Sikh and Caribbean community, and a football club that has been punching above its weight in the Premier League. It is not on many tourist itineraries, but visitors who do come will find a city with more substance than its reputation suggests.

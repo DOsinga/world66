@@ -6,6 +6,7 @@ longitude: -90.6014
 title: Pacaya Volcano
 type: location
 score: 0.65
+loc_type: city
 ---
 
 Standing at 8,371 feet (2,552 meters), the highly active Pacaya Volcano is perhaps the most climbed volcano in Guatemala.

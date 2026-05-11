@@ -6,6 +6,7 @@ longitude: 27.433353
 title: Kemijärvi
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Kemijärvi is a small town in Finnish Lapland, set on the shores of a beautifully typical Finnish lake. The town centre is compact — a scattering of restaurants and pubs, a good selection of supermarkets, and not much else. That is the point: you come here for the lake, the forest, and the silence.

@@ -6,6 +6,7 @@ longitude: -6.771571
 title: Tórshavn
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Tórshavn is the capital of the Faroe Islands, set on the southern tip of Streymoy — the largest island in the archipelago. With around 20,000 people it is one of the smallest capital cities in Europe, but it functions as the hub for everything in the Faroes: government, culture, commerce, and the main ferry port.

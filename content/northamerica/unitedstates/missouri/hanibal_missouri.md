@@ -6,6 +6,7 @@ longitude: -91.358741
 title: Hannibal
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Hannibal is a small town on the Mississippi River, about 90 minutes north of St Louis. It is best known as the boyhood home of Mark Twain, and the town leans into the connection with enthusiasm — you can visit the house where Samuel Clemens grew up, explore the caves that inspired *The Adventures of Tom Sawyer*, and walk streets that still feel like they belong in one of his novels.

@@ -6,6 +6,7 @@ longitude: 36.176738
 title: Omo River
 type: location
 score: 0.4
+loc_type: city
 ---
 
 The Omo River runs from the Ethiopian Highlands south to Lake Turkana on the Kenyan border, carving its way through some of the most remote and culturally rich territory in East Africa. The lower Omo valley is home to several indigenous peoples — the Mursi, Hamer, Karo, and others — who maintain traditions largely unchanged by the outside world.

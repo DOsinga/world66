@@ -6,6 +6,7 @@ longitude: -11.550064
 score: 0.33
 title: Kabala
 type: location
+loc_type: city
 ---
 
 Kabala is the main town in the Koinadugu district of northern [Sierra Leone](/africa/sierraleone), sitting at the foot of the Wara Wara Mountains close to the Guinean border. It is one of the highest towns in the country and the air is noticeably cooler than on the coast — a relief after the humidity of [Freetown](/africa/sierraleone/freetown).

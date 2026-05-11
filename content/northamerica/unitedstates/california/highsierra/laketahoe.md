@@ -6,6 +6,7 @@ longitude: -120.050353
 score: 0.69
 title: Lake Tahoe
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

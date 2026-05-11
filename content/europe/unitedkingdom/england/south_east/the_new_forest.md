@@ -8,6 +8,7 @@ longitude: -1.57
 score: 0.58
 title: The New Forest
 type: location
+loc_type: city
 ---
 
 The New Forest is one of England's newest national parks, designated in 2005, but the forest itself is anything but new. William the Conqueror established it as a royal hunting ground in 1079, displacing villages and farming communities to do so. His son William Rufus was killed here in a hunting accident — or perhaps not an accident — in 1100. The Rufus Stone, set in a clearing near Brook, marks the spot where he is said to have fallen.

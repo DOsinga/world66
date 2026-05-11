@@ -6,6 +6,7 @@ longitude: 159.2113
 title: Santa Isabel
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Santa Isabel is the longest island in the Solomon Islands — a narrow, mountainous strip of land that was the first of the Solomons to be contacted by Europeans, when the Spanish explorer Alvaro de Mendana arrived in 1568. The island remains one of the least visited provinces in the country, with about 30,000 inhabitants, limited infrastructure, and the unhurried pace that comes with genuine remoteness.

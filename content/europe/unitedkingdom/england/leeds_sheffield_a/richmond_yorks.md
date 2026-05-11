@@ -6,6 +6,7 @@ longitude: -1.738
 title: Richmond
 type: location
 score: 0.52
+loc_type: city
 ---
 
 Richmond is a lovely historic town in Swaledale, one of the most fascinating of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales). Not to be confused with its many namesakes — this is the original, perched above a bend in the River Swale.

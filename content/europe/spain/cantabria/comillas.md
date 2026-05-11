@@ -8,6 +8,7 @@ longitude: -4.2902
 score: 0.58
 title: Comillas
 type: location
+loc_type: city
 ---
 
 Comillas is a small coastal town in Cantabria that has an architectural legacy completely out of proportion to its size. In the late nineteenth century, the Marquis of Comillas — who had made a fortune in Cuba — brought the leading architects of the day here to build grand monuments in what was essentially a fishing village. The result is one of the most surprising collections of buildings on the Spanish coast, set against a backdrop of green hills and the Cantabrian Sea.

@@ -6,6 +6,7 @@ longitude: -85.639678
 title: Daviston
 type: location
 score: 0.23
+loc_type: city
 ---
 
 Daviston is a small town in east-central Alabama, notable as the location of Horseshoe Bend National Military Park. On March 27, 1814, General Andrew Jackson and an army of 3,300 -- Tennessee militia, U.S. regulars, Cherokee, and Lower Creek allies -- attacked Chief Menawa and 1,000 Red Stick Creek warriors fortified in a bend of the Tallapoosa River.

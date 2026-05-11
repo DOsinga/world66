@@ -6,6 +6,7 @@ longitude: 177.955
 title: Coral Coast
 type: location
 score: 0.73
+loc_type: city
 ---
 
 The Coral Coast stretches along the southwestern shore of Viti Levu, [Fiji](/australiaandpacific/fiji)'s main island. It is the country's most established resort strip, and with good reason — the weather here is the driest and sunniest on the island, the beaches are white sand, and the volcanic hills rising sharply behind the coast make for dramatic scenery.

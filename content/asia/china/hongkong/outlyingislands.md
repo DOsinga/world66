@@ -6,6 +6,7 @@ longitude: 114.1096
 title: Outlying Islands
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Hong Kong's outlying islands are one of its less-visited assets. Ferries from the Central Piers make most islands accessible within an hour, and the contrast with the mainland bustle is immediate.

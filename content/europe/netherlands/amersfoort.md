@@ -12,6 +12,7 @@ longitude: 5.408885
 score: 0.51
 title: Amersfoort
 type: location
+loc_type: city
 ---
 
 Amersfoort is one of the Netherlands' best-kept secrets — a proper medieval city half an hour by train from [Amsterdam](/europe/netherlands/amsterdam) and just ten minutes from [Utrecht](/europe/netherlands/utrecht), yet largely ignored by tourists. Their loss.

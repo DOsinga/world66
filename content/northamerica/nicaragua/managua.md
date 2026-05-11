@@ -6,6 +6,7 @@ longitude: -86.2514
 done:
   location_cleanup: 2026-04-07
 score: 0.38
+loc_type: city
 ---
 
 Managua is the capital of [Nicaragua](/northamerica/nicaragua), a sprawling, low-rise city of about a million people on the shores of Lake Managua. The devastating earthquake of 1972 destroyed much of the old centre, and the reconstruction that followed never quite brought it back — the city lacks the colonial charm of [Granada](/northamerica/nicaragua/granada) or [Leon](/northamerica/nicaragua/leon). But Managua has its own rough energy, and most travellers pass through at least briefly.

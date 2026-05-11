@@ -6,6 +6,7 @@ longitude: -1.476549
 score: 0.42
 title: Derby
 type: location
+loc_type: city
 ---
 
 Derby has a strong claim to being the birthplace of the Industrial Revolution. The Silk Mill on the River Derwent, built in 1721, was one of the world's first factories, and the Derwent Valley Mills stretching north to Cromford are a UNESCO World Heritage Site. Today the city is better known as the home of Rolls-Royce and a gateway to the [Peak District](/europe/unitedkingdom/england/peakdistrict).

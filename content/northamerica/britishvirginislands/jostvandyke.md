@@ -5,6 +5,7 @@ latitude: 18.443
 longitude: -64.753
 title: Jost Van Dyke
 type: location
+loc_type: city
 ---
 
 Jost Van Dyke is the smallest of the four main British Virgin Islands — about 8 km² with fewer than 300 permanent residents — but it punches well above its weight in the Caribbean party department. The Soggy Dollar Bar in White Bay, reachable only by swimming ashore (hence the name), claims to have invented the Painkiller cocktail. Foxy's Tamarind Bar in Great Harbour is legendary for its New Year's Eve party.

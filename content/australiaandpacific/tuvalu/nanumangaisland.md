@@ -6,6 +6,7 @@ longitude: 176.319991
 title: Nanumanga island
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Nanumanga is a small, reef-enclosed island in the northern part of [Tuvalu](/australiaandpacific/tuvalu), and one of the few islands in the country that is not a true atoll. Instead of a central lagoon, Nanumanga has two small, landlocked ponds surrounded by dense vegetation. The island is roughly oval, about three kilometres long, and home to a community of around 500 people living in a single village on the western shore.

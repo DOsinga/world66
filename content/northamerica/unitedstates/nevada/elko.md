@@ -6,6 +6,7 @@ longitude: -115.327286
 title: Elko
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Elko sits in the high desert of northeast Nevada, roughly halfway between Salt Lake City and Reno on Interstate 80. It is one of the more surprising small cities in the American West: a mining and ranching town with a strong Basque heritage, world-class helicopter skiing on its doorstep, and a peculiar claim to fame as the home of the National Cowboy Poetry Gathering.

@@ -6,6 +6,7 @@ longitude: -111.160207
 title: Tetonia
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Tetonia is a tiny farming community at the northern end of Teton Valley, Idaho, with a population of around 250. It has almost nothing in the way of tourist infrastructure — no restaurants to speak of, no gas station — but the views of the Teton Range from here are among the best anywhere. On a clear day the jagged peaks dominate the entire eastern horizon, rising abruptly from the valley floor, and the foreground of grain fields and hay meadows makes for stunning photography.

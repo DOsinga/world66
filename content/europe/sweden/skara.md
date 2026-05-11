@@ -6,6 +6,7 @@ longitude: 13.439768
 title: Skara
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Skara is one of the oldest cities in Sweden, with roots stretching back over a thousand years. Its cathedral, founded in the 11th century, was the seat of one of the country's first bishoprics, and in medieval times the town sat at the crossroads of trade routes through Västra Götaland.

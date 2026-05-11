@@ -6,6 +6,7 @@ longitude: -119.019463
 title: Bakersfield
 type: location
 score: 0.28
+loc_type: city
 ---
 
 Bakersfield sits at the southern end of the San Joaquin Valley, surrounded by oil derricks and agricultural land. It is not a place most travelers seek out, but it has genuine character — particularly its Basque heritage and its outsized role in country music history.

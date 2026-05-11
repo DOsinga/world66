@@ -4,6 +4,7 @@ longitude: 121.164283
 score: 0.38
 title: Lipa
 type: location
+loc_type: city
 ---
 
 Lipa is a thriving city in the Batangas province, about two hours south of Manila, long known as the coffee capital of the Philippines. In the nineteenth century, Lipa was one of the world's major coffee producers, and while blight and competition devastated the industry, coffee culture has made a serious comeback. You will find local barako coffee everywhere, strong and aromatic, and several farms in the surrounding highlands offer tours.

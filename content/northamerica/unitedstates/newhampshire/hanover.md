@@ -6,6 +6,7 @@ longitude: -72.289216
 title: Hanover
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Hanover is a small town on the Connecticut River in western [New Hampshire](/northamerica/unitedstates/newhampshire), defined almost entirely by Dartmouth College. The campus green is the center of town life, and the college's presence gives Hanover a liveliness you would not expect from a place this size. The Hood Museum of Art, on campus, has a surprisingly strong collection for a college museum — worth a visit even if you have no connection to Dartmouth.

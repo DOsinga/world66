@@ -6,6 +6,7 @@ longitude: -64.1578
 title: Cumaná
 type: location
 score: 0.34
+loc_type: city
 ---
 
 Cumaná holds a remarkable distinction: it is the oldest continuously inhabited European settlement in South America, founded in 1521 by Gonzalo de Ocampo on the shores of the Gulf of Cariaco. That history is still visible in its colonial forts, churches, and the old quarter that lines the Manzanares River as it meets the sea.

@@ -6,6 +6,7 @@ longitude: -94.018518
 title: Adel
 type: location
 score: 0.23
+loc_type: city
 ---
 
 Adel is the county seat of Dallas County, a small town of about 6,000 people sitting just west of [Des Moines](/northamerica/unitedstates/iowa/des_moines) along the Raccoon River. The historic courthouse square anchors a compact downtown with a handful of independent shops, a couple of restaurants, and the kind of unhurried pace that makes a real contrast with the state capital twenty minutes down the road.

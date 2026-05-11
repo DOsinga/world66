@@ -7,6 +7,7 @@ longitude: 80.270186
 score: 0.48
 title: Chennai
 type: location
+loc_type: city
 ---
 
 Formerly known as Madras, Chennai is the capital of 

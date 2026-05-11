@@ -6,6 +6,7 @@ longitude: 18.97038
 score: 0.38
 title: Chorzow
 type: location
+loc_type: city
 ---
 
 Chorzów is best known for the Silesian Park, one of the largest urban parks in Europe. Spread over 600 hectares between Chorzów and Katowice, it includes a zoo, a planetarium, an amusement park, and enough green space to forget you are in the middle of Poland's most densely built-up region.

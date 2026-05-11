@@ -10,6 +10,7 @@ longitude: 22.416071
 score: 0.44
 title: Larissa
 type: location
+loc_type: city
 ---
 
 Larissa is the capital of Thessaly and Greece's largest inland city, yet it barely registers on most travellers' itineraries. That is precisely its appeal. This is a working Greek city with a lively university population, excellent tavernas, and none of the tourist infrastructure — or prices — of the islands.

@@ -6,6 +6,7 @@ longitude: 134.58
 title: Babeldaob
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Babeldaob is the largest island in [Palau](/australiaandpacific/palau) but far less developed than neighbouring [Koror](/australiaandpacific/palau/koror), connected to it by a bridge. Most of the island is covered in rainforest, with scattered villages along the coast and a new capital complex at Melekeok on the east side.

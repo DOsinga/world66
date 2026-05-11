@@ -8,6 +8,7 @@ longitude: -3.945925
 score: 0.46
 title: Swansea
 type: location
+loc_type: city
 ---
 
 Swansea is pretty ugly and pretty at the same time. Over the past few years it has become a delightful place to travel to. The Maritime Quarter has been completely revamped and is very much alive. Walk the streets of Swansea and you know why Wales is a European economic tiger!

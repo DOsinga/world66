@@ -10,6 +10,7 @@ longitude: 9.532942
 score: 0.48
 title: Vejle
 type: location
+loc_type: city
 ---
 
 Vejle sits at the head of Vejle Fjord in eastern Jutland, squeezed between wooded hills in a setting that feels unusually dramatic for [Denmark](/europe/denmark). The town has reinvented itself in recent years with striking modern architecture along the waterfront, including the wave-shaped residential building Bølgen, while the compact old centre retains a pleasant mix of pedestrian streets and half-timbered houses.

@@ -6,6 +6,7 @@ longitude: -0.7503
 title: Hecho
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Hecho (also written Echo) is a stone village in the Hecho Valley, one of the western Pyrenean valleys that cuts north from [Jaca](/europe/spain/aragon/jaca) toward the French border. It is quiet, unhurried, and genuinely old-feeling — narrow streets, slate roofs, and a pace of life that has little to do with the coast.

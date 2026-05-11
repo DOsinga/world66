@@ -11,6 +11,7 @@ longitude: 5.1634
 score: 0.52
 title: Naarden
 type: location
+loc_type: city
 ---
 
 Naarden-Vesting is one of the best-preserved star forts in Europe. The double ring of walls, bastions, and moats was laid out in the late 17th century and has survived almost intact — from the air it looks like a perfect six-pointed star stamped into the flat Dutch landscape. Walking the ramparts on a clear morning, with the Gooimeer lake glinting to the north and Amsterdam's skyline faint on the horizon, is one of the quieter pleasures near the capital.

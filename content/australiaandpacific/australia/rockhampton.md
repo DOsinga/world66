@@ -6,6 +6,7 @@ longitude: 150.5134
 title: Rockhampton
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Rockhampton sits astride the Tropic of Capricorn on the Fitzroy River, about 40 km inland from the Capricorn Coast. It's Queensland's beef capital — the region runs more cattle than most Australian states — and the tropics marker at the highway entrance to town makes it a popular photo stop for travellers heading north.

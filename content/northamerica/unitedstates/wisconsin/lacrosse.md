@@ -6,6 +6,7 @@ longitude: -91.251435
 title: La Crosse
 type: location
 score: 0.42
+loc_type: city
 ---
 
 La Crosse sits where the Black River and the La Crosse River empty into the Mississippi, a natural confluence that has shaped the city's character for centuries. It's a small city of around 55,000 people in southwest Wisconsin — big enough to have real universities, a lively riverfront, and genuine Oktoberfest celebrations, small enough that the bluffs above town still feel wild.

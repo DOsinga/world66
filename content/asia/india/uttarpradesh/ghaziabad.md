@@ -4,6 +4,7 @@ longitude: 77.458697
 score: 0.22
 title: Ghaziabad
 type: location
+loc_type: city
 ---
 
 Ghaziabad is one of the fastest-growing cities in the Delhi National Capital Region, sprawling east of the Yamuna River in Uttar Pradesh. It is primarily an industrial and residential satellite city, and most of its nearly two million residents commute to Delhi or work in local manufacturing. The city is connected to Delhi by the Metro, which has made it an increasingly popular place to live for people priced out of the capital.

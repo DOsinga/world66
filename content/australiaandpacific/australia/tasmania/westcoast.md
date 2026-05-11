@@ -6,6 +6,7 @@ longitude: 145.679633
 done:
   location_cleanup: 2026-04-08
 score: 0.54
+loc_type: city
 ---
 
 Tasmania's West Coast is wild and rain-swept, a place where thunderous seas pound against shores that rise toward a jumble of forested valleys and broken peaks. The gothic atmosphere seeps into everything — the grey skies, the ruined mine buildings, the tangled rainforest closing in on the road. The communities here are mainly old mining towns that tap the rich ore bodies beneath the volcanic ranges.

@@ -7,6 +7,7 @@ longitude: 18.2261
 score: 0.73
 title: Lecce
 type: location
+loc_type: city
 ---
 
 Lecce is the Florence of the South — a designation it's earned. Located at the heel of Italy's boot, roughly midway between Brindisi and the Adriatic coast, the city had its heyday under Spanish rule in the 17th century when local noblemen, merchants, and religious orders competed to build ever more extravagant palaces and churches. The material was a golden local limestone that proved extraordinarily soft to carve, which led to an architecture of dizzying elaboration: curling volutes, grinning monsters, caryatids, and festoons piled onto every available surface.

@@ -8,6 +8,7 @@ longitude: -4.1424
 score: 0.49
 title: Plymouth
 type: location
+loc_type: city
 ---
 
 Plymouth is a proud, slightly battered naval city on the Devon coast, looking out across Plymouth Sound toward Cornwall. The Mayflower departed from here in 1620 — the Pilgrim Fathers' last sight of England was the Barbican quayside — and the city has been sending ships into the Atlantic ever since. Sir Francis Drake and Sir Walter Raleigh both called it home.

@@ -8,6 +8,7 @@ longitude: -104.615876
 score: 0.39
 title: Regina
 type: location
+loc_type: city
 ---
 
 Regina sits on the flat, open prairie of southern Saskatchewan, the provincial capital and home to around 225,000 people. It's a planned city — there was nothing here when the Canadian Pacific Railway rolled through in 1882 — built around Wascana Park, a large artificial lake at the centre of town. That park is Regina's saving grace: 900 hectares of green space with the Legislative Building, the Royal Saskatchewan Museum, and the MacKenzie Art Gallery all clustered around the water.

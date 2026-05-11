@@ -6,6 +6,7 @@ longitude: 87.7661
 title: Phidim
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Phidim is a small hill town in eastern Nepal, perched in the foothills below Kanchenjunga — the world's third highest mountain. It's the district headquarters of Panchthar, a practical stop for trekkers heading toward the Kanchenjunga Conservation Area, and a place that rewards a slower look.

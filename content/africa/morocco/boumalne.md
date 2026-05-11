@@ -6,6 +6,7 @@ longitude: -5.9801
 title: Boumalne Dadès
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Boumalne Dadès sits at the mouth of one of Morocco's most dramatic landscapes: the Dadès Gorge, a canyon of sculpted red rock that cuts north into the High Atlas. The town itself is small and unpretentious — a single main street, a few cheap hotels, and a market square — but its position makes it one of the more rewarding stops on the road between Ouarzazate and Tinghir.

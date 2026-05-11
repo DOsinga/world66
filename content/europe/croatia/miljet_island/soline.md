@@ -6,6 +6,7 @@ longitude: 17.555
 title: Soline
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Soline is a small village at the narrow channel connecting the Great Lake (Veliko jezero) of Mljet National Park to the sea. The channel's current is strong enough to feel when swimming, and the water here is famously warm and clear — one of the best swimming spots on the island.

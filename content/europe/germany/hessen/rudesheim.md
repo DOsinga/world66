@@ -8,6 +8,7 @@ longitude: 7.815331
 score: 0.56
 title: Rüdesheim
 type: location
+loc_type: city
 ---
 
 Rüdesheim am Rhein is one of Germany's most visited small towns — remarkable given its modest population — due to its position at the southern end of the Rheingau wine region and its dramatic Rhine Valley setting. It has been a stop for travellers since at least the early 19th century, when English and German Romantic writers made the Rhine valley fashionable.

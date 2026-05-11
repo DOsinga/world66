@@ -6,6 +6,7 @@ longitude: -120.542327
 title: Alturas
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Alturas is the county seat of Modoc County, tucked into the far northeastern corner of California where most people have never been. With a population of around 2,600, it is one of the most remote towns in the state, surrounded by high desert, sagebrush flats, and volcanic tablelands. The nearest city of any size is Redding, three hours to the west. If you want to see a part of California that looks nothing like the postcards, this is it.

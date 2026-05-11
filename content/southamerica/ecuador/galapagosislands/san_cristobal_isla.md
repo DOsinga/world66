@@ -8,6 +8,7 @@ longitude: -89.4248
 score: 0.8
 title: San Cristóbal Island
 type: location
+loc_type: city
 ---
 
 San Cristóbal is the oldest island in the Galápagos archipelago and the one with the most history. Darwin made landfall here in 1835 — his first stop in the islands — and found what he later described as the most extraordinary assemblage of creatures on earth. Two centuries later the island still delivers on that promise.

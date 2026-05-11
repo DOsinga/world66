@@ -6,6 +6,7 @@ longitude: 5.305595
 title: Formerum
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Formerum is a small village about halfway along Terschelling, between [West-Terschelling](/europe/netherlands/waddenislands/terschelling/westterschelling) and Oosterend. The village is dominated by its working windmill, De Koffiemolen, where you can stop for coffee and cranberry pie.

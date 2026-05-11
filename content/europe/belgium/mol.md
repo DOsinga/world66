@@ -6,6 +6,7 @@ longitude: 5.115527
 title: Mol
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Mol is a town of about 37,000 inhabitants in the Kempen region of northeastern [Belgium](/europe/belgium), an area of heathland, pine forests, and sandy soil that feels distinctly different from the rest of Flanders. The town's main attraction is its artificial beaches — old sand quarries from the glass industry that have been flooded and transformed into popular swimming lakes, drawing crowds from across the region on summer weekends.

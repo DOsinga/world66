@@ -6,6 +6,7 @@ longitude: -2.568022
 title: Warrington
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Warrington is a large town in Cheshire, standing on the banks of the River Mersey roughly midway between [Liverpool](/europe/unitedkingdom/england/manchester_liverp/liverpool) and [Manchester](/europe/unitedkingdom/england/manchester_liverp/manchester). Its strategic position at a crossing point of the Mersey has made it important since Roman times, and today it is a busy commercial centre with a population of around 210,000.

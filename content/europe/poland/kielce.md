@@ -6,6 +6,7 @@ longitude: 20.609916
 score: 0.42
 title: Kielce
 type: location
+loc_type: city
 ---
 
 Kielce sits at the foot of the Holy Cross Mountains, one of the oldest mountain ranges in Europe. Capital of the Świętokrzyskie Voivodeship, it is a compact city with a well-preserved old town, a striking 17th-century bishops' palace, and easy access to some of Poland's best hiking and geological sites.

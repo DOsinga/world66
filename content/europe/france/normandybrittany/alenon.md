@@ -6,6 +6,7 @@ longitude: 0.091137
 title: Alençon
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Alençon sits between Paris and Mont-Saint-Michel, less than two hours from both, making it a convenient stop on the way to the Normandy coast. It is the main town of the Orne department and the gateway to the area known as the Pays d'Alençon, which straddles Normandy and the Pays de Loire.

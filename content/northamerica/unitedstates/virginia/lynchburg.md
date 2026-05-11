@@ -6,6 +6,7 @@ longitude: -79.142246
 title: Lynchburg
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Lynchburg is a mid-sized city of about 80,000 people set on seven hills above the James River in central Virginia. Founded in 1757, it was one of the wealthiest cities in the antebellum South thanks to the tobacco trade, and its hilltop neighborhoods are filled with beautifully preserved 19th-century architecture. The city survived the Civil War largely intact, which means the historic fabric is remarkably complete.

@@ -10,6 +10,7 @@ image: split.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Luftbild_vom_Diokletianpalast_in_Split,_Kroatien_(48608754492).jpg
 image_license: CC BY 2.0
 image_attribution: dronepicr
+loc_type: city
 ---
 
 Split is the second biggest town in Croatia. It is located on the coast in the South of the country. It is very old and beautiful town and is also an excellent base for watersports such as sailing or windsurfing.

@@ -7,6 +7,7 @@ longitude: 102.716906
 score: 0.58
 title: Kunming
 type: location
+loc_type: city
 ---
 
 Kunming, the capital of Yunnan province, is known as the spring city because of its year round mild climate. Nevertheless during the cold season it might get chilly at times. The city is located at an altitude of 1891 m in the Yunnan-Guizhou-Plateau.

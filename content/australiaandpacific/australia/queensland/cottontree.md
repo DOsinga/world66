@@ -5,6 +5,7 @@ latitude: -26.6518
 longitude: 153.1001
 title: Cotton Tree
 type: location
+loc_type: city
 ---
 
 Cotton Tree is a small suburb on the Sunshine Coast of Queensland, sitting on a narrow strip of land between the Maroochy River and the ocean just south of Maroochydore. It is low-key even by Sunshine Coast standards: a strip of cafes and small shops along the beachfront, good swimming and fishing at the river mouth, and a caravan park that fills up with families in school holidays. The beach here faces north, which means calmer conditions than many open-ocean beaches.

@@ -12,6 +12,7 @@ longitude: 16.372504
 score: 0.88
 title: Vienna
 type: location
+loc_type: city
 ---
 
 Vienna is one of Europe's great imperial capitals, a city that spent six centuries as the heart of the Habsburg Empire and has never quite forgotten it. The architecture is monumental, the coffee houses are legendary, and the cultural life — opera, classical music, museums — is among the richest on the continent. It also has an unexpectedly lively contemporary scene, with excellent restaurants, underground clubs, and one of Europe's most inventive wine cultures in the hills just beyond the suburbs.

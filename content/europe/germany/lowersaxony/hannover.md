@@ -8,6 +8,7 @@ longitude: 9.732
 score: 0.49
 title: Hannover
 type: location
+loc_type: city
 ---
 
 Hannover is a working city, and proud of it. The capital of Lower Saxony of around 530,000 people, it earns its keep as Germany's trade-fair capital — the Hannover Messe and (in its day) CeBIT brought hundreds of thousands of business visitors a year. That history shapes the place: efficient, well-connected, often pragmatic, occasionally accused of being dull. Travellers tend to use it as a stopover. They are missing something.

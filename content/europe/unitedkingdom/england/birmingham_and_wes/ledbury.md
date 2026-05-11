@@ -6,6 +6,7 @@ longitude: -2.428782
 score: 0.5
 title: Ledbury
 type: location
+loc_type: city
 ---
 
 Ledbury is one of the prettiest market towns in Herefordshire, with a remarkable concentration of black-and-white timber-framed buildings lining its streets. Church Lane, a narrow cobbled passage running from the high street up to the church, is the most photographed spot — a tunnel of overhanging medieval buildings that looks like it has not changed in centuries.

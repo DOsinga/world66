@@ -6,6 +6,7 @@ longitude: -4.006
 title: Combe Martin
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Combe Martin sits on Exmoor's far western coastal fringe, tucked into one of Devon's longest villages stretching along a narrow valley down to the sea. The coastal scenery is excellent, with dramatic cliffs and a sheltered sandy beach that makes for good swimming at low tide.

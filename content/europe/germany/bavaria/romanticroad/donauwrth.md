@@ -6,6 +6,7 @@ longitude: 10.78073
 title: Donauwörth
 type: location
 score: 0.52
+loc_type: city
 ---
 
 Donauwörth sits where the Wörnitz meets the Danube, making it one of the more substantial stops on the Romantic Road. It is a working Bavarian town rather than a museum piece — rebuilt after heavy Second World War bombing but done carefully, so the old streets still feel like themselves.

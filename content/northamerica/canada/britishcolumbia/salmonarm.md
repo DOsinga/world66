@@ -6,6 +6,7 @@ longitude: -119.279053
 score: 0.45
 title: Salmon Arm
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

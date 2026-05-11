@@ -4,6 +4,7 @@ type: location
 latitude: 68.440505
 longitude: 22.474315
 score: 0.43
+loc_type: city
 ---
 
 Karesuando is the northernmost town in Sweden, sitting on the Muonio River right at the Finnish border. The Finnish town of Karesuanto is just across the bridge, and the two communities share a culture that is as much Finnish and Sami as it is Swedish. The landscape up here is subarctic tundra and birch forest, flat and vast, with temperatures that drop below minus 40 in winter.

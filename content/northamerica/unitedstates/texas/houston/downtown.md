@@ -6,6 +6,7 @@ longitude: -95.3698
 title: Downtown
 type: location
 score: 0.44
+loc_type: neighbourhood
 ---
 
 Downtown Houston is the heart of the nation's fourth-largest city, a cluster of glass skyscrapers connected by a seven-mile underground tunnel system that lets you walk between buildings in air-conditioned comfort during the brutal summer heat. The tunnels are a world unto themselves, lined with restaurants, shops, and coffee stands, and they are packed with office workers at lunch.

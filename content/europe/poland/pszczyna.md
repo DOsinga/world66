@@ -8,6 +8,7 @@ longitude: 18.942372
 score: 0.47
 title: Pszczyna
 type: location
+loc_type: city
 ---
 
 Pszczyna is a small, well-preserved town in Upper Silesia, about 40 kilometres south of Katowice, that punches well above its weight for a place of its size. Its main draw is the baroque palace on the edge of the old town — one of the finest in Poland — surrounded by a landscaped English park with a herd of European bison. The market square is compact and pleasant, the streets are quiet, and the whole place has an unhurried feel that contrasts sharply with the industrial belt to the north.

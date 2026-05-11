@@ -6,6 +6,7 @@ longitude: 56.515355
 title: Ibri
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Located halfway between [Muscat](/asia/oman/muscat) and the border with the Emirates, Ibri is an old caravan town in the Ad Dhahirah region that most travellers drive through without stopping. That is a mistake. The town has a restored fort, a lively souq that still caters to locals rather than tourists, and a genuine small-town Omani atmosphere that the more polished destinations along the coast have lost.

@@ -6,6 +6,7 @@ longitude: 4.125217
 score: 0.4
 title: Hainaut
 type: location
+loc_type: city
 ---
 
 Hainaut is [Belgium's](/europe/belgium) southwesternmost province, a stretch of Wallonia that runs from the old industrial heartland around Charleroi down to the French border. It is not glamorous — this was coal and steel country, and the scars show — but it holds two of Belgium's most interesting cities.

@@ -6,6 +6,7 @@ longitude: 16.948781
 title: Baška Voda
 type: location
 score: 0.57
+loc_type: city
 ---
 
 **Baška Voda** is a small seaside town on the Makarska Riviera, on the Croatian Adriatic coast south of [Split](/europe/croatia/split). It sits at the foot of Mount Biokovo, with pebble beaches facing the island of Brac across a narrow channel.

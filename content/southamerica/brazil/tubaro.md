@@ -6,6 +6,7 @@ longitude: -49.014132
 title: Tubarão
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Tubarão sits between the mountains and the sea in southern Santa Catarina, about 130 kilometres south of Florianópolis. The city of around 90,000 people is a regional commercial centre with a strong Italian, German, and Azorean heritage. Its main draw for visitors is the thermal waters — hot springs channelled into comfortable spa complexes in the surrounding area, particularly in nearby Gravatal.

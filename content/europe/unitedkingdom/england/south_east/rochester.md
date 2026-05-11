@@ -6,6 +6,7 @@ longitude: 0.5049
 score: 0.53
 title: Rochester
 type: location
+loc_type: city
 ---
 
 Rochester is the most rewarding of the Medway towns, a compact historic city on the south bank of the River Medway in Kent. Two monuments dominate the skyline and justify the journey from London: Rochester Castle, one of the best-preserved Norman keeps in England, and Rochester Cathedral, which dates from 604 AD and is the second oldest cathedral in Britain.

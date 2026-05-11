@@ -12,6 +12,7 @@ longitude: 102.135898
 score: 0.72
 title: Luang Prabang
 type: location
+loc_type: city
 ---
 
 Luang Prabang is quite possibly the most beautiful small city in Southeast Asia. Set on a peninsula where the Nam Khan meets the Mekong, the UNESCO World Heritage old town is a tapestry of gilded temples, French colonial buildings, and traditional wooden houses shaded by frangipani trees.

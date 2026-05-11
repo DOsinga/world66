@@ -6,6 +6,7 @@ longitude: 50.540717
 title: Jid Hafs
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Jidd Hafs is a residential suburb sitting just west of Manama, Bahrain's capital. It is one of the oldest settled areas on the island and served as Bahrain's capital city before Manama took that role — traces of that longer history show in its older neighbourhoods and traditional architecture amid the modern sprawl.

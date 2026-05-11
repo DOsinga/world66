@@ -6,6 +6,7 @@ longitude: 10.876873
 title: Landsberg am Lech
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Landsberg am Lech tumbles down a steep hillside to the river, its old town crowned by the Bayertor — one of the most impressive Gothic gate towers in southern Germany. The town has a prosperous, well-kept feel, with painted facades and a handsome main square dominated by a stuccoed town hall designed by Dominikus Zimmermann, the same architect responsible for the Wieskirche.

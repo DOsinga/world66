@@ -4,6 +4,7 @@ longitude: -0.180109
 score: 0.32
 title: Crawley
 type: location
+loc_type: city
 ---
 
 Crawley is a new town in West Sussex, designated in 1947 and built largely in the postwar decades to relieve housing pressure on London. Its main claim to fame is its proximity to Gatwick Airport, which sits just north of the town and dominates the local economy. If you are flying into or out of Gatwick, Crawley offers cheaper accommodation and better restaurants than the airport hotels.

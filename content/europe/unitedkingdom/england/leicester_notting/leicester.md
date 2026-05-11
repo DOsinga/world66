@@ -6,6 +6,7 @@ longitude: -1.1332
 done:
   location_cleanup: 2026-04-07
 score: 0.48
+loc_type: city
 ---
 
 Leicester is a Midlands city with a lot more going on than its industrial reputation suggests. Founded as a Roman settlement (Ratae Coritanorum), it has a long layered history visible in everything from a chunk of Roman wall in the city centre to the medieval castle and guildhall. Then in 2012, archaeologists discovered the remains of King Richard III under a car park here — the most dramatic archaeological find in Britain in living memory. He's now interred in the cathedral, and the Richard III Visitor Centre is genuinely excellent.

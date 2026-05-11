@@ -6,6 +6,7 @@ longitude: -85.6166
 title: Traverse City
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Traverse City sits at the base of the two arms of Grand Traverse Bay in northern Michigan and styles itself the Cherry Capital of the World. The surrounding Leelanau and Old Mission peninsulas are covered in cherry orchards and vineyards, and the National Cherry Festival each July draws big crowds.

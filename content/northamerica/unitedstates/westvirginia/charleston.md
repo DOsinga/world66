@@ -8,6 +8,7 @@ longitude: -81.6326
 score: 0.41
 title: Charleston
 type: location
+loc_type: city
 ---
 
 Charleston is the capital of [West Virginia](/northamerica/unitedstates/westvirginia) and the state's largest city, sitting at the confluence of the Kanawha and Elk rivers. With a population of around 50,000 in the city proper and 200,000 in the wider metro, it punches above its weight as a regional hub for government, healthcare, and what remains of the chemical industry that defined this valley for most of the 20th century.

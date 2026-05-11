@@ -6,6 +6,7 @@ longitude: 6.767826
 title: Föhren
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Föhren is a small village in Rhineland-Palatinate, set among vineyards a few kilometres from [Trier](/europe/germany/rhinelandpalatinate/trier). It sits in the Mosel wine country, and the gentle landscape of river, slopes, and vines that characterises this part of Germany is at its best in the area around Föhren.

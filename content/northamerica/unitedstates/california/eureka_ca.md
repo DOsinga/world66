@@ -8,6 +8,7 @@ longitude: -124.170756
 score: 0.44
 title: Eureka, CA
 type: location
+loc_type: city
 ---
 
 Eureka sits on the shore of Humboldt Bay, 275 miles north of San Francisco along Highway 101, surrounded by some of the tallest trees on earth. Founded in 1850 as a shipping hub for the Trinity gold mines, the city grew into a prosperous Victorian port town — and the evidence is everywhere. Eureka has one of the finest collections of Victorian architecture on the West Coast, concentrated in its Old Town, where ornate painted houses line streets full of galleries, restaurants, and independent shops.

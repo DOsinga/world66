@@ -6,6 +6,7 @@ longitude: 83.9714
 done:
   location_cleanup: 2026-04-06
 score: 0.27
+loc_type: city
 ---
 
 Jharsuguda is a small district town in western [Orissa](/asia/india/orissa), historically part of the Sambalpur kingdom founded by the Chauhan dynasty in the 16th century. It is an industrial town at heart — coal, aluminium, and power plants dominate the local economy — but the surrounding district holds a handful of genuinely interesting sites for those passing through.

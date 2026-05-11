@@ -6,6 +6,7 @@ longitude: -8.64042
 title: Valença do Minho
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Valenca do Minho sits on the northern border of [Portugal](/europe/portugal), perched above the Minho River with [Spain](/europe/spain) visible on the opposite bank. The town is dominated by its massive double-walled fortress, built in the 17th century to defend against Spanish incursions. The fortifications are remarkably intact — you can walk the full circuit of the walls, with views over the river, the Eiffel-designed railway bridge, and the Spanish town of Tuy across the water.

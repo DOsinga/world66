@@ -6,6 +6,7 @@ longitude: 52.993283
 title: Krasnovodsk
 type: location
 score: 0.25
+loc_type: city
 ---
 
 Krasnovodsk is the former Soviet-era name for the Caspian port city now called [Turkmenbashi](/asia/turkmenistan/turkmenbashi), located on [Turkmenistan](/asia/turkmenistan)'s western coast. The city was renamed in 1993 when President Saparmurat Niyazov gave it his own title, "Turkmenbashi" — Leader of the Turkmens.

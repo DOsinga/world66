@@ -4,6 +4,7 @@ type: location
 latitude: 32.7532
 longitude: -97.3327
 score: 0.44
+loc_type: city
 ---
 
 Fort Worth calls itself "Where the West Begins," and it means it. The western half of the DFW Metroplex has a completely different personality from its flashy neighbor to the east. This is Cowtown, Panther City, the place where cattle drives once ended and cowboys blew their wages in Stockyards saloons.

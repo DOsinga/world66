@@ -6,6 +6,7 @@ longitude: -106.82356
 done:
   location_cleanup: 2026-04-07
 score: 0.71
+loc_type: city
 ---
 
 Aspen sits at 2,400 meters in the upper Roaring Fork Valley, surrounded by some of Colorado's most dramatic peaks. It started as a silver mining town in the 1880s, went bust, and reinvented itself as a ski resort after World War II. Today it is one of America's wealthiest small towns, and the prices reflect it.

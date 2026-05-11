@@ -6,6 +6,7 @@ longitude: -8.8406
 title: La Toja/A Toxa Island
 type: location
 score: 0.58
+loc_type: city
 ---
 
 La Toja (A Toxa in Galician) is a small island off the coast of [Galicia](/europe/spain/galicia), connected to the O Grove peninsula by a bridge built in the early 20th century. Together with the Island of Arousa, it is one of the great island spaces in the Rías Baixas.

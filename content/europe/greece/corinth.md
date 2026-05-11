@@ -8,6 +8,7 @@ longitude: 22.927377
 score: 0.54
 title: Corinth
 type: location
+loc_type: city
 ---
 
 Ancient Corinth was one of the most powerful cities in the Greek world — a wealthy trading hub that sat astride the narrow isthmus connecting mainland Greece to the Peloponnese. Today's city is a modern Greek town rebuilt after a devastating earthquake in 1928, pleasant but unremarkable. What draws visitors is the archaeology: the Roman agora with its seven surviving Doric columns, the Fountain of Peirene where Bellerophon is said to have caught Pegasus, and above all the great rock fortress of Acrocorinth looming over everything.

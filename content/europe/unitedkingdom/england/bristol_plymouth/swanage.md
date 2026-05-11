@@ -8,6 +8,7 @@ longitude: -1.957197
 score: 0.52
 title: Swanage
 type: location
+loc_type: city
 ---
 
 Swanage is a small seaside town on the Dorset coast at the eastern end of the Jurassic Coast, a UNESCO World Heritage Site whose cliffs tell 185 million years of geological history. The town itself is a classic English resort, with a sandy beach, a Victorian pier, and rows of ice cream shops, but the landscape surrounding it is genuinely spectacular.

@@ -6,6 +6,7 @@ longitude: -2.0166
 title: Skipton
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Skipton bills itself as the Gateway to the Dales, and it earns the title. This handsome market town sits just south of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales), with a medieval castle, a wide high street that fills with market stalls four days a week, and the Leeds-Liverpool Canal threading through the centre.

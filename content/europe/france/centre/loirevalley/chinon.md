@@ -8,6 +8,7 @@ longitude: 0.2402
 score: 0.63
 title: Chinon
 type: location
+loc_type: city
 ---
 
 Chinon sits on the south bank of the Vienne river, its medieval fortress looming over a compact old town of half-timbered houses and tufa-stone mansions. It's one of the most characterful towns in the Loire Valley — small enough to walk across in an hour, substantial enough to fill a full day.

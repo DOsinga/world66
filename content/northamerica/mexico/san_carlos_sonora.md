@@ -6,6 +6,7 @@ longitude: -111.0111
 title: San Carlos (Sonora)
 type: location
 score: 0.46
+loc_type: city
 ---
 
 San Carlos is a small beach resort on the Sea of Cortez, about 15 kilometres from the port of Guaymas in the state of Sonora. The setting is dramatic — copper-toned desert hills drop steeply into deep blue water, with the distinctive twin peaks of Cerro Tetakawi rising above the bay like a landmark.

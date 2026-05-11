@@ -6,6 +6,7 @@ longitude: 22.859787
 score: 0.5
 title: Tolo
 type: location
+loc_type: city
 ---
 
 Tolo sits at the foot of the Argolid hills where a long crescent of sand meets the calm waters of the Argolic Gulf — one of the finest beaches in the eastern Peloponnese. The bay curves gently, the sea stays shallow for a good distance out, and in summer the water reaches the kind of temperature that makes it hard to leave. Despite being popular with Greek families and European visitors, Tolo has resisted the worst excesses of resort development. The main strip of tavernas, cafés and small hotels runs directly behind the beach, and the pace is decidedly unhurried.

@@ -6,6 +6,7 @@ longitude: 6.2594
 title: Fléville
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Fléville-devant-Nancy is a small commune just south of Nancy, best known for the Château de Fléville — one of the finest Renaissance castles in eastern France. The château has been in private ownership for nearly two centuries and is open to visitors.

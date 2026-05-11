@@ -6,6 +6,7 @@ longitude: -122.34731
 title: Burlingame
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Burlingame is a small, comfortable city on the San Francisco Peninsula, sandwiched between the bay and the hills about 15 miles south of San Francisco. Its most distinctive feature is its proximity to SFO airport, which sits just to the north — making it a practical stopover or base if you have an early flight or a long layover.

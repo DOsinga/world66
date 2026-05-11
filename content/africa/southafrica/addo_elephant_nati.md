@@ -6,6 +6,7 @@ longitude: 25.282611
 title: Addo Elephant National Park
 type: location
 score: 0.65
+loc_type: feature
 ---
 
 Addo Elephant National Park sits in the Sundays River valley near Port Elizabeth in the Eastern Cape, and it is one of the great wildlife success stories of southern Africa. When the park was founded in 1931, just eleven elephants remained in the area. Today more than 450 roam the bush, alongside 400 Cape buffalo, over 48 endangered black rhino, and recently reintroduced lion and spotted hyena.

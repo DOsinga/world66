@@ -10,6 +10,7 @@ longitude: 4.611198
 score: 0.44
 title: IJmuiden
 type: location
+loc_type: city
 ---
 
 Till recently IJmuiden was not a real tourist destination, it was a busy industrial harbor with its steel and fish industries. These industries are still the main source of income wich makes IJmuiden a double faced and interesting place to visit. There's the industrial part of a real harbor, there's a marina and plenty of seaside activity and surrounding all this are some of the most beautiful Dutch landscape sceneries very much like those that already inspired 17th century landscape painters. 

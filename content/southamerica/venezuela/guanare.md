@@ -6,6 +6,7 @@ longitude: -69.741259
 title: Guanare
 type: location
 score: 0.32
+loc_type: city
 ---
 
 **Guanare** is the capital of Portuguesa state, located on the Venezuelan llanos (plains). It is known as the spiritual capital of Venezuela — the Virgen de Coromoto, the country's patron saint, is said to have appeared here in 1652.

@@ -6,6 +6,7 @@ longitude: -83.068
 title: Delaware
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Delaware is a small city about half an hour north of Columbus, Ohio. It has a handsome downtown of nineteenth-century buildings in Greek Revival and Victorian styles, several streets of stately homes on the National Register of Historic Places, and the kind of quiet charm that rewards a slow walk.

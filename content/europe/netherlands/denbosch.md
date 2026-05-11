@@ -10,6 +10,7 @@ longitude: 5.3031
 title: Den Bosch
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Den Bosch — officially 's-Hertogenbosch — is one of the most attractive cities in the south of the Netherlands. It was a major religious and political centre in the Middle Ages, and that heritage shows in its outstanding **St. John's Cathedral**, a masterpiece of Brabant Gothic that took two centuries to build. The flying buttresses crawling with fantastical stone figures are unlike anything else in the country.

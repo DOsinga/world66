@@ -6,6 +6,7 @@ longitude: -105.9497
 title: Keystone
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Keystone is a ski resort town in Summit County, Colorado, about 75 miles west of Denver along Interstate 70. The resort spreads across three mountains and is known for its long season, night skiing, and family-friendly runs, making it a popular choice for Denver residents on weekend trips.

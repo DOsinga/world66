@@ -6,6 +6,7 @@ longitude: -6.0
 title: Dades Valley
 type: location
 score: 0.63
+loc_type: city
 ---
 
 The Dades Valley stretches east from Ouarzazate into the High Atlas foothills, its floor bright green with palmeries, its walls rising into dramatic ochre and rose-coloured rock formations. The road along the valley — the N10, known as the Route des Kasbahs — passes through a succession of oasis villages, each with its own crumbling or restored kasbah, before entering the spectacular narrows of the Dades Gorge.

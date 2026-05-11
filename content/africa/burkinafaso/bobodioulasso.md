@@ -8,6 +8,7 @@ longitude: -4.296144
 score: 0.37
 title: Bobo-dioulasso
 type: location
+loc_type: city
 ---
 
 Bobo-Dioulasso is Burkina Faso's second city and by most accounts its most pleasant. Where [Ouagadougou](/africa/burkinafaso/ouagadougou) is dusty and bureaucratic, Bobo is green, shaded, and unhurried — a city of wide boulevards, busy market squares, and a relaxed atmosphere that makes it easy to linger.

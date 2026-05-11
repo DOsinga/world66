@@ -6,6 +6,7 @@ longitude: 100.3633
 title: Padang
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Padang is the capital of West Sumatra and the main gateway to the Minangkabau highlands. Most travellers pass through on the way to or from the Mentawai Islands or the hill towns of Bukittinggi and Lake Maninjau, but the city rewards a longer look.

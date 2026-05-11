@@ -8,6 +8,7 @@ longitude: -122.579705
 score: 0.53
 title: Calistoga
 type: location
+loc_type: city
 ---
 
 Calistoga sits at the northern end of the Napa Valley, at the foot of Mount St. Helena. It is a small town — about 5,000 people — with a main street lined with tasting rooms, old storefronts, and a pace noticeably slower than the valley's more polished towns to the south.

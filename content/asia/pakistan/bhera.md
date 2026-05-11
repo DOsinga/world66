@@ -6,6 +6,7 @@ longitude: 72.911052
 title: Bhera
 type: location
 score: 0.24
+loc_type: city
 ---
 
 Bhera is historical town of Punjab in district Sargodha. Bhera is

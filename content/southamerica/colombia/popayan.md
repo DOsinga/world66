@@ -12,6 +12,7 @@ longitude: -76.6072
 score: 0.56
 title: Popayan
 type: location
+loc_type: city
 ---
 
 Popayan is Colombia's White City, and the name is earned. Nearly every building in the colonial centre is painted a brilliant, uniform white, giving the whole place a calm, luminous quality that is unlike anywhere else in the country. Founded in 1537 by Sebastian de Belalcazar, it served as a strategic waypoint between Lima, Quito, and Cartagena, and the wealth that passed through left behind a concentration of churches, mansions, and bridges that survives to this day.

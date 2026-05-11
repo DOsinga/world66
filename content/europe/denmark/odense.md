@@ -8,6 +8,7 @@ longitude: 10.3852
 score: 0.56
 title: Odense
 type: location
+loc_type: city
 ---
 
 Odense is Denmark's third-largest city and the birthplace of Hans Christian Andersen, a fact the city embraces wholeheartedly. The Hans Christian Andersen Museum, recently rebuilt and expanded, is the centrepiece, but Odense has more to offer than fairy tales.

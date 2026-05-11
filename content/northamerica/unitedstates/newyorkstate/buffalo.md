@@ -8,6 +8,7 @@ longitude: -78.878149
 score: 0.43
 title: Buffalo
 type: location
+loc_type: city
 ---
 
 Buffalo is a working city on Lake Erie, 20 minutes from the Canadian border and 30 from **Niagara Falls**. Its heyday was the turn of the 20th century, when the opening of the Erie Canal made it the second-largest grain-shipping port in the world — and the wealth that flowed through built one of the best collections of early-20th-century American architecture you'll find anywhere. Frank Lloyd Wright's Darwin D. Martin House, Louis Sullivan's Guaranty Building, and H.H. Richardson's towers of the old state asylum are all still here.

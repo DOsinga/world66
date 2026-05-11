@@ -6,6 +6,7 @@ longitude: -11.186383
 score: 0.26
 title: Kenema
 type: location
+loc_type: city
 ---
 
 Kenema is the third-largest city in [Sierra Leone](/africa/sierraleone), capital of the Eastern Province, and the gateway to the country's diamond country. Sitting at the edge of the Gola Rainforest, it has a different feel from the coastal capital [Freetown](/africa/sierraleone/freetown) — greener, quieter, and more deeply connected to the interior.

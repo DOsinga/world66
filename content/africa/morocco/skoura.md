@@ -6,6 +6,7 @@ longitude: -6.55755
 title: Skoura
 type: location
 score: 0.52
+loc_type: city
 ---
 
 Skoura is a small oasis town in the Draa Valley, about 40 km east of Ouarzazate, famous for its dense palm grove and the ancient kasbahs scattered within it. The town itself is unremarkable, but the palm grove that surrounds it is the point — a labyrinth of irrigation channels, mud-walled kasbahs, and shaded paths that rewards unhurried exploration.

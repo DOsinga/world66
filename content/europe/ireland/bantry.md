@@ -10,6 +10,7 @@ longitude: -9.45236
 score: 0.54
 title: Bantry
 type: location
+loc_type: city
 ---
 
 Bantry sits at the head of Bantry Bay, one of the finest natural harbours in [Ireland](/europe/ireland), with the wild Beara and Sheep's Head peninsulas reaching out on either side. It is a small West Cork town with an outsized sense of place — colourful shopfronts line the main square, fishing boats bob in the harbour, and the mountains behind shift between green and grey depending on the light.

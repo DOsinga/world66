@@ -6,6 +6,7 @@ longitude: 97.038726
 title: Taunggyi
 type: location
 score: 0.38
+loc_type: city
 ---
 
 **Taunggyi** is the administrative capital of Shan State and Myanmar's fourth-largest city, after Yangon, Mandalay, and Mawlamyine. The name means "big hill" — an understatement for the dramatic scarp slope on which the town perches, looking out over the Shan Plateau.

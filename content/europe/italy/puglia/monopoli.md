@@ -8,6 +8,7 @@ longitude: 17.2999
 score: 0.64
 title: Monopoli
 type: location
+loc_type: city
 ---
 
 Monopoli is a handsome port town on the Adriatic coast of Puglia, about 50 kilometres southeast of Bari. Its name — from the Greek for "single city" — refers to its origins as a refuge after the Ostrogoth king Totila destroyed the nearby ancient city of Egnathia in 545 AD. What followed was a succession of rulers — Byzantines, Normans, Swabians, Venetians, Spanish — each of whom left something behind in the stone of the old town.

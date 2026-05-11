@@ -6,6 +6,7 @@ longitude: 2.755
 title: St-Pons-de-Thomières
 type: location
 score: 0.49
+loc_type: city
 ---
 
 St-Pons-de-Thomieres is the unofficial capital of the Parc Naturel Regional du Haut-Languedoc, a small town tucked into a wooded valley where the River Jaur passes through. The cathedral, originally part of a Benedictine abbey founded in 936, dominates the centre with its mix of Romanesque and Gothic architecture. Inside, the carved marble heads on the choir stalls are worth a close look.

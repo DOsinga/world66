@@ -11,6 +11,7 @@ longitude: 2.177073
 score: 0.9
 title: Barcelona
 type: location
+loc_type: city
 ---
 
 Barcelona is one of those rare cities that genuinely lives up to its reputation. The capital of Catalonia sprawls along the Mediterranean coast, hemmed in by hills and sea, and packs more architectural spectacle, street life and sheer creative energy into its neighbourhoods than most countries manage in their entirety.

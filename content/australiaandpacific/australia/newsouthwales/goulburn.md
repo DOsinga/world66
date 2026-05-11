@@ -6,6 +6,7 @@ longitude: 149.719801
 score: 0.37
 title: Goulburn
 type: location
+loc_type: city
 ---
 
 Goulburn is a solid country city in the Southern Tablelands of New South Wales, about 200 km southwest of Sydney on the main road and rail line to Canberra. It bills itself as Australia's first inland city and has a well-preserved Victorian and Edwardian streetscape that makes it more visually interesting than many inland NSW towns. The Rocky Hill War Memorial and its observation tower gives good views over the surrounding pastoral country.

@@ -6,6 +6,7 @@ longitude: 27.916665
 title: Varna
 type: location
 score: 0.6
+loc_type: city
 ---
 
 Varna is Bulgaria's third-largest city and the de facto capital of the Black Sea coast. Unlike the purpose-built resort towns to the north and south, Varna is a real city — with a functioning port, a good archaeological museum, a lively pedestrianised centre, and a large seaside park that fills with Bulgarians on summer evenings.

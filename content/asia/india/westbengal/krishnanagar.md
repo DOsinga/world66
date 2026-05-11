@@ -6,6 +6,7 @@ longitude: 88.495893
 title: Krishnanagar
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Krishnanagar is a district headquarters in Nadia, about 2.5 hours by train from Kolkata's Sealdah station. It is named after Raja Krishnachandra, the 18th-century king whose palace still stands in the town. The palace has historical significance but is not in great shape; it is worth a look.

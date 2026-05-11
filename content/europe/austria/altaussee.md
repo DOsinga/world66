@@ -5,6 +5,7 @@ latitude: 47.6399
 longitude: 13.7641
 done:
   location_cleanup: "2026-04-14"
+loc_type: city
 ---
 
 Altaussee is a small lakeside village in the Salzkammergut, tucked into a high valley between steep wooded mountains in Styria. The lake — brilliant green-blue and surrounded by meadows — is one of the most beautiful in the region, and the village itself is quiet and uncommercialised compared to the more-visited spots nearby. Artists and writers have been coming here since the 19th century; the place has always had a contemplative quality that the bigger resort towns lack.

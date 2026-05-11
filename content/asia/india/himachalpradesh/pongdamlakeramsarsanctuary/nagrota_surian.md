@@ -6,6 +6,7 @@ longitude: 76.0888
 title: Nagrota Surian
 type: location
 score: 0.28
+loc_type: city
 ---
 
 Nagrota Surian is a small town on the edge of the Pong Dam Lake wetlands, and the most practical base for exploring this Ramsar-designated bird sanctuary. The lake and its surrounding marshes attract hundreds of thousands of migratory birds between November and March, including bar-headed geese, ruddy shelducks, and various species of wader.

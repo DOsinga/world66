@@ -7,6 +7,7 @@ longitude: -8.8779
 score: 0.55
 title: Taroudant
 type: location
+loc_type: city
 ---
 
 Taroudant sits in the Souss valley at the foot of the High Atlas, enclosed by some of the best-preserved medieval ramparts in Morocco. Locals call it "little Marrakesh" — it has the same ochre walls and Berber soul but a fraction of the tourists, and a great deal more calm.

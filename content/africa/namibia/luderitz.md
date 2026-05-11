@@ -6,6 +6,7 @@ longitude: 15.157266
 score: 0.51
 title: Lüderitz
 type: location
+loc_type: city
 ---
 
 Lüderitz is one of the strangest towns in Africa — a pocket of German Art Nouveau architecture set on a windswept, rocky coast at the edge of the Namib Desert. The town was founded in 1883 by a German merchant and boomed briefly during a diamond rush in the early 1900s, then settled into a long, quiet decline. Today it has a population of about 12,000 and a slightly surreal atmosphere: pastel-coloured Jugendstil buildings, a Lutheran church on a hill, and the cold Benguela Current crashing against barren rock.

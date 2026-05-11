@@ -6,6 +6,7 @@ longitude: 75.7361
 title: Bundi
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Bundi is what Rajasthan must have felt like before the tour buses arrived. This small town, about 40 km from [Kota](/asia/india/rajasthan/kota), sits below the star-shaped Taragarh Fort and is filled with crumbling havelis, step-wells, and narrow lanes largely free of souvenir shops.

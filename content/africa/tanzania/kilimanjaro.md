@@ -7,6 +7,7 @@ longitude: 37.419856
 score: 0.68
 title: Kilimanjaro
 type: location
+loc_type: feature
 ---
 
 **Part of history**

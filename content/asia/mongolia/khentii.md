@@ -6,6 +6,7 @@ longitude: 110.420104
 score: 0.42
 title: Khentii
 type: location
+loc_type: city
 ---
 
 Khentii is a vast, sparsely populated province in eastern Mongolia, rolling across forested mountains and open steppe toward the Russian and Chinese borders. It is best known as the birthplace of Genghis Khan — the town of Dadal, near the Onon River, is the traditional site — and that history gives the entire region an outsized significance for anyone interested in the Mongol Empire.

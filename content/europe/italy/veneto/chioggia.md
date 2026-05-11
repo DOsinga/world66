@@ -6,6 +6,7 @@ longitude: 12.278581
 title: Chioggia
 type: location
 score: 0.57
+loc_type: city
 ---
 
 If you think [Venice](/europe/italy/veneto/venice) is too touristy, try Chioggia. Sitting at the southern end of the Venetian lagoon, this compact fishing town has canals, bridges, and colourful buildings that echo Venice, but without the crowds and the inflated prices. Chioggia is a real working town, and its identity revolves around its fish market, one of the most important on the Adriatic.

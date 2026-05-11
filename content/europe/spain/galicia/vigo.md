@@ -6,6 +6,7 @@ longitude: -8.7247
 score: 0.55
 title: Vigo
 type: location
+loc_type: city
 ---
 
 Vigo is the largest city in Galicia and one of the great fishing ports of Europe, spread around a deep natural harbour (the Ría de Vigo) on Spain's Atlantic coast, just north of Portugal. It is a working city rather than a tourist one, but the setting is dramatic, the seafood is extraordinary, and the Cíes Islands offshore are among the most beautiful beaches in Spain.

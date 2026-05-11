@@ -6,6 +6,7 @@ longitude: -3.991498
 title: Princetown
 type: location
 score: 0.5
+loc_type: city
 ---
 
 This claims to be England's highest town. It was once connected to Yelverton by a branch line of the Great Western Railway's line from

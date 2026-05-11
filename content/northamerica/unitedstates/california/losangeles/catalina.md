@@ -7,6 +7,7 @@ longitude: -118.416
 score: 0.59
 title: Catalina
 type: location
+loc_type: city
 ---
 
 Catalina Island sits 26 miles off the coast of Los Angeles, and it feels like a different country. The crossing from San Pedro or Long Beach takes about an hour by ferry, but the moment you step onto the pier in Avalon, the freeways and smog are a world away. The water in the harbour is an almost absurd shade of blue.

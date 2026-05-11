@@ -6,6 +6,7 @@ longitude: -13.503987
 title: Kaedi
 type: location
 score: 0.28
+loc_type: city
 ---
 
 Kaedi is a river town on the northern bank of the Senegal River in southern Mauritania, serving as the main crossing point into Senegal in this part of the country. The population is an ethnic mix of Toucouleur, Halpulaar (Fulani), Beidane Arabs and Berbers, and Haratine. It is a quiet, easy-going place with a riverside character and more green vegetation than much of Mauritania.

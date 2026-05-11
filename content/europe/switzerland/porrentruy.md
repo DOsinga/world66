@@ -6,6 +6,7 @@ longitude: 7.0761
 score: 0.45
 title: Porrentruy
 type: location
+loc_type: city
 ---
 
 Porrentruy is the main town of the Ajoie, the flat agricultural plain in the far northwest of Switzerland that nudges up against the French border near Alsace. It is the second-largest town in the canton of Jura and has a relaxed, slightly French character — more bistro than Beizli, more Alsatian wine than Chasselas. The Château de Porrentruy dominates from its promontory above the old town, a late medieval bishop's residence with towers that still define the skyline.

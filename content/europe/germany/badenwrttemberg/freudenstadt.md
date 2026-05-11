@@ -8,6 +8,7 @@ longitude: 8.4112
 score: 0.5
 title: Freudenstadt
 type: location
+loc_type: city
 ---
 
 Freudenstadt sits at around 730 metres in the Northern Black Forest, and its name — "city of joy" — was chosen by Duke Frederick I of Württemberg when he founded the town in 1599. The centrepiece is the Marktplatz, at nearly five hectares the largest enclosed market square in Germany, ringed by Renaissance arcades and anchored by a Lutheran church whose two wings meet at a right angle — a curiosity of Protestant architecture that dates to the same founding moment as the square itself.

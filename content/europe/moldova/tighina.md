@@ -6,6 +6,7 @@ longitude: 29.474065
 title: Tighina
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Tighina (known in Russian as Bender) is a city of around 80,000 on the west bank of the Dniester, technically within Moldova's constitutional borders but controlled by Transnistrian authorities. It sits just across the river from [Tiraspol](/europe/moldova/tiraspol) and is usually visited as part of the same trip.

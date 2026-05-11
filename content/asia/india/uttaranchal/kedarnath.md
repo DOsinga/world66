@@ -6,6 +6,7 @@ longitude: 79.0669
 title: Kedarnath
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Kedarnath sits at 3,583 metres in the Garhwal Himalayas and is home to one of the holiest Hindu shrines in India. The Kedarnath Temple, dedicated to Lord Shiva, is one of the four Char Dham pilgrimage sites and one of the twelve Jyotirlingas. The stone temple is believed to date from the eighth century and was built by Adi Shankaracharya.

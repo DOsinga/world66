@@ -6,6 +6,7 @@ longitude: -157.341222
 title: Mauke
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Mauke is one of the three small islands — along with Mitiaro and Atiu — that form the southern Cook Islands' inner cluster. Like its neighbours, it is ringed by makatea (raised limestone), giving it a rugged coastal character but limiting beach access. The interior is fertile, growing arrowroot, citrus, and taro.

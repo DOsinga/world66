@@ -6,6 +6,7 @@ longitude: 115.825129
 score: 0.32
 title: Donnybrook
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

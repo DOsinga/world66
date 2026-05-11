@@ -6,6 +6,7 @@ longitude: 21.0999
 done:
   location_cleanup: 2026-04-07
 score: 0.52
+loc_type: city
 ---
 
 *Europe > Greece > Prespa*

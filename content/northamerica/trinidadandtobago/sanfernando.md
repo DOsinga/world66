@@ -4,6 +4,7 @@ longitude: -61.4681
 score: 0.45
 title: San Fernando
 type: location
+loc_type: city
 ---
 
 San Fernando is Trinidad's second city, perched on a hill in the island's industrial south. The city grew on the back of the oil and petrochemical industries that dominate this part of Trinidad, and the working rigs visible from the highway on the approach give you a clear sense of what drives the local economy. Yet San Fernando has a vitality and community pride that the oil-town label does not fully capture.

@@ -6,6 +6,7 @@ longitude: -83.806999
 title: Robbinsville
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Robbinsville is the county seat of Graham County, tucked into one of the most remote and scenic corners of the Smoky Mountains. This is genuine mountain country -- untouched forests, quiet lakes, and deep valleys at prices that are surprisingly affordable compared to the more developed mountain towns.

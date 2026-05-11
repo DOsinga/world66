@@ -6,6 +6,7 @@ longitude: -72.107
 title: Pine Cay
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Pine Cay is a small private island between Providenciales and North Caicos, accessible only to guests of the Meridian Club, a low-key resort that has been operating here since the 1970s. There are no day-trippers, no day visitors, and no public ferry.

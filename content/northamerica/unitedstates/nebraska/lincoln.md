@@ -6,6 +6,7 @@ longitude: -96.7026
 title: Lincoln
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Lincoln is Nebraska's capital and its second-largest city, home to roughly 300,000 people and the University of Nebraska — which means the city has a pulse that most plains capitals lack. The Cornhuskers' Memorial Stadium seats nearly 90,000 fans on game days and briefly becomes Nebraska's third-largest city; the din carries for blocks.

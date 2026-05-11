@@ -6,6 +6,7 @@ longitude: -84.7033
 title: Arenal
 type: location
 score: 0.72
+loc_type: city
 ---
 
 Arenal Volcano is the most famous natural attraction in Costa Rica. The cone-shaped volcano erupted spectacularly in 1968 after 400 years of dormancy, and until 2010 it was constantly active — producing ash columns, explosions, and glowing red lava almost daily. It has been quiet since then, but the landscape of lava fields and rainforest around its base remains dramatic.

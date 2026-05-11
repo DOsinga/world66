@@ -6,6 +6,7 @@ longitude: 149.101268
 done:
   location_cleanup: 2026-04-05
 score: 0.54
+loc_type: city
 ---
 
 Canberra is Australia's federal capital. Established as part of Australia's federation in 1901, Canberra houses the national parliament, federal government departments, the High Court of Australia, the Australian War Memorial, and several other important institutions.

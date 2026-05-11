@@ -6,6 +6,7 @@ longitude: -2.197243
 done:
   location_cleanup: '2026-04-09'
 score: 0.47
+loc_type: city
 ---
 
 Hawes is the main market town at the head of Wensleydale in the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales), and the nearby village of Gayle sits just a few minutes' walk away. The Tuesday market is small but authentic, and the Dales Countryside Museum is genuinely worth an hour — it covers the pastoral and farming history of the dale rather than just celebrating it.

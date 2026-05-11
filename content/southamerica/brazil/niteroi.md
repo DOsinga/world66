@@ -8,6 +8,7 @@ longitude: -43.1147
 score: 0.49
 title: Niteroi
 type: location
+loc_type: city
 ---
 
 Niterói sits across Guanabara Bay from Rio de Janeiro, connected by the striking 13-kilometer Ponte Rio-Niterói. Most visitors to Rio never make the crossing, which is a shame. The city has one of the most dramatic museum buildings on earth, a string of wild oceanic beaches, and views back toward Rio that rival anything you will see from the other side.

@@ -6,6 +6,7 @@ longitude: 131.609652
 score: 0.57
 title: Oita
 type: location
+loc_type: city
 ---
 
 Oita Prefecture occupies the northeastern corner of [Kyushu](/asia/japan/kyushu) and is Japan's hot spring capital. Beppu, on the coast, produces more hot spring water than anywhere else in the country — steam rises from drains, hillsides, and hotel lobbies. The "hells" (jigoku) are boiling pools of vivid blue, red, and grey that you look at rather than bathe in, but the city has hundreds of public baths where you can soak for a few hundred yen.

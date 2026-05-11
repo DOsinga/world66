@@ -6,6 +6,7 @@ longitude: -0.615511
 title: Whitby
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Whitby is a fishing town on the North Yorkshire coast, 47 miles from [York](/europe/unitedkingdom/england/york), built into the steep sides of the River Esk where it meets the North Sea. The harbour divides the town in two: the old town on the east side is a tangle of narrow streets climbing the cliff, while the west side has a long sandy beach and the usual seaside amusements.

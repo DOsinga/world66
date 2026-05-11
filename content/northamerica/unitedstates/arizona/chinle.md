@@ -6,6 +6,7 @@ longitude: -109.567069
 title: Chinle
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Chinle is one of the largest communities on the Navajo Nation, in the northeast corner of Arizona near the New Mexico border. Almost everyone comes here for one reason: Canyon de Chelly National Monument, a stunning canyon system of red sandstone walls harbouring ancient Ancestral Puebloan cliff dwellings, rock art, and ruins.

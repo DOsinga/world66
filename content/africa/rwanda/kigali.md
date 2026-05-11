@@ -6,6 +6,7 @@ longitude: 30.0606
 done:
   location_cleanup: 2026-04-07
 score: 0.52
+loc_type: city
 ---
 
 Kigali is one of the cleanest, safest, and most surprising capital cities in Africa. Spread across a series of lush hills and valleys, it has transformed itself remarkably since the 1994 genocide. The streets are spotless (plastic bags are banned nationwide), the roads are good, and the city hums with quiet ambition. It is not a place you pass through — it deserves a few days of your time.

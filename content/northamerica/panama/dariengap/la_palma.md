@@ -6,6 +6,7 @@ longitude: -77.6878
 done:
   location_cleanup: 2026-04-07
 score: 0.32
+loc_type: city
 ---
 
 La Palma is the administrative capital of Darién Province, sitting on a narrow peninsula where the Tuira River meets the Gulf of San Miguel. It's a small, functional town — the largest settlement in the Darién and the last point with reliable services before you head deeper into one of the most remote and ecologically rich regions in the Americas.

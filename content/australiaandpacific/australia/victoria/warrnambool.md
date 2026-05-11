@@ -7,6 +7,7 @@ longitude: 142.4814
 score: 0.46
 title: Warrnambool
 type: location
+loc_type: city
 ---
 
 Warrnambool sits snugly between the Merri and Hopkins rivers at the western end of the Great Ocean Road. Once a major whaling station, it is now a relaxed seaside town with a nice mix of maritime history, surf beaches, and wildlife.

@@ -6,6 +6,7 @@ longitude: -5.66275
 title: Gijón
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Gijón is the largest city in Asturias and a genuine working port that also happens to have a fine sandy beach in the middle of town. It does not have the tourist polish of San Sebastián or Santander, but that is part of the appeal — this is a real Spanish city where the seafood is superb, the cider flows freely, and visitors are a pleasant surprise rather than an industry.

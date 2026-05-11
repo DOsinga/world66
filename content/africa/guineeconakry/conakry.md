@@ -8,6 +8,7 @@ longitude: -13.699843
 score: 0.28
 title: Conakry
 type: location
+loc_type: city
 ---
 
 Conakry is the capital of [Guinea](/africa/guineeconakry) and sits at the tip of a narrow peninsula jutting into the Atlantic. The city has grown far beyond this peninsula in recent decades, sprawling inland with little planning and heavy traffic. Getting from the center to the outskirts can take hours.

@@ -6,6 +6,7 @@ longitude: -114.619809
 score: 0.38
 title: Yuma
 type: location
+loc_type: city
 ---
 
 Yuma sits in the southwest corner of Arizona, a desert town on the Colorado River where the state borders both California and Mexico. It's hot — often the hottest place in the US in summer — and dusty, but there's real history here and a slower-paced feel than Phoenix or Tucson.

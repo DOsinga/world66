@@ -10,6 +10,7 @@ longitude: 2.6278
 score: 0.31
 title: Parakou
 type: location
+loc_type: city
 ---
 
 Parakou is Benin's second largest city and the main hub of the north, sitting at the end of the railway line from Cotonou and at the crossroads of routes heading to Natitingou, Djougou, and the Niger border. If you are heading to the Atakora region or [Pendjari National Park](/africa/benin/pendjari), you will almost certainly pass through here.

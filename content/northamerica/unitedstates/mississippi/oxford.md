@@ -6,6 +6,7 @@ longitude: -89.518766
 title: Oxford
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Oxford, Mississippi, is one of the most literary towns in the American South — and perhaps in all of America. William Faulkner spent most of his life here, and the landscape, people, and social structures of Oxford and its surrounding Lafayette County seep through almost every page he wrote, barely disguised as the fictional Yoknapatawpha County. Rowan Oak, his home from 1930 until his death in 1962, is preserved as a museum and stands largely as he left it, with the outline of A Fable's plot written in pencil on his study walls.

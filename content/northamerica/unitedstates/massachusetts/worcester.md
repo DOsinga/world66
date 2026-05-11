@@ -8,6 +8,7 @@ longitude: -71.801888
 score: 0.35
 title: Worcester
 type: location
+loc_type: city
 ---
 
 Worcester is the largest city in central [Massachusetts](/northamerica/unitedstates/massachusetts) and the second largest in New England, sitting about 45 miles west of [Boston](/northamerica/unitedstates/massachusetts/boston). It has a scrappier, less polished feel than the capital — an old industrial city that has reinvented itself through education and medicine rather than finance or tech.

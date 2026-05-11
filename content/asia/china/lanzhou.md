@@ -8,6 +8,7 @@ longitude: 103.7332
 score: 0.41
 title: Lanzhou
 type: location
+loc_type: city
 ---
 
 *Asia > China > Lanzhou*

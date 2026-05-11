@@ -8,6 +8,7 @@ longitude: 8.6512
 score: 0.44
 title: Darmstadt
 type: location
+loc_type: city
 ---
 
 Darmstadt is a city of about 160,000 in the German state of Hessen, and it punches well above its weight in both culture and science. The city's crown jewel is the Mathildenhöhe, a hilltop artists' colony that became the epicenter of the Jugendstil (Art Nouveau) movement in Germany. Grand Duke Ernst Ludwig invited leading artists and architects here at the turn of the twentieth century to create a total work of art — buildings, interiors, gardens, everything designed as one. The Wedding Tower and the exhibition buildings earned UNESCO World Heritage status in 2021, and walking through the colony today still feels like stepping into a manifesto for beautiful living.

@@ -6,6 +6,7 @@ longitude: 84.427353
 title: Narayangarh
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Narayangarh (also called Bharatpur) is a busy crossroads town at the edge of the Terai, where the east-west Mahendra Highway meets the road south to India. Most travellers pass through on the way to or from Chitwan National Park, which is a few kilometres to the south.

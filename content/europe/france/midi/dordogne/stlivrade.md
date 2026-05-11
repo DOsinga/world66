@@ -6,6 +6,7 @@ longitude: 0.5925
 title: Sainte-Livrade-sur-Lot
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Sainte-Livrade-sur-Lot is a quiet market town on the Lot river, south of [Bergerac](/europe/france/midi/dordogne/bergerac) in the Lot-et-Garonne department. It sits in the heart of fruit-growing country — plums, strawberries, and the famous Agen prunes all come from the surrounding orchards.

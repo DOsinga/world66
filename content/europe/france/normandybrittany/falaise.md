@@ -6,6 +6,7 @@ longitude: -0.1999
 done:
   location_cleanup: 2026-04-06
 score: 0.45
+loc_type: city
 ---
 
 Falaise is the birthplace of William the Conqueror, and his castle still dominates the town from its rocky spur above the valley. The Anglo-Norman keeps, the city walls, and the ramparts flanked by towers give the place a genuinely medieval silhouette — not prettified, but powerful.

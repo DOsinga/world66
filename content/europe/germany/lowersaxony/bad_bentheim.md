@@ -6,6 +6,7 @@ longitude: 7.116182
 title: Bad Bentheim
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Bad Bentheim is a spa town (Kurort) in Lower Saxony, close to the Dutch border near Oldenzaal. The sandstone castle on the hill above town is the dominant landmark and one of the best-preserved medieval castles in northwest Germany. The town itself is pleasant but unremarkable beyond the castle — there is a Kurpark, an open-air theatre used in summer, and access to some of the most extensive forested areas in the region.

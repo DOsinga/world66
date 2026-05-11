@@ -6,6 +6,7 @@ longitude: -120.7741
 title: Jackson
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Jackson is the county seat of Amador County in California's Gold Country, a small town in the Sierra Nevada foothills east of Sacramento. The main street has antique shops and a 19th-century feel. The Amador County Museum, housed in a period home, covers the region's mining history.

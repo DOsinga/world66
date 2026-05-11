@@ -7,6 +7,7 @@ latitude: 52.265873
 longitude: 6.792405
 title: Hengelo
 type: location
+loc_type: city
 ---
 
 Hengelo is an industrial city in Overijssel, in the eastern Netherlands near the German border. It grew up around textiles and metalworking in the 19th century, and the legacy of that industrial past is visible in the converted factory buildings and wide working-class neighbourhoods that give the city its no-nonsense character. It is not a tourist destination, but it has more going on than most people expect.

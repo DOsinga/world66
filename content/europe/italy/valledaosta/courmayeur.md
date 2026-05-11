@@ -7,6 +7,7 @@ longitude: 6.973062
 score: 0.67
 title: Courmayeur
 type: location
+loc_type: city
 ---
 
 Courmayeur sits at the foot of Mont Blanc on the Italian side, a compact and attractive Alpine resort that draws weekend crowds from [Milan](/europe/italy/lombardia/milan) and [Turin](/europe/italy/piemonte/turin). It is one of the most fashionable ski towns in the Val d'Aosta, though its appeal has at least as much to do with the setting, the restaurants, and the nightlife as with the skiing itself.

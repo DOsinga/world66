@@ -4,6 +4,7 @@ longitude: -10.224555
 score: 0.23
 title: Kayes
 type: location
+loc_type: city
 ---
 
 Kayes holds the unenviable distinction of being one of the hottest inhabited cities on Earth, with temperatures regularly exceeding 45 degrees Celsius in the dry season. The city sits on the Senegal River in western Mali, near the Senegalese border, and served as the colonial capital of French Sudan before Bamako took over. The old colonial buildings, including the train station and governor's residence, still stand, though in various states of decay.

@@ -6,6 +6,7 @@ longitude: -6.819617
 title: Cortegana
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Cortegana is one of the prettiest villages in the Sierra de [Aracena](/europe/spain/andalucia/aracena), a hilly, wooded corner of northern Huelva province that feels a world away from the Costa de la Luz. The village is large enough to have a few shops and bars, and the climb to the top rewards you with a well-preserved medieval castle and a chapel that overlooks the surrounding oak-covered hills.

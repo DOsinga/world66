@@ -4,6 +4,7 @@ longitude: 18.25648
 score: 0.26
 title: Mbandaka
 type: location
+loc_type: city
 ---
 
 Mbandaka sits almost exactly on the equator, on the banks of the Congo River in the northwestern DRC. It is one of the few Congolese cities accessible by river, and the journey upriver from Kinshasa, while slow and uncomfortable, is one of the great African travel experiences for those with the time and temperament for it.

@@ -6,6 +6,7 @@ longitude: -80.47599
 score: 0.41
 title: Homestead
 type: location
+loc_type: city
 ---
 
 Homestead is the last real town before the road runs out at the tip of the Florida peninsula. It sits between two national parks — [Everglades National Park](/northamerica/unitedstates/florida/evergladesnationalpark) to the west and Biscayne National Park to the east — and most visitors pass through on their way to one or the other.

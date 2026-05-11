@@ -6,6 +6,7 @@ longitude: -1.16171
 score: 0.41
 title: Yell
 type: location
+loc_type: city
 ---
 
 Yell is the middle island of the Shetland chain, sandwiched between Mainland and the northernmost island of Unst, and it is the most peat-covered island in Britain — roughly eighty percent of its surface is blanket bog, a vast, spongy, treeless landscape that absorbs sound and weather alike. This is not a place of conventional beauty; it takes time to appreciate. But the light here — especially in summer, when the sun barely sets — does extraordinary things to the brown and amber moorland, and the island has a quiet, self-contained character that draws people back repeatedly.

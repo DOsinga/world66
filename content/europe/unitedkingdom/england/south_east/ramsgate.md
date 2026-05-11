@@ -6,6 +6,7 @@ longitude: 1.419648
 score: 0.48
 title: Ramsgate
 type: location
+loc_type: city
 ---
 
 Ramsgate is a Kentish seaside town with more architectural substance than most English coastal resorts. The Royal Harbour — the only royal harbour in the country — is lined with Regency and Georgian townhouses climbing the cliffs on both sides, and the inner marina still has working fishing boats alongside the yachts.

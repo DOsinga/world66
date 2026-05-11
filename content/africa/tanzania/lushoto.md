@@ -6,6 +6,7 @@ longitude: 38.448023
 title: Lushoto
 type: location
 score: 0.47
+loc_type: city
 ---
 
 **Lushoto** is a small town in the Usambara Mountains of northeastern [Tanzania](/africa/tanzania), set in a green, hilly landscape at about 1,400 metres. It makes a refreshing break from the heat of the coast — the air is cool, the scenery lush, and the hiking excellent.

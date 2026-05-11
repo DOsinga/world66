@@ -6,6 +6,7 @@ longitude: 120.798785
 done:
   location_cleanup: 2026-04-06
 score: 0.56
+loc_type: city
 ---
 
 Kenting is at the very southern tip of [Taiwan](/asia/taiwan), where the island narrows and the climate tips into the tropical. Banana trees, sugar cane, and rice paddies line the roads approaching the peninsula; the water is warm enough to swim year-round.

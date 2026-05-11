@@ -10,6 +10,7 @@ longitude: 7.218181
 score: 0.44
 title: Schirmeck
 type: location
+loc_type: city
 ---
 
 Schirmeck is a small town in the Bruche valley of the Vosges mountains, midway between [Strasbourg](/europe/france/east/alsace/strasbourg) and the Col du Donon. It is an unassuming place, but it sits in beautiful hiking country and carries a weight of history that belies its size.

@@ -6,6 +6,7 @@ longitude: -65.753471
 title: Potosi
 type: location
 score: 0.62
+loc_type: city
 ---
 
 Potosi was once the largest and wealthiest city in the Americas. Founded in 1545 following the discovery of silver in the Cerro Rico — the "rich mountain" that looms above the city — it grew with astonishing speed: by the early 17th century it had a population rivaling London or Paris, and the phrase "worth a Potosi" entered the Spanish language as a synonym for fabulous wealth.

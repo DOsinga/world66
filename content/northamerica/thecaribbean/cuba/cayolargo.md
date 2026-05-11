@@ -6,6 +6,7 @@ longitude: -81.5461
 title: Cayo Largo
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Cayo Largo is a small, flat island off the southern coast of [Cuba](/northamerica/thecaribbean/cuba), known almost entirely for its beaches. Playa Sirena and Playa Paraíso are routinely named among the best in the Caribbean — long stretches of white sand with warm, shallow, impossibly clear water and almost nobody on them.

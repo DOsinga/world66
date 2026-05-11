@@ -6,6 +6,7 @@ longitude: -3.697
 title: Burgos
 type: location
 score: 0.62
+loc_type: city
 ---
 
 Burgos is one of the great Gothic cities of Spain, dominated by its cathedral — a UNESCO World Heritage Site whose delicate spires and flying buttresses are visible from every approach to the city. Completed in the thirteenth century and modelled on the French cathedral at Bourges, it houses the tomb of El Cid, the legendary knight of the Reconquista, and his wife Jimena.

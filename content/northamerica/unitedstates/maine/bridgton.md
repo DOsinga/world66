@@ -6,6 +6,7 @@ longitude: -70.7089
 title: Bridgton
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Bridgton sits in the heart of western Maine's lakes and mountains region, roughly equidistant from [Portland](/northamerica/unitedstates/maine/portland), Freeport, and North Conway, New Hampshire. It is a genuine four-season town: swimming and canoeing on Long Lake and Highland Lake in summer, spectacular foliage drives in fall, and skiing at Shawnee Peak and snowmobiling on a vast trail network in winter. The surrounding lakes and clean mountain air have drawn families here for generations, and the town still has the feel of old-fashioned New England summer vacations.

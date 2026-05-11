@@ -6,6 +6,7 @@ longitude: -1.75
 title: Durham
 type: location
 score: 0.56
+loc_type: city
 ---
 
 It is surprising how many visitors to the UK rush from [London](/europe/unitedkingdom/england/london) to

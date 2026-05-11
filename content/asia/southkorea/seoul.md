@@ -8,6 +8,7 @@ longitude: 126.978291
 score: 0.77
 title: Seoul
 type: location
+loc_type: city
 ---
 
 Seoul is one of the biggest, densest, and most relentlessly modern cities in the world. Home to roughly half of South Korea's population in its wider metropolitan area, it is a place of endless neon, twenty-four-hour street food, and 5G on the subway — and yet, tucked between the office towers, it still contains five Joseon-era palaces, a city wall, and the shrines and hanok villages that have been there for six centuries.

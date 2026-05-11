@@ -6,6 +6,7 @@ longitude: 15.3365
 title: Kornati National Park
 type: location
 score: 0.69
+loc_type: city
 ---
 
 Kornati National Park is an archipelago of 89 islands, islets, and reefs in the central Adriatic, about 15 nautical miles west of Šibenik. The park covers around 220 square kilometres and has 238 kilometres of coastline — the most indented group of islands in the Mediterranean.

@@ -6,6 +6,7 @@ longitude: 109.2218
 score: 0.38
 title: Purwokerto
 type: location
+loc_type: city
 ---
 
 A mid-sized city in the western part of Central Java, Purwokerto is a transit point for travelers heading to the scenic Dieng Plateau or the south coast beaches around Cilacap. The surrounding countryside is lush and green, with rice terraces and the slopes of Mount Slamet — Java's second highest volcano — providing a dramatic backdrop.

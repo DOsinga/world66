@@ -6,6 +6,7 @@ longitude: 16.17707
 score: 0.4
 title: Koszalin
 type: location
+loc_type: city
 ---
 
 Koszalin is a mid-sized city in Western Pomerania, set a few kilometres inland from the Baltic coast. It is not a beach destination itself, but it serves as a practical base for the sandy coastline around Mielno and Kołobrzeg, both within easy reach.

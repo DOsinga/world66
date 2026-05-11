@@ -6,6 +6,7 @@ longitude: 100.174557
 score: 0.35
 title: Moron
 type: location
+loc_type: city
 ---
 
 Mörön is the capital of Khövsgöl province in northern Mongolia, a small, dusty town that serves as the gateway to Lake Khövsgöl — one of the most beautiful lakes in Asia. The town itself has little to detain you: a market, a few ger camps on the outskirts, and the usual Mongolian provincial-town mix of Soviet apartment blocks and wooden fences. But it is the last significant settlement before the lake, and a good place to organise transport, guides, and supplies.

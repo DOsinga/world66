@@ -6,6 +6,7 @@ longitude: -111.128
 title: Victor
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Victor sits at the southern end of [Teton Valley](/northamerica/unitedstates/idaho/teton_valley), right where the road begins its climb over Teton Pass into [Wyoming](/northamerica/unitedstates/wyoming). For years it was the quieter, less commercial alternative to [Driggs](/northamerica/unitedstates/idaho/teton_valley/driggs) — a place where ranchers and ski bums coexisted without much fuss.

@@ -6,6 +6,7 @@ longitude: -69.887
 title: Belgrade Lakes
 type: location
 score: 0.43
+loc_type: city
 ---
 
 The Belgrade Lakes region is a popular summer retreat in central Maine, centered on a chain of lakes -- Great Pond, Long Pond, Salmon Pond, Snow Pond, North Pond, and East Pond. Belgrade Lakes Village sits on a narrow strip of land between Great Pond and Long Pond, with antique shops, a general store, and the Village Inn, a restaurant famous for its duck (served with fine views of the connecting waterway and the actual ducks paddling happily past).

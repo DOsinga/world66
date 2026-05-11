@@ -6,6 +6,7 @@ longitude: 35.580665
 title: Beiteddine
 type: location
 score: 0.48
+loc_type: city
 ---
 
 The Palace of Beiteddine is one of Lebanon's finest sights and makes one of the most popular day trips from [Beirut](/asia/lebanon/beirut). The road up through the Chouf Mountains is beautiful in itself, with sweeping views over terraced hillsides and deep valleys.

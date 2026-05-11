@@ -6,6 +6,7 @@ longitude: 153.0947
 title: Maroochydore
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Maroochydore is the commercial centre of Queensland's Sunshine Coast, sitting at the mouth of the Maroochy River about an hour north of Brisbane. It is less glamorous than Noosa further up the coast, but the beaches are just as good and considerably less crowded.

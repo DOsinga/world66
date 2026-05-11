@@ -6,6 +6,7 @@ longitude: -171.7
 title: Kanton Island
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Kanton Island (also spelled Canton) is a remote coral atoll in the Phoenix Islands group of [Kiribati](/australiaandpacific/kiribati), roughly halfway between Hawaii and Fiji. The atoll is part of the Phoenix Islands Protected Area, one of the largest marine protected areas on earth and a UNESCO World Heritage Site. Only a handful of people live here — government caretakers and the occasional visiting scientist — and there is no tourism infrastructure to speak of.

@@ -6,6 +6,7 @@ longitude: 36.893877
 title: Nairobi National Park
 type: location
 score: 0.65
+loc_type: city
 ---
 
 Nairobi National Park is the only national park in the world within sight of a major city's skyline. Opened in 1946 as Kenya's first national park, it covers 117 square kilometres of open grassland, scattered acacia woodland, and a stretch of the Athi river — all just 7 km south of [Nairobi](/africa/kenya/nairobi)'s city centre.

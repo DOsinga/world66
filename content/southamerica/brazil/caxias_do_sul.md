@@ -6,6 +6,7 @@ longitude: -51.1796
 done:
   location_cleanup: 2026-04-06
 score: 0.39
+loc_type: city
 ---
 
 Caxias do Sul is the largest city in the Serra Gaúcha, the mountainous wine region of Rio Grande do Sul in southern Brazil. Italian immigrants from the Veneto settled here from 1875 onwards, and their legacy is everywhere — in the vineyards that cover the hillsides, the cantinas that serve galeto and polenta alongside local wine, and the Festa da Uva (Grape Festival), one of the biggest popular festivals in southern Brazil, held every two years since 1931.

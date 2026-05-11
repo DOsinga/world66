@@ -6,6 +6,7 @@ longitude: -118.329523
 done:
   location_cleanup: 2026-04-05
 score: 0.61
+loc_type: neighbourhood
 ---
 
 Hollywood is a neighborhood of Los Angeles and the symbolic home of the global film industry. The tourist strip along Hollywood Boulevard — the Walk of Fame, Grauman's Chinese Theatre, the Dolby Theatre where the Oscars are held — is genuinely atmospheric but also genuinely crowded with costumed characters and souvenir shops. The best things about Hollywood require looking slightly beyond the obvious: up the hill to Griffith Observatory, out along the Sunset Strip into West Hollywood, or deeper into Griffith Park for hiking with views over the entire LA basin.

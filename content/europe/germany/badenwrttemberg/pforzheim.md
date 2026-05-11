@@ -6,6 +6,7 @@ longitude: 8.702551
 score: 0.39
 title: Pforzheim
 type: location
+loc_type: city
 ---
 
 Pforzheim sits at the point where the Black Forest meets the Rhine plain, at the confluence of three rivers, and has been known for jewelry and watchmaking since the 18th century — the trade earned it the nickname "Goldstadt" (Golden City). Around a third of all European jewelry is still designed and made here, and the Schmuckmuseum (Jewelry Museum) in the Reuchlinhaus is one of the finest of its kind in the world, with a collection spanning 5,000 years from Egyptian scarabs to contemporary pieces.

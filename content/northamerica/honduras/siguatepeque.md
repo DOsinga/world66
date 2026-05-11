@@ -6,6 +6,7 @@ longitude: -87.8317
 title: Siguatepeque
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Siguatepeque sits in the mountains halfway between Tegucigalpa and San Pedro Sula, often dismissed as a truck stop on the highway between Honduras's two main cities. That is a mistake. The town has a cooler climate than either capital, a lively main street (Calle 21 de Agosto, known locally as "Veinte-uno"), and a genuine small-city charm that rewards a stop.

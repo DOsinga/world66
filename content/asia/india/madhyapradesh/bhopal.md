@@ -7,6 +7,7 @@ longitude: 77.401989
 score: 0.39
 title: Bhopal
 type: location
+loc_type: city
 ---
 
 Bhopal is the capital of Madhya Pradesh, a city of lakes, mosques, and surprising greenery. It is inevitably associated with the 1984 Union Carbide gas disaster, one of the worst industrial catastrophes in history, but the modern city has much more to offer than that painful chapter.

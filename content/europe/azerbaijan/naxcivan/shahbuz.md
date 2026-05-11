@@ -7,6 +7,7 @@ longitude: 45.607133
 score: 0.32
 title: Shahbuz
 type: location
+loc_type: city
 ---
 
 Travel Guide

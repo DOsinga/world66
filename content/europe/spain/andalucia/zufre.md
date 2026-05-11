@@ -6,6 +6,7 @@ longitude: -6.338874
 title: Zufre
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Zufre is a small white village in the Sierra de Huelva, clinging to the edge of a gorge above the Rivera de Huelva river. Unlike the famous white towns of Cadiz province, Zufre has not been polished for tourists — there are no souvenir shops, no tour buses, and the village feels genuinely lived-in rather than preserved. The streets are steep, narrow, and quiet, and the houses are whitewashed in the traditional Andalusian style.

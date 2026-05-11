@@ -6,6 +6,7 @@ longitude: 44.0167
 title: Thola
 type: location
 score: 0.16
+loc_type: city
 ---
 
 Thola sits on a commanding hilltop some 54 km northwest of Sana'a, at around 2,400 metres above sea level. It is one of the older fortified towns of the Yemeni highlands — the kind of place where the defensive logic of the site is immediately obvious: a mountain perch ringed by cliffs, with an ancient castle that reputedly was never taken by force.

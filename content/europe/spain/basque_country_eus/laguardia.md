@@ -6,6 +6,7 @@ longitude: -2.5851
 title: Laguardia
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Laguardia is a fortified hilltop village in the heart of the Rioja Alavesa wine country, just south of the Basque Country border with La Rioja. The views from its medieval ramparts sweep across vineyards in every direction, with the Sierra de Cantabria rising behind.

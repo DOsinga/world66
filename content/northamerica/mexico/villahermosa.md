@@ -6,6 +6,7 @@ longitude: -92.936633
 done:
   location_cleanup: 2026-04-06
 score: 0.41
+loc_type: city
 ---
 
 **http://www.tabasco.gob.mx/**

@@ -8,6 +8,7 @@ longitude: 120.5887
 score: 0.46
 title: Angeles City
 type: location
+loc_type: city
 ---
 
 Angeles City sits in the heart of Pampanga province on the island of Luzon, about 80 kilometers north of Manila. For decades it was known primarily for Clark Air Base and the entertainment strip that grew up around it, but the city has been steadily reinventing itself since the Americans left in 1991.

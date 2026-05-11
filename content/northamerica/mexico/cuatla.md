@@ -6,6 +6,7 @@ longitude: -98.216111
 title: Cuautla
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Cuautla is a city in the state of Morelos, about 75 km southeast of Mexico City. It's best known for its thermal springs — sulphurous balnearios that have drawn visitors for centuries and still fill up with city-dwellers on weekends.

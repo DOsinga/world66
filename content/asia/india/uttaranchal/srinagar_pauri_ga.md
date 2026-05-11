@@ -7,6 +7,7 @@ longitude: 78.7708
 score: 0.36
 title: Srinagar (Pauri Garhwal)
 type: location
+loc_type: city
 ---
 
 Srinagar (Pauri Garhwal) is a town in the Garhwal division of Uttarakhand, on the banks of the Alaknanda River at around 600 metres altitude. It should not be confused with Srinagar in Jammu and Kashmir — this is a smaller, quieter Himalayan foothill town serving as headquarters of Pauri Garhwal district and home to Hemwati Nandan Bahuguna Garhwal University.

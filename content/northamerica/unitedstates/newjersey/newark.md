@@ -7,6 +7,7 @@ longitude: -74.172367
 score: 0.29
 title: Newark
 type: location
+loc_type: city
 ---
 
 Newark is New Jersey's largest city and one of the oldest in the United States, founded in 1666. It sits on the western shore of Newark Bay directly across from lower Manhattan — the skyline is visible from the Ironbound, Newark's most energetic neighbourhood. The city gets a bad reputation it does not entirely deserve; it has real character, a diverse population, and a cultural life that punches above its weight.

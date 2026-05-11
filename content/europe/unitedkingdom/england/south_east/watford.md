@@ -4,6 +4,7 @@ longitude: -0.395742
 score: 0.36
 title: Watford
 type: location
+loc_type: city
 ---
 
 Watford is a commuter town at the northwestern edge of Greater London, sitting just inside Hertfordshire. It has the busy, practical character of a place that serves a large surrounding population, with a pedestrianized High Street and the intu Watford shopping center drawing people from across the county. Watford FC, the local football club, provides much of the town's identity, and catching a match at Vicarage Road is the most authentic local experience you can have.

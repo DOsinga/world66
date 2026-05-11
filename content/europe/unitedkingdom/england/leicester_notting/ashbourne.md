@@ -6,6 +6,7 @@ longitude: -1.732789
 title: Ashbourne
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Ashbourne is a handsome market town on the southern edge of the Peak District in Derbyshire. Its long main street, Church Street and St John Street, is lined with Georgian and Tudor buildings, and the whole town has a well-preserved feel that makes it one of the most attractive small towns in the Midlands. The church of St Oswald, with its soaring 65-metre spire, is particularly fine.

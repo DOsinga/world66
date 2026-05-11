@@ -8,6 +8,7 @@ longitude: 1.731485
 score: 0.46
 title: Great Yarmouth
 type: location
+loc_type: city
 ---
 
 Great Yarmouth is the real deal when it comes to the traditional English seaside. The Golden Mile seafront has amusement arcades, chip shops, a pleasure beach, and all the cheerful tackiness you could want. If you grew up with bucket-and-spade holidays, this place will hit you right in the nostalgia. If you did not, it is a fascinating window into a very particular English tradition that stubbornly refuses to die.

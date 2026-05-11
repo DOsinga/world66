@@ -6,6 +6,7 @@ longitude: -82.3985
 title: Greenville
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Greenville sits on the Piedmont Plateau about 100 miles northwest of [Columbia](/northamerica/unitedstates/southcarolina/columbia), with the Blue Ridge Mountains just minutes from the heart of town. For generations it was a retreat for Lowcountry planters escaping the coastal heat and mosquitoes, and the mild climate remains one of the best reasons to come here.

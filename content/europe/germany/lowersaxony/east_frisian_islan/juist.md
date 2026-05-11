@@ -6,6 +6,7 @@ longitude: 6.995608
 score: 0.48
 title: Juist
 type: location
+loc_type: city
 ---
 
 Juist is one of the East Frisian Islands, a narrow sliver of sand about 17 kilometres long and barely 500 metres wide at most points. No cars are allowed on the island — the only motorised vehicles are the horse-drawn carriages and the ambulance. This makes it one of the quietest places on the German coast and a genuine escape for anyone who wants to walk or cycle through the dunes without traffic.

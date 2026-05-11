@@ -6,6 +6,7 @@ longitude: 10.349052
 title: Sidi bou said
 type: location
 score: 0.6
+loc_type: city
 ---
 
 Sidi Bou Said is a clifftop village overlooking the Gulf of [Tunis](/africa/tunisia/tunis), famous for its blue-and-white colour scheme that has been protected by law since 1915. Every building is whitewashed, every door and window shutter painted in a distinctive cobalt blue, and the effect against the Mediterranean sky is genuinely striking. It is one of the most photographed places in [Tunisia](/africa/tunisia) and draws visitors from across the country and beyond.

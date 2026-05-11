@@ -6,6 +6,7 @@ longitude: -117.42351
 done:
   location_cleanup: 2026-04-07
 score: 0.44
+loc_type: city
 ---
 
 Spokane is the largest city in eastern Washington and the second-largest in the state, sitting on the Spokane River in the Inland Empire region. Unlike [Seattle](/northamerica/unitedstates/washington/seattle) to the west, it is not a rain city: winters bring snow, summers are hot and dry, and the surrounding landscape is pine forests and wheat fields rather than rainforest.

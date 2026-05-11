@@ -6,6 +6,7 @@ longitude: 1.627915
 title: St-Valéry-sur-Somme
 type: location
 score: 0.51
+loc_type: city
 ---
 
 St-Valéry-sur-Somme is one of those small French towns that rewards the traveller who slows down. Perched on a hill above the Baie de Somme, it is where William the Conqueror gathered his fleet before sailing for England in 1066 — a fact the town remembers with quiet pride.

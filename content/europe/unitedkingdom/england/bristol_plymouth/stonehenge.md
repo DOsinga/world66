@@ -6,6 +6,7 @@ longitude: -1.826183
 title: Stonehenge
 type: location
 score: 0.68
+loc_type: feature
 ---
 
 Stonehenge is the most famous prehistoric monument in Europe, a ring of massive standing stones on [Salisbury](/europe/unitedkingdom/england/bristol_plymouth/salisbury) Plain in Wiltshire. The stones were raised in stages between roughly 3000 and 2000 BC, and how the largest sarsens — weighing up to 25 tonnes — were transported from Marlborough Downs, 25 miles to the north, remains a matter of debate. The site is a UNESCO World Heritage Site, managed by English Heritage.

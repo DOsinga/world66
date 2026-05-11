@@ -6,6 +6,7 @@ longitude: -3.746803
 title: Huelgoat
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Many people think of [Brittany](/europe/france/normandybrittany) exclusively for its coasts. That is a mistake, because parts of the interior are just as rewarding. Huelgoat is a delightful village on the edge of a lake, surrounded by one of Brittany's last remaining ancient forests.

@@ -6,6 +6,7 @@ longitude: -2.229993
 title: Stoke-on-Trent
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Stoke-on-Trent — "The Potteries" — is an industrial city in Staffordshire, halfway between Birmingham and Manchester on the M6. It is the historic centre of English ceramics: Wedgwood, Royal Doulton, Spode, and dozens of other famous names all started here, and the pottery industry still defines the city's character.

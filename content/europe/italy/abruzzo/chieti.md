@@ -6,6 +6,7 @@ longitude: 14.415905
 title: Chieti
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Chieti sits on a ridge above the Pescara River in [Abruzzo](/europe/italy/abruzzo), with the Maiella and Gran Sasso mountains as a backdrop and the Adriatic Sea just a few kilometres to the east. The panorama alone is worth a stop.

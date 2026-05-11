@@ -6,6 +6,7 @@ longitude: 0.407296
 title: Langeais
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Langeais is a small Loire Valley town dominated by one of the best-preserved medieval castles in France. The Château de Langeais was built between 1465 and 1469 for Louis XI — an unusually rapid construction that gives it a striking architectural unity, neither ruined nor excessively restored. The exterior looks like a fortress; the interior is furnished as a late 15th-century residence, with original tapestries, carved fireplaces, and period furniture largely intact.

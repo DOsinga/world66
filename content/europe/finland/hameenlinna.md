@@ -6,6 +6,7 @@ longitude: 24.465141
 title: Hameenlinna
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Hämeenlinna is one of [Finland's](/europe/finland) oldest inland towns, built around a red-brick medieval castle on the shore of Lake Vanajavesi, about 100 kilometres north of [Helsinki](/europe/finland/helsinki). The castle, Häme Castle, dates from the 13th century and is one of the best-preserved medieval fortifications in the country — its thick walls and courtyard are open to visitors year-round, and the interior houses exhibitions on the castle's history as a fortress, granary, and prison.

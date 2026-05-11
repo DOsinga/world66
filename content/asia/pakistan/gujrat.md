@@ -8,6 +8,7 @@ longitude: 74.064535
 score: 0.26
 title: Gujrat
 type: location
+loc_type: city
 ---
 
 Gujrat is a small city in Punjab province, about 120 kilometres southeast of Islamabad on the main road between Lahore and the capital. It sits between the Chenab and Jhelum rivers, the middle of the three great rivers of the Punjab, and has an old agricultural and trading history — it was an important stop on the Grand Trunk Road for centuries.

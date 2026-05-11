@@ -9,6 +9,7 @@ latitude: 43.0568
 longitude: 11.6058
 title: San Quirico d'Orcia
 type: location
+loc_type: city
 ---
 
 San Quirico d'Orcia sits at the heart of the Val d'Orcia, the stretch of southern Tuscany that appears on every postcard and desktop wallpaper you have ever seen of Italy. The rolling hills, lone cypress trees, and golden light are all real, and this small medieval town is one of the best places from which to take them in.

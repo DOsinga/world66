@@ -10,6 +10,7 @@ longitude: 105.854041
 score: 0.75
 title: Hanoi
 type: location
+loc_type: city
 ---
 
 Hanoi is one of Southeast Asia's most captivating capitals — a city where ancient temples sit next to French colonial villas, motorbikes swarm through streets barely wide enough for a bicycle, and the smell of pho drifts from every corner. As [Vietnam](/asia/vietnam)'s capital and second-largest city, it is the political and cultural heart of the country, with a history stretching back over a thousand years.

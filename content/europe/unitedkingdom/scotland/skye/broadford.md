@@ -6,6 +6,7 @@ longitude: -5.90618
 title: Broadford
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Broadford is the second-largest settlement on [Skye](/europe/unitedkingdom/scotland/skye), spread along the shore of Broadford Bay on the southeastern coast of the island. It is not a pretty village in the picture-postcard sense, but it is a practical and well-located base for exploring southern Skye, the Sleat peninsula, and the spectacular road to Elgol.

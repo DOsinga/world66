@@ -6,6 +6,7 @@ longitude: 12.4342
 title: Marsala
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Marsala is the second city of the Province of [Trapani](/europe/italy/sicily/trapani), on the western tip of [Sicily](/europe/italy/sicily). It is best known for its famous fortified wine, which was "discovered" in 1773 by the English trader John Woodhouse, who realised that adding spirits to the local wine preserved it perfectly for the long sea voyage to England.

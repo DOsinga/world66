@@ -6,6 +6,7 @@ longitude: -78.8689
 title: Harrisonburg
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Harrisonburg is a small city in Virginia's Shenandoah Valley, home to James Madison University and a thriving Mennonite community. The university gives the city an unexpectedly lively food and arts scene for its size — there are good restaurants, a downtown farmers' market, and regular live music.

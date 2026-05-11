@@ -6,6 +6,7 @@ longitude: -69.2276
 title: Dover-Foxcroft
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Dover-Foxcroft is the county seat of Piscataquis County, Maine's least populated county and one of the wildest corners of the northeastern United States. The town sits on the Piscataquis River and serves as a gateway to the [Moosehead Lake](/northamerica/unitedstates/maine/greenville_junctio) region and the vast North Woods wilderness beyond. If you are heading into Maine's interior, this is likely where you will stock up on supplies and get your last reliable cell signal.

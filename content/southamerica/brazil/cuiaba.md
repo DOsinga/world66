@@ -6,6 +6,7 @@ longitude: -56.09913
 score: 0.41
 title: Cuiaba
 type: location
+loc_type: city
 ---
 
 Cuiabá is the capital of Mato Grosso and the main gateway to the northern Pantanal, the vast wetland that is one of the best places in South America to see wildlife. The city itself is hot — among the hottest in Brazil — and sprawling, but it has a certain rough-edged energy. The riverside area and the old centre around the Praça da República have been partly revitalised, and the Museu Rondon at the university campus has a good collection of indigenous artefacts.

@@ -4,6 +4,7 @@ longitude: 0.340523
 score: 0.38
 title: Skegness
 type: location
+loc_type: city
 ---
 
 Skegness is the classic English seaside resort, the kind of place that divides opinion sharply. The town's famous slogan, "Skegness is SO bracing," coined by the Great Northern Railway in 1908 and illustrated by the Jolly Fisherman poster, is one of the most enduring pieces of advertising in British history. The bracing part is accurate: the wind comes straight off the North Sea with nothing to stop it, and the beach, while wide and sandy, is not for the faint-hearted outside of high summer.

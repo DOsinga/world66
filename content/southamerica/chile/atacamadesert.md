@@ -10,6 +10,7 @@ image: atacamadesert.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catedrales_de_Tara,_Chile,_2016-02-07,_DD_62.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Diego Delso
+loc_type: feature
 ---
 
 The Atacama is one of the driest places on earth — some parts of it haven't seen measurable rain in recorded history. Stretching 1,000 kilometres down the northern third of Chile, wedged between the Pacific coast ranges and the Andes, it is also one of the most spectacular landscapes you will ever stand in.

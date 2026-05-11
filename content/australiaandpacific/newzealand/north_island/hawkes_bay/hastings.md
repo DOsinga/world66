@@ -6,6 +6,7 @@ longitude: 176.843078
 title: Hastings
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Hastings is a prosperous agricultural city in [Hawke's Bay](/australiaandpacific/newzealand/north_island/hawkes_bay), set in the wide Heretaunga Plains about twenty minutes inland from the coast. It was almost entirely rebuilt after the devastating 1931 earthquake — one of New Zealand's deadliest natural disasters — and the reconstruction left it with a remarkable concentration of Art Deco and Spanish Mission architecture, rivalling [Napier](/australiaandpacific/newzealand/north_island/hawkes_bay/napier) as a showcase of the style.

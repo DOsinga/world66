@@ -4,6 +4,7 @@ type: location
 latitude: 33.8833
 longitude: 130.8752
 score: 0.5
+loc_type: city
 ---
 
 Kokura is the beating heart of Kitakyushu — the district with the castle, the covered arcades, and most of the places worth eating and drinking. It's where you'll want to base yourself.

@@ -7,6 +7,7 @@ longitude: -1.581574
 score: 0.54
 title: Warwick
 type: location
+loc_type: city
 ---
 
 Warwick is a small town dominated by one of England's finest medieval castles. Warwick Castle sits on a sandstone bluff above the River Avon, its towers and ramparts largely intact after more than 900 years. The castle is now run as a commercial attraction and can feel theme-park-ish at peak times, but the building itself is magnificent — the view from Guy's Tower alone justifies the entrance fee.

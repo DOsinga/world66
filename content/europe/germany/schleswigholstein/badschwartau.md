@@ -6,6 +6,7 @@ longitude: 10.697869
 score: 0.36
 title: Bad Schwartau
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

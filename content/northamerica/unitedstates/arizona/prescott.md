@@ -6,6 +6,7 @@ longitude: -112.468812
 title: Prescott
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Prescott (locals say PRESS-kit) is a former territorial capital in the mountains of central Arizona, about 100 miles north of Phoenix. At 1,600 metres it escapes the worst of the desert heat, and its pine-covered hills and mild summers have made it a popular retreat for Arizonans.

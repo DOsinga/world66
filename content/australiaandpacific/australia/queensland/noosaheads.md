@@ -6,6 +6,7 @@ longitude: 153.091049
 title: Noosa Heads
 type: location
 score: 0.66
+loc_type: city
 ---
 
 Noosa Heads is one of the most popular beach destinations on [Queensland](/australiaandpacific/australia/queensland)'s Sunshine Coast, about 90 minutes north of [Brisbane](/australiaandpacific/australia/queensland/brisbane). Unlike the high-rise sprawl of the Gold Coast, Noosa has kept its development low-rise by local ordinance, and the town sits comfortably among subtropical vegetation with a distinctly relaxed feel. It is expensive, fashionable, and genuinely beautiful.

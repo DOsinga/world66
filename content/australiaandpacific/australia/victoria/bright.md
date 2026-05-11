@@ -6,6 +6,7 @@ longitude: 146.9608
 score: 0.54
 title: Bright
 type: location
+loc_type: city
 ---
 
 A picturesque alpine town in northeast [Victoria](/australiaandpacific/australia/victoria), Bright sits in the Ovens Valley surrounded by mountains that blaze with autumn colour each April. The town's main street is lined with deciduous trees — oaks, maples, and elms planted over a century ago — and the autumn display draws visitors from across the state. It is a popular base for skiing at Mt Hotham and Falls Creek in winter, and for cycling, bushwalking, and paragliding the rest of the year.

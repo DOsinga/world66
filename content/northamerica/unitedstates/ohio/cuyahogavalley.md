@@ -6,6 +6,7 @@ longitude: -81.537642
 done:
   location_cleanup: 2026-04-10
 score: 0.54
+loc_type: city
 ---
 
 Cuyahoga Valley National Park is a long, narrow strip of protected land following the Cuyahoga River between [Cleveland](/northamerica/unitedstates/ohio/cleveland) and [Akron](/northamerica/unitedstates/ohio/akron) — the only national park in Ohio and one of the most urban in the national park system, with several million people living within an hour's drive.

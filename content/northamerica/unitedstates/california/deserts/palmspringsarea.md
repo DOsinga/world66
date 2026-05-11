@@ -6,6 +6,7 @@ longitude: -116.5453
 title: Palm Springs Area
 type: location
 score: 0.58
+loc_type: city
 ---
 
 The Palm Springs area stretches across the Coachella Valley at the base of the San Jacinto Mountains — a string of desert cities including Palm Springs, Palm Desert, Cathedral City, Indian Wells, La Quinta, and Rancho Mirage. Golf courses, mid-century modern architecture, and year-round sunshine are the main draws.

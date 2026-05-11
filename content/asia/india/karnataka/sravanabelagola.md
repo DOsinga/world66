@@ -6,6 +6,7 @@ longitude: 76.4859
 title: Sravanabelagola
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Sravanabelagola is home to the Gommateshwara statue, a 17-metre monolithic figure of Lord Bahubali carved in 981 AD and widely considered the tallest freestanding monolithic statue in the world. It stands on top of Vindhyagiri Hill and can be seen for miles across the surrounding plains. Climbing the 614 rock-cut steps to the top is part of the experience.

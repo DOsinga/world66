@@ -11,6 +11,7 @@ longitude: 135.768144
 score: 0.97
 title: Kyoto
 type: location
+loc_type: city
 ---
 
 For more than a thousand years — from 794 until the Meiji Restoration of 1868 — Kyoto was the capital of Japan and the seat of its emperors. It survived the Second World War almost unscathed (the city was famously removed from the atomic-bomb target list on the insistence of the American Secretary of War, who had honeymooned there), and what you see today is the closest thing Japan has to a living museum of its own civilisation. There are over 1,600 **Buddhist temples** and around 400 **Shintō shrines** inside the city limits, along with seventeen UNESCO World Heritage Sites, an intact geisha quarter, and a thriving tradition of traditional crafts — lacquerware, kimono weaving, ceramics, sword-making, tea.

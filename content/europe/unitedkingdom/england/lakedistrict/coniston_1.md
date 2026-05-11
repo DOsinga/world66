@@ -6,6 +6,7 @@ longitude: -3.0747
 title: Coniston
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Coniston is a small slate-grey village at the head of Coniston Water, tucked beneath some of the [Lake District's](/europe/unitedkingdom/england/manchester_liverp/lakedistrict) finest fells. The lake is inseparable from the memory of Donald Campbell, who died here in 1967 attempting a new water speed record, but Coniston has far more to offer than that single famous tragedy.

@@ -7,6 +7,7 @@ longitude: 97.6452
 score: 0.46
 title: Pulau Nias
 type: location
+loc_type: city
 ---
 
 Nias Island sits in the Indian Ocean off the west coast of Sumatra, about 125 kilometres from the mainland. It is one of Indonesia's most remarkable destinations: a place of ancient stone-paved villages, traditional architecture, warrior culture, and some of the finest surf breaks in the world.

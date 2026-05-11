@@ -6,6 +6,7 @@ longitude: -83.1134
 score: 0.53
 title: Golfito
 type: location
+loc_type: city
 ---
 
 Golfito is a long, narrow port town squeezed between the Golfo Dulce and a steep jungle ridge on Costa Rica's far southern Pacific coast. It is not polished — the equatorial heat is relentless, the streets are scruffy, and the banana republic past is visible in every crumbling dock building — but that rough-edged character is precisely what draws travellers who have grown tired of the manicured resort towns up the coast.

@@ -6,6 +6,7 @@ longitude: -8.75
 title: Ria of Pontevedra
 type: location
 score: 0.56
+loc_type: city
 ---
 
 The Ria of Pontevedra is a wedge-shaped inlet on the coast of [Galicia](/europe/spain/galicia), stretching some 14 km from the city of [Pontevedra](/europe/spain/galicia/pontevedra) to the open Atlantic. Around its shores, art and history combine to please the traveller: the elegant city of Pontevedra, monasteries like Poio, fishing towns like Bueu and Marin, and the popular tourist resorts of Sanxenxo, Portonovo, and San Vicente de O Grove.

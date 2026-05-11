@@ -4,6 +4,7 @@ longitude: -98.2788
 score: 0.26
 title: Reynosa
 type: location
+loc_type: city
 ---
 
 Reynosa is a major border city of about 650,000 people in the state of Tamaulipas, sitting directly across the Rio Grande from McAllen, Texas. Like many Mexican border cities, it has a split personality — a busy industrial economy driven by maquiladoras and cross-border trade, and a reputation for cartel-related violence that has made international headlines. Travelers should check current security advisories carefully before visiting, as conditions can change quickly.

@@ -6,6 +6,7 @@ longitude: 93.623729
 title: Itanagar
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Itanagar is the capital of Arunachal Pradesh, India's wildest and least-visited northeastern state. The city sits in the foothills of the eastern Himalayas, surrounded by subtropical forest and low mountains. It is small, unhurried, and genuinely off the tourist circuit.

@@ -6,6 +6,7 @@ longitude: -2.346525
 title: Bolton-by-Bowland
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Bolton-by-Bowland is a quiet, attractive village in the Ribble Valley on the southern fringe of the Forest of Bowland, an Area of Outstanding Natural Beauty in Lancashire. The village is centred on a broad green with a set of old stocks, overlooked by the medieval church of St Peter and St Paul. It is the kind of place where very little happens, and that is precisely the appeal.

@@ -6,6 +6,7 @@ longitude: 36.192248
 title: Kursk
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Kursk is a regional city in southwestern Russia, about 500 km south of Moscow, sitting on the Tuskar and Kur rivers. It's a mid-sized industrial and administrative centre, not much visited by foreign tourists, but historically significant as the site of one of World War II's decisive battles.

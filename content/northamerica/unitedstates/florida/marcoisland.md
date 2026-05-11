@@ -6,6 +6,7 @@ longitude: -81.71573
 score: 0.58
 title: Marco Island
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

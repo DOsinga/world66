@@ -6,6 +6,7 @@ longitude: -8.395943
 title: La Coruña
 type: location
 score: 0.57
+loc_type: city
 ---
 
 La Coruna is a port city on the Atlantic coast of [Galicia](/europe/spain/galicia), built on a peninsula that juts into the sea. The old town clusters around the harbour, while the newer city stretches along a magnificent waterfront promenade — the Paseo Maritimo — that runs for 13 km around the headland, making it one of the longest seaside walks in Europe. The city has a confident, cosmopolitan feel that sets it apart from quieter Galician towns.

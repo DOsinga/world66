@@ -8,6 +8,7 @@ longitude: -2.8014
 score: 0.49
 title: Lancaster
 type: location
+loc_type: city
 ---
 
 Lancaster is a compact, historic city on the River Lune in northwest England, sitting between the Yorkshire Dales to the east and the Lake District to the north. It punches above its weight for history: the castle has loomed over the city since Norman times and only stopped functioning as a working prison in 2011, making it one of the longest-serving in England. The old quarter around the castle and the Priory Church is genuinely handsome, and the city has avoided the worst of modern redevelopment.

@@ -8,6 +8,7 @@ longitude: -122.029467
 score: 0.57
 title: Santa Cruz
 type: location
+loc_type: city
 ---
 
 Santa Cruz sits where the redwood-covered mountains of the Coast Range meet the northern curve of Monterey Bay. It is a California beach town with a countercultural streak — part surf culture, part university town, part old-school boardwalk resort. The mix gives it a character quite unlike anywhere else on the coast.

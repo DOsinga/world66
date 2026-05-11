@@ -10,6 +10,7 @@ image: taghit.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Taghit.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Yane Casouf
+loc_type: city
 ---
 
 Taghit is a spectacular oasis town in western [Algeria](/africa/algeria), pressed between a palm-lined river valley and a wall of golden sand dunes that rise hundreds of metres directly above the town. The contrast is extraordinary — lush date palms on one side, the Grand Erg Occidental on the other, and a ruined ksar (fortified village) clinging to the cliff between them.

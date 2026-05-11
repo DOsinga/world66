@@ -10,6 +10,7 @@ longitude: 16.4163
 score: 0.62
 title: Trani
 type: location
+loc_type: city
 ---
 
 Trani's cathedral stands directly on the edge of the Adriatic, its pale limestone walls rising from the rocks with nothing between it and the sea. The Cattedrale di San Nicola Pellegrino is one of the finest Romanesque churches in southern Italy, and the sight of it from the harbour — framed by fishing boats and the long stone breakwater — is reason enough to come here.

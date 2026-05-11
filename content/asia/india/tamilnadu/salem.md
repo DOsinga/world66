@@ -6,6 +6,7 @@ longitude: 78.210696
 title: Salem
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Salem is a large industrial city in north-central Tamil Nadu, surrounded on three sides by hills. It's a significant steel production centre and a busy transport hub, but most travellers pass through it rather than stopping here.

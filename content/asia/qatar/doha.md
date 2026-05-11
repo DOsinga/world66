@@ -8,6 +8,7 @@ longitude: 51.508181
 score: 0.55
 title: Doha
 type: location
+loc_type: city
 ---
 
 Doha has grown up fast. Sixty years ago it was a pearl-diving port of perhaps fifteen thousand people; today it is the capital of one of the richest countries on earth, a city of three million where roughly 90 per cent of residents are foreign workers, and the skyline of West Bay competes with Dubai's and Abu Dhabi's for glossy 21st-century statement.

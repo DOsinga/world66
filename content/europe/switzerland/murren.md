@@ -10,6 +10,7 @@ longitude: 7.892879
 score: 0.8
 title: Murren
 type: location
+loc_type: city
 ---
 
 Mürren is a car-free village perched on a cliff terrace 1,650 metres above the Lauterbrunnen Valley in the Bernese Oberland. No road reaches it — you get here by cable car from Stechelberg or by mountain railway from Lauterbrunnen, and that isolation is a large part of its appeal. The village is small, quiet, and blessed with one of the most spectacular mountain panoramas in [Switzerland](/europe/switzerland): the Eiger, Mönch, and Jungfrau fill the view to the south like a wall of rock and ice.

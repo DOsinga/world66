@@ -8,6 +8,7 @@ longitude: 31.35813
 score: 0.37
 title: Mansoura
 type: location
+loc_type: city
 ---
 
 Mansoura is one of the biggest cities in Egypt bur receives very few tourists. It is mainly famous as a uniciersitt town and it has a very good medical faculty.

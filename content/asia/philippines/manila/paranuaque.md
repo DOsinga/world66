@@ -4,6 +4,7 @@ longitude: 121.01528
 score: 0.34
 title: Parañaque
 type: location
+loc_type: city
 ---
 
 Parañaque sits in the southern part of Metro Manila, wedged between the airport and the coast. Most travelers experience it involuntarily, stuck in traffic on their way to or from Ninoy Aquino International Airport. But the city has more going on than its reputation as a transit corridor suggests.

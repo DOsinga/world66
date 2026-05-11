@@ -4,6 +4,7 @@ done:
 title: Nightlife and Entertainment
 type: location
 score: 0.43
+loc_type: feature
 ---
 
 [Melaka](/asia/malaysia/melaka) is not a late-night city, but it has a relaxed evening scene concentrated along Jonker Walk and the riverfront. On Friday and Saturday nights, Jalan Hang Jebat transforms into the Jonker Walk Night Market, a crowded, colourful affair of food stalls, trinket vendors, and street performers that runs from around 6pm to midnight.

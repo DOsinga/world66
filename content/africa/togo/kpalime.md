@@ -6,6 +6,7 @@ longitude: 0.6324
 title: Kpalimé
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Kpalimé sits in the coffee and cocoa-growing hills of western Togo, about two hours northwest of [Lomé](/africa/togo/lome). The surrounding landscape is the greenest and most scenic in the country — lush hills, waterfalls, and dense vegetation that feels a world away from the dry Sahelian north.

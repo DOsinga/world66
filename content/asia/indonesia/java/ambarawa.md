@@ -8,6 +8,7 @@ longitude: 110.4017
 score: 0.43
 title: Ambarawa
 type: location
+loc_type: city
 ---
 
 A small town on the junction of the national road between [Yogyakarta](/asia/indonesia/java/yogyakarta) and [Semarang](/asia/indonesia/java/semarang), Ambarawa is mostly forgotten today but played an important role during the Indonesian independence struggle -- the Battle of Ambarawa (Palagan Ambarawa) is still commemorated locally.

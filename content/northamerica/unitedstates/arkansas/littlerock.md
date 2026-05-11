@@ -6,6 +6,7 @@ longitude: -92.289627
 title: Little Rock
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Little Rock is the capital of [Arkansas](/northamerica/unitedstates/arkansas) and the state's largest city, sitting on the south bank of the Arkansas River at roughly the geographic center of the state. It is a compact, walkable city that punches above its weight culturally — home to a presidential library, a serious art museum, and a historic district that survived urban renewal largely intact.

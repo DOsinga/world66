@@ -7,6 +7,7 @@ longitude: -77.2469
 score: 0.5
 title: Prince Edward County
 type: location
+loc_type: city
 ---
 
 Prince Edward County is a large island county on the north shore of Lake Ontario, connected to the mainland by bridges near Belleville and Trenton. Over the past two decades it has quietly transformed from a farming backwater into one of Ontario's most appealing short breaks — wine country, Sandbanks Provincial Park, cycling routes, and a genuine arts scene have all arrived without burying the rural character underneath.

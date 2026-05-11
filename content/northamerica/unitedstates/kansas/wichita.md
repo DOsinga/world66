@@ -6,6 +6,7 @@ longitude: -97.337545
 title: Wichita
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Wichita is the largest city in Kansas and has long been called the "Air Capital of the World" — Cessna, Beechcraft, Learjet, and Spirit AeroSystems all have roots here, and aviation still dominates the economy. The city sits where the Arkansas and Little Arkansas rivers meet, and the riverfront has been redeveloped into a pleasant area for walking and cycling.

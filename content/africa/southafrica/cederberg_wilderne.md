@@ -6,6 +6,7 @@ longitude: 19.112816
 title: Cederberg Wilderness Area
 type: location
 score: 0.55
+loc_type: feature
 ---
 
 The Cederberg Wilderness Area takes its name from the rare Clanwilliam cedar tree, once nearly extinct and now slowly recovering. It is a vast, rugged mountain landscape of sandstone formations, waterfalls, crystal-clear streams, and some of the richest concentrations of San (Bushman) rock art in the world.

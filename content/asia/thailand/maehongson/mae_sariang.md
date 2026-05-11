@@ -6,6 +6,7 @@ longitude: 97.930113
 title: Mae Sariang
 type: location
 score: 0.52
+loc_type: city
 ---
 
 **Mae Sariang** is one of seven districts in [Mae Hong Son](/asia/thailand/maehongson) province, and one of the most rewarding to linger in. Often overlooked by tourists moving between Chiang Mai and Mae Hong Son, it has real character and plenty to explore.

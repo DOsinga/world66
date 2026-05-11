@@ -6,6 +6,7 @@ longitude: -80.085269
 done:
   location_cleanup: 2026-04-10
 score: 0.38
+loc_type: city
 ---
 
 Erie is Pennsylvania's only Great Lakes port city, tucked into the northwest corner of the state roughly equidistant from Pittsburgh, Cleveland, and Buffalo. It sits on Lake Erie's southern shore, and that geography defines much of what visitors come for.

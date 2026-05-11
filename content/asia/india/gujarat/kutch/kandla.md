@@ -6,6 +6,7 @@ longitude: 70.216667
 title: Kandla
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Kandla is one of India's major seaports, sitting on a creek off the Gulf of Kutch. The port handles a vast volume of Gujarat's trade — grain, salt, and oil all move through here — and the town exists almost entirely because of it. There is little tourist interest in Kandla itself, but the industrial waterfront has a certain rough energy, and watching the cargo ships move through the narrow creek is oddly compelling.

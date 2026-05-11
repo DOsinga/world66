@@ -6,6 +6,7 @@ longitude: 16.4878
 title: Sibari
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Sibari (historically Sybaris) was the wealthiest and most powerful city of Magna Graecia, so famously luxurious that "sybarite" became a byword for decadence. The ancient city was destroyed in 510 BC and later buried under river silt.

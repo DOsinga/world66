@@ -6,6 +6,7 @@ longitude: 28.908
 title: Cyangugu
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Cyangugu (officially renamed Rusizi) sits at the southern tip of Lake Kivu on the border with the Democratic Republic of Congo. It is a quiet border town, beautifully positioned between the lake and the steep green hills behind it, and a natural base for visiting [Nyungwe National Park](/africa/rwanda/nyungwe_national_p) to the east — one of Africa's largest montane rainforests.

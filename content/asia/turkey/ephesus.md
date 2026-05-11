@@ -8,6 +8,7 @@ longitude: 27.3393
 score: 0.73
 title: Ephesus
 type: location
+loc_type: city
 ---
 
 Ephesus is one of the largest and best-preserved ancient cities in the Mediterranean world, located near the town of Selçuk on Turkey's Aegean coast. At its height in the Roman imperial period it had a population of perhaps 200,000 people and was the most important city in the Roman province of Asia — wealthier, larger, and more culturally significant than most cities anywhere in the ancient world. Its ruins cover several square kilometres and include a theatre that seated 25,000, a two-storey library façade that has become one of the iconic images of antiquity, marble-paved streets, public latrines, gymnasia, and the Terrace Houses where Roman domestic spaces survive with mosaics and frescoed walls still intact.

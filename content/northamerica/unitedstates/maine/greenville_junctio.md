@@ -6,6 +6,7 @@ longitude: -69.6162
 done:
   location_cleanup: 2026-04-05
 score: 0.42
+loc_type: city
 ---
 
 Greenville Junction sits at the southern tip of Moosehead Lake, Maine's largest lake -- forty miles long and surrounded by an immense expanse of forest with almost no development on its shores. This is the jumping-off point for the North Woods, and the town has the feel of a frontier outpost where civilization gives way to wilderness.

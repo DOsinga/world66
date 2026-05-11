@@ -8,6 +8,7 @@ longitude: 27.316339
 score: 0.59
 title: Tilos
 type: location
+loc_type: region
 ---
 
 Tilos is an Aegean island with nineteen beaches, twelve mountains, seven medieval castles, a Byzantine monastery and two hundred churches, a cave full of natural discoveries, a village that is a declared cultural monument, a hundred bird species, hundreds of wild flowers and herbs, and five hundred residents. I visited this unspoiled Greek island recently to rediscover the Greece of times past. 

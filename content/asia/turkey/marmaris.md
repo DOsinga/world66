@@ -1,12 +1,17 @@
 ---
-title: Marmaris
-type: location
-latitude: 36.852255
-longitude: 28.274266
 done:
   location_cleanup: 2026-04-05
-score: 0.64
+  location_enrich: '2026-05-11'
+image: marmaris.jpg
+image_attribution: Hajotthu at de.wikipedia
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:1MarmarisHafen_(13).JPG
+latitude: 36.852255
 loc_type: city
+longitude: 28.274266
+score: 0.64
+title: Marmaris
+type: location
 ---
 
 Marmaris is one of the biggest package-tourism resorts on Turkey's south-western coast, occupying a deep, pine-fringed natural harbour where the Aegean meets the Mediterranean. In the 1980s it was a quiet fishing town of a few thousand people; today it has a permanent population of around 35,000 that swells to several hundred thousand in summer, and a skyline of concrete apartment blocks that locals sometimes joke is why the name sounds so much like *mimari as* — "hang the architect".

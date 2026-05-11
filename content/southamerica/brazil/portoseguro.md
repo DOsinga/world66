@@ -6,6 +6,7 @@ longitude: -39.064251
 title: Porto Seguro
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Porto Seguro sits on the southern coast of Bahia where the Portuguese first set foot in Brazil in April 1500 — a fact the city has not forgotten. The historic upper town, perched on a bluff above the sea, holds the oldest colonial monuments in the country: the Marco do Descobrimento, a stone cross marking the landing site, and a cluster of 16th-century churches. Down below, on the beach and along the waterfront, everything is oriented toward pleasure.

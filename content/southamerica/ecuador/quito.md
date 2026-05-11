@@ -6,6 +6,7 @@ longitude: -78.512327
 score: 0.7
 title: Quito
 type: location
+loc_type: city
 ---
 
 Quito is one of the highest capitals in the world, at an elevation of more than 2,000 meter. Big mountains, including an active volcano loom over the city. 

@@ -10,6 +10,7 @@ longitude: -1.313169
 score: 0.59
 title: Winchester
 type: location
+loc_type: city
 ---
 
 Winchester was the capital of England before London claimed the title, and the city carries that ancient dignity with quiet confidence. Alfred the Great ruled his kingdom of Wessex from here, and the city remained a seat of royal power through the Norman period and beyond. Today it is a prosperous cathedral city in Hampshire, compact enough to explore on foot and rich enough in history to hold your attention for days.

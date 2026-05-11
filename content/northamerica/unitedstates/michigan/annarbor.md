@@ -7,6 +7,7 @@ longitude: -83.7485
 score: 0.51
 title: Ann Arbor
 type: location
+loc_type: city
 ---
 
 Ann Arbor is Michigan's most intellectually lively city — a university town that has grown into something more than a university town. The University of Michigan, one of the great public research universities in the United States, defines the place: it employs a significant chunk of the population, fills the streets with students, and funds a cultural life that includes a world-class art museum, a film festival, and a music scene with real range.

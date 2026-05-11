@@ -8,6 +8,7 @@ longitude: -123.3656
 score: 0.64
 title: Victoria
 type: location
+loc_type: region
 ---
 
 *North America > Canada > [British Columbia](/northamerica/canada/britishcolumbia) > Victoria*

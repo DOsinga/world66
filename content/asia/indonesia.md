@@ -16,6 +16,7 @@ quick_facts:
 score: 0.42
 title: Indonesia
 type: location
+loc_type: country
 ---
 
 Indonesia is the world's largest archipelago — over 17,000 islands stretching across 5,000 kilometres of ocean between the Indian and Pacific. It is the fourth most populous country on earth, with 270 million people spread across six main islands and hundreds of smaller ones, speaking more than 700 distinct languages. Few countries offer such variety in so compact a form: Hindu temples and active volcanoes on [Java](/asia/indonesia/java), animist villages in the highlands of [Sumatra](/asia/indonesia/sumatra), some of the world's best coral reefs in eastern [Maluku](/asia/indonesia/maluku) and [Raja Ampat](/asia/indonesia/irianjaya), and the living dragons of [Komodo](/asia/indonesia/komodo_island).

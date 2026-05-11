@@ -8,6 +8,7 @@ longitude: 104.0668
 score: 0.71
 title: Chengdu
 type: location
+loc_type: region
 ---
 
 Chengdu is the capital of Sichuan and the unofficial capital of laid-back China. A city of sixteen million people, it is famously addicted to tea, mahjong, hotpot and pandas — usually in that order. Where Beijing strives and Shanghai dazzles, Chengdu sits back, orders another pot of jasmine, and asks why you are in such a hurry.

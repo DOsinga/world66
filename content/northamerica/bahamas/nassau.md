@@ -7,6 +7,7 @@ long: -77.3554
 score: 0.65
 title: Nassau
 type: location
+loc_type: city
 ---
 
 Nassau is the capital of the Bahamas, sitting on New Providence Island in the northwest of the archipelago. It's a city of real contrasts: colonial-era pastel buildings and cobbled streets in the old downtown, massive cruise ship terminals crowding the waterfront, and a string of resort hotels strung along Cable Beach to the west.

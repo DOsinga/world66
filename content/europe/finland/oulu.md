@@ -6,6 +6,7 @@ longitude: 25.470197
 title: Oulu
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Oulu is Finland's sixth-largest city, sitting on the shore of the Gulf of Bothnia where the Oulujoki river meets the sea. It is the main city of northern Finland and has a reputation as a technology and university hub — Nokia and other tech companies have long had a presence here.

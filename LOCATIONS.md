@@ -2,6 +2,24 @@
 
 Location pages cover cities, towns, and regions. They are where travelers find specific, actionable information: what to see, where to eat, how to get around. This document defines what a good location page looks like.
 
+## Location types (`loc_type`)
+
+Every page with `type: location` also carries a `loc_type` field that describes what kind of place it is. This is what distinguishes a city from a state, a national park from a neighbourhood. Without it, batch workflows and rendering can't tell a leaf settlement apart from a region with no city children.
+
+| Value | Use for | Example paths |
+|-------|---------|---------------|
+| `continent` | The seven top-level continent pages | `europe`, `asia` |
+| `country` | Sovereign states and territories with their own page | `europe/france`, `asia/japan` |
+| `region` | Administrative regions, states, provinces, counties, multi-town areas | `europe/italy/lazio`, `northamerica/unitedstates/california` |
+| `city` | Cities, towns, villages — actual settlements | `europe/france/paris`, `asia/india/jaipur` |
+| `feature` | Natural features and named attractions that aren't settlements: national parks, lakes, mountains, monuments, archaeological sites, theme parks | `northamerica/unitedstates/wyoming/yellowstone`, `asia/cambodia/angkorwat` |
+
+A page is a `region` when it contains other locations as children (e.g. an Italian region with cities inside it). A page is a `city` when it is a leaf — no child locations, just sections and POIs. A `feature` is also a leaf but represents a single point of interest large enough to have its own page, not a place where people live.
+
+City-states (Monaco, Vatican City, Singapore) are typed `country` at the country-depth file and `city` only if they have a separate city page below.
+
+Neighbourhoods and districts within cities are not locations — they use `type: neighbourhood` and live in the parent city's directory. See [Neighbourhood tags](#neighbourhood-tags) below.
+
 ## The overview page
 
 The overview is the most important page. It should make someone want to visit — or at least understand the place. See STYLE.md for detailed guidance, but in short:

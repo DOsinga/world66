@@ -1,0 +1,5 @@
+australiaandpacific/australia/westernaustralia/ravensthorpe
+europe/bosniaandherzegovina/zenica
+asia/cyprus/northerncyprus/levkosa
+europe/italy/tuscany/siena
+northamerica/unitedstates/northcarolina/marion

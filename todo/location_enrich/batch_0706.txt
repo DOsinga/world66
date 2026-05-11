@@ -1,0 +1,5 @@
+europe/germany/saxony/chemnitz
+asia/laos/vangvieng
+australiaandpacific/australia/victoria/midura
+europe/germany/saxonyanhalt/quedlinburg
+northamerica/unitedstates/texas/kerrville

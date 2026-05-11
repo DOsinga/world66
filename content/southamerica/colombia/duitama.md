@@ -6,6 +6,7 @@ longitude: -73.069137
 score: 0.42
 title: Duitama
 type: location
+loc_type: city
 ---
 
 Duitama is a small city in the Boyacá highlands of Colombia, about three hours northeast of Bogotá. It sits at 2,500 metres in a green valley surrounded by mountains, and the climate is cool and pleasant year-round. The city is a practical base for exploring Boyacá — one of Colombia's most historically rich departments.

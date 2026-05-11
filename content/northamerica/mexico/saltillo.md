@@ -6,6 +6,7 @@ longitude: -100.992751
 score: 0.41
 title: Saltillo
 type: location
+loc_type: city
 ---
 
 Saltillo is the capital of Coahuila state in northern Mexico, sitting at about 1,600 metres in a high desert basin surrounded by mountains. It's one of Mexico's most important industrial cities — the Ramírez automotive cluster here produces a significant share of Mexico's vehicles — but also has genuine colonial heritage at its centre. The baroque cathedral on the Plaza de Armas is considered one of the finest in northern Mexico.

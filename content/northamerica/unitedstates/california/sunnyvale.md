@@ -8,6 +8,7 @@ longitude: -122.036349
 score: 0.38
 title: Sunnyvale
 type: location
+loc_type: city
 ---
 
 Travel Guide

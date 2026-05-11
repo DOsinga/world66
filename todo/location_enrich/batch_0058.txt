@@ -1,0 +1,5 @@
+europe/sweden/uppsala
+europe/netherlands/friesland/sloten
+northamerica/unitedstates/ohio/cleveland
+europe/spain/galicia/melide
+europe/france/centre/loirevalley/bracieux

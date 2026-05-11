@@ -6,6 +6,7 @@ longitude: 17.666667
 title: Kramfors
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Kramfors is a small town of about 6,000 people in the province of Ångermanland, close to the Ångermanälven — one of Sweden's largest rivers. The town grew up around saw mills and paper mills, most of which closed in the 1970s, and it has been losing population since.

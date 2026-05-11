@@ -1,0 +1,5 @@
+northamerica/unitedstates/idaho/teton_valley/tetonia
+northamerica/unitedstates/california/deserts/palmdesert
+europe/hungary/buk
+northamerica/mexico/bocadelrio
+europe/ukraine/yaremche

@@ -8,6 +8,7 @@ longitude: -0.0486
 score: 0.61
 title: Altea
 type: location
+loc_type: city
 ---
 
 Altea is the prettiest town on the Costa Blanca, and one of the few places along this stretch of coast that hasn't been swallowed by resort development. The old quarter sits on a hill above the bay, its whitewashed lanes climbing to a church with glazed blue-tiled domes that have become the symbol of the town. From the church terrace you look down over terracotta rooftops, a marina, and a long pebble beach curving around the bay.

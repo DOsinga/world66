@@ -5,6 +5,7 @@ latitude: 56.0349
 longitude: 12.6130
 done:
   location_cleanup: "2026-04-14"
+loc_type: city
 ---
 
 Helsingør — known to English speakers as Elsinore — sits at Denmark's narrowest point, where the Sound separates it from Helsingborg in Sweden by just four kilometres of water. It's been a strategically vital crossing since the medieval period, and Kronborg Castle, which guards the strait, is one of the most impressive Renaissance fortresses in northern Europe. Shakespeare set Hamlet here, though he probably never visited — the play cemented the castle's fame far beyond Scandinavia.

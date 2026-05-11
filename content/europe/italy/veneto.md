@@ -7,6 +7,7 @@ longitude: 11.5479
 score: 0.65
 title: Veneto
 type: location
+loc_type: region
 ---
 
 Veneto is one of Italy's most rewarding regions, and not just because it contains Venice. The northeast corner of the country packs an extraordinary range into a compact area: lagoon cities, Roman amphitheatres, Renaissance hill towns, alpine ski resorts, and some of the country's finest wine country, all within a few hours of each other.

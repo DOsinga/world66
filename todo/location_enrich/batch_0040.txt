@@ -1,0 +1,5 @@
+northamerica/unitedstates/nevada/ely
+africa/tanzania/pemba
+europe/switzerland/thurgau
+northamerica/unitedstates/oklahoma/sapulpa
+asia/malaysia/sarawak

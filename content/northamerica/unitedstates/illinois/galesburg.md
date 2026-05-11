@@ -4,6 +4,7 @@ type: location
 latitude: 40.9476
 longitude: -90.3712
 score: 0.3
+loc_type: city
 ---
 
 Galesburg is a small college town in western Illinois, about midway between Peoria and the Quad Cities on I-74. It is the home of Knox College, a well-regarded liberal arts school founded in 1837, and the birthplace of poet Carl Sandburg. The town has a quiet, slightly faded Main Street charm — old brick buildings, a busy railroad crossing, and the kind of place where people wave from their porches.

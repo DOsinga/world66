@@ -8,6 +8,7 @@ longitude: 71.7902
 score: 0.41
 title: Chitral
 type: location
+loc_type: city
 ---
 
 Chitral is one of Pakistan's most remote and extraordinary valleys — a 322-kilometre corridor hemmed in by Afghanistan on three sides and separated from Tajikistan only by the narrow Wakhan strip. At its heart sits Tirich Mir, the highest peak of the Hindu Kush at 7,788 metres, presiding over a landscape that draws mountaineers, trekkers, anglers and anthropologists alike.

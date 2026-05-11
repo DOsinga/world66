@@ -6,6 +6,7 @@ longitude: 14.631247
 title: Punat
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Punat is a small fishing village tucked into a sheltered bay on the southern side of [Krk Island](/europe/croatia/krkisland). It is quieter than the island's main town and popular with sailors — the marina is one of the largest in the Adriatic.

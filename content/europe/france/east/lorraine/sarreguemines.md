@@ -6,6 +6,7 @@ longitude: 7.0709
 title: Sarreguemines
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Sarreguemines sits where the Sarre and Blies rivers meet, right on the French-German border — the German town of Kleinblittersdorf is a short walk across the bridge. With around 21,000 residents, it's a quietly confident provincial town that knows what it is: the home of one of France's most famous ceramics traditions.

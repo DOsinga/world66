@@ -6,6 +6,7 @@ longitude: -6.592281
 score: 0.44
 title: Maynooth
 type: location
+loc_type: city
 ---
 
 Maynooth is a small university town in County Kildare, about 25 kilometres west of Dublin along the Royal Canal. Two institutions define it: Maynooth University (officially the National University of Ireland, Maynooth), a busy campus with around 14,000 students that lends the town its youthful energy and decent café culture, and St Patrick's College, the great 19th-century Catholic seminary where generations of Irish priests were trained. The seminary grounds contain a small but interesting Ecclesiastical Museum with vestments, manuscripts, and relics connected to the Irish church.

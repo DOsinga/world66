@@ -8,6 +8,7 @@ longitude: 20.58871
 score: 0.53
 title: Levoca
 type: location
+loc_type: city
 ---
 
 Levoča is one of the best-preserved medieval towns in Central Europe and most visitors drive right past it on the way to Spis Castle. That's their loss. The walled old town is compact, beautiful, and almost entirely intact — Gothic churches, Renaissance townhouses, and a central square that would look at home in Kraków or Bruges, minus the tourist crowds.

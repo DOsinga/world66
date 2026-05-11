@@ -4,6 +4,7 @@ type: location
 latitude: 21.2456
 longitude: 70.8215
 score: 0.47
+loc_type: region
 ---
 
 Gujarat offers a remarkable diversity of habitats for wildlife enthusiasts, from deep teak forests and arid grasslands to coastal wetlands and marine ecosystems. The state is home to several species found nowhere else in India in such concentrations, including the Asiatic lion, the Indian wild ass, and the four-horned antelope.

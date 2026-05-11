@@ -7,6 +7,7 @@ longitude: -88.0252
 score: 0.25
 title: San Pedro Sula
 type: location
+loc_type: city
 ---
 
 San Pedro Sula is Honduras's second city and its industrial and commercial capital, a flat, hot city in the Sula valley near the north coast. It is the main gateway for travelers heading to [Copán](/northamerica/honduras/copan) (about three hours by bus to the west), the north coast, and the Bay Islands.

@@ -1,0 +1,5 @@
+northamerica/thecaribbean/haiti/gonaveisland
+africa/angola/lobito
+asia/jordan/shobak
+africa/algeria/djemila
+asia/southkorea/ulsan

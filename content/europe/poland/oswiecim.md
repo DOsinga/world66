@@ -6,6 +6,7 @@ longitude: 19.221405
 done:
   location_cleanup: '2026-04-10'
 score: 0.41
+loc_type: city
 ---
 
 Oswiecim is a mid-sized Polish town in the Silesian region, and it's primarily visited for one reason: it is the location of Auschwitz-Birkenau, the Nazi German concentration and extermination camp where more than a million people — the vast majority of them Jews — were murdered during World War II. The Auschwitz-Birkenau State Museum is one of the most visited sites in Poland and a UNESCO World Heritage Site.

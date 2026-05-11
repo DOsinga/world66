@@ -6,6 +6,7 @@ longitude: -105.514163
 title: Central City
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Central City sits in Gilpin County in the Colorado Rockies, about an hour west of Denver. During the gold rush of the 1850s and 1860s it was known as the "Richest Square Mile on Earth," and the Victorian-era architecture left over from that era still gives the town a distinctive character.

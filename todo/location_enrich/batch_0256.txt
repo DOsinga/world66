@@ -1,0 +1,5 @@
+northamerica/jamaica/mandeville
+europe/netherlands/leiden
+europe/france/normandybrittany/rouen
+africa/morocco/aitourir
+asia/iran/mashhad

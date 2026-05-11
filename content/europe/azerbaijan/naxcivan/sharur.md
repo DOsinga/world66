@@ -8,6 +8,7 @@ longitude: 45.036218
 score: 0.29
 title: Sharur
 type: location
+loc_type: city
 ---
 
 Travel Guide

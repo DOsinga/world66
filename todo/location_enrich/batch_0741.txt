@@ -1,0 +1,5 @@
+europe/switzerland/crans_montana
+africa/mozambique/quelimane
+asia/japan/shikoku/marugame
+europe/greece/katerini
+africa/ivorycoast/biankouma

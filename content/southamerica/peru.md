@@ -16,6 +16,7 @@ quick_facts:
 score: 0.49
 title: Peru
 type: location
+loc_type: country
 ---
 
 **The Land of the Incas**

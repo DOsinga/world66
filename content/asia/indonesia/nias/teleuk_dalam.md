@@ -6,6 +6,7 @@ longitude: 97.8195
 title: Teluk Dalam
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Teluk Dalam is the capital of South Nias, a small town on the southern coast of [Nias](/asia/indonesia/nias) island. The town itself is unremarkable, but it serves as the gateway to the surf beaches and traditional villages that make southern Nias one of Indonesia's most distinctive destinations.

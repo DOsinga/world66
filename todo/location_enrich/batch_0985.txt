@@ -1,0 +1,5 @@
+northamerica/unitedstates/arizona/sedona
+asia/india/tamilnadu/tiruvarur
+northamerica/guatemala/lakeatitlan/santiago_atitlan
+europe/sweden/sigtuna
+europe/greece/crete/rethimno

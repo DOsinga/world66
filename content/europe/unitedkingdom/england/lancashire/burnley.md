@@ -6,6 +6,7 @@ longitude: -2.24392
 title: Burnley
 type: location
 score: 0.32
+loc_type: city
 ---
 
 From a lively nightlife to dynamic theatrical productions, Burnley

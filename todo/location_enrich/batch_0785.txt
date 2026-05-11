@@ -1,0 +1,5 @@
+europe/spain/canaryislands/lagomera/san_sebastin
+europe/france/normandybrittany/rennes
+europe/croatia/peljesac/orebic
+asia/iraq/annasiriyah
+africa/mali/dogoncountry/bandiagara

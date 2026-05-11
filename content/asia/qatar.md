@@ -17,6 +17,7 @@ quick_facts:
 title: Qatar
 type: location
 score: 0.52
+loc_type: country
 ---
 
 *Asia > Qatar*

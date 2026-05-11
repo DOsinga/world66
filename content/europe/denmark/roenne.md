@@ -6,6 +6,7 @@ longitude: 14.706091
 score: 0.49
 title: Roenne
 type: location
+loc_type: city
 ---
 
 Rønne is the main town and ferry port of Bornholm, the Danish island in the Baltic Sea that gets more sunshine than anywhere else in Denmark. Most visitors pass through on their way to the round churches, the coastal cliffs, and the smoked herring of Gudhjem, but Rønne itself is worth a couple of hours.

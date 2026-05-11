@@ -6,6 +6,7 @@ longitude: -3.178394
 title: Caerphilly
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Caerphilly is a market town in the South Wales Valleys, about 11 km north of [Cardiff](/europe/unitedkingdom/wales/cardiff). The reason to come here is the castle — Caerphilly Castle is the largest in Wales and the second largest in Britain after Windsor. Built in the 1260s by Gilbert de Clare, it was one of the first concentric castles in Europe and its leaning tower out-leans Pisa by several degrees.

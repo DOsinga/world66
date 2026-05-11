@@ -1,0 +1,5 @@
+europe/armenia/vanadzor
+europe/unitedkingdom/england/london
+africa/sudan/kassala
+asia/cyprus/troodosmountains/lania_traditiona
+northamerica/belize/corozaltown

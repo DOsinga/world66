@@ -7,6 +7,7 @@ longitude: 78.009816
 score: 0.72
 title: Agra
 type: location
+loc_type: city
 ---
 
 The reason why people come to Agra is very obvious: to lay their eyes on the impressive Taj Mahal.

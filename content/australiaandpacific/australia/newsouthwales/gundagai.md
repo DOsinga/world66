@@ -7,6 +7,7 @@ longitude: 148.1007
 score: 0.42
 title: Gundagai
 type: location
+loc_type: city
 ---
 
 Gundagai is a small historic town on the Murrumbidgee River, about halfway between Sydney and Melbourne on the Hume Highway. It sits at the foot of Mount Parnassus, 387 km south-west of Sydney, and has been a stopping point for travelers since the days of bullock teams hauling wool across the continent.

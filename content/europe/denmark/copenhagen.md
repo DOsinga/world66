@@ -8,6 +8,7 @@ longitude: 12.5683
 score: 0.73
 title: Copenhagen
 type: location
+loc_type: city
 ---
 
 Copenhagen began as a tiny fishing village called Havn in the 12th century. Bishop Absalon of Roskilde fortified it, traders followed, and by 1417 it was the capital of Denmark. Today it is one of Europe's most livable cities, a place where old royal palaces sit comfortably alongside bold modern architecture, and where nearly half the population commutes by bicycle.

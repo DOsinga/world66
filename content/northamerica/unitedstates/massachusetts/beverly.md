@@ -4,6 +4,7 @@ type: location
 latitude: 42.548974
 longitude: -70.878188
 score: 0.43
+loc_type: city
 ---
 
 Founded in 1626, the

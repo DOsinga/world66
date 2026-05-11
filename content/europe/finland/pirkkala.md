@@ -6,6 +6,7 @@ longitude: 23.646265
 title: Pirkkala
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Pirkkala is a small municipality of about 15,000 people just south of [Tampere](/europe/finland/tampere), about 15 minutes by road. It is home to Tampere-Pirkkala International Airport, the gateway for budget flights into the Tampere region, and its main claim to fame for travellers.

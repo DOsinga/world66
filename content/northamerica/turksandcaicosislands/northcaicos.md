@@ -5,6 +5,7 @@ latitude: 21.87
 longitude: -71.95
 title: North Caicos
 type: location
+loc_type: city
 ---
 
 North Caicos is the greenest island in the Turks and Caicos, with more rainfall than its neighbours and a lush, almost jungled interior. It is connected to [Middle Caicos](/northamerica/turksandcaicosislands/middlecaicos) by a causeway and reached by a short ferry from Providenciales.

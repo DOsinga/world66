@@ -6,6 +6,7 @@ longitude: -86.899738
 title: Crawfordsville
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Crawfordsville is a small city of around 15,000 in west-central Indiana, about halfway between Indianapolis and the Illinois state line off Interstate 74. It's the seat of Montgomery County and home to Wabash College, a well-regarded all-male liberal arts college that gives the town a certain intellectual edge unusual for a city this size.

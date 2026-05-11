@@ -6,6 +6,7 @@ longitude: -108.484
 title: Quemado
 type: location
 score: 0.26
+loc_type: city
 ---
 
 Quemado is a tiny ranching community on US-60 in west-central New Mexico, the kind of place where you stop because there is nothing else for fifty miles in any direction. The town has a gas station, a couple of small motels, and a cafe or two -- just enough to keep a traveler going. Its name means "burned" in Spanish, reportedly a reference to a fire-scarred tree that once stood nearby.

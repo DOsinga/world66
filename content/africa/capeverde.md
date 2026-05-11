@@ -14,6 +14,7 @@ quick_facts:
   Islands: "10"
   Diaspora: Larger than population
 score: 0.62
+loc_type: country
 ---
 
 Cape Verde is an archipelago of ten volcanic islands scattered in the Atlantic Ocean, 500 kilometers off the west coast of Africa. It is a place where African warmth meets Portuguese colonial history, where music drifts out of every bar, and where the landscape shifts from Saharan desert to lush green valleys in the space of a short ferry ride. The Cape Verdeans call their particular brand of longing *sodade* -- a cousin of Portuguese *saudade* -- and you will hear it in every note of the morna music that Cesaria Evora made famous.

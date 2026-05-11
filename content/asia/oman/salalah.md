@@ -8,6 +8,7 @@ longitude: 54.101092
 score: 0.61
 title: Salalah
 type: location
+loc_type: city
 ---
 
 Salalah is about as far from the rest of Oman as you can get — a twelve-hour drive or a ninety-minute flight from Muscat, deep in the southern province of Dhofar. It is a different country in almost every respect. Where the north is desert, Dhofar is subtropical. The Indian Ocean monsoon — the khareef — rolls in every June and soaks the hills in mist and rain until September. The landscape turns an almost improbable green. Waterfalls run in the limestone hills. Cattle stand in meadows. It feels more like East Africa than Arabia, which is historically accurate: Oman's sultans ruled Zanzibar for two centuries, and the cultural exchange ran in both directions.

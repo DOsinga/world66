@@ -10,6 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dhenkanal_Town_from_Hanuma
 image_license: CC BY 4.0
 image_attribution: Strange Burg
 score: 0.31
+loc_type: city
 ---
 
 Dhenkanal is a district town in central [Odisha](/asia/india/orissa), once the seat of a princely state and now a quiet administrative centre surrounded by forested hills. The town itself is modest, but the district holds some of the state's most rewarding detours for travellers willing to get off the main highways.

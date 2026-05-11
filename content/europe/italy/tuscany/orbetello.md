@@ -6,6 +6,7 @@ longitude: 11.210743
 score: 0.58
 title: Orbetello
 type: location
+loc_type: city
 ---
 
 Orbetello sits on a narrow causeway in the middle of a lagoon on the southern Tuscan coast, connected to the Monte Argentario peninsula by two sand tomboli that enclose the water on either side. The setting is extraordinary — a town floating between sea and lagoon, with flamingos wading in the shallows.

@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/halfmoonbay
+europe/spain/galicia/vern
+northamerica/unitedstates/colorado/aspen
+europe/unitedkingdom/scotland/turriff
+europe/faroeislands/bordoy

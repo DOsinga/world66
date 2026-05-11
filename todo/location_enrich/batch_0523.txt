@@ -1,0 +1,5 @@
+europe/italy/tuscany/massa
+africa/angola/massoulo
+europe/germany/mecklenburgwesternpomerania/warnemunde
+southamerica/argentina/larioja
+northamerica/canada/britishcolumbia/sidney

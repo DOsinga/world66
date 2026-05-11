@@ -6,6 +6,7 @@ longitude: -117.1473
 title: Temecula
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Founded on the Butterfield Stage Route, Temecula is the gateway to California's youngest wine country. The Temecula Valley is home to more than 40 wineries, most of them clustered along Rancho California Road east of the freeway. You can tour them by car, take a winery shuttle, or — for the full effect — see the vines from a hot-air balloon at dawn.

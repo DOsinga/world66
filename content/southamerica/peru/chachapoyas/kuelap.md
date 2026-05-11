@@ -6,6 +6,7 @@ longitude: -77.910721
 title: Kuelap
 type: location
 score: 0.62
+loc_type: city
 ---
 
 Travel Guide

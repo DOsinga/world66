@@ -5,6 +5,7 @@ latitude: 19.1129
 longitude: -96.1118
 title: Boca del Rio
 type: location
+loc_type: city
 ---
 
 Boca del Río is a municipality that effectively forms the southern beachside extension of [Veracruz](/northamerica/mexico/veracruz), separated from the city by the Jamapa River. Most of the seafood restaurants, beach clubs, and weekend leisure facilities that serve the Veracruz metropolitan area are actually on the Boca del Río side of the river. For travellers, the two cities are practically one.

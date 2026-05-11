@@ -1,0 +1,5 @@
+asia/india/tamilnadu/thanjavur
+europe/russia/pskov
+europe/norway/fredrikstad
+europe/netherlands/denhelder
+europe/spain/balearicislands/mallorca/arenal

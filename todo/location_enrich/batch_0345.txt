@@ -1,0 +1,5 @@
+europe/italy/molise/termoli
+europe/italy/liguria/italianriviera/rivieradellepalme/toirano
+europe/austria/arlberg
+europe/spain/aragon/albarracin
+northamerica/unitedstates/california/torrance

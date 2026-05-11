@@ -8,6 +8,7 @@ longitude: 30.207044
 score: 0.38
 title: Vitebsk
 type: location
+loc_type: city
 ---
 
 Vitebsk is Belarus's second city, set on the confluence of the Western Dvina and Vitba rivers. Before World War II it was predominantly Jewish — over twenty synagogues served the community — but the war destroyed both the population and most of the city. What stands today is largely Soviet-era reconstruction, though a few pre-war buildings survive.

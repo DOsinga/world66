@@ -7,6 +7,7 @@ longitude: -7.935182
 score: 0.61
 title: Faro
 type: location
+loc_type: city
 ---
 
 Faro is the capital of the Algarve and home to the region's international airport, making it the first stop for most visitors. Many people rush straight to the beach resorts, but the town itself deserves at least a day.

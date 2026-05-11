@@ -6,6 +6,7 @@ longitude: -2.820247
 score: 0.49
 title: Elie
 type: location
+loc_type: city
 ---
 
 Elie is a small coastal village on the East Neuk of Fife, one of a string of pretty fishing villages that line the Firth of Forth between St Andrews and Kirkcaldy. It has a long sandy beach that curves around a sheltered bay — one of the best beaches on Scotland's east coast, surprisingly uncrowded even in summer.

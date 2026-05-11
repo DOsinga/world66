@@ -6,6 +6,7 @@ longitude: 8.2966
 title: Mallare
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Mallare is a small agricultural village on the upper Bormida river, set in a valley dominated by Monte Alto (956 m). A possession of the Del Carretto family since the 12th century, it was ceded to the Monferrato in 1393, who then re-invested the Del Carretto with the fief.

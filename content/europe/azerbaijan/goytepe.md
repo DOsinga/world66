@@ -6,6 +6,7 @@ longitude: 48.595135
 title: Goytepe
 type: location
 score: 0.26
+loc_type: city
 ---
 
 Formerly known as Priship, this small town is located in the southern part of the Jalilabad rayon, on the road leading south to [Masally](/europe/azerbaijan/masally), [Astara](/europe/azerbaijan/astara) and the Iranian border.

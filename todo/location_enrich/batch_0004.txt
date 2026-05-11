@@ -1,0 +1,5 @@
+asia/japan/kagoshima
+africa/tanzania/zanzibar/stonetown
+australiaandpacific/australia/newsouthwales/coffsharbour
+europe/unitedkingdom/england/birmingham_and_west_midlands/ledbury
+asia/india/himachalpradesh/mandi

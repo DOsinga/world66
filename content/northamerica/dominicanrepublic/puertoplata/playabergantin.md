@@ -6,6 +6,7 @@ longitude: -70.632
 title: Playa Bergantin
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Playa Bergantín is a quiet stretch of sand east of [Puerto Plata](/northamerica/dominicanrepublic/puertoplata), away from the resort crowds that dominate much of the north coast. To get here, follow the coastal road east past Costámbar and Cofresí for a few kilometres, then take a dirt track to the left toward the shore. The reward is a near-empty beach lined with coconut palms and backed by low scrub — a far cry from the manicured resort strips further west.

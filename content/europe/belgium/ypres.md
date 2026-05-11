@@ -7,6 +7,7 @@ longitude: 2.884605
 score: 0.58
 title: Ypres
 type: location
+loc_type: city
 ---
 
 Ypres (locally Ieper) is a small, handsome town in Western Flanders that was completely destroyed during the First World War and painstakingly rebuilt in its original medieval style during the 1920s. The result is a town that looks ancient but is essentially a century old — a living monument to what was lost.

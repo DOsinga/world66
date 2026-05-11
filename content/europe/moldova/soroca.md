@@ -6,6 +6,7 @@ longitude: 28.299605
 title: Soroca
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Soroca is a town of around 25,000 on the Dniester river in northern Moldova, close to the Ukrainian border. Its main draw is a well-preserved circular fortress built in the early 16th century by Stephen the Great — one of the finest examples of Genoese-influenced military architecture in the region.

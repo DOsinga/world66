@@ -6,6 +6,7 @@ longitude: 11.76741
 score: 0.43
 title: Nastved
 type: location
+loc_type: city
 ---
 
 Næstved is the largest town in southern Zealand, a market centre with medieval roots that sits on the Suså river about an hour south of [Copenhagen](/europe/denmark/copenhagen). It has two notable medieval churches — Sankt Peders Kirke with its Gothic frescoes and the smaller Sankt Mortens Kirke — and a compact old town around Axeltorv square that is pleasant for a stroll.

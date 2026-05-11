@@ -6,6 +6,7 @@ longitude: 91.552067
 title: Trashigang
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Trashigang is the largest district in eastern Bhutan and its small town is the main settlement in a part of the country that few visitors reach. The valleys here are narrower and steeper than those in the more touristed west around [Paro](/asia/bhutan/paro) and [Thimphu](/asia/bhutan/thimphu), and the remoteness is part of the appeal.

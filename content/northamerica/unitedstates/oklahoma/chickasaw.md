@@ -6,6 +6,7 @@ longitude: -97.012
 title: Chickasaw
 type: location
 score: 0.27
+loc_type: city
 ---
 
 Springs, streams, and lakes are the attractions at Chickasaw National Recreation Area, the first national park in Oklahoma. Visitors find camping, boating, fishing, swimming, hiking, hunting, and nature walks. The Travertine Information and Nature Center and its adjacent environmental study area offer exhibits and educational programs.

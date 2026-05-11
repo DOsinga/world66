@@ -6,6 +6,7 @@ longitude: -83.632402
 title: Macon
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Macon sits at the geographic center of Georgia, about 80 miles south of Atlanta on I-75. It's a mid-size city with a well-preserved historic downtown and a surprisingly rich musical heritage — Macon was the home of Otis Redding, Little Richard, and the Allman Brothers Band. The Allman Brothers Band Museum at the Big House on Vineville Avenue is a pilgrimage site for fans.

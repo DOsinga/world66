@@ -15,6 +15,7 @@ quick_facts:
   Largest Country Entirely in Europe: "603,550 km²"
   Sunflower Oil Production: "Largest exporter in the world"
 score: 0.32
+loc_type: country
 ---
 
 Ukraine is one of Europe's largest countries, a place of extraordinary depth — ancient cities, rolling steppes, the forested Carpathians in the west, and the Black Sea coast in the south. Before the Russian invasion of February 2022, it was drawing more visitors every year, and [Lviv](/europe/ukraine/lviv) had become one of the continent's most beloved cities for weekend breaks.

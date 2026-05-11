@@ -1,0 +1,5 @@
+northamerica/thecaribbean/puertorico/guanica
+europe/unitedkingdom/scotland/barra
+europe/france/normandybrittany/honfleur
+northamerica/unitedstates/california/shastacascade/redbluff
+africa/ghana/kintampo

@@ -8,6 +8,7 @@ longitude: 28.049722
 score: 0.48
 title: Johannesburg
 type: location
+loc_type: city
 ---
 
 Johannesburg — Joburg, Jozi — is the economic capital of South Africa and the largest city in sub-Saharan Africa after Lagos. It was founded in 1886 when gold was discovered on the Witwatersrand ridge, and the city is still built on the mine dumps that resulted; the endless low golden hills west and south of town are tailings. It is not a pretty city, it has a real reputation for crime, and yet it is the most important place in South Africa — where the politics happens, where the apartheid history is most visibly on display, and where the country's present is being worked out.

@@ -1,0 +1,5 @@
+northamerica/nicaragua/cornislands
+europe/belgium/nieuwpoort
+asia/philippines/calamba
+europe/poland/bialystok
+northamerica/unitedstates/massachusetts/amherst

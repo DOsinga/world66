@@ -1,0 +1,5 @@
+asia/mongolia/karakorum
+northamerica/unitedstates/texas/killeen
+asia/pakistan/rawalpindi
+asia/iraq/tikrit
+europe/unitedkingdom/england/norfolk/the_north_norfolk_coast/brancaster

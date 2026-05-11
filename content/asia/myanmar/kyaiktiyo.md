@@ -6,6 +6,7 @@ longitude: 97.098275
 title: Kyaiktiyo
 type: location
 score: 0.54
+loc_type: feature
 ---
 
 Kyaiktiyo — the **Golden Rock** — is one of Myanmar's most extraordinary sights: a gold-leafed boulder perched on the very edge of a cliff, seemingly defying gravity, with a small pagoda balanced on top. According to legend, a hair of the Buddha holds the rock in place, given to a hermit monk who requested it be enshrined in a boulder shaped like his own head.

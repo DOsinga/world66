@@ -4,6 +4,7 @@ longitude: 10.534821
 score: 0.43
 title: Wolfenbüttel
 type: location
+loc_type: city
 ---
 
 Wolfenbüttel is one of those German towns that somehow escaped both wartime destruction and postwar neglect, leaving it with one of the best-preserved collections of half-timbered houses in northern Germany. Over 600 Fachwerk buildings line the streets of the old town, many dating back to the sixteenth and seventeenth centuries, and the overall effect is almost absurdly picturesque. It sits just south of Braunschweig and makes for an easy day trip.

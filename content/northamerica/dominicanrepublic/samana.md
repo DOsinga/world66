@@ -6,6 +6,7 @@ longitude: -69.3362
 title: Samaná
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Santa Bárbara de Samaná — known simply as Samaná — is the capital of the Samaná Province and the main town on the peninsula of the same name. It sits on a natural harbour at the southern edge of the peninsula, facing the wide blue arc of Samaná Bay. The setting is beautiful: green hills behind, fishing boats and pelicans in front, and coconut palms running down to the water.

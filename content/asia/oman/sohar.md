@@ -7,6 +7,7 @@ longitude: 56.729838
 score: 0.41
 title: Sohar
 type: location
+loc_type: city
 ---
 
 Sohar is the largest city on Oman's northern Batinah coast, and according to legend the birthplace of Sinbad the Sailor — a claim the city wears with some pride. The old fort in the centre has been well restored and houses a small museum. A replica of the ship Sohar, which retraced a historic Arab sailing route to China in 1980–81, is displayed near the harbour.

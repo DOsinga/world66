@@ -10,6 +10,7 @@ image: annecy.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Annecy-palais2.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Yves LC
+loc_type: city
 ---
 
 Annecy sits at the northern tip of Lake Annecy, ringed by mountains that still carry snow well into spring. The old town is built around a canal that runs from the lake through cobbled streets lined with pastel-coloured houses — locals call it the Venice of the Alps, and for once the comparison is not entirely absurd.

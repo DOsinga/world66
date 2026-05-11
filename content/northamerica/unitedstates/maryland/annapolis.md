@@ -6,6 +6,7 @@ longitude: -76.492786
 title: Annapolis
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Annapolis is the capital of [Maryland](/northamerica/unitedstates/maryland) and one of the best-preserved colonial towns in the United States. The city served briefly as the nation's capital in 1783-84, and its compact historic district -- centered on the Maryland State House, the oldest state capitol still in continuous legislative use -- is a pleasure to walk through. Brick row houses, narrow streets, and church steeples give the downtown a scale and character that feels more European than American.

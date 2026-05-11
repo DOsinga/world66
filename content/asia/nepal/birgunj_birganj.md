@@ -6,6 +6,7 @@ longitude: 84.856979
 title: Birgunj
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Birgunj is the main border crossing point between Nepal and India, paired with Raxaul on the Indian side. Most travellers pass through rather than stay, but if you are crossing the border late in the day you may need to spend a night. The town is hot, flat, and busy — part of the Terai lowlands rather than the Nepal most visitors imagine.

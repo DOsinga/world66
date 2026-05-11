@@ -7,6 +7,7 @@ longitude: -149.4452
 score: 0.81
 title: Tahiti
 type: location
+loc_type: region
 ---
 
 Tahiti is the largest island in French Polynesia, covering 1,042 km², and is divided into a larger northwestern lobe (Tahiti Nui) and a smaller southeastern peninsula (Tahiti Iti), joined by an isthmus. Most of the population lives on the northwest coast around the capital [Papeete](/australiaandpacific/frenchpolynesia/tahiti/papeete). The island's interior is dominated by dramatic volcanic peaks, and the coastal road — 114 km around the main island — passes waterfalls, blowhole, lava tubes, and archaeological sites.

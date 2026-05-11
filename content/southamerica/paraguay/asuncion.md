@@ -6,6 +6,7 @@ longitude: -57.6344
 done:
   location_cleanup: 2026-04-07
 score: 0.44
+loc_type: city
 ---
 
 Asuncion is the capital of [Paraguay](/southamerica/paraguay) and the country's only real city, spread along the east bank of the Paraguay River. It is not a conventionally beautiful capital — decades of unfinished development projects have left an uneven skyline — but it has a scruffy charm, colonial remnants, and a pace of life that is distinctly its own.

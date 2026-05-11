@@ -6,6 +6,7 @@ longitude: 168.065564
 title: Ambrym
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Ambrym is one of the most volcanically active islands in Vanuatu, dominated by a vast caldera containing two live volcanoes, Marum and Benbow. These are among the most accessible active lava lakes in the world, making Ambrym a genuine destination for volcano enthusiasts willing to put in the effort.

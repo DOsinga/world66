@@ -7,6 +7,7 @@ longitude: -79.7967
 score: 0.39
 title: Burlington
 type: location
+loc_type: city
 ---
 
 Burlington is a city of about 180,000 on the western shore of Lake Ontario, between Hamilton to the west and Oakville to the east, roughly 50 km from Toronto. It has a pleasant waterfront and a quieter character than its larger neighbours, with good parks along the lake and a strong community arts scene.

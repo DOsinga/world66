@@ -8,6 +8,7 @@ longitude: -99.894018
 score: 0.42
 title: Acapulco
 type: location
+loc_type: city
 ---
 
 Going Loco, in Acapulco that's what visitors of the beach resort come to do. And if you're into that kind of thing, it's a perfect place to do it. There are great beaches, the water is always warm, and the sun always shines. When the sun doesn't shine there is nightlife until the sun comes back up again. 

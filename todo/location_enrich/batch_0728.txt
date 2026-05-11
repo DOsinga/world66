@@ -1,0 +1,5 @@
+africa/tunisia/utique
+northamerica/unitedstates/maine/bar_harbor
+asia/jordan/petra
+europe/greece/paxi
+europe/hungary/komarom

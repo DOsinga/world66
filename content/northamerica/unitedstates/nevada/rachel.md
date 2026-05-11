@@ -6,6 +6,7 @@ longitude: -115.7465
 title: Rachel
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Rachel is a tiny settlement of about 50 people on Nevada's State Route 375, officially designated the Extraterrestrial Highway. The town exists almost entirely because of its proximity to Area 51, the classified US Air Force installation whose secrecy has fuelled decades of UFO speculation. The Little A'Le'Inn, a bar and motel decorated with alien memorabilia, is the only real business in town and the main reason most visitors stop.

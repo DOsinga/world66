@@ -6,6 +6,7 @@ longitude: 100.461
 title: Bukit Mertajam
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Bukit Mertajam is a town on the mainland side of Penang state, across the channel from George Town. It is rarely on tourist itineraries, but it has a genuine, unhurried character that makes it worth a stop if you are passing through. The town grew around the tin and rubber trades and has a compact old centre with Chinese shophouses, Indian temples, and a lively morning market.

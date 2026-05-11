@@ -6,6 +6,7 @@ longitude: -7.7706
 title: Chantada
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Chantada is a small agricultural town in the heart of Galicia's wine country, sitting above the Miño river valley where it broadens into the Embalse de Belesar — the largest reservoir in Galicia. The landscape here is dramatic: terraced vineyards cling to steep riverbanks, ancient hamlets perch over the water, and the Serra do Faro rises behind it all.

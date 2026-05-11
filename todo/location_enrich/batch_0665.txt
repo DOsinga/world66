@@ -1,0 +1,5 @@
+europe/germany/lowersaxony/east_frisian_islands/borkum
+northamerica/unitedstates/arizona/yuma
+europe/france/midi/dordogne/domme
+northamerica/canada/alberta/lethbridge
+africa/congokinshasa/mbandaka

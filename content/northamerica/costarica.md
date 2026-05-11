@@ -16,6 +16,7 @@ quick_facts:
 score: 0.64
 title: Costa Rica
 type: location
+loc_type: country
 ---
 
 Costa Rica punches well above its weight. This small Central American country — roughly the size of West Virginia — holds around 5% of the world's biodiversity, has two coastlines, a spine of volcanic mountains, and no army. It abolished its military in 1948 and put the money into education and healthcare instead. That unusual history has shaped a confident, stable society that welcomes visitors without much fuss.

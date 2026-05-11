@@ -6,6 +6,7 @@ longitude: 5.717339
 title: Bastogne
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Bastogne is best known for its role in the Battle of the Bulge, the last major German offensive of World War II. In December 1944, American forces were encircled here and held out against overwhelming odds. The Mardasson Memorial and the Bastogne War Museum tell that story well.

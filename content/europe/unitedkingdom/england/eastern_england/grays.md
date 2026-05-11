@@ -6,6 +6,7 @@ longitude: 0.323313
 title: Grays
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Grays is a Thames-side town in the borough of Thurrock, Essex, sitting on the north bank of the river about 30 kilometres east of central London. It is a working town rather than a tourist destination, but it has a few things worth stopping for if you are passing through or exploring the Thames estuary.

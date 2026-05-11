@@ -6,6 +6,7 @@ type: location
 latitude: 30.6333
 longitude: 70.3667
 score: 0.18
+loc_type: city
 ---
 
 Tibbi Qaisrani, also known as Miana, is a small town in the Taunsa Sharif tehsil of [Dera Ghazi Khan](/asia/pakistan/dera_ghazi_khan) district, in the southern Punjab province of Pakistan. The town sits on the edge of the Sulaiman Range foothills, where the irrigated agricultural land of the Indus plain gives way to the drier, more rugged terrain of Balochistan.

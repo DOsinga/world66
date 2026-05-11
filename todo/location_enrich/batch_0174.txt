@@ -1,0 +1,5 @@
+africa/mali/djenne
+africa/congokinshasa/goma
+europe/italy/tuscany/florenceprovince/chiantiregion/impruneta
+southamerica/venezuela/valencia
+asia/japan/honshu/kyoto

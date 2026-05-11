@@ -10,6 +10,7 @@ latitude: 41.9029
 longitude: 12.4534
 title: Vatican City
 type: location
+loc_type: city
 ---
 
 Vatican City is the world's smallest sovereign state — 44 hectares enclosed by medieval walls on the west bank of the Tiber in [Rome](/europe/italy/rome). It is the spiritual and administrative centre of the Roman Catholic Church, the residence of the Pope, and home to some of the most important art and architecture on earth.

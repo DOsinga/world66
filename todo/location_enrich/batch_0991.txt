@@ -1,0 +1,5 @@
+europe/romania/galati
+northamerica/bahamas/bimini
+asia/myanmar/pyay
+asia/turkey/gallipoli_troy/pamukkale
+europe/liechtenstein/vaduz

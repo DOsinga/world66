@@ -8,6 +8,7 @@ longitude: 40.600242
 score: 0.48
 title: Ibo Island
 type: location
+loc_type: city
 ---
 
 Ibo is one of the original Swahili trading settlements of the East African coast, now a quiet, crumbling jewel in the Quirimbas Archipelago. The island has barely 3,000 inhabitants, a handful of beautifully restored colonial mansions repurposed as lodges, and the ruins of three Portuguese forts including the large Fort São João, built in 1791.

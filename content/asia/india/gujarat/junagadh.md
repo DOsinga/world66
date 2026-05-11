@@ -4,6 +4,7 @@ type: location
 latitude: 21.522462
 longitude: 70.460207
 score: 0.48
+loc_type: city
 ---
 
 Junagadh sits at the foot of Mount Girnar, a sacred hill topped with Jain and Hindu temples that you reach by climbing over 10,000 stone steps. The climb is demanding but rewarding -- start before dawn and you will share the trail with pilgrims and the occasional langur monkey, reaching the top as the sun rises over the Saurashtra plain.

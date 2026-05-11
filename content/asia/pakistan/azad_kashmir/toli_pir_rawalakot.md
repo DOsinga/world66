@@ -6,6 +6,7 @@ longitude: 73.828321
 title: Toli Pir
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Toli Pir is a hill station about 30 kilometres from Rawalakot in Azad Kashmir, reached by a winding mountain road that takes around 45 minutes. At roughly 3,000 metres, the summit sits above the treeline and offers sweeping views across the Kashmir valleys — on a clear day you can see range after range fading into the distance toward the Line of Control and Indian-administered Kashmir beyond.

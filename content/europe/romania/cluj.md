@@ -7,6 +7,7 @@ longitude: 23.6236
 score: 0.58
 title: Cluj-Napoca
 type: location
+loc_type: city
 ---
 
 Cluj-Napoca is the unofficial capital of Transylvania and Romania's liveliest university city. With around 70,000 students in a city of 400,000, the energy is palpable — the cafes stay full, the cultural calendar never stops, and the old center hums well past midnight.

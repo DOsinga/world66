@@ -13,6 +13,7 @@ quick_facts:
   Alpine Coverage: "62% of the country"
   Coffee Houses: "Viennese café culture is UNESCO Intangible Heritage"
 score: 0.67
+loc_type: country
 ---
 
 Located in central Europe, Austria is a landlocked country bordered by the Czech Republic, Slovakia, Germany, Hungary, Slovenia, Italy and Switzerland. The country was a centre of power in Europe at the time when it was ruled by the mighty Habsburgs. Although today it is relegated to being a minor player in the European Union, Austria offers some of the most impressive destinations on the Continent.

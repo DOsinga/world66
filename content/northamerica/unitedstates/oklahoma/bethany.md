@@ -6,6 +6,7 @@ longitude: -97.632
 title: Bethany
 type: location
 score: 0.27
+loc_type: city
 ---
 
 Bethany is a small city of about 20,000 people on the western edge of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity), straddling a stretch of Historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m). Founded in 1909 as a community centered on the Church of the Nazarene, the town still has a conservative, close-knit character and is home to Southern Nazarene University.

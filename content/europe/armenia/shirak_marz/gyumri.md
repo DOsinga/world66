@@ -8,6 +8,7 @@ longitude: 43.8416
 score: 0.49
 title: Gyumri
 type: location
+loc_type: city
 ---
 
 Armenia's second city sits on a high plateau in the northwest of the country, close to the Turkish border. Gyumri has a character quite distinct from Yerevan — darker, grittier, and deeply proud. The city was devastated by the 1988 earthquake that killed tens of thousands of people, and the scars are still visible in some neighbourhoods. But Gyumri has rebuilt itself with stubborn determination, and what you find today is a city with genuine warmth, sharp humour, and a cultural life that punches well above its weight.

@@ -6,6 +6,7 @@ longitude: 8.634513
 title: Schaffhausen
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Schaffhausen is a small city in northeastern [Switzerland](/europe/switzerland), sitting on a bend of the Rhine just a few kilometres from the German border. It joined the Swiss Confederation in 1501 and has a beautifully preserved medieval old town — the Altstadt is full of oriel windows, painted facades, and the imposing Munot fortress, a circular 16th-century fortification that overlooks the river from its hilltop.

@@ -1,0 +1,5 @@
+europe/germany/saxony/leipzig
+asia/india/manipur/ukhrul
+europe/spain/galicia/ribeira_sacra
+europe/italy/puglia/lecce
+northamerica/unitedstates/california/big_bear_lake

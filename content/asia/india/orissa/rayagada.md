@@ -6,6 +6,7 @@ longitude: 83.5873
 title: Rayagada
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Rayagada is a small district town in southern [Odisha](/asia/india/orissa), set in the foothills of the Eastern Ghats. The town itself is unremarkable — a typical Indian district headquarters with government offices, a bus stand, and a railway station — but it serves as the best base for visiting the weekly tribal markets in the surrounding hills, which are among the most fascinating cultural experiences in eastern India.

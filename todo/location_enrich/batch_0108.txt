@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/santa_barbara
+northamerica/unitedstates/colorado/central_city
+northamerica/unitedstates/wisconsin/kewaskum
+asia/bangladesh/sylhet
+europe/norway/geilo

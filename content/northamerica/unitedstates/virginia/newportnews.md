@@ -4,6 +4,7 @@ longitude: -76.42977
 score: 0.4
 title: Newport News
 type: location
+loc_type: city
 ---
 
 Newport News stretches along the northern shore of the James River on the Virginia Peninsula and has been defined by shipbuilding for over a century. Newport News Shipbuilding, now part of Huntington Ingalls Industries, is the only yard in the United States that builds nuclear-powered aircraft carriers, and the military presence shapes the city's economy and culture. It is not a tourist town by nature, but it has a couple of attractions that are genuinely worth your time.

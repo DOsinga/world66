@@ -15,6 +15,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-29
 score: 0.9
+loc_type: country
 ---
 
 The Maldives is like nowhere else on earth — 1,190 coral islands scattered across 90,000 square kilometres of the Indian Ocean, so flat that even a modest sea-level rise could claim much of the country within decades. The highest point in the entire nation barely clears two metres above sea level. That fragility is part of what gives the place its particular intensity: this beauty feels borrowed.

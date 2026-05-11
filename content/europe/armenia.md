@@ -17,6 +17,7 @@ quick_facts:
 score: 0.41
 title: Armenia
 type: location
+loc_type: country
 ---
 
 Armenia is one of the oldest Christian nations on earth, a small landlocked country in the South Caucasus wedged between Turkey, Georgia, Azerbaijan, and Iran. It is compact — you can cross the whole country in a few hours — but remarkably dense with ancient monasteries, Roman-era temples, medieval fortresses, volcanic mountains, and one of the largest alpine lakes in the world.

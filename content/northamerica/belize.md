@@ -16,6 +16,7 @@ quick_facts:
 score: 0.63
 title: Belize
 type: location
+loc_type: country
 ---
 
 Belize is a small country on the Caribbean coast of Central America, tucked between [Mexico](/northamerica/mexico) to the north and [Guatemala](/northamerica/guatemala) to the west. It punches well above its weight for travelers: the second-longest barrier reef in the world, three offshore atolls, hundreds of cayes, and a jungle interior scattered with Maya ruins. In a single day you can snorkel among sharks and rays in the morning and walk through a rainforest in the afternoon.

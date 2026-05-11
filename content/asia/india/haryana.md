@@ -6,6 +6,7 @@ longitude: 76.0
 score: 0.32
 title: Haryana
 type: location
+loc_type: region
 ---
 
 Haryana, better known as the Green Land of India, can be divided into two natural areas: the sub-Himalayan Terai and the Indo-Gangetic plain. The plain is fertile and has slopes from the north to the south with a height above the sea level, averaging between 700 and 900 ft. The South-west of Haryana is dry, sandy and barren. For most of the year, the climate of Haryana is of a pronounced character -very hot in summer and markedly cold in winter. 

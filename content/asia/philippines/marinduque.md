@@ -6,6 +6,7 @@ longitude: 121.95
 score: 0.53
 title: Marinduque
 type: location
+loc_type: city
 ---
 
 Marinduque is a heart-shaped island in the middle of the Philippine archipelago, small enough to motorcycle around in a day and quiet enough that you might have a beach to yourself on a weekday. It sits between Luzon and Mindoro, reached by ferry from Lucena, and draws only a fraction of the visitors that nearby destinations attract.

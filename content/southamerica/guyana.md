@@ -16,6 +16,7 @@ quick_facts:
   Language: "Only English-speaking country in South America"
   Kaieteur Falls: "5× higher than Niagara"
 score: 0.39
+loc_type: country
 ---
 
 Guyana, or British Guyana, was the first of the three Guyana's to be independent. Before may 1966 it was the only British colony on the South American mainland. 

@@ -10,6 +10,7 @@ longitude: 13.850027
 score: 0.55
 title: Villach
 type: location
+loc_type: city
 ---
 
 Villach is Austria's seventh-largest city and the relaxed southern counterpart to [Klagenfurt](/europe/austria/klagenfurt). Sitting where the Drau river meets the Gail valley, it has been a crossroads since Roman times — Italy and Slovenia are both less than an hour away, and you can feel the Mediterranean influence in the architecture, the food, and the pace of life.

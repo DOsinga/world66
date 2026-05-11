@@ -5,6 +5,7 @@ latitude: -31.9479
 longitude: 115.8575
 title: Northbridge
 type: location
+loc_type: city
 ---
 
 Northbridge is the inner-city entertainment and dining hub of Perth, immediately north of the city centre across the railway lines. It is where Perth goes at night — the neighbourhood holds the highest concentration of restaurants, bars, clubs, and live music venues in the city. The main drag is William Street and the streets radiating off it, lined with everything from Vietnamese and Italian restaurants to craft beer bars and late-night clubs.

@@ -7,6 +7,7 @@ longitude: -5.366074
 score: 0.59
 title: Grazalema
 type: location
+loc_type: city
 ---
 
 Grazalema is one of the most picturesque white towns of Andalucía, perched at 825m in the Sierra de Grazalema Natural Park about 120km east of Cádiz. The village is a maze of narrow whitewashed streets, baroque churches, and flower-filled balconies. It also receives more rain than anywhere else in Spain, which explains why the surrounding mountains are so dramatically lush.

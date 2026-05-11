@@ -6,6 +6,7 @@ longitude: -78.464
 title: Cayo Coco
 type: location
 score: 0.62
+loc_type: region
 ---
 
 Cayo Coco is a large island off the north coast of [Cuba](/northamerica/thecaribbean/cuba), connected to the mainland by a 27-kilometre causeway (pedraplén) across the shallow waters of the Bay of Dogs. Together with neighbouring Cayo Guillermo, it forms one of Cuba's main beach resort areas — long stretches of white sand, warm turquoise water, and all-inclusive hotels set among mangroves and scrubby vegetation.

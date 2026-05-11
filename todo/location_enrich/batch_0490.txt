@@ -1,0 +1,5 @@
+europe/lithuania/rumsiskes
+europe/italy/liguria/dianomarina
+europe/netherlands/denbosch
+europe/bosniaandherzegovina/tuzla
+europe/france/midi/basqueregion/hendaye

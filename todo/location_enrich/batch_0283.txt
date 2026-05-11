@@ -1,0 +1,5 @@
+northamerica/netherlandsantilles/curacao/willemstad
+northamerica/unitedstates/tennessee/clarksville
+europe/italy/sicily/noto
+northamerica/thecaribbean/puertorico/rincon
+asia/india/jammuandkashmir/pahalgam

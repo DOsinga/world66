@@ -6,6 +6,7 @@ longitude: -63.7443
 done:
   location_cleanup: 2026-04-02
 score: 0.58
+loc_type: region
 ---
 
 Nova Scotia juts into the Atlantic like a lobster claw, connected to the rest of Canada by a narrow strip of land at its New Brunswick border. The sea defines everything here: the economy, the culture, the weather, and the reason to visit.

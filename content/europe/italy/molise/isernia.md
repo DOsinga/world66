@@ -6,6 +6,7 @@ longitude: 14.208062
 title: Isernia
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Isernia is one of two provincial capitals in Molise, Italy's least-visited region. The town sits on a narrow ridge at 420 metres, separating the Carpino and Sordo rivers, with mountain views in every direction.

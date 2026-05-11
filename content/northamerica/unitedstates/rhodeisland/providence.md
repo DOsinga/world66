@@ -6,6 +6,7 @@ longitude: -71.412834
 title: Providence
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Providence punches well above its weight for a city of 180,000. It's home to Brown University and the Rhode Island School of Design (RISD), which together give the city a creative, restless energy — you'll find galleries, experimental restaurants, and design studios crammed into the same Federal Hill blocks as century-old Italian bakeries and red-sauce joints.

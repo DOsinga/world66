@@ -6,6 +6,7 @@ longitude: 10.559769
 score: 0.46
 title: Ansbach
 type: location
+loc_type: city
 ---
 
 Ansbach is a quiet Franconian town best known for its baroque Residenz, the former palace of the Margraves of Brandenburg-Ansbach. The palace's 27 state rooms are lavishly decorated and the Orangery gardens behind it are one of the finest baroque garden ensembles in Bavaria.

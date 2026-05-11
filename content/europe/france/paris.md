@@ -11,6 +11,7 @@ longitude: 2.3522
 score: 1.0
 title: Paris
 type: location
+loc_type: city
 ---
 
 Paris is the most visited city on earth, and familiarity with its image makes it easy to underestimate. You arrive knowing the Eiffel Tower, Notre-Dame, and the Louvre from a thousand photographs, but the city constantly surprises. The quartiers you didn't plan to visit, the food market you stumbled into, the view down a Haussmann boulevard at dusk — these are what stay with you.

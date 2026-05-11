@@ -6,6 +6,7 @@ longitude: 97.615077
 title: Gunungsitoli
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Gunungsitoli is the capital of Nias Island, sitting on the northeast coast where ferries arrive from Sibolga on the Sumatran mainland. The town was badly damaged by the March 2005 earthquake and tsunami, but has been rebuilt with wider roads and sturdier buildings. It is not a destination in itself, but virtually every visitor to Nias passes through here.

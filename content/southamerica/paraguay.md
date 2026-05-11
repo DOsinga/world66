@@ -15,6 +15,7 @@ quick_facts:
   Bilingual Nation: Spanish and Guaraní both official
   Largest Hydroelectric Dam: Itaipú supplies 86% of electricity
 score: 0.42
+loc_type: country
 ---
 
 Paraguay is an introvert country that borders on Bolivia, Brazil and Argentina. During a large part of this century it was one of the most notorious and durable police states, but it now is gradually getting used to being a republic. 

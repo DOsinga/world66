@@ -6,6 +6,7 @@ longitude: -72.095
 title: Lakes District
 type: location
 score: 0.63
+loc_type: region
 ---
 
 The Chilean Lakes District stretches roughly 400 kilometres from Temuco in the north to Puerto Montt in the south — a region of snowcapped volcanoes, deep glacial lakes, dense temperate rainforest, and rivers that draw kayakers and rafters from around the world. This is some of the most spectacular scenery on the continent, and it remains refreshingly unhurried.

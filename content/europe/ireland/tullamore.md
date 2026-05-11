@@ -6,6 +6,7 @@ longitude: -7.4927
 title: Tullamore
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Tullamore is the county town of Offaly, sitting in the heart of the Irish Midlands along the Grand Canal. It is best known as the home of Tullamore D.E.W. whiskey, and the modern distillery and visitor center on the edge of town is the main draw for most visitors. The old bonded warehouse in the town center, where the whiskey was originally made, now houses a heritage exhibition worth a look.

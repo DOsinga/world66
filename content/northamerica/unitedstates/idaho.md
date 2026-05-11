@@ -6,6 +6,7 @@ longitude: -114.015407
 score: 0.46
 title: Idaho
 type: location
+loc_type: region
 ---
 
 Idaho is mountains, rivers and very few people. The state runs from the Canadian border down the eastern edge of Oregon, with the Snake River cutting across the south and the jagged Sawtooth Range rising in the middle. It's one of the emptiest states in the Lower 48 — good for anyone who likes wilderness without fighting for parking.

@@ -1,0 +1,5 @@
+northamerica/canada/britishcolumbia/vanderhoof
+northamerica/unitedstates/newmexico/nageezi
+southamerica/venezuela/caracas
+europe/estonia/ksmu
+africa/niger/ingal

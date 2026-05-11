@@ -8,6 +8,7 @@ longitude: -1.9169
 score: 0.38
 title: Butre
 type: location
+loc_type: city
 ---
 
 Butre is a small fishing village on Ghana's Western Region coast, tucked between forest hills and the Atlantic. It's quiet, genuinely off the beaten track, and rewards travelers who make the detour from the Cape Three Points road.

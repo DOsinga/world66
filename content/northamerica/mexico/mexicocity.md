@@ -12,6 +12,7 @@ longitude: -99.1332
 score: 0.69
 title: Mexico City
 type: location
+loc_type: city
 ---
 
 Mexico City sprawls across the floor of a high mountain valley at 2,240 metres, the political and cultural capital of Mexico and one of the largest urban areas on the planet. Roughly 22 million people live in the metropolitan area, on the same ground where the Aztec capital of Tenochtitlan once rose out of a lake. The Spanish razed the Aztec city in 1521 and built their colonial capital directly on top of it, and you can still see both layers from the central square.

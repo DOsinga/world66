@@ -6,6 +6,7 @@ longitude: 99.304808
 title: Tarutao
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Tarutao National Marine Park is a group of 51 islands in the Andaman Sea, just a few kilometres from the Malaysian island of Langkawi. Unlike [Phuket](/asia/thailand/phuket) or [Koh Phi Phi](/asia/thailand/koh_phi_phi), Tarutao has been kept free of large-scale development — the only accommodation is national park bungalows and camping.

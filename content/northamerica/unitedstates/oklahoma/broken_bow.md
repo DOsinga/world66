@@ -6,6 +6,7 @@ longitude: -94.739
 title: Broken Bow
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Broken Bow sits in the Ouachita Mountains of far southeastern Oklahoma, surrounded by 450,000 acres of Ouachita National Forest and Beavers Bend State Park. It draws visitors from Dallas, Oklahoma City, Little Rock, and [Tulsa](/northamerica/unitedstates/oklahoma/tulsa) — all within about three hours — who come for the forests, the trout streams, and the quiet.

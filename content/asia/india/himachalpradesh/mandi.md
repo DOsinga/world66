@@ -6,6 +6,7 @@ longitude: 77.009254
 title: Mandi
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Mandi sits at around 800 metres on the banks of the river Beas, a historic trading town where the plains of Punjab once met the hill kingdoms. Often called the "Varanasi of the Hills," Mandi is said to have 81 old stone temples, many of them built in the Nagari style with intricate carvings depicting scenes from Hindu mythology. The most important is the Bhootnath Temple near the town centre, dedicated to Shiva.

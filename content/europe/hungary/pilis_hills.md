@@ -6,6 +6,7 @@ longitude: 18.897
 title: Pilis Hills
 type: location
 score: 0.47
+loc_type: feature
 ---
 
 The Pilis Hills are a compact forested range northwest of [Budapest](/europe/hungary/budapest), reachable in under an hour by car or bus. For anyone spending a few days in the capital, they are the easiest escape into genuine Hungarian countryside — limestone ridges, beech forests, and well-marked hiking trails with views down to the Danube Bend.

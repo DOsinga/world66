@@ -1,0 +1,5 @@
+europe/romania/oradea
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/richmond_yorks
+southamerica/argentina/iguazufalls
+asia/india/andhrapradesh/mangalagiri
+northamerica/unitedstates/colorado/aurora

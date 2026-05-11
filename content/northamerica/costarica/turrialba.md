@@ -8,6 +8,7 @@ longitude: -83.6817
 score: 0.56
 title: Turrialba
 type: location
+loc_type: city
 ---
 
 Turrialba is a town in the Central Valley about 60 km east of San José. It sits in a productive agricultural valley and is the main gateway for rafting the Río Pacuare, one of the best whitewater rivers in Central America (Class III–IV rapids through a jungle gorge).

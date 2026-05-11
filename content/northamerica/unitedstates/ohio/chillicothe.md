@@ -6,6 +6,7 @@ longitude: -82.982402
 title: Chillicothe
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Chillicoth is located south of [Columbus](/northamerica/unitedstates/ohio/columbus). The main reason to come here is that this is the location of the Hopewell Culture National park.

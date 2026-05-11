@@ -6,6 +6,7 @@ longitude: -72.3074
 done:
   location_cleanup: 2026-04-05
 score: 0.23
+loc_type: city
 ---
 
 Port-au-Prince is Haiti's capital and by far its largest city, with well over two million people in the metropolitan area. Despite its size, much of it feels like an overgrown market town — low-slung buildings climbing steep hillsides, tap-taps threading through traffic, street vendors on every corner.

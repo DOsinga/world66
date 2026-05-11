@@ -6,6 +6,7 @@ longitude: 144.66113
 title: Umatac
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Umatac is a historic village on the southwestern coast of Guam, set in a sheltered bay below steep green hills. It is the site where Ferdinand Magellan landed in March 1521, the first European contact with Guam, and the village celebrates this with a re-enactment festival each year in early March.

@@ -6,6 +6,7 @@ longitude: 73.053721
 title: Rawalpindi
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Pindi, as Rawalpindi is referred to by most travelers, is quite different from its twin sister Islamabad. Where Islamabad is modern and clean, Pindi is old and pretty dirty, but also a lot of fun.

@@ -7,6 +7,7 @@ longitude: -122.023
 score: 0.44
 title: Saratoga
 type: location
+loc_type: city
 ---
 
 Saratoga sits at the base of the Santa Cruz Mountains in the southern Bay Area, a quiet, affluent town that feels a world away from the tech campuses of nearby Cupertino and San Jose. The village centre along Big Basin Way has a relaxed, almost small-town character — good restaurants, wine bars, and boutiques tucked between the redwoods — while the surrounding hillsides conceal some genuinely surprising cultural treasures.

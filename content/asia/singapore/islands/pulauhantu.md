@@ -6,6 +6,7 @@ longitude: 103.752466
 title: Pulau Hantu
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Pulau Hantu is a small pair of islands linked by a narrow seawall, lying about 6 km south of mainland [Singapore](/asia/singapore). The name means "Ghost Island" in Malay, a reference to an old legend about two warriors who fought to the death here and were transformed into the two islands by the sea god. Despite the eerie name, it is one of the most peaceful spots in Singapore's waters.

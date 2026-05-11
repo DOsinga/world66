@@ -6,6 +6,7 @@ longitude: 177.448277
 title: Lautoka
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Lautoka is Fiji's second city, sitting on the western coast of [Viti Levu](/australiaandpacific/fiji/vitilevu) in the shadow of the Koroyanitu mountain range. Known as the Sugar City, it grew up around the sugar mill that still dominates the waterfront — during crushing season the sweet smell of processed cane hangs over the town.

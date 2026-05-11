@@ -8,6 +8,7 @@ longitude: 6.236489
 title: Deventer
 type: location
 score: 0.52
+loc_type: city
 ---
 
 Deventer is one of the oldest cities in the Netherlands, sitting on the banks of the IJssel river in the province of Overijssel. It has a beautifully preserved medieval centre, a strong literary tradition, and one of the best-known food specialities in the country: the Deventer Koek, a spiced honey cake that has been baked here since the fifteenth century. You can buy it at Bussink on the Brink, which has been selling it since 1593.

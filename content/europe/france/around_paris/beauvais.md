@@ -6,6 +6,7 @@ longitude: 2.082336
 score: 0.46
 title: Beauvais
 type: location
+loc_type: city
 ---
 
 Most people arrive in Beauvais by accident — or rather, by budget airline. The Beauvais-Tillé airport serves as an overflow for [Paris](/europe/france/paris), and the bus to the capital takes about 75 minutes. But the town itself has one genuinely extraordinary thing: the Cathédrale Saint-Pierre, which holds the highest Gothic choir ever built. The nave was never finished — the money ran out, and the transept collapsed in 1284 — but what stands is staggering in scale.

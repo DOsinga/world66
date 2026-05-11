@@ -8,6 +8,7 @@ longitude: 98.9657
 score: 0.62
 title: Chiang Dao
 type: location
+loc_type: city
 ---
 
 Chiang Dao sits about 70 kilometres north of Chiang Mai, in a broad valley beneath Doi Luang Chiang Dao — Thailand's third-highest peak and a UNESCO World Biosphere Reserve. The name means "city of stars," and on clear nights in the dry season you'll understand why: the darkness is real and the sky is full.

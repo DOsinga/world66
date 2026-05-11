@@ -10,6 +10,7 @@ image: plitvice.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Plitvice_Lakes1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Tesla Delacroix
+loc_type: city
 ---
 
 Plitvice Lakes National Park is Croatia's most visited natural attraction — a UNESCO World Heritage Site and one of the most spectacular lake systems in Europe. Sixteen terraced lakes descend through a limestone gorge, connected by waterfalls and rapids, their colours shifting from emerald green to deep turquoise depending on the season and the angle of light. The effect is produced by the karst geology: calcium carbonate precipitates out as travertine, forming natural dams that hold the lakes in tiers, and the mineral-rich water takes on colours that don't look real.

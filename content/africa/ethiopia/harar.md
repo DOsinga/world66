@@ -6,6 +6,7 @@ longitude: 42.128445
 title: Harar
 type: location
 score: 0.56
+loc_type: city
 ---
 
 The old walled city of Harar used to be strictly off limits for non-Muslims. It was one of the most holy cities in the country and remains the fourth holiest city in Islam.

@@ -6,6 +6,7 @@ longitude: -95.513122
 title: Hugo
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Known as "Circus City, USA," Hugo is a small town in Choctaw County near the Texas border where several circus families have wintered for generations. The town's unique circus heritage is visible in the Circus Ring of Fame and the showmen's section of Mount Olivet Cemetery, where elaborate headstones feature carved elephants and big-top motifs.

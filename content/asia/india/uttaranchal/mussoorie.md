@@ -6,6 +6,7 @@ longitude: 78.0783
 title: Mussoorie
 type: location
 score: 0.58
+loc_type: city
 ---
 
 **Mussoorie** is a hill station in the foothills of the Himalayas in Uttarakhand, perched along a ridge at about 2,000 metres with views north to the snow peaks and south across the Doon Valley. It has been a retreat from the plains heat since the British established it in the 1820s, and it remains hugely popular with Indian holidaymakers.

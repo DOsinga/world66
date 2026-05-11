@@ -1,0 +1,5 @@
+europe/unitedkingdom/scotland/fochabers
+asia/jordan/ajlun
+asia/india/andhrapradesh/ramadugu
+asia/philippines/marikina
+northamerica/unitedstates/nebraska/northplatte

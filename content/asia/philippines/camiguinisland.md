@@ -12,6 +12,7 @@ longitude: 124.72
 score: 0.63
 title: Camiguin Island
 type: location
+loc_type: city
 ---
 
 Camiguin is a small volcanic island off the northern coast of Mindanao, covering barely 240 square kilometres, with more volcanoes per square kilometre than almost any other island on earth — seven in total, four of them active. It sits in the Bohol Sea, reached by a short ferry from the Mindanao mainland, and has remained quiet enough to feel genuinely off the beaten track even as it accumulated a reputation among divers and travellers looking for something beyond the Philippines' more famous beach destinations.

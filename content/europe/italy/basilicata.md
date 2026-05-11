@@ -6,6 +6,7 @@ longitude: 15.805
 title: Basilicata
 type: location
 score: 0.52
+loc_type: region
 ---
 
 Basilicata sits between Puglia and Calabria in the instep of Italy's boot, largely bypassed by mass tourism and all the better for it. The region divides neatly into two provinces — Potenza in the west, Matera in the east — and packs in a surprising range of landscapes: sandy Ionian coast, a short but dramatic stretch of Tyrrhenian shoreline around Maratea, deep river gorges, and the pale limestone heights of the Lucanian Dolomites.

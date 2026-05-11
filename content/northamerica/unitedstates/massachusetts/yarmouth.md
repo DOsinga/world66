@@ -6,6 +6,7 @@ longitude: -70.2286
 title: Yarmouth
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Yarmouth is actually three villages folded into one Cape Cod town: Yarmouthport on the bay side, and West Yarmouth and South Yarmouth along the south shore. They have almost nothing in common in feel, which is part of what makes the place interesting.

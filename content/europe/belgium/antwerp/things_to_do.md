@@ -1,6 +1,7 @@
 ---
 title: "Things to do"
 type: location
+loc_type: feature
 ---
 
 As in most historic cities, just walking around en enjoying the views of the streets is a very rewarding activity.

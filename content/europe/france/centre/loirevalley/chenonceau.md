@@ -6,6 +6,7 @@ longitude: 1.0705
 title: Chenonceau
 type: location
 score: 0.73
+loc_type: city
 ---
 
 The Château de Chenonceau is one of the most beautiful and most visited castles in the Loire Valley. Built in the early 16th century by Thomas Bohier, finance minister to François I, it spans the River Cher on a series of graceful arches — the gallery bridge is its most iconic feature and one of the defining images of the French Renaissance.

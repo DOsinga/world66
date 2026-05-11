@@ -6,6 +6,7 @@ longitude: 17.012066
 done:
   location_cleanup: 2026-04-10
 score: 0.42
+loc_type: city
 ---
 
 Nyköping is one of Sweden's oldest towns, founded in the 12th century on the estuary of the Nyköpingsån river where it meets the Baltic. It was briefly a royal seat — Duke Erik and Duke Valdemar were starved to death in its castle during the notorious "Nyköping Banquet" of 1317 — and the ruined castle tower still stands in the town centre as a reminder of that grim episode.

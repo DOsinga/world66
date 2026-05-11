@@ -6,6 +6,7 @@ longitude: -175.047
 title: Ha'amonga 'a Maui
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Ha'amonga 'a Maui — the "Burden of the God Maui" — is an ancient coral trilithon standing at Niutoua, 32 km east of Nuku'alofa. Two upright pillars support a central lintel weighing more than 8,900 kilos, forming a gateway thought to mark the entrance to an old royal compound. The structure now stands in an archaeological reserve.

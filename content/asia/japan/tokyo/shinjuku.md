@@ -11,7 +11,10 @@ latitude: 35.6938
 longitude: 139.7036
 score: 0.75
 title: Shinjuku
-type: location
+type: neighbourhood
+tags:
+- neighbourhood
+- things_to_do
 ---
 
 Shinjuku is Tokyo at its most intense. The station alone handles over three million passengers a day, making it the busiest in the world, and the neighbourhood around it packs skyscrapers, department stores, neon-lit entertainment blocks, and quiet parks into a few square kilometres.

@@ -6,6 +6,7 @@ longitude: 24.278474
 title: Dzūkija National park
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Dzūkija is Lithuania's largest national park, covering dense pine and mixed forests in the southeast of the country, roughly centred between Druskininkai and Varėna. The landscape is flat and sandy, shaped by glacial outwash — long stretches of old-growth pine, wetlands, and clear rivers cutting through the forest. It feels genuinely remote in a way that few places in the Baltic states still manage.

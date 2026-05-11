@@ -6,6 +6,7 @@ longitude: 15.7349
 title: Jelenia Góra
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Jelenia Góra sits in the Jelenia Góra Valley in southwestern Poland, surrounded by the Karkonosze Mountains — the highest range in the Sudetes. The town serves as the main gateway to Karkonosze National Park and makes a comfortable base for hiking in summer and skiing in winter.

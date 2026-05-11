@@ -6,6 +6,7 @@ longitude: 29.1167
 title: Hisaronu
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Hisaronu is a small resort village in the hills above [Oludeniz](/asia/turkey/fethiye), about 8 kilometres from [Fethiye](/asia/turkey/fethiye) in southwestern Turkey. It sits in the pine-covered slopes of the Taurus Mountains, close enough to the famous blue lagoon at Oludeniz to use it as a base without being on the beach itself.

@@ -6,6 +6,7 @@ longitude: -3.097447
 title: Fochabers
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Fochabers is a neat village on the main road between Aberdeen and Inverness, standing beside the River Spey — one of Scotland's premier salmon rivers. The village was planned and laid out by the Duke of Gordon in the late 18th century when the original settlement was moved to make way for the expansion of Gordon Castle, which still stands on the edge of the village.

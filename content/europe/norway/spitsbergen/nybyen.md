@@ -6,6 +6,7 @@ longitude: 15.588229
 title: Nybyen
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Nybyen sits at the southern end of Longyear Valley, at the foot of the Longyear Glacier. Store Norske Spitsbergen Kulkompani built this tiny settlement after the Second World War to house its miners — eight solid timber houses, a bathhouse, a laundry, a shop, and a canteen known as Stormessa ("the big mess").

@@ -6,6 +6,7 @@ longitude: 176.9
 title: Hawke's Bay
 type: location
 score: 0.59
+loc_type: region
 ---
 
 **Hawke's Bay** is one of New Zealand's premier wine regions, a long curve of coastline on the east side of the North Island stretching from the Māhia Peninsula in the north to Cape Turnagain in the south. The climate is the driest and sunniest on the North Island — classically Mediterranean in feel — which is why the area has become the country's second-largest wine-producing region after Marlborough, and which explains the relaxed, orchard-and-vineyard pace of life that makes it one of the most rewarding parts of the island to wander for a few days.

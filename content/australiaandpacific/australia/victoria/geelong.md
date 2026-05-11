@@ -6,6 +6,7 @@ longitude: 144.3598
 title: Geelong
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Geelong is [Victoria](/australiaandpacific/australia/victoria)'s second-largest city, home to over 250,000 people, and sits on the western shore of Port Phillip Bay about an hour's drive from [Melbourne](/australiaandpacific/australia/victoria/melbourne). Long overshadowed by its neighbour, Geelong has reinvented itself in recent years around a revitalised waterfront that is genuinely worth visiting. The painted bollard sculptures by artist Jan Mitchell — over 100 of them, each depicting a local historical figure — line the promenade, and the swimming enclosures, carousel, and string of cafes make it a pleasant spot to spend an afternoon.

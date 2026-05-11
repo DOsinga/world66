@@ -6,6 +6,7 @@ longitude: 34.75
 score: 0.41
 title: Western Kenya
 type: location
+loc_type: region
 ---
 
 *Africa > Kenya > Western Kenya*

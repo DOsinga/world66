@@ -1,0 +1,5 @@
+northamerica/canada/britishcolumbia/vancouver/langley
+europe/italy/tuscany/florenceprovince/florentinearea/fiesole
+northamerica/mexico/torreon
+europe/france/midi/cotedazur/ezeborddemer
+asia/china/xinjiangprovince/urumqi

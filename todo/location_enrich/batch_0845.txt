@@ -1,0 +1,5 @@
+africa/gabon/lambarene
+africa/mauritania/chinguetti
+northamerica/unitedstates/montana/ennis
+europe/slovenia/lakebohinj
+europe/denmark/hillerod

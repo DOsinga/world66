@@ -4,6 +4,7 @@ type: location
 latitude: 44.447939
 longitude: 8.394149
 score: 0.35
+loc_type: city
 ---
 
 A village on the northern side of the Ligurian

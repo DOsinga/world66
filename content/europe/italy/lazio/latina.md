@@ -6,6 +6,7 @@ longitude: 13.012591
 title: Latina
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Latina is a planned city about 60 kilometres south of [Rome](/europe/italy/lazio/rome), built in 1932 during the draining of the Pontine Marshes. The rationalist architecture of the city centre — all clean lines and wide piazzas — gives it a distinctive look quite unlike the older towns around it.

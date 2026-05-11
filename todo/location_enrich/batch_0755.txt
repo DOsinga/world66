@@ -1,0 +1,5 @@
+europe/denmark/sakskobing
+northamerica/canada/britishcolumbia/terrace
+africa/ethiopia/debre_zeit
+asia/india/maharashtra/konkan/deogad
+asia/china/golmud

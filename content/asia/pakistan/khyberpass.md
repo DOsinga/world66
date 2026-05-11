@@ -6,6 +6,7 @@ longitude: 71.144142
 title: Khyber Pass
 type: location
 score: 0.41
+loc_type: feature
 ---
 
 The Khyber Pass is one of the most storied mountain crossings in the world — a narrow corridor through the Sulaiman Hills that has funnelled armies, traders, and conquerors between Central Asia and the Indian subcontinent for millennia. Alexander the Great came through here. So did Genghis Khan, Babur, and countless others whose ambitions hinged on controlling this gap.

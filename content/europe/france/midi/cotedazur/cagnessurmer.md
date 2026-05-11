@@ -5,6 +5,7 @@ latitude: 43.6612
 longitude: 7.1514
 title: Cagnes-sur-Mer
 type: location
+loc_type: city
 ---
 
 Cagnes-sur-Mer sits between Nice and Antibes on the Côte d'Azur, split between a medieval hilltop village and a modern beach resort below. The two parts barely resemble each other: the lower town, Cros-de-Cagnes, is a functional coastal resort, while Haut-de-Cagnes is a remarkably intact medieval hill village of narrow lanes, old houses, and sweeping views over the coast.

@@ -6,6 +6,7 @@ longitude: 60.597474
 title: Yekaterinburg
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Yekaterinburg is Russia's fourth-largest city and the capital of the Urals, straddling the geographic boundary between Europe and Asia. A major stop on the Trans-Siberian Railway, it is the place where the last tsar and his family were executed in 1918 — the Church on Blood, built on the site, is the city's most visited landmark.

@@ -6,6 +6,7 @@ longitude: -2.131353
 title: Cuenca
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Cuenca is one of the most dramatically situated cities in Spain, perched on a gorge where the Huécar and Júcar rivers meet in the Serranía de Cuenca. The old city is a UNESCO World Heritage site and one of the best-preserved medieval hilltop towns in Europe.

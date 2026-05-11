@@ -6,6 +6,7 @@ longitude: 22.6374
 title: Strumica
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Strumica sits in a broad valley in southeastern [Macedonia](/europe/macedonia), close to the borders with Bulgaria and Greece. The surrounding valley is one of the most fertile areas in the country — warm, Mediterranean-influenced climate produces early vegetables, tobacco, poppies, and the aniseed used to make Mastika, Macedonia's national spirit.

@@ -14,6 +14,7 @@ quick_facts:
   Highest Saharan Peak: "Emi Koussi, 3,445 m"
   Lake Chad: Shrunk 90% since 1960s
 score: 0.18
+loc_type: country
 ---
 
 Chad is one of the most difficult countries in Africa to visit and one of the most rewarding. It is a vast, landlocked nation stretching from the Sahara Desert in the north to tropical savanna in the south, and it contains landscapes found nowhere else on earth.

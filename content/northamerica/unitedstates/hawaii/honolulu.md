@@ -8,6 +8,7 @@ longitude: -157.855676
 score: 0.79
 title: Honolulu
 type: location
+loc_type: city
 ---
 
 Honolulu is the capital of Hawaii and the only major city in the state, spread along the southern shore of [Oahu](/northamerica/unitedstates/hawaii/oahu) between the Ko'olau mountains and the Pacific. For most visitors it will be the first place they arrive, and first impressions can be misleading — the high-rise sprawl along Waikiki looks like any resort strip, but the city has real depth and character once you get past the tourist corridor.

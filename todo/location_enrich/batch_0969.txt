@@ -1,0 +1,5 @@
+africa/kenya/luo_nyanza/siaya_town
+africa/chad/abeche
+australiaandpacific/newzealand/north_island/auckland_region/northshorecity
+australiaandpacific/tonga/tongatapu/haamonga
+europe/switzerland/interlaken

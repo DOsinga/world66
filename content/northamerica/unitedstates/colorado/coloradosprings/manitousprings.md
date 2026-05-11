@@ -6,6 +6,7 @@ longitude: -104.9179
 title: Manitou Springs
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Manitou Springs is a small, artsy town tucked into a narrow valley at the foot of [Pikes Peak](/northamerica/unitedstates/colorado/coloradosprings/pikespeak), just west of [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings). Originally a resort town built around its natural mineral springs — you can still taste the water at public fountains around town — it has reinvented itself as a bohemian counterpoint to the more conservative Springs next door.

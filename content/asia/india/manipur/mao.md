@@ -6,6 +6,7 @@ longitude: 93.87
 title: Mao
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Mao is a hill station perched at 1,757 metres on the highway between Dimapur and Imphal, roughly halfway through the journey across Manipur's rugged highlands. The town sits in the Senapati district, surrounded by terraced hillsides and thick subtropical forest, and serves as the heartland of the Mao Naga people.

@@ -6,6 +6,7 @@ longitude: -97.440871
 title: Del City
 type: location
 score: 0.26
+loc_type: city
 ---
 
 Del City is a working-class suburb of about 22,000 people on the southeast side of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity), bordered by Tinker Air Force Base to the east. The base, one of the largest Air Force installations in the country, has shaped the community since the 1940s, and many Del City residents have ties to the military.

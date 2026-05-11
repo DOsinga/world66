@@ -10,6 +10,7 @@ longitude: 23.317561
 score: 0.42
 title: Thiva
 type: location
+loc_type: city
 ---
 
 Thiva — ancient Thebes — was once among the most powerful cities in [Greece](/europe/greece). This is where Oedipus ruled, where Dionysus was born, where the Sacred Band defeated Sparta, and where Alexander the Great razed the city to the ground as a warning to the rest of Greece. Few places carry as much mythological and historical weight. The modern town, however, makes no great effort to live up to its past. Thiva today is a provincial agricultural centre on the Boeotian plain, unremarkable at first glance and passed through by most travellers heading elsewhere.

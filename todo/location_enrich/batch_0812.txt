@@ -1,0 +1,5 @@
+northamerica/canada/novascotia/guysborough
+europe/italy/liguria/italianriviera/rivieradellepalme/ceriale
+africa/nigeria/benincity
+asia/japan/tokyo
+europe/switzerland/andermatt

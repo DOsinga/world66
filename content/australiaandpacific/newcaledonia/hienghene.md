@@ -6,6 +6,7 @@ longitude: 164.944037
 title: Hienghène
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Hienghène is a small Kanak town on the northeast coast of Grande Terre, surrounded by some of the most dramatic scenery in [New Caledonia](/australiaandpacific/newcaledonia). The dark limestone formations rising from the turquoise water of the bay are unmistakable — the most famous, the Poule de Hienghène, really does look like a brooding hen when seen from the right angle.

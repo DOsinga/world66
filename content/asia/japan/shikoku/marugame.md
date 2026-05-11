@@ -6,6 +6,7 @@ longitude: 133.798242
 title: Marugame
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Marugame is a small city in Kagawa prefecture on Shikoku, the first city of note as you cross the Seto-Ohashi bridge from Honshu. It is primarily known for two things: its castle and its fans.

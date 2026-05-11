@@ -6,6 +6,7 @@ longitude: -0.5
 score: 0.58
 title: Spanish Costas
 type: location
+loc_type: region
 ---
 
 Spain's Mediterranean coastline stretches over two thousand kilometres from the French border to the Strait of Gibraltar, and each costa has its own character. The Costa Blanca around [Alicante](/europe/spain/spanishcostas/alicante) and [Benidorm](/europe/spain/spanishcostas/benidorm) draws visitors with reliably warm winters and long sandy beaches backed by palm-lined promenades. Inland, [Elche](/europe/spain/spanishcostas/elche) has the largest palm grove in Europe, a UNESCO World Heritage site, while [Valencia](/europe/spain/spanishcostas/valencia) combines futuristic architecture with one of Spain's liveliest food scenes -- paella was invented here.

@@ -6,6 +6,7 @@ longitude: 22.464589
 title: Radovis
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Radovis is a small city in eastern North Macedonia, tucked into a fertile valley at the foot of the Plachkovica mountain range. It is one of those places that most travellers never hear of, but it has an agreeable, unhurried character and makes a good base for exploring the surrounding mountains and countryside.

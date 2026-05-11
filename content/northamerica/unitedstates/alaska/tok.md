@@ -6,6 +6,7 @@ longitude: -142.985555
 score: 0.37
 title: Tok
 type: location
+loc_type: city
 ---
 
 Tok sits at the junction of the Alaska Highway and the Tok Cut-Off, making it the first Alaskan town most overland travellers reach when driving up from the Lower 48. It is not a destination in itself — it is a gas station, a meal, and a bed at the crossroads of two long, empty highways.

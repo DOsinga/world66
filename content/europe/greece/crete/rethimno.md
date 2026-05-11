@@ -6,6 +6,7 @@ longitude: 24.473608
 score: 0.69
 title: Rethimno
 type: location
+loc_type: city
 ---
 
 Rethimno is the third largest city on Crete, on the northern coast between Heraklion and Chania, and it has by some measure the best-preserved old town of the three. The Venetian harbour — complete with its 16th-century lighthouse — is genuinely beautiful, and the narrow streets of the old city behind it are a dense tangle of Venetian loggia, Ottoman mosques and minarets, and overhanging wooden balconies that together tell the layered story of Cretan history more eloquently than any museum.

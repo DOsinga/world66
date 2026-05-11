@@ -6,6 +6,7 @@ longitude: -106.9562
 score: 0.47
 title: Sheridan
 type: location
+loc_type: city
 ---
 
 Sheridan sits in the Powder River basin at the foot of the Bighorn Mountains in northern Wyoming, a ranching town that has kept more of its character than most places its size. The historic downtown along Main Street has well-preserved brick buildings, good restaurants, and the Mint Bar — a classic Western saloon with saddles for bar stools.

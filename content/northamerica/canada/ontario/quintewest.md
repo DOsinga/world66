@@ -6,6 +6,7 @@ longitude: -77.574855
 score: 0.34
 title: Quinte West
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

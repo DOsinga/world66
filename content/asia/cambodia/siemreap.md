@@ -7,6 +7,7 @@ longitude: 103.859032
 score: 0.75
 title: Siem Reap
 type: location
+loc_type: city
 ---
 
 Travel Guide

@@ -6,6 +6,7 @@ longitude: 14.991
 title: Görlitz
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Görlitz is Germany's easternmost city, sitting right on the Polish border — the Neisse River separates it from its Polish twin, Zgorzelec. What makes Görlitz extraordinary is that it survived the Second World War almost entirely intact. The result is a town with over 4,000 listed monuments spanning Gothic, Renaissance, Baroque, and Art Nouveau, all in remarkable condition.

@@ -6,6 +6,7 @@ longitude: 7.465279
 score: 0.43
 title: Dortmund
 type: location
+loc_type: city
 ---
 
 Dortmund is the largest city in the Ruhr and synonymous with two things: football and beer. Borussia Dortmund's Signal Iduna Park (the Westfalenstadion) holds over 80,000 fans and the "Yellow Wall" south stand is the largest standing terrace in European football. Even if you are not a football fan, the atmosphere on a match day is something.

@@ -1,0 +1,5 @@
+africa/somaliland/erigavo
+northamerica/unitedstates/oklahoma/washita
+northamerica/costarica/cahuita
+northamerica/unitedstates/massachusetts/sturbridge
+europe/croatia/miljet_island/soline

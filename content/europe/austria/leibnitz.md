@@ -6,6 +6,7 @@ longitude: 15.5407
 title: Leibnitz
 type: location
 score: 0.47
+loc_type: city
 ---
 
 You can see the wine hills around Seggau castle from far off, and that tells you everything: Leibnitz is the heart of the South Styrian wine country. The town has good outdoor cafes serving local and international dishes alongside the region's excellent wines, and hosts wine celebrations, music and cultural events throughout the year.

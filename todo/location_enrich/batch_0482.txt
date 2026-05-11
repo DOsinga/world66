@@ -1,0 +1,5 @@
+europe/russia/kursk
+northamerica/mexico/guaymas
+australiaandpacific/australia/queensland/sandgate
+asia/mongolia/darkhan
+northamerica/unitedstates/wisconsin/new_london

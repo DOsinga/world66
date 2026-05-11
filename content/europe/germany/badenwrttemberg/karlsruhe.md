@@ -7,6 +7,7 @@ longitude: 8.4037
 score: 0.5
 title: Karlsruhe
 type: location
+loc_type: city
 ---
 
 Karlsruhe is unlike any other German city in its layout: 32 streets radiate outward from the Schloss like spokes from a hub, a Baroque urban plan that gives the city its nickname, "the fan city." Founded in 1715 as a grand-ducal residential city, it was built from scratch as an expression of Enlightenment rationalism — the geometry still legible today on any map.

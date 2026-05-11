@@ -6,6 +6,7 @@ longitude: -108.3005
 title: North Battleford
 type: location
 score: 0.33
+loc_type: city
 ---
 
 North Battleford is a small city in west-central Saskatchewan, sitting on the north bank of the North Saskatchewan River across from its twin, the town of Battleford. Together they form a community of about 20,000, serving as the commercial hub for a large stretch of farming and ranching country.

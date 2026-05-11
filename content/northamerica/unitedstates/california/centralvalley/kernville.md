@@ -6,6 +6,7 @@ longitude: -118.434
 title: Kernville
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Kernville sits on the North Fork of the Kern River, just above Isabella Lake in the southern Sierra Nevada. The Sequoia National Forest rises to the north, and the whole area is laced with back roads that wind through granite peaks and pine forests.

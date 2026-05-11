@@ -8,6 +8,7 @@ longitude: 9.9937
 score: 0.67
 title: Hamburg
 type: location
+loc_type: city
 ---
 
 Hamburg is Germany's second city and its great port — a hard-edged northern metropolis built on shipping, trade, and a cheerful disregard for the buttoned-up south. The Elbe brings ocean-going ships a hundred kilometres inland to one of Europe's busiest harbours, and the city's character comes from that maritime traffic: red-brick warehouses, working cranes, ferries crossing the river, and a Hanseatic mercantile pride that has shaped Hamburg for eight centuries.

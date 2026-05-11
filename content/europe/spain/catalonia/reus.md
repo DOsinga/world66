@@ -4,6 +4,7 @@ type: location
 latitude: 41.155556
 longitude: 1.107613
 score: 0.49
+loc_type: city
 ---
 
 Reus is a prosperous town in southern [Catalonia](/europe/spain/catalonia), about 15 km inland from the beach resorts of the Costa Daurada. It is best known as the birthplace of Antoni Gaudi, and the town has made the most of this connection with a Gaudi Centre museum and a walking route past Modernista buildings designed by Gaudi's contemporaries. The concentration of Art Nouveau architecture in the old centre is genuinely impressive — not Barcelona, but far more than you would expect from a town this size.

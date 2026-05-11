@@ -6,6 +6,7 @@ longitude: 36.847878
 title: Jimma
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Jimma is the largest city in southwestern Ethiopia and the historical capital of the Kaffa Kingdom — the region where coffee originated. The connection is not just legend: the forests around Jimma still produce some of Ethiopia's finest wild coffee, and the local coffee ceremony is taken seriously here.

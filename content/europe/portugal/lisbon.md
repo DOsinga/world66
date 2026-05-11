@@ -12,6 +12,7 @@ longitude: -9.136592
 score: 0.76
 title: Lisbon
 type: location
+loc_type: city
 ---
 
 Lisbon is one of Europe's oldest and most beautiful capitals, a city of seven hills falling steeply to the Tagus estuary where the Atlantic begins. The earthquake of 1755 destroyed much of the city, and the rebuilt Baixa — the grid of elegant Pombaline streets between the Praça do Comércio and the Praça do Rossio — is a monument to Enlightenment urban planning. But the city that survived the earthquake is the most interesting: the Alfama, Lisbon's oldest neighbourhood, winds up the hill below the Castelo de São Jorge in a labyrinth of medieval lanes where fado drifts out of restaurant windows.

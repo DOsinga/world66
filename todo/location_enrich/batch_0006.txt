@@ -1,0 +1,5 @@
+africa/morocco/fez
+asia/laos/patong
+northamerica/unitedstates/oregon/yachats
+asia/india/andhrapradesh/ananthapur
+northamerica/unitedstates/california/northcoast/trinidad

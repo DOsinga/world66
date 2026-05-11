@@ -1,0 +1,5 @@
+northamerica/unitedstates/michigan/traverse_city
+europe/croatia/trogir
+europe/germany/northrhinewestphalia/altena
+europe/romania/valcea
+australiaandpacific/guam/cettibay

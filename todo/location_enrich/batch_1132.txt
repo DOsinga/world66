@@ -1,0 +1,5 @@
+northamerica/unitedstates/texas/the_woodlands
+europe/germany/bavaria/munich
+africa/mauritius/rodrigues
+europe/portugal/algarve/sagres
+asia/vietnam/halong_city

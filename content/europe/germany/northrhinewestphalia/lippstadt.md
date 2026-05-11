@@ -6,6 +6,7 @@ longitude: 8.347194
 score: 0.4
 title: Lippstadt
 type: location
+loc_type: city
 ---
 
 Lippstadt is a small town in eastern North Rhine-Westphalia, on the Lippe river between Paderborn and Soest. It was founded in 1185 as one of the oldest cities in the region and has a compact medieval old town centred on the 13th-century Marienkirche, whose unusual westwork tower is visible from across the flat surrounding countryside.

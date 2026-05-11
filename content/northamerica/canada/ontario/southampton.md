@@ -6,6 +6,7 @@ longitude: -81.371584
 title: Southampton
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Southampton is a small beach town on the eastern shore of Lake Huron, at the mouth of the Saugeen River, on Ontario's Bruce Peninsula. It has a loyal following among Ontario cottagers and summer visitors who come for the wide sandy beaches and the easy pace of a classic lakeside town.

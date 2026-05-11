@@ -7,6 +7,7 @@ longitude: 122.40406
 score: 0.5
 title: Sipalay
 type: location
+loc_type: city
 ---
 
 Sipalay sits on the southwest coast of Negros, about three to four hours by road from [Bacolod](/asia/philippines/negrosisland/bacolod). It is one of the Philippines' best-kept beach and diving destinations -- still developing, still uncrowded, and all the better for it.

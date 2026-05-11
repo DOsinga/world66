@@ -15,6 +15,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-30
 score: 0.74
+loc_type: country
 ---
 
 *Asia > South Korea*

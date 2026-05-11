@@ -6,6 +6,7 @@ longitude: 35.7539
 title: Iraq al-Amir
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Iraq al-Amir is a small village in the Wadi Seer valley, about 30 kilometres west of [Amman](/asia/jordan/amman). It makes an easy half-day trip from the capital and offers one of the few Hellenistic sites in [Jordan](/asia/jordan) — a reminder that this part of the world was once ruled by the successors of Alexander the Great.

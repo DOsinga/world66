@@ -7,6 +7,7 @@ longitude: -115.002136
 score: 0.46
 title: Alberta
 type: location
+loc_type: region
 ---
 
 Alberta sits in western Canada between the Rockies and the prairies, and the contrast between those two landscapes defines much of what the province offers. To the west, the mountains are dramatic and close — Banff and Jasper national parks are among the most visited places in Canada for good reason. To the east, the land opens into wide agricultural plains and eventually the badlands near Drumheller, where one of the world's richest fossil records lies embedded in eroded sandstone.

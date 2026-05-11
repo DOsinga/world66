@@ -7,6 +7,7 @@ longitude: -0.842399
 score: 0.36
 title: Tamale
 type: location
+loc_type: city
 ---
 
 Call it "tah-mah-LAY," not "ta-mal-EY" — the latter is a Mexican food. Tamale is the capital of the Northern Region, a hot, dusty, and predominantly Muslim city that feels like a different country from the lush south. It is the main transport hub for northern Ghana and the gateway to [Mole National Park](/africa/ghana/tamale/things_to_do/mole_national_park), about 150 km to the west.

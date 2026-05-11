@@ -12,6 +12,7 @@ longitude: -79.383935
 score: 0.68
 title: Toronto
 type: location
+loc_type: city
 ---
 
 Toronto is Canada's largest city and one of the most ethnically diverse on the planet — the United Nations has called it the most multicultural city in the world. It sprawls along the north shore of Lake Ontario, and its skyline is dominated by the CN Tower, which held the title of the world's tallest free-standing structure for decades. The city is a serious metropolis, with excellent museums, a thriving restaurant scene, and a cultural calendar that runs year-round.

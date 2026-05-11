@@ -4,6 +4,7 @@ longitude: -0.337305
 score: 0.35
 title: Harrow
 type: location
+loc_type: city
 ---
 
 Harrow is an outer London borough that most visitors encounter only as a name on the Metropolitan line. But the hilltop village of Harrow on the Hill, clustered around St Mary's Church and the famous Harrow School, has a character quite distinct from the suburban sprawl that surrounds it. The views from the churchyard on a clear day stretch across London to the hills of Surrey and Kent, and the cluster of historic buildings around the school gives the village a feel closer to a Cotswolds market town than to Zone 5.

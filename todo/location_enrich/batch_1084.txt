@@ -1,0 +1,5 @@
+northamerica/mexico/saltillo
+europe/portugal/bragana
+northamerica/unitedstates/alabama/tuscumbia
+africa/tunisia/moknine
+africa/southafrica/soweto

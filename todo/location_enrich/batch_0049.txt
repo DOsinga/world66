@@ -1,0 +1,5 @@
+africa/algeria/blida
+asia/jordan/aqaba
+europe/finland/inari
+europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/lincoln
+asia/india/goa/panaji

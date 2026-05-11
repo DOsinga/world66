@@ -6,6 +6,7 @@ longitude: 123.83
 score: 0.66
 title: Cebu
 type: location
+loc_type: region
 ---
 
 Cebu is a long, thin island in the middle of the Visayas — the oldest part of Spanish Philippines, where Magellan landed in 1521 and died shortly afterwards in a battle with the local chieftain Lapu-Lapu. It remains one of the most developed parts of the country outside Luzon: a busy central city, a major international airport, and strings of white-sand islands to the north and south.

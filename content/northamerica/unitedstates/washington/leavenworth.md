@@ -6,6 +6,7 @@ longitude: -94.922759
 done:
   location_cleanup: 2026-04-06
 score: 0.58
+loc_type: city
 ---
 
 Considered by many to be "Washington's Playground", the Leavenworth area is an adventure and outdoor enthusiasts dream. Activities abound from the extreme to the mild, from white water river rafting and snow sports to birding and walking along the Wenatchee River. The town itself is modeled as a Bavarian village in a setting of towering mountains and vibrant rivers. 

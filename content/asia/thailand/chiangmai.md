@@ -11,6 +11,7 @@ longitude: 98.98588
 score: 0.76
 title: Chiang mai
 type: location
+loc_type: city
 ---
 
 **Chiang Mai** is named the "Rose of the North" for the abundance of flowers that thrive in the cooler mountain climate. The surrounding of the city is blessed with an outstanding beauty in nature. If you want to get away from busy Bangkok, but still want to stay in a big city Chiang Mai is a very good choice. Thousands of Western expatriates made Chiang Mai their home.

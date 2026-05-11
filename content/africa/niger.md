@@ -16,6 +16,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-29
 score: 0.29
+loc_type: country
 ---
 
 Niger is a landlocked country in the heart of Africa, at the south end of the Sahara. It borders on [Chad](/africa/chad), [Nigeria](/africa/nigeria), [Algeria](/africa/algeria), [Burkina Faso](/africa/burkinafaso), [Libya](/africa/libya), [Benin](/africa/benin) and [Mali](/africa/mali). Most people of Niger are muslims, although there are quite some differences in their practice depending on the region where they are from. People of Arab descent tend to be a bit stricter than the Haussa from the south.However, these differences seem to be slowly disappearing.

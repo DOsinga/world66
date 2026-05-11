@@ -1,0 +1,5 @@
+northamerica/costarica/limon
+europe/norway/lofotenislands/skomvr
+southamerica/brazil/itapema
+europe/netherlands/zandvoort
+asia/india/uttarpradesh/lucknow

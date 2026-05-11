@@ -7,6 +7,7 @@ longitude: 146.8517
 score: 0.42
 title: Yackandandah
 type: location
+loc_type: city
 ---
 
 Yackandandah — "Yack" to the locals — is a tiny gold rush town tucked into the hills of northeast Victoria. Its main street has barely changed in a century: wide verandahs, weatherboard shopfronts, and a scatter of antique stores that reward a slow afternoon of browsing.

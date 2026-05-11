@@ -6,6 +6,7 @@ longitude: -103.725
 title: Tucumcari
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Boasting one of the most interesting names of any city in the United States, Tucumcari is located in the high plains country of east central New Mexico. It's a former railroad town that began life as "Six-Shooter Siding", and was home to several railroads in the 19th century. Route 66 brought neon motels and mother road culture in the 20th century. Today Tucumcari still preserves much of its Route 66 heritage.

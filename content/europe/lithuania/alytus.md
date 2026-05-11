@@ -4,6 +4,7 @@ longitude: 24.045927
 score: 0.38
 title: Alytus
 type: location
+loc_type: city
 ---
 
 Alytus straddles the Nemunas, Lithuania's largest river, in the southern part of the country. The city is divided into two halves by the river valley, connected by bridges that offer views of the forested banks below. It is not a destination that many international travelers seek out, but Alytus has a quiet appeal rooted in its natural setting and its sobering 20th-century history.

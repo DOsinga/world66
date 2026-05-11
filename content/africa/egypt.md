@@ -14,6 +14,7 @@ quick_facts:
   Pyramids Age: "4,500+ years"
   Nile Dependency: "95% live along it"
 score: 0.77
+loc_type: country
 ---
 
 Egypt is one of the world's great destinations, and has been for thousands of years. The monuments are staggering in scale and age, the Nile Valley is lush and beautiful, and the culture -- ancient and modern -- is endlessly fascinating. It is also loud, chaotic, and occasionally exhausting. That is part of the deal.

@@ -6,6 +6,7 @@ longitude: 32.864864
 title: Pano Platres
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Perched on the southern slopes of the Troodos mountains at around 1,100 metres, Pano Platres is the most popular mountain resort in Cyprus. The air is noticeably cooler here than on the coast, and the surrounding pine forests give the village a quite different character from the sun-baked lowlands.

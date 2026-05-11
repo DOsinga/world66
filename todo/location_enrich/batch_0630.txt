@@ -1,0 +1,5 @@
+europe/france/aquitaine/cognac
+europe/italy/lombardia/pavia
+asia/india/gujarat/bharuch
+northamerica/unitedstates/california/losangeles/pasadena
+northamerica/canada/quebec/montlaurier

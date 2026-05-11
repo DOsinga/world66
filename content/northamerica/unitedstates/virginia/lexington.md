@@ -6,6 +6,7 @@ longitude: -84.497039
 title: Lexington
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Lexington sits in the Shenandoah Valley, a small town with a strong sense of history and easy access to the surrounding mountains.

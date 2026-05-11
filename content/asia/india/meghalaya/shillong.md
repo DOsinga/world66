@@ -3,6 +3,7 @@ latitude: 25.5788
 longitude: 91.8933
 title: Shillong
 type: location
+loc_type: city
 ---
 
 Shillong, the capital of [Meghalaya](/asia/india/meghalaya), sits at around 1,500 metres in the Khasi Hills. The British called it the "Scotland of the East" for its pine-covered hills, cool climate, and colonial-era architecture. Today it is a lively university town with a character quite unlike anywhere else in India — the Khasi people have a matrilineal society, and the blend of tribal, colonial, and modern Indian cultures gives the city a distinctive feel.

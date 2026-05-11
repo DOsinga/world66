@@ -6,6 +6,7 @@ longitude: 3.952866
 title: Epernay
 type: location
 score: 0.66
+loc_type: city
 ---
 
 Epernay sits at the heart of the Champagne vineyards, a prosperous small city built on top of an extraordinary underground world. Beneath the elegant Avenue de Champagne — lined with the mansions of the great champagne houses — run more than a hundred kilometres of chalk tunnels where hundreds of millions of bottles quietly mature. Moet et Chandon, Perrier-Jouet, and Mercier all offer cellar tours, and walking from one to the next along the avenue is one of the great indulgences of French wine country.

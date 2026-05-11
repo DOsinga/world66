@@ -1,0 +1,5 @@
+northamerica/unitedstates/newjersey/wildwood
+europe/italy/sicily/aeolianislands/stromboli
+asia/india/goa/palolim
+europe/lithuania/siauliai
+europe/greece/ammoudia

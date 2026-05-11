@@ -17,6 +17,7 @@ quick_facts:
 score: 0.57
 title: Croatia
 type: location
+loc_type: country
 ---
 
 Croatia stretches along the eastern Adriatic coast, offering one of Europe's most varied travel experiences within a small country: a walled medieval city at Dubrovnik, over a thousand islands ranging from tiny rocky outcrops to substantial inhabited places, Roman ruins repurposed as living neighbourhoods in Split, UNESCO-listed national parks, and an Istrian peninsula with its own distinct Italian-inflected culture.

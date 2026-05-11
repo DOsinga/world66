@@ -6,6 +6,7 @@ longitude: 41.979719
 score: 0.32
 title: Dire dawa
 type: location
+loc_type: city
 ---
 
 Dire Dawa is Ethiopia's second city, a railway town built in the early 1900s when the French-built Djibouti–Addis Ababa line reached this spot in the Rift Valley lowlands. The Kezira district, the old European quarter, has wide boulevards, art deco buildings, and a relaxed, almost Mediterranean feel that is completely different from the highland cities — helped by the hot, dry climate.

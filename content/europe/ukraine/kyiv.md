@@ -8,6 +8,7 @@ longitude: 30.5241
 score: 0.55
 title: Kyiv
 type: location
+loc_type: city
 ---
 
 Kyiv is one of the oldest cities in Europe, founded in the 5th century and the capital of a medieval state — Kyivan Rus — that shaped the subsequent history of Russia, Ukraine, and Belarus. Today it is the capital of Ukraine, a city of broad boulevards, steep river banks, and a skyline punctuated by the gold and blue domes of Orthodox churches and monasteries. The city stands on the right bank of the Dnieper River, spread across a series of wooded hills.

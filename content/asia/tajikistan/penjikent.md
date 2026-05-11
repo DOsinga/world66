@@ -6,6 +6,7 @@ longitude: 67.6141
 title: Penjikent
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Substantially closer to [Samarkand](/asia/uzbekistan/samarkand) than to Dushanbe, Penjikent was the old center of the Sogdian empire. Around the modern town and in its museum you will find remains of this pre-Islamic civilization.

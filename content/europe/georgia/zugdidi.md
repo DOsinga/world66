@@ -6,6 +6,7 @@ longitude: 41.8717
 title: Zugdidi
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Zugdidi is the main city of the Samegrelo region in western [Georgia](/europe/georgia), historically the capital of the Mingrelian principality. The star attraction is the Dadiani Palace, now a museum housing an eclectic collection that includes one of Napoleon's three death masks — a relic of the marriage between a Dadiani prince and Napoleon's niece.

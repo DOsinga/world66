@@ -1,0 +1,5 @@
+europe/unitedkingdom/scotland/skye/sligachan
+southamerica/argentina/bariloche
+northamerica/netherlandsantilles/bonaire
+asia/lebanon/beiteddine
+asia/india/gujarat/ahmedabad

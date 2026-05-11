@@ -8,6 +8,7 @@ longitude: 91.981246
 score: 0.48
 title: Cox's Bazar
 type: location
+loc_type: city
 ---
 
 Cox's Bazar has one of the longest natural beaches in the world: 120 kilometers of unbroken sandy shoreline, backed by low forested hills, running south along the Bay of Bengal toward the Myanmar border. On weekdays and outside Bangladeshi holidays, it is far less crowded than the numbers suggest. At sunrise and sunset the light on the water is extraordinary.

@@ -14,6 +14,7 @@ quick_facts:
   Lake Assal: "155 m below sea level"
   Foreign Military Bases: "6"
 score: 0.41
+loc_type: country
 ---
 
 Djibouti is one of the smallest and least visited countries in Africa, a sliver of volcanic rock and salt flats wedged between [Eritrea](/africa/eritrea), [Ethiopia](/africa/ethiopia), and [Somalia](/africa/somalia) at the mouth of the Red Sea. It is brutally hot, genuinely expensive, and rewards the traveler with landscapes that look like they belong on another planet.

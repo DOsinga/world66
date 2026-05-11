@@ -6,6 +6,7 @@ longitude: 81.115382
 title: Eluru
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Eluru is the headquarters of West Godavari District, sitting in the fertile delta plain between the Krishna and Godavari rivers in coastal Andhra Pradesh. The Tammileru river splits into two branches and wraps around the town, while the Krishna–Eluru canal cuts through its centre. The Chennai–Kolkata highway and the Visakhapatnam–Chennai railway both pass through, making it a well-connected regional hub rather than an off-the-beaten-track destination.

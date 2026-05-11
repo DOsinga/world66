@@ -6,6 +6,7 @@ longitude: 3.261471
 title: Porto Colom
 type: location
 score: 0.62
+loc_type: city
 ---
 
 Porto Colom is a natural harbour on the east coast of [Mallorca](/europe/spain/balearicislands/mallorca), the main coastal settlement of the municipality of Felanitx. It has a quieter, more local feel than the big resorts on the island's south and west coasts — the harbour is still used by working fishing boats, and the waterfront is lined with traditional boathouses (escars) painted in faded pastels.

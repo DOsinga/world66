@@ -6,6 +6,7 @@ longitude: 8.631393
 title: Urbe
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Urbe lies on the northern side of the Ligurian Apennines, scattered across the upper valley of the Olba stream. Once a possession of the Abbey of Tiglieto, it was donated to the Bishop of Acqui in the eleventh century and shared the fortunes of Sassello until 1798.

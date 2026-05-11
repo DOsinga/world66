@@ -6,6 +6,7 @@ longitude: 73.7577
 title: Bhandardhara
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Bhandardhara is a hill station and reservoir in the Sahyadri range of [Maharashtra](/asia/india/maharashtra), about four hours' drive from [Mumbai](/asia/india/maharashtra/mumbai). During the monsoon the landscape transforms — cloud-wrapped mountains, waterfalls everywhere, and the Arthur Lake reservoir brimming against the Wilson Dam. It is one of the best weekend escapes from the city.

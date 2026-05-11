@@ -16,6 +16,7 @@ quick_facts:
   Size: "twice the size of France"
   Great Mosque of Djenné: largest mud-brick building in the world
 score: 0.27
+loc_type: country
 ---
 
 *Africa > Mali*

@@ -1,0 +1,5 @@
+northamerica/unitedstates/missouri/bowling_green
+northamerica/panama/dariengap/meteti
+asia/japan/shikoku/uwajima
+asia/turkmenistan/turkmenbashi
+europe/unitedkingdom/england/eastern_england/cambridge

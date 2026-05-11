@@ -6,6 +6,7 @@ longitude: -118.0
 title: Huntington Beach
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Huntington Beach bills itself as "Surf City USA" and backs the claim with thirteen kilometres of unbroken beach, the International Surfing Museum, the Surfing Hall of Fame, and some of the most consistent waves in Southern California. The long concrete pier — the longest on the California coast — is the centre of the action, with surf competitions, concerts at the amphitheatre, and a boardwalk that fills up at sunset.

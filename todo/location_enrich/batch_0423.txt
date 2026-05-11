@@ -1,0 +1,5 @@
+southamerica/suriname/wiawiareserve
+asia/bhutan/tashigang
+northamerica/unitedstates/idaho/sunvalley
+asia/lebanon/deirelqamar
+northamerica/panama/chiriqui

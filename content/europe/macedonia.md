@@ -16,6 +16,7 @@ quick_facts:
   Lake Ohrid: "1.4 million years old"
   Orthodox Churches: "Over 1,000"
 score: 0.57
+loc_type: country
 ---
 
 Macedonia is a landlocked country in the heart of the Balkan. It is bordered by [Bulgaria](../bulgaria) , Serbia , [Greece](../greece) and [Albania](../albania) . It is easiest to reach from Greece or Bulgaria. 

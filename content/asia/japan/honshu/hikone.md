@@ -6,6 +6,7 @@ longitude: 136.263448
 done:
   location_cleanup: 2026-04-08
 score: 0.58
+loc_type: city
 ---
 
 Hikone is a castle town on the eastern shore of Lake Biwa in Shiga Prefecture. Its main draw is Hikone-jō, one of only twelve original castles remaining in Japan and one of just four designated as National Treasures — alongside [Matsumoto](/asia/japan/honshu/matsumoto), [Inuyama](/asia/japan/honshu/inuyama), and [Himeji](/asia/japan/honshu/himeji). Dating from 1622, the castle is compact but beautifully preserved, and the grounds are spectacular during cherry blossom season.

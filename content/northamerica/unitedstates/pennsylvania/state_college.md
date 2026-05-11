@@ -6,6 +6,7 @@ longitude: -77.861639
 title: State College
 type: location
 score: 0.34
+loc_type: city
 ---
 
 State College is a university town in the geographic center of Pennsylvania, home to Penn State University and its Nittany Lions. On football weekends in autumn, the population swells as fans descend on Beaver Stadium, one of the largest stadiums in the world.

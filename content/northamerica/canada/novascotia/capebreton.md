@@ -6,6 +6,7 @@ longitude: -60.9361
 score: 0.57
 title: Cape Breton
 type: location
+loc_type: city
 ---
 
 Cape Breton Island sits at the eastern tip of Nova Scotia, joined to the mainland by a single causeway across the Strait of Canso. It is one of the most dramatic landscapes in eastern Canada — a tilted slab of highland plateau rising straight out of the Gulf of St Lawrence — and a place where the country's cultural inheritance is unusually visible.

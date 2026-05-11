@@ -14,6 +14,7 @@ quick_facts:
   Meaning of Name: Land of Upright People
   FESPACO: Africa's largest film festival
 score: 0.22
+loc_type: country
 ---
 
 Burkina Faso — "the land of upright people" — is one of West Africa's most rewarding and least visited countries. Landlocked between Mali, Niger, Ghana, and Ivory Coast, it has none of the obvious drawcards that pull tourists to its neighbors: no coast, no Saharan dunes, no famous game reserves. What it has instead is an extraordinary cultural richness, warm and genuinely welcoming people, and landscapes that surprise anyone who imagines the Sahel as featureless scrub.

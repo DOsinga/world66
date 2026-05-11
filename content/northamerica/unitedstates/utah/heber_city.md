@@ -6,6 +6,7 @@ longitude: -111.4133
 title: Heber City
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Heber City sits in a broad mountain valley about 45 minutes southeast of Salt Lake City and just over the ridge from Park City. It's a working Utah town rather than a resort — quieter and cheaper than its famous neighbour, with a good collection of cafes, diners, and motels that make it a practical base for exploring the area.

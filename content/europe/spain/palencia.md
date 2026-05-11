@@ -6,6 +6,7 @@ longitude: -4.6161
 score: 0.5
 title: Palencia
 type: location
+loc_type: city
 ---
 
 Palencia sits on the Castilian meseta north of [Valladolid](/europe/spain/valladolid), a quiet provincial capital that most travellers drive straight past. Their loss. The cathedral — known as La Bella Desconocida, the Beautiful Unknown — is one of the finest Gothic churches in Spain, with a stunning interior that holds its own against Burgos or León but without a single tour bus outside.

@@ -6,6 +6,7 @@ longitude: -18.563879
 title: Dalvíkurbyggð
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Dalvíkurbyggð is a small municipality on the western shore of Eyjafjörður, northern Iceland's largest fjord. The main town of Dalvík (population around 2,000) is a working fishing port that serves as the departure point for the ferry to Grímsey — Iceland's northernmost inhabited island, sitting right on the Arctic Circle.

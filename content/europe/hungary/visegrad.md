@@ -6,6 +6,7 @@ longitude: 18.9703
 title: Visegrad
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Visegrad sits on the Danube Bend, where the river makes its sharp turn south toward Budapest. The town itself is small and quiet, but the hilltop citadel and the reconstructed Royal Palace below it are the real draw. From the citadel walls you get one of the finest views of the Danube anywhere along its course.

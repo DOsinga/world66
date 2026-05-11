@@ -16,6 +16,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-31
 score: 0.26
+loc_type: country
 ---
 
 Sierra Leone is one of West Africa's most overlooked destinations — a small country with stunning beaches, dense rainforest, warm people, and a complicated history it's still working through. The civil war that ravaged the country through the 1990s ended in 2002. Two decades on, Sierra Leone is at peace and slowly building its tourist infrastructure, though it remains raw, underdeveloped, and genuinely off the beaten path.

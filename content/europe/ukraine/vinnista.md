@@ -6,6 +6,7 @@ longitude: 28.4682
 title: Vinnytsia
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Vinnytsia is a pleasant mid-sized city in central Ukraine, straddling the Southern Bug River. It is one of those Ukrainian cities that rarely appears on tourist itineraries but has more to offer than you would expect — a handsome riverside promenade, good food, and a couple of genuinely unusual sights.

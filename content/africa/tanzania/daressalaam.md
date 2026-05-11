@@ -8,6 +8,7 @@ longitude: 39.2083
 score: 0.46
 title: Dar es Salaam
 type: location
+loc_type: city
 ---
 
 Dar es Salaam — "House of Peace" in Arabic — is anything but. Tanzania's largest city and former capital is a sweltering, sprawling, energetic port of around five million people, the country's commercial engine and the staging point for almost every traveller heading on to [Zanzibar](/africa/tanzania/zanzibar) or up-country to the safari parks. Most visitors plan to skip it. They are wrong to.

@@ -10,6 +10,7 @@ longitude: 23.273328
 score: 0.56
 title: Alta
 type: location
+loc_type: city
 ---
 
 Alta sits at the head of the Altafjord in Finnmark, about as far north as you can get in Norway and still find a proper town. At nearly 70 degrees north, it is one of the best places in the world to see the Northern Lights, with clear, dark skies from September through March and a landscape that feels genuinely remote.

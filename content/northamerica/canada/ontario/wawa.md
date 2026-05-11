@@ -6,6 +6,7 @@ longitude: -84.774
 title: Wawa
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Wawa is a small lakefront town on the Trans-Canada Highway, 216 km north of Sault Ste. Marie. It is a mining town, but better known as a base for outdoor and wilderness adventures — boating, hiking, fishing, hunting, and exploring the vast Canadian Shield country that stretches in every direction.

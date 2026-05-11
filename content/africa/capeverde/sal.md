@@ -7,6 +7,7 @@ longitude: -22.938676
 score: 0.61
 title: Sal
 type: location
+loc_type: city
 ---
 
 Sal is a a pretty flat and desert like island. It's the most visited island of the archipelago due to the fact that the international airport is located on it and European package-tours are dropped off here. 

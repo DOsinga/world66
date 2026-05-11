@@ -6,6 +6,7 @@ longitude: -76.3382
 title: Tilghman Island
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Tilghman Island is a small working watermen's village on Maryland's Eastern Shore, separated from the mainland by Knapps Narrows and reached by drawbridge. It's genuinely unspoiled — no resort sprawl, no chain restaurants, just crab boats, skipjacks, and the wide Chesapeake sky.

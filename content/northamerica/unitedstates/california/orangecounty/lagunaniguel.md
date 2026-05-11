@@ -6,6 +6,7 @@ longitude: -117.707553
 title: Laguna Niguel
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Laguna Niguel is a planned suburban city in south Orange County, between Los Angeles and San Diego, incorporated in 1989. It is a quiet, well-kept residential community without a traditional downtown, but it has easy access to the beaches of Laguna Beach just to the west, the hills and trails of Aliso and Wood Canyons Wilderness Park, and the coastal paths along Salt Creek Beach.

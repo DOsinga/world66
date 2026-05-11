@@ -6,6 +6,7 @@ longitude: -6.5625
 title: Aracena
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Aracena is a handsome hill town in the Sierra de Aracena, the western end of the Sierra Morena in northern [Andalucia](/europe/spain/andalucia). It sits at the highest point of the range, crowned by the remains of a Moorish castle and the 13th-century Iglesia Prioral, a church built by the Knights Templar with views across the forested hills.

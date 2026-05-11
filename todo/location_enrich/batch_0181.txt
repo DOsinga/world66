@@ -1,0 +1,5 @@
+asia/indonesia/nias_selatan/teluk_dalam
+asia/pakistan/azad_kashmir/mirpur/rajoa
+southamerica/brazil/recife
+asia/israel/haifa
+africa/tunisia/metlaoui

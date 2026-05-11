@@ -1,0 +1,5 @@
+asia/uzbekistan/urgench
+europe/finland/kerimaki
+northamerica/unitedstates/utah/vernal
+northamerica/unitedstates/texas/round_top
+africa/ghana/elmina

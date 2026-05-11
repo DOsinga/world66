@@ -1,0 +1,5 @@
+northamerica/unitedstates/wisconsin/stockholm
+europe/sweden/jnkping
+europe/germany/saarland/saarbrucken
+europe/portugal/melgaco
+australiaandpacific/newzealand/northland_1/russell

@@ -6,6 +6,7 @@ longitude: 17.688498
 title: Brindisi
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Most travellers end up in Brindisi because they need a ferry — to Greece, to Albania, or onward to the eastern Mediterranean. The port has been doing this job for over two thousand years: it was the terminus of the Via Appia, and the Roman column marking the end of the road still stands on the waterfront.

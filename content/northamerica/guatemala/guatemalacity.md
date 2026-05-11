@@ -7,6 +7,7 @@ longitude: -90.5069
 score: 0.41
 title: Guatemala City
 type: location
+loc_type: city
 ---
 
 Guatemala City is the capital and by far the largest city in Central America (excluding Mexico), with a metropolitan population over 3 million. It sits in a wide valley at about 1,500 metres elevation, giving it a mild climate year-round.

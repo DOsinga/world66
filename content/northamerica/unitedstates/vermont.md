@@ -6,6 +6,7 @@ longitude: -72.6713
 score: 0.62
 title: Vermont
 type: location
+loc_type: region
 ---
 
 Vermont is the green, rumpled corner of New England that takes its nickname literally. The Green Mountains run the length of the state, dividing the Connecticut River valley in the east from Lake Champlain in the west, and almost everything worth doing here is shaped by them — the skiing in winter, the hiking in summer, and above all the fall foliage that turns the hillsides into something close to absurdity every September and October. Vermont is small, rural and stubbornly itself: more cows than people in some counties, a state house with a gold dome in [Montpelier](/northamerica/unitedstates/vermont/montpelier) (the smallest state capital in the country), and a long tradition of doing things its own way.

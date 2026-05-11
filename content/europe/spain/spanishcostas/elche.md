@@ -10,6 +10,7 @@ longitude: -0.698839
 score: 0.52
 title: Elche
 type: location
+loc_type: city
 ---
 
 Elche is a city of palms. Its Palmeral — a grove of over 200,000 date palms planted originally by the Moors — is the largest in Europe and a UNESCO World Heritage Site. Walking through it feels nothing like the rest of Spain: the dense canopy of palms, the irrigation channels, and the dry heat belong more to North Africa than to the Costa Blanca. The Huerto del Cura, a smaller garden within the Palmeral, is the most visited section, with a famous seven-trunked Imperial Palm.

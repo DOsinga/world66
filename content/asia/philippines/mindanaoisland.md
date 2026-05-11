@@ -6,6 +6,7 @@ longitude: 125.236531
 score: 0.45
 title: Mindanao
 type: location
+loc_type: region
 ---
 
 Mindanao is the second-largest island in the Philippines, the country's southern frontier, and the part of the archipelago that looks least like the rest of it. Its interior is mountainous and heavily forested. Its coast holds some of the best surf and diving in Southeast Asia. And its people — a mix of Christian settlers from the Visayas and Luzon, indigenous Lumad groups, and the Muslim Bangsamoro — give it a cultural texture you won't find farther north.

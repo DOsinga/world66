@@ -1,0 +1,5 @@
+europe/france/midi/aquitaine/poitiers
+northamerica/unitedstates/texas/dallas
+europe/belgium/tournai
+europe/france/centre/loirevalley/usse
+europe/belgium/arlon

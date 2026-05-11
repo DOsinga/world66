@@ -6,6 +6,7 @@ longitude: 0.9531
 title: Borj Mokhtar
 type: location
 score: 0.21
+loc_type: city
 ---
 
 Borj Mokhtar is a remote desert outpost on the Algerian side of the border with [Mali](/africa/mali), roughly 650 km south of Reggane and 1,400 km south of [Adrar](/africa/algeria/adrar). It barely qualifies as a town — the military presence is the main reason it exists at all — but for overlanders crossing between Algeria and Mali, it is an important waypoint.

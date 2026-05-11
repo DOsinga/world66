@@ -6,6 +6,7 @@ longitude: 19.512144
 title: Shkoder
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Shkodër is Albania's fourth-largest city and the cultural capital of the north. It has a distinctive character — more Catholic than the south, with a long history as a trading city under Venetian and Ottoman rule — and a pleasant old centre of narrow lanes and colourful facades.

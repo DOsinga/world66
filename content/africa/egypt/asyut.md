@@ -6,6 +6,7 @@ longitude: 31.185384
 title: Asyut
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Asyut is Egypt's largest city in Upper Egypt outside of Luxor, sitting on the west bank of the Nile about 380 km south of Cairo. It's primarily a transport and commercial hub rather than a tourist destination, but it does have some points of interest for those passing through.

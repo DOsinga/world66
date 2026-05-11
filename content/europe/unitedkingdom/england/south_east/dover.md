@@ -8,6 +8,7 @@ longitude: 1.313423
 score: 0.51
 title: Dover
 type: location
+loc_type: city
 ---
 
 When you think of Dover, you probably think of white cliffs — those chalk faces rising dramatically from the sea, the first or last sight of England for centuries of travellers crossing the Channel. Dover is still the busiest passenger port in Europe, though the Channel Tunnel has taken much of the traffic and the town itself has seen better days.

@@ -8,6 +8,7 @@ longitude: -105.5733
 score: 0.63
 title: Taos
 type: location
+loc_type: city
 ---
 
 For a town in the middle of nowhere, Taos has a lot going for it. From the numerous art galleries and shops in town to the magnificent ancient dwellings of Taos Pueblo, Taos has plenty to offer for nearly every lifestyle. 

@@ -6,6 +6,7 @@ longitude: -105.285
 title: Angel Fire
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Angel Fire is a small ski resort town tucked into the Moreno Valley at 8,600 feet, about 25 miles east of [Taos](/northamerica/unitedstates/newmexico/taos). Where Taos Ski Valley attracts serious skiers with steep terrain, Angel Fire is the family-friendly alternative: gentler slopes, shorter lift lines, and the only half-pipe in New Mexico. The resort village itself is quiet and compact, with a handful of restaurants and shops along the main road.

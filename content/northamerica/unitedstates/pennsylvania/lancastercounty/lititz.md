@@ -6,6 +6,7 @@ longitude: -76.307162
 title: Lititz
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Lititz is a small town of about 10,000 in the northern hills of [Lancaster County](/northamerica/unitedstates/pennsylvania/lancastercounty). Founded by Moravians in 1756, it has a main street that retains much of its old-world charm — brick facades, wide sidewalks, antique shops, and small cafes that feel genuinely local rather than assembled for tourists.

@@ -6,6 +6,7 @@ longitude: 152.996119
 score: 0.38
 title: Beaudesert
 type: location
+loc_type: city
 ---
 
 <<<<<<< HEAD

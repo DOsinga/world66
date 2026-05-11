@@ -6,6 +6,7 @@ longitude: -8.6422
 title: Odemira
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Odemira is Portugal's largest municipality by area, a vast sweep of Alentejo countryside that stretches from the rolling cork oak hills of the interior all the way to the wild Atlantic cliffs of the Costa Vicentina. Most visitors come for the coast — the beaches here are among the finest in Europe, protected within the Parque Natural do Sudoeste Alentejano e Costa Vicentina and largely spared the overdevelopment that has consumed the Algarve to the south.

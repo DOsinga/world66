@@ -6,6 +6,7 @@ longitude: -69.6103
 score: 0.46
 title: Boca Chica
 type: location
+loc_type: city
 ---
 
 Boca Chica is a beach town about 30 kilometers east of Santo Domingo, popular with Dominicans as a weekend escape from the capital and with budget travelers looking for sand and nightlife without the resort-town prices of Punta Cana. The beach is a long, shallow, reef-protected lagoon with calm turquoise water -- you can wade out a surprisingly long way -- and it gets packed on Sundays and holidays when half of Santo Domingo seems to show up with coolers and speakers.

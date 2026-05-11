@@ -1,0 +1,5 @@
+europe/italy/liguria/italianriviera/rivieradellepalme/arnasco
+europe/italy/valledaosta/aosta
+africa/morocco/khamlia
+europe/spain/galicia/ons_islands
+asia/india/gujarat/siddhpur

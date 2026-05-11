@@ -6,6 +6,7 @@ longitude: 73.773788
 score: 0.31
 title: Bagh
 type: location
+loc_type: city
 ---
 
 Travel Guide

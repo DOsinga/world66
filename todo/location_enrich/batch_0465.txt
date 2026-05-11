@@ -1,0 +1,5 @@
+northamerica/canada/newfoundland/lanseauxmeadows
+northamerica/unitedstates/florida/fortlauderdale
+europe/croatia/jelsa
+asia/srilanka/unawatuna
+australiaandpacific/australia/westernaustralia/perth

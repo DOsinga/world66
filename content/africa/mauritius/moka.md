@@ -6,6 +6,7 @@ longitude: 57.587224
 title: Moka
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Moka is a quiet district on the central plateau of [Mauritius](/africa/mauritius), tucked into a green valley below the Moka Range. It is one of the cooler parts of the island, thanks to the elevation, and feels distinctly more residential and local than the coastal tourist areas. Most visitors come here for one thing: Eureka House.

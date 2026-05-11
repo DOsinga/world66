@@ -7,6 +7,7 @@ longitude: -25.66895
 score: 0.65
 title: Ponta Delgada
 type: location
+loc_type: city
 ---
 
 Ponta Delgada is the administrative capital of the Azores and the main gateway to the archipelago. Most visitors arrive here first and spend a day or two before fanning out across São Miguel and the other islands — and the city rewards the pause.

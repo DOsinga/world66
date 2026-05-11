@@ -6,6 +6,7 @@ longitude: -90.003486
 title: Southaven
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Southaven is the largest city in DeSoto County, sitting just across the Mississippi state line from [Memphis](/northamerica/unitedstates/tennessee/memphis), Tennessee. With a population of around 55,000, it is effectively a Memphis suburb and a practical base for visitors who want easy access to Graceland, Beale Street, and the Memphis music scene without staying downtown.

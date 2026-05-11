@@ -6,6 +6,7 @@ longitude: 9.414214
 score: 0.54
 title: Kragero
 type: location
+loc_type: city
 ---
 
 Kragerø is a small coastal town on Norway's southern shore, tucked into a maze of islands, skerries, and sheltered inlets. Edvard Munch called it "the pearl of the coastal towns," and in summer it is easy to see why — white wooden houses climb the hillsides above a harbour full of boats, and the surrounding archipelago offers some of the warmest swimming water in Norway.

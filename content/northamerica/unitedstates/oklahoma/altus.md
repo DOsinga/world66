@@ -6,6 +6,7 @@ longitude: -99.333975
 title: Altus
 type: location
 score: 0.27
+loc_type: city
 ---
 
 Altus is a small city in southwestern [Oklahoma](/northamerica/unitedstates/oklahoma), serving as the county seat of Jackson County and a regional hub for the surrounding cotton and wheat country. The dominant presence is Altus Air Force Base, which trains pilots for the C-17 Globemaster and KC-46 tanker and has been the town's economic backbone since World War II.

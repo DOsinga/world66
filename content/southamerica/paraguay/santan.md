@@ -6,6 +6,7 @@ longitude: -56.44168
 title: Santaní
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Santaní — officially San Estanislao — is a small market town in the San Pedro department, a few hours northeast of [Asunción](/southamerica/paraguay/asuncion) in one of Paraguay's poorest and most rural provinces. If you are looking for monuments and museums, this is not the place. But if you want to see small-town Paraguayan life without any tourist infrastructure or pretense, Santaní delivers exactly that.

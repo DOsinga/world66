@@ -1,0 +1,5 @@
+southamerica/colombia/honda
+asia/indonesia/bangka_island
+europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve
+australiaandpacific/vanuatu/espiritusanto
+europe/italy/lazio/ladispoli

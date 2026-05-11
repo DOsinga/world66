@@ -6,6 +6,7 @@ longitude: -73.135809
 score: 0.46
 title: Osorno
 type: location
+loc_type: city
 ---
 
 Osorno is a city of about 150,000 people in the Los Lagos region of southern Chile, roughly halfway between Puerto Montt and the Los Ríos region. The surrounding countryside is dairy and cattle country — lush, rainy, and green, draped across rolling hills with the cone of the Osorno volcano (2,660 metres) dominating the eastern horizon. The city itself is a practical regional centre, with a German-influenced architecture reflecting the heavy 19th-century immigration from Germany, Switzerland, and Austria that shaped the whole region.

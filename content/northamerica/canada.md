@@ -16,6 +16,7 @@ quick_facts:
 score: 0.44
 title: Canada
 type: location
+loc_type: country
 ---
 
 Canada is the second largest country in the world. Although Canada is quite sparsely populated, it has some major cosmopolitan cities, such as [Toronto](/northamerica/canada/ontario/toronto) Toronto , [Montreal](/northamerica/canada/quebec/montreal) Montreal and [Vancouver](/northamerica/canada/britishcolumbia/vancouver) Vancouver that offer anything a traveler could want. 

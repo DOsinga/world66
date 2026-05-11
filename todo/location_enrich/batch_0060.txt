@@ -1,0 +1,5 @@
+africa/ghana/wa
+northamerica/unitedstates/wisconsin/lacrosse
+southamerica/colombia/santamarta
+southamerica/chile/santiago
+northamerica/unitedstates/westvirginia/fairmont

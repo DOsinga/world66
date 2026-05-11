@@ -8,6 +8,7 @@ longitude: -81.693677
 score: 0.42
 title: Cleveland
 type: location
+loc_type: city
 ---
 
 Cleveland sits on the southern shore of Lake Erie, a city that punches well above its weight in culture, food, and music. It is home to the **Rock and Roll Hall of Fame**, one of the most visited museums in the Midwest, and its cultural institutions in University Circle rival those of cities twice its size.

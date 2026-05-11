@@ -6,6 +6,7 @@ longitude: 19.947461
 score: 0.42
 title: Lowicz
 type: location
+loc_type: city
 ---
 
 Łowicz is the folk capital of Poland. This small town between Warsaw and Łódź is famous for its colourful Corpus Christi processions, where locals dress in elaborate traditional costumes and carpet the streets with flower petals. The tradition has been alive for centuries, and the costumes — bold stripes, intricate embroidery — are among the most recognisable in Polish folk culture.

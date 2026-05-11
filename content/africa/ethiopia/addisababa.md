@@ -8,6 +8,7 @@ longitude: 38.7524
 score: 0.47
 title: Addis Ababa
 type: location
+loc_type: city
 ---
 
 Addis Ababa sits at 2,500 metres in the Ethiopian highlands, a city that feels perpetually spring-like despite being just a few degrees from the equator. Founded in 1886 by Emperor Menelik II, its name means "New Flower" in Amharic, and the city has been growing restlessly ever since. Today it is home to over five million people and serves as the diplomatic capital of Africa, hosting the African Union and dozens of embassies.

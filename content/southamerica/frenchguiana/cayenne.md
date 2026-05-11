@@ -6,6 +6,7 @@ longitude: -52.325874
 title: Cayenne
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Cayenne is the capital of French Guiana, situated on a small island where the Cayenne River meets the Atlantic coast. As an overseas department of France, it has the strange quality of being simultaneously a French provincial town and a tropical Caribbean city — French is the official language, the euro is the currency, and the baguette is on every table, yet the heat, the vegetation, and much of the population feel firmly Caribbean.

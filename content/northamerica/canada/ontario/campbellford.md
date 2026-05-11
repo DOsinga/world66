@@ -5,6 +5,7 @@ latitude: 44.3086
 longitude: -77.7981
 title: Campbellford
 type: location
+loc_type: city
 ---
 
 Campbellford is a small town of about 3,500 on the Trent River in Northumberland County, Ontario, roughly midway between Toronto and Ottawa. It sits on the Trent-Severn Waterway, the historic canal route that links Lake Ontario to Georgian Bay — a popular route for recreational boaters and canoeists. The town has a pleasant riverside character and a reputation as a small arts centre with galleries and studios in the area.

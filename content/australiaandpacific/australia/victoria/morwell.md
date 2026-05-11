@@ -6,6 +6,7 @@ longitude: 146.3978
 score: 0.3
 title: Morwell
 type: location
+loc_type: city
 ---
 
 Morwell sits in the Latrobe Valley in Gippsland, the heart of Victoria's brown coal country. It is not a tourist destination in the conventional sense — the open-cut mines and power stations that dominate the valley are a stark reminder of industrial Australia — but the town has an unexpected natural asset on its doorstep.

@@ -10,6 +10,7 @@ image: tuscany.jpg
 image_source: https://commons.wikimedia.org/wiki/File:01665_ITA_Tuscany_Pitigliano_S_from_viewpoint_V-P.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Virtual-Pano
+loc_type: region
 ---
 
 Tuscany is the region that built the Renaissance and still has the landscape to prove it — rolling hills stitched with cypress rows, vineyards running to the horizon, and hilltop towns that look painted on. It earned its mythic reputation honestly, and the challenge here isn't finding something worth seeing but deciding what to skip.

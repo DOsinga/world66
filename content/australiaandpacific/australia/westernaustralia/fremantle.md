@@ -6,6 +6,7 @@ longitude: 115.758617
 title: Fremantle
 type: location
 score: 0.6
+loc_type: city
 ---
 
 Fremantle — "Freo" to locals — is Perth's port city, sitting at the mouth of the Swan River where it meets the Indian Ocean. The city was transformed for the 1987 America's Cup defence, and the restored Victorian and Edwardian streetscapes, the cappuccino strip along South Terrace, and the working fishing harbour give it a character quite distinct from Perth itself.

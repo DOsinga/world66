@@ -8,6 +8,7 @@ longitude: -124.2018
 score: 0.43
 title: Crescent City
 type: location
+loc_type: city
 ---
 
 Crescent City sits at the far northern end of the California coast, just 20 miles from the Oregon border and right at the doorstep of Redwood National and State Parks. It is a small, no-frills fishing town — the kind of place where the working harbor still smells of brine and diesel, and the fog rolls in thick enough to soften everything.

@@ -4,6 +4,7 @@ type: location
 latitude: 4.927456
 longitude: -1.749022
 score: 0.34
+loc_type: city
 ---
 
 Sekondi is the old colonial city just north of the modern seaport of [Takoradi](/africa/ghana/takoradi). Most people will be staying the but a visit to Sekondi is a must.

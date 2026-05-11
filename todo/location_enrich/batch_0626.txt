@@ -1,0 +1,5 @@
+northamerica/unitedstates/southdakota/aberdeen
+northamerica/unitedstates/california/inlandempire/ontario
+australiaandpacific/australia/tasmania/northwest/penguin
+africa/niger/bilma
+northamerica/guatemala/flores

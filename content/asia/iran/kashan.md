@@ -6,6 +6,7 @@ longitude: 51.4429
 title: Kashan
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Kashan is one of Iran's most rewarding cities, midway between Tehran and Isfahan on the edge of the central desert. It is famous for its extraordinarily well-preserved traditional Persian houses — merchant mansions from the 18th and 19th centuries with windtowers, tiled courtyards, and ornate interiors. The Tabatabaei House and Boroujerdi House are among the finest examples of traditional Iranian domestic architecture anywhere.

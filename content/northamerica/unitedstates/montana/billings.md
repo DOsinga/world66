@@ -12,6 +12,7 @@ longitude: -108.5007
 score: 0.41
 title: Billings
 type: location
+loc_type: city
 ---
 
 Billings is Montana's largest city and the hub of the Yellowstone Valley. Known as the "Magic City" for the speed at which it sprang up after the Northern Pacific Railway arrived in 1882, it still carries that frontier energy -- a working western city where rodeo is not a novelty act and the landscape beyond the city limits is genuinely vast.

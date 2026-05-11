@@ -6,6 +6,7 @@ longitude: -68.927218
 score: 0.4
 title: Calama
 type: location
+loc_type: city
 ---
 
 Calama is a desert city in northern Chile's Atacama region, at 2,250 metres above sea level in the dry Loa River valley. It's primarily a mining city — the Chuquicamata copper mine nearby is the largest open-pit copper mine in the world — but most travelers know it as the transit hub for [San Pedro de Atacama](/southamerica/chile/sanpedrodeatacama), the oasis village and gateway to the Atacama Desert, about 100 kilometres east.

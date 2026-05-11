@@ -6,6 +6,7 @@ longitude: 141.9956
 title: Rainbow
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Rainbow is a small wheat-belt town in Victoria's remote northwest Wimmera region, sitting on the edge of vast golden plains about 365 kilometres from Melbourne. It's a genuine outback town with a strong agricultural character, and a useful gateway to the nearby Wyperfeld National Park.

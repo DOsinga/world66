@@ -6,6 +6,7 @@ longitude: -2.759908
 title: Vannes
 type: location
 score: 0.59
+loc_type: city
 ---
 
 Vannes is one of the best-preserved medieval towns in Brittany, ringed by ramparts that drop down to formal gardens along the river Marle. The old town inside the walls is a tangle of half-timbered houses, cobbled lanes, and small squares, centred on the Cathédrale Saint-Pierre with its mix of Romanesque and Gothic stonework.

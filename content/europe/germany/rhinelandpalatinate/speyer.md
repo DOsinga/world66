@@ -8,6 +8,7 @@ longitude: 8.433615
 score: 0.56
 title: Speyer
 type: location
+loc_type: city
 ---
 
 Speyer is a small Rhine city with an outsized historical legacy. As a free city of the Holy Roman Empire from 1294 until 1779, it hosted over 50 imperial diets and was the seat of the Imperial Chamber Court. The Protestant Reformation itself takes its name from the "Protestation at Speyer" of 1529.

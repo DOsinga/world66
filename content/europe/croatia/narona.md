@@ -6,6 +6,7 @@ longitude: 17.6259
 title: Narona
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Narona, just outside Metković, is one of the oldest settlements on the eastern Adriatic coast. The Greek historian Theopompus — who traveled with Alexander the Great — mentioned it in the fourth century BC, which tells you something about how long this place has been on maps. The Romans later promoted it to the status of a colony and used it as a base for campaigning against rebellious tribes and the pirates who thrived among the islands. By the early centuries AD it was the commercial hub of the region.

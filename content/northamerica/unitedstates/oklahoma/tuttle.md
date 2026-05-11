@@ -6,6 +6,7 @@ longitude: -97.812266
 title: Tuttle
 type: location
 score: 0.27
+loc_type: city
 ---
 
 Tuttle is a small but fast-growing town southwest of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity), sitting along State Highway 37 in Grady County. Once a quiet farming community, it has become a bedroom community for people working in the metro area, though it still has the feel of a small Oklahoma town with wide streets and open sky.

@@ -1,0 +1,5 @@
+europe/greece/drama
+northamerica/unitedstates/newmexico/chaparral
+europe/belgium/mons
+europe/switzerland/martigny
+asia/india/maharashtra/panchgani

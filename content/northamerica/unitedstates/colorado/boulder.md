@@ -6,6 +6,7 @@ longitude: -105.270545
 done:
   location_cleanup: 2026-04-05
 score: 0.65
+loc_type: city
 ---
 
 Boulder is as beautiful as it is unique. Visitors here are treated to both a sensory and cultural treat. We have 4 very distinct seasons, with a moderate to cold winter. The Boulderites motto is "if you don't like the weather, wait 5 minutes and it'll change". The moral: Always carry a jacket. 

@@ -6,6 +6,7 @@ longitude: 1.144041
 done:
   location_cleanup: 2026-04-04
 score: 0.55
+loc_type: city
 ---
 
 Salou is the Costa Daurada's biggest beach resort, a purpose-built holiday town on the Catalan coast about 100 km south of [Barcelona](/europe/spain/catalonia/barcelona). It draws a largely British and Northern European crowd with its nine sandy beaches, warm shallow water, and the massive PortAventura theme park just outside town.

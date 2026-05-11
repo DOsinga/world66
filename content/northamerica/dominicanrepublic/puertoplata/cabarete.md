@@ -6,6 +6,7 @@ longitude: -70.513
 title: Cabarete
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Cabarete is one of the top kitesurfing and windsurfing destinations in the Caribbean, a laid-back beach town on the north coast of the [Dominican Republic](/northamerica/dominicanrepublic). Consistent trade winds, warm water, and low prices have turned it into an international hub for wind sports, with a lively scene of riders, schools, and beachfront bars.

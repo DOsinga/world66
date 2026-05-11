@@ -6,6 +6,7 @@ longitude: 118.743819
 title: Puerto Princesa
 type: location
 score: 0.68
+loc_type: city
 ---
 
 Puerto Princesa is the capital of [Palawan](/asia/philippines/palawan), consistently ranked among the cleanest cities in the Philippines. It is the gateway to some of the country's most spectacular natural attractions, including the Puerto Princesa Subterranean River, a UNESCO World Heritage Site that winds through an underground cave system for over 8 km.

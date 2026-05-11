@@ -6,6 +6,7 @@ longitude: 106.8158
 score: 0.3
 title: Depok
 type: location
+loc_type: city
 ---
 
 Depok is a sprawling satellite city wedged between [Jakarta](/asia/indonesia/java/jakarta) to the north and [Bogor](/asia/indonesia/java/bogor) to the south. It is primarily known as the home of the University of Indonesia (UI), whose large, leafy campus with its lake and surrounding parkland is the most pleasant green space in the area. Most travellers pass through on the KRL commuter train that runs between Jakarta and Bogor's famous Botanical Gardens.

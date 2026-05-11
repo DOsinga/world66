@@ -6,6 +6,7 @@ longitude: 8.115849
 title: Zuccarello
 type: location
 score: 0.43
+loc_type: city
 ---
 
 A fortified medieval town in the valley of the

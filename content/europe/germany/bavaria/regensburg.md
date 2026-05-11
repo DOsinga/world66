@@ -7,6 +7,7 @@ longitude: 12.0975
 score: 0.66
 title: Regensburg
 type: location
+loc_type: city
 ---
 
 Regensburg is one of Germany's best-preserved medieval cities, a UNESCO World Heritage Site on the Danube in eastern Bavaria. For over 600 years — from 1245 until Napoleon arrived in 1803 — it was a free imperial city and a prosperous trading centre. Unlike most German cities, it came through the Second World War largely unscathed, leaving an extraordinary concentration of medieval and early-modern architecture intact.

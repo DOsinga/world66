@@ -6,6 +6,7 @@ longitude: -73.836238
 title: Sainte-Therese
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Sainte-Thérèse is a small city on the North Shore of [Montreal](/northamerica/canada/quebec/montreal), about 30 kilometres northwest of downtown. Part of the Laurentides region, it sits at the edge of the suburban sprawl where the landscape starts transitioning toward the Laurentian hills. The town has a lively main street with cafes, bakeries, and a few good restaurants, and the Séminaire de Sainte-Thérèse, a historic college founded in 1825, gives the centre a bit of old-Quebec charm.

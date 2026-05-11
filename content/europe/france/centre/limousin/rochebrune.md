@@ -6,6 +6,7 @@ longitude: 5.245032
 title: Rochebrune
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Rochebrune is a tiny hamlet in the Charente countryside, halfway between [Limoges](/europe/france/centre/limousin/limoges) and Poitiers. The main draw is the Chateau de Rochebrune, seat of the Lords of Chabanais since the 11th century, set in woodland that makes this part of France feel a long way from anywhere. The castle is privately owned but occasionally opens for visits during the Journees du Patrimoine in September.

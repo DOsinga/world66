@@ -6,6 +6,7 @@ longitude: -95.969012
 title: Okmulgee
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Okmulgee is the capital of the Muscogee (Creek) Nation, a distinction that gives this small city of about 13,000 people an outsized cultural significance. The **Creek Council House Museum** downtown occupies the 1878 Creek national capitol building and traces the tribe's history from the Southeast through the Trail of Tears to Indian Territory. The Muscogee Nation's modern government complex is also located here.

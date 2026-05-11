@@ -6,6 +6,7 @@ longitude: 30.887501
 title: KwaZulu-Natal
 type: location
 score: 0.61
+loc_type: city
 ---
 
 KwaZulu-Natal is South Africa's most geographically varied province, stretching from the warm Indian Ocean coast up through the Natal Midlands to the high peaks of the [Drakensberg](/africa/southafrica/drakensberg). It is also historically the heartland of the Zulu nation, and that history is present everywhere.

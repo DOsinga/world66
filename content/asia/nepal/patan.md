@@ -6,6 +6,7 @@ longitude: 85.3166
 title: Patan
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Patan lies just a few kilometres south of [Kathmandu](/asia/nepal/kathmandu), separated by the Bagmati River — though the two cities are fast growing into one. Officially known as Lalitpur ("City of Beauty"), Patan is quieter and more walkable than its neighbour, with a centuries-old tradition of metalwork and handicrafts that still shapes its streets.

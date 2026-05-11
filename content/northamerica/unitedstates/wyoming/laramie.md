@@ -6,6 +6,7 @@ longitude: -105.591788
 title: Laramie
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Laramie sits at 7,200 feet on the high plains of southeastern Wyoming, a university town with a frontier past and more character than you would expect from a place this small. The University of Wyoming gives it a lively feel — good coffee shops, a decent bookstore, and a surprisingly strong art museum on campus.

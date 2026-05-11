@@ -18,6 +18,7 @@ quick_facts:
   Total Land Area: "26 km²"
   Highest Point: "4.6 metres above sea level"
 score: 0.44
+loc_type: country
 ---
 
 Tuvalu is one of the world's smallest and most remote nations — nine coral atolls scattered across the central Pacific, with a total land area of just 26 square kilometres and a population of around 11,000. It is also, almost certainly, the most endangered country on earth. Sea levels are rising at roughly five millimetres per year here, faster than the global average, and much of Tuvalu sits less than two metres above the tide. The question of whether the country will still exist in its current form by the end of this century is not abstract; it shapes politics, identity, and daily life.

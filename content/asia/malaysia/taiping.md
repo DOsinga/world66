@@ -6,6 +6,7 @@ longitude: 100.7378
 score: 0.51
 title: Taiping
 type: location
+loc_type: city
 ---
 
 Taiping was the capital of Perak before Ipoh took over, and it still carries itself with quiet dignity. This is one of the wettest towns in Peninsular Malaysia, and all that rain has made the Lake Gardens — the country's oldest public garden, laid out in 1880 on the site of an abandoned tin mine — impossibly lush, with rain trees so old their canopies touch across the paths.

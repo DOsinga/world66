@@ -10,6 +10,7 @@ image: vichy.jpg
 image_source: https://commons.wikimedia.org/wiki/File:0_1345_Mairie_de_Vichy_-_Rathaus_von_Vichy.jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
+loc_type: city
 ---
 
 Vichy occupies a peculiar and layered position in French consciousness. It is, on one hand, a handsome Belle Époque spa town on the Allier river, full of grand hotels, ornate casinos, and manicured parks built to accommodate the fashionable patients who came to take the waters in the nineteenth century. On the other, it is the city whose name became synonymous with collaboration: from 1940 to 1944 the resort's hotels served as government ministries, and the regime that operated here passed some of the darkest legislation in French history. Both realities coexist in the same streets, and the city has in recent decades worked seriously to confront rather than suppress the second.

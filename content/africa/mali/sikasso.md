@@ -6,6 +6,7 @@ longitude: -6.866326
 title: Sikasso
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Sikasso is Mali's second-largest city, in the far south near the borders with Burkina Faso and Côte d'Ivoire. It sits in one of the greenest parts of Mali — the Sikasso region is relatively wet by Sahelian standards and produces mangoes, cotton, and vegetables.

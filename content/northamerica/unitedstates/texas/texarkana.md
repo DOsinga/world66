@@ -6,6 +6,7 @@ longitude: -94.077148
 title: Texarkana
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Texarkana is two cities sharing one name — one in Texas, one in Arkansas — divided by State Line Avenue running through the heart of downtown. The oddity is literal: the Federal Building and Post Office straddles the state line, making it the only post office in the country that sits in two states at once.

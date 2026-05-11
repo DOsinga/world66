@@ -6,6 +6,7 @@ longitude: 8.946949
 score: 0.53
 title: Arendal
 type: location
+loc_type: city
 ---
 
 Arendal is a small coastal town on [Norway's](/europe/norway) southern shore, the kind of place Norwegians head to in summer for wooden boats, white-painted houses, and island-hopping in the Raet archipelago. The old town, Tyholmen, sits on a cluster of islands connected by bridges, its 17th- and 18th-century timber buildings packed tightly together along narrow lanes.

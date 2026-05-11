@@ -8,6 +8,7 @@ longitude: 83.991402
 score: 0.73
 title: Pokhara
 type: location
+loc_type: city
 ---
 
 If Kathmandu is Nepal's cultural hub, Pokhara is its centre of adventure. The country's second city spreads along the shore of **Phewa Lake** in a tranquil valley ringed by forested hills, with the snow wall of the **Annapurnas** and the perfect fish-tail summit of **Machhapuchhre** (6,993 m) rising improbably behind, seemingly close enough to touch. It is one of the most beautiful settings of any town on earth.

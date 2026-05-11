@@ -10,6 +10,7 @@ longitude: 7.038894
 title: Onstwedde
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Onstwedde is a village about 30 kilometres south-east of Groningen, with a history stretching back more than 1,100 years. In early documents it appears as Uneswido — a name that already hints at how old this quiet corner of Groningen really is.

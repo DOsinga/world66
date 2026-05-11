@@ -8,6 +8,7 @@ longitude: 166.442419
 score: 0.62
 title: Nouméa
 type: location
+loc_type: city
 ---
 
 Nouméa, the capital of New Caledonia, is an unlikely Pacific capital — a surprisingly European town of around 100,000 people wrapped around a string of bays on the southwestern tip of the main island of Grande Terre. French bakeries, yachts in every harbour, and Kanak traditional art sitting next to colonial architecture give it a feel unlike anywhere else in the Pacific.

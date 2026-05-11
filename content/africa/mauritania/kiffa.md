@@ -6,6 +6,7 @@ longitude: -11.4002
 title: Kiffa
 type: location
 score: 0.21
+loc_type: city
 ---
 
 Kiffa is a desert town on the Route de l'Espoir, roughly halfway between Nouakchott and Nema in southern Mauritania. Most travellers pass through on the long east-west crossing, but it is worth a stop rather than just a fuel break.

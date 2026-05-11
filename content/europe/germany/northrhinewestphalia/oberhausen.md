@@ -6,6 +6,7 @@ longitude: 6.851444
 score: 0.38
 title: Oberhausen
 type: location
+loc_type: city
 ---
 
 Oberhausen is an industrial city in the Ruhr, wedged between [Essen](/europe/germany/northrhinewestphalia/essen) and [Duisburg](/europe/germany/northrhinewestphalia/duisburg). Like its neighbours, it grew rich on coal and steel and spent the late 20th century figuring out what to do after the mines closed. The answer, in Oberhausen's case, was shopping and industrial heritage.

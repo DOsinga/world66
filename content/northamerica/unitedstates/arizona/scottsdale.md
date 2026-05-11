@@ -6,6 +6,7 @@ longitude: -111.926018
 done:
   location_cleanup: 2026-04-07
 score: 0.57
+loc_type: city
 ---
 
 Scottsdale sits on the eastern edge of the Phoenix metropolitan area, separated from its neighbor by manicured golf courses and the sharp geometry of the Sonoran Desert. It is one of the American Southwest's most polished resort towns — a place of pink-hued sunsets, art galleries, upscale spas, and the kind of outdoor lifestyle that draws sun-seekers from across the country.

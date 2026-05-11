@@ -8,6 +8,7 @@ longitude: 104.279829
 score: 0.53
 title: Irkutsk
 type: location
+loc_type: city
 ---
 
 **Irkutsk** is located 60km East of the world famous *Lake Baikal*. It is administrative centre of Irkutsk oblast (province) in the east-central Russia. The city lies along the Angara River at its confluence with the Irkut River. More than 750,000 people live in this city surrounded by natural beauty. Gorgeous birch forests link urban center to its residential area giving a kind of resort feeling to Irkutsk. 

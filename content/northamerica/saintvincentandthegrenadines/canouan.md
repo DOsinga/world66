@@ -6,6 +6,7 @@ longitude: -61.33
 title: Canouan
 type: location
 score: 0.62
+loc_type: city
 ---
 
 Canouan is a small island in the southern Grenadines, about five kilometres long and blessed with some of the finest beaches in the Caribbean. A barrier reef wraps around the Atlantic side, creating calm turquoise lagoons, while the hills in the centre rise steeply enough to offer views across to [Mustique](/northamerica/saintvincentandthegrenadines/mustique) and the Tobago Cays.

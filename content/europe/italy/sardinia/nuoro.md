@@ -7,6 +7,7 @@ longitude: 9.3268
 score: 0.52
 title: Nuoro
 type: location
+loc_type: city
 ---
 
 Nuoro is the real Sardinia. Tucked into the mountainous heartland of the island, far from the coastal resorts, it is the capital of the Barbagia — a rugged interior region where Sardo is still spoken, traditional festivals survive intact, and the landscape has a spare, almost austere beauty.

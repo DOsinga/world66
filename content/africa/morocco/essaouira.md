@@ -8,6 +8,7 @@ longitude: -9.7595
 score: 0.63
 title: Essaouira
 type: location
+loc_type: city
 ---
 
 Essaouira is the most relaxed town on Morocco's Atlantic coast — a fortified medina of whitewashed houses with blue shutters, an unbroken sweep of sandy beach, and a steady wind that has made it one of Africa's best windsurf and kitesurf spots. Marrakech sends its overheated visitors here in summer to breathe; Casablancans come for the seafood and the calm. The medina is a UNESCO World Heritage site and small enough to learn in an afternoon.

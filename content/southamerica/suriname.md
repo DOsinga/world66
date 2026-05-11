@@ -9,6 +9,7 @@ quick_facts:
   Forest Cover: "93% tropical rainforest"
   Official Language: Dutch — unique in South America
 score: 0.47
+loc_type: country
 ---
 
 Suriname is a small country in South America that borders on [French Guiana](/southamerica/frenchguiana), [Guyana](/southamerica/guyana) and [Brazil](/southamerica/brazil).

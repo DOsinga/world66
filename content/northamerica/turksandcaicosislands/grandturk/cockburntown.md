@@ -6,6 +6,7 @@ longitude: -71.139
 done:
   location_cleanup: 2026-04-10
 score: 0.55
+loc_type: city
 ---
 
 Cockburn Town is the sleepy administrative capital of the Turks and Caicos Islands, spread along the western shore of Grand Turk. Despite its status as the country's seat of government, it feels less like a capital than a well-preserved colonial village — which is precisely its appeal.

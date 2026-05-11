@@ -6,6 +6,7 @@ longitude: 54.665719
 title: Yazd
 type: location
 score: 0.61
+loc_type: city
 ---
 
 Yazd is one of the oldest continuously inhabited cities in the world, set in the desert between Isfahan and Kerman. It has played a role in Persian history for millennia but never made it to imperial capital — which may be why its old city has survived so well. The mud-brick labyrinth of lanes, domed roofs, and badgirs (wind towers) was recognised as a UNESCO World Heritage Site in 2017.

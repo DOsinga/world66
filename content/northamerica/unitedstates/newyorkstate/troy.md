@@ -6,6 +6,7 @@ longitude: -73.6918
 title: Troy
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Troy is a former industrial powerhouse on the banks of the Hudson River, about ten miles north of Albany. In the 19th century it was one of the wealthiest cities in America, built on iron and steel manufacturing, and the legacy of that era is still visible in the downtown's collection of brownstones, mansions, and civic buildings — beautiful in a slightly melancholy way.

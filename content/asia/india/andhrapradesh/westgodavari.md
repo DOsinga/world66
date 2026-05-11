@@ -6,6 +6,7 @@ longitude: 81.5885
 title: West Godavari
 type: location
 score: 0.27
+loc_type: city
 ---
 
 West Godavari is a district in [Andhra Pradesh](/asia/india/andhrapradesh) centred on the fertile delta of the Godavari River as it fans out toward the Bay of Bengal. It is one of the most productive rice-growing regions in India, and the landscape is lush and green — a network of canals, palm groves, and temple towns quite different from the drier interior.

@@ -8,6 +8,7 @@ longitude: 11.967017
 score: 0.59
 title: Gothenburg
 type: location
+loc_type: city
 ---
 
 Gothenburg is Sweden's second city and has a character quite different from [Stockholm](/europe/sweden/stockholm). Founded in 1621 and built by Dutch immigrants, it still has gabled houses and an Amsterdam-style canal around the old centre. The harbour -- Sweden's only one that does not freeze in winter -- remains central to the city's identity and atmosphere.

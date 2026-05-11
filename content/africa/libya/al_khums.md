@@ -6,6 +6,7 @@ longitude: 14.26801
 title: Al Khums
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Al Khums is a small coastal town about 130 km east of [Tripoli](/africa/libya/tripoli), and for most visitors it exists for one reason: [Leptis Magna](/africa/libya/leptismagna), the spectacular Roman city just 3 km to the east. As the nearest town to arguably the best-preserved Roman ruins in the Mediterranean, Al Khums serves as the practical base for anyone visiting the site.

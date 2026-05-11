@@ -6,6 +6,7 @@ longitude: -1.121085
 score: 0.36
 title: Gosport
 type: location
+loc_type: city
 ---
 
 Gosport sits across the harbour from [Portsmouth](/europe/unitedkingdom/england/portsmouth) and shares its naval heritage without the crowds. The town is home to the Royal Navy Submarine Museum, where you can tour HMS Alliance, a Cold War-era submarine preserved in remarkable detail. Explosion, the Museum of Naval Firepower, occupies a former armaments depot on the waterfront.

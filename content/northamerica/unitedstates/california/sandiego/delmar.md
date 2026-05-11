@@ -6,6 +6,7 @@ longitude: -117.265315
 title: Del Mar
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Del Mar is a small, affluent beach community on the coast north of [San Diego](/northamerica/unitedstates/california/sandiego). The wide sandy beach draws sun-worshippers year-round, and in winter migrating California grey whales can be spotted from the bluffs.

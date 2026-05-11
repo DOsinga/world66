@@ -6,6 +6,7 @@ longitude: 29.025
 title: Asian Side (Kadıköy)
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Istanbul is famously spread across two continents, and crossing the Bosphorus from the European shore to the Asian side is more than a ferry ride — it is a genuine shift in character. The slogan Istanbul used when bidding for the 2000 Olympics was *"Meet where the continents meet,"* and the difference between the two halves of the city runs deeper than geography.

@@ -6,6 +6,7 @@ longitude: -107.97
 title: El Malpais
 type: location
 score: 0.47
+loc_type: city
 ---
 
 El Malpais means "the badlands," but this national monument near [Grants](/northamerica/unitedstates/newmexico/grants) is full of surprises. Lava flows, cinder cones, pressure ridges, and lava tube cave systems up to 17 miles long dominate a landscape that looks genuinely alien — jet-black basalt fields broken only by the occasional ponderosa pine that found a foothold in the rock. Sandstone bluffs and mesas line the eastern edge, giving the whole scene a layered drama that photographs cannot quite capture.

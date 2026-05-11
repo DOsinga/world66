@@ -10,6 +10,7 @@ image: colmar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg
 image_license: CC BY 2.0
 image_attribution: Jorge Franganillo from Barcelona, Spain
+loc_type: city
 ---
 
 Colmar sits in the heart of the Alsatian vineyards and is one of the most photogenic small cities in France. Its historic centre is a vast pedestrian zone of medieval half-timbered houses with carved gables, painted shutters, and doors adorned with lavish woodwork — the kind of place that looks almost too perfect to be real.

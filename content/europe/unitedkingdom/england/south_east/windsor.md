@@ -6,6 +6,7 @@ longitude: -0.604042
 score: 0.63
 title: Windsor
 type: location
+loc_type: city
 ---
 
 Windsor exists because of its castle, and the castle is reason enough to come. Windsor Castle is the oldest and largest occupied castle in the world, a royal residence for nearly a thousand years, and it dominates the town from every angle. The State Apartments, St George's Chapel (where Henry VIII is buried alongside Charles I and Jane Seymour), and the changing of the guard are all worth your time.

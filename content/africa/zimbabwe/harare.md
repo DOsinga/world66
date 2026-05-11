@@ -8,6 +8,7 @@ longitude: 31.060158
 score: 0.43
 title: Harare
 type: location
+loc_type: city
 ---
 
 Harare is Zimbabwe’s capital and largest city, set at about 1,500 metres on the central plateau. It has been through very difficult times — hyperinflation, political repression, economic collapse — and the city shows the scars. But it remains a surprisingly green and pleasant place, with wide tree-lined avenues, parks, and a more relaxed atmosphere than you might expect.

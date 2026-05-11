@@ -1,0 +1,5 @@
+northamerica/canada/britishcolumbia/hope
+europe/finland/kajaani
+asia/philippines/cagayan_de_oro_city
+asia/lebanon/tyre
+australiaandpacific/northernmarianaislands/saipan

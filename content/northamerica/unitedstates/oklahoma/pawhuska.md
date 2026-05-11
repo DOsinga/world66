@@ -6,6 +6,7 @@ longitude: -96.340121
 title: Pawhuska
 type: location
 score: 0.34
+loc_type: city
 ---
 
 Pawhuska is the capital of the Osage Nation and the county seat of Osage County, the largest county in Oklahoma. Set in the rolling tallgrass prairie of north-central Oklahoma, it is a small town with a big story. David Grann's *Killers of the Flower Moon* brought international attention to the Osage Reign of Terror of the 1920s, when Osage people were systematically murdered for their oil wealth. Martin Scorsese's film adaptation, shot partly in and around Pawhuska, further raised the town's profile.

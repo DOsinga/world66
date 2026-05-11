@@ -16,6 +16,7 @@ quick_facts:
   Saunas: "3.3 million (1 per household)"
   Forest Cover: "73% of land area"
 score: 0.66
+loc_type: country
 ---
 
 Finland is a country of forest, lakes, and space. With 338,000 square kilometres and a population of just 5.5 million, it has more room per person than almost anywhere in Europe. Two-thirds of the country is covered by boreal forest. There are around 188,000 lakes. A third of Finland lies north of the Arctic Circle.

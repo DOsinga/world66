@@ -7,6 +7,7 @@ longitude: 8.4829
 score: 0.31
 title: Riedstadt
 type: location
+loc_type: city
 ---
 
 Riedstadt is a federation of five once-independent communities — Goddelau, Crumstadt, Erfelden, Leeheim, and Wolfskehlen — spread across the flat Hessian Ried plain south of [Darmstadt](/europe/germany/hessen/darmstadt). It is not a tourist destination in the conventional sense, but nature lovers and birdwatchers will find a compelling reason to visit: the Kuhkopf-Knoblochsaue nature reserve, the largest protected area in Hessen, lies just across the Rhine.

@@ -1,0 +1,5 @@
+asia/pakistan/khanpur_mahar
+northamerica/unitedstates/oregon/grantspass
+asia/nepal/lalitpur
+northamerica/jamaica/portroyal
+europe/italy/liguria/italianriviera/rivieradellepalme/osiglia

@@ -8,6 +8,7 @@ tags:
 - langley
 title: Museum
 type: location
+loc_type: feature
 ---
 
 The Fort Langley area, in the eastern reaches of Greater [Vancouver](/northamerica/canada/britishcolumbia/vancouver), has a cluster of heritage sites that tell the story of British Columbia's earliest European settlement. Fort Langley National Historic Site, run by Parks Canada, is the most important. This restored Hudson's Bay Company trading post is where the Crown Colony of British Columbia was proclaimed in 1858, and the costumed interpreters and reconstructed buildings give a vivid sense of the fur trade era.

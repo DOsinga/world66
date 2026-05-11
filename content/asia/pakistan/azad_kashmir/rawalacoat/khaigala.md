@@ -6,6 +6,7 @@ longitude: 73.845556
 title: Khaigala
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Khaigala is a small hill town on the road between Rawalakot and [Hajira](/asia/pakistan/azad_kashmir/hajira), sitting at a higher elevation than the valley settlements below. Most travellers pass through rather than stay, but the bazaar makes for a natural stopping point — tea stalls line the road, and you can pick up basic provisions and snacks for onward travel.

@@ -16,6 +16,7 @@ quick_facts:
   Vatican Museums: "54 galleries, 70,000+ works"
   Annual Visitors: "~5 million to the Museums alone"
 score: 0.82
+loc_type: country
 ---
 
 Vatican City is the world's smallest independent state — 44 hectares enclosed within Rome, home to around 800 people and one of the most visited sites on the planet. It is the seat of the Roman Catholic Church and the residence of the Pope, and everything within its walls reflects that singular purpose: St. Peter's Basilica, the Sistine Chapel, the Vatican Museums, and the Apostolic Palace are all here, packed into a space you can walk across in fifteen minutes.

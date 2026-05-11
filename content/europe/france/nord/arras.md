@@ -8,6 +8,7 @@ longitude: 2.7772
 score: 0.52
 title: Arras
 type: location
+loc_type: city
 ---
 
 Arras is a small city with an outsized sense of place. Its centrepiece is one of the finest Flemish baroque ensembles in France: two vast cobblestone squares — the Grand'Place and the Place des Héros — ringed by tall gabled facades in honey-coloured stone. It is a deeply French town that looks conspicuously Flemish, a quirk of history that gives it a character unlike anywhere else in the region.

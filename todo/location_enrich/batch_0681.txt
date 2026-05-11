@@ -1,0 +1,5 @@
+europe/faroeislands/torshavn
+africa/madagascar/fianarantsoa
+northamerica/unitedstates/northcarolina/greensboro
+africa/algeria/insalah
+europe/unitedkingdom/england/birmingham_and_west_midlands/warwick

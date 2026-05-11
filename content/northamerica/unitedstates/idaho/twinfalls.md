@@ -4,6 +4,7 @@ longitude: -114.470068
 score: 0.47
 title: Twin Falls
 type: location
+loc_type: city
 ---
 
 Twin Falls sits on the rim of the Snake River Canyon in south-central Idaho, and the scenery here is genuinely dramatic. Shoshone Falls, just east of town, drops 212 feet, making it higher than Niagara, and on a spring day with full water flow it is spectacular. The falls are best visited between April and July before irrigation draws down the river level. There is a modest park entrance fee, and the viewing platforms give you a good look at the whole cascade.

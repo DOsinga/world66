@@ -1,0 +1,5 @@
+australiaandpacific/australia/victoria/morwell
+europe/france/centre/auvergne/pontgibaud
+europe/germany/northrhinewestphalia/dusseldorf
+australiaandpacific/guam/merizo
+europe/italy/liguria/italianriviera/finaleligure

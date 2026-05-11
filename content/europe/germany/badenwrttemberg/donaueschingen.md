@@ -4,6 +4,7 @@ longitude: 8.495926
 score: 0.45
 title: Donaueschingen
 type: location
+loc_type: city
 ---
 
 Donaueschingen claims the title of the source of the Danube, and while geographers might quibble about whether the river really begins here or a few kilometers upstream where the Breg and Brigach rivers merge, the town has made the most of the claim. The Donauquelle, a circular spring in the grounds of the Fürstenberg Palace, is dressed up with an allegorical sculpture and is the most-photographed spot in town. From this modest beginning, the Danube flows 2,850 kilometers to the Black Sea, passing through ten countries along the way.

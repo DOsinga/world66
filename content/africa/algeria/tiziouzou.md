@@ -6,6 +6,7 @@ longitude: 4.049392
 title: Tizi-ouzou
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Tizi Ouzou is the capital of the Kabyle region. This region is inhabited by Imazighen also known as Berbers. They have always resisted Arab domination and continue to do so up this very day. French is still spoken almost everywhere in Tizi Ouzou, arabic less so. 

@@ -6,6 +6,7 @@ longitude: -101.878113
 title: Michoacán
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Michoacán is a large state in western [Mexico](/northamerica/mexico), running from the Pacific coast up into the highlands of the central plateau. It is one of the most culturally rich states in the country, with a strong indigenous Purépecha heritage, colonial towns, and some of Mexico's most dramatic natural spectacles.

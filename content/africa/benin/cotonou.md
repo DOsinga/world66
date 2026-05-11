@@ -6,6 +6,7 @@ longitude: 2.4253
 done:
   location_cleanup: 2026-04-07
 score: 0.36
+loc_type: city
 ---
 
 Cotonou is the most important city of Benin. [Porto novo](/africa/benin/portonovo) is the official capital, but in economic activity Cotonou takes the first place. It is the place to arrange your visa and onward transport.

@@ -6,6 +6,7 @@ longitude: -8.392268
 title: Carrigaline
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Carrigaline is a growing commuter town about 15 km south of [Cork](/europe/ireland/cork) city, sitting on the Owenboy River estuary. It is not a major tourist destination in its own right, but it is a convenient base for reaching the coast at Crosshaven and the beaches around Cork Harbour.

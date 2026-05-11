@@ -6,6 +6,7 @@ longitude: 10.280432
 title: Sandefjord
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Sandefjord is a small coastal town in Vestfold, about 120 km south of [Oslo](/europe/norway/oslo). It was once the whaling capital of Norway — the Whaling Museum in the centre tells that story well — and the town still has a maritime character, with a harbour, marina, and pleasant waterfront.

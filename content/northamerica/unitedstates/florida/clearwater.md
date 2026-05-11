@@ -6,6 +6,7 @@ longitude: -82.800103
 title: Clearwater
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Clearwater sits on Florida's Gulf Coast, just west of Tampa, and is best known for its beaches. Clearwater Beach, on a barrier island connected by a causeway, consistently ranks among the best in the United States: wide stretches of fine white sand, calm turquoise water, and reliable sunshine that draws everyone from spring breakers to snowbirds.

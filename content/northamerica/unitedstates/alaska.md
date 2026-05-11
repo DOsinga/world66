@@ -6,6 +6,7 @@ longitude: -149.680909
 score: 0.7
 title: Alaska
 type: location
+loc_type: region
 ---
 
 Alaska is the wild edge of the United States — a state larger than Texas, California, and Montana combined, with a population smaller than most American cities. Scale is the first thing that surprises visitors. The road system barely touches the interior; more than 80% of Alaskan communities are not connected to anywhere by road at all. You reach them by bush plane, boat, or snowmobile.

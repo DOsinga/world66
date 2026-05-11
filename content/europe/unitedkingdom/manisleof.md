@@ -6,6 +6,7 @@ longitude: -4.5481
 title: Isle of Man
 type: location
 score: 0.58
+loc_type: region
 ---
 
 The Isle of Man sits in the Irish Sea, roughly equidistant from England, Ireland, Scotland and Wales. It is a self-governing Crown dependency with its own parliament, Tynwald, which has been running continuously since 979 AD -- one of the oldest legislative bodies in the world.

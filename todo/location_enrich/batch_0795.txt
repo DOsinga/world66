@@ -1,0 +1,5 @@
+australiaandpacific/australia/queensland/brisbane
+europe/france/normandybrittany/mesnilval
+europe/switzerland/adelboden
+australiaandpacific/newzealand/north_island/greater_wellington/wellington
+southamerica/ecuador/montanita

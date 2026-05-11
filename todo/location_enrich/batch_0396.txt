@@ -1,0 +1,5 @@
+southamerica/argentina/corrientes
+northamerica/canada/quebec/pointeclaire
+europe/croatia/postup_the_villag
+europe/portugal/coimbra
+europe/belgium/spa

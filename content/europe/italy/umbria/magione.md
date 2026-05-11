@@ -6,6 +6,7 @@ longitude: 12.2035
 title: Magione
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Magione is a quiet Umbrian town on the eastern shore of Lake Trasimeno, about 20 kilometres west of Perugia. It is not a major destination, but it earns its place on the map: the lakeside setting is lovely, and the town has genuine medieval bones.

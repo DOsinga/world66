@@ -13,6 +13,7 @@ quick_facts:
   Coastline: "1,650 km"
   Oil Producer: "2nd in Africa"
 score: 0.27
+loc_type: country
 ---
 
 Angola is one of Africa's most striking and least visited countries. It has the oil wealth of a Gulf state, the colonial architecture of Portugal, the wildlife of East Africa, and the beaches of Brazil -- yet almost no tourists. Decades of civil war kept the country closed until 2002, and the aftereffects still shape the experience of traveling here. Infrastructure is improving fast, but Angola remains expensive, bureaucratic, and rough around the edges. That is part of its appeal.

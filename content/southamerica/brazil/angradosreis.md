@@ -6,6 +6,7 @@ longitude: -44.2345
 done:
   location_cleanup: 2026-04-06
 score: 0.6
+loc_type: city
 ---
 
 Angra dos Reis sits on a spectacular stretch of Brazil's Green Coast, surrounded by hundreds of islands and countless beaches. The town itself is not the main attraction — it is the jumping-off point for [Ilha Grande](/southamerica/brazil/ilhagrande) and the dozens of smaller islands scattered across the bay, many of them fringed with white sand and accessible only by boat.

@@ -6,6 +6,7 @@ longitude: -86.1584
 title: Indianapolis
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Indianapolis is the capital of Indiana and the self-proclaimed amateur sports capital of the United States. To most outsiders it means one thing — the Indy 500 — but the city has more going on than the speedway. The downtown is compact and walkable, with Monument Circle at its heart, and there is a genuine cultural scene anchored by one of the best children's museums in the world.

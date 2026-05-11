@@ -5,6 +5,7 @@ latitude: -8.597
 longitude: 31.234
 title: Kalambo Falls
 type: location
+loc_type: city
 ---
 
 Kalambo Falls drops 221 metres over a single sheer cliff on the Kalambo River, which forms the border between Zambia and Tanzania at the southern end of Lake Tanganyika. It is the second highest uninterrupted waterfall in Africa, and one of the least visited major falls on the continent — which is precisely why it is worth the effort.

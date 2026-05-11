@@ -12,6 +12,7 @@ longitude: -75.544167
 score: 0.73
 title: Cartagena
 type: location
+loc_type: city
 ---
 
 Cartagena (pop. 888 000) the most popular tourist resort town in Colombia is divided into two main parts: the Ciudad Antigua (Old City) and the Ciudad Nueva (New City). Cartagnea used to be a popular placefor the privateers of the Caribbean (the most famous being Sir Francis Drake), so the Spanish have invested heavily in thick walls to protect the important harbour from attacks. 

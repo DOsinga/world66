@@ -6,6 +6,7 @@ longitude: 4.8662
 title: Namur
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Namur sits at the confluence of the Sambre and the Meuse, a strategic position that made it one of the most contested cities in the Low Countries for centuries. The massive Citadel looming over the rivers is the main reminder of that history — you can walk the ramparts for views over the city and the wooded valleys below.

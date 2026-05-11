@@ -6,6 +6,7 @@ longitude: -105.3822
 title: Douglas
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Douglas is a small Wyoming ranching town on the North Platte River, known for two things: the Wyoming State Fair, held here every August, and the Jackalope. The mythical antlered jackrabbit was "invented" here in the 1930s by a local taxidermist, and Douglas has embraced the joke ever since — there is a giant Jackalope statue in the centre of town and the Chamber of Commerce issues official Jackalope hunting licenses.

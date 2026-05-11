@@ -6,6 +6,7 @@ longitude: -73.3124
 title: Stockbridge
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Stockbridge is a tiny Berkshires village near the New York State line -- basically a single block of Main Street at a T-junction -- but it punches well above its weight.

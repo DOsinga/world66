@@ -6,6 +6,7 @@ longitude: 76.214621
 title: Thrissur
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Thrissur is the cultural capital of Kerala, sitting roughly in the geographical centre of the state. The city is built around an oval hillock called the Thekkinkadu Maidan, crowned by the Vadakkunnathan Temple, one of the oldest Shiva temples in Kerala.

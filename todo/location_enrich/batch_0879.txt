@@ -1,0 +1,5 @@
+europe/germany/bavaria/rothenburg
+europe/unitedkingdom/northernireland/ballymena
+asia/turkmenistan/ashgabat
+europe/germany/bavaria/romanticroad/donauwrth
+australiaandpacific/australia/queensland/goldcoast/springbrook

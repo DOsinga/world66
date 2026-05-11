@@ -6,6 +6,7 @@ longitude: 73.6509
 done:
   location_cleanup: 2026-04-05
 score: 0.48
+loc_type: city
 ---
 
 The Kaghan Valley runs 155 kilometres north-east from Balakot in the Mansehra district of Khyber Pakhtunkhwa, climbing from the foothills at around 2,100 metres up to the 4,170-metre Babusar Pass at its head. It is one of the most accessible alpine valleys in Pakistan — four or five hours by road from Islamabad — and in summer it becomes a minor highway of Pakistani tourists heading for cool air, pine forests, and the turquoise lakes that give the valley its reputation.

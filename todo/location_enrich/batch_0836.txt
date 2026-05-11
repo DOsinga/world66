@@ -1,0 +1,5 @@
+asia/pakistan/hassan_abdal
+asia/kazakhstan/aqtau
+europe/unitedkingdom/england/eastern_england/norwich
+northamerica/jamaica/portantonio
+northamerica/greenland/narsaq

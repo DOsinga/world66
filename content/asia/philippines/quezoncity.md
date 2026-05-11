@@ -6,6 +6,7 @@ longitude: 121.048625
 title: Quezon City
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Quezon City is the largest city in Metro Manila by area and population, sprawling across the northern half of the Philippine capital region. Named after Manuel Quezon, the second president of the Philippines, it served as the national capital from 1948 to 1976 and still houses the Batasang Pambansa, the country's legislature.

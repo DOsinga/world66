@@ -12,6 +12,7 @@ longitude: 139.763895
 score: 0.96
 title: Tokyo
 type: location
+loc_type: city
 ---
 
 Tokyo is the largest city on earth and one of the most rewarding to visit: dense, efficient, safe, endlessly inventive in food and design, and capable of surprising you every few blocks. The scale is overwhelming at first — roughly 37 million people in the greater metropolitan area — but the city is organized around distinct neighbourhoods, each with its own character, and the subway system is good enough that you can move between them quickly.

@@ -6,6 +6,7 @@ longitude: -6.966
 title: Valdeorras
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Valdeorras is a wine region and comarca in the eastern end of Galicia's Ourense province, along the Sil and Xares river valleys. The DO Valdeorras covers the municipalities of O Barco, A Rúa, Vilamartín, O Bolo, Carballeda de Valdeorras, Larouco, Petín, and Rubiá.

@@ -6,6 +6,7 @@ longitude: 78.731572
 title: Pauri
 type: location
 score: 0.34
+loc_type: city
 ---
 
 Pauri is the administrative headquarters of Pauri Garhwal district, perched at around 1,650 metres on a ridge in the lower Himalayas. It is primarily a government town — the kind of place where the district collector's office and the court complex are the main landmarks — but the setting is spectacular. From the ridge, you get panoramic views of the snow-capped Himalayan peaks including Nanda Devi, Trishul, and Chaukhamba, and these are among the finest mountain vistas accessible by road in Garhwal.

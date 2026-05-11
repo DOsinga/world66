@@ -7,6 +7,7 @@ longitude: 120.293864
 score: 0.36
 title: Mangatarem
 type: location
+loc_type: city
 ---
 
 Mangatarem is a town in the southern part of Pangasinan province in the Philippines, its name derived from "mango" and "tarem" (knife). The town sits along the highway between Dagupan and the Hundred Islands, and is worth a stop for its hot springs and its colonial-era church.

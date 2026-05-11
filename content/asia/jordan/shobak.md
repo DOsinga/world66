@@ -6,6 +6,7 @@ longitude: 35.566664
 title: Shobak
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Shobak lies on the King's Highway between [Karak](/asia/jordan/karak) and [Petra](/asia/jordan/petra), about 250 km south of [Amman](/asia/jordan/amman). The reason to come is the Crusader castle — Montreal, as the Franks called it — built by Baldwin I of Jerusalem around 1115 and captured by Saladin in 1189 after a two-year siege.

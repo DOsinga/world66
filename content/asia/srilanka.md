@@ -15,6 +15,7 @@ quick_facts:
 done:
   country_cleanup: 2026-03-30
 score: 0.69
+loc_type: country
 ---
 
 Sri Lanka is an island of extraordinary variety. In the space of a few hours you can move from the frenetic energy of [Colombo](/asia/srilanka/colombo) to the cool mist of the Hill Country, from ancient ruined cities to beaches that go on for miles. It is a small country — about the size of Ireland — but it packs in more history, wildlife, and landscape than many places ten times its size.

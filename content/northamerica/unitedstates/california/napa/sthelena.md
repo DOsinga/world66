@@ -6,6 +6,7 @@ longitude: -122.47
 done:
   location_cleanup: 2026-04-07
 score: 0.5
+loc_type: city
 ---
 
 St. Helena is the heart of the Napa Valley wine country, a small town of around 6,000 people strung along a single Main Street about 30 minutes north of the city of Napa. It sits between vineyard-covered hillsides on both sides, and what makes it different from the other Napa towns is that no chain businesses are allowed — the downtown is a pleasant mix of independent restaurants, wine shops, and boutiques.

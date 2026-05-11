@@ -8,6 +8,7 @@ longitude: -81.379045
 score: 0.62
 title: Orlando
 type: location
+loc_type: city
 ---
 
 Orlando is the theme park capital of the world. Walt Disney World and Universal Orlando anchor a sprawling entertainment district south-west of the actual city, with SeaWorld, Gatorland, and a string of smaller attractions filling the gaps. On any given day there are more visitors inside the parks than there are residents of downtown Orlando.

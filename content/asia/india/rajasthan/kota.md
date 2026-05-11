@@ -6,6 +6,7 @@ longitude: 75.8648
 title: Kota
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Kota is an industrial city on the Chambal River, better known today as India's coaching capital -- hundreds of thousands of students come here each year to prepare for engineering and medical entrance exams. For travelers, it is mainly a transit point, but the City Palace and Jagmandir (a palace on an island in Kishore Sagar lake) are worth a stop if you are passing through.

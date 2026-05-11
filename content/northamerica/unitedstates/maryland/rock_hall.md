@@ -6,6 +6,7 @@ longitude: -76.234954
 title: Rock Hall
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Rock Hall is a small waterfront town on Maryland's Eastern Shore, facing west across the open Chesapeake Bay. It's the kind of place watermen have worked out of for generations — crabbing and oystering, with the occasional sailboat from Annapolis dropping anchor for the weekend.

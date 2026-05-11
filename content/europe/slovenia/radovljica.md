@@ -9,6 +9,7 @@ latitude: 46.3441
 longitude: 14.1746
 title: Radovljica
 type: location
+loc_type: city
 ---
 
 Radovljica is a small medieval town perched on a bluff above the Sava river in northwestern Slovenia, about 8 km from [Bled](/europe/slovenia/bled). Its main square, Linhartov trg, is one of the best-preserved medieval town centres in the country — a row of Gothic and Renaissance houses with painted facades and wrought-iron details.

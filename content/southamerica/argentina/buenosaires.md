@@ -8,6 +8,7 @@ longitude: -58.38879
 score: 0.73
 title: Buenos Aires
 type: location
+loc_type: city
 ---
 
 Buenos Aires likes to call itself the Paris of South America. It is more accurate to say that it is the most European of South American cities — and the least European of European ones. The architecture is Haussmann-adjacent, the politics baroque, the national self-image a combination of European pretension and Latin American melancholy, and the result is one of the more fascinating cities on the continent.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-11'
+image: valaam.jpg
+image_attribution: Alexxx1979
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lake_Ladoga._Valaam._Valaam_Monastery_P7202613_2200.jpg
 latitude: 61.388986
+loc_type: city
 longitude: 30.944978
+score: 0.42
 title: Valaam
 type: location
-score: 0.42
-loc_type: city
 ---
 
 Valaam is an archipelago of rocky wooded islands in the northern part of Lake Ladoga, Europe's largest lake, in the Russian Republic of Karelia. The main island gives its name to a famous Orthodox monastery founded in the 14th century — one of the most important in the Russian church.

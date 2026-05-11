@@ -2,43 +2,58 @@
 
 ## For each location
 
-1. **Read** the existing location file and all section/POI files to understand what's already there
+1. **Read** the existing location file and all section/POI files to understand what's already there.
 
-2. **Spam**
-   Scan the location for spam and bad structure. make sure that all the tags are in order, there's no
-   nonsense going on.
+2. **Spam / structure check.** Scan the location for spam, bad structure, and tag inconsistencies. Fix anything that's clearly wrong (mistyped section names, junk content, weird tags).
 
-3. **Fill out pois**
-   Important cities should have at least 50 pois. Mediumly important ones around 15 and even the smaller ones should
-   have some highlights. Use the tools/wiki_geosearch.py to fetch candidates from the wikipedia. Check the obscura
-   folder for inspiration on off the beaten track pois. Use your own knowledge or do a search to get to the number
-   of pois required.
+3. **Decide the POI target** for this city:
+   - Important city (capital, major destination): **at least 50 POIs**
+   - Medium importance (well-known city, common stop): **around 15 POIs**
+   - Smaller place: **the real highlights**, however many that is
 
-3. **Pois**
-   For each poi, make sure the description is long enough. Typically you want to have two paragraphs of description
-   at least, longer for things that are of true importance to travellers. Also make sure the pois have the right
-   tags. Check the coordinates using osm or search or against the wikisearch from the previous step
+4. **Gather POI candidates** from all three sources — don't skip any of them:
+   - `python3 tools/wiki_geosearch.py <lat> <lng> --radius 5000 --limit 25` — Wikipedia geo-tagged articles near the city
+   - `python3 tools/grep_obscura.py <country> <city>` — Atlas Obscura entries (off the beaten track)
+   - Your own knowledge or a web search to fill remaining gaps to the target
 
-3. **Add `story:` fields** to major sights with the `things_to_do` tag
-   - Specific, surprising, concise (2–4 sentences)
-   - Only add stories you know are accurate
+5. **Write POI files** at `content/<path>/<slug>.md` (flat — POIs live as siblings to the section files, not in section subdirectories, per LOCATIONS.md):
+   - Each POI: at least two paragraphs of body text; longer for major sights
+   - `tags:` includes the section tag (`things_to_do`, `eating_out`, etc.) and any category tags (`sight`, `museum`, `restaurant`, …)
+   - `latitude` and `longitude` set — cross-check coordinates against the Wikipedia search or OSM
+   - For major sights with the `things_to_do` tag, add a `story:` field — 2–4 sentences, specific, surprising, accurate
 
-4. **Add neighbourhood POIs** for large cities:
-   - 3–5 characterful districts as POIs with `tags: [things_to_do, neighbourhood]`
-   - Tag relevant POIs with the neighbourhood slug (e.g. `tags: [eating_out, de_pijp]`)
+6. **Add neighbourhood POIs** for large cities:
+   - 3–5 characterful districts as POIs with `type: neighbourhood` and `tags: [things_to_do, neighbourhood]`
+   - Tag the POIs that sit in that district with the neighbourhood slug (e.g. `tags: [eating_out, de_pijp]`)
 
-5. **Create missing sections** where they add value:
-   - `when_to_go.md`, `getting_there.md`, `getting_around.md` if absent
-   - `shopping.md`, `beaches.md`, `day_trips.md` where relevant
+7. **Create missing sections** where they add real value:
+   - `when_to_go.md`, `getting_there.md`, `getting_around.md` if absent and the city is worth covering
+   - `shopping.md`, `beaches.md`, `day_trips.md`, `books.md` where relevant
+   - Skip any section that would just be a stub — LOCATIONS.md says delete-empty-section beats placeholder text
 
-6. **Fill gaps in existing sections**:
-   - If a well-known attraction is missing from `things_to_do/`, add it
-   - If `eating_out/` or `bars_and_cafes/` is thin, add notable places
+8. **Fill gaps in existing sections.** If a well-known attraction is missing, add it. If `eating_out/` or `bars_and_cafes/` is thin, add notable places.
 
-7. **Add hero image** — if the location file has no `image` field, use the `find-photo` skill to find and assign one.
+9. **Add a hero image.** If the location file has no `image:` field, invoke the `find-photo` skill — it presents candidates, you pick one, and the skill writes the `image`, `image_source`, and `image_license` fields. Do not auto-pick without review.
 
-8. **Commit** as "Enrich: City Name" — one commit per location
+10. **Mark done** in frontmatter:
+    `python3 tools/mark_done.py location_enrich <path/to/page.md>`
+
+11. **Commit** as `Enrich: City Name` — one commit per location.
+
+## Before committing each city
+
+Run this checklist:
+
+- [ ] POI count is at or near the target for the city's importance tier
+- [ ] `python3 tools/wiki_geosearch.py` was run and the useful results used
+- [ ] `python3 tools/grep_obscura.py` was run and any matching obscura POIs added
+- [ ] Each new POI has coordinates that match its actual location
+- [ ] Major `things_to_do` POIs have a `story:` field
+- [ ] Truncated or wrong filenames in the city's directory are fixed
+- [ ] Hero image assigned via `find-photo`, with `image_source` and `image_license`
+- [ ] Missing useful sections created; empty-stub sections not added
+- [ ] `done: { location_enrich: <today> }` set on the main location file
 
 ## Voice and style
 
-See STYLE.md and LOCATIONS.md. Practical, opinionated, concise. Research destinations using web search — don't invent details.
+See STYLE.md and LOCATIONS.md. Practical, opinionated, concise. Research destinations — don't invent details.

@@ -13,7 +13,7 @@ The classic route combines the [Serengeti](/africa/tanzania/serengetinationalpar
 
 ## Southern Circuit
 
-The southern parks — Selous/Nyerere National Park and [Ruaha](/africa/tanzania/ruaha_national_par) — see far fewer visitors than the north. Getting there requires a flight or a long road journey, which pushes costs up. What you gain is a more exclusive experience and, in Selous, the option of boat safaris on the Rufiji River. Walking safaris with an armed ranger are also permitted in the south, unlike the northern parks.
+The southern parks — Selous/Nyerere National Park and [Ruaha](/africa/tanzania/ruaha_national_park) — see far fewer visitors than the north. Getting there requires a flight or a long road journey, which pushes costs up. What you gain is a more exclusive experience and, in Selous, the option of boat safaris on the Rufiji River. Walking safaris with an armed ranger are also permitted in the south, unlike the northern parks.
 
 ## Western Parks
 

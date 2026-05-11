@@ -1,16 +1,25 @@
 # Location Enrich Task
 
-Add new content to locations that have already been cleaned up (see `location_cleanup`). This task assumes the location already has the right section structure — if it still has `sights/` or junk sections, run cleanup first.
-
 ## For each location
 
 1. **Read** the existing location file and all section/POI files to understand what's already there
 
-2. **Add books section** per LOCATIONS.md:
-   - 3–5 novels or literature that illuminate the city
-   - Each book is a POI in `books/` with `author:` and optionally `isbn:`
+2. **Spam**
+   Scan the location for spam and bad structure. make sure that all the tags are in order, there's no
+   nonsense going on.
 
-3. **Add `story:` fields** to 3–5 major sights in `things_to_do/`:
+3. **Fill out pois**
+   Important cities should have at least 50 pois. Mediumly important ones around 15 and even the smaller ones should
+   have some highlights. Use the tools/wiki_geosearch.py to fetch candidates from the wikipedia. Check the obscura
+   folder for inspiration on off the beaten track pois. Use your own knowledge or do a search to get to the number
+   of pois required.
+
+3. **Pois**
+   For each poi, make sure the description is long enough. Typically you want to have two paragraphs of description
+   at least, longer for things that are of true importance to travellers. Also make sure the pois have the right
+   tags. Check the coordinates using osm or search or against the wikisearch from the previous step
+
+3. **Add `story:` fields** to major sights with the `things_to_do` tag
    - Specific, surprising, concise (2–4 sentences)
    - Only add stories you know are accurate
 
@@ -33,7 +42,3 @@ Add new content to locations that have already been cleaned up (see `location_cl
 ## Voice and style
 
 See STYLE.md and LOCATIONS.md. Practical, opinionated, concise. Research destinations using web search — don't invent details.
-
-## Batch files
-
-Each file contains ~5 locations. Process all in a batch, commit each separately.

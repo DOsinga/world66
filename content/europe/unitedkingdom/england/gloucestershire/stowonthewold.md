@@ -11,4 +11,4 @@ loc_type: city
 
 Stow-on-the-Wold is one of the most famous of the Cotswold towns, perched at the highest point on the ancient Fosse Way in northeastern Gloucestershire. The large market square — once used for huge sheep fairs that could see twenty thousand animals change hands in a day — is now ringed by antique shops, tea rooms, and honey-coloured stone buildings.
 
-The town makes a good base for exploring the northern Cotswolds. [Bourton-on-the-Water](/europe/unitedkingdom/england/bristol_plymouth/gloucestershire/bourtononthewater) is a short drive south, and the rolling countryside between here and Chipping Norton is quintessential English landscape.
+The town makes a good base for exploring the northern Cotswolds. [Bourton-on-the-Water](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/gloucestershire/bourtononthewater) is a short drive south, and the rolling countryside between here and Chipping Norton is quintessential English landscape.

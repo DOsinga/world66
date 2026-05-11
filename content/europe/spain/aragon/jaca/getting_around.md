@@ -7,4 +7,4 @@ The bus out from Jaca to the delightful villages of Hecho [sometimes called Echo
 
 Ansó is the base for Alto Aragón holidays so more non-Spanish speech is to be heard. Again it is a well situated village though again it is a fair walk to the mountains. To compensate for this with those using public transport, which does not go up into the mountains, it seems much easier to hitch a lift here than in Spain generally. 
 
-NB Public transport users can get to Oleron Ste Marie first by train and bus and be back in Jaca in easy time to get the evening bus to either of these villages. When leaving on the morning bus it is easy to get buses on the same day from Jaca to Sabañanigo and then on to Torla for [Ordesa National Park](/europe/spain/aragon/ordesa_national_pa)
+NB Public transport users can get to Oleron Ste Marie first by train and bus and be back in Jaca in easy time to get the evening bus to either of these villages. When leaving on the morning bus it is easy to get buses on the same day from Jaca to Sabañanigo and then on to Torla for [Ordesa National Park](/europe/spain/aragon/ordesa_national_park)

@@ -17,32 +17,32 @@ africa/kenya/nationalparksandreserves/aberdarenp	feature	national park
 africa/kenya/nationalparksandreserves/amobselinp	feature	Amboseli National Park
 africa/kenya/nationalparksandreserves/hellsgatenp	feature	national park
 africa/kenya/nationalparksandreserves/lakenakurunp	feature	Lake Nakuru NP
-africa/southafrica/addo_elephant_nati	feature	Addo Elephant National Park
-africa/southafrica/cederberg_wilderne	feature	Cederberg Wilderness Area
+africa/southafrica/addo_elephant_national_park	feature	Addo Elephant National Park
+africa/southafrica/cederberg_wilderness_area	feature	Cederberg Wilderness Area
 africa/madagascar/isalo	feature	Isalo National Park
-africa/tanzania/udzungwa_national	feature	Udzungwa National Park
-africa/tanzania/ruaha_national_par	feature	Ruaha National Park
+africa/tanzania/udzungwa_national_park	feature	Udzungwa National Park
+africa/tanzania/ruaha_national_park	feature	Ruaha National Park
 asia/india/assam/kaziranga	feature	Kaziranga National Park
-asia/india/uttaranchal/corbett_national_p	feature	Corbett National Park
+asia/india/uttaranchal/corbett_national_park	feature	Corbett National Park
 asia/srilanka/tissamaharama/yala_national_park	feature	Yala National Park
 australiaandpacific/australia/queensland/nationalparks	feature	national parks overview page
-europe/estonia/vilsandi_national	feature	Vilsandi National Park
-europe/estonia/karula_national_pa	feature	Karula National Park
+europe/estonia/vilsandi_national_park	feature	Vilsandi National Park
+europe/estonia/karula_national_park	feature	Karula National Park
 europe/italy/lazio/ciceo_national_par	feature	Circeo National Park
 europe/italy/sicily/mount_etna_park	feature	Etna Regional Park
-europe/latvia/gauja_national_par	feature	Gauja National Park
-europe/spain/aragon/ordesa_national_pa	feature	Ordesa National Park
-europe/unitedkingdom/england/leicester_notting/peak_district	feature	national park
-europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors	feature	national park
+europe/latvia/gauja_national_park	feature	Gauja National Park
+europe/spain/aragon/ordesa_national_park	feature	Ordesa National Park
+europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/peak_district	feature	national park
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/north_york_moors	feature	national park
 northamerica/canada/algonquin_park	feature	provincial park
-northamerica/unitedstates/alaska/denali_national_pa	feature	Denali National Park
+northamerica/unitedstates/alaska/denali_national_park_and_preserve	feature	Denali National Park
 northamerica/unitedstates/arizona/grandcanyon	feature	national park
-northamerica/unitedstates/arizona/organ_pipe_cactus	feature	national monument
+northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument	feature	national monument
 northamerica/unitedstates/california/deserts/deathvalley	feature	national park
 northamerica/unitedstates/california/highsierra/yosemite	feature	national park
 northamerica/unitedstates/california/highsierra/kingscanyon	feature	national park
 northamerica/unitedstates/florida/everglades	feature	national park
-northamerica/unitedstates/florida/merritt_island_nat	feature	Merritt Island National Wildlife Refuge
+northamerica/unitedstates/florida/merritt_island_national_wildlife_refuge	feature	Merritt Island National Wildlife Refuge
 northamerica/unitedstates/maine/acadia	feature	national park
 northamerica/unitedstates/minnesota/voyageurs	feature	national park
 northamerica/unitedstates/minnesota/itascastatepark	feature	state park
@@ -79,12 +79,12 @@ africa/tanzania/kilimanjaro	feature	mountain
 asia/china/jinggangshan	feature	mountainous revolutionary area
 asia/japan/honshu/mount_fuji	feature	mountain
 europe/france/midi/pyrenees/pic_carlit	feature	mountain peak
-europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou	feature	mountain range
+europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse	feature	mountain range
 europe/germany/badenwrttemberg/blackforest	feature	forest/mountain region
 europe/germany/lowersaxony/harz_mountains	feature	mountain range
 europe/italy/calabria/la_sila	feature	mountain plateau
 europe/spain/galicia/mount_santa_tecla	feature	mountain with ruins
-europe/unitedkingdom/scotland/torridonian_highla	feature	Torridonian Highlands
+europe/unitedkingdom/scotland/torridonian_highlands	feature	Torridonian Highlands
 northamerica/unitedstates/california/shastacascade/mountshasta	feature	mountain
 northamerica/unitedstates/newhampshire/whitemountains	feature	mountain range
 southamerica/argentina/sierras_de_crdob	feature	Sierras de Córdoba mountain range
@@ -113,7 +113,7 @@ europe/russia/karelian_isthmus	feature	isthmus
 europe/switzerland/val_ferret	feature	valley
 europe/unitedkingdom/england/gloucestershire/forestofdean	feature	forest
 europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull	feature	peninsula
-europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/malhamdale	feature	valley/dale
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales/malhamdale	feature	valley/dale
 northamerica/unitedstates/newhampshire/greatnorthwoods	feature	forested region
 southamerica/bolivia/salar_of_uyuni	feature	salt flat
 southamerica/chile/atacamadesert	feature	desert
@@ -138,7 +138,7 @@ asia/turkey/nemrutdagi	feature	archaeological summit
 asia/uzbekistan/theqalas	feature	desert fortress ruins
 europe/armenia/amberd_1	feature	medieval fortress
 europe/france/centre/loirevalley/chambord	feature	château
-europe/unitedkingdom/england/bristol_plymouth/stonehenge	feature	prehistoric monument
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge	feature	prehistoric monument
 northamerica/nicaragua/ruins_of_len_vie	feature	colonial ruins
 southamerica/ecuador/mitad_del_mundo	feature	equator monument
 
@@ -171,7 +171,7 @@ asia/india/nagaland	region	state
 europe/armenia/armavir_marz	region	province (marz)
 europe/norway/telemark	region	county
 europe/unitedkingdom/england/cumbria	region	county
-europe/unitedkingdom/england/bristol_plymouth/dorset	region	county
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/dorset	region	county
 northamerica/mexico/chiapas	region	state
 northamerica/unitedstates/california/highsierra/alpinecounty	region	county
 northamerica/unitedstates/california/shastacascade/trinity	region	county
@@ -187,13 +187,13 @@ asia/tajikistan/pamir_highway	region	highway corridor
 asia/turkey/westcoast	region	regional overview
 australiaandpacific/australia/tasmania/southeast	region	regional area
 europe/faroeislands/eysturoy/noroyggjar	region	island group (Northern Islands)
-europe/france/midi/languedoc/the_land_of_the_ca	region	Cathar region
+europe/france/midi/languedoc/the_land_of_the_cathars	region	Cathar region
 europe/georgia/blackseacoast	region	regional coastline
 europe/greece/tilos	region	Greek island
 europe/ireland/ringofkerry	region	scenic route
 europe/italy/calabria/hilltowns_of_the	region	hilltowns region overview
 europe/spain/andalucia/gibraltar_field	region	Campo de Gibraltar
-europe/spain/galicia/the_peninsula_of_o	region	peninsula of O Morrazo
+europe/spain/galicia/the_peninsula_of_o_morrazo	region	peninsula of O Morrazo
 europe/spain/northernspain/bierzo	region	wine region
 europe/unitedkingdom/scotland/small_isles	region	island group
 northamerica/costarica/gulf_of_papagayo	region	resort gulf area
@@ -204,7 +204,7 @@ northamerica/unitedstates/hawaii/oahu	region	island with several cities
 northamerica/unitedstates/massachusetts/capecod	region	peninsula
 northamerica/unitedstates/newyorkstate/long_island	region	geographic region
 northamerica/unitedstates/newyorkstate/hamptons_on_long_i	region	Hamptons resort area
-northamerica/unitedstates/ohio/ohios_amish_count	region	cultural region
+northamerica/unitedstates/ohio/ohios_amish_country	region	cultural region
 northamerica/unitedstates/pennsylvania/laurel_highlands	region	mountain region
 northamerica/unitedstates/washington/the_palouse	region	agricultural region
 southamerica/brazil/pantanal	region	wetland region

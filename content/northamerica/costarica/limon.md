@@ -21,4 +21,4 @@ North of Limón, the Tortuguero canals cut through jungle lowlands to one of the
 
 [Cahuita](/northamerica/costarica/cahuita)
 
-[Puerto Viejo de Talamanca](/northamerica/costarica/puerto_viejo_de_ta)
+[Puerto Viejo de Talamanca](/northamerica/costarica/puerto_viejo_de_talamanca)

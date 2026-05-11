@@ -42,7 +42,7 @@
     </div>
 
     <div class="plan-poi-list">
-      <div class="plan-city-hero" data-unsplash="{{ stop.city }}"
+      <div class="plan-city-hero"
         {% if city_image_url %}style="background-image:url('{{ city_image_url }}')"{% endif %}></div>
 
       {% for item in stop.items %}
@@ -185,7 +185,6 @@
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="{% static 'plans/js/unsplash-slideshow.js' %}"></script>
 <script>
 (function() {
   const markers = {{ markers }};

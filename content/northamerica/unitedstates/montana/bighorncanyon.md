@@ -6,7 +6,7 @@ longitude: -108.1915
 title: Bighorn Canyon
 type: location
 score: 0.5
-loc_type: city
+loc_type: feature
 ---
 
 Bighorn Canyon National Recreation Area straddles the Montana-Wyoming border, where the Bighorn River has carved a deep canyon through the landscape. The construction of Yellowtail Dam in the 1960s created Bighorn Lake, which stretches roughly 60 miles through the canyon and is the centerpiece of the recreation area.

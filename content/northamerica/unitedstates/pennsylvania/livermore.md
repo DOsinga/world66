@@ -6,7 +6,7 @@ longitude: -78.916667
 title: Livermore
 type: location
 score: 0.28
-loc_type: city
+loc_type: feature
 ---
 
 Livermore is a ghost town deep in the Allegheny National Forest in northwestern Pennsylvania, accessible only by hiking trail. In the 1880s and 1890s it was a busy lumber town with hotels, a school, and a railroad depot, but when the timber ran out the people left. Today the forest has reclaimed almost everything. What remains are stone foundations, scattered cemetery headstones, and a pervasive quiet that makes the place feel genuinely haunted.

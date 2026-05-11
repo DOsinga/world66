@@ -9,7 +9,7 @@ longitude: 8.2
 title: Gallinara Island Regional Park
 type: location
 score: 0.57
-loc_type: city
+loc_type: feature
 ---
 
 Gallinara is a small, densely wooded island sitting about a mile offshore from [Albenga](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga). The name comes from the Latin for "wild hens" — the island apparently swarmed with them in Roman times, and the Latin writers noticed. Today it is a regional nature reserve, and the only way to truly appreciate it is from the water.

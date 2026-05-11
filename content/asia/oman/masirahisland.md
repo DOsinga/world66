@@ -6,7 +6,7 @@ longitude: 58.795516
 done:
   location_cleanup: 2026-04-05
 score: 0.4
-loc_type: city
+loc_type: region
 ---
 
 Masirah is a long, flat, windswept island about 15 km off Oman's south-east coast, a two-hour ferry ride from the mainland at Shannah. It is nearly 65 km from end to end but never more than a few kilometres wide, with a population of around 12,000 people — mostly fishermen — scattered in small villages along the coast. There is almost nothing built up here. The interior is arid and empty; the western shore faces the mainland across a shallow turquoise channel; the eastern, windward shore has an uninterrupted 30-kilometre stretch of empty white-sand beach facing the open Arabian Sea.

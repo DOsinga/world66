@@ -6,7 +6,7 @@ longitude: 55.5333
 title: Cirque de Salazie
 type: location
 score: 0.61
-loc_type: city
+loc_type: feature
 ---
 
 *Africa > Réunion > Cirque de Salazie*

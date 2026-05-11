@@ -6,7 +6,7 @@ longitude: -79.68
 title: Panama Canal
 type: location
 score: 0.62
-loc_type: city
+loc_type: feature
 ---
 
 The Panama Canal is one of the great engineering achievements of the modern world — a 77-kilometre waterway cut through a continent, connecting the Atlantic and Pacific oceans and reshaping global trade. Watching a massive container ship or cruise vessel squeeze through the narrow locks, rising and falling with the churning water, is genuinely awe-inspiring. It never quite looks real.

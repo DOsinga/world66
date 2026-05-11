@@ -6,7 +6,7 @@ longitude: -64.1149
 title: Valdes Peninsula
 type: location
 score: 0.68
-loc_type: city
+loc_type: feature
 ---
 
 Miles and miles of unspoiled beaches and some of the richest marine wildlife in South America -- that is what Valdes Peninsula offers. Since it is often too cold and windy to sunbathe, you are probably here to watch the animals, and on that front it delivers spectacularly.

@@ -6,7 +6,7 @@ longitude: -4.259507
 title: Din Lligwy
 type: location
 score: 0.44
-loc_type: city
+loc_type: feature
 ---
 
 Din Lligwy is a remarkable cluster of ancient monuments on the northeast coast of [Anglesey](/europe/unitedkingdom/wales/anglesey), spanning three different ages of human settlement within a few hundred metres of each other.

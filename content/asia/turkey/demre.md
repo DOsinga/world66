@@ -9,6 +9,10 @@ tags:
   - ancient_ruins
   - history
   - religion
+image: demre.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Myra_View_from_high_in_2012_Panorama_1.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dosseman
 ---
 
 Demre (ancient Myra) is a small town on the Lycian coast about 160 km west of Antalya, best known for two reasons: the extraordinary Lycian rock-cut tombs carved into a cliff face above the town, and the Church of St Nicholas — the actual burial place of the historical bishop who became the template for Santa Claus.

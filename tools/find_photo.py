@@ -107,6 +107,12 @@ def build_search_query(content_path: str, meta: dict) -> str:
             location_name = ''
         return f'{location_name} {title}'.strip()
 
+    # For location pages below country level, append the country so common
+    # city names (Paro, Florence, Springfield) don't pull unrelated images.
+    parts = content_path.strip('/').split('/')
+    if len(parts) >= 3:
+        country = parts[1].replace('_', ' ')
+        return f'{title} {country}'.strip()
     return title
 
 

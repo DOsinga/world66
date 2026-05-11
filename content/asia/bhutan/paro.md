@@ -8,6 +8,10 @@ longitude: 89.318341
 score: 0.71
 title: Paro
 type: location
+image: paro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bhutan-Paro-136-Taktshang-Tigernest-gje.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Gerd Eichmann
 ---
 
 Paro is the site of Bhutan's only international airport and, for most visitors, the first glimpse of the country. The town sits in a broad, fertile valley in the shadow of Mount Chomolhari (7,320 metres), surrounded by terraced rice paddies and traditional farmhouses.

@@ -28,3 +28,4 @@ clean
 design/
 /logs/
 /.worktrees/
+/plans/

@@ -199,9 +199,7 @@ def resolve_location_name(name: str):
         conn.close()
 
 PLANS_DIR = Path(settings.BASE_DIR) / "plans"
-DRAFT_POIS_DIR = PLANS_DIR / "pois"
 DRAFT_LOCATIONS_DIR = PLANS_DIR / "locations"
-PLAN_INTROS_DIR = PLANS_DIR / "intros"
 
 
 def _load_city_page(city_path: str):
@@ -230,10 +228,10 @@ _GEOCACHE_FILE = PLANS_DIR / ".geocache.json"
 
 
 def _load_draft_pois(plan_slug: str, city_path: str) -> list[DraftPage]:
-    """Load draft POIs for a city from plans/pois/<plan_slug>/<city_path>/."""
+    """Load draft POIs for a city from plans/<plan_slug>/<city_path>/."""
     import frontmatter as fm
     poi_prefix = f"{plan_slug}/{city_path}" if plan_slug else city_path
-    city_dir = DRAFT_POIS_DIR / poi_prefix
+    city_dir = PLANS_DIR / poi_prefix
     if not city_dir.is_dir():
         return []
     pages = []
@@ -600,7 +598,7 @@ def _parse_stops(body, plan_slug):
                 if len(parts) == 2:
                     draft_dir, draft_slug = parts
                     import frontmatter as _fm
-                    draft_file = DRAFT_POIS_DIR / draft_dir / f"{draft_slug}.md"
+                    draft_file = PLANS_DIR / draft_dir / f"{draft_slug}.md"
                     if draft_file.is_file():
                         _post = _fm.load(str(draft_file))
                         page = DraftPage(
@@ -928,7 +926,7 @@ def plan_stop(request, slug, city_slug):
     city_snippet = None
     city_image_url = None
     # Check for LLM-written intro first
-    intro_file = PLAN_INTROS_DIR / plan["slug"] / f"{city_slug}.md"
+    intro_file = PLANS_DIR / plan["slug"] / "intros" / f"{city_slug}.md"
     if intro_file.is_file():
         city_snippet = intro_file.read_text().strip()
     elif city_page:
@@ -1227,8 +1225,8 @@ def plan_image(request, image_path):
     import mimetypes
     from django.http import FileResponse
     safe_path = image_path.lstrip("/")
-    # Only allow images/... paths to prevent directory traversal
-    if not safe_path.startswith("images/"):
+    # Only allow <plan_slug>/images/... paths to prevent directory traversal
+    if ".." in safe_path or "/images/" not in safe_path:
         raise Http404
     file_path = PLANS_DIR / safe_path
     if not file_path.is_file():
@@ -1254,9 +1252,9 @@ def plan_budget_save(request, slug, city_slug):
 
 
 def draft_poi_detail(request, poi_path):
-    """Show a draft POI from plans/pois/<poi_path>.md"""
+    """Show a draft POI from plans/<poi_path>.md"""
     import frontmatter as fm
-    md_file = DRAFT_POIS_DIR / f"{poi_path}.md"
+    md_file = PLANS_DIR / f"{poi_path}.md"
     if not md_file.is_file():
         raise Http404
     post = fm.load(str(md_file))
@@ -1343,13 +1341,13 @@ def _fetch_wikipedia_image(city_title: str, dest_dir: Path) -> str | None:
 
 
 def _copy_location_image(city_page, plan_slug: str) -> str | None:
-    """Copy a city page's hero image into plans/images/<plan_slug>/.
+    """Copy a city page's hero image into plans/<plan_slug>/images/.
 
     Falls back to fetching from Wikipedia when no content image exists.
-    Returns the relative path (e.g. 'images/<plan_slug>/<file>') or None.
+    Returns the relative path (e.g. '<plan_slug>/images/<file>') or None.
     """
     import shutil
-    dest_dir = PLANS_DIR / "images" / plan_slug
+    dest_dir = PLANS_DIR / plan_slug / "images"
     dest_dir.mkdir(parents=True, exist_ok=True)
 
     if city_page:
@@ -1360,13 +1358,13 @@ def _copy_location_image(city_page, plan_slug: str) -> str | None:
                 dest = dest_dir / src.name
                 if not dest.exists():
                     shutil.copy2(src, dest)
-                return f"images/{plan_slug}/{src.name}"
+                return f"{plan_slug}/images/{src.name}"
 
     # No content image — try Wikipedia
     if city_page:
         filename = _fetch_wikipedia_image(city_page.title, dest_dir)
         if filename:
-            return f"images/{plan_slug}/{filename}"
+            return f"{plan_slug}/images/{filename}"
 
     return None
 
@@ -1649,9 +1647,9 @@ def api_research_submit(request):
         _slug = re.sub(r"[^a-z0-9]+", "-", city_title.lower()).strip("-")
         city_path = _slug
 
-    # Scope draft POIs to the plan: plans/pois/<plan_slug>/<city_path>/
+    # Scope draft POIs to the plan: plans/<plan_slug>/<city_path>/
     poi_prefix = f"{plan_slug}/{city_path}" if plan_slug else city_path
-    city_dir = DRAFT_POIS_DIR / poi_prefix
+    city_dir = PLANS_DIR / poi_prefix
     city_dir.mkdir(parents=True, exist_ok=True)
 
     # Save budget if provided
@@ -1660,7 +1658,7 @@ def api_research_submit(request):
 
     # Save intro text if provided
     if intro and plan_slug and city_slug:
-        intro_dir = PLAN_INTROS_DIR / plan_slug
+        intro_dir = PLANS_DIR / plan_slug / "intros"
         intro_dir.mkdir(parents=True, exist_ok=True)
         (intro_dir / f"{city_slug}.md").write_text(intro)
 

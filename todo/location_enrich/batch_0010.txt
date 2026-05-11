@@ -1,5 +1,0 @@
-europe/netherlands/friesland/ijlst
-northamerica/unitedstates/california/northcoast/garberville
-europe/denmark/vejle
-northamerica/costarica/atenas_costa_rica
-europe/germany/lowersaxony/salzgitter

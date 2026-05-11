@@ -165,6 +165,44 @@ class Page:
 
         return nav_pages, locations, pois
 
+    def children_from_branch(self, branch: str):
+        """Branch-aware version of children(): reads from git instead of the filesystem."""
+        result = subprocess.run(
+            ['git', 'ls-tree', '--name-only', branch, f'content/{self.path}/'],
+            capture_output=True, text=True, check=False,
+            cwd=str(settings.BASE_DIR),
+        )
+        if result.returncode != 0:
+            return [], [], []
+
+        # git ls-tree returns full paths; extract just the basename
+        names = [e.rsplit('/', 1)[-1] for e in result.stdout.splitlines() if e]
+        dir_names = {n for n in names if not n.endswith('.md')}
+
+        nav_pages, locations, pois = [], [], []
+
+        for name in sorted(names):
+            if name.endswith('.md'):
+                stem = name[:-3]
+                if stem == self.slug or stem in dir_names:
+                    continue
+                page = load_page_from_branch(f'{self.path}/{stem}', branch)
+            elif '.' not in name:
+                page = load_page_from_branch(f'{self.path}/{name}', branch)
+            else:
+                continue
+
+            if not page:
+                continue
+            if page.page_type in NAV_TYPES:
+                nav_pages.append(page)
+            elif page.page_type == 'poi':
+                pois.append(page)
+            else:
+                locations.append(page)
+
+        return nav_pages, locations, pois
+
     def tagged_pois(self, _city_tag_index=None):
         """Return POIs tagged with this nav page's tag, found anywhere in the city.
 

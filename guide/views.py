@@ -62,7 +62,7 @@ def location_or_section(request, path):
     parent = None
     if page.page_type in NAV_TYPES | {"poi"} and "/" in page.path:
         parent_path = page.path.rsplit("/", 1)[0]
-        parent = load_page(parent_path)
+        parent = load_page_from_branch(parent_path, branch) if branch else load_page(parent_path)
 
     # Build sidebar nav: nav_pages from the parent (city or section_group).
     # For POIs the immediate parent is the section, which has no nav children —
@@ -71,13 +71,14 @@ def location_or_section(request, path):
     parent_locations = []
     active_nav = None   # which nav item should be highlighted in the sidebar
     if parent and page.page_type != "neighbourhood":
-        parent_nav, parent_locations, _ = parent.children()
+        parent_nav, parent_locations, _ = parent.children_from_branch(branch) if branch else parent.children()
         parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
         if page.page_type == "poi" and not parent_nav and "/" in parent.path:
             # Parent is a section with no nav children — use grandparent (city)
-            grandparent = load_page(parent.path.rsplit("/", 1)[0])
+            grandparent_path = parent.path.rsplit("/", 1)[0]
+            grandparent = load_page_from_branch(grandparent_path, branch) if branch else load_page(grandparent_path)
             if grandparent and grandparent.page_type == "location":
-                parent_nav, parent_locations, _ = grandparent.children()
+                parent_nav, parent_locations, _ = grandparent.children_from_branch(branch) if branch else grandparent.children()
                 parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
                 active_nav = parent   # mark the section as active in the sidebar
 
@@ -95,7 +96,7 @@ def location_or_section(request, path):
     if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
         poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
-    nav_pages, locations, pois = page.children()
+    nav_pages, locations, pois = page.children_from_branch(branch) if branch else page.children()
 
     # Separate neighbourhood pages from nav pages so they render inline under
     # the article body rather than in the sidebar sections list.
@@ -229,6 +230,7 @@ def location_or_section(request, path):
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
+        "branch_qs": branch_qs,
     })
 
 

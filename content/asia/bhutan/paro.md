@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-10'
 latitude: 27.464637
+loc_type: city
 longitude: 89.318341
+score: 0.71
 title: Paro
 type: location
-score: 0.71
-loc_type: city
 ---
 
 Paro is the site of Bhutan's only international airport and, for most visitors, the first glimpse of the country. The town sits in a broad, fertile valley in the shadow of Mount Chomolhari (7,320 metres), surrounded by terraced rice paddies and traditional farmhouses.

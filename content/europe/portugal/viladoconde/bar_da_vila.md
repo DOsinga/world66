@@ -1,20 +1,11 @@
 ---
-latitude: 39.414303
-longitude: -7.454476
+latitude: 41.352
+longitude: -8.743
 tags:
-- bars_and_cafes
+  - bars_and_cafes
+  - bar
 title: Bar da Vila
 type: poi
-zipcode: http://bardavila.web.pt/
 ---
 
-The best bar in the Vila is the “Bar da Vila”. Visit our official site, temporarily offline. The best nights are spent in this special bar!
-
-**Contributors**
-September 10, 2004
-
-type: general
-
-
-
-zipcode: http://bardavila.web.pt/
+A central bar in Vila do Conde's old town, popular with locals for evening drinks. The music and atmosphere make it a good place to start or end a night out.

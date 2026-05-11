@@ -1,25 +1,15 @@
 ---
-address: Praça da República, 94 - Vila do Conde - Portugal
+address: Praça da República, 94
 latitude: 41.351835
 longitude: -8.741051
 phone: +351 252 631 119
 tags:
-- eating_out
-title: Restaurant «Le Villageois»
+  - eating_out
+  - restaurant
+title: Le Villageois
 type: poi
 ---
 
-Cuisine: French and Portuguese Ambience. All debit and credit cards accepted. Closed Monday.
+A French-Portuguese restaurant on Praça da República, the main square of Vila do Conde, with an outdoor terrace and reliable cooking in both traditions. The wine list includes good Vinho Verde alongside French bottles. Closed on Mondays.
 
-**Contributors**
-April 08, 2006
-
-type: French
-
-
-
-
-
-address: Praça da República, 94 - Vila do Conde - Portugal
-
-tel: +351 252 631 119
+The location on the square is excellent for people-watching. The interior is comfortable and well-maintained, with attentive service. A solid choice if you want a more formal meal than the local tascas provide.

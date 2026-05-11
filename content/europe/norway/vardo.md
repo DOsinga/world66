@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
 latitude: 70.3708
+loc_type: city
 longitude: 31.11
+score: 0.38
 title: Vardø
 type: location
-score: 0.38
-loc_type: city
+image: vardo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Vard%C3%B8_sommer_2008.jpg
+image_license: Public domain
+image_attribution: Olavfin
 ---
 
 Vardø is the easternmost town in Norway — further east than Istanbul and Cairo — perched on an island in the Barents Sea at the far end of the Varangerfjord. It is connected to the mainland by a subsea tunnel. The town is small, windswept, and remote, with a population of around 2,000.

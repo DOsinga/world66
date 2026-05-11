@@ -6,7 +6,8 @@ longitude: 105.423
 title: Krakatoa
 type: location
 score: 0.52
-loc_type: feature---
+loc_type: feature
+---
 
 Krakatoa sits in the Sunda Strait between Java and Sumatra, and its name alone carries a weight few volcanoes can match. The catastrophic 1883 eruption destroyed most of the original island, generated tsunamis that killed over 36,000 people, and sent shockwaves around the globe. The sound of the blast was heard nearly 5,000 kilometres away in Australia.
 

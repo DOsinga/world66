@@ -6,7 +6,8 @@ longitude: -122.098771
 title: Crater Lake
 type: location
 score: 0.67
-loc_type: feature---
+loc_type: feature
+---
 
 Crater Lake is the deepest lake in the United States — 592 metres at its deepest point — and its colour is extraordinary, an almost unreal shade of sapphire blue caused by the water's exceptional clarity and depth. The lake fills the caldera of Mount Mazama, which collapsed in a catastrophic eruption roughly 7,700 years ago.
 

@@ -6,7 +6,8 @@ longitude: -69.670344
 title: Tambopata
 type: location
 score: 0.62
-loc_type: feature---
+loc_type: feature
+---
 
 Tambopata National Reserve lies in the department of Madre de Dios, deep in Peru's southeastern Amazon basin. The biodiversity is staggering: 1,234 species of butterfly, 592 species of bird, 127 amphibians, 103 mammals, and 13 endangered species including the jaguar, giant otter, ocelot, and harpy eagle.
 

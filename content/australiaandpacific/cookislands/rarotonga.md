@@ -7,7 +7,8 @@ longitude: -159.777474
 score: 0.81
 title: Rarotonga
 type: location
-loc_type: region---
+loc_type: region
+---
 
 Rarotonga is the largest and most populous of the Cook Islands, a self-governing territory in free association with New Zealand. The island is roughly circular, about 32 km in circumference, with a dramatic interior of jagged volcanic peaks rising to over 600 metres and a narrow coastal plain ringed by a reef lagoon. It comes close to the archetype of a South Pacific island and is popular as a less commercial alternative to Fiji or Tahiti.
 

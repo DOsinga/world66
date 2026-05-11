@@ -6,7 +6,8 @@ longitude: 74.4833
 title: Ala-Archa Gorge
 type: location
 score: 0.53
-loc_type: feature---
+loc_type: feature
+---
 
 Ala-Archa National Park is a mountain gorge 40 kilometers south of [Bishkek](/asia/kyrgyzstan/bishkek), and the easiest way to get a taste of Kyrgyzstan's mountain scenery without leaving the capital region. The park climbs from around 1,600 meters at the entrance to glacier-topped peaks above 4,000 meters.
 

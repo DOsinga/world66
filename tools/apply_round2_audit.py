@@ -18,7 +18,9 @@ from pathlib import Path
 CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?\n)---\n", re.DOTALL)
-LOC_TYPE_RE = re.compile(r"^loc_type:\s*(\S+)\s*$", re.MULTILINE)
+# Note: use [ \t]* on both sides — \s* would consume the trailing newline
+# in MULTILINE mode and squash loc_type onto the closing --- marker.
+LOC_TYPE_RE = re.compile(r"^loc_type:[ \t]*(\S+)[ \t]*$", re.MULTILINE)
 
 # (path, target_loc_type) pairs.
 CHANGES: list[tuple[str, str]] = [

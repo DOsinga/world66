@@ -6,7 +6,8 @@ longitude: -66.91937
 title: Campobello Island
 type: location
 score: 0.44
-loc_type: region---
+loc_type: region
+---
 
 Campobello Island sits in the Bay of Fundy off the coast of New Brunswick, though its only road connection is a bridge from Lubec, Maine — making it a Canadian island you enter through the United States. A seasonal ferry also connects to Deer Island, New Brunswick.
 

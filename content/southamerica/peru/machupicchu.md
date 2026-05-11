@@ -12,7 +12,8 @@ longitude: -72.545009
 score: 0.91
 title: Machu Picchu
 type: location
-loc_type: feature---
+loc_type: feature
+---
 
 **Machu Picchu** 
 

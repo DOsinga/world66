@@ -8,7 +8,8 @@ longitude: -5.101455
 score: 0.68
 title: Glencoe
 type: location
-loc_type: feature---
+loc_type: feature
+---
 
 Glencoe is one of the most dramatic landscapes in Scotland — a deep glacial valley carved between towering ridges, with a history as dark as its skies can be. The name covers both a small village at the valley's foot and the wider mountain terrain that draws walkers and climbers from across Britain and beyond.
 

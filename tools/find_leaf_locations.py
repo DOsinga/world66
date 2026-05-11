@@ -14,8 +14,8 @@ OUTPUT = Path(__file__).resolve().parent.parent / "todo" / "location_enrich" / "
 SKIP_TOPLEVEL = {"about", "contributing", "travelwise", "takeaway"}
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?\n)---\n", re.DOTALL)
-TYPE_RE = re.compile(r"^type:\s*(\S+)\s*$", re.MULTILINE)
-LOC_TYPE_RE = re.compile(r"^loc_type:\s*(\S+)\s*$", re.MULTILINE)
+TYPE_RE = re.compile(r"^type:[ \t]*(\S+)[ \t]*$", re.MULTILINE)
+LOC_TYPE_RE = re.compile(r"^loc_type:[ \t]*(\S+)[ \t]*$", re.MULTILINE)
 
 
 def total_text_size(md_path: Path) -> int:

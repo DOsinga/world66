@@ -6,7 +6,8 @@ longitude: 5.7854
 title: Chartreuse
 type: location
 score: 0.62
-loc_type: region---
+loc_type: region
+---
 
 The Chartreuse is a regional natural park in the pre-Alps between [Grenoble](/europe/france/alpes/grenoble) and Chambéry, straddling the border of Savoie and Isère. The landscape is intensely green: forested limestone ridges, narrow gorges with rushing streams, cliffs overhanging the roads, and mountain meadows thick with wildflowers in spring.
 

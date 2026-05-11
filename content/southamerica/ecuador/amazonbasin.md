@@ -6,7 +6,8 @@ done:
 score: 0.64
 title: Amazon basin
 type: location
-loc_type: region---
+loc_type: region
+---
 
 **AMAZON IN ECUADOR** **TOP**
 

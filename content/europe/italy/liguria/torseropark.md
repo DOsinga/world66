@@ -6,7 +6,8 @@ longitude: 8.216493
 title: Torsero Park
 type: location
 score: 0.45
-loc_type: feature---
+loc_type: feature
+---
 
 The Torsero Park is a small natural reserve about 1.5 km inland from Ceriale on the Ligurian coast. It covers roughly one square kilometre along the Torsero River, which has carved through the rock strata to create vertical walls up to 60 metres high.
 

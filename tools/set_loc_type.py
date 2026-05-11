@@ -26,8 +26,8 @@ CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 SKIP_TOPLEVEL = {"about", "contributing", "travelwise", "takeaway"}
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?\n)---\n", re.DOTALL)
-LOC_TYPE_RE = re.compile(r"^loc_type:\s*(\S+)\s*$", re.MULTILINE)
-TYPE_RE = re.compile(r"^type:\s*(\S+)\s*$", re.MULTILINE)
+LOC_TYPE_RE = re.compile(r"^loc_type:[ \t]*(\S+)[ \t]*$", re.MULTILINE)
+TYPE_RE = re.compile(r"^type:[ \t]*(\S+)[ \t]*$", re.MULTILINE)
 
 
 def read_frontmatter(text: str) -> str | None:

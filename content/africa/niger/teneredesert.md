@@ -6,7 +6,8 @@ longitude: 10.0
 title: Tenere Desert
 type: location
 score: 0.35
-loc_type: feature---
+loc_type: feature
+---
 
 The Ténéré is 500 km north of [Agadez](/africa/niger/agadez) and about 300 km north of the [Aïr Mountains](/africa/niger/airmountains). It has incredibly beautiful sand dune areas, and anyone disappointed by their first desert experiences should absolutely come here — this is the real thing.
 

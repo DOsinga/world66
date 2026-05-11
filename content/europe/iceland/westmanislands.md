@@ -6,7 +6,8 @@ longitude: -20.269882
 done:
   location_cleanup: 2026-04-06
 score: 0.59
-loc_type: region---
+loc_type: region
+---
 
 **Vestmannaeyjar**- Westman Islands- Vestman-islands 
 

@@ -6,7 +6,8 @@ longitude: -2.54
 title: Channel Islands (Crown Dependencies)
 type: location
 score: 0.58
-loc_type: region---
+loc_type: region
+---
 
 The Channel Islands are a group of islands in the English Channel, sitting just off the coast of Normandy, France. Despite being British Crown Dependencies, neither of the two bailiwicks — Jersey and Guernsey — is part of the [United Kingdom](/europe/unitedkingdom). They have their own governments, laws, and tax systems, and have been part of the Duchy of Normandy since the 10th century.
 

@@ -1719,6 +1719,80 @@ def api_research_submit(request):
 
 
 
+def api_harvest_pois(request):
+    """GET /api/plans/harvest-pois/?token=<HARVEST_TOKEN>
+
+    Returns all draft POIs across all plans as a JSON list.
+    Each item mirrors the filesystem path so the harvest script can promote
+    them straight into content/ without any extra mapping.
+
+    Response:
+    [
+      {
+        "plan_slug":   "amsterdam-2026-06-abc123",
+        "city_path":   "europe/netherlands/amsterdam",
+        "poi_slug":    "rijksmuseum",
+        "file_path":   "amsterdam-2026-06-abc123/europe/netherlands/amsterdam/rijksmuseum.md",
+        "title":       "Rijksmuseum",
+        "type":        "poi",
+        "category":    "Museum",
+        "latitude":    52.36,
+        "longitude":   4.885,
+        "body":        "The national museum of the Netherlands..."
+      },
+      ...
+    ]
+    """
+    from django.conf import settings as _settings
+    import frontmatter as _fm
+
+    token = request.GET.get("token") or request.headers.get("Authorization", "").removeprefix("Bearer ").strip()
+    expected = _settings.HARVEST_TOKEN
+    if not expected or token != expected:
+        return JsonResponse({"error": "unauthorized"}, status=401)
+
+    pois = []
+    if not PLANS_DIR.is_dir():
+        return JsonResponse(pois, safe=False)
+
+    for plan_dir in sorted(PLANS_DIR.iterdir()):
+        if not plan_dir.is_dir():
+            continue
+        plan_slug = plan_dir.name
+        # Walk everything under the plan dir; skip special subdirs
+        for poi_file in sorted(plan_dir.rglob("*.md")):
+            rel = poi_file.relative_to(plan_dir)
+            parts = rel.parts
+            # Skip old-style intros
+            if parts[-1] == "intro.md":
+                continue
+            # Skip city .md files: amsterdam.md is a city page when amsterdam/ dir also exists
+            poi_slug_candidate = poi_file.stem
+            if (poi_file.parent / poi_slug_candidate).is_dir():
+                continue
+            # city_path is everything except the final filename, joined
+            city_path = "/".join(parts[:-1])
+            poi_slug = poi_file.stem
+            try:
+                post = _fm.load(str(poi_file))
+            except Exception:
+                continue
+            pois.append({
+                "plan_slug":  plan_slug,
+                "city_path":  city_path,
+                "poi_slug":   poi_slug,
+                "file_path":  str(poi_file.relative_to(PLANS_DIR)),
+                "title":      post.metadata.get("title", poi_slug),
+                "type":       post.metadata.get("type", "poi"),
+                "category":   post.metadata.get("category", ""),
+                "latitude":   post.metadata.get("latitude"),
+                "longitude":  post.metadata.get("longitude"),
+                "body":       post.content.strip(),
+            })
+
+    return JsonResponse(pois, safe=False)
+
+
 LINK_META_DIR = PLANS_DIR / "link_meta"
 
 def api_link_preview(request):

@@ -1,7 +1,7 @@
 from django.urls import include, path
 
 from guide import views
-from plans_app.views import api_plan_create, api_plan_add_pois, api_research_submit, api_link_preview
+from plans_app.views import api_plan_create, api_plan_add_pois, api_research_submit, api_link_preview, api_harvest_pois
 
 urlpatterns = [
     path("", views.home, name="home"),
@@ -11,6 +11,7 @@ urlpatterns = [
     path("api/plan/add-pois", api_plan_add_pois, name="api_plan_add_pois"),
     path("api/research/submit", api_research_submit, name="api_research_submit"),
     path("api/link-preview", api_link_preview, name="api_link_preview"),
+    path("api/plans/harvest-pois/", api_harvest_pois, name="api_harvest_pois"),
     path("tags/<str:tag>", views.tag_index, name="tag_index"),
     path("content-image/<path:path>", views.content_image, name="content_image"),
     path("review", views.review, name="review"),

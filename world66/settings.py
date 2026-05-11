@@ -101,3 +101,8 @@ MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR / "media"
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+# Token used by the harvest-pois script to fetch draft POIs from the server.
+# Generate once with: python -c "import secrets; print(secrets.token_hex(32))"
+# Then add HARVEST_TOKEN=<value> to .env on the server and locally.
+HARVEST_TOKEN = os.environ.get("HARVEST_TOKEN", "")

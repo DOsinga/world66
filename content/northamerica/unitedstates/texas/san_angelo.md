@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
 latitude: 31.464969
+loc_type: city
 longitude: -100.440509
+score: 0.37
 title: San Angelo
 type: location
-score: 0.37
-loc_type: city
+image: san_angelo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:SanAngeloParkConcho.jpg
+image_license: CC BY-SA 3.0
+image_attribution: John Tufts
 ---
 
 San Angelo sits on the Concho River in the wide-open rangeland of West Texas, a city of about 100,000 that feels more remote than its size suggests. Getting here means long stretches of two-lane highway through dry, empty country — and that remoteness is part of the appeal. This is ranch country, and the city wears its cowboy heritage proudly: the San Angelo Stock Show and Rodeo is one of the largest in [Texas](/northamerica/unitedstates/texas), drawing competitors and crowds from across the state every spring.

@@ -1,10 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+latitude: -20.027
+loc_type: city
+longitude: 57.582
+score: 0.5
 title: Mont Choisi
 type: location
-score: 0.5
-loc_type: city
 ---
 
 Mont Choisi is a small beach area on the north coast of [Mauritius](/africa/mauritius), a few kilometres south of [Grand Baie](/africa/mauritius/grandbaie). It is one of those spots that tends to slip under the radar — quieter and more residential than the busy tourist strip at Grand Baie, but close enough that you can walk or drive there in minutes.

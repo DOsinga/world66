@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-11'
 latitude: 45.539711
+loc_type: city
 longitude: 10.220347
 score: 0.56
 title: Brescia
 type: location
-loc_type: city
+image: brescia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:481BresciaLoggia.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Geobia
 ---
 
 Brescia is Lombardy's second city after Milan — an old Roman, medieval and industrial town of about 200,000 people halfway between [Milan](/europe/italy/lombardia/milan) and [Verona](/europe/italy/veneto/verona), and a short drive from the southern shore of **Lake Garda**. Most travellers skip it, which is a pity, because the compact historic centre has one of the best-preserved Roman quarters in northern Italy and a distinct Venetian atmosphere (Brescia spent four centuries under the Serenissima's rule).

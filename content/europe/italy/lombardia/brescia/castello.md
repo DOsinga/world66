@@ -7,7 +7,7 @@ longitude: 10.2228
 snippet: Venetian hilltop fortress with sweeping Alpine views
 tags:
 - things_to_do
-- sights
+- sight
 title: Castello di Brescia
 type: poi
 ---

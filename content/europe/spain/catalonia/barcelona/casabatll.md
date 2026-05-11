@@ -3,6 +3,14 @@ address: Passeig de Gràcia 43
 latitude: 41.391545
 longitude: 2.164696
 snippet: Gaudí's most theatrical facade, inspired by the legend of Sant Jordi
+story: >
+  The Batlló family originally bought a dull conventional apartment building on
+  Passeig de Gràcia in 1904 and commissioned Gaudí to demolish it and start
+  fresh. Gaudí persuaded them instead to let him remodel the existing
+  structure — saving money while allowing him to do something no architect had
+  done before. He spent two years redesigning every surface inside and out,
+  keeping the load-bearing walls but transforming everything else. The result
+  looks as though the building grew rather than was built.
 tags:
 - things_to_do
 - sight

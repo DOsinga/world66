@@ -5,7 +5,9 @@ tags:
   - things_to_do
   - sight
   - architecture
-address: Carrer de Mallorca 401
+address: Carrer de Mallorca 401, Barcelona
+admission: €26 basic; tower visits extra
+opening_hours: Daily 9am–8pm (Oct–Mar closes 6pm); closed 25 Dec, 1 Jan
 latitude: 41.4036
 longitude: 2.1744
 snippet: Gaudí's unfinished cathedral — the defining building of Barcelona
@@ -18,6 +20,7 @@ story: >
   later. He is buried in the crypt beneath the building he had devoted the last
   forty years of his life to completing. On 20 February 2026, the basilica
   reached its final height of 172.5 metres — one hundred years after his death.
+url: www.sagradafamilia.org
 ---
 
 Construction of the Sagrada Família began in 1882 under a different architect. Gaudí took over in 1883, completely changed the design, and spent the rest of his life on it — at the end, living on site and working exclusively on this project. He expected it to take several generations. He was right: when he died in 1926, less than a quarter was complete. The building was finally finished in February 2026.

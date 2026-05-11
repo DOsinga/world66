@@ -13,6 +13,13 @@ tags:
 - oberkampf
 title: Père Lachaise Cemetery
 type: poi
+story: >
+  Père Lachaise was struggling commercially when Napoleon's prefect of Paris
+  hit on a scheme to attract custom: he had the remains of Molière, La
+  Fontaine, Héloïse and Abélard transferred there in 1804 with great public
+  ceremony. Overnight, the cemetery became fashionable, and Parisians began
+  clamouring to be buried near literary greatness. The gambit worked so well
+  that the cemetery had to be expanded five times.
 ---
 
 The largest cemetery in Paris is one of the city's strangest and most rewarding destinations. Its 44 hectares of cobbled lanes and overgrown tombs feel like a village frozen in the 19th century, and the guest list is extraordinary: Molière, Balzac, Proust, Chopin, Edith Piaf, Oscar Wilde, Isadora Duncan, and Jim Morrison are all here, along with thousands of less famous Parisians in graves ranging from crumbling 18th-century monuments to polished modern stones.

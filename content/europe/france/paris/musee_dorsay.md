@@ -13,6 +13,12 @@ tags:
 - saint_germain
 title: Musée d'Orsay
 type: poi
+story: >
+  The station closed for passenger service in 1939, too short for modern
+  trains. For decades it awaited demolition — plans included a luxury hotel,
+  even a parking garage. Orson Welles used it to film his 1962 adaptation of
+  Kafka's The Trial. The building was finally saved when a museum use was
+  approved in 1977, and the conversion took nine more years.
 url: www.musee-orsay.fr
 ---
 

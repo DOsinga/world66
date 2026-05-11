@@ -5,9 +5,17 @@ done:
 latitude: 41.413539
 longitude: 2.153315
 snippet: Gaudí's fantastical hilltop park of mosaics and curves
+story: >
+  Parc Güell was designed as a private residential estate — Gaudí and his
+  patron Eusebi Güell planned 60 villas, a market, and a chapel for wealthy
+  residents. Only two houses were ever built (Gaudí himself lived in one of
+  them). The estate was a commercial failure; Güell's heirs donated it to the
+  city in 1922. The house where Gaudí lived from 1906 to 1925 still stands and
+  is now a small museum.
 tags:
 - things_to_do
 - sight
+- architecture
 title: Parc Güell
 type: poi
 ---

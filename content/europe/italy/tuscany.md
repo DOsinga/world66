@@ -6,6 +6,8 @@ longitude: 11.2486
 done:
   location_cleanup: 2026-04-05
 score: 0.89
+tier: 1
+tags: [culture, museums, history, food, nature, architecture, hiking]
 image: tuscany.jpg
 image_source: https://commons.wikimedia.org/wiki/File:01665_ITA_Tuscany_Pitigliano_S_from_viewpoint_V-P.jpg
 image_license: CC BY-SA 4.0

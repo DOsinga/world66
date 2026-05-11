@@ -1,11 +1,14 @@
 ---
 done:
   location_cleanup: '2026-04-05'
+  location_enrich: '2026-05-09'
 latitude: 36.407111
 longitude: 25.456664
 title: Santorini
 type: location
 score: 0.91
+tier: 2
+tags: [beaches, history, architecture, nature]
 image: santorini.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg
 image_license: CC BY-SA 4.0

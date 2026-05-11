@@ -1,11 +1,14 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-09'
 latitude: -44.619019
 longitude: 167.86876
 title: Milford Sound
 type: location
 score: 0.91
+tier: 3
+tags: [nature, hiking, wildlife]
 image: milfordsound.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland_National_Park_01.jpg
 image_license: CC BY-SA 4.0

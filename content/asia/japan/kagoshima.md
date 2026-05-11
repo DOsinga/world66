@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+image: kagoshima.jpg
+image_attribution: The Modern Polymath
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2025-09-08_Sakurajima_Sunrise.jpg
 latitude: 31.5216
+loc_type: city
 longitude: 130.5474
+score: 0.64
 title: Kagoshima
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Kagoshima faces one of the most dramatic urban backdrops in Japan: Sakurajima, an active volcano that regularly dusts the city in fine ash. The mountain looms across the bay, connected by a fifteen-minute ferry that runs around the clock. On clear days the views from the waterfront are extraordinary; on ash days, residents carry umbrellas and sweep their cars.

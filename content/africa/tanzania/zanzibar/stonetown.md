@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
+image: stonetown.jpg
+image_attribution: Willem van der Horst
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Beit_al_Ajaib,_2010.jpg
 latitude: -6.162653
+loc_type: city
 longitude: 39.189655
+score: 0.72
 title: Stone Town
 type: location
-score: 0.72
-loc_type: city
 ---
 
 Stone Town is the old heart of [Zanzibar](/africa/tanzania/zanzibar) and one of the most atmospheric towns on the East African coast. Its labyrinth of narrow alleys, carved wooden doors, and coral-stone buildings reflects centuries of Swahili, Arab, Persian, Indian, and European influence — a UNESCO World Heritage Site since 2000.

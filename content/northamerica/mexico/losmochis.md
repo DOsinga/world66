@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-11'
+image: losmochis.jpg
+image_attribution: Francisco Mochis es.wikip
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Casa_condado_espinoza_de_Los_Mochis.jpg
 latitude: 25.792806
+loc_type: city
 longitude: -108.990188
+score: 0.46
 title: Los Mochis
 type: location
-image: losmochis.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Casa_condado_espinoza_de_Los_Mochis.jpg
-image_license: Public domain
-image_attribution: Francisco Mochis es.wikip
-score: 0.46
-loc_type: city
 ---
 
 Los Mochis is the western gateway to the Copper Canyon (Barrancas del Cobre), one of Mexico's most spectacular natural landscapes. Most travellers pass through on their way to or from the famous Chepe railway, which climbs from sea level into the Sierra Madre Occidental — but the city and its surroundings are worth more than a quick overnight.

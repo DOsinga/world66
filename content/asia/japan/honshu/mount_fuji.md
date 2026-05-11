@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-09'
 latitude: 35.362838
 longitude: 138.730768
 title: Mount Fuji

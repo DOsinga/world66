@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-09'
 image: thebosphorus.jpg
 image_attribution: Ank Kumar
 image_license: CC BY-SA 4.0

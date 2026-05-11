@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-11'
 image: port_burwell.jpg
-image_attribution: Gordon Leggett
+image_attribution: JustSomePics
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:15-04-19_019_Side_view_of_modern_fish_tug,_AMANDA_MAY_at_dock_in_Port_Burwell,_Ontario_Canada.jpg
+image_source: https://commons.wikimedia.org/wiki/File:HMCS_Ojibwa_side.jpg
 latitude: 42.6467
 loc_type: city
 longitude: -80.8003

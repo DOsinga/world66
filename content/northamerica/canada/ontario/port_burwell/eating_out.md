@@ -3,4 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Port Burwell has a small selection of restaurants and takeaway places, most of them seasonally operated around the summer beach trade. Lake Erie perch is the thing to order — it's caught locally and fried to order at several spots in town. Fish and chips with fresh perch beats anything you'll find in a city seafood restaurant.
+Port Burwell is small and the choice is short, but the lake delivers the goods. **Lake Erie yellow perch** — small, white-fleshed, deep-fried — is the local fish and most places do a version of fish and chips with it. Smelt, when in season in April, is the other Lake Erie speciality worth ordering.
+
+The main strip is Robinson Street between the highway and the lighthouse. Off-season, hours shrink: many restaurants in town close on weekdays from November to April.

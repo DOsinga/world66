@@ -3,8 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-Kawartha Lakes is a car destination. Lindsay, the main town, is about 140 kilometres northeast of Toronto — roughly 90 minutes on the 401 and Hwy 35/115 when traffic is reasonable, longer on summer weekends. There is no passenger rail to Lindsay or the surrounding towns.
+Kawartha Lakes is in central Ontario, about 90 minutes' drive northeast of Toronto. The municipality is large and the towns are spread across an area roughly 100 kilometres across, so a car is essentially required unless you are content to stay put in one community.
 
-GO Transit runs buses from downtown Toronto (Union Station) to Lindsay, with several services per day. The journey takes about two hours. From Lindsay, getting around the rest of the municipality requires a car — distances between towns are substantial and there is no local public transport to speak of.
+**By car:** From Toronto, take Highway 401 east to exit 436 (Highway 35) at Newcastle, then 35 north to Lindsay. The drive takes 90 minutes outside rush hour, two hours on a Friday evening in summer. From Ottawa, take Highway 7 west to Norwood and then to Bobcaygeon (around 3.5 hours).
 
-Cycling into the region from the south via the rail trails is possible for committed cyclists, but the roads in the municipality are not particularly bike-friendly outside of dedicated trail sections.
+**By bus:** Coach Canada runs daily buses between Toronto and Lindsay via Peterborough; journey time is around 2.5 hours. There is no service into the smaller villages.
+
+**By air:** The closest major airport is Toronto Pearson (CYYZ, 130 km southwest). Peterborough Municipal (CYPQ) handles light aircraft only.

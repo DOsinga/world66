@@ -3,6 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-Port Burwell is a car destination. There is no train service and no scheduled bus. The nearest major centre is Tillsonburg (25 km north), which itself has limited public transport. From London, Ontario, the drive south takes about an hour on Hwy 19. From Toronto, allow two and a half to three hours via the 401.
+Port Burwell is on the Lake Erie shore in Elgin County, about an hour south of London, Ontario and three hours' drive from Toronto. There is no rail or scheduled bus service into the town — a car is essentially required.
 
-The village is signed from Hwy 3 (the Talbot Trail) which runs along the Lake Erie shore. If you are coming from Niagara Falls, the drive along Hwy 3 through the lake shore towns is a pleasant alternative to the highway — it adds time but passes through vineyards, beach communities, and the Long Point area.
+**By car:** Take Highway 401 to exit 216 at Tillsonburg, then Highway 19 south. The drive from Toronto along the 401 takes 2.5–3 hours; from Niagara Falls about two hours via Highway 3 and the 401; from Windsor and Detroit around 2.5 hours.
+
+**By air:** The closest airports with scheduled service are London International (CYXU, 65 km north) and Hamilton (CYHM, 130 km east). Toronto Pearson (CYYZ, 200 km) has the widest international service but is the furthest drive.
+
+**By boat:** Port Burwell has a small public harbour at the mouth of Big Otter Creek, with floating docks and a Transport Canada lighthouse channel. Most arrivals are recreational craft cruising the Lake Erie north shore.

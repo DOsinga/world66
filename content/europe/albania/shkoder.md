@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-07'
   location_enrich: '2026-05-11'
 image: shkoder.jpg
-image_attribution: Inga Tomane
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Albania._Shkod%D1%91r_(1)_06.jpg
+image_attribution: Tobias Klenze / CC-BY-SA 4.0
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2013-10-03_View_from_Rozafa_Castle,_Shkod%C3%ABr_0269.jpg
 latitude: 42.068137
 loc_type: city
 longitude: 19.512144

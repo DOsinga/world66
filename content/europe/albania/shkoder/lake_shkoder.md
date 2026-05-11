@@ -1,13 +1,13 @@
 ---
 title: "Lake Shkodër"
 type: poi
-latitude: 42.0717
-longitude: 19.4917
+latitude: 42.1500
+longitude: 19.4000
 tags:
   - things_to_do
   - sight
 ---
 
-Lake Shkodër (Liqeni i Shkodrës) is the largest lake in the Balkans, shared between Albania and Montenegro. The Albanian shoreline stretches for about 45 kilometres and is almost entirely undeveloped — a quiet, bird-rich landscape of reedbeds, wetlands, and low hills that contrasts sharply with the developed Montenegrin side around Virpazar and Shkadarskooko Jezero.
+The largest lake in the Balkans — 370 square kilometres at full pool, two-thirds in Montenegro and one-third in Albania. The Albanian side runs from the village of Shiroka on the southern shore up to the Montenegro border, with the **Lake Shkodër Nature Reserve** protecting a strip of marsh, reed bed, and mixed forest along the shoreline.
 
-The lake supports large populations of great white pelicans, cormorants, herons, and eagles. The best birdwatching is in the reed beds at the southern end of the lake, accessible by bicycle from Shkodër in about 20 minutes. Several small fishing villages along the shore rent rowing boats and can arrange simple local meals. The cycling paths from Shkodër to the lake and along the shoreline are the most developed in Albania — well-signed, mostly flat, and genuinely enjoyable.
+Birdwatching is the main draw: more than 280 species recorded, including Dalmatian pelican, pygmy cormorant, ferruginous duck, and large numbers of migratory waterfowl in spring and autumn. Local boatmen run trips from Shiroka in summer for a modest fee. A signed cycle path runs the length of the Albanian shore from Shkodër out to the border and is the best way to see the lake without a boat.

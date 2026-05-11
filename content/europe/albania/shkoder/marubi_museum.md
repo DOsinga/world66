@@ -6,10 +6,9 @@ longitude: 19.5156
 tags:
   - things_to_do
   - museum
-story: >
-  Pietro Marubbi was an Italian revolutionary who fled to Albania in 1856 after a failed insurrection and reinvented himself as a photographer in Shkodër. He trained a local apprentice, Kel Marubi, who took his name and continued the studio after his death. The Marubi family photographed Shkodër continuously for over a century, creating the most complete visual record of any Albanian city — including photographs of Shkodër's women in public, which was almost unheard of in the late Ottoman period.
+story: "Pjetër Marubi opened his studio in Shkodër in 1858 — the first photography studio in the Ottoman Balkans. The Marubi family kept working for three generations, until the Communist takeover in 1944, and the museum holds the resulting 500,000-plate archive: portraits of merchants, mountain warriors, peasant brides in traditional dress, the funerals of Albanian princes."
 ---
 
-The Marubi Museum is the most important photography museum in Albania and one of the most significant in the Balkans. It holds over 150,000 glass-plate negatives and photographs taken by the Marubi family of photographers between 1858 and the 1970s — an unbroken record of Albanian society, costume, and daily life spanning more than a century.
+A 2016 conversion of a 19th-century townhouse into one of the best photography museums in Southeast Europe. The permanent exhibition rotates around 200 prints from the Marubi family archive — Albania between 1858 and 1944, photographed across three generations — alongside displays on the photographers' techniques and equipment.
 
-The permanent collection is displayed in a purpose-built building and is beautifully curated. The portraits of 19th-century Albanians in their regional costumes are extraordinary: warriors, priests, merchants, women photographed at a time when women in this part of the world rarely appeared in public photographs at all. The museum also holds temporary exhibitions. It's small enough to see thoroughly in an hour and a half, and the admission price is minimal.
+The prints are exceptional: studio portraits of the late Ottoman elite, candid shots of village life in the Albanian Alps, formal photographs of the early 20th-century independence movement. English captions throughout. Allow at least 90 minutes; the museum is small but every print rewards close looking.

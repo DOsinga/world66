@@ -3,8 +3,12 @@ title: "When to Go"
 type: section
 ---
 
-Summer (late June to early September) is the busy season for Kawartha Lakes, when cottagers take over the lakes and the towns fill with weekenders from Toronto. This is also when the region is at its most beautiful — the lakes are warm, the locks are operating, and the summer festivals are running. Book accommodation well ahead if you plan to visit a summer long weekend.
+The Kawarthas have two distinct seasons that visitors come for: summer and winter, with two short shoulder seasons in between.
 
-Late May and early June, before the cottage season peaks, is an excellent alternative. The lakes are quiet, the fishing is excellent, and you can canoe for hours without seeing another boat. Autumn (September–October) is lovely for colour and hiking. Winters are cold and snowy, but ice fishing and snowmobiling have their own devoted following.
+**Summer (June–early September)** is the obvious one. The lakes are warm, the locks are operating, the village shops are open seven days a week, and the cottagers are in residence. Weekends in July and August are very busy; weekdays much quieter. The Bobcaygeon Music Series, Kawartha Pumpkinfest in Lindsay, and the Fenelon Falls Friday Night Market all run in this window.
 
-Avoid the August long weekend (first Monday in August) if crowds bother you — it is the single busiest weekend in cottage country.
+**Autumn (late September–October)** brings the colour — sugar maple, beech, and red oak through the rolling country between the lakes. Cooler nights, the lakes still swimmable into late September, the crowds gone. The Trent-Severn closes the locks in mid-October.
+
+**Winter (December–March)** is quieter than you would expect for cottage country. Ice fishing is a serious local industry on Pigeon and Sturgeon, snowmobiling trails crisscross the municipality, and Sir Sam's Ski/Ride is an hour to the north. Many cottage-country restaurants and shops close from November to March.
+
+**Avoid mud season** — the few weeks from late March to mid-April when the ice is breaking up but the trails are not yet dry. There is very little to do.

@@ -1,13 +1,15 @@
 ---
 title: "Port Burwell Provincial Park"
 type: poi
-latitude: 42.6433
-longitude: -80.8120
+latitude: 42.6519
+longitude: -80.8169
 tags:
   - things_to_do
   - sight
+  - park
+  - beach
 ---
 
-Port Burwell Provincial Park sits just west of town across Otter Creek, protecting two kilometres of sandy Lake Erie beach backed by tall sand bluffs. The beach is one of the best on the north shore of Lake Erie: wide, sheltered, and with warmer water than you'd expect — Lake Erie is the shallowest of the Great Lakes and heats up quickly in summer.
+The Ontario provincial park immediately west of Otter Creek wraps a two-kilometre crescent of fine sand beach and around 230 hectares of mixed Carolinian forest. The beach is the main draw — wide, gently shelving, warm enough to swim from late June to early September — and the campground behind it is one of the busiest on Lake Erie.
 
-The park has campgrounds for both tents and trailers, making it a base for exploring the surrounding area. Day-use visitors pay a provincial park fee in summer. Birdwatching is good in spring and autumn along the creek and forest edges, as the park sits on a migration flyway. The bluffs behind the beach are gradually eroding — don't walk too close to the edge.
+The park has marked walking trails through the woods, picnic shelters, a small visitor centre, and a boat launch. Day-use parking fills early on summer weekends; arrive before 10am or come midweek. Campsite reservations open in January and the prime sites are gone by the end of the month.

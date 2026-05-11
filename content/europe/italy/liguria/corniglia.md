@@ -3,18 +3,7 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-11'
 image: corniglia.jpg
-image_attribution: 'This Photo was taken by Timothy A. Gonsalves.  Feel free to use
-  my photos, but please mention me as the author.  I would much appreciate if you
-  send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please
-  contact me before commercial use.
-
-
-
-
-  Please do not upload an edited image here without consulting me.  I would like to
-  make corrections only at my own source to ensure that the changes improve the image
-  and are preserved.Otherwise you may upload an edited image with a new name. Please
-  use one of the templates derivative or extract.'
+image_attribution: Timothy A. Gonsalves
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:East_Above_Corniglia_Cinque_Terre_Sep23_A7C_06797.jpg
 latitude: 44.119961

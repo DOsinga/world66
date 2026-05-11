@@ -3,4 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-Port Burwell's main draw is the beach and the lake. There are three distinct attractions worth seeking out: the lighthouse and marine museum, the submarine HMCS Ojibwa, and the long sandy beach at the provincial park across Otter Creek. For a small town, that's a solid day's worth of activity.
+Port Burwell punches above its weight for a town of fewer than a thousand people. The **Marine Museum and Historic Lighthouse** is the heart of the place — a wooden lighthouse from 1840 that is one of the oldest still standing on the Great Lakes — and the **HMCS Ojibwa** is the unlikely star turn: a 90-metre Cold War submarine pulled up on land beside Otter Creek and open for tours. Add the long sand beach at the **Provincial Park** and you have a more than full weekend.

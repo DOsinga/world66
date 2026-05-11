@@ -6,10 +6,10 @@ longitude: -80.8077
 tags:
   - things_to_do
   - sight
-story: >
-  HMCS Ojibwa served in the Royal Canadian Navy for 30 years, participating in Cold War patrols in the North Atlantic. In 1998 she was decommissioned. After years in limbo, the submarine arrived at Port Burwell in 2012 and was opened as a museum ship — the only publicly accessible submarine in Canada. The crew lived and worked in a pressure hull 90 metres long for weeks at a time.
+  - museum
+story: "The Ojibwa spent her active life trailing Soviet submarines under the Arctic ice. In 2012, she was barged across Lake Ontario, up the Welland Canal, and then dragged up the bank at Port Burwell on a custom railway over the course of three days — a piece of slow-motion theatre that drew thousands of spectators to a town that doesn't usually see traffic."
 ---
 
-HMCS Ojibwa is an Oberon-class submarine that spent three decades in the Royal Canadian Navy before becoming a museum ship moored at Port Burwell. She is the only publicly accessible submarine in Canada, and a visit inside her is genuinely startling — the scale of the living and working spaces, the density of equipment packed into every centimetre, and the simple reality that people actually lived in this tube for extended periods.
+A 90-metre Oberon-class submarine sitting on the grass on the east bank of Otter Creek. The Ojibwa served in the Royal Canadian Navy from 1965 to 1998, a Cold War hunter-killer designed to disappear into the deep Atlantic for weeks at a time. She was towed and dragged to Port Burwell in 2012 to become the centrepiece of the Elgin Military Museum's outdoor collection.
 
-The tour winds through the torpedo room, the control room, and the crew quarters. Guides explain how the boat operated and what Cold War submarine service was actually like. The site also includes a small exhibition about Canadian naval history. Open seasonally; check ahead as hours vary.
+Guided tours take you through the entire pressure hull — torpedo rooms, control room, sonar room, galley, the impossibly narrow officers' wardroom. The crew quarters are an eye-opener: 70 sailors sharing 60 bunks (the rest "hot-bunked" between shifts). Open daily from May to October; book ahead on summer weekends.

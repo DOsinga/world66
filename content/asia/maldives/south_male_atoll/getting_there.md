@@ -3,8 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-South Malé Atoll is served by speedboats from Malé and the airport. Transfers to resorts are arranged by the resorts themselves; for guesthouses on Maafushi, Guraidhoo, or other local islands, book through your accommodation. Speedboat journeys typically take 30–60 minutes depending on which island you're heading to.
+South Malé Atoll is reached from Velana International Airport (MLE) on Hulhulé island, immediately north of Malé.
 
-The public ferry from Malé to Maafushi runs twice daily (roughly morning and afternoon) and takes about 90 minutes — slow, but cheap, and the experience of travelling with locals on a Maldivian ferry is worthwhile. Check the ferry schedule carefully as it doesn't run every day to every island.
+**To resort islands:** Most South Malé resorts arrange speedboat transfers from the airport jetty as part of the booking. Transfer time is 30 minutes to 1.5 hours depending on the island. A few of the more distant resorts use seaplanes instead.
 
-The airport (Velana International Airport) is on Hulhulé, connected to Malé by a bridge — there's no need to transit through the capital itself if you want to go straight to the atoll.
+**To local islands:** Maafushi, Guraidhoo, and Gulhi are all served by the **public ferry** from Malé (around 90 minutes; ~$3) and by faster privately-operated **speedboats** (45 minutes; ~$25). The public ferry runs only on certain days of the week; check the MTCC schedule. Speedboats run several times a day and can be booked online.
+
+**Inter-island travel** within the atoll is by dhoni (traditional boat) or speedboat. Most guesthouses can arrange transfers to neighbouring islands as part of an excursion package.

@@ -3,4 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Shkodër has a decent restaurant scene for a city its size, concentrated around the pedestrian main street and the lanes behind the bazaar. Albanian food in this region leans heavily on grilled meats, fresh lake fish (caught from Shkodër Lake), and byrek — the flaky pastry filled with cheese, spinach, or meat that appears at any hour of the day. A full restaurant meal rarely costs more than €8–10 per person.
+Shkodër has a stronger restaurant scene than its size suggests, with two distinct strands: traditional northern Albanian places along the pedestrian street, and a handful of newer Italian-influenced restaurants and wine bars opened in the past decade. Lake fish is the local speciality — carp, eel, and the freshwater bleak called *gjuhëzë*, all best at the lakeside restaurants in **Shiroka**.
+
+The northern Albanian cuisine in general is hearty and meat-heavy: spit-roasted lamb, slow-cooked beans (*fasule*), polenta with mountain cheese. Locally produced *raki* — the clear grape spirit — is poured generously before meals. Cafés are everywhere and the espresso is consistently good (a legacy of Italian influence from across the Adriatic).

@@ -3,8 +3,10 @@ title: "When to Go"
 type: section
 ---
 
-The northeast monsoon (December to April) is the dry season and brings the clearest water and the calmest seas. Visibility for diving can reach 30 metres and beyond. This is also high season, when prices are at their peak.
+Two distinct seasons govern the Maldives.
 
-The southwest monsoon (May to November) brings rain and choppier conditions, but is far from useless: whale sharks are more likely during this period, and manta rays gather to feed on the plankton blooms. Prices drop significantly. June and July see the most rain; September and October improve. Avoid the peak monsoon months if you want to snorkel from the beach, as wave action can make it uncomfortable.
+**Dry season (November–April)**, called *Iruvai*, is high season for tourism. Skies are mostly clear, the sea is flat, underwater visibility is at its best (often 30 metres-plus on the eastern reefs), and the trade winds are gentle. This is when to come if diving is the primary reason for the trip. Prices are at their highest from late December through January.
 
-Year-round, the Maldives sits close to the equator and temperatures barely vary — around 28–32°C, with water at a similar temperature. Any time is viable; the choice is about visibility versus wildlife.
+**Wet season (May–October)**, called *Hulhangu*, brings the southwest monsoon, more frequent rain, and occasional rough seas. Underwater visibility drops a little, but conditions remain divable on most days. Mantas are more commonly seen on the eastern side of the atoll in this period as the currents reverse. Prices fall significantly outside of school holidays.
+
+**Best months overall:** February and March for clear conditions, August and September for value and mantas. **Avoid:** the changeover periods in late April–May and October–November, when weather can be unpredictable.

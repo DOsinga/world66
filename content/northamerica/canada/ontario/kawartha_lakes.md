@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-11'
 image: kawartha_lakes.jpg
-image_attribution: Eric Marshall
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Kawartha_Lakes,_ON,_Canada_-_panoramio.jpg
+image_attribution: Canmenwalker
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Doube%27s_Trestle_bridge_2024.jpg
 latitude: 44.359682
 loc_type: city
 longitude: -78.742173

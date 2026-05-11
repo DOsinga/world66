@@ -13,6 +13,3 @@ The menu covers pizza, seafood, and local specialities. Vanuatu beef is organic,
 
 Open seven days from 11am until late. A lunch special (990 Vt, around AUD$12) includes a meal and a beer or wine. Early diners get 10% off between 5pm and 7pm. Air-conditioned — a real bonus in the tropical heat.
 
-### [Pacific Cafe & Internet](/australiaandpacific/vanuatu/efate/eating_out/pacific_cafe__int)
-
-A cheap and cheerful spot on Lini Highway opposite The Sebel Hotel. Nothing on the menu exceeds 990 vatu and takeaway plates start at 350 vatu. Breakfast, pasta, pizza, and snacks in a no-frills setting. Internet access is also available.

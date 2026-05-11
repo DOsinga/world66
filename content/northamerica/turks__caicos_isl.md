@@ -3,6 +3,11 @@ title: Turks and Caicos Islands
 type: location
 latitude: 21.694
 longitude: -71.797
+quick_facts:
+  Population: "~46,000"
+  Cost Level: "Surprisingly expensive — budget $150+/night"
+  Islands and Cays: "40 — only 8 inhabited"
+  Coral Reef System: 3rd largest in the world
 image: turks__caicos_isl.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Turk_beach.JPG
 image_license: CC BY-SA 3.0
@@ -12,6 +17,7 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/User:Jersyko" class="e
 done:
   country_cleanup: 2026-03-29
 score: 0.77
+loc_type: country
 ---
 
 The Turks and Caicos Islands are a British Overseas Territory of about 40 islands and cays scattered across a broad shallow bank in the Atlantic Ocean, southeast of the Bahamas. Most are uninhabited. The ones that are not have become, improbably, some of the most sought-after beach destinations in the Caribbean.

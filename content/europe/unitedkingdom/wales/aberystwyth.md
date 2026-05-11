@@ -1,11 +1,14 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  poi_cleanup: '2026-04-20'
 latitude: 52.4145
 longitude: -4.0811
+score: 0.53
 title: Aberystwyth
 type: location
-score: 0.53
+loc_type: city
 ---
 
 Aberystwyth is a university town on the west coast of Wales, perched between the sea and some of the finest countryside in Britain. The name is famously hard for English speakers to pronounce — roughly "ab-er-IST-with" — but the town itself is disarmingly easy to like.

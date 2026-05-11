@@ -6,6 +6,7 @@ longitude: 134.7536
 title: Coober Pedy
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Coober Pedy is the opal capital of the world, and one of the strangest towns in [Australia](/australiaandpacific/australia). The name is said to derive from the Aboriginal *kupa piti* — "white fellow's hole in the ground" — and it is an accurate description. There are over 25,000 mine shafts dotting the barren landscape around town, and a large part of the population lives underground in dugout homes carved from the rock, escaping summer temperatures that regularly exceed 45°C.

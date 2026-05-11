@@ -6,6 +6,7 @@ longitude: 4.826825
 title: Hastière
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Hastière is a small rural commune in the Belgian Ardennes, strung along one of the most scenic stretches of the Meuse river near the French border. The valley here is particularly dramatic, with limestone cliffs rising directly above the water.

@@ -4,6 +4,7 @@ type: location
 latitude: 49.431
 longitude: -2.363
 score: 0.58
+loc_type: city
 ---
 
 Sark is three miles long and one and a half miles wide, and there are no cars. Tractors are used for farming and to haul luggage from the harbour; otherwise everyone gets around by bicycle or horse-drawn carriage. Mobile signal is poor. The pace drops noticeably from the moment you step off the ferry from Guernsey.

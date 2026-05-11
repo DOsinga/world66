@@ -13,9 +13,15 @@ image_attribution: <b>NOTE:</b> This image is a panorama of Seychelles consistin
   As a result of these adjustments, the image content may be slightly different from
   reality at the points where multiple images were combined. This manipulation is
   often required due to lens, perspective, and parallax distortions.
+quick_facts:
+  Population: "100,000"
+  Languages: "English, French & Creole"
+  Islands: "115"
+  Origin: Granitic (unique worldwide)
 done:
   country_cleanup: 2026-03-31
 score: 0.81
+loc_type: country
 ---
 
 The Seychelles are right in the heart of the Indian Ocean between the African East Coast and [India](/asia/india). They are a bit closer to Africa geographically speaking but culturally and geologically speaking it is maybe closer to the Indian subcontinent. The Seychelles are the only granitic islands in the world (all the others are volcanic or biological in origin) which accounts for it's unusual rock formations. The islands were "left behind" as the Indian sub-continent moved northward on its way to collide with Asia.

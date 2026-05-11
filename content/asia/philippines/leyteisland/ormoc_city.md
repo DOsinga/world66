@@ -6,6 +6,7 @@ longitude: 124.6094
 title: Ormoc City
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Ormoc is a chartered city on the west coast of [Leyte](/asia/philippines/leyteisland), known as the sugar capital of the Eastern Visayas. The surrounding countryside is lush with sugarcane fields and the city serves as a gateway to Lake Danao National Park in the highlands above town.

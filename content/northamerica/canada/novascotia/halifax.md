@@ -1,11 +1,14 @@
 ---
-title: Halifax
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-21'
 latitude: 44.6486
 longitude: -63.5859
-done:
-  location_cleanup: 2026-04-05
 score: 0.56
+title: Halifax
+type: location
+loc_type: city
 ---
 
 Halifax is the largest city in Atlantic Canada and the capital of Nova Scotia. Built on a harbour that ranks among the finest natural ports in the world, it has been a naval and commercial hub since its founding in 1749.

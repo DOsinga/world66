@@ -6,6 +6,7 @@ longitude: 5.627
 done:
   location_cleanup: 2026-04-02
 score: 0.33
+loc_type: city
 ---
 
 Benin City is the capital of Edo State in southern Nigeria, and one of the oldest cities in West Africa. For centuries it was the seat of the Benin Empire, a powerful kingdom whose bronze-casting artisans produced some of the finest metalwork the world has ever seen. When the British sacked the city in 1897, they looted over 2,000 bronze sculptures — most now scattered across European museums.

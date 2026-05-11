@@ -1,0 +1,5 @@
+europe/faroeislands/streymoy/saksun
+northamerica/unitedstates/colorado/monument
+northamerica/unitedstates/missouri/ozark
+africa/somaliland/borama
+africa/morocco/oualidia

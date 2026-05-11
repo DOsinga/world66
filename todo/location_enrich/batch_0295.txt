@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay
+europe/france/midi/cevennes/florac
+europe/italy/umbria/gubbio
+northamerica/unitedstates/maine/greenville_junction
+asia/srilanka/mihintale

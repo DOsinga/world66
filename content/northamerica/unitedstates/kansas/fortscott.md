@@ -6,6 +6,7 @@ longitude: -94.708288
 title: Fort Scott
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Fort Scott is a small city in southeastern Kansas whose history is inseparable from the conflicts that shaped America. The Fort Scott National Historic Site preserves a frontier military post that witnessed westward expansion in the 1840s, Bleeding Kansas in the 1850s, and the Civil War that followed.

@@ -1,0 +1,5 @@
+europe/italy/liguria/portovenere
+europe/croatia/rabisland
+northamerica/unitedstates/montana/three_forks
+northamerica/unitedstates/oregon/ashland
+europe/faroeislands/vagar/mivgur

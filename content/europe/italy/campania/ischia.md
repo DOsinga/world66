@@ -1,9 +1,14 @@
 ---
-title: Ischia
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
 latitude: 40.734205
 longitude: 13.947125
 score: 0.7
+title: Ischia
+type: location
+loc_type: region
 ---
 
 *Europe > Italy > Campania > Ischia*

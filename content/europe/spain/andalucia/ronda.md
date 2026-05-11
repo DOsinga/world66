@@ -1,11 +1,14 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
 latitude: 36.7421
 longitude: -5.1666
+score: 0.7
 title: Ronda
 type: location
-score: 0.7
+loc_type: city
 ---
 
 Ronda is split in half by a sheer river gorge that drops 130 metres on each side — one of the most dramatic townscapes in Spain. The Puente Nuevo, a spectacular arched bridge spanning the chasm, connects the old Moorish town to the newer districts and offers dizzying views of the valley below.

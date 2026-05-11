@@ -3,19 +3,6 @@ title: "When to Go"
 type: section
 ---
 
-Anytime is a good time to go to Mexico City, yet there are some times
-of the year that are more agreeable to the traveler. Mexico City is the
-most populated town in all of Mexico and is a favored vacation spot for
-millions of travelers each and every year. Developments in
-Mexico from the ongoing battle between the drug enforcement agencies
-and the Mexican drug cartels have caused a bit of concern and travel
-advisories. This must be taken into consideration. Your native country's Mexican consulate should have the best and most recent information on where exactly in Mexico City the criminal and tourist hot spots are located.
+The dry season runs roughly November to April and is the best time to visit. Days are mild and sunny, nights cool — Mexico City sits at 2,240m, so winter mornings can drop close to freezing. The rainy season from May to October brings dramatic but usually brief afternoon thunderstorms; the air is cleaner and the parks at their greenest. March and April can be hazy with smog before the rains break.
 
-Spring Time in Mexico City
-
-Spring time is the best time to arrive in Mexico City and the
-beautiful flowers of the Paseo de la Large Reforma Avenue boutiques are
-in full bloom and the aroma is indeed spellbinding. Any visit to Mexico
-City in the spring will have to include a short tour through the
-neighborhood of San Angel, Mexico City. With its cobblestoned streets
-and romantic plazas the borough of San Angel takes one
+Time a visit around a festival if you can. The Day of the Dead (31 October to 2 November) sees altars and parades across the city. Independence Day on 16 September fills the Zócalo for the president's "Grito de Dolores" the night before. Holy Week empties the city of locals and is a quieter, calmer time to visit.

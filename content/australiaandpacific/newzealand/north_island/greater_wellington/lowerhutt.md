@@ -6,6 +6,7 @@ longitude: 174.905763
 title: Lower Hutt
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Lower Hutt is just 15 minutes drive northeast from

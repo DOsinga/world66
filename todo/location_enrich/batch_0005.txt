@@ -1,0 +1,5 @@
+africa/sierraleone/makeni
+europe/italy/tuscany/pisa
+asia/india/andhrapradesh/lepakshi
+northamerica/unitedstates/montana/redlodge
+asia/philippines/aklan/kalibo

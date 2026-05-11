@@ -1,12 +1,11 @@
 ---
-title: "Eating Out"
-type: section
-address: "Onderbergen 42"
-phone: "09.224.36.27"
-price: "15-25 €"
-type: "Italian"
+address: Onderbergen 42
 latitude: 51.052024
 longitude: 3.719474
+phone: 09.224.36.27
+price: 15-25 €
+title: Eating Out
+type: poi
 ---
 
 ### [Kastart](/europe/belgium/ghent/eating_out/kastart)

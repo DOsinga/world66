@@ -1,18 +1,8 @@
 ---
-title: "Eating Out in Denizli"
+title: Eating Out
 type: section
-price: "Approx. $8USD"
-type: "Middle East"
 ---
 
-### [Cezayir Usta](/asia/turkey/denizli/eatingout/giovanna)
+### Cezayir Usta
 
-If you like doner kebap, you will love **Cezayir Usta** located in Denizli. It has the best doner I have ever tried in Turkey! Also, they just renovated and are now in a more comfortable, air conditioned, restaurant.
-
-type: Middle East
-
-
-
-[[rate it]](/asia/turkey/denizli/eatingout/giovanna)
-
-PriceOfMenu: Approx. $8USD
+If you like döner kebap, you will love **Cezayir Usta** in Denizli. It has some of the best döner in Turkey. The restaurant recently renovated and is now in a more comfortable, air-conditioned space.

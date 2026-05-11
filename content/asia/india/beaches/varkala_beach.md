@@ -1,20 +1,14 @@
 ---
 title: "Varkala Beach"
 type: poi
-address: "Coimbatore"
-latitude: 11.001812
-longitude: 76.962842
+latitude: 8.7333
+longitude: 76.7167
+snippet: Dramatic cliff-backed beach in Kerala's south
+tags:
+- things_to_do
+- beach
 ---
 
-One of the most serene and beautiful beaches in India. Varkala - with religious significance it gives a tourist the pleasure of unexploited beige, blue and ofcourse green [hey! you are in Kerala]. So, if you are planning for a natural, yet to be commercialised beach you have to head for Varkala which is about 45Km from Thiruvananthapuram. Capital of Kerala, India. And you can renounce your's and your forefathers sins by dipping in the waters since it is believed to cleanse you off these sins. And do visit the Janarthan Temple nearby.
+Varkala is unlike any other beach in Kerala. Instead of flat sand stretching to the horizon, dramatic red laterite cliffs rise straight up from the shore, with restaurants, shops, and guesthouses perched along the cliff edge. The main stretch, known as Papanasam Beach, is considered sacred — Hindu tradition holds that bathing here washes away sins, and the ancient Janardhana Swami Temple sits just above.
 
-Varkala is Enchanting.
-
-**Contributors**
-April 12, 2007
-
-
-
-
-
-address: Coimbatore
+The beach itself is a beautiful curve of golden sand with decent swimming, though you should watch the currents. The cliff-top path running north offers spectacular views and is lined with places to eat fresh seafood while watching the sunset. About 45 km north of Thiruvananthapuram, Varkala has grown from a quiet pilgrimage spot into a laid-back traveler hangout, but it still feels far more relaxed than Kovalam or Goa.

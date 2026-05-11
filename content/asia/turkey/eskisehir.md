@@ -6,6 +6,7 @@ longitude: 30.519116
 title: Eskişehir
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Eskişehir is one of Turkey's most pleasant surprises: a lively, progressive university city in the middle of the Anatolian steppe that feels nothing like the conservative heartland surrounding it. Two large universities fill the city with students, and the result is a cafe culture, a nightlife scene, and a creative energy that rival Istanbul or Izmir on a smaller, more walkable scale.

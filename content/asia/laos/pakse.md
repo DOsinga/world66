@@ -1,9 +1,13 @@
 ---
-title: Pakse
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
 latitude: 15.120146
 longitude: 105.804397
 score: 0.54
+title: Pakse
+type: location
+loc_type: city
 ---
 
 Pakse is the largest city in southern Laos and the gateway to some of the country's most rewarding destinations. Sitting at the confluence of the Mekong and Se Don rivers, it is a practical base rather than a destination in itself -- but it has a pleasant enough riverside setting and decent food.

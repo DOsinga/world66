@@ -7,9 +7,15 @@ image: maldives.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bathala_(Maldives)_6.jpg
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Gzzz" title="User:Gzzz">Gzzz</a>
+quick_facts:
+  Population: "520,000"
+  Religion: "100% Muslim (alcohol on resort islands only)"
+  Islands: "1,190"
+  Highest Point: "~2 metres"
 done:
   country_cleanup: 2026-03-29
 score: 0.9
+loc_type: country
 ---
 
 The Maldives is like nowhere else on earth — 1,190 coral islands scattered across 90,000 square kilometres of the Indian Ocean, so flat that even a modest sea-level rise could claim much of the country within decades. The highest point in the entire nation barely clears two metres above sea level. That fragility is part of what gives the place its particular intensity: this beauty feels borrowed.

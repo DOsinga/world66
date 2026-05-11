@@ -6,6 +6,7 @@ longitude: 42.74446
 title: Assab
 type: location
 score: 0.23
+loc_type: city
 ---
 
 **Assab** is a port city in the far south of [Eritrea](/africa/eritrea), close to the border with [Djibouti](/africa/djibouti). It sits on the Red Sea coast in a hot, arid stretch of land and is one of the most remote cities in the country.

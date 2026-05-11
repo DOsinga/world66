@@ -1,5 +1,7 @@
 ---
-title: "Food"
+done:
+  poi_cleanup: '2026-04-20'
+title: Food
 type: section
 ---
 

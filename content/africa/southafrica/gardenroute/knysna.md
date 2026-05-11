@@ -6,6 +6,7 @@ longitude: 23.0485
 done:
   location_cleanup: 2026-04-07
 score: 0.64
+loc_type: city
 ---
 
 Knysna (the K is silent — "Nyss-na") is one of the most popular stops on the Garden Route, draped around a lagoon that is guarded at its mouth by two dramatic sandstone cliffs called The Heads. The views from the Eastern Head are spectacular, and the lagoon itself — with its oyster farms and houseboats — is the town's defining feature.

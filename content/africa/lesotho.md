@@ -8,9 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Lesotho_snow_-_panoramio.j
 image_license: CC BY-SA 3.0
 image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161015141217/http://www.panoramio.com/user/2308917?with_photo_id=39370343">Paramente
   Phamotse</a>
+quick_facts:
+  Population: "2.3 million"
+  Currency: "Loti (pegged to South African Rand)"
+  Lowest Point: "1,400 m — highest of any country"
 done:
   country_cleanup: 2026-03-31
 score: 0.41
+loc_type: country
 ---
 
 Lesotho is a tiny country in Southern Africa, and landlocked within the Republic of South Africa. It used to be known as Basutoland when it was a British Protectorate. It is spectacularly scenic, and has a large mountain range (part of the Drakensberg), forming most of its border. All of Lesotho consists of high mountainous terrain. Even the region that is referred to as the lowlands is over 1000 meters high. The main attraction of the country is its ruggedness and its people who in many cases still follow a traditional way of life.

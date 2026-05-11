@@ -6,7 +6,13 @@ latitude: 0.196
 longitude: -176.4781
 title: Baker Island
 type: location
+quick_facts:
+  Permanent Population: "0"
+  Size: "1.6 km long"
+  Breeding Seabirds: "Over 1 million"
+  Public Access: Prohibited without special permit
 score: 0.13
+loc_type: country
 ---
 
 Baker Island is a tiny, flat coral atoll sitting almost exactly on the equator, roughly 2,600 km southwest of Honolulu. It is an unorganized, unincorporated territory of the United States — and it is completely off-limits to the general public.

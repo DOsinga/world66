@@ -3,9 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-Shopping in Malaga is definitely a treat! Not only will you find some of the most unique gifts, souvenirs and foods available in Spain during your Malaga trip, you will also find these items and more at some of the lowest prices in the country. Of course, much like any other city, Malaga has its fair share of upscale shopping venues as well. In and around Malaga, you will find everything from designer boutiques and international chains and malls to weekly markets, souvenir strips, antique stores, and more.
+Málaga's main shopping street is **Calle Marqués de Larios**, a marble-paved pedestrian boulevard running from the Alameda to Plaza de la Constitución, lined with mid-range Spanish chains, international brands, and the city's Christmas-light spectacle in December. The big department store **El Corte Inglés** is a few blocks west on Avenida de Andalucía.
 
-**Marques de Larios** is the city's shopping center featuring expensive shops and a number of attractions such as churches and museums nearby as well as Malaga's central market. **El Corte Ingles** is the areas most popular department store, and trendy fashions can be found at a Spanish chain called "Blanco" located at Puerta del Mar 13. Continue reading through the listings to find out about some of Malaga's most popular places to shop as well as a few off-the-beaten-path places that shouldn't be missed!
-
-**Contributors**
-June 03, 2008
+For something more interesting, head to the **Mercado Central de Atarazanas** — a 19th-century iron-and-glass market hall built around the surviving Moorish gate of the old shipyard, with stalls of fish, jamón, olives, and spices, plus a row of tapas counters where you can eat what you have just bought. The lanes around the **Soho** district have small design shops and independent galleries, while the SoHo flea market on the second Sunday of each month is good for vintage and craft.

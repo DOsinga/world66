@@ -8,7 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Volcan_Karthala_vue_de_la_
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Lolodevenelles&amp;action=edit&amp;redlink=1"
   class="new" title="User:Lolodevenelles (page does not exist)">Lolodevenelles</a>
+quick_facts:
+  Population: "900,000"
+  Religion: "98% Sunni Muslim"
+  Coups Since 1975: "20+"
+  Known As: The Perfume Islands
 score: 0.42
+loc_type: country
 ---
 
 The Comoros islands sit in the Mozambique Channel between Madagascar and the African mainland, and they are one of the least visited countries on earth. That is a shame and also part of the appeal. This is a place where volcanic peaks rise from turquoise water, the air smells of ylang-ylang and cloves, and the culture is a fascinating blend of African, Arab, Malagasy, and French influences that you will not find anywhere else.

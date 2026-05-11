@@ -1,0 +1,33 @@
+[
+  {
+    "url": "/places/world-discoverer-g",
+    "type": "Place",
+    "item-id": "1623",
+    "gtm-content-type": "Place",
+    "lat": "-9.023103",
+    "lng": "160.123031",
+    "state": "Guadalcanal Province",
+    "country": "Solomon Islands",
+    "src": "https://img.atlasobscura.com/8rDakoA1kuSCdWB5Px5bJAGe5Ok6f2pv9z39z5UURc8/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMjE0/NjU2LmpwZw.jpg",
+    "width": "3008",
+    "height": "2000",
+    "name": "The World Discoverer",
+    "description": "The ship that got left behind."
+  },
+  {
+    "url": "/places/egg-fields-of-savo-island",
+    "type": "Place",
+    "item-id": "31463",
+    "gtm-content-type": "Place",
+    "lat": "-9.130729",
+    "lng": "159.806133",
+    "city": "Panueli",
+    "state": "Savo Island",
+    "country": "Solomon Islands",
+    "src": "https://img.atlasobscura.com/gcXHumfD7maZj6xNgUGIuGicJYH6LW532OfA1WR_Idk/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MWQ2/ZmU0My0zNDMyLTQ4/ZjQtOWFiNy05Njcx/ZGI3Y2Y0NTk3NjAz/NmJiNGI0MTAxNjJk/Yzlfc2F2b2lzbGFu/ZGVnZ19yb2JlcnRo/YXJkaW5nX2FsYW15/Mi5qcGc.jpg",
+    "width": "5150",
+    "height": "3427",
+    "name": "Egg Fields of Savo Island",
+    "description": "Megapodes incubate their eggs using the heat of an active volcano on this Pacific isle."
+  }
+]

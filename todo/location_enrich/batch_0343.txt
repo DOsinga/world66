@@ -1,0 +1,5 @@
+europe/spain/galicia/vilalba
+northamerica/unitedstates/mississippi/natchez
+northamerica/costarica/ciudadquesada
+northamerica/greenland/nanortalik
+northamerica/unitedstates/wyoming/laramie

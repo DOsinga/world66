@@ -10,7 +10,13 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Zaher</a> from Melbourne, Australia
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "11,000"
+  Area: "21 km² — world's 3rd smallest country"
+  Interior Landscape: Moonscape from phosphate mining
+  Tourists Per Year: A few hundred
 score: 0.36
+loc_type: country
 ---
 
 Nauru is one of the strangest places on Earth. The world's third-smallest country — only Monaco and the Vatican are smaller — sits just south of the Equator in the Central Pacific, a raised coral island barely 21 square kilometres in area. Its 11,000 or so residents live almost entirely on a narrow coastal strip, because the interior is largely uninhabitable: stripped bare by a century of phosphate mining, it looks like a moonscape of jagged limestone pinnacles and abandoned machinery.

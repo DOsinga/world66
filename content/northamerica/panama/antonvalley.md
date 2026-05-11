@@ -6,6 +6,7 @@ longitude: -80.1264
 title: Anton Valley
 type: location
 score: 0.52
+loc_type: city
 ---
 
 The Anton Valley (El Valle) is located within the crater of the second largest inhabited dormant volcano in the world. It is a popular destination for city people and tourists due to its proximity to Panama city. The cooler climate is a pleasant change from the heat and humidity of the city. 

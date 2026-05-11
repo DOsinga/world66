@@ -11,7 +11,13 @@ latitude: -13.2543
 longitude: 34.3015
 title: Malawi
 type: location
+quick_facts:
+  Population: "20 million"
+  Language: "English widely spoken"
+  Lake Malawi: "20% of the country's area"
+  Fish Species in Lake: "1,000+ (most endemic)"
 score: 0.45
+loc_type: country
 ---
 
 Malawi is a small, landlocked country in southeastern Africa — thin and elongated, running north to south along the western edge of the Great Rift Valley. The country is dominated by Lake Malawi, one of the world's great freshwater lakes, which occupies almost a fifth of the national territory. The lake gives Malawi its defining character: a long blue horizon, fishing villages on the shore, and some of the best freshwater diving anywhere.

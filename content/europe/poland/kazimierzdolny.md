@@ -6,6 +6,7 @@ longitude: 21.947372
 title: Kazimierz Dolny
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Kazimierz Dolny is a small town on the Vistula River, about two hours south of Warsaw. It has been a favourite weekend escape for artists and Warsaw residents for over a century — the combination of Renaissance architecture, riverside setting, and wooded hills makes it one of the most picturesque towns in [Poland](/europe/poland).

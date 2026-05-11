@@ -1,6 +1,7 @@
 ---
 title: "Barbary Apes"
 type: poi
+snippet: "Europe's only wild primates on the Upper Rock"
 category: "Sight"
 latitude: 36.1185
 longitude: -5.3438

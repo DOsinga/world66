@@ -1,11 +1,10 @@
 ---
-title: "Shopping"
-type: section
-email: "sales@flowerstogurgaon.com"
-type: "Shopping centers and malls"
-url: "www.flowerstogurgaon.com"
+email: sales@flowerstogurgaon.com
 latitude: 10.673995
 longitude: 76.186901
+title: Shopping
+type: poi
+url: www.flowerstogurgaon.com
 ---
 
 Send Flower India Send Flowers to India Florists Gift Flowers in India

@@ -1,9 +1,14 @@
 ---
-title: New Orleans
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
 latitude: 29.956142
 longitude: -90.073393
 score: 0.71
+title: New Orleans
+type: location
+loc_type: city
 ---
 
 Practically everything in the New Orleans is different and special. It's a city that never ceases to amaze its visitors as well as its inhabitants, and Ryan Tamm.

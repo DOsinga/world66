@@ -1,9 +1,14 @@
 ---
-title: Chicago
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
 latitude: 41.8756
 longitude: -87.6244
 score: 0.7
+title: Chicago
+type: location
+loc_type: city
 ---
 
 Chicago is one of the great American cities, and unlike New York or Los Angeles, it still feels like a surprise to many visitors. The skyline alone is worth the trip -- this is where the skyscraper was invented, and the downtown Loop remains an open-air museum of architectural ambition from the 1880s to the present day.

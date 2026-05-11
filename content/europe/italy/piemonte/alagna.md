@@ -6,6 +6,7 @@ longitude: 8.889846
 title: Alagna
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Alagna Valsesia sits at the end of the road beneath Monte Rosa, the second-highest massif in the Alps. The village is small and has a genuine Alpine character — stone and timber houses, a handful of restaurants, and not much else besides the mountains.

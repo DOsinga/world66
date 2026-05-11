@@ -6,6 +6,7 @@ longitude: -92.1053
 title: Duluth
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Duluth sits at the western tip of Lake Superior, where the St. Louis River meets the largest freshwater lake in the world by surface area. The city climbs steeply from the lakefront up a hillside, giving most of its neighbourhoods dramatic views of the harbour and the open water beyond.

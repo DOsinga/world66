@@ -6,6 +6,7 @@ longitude: 31.263055
 title: Maadi
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Maadi is a leafy, low-density district on the east bank of the Nile, about 12 km upstream from downtown Cairo. It is the least crowded neighbourhood in Greater Cairo, with wide boulevards, large villas, and mature gardens — a legacy of its 1905 town plan by Captain Alexander Adams, who imposed strict rules on house sizes, setbacks, and even shutter colours.

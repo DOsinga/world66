@@ -3,8 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Ariving in San Diego can be accomplished by many means. The major airport, Lindberg Field, is frequented by most domestic and international carriers and is thus the easiet way in or out of the city for most travelers.
+San Diego International Airport (SAN), still widely known by its old name Lindbergh Field, sits three miles northwest of downtown — one of the closest urban airports to a city centre in the US. It has direct flights from most major North American hubs and a growing roster of international routes (London, Tokyo, Frankfurt, Mexico City). The airport is small enough to clear quickly, and a short bus ride or taxi gets you downtown.
 
-  For visitors from adjoining states or even within California itself, automobile and train travel is often prefered. Interstate 5 travels up the coast throughout California, Oregon, and Washington. Interstate 15 goes northeast through the rugged California deserts and into southern Nevada (right into Las Vegas), and then up into Utah and Salt Lake City. Meanwhile, Interstate 8 heads out of San Diego to the east winding its way through the desert and into Arizona. Amtrak passenger rail service is also available and can take the visitor throughout the state and even cross the entire country.
+By car, **I-5** runs the length of the California coast and connects San Diego to [Los Angeles](/northamerica/unitedstates/california/losangeles) (about two hours without traffic) and on to San Francisco. **I-15** heads northeast through the desert to Las Vegas (five hours) and Salt Lake City. **I-8** crosses east into Arizona. Amtrak's **Pacific Surfliner** runs eleven daily trains up the coast to Los Angeles via Solana Beach, Oceanside and San Juan Capistrano — one of the more scenic short rail trips in the country.
 
-  San Diego is also a port-of-call to a number of major cruise lines and they debark passengers down at the embarcedaro for day trips around the city.
+The Mexican border at San Ysidro is twenty minutes south, easily reached by trolley. Bring your passport.

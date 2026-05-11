@@ -6,6 +6,7 @@ longitude: -63.2327
 title: Saba
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Saba is the Caribbean at its most improbable — a single volcanic peak rising straight out of the sea, five square miles of near-vertical terrain, no beaches to speak of, and a permanent population of about 2,000. If you came looking for a resort island, you have landed on the wrong rock. If you came to hike through cloud forest, dive pristine reefs, and stay in a place where everybody knows your name by the second day, Saba is perfect.

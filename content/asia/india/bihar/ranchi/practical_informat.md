@@ -1,11 +1,10 @@
 ---
-title: "Practical Information in Ranchi"
-type: section
-address: "India"
-type: "Tourist information"
-url: "www.theincredibleindiatravel.com"
+address: India
 latitude: 22.351115
 longitude: 78.667743
+title: Practical Information in Ranchi
+type: poi
+url: www.theincredibleindiatravel.com
 ---
 
 Incredible India Travel provides Travel and Tour Packages to India. For more information about Budget Travel To India, Meditation Tour In India, Travel Planing India, Travel Agencies In India

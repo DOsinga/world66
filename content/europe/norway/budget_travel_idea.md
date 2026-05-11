@@ -1,5 +1,7 @@
 ---
-title: "Budget Travel Ideas in Norway"
+done:
+  poi_cleanup: '2026-04-19'
+title: Budget Travel Ideas in Norway
 type: section
 ---
 

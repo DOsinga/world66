@@ -1,0 +1,5 @@
+northamerica/unitedstates/massachusetts/boston
+europe/germany/bavaria/romanticroad/landsbergamlech
+asia/philippines/baguio
+africa/morocco/boumalne
+europe/luxembourg/clervaux

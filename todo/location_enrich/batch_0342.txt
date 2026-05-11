@@ -1,0 +1,5 @@
+asia/myanmar/ngapali
+europe/spain/galicia/noia
+africa/tunisia/tozeur
+europe/france/midi/cotedazur/dignelesbains
+europe/germany/northrhinewestphalia/wuppertal

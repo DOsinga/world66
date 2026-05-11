@@ -6,6 +6,7 @@ longitude: 120.3873
 title: Vigan
 type: location
 score: 0.6
+loc_type: city
 ---
 
 Vigan is a colonial town on the northwest coast of Luzon in the [Philippines](/asia/philippines), and one of the best-preserved examples of a Spanish colonial town in Asia. The old quarter, Calle Crisologo, is a cobblestone street lined with ancestral houses — two-storey stone-and-wood buildings with capiz shell windows that glow amber at sunset. UNESCO listed the historic centre as a World Heritage Site in 1999.

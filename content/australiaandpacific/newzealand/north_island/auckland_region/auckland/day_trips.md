@@ -1,7 +1,6 @@
 ---
-title: "Day Trips"
-type: section
-type: "general"
+title: Day Trips
+type: poi
 ---
 
 On a day trip, you should not miss the soaring peak of Aoraki/Mt Cook, New Zealand's highest mountain; and the near-perfect volcanic cone of Mt Taranaki. Some historic places like Waitangi, where the Treaty of Waitangi was signed in 1840 joining British and Maori as one nation, are significant culturally to the nation as a whole. A cornerstone of New Zealand society, every year Waitangi Day celebrations take place here.

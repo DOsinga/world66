@@ -1,10 +1,9 @@
 ---
-title: "Shopping"
-type: section
-accessibility: "Just over one block off the Plaza de Armas.  Wheelchair accessible"
-address: "Jr. Alegria Arias de Morey #229 (Just a few doors north of Jr. Grau)"
-phone: "042 531380"
-type: "Speciality shops"
+accessibility: Just over one block off the Plaza de Armas.  Wheelchair accessible
+address: 'Jr. Alegria Arias de Morey #229 (Just a few doors north of Jr. Grau)'
+phone: 042 531380
+title: Shopping
+type: poi
 ---
 
 Tarapoto is the commercial center of Northern Peru. Being an agricultural community, it is a great place for shoppoing for tropical fruits and vegitables. There are three main Markets where one can find fresh produce. The closest to the Plaza de Armas, where many tourists stay in a nearby hotel, is Mercado #1. Mercado #2 is a quick mototaxi ride away, and is the main place where one can find meat and other food products. The largest market in town that is almost all produce is just down the hill.

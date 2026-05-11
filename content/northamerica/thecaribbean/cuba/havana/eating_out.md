@@ -1,9 +1,8 @@
 ---
-title: "Eating Out"
+address: Empedrado No. 207 San Ignacio y Cuba, Old Havana, Cuba.
+phone: (537) 867 1374
+title: Eating Out
 type: section
-address: "Empedrado No. 207 San Ignacio y Cuba, Old Havana, Cuba."
-phone: "(537) 867 1374"
-type: "African"
 ---
 
 Let's be honest. Nobody comes to Cuba for the food. There are however, some nice places if you look around.

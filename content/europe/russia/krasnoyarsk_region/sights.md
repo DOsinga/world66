@@ -1,7 +1,6 @@
 ---
-title: "Sights in Krasnoyarsk region"
-type: section
-type: "Parks, Gardens and Zoos"
+title: Sights in Krasnoyarsk region
+type: poi
 ---
 
 Interesting places in Krasnoyarsk region

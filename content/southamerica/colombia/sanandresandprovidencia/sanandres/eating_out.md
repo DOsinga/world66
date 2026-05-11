@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "African"
+title: Eating Out
+type: poi
 ---
 
 Coral View restaurant, highly recommended. Take a taxi and have your taxi wait for you (negotiate first), a truly remarable restuarant.

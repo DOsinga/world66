@@ -1,11 +1,13 @@
 ---
-title: Karnataka
-type: location
+done:
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
 latitude: 14.956205
 longitude: 75.789674
-done:
-  location_cleanup: 2026-04-05
 score: 0.59
+title: Karnataka
+type: location
+loc_type: region
 ---
 
 Karnataka is one of India's most varied states — you get the tech boom and craft beer of Bangalore, the hushed ruins of a medieval empire at Hampi, spice plantations in Coorg, and some of the most beautiful temple architecture in the subcontinent, all within a few hours of each other. It rewards slow travel. The more time you give it, the more it reveals.

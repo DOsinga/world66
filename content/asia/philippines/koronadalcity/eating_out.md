@@ -1,13 +1,12 @@
 ---
-title: "Eating Out"
-type: section
-accessibility: "Center of the City"
-address: "Koronadal City, General Santos City, Tacurong City, and Cotabato City"
-email: "manggorio09@yahoo.com.ph"
-phone: "0632282405"
-price: "50.00"
-type: "Fast food"
-url: "www.mang-gorio.com"
+accessibility: Center of the City
+address: Koronadal City, General Santos City, Tacurong City, and Cotabato City
+email: manggorio09@yahoo.com.ph
+phone: 0632282405
+price: '50.00'
+title: Eating Out
+type: poi
+url: www.mang-gorio.com
 ---
 
 The **Koronadal City Restaurants** are varied in number and offer a peek into the local eating habits. Located in the province of South Cotabato, this city is a well known tourist destination in Philippines. Read on to find out more.

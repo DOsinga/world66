@@ -1,9 +1,12 @@
 ---
-title: Bagh
-type: location
+done:
+  location_cleanup: '2026-04-16'
 latitude: 33.980008
 longitude: 73.773788
 score: 0.31
+title: Bagh
+type: location
+loc_type: city
 ---
 
 Travel Guide

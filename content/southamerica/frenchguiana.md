@@ -3,6 +3,11 @@ title: French Guiana
 type: location
 latitude: 4.003988
 longitude: -52.999998
+quick_facts:
+  Population: "~310,000"
+  Currency: Euro (part of France)
+  Rainforest Cover: "~90% of the territory"
+  Guiana Space Centre: Europe's spaceport — launches Ariane rockets
 image: frenchguiana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Plateformerochambeau.jpg
 image_license: CC BY-SA 3.0
@@ -11,6 +16,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Didwi
 done:
   country_cleanup: 2026-03-29
 score: 0.42
+loc_type: country
 ---
 
 French Guiana is an anomaly on the South American map: a French overseas department wedged between Brazil and Suriname, using the euro, governed from Paris, and launching rockets into space from its equatorial coastline. It is not a former colony struggling with its independence — it is France, constitutionally and practically, which means EU passports, French prices, and a functioning social safety net in the middle of the Amazon.

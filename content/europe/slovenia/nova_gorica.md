@@ -6,6 +6,7 @@ longitude: 13.6475
 title: Nova Gorica
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Nova Gorica is a young city by European standards, built after 1947 when the old town of Gorizia was assigned to Italy and Yugoslavia needed a new settlement on its side of the border. The result is a planned modernist city of broad avenues and socialist-era architecture, pressed right up against the Italian border — you can literally step from one country to the other across Trg Evrope (Europe Square), which the two cities now share.

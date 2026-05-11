@@ -1,7 +1,6 @@
 ---
-title: "Things to do"
-type: section
-type: "Trekking"
+title: Things to do
+type: poi
 ---
 
 **Contributors**

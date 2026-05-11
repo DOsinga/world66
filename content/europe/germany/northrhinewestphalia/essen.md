@@ -6,6 +6,7 @@ longitude: 7.015817
 title: Essen
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Essen was the steel and coal capital of the Ruhr for well over a century, a city built on industry and reshaped by its decline. Today it is one of Germany's more interesting post-industrial cities — the Zollverein Coal Mine, a UNESCO World Heritage Site, is the most striking example of how the region has repurposed its industrial heritage into culture and tourism.

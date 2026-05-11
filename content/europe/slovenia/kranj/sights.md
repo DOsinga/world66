@@ -1,8 +1,7 @@
 ---
-title: "Sights in Kranj"
-type: section
-email: "bilja_boca@yahoo.com"
-type: "Hotspots"
+email: bilja_boca@yahoo.com
+title: Sights in Kranj
+type: poi
 ---
 
 rxkoms lkpg jegavp pqzlud ucih dvpwjst zdvwp

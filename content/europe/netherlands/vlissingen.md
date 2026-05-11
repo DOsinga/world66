@@ -1,11 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: vlissingen.jpg
+image_attribution: Dietmar Rabich
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Vlissingen_(NL),_Koopmanshaven,_Leuchtturm_--_2022_--_4730.jpg
 latitude: 51.494339
 longitude: 3.415006
 title: Vlissingen
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Vlissingen (known in English as Flushing) is a port city on the southwestern tip of the province of Zeeland, where the Western Scheldt estuary meets the North Sea. It has a long maritime history — the sea here is serious, with strong tides and a busy shipping channel carrying container ships and tankers in and out of Antwerp.

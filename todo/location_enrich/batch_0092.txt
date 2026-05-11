@@ -1,0 +1,5 @@
+asia/india/punjab/pathankot
+northamerica/guatemala/lakeatitlan/san_pedro_la_laguna
+europe/sweden/vnersborg
+northamerica/unitedstates/colorado/cripple_creek
+africa/nigeria/portharcourt

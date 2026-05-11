@@ -6,6 +6,7 @@ longitude: 16.679779
 title: Toritto
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Toritto is a small town in the Murgia hills about 20 minutes by train from [Bari](/europe/italy/puglia/bari), known above all for its almonds. The Filippo Ferrara almond, a local variety recognised by Slow Food as a Presidium product, is considered among the finest in Italy — ground into paste for pastries, roasted, or pressed into oil.

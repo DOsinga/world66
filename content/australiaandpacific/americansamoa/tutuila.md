@@ -6,6 +6,7 @@ longitude: -170.759739
 title: Tutuila
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Tutuila is the largest of American Samoa's seven islands and the main base for travelers. Nearly all flights arrive here, and Pago Pago — the capital — is on Tutuila's south coast, inside the deep harbor carved by a collapsed volcanic caldera.

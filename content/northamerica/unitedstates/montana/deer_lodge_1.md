@@ -6,6 +6,7 @@ longitude: -113.0893
 title: Deer Lodge
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Deer Lodge is a small city in Powell County, Montana, best known as the home of the Montana State Prison. The current prison sits about six kilometres west of town, but the former prison site at the south end of Main Street has been turned into the Old Montana Prison Museum — one of the more unusual attractions in the state. The museum complex includes a former cellblock, a theatre, automobile and antique museums, and a restored Milwaukee Road "Little Joe" electric locomotive.

@@ -1,5 +1,7 @@
 ---
-title: "Museums"
+done:
+  poi_cleanup: '2026-04-21'
+title: Museums
 type: section
 ---
 

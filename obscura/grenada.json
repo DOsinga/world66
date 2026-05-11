@@ -1,0 +1,63 @@
+[
+  {
+    "url": "/places/underwater-sculpture-garden",
+    "type": "Place",
+    "item-id": "365",
+    "gtm-content-type": "Place",
+    "lat": "12.05658",
+    "lng": "-61.756536",
+    "city": "Saint George&#39;s",
+    "state": "Saint George",
+    "country": "Grenada",
+    "src": "https://img.atlasobscura.com/WnK5gEunonar3B_vCmdsb9ifq0Hj8Z7Ltc1zBjyFCLU/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yY2Fm/ZTM2OC01NDA2LTQz/MjctOTA2Ny1hYzVi/NjVlNGE1YWVkNzI0/OTAxMTcxMTcwZWY1/MTZfMjA5MjY4ODky/Nl85ZDg5OThjODdi/X28uanBn.jpg",
+    "width": "2048",
+    "height": "1365",
+    "name": "Jason de Caires Taylor&#39;s Underwater Sculpture Garden",
+    "description": "A gallery of underwater art that can be visited by man and fish alike."
+  },
+  {
+    "url": "/places/cold-war-relics-at-pearls-airport",
+    "type": "Place",
+    "item-id": "5193",
+    "gtm-content-type": "Place",
+    "lat": "12.144137",
+    "lng": "-61.613996",
+    "state": "Saint Andrew",
+    "country": "Grenada",
+    "src": "https://img.atlasobscura.com/VZ1sjGBFqjWb7XTLDvPij1PGEPLqZgY3AgVqtGwn0Bk/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xZDU1/OGQ2Ni01Njk3LTRl/MWEtOTlkOS04YjEz/MTJmZjIzYjkxNGU2/Yjc0MTM0Yzk5ODJm/YzlfODA2Mjk5MTVf/MTAxNTY5MDkyMDQ3/MTE0MDRfMTcyNTYx/MjA5MTY2ODE2ODcw/NF9uLmpwZw.jpg",
+    "width": "960",
+    "height": "720",
+    "name": "Cold War Relics at Pearls Airport",
+    "description": "Rare signs of the former Soviet Union in the Caribbean, though not where you&#39;d expect them."
+  },
+  {
+    "url": "/places/kick-em-jenny",
+    "type": "Place",
+    "item-id": "21424",
+    "gtm-content-type": "Place",
+    "lat": "12.3",
+    "lng": "-61.64",
+    "state": "Saint Patrick",
+    "country": "Grenada",
+    "src": "https://img.atlasobscura.com/D4zN04fNa5aMkANlyA74YMU_iE2LRmKO8I75VKOeVtM/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zNThk/YzI2Njk4NmNjMzU0/ZTBfMzcwNDAwMDI4/NF81N2Q0YmM0NGVl/X28uanBn.jpg",
+    "width": "3803",
+    "height": "1863",
+    "name": "Kick &#39;Em Jenny",
+    "description": "A violent name for a violent volcano."
+  },
+  {
+    "url": "/places/grand-etang-grenada",
+    "type": "Place",
+    "item-id": "59105",
+    "gtm-content-type": "Place",
+    "lat": "12.097337",
+    "lng": "-61.69545",
+    "state": "Saint Andrew",
+    "country": "Grenada",
+    "src": "https://img.atlasobscura.com/e6jkhAuE11klNJYWCrl0bZAfVF7DYwx05xHs776ADmQ/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NGNm/NDI0Ny03ZjU1LTQ1/NzktOWFiYi03MjNl/NTU2MzkxNDFjYTQ1/OTNlMjY5ZTU3YTIy/NGNfR3JhbmRfRXRh/bmcuanBn.jpg",
+    "width": "4032",
+    "height": "3024",
+    "name": "Grand Etang",
+    "description": "This lake with an inactive volcano underneath is often said to be bottomless."
+  }
+]

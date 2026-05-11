@@ -1,0 +1,46 @@
+[
+  {
+    "url": "/places/cactus-dome",
+    "type": "Place",
+    "item-id": "425",
+    "gtm-content-type": "Place",
+    "lat": "11.5525",
+    "lng": "162.347222",
+    "state": "Enewetak Atoll",
+    "country": "Marshall Islands",
+    "src": "https://img.atlasobscura.com/FxsEebm3wFQZvF3BttUnha9BugB0uX_QZlg0DLNaCDM/rs:fill:600:400:1/g:ce/c:600:400:nowe:0:56/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9ydW5p/dF8zLmpwZw.jpg",
+    "width": "407",
+    "height": "500",
+    "name": "Cactus Dome",
+    "description": "An enormous concrete structure built over a nuclear crater."
+  },
+  {
+    "url": "/places/bikini-atoll",
+    "type": "Place",
+    "item-id": "8238",
+    "gtm-content-type": "Place",
+    "lat": "11.583333",
+    "lng": "165.383333",
+    "country": "Marshall Islands",
+    "src": "https://img.atlasobscura.com/-MlE11Zo9-FL-Z43d-AbZovOaRQnPRxj9ByMWLdaAY0/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83YTBh/Y2Q2NTFmMDZkYzU5/NTZfYmlraW5pX2F0/b2xsLmpwZw.jpg",
+    "width": "640",
+    "height": "417",
+    "name": "Bikini Atoll",
+    "description": "The birthplace of both the Atomic Age and Godzilla, and the namesake of the bathing suit."
+  },
+  {
+    "url": "/places/wwii-plane-wreckage",
+    "type": "Place",
+    "item-id": "33489",
+    "gtm-content-type": "Place",
+    "lat": "7.083333",
+    "lng": "171.683333",
+    "state": "Arno Atoll",
+    "country": "Marshall Islands",
+    "src": "https://img.atlasobscura.com/6cQMA8_evw3zIU6YRl7b8bCGVffRT-uRxX9gcQdlRHQ/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jZGYz/MTg5Ni1lY2QyLTRj/NjUtYWY3OC1kMzky/ZWZhZWQ2Yjg3NzRm/MDU5MWJhZmI2OGY5/MWRfSU1HXzMxMDEu/SlBH.jpg",
+    "width": "3024",
+    "height": "4032",
+    "name": "WWII Plane Wreckage",
+    "description": "A war relic that has sat undisturbed since it crash-landed near Arno Atoll."
+  }
+]

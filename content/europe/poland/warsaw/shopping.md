@@ -1,10 +1,9 @@
 ---
-title: "Shopping"
-type: section
-address: "Koło"
-type: "Antiques"
+address: Koło
 latitude: 52.198394
 longitude: 18.635756
+title: Shopping
+type: poi
 ---
 
 Shop till you drop!

@@ -1,11 +1,14 @@
 ---
 done:
+  city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-19'
 latitude: 56.7816
 longitude: 16.6622
+score: 0.55
 title: Oland
 type: location
-score: 0.55
+loc_type: city
 ---
 
 Öland is a long, slender island off the southeast coast of Sweden, connected to the mainland by a 6 km bridge. On the other side of that bridge is [Kalmar](/europe/sweden/kalmar), the nearest city. The island stretches about 137 km from north to south but rarely exceeds 16 km across, which makes it easy to explore by bicycle or car along the single main road.

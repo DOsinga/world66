@@ -1,8 +1,7 @@
 ---
-title: "Nightlife and Entertainment in Grand bahama island"
-type: section
-type: "Casinos"
-url: "www.isleofcapricasinos.com"
+title: Nightlife and Entertainment in Grand bahama island
+type: poi
+url: www.isleofcapricasinos.com
 ---
 
 Grand Bahama Island Entertainment

@@ -1,0 +1,5 @@
+southamerica/peru/chachapoyas/kuelap
+northamerica/unitedstates/maine/doverfoxcroft
+africa/morocco/tiznit
+asia/indonesia/sulawesi/makassar
+africa/congokinshasa/kananga

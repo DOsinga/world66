@@ -1,0 +1,5 @@
+europe/spain/ceuta
+northamerica/unitedstates/florida/tequesta
+africa/gambia/bakau
+europe/norway/tvedestrand
+northamerica/unitedstates/hawaii/lanai

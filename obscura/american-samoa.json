@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/places/turtle-and-shark-america-samoa",
+    "type": "Place",
+    "item-id": "52901",
+    "gtm-content-type": "Place",
+    "lat": "-14.356938",
+    "lng": "-170.735672",
+    "city": "Vaitogi",
+    "state": "Western District",
+    "country": "American Samoa",
+    "src": "https://img.atlasobscura.com/ERNQH43-7R6sJCCQJytvtL9KIeJcE-Tzc0uoveMHclg/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80MTA0/Zjc1OC01MTRhLTQ3/NzgtODg0MC0xZjYw/YjA5YjJjYTQ4MDUx/MTdjNGUxYmNmOTUz/MDJfSU1HXzQ0ODUu/anBn.jpg",
+    "width": "4032",
+    "height": "3024",
+    "name": "Turtle and Shark",
+    "description": "Rocky cove with large smashing waves tied to an important Samoan cultural story."
+  },
+  {
+    "url": "/places/mt-alava-aerial-tramway",
+    "type": "Place",
+    "item-id": "62150",
+    "gtm-content-type": "Place",
+    "lat": "-14.279538",
+    "lng": "-170.683328",
+    "city": "Utulei",
+    "state": "Eastern District",
+    "country": "American Samoa",
+    "src": "https://img.atlasobscura.com/ZefpCSwBlKAkNkXINfqS45Zt7OPbS3nc72uGc0ploXc/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZjEx/NTcxNy01ZjU1LTRj/NDctYjQ0Ni00YzVl/MjAyYWJlM2MyMTU5/NDIzYjY5OTljN2I4/YWZfMjAyNDA5MTJf/MTcwNDA0LmpwZw.jpg",
+    "width": "1868",
+    "height": "3634",
+    "name": "Abandoned Mt. Alava Aerial Tramway",
+    "description": "The site of abandoned cable car system provides expansive views of Tutuila and nearby capital Pago Pago."
+  }
+]

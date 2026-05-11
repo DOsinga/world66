@@ -10,7 +10,13 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Dr._Thomas_Liptak"
   Thomas Liptak">Dr. Thomas Liptak</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "2.8 million"
+  Drives On: Left
+  Fastest Sprinters: Most 100 m world records of any nation
+  Blue Mountain Coffee: Grown above 900 m, among world's priciest
 score: 0.7
+loc_type: country
 ---
 
 Jamaica punches well above its weight. A small island — about 240 km long, 80 km wide — it has produced a disproportionate amount of the world's culture: reggae, dancehall, Rastafari, Blue Mountain coffee, and some of the fastest sprinters in history. The food is distinctive, the landscape dramatic, and the people are genuinely engaging once you get past the hustle in the tourist zones.

@@ -6,6 +6,7 @@ longitude: -85.853054
 title: Warsaw
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Warsaw is a small city of about 15,000 in northern Indiana's lake country, surrounded by more than 100 lakes. The largest, Winona Lake and Center Lake, sit right against the town, and in summer the place revolves around boating, fishing, and swimming.

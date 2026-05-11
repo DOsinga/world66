@@ -6,6 +6,7 @@ longitude: -122.478836
 title: Bellingham
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Bellingham is a small, outdoorsy city about 130 km north of Seattle and 30 km south of the Canadian border. It is home to Western Washington University, which gives it a youthful, progressive feel and an unusually good coffee and craft beer scene for a city of 90,000.

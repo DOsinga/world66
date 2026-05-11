@@ -1,0 +1,5 @@
+northamerica/unitedstates/nevada/reno/bluestarcafe
+asia/japan/honshu/hiroshima
+asia/thailand/petchburi
+northamerica/unitedstates/nebraska/valentine
+northamerica/unitedstates/oregon/florence

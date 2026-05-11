@@ -6,6 +6,7 @@ longitude: 13.2461
 score: 0.46
 title: Brandenburg
 type: location
+loc_type: region
 ---
 
 Brandenburg is the region that wraps around Berlin, but the difference between the fast-paced capital and the quiet countryside could not be bigger. Around the size of Belgium, it stretches between the Elbe and Oder rivers, a flat landscape of pine forests, sandy plains, and over 3,000 rivers and lakes. With only 2.5 million people across nearly 30,000 square kilometres, it is sparsely populated and feels it.

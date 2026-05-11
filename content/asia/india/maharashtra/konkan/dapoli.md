@@ -6,6 +6,7 @@ longitude: 73.188708
 title: Dapoli
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Dapoli is a small coastal town in the Ratnagiri district of Maharashtra, in the heart of the Konkan coast. Sitting at about 300 metres above sea level yet only a few kilometres from the sea, it has a pleasant climate year-round — cooler than the coast but with easy access to beaches.

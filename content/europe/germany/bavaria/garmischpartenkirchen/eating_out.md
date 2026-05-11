@@ -1,11 +1,10 @@
 ---
-title: "Eating Out"
-type: section
-address: "schmiedstrasse 1 82467 garmisch-partenkirchen"
-phone: "0049-882152181"
-type: "Chinese"
+address: schmiedstrasse 1 82467 garmisch-partenkirchen
 latitude: 47.492691
 longitude: 11.088016
+phone: 0049-882152181
+title: Eating Out
+type: poi
 ---
 
 **Contributors**

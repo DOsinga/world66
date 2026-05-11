@@ -1,13 +1,12 @@
 ---
-title: "Eating Out in Cave Creek"
-type: section
-address: "6248 E Cave Creek Rd"
-phone: "(480) 488-1752"
-price: "+/- $12"
-type: "Mexican"
-url: "www.elencantorestaurant.com"
+address: 6248 E Cave Creek Rd
 latitude: 33.832546
 longitude: -111.945558
+phone: (480) 488-1752
+price: +/- $12
+title: Eating Out in Cave Creek
+type: poi
+url: www.elencantorestaurant.com
 ---
 
 The main road in town has many artistic shops and western/Mexican restaurants including "The Satisfied Frog" and "El Encanto".

@@ -3,6 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-There are several matatu stages to Nakuru in Nairobi. They are all located back near River Road. Ask someone for directions. If you’re traveling from Nairobi west past Nakuru, you may need to break the trip up by first going to Nakuru, then getting another vehicle to your final destination.
-
-  There’s only one major bus and matatu stage in Nakuru. It’s in the Eastern end of town, off of Mburu Gichua Rd. The stage is a nest of chaos, but you will attract several touts that will gladly drag you to the vehicle you want. From the Nakuru stage you can get vehicles to Nairobi, Naivasha, Nyahururu, Nyeri, Eldoret, Kericho Kisii, Kisumu, and many other towns and cities.
+Nakuru sits on the main A104 highway between Nairobi and the western half of the country, about 160 km north-west of the capital. Frequent matatus run from Nairobi's River Road area; the trip takes around three hours when traffic is kind, longer when it isn't. Buses to Eldoret, Kisumu, Kericho, Kisii, Naivasha, Nyahururu, and Nyeri all leave from Nakuru's main stage at the eastern end of town, off Mburu Gichua Road — a chaotic spot where touts will happily steer you to the right vehicle. The standard-gauge railway from Nairobi to Kisumu also stops here.

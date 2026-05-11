@@ -9,7 +9,13 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:ShkelzenRexha" title="User:ShkelzenRexha">ShkelzenRexha</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "1.8 million"
+  Currency: Euro (€, adopted unilaterally)
+  Median Age: "30 — youngest population in Europe"
+  Independence: Declared 2008
 score: 0.44
+loc_type: country
 ---
 
 Kosovo declared independence from [Serbia](/europe/serbia) in 2008 and is recognized by over 100 countries, though not by all. It is small, young, and still figuring itself out — which makes it an interesting place to visit. The atmosphere is hopeful and the welcome is warm, especially toward Westerners whose countries supported independence.

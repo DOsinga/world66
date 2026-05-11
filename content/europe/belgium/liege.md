@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  poi_cleanup: '2026-04-21'
 latitude: 50.470813
 longitude: 5.773566
 score: 0.53
 title: Liege
 type: location
+loc_type: city
 ---
 
 Liège, daughter of the Meuse river. Liège is called 'La cité ardente' (the fiery city). A city at the crossroads of Northern and Southern European culture. Liège is an old industrial center which faces the challenge of adapting to the 21st century.

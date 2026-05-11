@@ -7,9 +7,15 @@ image: taiwan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alishan_Forest_Staircase2.JPG
 image_license: CC BY-SA 4.0
 image_attribution: 'User: (WT-shared) Jpatokal at  wts wikivoyage'
+quick_facts:
+  Population: "23.5 million"
+  Budget Meal: "~$3-5"
+  Peaks Over 3,000m: "Over 200"
+  Night Markets: "300+ across the island"
 done:
   country_cleanup: 2026-03-30
 score: 0.71
+loc_type: country
 ---
 
 Taiwan is a small island of about 36,000 square kilometres sitting 160km off the southeastern coast of China. The Portuguese who first mapped it in the 16th century called it Formosa — beautiful — and the name fits. A central mountain range runs almost the entire length of the island, with over 200 peaks above 3,000 metres. The coast is dramatic, the forests dense, and the valleys terraced with rice and tea. Against all that natural backdrop, Taiwan has also built one of the most sophisticated and liveable urban cultures in Asia.

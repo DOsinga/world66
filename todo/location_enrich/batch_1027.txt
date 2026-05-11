@@ -1,0 +1,5 @@
+europe/croatia/sibenik
+asia/thailand/bangkok
+europe/italy/tuscany/monsummano_terme
+northamerica/mexico/puerto_el_cuyo
+northamerica/unitedstates/california/deserts/borregosprings

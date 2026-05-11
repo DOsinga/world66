@@ -1,24 +1,14 @@
 ---
-title: "Rab sandy beaches"
+title: "Rab Sandy Beaches"
 type: poi
+tags: [things_to_do, beach]
+snippet: Two gorgeous sandy beaches on the island of Rab
+latitude: 44.8344
+longitude: 14.7286
 ---
 
-The island of Rab has some of the most beautiful sandy beaches in
-Croatia. Two the most popular are Paradise beach and Sahara beach, both
-in Lopar settlement. **Paradise beach** is a 2km long beach with a
-long shoal and with many facilities, from water sports to catering
-facilities, bars etc. A perfect place for families with small children,
-but not only them.
-**
+The island of Rab has some of the most beautiful sandy beaches in Croatia. The two most popular are both in the Lopar settlement on the north end of the island.
 
-Sahara** is not far from Paradise beach. It is shaped like a lagoon
-and it is a so called "free beach", meaning clothing is optional. It is
-a fantastic place for naturists. There aren't any facilities
-whatsoever, so you need to bring everything with you. During summer
-each day a small boat comes to this beach offereng cold drinks, snacks
-and fruits to buy.
+**Paradise Beach** is a 2km-long stretch of fine sand with a long shallow shoal, making it ideal for families with small children. Water sports, restaurants, and bars line the shore.
 
-**Contributors**
-May 02, 2005
-
-May 02, 2005
+**Sahara Beach** is a short walk from Paradise Beach, shaped like a lagoon and clothing-optional. There are no facilities at all, so bring everything you need. During summer a small boat comes by daily selling cold drinks, snacks, and fruit.

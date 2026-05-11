@@ -6,6 +6,7 @@ longitude: 25.1522
 title: Paros
 type: location
 score: 0.73
+loc_type: city
 ---
 
 Paros is one of the Cyclades islands that manages to sit in a sweet spot: popular enough to have good ferry connections and decent tavernas, but not so overrun as [Mykonos](/europe/greece/mykonos) or [Santorini](/europe/greece/santorini). The island has fine beaches, a handful of genuinely interesting villages, and enough character to hold your attention for several days.

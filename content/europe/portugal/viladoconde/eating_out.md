@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "general"
+title: Eating Out
+type: poi
 ---
 
 **Contributors**

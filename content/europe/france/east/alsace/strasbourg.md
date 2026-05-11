@@ -1,11 +1,18 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-05'
+  poi_cleanup: '2026-04-19'
+image: strasbourg.jpg
+image_attribution: JoachimKohler-HB
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Gerwerstub_1572,_maison_des_tanneurs,_Strasbourg_(2014).jpg
 latitude: 48.5734
 longitude: 7.7521
+score: 0.74
 title: Strasbourg
 type: location
-score: 0.74
+loc_type: city
 ---
 
 Strasbourg sits on the Rhine, on the border with [Germany](/europe/germany), and it shows: the language, the food, the architecture, and the beer all carry a German imprint, yet the city is unmistakably French. The Alsatian capital has changed hands between France and Germany several times over the centuries, and that dual identity is part of what makes it so interesting.

@@ -1,11 +1,18 @@
 ---
-title: Avignon
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-19'
+image: avignon.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:.00_3171_Stadtmauer_von_Avignon,_Frankreich.jpg
 latitude: 43.949249
 longitude: 4.805901
-done:
-  location_cleanup: 2026-04-07
 score: 0.75
+title: Avignon
+type: location
+loc_type: city
 ---
 
 Avignon was the seat of the papacy for most of the 14th century, and the Palais des Papes still towers over the city as proof. It is one of the largest Gothic buildings in Europe, and standing in its vast empty halls gives you a sense of just how much power and wealth the popes concentrated here.

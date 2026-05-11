@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Medellin"
+title: "Day Trips"
 type: section
 ---
 

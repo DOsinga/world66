@@ -1,11 +1,14 @@
 ---
-title: Lugo
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-20'
 latitude: 43.0121
 longitude: -7.556
-done:
-  location_cleanup: 2026-04-07
 score: 0.54
+title: Lugo
+type: location
+loc_type: city
 ---
 
 Lugo is one of Spain's most undervisited Roman cities, anchored by the finest surviving

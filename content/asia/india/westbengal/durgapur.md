@@ -1,9 +1,12 @@
 ---
-title: Durgapur
-type: location
+done:
+  city_tag_migration: '2026-04-17'
 latitude: 23.534948
 longitude: 87.303368
 score: 0.3
+title: Durgapur
+type: location
+loc_type: city
 ---
 
 *Asia > India > West Bengal > Durgapur*

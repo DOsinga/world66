@@ -11,7 +11,13 @@ latitude: 7.131474
 longitude: 171.184478
 title: Marshall Islands
 type: location
+quick_facts:
+  Population: "38,000"
+  Currency: US Dollar
+  Nuclear Tests at Bikini Atoll: "67"
+  Average Elevation: "2 metres above sea level"
 score: 0.52
+loc_type: country
 ---
 
 The Marshall Islands is one of the most remote countries on earth — a scatter of 29 atolls and 5 islands strung across a vast stretch of the central Pacific, with a total land area barely larger than Washington D.C. Most of that land sits less than two metres above sea level. The country lives on the front line of climate change in a way that almost no other nation does.

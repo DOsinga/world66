@@ -1,8 +1,7 @@
 ---
-title: "Sights"
-type: section
-address: "Aiteke Bi, cnr of Kunayeva"
-type: "Hotspots"
+address: Aiteke Bi, cnr of Kunayeva
+title: Sights
+type: poi
 ---
 
 Here are a few sights you can see in Almaty.

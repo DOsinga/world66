@@ -1,9 +1,6 @@
 ---
-title: "Beaches in Marbella"
+title: "Beaches"
 type: section
 ---
 
-A favourite destination for sunseekers and sports fans alike, life in Marbella is based around its beaches. And there are plenty of them. This resort itself is surrounded by nearly 30 kilometers of sands, and there are some 24 beaches to choose from.
-
-**Lively Resort**
-Marbella is a former traditional fishing town that has come into its own as a resort offering no end of opportunity for fun in the sun. In and around Marbella you will find family-friendly beaches with waters that are gentle enough for swimming; secluded white sand coves ideal for romantic escapes; and long stretches of golden sand packed with holidaymakers from across Europe. Lying at the heart of the Costa del Sol (Coast of the Sun) in the beautiful Andalucia region of Spain, it should come as no surprise that the climate is warm and sunny here throughout much of the year, making beach breaks a real opportunity even outside of the summer season. Those who want to get
+Marbella has around 30 kilometres of beach stretched along the Costa del Sol, about 24 named strands in all. The central beaches — Playa de la Fontanilla, Playa del Faro, Playa de Venus — are close to the old town, well served by bars and easy to reach on foot. West of town, Playa de San Pedro and the coves around Puerto Banús are busier and flashier. East towards Cabopino and Elviria the beaches get longer and quieter, with golden sand and dune scenery; Cabopino has an unofficial nudist section at the far end. The water is calm and shallow, and the beach season effectively runs from May to October.

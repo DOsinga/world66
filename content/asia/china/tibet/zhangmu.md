@@ -6,6 +6,7 @@ longitude: 85.964383
 title: Zhangmu
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Zhangmu (known in Tibetan as Khasa) is the last Chinese town before the border with [Nepal](/asia/nepal), perched at about 2,300 metres on a steep mountainside in a narrow gorge. The town clings to the road in a series of switchbacks, with buildings stacked on top of each other up the hillside — it feels more Nepali than Tibetan, and the climate is noticeably warmer and wetter than the plateau above.

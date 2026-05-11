@@ -6,6 +6,7 @@ longitude: 73.118167
 title: Karnala
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Barely sixty kilometers from Mumbai, Karnala is a compact escape for bird watchers, hikers, picnickers, and rock climbers. The centerpiece is an ancient hill fort rising dramatically from the forested sanctuary at its base.

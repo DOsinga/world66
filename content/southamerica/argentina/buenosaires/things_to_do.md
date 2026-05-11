@@ -1,10 +1,9 @@
 ---
-title: "Things to do"
-type: section
-email: "moreinfo@2portenios.com"
-phone: "+54911 5929 9672"
-type: "Other"
-url: "www.2portenios.com"
+email: moreinfo@2portenios.com
+phone: +54911 5929 9672
+title: Things to do
+type: poi
+url: www.2portenios.com
 ---
 
 Buenos Aires has great variety of activites for every person and taste.

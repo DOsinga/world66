@@ -1,6 +1,11 @@
 ---
 title: Panama
 type: location
+quick_facts:
+  Population: "4.4 million"
+  Currency: US dollar (and balboa)
+  Panama Canal: "~14,000 ships per year"
+  Darién Gap: Only break in the 30,000 km Pan-American Highway
 image: panama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aduana_de_Portobelo,_Panama.jpg
 image_license: CC BY-SA 3.0
@@ -9,6 +14,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Gualb
 done:
   country_cleanup: 2026-03-29
 score: 0.5
+loc_type: country
 ---
 
 Panama is not a well known tourist destination. Nearby [Costa Rica](/northamerica/costarica) takes most of the regions incoming travelers, with some daytrippers to the Canal Zone. This is a pity, Panama has a great diversity of sights and activities that make it absolutely worth a visit. 

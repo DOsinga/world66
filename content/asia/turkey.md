@@ -2,6 +2,7 @@
 done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-07'
+  poi_cleanup: '2026-04-20'
 image: turkey.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Serhio_Magpie" title="User:Serhio
   Magpie">Serhio Magpie</a>
@@ -9,9 +10,15 @@ image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg
 latitude: 39.0
 longitude: 35.0
+score: 0.53
 title: Turkey
 type: location
-score: 0.53
+quick_facts:
+  Population: "85 million"
+  Driving Side: Right
+  Continents Spanned: "2 (Europe and Asia)"
+  Daily Tea Consumption: Highest per capita in the world
+loc_type: country
 ---
 
 Turkey — or Türkiye, as it has officially styled itself internationally since 2022 — is one of the most rewarding countries to travel in. It sits at the intersection of Europe and Asia, and that geographical fact plays out in everything: the food, the architecture, the people's self-understanding, the politics. You can stand on the Bosphorus in [Istanbul](/asia/turkey/istanbul) and watch tankers cross from one continent to the other. The effect never quite wears off.

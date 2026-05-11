@@ -3,25 +3,14 @@ title: "Getting Around"
 type: section
 ---
 
-**Hanoi Phudo Hotel.**
+**On foot** is how you see the Old Quarter and the French Quarter. Everything of interest downtown is within a 20-minute walk.
 
-Located this hotel initially from Tripadvisor.It was a good choice.
-Booked online only a few weeks before arriving in early November.
-Two couples, 60ish and first trip to Vietnam and first stop in Vietnam so we arrived with some trepidation.
+**Grab** (the local Uber equivalent) is the easiest way to get further. The app handles cars and motorbike-taxis, and prices are transparent.
 
-Phudo arranged transfers to and from airport and on arrival staff could not do enough to welcome us.
+**Taxis** are plentiful but notorious for meter shenanigans; stick to the Mai Linh (green) and Taxi Group (white) brands, or use Grab.
 
-Located in heart of old quarter and an easy walk to most places if you wish.
+**Motorbike taxis (xe om)** are the fastest way through traffic — flag one down or book via Grab Bike. Always insist on a helmet.
 
-Rooms were clean, (crisp sheets, good beds), comfortable and cheerful with fruit and flowers provided. Breakfast more than adequate and free internet access.
+**Cyclos** (bicycle rickshaws) still exist, mostly for tourist loops of the Old Quarter. Agree the fare before you get in.
 
-Front desk staff happy to help with locations around town, hail a cab, cyclo, and give an estimation of costs and generally tried to protect us from being ripped off.
-
-David Trung and staff booked excellent value side trips to Sapa and Halong Bay at far lower costs than we could obtain from travel agents back home. At the last minute on the morning of departure booked bus tickets from HCMC to Phnom Penh for about half the price of some of the local Hanoi travel agents.
-
-All up an enjoyable small hotel, more like 5 star service even though only listed as 2 star for under $40/night!
-
-This TripAdvisor Member:
-
-Liked — staff, service ,value and location
-This review is the subjective opinion of a TripAdvisor member and not of TripAdvisor LLC.
+**Metro.** Line 2A opened in 2021 and Line 3 is partially open; both are limited but cheap. They are useful for a few specific journeys but not for most tourist itineraries.

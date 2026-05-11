@@ -1,12 +1,11 @@
 ---
-title: "Bus transfer Leeuwarden <> Lauwersoog"
+latitude: 53.3372
+longitude: 6.1492
+snippet: Direct bus from Leeuwarden to the Lauwersoog ferry terminal
+title: Bus transfer Leeuwarden <> Lauwersoog
 type: poi
 ---
 
-Departure/timetable and tariff information for **bus** transfer Leeuwarden-Lauwersoog harbour.
+Arriva bus 50 runs directly from Leeuwarden Railway Station to Lauwersoog harbour, with the ferry connection guaranteed. If you're coming from Groningen, take Arriva bus 63 — the ferry waits for that connection too.
 
-Get a direct bus transfer from Leeuwarden Railway station bus terminal: Arriva bus 50 to Lauwersoog harbour (ferry connection guaranteed). *There is also an alternative departure from Groningen bus terminal: Arriva bus 63 (ferry connection also guaranteed)*.
-
-*Tip*: At the bus terminal ticket office (not IN the bus!), buy a combined return-ticket for bus AND ferry. This way your transfer from Schiermonnikoog ferry-terminal to the village and back is quick and easy.
-
-Minor corrections on 24 February 05
+Buy a combined return ticket at the bus terminal ticket office (not on the bus). This covers the bus, ferry, and the short transfer from Schiermonnikoog's ferry terminal to the village, saving time and hassle at each step.

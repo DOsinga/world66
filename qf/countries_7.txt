@@ -1,0 +1,15 @@
+content/asia/tajikistan.md
+content/asia/thailand.md
+content/asia/turkey.md
+content/asia/turkmenistan.md
+content/asia/uzbekistan.md
+content/asia/vietnam.md
+content/asia/yemen.md
+content/australiaandpacific/americansamoa.md
+content/australiaandpacific/antarctica.md
+content/australiaandpacific/australia.md
+content/australiaandpacific/bakerisland.md
+content/australiaandpacific/cookislands.md
+content/australiaandpacific/fiji.md
+content/australiaandpacific/frenchpolynesia.md
+content/australiaandpacific/guam.md

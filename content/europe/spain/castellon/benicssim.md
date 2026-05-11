@@ -6,6 +6,7 @@ longitude: 0.0645
 title: Benicàssim
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Benicàssim is a small coastal town on the Costa del Azahar — the Coast of Orange Blossoms — between [Valencia](/europe/spain/valencia) and Castellón. Unlike the more heavily developed costas further south, this stretch of coast remains predominantly Spanish in character, with far fewer foreign tourists and a more authentic atmosphere.

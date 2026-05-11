@@ -6,6 +6,7 @@ longitude: 11.945
 done:
   location_cleanup: 2026-04-06
 score: 0.62
+loc_type: city
 ---
 
 If you are looking for a beautiful island in Italy where you can relax,

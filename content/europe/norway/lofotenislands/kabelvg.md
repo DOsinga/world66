@@ -6,6 +6,7 @@ longitude: 14.4774
 done:
   location_cleanup: 2026-04-07
 score: 0.7
+loc_type: city
 ---
 
 Kabelvåg is the oldest fishing village in Lofoten and it was here

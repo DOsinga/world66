@@ -1,0 +1,5 @@
+europe/spain/andalucia/el_rocio
+europe/germany/bavaria/regensburg
+africa/libya/jebelakhdar/qasr_libya
+northamerica/unitedstates/louisiana/neworleans
+asia/china/henan_province/zhengzhou

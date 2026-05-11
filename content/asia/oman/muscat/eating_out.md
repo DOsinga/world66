@@ -1,17 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-type: "Indian and Pakistani"
 ---
 
-eating out
-
-### [Tejas Udani](/asia/oman/muscat/eating_out/tejas_udani)
-
-My favourate eatery always remains KAMAT , strategically places in the cit of Ruwi , this is a very delicious food-serving hotel wherein the prices are also affordable and the food is very cleana nd hygenic
-
-type: Indian and Pakistani
-
-
-
-[[rate it]](/asia/oman/muscat/eating_out/tejas_udani)
+Omani food itself is relatively simple — grilled fish and meat, rice, dates, cardamom-spiced coffee — and the best version is still home cooking, which is hard to find in restaurants. What you will find a lot of is Indian, Pakistani, Lebanese, and Turkish, thanks to Muscat's large expatriate population. The best kitchens tend to be in the five-star hotels (the Chedi especially) or the small independent places along Shatti Al Qurum and Al Mouj. For cheap and excellent, look for the *shuwarma* stands and Indian thali spots around Ruwi.

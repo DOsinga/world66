@@ -1,13 +1,18 @@
 ---
-title: "Playa EL Espino"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 13.1647
+longitude: -88.4333
+snippet: Long black-sand beach with fresh seafood near Usulutan
+tags:
+- things_to_do
+- beach
+title: Playa El Espino
 type: poi
-email: "acaz23@aol.com"
 ---
 
-***Playa El Espino is located in beautiful Usulutan....Playa El Espino has a long shore filled with black sand, it's about a 45 minute drive from Usulutan, Usulutan. Playa El Espino is filled with many restaurants to choose from...vendors come long the shore and sell souvenirs, fresh fruit and don't forget the watery coconuts. In the early morning, fisherman come in from sea and sell fresh fish. Playa El Espino os one of the best beaches in El Salvador guaranteed. ***
+Playa El Espino is a long stretch of dark volcanic sand on El Salvador's eastern Pacific coast, about 45 minutes south of Usulutan. It is one of the more relaxed beach destinations in the country, popular with Salvadoran families on weekends but quiet during the week.
 
+Small restaurants line the shore, most serving freshly caught fish, ceviche, and fried plantains. Fishermen land their boats on the beach in the early morning and sell the catch right there. Vendors walk the sand with coconuts, fruit, and souvenirs.
 
-
-
-
-email: acaz23@aol.com
+The waves are gentle enough for wading, though the currents can pick up further out. There is no real town here -- just the beach, the comedores, and a few basic hospedajes if you want to stay the night.

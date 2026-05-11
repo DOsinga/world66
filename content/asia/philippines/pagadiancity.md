@@ -6,6 +6,7 @@ longitude: 123.436582
 title: Pagadian City
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Pagadian is the capital of Zamboanga del Sur province on the western coast of Mindanao. It sits on the shore of Illana Bay, backed by rolling hills, and serves as the commercial hub for the surrounding agricultural region. The city is known for its steeply inclined streets — some so steep that the local tricycles have been specially modified, earning them the nickname "the smallest taxi in the world."

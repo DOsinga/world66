@@ -6,6 +6,7 @@ longitude: 8.7704
 title: Marburg
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Marburg is a university town in the hills of central Hesse, compact and handsome and largely unspoiled — the kind of German town that didn't get bombed flat in the war and still looks like itself. The old town climbs steeply from the River Lahn up to the Landgraviate castle at the top, with half-timbered houses stacked along the lanes in between. It is a pleasure to walk.

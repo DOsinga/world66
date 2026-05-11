@@ -1,13 +1,12 @@
 ---
-title: "Eating Out"
-type: section
-accessibility: "tropical outdoor patio"
-address: "Calle Adelita, La Madera"
-email: "amistad_zihua@yahoo.com"
-phone: "(755)554-3469"
-price: "25-50 pesos"
-type: "International"
-url: "www.lacasacafe.net"
+accessibility: tropical outdoor patio
+address: Calle Adelita, La Madera
+email: amistad_zihua@yahoo.com
+phone: (755)554-3469
+price: 25-50 pesos
+title: Eating Out
+type: poi
+url: www.lacasacafe.net
 ---
 
 Ixtapa-Zihuatanejo is well-known for it's restaurants.

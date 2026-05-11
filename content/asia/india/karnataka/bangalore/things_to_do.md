@@ -1,9 +1,8 @@
 ---
-title: "Things to do"
-type: section
-type: "Spa and Sauna"
 latitude: 12.833965
 longitude: 79.714809
+title: Things to do
+type: section
 ---
 
 Chat with every one.

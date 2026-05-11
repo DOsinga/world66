@@ -8,7 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Traditional_medicine_in_Ou
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/72092071@N00">Ferdinand
   Reus</a> from Arnhem, Holland
+quick_facts:
+  Population: "23 million"
+  Language: "French essential"
+  Meaning of Name: Land of Upright People
+  FESPACO: Africa's largest film festival
 score: 0.22
+loc_type: country
 ---
 
 Burkina Faso — "the land of upright people" — is one of West Africa's most rewarding and least visited countries. Landlocked between Mali, Niger, Ghana, and Ivory Coast, it has none of the obvious drawcards that pull tourists to its neighbors: no coast, no Saharan dunes, no famous game reserves. What it has instead is an extraordinary cultural richness, warm and genuinely welcoming people, and landscapes that surprise anyone who imagines the Sahel as featureless scrub.

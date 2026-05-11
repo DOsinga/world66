@@ -6,6 +6,7 @@ longitude: 138.129
 title: Yap
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Yap is the most intriguing island in Micronesia — a place where ancient traditions are not museum pieces but everyday life. The island is famous for its giant stone money discs, some over three metres across, which still sit in stone money banks around the villages. Dance is an art form here: raucous, colourful, and carefully choreographed, with men and women learning from an early age. Through dance, legends are passed down and history is recorded.

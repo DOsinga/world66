@@ -1,0 +1,49 @@
+[
+  {
+    "url": "/places/venus-point-tahiti",
+    "type": "Place",
+    "item-id": "4733",
+    "gtm-content-type": "Place",
+    "lat": "-17.494289",
+    "lng": "-149.494353",
+    "city": "Tahiti",
+    "state": "Windward Islands",
+    "country": "French Polynesia",
+    "src": "https://img.atlasobscura.com/dycv4OEYQAUrz2Xk8FM06Bnv1lMoZx0CYLDqPecJtec/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMzcx/M2I2Ny03MThlLTRl/M2YtYTQ2OS03ODc3/MGQ2Zjc1NjlmNTYw/Yjk4Y2JhODA1OWQx/MzlfQmFpZV9kZV9N/YXRhdmFpLmpwZw.jpg",
+    "width": "2560",
+    "height": "1707",
+    "name": "Point Venus",
+    "description": "Site of James Cook&#39;s historic observations of the 1769 transit of Venus."
+  },
+  {
+    "url": "/places/tetiaroa-atoll",
+    "type": "Place",
+    "item-id": "15934",
+    "gtm-content-type": "Place",
+    "lat": "-17.0",
+    "lng": "-149.55",
+    "state": "\u00celes du Vent",
+    "country": "French Polynesia",
+    "src": "https://img.atlasobscura.com/JQ21pSZwdOGUHLL7x8regqBTV1nkgSs8uJ9xDj5ETpQ/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lZWFh/ZGVmNzUyYzI1NWE4/ODJfODAwcHgtVGV0/aWFyb2FfZnJvbV9z/a3kuSlBH.jpg",
+    "width": "800",
+    "height": "600",
+    "name": "Teti&#39;aroa Atoll",
+    "description": "This beautiful eden was once the vacation home of Tahitian royals before Marlon Brando bought it."
+  },
+  {
+    "url": "/places/taputapuatea-marae",
+    "type": "Place",
+    "item-id": "56344",
+    "gtm-content-type": "Place",
+    "lat": "-16.835813",
+    "lng": "-151.358422",
+    "city": "Raiatea",
+    "state": "\u00celes Sous-le-Vent",
+    "country": "French Polynesia",
+    "src": "https://img.atlasobscura.com/Zi9FpR8XP_5aou1fLnpIRxKHf-nBWGaHPrvMLRQE4G8/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lZDk4/MDBkNi0xNDJjLTQ0/NzgtYTllYS1jNzRi/MTgzMjA5NjQ2MzBm/ZTRiYzJmOGMxY2Q0/ZWRfVGFwdXRhcHVh/dGVhX21hcmFlX1Jh/aWF0ZWEuanBn.jpg",
+    "width": "1600",
+    "height": "1200",
+    "name": "Marae Taputapu\u0101tea",
+    "description": "This sacred enclave was once considered the religious center of Eastern Polynesia."
+  }
+]

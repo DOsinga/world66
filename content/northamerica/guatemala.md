@@ -9,7 +9,13 @@ image_license: CC BY-SA 3.0
 image_attribution: Unknown
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "17 million"
+  Currency: Quetzal (named after the national bird)
+  Volcanoes: "37"
+  Living Maya Languages: "21 still spoken today"
 score: 0.6
+loc_type: country
 ---
 
 Guatemala is a small country — roughly the size of Tennessee — that packs in an astonishing range of landscapes, cultures, and history. There are 37 volcanoes, highland lakes of absurd beauty, lowland jungle containing some of the greatest Maya cities ever built, a Pacific coast of black volcanic sand, and a short stretch of Caribbean coast that feels like a different country entirely.

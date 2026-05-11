@@ -8,9 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mesopotamian_sunset.jpg
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Silver_mahmoud&amp;action=edit&amp;redlink=1"
   class="new" title="User:Silver mahmoud (page does not exist)">Silver mahmoud</a>
+quick_facts:
+  Population: "44 million"
+  Languages: "Arabic & Kurdish"
+  Mesopotamia: "Cradle of civilization, 6,000+ years"
+  Tigris & Euphrates: "Both rivers flow through the country"
 done:
   country_cleanup: 2026-03-30
 score: 0.22
+loc_type: country
 ---
 
 Iraq is Mesopotamia — the Land Between the Rivers, where civilization began. The Tigris and Euphrates have been feeding humanity here for at least six thousand years, and the archaeological record is extraordinary: ziggurats, royal tombs, the ruins of Babylon, the spiral minaret of Samarra, the ancient Assyrian capitals at Nineveh and Nimrud. Nowhere else on earth has quite this density of deep history.

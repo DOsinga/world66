@@ -7,9 +7,15 @@ image: namibia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Robbenkolonie_Sklelettküste_anagoria.JPG
 image_license: CC BY 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Anagoria" title="User:Anagoria">Anagoria</a>
+quick_facts:
+  Population: "2.6 million"
+  Drives On: Left
+  Cheetahs: "Largest population on Earth"
+  Population Density: "3 people per km²"
 done:
   country_cleanup: 2026-03-29
 score: 0.69
+loc_type: country
 ---
 
 Namibia, a huge but sparsely populated country, is situated in southwestern Africa. Irt is known for its contrasting landscapes. There is the brooding desolate Namib Desert, said to be the oldest in the world, with its high dunes and awe inspiring sense of space. The central plateau, with its thornbush savanna and rugged mountains, rising abruptly from the plains, gives way to the majestic Fish River Canyon in the South. In the North of the country, landscapes range from dense bush and open plains of the great Etosha pan, to woodland savanna and lush riverine vegetation.

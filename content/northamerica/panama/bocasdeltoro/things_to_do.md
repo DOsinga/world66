@@ -1,12 +1,11 @@
 ---
-title: "Things to do"
-type: section
-accessibility: "24/7"
-address: "Calle 48 Bella Vista, Edificio Maria Eugenia, 11 B"
-email: "info@panamacrusie.com.pa"
-phone: "(507) 263 6873"
-type: "Hunting and Fishing"
-url: "www.panamacruise.com.pa"
+accessibility: 24/7
+address: Calle 48 Bella Vista, Edificio Maria Eugenia, 11 B
+email: info@panamacrusie.com.pa
+phone: (507) 263 6873
+title: Things to do
+type: poi
+url: www.panamacruise.com.pa
 ---
 
 El Paraiso Spanish School *** http://www.elparaisoschool.com *** - we are a school of Spanish immersion, located in Manuel Antonio, Costa Rica and also in the beautiful islands of Bocas Del Toro , Panama .

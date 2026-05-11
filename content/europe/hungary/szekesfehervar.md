@@ -6,6 +6,7 @@ longitude: 18.410811
 title: Székesfehérvár
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Székesfehérvár was the coronation city of medieval Hungary — for five centuries, kings were crowned and buried here. That history is still visible in the compact old town, where baroque façades line pedestrianised streets and the ruins of the royal basilica sit in an open-air archaeological garden right in the centre.

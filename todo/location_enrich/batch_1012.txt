@@ -1,0 +1,5 @@
+africa/capeverde/brava/faj_dagua
+northamerica/unitedstates/louisiana/shreveport
+asia/malaysia/petalingjaya
+europe/bosniaandherzegovina/visoko_1
+australiaandpacific/palau/peleliu

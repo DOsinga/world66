@@ -1,0 +1,5 @@
+europe/norway/lesund
+europe/france/centre/loirevalley/orleans
+africa/liberia/greenville
+europe/albania/durres
+europe/armenia/garni

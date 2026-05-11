@@ -6,6 +6,7 @@ longitude: -73.755
 title: Albany
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Albany is the capital of New York State, sitting on the west bank of the Hudson River about 150 miles north of New York City. It is one of the oldest continuously chartered cities in the United States, founded by Dutch settlers in the early 17th century.

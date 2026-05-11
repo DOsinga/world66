@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton
+africa/morocco/ouarzazate
+northamerica/unitedstates/illinois/chicago
+africa/botswana/francistown
+asia/japan/honshu/shimonoseki

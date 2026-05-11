@@ -6,6 +6,7 @@ longitude: -4.4865
 done:
   location_cleanup: 2026-04-06
 score: 0.53
+loc_type: city
 ---
 
 Most traffic along Loch Ness takes the busy A82 on the northwest shore, racing between Fort William and Inverness. Foyers sits on the quieter southeast side, reached by a single-track road that offers lovely views across the water without the lorries.

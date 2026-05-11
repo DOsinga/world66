@@ -1,9 +1,8 @@
 ---
-title: "Shopping"
+address: ELMWOOD AVENUE, between Allen Street & Forest Avenue
+title: Shopping
 type: section
-address: "ELMWOOD AVENUE, between Allen Street & Forest Avenue"
-type: "Speciality shops"
-url: "www.foreverelmwood.org"
+url: www.foreverelmwood.org
 ---
 
 As with most cities, shopping districts are available and are a welcome change for most that visit big-box retailers.

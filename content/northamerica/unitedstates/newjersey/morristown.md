@@ -6,6 +6,7 @@ longitude: -74.480987
 title: Morristown
 type: location
 score: 0.39
+loc_type: city
 ---
 
 Morristown is a pleasant New Jersey town about 30 miles west of Manhattan, best known for Morristown National Historical Park — the sites where George Washington and the Continental Army spent two brutal winters during the Revolutionary War.

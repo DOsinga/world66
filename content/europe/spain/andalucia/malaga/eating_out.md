@@ -1,16 +1,8 @@
 ---
-title: "Eating Out in Malaga"
+title: "Eating Out"
 type: section
 ---
 
-**When in Malaga, Dine in the Local Restaurants**
+Málaga eats well, and cheaply. The local speciality is **fritura malagueña** — a paper cone of mixed small fish (anchovies, baby squid, red mullet) flash-fried in olive oil — best eaten at a beachside *chiringuito* in **Pedregalejo** or **El Palo** to the east of the centre. Watch for *espetos*, sardines threaded onto a cane skewer and grilled over driftwood embers in a half-buried rowing boat: a Costa del Sol ritual.
 
-Eating out in** Malaga restaurants** is one experience that you will savor for a long time. Malaga is a populous city in Andalusia, Spain. It is one of the oldest cities in the world and is blessed with a wonderful climate, where the temperature in winter is just 17.2 degrees Celsius or 63 degrees Fahrenheit. Here is one place that you need to dine in when in Malaga.
-
-**El Refectorium**
-
-The El Refectorium restaurant serves Spanish cuisine, and some dishes already have local Malaguenan flavors added to them. El Refectorium is situated at Calle Cervantes 8, just behind the Malaga bullring. The restaurant is open from Mondays to Saturdays 1:30 p.m. to 5:00 p.m. and it reopens again for dinner from 8:00 p.m. until midnight. It is usually filled with fans and sometimes a matador or two hangs out in this place, especially after a bullfight.
-
-**The Food **
-
-The city of Malaga is actually noted for its fritura malagueno, or fried fish, so all restaurants in the area serve this specialty. El Refectorium is noted for its tapas. Samples of popular malagueno dishes are baby fried fish, monkfish brochette, grilled angler fish and roasted lamb. The roasted lamb is truly mouthwatering, especially with their saffron-flavored tomato sauce. A must-try Spanish dish is cold almond soup, or *ajo blanco con uvas*. It's a soup garnished with grapes and seasoned with garlic, also known as the Malaga soup. Dining will not be complete without the restaurant's rice pudding for dessert. The cost of the main course ranges from $7 to $22.
+In the city itself the tapas tradition is strong. **Calle Granada**, **Plaza de la Merced** and the lanes around the Cathedral are full of small bars where a beer comes with a plate of olives, ham, or *boquerones en vinagre* (anchovies marinated in vinegar). For a sit-down meal, try **El Refectorium** behind the bullring (Calle Cervantes, 8) for traditional Spanish dishes including the local *ajo blanco* — a chilled garlic-and-almond soup served with grapes — and **El Tapeo de Cervantes** for a more modern take on tapas. Main courses run €10–22.

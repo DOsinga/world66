@@ -6,6 +6,7 @@ longitude: 145.928582
 title: Tully
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Tully is a small town in Queensland's Wet Tropics, about 140 km south of Cairns, and claims the title of Australia's wettest town — annual rainfall regularly exceeds 4 metres. The surrounding country is almost entirely sugarcane and banana plantations, which is the economic backbone of the area.

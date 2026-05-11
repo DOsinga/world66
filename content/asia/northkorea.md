@@ -8,9 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Party_Foundation_Monument_
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="http://www.uritours.com">Uri
   Tours</a>
+quick_facts:
+  Population: "26 million"
+  Currency: Won (unusable by tourists)
+  Domestic Internet: "Fewer than 30 websites on a closed intranet"
+  Independent Travel: "Not permitted — government guides mandatory"
 done:
   country_cleanup: 2026-03-29
 score: 0.19
+loc_type: country
 ---
 
 North Korea — officially the Democratic People's Republic of Korea — is the most closed country on earth and, for that reason, one of the most compelling. Every visitor goes as a guest of the state. You will be met at the airport, escorted everywhere by two government-assigned guides, and shown a carefully curated version of the country. You will not wander freely. You will not speak to locals without a minder present. And yet people come back transformed.

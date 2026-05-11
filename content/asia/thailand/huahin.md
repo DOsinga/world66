@@ -1,9 +1,14 @@
 ---
-title: Hua Hin
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-21'
 latitude: 12.569933
 longitude: 99.957344
 score: 0.63
+title: Hua Hin
+type: location
+loc_type: city
 ---
 
 Hua Hin is located approx. 190 km south of Bangkok and 92 kilometres north of Prachuab Khiri Khan, its provincial chief town and it is a coastal, well known resort town, set on the west coast of the Gulf of Thailand, Hua Hin has a population of around 60,000 people, the King of Thailand has his summer palace adjoining the beach and almost every year spends a few months in Hua Hin. Hua Hin Hotels range from guesthouse to luxury reports and spas.

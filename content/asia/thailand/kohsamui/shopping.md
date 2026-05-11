@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Kohsamui"
+title: "Shopping"
 type: section
 ---
 

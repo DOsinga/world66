@@ -1,7 +1,6 @@
 ---
-title: "Sights"
-type: section
-type: "Hotspots"
+title: Sights
+type: poi
 ---
 
 Vratza iz city fill with many very charming attraction.

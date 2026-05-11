@@ -6,6 +6,7 @@ longitude: 13.0547
 title: Pontine Islands
 type: location
 score: 0.59
+loc_type: feature
 ---
 
 The Pontine Islands are a small volcanic archipelago off the Lazio coast, close enough to Rome that Italians have claimed them entirely as a summer retreat — and far enough out to sea that the water is genuinely turquoise. If you come in July or August, you will be sharing the harbours with a lot of Romans. Come in May, June, or September and you will have things much more to yourself.

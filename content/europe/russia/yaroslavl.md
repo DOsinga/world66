@@ -6,6 +6,7 @@ longitude: 39.893371
 done:
   location_cleanup: 2026-04-08
 score: 0.5
+loc_type: city
 ---
 
 Yaroslavl sits at the confluence of the Volga and Kotorosl rivers, about 250 kilometres northeast of Moscow. Said to have been founded in 1010 by Prince Yaroslav the Wise, the historic centre is now a UNESCO World Heritage Site and one of the most rewarding stops on Russia's Golden Ring.

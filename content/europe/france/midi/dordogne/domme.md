@@ -6,6 +6,7 @@ longitude: 1.214002
 title: Domme
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Domme is a 13th-century bastide perched on a cliff 150 metres above the Dordogne river, and the views from its ramparts are among the finest in the Perigord. On a clear day you can see the river winding through a patchwork of walnut orchards, tobacco fields, and stone villages as far as the eye can follow.

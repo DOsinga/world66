@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "African"
+title: Eating Out
+type: poi
 ---
 
 There r more than 20 good restuarant here.

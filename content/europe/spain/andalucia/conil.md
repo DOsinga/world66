@@ -6,6 +6,7 @@ longitude: -6.088187
 title: Conil
 type: location
 score: 0.6
+loc_type: city
 ---
 
 Conil de la Frontera is a popular resort town on the Costa de la Luz in [Andalucia](/europe/spain/andalucia), between Cadiz and Tarifa. The main beach is a wide, calm bay with long stretches of golden sand, and there are more secluded beaches sheltered in rocky coves to the north. Most of the tourists here are Spanish, which keeps the nightlife lively and the restaurants honest.

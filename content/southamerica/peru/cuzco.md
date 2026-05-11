@@ -1,9 +1,17 @@
 ---
-title: Cuzco
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-21'
+image: cuzco.jpg
+image_attribution: quinet
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Cathedral_at_Cuszo_Peru.jpg
 latitude: -13.516954
 longitude: -71.979271
 score: 0.83
+title: Cuzco
+type: location
+loc_type: city
 ---
 
 **Cuzco** was the capital of the Inca empire and can be considered Peru's tourist capital today because of the rich Inca heritage. Many of the streets in the city center are lined with buildings containing whole parts of ancient Inca walls. The streets are often stepped, narrwo and crowded and probably don't look that different from those in earlier days.

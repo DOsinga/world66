@@ -1,17 +1,16 @@
 ---
-title: "Brinchang Saturday Night Market"
-type: poi
-address: "Brinchang"
-type: "Local"
+address: Brinchang
 latitude: 4.491666
 longitude: 101.388536
+snippet: Weekly street food market with Malaysian hawker burgers and snacks
+tags:
+- eating_out
+title: Brinchang Saturday Night Market
+type: poi
 ---
 
-Lotsa yummy local food at the Brinchang market every Saturday evening.
+Every Saturday evening, the main street of Brinchang fills with hawker stalls selling local food. It is one of the more accessible night markets in the Cameron Highlands and worth timing your visit around.
 
-What I love doing is to grab a burger from the street hawker (this is a
-Malaysian street-style burger, with pattie, ketchup, chilli, and egg),
-and then I'll just stroll around the market and pick up a few random
-strange looking local snacks as 'sides'.
+The street-style Malaysian burger is the standout: a beef patty, egg, chilli sauce, and ketchup in a soft bun, cooked on a griddle right in front of you. Beyond that, you will find satay, fresh sugarcane juice, grilled corn, kuih (traditional Malay cakes), and an assortment of snacks that vary from week to week.
 
-Eat at a corner, or while walking, or bring it
+The market runs from around 6pm until the stalls run out, typically by 10pm. Bring cash — most vendors do not take cards. The cooler highland air makes eating while walking perfectly comfortable.

@@ -1,9 +1,17 @@
 ---
-title: Melbourne
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-21'
+image: melbourne.jpg
+image_attribution: Dietmar Rabich
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1493-7.jpg
 latitude: -37.8142
 longitude: 144.9632
 score: 0.75
+title: Melbourne
+type: location
+loc_type: city
 ---
 
 Melbourne is Australia's second-largest city and its strongest claim to a cultural capital. It is a city that lives in its laneways, where street art covers the walls, tiny bars hide behind unmarked doors, and some of the country's best restaurants operate from spaces you would walk past without noticing. The waves of immigration since World War II have given Melbourne an extraordinary diversity, from the Italian quarter in Carlton to the Greek precinct of Oakleigh and the Vietnamese restaurants lining Victoria Street in Richmond.

@@ -6,6 +6,7 @@ longitude: 125.407
 title: Nampo
 type: location
 score: 0.13
+loc_type: city
 ---
 
 Nampo is North Korea's main port city, sitting at the mouth of the Taedong River on the west coast, about 50km from [Pyongyang](/asia/northkorea/pyongyang). Most of the country's seaborne trade passes through here, and the city has a functional, working feel that is a world away from the capital's monumental theatrics.

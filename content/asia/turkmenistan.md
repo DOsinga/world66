@@ -10,7 +10,13 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Krasowski</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "6.3 million"
+  Visa: "Letter of invitation required — no independent travel"
+  Karakum Desert Coverage: "70% of the country"
+  Darvaza Gas Crater: Burning since 1971
 score: 0.35
+loc_type: country
 ---
 
 Turkmenistan is one of the most closed countries on earth. It sits in the heart of Central Asia, bordered by Kazakhstan, Uzbekistan, Afghanistan, Iran, and the Caspian Sea — and for decades it has turned most of its back on the outside world. Getting in is complicated. Moving around independently is restricted. Yet travelers who make the effort find a country of startling contrasts: blazing desert and ancient Silk Road ruins, a surreal marble capital and a crater of fire that has burned for fifty years in the middle of nowhere.

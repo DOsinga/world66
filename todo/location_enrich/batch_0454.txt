@@ -1,0 +1,5 @@
+europe/france/centre/loirevalley/blois
+northamerica/unitedstates/nevada/sloan_canyon
+europe/unitedkingdom/wales/porthcawl
+southamerica/frenchguiana/saul
+northamerica/unitedstates/oklahoma/okmulgee

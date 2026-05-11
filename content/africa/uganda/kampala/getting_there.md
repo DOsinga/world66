@@ -1,7 +1,6 @@
 ---
-title: "Getting There"
-type: section
-type: "By Road"
+title: Getting There
+type: poi
 ---
 
 All international flights to Kampala land on the airport of

@@ -1,0 +1,5 @@
+europe/spain/cantabria/santander
+northamerica/thecaribbean/virginislands/stcroix
+europe/italy/campania/salerno
+africa/egypt/giza
+northamerica/unitedstates/southdakota/fort_thompson

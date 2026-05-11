@@ -1,14 +1,13 @@
 ---
-title: "Eating Out"
-type: section
-address: "Nosy Kely, Morondava"
-email: "info@chezmaggie.com"
-phone: "+ 261.20.95.52347"
-price: "$ 15.00"
-type: "Seafood"
-url: "www.chezmaggie.com"
+address: Nosy Kely, Morondava
+email: info@chezmaggie.com
 latitude: -20.298178
 longitude: 44.269011
+phone: + 261.20.95.52347
+price: $ 15.00
+title: Eating Out
+type: poi
+url: www.chezmaggie.com
 ---
 
 ### [Le Masoandro Restaurant / Chez Maggie Hotel](/africa/madagascar/morondava/eatingout/le_masoandro_resta)

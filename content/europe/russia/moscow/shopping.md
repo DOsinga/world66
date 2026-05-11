@@ -1,9 +1,8 @@
 ---
-title: "Shopping"
+address: Manegnaya square, 1
+title: Shopping
 type: section
-address: "Manegnaya square, 1"
-type: "Shopping centers and malls"
-url: "www.okhot-ryad.ru"
+url: www.okhot-ryad.ru
 ---
 
 Here are a few suggested shops.

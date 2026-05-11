@@ -1,21 +1,12 @@
 ---
-title: "Bang Saphan Beaches Thailand"
+category: Beach
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 11.2095
+longitude: 99.5114
+snippet: Quiet Gulf coast beaches far from the tourist trail
+title: Bang Saphan
 type: poi
-address: "Bang Saphan Thailand"
-phone: "Ban Krut and Koh Talu"
-url: "www.huahinwhatson.com"
-latitude: 11.209502
-longitude: 99.511375
 ---
 
-Bang Saphan Beachand ban Krut Beach is located north of Chumphon on the coast of the Gulf of Thailand. The long and wide beaches include Baan Krut. This is a quiet and rural area of Thailand to enjoy the enrichment of the culture and scenery of the Gulf of Thailand. Bang Saphan, Baan krud and other beaches along the Sunrise Coast of Thailand. Close to the small island of Koh Talu Thailand. Koh Talu is popular for those seeking a quiet island.
-
-
-
-
-
-tel: Ban Krut and Koh Talu
-
-url: [www.huahinwhatson.com](http://www.huahinwhatson.com/bang_saphan.html)
-
-address: Bang Saphan Thailand
+A stretch of low-key coastline on the Gulf of Thailand, roughly halfway between Hua Hin and Chumphon. The main draws are the long, uncrowded beaches at Ban Krut and Bang Saphan Yai, backed by casuarina trees and dotted with seafood shacks. The area sees mostly Thai weekenders rather than foreign tourists, which keeps prices low and the atmosphere relaxed. Offshore, the small island of Koh Talu has decent snorkelling and a couple of simple resorts. This is a good stop if you are heading south and want a beach break without the scene.

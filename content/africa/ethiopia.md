@@ -8,7 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Interior_of_Bet_Debre_Sina
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/41000732@N04">Adam
   Jones</a> from Kelowna, BC, Canada
+quick_facts:
+  Population: "126 million"
+  Calendar: "13 months"
+  Never Colonized: Only country in Africa
+  Coffee Origin: Born here
 score: 0.44
+loc_type: country
 ---
 
 Ethiopia is unlike anywhere else on earth. It is the only African country never colonized, home to one of the oldest Christian civilizations in the world, and the place where coffee was born. The landscapes range from the highest peaks in the Simien Mountains to the lowest point on the African continent in the Danakil Depression. The food is entirely its own. The calendar has thirteen months. The clock runs six hours off. Nothing here works the way you expect, and that is precisely the point.

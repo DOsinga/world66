@@ -1,21 +1,6 @@
 ---
-title: "Shopping in Quetta"
+title: "Shopping"
 type: section
-type: "Antiques"
 ---
 
-. . .
-
-### [Afghani carpets](/asia/pakistan/quetta/shopping/afghani_carpets)
-
-The Pashtun workers are prominently expert in making fine Afghani carpets, with their pleasing and intricate designs, fur coats, jackets, waist-coats, sandals and other creations of traditional Pashtun skills.
-
-type: Antiques
-
-
-
-### [Balochi Carpets](/asia/pakistan/quetta/shopping/balochi_carpets)
-
-Balochi carpets are made by the nomadic tribes of this area. They are generally not nearly as fine or expensive as the Persian city products, or even the Turkoman tribal rugs from further North, but they are generally better than Afghan carpets and more authentic than the bad copies of Turkoman and Persian designs that the cites of Pakistan produce. They definitely have a charm of their own. They range from relatively crude rugs that can, with some bargaining, be had at very reasonable prices to quite fine and valuable pieces. Many are small enough to be fairly portable.
-
-type: Antiques
+Quetta's bazaars run off Jinnah Road and Liaquat Bazaar in the town centre. The two things to look for are **carpets** and **dry fruit**. Balochi rugs woven by the nomadic tribes of the province are coarser than Persian city carpets but considerably more authentic than the Turkoman copies you find in Karachi or Lahore — small kilims and saddle bags are easily portable and reasonably priced if you bargain. Afghani carpets, brought across the border at Chaman, turn up here in volume too, alongside Pashtun fur coats, embroidered waistcoats and beaded sandals. The dry-fruit stalls — pistachios, almonds, pine nuts, dried apricots and mulberries — are some of the best in Pakistan.

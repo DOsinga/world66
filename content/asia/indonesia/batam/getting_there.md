@@ -3,22 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**By Air**
+Almost everyone arrives by **ferry from Singapore**. Several operators (Berlian, Penguin, Sindo, Majestic) run hourly crossings from HarbourFront Centre to either **Sekupang** (50 minutes) or **Batam Centre** (around 70 minutes); a return ticket costs roughly S$30 from Singapore or about S$20 from Batam. There are also ferries to and from **Tanjung Pinang** on Bintan and from Johor in Malaysia.
 
-Five airlines fly Batam-Jakarta daily.
+**By air**, Hang Nadim International Airport on the eastern side of the island has frequent domestic flights to Jakarta and other Indonesian cities, with several daily services on Lion Air, Citilink, Batik Air and Garuda.
 
-**By Ferry**
-
-Four different ferry companies have hourly departures from Singapore's Harbourfront (formerly WTC -World Trade Centre) to Sekupang (Skp) and Batam Centre (BC) in Batam. The best boats are operated by Berlian and Penguin. Batam is one hour behind Singapore. The ferry trip to Sekupang takes 50 min; to Batam Center, about 70min.
-
-Return ferry tickets cost about Sin$30 return in Singpore and $20 in Batam.
-
-Taxi Tip: In the WTC, change Sin$8 into Rp35,000 to pay for the taxi from BC /Skpto Nagoya. At night, better to change at least Sin$200
-
-**Passport Requirements**
-
-To enter Indonesia, your passport must be valid for 6 months. Holders of passports from United States of America, Australia, South Africa, Argentina, Brazil, Denmark, the United Arab Emirates, Finland, Hungary, United Kingdom, Italy, Japan, Germany, Canada, South Korea, Norway, France, Poland, Switzerland, New Zealand, and Taiwan can a get a VOA (Visa On Arrival):US$10/3days; $25/30days.
-
-Bring exact US money or will get ripped off on the exchange rate. Members of ASEAN countries don’t have to pay. All others have to get a visa from the Indonesia embassy before arriving.
-
-Minor corrections by [giorgio](/world/member/giorgio) on 18 December 04
+**Visas**: most Western passport holders get a free 30-day visa on arrival, but check current rules before you travel — they change. Batam runs one hour behind Singapore, so factor that into ferry timetables.

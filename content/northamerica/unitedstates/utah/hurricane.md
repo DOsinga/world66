@@ -6,6 +6,7 @@ longitude: -113.2899
 score: 0.47
 title: Hurricane
 type: location
+loc_type: city
 ---
 
 Hurricane is a small town in Washington County, Utah, sitting on the edge of the red rock desert about 20 miles east of St. George. Locals pronounce it "HER-i-cun," and the town serves primarily as a base for exploring some of southern Utah's best scenery.

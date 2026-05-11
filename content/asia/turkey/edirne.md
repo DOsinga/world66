@@ -6,6 +6,7 @@ longitude: 26.558722
 title: Edirne
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Edirne sits in the far north-west of [Turkey](/asia/turkey), near the borders with Greece and Bulgaria. The ancient Hadrianopolis, founded by the Roman Emperor Hadrian in 125 AD, served as the capital of the Ottoman Empire from 1363 until the conquest of Constantinople in 1453. That century of imperial attention left behind some of the finest Ottoman architecture anywhere.

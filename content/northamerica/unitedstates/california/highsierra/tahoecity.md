@@ -6,6 +6,7 @@ longitude: -120.143478
 title: Tahoe City
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Tahoe City sits on the northwest shore of [Lake Tahoe](/northamerica/unitedstates/california/highsierra/laketahoe), where the Truckee River begins its run toward Nevada. It is the quieter, more laid-back alternative to South Lake Tahoe — a small mountain town with a handful of good restaurants, a pebble beach, and easy access to some of the Sierra's best skiing and hiking.

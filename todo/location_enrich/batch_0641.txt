@@ -1,0 +1,5 @@
+asia/laos/vientiane
+northamerica/unitedstates/michigan/holly
+africa/namibia/windhoek
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/glastonbury
+asia/india/jammuandkashmir/kulgam

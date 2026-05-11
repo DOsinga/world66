@@ -4,17 +4,11 @@ type: poi
 address: "Nai Yang, Phuket"
 latitude: 8.085801
 longitude: 98.304393
+snippet: Quiet national park beach just south of Phuket Airport
+tags:
+- things_to_do
 ---
 
-**Nai Yang beach** is on the north west side of Phuket, about 2 miles south of the aiport. The name means 'inside rubber' because the a long stretch of the beach is in a nature reserve with of lots of rubber trees.
+Nai Yang sits on the northwest coast of Phuket, about 3 km south of the airport. Much of the beach falls within Sirinath National Park, which keeps it undeveloped — no resort strip, just casuarina trees and a handful of beachside restaurants. The name translates roughly as "inside the rubber" after the rubber plantations that once lined the shore.
 
-**Nai Yang beach** is very popular with the local Thai's, despite being near the airport, the noise of the planes doesn't seem to reach the beach, and with it being a nature reserve it's largely undeveloped and has a natural and tranquil atmostsphere.
-
-**Contributors**
-June 08, 2006
-
-
-
-
-
-address: Nai Yang, Phuket
+It's popular with locals precisely because it's not on the main tourist circuit. The sea here is calmer than the more exposed west-coast beaches, making it good for swimming. Planes on approach to the airport pass overhead, but the noise is less intrusive than you might expect. Go early morning or late afternoon for the best light and cooler temperatures.

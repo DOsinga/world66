@@ -1,11 +1,10 @@
 ---
-title: "Shopping in Kanpur"
-type: section
-address: "PUNEET FLOWERS"
-email: "rajesh>wahi2000@yahoo.com"
-phone: "9450154733/9336174753"
-type: "Speciality shops"
-url: "www.puneetflowers.com"
+address: PUNEET FLOWERS
+email: rajesh>wahi2000@yahoo.com
+phone: 9450154733/9336174753
+title: Shopping in Kanpur
+type: poi
+url: www.puneetflowers.com
 ---
 
 If you want to purchase any mobile in Kanpur then u have to go to Somdutt plaza. Which is at the middle of kanpur near Naveen Market.

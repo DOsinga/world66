@@ -1,8 +1,7 @@
 ---
-title: "Things to do"
-type: section
-address: "Any travel agency in Cuzco"
-type: "Other"
+address: Any travel agency in Cuzco
+title: Things to do
+type: poi
 ---
 
 There are many things to do around Cuzco. Except all the ruins from the Inca times, and the Spanish buildings, Cuzco of today offers the tourist almost everything. Cuzco is sometimes considered the touristic capital of the continent.

@@ -6,6 +6,7 @@ longitude: 26.9459
 title: Kotka
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Kotka is a busy port town on the Gulf of Finland, about two hours east of Helsinki. Water defines the place — the harbour dominates the centre, a large part of the population works in shipping or related industries, and the Kymijoki river rushes through the outskirts with some impressively powerful rapids.

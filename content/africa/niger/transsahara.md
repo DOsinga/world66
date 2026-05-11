@@ -6,6 +6,7 @@ longitude: 7.967952
 title: Trans Sahara
 type: location
 score: 0.23
+loc_type: city
 ---
 
 Crossing the Sahara through Niger is one of the classic overland adventures — or was, until security deteriorated across the region. As of the mid-2020s, both trans-Saharan routes from Niger are effectively closed to independent travelers and extremely dangerous for any traveler.

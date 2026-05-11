@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
-type: "African"
 ---
 
 Lahore is city with an extremely rich food culture. People from Lahore are famous all over the country for their love for food. The city offers a vast variety of options when it comes to gastronomy.*

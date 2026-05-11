@@ -6,6 +6,7 @@ longitude: 21.767884
 title: Trikala
 type: location
 score: 0.51
+loc_type: city
 ---
 
 *Europe > [Greece](/europe/greece) > Trikala*

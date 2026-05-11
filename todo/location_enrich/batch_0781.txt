@@ -1,0 +1,5 @@
+southamerica/brazil/joaopessoa
+northamerica/unitedstates/pennsylvania/york
+europe/greece/trikala
+northamerica/thecaribbean/haiti/caphaitien
+northamerica/unitedstates/oregon/corvallis

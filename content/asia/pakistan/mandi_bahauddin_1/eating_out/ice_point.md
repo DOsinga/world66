@@ -1,19 +1,9 @@
 ---
-title: "Ice point"
+title: "Ice Point"
 type: poi
-address: "near boty shah, 5 ward"
-price: "20 - 80"
-type: "Fast food"
+tags: [eating_out]
+address: "Near Boty Shah, Ward 5, Mandi Bahauddin"
+snippet: "Popular local spot for ice cream and fast food"
 ---
 
-specialy famouse for ice creams and other fast food stuff
-
-type: Fast food
-
-
-
-
-
-address: near boty shah, 5 ward
-
-PriceOfMenu: 20 - 80
+A neighbourhood ice cream and fast food shop near Boty Shah in the fifth ward of Mandi Bahauddin. The menu runs from soft-serve and sundaes to simple snacks. A casual stop for locals looking for a cool treat in the summer heat.

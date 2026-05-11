@@ -1,0 +1,5 @@
+africa/southafrica/kimberley
+europe/poland/leba
+europe/germany/thuringia/jena
+europe/ireland/aranislands/inismor
+europe/unitedkingdom/england/manchester_liverpool_and_north_west/rochdale

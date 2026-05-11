@@ -3,12 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-**all**
-
-**Labadi Beach**
-
-East from Labadi Beach Hotel. 
-
-**Coco Beach**
-
-In Nungua, east on the road to Tema.
+Accra has plenty of coastline but the city's beaches are a mixed bag. The Atlantic surf is strong, the currents are dangerous, and the urban beaches double as fishing grounds and informal toilets. Labadi is the best of the in-town options; for actual swimming and surfing, head west out of the city to Kokrobite or Bojo Beach.

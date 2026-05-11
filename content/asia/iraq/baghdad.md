@@ -6,6 +6,7 @@ longitude: 44.387221
 title: Baghdad
 type: location
 score: 0.2
+loc_type: city
 ---
 
 The name of Bagdad used to evoke images of Arabian Nights, Harems and Sultans. Since the Gulf War most people think of war, destruction and Saddam Hussein. Both images are more or less correct

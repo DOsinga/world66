@@ -3,6 +3,11 @@ title: Bolivia
 type: location
 latitude: -17.05687
 longitude: -64.991229
+quick_facts:
+  Population: "12 million"
+  Capital La Paz: Highest capital city at ~3,640 m
+  Salar de Uyuni: World's largest salt flat — 10,582 km²
+  Indigenous Population: "~40% — highest share in the Americas"
 image: bolivia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni_Décembre_2007_-_Panorama_1_edit.jpg
 image_license: CC BY-SA 3.0
@@ -12,6 +17,7 @@ image_attribution: Martin St-Amant (<a href="//commons.wikimedia.org/wiki/User:S
 done:
   country_cleanup: 2026-03-29
 score: 0.7
+loc_type: country
 ---
 
 Bolivia is a landlocked country in South America. It borders on [Peru](../peru) and [Chile](../chile) in the west, [Argentina](../argentina) and [Paraguay](../paraguay) in the south and [Brazil](../brazil) in the east and north. About half of the country lies in the Andean Highlands, located in the western part, where you will find the most interesting sights like Lake Titicaca, the capital La Paz, the city of [Oruro](oruro), that has a great carnival. In the southern Highlands [Potosi](potosi), the famous silver mine city and [Sucre](sucre) are the most interesting spots. The eastern half of Bolivia is tropical, hot and humid. Santa Cruz is an interesting place in the tropical bassin.

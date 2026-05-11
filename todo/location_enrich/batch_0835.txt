@@ -1,0 +1,5 @@
+europe/iceland/holmavik
+africa/seychelles/mahe
+europe/macedonia/skopje
+africa/benin/ganvie
+southamerica/chile/chillan

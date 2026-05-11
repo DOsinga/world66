@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/goldcountry/sonora
+europe/unitedkingdom/scotland/ullapool
+europe/germany/rhinelandpalatinate/mainz
+africa/sierraleone/kabala
+asia/india/orissa/naraj

@@ -4,6 +4,7 @@ type: location
 latitude: 48.105768
 longitude: 8.195194
 score: 0.47
+loc_type: city
 ---
 
 Enjoy the beauty of nature, the romantic villages, and top European

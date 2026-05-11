@@ -1,0 +1,16 @@
+---
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 43.3704
+longitude: -8.4019
+snippet: Galician art and early Picasso in a converted convent
+tags:
+- things_to_do
+- museum
+title: Museo de Belas Artes
+type: poi
+---
+
+The Fine Arts Museum holds a permanent collection strong in Flemish and Spanish Old Masters, 19th-century Galician painting, and works by Picasso — who studied at the school of fine arts here as a teenager. The building, a converted 18th-century convent, is handsome in itself.
+
+The collection is smaller than those of Bilbao or Madrid but curated with care, and it gives real context to Picasso's early development. Entry is free on Saturdays and Sundays.

@@ -6,6 +6,7 @@ longitude: -79.7626
 title: Florence
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Florence sits at the intersection of I-95 and I-20 in the Pee Dee region of South Carolina, roughly halfway between New York and Miami. Most visitors encounter it as a stop on the interstate, but there is enough here to make it more than a fuel break.

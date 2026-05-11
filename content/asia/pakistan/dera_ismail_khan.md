@@ -6,6 +6,7 @@ longitude: 70.9091
 done:
   location_cleanup: 2026-04-07
 score: 0.26
+loc_type: city
 ---
 
 Dera Ismail Khan — commonly abbreviated to D.I. Khan — is a city on the west bank of the Indus River in Khyber Pakhtunkhwa, [Pakistan](/asia/pakistan). Founded in the late 15th century by the Baloch adventurer Ismail Khan, it sits 200 miles west of Lahore at the edge of the tribal areas, where the plains meet the mountains.

@@ -6,6 +6,7 @@ longitude: 37.466766
 title: Gondar
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Gondar was founded by Emperor Fasilidas around 1635 and served as Ethiopia's royal capital for over two centuries. It is famous for a remarkable complex of medieval castles — a walled enclosure called the Royal Enclosure (Fasil Ghebbi) — that looks more like something from medieval Europe than from equatorial Africa. UNESCO has recognised the site as a World Heritage area.

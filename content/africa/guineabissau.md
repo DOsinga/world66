@@ -10,7 +10,13 @@ latitude: 12.0
 longitude: -15.0
 title: Guinea-Bissau
 type: location
+quick_facts:
+  Population: "2.1 million"
+  Language: "Portuguese (Creole spoken)"
+  Bijagos Islands: "88 islands"
+  Top Export: Cashew nuts (90% of exports)
 score: 0.24
+loc_type: country
 ---
 
 Guinea-Bissau is one of the smallest and least visited countries in West Africa, and that is precisely its appeal. This is a place where the rhythms of daily life have barely been touched by tourism, where cashew trees line red-dirt roads, and where the extraordinary Bijagos archipelago offers some of the most pristine island landscapes on the continent.

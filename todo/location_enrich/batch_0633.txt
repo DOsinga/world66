@@ -1,0 +1,5 @@
+europe/sweden/malmo
+northamerica/canada/britishcolumbia/tofino
+asia/saudiarabia/sakakah
+australiaandpacific/solomonislands/santaisabel
+europe/netherlands/delft

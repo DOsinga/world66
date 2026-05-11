@@ -6,6 +6,7 @@ longitude: 5.320694
 title: Enkhuizen
 type: location
 score: 0.53
+loc_type: city
 ---
 
 Enkhuizen is a handsome old town on the Ijsselmeer (the former Zuiderzee), about an hour from Amsterdam by train via [Hoorn](/europe/netherlands/hoorn). Once one of the most powerful trading cities in the Dutch Golden Age — at its peak in the 17th century it was a major base for the VOC — it is now a quiet, well-preserved harbour town that rewards an easy day trip.

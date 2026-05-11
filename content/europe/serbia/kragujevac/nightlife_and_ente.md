@@ -1,13 +1,12 @@
 ---
-title: "Nightlife and Entertainment"
-type: section
-address: "Kralja Aleksandra I 131"
-email: "info@balkanika.rs"
-phone: "+381 34 364 737"
-type: "Clubs and dancing"
-url: "www.balkanika.rs"
+address: Kralja Aleksandra I 131
+email: info@balkanika.rs
 latitude: 44.323634
 longitude: 21.073992
+phone: +381 34 364 737
+title: Nightlife and Entertainment
+type: poi
+url: www.balkanika.rs
 ---
 
 Nightlife, entrainment, bars, pubs...

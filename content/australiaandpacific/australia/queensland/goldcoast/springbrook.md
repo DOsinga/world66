@@ -6,6 +6,7 @@ longitude: 153.271559
 title: Springbrook
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Springbrook National Park sits in the Gold Coast hinterland, about 45 minutes' drive from Surfers Paradise but feeling like another world entirely. The park protects ancient Antarctic beech forest, subtropical rainforest, waterfalls, and a network of well-maintained walking tracks. Pademelons graze at the forest edges and parrots flash through the canopy overhead.

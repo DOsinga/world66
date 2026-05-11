@@ -1,0 +1,5 @@
+northamerica/thecaribbean/grenada/stgeorges
+asia/srilanka/jaffna
+asia/nepal/kathmandu
+australiaandpacific/frenchpolynesia/mangareva
+asia/nepal/birgunj_birganj

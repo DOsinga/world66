@@ -1,0 +1,5 @@
+asia/philippines/tagaytay
+northamerica/unitedstates/california/northcoast/petaluma
+europe/unitedkingdom/england/manchester_liverpool_and_north_west/kendal
+asia/india/andhrapradesh/westgodavari
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bristol

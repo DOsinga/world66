@@ -4,6 +4,7 @@ type: location
 latitude: 46.74789
 longitude: 12.490669
 score: 0.55
+loc_type: city
 ---
 
 It is one of the most beautiful high valleys in East Tirol close to the

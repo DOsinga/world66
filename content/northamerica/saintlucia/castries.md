@@ -5,6 +5,7 @@ latitude: 14.0101
 longitude: -60.9875
 title: Castries
 type: location
+loc_type: city
 ---
 
 Castries is the capital and main port of Saint Lucia, a bustling town of roughly 70,000 people wedged between the green hills of the island's north and a natural harbour busy with cruise ships and inter-island ferries. It is not a pretty city in the colonial sense — fires in 1796, 1813, 1927, and 1948 destroyed most of the old wooden architecture — but it has an honest, working energy that feels less curated than many Caribbean destinations.

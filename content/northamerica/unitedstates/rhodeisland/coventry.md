@@ -6,6 +6,7 @@ longitude: -71.682844
 title: Coventry
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Coventry is one of [Rhode Island](/northamerica/unitedstates/rhodeisland)'s larger towns by area but feels surprisingly rural, especially in its western half where farms and forest still dominate. About twenty minutes southwest of [Providence](/northamerica/unitedstates/rhodeisland/providence), it straddles the line between suburb and countryside.

@@ -6,6 +6,7 @@ longitude: 48.3558
 title: Khorramabad
 type: location
 score: 0.37
+loc_type: city
 ---
 
 *Asia > Iran > Khorramabad*

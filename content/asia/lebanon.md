@@ -11,9 +11,15 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sahel_Al-koura.JPG
 latitude: 33.8547
 longitude: 35.8623
+quick_facts:
+  Population: "5.5 million"
+  Languages: Arabic, French, English
+  Skiing to Beach: "Under 1 hour — mountains meet the Mediterranean"
+  Byblos: "~7,000 years old"
 title: Lebanon
 type: location
 score: 0.5
+loc_type: country
 ---
 
 Lebanon is one of the smallest countries in the Middle East but packs more history, scenery and flavour into its 10,452 square kilometres than most nations ten times its size. This is a place where you can ski in the morning and swim in the Mediterranean by afternoon, where Roman temples rival anything in Italy, and where the food alone is worth the plane ticket.

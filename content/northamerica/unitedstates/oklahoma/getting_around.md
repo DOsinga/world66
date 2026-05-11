@@ -1,5 +1,5 @@
 ---
-title: 'Getting Around in Oklahoma'
+title: 'Getting Around'
 type: section
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: "Mountain biking"
+latitude: 10.4686
+longitude: -84.945
+snippet: Trails from volcanic highlands to Pacific coast
+tags:
+- things_to_do
+title: Mountain biking
 type: poi
 ---
 
-Claimed to be one of the world’s fastest growing sports, mountain biking in Costa Rica is gaining ground in popularity. It is offered in a number of areas in the country but perhaps better suited for the area of Tilarán.
+Costa Rica's volcanic terrain and dense trail networks make it genuinely good mountain biking country. The area around Tilarán and the shores of Lake Arenal is the best-established riding region, with routes ranging from mellow lakeside tracks to steep singletrack through cloud forest. Rides here can run from a couple of hours to a full day.
 
- Local operators are currently expanding their operations and have begun developing several biking routes for die-hard enthusiasts who want to sweat and work it when on their bikes. While there are routes that take as long as six-hours to complete there are also more moderate paths for those less-experienced riders.
+The Central Valley around San José offers easier access and well-maintained trails through coffee plantations and along river valleys. For something wilder, the Osa Peninsula has rough tracks through rainforest, though mud is a constant companion in the wet season.
+
+You can rent decent bikes in Tilarán, La Fortuna, and Monteverde. Guided rides are worth considering for backcountry routes where navigation is tricky and mechanical help is far away. The dry season (December to April) is the most comfortable time to ride, though the green season brings emptier trails and dramatic scenery.

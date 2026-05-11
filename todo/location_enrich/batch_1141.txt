@@ -1,0 +1,5 @@
+asia/philippines/zambales
+northamerica/jamaica/kingston
+africa/cameroon/dschang
+northamerica/unitedstates/louisiana/newiberia
+asia/india/himachalpradesh/shimla

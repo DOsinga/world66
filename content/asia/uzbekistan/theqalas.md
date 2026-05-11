@@ -6,6 +6,7 @@ longitude: 60.8122
 title: The Qalas
 type: location
 score: 0.29
+loc_type: feature
 ---
 
 Scattered across the Kyzyl Kum desert and the Karakalpak Republic in western Uzbekistan, the qalas are ancient mud-brick fortresses that once served as citadels for the warlords and rulers of the Silk Road. There are hundreds of ruins out here, and very few tourists ever make the journey — which is precisely the appeal.

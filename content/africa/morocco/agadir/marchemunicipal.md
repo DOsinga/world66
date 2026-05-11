@@ -1,0 +1,12 @@
+---
+latitude: 30.4217
+longitude: -9.6002
+snippet: Central covered market for spices, fruit, and crafts
+tags:
+- things_to_do
+- sight
+title: Marché Municipal
+type: poi
+---
+
+The main covered market in the city centre, located between Avenue des FAR and Avenue Sidi Mohammed. Fruit, vegetables, spices, and crafts are all on offer. Prices are not especially low but it is a pleasant place to wander, and more relaxed than the souq.

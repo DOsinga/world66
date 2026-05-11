@@ -6,6 +6,7 @@ longitude: -74.2738
 title: Freehold
 type: location
 score: 0.28
+loc_type: city
 ---
 
 Freehold is a small borough in central New Jersey, best known as Bruce Springsteen's hometown — he grew up here, attended Freehold High School, and immortalised the town in "My Hometown." The connection draws a steady trickle of Springsteen fans who come to see the places he sang about.

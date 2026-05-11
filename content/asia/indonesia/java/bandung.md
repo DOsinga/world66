@@ -1,11 +1,14 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-20'
 latitude: -6.9218
 longitude: 107.6071
+score: 0.54
 title: Bandung
 type: location
-score: 0.54
+loc_type: city
 ---
 
 Indonesia's third-largest city and capital of West Java, Bandung sits at 750 metres above sea level on a highland plateau ringed by volcanoes. The elevation keeps the air noticeably cooler than sweltering [Jakarta](/asia/indonesia/java/jakarta), two hours to the northwest, and the Dutch colonials used it as a summer retreat. They left behind some of Java's finest Art Deco architecture — a walkable cluster of 1920s and 30s buildings that earned Bandung the nickname "Paris van Java."

@@ -6,6 +6,7 @@ longitude: -68.330514
 title: San Rafael
 type: location
 score: 0.48
+loc_type: city
 ---
 
 San Rafael is the second city of Mendoza province, sitting about 230 km south of Mendoza city in a valley of vineyards and fruit orchards at the foot of the Andes. It's a quieter, less polished version of Mendoza — around 175,000 people, a relaxed pace, and wine country on every side. Most travellers use it as a base for the Atuel Canyon or as a staging post for the ski resort at Las Leñas.

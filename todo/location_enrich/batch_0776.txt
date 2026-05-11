@@ -1,0 +1,5 @@
+asia/china/aba
+europe/spain/melilla
+northamerica/unitedstates/california/south_san_francisco
+northamerica/mexico/cuernavaca
+europe/azerbaijan/qusar

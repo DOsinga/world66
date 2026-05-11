@@ -1,10 +1,9 @@
 ---
-title: "Shopping in Mandi Bahauddin"
-type: section
-address: "Muhammad Hussain commission shop, ghlla mandi ,mandi bhauddin"
-email: "no"
-phone: "546-505-499"
-type: "Antiques"
+address: Muhammad Hussain commission shop, ghlla mandi ,mandi bhauddin
+email: 'no'
+phone: 546-505-499
+title: Shopping in Mandi Bahauddin
+type: poi
 ---
 
 What to buy? Where to buy and How to buy?

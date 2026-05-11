@@ -1,0 +1,5 @@
+africa/guineeconakry/ilesdelos
+africa/mozambique/iboisland
+asia/india/maharashtra/pune
+europe/bosniaandherzegovina/medjugorje
+northamerica/unitedstates/oregon/forestgrove

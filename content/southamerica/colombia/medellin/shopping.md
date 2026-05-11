@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Medellin"
+title: "Shopping"
 type: section
 ---
 

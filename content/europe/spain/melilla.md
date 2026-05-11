@@ -6,6 +6,7 @@ longitude: -2.940903
 title: Melilla
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Melilla is one of two Spanish enclaves on the coast of [Morocco](/africa/morocco), a small autonomous city that has been in Spanish hands since 1497. It sits on the eastern edge of the Rif mountains, facing the Mediterranean.

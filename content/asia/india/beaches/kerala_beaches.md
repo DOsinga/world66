@@ -1,35 +1,18 @@
 ---
-title: "Kerala Beaches"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 8.381
+longitude: 76.978
+snippet: Kerala's palm-fringed coastline along the Arabian Sea
+tags:
+- things_to_do
+- beach
+title: Kerala Beaches
 type: poi
 ---
 
-Kovalam beach is a tropical blue water beach located in the
-southernmost tip of india, in the state of kerala. The state of kerala,
-also called the malabar coast, with it's beautiful beaches and lagoons,
-tropical weather and fresh seafood and has been consistently rated in
-the top 10 exotic destinations by the National Geographic.
+Kerala's coastline stretches over 500 km along the Arabian Sea, offering everything from busy resort beaches to quiet fishing villages. Kovalam, at the southern tip near Trivandrum, is the most developed — three crescent bays separated by rocky headlands, with the lighthouse beach the most photogenic. Further north, Varkala sits atop dramatic red laterite cliffs with a long beach below.
 
-The weather is warm and humid, so wear light linens. Best places to
-visit are cochin, kovalam, munnar, thekkady, cherai, kumarakom and
-calicut.
+Beyond sunbathing, the coast connects to Kerala's famous backwaters — a network of lagoons, canals and lakes running parallel to the shore. Houseboat trips through Kumarakom and Alleppey are the classic way to experience them. The seafood everywhere is exceptional: fresh prawns, kingfish and mussels cooked in coconut-based curries.
 
-Drink the local coconut rum, called kallu , straight from the tree and
-feast on the wide and exotic varieties of shrimp, lobster, mahi mahi,
-albacore and pearlspot fish.
-
-Cuisine in Kerala is coconut curry based similar to thai cuisine, so
-really titillates your taste buds with the local mouth watering
-delicacies.
-
-Enjoy and take an elephant ride at Thekkady, or ride the houseboat in
-kumarakom or soak under the sun at kovalam or even enjoy ayurvedic
-massage's in calicut.
-
-The whole state of kerala is only 450 miles long and 200 miles wide by
-the arabian sea, and has the best airports and land transportation
-available.
-
-The best part of it all, is that you can come back fresh and rejuvenated after a 7 day kerala vacation.
-
-**Contributors**
-March 23, 2006
+Best visited October to March when the monsoon has passed and the sea is calm enough for swimming.

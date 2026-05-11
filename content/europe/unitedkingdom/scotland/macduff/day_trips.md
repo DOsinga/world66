@@ -1,6 +1,10 @@
 ---
-title: "Day Trips in Macduff"
+title: "Day Trips"
 type: section
+linked_locations:
+  - europe/unitedkingdom/scotland/banff
+  - europe/unitedkingdom/scotland/pennan
+  - europe/unitedkingdom/scotland/gardenstown
 ---
 
-Get aboard the Puffin which sails from Macduff harbour twice daily in the summer. 'Puffin John' will take you west all the way past Portsoy, where you will see Findlater Castle, Sandend and its beautiful beach. When he sails east to Troup Head you will see the massive colony of birds which includes a gannet colony, puffins, gullimots and many other species. If you're lucky you may see dolphins or perhaps a Minke whale. See www.puffincruises.com (Stan Bruce 19 Jan 2006)
+Macduff is a good base for exploring the Moray Firth coast. Its twin town of [Banff](/europe/unitedkingdom/scotland/banff) is a short walk across the bridge, and the cliff-clinging fishing villages of [Pennan](/europe/unitedkingdom/scotland/pennan) and Gardenstown are a short drive east.

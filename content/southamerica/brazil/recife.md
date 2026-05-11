@@ -6,6 +6,7 @@ longitude: -34.884819
 title: Recife
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Recife is the capital of Pernambuco State and one of northeast Brazil's most vibrant cities. Built on a network of rivers, islands, and peninsulas where the Atlantic coast meets the Rio Capibaribe, it has a distinctive low-rise colonial skyline and a reputation for strong regional culture — frevo music, maracatu drumming, and the most intense carnival outside of Rio.

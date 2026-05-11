@@ -6,6 +6,7 @@ longitude: 23.1337
 done:
   location_cleanup: 2026-04-07
 score: 0.4
+loc_type: city
 ---
 
 Kokkola is one of those small Finnish coastal cities that most travellers blow past on the train between Vaasa and Oulu. That is a mistake. This bilingual city on the Gulf of Bothnia has a beautifully preserved wooden old town, a surprisingly lively cultural scene, and the kind of quiet charm that rewards anyone willing to slow down.

@@ -1,9 +1,17 @@
 ---
-title: Oporto
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-20'
+image: oporto.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Oporto,_Portugal,_2012-05-09,_DD_03.JPG
 latitude: 41.150219
 longitude: -8.61035
 score: 0.77
+title: Oporto
+type: location
+loc_type: city
 ---
 
 Built on the right bank of the Douro river, Oporto (or Porto) is a city where the old features contrast with the new. Its winding, hilly, narrow streets in the old town are a complement to its wide modern avenues which spread out to the suburbs. As capital of the north, Porto is very unpretentious and unashamedly commercial. As a Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies and Porto works". 

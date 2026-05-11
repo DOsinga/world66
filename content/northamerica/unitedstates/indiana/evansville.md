@@ -6,6 +6,7 @@ longitude: -87.571564
 title: Evansville
 type: location
 score: 0.34
+loc_type: city
 ---
 
 Evansville is the third-largest city in Indiana, sitting on the Ohio River in the south-western corner of the state near the borders with Kentucky and Illinois. The river gave the city its early importance as a shipping and manufacturing hub, and the waterfront remains one of its more attractive features.

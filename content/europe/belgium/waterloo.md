@@ -6,6 +6,7 @@ longitude: 4.408428
 title: Waterloo
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Waterloo is famous for a single day: 18 June 1815, when Napoleon's army met the Duke of Wellington's forces on the rolling farmland south of this small [Belgian](/europe/belgium) town. The battle ended Napoleon's rule and reshaped Europe. Today Waterloo is a prosperous commuter suburb of [Brussels](/europe/belgium/brussels), but the battlefield remains largely unchanged.

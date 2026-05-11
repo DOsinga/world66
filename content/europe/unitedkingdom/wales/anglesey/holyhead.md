@@ -6,6 +6,7 @@ longitude: -4.633097
 title: Holyhead
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Holyhead sits at the far western tip of Anglesey, and most people pass through on their way to the Irish ferries. But there's reason to linger.

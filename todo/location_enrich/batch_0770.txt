@@ -1,0 +1,5 @@
+africa/ivorycoast/bingerville
+northamerica/unitedstates/california/inlandempire/temecula
+europe/italy/basilicata/potenza
+northamerica/turksandcaicosislands/grandturk/cockburntown
+asia/saudiarabia/diriyah

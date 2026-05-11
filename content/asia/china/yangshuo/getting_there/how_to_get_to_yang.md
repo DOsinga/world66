@@ -1,7 +1,6 @@
 ---
-title: "How to get to Yangshuo?"
+title: How to get to Yangshuo?
 type: poi
-type: "By Air"
 ---
 
 Dear travelers,there are some diffrent ways to get to the beatiful village-Yangshuo as below:

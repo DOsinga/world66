@@ -1,9 +1,17 @@
 ---
-title: Edinburgh
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-21'
+image: edinburgh.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_3331_Edinburgh_-_Schottland.jpg
 latitude: 55.953346
 longitude: -3.188375
 score: 0.84
+title: Edinburgh
+type: location
+loc_type: region
 ---
 
 The capital of Scotland, Edinburgh, is one of the world's greatest cities. The extraordinary architectural heritage and historical magnificence of Edinburgh soon charm the visitor. Edinburgh is a center of culture and one of Europe's most handsome cities. The beauty of its setting and its predominantly stone buildings, allied with its intellectual traditions have earned it the title of 'Athens of the North'. 

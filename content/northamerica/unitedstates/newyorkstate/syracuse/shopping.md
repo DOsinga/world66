@@ -1,10 +1,9 @@
 ---
-title: "Shopping"
-type: section
-address: "Armory Square, Syracuse"
-type: "Speciality shops"
+address: Armory Square, Syracuse
 latitude: 43.047369
 longitude: -76.155121
+title: Shopping
+type: poi
 ---
 
 Syracuse and surrounding suburbs have many shopping options. From the three Major Malls, to the half dozen "Power Centers" and the many small strip malls, you will be able to find almost everything you want.

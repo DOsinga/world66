@@ -10,7 +10,13 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:B%C3%A4rwinkel,Kla
   title="User:Bärwinkel,Klaus">Bärwinkel,Klaus</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "5.1 million"
+  Currency: Euro (€)
+  Pubs: "Over 7,000 across the country"
+  Bog Cover: "17% of land area"
 score: 0.48
+loc_type: country
 ---
 
 The **Republic of Ireland** occupies most of a small island on the northwest edge of Europe. It is a country of green hills, bogland, stone walls, and coast — and also of cities that punch well above their weight in terms of pubs, literature, and life. The Irish are genuinely welcoming to strangers, and traveling here rarely feels like hard work.

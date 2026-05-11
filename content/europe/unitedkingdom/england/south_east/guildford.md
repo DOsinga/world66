@@ -6,6 +6,7 @@ longitude: -0.573206
 title: Guildford
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Guildford is a handsome town on the River Wey in Surrey, about 30 minutes by train from London Waterloo. The steep cobbled High Street, lined with shops and pubs, is one of the most attractive in the region.

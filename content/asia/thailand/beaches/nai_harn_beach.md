@@ -1,18 +1,17 @@
 ---
 title: "Nai Harn Beach"
 type: poi
+snippet: Quiet southern Phuket beach with a laid-back feel
+tags:
+- beaches
+- beach
 address: "Nai Harn, Phuket"
-latitude: 7.776788
-longitude: 98.305771
+latitude: 7.7768
+longitude: 98.3058
 ---
 
-**Nai Harn Beach** on the southern tip of Phuket is my favourite **Phuket beach**, its in a shallow bay and unlike many Thailand beaches is quite deep, leaving plenty of room for beach activities such as frisbee and beach football. The water is shallow for a reasonable distance so its safer for children, (but they should be supervised) and the bay prevents many of the stronger currents that circulate around **Phuket**. The treeline at the back of the beach is host to varity of bars and restaurents, so getting a snack or meal or few beers and enjoying it the shade isn't a problem. Nearby accommodation is scarse, which means **Nai Harn beach** doesn't get as busy as other **Phuket** beaches, but there's plenty of car parking and room for motorbikes between the main road and the beach.
+Tucked into a bay at Phuket's southern tip, Nai Harn is one of the island's more relaxed beaches. The bay is sheltered, the water is shallow for a good distance out, and the beach itself is wide enough for football and frisbee -- a rarity on Phuket where many strands are narrow.
 
-**Contributors**
-June 16, 2006
+A line of bars and small restaurants sits under the trees at the back of the beach, so you can eat and drink without leaving the sand. Accommodation nearby is limited, which keeps the crowds thinner than at Patong or Kata. There is ample parking between the main road and the beach for cars and motorbikes.
 
-
-
-
-
-address: Nai Harn, Phuket
+During the monsoon season (May to October) the surf picks up and swimming can be risky, but in the dry months the water is calm and good for families. The southern headland offers a short walk to a viewpoint looking out over the Andaman Sea.

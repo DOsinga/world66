@@ -1,11 +1,18 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  poi_cleanup: '2026-04-21'
+image: stpetersburg.jpg
+image_attribution: pasa47
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:4th_St_Petersburg,_Florida,_August_2019.jpg
 latitude: 27.7731
 longitude: -82.64
+score: 0.54
 title: St. Petersburg
 type: location
-score: 0.54
+loc_type: city
 ---
 
 St. Petersburg sits at the tip of the Pinellas Peninsula, wrapped on three sides by Tampa Bay and the Gulf of Mexico. It is warmer, sunnier, and more laid-back than its larger neighbor [Tampa](/northamerica/unitedstates/florida/tampabayarea/tampa) across the bay — and it has better beaches, a stronger arts scene, and a walkable downtown that Tampa has long envied.

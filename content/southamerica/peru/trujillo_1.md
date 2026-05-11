@@ -6,6 +6,7 @@ longitude: -79.0288
 title: Trujillo
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Trujillo is Peru's third-largest city, sitting on the northern coastal desert about 560 km north of Lima. It is one of the country's most important archaeological destinations, surrounded by pre-Columbian ruins that span over a thousand years of civilisation.

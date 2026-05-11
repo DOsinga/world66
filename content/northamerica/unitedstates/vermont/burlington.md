@@ -6,6 +6,7 @@ longitude: -73.2129
 title: Burlington
 type: location
 score: 0.52
+loc_type: city
 ---
 
 **Burlington** is Vermont's largest city, though at around 45,000 people it hardly feels urban. It sits on the eastern shore of Lake Champlain, with the Adirondack Mountains of New York visible across the water and the Green Mountains rising behind.

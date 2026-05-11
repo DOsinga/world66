@@ -1,0 +1,5 @@
+europe/belgium/hastiere
+northamerica/unitedstates/ohio/columbus
+europe/sweden/falun
+asia/india/madhyapradesh/indore
+northamerica/unitedstates/newmexico/quemado

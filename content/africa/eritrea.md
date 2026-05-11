@@ -10,7 +10,13 @@ image_attribution: The original uploader was <a href="https://en.wikipedia.org/w
   class="extiw" title="wikipedia:User:Blofeld of SPECTRE">Blofeld of SPECTRE</a> at
   <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English
   Wikipedia</a>.
+quick_facts:
+  Population: "3.6 million"
+  Access: "Travel permits required outside Asmara"
+  Asmara: UNESCO Art Deco capital
+  Dahlak Islands: "200+"
 score: 0.2
+loc_type: country
 ---
 
 Eritrea is one of the least visited countries in Africa, and one of the most rewarding for travelers who make the effort. This small nation on the Horn of Africa, wedged between Sudan, Ethiopia, and Djibouti along the Red Sea coast, gained its independence in 1993 after a thirty-year war. That struggle shaped everything about the place -- the national character, the infrastructure, the politics, and the way Eritreans relate to outsiders, which is with remarkable warmth.

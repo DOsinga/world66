@@ -1,9 +1,11 @@
 ---
-title: "Sights"
+address: Box 355, Darling Hill Road, East Burke
+done:
+  poi_cleanup: '2026-04-21'
+phone: Mountian View Farm - (802) 626-9924
+title: Sights
 type: section
-address: "Box 355, Darling Hill Road, East Burke"
-phone: "Mountian View Farm - (802) 626-9924"
-zipcode: "05832"
+zipcode: 05832
 ---
 
 There's a short drive to a lot of things in East Burke.

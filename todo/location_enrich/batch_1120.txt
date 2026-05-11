@@ -1,0 +1,5 @@
+asia/india/tamilnadu/pondicherry
+asia/philippines/bohol/tagbilaran
+europe/france/midi/basqueregion/stjeandeluz
+europe/germany/hessen/aschaffenburg
+northamerica/unitedstates/kentucky/madisonville

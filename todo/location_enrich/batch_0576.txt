@@ -1,0 +1,5 @@
+africa/morocco/high_atlas
+europe/italy/sardinia/nuoro
+asia/india/rajasthan/pushkar
+europe/germany/saxony/meissen
+europe/unitedkingdom/scotland/pitlochry

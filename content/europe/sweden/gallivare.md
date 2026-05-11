@@ -5,6 +5,7 @@ latitude: 67.3
 longitude: 20.25
 todo_location_cleanup: done
 score: 0.44
+loc_type: city
 ---
 
 Gällivare is a mining town in Swedish Lapland, about 100 km north of the Arctic Circle, sitting atop one of Europe's most important iron ore deposits. The mines are the dominant fact of life here, and the company town character — orderly streets, functional buildings — reflects that history. Yet the town has a genuine charm and serves as an excellent base for exploring the surrounding wilderness.

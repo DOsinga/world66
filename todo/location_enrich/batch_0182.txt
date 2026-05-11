@@ -1,0 +1,5 @@
+europe/netherlands/dordrecht
+northamerica/greenland/qaanaaq
+europe/spain/galicia/arbo
+africa/togo/lome
+northamerica/unitedstates/maine/belgrade_lakes

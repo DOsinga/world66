@@ -1,11 +1,26 @@
 ---
-title: Ha Long Bay
-type: location
-latitude: 20.9084
-longitude: 107.0683
 done:
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-11'
+image: halongbay.jpg
+image_attribution: Shyamal
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_22.jpg
+latitude: 20.9084
+loc_type: city
+longitude: 107.0683
 score: 0.93
+tags:
+- natural_wonder
+- cruising
+- kayaking
+- caves
+- limestone_karst
+- unesco
+- wildlife
+tier: 4
+title: Ha Long Bay
+type: location
 ---
 
 Ha Long Bay is one of the most spectacular natural landscapes in Asia. Over 1,900 limestone islands and karst formations rise from the Gulf of Tonkin in the northeastern corner of Vietnam, draped in green jungle and riddled with caves, creating a seascape that looks like a Chinese ink painting brought to life. It is a UNESCO World Heritage Site, and deservedly so. About 170 km east of Hanoi, it draws visitors from around the world.

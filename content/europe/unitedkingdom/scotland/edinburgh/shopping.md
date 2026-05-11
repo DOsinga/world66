@@ -1,24 +1,6 @@
 ---
 title: "Shopping"
 type: section
-address: "136 Rose Street"
-email: "sales@thecatgallery.co.uk"
-phone: "00 44 (0)131 226 7600"
-type: "Speciality shops"
-url: "www.thecatgallery.co.uk"
-latitude: 55.951946
-longitude: -3.201606
 ---
 
-Edinburgh is a great place to go shopping. The best known shop is Jenners department store but there are amny specialty shops in the City Centre too.
-
-**Contributors**
-January 03, 2006
-
-### [The Cat Gallery (and Dogs Too)
-
-The Cat Gallery (and Dogs Too) is situated at 136 Rose Street, Edinburgh, one block north of Edinburgh City Centre's main shopping street, Princes Street.
-
-The shop offers a wide selection of quality gifts for cat and dog lovers and their four legged friends. A worldwide mail order service is also offered via their website at www.thecatgallery.co.uk](http://www2.world66.com/europe/unitedkingdom/scotland/edinburgh/shopping/the_cat_gallery_a).
-
-type: Speciality shops
+Princes Street is the main high-street drag, with the usual department stores anchored by the historic **Jenners** building (now Johnnie Walker's flagship experience). For better shopping, walk one block north to **George Street** for designer and mid-range fashion, or the **Multrees Walk** development for the high-end labels. Independent shops cluster on **Victoria Street** and the surrounding Grassmarket — booksellers, vintage clothes, whisky merchants, the kind of places that gave JK Rowling her Diagon Alley imagery. **Stockbridge** is the spot for delis, antiques and small boutiques, with a busy farmers' market on Sunday mornings. For tartan, kilts and shortbread, the Royal Mile will sort you out.

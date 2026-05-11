@@ -1,10 +1,9 @@
 ---
-title: "Sights in Yangshuo"
-type: section
-email: "contact@visitourchina.com"
-phone: "(86)773-5833156"
-type: "Streets"
-url: "www.visitourchina.com"
+email: contact@visitourchina.com
+phone: (86)773-5833156
+title: Sights in Yangshuo
+type: poi
+url: www.visitourchina.com
 ---
 
 Yangshuo Attractions

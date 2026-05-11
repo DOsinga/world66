@@ -1,8 +1,7 @@
 ---
-title: "Sights in Westport"
-type: section
-type: "Hotspots"
-url: "www.parks.wa.gov"
+title: Sights in Westport
+type: poi
+url: www.parks.wa.gov
 ---
 
 **Contributors**

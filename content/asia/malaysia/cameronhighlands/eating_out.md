@@ -1,9 +1,8 @@
 ---
-title: "Eating Out"
-type: section
-address: "Tanah Rata hawker centre"
-price: "RM 1 for a pancake!"
-type: "Cheap"
+address: Tanah Rata hawker centre
+price: RM 1 for a pancake!
+title: Eating Out
+type: poi
 ---
 
 Restuarants, cafe, hawker centres in Cameron Highlands.

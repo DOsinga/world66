@@ -6,6 +6,7 @@ longitude: -88.74
 title: New London
 type: location
 score: 0.37
+loc_type: city
 ---
 
 New London is a small city in east-central Wisconsin, set where the Wolf River meets the Embarrass River. The two rivers and nearby lakes make it a natural base for fishing, boating, canoeing and tubing in summer, with ice fishing taking over in winter.

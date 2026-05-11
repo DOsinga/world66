@@ -1,15 +1,14 @@
 ---
-title: "Eating Out in Valencia"
-type: section
-accessibility: "yes"
-address: "C / Pelayo nº 32 , 46007 Valencia"
-email: "cataruzsl@gmail.com"
-phone: "0034 963360099"
-price: "9,95"
-type: "European"
-url: "www.la-querencia.com"
+accessibility: 'yes'
+address: C / Pelayo nº 32 , 46007 Valencia
+email: cataruzsl@gmail.com
 latitude: 39.42624
 longitude: -0.416351
+phone: 0034 963360099
+price: 9,95
+title: Eating Out in Valencia
+type: poi
+url: www.la-querencia.com
 ---
 
 As the third largest city in Spain, Valencia restaurants are plentiful and well known for their culinary excellence. With specialties including paella, horchata, Spanish omelets, rosquilletas and calamari, Valencian dining is sure to be a gastronomic treat.

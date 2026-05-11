@@ -4,6 +4,7 @@ type: location
 latitude: 21.17024
 longitude: 72.831062
 score: 0.38
+loc_type: city
 ---
 
 Surat is Gujarat's second-largest city and the diamond capital of the world -- the vast majority of the world's diamonds are cut and polished here. It is also a major centre for the textile industry, particularly synthetic fabrics and embroidered saris.

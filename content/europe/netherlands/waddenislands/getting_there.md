@@ -1,7 +1,6 @@
 ---
-title: "Getting There"
-type: section
-type: "By Sea"
+title: Getting There
+type: poi
 ---
 
 Choose one of the three entirely different crossings to get to the Dutch Wadden Islands

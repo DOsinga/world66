@@ -7,9 +7,15 @@ image: syria.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Overview_of_Damascus.jpg
 image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/upyernoz/">upyernoz</a>
+quick_facts:
+  Population: "23 million (pre-war; millions displaced)"
+  Travel Advice: "Most governments advise against all travel"
+  Damascus: "Among the oldest continuously inhabited cities on earth"
+  Alphabet Origin: "The first alphabet was invented here"
 done:
   country_cleanup: 2026-03-30
 score: 0.14
+loc_type: country
 ---
 
 Syria is one of the most historically rich countries on earth, and also one of the most difficult to visit right now. The civil war that began in 2011 ended in December 2024 when Bashar al-Assad's regime collapsed and he fled to Russia. A transitional government under Ahmed al-Sharaa took power in early 2025. The country is reopening, cautiously, to the outside world.

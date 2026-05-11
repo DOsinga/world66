@@ -1,9 +1,8 @@
 ---
-title: "Shopping in Kalyan"
-type: section
-email: "sales@aflowersgift.com"
-type: "Shopping centers and malls"
-url: "www.aflowersgift.com"
+email: sales@aflowersgift.com
+title: Shopping in Kalyan
+type: poi
+url: www.aflowersgift.com
 ---
 
 Send flowers to India. Send Gifts to India. A Flowers Gift send flowers and gifts with same day delivery in India.

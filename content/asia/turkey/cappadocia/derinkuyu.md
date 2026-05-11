@@ -6,6 +6,7 @@ longitude: 34.699588
 title: Derinkuyu
 type: location
 score: 0.71
+loc_type: city
 ---
 
 Derinkuyu is a small town in [Cappadocia](/asia/turkey/cappadocia) whose main claim to fame lies entirely underground. Beneath the modern streets is one of the largest and most extraordinary underground cities ever discovered — an ancient subterranean complex carved from the soft volcanic tuff that descends at least eight floors and could shelter tens of thousands of people. It was likely built or expanded by early Christians fleeing Roman and later Arab raids, and the city includes living quarters, stables, storage rooms, churches, and wineries, all connected by narrow tunnels that could be sealed from the inside with large rolling stone doors.

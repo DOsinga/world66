@@ -1,12 +1,11 @@
 ---
-title: "Getting There"
-type: section
-address: "252 e. allegan st"
-email: "kwagamalakelodge@yahoo.com"
-phone: "269-694-6571"
-type: "By Sea"
+address: 252 e. allegan st
+email: kwagamalakelodge@yahoo.com
 latitude: 42.459873
 longitude: -85.693999
+phone: 269-694-6571
+title: Getting There
+type: poi
 ---
 
 There are regular flights in low season to San Andres from

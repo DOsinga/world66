@@ -1,0 +1,5 @@
+europe/france/east/champagne/troyes
+europe/spain/aragon/ainsa
+europe/italy/liguria/italianriviera/tigullio/rapallo
+europe/romania/sapinta
+europe/croatia/umag

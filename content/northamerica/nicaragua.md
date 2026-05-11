@@ -3,6 +3,11 @@ title: Nicaragua
 type: location
 latitude: 12.8654
 longitude: -85.2072
+quick_facts:
+  Population: "7 million"
+  Budget Meal: "~$2–3"
+  Isla Ometepe: Two volcanoes forming one island in a lake
+  Cheapest in Central America: Budget meals under $3
 image: nicaragua.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Col_Universitaria,_León,_Nicaragua_-_panoramio_-_Juan_José_Mendoza_(5).jpg
 image_license: CC BY-SA 3.0
@@ -11,6 +16,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://web.arc
 done:
   country_cleanup: 2026-03-29
 score: 0.45
+loc_type: country
 ---
 
 Nicaragua is the largest country in Central America, squeezed between [Honduras](/northamerica/honduras) to the north and [Costa Rica](/northamerica/costarica) to the south. It has more to offer than its modest profile suggests: colonial cities with crumbling grandeur, an island formed by two volcanoes, Pacific surf breaks, Caribbean reef diving, and cloud forest coffee country. Compared to its neighbors, it remains considerably cheaper and less visited — which is part of its appeal.

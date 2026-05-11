@@ -1,22 +1,19 @@
 ---
-title: "Taquili island"
+title: "Taquile Island"
 type: poi
-type: "Hotspots"
+snippet: "Quechua island famous for its textile traditions"
+tags:
+- things_to_do
+- landmark
+- story
+latitude: -15.7667
+longitude: -69.6833
 ---
 
-Taquili island is gorgeous. It is a hilly island in the lake, where a special social culture has developed. Each person has clothes according to their social status. Leaders have black hats, for example. There is a difference between single men, dating men and married men. This applies also for women.
+Taquile is a small, steep-sided island in Lake Titicaca where Quechua-speaking islanders maintain a social order unlike anywhere else in Peru. Clothing signals everything: married men wear red-and-white knitted caps, single men wear white ones with floppy tips, and the quality of a man's knitting is genuinely assessed by prospective in-laws. UNESCO recognized Taquile's textile art as an Intangible Cultural Heritage in 2005.
 
-Contrary to many traditional societies, a couple must live together for one year, to see if it works out, before getting married. Weddings are held anually in a great celebration (a full week) for all the couples. Many sheep are slaughtered for the occasion.
+Couples live together for a trial year before marrying, and weddings happen collectively in an annual week-long celebration. Community leaders serve only one-year terms to prevent corruption -- a system the islanders have maintained despite pressure from national law.
 
-To avoid corruption, leaders are elected for only one year. This is different from Peru's laws, but the locals insisted on keeping their ways.
+The walk up from the harbour to the main plaza takes about 30 minutes along a stone path with widening views of the lake. The plaza has a small cooperative shop selling the island's famous textiles directly from the weavers. A few family-run restaurants serve simple trout and quinoa lunches.
 
-In addition to viewing the locals, it is nice walking around the main square, visiting a gallery and wandering around the island. A nice place for photos is at the arch on the way to the harbor.
-
-The island can be reached on a one day tour (usually includes also the Uros islands), a longer tour, or independently.
-
-**Contributors**
-July 22, 2006
-
-February 15, 2008
-
-type: Hotspots
+Most visitors come on a day trip from Puno that also stops at the Uros floating islands, but staying overnight in a family homestay is worth it for the sunset and the silence.

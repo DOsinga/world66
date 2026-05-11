@@ -1,16 +1,17 @@
 ---
 title: "Koh Talu Island Beaches"
 type: poi
-address: "Koh Talu Island Thailand"
-email: "Sunrise Coast"
-url: "www.r24.org"
+latitude: 11.7667
+longitude: 99.9500
+tags:
+  - things_to_do
+  - beach
+snippet: Quiet Gulf island near Bang Saphan, good for snorkelling and seafood
 ---
 
-Koh Talu is a small and natural island in Thailand off the coast near [Bang Saphan](/asia/thailand/bang_saphan) and Ban Krut on the Thai Sunrise Coast of the Gulf of Thailand. No nightlife or shopping, this a a quiet and natural island for lazing on the beach, snorkeling, beach games, kayak and great Thai seafood. [Koh Talu](/asia/thailand/koh_talu_island/koh_talu) Island is an ideal island if beach hopping or island hopping down the coast between [Bangkok](/asia/thailand/bangkok) or [Hua Hin](/asia/thailand/huahin) and the Gulf of Thailand island of Koh Tao, [Koh pha-ngan](/asia/thailand/kohphangan) and [Koh Samui](/asia/thailand/kohsamui). Excellent for a get-away-from-it-all small Thai island.
+Koh Talu is a small island in the Gulf of Thailand, off the coast near Bang Saphan and Ban Krut on the Sunrise Coast. There's no nightlife and no shopping — this is a place for lazing on the beach, snorkelling, kayaking and eating Thai seafood.
 
-
-
-
+It sits conveniently on the route between Bangkok or Hua Hin and the southern Gulf islands of Koh Tao, Koh Pha-ngan and Koh Samui, making it a good stop for island-hoppers who want something quieter.
 
 url: [www.r24.org](http://www.r24.org/nongasia.com/huahin/taluisland/pictures.html)
 

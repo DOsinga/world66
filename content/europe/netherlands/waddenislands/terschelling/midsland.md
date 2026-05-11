@@ -6,6 +6,7 @@ longitude: 5.285649
 title: Midsland
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Midsland is the main village on [Terschelling](/europe/netherlands/waddenislands/terschelling), sitting roughly in the centre of the island. It is where most visitors end up — the village has the island's best concentration of restaurants, cafes, and shops, and several campsites are within cycling distance.

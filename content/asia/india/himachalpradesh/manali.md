@@ -6,6 +6,7 @@ longitude: 77.1873
 title: Manali
 type: location
 score: 0.64
+loc_type: city
 ---
 
 Manali sits at 2,050 metres in the Kullu Valley of Himachal Pradesh, where the Beas River cuts through pine and deodar forests backed by snow-capped peaks. It is one of the most popular hill stations in northern India — a gateway to the high Himalayas that draws trekkers, honeymooners, and backpackers in roughly equal measure.

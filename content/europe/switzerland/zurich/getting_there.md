@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Zurich is located in the very heart of Europe and is easily accessible by all modes of transport. The international Zurich-Kloten Airport is situated just 11 km (7 miles) from the city center and can be reached by train in 10 minutes. As a key transportation hub it is served by over 150 air-lines from all over the world. The main railway station (++41-1-215 40 00) enjoys a central location in the city. There are hourly connections not only to the other large Swiss towns but also to all major cities in Europe.
+Zurich Airport (Kloten) is Switzerland's main international hub, 11 km north of the city centre. Trains run every 10–15 minutes to the main station (Hauptbahnhof / HB) and take about 10 minutes; tickets from the machines on the platform. The same station is Switzerland's biggest rail hub, with hourly connections to the rest of the country and direct international trains to Munich, Milan, Paris, Vienna, and Frankfurt. Long-distance buses (Flixbus and others) serve the Sihlquai bus station, a short walk from the main station.

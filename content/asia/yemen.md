@@ -10,7 +10,13 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:
   Gagnon</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "34 million"
+  Ancient Name: Arabia Felix ("Happy Arabia")
+  Socotra Island: "A third of its plants exist nowhere else"
+  Tower Houses of Shibam: "Up to 11 stories, built in the 16th century"
 score: 0.16
+loc_type: country
 ---
 
 **Travel warning:** Yemen has been in active civil war since 2014. Virtually every government in the world advises against all travel to the country. The conflict between Houthi forces (controlling much of the north, including Sana'a) and the internationally recognized government (based in Aden) has killed hundreds of thousands of people and created one of the world's worst humanitarian crises. Landmines, air strikes, armed checkpoints, and kidnapping remain serious risks. Do not travel to Yemen without an exceptional reason and professional security support.

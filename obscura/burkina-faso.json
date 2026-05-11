@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/places/cour-royale-de-tiebele",
+    "type": "Place",
+    "item-id": "23093",
+    "gtm-content-type": "Place",
+    "lat": "11.09762",
+    "lng": "-0.953911",
+    "city": "Nahouri",
+    "state": "Centre-Sud",
+    "country": "Burkina Faso",
+    "src": "https://img.atlasobscura.com/C8SWSpxeSYOgRc8eKdg-dvw2eP7pLdi_jf0bXy-54eI/rs:fill:600:400:1/g:ce/c:3150:2100:nowe:57:34/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNmRi/YzVhMzY4NjRhNmE1/NWJfcGg2LmpwZw.jpg",
+    "width": "3264",
+    "height": "2167",
+    "name": "Cour Royale de Ti\u00e9b\u00e9l\u00e9",
+    "description": "In this African village, the walls of the chief&#39;s compound are painted with beautiful traditional designs."
+  },
+  {
+    "url": "/places/ruins-of-loropeni",
+    "type": "Place",
+    "item-id": "27024",
+    "gtm-content-type": "Place",
+    "lat": "10.249997",
+    "lng": "-3.583345",
+    "city": "Poni",
+    "state": "Sud-Ouest Region",
+    "country": "Burkina Faso",
+    "src": "https://img.atlasobscura.com/wjGPZ1T2nQ_GO0ciR3v20JQU-yLe88L3PnNGdDsMJmU/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMGIw/NzZhZC00ZDU5LTRk/M2ItYWYyYS0wNzAw/MDYwZWVlMzhlYmIw/MWMzZGJkZTVjMzBk/NTBfcnVpbnMuanBn.jpg",
+    "width": "3591",
+    "height": "2394",
+    "name": "Ruins of Lorop\u00e9ni",
+    "description": "These mysterious 1,000-year-old walls have revealed little about their past."
+  }
+]

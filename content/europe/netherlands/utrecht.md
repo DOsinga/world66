@@ -1,9 +1,18 @@
 ---
-title: Utrecht
-type: location
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
+image: utrecht.jpg
+image_attribution: Pedro Nuno Caetano on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/12962905@N05/49438549761
 latitude: 52.090701
 longitude: 5.121563
 score: 0.65
+title: Utrecht
+type: location
+loc_type: city
 ---
 
 Forget about The Hague, forget about Rotterdam, it's Utrecht you are heading for after visiting Amsterdam.

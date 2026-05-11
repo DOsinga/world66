@@ -6,6 +6,7 @@ longitude: 36.355377
 title: Lake Naivasha
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Lake Naivasha is one of Kenya's few freshwater lakes, sitting at about 1,880 metres in the Rift Valley northwest of Nairobi. The lake and its shores support a rich concentration of wildlife — hippos are common in the shallows, and the birdlife is exceptional, with over 400 species recorded in the area.

@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
-type: "Italian"
 ---
 
 eating out

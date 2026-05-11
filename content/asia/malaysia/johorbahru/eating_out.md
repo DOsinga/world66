@@ -1,13 +1,12 @@
 ---
-title: "Eating Out in Johor Bahru"
-type: section
-address: "27 Jalan Utama 43, Taman Mutiara Rini, Skudai, 81300 Johor Bahru, Johor"
-email: "huizuhotwok@post.com"
-phone: "+6012 9027178"
-type: "Chinese"
-url: "www.restoranchinahalal.com"
+address: 27 Jalan Utama 43, Taman Mutiara Rini, Skudai, 81300 Johor Bahru, Johor
+email: huizuhotwok@post.com
 latitude: 1.519442
 longitude: 103.637336
+phone: +6012 9027178
+title: Eating Out in Johor Bahru
+type: poi
+url: www.restoranchinahalal.com
 ---
 
 Johor Bahru, Malaysia is the second largest city in Malaysia, behind

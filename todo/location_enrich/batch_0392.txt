@@ -1,0 +1,5 @@
+northamerica/unitedstates/newyorkstate/catskill
+australiaandpacific/australia/victoria/bendigo
+europe/spain/catalonia/mataro
+northamerica/unitedstates/arizona/miami
+asia/iran/kashan

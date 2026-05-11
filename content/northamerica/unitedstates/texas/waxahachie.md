@@ -6,6 +6,7 @@ longitude: -96.843936
 title: Waxahachie
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Waxahachie is a small Texas town about 45 minutes south of Dallas, best known for its remarkably well-preserved collection of Victorian and Edwardian buildings. The name comes from a Native American word meaning "cow creek." The town grew rich on cotton in the late nineteenth century, and the wealth shows in the architecture — particularly the ornate Ellis County Courthouse (1897), one of the finest Romanesque Revival buildings in the state.

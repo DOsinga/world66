@@ -1,4 +1,9 @@
 ---
+quick_facts:
+  Population: "~5,000"
+  Access: "Fly via Antigua — no direct international flights"
+  Capital Plymouth: Buried by volcano in 1997
+  Irish Heritage: St. Patrick's Day is a public holiday
 done:
   country_cleanup: 2026-03-29
   location_cleanup: '2026-04-08'
@@ -11,6 +16,7 @@ longitude: -62.1874
 title: Montserrat
 type: location
 score: 0.54
+loc_type: country
 ---
 
 Montserrat is a small British Overseas Territory in the Lesser Antilles, roughly 40 kilometres southwest of Antigua. It is one of the most unusual islands in the Caribbean — not because of beaches or resorts, but because of a volcano that changed everything.

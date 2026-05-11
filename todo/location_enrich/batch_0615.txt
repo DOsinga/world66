@@ -1,0 +1,5 @@
+asia/srilanka/anuradapura
+southamerica/venezuela/cumana
+europe/germany/bavaria/mittenwald
+europe/france/centre/loirevalley/saumur
+southamerica/venezuela/coche_island

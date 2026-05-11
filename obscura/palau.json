@@ -1,0 +1,32 @@
+[
+  {
+    "url": "/places/jellyfish-lake",
+    "type": "Place",
+    "item-id": "295",
+    "gtm-content-type": "Place",
+    "lat": "7.161111",
+    "lng": "134.376111",
+    "city": "Koror",
+    "country": "Palau",
+    "src": "https://img.atlasobscura.com/WEt6Sei2ZUQWt3H4QlI23orRs-vy730q3bmaqe5Z5do/rs:fill:600:400:1/g:ce/c:1279:853:nowe:0:107/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84YWFi/OTI5YWM3ZDBlYjdj/ZmZfMjIzMzUxOTM5/OV9lYjMwMWQ4ZjI3/X28uanBn.jpg",
+    "width": "1280",
+    "height": "960",
+    "name": "Jellyfish Lake",
+    "description": "An isolated dive site teeming with cnidarians."
+  },
+  {
+    "url": "/places/badrulchau-stone-monoliths",
+    "type": "Place",
+    "item-id": "37038",
+    "gtm-content-type": "Place",
+    "lat": "7.709048",
+    "lng": "134.630879",
+    "state": "Ngarchelong",
+    "country": "Palau",
+    "src": "https://img.atlasobscura.com/g0sZxng1h195cEZqw_kqaINQeM5eFBwoi1bv3IKveUg/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zNjMy/NGJkYy04MGMyLTRk/YjUtYjlhZS03MTQ4/YWI2NWJjNGNkMjc5/ZmE2Yjc0MjhkMDhj/MzdfMTE3MjMyNjIw/OTVfYjQzYzQ0YjEy/OF9vLmpwZw.jpg",
+    "width": "2592",
+    "height": "1728",
+    "name": "Badrulchau Stone Monoliths",
+    "description": "These ancient monoliths make up one of the largest archaeological sites in Palau."
+  }
+]

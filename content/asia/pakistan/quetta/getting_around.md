@@ -1,19 +1,8 @@
 ---
-title: "Getting Around in Quetta"
+title: "Getting Around"
 type: section
 ---
 
-. . .
+The city centre is small enough to cover on foot. Jinnah Road is the main thoroughfare and runs past the Tourist Information office, the bazaars and most of the British-era cantonment buildings; the Archaeological Museum and the bigger hotels are all within walking distance. For longer trips around town the standard option is the auto-rickshaw — cheap, ubiquitous, and increasingly being replaced by cleaner CNG four-strokes. Negotiate the fare before you get in.
 
-### [Walking](/asia/pakistan/quetta/getting_around/walking)
-
-The city center is small enough that a traveler can reach most places by foot. It is a place of ancient monuments, wide tree-lined boulevards and sterling British architecture. Even more compelling, Quetta has a dramatic setting, with a mountainous backdrop on all sides. Most sights can be easily seen in a day: the impressive Archaeological Museum of Baluchistan, the fort or the city’s many colorful bazaars—great places to pick marble, onyx, and some of the finest carpets in Pakistan.
-The main thoroughfare and the commercial centre of Quetta is Jinnah Road, where the Tourist [more..](/asia/pakistan/quetta/getting_around/walking)
-
-
-
-### [Transportation](/asia/pakistan/quetta/getting_around/transportation)
-
-Auto-rickshaws give Quetta polluted air, and are the most popular and the cheapest way to get around the city but they are rapidly being replaced by more environmentally friendly 4-stroke CNG rickshaws.
-
-From the airport - When you arrive at the airport you will likely be besieged with touts offering you taxis and rooms. It's wise not to book anything through them and arrange a taxi yourself to the hotel of your choice. Some of the mid-range and most top-end hotels offer a courtesy shuttle from the airport.
+For day trips to Hanna Lake, Hazarganji-Chiltan, Urak and Pishin, hire a taxi for the half-day; most hotels can arrange one. From the airport, ignore the touts and arrange a hotel pickup or a metered taxi at the desk. If you are a foreign traveller you will likely have a police escort assigned to you on arrival, who will accompany you on any movement around the city or out of it.

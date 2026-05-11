@@ -1,11 +1,14 @@
 ---
-title: Melaka
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-04
+  poi_cleanup: '2026-04-20'
 latitude: 2.329374
 longitude: 102.288096
-done:
-  location_cleanup: 2026-04-04
 score: 0.65
+title: Melaka
+type: location
+loc_type: region
 ---
 
 Travel Guide

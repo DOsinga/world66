@@ -9,7 +9,13 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Dudva" title="User:Dudva">Dudva</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "2.8 million"
+  Currency: Euro (€)
+  Hill of Crosses: "Over 250,000 crosses and counting"
+  Medieval Grand Duchy: "Once stretched from the Baltic to the Black Sea"
 score: 0.51
+loc_type: country
 ---
 
 Lithuania is the southernmost of the three Baltic states, sandwiched between Latvia to the north, Belarus to the east, Poland to the south, and the Russian exclave of Kaliningrad to the southwest. It's a small country — about the size of Ireland — but one with outsized history and a genuinely distinct character.

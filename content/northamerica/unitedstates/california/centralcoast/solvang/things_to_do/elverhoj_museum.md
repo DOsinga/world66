@@ -1,9 +1,0 @@
----
-title: "Elverhøj Museum"
-type: poi
-category: "Museum"
-latitude: 34.5957
-longitude: -120.1387
----
-
-A small museum dedicated to Solvang's Danish-American heritage, housed in a handsome hand-crafted building modelled on an 18th-century Danish farmhouse. The exhibits cover the town's founding by Danish immigrants in 1911 and include folk art, textiles, and rotating exhibitions. 1624 Elverhoy Way.

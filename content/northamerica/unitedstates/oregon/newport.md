@@ -10,6 +10,7 @@ longitude: -124.0535
 score: 0.5
 title: Newport
 type: location
+loc_type: city
 ---
 
 Newport is the working heart of the central Oregon coast — a town that manages to be both a fishing port and a popular beach destination without feeling like it is trying too hard at either. The Bayfront district along Yaquina Bay is the best part: a row of seafood restaurants, chowder houses, and galleries built on the docks where fishing boats and sea lions compete for space.

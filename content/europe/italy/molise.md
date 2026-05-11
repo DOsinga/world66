@@ -6,6 +6,7 @@ longitude: 14.5956
 done:
   location_cleanup: 2026-04-07
 score: 0.44
+loc_type: region
 ---
 
 Molise is Italy's second-smallest and least-visited region — a joke in Italy runs that Molise doesn't exist. It does, and the obscurity is its main attraction: a narrow strip of Apennine hills and river valleys between Campania and the Adriatic, historically a Samnite stronghold, now one of the least touristed corners of the peninsula.

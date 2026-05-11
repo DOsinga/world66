@@ -1,11 +1,14 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-05'
+  poi_cleanup: '2026-04-19'
 latitude: 19.8069
 longitude: 105.7852
+score: 0.4
 title: Thanh Hoa
 type: location
-score: 0.4
+loc_type: city
 ---
 
 Thanh Hoa is a large province in north-central Vietnam, bordering Laos to the west and the South China Sea to the east. It sits between the Red River Delta and the Central Highlands, a transitional zone of mountains, river valleys, and coastal lowland. The province is home to around 3.5 million people from nine ethnic groups, including Kinh, Thai, Muong, and H'mong communities concentrated in the highland districts.

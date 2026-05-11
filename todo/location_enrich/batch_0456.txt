@@ -1,0 +1,5 @@
+northamerica/unitedstates/texas/round_rock
+northamerica/canada/ontario/aylmer
+asia/philippines/cebu/bantayan
+asia/vietnam/nhatrang
+northamerica/unitedstates/florida/lakeland

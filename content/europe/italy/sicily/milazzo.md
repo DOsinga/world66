@@ -6,6 +6,7 @@ longitude: 15.2415
 title: Milazzo
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Milazzo occupies a narrow peninsula jutting into the Tyrrhenian Sea on Sicily's northern coast. Most travellers pass through on their way to the [Aeolian Islands](/australiaandpacific/marshallislands) — the hydrofoil terminal here is the main departure point — but the town itself deserves a stop.

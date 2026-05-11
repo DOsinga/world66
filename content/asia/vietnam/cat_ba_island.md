@@ -6,6 +6,7 @@ longitude: 107.0544
 done:
   location_cleanup: 2026-04-07
 score: 0.66
+loc_type: city
 ---
 
 Cat Ba is the largest island in [Halong Bay](/asia/vietnam/halong_bay), and it gives you something the bay's famous overnight cruises rarely offer: a place to actually stay and explore on your own terms. Most travelers pass through on a tour, but those who linger discover limestone karsts from the water, dense jungle inland, and a small, unpretentious fishing town that has learned to accommodate visitors without entirely losing itself.

@@ -1,7 +1,6 @@
 ---
-title: "Practical Information"
-type: section
-type: "Embassies and Consulates"
+title: Practical Information
+type: poi
 ---
 
 marina club

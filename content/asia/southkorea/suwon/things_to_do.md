@@ -1,11 +1,10 @@
 ---
-title: "Things to do"
-type: section
-address: "Yeonmudae"
-phone: "(031) 228-2763"
-type: "Other"
+address: Yeonmudae
 latitude: 36.124287
 longitude: 127.087901
+phone: (031) 228-2763
+title: Things to do
+type: poi
 ---
 
 ### [Korean Archery](/asia/southkorea/suwon/thingstodo/korean_archery)

@@ -6,6 +6,7 @@ longitude: 8.66266
 title: Telemark
 type: location
 score: 0.54
+loc_type: region
 ---
 
 Telemark is a large inland county in southern Norway, best known abroad for two things: the canal that once linked its mountain valleys to the sea, and the skiing technique that carries its name. Both are worth your time.

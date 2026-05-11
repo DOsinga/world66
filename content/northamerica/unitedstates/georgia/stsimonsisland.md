@@ -6,6 +6,7 @@ longitude: -81.361208
 done:
   location_cleanup: 2026-04-07
 score: 0.51
+loc_type: city
 ---
 
 St. Simons Island is one of [Georgia](/northamerica/unitedstates/georgia)'s Golden Isles, accessible from Brunswick by causeway. It's a quieter and more residential alternative to beach resorts further down the coast, with a pleasant village center, good seafood restaurants, and beaches that don't get overwhelmingly crowded.

@@ -6,6 +6,7 @@ longitude: -75.210095
 title: Huancayo
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Huancayo is the main city of the Mantaro Valley in Peru's central highlands, sitting at about 3,270 metres. It is a busy commercial centre and market town — people from villages across the valley bring their handicrafts, produce, and livestock here to trade.

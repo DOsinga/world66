@@ -1,0 +1,5 @@
+southamerica/ecuador/tena
+northamerica/unitedstates/kentucky/hopkinsville
+asia/turkey/fethiye
+northamerica/unitedstates/utah/brigham_city
+europe/belgium/roeselare

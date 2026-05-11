@@ -1,0 +1,5 @@
+northamerica/unitedstates/michigan/detroit
+europe/croatia/kraljevica
+europe/sweden/ystad
+europe/croatia/dalmatia/makarska
+northamerica/canada/ontario/kenora

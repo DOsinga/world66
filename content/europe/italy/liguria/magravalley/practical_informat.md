@@ -1,8 +1,7 @@
 ---
-title: "Practical Information in Magra valley"
-type: section
-type: "Tourist information"
-url: "www.regione.liguria.it"
+title: Practical Information in Magra valley
+type: poi
+url: www.regione.liguria.it
 ---
 
 Take the roads to the small hamlets of the Magra Valley and enjoy the views of the Mediterranean Sea or visit Roman ruins at Luni or Bocca di Magra.

@@ -1,8 +1,13 @@
 ---
-title: "Horseback riding"
+done:
+  poi_cleanup: '2026-04-20'
+snippet: Beach and forest trail rides across the country
+tags:
+- things_to_do
+title: Horseback riding
 type: poi
 ---
 
-Horseback riding in Costa Rica can take you along beaches, at the edge of country roads, through pastures and along forest trails. Riding is great fun - once you get used to the different saddle, stirrups and neck-rein steering-. 
+Horseback riding in Costa Rica takes you along beaches, down country roads, through pastures, and along forest trails. The Nicoya Peninsula and Arenal areas are popular starting points, but rides are available practically everywhere. Costa Rican saddles and neck-rein steering differ from what most North Americans and Europeans are used to, so give yourself a few minutes to adjust.
 
- Although not strictly necessary, a little equestrian experience will stand you in good stead since ranch horses are usually rounded up for trail duty. Lessons on how to control your mount and special assistance should be requested (if it is not offered) before setting out on any trail ride.
+Some equestrian experience helps, since ranch horses are not always the gentlest mounts. Ask for a lesson or orientation before setting out — any reputable operator will offer one. Most rides last two to four hours and often include river crossings and stops at waterfalls or viewpoints.

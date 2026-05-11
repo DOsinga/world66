@@ -6,6 +6,7 @@ longitude: 20.481996
 title: Ammoudia
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Ammoudia is a small village on the Ionian coast of northwestern [Greece](/europe/greece), at the mouth of the Acheron River — the river that in Greek mythology led to the underworld. A boat trip up the Acheron passes through a gorge of striking natural beauty, with rare plant and bird species protected under the Natura 2000 programme.

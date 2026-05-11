@@ -1,0 +1,5 @@
+northamerica/unitedstates/washington/cathlamet
+asia/vietnam/ba_be
+northamerica/unitedstates/wisconsin/pepin
+northamerica/unitedstates/california/centralcoast/santaynez
+europe/finland/turku

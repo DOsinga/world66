@@ -6,6 +6,7 @@ longitude: 4.360069
 title: Nîmes
 type: location
 score: 0.66
+loc_type: city
 ---
 
 Nimes has some of the best-preserved Roman monuments anywhere. The Arena, still used for Provencal-style bullfights, rivals the Colosseum in its state of preservation. The Maison Carree is an almost perfectly intact Roman temple. The Tour Magne crowns the hill above town with panoramic views.

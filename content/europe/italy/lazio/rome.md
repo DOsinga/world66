@@ -1,11 +1,18 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
+  poi_cleanup: '2026-04-21'
+image: rome.jpg
+image_attribution: Diliff
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg
 latitude: 41.9028
 longitude: 12.4964
+score: 0.92
 title: Rome
 type: location
-score: 0.92
+loc_type: city
 ---
 
 The Eternal City needs no introduction, yet it still manages to surprise. Rome layers nearly three thousand years of history into a living, breathing capital where ancient ruins sit beside buzzing trattorias and Renaissance churches share streets with vintage clothing shops. It is chaotic, beautiful, maddening, and utterly addictive.

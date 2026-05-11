@@ -7,9 +7,15 @@ image: gambia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tourist_Craft_Store,_Banjul,_Gambia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 'Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wikivoyage'
+quick_facts:
+  Population: "2.7 million"
+  Language: "English (rare in West Africa)"
+  Bird Species: "540+"
+  Width at Widest: "48 km"
 done:
   country_cleanup: 2026-03-30
 score: 0.47
+loc_type: country
 ---
 
 The Gambia is Africa's smallest mainland country, a slender ribbon of land following the Gambia River for 450 kilometres inland from the Atlantic coast, entirely surrounded by [Senegal](/africa/senegal). It is known as the Smiling Coast, and the nickname is earned -- Gambians are genuinely, disarmingly friendly.

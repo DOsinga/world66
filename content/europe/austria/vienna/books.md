@@ -1,8 +1,8 @@
 ---
-title: "Books in Vienna"
+author: Stephen Brook
+isbn: '789495759'
+title: Books in Vienna
 type: section
-author: "Stephen Brook"
-isbn: "789495759"
 ---
 
 There are many Vienna travel books to spark your traveling interests

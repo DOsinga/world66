@@ -1,0 +1,5 @@
+europe/latvia/riga
+africa/capeverde/boavista
+europe/sweden/helsingborg
+northamerica/canada/saskatchewan/prince_albert
+europe/ireland/kildare

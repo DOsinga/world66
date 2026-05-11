@@ -6,6 +6,7 @@ longitude: 16.333056
 title: Cosenza
 type: location
 score: 0.48
+loc_type: city
 ---
 
 Cosenza sits at the confluence of the Busento and Crati rivers, the largest city in northern Calabria and capital of its province. It was the chief city of the ancient Brutii before the Romans took it in 204 BC.

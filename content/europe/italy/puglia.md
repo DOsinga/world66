@@ -6,6 +6,7 @@ longitude: 16.621003
 done:
   location_cleanup: 2026-04-06
 score: 0.76
+loc_type: region
 ---
 
 Puglia is the heel of the boot. Not many tourists make it this far, and those who do often come just to take a ferry to [Greece](/europe/greece). That is a shame, because Puglia has things that are hard to find elsewhere in Italy.

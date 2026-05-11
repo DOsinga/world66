@@ -1,13 +1,12 @@
 ---
-title: "Things to do"
-type: section
-address: "menubar@interisland.net"
-email: "Monday through Friday 9 to 6 PM Saturday 10 to 5 PM"
-opening_hours: "$6 per hour $4 half hour $2 min"
-phone: "(360)378-8488"
-price: "Like the menu bar on your computer, the Menu Bar Cafe &"
-type: "Internet Cafe"
-url: "www.interisland.net"
+address: menubar@interisland.net
+email: Monday through Friday 9 to 6 PM Saturday 10 to 5 PM
+opening_hours: $6 per hour $4 half hour $2 min
+phone: (360)378-8488
+price: Like the menu bar on your computer, the Menu Bar Cafe &
+title: Things to do
+type: poi
+url: www.interisland.net
 ---
 
 There are many things to do in Washington.

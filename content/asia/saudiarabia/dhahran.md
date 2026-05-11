@@ -6,6 +6,7 @@ longitude: 50.120215
 title: Dhahran
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Dhahran is the headquarters of Saudi Aramco and essentially a company town — most residents are employees or their families, with some contract workers alongside. It is a fenced, access-controlled compound, self-contained in the way a military base is, and visually it looks surprisingly like parts of [Arizona](/northamerica/unitedstates/arizona): low buildings, desert landscaping, wide roads.

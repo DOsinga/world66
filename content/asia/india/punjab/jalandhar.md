@@ -6,6 +6,7 @@ longitude: 75.5679
 done:
   location_cleanup: 2026-04-06
 score: 0.34
+loc_type: city
 ---
 
 Jalandhar is one of the oldest cities in Punjab, named — depending on who you ask — either after a mythological demon king who lived in water, or simply for its location between two rivers (jal meaning water). It served as the capital of Punjab until 1953, when Chandigarh took over, and today has an urban population of about a million.

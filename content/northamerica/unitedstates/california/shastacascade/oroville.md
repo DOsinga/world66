@@ -6,6 +6,7 @@ longitude: -121.556359
 done:
   location_cleanup: 2026-04-10
 score: 0.32
+loc_type: city
 ---
 
 Oroville is a small city in Butte County, Northern California, best known to most Americans for the near-failure of **Lake Oroville Dam** in 2017 — the tallest dam in the United States, whose damaged spillway caused the evacuation of nearly 200,000 people downstream. The repairs were completed, and the dam and reservoir are now open for recreation.

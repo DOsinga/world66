@@ -6,6 +6,7 @@ longitude: -0.363561
 title: Caen
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Caen is far more than a ferry port. William the Conqueror made it his capital, and the two great abbeys he and his wife Matilda founded — the Abbaye aux Hommes and the Abbaye aux Dames — still anchor the city. Both survived the devastating bombardment of June 1944, when much of medieval Caen was destroyed in the Battle of Normandy.

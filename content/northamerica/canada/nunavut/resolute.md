@@ -6,6 +6,7 @@ longitude: -94.840851
 title: Resolute
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Resolute is one of the most northerly communities in Canada, a tiny Inuit hamlet of roughly 200 people on the south coast of Cornwallis Island. At nearly 75 degrees north, it sits in the heart of the High Arctic, where winter darkness lasts months and summer brings 24-hour daylight.

@@ -1,12 +1,11 @@
 ---
-title: "Things to do"
-type: section
-address: "61 Wualai road Chiang Mai"
-phone: "66 53 201683"
-type: "Other"
-url: "thailandweddings.com"
+address: 61 Wualai road Chiang Mai
 latitude: 18.779292
 longitude: 98.987309
+phone: 66 53 201683
+title: Things to do
+type: section
+url: thailandweddings.com
 ---
 
 Elephants: The elephant camps and conservation centers in the north of Thailand are plentiful but also trekking on elephants is a popular activity, many do not know that the elephants suffer may from it.

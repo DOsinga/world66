@@ -6,6 +6,7 @@ longitude: 147.4381
 score: 0.51
 title: Richmond
 type: location
+loc_type: city
 ---
 
 Richmond is a small Georgian village in the Coal River Valley, about 25 kilometres northeast of [Hobart](/australiaandpacific/australia/tasmania/hobart). It is one of the best-preserved colonial settlements in Australia, and its main street of sandstone buildings looks much as it did in the 1830s.

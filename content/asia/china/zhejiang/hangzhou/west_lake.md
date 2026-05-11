@@ -1,0 +1,15 @@
+---
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 30.245984
+longitude: 120.143132
+snippet: Hangzhou's iconic lake with causeways and islands
+tags:
+- things_to_do
+- nature
+- park
+title: West Lake (Xihu)
+type: poi
+---
+
+Hangzhou's defining landmark. The lake is crossed by two ancient causeways — the Baidi and the Sudi — where willows trail into the water and locals stroll at any hour. Take a boat out to the island of Santan Yinyue (Three Pools Reflecting the Moon), especially atmospheric on autumn evenings. Larger boats depart from Hubin Lu; smaller rowing boats are available for hire all along the shore.

@@ -3,6 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-There are busses from all major Colombian cities going to Cali. It is about 10-15 hours by bus to and from Bogota, 10-12 hours from Medellin, 3 hours from Popayan and about 9 hours from San Augustin.
-
-  The airport Palmaseca is located 20 km from the city and you can fly conveniently from Bogota or Cartegena to Cali. There is a minibus every ten minutes going into town.
+Alfonso Bonilla Aragón International Airport (CLO), known locally as Palmaseca, sits about 20 km north-east of the city and handles flights from Bogotá, Medellín, Cartagena and a growing list of US and Latin American destinations. Frequent shared minibuses and taxis run into town. By road, Cali is roughly 10 hours from Bogotá, 10 to 12 from Medellín, 3 from Popayán and 9 from San Agustín; the long-distance bus terminal is north of the centre and well-organised.

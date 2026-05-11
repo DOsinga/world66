@@ -1,0 +1,5 @@
+europe/spain/spanishcostas/playasanjuan
+northamerica/unitedstates/alaska/anchorage
+asia/pakistan/azad_kashmir/rawalacoat/khaigala
+asia/india/karnataka/bijapur
+africa/mozambique/beira

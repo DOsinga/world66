@@ -6,6 +6,7 @@ longitude: -4.2257
 done:
   location_cleanup: 2026-04-07
 score: 0.63
+loc_type: city
 ---
 
 Inverness is the largest city in the Scottish Highlands and the effective capital of the region, located about 160 miles north of Edinburgh on the Ness River where it meets the Moray Firth. As a city, it doesn't have an overwhelming list of sights — the red sandstone castle is used as a courthouse and mostly viewable from outside, and Macbeth's original castle is long gone — but it makes an excellent base for exploring the surrounding countryside.

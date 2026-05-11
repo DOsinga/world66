@@ -1,0 +1,5 @@
+europe/germany/bavaria/oberammergau
+northamerica/unitedstates/alaska/barrow
+europe/greece/mani/stoupa
+europe/russia/kazan
+asia/pakistan/khan_pur

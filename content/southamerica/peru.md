@@ -1,15 +1,22 @@
 ---
-title: Peru
-type: location
-latitude: -6.86997
-longitude: -75.045851
-image: peru.jpg
-image_source: https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg
-image_license: CC BY 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/91008793@N00">bobistraveling</a>
 done:
   country_cleanup: 2026-03-29
+  poi_cleanup: '2026-04-20'
+image: peru.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/91008793@N00">bobistraveling</a>
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg
+latitude: -6.86997
+longitude: -75.045851
+quick_facts:
+  Population: "34 million"
+  Altitude Warning: "Cusco is at 3,400 m — acclimatize"
+  Potato Varieties: "3,000+ native cultivars"
+  Nazca Lines: visible only from the air
 score: 0.49
+title: Peru
+type: location
+loc_type: country
 ---
 
 **The Land of the Incas**

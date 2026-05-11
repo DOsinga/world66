@@ -1,10 +1,9 @@
 ---
-title: "Sights in Liberia"
-type: section
-email: "info@guachipelin.com"
-phone: "(506) 2256 8195 / (506) 2256 3600"
-type: "Hotspots"
-url: "www.guachipelin.com"
+email: info@guachipelin.com
+phone: (506) 2256 8195 / (506) 2256 3600
+title: Sights in Liberia
+type: poi
+url: www.guachipelin.com
 ---
 
 Things to do and places to see in Liberia and surrounding areas

@@ -3,14 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Durban is a real melting pot of influences: the African, European and Asian cuisines are all represented in the city. You can especially enjoy the Indian food, as Durban houses a large Indian population. All time favourites like curry’s, and vindaloos, but also many more subtle and surprising dishes. Or you can have a non-fattening snack at one of Durban’s trendy places, where people come not only to eat, but also to see and be seen. In short, Durban has a restaurant for every taste. 
-
-## Categories
-
-[Vegetarian](/africa/southafrica/durban/eatingout?subsection=Vegetarian)
-[South African](/africa/southafrica/durban/eatingout?subsection=South%20African)
-
-[Trendy](/africa/southafrica/durban/eatingout?subsection=Trendy)
-[Italian](/africa/southafrica/durban/eatingout?subsection=Italian)
-
-[Indian](/africa/southafrica/durban/eatingout?subsection=Indian)
+Durban eats well, and cheaply. The city's signature is its Indian food — Durban-style curries are hotter and more deeply spiced than most South African cooking, and **bunny chow**, a hollowed-out loaf filled with curry, was invented here and is still sold from corner shops for the price of a coffee. Beyond the curry houses of Grey Street, **Florida Road** in Morningside is the main eating-out strip, with everything from sushi to South African steakhouses. The beachfront has cheaper, more touristy options, and seafood — especially prawns — is excellent everywhere.

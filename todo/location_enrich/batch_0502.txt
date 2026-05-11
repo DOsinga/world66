@@ -1,0 +1,5 @@
+northamerica/unitedstates/idaho/hagerman
+europe/france/centre/chartres
+europe/spain/galicia/ourense
+europe/spain/northernspain/vitoria
+europe/germany/lowersaxony/east_frisian_islands/baltrum

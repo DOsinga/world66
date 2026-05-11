@@ -6,6 +6,7 @@ longitude: -116.2009
 title: Boise
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Idaho's capital sits where the high desert meets the foothills of the Rocky Mountains, a mid-sized western city that punches above its weight in livability and outdoor access. The Boise River Greenbelt runs 25 miles through the heart of town, and you can be hiking in the Boise Foothills within minutes of downtown.

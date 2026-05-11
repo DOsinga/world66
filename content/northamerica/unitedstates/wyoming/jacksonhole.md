@@ -6,6 +6,7 @@ longitude: -110.7624
 title: Jackson Hole
 type: location
 score: 0.72
+loc_type: city
 ---
 
 Jackson Hole is a valley in northwestern Wyoming, flanked by the Teton Range to the west and the Gros Ventre Range to the east. The town of Jackson sits at its southern end and serves as the base for visitors to Grand Teton National Park and [Yellowstone](/northamerica/unitedstates/montana/yellowstone), both within easy driving distance.

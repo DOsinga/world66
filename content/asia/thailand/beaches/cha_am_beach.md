@@ -1,21 +1,13 @@
 ---
-title: "Cha Am Beach Thailand"
+title: "Cha Am Beach"
 type: poi
-address: "Cha Am Thailand"
-phone: "Cha Am"
-url: "www.beachsiam.com"
+snippet: "Relaxed Thai beach town, easy weekend escape from Bangkok"
 latitude: 12.799834
 longitude: 99.96621
 ---
 
-Cha Am Beach is 160 km / 100 miles south of Bangkok. [Cha Am](/asia/thailand/cha_am) beach is a quiet beach area close to Bangkok. The beach area offers modern hotels and resorts along the coast and beaches. Cha Am is a quiet town with a beach road that is very busy on weekends. Popular summer holiday destination. Many luxury Cha Am accommodation hotels and resorts are located south of the town directly on the beach. Cha Am allows the visitor to enjoy the beach and also visit historical sights and cultural sights in the Cha Am and [Hua Hin](/asia/thailand/huahin) area.
+Cha Am is a low-key beach town about 160 km south of Bangkok, popular with Thai families on weekend getaways. The beach stretches for several kilometers along a palm-lined road, with seafood vendors, deck chairs for rent, and a relaxed atmosphere that contrasts with the more developed Hua Hin just 25 km to the south.
 
+During the week, the beach is quiet and largely empty. On weekends and holidays it fills up with day-trippers from Bangkok. The town itself is small and walkable, with a handful of restaurants and a night market. Several larger resort hotels sit along the beach road south of town.
 
-
-
-
-tel: Cha Am
-
-url: [www.beachsiam.com](http://www.beachsiam.com/cha_am.html)
-
-address: Cha Am Thailand
+Cha Am works well as a base for exploring the area: the hilltop palace of Phra Nakhon Khiri in Phetchaburi is a short drive north, and Hua Hin's livelier restaurant and bar scene is close by to the south.

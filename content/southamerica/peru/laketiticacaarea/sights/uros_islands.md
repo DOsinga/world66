@@ -1,23 +1,16 @@
 ---
-title: "Uros islands"
-type: poi
-type: "Hotspots"
 latitude: -15.816344
 longitude: -69.971907
+snippet: Totora-reed floating islands inhabited since pre-Inca times
+tags:
+- things_to_do
+- sight
+title: Uros Islands
+type: poi
 ---
 
-The Uros islands, also known as the floating islands, are the major tourist attraction in Lake Titicaca. Nowadays, it has become very touristic. The locals jump at visitors when they land on one of the islands and try to sell them all kinds of souvenirs. They claim that they are original from the islands, but it can't really be guaranteed.
-Nonetheless, they look nice.
+The Uros Islands are a cluster of around 70 man-made floating islands in Lake Titicaca, about 30 minutes by boat from Puno. They are built from layers of totora reed that grows in the shallows; the bottom rots continuously, so islanders keep adding fresh layers on top. Stand on one and it shifts slightly underfoot.
 
-The islands are made from reed that grows in the lake. The bottom rots over time, so new layers are added regularly. The islands are sometimes divided when there is quarrel between families. The islands can be docked, or undocked in order to move to another place. Some islands contain watchtowers. Also the boats are made from the same material and look like huge gondolas.
+The islands are the descendants of a community that moved onto the lake centuries before the Inca expansion. The original Uros language is no longer spoken — islanders today speak Quechua. Families split individual islands when relations break down, and islands can be moved by paddling or towing.
 
-History tells that the Uros tribe fled from the enemies into the lake. This was their last retreat, and that's how they survived. The current islanders could be descendants of the Uros tribe, but none speaks the Uros language. They speak Quechua as their primary language.
-
-The islands can be visited by a quick tour from Puno, only half an hour by boat. Alternatively, they can be visited with a longer tour that covers other places as well.
-
-**Contributors**
-July 21, 2006
-
-February 15, 2008
-
-type: Hotspots
+It is heavily visited and very commercial — vendors will approach you immediately. That said, the construction of the islands and the boats (shaped from bundled reeds into gondola-like forms) is genuinely interesting. The longer tours that continue to Taquile Island give a better sense of the wider lake.

@@ -1,16 +1,23 @@
 ---
-title: Chile
-type: location
-latitude: -31.761336
-longitude: -71.31877
-image: chile.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg
-image_license: CC BY-SA 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/mtchm/">mtchm</a>
-  from -
 done:
   country_cleanup: 2026-03-29
+  poi_cleanup: '2026-04-20'
+image: chile.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/mtchm/">mtchm</a>
+  from -
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg
+latitude: -31.761336
+longitude: -71.31877
 score: 0.48
+title: Chile
+type: location
+quick_facts:
+  Population: "19.5 million"
+  Climate Span: "Atacama desert to Patagonian glaciers"
+  Length North to South: "4,300 km — but only 175 km wide on average"
+  Atacama Desert: Driest place on Earth — some spots with no recorded rain
+loc_type: country
 ---
 
 Chile has the honour of being the thinnest country in the world if you compare its length with its width. The country is so long that in the north you will find the dryest of deserts and in the south you are on the closest point to the South Pole.

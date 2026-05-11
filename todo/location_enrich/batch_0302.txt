@@ -1,0 +1,5 @@
+southamerica/brazil/guaruja
+europe/spain/canaryislands/tenerife/puertodelacruz
+africa/zimbabwe/greatzimbabwe
+africa/kenya/theriftvalley/naivasha
+europe/france/alpes/grenoble

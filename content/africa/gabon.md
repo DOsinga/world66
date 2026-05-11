@@ -10,7 +10,13 @@ latitude: -0.8037
 longitude: 11.6094
 title: Gabon
 type: location
+quick_facts:
+  Population: "2.4 million"
+  Language: "French"
+  Rainforest Cover: "88%"
+  National Parks: "13"
 score: 0.36
+loc_type: country
 ---
 
 Gabon is one of the most pristine and least-visited countries in Africa. Straddling the equator on Central Africa's Atlantic coast, nearly 90% of the country is covered in dense tropical rainforest, and almost 11% of its territory is protected in thirteen national parks. If you want to see forest elephants wandering on white-sand beaches, western lowland gorillas in jungle clearings, or leatherback turtles nesting by moonlight, this is where you come.

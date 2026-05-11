@@ -6,6 +6,7 @@ longitude: 148.25
 done:
   location_cleanup: 2026-04-08
 score: 0.63
+loc_type: region
 ---
 
 Tasmania's East Coast is a string of beaches and coastal ranges, with small seaside towns strung like beads along a spectacularly scenic highway. In summer it is the best beach destination in the state, and it has the mildest weather year-round. The wilderness areas here are smaller than on the West Coast, but there is excellent hiking, climbing, and cycling.

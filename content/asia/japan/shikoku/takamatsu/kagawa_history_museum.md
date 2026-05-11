@@ -1,0 +1,16 @@
+---
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 34.3571
+longitude: 134.0513
+snippet: Prefecture history from Jomon to Edo beside Tamamo-koen
+tags:
+- things_to_do
+- museum
+title: Kagawa History Museum
+type: poi
+---
+
+Located beside Tamamo-koen, the Kagawa History Museum (Kagawa Rekishikan) covers the history of Kagawa Prefecture from the Jomon period through the Edo era. The permanent collection includes local artifacts, reconstructed interiors, and displays on the feudal lords who controlled the region. The building itself is modern and well-designed, with good English signage throughout. A worthwhile stop if you are already at Tamamo-koen — it fills an hour comfortably.
+
+Closed Mondays. Admission charged.

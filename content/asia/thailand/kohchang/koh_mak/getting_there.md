@@ -1,9 +1,8 @@
 ---
-title: "Getting There in Koh Mak"
-type: section
-address: "50 Moo 2, Ao Kao Beach, Koh Mak, Trat, Thailand"
-type: "By Sea"
-url: "www.kohmakboat.com"
+address: 50 Moo 2, Ao Kao Beach, Koh Mak, Trat, Thailand
+title: Getting There in Koh Mak
+type: poi
+url: www.kohmakboat.com
 ---
 
 By speedboat:

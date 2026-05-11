@@ -1,28 +1,6 @@
 ---
-title: "Eating out"
+title: "Eating Out"
 type: section
 ---
 
-**Restaurants**
-
-**Rancho Alegre**
-
-Colombian food.
-
-address: Cra 1, No. 1-155
-
-tel: 92-8930980
-
-**Los Girasoles**
-
-Good Colombian food. Excellent fish.
-
-address: Avenida 6 N y Calle 35
-
-tel: 92--6684646
-
-**Da Massimo**
-
-Good Italian food. 
-
-address: Avenida 5 N, No. 46-10
+Caleño cooking leans on the produce of the Cauca and Pacific coast: fresh fish, plantain, sugar, lulo and other tropical fruits. Local specialities to look for are sancocho de gallina (a hearty chicken-and-plantain soup), aborrajados (ripe plantain stuffed with cheese and fried) and the cholado, a riot of shaved ice, fruit and condensed milk that is the city's hot-weather fix. The most concentrated restaurant strips are Granada in the north — bistros, sushi, modern Colombian — and the cluster of cafes around San Antonio.

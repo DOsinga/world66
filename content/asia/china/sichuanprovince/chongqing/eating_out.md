@@ -1,8 +1,7 @@
 ---
-title: "Eating Out"
-type: section
-address: "114 Zourong Road, Yu Zhong District"
-type: "general"
+address: 114 Zourong Road, Yu Zhong District
+title: Eating Out
+type: poi
 ---
 
 The local Chongqingese enjoy hot pot, which is noted for its hot and

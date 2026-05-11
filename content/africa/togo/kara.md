@@ -1,6 +1,8 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
+  poi_cleanup: '2026-04-21'
 image: kara.jpg
 image_attribution: Hermannkass
 image_license: CC BY-SA 4.0
@@ -10,6 +12,7 @@ longitude: 1.1862
 score: 0.28
 title: Kara
 type: location
+loc_type: city
 ---
 
 Kara is northern Togo's largest city and a natural base for exploring the surrounding hills and villages. The town itself is pleasant enough — dusty, unhurried, with a sprawling market that draws traders from across the region — but the real draw is the landscape beyond it.

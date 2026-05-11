@@ -8,9 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rond-point_Liberté_Adjam�
 image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://secure.flickr.com/people/willstephe/">Willy
   Stephane Awaho</a>
+quick_facts:
+  Population: "29 million"
+  Language: "French"
+  Cocoa Production: "1st globally"
+  Basilica of Yamoussoukro: larger than St Peter's
 done:
   country_cleanup: 2026-03-31
 score: 0.35
+loc_type: country
 ---
 
 Côte d'Ivoire — usually called Ivory Coast in English — was for decades the economic powerhouse of Francophone West Africa. The cocoa and coffee boom of the 1960s and 70s built roads, hospitals, and a skyline in [Abidjan](/africa/ivorycoast/abidjan) that drew comparisons to Paris. That era ended badly — a period of coups, contested elections, and two civil wars consumed most of the 2000s and early 2010s. The country has since stabilised, and Abidjan in particular has bounced back as one of the most dynamic cities on the continent.

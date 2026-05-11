@@ -6,6 +6,7 @@ longitude: 22.084033
 title: Kufra
 type: location
 score: 0.17
+loc_type: city
 ---
 
 Kufra is as remote as it gets in Libya — an oasis cluster in the far southeast, near the Egyptian and Sudanese borders, closer to Khartoum than to Tripoli. There are no tourist facilities here, and reaching it requires serious preparation.

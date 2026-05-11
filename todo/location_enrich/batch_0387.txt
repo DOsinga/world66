@@ -1,0 +1,5 @@
+southamerica/brazil/natal
+africa/sierraleone/sherbroisland
+asia/china/simatai
+europe/norway/hemsedal
+northamerica/unitedstates/newmexico/lascruces

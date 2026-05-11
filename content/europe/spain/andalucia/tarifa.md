@@ -6,6 +6,7 @@ longitude: -5.605021
 title: Tarifa
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Tarifa is the southernmost point of continental Europe, and on a clear day you can see Morocco across the Strait of Gibraltar. Surrounded by crumbling Moorish walls, the old town is compact and atmospheric — narrow lanes, a Baroque church, and the Castillo de Guzmán el Bueno looking out over the strait.

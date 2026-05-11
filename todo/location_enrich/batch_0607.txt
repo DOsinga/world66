@@ -1,0 +1,5 @@
+australiaandpacific/australia/queensland/townsville
+asia/china/fujianprovince/fuzhou
+northamerica/thecaribbean/martinique/schoelcher
+asia/india/goa/oldgoa
+southamerica/brazil/lauro_mller

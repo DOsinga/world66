@@ -1,6 +1,7 @@
 ---
 title: "Château de Montpoupon"
 type: poi
+snippet: "Lived-in château with hunting museum near Chenonceau"
 category: "Sight"
 latitude: 47.252047
 longitude: 1.141773

@@ -1,9 +1,8 @@
 ---
-title: "Sights"
-type: section
-type: "Hotspots"
 latitude: 49.161234
 longitude: -117.841578
+title: Sights
+type: poi
 ---
 
 Things to see

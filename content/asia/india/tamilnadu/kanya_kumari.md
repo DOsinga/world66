@@ -6,6 +6,7 @@ longitude: 77.552346
 title: Kanyakumari
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Kanyakumari is at the very tip of India, the point where the Bay of Bengal, the Arabian Sea, and the Indian Ocean converge. For Hindus it's a sacred place of pilgrimage; for everyone else it's one of those geographically compelling spots that justifies the journey on its own terms.

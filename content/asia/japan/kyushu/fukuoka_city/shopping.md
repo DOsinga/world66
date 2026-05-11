@@ -1,8 +1,7 @@
 ---
-title: "Shopping"
-type: section
-address: "Marinoa City, Nishi-ku, Fukuoka-shi"
-type: "Shopping centers and malls"
+address: Marinoa City, Nishi-ku, Fukuoka-shi
+title: Shopping
+type: poi
 ---
 
 Fukuoka is a large commercial town too.

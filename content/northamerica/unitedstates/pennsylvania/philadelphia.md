@@ -1,9 +1,14 @@
 ---
-title: Philadelphia
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-21'
 latitude: 39.952724
 longitude: -75.163526
 score: 0.61
+title: Philadelphia
+type: location
+loc_type: city
 ---
 
 Philadelphia, the largest city in Pennsylvania and fifth largest in the country, is located in the southeast part of the state at the junction of the Schuylkill and Delaware Rivers. It is coextensive with Philadelphia County. 

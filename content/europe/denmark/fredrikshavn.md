@@ -6,6 +6,7 @@ longitude: 10.5336
 done:
   location_cleanup: 2026-04-06
 score: 0.45
+loc_type: city
 ---
 
 Frederikshavn is a port city in northern Jutland, the main ferry hub for crossings to Norway (Larvik, Oslo) and Sweden (Gothenburg). It's a working harbour town rather than a tourist destination, but the Skagen peninsula begins just north, making it a useful base or transit point for visiting one of Denmark's most appealing landscapes.

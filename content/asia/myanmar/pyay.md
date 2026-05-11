@@ -6,6 +6,7 @@ longitude: 95.216667
 title: Pyay
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Pyay (also known as Prome or Pyi) sits on the banks of the Ayeyarwady River, roughly halfway between Yangon and Bagan. It is an important trading centre between Lower and Upper Myanmar, and a crossing point to the Rakhine Yoma and the coast at Thandwe.

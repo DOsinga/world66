@@ -1,0 +1,5 @@
+northamerica/mexico/ciudadjuarez
+northamerica/saintlucia/marigotbay
+northamerica/mexico/yucatan/campeche_campeche
+europe/spain/canaryislands/lagomera/vallegranrey
+europe/lithuania/trakai

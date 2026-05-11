@@ -1,11 +1,14 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  poi_cleanup: '2026-04-19'
 latitude: 45.786
 longitude: 11.913
+score: 0.63
 title: Asolo
 type: location
-score: 0.63
+loc_type: city
 ---
 
 Asolo is one of the most beautiful small towns in the Veneto, a walled hill town perched between cypresses and olive groves roughly halfway between [Venice](/europe/italy/veneto/venice) and [Vicenza](/europe/italy/veneto/vicenza). The Italians call it "the city of a hundred horizons" for its views across the foothills to the Dolomites and the Venetian plain.

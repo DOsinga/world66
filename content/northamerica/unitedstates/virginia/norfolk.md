@@ -6,6 +6,7 @@ longitude: -76.289954
 title: Norfolk
 type: location
 score: 0.44
+loc_type: city
 ---
 
 Norfolk is the cultural centre of the Hampton Roads region in southeastern Virginia, a naval city with a revitalised downtown waterfront. The world's largest naval base, Naval Station Norfolk, dominates the northern end of the city, and the military presence is woven into the fabric of the place — you will see grey hulls on the horizon from almost any waterfront vantage point.

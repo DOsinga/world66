@@ -1,10 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-***Hostel Saranda***
-
-******
-
-When you arrive in Saranda, you like to be close to the beach, close to the boulevard, close to the port, close to the bus station to Butrint, close to bus station to Greece, minutes away from the bus city center, the price to includes breakfast and free internet...This place called Hostel Saranda.Hostel Saranda is located at the heart of th town, on the third floor of Rainbow Block with three bedrooms, kitchen, common room, bathroom.The owner who runs the hostel is a local guy who speaks very good English, also Italian,Greek, and Albanian of course.His name is Tomi.At the basement of the block there are some shops like: fast food, minimarket, library also bars, restaurants and pizza shop are arounds.
+Saranda's draw is the scenery around it rather than anything in town. The 45-minute drive south takes you to **Butrint**, one of the most complete ancient cities left in the Balkans — Greek, Roman, Byzantine, and Venetian layers wrapped in lagoon and forest. The **Blue Eye** (*Syri i Kaltër*), 25 km inland, is a natural spring where water rises from an apparently bottomless hole in shades of deep turquoise. The **Lekursi Castle** on the hill above town gives the best view over the bay at sunset, and there's a restaurant inside if you want to stay for dinner.

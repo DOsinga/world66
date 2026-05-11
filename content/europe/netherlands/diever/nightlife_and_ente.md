@@ -1,8 +1,7 @@
 ---
-title: "Nightlife and Entertainment in Diever"
-type: section
-type: "Theatres"
-url: "www.shakespearetheaterdiever.nl"
+title: Nightlife and Entertainment in Diever
+type: poi
+url: www.shakespearetheaterdiever.nl
 ---
 
 Diever doesn't really have nightlife, but every summer they perform

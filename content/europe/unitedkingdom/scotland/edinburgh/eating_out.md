@@ -3,14 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-There are plenty of pubs, especially in the Old Town, where you can have a today's speciality with a proper pint of Guiness. This is also the area where they are prepared for tourists, so besides numerous shops, you'll also find Indian, Italian, Chinese and the whole bunch of other restaurants. The New Town is the area with the more fashionable restaurants and classics, such as Mc Donalds.  
-
-## Categories
-
-[International](/europe/unitedkingdom/scotland/edinburgh/eatingout?subsection=International)
-[Indian](/europe/unitedkingdom/scotland/edinburgh/eatingout?subsection=Indian)
-
-[Pubs](/europe/unitedkingdom/scotland/edinburgh/eatingout?subsection=Pubs)
-[Oriental](/europe/unitedkingdom/scotland/edinburgh/eatingout?subsection=Oriental)
-
-[Italian](/europe/unitedkingdom/scotland/edinburgh/eatingout?subsection=Italian)
+Edinburgh has reinvented itself as one of Britain's better eating cities over the past two decades. The Old Town is dense with pubs serving honest plates of haggis, fish and chips, and steak pie alongside the inevitable tourist menus; the New Town is where the smart bistros, brasseries and Michelin-listed rooms cluster, especially around George Street and along Stockbridge. **Leith** is the surprise — half a dozen first-rate restaurants line The Shore, including The Kitchin and Restaurant Martin Wishart. For Scottish classics done well, look for haggis with neeps and tatties, Cullen skink (smoked-haddock chowder), Loch Fyne oysters, and a proper aged Aberdeen Angus steak.

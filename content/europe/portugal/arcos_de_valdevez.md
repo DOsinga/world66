@@ -6,6 +6,7 @@ longitude: -8.4179
 title: Arcos de Valdevez
 type: location
 score: 0.51
+loc_type: city
 ---
 
 Arcos de Valdevez is a quiet market town in the Minho, tucked where the Vez river meets a landscape of terraced vineyards and granite hills. It sits at the edge of the Peneda-Gerês National Park, which makes it a good base for anyone wanting to explore the wilder northern reaches of Portugal without the crowds of Viana do Castelo.

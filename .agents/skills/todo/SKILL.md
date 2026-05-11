@@ -22,6 +22,7 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
 3. **Check for existing PRs**
    - Branch name convention: `todo-$ARGUMENTS-<shard>` (e.g., `todo-country_cleanup-batch_00`).
    - Use `gh pr list --state all --search "todo-$ARGUMENTS-<shard>"` to check if a PR already exists (open or merged).
+   - also check if the branch already exists, sometimes PRs get misnamed but have the same branch pattern.
    - If it does, pick a different shard. If all shards have PRs, report that the task is complete.
 
 4. **Create a branch**
@@ -49,7 +50,8 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
    - `git push -u origin todo-$ARGUMENTS-<shard>`
    - Create PR with `gh pr create`:
      - Title: `todo-$ARGUMENTS-<shard>`
-     - Body: list the items processed and a brief summary of changes
+     - Body: list the items processed and a brief summary of changesA
+   - IMPORTANT: name the PR exactly like that - don't add number of files changed or some such
    - Return the PR URL.
    - Show the review link: `http://127.0.0.1:8066/review?branch=todo-$ARGUMENTS-<shard>`
 

@@ -6,6 +6,7 @@ longitude: 11.640079
 title: Magdeburg
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Magdeburg, located at the banks of the river Elbe, is one of the most famous eastern German cities - mainly because of its cathedral and the "Magdeburg Rider". The city of Magdeburg possesses a long history as a center of trade and culture. This, along with the city's extremely favorable location from a military strategic point of view, allowed "Magadaburg" on the cathedral hill to quickly develop into a booming, pulsating merchant haven. It was Otto I, who brought Magdeburg to the level of archbishopric.

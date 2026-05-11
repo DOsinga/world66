@@ -1,10 +1,9 @@
 ---
-title: "Shopping"
-type: section
-type: "Music"
-url: "www.globalrhythm.net"
 latitude: 33.60687
 longitude: -7.62065
+title: Shopping
+type: poi
+url: www.globalrhythm.net
 ---
 
 Blankets, rugs, jewelry, bracelets, crafts, pottery and even wooden objects to adorn your house and complete it.

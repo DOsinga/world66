@@ -1,0 +1,29 @@
+[
+  {
+    "url": "/places/christian-s-cafe-pitcairn-island",
+    "type": "Place",
+    "item-id": "7533",
+    "gtm-content-type": "Place",
+    "lat": "-25.066667",
+    "lng": "-130.099925",
+    "city": "Adamstown",
+    "country": "Pitcairn Islands",
+    "src": "https://img.atlasobscura.com/D-PmTOTGHwIFoBhGqguE7Smjb4ps1vLUhebVdjuHYiY/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yY2Yz/YjkyM2RkYTViNGZm/NWRfYWRhbXN0b3du/LmpwZw.jpg",
+    "width": "600",
+    "height": "401",
+    "name": "Christian&#39;s Cafe",
+    "description": "The cafe that acts as the social hub for the small volcanic island of HMS Bounty fame."
+  },
+  {
+    "url": "/places/wreck-of-hms-bounty",
+    "type": "Place",
+    "item-id": "5220",
+    "gtm-content-type": "Place",
+    "lat": "-25.068666",
+    "lng": "-130.095118",
+    "city": "Adamstown",
+    "country": "Pitcairn Islands",
+    "name": "Wreck of HMS Bounty",
+    "description": "The watery grave of Captain Bligh&#39;s famous ship."
+  }
+]

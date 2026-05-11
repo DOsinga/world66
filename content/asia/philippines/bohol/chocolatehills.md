@@ -6,6 +6,7 @@ longitude: 124.168422
 title: Chocolate Hills
 type: location
 score: 0.67
+loc_type: city
 ---
 
 In the dry season the Chocolate Hills are exactly what the name suggests: over a thousand chocolate-brown, cone-shaped mounds spread across the interior of Bohol. In the wet season they turn a vivid green and lose their chocolate resemblance, but they are still a remarkable sight. The hills are probably of volcanic origin, though local legend claims they are the tears of giants who once lived on the island.

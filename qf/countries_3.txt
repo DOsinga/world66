@@ -1,0 +1,15 @@
+content/africa/morocco.md
+content/africa/mozambique.md
+content/africa/namibia.md
+content/africa/niger.md
+content/africa/nigeria.md
+content/africa/reunion.md
+content/africa/rwanda.md
+content/africa/senegal.md
+content/africa/seychelles.md
+content/africa/sierraleone.md
+content/africa/somalia.md
+content/africa/somaliland.md
+content/africa/southafrica.md
+content/africa/southsudan.md
+content/africa/sudan.md

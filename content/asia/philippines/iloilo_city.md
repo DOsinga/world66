@@ -6,6 +6,7 @@ longitude: 122.5621
 done:
   location_cleanup: 2026-04-07
 score: 0.51
+loc_type: city
 ---
 
 Iloilo City is the regional capital of Western Visayas and one of the most historically rich cities in the Philippines — a place where Spanish colonial architecture, strong regional identity, and genuine culinary pride distinguish it from the generic urban centres elsewhere in the archipelago.

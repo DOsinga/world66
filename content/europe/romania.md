@@ -9,7 +9,13 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "19 million"
+  Budget Meal: "~$4–6"
+  Danube Delta: "5,165 km² wetland wilderness"
+  Painted Monasteries: UNESCO-listed frescoed churches from the 1400s
 score: 0.54
+loc_type: country
 ---
 
 In December 1989, Romania was reborn as a free nation. Now this multifaceted country is welcoming tourists to enjoy a wonderfully varied heritage of traditional culture, scnic splendour and leisure opportunities. A resurgence of endeavour and enthusiasm is reinvigorating the country's tourist facilities to create a holiday destination unique in southern Europe.

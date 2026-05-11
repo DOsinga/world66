@@ -1,22 +1,12 @@
 ---
-title: "Cullen Golf Club"
-type: poi
-phone: "01542 840685"
-type: "Golf"
-url: "www.cullengolfclub.co.uk"
 latitude: 57.696346
 longitude: -2.843784
+snippet: Historic clifftop golf course with Moray Firth views
+tags:
+- things_to_do
+- sport
+title: Cullen Golf Club
+type: poi
 ---
 
-Situated at the west end of the town the Cullen Golf Club is popular with locals and tourists. It was founded in 1870 and from the greens spectacular views of the Moray Firth are to be had.
-
-**Contributors**
-February 11, 2007
-
-type: Golf
-
-
-
-tel: 01542 840685
-
-url: [www.cullengolfclub.co.uk](http://www.cullengolfclub.co.uk)
+Founded in 1870, Cullen Golf Club sits on the cliffs at the west end of town with sweeping views over the Moray Firth. The 18-hole course is short but tricky, with sea winds and undulating terrain keeping things interesting. Popular with both locals and visitors, and green fees are reasonable. The clubhouse serves drinks and light meals.

@@ -4,6 +4,7 @@ done:
 title: Taboga
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Taboga is a small island just off the west coast of Panama City. It is only one hour by ferry from Muelle (Pier) 18 and an ideal daytrip to make. It is a great place for hikes along well maintained footpaths.

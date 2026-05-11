@@ -10,6 +10,7 @@ longitude: -64.8004
 score: 0.43
 title: Moncton
 type: location
+loc_type: city
 ---
 
 Moncton is the largest city in New Brunswick and the unofficial hub of the Maritime provinces — a bilingual, unpretentious place where English and French run together in conversation as naturally as the rivers that converge here. It is not a city most travellers seek out for its own sake, but it is a convenient base for exploring the region, and it has enough character to hold your attention for a day or two.

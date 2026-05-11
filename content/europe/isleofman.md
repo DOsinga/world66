@@ -10,7 +10,13 @@ image_attribution: No machine-readable author provided. <a href="//commons.wikim
   title="User:Smurrayinchester">Smurrayinchester</a> assumed (based on copyright claims).
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "85,000"
+  Currency: Manx Pound (£)
+  Tynwald Parliament: "Founded 979 AD — still sitting"
+  TT Race Top Speed: "Over 330 km/h on public roads"
 score: 0.56
+loc_type: country
 ---
 
 The Isle of Man sits in the middle of the Irish Sea, equidistant from England, Scotland, Northern Ireland, and Wales — yet it belongs to none of them. It is a self-governing Crown dependency with its own parliament, laws, and tax system. The Tynwald, founded in 979 AD, is one of the oldest continuously sitting parliaments in the world. The British monarch holds the title "Lord of Mann" and is represented by a Lieutenant Governor; the island handles its own domestic affairs entirely.

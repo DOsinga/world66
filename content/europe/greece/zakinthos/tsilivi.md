@@ -6,6 +6,7 @@ longitude: 20.871852
 title: Tsilivi
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Tsilivi is a popular family resort on the northeast coast of Zakynthos, about ten minutes from Zakynthos Town. Despite growing as a holiday destination, it retains plenty of traditional Greek tavernas alongside the newer bars and restaurants.

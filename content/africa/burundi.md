@@ -8,7 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Road_between_Burundi_Giteg
 image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/23442653@N00">Dave
   Proffer</a>
+quick_facts:
+  Population: "13 million"
+  Languages: "French & Kirundi"
+  Nile Source Claim: Southernmost
+  Drumming Tradition: UNESCO heritage
 score: 0.25
+loc_type: country
 ---
 
 Burundi is one of Africa's smallest countries and one of its least visited. Tucked into the heart of the continent between [Tanzania](/africa/tanzania) to the east, [Congo Kinshasa](/africa/congokinshasa) to the west, and [Rwanda](/africa/rwanda) to the north, it sits on the great African Rift Valley with Lake Tanganyika shimmering along its western border. The landscape is stunning -- green, hilly, and dramatic -- earning it the nickname "the heart of Africa."

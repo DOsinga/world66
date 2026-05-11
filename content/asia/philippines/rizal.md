@@ -6,6 +6,7 @@ longitude: 121.25
 title: Rizal
 type: location
 score: 0.42
+loc_type: city
 ---
 
 Rizal is a mountainous province on the eastern edge of Metro Manila, named after José Rizal, the national hero whose family came from Calamba, a town in nearby Laguna. It's one of the most densely populated provinces in the Philippines but most of it remains green — the Sierra Madre mountain slopes that form Rizal's eastern flank are forested and largely undeveloped.

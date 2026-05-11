@@ -6,6 +6,7 @@ longitude: -1.3167
 title: Ile d'Oleron
 type: location
 score: 0.58
+loc_type: city
 ---
 
 The Ile d'Oleron is the largest French island on the Atlantic coast, connected to the mainland by a toll-free bridge. It is enormously popular with French holidaymakers in summer but still largely unknown to international visitors — which is part of its charm.

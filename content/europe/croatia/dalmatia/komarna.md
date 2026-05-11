@@ -6,6 +6,7 @@ longitude: 17.533784
 done:
   location_cleanup: 2026-04-10
 score: 0.49
+loc_type: city
 ---
 
 Komarna is a small village on the mainland coast of Dalmatia, in the Dubrovnik-Neretva region, directly opposite the Pelješac peninsula across the narrow Bay of Mali Ston. It sits on a hillside above a small harbour, looking across to the oyster beds that made Mali Ston and Ston famous throughout Croatia.

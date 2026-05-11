@@ -1,9 +1,8 @@
 ---
-title: "Shopping"
-type: section
-email: "sales@aflowersgift.com"
-type: "Shopping centers and malls"
-url: "www.aflowersgift.com"
+email: sales@aflowersgift.com
+title: Shopping
+type: poi
+url: www.aflowersgift.com
 ---
 
 http://www.aflowersgift.com/dubai-uae.htm

@@ -6,6 +6,7 @@ longitude: 14.8
 title: Siljan area
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Lake Siljan has given its name to the heart of Dalarna, the province in central Sweden that Swedes themselves regard as the most classically Swedish. The lake sits inside a vast impact crater formed by a meteorite some 360 million years ago — the landscape gentle and ancient-feeling. The villages around it have preserved traditional Swedish rural culture more stubbornly than almost anywhere else in the country. Farmhouses are built of logs and painted in the deep red oxide pigment from the copper mine at Falun, and many are several hundred years old, some with painted interiors that have never been updated.

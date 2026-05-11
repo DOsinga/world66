@@ -6,6 +6,7 @@ longitude: 12.6063
 title: Pelagian Islands
 type: location
 score: 0.62
+loc_type: region
 ---
 
 The islands of [Lampedusa](/europe/italy/sicily/pelagianislands/lampedusa) and [Linosa](/europe/italy/sicily/pelagianislands/linosa), together with the uninhabited rock of Lampione, make up the Pelagian archipelago. They lie some 200km south of Sicily and are geographically part of Africa.

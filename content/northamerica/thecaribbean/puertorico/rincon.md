@@ -4,6 +4,7 @@ type: location
 done:
   location_cleanup: 2026-04-06
 score: 0.52
+loc_type: city
 ---
 
 Travel Guide

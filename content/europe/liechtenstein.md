@@ -9,7 +9,13 @@ image_license: CC BY-SA 3.0
 image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161014183619/http://www.panoramio.com/user/861544?with_photo_id=39485038">trolvag</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "40,000"
+  Currency: Swiss Franc (CHF)
+  Total Area: "160 km² — smaller than Washington D.C."
+  Doubly Landlocked: One of only two countries in the world
 score: 0.6
+loc_type: country
 ---
 
 Wedged between Switzerland and Austria in the Rhine Valley, Liechtenstein is one of the world's smallest countries and one of only two that are doubly landlocked — surrounded entirely by landlocked neighbours. It is a genuine principality, still ruled by Prince Hans-Adam II of the House of Liechtenstein, one of Europe's oldest noble families. The royal family does not just lend the place its name; they actively govern and the prince retains considerable constitutional powers.

@@ -1,11 +1,10 @@
 ---
-title: "Eating Out"
-type: section
-address: "A-3424 Zeiselmauer, Kirchenplatz 1"
-email: "zum.lustigen.bauern@aon.at"
-phone: "+43 (22 42) 704 24"
-type: "Local"
-url: "www.zumlustigenbauern.at"
+address: A-3424 Zeiselmauer, Kirchenplatz 1
+email: zum.lustigen.bauern@aon.at
+phone: +43 (22 42) 704 24
+title: Eating Out
+type: poi
+url: www.zumlustigenbauern.at
 ---
 
 ** Zeiselmauer offers one typical austrian "Wirtshaus". **

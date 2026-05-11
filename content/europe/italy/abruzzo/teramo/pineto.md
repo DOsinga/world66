@@ -6,6 +6,7 @@ longitude: 14.067103
 title: Pineto
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Pineto is a beach resort on the Adriatic coast of Abruzzo, about 40 km south of Pescara in the province of Teramo. It takes its name from the pine woods that back the beach, and the coastline holds a Blue Flag designation for water quality and services.

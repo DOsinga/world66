@@ -1,11 +1,18 @@
 ---
-title: Portsmouth
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-20'
+image: portsmouth.jpg
+image_attribution: Christine Matthews
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Portsmouth_Harbour,_Portsmouth,_Hampshire_-_geograph.org.uk_-_4175659.jpg
 latitude: 50.800031
 longitude: -1.090602
-done:
-  location_cleanup: 2026-04-05
 score: 0.47
+title: Portsmouth
+type: location
+loc_type: city
 ---
 
 Portsmouth is Britain's foremost naval city, built on Portsea Island on the Hampshire coast. Its sheltered harbour, protected by the Isle of Wight to the south and Portsdown Hill to the north, has made it the home of the Royal Navy for centuries.

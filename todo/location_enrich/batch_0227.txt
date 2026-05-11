@@ -1,0 +1,5 @@
+europe/sweden/uddevalla
+asia/philippines/bicol/legazpi_city
+asia/jordan/amman
+europe/france/nord/stomer
+northamerica/unitedstates/colorado/black_hawk

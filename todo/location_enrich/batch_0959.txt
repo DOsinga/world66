@@ -1,0 +1,5 @@
+northamerica/unitedstates/washington/redmond
+asia/india/uttaranchal/srinagar_pauri_garhwal
+europe/faroeislands/vagar/sandavgur
+northamerica/unitedstates/kansas/topeka
+europe/armenia/vayots_dzor_marz/yeghegnadzor

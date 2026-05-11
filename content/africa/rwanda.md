@@ -8,9 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Seven_Volcanoes_-_Musanze,
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/84985982@N00">Andrew
   Moore</a> from Johannesburg, South Africa
+quick_facts:
+  Population: "14 million"
+  Languages: "English, French & Kinyarwanda"
+  Women in Parliament: "61%"
+  Gorilla Permit: "$1,500"
 done:
   country_cleanup: 2026-03-31
 score: 0.56
+loc_type: country
 ---
 
 Rwanda is a small, landlocked country in East-Central Africa — roughly the size of Maryland — yet it packs in an extraordinary variety of landscapes. The "Land of a Thousand Hills" is exactly that: a country of steep green ridges, tea plantations, volcanic peaks, and deep crater lakes. Dense rainforest in the southwest gives way to open savanna in the east. It is one of the most densely populated countries in Africa.

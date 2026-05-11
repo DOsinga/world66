@@ -1,0 +1,15 @@
+content/northamerica/mexico.md
+content/northamerica/montserrat.md
+content/northamerica/nicaragua.md
+content/northamerica/panama.md
+content/northamerica/saintlucia.md
+content/northamerica/turks__caicos_isl.md
+content/northamerica/unitedstates.md
+content/southamerica/argentina.md
+content/southamerica/bolivia.md
+content/southamerica/brazil.md
+content/southamerica/chile.md
+content/southamerica/colombia.md
+content/southamerica/ecuador.md
+content/southamerica/falklandislands.md
+content/southamerica/frenchguiana.md

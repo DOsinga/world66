@@ -3,14 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**Hanoi Taxi at Noi Bai International Airport**
+**Air.** Noi Bai International Airport (HAN), about 30 km north of the centre, is Vietnam's second-largest hub after Ho Chi Minh City. Vietnam Airlines, VietJet, and Bamboo Airways all operate extensive regional networks; direct long-haul routes go to most European and East Asian capitals. Grab, taxis, and the airport bus all connect to central Hanoi; allow 45–60 minutes in traffic.
 
-If you have arranged your own accommodation at a villa, apartment or hotel in Hanoi, you will need to consider a taxicab transfer service at your arrival airport. You can pre book your taxicab transfer via the website: http://www.noibaitaxi.com and paid at the end of the journey.
+**Train.** The main station, Ga Hanoi (Tran Quy Cap), sits just south of the centre. Services run along the coastal "Reunification Express" south as far as Ho Chi Minh City (about 30 hours), with sleeper trains to Hue and Da Nang also popular. A separate northern line runs up to Lao Cai near the Chinese border — the overnight train is the standard way to reach Sapa.
 
-When you pre arrange your taxi transfer you will also need to provide your flight details, including airline, flight number and arrival time in the local airport. The taxi company will be able to keep an eye on the flight arrival times to ensure your taxi is still available even if your flight is delayed.
-
-**Noibai Airport Taxi**
-**Email:** booking@noibaitaxi.com
-**Website:** http://www.noibaitaxi.com
-
-*Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport Taxi,Noibai Airport Transfer,Noibai Airport Hotel,Noibai Airport .*
+**Overland.** Buses cross into Laos (Vientiane, Luang Prabang), China (Nanning, Kunming), and south to the coastal cities. The cross-border train to Nanning leaves a few times a week from Gia Lam station.

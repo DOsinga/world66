@@ -1,36 +1,15 @@
 ---
-title: "Dolphin Safari"
+address: 6 The Square, Marina Bay, Ocean Village, Gibraltar
+latitude: 36.1377
+longitude: -5.3527
+phone: +350 200 71914
+snippet: Long-running boat trips to see dolphins in the Strait
+tags:
+- things_to_do
+title: Dolphin Safari
 type: poi
-accessibility: "limited disabled access"
-address: "6 The Square, Marina Bay, Ocean Village, Gibraltar"
-email: "dolphin@gibraltar.gi"
-phone: "200 71914"
-type: "Other"
-url: "Http:www.dolphinsafari.gi"
 ---
 
-The Original Dophin Safari
+The Original Dolphin Safari has been running since 1969, making it one of the longest-established marine excursions in Europe. Boats depart from Marina Bay and head into the Strait of Gibraltar, where resident pods of common and bottlenose dolphins are reliably spotted year-round. On a good day you may also see pilot whales or striped dolphins further out.
 
-**Imagine an island cruise between the African and Spanish coasts, with Dolphins and Whales…**
-
-See and hear dolphins, and observe whales in their natural habitat. In Gibraltar there are many resident dolphins and through the years they have come to recognise our unique **Goldfin** and come to greet it as if it were an old friend!
-
-Established in 1969, the Original Dolphin Safari TM is the longest running and most popular marine safari in Europe. Our brand new boat called GOLDFIN, 430 horse power, is especially designed to watch dolphins and whales in the bay and Straits of Gibraltar. Strong, fast, modern, safe, with all the accommodation necessary inside and outside for one of the most enjoyable and unforgettable experience of your life.
-
-Visit our website to see more details and to make an online booking to go on this trip of a lifetime www.dolphinsafari.gi/
-
-type: Other
-
-
-
-
-
-accessibility: limited disabled access
-
-tel: 200 71914
-
-url: [Http:www.dolphinsafari.gi](http://Http:www.dolphinsafari.gi/)
-
-address: 6 The Square, Marina Bay, Ocean Village, Gibraltar
-
-email: dolphin@gibraltar.gi
+Trips last around 75 minutes. The crew knows the local waters well and tends to find the dolphins quickly. Book ahead in summer, when it gets busy with day-trippers from the Costa del Sol.

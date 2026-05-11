@@ -1,0 +1,5 @@
+northamerica/canada/ontario/sault_ste_marie
+europe/spain/andalucia/alora
+northamerica/unitedstates/california/northcoast/clearlake
+europe/unitedkingdom/england/birmingham_and_west_midlands/solihull
+africa/congobrazzaville/impfondo

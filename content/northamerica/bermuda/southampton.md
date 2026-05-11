@@ -6,6 +6,7 @@ longitude: -64.8534
 title: Southampton
 type: location
 score: 0.57
+loc_type: city
 ---
 
 Southampton is the westernmost parish of Bermuda, strung along the South Shore with some of the island's finest beaches. The parish is quiet and residential compared to Hamilton or St. George's, but the coastline is the reason to come.

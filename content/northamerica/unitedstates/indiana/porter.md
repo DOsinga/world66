@@ -6,6 +6,7 @@ longitude: -87.0725
 title: Porter
 type: location
 score: 0.33
+loc_type: city
 ---
 
 Porter is a small town on the southern shore of Lake Michigan, about 50 miles southeast of Chicago. Its main claim to interest is its location inside Indiana Dunes National Park, which stretches for 25 miles along the lakeshore.

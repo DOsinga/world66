@@ -6,6 +6,7 @@ longitude: 70.3
 title: Tibbi Qaisrani
 type: location
 score: 0.18
+loc_type: city
 ---
 
 Tibbi Qaisrani (Tibbi Kaura Khan Qaisrani) is a growing union council of tehsil Taunsa in the Dera Ghazi Khan District of Punjab, Pakistan, with a population of approximately 30,000. The area is predominantly agricultural.

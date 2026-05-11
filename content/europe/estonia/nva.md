@@ -6,6 +6,7 @@ longitude: 23.688303
 title: Nõva
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Nõva is a quiet coastal village on the northwest shore of Estonia, roughly halfway between [Haapsalu](/europe/estonia/haapsalu) and Paldiski. The area has a long Swedish heritage — Coastal Swedes settled these shores for centuries, and traces of that history linger in place names and old farmsteads.

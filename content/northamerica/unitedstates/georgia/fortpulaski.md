@@ -4,6 +4,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 32.0271
 longitude: -80.8909
+snippet: Civil War fort where rifled cannon ended the age of masonry
 title: Fort Pulaski
 type: poi
 ---

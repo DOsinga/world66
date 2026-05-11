@@ -1,11 +1,14 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
+  poi_cleanup: '2026-04-19'
 latitude: 53.0855
 longitude: -9.587
 score: 0.56
 title: Inis Meáin
 type: location
+loc_type: city
 ---
 
 Inis Meáin is the middle and least visited of the three Aran Islands, sitting in Galway Bay off Ireland's west coast. About five kilometres long and two and a half wide, it is home to roughly 200 Irish-speaking inhabitants and remains one of the most authentic Gaeltacht communities in the country.

@@ -10,7 +10,13 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Penguin9" title="U
   Dede</a>
 done:
   country_cleanup: 2026-03-29
+quick_facts:
+  Population: "5.4 million"
+  Currency: Euro
+  Castles Per Capita: Among the highest in Europe
+  Spiš Castle: Largest castle complex in Central Europe
 score: 0.59
+loc_type: country
 ---
 
 Slovakia is a small, landlocked country in the heart of Central Europe that consistently surprises visitors. Its capital [Bratislava](/europe/slovakia/bratislava) sits just 60 km from Vienna, making it one of the most accessible and affordable destinations in the region. But the real draw lies beyond the capital -- in the dramatic peaks of the High Tatras, the medieval mining towns of central Slovakia, and a countryside dotted with more castles per capita than almost anywhere in Europe.

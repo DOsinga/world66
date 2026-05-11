@@ -8,9 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mlilwane_Wildlife_Sanctuar
 image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:Bgag">Bernard
   Gagnon</a>
+quick_facts:
+  Population: "1.2 million"
+  Currency: Lilangeni (= ZAR)
+  Absolute Monarchy: Last in Africa
+  Umhlanga Dancers: "40,000+"
 done:
   country_cleanup: 2026-03-31
 score: 0.46
+loc_type: country
 ---
 
 Eswatini — renamed from Swaziland in 2018 by King Mswati III to reclaim its precolonial name — is one of Africa's smallest countries and one of its last absolute monarchies. Landlocked between South Africa and Mozambique, it covers roughly 17,000 square kilometres, about the size of Wales or New Jersey. In that compact space it manages to pack dramatic highland scenery, lowland bushveld, some of the continent's best rhino conservation, and a living royal culture that is impossible to fake.

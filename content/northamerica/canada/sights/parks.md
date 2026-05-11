@@ -1,18 +1,16 @@
 ---
-title: "Parks"
+title: "National Parks"
 type: poi
-latitude: 49.173867
-longitude: -117.497064
+tags:
+  - things_to_do
+  - nature
+snippet: Vast system of national parks spanning wilderness and heritage sites
 ---
 
-Canada features a tremendous assortment of national parks featuring wildlife, natural features, historical and heritage sites. Some parks are in such remote locations there is a reasonable chance you would not meet other visitors as you explored such parks. Others are located along major highway systems.
+Canada's national park system, managed by Parks Canada, is one of the largest in the world — stretching from the Arctic tundra of Nunavut to the old-growth rainforest of Pacific Rim on Vancouver Island. There are 48 national parks in total, protecting everything from Rocky Mountain glaciers to Atlantic coastal headlands.
 
-**Sights**
+Some parks, like Banff and Jasper in Alberta, sit along major highways and draw enormous crowds. Others — Aulavik on Banks Island, say, or Torngat Mountains in Labrador — require serious planning and you may go days without seeing another visitor.
 
-**Parks Canada**
+Parks Canada operates a system of entrance passes; an annual Discovery Pass covers all national parks and is good value if you're spending time in the country.
 
-Parks Canada is the federal government agency responsible for managing Canada's national park system. This agency has prepared a site containing comprehensive information on Canada's national park system, heritage and historical sites, and related maps and literature. A fascinating feature of thi [more..](/northamerica/canada/sights/parks/parkscanada)
-
-**Butchart Gardens**
-
-Located on picturesque Vancouver Island, near Victoria, the Buchart Gardens are fifty-five acres of floral display. Started in 1904 from a worked-out quarry site they now feature a sunken garden, rose garden, japanese garden, fountains and spectacular colors.
+The [Butchart Gardens](/northamerica/canada/sights/buchartgardens) near Victoria, while not a national park, is one of the most-visited garden sites in Canada — 55 acres of formal gardens in a worked-out limestone quarry, operating since 1904.

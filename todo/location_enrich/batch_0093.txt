@@ -1,0 +1,5 @@
+asia/pakistan/patriata
+europe/estonia/kihnu_island
+northamerica/unitedstates/florida/tampabayarea/yborcity
+europe/unitedkingdom/scotland/edinburgh/stockbridge
+northamerica/unitedstates/texas/fort_worth

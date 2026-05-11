@@ -6,6 +6,7 @@ longitude: 83.8939
 done:
   location_cleanup: 2026-04-06
 score: 0.29
+loc_type: city
 ---
 
 Srikakulam is the northernmost district of [Andhra Pradesh](/asia/india/andhrapradesh), tucked between the Bay of Bengal to the east and [Odisha](/asia/india/orissa) to the north. Once part of the ancient Kalinga kingdom, the district carries layers of history that most visitors to India never encounter — Buddhist ruins, sun temples, and crumbling colonial ports, all largely free of crowds.

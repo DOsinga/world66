@@ -1,9 +1,18 @@
 ---
-title: Shibuya
-type: location
+done:
+  poi_cleanup: '2026-04-19'
+image: shibuya.jpg
+image_attribution: Syced
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:January_2024_Shibuya_views_5.jpg
 latitude: 35.663371
 longitude: 139.696495
 score: 0.89
+title: Shibuya
+type: neighbourhood
+tags:
+- neighbourhood
+- things_to_do
 ---
 
 Shibuya is the most trendy place in Tokyo and probably the most trendy place East of London. It's always busy, always crowded and there is always something unexpected going on.

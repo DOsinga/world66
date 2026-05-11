@@ -6,6 +6,7 @@ longitude: 75.8682
 title: Indore
 type: location
 score: 0.4
+loc_type: city
 ---
 
 Indore is the largest city in Madhya Pradesh and its commercial capital, a sprawling, energetic place that most travellers pass through rather than linger in. That is a mistake if you like street food — Indore is consistently rated among India's best cities for eating, and the night food markets at Sarafa Bazaar and Chappan Dukan are reason enough to stop.

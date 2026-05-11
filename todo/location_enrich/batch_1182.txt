@@ -1,0 +1,5 @@
+australiaandpacific/newzealand/nelson
+asia/india/westbengal/asansol
+europe/unitedkingdom/northernireland/newry
+northamerica/greenland/kapisillit
+northamerica/unitedstates/oklahoma/el_reno

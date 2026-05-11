@@ -6,6 +6,7 @@ longitude: 20.972856
 title: Tetovo
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Tetovo sits at the foot of the Shar Mountains in northwestern North Macedonia, on the edge of the broad Polog Valley. The river Pena runs through the centre, flowing down from the peaks above. It is a predominantly Albanian-speaking city with a lively bazaar atmosphere and a dramatic mountain backdrop.

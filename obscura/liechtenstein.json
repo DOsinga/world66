@@ -1,0 +1,49 @@
+[
+  {
+    "url": "/places/wine-cellar-of-the-prince-of-liechtenstein",
+    "type": "Place",
+    "item-id": "31913",
+    "gtm-content-type": "Place",
+    "lat": "47.145048",
+    "lng": "9.516486",
+    "city": "Vaduz",
+    "state": "Vaduz",
+    "country": "Liechtenstein",
+    "src": "https://img.atlasobscura.com/ITsv1NvRkflNeqGMZEox-cBmZcNNLo8l5KOlHf7_Dsk/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNDMx/OTNkZS1jODI4LTRi/NzUtOWQ4ZS1kNDRh/NWZkYzZlYWFjYzlj/ZTVjZTA4YmE1ZTZm/YzNfcHJpbmNlIHdp/bmUgMi5qcGVn.jpg",
+    "width": "4075",
+    "height": "2080",
+    "name": "The Prince of Liechtenstein&#39;s Vineyard and Wine Cellar",
+    "description": "In one of the world&#39;s smallest countries, a royal&#39;s personal winery is open to the public."
+  },
+  {
+    "url": "/places/schloss-vaduz-castle-liechtenstein",
+    "type": "Place",
+    "item-id": "54569",
+    "gtm-content-type": "Place",
+    "lat": "47.139542",
+    "lng": "9.524349",
+    "city": "Vaduz",
+    "state": "Vaduz",
+    "country": "Liechtenstein",
+    "src": "https://img.atlasobscura.com/8nxZSGkXSlOPV5frnf-56B2WuIB5k766p4BRL-VuTTc/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hNTM3/YWFiMS03NTc1LTQ1/NDItYTU0Mi0yNjRk/MmFlNzliNTRmZThh/MGQ5ZThlNjVhYmE2/NGFfMTA3MTA0NDNf/MTAxMDI2NjE0NjQ3/NzUwODVfNzA0NzMw/MTQ0MDg3NzU2MDcw/NF9vLmpwZw.jpg",
+    "width": "2048",
+    "height": "1368",
+    "name": "Schloss Vaduz",
+    "description": "Liechtenstein&#39;s royal family calls this medieval alpine castle home."
+  },
+  {
+    "url": "/places/liechtenstein-postal-museum",
+    "type": "Place",
+    "item-id": "55916",
+    "gtm-content-type": "Place",
+    "lat": "47.139005",
+    "lng": "9.522728",
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "src": "https://img.atlasobscura.com/JLxxH0aWy9EXr-7t8xmnNoyPGG79iSCnUFT3YYboqnA/rs:fill:600:400:1/g:ce/c:600:400:nowe:0:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNmQ1/MjJjNi0yZjU0LTRm/YjYtYmVlNy01ZTlh/NWFjYjI3MWI3Njc1/YTk4MTEyODRhYTQ4/YTBfSU1HXzUyOTMu/anBn.jpg",
+    "width": "240",
+    "height": "320",
+    "name": "Liechtenstein Postal Museum",
+    "description": "Browse through a century of this principality&#39;s first popular export."
+  }
+]

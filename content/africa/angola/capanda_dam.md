@@ -2,8 +2,13 @@
 category: Sight
 done:
   location_cleanup: '2026-04-09'
+  poi_cleanup: '2026-04-20'
 latitude: -9.7957
 longitude: 15.4668
+snippet: Angola's largest hydroelectric dam on the Kwanza River
+tags:
+- things_to_do
+- sight
 title: Capanda Dam
 type: poi
 ---

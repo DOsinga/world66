@@ -1,0 +1,5 @@
+europe/bosniaandherzegovina/mostar
+northamerica/costarica/monteverde
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby
+europe/germany/badenwrttemberg/waiblingen
+australiaandpacific/tuvalu/nanumangaisland

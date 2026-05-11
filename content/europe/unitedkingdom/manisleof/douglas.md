@@ -6,6 +6,7 @@ longitude: -4.4806
 title: Douglas
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Douglas is the capital of the Isle of Man and home to about a third of the island's population. It wraps around a wide bay on the east coast and is where most visitors arrive, either by ferry or from the airport a few miles to the south.

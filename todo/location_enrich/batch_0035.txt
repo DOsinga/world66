@@ -1,0 +1,5 @@
+australiaandpacific/newzealand/north_island/waikato/hamilton
+europe/unitedkingdom/scotland/fyvie
+australiaandpacific/fiji/vanualevu
+europe/germany/saxonyanhalt/wernigerode
+northamerica/unitedstates/utah/kanab

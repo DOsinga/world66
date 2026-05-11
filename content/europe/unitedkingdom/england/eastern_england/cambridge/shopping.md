@@ -1,9 +1,8 @@
 ---
-title: "Shopping"
-type: section
-type: "Antiques"
 latitude: 55.085311
 longitude: -1.589597
+title: Shopping
+type: poi
 ---
 
 ### [Cambridge Art, Craft and Antique Market - Sundays](/europe/unitedkingdom/england/eastern_england/cambridge/shopping/cambridgeartcraftandantiquemarketsundays)

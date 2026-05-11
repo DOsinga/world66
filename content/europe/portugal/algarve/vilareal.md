@@ -4,6 +4,7 @@ type: location
 latitude: 37.194
 longitude: -7.416
 score: 0.46
+loc_type: city
 ---
 
 Vila Real de Santo Antonio (usually just 'Vila Real') is the main border town between [Spain](/europe/spain) and the southeastern Algarve. The Guadiana River separates it from Ayamonte on the Spanish side -- you can cross by ferry in a few minutes or drive over the bridge.

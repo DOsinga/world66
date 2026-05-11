@@ -1,14 +1,6 @@
 ---
-title: "Daytrips"
+title: "Day Trips"
 type: section
 ---
 
-**Points of Interest**
-
-**Sonjiang County**
-
-You can go to Songjiang County about 40 km southwest of Shanghai. The rare Square Pagoda in the Xinghseng Monastery, Sangong Street is very interesting. Open daily. Besides this monument you can see the Zuibai Ci Garden (Pond for Enjoying Bai's Drunkenness)outside the West Gate of the city. 
-
-**Daguanyuan Garden**
-
-Known as the Grand View Garden in English located 65 km north of Shanghai on Dianshan Lake west of Quinpu town is a nice daytrip. It can be combined with a visit to Zhou Zhuang Village, a beautiful little town with canals like Suzhou's.
+Shanghai's hinterland — the Yangtze delta — is dense with classical canal towns and historic gardens, all reachable in under an hour by high-speed rail. **Suzhou** (25 minutes by train) is the obvious one: a world heritage city of Ming-dynasty scholar gardens and silk workshops. **Hangzhou** (45 minutes) sits around the famously beautiful West Lake. The smaller water towns of **Zhouzhuang**, **Wuzhen** and **Tongli** preserve canal-and-bridge layouts that look exactly like Ming dynasty paintings — best visited as half-day trips on weekdays before the bus tours arrive. **Nanjing** (1 hour) is the old Ming capital, with city walls, Sun Yat-sen's mausoleum, and the sobering Nanjing Massacre Memorial.

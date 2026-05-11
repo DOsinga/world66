@@ -1,9 +1,14 @@
 ---
-title: Redlands
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-21'
 latitude: 34.055033
 longitude: -117.182744
 score: 0.38
+title: Redlands
+type: location
+loc_type: city
 ---
 
 Redlands is a charming small city in the foothills east of [San Bernardino](/northamerica/unitedstates/california/inlandempire/sanbernardino), known for its "Marmalade Mansions" -- roughly 300 restored Victorian-era homes built by early residents who became wealthy in the citrus industry. The tree-lined streets and historic downtown give Redlands a distinctly different feel from the rest of the Inland Empire.

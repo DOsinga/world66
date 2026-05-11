@@ -6,6 +6,7 @@ longitude: -100.3153
 done:
   location_cleanup: 2026-04-07
 score: 0.47
+loc_type: city
 ---
 
 Monterrey is Mexico's third-largest city and its industrial and financial powerhouse — founded in 1596 and named after the Spanish Viceroy Count Monterrey, it has always been more focused on commerce than culture. That said, the city has invested heavily in its public spaces and museums, and it's a genuinely interesting place to spend a few days.

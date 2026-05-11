@@ -6,6 +6,7 @@ longitude: 174.797538
 title: Devonport
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Devonport is a charming harbourside village on the North Shore peninsula, easily reached by a 12-minute ferry from downtown [Auckland](/australiaandpacific/newzealand/north_island/auckland_region/auckland). The main street is lined with Victorian buildings housing cafes, bookshops and small galleries, and the whole place has a relaxed, slightly old-fashioned feel that contrasts nicely with the city across the water.

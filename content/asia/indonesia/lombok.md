@@ -6,6 +6,7 @@ longitude: 116.358082
 done:
   location_cleanup: 2026-04-05
 score: 0.69
+loc_type: region
 ---
 
 Lombok has gotten more popular over the past few years. People who think

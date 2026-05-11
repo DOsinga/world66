@@ -6,6 +6,7 @@ longitude: 24.0192
 done:
   location_cleanup: 2026-04-07
 score: 0.74
+loc_type: city
 ---
 
 Hania (Chania) is widely considered the most beautiful city in Crete, and it's hard to argue otherwise. The old town is a near-perfect example of Venetian colonial architecture, with an entire Jewish quarter, a Turkish quarter, and Venetian mansions all compressed into a labyrinth of narrow streets around an old harbour. The harbour itself — with its lighthouse, Venetian shipyards, and the old mosque converted to a market — is where everyone ends up in the evenings.

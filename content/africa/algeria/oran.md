@@ -1,9 +1,13 @@
 ---
-title: Oran
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
 latitude: 35.704442
 longitude: -0.650298
 score: 0.42
+title: Oran
+type: location
+loc_type: city
 ---
 
 Oran is the most important city of the west of Algeria. With [Tlemcen](/africa/algeria/tlemcen) it is probably the most Moroccan of all Algerian cities. Oran's mahor claim to fame is the fact that it is the home of Rai music. Almost all great singers (Khaled, Cheb Mami) are from Oran.

@@ -1,10 +1,9 @@
 ---
-title: "Eating Out"
-type: section
-address: "20, Avenue Oujda, 35000 Taza"
-phone: "00212-3567-1227"
-price: "between 25 and 50 Dirhams"
-type: "Local"
+address: 20, Avenue Oujda, 35000 Taza
+phone: 00212-3567-1227
+price: between 25 and 50 Dirhams
+title: Eating Out
+type: poi
 ---
 
 While visiting the café is a common pastime of Moroccan men, going out to dinner to a restaurant (especially as a "tête-à-tête" of a couple) is not very common. In Morocco, the prefered place for enjoying a dinner is the home, in the circle of the family. Often friends or relatives are invited. So in smaller towns you will find mostly tourists and transient travellers at the restaurants. But in the last few years dining out has become more fashionable, especially for the youth in the larger cities. In Taza there are a few restaurants and cafés where you can have a nice, calm evening out, if you don't want to stay at the hotel.

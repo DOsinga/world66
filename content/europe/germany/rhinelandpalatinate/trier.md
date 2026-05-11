@@ -1,9 +1,13 @@
 ---
-title: Trier
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
 latitude: 49.759621
 longitude: 6.644188
 score: 0.61
+title: Trier
+type: location
+loc_type: city
 ---
 
 Trier is a 2000-year-old Roman city near Luxembourg, the oldest city in Germany! It was home to six Roman emperors and has many ruins including the impressive Porta Nigra, a four-story structure that was once part of the city’s walls. "Roma Secunda", the second Rome, was another name for Trier, and nowhere else in Germany are Roman times so vividly recalled as here.

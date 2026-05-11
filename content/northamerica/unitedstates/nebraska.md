@@ -6,6 +6,7 @@ longitude: -99.587382
 done:
   location_cleanup: 2026-04-05
 score: 0.32
+loc_type: region
 ---
 
 Welcome to the Great Plains. Nebraska is a long, flat, rural state rolling west from the Missouri River to the foothills of the Rockies, crossed by the **Platte**, the **Niobrara** and the broad brown Missouri itself. For most travellers it is a state to drive through on Interstate 80 between Chicago and Denver, which is a pity — the landscape is big, quiet, and far more varied than its reputation suggests, from the cottonwoods and bluffs of the Missouri in the east to the Sandhills grasslands in the middle to the wind-carved rock towers of the west.

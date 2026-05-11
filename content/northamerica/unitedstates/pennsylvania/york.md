@@ -6,6 +6,7 @@ longitude: -76.727699
 title: York
 type: location
 score: 0.38
+loc_type: city
 ---
 
 York was briefly the capital of the United States during the American Revolution, when the Continental Congress met here in 1777-1778 while Philadelphia was occupied by the British. The Articles of Confederation were adopted in York, and the town still takes pride in its colonial roots.

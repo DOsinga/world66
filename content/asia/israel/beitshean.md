@@ -6,6 +6,7 @@ longitude: 35.4973
 title: Beit Shean
 type: location
 score: 0.52
+loc_type: city
 ---
 
 Beit Shean has been continuously inhabited for seven thousand years, which makes most ancient sites look like newcomers. The tel — the mound of accumulated cities — rises beside the Roman lower city, and together they form one of the most impressive archaeological sites in Israel.

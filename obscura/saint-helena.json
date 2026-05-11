@@ -1,0 +1,33 @@
+[
+  {
+    "url": "/places/longwood-house-napoleon-exile",
+    "type": "Place",
+    "item-id": "5221",
+    "gtm-content-type": "Place",
+    "lat": "-15.950105",
+    "lng": "-5.683045",
+    "city": "Longwood",
+    "country": "Saint Helena",
+    "src": "https://img.atlasobscura.com/Z7etwuAC_cFwoLHqNk_XCxbKp4giHGD-MVPcXIMarhA/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81MmUy/YjRmOS1mZmUyLTQ2/OTgtYTdlMi00MjQ1/Njc1Mzc0MDNiN2U1/MDJiZmQwNzBjNTk0/YTNfR2V0dHlJbWFn/ZXMtODcwNDY4NjUw/LmpwZw.jpg",
+    "width": "4739",
+    "height": "3159",
+    "name": "Longwood House",
+    "description": "Napoleon\u2019s home in exile, decorated with poisonous wallpaper."
+  },
+  {
+    "url": "/places/jacobs-ladder-island-of-st-helena",
+    "type": "Place",
+    "item-id": "56193",
+    "gtm-content-type": "Place",
+    "lat": "-15.925826",
+    "lng": "-5.719421",
+    "city": "Jamestown",
+    "state": "Saint Helena",
+    "country": "Saint Helena",
+    "src": "https://img.atlasobscura.com/eSqaCC5pZedmo1CuFE61VBFZyw1Ebw3cUJ1LVm0HP-I/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82ZjRh/ZjI2MC0xNzY0LTRi/NzMtYjNhOS01NDVk/YjNjOGM5OTA2Yzcx/OTM0ZTA4NWFjOGYz/NGNfSmFjb2Inc19M/YWRkZXJfLV8xXygz/OTI3MjI4MzQyMCku/anBn.jpg",
+    "width": "1280",
+    "height": "853",
+    "name": "Jacob&#39;s Ladder",
+    "description": "A grueling 699-step stairway to a heavenly view of the island of Saint Helena."
+  }
+]

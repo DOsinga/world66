@@ -6,6 +6,7 @@ longitude: -76.659709
 title: Linthicum
 type: location
 score: 0.29
+loc_type: city
 ---
 
 Travel Guide

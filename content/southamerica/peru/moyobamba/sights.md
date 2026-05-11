@@ -1,8 +1,7 @@
 ---
-title: "Sights"
-type: section
-address: "Jr. Reyes Guerra #900"
-type: "Parks, Gardens and Zoos"
+address: 'Jr. Reyes Guerra #900'
+title: Sights
+type: poi
 ---
 
 Anyone interested in orchids must visit the Villena family in their greenhouse Viveros Agro Oriente. A walk down the street from there, one can see a nice view of the vistas overlooking the port on the Rio Mayo and beyond.

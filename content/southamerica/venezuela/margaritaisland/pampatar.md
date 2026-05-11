@@ -4,6 +4,7 @@ type: location
 latitude: 10.9957
 longitude: -63.8051
 score: 0.46
+loc_type: city
 ---
 
 Pampatar is a colonial town on the east coast, founded in the 1530s and named after the Guaiqueri word for "town of salt" -- a salt flat mine still operates nearby. The town is built around a deep, calm bay where fishing boats and yachts sit side by side.

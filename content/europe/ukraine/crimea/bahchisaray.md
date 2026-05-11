@@ -6,6 +6,7 @@ longitude: 33.881
 title: Bahchisaray
 type: location
 score: 0.45
+loc_type: city
 ---
 
 Bahchisaray — whose name means "palace of gardens" in Tatar — was the capital of the Crimean Khanate from the 15th to the 18th century. When Russia absorbed Crimea, it became a provincial backwater, but it never lost the character that centuries of Tatar rule had given it. Today it is a city of around 30,000 people, sitting at the heart of a wide agricultural valley.

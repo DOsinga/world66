@@ -6,6 +6,7 @@ longitude: 11.759175
 title: Tarquinia
 type: location
 score: 0.57
+loc_type: city
 ---
 
 A must for architecture lovers. Tarquinia was one of the most powerful Etruscan cities, not in the least because of its location nearby the sea. Main sights are the palaces, squares and tombs. The gothic Palazzo Vitelleschi will cost you nearly half a day when you take your time to marvel at the decorations and hire a guide to see the tombs in the underground section.

@@ -6,6 +6,7 @@ longitude: -66.750183
 done:
   location_cleanup: 2026-04-05
 score: 0.46
+loc_type: region
 ---
 
 Known as the "Picture Province", New Brunswick has a variety of attractions that contribute to this reputation.

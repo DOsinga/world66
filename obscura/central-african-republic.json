@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/places/notre-dame-of-bangui-cathedral",
+    "type": "Place",
+    "item-id": "43560",
+    "gtm-content-type": "Place",
+    "lat": "4.369718",
+    "lng": "18.57781",
+    "city": "Bangui",
+    "state": "Bangui",
+    "country": "Central African Republic",
+    "src": "https://img.atlasobscura.com/RF-JW9vqPfYU1lXPw3sYcTgk030tIAzStOmd9RJMic8/rs:fill:600:400:1/g:ce/c:4116:2744:nowe:63:835/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NTE5/Yjc0My0wNTg0LTQ3/OWYtOWEzZi05N2Rk/YTY4Zjc4OGMwOGZh/OTRiMzAwMDk1OTJh/ZmFfRmFjYWRlIG9m/IGEgY2F0aGVkcmFs/LCBOb3RyZSBEYW1l/IENhdGhlZHJhbCwg/QmFuZ3VpLCBDZW50/cmFsIEFmcmljYW4g/UmVwdWJsaWMuanBn.jpg",
+    "width": "4181",
+    "height": "4179",
+    "name": "Notre-Dame of Bangui Cathedral",
+    "description": "Amidst political unrest, this Roman Catholic Cathedral has helped organize peace talks."
+  },
+  {
+    "url": "/places/grande-mosquee-de-bangui",
+    "type": "Place",
+    "item-id": "43562",
+    "gtm-content-type": "Place",
+    "lat": "4.379164",
+    "lng": "18.538018",
+    "city": "Bangui",
+    "state": "Bangui",
+    "country": "Central African Republic",
+    "src": "https://img.atlasobscura.com/-gYLUypeP0WJmM_cQlmMb6PtXpuvyl5OGRYgsOZ2rXw/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mODYw/Y2YyMy1jZmM0LTRj/MWEtOTAxNC0zMDJh/NmRhNTc0NzdkM2Zi/ZWExYzIwZDk3MThi/ODNfTXVzbGltcyBs/ZWF2ZSB0aGUgR3Jh/bmQgTW9zcXVlIGlu/IHRoZSBQSzUgbmVp/Z2hib3Job29kIG9m/IEJhbmd1aSBhZnRl/ciBwZXJmb3JtaW5n/IHRoZSBGcmlkYXkg/bm9vbiBwcmF5ZXIu/anBn.jpg",
+    "width": "1024",
+    "height": "683",
+    "name": "Grande Mosqu\u00e9e de Bangui",
+    "description": "This mosque is an enduring symbol of Central African Republic&#39;s rich Muslim heritage."
+  }
+]

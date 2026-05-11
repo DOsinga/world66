@@ -6,6 +6,7 @@ longitude: -6.923804
 title: Temara
 type: location
 score: 0.41
+loc_type: city
 ---
 
 Temara is a coastal city directly south of [Rabat](/africa/morocco/rabat), essentially a southern suburb of the capital. Its main draw for visitors is Temara Beach, a long stretch of Atlantic sand popular with Rabatis on summer weekends. The beach can get crowded but has a relaxed atmosphere and a string of cafes along the promenade.

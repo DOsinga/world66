@@ -6,6 +6,7 @@ longitude: 48.074621
 title: Sareyn
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Sareyn is a small spa town in northwest Iran, about 29km west of [Ardebil](/asia/iran/ardebil). It sits at altitude in the Alborz foothills and is best known for its hot mineral springs, which draw visitors from across the region for hydrotherapy and relaxation.

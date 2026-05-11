@@ -6,6 +6,7 @@ longitude: 150.131724
 title: Narooma
 type: location
 score: 0.52
+loc_type: city
 ---
 
 Narooma sits on a narrow finger of land almost entirely surrounded by the Wagonga River estuary and the Pacific Ocean, on the New South Wales Sapphire Coast about 300 km south of Sydney. The Aboriginal name means "clear blue water," and the description holds: the waterways here are strikingly beautiful.

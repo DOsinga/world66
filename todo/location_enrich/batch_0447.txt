@@ -1,0 +1,5 @@
+europe/spain/canillas_de_aceituno
+europe/germany/bavaria/ansbach
+africa/tunisia/sfax
+northamerica/guatemala/guatemalacity
+asia/thailand/satun

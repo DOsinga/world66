@@ -3,4 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-There are several good beaches within range of the capital and many provide opportunities for snorkeling. However be aware of the possibility of undertows. Ask around to find out which beaches are safe. Some of the most beautiful beaches are in the Yoff area but you should choose carefully. The nicest of the small beaches near the capital are on N’Gor Island although getting there can be a hassle. The beaches are only a short canoe trip from the village of N’Gor (not far from Les Almadies) but be aware that crews competing for passengers can get aggressive and you might find yourself hustled to one boat while another crew tries to hustle you away to another.
+The best beaches are north of the city around N'Gor and the Almadies — small coves with fishing pirogues pulled up on the sand. N'Gor Island, a short canoe ride off the village, has the cleanest water and some snorkelling. The long beach at Yoff is good for walking but check locally before swimming — undertows here have caught people out. Further south, the beaches at Mbour and Saly are a longer run out of town but less busy.

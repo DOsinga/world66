@@ -6,6 +6,7 @@ longitude: 15.0706
 title: Noto
 type: location
 score: 0.67
+loc_type: city
 ---
 
 Noto is the jewel of Sicilian Baroque. Rebuilt entirely after the 1693 earthquake, the town is a masterpiece of unified urban design, all honey-coloured limestone, theatrical facades, and ornate balconies. It has been a UNESCO World Heritage Site since 2002.

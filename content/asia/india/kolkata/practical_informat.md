@@ -1,8 +1,7 @@
 ---
-title: "Practical Information in Kolkata"
-type: section
-type: "Tourist information"
-url: "www.indiandestination.com"
+title: Practical Information in Kolkata
+type: poi
+url: www.indiandestination.com
 ---
 
 **Looking for Car

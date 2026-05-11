@@ -6,6 +6,7 @@ longitude: -73.464458
 title: Longueuil
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Longueuil sits on the south shore of the St. Lawrence River, directly across from [Montréal](/northamerica/canada/quebec/montreal). Connected to the island by the Jacques-Cartier Bridge and a metro line, it functions as both a bedroom community and a destination in its own right.

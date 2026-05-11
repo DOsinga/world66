@@ -1,8 +1,7 @@
 ---
-title: "Things to Do"
-type: section
-type: "Landmarks"
-url: "www.nps.gov"
+title: Things to Do
+type: poi
+url: www.nps.gov
 ---
 
 Moab is really the heart of the Red Rock Southwest. Really. Look around you; it's everywhere. Not surprising that so many movies that intend on showing the Southwest are filmed around here. Two national parks, a nearby national forest, and huge chunks of BLM (Bureau of Land Management for you non-westerners, also derisively called "Bureau of Livestock and Mining" by the more ecologically minded) land for wandering make this one of the great spots in the southwest for outdoor recreation. But be warned: it's hot as hades in the summer, and that's when it's very crowded. Try the spring or fall to avoid the hordes. Still, hot or cold, it's a fascinating place. Mountain biking, river rafting, hiking, jeeping: it can all be done here.

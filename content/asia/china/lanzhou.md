@@ -1,11 +1,14 @@
 ---
-title: Lanzhou
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-19'
 latitude: 36.4744
 longitude: 103.7332
-done:
-  location_cleanup: 2026-04-07
 score: 0.41
+title: Lanzhou
+type: location
+loc_type: city
 ---
 
 *Asia > China > Lanzhou*

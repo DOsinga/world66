@@ -6,6 +6,7 @@ longitude: 44.711056
 title: Haghpat
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Haghpat (Հաղպատ, meaning "a huge wall") is a well known monastery in

@@ -1,0 +1,5 @@
+europe/hungary/bugac
+northamerica/unitedstates/california/deserts/palmsprings
+europe/france/east/lorraine/barleduc
+europe/austria/innsbruck
+northamerica/canada/ontario/mattawa

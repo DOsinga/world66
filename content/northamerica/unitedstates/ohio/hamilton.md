@@ -6,6 +6,7 @@ longitude: -84.5613
 title: Hamilton
 type: location
 score: 0.3
+loc_type: city
 ---
 
 Hamilton is a city in Butler County along the Great Miami River, about 30 miles north of [Cincinnati](/northamerica/unitedstates/ohio/cincinnati). Once a manufacturing hub that fell on hard times, it has been reinventing itself — the downtown has seen real investment in recent years, with new restaurants, murals, and a growing arts scene centered around the Fitton Center for Creative Arts.

@@ -1,0 +1,5 @@
+northamerica/canada/ontario/cambridge
+asia/india/westbengal/darjeeling
+europe/france/paris
+europe/ukraine/crimea/sudak
+australiaandpacific/australia/southaustralia/portadelaide

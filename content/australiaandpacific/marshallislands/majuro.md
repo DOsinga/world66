@@ -1,11 +1,14 @@
 ---
 done:
+  city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
 latitude: 7.090992
 longitude: 171.381635
+score: 0.47
 title: Majuro
 type: location
-score: 0.47
+loc_type: city
 ---
 
 Majuro is the capital atoll of the Marshall Islands, a long, narrow ring of coral islets enclosing a large lagoon in the central Pacific. Three of its islets — Delap, Uliga, and Darrit (known collectively as D-U-D) — form the urban centre, home to most of the country's population and its government buildings, shops, and services.

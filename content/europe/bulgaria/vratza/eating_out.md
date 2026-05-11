@@ -1,10 +1,9 @@
 ---
-title: "Eating Out"
-type: section
-address: "Vratzata defile"
-email: "chaika_hotel@abv.bg"
-phone: "+ 359 92 62 23 67"
-type: "Local"
+address: Vratzata defile
+email: chaika_hotel@abv.bg
+phone: + 359 92 62 23 67
+title: Eating Out
+type: poi
 ---
 
 Having a good meal in Vratza is not problem. In the city there are wide varieties of places to dine.

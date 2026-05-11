@@ -19,4 +19,4 @@ Ecuador packs an extraordinary amount of variety into a small country. Four very
 
 **The Galápagos Islands** are in a category of their own. Marine iguanas, giant tortoises, blue-footed boobies, and sea lions with no instinctive fear of humans make this one of the world's most remarkable wildlife destinations. Budget at minimum five days, and a week or more on a live-aboard if you can manage it.
 
-**The Amazon basin** is accessible from several points, with [Tena](/southamerica/ecuador/tena) and [Coca](/southamerica/ecuador/coca_puerto_franc) (Puerto Francisco de Orellana) the main gateways. Jungle lodges on the Napo River offer wildlife-spotting, community visits, and canopy walks in one of the most biodiverse regions on earth.
+**The Amazon basin** is accessible from several points, with [Tena](/southamerica/ecuador/tena) and [Coca](/southamerica/ecuador/coca_puerto_francisco_de_orellana) (Puerto Francisco de Orellana) the main gateways. Jungle lodges on the Napo River offer wildlife-spotting, community visits, and canopy walks in one of the most biodiverse regions on earth.

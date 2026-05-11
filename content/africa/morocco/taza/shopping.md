@@ -1,8 +1,7 @@
 ---
-title: "Shopping"
-type: section
-address: "Laharach, Derb Khtitila, Taza Haut, 35000"
-type: "Markets"
+address: Laharach, Derb Khtitila, Taza Haut, 35000
+title: Shopping
+type: poi
 ---
 
 An advantage of shopping in Taza is the fact, that it is not as overrun by tourists as the larger cities in Morocco. You can take your time and enjoy the calm and the ambiance of small town life.

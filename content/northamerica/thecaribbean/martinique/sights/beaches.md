@@ -1,21 +1,19 @@
 ---
-title: "Beaches"
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 14.6937
+longitude: -61.0618
+snippet: Secluded white and black sand beaches worth the walk
+tags:
+- beaches
+title: Beaches
 type: poi
-address: "Ste Anne and Le Précheur"
-type: "Palaces"
 ---
 
-Two famous beaches in Martinique:
+Martinique has two standout beaches for anyone willing to get slightly off the road.
 
-South:
+In the south, **Anse Trabaud** lies just before Sainte-Anne, reached by a five-kilometre dirt track (you will need a car or a lucky thumb). It is a long, quiet stretch of white sand with rolling waves and almost no one around -- one of the finest beaches in the Caribbean if you value solitude.
 
-Anse Trabaud, just before Ste Anne, on the left, by a five kms long path, need a car or by autostop. Very quiet white sand beach with waves, actually the paradise.
+In the north, **Anse Couleuvre** sits beyond Le Precheur at the very end of the coastal road, followed by a short 200-metre path through forest. This one has dramatic black volcanic sand, backed by jungle and facing open ocean. It feels like the edge of the world.
 
-North:
-
-Anse Couleuvre, after Le Précheur, at the extreme end of the road, then a 200 meters path. Also a very quiet black sand beach at the end of the world.
-
-**Contributors**
-January 07, 2005
-
-type: Palaces
+Both beaches are undeveloped -- bring water and something to eat.

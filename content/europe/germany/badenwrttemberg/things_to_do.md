@@ -1,5 +1,5 @@
 ---
-title: "Things to Do in Baden-Württemberg"
+title: "Things to Do"
 type: section
 ---
 

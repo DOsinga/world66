@@ -6,6 +6,7 @@ longitude: 25.6106
 done:
   location_cleanup: 2026-04-05
 score: 0.65
+loc_type: city
 ---
 
 Brasov sits at the foot of the Southern Carpathians, in the geographical centre of Romania — a medieval Saxon town with red-tiled roofs, Gothic spires, and forested mountains rising straight out of the edge of the old city. It is one of the most visited places in Romania, and with good reason: the historic centre is compact, walkable, and genuinely beautiful, and within an hour's drive you can be at Bran Castle, Rasnov fortress, or the ski slopes of Poiana Brasov.

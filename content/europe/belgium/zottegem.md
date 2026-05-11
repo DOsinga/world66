@@ -6,6 +6,7 @@ longitude: 3.8103
 title: Zottegem
 type: location
 score: 0.37
+loc_type: city
 ---
 
 Zottegem is a small town about 25 kilometres south of [Ghent](/europe/belgium/ghent) in East Flanders, at the northern edge of the Flemish Ardennes — the rolling hills that make this part of Belgium a favourite with road cyclists. The spring classics pass through here, and the surrounding lanes are excellent for riding year-round.

@@ -1,4 +1,0 @@
----
-title: "Shopping"
-type: section
----

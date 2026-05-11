@@ -6,6 +6,7 @@ longitude: 146.824
 title: Townsville
 type: location
 score: 0.5
+loc_type: city
 ---
 
 Townsville is North Queensland's largest city and one of the main gateways to the Great Barrier Reef. It sits on the coast beneath the granite bulk of Castle Hill, with Magnetic Island — a national-park island with koalas, bays, and walking trails — visible just offshore and reachable by a 20-minute ferry.

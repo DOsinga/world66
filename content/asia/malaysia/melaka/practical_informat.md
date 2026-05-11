@@ -1,8 +1,7 @@
 ---
-title: "Practical Information"
-type: section
-email: "webbmaster.v8@gmail.com"
-type: "Tourist information"
+email: webbmaster.v8@gmail.com
+title: Practical Information
+type: poi
 ---
 
 http://travel1001.blogspot.com

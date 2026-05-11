@@ -6,6 +6,7 @@ longitude: -78.3039
 title: Holden Beach
 type: location
 score: 0.46
+loc_type: city
 ---
 
 Holden Beach is a quiet family island on the southern coast of North Carolina, 45 minutes north of Myrtle Beach and 45 minutes south of [Wilmington](/northamerica/unitedstates/northcarolina/wilmington). Getting here the first time takes some navigating -- there are no major roads leading directly to the island. Take I-95 or I-40 to Highway 17, then follow the signs from the town of Shallotte. Stock up on supplies there before crossing the bridge to the island.

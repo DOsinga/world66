@@ -1,8 +1,18 @@
 ---
-title: "Windsurfing"
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 10.498
+longitude: -84.908
+snippet: World-class windsurfing with steady cross-shore winds
+tags:
+- things_to_do
+- outdoor
+title: Windsurfing on Lake Arenal
 type: poi
 ---
 
-This world-class sport has not lost any of its impetus as it’s grown in popularity. Those with a penchant for speed and water will not be disappointed when they take on winds of 30 to 45 miles per hour on Arenal Lake.   This man-made lake is found in the area of Tilarán. Framed by low green ridges, the blue lake is a Mecca for those with a need for speed.
+Lake Arenal, a man-made reservoir near the town of Tilarán, is one of the top windsurfing spots in the Americas. Steady thermal winds of 30 to 45 mph funnel through the gap between the Arenal Volcano and the Tilarán mountains from November through April, making conditions reliable and strong.
 
- Experienced local hotels and operators run their businesses on the lakeside and provide quality equipment as well as comfortable accommodation for those who don’t want to be too far away from the action. Lodges are numerous and range in prices from moderate to expensive.  Taking to the lake is merely one option. You can also brave the ocean’s waves while windsurfing and experience the salty winds at any of the beaches on either the Pacific or the Caribbean coast.
+The lake is framed by low green ridges and the water stays relatively flat, which suits both intermediate and advanced sailors. Several operators on the western shore rent equipment and offer lessons. The season peaks from December to March, when winds are most consistent.
+
+Beyond the lake, Costa Rica's Pacific coast — particularly spots around Bahía Salinas in Guanacaste — also draws windsurfers looking for ocean swells and open-water conditions.

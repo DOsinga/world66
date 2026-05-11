@@ -4,6 +4,7 @@ type: location
 latitude: 21.634065
 longitude: 87.582665
 score: 0.35
+loc_type: city
 ---
 
 *Asia > India > West Bengal > Shankarpur*

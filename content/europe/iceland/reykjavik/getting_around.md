@@ -3,10 +3,8 @@ title: "Getting Around"
 type: section
 ---
 
-Getting to Reykjavík from the International airport at Kelfavik is a breeze. The Fly Bus meets each flight to transport arriving passengers just outside the air terminal. The bus ride to town takes only 45 minutes though amazing lunar landscape. For those travellers leaving Iceland, the Fly Bus leaves Icelandair Hotel Loftleiðir 2 hours and 15 minutes before the departure of every flight. 
+The centre of Reykjavik is small enough to walk in twenty minutes end to end, and most of what you will want to do — Hallgrímskirkja, Harpa, the harbour, Tjörnin, the main bars and shops — is within that radius. Wear something windproof; the weather changes constantly.
 
-Long distance buses to all parts of Iceland leave from the Bus Terminal which is located within 15 minutes walking distance from Reykjavík downtown. 
+For anything further out, the city bus network (Strætó) is reliable and easy. Buy the Klappið app or pay 670 ISK in cash on board (drivers do not give change). A single ticket includes a 75-minute transfer. Taxis are plentiful and metered but expensive, and Uber does not operate. If you are heading out to the countryside, Reykjavik has plenty of car-rental desks at the airport and a few in town.
 
-The city centre, major sights and the clubs and bars are all within easy walking distance of each other, one of the best aspects of a visit to Reykjavik. 
-
-The Reykjavík Bus Service provides visitors with a pleasant and convenient way to reach the outer parts of the Capital by bus,whether you want to visit museums, dine out, go for a swim, visit the City's picturesque locations or simply enjoy the sights from a bus.
+The Flybus from Keflavík airport meets every flight and takes around 45 minutes to the central BSÍ terminal.

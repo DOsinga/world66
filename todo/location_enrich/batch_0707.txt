@@ -1,0 +1,5 @@
+africa/morocco/chaouen
+northamerica/unitedstates/california/santaclara
+asia/india/westbengal/digha
+europe/greece/skopelos
+asia/kazakhstan/kokshetau

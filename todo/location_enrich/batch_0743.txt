@@ -1,0 +1,5 @@
+europe/iceland/borgarnes
+northamerica/unitedstates/vermont/montpelier
+asia/indonesia/bali/seminyak
+europe/italy/abruzzo/vasto
+asia/pakistan/lahore

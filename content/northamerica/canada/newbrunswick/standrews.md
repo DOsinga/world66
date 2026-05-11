@@ -10,6 +10,7 @@ longitude: -67.0528
 score: 0.45
 title: St. Andrews
 type: location
+loc_type: city
 ---
 
 St. Andrews-by-the-Sea is one of the prettiest small towns in Atlantic Canada, perched on a peninsula at the mouth of Passamaquoddy Bay where the St. Croix River meets the Bay of Fundy. It was founded by Loyalists in 1783, and many of the original buildings survive — the town has more pre-1880 buildings than almost anywhere else in the Maritimes.

@@ -1,13 +1,16 @@
 ---
-title: "Juodkrante: A Hill of Witches"
+title: "Hill of Witches, Juodkranté"
 type: poi
-type: "general"
+snippet: "Forested dune slope covered in carved wooden mythological creatures"
+tags:
+- things_to_do
+- landmark
+latitude: 55.5347
+longitude: 21.1339
 ---
 
-The main tourist attraction in the town of Juodkrante (the second biggest town in Neringa, the first town you will drive into if driving from Klaipeda) is of course the Hill of Witches.
+The main attraction in Juodkranté — the second town on the Curonian Spit driving south from Klaipėda — is the Hill of Witches (Raganų kalnas, also called Jonas Hill). It's a tree-covered slope of old parabolic dunes, and since 1979 an open-air gallery of wooden sculptures depicting characters from Lithuanian mythology has lined the path through it.
 
-A Hill of Witches (also sometimes called Jonas (John) Hill) is a tree-covered slope of the old parabolic dunes. In 1979 an exposition of wooden sculptures of ancient Lithuanian mithological creatures was opened on this hill. Nowadays it has become very popular. It's almost as much visited as the Parnidis Dune in Nida.
+The figures are substantial — carved from oak, darkened by weather, depicting witches, devils, giants, and spirits drawn from Lithuanian folklore. New sculptures have been added over the decades and there are now around 80 pieces on the trail. The work is impressive as folk art and as a statement of cultural identity made during the Soviet period, when Lithuanian mythology was a way of maintaining something the authorities couldn't easily suppress.
 
-The exposition starts in the main street of Juodkrante and then you take a stairs and climb up this hill and later you slowly climb down in the other side of this dune. At the end there is a playground for kids and a souvenir shop for the older ones.
-
-type: general
+The trail starts from the main street in Juodkranté, climbs the dune by steps, and descends the other side. At the bottom you'll find a children's playground and a souvenir stand. The whole circuit takes about 45 minutes. Juodkranté is less visited than Nida at the far end of the spit, and the Hill of Witches draws almost as many people. Well worth a stop if you're driving the peninsula.

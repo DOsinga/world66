@@ -1,0 +1,15 @@
+content/asia/mongolia.md
+content/asia/myanmar.md
+content/asia/nepal.md
+content/asia/northkorea.md
+content/asia/oman.md
+content/asia/pakistan.md
+content/asia/papuanewguinea.md
+content/asia/philippines.md
+content/asia/qatar.md
+content/asia/saudiarabia.md
+content/asia/singapore.md
+content/asia/southkorea.md
+content/asia/srilanka.md
+content/asia/syria.md
+content/asia/taiwan.md

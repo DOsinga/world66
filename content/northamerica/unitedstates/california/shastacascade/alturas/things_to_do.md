@@ -1,7 +1,6 @@
 ---
-title: "Things to do in Alturas"
-type: section
-type: "general"
+title: Things to do in Alturas
+type: poi
 ---
 
 ### [Modoc County Historical Museum](/northamerica/unitedstates/california/shastacascade/alturas/thingstodo/modoccountyhistoricalmuseum)

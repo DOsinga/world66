@@ -6,6 +6,7 @@ longitude: -117.2356
 title: Goldfield
 type: location
 score: 0.35
+loc_type: city
 ---
 
 Goldfield is the best-preserved boomtown in Nevada, and one of the most atmospheric ghost towns in the American West. In 1906 it was the largest city in the state, with over 20,000 residents, dozens of saloons, and a stock exchange fueled by gold strikes. Today the population hovers around 250, but the town's grand stone and brick buildings still line the main street, stubbornly refusing to crumble.

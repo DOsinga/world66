@@ -1,7 +1,6 @@
 ---
-title: "Sights in Knock"
-type: section
-type: "Churches and Cathedrals"
+title: Sights in Knock
+type: poi
 ---
 
 Sights in Knock around Ireland's National Marian Shrine.

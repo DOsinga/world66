@@ -6,6 +6,7 @@ longitude: 8.305947
 title: Dego
 type: location
 score: 0.4
+loc_type: city
 ---
 
 An agricultural center on the slopes of the

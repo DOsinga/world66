@@ -1,0 +1,14 @@
+---
+address: Nile, opposite the Marriott Hotel, Zamalek
+latitude: 30.060278
+longitude: 31.221389
+opening_hours: Daily 5pm–2am
+tags:
+- eating_out
+- restaurant
+snippet: Egyptian cuisine on a moored Nile boat in Zamalek
+title: Pasha Restaurant
+type: poi
+---
+
+Dinner on a moored boat opposite the Marriott in Zamalek — Egyptian cuisine with views of the Nile. On the expensive side but the setting is genuinely memorable.

@@ -1,0 +1,5 @@
+southamerica/argentina/humahuaca
+northamerica/unitedstates/newjersey/cape_may
+africa/tunisia/matmata
+northamerica/unitedstates/indiana/indianapolis
+australiaandpacific/cookislands/atiu

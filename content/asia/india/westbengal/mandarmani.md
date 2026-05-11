@@ -4,6 +4,7 @@ type: location
 latitude: 21.666693
 longitude: 87.697716
 score: 0.41
+loc_type: region
 ---
 
 *Asia > India > West Bengal > Mandarmani*

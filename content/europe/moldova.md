@@ -9,7 +9,13 @@ image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Harold" title="User:Harold">Harold</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "2.6 million"
+  Cost Level: "Europe's cheapest — meal ~$3"
+  Mileștii Mici Wine Cellar: "200 km of tunnels"
+  Wine Per Capita: Among the highest in the world
 score: 0.37
+loc_type: country
 ---
 
 Moldova is one of Europe's least-visited countries and, for those who find their way here, one of its most rewarding surprises. Wedged between [Romania](/europe/romania) and Ukraine, this small landlocked republic has no mountains, no sea, and no famous monuments — yet it has the world's largest wine cellar, cave monasteries carved into limestone cliffs, and a capital that mixes faded Soviet grandeur with a lively café scene.

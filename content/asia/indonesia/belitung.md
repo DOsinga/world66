@@ -6,6 +6,7 @@ longitude: 107.66316
 done:
   location_cleanup: 2026-04-10
 score: 0.56
+loc_type: city
 ---
 
 Belitung (in English, Billiton) is an island in the Java Sea off the eastern coast of Sumatra, about 400 kilometres northeast of Jakarta. Long known for tin and pepper, it has more recently gained attention as a beach destination — its granite boulders, crystal-clear turquoise water, and relative lack of development make for a compelling combination.

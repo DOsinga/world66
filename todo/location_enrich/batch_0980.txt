@@ -1,0 +1,5 @@
+europe/netherlands/tilburg
+northamerica/unitedstates/indiana/crawfordsville
+southamerica/brazil/diamantina
+europe/italy/sardinia/castelsardo
+asia/nepal/bhaktapur

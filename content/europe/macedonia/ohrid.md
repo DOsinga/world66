@@ -6,6 +6,7 @@ longitude: 20.801772
 done:
   location_cleanup: 2026-04-05
 score: 0.65
+loc_type: city
 ---
 
 Ohrid is North Macedonia's most visited destination, and for good reason. The town sits on the northeastern shore of Lake Ohrid — one of Europe's oldest and deepest lakes, shared with Albania — and the whole area is a UNESCO World Heritage Site for both its cultural and natural value.

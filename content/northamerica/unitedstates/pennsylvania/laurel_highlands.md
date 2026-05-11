@@ -6,6 +6,7 @@ longitude: -79.35
 title: Laurel Highlands
 type: location
 score: 0.48
+loc_type: region
 ---
 
 The Laurel Highlands stretch across the Allegheny Mountains about an hour east of [Pittsburgh](/northamerica/unitedstates/pennsylvania/pittsburgh), offering some of Pennsylvania's best outdoor recreation and two of Frank Lloyd Wright's most celebrated houses.

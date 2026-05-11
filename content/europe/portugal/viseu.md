@@ -6,6 +6,7 @@ longitude: -7.913866
 done:
   location_cleanup: 2026-04-06
 score: 0.54
+loc_type: city
 ---
 
 Travel Guide

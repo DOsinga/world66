@@ -1,0 +1,5 @@
+europe/unitedkingdom/scotland/lochinver
+europe/croatia/omis
+asia/cyprus/larnaca
+asia/uzbekistan/nukus
+africa/ivorycoast/tienisiabli

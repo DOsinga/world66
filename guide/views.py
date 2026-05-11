@@ -18,7 +18,30 @@ SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 
 def home(request):
-    return render(request, "guide/home.html")
+    from .models import load_continents
+    continents_raw = load_continents()
+    continents = []
+    for cont, countries in continents_raw:
+        sorted_countries = sorted(
+            countries,
+            key=lambda l: float(l.meta.get('score', 0) or 0),
+            reverse=True,
+        )
+        # Use the continent's own image; fall back to top-scored country
+        img = _image_path(cont)
+        if not img:
+            for country in sorted_countries[:10]:
+                img = _image_path(country)
+                if img:
+                    break
+        image_url = f'/content-image/{img}' if img else None
+        continents.append({
+            'page': cont,
+            'countries': sorted_countries[:8],
+            'total': len(countries),
+            'image_url': image_url,
+        })
+    return render(request, "guide/home.html", {'continents': continents})
 
 
 def location_or_section(request, path):
@@ -47,13 +70,15 @@ def location_or_section(request, path):
     parent_nav = []
     parent_locations = []
     active_nav = None   # which nav item should be highlighted in the sidebar
-    if parent:
+    if parent and page.page_type != "neighbourhood":
         parent_nav, parent_locations, _ = parent.children()
+        parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
         if page.page_type == "poi" and not parent_nav and "/" in parent.path:
             # Parent is a section with no nav children — use grandparent (city)
             grandparent = load_page(parent.path.rsplit("/", 1)[0])
             if grandparent and grandparent.page_type == "location":
                 parent_nav, parent_locations, _ = grandparent.children()
+                parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
                 active_nav = parent   # mark the section as active in the sidebar
 
     # For a POI reached via a context nav page, build sidebar from that nav page
@@ -72,9 +97,18 @@ def location_or_section(request, path):
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
 
+    # Separate neighbourhood pages from nav pages so they render inline under
+    # the article body rather than in the sidebar sections list.
+    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
+    nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
+
     # Build the city tag index once so all tagged_pois() calls reuse it.
+    # Only build for actual city-level pages: nav pages (sections), or location
+    # pages that have sections but no child locations (cities, not countries/continents).
     city_tag_index = None
-    _cpath = _city_path if page.page_type in NAV_TYPES else (page.path if nav_pages else None)
+    _cpath = _city_path if page.page_type in NAV_TYPES else (
+        page.path if nav_pages and not locations else None
+    )
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
@@ -96,8 +130,8 @@ def location_or_section(request, path):
     path_parts = page.path.split("/")
     continent_slug = path_parts[0] if path_parts else None
     is_continent = len(path_parts) == 1 and page.page_type == "location"
-
-    markers = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+    continent_bounds = page.meta.get("map_bounds") if is_continent else None
+    page_map_bounds = page.meta.get("map_bounds") if not is_continent else None
 
     image_path = _image_path(page, branch)
     branch_qs = f'?branch={branch}' if branch else ''
@@ -105,11 +139,71 @@ def location_or_section(request, path):
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
 
+    # Attach image_url to each neighbourhood for card display
+    for nb in neighbourhoods:
+        nb_img = _image_path(nb, branch)
+        nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
+
+    # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
+    locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
+    for loc in locations:
+        loc_img = _image_path(loc, branch)
+        loc.image_url = f'/content-image/{loc_img}{branch_qs}' if loc_img else None
+        loc.card_children = []
+        loc.card_children_total = 0
+        if not loc.image_url:
+            child_navs, child_locs, child_pois = loc.children()
+            scored_locs = sorted(child_locs, key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True)
+            # Inherit image from highest-scoring child that has one
+            for cl in scored_locs:
+                cl_img = _image_path(cl, branch)
+                if cl_img:
+                    loc.image_url = f'/content-image/{cl_img}{branch_qs}'
+                    loc.card_children = scored_locs[:5]
+                    loc.card_children_total = len(scored_locs)
+                    break
+            # If still no image, build word cloud
+            if not loc.image_url:
+                children = (child_locs + child_pois)[:25]
+                if len(children) >= 4:
+                    top = max(children, key=lambda p: float(p.meta.get('score', 0) or 0))
+                    rest = [p.title for p in children if p is not top][:24]
+                    mid = len(rest) // 2
+                    loc.word_cloud_center = top.title
+                    loc.word_cloud_top = rest[:mid]
+                    loc.word_cloud_bottom = rest[mid:]
+                else:
+                    loc.word_cloud_center = loc.title
+                    loc.word_cloud_top = []
+                    loc.word_cloud_bottom = [p.title for p in children]
+    top_locations = locations[:9]
+    more_locations = sorted(locations, key=lambda loc: loc.title)
+
+    # Inspiration image strip for section pages — up to 12 POI images
+    poi_images = []
+    if page.page_type in NAV_TYPES:
+        for poi in pois:
+            img_path = _image_path(poi, branch)
+            if img_path:
+                href = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
+                poi_images.append({'url': f'/content-image/{img_path}{branch_qs}', 'title': poi.title, 'href': href})
+            if len(poi_images) >= 12:
+                break
+
+    # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
+    markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
+    markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+
+    breadcrumbs = page.breadcrumbs()
+
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
         "sections": nav_pages,           # child nav pages of current page (location sidebar)
         "locations": locations,
+        "top_locations": top_locations,
+        "more_locations": more_locations,
+        "neighbourhood_items": neighbourhoods,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
@@ -118,12 +212,15 @@ def location_or_section(request, path):
         "context_nav": context_nav,
         "nav_siblings": nav_siblings,
         "body_html": body_html,
-        "breadcrumbs": page.breadcrumbs(),
+        "breadcrumbs": breadcrumbs,
         "lat": lat,
         "lng": lng,
         "continent_slug": continent_slug,
         "is_continent": is_continent,
+        "continent_bounds": mark_safe(json.dumps(continent_bounds)) if continent_bounds else "null",
+        "page_map_bounds": mark_safe(json.dumps(page_map_bounds)) if page_map_bounds else "null",
         "markers_json": mark_safe(json.dumps(markers)),
+        "markers_full_json": mark_safe(json.dumps(markers_full)),
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
@@ -131,6 +228,7 @@ def location_or_section(request, path):
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
+        "poi_images": poi_images,
     })
 
 
@@ -189,7 +287,7 @@ def tag_index(request, tag):
     return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
 
 
-_SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks", "things_to_do"}
+_SIGHT_SLUGS = {"sights", "museums", "attractions", "landmarks", "things_to_do"}
 
 
 def _marker_from_page(page, highlight=False):
@@ -197,7 +295,8 @@ def _marker_from_page(page, highlight=False):
     lng = _safe_float(page.meta.get("longitude"))
     if lat is not None and lng is not None:
         return {"lat": lat, "lng": lng, "name": page.title,
-                "url": page.get_absolute_url(), "highlight": highlight}
+                "url": page.get_absolute_url(), "highlight": highlight,
+                "score": float(page.meta.get("score", 0) or 0)}
     return None
 
 
@@ -213,15 +312,25 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     for loc in locations:
         add(_marker_from_page(loc))
 
+    page_is_sight = page.slug in _SIGHT_SLUGS
     for poi in pois:
-        add(_marker_from_page(poi))
-
-    for nav in nav_pages:
-        if nav.page_type == "section_group":
+        poi_tags = set(poi.meta.get("tags") or [])
+        if page.page_type == "location" and not poi_tags & _SIGHT_SLUGS:
             continue
-        is_sight = nav.slug in _SIGHT_SLUGS
-        for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
-            add(_marker_from_page(poi, highlight=is_sight))
+        add(_marker_from_page(poi, highlight=page_is_sight))
+
+    # Only collect POIs from nav sections when there are no child locations.
+    # On continent/country/region pages the nav sections span the whole
+    # hierarchy and would pull in POIs from cities across the entire region.
+    # On city pages, restrict to sightseeing sections only so the map stays focused.
+    if not locations:
+        for nav in nav_pages:
+            if nav.page_type == "section_group":
+                continue
+            if nav.slug not in _SIGHT_SLUGS:
+                continue
+            for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
+                add(_marker_from_page(poi, highlight=True))
 
     return markers
 
@@ -279,6 +388,55 @@ def _safe_float(value):
         return None
 
 
+_CONTINENT_SLUGS = {
+    'europe', 'northamerica', 'southamerica', 'asia', 'africa',
+    'australiaandpacific', 'middleeast', 'centralamerica', 'caribbean',
+}
+
+
+def _display_title_from_path(url_path):
+    '''europe/ireland/cork/bars_and_cafes → "Cork - Bars and Cafes"'''
+    parts = url_path.split('/')
+    # Strip continent + country prefix so we start from region/city level
+    if parts and parts[0] in _CONTINENT_SLUGS and len(parts) > 2:
+        parts = parts[2:]
+    return ' - '.join(p.replace('_', ' ').title() for p in parts)
+
+
+def _get_file_diffs(branch):
+    '''Run git diff once; return per-file list of up to 4 changed lines (+ added, - removed).'''
+    result = subprocess.run(
+        ['git', 'diff', '--unified=0', f'origin/main...{branch}', '--', 'content/'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    file_diffs = {}   # filepath → {'added': [...], 'removed': [...], 'more': bool}
+    cur = None
+
+    for raw in result.stdout.splitlines():
+        if raw.startswith('+++ '):
+            cur = raw[6:] if raw.startswith('+++ b/') else None  # None = deleted file
+            if cur and cur not in file_diffs:
+                file_diffs[cur] = {'added': [], 'removed': [], 'more': False}
+        elif cur:
+            if raw.startswith('+'):
+                sign, text = '+', raw[1:].strip()
+            elif raw.startswith('-') and not raw.startswith('---'):
+                sign, text = '-', raw[1:].strip()
+            else:
+                continue
+            # Skip YAML fence lines and empty
+            if not text or text == '---':
+                continue
+            bucket = file_diffs[cur]['added' if sign == '+' else 'removed']
+            if len(bucket) < 2:
+                bucket.append(text)
+            else:
+                file_diffs[cur]['more'] = True
+
+    return file_diffs
+
+
 def review(request):
     '''Show all pages changed on a branch vs origin/main.'''
     branch = request.GET.get('branch', 'HEAD')
@@ -291,30 +449,39 @@ def review(request):
     if result.returncode != 0:
         return render(request, 'guide/review.html', {'error': result.stderr.strip() or 'git log failed', 'branch': branch})
 
-    pages = _parse_review_log(result.stdout)
+    del_result = subprocess.run(
+        ['git', 'diff', f'origin/main...{branch}', '--name-only', '--diff-filter=D'],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    deleted_files = set(del_result.stdout.splitlines())
+    file_diffs = _get_file_diffs(branch)
+
+    pages = _parse_review_log(result.stdout, deleted_files, file_diffs)
     return render(request, 'guide/review.html', {'pages': pages, 'error': None, 'branch': branch})
 
 
-def _parse_review_log(output):
-    pages = {}  # url_path → dict, deduplicated
-    current_msg = ''
+def _parse_review_log(output, deleted_files=None, file_diffs=None):
+    deleted_files = deleted_files or set()
+    file_diffs = file_diffs or {}
+    pages = {}
     for line in output.splitlines():
-        if line.startswith('COMMIT: '):
-            current_msg = line[len('COMMIT: '):]
-        elif line.startswith('content/') and line.endswith('.md'):
-            url_path = _file_to_url_path(line)
-            if url_path not in pages:
-                page = load_page(url_path)
-                pages[url_path] = {
-                    'url_path': url_path,
-                    'title': page.title if page else url_path,
-                    'commits': [],
-                }
-            entry = pages[url_path]
-            if current_msg and len(entry['commits']) < 3 and current_msg not in entry['commits']:
-                entry['commits'].append(current_msg)
-    for entry in pages.values():
-        entry['commits'].reverse()
+        if not line.startswith('content/') or not line.endswith('.md'):
+            continue
+        raw = line.rstrip()
+        url_path = _file_to_url_path(raw)
+        if url_path in pages:
+            continue
+        is_deleted = raw in deleted_files
+        diff = file_diffs.get(raw, {})
+        pages[url_path] = {
+            'url_path': url_path,
+            'title': _display_title_from_path(url_path),
+            'deleted': is_deleted,
+            'added': diff.get('added', []),
+            'removed': diff.get('removed', []),
+            'more': diff.get('more', False),
+        }
     return list(pages.values())
 
 

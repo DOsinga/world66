@@ -10,7 +10,13 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Lao</a> from Bulgaria
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "2.1 million"
+  Budget Meal: "~$3–4"
+  Lake Ohrid: "1.4 million years old"
+  Orthodox Churches: "Over 1,000"
 score: 0.57
+loc_type: country
 ---
 
 Macedonia is a landlocked country in the heart of the Balkan. It is bordered by [Bulgaria](../bulgaria) , Serbia , [Greece](../greece) and [Albania](../albania) . It is easiest to reach from Greece or Bulgaria. 

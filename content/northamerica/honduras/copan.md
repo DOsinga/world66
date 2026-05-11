@@ -6,6 +6,7 @@ longitude: -89.1416
 title: Copán
 type: location
 score: 0.58
+loc_type: city
 ---
 
 Copán is one of the great Mayan cities, and arguably the most artistically accomplished. While [Tikal](/northamerica/guatemala/tikal) in Guatemala may be larger and [Chichén Itzá](/northamerica/mexico/chichenitza) more famous, Copán has the finest sculpture in the Mayan world: 21 stone stelae carved with extraordinary detail, each a portrait monument to a ruling king. The hieroglyphic stairway — the longest known Mayan inscription — is here too.

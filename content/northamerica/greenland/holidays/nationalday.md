@@ -1,7 +1,12 @@
 ---
-title: "National Day"
+category: Festival
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 64.1836
+longitude: -51.7214
+snippet: Summer solstice celebration of Greenlandic culture and identity
+title: National Day
 type: poi
-category: "Festival"
 ---
 
 The Greenlandic National Day falls on June 21st — the summer solstice — and is called Ullortuneq, meaning "The Longest Day." It is celebrated across the country with cultural activities, traditional music and dance performances, communal outdoor feasting on Greenlandic specialities, and a festive atmosphere that draws whole communities together.

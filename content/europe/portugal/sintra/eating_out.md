@@ -1,7 +1,6 @@
 ---
-title: "Eating Out"
-type: section
-type: "Portuguese"
+title: Eating Out
+type: poi
 ---
 
 There's a good choice of restaurants where to eat in and around

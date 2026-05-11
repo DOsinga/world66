@@ -6,6 +6,7 @@ longitude: 15.106542
 title: Sebha
 type: location
 score: 0.19
+loc_type: city
 ---
 
 Sebha is the main town of the Fezzan, the vast desert region that makes up southwestern [Libya](/africa/libya). It serves as a base for exploring the Sahara and as a stopping point on the route between [Ghadhames](/africa/libya/ghadhames) and the south, towards [Chad](/africa/chad) and [Niger](/africa/niger).

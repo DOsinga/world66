@@ -8,7 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:TCHAD_(CHAD)_2007_-_TEMPOR
 image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/9816248@N03">Jerry
   "Woody"</a>
+quick_facts:
+  Population: "18 million"
+  Languages: "100+"
+  Highest Saharan Peak: "Emi Koussi, 3,445 m"
+  Lake Chad: Shrunk 90% since 1960s
 score: 0.18
+loc_type: country
 ---
 
 Chad is one of the most difficult countries in Africa to visit and one of the most rewarding. It is a vast, landlocked nation stretching from the Sahara Desert in the north to tropical savanna in the south, and it contains landscapes found nowhere else on earth.

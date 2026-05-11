@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/orangecounty/irvine
+europe/italy/campania/ischia/forio
+africa/capeverde/so_filipe
+europe/germany/saxony/dresden
+asia/brunei/seria

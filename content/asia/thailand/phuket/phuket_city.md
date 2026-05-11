@@ -6,6 +6,7 @@ longitude: 98.3892
 title: Phuket City
 type: location
 score: 0.72
+loc_type: city
 ---
 
 Most visitors to [Phuket](/asia/thailand/phuket) head straight for the beaches on the western coast and never see the island's actual capital. Their loss. Phuket City (called Phuket Town until 2005) is the most characterful settlement on the island — a compact old town of Sino-Portuguese shophouses, Chinese shrines, and street art, with a food scene that runs circles around the tourist strips.

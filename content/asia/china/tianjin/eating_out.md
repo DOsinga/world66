@@ -3,10 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Y Y Beer House offers very tastey authentic Thai cuisine at reasonable prices. The restaurant staff are very friendly & speak english. On the weekends the restaurant is very busy & booking may be necessary. The restaurant is hidden at the back of the International Nanjng Road Building. Definately worth a visit.
-
-Open 11am till 2am 7 days a week
-
-Telephone 13752334520
-
-No 3 Aomen Road Heping District Tianjin
+Tianjin's signature dishes are **goubuli baozi**, pork-and-broth buns with 18 pleats that the city has obsessed over since 1858 — the original Goubuli restaurant on Shandong Road is still going, if touristy. The other essential is **jianbing guozi**, the rolled breakfast crêpe with egg, crispy cruller and bean paste — best from a good street cart. **Food Street** (Nanshi Shipin Jie), an enclosed mall of food stalls and regional restaurants, is a good one-stop if you're short on time. For seafood, head towards Binhai — the harbour puts it all on a plate.

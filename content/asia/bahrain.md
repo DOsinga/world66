@@ -9,9 +9,15 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Tree_of_Life,_Bahrain_-_ജീവന്റെ_മരം,_ബഹ്റൈൻ_02.JPG
 latitude: 26.0667
 longitude: 50.5577
+quick_facts:
+  Population: "1.5 million"
+  Alcohol: "Available (rare for the Gulf)"
+  Island Nation: "33 islands connected by causeways"
+  Tree of Life: "400+ years old"
 title: Bahrain
 type: location
 score: 0.54
+loc_type: country
 ---
 
 Bahrain is a tiny island kingdom in the Persian Gulf, and it punches well above its weight. Just 780 square kilometers of mostly flat desert, connected to Saudi Arabia by the 25-kilometer King Fahad Causeway, this is one of the most cosmopolitan and historically rich corners of the Middle East. The ancient Dilmun civilization flourished here five thousand years ago, and Bahrain was the center of the Gulf pearl trade for centuries before oil changed everything.

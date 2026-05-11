@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/places/hand-of-timba",
+    "type": "Place",
+    "item-id": "43751",
+    "gtm-content-type": "Place",
+    "lat": "11.857161",
+    "lng": "-15.580687",
+    "city": "Bissau",
+    "state": "Bissau",
+    "country": "Guinea-Bissau",
+    "src": "https://img.atlasobscura.com/xEkiIYV_VRSu_LkVX4bQTzA6ySFvHIwSAudn6SK9_Mk/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hZThi/ODU1MjAxMjg3OTY3/MmFfTWVuIGNoYXQg/aW4gZnJvbnQgb2Yg/X3RoZSBIYW5kIG9m/IFRpbWJhXyBtb251/bWVudCAuanBn.jpg",
+    "width": "1024",
+    "height": "683",
+    "name": "Hand of Timba",
+    "description": "This monument memorializes a violent massacre where colonial police killed 50 striking dockworkers."
+  },
+  {
+    "url": "/places/presidential-palace-guinea-bissau",
+    "type": "Place",
+    "item-id": "45375",
+    "gtm-content-type": "Place",
+    "lat": "11.86387",
+    "lng": "-15.584911",
+    "city": "Bissau",
+    "state": "Bissau",
+    "country": "Guinea-Bissau",
+    "src": "https://img.atlasobscura.com/a0XsGsty9WwOZT-jAESZe9Leuqj2-eyDrUElRmTMdHI/rs:fill:600:400:1/g:ce/c:5603:3735:nowe:328:1/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85Njk5/OTQ1Ni0wZWE5LTQ4/ZGQtOGYxNy02MDYy/YzU5OWMyNzc0M2Y0/MTA5NTdlY2NjOTc1/MzNfUmVwdWJsaWNh/biBQYWxhY2UsIEJp/c3NhdSwgR3VpbmVh/IEJpc3NhdSwgV2Vz/dCBBZnJpY2EsIEFm/cmljYSAtIEltYWdl/IElEOiBNRkdZTlQu/anBn.jpg",
+    "width": "7360",
+    "height": "4912",
+    "name": "Presidential Palace",
+    "description": "Built by Portuguese colonizers, the palace is now the seat of power for the independent nation."
+  }
+]

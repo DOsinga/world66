@@ -1,7 +1,6 @@
 ---
-title: "Things to do in Krasnoyarsk region"
-type: section
-type: "Other"
+title: Things to do in Krasnoyarsk region
+type: poi
 ---
 
 Krasnoyarsk region offers many interesting options for those who prefer active tourism, who loves nature.

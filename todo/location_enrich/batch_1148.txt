@@ -1,0 +1,5 @@
+asia/india/kerala/kollam
+europe/germany/northrhinewestphalia/bonn
+northamerica/mexico/todos_santos
+asia/china/shandong_province/qingdao
+europe/spain/andalucia/aracena

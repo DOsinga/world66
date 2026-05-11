@@ -6,6 +6,7 @@ longitude: 41.229979
 done:
   location_cleanup: 2026-04-05
 score: 0.4
+loc_type: city
 ---
 
 Abkhazia is a breakaway region on Georgia's Black Sea coast, bordering Russia to the north. It declared independence from Georgia in the early 1990s following a brutal civil war, and has been under Russian protection since. Georgia and most of the international community consider it Georgian territory under Russian occupation; Russia and a handful of other states recognise it as independent.

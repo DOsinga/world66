@@ -1,0 +1,5 @@
+europe/unitedkingdom/scotland/new_aberdour
+asia/indonesia/java/surabaya
+asia/india/maharashtra/karnala
+europe/romania/vatradornei
+europe/austria/stanton

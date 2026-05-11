@@ -6,6 +6,7 @@ longitude: 126.4983
 title: Jeju Island
 type: location
 score: 0.71
+loc_type: city
 ---
 
 Jeju Island (Jejudo) is South Korea's largest island, a volcanic landmass about 100 km off the southwest coast of the mainland. It is the country's most popular domestic holiday destination — particularly for honeymooners — and was designated a UNESCO World Heritage Site for its volcanic landscape. The island has a unique history, dialect, architecture, and tradition that set it apart from the mainland.

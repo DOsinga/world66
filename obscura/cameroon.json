@@ -1,0 +1,50 @@
+[
+  {
+    "url": "/places/lake-nyos-the-deadliest-lake-in-the-world",
+    "type": "Place",
+    "item-id": "3122",
+    "gtm-content-type": "Place",
+    "lat": "6.43782",
+    "lng": "10.297876",
+    "city": "Menchum",
+    "state": "Northwest",
+    "country": "Cameroon",
+    "src": "https://img.atlasobscura.com/4_991nczvaOavO_Ki2F9LUNNM_ONnXDUmIxJZRdsObA/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jZmZk/OTcxNmU4YjFkMGE3/ZmJkNjIwMmY2MjY3/M2Y5MGZlYTM3NWM3/LmpwZw.jpg",
+    "width": "640",
+    "height": "428",
+    "name": "Lake Nyos",
+    "description": "Deadliest lake in the world suffocated over 1,746 people in one night."
+  },
+  {
+    "url": "/places/man-woman-lakes",
+    "type": "Place",
+    "item-id": "1284",
+    "gtm-content-type": "Place",
+    "lat": "5.323943",
+    "lng": "10.243189",
+    "city": "Hauts Plateaux",
+    "state": "West",
+    "country": "Cameroon",
+    "src": "https://img.atlasobscura.com/P8lulM5Luh5ci7_wj1ks3MqnAf-O0WNaYNX8qaJZH5Y/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9tYW4t/bGFrZS5KUEc.jpg",
+    "width": "1024",
+    "height": "768",
+    "name": "Man &amp; Woman Lakes",
+    "description": "Spirits from these lakes are said to produce the local weather and odd phenomena as they bicker between themselves."
+  },
+  {
+    "url": "/places/slave-port-of-bimbia",
+    "type": "Place",
+    "item-id": "46723",
+    "gtm-content-type": "Place",
+    "lat": "3.959896",
+    "lng": "9.252491",
+    "city": "Bimbia",
+    "state": "Southwest",
+    "country": "Cameroon",
+    "src": "https://img.atlasobscura.com/A0rPL3Grpfa7iNtKH8PYxi4kSDXyRQgXECIFs1uUzDA/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zNDBm/Yzc1OC05OWMzLTQy/MzgtYTkwMS0zZDhh/ZjdmODMwNTE3ZjVh/ZDlhYjI5NzQ4OGRj/NzRfODE2NDU5MzMx/M18wZGU1Y2IwMjk3/X2suanBn.jpg",
+    "width": "2048",
+    "height": "1536",
+    "name": "The Slave Port of Bimbia",
+    "description": "Buried deep in the forest near Limbe, this little-known slave port became the point of no return for 10 percent of enslaved Africans."
+  }
+]

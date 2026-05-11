@@ -1,12 +1,11 @@
 ---
-title: "Shopping"
-type: section
-address: "Rua Arco do Teixeira, 2"
-email: "info@lojadoarco.com"
-type: "Music"
-url: "www.lojadoarco.com"
+address: Rua Arco do Teixeira, 2
+email: info@lojadoarco.com
 latitude: -8.017802
 longitude: -34.871615
+title: Shopping
+type: poi
+url: www.lojadoarco.com
 ---
 
 At **Sintra’s Historical Center **can be found a number of very nice

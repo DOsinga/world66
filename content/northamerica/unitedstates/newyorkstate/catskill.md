@@ -10,6 +10,7 @@ longitude: -73.8646
 score: 0.45
 title: Catskill
 type: location
+loc_type: city
 ---
 
 Catskill is a small village on the west bank of the Hudson River that serves as the gateway to the Catskill Mountains. It was once the landing point for travellers heading into the mountains by stagecoach, and that role has not changed much — most people still pass through on their way to hiking, skiing, or a quiet weekend in the hills.

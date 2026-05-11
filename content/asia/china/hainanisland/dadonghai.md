@@ -6,6 +6,7 @@ longitude: 109.517611
 title: Dadonghai
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Dadonghai is a compact beach resort about 3km south-east of [Sanya](/asia/china/hainanisland/sanya) — ten minutes by minibus, or a pleasant hour's walk along the coast. It draws a younger, more budget-conscious crowd than Yalong Bay, and has a scrappier, more lived-in feel for it.

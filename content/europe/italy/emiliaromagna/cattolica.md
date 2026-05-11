@@ -6,6 +6,7 @@ longitude: 12.744151
 title: Cattolica
 type: location
 score: 0.55
+loc_type: city
 ---
 
 Built in a small bay, Cattolica is favoured by a mild climate perfect for a relaxing holiday. The ancient origin of its port is testified by a paleontological site on the sea floor.

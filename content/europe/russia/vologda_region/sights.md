@@ -1,7 +1,6 @@
 ---
-title: "Sights in Vologda Region"
-type: section
-type: "Monasteries"
+title: Sights in Vologda Region
+type: poi
 ---
 
 Vologda region offers many interesting places to visit

@@ -3,20 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Traditional Chinese cuisine is only one of the many cuisines one can taste in Shanghai. When you don't want to make the effort to go to a restaurant, grab a bowl of noodles at one of the food stalls at the Bund and let the world (or the seventeen million inhabitants to start with) pass by. Local food features vegetable and sea food dishes with stew-in-brown-soy-bean and stir-fry-in-vegetable-oil as the main cooking method. Shanghai cuisine, a special hybrid, presenting interesting dishes, especially exotic seafood. Fish and shrimps are considered basic and if possible eels, carp and crab will appear as well. Shanghai is also famous for its sweets, including glutinous rice cakes, steamed bread filled with meat (baozi), dough sticks, French pastries, fruit pies and sweets. 
-
-**general**
-
-**Gong Fa Snakes Restaurant **
-
-
-
-address: Shunchang Road
-
-tel: 21-53825493
-
-## Categories
-
-[general](/asia/china/shanghai/eatingout?subsection=general)
-
-[Chinese & Local](/asia/china/shanghai/eatingout?subsection=Chinese%20%26%20Local)
+Shanghai eats well at every level. Local Shanghainese cooking — *benbang cai* — runs to sweet, soy-rich braises and steamed things: *xiaolongbao* (soup-filled dumplings), *shengjianbao* (pan-fried buns with crisp bottoms), drunken crab in autumn, red-braised pork belly, scallion-oil noodles, and freshwater fish with ginger and rice wine. Beyond that, the city is the easiest place in China to find serious Sichuan, Cantonese, Yunnan, Xinjiang, Japanese, Korean and modern Italian. Street food has been pushed indoors but lives on in food halls and morning markets. For *xiaolongbao*, Jia Jia Tang Bao (Huanghe Lu) and Lin Long Fang are reliably excellent; for old-school local atmosphere, Lao Zheng Xing or Old Jesse.

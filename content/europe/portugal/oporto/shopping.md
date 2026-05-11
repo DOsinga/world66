@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Porto"
+title: "Shopping"
 type: section
 ---
 

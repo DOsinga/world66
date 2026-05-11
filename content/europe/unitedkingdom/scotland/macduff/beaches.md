@@ -1,9 +1,6 @@
 ---
-title: "Beaches in Macduff"
+title: "Beaches"
 type: section
 ---
 
-Nice beach at the mouth of the Deveron river when the tide is out. Very secluded beach east of Tarlair pool if you're prepared to get yourself up and over the hill by-passing the 13th hole of the golf course. Otherwise make your way to the beach at Banff links about 2 mile west.
-
-**Contributors**
-February 07, 2006
+The beach at the mouth of the Deveron river emerges at low tide and is a pleasant short walk from the centre of town. East of Tarlair pool there is a more secluded strip, accessible only by scrambling up and over the hill around the 13th hole of the golf course. For something easier, the long sweep of Banff Links is about two miles west across the bridge.

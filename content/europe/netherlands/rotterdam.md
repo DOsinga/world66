@@ -1,11 +1,18 @@
 ---
-title: Rotterdam
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
+  poi_cleanup: '2026-04-19'
+image: rotterdam.jpg
+image_attribution: Martin Falbisoner
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:AIDAperla_in_Rotterdam_-_September_2019.jpg
 latitude: 51.9225
 longitude: 4.4792
-done:
-  location_cleanup: 2026-04-02
 score: 0.6
+title: Rotterdam
+type: location
+loc_type: city
 ---
 
 Rotterdam is the Netherlands' second city and its most architecturally daring. Levelled by German bombing in 1940, it rebuilt itself as a modernist experiment -- a skyline of bold towers, avant-garde housing, and bridges that have made it a pilgrimage site for architecture fans worldwide.

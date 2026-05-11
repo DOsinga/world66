@@ -1,16 +1,10 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**[Enjoy a Real Irish Pub Experience](/europe/ireland/dublin/day_trips) [with Rural Pub Tours](/europe/ireland/dublin/day_trips)** *No matter how short your visit to Dublin is, you can now have a taste of the country life. Take some time out to sit back and relax in our comfortable air conditioned mini buses, admire the unforgettable views as we make our way out of the city and over the Dublin & Wicklow mountains down into the Garden of Ireland making frequent stops at some of Ireland's most prestigious pubs. *
+Dublin's must-sees are compact and walkable. **Trinity College** and the Book of Kells, **Dublin Castle**, **St Patrick's Cathedral**, and **Kilmainham Gaol** are the historical core. The **National Museum** (archaeology) and the **National Gallery** are both free and excellent. On the south side, **St Stephen's Green** and Merrion Square give you the Georgian Dublin townhouse squares that the city is famous for.
 
-*Set in some of the most beautiful surroundings you will visit Ireland's most famous pubs, such as Fitzgerald's of Avoca (as featured in Ballykissangel), [Johnnie fox's](/europe/ireland/dublin/nightlife_and_ente), The Meetings Of The Waters and many more.*
+Literary pilgrims will find plenty to do: the **James Joyce Centre** in the north inner city, the **Joyce Tower** at Sandycove, **Sweny's Pharmacy** (where Bloom buys lemon soap in *Ulysses*, still selling it), and the **Dublin Writers Museum**.
 
-*Relish the experience of drinking [Guinness](/europe/ireland/dublin/bars_and_cafes) by an open fire, whilst listening to Traditional Live Music or chatting with the locals at the bar. *
-
-*Rural Pub Tours is the perfect way to see the sights and get a real Irish pub cultural experience.*
-
-THIS IS A PUB CRAWL TO REMEMBER !!
-
-http://www.ruralpubtours.com
+For something different, the **Guinness Storehouse** at St James's Gate is the most popular paid attraction in Ireland — a self-guided tour of the brewery ending with a pint on the 7th floor Gravity Bar. The **Irish Museum of Modern Art** and the **Powerscourt Estate** (an hour south of the city) are worth the detour for art and gardens respectively.

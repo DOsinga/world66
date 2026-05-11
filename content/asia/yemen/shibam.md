@@ -6,6 +6,7 @@ longitude: 48.6262
 title: Shibam
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Shibam is known as the "Manhattan of the Desert" — and when you first see it rising from the floor of the [Hadramawt](/asia/yemen/hadramawt) valley, the nickname makes sense. Hundreds of mud-brick tower houses, some up to eight storeys tall, are packed tightly together within a defensive wall, their brown facades glowing in the desert light. Manhattan is taller, but it was not built a thousand years ago.

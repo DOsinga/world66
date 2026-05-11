@@ -6,6 +6,7 @@ longitude: -76.383333
 title: Benton
 type: location
 score: 0.31
+loc_type: city
 ---
 
 Benton is a small borough in Columbia County, but the real draw is nearby Ricketts Glen State Park, home to one of Pennsylvania's most spectacular hiking trails.

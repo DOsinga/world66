@@ -6,6 +6,7 @@ longitude: 57.586461
 title: Pamplemousse
 type: location
 score: 0.56
+loc_type: city
 ---
 
 Pamplemousse is a small town in the north of the island, about 12 kilometres from Port Louis. Its main draw is the Sir Seewoosagur Ramgoolam Botanical Gardens (SSR Gardens), one of the finest botanical gardens in the southern hemisphere. Founded by French botanist Pierre Poivre in 1770, the gardens cover 37 hectares and contain over 80 species of palms, including the iconic giant water lilies (Victoria amazonica) in their central pond, and the talipot palm that flowers only once in its lifetime then dies.

@@ -1,11 +1,14 @@
 ---
-title: Ibiza
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
 latitude: 38.97439
 longitude: 1.419746
-done:
-  location_cleanup: 2026-04-07
 score: 0.71
+title: Ibiza
+type: location
+loc_type: region
 ---
 
 Ibiza, an island which is one in a thousand! It is undoubtedly popular within the international

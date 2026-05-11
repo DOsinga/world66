@@ -6,6 +6,7 @@ longitude: -52.286457
 title: Disko Bay
 type: location
 score: 0.6
+loc_type: region
 ---
 
 Disko Bay, on the west coast of Greenland north of the Arctic Circle, is one of the most visited regions in the country and the base for most winter and summer tourism. The bay is dominated by the vast bulk of Disko Island to the northwest and fed by the Ilulissat Icefjord to the east — the most productive glacier in the northern hemisphere.

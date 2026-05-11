@@ -10,7 +10,13 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ypsilon_from_Finla
   title="User:Ypsilon from Finland">Ypsilon from Finland</a>
 done:
   country_cleanup: 2026-03-30
+quick_facts:
+  Population: "380,000"
+  Cost Level: "A beer costs ~$12"
+  Glaciers: "Cover 11% of the country"
+  No Surnames: Icelanders use patronymics
 score: 0.81
+loc_type: country
 ---
 
 Iceland sits on the Mid-Atlantic Ridge, the boundary between the North American and Eurasian tectonic plates, and the geology makes itself known at every turn — volcanoes, geysers, hot springs, lava fields, and glaciers covering more than ten percent of the country's surface. It is one of the most volcanically active places on Earth, and also one of the most sparsely populated countries in Europe.

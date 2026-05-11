@@ -1,9 +1,17 @@
 ---
-title: Boracay
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
+image: boracay.jpg
+image_attribution: Alexey Komarov
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Boracay_Island,_Philippines_-_panoramio.jpg
 latitude: 11.969369
 longitude: 121.922734
 score: 0.75
+title: Boracay
+type: location
+loc_type: city
 ---
 
 Travel Guide

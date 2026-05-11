@@ -1,9 +1,11 @@
 ---
-title: "Sights"
+address: Suwon
+done:
+  poi_cleanup: '2026-04-19'
+phone: (031) 228-2766
+title: Sights
 type: section
-address: "Suwon"
-phone: "(031) 228-2766"
-url: "eng.suwon.ne.kr"
+url: eng.suwon.ne.kr
 ---
 
 ## all

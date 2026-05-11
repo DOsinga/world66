@@ -1,22 +1,14 @@
 ---
 title: "Eating Out"
 type: section
-address: "Jinnah Road, Town Centre, Quetta, 87300"
-type: "African"
 ---
 
-In the old bazaars one comes across quaint old tea-shops. These are the local "clubs". There are also many popular eating houses offering different types of delicacies. Among the delicacies you must try is Sajji (leg of lamb), which is roasted to a delightful degree of tenderness and is not very spicy. It is a whole leg of lamb deliciously marinated in local herbs and spices and barbecued beside an open fire. It is very popular among the locals and is offered with great insistence to the guests. The Pathan tribesmen of the valley also enjoy Landhi (whole lamb) and Khadi Kebab. “Landhi” is a whole lamb which is dried in shade and kept for the winters. "Kebab" shops are very popular, the best being Lal Kebab, Tabaq, Cafe Farah and Cafe Baldia. They serve Pakistani and Continental food. The Chinese restaurant that is one of the oldest in town is CAFE CHINA. Some of the finest mutton in the country is raised around Quetta. It has a delicious smell which can be sampled in the Pulao that most of the eating houses offer.
+Quetta eats well. The dish to ask for is **sajji** — a whole leg of lamb rubbed with salt, skewered on a stake and slow-roasted beside an open wood fire until the skin crackles and the meat falls apart. It is served with the local flatbread and a sharp green chutney, and is one of the great Pakistani roasts. The mutton raised in the surrounding mountains is famous across the country and turns up in the **pulao** at almost every kebab house in town.
 
-The Pashtun people are also very famous for their refreshing green tea and Dood Pati shops.
+Pashtun specialities you will see on menus include **landhi** (a whole lamb dried in the shade and saved for winter) and **khaddi kebab** (a whole sliced lamb roasted upright around a fire). Long-running kebab houses such as Lal Kebab, Tabaq, Cafe Farah and Cafe Baldia line the bazaars off Jinnah Road; Cafe China is the city's old-school Chinese, going since the 1960s. In the old bazaars the small tea shops are the local clubs — order green tea and *doodh patti* and stay for a while.
 
-Very few places can compete with Quetta valley in having wide range of tasteful fruits, exported to all parts of the country as well as abroad. There you can find plums, peaches, pomegranates, apricots, apples, olives, different types of melon, water-melon, cherries, pistachios, almonds and other dry fruits. Saffron and tulip are also grown and cultivated on a commercial scale. The fruits heaven is Urak, called SAMARISTAN meaning the land of fruits in Persian.
+Don't leave without a stop at the dry-fruit and fresh-fruit stalls. Quetta is the fruit basket of Pakistan and the markets carry pomegranates, apricots, peaches, plums, apples and the local *garma* and *sarda* melons in season, alongside pistachios, almonds and pine nuts from the surrounding hills.
 
 ### [Lehri Sajji House](/asia/pakistan/quetta/eating_out/lehri_sajji_house)
 
-BBQ
-
-type: African
-
-
-
-address: Jinnah Road, Town Centre, Quetta, 87300
+The classic stop for sajji on Jinnah Road in the town centre — a whole leg of lamb roasted by the fire, served with bread and chutney.

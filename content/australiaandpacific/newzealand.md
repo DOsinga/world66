@@ -1,15 +1,22 @@
 ---
-title: New Zealand
-type: location
-latitude: -41.500083
-longitude: 172.834408
-image: newzealand.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_02.jpg
-image_license: Public domain
-image_attribution: 'User: (WT-shared) Plug at  wts wikivoyage'
 done:
   country_cleanup: 2026-03-30
+  poi_cleanup: '2026-04-20'
+image: newzealand.jpg
+image_attribution: 'User: (WT-shared) Plug at  wts wikivoyage'
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_02.jpg
+latitude: -41.500083
+longitude: 172.834408
+quick_facts:
+  Population: "5 million"
+  Driving Side: Left
+  Sheep-to-People Ratio: "5 to 1"
+  First Country to Grant Women the Vote: "1893"
 score: 0.8
+title: New Zealand
+type: location
+loc_type: country
 ---
 
 New Zealand is remote by any measure — a two-island nation in the South Pacific, about 2,000km southeast of Australia. The North Island and South Island together cover roughly 268,000 sq km, home to around 5 million people. That ratio of space to population is part of the point: the landscape is extraordinary and the crowds are manageable.

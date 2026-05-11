@@ -6,6 +6,7 @@ longitude: 48.259147
 title: Abadan
 type: location
 score: 0.28
+loc_type: city
 ---
 
 Abadan is a city in the southwest of Iran, on an island at the confluence of the Shatt al-Arab waterway and the Persian Gulf. It was once home to the largest oil refinery in the world — built by the Anglo-Persian Oil Company in the early 20th century — and its fortunes have been entirely shaped by oil. At its peak in the 1970s, the city had a population of several hundred thousand and a prosperous, cosmopolitan character unusual for Iran.

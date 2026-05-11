@@ -6,6 +6,7 @@ longitude: 70.460128
 title: Jalalabad
 type: location
 score: 0.15
+loc_type: city
 ---
 
 Jalalabad sits in eastern Afghanistan on the main road from [Kabul](/asia/afghanistan/kabul) to the Khyber Pass and on to [Pakistan](/asia/pakistan). It is the capital of Nangarhar province, with a population of around 200,000, and commands the entrances to the Laghman and Kunar valleys.

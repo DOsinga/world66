@@ -1,11 +1,10 @@
 ---
-title: "Sights in Manteca"
-type: section
-address: "Downtown Manteca"
-email: "mtcascvb@aol.com"
-phone: "877-998-2739"
-type: "Hotspots"
-url: "www.visitmanteca.org"
+address: Downtown Manteca
+email: mtcascvb@aol.com
+phone: 877-998-2739
+title: Sights in Manteca
+type: poi
+url: www.visitmanteca.org
 ---
 
 What to see

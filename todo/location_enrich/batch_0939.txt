@@ -1,0 +1,5 @@
+northamerica/unitedstates/newyorkstate/buffalo
+europe/norway/oslo/holmekollen
+asia/saudiarabia/dhahran
+northamerica/britishvirginislands/anegada
+europe/poland/sandomierz

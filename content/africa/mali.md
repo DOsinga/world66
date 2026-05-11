@@ -10,7 +10,13 @@ latitude: 17.5707
 longitude: -3.9962
 title: Mali
 type: location
+quick_facts:
+  Population: "23 million"
+  Language: French
+  Size: "twice the size of France"
+  Great Mosque of Djenné: largest mud-brick building in the world
 score: 0.27
+loc_type: country
 ---
 
 *Africa > Mali*

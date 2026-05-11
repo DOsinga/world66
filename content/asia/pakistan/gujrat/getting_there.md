@@ -1,8 +1,7 @@
 ---
-title: "Getting There"
+address: Daewoo Express GT Road Gujrat Near Faisal Cienema
+title: Getting There
 type: section
-address: "Daewoo Express GT Road Gujrat Near Faisal Cienema"
-type: "By Road"
 ---
 
 Information Regarding How to Reach Gujrat, Fares, Ways, Distance and Time.

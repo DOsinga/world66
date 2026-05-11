@@ -6,6 +6,7 @@ longitude: 173.009488
 score: 0.55
 title: Motueka
 type: location
+loc_type: city
 ---
 
 Motueka sits at the head of Tasman Bay on New Zealand's South Island, a sun-soaked town that serves as the main gateway to [Abel Tasman National Park](/australiaandpacific/newzealand/abeltasmannationalpark). The surrounding region produces most of New Zealand's hops, apples, and kiwifruit, and the orchards and vineyards give the landscape a gentle, cultivated feel that contrasts with the wild coastline just to the north.

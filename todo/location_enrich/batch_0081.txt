@@ -1,0 +1,5 @@
+asia/indonesia/bali/lovina
+asia/vietnam/quang_tri
+africa/gabon/libreville
+europe/italy/marche/riviera_del_conero
+australiaandpacific/cookislands/mangaia

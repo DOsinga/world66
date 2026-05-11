@@ -1,9 +1,22 @@
 ---
-title: Sydney
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
+image: sydney.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_3178_Sydney,_Australia.jpg
 latitude: -33.8698
 longitude: 151.2083
+quick_facts:
+  Population: "5.3 million"
+  Driving Side: Left
+  Harbour Coastline: "240 km"
+  Opera House Tiles: "1,056,006"
 score: 0.84
+title: Sydney
+type: location
+loc_type: city
 ---
 
 Sydney is built around one of the most beautiful natural harbours in the world, and that harbour shapes everything about the city. The Opera House and Harbour Bridge are the famous landmarks, but the real pleasure is in how water threads through daily life here -- ferries crisscrossing the harbour, coastal walks connecting beach after beach, and that particular quality of light bouncing off the Pacific.

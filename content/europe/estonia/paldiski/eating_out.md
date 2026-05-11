@@ -1,15 +1,14 @@
 ---
-title: "Eating Out"
-type: section
-address: "Rae 32"
-email: "valgelaevpaldiski@hot.ee"
-phone: "+372 6742095"
-price: "100 EEK"
-type: "African"
-url: "www.valgelaev.ee"
-zipcode: "76805"
+address: Rae 32
+email: valgelaevpaldiski@hot.ee
 latitude: 59.350352
 longitude: 24.058812
+phone: +372 6742095
+price: 100 EEK
+title: Eating Out
+type: poi
+url: www.valgelaev.ee
+zipcode: '76805'
 ---
 
 ### [Valge Laev (eng. White Ship)](/europe/estonia/paldiski/eatingout/valge_laev_eng_w)

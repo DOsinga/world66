@@ -6,6 +6,7 @@ longitude: -118.414613
 title: Century City
 type: location
 score: 0.36
+loc_type: city
 ---
 
 Century City sits just west of Beverly Hills on land that used to belong entirely to 20th Century Fox. The studio sold much of it off in the 1960s — allegedly to cover debts from the notoriously expensive production of *Cleopatra* — and the result is a compact district of glass towers, an outdoor shopping mall, and corporate headquarters that feel distinctly Angeleno in their low-rise, car-centric way.

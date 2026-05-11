@@ -1,22 +1,12 @@
 ---
 title: "Eating Out"
 type: section
-address: "Salita Santa Anna di Palazzo, Trav. Via Chiaia"
-phone: "+39 (0)81 - 416928"
 ---
 
-While you are in Naples you will surely want to try the famous Neapolitan pizza and other local specialties. That is indeed a very smart choice also for a low budget, as in most places you will not spend more than 15.000 Lire for a pizza and a beer. 
+Naples is the birthplace of pizza and still the place to eat it. True Neapolitan pizza is made with a specific dough (00 flour, fresh yeast, long rise), cooked for 60-90 seconds in a 485°C wood-fired oven, and served immediately — charred, soft, slightly wet in the centre. Any pizzeria with a queue of locals is probably the real thing. **Da Michele** (Via Cesare Sersale, 1) serves only two kinds — Margherita and marinara — and has done so since 1870. **Sorbillo** (Via dei Tribunali, 32) is the best-known alternative and worth the wait. **Di Matteo** (Via dei Tribunali, 94) does an excellent fried pizza, a Neapolitan specialty. A simple Margherita at any of these costs €5-€8.
 
-**The food front:** 
+Beyond pizza, the city's food is emphatically of the south — tomato-heavy, seafood-forward, pasta as the centrepiece of the meal. Signature dishes include **spaghetti alle vongole** (with clams), **ziti al ragù** (the slow-cooked Sunday meat sauce), **pasta alla Genovese** (onion-heavy beef sauce), and **friarielli** (bitter greens, usually served with sausage or on pizza). Street food is excellent: **cuoppi** of fried seafood, **sfogliatelle** from the pasticcerie, **taralli** with almonds and pepper, and **pizza a portafoglio** (folded slice eaten while walking).
 
-The most naturally Neapolitan dishes are **vermicelli** (small pasta) with clams, mussels, smaller shellfish, **ziti** (a type of pasta) with **ragù** (meat sauce), Italian style fritters, fritters of squid and mullet, steamed polyps or oven-baked lamb. 
+The Chiaia district has the most restaurants aimed at visitors; for more local places, head into the historic centre or the working-class Sanità district, where you will eat well for very little. **Tandem** (Via Paladino, 51) specialises in the great Neapolitan ragù. **Trattoria da Nennella** in the Spanish Quarter is loud, chaotic, cheap, and utterly Neapolitan.
 
-Without question, **pizza** is the symbol of Naples. Naples is known worldwide for this genuine and delicious dish. However, in Naples the pizza is different: whether because of the delicious odor in the air, in the oil, in the flavor of the water, or for the simplicity with which it is made, it is certain that in Naples "pizza" has a special flavor. 
-
-The city is also famous for sweets that change with the seasons: **struffoli** (cookies with Strega liqueur, honey, and candied sprinkles), **pastiere** (cakes made with **ricotta**, coarse flour, candied fruits, and orange syrup), **zeppole** (cookies made from black cherry liqueur, fried or cooked in the oven, for St. Joseph’s Day), **cassatae** (cake made from ricotta cheese, almond paste, and pieces of chocolate), **monachine** (in English, "little monks"), **sfogliate** rich with cream and layered high, frolle (sweet crumbly pastry made from flour, egg, butter and sugar), **babà** (made with light flour), eggs, and yeast and bathed in rum punch), **millefoglie** (layers of sweet cream and thin pastry shell), **mimose** (Angel Food cake, known in Italian as pasta di spagna, with cream). 
-
-These delicious sweets are always accompanied by coffee or flavored liqueurs such as **rosolio, limoncello or nocillo** - the latter is walnut-flavored.
-
-Brandi
-
-This pizzeria own its fame mainly to the fact that they invented the pizza Margherita, their pizza is good. However if you are looking for a unexpensive meal this is surely not the place you want to go to.
+Finish with one of the city's pastries — **sfogliatella** (crisp shell, ricotta and candied citrus filling), **babà** (rum-soaked yeast cake), **pastiera** (Easter tart of wheat, ricotta, and orange), or **struffoli** (honey-glazed fried dough balls at Christmas) — and an espresso at the bar. Neapolitan coffee is famously dark and cheap; **Gran Caffè Gambrinus** on Piazza del Plebiscito is the classic address.

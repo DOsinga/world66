@@ -6,6 +6,7 @@ longitude: 115.409504
 title: Songan
 type: location
 score: 0.54
+loc_type: city
 ---
 
 Located at the north end of Lake Batur inside Batur crater, the attraction of Songan is its spectacular location. Following the lake shore all the way to the crater wall you come to a temple. Past the temple there is a steep trail that climbs up to the rim of the crater. It is a short but strenuous climb to spectacular views.

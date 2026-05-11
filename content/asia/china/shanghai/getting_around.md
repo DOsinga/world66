@@ -1,22 +1,6 @@
 ---
-title: "Getting around"
+title: "Getting Around"
 type: section
 ---
 
-**Points of Interest**
-
-**By subway**
-
-Subway: Line No.1, is the best choice for reaching destinations that are beyond walking range. The service is cheap, regular, and efficient. Unfortunately, it currently runs only north-south through the center of the city.  
-
-**By bus**
-
-Local buses can bring you everywhere, but you will suffer from unbelievable crowds, especially during the rush hours, and extremely slow.
-
-**By taxi**
-
-Taxi: Taxis are fairly easy to get hold of and, if you're not on a very tight budget, they are often the most comfortable way to get around. But you’d better to sit in the front seat and hold a map on your lap to make sure the drivers take you the right and shortest routes to your destination. [more..](/asia/china/shanghai/gettingaround/bytaxi)
-
-**By ferry**
-
-To cross the Huangpu River over, the cheapest and most wonderful way is to take the ferry from the central part of the Bund opposite the end of Jinling Dong Lu. The ride will take about ten minutes and gives you an interesting feel of how crowded these waterways are.
+The Shanghai **Metro** is one of the largest and fastest-growing systems in the world — over 20 lines covering virtually everywhere worth going, signage and announcements bilingual, and fares of around 3-9 RMB. Get a rechargeable Shanghai Public Transport Card or pay via Alipay/WeChat QR. **Taxis** are cheap by international standards (start around 16 RMB) but drivers rarely speak English — have your destination written in Chinese characters. **Didi** (the local Uber equivalent) is universal. **Bike-share** schemes (Hellobike, Meituan) cover the city densely; the French Concession is particularly good on two wheels. The **Bund Sightseeing Tunnel** between Puxi and Pudong is a kitsch but iconic way to cross the river; the regular ferry is cheaper and more interesting.

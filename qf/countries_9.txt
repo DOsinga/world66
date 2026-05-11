@@ -1,0 +1,15 @@
+content/australiaandpacific/westernsamoa.md
+content/europe/albania.md
+content/europe/andorra.md
+content/europe/armenia.md
+content/europe/austria.md
+content/europe/azerbaijan.md
+content/europe/belarus.md
+content/europe/belgium.md
+content/europe/bulgaria.md
+content/europe/channelislands.md
+content/europe/croatia.md
+content/europe/czechrepublic.md
+content/europe/denmark.md
+content/europe/estonia.md
+content/europe/faroeislands.md

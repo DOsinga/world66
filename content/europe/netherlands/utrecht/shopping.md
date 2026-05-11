@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Utrecht"
+title: "Shopping"
 type: section
 ---
 

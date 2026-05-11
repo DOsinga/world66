@@ -1,0 +1,5 @@
+asia/taiwan/keelung
+asia/unitedarabemirates/al_ain
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes
+africa/tanzania/pangani
+northamerica/unitedstates/idaho/rexburg

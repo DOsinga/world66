@@ -1,0 +1,5 @@
+northamerica/unitedstates/georgia/athens
+northamerica/thecaribbean/cuba/pinardelrio
+asia/india/delhi
+africa/cameroon/douala
+europe/unitedkingdom/wales/fishguard

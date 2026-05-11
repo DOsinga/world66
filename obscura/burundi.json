@@ -1,0 +1,33 @@
+[
+  {
+    "url": "/places/source-du-nil",
+    "type": "Place",
+    "item-id": "43465",
+    "gtm-content-type": "Place",
+    "lat": "-3.915146",
+    "lng": "29.837867",
+    "city": "Musenyi",
+    "state": "Bubanza",
+    "country": "Burundi",
+    "src": "https://img.atlasobscura.com/CaDZWf6WEsjUluRB0OdPU3tXHg7nixEQGOZQVc_gxHQ/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iYzZj/MzkxNC1lODM3LTQx/YmQtOTFlNS00ZTI3/MjVjZmM2ODE4NTA3/ZDg4NzA1N2JmMmNi/ODVfUHlyYW1pZCBT/b3VyY2UgZHUgTmls/LCBTb3VyY2Ugb2Yg/dGhlIE5pbGUsIEJ1/cnVuZGkuanBn.jpg",
+    "width": "2048",
+    "height": "1371",
+    "name": "Source du Nil",
+    "description": "For millennia, explorers were obsessed with discovering the source of the Nile\u2014is this small mountain stream really the answer?"
+  },
+  {
+    "url": "/places/gishora-drum-sanctuary-burundi",
+    "type": "Place",
+    "item-id": "44407",
+    "gtm-content-type": "Place",
+    "lat": "-3.362859",
+    "lng": "29.921959",
+    "city": "Gishora",
+    "country": "Burundi",
+    "src": "https://img.atlasobscura.com/p4ZwxJphusMuX_TfnVQulvdAAhj4jOSZWtao6VWHHbY/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85N2Zl/YWZkNjBmNzU1Yjk3/ODFfR2lzaG9yYSBE/cnVtIFNhbmN0dWFy/eSAtIFRocmVlIEJ1/cnVuZGkgbWVuIGp1/bXBpbmcgaW50byB0/aGUgYWlyIHN1cnJv/dW5kZWQgYnkgZHJ1/bSBjaXJjbGUuanBn.jpg",
+    "width": "1024",
+    "height": "683",
+    "name": "Gishora Drum Sanctuary",
+    "description": "This century-old site established by King Mwezi Gisabo preserves the art of Burundi&#39;s ancient drum rituals."
+  }
+]

@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Set right in the heart of Uptown district in Cebu City, Mango Avenue, El Gecko Restobar. A popular haunt of expats and locals with great international food, the cheapest beer in town, 30 peso and fantastic people. Multi screen TVs playing music DVDs and very welcoming staff !!! Start here before hitting the clubs later in the evening. www.elgecko.info Check it Out !!!
+White Beach is the obvious draw, but Boracay rewards a bit of exploration. Hike up Mount Luho for the view, take a banca out to Crocodile Island for snorkelling, paddle a kayak through the mangroves, or trek to the spookier corners of the island like the Bat Caves at Yapak and the strange, leafless Dead Forest. For the adrenaline-minded, the eastern side has world-class kitesurfing, and the surrounding reefs offer some of the best diving in the Philippines.

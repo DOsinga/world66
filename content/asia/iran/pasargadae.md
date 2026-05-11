@@ -8,7 +8,7 @@ longitude: 53.1787
 score: 0.51
 title: Pasargadae
 type: location
-loc_type: city
+loc_type: feature
 ---
 
 Pasargadae was the first capital of the Achaemenid Empire, founded by Cyrus the Great after his defeat of the Medes around 550 BCE. It sits on a high plain in Fars Province, about 130 kilometres northeast of [Shiraz](/asia/iran/shiraz) and 43 kilometres from [Persepolis](/asia/iran/persepolis). The site is a UNESCO World Heritage Site and one of the most important archaeological locations in [Iran](/asia/iran).

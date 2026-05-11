@@ -6,7 +6,7 @@ longitude: 55.666628
 title: Aride Island
 type: location
 score: 0.52
-loc_type: city
+loc_type: feature
 ---
 
 Aride Island is the northernmost of the granitic Seychelles and arguably the most important seabird nesting site in the western Indian Ocean after Aldabra. The island is managed by the Island Conservation Society as a nature reserve and is open to visitors year-round, weather permitting.

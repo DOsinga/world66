@@ -6,7 +6,7 @@ longitude: 2.9416
 title: Costa Brava
 type: location
 score: 0.7
-loc_type: city
+loc_type: region
 ---
 
 The Costa Brava — "wild coast" in Catalan — runs for 256 kilometres along the northeastern tip of Spain, from Blanes in the south to the French border at Portbou. This is Catalonia's coast, and it earns its name: rugged limestone cliffs drop directly into clear blue-green water, broken by small coves and fishing villages that somehow still feel undiscovered despite decades of summer tourism.

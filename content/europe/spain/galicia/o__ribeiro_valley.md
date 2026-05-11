@@ -7,7 +7,7 @@ longitude: -8.143
 score: 0.48
 title: O Ribeiro Valley
 type: location
-loc_type: city
+loc_type: region
 ---
 
 O Ribeiro is Galicia's oldest wine region, a valley carved by the Avia and Miño rivers about 30 kilometres south of [Ourense](/europe/spain/galicia/ourense). The vines here predate the Romans, and the white wines — made from Treixadura, Godello, and other indigenous grapes — were famous across medieval Europe long before Albariño became fashionable.

@@ -6,7 +6,7 @@ longitude: -82.048217
 title: McDowell County
 type: location
 score: 0.4
-loc_type: city
+loc_type: region
 ---
 
 McDowell County sits at the hub of the North Carolina mountains, positioned between Lake Lure, [Asheville](/northamerica/unitedstates/northcarolina/asheville), and Grandfather Mountain. Part of the Blue Ridge National Heritage Area, the county is three-quarters forested, with 67,000 acres in the Pisgah National Forest — making it a natural base for anyone exploring the western end of the state.

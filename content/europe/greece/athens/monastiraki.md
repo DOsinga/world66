@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - neighbourhood
   - market
-latitude: 37.9725
-longitude: 23.7208
+latitude: 37.9764
+longitude: 23.7236
 snippet: Lively flea-market neighbourhood with Roman ruins, kebab shops, and rooftop bars
 ---
 

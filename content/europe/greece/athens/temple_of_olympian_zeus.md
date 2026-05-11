@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - history
-latitude: 37.9683
-longitude: 23.7265
+latitude: 37.9694
+longitude: 23.7331
 snippet: The colossal unfinished temple at the centre of Athens's ancient archaeological zone
 story: >
   The Temple of Olympian Zeus was begun by the Athenian tyrant Peisistratos

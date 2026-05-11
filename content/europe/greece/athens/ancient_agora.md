@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - history
-latitude: 37.9717
-longitude: 23.7202
+latitude: 37.9750
+longitude: 23.7225
 snippet: The original public square of classical Athens, where Socrates taught and was tried
 story: >
   The Stoa of Attalos, the long colonnaded building that now serves as the Agora

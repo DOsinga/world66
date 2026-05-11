@@ -5,7 +5,6 @@ latitude: 43.7711
 longitude: 11.2486
 done:
   location_cleanup: 2026-04-05
-  location_enrich: '2026-05-09'
 score: 0.89
 tier: 1
 tags: [culture, museums, history, food, nature, architecture, hiking]

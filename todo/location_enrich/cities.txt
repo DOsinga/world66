@@ -4,6 +4,7 @@ europe/sweden/stockholm
 europe/france/paris
 europe/portugal/lisbon
 europe/czechrepublic/prague
+asia/japan/tokyo
 europe/hungary/budapest
 asia/southkorea/seoul
 europe/france/midi/cotedazur/nice
@@ -886,7 +887,6 @@ africa/mali/djenne
 northamerica/mexico/monterrey
 asia/taiwan/taichung
 europe/denmark/aarhus
-asia/japan/tokyo/akihabara
 australiaandpacific/frenchpolynesia/rangiroa/avatoru
 africa/zambia/lusaka
 northamerica/unitedstates/newmexico/alamogordo
@@ -896,7 +896,6 @@ africa/sierraleone/freetown
 southamerica/peru/huaraz
 australiaandpacific/australia/newsouthwales/katoomba
 asia/mongolia/ulaanbaatar
-asia/japan/tokyo/asakusa
 europe/ukraine/odessa
 europe/italy/emiliaromagna/modena
 northamerica/unitedstates/virginia/manassas
@@ -1452,7 +1451,6 @@ europe/ireland/aranislands/inisoirr
 europe/azerbaijan/naxcivan/culfa
 northamerica/greenland/nuuk
 northamerica/unitedstates/wisconsin/madison
-asia/japan/tokyo/marunouchi
 europe/spain/cantabria/comillas
 asia/thailand/chaam
 asia/india/andhrapradesh/wargal
@@ -4094,7 +4092,6 @@ africa/rwanda/gisenyi
 northamerica/mexico/mexicali
 asia/iran/qom
 asia/israel/ein_hod
-asia/japan/tokyo/ebisu
 europe/azerbaijan/astara
 europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden
 europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate
@@ -4722,7 +4719,6 @@ europe/italy/liguria/italianriviera/rivieradellepalme/erli
 africa/angola/malange
 northamerica/unitedstates/ohio/cuyahoga_falls
 asia/kazakhstan/atyrau
-asia/japan/tokyo/tokyoodaiba
 asia/india/madhyapradesh/indore
 europe/slovakia/b_a_n_s_k
 europe/italy/liguria/italianriviera/tellaro

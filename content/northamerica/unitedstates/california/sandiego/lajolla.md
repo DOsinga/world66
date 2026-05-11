@@ -4,9 +4,11 @@ done:
 latitude: 32.845853
 longitude: -117.25757
 title: La Jolla
-type: location
+type: neighbourhood
 score: 0.61
-loc_type: neighbourhood
+tags:
+- neighbourhood
+- things_to_do
 ---
 
 La Jolla is the upscale coastal neighbourhood of [San Diego](/northamerica/unitedstates/california/sandiego), built along dramatic sea cliffs with tide pools, sea caves, and a resident colony of harbour seals at Children's Pool beach. The village centre has galleries, boutiques, and restaurants, but the real draw is the coastline.

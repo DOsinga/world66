@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-11'
+image: kalibo.jpg
+image_attribution: Elisolidum
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kalibo_Ati-Atihan_Festival,_Philippines.jpg
 latitude: 11.7089
+loc_type: city
 longitude: 122.364
+score: 0.46
 title: Kalibo
 type: location
-score: 0.46
-loc_type: city
 ---
 
 Most travelers pass through Kalibo on their way to Boracay — the town's airport is the main entry point for the island — but that's a shame, because Kalibo is worth more than a quick connection. It's the capital of Aklan province, a busy, lived-in market town with good food and a genuinely welcoming atmosphere.

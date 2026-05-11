@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - hiking
-latitude: -16.4918
-longitude: -151.7416
+latitude: -16.5000
+longitude: -151.7410
 story: "Otemanu means 'bird of the forest' in Tahitian and rises to 727 metres at the island's highest point — the ancient plug of a shield volcano that formed Bora Bora roughly three to four million years ago. The summit itself is a technical rock climb requiring ropes and experience, but the ridge below offers some of the most dramatic views in French Polynesia. A local guide is strongly recommended: the trails are poorly marked and the terrain is steep and dense with tropical vegetation."
 ---
 

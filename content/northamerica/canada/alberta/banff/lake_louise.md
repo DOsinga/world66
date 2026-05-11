@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 51.4156
-longitude: -116.2152
+latitude: 51.4117
+longitude: -116.2281
 story: "Lake Louise was named for Princess Louise Caroline Alberta, the fourth daughter of Queen Victoria and wife of the Governor General of Canada — the lake's official naming in 1884 came just a year after the first European visitor, railway surveyor Tom Wilson, stumbled upon it guided by a Stoney Nakoda man. Wilson called it Emerald Lake at first; the turquoise colour comes from rock flour, fine particles of glacially-ground rock suspended in the water that absorb and scatter sunlight."
 ---
 

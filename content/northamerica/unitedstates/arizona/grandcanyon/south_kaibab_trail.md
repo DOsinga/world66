@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - hiking
-latitude: 36.0607
-longitude: -112.0841
+latitude: 36.0529
+longitude: -112.0830
 story: "The South Kaibab Trail was built by the National Park Service in 1924–1925, partly to break the monopoly that Ralph Cameron held over the Bright Angel Trail. Cameron had homesteaded the trailhead in 1903 and charged his own toll for years before the park wrestled control from him — a battle that went to the US Supreme Court. The new trail was deliberately routed along a ridge rather than a drainage, giving unobstructed views, but this also means no shade and no water sources anywhere on the route."
 ---
 

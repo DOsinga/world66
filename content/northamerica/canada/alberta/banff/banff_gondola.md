@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 51.1543
-longitude: -115.5516
+latitude: 51.1462
+longitude: -115.5653
 ---
 
 The gondola on Sulphur Mountain carries passengers 698 metres (2,292 ft) to the summit at 2,281 metres (7,486 ft) in about eight minutes, with views over the Bow Valley, the town of Banff, and four mountain ranges in every direction. The boardwalk at the top loops along the ridge to the Sanson Peak meteorological station, which was staffed continuously from 1903 to 1931 by Norman Sanson, who climbed this mountain every week to take weather readings — over a thousand ascents in total.

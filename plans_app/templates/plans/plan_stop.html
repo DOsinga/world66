@@ -5,14 +5,6 @@
 {% block content %}
 <div class="tabbi-page plan-page">
 
-  <nav class="plan-breadcrumb">
-    <a href="/plans/">✈️ Trips</a>
-    <span class="plan-breadcrumb-sep">›</span>
-    <a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a>
-    <span class="plan-breadcrumb-sep">›</span>
-    <span>📍 {{ stop.city }}</span>
-    <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">✏️ Edit</a>
-  </nav>
   <div id="plan-stop-nav"
        data-prev="{% if prev_stop %}/plans/{{ plan.slug }}/{{ prev_stop.city_slug }}/{% endif %}"
        data-next="{% if next_stop %}/plans/{{ plan.slug }}/{{ next_stop.city_slug }}/{% endif %}"></div>
@@ -32,6 +24,14 @@
   <div class="plan-stop-layout">
 
     <div class="plan-stop-left">
+      <nav class="plan-breadcrumb">
+        <a href="/plans/">✈️ Trips</a>
+        <span class="plan-breadcrumb-sep">›</span>
+        <a href="/plans/{{ plan.slug }}/">{{ plan.title }}</a>
+        <span class="plan-breadcrumb-sep">›</span>
+        <span>📍 {{ stop.city }}</span>
+        <a href="/plans/{{ plan.slug }}/edit/" class="plan-edit-link">✏️ Edit</a>
+      </nav>
       <div class="plan-stop-left-header">
         <h1 class="plan-stop-left-city">{{ stop.city }}</h1>
       </div>

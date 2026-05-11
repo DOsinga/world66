@@ -6,6 +6,7 @@ phone: (310) 278-9911
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: Mr. Chow
 type: poi
 snippet: "Beverly Hills celebrity haunt serving Beijing-style Chinese cuisine since 1974"

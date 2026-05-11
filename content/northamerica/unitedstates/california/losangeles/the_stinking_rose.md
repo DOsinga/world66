@@ -9,6 +9,7 @@ snippet: California-Italian restaurant where every dish centres on garlic
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: The Stinking Rose
 type: poi
 ---

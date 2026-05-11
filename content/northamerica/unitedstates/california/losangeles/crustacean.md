@@ -9,6 +9,7 @@ snippet: Vietnamese-French glamour with a secret kitchen and famous garlic noodl
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: Crustacean
 type: poi
 ---

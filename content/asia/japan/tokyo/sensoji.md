@@ -9,6 +9,7 @@ title: Sensoji Temple
 type: poi
 tags:
 - asakusa
+- things_to_do
 ---
 
 Tokyo's oldest temple, founded in 628 AD according to legend, when two fishermen pulled a small golden statue of Kannon from the Sumida River. The main hall is dedicated to Kannon, the goddess of mercy, and remains a working place of worship despite the crowds. The grounds include a striking five-storey pagoda, the Asakusa Shinto shrine, and a bronze incense burner in the courtyard where visitors wave smoke over themselves for good health.

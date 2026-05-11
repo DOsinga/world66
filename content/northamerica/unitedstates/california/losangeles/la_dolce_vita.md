@@ -9,6 +9,7 @@ snippet: Old-school red-sauce Italian with celebrity regulars
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: La Dolce Vita
 type: poi
 ---

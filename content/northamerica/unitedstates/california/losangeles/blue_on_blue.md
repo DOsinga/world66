@@ -9,6 +9,7 @@ snippet: Pool-side restaurant and bar at the Avalon Hotel
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: Blue on Blue
 type: poi
 ---

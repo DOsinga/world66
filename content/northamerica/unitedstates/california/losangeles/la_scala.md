@@ -6,6 +6,7 @@ phone: 310-275-0579
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: La Scala
 type: poi
 snippet: "Old-school Beverly Hills Italian famous for its chopped salad"

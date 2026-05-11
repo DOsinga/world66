@@ -6,6 +6,7 @@ phone: +1-310-385-0880
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: Spago
 type: poi
 snippet: "Wolfgang Puck's flagship, California cuisine at its peak"

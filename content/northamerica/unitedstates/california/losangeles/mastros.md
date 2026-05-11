@@ -9,6 +9,7 @@ snippet: Classic Beverly Hills steakhouse with live piano upstairs
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: Mastro's
 type: poi
 ---

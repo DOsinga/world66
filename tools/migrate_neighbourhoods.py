@@ -188,23 +188,22 @@ def migrate_neighbourhood(nb_md: Path, slug: str, log: list[str]) -> None:
 
     pois = find_pois(slug_dir)
 
-    # 1) Move POIs to parent
+    # 1) Move POIs flat into the parent city directory. Per LOCATIONS.md,
+    # POIs live as sibling files to the city's section .md files; section
+    # membership comes from the POI's `tags` list, not from a subdir.
+    # We ensure the POI has its section tag and the neighbourhood slug tag,
+    # then move it next to the other flat POIs.
     moved, conflicts = 0, 0
     for poi in pois:
-        rel = poi.relative_to(slug_dir)  # e.g. things_to_do/somepoi.md or just somepoi.md
         text = poi.read_text(encoding="utf-8")
-        if len(rel.parts) >= 2 and rel.parts[0] in SECTION_TAGS:
-            # POI is already under a canonical section subdir
-            target = parent_dir / rel
-        else:
-            section = section_for_poi(text)
-            target = parent_dir / section / poi.name
+        target = parent_dir / poi.name
         if target.exists():
             log.append(f"  CONFLICT skip: {target.relative_to(CONTENT_DIR)} exists")
             conflicts += 1
             continue
-        target.parent.mkdir(parents=True, exist_ok=True)
         text = add_tag_to_text(text, slug)
+        section = section_for_poi(text)
+        text = add_tag_to_text(text, section)
         target.write_text(text, encoding="utf-8")
         poi.unlink()
         moved += 1

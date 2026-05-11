@@ -7,6 +7,7 @@ snippet: Upscale chain steakhouse on Beverly Drive
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: Ruth's Chris Steak House
 type: poi
 ---

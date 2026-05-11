@@ -7,6 +7,7 @@ snippet: The bakery that launched the gourmet cupcake craze
 tags:
 - restaurants
 - beverlyhills
+- eating_out
 title: Sprinkles Cupcakes
 type: poi
 ---

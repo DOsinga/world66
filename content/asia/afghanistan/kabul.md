@@ -1,12 +1,17 @@
 ---
-title: Kabul
-type: location
-latitude: 34.52695
-longitude: 69.185058
 done:
   location_cleanup: 2026-04-05
-score: 0.14
+  location_enrich: '2026-05-11'
+image: kabul.jpg
+image_attribution: Eshaq Azizi
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kabul_Afghanistan,_place_where_I_live.jpg
+latitude: 34.52695
 loc_type: city
+longitude: 69.185058
+score: 0.14
+title: Kabul
+type: location
 ---
 
 Kabul is the capital of Afghanistan, a city of over four million people in a high mountain valley at about 1,790 metres, ringed by the snow-capped Hindu Kush. It has been destroyed and rebuilt more often than almost any capital in Asia — by Genghis Khan, by the British in 1842, by civil war in the 1990s, and most recently by the forty years of conflict that began with the Soviet invasion in 1979 and ended with the Taliban's return to power in August 2021. What survives is a city of mudbrick neighbourhoods climbing the hills, bazaars, a handful of important historic sites, and the long shadow of everything that has happened here.

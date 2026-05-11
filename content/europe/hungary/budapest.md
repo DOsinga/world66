@@ -2,17 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-21'
 image: budapest.jpg
 image_attribution: Ralf Roletschek
 image_license: CC BY-SA 1.0 fi
 image_source: https://commons.wikimedia.org/wiki/File:19-10-03-Margarethenbr%C3%BCcke_und_Margaretheninsel-RalfR.jpg
 latitude: 47.4979
+loc_type: city
 longitude: 19.0402
 score: 0.79
 title: Budapest
 type: location
-loc_type: city
 ---
 
 Budapest is one of Europe's most rewarding cities, a place where faded imperial grandeur meets a rebellious creative energy that keeps things interesting. Straddling the Danube, with hilly Buda on one side and flat, bustling Pest on the other, it offers world-class architecture, thermal baths you can soak in for hours, and a food and drink scene that punches well above its price point.

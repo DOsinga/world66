@@ -6,16 +6,13 @@ frontmatter — see LOCATIONS.md for the schema. The list is sorted by
 total content size (largest first), so well-developed cities come first.
 """
 
-import re
 from pathlib import Path
+
+import frontmatter
 
 CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 OUTPUT = Path(__file__).resolve().parent.parent / "todo" / "location_enrich" / "cities.txt"
 SKIP_TOPLEVEL = {"about", "contributing", "travelwise", "takeaway"}
-
-FRONTMATTER_RE = re.compile(r"^---\n(.*?\n)---\n", re.DOTALL)
-TYPE_RE = re.compile(r"^type:[ \t]*(\S+)[ \t]*$", re.MULTILINE)
-LOC_TYPE_RE = re.compile(r"^loc_type:[ \t]*(\S+)[ \t]*$", re.MULTILINE)
 
 
 def total_text_size(md_path: Path) -> int:
@@ -37,18 +34,12 @@ def main():
         if len(parts) == 1 and md.stem in SKIP_TOPLEVEL:
             continue
         try:
-            text = md.read_text(encoding="utf-8")
+            post = frontmatter.load(md)
         except Exception:
             continue
-        fm = FRONTMATTER_RE.match(text)
-        if not fm:
+        if post.metadata.get("type") != "location":
             continue
-        body = fm.group(1)
-        t = TYPE_RE.search(body)
-        if not t or t.group(1) != "location":
-            continue
-        lt = LOC_TYPE_RE.search(body)
-        if not lt or lt.group(1) != "city":
+        if post.metadata.get("loc_type") != "city":
             continue
         rel = str(md.relative_to(CONTENT_DIR).with_suffix(""))
         cities.append((rel, total_text_size(md)))

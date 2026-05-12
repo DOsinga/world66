@@ -1,5 +1,0 @@
-northamerica/mexico/tulum
-europe/croatia/zagreb
-asia/iran/kerman
-northamerica/honduras/trujillo
-europe/netherlands/bloemendaal

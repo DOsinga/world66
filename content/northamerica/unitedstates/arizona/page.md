@@ -14,7 +14,7 @@ title: Page
 type: location
 ---
 
-Page sits on a sandstone mesa above Glen Canyon Dam, right on the Utah border in northern Arizona. It is the base camp for some of the most dramatic desert scenery in the American Southwest: Antelope Canyon, Horseshoe Bend, Lake Powell, and the Vermilion Cliffs are all within easy reach.
+Page sits on a sandstone mesa above [Glen Canyon Dam](/northamerica/unitedstates/arizona/page/glen_canyon_dam), right on the Utah border in northern Arizona. It is the base camp for some of the most dramatic desert scenery in the American Southwest: [Antelope Canyon](/northamerica/unitedstates/arizona/page/antelope_canyon), [Horseshoe Bend](/northamerica/unitedstates/arizona/page/horseshoe_bend), [Lake Powell](/northamerica/unitedstates/arizona/page/lake_powell), and the Vermilion Cliffs are all within easy reach.
 
 The town itself started in the late 1950s as a construction camp for the workers building the dam. When construction finished, many left, but Page survived and eventually found a second life as a tourism hub. The scenery around it is extraordinary enough that visitors keep coming, and the town has grown steadily to serve them.
 

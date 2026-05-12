@@ -1,5 +1,0 @@
-europe/ireland/dun_laoghaire
-northamerica/belize/cayecaulker
-europe/faroeislands/vagar/bour
-africa/sierraleone/kenema
-europe/italy/tuscany/arezzo

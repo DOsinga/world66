@@ -190,6 +190,21 @@ def location_or_section(request, path):
             if len(poi_images) >= 12:
                 break
 
+    # For small city pages (< 8 POIs total): inline all POIs directly instead of section cards
+    inline_pois = None
+    if page.page_type == "location" and nav_pages and not locations and city_tag_index is not None:
+        all_pois = []
+        seen_paths = set()
+        for section in nav_pages:
+            if section.page_type in ("neighbourhood", "section_group"):
+                continue
+            for poi in section.tagged_pois(_city_tag_index=city_tag_index):
+                if poi.path not in seen_paths:
+                    seen_paths.add(poi.path)
+                    all_pois.append(poi)
+        if len(all_pois) < 8:
+            inline_pois = all_pois
+
     # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
     markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
@@ -229,6 +244,7 @@ def location_or_section(request, path):
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
+        "inline_pois": inline_pois,
     })
 
 

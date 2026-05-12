@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: sagres.jpg
+image_attribution: cingularite
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Sagres_(7321504376).jpg
 latitude: 37.007829
+loc_type: city
 longitude: -8.941924
+score: 0.63
 title: Sagres
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Sagres sits at the southwestern tip of Europe, where early navigators believed the land ended and the ocean dropped off into nothingness. This is where Prince Henry the Navigator established his school of navigation and looked out over the Atlantic, wondering if there was a sea route to the Indies.

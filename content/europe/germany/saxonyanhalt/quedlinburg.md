@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: quedlinburg.jpg
+image_attribution: marsupium photography on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/43405950@N07/52810330019
 latitude: 51.7855
+loc_type: city
 longitude: 11.152
+score: 0.59
 title: Quedlinburg
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Quedlinburg is one of the best-preserved medieval towns in Germany, a UNESCO World Heritage Site on the northern edge of the Harz Mountains in Saxony-Anhalt. The old town contains over 1,300 half-timbered houses spanning six centuries, from the 14th to the 19th, making it one of the largest collections of timber-frame architecture in Europe.

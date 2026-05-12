@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-12'
 latitude: 43.2963
+loc_type: city
 longitude: -7.6788
+score: 0.4
 title: Vilalba
 type: location
-score: 0.4
-loc_type: city
 ---
 
 Vilalba is a small market town in the Terra Cha, the broad, flat plain of inland [Galicia](/europe/spain/galicia). It sits at the crossroads of the Santander–A Coruña and Madrid–Ferrol routes, making it a natural stopping point for travellers crossing the region.

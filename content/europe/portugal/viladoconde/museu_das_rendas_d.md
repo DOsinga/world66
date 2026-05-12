@@ -1,44 +1,17 @@
 ---
 address: Rua de S. Bento, 70
-email: museus@cm-viladoconde.pt
-latitude: 37.927209
-longitude: -7.410427
+latitude: 41.354
+longitude: -8.7435
 phone: '252248470'
 tags:
-- museums
-title: MUSEU DAS RENDAS DE BILROS
+  - things_to_do
+  - museum
+title: Museu das Rendas de Bilros
 type: poi
-zipcode: 4480-782 Vila do Conde
+story: >
+  Bobbin lace — rendas de bilros — has been made in Vila do Conde since at least the 17th century, when the convents provided the workforce and the market. The craft survived industrialisation because the patterns were too complex to mechanise: each piece requires dozens of bobbins worked simultaneously by hand to build up the interlocking geometric designs. Today it is one of the few traditional crafts in Portugal that is still genuinely practiced rather than merely demonstrated for tourists.
 ---
 
-**Museum of Bilros Lace**
+The Museu das Rendas de Bilros is the only bobbin lace museum in Portugal and one of the best in the world for this particular craft. Housed in an 18th-century manor house on Rua de São Bento, it displays the tools, patterns, and finished work that represent centuries of a very specific local tradition.
 
-
-
-Society for the Protection of the Arts and Crafts and Patrimony of 
-
-Vila do Conde.
-
-
-
-Established in 1991 in the Vinhal House, a typical 18th Century urban manor-house, the Museum generated great interest around the famous Bilros Lace, focusing on its exposure. Some time ago, the “Escola de Rendas” or school for the manufacturing of laces had been meeting at this same building. There is lots of history connecting this building to the craft of laces of Bilros. 
-
-
-
-The Bilros Lace Museum’s collection is composed of all instruments and materials utilized in the production of Bilros Lace.
-
-
-
-The contents of the Museum show beautiful examples of Bilros Lace, designs, fabrics and pillows plus various documents on interest.
-
-
-
-Also deserving of mention is a collection of Bilros and cushions made in foreign lands, a testimony to the successive contacts with production centers beyond borders.
-
-
-
-The Museum’s permanent exposition exhibits traditional Vila do Conde’s Lace, and simultaneously presents contemporary lace, the product of development with other lace production centers in Europe and also work by Portuguese designers, exhibited in fashion shows annually.
-
-
-
-The presence of Lace-makers in brightly lit corners showing the visitors their skill in the art of the famous lace making process, how to handle and twist the ‘bilros’ just right, constitutes a particular motive of interest in the only Bilros Lace Museum in Portugal.
+The museum's collection includes historic examples of Vila do Conde lace alongside contemporary pieces by Portuguese designers working with traditional techniques. Live demonstrations by local lace-makers — seated at their cushions with dozens of bobbins moving in rhythmic order — are a particular highlight, making the process intelligible in a way that static display never quite manages.

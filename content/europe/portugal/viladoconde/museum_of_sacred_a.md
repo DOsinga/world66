@@ -7,7 +7,8 @@ longitude: -8.742333
 phone: '252631424'
 snippet: Religious art from the 16th century in a Gothic church
 tags:
-- museums
+  - things_to_do
+  - museum
 title: Museum of Sacred Art
 type: poi
 ---

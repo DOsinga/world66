@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: richmond_yorks.jpg
+image_attribution: Kognos
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Richmond_Castle_from_Bridge_01.jpg
 latitude: 54.4049
+loc_type: city
 longitude: -1.738
+score: 0.52
 title: Richmond
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Richmond is a lovely historic town in Swaledale, one of the most fascinating of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales). Not to be confused with its many namesakes — this is the original, perched above a bend in the River Swale.

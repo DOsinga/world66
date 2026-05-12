@@ -1,6 +1,9 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - asia/jordan/wadirum
+  - asia/jordan/petra
 ---
 
 **Wadi Rum** (60km north) is the most compelling day trip from Aqaba. The desert landscape — rose-red sandstone mountains rising from a pink sandy plain — is extraordinary. Lawrence of Arabia passed through here. Jeep tours, camel rides, and overnight camps are all available; the Bedouin communities offer hospitality. A full day is the minimum to do it justice.

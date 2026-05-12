@@ -1,11 +1,12 @@
 ---
 address: Rua 31 de Janeiro
-latitude: 15.4975
-longitude: 73.812
+latitude: 15.4956
+longitude: 73.8311
 snippet: "Goan-Portuguese dishes in a Fontainhas heritage building"
 tags:
 - eating_out
 - restaurant
+- fontainhas
 title: Hospedaria
 type: poi
 ---

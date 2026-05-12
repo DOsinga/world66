@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: hiwasa_tokushima.jpg
+image_attribution: Sunport1216
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Front_of_the_Hiwasa_station_(2015)_01.JPG
 latitude: 33.7284
+loc_type: city
 longitude: 134.5353
+score: 0.51
 title: Hiwasa
 type: location
-score: 0.51
-loc_type: city
 ---
 
 About two hours south of [Tokushima City](/asia/japan/shikoku/tokushima) on the coast, Hiwasa is a small town with a couple of compelling reasons to stop. The train station rents bicycles, but Hiwasa is small enough to explore comfortably on foot.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: dunvegan.jpg
+image_attribution: BrennonYork on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/83226148@N02/7624739792
 latitude: 57.436714
+loc_type: city
 longitude: -6.5814
+score: 0.61
 title: Dunvegan
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Dunvegan sits on a sea loch between the Vaternish and Duirnish peninsulas, about 20 miles from [Portree](/europe/unitedkingdom/scotland/skye/portree). The main reason to come is Dunvegan Castle, the seat of the MacLeod clan and one of the oldest continuously inhabited castles in Scotland.

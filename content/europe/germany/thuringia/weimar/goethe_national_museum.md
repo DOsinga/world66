@@ -4,6 +4,11 @@ done:
 latitude: 50.9793
 longitude: 11.3286
 snippet: Goethe's home for fifty years, preserved with his collections
+story: >
+  Goethe's last words, according to his secretary, were "Mehr Licht!" — more
+  light. He died in the chair in his study on 22 March 1832. The room is
+  preserved as it was, including the chair, and the light that enters through
+  the windows he insisted on keeping uncurtained.
 tags:
 - things_to_do
 - museum

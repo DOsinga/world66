@@ -1,13 +1,15 @@
 ---
+latitude: 30.200555
+longitude: 71.476388
 tags:
 - things_to_do
-title: Bahauddin Zakria (Shrine)
+- sight
+- architecture
+title: Shrine of Bahauddin Zakariya
 type: poi
+story: "Boatmen on the Chenab and Indus traditionally call out *\"Dam Bahawal Haq, Dam Bahawal Haq Dam\"* as they pole their boats through rough water — invoking the saint as protection against drowning."
 ---
 
-The prime attraction of the Fort area is the Mausoleum of Sheikh Baha-udDin Zakariya (the ornament of the Faith) generally known as Bahawal Haq and Sheikh Rukn-ud-Din Abul Fath, commonly known by the title of Rukn-i-Alam (pillar of the World). The lofty domes of these Mausoleums are visible, from miles and dominate the skyline of multan. Bahawal Haq as a saint is respected throughout the country particularly in Southern Punjab and Sind. He is the saint whose name is repeated for the sake of benediction and safety by a landlord in hisspaciousbungaiow, afarmerin hisfield,ashepherd in the jungle, and a boatman while navigating his boat in the midst of a swollen river. The boatmen, as they ply their poles in the waters of Chenab and Indus may be heard repeating loudly' "Dam Bahawal Haq- Dam-Bahawal Haq Dam"
+A few hundred metres east of the Shah Rukn-e-Alam mausoleum stands the older and slightly less spectacular **Shrine of Bahauddin Zakariya** — the saint who founded the Suhrawardiyya order in Multan in the 1220s and gave the city its character as a centre of Sufism. He is known throughout southern Punjab and Sindh as **Bahawal Haq** ("the ornament of the Faith"), and his name is invoked for safety by farmers, boatmen and shepherds across the region.
 
-**Contributors**
-May 12, 2009
-
-type: Memorials
+The tomb is a square brick structure with a hemispherical dome, less ornate than its grandson's but with the same family of Multani blue, turquoise and white tilework. It was badly damaged in the 1848 siege when the powder magazine of the British besiegers exploded inside the fort and largely rebuilt afterwards. The complex includes a working mosque, an active *langar* (free kitchen) and a guesthouse for pilgrims, and is at its busiest during the saint's *urs* in November.

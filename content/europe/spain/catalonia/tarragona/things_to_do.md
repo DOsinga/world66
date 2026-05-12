@@ -3,12 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-Tarragona's Roman heritage is the main draw, but the medieval old town and the beach are also worth your time.
+Tarragona was *Tarraco*, the capital of Roman Hispania Tarraconensis, and a city where Augustus and Hadrian both spent extended periods. The Roman remains are extensive, well preserved, and inscribed together on the UNESCO World Heritage list as the **Archaeological Ensemble of Tárraco**: the seafront amphitheatre, the chariot-racing circus, two forums, the city walls, the Pont del Diable aqueduct, and the necropolis at the Tower of the Scipios.
 
-**Roman Amphitheatre** — Dramatically sited overlooking the Mediterranean. Built in the 2nd century AD, it could seat 15,000. Free to enter and the views are excellent.
-
-**Les Ferreres Aqueduct** (Pont del Diable) — A bus or car ride from the centre, this remarkably well-preserved Roman aqueduct stands in a green valley surrounded by trees. Take the same-side stop for the return bus — it is a circular route.
-
-**Cathedral of Tarragona** — A transitional Romanesque-Gothic building with a fine cloister. The cloister garden is peaceful and the carved capitals are worth examining closely.
-
-**Museu Nacional Arqueològic** — The best collection of Roman artefacts in Catalonia, with outstanding mosaics.
+The old town that grew up among the ruins is also worth time — a tight knot of narrow streets between the cathedral and the medieval walls, with a Jewish quarter, several handsome squares, and a Modernista boulevard (the Rambla Nova) running along the cliff above the sea.

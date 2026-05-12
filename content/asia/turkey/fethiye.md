@@ -2,27 +2,22 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
+  location_enrich: '2026-05-12'
+image: fethiye.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Fethiye_2020-03-15-4.jpg
 latitude: 36.622115
+loc_type: city
 longitude: 29.115338
 score: 0.67
 title: Fethiye
 type: location
-loc_type: city
 ---
 
-Fethiye is a pretty town at the hillsides of the Mount Mendos, the part of the Tourus Mountain chains, and surrounds the bay that it has given its name to.
+Fethiye is one of the most appealing towns on Turkey's Turquoise Coast, set at the foot of pine-covered mountains around a wide, island-studded bay. The ancient Lycians called it Telmessos, and their rock-cut tombs still stare down from the cliffs above the harbour. Below them, the modern town is a busy, likeable place — a working harbour full of gulets, a good fish market, and a maze of old-town streets lined with carpet shops and tea gardens.
 
+The real draw is what surrounds it. [Ölüdeniz](/asia/turkey/fethiye), a lagoon of almost unreal turquoise, sits 15 kilometres to the south. The ghost village of [Kayaköy](/asia/turkey/fethiye), abandoned in the 1923 Greek-Turkish population exchange, is a short drive inland. Butterfly Valley, the Saklıkent gorge, and a string of ancient Lycian cities — Tlos, Pinara, Xanthos — are all within day-trip range. The harbour runs daily boat trips to the twelve islands of the bay, and longer Blue Cruise gulets depart for multi-day voyages down the coast.
 
- The high mountain range formed by rises and falls of the crust during the Tertiary Geological Period, and hundreds of bays lying at the mountainside seem to embrace each other along the Fethiye shore line. This mountain range (it was called the Kragos and Antikragos in the antique period) with an altitude of more than 6560 feet (2000m.) forms the southwest end of the Toros (Taurus) chain and lies parallel to the shore without a single passage to the inner regions.
+Fethiye itself is more Turkish and less resort-packaged than many competing beach towns. The Tuesday market fills the centre with produce, spices, leather, and fake designer goods. The fish market is one of the best on the coast — you buy the fish from the stalls and the surrounding restaurants cook it for you. In the evenings the harbour promenade comes alive with families, strolling couples, and cats of every description.
 
-
- On a warm and sunny winter day, peculiar to the Mediterranean climate while you are sipping at your Turkish tea or Turkish coffee, at one of the local tea gardens, along the coast, these mountains with pine trees at their skirts, white snow and mist on their summits will once more welcome you to heaven.
-
-
- Dry, long, hot summers and short, warm, rainy winters are climatic characteristics of Fethiye . The temperature which is around 86-105 F (30-40 C) during the summer, is usually above 50 F (10 C) in the winter. Considering the fact that in these turquoise-colored seas that in no season falls below 60 F (16 C) swimming is possible for nine months of the year, we might as well conclude that there are only two seasons in Fethiye : Spring and Summer!
-
-
- Due to the prevailing climatic conditions in the region, pine forests consisting of silver fir, Scotch fir, and Norway spruce cover the place. Olive, laurel, myrtle, acacia, plane tree, and popular trees are some other types that you can find in this rich flora. The frankincense tree (Liquidamber Orientalis) which is the source of myrrh widely used in the pharmaceutical and cosmetics industries, is among the rare species in the world.
-
-
- You could have a comfortable journey to Fethiye by the three highways through the pine forests, with connections to Mugla, Antalya and Burdur. Scheduled bus trips in all three directions provide the link between Fethiye and other cities. The nearest center for air travel is the Dalaman Airport 31 miles (50 kms.) to Fethiye. In addition to the year round Istanbul - Izmir - Ankara and Antalya connected flights of Turkish Airlines, there are direct flights to all major cities in Europe, Asia and America. During the touristic season, Fethiye's having the fourth largest seaport after Iskenderun, Mersin and Antalya provides great ease of marine travel. The naturally protected harbour is a drop-by place for all yacht crews.
+The town makes an excellent base for a week or more. It has enough to keep you busy without ever feeling hurried.

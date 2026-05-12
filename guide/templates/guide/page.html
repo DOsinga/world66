@@ -13,7 +13,7 @@
     {% if forloop.last %}
       <span class="current">{{ name }}</span>
     {% else %}
-      <a href="/{{ path }}">{{ name }}</a>
+      <a href="/{{ path }}{{ branch_qs }}">{{ name }}</a>
     {% endif %}
     {% endif %}
   {% endfor %}
@@ -32,7 +32,7 @@
     <div class="sidebar-mobile-heading">Sections</div>
     <ul class="sidebar-mobile-list">
       {% for s in sections %}
-      <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
+      <li><a href="{{ s.get_absolute_url }}{{ branch_qs }}">{{ s.title }}</a></li>
       {% endfor %}
     </ul>
     {% endif %}
@@ -40,10 +40,10 @@
     <div class="sidebar-mobile-heading">Destinations</div>
     <ul class="sidebar-mobile-list">
       {% for loc in top_locations %}
-      <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
+      <li><a href="{{ loc.get_absolute_url }}{{ branch_qs }}">{{ loc.title }}</a></li>
       {% endfor %}
       {% for loc in more_locations %}
-      <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
+      <li><a href="{{ loc.get_absolute_url }}{{ branch_qs }}">{{ loc.title }}</a></li>
       {% endfor %}
     </ul>
     {% endif %}
@@ -74,7 +74,7 @@
   {% if parent_sections|length > 1 %}
   <nav class="section-sidenav">
     {% if parent %}
-    <a href="{{ parent.get_absolute_url }}" class="section-sidenav-parent">
+    <a href="{{ parent.get_absolute_url }}{{ branch_qs }}" class="section-sidenav-parent">
       <span class="section-sidenav-back">&#8592;</span>{{ parent.title }}
     </a>
     {% endif %}
@@ -84,7 +84,7 @@
     <ul class="section-sidenav-list" id="section-sidenav-list">
       {% for s in parent_sections %}
       <li>
-        <a href="{{ s.get_absolute_url }}"
+        <a href="{{ s.get_absolute_url }}{{ branch_qs }}"
            class="section-sidenav-link{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} is-active{% endif %}">
           {{ s.title }}
         </a>
@@ -143,9 +143,6 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
-{% if page.meta.snippet %}
-<p class="page-snippet">{{ page.meta.snippet }}</p>
-{% endif %}
 
 {% if page.properties %}
 <div class="info-box">
@@ -252,7 +249,7 @@
   <ul class="poi-list">
     {% for poi in pois %}
     <li data-category="{{ poi.category }}">
-      <a href="{% if poi_context_prefix %}{{ poi_context_prefix }}{{ poi.slug }}{% else %}{{ poi.get_absolute_url }}{% endif %}" class="poi-list-link">
+      <a href="{% if poi_context_prefix %}{{ poi_context_prefix }}{{ poi.slug }}{% else %}{{ poi.get_absolute_url }}{% endif %}{{ branch_qs }}" class="poi-list-link">
         <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
         <div class="poi-meat">
           <div class="poi-name">{{ poi.title }}</div>
@@ -298,7 +295,7 @@
   {% if top_locations %}
   <div class="dest-grid">
     {% for loc in top_locations %}
-    <a href="{{ loc.get_absolute_url }}" class="dest-card{% if not loc.image_url %} dest-card--no-image{% endif %}">
+    <a href="{{ loc.get_absolute_url }}{{ branch_qs }}" class="dest-card{% if not loc.image_url %} dest-card--no-image{% endif %}">
       {% if loc.image_url %}
       <img src="{{ loc.image_url }}" alt="{{ loc.title }}">
       {% else %}
@@ -326,7 +323,7 @@
   {% if more_locations %}
   <div class="dest-more">
     {% for loc in more_locations %}
-    <a href="{{ loc.get_absolute_url }}" class="dest-more-link">{{ loc.title }}</a>
+    <a href="{{ loc.get_absolute_url }}{{ branch_qs }}" class="dest-more-link">{{ loc.title }}</a>
     {% endfor %}
   </div>
   {% endif %}
@@ -340,7 +337,7 @@
 <div class="sections-row">
   {% for s in sections %}
   {% if s.slug != "neighbourhoods" %}
-  <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
+  <a href="{{ s.get_absolute_url }}{{ branch_qs }}" class="section-card" data-slug="{{ s.slug }}">
     <div class="section-card-icon"></div>
     <div class="section-card-name">{{ s.title }}</div>
     <span class="section-card-arrow">&#8594;</span>
@@ -359,7 +356,7 @@
     <button class="nbhd-strip-arrow nbhd-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
     <div class="nbhd-strip" id="nbhd-strip">
       {% for nb in neighbourhood_items %}
-      <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
+      <a href="{{ nb.get_absolute_url }}{{ branch_qs }}" class="nbhd-card">
         {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
         <div class="nbhd-veil"></div>
         <div class="nbhd-txt">
@@ -399,7 +396,7 @@
   <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>
   <ul class="poi-elsewhere-list">
     {% for poi in nav_siblings %}{% if poi.slug != page.slug %}
-    <li><a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a></li>
+    <li><a href="/{{ context_nav.path }}/{{ poi.slug }}{{ branch_qs }}">{{ poi.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
 </div>

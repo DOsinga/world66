@@ -1,7 +1,9 @@
 ---
 title: "Mikwe"
 type: poi
-category: "Sight"
+tags:
+- things_to_do
+- sight
 snippet: "Remarkably preserved medieval Jewish ritual bath"
 latitude: 49.3168
 longitude: 8.4410

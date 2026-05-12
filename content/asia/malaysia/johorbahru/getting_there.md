@@ -1,51 +1,12 @@
 ---
-title: "Getting There in Johor Bahru"
+title: "Getting There"
 type: section
 ---
 
-Tourists trying to reach Johor Bahru have a host of travel and transportation options from which they can choose.**
-**
+Most visitors arrive from Singapore. The Johor-Singapore Causeway carries bus and car traffic across the strait — fares on the Singapore-JB buses are nominal, and the crossing takes minutes once you are through immigration (which can take considerably longer during peak hours). The Second Link bridge to the west of the city is a faster option by car when the Causeway is congested. Taxis cross both links but fares are higher; agree a price before you get in.
 
-**Plane**
+By air, Senai International Airport sits about 30km north of the city. Malaysia Airlines, AirAsia, and Firefly serve it from domestic and some regional destinations. Taxis and shuttle buses connect the airport to the city centre.
 
-Travelers flying into Johor Bahru generally arrive at
-Senai International Airport, which sits approximately 17 miles outside
-the city. The airport offers service from such major carriers as
-Malaysia Airlines, AirAsia and Firefly Airlines. A continuous series of
-shuttles and taxis transports travelers from the airport to Johor Bahru.**
-**
+Trains on KTM's intercity network run from Kuala Lumpur and other Malaysian cities to JB Sentral station, which sits at the Causeway end of town. The journey from KL takes around five hours; comfortable but slow. Passengers continuing to Singapore take a shuttle train across the Causeway to Woodlands in Singapore, clearing immigration at both ends.
 
-**Boat**
-
-Travelers originating from the Indonesian islands of
-Batam and Bintan can catch ferries to Johor Bahru on a daily basis. The
-ride from each location only lasts approximately 90 minutes. The
-Malaysian resort region known as Desaru runs daily ferries to Johor
-Bahru as well.**
-**
-
-**Train**
-
-Keretapi Tanah Melayu Berhad (KTM) trains feed into
-Johor Bahru’s rail station on a daily basis, originating from various
-regions of Malaysia, as well as Singapore. While traveling by train
-remains an inexpensive means of transportation, it has its drawbacks. For instance, the KTM trains are notoriously slow and run at a
-relatively infrequent rate.**
-**
-
-**Car**
-
-Tourists can drive to Johor Bahru from Singapore via
-The Causeway or Second Link, two major thoroughfares which connect
-Malaysia and neighboring Singapore. Make sure you have local currency,
-as many of the roads in and around Johor Bahru require toll fees. While
-the major airports in the region offer car rental services, crossing
-into the Malaysian border from Singapore in a rented car is generally
-not allowed by such companies.**
-**
-
-**Bus**
-
-The majority of buses crossing into Johor Bahru from
-Singapore utilize The Causeway. Passenger fares are nominal at best,
-with some charging less than $1 per ride.
+Ferries connect JB to the Indonesian islands of Batam and Bintan, with the crossing taking around 90 minutes. Desaru on the east Johor coast also runs ferry services to JB.

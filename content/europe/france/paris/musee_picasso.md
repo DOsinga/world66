@@ -13,6 +13,7 @@ tags:
 title: Musée Picasso Paris
 type: poi
 url: www.museepicassoparis.fr
+story: "When Picasso died in 1973 without a will, his estate was subject to French inheritance tax. His heirs paid it in kind — donating artworks at a valeur fiscale agreed with the state. This 'dation' arrangement, used for the first time at this scale, gave France its Picasso museum from the tax liability of a single death."
 ---
 
 The Musée Picasso is housed in the magnificent Hôtel Salé, a 17th-century mansion in the Marais, and holds the largest public collection of Picasso's work in the world: over 5,000 drawings, engravings, paintings, sculptures, and ceramics spanning his entire career from the Blue Period to Cubism to his final years.

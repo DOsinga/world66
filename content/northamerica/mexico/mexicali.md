@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+image: mexicali.jpg
+image_attribution: Thelmadatter
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:CasaCulturalMexicali_(cropped).JPG
 latitude: 32.624531
+loc_type: city
 longitude: -115.452604
+score: 0.36
 title: Mexicali
 type: location
-score: 0.36
-loc_type: city
 ---
 
 Mexicali is the capital of Baja California and one of Mexico's major border cities, sitting directly across from Calexico, California. It is a working city rather than a tourist destination, which gives it an authenticity that the resort towns further south lack.

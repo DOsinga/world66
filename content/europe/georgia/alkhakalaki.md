@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-11'
+image: alkhakalaki.jpg
+image_attribution: Jaba1977
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Akhalkalaki_Fortress_(7).jpg
 latitude: 41.407791
+loc_type: city
 longitude: 43.485427
+score: 0.38
 title: Akhalkalaki
 type: location
-score: 0.38
-loc_type: city
 ---
 
 Akhalkalaki is a small city in the Samtskhe-Javakheti region of southern Georgia, sitting on a high plateau near the Armenian border. It is not a tourist destination in the conventional sense, but it earns its place on any itinerary through southern Georgia as a transit hub. Buses and minibuses connect it to [Tbilisi](/europe/georgia/tbilisi) and [Akhaltsikhe](/europe/georgia/alkhatsikhe), and from here you can cross into [Armenia](/europe/armenia).

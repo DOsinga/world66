@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: uddevalla.jpg
+image_attribution: User Greverod on sv.wikipedia
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Centre_of_Uddevalla.jpg
 latitude: 58.349055
+loc_type: city
 longitude: 11.938285
+score: 0.42
 title: Uddevalla
 type: location
-score: 0.42
-loc_type: city
 ---
 
 Uddevalla is a town of about 50,000 on the western coast of [Sweden](/europe/sweden), at the head of the Byfjorden inlet. It was historically a shipyard and fishing town, and the harbour still defines the place even though the big yards closed decades ago.

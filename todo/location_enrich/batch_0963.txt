@@ -1,5 +1,0 @@
-southamerica/chile/puntaarenas
-europe/greece/metsovo
-europe/italy/emiliaromagna/cattolica
-asia/philippines/palawanisland
-europe/denmark/ribe

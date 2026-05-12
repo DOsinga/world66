@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: skomvr.jpg
+image_attribution: Mehdi Motedayen
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Skomv%C3%A6r_fyr_01.jpg
 latitude: 67.409889
+loc_type: city
 longitude: 11.875678
+score: 0.52
 title: Skomvær
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Skomvaer is the outermost island in the Rost archipelago, the very last scrap of land at the southwestern tip of the [Lofoten Islands](/europe/norway/lofotenislands) before the open Norwegian Sea. A proud lighthouse built in 1887 stands on the island, marking the edge of the coast for ships heading north. The island is tiny, lush, and windswept, surrounded by some of the richest seabird colonies in Norway.

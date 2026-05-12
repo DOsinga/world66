@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
 latitude: 52.220985
+loc_type: city
 longitude: 6.894054
+score: 0.42
 title: Enschede
 type: location
-score: 0.42
-loc_type: city
 ---
 
 Enschede is a university city in Twente, the eastern corner of the Netherlands, about two hours by train from Amsterdam. It is the largest city in the region and has a youthful energy driven by the University of Twente and Saxion University of Applied Sciences.

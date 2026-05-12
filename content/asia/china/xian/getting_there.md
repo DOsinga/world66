@@ -1,18 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-**Points of Interest**
+Xi'an Xianyang International Airport (XIY), 40 km north-west of the city, is one of the busiest airports in inland China, with frequent direct flights from Beijing, Shanghai, Guangzhou, Chengdu, Hong Kong, Seoul, Tokyo, Bangkok, and a handful of European hubs. An airport bus and a metro link (Line 14, opened 2021) both reach the city in under an hour.
 
-**By air **
+The high-speed rail network has changed how most Chinese travellers reach Xi'an. Beijing is now four-and-a-half hours by train, Shanghai six, Chengdu three, Luoyang one and a half, and Pingyao two and a half. Trains run from **Xi'an North**, a vast modern station on the city's outer ring, connected to the centre by metro Line 2. Long-distance overnight trains still run from the older **Xi'an Station**, just outside the North Gate of the old city walls.
 
-Xi’an is one of the best connected cities in China-it’s possible to fly to almost every major city in China as well as several international ones. Daily flights include Beijing, Chengdu, Guangzhou, Guilin, Shanghai and Qingdao, etc.  
-
-**By train**
-
-There are direct trains from Xi’an to Beijing, Chengdu, Guangzhou, Hefei, Qingdao, Shanghai, Taiyuan, Urumqi and Wuhan. For Chongqing and Kunming change at Chengdu.
-
-**By bus**
-
-Buses are plentiful but overcrowded. Unfortunately, buses tend to be heavily overcrowded, so the best overall option for journeys of any distance is to travel by taxi.
+Buses connect Xi'an with the smaller towns of Shaanxi province, but for any longer distance the train is much better.

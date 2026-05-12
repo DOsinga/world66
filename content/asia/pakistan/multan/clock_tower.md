@@ -1,16 +1,14 @@
 ---
-latitude: 32.516129
-longitude: 74.556361
+latitude: 30.198611
+longitude: 71.467777
 tags:
 - things_to_do
+- architecture
+- sight
 title: Clock Tower
 type: poi
 ---
 
-A clock tower is a tower built with one or more (often four) clock faces. The clock tower is usually part of a church or municipal building such as a town hall, but many clock towers are free-standing.
-The mechanism inside the tower is known as a turret clock. It often marks the hour (and sometimes segments of an hour) by sounding large bells or chimes, sometimes playing simple musical phrases or tunes.
+The **Clock Tower** — known locally as **Ghanta Ghar** and originally the **Northbrook Tower** — stands on the Old Civil Bazaar at the western edge of the walled city. It was built by the British in 1884 on the site of an older Hindu temple destroyed during the 1848–49 siege, and today serves as the headquarters of the Multan municipal corporation. The tower itself is a tall red-brick Victorian construction, plain by Multani standards but a useful landmark: from its base you can see the great domes of Shah Rukn-e-Alam and Bahauddin Zakariya rising over the old town.
 
-**Contributors**
-May 12, 2009
-
-type: Landmarks
+The square around it is a busy bus and cart junction and a natural starting point for walking the bazaars. The interior of the building is normally closed to the public.

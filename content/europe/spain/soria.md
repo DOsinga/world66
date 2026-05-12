@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: soria.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ermita_de_Santo_Cristo_de_Miranda,_Santa_Mar%C3%ADa_de_las_Hoyas,_Soria,_Espa%C3%B1a,_2017-05-26,_DD_65.jpg
 latitude: 41.60125
+loc_type: city
 longitude: -2.721938
+score: 0.46
 title: Soria
 type: location
-score: 0.46
-loc_type: city
 ---
 
 Soria is one of Spain’s best-kept secrets — a high plateau in north-central [Castilla y León](/europe/spain/castillayleon) where medieval castles, Romanesque churches, and timeless villages sit scattered across more than 10,000 square kilometres of forests, nature parks, and open grazing land. The province averages about 1,000 metres above sea level, and the air is noticeably clean and sharp.

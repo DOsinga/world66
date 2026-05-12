@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: soutomaior.jpg
+image_attribution: Xoan Anton
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Castelo_de_Soutomaior,_San_Salvador_de_Soutomaior.jpg
 latitude: 42.338625
+loc_type: city
 longitude: -8.572628
+score: 0.43
 title: Soutomaior
 type: location
-score: 0.43
-loc_type: city
 ---
 
 Soutomaior is a small municipality near the ria of Vigo in southern [Galicia](/europe/spain/galicia). The reason to come here is the Castle of Soutomaior, set on a hilltop with fine views over the surrounding countryside.

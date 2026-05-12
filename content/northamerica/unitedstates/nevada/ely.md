@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: ely.jpg
+image_attribution: Famartin
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2012-10-08_View_of_downtown_Ely_in_Nevada_from_the_lower_slopes_of_Ward_Mountain.jpg
 latitude: 39.2481
+loc_type: city
 longitude: -114.8917
 score: 0.35
 title: Ely
 type: location
-loc_type: city
 ---
 
 Ely is a small copper-mining town in the middle of the Great Basin, and one of the most isolated communities in the lower 48. It sits at 6,400 feet in White Pine County, Nevada, surrounded by long mountain ranges and vast empty valleys. The nearest city of any size is Salt Lake City, roughly four hours east.

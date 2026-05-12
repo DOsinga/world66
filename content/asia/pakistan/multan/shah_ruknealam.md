@@ -3,13 +3,13 @@ latitude: 30.199134
 longitude: 71.471654
 tags:
 - things_to_do
+- sight
+- architecture
 title: Shah Rukn-e-Alam
 type: poi
+story: "The tomb was actually built in 1320 for the Tughluq sultan Ghiyas-ud-Din — not for the saint at all. Rukn-e-Alam's family persuaded the sultan to give it up after his death, and the saint was buried in it instead. The original royal occupant lies in a separate, much smaller tomb in Delhi."
 ---
 
-The Mazar of Rukn-i-Alam is the glory of multan. When the city is approached from any side the most prominent thing which can be seen from miles all around is a huge dome. This dome is the Shrine of Sheikh Rukn-ud-Din Abul Fath commonly known by the title Rukn-e-Alam (pillar of the world). The tomb is located on the south-West side of the Fort premises. In beauty and grandeur so other dome perhaps equals it This elegant building is an octagon, 51 feet 9 inches in diameter internally, with walls 41 feet 4 inches high and 13 feet 3 inches thick, supported at the angles by sloping towers. Over this is a smaller octagon 25 feet 8 inches, on the exterior side, and 26 feet 1 0 inches high, leaving a narrow passage all round the top of the lower story for the Moazzan, or public caller to prayers. The whole is surmounted by hemishperical dome of 58 feet external diameter. The total height of the building, including a plinth of 3 feet, is 100 feet. As it stands on the high ground, the total height above the road level is 150 feet. This contributes materially to the majestic and colossal appearance of the tomb, making it the most prominent object of view to the visitors. Besides its religious importance, the mausoleum is also of considerable archaeological value as its dome is reputed to be the second largest in the world after 'Gol Gumbad' of Bijapur (India), which is the largest.
+The **Shrine of Shah Rukn-e-Alam** (literally "pillar of the world") is the architectural high point of Multan and the building that dominates the city's skyline. Completed in 1320, it is the tomb of Sheikh Rukn-ud-Din Abul Fath, grandson of Bahauddin Zakariya and the second great master of the Suhrawardiyya Sufi order in the subcontinent. The mausoleum is an enormous octagon of baked brick, 51 feet across at the base and 100 feet to the top of its hemispherical dome — making it one of the masterpieces of pre-Mughal **Tughluq architecture** and a major prototype for the tomb buildings that followed it in Delhi and beyond.
 
-**Contributors**
-May 12, 2009
-
-type: Memorials
+The exterior is faced with deep blue, turquoise and white **Multani tilework**, set in geometric and floral patterns against the warm red brick. Eight sloping corner towers buttress the walls, giving the building its characteristic chunky silhouette. The shrine sits on the raised mound of the old Multan Fort and is active throughout the year, with the saint's annual *urs* festival drawing large crowds in late autumn. Non-Muslim visitors are welcome inside; remove shoes and dress modestly.

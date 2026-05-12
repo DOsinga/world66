@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-20'
+image: turin.jpg
+image_attribution: Domeian
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:La_basilica_al_tramonto.jpg
 latitude: 45.0678
+loc_type: city
 longitude: 7.6825
 score: 0.68
 title: Turin
 type: location
-loc_type: city
 ---
 
 Turin is Italy's most underrated major city. While tourists flock to Rome, Florence, and Venice, the former capital of the Savoy kingdom quietly offers world-class museums, one of Europe's most impressive collections of Baroque architecture, and a food and cafe culture that rivals anywhere on the peninsula. The elegant grid of arcaded streets, the sweeping views of the Alps from nearly every vantage point, and the River Po winding through riverside parks give the city a grandeur that constantly surprises first-time visitors.

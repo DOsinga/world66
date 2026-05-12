@@ -1,12 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: wytheville.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:St._John%27s_Episcopal_Church,_Wytheville,_Virginia.JPG
 latitude: 36.947997
+loc_type: city
 longitude: -81.086975
+score: 0.34
 title: Wytheville
 type: location
-score: 0.34
-loc_type: city
 ---
 
 Wytheville is a small town in the Blue Ridge Highlands of southwest Virginia, sitting at the junction of Interstates 77 and 81 — which makes it one of the most passed-through towns in the state. Most travelers stop for gas; the smarter ones stop for longer.

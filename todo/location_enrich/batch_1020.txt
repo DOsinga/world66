@@ -1,5 +1,0 @@
-europe/spain/spanishcostas/elche
-asia/india/kerala/kottayam
-europe/belgium/vielsam
-northamerica/unitedstates/california/centralcoast/ventura
-africa/senegal/capskirring

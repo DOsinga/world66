@@ -1,5 +1,0 @@
-europe/poland/lancut
-northamerica/unitedstates/newhampshire/manchester
-europe/italy/lombardia/como
-europe/france/midi/provence/avignon
-africa/morocco/casablanca

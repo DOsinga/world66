@@ -1,5 +1,0 @@
-europe/italy/sicily/ragusa
-europe/serbiaandmontenegro/kosovoprovince/gjakova
-europe/italy/veneto/venice
-northamerica/costarica/lafortuna
-asia/india/gujarat/surat

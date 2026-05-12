@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
 latitude: 37.594036
+loc_type: city
 longitude: 61.839793
+score: 0.32
 title: Mary
 type: location
-score: 0.32
-loc_type: city
 ---
 
 Mary is a mid-sized city in southern Turkmenistan, and the main gateway to the ancient ruins of Merv — one of the great Silk Road cities and a UNESCO World Heritage Site. The ruins lie about 30 km east of the city center and are the principal reason most travelers come here.

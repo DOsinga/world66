@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-11'
+image: miaokou_night_market.jpg
+image_attribution: Outlookxp
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Keelung_Miaokou_Night_Market.jpg
 latitude: 25.1276
+loc_type: city
 longitude: 121.7392
 score: 0.46
 title: Keelung
 type: location
-loc_type: city
 ---
 
 Keelung is a working port city on Taiwan's northeast coast, about 30 minutes from [Taipei](/asia/taiwan/taipei) by train. It is one of the rainiest cities in Taiwan and emphatically not a polished tourist destination. That is part of its appeal. The harbour is the real thing — container ships, fishing boats, and a waterfront that smells of diesel and salt air rather than designer perfume.

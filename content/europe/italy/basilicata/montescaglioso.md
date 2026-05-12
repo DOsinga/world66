@@ -1,17 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-11'
-image: montescaglioso.jpg
-image_attribution: Anna Nicoletta Menzella
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Montescaglioso_citt%C3%A0_dei_monasteri.jpg
 latitude: 40.552221
-loc_type: city
 longitude: 16.666887
-score: 0.45
 title: Montescaglioso
 type: location
+score: 0.45
+loc_type: city
 ---
 
 Montescaglioso is a hilltop town in [Basilicata](/europe/italy/basilicata), perched above the Bradano valley about 20 km south of [Matera](/europe/italy/basilicata/matera). It is one of the more rewarding stops in a region that rewards detours.

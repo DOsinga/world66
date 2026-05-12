@@ -1,5 +1,0 @@
-northamerica/unitedstates/newjersey/pennsville
-europe/hungary/debrecen
-asia/china/yunnanprovince/xishuangbanna
-europe/spain/andalucia/chipiona
-europe/unitedkingdom/england/manchester_liverpool_and_north_west/preston

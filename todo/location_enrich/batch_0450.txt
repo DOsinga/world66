@@ -1,5 +1,0 @@
-asia/india/gujarat/patan
-asia/india/assam/guwahati
-northamerica/unitedstates/florida/delray_beach
-europe/italy/lazio/civitavecchia
-europe/montenegro/bjelasica

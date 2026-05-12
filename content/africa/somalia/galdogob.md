@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-11'
 latitude: 7.048863
+loc_type: city
 longitude: 47.206094
+score: 0.16
 title: Galdogob
 type: location
-score: 0.16
-loc_type: city
 ---
 
 Galdogob is a town in the Mudug region of central Somalia, near the Ethiopian border. It is a livestock trading center, with camels, sheep, goats, and cattle passing through for domestic sale and export to Gulf markets during the Hajj season.

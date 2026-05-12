@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: aberdeen.jpg
+image_attribution: H2O2 at English Wikipedia
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Aberdeen,_South_Dakota.jpg
 latitude: 45.464981
+loc_type: city
 longitude: -98.487813
+score: 0.32
 title: Aberdeen
 type: location
-score: 0.32
-loc_type: city
 ---
 
 Aberdeen is the third-largest city in South Dakota, a hub of about 28,000 people on the wide-open plains of the northeast part of the state. Known locally as the "Hub City" for the railroad lines that once converged here, Aberdeen is the commercial center for a vast agricultural region. The town has a genuine small-city warmth and more going on than you might expect from its remote location.

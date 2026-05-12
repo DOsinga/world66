@@ -1,14 +1,8 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-**Padre Vieira - um ser humano maravilhoso!**
+Vila do Conde is a compact town and the historic centre, the beach, and the main sights are all walkable from each other. The centre around Praça da República and Rua 5 de Outubro is about 15 minutes' walk from the beach at Avenida do Brasil.
 
-O pároco da freguesia da Junqueira, Padre Vieira, é um ser humano de infindável humanidade e que granjeia enorme prestigio na sua classe e junto dos habitantes da freguesia. Com uma obra assinalável, o Padre Vieira é visto como um páraco, mas também como um Amigo e bom Conselheiro.
-
-Ainda recentemente, na Missa pela alma d*o* saudoso Dr. Carlos Pinto Ferreira, o Padre Vieira destacou a presença do **Engº Mário Almeida** , **sublinhando o que tem feito pela freguesia e pelo concelho**, acrescentando que, muitas vezes, somos ingratos para pessoas que tudo vão procurando fazer em prol de uma vida melhor para todos.
-
-Estas palavras tão sentidas e tão verdadeiras, que nos chegaram através de uma voz positiva que soube colocar o enfoque no que é positivo, provam a satisfação que reina entre os vilacondenses com a obra feita pelo Engº Mário Almeida, pouco dado aos auto-elogios e sempre bastante modesto, mas também pretendem fortalecer a fraternidade e contribuir para que aqueles, e felizmente são muito poucos, que só recorrem à maledicência sejam envolvidos por um rasgo de lucidez e passem a trilhar caminhos mais correctos.
-
-Bem-dito sejas, Padre Vieira!
+Getting to and from Porto is straightforward: the Metro do Porto Line B (Póvoa de Varzim line) connects Vila do Conde to the city centre in about 45 minutes, and trains on the Linha do Minho also run from the station. For the surrounding towns and beaches, local buses connect the main coastal communities.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-12'
+image: metsovo.jpg
+image_attribution: George Mitsouras
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Metsovo,Greece_-_panoramio.jpg
 latitude: 39.7693
+loc_type: city
 longitude: 21.183
+score: 0.55
 title: Metsovo
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Metsovo is a stone-built mountain town perched at 1,150 metres on the Pindos range, at the crossroads where [Epirus](/europe/greece/epirus), Thessaly, and western Macedonia meet. It feels more Alpine than Mediterranean — steep cobbled streets, slate-roofed houses, wood smoke in the air, and locals who still wear traditional Vlach dress on festival days.

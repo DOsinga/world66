@@ -1,12 +1,17 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-12'
+image: guysborough.jpg
+image_attribution: Ryan Hodnett
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Guysborough_Harbour_-_Guysborough,_Nova_Scotia_2022-07-28_(02).jpg
 latitude: 45.394
+loc_type: city
 longitude: -61.499
 score: 0.39
 title: Guysborough
 type: location
-loc_type: city
 ---
 
 Guysborough is a small town on the Eastern Shore of [Nova Scotia](/northamerica/canada/novascotia), sitting at the head of Chedabucto Bay. One of the oldest settlements in the province, it dates back to the 1600s and has a long history tied to the fishing trade. Today it is a quiet, scenic stop on the drive between [Halifax](/northamerica/canada/novascotia/halifax) and Cape Breton, with a population of only a few hundred.

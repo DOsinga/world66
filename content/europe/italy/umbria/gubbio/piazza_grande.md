@@ -6,7 +6,7 @@ longitude: 12.5773
 snippet: Hanging medieval square with valley views and a saint race
 tags:
 - things_to_do
-- story
+- sight
 title: Piazza Grande
 type: poi
 ---

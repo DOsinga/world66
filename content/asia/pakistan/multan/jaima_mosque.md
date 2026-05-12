@@ -1,13 +1,13 @@
 ---
+latitude: 30.1990
+longitude: 71.4760
 tags:
 - things_to_do
-title: Jaima Mosque
+- sight
+title: Jamia Mosque (Qasim Bela)
 type: poi
 ---
 
-Multan also boasts of having some of the oldest mosques which were once considered as the jewels of the city. These mosques now remind us the glorious past of multan as it was governed by Muslims for more than a thousand years.The first mosque ever built in multan was the Jamia Mosque which was constructed on the orders of Mohammad-bin- Qasim the famous general who conquered multan in 712 AD Ruins of this mosque were visible till 1954 at Qasim Bella which have now been washed away by the repeated floods of the river Chenab.
+The first mosque ever built in Multan was the **Jamia Mosque**, constructed on the orders of **Muhammad bin Qasim** after the Umayyad general's conquest of the city in 712 AD. It stood on the western edge of the old fort at **Qasim Bela** — the bank of the river Chenab — and was for centuries the symbolic anchor of Islamic Multan, one of the earliest mosques in the entire subcontinent.
 
-**Contributors**
-May 12, 2009
-
-type: Mosques
+Nothing of the original building survives. Its ruins were still visible as late as 1954, when the encroaching channel of the Chenab finally washed away what was left of the foundations. The Qasim Bela area is now part of the protected old-fort precinct but the mosque itself is gone — a historical footnote rather than a site to visit.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
+image: sanahin_1.jpg
+image_attribution: Marcin Konsek
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2014_Prowincja_Lorri,_Sanahin,_Klasztor_Sanahin_(29).jpg
 latitude: 41.091835
+loc_type: city
 longitude: 44.656951
+score: 0.48
 title: Sanahin
 type: location
-score: 0.48
-loc_type: city
 ---
 
 Sanahin — the name means "older than the other one," probably a reference to nearby [Haghpat](/europe/armenia/haghpat_3) — is a village perched on the dissected plateau high above the Debed gorge, now officially a suburb of Alaverdi but feeling very much like its own place. You can reach it by a cable car from Alaverdi (check schedules — hours are irregular) or by a steep, winding road.

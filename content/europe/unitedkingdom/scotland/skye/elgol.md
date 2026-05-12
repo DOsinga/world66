@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: elgol.jpg
+image_attribution: Paul Hermans
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Schotland_Elgol_en_Cuillins_11-05-2010_17-15-37.JPG
 latitude: 57.149235
+loc_type: city
 longitude: -6.10143
+score: 0.61
 title: Elgol
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Elgol is a tiny village on the southern coast of Skye, reached by a winding single-track road from [Broadford](/europe/unitedkingdom/scotland/skye/broadford) that passes beneath the dramatic peak of Blaven — the Black Cuillin summit detached from the main ridge. The drive alone is worth the trip.

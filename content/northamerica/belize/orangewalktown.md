@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-11'
 latitude: 18.0833
+loc_type: city
 longitude: -88.55
+score: 0.42
 title: Orange Walk Town
 type: location
-score: 0.42
-loc_type: city
 ---
 
 Orange Walk is the main town in northern Belize, in the heart of sugar cane country. It's an agricultural and commercial hub rather than a tourist attraction, but it's the starting point for one of the more rewarding day trips in the country: the boat trip up the New River to Lamanai.

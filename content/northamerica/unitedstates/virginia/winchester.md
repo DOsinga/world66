@@ -1,12 +1,17 @@
 ---
-title: Winchester
-type: location
-latitude: 39.1852
-longitude: -78.1652
 done:
   location_cleanup: 2026-04-07
-score: 0.4
+  location_enrich: '2026-05-12'
+image: winchester.jpg
+image_attribution: Gerry Dincher on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/11629603@N04/52860925442
+latitude: 39.1852
 loc_type: city
+longitude: -78.1652
+score: 0.4
+title: Winchester
+type: location
 ---
 
 Winchester sits at the top of the Shenandoah Valley, a small city with a disproportionate amount of American history packed into its streets. George Washington got his start here — surveying, building forts, winning his first election — and during the Civil War the town changed hands between Union and Confederate forces so many times that locals lost count. Six battles were fought in and around Winchester, and the city is said to have changed flags around 70 times over four years.

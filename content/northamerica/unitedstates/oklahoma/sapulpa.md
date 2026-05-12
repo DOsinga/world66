@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-12'
+image: sapulpa.jpg
+image_attribution: Melodibit
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:CreekCountyCourthouseOK.JPG
 latitude: 36.000504
+loc_type: city
 longitude: -96.104961
+score: 0.3
 title: Sapulpa
 type: location
-score: 0.3
-loc_type: city
 ---
 
 Located on Historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m), Sapulpa is the county seat of Creek County with over 19,000 people. From Indian Territory history to the Glenpool oil strike, from railroad town to glass and pottery manufacturing, Sapulpa has been shaped by diverse influences. The Main Street project has preserved the distinctive downtown district, most of which was built before the 1920s.

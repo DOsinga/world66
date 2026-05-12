@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-21'
+image: york.jpg
+image_attribution: wwwuppertal on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/54788366@N00/48962324387
 latitude: 53.965658
+loc_type: city
 longitude: -1.074305
 score: 0.71
 title: York
 type: location
-loc_type: city
 ---
 
 Two thousand years of history packed into a walkable city centre, and over 200 pubs to recover in afterwards. York is one of England’s finest cities, layering Roman foundations, Viking heritage, and medieval streets into a place that rewards every visit.

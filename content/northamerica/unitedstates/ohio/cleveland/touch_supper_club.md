@@ -7,8 +7,8 @@ longitude: -81.704887
 phone: 216.631.5200
 snippet: Ohio City bar and supper club with strong drink selection
 tags:
-- nightlife
-- food
+- bars_and_cafes
+- bar
 title: Touch Supper Club
 type: poi
 ---

@@ -5,15 +5,20 @@ done:
   location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
 image: apeldoorn.jpg
-image_attribution: Dirk Jan van Zoest
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Apeldoorn_-_panoramio.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Castle_gardens_panorama_(38469876374).jpg
+image_attribution: Thomas Quine
 latitude: 52.2112
-loc_type: city
 longitude: 5.9699
 score: 0.48
+tags:
+  - nature
+  - history
+  - day_trip
+tier: 3
 title: Apeldoorn
 type: location
+loc_type: city
 ---
 
 Apeldoorn grew from a scattering of Veluwe villages into a proper city, but it still feels like it hasn't quite shaken off its small-town roots. The centre is compact and manageable, ringed by some of the best forest and heathland in the Netherlands. It is not a glamorous destination, but it has genuine charm.

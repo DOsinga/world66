@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+image: tellaro.jpg
+image_attribution: Diego Pianarosa (aka Pinku) on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/96595989@N04/29592676472
 latitude: 44.058022
+loc_type: city
 longitude: 9.93037
+score: 0.63
 title: Tellaro
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Tellaro is one of the prettiest villages on the Ligurian coast, a tight cluster of pastel houses tumbling down a rocky promontory into the Gulf of La Spezia. There are no cars — you park above and walk down steep steps through narrow caruggi to a tiny piazza overlooking the sea.

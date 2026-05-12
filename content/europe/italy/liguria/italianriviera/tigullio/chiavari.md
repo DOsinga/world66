@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: chiavari.jpg
+image_attribution: Dapa19
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chiavari-panorama_dalla_ss1_(2020).jpg
 latitude: 44.316449
+loc_type: city
 longitude: 9.323338
 score: 0.6
 title: Chiavari
 type: location
-loc_type: city
 ---
 
 Chiavari is the main town of the Tigullio Gulf, a handsome and prosperous city of around 28,000 people squeezed between the mountains and the sea on the eastern Ligurian Riviera. It lacks the celebrity of nearby Portofino or Cinque Terre, which is much of its appeal: this is a real Ligurian town, one where people actually live and work, with an excellent beach, a fine historic centre, and a famous antiques market.

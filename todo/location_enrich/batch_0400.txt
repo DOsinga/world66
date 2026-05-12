@@ -1,5 +1,0 @@
-europe/norway/trondheim
-europe/italy/veneto/padua/montegrotto_terme
-europe/netherlands/laren
-europe/france/centre/loirevalley/villandry
-africa/morocco/erfoud

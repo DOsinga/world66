@@ -9,7 +9,7 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
 ## For each location
 
 0. **Is this actually worth keeping?** Many items are misclassified, misfiled, or just not useful. Make a judgement call:
-   - **If it's not a location at all** (a restaurant, bar, hotel, shop, or other POI tagged `type: location`): change the type to `poi`, verify coordinates, and move it into the right section dir if needed. Delete it if the content is trivial or it's an excluded type (hotels, accommodation).
+   - **If it's not a location at all** (a restaurant, bar, hotel, shop, or other POI tagged `type: location`): change the type to `poi`, verify coordinates, move it to sit as a sibling of the parent location's section files, and give it the right section tag (`things_to_do`, `eating_out`, `bars_and_cafes`, etc.). Delete it if the content is trivial or it's an excluded type (hotels, accommodation).
    - **If it's a location but misfiled** (wrong country, wrong parent region): usually delete — the content is almost always a stub, and don't try to reparent it.
    - **If it's a real location, keep it if either** (a) it's of genuine traveller interest (a city, a national park, a named beach, a historic town), or (b) it already has useful content worth preserving. Rewrite the overview properly.
    - **Otherwise delete it.** Tiny village stubs with one line of content ("X is a village in Y"), gibberish, SEO spam, empty "information coming soon" pages — all go. Better to have no page than a useless one.
@@ -19,10 +19,10 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
    neighborhoods, leave the sublocations alone (for regions, states etc) - they will be processed on their
    own.
 
-2. **Restructure sections** per LOCATIONS.md:
-   - If `sights/` and/or `museums/` exist, create `things_to_do/` and move POIs in. Add `tags: [things_to_do, sight]` or `tags: [things_to_do, museum]` to each.
-   - If `nightlife/` exists, move any worthwhile POIs into `bars_and_cafes/`. Delete the rest — old nightlife data is almost always outdated.
-   - Delete the old section files and directories after migrating.
+2. **Restructure sections** per LOCATIONS.md. POIs are flat — they live as siblings to the section `.md` files, not inside section subdirectories. Section membership is set by tags:
+   - If `sights/` and/or `museums/` exist as directories, move the POI files up to sit alongside the section files and add `tags: [things_to_do, sight]` or `tags: [things_to_do, museum]` to each. Ensure a `things_to_do.md` section file exists.
+   - If `nightlife/` exists, move any worthwhile POIs up alongside the section files and tag them `[bars_and_cafes, bar]` (or another appropriate category tag). Delete the rest — old nightlife data is almost always outdated.
+   - If `things_to_do/`, `eating_out/`, `bars_and_cafes/`, `shopping/`, `beaches/`, or `books/` exist as directories, flatten them the same way: move POIs up to be siblings of the section file and rely on tags for section membership. Books are an exception — they should be inline recommendations in `books.md`, not POIs at all (see LOCATIONS.md). Delete any leftover empty directories after migrating.
 
 3. **Delete junk sections** that don't belong on location pages per LOCATIONS.md:
    - `sights.md`, `museums.md` (replaced by `things_to_do`)
@@ -46,7 +46,7 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
 6. **Review existing POIs**:
    - this is mostly true for locations, less so for regions
    - Delete spam, junk, or obviously wrong entries (sports venues, gibberish, wrong-country content)
-   - Add appropriate tags to all POIs in `things_to_do/` (e.g. `sight`, `museum`, `architecture`, `neighbourhood`)
+   - Add appropriate tags to all things-to-do POIs (e.g. `sight`, `museum`, `architecture`, `neighbourhood`) alongside their `things_to_do` section tag
    - Check every POI has `latitude` and `longitude` — add if missing, fix if wrong
    - Verify coordinates are plausible for the location (wrong-country coords are common in old World66 data)
    - Update clearly outdated content (prices in lire, defunct businesses) where obvious

@@ -1,15 +1,11 @@
 ---
-latitude: 42.063074
-longitude: -8.511347
+latitude: 41.353
+longitude: -8.744
 tags:
-- bars_and_cafes
+  - bars_and_cafes
+  - bar
 title: Velvet
 type: poi
 ---
 
-The best nights in Vila are spent at Velvet! A delightful and well cared-for place with the best music and the best environment. Visit us!
-
-**Contributors**
-September 10, 2004
-
-type: general
+A bar in the centre of Vila do Conde with a laid-back atmosphere and music. A good option for an evening drink in the old town, attracting a local crowd rather than a tourist one.

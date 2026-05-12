@@ -4,6 +4,9 @@ done:
 latitude: 42.2793
 longitude: -83.7432
 snippet: Cash-only 24-hour diner beloved by students and night owls
+tags:
+  - eating_out
+  - restaurant
 title: Fleetwood Diner
 type: poi
 ---

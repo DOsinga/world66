@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: accra.jpg
+image_attribution: wrcomms on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/134037448@N03/32772680570
 latitude: 5.6037
+loc_type: city
 longitude: -0.187
 score: 0.48
 title: Accra
 type: location
-loc_type: city
 ---
 
 *Africa > Ghana > Accra*

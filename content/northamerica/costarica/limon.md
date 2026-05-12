@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: limon.jpg
+image_attribution: Roger
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Isla_Uvita._Lim%C3%B3n._Costa_Rica.jpg
 latitude: 9.9907
+loc_type: city
 longitude: -83.036
+score: 0.43
 title: Limon
 type: location
-score: 0.43
-loc_type: city
 ---
 
 Limón province covers the entire Caribbean coast of Costa Rica, from the Nicaraguan border in the north to the Panamanian border in the south. It has a distinct character from the rest of the country — Afro-Caribbean culture, English Creole spoken alongside Spanish, reggae and calypso, coconut-based cooking, and a slower pace.

@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: yogyakarta.jpg
+image_attribution: Crisco 1492
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Eastern_face_of_west_gate,_Taman_Sari,_Yogyakarta,_2014-04-24_(from_19_images).jpg
 latitude: -7.797068
+loc_type: city
 longitude: 110.370529
 score: 0.71
 title: Yogyakarta
 type: location
-loc_type: city
 ---
 
 Yogyakarta — known simply as Jogja to most Indonesians — is the cultural capital of Java and one of the most compelling cities in Southeast Asia. It is the only province in Indonesia still governed by its pre-colonial monarchy: the Sultan of Yogyakarta serves as the elected governor, and the royal palace (Kraton) remains the heart of the city's identity. Javanese art, batik, wayang puppet theatre, and gamelan music all have their deepest roots here.

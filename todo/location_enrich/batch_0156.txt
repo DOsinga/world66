@@ -1,5 +1,0 @@
-africa/morocco/zagora
-africa/sudan/shendi
-northamerica/unitedstates/arizona/tuba_city
-europe/poland/kielce
-europe/germany/lowersaxony/luneburg

@@ -1,5 +1,0 @@
-europe/iceland/husavik
-europe/italy/sicily/messina
-europe/greece/patras
-europe/spain/andalucia/velezmalaga
-europe/sweden/stersund

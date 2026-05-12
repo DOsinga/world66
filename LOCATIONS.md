@@ -101,18 +101,7 @@ Transport within the city — metro, buses, taxis, walking, bike rental.
 
 Novels and literature that help understand the place — its history, its people, its character. Not travel guides, not history books. The test: would a traveller who reads this understand the city differently?
 
-Each book is a POI in `books/` with `author:` and optionally `isbn:`. Aim for 3–5 books per city.
-
-```yaml
----
-title: "My Brilliant Friend"
-type: poi
-author: "Elena Ferrante"
-isbn: "978-1609450786"
----
-
-The first of Ferrante's four Neapolitan novels...
-```
+Write 3–5 recommendations inline in `books.md`. Each one should name the book and author, say what it's about, and explain why a traveller would want to read it. Don't create a `books/` subdirectory with POI entries — books are not points on the map.
 
 ## Sections that don't belong on location pages
 

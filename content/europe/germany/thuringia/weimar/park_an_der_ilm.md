@@ -4,6 +4,11 @@ done:
 latitude: 50.9762
 longitude: 11.3322
 snippet: Goethe-designed riverside park through the heart of Weimar
+story: >
+  Goethe's Garden House in the park was a gift from Duke Karl August in 1776,
+  when the poet first arrived in Weimar. He lived here for six years before
+  moving to the grander Frauenplan house, but kept the garden house for the
+  rest of his life as a retreat for writing and botanical experiments.
 tags:
 - things_to_do
 - sight

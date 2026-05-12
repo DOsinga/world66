@@ -1,10 +1,12 @@
 ---
+done:
+  location_enrich: '2026-05-12'
 latitude: 53.578286
+loc_type: city
 longitude: -2.430037
 score: 0.37
 title: Bolton
 type: location
-loc_type: city
 ---
 
 Bolton is a northern English town that wears its industrial heritage without apology. The cotton mills that powered its Victorian growth have largely been repurposed or demolished, but the grand civic buildings they funded -- the neoclassical Town Hall, the imposing Albert Halls -- still anchor a town center that speaks of serious money and serious ambition. Bolton was a powerhouse of the Industrial Revolution, and you can still feel that energy in the scale of its architecture.

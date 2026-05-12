@@ -1,5 +1,0 @@
-europe/france/centre/loirevalley/langeais
-europe/finland/vaasa
-northamerica/mexico/puerto_penasco
-africa/seychelles/praslin
-southamerica/venezuela/margaritaisland/juangriego

@@ -15,6 +15,7 @@ tags:
 title: Musée Rodin
 type: poi
 url: www.musee-rodin.fr
+story: "Rodin lived in the Hôtel Biron for the last decade of his life by paying rent in sculpture — the French state accepted individual pieces as payment for his studio space. When he died in 1917, he had effectively donated the entire building and collection through accumulated rent payments."
 ---
 
 The Musée Rodin occupies the Hôtel Biron, an elegant 18th-century mansion where Auguste Rodin lived and worked for the last decade of his life. He bequeathed the house and his entire collection to the French state on the condition that they maintained it as a museum — one of the better deals in the history of French cultural policy.

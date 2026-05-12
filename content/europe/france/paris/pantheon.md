@@ -15,6 +15,7 @@ tags:
 title: The Panthéon
 type: poi
 url: www.paris-pantheon.fr
+story: "When Voltaire's remains were brought to the Panthéon in 1791, the procession stretched for three kilometres through Paris. Rousseau was transferred alongside him two years later — the two philosophers who had hated each other in life were interred in adjacent crypts, separated by a wall, for eternity."
 ---
 
 The Panthéon is one of Paris's most imposing buildings — a neoclassical temple with a 83-metre dome that dominates the Left Bank skyline. Louis XV built it as a church in 1758; it was secularised during the Revolution and has served as France's secular mausoleum ever since, housing the remains of Voltaire, Rousseau, Victor Hugo, Émile Zola, Marie and Pierre Curie, and some eighty other figures of French intellectual life.

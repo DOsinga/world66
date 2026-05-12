@@ -13,6 +13,7 @@ tags:
 - montmartre
 title: Sacré-Cœur Basilica
 type: poi
+story: "Sacré-Cœur was built as an act of national penance after the Franco-Prussian War, but it was also explicitly meant to atone for the Paris Commune of 1871 — the insurrection that killed thousands in Montmartre. The choice of Montmartre as the site was politically deliberate, a church of submission planted on the hill where the Revolution had begun."
 ---
 
 Sacré-Cœur sits atop Montmartre's highest point, its Romano-Byzantine white travertine domes visible from much of Paris. Construction began in 1876 as an act of national penance after France's defeat in the Franco-Prussian War, and the basilica was consecrated in 1919 after decades of work. The architecture is earnest rather than elegant, but the hilltop position is unbeatable.

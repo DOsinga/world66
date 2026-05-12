@@ -12,6 +12,7 @@ tags:
 title: Musée de Cluny (Musée National du Moyen Âge)
 type: poi
 url: www.musee-moyenage.fr
+story: "The Lady and the Unicorn tapestries were discovered in 1841 by the novelist Prosper Mérimée — the same man who discovered Carmen — in a damp storeroom of the Château de Boussac, where they had been forgotten for centuries. The identity of the person who commissioned them and the meaning of the sixth panel remain unknown."
 ---
 
 The Musée de Cluny occupies two remarkable buildings: a 15th-century Gothic mansion and, beneath it, the best-preserved Gallo-Roman baths in France, dating from around 200 AD. The baths are extraordinary in themselves — vast vaulted chambers, astonishingly intact. The museum above holds France's finest collection of medieval art.

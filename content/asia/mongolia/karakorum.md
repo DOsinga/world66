@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-11'
+image: karakorum.jpg
+image_attribution: Bernard Gagnon
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Erdene_Zuu_Monastery_05.jpg
 latitude: 47.203657
+loc_type: city
 longitude: 102.843645
+score: 0.53
 title: Karakorum
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Karakorum (Kharkhorin in modern Mongolian) was the capital of the Mongol Empire under Ögedei Khan, founded in 1235 at the crossroads of the Silk Road. For a brief period it was the most powerful city on earth, seat of an empire stretching from Korea to Hungary. Marco Polo described it, though by the time he wrote the city had already been eclipsed by Kublai Khan's move to Beijing.

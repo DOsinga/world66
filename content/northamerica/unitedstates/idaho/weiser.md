@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: weiser.jpg
+image_attribution: Ian Poellet
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Nesbit_House_-_Weiser_Idaho.jpg
 latitude: 44.2455
+loc_type: city
 longitude: -116.9702
 score: 0.31
 title: Weiser
 type: location
-loc_type: city
 ---
 
 Weiser is a small agricultural town in southwest Idaho, sitting at the confluence of the Weiser River and the Snake River right on the Oregon border. It's an honest, unpretentious place — the kind of town where the main street still functions and people actually know each other. Most travelers who seek it out come for one reason: the fiddle music.

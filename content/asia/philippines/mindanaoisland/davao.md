@@ -2,13 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-21'
+image: davao.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Phils_Davao_City_San_Pedro_Cathedral.JPG
 latitude: 7.064831
+loc_type: city
 longitude: 125.608062
 score: 0.49
 title: Davao
 type: location
-loc_type: city
 ---
 
 Davao is Mindanao's largest city and the gateway to the Philippines' wild south. While Manila gets the headlines and Cebu gets the beach crowds, Davao draws a different kind of traveller — one looking for durian at midnight markets, white-water rafting on jungle rivers, and the country's highest peak looming on the horizon.

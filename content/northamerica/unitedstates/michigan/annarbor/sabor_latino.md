@@ -7,7 +7,8 @@ longitude: -83.7487
 phone: (734) 214-7775
 snippet: Authentic Mexican flavors in a no-frills setting
 tags:
-- eating_out
+  - eating_out
+  - restaurant
 title: Sabor Latino
 type: poi
 ---

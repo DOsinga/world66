@@ -2,13 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: carsoncity.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Nevada_State_Capitol_Building_-_Carson_City.jpg
 latitude: 39.166326
+loc_type: city
 longitude: -119.767037
 score: 0.41
 title: Carson City
 type: location
-loc_type: city
 ---
 
 Carson City is Nevada's state capital, a small city tucked against the eastern slope of the Sierra Nevada about 30 miles south of Reno. It has the feel of a western town that grew up without quite meaning to — wide streets, low buildings, big sky, and the mountains always in view.

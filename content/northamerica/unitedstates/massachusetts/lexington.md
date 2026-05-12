@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: lexington.jpg
+image_attribution: Ken Lund on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/75683070@N00/67778390
 latitude: 42.4432
+loc_type: city
 longitude: -71.229
+score: 0.46
 title: Lexington
 type: location
-score: 0.46
-loc_type: city
 ---
 
 Lexington is a prosperous suburb nine miles northwest of Boston, but its fame rests on a single April morning in 1775: this is where the first shots of the American Revolution were fired.

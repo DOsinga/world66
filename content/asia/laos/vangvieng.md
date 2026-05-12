@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: vangvieng.jpg
+image_attribution: Basile Morin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Colorful_sky_with_orange_clouds_reflecting_in_the_water_of_a_paddy_field,_at_sunset,_Vang_Vieng,_Laos.jpg
 latitude: 18.953896
+loc_type: city
 longitude: 102.456391
+score: 0.63
 title: Vang Vieng
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Vang Vieng sits on the Nam Song river between [Vientiane](/asia/laos/vientiane) and [Luang Prabang](/asia/laos/luangprabang), surrounded by dramatic limestone karst mountains honeycombed with caves. Once notorious as a backpacker party town, it has reinvented itself as an outdoor adventure destination -- though the riverside bars have not entirely disappeared.

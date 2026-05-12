@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-11'
+image: dingle.jpg
+image_attribution: JoachimKohlerBremen
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dingle_Strand_Street.jpg
 latitude: 52.1408
+loc_type: city
 longitude: -10.2687
 score: 0.68
 title: Dingle
 type: location
-loc_type: city
 ---
 
 Dingle is a small fishing town at the western tip of the Dingle Peninsula in County Kerry, and it has an outsized reputation for good reason. The harbour is still a working one — trawlers unload their catch most mornings — but the town has long since discovered that its real trade is charm. Brightly painted pubs line the narrow streets, traditional music spills out of doorways most evenings, and the surrounding landscape is so beautiful it borders on unfair: cliffs, beaches, ancient stone forts, and green hills dropping into the Atlantic.

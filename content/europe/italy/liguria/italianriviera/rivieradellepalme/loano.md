@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: loano.jpg
+image_attribution: IBG_Hott
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Loano_-_Porto_di_Loano.jpg
 latitude: 44.128754
+loc_type: city
 longitude: 8.259371
+score: 0.52
 title: Loano
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Loano is a seaside town on the Riviera delle Palme in western [Liguria](/europe/italy/liguria), set along the ancient Via Julia Augusta — two Roman bridges still stand, including the “Pontetto” now buried beneath the modern Aurelia road.

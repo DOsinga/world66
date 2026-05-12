@@ -1,5 +1,0 @@
-europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo
-northamerica/mexico/taxco
-europe/italy/campania/paestum
-southamerica/brazil/campinas
-africa/southafrica/johannesburg

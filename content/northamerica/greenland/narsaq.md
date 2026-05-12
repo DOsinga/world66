@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: narsaq.jpg
+image_attribution: Algkalv (talk)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Narsaq-from-Qaaqarsuaq.jpg
 latitude: 60.912745
+loc_type: city
 longitude: -46.04527
+score: 0.29
 title: Narsaq
 type: location
-score: 0.29
-loc_type: city
 ---
 
 Narsaq is a small village of around 1,900 people in South Greenland, set against a dramatic mountain backdrop. It is a quiet, unhurried place — but one with a surprisingly specific set of attractions for the curious traveler.

@@ -1,12 +1,16 @@
 ---
-title: Baltimore
-type: location
-latitude: 39.290882
-longitude: -76.610759
 done:
   location_cleanup: 2026-04-06
-score: 0.46
+  location_enrich: '2026-05-12'
+image: baltimore.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Baltimore_Inner_Harbor.JPG
+latitude: 39.290882
 loc_type: city
+longitude: -76.610759
+score: 0.46
+title: Baltimore
+type: location
 ---
 
 Baltimore gets a bad rap, and some of it is earned. But this is a city with serious character — gritty, unpretentious, and fiercely loyal to its own identity. It is not Washington, D.C., and it does not want to be.

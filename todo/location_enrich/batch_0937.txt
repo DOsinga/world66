@@ -1,5 +1,0 @@
-northamerica/unitedstates/virginia/winchester
-europe/russia/cherepovets
-northamerica/unitedstates/newjersey/freehold
-asia/japan/honshu/nagahama
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york

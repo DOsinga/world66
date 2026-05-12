@@ -3,22 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-Kunming is the transportation hub of the Yunnan Province, with links to all parts of the province via road, rail and air. Kunming has become an important gateway, linking China to Southeast Asia, South Asia, as well as the pacific region. The province also has 10 national ports, 8 provincial ports and 20 highways linking neighboring countries.
+Kunming is the principal transport hub of southwest China and reaching it is generally easy.
 
-**all**
+**By air.** Kunming Changshui International Airport (KMG), about 25 kilometres northeast of the city, has direct flights to most major Chinese cities and a growing list of international routes — Bangkok, Singapore, Yangon, Vientiane, Kuala Lumpur, Hong Kong, Tokyo, Seoul, and increasingly some European destinations. Metro Line 6 connects the airport to the city in about 30 minutes.
 
-**By air**
+**By train.** The Kunming South high-speed station, in the south of the city, is on the Shanghai–Kunming and the Guiyang–Kunming HSR lines. Travel times from Beijing are around 10 hours; from Shanghai, around 11; from Guangzhou, around 7. The Kunming–Vientiane railway, opened in 2021, runs the 1,000 kilometres south to the Lao capital in about 10 hours and is the most interesting overland exit from China.
 
-Kunming is one of the five major international airports in China. It operates 7 provincial routes and more than 40 domestic and international routes. Passengers can fly from Kunming to many major cities in China, including Beijing, Shanghai, Guangzhou and Chengdu. They can also fly to Hong Kong, [more..](/asia/china/yunnanprovince/kunming/gettingthere/byair)
-
-**By train**
-
-The railways linking Kunming constitute the southwest part of the nation's network. With Kunming at the center, there are five major lines:
-
- Guiyang-Kunming railway: an electrified railway linking Guiyang, capital of Guizhou province to Kunming 
-
-Chengdu-Kunming railway: linking Chengdu, [more..](/asia/china/yunnanprovince/kunming/gettingthere/bytrain)
-
-**By bus**
-
-The Kunming Central Bus Station, located on Beijing Road, southwest of Kunming Railway Station, is the largest bus depot in Yunnan. Over 500 buses leave this depot daily. There are various kinds of buses, including sleepers and luxury buses. Ticketing is computerized and tickets may be purchased [more..](/asia/china/yunnanprovince/kunming/gettingthere/bybus)
+**By bus.** Long-distance buses go to most destinations in Yunnan from the East, South, North, and West bus stations. For Dali, Lijiang, and Shangri-La the train is now faster and more comfortable.

@@ -1,12 +1,14 @@
 ---
-latitude: 24.977887
-longitude: 102.671245
-tags:
-- things_to_do
-title: Dianchi Lake
+title: "Dianchi Lake"
 type: poi
+latitude: 24.8500
+longitude: 102.6833
+tags:
+  - things_to_do
+  - sight
+  - lake
 ---
 
-The Dianchi Lake is the eighth largest lake in China and the largest in the Yunnan Province, covering an area of 370 square kilometers in area. Because of its majestic size and beauty, the lake is also known as the "Sparkling Pearl Imbedded in a Highland ". Gliding across the lake in a boat makes one feel like they are moving across a vast expanse of liquid silver, and it is an enchanting experience, to say the least. At night, when the moon casts a veil over the lake, only the gentle breeze breaks the silence of the scene.
+Dianchi is the eighth largest freshwater lake in China and the dominant geographical feature of the Kunming basin — a 300-square-kilometre body of water immediately south of the city, ringed by mountains and once the centre of the Bronze Age Dian civilisation. From the top of the Western Hills the lake stretches almost out of sight.
 
-type: Around Kunming
+The lake itself is heavily polluted and not for swimming, the result of decades of industrial growth on its northern shore; clean-up efforts since 2010 have made measurable progress. The interest is on the shoreline: the Yunnan Nationalities Village on the eastern side, the wetland parks at Haigeng on the north, and the Caohai marshes where the gulls feed in winter. A new walking and cycling path runs around almost the entire perimeter.

@@ -1,12 +1,15 @@
 ---
-latitude: 22.567401
-longitude: 113.59705
-tags:
-- things_to_do
-title: Cuihu Park
+title: "Cuihu Park (Green Lake)"
 type: poi
+latitude: 25.0504
+longitude: 102.7023
+tags:
+  - things_to_do
+  - sight
+  - park
+story: "From late October until early March each year, tens of thousands of black-headed gulls fly down from Siberia to overwinter on the lake. The migration only began in 1985, the gulls having previously stopped further north; today feeding them is a ritual of Kunming winter life and bags of bird-feed are sold along the lakeshore."
 ---
 
-This park around the Cuihu or Green Lake is near Yuantong Temple. Among the locals, it's a favorite place for Sunday afternoon walks. There are also occasional performances of Chinese operas. In the early morning or before dawn you can meet old and young practising Taiji, swords play, dancing or singing. Why not take a rest of the buzzle of town in one of the outdoor teahouses and enjoy local culture? Each year in late October hundreds of seagulls from the north crowd the lake to spend winter here.
+The most central park in Kunming, Cuihu — Green Lake — is a chain of small lakes, willow-shaded causeways, and pavilions just north of the old city, ringed by tea houses and surrounded by lively neighbourhood streets. It was originally a corner of Dianchi Lake separated from the main body by the city's expansion, and has been a park since the 17th century.
 
-type: Parks & Gardens
+The park is best in the early morning, when retired Kunmingers gather to practise tai chi, dance, sing Yunnanese opera, and play badminton in the small open squares. In late afternoon, families take rented pedalboats out and the tea-houses fill up. In winter, the lake is famously crowded with black-headed gulls — visitors buy bags of feed and the birds will eat from your hand.

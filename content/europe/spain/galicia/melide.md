@@ -1,12 +1,17 @@
 ---
-title: Melide
-type: location
-latitude: 42.9146
-longitude: -8.0136
 done:
   location_cleanup: 2026-04-06
-score: 0.49
+  location_enrich: '2026-05-12'
+image: melide.jpg
+image_attribution: L. Miguel Bugallo Sánchez
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Melide_Furelos_Galiza_06.jpg
+latitude: 42.9146
 loc_type: city
+longitude: -8.0136
+score: 0.49
+title: Melide
+type: location
 ---
 
 Melide is a small Galician town where two routes of the Camino de Santiago — the French Way and the Primitive Way — converge. Most pilgrims pass through on their way to Santiago de Compostela, about 50 kilometres further west, and the town has grown a lively hospitality scene around them.

@@ -6,6 +6,9 @@ latitude: 45.3939
 longitude: -61.5004
 phone: (902) 533-2762
 snippet: Scratch bakery and home-cooked comfort food in Guysborough
+tags:
+  - eating_out
+  - restaurant
 title: Days Gone By Bakery & Restaurant
 type: poi
 url: https://www.daysgoneby.ca

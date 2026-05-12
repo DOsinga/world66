@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: jos.jpg
+image_attribution: Andrew Moore
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Jos_nigeria05.jpg
 latitude: 9.9167
+loc_type: city
 longitude: 8.8983
 score: 0.37
 title: Jos
 type: location
-loc_type: city
 ---
 
 Jos sits at 1,200 metres on the Jos Plateau in central Nigeria, which makes it noticeably cooler than most of the country — a welcome relief if you've been sweating through the south. The city is the capital of Plateau State and has a relaxed, unhurried atmosphere compared to Lagos or Abuja.

@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
 latitude: 39.0921
+loc_type: city
 longitude: -122.6275
+score: 0.35
 title: Clear Lake
 type: location
-score: 0.35
-loc_type: city
 ---
 
 Clear Lake is California's largest natural freshwater lake, in Lake County about 110 miles north of San Francisco. The lake and the surrounding hills have a relaxed, old-fashioned resort feel that is a world away from the Napa Valley wine corridor to the south — fewer tourists, lower prices, and a genuine outdoors culture.

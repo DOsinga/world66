@@ -334,6 +334,33 @@
 {% endif %}
 
 {% if page.page_type == "location" and sections %}
+{% if inline_sections %}
+{% for item in inline_sections %}
+<div class="wide-block poi-section">
+  <span class="section-kicker">Guide</span>
+  <h2 class="poi-section-title">{{ item.section.title }}</h2>
+  {% if item.body_html %}
+  <div class="body-text">{{ item.body_html|safe }}</div>
+  {% endif %}
+  {% if item.pois %}
+  <ul class="poi-list">
+    {% for poi in item.pois %}
+    <li>
+      <a href="{{ poi.get_absolute_url }}" class="poi-list-link">
+        <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
+        <div class="poi-meat">
+          <div class="poi-name">{{ poi.title }}</div>
+          <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
+        </div>
+        <div class="poi-tag">{% if poi.category %}{{ poi.category }}{% endif %}</div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+{% endfor %}
+{% else %}
 <div class="wide-block sections-row-wrap">
   <span class="section-kicker">Guide</span>
   <h2 class="section-block-heading">Sections</h2>
@@ -349,6 +376,7 @@
   {% endfor %}
 </div>
 </div>
+{% endif %}
 {% endif %}
 
 {% if neighbourhood_items %}

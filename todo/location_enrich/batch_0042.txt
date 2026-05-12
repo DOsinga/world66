@@ -1,5 +1,0 @@
-asia/china/tibet/lhasa
-africa/guineeconakry/conakry
-northamerica/unitedstates/oklahoma/guymon
-africa/angola/kissama
-europe/italy/liguria/rivieradellepalme/laigueglia

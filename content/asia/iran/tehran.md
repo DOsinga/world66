@@ -1,12 +1,17 @@
 ---
-title: Tehran
-type: location
-latitude: 35.689252
-longitude: 51.3896
 done:
   location_cleanup: 2026-04-05
-score: 0.44
+  location_enrich: '2026-05-12'
+image: tehran.jpg
+image_attribution: Laurens R. Krol
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2018-09-26_Iran,_Tehran,_Azadi_Tower_(2).jpg
+latitude: 35.689252
 loc_type: city
+longitude: 51.3896
+score: 0.44
+title: Tehran
+type: location
 ---
 
 **Tehran** is the capital of Iran and, with a metropolitan population of around 15 million, one of the largest cities in the Middle East. It sits on a high plateau at about 1,200 metres, backed by the enormous snow-capped **Alborz** range — the 5,671-metre peak of Mount Damavand, Iran's highest mountain, is just 60 km north of the city. The physical setting is extraordinary; the city itself is not. Tehran grew dramatically in the 20th century from a provincial town into a sprawling modern capital, and it looks it. Heavy traffic, air pollution, and a mostly 1960s–70s concrete skyline are what first-time visitors notice. The charm of Iran — the exquisite blue-tiled mosques and covered bazaars of Isfahan, Shiraz and Yazd — is not really to be found here.

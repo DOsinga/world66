@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Almost all people coming to Zagora arrive from Ouarzazate. There are four buses daily and several grand taxis takinf about four hours. You can go further south to Mhamid from Zagora, but there is only one bus. It is far better to have your own wheels if you want to do this. The trip is rewarding though.
+Almost everyone arrives from [Ouarzazate](/africa/morocco/ouarzazate), 165km north over the Tizi n'Tinifift pass and down through the Draa valley. The drive takes around four hours by bus or grand taxi, longer if you stop along the way — and you should, because the valley is the point of the journey. Four CTM and Supratours buses run daily; grand taxis leave when full from the Ouarzazate gare routière.
 
- If you want to go to Rissani, it is not necessary to go all the way
+There is a small airport (OZG) about 7km southeast of town, with sporadic seasonal flights from Casablanca and Paris on Royal Air Maroc and Transavia. Schedules change often; check before relying on it.
+
+To go further south, one daily bus continues from Zagora to M'Hamid, the literal end of the road. With your own vehicle the trip is far more rewarding — you can stop at Tamegroute and the Tinfou dunes on the way.

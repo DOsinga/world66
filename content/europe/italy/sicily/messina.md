@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: messina.jpg
+image_attribution: SonoGrazy
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Basilica_Cattedrale_di_Santa_Maria_Assunta_-_01.jpg
 latitude: 38.1938
+loc_type: city
 longitude: 15.5542
 score: 0.51
 title: Messina
 type: location
-loc_type: city
 ---
 
 Messina is the gateway to Sicily, the first city you see when crossing the Strait from the mainland by ferry. It sits on one of the most strategically important waterways in the Mediterranean, and has been fought over, shaken, and rebuilt more times than almost any city in Europe. A catastrophic earthquake in 1908 killed tens of thousands and flattened the old city, and Allied bombing in World War II finished what the earthquake started. As a result, Messina lacks the layered historic centre you find in [Palermo](/europe/italy/sicily/palermo) or [Catania](/europe/italy/sicily/catania).

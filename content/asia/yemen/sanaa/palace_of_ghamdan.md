@@ -1,20 +1,18 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
-latitude: 15.3549
-longitude: 44.2068
+latitude: 15.3531
+longitude: 44.2147
 snippet: Ruins of a legendary pre-Islamic multi-storey palace
 story: 'Ancient sources describe Ghamdan as a twenty-storey palace with rooms of alabaster
   and marble, topped by a bronze lion whose roar warned of approaching enemies. Whether
   or not that was ever literally true, the structure is mentioned in pre-Islamic Arabian
   poetry as a symbol of power and magnificence. What stands today is a fraction of
-  the original.
-
-  '
+  the original.'
 tags:
-- things_to_do
-- landmark
-- story
+  - things_to_do
+  - sight
+  - old_city
 title: Palace of Ghamdan
 type: poi
 ---

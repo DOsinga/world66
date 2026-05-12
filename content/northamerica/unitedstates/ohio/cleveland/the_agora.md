@@ -5,8 +5,8 @@ longitude: -81.653821
 phone: 216-881-6911
 snippet: Legendary rock concert venue with over 40 years of live music
 tags:
-- nightlife
-- music
+- bars_and_cafes
+- bar
 title: The Agora
 type: poi
 ---

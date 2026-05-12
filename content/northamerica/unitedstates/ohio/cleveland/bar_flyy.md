@@ -1,4 +1,7 @@
 ---
+address: 1148 W. 6th St.
+latitude: 41.5022
+longitude: -81.7000
 tags:
 - bars_and_cafes
 - bar
@@ -7,4 +10,4 @@ title: Bar Flyy
 type: poi
 ---
 
-This dance club hit Cleveland's Warehouse District in 2005 and quickly became a favorite. A multi-level club with a retro hipster atmosphere and thumping beats on W. 6th Street. Easily the top dance club to visit when in town.
+A multi-level dance club on W. 6th Street in the Warehouse District, open since 2005 and one of the longer-running Cleveland nightclubs. The atmosphere is retro-hipster, the music skews toward house and current dance hits, and the rooftop bar above the dance floor is the draw on warm nights. Lines form on weekends; arrive early to avoid the wait.

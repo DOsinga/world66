@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: chipiona.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Faro,_Chipiona,_Espa%C3%B1a,_2015-12-08,_DD_16-18_HDR.JPG
 latitude: 36.735545
+loc_type: city
 longitude: -6.434822
+score: 0.52
 title: Chipiona
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Chipiona is a simple, unpretentious beach resort on the Atlantic coast of [Andalucia](/europe/spain/andalucia), near the mouth of the Guadalquivir River. It has two spectacular beaches and great seafood restaurants — this is a place where you can eat fried fish and local prawns for very little money. Outside August, you can largely escape the crowds and experience a typical Spanish seaside town.

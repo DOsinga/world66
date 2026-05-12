@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: page.jpg
+image_attribution: Thomas Wolf, www.foto-tw.de
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Grand_Canyon_Horseshoe_Bend.jpg
 latitude: 36.9147
+loc_type: city
 longitude: -111.4558
+score: 0.59
 title: Page
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Page sits on a sandstone mesa above Glen Canyon Dam, right on the Utah border in northern Arizona. It is the base camp for some of the most dramatic desert scenery in the American Southwest: Antelope Canyon, Horseshoe Bend, Lake Powell, and the Vermilion Cliffs are all within easy reach.

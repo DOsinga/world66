@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: opi.jpg
+image_attribution: Antonio Giulio Ruggiero
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Opi-in_borgo_di_Opi_visto_dal_basso.jpg
 latitude: 41.780873
+loc_type: city
 longitude: 13.829524
+score: 0.44
 title: Opi
 type: location
-score: 0.44
-loc_type: city
 ---
 
 Opi is a tiny hilltop village near Pescasseroli in the National Park of Abruzzo, Lazio and Molise. It sits on a rocky spur with splendid views over the surrounding valleys and mountains — a picturesque cluster of stone houses that has changed remarkably little over the centuries.

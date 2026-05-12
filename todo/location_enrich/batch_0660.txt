@@ -1,5 +1,0 @@
-northamerica/unitedstates/montana/kalispell
-northamerica/unitedstates/newyorkstate/utica
-africa/algeria/timgad
-northamerica/unitedstates/arizona/wickenburg
-northamerica/unitedstates/newmexico/alamogordo

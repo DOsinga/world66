@@ -1,12 +1,16 @@
 ---
-title: Angra do Heroismo
-type: location
-latitude: 38.659317
-longitude: -27.219558
 done:
   location_cleanup: 2026-04-07
-score: 0.62
+  location_enrich: '2026-05-12'
+image: angra_do_heroismo.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Angra_do_Hero%C3%ADsmo,_isla_de_Terceira,_Azores,_Portugal,_2020-07-25,_DD_12.jpg
+latitude: 38.659317
 loc_type: city
+longitude: -27.219558
+score: 0.62
+title: Angra do Heroismo
+type: location
 ---
 
 Angra do Heroismo is the kind of place that rewards the traveller who ventures beyond mainland Portugal. Perched on the southern coast of Terceira island in the Azores, this UNESCO World Heritage city is one of the finest examples of Renaissance urban planning in the Atlantic world — its grid of straight streets laid out in the 15th century still defines the city today.

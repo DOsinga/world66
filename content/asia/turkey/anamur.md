@@ -18,6 +18,6 @@ Anamur is a small coastal town on Turkey's southernmost point, tucked between th
 
 The area's standout sight is [Mamure Castle](/asia/turkey/anamur/things_to_do), a massive sea fortress just 7 km southeast of town. Built by the Romans around the 3rd century AD, expanded by the Byzantines, and later reinforced by the Karamanids and Ottomans, it is one of the best-preserved castles in Turkey — 39 towers and a 13th-century mosque survive largely intact, with the Mediterranean lapping at the outer walls.
 
-Beyond the castle, Anamur has the ruins of ancient Anemurium just west of town: a Roman and Byzantine city abandoned in the 7th century, with intact streets, mosaics, and a necropolis. The combination of two significant ancient sites within walking distance of the beach is unusual even by Turkish standards.
+Beyond the castle, Anamur has the ruins of ancient [Anemurium](/asia/turkey/anamur/anemurium) just west of town: a Roman and Byzantine city abandoned in the 7th century, with intact streets, mosaics, and a necropolis. The combination of two significant ancient sites within walking distance of the beach is unusual even by Turkish standards.
 
 The town itself is a working agricultural centre — bananas are grown here, benefiting from the sheltered, near-tropical microclimate — rather than a resort. Accommodation is simple, and that suits the kind of traveler who ends up here.

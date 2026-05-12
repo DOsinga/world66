@@ -15,6 +15,6 @@ title: Playa del Ingles
 type: location
 ---
 
-Playa del Inglés is a large resort built almost entirely of hotels, apartment blocks, and shopping centres. The beach stretches several kilometres from Faro de Maspalomas in the west to San Agustín in the east, running seamlessly into the Maspalomas dune system.
+Playa del Inglés is a large resort built almost entirely of hotels, apartment blocks, and shopping centres. The beach stretches several kilometres from [Faro de Maspalomas](/europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles/faro_de_maspalomas) in the west to San Agustín in the east, running seamlessly into the Maspalomas dune system.
 
-The resort has a reputation for nightlife — there are dozens of bars and clubs, and it draws a younger, louder crowd than Maspalomas proper. During the day most people are on the beach or around the pool; after dark the action shifts to the Yumbo Centre and the streets around it.
+The resort has a reputation for nightlife — there are dozens of bars and clubs, and it draws a younger, louder crowd than Maspalomas proper. During the day most people are on the beach or around the pool; after dark the action shifts to the [Yumbo Centre](/europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles/yumbo_centre) and the streets around it.

@@ -1,5 +1,0 @@
-northamerica/unitedstates/kansas/wellington
-northamerica/unitedstates/alaska/fairbanks
-asia/jordan/wadirum/rum
-europe/germany/thuringia/weimar
-asia/india/tamilnadu/mannargudi

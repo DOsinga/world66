@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
 latitude: 1.618
+loc_type: city
 longitude: 18.0597
+score: 0.22
 title: Impfondo
 type: location
-score: 0.22
-loc_type: city
 ---
 
 Impfondo is the capital of the Likouala department in the far north of the Republic of the Congo, roughly 800 kilometres from [Brazzaville](/africa/congobrazzaville/brazzaville) on the western bank of the Ubangi River. It is about as far off the beaten track as you can get in Central Africa.

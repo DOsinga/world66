@@ -1,14 +1,22 @@
 ---
-title: Shendi
-type: location
+done:
+  location_enrich: '2026-05-12'
+image: shendi.jpg
+image_attribution: mametsaru
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pyramids_in_Shendi,_Sudan.jpg
 latitude: 16.6885
+loc_type: city
 longitude: 33.4323
 score: 0.26
-loc_type: city
+title: Shendi
+type: location
 ---
 
-Shendi sits on the east bank of the Nile, about 150 km north of [Khartoum](/africa/sudan/khartoum), in the heart of the Butana steppe. The town itself is a quiet, workaday place — don't expect much in the way of restaurants or nightlife. What draws travelers here are the Meroitic temples scattered across the desert to the east, relics of a civilization that ruled this stretch of the Nile for centuries and left behind some of the most striking ruins in Africa.
+Shendi sits on the east bank of the Nile, about 150 km northeast of [Khartoum](/africa/sudan/khartoum), in the heart of the Butana steppe. The town itself is a workaday market place — don't expect much in the way of restaurants, and there is no nightlife to speak of. What draws travellers here are the ruins of Kush scattered across the desert: the Pyramids of Meroë to the north, and the temple complexes of Musawwarat es-Sufra and Naqa to the south.
 
-The two main sites are Musawwarat es-Sofra and Naqa, reachable as a single day trip by 4WD. Musawwarat is an extraordinary complex of temples and enclosures — the so-called Great Enclosure is one of the largest ancient structures in Sudan — though what you see today is largely a reconstruction. Naqa, about 50 km further into the desert, is the more atmospheric: a small pyramid, a temple to Apedemak the lion god, and a curious "Roman kiosk" that blends Meroitic and Greco-Roman styles. A round trip to both covers roughly 120 km and takes a full day. Arrange transport in Shendi or through a guesthouse — there is no public transport to either site.
+The Pyramids of Meroë, an hour up the Nile and visible from the Atbara road, are the headline. There are more of them than at Giza — over two hundred — and they are smaller, sharper, and almost always empty. They mark the cemeteries of the rulers of Kush, the African kingdom that controlled this stretch of the river for nearly a thousand years and which, for one extraordinary century, ruled Egypt itself. Camels stand in the dunes between the tombs, and you will probably have the place mostly to yourself.
 
-Accommodation and food are basic and limited. Come prepared.
+The two southern sites — Musawwarat es-Sufra and Naqa — are reached as a single 4WD day trip into the western Butana, about 120 km round trip. Musawwarat is the larger and stranger, an enormous walled enclosure whose purpose is still debated; Naqa is the more atmospheric, with a small pyramid, the lion temple of Apedemak, and a curious "Roman kiosk" where Meroitic and Greco-Roman styles collide. There is no public transport to either; arrange a vehicle in Shendi or through your guesthouse.
+
+Accommodation and food are basic. Bring water, bring cash, and ask permission before photographing people — Shendi is conservative even by Sudanese standards. As of 2025 the security situation across Sudan is volatile and travel here is not recommended without local guidance.

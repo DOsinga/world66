@@ -144,6 +144,10 @@ def location_or_section(request, path):
         nb_img = _image_path(nb, branch)
         nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
 
+    # Don't show the neighbourhood strip unless at least 3 have images
+    if sum(1 for nb in neighbourhoods if nb.image_url) < 3:
+        neighbourhoods = []
+
     # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
     locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
     for loc in locations:

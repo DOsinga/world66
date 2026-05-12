@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
 latitude: 49.38
+loc_type: city
 longitude: -121.4416
+score: 0.4
 title: Hope
 type: location
-score: 0.4
-loc_type: city
 ---
 
 Hope sits where the Fraser Valley narrows into the Coast Mountains, about 150 kilometres east of [Vancouver](/northamerica/canada/britishcolumbia/vancouver). It is the junction where Highway 1 (the Trans-Canada) meets Highways 3 and 5, making it a natural stopping point for travellers heading east into the Rockies or south toward Manning Provincial Park.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+image: ouvea.jpg
+image_attribution: Marietrip 27
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Le_pont_de_mouli.jpg
 latitude: -20.549001
+loc_type: city
 longitude: 166.567395
+score: 0.64
 title: Ouvea
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Ouvéa is the northernmost of the Loyalty Islands in New Caledonia, a narrow coral atoll about 130 kilometres north-east of Nouméa. The island's western shore has one of the most striking beaches in the Pacific — a 25-kilometre stretch of white sand and turquoise water that runs almost the full length of the island.

@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
 latitude: 60.468869
+loc_type: city
 longitude: 22.029115
+score: 0.5
 title: Naantali
 type: location
-score: 0.5
-loc_type: city
 ---
 
 Naantali is a small coastal town about fifteen minutes west of [Turku](/europe/finland/turku), best known internationally as the home of Moominworld — a theme park built on Kailo Island devoted to Tove Jansson's beloved characters. Families with young children come from all over the Nordic countries for it, and with good reason: it is charming and completely uncommercial in spirit.

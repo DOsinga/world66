@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
 latitude: 44.0165
+loc_type: city
 longitude: -70.9811
+score: 0.36
 title: Fryeburg
 type: location
-score: 0.36
-loc_type: city
 ---
 
 Fryeburg is a small town on the Maine-New Hampshire border, sitting in a broad valley of the Saco River with the western Maine foothills rising on all sides. It is best known for the Fryeburg Fair, the largest agricultural fair in New England, held during the first week of October. The fair draws huge crowds for livestock competitions, harness racing, agricultural exhibits, and the kind of fried food you can only get at a proper country fair. If you are anywhere in the region in early October, it is worth planning around.

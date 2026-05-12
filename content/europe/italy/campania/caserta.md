@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
 latitude: 41.203519
+loc_type: city
 longitude: 14.116862
+score: 0.57
 title: Caserta
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Caserta is a small city 27 km north of [Naples](/europe/italy/campania/naples), and almost everyone who visits comes for one reason: the Reggia di Caserta, the colossal Royal Palace built in the eighteenth century as the Bourbon kings' answer to Versailles. With 1,200 rooms, 34 grand staircases, and a park stretching 3 km behind the palace to a dramatic cascade, it is one of the most extraordinary achievements of Italian Baroque architecture and a UNESCO World Heritage Site.

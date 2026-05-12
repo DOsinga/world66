@@ -1,5 +1,0 @@
-europe/bulgaria/varna
-northamerica/unitedstates/california/centralvalley/bakersfield
-europe/italy/tuscany/sangimignano
-europe/italy/liguria/italianriviera/rivieradellepalme/massimino
-asia/malaysia/frasers_hill

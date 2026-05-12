@@ -1,14 +1,8 @@
 ---
-title: When to Go
+title: 'When to Go'
 type: section
 ---
 
-If you are visiting **Calbayog**,** when to go** is probably the hardest decision that needs to be made. Calbayog is rich in natural resources that you simply must savor. Aside from this, the countless natural attractions of the place are simply to die for, especially if you are a nature buff. Here are a few tips that will help you decide.
+Calbayog has a tropical climate with no real dry season. Rain falls throughout the year, but the wettest months run from October through January when typhoons regularly track across the Visayas — Samar sits in the most exposed corner of the country for these storms, and serious tropical weather can shut down roads and ferries for days. The driest stretch, typically March through May, is also the hottest.
 
-**Climate and Weather**
-
-Since Calbayog is in the Philippines, which is a tropical country, you can expect the place to be quite hot and humid. Rainfall is well distributed throughout the year, so there is not much wet and dry season here. You can expect there will be sporadic rain showers, so always arm yourself with a retractable umbrella or foldable raincoat. As for the clothing, it is best to wear sandals, shorts, t-shirts, dresses or anything that is light and airy.
-
-**Best Time to Visit**
-
-Since the weather and climate of Calbayog is stable all-year round, it is best to travel to this place at any time of the year. The city has no known annual festivity that tourists can watch and enjoy, but it has numerous beaches and natural attractions such as the Bangon-Bugtong Falls, Guinogo-an Cave, Mapaso Hot Spring and many more, that are open to the public all year round. However, if you tend to enjoy the beach of Calbayog, as a safety precaution, you have to check first the monsoons, as these can bring with them huge waves.
+The best time to visit is from February to early June. Beach trips and cave hikes are most rewarding when the rivers are low and the dirt roads are passable. Time a stop around the first week of September if you can — the Sarakiki-Hadang Festival fills the city with parades and rooster-costumed dancers around the feast day of Our Lady of the Nativity. Avoid the late-year typhoon season unless you have flexible plans.

@@ -6,7 +6,8 @@ latitude: 15.12
 longitude: 105.799
 snippet: Cook-your-own hotpot with huge cheap portions
 tags:
-- eating_and_drinking
+- eating_out
+- restaurant
 title: Korean Barbecue Restaurant
 type: poi
 ---

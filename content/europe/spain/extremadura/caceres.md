@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: caceres.jpg
+image_attribution: Emilio J. Rodríguez Posada
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Centro_hist%C3%B3rico_de_C%C3%A1ceres_(9840619555).jpg
 latitude: 39.4745
+loc_type: city
 longitude: -6.3717
+score: 0.63
 title: Caceres
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Caceres sits on a hill in Extremadura, its old town a remarkably intact medieval quarter that earned UNESCO World Heritage status in 1986. Walk through the Arco de la Estrella and you step into a city that has barely changed in five centuries — a maze of narrow streets lined with golden stone palaces, fortified towers, and churches, almost entirely free of traffic and modern intrusions.

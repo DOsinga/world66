@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: oualidia.jpg
+image_attribution: Siri B.L. on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/33042199@N02/7542573538
 latitude: 32.7314
+loc_type: city
 longitude: -9.034
+score: 0.51
 title: Oualidia
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Oualidia is a small lagoon town on the Atlantic coast, midway between [El Jadida](/africa/morocco/eljadida) and [Safi](/africa/morocco/safi). A narrow strip of land separates a calm, sheltered lagoon from the open ocean, and this geography is the whole point of the place: the lagoon is warm enough to swim in when the Atlantic would knock you flat, and its tidal channels have been growing oysters since the 1950s.

@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: playa_del_ingles.jpg
+image_attribution: vitsoft
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Gran_Canaria,_Playa_del_Ingles_-_panoramio.jpg
 latitude: 27.759481
+loc_type: city
 longitude: -15.574086
 score: 0.62
 title: Playa del Ingles
 type: location
-loc_type: city
 ---
 
 Playa del Inglés is a large resort built almost entirely of hotels, apartment blocks, and shopping centres. The beach stretches several kilometres from Faro de Maspalomas in the west to San Agustín in the east, running seamlessly into the Maspalomas dune system.

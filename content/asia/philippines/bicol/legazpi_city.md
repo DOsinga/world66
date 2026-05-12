@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: legazpi_city.jpg
+image_attribution: Dexbaldon
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:ATV_adventure_in_Legazpi.jpg
 latitude: 13.1391
+loc_type: city
 longitude: 123.7438
+score: 0.52
 title: Legazpi City
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Legazpi City sits at the foot of Mayon Volcano, one of the most perfectly shaped volcanic cones on earth. The view dominates everything here — from the waterfront boulevard to the market streets to the rice paddies at the edge of town. It is the capital of Albay province and the largest city in the Bicol Region, serving as both the political hub and the natural gateway to the area's volcanic landscapes.

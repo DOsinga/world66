@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: bath.jpg
+image_attribution: Julian Herzog (Website)
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bath_Abbey_2024_01.jpg
 latitude: 51.381386
+loc_type: city
 longitude: -2.359696
+score: 0.73
 title: Bath
 type: location
-score: 0.73
-loc_type: city
 ---
 
 Bath is one of England's most beautiful cities — a UNESCO World Heritage Site built from honey-coloured limestone, set in a bowl of green hills in Somerset. The city takes its name from the Roman baths built here between the first and fourth centuries AD around the natural hot springs that still bubble up at 46°C.

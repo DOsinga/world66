@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-12'
+image: san_vito_lo_capo.jpg
+image_attribution: Roberto Fontana from Mantova, Italia
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:San_Vito_Lo_Capo_(1).jpg
 latitude: 38.1723
+loc_type: city
 longitude: 12.7349
+score: 0.68
 title: San Vito Lo Capo
 type: location
-image: san_vito_lo_capo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:San_Vito_Lo_Capo_(1).jpg
-image_license: CC BY 2.0
-image_attribution: Roberto Fontana from Mantova, Italia
-score: 0.68
-loc_type: city
 ---
 
 San Vito Lo Capo has one of the most beautiful beaches in Italy: a wide crescent of white sand with turquoise water, backed by the dramatic Monte Monaco. The town itself is small and low-key, with a grid of streets lined with restaurants and gelaterias. It fills up in summer but remains manageable.

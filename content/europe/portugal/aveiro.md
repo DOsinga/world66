@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: aveiro.jpg
+image_attribution: endless autumn
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:AveiroCanal2.jpg
 latitude: 40.6405
+loc_type: city
 longitude: -8.6538
 score: 0.65
 title: Aveiro
 type: location
-loc_type: city
 ---
 
 Aveiro sits on a shallow coastal lagoon about an hour south of [Porto](/europe/portugal/oporto), and its nickname — the Portuguese Venice — is well earned. The city is laced with narrow canals crossed by arched bridges, and colourful moliceiro boats drift between them carrying tourists where fishermen once harvested seaweed.

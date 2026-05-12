@@ -11,6 +11,7 @@ tags:
 - leshalles
 title: Palais Royal Gardens
 type: poi
+story: "On the evening of 12 July 1789, a young journalist named Camille Desmoulins jumped on a table in the Palais Royal gardens and called the crowd to arms with a cockade of green leaves in his hat. Two days later, they stormed the Bastille. The Palais Royal was the effective headquarters of the French Revolution."
 ---
 
 The Palais Royal gardens are the most elegant public space in Paris — a rectangular garden enclosed by arcaded galleries housing jewellers, specialist shops, restaurants, and galleries. The colonnaded walks were originally 18th-century promenades; today they shelter some excellent restaurants and the kind of shops (toy soldiers, vintage medals, handmade shoes) that have been displaced from the rest of central Paris by luxury retail.

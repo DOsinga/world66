@@ -3,14 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
-
-**YACHT RESTAURANT **
-
-Located by the Marina of Fethiye, with a great view of the Marina. Service from early morning until midnight, inside or outside in the beautiful garden.
-
- Bar, pool, live music and belly dancer. 
-
-address: Fethiye Harbour
-
-openinghours: morning till midnight
+Fethiye eats well. The fish market is the centrepiece — you buy your fish from the stalls in the market hall, then take it to one of the surrounding restaurants, who cook it for you and provide salad, bread, and meze for a modest charge. The result is always fresh and usually excellent. Beyond the market, the harbour front has a string of restaurants ranging from tourist-oriented to genuinely good, and the old town has more casual lokantas serving home-style Turkish food.

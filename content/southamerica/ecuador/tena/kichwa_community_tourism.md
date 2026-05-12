@@ -1,7 +1,10 @@
 ---
 title: "Kichwa Community Tourism"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
+snippet: Community-run jungle walks and homestays with indigenous Kichwa families
 latitude: -1.0233
 longitude: -77.8044
 ---

@@ -19,4 +19,4 @@ Ann Arbor is Michigan's most intellectually lively city — a university town th
 
 The city has a strong progressive, independent streak. Downtown is walkable, with good bookshops, record stores, and restaurants spread across a compact grid. The neighborhoods around campus have the kind of density and character that most Midwestern cities lost to sprawl decades ago. People chose to stay here — after degrees, after careers — and it shows.
 
-The winters are serious, as in all of Michigan, but Ann Arbor in football season is something to witness: the University of Michigan stadium holds over 100,000 people and fills reliably. If you are here on a home game day, plan accordingly — the city is transformed.
+The winters are serious, as in all of Michigan, but Ann Arbor in football season is something to witness: the University of [Michigan stadium](/northamerica/unitedstates/michigan/annarbor/michigan_stadium) holds over 100,000 people and fills reliably. If you are here on a home game day, plan accordingly — the city is transformed.

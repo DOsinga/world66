@@ -1,24 +1,16 @@
 ---
-address: Sultanahmet
-email: info@turkeytravelservice.com
-latitude: 41.004114
-longitude: 28.976909
-phone: +90 532 340 01 52
-tags:
-- things_to_do
-- landmark
-title: Highlights of Ancient Ephesus
+title: "Agora of Smyrna"
 type: poi
-url: www.turkeytravelservice.com
+tags:
+  - things_to_do
+  - sight
+  - kemeralti
+latitude: 38.4189
+longitude: 27.1378
+story: >
+  The Agora of Smyrna was originally built in the fourth century BCE but the structure visible today dates primarily from the second century CE, after a major earthquake in 178 CE devastated the city. The Emperor Marcus Aurelius ordered its reconstruction, and the Roman architect who rebuilt it created something grander than the original Greek marketplace — including a two-storey colonnade on the western side that is among the best preserved in the world. Marcus Aurelius also contributed financially and personally intervened with the Senate to ensure funding for the reconstruction.
 ---
 
-**Highlights of Ancient Ephesus
-**Your driver and licensed guide will meet you in front of Kusadasi's port Passenger Terminal. After a short walk and visit to the Caravanserai you depart into the countryside to the ancient city of Ephesus. On the way you'll see the remains of the Temple of Artemis, one of the 7 wonders of the ancient world.
+The Agora of Smyrna is the most substantial surviving ancient monument within central İzmir. It was the marketplace and civic centre of the Greek and Roman city of Smyrna, and excavations ongoing since the 1930s have revealed a remarkable complex of colonnades, galleries, and civic buildings beneath the modern city streets.
 
-* The highlight of your half day trip is your walk through the streets of ancient Ephesus, one of the best preserved ancient cities in the world. Your licensed guide will bring the past to life as you stroll streets lined with columns and paved with marble. You will see the Odeon, where the advisory council held its meetings, the Temple of Hadrian, Roman Baths, and many other monuments and ruins.
-
-* The most impressive sight is the much photographed Celsus Library towering at the end of the main street. Equally impressive is the ancient theater which can seat 24,000 people. Historians once believed that Ephesus was founded by the Amazons, but current research shows that it was originally the Hittite city of Apasa.
-
-* On the trip address: Sultanahmet
-
-email: info@turkeytravelservice.com
+The site is open to visitors and the highlights are impressive: the western colonnade with its two-storey arcade of Corinthian columns, a vaulted basement gallery that is exceptionally well preserved, and statues of Poseidon and Demeter that were recovered here (originals now in the Archaeological Museum). Allow an hour or more; the site is underexplored by most visitors to İzmir and is never crowded.

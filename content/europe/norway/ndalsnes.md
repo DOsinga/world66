@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: ndalsnes.jpg
+image_attribution: Kjetil Groven
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aandalsnes_fra_kjerringplassen.jpg
 latitude: 62.568169
+loc_type: city
 longitude: 7.686762
+score: 0.66
 title: Åndalsnes
 type: location
-score: 0.66
-loc_type: city
 ---
 
 Åndalsnes sits at the end of the Romsdal valley where the river meets the Romsdalsfjord, surrounded by some of Norway's most dramatic mountain scenery. It is a small town — more a base than a destination — but the surrounding landscape more than compensates.

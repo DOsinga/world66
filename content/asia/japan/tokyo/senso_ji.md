@@ -14,6 +14,7 @@ story: >
   lantern is one of the most photographed objects in Japan.
 tags:
 - things_to_do
+- asakusa
 - sight
 title: Senso-ji Temple
 type: poi

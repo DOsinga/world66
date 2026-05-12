@@ -6,6 +6,9 @@ latitude: 45.3941
 longitude: -61.501
 phone: (902) 533-2128
 snippet: Harbourside brewpub with wood-fired pizza and ceilidhs
+tags:
+  - eating_out
+  - bar
 title: Rare Bird Pub & Eatery
 type: poi
 url: https://www.rarebirdpub.com

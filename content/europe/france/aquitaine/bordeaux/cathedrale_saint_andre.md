@@ -5,6 +5,7 @@ latitude: 44.8376
 longitude: -0.5769
 snippet: Monumental Gothic cathedral with rooftop views from the bell tower
 tags:
+- things_to_do
 - architecture
 - religious
 - history

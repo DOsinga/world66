@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-21'
+image: durness_sutherland.jpg
+image_attribution: Andrew Tryon
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Footpath_from_Durness_to_Bealach_Beag,_Sutherland_-_geograph.org.uk_-_6192669.jpg
 latitude: 58.5685
+loc_type: city
 longitude: -4.7507
 score: 0.55
 title: Durness, Sutherland
 type: location
-loc_type: city
 ---
 
 Durness is as far north-west as you can get by car in mainland Scotland — a small village on the Atlantic coast of Sutherland, with views across to the Orkney Islands on clear days. There is a saying here: if you can see the Orkneys, it's going to rain; if you can't see them, it is already raining. Plan accordingly.

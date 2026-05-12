@@ -1,11 +1,13 @@
 ---
-category: Museum
 done:
   poi_cleanup: '2026-04-20'
 latitude: 44.837
 longitude: -0.5795
 snippet: Napoleonic-era collection of 300 European paintings
-title: Musee des Beaux-Arts
+tags:
+- things_to_do
+- museum
+title: Musée des Beaux-Arts
 type: poi
 ---
 

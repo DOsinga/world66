@@ -1,5 +1,0 @@
-europe/sweden/karesuando
-europe/france/aquitaine/bordeaux
-europe/greece/pella
-europe/unitedkingdom/scotland/durness_sutherland
-asia/india/uttaranchal/mussoorie

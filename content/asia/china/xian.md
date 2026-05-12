@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
+image: xian.jpg
+image_attribution: 源義信
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2023-10-09_Drum_Tower_of_Xi%27an_(%E8%A5%BF%E5%AE%89%E9%BC%93%E6%A8%93)_03.jpg
 latitude: 34.2658
+loc_type: city
 longitude: 108.9541
 score: 0.74
 title: Xi'an
 type: location
-loc_type: city
 ---
 
 Xi'an was China's capital for eleven dynasties and the eastern terminus of the Silk Road. Today it's a city of 8 million, mostly unremarkable in appearance, but it holds some of the most significant historical sites in Asia. The Terracotta Warriors alone justify the trip.

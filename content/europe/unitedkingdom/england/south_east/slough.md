@@ -1,10 +1,16 @@
 ---
+done:
+  location_enrich: '2026-05-12'
+image: slough.jpg
+image_attribution: mattbuck4950 on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/23136508@N00/14522583925
 latitude: 51.511101
+loc_type: city
 longitude: -0.594068
 score: 0.28
 title: Slough
 type: location
-loc_type: city
 ---
 
 Slough has an image problem, immortalized by John Betjeman's poem urging friendly bombs and by Ricky Gervais's portrayal of its soul-crushing office culture in The Office. The reality is more interesting than the caricature. Slough is one of the most ethnically diverse towns in Britain and has a genuine economic energy driven by its trading estate, one of the largest in single private ownership in Europe, and its position on the Heathrow corridor.

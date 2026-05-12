@@ -1,12 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: kottayam.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kottayam,_Kerala,_India_-_panoramio.jpg
 latitude: 9.628738
+loc_type: city
 longitude: 76.645533
+score: 0.46
 title: Kottayam
 type: location
-score: 0.46
-loc_type: city
 ---
 
 Kottayam sits between the backwaters and the hills, surrounded by rubber plantations, rice paddies and lakes. Known as the "land of lakes, latex and letters," it has one of the highest literacy rates in India and is home to several prominent newspapers and publishing houses.

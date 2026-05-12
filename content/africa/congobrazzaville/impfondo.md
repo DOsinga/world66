@@ -10,7 +10,7 @@ title: Impfondo
 type: location
 ---
 
-Impfondo is the capital of the Likouala department in the far north of the Republic of the Congo, roughly 800 kilometres from [Brazzaville](/africa/congobrazzaville/brazzaville) on the western bank of the Ubangi River. It is about as far off the beaten track as you can get in Central Africa.
+Impfondo is the capital of the Likouala department in the far north of the Republic of the Congo, roughly 800 kilometres from [Brazzaville](/africa/congobrazzaville/brazzaville) on the western bank of the [Ubangi River](/africa/congobrazzaville/impfondo/ubangi_river). It is about as far off the beaten track as you can get in Central Africa.
 
 The town has around 25,000 inhabitants and almost no foreign visitors. There is limited infrastructure — electricity is unreliable, the roads are poor, and the nearest reliable medical care is far away. The local language is Lingala; French is the official language but not universally spoken.
 

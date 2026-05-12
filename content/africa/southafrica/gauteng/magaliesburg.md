@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: magaliesburg.jpg
+image_attribution: StormSignal from Magaliesburg, South Africa
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Africa_in_Colour_(15704777533).jpg
 latitude: -26.0003
+loc_type: city
 longitude: 27.5478
+score: 0.49
 title: Magaliesburg
 type: location
-score: 0.49
-loc_type: city
 ---
 
 Magaliesburg is a small town in the Magaliesberg mountain range about 70 kilometres west of Johannesburg, making it the most popular weekend escape for Gauteng residents. The mountains are ancient — among the oldest on earth — and the country around them is beautiful: broad valleys, rocky kloofs, and rivers shaded by fig trees and willows. After the noise and concrete of the city, the contrast is immediate.

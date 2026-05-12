@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: chartres.jpg
+image_attribution: Gzen92
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_(Chartres)_(2).jpg
 latitude: 48.44386
+loc_type: city
 longitude: 1.488143
 score: 0.61
 title: Chartres
 type: location
-loc_type: city
 ---
 
 Chartres is less than 100 km southwest of [Paris](/europe/france/paris), an easy day trip or a stop on the way to the [Loire Valley](/europe/france/centre/loirevalley). Most people come for the cathedral — and the cathedral alone is worth the journey — but the old town around it is genuinely attractive, with half-timbered houses, steep lanes, and good views from the bridges over the Eure.

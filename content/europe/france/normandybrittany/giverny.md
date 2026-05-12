@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: giverny.jpg
+image_attribution: Normandy Tourist Board
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Monet%27s_house_in_Giverny.jpg
 latitude: 49.076619
+loc_type: city
 longitude: 1.529028
+score: 0.7
 title: Giverny
 type: location
-score: 0.7
-loc_type: city
 ---
 
 Giverny is a small village halfway between [Paris](/europe/france/paris) and [Rouen](/europe/france/normandybrittany/rouen), and its fame rests almost entirely on one man: Claude Monet lived and painted here for 43 years until his death in 1926. His house and gardens are the reason to come.

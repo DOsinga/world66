@@ -3,6 +3,7 @@ title: "Shousuke Don"
 type: poi
 tags:
   - bars_and_cafes
+  - susukino
 latitude: 43.0567
 longitude: 141.3530
 snippet: "Friendly open-air bar where Susukino meets Odori"

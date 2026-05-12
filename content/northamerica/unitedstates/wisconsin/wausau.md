@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-12'
+image: wausau.jpg
+image_attribution: Bobak Ha'Eri
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2009-0620-WI017-Wausau-400block.jpg
 latitude: 44.9598
+loc_type: city
 longitude: -89.6273
+score: 0.37
 title: Wausau
 type: location
-score: 0.37
-loc_type: city
 ---
 
 Wausau is an unassuming central Wisconsin city that punches above its weight for outdoor recreation. The Wisconsin River runs through the centre of town, and a series of rapids just below the downtown bridge has made Wausau one of the top whitewater kayaking venues in the Midwest — the city has hosted numerous national and world championships over the past two decades.

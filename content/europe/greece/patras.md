@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-12'
+image: patras.jpg
+image_attribution: jorge.cancela on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/49714642@N08/5721639231
 latitude: 38.246242
+loc_type: city
 longitude: 21.735085
+score: 0.53
 title: Patras
 type: location
-image: patras.jpg
-image_source: https://www.flickr.com/photos/49714642@N08/5721639231
-image_license: CC BY 2.0
-image_attribution: jorge.cancela on Flickr
-score: 0.53
-loc_type: city
 ---
 
 Patras is Greece's third largest city and the gateway to the west. Its busy port connects the Peloponnese to Italy, and for many travelers it is just the place where they get on or off a ferry. That is a shame, because Patras has genuine character if you give it a few hours. The city climbs steeply from the waterfront to a medieval castle, with a tangle of neoclassical buildings, pedestrian streets, and lively squares in between.

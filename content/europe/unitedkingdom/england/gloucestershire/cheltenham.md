@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: cheltenham.jpg
+image_attribution: Elliott Brown from Birmingham, United Kingdom
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Cheltenham_Art_Gallery_%26_Museum_on_21_March_2009.jpg
 latitude: 51.899569
+loc_type: city
 longitude: -2.071156
+score: 0.55
 title: Cheltenham
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Cheltenham is the most sophisticated town in the county and the obvious base for exploring the [Cotswolds](/europe/unitedkingdom/england/gloucestershire/cotswolds). It became fashionable after George III took the waters here in 1788, and the Regency building boom that followed left it with wide tree-lined streets, ornate ironwork balconies, and a sense of confident elegance that has worn well.

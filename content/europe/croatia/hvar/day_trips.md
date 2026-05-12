@@ -3,11 +3,8 @@ title: "Day Trips"
 type: section
 ---
 
-While visiting Hvar you can enjoy in great day trips offered at Hvar Adventure agency. You can contact the agency my email: info@hvar-adventure.com or by visiting them in ther office in the very centre of Hvar town. The web site is www.hvar-adventure.com or www.croatiahvaradventure.com.
+The Pakleni Islands, just offshore from Hvar Town, are the obvious day trip — a short water-taxi ride out to Sveti Klement or Jerolim for swimming, naturism, and a long lunch at one of the konobas. Boats leave from the Hvar Town promenade roughly every half hour in summer.
 
-Here is what agency offers:
+Further afield, the island of Vis (the next island west, two hours by boat) is the off-the-beaten-track choice, with the Blue Cave on Biševo as the headline sight. Plenty of operators in Hvar Town run full-day sailing trips combining Vis, the Blue Cave, and a swim in the Pakleni Islands on the way back.
 
-SAILING:
-
-1 day sailing (10am - 6pm, lunch included).
-10:00 Sailing to island Vis. We will sail in one of the best parts of Adriatic, and favorite destinations of people who love the sea and islands. We sail from Hvar through Pakleni islands to sandy beach called Stoncica. There we will stop for swimming and lunch in great local restaurant on the beach. Snorkelling gear is included, so you can explore the underwater world while taking the break...We return
+Inland, the village of Velo Grablje is an easy half-day on a hired scooter — abandoned mostly in the 1960s, recently brought back to life by a lavender festival every June.

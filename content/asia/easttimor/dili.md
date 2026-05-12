@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
+image: dili.jpg
+image_attribution: Philip Nalangan
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Areia_Branca_Dili_Timor_Leste.jpg
 latitude: -8.553681
+loc_type: city
 longitude: 125.578409
+score: 0.41
 title: Dili
 type: location
-score: 0.41
-loc_type: city
 ---
 
 Dili is a small, unpretentious capital on the north coast, spread along a bay with hills rising steeply behind. It was badly damaged during the 1999 post-referendum violence — much of what you see was built or rebuilt after independence. The city has a distinct character: part Portuguese colonial (faded buildings, Catholic churches, the odd tiled facade), part NGO hub (a visible international presence, good cafes), part chaotic Southeast Asian town (traffic, street markets, roosters at dawn).

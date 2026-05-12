@@ -1,36 +1,12 @@
 ---
-title: "Getting Around in Johor Bahru"
+title: "Getting Around"
 type: section
 ---
 
-While the public transportation system in Johor Bahru leaves
-something to be desired, tourists can still find ways to successfully
-maneuver their way throughout the city.
+The old town and waterfront area around the Royal Museum, the State Mosque, and Jalan Trus are walkable, and recent improvements have added proper pedestrian paths through the main tourist areas. For most sightseeing in the centre, your feet are sufficient.
 
-**Foot **– Recent improvements to the city have made Johor Bahru
-an infinitely more pedestrian friendly tourist hotspot. Improved city
-planning efforts have seen the addition of walkways and pedestrian-only
-zones throughout some of Johor Bahru’s most popular areas. Shopping
-districts, in particular, have opened themselves up to tourists
-sightseeing on foot.
+Grab (Southeast Asia's dominant ride-hailing app) works well in JB and is the most straightforward way to get around. Fares are low by Singapore standards. Regular taxis exist but drivers sometimes prefer to quote a flat fare rather than use the meter; settle the price before you get in.
 
-**Taxi **– Taxis run with great frequency throughout Johor Bahru
-and serve as an affordable means of transportation for tourists, as
-most fares are considerably low for such a major city. In fact, many
-taxi drivers tend to ignore their meters and may prefer instead to
-barter.
+City buses are cheap but infrequent and routes are not always obvious to visitors. For anything beyond the immediate city centre — Johor Premium Outlets, Danga Bay, the western beaches — a Grab or rented car is more practical.
 
-**Bus **– The bus system in Johor Bahru offers affordable rates
-for travel throughout the city. Unfortunately, it is not the easiest
-system to master. Bus drivers rarely keep to a schedule and bus stops
-are not always clearly marked. Should you decide to travel by bus, you
-may wish to ask locals for advice before boarding a bus.
-
-**Car **– Johor Bahru is not the type of city that’s best
-experienced from a car, although a car does come in handy when exploring
-the surrounding regions of Malaysia. Senai International Airport offers
-a host of car rental offices including Hertz, Avis, Orix and Pacific
-Rent-A-Car. Avis remains an attractive option for tourists as it offers
-free service for breakdowns and accidents, a true rarity in Malaysia.
-Within the city you can turn to such prominent companies like Hawk
-Rent-A-Car for your car rental needs.
+Car hire is available at Senai Airport and from several operators in the city. Driving around JB itself is not always pleasant given traffic, but a car makes sense if you are planning excursions to Desaru, Pulau Sibu, or Endau-Rompin.

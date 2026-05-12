@@ -2,6 +2,9 @@
 title: Toy Train Depot
 type: poi
 category: Museum
+tags:
+  - things_to_do
+  - museum
 snippet: Model train museum in a restored 1898 railroad depot
 latitude: 32.9015
 longitude: -105.9605

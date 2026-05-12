@@ -1,16 +1,6 @@
 ---
-title: "Nightlife and Entertainment"
+title: "Bars and Cafes"
 type: section
 ---
 
-Whether you want to see a play at the City Theatre or watch a film in City Screen in the Museum Gardens, you’ll probably start with a drink in one of the many pubs. Some of them feature live performances, such as the Old White Swan, and many of them have a television screen where you can witness the strains of your favourite soccer team. With its two universities, you can expect a lot of students hanging around (Lendal Cellars and Ye old Starre Inn are very popular student hang-outs). Just follow the flock of youngsters when you want to continue after last orders and you’ll probably end up at one of the hot spots at that time being.
- 
-
-## Categories
-
-[Cinemas](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york/nightlife?subsection=Cinemas)
-[Dancing](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york/nightlife?subsection=Dancing)
-
-[Pubs](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york/nightlife?subsection=Pubs%20)
-
-[Theatre & Opera](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york/nightlife?subsection=Theatre%20%26%20Opera%20%20)
+York’s pub culture is one of its genuine attractions. The city has an unusual concentration of old pubs in old buildings, and several — the Blue Bell on Fossgate, Ye Olde Starre Inn on Stonegate — are among the most historically interesting pub interiors in the north of England. Real ale is taken seriously here, and the proximity to the Yorkshire Dales breweries means the selection of cask beer is generally excellent. The two universities sustain a livelier late-night scene around Micklegate and Goodramgate, with Lendal Cellars a reliable late option.

@@ -2,13 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-21'
+image: tena.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,_Ecuador.jpg
 latitude: -0.9943
+loc_type: city
 longitude: -77.8154
 score: 0.49
 title: Tena
 type: location
-loc_type: city
 ---
 
 Tena is the capital of Napo Province and the most accessible entry point into Ecuador's Amazon. It sits where the Tena and Pano rivers meet, two hours east of [Baños](/southamerica/ecuador/banos) down a winding road that drops from the Andes into the jungle. The town itself is modest — a grid of streets, a bridge connecting two halves of town, a central park with the usual cathedral — but what surrounds it is not modest at all.

@@ -3,8 +3,7 @@ title: "Getting Around"
 type: section
 ---
 
-To get around in Angers you can either take the buses or rent a bike. If not in winter, Angers is a nice town to visit by bike.
+Angers is compact enough to walk between the main sights. The château, the cathedral, the Ensemble Saint-Jean, and La Maison d'Adam form a tight medieval cluster on the left bank of the Maine, all within ten minutes on foot. The city's tram and bus network (Irigo) covers the wider urban area and is reliable Monday to Saturday until around 20h; Sunday service is limited enough that you are better off walking or cycling.
 
-Buses work well until 20h from monday to saturday. From 20h there are few buses and only until midnight. Trying to move around by bus on a Sunday is just a nightmare. Single tickets cost 1€ and they are valable to take as many buses as you want during one hour. It is easy to see inspectors in some of the lines, so better to buy one.
+Cycling is well-suited to the flat terrain. Hire bikes are available through the city's Vélocité scheme from docking stations near the train station and the château. Taxis tend to queue at the Angers-Saint-Laud railway station rather than circulate — if you need one away from the centre, call ahead or use a booking app.
 
-It is not common to see taxis, they all stay in front of the railway station.

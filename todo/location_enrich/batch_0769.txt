@@ -1,5 +1,0 @@
-asia/jordan/salt
-europe/spain/catalonia/sabadell
-europe/germany/schleswigholstein/flensburg
-europe/croatia/velikagorica
-australiaandpacific/cookislands/penrhyn

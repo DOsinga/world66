@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: bissau.jpg
+image_attribution: jbdodane
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:20130610_-_Monumento_aos_Her%C3%B3is_da_Independ%C3%AAncia.jpg
 latitude: 11.861324
+loc_type: city
 longitude: -15.583055
+score: 0.32
 title: Bissau
 type: location
-score: 0.32
-loc_type: city
 ---
 
 Bissau is a quiet capital by African standards. The streets are half-empty for much of the day, people sit on porches and chat, and the pace of life is unhurried to the point of stillness. It has a certain charm, though -- faded colonial buildings with wide verandas line the streets, and there is a rawness to the city that feels authentic rather than neglected.

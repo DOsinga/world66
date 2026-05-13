@@ -1,5 +1,0 @@
-asia/malaysia/kuantan
-africa/niger/niamey
-europe/france/centre/loirevalley/angers
-europe/portugal/algarve/monto_gordo
-europe/france/midi/languedoc/beziers

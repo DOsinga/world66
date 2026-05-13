@@ -7,6 +7,10 @@ longitude: 2.113898
 score: 0.42
 title: Sabadell
 type: location
+image: sabadell.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catalonia-Sabadell.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Joan Rubió
 ---
 
 Sabadell is an industrial city in the Vallès Occidental comarca, about thirty kilometers north of Barcelona. For centuries it was the center of Catalonia's wool and textile industry, earning comparisons to Manchester. The old factory buildings, many of them striking examples of industrial Modernisme, give parts of the city a distinctive character that is quite different from the surrounding Catalan towns.

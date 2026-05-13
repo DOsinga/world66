@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
 latitude: 32.0392
+loc_type: city
 longitude: 35.727
+score: 0.45
 title: Salt
 type: location
-score: 0.45
-loc_type: city
 ---
 
 Salt is one of Jordan's most rewarding small towns, and most visitors never make it here. Perched on a cluster of hills just thirty kilometres west of [Amman](/asia/jordan/amman), it was the region's administrative capital under the Ottomans and a major trading hub long before Amman grew into the sprawling city it is today. The result is a town of genuine character — steep, winding streets lined with golden Ottoman-era limestone buildings, many with distinctive arched windows and wrought-iron balconies.

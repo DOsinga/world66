@@ -4,12 +4,12 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 65.8917
-longitude: -18.5500
+latitude: 65.9167
+longitude: -18.5333
 story: >
-  Hauganes is a tiny fishing village just south of Dalvík from which small-group whale watching tours operate year-round. Eyjafjörður is one of Iceland's best fjords for whale sightings because its deep, protected waters host humpback whales throughout much of the year. The tours run on small boats rather than large tourist vessels, which gives a more immediate sense of the scale of the animals when they surface.
+  Hauganes is a small fishing village a few kilometres south of Dalvík, and the whale watching operations based there have an unusually high success rate for humpback whale sightings — partly because the northern end of Eyjafjörður funnels capelin, a small fish that both humpbacks and humans fish intensively, into feeding grounds close to shore. Humpbacks will sometimes breach within a few hundred metres of the boats.
 ---
 
-Whale watching from Hauganes offers a different experience from the larger operations out of Húsavík or Akureyri. The tours are smaller-scale and the fjord setting — surrounded by steep mountains rather than open ocean — makes for distinctive photographs. Humpback whales are the most commonly seen species, with minke whales also frequent.
+Whale watching tours operate from Hauganes on Eyjafjörður, about 5 km south of Dalvík. The fjord is one of northern Iceland's most reliable areas for humpback whale sightings in summer, when the whales follow capelin shoals into the fjord. Minke whales and white-beaked dolphins are also commonly seen.
 
-Tours operate year-round, though summer provides the calmest seas and the most reliable sightings. Hauganes village is a 10-minute drive south of Dalvík on the fjord road.
+Tours are typically 2-3 hours and run from May through September. Hauganes-based operators tend to be smaller and less crowded than the larger operations at Akureyri or Húsavík. The fishing village setting adds atmosphere. Hauganes, Eyjafjörður.

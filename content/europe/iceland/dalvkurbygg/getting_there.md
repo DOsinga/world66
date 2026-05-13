@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Dalvík is about 35 km north of Akureyri, the main hub of northern Iceland. By car, the drive from Akureyri takes about 35 minutes on Route 82 along the fjord. Akureyri Airport has domestic flights from Reykjavík (Air Iceland Connect, about 45 minutes) as well as some international connections; a rental car from Akureyri is the practical way to reach Dalvík.
+Dalvík is 26 km north of Akureyri on the western shore of Eyjafjörður. By car from Akureyri, follow Route 82 north along the fjord — the drive takes about 25 minutes. Akureyri Airport (AEY) has flights from Reykjavík Domestic Airport operated by Icelandair and Eagle Air; the journey from Reykjavík by air is about 45 minutes.
 
-A regional bus service connects Akureyri and Dalvík, though services are infrequent and primarily designed for local use rather than tourist convenience.
+From Reykjavík by car, the drive along Ring Road 1 takes about 5 hours. Akureyri is the logical base for anyone arriving by the long-distance Strætó bus service from Reykjavík (about 6 hours). Local buses connect Akureyri with Dalvík, though service is infrequent.

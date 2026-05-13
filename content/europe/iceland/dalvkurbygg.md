@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-13'
+image: dalvkurbygg.jpg
+image_attribution: M. Schnese / C. Riedel
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Dalvik.jpg
 latitude: 65.893406
 loc_type: city
 longitude: -18.563879

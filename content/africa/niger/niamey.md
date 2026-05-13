@@ -1,12 +1,13 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-13'
 latitude: 13.5127
+loc_type: city
 longitude: 2.1128
 score: 0.28
 title: Niamey
 type: location
-loc_type: city
 ---
 
 Niamey is the capital of [Niger](/africa/niger) and its only real city, sprawling along a bend in the Niger River in the far west of the country. It is dusty, hot, and chaotic in the best possible way — a place where Tuareg, Songhai, Fulani, and Hausa traders all converge in open-air markets that are as much theatre as commerce.

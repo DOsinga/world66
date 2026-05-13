@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-13'
+image: santaana.jpg
+image_attribution: Mariordo (Mario Roberto Durán Ortiz)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:ES_Santa_Ana_06_2011_2543.jpg
 latitude: 13.9942
 loc_type: city
 longitude: -89.5597

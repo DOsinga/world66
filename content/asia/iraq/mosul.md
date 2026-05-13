@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
+image: mosul.jpg
+image_attribution: Mar Sharb
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Church_St._Thomas_in_Mosul.jpg
 latitude: 36.343694
+loc_type: city
 longitude: 43.099716
+score: 0.15
 title: Mosul
 type: location
-score: 0.15
-loc_type: city
 ---
 
 Mosul is Iraq's second-largest city, straddling the Tigris in the far north of the country and long known as the Pearl of the North. It sits on the site of ancient Nineveh, capital of the Assyrian Empire, and for centuries was one of the most cosmopolitan cities in the Middle East — a place where Arab, Kurdish, Assyrian Christian, Turkmen, and Yazidi communities lived side by side.

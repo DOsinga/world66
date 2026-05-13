@@ -1,5 +1,0 @@
-northamerica/mexico/juchipila
-northamerica/canada/britishcolumbia/victoria/chemainus
-southamerica/brazil/so_joaquim
-africa/somaliland/hargeisa
-northamerica/unitedstates/southcarolina/darlington

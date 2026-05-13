@@ -1,5 +1,0 @@
-asia/iraq/mosul
-europe/france/aquitaine/ile_de_r/ars_en_r
-asia/india/madhyapradesh/datia
-northamerica/unitedstates/illinois/peoria
-asia/iran/bam

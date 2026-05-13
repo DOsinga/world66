@@ -1,5 +1,0 @@
-southamerica/uruguay/puntadeleste
-europe/spain/andalucia/cadiz
-europe/italy/sicily/pelagianislands/linosa
-northamerica/unitedstates/newjersey/atlanticcity
-europe/greece/crete/iraklion

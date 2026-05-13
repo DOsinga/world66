@@ -1,7 +1,7 @@
 ---
 address: 990 Bay Street
-latitude: 40.618333
-longitude: -74.069526
+latitude: 43.664167
+longitude: -79.384167
 phone: (416) 921-9990
 price: reasonable (~$40 Canadian per person w/ appetizer and wine)
 tags:

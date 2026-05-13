@@ -2,17 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-21'
 image: toronto.jpg
 image_attribution: Martin St-Amant (S23678)
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:122_-_Toronto_-_Septembre_2009.jpg
 latitude: 43.653482
+loc_type: city
 longitude: -79.383935
 score: 0.68
 title: Toronto
 type: location
-loc_type: city
 ---
 
 Toronto is Canada's largest city and one of the most ethnically diverse on the planet — the United Nations has called it the most multicultural city in the world. It sprawls along the north shore of Lake Ontario, and its skyline is dominated by the CN Tower, which held the title of the world's tallest free-standing structure for decades. The city is a serious metropolis, with excellent museums, a thriving restaurant scene, and a cultural calendar that runs year-round.

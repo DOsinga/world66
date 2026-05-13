@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-13'
 latitude: 37.182
+loc_type: city
 longitude: -7.449
+score: 0.5
 title: Monte Gordo
 type: location
-score: 0.5
-loc_type: city
 ---
 
 Monte Gordo is a beach resort near the Spanish border, about an hour east of [Faro](/europe/portugal/algarve/faro) airport. It has nine kilometres of wide, flat beach with some of the warmest water in the Algarve. The town is popular with Portuguese and Spanish visitors and has a more local feel than the resorts further west.

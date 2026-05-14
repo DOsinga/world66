@@ -1,31 +1,14 @@
 ---
-address: 11, Lalbagh Road, Bangalore-560 027, INDIA
-phone: +91- 80 - 2222 0022
-price: Attractive
+address: 11, Lalbagh Road, Bangalore 560 027
+latitude: 12.9501
+longitude: 77.5849
 tags:
 - eating_out
+- restaurant
 title: MTR (Mavalli Tiffin Rooms)
 type: poi
 ---
 
-Mavalli Tiffin Rooms (or MTR for short) is one of the oldest Restaurants in Bangalore , the silicon valley of India . The word hotel is many a time referred to as restaurant in India . So, don’t be confused it to be a Hotel!
+Mavalli Tiffin Rooms — MTR to everyone in Bangalore — opened in 1924 and has never really changed what it does. The restaurant serves pure South Indian vegetarian food: masala dosa, idli, vada, bisibele bath, and the famous lunch thali with fifteen dishes, all made to the same exacting standards the Maiya family has maintained for a century. MTR is also credited with inventing rava idli during World War II, when rice was rationed — they improvised with semolina and kept going.
 
-MTR is a pure and perfect South Indian restaurant started in the year 1924 by the grandfather of the current managing partner Hemamalini Maiya (34), active, confident, energetic young woman. MTR was awarded the best South Indian Tiffin restaurant by the Times of India, a leading newspaper. It also got the Rotary award a year back. Mavalli is one of the oldest towns in Bangalore situated near Lalbagh, a biggest park in the heart of the city.
-
-MTR serves 15 different varieties of food in its famous lunch/dinner package. Apart from its lunch/dinner packages, the Tiffins like Masala Dosa, Idlis, Bisibelebath, Kharabath, Chandrahara, Sandwiches, Coffee and lots more are THE items at MTR Restaurant.
-
-Mavalli Tiffin Rooms (MTR)
-#11, Lalbagh Road ,
-BANGALORE – 560 027,
-INDIA .
-
-Telephone: 0091-80-22220022
-
-Landmark: Lalbagh botanical Garden
-
-**Contributors**
-August 02, 2005
-
-September 30, 2006
-
-type: Vegetarian
+The setting is a long, white-tiled dining room near Lalbagh botanical garden, and on weekend mornings the queue stretches out the door. The food arrives fast, served by waiters who have been doing it for decades. There is no Wi-Fi, no elaborate menu, and nothing remotely fashionable about the place — which is exactly the point. Order the masala dosa and the filter coffee, and plan to wait.

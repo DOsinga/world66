@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: campeche.jpg
+image_attribution: Ralf Roletschek
+image_license: GFDL 1.2
+image_source: https://commons.wikimedia.org/wiki/File:15-07-15-Centro_hist%C3%B3rico_de_San_Francisco_de_Campeche-RalfR-WMA_0793.jpg
 latitude: 19.8482
+loc_type: city
 longitude: -90.5259
+score: 0.63
 title: Campeche
 type: location
-score: 0.63
-loc_type: city
 ---
 
 The Land of Serpents and Ticks, as the Mayas called this place, is an attractive colonial city on the Gulf of Mexico. Campeche's old centre, a UNESCO World Heritage Site, was beautifully restored in the early 2000s — the pastel-coloured buildings, fortified walls, and underground cables give it a clean, photogenic look that is rare in Mexican cities.

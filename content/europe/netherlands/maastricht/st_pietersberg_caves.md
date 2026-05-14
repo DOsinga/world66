@@ -1,8 +1,8 @@
 ---
 title: St. Pietersberg Caves
 type: poi
-latitude: 51.6750
-longitude: 5.6719
+latitude: 50.8372
+longitude: 5.6696
 tags:
 - things_to_do
 - sight

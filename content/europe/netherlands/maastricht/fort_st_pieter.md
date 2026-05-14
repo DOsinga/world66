@@ -1,8 +1,8 @@
 ---
 title: Fort Sint Pieter
 type: poi
-latitude: 51.6764
-longitude: 5.6742
+latitude: 50.8363
+longitude: 5.6673
 tags:
 - things_to_do
 - sight

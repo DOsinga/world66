@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: puertodesoller.jpg
+image_attribution: Vicenç Salvador Torres Guerola
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:1._Port_de_S%C3%B3ller_(Mallorca).jpg
 latitude: 39.7938
+loc_type: city
 longitude: 2.6937
+score: 0.64
 title: Puerto de Soller
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Puerto de Sóller sits at the base of a near-perfect circular bay on Mallorca's northwest coast, surrounded on three sides by the Serra de Tramuntana mountains. The port has a small beach, a promenade lined with restaurants and cafes, and a pleasingly unhurried atmosphere that somehow survives the summer crowds.

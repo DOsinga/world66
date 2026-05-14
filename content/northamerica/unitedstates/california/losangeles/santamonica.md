@@ -2,20 +2,23 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-14'
+image: santamonica.jpg
+image_attribution: Dietmar Rabich
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Santa_Monica_Beach_--_2012_--_5301.jpg
 latitude: 34.01947
+loc_type: city
 longitude: -118.491227
 score: 0.65
 title: Santa Monica
 type: location
-loc_type: city
 ---
 
-West of the 405 Freeway is Santa Monica. A huge sprawling city itself of immense economic diversity with its own neighborhoods.
+Santa Monica sits at the western edge of Los Angeles, where the Santa Monica Mountains meet the Pacific. It is its own incorporated city within the greater metropolitan sprawl, with about 90,000 residents and a character distinct from its surroundings: more walkable, more compact, politically progressive, and oriented relentlessly toward the ocean.
 
-For teens and tourists, the mall, the pier and the boardwalk are big draws – for other LA natives – not so much. But LA natives will tolerate the 3rd street promenade as it’s one of the few areas of Santa Monica with nice restaurants AND parking. For shopping, Santa Monica has little hidden pockets like Montana Street and others who are willing to venture off the beaten path.
+The pier is the obvious landmark — the oldest on the West Coast, built between 1908 and 1921, with a Ferris wheel and an antique carousel — and the beach is long, wide, and reliably crowded from May through September. Third Street Promenade is the social and commercial core: a pedestrianized strip where street musicians perform outside cinemas and restaurants, and where locals who would normally avoid tourist areas show up because the parking is actually manageable. Montana Avenue, north of downtown, has the city’s better independent shops and cafes; Main Street, to the south, retains some Art Deco character and runs into the Venice border.
 
-Santa Monica definitely has everything to relieve you of your stress while travelling. You can forget your worries (if you have any) and play vollyball, bike, rollerblade or just take it easy in the sand. For the more active traveller the Santa Monica mountains are there where you can hike.
+Santa Monica has a serious restaurant scene concentrated around Pico Boulevard and the streets off Main Street — Michelin-starred kitchens alongside serious taco trucks — and an art world centred on Bergamot Station, a former trolley yard turned gallery complex. For outdoor activity, Palisades Park runs along the clifftop above the Pacific Coast Highway with views south to Palos Verdes and north to Malibu. The Santa Monica Stairs in Pacific Palisades are a local fitness ritual done by the kind of people who choose to live here.
 
-If people watching is what you're really after, go to the Santa Monica Pier for its boardwalk ambience. The heart of Santa Monica is the 3rd St Promenade, a sort of small mall where you can find about anything and where musicians and mimes perform and artists sketch among sidewalk cafés and shops. The famous Santa Monica pier, built between 1908 and 1921, is the oldest pleasure pier on the West Coast.
-
-Besides the friendly beaches Santa Monica also offers nice restaurants and perfect bars for dancing or just to simply take a cup of coffee there during daytime... So, come and see the things Santa Monica has to offer and if you want you can visit the nearby [Beverly Hills](/northamerica/unitedstates/california/losangeles/beverlyhills), [Hollywood](/northamerica/unitedstates/california/losangeles/hollywood) or [Pasadena](/northamerica/unitedstates/california/losangeles/pasadena).
+From here [Beverly Hills](/northamerica/unitedstates/california/losangeles/beverlyhills), [Hollywood](/northamerica/unitedstates/california/losangeles/hollywood), [Venice](/northamerica/unitedstates/california/losangeles/venice), and [Malibu](/northamerica/unitedstates/california/losangeles/malibu) are all within reasonable reach.

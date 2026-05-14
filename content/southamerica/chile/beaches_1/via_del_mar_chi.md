@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-14'
+image: via_del_mar_chi.jpg
+image_attribution: Gabrielinfante92
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Beach_near_Re%C3%B1aca_2.jpg
 latitude: -33.0153
+loc_type: city
 longitude: -71.55
+score: 0.58
 title: Viña del Mar
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Viña del Mar is Chile's most popular beach resort, a city of around 350,000 people on the Pacific coast about ninety minutes northwest of [Santiago](/southamerica/chile/santiago). Chileans call it the "Garden City" for its parks, palm-lined avenues, and flower clock (Reloj de Flores), and it has a polished, Mediterranean feel that contrasts with the grittier character of neighbouring [Valparaíso](/southamerica/chile/valparaiso).

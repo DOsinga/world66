@@ -1,5 +1,0 @@
-northamerica/mexico/tijuana
-europe/ireland/blarney
-asia/india/tamilnadu/chennai
-europe/netherlands/friesland/dokkum
-asia/pakistan/thatta

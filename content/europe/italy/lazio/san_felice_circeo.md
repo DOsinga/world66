@@ -1,12 +1,17 @@
 ---
-title: San Felice Circeo
-type: location
-latitude: 41.232617
-longitude: 13.089398
 done:
   location_cleanup: 2026-04-10
-score: 0.56
+  location_enrich: '2026-05-14'
+image: san_felice_circeo.jpg
+image_attribution: Nicola since 1972 on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/15216811@N06/4961391784
+latitude: 41.232617
 loc_type: city
+longitude: 13.089398
+score: 0.56
+title: San Felice Circeo
+type: location
 ---
 
 San Felice Circeo is a small town on the Pontine coast of Lazio, about 100 kilometres south of Rome, built on the lower slopes of Monte Circeo — a rocky promontory that rises sharply from the surrounding flat plain and, seen from the right angle, traces a profile resembling a reclining woman's face.

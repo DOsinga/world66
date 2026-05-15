@@ -1,34 +1,6 @@
 ---
-address: Thamel
-latitude: 27.716658
-longitude: 85.312702
 title: Eating Out
-type: poi
+type: section
 ---
 
-Kathmandu has an improving range of restaurants. The Nepalis seem to be great in copying all types of food. So do not be surprised that some restaurants offer Nepali, Indian, Continental, Mexican and Italian food in one location and very often with a great quality. Especially in Thamel you will find a lot of good restaurants.
-
-**Contributors**
-May 19, 2007
-
-### [Roadhouse](/asia/nepal/kathmandu/eating_out/roadhouse)
-
-Italian style restaurants. There are actually three outlets. Great pizza and a lot other delicious dishes. The tourist will probably run into the Thamel outlet. The second one is below the only Salsa Dance studio of Nepal.
-
-type: African
-
-
-
-[[rate it]](/asia/nepal/kathmandu/eating_out/roadhouse)
-
-address: Thamel
-
-### [New Orleans Restaurants and Cafe](/asia/nepal/kathmandu/eating_out/new_orleans_restau)
-
-A great garden restaurant in the heart of Thamel. Great variety of food from different cuisines. Free internet, but often very slow.
-
-type: International
-
-
-
-address: Thamel
+Kathmandu's restaurant scene is better than it has any right to be. Dal bhat — the national meal of lentil soup, rice, and vegetable curries served with refills until you surrender — is available everywhere and is genuinely sustaining. Thamel has restaurants covering every cuisine imaginable, of wildly varying quality; the better options are on the side streets away from the main drag. Newari food, the traditional cuisine of Kathmandu's original inhabitants, is harder to find but worth seeking out: bara (lentil pancakes), chatamari (rice flour crepe), and kwati (mixed bean soup) appear at local restaurants around Asan and Indra Chowk.

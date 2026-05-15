@@ -3,8 +3,8 @@ import random
 SCENARIOS = [
     {
         "id": "berlin_friends_3days",
-        "context": "You're heading to Berlin for 3 days with your best friend. Which of these would make your list?",
-        "destination": "Berlin", "companion": "best friend", "duration": "3 days",
+        "context": "You're spending one day in Berlin with your best friend. Which of these would make your list?",
+        "destination": "Berlin", "companion": "best friend", "duration": "1 day",
         "options": [
             {"name": "Museum Island", "emoji": "🏛️", "detail": "Six world-class museums crammed on one island — plan at least half a day."},
             {"name": "East Side Gallery", "emoji": "🎨", "detail": "1.3 km of murals painted directly onto the last standing stretch of the Berlin Wall."},
@@ -20,8 +20,8 @@ SCENARIOS = [
     },
     {
         "id": "tokyo_solo_week",
-        "context": "You have a week alone in Tokyo. What goes on the agenda?",
-        "destination": "Tokyo", "companion": "solo", "duration": "7 days",
+        "context": "You have one day alone in Tokyo. What goes on the agenda?",
+        "destination": "Tokyo", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Senso-ji at dawn (before the crowds)", "emoji": "⛩️", "detail": "Tokyo's oldest temple at 6am belongs to locals doing morning prayers and the odd jet-lagged visitor."},
             {"name": "TeamLab digital art museum", "emoji": "✨", "detail": "Walk through infinite mirrored rooms of projected light — book weeks ahead, polarising but unforgettable."},
@@ -37,8 +37,8 @@ SCENARIOS = [
     },
     {
         "id": "barcelona_partner_5days",
-        "context": "Five days in Barcelona with your partner. What makes the cut?",
-        "destination": "Barcelona", "companion": "partner", "duration": "5 days",
+        "context": "One day in Barcelona with your partner. What makes the cut?",
+        "destination": "Barcelona", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Sagrada Família (inside)", "emoji": "⛪", "detail": "Still under construction after 140 years, and the interior is more astonishing than the facade."},
             {"name": "Park Güell at sunset", "emoji": "🌅", "detail": "The ticketed terrace at golden hour is genuinely magical; the free lower park is always crowded."},
@@ -54,8 +54,8 @@ SCENARIOS = [
     },
     {
         "id": "newyork_family_weekend",
-        "context": "Long weekend in New York with the whole family. What's on the list?",
-        "destination": "New York", "companion": "family", "duration": "long weekend",
+        "context": "One day in New York with the whole family. What's on the list?",
+        "destination": "New York", "companion": "family", "duration": "1 day",
         "options": [
             {"name": "Central Park — just wander", "emoji": "🌳", "detail": "843 acres of engineered wilderness — find the Ramble, the Reservoir, or just follow kids to whatever fountain they discover."},
             {"name": "Top of the Rock or Empire State", "emoji": "🏙️", "detail": "Top of the Rock frames the Empire State in photos; Empire State is the icon — choose your priority."},
@@ -71,8 +71,8 @@ SCENARIOS = [
     },
     {
         "id": "paris_partner_3days",
-        "context": "Three days in Paris with your partner. Classic or off the beaten path?",
-        "destination": "Paris", "companion": "partner", "duration": "3 days",
+        "context": "One day in Paris with your partner. Classic or off the beaten path?",
+        "destination": "Paris", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Eiffel Tower after dark (light show)", "emoji": "✨", "detail": "Every hour after dusk the tower does a 5-minute sparkle show — watch from Trocadéro with a bottle of wine."},
             {"name": "Musée d'Orsay morning", "emoji": "🎨", "detail": "The Impressionist collection inside a converted train station — get there at opening and go straight to the top floor."},
@@ -88,8 +88,8 @@ SCENARIOS = [
     },
     {
         "id": "amsterdam_friends_weekend",
-        "context": "Weekend in Amsterdam with a group of friends. What are you doing?",
-        "destination": "Amsterdam", "companion": "friends", "duration": "weekend",
+        "context": "One day in Amsterdam with a group of friends. What are you doing?",
+        "destination": "Amsterdam", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Rijksmuseum morning", "emoji": "🏛️", "detail": "The Night Watch is bigger than you expect and the building itself is a masterpiece — allow three hours minimum."},
             {"name": "Vondelpark picnic", "emoji": "🌞", "detail": "Amsterdam's living room on a sunny weekend: bring food, a frisbee, and prepare to stay longer than planned."},
@@ -105,8 +105,8 @@ SCENARIOS = [
     },
     {
         "id": "rome_family_5days",
-        "context": "Five days in Rome with the family. Ruins, gelato, and what else?",
-        "destination": "Rome", "companion": "family", "duration": "5 days",
+        "context": "One day in Rome with the family. Ruins, gelato, and what else?",
+        "destination": "Rome", "companion": "family", "duration": "1 day",
         "options": [
             {"name": "Colosseum (pre-booked, early slot)", "emoji": "🏟️", "detail": "First entry at 9am with a pre-booked ticket is the only civilised way — 70,000-seat arena, no queue, golden light."},
             {"name": "Vatican and Sistine Chapel", "emoji": "⛪", "detail": "Two hours of corridors and then four minutes of craning your neck — Michelangelo earns every second of the wait."},
@@ -122,8 +122,8 @@ SCENARIOS = [
     },
     {
         "id": "bali_solo_week",
-        "context": "A whole week in Bali, just you. How do you spend it?",
-        "destination": "Bali", "companion": "solo", "duration": "7 days",
+        "context": "One day in Bali, just you. How do you spend it?",
+        "destination": "Bali", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Sunrise hike up Mount Batur", "emoji": "🌋", "detail": "4am start, two-hour climb, clouds below you at sunrise — cold, dark, and absolutely worth doing once."},
             {"name": "Ubud rice terrace walk", "emoji": "🌾", "detail": "The Tegallalang terraces are beautiful but tourist-busy — walk 20 minutes further to where the fields are farmed, not photographed."},
@@ -139,8 +139,8 @@ SCENARIOS = [
     },
     {
         "id": "bangkok_solo_5days",
-        "context": "Five solo days in Bangkok. Temples, chaos, and what else?",
-        "destination": "Bangkok", "companion": "solo", "duration": "5 days",
+        "context": "One solo day in Bangkok. Temples, chaos, and what else?",
+        "destination": "Bangkok", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Wat Pho at opening time", "emoji": "☸️", "detail": "The 46-metre reclining Buddha is genuinely breathtaking — arrive at 8am before the heat and the groups descend."},
             {"name": "Grand Palace (long queue, worth it)", "emoji": "🏯", "detail": "The most elaborate complex in Southeast Asia — the Emerald Buddha alone is worth the hour in the sun-baked queue."},
@@ -156,8 +156,8 @@ SCENARIOS = [
     },
     {
         "id": "london_colleagues_2days",
-        "context": "Two days in London with work colleagues. Where do you all end up?",
-        "destination": "London", "companion": "colleagues", "duration": "2 days",
+        "context": "One day in London with work colleagues. Where do you all end up?",
+        "destination": "London", "companion": "colleagues", "duration": "1 day",
         "options": [
             {"name": "British Museum (free!)", "emoji": "🏛️", "detail": "The Rosetta Stone and the Elgin Marbles are both smaller than you expect — go for the Egyptian mummies instead."},
             {"name": "Borough Market lunch", "emoji": "🥗", "detail": "London's best food market under railway arches — Monmouth coffee, Brindisa chorizo rolls, and always a queue worth joining."},
@@ -173,8 +173,8 @@ SCENARIOS = [
     },
     {
         "id": "sydney_bestfriend_5days",
-        "context": "Five days in Sydney with your best friend. Classic or adventure?",
-        "destination": "Sydney", "companion": "best friend", "duration": "5 days",
+        "context": "One day in Sydney with your best friend. Classic or adventure?",
+        "destination": "Sydney", "companion": "best friend", "duration": "1 day",
         "options": [
             {"name": "Sydney Opera House tour", "emoji": "🎭", "detail": "The backstage tour shows you how the concrete sails actually work — if you can, book a performance and see it properly lit."},
             {"name": "Bondi to Coogee coastal walk", "emoji": "🌊", "detail": "Six kilometres of cliff paths, ocean pools, and cemeteries above sea — the best free walk in any city in the world."},
@@ -190,8 +190,8 @@ SCENARIOS = [
     },
     {
         "id": "capetown_solo_week",
-        "context": "A week alone in Cape Town. Mountain, ocean, wine — where do you start?",
-        "destination": "Cape Town", "companion": "solo", "duration": "7 days",
+        "context": "One day alone in Cape Town. Mountain, ocean, wine — where do you start?",
+        "destination": "Cape Town", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Table Mountain cable car (clear day only)", "emoji": "⛰️", "detail": "Only go when the tablecloth cloud isn't sitting on it — the 360° view of the peninsula and both oceans is extraordinary."},
             {"name": "Robben Island ferry tour", "emoji": "⛴️", "detail": "The tour is led by former political prisoners — Nelson Mandela's cell is small, the experience is large."},
@@ -207,8 +207,8 @@ SCENARIOS = [
     },
     {
         "id": "istanbul_partner_4days",
-        "context": "Four days in Istanbul with your partner. East meets West, which parts call to you?",
-        "destination": "Istanbul", "companion": "partner", "duration": "4 days",
+        "context": "One day in Istanbul with your partner. East meets West, which parts call to you?",
+        "destination": "Istanbul", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Hagia Sophia at opening time", "emoji": "🕌", "detail": "Church, mosque, museum, mosque again — 1,500 years of religious history in one building, best seen before the midday crowds."},
             {"name": "Grand Bazaar morning wander", "emoji": "🛍️", "detail": "4,000 shops in 61 covered streets — go without a shopping list, accept the tea you'll be offered, and enjoy the chaos."},
@@ -224,8 +224,8 @@ SCENARIOS = [
     },
     {
         "id": "buenosaires_solo_week",
-        "context": "A full week in Buenos Aires, solo. Steak, tango, and what else?",
-        "destination": "Buenos Aires", "companion": "solo", "duration": "7 days",
+        "context": "One day in Buenos Aires, solo. Steak, tango, and what else?",
+        "destination": "Buenos Aires", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Tango show (dinner + live dance)", "emoji": "💃", "detail": "Palermo or San Telmo milonga shows: highly choreographed, undeniably theatrical, and the dancing is extraordinary."},
             {"name": "La Boca and Caminito colours", "emoji": "🎨", "detail": "The famous corrugated iron painted houses exist on one tourist street — go, see it, understand it was made for exactly this."},
@@ -241,8 +241,8 @@ SCENARIOS = [
     },
     {
         "id": "mexicocity_friends_4days",
-        "context": "Four days in Mexico City with friends. What's on the list?",
-        "destination": "Mexico City", "companion": "friends", "duration": "4 days",
+        "context": "One day in Mexico City with friends. What's on the list?",
+        "destination": "Mexico City", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Teotihuacán pyramids at sunrise", "emoji": "🌄", "detail": "Pre-Aztec city with two massive pyramids — hire a driver and arrive at opening to beat the tour buses by two hours."},
             {"name": "Frida Kahlo Museum", "emoji": "🌸", "detail": "La Casa Azul in Coyoacán: the actual house where Kahlo lived, her studio, her jewellery, her corsets — intimate and devastating."},
@@ -258,8 +258,8 @@ SCENARIOS = [
     },
     {
         "id": "lisbon_bestfriend_4days",
-        "context": "Four days in Lisbon with your best friend. Trams, Fado, pastel de nata?",
-        "destination": "Lisbon", "companion": "best friend", "duration": "4 days",
+        "context": "One day in Lisbon with your best friend. Trams, Fado, pastel de nata?",
+        "destination": "Lisbon", "companion": "best friend", "duration": "1 day",
         "options": [
             {"name": "Alfama Fado evening", "emoji": "🎵", "detail": "Fado is Portuguese blues — a small room, a single performer, and a guitar: no applause until the song fully ends."},
             {"name": "Pastéis de Belém at the original shop", "emoji": "🥮", "detail": "The recipe is secret, the queue always moves fast — eat them hot with cinnamon and powdered sugar at the marble counter."},
@@ -275,8 +275,8 @@ SCENARIOS = [
     },
     {
         "id": "vienna_partner_3days",
-        "context": "Three days in Vienna with your partner. Culture, coffee, and Klimt?",
-        "destination": "Vienna", "companion": "partner", "duration": "3 days",
+        "context": "One day in Vienna with your partner. Culture, coffee, and Klimt?",
+        "destination": "Vienna", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Kunsthistorisches Museum", "emoji": "🏛️", "detail": "The Habsburg imperial art collection in a palace-like museum — Bruegel's hunters in the snow and Vermeer's painting of an art studio."},
             {"name": "Wiener Staatsoper (standing tickets are cheap)", "emoji": "🎭", "detail": "€5 standing tickets go on sale 80 minutes before curtain — dress up, arrive early, stand for three hours and feel civilised."},
@@ -292,8 +292,8 @@ SCENARIOS = [
     },
     {
         "id": "marrakech_friends_4days",
-        "context": "Four days in Marrakech with friends. Souks, spice, and hammams?",
-        "destination": "Marrakech", "companion": "friends", "duration": "4 days",
+        "context": "One day in Marrakech with friends. Souks, spice, and hammams?",
+        "destination": "Marrakech", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Djemaa el-Fna square at night", "emoji": "🔥", "detail": "Snake charmers, acrobats, smoke from 50 food stalls, and the sound of gnawa drums — overwhelming in the best way."},
             {"name": "Majorelle Garden (Yves Saint Laurent)", "emoji": "🌵", "detail": "Cobalt blue walls and cactus garden designed by a French painter, rescued by Yves Saint Laurent — his ashes are here."},
@@ -309,8 +309,8 @@ SCENARIOS = [
     },
     {
         "id": "kyoto_solo_5days",
-        "context": "Five solo days in Kyoto. Temples, bamboo, and tea ceremony?",
-        "destination": "Kyoto", "companion": "solo", "duration": "5 days",
+        "context": "One solo day in Kyoto. Temples, bamboo, and tea ceremony?",
+        "destination": "Kyoto", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Fushimi Inari at 6am (before the crowds)", "emoji": "⛩️", "detail": "Thousands of vermilion torii gates winding up a forested mountain — the crowds arrive by 9am, be long gone by then."},
             {"name": "Arashiyama bamboo grove", "emoji": "🎋", "detail": "The famous bamboo corridor is 200 metres long and sounds like the wind has its own language — extraordinary and deservedly famous."},
@@ -326,8 +326,8 @@ SCENARIOS = [
     },
     {
         "id": "prague_friends_weekend",
-        "context": "Weekend in Prague with friends. Beer, history, and ruin bars?",
-        "destination": "Prague", "companion": "friends", "duration": "weekend",
+        "context": "One day in Prague with friends. Beer, history, and ruin bars?",
+        "destination": "Prague", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Charles Bridge at dawn", "emoji": "🌅", "detail": "30 baroque saints on a 14th-century stone bridge over the Vltava — completely empty at 6am, impossible to move through by 10am."},
             {"name": "Old Town Square astronomical clock", "emoji": "⏰", "detail": "Every hour a crowd gathers for a 60-second mechanical procession of apostles — the real wonder is the 600-year-old clock face below it."},
@@ -344,7 +344,7 @@ SCENARIOS = [
     {
         "id": "seoul_solo_week",
         "context": "Seven solo days in Seoul. K-culture, history, and what else?",
-        "destination": "Seoul", "companion": "solo", "duration": "7 days",
+        "destination": "Seoul", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Gyeongbokgung Palace at opening", "emoji": "🏯", "detail": "The main Joseon dynasty palace with the morning guard-changing ceremony — rent a hanbok to skip the entry queue."},
             {"name": "Insadong tea house and crafts", "emoji": "🫖", "detail": "The traditional arts street with galleries, hanji paper shops, and a tea house hidden through an unmarked door."},
@@ -361,7 +361,7 @@ SCENARIOS = [
     {
         "id": "rio_partner_5days",
         "context": "Five days in Rio with your partner. Beaches, samba, and Christ on the hill?",
-        "destination": "Rio de Janeiro", "companion": "partner", "duration": "5 days",
+        "destination": "Rio de Janeiro", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Christ the Redeemer at sunrise", "emoji": "✝️", "detail": "The van goes up before the city wakes — clouds often sit below the statue, making it look like Christ is floating."},
             {"name": "Ipanema beach afternoon", "emoji": "🌊", "detail": "Find your posto (numbered beach station), buy cold coconut water from the vendor, watch the volleyball, say nothing for hours."},
@@ -378,7 +378,7 @@ SCENARIOS = [
     {
         "id": "dublin_friends_weekend",
         "context": "Weekend in Dublin with mates. Guinness, music, and a bit of history?",
-        "destination": "Dublin", "companion": "friends", "duration": "weekend",
+        "destination": "Dublin", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Guinness Storehouse (book ahead)", "emoji": "🍺", "detail": "Seven floors of brand history culminating in a round glass Gravity Bar with 360° views — the pint at the top tastes exactly like every other Guinness."},
             {"name": "Temple Bar pub crawl evening", "emoji": "🎸", "detail": "The obvious choice that everyone does — expensive, loud, very fun, and the trad music is actually real."},
@@ -395,7 +395,7 @@ SCENARIOS = [
     {
         "id": "athens_bestfriend_5days",
         "context": "Five days in Athens with your best friend. Acropolis down to nightcaps?",
-        "destination": "Athens", "companion": "best friend", "duration": "5 days",
+        "destination": "Athens", "companion": "best friend", "duration": "1 day",
         "options": [
             {"name": "Acropolis at opening (8am, beat the heat)", "emoji": "🏛️", "detail": "Arrive at 8am in summer: two hours before the tour groups, before the marble-bleaching heat, and with clean morning light on the Parthenon."},
             {"name": "Monastiraki flea market", "emoji": "🛍️", "detail": "Sunday morning: military surplus, old coins, bootleg cassettes, and genuine antiques — you will find something inexplicable to buy."},
@@ -412,7 +412,7 @@ SCENARIOS = [
     {
         "id": "havana_solo_week",
         "context": "A full week in Havana on your own. Rum, revolution, and rhythm?",
-        "destination": "Havana", "companion": "solo", "duration": "7 days",
+        "destination": "Havana", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Classic car tour of Old Havana", "emoji": "🚗", "detail": "1950s American Chevrolets and Pontiacs in impossible colours — they run because Cuban mechanics can fabricate any part from scratch."},
             {"name": "Hemingway's bars (El Floridita, La Bodeguita)", "emoji": "🍹", "detail": "El Floridita for the daiquiri, La Bodeguita for the mojito — both touristy, both historically justified, both excellent."},
@@ -429,7 +429,7 @@ SCENARIOS = [
     {
         "id": "copenhagen_partner_3days",
         "context": "Three days in Copenhagen with your partner. Design, food, and hygge?",
-        "destination": "Copenhagen", "companion": "partner", "duration": "3 days",
+        "destination": "Copenhagen", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Nyhavn canal afternoon walk", "emoji": "🌊", "detail": "The famous coloured townhouses and wooden boats — tourist-heavy but genuinely beautiful, especially with afternoon light on the water."},
             {"name": "Cycling a whole day (this is Copenhagen)", "emoji": "🚲", "detail": "Rent bikes and cycle everywhere — the infrastructure is so good that you'll feel cheated by every other city you visit afterwards."},
@@ -446,7 +446,7 @@ SCENARIOS = [
     {
         "id": "montreal_friends_4days",
         "context": "Four days in Montreal with friends. French Canada at its best?",
-        "destination": "Montreal", "companion": "friends", "duration": "4 days",
+        "destination": "Montreal", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Jean-Talon Market morning", "emoji": "🌽", "detail": "The best farmers' market in North America — Quebec cheese, cider, maple products, and vegetables that shame everything else."},
             {"name": "Plateau neighbourhood wander", "emoji": "🏘️", "detail": "External staircases, murals, and dépanneurs on every corner — the architecture here is uniquely Montréalais and completely charming."},
@@ -463,7 +463,7 @@ SCENARIOS = [
     {
         "id": "cairo_family_5days",
         "context": "Five days in Cairo with the whole family. Pyramids, pharaohs, and chaos?",
-        "destination": "Cairo", "companion": "family", "duration": "5 days",
+        "destination": "Cairo", "companion": "family", "duration": "1 day",
         "options": [
             {"name": "Pyramids of Giza and Sphinx at dawn", "emoji": "🔺", "detail": "Arrive at opening, hire a licensed guide, and stand before the last surviving wonder of the ancient world in early light."},
             {"name": "Egyptian Museum (mummies!)", "emoji": "⚱️", "detail": "The old museum is chaotic and poorly labelled — but the density of 5,000-year-old golden objects is overwhelming in a good way."},
@@ -480,7 +480,7 @@ SCENARIOS = [
     {
         "id": "singapore_solo_4days",
         "context": "Four solo days in Singapore. Clean, intense, and delicious?",
-        "destination": "Singapore", "companion": "solo", "duration": "4 days",
+        "destination": "Singapore", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Gardens by the Bay Supertrees at night", "emoji": "🌳", "detail": "18-storey vertical gardens that light up after dark with a nightly light show — free to walk around, paid to walk the aerial bridge between them."},
             {"name": "Hawker centre every meal (no exceptions)", "emoji": "🍜", "detail": "Maxwell, Lau Pa Sat, Tekka — the 50-year-old hawker culture is a UNESCO tradition, and a full meal costs S$4."},
@@ -497,7 +497,7 @@ SCENARIOS = [
     {
         "id": "budapest_bestfriend_weekend",
         "context": "Weekend in Budapest with your best friend. Baths, ruins, and goulash?",
-        "destination": "Budapest", "companion": "best friend", "duration": "weekend",
+        "destination": "Budapest", "companion": "best friend", "duration": "1 day",
         "options": [
             {"name": "Széchenyi thermal baths on Saturday morning", "emoji": "♨️", "detail": "Outdoor pools in a yellow neo-baroque palace — locals play chess on floating boards, the water is 38°C, and it's been this way since 1913."},
             {"name": "Ruin bars (Szimpla Kert) Saturday night", "emoji": "🎉", "detail": "A derelict factory filled with mismatched furniture, multiple bars, and live music in every corner — the concept started here in 2002."},
@@ -514,7 +514,7 @@ SCENARIOS = [
     {
         "id": "sanfrancisco_solo_4days",
         "context": "Four solo days in San Francisco. Fog, hills, and Mission burritos?",
-        "destination": "San Francisco", "companion": "solo", "duration": "4 days",
+        "destination": "San Francisco", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Golden Gate Bridge walk to Marin side", "emoji": "🌉", "detail": "Walk the full 1.7 miles to the Marin County side and look back at the city — the bridge is always in fog by afternoon, so go in the morning."},
             {"name": "Alcatraz night audio tour", "emoji": "🏝️", "detail": "The night tour includes parts of the prison not on the day tour — the audio guide features actual former prisoners and guards narrating their time there."},
@@ -531,7 +531,7 @@ SCENARIOS = [
     {
         "id": "venice_partner_3days",
         "context": "Three days in Venice with your partner before it sinks further. What's essential?",
-        "destination": "Venice", "companion": "partner", "duration": "3 days",
+        "destination": "Venice", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Rialto Market at 7am (locals only hour)", "emoji": "🐟", "detail": "The fish market and fruit stalls before the tourists wake — fishmongers who've been here since 4am selling things that were in the lagoon at midnight."},
             {"name": "Gondola ride at dusk", "emoji": "🛶", "detail": "€80 for 40 minutes and worth it once — the back canals at dusk are silent, and the gondoliers know routes through Venice that no map shows."},
@@ -548,7 +548,7 @@ SCENARIOS = [
     {
         "id": "dubrovnik_bestfriend_4days",
         "context": "Four days in Dubrovnik with your best friend. King's Landing or real life?",
-        "destination": "Dubrovnik", "companion": "best friend", "duration": "4 days",
+        "destination": "Dubrovnik", "companion": "best friend", "duration": "1 day",
         "options": [
             {"name": "City walls walk at sunrise", "emoji": "🌅", "detail": "2km of 14th-century walls surrounding the old city — at 8am you have it almost entirely to yourself and the orange rooftops below are spectacular."},
             {"name": "Game of Thrones filming spots tour", "emoji": "⚔️", "detail": "King's Landing was filmed almost entirely here — guided or self-guided, it's more interesting than it sounds because the sets are actual medieval buildings."},
@@ -565,7 +565,7 @@ SCENARIOS = [
     {
         "id": "hcmc_solo_week",
         "context": "A week alone in Ho Chi Minh City. War history, Mekong, and street food?",
-        "destination": "Ho Chi Minh City", "companion": "solo", "duration": "7 days",
+        "destination": "Ho Chi Minh City", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "War Remnants Museum", "emoji": "🕊️", "detail": "The most affecting war museum in the world — American tanks in the courtyard, Agent Orange photos inside, heavily biased and deeply necessary."},
             {"name": "Cu Chi Tunnels half-day trip", "emoji": "🕳️", "detail": "270km of tunnels dug by hand during the Vietnam War — you can crawl through a widened section, and the claustrophobia is instant."},
@@ -582,7 +582,7 @@ SCENARIOS = [
     {
         "id": "edinburgh_friends_3days",
         "context": "Three days in Edinburgh with friends. Whisky, history, and Arthur's Seat?",
-        "destination": "Edinburgh", "companion": "friends", "duration": "3 days",
+        "destination": "Edinburgh", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Edinburgh Castle morning", "emoji": "🏰", "detail": "The volcanic rock fortress with the Scottish Crown Jewels and the Stone of Destiny — arrive at opening and walk the One O'Clock Gun."},
             {"name": "Royal Mile afternoon wander", "emoji": "🚶", "detail": "The spine of the Old Town from the Castle to Holyrood — whisky shops, tartan, closes and wynds that shoot off at unexpected angles."},
@@ -599,7 +599,7 @@ SCENARIOS = [
     {
         "id": "mumbai_solo_week",
         "context": "Seven solo days in Mumbai. Film, food, and one of the world's biggest cities?",
-        "destination": "Mumbai", "companion": "solo", "duration": "7 days",
+        "destination": "Mumbai", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Gateway of India at dawn", "emoji": "🌅", "detail": "The Edwardian arch on Apollo Bunder at first light — before the tourist boats and the sellers of everything arrive."},
             {"name": "Dharavi guided walking tour", "emoji": "🏘️", "detail": "One of Asia's largest slums is also one of its most economically active — leather workshops, pottery kilns, and recycling at industrial scale."},
@@ -616,7 +616,7 @@ SCENARIOS = [
     {
         "id": "nairobi_family_5days",
         "context": "Five days in Nairobi with the family. Elephants, giraffes, and more?",
-        "destination": "Nairobi", "companion": "family", "duration": "5 days",
+        "destination": "Nairobi", "companion": "family", "duration": "1 day",
         "options": [
             {"name": "Giraffe Centre morning feeding", "emoji": "🦒", "detail": "You hand-feed Rothschild giraffes from a raised platform at eye level — they lick your palm with a foot-long purple tongue."},
             {"name": "David Sheldrick Elephant Orphanage", "emoji": "🐘", "detail": "Baby elephants rescued from the wild arrive muddy and exhausted — the daily mud bath and feeding visit is the most emotional hour in Nairobi."},
@@ -633,7 +633,7 @@ SCENARIOS = [
     {
         "id": "lima_solo_5days",
         "context": "Five solo days in Lima. Ceviche, cliffs, and pre-Columbian gold?",
-        "destination": "Lima", "companion": "solo", "duration": "5 days",
+        "destination": "Lima", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Miraflores clifftop sunset park", "emoji": "🌅", "detail": "Paragliders launch from the coastal cliffs as the Pacific turns orange below — watch from the Parque del Amor or fly yourself."},
             {"name": "Larco Museum (pre-Columbian gold and erotica)", "emoji": "🏺", "detail": "45,000 objects of gold and ceramic in an 18th-century viceregal mansion — the erotic pottery gallery in the basement is unexpected and enormous."},
@@ -650,7 +650,7 @@ SCENARIOS = [
     {
         "id": "porto_partner_3days",
         "context": "Three days in Porto with your partner. Port wine, bookshops, and azulejos?",
-        "destination": "Porto", "companion": "partner", "duration": "3 days",
+        "destination": "Porto", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Ribeira waterfront at golden hour", "emoji": "🌅", "detail": "The medieval waterfront with the Dom Luís bridge and the Douro turning gold — have a Sagres and watch the tour boats come back."},
             {"name": "Livraria Lello bookshop (buy your ticket)", "emoji": "📚", "detail": "The 1906 neo-Gothic bookshop that inspired Harry Potter's library — the spiral staircase is real, the entry fee is €5, redeemable against a book."},
@@ -667,7 +667,7 @@ SCENARIOS = [
     {
         "id": "tbilisi_friends_4days",
         "context": "Four days in Tbilisi with friends. Georgia's ancient capital — sulphur baths, wine, and feasting?",
-        "destination": "Tbilisi", "companion": "friends", "duration": "4 days",
+        "destination": "Tbilisi", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Old town Kala neighbourhood wander", "emoji": "🏘️", "detail": "Carved wooden balconies overhanging narrow streets, crumbling churches, and guesthouses that charge €20 a night — living history at street level."},
             {"name": "Narikala fortress sunset view", "emoji": "🌅", "detail": "The 4th-century fortress above the Mtkvari river — walk up through the sulphur bath district or take the cable car, same view either way."},
@@ -684,7 +684,7 @@ SCENARIOS = [
     {
         "id": "oaxaca_solo_5days",
         "context": "Five solo days in Oaxaca. Mezcal, mole, and Monte Albán?",
-        "destination": "Oaxaca", "companion": "solo", "duration": "5 days",
+        "destination": "Oaxaca", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Monte Albán ruins at opening time", "emoji": "🗿", "detail": "A Zapotec city on a flattened mountaintop, 2,500 years old — the ball court, the observatory, and the view in all directions."},
             {"name": "Mezcal distillery visit and tasting", "emoji": "🥃", "detail": "A palenque is a traditional mezcal distillery — smoke-roasted agave hearts, clay pots, and distillate that tastes of volcanic earth."},
@@ -700,8 +700,8 @@ SCENARIOS = [
     },
     {
         "id": "reykjavik_partner_4days",
-        "context": "Four days in Reykjavik with your partner. Northern lights, geysers, and hot pools?",
-        "destination": "Reykjavik", "companion": "partner", "duration": "4 days",
+        "context": "One day in Reykjavik with your partner. Northern lights, geysers, and hot pools?",
+        "destination": "Reykjavik", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Northern lights hunt (Nov–Mar)", "emoji": "🌌", "detail": "Drive 20 minutes from the city on a clear night — the app says KP3 or above, stand in a dark field, and the sky occasionally loses its mind."},
             {"name": "Blue Lagoon (pre-book — always)", "emoji": "💧", "detail": "Milky turquoise geothermal water in a lava field — it's a spa not a natural pool, costs a lot, and is genuinely one of the great bathing experiences."},
@@ -717,8 +717,8 @@ SCENARIOS = [
     },
     {
         "id": "chiangmai_solo_week",
-        "context": "A full week in Chiang Mai on your own. Temples, elephants, and mountains?",
-        "destination": "Chiang Mai", "companion": "solo", "duration": "7 days",
+        "context": "One day in Chiang Mai on your own. Temples, elephants, and mountains?",
+        "destination": "Chiang Mai", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Doi Suthep temple sunrise hike", "emoji": "⛩️", "detail": "300 steps up a naga staircase to a gold-spired temple with the whole of Chiang Mai below — arrive at dawn before the heat arrives."},
             {"name": "Night Bazaar evening", "emoji": "🌙", "detail": "Chang Klan Road fills every evening with silks, silver, and street food — the Kalare Night Bazaar has live music and the best mango sticky rice."},
@@ -734,8 +734,8 @@ SCENARIOS = [
     },
     {
         "id": "tallinn_friends_weekend",
-        "context": "Weekend in Tallinn with friends. Medieval old town, design, and a sauna?",
-        "destination": "Tallinn", "companion": "friends", "duration": "weekend",
+        "context": "One day in Tallinn with friends. Medieval old town, design, and a sauna?",
+        "destination": "Tallinn", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Old Town towers and hill walk", "emoji": "🏰", "detail": "The best-preserved medieval city in Northern Europe — climb the city wall towers and walk the alley between them for free."},
             {"name": "Telliskivi Creative City", "emoji": "🎨", "detail": "A repurposed railway complex with concept stores, independent restaurants, a Saturday market, and a flea market that opens at dawn."},
@@ -751,8 +751,8 @@ SCENARIOS = [
     },
     {
         "id": "kotor_partner_3days",
-        "context": "Three days in Kotor, Montenegro with your partner. Bay views, cats, and ancient walls?",
-        "destination": "Kotor", "companion": "partner", "duration": "3 days",
+        "context": "One day in Kotor, Montenegro with your partner. Bay views, cats, and ancient walls?",
+        "destination": "Kotor", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "City walls hike to St. John's Fortress", "emoji": "⛰️", "detail": "1,350 steps up 4.5km of medieval walls to the ruined fortress — the view of the bay from the top is the best reason to be in Montenegro."},
             {"name": "Perast village and Our Lady of the Rocks island", "emoji": "⛵", "detail": "A church on an artificial island built by sailors over centuries — they added a stone every time they returned safely from sea."},
@@ -768,8 +768,8 @@ SCENARIOS = [
     },
     {
         "id": "sarajevo_bestfriend_3days",
-        "context": "Three days in Sarajevo with your best friend. War, resilience, and incredible food?",
-        "destination": "Sarajevo", "companion": "best friend", "duration": "3 days",
+        "context": "One day in Sarajevo with your best friend. War, resilience, and incredible food?",
+        "destination": "Sarajevo", "companion": "best friend", "duration": "1 day",
         "options": [
             {"name": "Tunnel of Hope war history tour", "emoji": "🕊️", "detail": "The 800m tunnel built under the UN airport to break the 1425-day siege — the family whose house sits on top still runs the museum."},
             {"name": "Baščaršija old bazaar wander", "emoji": "🛍️", "detail": "The Ottoman bazaar from 1462 is still the city's commercial heart — coppersmiths, Turkish coffee, and Bosnian jewellery in shops unchanged for centuries."},
@@ -785,8 +785,8 @@ SCENARIOS = [
     },
     {
         "id": "medellin_solo_5days",
-        "context": "Five solo days in Medellín. Colombia's transformed city — cables, flowers, and coffee?",
-        "destination": "Medellín", "companion": "solo", "duration": "5 days",
+        "context": "One solo day in Medellín. Colombia's transformed city — cables, flowers, and coffee?",
+        "destination": "Medellín", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Cable car up to Comunas 1 and 2", "emoji": "🚡", "detail": "The urban cable cars that connected hilltop slums to the metro transformed the city — take them to the top and walk down through the neighbourhood."},
             {"name": "Parque Arví eco-park above the city", "emoji": "🌿", "detail": "Cable car beyond the comunas to a cloud forest reserve — hiking trails, bird watching, and a market selling local honey and aguardiente."},
@@ -802,8 +802,8 @@ SCENARIOS = [
     },
     {
         "id": "queenstown_friends_4days",
-        "context": "Four days in Queenstown with friends. Adrenaline capital of the world — what are you doing?",
-        "destination": "Queenstown", "companion": "friends", "duration": "4 days",
+        "context": "One day in Queenstown with friends. Adrenaline capital of the world — what are you doing?",
+        "destination": "Queenstown", "companion": "friends", "duration": "1 day",
         "options": [
             {"name": "Bungee jumping at AJ Hackett", "emoji": "🤸", "detail": "The original commercial bungee site from 1988 — 43 metres above the Kawarau River, and they photograph the moment of terror whether you want it or not."},
             {"name": "Milford Sound day trip", "emoji": "🏔️", "detail": "Four-hour drive through the Southern Alps to a fiord where waterfalls pour from cliffs 1,200 metres above the boat — genuinely overwhelming scenery."},
@@ -819,8 +819,8 @@ SCENARIOS = [
     },
     {
         "id": "fez_partner_3days",
-        "context": "Three days in Fez with your partner. The most labyrinthine medina in the world?",
-        "destination": "Fez", "companion": "partner", "duration": "3 days",
+        "context": "One day in Fez with your partner. The most labyrinthine medina in the world?",
+        "destination": "Fez", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Medina walk — get intentionally lost", "emoji": "🧭", "detail": "9,400 streets in the world's largest car-free urban space — hire a guide for the first half day, then get lost on purpose for the second."},
             {"name": "Chouara Tanneries leather viewing", "emoji": "🎨", "detail": "Hundreds of circular stone vats of dye seen from leather shop balconies — the smell of pigeon dung softener is extraordinary; accept the mint you're handed."},
@@ -836,8 +836,8 @@ SCENARIOS = [
     },
     {
         "id": "sansebastian_partner_3days",
-        "context": "Three days in San Sebastián with your partner. Best food city in Europe?",
-        "destination": "San Sebastián", "companion": "partner", "duration": "3 days",
+        "context": "One day in San Sebastián with your partner. Best food city in Europe?",
+        "destination": "San Sebastián", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "La Concha beach morning walk", "emoji": "🌊", "detail": "The perfect crescent beach in the heart of the city — morning swimmers, white sand, and the old town rising behind the promenade."},
             {"name": "Pintxos bar hop in Parte Vieja", "emoji": "🍢", "detail": "Move every 30 minutes, order two pintxos and a txakoli at each bar, don't sit down — this is how the Basques invented tapas and made them better."},
@@ -853,8 +853,8 @@ SCENARIOS = [
     },
     {
         "id": "cartagena_solo_5days",
-        "context": "Five solo days in Cartagena, Colombia. Walled city, islands, and street life?",
-        "destination": "Cartagena", "companion": "solo", "duration": "5 days",
+        "context": "One solo day in Cartagena, Colombia. Walled city, islands, and street life?",
+        "destination": "Cartagena", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Walled city sunset walk", "emoji": "🌅", "detail": "The 13km of 16th-century Spanish walls that once held off pirates — sunset drinks on the ramparts above the Caribbean are a Cartagena institution."},
             {"name": "Playa Blanca day trip by boat", "emoji": "🏖️", "detail": "45-minute boat to a white sand beach — arrive before the day-trippers at noon and swim in flat turquoise water before the vendors appear."},
@@ -870,8 +870,8 @@ SCENARIOS = [
     },
     {
         "id": "hanoi_solo_week",
-        "context": "A week alone in Hanoi. Old Quarter, bun cha, and beyond?",
-        "destination": "Hanoi", "companion": "solo", "duration": "7 days",
+        "context": "One day alone in Hanoi. Old Quarter, bun cha, and beyond?",
+        "destination": "Hanoi", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Hoan Kiem Lake morning tai chi watching", "emoji": "🌅", "detail": "The lake at 6am: dozens of groups practising tai chi, badminton, and aerobics — a quiet hour before the city roars back to life."},
             {"name": "Old Quarter 36-street walk", "emoji": "🚶", "detail": "Each street historically sold one product — Paper Street, Tin Street, Bamboo Street — the specialisations have blurred but the architecture hasn't."},
@@ -887,8 +887,8 @@ SCENARIOS = [
     },
     {
         "id": "thessaloniki_bestfriend_3days",
-        "context": "Three days in Thessaloniki with your best friend. Greece's underrated second city?",
-        "destination": "Thessaloniki", "companion": "best friend", "duration": "3 days",
+        "context": "One day in Thessaloniki with your best friend. Greece's underrated second city?",
+        "destination": "Thessaloniki", "companion": "best friend", "duration": "1 day",
         "options": [
             {"name": "Aristotelous Square morning walk", "emoji": "🌅", "detail": "The grand neo-Byzantine square opening onto the Thermaic Gulf — morning coffee here with the sea ahead is the correct way to begin a day in Thessaloniki."},
             {"name": "White Tower waterfront", "emoji": "🏛️", "detail": "The 15th-century Ottoman tower on the seafront promenade — once a prison, now a Byzantine history museum with a rooftop view across the gulf."},
@@ -904,8 +904,8 @@ SCENARIOS = [
     },
     {
         "id": "lagos_solo_4days",
-        "context": "Four solo days in Lagos, Nigeria. Africa's biggest city, biggest energy?",
-        "destination": "Lagos", "companion": "solo", "duration": "4 days",
+        "context": "One solo day in Lagos, Nigeria. Africa's biggest city, biggest energy?",
+        "destination": "Lagos", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Nike Art Gallery (largest in West Africa)", "emoji": "🎨", "detail": "Five floors of contemporary Nigerian art from 2,000 artists — Nike Davies-Okundaye built this herself, selling her work until she could afford to give it away."},
             {"name": "Lekki Conservation Centre canopy walk", "emoji": "🌿", "detail": "Nigeria's longest canopy walkway (401 metres) through mangrove forest in the middle of a rapidly developing city — the monkeys make it clear this is their space."},
@@ -938,8 +938,8 @@ SCENARIOS = [
     },
     {
         "id": "berlin_solo_week",
-        "context": "A full week alone in Berlin. History, culture, and some of the world's best nightlife?",
-        "destination": "Berlin", "companion": "solo", "duration": "7 days",
+        "context": "One day alone in Berlin. History, culture, and some of the world's best nightlife?",
+        "destination": "Berlin", "companion": "solo", "duration": "1 day",
         "options": [
             {"name": "Topography of Terror documentation centre", "emoji": "🕊️", "detail": "Built on the ruins of the SS and Gestapo headquarters — the outdoor photo chronology of Nazi crimes stands in the open air where it happened."},
             {"name": "Jewish Museum Berlin (Daniel Libeskind building)", "emoji": "✡️", "detail": "The architecture is the experience before you enter: voids, slanted floors, and a dark tower that lets you register the absence."},
@@ -955,8 +955,8 @@ SCENARIOS = [
     },
     {
         "id": "florence_partner_3days",
-        "context": "Three days in Florence with your partner. The world's greatest art city?",
-        "destination": "Florence", "companion": "partner", "duration": "3 days",
+        "context": "One day in Florence with your partner. The world's greatest art city?",
+        "destination": "Florence", "companion": "partner", "duration": "1 day",
         "options": [
             {"name": "Uffizi Gallery (book months ahead)", "emoji": "🎨", "detail": "Botticelli's Birth of Venus and Primavera in one room, Leonardo and Raphael in the next — the density of masterpieces is almost oppressive."},
             {"name": "David at Accademia (smaller queue)", "emoji": "🗿", "detail": "Michelangelo's David is 5.17 metres of carved marble — the unfinished Prisoners in the corridor leading to it are equally extraordinary."},

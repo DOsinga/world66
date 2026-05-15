@@ -1,0 +1,217 @@
+{% extends "guide/base.html" %}
+
+{% block title %}{{ passport.title }} — World66{% endblock %}
+
+{% block body_style %}
+<style>
+.passport-detail-hero {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 56px 32px 48px;
+  text-align: center;
+}
+.passport-detail-hero h1 {
+  font-family: var(--display-font);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 300;
+  margin-bottom: 8px;
+}
+.passport-detail-hero .meta { color: rgba(255,255,255,.5); font-size: .85rem; }
+.passport-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.passport-action-btn {
+  padding: 8px 20px;
+  border-radius: 6px;
+  font-size: .9rem;
+  font-weight: 500;
+  border: 1px solid rgba(255,255,255,.3);
+  color: rgba(255,255,255,.8);
+  background: transparent;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+.passport-action-btn:hover { background: rgba(255,255,255,.1); color: white; text-decoration: none; }
+.passport-action-btn.primary { background: var(--accent); border-color: var(--accent); color: white; }
+.passport-action-btn.primary:hover { background: var(--accent-ink); border-color: var(--accent-ink); }
+
+.passport-wrap { max-width: 860px; margin: 0 auto; padding: 48px 24px; }
+
+/* Photos */
+.section-title {
+  font-family: var(--display-font);
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 20px;
+  color: var(--ink);
+}
+.photo-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+  margin-bottom: 48px;
+}
+.photo-strip img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid var(--line-2);
+}
+
+/* Experiences */
+.experiences-section { margin-bottom: 48px; }
+.experience-card {
+  border: 1px solid var(--line-2);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 16px;
+  background: white;
+}
+.experience-card h3 {
+  font-family: var(--display-font);
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-bottom: 4px;
+}
+.experience-card p { color: var(--mute); }
+
+/* Scenarios */
+.scenarios-section { margin-bottom: 48px; }
+.scenario-result {
+  border: 1px solid var(--line-2);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 20px;
+  background: white;
+}
+.scenario-result .context {
+  font-size: .85rem;
+  color: var(--mute);
+  margin-bottom: 12px;
+}
+.scenario-result h3 {
+  font-family: var(--display-font);
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 12px;
+  color: var(--ink);
+}
+.yes-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.yes-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--paper-2);
+  border-radius: 20px;
+  padding: 5px 14px;
+  font-size: .9rem;
+}
+.yes-chip .chip-emoji { font-size: 1.1rem; }
+.empty-chip { color: var(--mute); font-size: .9rem; font-style: italic; }
+
+/* Incomplete state */
+.incomplete-banner {
+  background: var(--paper-2);
+  border: 1px solid var(--line-2);
+  border-radius: 12px;
+  padding: 28px;
+  text-align: center;
+  margin-bottom: 32px;
+}
+.incomplete-banner h3 { font-family: var(--display-font); font-size: 1.3rem; font-weight: 400; margin-bottom: 8px; }
+.incomplete-banner p { color: var(--mute); margin-bottom: 16px; }
+.continue-btn {
+  display: inline-block;
+  background: var(--accent);
+  color: white;
+  padding: 10px 24px;
+  border-radius: 7px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.continue-btn:hover { background: var(--accent-ink); color: white; text-decoration: none; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="passport-detail-hero">
+  <h1>{{ passport.title }}</h1>
+  <div class="meta">Created {{ passport.created_at|slice:":10" }}</div>
+  <div class="passport-actions">
+    {% if step < 3 %}
+      {% if step == 0 %}
+        <a href="/passport/{{ passport.slug }}/experiences/" class="passport-action-btn primary">Continue setup</a>
+      {% elif step == 1 %}
+        <a href="/passport/{{ passport.slug }}/photos/" class="passport-action-btn primary">Continue setup</a>
+      {% elif step == 2 %}
+        <a href="/passport/{{ passport.slug }}/scenarios/" class="passport-action-btn primary">Continue setup</a>
+      {% endif %}
+    {% else %}
+      <a href="/passport/{{ passport.slug }}/scenarios/" class="passport-action-btn">Redo scenarios</a>
+    {% endif %}
+    <a href="/passport/" class="passport-action-btn">All passports</a>
+  </div>
+</div>
+
+<div class="passport-wrap">
+  {% if step < 3 %}
+  <div class="incomplete-banner">
+    <h3>Almost there</h3>
+    <p>Your passport isn't complete yet. Finish the remaining steps to see the full picture.</p>
+    {% if step == 0 %}
+      <a href="/passport/{{ passport.slug }}/experiences/" class="continue-btn">Add your experiences &rarr;</a>
+    {% elif step == 1 %}
+      <a href="/passport/{{ passport.slug }}/photos/" class="continue-btn">Upload photos &rarr;</a>
+    {% elif step == 2 %}
+      <a href="/passport/{{ passport.slug }}/scenarios/" class="continue-btn">Pick your travel style &rarr;</a>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  {% if passport.photos %}
+  <div class="photo-strip">
+    {% for url in photo_urls %}
+      <img src="{{ url }}" alt="Travel photo {{ forloop.counter }}">
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if passport.experiences %}
+  <div class="experiences-section">
+    <h2 class="section-title">Top travel experiences</h2>
+    {% for exp in passport.experiences %}
+    <div class="experience-card">
+      <h3>{{ exp.title }}</h3>
+      {% if exp.description %}<p>{{ exp.description }}</p>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if scenario_data %}
+  <div class="scenarios-section">
+    <h2 class="section-title">Travel style</h2>
+    {% for item in scenario_data %}
+    <div class="scenario-result">
+      <div class="context">{{ item.scenario.destination }} · {{ item.scenario.companion }} · {{ item.scenario.duration }}</div>
+      <h3>{{ item.scenario.context }}</h3>
+      {% if item.selected %}
+        <div class="yes-chips">
+          {% for opt in item.selected %}
+          <span class="yes-chip"><span class="chip-emoji">{{ opt.emoji }}</span>{{ opt.name }}</span>
+          {% endfor %}
+        </div>
+      {% else %}
+        <span class="empty-chip">Nothing selected for this scenario</span>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

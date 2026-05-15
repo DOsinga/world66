@@ -1,0 +1,79 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Set your passphrase — {{ passport.title }}{% endblock %}
+
+{% block body_style %}
+<style>
+.auth-wrap { max-width: 500px; margin: 80px auto; padding: 0 24px; }
+.auth-card {
+  background: white;
+  border: 1px solid var(--line-2);
+  border-radius: 16px;
+  padding: 48px;
+}
+.auth-card h1 { font-family: var(--display-font); font-size: 2rem; font-weight: 300; margin-bottom: 8px; }
+.auth-card .subtitle { color: var(--mute); margin-bottom: 32px; }
+.auth-card .passport-name { font-weight: 600; color: var(--ink); }
+label { display: block; font-weight: 500; margin-bottom: 6px; font-size: .9rem; }
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 16px;
+  border: 1px solid var(--line-2);
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: var(--body-font);
+  background: var(--paper);
+}
+input:focus { outline: 2px solid var(--accent); border-color: transparent; }
+.submit-btn {
+  width: 100%;
+  padding: 14px;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 8px;
+}
+.submit-btn:hover { background: var(--accent-ink); }
+.field { margin-bottom: 20px; }
+.hint { font-size: .82rem; color: var(--mute); margin-top: 4px; }
+.error-msg { color: #c0392b; font-size: .9rem; margin-bottom: 16px; padding: 10px 14px; background: #fdf0ef; border-radius: 6px; }
+.phrase-tip {
+  background: var(--paper-2);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+  font-size: .9rem;
+  color: var(--mute);
+}
+.phrase-tip strong { color: var(--ink); }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="auth-wrap">
+  <div class="auth-card">
+    <h1>Choose a passphrase</h1>
+    <p class="subtitle">Protect <span class="passport-name">{{ passport.title }}</span> with a memorable sentence.</p>
+
+    <div class="phrase-tip">
+      <strong>Make it memorable.</strong> Your passphrase can be anything — a favourite travel quote, a place you love, a sentence only you'd think of. You'll need it to access this passport later.
+    </div>
+
+    {% if error %}<p class="error-msg">{{ error }}</p>{% endif %}
+
+    <form method="post">
+      {% csrf_token %}
+      <div class="field">
+        <label for="phrase">Your passphrase</label>
+        <input type="text" id="phrase" name="phrase" placeholder="e.g. I ate the best ceviche in Lima in 2019" autofocus autocomplete="off">
+        <p class="hint">Minimum 4 characters. Not stored anywhere readable — we only keep a hash.</p>
+      </div>
+      <button type="submit" class="submit-btn">Set passphrase &rarr;</button>
+    </form>
+  </div>
+</div>
+{% endblock %}

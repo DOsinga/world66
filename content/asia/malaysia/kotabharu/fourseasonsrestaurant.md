@@ -4,6 +4,7 @@ longitude: 102.245
 snippet: Chinese-Malaysian restaurant good for group dinners
 tags:
 - eating_out
+- restaurant
 title: Four Seasons Restaurant
 type: poi
 ---

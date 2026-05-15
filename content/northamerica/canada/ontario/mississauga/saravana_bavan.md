@@ -5,6 +5,7 @@ tags:
   - eating_out
   - restaurant
 address: "4559 Hurontario St, Mississauga, ON"
+neighbourhood: City Centre
 latitude: 43.6079
 longitude: -79.6499
 snippet: Reliable South Indian vegetarian chain restaurant

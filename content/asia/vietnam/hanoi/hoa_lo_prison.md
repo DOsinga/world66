@@ -2,9 +2,10 @@
 title: "Hoa Lo Prison"
 type: poi
 tags:
-  - things_to_do
-  - museum
-  - sight
+- things_to_do
+- museum
+- sight
+category: Museum
 latitude: 21.0264
 longitude: 105.8441
 snippet: "The 'Hanoi Hilton' — French colonial prison and later American POW camp"

@@ -2,8 +2,9 @@
 title: "Tran Quoc Pagoda"
 type: poi
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
+category: Temple
 latitude: 21.0472
 longitude: 105.835
 snippet: "Hanoi's oldest pagoda, on a West Lake peninsula since the 6th century"

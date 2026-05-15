@@ -4,6 +4,12 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 34.1572
 longitude: -118.162
+story: "Charles and Henry Greene supervised the Gamble House construction personally,
+  insisting on standards that frustrated contractors — hand-rubbed teak joinery, iridescent
+  art-glass panels custom-blown for each window, furniture built into the walls as
+  part of the architectural whole. The house was donated to USC and the City of Pasadena
+  in 1966 by Mary Gamble's granddaughter, on the condition that it remain open to the
+  public. The exterior appeared as Doc Brown's house in Back to the Future."
 snippet: Greene and Greene's 1908 masterpiece of American Craftsman design
 tags:
 - things_to_do

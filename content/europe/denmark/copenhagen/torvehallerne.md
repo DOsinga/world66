@@ -1,9 +1,14 @@
 ---
 title: Torvehallerne
 type: poi
-tags: [eating_out, market]
+tags:
+- things_to_do
+- market
+- eating_out
+category: Market
 latitude: 55.6832
 longitude: 12.5706
+snippet: Two glass-roofed market halls near the lakes with the best food stalls in Copenhagen.
 ---
 
 Torvehallerne is a covered market on Israels Plads, just south of Nørrebro, open since 2011. Two glass-and-steel halls house around 60 stalls selling fresh produce, cheese, charcuterie, fish, coffee, bread, wine, and prepared food. It is one of the best food markets in Scandinavia — genuinely good quality, with producers who know their products.

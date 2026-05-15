@@ -1,9 +1,14 @@
 ---
 title: Tivoli Gardens
 type: poi
-tags: [things_to_do, sight]
+tags:
+- things_to_do
+- sight
+- parks
+category: Garden
 latitude: 55.6736
 longitude: 12.5681
+snippet: The 1843 amusement park that inspired Walt Disney — gardens, roller coasters, and live music in the centre of the city.
 story: "Walt Disney visited Tivoli in 1951 and later said it partly inspired Disneyland, noting that it was clean, the staff were friendly, and the place had atmosphere. Tivoli was already 108 years old when he visited. The oldest ride, the wooden roller coaster from 1914, is still operating — one of the oldest in the world still in regular use."
 ---
 

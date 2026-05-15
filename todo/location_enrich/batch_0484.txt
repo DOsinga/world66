@@ -1,5 +1,0 @@
-europe/hungary/mor
-europe/azerbaijan/baku
-europe/netherlands/friesland/franeker
-northamerica/unitedstates/texas/buffalo_gap
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/wakefield

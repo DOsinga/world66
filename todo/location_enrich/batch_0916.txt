@@ -1,5 +1,0 @@
-europe/france/centre/loirevalley/laval
-europe/sweden/skara
-europe/germany/thuringia/greiz
-africa/mozambique/pemba
-asia/india/rajasthan/ajmer

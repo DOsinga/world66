@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
 latitude: 19.7957
+loc_type: city
 longitude: -70.688
+score: 0.57
 title: Puerto Plata City
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Puerto Plata city is a Victorian-era port town that most resort visitors skip entirely — which is exactly why it's worth a half-day. The centre has genuine character: gingerbread wooden houses, a handsome central park with a gazebo, and a Malecón seafront promenade lined with restaurants and cafes. It feels like a real Dominican town, not a curated tourist experience.

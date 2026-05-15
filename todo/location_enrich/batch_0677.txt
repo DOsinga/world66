@@ -1,5 +1,0 @@
-asia/india/karnataka/shimoga
-europe/portugal/algarve/vilareal
-europe/spain/andalucia/fuengirola
-europe/croatia/peljesac/drace
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor

@@ -2,10 +2,11 @@
 title: "Reunification Palace"
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - history
-  - landmark
+- things_to_do
+- sight
+- history
+- landmark
+category: Landmark
 latitude: 10.7769
 longitude: 106.6956
 snippet: "Frozen-in-time presidential palace where North Vietnamese tanks crashed through the gates on 30 April 1975"

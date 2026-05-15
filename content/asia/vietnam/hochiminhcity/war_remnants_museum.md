@@ -2,9 +2,10 @@
 title: "War Remnants Museum"
 type: poi
 tags:
-  - things_to_do
-  - museum
-  - history
+- things_to_do
+- museum
+- history
+category: Museum
 latitude: 10.7799
 longitude: 106.6924
 snippet: "Unflinching museum of the American War, with captured aircraft in the courtyard"

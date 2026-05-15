@@ -1,5 +1,0 @@
-africa/mauritania/koumbisaleh
-northamerica/netherlandsantilles/saba
-europe/portugal/porto
-northamerica/canada/saskatchewan/regina
-europe/spain/andalucia/almerimar

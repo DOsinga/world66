@@ -4,6 +4,7 @@
 
 {% block body_style %}
 <style>
+#content { display: none; }
 body { overflow-x: hidden; }
 .scenario-page { min-height: 100vh; display: flex; flex-direction: column; }
 
@@ -97,8 +98,7 @@ body { overflow-x: hidden; }
 }
 
 /* Back face */
-.back-emoji { font-size: 1.6rem; margin-bottom: 8px; }
-.back-name { font-family: var(--display-font); font-size: 1rem; font-weight: 500; color: var(--ink); margin-bottom: 8px; }
+.back-name { font-family: var(--display-font); font-size: 1.05rem; font-weight: 500; color: var(--ink); margin-bottom: 10px; }
 .back-detail { font-size: .9rem; color: var(--mute); line-height: 1.5; flex: 1; }
 .back-actions {
   display: flex; gap: 10px; align-self: stretch;
@@ -189,7 +189,6 @@ body { overflow-x: hidden; }
         <!-- Back -->
         <div class="card-face back" id="cardBack">
           <div>
-            <div class="back-emoji" id="backEmoji"></div>
             <div class="back-name"  id="backName"></div>
             <div class="back-detail" id="backDetail"></div>
           </div>
@@ -238,7 +237,6 @@ body { overflow-x: hidden; }
   var flipper      = document.getElementById('cardFlipper');
   var cardEmoji    = document.getElementById('cardEmoji');
   var cardName     = document.getElementById('cardName');
-  var backEmoji    = document.getElementById('backEmoji');
   var backName     = document.getElementById('backName');
   var backDetail   = document.getElementById('backDetail');
   var ctxDest      = document.getElementById('ctxDestination');
@@ -268,7 +266,6 @@ body { overflow-x: hidden; }
     ctxText.textContent  = s.context;
     cardEmoji.textContent = opt.emoji;
     cardName.textContent  = opt.name;
-    backEmoji.textContent = opt.emoji;
     backName.textContent  = opt.name;
     backDetail.textContent = opt.detail || '';
     flipper.style.transition = '';

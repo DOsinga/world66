@@ -4,6 +4,7 @@
 
 {% block body_style %}
 <style>
+#content { display: none; }
 .step-wrap { max-width: 680px; margin: 56px auto; padding: 0 24px; }
 .step-indicator { display: flex; gap: 8px; margin-bottom: 24px; }
 .step-dot { width: 32px; height: 4px; border-radius: 2px; background: var(--line-2); }
@@ -75,6 +76,7 @@ h1 { font-family: var(--display-font); font-size: 2.2rem; font-weight: 300; marg
   <div class="step-indicator">
     <div class="step-dot done"></div>
     <div class="step-dot active"></div>
+    <div class="step-dot"></div>
     <div class="step-dot"></div>
   </div>
   <h1>Your top travel photos</h1>

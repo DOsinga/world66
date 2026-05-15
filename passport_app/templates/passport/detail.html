@@ -8,6 +8,9 @@
    PASSPORT MOOD BOARD
    ================================================================ */
 
+/* Collapse the empty #content div that causes the gap */
+#content { display: none; }
+
 /* Break out of #page max-width so the passport fills the full viewport */
 .passport-page {
   background: #ede8df;
@@ -26,7 +29,19 @@
   justify-content: space-between;
   gap: 24px;
   flex-wrap: wrap;
+  position: relative;
+  overflow: hidden;
+  min-height: 280px;
 }
+.cover-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: brightness(.45) saturate(.8);
+  z-index: 0;
+}
+.cover-left, .cover-actions { position: relative; z-index: 1; }
 .cover-left {}
 .cover-eyebrow {
   font-size: .7rem;
@@ -165,17 +180,20 @@
   padding-left: 2px;
 }
 
-.experience-cards { display: flex; flex-direction: column; gap: 14px; }
+.experience-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; }
 
 .exp-card {
   background: #fefce8;
   border-top: 4px solid #f0c000;
-  padding: 20px 22px;
+  padding: 20px 18px 24px;
   box-shadow: 2px 3px 12px rgba(0,0,0,.1);
   position: relative;
+  aspect-ratio: 1;
+  display: flex;
+  flex-direction: column;
 }
-.exp-card:nth-child(2) { background: #eefaf5; border-top-color: #2ecc71; margin-left: 10px; transform: rotate(0.4deg); }
-.exp-card:nth-child(3) { background: #fef0e8; border-top-color: var(--accent); margin-left: -6px; transform: rotate(-0.5deg); }
+.exp-card:nth-child(2) { background: #eefaf5; border-top-color: #2ecc71; transform: rotate(0.6deg); }
+.exp-card:nth-child(3) { background: #fef0e8; border-top-color: var(--accent); transform: rotate(-0.5deg); }
 
 /* Tape strip */
 .exp-card::after {
@@ -189,12 +207,12 @@
 }
 .exp-card h3 {
   font-family: var(--display-font);
-  font-size: 1.05rem;
+  font-size: 1rem;
   font-weight: 500;
   margin-bottom: 6px;
   color: var(--ink);
 }
-.exp-card p { font-size: .88rem; color: var(--mute); line-height: 1.5; margin: 0; }
+.exp-card p { font-size: .82rem; color: var(--mute); line-height: 1.45; margin: 0; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; }
 
 /* ---- Scenario result cards ---- */
 .scenario-card {
@@ -237,6 +255,36 @@
 .chip .chip-e { font-size: 1rem; }
 .empty-note { font-size: .82rem; color: var(--mute); font-style: italic; }
 
+/* ---- Favourite places ---- */
+.places-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.place-card {
+  background: white;
+  border-radius: 10px;
+  padding: 16px 14px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.07);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.place-type {
+  font-size: .65rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+.place-icon { font-size: 1.3rem; line-height: 1; }
+.place-name {
+  font-family: var(--display-font);
+  font-size: .92rem;
+  font-weight: 400;
+  color: var(--ink);
+  line-height: 1.3;
+}
+.place-link { font-size: .78rem; color: var(--accent); text-decoration: none; }
+.place-link:hover { text-decoration: underline; }
+.place-nomatch { font-size: .75rem; color: var(--mute); font-style: italic; }
+
 /* ---- Incomplete banner ---- */
 .incomplete-banner {
   grid-column: 1 / -1;
@@ -269,8 +317,11 @@
 
   <!-- Cover -->
   <div class="passport-cover">
+    {% if summary and summary.cover_image_url %}
+    <div class="cover-bg" style="background-image: url('{{ summary.cover_image_url }}')"></div>
+    {% endif %}
     <div class="cover-left">
-      <div class="cover-eyebrow">Travel Passport</div>
+      <div class="cover-eyebrow">Travel Passport{% if summary and summary.cover_image_city %} &middot; {{ summary.cover_image_city }}{% endif %}</div>
       <h1 class="cover-title">{{ passport.title }}</h1>
       {% if summary %}
       <div class="cover-archetype">
@@ -279,10 +330,11 @@
       {% endif %}
     </div>
     <div class="cover-actions">
-      {% if step < 3 %}
+      {% if step < 4 %}
         {% if step == 0 %}<a href="/passport/{{ passport.slug }}/experiences" class="cover-btn primary">Continue setup</a>
         {% elif step == 1 %}<a href="/passport/{{ passport.slug }}/photos" class="cover-btn primary">Continue setup</a>
-        {% elif step == 2 %}<a href="/passport/{{ passport.slug }}/scenarios" class="cover-btn primary">Continue setup</a>
+        {% elif step == 2 %}<a href="/passport/{{ passport.slug }}/places" class="cover-btn primary">Continue setup</a>
+        {% elif step == 3 %}<a href="/passport/{{ passport.slug }}/scenarios" class="cover-btn primary">Continue setup</a>
         {% endif %}
       {% else %}
         <a href="/passport/{{ passport.slug }}/scenarios" class="cover-btn">Redo scenarios</a>
@@ -294,15 +346,17 @@
   <!-- Mood board -->
   <div class="moodboard">
 
-    {% if step < 3 %}
+    {% if step < 4 %}
     <div class="incomplete-banner">
       <p>
         {% if step == 0 %}Start by describing your top travel experiences.
         {% elif step == 1 %}Add a few travel photos to bring your passport to life.
-        {% else %}One more step — swipe through the travel style scenarios.{% endif %}
+        {% elif step == 2 %}Add your favourite bar, sight, and restaurant.
+        {% else %}One last step — swipe through the travel style scenarios.{% endif %}
       </p>
       {% if step == 0 %}<a href="/passport/{{ passport.slug }}/experiences" class="continue-btn">Add experiences &rarr;</a>
       {% elif step == 1 %}<a href="/passport/{{ passport.slug }}/photos" class="continue-btn">Upload photos &rarr;</a>
+      {% elif step == 2 %}<a href="/passport/{{ passport.slug }}/places" class="continue-btn">Add favourite places &rarr;</a>
       {% else %}<a href="/passport/{{ passport.slug }}/scenarios" class="continue-btn">Pick your travel style &rarr;</a>
       {% endif %}
     </div>
@@ -337,6 +391,26 @@
           <div class="exp-card">
             <h3>{{ exp.title }}</h3>
             {% if exp.description %}<p>{{ exp.description }}</p>{% endif %}
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      {% if places %}
+      <div>
+        <div class="section-label">Favourite places</div>
+        <div class="places-grid">
+          {% for p in places %}
+          <div class="place-card">
+            <div class="place-icon">{% if p.type == "bar" %}🍸{% elif p.type == "sight" %}🏛{% else %}🍽{% endif %}</div>
+            <div class="place-type">{{ p.type }}</div>
+            <div class="place-name">{{ p.query }}</div>
+            {% if p.match %}
+            <a href="{{ p.match.url }}" class="place-link">{{ p.match.title }} &rarr;</a>
+            {% else %}
+            <span class="place-nomatch">Not in our guide yet</span>
+            {% endif %}
           </div>
           {% endfor %}
         </div>

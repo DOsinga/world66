@@ -4,6 +4,7 @@
 
 {% block body_style %}
 <style>
+#content { display: none; }
 .step-wrap { max-width: 560px; margin: 56px auto; padding: 0 24px 80px; }
 .step-indicator { display: flex; gap: 8px; margin-bottom: 40px; }
 .step-dot { width: 32px; height: 4px; border-radius: 2px; background: var(--line-2); }
@@ -122,6 +123,7 @@ input:focus, textarea:focus { outline: 2px solid var(--accent); border-color: tr
 <div class="step-wrap">
   <div class="step-indicator">
     <div class="step-dot active"></div>
+    <div class="step-dot"></div>
     <div class="step-dot"></div>
     <div class="step-dot"></div>
   </div>

@@ -209,6 +209,37 @@ def passport_experiences(request, slug):
     return render(request, "passport/experiences.html", {"passport": passport, "error": error})
 
 
+def _fuzzy_match_place(query: str) -> dict | None:
+    """Find best World66 page for query using the FTS search index. Returns {title, url} or None."""
+    import sqlite3
+    q = query.strip()
+    if len(q) < 2:
+        return None
+    search_db = Path(settings.BASE_DIR) / "search.db"
+    if not search_db.is_file():
+        return None
+    try:
+        conn = sqlite3.connect(f"file:{search_db}?mode=ro", uri=True)
+        conn.row_factory = sqlite3.Row
+        words = q.split()
+        parts = ['"' + w.replace('"', '""') + '"' for w in words[:-1]]
+        parts.append('"' + words[-1].replace('"', '""') + '"*')
+        fts_query = " ".join(parts)
+        row = conn.execute(
+            """SELECT title, url_path FROM docs WHERE docs MATCH ?
+               ORDER BY CASE WHEN lower(title) = lower(?) THEN 0
+                              WHEN lower(title) LIKE (lower(?) || '%') THEN 1
+                              ELSE 2 END, rank LIMIT 1""",
+            (fts_query, q, q),
+        ).fetchone()
+        conn.close()
+        if row:
+            return {"title": row["title"], "url": "/" + row["url_path"]}
+    except Exception:
+        pass
+    return None
+
+
 def _save_image(upload, dest: Path) -> None:
     """Convert any uploaded image (including HEIC) to JPEG and save to dest."""
     import pillow_heif
@@ -254,12 +285,38 @@ def passport_photos(request, slug):
             passport["photos"] = saved[:3]
             passport["step"] = max(passport.get("step", 0), 2)
             _save_passport(passport)
-            return redirect(f"/passport/{slug}/scenarios")
+            return redirect(f"/passport/{slug}/places")
 
     return render(request, "passport/photos.html", {
         "passport": passport,
         "photo_urls": [f"/passport/{slug}/photo/{p}" for p in passport.get("photos", [])],
         "error": error,
+    })
+
+
+@_require_auth
+def passport_places(request, slug):
+    passport = _load_passport(slug)
+    if not passport:
+        raise Http404
+
+    if request.method == "POST":
+        place_types = ["bar", "sight", "restaurant"]
+        places = []
+        for t in place_types:
+            query = request.POST.get(f"place_{t}", "").strip()
+            if query:
+                match = _fuzzy_match_place(query)
+                places.append({"type": t, "query": query, "match": match})
+        passport["places"] = places
+        passport["step"] = max(passport.get("step", 0), 3)
+        _save_passport(passport)
+        return redirect(f"/passport/{slug}/scenarios")
+
+    existing = {p["type"]: p["query"] for p in passport.get("places", [])}
+    return render(request, "passport/places.html", {
+        "passport": passport,
+        "existing": existing,
     })
 
 
@@ -276,13 +333,13 @@ def passport_scenarios(request, slug):
         except (ValueError, TypeError):
             responses = {}
         passport["scenario_responses"] = responses
-        passport["step"] = max(passport.get("step", 0), 3)
+        passport["step"] = max(passport.get("step", 0), 4)
         _save_passport(passport)
         return redirect(f"/passport/{slug}")
 
     # Pick 5 random scenarios if not yet assigned
     if not passport.get("scenario_ids"):
-        chosen = pick_scenarios(5)
+        chosen = pick_scenarios(3)
         passport["scenario_ids"] = [s["id"] for s in chosen]
         _save_passport(passport)
 
@@ -366,6 +423,18 @@ def _traveler_summary(scenario_data: list) -> dict:
         "budget":    ("Resourceful Roamer",  "🎒"),
     }
 
+    # Archetype → (content image path, city name)
+    archetype_images = {
+        "culture":   ("europe/italy/tuscany/florence.jpg",       "Florence"),
+        "nightlife": ("europe/germany/berlin.jpg",               "Berlin"),
+        "food":      ("asia/japan/tokyo.jpg",                    "Tokyo"),
+        "adventure": ("africa/southafrica/capetown.jpg",         "Cape Town"),
+        "urban":     ("europe/unitedkingdom/england/london.jpg", "London"),
+        "nature":    ("europe/iceland/reykjavik.jpg",            "Reykjavik"),
+        "luxury":    ("europe/france/paris.jpg",                 "Paris"),
+        "budget":    ("asia/thailand/bangkok.jpg",               "Bangkok"),
+    }
+
     ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
     top = ranked[0] if ranked[0][1] > 0 else ("urban", 0)
     second = next((r for r in ranked[1:] if r[1] > 0 and r[0] != top[0]), None)
@@ -377,7 +446,13 @@ def _traveler_summary(scenario_data: list) -> dict:
     else:
         combo = f"{emoji} {label}"
 
-    return {"label": label, "emoji": emoji, "combo": combo, "scores": scores}
+    img_path, img_city = archetype_images.get(top[0], ("europe/france/paris.jpg", "Paris"))
+
+    return {
+        "label": label, "emoji": emoji, "combo": combo, "scores": scores,
+        "cover_image_url": f"/content-image/{img_path}",
+        "cover_image_city": img_city,
+    }
 
 
 @_require_auth
@@ -407,6 +482,7 @@ def passport_detail(request, slug):
         "scenario_data": scenario_data,
         "summary": summary,
         "step": passport.get("step", 0),
+        "places": passport.get("places", []),
     })
 
 

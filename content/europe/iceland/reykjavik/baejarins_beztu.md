@@ -5,8 +5,10 @@ latitude: 64.14805
 longitude: -21.93777
 address: Tryggvagata 1
 tags:
-  - eating_out
-  - restaurant
+- eating_out
+- restaurant
+- things_to_do
+category: Restaurant
 snippet: The famous hot-dog stand by the harbour, open since 1937
 story: "Bill Clinton bought a hot dog here in 2004 with only mustard, which the locals found so under-equipped that 'a Clinton' became Reykjavik shorthand for a plain pylsa for years afterward."
 ---

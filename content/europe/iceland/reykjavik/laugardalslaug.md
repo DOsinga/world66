@@ -5,8 +5,9 @@ latitude: 64.1416
 longitude: -21.8814
 address: Sundlaugarvegur 30
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
+category: Landmark
 snippet: Reykjavik's largest public thermal pool, with hot tubs, a slide and an Olympic-size outdoor lane pool
 story: "Visitors are required, by very firm and very explicit posters, to shower naked with soap before entering the pool. The rule is not optional and is enforced; not following it is the quickest way to identify yourself as a tourist."
 ---

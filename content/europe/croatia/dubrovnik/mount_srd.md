@@ -2,10 +2,12 @@
 title: "Mount Srđ"
 type: poi
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
+category: Landmark
 latitude: 42.6581
 longitude: 18.0987
+snippet: The limestone peak above Dubrovnik with a cable car, a war museum, and the best view of the old town and islands.
 story: >
   The fort on Mount Srđ was the last stronghold of the Croatian defenders during the 1991-92 siege of Dubrovnik,
   when Yugoslav and Montenegrin forces shelled the old town from the surrounding hills. The fort changed hands

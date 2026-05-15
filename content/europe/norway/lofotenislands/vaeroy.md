@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-14'
+image: vaeroy.jpg
+image_attribution: Kent Wang on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/27454212@N00/27519272353
 latitude: 67.6548
+loc_type: city
 longitude: 12.7262
+score: 0.67
 title: Værøy
 type: location
-score: 0.67
-loc_type: city
 ---
 
 Værøy is the southernmost inhabited island of Lofoten, a small, rugged place where fishing still runs everything and the mountains drop straight into the sea. About 700 people live here, most of them in the village of Sørland on the sheltered eastern side. The rest of the island — the wild southwestern face with its towering bird cliffs — belongs to the seabirds.

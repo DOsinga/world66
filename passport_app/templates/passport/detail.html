@@ -8,7 +8,13 @@
    PASSPORT MOOD BOARD
    ================================================================ */
 
-.passport-page { background: #ede8df; min-height: 100vh; }
+/* Break out of #page max-width so the passport fills the full viewport */
+.passport-page {
+  background: #ede8df;
+  min-height: 100vh;
+  margin: 0 calc(-50vw + 50%);
+  padding: 0;
+}
 
 /* ---- Cover header ---- */
 .passport-cover {
@@ -258,7 +264,7 @@
 </style>
 {% endblock %}
 
-{% block content %}
+{% block wide_content %}
 <div class="passport-page">
 
   <!-- Cover -->

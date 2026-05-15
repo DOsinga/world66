@@ -98,16 +98,16 @@ h1 { font-family: var(--display-font); font-size: 2.2rem; font-weight: 300; marg
           </div>
           <img id="preview-{{ num }}" style="display:none;width:100%;height:100%;object-fit:cover;" alt="">
         {% endif %}
-        <input type="file" name="photo_{{ num }}" accept="image/*" onchange="previewPhoto(this, {{ num }})">
+        <input type="file" name="photo_{{ num }}" accept="image/*,.heic,.heif" onchange="previewPhoto(this, {{ num }})">
       </div>
       {% endwith %}
       {% endfor %}
     </div>
 
-    <p class="hint">JPEG, PNG or WebP. Stored on the server — never shared publicly.</p>
+    <p class="hint">JPEG, PNG, WebP or HEIC. Stored on the server — never shared publicly.</p>
     <button type="submit" class="submit-btn">Next: pick your travel style &rarr;</button>
   </form>
-  <a href="/passport/{{ passport.slug }}/scenarios/" class="skip-link">Skip for now</a>
+  <a href="/passport/{{ passport.slug }}/scenarios" class="skip-link">Skip for now</a>
 </div>
 
 <script>

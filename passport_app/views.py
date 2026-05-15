@@ -12,10 +12,11 @@ from django.http import FileResponse, Http404, HttpResponse, JsonResponse
 from django.shortcuts import redirect, render
 
 from .scenarios import pick_scenarios
+from .wordlist import generate_passphrase
 
 PASSPORT_DIR = Path(settings.BASE_DIR) / "passports"
 PASSWORDS_FILE = PASSPORT_DIR / ".passwords.json"
-ALLOWED_IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".gif"}
+ALLOWED_IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".heic", ".heif"}
 
 
 # ---------------------------------------------------------------------------
@@ -66,7 +67,7 @@ def _require_auth(view_fn):
     def wrapper(request, slug, *args, **kwargs):
         passwords = _load_passwords()
         if slug not in passwords:
-            return redirect(f"/passport/{slug}/protect/")
+            return redirect(f"/passport/{slug}/protect")
         if not _passport_authenticated(request, slug):
             return redirect(f"/passport/{slug}/login/?next={request.path}")
         return view_fn(request, slug, *args, **kwargs)
@@ -128,29 +129,38 @@ def passport_new(request):
         title = request.POST.get("title", "").strip()
         data = _new_passport(title)
         _save_passport(data)
-        return redirect(f"/passport/{data['slug']}/protect/")
+        return redirect(f"/passport/{data['slug']}/protect")
     return render(request, "passport/new.html")
 
 
 def passport_protect(request, slug):
-    """Set the passphrase for a new passport (first-time signup)."""
+    """Generate and confirm a passphrase for a new passport."""
     if not _passport_path(slug).is_file():
         raise Http404
     passwords = _load_passwords()
     if slug in passwords:
-        return redirect(f"/passport/{slug}/login/")
-    error = None
+        return redirect(f"/passport/{slug}/login")
+
+    session_key = f"passport_phrase_{slug}"
+
     if request.method == "POST":
-        phrase = request.POST.get("phrase", "").strip()
-        if len(phrase) < 4:
-            error = "Your passphrase needs to be at least 4 characters."
-        else:
-            _save_password(slug, phrase)
-            _mark_authenticated(request, slug)
-            passport = _load_passport(slug)
-            return redirect(f"/passport/{slug}/experiences/")
+        phrase = request.session.get(session_key, "")
+        if not phrase:
+            # Session expired — regenerate
+            return redirect(f"/passport/{slug}/protect")
+        _save_password(slug, phrase)
+        del request.session[session_key]
+        _mark_authenticated(request, slug)
+        return redirect(f"/passport/{slug}/experiences")
+
+    # GET — generate a fresh phrase and store it in the session
+    phrase = generate_passphrase(4)
+    request.session[session_key] = phrase
     passport = _load_passport(slug)
-    return render(request, "passport/protect.html", {"passport": passport, "error": error})
+    return render(request, "passport/protect.html", {
+        "passport": passport,
+        "phrase": phrase,
+    })
 
 
 def passport_login(request, slug):
@@ -158,8 +168,8 @@ def passport_login(request, slug):
         raise Http404
     passwords = _load_passwords()
     if slug not in passwords:
-        return redirect(f"/passport/{slug}/protect/")
-    next_url = request.GET.get("next", f"/passport/{slug}/")
+        return redirect(f"/passport/{slug}/protect")
+    next_url = request.GET.get("next", f"/passport/{slug}")
     error = None
     if request.method == "POST":
         next_url = request.POST.get("next", next_url)
@@ -195,8 +205,19 @@ def passport_experiences(request, slug):
             passport["experiences"] = experiences
             passport["step"] = max(passport.get("step", 0), 1)
             _save_passport(passport)
-            return redirect(f"/passport/{slug}/photos/")
+            return redirect(f"/passport/{slug}/photos")
     return render(request, "passport/experiences.html", {"passport": passport, "error": error})
+
+
+def _save_image(upload, dest: Path) -> None:
+    """Convert any uploaded image (including HEIC) to JPEG and save to dest."""
+    import pillow_heif
+    import PIL.Image
+    pillow_heif.register_heif_opener()
+    img = PIL.Image.open(upload)
+    if img.mode not in ("RGB", "L"):
+        img = img.convert("RGB")
+    img.save(dest, "JPEG", quality=88, optimize=True)
 
 
 @_require_auth
@@ -218,11 +239,13 @@ def passport_photos(request, slug):
             if ext not in ALLOWED_IMAGE_EXTS:
                 error = f"Unsupported file type: {ext}"
                 break
-            filename = f"photo_{len(saved) + 1}{ext}"
+            filename = f"photo_{len(saved) + 1}.jpg"
             dest = photos_dir / filename
-            with open(dest, "wb") as out:
-                for chunk in f.chunks():
-                    out.write(chunk)
+            try:
+                _save_image(f, dest)
+            except Exception as exc:
+                error = f"Could not process image: {exc}"
+                break
             saved.append(filename)
             if len(saved) >= 3:
                 break
@@ -231,7 +254,7 @@ def passport_photos(request, slug):
             passport["photos"] = saved[:3]
             passport["step"] = max(passport.get("step", 0), 2)
             _save_passport(passport)
-            return redirect(f"/passport/{slug}/scenarios/")
+            return redirect(f"/passport/{slug}/scenarios")
 
     return render(request, "passport/photos.html", {
         "passport": passport,
@@ -255,7 +278,7 @@ def passport_scenarios(request, slug):
         passport["scenario_responses"] = responses
         passport["step"] = max(passport.get("step", 0), 3)
         _save_passport(passport)
-        return redirect(f"/passport/{slug}/")
+        return redirect(f"/passport/{slug}")
 
     # Pick 5 random scenarios if not yet assigned
     if not passport.get("scenario_ids"):
@@ -272,6 +295,89 @@ def passport_scenarios(request, slug):
         "scenarios_json": json.dumps(scenarios),
         "existing_responses": json.dumps(passport.get("scenario_responses", {})),
     })
+
+
+def _traveler_summary(scenario_data: list) -> dict:
+    """Score selected options across categories and return archetype label + emoji."""
+    scores = {
+        "culture":   0,
+        "nightlife": 0,
+        "food":      0,
+        "adventure": 0,
+        "urban":     0,
+        "nature":    0,
+        "luxury":    0,
+        "budget":    0,
+    }
+    culture_kw   = {"museum", "gallery", "gallery", "art", "cathedral", "palace", "monastery",
+                    "tomb", "ruins", "archaeological", "concert", "opera", "theatre", "exhibition",
+                    "library", "basilica", "chapel", "fortress", "castle"}
+    nightlife_kw = {"bar", "club", "cocktail", "beer", "pub", "wine", "gin", "sake", "mezcal",
+                    "speakeasy", "karaoke", "jazz", "music", "ruin bar", "nightlife", "late-night",
+                    "tasting", "brewery", "tavern"}
+    food_kw      = {"market", "food", "restaurant", "eat", "lunch", "breakfast", "dinner",
+                    "cooking", "street food", "bakery", "café", "cafe", "sushi", "ramen",
+                    "taco", "pizza", "gelato", "brunch", "bbq", "barbecue", "bun", "dumpling"}
+    adventure_kw = {"hike", "surf", "kayak", "climb", "trek", "bike", "cycling", "bungee",
+                    "skydiving", "rafting", "snorkel", "dive", "mountain", "volcano", "safari"}
+    urban_kw     = {"neighbourhood", "neighborhood", "street", "wander", "walk", "quarter",
+                    "district", "alley", "mural", "graffiti", "flea market", "vintage", "canal"}
+    nature_kw    = {"beach", "island", "park", "garden", "forest", "waterfall", "lake",
+                    "hot spring", "geyser", "glacier", "reef", "bay", "coast", "botanical"}
+    luxury_kw    = {"private", "michelin", "chef", "butler", "yacht", "helicopter", "villa",
+                    "splurge", "luxury", "first class", "vip", "exclusive"}
+    budget_kw    = {"free", "€20", "cheap", "picnic", "tip-based", "hostel", "no plan"}
+
+    def kw_match(text: str, kws: set) -> bool:
+        t = text.lower()
+        return any(k in t for k in kws)
+
+    sid_type = {
+        "luxury_splurge": "luxury", "private_tour": "luxury",
+        "beer_and_cocktails": "nightlife", "nightlife_types": "nightlife",
+        "food_extreme": "food", "shopping_styles": "urban",
+        "budget_day": "budget", "super_touristy": "urban",
+    }
+
+    for item in scenario_data:
+        sid = item["scenario"]["id"]
+        base = sid_type.get(sid)
+        for opt in item["selected"]:
+            name = opt["name"]
+            if base:
+                scores[base] += 2
+            if kw_match(name, culture_kw):   scores["culture"]   += 1
+            if kw_match(name, nightlife_kw): scores["nightlife"] += 1
+            if kw_match(name, food_kw):      scores["food"]      += 1
+            if kw_match(name, adventure_kw): scores["adventure"] += 1
+            if kw_match(name, urban_kw):     scores["urban"]     += 1
+            if kw_match(name, nature_kw):    scores["nature"]    += 1
+            if kw_match(name, luxury_kw):    scores["luxury"]    += 1
+            if kw_match(name, budget_kw):    scores["budget"]    += 1
+
+    labels = {
+        "culture":   ("Culture Vulture",    "🎨"),
+        "nightlife": ("Night Owl",           "🌙"),
+        "food":      ("Foodie",              "🍜"),
+        "adventure": ("Adventure Seeker",    "🧗"),
+        "urban":     ("Urban Explorer",      "🏙️"),
+        "nature":    ("Nature Lover",        "🌿"),
+        "luxury":    ("Luxury Traveller",    "💎"),
+        "budget":    ("Resourceful Roamer",  "🎒"),
+    }
+
+    ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+    top = ranked[0] if ranked[0][1] > 0 else ("urban", 0)
+    second = next((r for r in ranked[1:] if r[1] > 0 and r[0] != top[0]), None)
+
+    label, emoji = labels[top[0]]
+    if second:
+        label2, emoji2 = labels[second[0]]
+        combo = f"{emoji} {label} · {emoji2} {label2}"
+    else:
+        combo = f"{emoji} {label}"
+
+    return {"label": label, "emoji": emoji, "combo": combo, "scores": scores}
 
 
 @_require_auth
@@ -293,11 +399,13 @@ def passport_detail(request, slug):
         scenario_data.append({"scenario": s, "selected": selected})
 
     photo_urls = [f"/passport/{slug}/photo/{p}" for p in passport.get("photos", [])]
+    summary = _traveler_summary(scenario_data) if scenario_data else None
 
     return render(request, "passport/detail.html", {
         "passport": passport,
         "photo_urls": photo_urls,
         "scenario_data": scenario_data,
+        "summary": summary,
         "step": passport.get("step", 0),
     })
 

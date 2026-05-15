@@ -1,10 +1,10 @@
 {% extends "guide/base.html" %}
 
-{% block title %}Set your passphrase — {{ passport.title }}{% endblock %}
+{% block title %}Your passphrase — {{ passport.title }}{% endblock %}
 
 {% block body_style %}
 <style>
-.auth-wrap { max-width: 500px; margin: 80px auto; padding: 0 24px; }
+.auth-wrap { max-width: 520px; margin: 80px auto; padding: 0 24px; }
 .auth-card {
   background: white;
   border: 1px solid var(--line-2);
@@ -12,19 +12,62 @@
   padding: 48px;
 }
 .auth-card h1 { font-family: var(--display-font); font-size: 2rem; font-weight: 300; margin-bottom: 8px; }
-.auth-card .subtitle { color: var(--mute); margin-bottom: 32px; }
-.auth-card .passport-name { font-weight: 600; color: var(--ink); }
-label { display: block; font-weight: 500; margin-bottom: 6px; font-size: .9rem; }
-input[type=text], input[type=password] {
-  width: 100%;
-  padding: 12px 16px;
-  border: 1px solid var(--line-2);
-  border-radius: 8px;
-  font-size: 1rem;
-  font-family: var(--body-font);
-  background: var(--paper);
+.auth-card .subtitle { color: var(--mute); margin-bottom: 32px; font-size: 1rem; }
+.phrase-box {
+  background: var(--ink);
+  color: var(--paper);
+  border-radius: 12px;
+  padding: 28px 24px;
+  text-align: center;
+  margin-bottom: 20px;
+  position: relative;
 }
-input:focus { outline: 2px solid var(--accent); border-color: transparent; }
+.phrase-words {
+  font-family: var(--display-font);
+  font-size: 1.6rem;
+  font-weight: 300;
+  letter-spacing: .02em;
+  line-height: 1.4;
+  word-spacing: .15em;
+}
+.phrase-words span {
+  display: inline-block;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.copy-btn {
+  display: block;
+  margin: 12px auto 0;
+  background: transparent;
+  border: 1px solid rgba(255,255,255,.3);
+  color: rgba(255,255,255,.7);
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: .8rem;
+  cursor: pointer;
+  transition: background .15s;
+}
+.copy-btn:hover { background: rgba(255,255,255,.1); color: white; }
+.copy-btn.copied { color: #7ec8a0; border-color: #7ec8a0; }
+.warning-note {
+  background: #fef9ec;
+  border: 1px solid #f0d060;
+  border-radius: 8px;
+  padding: 14px 16px;
+  font-size: .88rem;
+  color: #7a6010;
+  margin-bottom: 28px;
+}
+.warning-note strong { color: #5a4508; }
+.confirm-check {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 24px;
+  cursor: pointer;
+}
+.confirm-check input[type=checkbox] { margin-top: 3px; width: 18px; height: 18px; flex-shrink: 0; accent-color: var(--accent); }
+.confirm-check label { font-size: .95rem; color: var(--ink); cursor: pointer; }
 .submit-btn {
   width: 100%;
   padding: 14px;
@@ -35,45 +78,61 @@ input:focus { outline: 2px solid var(--accent); border-color: transparent; }
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
-  margin-top: 8px;
+  opacity: .4;
+  transition: opacity .15s, background .15s;
 }
-.submit-btn:hover { background: var(--accent-ink); }
-.field { margin-bottom: 20px; }
-.hint { font-size: .82rem; color: var(--mute); margin-top: 4px; }
-.error-msg { color: #c0392b; font-size: .9rem; margin-bottom: 16px; padding: 10px 14px; background: #fdf0ef; border-radius: 6px; }
-.phrase-tip {
-  background: var(--paper-2);
-  border-radius: 8px;
-  padding: 16px;
-  margin-bottom: 24px;
-  font-size: .9rem;
-  color: var(--mute);
-}
-.phrase-tip strong { color: var(--ink); }
+.submit-btn:not(:disabled) { opacity: 1; }
+.submit-btn:not(:disabled):hover { background: var(--accent-ink); }
 </style>
 {% endblock %}
 
 {% block content %}
 <div class="auth-wrap">
   <div class="auth-card">
-    <h1>Choose a passphrase</h1>
-    <p class="subtitle">Protect <span class="passport-name">{{ passport.title }}</span> with a memorable sentence.</p>
+    <h1>Your passphrase</h1>
+    <p class="subtitle">This is your key to <strong>{{ passport.title }}</strong>. Write it down — you'll need it to open this passport later.</p>
 
-    <div class="phrase-tip">
-      <strong>Make it memorable.</strong> Your passphrase can be anything — a favourite travel quote, a place you love, a sentence only you'd think of. You'll need it to access this passport later.
+    <div class="phrase-box">
+      <div class="phrase-words" id="phraseWords">
+        {% for word in phrase.split %}
+          <span>{{ word }}</span>{% if not forloop.last %}&nbsp;{% endif %}
+        {% endfor %}
+      </div>
+      <button class="copy-btn" id="copyBtn" type="button" onclick="copyPhrase()">Copy to clipboard</button>
     </div>
 
-    {% if error %}<p class="error-msg">{{ error }}</p>{% endif %}
+    <div class="warning-note">
+      <strong>Save this now.</strong> We don't store it anywhere readable — only a one-way hash. If you lose it, your passport is locked forever.
+    </div>
 
     <form method="post">
       {% csrf_token %}
-      <div class="field">
-        <label for="phrase">Your passphrase</label>
-        <input type="text" id="phrase" name="phrase" placeholder="e.g. I ate the best ceviche in Lima in 2019" autofocus autocomplete="off">
-        <p class="hint">Minimum 4 characters. Not stored anywhere readable — we only keep a hash.</p>
+      <div class="confirm-check">
+        <input type="checkbox" id="confirmed" onchange="toggleSubmit(this)">
+        <label for="confirmed">I've written down my passphrase and I understand I can't recover it if I lose it.</label>
       </div>
-      <button type="submit" class="submit-btn">Set passphrase &rarr;</button>
+      <button type="submit" class="submit-btn" id="submitBtn" disabled>
+        I'm ready — open my passport &rarr;
+      </button>
     </form>
   </div>
 </div>
+
+<script>
+function toggleSubmit(cb) {
+  document.getElementById('submitBtn').disabled = !cb.checked;
+}
+function copyPhrase() {
+  var text = '{{ phrase }}';
+  navigator.clipboard.writeText(text).then(function() {
+    var btn = document.getElementById('copyBtn');
+    btn.textContent = 'Copied!';
+    btn.classList.add('copied');
+    setTimeout(function() {
+      btn.textContent = 'Copy to clipboard';
+      btn.classList.remove('copied');
+    }, 2000);
+  });
+}
+</script>
 {% endblock %}

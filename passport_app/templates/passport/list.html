@@ -79,7 +79,7 @@
   {% if passports %}
     <div class="passport-grid">
       {% for p in passports %}
-        <a href="/passport/{{ p.slug }}/" class="passport-card">
+        <a href="/passport/{{ p.slug }}" class="passport-card">
           <h2>{{ p.title }}</h2>
           <span class="meta">{{ p.created_at|slice:":10" }}</span>
           {% if p.step >= 3 %}
@@ -101,7 +101,7 @@
   {% endif %}
 
   <div style="text-align:center">
-    <a href="/passport/new/" class="new-passport-btn">+ Create a new passport</a>
+    <a href="/passport/new" class="new-passport-btn">+ Create a new passport</a>
   </div>
 </div>
 {% endblock %}

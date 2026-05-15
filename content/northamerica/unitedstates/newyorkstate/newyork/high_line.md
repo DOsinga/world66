@@ -1,12 +1,14 @@
 ---
-title: "The High Line"
+title: The High Line
 type: poi
 tags:
-  - things_to_do
-  - park
-  - sight
-latitude: 40.7480
+- things_to_do
+- park
+- sight
+category: Park
+latitude: 40.7479
 longitude: -74.0048
+snippet: A former elevated freight railway turned into a linear park with city views and art installations.
 story: >
   The High Line was a freight railway that ran along the west side of Manhattan from 1934
   to 1980, delivering meat and dairy to the meatpacking district warehouses without the

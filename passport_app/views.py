@@ -337,7 +337,14 @@ def passport_scenarios(request, slug):
         _save_passport(passport)
         return redirect(f"/passport/{slug}")
 
-    # Pick 5 random scenarios if not yet assigned
+    # Redo: discard existing scenarios and pick a fresh random set
+    if request.GET.get("redo"):
+        passport["scenario_ids"] = []
+        passport["scenario_responses"] = {}
+        _save_passport(passport)
+        return redirect(f"/passport/{slug}/scenarios")
+
+    # Pick 3 random scenarios if not yet assigned
     if not passport.get("scenario_ids"):
         chosen = pick_scenarios(3)
         passport["scenario_ids"] = [s["id"] for s in chosen]

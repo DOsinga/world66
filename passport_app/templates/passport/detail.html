@@ -337,7 +337,7 @@
         {% elif step == 3 %}<a href="/passport/{{ passport.slug }}/scenarios" class="cover-btn primary">Continue setup</a>
         {% endif %}
       {% else %}
-        <a href="/passport/{{ passport.slug }}/scenarios" class="cover-btn">Redo scenarios</a>
+        <a href="/passport/{{ passport.slug }}/scenarios?redo=1" class="cover-btn">New scenarios</a>
       {% endif %}
       <a href="/passport" class="cover-btn">All passports</a>
     </div>

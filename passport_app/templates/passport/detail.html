@@ -103,8 +103,8 @@
   margin: 0 auto;
   padding: 48px 32px 80px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 32px;
+  grid-template-columns: 5fr 7fr;
+  gap: 40px;
   align-items: start;
 }
 @media (max-width: 760px) {
@@ -113,33 +113,33 @@
 
 .moodboard-col { display: flex; flex-direction: column; gap: 28px; }
 
-/* ---- Polaroid photo cards ---- */
-.polaroids { display: flex; flex-direction: column; gap: 8px; }
+/* ---- Polaroid photo cards — scattered pile ---- */
+.polaroids { display: flex; flex-direction: column; gap: 0; }
 
 .polaroid {
   background: white;
-  padding: 10px 10px 30px;
+  padding: 8px 8px 22px;
   box-shadow: 0 4px 20px rgba(0,0,0,.15), 0 1px 4px rgba(0,0,0,.1);
   position: relative;
   display: block;
-  width: 100%;
+  width: 82%;
 }
-.polaroid:nth-child(1) { transform: rotate(-1.5deg); }
-.polaroid:nth-child(2) { transform: rotate(1.2deg); margin-left: 12px; }
-.polaroid:nth-child(3) { transform: rotate(-0.8deg); margin-left: -8px; }
+.polaroid:nth-child(1) { transform: rotate(-4deg); align-self: flex-start; margin-bottom: -18px; }
+.polaroid:nth-child(2) { transform: rotate(3.5deg); align-self: center; margin-bottom: -14px; z-index: 1; }
+.polaroid:nth-child(3) { transform: rotate(-2deg); align-self: flex-end; }
 
 /* Push pin */
 .polaroid::before {
   content: '';
   position: absolute;
-  top: -10px;
+  top: -8px;
   left: 50%;
   transform: translateX(-50%);
-  width: 18px;
-  height: 18px;
+  width: 14px;
+  height: 14px;
   border-radius: 50%;
   background: radial-gradient(circle at 35% 35%, #e8483a, #a01a0e);
-  box-shadow: 0 2px 6px rgba(0,0,0,.4);
+  box-shadow: 0 2px 5px rgba(0,0,0,.4);
   z-index: 2;
 }
 .polaroid img {
@@ -149,10 +149,10 @@
   display: block;
 }
 .polaroid-caption {
-  padding-top: 10px;
+  padding-top: 7px;
   text-align: center;
   font-family: 'Courier New', monospace;
-  font-size: .75rem;
+  font-size: .68rem;
   color: var(--mute);
   letter-spacing: .05em;
 }
@@ -362,7 +362,7 @@
     </div>
     {% endif %}
 
-    <!-- Left column: photos + experiences -->
+    <!-- Left column: photos only -->
     <div class="moodboard-col">
 
       {% if photo_urls %}
@@ -382,6 +382,11 @@
         No photos yet. <a href="/passport/{{ passport.slug }}/photos">Add some &rarr;</a>
       </div>
       {% endif %}
+
+    </div>
+
+    <!-- Right column: experiences + places + scenarios -->
+    <div class="moodboard-col">
 
       {% if passport.experiences %}
       <div>
@@ -417,17 +422,12 @@
       </div>
       {% endif %}
 
-    </div>
-
-    <!-- Right column: scenario results -->
-    <div class="moodboard-col">
-
       {% if scenario_data %}
       <div>
         <div class="section-label">Travel style</div>
         {% for item in scenario_data %}
         <div class="scenario-card" style="margin-bottom:16px">
-          <div class="scenario-ctx">{{ item.scenario.destination }} &middot; {{ item.scenario.companion }} &middot; {{ item.scenario.duration }}</div>
+          <div class="scenario-ctx">{{ item.scenario.destination }}</div>
           <div class="scenario-q">{{ item.scenario.context }}</div>
           {% if item.selected %}
           <div class="chip-row">

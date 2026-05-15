@@ -357,7 +357,7 @@ body { overflow-x: hidden; }
   function showIntro() {
     var s = SCENARIOS[scenarioIdx];
     document.getElementById('introEyebrow').textContent =
-      'Scenario ' + (scenarioIdx + 1) + ' of ' + SCENARIOS.length + ' — pick up to ' + MAX_PICKS;
+      'Scenario ' + (scenarioIdx + 1) + ' of ' + SCENARIOS.length + ' · pick up to ' + MAX_PICKS;
     document.getElementById('introDest').textContent = s.destination;
     document.getElementById('introCtx').textContent  = s.context;
     introEl.style.display  = 'flex';
@@ -432,6 +432,7 @@ body { overflow-x: hidden; }
   }
 
   function animateSwipe(dir, cb) {
+    flipper.classList.remove('card-rising');
     unflip();
     var tx  = dir > 0 ? '120%' : '-120%';
     var rot = dir > 0 ? '15deg' : '-15deg';
@@ -493,7 +494,7 @@ body { overflow-x: hidden; }
   // Drag to swipe (front face only)
   var dragStartX = null, dragX = 0;
 
-  function onDragStart(x) { dragStartX = x; dragX = 0; isDragging = false; }
+  function onDragStart(x) { flipper.classList.remove('card-rising'); dragStartX = x; dragX = 0; isDragging = false; }
   function onDragMove(x) {
     if (dragStartX === null || isFlipped) return;
     dragX = x - dragStartX;

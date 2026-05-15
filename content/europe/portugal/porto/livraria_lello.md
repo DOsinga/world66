@@ -1,9 +1,15 @@
 ---
 title: Livraria Lello
 type: poi
-tags: [things_to_do, sight, shopping, cedofeita]
+tags:
+- things_to_do
+- sight
+- shopping
+- cedofeita
+category: Landmark
 latitude: 41.14694444444444
 longitude: -8.614722222222222
+snippet: A 1906 neo-Gothic bookshop with a famous staircase — buy your ticket before you arrive.
 story: Livraria Lello opened in 1906 and has been cited as one of the world's most beautiful bookshops by everyone from the New York Times to countless Instagram posts. What most visitors overlook is that the shop was designed not by an architect but by Francisco Xavier Esteves, an engineer, whose neo-Gothic interior with its central double staircase and stained-glass skylight was innovative enough in its day to influence debates about the future of Portuguese decorative arts.
 ---
 

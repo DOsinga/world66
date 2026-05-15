@@ -1,9 +1,15 @@
 ---
 title: Igreja de São Francisco
 type: poi
-tags: [things_to_do, sight, museum, ribeira]
+tags:
+- things_to_do
+- sight
+- museum
+- ribeira
+category: Church
 latitude: 41.14139
 longitude: -8.61528
+snippet: Porto's most opulent church interior — an estimated 400kg of gold leaf covers every surface.
 story: São Francisco's Gothic exterior, begun in 1383, gives no warning of what is inside. The Baroque renovation of the 1690s added an estimated 400 kilograms of gilded wood to the interior — carved vine tendrils, cherubs, and foliage covering every surface from floor to vaulted ceiling. The effect is overwhelming, and the contrast with the austere Gothic bones beneath it is part of what makes the church so unsettling and magnificent.
 ---
 

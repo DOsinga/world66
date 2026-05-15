@@ -1,9 +1,16 @@
 ---
 title: Casa da Música
 type: poi
-tags: [things_to_do, sight, music, boavista]
+tags:
+- things_to_do
+- sight
+- music
+- nightlife
+- boavista
+category: Theatre
 latitude: 41.1593
 longitude: -8.6314
+snippet: Rem Koolhaas's concert hall — one of the great buildings of the 21st century, and the city's primary venue.
 story: Rem Koolhaas designed the Casa da Música as a single large hall wrapped in a protective shell, with the two walls of the main auditorium left transparent — genuine glass windows at either end, so that performers and audiences see daylight and the city rather than the conventional darkness of a concert hall. The building opened in 2005 and is now considered one of the most significant pieces of contemporary architecture in Portugal.
 ---
 

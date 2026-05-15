@@ -1,9 +1,16 @@
 ---
 title: Serralves Museum of Contemporary Art
 type: poi
-tags: [things_to_do, museum, art, boavista]
+tags:
+- things_to_do
+- museum
+- art
+- parks
+- boavista
+category: Museum
 latitude: 41.158
 longitude: -8.6526
+snippet: Porto's contemporary art museum inside a 1999 Álvaro Siza building, set in remarkable Art Deco gardens.
 story: The Serralves building was designed by Álvaro Siza Vieira, the Porto architect who won the Pritzker Prize in 1992 and is arguably the most important architect Portugal has produced. Siza grew up in Porto, and his influence on the city's built environment — from social housing in Bouça to this museum — forms a kind of parallel architectural history running alongside the azulejo and granite of the historic centre.
 ---
 

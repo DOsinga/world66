@@ -1,9 +1,15 @@
 ---
 title: Foz do Douro
 type: poi
-tags: [things_to_do, neighbourhood, beaches]
+tags:
+- things_to_do
+- neighbourhood
+- beaches
+- sight
+category: Landmark
 latitude: 41.1448
 longitude: -8.6728
+snippet: The mouth of the Douro river where it meets the Atlantic — a coastal neighbourhood for walking and swimming.
 story: The Foz neighbourhood occupies the mouth of the Douro where the river meets the Atlantic, and its character is shaped by that conjunction — the Douro has been an Atlantic trade route since the Romans, and the wealthy merchant families who controlled that trade built their villas here from the 18th century onward. The result is Porto's most elegant residential district, which also happens to have the nearest ocean beaches to the city centre.
 ---
 

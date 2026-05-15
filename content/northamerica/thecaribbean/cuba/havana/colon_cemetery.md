@@ -2,11 +2,13 @@
 title: Cementerio de Cristóbal Colón
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - vedado
+- things_to_do
+- sight
+- vedado
+category: Landmark
 latitude: 23.1300
 longitude: -82.3856
+snippet: One of the great neoclassical cemeteries of the Americas, with elaborate mausoleums dating to 1876.
 story: >
   The cemetery contains the tomb of Amelia Goyri, known as "La Milagrosa"
   (The Miraculous One) — a woman who died in childbirth in 1901 and was buried

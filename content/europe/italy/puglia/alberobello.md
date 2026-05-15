@@ -8,6 +8,10 @@ longitude: 17.237703
 score: 0.7
 title: Alberobello
 type: location
+image: alberobello.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alberobello,_Italy_01.jpg
+image_license: CC0
+image_attribution: Bernard Gagnon
 ---
 
 At first sight, you might think that you ended up in a fairytale and that within ample seconds, several dwarfs and elfs will come out of the white washed little houses with their cone-shaped roofs. When you come to think about it, you know that you’ve arrived in Alberobella.

@@ -1,5 +1,0 @@
-asia/india/punjab/chandigarh
-europe/czechrepublic/ostrava
-australiaandpacific/australia/westernaustralia/scarborough
-europe/norway/heddal
-northamerica/unitedstates/california/centralvalley/kernville

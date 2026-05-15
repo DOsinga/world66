@@ -1,13 +1,15 @@
 ---
-title: "Mercado de San Telmo"
+title: Mercado de San Telmo
 type: poi
 tags:
-  - things_to_do
-  - san_telmo
-  - market
-latitude: -34.6213
+- things_to_do
+- market
+- shopping
+category: Market
+latitude: -34.6211
 longitude: -58.3737
 address: Defensa 961, San Telmo
+snippet: A covered 1897 market in the oldest neighbourhood, open daily but best on Sundays.
 ---
 
 An 1897 iron-and-glass market hall occupying an entire city block in San Telmo, now one of the best food markets in Buenos Aires. The original structure — designed by Juan Antonio Buschiazzo, who also designed the Recoleta Cemetery gates — has been preserved: ornate cast-iron columns, glass roof panels, and tiled floors from the original construction.

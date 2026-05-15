@@ -1,5 +1,0 @@
-europe/poland/gniezno
-asia/india/rajasthan/jodhpur
-northamerica/belize/hopkins
-southamerica/brazil/imbituba
-northamerica/mexico/cuatla

@@ -1,14 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
 latitude: 11.532544
+loc_type: city
 longitude: -10.672727
+score: 0.26
 title: Dinguiraye
 type: location
-score: 0.26
-loc_type: city
 ---
 
-Dinguiraye is a remote town in central Guinea, known primarily for its historic mosque -- one of the most important Islamic sites in West Africa. The **Grande Mosquee de Dinguiraye** was founded in the 19th century by the Islamic leader El Hadj Umar Tall, who launched his jihad from here across much of the western Sahel. The mosque remains a place of pilgrimage and spiritual significance.
+Dinguiraye is a remote town in central Guinea, known primarily for its historic mosque -- one of the most important Islamic sites in West Africa. The [Grande Mosquée de Dinguiraye](/africa/guineeconakry/dinguiraye/grand_mosque) was founded in the 19th century by the Islamic leader El Hadj Umar Tall, who launched his jihad from here across much of the western Sahel. The mosque remains a place of pilgrimage and spiritual significance.
 
 The town sits in rolling savanna country between the Fouta Djallon highlands and the Malinke heartland around [Kankan](/africa/guineeconakry/kankan). It is not easy to reach -- the roads are rough and transport infrequent -- but for those interested in West African Islamic history, it is a meaningful detour.

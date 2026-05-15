@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/northcoast/fortuna
-europe/denmark/fredrikshavn
-europe/estonia/otep
-africa/tunisia/dougga
-northamerica/unitedstates/northcarolina/mooresville

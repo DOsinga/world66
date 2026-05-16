@@ -1,5 +1,0 @@
-southamerica/brazil/brotas
-northamerica/thecaribbean/puertorico/aguadilla
-europe/france/around_paris/versailles
-europe/italy/lazio/fiuggi
-northamerica/canada/newfoundland/cornerbrook

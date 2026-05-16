@@ -8,6 +8,7 @@ snippet: Taipei's oldest temple, alive with incense and chanting
 tags:
 - things_to_do
 - sight
+- wanhua
 title: Longshan Temple
 type: poi
 url: www.lungshan.org.tw

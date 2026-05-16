@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-14'
+image: monterosso.jpg
+image_attribution: Lee & Chantelle McArthur
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Monterosso_al_Mare-panorama-convento_dei_cappuccini2-flickr.jpg
 latitude: 44.1463
+loc_type: city
 longitude: 9.6558
+score: 0.82
 title: Monterosso al Mare
 type: location
-score: 0.82
-image: monterosso.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Monterosso_al_Mare-panorama-convento_dei_cappuccini2-flickr.jpg
-image_license: CC BY 2.0
-image_attribution: Lee & Chantelle McArthur
-loc_type: city
 ---
 
 Monterosso al Mare is the largest and most westerly of the five Cinque Terre villages, and the one most geared to visitors. Unlike its more vertical neighbours, it spreads out along a proper sandy beach — two beaches, in fact, separated by a rocky headland — which makes it a genuine resort as well as a historic fishing village. The old town, huddled behind the headland, has narrow caruggi lanes, a medieval tower, and a handful of good restaurants serving anchovies caught right off the coast.

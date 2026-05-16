@@ -1,7 +1,7 @@
 ---
 address: 7 Rue Jacques Coeur, Montpellier
-latitude: 43.661023
-longitude: 2.449146
+latitude: 43.6105
+longitude: 3.8743
 snippet: Archaeology and art from prehistory to the Middle Ages
 tags:
 - things_to_do

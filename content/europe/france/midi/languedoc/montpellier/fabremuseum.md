@@ -1,7 +1,8 @@
 ---
-latitude: 43.6114
-longitude: 3.8803
+latitude: 43.612
+longitude: 3.88
 snippet: "Major French art collection from Delacroix to Soulages"
+story: "François-Xavier Fabre, a Montpellier-born painter, made his fortune in Florence as the lover of Louise Stolberg, Countess of Albany and widow of Bonnie Prince Charlie. When she died she left him her art collection — Fabre brought the lot back to Montpellier and donated it to found the museum in 1825."
 tags:
 - things_to_do
 - museum

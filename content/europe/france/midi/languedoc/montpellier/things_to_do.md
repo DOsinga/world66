@@ -3,4 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-Start in the medieval Écusson — wander the pedestrian lanes between Place de la Comédie and the St-Pierre cathedral, then climb up to the Promenade du Peyrou for views of the aqueduct. The Musée Fabre is the cultural anchor, one of the finest regional art museums in France. For an afternoon outside the city, the arches of the Pont du Diable and the limestone canyons of the Hérault gorges are a short drive inland.
+Start at the **Place de la Comédie** — the city's oval main square — and walk west into the medieval **Écusson**. Climb up to the **Promenade du Peyrou** for the best views in town and the elegant Saint-Clément Aqueduct stretching west. Loop back through the cathedral and the ancient **Faculty of Medicine**, then visit the **Fabre Museum** on the Esplanade Charles-de-Gaulle.
+
+For something stranger, walk east through Polygone into Ricardo Bofill's monumental **Antigone** quarter. With more time, the **Anatomy Museum** inside the medical school and the eccentric **Villa des Cent Regards** on the city's edge will appeal to anyone with a taste for the unusual.

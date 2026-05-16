@@ -3,6 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-The stone-jumping ceremony at Bawomataluo is the most famous thing on Nias. The hilltop village itself is worth the climb regardless — the traditional omo sebua (chief's house) is one of the finest wooden structures in Indonesia. The interior also has ancient megalithic stone carvings and ancestor statues that predate Hinduism or Islam on the island.
-
-The surf at Lagundri and Sorake draws visitors from June through July. Outside that window the beach is peaceful and the waves are still good — just less consistent.
+Nias is two journeys in one: the megalithic villages and warrior culture of the southern hills, and the world-class surf breaks of Lagundri Bay. Most travellers come for one or the other; a week is enough to do both at a relaxed pace. The Museum Pusaka Nias in Gunungsitoli is the best place to start — it provides context for everything you will see in the villages.

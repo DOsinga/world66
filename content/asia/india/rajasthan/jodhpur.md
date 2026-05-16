@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-15'
   poi_cleanup: '2026-04-21'
+image: jodhpur.jpg
+image_attribution: Jakub Hałun
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20191210_Widok_z_dachu_w_D%C5%BAodhpurze_1556_8059.jpg
 latitude: 26.2389
+loc_type: city
 longitude: 73.0243
 score: 0.67
 title: Jodhpur
 type: location
-loc_type: city
 ---
 
 Jodhpur is dominated by the Mehrangarh Fort, one of the most impressive in India. Perched on a 125-metre cliff above the city, its massive walls seem to grow directly from the rock. The fort alone could fill a day, with its ornate palaces, an excellent museum, and sweeping views of the old city below -- a dense cluster of houses painted in shades of blue, originally a Brahmin tradition that the whole neighbourhood eventually adopted. Seen from the ramparts at sunset, it really does look like a sea of indigo.

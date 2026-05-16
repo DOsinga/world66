@@ -3,6 +3,9 @@ category: Neighbourhood
 latitude: 52.536
 longitude: 17.5959
 snippet: Quiet medieval market square with pastel townhouses and local cafes
+tags:
+- things_to_do
+- neighbourhood
 title: Stary Rynek
 type: poi
 ---

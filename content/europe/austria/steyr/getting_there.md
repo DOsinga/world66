@@ -3,22 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-by car:
+Steyr is connected by train and bus to Linz (about 45 minutes) and from there to the rest of the Austrian network. Direct trains run from St Valentin, on the main Vienna–Salzburg line, with regular onward connections to Vienna (about 2 hours) and Salzburg (about 2.5 hours).
 
- from Vienna: exit Haag
-
- from Salzburg: exit Sadtlett
-
- from Graz: via Pyhrnautobahn motorway - exit Spital/Pyhrn
-
-  by train:
-
- via Linz or St. Valentin
-
- via Selztal valley/Ennstal valley
-
- The Steyr railway station is located in Bahnhofstraße, A-4400 Steyr, Tel. 07252 1700
-
-  by airplane:
-
- Linz-Hörsching airport
+By car, the A1 motorway between Vienna and Salzburg connects via the exits at Haag (from the east) and Sattledt (from the west); from Graz, use the A9 Pyhrnautobahn with the exit at Spital am Pyhrn. The nearest airport is **Linz-Hörsching**, 30 km north, with regional and some European connections.

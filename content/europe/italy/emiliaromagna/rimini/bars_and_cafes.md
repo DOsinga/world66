@@ -1,6 +1,6 @@
 ---
-title: "Bars and Cafes"
+title: Bars and Cafes
 type: section
 ---
 
-Rimini's nightlife scene is large and genuinely impressive for a mid-size Italian city. The beach clubs transform into bars after sunset, and the strip along the seafront has some of the loudest nightclubs in Italy. For something more Italian, **Bar Caffè Cavour** on Piazza Cavour in the historic centre is a good spot for an aperitivo. **Cantina Aula Magna** near the university area is casual and cheap. The **Riccione** district, to the south, is where the flashier clubs tend to concentrate.
+Rimini's nightlife is genuinely impressive for a mid-size Italian city — the riviera invented the Italian discotheque in the 1970s and never quite let go. In summer the beachfront clubs run until dawn; in the old town, the action is quieter and more focused on aperitivo culture around Piazza Cavour and the Tiberius Bridge. The flashier clubs concentrate in neighbouring Riccione.

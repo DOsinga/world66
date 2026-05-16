@@ -1,5 +1,0 @@
-northamerica/unitedstates/northdakota/medora
-africa/burkinafaso/bobodioulasso
-asia/turkey/cappadocia/uchisar
-northamerica/unitedstates/newjersey/hoboken
-northamerica/unitedstates/oregon/newport

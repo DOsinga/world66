@@ -8,6 +8,9 @@ phone: +352-435922
 snippet: Long-running nightclub and weekend restaurant since 1984
 tags:
 - bars_and_cafes
+- clausen
+- bar
+neighbourhood: Clausen
 title: Melusina
 type: poi
 ---

@@ -6,7 +6,9 @@ longitude: 6.139425
 snippet: Fortress museum in Luxembourg's iconic Three Acorns tower
 tags:
 - things_to_do
+- kirchberg
 - historical_site
+neighbourhood: Kirchberg
 title: Fort Thungen
 type: poi
 ---

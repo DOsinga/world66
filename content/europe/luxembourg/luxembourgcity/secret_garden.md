@@ -8,6 +8,7 @@ phone: +352 22 17 38
 snippet: Stylish tucked-away lounge bar with cocktails and leather couches
 tags:
 - bars_and_cafes
+- bar
 title: Secret Garden
 type: poi
 ---

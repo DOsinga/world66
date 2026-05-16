@@ -1,12 +1,14 @@
 ---
-title: "When to Go in Sofia"
+title: "When to Go"
 type: section
 ---
 
-The **Sofia when to go **guide explicitly states that tourists love to flock to this Bulgarian capital throughout the year. With a relatively mild climate, Sofia is somewhat cooler than other European destinations. October is the best time to travel to Sofia, with at least 15 extremely warm days offering respite from the September chill. Trees turn golden during the gypsy summer, as this period is referred to by the locals, giving a majestic look everywhere.
+Sofia sits in a high basin at 550 metres, ringed by Vitosha and the Balkan mountains. Winters are cold and grey, summers warm and dry. Snow falls reliably from December through February — Sofia is the only European capital where you can ski from the city centre, taking the gondola up Vitosha.
 
-If you love snowfall, the winter season, comprising December, January and February, is the best time to travel to Sofia, when the temperatures fall below the freezing point. If you plan to come to this part of the world during this time, bring your woolen clothes along to keep warm and prevent yourself from Sofia&rsquo;s chilling cold.
+**Spring (April–June)** is the best season. Mild temperatures, blossoming chestnuts on Tsar Osvoboditel Boulevard, and the surrounding countryside green and pink with fruit trees. Rainfall peaks in May but rarely lasts.
 
-Sofia is known for its rainy season. It rains almost every month. Thus while planning a Sofia vacation, it is better to make adequate preparations to prevent yourself from being caught in sudden rain. April and May are the rainiest months. Plan a holiday during these months and find yourself enjoying every moment in the countryside.
+**Summer (July–August)** is hot, often above 30°C, and the city empties as Sofians head to the Black Sea coast. Restaurants put tables out on every pavement, the rakia gardens fill, and the upper slopes of Vitosha stay pleasantly cool.
 
-If you travel to Sofia in May, you will enjoy a pleasant vacation in the lap of nature, with flowers blooming all over. You will be witness to green Sofia during May, with nature at its best. It is the perfect time to appreciate the flora and fauna of Sofia and stroll in the natural surroundings, with the scintillating scent of blossoming flowers prevailing all over.
+**Autumn (September–October)** is the second-best season — long sunny days, golden plane trees, and the wine harvest. By November the fog and damp set in.
+
+**Winter (December–February)** brings dependable snow on Vitosha and good skiing within sight of the centre. Bring layers; the city has decent heating but the wind across the Largo cuts.

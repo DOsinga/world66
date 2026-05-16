@@ -7,6 +7,9 @@ latitude: 42.722
 longitude: -84.531
 phone: (517) 483-4222
 snippet: Small riverside zoo with snow leopards and red pandas
+tags:
+- things_to_do
+- sight
 title: Potter Park Zoo
 type: poi
 url: www.potterparkzoo.org

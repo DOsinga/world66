@@ -4,6 +4,7 @@ longitude: -84.476
 snippet: MSU's main performing arts venue for Broadway and concerts
 tags:
 - things_to_do
+- sight
 title: Wharton Center for Performing Arts
 type: poi
 ---

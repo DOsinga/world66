@@ -7,7 +7,7 @@ longitude: -84.5787
 phone: (517) 487-6087
 snippet: Long-running Lansing pizzeria with loyal local following
 tags:
-- things_to_do
+- eating_out
 - restaurant
 title: DeLuca's Restaurant
 type: poi

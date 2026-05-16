@@ -1,5 +1,0 @@
-northamerica/unitedstates/utah/green_river
-europe/bulgaria/sofia
-northamerica/unitedstates/michigan/lansing
-africa/guineeconakry/dinguiraye
-africa/ethiopia/diredawa

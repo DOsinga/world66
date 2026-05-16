@@ -1,12 +1,20 @@
 ---
-title: Alibaug
-type: location
+done:
+  location_enrich: '2026-05-15'
+image: alibaug.jpg
+image_attribution: Rishi Darak
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Alibaug_Beach.jpg
 latitude: 18.649843
+loc_type: city
 longitude: 72.876547
 score: 0.44
-loc_type: city
+title: Alibaug
+type: location
 ---
 
-Travel Guide
+Alibaug is a small coastal town on the Konkan coast of [Maharashtra](/asia/india/maharashtra), about 100 km south of [Mumbai](/asia/india/maharashtra/mumbai) and reachable in an hour by ferry across the harbour. It is the headquarters of Raigad district and has become Mumbai's favourite weekend beach escape — a stretch of palm-lined sand, a remarkable sea fort, and a string of villages with old Konkani houses and seafood shacks.
 
-Alibaug was developed in 17th Century by Sarkhel Kanhoji Aangre the naval chief of King Shivaji's Kingdom. Alibaug is a costal town and municipal council in Raigad district in Kokan region of Maharashtra, India. It is the headquarter of the Raigad district. Raigad's first name was "Kulaba". Today's Ramnath was the main village at that time. Bene Israelite Ali was a rich man in the city based on Ali's gardens was named as "Alibagh". Ali owned many plantations of mangoes, coconuts in his gardens. So the local people called the place Alichi bagh(Gardens of Ali).
+The town takes its name, according to local tradition, from a wealthy seventeenth-century Bene Israeli merchant called Ali, whose mango and coconut groves were known as "Ali's gardens" — Alichi Bagh in Marathi. The fortifications and naval heritage come from the same century: Sarkhel Kanhoji Angre, the naval commander of Shivaji's Maratha Empire, built the offshore [Kolaba Fort](/asia/india/maharashtra/alibaug/kolaba_fort) and operated his fleet from these waters, harrying European shipping for decades.
+
+The town itself is unremarkable, but the surrounding beaches and villages are pleasant in the cooler months. [Alibaug Beach](/asia/india/maharashtra/alibaug/alibaug_beach) is busy on weekends with Mumbai day trippers; the quieter beaches at [Kihim](/asia/india/maharashtra/alibaug/kihim_beach), [Akshi](/asia/india/maharashtra/alibaug/akshi_beach) and [Nagaon](/asia/india/maharashtra/alibaug/nagaon_beach) are better for a swim. The water is the muddy brown typical of the Konkan, not the clear blue of Goa, but it is warm and safe and the beaches are wide.

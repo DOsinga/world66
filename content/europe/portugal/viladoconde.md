@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
-  location_enrich: '2026-05-11'
+  location_enrich: '2026-05-16'
   poi_cleanup: '2026-04-21'
 image: viladoconde.jpg
 image_attribution: Joseolgon

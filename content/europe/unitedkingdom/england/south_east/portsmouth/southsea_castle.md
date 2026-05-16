@@ -4,7 +4,9 @@ longitude: -1.0889
 snippet: Henry VIII coastal fort where the Mary Rose sank
 tags:
 - things_to_do
-- landmark
+- sight
+- southsea
+neighbourhood: Southsea
 title: Southsea Castle
 type: poi
 ---

@@ -6,7 +6,7 @@ longitude: -1.1153
 snippet: Norman castle inside complete Roman fortress walls
 tags:
 - things_to_do
-- landmark
+- sight
 title: Portchester Castle
 type: poi
 ---

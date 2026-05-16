@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/broken_bow
-southamerica/argentina/cordoba
-europe/belgium/zottegem
-africa/cameroon/bamenda
-asia/india/uttaranchal/kedarnath

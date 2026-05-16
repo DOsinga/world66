@@ -5,7 +5,8 @@ latitude: 30.5448
 longitude: 114.2699
 snippet: Five hundred uniquely expressive Buddhist sculptures at Guiyuan Temple
 tags:
-- sights
+- things_to_do
+- sight
 title: Arhat Hall
 type: poi
 ---

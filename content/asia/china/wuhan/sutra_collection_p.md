@@ -3,7 +3,8 @@ latitude: 30.5478
 longitude: 114.2697
 snippet: "Qing-dynasty pavilion in Guiyuan Temple housing 7,000 Buddhist sutras and a white jade Buddha"
 tags:
-- sights
+- things_to_do
+- sight
 - temple
 title: Sutra Collection Pavilion
 type: poi

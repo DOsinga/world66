@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: portocristo.jpg
+image_attribution: Oserge
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Porto-Cristo.JPG
 latitude: 39.542325
+loc_type: city
 longitude: 3.334431
+score: 0.6
 title: Porto Cristo
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Set on a hillside overlooking a small natural harbour on [Mallorca's](/europe/spain/balearicislands/mallorca) east coast, Porto Cristo is a pretty resort with genuine old-world charm. The tree-lined esplanade along the waterfront is lined with bars and cafes, and a sandy beach sits at the head of the inlet.

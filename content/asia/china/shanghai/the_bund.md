@@ -9,6 +9,7 @@ story: The bronze lions guarding the old HSBC Building are replicas — the orig
   luck.
 tags:
 - things_to_do
+- neighbourhood
 title: The Bund
 type: poi
 ---

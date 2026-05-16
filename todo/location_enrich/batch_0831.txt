@@ -1,5 +1,0 @@
-northamerica/unitedstates/arkansas/hotsprings
-northamerica/unitedstates/california/paloalto
-northamerica/unitedstates/wyoming/casper
-europe/germany/rhinelandpalatinate/worms
-asia/turkey/olympos

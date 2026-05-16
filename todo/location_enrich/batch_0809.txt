@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/naples
-europe/netherlands/enkhuizen
-europe/france/nord/bercksurmer
-europe/unitedkingdom/england/newcastle_and_north_east/consett
-northamerica/canada/britishcolumbia/kelowna

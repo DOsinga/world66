@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: enkhuizen.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_0493_Drommedaris_-_Enkhuizen.jpg
 latitude: 52.75772
+loc_type: city
 longitude: 5.320694
+score: 0.53
 title: Enkhuizen
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Enkhuizen is a handsome old town on the Ijsselmeer (the former Zuiderzee), about an hour from Amsterdam by train via [Hoorn](/europe/netherlands/hoorn). Once one of the most powerful trading cities in the Dutch Golden Age — at its peak in the 17th century it was a major base for the VOC — it is now a quiet, well-preserved harbour town that rewards an easy day trip.

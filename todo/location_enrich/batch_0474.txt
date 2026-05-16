@@ -1,5 +1,0 @@
-asia/india/goa/candolim
-asia/india/karnataka/coorg
-europe/france/centre/loirevalley/labaule
-europe/spain/andalucia/jaen
-northamerica/unitedstates/maryland/cumberland

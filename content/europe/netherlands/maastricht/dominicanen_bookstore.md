@@ -1,8 +1,8 @@
 ---
 title: Boekhandel Dominicanen
 type: poi
-latitude: 51.6878
-longitude: 5.6878
+latitude: 50.8476
+longitude: 5.6884
 tags:
 - things_to_do
 - architecture

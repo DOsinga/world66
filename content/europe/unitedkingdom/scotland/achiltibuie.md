@@ -1,16 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
 latitude: 58.020077
+loc_type: city
 longitude: -5.343004
+score: 0.51
 title: Achiltibuie
 type: location
-score: 0.51
-loc_type: city
+image: achiltibuie.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2011_Schotland_Achiltibuie_2-06-2011_13-27-05.png
+image_license: CC BY-SA 3.0
+image_attribution: Paul Hermans
 ---
 
-Achiltibuie is a scattered village on the far northwest coast of Scotland, north of [Ullapool](/europe/unitedkingdom/scotland/ullapool), with glorious views across to the Summer Isles. The road out there is long and winding — it passes between Cul Beag and Stac Pollaidh, two of the most distinctive mountains in Assynt — and that remoteness is much of the point. The landowners along the route are not welcoming to swimmers in their lochs, so stick to the coast.
+Achiltibuie is a scattered village on the far northwest coast of Scotland, north of [Ullapool](/europe/unitedkingdom/scotland/ullapool), with glorious views across to the Summer Isles. The road out there is long and winding — it passes between Cul Beag and [Stac Pollaidh](/europe/unitedkingdom/scotland/achiltibuie/stac_pollaidh), two of the most distinctive mountains in Assynt — and that remoteness is much of the point. The landowners along the route are not welcoming to swimmers in their lochs, so stick to the coast.
 
-In summer, boat trips run out to the Summer Isles archipelago. Only one island is inhabited, but the wildlife — seabirds, seals, the occasional dolphin — makes the trip worthwhile.
+In summer, [boat trips](/europe/unitedkingdom/scotland/achiltibuie/summer_isles_boat_trips) run out to the Summer Isles archipelago. Only one island is inhabited — [Tanera Mòr](/europe/unitedkingdom/scotland/achiltibuie/tanera_mor) — but the wildlife — seabirds, seals, the occasional dolphin — makes the trip worthwhile.
 
 The alternative approach from [Lochinver](/europe/unitedkingdom/scotland/lochinver) to the north is arguably even more dramatic, with some of the finest coastal scenery in Scotland squeezed into a narrow, twisting single-track road.

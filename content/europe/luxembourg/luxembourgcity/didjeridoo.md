@@ -6,6 +6,9 @@ phone: +352-296778
 snippet: One of Luxembourg City's older clubs, open Wed/Fri/Sat
 tags:
 - bars_and_cafes
+- gare
+- bar
+neighbourhood: Hollerich
 title: Didjeridoo
 type: poi
 ---

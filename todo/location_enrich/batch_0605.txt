@@ -1,5 +1,0 @@
-africa/tunisia/mahdia
-europe/austria/salzburg
-asia/india/uttaranchal/dehradun
-asia/indonesia/java/karimunjawa
-southamerica/chile/puertomontt

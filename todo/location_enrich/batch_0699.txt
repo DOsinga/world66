@@ -1,5 +1,0 @@
-europe/germany/hessen/limburg
-northamerica/unitedstates/southdakota/deadwood
-europe/poland/brodnica
-europe/italy/sicily/pantelleria
-europe/spain/la_mancha/tarancon

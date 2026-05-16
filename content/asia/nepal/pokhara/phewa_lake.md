@@ -5,6 +5,9 @@ done:
 latitude: 28.215
 longitude: 83.955
 snippet: Nepal's second-largest lake reflecting the Annapurna range
+tags:
+  - things_to_do
+  - sight
 title: Phewa Lake
 type: poi
 ---

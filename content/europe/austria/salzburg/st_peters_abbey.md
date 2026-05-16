@@ -11,6 +11,7 @@ story: In the cliffs behind the cemetery are the catacombs — a series of chamb
 tags:
 - things_to_do
 - sight
+- altstadt
 title: St Peter's Abbey and Cemetery
 type: poi
 ---

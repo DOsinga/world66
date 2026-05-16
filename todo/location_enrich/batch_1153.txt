@@ -1,5 +1,0 @@
-northamerica/thecaribbean/dominica/portsmouth
-europe/italy/liguria/imperia
-europe/faroeislands/suuroy/tvroyri
-asia/indonesia/bali/songan
-southamerica/bolivia/lapaz

@@ -1,5 +1,0 @@
-northamerica/unitedstates/mississippi/southaven
-europe/netherlands/friesland/leeuwarden
-asia/northkorea/nanpo
-northamerica/mexico/magdalena_de_kino
-southamerica/bolivia/coroico

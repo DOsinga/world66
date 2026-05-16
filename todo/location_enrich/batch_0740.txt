@@ -1,5 +1,0 @@
-southamerica/brazil/mariana
-australiaandpacific/newzealand/north_island/hawkes_bay/hastings
-asia/india/westbengal/mandarmani/gadiara
-europe/belarus/vitebsk
-asia/taiwan/sunmoonlake

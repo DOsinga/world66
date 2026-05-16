@@ -1,5 +1,0 @@
-southamerica/chile/robinson_crusoe_island
-asia/india/orissa/rourkela
-northamerica/saintlucia/castries
-europe/sweden/the_high_coast/nordingr
-europe/unitedkingdom/england/lakedistrict/hawkshead

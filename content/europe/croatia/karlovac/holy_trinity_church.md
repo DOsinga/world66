@@ -2,7 +2,7 @@
 title: "Church of the Holy Trinity"
 type: poi
 snippet: "17th-century Baroque church on Karlovac's main square."
-tags: [things_to_do, history]
+tags: [things_to_do, sight, church]
 latitude: 45.4883
 longitude: 15.5484
 ---

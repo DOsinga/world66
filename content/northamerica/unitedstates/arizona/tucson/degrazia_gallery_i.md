@@ -1,26 +1,17 @@
 ---
-address: 6300 N. Swan Road
-latitude: 32.321906
-longitude: -110.891735
-phone: 520.299.9191
-tags:
-- sights
-title: Degrazia Gallery in the sun
+title: "DeGrazia Gallery in the Sun"
 type: poi
-url: degrazia.org
+latitude: 32.3219
+longitude: -110.8917
+address: "6300 N. Swan Road, Tucson, AZ 85718"
+phone: "520-299-9191"
+url: "degrazia.org"
+tags:
+  - things_to_do
+  - museum
+story: "Ted DeGrazia built the whole compound himself out of adobe, saguaro ribs and cement between 1951 and his death in 1982. Reportedly fed up with the Internal Revenue Service taxing his original paintings as appreciable property, he is said to have once gathered up a hundred of his canvases, packed them onto mules, ridden them into the Superstition Mountains, and burned them all on a pyre."
 ---
 
-This constantly rotating art space is used to showcase the work of the deceased artist Ted Degrazia. Degrazia is best known for his American impressionist style and images of native American children. The Degrazia Gallery in the Sun offers up a massive collection of Degrazia’s work which rotates throughout the year. The gallery puts on special events honoring the life and death of this great artist, including Degrazias: rodeo collection, desert ceramics and much much more. If you are an art buff or someone simply looking to learn about a famous Arizona based painter, than the Degrazia Gallery in the Sun is one of the best Tucson attractions for you.
+The DeGrazia Gallery in the Sun is a handmade adobe compound in the foothills of the Santa Catalina Mountains where the Arizona artist Ted DeGrazia lived, worked, and is buried. He was best known for his stylised paintings of Native American and Mexican children, reproduced on cards and posters worldwide.
 
-**Contributors**
-May 06, 2009
-
-type: Landmarks
-
-
-
-tel: 520.299.9191
-
-url: [degrazia.org](http://degrazia.org)
-
-address: 6300 N. Swan Road
+The site includes a small chapel he built himself, his studio, the open-air gardens, and a gallery of rotating exhibitions of his prints, paintings and ceramics. Free admission. About a fifteen-minute drive from downtown; combine with [Sabino Canyon](/northamerica/unitedstates/arizona/tucson/sabino_canyon) just up the road.

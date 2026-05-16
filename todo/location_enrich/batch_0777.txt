@@ -1,5 +1,0 @@
-asia/indonesia/sumatra/bukittinggi
-europe/greece/samos
-northamerica/unitedstates/arizona/scottsdale
-europe/italy/liguria/italianriviera/rivieradellepalme/magliolo
-northamerica/unitedstates/newyorkstate/tonawanda

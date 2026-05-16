@@ -1,5 +1,0 @@
-africa/eritrea/asmara
-northamerica/unitedstates/oklahoma/lawton
-europe/germany/badenwrttemberg/rottweil
-northamerica/unitedstates/california/sunnyvale
-europe/france/centre/auvergne/millau

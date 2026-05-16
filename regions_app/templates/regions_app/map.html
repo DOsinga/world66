@@ -1,0 +1,240 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}World Regions — World66{% endblock %}
+
+{% block body_style %}
+<style>
+  /* Override the guide's grid layout for #content / #page so we get a real
+     full-viewport map. The topnav stays on top; everything else fills the
+     space below it. */
+  body { overflow: hidden; }
+  #page, #content, main#main { all: revert; }
+  #footer { display: none; }
+
+  .regions-layout {
+    position: fixed;
+    top: 64px;  /* matches .topnav height (14px padding + ~36px content) */
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+  }
+
+  #regions-map {
+    flex: 1;
+    height: 100%;
+    background: #aad3df;
+  }
+
+  #regions-panel {
+    width: 380px;
+    height: 100%;
+    overflow-y: auto;
+    border-left: 1px solid #ddd;
+    background: #fff;
+    padding: 1.25rem 1.25rem 2rem;
+    font-family: Inter, system-ui, sans-serif;
+    box-sizing: border-box;
+  }
+
+  #regions-panel .placeholder {
+    color: #888;
+    font-style: italic;
+    margin-top: 2rem;
+  }
+
+  #regions-panel h2 {
+    font-family: Fraunces, Georgia, serif;
+    margin: 0.25rem 0 0.1rem;
+    font-size: 1.5rem;
+    line-height: 1.15;
+  }
+
+  #regions-panel .parent {
+    color: #888;
+    font-size: 0.85rem;
+    margin-bottom: 0.75rem;
+  }
+
+  #regions-panel .meta {
+    color: #555;
+    font-size: 0.85rem;
+    margin-bottom: 1rem;
+  }
+
+  .region-loc {
+    border-top: 1px solid #eee;
+    padding: 0.75rem 0;
+  }
+
+  .region-loc a {
+    display: block;
+    color: #1a1a1a;
+    text-decoration: none;
+  }
+
+  .region-loc a:hover .region-loc-title {
+    text-decoration: underline;
+  }
+
+  .region-loc-title {
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .region-loc-score {
+    color: #888;
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin-left: 0.4rem;
+  }
+
+  .region-loc-snippet {
+    color: #444;
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+
+  .leaflet-container {
+    font-family: Inter, system-ui, sans-serif;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="regions-layout">
+  <div id="regions-map"></div>
+  <aside id="regions-panel">
+    <p class="placeholder">Click a region on the map to see its top destinations.</p>
+  </aside>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
+<script>
+(async function() {
+  const panel = document.getElementById('regions-panel');
+  function fatal(msg) {
+    panel.innerHTML = '<p class="placeholder" style="color:#a33">'+msg+'</p>';
+    console.error(msg);
+  }
+  window.addEventListener('error', (e) => {
+    const detail = e.error && e.error.stack ? e.error.stack : e.message;
+    fatal('JS error: ' + detail);
+  });
+
+  const map = L.map('regions-map', {
+    worldCopyJump: true,
+    minZoom: 2,
+  }).setView([25, 10], 3);
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap &copy; CARTO',
+    subdomains: 'abcd',
+    maxZoom: 10,
+  }).addTo(map);
+
+  let geo, data;
+  try {
+    const [geoResp, dataResp] = await Promise.all([
+      fetch("{% static 'geo/regions.geo.json' %}"),
+      fetch("{% static 'geo/regions_data.json' %}"),
+    ]);
+    geo = await geoResp.json();
+    data = await dataResp.json();
+  } catch (e) {
+    fatal('Failed to load region data: ' + e.message);
+    return;
+  }
+  console.log('regions loaded:', geo.features.length, 'data entries:', Object.keys(data).length);
+
+  // Deterministic color per parent (sovereign / country).
+  function parentColor(parent) {
+    let h = 0;
+    for (let i = 0; i < parent.length; i++) h = (h * 31 + parent.charCodeAt(i)) >>> 0;
+    return `hsl(${h % 360}, 55%, 70%)`;
+  }
+
+  let selectedLayer = null;
+  const baseStyle = (feature) => ({
+    fillColor: parentColor(feature.properties.parent || feature.properties.name),
+    weight: 0.6,
+    color: '#444',
+    fillOpacity: 0.55,
+  });
+  const hoverStyle = { weight: 1.5, color: '#111', fillOpacity: 0.75 };
+  const selectedStyle = { weight: 2.5, color: '#000', fillOpacity: 0.85 };
+
+  function renderPanel(regionId) {
+    const info = data[regionId];
+    if (!info) {
+      panel.innerHTML = '<p class="placeholder">No data for this region.</p>';
+      return;
+    }
+    let html = `<h2>${escapeHtml(info.name)}</h2>`;
+    if (info.parent && info.parent !== info.name) {
+      html += `<div class="parent">${escapeHtml(info.parent)}</div>`;
+    }
+    html += `<div class="meta">${info.n_locs} scored ${info.n_locs === 1 ? 'destination' : 'destinations'} in this region</div>`;
+    if (info.top_locations.length === 0) {
+      html += '<p class="placeholder">No destinations indexed in this region yet.</p>';
+    } else {
+      for (const loc of info.top_locations) {
+        html += `
+          <div class="region-loc">
+            <a href="/${escapeAttr(loc.path)}">
+              <div class="region-loc-title">
+                ${escapeHtml(loc.title)}
+                <span class="region-loc-score">${loc.score.toFixed(2)}</span>
+              </div>
+              <div class="region-loc-snippet">${escapeHtml(loc.snippet || '')}</div>
+            </a>
+          </div>`;
+      }
+    }
+    panel.innerHTML = html;
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, (c) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    }[c]));
+  }
+  function escapeAttr(s) { return escapeHtml(s); }
+
+  let layer;
+  try {
+    layer = L.geoJSON(geo, {
+      style: baseStyle,
+    onEachFeature: (feature, lyr) => {
+      const id = feature.properties.id;
+      const name = feature.properties.name;
+      lyr.bindTooltip(name, { sticky: true, direction: 'top' });
+      lyr.on('mouseover', () => {
+        if (lyr !== selectedLayer) lyr.setStyle(hoverStyle);
+      });
+      lyr.on('mouseout', () => {
+        if (lyr !== selectedLayer) layer.resetStyle(lyr);
+      });
+      lyr.on('click', () => {
+        if (selectedLayer && selectedLayer !== lyr) {
+          layer.resetStyle(selectedLayer);
+        }
+        selectedLayer = lyr;
+        lyr.setStyle(selectedStyle);
+        renderPanel(id);
+        try {
+          map.fitBounds(lyr.getBounds(), { padding: [40, 40], maxZoom: 8 });
+        } catch (e) { /* tiny degenerate region */ }
+      });
+    },
+    }).addTo(map);
+  } catch (e) {
+    fatal('Failed to render regions layer: ' + e.message);
+    return;
+  }
+  console.log('layer added; sublayers:', layer.getLayers().length);
+})();
+</script>
+{% endblock %}

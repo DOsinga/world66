@@ -1,29 +1,16 @@
 ---
-address: 120 North Main Avenue Tucson, AZ 85701
-email: lrufe@tucsonarts.com
-latitude: 32.223448
-longitude: -110.975491
-opening_hours: 10a-4p M-Sa, noon-4p Su
-phone: +1 520 624 1817
-tags:
-- sights
-title: Edward Nye Fish House
+title: "Edward Nye Fish House"
 type: poi
+latitude: 32.2234
+longitude: -110.9755
+address: "120 North Main Avenue, Tucson, AZ 85701"
+phone: "(520) 624-2333"
+tags:
+  - things_to_do
+  - sight
+  - architecture
 ---
 
-The Edward Nye Fish House is a prime example of early 19th century Tucson architecture. The home is classically made of adobe (a mixture of mud and bricks) and functions as a museum during normal business hours. Adobe homes are traditional to the southwest and were developed for their cooling effect in this hot desert climate. Specifically, the Edward Nye Fish House houses the Tucson Museum of Art’s Western Art collection. The combination of the unique design of this home with the southwest art on the inside, makes this a must visit for art and culture fans alike. Tucson activities usually involve a direct encounter with an Adobe home!
+The Edward Nye Fish House is an 1868 Sonoran-style adobe a block north of the Tucson Museum of Art, with thick mud walls and a wide central hallway in the traditional zaguán style. Edward Fish was an early Tucson merchant and the house is one of the best-preserved examples of the city's pre-statehood architecture.
 
-**Contributors**
-May 07, 2009
-
-type: Landmarks
-
-
-
-tel: +1 520 624 1817
-
-openingHours: 10a-4p M-Sa, noon-4p Su
-
-address: 120 North Main Avenue Tucson, AZ 85701
-
-email: lrufe@tucsonarts.com
+It now functions as a small museum and event space within the Tucson Museum of Art's historic block, displaying nineteenth-century furniture and rotating exhibits on the Anglo and Mexican families that built early Tucson. Admission is included with the main museum ticket.

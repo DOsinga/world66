@@ -1,29 +1,15 @@
 ---
-accessibility: Kitt Peak is 56 miles southwest of Tucson via State Route 86 on the
-  Tohono O'Odham Reservation. Allow 90 minutes of drive time from Tucson. Take I-10
-  to I-19 South. Less than 1 mile is Ajo Way/Hwy 86 (Exit 99). Take this exit West
-  (right). Proceed past Ryan Airfield and Three Points. Continue until Junction 386
-  (Kitt Peak turnoff). Turn left onto 386. The Kitt Peak Visitor Center is located
-  at the summit (12 miles).
-opening_hours: vary
-phone: 318-8440.
-tags:
-- sights
-title: Kitt Peak National Optical Astronomy Observatory
+title: "Kitt Peak National Observatory"
 type: poi
-url: www.noao.edu
+latitude: 31.9583
+longitude: -111.5967
+url: "www.noao.edu"
+tags:
+  - things_to_do
+  - sight
+story: "Kitt Peak sits on the Tohono O'odham reservation; the tribe leased the site to the National Science Foundation in 1958. The name in the O'odham language is Iolkam Du'ag — 'manzanita mountain'. A 2022 wildfire destroyed several non-research buildings but spared all the major telescopes."
 ---
 
-The Kitt Peak National Optical Astronomy Observatory is located on the top of a gorgeous mountain and shares space with the National Solar Observatory. This area operates 3 unique nighttime telescopes that look out into deep space. As an added bonus, the Kitt Peak National Optical Astronomy Observatory offers up an Astronomy Camp for excited and young children, looking to get into the field. In addition, this observatory offers the world largest collection of optical telescopes. The observatory offers guided tours as well as nightly observing programs, which are sure to get the whole family involved. In addition, you can go online and check out a virtual tour of the grounds on their website.
+Kitt Peak is the largest collection of optical and radio telescopes in the world, 56 miles southwest of Tucson on the Tohono O'odham reservation. The drive up is dramatic in itself — winding switchbacks through saguaro forest, with the desert basin getting wider with every turn.
 
-type: Parks, Gardens and Zoos
-
-
-
-accessibility: Kitt Peak is 56 miles southwest of Tucson via State Route 86 on the Tohono O'Odham Reservation. Allow 90 minutes of drive time from Tucson. Take I-10 to I-19 South. Less than 1 mile is Ajo Way/Hwy 86 (Exit 99). Take this exit West (right). Proceed past Ryan Airfield and Three Points. Continue until Junction 386 (Kitt Peak turnoff). Turn left onto 386. The Kitt Peak Visitor Center is located at the summit (12 miles).
-
-tel: 318-8440.
-
-openingHours: vary
-
-url: [www.noao.edu](http://www.noao.edu/)
+The visitor centre offers daytime tours of three of the telescopes, including the giant Mayall four-metre. The real reason to come is the nightly observing programmes: meet at sunset, take a guided tour of the constellations on the summit, then spend a couple of hours looking through the smaller research telescopes at galaxies and nebulae. Book in advance; bring a warm jacket even in summer — the elevation is 2,100 metres and nights are cold.

@@ -1,29 +1,17 @@
 ---
-address: 201 S. Kinney Road
-latitude: 32.216
-longitude: -111.107
-opening_hours: vary
-phone: 520 883 0100
-tags:
-- sights
-title: Old Tucson Studios
+title: "Old Tucson"
 type: poi
-url: www.oldtucson.com
+latitude: 32.2160
+longitude: -111.1070
+address: "201 S. Kinney Road, Tucson, AZ 85735"
+phone: "(520) 883-0100"
+url: "www.oldtucson.com"
+tags:
+  - things_to_do
+  - sight
+story: "Old Tucson was built in 1939 as a movie set for the western film 'Arizona' and went on to host more than 400 features and series — Rio Bravo, El Dorado, McLintock!, Tombstone, Little House on the Prairie, the original Bonanza. A 1995 fire destroyed about 40% of the original sets; some of what stands today is reconstructed."
 ---
 
-Old Tucson Studios is a fantastic place to visit if you are interested in how old westerns were made. This small studio town was originally constructed in 1939 for the western titled appropriately, ‘Arizona’. In addition to the original film set, travelers can go on there newly built theme park and observe wild west shootouts that take place right on the grounds. In addition to these exciting attractions, tourists can also dine on the grounds and enjoy some authentic wild west cuisine. As far as Tucson attractions go, Old Tucson studios offers up so many different things to do and see that it should certainly be on your list of things to do in Arizona.
+Old Tucson, ten miles west of downtown next to Saguaro National Park, is a working Western film set and theme park rolled into one. Saloons, dust streets, gallows and church facades that have featured in more Western films and TV shows than any other studio in America. Cowboy gunfight reenactments run a few times a day, and you can ride a stagecoach or a vintage train around the grounds.
 
-**Contributors**
-May 06, 2009
-
-type: Parks, Gardens and Zoos
-
-
-
-tel: 520 883 0100
-
-openingHours: vary
-
-url: [www.oldtucson.com](http://www.oldtucson.com/)
-
-address: 201 S. Kinney Road
+It is a touristy, kitschy place and a long-standing Tucson institution — most enjoyable if you arrive with kids or genuinely care about old Westerns. Check opening hours and seasonal schedule in advance — the park closes during the hottest months.

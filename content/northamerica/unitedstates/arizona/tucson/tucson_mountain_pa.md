@@ -1,20 +1,14 @@
 ---
-latitude: 32.22701
-longitude: -111.084426
-phone: (520) 877-6000
-tags:
-- sights
-title: Tucson Mountain Park
+title: "Tucson Mountain Park"
 type: poi
+latitude: 32.2270
+longitude: -111.0844
+phone: "(520) 877-6000"
+tags:
+  - things_to_do
+  - sight
 ---
 
-The Tucson Mountain Park is the perfect place to get your family and friends outdoors and into the wild! Hiking in the Tucson Mountain Park is always a good option. In addition, adventurers can tour, hike, horseback ride, camp and even take advantage of the on site shooting range. The scenery is absolutely breathtaking in the area and offers up killer sunsets. Wonder through historical gates pass as well as the gorgeous saguaro forest. All of these things make the Tucson Mountain Park an ideal place to go and visit. As far as Tucson attractions are concerned, this ranks up with many of the other parks and areas that can be found throughout the greater Tucson area. Picknicking is something that all families enjoy and at the Tucson Mountain Park there are tables and places to stretch out at every turn.
+Tucson Mountain Park is the 20,000-acre county park that lies between the city and Saguaro National Park West, with hundreds of miles of hiking, mountain biking and equestrian trails through some of the densest saguaro forest in the state.
 
-**Contributors**
-May 06, 2009
-
-type: Parks, Gardens and Zoos
-
-
-
-tel: (520) 877-6000
+The Gates Pass overlook is the headline view — drive up to the saddle in the late afternoon and watch the sun drop into the desert with the saguaros silhouetted against orange. The David Yetman Trail and Brown Mountain make solid moderate hikes. Free entry; bring water.

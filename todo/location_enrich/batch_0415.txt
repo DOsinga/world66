@@ -1,5 +1,0 @@
-northamerica/canada/the_yukon_territory/carcross
-africa/tunisia/jerba
-europe/italy/marche/pesaro
-europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester
-europe/sweden/lund

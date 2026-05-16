@@ -6,6 +6,8 @@ longitude: 5.4583
 tags:
 - things_to_do
 - sight
+story: >
+  Daan Roosegaarde initially proposed the Van Gogh Path to the municipality of Nuenen, who rejected it as too expensive. He then approached the NEXT Architects foundation and a crowd-funding campaign raised 150,000 euros, enough to build the first section. The municipality eventually came around and the path opened in 2014. Roosegaarde went on to design a solar-powered glowing motorway in Oss using the same technology.
 ---
 
 A kilometre-long cycle path between Eindhoven and Nuenen that glows in the dark, its surface embedded with thousands of tiny light-collecting stones arranged in swirling patterns inspired by Van Gogh's *The Starry Night*. During the day it looks like an ordinary path; after dark, the stones release their stored light and the path becomes a luminous river of blue-green spirals.

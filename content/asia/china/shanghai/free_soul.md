@@ -8,8 +8,9 @@ neighbourhood: French Concession
 phone: +86-21-6282-1810
 snippet: Laid-back French Concession bar where customers control the music
 tags:
-- nightlife
+- bars_and_cafes
 - bar
+- french_concession
 title: Free Soul
 type: poi
 ---

@@ -9,7 +9,8 @@ neighbourhood: Pudong
 snippet: China's tallest building with a twisting glass facade and 118th-floor views
 tags:
 - things_to_do
-- landmark
+- architecture
+- pudong
 title: Shanghai Tower
 type: poi
 ---

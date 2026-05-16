@@ -6,6 +6,7 @@ latitude: 31.2127
 longitude: 121.4530
 tags:
   - things_to_do
+  - neighbourhood
 snippet: "Tree-lined Art Deco quarter with the best bars and cafes in Shanghai"
 ---
 

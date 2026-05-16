@@ -7,6 +7,8 @@ longitude: 74.3287
 snippet: Legendary fried fish stall with long queues
 tags:
 - eating_out
+- restaurant
+- seafood
 title: Basheer Dar-ul-Mahi
 type: poi
 ---

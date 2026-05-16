@@ -1,6 +1,10 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Set right in the heart of Uptown district in Cebu City, Mango Avenue, El Gecko Restobar. A popular haunt of expats and locals with great international food, the cheapest beer in town, 30 peso and fantastic people. Multi screen TVs playing music DVDs and very welcoming staff !!! Start here before hitting the clubs later in the evening. www.elgecko.info Check it Out !!!
+The old city holds the essential sights. **Magellan's Cross** and the **Basilica Minore del Santo Niño** — the oldest Christian shrine in the Philippines — stand side by side on Osmeña Boulevard and are always busy with pilgrims. **Fort San Pedro**, the oldest triangular bastion fort in the country, guards the waterfront a short walk south. **Colon Street**, reputedly the oldest street in the Philippines, runs through the gritty downtown core.
+
+On the hillside above the city, the **Cebu Taoist Temple** in Beverly Hills Subdivision is worth the journey for the views and the temple complex alone. The **Jumalon Butterfly Sanctuary** in Basak is a peaceful garden full of live butterflies, with mosaics made from butterfly wings on display inside.
+
+Day trips spread wide: Mactan Island (across the bridge) for the Lapu-Lapu Shrine and diving; Bohol for Chocolate Hills and tarsiers; and south down the coast for Kawasan Falls and whale shark watching at Oslob.

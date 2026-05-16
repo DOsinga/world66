@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: harrisburg.jpg
+image_attribution: w_lemay on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/59081381@N03/52430409908
 latitude: 40.266311
+loc_type: city
 longitude: -76.886112
+score: 0.37
 title: Harrisburg
 type: location
-score: 0.37
-loc_type: city
 ---
 
 Harrisburg is the capital of Pennsylvania, situated on the east bank of the Susquehanna River in the south-central part of the state. The grand State Capitol building, with its Renaissance-style dome modeled after St. Peter's Basilica in Rome, is the city's architectural centerpiece and worth a guided tour.

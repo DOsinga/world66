@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-16'
 image: soutomaior.jpg
 image_attribution: Xoan Anton
 image_license: CC BY-SA 2.0

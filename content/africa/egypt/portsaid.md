@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-04
-  location_enrich: '2026-05-11'
+  location_enrich: '2026-05-16'
 image: portsaid.jpg
 image_attribution: Vyacheslav Argenberg
 image_license: CC BY 4.0

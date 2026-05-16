@@ -6,7 +6,7 @@ longitude: 70.640111
 score: 0.23
 title: Dera Ghazi Khan
 type: location
-loc_type: region
+loc_type: city
 ---
 
 Travel Guide

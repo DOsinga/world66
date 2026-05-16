@@ -11,7 +11,7 @@ image: southampton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Leaving_Southampton_-_geograph.org.uk_-_7396174.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Bob Walters
-loc_type: region
+loc_type: city
 ---
 
 Southampton has been sending ships out into the world for centuries. The Mayflower departed from here in 1620. The Titanic left on its maiden voyage in April 1912. Today the city is still one of Europe's busiest cruise ports, and that maritime identity — part pride, part melancholy — runs through everything.

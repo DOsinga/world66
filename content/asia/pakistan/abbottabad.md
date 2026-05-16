@@ -6,7 +6,7 @@ longitude: 73.213275
 score: 0.35
 title: Abbottabad
 type: location
-loc_type: region
+loc_type: city
 ---
 
 Travel Guide

@@ -3,8 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-If shopping is your thing then the markets of Tana could be for you. They sell almost anything and cater for both tourists and locals alike. The cost of each item will vary depending on whether you are a local or a tourist, but bargaining is acceptable and can be an interesting experience in itself. From clothes to tacky souvenirs to all the fruit you can eat, you are sure to find something memorable to purchase in the markets.
+The [Analakely Market](/africa/madagascar/antananarivo/analakely_market) is the main shopping destination for both locals and visitors — a dense sprawl of covered stalls selling produce, textiles, household goods, and crafts. Tuesday and Friday are the biggest days. For more curated shopping, the Marché Artisanal de la Digue in Ivandry sells quality Malagasy crafts: embroidered tablecloths, zebu leather goods, raffia baskets, and semi-precious stones from the island's remarkable mineral reserves.
 
-  The once famous Zoma market no longer operates as it once did, but bustling markets can be found at the top of the Avenue of Independence and also past the railway station at the bottom of the Avenue of Independence.
-
-  The markets are fun, places to visit, but they can be crowded and care must be taken with any valuables that you may be carrying or wearing.
+Vanilla is the standout purchase: Madagascar produces more than 80 percent of the world's natural vanilla, and buying it here directly from traders — long, plump pods sold in bundles — is far better value than anything available abroad. Emeralds, garnets, and other gemstones are also widely available, but buying from reputable fixed-price shops rather than street vendors is strongly advisable.

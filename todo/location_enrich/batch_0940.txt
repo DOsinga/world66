@@ -1,5 +1,0 @@
-asia/bhutan/jakar
-africa/somalia/hobyo
-europe/spain/centralspain/valladolid
-northamerica/unitedstates/california/goldcountry/jackson
-europe/italy/friuliveneziagiulia/grado

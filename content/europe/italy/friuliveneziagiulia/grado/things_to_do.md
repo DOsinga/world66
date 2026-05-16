@@ -3,4 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-The two early Christian basilicas in the old town — Sant'Eufemia (sixth century) and Santa Maria delle Grazie (fifth century) — are the main historical draws, with fine mosaics. The old town itself is pleasant to wander, with its narrow calli and small squares. Boat trips through the lagoon visit the nature reserve and the small islands, some with traditional fishermen's huts (casoni). The beaches are broad and well-maintained, with shallow water ideal for families. In summer, Grado hosts music, literature, and film events, and in autumn the Boreto alla Graisana food festival celebrates the island's signature fish stew.
+Grado's appeal is divided between the old town — a small medieval-Byzantine maze on the western end of the island — and the long stretch of fine sand beach facing south to the Adriatic. The two early Christian basilicas and the lagoon behind the island are the main historical and natural attractions; everything else is incidental pleasure. Summer events bring music and food festivals, and the island stays animated well into the autumn.

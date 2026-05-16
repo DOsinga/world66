@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Patong's restaurant scene runs the full range from cheap street-food stalls along the sois to upscale beachfront dining. Thai food dominates, but you will find everything from Italian to Indian along Bangla Road and the streets behind it.
+Patong's eating ranges from beachside som tam stalls for under 100 baht to glittering hotel restaurants on the cliffs above the bay. The cheapest and often best Thai food is in the little sois behind Beach Road and along the Phuket Town side of the bypass; international and tourist-Thai mid-range places line Bangla Road and Rat-U-Thit. Seafood is fresh; bargain in baht and check the price-per-kilo before pointing at the fish.

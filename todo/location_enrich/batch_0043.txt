@@ -1,5 +1,0 @@
-northamerica/unitedstates/newmexico/aztec
-asia/india/jammuandkashmir/jammu
-europe/finland/tampere
-northamerica/unitedstates/oklahoma/pawnee
-asia/india/andhrapradesh/nellore

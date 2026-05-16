@@ -1,19 +1,12 @@
 ---
-title: "Shopping in Vienna"
+title: "Shopping"
 type: section
 ---
 
-Vienna beckons every visitor who has an orientation towards shopping, as **Vienna shopping** blends typical European offerings with the biggest global brands (and some unique, native merchandise). Vienna is among the most commonly-quoted cities when topmost European shopping destinations are discussed. Some of the more recommended Vienna Shopping options include:
+Vienna's main shopping arteries radiate from the Innere Stadt. The pedestrianised **Graben** and **Kohlmarkt** are the elegant heart — Knize, Rozet & Fischmeister, Demel, and the international flagship boutiques cluster here. **Kärntnerstrasse**, running south from Stephansplatz to the Staatsoper, is the busier mid-range counterpart with department stores and high-street chains.
 
-**Mariahilfer Strasse**
+For everyday shopping the city's main thoroughfare is **Mariahilferstrasse** (district 7), now largely pedestrianised, full of high-street brands and small designers. The smaller streets in the **Spittelberg** and **Neubau** quarters nearby are the place for independent shops and Austrian designer fashion.
 
-Mariahilfer Strasse is counted among Europe&rsquo;s most sought-after couture streets. Located in the central, commercial hub of the city, near Westbahnhof, the Mariahilfer Strasse is lined with shops selling every kind of luxury good. The range includes niche jewelery items, fashion accessories and exotic watch collections. Even the boutiques and department stores found here exude a certain degree of snobbish charm. The term &lsquo;one-stop shop&rsquo; is used rather casually, but Mariahilfer Strasse defines this term, presenting everything that Vienna has to offer within a short distance. In fact, this street is so engaging that window-shopping seems to have overtaken the actual retail business. Even the locals from Austria can be found ogling at the glitzy creations showcased in the premium shops found here.
+For markets, the **Naschmarkt** (food, with a Saturday flea market) and the **Karmelitermarkt** (food, less touristy) are both excellent. The famous Christmas markets — **Rathausplatz**, **Karlsplatz**, **Spittelberg**, **Schönbrunn** — run from mid-November through 23 December.
 
-**Furniture, Home-D&eacute;cor Shopping
-**
-
-Vienna&rsquo;s shops have their own style preferences, and they aren&rsquo;t always in coherence with the fashion trends being followed elsewhere. This is even reflected in the furniture and home-d&eacute;cor goods being sold here. The most noted shop selling antique furniture goods is the Imperial Court Furniture Depot. This shop showcases furniture items with Renaissance-era impressions. Another popular shop is the Interio. It offers slightly more contemporary designs, and the goods are also reasonably-priced. Apart from these two stores, there are plenty of galleries and shops selling antiques and home-decoration goods. Even the auction house of Dorotheum sets up weekly sales for some special pieces.
-
-**Night Markets**
-
-The mention of flea markets usually arouses images of congested, street-side markets. However, Vienna's take on the concept of flea market is very different. Held at the Naschmarkt, the market is organized as a night-market. The stalls and shops don&rsquo;t have the usual hurried look to them. The most popular offerings are the typical Viennese creations, like souvenirs dating
+Antiques and old prints are concentrated in the **Dorotheum** auction house (one of Europe's largest) and in the streets around the Spittelberg. The **Naschmarkt flea market** on Saturday mornings is the best place in town for cheap finds.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: bakersfield.jpg
+image_attribution: Bobak Ha'Eri
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2008-0621-Bakersfield-pan_(cropped).JPG
 latitude: 35.373871
+loc_type: city
 longitude: -119.019463
+score: 0.28
 title: Bakersfield
 type: location
-score: 0.28
-loc_type: city
 ---
 
 Bakersfield sits at the southern end of the San Joaquin Valley, surrounded by oil derricks and agricultural land. It is not a place most travelers seek out, but it has genuine character — particularly its Basque heritage and its outsized role in country music history.

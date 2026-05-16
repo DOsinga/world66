@@ -5,8 +5,8 @@ latitude: 30.547081
 longitude: 114.297047
 snippet: Ancient tower immortalized by Tang Dynasty poets
 tags:
-- sights
-- story
+- things_to_do
+- sight
 title: Yellow Crane Tower
 type: poi
 ---

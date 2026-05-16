@@ -1,5 +1,0 @@
-europe/portugal/setubal
-europe/france/alpes/alpdhuez
-europe/spain/basque_country_euskadi/vitoria
-southamerica/brazil/itaja
-northamerica/unitedstates/pennsylvania/gettysburg

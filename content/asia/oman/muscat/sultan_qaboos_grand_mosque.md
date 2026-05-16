@@ -2,6 +2,7 @@
 latitude: 23.584
 longitude: 58.389
 snippet: "Oman's grand mosque with the world's largest hand-woven carpet"
+story: "The Swarovski-crystal chandelier in the main prayer hall was the second-largest in the world when it was installed — 14 metres wide, 8 metres tall, and weighing approximately 8 tonnes, it was manufactured in Germany and took years to commission. The hand-woven Iranian carpet beneath it covers 4,343 square metres and was woven by 600 workers over four years; both records have since been surpassed elsewhere, but the combination in a single room remains extraordinary."
 tags:
 - things_to_do
 - landmark

@@ -1,5 +1,0 @@
-europe/georgia/zugdidi
-europe/hungary/kalocsa
-northamerica/unitedstates/california/orangecounty/anaheim
-europe/sweden/nora
-europe/sweden/gvle

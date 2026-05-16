@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-14'
 latitude: 42.118048
+loc_type: city
 longitude: 2.765361
+score: 0.54
 title: Banyoles
 type: location
-score: 0.54
-loc_type: city
+image: banyoles.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerea_estany_de_banyoles.png
+image_license: CC BY 2.5
+image_attribution: Unknown
 ---
 
 Banyoles is a small Catalan town best known for its lake — a large, spring-fed natural lake that hosted the rowing events of the 1992 Barcelona Olympics. The town sits on a wide plain midway between the Costa Brava and the Pyrenees, an hour's drive north of Barcelona.

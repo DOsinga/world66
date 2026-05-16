@@ -1,5 +1,0 @@
-europe/portugal/caminha
-asia/china/chengde
-northamerica/unitedstates/colorado/snowmass_village
-southamerica/ecuador/esmeraldas
-asia/philippines/kalinga

@@ -1,5 +1,0 @@
-asia/japan/kyushu/kitakyushu/kokura
-asia/india/maharashtra/raigad
-europe/iceland/isafjordur
-asia/southkorea/samcheunpo
-europe/denmark/odense

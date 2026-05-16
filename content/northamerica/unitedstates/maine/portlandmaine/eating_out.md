@@ -1,8 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-Portland's food scene is one of the best in New England for a city its size. The Old Port and surrounding streets are dense with restaurants covering everything from Japanese to Mexican to classic Maine seafood.
+Portland is one of the best food cities in the United States for its size — a fact that has been thoroughly noticed by national magazines, James Beard juries, and weekend visitors from Boston and New York. The strengths are local seafood (the lobster, oysters, and clams come in straight off the wharves a hundred metres away), serious farm-to-table cooking, and a craft beer culture as good as anywhere on the East Coast.
 
-Benkay Japanese Restaurant at 2 India Street does excellent sushi and tempura. Bangkok Thai at 671 Congress Street is a reliable choice for Thai. DiMillo's Floating Restaurant offers seafood with waterfront views -- call ahead, as waits are common. For something more upscale, 51 Wharf in the Old Port does a good seafood medley and lobster. Amigos at 9 Dana Street handles Mexican well, with good fajitas and a lively happy hour. Big Sky Bread Company at 28 Monument Square bakes everything from scratch with fresh-milled whole wheat flour.
+The Old Port has the highest concentration of well-known restaurants. The newer waterfront on Commercial Street and the gentrifying Munjoy Hill end of Congress Street are where the next wave is opening. Reservations are essential at the top tier in summer.

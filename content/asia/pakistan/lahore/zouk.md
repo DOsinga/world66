@@ -1,6 +1,5 @@
 ---
 address: MM Alam Road, Gulberg III, Lahore
-category: Restaurant
 done:
   poi_cleanup: '2026-04-20'
 latitude: 31.522609
@@ -8,7 +7,11 @@ longitude: 74.350038
 phone: 92-42-571-2731
 snippet: Buzzy MM Alam Road café blending food, cocktails, and world music
 tags:
-- restaurants
+- bars_and_cafes
+- eating_out
+- cafe
+- restaurant
+- gulberg
 title: Café Zouk
 type: poi
 ---

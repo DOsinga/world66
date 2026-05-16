@@ -5,6 +5,7 @@ longitude: 74.3303
 snippet: Beloved breakfast stall for chana with egg and kofta
 tags:
 - eating_out
+- restaurant
 title: Googay kay Chanay
 type: poi
 ---

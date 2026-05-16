@@ -1,14 +1,14 @@
 ---
-title: "Day Trips"
+title: Day Trips
 type: section
 ---
 
-**all**
+The most popular day trip is the **Wagah border ceremony** (covered separately on this site) — easy to arrange in the late afternoon.
 
-**Hiran Minar **
+**Hiran Minar** (Sheikhupura, 40 km north-west) is a 17th-century Mughal hunting complex built by Jahangir for his pet antelope Mansraj, who is buried beneath the octagonal minar. The surrounding tank and pavilion are pleasant and quiet.
 
-The Hirar Minar is a tower built by Emperor Jahangir (25 mi/40 km away)  
+**Sheikhupura Fort**, also Mughal, is in the same town and an easy combined visit.
 
-**Changa Manga **
+**Changa Manga**, 70 km south, is one of the oldest planted forests in South Asia, established by the British in 1866. The forest has small lakes, a narrow-gauge railway loop, and is a popular weekend escape from Lahore — quieter on weekdays.
 
-Some 70 km south of town, Changa Manga has tiny mosques. The drive there past fields of mustard is very colorful and provides an opportunity to see rural areas.
+**Harappa**, 250 km south-west, is the ancient Indus Valley site — feasible as a long day trip but better as an overnight from Multan.

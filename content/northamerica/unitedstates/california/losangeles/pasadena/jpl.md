@@ -2,6 +2,12 @@
 address: 4800 Oak Grove Dr, Pasadena, CA 91109
 latitude: 34.2013
 longitude: -118.1714
+story: "JPL was founded in 1936 when a group of Caltech students began experimenting
+  with rockets in the Arroyo Seco canyon — the university banned the experiments on
+  campus for safety reasons, hence the remote site. The name 'Jet Propulsion Laboratory'
+  is a historical quirk: JPL has never worked on jet engines, only rockets and spacecraft.
+  The lab is technically owned by NASA but managed by Caltech, an unusual arrangement
+  that gives it unusual freedom."
 snippet: NASA center for robotic solar system exploration
 tags:
 - things_to_do

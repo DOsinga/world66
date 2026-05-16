@@ -5,6 +5,11 @@ longitude: -118.1676
 tags:
 - things_to_do
 - landmark
+story: "The Rose Bowl has hosted more Super Bowls than any other stadium. It also hosted
+  the 1994 FIFA World Cup final — Brazil vs. Italy — in front of 94,194 people, still
+  the largest crowd ever to watch a World Cup final. The stadium was built in 1922,
+  but the Rose Bowl football game itself dates to 1902, making it the oldest post-season
+  college football game in America."
 snippet: "Historic Pasadena stadium hosting the Rose Bowl Game and giant flea market"
 title: Rose Bowl Stadium
 type: poi

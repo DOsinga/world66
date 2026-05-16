@@ -4,6 +4,7 @@ longitude: -118.149
 snippet: Walkable historic district with shops and restaurants
 tags:
 - things_to_do
+- neighbourhood
 title: Old Town Pasadena
 type: neighbourhood
 ---

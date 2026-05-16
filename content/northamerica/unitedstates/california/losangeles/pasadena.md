@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-14'
   poi_cleanup: '2026-04-19'
+image: pasadena.jpg
+image_attribution: The Langham Huntington Pasadena, Los Angeles
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Langham_los_angeles.jpg
 latitude: 34.1478
+loc_type: city
 longitude: -118.1445
 score: 0.46
 title: Pasadena
 type: location
-loc_type: city
 ---
 
 Pasadena is the cultured, leafy counterpart to the sprawl of greater Los Angeles. While the rest of LA chases the next big thing, Pasadena holds onto its Craftsman bungalows, its tree-lined boulevards, and its world-class institutions with quiet confidence. You probably know it from the Rose Bowl and the Tournament of Roses Parade, but there is far more here than New Year's Day football.

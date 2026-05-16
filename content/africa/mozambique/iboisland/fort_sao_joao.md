@@ -1,6 +1,6 @@
 ---
-latitude: -12.3441
-longitude: 40.5998
+latitude: -12.338611
+longitude: 40.581944
 snippet: Star-shaped Portuguese fort with sweeping channel views
 story: Fort São João was completed in 1791, making it one of the largest Portuguese
   fortifications on the East African coast. During the 19th century it served as a

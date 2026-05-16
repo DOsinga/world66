@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-13'
+image: missoula.jpg
+image_attribution: w_lemay
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Caras_Park,_Missoula,_MT.jpg
 latitude: 46.8701
+loc_type: city
 longitude: -113.9953
+score: 0.48
 title: Missoula
 type: location
-score: 0.48
-loc_type: city
 ---
 
 Missoula is western Montana's largest city and its cultural centre — a university town in a mountain valley where five rivers converge. The University of Montana gives the place an energy and a literary culture that you would not expect from a city of 75,000 people in the northern Rockies. Norman Maclean set *A River Runs Through It* here, and the town's connection to fly fishing, writing, and the outdoors runs deep.

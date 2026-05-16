@@ -1,5 +1,0 @@
-europe/hungary/mosonmagyarovar
-europe/luxembourg/luxembourgcity
-northamerica/costarica/golfito
-northamerica/unitedstates/michigan/frankenmuth
-europe/unitedkingdom/england/south_east/southampton/warsash

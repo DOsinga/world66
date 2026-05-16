@@ -1,18 +1,10 @@
 ---
-title: "Bars and Cafes in Medjugorje"
+title: Bars and Cafes
 type: section
 ---
 
-**Medjugorje Bars and Cafes** have enjoyed something of a slow renaissance in recent years, with a fair amount of variety, even if the venues tend to be rather quiet on the whole. Something to watch out for if you are traveling with kids or teenagers is that bars and restaurants will happily sell alcohol to people of all ages without asking for ID.
+Medjugorje is a pilgrimage town and the nightlife reflects that -- there are bars, but the village is quiet by eleven and properly asleep by midnight. Most pilgrims gather in the cafes around St. James' after the evening prayer service, drinking coffee and the local cherry brandy.
 
-**Globtour Inn**
+The square in front of the church has the largest cluster of cafes; almost all serve the standard Bosnian range of espresso, macchiato, and Turkish coffee, plus rakija and the local wines. Caffe Bar Galija, just off the square, is a long-running spot popular with both locals and pilgrims and stays open later than most. The bar at the Hotel Sunce, slightly out of the centre, has a quieter atmosphere if you want a glass of wine without the crowd.
 
-One of the city's most appealing and popular hotels, this is also a great place to unwind with a drink. The clientele and the staff are equally friendly and welcoming to strangers so you'll have no problems just turning up there. You'll find the Globtour Inn just a short walk from the famous landmark the Church of Our Lady in Bijakovici, 88266, Medjugorje.
-
-**La Casa**
-
-Located in the sports center circle at Herceg Etno Tromedja BB, 88266 Citluk, La Casa has to be one of the best Medjugorje bars and cafes offering an enormous selection of local Herzegovinan wines and gastronomic delicacies. The food menu is a la carte.
-
-**Colombo's Restaurant and Bar**
-
-Travelers have reported that Colombo's restaurant and bar near the Church of Our Lady and Coco's is a great hangout. Its atmosphere is amiable and welcoming and the interior well presented. All the ingredients of the food are fresh and sourced locally. The menu includes such local and international dishes as fish, steak, veal and special children's options. The prices are extremely competitive, with a three course meal costing less than $10.
+A note: bars in Medjugorje will sell alcohol to anyone -- enforcement of age limits is essentially non-existent. If you are travelling with teenagers, this is worth knowing.

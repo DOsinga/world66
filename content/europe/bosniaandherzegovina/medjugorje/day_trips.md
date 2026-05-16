@@ -1,18 +1,13 @@
 ---
-title: "Day Trips in Medjugorje"
+title: Day Trips
 type: section
+linked_locations:
+  - europe/bosniaandherzegovina/mostar
+  - europe/croatia/dubrovnik
 ---
 
-There are many **Medjugorie day trips** for tourists visiting this area. Tourists attractions range from a historical bridge to casinos.
+Medjugorje sits in good day-trip country. [Mostar](/europe/bosniaandherzegovina/mostar) and its rebuilt Ottoman bridge are about 25 km and 30 minutes north -- easy to do in a morning, with time for lunch by the Neretva. The Walled Town of Pocitelj, a stunning hillside Ottoman village with a fortress and minaret, sits 30 km southeast and combines well with Mostar.
 
-**Mostar Bridge**
+For something cooler and greener, Kravica Waterfalls are 15 km west on the Trebizat river -- a wide curtain of falls dropping into a swimmable pool, busy in summer. The Franciscan monastery at Zitomislici, 10 km north, has fifteenth-century frescoes and a graveyard with ottoman tombstones.
 
-The Mostar Bridge is about 30 minutes away from Medjugorje. Tourists come from all around the world to witness the beauty of the Mostar Bridge. The Mostar Bridge was built in the Ottoman Era, and ever since then, it has become the city's most notorious landmark. The Bridge is built over the beautiful Neretva River, which is located in the city of Mostar, the 3rd largest city in the country of Bosnia and Herzegovina. The Mostar Bridge is a beautiful landmark to see, and is free to witness.
-
-**Coloseum Club**
-
-The Coloseum Club is the only casino located in Bosnia and Herzegovina. This club is a day trip for the most adventurous, because the Coloseum Club offers plenty of playing tables, slot machines and roulettes. This discreet interior, old-Roman style casino is located at Terezije, bb, ksc, Skenderija, Sarajevo 71000, Bosnia and Herzegovina. Along with restaurants, bars, and a stage for comedians and bands, the Coloseum Club is a popular gambling destination for locals and tourists alike.
-
-**Konjic**
-
-Konjic is a city 1 hour and 45 minutes away from Medjugorje, and is famous throughout the country for its beautiful change in seasons and breathtaking rainbows, which are seen almost everyday of the year. This city is full of natural beauty. Many people travel to Konjic during the fall, because the city seems to have more Autumn colors than any other city around. Since the weather in Konjic is mostly wet all year round, rainbows usually paint the sky during sunrise and sunset.
+Across the border, [Dubrovnik](/europe/croatia/dubrovnik) is 130 km south (around 2 hours) and Split 170 km north -- both are reachable as long days from Medjugorje, but better as overnight stops.

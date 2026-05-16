@@ -1,5 +1,0 @@
-africa/mali/kita
-northamerica/unitedstates/kentucky/franklin
-southamerica/chile/rancagua
-southamerica/brazil/cavalcante
-europe/greece/athens

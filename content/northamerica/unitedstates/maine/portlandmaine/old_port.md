@@ -5,7 +5,7 @@ tags:
   - things_to_do
   - neighbourhood
 latitude: 43.6577
-longitude: 70.2547
+longitude: -70.2547
 story: "After the great fire of 1866 reduced most of the wooden city to ash, Portland rebuilt the wharf district almost entirely in brick and granite within a decade. By the 1960s the area had decayed into vacant warehouses and was nearly cleared for an interstate spur. A grassroots preservation campaign in the 1970s saved it — and what was salvaged is the densest concentration of intact post-Civil-War commercial architecture in the United States."
 ---
 

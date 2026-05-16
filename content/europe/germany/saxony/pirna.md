@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-14'
+image: pirna.jpg
+image_attribution: Bernardo Bellotto
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Canaletto_(I)_021.jpg
 latitude: 50.961692
+loc_type: city
 longitude: 13.938664
+score: 0.51
 title: Pirna
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Pirna is a well-preserved small town on the Elbe, about 15 km southeast of Dresden, and the main gateway to Saxon Switzerland (Sächsische Schweiz) — the dramatic sandstone landscape of gorges, mesas and forest that stretches along the river toward the Czech border. The national park takes its name from the nickname given by two Swiss painters in the 18th century who found the scenery reminiscent of home.

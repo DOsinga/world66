@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: cambados.jpg
+image_attribution: Re Fresh Vigo
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cambados.jpeg
 latitude: 42.5144
+loc_type: city
 longitude: -8.8138
+score: 0.55
 title: Cambados
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Cambados is the undisputed capital of Albariño, the crisp white wine that defines Galician drinking culture. The town sits on the Salnés coast, looking out over the Ría de Arousa, and its granite streets are lined with some of the most handsome manor houses in Galicia.

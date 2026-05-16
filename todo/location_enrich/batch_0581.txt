@@ -1,5 +1,0 @@
-australiaandpacific/palau/angaur
-europe/denmark/sonderborg
-europe/spain/balearicislands/mallorca/pollensa
-europe/malta/cottonera_or_three/senglea_or_llsla
-northamerica/mexico/manzanillo

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-16'
 image: belmar.jpg
 image_attribution: Wikimedia Commons
 image_license: CC BY-SA 4.0

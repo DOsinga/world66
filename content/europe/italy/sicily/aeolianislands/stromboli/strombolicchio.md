@@ -1,8 +1,8 @@
 ---
 title: Strombolicchio
 type: poi
-latitude: 38.8235
-longitude: 15.2429
+latitude: 38.8172
+longitude: 15.2519
 tags:
   - things_to_do
   - sight

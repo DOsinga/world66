@@ -1,8 +1,8 @@
 ---
 title: Ginostra
 type: poi
-latitude: 38.7748
-longitude: 15.1947
+latitude: 38.7866
+longitude: 15.1911
 tags:
   - things_to_do
   - sight

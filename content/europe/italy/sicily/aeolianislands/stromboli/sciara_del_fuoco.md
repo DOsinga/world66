@@ -1,8 +1,8 @@
 ---
 title: Sciara del Fuoco
 type: poi
-latitude: 38.7977
-longitude: 15.2057
+latitude: 38.7986
+longitude: 15.2069
 tags:
   - things_to_do
   - sight

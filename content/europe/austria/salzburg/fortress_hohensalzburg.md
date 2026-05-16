@@ -8,6 +8,7 @@ snippet: Central Europe's largest preserved medieval fortress above the old town
 tags:
 - things_to_do
 - sight
+- altstadt
 title: Festung Hohensalzburg
 type: poi
 ---

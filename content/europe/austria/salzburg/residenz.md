@@ -5,6 +5,7 @@ longitude: 13.044929
 tags:
 - things_to_do
 - sight
+- altstadt
 title: Salzburg Residenz
 type: poi
 snippet: "Baroque prince-archbishop palace with Rembrandt and Rubens"

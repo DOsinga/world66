@@ -1,9 +1,11 @@
 ---
+latitude: 38.5
+loc_type: region
+longitude: 115.5
+sources:
+- https://en.wikivoyage.org/wiki/Hebei
 title: Hebei Province
 type: location
-loc_type: region
-latitude: 38.5
-longitude: 115.5
 ---
 
 Hebei is the province that wraps around Beijing and Tianjin without ever quite being either of them. That geographic fate has made it both underappreciated and remarkably rewarding: visitors pass through constantly on their way to the capital, but few stop long enough to realise how much is here. The Great Wall runs along its northern edge in some of its most dramatic and least crowded stretches, and the imperial summer retreat at Chengde is one of the grandest complexes in all of China.
@@ -16,8 +18,8 @@ Hebei has none of the glamour of its two municipal neighbours, but that is part 
 
 ## Destinations in Hebei Province
 
-[Chengde](/asia/china/chengde)
-[Beidaihe](/asia/china/bei_dai_he)
-[Shanhaiguan](/asia/china/shanhaiguan)
-[Simatai](/asia/china/simatai)
-[Huangyaguan](/asia/china/huangyaguan)
+[Chengde](/asia/china/hebei/chengde)
+[Beidaihe](/asia/china/hebei/bei_dai_he)
+[Shanhaiguan](/asia/china/hebei/shanhaiguan)
+[Simatai](/asia/china/beijing/simatai)
+[Huangyaguan](/asia/china/tianjin/huangyaguan)

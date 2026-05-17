@@ -1,15 +1,17 @@
 ---
-title: Sichuan Province
-type: location
-latitude: 30.5
-longitude: 102.5
 done:
   location_cleanup: 2026-04-02
-score: 0.62
+latitude: 30.5
 loc_type: region
+longitude: 102.5
+score: 0.62
+sources:
+- https://en.wikivoyage.org/wiki/Sichuan
+title: Sichuan Province
+type: location
 ---
 
-Sichuan province is located in the centre of China between [Tibet](/asia/china/tibet), [Yunnan Province](/asia/china/yunnanprovince) and [Xian](/asia/china/xian).
+Sichuan province is located in the centre of China between [Tibet](/asia/china/tibet), [Yunnan Province](/asia/china/yunnanprovince) and [Xian](/asia/china/shaanxi/xian).
  The Yangtze river goes right through the heart of the province. A boat trip from Chonqing on the river is highly recommended. The scenery is incredible: sheer cliffs rising up 1000 meters on both sides.
 
 

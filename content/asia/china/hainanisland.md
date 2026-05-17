@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 19.160286
+loc_type: region
 longitude: 109.628891
 score: 0.57
+sources:
+- https://en.wikivoyage.org/wiki/Hainan
 title: Hainan Island
 type: location
-loc_type: region
 ---
 
 Hainan is China's tropical island — a large teardrop-shaped province off the south coast, roughly level with Hanoi, that the Chinese treat the way Americans treat Florida or Brits treat the Costa del Sol. Until the late 1980s it was a backwater of fishing villages and banana plantations; since being designated a Special Economic Zone in 1988, the south coast has exploded into a ribbon of resort hotels, and the beaches around [Sanya](/asia/china/hainanisland/sanya) are now the Chinese package-holiday destination, widely if optimistically nicknamed "the Hawaii of China".

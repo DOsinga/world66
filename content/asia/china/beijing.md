@@ -4,11 +4,13 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
 latitude: 39.905714
+loc_type: city
 longitude: 116.391297
 score: 0.73
+sources:
+- https://en.wikivoyage.org/wiki/Beijing
 title: Beijing
 type: location
-loc_type: city
 ---
 
 Beijing — "Northern Capital" — has been China's political centre for most of the last eight hundred years, and the architecture and atmosphere of the city still reflect that. The Forbidden City at the heart of the old town, the Temple of Heaven to the south, the Summer Palace to the northwest, and the Great Wall running along the mountains an hour north are the most famous set pieces of imperial China anywhere in the world, and together they fill the better part of a week.

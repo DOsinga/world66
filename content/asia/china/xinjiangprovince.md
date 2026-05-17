@@ -1,9 +1,11 @@
 ---
+latitude: 42.0
+loc_type: region
+longitude: 87.0
+sources:
+- https://en.wikivoyage.org/wiki/Xinjiang
 title: Xinjiang
 type: location
-loc_type: region
-latitude: 42.0
-longitude: 87.0
 ---
 
 Xinjiang is China's largest administrative division, a region the size of Western Europe occupying the country's far northwest. It is also one of the world's great crossroads — the point where the Chinese empire met the Central Asian steppe, where the Silk Road split into northern and southern branches around the Taklamakan Desert, where Buddhism, Islam, and Chinese culture pressed against each other for centuries. The landscape ranges from the world's second-lowest point (the Turpan Depression) to some of the highest passes in the Karakoram. No brief description does it justice.

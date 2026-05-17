@@ -1,9 +1,11 @@
 ---
+latitude: 27.0
+loc_type: region
+longitude: 107.0
+sources:
+- https://en.wikivoyage.org/wiki/Guizhou
 title: Guizhou Province
 type: location
-loc_type: region
-latitude: 27.0
-longitude: 107.0
 ---
 
 Guizhou is one of China's poorest provinces and one of its most interesting. The combination is not coincidental: the mountains that made it hard to farm and hard to govern kept it remote, and the remoteness preserved minority cultures — Miao, Dong, Buyi, and many others — that were assimilated or diluted elsewhere. Coming to Guizhou is coming to a China that is genuinely different from the Han heartland.

@@ -1,9 +1,11 @@
 ---
+latitude: 43.5
+loc_type: region
+longitude: 126.5
+sources:
+- https://en.wikivoyage.org/wiki/Jilin
 title: Jilin Province
 type: location
-loc_type: region
-latitude: 43.5
-longitude: 126.5
 ---
 
 Jilin sits in the middle of China's northeast, landlocked between Liaoning and Heilongjiang, and shares with both the cold winters and the Manchurian history that define the region. It is less visited than its neighbours, which makes it all the more rewarding for those who do come.

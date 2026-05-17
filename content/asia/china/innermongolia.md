@@ -1,9 +1,11 @@
 ---
+latitude: 44.0
+loc_type: region
+longitude: 113.0
+sources:
+- https://en.wikivoyage.org/wiki/Inner_Mongolia
 title: Inner Mongolia
 type: location
-loc_type: region
-latitude: 44.0
-longitude: 113.0
 ---
 
 Inner Mongolia is China's second largest administrative division, a long crescent of steppe, desert, and forest sweeping across the country's northern border from Manchuria to Xinjiang. It is the place to come if you want to sleep in a ger, ride a horse across open grassland, and understand something of the nomadic Mongolian culture that for centuries made the rest of the world nervous.
@@ -16,4 +18,4 @@ The best time to visit is summer (June to August), when the grass is high and th
 
 ## Destinations in Inner Mongolia
 
-[Manzhouli](/asia/china/manzhouli)
+[Manzhouli](/asia/china/innermongolia/manzhouli)

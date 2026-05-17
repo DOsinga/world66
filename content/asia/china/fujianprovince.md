@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 26.193218
+loc_type: region
 longitude: 118.220872
+score: 0.5
+sources:
+- https://en.wikivoyage.org/wiki/Fujian
 title: Fujian Province
 type: location
-score: 0.5
-loc_type: region
 ---
 
 Fujian is a coastal province in southeastern China, facing Taiwan across the Taiwan Strait. It is a mountainous province — most of the interior is steep forested hills — and historically its population has been oriented toward the sea. Fujian was the origin of a large proportion of the Chinese diaspora in Southeast Asia, and the province has long had stronger economic ties with the outside world than much of inland China.

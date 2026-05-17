@@ -15,7 +15,3 @@ Guangxi is the landscape that appears on a thousand Chinese scrolls and calendar
 Beyond Guilin, Guangxi has other karst landscapes worth exploring. The rice terraces at Longji, north of Guilin, were carved into the mountains over three hundred years ago by the Zhuang and Yao minorities and still function as working farms. Detian Waterfall, on the Vietnamese border, is one of the widest transnational waterfalls in the world and almost nobody goes. Nanning, the capital, is an unremarkable city but a useful transport hub for reaching Vietnam by train.
 
 Guangxi is an autonomous region for the Zhuang people, the largest ethnic minority in China, though Zhuang culture is not as visibly distinct as, say, Tibetan or Uyghur culture. The border areas with Vietnam have a distinctly Southeast Asian quality — the food spicier, the architecture lower, the pace slower.
-
-## Destinations in Guangxi
-
-[Guilin](/asia/china/guangxi/guilin)

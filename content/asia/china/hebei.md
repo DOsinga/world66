@@ -15,11 +15,3 @@ The North China Plain covers most of the province — flat, agricultural, and un
 Along the coast, Beidaihe has been a beach resort since the late nineteenth century, when British engineers building the Beijing-Mukden railway discovered the sandy shores. The resort retains an agreeably old-fashioned quality. Nearby Shanhaiguan is where the Great Wall meets the sea — literally, the Dragon Head Rock jutting into the Bohai. Simatai and Huangyaguan offer sections of the Wall that are steep, wild, and far from the tour buses.
 
 Hebei has none of the glamour of its two municipal neighbours, but that is part of the appeal. The infrastructure is good, the crowds are manageable, and the historical weight — Great Wall, imperial palaces, ancient towns — is real.
-
-## Destinations in Hebei Province
-
-[Chengde](/asia/china/hebei/chengde)
-[Beidaihe](/asia/china/hebei/bei_dai_he)
-[Shanhaiguan](/asia/china/hebei/shanhaiguan)
-[Simatai](/asia/china/beijing/simatai)
-[Huangyaguan](/asia/china/tianjin/huangyaguan)

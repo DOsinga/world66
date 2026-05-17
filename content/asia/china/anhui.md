@@ -15,7 +15,3 @@ Anhui is a province of two halves. The north is flat, agricultural, and unremark
 The villages of southern Anhui — particularly around Hongcun and Xidi — preserve the Huizhou architectural tradition that once spread across much of the region. Merchant families who made fortunes in long-distance trade poured their money into elaborate gateways, carved wooden screens, and whitewashed compounds. Both villages are UNESCO-listed and therefore extremely popular; arriving early in the morning or late in the afternoon is the best way to see them without the coach groups.
 
 Hefei, the capital, is a large modern city with little to detain the visitor. It serves mainly as a transport hub for reaching Huang Shan and the southern villages.
-
-## Destinations in Anhui Province
-
-[Huang Shan](/asia/china/anhui/huang_shan)

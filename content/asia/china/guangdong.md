@@ -15,9 +15,3 @@ Guangdong is where modern China was made — or at least where the economic vers
 [Shenzhen](/asia/china/guangdong/shenzhen), just across the border from Hong Kong, is the city that proves economic development can happen very fast. It has almost nothing historic — there was nothing here before the Special Economic Zone — but the energy, the architecture, and the sheer density of the place are fascinating on their own terms. It is also a useful and efficient base for Hong Kong day trips.
 
 [Zhongshan](/asia/china/guangdong/zhongshan) is quieter, known as the birthplace of Sun Yat-sen, and makes a pleasant day trip from either Guangzhou or Macau.
-
-## Destinations in Guangdong Province
-
-[Guangzhou](/asia/china/guangdong/guangzhou)
-[Shenzhen](/asia/china/guangdong/shenzhen)
-[Zhongshan](/asia/china/guangdong/zhongshan)

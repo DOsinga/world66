@@ -15,8 +15,3 @@ Gansu is the long corridor through which China's history flowed. The province is
 [Dunhuang](/asia/china/gansu/dunhuang) is the province's great destination. The Mogao Caves, cut into a sandstone cliff fifteen kilometres southeast of town, contain over 45,000 square metres of Buddhist murals and 2,000 painted clay sculptures, accumulated over a thousand years of patronage from the fourth century onwards. They are extraordinary: the scale, the variety, and the state of preservation make Mogao one of the most remarkable art historical sites in the world. The Crescent Moon Lake, a freshwater pool in the middle of the Gobi dunes, is a geological curiosity that somehow still exists despite the development around it.
 
 Along the Hexi Corridor between Lanzhou and Dunhuang, the Great Wall's western end — Jiayuguan — is worth a stop. The fort was the last Chinese outpost before the desert, the point beyond which you were on your own.
-
-## Destinations in Gansu Province
-
-[Lanzhou](/asia/china/gansu/lanzhou)
-[Dunhuang](/asia/china/gansu/dunhuang)

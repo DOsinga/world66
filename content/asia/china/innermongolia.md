@@ -15,7 +15,3 @@ The Mongolian grasslands, especially around Hulunbuir in the northeast, are genu
 The capital Hohhot (Huhhot) is a working Chinese city with Mongolian character — the Dazhao Temple and Zhaojun Tomb are worth an afternoon, and the Old Town quarter has kept something of its traditional flavour. But the real reason to come to Inner Mongolia is to get out of the cities and into the grasslands.
 
 The best time to visit is summer (June to August), when the grass is high and the Naadam festival brings horse racing, archery, and wrestling. Winter is brutally cold — temperatures drop well below minus 20°C — but the frozen landscapes have their own severe beauty.
-
-## Destinations in Inner Mongolia
-
-[Manzhouli](/asia/china/innermongolia/manzhouli)

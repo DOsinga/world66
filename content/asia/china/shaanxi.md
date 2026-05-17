@@ -15,7 +15,3 @@ Shaanxi (not to be confused with neighbouring Shanxi to the northeast) was the c
 The Terracotta Army is forty-five minutes east by bus, and it is everything the postcards suggest and more. The scale is what you cannot prepare for — over eight thousand individual warriors, each with a distinct face. The excavation is ongoing; less than a third has been unearthed.
 
 The rest of the province deserves more attention than it gets. Mount Hua (Huashan), east of Xi'an, has precipitous cliff paths that are among the most terrifying and rewarding hikes in China. The Yan'an Pagoda in the north was the Communist Party's wartime capital; the cave dwellings where Mao and others lived and planned are still there.
-
-## Destinations in Shaanxi Province
-
-[Xi'an](/asia/china/shaanxi/xian)

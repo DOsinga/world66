@@ -17,12 +17,3 @@ Xinjiang is China's largest administrative division, a region the size of Wester
 [Ürümqi](/asia/china/xinjiangprovince/urumqi), the regional capital, is a large modern city and the main transport hub. Hanas Lake, in the far north near the Mongolian and Russian borders, is a mountain lake set in forests that seem transplanted from Siberia — one of the most unexpected landscapes in China.
 
 Travel in Xinjiang requires patience with checkpoints and registration requirements, which have intensified significantly since the mid-2010s. Bring your passport everywhere and expect thorough document checks.
-
-## Destinations in Xinjiang
-
-[Kashgar](/asia/china/xinjiangprovince/kashgar)
-[Turpan](/asia/china/xinjiangprovince/turpan)
-[Ürümqi](/asia/china/xinjiangprovince/urumqi)
-[Hanas Lake](/asia/china/xinjiangprovince/hanaslake)
-[Altay Prefecture](/asia/china/xinjiangprovince/altayprefecture)
-[Khunjerab Pass](/asia/china/xinjiangprovince/khunjerabpass)

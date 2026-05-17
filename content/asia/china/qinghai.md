@@ -17,7 +17,3 @@ Xining, the capital, is a large Han and Hui Muslim city that serves primarily as
 [Golmud](/asia/china/qinghai/golmud), the second city, is the last stop on the Qinghai-Tibet Railway before the plateau proper. It is useful rather than interesting, but it marks the edge of the inhabited world before the great emptiness begins. The salt flats and desert landscapes surrounding it have an eerie beauty.
 
 The altitude is not to be underestimated. Give yourself at least a day to acclimatise before doing anything strenuous, and be honest about symptoms of altitude sickness.
-
-## Destinations in Qinghai Province
-
-[Golmud](/asia/china/qinghai/golmud)

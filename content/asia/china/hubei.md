@@ -15,7 +15,3 @@ Hubei sits at the heart of China, literally and historically. The Yangtze River 
 West of Wuhan, the Wudang Mountains are the spiritual home of Taoist martial arts. The mountain complex of ancient temples and monasteries, founded in the Tang dynasty, is where Tai Chi is said to have originated. The setting — mist-shrouded peaks, winding paths, dramatic drops — is as striking as any sacred mountain in China.
 
 The Three Gorges Dam itself, at Yichang, is worth a stop if you are heading upriver. You can take a boat from Yichang through the gorges to Chongqing; it is one of the great river journeys in Asia, even if the scale is not quite what it once was.
-
-## Destinations in Hubei Province
-
-[Wuhan](/asia/china/hubei/wuhan)

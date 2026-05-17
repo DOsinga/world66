@@ -15,7 +15,3 @@ The minority villages are the main draw. Miao villages in the southeast, particu
 The landscape is spectacular in its own right. Huangguoshu, China's largest waterfall, plunges 74 metres into a gorge you can walk behind through a naturally occurring cave. The Zhangjiang Scenic Area has rock formations on a scale that competes with Zhangjiajie next door in Hunan. Guiyang, the capital, is unremarkable but has excellent street food — sour, spicy, and very good.
 
 Maotai, China's most famous and most expensive baijiu, is made here, distilled from sorghum in the town of the same name in the Chishui River valley. You will either find this interesting or not.
-
-## Destinations in Guizhou Province
-
-Kaili is the base for Miao village exploration; Zhaoxing for the Dong villages; Huangguoshu for the waterfall.

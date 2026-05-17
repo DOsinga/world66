@@ -15,7 +15,3 @@ Those winters are also the reason most visitors come. [Harbin](/asia/china/heilo
 Beyond Harbin, the province offers serious wilderness. The Zhalong Nature Reserve is one of the best places in China to see red-crowned cranes. The Wudalianchi volcanic lakes in the north are strange and beautiful. In summer the countryside turns intensely green — soya and sunflowers stretching to the horizon — making Heilongjiang a different proposition entirely from its frozen winter identity.
 
 This is not an easy province to travel independently in the remote areas, but it rewards the effort. The food is hearty northeastern cooking: braised pork, pickled cabbage, and dumplings that keep out the cold.
-
-## Destinations in Heilongjiang Province
-
-[Harbin](/asia/china/heilongjiang/harbin)

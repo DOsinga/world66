@@ -15,7 +15,3 @@ Changchun, the capital, was the seat of Manchukuo — the Japanese puppet state 
 The great draw of Jilin Province is Changbai Mountain in the southeast, an extinct volcano on the North Korean border whose crater lake — Tianchi, the Sky Pool — sits at 2,189 metres. The lake is vast, deep, and strikingly blue-green when the weather cooperates, which it does not always do. The surrounding nature reserve protects one of the largest tracts of virgin forest in northeast China. Siberian tigers still roam here, though you are very unlikely to see one.
 
 The province also has a significant Korean minority in the Yanbian Autonomous Prefecture near the North Korean border — the food is noticeably different from standard northeastern Chinese cooking, sharper and more fermented.
-
-## Destinations in Jilin Province
-
-Changchun and Jilin City are the main bases; Changbai Mountain is the province's signature destination.

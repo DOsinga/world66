@@ -1,4 +1,6 @@
 ---
+done:
+  location_enrich: '2026-05-17'
 latitude: 36.1314
 loc_type: feature
 longitude: 110.4508

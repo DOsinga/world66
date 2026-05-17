@@ -329,10 +329,10 @@
       visited:    { s: 78, l: 38, op: 0.85 },
     },
     classic: {
-      hue: (parent) => parentHue(parent),
-      none:       { s: 18, l: 74, op: 0.62 },
-      bucketlist: { s: 38, l: 64, op: 0.78 },
-      visited:    { s: 52, l: 48, op: 0.90 },
+      hue: () => 32,
+      none:       { s: 28, l: 80, op: 0.62 },
+      bucketlist: { s: 48, l: 68, op: 0.78 },
+      visited:    { s: 62, l: 50, op: 0.90 },
     },
   };
   let currentPalette = localStorage.getItem('world66.palette') || 'rainbow';

@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/carlsbad
-northamerica/mexico/uruapan
-europe/finland/kotka
-northamerica/unitedstates/kansas/wichita
-europe/germany/bavaria/schleissheim

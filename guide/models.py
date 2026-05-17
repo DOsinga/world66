@@ -39,6 +39,8 @@ DISPLAY_PROPERTIES = {
     "opening_hours": "Opening Hours",
     "closing_time": "Closing Time",
     "price": "Price",
+    "duration": "Duration",
+    "booking_url": "Book Now",
     "admission": "Admission",
     "isbn": "ISBN",
     "author": "Author",
@@ -204,6 +206,21 @@ class Page:
                 if page and page.page_type == "poi":
                     pois.append(page)
         return pois
+
+    def providers(self):
+        """Child POIs in this POI's own subdirectory — bookable providers for an activity."""
+        dir_path = CONTENT_DIR / self.path
+        if not dir_path.is_dir():
+            return []
+        result = []
+        for entry in sorted(dir_path.iterdir()):
+            if entry.is_file() and entry.suffix == ".md":
+                if entry.stem == self.slug:
+                    continue
+                page = _load_page_from_file(entry, self.path + "/" + entry.stem)
+                if page and page.page_type == "poi":
+                    result.append(page)
+        return result
 
     # Keep old name for call sites not yet updated
     def pois(self):

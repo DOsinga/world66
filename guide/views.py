@@ -97,6 +97,13 @@ def location_or_section(request, path):
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
 
+    providers = []
+    if page.page_type == "poi":
+        providers = page.providers()
+        for prov in providers:
+            prov_img = _image_path(prov, branch)
+            prov.image_url = f'/content-image/{prov_img}{branch_qs}' if prov_img else None
+
     # Separate neighbourhood pages from nav pages so they render inline under
     # the article body rather than in the sidebar sections list.
     neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
@@ -256,6 +263,7 @@ def location_or_section(request, path):
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
         "inline_sections": inline_sections,
+        "providers": providers,
     })
 
 

@@ -235,6 +235,34 @@
 {% endblock %}
 
 {% block wide_content %}
+{% if providers %}
+<div class="wide-block provider-section">
+  <h2 class="provider-section-title">Where to book</h2>
+  <div class="provider-grid">
+    {% for prov in providers %}
+    <div class="provider-card">
+      {% if prov.image_url %}
+      <a href="{{ prov.get_absolute_url }}"><img class="provider-card-img" src="{{ prov.image_url }}" alt="{{ prov.title }}" loading="lazy"></a>
+      {% endif %}
+      <div class="provider-card-body">
+        <div class="provider-card-name"><a href="{{ prov.get_absolute_url }}">{{ prov.title }}</a></div>
+        {% if prov.meta.price or prov.meta.duration %}
+        <div class="provider-card-meta">{% if prov.meta.price %}{{ prov.meta.price }}{% endif %}{% if prov.meta.price and prov.meta.duration %} &middot; {% endif %}{% if prov.meta.duration %}{{ prov.meta.duration }}{% endif %}</div>
+        {% endif %}
+        {% if prov.meta.snippet %}
+        <div class="provider-card-snippet">{{ prov.meta.snippet }}</div>
+        {% elif prov.body %}
+        <div class="provider-card-snippet">{{ prov.body|truncatewords:25 }}</div>
+        {% endif %}
+        {% if prov.meta.booking_url %}
+        <a class="provider-book-btn" href="{{ prov.meta.booking_url }}" target="_blank" rel="noopener noreferrer">Book Now &#8599;</a>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
 <div class="wide-block poi-section">
   <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>

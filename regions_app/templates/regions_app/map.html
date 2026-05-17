@@ -236,6 +236,112 @@
     display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
 
+  /* ── Panel expand transition ── */
+  #regions-panel {
+    transition: width 0.3s cubic-bezier(0.4,0,0.2,1);
+  }
+  #regions-panel.panel-expanded {
+    width: 66.666vw;
+  }
+
+  /* ── Location detail view ── */
+  #location-detail {
+    display: none;
+    flex-direction: column;
+    flex: 1;
+    overflow-y: auto;
+  }
+  #location-detail.visible { display: flex; }
+
+  .loc-back {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.7rem 1.1rem;
+    border-bottom: 1px solid #e8e8e8;
+    background: #fff;
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: #555;
+    font-weight: 600;
+    flex-shrink: 0;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+  .loc-back:hover { color: #111; background: #f8f8f8; }
+  .loc-back-arrow { font-size: 1.1rem; line-height: 1; }
+
+  .loc-hero {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    display: block;
+    background: #e0e0e0;
+    flex-shrink: 0;
+  }
+  .loc-hero-placeholder {
+    width: 100%;
+    height: 140px;
+    flex-shrink: 0;
+    background: linear-gradient(135deg, #e8eff4 0%, #d2e0e8 100%);
+  }
+
+  .loc-body {
+    padding: 1.4rem 1.6rem 2.5rem;
+    flex: 1;
+  }
+  .loc-parent-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #aaa;
+    margin-bottom: 0.3rem;
+  }
+  .loc-title {
+    font-family: Fraunces, Georgia, serif;
+    font-size: 2rem;
+    line-height: 1.15;
+    margin: 0 0 1.2rem;
+    color: #111;
+  }
+  .loc-content { font-size: 0.95rem; line-height: 1.7; color: #333; }
+  .loc-content p { margin: 0 0 1em; }
+  .loc-content h2, .loc-content h3 { margin: 1.4em 0 0.4em; font-family: Fraunces, Georgia, serif; }
+  .loc-content ul, .loc-content ol { margin: 0 0 1em 1.4em; }
+  .loc-content a { color: #1a6b9a; }
+
+  .loc-attribution {
+    margin-top: 0.5rem;
+    font-size: 0.72rem;
+    color: #bbb;
+    padding: 0 1.6rem 1.5rem;
+  }
+  .loc-attribution a { color: #bbb; }
+
+  .loc-view-page {
+    display: inline-block;
+    margin: 0 1.6rem 1.5rem;
+    padding: 0.55rem 1.1rem;
+    border-radius: 8px;
+    background: #111;
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .loc-view-page:hover { background: #333; }
+
+  .loc-loading {
+    padding: 3rem 1.6rem;
+    text-align: center;
+    color: #aaa;
+    font-size: 0.95rem;
+  }
+
+  .dest-item { cursor: pointer; }
+
   .leaflet-container { font-family: Inter, system-ui, sans-serif; }
   .leaflet-interactive:focus { outline: none; }
 </style>
@@ -269,14 +375,17 @@
       <p class="hint">Double-click to cycle: bucket list → visited → clear</p>
     </div>
     <div class="region-detail" id="region-detail" style="display:none"></div>
+    <div id="location-detail"></div>
   </aside>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
 <script>
 (async function() {
+  const panelEl = document.getElementById('regions-panel');
   const panelEmpty = document.getElementById('panel-empty');
   const regionDetail = document.getElementById('region-detail');
+  const locationDetail = document.getElementById('location-detail');
   const statVisited = document.getElementById('stat-visited');
   const statBucket = document.getElementById('stat-bucket');
 
@@ -406,13 +515,16 @@
     const pal = PALETTES[currentPalette];
     const hue = pal.hue(feature.properties.parent || feature.properties.name);
     const cfg = pal[state] || pal.none;
-    // On dark tile, borders need to be lighter
     const isDark = currentTile === 'dark';
+    const isClassic = currentPalette === 'classic';
+    const borderDefault = isClassic ? '#555' : (isDark ? '#555' : '#bbb');
+    const borderActive  = isClassic ? '#222' : (isDark ? '#aaa' : '#444');
+    const borderSelect  = isClassic ? '#000' : (isDark ? '#fff' : '#111');
     return {
       fillColor: `hsl(${hue}, ${cfg.s}%, ${cfg.l}%)`,
       fillOpacity: cfg.op,
-      weight: isSelected ? 2.5 : 0.7,
-      color: isSelected ? (isDark ? '#fff' : '#111') : (state !== 'none' ? (isDark ? '#aaa' : '#444') : (isDark ? '#555' : '#bbb')),
+      weight: isSelected ? 2.5 : (isClassic ? 1.0 : 0.7),
+      color: isSelected ? borderSelect : (state !== 'none' ? borderActive : borderDefault),
     };
   }
 
@@ -484,17 +596,17 @@
 
     const locsHtml = info.top_locations.length === 0
       ? '<p style="color:#aaa;font-size:0.85rem">No destinations indexed here yet.</p>'
-      : info.top_locations.map(loc => {
+      : info.top_locations.map((loc, i) => {
           const thumb = loc.image_url
             ? `<img class="dest-thumb" src="${escapeAttr(loc.image_url)}" alt="${escapeAttr(loc.title)}" loading="lazy">`
             : `<div class="dest-thumb-placeholder">🗺</div>`;
-          return `<a class="dest-item" href="/${escapeAttr(loc.path)}">
+          return `<div class="dest-item" data-loc-index="${i}">
             ${thumb}
             <div class="dest-body">
               <div class="dest-title">${escapeHtml(loc.title)}</div>
               <div class="dest-snippet">${escapeHtml(loc.snippet || '')}</div>
             </div>
-          </a>`;
+          </div>`;
         }).join('');
 
     regionDetail.innerHTML = `
@@ -513,6 +625,10 @@
     regionDetail.querySelectorAll('.state-btn').forEach(btn => {
       btn.addEventListener('click', () => setState(btn.dataset.id, btn.dataset.state));
     });
+    regionDetail.querySelectorAll('.dest-item').forEach(el => {
+      const loc = info.top_locations[parseInt(el.dataset.locIndex, 10)];
+      el.addEventListener('click', () => openLocation(loc));
+    });
     panelEmpty.style.display = 'none';
     regionDetail.style.display = 'flex';
     regionDetail.scrollTop = 0;
@@ -523,6 +639,59 @@
       ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   }
   function escapeAttr(s) { return escapeHtml(s); }
+
+  // ── Location detail panel ──
+  function showRegionPanel() {
+    locationDetail.classList.remove('visible');
+    locationDetail.innerHTML = '';
+    panelEl.classList.remove('panel-expanded');
+    regionDetail.style.display = 'flex';
+  }
+
+  async function openLocation(loc) {
+    // Expand the panel
+    panelEl.classList.add('panel-expanded');
+    regionDetail.style.display = 'none';
+    panelEmpty.style.display = 'none';
+    locationDetail.innerHTML = '<div class="loc-loading">Loading…</div>';
+    locationDetail.classList.add('visible');
+    locationDetail.scrollTop = 0;
+
+    let data;
+    try {
+      const resp = await fetch(`/regions/location/${loc.path}/`);
+      if (!resp.ok) throw new Error(resp.statusText);
+      data = await resp.json();
+    } catch (e) {
+      locationDetail.innerHTML = `<div class="loc-loading">Could not load content.</div>`;
+      return;
+    }
+
+    const heroHtml = data.image_url
+      ? `<img class="loc-hero" src="${escapeAttr(data.image_url)}" alt="${escapeAttr(data.title)}" loading="lazy">`
+      : `<div class="loc-hero-placeholder"></div>`;
+
+    const attributionHtml = data.image_source
+      ? `<div class="loc-attribution">Photo: <a href="${escapeAttr(data.image_source)}" target="_blank" rel="noopener">${escapeAttr(data.image_license || 'Wikimedia Commons')}</a></div>`
+      : '';
+
+    locationDetail.innerHTML = `
+      <div class="loc-back" id="loc-back-btn">
+        <span class="loc-back-arrow">←</span>
+        <span>Back to region</span>
+      </div>
+      ${heroHtml}
+      <div class="loc-body">
+        <div class="loc-title">${escapeHtml(data.title)}</div>
+        <div class="loc-content">${data.content_html}</div>
+      </div>
+      ${attributionHtml}
+      <a class="loc-view-page" href="/${escapeAttr(loc.path)}" target="_blank" rel="noopener">Open full page ↗</a>
+    `;
+
+    document.getElementById('loc-back-btn').addEventListener('click', showRegionPanel);
+    locationDetail.scrollTop = 0;
+  }
 
   updateStats();
 

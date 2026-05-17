@@ -1,12 +1,12 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-It is best of all to have transportation by your company or by people whom you know. Especially when you are coming to Almaty airport, it is important to have someone arrange a taxi for you. The ride from the airport will cost about US$7. You should be careful to ask the person arranging the car beforehand for the name of your driver and have it written down.
+Central Almaty is walkable — the main sights cluster around the grid of avenues between Panfilov Park to the north and Republic Square to the south, with Dostyk and Furmanov the main north-south arteries. Most of what a visitor wants to see is within 20 minutes on foot from the centre.
 
- When you are in the city, if there is no possibility to have a car from your company , you might consider mass transit or a cab. There are buses, trolleybuses, and trams (streetcars) in Almaty. It is very difficult to know where this or that bus or trolleybus is going, so it is better to ask beforehand. There are no schedules available. If you know Russian, it will be much easier: you can ask people at a bus stop. There is another type of transportation, which is literally called ‘a route taxi’. Those are little vans that work like buses having their own routes. As of February 2001 it cost 20 tenge (14 cents) to ride a bus, trolleybus or a tram. The vans are 30 tenge (21 cents).
+The metro is small but useful: a single line runs roughly north-south through the centre. Useful stops include Raimbek (near the Green Bazaar), Almaly, and Baikonur (near the train station). Buses and trolleybuses cover most of the city, though figuring out the routes without Russian or Kazakh requires asking at bus stops.
 
- The best, but more expensive way of commuting is a taxi. If you need it, stand on the edge of a road and raise your hand. Very soon somebody will stop. The car wouldn’t necessarily have a ‘taxi’ sign. You should tell the driver how much you are going to pay, because if you ask drivers how much it costs, they reply with the question how much you would like to pay. It will cost you 200 tenge (US$1.36) or less to ride from any point to another point within the city. 
+Taxis are cheap and easy to hail by standing at the kerb and raising your hand. Most cars that stop will negotiate — decide your price before getting in, typically 500–1000 tenge for a journey within the centre. Yandex Taxi operates in Almaty and is a more reliable, metered option accessible via a smartphone app. Agree on fares for mountain trips (Medeu, Shymbulak, Big Almaty Lake) in advance as these are longer journeys.
 
- You can also order a cab by phone. This is probably the safest and most expensive way to commute. They charge you by their meter.
+For the mountains, shared minibuses (marshrutki) run from the city to Medeu and some other destinations, leaving when full from set stops along Dostyk and other main avenues.

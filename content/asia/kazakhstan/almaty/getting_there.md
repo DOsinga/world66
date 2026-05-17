@@ -1,43 +1,12 @@
 ---
-title: "Getting There in Almaty"
+title: Getting There
 type: section
 ---
 
-The topic of **Almaty Getting There** should not make you
-apprehensive since Kazakhstan has become more accessible in the recent
-years. Kazakhstan’s reputation as an international tourist destination
-is increasing and thus, air service to important cities like Almaty is
-not an issue. Following are the 2 most-commonly used options for
-reaching Almaty:
+Almaty International Airport is the main hub for international flights into Kazakhstan. Direct connections exist from Istanbul, Frankfurt, Amsterdam, London, Dubai, and many Russian and Chinese cities. From most European capitals, the flight takes eight to ten hours, usually routed through Istanbul or Moscow. Turkish Airlines and Air Astana cover the largest number of routes.
 
-**Option 1—Reaching Almaty by Air**
+Kazakhstan requires a visa for most nationalities, though citizens of around 60 countries — including EU members, the UK, the USA, and Japan — can enter visa-free for up to 30 days. Check current requirements before travelling, as the list changes regularly.
 
-This is perhaps the easiest way to reach Almaty. Even some low-cost,
-European carriers have started routing flights toward Kazakhstan. From
-most European nations, the flight takes about 8 to 10 hours to reach
-Almaty. Most of the flights arrive in Almaty through prominent, nearby
-cities like Vienna, Istanbul, Frankfurt and Moscow. Those arriving from
-the Asian continent need to transit from cities like Ürümqi in
-China, New Delhi in India or from Islamabad in Pakistan. When flying to
-Kazakhstan, it is vital to remember that the visa should be obtained
-before the scheduled arrival. Apart from a small list of nations where
-Kazakhstan has an international presence in the form of a
-consulate, international visitors from most counties cannot process
-their visas at the airport. Previously, furnishing a letter of
-invitation at a Kazakh Embassy was mandatory but this is no longer
-needed.
+From China, a rail connection runs from Ürümqi, though it is slow and the ticketing system is difficult for foreign travellers to navigate. The Moscow to Almaty train is a more straightforward option for those coming from Russia — the journey takes around three days. Overland buses connect Almaty with Bishkek (Kyrgyzstan), Tashkent (Uzbekistan), and other Central Asian capitals, though border crossings can involve delays.
 
-**Option 2—Reaching Almaty by Rail**
-
-The rail connectivity is limited to nearby Russian cities like
-Moscow. The Moscow-to-Almaty rail service is the only dependable
-long-rail connection that has an international routing, i.e. between
-Russia and Kazakhstan. Another rail-line extends from Ürümqi in China
-but this route isn’t the easiest-to-access and getting a confirmed
-booking here might prove very demanding. The train service originating
-in Ürümqi is active from Saturday-to-Monday and the tickets have to be
-bought from the main station itself. This journey is nearly 36-hours
-long and the stoppages are often longer than the actual schedule.
-
-**Contributors**
-March 16, 2010
+From the airport into the city, the most reliable option is a pre-booked taxi from the airport's official taxi desks. Avoid the unmetered drivers who approach you in arrivals — agree on a price before getting in. The journey to the centre takes 30–45 minutes depending on traffic.

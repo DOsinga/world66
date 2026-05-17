@@ -1,5 +1,5 @@
 europe/slovenia/savinja_and_alek
 southamerica/argentina/rosario
 asia/brunei/kualabelait
-northamerica/mexico/guanajuato/len
+northamerica/mexico/len
 northamerica/unitedstates/colorado/fortcollins

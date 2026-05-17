@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "guide",
     "passport_app",
+    "regions_app",
 ]
 
 MIDDLEWARE = [

@@ -1,5 +1,8 @@
-asia/pakistan/dera_ghazi_khan/bahadur_garh
 australiaandpacific/kiribati/tarawa
 europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/beverley
 asia/india/tamilnadu/kumbakonam
 europe/poland/koobrzeg
+asia/india/orissa/berhampur
+asia/turkey/canakkale
+europe/italy/veneto/padua
+northamerica/unitedstates/nevada/reno

@@ -3,15 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
-image: rabat.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Morocco_-_Rabat_(31387775324).jpg
 latitude: 34.021845
-loc_type: region
 longitude: -6.840893
 score: 0.57
 title: Rabat
 type: location
+loc_type: city
+image: rabat.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Morocco_-_Rabat_(31387775324).jpg
 ---
 
 About a million people live in the capital Rabat and its sister city Sale, but wandering around the Medina, the Kasbah or the Modern Town this is not the impression you get. Life is easy. Not many people harrass you. Shopowners are very nice. 

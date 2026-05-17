@@ -8,7 +8,7 @@ longitude: 120.980362
 score: 0.45
 title: Manila
 type: location
-loc_type: region
+loc_type: city
 ---
 
 Manila is one of the most exhausting cities in Southeast Asia. Thirteen million people live in the metro area, packed into a warren of municipalities, gated villages, slums, and business districts that stretch for forty kilometres up and down the bay. The traffic is legendary. The heat is heavy. The pollution is real. Don't come for rest — fly to one of the smaller islands for that.

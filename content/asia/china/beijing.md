@@ -10,6 +10,8 @@ latitude: 39.905714
 loc_type: city
 longitude: 116.391297
 score: 0.73
+sources:
+- https://en.wikivoyage.org/wiki/Beijing
 title: Beijing
 type: location
 ---

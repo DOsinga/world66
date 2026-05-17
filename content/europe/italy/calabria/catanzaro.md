@@ -6,7 +6,7 @@ longitude: 16.431557
 title: Catanzaro
 type: location
 score: 0.48
-loc_type: region
+loc_type: city
 ---
 
 Catanzaro is the capital of the Province of Catanzaro and also of the region Calabria since 1970 (before then the region capital was [Reggio Calabria](/europe/italy/calabria/reggio) ).

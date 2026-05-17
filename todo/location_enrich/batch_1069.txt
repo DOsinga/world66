@@ -1,5 +1,8 @@
 europe/spain/spanishcostas/playasanjuan
 northamerica/unitedstates/alaska/anchorage
-asia/pakistan/azad_kashmir/rawalacoat/khaigala
 asia/india/karnataka/bijapur
 africa/mozambique/beira
+asia/pakistan/abbottabad
+europe/belgium/antwerp
+europe/unitedkingdom/england/south_east/southampton
+southamerica/peru/san_ignacio

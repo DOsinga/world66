@@ -1,5 +1,5 @@
 asia/afghanistan/kandahar
 europe/russia/samara
-northamerica/canada/britishcolumbia/vancouver/newwestminster
+northamerica/canada/britishcolumbia/newwestminster
 northamerica/unitedstates/utah/provo
 northamerica/mexico/guadalajara

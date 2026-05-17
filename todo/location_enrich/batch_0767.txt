@@ -1,4 +1,4 @@
-southamerica/peru/chachapoyas/kuelap
+southamerica/peru/kuelap
 northamerica/unitedstates/maine/doverfoxcroft
 africa/morocco/tiznit
 asia/indonesia/sulawesi/makassar

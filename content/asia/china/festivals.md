@@ -9,7 +9,7 @@ China has a rich calendar of traditional festivals, all based on the lunar calen
 
 The most important holiday in China. The date shifts each year (late January or February), marking the start of the lunar new year. Families travel home from across the country in what is the world's largest annual migration. Cities empty out as workers return to their home villages; rural areas fill up with people who've spent the year working in factories or construction.
 
-For travelers, the run-up to Chinese New Year (two weeks before) brings spectacular temple fairs, fireworks, and red lanterns everywhere. It is also when transport becomes virtually impossible to book. Many restaurants and shops close for a week or more. If you want to experience the celebrations, go to a city that keeps things lively — Xi'an, Chengdu, or any city with a lively temple fair. The ice sculptures in [Harbin](/asia/china/harbin) peak in January and make a striking backdrop to the season.
+For travelers, the run-up to Chinese New Year (two weeks before) brings spectacular temple fairs, fireworks, and red lanterns everywhere. It is also when transport becomes virtually impossible to book. Many restaurants and shops close for a week or more. If you want to experience the celebrations, go to a city that keeps things lively — Xi'an, Chengdu, or any city with a lively temple fair. The ice sculptures in [Harbin](/asia/china/heilongjiang/harbin) peak in January and make a striking backdrop to the season.
 
 ## Lantern Festival
 

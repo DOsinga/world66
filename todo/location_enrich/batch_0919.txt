@@ -1,4 +1,4 @@
-northamerica/unitedstates/california/sandiego/carlsbad
+northamerica/unitedstates/california/carlsbad
 northamerica/mexico/uruapan
 europe/finland/kotka
 northamerica/unitedstates/kansas/wichita

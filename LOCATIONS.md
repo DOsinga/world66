@@ -196,6 +196,20 @@ longitude: 12.4833
 
 Do not publish a POI without coordinates. If you cannot determine them, leave the file out.
 
+## Sources
+
+The `sources` field records reference URLs used when writing or enriching a page. Add it to the frontmatter of any location page where a useful external reference exists. It is a list, so multiple sources can be recorded.
+
+```yaml
+sources:
+  - https://en.wikivoyage.org/wiki/Hubei
+  - https://en.wikipedia.org/wiki/Hubei
+```
+
+Wikivoyage is the most useful source for coverage gaps — it lists destinations per region and gives a sense of what a thorough travel guide should include. Wikipedia is useful for historical and geographic context. Add the source when you first write or substantially update a page; update it if the reference URL changes.
+
+Sources are not shown to site visitors — they are internal references for content editors and batch workflows.
+
 ## Principles
 
 - **The overview is king.** A great overview with no sections is better than a thin overview with ten empty sections.

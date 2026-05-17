@@ -3,15 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-21'
-image: skardu.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Shangrila_resort_skardu.jpg
 latitude: 35.286372
-loc_type: region
 longitude: 75.640075
 score: 0.54
 title: Skardu
 type: location
+loc_type: city
+image: skardu.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Shangrila_resort_skardu.jpg
 ---
 
 Skardu, the capital of Baltistan, is situated on the banks of the mighty river Indus, just 8 km above its confluence with the river Shigar. Around it are high peaks, deep gorges and some of the most beautiful mountain scenery on the planet. 

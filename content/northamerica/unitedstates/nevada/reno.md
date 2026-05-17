@@ -8,7 +8,7 @@ longitude: -119.812658
 score: 0.43
 title: Reno
 type: location
-loc_type: region
+loc_type: city
 ---
 
 Reno calls itself 'The Biggest Little City in the World,' and the famous arch over Virginia Street backs up that claim. This is a gambling town in northern Nevada, smaller and scrappier than Las Vegas, with a growing arts scene and easy access to the Sierra Nevada mountains.

@@ -6,7 +6,7 @@ longitude: -95.3677
 done:
   location_cleanup: 2026-04-05
 score: 0.44
-loc_type: region
+loc_type: city
 ---
 
 Houston is the largest city in Texas and the fourth-largest in the United States, but it does not feel like a cold metropolis. The people are genuinely friendly, and the city's diversity is staggering, with consulates from 77 nations and a restaurant scene that ranges from Vietnamese pho in Midtown to Nigerian suya in Alief.
@@ -23,5 +23,5 @@ Be warned: Houston summers are brutal. Heat, humidity, and the threat of hurrica
 [Montrose](/northamerica/unitedstates/texas/houston/montrose) |
 [Museum District](/northamerica/unitedstates/texas/houston/museumdistrict) |
 [Galveston Island](/northamerica/unitedstates/texas/houston/galvestonisland) |
-[Brazosport Area](/northamerica/unitedstates/texas/houston/brazosportarea) |
+[Brazosport Area](/northamerica/unitedstates/texas/brazosportarea) |
 [Fort Bend County](/northamerica/unitedstates/texas/houston/fortbendcounty)

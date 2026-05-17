@@ -1,4 +1,4 @@
-southamerica/peru/chachapoyas/tingo
+southamerica/peru/tingo
 africa/madagascar/toamasina
 europe/norway/tonsberg
 northamerica/unitedstates/arizona/tombstone

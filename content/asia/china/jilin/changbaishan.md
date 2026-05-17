@@ -8,6 +8,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Changbaishan_Nature_Reserve
 title: Changbaishan Nature Reserve
 type: location
+image: changbaishan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mount_Paektu5.jpg
+image_license: CC BY 2.0
+image_attribution: Mark Fahey from Sydney, Australia
 ---
 
 Changbaishan — the Long White Mountain — is the great natural spectacle of northeast China, and the reason many people come to Jilin Province at all. It is an ancient volcano whose eruptions shaped the landscape on a continental scale; the most recent catastrophic event, around 946 CE, was one of the largest eruptions in recorded history and left ash detectable as far away as Japan. What remains now is a nature reserve covering over 200,000 hectares and, at the summit, [Tianchi — Heaven Lake](/asia/china/jilin/changbaishan/tianchi_heaven_lake) — a volcanic crater lake sitting at 2,189 metres. The lake is large, deep, and in good weather a startling blue-green colour ringed by bare rocky peaks; it straddles the border with North Korea, half the water technically in the DPRK. The combination of altitude, remoteness, and the sheer improbability of the thing makes it one of the more memorable landscapes in China.

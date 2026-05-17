@@ -8,6 +8,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Tianshui
 title: Tianshui
 type: location
+image: tianshui.jpg
+image_source: https://commons.wikimedia.org/wiki/File:%E4%BC%8F%E7%BE%B2%E5%BA%99%E5%86%85_01.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Shizhao
 ---
 
 Tianshui is the second city of Gansu and, by the standards of Chinese provincial cities, an unusually atmospheric one — green, hilly, less industrial than much of the northwest, set in a valley where the Wei River begins. It is also, in Chinese mythology, the birthplace of Fuxi, the culture hero credited with inventing writing, music, and the eight trigrams of the I Ching. The [Fuxi Temple](/asia/china/gansu/tianshui/fuxi_temple) in the old quarter is an active site of veneration, its courtyard planted with old cypress trees.
